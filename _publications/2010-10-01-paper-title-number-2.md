@@ -2,14 +2,12 @@
 title: "Data Splitting and Partialling-Out using lasso"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'The script show how splitting the data step by step for R and Python, also we use partialling out with lasso to find the beta of the model'
 date: 2021-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+
+[R Script](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_3/Grupo4_Lab3_R.ipynb)<br>
+
+[Pyhton Script](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_3/Grupo4_Lab3_Python.ipynb)<br>
+
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
