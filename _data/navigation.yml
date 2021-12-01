@@ -15,8 +15,8 @@ main:
   - title: "YouTube Videos"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "Resume"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+    #url: /markdown/
