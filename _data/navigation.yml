@@ -5,9 +5,9 @@ main:
 
   - title: "CV"
     url: http://carlosgonzalez26.github.io/files/CV-Carlos-Gonzalez-Avila.pdf
-    
-  - #title: "CV"
-    #url: /talks/    
+
+  - title: "Machine Learning"
+    url: /talks/    
 
   - #title: "Teaching"
     #url: /teaching/    
