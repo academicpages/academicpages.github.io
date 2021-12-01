@@ -6,9 +6,8 @@ author_profile: true
 ---
 
 ## 2022
-* Anytime Multi-Agent Path Finding via Machine Learning-Guided Large Neighborhood Search.
-
-   **Taoan Huang**, Jiaoyang Li, Bistra Dilkina and Sven Koenig.    
+* Anytime Multi-Agent Path Finding via Machine Learning-Guided Large Neighborhood Search.                     
+    **Taoan Huang**, Jiaoyang Li, Bistra Dilkina and Sven Koenig.    
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, 2022.   
 
 ## 2021  
