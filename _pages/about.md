@@ -17,5 +17,5 @@ Jiwon studies discourses about political events at different levels of internati
 Jiwon has an interest in different models of collaborative research. Her passion for political science started when she was an exchange student in Hong Kong, during the Umbrella Movement in 2014. Jiwon received her B.A. in literature and linguistics from Sungkyunkwan University in the beautiful and traditional neighborhood of Jongno in Seoul, South Korea.
 
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/jongnocafe.png =80x20)
+![alt]({{ site.url }}{{ site.baseurl }}/images/jongnocafe.png =50x20)
 {: .full}
