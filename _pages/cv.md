@@ -9,11 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University
 
                    Rosemery Fernandez Sanchez
 Av. Huandoy - Los Olivos 15306
@@ -25,18 +22,18 @@ rosemery.fernandez@pucp.edu.pe
 Estudiante de la carrera de Economía, con interés en el área de Finanzas Corporativas. 
 Me siento con la capacidad de asumir un cargo profesional con el perfil de practicante para ampliar mis conocimientos y habilidades. 
 
-ESTUDIOS
+* ESTUDIOS
 
 03/2017 A la fecha	PONTIFICIA UNIVERSIDAD CATÓLICA DEL PERÚ	 
 Economía
 Alumno de 9no ciclo
 
-HABILIDADES
+* HABILIDADES
 
 Trabajo en equipo: Participé en el censo del 2017, realizado por el Instituto Nacional de Estadística e Informática, en el cual desarrollé tareas grupales de manera muy satisfactoria y amena. 
 Organización y trabajo bajo presión: Laboré en la primera y segunda vuelta de las elecciones del 2021 en la ONPE. Aquí pude potenciar mi nivel de organización y manejar situaciones bajo presión.
 
-EXPERIENCIA 
+* EXPERIENCIA 
  
 02/2021 – 05/2021      Trading S.A.C
 				                 Tesorería
@@ -46,7 +43,7 @@ EXPERIENCIA
 05/2021 – 06/2021        Coordinar de mesa 
 		
     
-IDIOMAS
+* IDIOMAS
 
 Inglés		Centro de idiomas católica-Intermedio
 
@@ -54,7 +51,7 @@ Inglés		Centro de idiomas católica-Intermedio
 CONOCIMIENTOS DE COMPUTACIÓN
 
 •	Excel Avanzado/VBA
-•	Microsoft Office intermedio 
+•	Microsoft Office Intermedio 
 •	Stata Eviews Matlab Intermedio 
 
 CURSOS Y SEMINARIOS 
@@ -63,9 +60,4 @@ CURSOS Y SEMINARIOS
 2020                          Taller de Data Science for Business: Introducción al Data Science  
 2021   		           Participación en Estudio del MINCETUR para la región APEC
 
-
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
