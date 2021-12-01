@@ -12,12 +12,12 @@ redirect_from:
 
 ======
 
-                   Rosemery Fernandez Sanchez
-Av. Huandoy - Los Olivos 15306
-Cel. 958268868
-DNI 70870096
-rosemery.fernandez@pucp.edu.pe
-23 años
+<Rosemery Fernandez Sanchez>  \
+<Av. Huandoy - Los Olivos 15306 \
+Cel. 958268868 \
+DNI 70870096 \
+rosemery.fernandez@pucp.edu.pe \
+23 años> \
 
 Estudiante de la carrera de Economía, con interés en el área de Finanzas Corporativas. 
 Me siento con la capacidad de asumir un cargo profesional con el perfil de practicante para ampliar mis conocimientos y habilidades. 
@@ -50,11 +50,11 @@ Inglés		Centro de idiomas católica-Intermedio
 
 CONOCIMIENTOS DE COMPUTACIÓN
 
-•	Excel Avanzado/VBA
-•	Microsoft Office Intermedio 
-•	Stata Eviews Matlab Intermedio 
+	Excel Avanzado/VBA //
+	Microsoft Office Intermedio //
+	Stata Eviews Matlab Intermedio //
 
-CURSOS Y SEMINARIOS 
+* CURSOS Y SEMINARIOS 
 
 2020		           Taller de Gestión de Integral de Riesgos en el Sistema Financiero 
 2020                          Taller de Data Science for Business: Introducción al Data Science  
