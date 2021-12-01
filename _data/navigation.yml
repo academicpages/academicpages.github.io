@@ -15,7 +15,7 @@ main:
   #title: "Blog Posts"
    # url: /year-archive/
     
-  title: "CV"
+  - title: "CV"
     url: /files/CV_Daniel_de_la_Peña.pdf/
     
   # title: "Guide"
