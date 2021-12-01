@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2021-spring
 venue: "Emory University, Department of Political Science"
-date: 2021-01-01
+date: 2021-01-10
 location: "Zoom"
 ---
 
