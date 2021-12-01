@@ -11,7 +11,7 @@ redirect_from:
 
 <br> 
 
-Click here for a [full CV](http://lilianyou.github.io/files/You_Cheng_CV_Nov_12_2021.pdf) (or a shorter [Resume](http://lilianyou.github.io/files/You_Cheng_Resume.pdf)).
+Click here for a [full CV](http://lilianyou.github.io/files/You_Cheng_CV_Nov_30_2021.pdf) (or a shorter [Resume](http://lilianyou.github.io/files/You_Cheng_Resume.pdf)).
 
 Education
 ======
@@ -40,6 +40,8 @@ Work experience
 Publications
 ======
 
+* Cheng, Y., & Chrastil, L. (2021, November 30). From Individual Cognitive Maps to a Collective Cognitive Map: Prescriptive Guidelines and Measurement of Factors that Could Distort the Mapping Process. https://doi.org/10.31234/osf.io/7ygk2 [[pdf](https://lilianyou.github.io/files/2021_collective_navigation_preprint_Cheng.pdf)]
+
 * Chrastil, E. R., <b>Cheng, Y.</b>.  Central Coordination and Integration of Diverse Information to Form a Single Map.  In R. D. Montello & K. M. Curtin (Eds.), Collective Spatial Cognition:  A Research Agenda.  Routledge (Taylor and Francis).  (in press)
 
 * 't Hart, B. M., Achakulvisut, T., Blohm, G., Kording, K., Peters, M. A. K., Akrami, A., … Hyafil, A. (2021, February 15). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. https://doi.org/10.31219/osf.io/9fp4v [[pdf](https://lilianyou.github.io/files/2021_neuromatch_preprint.pdf)]
@@ -54,6 +56,8 @@ Publications
 Select Conference Presentations 
 ======
 <b><big>Oral Presentations</big></b>
+
+* <b>Cheng, Y.</b>, Chrastil, E.R..  Sex Differences in Head Direction Signals When Learning a Complex Environment. Neuromatch 4.0, Flash Talk. Dec., 2021. [[video](https://www.youtube.com/watch?v=fgzp-sRqbmQ&t=12s)]
 
 * <b>Cheng, Y. </b>. Head Direction Signals in the Human Brain When Exploring in a Complex Environment, UCI Cognitive Sciences Colloquium Flash Talk.  Nov., 2021.
 
