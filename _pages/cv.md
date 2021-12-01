@@ -10,4 +10,5 @@ redirect_from:
 {% include base_path %}
 
 I have different versions of CVs for academia and industry.
+
 Please email me for my most recent CV.
