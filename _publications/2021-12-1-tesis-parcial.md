@@ -1,9 +1,9 @@
 ---
 title: "TESIS"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1.md
+permalink: /publication/2021-12-01-tesis-parcial.md
 excerpt: 'Impacto del TLC Perú-Unión Europea en las exportaciones de productos agropecuarios.'
-date: 2021-24-10
+date: 2021-12-01
 # venue: 'Journal 1'
 paperurl: 'http://carlosgonzalez26.github.io/files/tesis_parcial.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
