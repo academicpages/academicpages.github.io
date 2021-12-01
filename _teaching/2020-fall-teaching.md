@@ -2,7 +2,7 @@
 title: "Research Design And Methods"
 collection: teaching
 type: "Undergraduate course"
-permalink: /_teaching/2020-fall-teaching.md
+permalink: /teaching/2020-fall
 venue: "Emory University, Department of Political Science"
 date: 2020-01-01
 location: "Zoom"
