@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Portfolio"
-    url: /publications/
+    url: /portfolio/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Rosmery.pdf
     
   # - title: "Guide"
   #   url: /markdown/
