@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year student in Economics at the Pontificial Catholic University of Peru, PUCP. My interests are in the area of ​​finance.
+I am a final year student in Economics at the Pontificial Catholic University of Peru, PUCP. My interests are in the area of ​​finance. 
 
