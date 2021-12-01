@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Script Portafolio"
 permalink: /publications/
 author_profile: true
 ---
