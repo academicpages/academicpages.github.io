@@ -22,7 +22,7 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
 
 ## News
 * \[2021.12\] Our paper on ML-guided large neighborhood search for MAPF is accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
-* \[2021.11\] I am joining Facebook AI Research as a research intern next May.
+* \[2021.11\] I am joining [Facebook AI Research (FAIR)](https://ai.facebook.com/) as a research intern next May.
 * \[2021.08\] I finished my 3-month research internship at [Amazon Robotics](https://www.amazon.jobs/en/teams/amazon-robotics). 
 * \[2021.04\] Our team won the 7th place out of 50 teams and received a $1,000 prize in [Terminal Live (West Coast Regional)](https://terminal.c1games.com/competitions/237), which is a games-based AI & coding competition hosted by [Citadel LLC](https://www.citadel.com/) and [Citadel Securities](https://www.citadelsecurities.com/). 
 * \[2021.04\] I won a Second Prize of $500 at [the Thirteenth Annual Annenberg Graduate Fellowship Research and Creative Project Symposium](https://ahf.usc.edu/events/scymposium/). I will be presenting my work on "How and When to Follow Tips: Using Game Theory for Multi-Agent Communication and Coordination in Wildlife Conservation".
