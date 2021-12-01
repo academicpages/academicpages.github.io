@@ -1,5 +1,5 @@
 ---
-title: "Lab 3: RCT analysis"
+title: "RCT analysis"
 collection: publications
 permalink: /publication/2021-12-01-rct.analysis.md
 date: 2021-12-01

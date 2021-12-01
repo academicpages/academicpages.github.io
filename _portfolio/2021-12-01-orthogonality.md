@@ -1,5 +1,5 @@
 ---
-title: "Lab 4: Orthogonality"
+title: "Orthogonality"
 collection: publications
 permalink: /publication/2021-12-01-orthogonality.md
 date: 2021-12-01
