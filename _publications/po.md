@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 2"
 collection: publications
-permalink: /publication/po
+permalink: /research/po
 excerpt: ''
 date: 2021-12-10
 venue: 'Research Design under Review for Internal Grant'
