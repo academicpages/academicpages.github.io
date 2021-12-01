@@ -11,6 +11,7 @@ redirect_from:
 # *Zeel* B Patel
 
 ---
+[**Looking for a research internship Fall 2022**]
 
 I am a PhD student at <a style="text-decoration:none" href="https://www.iitgn.ac.in/">IIT Gandhinagar</a> advised by <a style="text-decoration:none" href="https://nipunbatra.github.io">Prof. Nipun Batra</a>. I mainly work on sustainability related problems (currently focused on air quality). My technical areas of interest are Gaussian Processes and their applications.
 
@@ -25,6 +26,9 @@ Updates
 <details open>
 <summary>2021</summary>
 <ul>
+  <li>
+    2 Dec - Our work got accepted at AAAI '22 titled "Accurate and Scalable Gaussian Processes for Fine-grained Air Quality Inference" - <a style="text-decoration:none" href="https://twitter.com/nipun_batra/status/1466000506136915969?s=20">A Twitter thread</a> 
+  </li>
   <li>
     13-16 Sep - Attended Gaussian process summer school 2021 virtually 
   </li>
