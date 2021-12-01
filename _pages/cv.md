@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+[Download paper here](http://Polymere.github.io/files/Acad_CV.pdf)
 {% include base_path %}
 
 Education
