@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Applied Statistic course: Machine Learning"
+excerpt: "This course is taught by MSc. Alexander Quispe at the Faculty of Social Sciences of the PUCP"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Applied Statistics workgroups
+
+[Here](https://github.com/alexander-pacheco/Applied-Statistic-course-Machine-Learning) you can find the scripts that I developed with Diego Goméz during the course. All of them were developed in Python and R.
+
+## Databases developed with the Layout Parser package
+
+[Here](https://github.com/alexander-pacheco/Layout_parser_ap) you will find my attempts to develop databases with the layout parser package.
