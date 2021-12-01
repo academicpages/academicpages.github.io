@@ -6,7 +6,7 @@ excerpt: 'This script shows how R y Python give a diferent result for multicolli
 date: 2021-10-01
 
 #paperurl: 'https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_3/Grupo4_Lab3_R.ipynb'
-
+---
 
 [R Script](https://github.com/alexanderquispe/ECO224/blob/main/Labs/replication_2/Grupo4_lab2_R.ipynb)<br>
 
