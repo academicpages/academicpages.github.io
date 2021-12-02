@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nick Ceccio"
+title                    : "Nick Ceccio's Homepage"
 title_separator          : "-"
 name                     : &name "Nick Ceccio"
 description              : &description "Computer Security PhD. Student"
