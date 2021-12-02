@@ -5,9 +5,8 @@ permalink: /research/po
 excerpt: 'Abstract'
 date: 2021-12-10
 venue: 'Research Design under Review for Internal Grant'
-paperurl: ''
 ---
 
-## Abstract
+#### Abstract
 
 [Research Design]()
