@@ -2,7 +2,7 @@
 title: "How to Pick a Mobile Robot Simulator: A Quantitative Comparison of CoppeliaSim, Gazebo, MORSE and Webots with a Focus on the Accuracy of Motion Simulations"
 collection: publications
 date: 2021-11-11
-venue: 'Submitted to Simulation Modelling Practice and Theory (Manuscript # SIMPAT-D-21-1068)'
+venue: 'Simulation Modelling Practice and Theory (Submission # SIMPAT-D-21-1068)'
 ---
 
 [[PDF]](https://jwangjie.github.io/publications/publications/simulator2021.pdf)
