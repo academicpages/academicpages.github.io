@@ -3,7 +3,7 @@ title: "The Interstate Shaming Events (ISE) Data: Who Shames Whose Human Rights 
 collection: publications
 permalink: /research/ise
 excerpt: ''
-date:
+date: 2021-01-01
 venue: 'Paper in Development'
 ---
 
