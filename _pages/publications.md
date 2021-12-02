@@ -137,10 +137,11 @@ author_profile: true
 107. H. Wu, X. Ma, and S. Liu, “Designing Multitask Convolutional Variational Autoencoder for Radio Tomographic Imaging,” *IEEE Trans. on Circuits and Systems–II: Express Briefs*, accepted May 2021.
 108. Z. Shi, Y. Wang, L. Liu, and X. Ma, “A Joint Sonar-Communication System Based on Multicarrier Waveforms,” *IEEE Signal Processing Letters*, accepted Aug. 2021. 
 
+109. M. S. Omar and X. Ma, “Pilot symbol aided channel estimation for OCDM transmissions,” *IEEE Communications Letters*, Accepted Npv. 2021. 
+110. R. Zhang, Y. Wang, and X. Ma, “Carrier frequency offset and channel estimation for OCDM communications,” *IEEE Wireless Communications Letters*, Accepted Dec. 2021.
+
 Submitted and under review
 
-109. M. S. Omar and X. Ma, “Pilot symbol aided channel estimation for OCDM transmissions,” *IEEE Communications Letters*, submitted Aug. 2021. 
-110. R. Zhang, Y. Wang, and X. Ma, “Carrier frequency offset and channel estimation for OCDM communications,” *IEEE Signal Processing Letters*, submitted Sept. 2021.\
 
 **Conference Publications**
 
