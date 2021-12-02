@@ -43,7 +43,7 @@
         {% elsif post.collection == 'publications' %}
           <p><i>{{ post.venue }}</i></p>
         {% elsif post.date %}
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "" }}</strong> <i>{{ post.venue }}</i></p>
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "" }}</strong> <time datetime="{{ post.date | default: "Paper in Development" | date_to_xmlschema }}">{{ post.date | default: "Paper in Development" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
