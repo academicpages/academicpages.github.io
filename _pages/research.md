@@ -8,8 +8,6 @@ author_profile: true
 ## Working Papers
 Teaching for large-scale Reproducibility Verification (with [Lars Vilhuber](https://www.vilhuber.com/lars/), Meredith Welch, [David Wasser](https://www.davidnwasser.com/), and Michael Darisse), *R&R at Journal of Statistics and Data Science Education*
 
-[Gold Mine Openings and Child Labor in Mali](http://hyukhson.github.io/files/gold_mine_child_labor.pdf), *Under Review*
-
 [Unpacking the Links between Conflict and Child Welfare: Evidence from a Foreign Insurgency](https://hicn.org/working-paper/unpacking-the-links-between-conflict-and-child-welfare-evidence-from-a-foreign-insurgency/) (with [Heidi Kaila](https://sites.google.com/view/heidikaila/home) and Larissa Nawo), *Under Review*
 
 [Gold Mine Openings and Child Labor in Mali](http://hyukhson.github.io/files/gold_mine_child_labor.pdf), *Under Review*
