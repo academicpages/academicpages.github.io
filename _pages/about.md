@@ -14,3 +14,6 @@ I am a PhD student at CREST, under the supervision of [Vianney Perchet](https://
 Before that I got an engineering degree from Ecole Polytechnique and graduated the master MVA (Machine Learning and Computer Vision) from ENS Paris-Saclay. 
 
 ------
+
+
+[Download CV here](/files/CV_flore_sentenac.pdf)
