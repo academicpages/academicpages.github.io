@@ -19,5 +19,6 @@ author_profile: true
 
 ## Works in Progress
 
-__Scale of Truth: How Ideology Affects What NGO Tweets about What Is Happening in Gaza (with Marcella Morris, Adee Weller, and Kam Williams)__
-_Received seed grant from Computational Social Science Datathon, 2021_
+**Scale of Truth: How Ideology Affects What NGO Tweets about What Is Happening in Gaza** (with Marcella Morris, Adee Weller, and Kam Williams)
+  
+  _Received seed grant from [Computational Social Science Datathon](https://sites.google.com/view/css-workshop-datathon), 2021_
