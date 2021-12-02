@@ -4,7 +4,7 @@ collection: publications
 permalink: /research/po
 excerpt: ''
 date: 2021-02-10
-venue: 'Paper in Development, research design is under review for internal grant'
+venue: 'Research design is under review for internal grant'
 ---
 
 #### Abstract
