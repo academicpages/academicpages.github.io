@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-I have different versions of CVs for academia and industry.
-
-Please email me for my most recent CV.
+[Link](https://www.dropbox.com/s/mjov0dgs7ttv0dx/CV_Kim_website.pdf?dl=0)
