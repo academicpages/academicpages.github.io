@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "A Right Worth Fighting For? How Target Country, Type of Abuse, And Victim Profile Shape American Support for Human Rights Shaming"
 collection: publications
 permalink: /research/po
-excerpt: ''
+excerpt: 'Abstract'
 date: 2021-12-10
 venue: 'Research Design under Review for Internal Grant'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: ''
 ---
 
 ##Abstract
 
-[Research Design](http://academicpages.github.io/files/paper2.pdf)
+[Research Design]()
