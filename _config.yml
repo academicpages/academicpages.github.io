@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nick Ceccio"
 title_separator          : "-"
 name                     : &name "Nick Ceccio"
-description              : &description "personal description"
+description              : &description "Computer Security PhD. Student"
 url                      : https://ceccion.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ceccion/ceccion.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : 
+  name             : "Nick Ceccio"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Madison, Wisconsin"
