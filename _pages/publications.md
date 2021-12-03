@@ -8,14 +8,6 @@ author_profile: true
     
 ## Journal Articles
 
-+ **Sun, Y.**, Tian, K., Perotte, A., Kim, J., Liu, H., Turfah, A. and Weng, C., "EvidenceBase: A Natural Language Search Engine for Medical Evidence Curation". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2021. (in submission) 
-
-+ Lee, J., Chen, Z., **Sun, Y.**, Kim, J., Rogers, J., Liu, C. and Weng, C., " Deep Learning for Rare Disease: Scoping Review with Methodological Focus". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2021. (in submission)  
-
-+ Fang, Y., **Sun, Y.**, Liu, H. and Weng, C., "Improving the Automatic Process of Cohort Definition Generation by Human-computer Collaboration". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2021. (in submission) 
-
-+ Tian, K., Perotte, A., **Sun, Y.**, Kim, J., Liu, H., Turfah, A. and Weng, C., "EvidenceMap: A Multi-Level Representation for Medical Evidence Extraction and Synthesis". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2021. (in submission)  
-
 + Kim, J., Butler, A., Ta, C., **Sun, Y.**, Maurer, M. and Weng, C., "The Potential Role of EHR data in optimizing eligibility criteria definition for cardiovascular outcome trials". **_International Journal of Medical Informatics_**, 2021. [pdf](https://www.sciencedirect.com/science/article/pii/S1386505621002136)
 
 + **Sun, Y.**, Butler, A., Diallo, I., Kim, J., Ta, C., Rogers, J., Liu, H. and Weng, C., "A Framework for Systematic Assessment of Clinical Trial Population Representativeness Using Electronic Health Records Data". **_Applied Clinical Informatics Journal_** , 2021. [pdf](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0041-1733846)
@@ -78,6 +70,16 @@ author_profile: true
 + Li, Q. and **Sun, Y.**, "An agent based intelligent meta search engine". In **_2012 4th International Conference on Web Information Systems and Mining (WISM)_** (pp. 572-579). Springer. 2012, October. 
 
 + Li, Q., Zou, Y. and **Sun, Y.**, "Ontology based user personalization mechanism in meta search engine". In **_2nd International Conference on Uncertainty Reasoning and Knowledge Engineering_** (pp. 230-234). IEEE. 2012, August.    
+
+## Papers in Submission
+
++ **Sun, Y.**, Tian, K., Perotte, A., Kim, J., Liu, H., Turfah, A. and Weng, C., "EvidenceBase: A Natural Language Search Engine for Medical Evidence Curation". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2021. (in submission) 
+
++ Lee, J., Chen, Z., **Sun, Y.**, Kim, J., Rogers, J., Liu, C. and Weng, C., " Deep Learning for Rare Disease: Scoping Review with Methodological Focus". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2021. (in submission)  
+
++ Fang, Y., **Sun, Y.**, Liu, H. and Weng, C., "Improving the Automatic Process of Cohort Definition Generation by Human-computer Collaboration". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2021. (in submission) 
+
++ Tian, K., Perotte, A., **Sun, Y.**, Kim, J., Liu, H., Turfah, A. and Weng, C., "EvidenceMap: A Multi-Level Representation for Medical Evidence Extraction and Synthesis". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2021. (in submission)  
 
 
 ## Patents
