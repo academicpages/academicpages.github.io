@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# *Zeel* B Patel
+# <span style="text-decoration:underline">Zeel</span> B Patel
 
 ---
 [**Looking for a research internship, Summer 2022**]
