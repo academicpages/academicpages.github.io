@@ -42,7 +42,7 @@ author_profile: true
 
 + Li,X., Liu, H., Kury, F., Yuan, C., Butler, A., **Sun, Y.**, Ostropolets,A., Xu, H., Weng C., "Comparison between Human and NLP-based Annotation of Clinical Trial Eligibility Criteria Text Using The OMOP Common Data Model" In **_American Medical Informatics Association 2020 Annual Symposium (AMIA) Virtual Summit_**, 2021
 
-+ Liu, H., Yuan, C., Butler, A., **Sun, Y.** and Weng, C., "Criteria2Query 2.0: An Editable User Interface for Human-Machine Collaboration in Cohort Definition". In **_Observational Health Data Sciences & Informatics (OHDSI) Software Showcase_**. 2021, December. [video](https://www.youtube.com/watch?v=gSRaPYC_NyY)
++ Fang, Y., **Sun, Y.**, Liu, H., Chen Z. and Weng, C., "Criteria2Query 2.0: An Editable User Interface for Human-Machine Collaboration in Cohort Definition". In **_Observational Health Data Sciences & Informatics (OHDSI) Software Showcase_**. 2021, August. [video](https://www.youtube.com/watch?v=gSRaPYC_NyY)
 
 + **Sun, Y.**, Kolacinski, R. and Loparo, K., ”Eliminating search intent bias in learning to rank“. In **_IEEE 14th International Conference on Semantic Computing (ICSC)_** (pp. 108-115). IEEE, 2020, February. <span style="color:red">(Best Paper Candidiate)</span>
     
