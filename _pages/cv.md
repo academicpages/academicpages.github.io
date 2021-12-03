@@ -7,4 +7,5 @@ redirect_from:
   - /resume
 ---
 
-[pdf version](https://hyukhson.github.io/files/CV_Hyuk_Son.pdf)
+
+<object data="{{ site.url }}{{ site.baseurl }}/files/CV_Hyuk_Son.pdf" width="1000" height="1000" type="application/pdf"></object>
