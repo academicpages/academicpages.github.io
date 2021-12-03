@@ -8,11 +8,11 @@ author_profile: true
     
 ## Journal Articles
 
-+ Kim, J., Butler, A., Ta, C., **Sun, Y.**, Maurer, M. and Weng, C., "The Potential Role of EHR data in optimizing eligibility criteria definition for cardiovascular outcome trials". **_International Journal of Medical Informatics_**, 2021. [pdf](https://www.sciencedirect.com/science/article/pii/S1386505621002136)
-
 + **Sun, Y.**, Butler, A., Diallo, I., Kim, J., Ta, C., Rogers, J., Liu, H. and Weng, C., "A Framework for Systematic Assessment of Clinical Trial Population Representativeness Using Electronic Health Records Data". **_Applied Clinical Informatics Journal_** , 2021. [pdf](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0041-1733846)
 
 + **Sun, Y.**, Butler, A., Stewart, S.A., Liu, H., Yuan, C., Southard, C.T., Kim, J. and Weng, C., "Buliding An OMOP Common Data Model-Compliant Annotated Corpus for COVID-19 Clinical Trials". **_Journal of Biomedical Informatics(JBI)_**, 2021. [code](https://github.com/WengLab-InformaticsResearch/COVID19-Structured_Trials)
+
++ Kim, J., Butler, A., Ta, C., **Sun, Y.**, Maurer, M. and Weng, C., "The Potential Role of EHR data in optimizing eligibility criteria definition for cardiovascular outcome trials". **_International Journal of Medical Informatics_**, 2021. [pdf](https://www.sciencedirect.com/science/article/pii/S1386505621002136)
 
 + Liu, H., Yuan, C., Butler, A., **Sun, Y.** and Weng, C., "A Knowledge Base of Clinical Trial Eligibility Criteria". **_Journal of Biomedical Informatics(JBI)_**, p.103771, 2021. [pdf](https://yingchengsun.github.io/academic/files/CTKB.pdf) [website](http://www.ctkb.io) [video](https://www.ohdsi.org/2020-global-symposium-showcase-70/)
 
