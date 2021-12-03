@@ -12,6 +12,9 @@ author_profile: true
 <summary>2021</summary>
 <ul>
   <li>
+    Accurate and Scalable Gaussian Processes for Fine-grained Air Quality Inference, AAAI '22,
+  </li>
+  <li>
     Towards Active Air Quality Station Deployment, SubSetML Workshop, ICML'21, 
     <a style="text-decoration:none" 
        href="https://github.com/patel-zeel/patel-zeel.github.io/blob/master/_publications/papers/SubSetML21.pdf">[<b>PDF</b>]
