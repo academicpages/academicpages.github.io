@@ -11,7 +11,7 @@ redirect_from:
 # *Zeel* B Patel
 
 ---
-[**Currently looking for a research internship**]
+[**Looking for a research internship, Summer 2022**]
 
 I am a PhD student at <a style="text-decoration:none" href="https://www.iitgn.ac.in/">IIT Gandhinagar</a> advised by <a style="text-decoration:none" href="https://nipunbatra.github.io">Prof. Nipun Batra</a>. I mainly work on sustainability related problems (currently focused on air quality). My technical areas of interest are Gaussian Processes and their applications.
 
