@@ -26,6 +26,7 @@ Bibliografia
 4. Coddington, E. A., An Introduction to Ordinary Differential Equations, Dover, 1961.
 5. de Figueiredo, D. G, Neves, A. F., Equações Diferenciais Aplicadas, Coleção Matemática Universitária, IMPA, 2007.
 6. Kreider, D. et all, Introdução à Análise Linear, Volume 1, Ao Livro Técnico S/A, 1972.
+7. Kreider, Kuller, Ostberg, Equações Direfenciais, Edgar Blucher, 1972.
 7. Machado, K. D., Equações Dferenciais Aplicadas à Física, Editora UEPG, 3a Edição, 2004. 
 8. de Oliveira, E. C., Tygel, M., Métodos Matemáticos para Engenharia, Textos Universitários, SBM, 2010.
 9. Zill, D. G., Equações Diferenciais com Aplicações em Modelagem, Thomson, 2003.
