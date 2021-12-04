@@ -1,6 +1,6 @@
 ---
 title: 'Overview of Database Modeling'
-date: 2021-12-04
+date: 2021-12-03
 permalink: /posts/2021/12/data-modeling/
 tags:
   - RDBMS
@@ -26,7 +26,7 @@ In the concept phase, the ERD maps those highest-level relationships. Then in lo
 tables, schemas, and columns are defined. More details are specified. Lastly, physical modeling is where
 the logical model is translated into the DDL (Data Definition Language), so that the database can be constructed.
 
-Characteristics of a Data Model
+Characteristics of a Data Modeling Process
 ------
 
 Iterative: It is not a one-and-done process. One may return to the model repeatedly to tweak it as needed.
@@ -41,23 +41,15 @@ There are many scenarios in which the relational database model will be the righ
 Advantages of Using a Relational Database
 ------
 
-Flexibility for writing in SQL queries
+* Flexibility for writing in SQL queries
 
-Smaller data volumes: If you have a smaller data volume (and not big data) you can use a relational database for its simplicity.
+* Smaller data volumes: If you have a smaller data volume (and not big data) you can use a relational database for its simplicity.
 
-Ability to do JOINS, aggregations and analytics in SQL
+* Ability to do JOINS, aggregations and analytics in SQL
 
-Secondary Indexes availability: adding another index can help with faster search performance.
+* Secondary Indexes availability: adding another index can help with faster search performance.
 
-**ACID** Transactions: an RDBMS will allow you to meet a set of properties of database transactions intended to safeguard against errors and failures, maintaining data integrity and validity. ACID in a few quick sentences:
-
-* Atomicity: either the whole transaction is processed or none of it at all.
-
-* Consistency: If the transaction does not adhere to constraints and rules written into the database, then the previous state will be kept. The data must be correct across all rows and tables.
-
-* Isolation: Transactions are processed independently, securely, and without regard to transaction order. There is a trade-off between low and high levels of isolation.
-
-* Durability: transactions are saved to a database once they're committed, even in the event of a system failure.
+* **ACID** Transactions: an RDBMS will allow you to meet a set of properties of database transactions intended to safeguard against errors and failures, maintaining data integrity and validity. (I explain ACID later.)
 
 Non-Relational (NoSQL) Database Modeling
 ======
