@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Cornell Database Group"
 title_separator          : "-"
-name                     : &name "Cornell Database Group"
+name                     : &name "Cornell DB Group"
 description              : &description "This is the homepage of the Cornell Database Group."
 url                      : https://itrummer.github.io/dbgrouphp # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
