@@ -13,4 +13,4 @@ I completed my undergraduate degree in Computer Science at the Univeristy of Mic
 
 My research interests lie broadly in the field of computer security, with focuses on system security, network security, and human-computer interaction relating to security.
 
-If you want to reach out to me, feel free to [send me an email](ceccio@wisc.edu).
+If you want to reach out to me, feel free to [send me an email](mailto:ceccio@wisc.edu).
