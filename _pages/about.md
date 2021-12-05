@@ -22,7 +22,7 @@ If you need CSS-related talks or workshops, please feel free to contact me direc
 [Click Here to See Data Visualization on Segregation for the AJS Article](https://yongjunzhang.shinyapps.io/schsegapp/).
 
 ## Upcoming Talks
-Yongjun Zhang. Dec 2021. "Computational Social Science: It Recent Development, Opportunities, and Challenges." Peking University [[Poster]](https://yongjunzhang.com/images/pkutalk.png).
+Yongjun Zhang. Dec 2021. "Computational Social Science: Its Recent Development, Opportunities, and Challenges." Peking University [[Poster]](https://yongjunzhang.com/images/pkutalk.png).
 
 Yongjun Zhang. Oct 2021. ["Residential Segregation in U.S. Metro Areas: Using Facebook and Safegraph Data to Assess Racial Segregation."](https://arts-sciences.buffalo.edu/sociology/news-events/colloquium.html) Department of Sociology, SUNY Buffalo [[Poster]](https://yongjunzhang.com/files/ub.pdf).
 
