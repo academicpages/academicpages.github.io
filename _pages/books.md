@@ -22,5 +22,10 @@ author_profile: true
        href="https://observablehq.com/@patel-zeel/roulette">Can you create a strategy to make profit in a long run in Roulette?
     </a>
   </li>
+  <li>
+    <a style="text-decoration:none" 
+       href="https://github.com/patel-zeel/blog/blob/master/_posts/BLR___GP.pdf">Bayesian linear regression is Gaussian process with linear kernel
+    </a>
+  </li>
 </ul>
 </details>

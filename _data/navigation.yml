@@ -18,10 +18,10 @@ main:
   - title: "CV"
     url: /_pages/CV.pdf
   
-  - title: "Slides"
-    url: /slides/
+  # - title: "Slides"
+    # url: /slides/
     
-  - title: "Web records"
+  - title: "Articles"
     url: /books/
     
   #- title: "Guide"
