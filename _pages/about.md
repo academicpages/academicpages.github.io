@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nick Ceccio"
+title: "Profile"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
