@@ -10,4 +10,4 @@ location: "Madison, Wisconsin"
 
 Worked under Prof. [Rahul Chatterjee](https://pages.cs.wisc.edu/~chatterjee/) as a teching assistant for his class Introduction to Information Security.
 
-I assisted in both creating and grading assignments and exams, proctored in-person and online exams, and frequently interacted with students during regular in-person office hours as well as online using the Piazza classroom messaging board.
+Assisted in both creating and grading assignments and exams, proctored in-person and online exams, and frequently interacted with students during regular in-person office hours as well as online using the Piazza classroom messaging board.
