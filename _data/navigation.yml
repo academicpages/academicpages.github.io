@@ -12,8 +12,8 @@ main:
   - title: "Portfolio"
     url: /portfolio/
 
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Data Engineering"
+    url: /data-engineering/
 
   - title: "CV"
     url: /cv/
