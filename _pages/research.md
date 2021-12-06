@@ -12,6 +12,10 @@ permalink: /research/
 Peter Hase, Mona Diab, Asli Celikyilmaz, Xian Li, Zornitsa Kozareva, Veselin Stoyanov, Mohit Bansal, Srinivasan Iyer  
 *Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2111.13654.pdf) [[code]](https://github.com/peterbhase/SLAG-Belief-Updating)
 
+**Low-Cost Algorithmic Recourse for Users With Uncertain Cost Functions**  
+Prateek Yadav, Peter Hase, Mohit Bansal  
+*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2111.01235.pdf) [[code]](https://github.com/prateeky2806/EMC-COLS-recourse)  
+
 **The Out-of-Distribution Problem in Explainability and Search Methods for Feature Importance Explanations**  
 Peter Hase, Harry Xie, Mohit Bansal  
 *NeurIPS 2021.* [[pdf]](https://arxiv.org/pdf/2106.00786.pdf) [[code]](https://github.com/peterbhase/ExplanationSearch)  
