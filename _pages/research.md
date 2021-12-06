@@ -10,9 +10,10 @@ redirect_from:
 ## A computational account of topography in the occipitotemporal cortex: 
 Collaborators: [Talia Konkle](http://konklab.fas.harvard.edu/)
 
+Here's a [talk](https://www.youtube.com/watch?v=zZvrIuoxU6Y) on this project, presented at the Vision Sciences Society 2021 Conference
+
 * Doshi, F., & Konkle, T. (2021). *Organizational motifs of cortical responses to objects emerge in topographic projections of deep neural networks*. Journal of Vision, 21(9), 2226-2226. [link](https://jov.arvojournals.org/article.aspx?articleid=2777459)
 
-Here's a [talk](https://www.youtube.com/watch?v=zZvrIuoxU6Y) on this project, presented at the Vision Sciences Society 2021 Conference
 <img src="https://feziodoshi.github.io/images/topography_0.png" alt="drawing" style="width:100%;"/>
 <img src="https://feziodoshi.github.io/images/topography_1.png" alt="drawing"/>
 
