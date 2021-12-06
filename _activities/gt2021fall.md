@@ -21,7 +21,7 @@ author_profile: false
 | Th, Nov 18, 2021 | 1:30pm - 2:30pm | Ke Zhu | Thick-thin decomposition of Floer trajectories and adiabatic gluing |  [https://umn.zoom.us/j/9735843950](https://umn.zoom.us/j/9735843950)
 | Th, Nov 25, 2021 | 1:30pm - 2:30pm | Thanksgiving  |  |  
 | Th, Dec 2, 2021 | 1:30pm - 2:30pm | Guangbo Xu | Closed and open string theories of gauged linear sigma model |  [https://umn.zoom.us/j/9735843950](https://umn.zoom.us/j/9735843950)
-| Th, Dec 9, 2021 | 1:30pm - 2:30pm | Yongjia Zhang |  |  
+| Th, Dec 9, 2021 | 1:30pm - 2:30pm | Yongjia Zhang | Bamler’s new entropy techniques for the Ricci flow and their applications |  [https://umn.zoom.us/j/9735843950](https://umn.zoom.us/j/9735843950)
 | Tu, Dec 14, 2021 | 1:30pm - 2:30pm | Andrew Sageman-Furnas | |
 | Th, Dec 16, 2021 | 1:30pm - 2:30pm | Josef Dorfmeister |  |  
 
@@ -53,3 +53,7 @@ author_profile: false
   
 * Guangbo Xu
   * Gauged linear sigma model (GLSM) is a physical theory introduced by Witten which has played significant roles in the study of symplectic geometry and mirror symmetry. In this talk I will present the progress on the mathematical theory of GLSM in both the closed string and the open string case. In the closed string case, joint with Gang Tian, we have constructed a set of Gromov-Witten type invariants for GLSM spaces satisfying the "geometric phase" condition and proved that they satisfy similar axioms as Gromov-Witten invariants. These invariants are the symplectic counterpart of the quasimap invariants of Ciocan-Fontanie-Kim and the GLSM invariants of Fan-Jarvis-Ruan. In forthcoming works we will also show a relation between GLSM invariants and Gromov-Witten invariants. In the open string case, joint with Chris Woodward, we have constructed an A_\infty morphism between an equivariant Fukaya algebra and a bulk deformed Fukaya algebra of a Lagrangian brane in a GIT quotient. The applications include an easier criterion for weak unobstructedness of Lagrangians and an enumerative interpretation between the Lagrangian Floer disk potentials and the Hori-Vafa type superpotentials. 
+
+* Yongjia Zhang
+  * I will introduce Bamler’s recent works on the entropy of the Ricci flow. His results show how Nash entropy is involved with local geometry. My coauthors and I have applied his method to various geometric problems and obtained several results. These results include:
+(1) characterization of a Ricci flow with a closed finite-time singularity model, (2) a local Sobolev inequality on Ricci flow, (3) an optimal volume growth estimate for noncollapsed steady Ricci solitons. The new results presented in this talk are joint works with Richard H. Bamler, Pak-Yeung Chan, and Zilu Ma.
