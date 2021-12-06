@@ -10,6 +10,7 @@ redirect_from:
 ## A computational account of topography in the occipitotemporal cortex: 
 Collaborators: [Talia Konkle](http://konklab.fas.harvard.edu/)
 
+* Doshi, F., & Konkle, T. (2021). *Organizational motifs of cortical responses to objects emerge in topographic projections of deep neural networks*. Journal of Vision, 21(9), 2226-2226. [link](https://jov.arvojournals.org/article.aspx?articleid=2777459)
 
 Here's a [talk](https://www.youtube.com/watch?v=zZvrIuoxU6Y) on this project, presented at the Vision Sciences Society 2021 Conference
 <img src="https://feziodoshi.github.io/images/topography_0.png" alt="drawing" style="width:100%;"/>
@@ -28,7 +29,7 @@ Collaborators: [Colin Conwell](https://colinconwell.github.io) and [George Alvar
 ## What representations explain capacity limits in visual working memory?
 Collaborators: [Hrag Pailian](https://www.hragpailian.com) and [George Alvarez](https://scorsese.wjh.harvard.edu/George/)
 
-* Doshi, F., Pailian, H.,  Alvarez, G.A.(2020). *Using Deep Convolutional Neural Networks to Examine the Role of Representational Similarity in Visual Working Memory.* In Vision Science Society, 2020. [link](https://jov.arvojournals.org/article.aspx?articleid=2771225)
+* Doshi, F., Pailian, H., & Alvarez, G. A. (2020). *Using Deep Convolutional Neural Networks to Examine the Role of Representational Similarity in Visual Working Memory*. Journal of Vision, 20(11), 149-149.[link](https://jov.arvojournals.org/article.aspx?articleid=2771225)
 
 {% include youtubePlayer.html id="TLvh2EuWP4s" description="Poster Presentation at VSS, 2020" %}
 Also check out Hrag's talk [here](https://www.youtube.com/watch?v=WYJMv55Z8-0&feature=emb_logo)!
