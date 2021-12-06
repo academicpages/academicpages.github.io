@@ -43,5 +43,5 @@ Datas das Provas
 
 Listas de Exercícios
 ======
-* Lista 01
-* Lista 02
+* [Lista 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/ListaEDO_01.pdf)
+
