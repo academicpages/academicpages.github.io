@@ -30,6 +30,8 @@ Bibliografia
 
 * Lima, E. L., Carvalho, P. C. P., Wagner, E., Morgado, A. C., A Matemática no Ensino Médio, Volume 1, Coleção do Professor de Matemática, SBM, 2006.
 
+* Lima, E. L., Meu Professor de Matemática e outras histórias, Coleção do Professor de Matemática, SBM, 2011.
+
 Plano de Curso
 ======
 Disponível no sistema SAGRES.
