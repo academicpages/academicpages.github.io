@@ -22,6 +22,12 @@ Bibliografia
 ======
 * do Carmo, M. P., Morgado, A. C., Wagner, E., Trigonometria e Números Complexos, Coleção do Professor de Matemática, SBM, 1992.
 
+* Iezzi, G., Murakami, C., Fundamentos de Matemática Elementar: Conjuntos e Funções, Vol. 1, Editora Atual, 2000.
+
+* Iezzi, G., Dolce, O., Murakami, C., Fundamentos de Matemática Elementar: Logaritmos, Vol. 2, Editora Atual, 1995.
+
+* Iezzi, G., Fundamentos de Matemática Elementar: Trigonometria, Vol 3, Editora Atual, 1977.
+
 * Lima, E. L., Carvalho, P. C. P., Wagner, E., Morgado, A. C., A Matemática no Ensino Médio, Volume 1, Coleção do Professor de Matemática, SBM, 2006.
 
 Plano de Curso
