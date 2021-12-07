@@ -5,7 +5,7 @@ date: 2021-12-02
 venue: 'IEEE/ASME Transactions on Mechatronics'
 ---
 
-[[Paper]](https://jwangjie.github.io/publications/publications/GP-FBLMPC2021.pdf)
+Finalizing for a submission.
 [[Video]](https://youtu.be/BhD-sUd2qAI)
 
 ## Abstract
