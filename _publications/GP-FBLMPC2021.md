@@ -6,6 +6,7 @@ venue: 'IEEE/ASME Transactions on Mechatronics'
 ---
 
 Finalizing for a submission.
+
 [[Video]](https://youtu.be/BhD-sUd2qAI)
 
 ## Abstract
