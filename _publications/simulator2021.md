@@ -5,7 +5,8 @@ date: 2021-11-11
 venue: 'Simulation Modelling Practice and Theory (Submission # SIMPAT-D-21-1068)'
 ---
 
-[[PDF]](https://jwangjie.github.io/publications/publications/simulator2021.pdf)
+Submitted to Simulation Modelling Practice and Theory with Manuscript # SIMPAT-D-21-1068.
+
 [[Implementation]](https://github.com/offroad-robotics/Robot-Simulator-Comparison)
 
 ## Abstract
