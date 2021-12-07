@@ -2,7 +2,7 @@
 title: "Learning-Based Model Predictive Control for Improved Mobile Robot Path Following using Gaussian Processes and Feedback Linearization"
 collection: publications
 date: 2021-12-02
-venue: 'IEEE/ASME Transactions on Mechatronics'
+venue: 'xxx'
 ---
 
 Finalizing for a submission.
