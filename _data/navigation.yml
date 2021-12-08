@@ -6,6 +6,8 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Data"
+    url: /data/
  
   - title: "Teaching"
     url: /teaching/    
@@ -15,4 +17,4 @@ main:
     url: /cv/
     
   - title: "Contact"
-    url: /sitemap/
+    url: /contact/
