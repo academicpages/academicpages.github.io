@@ -88,7 +88,7 @@ Publications
 Teaching and Tutoring Experience
 ======
 
-* AJ TutoringAJ Tutoring
+* AJ Tutoring
 Aug 2015 - Dec 2015 
 221 North San Mateo Drive
   * Tutored high school and college students in Algebra I, II, Pre-Calculus, Geometry and Calculus.
