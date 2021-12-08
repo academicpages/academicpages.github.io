@@ -10,7 +10,7 @@ tags:
   - OLTP
 ---
 
-Relational Database Modeling in PostgreSQL
+To model relational data, let's go over the advantages of an RDMBS, the terms OLAP and OLTP, the Star Schema, and PostgreSQL, a very handy dialect to accomplish this modeling...
 
 The Many Advantages of a Relational Database
 ------
@@ -59,7 +59,7 @@ forming a star shaped schema that one can visualize.
 This is the conceptual arrangement; the physical modeling (DDL) of these tables do not change.
 The fact table contains transactional data, normally just numbers.
 
-A dimension table categorizes the facts and measures to answer business questions. 
+A dimension table categorizes the facts and measures to answer business questions.
 Dimension tables contain people, products, places and times.
 
 PostgreSQL RDMBS

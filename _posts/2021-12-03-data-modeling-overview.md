@@ -9,7 +9,7 @@ tags:
   - NoSQL
 ---
 
-Data Modeling: Relational and Non-Relational Databases
+Data Engineering will involve modeling relational and non-relational data. These tasks require a very particular conceptual understanding of these two forms. As an overview, here are some notes on what it may involve...
 
 What Data Modeling is about
 ======
