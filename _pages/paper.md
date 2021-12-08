@@ -5,7 +5,7 @@ permalink: /paper/
 author_profile: true
 ---
 
-Monday, December 6th:
+Monday, December 13th:
 
 [Zoe Xincheng Ge](https://wp.nyu.edu/zoege/) (NYU), presents:
 
