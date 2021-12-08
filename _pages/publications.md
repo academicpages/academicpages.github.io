@@ -9,10 +9,10 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## Data Project
+## Data
 {% include base_path %}
 
-{% for post in site.portfolio %}
+{% for post in site.data %}
   {% include archive-single.html %}
 {% endfor %}
 
