@@ -3,7 +3,6 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
-<br>
 <b>[Pseudo-Spherical Contrastive Divergence](http://lantaoyu.com/publications/PSCD)</b> <br> 
 <b>Lantao Yu</b>, Jiaming Song, Yang Song, Stefano Ermon.
 <i>The 35th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2021</b>.
