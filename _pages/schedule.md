@@ -33,7 +33,7 @@ Meetings are scheduled on Mondays at noon US eastern time, unless otherwise note
 <br />
 *Moderator:* Susan Kurdli (Nanyang Technological University, Singapore).
 
-**November 1:** Cancelled
+**November 1:** Cancelled.
 
 **November 8: Lukas Wellner (Goettingen), "*The Power of International Bureaucrats: Individual-level Evidence from IMF Mission Chiefs.*"**
 <br />
