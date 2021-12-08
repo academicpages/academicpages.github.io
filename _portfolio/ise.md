@@ -10,11 +10,11 @@ collection: portfolio
 <br/><img src='/images/500x300.png'>
 
 ### Current Members
-* Jiwon Kim (Principal Investigator)
-* Undergraduate 1 (Research Assistant)
-* Undergraduate 2 (Research Assistant)
+* Jiwon Kim (PI)
+* Undergraduate 1 
+* Undergraduate 2 
 
-### Former Research Assistants
+### Former Members
 * Sarah Qadir (2020 Fall)
 * Joanne Choi (2021 Spring)
 * Sandy Gonzalez (2021 Spring) 
