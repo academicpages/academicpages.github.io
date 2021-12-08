@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ## ISE
-> entry
+> Logo
 <br/><img src='/images/500x300.png'>
 
 ## Crews
