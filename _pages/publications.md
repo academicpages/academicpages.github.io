@@ -3,6 +3,7 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citat
 permalink: /publications/
 author_profile: true
 ---
+<br>
 <b>[Pseudo-Spherical Contrastive Divergence](http://lantaoyu.com/publications/PSCD)</b> <br> 
 <b>Lantao Yu</b>, Jiaming Song, Yang Song, Stefano Ermon.
 <i>The 35th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2021</b>.
@@ -80,6 +81,7 @@ Xuejian Wang<b>\*</b>, <b>Lantao Yu</b><b>\*</b> (equal contribution), Kan Ren, 
 <i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>.
 
 # Manuscripts
+<br>
 <b>[A Unified Framework for Multi-distribution Density Ratio Estimation](http://lantaoyu.com/publications/MultiDRE)</b> <br>
 <b>Lantao Yu</b>, Yujia Jin, Stefano Ermon.
 <i>Preprint. arXiv:2112.03440</i>
