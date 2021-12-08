@@ -12,7 +12,7 @@ author_profile: true
 ## Data
 {% include base_path %}
 
-{% for post in site.data %}
+{% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
 
