@@ -80,6 +80,7 @@ Xuejian Wang<b>\*</b>, <b>Lantao Yu</b><b>\*</b> (equal contribution), Kan Ren, 
 <b>Lantao Yu</b>, Weinan Zhang, Jun Wang, and Yong Yu.
 <i>The 31st AAAI conference on Artificial Intelligence</i>. <b>AAAI 2017</b>.
 
+<br>
 # Manuscripts
 <br>
 <b>[A Unified Framework for Multi-distribution Density Ratio Estimation](http://lantaoyu.com/publications/MultiDRE)</b> <br>
