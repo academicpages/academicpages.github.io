@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Jiwon ("g-1") Kim is a doctoral student at Emory University's Political Science Department. She also codes for the [Political Terror Scale (PTS)](https://www.politicalterrorscale.org/), works with [the Oppression-Resistance Lab](http://emilykgade.com/or-lab) at Emory, and leads [the Interstate Shaming Events (ISE) data project](/data/ise), which is a part of her dissertation work.
+Jiwon ("g-1") Kim is a doctoral student at Emory University's Political Science Department. She also codes for the [Political Terror Scale (PTS)](https://www.politicalterrorscale.org/), works with [the Oppression-Resistance Lab](http://emilykgade.com/or-lab) at Emory, and leads [the Interstate Shaming Events (ISE) data project](/portfolio/ise), which is a part of her dissertation work.
 
 Jiwon studies discourses about political events at different levels of international politics. She is particularly interested in how foreign governments talk about each other's domestic human rights practices, how organizations of different ideological stances report the same conflict event, and what information persuades people to change their opinion about foreign policy, and why. Her works use text analysis and survey experiments.
  
