@@ -1,12 +1,12 @@
 ---
 title: "The Interstate Shaming Events (ISE) Data Project"
-excerpt: ""
+excerpt: "<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
-<br/><img src='/images/500x300.png'>
 
-## Values
+## ISE
 > entry
+<br/><img src='/images/500x300.png'>
 
 ## Crews
 ### Current Members
