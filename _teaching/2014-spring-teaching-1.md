@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Lambda and Kappa Architectures"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "PowerPoint"
+date: 2021-12-10
+location: "California"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This is a presentation that reviews what the Lambda and Kappa Architectures are. You can find the presentation [here](https://github.com/rachaelph/rachaelph.github.io/tree/master/files/21-12-10-DS_Data_Architecture_Use_Cases_Rachael.pptx).
