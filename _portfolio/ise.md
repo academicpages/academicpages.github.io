@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 ## ISE Crews
-> Social picture
+> Currently reorganizing the team
 
 <br/><img src='/images/500x300.png'>
 
