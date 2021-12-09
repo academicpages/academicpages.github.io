@@ -138,7 +138,7 @@ author_profile: true
 108. Z. Shi, Y. Wang, L. Liu, and X. Ma, “A Joint Sonar-Communication System Based on Multicarrier Waveforms,” *IEEE Signal Processing Letters*, accepted Aug. 2021. 
 
 109. M. S. Omar and X. Ma, “Pilot symbol aided channel estimation for OCDM transmissions,” *IEEE Communications Letters*, Accepted Npv. 2021. 
-110. R. Zhang, Y. Wang, and X. Ma, “Carrier frequency offset and channel estimation for OCDM communications,” *IEEE Wireless Communications Letters*, Accepted Dec. 2021.
+110. R. Zhang, Y. Wang, and X. Ma, “Channel Estimation for OCDM Transmissions with Carrier Frequency Offset,” *IEEE Wireless Communications Letters*, Accepted Dec. 2021.
 
 Submitted and under review
 
