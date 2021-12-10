@@ -10,10 +10,9 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: 'Merriweathe
 
 /*Alumnis*/
 .alumnis{
-    width: 100%;
- /*    height: 1000px;
-    margin-bottom: 100px; */
-    
+    width: 900px;
+    margin: auto;
+    margin-bottom: 80px;
 }
 
 /*all config students*/
