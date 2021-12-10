@@ -4,15 +4,20 @@ permalink: /publications/
 author_profile: true
 ---
 **Tech reports**
+* <b>Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer</b> <br> 
+  <b>Xiangde Luo</b>, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang<br>
+  <i>This is a tech report about our [SSL4MIS](https://github.com/HiLab-git/SSL4MIS) project, the work is still ongoing.<br>
+  [[paper](https://arxiv.org/pdf/2112.04894.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
+  
+* <b>WORD: Revisiting Organs Segmentation in the Whole Abdominal Region</b> <br> 
+  <b>Xiangde Luo</b>, Wenjun Liao, Jianghong Xiao, Tao Song, Xiaofan Zhang, Kang Li, Guotai Wang, Shaoting Zhang<br>
+  <i>This is a tech report, the work is still ongoing.<br>
+  [[paper](https://arxiv.org/pdf/2111.02403.pdf)][[code](https://github.com/HiLab-git/WORD)][[dataset](https://drive.google.com/file/d/1HcRo3WARRXa_iBdFpo_4Z2s3z7PMzLlL/view)]
+  
  * <b>Semi-Supervised Medical Image Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
   <b>Xiangde Luo</b>, Guotai Wang, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Dimitris N. Metaxas, Shaoting Zhang<br>
   <i>Submitted to a journal for consideration (extend from [MICCAI2021](https://arxiv.org/pdf/2012.07042.pdf))<br>
  [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
- 
- * <b>WORD: Revisiting Organs Segmentation in the Whole Abdominal Region</b> <br> 
-  <b>Xiangde Luo</b>, Wenjun Liao, Jianghong Xiao, Tao Song, Xiaofan Zhang, Kang Li, Guotai Wang, Shaoting Zhang<br>
-  <i>This is a tech report, the work is still ongoing.<br>
-  [[paper](https://arxiv.org/pdf/2111.02403.pdf)][[code/dataset](https://github.com/HiLab-git/WORD)]
  
 **Journals**
 * <b>SCPM-Net: An Anchor-free 3D Lung Nodule Detection Network using Sphere Representation and Center Points Matching</b> <br> 
