@@ -5,6 +5,8 @@ permalink: /contact/
 author_profile: true
 ---
 
+<br/><img src='/images/CUDB-cut.jpg'>
+
 
 <h2>Mailing Address</h2>
 <address>
@@ -16,4 +18,3 @@ author_profile: true
 jiwon[dot]kim[at]Emory[dot]edu
 
 
-<br/><img src='/images/CUDB-cut.jpg'>
