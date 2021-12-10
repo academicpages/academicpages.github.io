@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Merriweather', Georgia, Times; font-weigh
 .contenedor figure .capa p{
     color: rgb(255, 255, 255);
     font-size: 15px;
-    line-height: 15.5px;
+    line-height: 10.5px;
     width: 100%;
     max-width: 80%;
     margin: auto;
@@ -150,7 +150,7 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Merriweather', Georgia, Times; font-weigh
     height: 80px;
     border-radius: 18px;
     color: rgb(53, 50, 50);
-
+    margin: auto;
    /*  margin-top: 3px; */
 
 
