@@ -1,3 +1,13 @@
+@import url(http://fonts.googleapis.com/css?family=Merriweather:300,300italic,400,400italic,700,700italic);
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
+
+body { padding-top: 20px; padding-bottom: 40px; font-family: 'Merriweather', Georgia, Times; font-size: 16px; }
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: 'Merriweather', Georgia, Times; font-weight: 700;}
+
+blockquote p { font-size: 16px; line-height: 1.6em; }
+
+
 /*Alumnis*/
 .alumnis{
     width: 100%;
@@ -33,18 +43,21 @@
 
 .contenedor figure{
     position: relative;
+    height: 200px;
+    width: 200px;
     overflow: hidden;
-    border-radius: 50%;
+    border-radius: 6px;
     margin: 10px;
     box-shadow: 0px 15px 25px rgba(0,0,0,0.50);
     cursor: pointer;
 }
 .contenedor figure img{
     width: 100%;
-    min-width: 80%;
-    min-height: 80%;
-    
     height: 100%;
+/*     min-width: 80%;
+    min-height: 80%; */
+    
+ 
     transition: all 500ms ease-out;
  
 }
@@ -58,7 +71,7 @@
     opacity: 0;
     visibility: hidden;
     text-align: center;
-    justify-content: center;
+/*     justify-content: center; */
 }
 .contenedor figure:hover > .capa{
     opacity: 1;
@@ -66,8 +79,8 @@
 }
 
 .contenedor figure:hover > .capa h4{
-    margin-top: 25px;
-    margin-bottom: 2px;
+    margin-top: 60px;
+    margin-bottom: 15px;
 }
 
 .contenedor figure:hover > img{
@@ -77,13 +90,11 @@
 .contenedor figure .capa h4{
     color: rgb(5, 5, 5);
     font-weight: 400;
-    margin-bottom: 30px;
+    margin-bottom: 120px;
     transition: all 500ms ease-out;
-    line-height: 15.5px;
-    width: 100%;
-    max-width: 80%;
-    margin: auto;
-    margin-top: 10px;
+    margin: 30px;
+
+
 }
 
 .contenedor figure .capa p{
@@ -191,51 +202,5 @@ img{
     text-align: center;
 }
 
-#fondo h1{
-	--lt-color-gray-100:  #f8f9fc;
-    --lt-color-gray-200:  #f1f3f9;
-    --lt-color-gray-300:  #dee3ed;
-    --lt-color-gray-400:  #c2c9d6;
-    --lt-color-gray-500:  #8f96a3;
-    --lt-color-gray-600:  #5e636e;
-    --lt-color-gray-700:  #2f3237;
-    --lt-color-gray-800:  #1d1e20;
-    --lt-color-gray-900:  #111213;
-    --lt-shadowDefault:  0 2px 6px -1px rgba(0, 0, 0, 0.16), 0 1px 4px -1px rgba(0, 0, 0, 0.04);
-    --lt-shadowActive:  0 0 8px -2px rgba(0, 0, 0, 0.1), 0 6px 20px -3px rgba(0, 0, 0, 0.2);
-    --lt-color-white:  #fff  !important;
-    --lt-color-black:  #111213  !important;
-    --lt-color-transparent:  rgba(255, 255, 255, 0)  !important;
-    --lt-color-background-light:  var(--lt-color-gray-100)  !important;
-    --lt-color-background-default:  var(--lt-color-gray-200)  !important;
-    --lt-color-background-dark:  var(--lt-color-gray-300)  !important;
-    --lt-color-border-light:  var(--lt-color-gray-200)  !important;
-    --lt-color-border-default:  var(--lt-color-gray-300)  !important;
-    --lt-color-border-dark:  var(--lt-color-gray-400)  !important;
-    --lt-color-text-very-light:  var(--lt-color-gray-500)  !important;
-    --lt-color-text-light:  var(--lt-color-gray-600)  !important;
-    --lt-color-text-default:  var(--lt-color-gray-700)  !important;
-    --lt-color-text-dark:  var(--lt-color-gray-800)  !important;
-    --lt-color-overlay-default:  #fff  !important;
-    --lt-color-overlay-dark:  #fff  !important;
-    --lt-color-overlay-transparent:  rgba(0, 0, 0, 0.1)  !important;
-    --lt-shadow-website-overlay:  0 0 7px 0 rgba(0, 0, 0, 0.3)  !important;
-    cursor: auto;
-    text-align: center;
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    font-family: Raleway,"Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
-    font-weight: 600;
-    font-style: normal;
-    color: #333;
-    text-rendering: optimizeLegibility;
-    margin-top: 0;
-    margin-bottom: 1.0714285714rem;
-    line-height: 1.4;
-    font-size: 2.1428571429rem;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    display: inline-block;
-}
+
 
