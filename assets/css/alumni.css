@@ -10,18 +10,19 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Merriweather', Georgia, Times; font-weigh
 
 /*Alumnis*/
 .alumnis{
-    width: 900px;
-    margin: auto;
-    margin-bottom: 80px;
 }
 
 /*all config students*/
 
 .personas{
+    width: 120%;
+    margin: auto;
+    margin-bottom: 80px;
+
     margin: 30px;
     padding: 1px;
     box-sizing: border-box;
-    font-family: sans-serif;
+/*     font-family: sans-serif; */
 }
 
 /* students - all img*/
@@ -102,8 +103,8 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Merriweather', Georgia, Times; font-weigh
     line-height: 10.5px;
     width: 100%;
     max-width: 80%;
-    margin: auto;
-    /* justify-content: center; */
+     margin: auto;
+     /* justify-content: center; */
     align-items: center;
 
 }
@@ -150,7 +151,7 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Merriweather', Georgia, Times; font-weigh
     height: 80px;
     border-radius: 18px;
     color: rgb(53, 50, 50);
-    margin: auto;
+   
    /*  margin-top: 3px; */
 
 
