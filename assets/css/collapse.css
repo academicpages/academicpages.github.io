@@ -11,7 +11,7 @@
     cursor: pointer;
     font-weight: bold;
 }
-/* .container .content {
-    display: none;
+.container .content {
+    display: grid;
     padding : 5px;
- */
+}
