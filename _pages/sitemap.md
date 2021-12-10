@@ -15,3 +15,5 @@ author_profile: true
 <h2>Email Address</h2>
 jiwon[dot]kim[at]Emory[dot]edu
 
+
+<br/><img src='/images/CUDB-cut.jpg'>
