@@ -1,0 +1,241 @@
+/*Alumnis*/
+.alumnis{
+    width: 100%;
+ /*    height: 1000px;
+    margin-bottom: 100px; */
+    
+}
+
+/*all config students*/
+
+.personas{
+    margin: 30px;
+    padding: 1px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+/* students - all img*/
+
+.contenedor{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+}
+
+.galeria__image{
+    width: 250px;
+    height: 350px;
+    object-fit: cover;
+}
+
+.contenedor figure{
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 10px;
+    box-shadow: 0px 15px 25px rgba(0,0,0,0.50);
+    cursor: pointer;
+}
+.contenedor figure img{
+    width: 100%;
+    min-width: 80%;
+    min-height: 80%;
+    
+    height: 100%;
+    transition: all 500ms ease-out;
+ 
+}
+.contenedor figure .capa{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(161, 173, 230, 0.624);
+    transition: all 500ms ease-out;
+    opacity: 0;
+    visibility: hidden;
+    text-align: center;
+    justify-content: center;
+}
+.contenedor figure:hover > .capa{
+    opacity: 1;
+    visibility: visible;
+}
+
+.contenedor figure:hover > .capa h4{
+    margin-top: 25px;
+    margin-bottom: 2px;
+}
+
+.contenedor figure:hover > img{
+    transform: scale(1.2);
+}
+
+.contenedor figure .capa h4{
+    color: rgb(5, 5, 5);
+    font-weight: 400;
+    margin-bottom: 30px;
+    transition: all 500ms ease-out;
+    line-height: 15.5px;
+    width: 100%;
+    max-width: 80%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.contenedor figure .capa p{
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    line-height: 15.5px;
+    width: 100%;
+    max-width: 80%;
+    margin: auto;
+    /* justify-content: center; */
+    align-items: center;
+
+}
+/* students - for img*/
+
+
+
+.personas .contenedor{
+    display: grid;
+    margin: auto;
+}
+@media(min-width:520px){
+    .personas .contenedor{
+        grid-template-columns: repeat(2,50%);
+    }
+}
+@media(min-width:728px){
+    .personas .contenedor{
+        grid-template-columns: repeat(3,33.3%);
+    }
+}
+@media(min-width:1024px){
+    .personas .contenedor{
+        grid-template-columns: repeat(4,25%);
+    }
+    .contenedor{
+        width: 1024;
+    }
+}
+
+
+/*title students*/
+
+.flex-center{
+	/* display: */
+	justify-content: center;
+	align-items: center;
+}
+
+
+.icon{
+    font-size: 30px;
+    width: 30px;
+    height: 80px;
+    border-radius: 18px;
+    color: rgb(53, 50, 50);
+
+   /*  margin-top: 3px; */
+
+
+ 
+}
+img{
+    float: left;
+}
+#fondo{
+	--lt-color-gray-100:  #f8f9fc;
+    --lt-color-gray-200:  #f1f3f9;
+    --lt-color-gray-300:  #dee3ed;
+    --lt-color-gray-400:  #c2c9d6;
+    --lt-color-gray-500:  #8f96a3;
+    --lt-color-gray-600:  #5e636e;
+    --lt-color-gray-700:  #2f3237;
+    --lt-color-gray-800:  #1d1e20;
+    --lt-color-gray-900:  #111213;
+    --lt-shadowDefault:  0 2px 6px -1px rgba(0, 0, 0, 0.16), 0 1px 4px -1px rgba(0, 0, 0, 0.04);
+    --lt-shadowActive:  0 0 8px -2px rgba(0, 0, 0, 0.1), 0 6px 20px -3px rgba(0, 0, 0, 0.2);
+    --lt-color-white:  #fff  !important;
+    --lt-color-black:  #111213  !important;
+    --lt-color-transparent:  rgba(255, 255, 255, 0)  !important;
+    --lt-color-background-light:  var(--lt-color-gray-100)  !important;
+    --lt-color-background-default:  var(--lt-color-gray-200)  !important;
+    --lt-color-background-dark:  var(--lt-color-gray-300)  !important;
+    --lt-color-border-light:  var(--lt-color-gray-200)  !important;
+    --lt-color-border-default:  var(--lt-color-gray-300)  !important;
+    --lt-color-border-dark:  var(--lt-color-gray-400)  !important;
+    --lt-color-text-very-light:  var(--lt-color-gray-500)  !important;
+    --lt-color-text-light:  var(--lt-color-gray-600)  !important;
+    --lt-color-text-default:  var(--lt-color-gray-700)  !important;
+    --lt-color-text-dark:  var(--lt-color-gray-800)  !important;
+    --lt-color-overlay-default:  #fff  !important;
+    --lt-color-overlay-dark:  #fff  !important;
+    --lt-color-overlay-transparent:  rgba(0, 0, 0, 0.1)  !important;
+    --lt-shadow-website-overlay:  0 0 7px 0 rgba(0, 0, 0, 0.3)  !important;
+    font-size: 14px;
+    color: #999;
+    font-family: Raleway,"Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 160%;
+    cursor: auto;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+#fondo h1{
+	--lt-color-gray-100:  #f8f9fc;
+    --lt-color-gray-200:  #f1f3f9;
+    --lt-color-gray-300:  #dee3ed;
+    --lt-color-gray-400:  #c2c9d6;
+    --lt-color-gray-500:  #8f96a3;
+    --lt-color-gray-600:  #5e636e;
+    --lt-color-gray-700:  #2f3237;
+    --lt-color-gray-800:  #1d1e20;
+    --lt-color-gray-900:  #111213;
+    --lt-shadowDefault:  0 2px 6px -1px rgba(0, 0, 0, 0.16), 0 1px 4px -1px rgba(0, 0, 0, 0.04);
+    --lt-shadowActive:  0 0 8px -2px rgba(0, 0, 0, 0.1), 0 6px 20px -3px rgba(0, 0, 0, 0.2);
+    --lt-color-white:  #fff  !important;
+    --lt-color-black:  #111213  !important;
+    --lt-color-transparent:  rgba(255, 255, 255, 0)  !important;
+    --lt-color-background-light:  var(--lt-color-gray-100)  !important;
+    --lt-color-background-default:  var(--lt-color-gray-200)  !important;
+    --lt-color-background-dark:  var(--lt-color-gray-300)  !important;
+    --lt-color-border-light:  var(--lt-color-gray-200)  !important;
+    --lt-color-border-default:  var(--lt-color-gray-300)  !important;
+    --lt-color-border-dark:  var(--lt-color-gray-400)  !important;
+    --lt-color-text-very-light:  var(--lt-color-gray-500)  !important;
+    --lt-color-text-light:  var(--lt-color-gray-600)  !important;
+    --lt-color-text-default:  var(--lt-color-gray-700)  !important;
+    --lt-color-text-dark:  var(--lt-color-gray-800)  !important;
+    --lt-color-overlay-default:  #fff  !important;
+    --lt-color-overlay-dark:  #fff  !important;
+    --lt-color-overlay-transparent:  rgba(0, 0, 0, 0.1)  !important;
+    --lt-shadow-website-overlay:  0 0 7px 0 rgba(0, 0, 0, 0.3)  !important;
+    cursor: auto;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Raleway,"Helvetica Neue",Helvetica,Roboto,Arial,sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: #333;
+    text-rendering: optimizeLegibility;
+    margin-top: 0;
+    margin-bottom: 1.0714285714rem;
+    line-height: 1.4;
+    font-size: 2.1428571429rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
