@@ -45,7 +45,7 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Merriweather', Georgia, Times; font-weigh
     height: 200px;
     width: 200px;
     overflow: hidden;
-    border-radius: 6px;
+    border-radius: 50%;
     margin: 10px;
     box-shadow: 0px 15px 25px rgba(0,0,0,0.50);
     cursor: pointer;
@@ -148,7 +148,7 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Merriweather', Georgia, Times; font-weigh
     font-size: 30px;
     width: 30px;
     height: 80px;
-    border-radius: 50%;
+    border-radius: 18px;
     color: rgb(53, 50, 50);
 
    /*  margin-top: 3px; */
