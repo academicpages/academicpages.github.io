@@ -17,7 +17,7 @@ author_profile: true
 
 ## Working Papers
 
-> [**Wrong Place, Wrong Time: The Long-Run Effects of In-Utero Exposure to Malaria on Educational Attainment in Brazil**](http://henriqueveras.github.io/files/JMP-2021.pdf) (Accepted, *Economics and Human Biology*)
+> [**Wrong Place, Wrong Time: The Long-Run Effects of In-Utero Exposure to Malaria on Educational Attainment**](http://henriqueveras.github.io/files/JMP-2021.pdf) (Accepted, *Economics and Human Biology*)
 
 > [**Do Bigger Legislatures Lead to Bigger Government? Evidence from a Brazilian Municipal Council Reform**](http://henriqueveras.github.io/files/2021_Municipal_Councils.pdf)   
 With Evan Kresch, Rodrigo Schneider, and Mark Walker
