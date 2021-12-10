@@ -23,7 +23,7 @@ author_profile: false
 | Th, Dec 2, 2021 | 1:30pm - 2:30pm | Guangbo Xu | Closed and open string theories of gauged linear sigma model |  [https://umn.zoom.us/j/9735843950](https://umn.zoom.us/j/9735843950)
 | Th, Dec 9, 2021 | 1:30pm - 2:30pm | Yongjia Zhang | Bamler’s new entropy techniques for the Ricci flow and their applications |  [https://umn.zoom.us/j/97043232587]( https://umn.zoom.us/j/97043232587)
 | Tu, Dec 14, 2021 | 1:30pm - 2:30pm | Andrew Sageman-Furnas | |
-| Th, Dec 16, 2021 | 1:30pm - 2:30pm | Josef Dorfmeister |  |  
+| Th, Dec 16, 2021 | 1:30pm - 2:30pm | Josef Dorfmeister | Negative Square Classes in Rational Manifolds |  [https://umn.zoom.us/j/9735843950](https://umn.zoom.us/j/9735843950)
 
 ## Abstracts
 * Russell Avdek
@@ -57,3 +57,6 @@ author_profile: false
 * Yongjia Zhang
   * I will introduce Bamler’s recent works on the entropy of the Ricci flow. His results show how Nash entropy is involved with local geometry. My coauthors and I have applied his method to various geometric problems and obtained several results. These results include:
 (1) characterization of a Ricci flow with a closed finite-time singularity model, (2) a local Sobolev inequality on Ricci flow, (3) an optimal volume growth estimate for noncollapsed steady Ricci solitons. The new results presented in this talk are joint works with Richard H. Bamler, Pak-Yeung Chan, and Zilu Ma.
+
+* Josef G Dorfmeister
+  * The orbit space of the action of Diff$^+$(M) on $M=\mathbb CP^2\#k\overline{\mathbb CP^2}$ will be described.  For classes whose orbit includes a reduced class (which encompasses all classes of positive square), this is a well-known result following from the work of numerous authors.  For classes whose orbit includes a simplified class, this is less well understood.  I will describe the orbit structure in this case and draw some conclusions about the minimal genus of such classes.  Switching to orbits which contain a reduced class, I may describe recent results relating to symplectic genus of such classes and restrictions on Lefschetz fibrations arising from an understanding of these classes.  
