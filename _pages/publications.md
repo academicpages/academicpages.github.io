@@ -7,7 +7,7 @@ author_profile: true
 
 ## Manuscript
 
-- **Junjie Sheng**, **Shengliang Cai**, **Haochuan Cui**, **Wenhao Li**, **Yun Hua**, **Bo Jin**, W. Zhou, Y. Hu, L. Zhu, Q. Peng, **Hongyuan Zha** and **Xiangfeng Wang**, VMAgent: Scheduling Simulator for Reinforcement Learning. 2021. [arxiv](https://arxiv.org/abs/2112.04785)
+- **Junjie Sheng**, **Shengliang Cai**, **Haochuan Cui**, **Wenhao Li**, **Yun Hua**, **Bo Jin**, W. Zhou, Y. Hu, L. Zhu, Q. Peng, **Hongyuan Zha** and **Xiangfeng Wang**, VMAgent: Scheduling Simulator for Reinforcement Learning. 2021. [arxiv](https://arxiv.org/abs/2112.04785) **The [VMAgent](https://github.com/mail-ecnu/VMAgent) Simulator**
 - **Wenhao Li**, **Qisen Xu**, **Chuyun Shen**, B. Hu, F. Zhu, Y. Li, **Bo Jin** and **Xiangfeng Wang**, Interactive Medical Image Segmentation with Self-Adaptive Confidence Calibration. 2021. [arxiv](https://arxiv.org/abs/2111.07716)
 - **Wenhao Li**, **Bo Jin**, **Xiangfeng Wang**, **Junjie Sheng** and **Hongyuan Zha**, Dealing with Non-Stationarity in Multi-Agent Reinforcement Learning via Trust Region Decomposition. 2021. [arxiv](https://arxiv.org/abs/2102.10616)
 - **Wenhao Li**, **Bo Jin**, **Xiangfeng Wang**, J. Yan and **Hongyuan Zha**, F2A2: Flexible Fully-decentralized Approximate Actor-critic for Cooperative Multi-agent Reinforcement Learning. 2020. [arxiv](https://arxiv.org/abs/2004.11145)
@@ -21,7 +21,7 @@ author_profile: true
 - **Xiangfeng Wang**, J. Ye, X. Yuan, S. Zeng and J. Zhang, Perturbation Techniques for Convergence Analysis of Proximal Gradient Method and Other First-order Algorithms via Variational Analysis. *Set-Valued and Variational Analysis*, accepted, 2021.
 
 ## 2022
-- **Junjie Sheng**, **Yiqiu Hu**, W. Zhou, L. Zhu, **Bo Jin**, J. Wang and **Xiangfeng Wang**, Learning to Schedule Multi-NUMA Virtual Machines via Reinforcement Learning, *Pattern Recognition*, 121, 2021, pp.108254. **The [VMAgent](https://github.com/mail-ecnu/VMAgent) Simulator**
+- **Junjie Sheng**, **Yiqiu Hu**, W. Zhou, L. Zhu, **Bo Jin**, J. Wang and **Xiangfeng Wang**, Learning to Schedule Multi-NUMA Virtual Machines via Reinforcement Learning, *Pattern Recognition*, 121, 2021, pp.108254.
 
 ## 2021
 - C. Ma, **Qisen Xu**, **Xiangfeng Wang**, **Bo Jin**, X. Zhang, Y. Wang and Y. Zhang, Boundary-aware Supervoxel-level Iteratively Refined Interactive 3D Image Segmentation with Multi-agent Reinforcement Learning. *IEEE Transactions on Medical Imaging*, 40(10), 2021, pp.2563-2574.
