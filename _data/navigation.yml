@@ -16,4 +16,5 @@ main:
   - title: "Causal Inference and ML Bookdown"
     url: /CIML/
     
-
+  - title: "Alumni"
+    url: /alumni/
