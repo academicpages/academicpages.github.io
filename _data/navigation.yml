@@ -4,7 +4,9 @@ main:
     url: /overview/
     
   - title: "Working Groups"
-    url: /wg/ 
+    url: /wg/
+      - title: "Publications"
+      url: /publications/
 
   - title: "Events"
     url: /events/ 
@@ -17,6 +19,3 @@ main:
 
   - title: "Early Career"
     url: /ecr/
-
-  - title: "Publications"
-    url: /publications/
