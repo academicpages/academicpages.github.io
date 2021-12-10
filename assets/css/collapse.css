@@ -12,6 +12,6 @@
     font-weight: bold;
 }
 .container .content {
-    display: none;
+    display: grid;
     padding : 5px;
 }
