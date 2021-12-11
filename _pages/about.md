@@ -16,7 +16,7 @@ You can find me on LinkedIn, click below if you wish to connect!
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="simone-maria-giancola-011465173" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://it.linkedin.com/in/simone-maria-giancola-011465173?trk=profile-badge">Simone Maria Giancola</a></div>
 
-On the left (again, follow button if from phone), some contact information is made available. Feel free to text me or set up a meeting on Calendly! <br>
+On the left (again, follow button if from phone), some contact information is made available. Feel free to text me or set up a meeting on Calendly [here](https://calendly.com/simonegiancola09/30-minute-chat)! <br>
 On the top menu, each visitor is allowed to access my Resume, my portfolio, and a blog I might start using.
 
 Future Projects
