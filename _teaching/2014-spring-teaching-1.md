@@ -4,7 +4,7 @@ collection: teaching
 type: "Robotics Semiar Series, Univaersity of Moratuwa"
 #permalink: /teaching/2014-spring-teaching-1
 venue: "University of Moratuwa"
-date: 2018
+date: "2018"
 location: "Colombo, Sri Lanka"
 ---
 
