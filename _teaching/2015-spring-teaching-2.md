@@ -1,7 +1,7 @@
 ---
 title: "Workshop Instructor"
 collection: teaching
-type: "Workshop : Introduction to Robot Operating System (ROS)<br/><img src='/images/ras.PNG' style='width:50%'>"
+type: "Workshop : Introduction to Robot Operating System (ROS)<br/><img src='/images/ras.png' style='width:50%'>"
 #permalink: /teaching/2015-spring-teaching-1
 venue: "University of Moratuwa"
 date: 2021-03-06
