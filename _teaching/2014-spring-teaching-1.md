@@ -1,7 +1,7 @@
 ---
 title: "Workshop Instructor"
 collection: teaching
-type: "Robotics Semiar Series, University of Moratuwa"
+type: "Robotics Semiar Series, University of Moratuwa<br/><img src='/images/entc.PNG' style='width:50px'>"
 #permalink: /teaching/2014-spring-teaching-1
 venue: "University of Moratuwa"
 date: 2018-August
