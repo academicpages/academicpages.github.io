@@ -50,4 +50,6 @@ Slides das Aulas
 ======
 1. [Aula do dia 06/12/2021](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/EDO-aula01-20211206.pdf)
 1. [Aula do dia 08/12/2021](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/EDO-aula02-20211208.pdf)
+1. [Aula do dia 13/12/2021](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/EDO-aula02-20211213.pdf)
+
 
