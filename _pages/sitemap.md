@@ -5,9 +5,6 @@ permalink: /contact/
 author_profile: true
 ---
 
-<br/><img src='/images/CUDB-cut.jpg'>
-
-
 <h2>Mailing Address</h2>
 <address>
   1555 Dickey Drive<br /> Tarbutton 327 <br /> Atlanta, GA, USA 30322
