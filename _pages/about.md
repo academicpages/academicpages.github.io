@@ -34,10 +34,7 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;
 [<img align="left" alt="Flutter" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" />]()
 &nbsp;&nbsp;&nbsp;
-[<img align="left" alt="Dart" width="35px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/227/square_480/dart-logo.png" />]()
-&nbsp;&nbsp;&nbsp;
 
-<br />
 <br/>
 
 Research Vision and Interest
