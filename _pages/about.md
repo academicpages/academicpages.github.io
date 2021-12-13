@@ -14,7 +14,7 @@ redirect_from:
 <br />
 #### Languages and Tools:
 
-[<img align="left" alt="Python" src="tech.PNG" />]()
+<img src='tech.PNG' style='width:100%'>
 
 
 <br/>
