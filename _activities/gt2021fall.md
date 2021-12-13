@@ -22,7 +22,8 @@ author_profile: false
 | Th, Nov 25, 2021 | 1:30pm - 2:30pm | Thanksgiving  |  |  
 | Th, Dec 2, 2021 | 1:30pm - 2:30pm | Guangbo Xu | Closed and open string theories of gauged linear sigma model |  [https://umn.zoom.us/j/9735843950](https://umn.zoom.us/j/9735843950)
 | Th, Dec 9, 2021 | 1:30pm - 2:30pm | Yongjia Zhang | Bamler’s new entropy techniques for the Ricci flow and their applications |  [https://umn.zoom.us/j/97043232587]( https://umn.zoom.us/j/97043232587)
-| Tu, Dec 14, 2021 | 1:30pm - 2:30pm | Andrew Sageman-Furnas | |
+| Tu, Dec 14, 2021 | 1:30pm - 2:30pm | Andrew Sageman-Furnas | Constructing isometric tori with the same curvatures
+ | [https://umn.zoom.us/j/9735843950](https://umn.zoom.us/j/9735843950)
 | Th, Dec 16, 2021 | 1:30pm - 2:30pm | Josef Dorfmeister | Negative Square Classes in Rational Manifolds |  [https://umn.zoom.us/j/9735843950](https://umn.zoom.us/j/9735843950)
 
 ## Abstracts
@@ -60,3 +61,9 @@ author_profile: false
 
 * Josef G Dorfmeister
   * The orbit space of the action of Diff$^+$(M) on $M=\mathbb CP^2\#k\overline{\mathbb CP^2}$ will be described.  For classes whose orbit includes a reduced class (which encompasses all classes of positive square), this is a well-known result following from the work of numerous authors.  For classes whose orbit includes a simplified class, this is less well understood.  I will describe the orbit structure in this case and draw some conclusions about the minimal genus of such classes.  Switching to orbits which contain a reduced class, I may describe recent results relating to symplectic genus of such classes and restrictions on Lefschetz fibrations arising from an understanding of these classes.  
+
+* Andrew Sageman-Furnas
+  * Which data determine an immersed surface in Euclidean three-space up to rigid motion? A generic surface is locally determined by only a metric and mean curvature function. However, there are exceptions. These may arise in a family, like the isometric family of vanishing mean curvature surfaces transforming a catenoid into a helicoid, or as two surfaces called a Bonnet pair.
+  * For compact surfaces, Lawson and Tribuzy proved in 1981 that a metric and non-constant mean curvature function determine at most one immersion with genus zero, but at most two compact immersions (compact Bonnet pairs) for higher genus. This led them to ask if compact Bonnet pairs exist.
+  * In this talk, we discuss our recent construction of the first examples of compact Bonnet pairs. It uses a local classification by Kamberov, Pedit, and Pinkall in terms of special surfaces that are called isothermic. Moreover, we describe how a structure-preserving discrete theory for isothermic surfaces and Bonnet pairs led to this discovery.
+  * The smooth theory is joint work with Alexander Bobenko and Tim Hoffmann and the discrete theory is joint work with Tim Hoffmann and Max Wardetzky.
