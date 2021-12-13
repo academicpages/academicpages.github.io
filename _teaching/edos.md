@@ -41,7 +41,7 @@ Datas das Provas
 * Segunda prova: 06/04/2022
 * Terceira prova: 18/05/2022
 
-Listas de Exercícios
+Listas de Exercícios 
 ======
 * [Lista 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/ListaEDO_01.pdf)
 * [Lista 02](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/ListaEDO_02.pdf)
