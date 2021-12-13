@@ -14,7 +14,7 @@ redirect_from:
 <br />
 #### Languages and Tools:
 
-<img src='tech.PNG' style='width:100%'>
+<img src='/images/tech.PNG' style='width:80%'>
 
 
 <br/>
