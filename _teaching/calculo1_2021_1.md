@@ -12,7 +12,7 @@ Semestre 2021.1
 
 Ementa
 ======
-Números Reais. Equações de uma reta e circunferência. Funções. Limites. Continuidades. Derivados. Regras de divisão. Máximo e Mínimo.  Teorema do valor médio. Teorema do valor médio. Aplicação de derivadas.
+Número, variável, funções. Limite e continuidade de funções. Derivada e diferencial. Interpretação geométrica e física do conceito de derivada: velocidade instantânea e aceleração instantânea. Funções hiperbólicas e suas derivadas. Diferencial. Interpretação geométrica do diferencial. Derivadas e diferenciais de diferentes ordens. Teorema relativos às funções deriváveis. Expansões de funções em série de Taylor. Estudo da variação de funções: máximo e mínimo, uso da expansão de Taylor no estudo da variação das funções, estudo das curvas sob a forma paramétrica. Introdução ao integral indefinido.
 
 Avaliação
 ======
