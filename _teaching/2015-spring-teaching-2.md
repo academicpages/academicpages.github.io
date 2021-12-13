@@ -9,7 +9,6 @@ location: "Zoom"
 ---
 
 I joined as an instructor to the workshop organized by IEEE RAS Sri Lankan Chapter titled "Introduction to Robot Operating System".
-
 * Conducted a lecture on "Robot Manipulation with ROS" 
 * Conducted a practical session
 
