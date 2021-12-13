@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Workshop Instructor"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Robotics Semiar Series, Univaersity of Moratuwa"
+#permalink: /teaching/2014-spring-teaching-1
+venue: "University of Moratuwa"
+date: 2018
+location: "Colombo, Sri Lanka"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Took part as a workshop instructor in a seminar series organized by Electronic Club, to teach robotics to school children in several different areas of the country. As an instructor I was able to conduct lectures on,
+* Basic robotics principles
+* Arduino based robot development
+* Building a line following robot from the scratch
