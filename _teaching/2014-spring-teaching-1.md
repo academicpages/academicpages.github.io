@@ -1,8 +1,9 @@
 ---
 title: "Lambda and Kappa Architectures"
 collection: teaching
-type: "PowerPoint"
+type: "Microsoft PowerPoint"
 date: 2021-12-17
+venue: "Data Architecture"
 location: "California"
 ---
 
