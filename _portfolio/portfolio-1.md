@@ -10,8 +10,8 @@ system is capable of alerting the relevant authorities in real-time which makes 
 security personnel. One key objective of this project is to be able to detect both objects and 
 activities happening at any time of the day. Hence, thermal imagery is used for 
 the development of the models and for real-time detection.
-<br/>For more info visit my [blog](https://sakunah.xyz/object-detection-tracking-and-suspicious-activity-recognition-formaritime-surveillance-using-thermal-vision/index.html)
-<br/><img src='/images/fyp.PNG'>"
+<br/>For more info visit my [blog.](https://sakunah.xyz/object-detection-tracking-and-suspicious-activity-recognition-formaritime-surveillance-using-thermal-vision/index.html)
+<br/><img src='/images/fyp.PNG' style='width:40%'>"
 collection: portfolio
 ---
 
