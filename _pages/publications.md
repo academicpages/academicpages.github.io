@@ -20,4 +20,4 @@ author_profile: true
 <!-- <img style="float: left;" src="/images/cvpr.jpg" width="25%">  -->
 <span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [1]<span style="color:white">a</span><b>KORSAL: Key-point Detection based Online Real-Time Spatio-Temporal Action Localization</b><br />
   &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; Kalana Abeywardena, Shechem Sumanthiran, <span style="color:blue">Sakuna Jayasundara</span>, Sachira Karunasena, Peshala Jayasekara and Ranga Rodrigo <br />
- &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; IEEE Winter Conference on Applications of Computer Vision (WACV)  (<span style="color:green">NeurIPS</span>) 2022. <br/>
+ &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; International Conference on Pattern Recognition (ICPR 2022)  [Under review] <br/>
