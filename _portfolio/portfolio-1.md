@@ -8,7 +8,7 @@ activities as suspicious or not. With the detection of any such suspicious activ
 system is capable of alerting the relevant authorities in real-time which makes it superior to the available traditional method with an additional benefit of increased safety of 
 security personnel. One key objective of this project is to be able to detect both objects and 
 activities happening at any time of the day. Hence, thermal imagery is used for 
-the development of the models and for real-time detection.<br/><img src='/images/fyp.png'>"
+the development of the models and for real-time detection.<br/><img src='/images/fyp.PNG'>"
 collection: portfolio
 ---
 
