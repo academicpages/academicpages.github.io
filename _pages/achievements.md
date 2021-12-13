@@ -40,5 +40,5 @@ author_profile: true
  &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> Organized by the government of Sri Lanka </i><br/>
 
   <span style="font-size:0.9em;padding-left: 8px;text-align: justify"> [6]<span style="color:white">a</span><b> Winner: All Island Chess Championship 2008 <span style="color:green"> (2020) </span></b><br />
- &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> Organized by Google </i><br/>
+ &nbsp; &nbsp; &thinsp; &thinsp; &thinsp; <i> Organized by Sri Lanka Chess Federation </i><br/>
 
