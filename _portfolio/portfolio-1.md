@@ -1,7 +1,14 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "With this project, we propose a system that is capable not only to detect objects within the surveillance 
+area but also to detect a set of pre-identified suspicious activities 
+happening within the borders. We believe this will be an ideal replacement to the 
+current system available which is to manually detect both objects and classify 
+activities as suspicious or not. With the detection of any such suspicious activities, the 
+system is capable of alerting the relevant authorities in real-time which makes it superior to the available traditional method with an additional benefit of increased safety of 
+security personnel. One key objective of this project is to be able to detect both objects and 
+activities happening at any time of the day. Hence, thermal imagery is used for 
+the development of the models and for real-time detection.<br/><img src='/images/fyp.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
