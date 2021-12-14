@@ -40,8 +40,6 @@ Upon receiving submissions, we will remove author-identifying information (name 
 
 - In the second stage, we will add weights as a function of the representation- and need-based criteria outlined above. Specifically:
   - +1 for members of a historically excluded demographic group
-  - +0.5 for individuals going on the job market this year
   - +0.5 for individuals presenting versions of their job market papers
   - +0.5 for not having had an opportunity to present at an institutional workshop
   - +0.5 for not having had an opportunity to present at a major conference
-For practice job talks, we will aim to make time for as many presenters as possible. 
