@@ -61,6 +61,8 @@ Skills
 Honors and Awards
 ======
 * China Computer Federation Student Member, August, 2020 - Present
+* Beijing University of Posts and Telecommunications: Outstanding Undergraduate Student Scholarship First-class Scholarship, December, 2021
+* Beijing University of Posts and Telecommunications: Cultural and Sports Activists, December, 2021
 * College English Test Band 6 Score 463, June, 2021
 * College English Test Band 4 Score 599, December, 2020
 * Beijing University of Posts and Telecommunications: Outstanding Undergraduate Student Scholarship Second-class Scholarship, December, 2020
