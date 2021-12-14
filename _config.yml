@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sakuna Jayasundara"
 title_separator          : "-"
 name                     : &name "Sakuna Jayasundara"
-description              : &description "Deep learning and Machine vision enthusiast, Robotics lover, Chess player"
+description              : &description "Deep learning and Machine vision researcher, Robotics lover, Chess player"
 url                      : https://sakunaharinda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sakunaharinda/sakunaharinda.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sakuna Jayasundara"
   avatar           : "33924326.jpeg"
-  bio              : "Deep learning and Machine vision enthusiast, Robotics lover, Chess player"
+  bio              : "Deep learning and Machine vision researcher, Robotics lover, Chess player"
   location         : "Sri Lanka"
   employer         :
   pubmed           : 
