@@ -42,5 +42,5 @@ Listas de Exercícios
 
 Aulas
 ======
-1. [Apresentação do Curso](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/FM1-apresentacaoCurso.pdf)
+1. [Apresentação do Curso](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/FME1-apresentacaoCurso.pdf)
 
