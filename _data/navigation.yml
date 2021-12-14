@@ -1,10 +1,10 @@
 # main links links
 main:
+  - title: "Call for papers"
+    url: /call-papers/
+
   - title: "Schedule"
     url: /schedule/
-    
-  - title: "Paper"
-    url: /paper/
 
   - title: "Special Events"
     url: /special-events/    
