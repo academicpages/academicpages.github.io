@@ -5,24 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-PLSC 111: Introduction to Internaitonal Relations (Spring 2021)
----
-Undergraduate course, Teaching Assistant for Dr. Ken Scheve
+In Spring 2022, I am a visiting leturer at Wesleyan University. The syllabus for my course, Political Economy of Foreign Aid, is available <a href="cobrienudry.github.io/files/syllabus.pdf">here</a>.
 
-PLSC 349: Visualization of Political and Social Data (Fall 2020)
----
-Undergraduate course, Teaching Assistant for Dr. Alex Coppock
+As a teaching assistant at Yale, I have taught:
+- Introduction to Internaitonal Relations (undergraduate, Spring 2021)
+- Visualization of Political and Social Data (undergraduate, Fall 2020)
+- Quantitative Methods II: Foundations of Statistical Inference (graduate, Spring 2021)
+- Legacies of Conflict and Communism in Europe (undergraduate, Fall 2019); guest lecturer (2019, 2020, 2021)
 
-PLSC 503: Quantitative Methods II: Foundations of Statistical Inference (Spring 2021)
----
-Graduate course, Teaching Assistant for Dr. P.M. Aronow
-
-PLSC 400: Legacies of Conflict and Communism in Europe (Fall 2019)
----
-<p>Undergraduate course, Teaching Assistant for Dr. Andrea Aldrich (Fall 2019)</p>
-<p>Guest Lecturer (Fall 2019, Spring 2021)</p>
-
-Peace Corps Kosovo (2015-2017)
----
-<p>High school English teacher for Serbian and Roma students</p>
-<p>After-school program teacher and coordinator for Albanian, Serbian, and Roma students</p>
+Prior to graduate school, I taught English for Serbian, Roma, and Albanian students as Peace Corps vounteer in Kosovo (2015-2017).
