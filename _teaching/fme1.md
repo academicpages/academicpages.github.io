@@ -40,3 +40,7 @@ Listas de Exercícios
 ======
 * Lista 01
 
+Aulas
+======
+1. [Apresentação do Curso](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/FM1-apresentacaoCurso.pdf)
+
