@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-In Spring 2022, I am a visiting leturer at Wesleyan University. The syllabus for my course, Political Economy of Foreign Aid, is available <a href="cobrienudry.github.io/files/syllabus.pdf">here</a>.
+In Spring 2022, I am a visiting leturer at Wesleyan University. The syllabus for my course, Political Economy of Foreign Aid, is available <a href="https://cobrienudry.github.io/files/syllabus.pdf">here</a>.
 
 As a teaching assistant at Yale, I have taught:
 - Introduction to Internaitonal Relations (undergraduate, Spring 2021)
