@@ -22,8 +22,6 @@ author_profile: false
 | Th, Nov 25, 2021 | 1:30pm - 2:30pm | Thanksgiving  |  |  
 | Th, Dec 2, 2021 | 1:30pm - 2:30pm | Guangbo Xu | Closed and open string theories of gauged linear sigma model |  [https://umn.zoom.us/j/9735843950](https://umn.zoom.us/j/9735843950)
 | Th, Dec 9, 2021 | 1:30pm - 2:30pm | Yongjia Zhang | Bamler’s new entropy techniques for the Ricci flow and their applications |  [https://umn.zoom.us/j/97043232587]( https://umn.zoom.us/j/97043232587)
-| Tu, Dec 14, 2021 | 1:30pm - 2:30pm | Andrew Sageman-Furnas | Constructing isometric tori with the same curvatures
- | [https://umn.zoom.us/j/9735843950](https://umn.zoom.us/j/9735843950)
 | Th, Dec 16, 2021 | 1:30pm - 2:30pm | Josef Dorfmeister | Negative Square Classes in Rational Manifolds |  [https://umn.zoom.us/j/9735843950](https://umn.zoom.us/j/9735843950)
 
 ## Abstracts
