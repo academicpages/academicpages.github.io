@@ -23,8 +23,12 @@ redirect_from:
 <table class="tg">
 <tbody>
 <tr>
+<td width="5%">[10]</td>
+<td width="95%"><strong>Florko, K.R.N.</strong>, Davidson, E.R., Lees, K.J., Hammer, L.J., Lavoie, M.-F., Lennox, R.J., Simard, E., Auger-Méthé, M., Archambault, P., McKindsey, C., Whoriskey, F.G., Furey, N.B. 2021. Tracking movements of decapod crustaceans: a review of a half-century of telemetry-based studies. Marine Ecology Progress Series, 679: 219-239.<a href="https://www.int-res.com/abstracts/meps/v679/p219-239/" rel="noopener noreferrer">doi:10.3354/meps13904</a>.</td>
+</tr>
+<tr>
 <td width="5%">[9]</td>
-<td width="95%"><strong>Florko, K.R.N.</strong>, Tai, T.C., Cheung, W.W.L., Sumaila, U.R., Ferguson, S.H., Yurkowski, D.J., Auger-Méthé, M. 2021. Predicting how climate change threatens the prey base of Arctic marine predators. Ecology Letters.<a href="https://onlinelibrary.wiley.com/doi/10.1111/ele.13866" rel="noopener noreferrer">doi:10.1111/ele.13866</a>.</td>
+<td width="95%"><strong>Florko, K.R.N.</strong>, Tai, T.C., Cheung, W.W.L., Sumaila, U.R., Ferguson, S.H., Yurkowski, D.J., Auger-Méthé, M. 2021. Predicting how climate change threatens the prey base of Arctic marine predators. Ecology Letters, 24: 2563-2575.<a href="https://onlinelibrary.wiley.com/doi/10.1111/ele.13866" rel="noopener noreferrer">doi:10.1111/ele.13866</a>.</td>
 </tr>
 <tr>
 <td width="5%">[8]</td>
