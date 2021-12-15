@@ -14,8 +14,8 @@ redirect_from:
 <table class="tg">
 <tbody>
 <tr>
-<td width="5%">[10]</td>
-<td width="95%"><strong>Florko, K.R.N.</strong>, Davidson, E.R., Lees, K.J., Hammer, L.J., Lavoie, M.-F., Lennox, R.J., Simard, E., Auger-Méthé, M., Archambault, P., McKindsey, C., Whoriskey, F.G., Furey, N.B. In press. Tracking movements of decapod crustaceans: a review of a half-century of telemetry-based studies. <a href="https://www.int-res.com/prepress/m13904.html" rel="noopener noreferrer">doi:10.3354/meps13904</a>.</td>
+<td width="5%">[11]</td>
+<td width="95%">Kwong, L.E., Ross, T., Lüskow, F., <strong>Florko, K.R.N.</strong>, Pakhomov, E.A. 2022. Spatial, seasonal, and climatic variability in mesozooplankton size spectra along a coastal-to-open ocean transect in the subarctic Northeast Pacific. Progress in Oceanography, in press..</td>
 </tr>
 </tbody>
 </table>
