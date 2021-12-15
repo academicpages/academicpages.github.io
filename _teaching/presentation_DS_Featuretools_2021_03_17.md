@@ -1,12 +1,11 @@
 ---
-title: "Lambda and Kappa Architectures"
+title: "Featuretools"
 collection: teaching
 type: "Microsoft PowerPoint"
 date: 2021-12-17
-venue: "Data Architecture"
+venue: "Data Science"
 location: "California"
 ---
 
-This is a presentation that reviews what the Lambda and Kappa Architectures are. 
-![Data Architecture Use Cases](https://github.com/rachaelph/rachaelph.github.io/tree/master/images/dataarchitecture.png)
-You can find the presentation [here](https://github.com/rachaelph/rachaelph.github.io/tree/master/files/21-12-10-DS_Data_Architecture_Use_Cases_Rachael.pptx).
+This is a presentation that reviews how to use the featuretools module in Python!
+The Powerpoint presentation can be found [here](https://github.com/rachaelph/rachaelph.github.io/tree/master/files/21-03-07-DS06_Feature_Tools_Rachael.pptx).
