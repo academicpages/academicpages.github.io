@@ -18,7 +18,6 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-
 <h2>Conference Papers</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'conference' %}
