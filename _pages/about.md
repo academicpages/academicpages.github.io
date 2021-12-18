@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 I am a third-year PhD student in the Institute of Plant Biology, Biological Research Centre, Hungary and Vrije University, The Netherlands,supervised by
-[Dr. Petar Lambrev](http://www.brc.hu/en/research/institute-of-plant-biology/plant-light-perception-and-utilization-research-unit/photosynthetic-membranes-group) and [Dr. Ivo van Stokkum](http://www.few.vu.nl/~ivo/). My research focus on monitoring excitation energy transfer within Cyanobacteria using various spectroscopic methods and data analysis tool.
+[Dr. Petar Lambrev](http://www.brc.hu/en/research/institute-of-plant-biology/plant-light-perception-and-utilization-research-unit/photosynthetic-membranes-group) and [Dr. Ivo van Stokkum](http://www.few.vu.nl/~ivo/). My research focus on monitoring excitation energy transfer and trapping during the light-harvesting process of photosynthesis within Cyanobacteria using various spectroscopic methods and data analysis tool.
 
 
-## News
-- Will be updated soon.
