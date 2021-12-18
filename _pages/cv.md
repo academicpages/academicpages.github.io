@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 2015 B.Sc. in Botany, Scottish Church College,Kolkata,India 
+* 2015 B.Sc. in Botany, Scottish Church College, Kolkata,India 
 * 2017 M.Sc. in Plant Biotechnology, Hyderabad Central University, India
 * 2023 (expected) Joint Ph.D Programme in Biophysics, Biological Research Centre, Hungary & Vrije University, The Netherlands
 
@@ -24,7 +24,7 @@ Work experience
     - Research: Modeling time-resolved fluorescence spectroscopy data
 
 * Mar 2020 -- ongoing: PhD Candidate,Biological Research Centre, Hungary
-    - Exciatation energy transfer and trapping in cynobacteria
+    - Exciatation energy transfer and trapping in caynobacteria
 
 Skills
 ======
