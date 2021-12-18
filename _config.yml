@@ -115,7 +115,29 @@ author:
   xing             :
   youtube          : "https://www.youtube.com/c/avra_b"
   wikipedia        :
-
+  
+  
+# Site Footer
+footer:
+  links:
+    - label: ""
+      icon: ""
+      # url:
+    - label: ""
+      icon: ""
+      # url:
+    - label: ""
+      icon: ""
+      # url:
+    - label: ""
+      icon: ""
+      # url:
+    - label: ""
+      icon: ""
+      # url:
+    - label: ""
+      icon: ""
+      # url:  
 
 # Reading Files
 include:
