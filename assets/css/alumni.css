@@ -39,10 +39,10 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Merriweather', Georgia, Times; font-weigh
 .personas{
     width: 120%;
     margin: auto;
-    margin-bottom: 80px;
+    margin-bottom: 40px;
 
-    margin: 30px;
-    padding: 1px;
+ /*    margin: 30px; */
+    /* padding: 1px; */
     box-sizing: border-box;
 /*     font-family: sans-serif; */
 }
