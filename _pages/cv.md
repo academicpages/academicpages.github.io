@@ -19,9 +19,11 @@ Education
 Relevant Experience
 ===================
 
-* Labcorp | Mar 2018 - Present | IT Specialist - IT Infrastructure & Business Continuity
+* IT Specialist - IT Infrastructure & Business Continuity - Mar 2018 - Present
+* *Labcorp*
   * Duties included: Windows & Linux Systems Administration, Network Administration, Tier 2 End User Support for 6 States & Puerto Rico, Project Management, and Task Automation.
-* Homelab | May 2018 - Present | Systems Architect
+* Systems Architect - May 2018 - Present
+* *Homelab*
   * Built, automated, and mainted production-level systems solely for the purpose of learning and enjoying the technology
   * Systems include:
     * VMWare suite (vSphere including ESXi, vRealize)
@@ -32,7 +34,7 @@ Relevant Experience
     * Windows Servers performing ADFS, ADDS, DNS, DHCP, Group Policy, Azure AD sync, SCCM, and more.
     * Hardware that includes Cisco Switches, Ubiquiti switches and routers, and Dell and HP servers.
     * Networking providing RADIUS, Remote User VPN, VLANs, firewall, and IDS/IPS services.
-    * Currently learning/improving on Ansible, Kubernetes, SCCM, and
+    * Currently learning/improving on Ansible, Kubernetes, SCCM, and Python.
 
 Skills
 ======
