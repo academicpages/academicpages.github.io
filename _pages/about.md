@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Avratanu Biswas"
-excerpt: "Personal Page"
+# title: "Avratanu Biswas"
+excerpt: "Avratanu Biswas"
 author_profile: true
 redirect_from: 
   - /about/
