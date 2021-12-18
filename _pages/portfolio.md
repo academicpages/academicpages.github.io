@@ -15,6 +15,3 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-# Vaccination project
-
-# Accesibility and friction surface
