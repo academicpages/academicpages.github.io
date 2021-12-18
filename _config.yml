@@ -11,9 +11,9 @@ title                    : "Avratanu Biswas"
 title_separator          : "-"
 name                     : &name "Avratanu Biswas"
 description              : &description "PhD Student in Biophysics at Biological Research Centre, Szeged, Hungary"
-url                      : https://avra.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://avratanubiswas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "AvratanuBiswas/avratanubiswas.com"
+repository               : "AvratanuBiswas.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
