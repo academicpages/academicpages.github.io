@@ -23,7 +23,7 @@ Work experience
 * Oct 2018 -- Feb 2020: Marie Curie Early Stage Researcher, Vrije University, Amsterdam
     - Research: Modeling time-resolved fluorescence spectroscopy data
 
-* Mar 2020 -- ongoing: PhD Candidate,Biological Research Centre, Hungary
+* Mar 2020 -- ongoing: PhD Candidate, Biological Research Centre, Hungary
     - Exciatation energy transfer and trapping in caynobacteria
 
 Skills
