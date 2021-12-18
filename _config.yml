@@ -8,6 +8,13 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Avratanu Biswas"
+minimal_mistakes_skin: "default"
+minimal_mistakes_skin_dark: "dark"
+
+
+logo: "/assets/brand/logo.svg"
+logo_dark: "/assets/brand/logo_dark.svg"
+
 title_separator          : "-"
 name                     : &name "Avratanu Biswas"
 description              : &description "PhD Student in Biophysics at Biological Research Centre, Szeged, Hungary"
