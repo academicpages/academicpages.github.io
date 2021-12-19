@@ -24,6 +24,5 @@ I am final year PhD student in the Institute of Plant Biology, Biological Resear
 
 ----------
 <a class="twitter-timeline" data-width="600" data-height="1000" data-dnt="true" data-theme="light" href="https://twitter.com/Avra_b?ref_src=twsrc%5Etfw">Tweets by Avra_b</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script>
-
-<a href="https://twitter.com/Avra_b?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Avra_b</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/Avra_b?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @Avra_b</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
