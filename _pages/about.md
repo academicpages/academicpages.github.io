@@ -11,12 +11,13 @@ marp: false
 ---
 I am final year PhD student in the Institute of Plant Biology, Biological Research Centre, Hungary and Vrije University, The Netherlands, supervised by [Dr. Petar Lambrev](http://www.brc.hu/en/research/institute-of-plant-biology/plant-light-perception-and-utilization-research-unit/photosynthetic-membranes-group) and [Dr. Ivo van Stokkum](http://www.few.vu.nl/~ivo/). Currently, I'm working at the [Photosynthetic Membranes Group](http://www.brc.hu/en/research/institute-of-plant-biology/plant-light-perception-and-utilization-research-unit photosynthetic-membranes-group),[Biological Research Centre](http://www.brc.hu/en).
 
-My research primarily focus on monitoring excitation energy transfer and trapping within Cyanobacteria during the light-harvesting process of photosynthesis. We use various spectroscopic methods and data analysis tools to probe this radpid fast natural processes within photosynthetic organisims.
+My research primarily focus on monitoring excitation energy transfer and trapping within cyanobacteria during the light-harvesting process of photosynthesis. We use various spectroscopic methods and data analysis tools to probe this radpid fast natural processes within photosynthetic organisims.
 
 In my leisure time, I enjoy playing different sports (especially Cricket and Table-tennis), painting, coding for fun, among many other things. Out here, you will find my posts related to my academic works, academic social networks, side projects, and occasional blog posts. Feel free to contact me in case of any inquiry!
 
-## News
+> Life is what happens when you're busy making other plans - *John Lennon*
 
+## Updates 
 - Nov 2021: I have been awarded a [Straub Young Scientist Prize 2021](http://www.brc.hu/hu/blog/2021/11/5/8-fiatal-kutato-nyerte-el-straub-fiatal-kutatoi-dij-at).
 - Nov 2021: We submitted our paper titled, [Trimeric Photosystem I facilitates energy transfer from phycobilisomes in Synechocystis PCC 6803](https://www.biorxiv.org/content/10.1101/2021.10.25.465751v1.full.pdf). 
 - Mar 2021: Our paper titled, [Excitation energy transfer kinetics of trimeric, monomeric and subunit-depleted Photosystem I from Synechocystis PCC 6803](https://portlandpress.com/biochemj/article-abstract/478/7/1333/228049/Excitation-energy-transfer-kinetics-of-trimeric?redirectedFrom=fulltext), accepted in Biochemical Journal.
