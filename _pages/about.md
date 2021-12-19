@@ -22,4 +22,8 @@ I am final year PhD student in the Institute of Plant Biology, Biological Resear
 - Oct 2018: I have been awarded *Marie Skłodowska-Curie Early Stage Researcher grant*, to pursue my research work at the [Vrije University Amsterdam](https://vu.nl/en). I will be working on the project, [Solar Energy to Biomass](http://se2b.eu).
 - Sep 2018: I have been awarded a [Stipendium Hungaricum Scholarship](https://stipendiumhungaricum.hu) for my PhD studies.
 
+----------
+<a class="twitter-timeline" data-width="600" data-height="1000" data-dnt="true" data-theme="light" href="https://twitter.com/Avra_b?ref_src=twsrc%5Etfw">Tweets by Avra_b</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script>
+
+<a href="https://twitter.com/Avra_b?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Avra_b</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
