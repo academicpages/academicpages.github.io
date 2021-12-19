@@ -31,7 +31,7 @@ Skills
 - Matlab
 - Python
 - Julia
-- UI development using Streamlit Python Framework, Matlab App-Designer
+- UI development(*using Streamlit Python Framework, Matlab App-Designer*)
 
 Publications
 ======
