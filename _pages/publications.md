@@ -10,21 +10,25 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 ## Ongoing Statistical Methods Papers
 
 **[On the Evaluation of Surrogate Markers in Real World Data Settings](https://arxiv.org/abs/2104.05513)**.    
-*2021 ENAR Distinguished Student Paper Award.*    
+*2021 John Van Ryzin Award and ENAR Distinguished Student Paper Award.*    
 **Han L,** Wang X, Cai T.  
 We provide doubly robust estimation and inference for the proportion of treatment effect on a true outcome that is explained by a surrogate marker in observational data settings.
+
+**[Federated Adaptive Causal Estimation (FACE) for Target Treatment Effects](https://arxiv.org/abs/2112.09313)**.  
+**Han L,** Hou J, Cho K, Duan R, Cai T.  
+We develop privacy-preserving, communication-efficient, and doubly robust estimation and inference for targeted average treatment effects in the presence of heterogeneity.
+
+**Representative Optimal Sensitivity Analysis (ROSA) for Clinical Trials**.  
+**Han L,** Arfe A, Trippa L.  
+This paper develops a principled approach for sensitivity analysis of design parameters in the evaluation of competing trial designs.
 
 **Doubly Robust Semi-supervised Estimation of Survival**.    
 **Han L,** Hou J, Cai T.  
 This paper develops semi-supervised, transfer learning methods to improve efficiency of pragmatic trials when the study endpoint is time-to-event and is captured using imperfect surrogates in electronic health records.
 
-**Distributed Learning for Causal Inference**.  
-**Han L,** Duan R, Cai T.  
-We develop privacy-preserving, communication-efficient, and doubly robust estimation and inference for targeted average treatment effects in the presence of heterogeneity.
-
-**Optimal Sensitivity Analysis for Clinical Trials**.  
-**Han L,** Arfe A, Trippa L.  
-This paper develops a principled approach for sensitivity analysis of design parameters in the evaluation of competing trial designs.
+**Federated Causal Inference for Hospital Quality Measurement**.  
+**Han L,** Li Y, Niknam B, Zubizarreta J.  
+We leverage distributed and heterogeneous multi-hospital data for hospital ranking and quality measurement purposes.
 
 **Principal Resampling for Causal Inference**.  
 Han S, **Han L,** Zubizarreta, J.  
