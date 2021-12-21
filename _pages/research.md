@@ -28,8 +28,6 @@ redirect_from:
 
 ## In Preparation
 
-- **Electoral Risk and Vote Buying, Introducing Prospect Theory in the Experimental Study of Clientelism**. <br/> [[Paper]](https://github.com/hbahamonde/Economic_Experiment_Vote_Selling/raw/master/Vote_Selling_Bahamonde_Canales_Paper.pdf). [[Abstract]](https://github.com/hbahamonde/Economic_Experiment_Vote_Selling/raw/master/abstract.txt). **In preparation**. With Andrea Canales (UOH).
-
 
 - **Analyzing Conjoint Datasets with Support Vector Machine Methods**. <br/> [[Paper]](https://github.com/hbahamonde/Conjoint_US/raw/master/Bahamonde_Quininao_Conjoint_Letter_PA.pdf). [[Abstract]](https://github.com/hbahamonde/Conjoint_US/raw/master/abstract_letter.txt) **In preparation**. With Cristobal Quininao (UOH).
 
