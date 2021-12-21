@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
+  provider               :  "goatcounter" # false (default), "google", "google-universal", "custom"
+  google:       
+    tracking_id          :  avrab
 
 
 # Site Author
