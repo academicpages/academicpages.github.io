@@ -11,30 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Economics, Universidad del Pacífico, 2017
+  * International Exchange, Maastricht University, 2016
+* M.S. in Economics, Universidad del Pacífico, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Central Reserve Bank of Peru: 2018-Nowadays
+  * Macroeconomic Modelling Division
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Universidad del Pacífico: 2017-Nowadays
+  * Teaching Assistant
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Stata
+* Python
+* R
+* Matlab
+* Fluent English
 
 Publications
 ======
@@ -56,4 +51,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Confirmation Catechist at Champagnat School (2012-2016)
