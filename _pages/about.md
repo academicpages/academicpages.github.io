@@ -23,4 +23,5 @@ From November 2021 to February 2022, I will be working as an intern at the Indus
 [Code Contribution for the Open Source Project JsonPath](https://github.com/json-path/JsonPath/pull/694)  
 [Game Platform Website](https://github.com/CindyChow123/GameCenter_2020_fall_ooad)   
 ## Publications
-**A NOVEL MULTI-FOCUS FUSION NETWORK FOR RETINAL MICROSURGERY** has been submitted to ISBI and is currently under review, the notification date is 7 January 2022 🙏.
+**A NOVEL MULTI-FOCUS FUSION NETWORK FOR RETINAL MICROSURGERY**   
+This article has been submitted to ISBI and is currently under review, the notification date is 7 January 2022 🙏.
