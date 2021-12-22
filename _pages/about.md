@@ -12,8 +12,8 @@ I am a senior student at Southern University of Science and Technology([SUSTECH]
 
 # Research interests
 - Artificial Intelligence
-- Healthcare and Medical Problems
-- Interactive front-end development
+- Healthcare and Medical Engineering
+- Interactive Front-end Development
 
 # Recent Activities
 ## Interships
