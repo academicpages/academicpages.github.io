@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Economics, Universidad del Pacífico, 2017
+* B.S. in Economics, Universidad del Pacifico, 2017
   * International Exchange, Maastricht University, 2016
-* M.S. in Economics, Universidad del Pacífico, 2021
+* M.S. in Economics, Universidad del Pacifico, 2021
 
 Work experience
 ======
 * Central Reserve Bank of Peru: 2018-Nowadays
   * Macroeconomic Modelling Division
 
-* Universidad del Pacífico: 2017-Nowadays
+* Universidad del Pacifico: 2017-Nowadays
   * Teaching Assistant
   
 Skills
