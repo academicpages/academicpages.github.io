@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinyi Zhou / IMED"
+title                    : "Xinyi Zhou"
 title_separator          : "-"
 name                     : &name "Xinyi Zhou"
 description              : &description "Senior student at SUSTECH"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xinyi Zhou"
   avatar           : "selfie.jpg"
-  bio              : "Senior Student @ SUSTECH"
-  location         : "Shenzhen"
+  bio              : "In a world of worriers, be a warrior."
+  location         : "SUSTech@Shenzhen"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
