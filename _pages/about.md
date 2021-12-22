@@ -25,3 +25,5 @@ From November 2021 to February 2022, I will be working as an intern at the Indus
 ## Publications
 **A NOVEL MULTI-FOCUS FUSION NETWORK FOR RETINAL MICROSURGERY**   
 This article has been submitted to ISBI and is currently under review, the notification date is 7 January 2022 🙏.
+## Blogs
+My blog about **Remote Patient Monitoring Systems** is to be released soon👩‍💻. Hope you would find that useful!
