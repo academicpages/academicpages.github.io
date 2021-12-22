@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello World :world_map:"
+title: "Hello World :world_map:, Welcome to Xinyi Zhou's Website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
