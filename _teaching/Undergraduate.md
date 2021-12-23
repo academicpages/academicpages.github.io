@@ -1,9 +1,9 @@
 ---
-title: "Underraduate Teaching Assistant"
+title: "Undergraduate Teaching Assistant"
 collection: teaching
-type: "Workshop"
 permalink: /teaching/Graduate
 venue: "Universidad del Pacifico & Universidad de Piura"
+date: 2021-08-15
 location: "Lima, Peru"
 ---
 

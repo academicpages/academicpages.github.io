@@ -1,9 +1,9 @@
 ---
 title: "Graduate Teaching Assistant"
 collection: teaching
-type: "Workshop"
 permalink: /teaching/Graduate
 venue: "Universidad del Pacifico & BCRP's Summer School in Economics"
+date: 2021-08-15
 location: "Lima, Peru"
 ---
 
