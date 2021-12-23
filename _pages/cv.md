@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-(https://github.com/joharav/joharav.github.io/blob/joharav/assets/files/Resume_JAV.pdf)
+<iframe src="/assets/files/Resume_JAV.pdf" width="100%" height="800"></iframe>
 
 Education
 ======
