@@ -28,7 +28,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "dark" (default)
+    colorscheme          : # "dark" (default),"dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -222,4 +222,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-hamilton
+theme: jekyll-theme-minimal
