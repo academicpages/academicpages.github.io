@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-(https://github.com/joharav/joharav.github.io/blob/joharav/assets/files/Resume_JAV.pdf)
+https://github.com/joharav/joharav.github.io/blob/joharav/assets/files/Resume_JAV.pdf
 
 Publications
 ======
