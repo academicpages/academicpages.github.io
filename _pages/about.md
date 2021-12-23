@@ -14,4 +14,8 @@ I am particularly interested in the topic of applied macroeconomics, experimenta
 
 Currently, I am working at the Central Reserve Bank of Peru at the Macroeconomic Modelling Division. 
 
-You can contact me at arrietavjg@gmail.com
+## [Research](research)
+
+## [Teaching](teaching)
+
+## [CV](cv)
