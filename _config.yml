@@ -12,7 +12,6 @@ title_separator          : "-"
 name                     : &name "Johar Arrieta Vidal"
 description              : &description "Economist at Central Reserve Bank of Peru"
 url                      : https://joharav.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joharav/joharav.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -29,7 +28,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "dark" (default), "dark"
+    colorscheme          : # "dark" (default)
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -63,7 +62,6 @@ author:
   avatar           : "profile.png"
   bio              : "Economist from Universidad del Pacifico at BCRP. Mainly talking about monetary economics, development, experiments, photography, anime, videogames and soccer."
   location         : "Lima, Peru"
-  employer         :
   email            : "arrietavjg@gmail.com"
   github           : "joharav"
   twitter          : "johar_arrieta"
@@ -130,9 +128,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,4 +222,4 @@ compress_html:
   ignore:
     envs: development
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hamilton
