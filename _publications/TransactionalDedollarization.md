@@ -6,9 +6,9 @@ excerpt: 'Partial currency substitution typically occurs in small open economies
 Our experimental evidence suggests that taxes (treatment 1) and storage cost (treatment 2) can foster de-dollarization as they reduce foreign currency acceptance and reinforce the use of local currency. However, we find that the impact of a reduction in the storage costs of local currency is more significant and more robust. It lowered the acceptance rate of FC by more than 20% and increased the acceptance of LC by more than 30%. The tax policy only reduced foreign currency acceptance by a smaller amount and only for encounters with foreign agents.'
 date: 2021-12-17
 venue: 'Journal of Economic Behavior and Organization (Conditionally Accepted)'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://github.com/joharav/joharav.github.io/blob/joharav/assets/files/Policies_For_DeDollarization.pdf'
 citation: 'Arrieta, J., Florian, D., Lopez Vargas, K, and Morales, V. (2021). "Policies for Transactional De-Dollarization: A Laboratory Study." Conditionally Accepted at JEBO.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://github.com/joharav/joharav.github.io/blob/joharav/assets/files/Policies_For_DeDollarization.pdf)
 
