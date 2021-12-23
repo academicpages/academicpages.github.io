@@ -8,12 +8,16 @@ location: "Lima, Peru"
 ---
 
 I was a teaching assistant for the following courses:
-  *Universidad del Pacifico
-  ** Introductory Macroeconomics
-  ** Intermediate Macroeconomics
-  ** Intermediate Microeconomics
-  ** Monetary Economics
-  ** Growth and Cycles
-  ** International Trade Theory
-  *Universidad de Piura
-  **Monetary Economics
+  
+  * Universidad del Pacifico
+  
+    ** Introductory Macroeconomics
+    ** Intermediate Macroeconomics
+    ** Intermediate Microeconomics
+    ** Monetary Economics
+    ** Growth and Cycles
+    ** International Trade Theory
+  
+  * Universidad de Piura
+  
+    ** Monetary Economics
