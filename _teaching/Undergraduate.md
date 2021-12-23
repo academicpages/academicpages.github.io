@@ -4,11 +4,10 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/Graduate
 venue: "Universidad del Pacifico & Universidad de Piura"
-date: 2017-2021
 location: "Lima, Peru"
 ---
 
-Universidad del Pacifico
+Universidad del Pacifico (2017-2021)
 ======
   * Introductory Macroeconomics
   * Intermediate Macroeconomics
@@ -17,6 +16,6 @@ Universidad del Pacifico
   * Growth and Cycles
   * International Trade Theory
 
-BCRP's Summer School in Economics
+Universidad de Piura (2021)
 ======
   * Monetary Economics
