@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<iframe src="/assets/files/Resume_JAV.pdf" width="100%" height="800"></iframe>
+
 Education
 ======
 * B.S. in Economics, Universidad del Pacifico, 2017
@@ -29,6 +31,7 @@ Skills
 * Python
 * R
 * Matlab
+* Latex
 * Fluent English
 
 Publications

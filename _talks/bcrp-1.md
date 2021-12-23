@@ -1,5 +1,5 @@
 ---
-title: "Interaction between cycles"
+title: "Ciclos reales y crediticios: Buscando dependencias"
 collection: talks
 type: "Talk"
 venue: "Central Reserve Bank of Peru, Economist Meetings"
