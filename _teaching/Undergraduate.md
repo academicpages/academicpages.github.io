@@ -8,17 +8,12 @@ date: 2021-08-15
 location: "Lima, Peru"
 ---
 
-I was a teaching assistant for the following courses:
-  
-  ## Universidad del Pacifico
-  
+At the Economics Department of Universidad del Pacífico (2017-2021) and Piura (2021) I was a teaching assistant for the following courses:
+
     * Introductory Macroeconomics
     * Intermediate Macroeconomics
     * Intermediate Microeconomics
     * Monetary Economics
     * Growth and Cycles
     * International Trade Theory
-  
-  ## Universidad de Piura
-  
-    * Monetary Economics
+
