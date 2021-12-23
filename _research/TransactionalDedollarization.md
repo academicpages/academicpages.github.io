@@ -23,4 +23,3 @@ Conditionally Accepted at Information Systems Research
 
 [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3606014)
 
-Recommended citation: Arrieta, J., Florián, D., López Vargas, K, and Morales, V. (2021). &quot;Policies for Transactional De-Dollarization: A Laboratory Study.&quot; <i>Working Paper</i>.

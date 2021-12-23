@@ -6,7 +6,6 @@ collection: research
 
 permalink: /research/TransactionalDedollarization
 
-
 excerpt: ''
 
 date: 2021-12-18
@@ -22,5 +21,3 @@ Partial currency substitution typically occurs in small open economies amid econ
 Conditionally Accepted at Information Systems Research
 
 [Download](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3606014)
-
-Recommended citation: Arrieta, J., Florián, D., López Vargas, K, and Morales, V. (2021). &quot;Policies for Transactional De-Dollarization: A Laboratory Study.&quot; <i>Working Paper</i>.
