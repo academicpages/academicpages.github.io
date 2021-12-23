@@ -7,15 +7,12 @@ date: 2021-08-15
 location: "Lima, Peru"
 ---
 
-Universidad del Pacifico (2017-2021)
-======
+At the Department of Economics of Universidad del Pacifico, I was a teaching assistant for the following courses:
   * Introductory Macroeconomics
   * Intermediate Macroeconomics
   * Intermediate Microeconomics
   * Monetary Economics
   * Growth and Cycles
   * International Trade Theory
-
-Universidad de Piura (2021)
-======
-  * Monetary Economics
+Then, at the Department of Economics of Universidad de Piura I taught:
+  *Monetary Economics 
