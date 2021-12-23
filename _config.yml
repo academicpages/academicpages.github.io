@@ -12,6 +12,7 @@ title_separator          : "-"
 name                     : &name "Johar Arrieta Vidal"
 description              : &description "Peruvian Economist"
 url                      : https://joharav.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joharav/joharav.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -62,6 +63,7 @@ author:
   avatar           : "profile.png"
   bio              : "Peruvian Economist. Mainly talking about monetary economics, development, experiments, photography, anime, videogames and soccer."
   location         : "Lima, Peru"
+  employer         :
   email            : "arrietavjg@gmail.com"
   github           : "joharav"
   twitter          : "johar_arrieta"
@@ -128,6 +130,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
