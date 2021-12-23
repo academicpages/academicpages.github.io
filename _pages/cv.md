@@ -44,4 +44,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+  
+Service and leadership
+======
+* Confirmation Catechist at Champagnat School (2012-2016)
