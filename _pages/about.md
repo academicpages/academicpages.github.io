@@ -9,3 +9,11 @@ redirect_from:
 ---
 
 Hello and welcome to my page!
+
+I am Johar Arrieta Vidal, I am a Peruvian economist looking to continue his studies in a Ph.D. Program. 
+
+I am particularly interested in the topic of applied macroeconomics, experimental and behavioral economics, history and development.
+
+Currently, I am working at the Central Reserve Bank of Peru at the Macroeconomic Modelling Division. 
+
+You can contact me at arrietavjg@gmail.com
