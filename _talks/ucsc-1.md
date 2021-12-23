@@ -1,5 +1,5 @@
 ---
-title: "Policies for Transactional Dedollarization"
+title: "Policies for Transactional De-dollarization: A Laboratory Study"
 collection: talks
 type: "Talk"
 venue: "UC Santa Cruz, Department of Economics, Experimental Economics Workshop"
