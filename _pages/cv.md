@@ -10,4 +10,5 @@ redirect_from:
 {% include base_path %}
 
 (https://github.com/joharav/joharav.github.io/blob/joharav/assets/files/Resume_JAV.pdf)
-* Updated on December 23, 2021
+
+Updated on December 23, 2021
