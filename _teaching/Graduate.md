@@ -8,9 +8,9 @@ location: "Lima, Peru"
 ---
 I was a teaching assistant for the following courses:
 
-  * Universidad del Pacifico
+  ## Universidad del Pacifico
   
-    ** Advanced Macroeconomics I
-  * Central Reserve Bank of Peru Summer School in Economics
+    * Advanced Macroeconomics I
+  ## Central Reserve Bank of Peru Summer School in Economics
   
-    ** Monetary Economics
+    * Monetary Economics
