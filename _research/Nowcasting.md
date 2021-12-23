@@ -1,13 +1,3 @@
-
-excerpt: ''
-date: 2021-09-30
-venue: 'Revista Moneda, Banco Central de Reserva del Peru, issue 187, pages 33-36.'
-paperurl: 'https://github.com/joharav/joharav.github.io/blob/joharav/assets/files/moneda-187-06.pdf'
-citation: Florian, David & Arrieta, Johar & Ledesma, Alan, 2021. "Proyecciones inmediatas y de corto plazo para la actividad economica en tiempos de la pandemia del COVID-19," Revista Moneda, Banco Central de Reserva del Peru, issue 187, pages 33-36.
----
-
-[Download paper here](https://github.com/joharav/joharav.github.io/blob/joharav/assets/files/moneda-187-06.pdf)
-
 ---
 
 title: "Proyecciones inmediatas y de corto plazo para la actividad economica en tiempos de la pandemia del COVID-19"
