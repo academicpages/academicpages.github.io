@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 (https://github.com/joharav/joharav.github.io/blob/joharav/assets/files/Resume_JAV.pdf)
-
 Education
 ======
 * B.S. in Economics, Universidad del Pacifico, 2017
@@ -25,7 +24,14 @@ Work experience
 * Universidad del Pacifico: 2017-Nowadays
   * Teaching Assistant
   
-
+Skills
+======
+* Stata
+* Python
+* R
+* Matlab
+* Latex
+* Fluent English
 
 Publications
 ======
