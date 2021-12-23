@@ -11,9 +11,6 @@ redirect_from:
 
 (https://github.com/joharav/joharav.github.io/blob/joharav/assets/files/Resume_JAV.pdf)
 
-
-
-
 Publications
 ======
   <ul>{% for post in site.publications %}
