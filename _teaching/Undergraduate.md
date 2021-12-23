@@ -3,12 +3,12 @@ title: "Underraduate Teaching Assistant"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/Graduate
-venue: "Universidad del Pacífico & Universidad de Piura"
+venue: "Universidad del Pacifico & Universidad de Piura"
 date: 2017-2021
 location: "Lima, Peru"
 ---
 
-Universidad del Pacífico
+Universidad del Pacifico
 ======
   * Introductory Macroeconomics
   * Intermediate Macroeconomics
