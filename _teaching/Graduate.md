@@ -1,6 +1,7 @@
 ---
 title: "Graduate Teaching Assistant"
 collection: teaching
+type: "Graduate course"
 permalink: /teaching/Graduate
 venue: "Universidad del Pacifico & BCRP's Summer School in Economics"
 date: 2021-08-15

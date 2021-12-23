@@ -1,6 +1,7 @@
 ---
 title: "Undergraduate Teaching Assistant"
 collection: teaching
+type: "Undergraduate course"
 permalink: /teaching/Graduate
 venue: "Universidad del Pacifico & Universidad de Piura"
 date: 2021-08-15
