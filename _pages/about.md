@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Hello and welcome to my homepage!"
+title: "Johar Arrieta Vidal"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Hello and welcome to my homepage!
 
 I am Johar Arrieta Vidal, I am a Peruvian economist looking to continue his studies in a Ph.D. Program. 
 
