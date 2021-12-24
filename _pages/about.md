@@ -8,12 +8,14 @@ redirect_from:
   - /about.html  
 ---
 
-My name is Z. Sun, a 3rd year PhD student at UCL. I am very very lucky to be supervised by Prof. F-X Briol and Prof. J-H Xue. 
+My name is Z. Sun, a 3rd year PhD student at UCL. I am very very lucky to be supervised by Prof. F-X Briol and Prof. J-H Xue. My research is funded by EPSRC and UCL jointly. Prior to my journey to UCL, I obtained a MSc degree in Statistics with Distinction from the University of Oxford. 
+
+This year, I am an Enrichment student at The Alan Turing Institute.
 
 
 Research Interest
 ======
-In general, I am very interested in __computational statistics__ and __machine learning__.
+In general, I am very interested in __computational statistics__ and __machine learning__. 
 
 
 
@@ -41,6 +43,9 @@ Talks/Presentations
 *  Talk at _[MCM]()_ (Special Session on Stein's method), August 2021, German.
 *  Poster at _[AISTATS 2021]()_, April 2021, USA.
 *  Talk at _DCE @ [ATI]()_, March 2021, UK.
+
+
+
 
 
 
