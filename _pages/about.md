@@ -33,7 +33,8 @@ I'm interested in modeling techniques and algorithms on mixed-integer optimizati
 ---
 # Publications
 ## Preprints
-1. Akinori Tanaka, Akiyoshi Sannai, Ken Kobayashi and Naoki Hamada: Approximate Bayesian computation of Bézier simplices, arXiv preprint, arXiv:2104.04679 (2021)
+1. Ken Kobayashi, Yuichi Takano, Kazuhide Nakata: Cardinality-constrained Distributionally Robust Portfolio Optimization, arXiv preprint, arXiv:2112.12454 (2021).
+1. Akinori Tanaka, Akiyoshi Sannai, Ken Kobayashi and Naoki Hamada: Approximate Bayesian computation of Bézier simplices, arXiv preprint, arXiv:2104.04679 (2021).
 
 ## Refereed Journal Papers and Conference Proceedings
 1. Kentaro Kanamori, Takuya Takagi, Ken Kobayashi and Hiroki Arimura: Distribution-Aware Counterfactual Explanation by Mixed-integer Linear Optimization. Transactions of the Japanese Society for Artificial Intelligence (in press).
