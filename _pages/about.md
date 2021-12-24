@@ -8,5 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Since October 2021 I am a postdoc in the MAchine learninG in information NETworks (MAGNET) team at Inria Lille with Prof. Marc Tommasi and Aurélien Bellet.
-As part of the Inria-EPFL international lab, I also work with Prof. Anne-Marie Kermarrec from the Scalable Computing Systems (SaCS) lab of EPFL.
+Since October 2021 I am a postdoc in the MAchine learninG in information NETworks ([MAGNET](https://team.inria.fr/magnet/)) team at Inria Lille with Prof. [Marc Tommasi](http://researchers.lille.inria.fr/tommasi/) and [Aurélien Bellet](http://researchers.lille.inria.fr/abellet/).
+As part of the Inria-EPFL international lab, I also work with Prof. [Anne-Marie Kermarrec](https://people.epfl.ch/anne-marie.kermarrec) from the Scalable Computing Systems ([SaCS](https://www.epfl.ch/labs/sacs/)) lab at EPFL. I am currently interested in the study of federated/decentralized optimization algorithms when the data are not identically distributed across nodes. In particular, I am focusing on the impact of the graph that is used on the convergence of these algorithms. 
+
+Before that, I completed a PhD in applied mathematics at Centre Borelli, ENS Paris-Saclay, under the supervision of Prof. [Nicolas Vayatis](https://nvayatis.perso.math.cnrs.fr/) and [Argyris Kalogeratos](https://kalogeratos.com/psite/). My thesis work revolved around different problems such as graph inference, anomaly detection and change-point detection. In particular, I had a strong interest in the statistical aspects behind the modeling and analysis of these problems.
+
+Prior to my thesis, I obtained a master in mathematics, computer vision and machine learning (MVA) at ENS Paris-Saclay.
+
+You can learn more about me, like the fact that I skateboard and climb, on my CV.
