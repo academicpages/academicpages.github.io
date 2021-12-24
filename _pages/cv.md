@@ -34,6 +34,6 @@ Professional activities
 ======
 * Journal Reviews:
   * IEEE Transactions on Medical Imaging (TMI)
-  * IEEE Journal of Biomedical and Health Informatics (JBHI)
   * IEEE Transactions on Geoscience and Remote Sensing (TGRS)
+  * IEEE Journal of Biomedical and Health Informatics (JBHI)
   * Neurocomputing
