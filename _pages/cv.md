@@ -30,7 +30,7 @@ Internship experience
   * SenseTime Research
   * Job description: Automatic chest disease diagnosis in Chest-X Ray Image, and won the third place in [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/) challenge (Sep 19, 2019); supervised by <b>[Mr. Tao Song](https://scholar.google.co.uk/citations?user=Xzk31ssAAAAJ&hl=en)</b>.
 
-Professional Activities
+Professional activities
 ======
 * Journal Reviews:
   * IEEE Transactions on Medical Imaging (TMI)
