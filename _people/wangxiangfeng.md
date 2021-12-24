@@ -31,6 +31,9 @@ permalink: /people/xfwang
 
 ---
 
+### Awards
+- 2021 IEEE Signal Processing Society Best Paper Award (for the paper *Multi-Agent Distributed Large-Scale Optimization by Inexact Consensus ADMM* with Tsung-Hui Chang and Mingyi Hong on *IEEE Transactions on Signal Processing*)
+
 ### Externally Funded Projects
 - Research on Advanced Machine Learning Method based on Structured Self-Adaptive and Self-Evolution, National Key Research and Development Program of China, MOST, 2021-2023.
 - Research on Machine Learning Algorithms for Distributed Optimization Problems, National Natural Science Foundations of China, NSFC, 2021-2024.
@@ -102,11 +105,5 @@ permalink: /people/xfwang
 ### Teaching
 - Multi-agent Reinforcement Learning
 - Optimization for Machine Learning
-
----
-
-### Professional Membership and Services
-- 上海市运筹学会青工委委员
-- 上海市计算机学会青工委委员
 
 ---
