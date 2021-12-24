@@ -20,8 +20,8 @@ You can learn more about me, like the fact that I skateboard and climb ;), on my
 ### Research interests
 
 * Statistical Learning, High dimentional statistics
-* Machine Learning with Graphs
 * Decentralized Optimization
 * Federated Learning
+* Machine Learning with Graphs
 * Robust Statistics
 * Privacy in Machine Learning
