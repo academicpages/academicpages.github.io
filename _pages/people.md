@@ -591,6 +591,24 @@ redirect_from:
       <div class="member_intro" >2021，蚂蚁集团</div>
     </div>
   </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name" >WANG Junjie 王俊杰</div>
+      <div class="member_intro" >2021，蚂蚁集团</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name" >WANG Junjie 王俊杰</div>
+      <div class="member_intro" >2021，蚂蚁集团</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name" >WANG Junjie 王俊杰</div>
+      <div class="member_intro" >2021，蚂蚁集团</div>
+    </div>
+  </div>
   <div class="member_item">
     <div class="member_pic_wrapper" >
       <div class="member_name" ><a href="https://www.zhihu.com/people/46b1617a700a162f890500da919f31eb">HU Yiqiu 胡亦秋</a></div>
