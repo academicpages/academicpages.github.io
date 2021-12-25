@@ -196,28 +196,28 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="liwenhao"></div>
       <div class="member_name" ><a href="https://www.zhihu.com/people/lee-40-50-50/posts">LI Wenhao 李文浩 </a></div>
-      <div class="member_intro" >多智能体强化学习、分布式机器学习、路径规划</div>
+      <div class="member_intro" >MARL</div>
     </div>
   </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="shengjunjie"></div>
       <div class="member_name" ><a href="https://www.yuque.com/jarvis-awajg">SHENG Junjie 盛俊杰 </a></div>
-      <div class="member_intro" >多智能体强化学习、通信学习</div>
+      <div class="member_intro" >MARL</div>
     </div>
   </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="huayun"></div>
       <div class="member_name" ><a href="https://www.zhihu.com/people/yun-hua-38">HUA Yun 华贇 </a></div>
-      <div class="member_intro" >多智能体强化学习、元强化学习、智能交通</div>
+      <div class="member_intro" >MARL and Meta-RL</div>
     </div>
   </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="shenchuyun"></div>
       <div class="member_name" ><a href="https://chuyun-shen.github.io/">SHEN Chuyun 沈楚云 </a></div>
-      <div class="member_intro">公平、多智能体强化学习</div>
+      <div class="member_intro">MARL and Medical Imaging</div>
     </div>
   </div>
 
@@ -413,42 +413,42 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="chengweiwen"></div>
       <div class="member_name"><a href="https://cww97.cn/">CHEN Weiwen 陈伟文</a></div>
-      <div class="member_intro" >ICPC Silver; Interest: Multi-Modal, CV, Robotic</div>
+      <div class="member_intro" >强化学习与机器人</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="chenhongjun"></div>
       <div class="member_name">CHEN Hongjun 陈宏俊</div>
-      <div class="member_intro" >多智能体强化学习、路径规划</div>
+      <div class="member_intro" >群体路径规划</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="wutingyu"></div>
       <div class="member_name">WU Tingyu 吴婷钰</div>
-      <div class="member_intro" >多智能体强化学习、启发式算法</div>
+      <div class="member_intro" >大规模MARL</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="gaoshang"></div>
       <div class="member_name" ><a href="https://github.com/Felix2048">GAO Shang 高尚</a></div>
-      <div class="member_intro" >视频分析</div>
+      <div class="member_intro" >视频结构化理解</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="caishengliang"></div>
       <div class="member_name"><a href="https://cubercsl.cn/">CAI Shengliang 蔡盛梁</a></div>
-      <div class="member_intro" >ICPC 2020 World Finalist</div>
+      <div class="member_intro" >分子智造/ICPC 2020 World Finalist</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="yangmoyi"></div>
       <div class="member_name">YANG Moyi 杨默艺</div>
-      <div class="member_intro" >最优传输、智能交通</div>
+      <div class="member_intro" >最优传输</div>
     </div>
   </div>
 
@@ -456,7 +456,7 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="dingluxin"></div>
       <div class="member_name">DING Luxin 丁鹿新</div>
-      <div class="member_intro" >交互式机器学习平台</div>
+      <div class="member_intro" >群体学习方法与平台</div>
     </div>
   </div>
 
@@ -464,35 +464,35 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="xiongfeng"></div>
       <div class="member_name">XIONG Feng 熊枫</div>
-      <div class="member_intro" >医疗图像分析</div>
+      <div class="member_intro" >医疗影像分析</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="wangziyang"></div>
       <div class="member_name">WANG Ziyang 王子阳</div>
-      <div class="member_intro" >视频分析</div>
+      <div class="member_intro" >视频结构化理解</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="chenrui"></div>
       <div class="member_name">CHEN Rui 陈瑞</div>
-      <div class="member_intro" >医疗图像分析</div>
+      <div class="member_intro" >医疗影像分析</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="huangda"></div>
       <div class="member_name">HUANG Da 黄达</div>
-      <div class="member_intro" >群体智能</div>
+      <div class="member_intro" >时序序列预测</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="xiajunyang"></div>
       <div class="member_name">XIA Junyang 夏浚洋</div>
-      <div class="member_intro" >视频分析</div>
+      <div class="member_intro" >  </div>
     </div>
   </div>
 
@@ -500,7 +500,7 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="cuihaochuan"></div>
       <div class="member_name">CUI Haochuan 崔昊川</div>
-      <div class="member_intro" >强化学习、Sim2Real</div>
+      <div class="member_intro" >学习优化</div>
     </div>
   </div>
 
@@ -508,7 +508,7 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="zhouminghui"></div>
       <div class="member_name">ZHOU Minghui 周明慧</div>
-      <div class="member_intro" >医疗图像分析</div>
+      <div class="member_intro" >群体学习方法与平台</div>
     </div>
   </div>
 
@@ -516,7 +516,7 @@ redirect_from:
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="chenhaoqing"></div>
       <div class="member_name">CHEN Haoqing 陈昊晴</div>
-      <div class="member_intro" >医疗图像分析</div>
+      <div class="member_intro" >医疗影像分析</div>
     </div>
   </div>
 
