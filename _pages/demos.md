@@ -22,18 +22,6 @@ Our another paper [*Learning to Schedule Multi-NUMA Virtual Machines via Reinfor
 * SchedAgent (Algorithms): it provides many popular RL methods as the baselines.
 * SchedVis (Visulization): it provides the visualization of schedlueing dynamics on many metrics.
 
-**Scenarios and Baselines**
-The VMAgent provides multiple practical scenarios: 
-| Scenario     | Allow-Deletion | Allow-Expansion | Server Num |
-|--------------|----------------|-----------------|------------|
-| Fading       | False          | False           | Small      |
-| Recovering   | True           | False           | Small      |
-| Expanding    | True           | True            | Small      |
-| Recovering-L | True           | False           | Large      |
-
-**Visualization**
-For visualization, see the [`schedvis`](./schedvis) directory in detail.
-
 **References**
 - Junjie Sheng, Shengliang Cai, Haochuan Cui, Wenhao Li, Yun Hua, Bo Jin, Wenli Zhou, Yiqiu Hu, Lei Zhu, Qian Peng, Hongyuan Zha and Xiangfeng Wang, VMAgent: Scheduling Simulator for Reinforcement Learning. arXiv preprint arXiv:2112.04785, 2021.
 - Junjie Sheng, Yiqiu Hu, Wenli Zhou, Lei Zhu, Bo Jin, Jun Wang and Xiangfeng Wang, Learning to Schedule Multi-NUMA Virtual Machines via Reinforcement Learning, Pattern Recognition, 121, 2021, pp.108254.
