@@ -425,68 +425,12 @@ redirect_from:
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_pic" id="chengjunyi"></div>
-      <div class="member_name">CHENG Junyi 程君翊</div>
-      <div class="member_intro" >交互式机器学习平台</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="wangwei"></div>
-      <div class="member_name"><a href="https://wdevin.github.io">WANG Wei 王伟</a></div>
-      <div class="member_intro" >自然语言处理、智能教育</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="liziqian"></div>
-      <div class="member_name">LI Zhiqian 李志谦</div>
-      <div class="member_intro" >交互式医疗图像分析工具</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="wangsuo"></div>
-      <div class="member_name">WANG Shuo 王硕</div>
-      <div class="member_intro" >视频数据分析</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="jiayoutao"></div>
-      <div class="member_name">JIA Youtao 郏友涛</div>
-      <div class="member_intro" >医疗图像分割</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="dengyang"></div>
-      <div class="member_name"><a href="https://github.com/consolexinhun">DENG Yang 邓样</a></div>
-      <div class="member_intro" >病理图像分析</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="linjia"></div>
-      <div class="member_name">LIN Jia 林佳</div>
-      <div class="member_intro" >虚拟人合成</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
       <div class="member_pic" id="wutingyu"></div>
       <div class="member_name">WU Tingyu 吴婷钰</div>
       <div class="member_intro" >多智能体强化学习、启发式算法</div>
     </div>
   </div>
   <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="liuyunhao"></div>
-      <div class="member_name">LIU Yunhao 刘云浩</div>
-      <div class="member_intro" >交互式机器学习平台</div>
-    </div>
-  </div>
-    <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="gaoshang"></div>
       <div class="member_name" ><a href="https://github.com/Felix2048">GAO Shang 高尚</a></div>
@@ -587,26 +531,56 @@ redirect_from:
 <div class="students">
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_name" >WANG Junjie 王俊杰</div>
-      <div class="member_intro" >2021，蚂蚁集团</div>
+      <div class="member_name" >WANG Wei 王伟</div>
+      <div class="member_intro" >2022，蚂蚁</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name" >LI Zhiqian 李志谦</div>
+      <div class="member_intro" >2022，美团</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name" >WANG Shuo 王硕</div>
+      <div class="member_intro" >2022，读博</div>
+    </div>
+  </div>
+    <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name" >CHENG Junyi 程君翊</div>
+      <div class="member_intro" >2022，美团</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name" >JIA Youtao 郏友涛</div>
+      <div class="member_intro" >2022，阿里</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name" >DENG Yang 邓样</div>
+      <div class="member_intro" >2022，美团</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name" >LIN Jia 林佳</div>
+      <div class="member_intro" >2022，腾讯</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name" >LIU Yunhao 刘云浩</div>
+      <div class="member_intro" >2022，美团</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_name" >WANG Junjie 王俊杰</div>
-      <div class="member_intro" >2021，蚂蚁集团</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_name" >WANG Junjie 王俊杰</div>
-      <div class="member_intro" >2021，蚂蚁集团</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_name" >WANG Junjie 王俊杰</div>
-      <div class="member_intro" >2021，蚂蚁集团</div>
+      <div class="member_intro" >2021，蚂蚁</div>
     </div>
   </div>
   <div class="member_item">
@@ -618,13 +592,13 @@ redirect_from:
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_name"><a href="https://www.jianshu.com/u/4296af232d02">WU Qian 吴倩</a></div>
-      <div class="member_intro" >2021，上海市公安局</div>
+      <div class="member_intro" >2021，公务员</div>
     </div>
   </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_name" >XU Qisen 徐琪森</div>
-      <div class="member_intro">2021，蚂蚁集团</div>
+      <div class="member_intro">2021，蚂蚁</div>
     </div>
   </div>
   <div class="member_item" >
