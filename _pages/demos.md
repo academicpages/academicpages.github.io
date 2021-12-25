@@ -7,7 +7,7 @@ author_profile: true
 
 ## **[VMAgent](https://github.com/mail-ecnu/VMAgent) Simulator**
 
-# [VMAgent LOGO](../images/logo.svg)
+# ![VMAgent LOGO](../images/logo.svg)
 
 **VMAgent** is a platform for exploiting Reinforcement Learning (RL) on Virtual Machine (VM) scheduling tasks.
 It is developed by the Multi-Agent Artificial Intelligence Lab (MAIL) in East China Normal University and [Algorithm Innovation Lab](https://www.huaweicloud.com/lab/algorithm/home.html) in [**HUAWEI Cloud**](https://www.huaweicloud.com).
