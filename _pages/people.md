@@ -574,7 +574,7 @@ redirect_from:
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_name" >LIU Yunhao 刘云浩</div>
-      <div class="member_intro" >2022，美团</div>
+      <div class="member_intro" >2022，蚂蚁</div>
     </div>
   </div>
   <div class="member_item" >
