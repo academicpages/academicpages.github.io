@@ -5,6 +5,7 @@ permalink: /people/xfwang
 ---
 
 ### Personal Information
+![Xiangfeng Wang](../images/people/wangxiangfeng.jpg = 100x100)
 - Associate Professor
 - School of Computer Science and Technology, East China Normal University
 - Email: xfwang at cs.ecnu.edu.cn
@@ -105,7 +106,7 @@ permalink: /people/xfwang
 ---
 
 ### Teaching
-- Multi-agent Reinforcement Learning
+- Multi-agent System
 - Optimization for Machine Learning
 
 ---
