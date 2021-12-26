@@ -5,7 +5,7 @@ permalink: /people/xfwang
 ---
 
 ### Personal Information
-![Xiangfeng Wang](../images/people/wangxiangfeng.jpg = 100x100)
+![](../images/people/wangxiangfeng.jpg)
 - Associate Professor
 - School of Computer Science and Technology, East China Normal University
 - Email: xfwang at cs.ecnu.edu.cn
