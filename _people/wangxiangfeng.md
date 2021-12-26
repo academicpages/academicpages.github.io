@@ -4,9 +4,7 @@ collection: people
 permalink: /people/xfwang
 ---
 
-
-![](../images/people/wangxiangfeng.jpg)
-<img src="../images/people/wangxiangfeng.jpg" width = "300" height = "200" alt="图片名称" align=center />
+<img src="../images/people/wangxiangfeng.jpg" width = "232.5" height = "281" alt="Xiangfeng Wang" align=center />
 
 ### Personal Information
 - Associate Professor
