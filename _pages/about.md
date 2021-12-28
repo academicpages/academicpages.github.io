@@ -21,15 +21,6 @@ If you need CSS-related talks or workshops, please feel free to contact me direc
 
 [Click Here to See Data Visualization on Segregation for the AJS Article](https://yongjunzhang.shinyapps.io/schsegapp/).
 
-## Upcoming Talks
-Yongjun Zhang. Dec 2021. "Computational Social Science: Its Recent Development, Opportunities, and Challenges." Peking University [[Poster]](https://yongjunzhang.com/images/pkutalk.png).
-
-Yongjun Zhang. Oct 2021. ["Residential Segregation in U.S. Metro Areas: Using Facebook and Safegraph Data to Assess Racial Segregation."](https://arts-sciences.buffalo.edu/sociology/news-events/colloquium.html) Department of Sociology, SUNY Buffalo [[Poster]](https://yongjunzhang.com/files/ub.pdf).
-
-Yongjun Zhang. Oct 2021. ["Using Population Mobility Data to Measure Racial Segregation in the U.S." IACS, Stony Brook University](https://calendar.stonybrook.edu/site/iacs/event/stride-con-2021/).
-
-Yongjun Zhang. Sept 24, 2021. "Using Relational Data from Facebook and SafeGraph to Measure Racial Segregation." Department of Physchology, Stony Brook University.
-
 ## New Paper Alert
 Yongjun Zhang. 2021. "[Corporate Responses to COVID19: A Non-Market Strategy Approach](https://doi.org/10.1177/07311214211017587)." Sociological Perspectivies.
 
@@ -39,6 +30,15 @@ Seguin, Charles, Chris Julien, and Yongjun Zhang. 2021. "[The stability of andro
 Yongjun Zhang. 2021. "[Using Population Mobility to Measure Racial Residential Segregation in the U.S. Metro Areas](https://yongjunzhang.com/files/Seg_Draft.pdf)." 
 
 Pradeep Nalluri, Hao Lin, Lantian Li, Yifan Sun, and Yongjun Zhang. "[Multiplex Anti-Asian Sentiment before and during the Pandemic: Introducing New Datasets from Twitter Mining](https://yongjunzhang.com/files/covid19_and_anti_asian_hate_speech.pdf)."
+
+## Talks
+Yongjun Zhang. Dec 2021. "Computational Social Science: Its Recent Development, Opportunities, and Challenges." Peking University [[Poster]](https://yongjunzhang.com/images/pkutalk.png).
+
+Yongjun Zhang. Oct 2021. ["Residential Segregation in U.S. Metro Areas: Using Facebook and Safegraph Data to Assess Racial Segregation."](https://arts-sciences.buffalo.edu/sociology/news-events/colloquium.html) Department of Sociology, SUNY Buffalo [[Poster]](https://yongjunzhang.com/files/ub.pdf).
+
+Yongjun Zhang. Oct 2021. ["Using Population Mobility Data to Measure Racial Segregation in the U.S." IACS, Stony Brook University](https://calendar.stonybrook.edu/site/iacs/event/stride-con-2021/).
+
+Yongjun Zhang. Sept 24, 2021. "Using Relational Data from Facebook and SafeGraph to Measure Racial Segregation." Department of Physchology, Stony Brook University.
 
 ## Social Media
 
