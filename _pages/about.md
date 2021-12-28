@@ -38,6 +38,8 @@ Seguin, Charles, Chris Julien, and Yongjun Zhang. 2021. "[The stability of andro
 ## Working Paper
 Yongjun Zhang. 2021. "[Using Population Mobility to Measure Racial Residential Segregation in the U.S. Metro Areas](https://yongjunzhang.com/files/Seg_Draft.pdf)." 
 
+Pradeep Nalluri, Hao Lin, Lantian Li, Yifan Sun, and Yongjun Zhang. "[Multiplex Anti-Asian Sentiment before and during the Pandemic: Introducing New Datasets from Twitter Mining](https://yongjunzhang.com/files/covid19_and_anti_asian_hate_speech.pdf)."
+
 ## Social Media
 
 <a class="twitter-timeline" data-width="500" href="https://twitter.com/DrJoshZhang?ref_src=twsrc%5Etfw">Tweets by DrJoshZhang</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
