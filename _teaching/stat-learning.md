@@ -10,6 +10,7 @@ location: "Saclay, France"
 ---
 
 Teaching assistant for the course "Introduction to Statistical Learning" at ENS Paris-Saclay for the students of master MVA.
-Teacher: Nicolas Vayatis
 
-[Link to the course material.](https://nvayatis.perso.math.cnrs.fr/)
+Teacher: [Nicolas Vayatis](https://nvayatis.perso.math.cnrs.fr/)
+
+[Link to the course material.](http://nvayatis.perso.math.cnrs.fr/ISLcourse-2021.html)
