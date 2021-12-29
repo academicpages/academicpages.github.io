@@ -2,7 +2,7 @@
 layout: single
 permalink: /cogsci/
 title: "Cognitive Science minor / certificate at Wake Forest"
-author_profile: true
+author_profile: false
 ---
 
 
