@@ -24,8 +24,7 @@ author_profile: false
 * Tufts University: [BA/BS (Cognitive and Brain Science)](https://as.tufts.edu/psychology/current-students/undergraduate-programs/babs-cognitive-and-brain-science) and [PhD program](https://cogsci.tufts.edu/)
 * UNC Chapel Hill: [minor](https://catalog.unc.edu/undergraduate/programs-study/cognitive-science-minor/)
 * University of Virginia: [major](https://cogsci.as.virginia.edu/)
-* Vanderbilt University: [Cognitive Studies major](https://peabody.vanderbilt.edu/departments/psych/undergraduate_programs/cognitive_studies.php); [M.S.](https://peabody.vanderbilt.edu/programs/cognitive-psychology/) and 
-* [PhD concentrations](https://www.vanderbilt.edu/psychological_sciences/graduate/programs/cognitive.php) within Psychology
+* Vanderbilt University: [Cognitive Studies major](https://peabody.vanderbilt.edu/departments/psych/undergraduate_programs/cognitive_studies.php); [M.S.](https://peabody.vanderbilt.edu/programs/cognitive-psychology/) and [PhD concentrations](https://www.vanderbilt.edu/psychological_sciences/graduate/programs/cognitive.php) within Psychology
 
 
 
