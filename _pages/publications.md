@@ -45,7 +45,7 @@ Yizhou Zhang, Guojie Song, Lun Du, Shuwen Yang, **Yilun Jin**. <br>In *The 28th 
 * **SecureBoost: A Lossless Federated Learning Framework** \[[pdf](https://arxiv.org/pdf/1901.08755.pdf)\] <br>
 Kewei Cheng, Tao Fan, **Yilun Jin**, Yang Liu, Tianjian Chen, Qiang Yang. <br>In *IEEE Intelligent Systems, 2021*.
 
-* **Deep Convolutional Neural Network based Medical Concept Normalization** \[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9186351)\]
+* **Deep Convolutional Neural Network based Medical Concept Normalization** \[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9186351)\] <br>
 Guojie Song, Qingqing Long, Yi Luo, Yiming Wang, Yilun Jin. <br>In *IEEE Transactions on Big Data, 2020*.
 
 # Workshop Papers
