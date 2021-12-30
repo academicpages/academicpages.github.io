@@ -8,6 +8,8 @@ author_profile: true
 You can also find my articles in [my Google Scholar](https://scholar.google.com/citations?user=y3yJm98AAAAJ&hl=en). <br>
 (<sup>\*</sup> indicates equal contribution. )
 
+# Conference Papers
+
 ## 2021
 * **Theoretically Improving Graph Neural Networks via Anonymous Walk Graph Kernels** \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3442381.3449951)\]\[[code](https://github.com/YimiAChack/GSKN)\]\[[talk](https://www.youtube.com/watch?v=2jInnSxOP2A)\]<br>
 Qingqing Long<sup>\*</sup>, **Yilun Jin**<sup>\*</sup>, Yi Wu<sup>\*</sup>, Guojie Song. <br>In *The Web Conference (TheWebConf, a.k.a. WWW)*, 2021. 
@@ -35,8 +37,22 @@ Lichen Jin, Yizhou Zhang, Guojie Song, **Yilun Jin**, <br>In *The Web Conference
 * **Hierarchical Community Structure Preserving Network Embedding: A Subspace Approach** \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3357384.3357947)\]\[[code](https://github.com/YimiAChack/SpaceNE)\] <br>
 Qingqing Long, Yiming Wang, Lun Du, Guojie Song, **Yilun Jin**, Wei Lin. <br>In *The 28th ACM International Conference on Information and Knowledge Management (CIKM)*, 2019. **Best Research Paper Runner-up Award**. 
 
-* **SecureBoost: A Lossless Federated Learning Framework** \[[pdf](https://arxiv.org/pdf/1901.08755.pdf)\] <br>
-Kewei Cheng, Tao Fan, **Yilun Jin**, Yang Liu, Tianjian Chen, Qiang Yang. <br>In *The 1st International Workshop on Federated Machine Learning for User Privacy and Data Confidentiality (FML-IJCAI’19)* and *IEEE Intelligent Systems, 2021*.
-
 * **DANE: Domain Adaptive Network Embedding** \[[pdf](https://www.ijcai.org/proceedings/2019/0606.pdf)\] <br>
 Yizhou Zhang, Guojie Song, Lun Du, Shuwen Yang, **Yilun Jin**. <br>In *The 28th International Joint Conference on Artificial Intelligence (IJCAI)*, 2019. 
+
+# Journal Papers
+
+* **SecureBoost: A Lossless Federated Learning Framework** \[[pdf](https://arxiv.org/pdf/1901.08755.pdf)\] <br>
+Kewei Cheng, Tao Fan, **Yilun Jin**, Yang Liu, Tianjian Chen, Qiang Yang. <br>In *IEEE Intelligent Systems, 2021*.
+
+* **Deep Convolutional Neural Network based Medical Concept Normalization** \[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9186351)\]
+Guojie Song, Qingqing Long, Yi Luo, Yiming Wang, Yilun Jin. <br>In *IEEE Transactions on Big Data, 2020*.
+
+# Workshop Papers
+
+* **SecureBoost: A Lossless Federated Learning Framework** \[[pdf](https://arxiv.org/pdf/1901.08755.pdf)\] <br>
+Kewei Cheng, Tao Fan, **Yilun Jin**, Yang Liu, Tianjian Chen, Qiang Yang. <br>In *The 1st International Workshop on Federated Machine Learning for User Privacy and Data Confidentiality (FML-IJCAI’19)*.
+
+
+
+
