@@ -7,6 +7,7 @@ author_profile: true
 
 ## Teaching and Supervision
 - I am a Moodle Tutor for the UCL Resources for New Chemistry Researchers (Computational Chemistry) module, having helped develop the online resources for this course.
+- I am a Tutor and Graduate Teaching Assistant (PGTA) for the ‘Python for Chemical Modelling’ module at University College London (UCL).
 
 ### Project Supervision
 As well as of course working with colleagues in both my research groups on several projects and lending my knowledge and expertise where possible, I am directly supervising a PhD student, and am co-supervising 5 other PhD research projects for novice students.
