@@ -5,6 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Community Contributions
+- I have peer reviewed for the _Journal of the American Chemical Society_ (JACS), _Applied Physics Letters_ (APL), _Matter_ and the _Journal of Electroceramics_ (JECR).
+- Session chair (in-person) for the MRS Fall 2021 Solid-State Chemistry of New Materials (CH02) Symposium and Networking Facilitator at the RSC International Conference on Materials Chemistry (MC15).
+- Developer of several open-access community computational chemistry tools; including [`vaspup2.0`](https://github.com/kavanase/vaspup2.0), [`doped`](https://github.com/SMTG-UCL/doped), (co-developer) [`sumo`](https://github.com/SMTG-UCL/sumo), [`bapt`](https://github.com/utf/bapt), [`CarrierCapture.jl`](https://github.com/WMD-group/CarrierCapture.jl) and contributions to many others.
+
+
 ## Teaching and Supervision
 - I am a Moodle Tutor for the UCL Resources for New Chemistry Researchers (Computational Chemistry) module, having helped develop the online resources for this course.
 - I am a Tutor and Graduate Teaching Assistant (PGTA) for the ‘Python for Chemical Modelling’ module at University College London (UCL).
