@@ -21,7 +21,7 @@ author_profile: true
 - **Xiangfeng Wang**, J. Ye, X. Yuan, S. Zeng and J. Zhang, Perturbation Techniques for Convergence Analysis of Proximal Gradient Method and Other First-order Algorithms via Variational Analysis. *Set-Valued and Variational Analysis*, accepted, 2021.
 
 ## 2022
-- **Junjie Sheng**, **Yiqiu Hu**, W. Zhou, L. Zhu, **Bo Jin**, J. Wang and **Xiangfeng Wang**, Learning to Schedule Multi-NUMA Virtual Machines via Reinforcement Learning, *Pattern Recognition*, 121, 2021, pp.108254.
+- **Junjie Sheng**, **Yiqiu Hu**, W. Zhou, L. Zhu, **Bo Jin**, J. Wang and **Xiangfeng Wang**, Learning to Schedule Multi-NUMA Virtual Machines via Reinforcement Learning, *Pattern Recognition*, 121, 2022, pp.108254.
 
 ## 2021
 - C. Ma, **Qisen Xu**, **Xiangfeng Wang**, **Bo Jin**, X. Zhang, Y. Wang and Y. Zhang, Boundary-aware Supervoxel-level Iteratively Refined Interactive 3D Image Segmentation with Multi-agent Reinforcement Learning. *IEEE Transactions on Medical Imaging*, 40(10), 2021, pp.2563-2574.
