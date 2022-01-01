@@ -40,6 +40,7 @@ author_profile: true
 
 <div class="img_container">
   <img src="/images/projects/kjb.jpg" style="padding: 20px">
+  <img src="/images/projects/MIIT.png" style="padding: 20px">
   <img src="/images/projects/National_Natural_Science_Foundation_of_China-logo.jpg" style="padding: 0px； margin: 20px">
   <img src="/images/projects/shanghaishiwei-logo.png" style="padding: 0px; margin: 20px">
   <img src="/images/projects/kasike-logo.png">
