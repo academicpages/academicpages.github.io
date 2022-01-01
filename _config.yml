@@ -80,23 +80,22 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Nirdesh Kumar Sharma"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Phd. Student Hydrosense Labs IIT-Delhi"
+  location         : "India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=4U84fR8AAAAJ&hl=en"
+  email            : "nirdesh@civil.iitd.ac.in"
+  researchgate     : "https://www.researchgate.net/profile/Nirdesh-Sharma"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/nirdeshkumar.sharma/"
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/der-knight"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/_der_knight"
   vine             :
   weibo            :
   xing             :
