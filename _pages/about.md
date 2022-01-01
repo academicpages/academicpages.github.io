@@ -14,6 +14,6 @@ A data-driven personal website
 something to add
 Contact
 ======
-[Call/Whatsapp](9459566691)
-[Gmail](nirdeshsharma.nith@gmail.com)
-[IIT Email](nirdesh@civil.iitd.ac.in)
+Call/Whatsapp: 9459566691
+Gmail: nirdeshsharma.nith@gmail.com
+IIT Email: nirdesh@civil.iitd.ac.in
