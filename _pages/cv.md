@@ -16,7 +16,7 @@ Education
   * Thesis: "On the causes of tropical cyclone driven floods in India"
 * **PG Diploma in Remote Sensing and GIS**, Indian Institute of Remote Sensing-ISRO, 2019
   * Supervisor: [Dr. Charu Singh](https://www.iirs.gov.in/Ms_Charu_Singh), Scientist-SE, IIRS-ISRO
-  * Thesis: "“Assessment of model simulated dust using satellite data"
+  * Project: "“Assessment of model simulated dust using satellite data"
 * **M.Sc (5-Year Integrated) in Applied Geology**, Pondicherry University, 2018
   * Supervisor: [Dr. Rajneesh Bhutani](https://www.pondiuni.edu.in/faculy_profiles/dr-rajneesh-bhutani/), Professor, Pondicherry University
   * Thesis: “Petrogenesis of Neoproterozoic Granitoids from Sankaridurg: Constraints from Petrography and Whole-rock Trace Element Study"
