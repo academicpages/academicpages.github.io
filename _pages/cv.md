@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 * **M.Tech in Earth System Sciences**, Indian Institute of Technology Gandhinagar, 2021
-  * Supervisor: Dr. Vimal Mishra, Associate Professor, IIT Gandhinagar
+  * Supervisor: Dr. Vimal Mishra[https://vmishra.people.iitgn.ac.in/water&climate/people/vimal.html], Associate Professor, IIT Gandhinagar
   * Thesis: "On the causes of tropical cyclone driven floods in India"
 * **PG Diploma in Remote Sensing and GIS**, Indian Institute of Remote Sensing-ISRO, 2019
-  * Supervisor: Dr. Charu Singh, Scientist-SE, IIRS-ISRO
+  * Supervisor: Dr. Charu Singh[https://www.iirs.gov.in/Ms_Charu_Singh], Scientist-SE, IIRS-ISRO
   * Thesis: "“Assessment of model simulated dust using satellite data"
 * **M.Sc (5-Year Integrated) in Applied Geology**, Pondicherry University, 2018
-  * Supervisor: Dr. Rajneesh Bhutani, Professor, Pondicherry University
+  * Supervisor: Dr. Rajneesh Bhutani[https://www.pondiuni.edu.in/faculy_profiles/dr-rajneesh-bhutani/], Professor, Pondicherry University
   * Thesis: “Petrogenesis of Neoproterozoic Granitoids from Sankaridurg: Constraints from Petrography and Whole-rock Trace Element Study"
 
 
@@ -27,13 +27,13 @@ Work experience
 * **Summer 2016: Intern**
   * Indian Institute of Technology Bombay
   * Project: Hydrothermal Alteration and Pseudomorphic Replacement Textures of Metabasalts from the Nellore Schist Belt, Southeastern India.
-  * Supervisor: Dr. Prabhakar Naraga
+  * Supervisor: Dr. Prabhakar Naraga[https://www.geos.iitb.ac.in/pn/]
   
 Skills
 ======
 * **Linguistics**: Malayalam, English, Hindi
 * **Programming**: MATLAB, Python
-* **Softwares**: ArcGIS, QGIS, ENVI, Geographic Mapping Tool
+* **Softwares**: ArcGIS, QGIS, ENVI, Geographic Mapping Tool, Climate Data Operator (CDO)
 
 Laboratory Experience
 ======
