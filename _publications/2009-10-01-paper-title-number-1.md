@@ -1,15 +1,8 @@
 ---
-title: "Paper Title Number 1"
+title: "Toward High-Resolution Soil Moisture Monitoring over India by Combining Remote Sensing Products with Land Surface Models"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+excerpt: 'Soil moisture is a vital climatic variable driving environmental and biological processes. Large scale soil moisture can be estimated using Land Surface Models or observed using active and passive microwave remote sensing. Increasing availability of remotely sensed soil moisture retrievals has allowed for constraining Land Surface Model (LSM) estimates. Though the accuracy of remote sensing datasets is constrained by soil roughness, vegetation, and surface temperature, combining them with LSMs allow us to reduce errors in soil moisture estimates. This study assimilates the SMOPs-ASCAT, ESA-CCI and SMAP soil moisture retrievals into a land surface model u sing an ensemble Kalman filter. The open-loop and data assimilated soil moisture outputs are evaluated against the ground-based sensor data. This demonstrates the establishment of an Indian Land Data Assimilation System (ILDAS) with the goal of providing accurate soil moisture products at high spatial and temporal resolution over India.'
+date: 'Dec 2020'
+venue: 'AGU 2020'
+paperurl: 'https://doi.org/10.1002/essoar.10509510.1'
