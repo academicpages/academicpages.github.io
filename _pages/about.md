@@ -12,6 +12,6 @@ Nirdesh Kumar Sharma is a PhD. Student at [Indian Institute of Technology Delhi]
 Contact
 ======
 
-Call/Whatsapp: 9459566691  
+Phone: 9459566691  
 Gmail: nirdeshsharma.nith@gmail.com  
 IIT Email: nirdesh@civil.iitd.ac.in  
