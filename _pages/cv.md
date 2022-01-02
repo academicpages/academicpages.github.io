@@ -24,6 +24,9 @@ Work experience
 * Summer 2017: INSPIRE Internship
   * Larsen and Toubro - Gurgaon  
   * Building and factories Independant Company  
+* Winter 2019-2020
+  * Technische Universität Darmstadt
+  * SEE-URBAN Water
   
 Skills
 ======
