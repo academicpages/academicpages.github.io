@@ -19,14 +19,19 @@ Work experience
 ======
 * Winter 2016: Intern
   * International Institute of Information Technology Hyderabad  
-  * Lab of Spatial Informatics  
+  * Lab of Spatial Informatics 
+  * Evapotranspiration analysis of Krishna River basin using thornthwaite model  
 
 * Summer 2017: INSPIRE Internship
   * Larsen and Toubro - Gurgaon  
-  * Building and factories Independant Company  
+  * Building and factories Independant Company 
+  * Rework reduction and Productivity enhancement in multistory building projects. 
+
 * Winter 2019-2020
   * Technische Universität Darmstadt
   * SEE-URBAN Water
+  * Developed a new classification algorithm using the fusion of Sentinel 1 microwave data with Sentinel 2 multi spectral data with the inclusion of texture parameters
+  * Studied the inversion of soil moisture from Sentinel SAR data using machine learning techniques
   
 Skills
 ======
