@@ -14,6 +14,7 @@ Education
 * B.S. in Civil Engineering, National Institute of Technology Hamirpur, 2014-2018  
 * M.Tech. in Civil Engineering, Indian Institute of Technology Guwahati, 2018-2020  
 * Ph.D in Water Resources Engineering , Indian Institute of Technology Delhi, 2020- Present  
+
 Work experience
 ======
 * Winter 2016: Intern
@@ -40,6 +41,6 @@ Publications
   {% endfor %}</ul>
   
   
-Service and leadership
+Extracurricullar
 ======
 * Training and Placement Representative 2018 
