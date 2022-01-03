@@ -177,15 +177,15 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-  CS5604F21:
-      output: true
-      permalink: /:collection/:path/
+  #portfolio:
+  #  output: true
+  #  permalink: /:collection/:path/
+  #talks:
+  #  output: true
+  #  permalink: /:collection/:path/
+  #CS5604F21:
+  #    output: true
+  #    permalink: /:collection/:path/
 
 # Defaults
 defaults:
