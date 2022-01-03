@@ -6,12 +6,11 @@ main:
   - title: "Professional Experience"
     url: /experience/
     
-  - title: "Projects"
-    url: /portfolio/
+  #- title: "Projects"
+  #  url: /portfolio/
 
-
-  - title: "CS5604F21"
-    url: /CS5604F21/
+  #- title: "CS5604F21"
+  #  url: /CS5604F21/
 
   #- title: "Talks"
   #  url: /media/
