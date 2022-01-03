@@ -165,6 +165,7 @@ After some time poking around the [W3Schools](https://www.w3schools.com) page on
     color: #fff;
     background-color: $link-color !important;
   }
+}
 ```
 
 The key parts are
