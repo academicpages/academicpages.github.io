@@ -25,7 +25,7 @@ author_profile: true
 
 ### 2020
 * [A Locally Linear Procedure for Word Translation ](https://www.aclweb.org/anthology/2020.coling-main.528.pdf) <br/>**Soham Dan**, Hagai Taitelbaum, Jacob Goldberger. **COLING** 2020.
-* [Goodness-of-Fit Tests for Inhomogeneous Random Graphs](https://proceedings.icml.cc/paper/2020/file/8597a6cfa74defcbde3047c891d78f90-Paper.pdf) <br/>
+* [Goodness-of-Fit Tests for Inhomogeneous Random Graphs](http://proceedings.mlr.press/v119/dan20a/dan20a.pdf) <br/>
 **Soham Dan**, Bhaswar B Bhattacharya. **ICML** 2020. 
 * [From Spatial Relations to Spatial Configurations](https://www.aclweb.org/anthology/2020.lrec-1.717.pdf)<br/> **Soham Dan**, Parisa Kordjamshidi, Julia Bonn, Archna Bhatia, Zheng Cai, Martha Palmer, Dan Roth. **LREC** 2020.
 * [Understanding Spatial Relations through Multiple Modalities](https://www.aclweb.org/anthology/2020.lrec-1.288.pdf)<br/> **Soham Dan**, Hangfeng He, Dan Roth. **LREC** 2020.
