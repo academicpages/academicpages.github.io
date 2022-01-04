@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : aranyac_econ
 facebook:
-  username               :
+  username               : aranyarocks
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -88,18 +88,18 @@ author:
   pubmed           :
   googlescholar    : 
   email            : aranya.chakraborty@mail.mcgill.ca
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Aranya-Chakraborty"  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "aranyarocks"
   foursquare       :
   github           : "aranyac"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "aranyaecon"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "aranya-chakraborty-62975b119"
