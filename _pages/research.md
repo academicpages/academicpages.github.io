@@ -18,5 +18,5 @@ title: "Research"
 
 ## Other Papers
 
-* “Industrial Performance in West Bengal: Analysis of Technical Efficiency with ASI Data” (with Panchanan Das and Swayambhu Mukherjee), 2016
+* “Industrial Performance in West Bengal: Analysis of Technical Efficiency with ASI Data” (with Panchanan Das and Swayambhu Mukherjee), 2016
 
