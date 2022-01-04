@@ -8,4 +8,4 @@ redirect_from:
   - /home.html
 ---
 
-Welcome to my website!
+I am a Ph.D. candidate in the Economics Department at McGill University. My research interests are in the areas of Development, Applied Micro, and Institutional Economics. Currently, I am working on my job market paper that focuses on using network-based targeting strategies for improving technology adoption.  
