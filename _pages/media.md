@@ -14,21 +14,21 @@ redirect_from:
 <table class="tg">
 <tbody>
 <tr>
-<td width="15%">Nov 29, 2021</td>
+<td width="12%">Nov 29, 2021</td>
 <td width="75%"><a href="https://ecologyforthemasses.com/2021/11/24/started-at-the-bottom-now-were-here/" rel="noopener noreferrer">Ecology for the Masses</a>. Started at the bottom, now we’re here… </td>
-<td width="10%">Blog</td>
+<td width="13%">Blog</td>
 </tr>
   
   <tr>
-<td width="15%">Oct 29, 2021</td>
+<td width="12%">Oct 29, 2021</td>
 <td width="75%"><a href="https://wildlife.org/tws2021-climate-change-may-shift-seal-prey-in-arctic/" rel="noopener noreferrer">The Wildlife Society</a>. Climate change may shift seal prey in the Arctic</td>
-<td width="10%">Interview and conference talk feature</td>
+<td width="13%">Interview and conference talk feature</td>
 </tr>
   
     <tr>
-<td width="15%">Oct 15, 2021</td>
-<td width="75%"><a href="https://www.cbc.ca/radio/quirks/oct-16-fecal-transplants-a-fountain-of-youth-supernova-on-repeat-bee-dancing-reveals-foraging-habits-and-mo-1.6211282/narwhals-leave-infrared-fluke-prints-in-the-ocean-that-can-be-seen-with-aerial-cameras-1.6211284" rel="noopener noreferrer">Quirks and Quarks</a>. Narwhals leave infrared 'fluke-prints' in the ocean that can be seen with aerial cameras</td>
-<td width="10%">Radio interview and article</td>
+<td width="12%">Oct 15, 2021</td>
+<td width="75%"><a href="https://www.cbc.ca/radio/quirks/oct-16-fecal-transplants-a-fountain-of-youth-supernova-on-repeat-bee-dancing-reveals-foraging-habits-and-mo-1.6211282/narwhals-leave-infrared-fluke-prints-in-the-ocean-that-can-be-seen-with-aerial-cameras-1.6211284" rel="noopener noreferrer">CBC Quirks and Quarks</a>. Narwhals leave infrared 'fluke-prints' in the ocean that can be seen with aerial cameras</td>
+<td width="13%">Radio interview and article</td>
 </tr>
 
 </tbody>
