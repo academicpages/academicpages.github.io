@@ -2,6 +2,7 @@
 permalink: /
 title: "Welcome!"
 excerpt: "About me"
+disableAnchoredHeadings: true
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,3 +19,10 @@ Education
 * PhD Candidate, Institute for the Oceans & Fisheries, University of British Columbia, 2018-present
 
 ---
+From Nov'20
+:   **Developer Experience Engineer at [Grammarly](https://grammarly.com)**
+
+    Making day-to-day work of developers more productive and agile by:
+    - Providing automation and tooling for routine SDLC procedures
+    - Enriching experience in Infrastructure, Automation, Observability areas
+    - Standardizing commonly used infrastructure components
