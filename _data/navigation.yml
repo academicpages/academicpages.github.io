@@ -6,12 +6,12 @@ main:
     
   - title: "Publications"
     url: /publications/
- 
-  - title: "Media"
-    url: /media/
 
   - title: "Teaching"
     url: /teaching/    
+     
+  - title: "Media"
+    url: /media/
     
   - title: "Contact"
     url: /contact/    
