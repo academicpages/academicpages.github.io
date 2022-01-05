@@ -28,4 +28,5 @@ Education
 * Department of Biology, University of Winnipeg
 * Advisor: Stephen Petersen
 * Thesis: Haul-out patterns of harbour seals in the Churchill River Estuary
+
 ---
