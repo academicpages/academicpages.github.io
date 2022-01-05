@@ -23,15 +23,15 @@ Now, I hope to publish some interesting posts on my blog about computer vision a
 
 Recent work	
 ------
-- \[[arxiv](https://arxiv.org/abs/2101.10777)\] **Joint Forecasting of Features and Feature Motion for Dense Semantic Future Prediction**
+- \[[cvf](https://openaccess.thecvf.com/content/WACV2022/html/Bevandic_Multi-Domain_Semantic_Segmentation_With_Overlapping_Labels_WACV_2022_paper.html)\] **Multi-Domain Semantic Segmentation With Overlapping Labels**
+<br/>Petra Bevandić, Marin Oršić, Ivan Grubišić, Josip Šarić, Siniša Šegvić
+<br/>WACV 2022.
+- \[[ieee](https://ieeexplore.ieee.org/document/9664471), [arxiv](https://arxiv.org/abs/2101.10777)\] **Dense Semantic Forecasting in Video by Joint Regression of Features and Feature Motion**
 <br/>Josip Šarić, Sacha Vražić, Siniša Šegvić
-<br/>Arxiv 2021.
+<br/>IEEE TNNLS 2021.
 - \[[arxiv](https://arxiv.org/abs/2010.09067)\] **Multimodal Semantic Forecasting Based on Conditional Generation of Future Features**
 <br/>Kristijan Fugošić, Josip Šarić, Siniša Šegvić
 <br/>GCPR 2020.
-- \[[arxiv](https://arxiv.org/abs/2009.01636)\] **Multi-domain Semantic Segmentation on Datasets with Overlapping Classes**
-<br/>Marin Oršić, Petra Bevandić, Ivan Grubišić, Josip Šarić, Siniša Šegvić
-<br/>Arxiv 2020.
 - \[[cvf](http://openaccess.thecvf.com/content_CVPR_2020/html/Saric_Warp_to_the_Future_Joint_Forecasting_of_Features_and_Feature_CVPR_2020_paper.html)\] **Warp to the Future: Joint Forecasting of Features and Feature Motion**
 <br/>Josip Šarić, Marin Oršić, Tonći Antunović, Sacha Vražić, Siniša Šegvić
 <br/>CVPR 2020.
