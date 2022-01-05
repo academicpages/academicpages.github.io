@@ -19,11 +19,11 @@ Education
 
 ---
 
-*BSc (Hons)*  2011-2015
-Department of Biology, University of Winnipeg
+**BSc (Hons)**  2011-2015
+*Department of Biology, University of Winnipeg
 
-*MSc*  2015-2018
-Department of Biology, York University
+**MSc**  2015-2018
+*Department of Biology, York University
 
-*PhD*  2018-current
-Institute for the Oceans & Fisheries, University of British Columbia
+**PhD**  2018-current
+*Institute for the Oceans & Fisheries, University of British Columbia
