@@ -45,7 +45,13 @@ redirect_from:
 
      <tr>
 <td width="12%">Sept 6, 2021</td>
-<td width="65%"><a href="https://www.canadiangeographic.ca/article/wildlife-wednesday-iconic-loon-trouble" rel="noopener noreferrer">CTV News British Columbia</a>. Climate change could force Arctic seals to feed on 'marine junk food,' new B.C. study suggests</td>
+<td width="65%"><a href="https://bc.ctvnews.ca/climate-change-could-force-arctic-seals-to-feed-on-marine-junk-food-new-b-c-study-suggests-1.5574927" rel="noopener noreferrer">CTV News British Columbia</a>. Climate change could force Arctic seals to feed on 'marine junk food,' new B.C. study suggests</td>
+<td width="23%">Article</td>
+</tr>
+  
+       <tr>
+<td width="12%">Sept 2, 2021</td>
+<td width="65%"><a href="https://news.ubc.ca/2021/09/03/food-for-seals-and-other-arctic-predators-shrinking/" rel="noopener noreferrer">UBC News</a>. Food for seals and other Arctic predators is shrinking — literally</td>
 <td width="23%">Article</td>
 </tr>
   
