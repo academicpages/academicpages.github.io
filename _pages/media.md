@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-<h5>Please don't hesitate to get in touch (katieflorko@gmail.com) to obtain reprints of any of the following publications.</h5>
+<h4>Please see below for various media articles, radio interviews, and blog posts about my research.</h4>
 
-<h3>Articles in Review and in Press</h3>
+<h3>Media articles and interviews about my research</h3>
 <table class="tg">
 <tbody>
 <tr>
@@ -19,7 +19,7 @@ redirect_from:
 </tr>
 </tbody>
 </table>
-<h3>Articles in Peer-Reviewed Journals</h3>
+<h3>Blog posts</h3>
 <table class="tg">
 <tbody>
 <tr>
@@ -61,36 +61,6 @@ redirect_from:
   <tr>
 <td width="5%">[1]</td>
 <td width="95%"><strong>Florko, K.R.N.</strong>, Bohn, S.J., Kalcounis-Rueppell, M.C., Brigham, R.M. 2017. A 23-year-old little brown bat (<i>Myotis lucifugus</i>) record from southwest Saskatchewan, Canada. Northwestern Naturalist, 98: 57-59. <a href="https://bioone.org/journals/northwestern-naturalist/volume-98/issue-1/NWN16-19.1/A-23-Year-Old-Little-Brown-Bat-Myotis-lucifugus-Record/10.1898/NWN16-19.1.short#:~:text=On%2031%20May%202015%2C%20we,oldest%20bat%20record%20in%20Saskatchewan." target="_blank" rel="noopener noreferrer">doi:10.1898/NWN16-19.1</a>.</td>
-</tr>
-</tbody>
-</table>
-<h3>Reports</h3>
-<table class="tg">
-<tbody>
-<tr>
-<td width="5%">[2]</td>
-  <td width="95%">Petersen, S.D., <strong>Florko, K.R.N.</strong>, Menzies, A.K., and the IPBCC Advisory Board. 2018. Management rational and options for orphan polar bear cubs in Manitoba. White paper report prepared by the Assiniboine Park Conservancy. Winnipeg, MB. 24p.
-</td>
-</tr>
-<tr>
-<td width="5%">[1]</td>
- <td width="95%"><strong>Florko, K.R.N.</strong>, Petersen, S.D. 2019. Polar bear denning distribution in the Canadian Arctic. Report to World Wildlife Fund Canada. 24p.
-</td>
-</tr>
-</tbody>
-</table>
-<h3>Degree Theses</h3>
-<table class="tg">
-<tbody>
-<tr>
-<td width="5%">[2]</td>
-  <td width="95%"><strong>Florko, K.R.N.</strong> 2018. Polar bear (<i>Ursus maritimus</i>) foraging ecology in the Western Canadian Arctic. Department of Biology, York University. Toronto, ON.<a href="https://yorkspace.library.yorku.ca/xmlui/handle/10315/34565" target="_blank" rel="noopener noreferrer"> Link</a>.
-</td>
-</tr>
-<tr>
-<td width="5%">[1]</td>
- <td width="95%"><strong>Florko, K.R.N.</strong> 2015. Haul-out patterns and natural history of harbour seals in the Churchill River Estuary. Department of Biology, University of Winnipeg. Winnipeg, MB.
-</td>
 </tr>
 </tbody>
 </table>
