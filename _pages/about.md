@@ -19,23 +19,23 @@ Education
 
 ---
 
-Sept 2018 - present
-:   **PhD Candidate**
+#Sept 2018 - present
+#:   **PhD Candidate**
 
-    Institute for the Oceans & Fisheries, University of British Columbia
-    - Thesis: 
-    - Advisor:
+#    Institute for the Oceans & Fisheries, University of British Columbia
+#    - Thesis: 
+#    - Advisor:
 
-2015 - 2018
-:   **MSc**
+#2015 - 2018
+#:   **MSc**
 
-    Department of Biology, York University
-    - Thesis: 
-    - Advisor:
+#    Department of Biology, York University
+#    - Thesis: 
+#    - Advisor:
     
-2011 - 2015
-:   **BSc (Hons)**
+#2011 - 2015
+#:   **BSc (Hons)**
 
-    Department of Biology, University of Winnipeg
-    - Thesis: 
-    - Advisor:
+#    Department of Biology, University of Winnipeg
+#    - Thesis: 
+#    - Advisor:
