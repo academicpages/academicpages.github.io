@@ -33,5 +33,6 @@ Education
 
 
 ---
-![The San Juan Mountains are beautiful!](/images/coverimg2.jpg "San Juan Mountains")
+![Seals are awesome!](/images/coverimg2.jpg "Seals")
+Ringed seals on sea ice in near Ellesmere Island, Nunavut
 
