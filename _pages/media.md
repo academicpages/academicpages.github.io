@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<h4>Please see below for various media articles, radio interviews, and blog posts about my research.</h4>
+<h4>Various media articles, radio interviews, and blog posts about my research -- written better than I could!</h4>
 
 <h3>Media articles and interviews about my research</h3>
 <table class="tg">
@@ -49,9 +49,15 @@ redirect_from:
 <td width="23%">Article</td>
 </tr>
   
-       <tr>
+      <tr>
 <td width="12%">Sept 2, 2021</td>
 <td width="65%"><a href="https://news.ubc.ca/2021/09/03/food-for-seals-and-other-arctic-predators-shrinking/" rel="noopener noreferrer">UBC News</a>. Food for seals and other Arctic predators is shrinking — literally</td>
+<td width="23%">Interview and article</td>
+</tr>
+  
+     <tr>
+<td width="12%">Sept 2, 2021</td>
+<td width="65%"><a href="https://www.earth.com/news/fish-are-literally-shrinking-in-the-hudson-bay/" rel="noopener noreferrer">Earth.com</a>. Fish are literally shrinking in the Hudson Bay</td>
 <td width="23%">Article</td>
 </tr>
   
