@@ -22,14 +22,15 @@ Education
 **BSc (Hons)**  2011-2015
 * Department of Biology, University of Winnipeg
 * Advisor: Stephen Petersen
-* Thesis:
+* Thesis: Haul-out patterns of harbour seals in the Churchill River Estuary
 
 **MSc**  2015-2018
 * Department of Biology, York University
-* Advisor:
-* Thesis:
+* Advisor: Greg Thiemann
+* Thesis: Polar bear (Ursus maritimus) foraging ecology in the Western Canadian Arctic
 
 **PhD**  2018-current
 * Institute for the Oceans & Fisheries, University of British Columbia
-* Advisor:
-* Thesis:
+* Advisor: Marie Auger-Méthé
+* Thesis: Effects of trophic interactions and climate change on the spatial ecology of an Arctic predator
+
