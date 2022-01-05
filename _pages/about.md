@@ -33,3 +33,5 @@ Education
 
 
 ---
+![The San Juan Mountains are beautiful!](/images/coverimg2.jpg "San Juan Mountains")
+
