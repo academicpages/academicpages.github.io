@@ -22,7 +22,13 @@ redirect_from:
   <tr>
 <td width="15%">Oct 29, 2021</td>
 <td width="75%"><a href="https://wildlife.org/tws2021-climate-change-may-shift-seal-prey-in-arctic/" rel="noopener noreferrer">The Wildlife Society</a>. Climate change may shift seal prey in the Arctic</td>
-<td width="10%">Interview/conference talk feature</td>
+<td width="10%">Interview and conference talk feature</td>
+</tr>
+  
+    <tr>
+<td width="15%">Oct 15, 2021</td>
+<td width="75%"><a href="https://www.cbc.ca/radio/quirks/oct-16-fecal-transplants-a-fountain-of-youth-supernova-on-repeat-bee-dancing-reveals-foraging-habits-and-mo-1.6211282/narwhals-leave-infrared-fluke-prints-in-the-ocean-that-can-be-seen-with-aerial-cameras-1.6211284" rel="noopener noreferrer">Quirks and Quarks</a>. Narwhals leave infrared 'fluke-prints' in the ocean that can be seen with aerial cameras</td>
+<td width="10%">Radio interview and article</td>
 </tr>
 
 </tbody>
