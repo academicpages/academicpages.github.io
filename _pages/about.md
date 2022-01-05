@@ -2,7 +2,18 @@
 permalink: /
 title: "Welcome!"
 excerpt: "About me"
+
 disableAnchoredHeadings: true
+hidemeta: true
+comments: false
+showtoc: false
+disableshare: true
+disableHLJS: true
+disableAnchoredHeadings: true
+hideSummary: true
+cover.hidden: true
+ShowBreadCrumbs: false
+
 author_profile: true
 redirect_from: 
   - /about/
