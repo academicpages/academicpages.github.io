@@ -18,3 +18,12 @@ Education
 * PhD Candidate, Institute for the Oceans & Fisheries, University of British Columbia, 2018-present
 
 ---
+
+*BSc (Hons)*  2011-2015
+Department of Biology, University of Winnipeg
+
+*BSc (Hons)*  2011-2015
+Department of Biology, University of Winnipeg
+
+*BSc (Hons)*  2011-2015
+Department of Biology, University of Winnipeg
