@@ -30,6 +30,12 @@ redirect_from:
 <td width="65%"><a href="https://www.cbc.ca/radio/quirks/oct-16-fecal-transplants-a-fountain-of-youth-supernova-on-repeat-bee-dancing-reveals-foraging-habits-and-mo-1.6211282/narwhals-leave-infrared-fluke-prints-in-the-ocean-that-can-be-seen-with-aerial-cameras-1.6211284" rel="noopener noreferrer">CBC Quirks and Quarks</a>. Narwhals leave infrared 'fluke-prints' in the ocean that can be seen with aerial cameras</td>
 <td width="23%">Radio interview and article</td>
 </tr>
+  
+   <tr>
+<td width="12%">Sept 10, 2021</td>
+<td width="65%"><a href="https://www.rcinet.ca/eye-on-the-arctic/2021/09/10/continued-sea-ice-loss-could-alter-food-web-for-some-arctic-marine-predators-says-canadian-study/" rel="noopener noreferrer">CBC Eye on the Arctic</a>. Continued sea ice loss could alter food web for some Arctic marine predators, says Canadian study</td>
+<td width="23%">Radio interview and article</td>
+</tr>
 
 </tbody>
 </table>
