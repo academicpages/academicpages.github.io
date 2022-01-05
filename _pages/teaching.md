@@ -39,8 +39,12 @@ redirect_from:
 <table class="tg">
 <tbody>
 <tr>
-<td width="20%">Fall 2015 & 2016</td>
-<td width="80%">Cells, Molecular Biology, and Genetics (x4)</td>
+<td width="20%">Winter 2017</td>
+<td width="80%">Conservation Biology</td>
+</tr>
+<tr>
+<td width="20%">Fall 2016</td>
+<td width="80%">Cells, Molecular Biology, and Genetics (x2)</td>
 </tr>
 <tr>
 <td width="20%">Winter 2016</td>
@@ -54,9 +58,9 @@ redirect_from:
 <td width="20%">Fall 2016</td>
 <td width="80%">Ecology</td>
 </tr>
-<tr>
-<td width="20%">Winter 2017</td>
-<td width="80%">Conservation Biology</td>
+  <tr>
+<td width="20%">Fall 2015</td>
+<td width="80%">Cells, Molecular Biology, and Genetics (x2)</td>
 </tr>
 </tbody>
 </table>
@@ -64,12 +68,12 @@ redirect_from:
 <table class="tg">
 <tbody>
 <tr>
-<td width="20%">Fall 2013-Winter 2014</td>
-<td width="80%">Human Anatomy & Physiology</td>
-</tr>
-<tr>
 <td width="20%">Winter 2015</td>
 <td width="80%">Invertebrate Biology</td>
+</tr>
+<tr>
+<td width="20%">Fall 2013-Winter 2014</td>
+<td width="80%">Human Anatomy & Physiology</td>
 </tr>
 </tbody>
 </table>
