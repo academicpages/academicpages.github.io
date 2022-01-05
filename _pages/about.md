@@ -38,7 +38,6 @@ Publication
 
 Talks/Presentations
 ======
-*  Incoming Talk at the SIAM conference, 2022, USA.
 *  Poster at _[Bristol: FRY]()_, September 2021, UK. 
 *  Talk at _[MCM]()_ (Special Session on Stein's method), August 2021, German.
 *  Poster at _[AISTATS 2021]()_, April 2021, USA.
