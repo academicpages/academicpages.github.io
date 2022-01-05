@@ -73,6 +73,12 @@ redirect_from:
 <td width="23%">Interview and article</td>
 </tr>
   
+   <tr>
+<td width="12%">Apr 14, 2020</td>
+<td width="65%"><a href="https://cabinradio.ca/34628/news/environment/scientists-map-the-canadian-arctics-polar-bear-dens/" rel="noopener noreferrer">Cabin Radio</a>. Scientists map the Canadian Arctic’s polar bear dens</td>
+<td width="23%">Article</td>
+</tr>
+  
 </tbody>
 </table>
 
