@@ -1,13 +1,23 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello, and welcome to my website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Hey, there, pleased to meet you! You probably stumbled upon here here through the interwebs, but if you're here, you're probably here for the purpose of getting to know me a little better. I'm a grad student at Georgia Tech where I'm doing an MS in Computer Science.
 
+Prior to joining Tech, I also worked as a software engineer at General Electric where I was responsible for developing and deploying REST-based microservices in Java. I also worked to optimize and improve the DevOps and CI/CD pipelines for the project. You can find more details about my experience at GE on my resume, linked [here](add-link).
+
+Besides work and study, I am a huge football (NA audiences, I mean soccer, I just refuse to call it that xD) fan. I used to play a lot too, until a bad knee injury ended my budding hopes of being the next Lionel Messi. I also enjoy photography and filmmaking. You can catch some of my photos on my Instagram [here](add-link). Often when I have a few hours to chill, I will sit in the sun and read a book. My go-to genres are fiction, fantasy and philosophy. If it's dark outside, I will often put on a movie while drinking hot chocolate. Up until a few years ago, I used to play a game with my friends where we would watch Oscar nominated movies and try to pick the winners ahead of the ceremony. I am proud to say that more often than not I have been the person with the greatest number of accurate guesses. Does that mean something? I don't know, maybe I got lucky. Or maybe you should call me the next time you wanna buy a lottery ticket.
+
+That's the fun part. Now if you wanna be friends or chat personally, feel free to ping me over on Facebook or Instagram. If you wanna know more about my professional experience, here's my [CV](add-link). Please feel free to look over the other pages on this website to learn more about me. If you want to contact me, you can send me an email over at barun.das.23@gmail.com
+
+_I am actively looking for internship opportunities in software development or machine learning for Summer 2022. If you're interested or know someone who's hiring, please get in touch!_
+
+<!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -47,4 +57,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
