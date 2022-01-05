@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<h4>Various media articles, radio interviews, and blog posts about my research -- written better than I could!</h4>
+<h4>Various media articles, radio interviews, and blog posts about my research - written better than I could!</h4>
 
 <table class="tg">
 <tbody>
