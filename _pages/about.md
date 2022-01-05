@@ -27,9 +27,9 @@ Yongjun Zhang. 2021. "[Corporate Responses to COVID19: A Non-Market Strategy App
 Seguin, Charles, Chris Julien, and Yongjun Zhang. 2021. "[The stability of androgynous names: Dynamics of gendered naming practices in the United States 1880–2016.](http://www.charlieseguin.com/uploads/4/1/2/7/41271621/seguin_poetics_names_10-2020.pdf)" Poetics
 
 ## Working Paper
-Yongjun Zhang. 2021. "[Using Population Mobility to Measure Racial Residential Segregation in the U.S. Metro Areas](https://yongjunzhang.com/files/Seg_Draft.pdf)." 
+Yongjun Zhang. 2021. "[Using Population Mobility to Measure Racial Residential Segregation in the U.S. Metro Areas](https://osf.io/pvbxw/)." 
 
-Pradeep Nalluri, Hao Lin, Lantian Li, Yifan Sun, and Yongjun Zhang. "[Multiplex Anti-Asian Sentiment before and during the Pandemic: Introducing New Datasets from Twitter Mining](https://yongjunzhang.com/files/covid19_and_anti_asian_hate_speech.pdf)."
+Pradeep Nalluri, Hao Lin, Lantian Li, Yifan Sun, and Yongjun Zhang. "[Multiplex Anti-Asian Sentiment before and during the Pandemic: Introducing New Datasets from Twitter Mining](https://osf.io/xtw4c/)."
 
 ## Talks
 Yongjun Zhang. Dec 2021. "Computational Social Science: Its Recent Development, Opportunities, and Challenges." Peking University [[Poster]](https://yongjunzhang.com/images/pkutalk.png).
