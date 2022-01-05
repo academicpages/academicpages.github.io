@@ -34,9 +34,21 @@ redirect_from:
    <tr>
 <td width="12%">Sept 10, 2021</td>
 <td width="65%"><a href="https://www.rcinet.ca/eye-on-the-arctic/2021/09/10/continued-sea-ice-loss-could-alter-food-web-for-some-arctic-marine-predators-says-canadian-study/" rel="noopener noreferrer">CBC Eye on the Arctic</a>. Continued sea ice loss could alter food web for some Arctic marine predators, says Canadian study</td>
-<td width="23%">Radio interview and article</td>
+<td width="23%">Article</td>
 </tr>
 
+   <tr>
+<td width="12%">Sept 8, 2021</td>
+<td width="65%"><a href="https://www.canadiangeographic.ca/article/wildlife-wednesday-iconic-loon-trouble" rel="noopener noreferrer">Canadian Geographic</a>. Incredible shrinking prey</td>
+<td width="23%">Article</td>
+</tr>
+
+     <tr>
+<td width="12%">Sept 6, 2021</td>
+<td width="65%"><a href="https://www.canadiangeographic.ca/article/wildlife-wednesday-iconic-loon-trouble" rel="noopener noreferrer">CTV News British Columbia</a>. Climate change could force Arctic seals to feed on 'marine junk food,' new B.C. study suggests</td>
+<td width="23%">Article</td>
+</tr>
+  
 </tbody>
 </table>
 
