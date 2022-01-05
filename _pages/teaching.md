@@ -47,16 +47,16 @@ redirect_from:
 <td width="80%">Cells, Molecular Biology, and Genetics (x2)</td>
 </tr>
 <tr>
-<td width="20%">Winter 2016</td>
-<td width="80%">Evolution, Ecology, Biodiversity & Conservation Biology (x3)</td>
-</tr>
-<tr>
 <td width="20%">Fall 2016</td>
 <td width="80%">Animals</td>
 </tr>
 <tr>
 <td width="20%">Fall 2016</td>
 <td width="80%">Ecology</td>
+</tr>
+  <tr>
+<td width="20%">Winter 2016</td>
+<td width="80%">Evolution, Ecology, Biodiversity & Conservation Biology (x3)</td>
 </tr>
   <tr>
 <td width="20%">Fall 2015</td>
