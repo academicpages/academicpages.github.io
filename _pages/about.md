@@ -14,19 +14,18 @@ I am a quantitative ecologist interested in all things Arctic, predator-prey int
 Education
 ======
 
-**BSc (Hons)**  2011-2015
-* Department of Biology, University of Winnipeg
-* Advisor: Stephen Petersen
-* Thesis: Haul-out patterns of harbour seals in the Churchill River Estuary
+**PhD**  2018-current
+* Institute for the Oceans & Fisheries, University of British Columbia
+* Advisor: Marie Auger-Méthé
+* Thesis: Effects of trophic interactions and climate change on the spatial ecology of an Arctic predator
 
 **MSc**  2015-2018
 * Department of Biology, York University
 * Advisor: Greg Thiemann
 * Thesis: Polar bear (Ursus maritimus) foraging ecology in the Western Canadian Arctic
 
-**PhD**  2018-current
-* Institute for the Oceans & Fisheries, University of British Columbia
-* Advisor: Marie Auger-Méthé
-* Thesis: Effects of trophic interactions and climate change on the spatial ecology of an Arctic predator
-
+**BSc (Hons)**  2011-2015
+* Department of Biology, University of Winnipeg
+* Advisor: Stephen Petersen
+* Thesis: Haul-out patterns of harbour seals in the Churchill River Estuary
 ---
