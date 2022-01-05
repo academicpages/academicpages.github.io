@@ -1,10 +1,10 @@
 ---
-permalink: /
-title: "Welcome!"
-excerpt: "About me"
+layout: archive
+title: "About me"
+permalink: /aboutme/
 author_profile: true
-redirect_from: 
-  - /aboutme.md
+redirect_from:
+  - /aboutme
 ---
 
 ------
