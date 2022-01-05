@@ -7,7 +7,6 @@
 
 # Site Settings
 locale                   : "en-US"
-minimal_mistakes_skin    : "dark"
 title                    : "Xinyi Zhou"
 title_separator          : "-"
 name                     : &name "Xinyi Zhou"
