@@ -13,11 +13,6 @@ I am a quantitative ecologist interested in all things Arctic, predator-prey int
 
 Education
 ======
-* BSc (Hons), Department of Biology, University of Winnipeg, 2011-2015
-* MSc, Department of Biology, York University, 2015-2018
-* PhD Candidate, Institute for the Oceans & Fisheries, University of British Columbia, 2018-present
-
----
 
 **BSc (Hons)**  2011-2015
 * Department of Biology, University of Winnipeg
@@ -34,3 +29,4 @@ Education
 * Advisor: Marie Auger-Méthé
 * Thesis: Effects of trophic interactions and climate change on the spatial ecology of an Arctic predator
 
+---
