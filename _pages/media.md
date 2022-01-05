@@ -19,6 +19,11 @@ redirect_from:
 <td width="10%">Blog</td>
 </tr>
   
+  <tr>
+<td width="15%">Oct 29, 2021</td>
+<td width="75%"><a href="https://wildlife.org/tws2021-climate-change-may-shift-seal-prey-in-arctic/" rel="noopener noreferrer">The Wildlife Society</a>. Climate change may shift seal prey in the Arctic</td>
+<td width="10%">Interview/conference talk feature</td>
+</tr>
 
 </tbody>
 </table>
