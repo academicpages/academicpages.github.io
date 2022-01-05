@@ -61,6 +61,18 @@ redirect_from:
 <td width="23%">Article</td>
 </tr>
   
+    <tr>
+<td width="12%">Sept 1, 2021</td>
+<td width="65%"><a href="https://www.dailymail.co.uk/sciencetech/article-9948627/Seals-hit-shrinking-portion-sizes-scientists-warn-climate-change-hit-prey.html" rel="noopener noreferrer">Daily Mail</a>. Seals could be hit by shrinking portion sizes as scientists warn climate change will cause substantial prey like cod to die off, forcing them to hunt for smaller fish</td>
+<td width="23%">Article</td>
+</tr>
+  
+    <tr>
+<td width="12%">Aug 12, 2021</td>
+<td width="65%"><a href="https://news.ubc.ca/2021/08/12/how-to-spot-the-elusive-narwhal/" rel="noopener noreferrer">UBC News</a>. How to spot the elusive narwhal</td>
+<td width="23%">Interview and article</td>
+</tr>
+  
 </tbody>
 </table>
 
