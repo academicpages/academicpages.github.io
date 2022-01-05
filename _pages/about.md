@@ -22,7 +22,7 @@ Education
 **MSc**  2015-2018
 * Department of Biology, York University
 * Advisor: Greg Thiemann
-* Thesis: Polar bear (Ursus maritimus) foraging ecology in the Western Canadian Arctic
+* Thesis: Polar bear foraging ecology in the Western Canadian Arctic
 
 **BSc (Hons)**  2011-2015
 * Department of Biology, University of Winnipeg
