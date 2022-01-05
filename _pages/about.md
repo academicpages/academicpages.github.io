@@ -20,10 +20,16 @@ Education
 ---
 
 **BSc (Hons)**  2011-2015
-*Department of Biology, University of Winnipeg
+* Department of Biology, University of Winnipeg
+* Advisor: Stephen Petersen
+* Thesis:
 
 **MSc**  2015-2018
-*Department of Biology, York University
+* Department of Biology, York University
+* Advisor:
+* Thesis:
 
 **PhD**  2018-current
-*Institute for the Oceans & Fisheries, University of British Columbia
+* Institute for the Oceans & Fisheries, University of British Columbia
+* Advisor:
+* Thesis:
