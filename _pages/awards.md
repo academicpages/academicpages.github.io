@@ -12,7 +12,7 @@ author_profile: true
 - Thomas Young Centre (TYC) Junior Research Fellowship (JRF), 2021 (£1k).
 -	Roy Prize for Best Graduate Student Oral Presentation at the RSC 40th Anniversary Solid State Chemistry Group (SSCG) Meeting, 2021 (£250), judged by the invited speakers.
 - École Polytechnique Fédérale Lausanne (EPFL) SeeFuturePV Young Scientist Travel Grant 2021.
-- RSC Researcher Development Grant, to attend and present at ACS Fall 2021.
+- RSC Researcher Development Grant, 2021.
 - Henderson-Lloyd prize for the highest overall grade in the Class of 2019, in the Schools of Chemistry and Physics at Trinity College Dublin (margin >10%).
 - Trinity Employability Award in Partnership with Intel (2018).
 - Elected to Foundation Scholarship, the “most prestigious undergraduate award in Ireland” (€100,000 Value)(2017). [Certificate](https://kavanase.github.io/files/Schol_Results.pdf)
