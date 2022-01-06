@@ -11,7 +11,7 @@ You can find the recorded versions of my talks on my [YouTube channel](https://w
 
 - ‘_Impact of Defect Dynamics on Device Performance: Case Study in CdTe_’ **(Invited Talk)** @ Dept. of Computational Materials Design at Max-Planck-Institut für Eisenforschung (MPIE; 2021)
 
-- ‘_Hidden spontaneous polarisation in the chalcohalide photovoltaic absorber Sn2SbS2I3_’ **(Talk)** @ MRS Spring 2021; ACS Fall 2021; eMRS Fall 2021 **_(Graduate Student Award)_**; NanoGe HOPV 2021 **(Poster)** **_(UCL Chemistry Best Poster Prize)_**
+- ‘_Hidden spontaneous polarisation in the chalcohalide photovoltaic absorber Sn2SbS2I3_’ **(Talk)** @ MRS Spring 2021; ACS Fall 2021; eMRS Fall 2021 **_(Graduate Student Award)_**; NanoGe HOPV 2021; MRS Fall 2021; **(Poster)** **_(UCL Chemistry Best Poster Prize)_**
 
 - ‘_Rapid Recombination by Cadmium Vacancies in CdTe_’ **(Talk)** @ MRS Spring 2021; NanoGe HOPV 2021, RSC ECR 2021; ACS Fall 2021; eMRS Fall 2021 **_(Graduate Student Award)_**; ICDS31; SCI Materials for Energy Tech **_(Excellent Talk Prize)_**; MRS Fall 2021
 
