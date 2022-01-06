@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Electronic Engineering at Yonesei University, advised by [Prof. Kwanghoon Sohn](http://diml.yonsei.ac.kr/professor/). 
-I have experienced computer vision tasks such as 2D/3D computer vision (monocular depth estimation and confidence measure estimation), bad weather restoration (de-raining), and future frame prediction with future frame segmentation, and anomaly detection. Here's my [CV](https://jhcho90.github.io/files/Jaehoon_CV.pdf).
+I am a Ph.D. student in electrical and electronic engineering at Yonesei University, advised by [Prof. Kwanghoon Sohn](http://diml.yonsei.ac.kr/professor/). 
+
+I am a computer vision fanatic and like the researches that could directly be applied to real-world problems. I am interested in a wide array of topics, ranging from low-level vision to high-level vision, and their connections to autonomous driving assistance systems. Recently, I have been thinking more from the 3D perspective.
+
+Here's my [CV](https://jhcho90.github.io/files/Jaehoon_CV.pdf).
 
  <br/>
  <br/>
@@ -19,7 +22,7 @@ I have experienced computer vision tasks such as 2D/3D computer vision (monocula
 Research
 ======
 
-| <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/memory.PNG" alt=""> </figure> | **Memory-guided Image Deraining using Time-laspe data**<br/>**Jaehoon Cho**, Seungryong Kim, Kwanghoon Sohn<br/>IEEE Trans. on Image Processing **(TIP)**, **(submitted)**<br/>[Paper](https://jhcho90.github.io/files/derain_TIP2021.pdf) |
+| <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/memory.PNG" alt=""> </figure> | **Memory-guided Image Deraining using Time-laspe data**<br/>**Jaehoon Cho**, Seungryong Kim, Kwanghoon Sohn<br/>IEEE Trans. on Image Processing **(TIP)**, **(submitted)**<br/>[Paper](https://arxiv.org/submit/4105998) |
 | <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/video2.png" alt=""> </figure> | **Wide and Narrow: Video Prediction from Context and Motion**<br/>**Jaehoon Cho**, Jiyoung Lee, Changjae Oh, Wonil Song, Kwanghoon Sohn<br/>British Machine Vision Conference **(BMVC)** 2021<br/>[Paper](https://arxiv.org/pdf/2110.11586.pdf) |
 | <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/eswa3.png" alt=""> </figure> | **Deep Monocular Depth Estimation Leveraging a Large-scale Outdoor Stereo Dataset**<br/>**Jaehoon Cho**, Dongbo Min, Youngjung Kim, Kwanghoon Sohn<br/>Expert Systems With Applications **(ESWA)**, vol. 178, Mar. 2021 (Impact Factor: **5.452**) <br/>[Project page](https://dimlrgbd.github.io/) \| [Paper](https://jhcho90.github.io/files/Depth_ESWA2021.pdf) \| [Dataset](https://dimlrgbd.github.io/rawdata) | 
 | <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/tip.png" alt=""> </figure> | **Single Image Deraining using Time-laspe data**<br/>**Jaehoon Cho**, Seungryong Kim, Dongbo Min, Kwanghoon Sohn<br/>IEEE Trans. on Image Processing **(TIP)**, vol. 29, pp. 7274-7289, Jun. 2020 <br/>(Impact factor: **9.340**)<br/>[Paper](https://jhcho90.github.io/files/derain_TIP2020.pdf) |
