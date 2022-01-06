@@ -146,7 +146,7 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - assets
+
 keep_files:
   - .git
   - .svn
@@ -266,7 +266,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-remote-theme
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -277,8 +276,6 @@ whitelist:
 gems: 
   - jekyll-sitemap
 
-#remote_theme           : "mmistakes/minimal-mistakes"
-#minimal_mistakes_skin    : "air" # "dark", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 
