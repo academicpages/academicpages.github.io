@@ -16,6 +16,8 @@ You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.e
 
 News
 ======
+\[January 2022\] Invited to serve as a Reviewer for **ICML 2022**. 
+
 \[August 2021\] I passed my Ph.D. qualifying exam and became a Ph.D. candidate. \[[slides](https://kl4805.github.io/files/slides.pdf)\]
 
 \[July 2021\] Invited to the Program Committee Board (i.e. to serve a three-year term as Program Committee Members) for **IJCAI 2022-24**.
