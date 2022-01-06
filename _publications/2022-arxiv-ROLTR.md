@@ -2,7 +2,7 @@
 title: "Reinforcement Online Learning to Rank with Unbiased Reward Shaping"
 collection: publications
 permalink: /publication/arxiv2021ROLTR
-year: 2021
+year: 2022
 venue: 'arxiv preprint'
 authors: <strong>Shengyao Zhuang</strong>, Zhihao Qiao, Guido Zuccon
 track: Journal paper
