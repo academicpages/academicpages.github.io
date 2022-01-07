@@ -10,7 +10,7 @@ main:
     url: /teaching/    
     
   - title: "Posts"
-    #url: /portfolio/
+    url: /portfolio/
         
   - title: "YouTube Videos"
     url: /year-archive/
