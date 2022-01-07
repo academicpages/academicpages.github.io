@@ -14,3 +14,4 @@ I recently completed my PhD in Astrophysics with Prof. Daniel Eisenstein at Harv
 
 I have been widely involved in teaching and outreach. At Harvard, I was a teaching assistant for ASTRO 17 and ASTRO 130. I was a founding member of Open Labs At Harvard, with the goal of promoting science and research education among underpriviledged K-12 students in the Greater Boston area. Aside from work, I enjoy tennis, DJing, and cooking.  
 
+My Chinese name is 袁思涵, listen here for a correct pronunciation: https://translate.google.com/?sl=zh-CN&tl=en&text=%E8%A2%81%E6%80%9D%E6%B6%B5&op=translate. 
