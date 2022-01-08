@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "custom"# false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :   G-GS8GFF04Z6
 
 
 # Site Author
@@ -309,3 +309,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
+    
+# Google Analytics
+google_analytics: G-GS8GFF04Z6
