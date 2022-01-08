@@ -16,7 +16,7 @@ redirect_from:
 
 About Me
 ======
-I hold a B.Eng honour degree in Electronics and Electrical Engineering and an M.Sc degree in Artificial Intelligence, both received from the University of Edinburgh. My research includes multisensory based multimodal machine learning in contextual recognition and location tracking. Besides research, I adore cooking and travelling.
+I hold a BEng honour degree in Electronics and Electrical Engineering and an MSc degree in Artificial Intelligence, both received from the University of Edinburgh. My research includes multisensory based multimodal machine learning in contextual recognition and location tracking. Besides research, I adore cooking and travelling.
 
 Research Interests
 ======
@@ -36,6 +36,10 @@ Research Interests
 
 News
 ======
+[Jan. 2022] Paper published on IEEE.
+Work with Zhiqiang Wei and Valentin Radu, "MM-Loc: Cross-sensor Indoor Smartphone Location Tracking using Multimodal Deep Neural Networks".
+[Publication Page](https://ieeexplore.ieee.org/document/9662519/)
+
 [Oct. 2021] Journal accepted at Sensors.
 Work with Zhiqiang Wei and Valentin Radu, "Sensor-fusion for Smartphone Location Tracking using Hybrid Multimodal Deep Neural Networks".
 [CERTIFICATE OF PUBLICATION](http://weixijia.github.io/files/PC.pdf)
