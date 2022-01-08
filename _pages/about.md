@@ -42,7 +42,7 @@ Work with Zhiqiang Wei and Valentin Radu, "MM-Loc: Cross-sensor Indoor Smartphon
 
 [Oct. 2021] Journal accepted at Sensors.
 Work with Zhiqiang Wei and Valentin Radu, "Sensor-fusion for Smartphone Location Tracking using Hybrid Multimodal Deep Neural Networks".
-[CERTIFICATE OF PUBLICATION](http://weixijia.github.io/files/PC.pdf)
+[Publication Page](https://www.mdpi.com/1424-8220/21/22/7488)
 
 [Sept. 2021] Paper accepted at IPIN, 2021.
 Work with Zhiqiang Wei and Valentin Radu, "MM-Loc: Cross-sensor Indoor Smartphone Location Tracking using Multimodal Deep Neural Networks".
