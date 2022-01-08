@@ -38,26 +38,26 @@ News
 ======
 [Jan. 2022] Paper published on IEEE.
 Work with Zhiqiang Wei and Valentin Radu, "MM-Loc: Cross-sensor Indoor Smartphone Location Tracking using Multimodal Deep Neural Networks".
-[Publication Page](https://ieeexplore.ieee.org/document/9662519/)
+[Link](https://ieeexplore.ieee.org/document/9662519/)
 
 [Oct. 2021] Journal accepted at Sensors.
 Work with Zhiqiang Wei and Valentin Radu, "Sensor-fusion for Smartphone Location Tracking using Hybrid Multimodal Deep Neural Networks".
-[Publication Page](https://www.mdpi.com/1424-8220/21/22/7488)
+[Link](https://www.mdpi.com/1424-8220/21/22/7488)
 
 [Sept. 2021] Paper accepted at IPIN, 2021.
 Work with Zhiqiang Wei and Valentin Radu, "MM-Loc: Cross-sensor Indoor Smartphone Location Tracking using Multimodal Deep Neural Networks".
 See you in Lloret de Mar, Spain.
-[Watch My Presentatin Here](https://www.youtube.com/watch?v=7YTxaOnCph8)
+[Video](https://www.youtube.com/watch?v=7YTxaOnCph8)
 
 [Jul. 2019] Paper accepted at IPIN, 2019.
 Work with Valentin Radu, "Calibrating Recurrent Neural Networks on Smartphone Inertial Sensors for Location Tracking".
 See you in Pisa, Italy.
-[Picture](https://weixijia.github.io/talks/ipin2019-talk)
+[Link](https://weixijia.github.io/talks/ipin2019-talk)
 
 [Aug. 2018] Paper accepted at MobiUK 2018.
 Work with Valentin Radu, "End-to-End Machine Learning for Smartphone-based Indoor Localisation and Tracking using Recurrent Neural Networks".
 See you in Cambridge, UK.
-[Picture](https://weixijia.github.io/talks/mobiuk2018-talk)
+[Link](https://weixijia.github.io/talks/mobiuk2018-talk)
 
 Services
 ======
