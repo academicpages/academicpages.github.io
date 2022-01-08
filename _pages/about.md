@@ -25,6 +25,6 @@ A Requirement Specification of a Wireless Monitoring System for Emergency Life S
 [Game Platform Website](https://github.com/CindyChow123/GameCenter_2020_fall_ooad)   
 ## Publications
 **A NOVEL MULTI-FOCUS FUSION NETWORK FOR RETINAL MICROSURGERY**   
-GOOD NEWS❗ This paper has been accepted by ISBI for presentation on January.7, 2022🎉  
+GOOD NEWS❗ This paper has been accepted by ISBI for presentation on January 7, 2022🎉  
 ## Blogs
 The blog about **Remote Patient Monitoring Systems** is now open for viewing!
