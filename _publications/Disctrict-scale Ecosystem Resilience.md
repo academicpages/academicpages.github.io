@@ -1,10 +1,12 @@
 ---
-title: "Disctrict-scale Ecosystem Resilience"
+
+title: "Toward High-Resolution Soil Moisture Monitoring over India by Combining Remote Sensing Products with Land Surface Models"
 collection: publications
-excerpt: 
-The carbon and water cycles play an important role in ecosystem functioning and are linked to each other through different physical and biological processes. The hydroclimatic disturbances such as droughts affect both hydrological as well as the ecological processes. Increasing hydroclimatic disturbances under climate change will adversely affect the ecohydrological processes and hence, the assessment of the ecohydrological resilience and its controlling factors is important for the sustainability of the ecosystems. In this study, an assessment of the resilience of terrestrial ecosystems in India to hydroclimatic disturbances was carried out at the district (i.e. administrative division) scale. Ecosystem water use efficiency (WUEe), defined as the ratio of net primary productivity (NPP) to evapotranspiration, was used as an indicator of ecosystem functioning or its response to hydroclimatic disturbances. We found a large spatial variation in WUEe in India at district scale, which was significantly higher in lower Himalayan regions compared to rest of the country. Increasing trend in WUEe was found for central parts of the country. The resilience was measured in terms of the ratio of the WUEe under the dry conditions and the mean WUEe, which indicates the ability to absorb hydroclimatic disturbance. Out of 634 districts considered for this study, only 241 (~38%) districts were found resilient to dry conditions, whereas a significant reduction in WUEe was observed for some of the districts. The resilience at district scale indicates the cross-biomes response of ecosystems. In general, the forest dominated districts had higher resilience compared to districts dominated by other biome types. Also, districts having temperate climate were found having higher resilience. Out of 30 states and union territories (UTs) only 10 states had more than 50% resilient area. The results of this study highlight the need for better ecosystem management policies in the country.
-Date: 2020-12-11
-paperurl: 'https://doi.org/10.1002/essoar.10509510.1'
+permalink: publications/Toward High-Resolution Soil Moisture Monitoring over India by Combining Remote Sensing Products with Land Surface Models
+excerpt: 'Soil moisture is a vital climatic variable driving environmental and biological processes. Large scale soil moisture can be estimated using Land Surface Models or observed using active and passive microwave remote sensing. Increasing availability of remotely sensed soil moisture retrievals has allowed for constraining Land Surface Model (LSM) estimates. Though the accuracy of remote sensing datasets is constrained by soil roughness, vegetation, and surface temperature, combining them with LSMs allow us to reduce errors in soil moisture estimates. This study assimilates the SMOPs-ASCAT, ESA-CCI and SMAP soil moisture retrievals into a land surface model u sing an ensemble Kalman filter. The open-loop and data assimilated soil moisture outputs are evaluated against the ground-based sensor data. This demonstrates the establishment of an Indian Land Data Assimilation System (ILDAS) with the goal of providing accurate soil moisture products at high spatial and temporal resolution over India.'
+date: 2020-12-11
+venue: 'AGU 2020'
+paperurl: 'https://doi.org/10.1002/essoar.10509512.1'
 
 ---
 
