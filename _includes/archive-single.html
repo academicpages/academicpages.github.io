@@ -45,7 +45,7 @@
             <p>{{ post.authors }} </p>
           {% endif %}
           {% if post.venue and post.date %}
-            <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+            <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} ({{ post.status }}) </p>
           {% elsif post.venue %}
             <p>Submitted to <i>{{ post.venue }}</i>, Under Review </p>
           {% endif %}
