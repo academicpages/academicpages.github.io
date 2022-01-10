@@ -1,6 +1,5 @@
 ---
 title: '2021年终总结'
-date: 2022-01-08
 permalink: /posts/2022/01/summary/
 tags:
   - Personal
