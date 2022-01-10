@@ -16,9 +16,9 @@ We provide doubly robust estimation and inference for the proportion of treatmen
 
 **[Federated Adaptive Causal Estimation (FACE) for Target Treatment Effects](https://arxiv.org/abs/2112.09313)**.  
 **Han L,** Hou J, Cho K, Duan R, Cai T.  
-We develop privacy-preserving, communication-efficient, and doubly robust estimation and inference for targeted average treatment effects in the presence of heterogeneity.
+We develop a novel framework for estimating causal effects in federated data settings. Our method guarantees no negative transfer and adaptively combines information from multiple sites for optimal efficiency in the presence of heterogeneity.
 
-**Representative Optimal Sensitivity Analysis (ROSA) for Clinical Trials**.  
+**Representative and Optimal Sensitivity Analysis (ROSA) for Clinical Trials**.  
 **Han L,** Arfe A, Trippa L.  
 This paper develops a principled approach for sensitivity analysis of design parameters in the evaluation of competing trial designs.
 
@@ -26,17 +26,17 @@ This paper develops a principled approach for sensitivity analysis of design par
 **Han L,** Hou J, Cai T.  
 This paper develops semi-supervised, transfer learning methods to improve efficiency of pragmatic trials when the study endpoint is time-to-event and is captured using imperfect surrogates in electronic health records.
 
-**Federated Causal Inference for Hospital Quality Measurement**.  
+**Privacy-preserving and Communication-efficient Causal Inference for Hospital Quality Measurement**.  
 **Han L,** Li Y, Niknam B, Zubizarreta J.  
-We leverage distributed and heterogeneous multi-hospital data for hospital ranking and quality measurement purposes.
+We leverage federated and heterogeneous multi-hospital data for hospital ranking and quality measurement purposes.
 
 **Principal Resampling for Causal Inference**.  
 Han S, **Han L,** Zubizarreta, J.  
 We propose a new principal resampling technique for unbiased estimation of the ATE and proportions in each of four principal strata without requiring the deterministic monotonicity assumption.
 
-**Robust Approach to Combining Multiple Markers to Improve Surrogacy**.  
-Wang X, Parast L, Tian L, **Han L,**, Cai T.  
-We propose a novel calibrated model fusion approach to optimally combine multiple markers to improve surrogacy.
+**Towards Optimal Use of Surrogate Markers to Improve Power**.  
+Wang X, Parast L, **Han L,** Tian L, Cai T.  
+We propose a novel calibrated model fusion approach to optimally combine multiple surrogate markers to improve power.
 
 
 ## Electronic Health Records
