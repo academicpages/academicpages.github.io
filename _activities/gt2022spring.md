@@ -19,7 +19,7 @@ author_profile: false
 |Th, Feb 17, 2022| 1:30pm - 2:30pm |  |  | 
 |Th, Feb 24, 2022| 1:30pm - 2:30pm |  |  | 
 |Th, Mar 3, 2022| 1:30pm - 2:30pm |  |  | 
-|Th, Mar 10, 2022| 1:30pm - 2:30pm |  |  | 
+|Th, Mar 10, 2022| 1:30pm - 2:30pm | spring break |  | 
 |Th, Mar 17, 2022| 1:30pm - 2:30pm |  |  | 
 |Th, Mar 24, 2022| 1:30pm - 2:30pm |  |  | 
 |Th, Mar 31, 2022| 1:30pm - 2:30pm |  |  | 
