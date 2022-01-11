@@ -21,6 +21,7 @@ author_profile: true
 - **Xiangfeng Wang**, J. Ye, X. Yuan, S. Zeng and J. Zhang, Perturbation Techniques for Convergence Analysis of Proximal Gradient Method and Other First-order Algorithms via Variational Analysis. *Set-Valued and Variational Analysis*, accepted, 2021.
 
 ## 2022
+- **Moyi Yang**, **Junjie Sheng**, **Xiangfeng Wang**, W. Liu, **Bo Jin**, J. Wang and **Hongyuan Zha**, Obtaining Dyadic Fairness by Optimal Transport, *AAAI Workshop on Optimal Transport and Structured Data Modeling*, 2022.
 - **Junjie Sheng**, **Yiqiu Hu**, W. Zhou, L. Zhu, **Bo Jin**, J. Wang and **Xiangfeng Wang**, Learning to Schedule Multi-NUMA Virtual Machines via Reinforcement Learning, *Pattern Recognition*, 121, 2022, pp.108254.
 
 ## 2021
