@@ -84,25 +84,26 @@ permalink: /people/xfwang
 22. **Xiangfeng Wang**, and X. Yuan, The Linearized Alternating Direction Method of Multipliers for Dantzig Selector. SIAM Journal of Scientific Computing, 34(5), 2012, pp.A2792-A2811.
 
 #### Conference
-1. Y. Hua, **Xiangfeng Wang**, B. Jin, W. Li, J. Yan, X. He, and H. Zha, Hyper-Meta Reinforcement Learning with Sparse Reward. KDD, 2021.
-2. Q. Xu, Q. Wu, Y. Hu, B. Jin, B. Hu, F. Zhu, Y. Li, and **Xiangfeng Wang**, Semi-supervised Medical Image Segmentation with Confidence Calibration. IJCNN, 2021.
-3. W. Li, **Xiangfeng Wang**, B. Jin, J. Sheng, Y. Hua, and H. Zha, Structured Diversification Emergence via Reinforced Organization Control and Hierarchical Consensus Learning. AAMAS, 2021.
-4. X. Li, **Xiangfeng Wang**, B. Jin, W. Zhang, J. Wang, and H. Zha, VSB$^2$-Net: Visual-Semantic Bi-Branch Network for Zero-Shot Hashing. ICPR, 2020.
-5. J. Wang, **Xiangfeng Wang**, B. Jin, J. Yan, W. Zhang, and H. Zha, Heterogeneous Graph-based Knowledge Transfer for Generalized Zero-shot Learning. ICPR, 2020.
-6. X. Liao, W. Li, Q. Xu, **Xiangfeng Wang**, B. Jin, X. Zhang, Y. Zhang, and Y. Wang, Iteratively-Refined Interactive 3D Medical Image Segmentation with Multi-Agent Reinforcement Learning. CVPR, 2020.
-7. X. Li, X. Wen, B. Jin, **Xiangfeng Wang**, J. Wang, and J. Cai, Visual-to-Semantic Hashing for Zero-shot Learning. IJCNN, 2020.
-8. Y. Xie, **Xiangfeng Wang**, R. Wang, and H. Zha, A Fast Proximal Point Method for Computing Exact Wasserstein Distance. UAI, 2019.
-9. M. Zhang, C. Li, and **Xiangfeng Wang**, Multi-View Metric Learning for Multi-Label Image Classification. ICIP, 2019.
-10. W. Li, B. Jin, and **Xiangfeng Wang**, SparseMAAC: Sparse Attention for Multi-agent Reinforcement Learning. DASFAA, 2019.
-11. W. Zhang, J. Yan, **Xiangfeng Wang**, and H. Zha, Deep eXtreme Multi-label Learning. ICMR, 2018.
-12. X. Liu, J. Yan, S. Xiao, **Xiangfeng Wang**, H. Zha, and S. Chu, On Predictive Patent Valuation: Forecasting Patent Citations and Their Types, AAAI, 2017.
-13. T.-H. Chang, M. Hong, W.-C. Liao, and **Xiangfeng Wang**, Asynchronous Distributed Alternating Direction Method of Multipliers: Algorithm and Convergence Analysis. ICASSP, 2016.
-14. D. Hajinezhad, T.-H. Chang, **Xiangfeng Wang**, Q. Shi, and M. Hong, Nonnegative Matrix Factorization using ADMM: Algorithm and Convergence Analysis. ICASSP, 2016.
-15. S. Xiao, J. Yan, C. Li, B. Jin, **Xiangfeng Wang**, H. Zha, X. Yang, and S. Chu, On Modelling and Predicting Individual Paper Citation Count Over Time. IJCAI, 2016.
-16. J. Yan, S. Xiao, C. Li, B. Jin, **Xiangfeng Wang**, H. Zha, and X. Yang, Modelling Contagious M$\&$A via Point Processes with a Profile Regression Prior. IJCAI, 2016.
-17. C. Li, F. Wei, W. Dong, **Xiangfeng Wang**, J. Yan, X. Zhu, Q. Liu, and X. Zhang, Spatially Regularized Streaming Sensor Selection. AAAI, 2016.
-18. **Xiangfeng Wang**, M. Hong, T.-H. Chang, M. Razaviyayn, and Z.-Q. Luo, Joint Day-Ahead Power Procurement and Load Scheduling using Stochastic ADMM. ICASSP, 2014.
-19. H.-W. Tseng, S. Vishnubhotla, M. Hong, **Xiangfeng Wang**, J. Xiao, Z.-Q. Luo, and T. Zhang, A Single Channel Speech Enhancement Approach by Combining Statistical Criterion and Multi-Frame Sparse Dictionary Learning. INTERSPEECH, 2013.
+1. M. Yang, J. Sheng, **Xiangfeng Wang**, W. Liu, B. Jin, J. Wang and H. Zha, Obtaining Dyadic Fairness by Optimal Transport. AAAI Workshop on Optimal Transport and Structured Data Modeling, 2022.
+2. Y. Hua, **Xiangfeng Wang**, B. Jin, W. Li, J. Yan, X. He, and H. Zha, Hyper-Meta Reinforcement Learning with Sparse Reward. KDD, 2021.
+3. Q. Xu, Q. Wu, Y. Hu, B. Jin, B. Hu, F. Zhu, Y. Li, and **Xiangfeng Wang**, Semi-supervised Medical Image Segmentation with Confidence Calibration. IJCNN, 2021.
+4. W. Li, **Xiangfeng Wang**, B. Jin, J. Sheng, Y. Hua, and H. Zha, Structured Diversification Emergence via Reinforced Organization Control and Hierarchical Consensus Learning. AAMAS, 2021.
+5. X. Li, **Xiangfeng Wang**, B. Jin, W. Zhang, J. Wang, and H. Zha, VSB$^2$-Net: Visual-Semantic Bi-Branch Network for Zero-Shot Hashing. ICPR, 2020.
+6. J. Wang, **Xiangfeng Wang**, B. Jin, J. Yan, W. Zhang, and H. Zha, Heterogeneous Graph-based Knowledge Transfer for Generalized Zero-shot Learning. ICPR, 2020.
+7. X. Liao, W. Li, Q. Xu, **Xiangfeng Wang**, B. Jin, X. Zhang, Y. Zhang, and Y. Wang, Iteratively-Refined Interactive 3D Medical Image Segmentation with Multi-Agent Reinforcement Learning. CVPR, 2020.
+8. X. Li, X. Wen, B. Jin, **Xiangfeng Wang**, J. Wang, and J. Cai, Visual-to-Semantic Hashing for Zero-shot Learning. IJCNN, 2020.
+9. Y. Xie, **Xiangfeng Wang**, R. Wang, and H. Zha, A Fast Proximal Point Method for Computing Exact Wasserstein Distance. UAI, 2019.
+10. M. Zhang, C. Li, and **Xiangfeng Wang**, Multi-View Metric Learning for Multi-Label Image Classification. ICIP, 2019.
+11. W. Li, B. Jin, and **Xiangfeng Wang**, SparseMAAC: Sparse Attention for Multi-agent Reinforcement Learning. DASFAA, 2019.
+12. W. Zhang, J. Yan, **Xiangfeng Wang**, and H. Zha, Deep eXtreme Multi-label Learning. ICMR, 2018.
+13. X. Liu, J. Yan, S. Xiao, **Xiangfeng Wang**, H. Zha, and S. Chu, On Predictive Patent Valuation: Forecasting Patent Citations and Their Types, AAAI, 2017.
+14. T.-H. Chang, M. Hong, W.-C. Liao, and **Xiangfeng Wang**, Asynchronous Distributed Alternating Direction Method of Multipliers: Algorithm and Convergence Analysis. ICASSP, 2016.
+15. D. Hajinezhad, T.-H. Chang, **Xiangfeng Wang**, Q. Shi, and M. Hong, Nonnegative Matrix Factorization using ADMM: Algorithm and Convergence Analysis. ICASSP, 2016.
+16. S. Xiao, J. Yan, C. Li, B. Jin, **Xiangfeng Wang**, H. Zha, X. Yang, and S. Chu, On Modelling and Predicting Individual Paper Citation Count Over Time. IJCAI, 2016.
+17. J. Yan, S. Xiao, C. Li, B. Jin, **Xiangfeng Wang**, H. Zha, and X. Yang, Modelling Contagious M$\&$A via Point Processes with a Profile Regression Prior. IJCAI, 2016.
+18. C. Li, F. Wei, W. Dong, **Xiangfeng Wang**, J. Yan, X. Zhu, Q. Liu, and X. Zhang, Spatially Regularized Streaming Sensor Selection. AAAI, 2016.
+19. **Xiangfeng Wang**, M. Hong, T.-H. Chang, M. Razaviyayn, and Z.-Q. Luo, Joint Day-Ahead Power Procurement and Load Scheduling using Stochastic ADMM. ICASSP, 2014.
+20. H.-W. Tseng, S. Vishnubhotla, M. Hong, **Xiangfeng Wang**, J. Xiao, Z.-Q. Luo, and T. Zhang, A Single Channel Speech Enhancement Approach by Combining Statistical Criterion and Multi-Frame Sparse Dictionary Learning. INTERSPEECH, 2013.
 
 ---
 
