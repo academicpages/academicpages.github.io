@@ -10,7 +10,7 @@ locale                   : "fr-FR"
 title                    : "Ariane Dlns"
 title_separator          : "-"
 name                     : &name "Ariane Dlns"
-description              : &description "personal description"
+description              : &description "Final year student @CentraleSupelec"
 url                      : https://arianedlns.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ArianeDlns/https://arianedlns.github.io/"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ariane Dlns"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Paris"
+  bio              : "Final year student @CentraleSupelec, pursuing a Master's Degree in Machine Learning"
+  location         : "Paris Saclay University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
