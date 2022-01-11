@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abe Hofman / Site Title"
+title                    : "Abe Hofman"
 title_separator          : "-"
 name                     : &name "abe-hofman"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Abe Hofman"
   avatar           : "profile.png"
-  bio              : "bio"
+  bio              : "Assistant Professor Psychological Methods"
   location         : "Amsterdam | The Netherlands"
-  employer         :
+  employer         : "University of Amsterdam"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=cHKQkT4AAAAJ&hl=en"
-  email            :
+  email            : "a.d. at uva.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
