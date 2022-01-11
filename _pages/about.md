@@ -24,6 +24,7 @@ Research Interest
 
 News
 ------
+* Jan 11, 2022, invited as reviewer for The 2022 IEEE/AIAA Transportation Electrification Conference and Electric Aircraft Technologies Symposium (ITEC+EATS)
 * Oct 9, 2021, invited as reviewer for IEEE Systems Journal (ISJ). 
 * Apr 22, 2021, a journal paper named "_Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm_" is **accepted** by IEEE Transactions on Intelligent Transportation Systems.
 * Apr 2, 2021, a conference paper named "_Evacuation Problem Under the Nuclear Leakage Accident_" is **accepted** by the 40th Chinese Control Conference (CCC2021) to be held on July 26-28, 2021 in Shanghai, China.
