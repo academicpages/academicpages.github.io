@@ -19,15 +19,15 @@ If you need to see me, make an appointment using the box below by selecting a da
 * **I am looking forward to meeting you!**
 
 <!-- Calendly link widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+* <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/bahamonde/in_person_office_hours'});return false;">In-person Office Hours</a>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/bahamonde/in_person_office_hours'});return false;">In-person Office Hours</a> click here.
 <!-- Calendly link widget end -->
 
 <!-- Calendly link widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+* <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/bahamonde/zoom_officehours'});return false;">Zoom Office Hours</a>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/bahamonde/zoom_officehours'});return false;">Zoom Office Hours</a> click here.
 <!-- Calendly link widget end -->
 
 ---
