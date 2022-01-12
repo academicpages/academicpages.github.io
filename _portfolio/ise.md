@@ -5,13 +5,14 @@ collection: portfolio
 ---
 
 ## ISE Crews
-> Currently reorganizing the team for Spring 2021
-
+> 
 <br/><img src='/images/500x300.png'>
 
 ### Current Members
 * Jiwon Kim (PI)
-* Currently reorganizing the team for Spring 2021
+* Anika Kapur (Undergraduate researcher)
+* Celline Kim (Undergraduate researcher)
+* Karina Nehra (Undergraduate researcher)
 
 ### Former Members
 * Sarah Qadir (2020 Fall)
@@ -20,9 +21,9 @@ collection: portfolio
 
 
 ### Acknowledgements
-* Eric Chung
-* Kyle Whitlock
-* Yusr Zaghlula
+* Eric Chung (Coding assistance, 2021 Fall)
+* Kyle Whitlock (Coding assistance, 2021 Fall)
+* Yusr Zaghlula (Coding assistance, 2021 Fall)
 
 ## Related Links
 
