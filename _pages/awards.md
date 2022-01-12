@@ -8,7 +8,7 @@ author_profile: true
 - eMRS Graduate Student Award 2021, Symposium F: "Earth-abundant next generation materials for solar energy” in recognition of outstanding research performance (Paper: '_Hidden spontaneous polarisation in the chalcohalide photovoltaic absorber Sn2SbS2I3_'). [Certificate](https://kavanase.github.io/files/EMRS_2021_GSA_dipl_F_Sn2SbS2I3.pdf)
 - eMRS Graduate Student Award 2021, Symposium A: “Materials for energy applications” in recognition of outstanding research performance (Paper: '_Rapid Recombination by Cadmium Vacancies in CdTe_'). [Certificate](https://kavanase.github.io/files/EMRS_2021_GSA_dipl_A_V_Cd.pdf)
 - Shortlisted for the International Conference on Defects in Semiconductors (ICDS) 2021 [Corbett Prize](https://en.wikipedia.org/wiki/International_Conference_on_Defects_in_Semiconductors#Corbett_Prize) (typically awarded to Associate Professors).
-- Max Planck Travel Award (€1k) for a research stay with Prof. Christoph Freysoldt at Max-Planck-Institut für Eisenforschung (MPIE), Germany. [Certificate](https://kavanase.github.io/files/MPIE_Travel_Award_Certificate.png)
+- Max Planck Travel Award (€1k) for a research stay with Prof. Christoph Freysoldt at Max-Planck-Institut für Eisenforschung (MPIE), Germany. [Certificate](https://kavanase.github.io/files/MPIE_Travel_Award_Certificate.jpg)
 - Thomas Young Centre (TYC) Junior Research Fellowship (JRF), 2021 (£1k).
 -	Roy Prize for Best Graduate Student Oral Presentation at the RSC 40th Anniversary Solid State Chemistry Group (SSCG) Meeting, 2021 (£250), judged by the invited speakers.
 - École Polytechnique Fédérale Lausanne (EPFL) SeeFuturePV Young Scientist Travel Grant 2021.
