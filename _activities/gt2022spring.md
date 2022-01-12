@@ -9,9 +9,7 @@ author_profile: false
 
 | date | time | speaker | title | zoom link 
 | -- | -- | ---- | -------- | ----- 
-| Th, Oct 7, 2021 | 1:30pm - 2:30pm | A |B| [https://umn.zoom.us/j/98547599523](https://umn.zoom.us/j/98547599523)
-|Th, Jan 6, 2022| 1:30pm - 2:30pm |  |  | 
-|Th, Jan 13, 2022| 1:30pm - 2:30pm |  |  | 
+|Th, Jan 13, 2022| 1:30pm - 2:30pm | A | B | [https://umn.zoom.us/j/98547599523](https://umn.zoom.us/j/98547599523)
 |Th, Jan 20, 2022| 1:30pm - 2:30pm |  |  | 
 |Th, Jan 27, 2022| 1:30pm - 2:30pm |  |  | 
 |Th, Feb 3, 2022| 1:30pm - 2:30pm |  |  | 
