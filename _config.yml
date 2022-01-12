@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chris Severen, PhD"
+title                    : "Anuar Assamidanov"
 title_separator          : "-"
-name                     : &name "Chris Severen"
-description              : &description "Chris Severen's Academic Website"
-url                      : https://cseveren.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Anuar Assamidanov"
+description              : &description "PhD in Economics at Claremont Graduate University"
+url                      : https://assamidanov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cseveren/cseveren.github.io"
+repository               : "assamidanov/assamidanov.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chris Severen"
-  avatar           : "ChrisSeveren_UCSB_082016.jpg"
+  name             : "Anuar Assamidanov"
+  avatar           : "profile_photo.jpg"
   bio              : "Economist at the Federal Reserve Bank of Philadelphia. <br> <br> The views expressed here are my own and do not necessarily represent the views of the Federal Reserve Bank of Philadelphia or the Federal Reserve System."
-  location         : "Philadelphia, PA, USA"
+  location         : "Claremont, CA, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=lQ4Yvs4AAAAJ"
-  email            : "chris.severen@gmail.com"
+  email            : "anuar.assamidanov@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cseveren"
+  github           : "assamidanov"
   google_plus      :
   keybase          :
   instagram        :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ChrisSeveren"
+  twitter          : "assamidanov"
   vine             :
   weibo            :
   xing             :
