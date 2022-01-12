@@ -26,7 +26,7 @@ author_profile: false
 |Th, Apr 7, 2022| 1:30pm - 2:30pm |  |  | 
 |Th, Apr 14, 2022| 1:30pm - 2:30pm |  |  | 
 |Th, Apr 21, 2022| 1:30pm - 2:30pm |  |  | 
-|Th, Apr 28, 2022| 1:30pm - 2:30pm |  |  | 
+|Th, Apr 28, 2022| 1:30pm - 2:30pm | Suguru Ishikawa |  | 
 
 ## Abstracts
 * test
