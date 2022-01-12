@@ -27,5 +27,8 @@ author_profile: false
 |Th, Apr 28, 2022| 1:30pm - 2:30pm | Suguru Ishikawa |  | 
 
 ## Abstracts
-* test
-  * test
+* Andrew Sageman-Furnas
+  * Which data determine an immersed surface in Euclidean three-space up to rigid motion? A generic surface is locally determined by only a metric and mean curvature function. However, there are exceptions. These may arise in a family, like the isometric family of vanishing mean curvature surfaces transforming a catenoid into a helicoid, or as two surfaces called a Bonnet pair.
+  * For compact surfaces, Lawson and Tribuzy proved in 1981 that a metric and non-constant mean curvature function determine at most one immersion with genus zero, but at most two compact immersions (compact Bonnet pairs) for higher genus. This led them to ask if compact Bonnet pairs exist.
+  * In this talk, we discuss our recent construction of the first examples of compact Bonnet pairs. It uses a local classification by Kamberov, Pedit, and Pinkall in terms of special surfaces that are called isothermic. Moreover, we describe how a structure-preserving discrete theory for isothermic surfaces and Bonnet pairs led to this discovery.
+  * The smooth theory is joint work with Alexander Bobenko and Tim Hoffmann and the discrete theory is joint work with Tim Hoffmann and Max Wardetzky.
