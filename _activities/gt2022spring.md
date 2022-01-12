@@ -9,7 +9,6 @@ author_profile: false
 
 | date | time | speaker | title | zoom link 
 | -- | -- | ---- | -------- | ----- 
-|Th, Jan 13, 2022| 1:30pm - 2:30pm | A | B | [https://umn.zoom.us/j/98547599523](https://umn.zoom.us/j/98547599523)
 |Th, Jan 20, 2022| 1:30pm - 2:30pm |  |  | 
 |Th, Jan 27, 2022| 1:30pm - 2:30pm |  |  | 
 |Th, Feb 3, 2022| 1:30pm - 2:30pm |  |  | 
@@ -24,7 +23,7 @@ author_profile: false
 |Th, Apr 7, 2022| 1:30pm - 2:30pm |  |  | 
 |Th, Apr 14, 2022| 1:30pm - 2:30pm |  |  | 
 |Th, Apr 21, 2022| 1:30pm - 2:30pm |  |  | 
-|Th, Apr 28, 2022| 1:30pm - 2:30pm | Suguru Ishikawa |  | 
+|Th, Apr 28, 2022| 1:30pm - 2:30pm | Suguru Ishikawa |  |  [https://umn.zoom.us/j/9735843950](https://umn.zoom.us/j/9735843950)
 
 ## Abstracts
 * Andrew Sageman-Furnas
