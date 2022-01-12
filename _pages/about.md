@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 * Electronic and Telecommunication Engineering Graduate
-* DevOps Engineer working on advanced, optimized algorithms development to fascilitate requirements from the business partners in API Gateway based on Celcom, Malaysia
+* Software Engineer working on advanced, optimized algorithms development to fascilitate requirements from the business partners in API Gateway based on Celcom, Malaysia
 * Deep Learning, Machine Vision, Medical Imaging, Algorithm Optimization, Game Theory are my research interests
 <br />
 #### Languages and Tools:
