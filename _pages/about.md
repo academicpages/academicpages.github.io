@@ -19,6 +19,8 @@ Januray 2022: Coley Tosto, who began her PhD in November 2020, finally arrived i
 
 Check out how Sarah spent her time in 2021 [in her latest blog post!](https://sarahpflanagan.wordpress.com/2022/01/04/working-in-the-age-of-lockdowns/)
 
+December 2021: Sarah was awarded UC's Faculty of Science Emerging Researcher Award!
+
 November 2021: Emily Beasley has joined the lab as a new PhD student, and we are also welcoming Jude van Houtte as a summer student! Starting in mid-November are two co-supervised students, Alexandra Cox (MSc) and Andrew McCabe (summer BSc student), who co-supervised by Sarah and [Claudia Meisrimler](https://www.canterbury.ac.nz/science/contact-us/people/claudia-meisrimler.html).
 
 September 2021: Lucy Howell has started her PhD  in the lab!
