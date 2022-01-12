@@ -5,10 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 <p style="text-align: center;">
 Authors whose names are in <span style="color:#239B56">green</span> are trainees supervised by Sarah. 
 Co-first authorship is denoted by *.
 </p>
+
+# Peer-reviewed papers 
 
 <ol reversed>
   
@@ -21,8 +24,6 @@ Co-first authorship is denoted by *.
   <li> <span style="color:#239B56">Lerch B</span>, <span style="color:#239B56">Dautel KA</span>, <span style="color:#239B56">Brewer S</span>, <span style="color:#239B56">Liang A</span>, Siewe N, <strong>Flanagan SP</strong>. 2020. Space, density, and extra-pair matings have opposing impacts on male and female reproductive success. Population Ecology. <a href="https://esj-journals.onlinelibrary.wiley.com/doi/abs/10.1002/1438-390X.12047" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://github.com/flanagan-lab/flanagan-lab.github.io/blob/master/pdfs/Lerch%20et%20al%202020.pdf" target="_blank" rel="noreferrer noopener" aria-label="PDF" style="color: rgb(82, 173, 200)">PDF</a>  </li>
 
   <li> Wright AM, Schwartz RS, Oaks JR, Newman CE, <strong>Flanagan SP</strong>. The why, when, and how of computing in biology classrooms [version 2; peer review: 2 approved]. F1000Research 2019, 8:1854. <a href="https://doi.org/10.12688/f1000research.20873.1" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper (open access)</a> </li>
-  
-  <li> <strong>Flanagan, SP</strong> 2019. Quantitative Genetics of Behavior. In: Choe, J.C. (Ed.), Encyclopedia of Animal Behavior, (2nd ed.). vol. 2, pp. 80–93. Elsevier, Academic Press. <a href="https://www.elsevier.com/books/encyclopedia-of-animal-behavior/choe/978-0-12-813251-7" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://sarahpflanagan.files.wordpress.com/2019/11/flanagan-2019-bookchapter.pdf" target="_blank" rel="noreferrer noopener" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a> </li>
   
   <li> <strong>Flanagan SP</strong>, and Jones AG. 2019. The future of parentage analysis: Moving from microsatellites to SNPs and beyond. Molecular Ecology. 28(3): 544-567 doi: 10.1111/mec.14988 
     <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/mec.14988" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://sarahpflanagan.wordpress.com/2019/01/21/a-review-of-parentage-analysis/" target="_blank" rel="noreferrer noopener" aria-label="my summary (opens in a new tab)" style="color: rgb(82, 173, 200)">my summary</a></li>
@@ -40,7 +41,6 @@ Co-first authorship is denoted by *.
   <li> <strong>Flanagan SP</strong>, and Jones AG. 2017. Genome-wide selection components analysis in a fish with male pregnancy. Evolution.  71: 1096–1105. DOI: 10.1111/evo.13173 <a title="Flanagan and Jones 2017 Evolution" href="https://sarahpflanagan.files.wordpress.com/2018/01/flanagan-and-jones-2017-evolution.pdf" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">pdf</a>, <a href="http://onlinelibrary.wiley.com/doi/10.1111/evo.13173/abstract;jsessionid=9B5AF79B09D88A653C1963FE810C7B31.f02t03" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://sarahpflanagan.wordpress.com/2017/02/06/understanding-the-different-components-of-selection/" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">my summary</a>, <a href="https://zenodo.org/record/200439" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">associated code</a>, <a href="http://dx.doi.org/10.5061/dryad.5c1tj" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">data</a>, <a href="https://trace.ncbi.nlm.nih.gov/Traces/sra_sub/sub.cgi?acc=SRP096542&focus=SRP096542&from=list&action=show:STUDY" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">genomic data</a> </li>
 
   <li> <strong>Flanagan SP</strong>, Rosenqvist G, and Jones AG. 2017. Mate quality and timing of reproduction affects sexual selection in a sex-role-reversed pipefish. Behavioral Ecology and Sociobiology. 71(1): 1-10. doi: 10.1007/s00265-016-2255-3 <a title="Flanagan et al 2017" href="https://sarahpflanagan.files.wordpress.com/2017/12/flanagan-et-al-2017.pdf" target="_blank" rel="noopener">pdf</a>, <a href="http://rdcu.be/n8go" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="http://www.nimbios.org/press/FS_pipefish" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">press release</a>, <a href="http://dx.doi.org/10.5061/dryad.5ff20" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">data</a></li>
-<p style="padding-left: 50px;">Flanagan SP. 2017. Pipefish pairing. Biosphere Magazine. 23. <a title="biosphere-pipefish-pairing" href="https://sarahpflanagan.files.wordpress.com/2016/09/biosphere-pipefish-pairing.pdf" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to article</a></p>
 
   <li><img align="left" src='/images/mecover.gif' height='133' width='100'> <strong>Flanagan SP</strong>, Rose E, and Jones AG. 2016. Population genomics reveals multiple drivers of population differentiation in a sex-role-reversed pipefish. Molecular Ecology. 25(20): 5043-5072. doi: 10.1111/mec.13794 <a title="Flanagan et al 2016" href="https://sarahpflanagan.files.wordpress.com/2018/01/flanagan-et-al-2016.pdf" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">pdf</a>, <a href="http://onlinelibrary.wiley.com/doi/10.1111/mec.13794/abstract" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://sarahpflanagan.wordpress.com/2016/11/04/population-genomics-what-is-it-and-why-should-you-care/" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">my summary</a>, <a href="http://dx.doi.org/10.5061/dryad.38nh3" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">data</a>, <a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA327313" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">genomic data</a>, <a href="https://zenodo.org/badge/latestdoi/51271165" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">associated code</a> </li>
 <br>
@@ -59,4 +59,15 @@ Co-first authorship is denoted by *.
 
 </ol>
 
+# Other publications
+
+<ol>
+
+  <li> Thomsen M, <span style="color:#239B56">Moser A</span>, <span style="color:#239B56">Pullen M</span>, <span style="color:#239B56">Gerber D</span>, & <strong>Flanagan SP </strong>. 2020. Seagrass beds provide habitat for crabs, shrimps and fish in two estuaries on the South Island of New Zealand. <em>bioRxiv</em>. <a href="https://www.biorxiv.org/content/10.1101/2020.07.22.120055v1.abstract" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link to paper</a>, , <a href="https://github.com/flanagan-lab/flanagan-lab.github.io/blob/master/pdfs/Thomsen-20-seagrass-report-ecan-fish-0704.pdf" target="_blank" rel="noreferrer noopener" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a> </li>
+  
+  <li> <strong>Flanagan, SP</strong> 2019. Quantitative Genetics of Behavior. In: Choe, J.C. (Ed.), Encyclopedia of Animal Behavior, (2nd ed.). vol. 2, pp. 80–93. Elsevier, Academic Press. <a href="https://www.elsevier.com/books/encyclopedia-of-animal-behavior/choe/978-0-12-813251-7" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://sarahpflanagan.files.wordpress.com/2019/11/flanagan-2019-bookchapter.pdf" target="_blank" rel="noreferrer noopener" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a> </li>
+  
+  <li> <strong>Flanagan SP</strong>. 2017. Pipefish pairing. Biosphere Magazine. 23. <a title="biosphere-pipefish-pairing" href="https://sarahpflanagan.files.wordpress.com/2016/09/biosphere-pipefish-pairing.pdf" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">PDF (opens in a new tab)</a></li>
+
+</ol>
 <p style="text-align: center;"><em>***Please contact me if you require access to a PDF***</em></p>
