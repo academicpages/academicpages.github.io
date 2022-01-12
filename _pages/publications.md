@@ -61,7 +61,7 @@ Co-first authorship is denoted by *.
 
 # Other publications
 
-<ol>
+<ol reversed>
 
   <li> Thomsen M, <span style="color:#239B56">Moser A</span>, <span style="color:#239B56">Pullen M</span>, <span style="color:#239B56">Gerber D</span>, & <strong>Flanagan SP </strong>. 2020. Seagrass beds provide habitat for crabs, shrimps and fish in two estuaries on the South Island of New Zealand. <em>bioRxiv</em>. <a href="https://www.biorxiv.org/content/10.1101/2020.07.22.120055v1.abstract" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://github.com/flanagan-lab/flanagan-lab.github.io/blob/master/pdfs/Thomsen-20-seagrass-report-ecan-fish-0704.pdf" target="_blank" rel="noreferrer noopener" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a> </li>
   
