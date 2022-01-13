@@ -21,3 +21,5 @@ Philly-area electricity-based indicator of economic disruption (discontinued Sum
 ### Useful Tweets
 * [Spatial Methods: Querying from HERE (in R) for matrix of travel times](https://twitter.com/ChrisSeveren/status/1255944834201923586)
 * [Spatial Methods: Using Graphhopper (using R and Java) to get shapefiles of optimal routes at scale](https://twitter.com/ChrisSeveren/status/1288167885739888640)
+
+
