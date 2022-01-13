@@ -1,13 +1,13 @@
 ---
-title: "Math Camp (PhD) - Co-Instructor"
+title: "Machine Learning in Economics - Instructor"
 collection: teaching
-type: "PhD Review Course"
-permalink: /teaching/2015-mathcamp
-venue: "UCSB"
-date: 2015-09-01
+type: "Course for Master Students"
+permalink: /teaching/ml-econ
+venue: "Cal State Fullerton"
+date: 2022-01-21
 location:
 ---
 
 Math Camp to review important mathematical material for incoming PhD students in Economics at UCSB. In 2015, I co-taught this class with Patrick Holder. I covered linear algebra, statistics, and coding, while Patrick covered calculus and analysis.
 
-Our joint syllabus is [here](https://cseveren.github.io/files/MathCamp15_Syllabus.pdf).
+Syllabus is [here](https://aassamidanov.github.io/files/MathCamp15_Syllabus.pdf).
