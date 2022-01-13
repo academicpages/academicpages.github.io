@@ -9,4 +9,4 @@ location: "Philadelphia, PA, USA"
 ---
 
 * Course: (Coding Club) Introduction to Python
-* Semesters: Fall 2021
+* Semesters: Fall 2021, Spring 2022
