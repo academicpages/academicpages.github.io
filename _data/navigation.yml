@@ -1,13 +1,16 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "Working Papers"
     url: /research/
 
-  - title: "CV/Bio"
+  - title: "CV"
     url: /cv/
-
-  - title: "Data & Code"
-    url: /datacode/
 
   - title: "Teaching"
     url: /teaching/
+  
+  - title: "Data Science"
+    url: /datascience/
+
+  - title: "Other Links"
+    url: /datacode/

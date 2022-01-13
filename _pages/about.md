@@ -9,10 +9,11 @@ redirect_from:
 ---
 
 
-<img align="right" src="https://cseveren.github.io/images/ChrisSeveren_UCSB_082016.jpg" alt="Photo" style="width: 210px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
-I am a Senior Economist in the Research Department of the [Federal Reserve Bank of Philadelphia](https://www.philadelphiafed.org/). My research interests span urban, environmental, and development economics. I completed my PhD in 2017 at the University of California, Santa Barbara, where I was advised by faculty in both the [Department of Economics](https://econ.ucsb.edu/) and the [Bren School](https://www.bren.ucsb.edu/).
+<img align="right" src="https://assamidanov.github.io/images/profile_photo.jpeg" alt="Photo" style="width: 210px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
+I am a Ph.D candidate in Economics at Claremont Graduate University (CGU) and a member of the [Computational Justice Lab](https://www.http://computationaljusticelab.org/). My primary research interest is applied microeconomics; however, my other interests include causal inference and applications of machine learning methods for causal inference.
 
-Before graduate school, I worked for an energy efficiency consulting firm in Austin, TX. During my undergraduate studies at the University of Texas at Austin, where I majored in Latin American Studies ([LLILAS](https://liberalarts.utexas.edu/llilas/)) and Economics, I produced documentaries about social issues in Thailand and Paraguay. Once upon a time, I spent two years at UNT in Denton, TX, thinking I wanted to study music. Before that, I delivered pizza and gassed up boats.
+[Curriculum Vitae](https://assamidanov.github.io/images/profile_photo.jpeg)
+
 
 ### New Developments
 * Oct '21 - Happy to now be a Non-resident Senior Fellow at the Brookings Institution.
