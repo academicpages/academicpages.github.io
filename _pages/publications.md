@@ -11,15 +11,15 @@ author_profile: true
 
 * **UKD: Debiasing Conversion Rate Estimation via Uncertainty-regularized Knowledge Distillation**  
 Zixuan Xu * , **Penghui Wei** * , Weimin Zhang, Shaoguo Liu, Liang Wang, Bo Zheng  
-In Proc. of **WWW 2022** (long): In Web Conference 2022. Online, Lyon, France, April 25--29, 2022.    
+In Proc. of **WWW 2022** (long): The Web Conference 2022. Online, Lyon, France, April 25--29, 2022.    
   
 * **AutoHERI: Automated Hierarchical Representation Integration for Post-Click Conversion Rate Estimation**  
 **Penghui Wei**, Weimin Zhang, Zixuan Xu, Shaoguo Liu, Kuang-chih Lee, Bo Zheng  
-In Proc. of **CIKM 2021** (short): The 30th ACM International Conference on Information and Knowledge Management. Virtual Event, QLD, Australia, November 1--5, 2021.  
+In Proc. of **CIKM 2021** (short): The 30th ACM International Conference on Information and Knowledge Management, pages 3528--3532. Virtual Event, QLD, Australia, November 1--5, 2021.  
 
 * **A Graph-to-Sequence Learning Framework for Summarizing Opinionated Texts**  
 **Penghui Wei**, Jiahao Zhao, Wenji Mao  
-**TASLP 2021**: IEEE/ACM Transactions on Audio, Speech, and Language Processing, volume 29, 2021: 1650--1660.  
+**TASLP 2021**: IEEE/ACM Transactions on Audio, Speech, and Language Processing, Volume 29, 2021: 1650--1660.  
 
 * **Robust Neural Text Classification and Entailment via Mixup Regularized Adversarial Training**     
 Jiahao Zhao, **Penghui Wei**, Wenji Mao  
