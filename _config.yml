@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://DinoCollalti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-teaser                   : "foto.aktuell.JPG" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -66,13 +66,13 @@ analytics:
 # Site Author
 author:
   name             : "Dino Collalti"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Bern, Switzerland"
+  avatar           : "foto.aktuell.JPG"
+  bio              : "PhD Candidate in Economics & Climate Science"
+  location         : 
   employer         : "University of Bern"
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=MYhj4r4AAAAJ&hl=en&oi=ao"
-  email            : "dino.collalti@vwi.unibe.ch
+  email            : "dino.collalti@vwi.unibe.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/Dino-Collalti"
   uri              :
   bitbucket        :
@@ -94,7 +94,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
