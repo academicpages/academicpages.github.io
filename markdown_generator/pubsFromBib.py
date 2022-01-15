@@ -143,7 +143,9 @@ for pubsource in publist:
                     md += "\nexcerpt: '" + html_escape(b["note"]) + "'"
                     note = True
 
-            md += "\ndate: " + str(pub_date) 
+            md += "\ndate: " + str(pub_date)
+
+            md += "\nyear: " + str(pub_year)
 
             md += "\nauthor: '" + html_escape(authors) + "'"
 
