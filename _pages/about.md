@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Z. Sun, a 3rd year PhD student at UCL. I am very very lucky to be supervised by Prof. F-X Briol and Prof. J-H Xue. My research is funded by EPSRC and UCL jointly. Prior to my journey to UCL, I obtained a MSc degree in Statistics with Distinction from the University of Oxford. 
 
-This year, I am an Enrichment student at The Alan Turing Institute.
+
 
 
 Research Interest
@@ -18,6 +18,10 @@ Research Interest
 In general, I am very interested in __computational statistics__ and __machine learning__. 
 
 
+Academic Activities
+======
+* This year, I am an Enrichment student at The Alan Turing Institute.
+* Organiser of 2022 DCE Seminars @ ATI.
 
 
 
