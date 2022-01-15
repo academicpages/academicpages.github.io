@@ -71,7 +71,7 @@ author:
   location         : 
   employer         : "University of Bern"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=MYhj4r4AAAAJ&hl=en&oi=ao"
+  googlescholar    : 
   email            : "dino.collalti@vwi.unibe.ch"
   researchgate     :  # example: "https://www.researchgate.net/profile/Dino-Collalti"
   uri              :
@@ -88,10 +88,10 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : 
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6434-0707"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
