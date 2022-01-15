@@ -8,4 +8,4 @@ date: 2022-01-21
 location:
 ---
 
-Syllabus is [here](https://aassamidanov.github.io/files/MathCamp15_Syllabus.pdf).
+Syllabus is [here](https://github.com/assamidanov/econ_590/blob/ba254fd39e6ad820e6c62773bced768e7fffecf6/syllabus/Syllabus.pdf).
