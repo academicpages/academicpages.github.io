@@ -17,7 +17,7 @@ I'm a PhD student in the research groups of both Professor David Scanlon at Univ
 ### Recent Highlights
 I got to spend October and November 2021 working at the Max-Planck-Institut für Eisenforschung in Düsseldorf, Germany with group leader Dr Christoph Freysoldt for a project on modelling dynamic defect behaviour, with the work from this to be submitted to and presented at the [RSC Faraday Discussions on Emerging Solar PV Materials](https://www.rsc.org/events/detail/46796/emerging-inorganic-materials-in-thin-film-photovoltaics-faraday-discussion) in July 2022:
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6887732916227448832" height="630" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>   
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6887732916227448832" height="640" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>   
 
 <br />   
 
