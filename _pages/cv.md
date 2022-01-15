@@ -16,9 +16,9 @@ Personal
 
 Education
 ======
-* B.Sc. Economics, University of Bern,2013-2016.
-* M.Sc. Applied Economic Analysis, University of Bern,2016-2019.
-* Ph.D. Economics & Climate Science, University of Bern,2019-2023(expected).
+* B.Sc. Economics, University of Bern, 2013-2016.
+* M.Sc. Applied Economic Analysis, University of Bern, 2016-2019.
+* Ph.D. Economics & Climate Science, University of Bern, 2019-2023 (expected).
 
 
 Research Interests
