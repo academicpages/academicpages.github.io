@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dino Collalti / PhD Candidate"
+title                    : "Dino Collalti"
 title_separator          : "-"
 name                     : &name "Dino Collalti"
 description              : &description "personal description"
