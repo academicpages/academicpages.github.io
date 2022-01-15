@@ -27,7 +27,7 @@ Publication
 
 *  __Sun, Z.__, Barp, A., Briol, F.-X.(2021). Vector-Valued Control Variates _[(pre-print)](https://arxiv.org/abs/2109.08944)_.
     * awarded Silver Medal for Best poster at the conference Briatol: FRY.
-    * awarded a Best Student Paper Award from the Section on Bayesian Statistical Science of the American Statistical Association (ASA SSBS Student Paper Competition Award).
+    * awarded a Best Student Paper Award from the Section on Bayesian Statistical Science of the American Statistical Association (__2022 ASA SSBS Student Paper Competition Award__).
 
 *  __Sun, Z.__, Wu, J., Li, X., Yang, W., Xue, J-H.(2021). Amortized Bayesian Prototype Meta-learning: A new probabilistic meta-learning approach to few-shot image classification. _In Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS)_, PMLR.
 
