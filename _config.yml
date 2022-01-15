@@ -81,10 +81,10 @@ analytics:
 author:
   name             : "Anuar Assamidanov"
   avatar           : "profile_photo.jpg"
-  bio              : "Economist at the Federal Reserve Bank of Philadelphia. <br> <br> The views expressed here are my own and do not necessarily represent the views of the Federal Reserve Bank of Philadelphia or the Federal Reserve System."
+  bio              : "Ph.D Candidate at Claremont Graduate University"
   location         : "Claremont, CA, USA"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=lQ4Yvs4AAAAJ"
+  googlescholar    : 
   email            : "anuar.assamidanov@gmail.com"
   uri              :
   bitbucket        :
