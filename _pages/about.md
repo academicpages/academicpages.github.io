@@ -24,6 +24,9 @@ Our _Materials Horizons_ and _Chemical Science_ articles [Hidden spontaneous pol
   <img align="right" width="375" src="files\Chem_Sci_Cover.png">
 </a>
 
-
+I got to spend October and November 2021 working at the Max-Planck-Institut für Eisenforschung in Düsseldorf, Germany with group leader Dr Christoph Freysoldt for a project on modelling dynamic defect behaviour, with the work from this to be submitted to and presented at the [RSC Faraday Discussions on Emerging Solar PV Materials](https://www.rsc.org/events/detail/46796/emerging-inorganic-materials-in-thin-film-photovoltaics-faraday-discussion) in July 2022.
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6887732916227448832" height="788" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/Kavanagh_Sean_ maxwidth=500 limit=5 %}
+</div>
