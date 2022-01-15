@@ -169,7 +169,7 @@ for pubsource in publist:
                 paper_url = open(paperdir + '/' + bib_id + '.txt').readlines()[0].strip()
             elif bib_id + '.pdf' in os.listdir(paperdir):
                 paper_available = True
-                paper_url = 'https://github.com/latower/latower.github.io/tree/master/files/papers/{id}.pdf'.format(id=bib_id)
+                paper_url = 'https://github.com/latower/latower.github.io/raw/master/files/papers/{id}.pdf'.format(id=bib_id)
             else:
                 print("WARNING: no paper pdf available for", bib_id)
 
@@ -181,7 +181,7 @@ for pubsource in publist:
                 slides_url = open(slidesdir + '/' + bib_id + '.txt').readlines()[0].strip()
             elif bib_id + '.pdf' in os.listdir(slidesdir):
                 slides_available = True
-                slides_url = 'https://github.com/latower/latower.github.io/tree/master/files/slides/{id}.pdf'.format(id=bib_id)
+                slides_url = 'https://github.com/latower/latower.github.io/raw/master/files/slides/{id}.pdf'.format(id=bib_id)
             else:
                 print("WARNING: no slides pdf available for", bib_id)
 
@@ -200,7 +200,7 @@ for pubsource in publist:
                 poster_url = open(posterdir + '/' + bib_id + '.txt').readlines()[0].strip()
             elif bib_id + '.pdf' in os.listdir(posterdir):
                 poster_available = True
-                poster_url = 'https://github.com/latower/latower.github.io/tree/master/files/posters/{id}.pdf'.format(id=bib_id)
+                poster_url = 'https://github.com/latower/latower.github.io/raw/master/files/posters/{id}.pdf'.format(id=bib_id)
 
             code_available = False
             code_url = ""
@@ -221,9 +221,16 @@ for pubsource in publist:
                 available_material.append(('video', video_url))
             if code_available:
                 available_material.append(('code', code_url))
-            available_material.append(('bib', 'https://github.com/latower/latower.github.io/tree/master/files/bib/{id}.bib'.format(id=bib_id)))
+            available_material.append(('bib', 'https://github.com/latower/latower.github.io/raw/master/files/bib/{id}.bib'.format(id=bib_id)))
             links = "\nlinks: "
-            links += ", ".join(["<a href=\"" + text_url + "\" target=\"_blank\">" + text + "</a>" for (text, text_url) in available_material])
+            # links += ", ".join(["<a href=\"" + text_url + "\" target=\"_blank\">" + text + "</a>" for (text, text_url) in available_material])
+            links_list = []
+            for (text, text_url) in available_material:
+                if text_url.endswith('.bib') or text_url.endswith('.pdf'):
+                    links_list.append("<a href=\"" + text_url + "\" download target=\"_blank\">" + text + "</a>")
+                else:
+                    links_list.append("<a href=\"" + text_url + "\" target=\"_blank\">" + text + "</a>")
+            links += ", ".join(links_list)
             links += ""
             # links = "\nlinks: \["
             # links += ", ".join(["[" + text + "](" + text_url + "){:target=\"_blank\"}" for (text, text_url) in available_material])
