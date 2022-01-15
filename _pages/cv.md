@@ -9,32 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
+Personal
+======
+* Born on June 30, 1993.
+* Swiss Citizen.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. Economics, University of Bern,2013-2016.
+* M.Sc. Applied Economic Analysis, University of Bern,2016-2019.
+* Ph.D. Economics & Climate Science, University of Bern,2019-2023(expected).
 
-Work experience
+
+Research Interests
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Environmental & Climate Economics, Natural Hazards, Machine Learning
   
-Skills
+Academic Services
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Editorial Service
+    *  Referee forEnvironmental and Resource Economics (1).
+
+* Student Advisory for the Department of Economics 2019 - 2023 (expected).
+
+* Comittee and Delegation
+    * Member of the quality evaluation commission for the Bachelor Minor in Economics Programms, University of Bern, 2022 - 2023 (expected).
+    * Ph.D. student delegate for faculty meetings, University of Bern, 2021 - 2023.
+    * Member of Hiring Comittee for Tenure Track Professorship in Empirical Microeconomics, University of Bern, 2019.
+    * Member of the quality evaluation commission for the "Master in Applied Economic Analysis", University of Bern, 2018 - 2019.
+    * Various participations as a B.Sc. and M.Sc. student such as member of the university's student council, student representative and member of the university's social commission, organizing member of the faculty's studen organization.
 
 Publications
 ======
@@ -42,18 +45,14 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conference Presentations
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2021
+	 * Interdisciplinary Ph.D. Workshop in Sustainable Development at Columbia University (IPWSD).
+	 * Workshop  on  Compound  Weather  and  Climate  Events  (Bern/Online,  Oeschger  Center  for  Climate Change Research).
+
+* 2020
+	 * Annual Conference of the European Association of Environmental and Resource Economists (Berlin, EAERE).
+	 * Brown Bag, Department of Economics, University of Bern (2).
+
+
