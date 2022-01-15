@@ -21,7 +21,7 @@ In general, I am very interested in __computational statistics__ and __machine l
 Academic Activities
 ======
 * This year, I am an Enrichment student at The Alan Turing Institute.
-* Organiser of 2022 DCE Seminars @ ATI.
+* Organiser of 2022 Data-Centric Engineering Seminars at The Alan Turing Institute.
 
 
 
