@@ -27,6 +27,9 @@ With Diogo Baerlocher.
 
 ## Publications
 
+> [**Wrong Place, Wrong Time: The Long-Run Effects of In-Utero Exposure to Malaria on Educational Attainment**](https://www.sciencedirect.com/science/article/abs/pii/S1570677X21001179) *Economics and Human Biology*, 2022, 44, 101092.   
+Evan Kresch, Rodrigo Schneider, and Mark Walker. 
+
 > [**Fiscal shocks, the real exchange rate and the trade balance: some evidence for emerging economies.**](https://www.degruyter.com/document/doi/10.1515/bejm-2014-0018/html)  
 *The B.E. Journal of Macroeconomics*, 2015, 15(2), 727-768.   
 With Diogo Baerlocher and Marcelo Eduardo Alves Silva. 
