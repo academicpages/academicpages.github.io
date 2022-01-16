@@ -25,6 +25,6 @@ I hold a B.S. in Statistics from Hunan University (2016) and an M.S. in Statisti
 
 **JXLIAO @ U**NIVERSITY of **C**ALIFORNIA **DAVIS . EDU**CATION
 
-#bold-italic characters #lower case #without space
+#bold characters #lower case #without space
 
 
