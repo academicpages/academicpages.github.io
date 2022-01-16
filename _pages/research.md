@@ -43,8 +43,8 @@ With Ecio de Farias Costa, Emanoel de Souza Barros, and Leonardo Ferraz Xavier.
 
 ## Selected Work in Progress
 
-> **From Stagnation to Growth: The Role of Expropriation Risk on the Fertility Transition.**   
-With Diogo Baerlocher and Stephen L. Parente.
-
 > **The Long-Run Impact of Historical Pathways on Economic Development**   
 With Diogo Baerlocher, Diego Firmino, Guilherme Lambais, and Eustaquio Reis.
+
+> **From Stagnation to Growth: The Role of Expropriation Risk on the Fertility Transition.**   
+With Diogo Baerlocher and Stephen L. Parente.
