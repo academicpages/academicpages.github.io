@@ -12,7 +12,7 @@ author_profile: false
 |Th, Jan 20, 2022| 1:30pm - 2:30pm |  |  | 
 |Th, Jan 27, 2022| 1:30pm - 2:30pm | Zhenhua Liu  |  Calibrated area-minimizing surfaces with fractal singular sets | 
 |Th, Feb 3, 2022| 1:30pm - 2:30pm |  Jiayin Pan | The escape phenomenon in open manifolds with nonnegative Ricci curvature | 
-|Th, Feb 10, 2022| 1:30pm - 2:30pm |  |  | 
+|Th, Feb 10, 2022| 1:30pm - 2:30pm | Zhichao Wang |  | 
 |Th, Feb 17, 2022| 1:30pm - 2:30pm |  |  | 
 |Th, Feb 24, 2022| 1:30pm - 2:30pm |  |  | 
 |Th, Mar 3, 2022| 1:30pm - 2:30pm | Andrew Sageman-Furnas |  | 
