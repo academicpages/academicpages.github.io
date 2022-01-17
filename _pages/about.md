@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Quién soy"
-excerpt: "Investigadora postdoctoral en la Universitat Pompeu Fabra"
+title: "About me"
+excerpt: "Postdoctoral researcher at Universitat Pompeu Fabra"
 author_profile: true
 redirect_from: 
   - /about/
