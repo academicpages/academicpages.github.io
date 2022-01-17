@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Isabel Rodríguez de Dios"
 title_separator          : "-"
 name                     : &name "Isabel Rodríguez de Dios"
-description              : &description "Investigadora postdoctoral en la Universitat Pompeu Fabra"
+description              : &description "Postdoctoral researcher at Universitat Pompeu Fabra"
 url                      : https://isabelrodriguezdedios.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "isabelrodriguezdedios/isabelrodriguezdedios.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Isabel Rodríguez de Dios"
   avatar           : "ird-208x300.jpg"
-  bio              : "Investigadora postdoctoral en la Universitat Pompeu Fabra"
+  bio              : "Postdoctoral researcher at Universitat Pompeu Fabra"
   location         : "Barcelona, España"
   employer         : "Universitat Pompeu Fabra"
   pubmed           :
