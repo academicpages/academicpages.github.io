@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Isabel Rodríguez de Dios - Investigadora postdoctoral en la Universitat Pompeu Fabra"
-excerpt: "About me"
+title: "Quién soy"
+excerpt: "Investigadora postdoctoral en la Universitat Pompeu Fabra"
 author_profile: true
 redirect_from: 
   - /about/
