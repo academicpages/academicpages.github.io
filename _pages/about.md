@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Soy Isabel Rodríguez de Dios, **doctora** en **‘Formación en la sociedad del conocimiento’**, especialidad **‘Medios de Comunicación y Educación‘**, de la Universidad de Salamanca, con la tesis *Risks of interactive communication in adolescents. Digital literacy diagnosis and intervention*, dirigida por el [Dr. Juan José Igartua Perosanz](http://diarium.usal.es/jigartua/). Además, soy Licenciada en Periodismo por la Universidad de Valladolid (2010) y en Comunicación Audiovisual por la Universidad de Salamanca (2012). También poseo el Máster en Investigación Aplicada a la Comunicación por la Universidad Rey Juan Carlos de Madrid (año 2013).
-
-Mis líneas de investigación se relacionan con los adolescentes, los riesgos de las nuevas tecnologías y la alfabetización digital. Soy miembro del [Observatorio de los Contenidos Audiovisuales](http://www.ocausal.es/) (OCA), grupo de investigación reconocido de la Universidad de Salamanca.
-
-En la actualidad trabajo como investigadora postdoctoral en la Universitat Pompeu Fabra a través de un contrato Juan de la Cierva – Formación.
+I am Isabel Rodríguez de Dios (PhD, 2018), a **Postdoctoral Researcher** (Juan de la Cierva-Formación) at [Pompeu Fabra University](https://www.upf.edu/es/) (Barcelona). In September 2018 I earned a PhD degree from the University of Salamanca with the thesis entitled 'Risks of interactive communication in adolescents. Digital literacy diagnosis and intervention'. 
+Before joining the Pompeu Fabra University, I was a lecturer at the [University of Amsterdam](https://www.uva.nl/en). I have also been a visiting scholar at the [Institute for Media Studies](https://soc.kuleuven.be/ims) (KU Leuven) and the [Center for research on Children, Adolescents and the Media](https://www.ccam-ascor.nl/) (Amsterdam School of Communication Research, University of Amsterdam).
+My research focuses on adolescents and social media, narrative persuasion, and media psychology. I am a member of the [Communication, Advertising, and Society]( https://www.upf.edu/web/cas) and the [Observatory for Audiovisual Contents](http://www.ocausal.es/).
