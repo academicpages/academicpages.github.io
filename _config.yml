@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Isabel Rodríguez de Dios"
 title_separator          : "-"
 name                     : &name "Isabel Rodríguez de Dios"
-description              : &description "personal description"
+description              : &description "Investigadora postdoctoral en la Universitat Pompeu Fabra"
 url                      : https://isabelrodriguezdedios.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "isabelrodriguezdedios/isabelrodriguezdedios.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &IsabelRodrgz
 facebook:
   username               :
   app_id                 :
@@ -81,20 +81,20 @@ analytics:
 # Site Author
 author:
   name             : "Isabel Rodríguez de Dios"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Barcelona"
+  avatar           : "ird-208x300.jpg"
+  bio              : "Investigadora postdoctoral en la Universitat Pompeu Fabra"
+  location         : "Barcelona, España"
   employer         : "Universidad Pompeu Fabra"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           :
+  googlescholar    : "https://scholar.google.es/citations?user=LhLGbWkAAAAJ&hl=es&oi=ao"
+  email            : "isabel.rodriguez@upf.edu"
+  researchgate     : "https://www.researchgate.net/profile/Isabel_Rodriguez_De_Dios"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://es-es.facebook.com/people/Isabel-Rodr%C3%ADguez-de-Dios/100004148777451"
   foursquare       :
   github           : "isabelrodriguezdedios"
   google_plus      :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/isabelrodriguezdedios"
+  linkedin         : "https://es.linkedin.com/in/isabelrdios"
+  orcid            : "http://orcid.org/0000-0003-2460-7889"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "IsabelRodrgz"
   vine             :
   weibo            :
   xing             :
