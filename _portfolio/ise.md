@@ -1,6 +1,6 @@
 ---
 title: "The International Shaming Events (ISE) Data Project"
-excerpt: "<br/><img src='/images/500x300.png'>"
+excerpt: "<img src='/images/ISE_s22_group_picture.jpg'>"
 collection: portfolio
 ---
 
@@ -11,7 +11,7 @@ collection: portfolio
 * [Celline Kim]() (Undergraduate researcher)
 * [Karina Nehra]() (Undergraduate researcher)
 
-<br/><img src='/images/ISE_s22_group_picture.jpg'>
+<br/><img src='/images/ISE_s22_group_picture.jpg'>{: width="100" }
 
 
 ### Former Members
