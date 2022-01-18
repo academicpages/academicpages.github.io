@@ -6,7 +6,7 @@ collection: portfolio
 
 ## ISE Crews
 > 
-<br/><img src='/images/500x300.png'>
+<br/><img src='/images/ISE_s22_group_picture.jpg'>
 
 ### Current Members
 * Jiwon Kim (PI)
