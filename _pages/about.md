@@ -15,7 +15,7 @@ I am a Ph.D candidate in Economics at Claremont Graduate University (CGU) and a 
 I have been working as a Data Research Intern at 211 LA for the last two years. I have been building recommendation systems
 for 211 dispatchers by using Deep Learning and Machine Learning models in Pytorch and Sklearn(Python). I have been involved in the project of evaluating recommender bot by A/B testing techniques.
 
-[Curriculum Vitae](https://assamidanov.github.io/images/profile_photo.jpeg)
+[Curriculum Vitae](https://assamidanov.github.io/files/anuar_cv.pdf)
 
 
 ### About this website
