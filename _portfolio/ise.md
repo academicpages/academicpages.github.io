@@ -5,14 +5,14 @@ collection: portfolio
 ---
 
 ## ISE Crews
-> 
-<br/><img src='/images/ISE_s22_group_picture.jpg'>
-
 ### Current Members
 * Jiwon Kim (PI)
-* Anika Kapur (Undergraduate researcher)
-* Celline Kim (Undergraduate researcher)
-* Karina Nehra (Undergraduate researcher)
+* [Anika Kapur]() (Undergraduate researcher)
+* [Celline Kim]() (Undergraduate researcher)
+* [Karina Nehra]() (Undergraduate researcher)
+
+<br/><img src='/images/ISE_s22_group_picture.jpg'>
+
 
 ### Former Members
 * Sarah Qadir (2020 Fall)
