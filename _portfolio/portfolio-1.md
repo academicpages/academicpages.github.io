@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Peruvian Inflation Forecast"
+excerpt: "ARMA(p,q) forecast of Inflation <br/><img src='/images/inflation_forecast.eps'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Using an ARMA(p,q) model peruvian inflation is fitted and a forecast is made from this model. Script for this application can be found[Here](https://github.com/josediegogallardo/time_series_applications/blob/main/arma_inflation_forecast.ipynb)
+<img src='/images/inflation_forecast.eps'>
