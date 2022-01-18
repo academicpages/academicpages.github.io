@@ -33,6 +33,7 @@ Internship experience
 Professional activities
 ======
 * Journal Reviews:
+  * Medical Image Analysis (MedIA) 
   * IEEE Transactions on Medical Imaging (TMI)
   * IEEE Transactions on Geoscience and Remote Sensing (TGRS)
   * IEEE Journal of Biomedical and Health Informatics (JBHI)
