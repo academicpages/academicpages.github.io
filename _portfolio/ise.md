@@ -7,11 +7,11 @@ collection: portfolio
 ## ISE Crews
 ### Current Members
 * Jiwon Kim (PI)
-* [Anika Kapur]() (Undergraduate researcher)
+* [Anika Kapur](https://j1wonkim.github.io/posts/anika/) (Undergraduate researcher)
 * [Celline Kim]() (Undergraduate researcher)
 * [Karina Nehra]() (Undergraduate researcher)
 
-<br/><img src='/images/ISE_s22_group_picture.jpg'>{: width="100" }
+<br/><img src='/images/ISE_s22_group_picture.jpg'>{: width="200" }
 
 
 ### Former Members
