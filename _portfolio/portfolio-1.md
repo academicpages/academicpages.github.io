@@ -1,7 +1,7 @@
 ---
-title: "Peruvian Inflation Forecast"
-excerpt: "ARMA (p,q) forecast of Inflation <br/><img src='/images/inflation_forecast.png'>"
+title: "Solow Model Growth Decomposition"
+excerpt: "Contribution of productive factors to economic growth <br/><img src='/images/growth_contrib.png'>"
 collection: portfolio
 ---
 
-Using an ARMA(p,q) model peruvian inflation is fitted and a forecast is made from this model. Script for this application can be found [here](https://github.com/josediegogallardo/time_series_applications/blob/main/arma_inflation_forecast.ipynb).
+Using the Solow model and [ Céspedes y Rondán](https://repositorio.up.edu.pe/handle/11354/1496) parameters identification for Perú, the contribution of productive factors (productivity, capital and labeor) to peruvian economic growth is calculated. Script for this application can be found [here](https://github.com/josediegogallardo/time_series_applications/blob/main/growth_contributions.ipynb).
