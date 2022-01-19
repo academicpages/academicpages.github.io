@@ -14,9 +14,9 @@ redirect_from:
 
 ## Education
 ======
-* __B.S. Biology, Universidad del Valle, Cali, Colombia, 2003__
-* __Maestría en Ciencias Biológicas, Universidad del Valle, Cali, Colombia, 2008__
-* __Doctorado en Ciencias, Instituto de Biología, Universidad Nacional Autónoma de México, CDMX, México, 2015__
+* __B.S. Biology__, Universidad del Valle, Cali, Colombia, 2003.
+* __M.S. Biological Sciences__, Universidad del Valle, Cali, Colombia, 2008.
+* __Ph.D. Biological Sciencias (Mención Honorífica)__, Instituto de Biología, Universidad Nacional Autónoma de México, CDMX, México, 2015.
 
 
 ## Appointments
