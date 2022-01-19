@@ -4,8 +4,8 @@ title: "Research"
 ---
 ## Working Papers
 
-* “Optimal Network Based Targeting in Improving Technology Adoption: Evidence from Malawi”
-* “The Role of Experience in Learning for Index Insurance Products: Evidence from Rural Kenya”
+* “Optimal Network Based Targeting in Improving Technology Adoption: Evidence from Malawi” <font size="3">[<b>Full Paper</b>](/files/pdf/Optimal Network Based Targeting in Improving Technology Adoption.pdf)
+* “The Role of Experience in Learning for Index Insurance Products: Evidence from Rural Kenya”<font size="3">[<b>Full Paper</b>](/files/pdf/The Role of Experience in Learning for Index Insurance.pdf)
 
 ## Work in Progress
 
