@@ -4,8 +4,8 @@ title: "Research"
 ---
 ## Working Papers
 
-* “Optimal Network Based Targeting in Improving Technology Adoption: Evidence from Malawi” <font size="3">[<b>Full Paper</b>](/files/pdf/Optimal Network Based Targeting in Improving Technology Adoption.pdf)
-* “The Role of Experience in Learning for Index Insurance Products: Evidence from Rural Kenya”<font size="3">[<b>Full Paper</b>](/files/pdf/The Role of Experience in Learning for Index Insurance.pdf)
+* “Optimal Network Based Targeting in Improving Technology Adoption: Evidence from Malawi” [Full Paper](/files/pdf/Optimal Network Based Targeting in Improving Technology Adoption.pdf)
+* “The Role of Experience in Learning for Index Insurance Products: Evidence from Rural Kenya” [Full Paper](/files/pdf/The Role of Experience in Learning for Index Insurance.pdf)
 
 ## Work in Progress
 
@@ -14,9 +14,9 @@ title: "Research"
 
 ## Publications
 
-* “Food Insecurity, Price Volatility and Trade: A Panel Data Analysis in Developing Countries” (with Panchanan Das and Swayambhu Mukherjee), Indian Agriculture under Multilateral and Regional Trade Agreements - Competitiveness and Food Security, Sharma and Bathla (eds.), Bookwell, Delhi, 2017, 177-194.
+* “Food Insecurity, Price Volatility and Trade: A Panel Data Analysis in Developing Countries” (with Panchanan Das and Swayambhu Mukherjee), Indian Agriculture under Multilateral and Regional Trade Agreements - Competitiveness and Food Security, Sharma and Bathla (eds.), Bookwell, Delhi, 2017, 177-194. [Full Paper](/files/pdf/Food Insecurity, Price Volatility, and Trade.pdf)
 
 ## Other Papers
 
-* “Industrial Performance in West Bengal: Analysis of Technical Efficiency with ASI Data” (with Panchanan Das and Swayambhu Mukherjee), 2016
+* “Industrial Performance in West Bengal: Analysis of Technical Efficiency with ASI Data” (with Panchanan Das and Swayambhu Mukherjee), 2016 [Full Paper](/files/pdf/Industrial Performance in West Bengal.pdf)
 
