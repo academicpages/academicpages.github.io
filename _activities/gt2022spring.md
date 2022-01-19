@@ -13,7 +13,7 @@ author_profile: false
 |Th, Jan 27, 2022| 1:30pm - 2:30pm | Zhenhua Liu  |  Calibrated area-minimizing surfaces with fractal singular sets | 
 |Th, Feb 3, 2022| 1:30pm - 2:30pm |  Jiayin Pan | The escape phenomenon in open manifolds with nonnegative Ricci curvature | 
 |Th, Feb 10, 2022| 1:30pm - 2:30pm | Zhichao Wang |  | 
-|Th, Feb 17, 2022| 1:30pm - 2:30pm |  |  | 
+|Th, Feb 17, 2022| 1:30pm - 2:30pm | Peng Zhou | Variation of GIT quotients and Variation of Lagrangian skeleton | 
 |Th, Feb 24, 2022| 1:30pm - 2:30pm |  |  | 
 |Th, Mar 3, 2022| 1:30pm - 2:30pm | Andrew Sageman-Furnas |  | 
 |Th, Mar 10, 2022| 1:30pm - 2:30pm | spring break |  | 
@@ -39,3 +39,7 @@ author_profile: false
   * For compact surfaces, Lawson and Tribuzy proved in 1981 that a metric and non-constant mean curvature function determine at most one immersion with genus zero, but at most two compact immersions (compact Bonnet pairs) for higher genus. This led them to ask if compact Bonnet pairs exist.
   * In this talk, we discuss our recent construction of the first examples of compact Bonnet pairs. It uses a local classification by Kamberov, Pedit, and Pinkall in terms of special surfaces that are called isothermic. Moreover, we describe how a structure-preserving discrete theory for isothermic surfaces and Bonnet pairs led to this discovery.
   * The smooth theory is joint work with Alexander Bobenko and Tim Hoffmann and the discrete theory is joint work with Tim Hoffmann and Max Wardetzky.
+
+* Peng Zhou
+  * Just as one can compute the cohomology of a smooth manifold using Morse theory with different Morse functions, one can compute the partially wrapped Fukaya category of a Weinstein pair using microlocal sheaf theory with different Lagrangian skeletons. In the setup of mirror symmetry for toric GIT quotient, we give an explicit interpolation between various Lagrangian skeleton using the notion of windows subcategory in VGIT. This is based on works https://arxiv.org/abs/2011.03719 and https://arxiv.org/abs/2011.06114 (with Jesse Huang).
+
