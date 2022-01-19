@@ -43,7 +43,7 @@ Publication
 
 Talks/Presentations
 ======
-*  Incoming Talk at topic-contributed sessions of Joint Statistical Meetings, 2022, US.
+*  Incoming Talk at topic-contributed sessions of _[Joint Statistical Meetings]()_, 2022, US.
 *  Poster at _[Bristol: FRY]()_, September 2021, UK. 
 *  Talk at _[MCM]()_ (Special Session on Stein's method), August 2021, German.
 *  Poster at _[AISTATS 2021]()_, April 2021, USA.
