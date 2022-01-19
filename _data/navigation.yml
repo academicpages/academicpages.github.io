@@ -12,6 +12,9 @@ main:
   - title: "News and Opportunities"
     url: /news/ 
 
+  - title: "Join!"
+    url: /listserv/  
+  
   - title: "Training"
     url: /training/    
 
