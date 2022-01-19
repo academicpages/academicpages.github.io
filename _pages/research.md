@@ -1,70 +1,38 @@
 ﻿---
-title: "Research"
-permalink: /research/
+layout: archive
+title: "Working Papers"
+permalink: /working/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
-[Active Reseach](#active) &nbsp; &nbsp; - &nbsp; &nbsp; [Publications](#pubs) &nbsp; &nbsp; - &nbsp; &nbsp; [(Google Scholar Profile)](https://scholar.google.com/citations?user=lQ4Yvs4AAAAJ)
+# Revisiting Unilateral Divorce, Health, and Crime
 
-<h2 id="active">
-Active Research
-</h2>
+Joint with Muhammad Salman Khalid and Morgan Stockham
 
-### Working Papers
+## Abstract
 
-"[Lockdowns and Innovation: Evidence from 1918 Flu Pandemic](https://www.nber.org/papers/w28152)" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], [Ruben Gaetani][ruben], and [Jeff Lin][jlin]). NBER Working Paper 28152 (2020). Revision requested at *Review of Economics and Statistics* (short paper).
+Stevenson and Wolfers (2006) theorized that unilateral divorce laws shifted power from one party to a distribution of power across both parties in the marriage, effectively providing an application of Coasian Bargaining. Utilizing a two-way fixed effects (TWFE) difference-in-difference estimator, they find that unilateral divorce had significantly reduced suicide rates, domestic violence, and intimate homicide. Innovations in econometric theory have raised concerns regarding the use of TWFE with differential timing in the treatment variable, leading to biased estimation. We revisit Stevenson and Wolfers (2006) with more modern estimators for suicide and intimate homicide rates and utilize appropriate estimators to examine the effect of unilateral divorce laws on suicides and intimate partner homicide rates. In contrast to the original re≥search, we do not find significant effects of unilateral divorce on suicide and intimate homicide rates when controlling for covariates.
 
-"[Driving, Dropouts, and Drive-throughs: Mobility Restrictions and Teen Outcomes](https://vkbostwick.weebly.com/uploads/4/5/2/2/45222553/driving_dropouts_draft.pdf)" (with [Valerie Bostwick][vkb]).
+# Pandemic Safeguards and Household Safety
 
-"The problem has existed over endless years: Racialized difference in commuting, 1980-2019" (with [devin Michelle Bunten][dmb], [Ellen Fu][exf], and [Lyndsey Rolheiser][lar]). *Draft coming soon!*. [[Preliminary Slides](https://cseveren.github.io/files/bfrs_presentation_202110_General.pdf) (please do not cite)]
+Joint with G. DeAngelo, Y.Le, S.Cunningham, and R.Thornton
 
+## Abstract
 
-### Selected Works in Progress
+A flurry of research examined the effect of COVID-19 related shelter-in-place as well as school and day care closure orders on family violence. There is considerable variation in the data samples used in previous work, which include geographic units included in the analysis and time frames studied. Previous analyses utilizing difference-in-differences analyses often produce conflicting results. In this work we include the most comprehensive data set from the United States, which includes nearly three years of data from 30 cities, to examine the effect of COVID-19 related orders on family violence to ensure that our conclusions are not reached due data selection issues. We also improve on previous analyses by utilizing the decomposition in Bacon 2021 and the estimator in Callaway 2020 to account for the differential timing in the implementation of COVID-19 related orders. Our analysis concludes that school closure significantly increased the number of child abuse calls by 70% from the mean. We detect no effect for shelter-in-place or daycare closure orders. We also document a reversal in the direction of our main coefficient estimates when using Callaway 2020 's estimator to measure the effect of daycare closure relative to two-way fixed effect
 
-"Modal Choice and Income in Mexico City" (with [Paulina Oliva][poliva] and [Danae Hernández-Cortés][dhc]). *Slides, preliminary draft available by request*.
+# Pandemic Safeguards and Household Safety
 
-"Climate, Innovation, and Adaptation" (with [Enrico Berkes][eberkes], [Olivier Deschênes][odeschenes], and [Jeff Lin][jlin]).
+Joint with G. DeAngelo, Y.Le, S.Cunningham, and R.Thornton
 
+## Abstract
 
+A flurry of research examined the effect of COVID-19 related shelter-in-place as well as school and day care closure orders on family violence. There is considerable variation in the data samples used in previous work, which include geographic units included in the analysis and time frames studied. Previous analyses utilizing difference-in-differences analyses often produce conflicting results. In this work we include the most comprehensive data set from the United States, which includes nearly three years of data from 30 cities, to examine the effect of COVID-19 related orders on family violence to ensure that our conclusions are not reached due data selection issues. We also improve on previous analyses by utilizing the decomposition in Bacon 2021 and the estimator in Callaway 2020 to account for the differential timing in the implementation of COVID-19 related orders. Our analysis concludes that school closure significantly increased the number of child abuse calls by 70% from the mean. We detect no effect for shelter-in-place or daycare closure orders. We also document a reversal in the direction of our main coefficient estimates when using Callaway 2020 's estimator to measure the effect of daycare closure relative to two-way fixed effect
 
-<h2 id="pubs">
-Publications
-</h2>
+# An Evaluation of Sex Offender Residency Restrictions in California
+Joint with Josie Xiao
 
-### Peer-Reviewed Publications
-
-"[Commuting, Labor, and Housing Market Effects of Mass Transportation: Welfare and Identification](https://cseveren.github.io/files/Severen_LAMetro_Pretty.pdf)", (final pre-publication draft). Forthcoming at *Review of Economics and Statistics*.
-
-"[Formative Experiences and the Price of Gasoline](https://cseveren.github.io/files/FormativeExperiences_Paper_and_Appendix.pdf)" (with [Arthur van Benthem][avb]). Forthcoming at *American Economic Journal: Applied Economics*. [[Slides](https://cseveren.github.io/files/FormativeExperiences_Presentation_TREES.pdf); [NBER WP 26091](https://www.nber.org/papers/w26091); Media coverage: [Washington Post](https://www.washingtonpost.com/business/2019/10/04/an-economic-crisis-your-teens-can-alter-your-behavior-life-economists-find/), [Academic Times](https://academictimes.com/americans-who-grew-up-during-oil-crises-drive-less-as-adults/), [NBER Digest](https://www.nber.org/digest/oct19/w26091.shtml)]
-
-"[Technology Adoption Under Uncertainty: Take-Up and Subsequent Investment in Zambia](https://www.mitpressjournals.org/doi/full/10.1162/rest_a_00823)" with [Paulina Oliva][poliva], [Kelsey Jack][kjack], Samuel Bell, and Elizabeth Mettetal. *Review of Economics and Statistics* 102, no. 3 (2020): 617-632. [[NBER WP 21414](https://www.nber.org/papers/w21414)]
-
-"What is Marine Justice?" with J Martin, S Gray, E Aceves-Bueno, P Alagona, T Elwell, A Garcia, Z Horton, D Lopez-Carr, J Marter-Kenyon, K Miller, T Shewry, B Twohey. *Journal of Environmental Studies and Sciences* 9, no. 2 (2019): 234–243.
-
-"[Land-Use Regulations, Property Values, and Rents: Decomposing the Effects of the California Coastal Act](https://www.sciencedirect.com/science/article/pii/S0094119018300421)" with [Andrew Plantinga][aplantinga]. *Journal of Urban Economics* 107 (2018): 65-78. [[Supplemental Material](https://cseveren.github.io/files/CCC_Appendix.pdf), [Pre-print](https://cseveren.github.io/files/CCC_Final.pdf), [UCSB press coverage](http://www.news.ucsb.edu/2018/019175/value-proposition)]
-
-"[A forward-looking Ricardian approach: Do land markets capitalize climate change forecasts?](https://www.sciencedirect.com/science/article/pii/S0095069618301177)" with [Chris Costello][ccostello], and [Olivier Deschênes][odeschenes]. *Journal of Environmental Economics and Management* 89 (2018): 235-254. [[Supplemental Material](https://cseveren.github.io/files/ricardian_Appendix.pdf), [Pre-print](https://cseveren.github.io/files/ricardian_Final.pdf)]
-
-"Rural Entrepreneurial Education: An Innovative Piece of Practical Development in Latin America." *Student Journal of Latin American Studies* 1 (2009): 26–51.
-
-### Books, Chapters, and Essays
-
-"[A Ticket to Ride: Estimating the Costs and Benefits of Rail Transit](https://www.philadelphiafed.org/the-economy/regional-economics/a-ticket-to-ride-estimating-the-benefits-of-rail-transit)." *Economic Insights* 5, no. 2 (2020).
-
-
-
-
-[aplantinga]: https://www.bren.ucsb.edu/people/Faculty/andrew_plantinga.htm
-[avb]: http://www.arthurvanbenthem.com/
-[ccostello]: https://christopherjcostello.com/
-[dhc]: https://hernandezcortes.github.io/
-[dmb]: https://www.devinbunten.com/
-[eberkes]: https://sites.google.com/view/enricoberkes/home
-[exf]: https://sites.google.com/site/ellenxfu/home
-[jlin]: http://www.jlin.org
-[kjack]: http://kelseyjack.bren.ucsb.edu/
-[lar]: https://lyndseyrolheiser.com/
-[odeschenes]: https://econ.ucsb.edu/~olivier/
-[poliva]: https://dornsife.usc.edu/paulina-oliva/
-[ruben]: https://sites.google.com/view/rubengaetani
-[vkb]: https://vkbostwick.weebly.com/
+* Examined the impact of proximity restrictions for sex offenders on sex offense crimes in Los Angeles County.
+* Used Regression Discontinuity design combined with a before-after estimation to explore the effect of this law on the number of sex offences committed 2000 feet outside the schools and parks.
