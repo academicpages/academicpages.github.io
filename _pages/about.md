@@ -1,50 +1,37 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+classes: wide
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<style type="text/css">
+  body{
+  font-size: 11pt;
+}
+</style>
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+<img src="about_me2.jpg" style="width: 100%" />
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I'm an associated researcher at Instituto de Ciencias de la Atmósfera y Cambio Climático at Universidad Nacional Autónoma de México (ICACC-UNAM) in Mexico city. I born in Colombia where I spent most of my life, but I've been living in Mexico since 2011. I migrated to Mexico to pursuit my PhD at UNAM. My favorite taxonomic groups are amphibians and reptiles, particularly Anolis lizards. I've been working with anole lizards in the last 16 years doing research on ecomorphology, taxonomy, systematic, biogeography, and macroecology. Currently I'm very interested in evaluate impacts on climate change on biodiversity on local and regional assemblages across different taxonomic groups. My research interests involve the integration of different disciplines including ecology, evolution, zoology, ecological niche modeling, and macroecological modelling. My research aims to understand how current and past climate shapes biodiversity, including phenotypic diversity, at several spatial scales and how future climate change scenarios might distords these geographical biodiversity patterns. 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Soy Investigador Asociado nivel C del Instituto de Ciencias de la Atmósfera y Cambio Climático de la Universidad Nacional Autónoma de México. MI investigación está enfocada en entender el papel del clima actual y del pasado en la generación de biodiversidad usando diferentes enfoques de modelación ecológica y cómo los patrones geográficos de diferentes dimensiones de la biodiversidad estarán afectados por escenarios futuros de política y cambio climático. 
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+__Macroecología del cambio climático__
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+El cambio climático, hoy en día, ya es reconocido como una de las principales amenazas a la existencia del hombre y la naturaleza. Al ser el clima un motor primario de diferentes procesos biológicos que van desde el nivel individual hasta el ecosistémico, el cambio climático tendrá sin duda un impacto potencial severo a nivel ecológico y social. El consenso científico ha logrado posicionar el hecho que el cambio climático es inequívoco y que ha sido ocasionado principalmente por un aumento en la concentración de CO2 en la atmósfera desde 1750. La macroecología es una de las disciplinas de la ecología con un gran impacto dentro de las ciencias biológicas. Este programa de investigación nace a finales de la década de los 80’s y principios de los 90’s desarrollando una serie de predicciones estadísticas acerca de los patrones geográficos de diversidad y abundancia. Dentro de la macroecología se intenta encontrar las regularidades acerca de la distribución espacial de la biodiversidad y entender las relaciones entre los organismos y el ambiente a escalas espaciales amplias. Por lo tanto, este enfoque permite evaluar impactos potenciales del cambio climático en los sistemas ecológicos complejos.
 
-**Markdown generator**
+Las líneas de investigación que estamos desarrollando buscan evaluar los impactos del cambio climático en las múltiples dimensiones de la biodiversidad (e.g., diversidad taxonómica, funcional, y filogenética), la producción agrícola (e.g., diversidad de cultivos y rendimientos) y predicciones de brotes de enfermedades infecciosas emergentes usando un marco conceptual macroecológico. Nuestro interés es generar proyecciones espacial y temporalmente explícitas en diferentes escalas espaciales con múltiples modelos de circulación global y varios niveles de forzamiento radiativo.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Algunos temas que estamos desarrollando en el Instituto de Ciencias de la Atmósfera y Cambio Climático son:
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+1) Impactos de cambios climáticos abruptos en la biodiversidad en ambientes terrestres y marinos.
+2) Detección y atribución del cambio climático en los patrones geográficos de biodiversidad a multiples escalas espaciales y temporales.
+3) El papel del paleo-clima y la diversificación en los gradientes de biodiversidad y el impacto potencial del cambio climático antrópico.
+4) Pérdida de diferentes facetas de la biodiversidad (taxonómica, funcional, filogenética, genética) frente a escenarios de cambio climático.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Si está interesada/o en alguna de estas líneas de investigación para desarrollar su tesis de licenciatura y/o maestría no dude en escribir al correo javelasco#atmosfera.unam.mx (reemplaza # por @) para más información.
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+{% include feature_row %}
+
