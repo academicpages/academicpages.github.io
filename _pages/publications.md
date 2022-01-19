@@ -6,7 +6,7 @@ author_profile: yes
 published: yes
 share: no
 image:
-  feature: publications2.jpg
+  feature: publications.jpg
 ---
 
 [Google Scholar profile](https://scholar.google.com/citations?user=Xyb6VS4AAAAJ&hl=en)
