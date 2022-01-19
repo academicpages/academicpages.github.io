@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Detailed CV](https://github.com/juvelas/julian_velasco.github.io/raw/master/CV/CV_completo.pdf)
+[Detailed CV](https://github.com/juvelas/julian_velasco.github.io/files/CV/CV_completo.pdf)
 
 
 ## Education
