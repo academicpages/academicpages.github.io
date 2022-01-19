@@ -8,7 +8,7 @@ redirect_from:
   - /about.html  
 ---
 
-My name is Z. Sun, a 3rd year PhD student at UCL. I am very very lucky to be supervised by Prof. [F-X Briol](https://fxbriol.github.io) and Prof. J-H Xue. My research is funded by EPSRC and UCL jointly. Prior to my journey to UCL, I obtained a MSc degree in Statistics with Distinction from the University of Oxford. 
+My name is Z. Sun, a 3rd year PhD student at UCL. I am very very lucky to be supervised by Prof. [F-X Briol](https://fxbriol.github.io) and Prof. [J-H Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). My research is funded by EPSRC and UCL jointly. Prior to my journey to UCL, I obtained a MSc degree in Statistics with Distinction from the University of Oxford. 
 
 
 Contact: zhuo [dot] sun [dot] 19 [at] ucl.ac.uk
@@ -22,7 +22,7 @@ In general, I am very interested in __computational statistics__ and __machine l
 
 Academic Activities
 ======
-* This year, I am an Enrichment student at The Alan Turing Institute.
+* This year, I am an [Enrichment student](https://www.turing.ac.uk/news/turing-welcomes-next-generation-data-enthusiasts-academic-institutions-across-uk) at [The Alan Turing Institute](https://www.turing.ac.uk).
 * Organiser of 2022 Data-Centric Engineering Seminars at The Alan Turing Institute.
 
 
@@ -45,11 +45,11 @@ Publication
 
 Talks/Presentations
 ======
-*  Incoming Talk at topic-contributed sessions of _[Joint Statistical Meetings]()_, 2022, US.
-*  Poster at _[Bristol: FRY]()_, September 2021, UK. 
-*  Talk at _[MCM]()_ (Special Session on Stein's method), August 2021, German.
-*  Poster at _[AISTATS 2021]()_, April 2021, USA.
-*  Talk at _DCE @ [ATI]()_, March 2021, UK.
+*  Incoming Talk at topic-contributed sessions of _[Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2022/)_, 2022, US.
+*  Poster at _[Statistics at Bristol: FRY](https://web-eur.cvent.com/event/a5a8878f-5ff8-457d-ad63-09fc66f9afd2/websitePage:645d57e4-75eb-4769-b2c0-f201a0bfc6ce?RefId=HIMR&rp=00000000-0000-0000-0000-000000000000)_, September 2021, UK. 
+*  Talk at _[International Conference on Monte Carlo Methods and Applications](https://www.uni-mannheim.de/mcm-2021/)_ (Special Session on Stein's method), August 2021, German.
+*  Poster at _[International Conference on Artificial Intelligence and Statistics](https://aistats.org/aistats2021/)_, April 2021, USA.
+*  Talk at _[Data-Centric Engineering Seminars](https://sites.google.com/view/dce-reading-group/home)_ @ [The Alan Turing Institue](https://www.turing.ac.uk)_, March 2021, UK.
 
 
 
