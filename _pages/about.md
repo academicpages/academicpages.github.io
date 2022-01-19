@@ -16,7 +16,7 @@ I am a 21 years old student fresh graduate with a Bachelor in Economics and Comp
 
 - 💻 I'm studying at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/)
 
-- 👨‍💻 All of my projects are available here or at [My Portfolio page](https://simonegiancola09.github.io/portfolio/)
+- 👨‍💻 All of my projects are available here or at [My Github page](https://github.com/simonegiancola09)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonegiancola09&show_icons=true&locale=en&layout=compact" alt="simonegiancola09" /></p>
 
