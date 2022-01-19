@@ -10,6 +10,18 @@ redirect_from:
 
 I am a 21 years old student fresh graduate with a Bachelor in Economics and Computer Science. Since September 2021 I am attending a MS in Data Science. I decided to do this experiment since I like coding and found an easy template to develop a simple page. You can find more information on my Github page, at the link on the left panel (follow button if you are using your phone). The repo is named after this website. <br>
 
+- 🛠 I’m working at [Santagostino Medical Center](https://www.santagostino.it/it)
+
+- 🌱 I’m currently learning **Machine Learning, Statistics, Mathematics**
+
+- 💻 I'm studying at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/)
+
+- 👨‍💻 All of my projects are available here or at [My Portfolio page](https://simonegiancola09.github.io/portfolio/)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simonegiancola09&show_icons=true&locale=en&layout=compact" alt="simonegiancola09" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simonegiancola09&show_icons=true&locale=en" alt="simonegiancola09" /></p>
+
 Get in touch
 ======
 You can find me on LinkedIn, click below if you wish to connect! 
@@ -18,6 +30,11 @@ You can find me on LinkedIn, click below if you wish to connect!
 
 On the left (again, follow button if from phone), some contact information is available. Feel free to text me or set up a meeting on Calendly [here](https://calendly.com/simonegiancola09/30-minute-chat)! <br>
 On the top menu, each visitor is allowed to access my Resume, my portfolio, and a blog I might start using.
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/giancolasimone"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="giancolasimone" /></a><a href="https://ko-fi.com/giancolasimone"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="giancolasimone" /></a></p><br><br>
+
+
 
 Future Projects
 ======
