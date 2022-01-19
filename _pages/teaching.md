@@ -5,13 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ## Machine Learning in Economics - Instructor
 Graduate course, _Cal State Fullerton_, 2022
 
