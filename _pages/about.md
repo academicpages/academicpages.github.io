@@ -18,6 +18,15 @@ redirect_from:
 
 <img src="about_limon.jpg" style="width: 100%" />
 
+Dr. Julián A. Velasco
+Investigador Asociado C -Tiempo completo-
+Instituto de Ciencias de la Atmósfera y Cambio Climático
+Universidad Nacional Autónoma de México
+Ciudad de México, México
+Phone: 56224240 Ext. 81898
+Email: javelasco@atmosfera.unam.mx
+[Google Scholar profile](https://scholar.google.com/citations?user=Xyb6VS4AAAAJ&hl=en)
+
 
 I'm an associated researcher at Instituto de Ciencias de la Atmósfera y Cambio Climático at Universidad Nacional Autónoma de México (ICACC-UNAM) in Mexico city. My favorite taxonomic groups are amphibians and reptiles, but I've worked with other organisms like birds, mammals, and plants. Much previous research is around ecomorphology, taxonomy, systematics, biogeography, and macroecology on anole lizards. I'm currently very interested in evaluating how climate change affects biodiversity at local and regional assemblages in many taxa using different conceptual and methodological frameworks, including phylogenetic comparative methods, ecological niche modeling, macroevolution, and macroecology. The goal is to understand how current and past climate shapes biodiversity, including phenotypic diversity, at several spatial scales and how future climate change scenarios might distort these geographical biodiversity patterns. 
 
@@ -33,10 +42,11 @@ Algunos temas que estamos desarrollando en el Instituto de Ciencias de la Atmós
 
 1) Impactos de cambios climáticos abruptos en la biodiversidad en ambientes terrestres y marinos.
 2) Detección y atribución del cambio climático en los patrones geográficos de biodiversidad a multiples escalas espaciales y temporales.
-3) El papel del paleo-clima y la diversificación en los gradientes de biodiversidad y el impacto potencial del cambio climático antrópico.
-4) Pérdida de diferentes facetas de la biodiversidad (taxonómica, funcional, filogenética, genética) frente a escenarios de cambio climático.
+3) Evaluación de impactos de política climática en biodiversidad.
+4) El papel del paleo-clima y la dinámica de diversificación en los gradientes de biodiversidad y el impacto potencial del cambio climático antrópico.
+5) Pérdida de diferentes facetas de la biodiversidad (taxonómica, funcional, filogenética, genética) frente a escenarios de cambio climático.
 
-Si está interesada/o en alguna de estas líneas de investigación para desarrollar su tesis de licenciatura y/o maestría no dude en escribir al correo javelasco#atmosfera.unam.mx (reemplaza # por @) para más información.
+Si está interesada/o en alguna de estas líneas de investigación para desarrollar su tesis de licenciatura y/o maestría no dude en escribir para más información.
 
 
 {% include feature_row %}
