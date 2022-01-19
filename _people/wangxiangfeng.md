@@ -60,7 +60,7 @@ permalink: /people/xfwang
 1. X. Fu, B. He, **Xiangfeng Wang**, and X. Yuan, Block-wise Alternating Direction Method of Multipliers with Gaussian Back Substitution for Multiple-block Convex Programming. Splitting Algorithms, Modern Operator Theory, and Applications, 2019.
 
 #### Journal 
-1. X. Cai, **Xiangfeng Wang**, and W. Zhang, The O(1/n) Worst-case Convergence Rate of ADMM with Variable Penalty Parameters, Numerical Mathematics A Journal of Chinese Universities, accepted, 2022. (Chinese version)
+1. X. Cai, **Xiangfeng Wang**, and W. Zhang, The O(1/n) Worst-case Convergence Rate of ADMM with Variable Penalty Parameters, Numerical Mathematics A Journal of Chinese Universities, accepted, 2022. (Commemorate the 100th anniversary of the birth of Professor Xuchu He)
 2. W. Li, **Xiangfeng Wang**, Bo Jin, D. Luo, and H. Zha, Structured Cooperative Reinforcement Learning with Time-varying Composite Action Space, IEEE Transactions on Pattern Analysis and Machine Intelligence, accepted, 2021.
 3. **Xiangfeng Wang**, J. Ye, X. Yuan, S. Zeng, and J. Zhang, Perturbation Techniques for Convergence Analysis of Proximal Gradient Method and Other First-order Algorithms via Variational Analysis. Set-Valued and Variational Analysis, accepted, 2021.
 4. J. Sheng, Yiqiu Hu, W. Zhou, L. Zhu, B. Jin, J. Wang, and **Xiangfeng Wang**, Learning to Schedule Multi-NUMA Virtual Machines via Reinforcement Learning, Pattern Recognition, 121, 2022, pp.108254.
