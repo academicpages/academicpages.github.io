@@ -1,7 +1,7 @@
 ﻿---
 layout: archive
 title: "Working Papers"
-permalink: /working/
+permalink: /research/
 author_profile: true
 redirect_from:
   - /resume
