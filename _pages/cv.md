@@ -20,9 +20,9 @@ redirect_from:
 
 
 ## Appointments
-* 2020-Present: __Investigador Asociado nivel C TC__. Department of Ecology, Evolution & Behavior, College of Biological Sciences, University of Minnesota.
-* 2017-2018: __Becario postdoctoral DGAPA-UNAM__. Museo de Zoología Alfonso L. Herrera, Facultad de Ciencias, Universidad Nacional Autónoma de México
-* 2016-2017. __Becario postdoctoral__. Universidad de Guadalajara, CUC-Costa. Puerto Vallarta, Jalisco, México.
-* 2008-2011: __Coordinador__. Programa Colombia. Wildlife Conservation Society. 
+* 2020-Present: __Investigador Asociado nivel C TC__. Instituto de Ciencias Atmósfericas y Cambio Climático, Universidad Nacional Autónoma de México.
+* 2017-2018: __Posdoctoral Fellow DGAPA-UNAM__. Museo de Zoología Alfonso L. Herrera, Facultad de Ciencias, Universidad Nacional Autónoma de México.
+* 2016-2017. __Posdoctoral Fellow__. Universidad de Guadalajara, CUC-Costa, Jalisco, México.
+* 2008-2011: __Researcher__. Programa Colombia. Wildlife Conservation Society. Cali, Colombia.
 * 2006-2008: __Lecturer__.  Programa de Biología, Universidad del Valle, sede Pacífico, Buenaventura, Colombia.
 * 2004-2006: __Teaching Assistance__.  Programa de Biología, Universidad del Valle, Cali, Colombia.
