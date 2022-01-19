@@ -8,7 +8,7 @@ redirect_from:
   - /about.html  
 ---
 
-My name is Z. Sun, a 3rd year PhD student at UCL. I am very very lucky to be supervised by Prof. F-X Briol and Prof. J-H Xue. My research is funded by EPSRC and UCL jointly. Prior to my journey to UCL, I obtained a MSc degree in Statistics with Distinction from the University of Oxford. 
+My name is Z. Sun, a 3rd year PhD student at UCL. I am very very lucky to be supervised by Prof. [F-X Briol](https://fxbriol.github.io) and Prof. J-H Xue. My research is funded by EPSRC and UCL jointly. Prior to my journey to UCL, I obtained a MSc degree in Statistics with Distinction from the University of Oxford. 
 
 
 
