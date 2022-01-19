@@ -15,7 +15,7 @@ author_profile: true
 ## Machine Learning in Economics - Instructor
 Graduate course, _Cal State Fullerton_, 2022
 
-Syllabus is [<u>here</u>](https://github.com/assamidanov/econ_590/blob/ba254fd39e6ad820e6c62773bced768e7fffecf6/syllabus/Syllabus.pdf).
+Syllabus is [**<u>here</u>**](https://github.com/assamidanov/econ_590/blob/ba254fd39e6ad820e6c62773bced768e7fffecf6/syllabus/Syllabus.pdf).
 
 ## Machine Learning in Asset Pricing - Teaching Assistant
 Graduate course, _Claremont Graduate University_, Fall 2021
