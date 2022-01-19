@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Shanghai Jiao Tong University, 2015
+* M.S. in Brown University (Engineering), 2017
+* M.S. in Brown University (Applied Math), 2019
+* Ph.D in Brown University (Engineering), 2021
 
 Work experience
 ======
@@ -21,11 +22,6 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
