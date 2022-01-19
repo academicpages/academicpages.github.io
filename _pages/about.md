@@ -1,3 +1,8 @@
+---
+permalink: /
+layout: single
+title: "About me"
+excerpt: "About me"
 classes: wide
 author_profile: true
 redirect_from: 
@@ -11,7 +16,8 @@ redirect_from:
 }
 </style>
 
-<img src="about_me2.jpg" style="width: 100%" />
+<img src="about_limon.jpg" style="width: 100%" />
+
 
 I'm an associated researcher at Instituto de Ciencias de la Atmósfera y Cambio Climático at Universidad Nacional Autónoma de México (ICACC-UNAM) in Mexico city. I born in Colombia where I spent most of my life, but I've been living in Mexico since 2011. I migrated to Mexico to pursuit my PhD at UNAM. My favorite taxonomic groups are amphibians and reptiles, particularly Anolis lizards. I've been working with anole lizards in the last 16 years doing research on ecomorphology, taxonomy, systematic, biogeography, and macroecology. Currently I'm very interested in evaluate impacts on climate change on biodiversity on local and regional assemblages across different taxonomic groups. My research interests involve the integration of different disciplines including ecology, evolution, zoology, ecological niche modeling, and macroecological modelling. My research aims to understand how current and past climate shapes biodiversity, including phenotypic diversity, at several spatial scales and how future climate change scenarios might distords these geographical biodiversity patterns. 
 
