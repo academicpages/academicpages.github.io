@@ -15,7 +15,7 @@ My name is Z. Sun, a 3rd year PhD student at UCL. I am very very lucky to be sup
 
 Research Interest
 ======
-In general, I am very interested in __computational statistics__ and __machine learning__. 
+In general, I am very interested in __computational statistics__ and __machine learning__. I am also very interested in applications of statistics and machine learning.
 
 
 Academic Activities
