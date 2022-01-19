@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.23)  18 JAN 2022 13:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.9.23)  18 JAN 2022 14:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -94,7 +94,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen112
 \Gm@dimlist=\toks16
 )
-No file anuar_cv.aux.
+(./anuar_cv.aux)
 \openout1 = `anuar_cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
@@ -109,6 +109,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -159,8 +160,8 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 31--31
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 [2] (./anuar_cv.aux) ) 
 Here is how much of TeX's memory you used:
- 1547 strings out of 492616
- 21501 string characters out of 6129481
+ 1549 strings out of 492616
+ 21527 string characters out of 6129481
  97875 words of memory out of 5000000
  5490 multiletter control sequences out of 15000+600000
  7639 words of font info for 27 fonts, out of 8000000 for 9000
@@ -172,7 +173,7 @@ fonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfont
 s/cm/cmti10.pfb>
-Output written on anuar_cv.pdf (2 pages, 83280 bytes).
+Output written on anuar_cv.pdf (2 pages, 83343 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  21 compressed objects within 1 object stream

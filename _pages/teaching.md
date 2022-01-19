@@ -20,5 +20,6 @@ Graduate course, _Claremont Graduate University_, Fall 2021
 
 ## Causal Inference and Research Design - Teaching Assistant
 <br>
-_Remote Student Exchange Course for students from low and middle-income countries_, Summer 2021
+_Remote Student Exchange Course for students from low and middle-income countries_, <u>some text</u>, Summer 2021
+
 
