@@ -15,11 +15,12 @@ main:
   - title: "Training"
     url: /training/    
 
-  - title: "Working Groups"
-    url: /wg/
-      
   - title: "Publications"
     url: /publications/
     
   - title: "Early Career"
     url: /ecr/
+    
+  - title: "Working Groups"
+    url: /wg/
+      
