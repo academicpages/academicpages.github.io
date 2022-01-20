@@ -9,21 +9,20 @@ author_profile: false
 
 | date | time | speaker | title | zoom link 
 | -- | -- | ---- | -------- | ----- 
-|Th, Jan 20, 2022| 1:30pm - 2:30pm |  |  | 
-|Th, Jan 27, 2022| 1:30pm - 2:30pm | Zhenhua Liu  |  Calibrated area-minimizing surfaces with fractal singular sets | 
-|Th, Feb 3, 2022| 1:30pm - 2:30pm |  Jiayin Pan | The escape phenomenon in open manifolds with nonnegative Ricci curvature | 
-|Th, Feb 10, 2022| 1:30pm - 2:30pm | Zhichao Wang |  | 
-|Th, Feb 17, 2022| 1:30pm - 2:30pm | Peng Zhou | Variation of GIT quotients and Variation of Lagrangian skeleton | 
-|Th, Feb 24, 2022| 1:30pm - 2:30pm |  |  | 
-|Th, Mar 3, 2022| 1:30pm - 2:30pm | Andrew Sageman-Furnas |  | 
-|Th, Mar 10, 2022| 1:30pm - 2:30pm | spring break |  | 
-|Th, Mar 17, 2022| 1:30pm - 2:30pm |  |  | 
-|Th, Mar 24, 2022| 1:30pm - 2:30pm |  |  | 
-|Th, Mar 31, 2022| 1:30pm - 2:30pm |  |  | 
-|Th, Apr 7, 2022| 1:30pm - 2:30pm |  |  | 
-|Th, Apr 14, 2022| 1:30pm - 2:30pm |  |  | 
-|Th, Apr 21, 2022| 1:30pm - 2:30pm |  |  | 
-|Th, Apr 28, 2022| 1:30pm - 2:30pm | Suguru Ishikawa |  |  [https://umn.zoom.us/j/9735843950](https://umn.zoom.us/j/9735843950)
+|Th, Jan 27, 2022| 1:30pm - 2:30pm | Zhenhua Liu  |  Calibrated area-minimizing surfaces with fractal singular sets | [https://umn.zoom.us/s/99199273342](https://umn.zoom.us/s/99199273342)
+|Th, Feb 3, 2022| 1:30pm - 2:30pm |  Jiayin Pan | The escape phenomenon in open manifolds with nonnegative Ricci curvature | [https://umn.zoom.us/s/99199273342](https://umn.zoom.us/s/99199273342)
+|Th, Feb 10, 2022| 1:30pm - 2:30pm | Zhichao Wang |  | [https://umn.zoom.us/s/99199273342](https://umn.zoom.us/s/99199273342)
+|Th, Feb 17, 2022| 1:30pm - 2:30pm | Peng Zhou | Variation of GIT quotients and Variation of Lagrangian skeleton | [https://umn.zoom.us/s/99199273342](https://umn.zoom.us/s/99199273342)
+|Th, Feb 24, 2022| 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/s/99199273342](https://umn.zoom.us/s/99199273342)
+|Th, Mar 3, 2022| 1:30pm - 2:30pm | Andrew Sageman-Furnas |  | [https://umn.zoom.us/s/99199273342](https://umn.zoom.us/s/99199273342)
+|Th, Mar 10, 2022| 1:30pm - 2:30pm | spring break |  | [https://umn.zoom.us/s/99199273342](https://umn.zoom.us/s/99199273342)
+|Th, Mar 17, 2022| 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/s/99199273342](https://umn.zoom.us/s/99199273342)
+|Th, Mar 24, 2022| 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/s/99199273342](https://umn.zoom.us/s/99199273342)
+|Th, Mar 31, 2022| 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/s/99199273342](https://umn.zoom.us/s/99199273342)
+|Th, Apr 7, 2022| 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/s/99199273342](https://umn.zoom.us/s/99199273342)
+|Th, Apr 14, 2022| 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/s/99199273342](https://umn.zoom.us/s/99199273342)
+|Th, Apr 21, 2022| 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/s/99199273342](https://umn.zoom.us/s/99199273342)
+|Th, Apr 28, 2022| 1:30pm - 2:30pm | Suguru Ishikawa |  |  [https://umn.zoom.us/s/99199273342](https://umn.zoom.us/s/99199273342)
 
 ## Abstracts
 
