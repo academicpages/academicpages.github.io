@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-01-11-BAMS-article
 excerpt: 'Meeting Summary of the 2021 Land DA Community Workshop'
 date: 2022-01-11
-venue: 'Bulletin of the American Meteorological Society Meeting Summary'
+venue: 'Bulletin of the American Meteorological Society (Meeting Summary)'
 paperurl: 'https://doi.org/10.1175/BAMS-D-21-0228.1'
 citation: 'MacBean et al. (2022)'
 ---
