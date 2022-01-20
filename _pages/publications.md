@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Published Research
+## Published research
 - 2017 - [AKP Dönemi Eğitim Politikalarına İlişkin Bir Örnek: Değerler Eğitimi](http://www.feministyaklasimlar.org/ozet/?postid=3057). (An Example from Education Policies of the AKP Period: Values Education). *Kültür ve Siyasette Feminist Yaklaşımlar*, 33, 3-26. (in Turkish)
 
-## Working Papers
+## Under review
 - Rebels with a cause: Introducing the Post-Rebel Electoral Parties Dataset. (with Carrie Manning and Ian Smith). Revised and resubmitted, Journal of Peace Research.
    -  <details><summary> Abstract </summary> <br> The Post-Rebel Electoral Parties (PREP) dataset provides longitudinal data on the electoral participation and performance in national elections of political parties formed by armed opposition groups after civil war. Post-rebel electoral parties sit at the center of overlapping research agendas that address how best to build durable peace, and how to build resilient political systems and capable states after devastating conflict. A better understanding of how and why these parties participate in and perform in elections over time is critical to any assessment of liberal peacebuilding. These parties – their strategic choices, organizational development, and impact on the political systems in which they participate – are also relevant to the broader study of comparative democratization, political parties, and party systems. Our dataset follows these parties forward through up to three decades of participation in post-war electoral politics. The current version of the data consists of 77 distinct PREP actors derived from 56 conflict actors. The data cover 321 legislative election years and 215 executive elections in 39 countries over 30 years. This article describes the data and articulates the need for and motivation behind the dataset. We then offer some illustrations of its relevance for advancing research in the study of post-conflict politics. </details>
 - An electoral path to inclusion? Post-rebel parties in post-war politics. (with Carrie Manning and Ian Smith). Submitted, a policy brief for the Folke Bernadotte Academy (FBA). 
@@ -16,14 +16,16 @@ author_profile: true
 - The glimmer of hope in the bleak future of civil society under oppressive regimes: An example from the Turkish educational civil society. Submitted to Journal of Civil Society.
   -  <details><summary> Abstract </summary> <br> This article attempts to explain the role of the educational civil society in Turkey, where the regime excessively co-opts and controls associational life while maintaining a veneer of democracy. Despite growing oppression, both liberal and government-friendly civil society organizations are rising in number and quality. Also, the regime is inclusive in terms of the policymaking process. This research shows the role of civil society under repressive competitive autocratic regimes and which mechanisms the state uses in its shifting approach to civil society organizations in policymaking. By addressing a gap in the literature, this article claims that the state co-opts government-friendly civil society organizations and alters existing laws and regulations to create a veneer of democracy. The state continues to include different civil society organizations into the policymaking process because the state’s limited capacity and civil society organizations’ extensive knowledge and expertise give invaluable insight to educational civil society in Turkey. Based on elite interviews of state officials and civil society organizations, and document research, this article can present a glimmer of hope in the bleak future of civil society under oppressive regimes. </details>
 
-## Work in Progress
+## Working papers
 - Reducing partisan affective polarization through common humanity and perspective-taking: An online survey experiment in the United States. (with Jennifer McCoy and Juan Gomez) *journal article*
 - Costly democracy: Peacebuilding and democracy after war. (with Carrie Manning) *book chapter*
 - Reversing pernicious polarization: Contexts and outcomes of depolarization around the world since 1900. (with Jennifer McCoy, Murat Somer, and Ben Press). *policy brief*
+- Organizational adaptation of the post-rebel electoral parties. (with Carrie Manning). *journal article*
+ 
+## Work in progress
 - Electoral coordination of post-rebel electoral parties. *journal article*
 - Displacing an education system through formal and informal institutional changes. *journal article*
-- Organizational adaptation of the post-rebel electoral parties. (with Carrie Manning). *journal article*
 - Parties, Politics, Peace: How Former Insurgent Groups Shape Politics After War. (with Carrie Manning and Ian Smith) *book project*
 
-## Other Publications
+## Other publications
 - 2019, July 4. (Op-Ed) [Women's Struggle in Turkey](https://yaleglobal.yale.edu/content/womens-struggle-turkey) (with Ronay Bakan). *Yale Global*.
