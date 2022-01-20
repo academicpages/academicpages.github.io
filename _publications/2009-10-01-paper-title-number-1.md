@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Building a land data assimilation community to tackle technical challenges in quantifying and reducing uncertainty in land model predictions"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2022-01-11-BAMS-article
+excerpt: 'Meeting Summary of the 2021 Land DA Community Workshop'
+date: 2022-01-11
+venue: 'BAMS'
+paperurl: 'https://doi.org/10.1175/BAMS-D-21-0228.1'
+citation: 'MacBean, N., H. Liddy, T. Quaife, J. Kolassa, and A. Fox (2021), Building a land data assimilation community to tackle technical challenges in quantifying and reducing uncertainty in land model predictions, *Bulletin of the American Meteorological Society*, https://doi.org/10.1175/BAMS-D-21-0228.1'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is a BAMS (Bulletin of the American Meteorological Society) meeting summary of our 1st Annual Land DA Community Workshop on "Tackling Technical Challenges in Land Data Assimilation" held virtually via Zoom in June 2021.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.1175/BAMS-D-21-0228.1)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: MacBean, N., H. Liddy, T. Quaife, J. Kolassa, and A. Fox (2021), Building a land data assimilation community to tackle technical challenges in quantifying and reducing uncertainty in land model predictions, *Bulletin of the American Meteorological Society*, https://doi.org/10.1175/BAMS-D-21-0228.1.
