@@ -11,12 +11,12 @@ main:
 
   - title: "Join!"
     url: /listserv/  
-  
-  - title: "Training"
-    url: /training/    
-
+ 
   - title: "Publications"
     url: /publications/
+
+  - title: "Training"
+    url: /training/    
     
   - title: "Early Career"
     url: /ecr/
