@@ -11,17 +11,17 @@ redirect_from:
 
 ## Experience
 
-- **Computational Epidemiologist**, [Biobot Analytics](https://www.biobot.io/) (2020--)
-    - Developed mathematical model of waster epidemiology's predictive value for COVID-19 activity
-    - Established data-driven thresholds of COVID-19 risk based on SARS-CoV-2 wastewater concentrations
-- **Epidemiological Assistant** (*previously Postdoctoral Fellow*), Harvard Chan School (2021--)
+- **Group Lead, Epidemiology** (*previously Computational Epidemiologist*), [Biobot Analytics](https://www.biobot.io/) (2020--)
+    - Developed mathematical model of waster epidemiology's predictive value for Covid-19 activity
+    - Established data-driven thresholds of Covid-19 risk based on SARS-CoV-2 wastewater concentrations
+- **Associate Research Scientist** (*previously Postdoctoral Fellow*), Harvard Chan School (2021)
     - Discovered quantitative evidence of antibiotic resistance “spillover” between US states
     - Made first quantification of US nationwide racial/ethnic disparities in antibiotic use
     - Created comprehensive "landscape" of antibiotic use & resistance across 72 pathogen-drug combinations
     - Differentiated role of repeated, intensive antibiotic use versus "broad" use in selecting for resistance
     - Found evidence that market factors, not medical guidelines, drive trends in antibiotic prescribing
     - Demonstrated that use of azithromycin for respiratory infections affects resistance among *N. gonorrhoeae*
-- **Research Analyst**, Institute for Public Research, [CNA](https://www.cna.org/) (2020--)
+- **Research Analyst**, Institute for Public Research, [CNA](https://www.cna.org/) (2020--2021)
     - Implemented a [Vaccine Vulnerability Index](https://www.cna.org/centers/ipr/phpr/vaccination-tool) for DHS [CISA](https://en.wikipedia.org/wiki/Cybersecurity_and_Infrastructure_Security_Agency)
     - Executed an infectious disease threat assessment for the Greater Houston Region
     - Conceptualized portions of New York City Emergency Management's Urban Risk Index

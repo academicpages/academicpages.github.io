@@ -15,18 +15,19 @@ skill sets in facilitation, technical communication, and project management.
 
 ## Work history
 
-I work at [Biobot Analytics](https://www.biobot.io) as a Computational
-Epidemiologist, connecting wastewater-based data streams with public health
-actions. Biobot currently performs COVID-19 monitoring for places
+I work at [Biobot Analytics](https://www.biobot.io), where I lead the Epidemiology
+group in the Data Science Team. Our goal is to
+connect wastewater-based data streams with public health
+actions. Biobot performs Covid-19 monitoring for places
 like [Boston, MA](https://www.mwra.com/biobot/biobotdata.htm).
 
-During COVID-19, I was a part-time Research Analyst in the [Center for Public Health
+During 2020--2021, I was a part-time Research Analyst in the [Center for Public Health
 Preparedness and Resilience](https://www.cna.org/centers/ipr/phpr/) in the
 [Institute for Public Research](https://www.cna.org/centers/ipr/) at
 [CNA](https://www.cna.org/). CNA is a nonprofit research institute that
 provides objective analysis to Federal, state, and local government. At CNA,
-my work has focused on advising US Navy, Federal agencies, and state and city
-officials, especially on COVID-19.
+I helped advise the US Navy, Federal agencies, and state and city
+officials, especially on their Covid-19 responses.
 
 As an independent epidemiological consultant with Dr. [Yonatan
 Grad](https://www.hsph.harvard.edu/yonatan-grad/), I co-designed a model used
