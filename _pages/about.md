@@ -21,6 +21,10 @@ If you need CSS-related talks or workshops, please feel free to contact me direc
 
 [Click Here to See Data Visualization on Segregation for the AJS Article](https://yongjunzhang.shinyapps.io/schsegapp/).
 
+## Call for Papers
+
+I am co-editing an anual series on cohabitation and the evolving nature of intimate and family relationships with Dr. Sampson Blair for Contemporary Perspectives in Family Research. The deadline for initial submissions is September 30, 2022. [Please click here for more details.](https://yongjunzhang.com/files/CPFR-2022-Cohabitation-Call-for-Papers.pdf)
+
 ## New Paper Alert
 Yongjun Zhang. 2021. "[Corporate Responses to COVID19: A Non-Market Strategy Approach](https://doi.org/10.1177/07311214211017587)." Sociological Perspectivies.
 
