@@ -3,4 +3,4 @@ permalink: /wg/
 title: "Working Groups"
 ---
 
-tbd
+Coming soon...
