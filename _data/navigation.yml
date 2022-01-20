@@ -2,15 +2,15 @@
 main:
   - title: "About"
     url: /overview/
-    
+ 
+  - title: "Join!"
+    url: /listserv/  
+ 
   - title: "Events"
     url: /events/ 
   
   - title: "News and Opportunities"
     url: /news/ 
-
-  - title: "Join!"
-    url: /listserv/  
  
   - title: "Publications"
     url: /publications/
