@@ -2,9 +2,6 @@
 main:
   - title: "Home"
     url: /year-archive/
-
-  - title: "Projects"
-    url: /projects/
   
   - title: "About"
     url: /about/

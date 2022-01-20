@@ -10,23 +10,22 @@ redirect_from:
 ## Portuguese ##
 E aí, beleza? 
 
-Me chamo Vinicius, tenho 20 anos. Decidi enfim criar uma página para compartilhar aprendizados e dicas nesta jornada tech.
+Me chamo Vinicius, tenho 22 anos. Decidi criar uma página para compartilhar aprendizados e dicas nesta jornada tech.
 
-Estudante de Ciência da Computação pela faculdade Anhanguera Educacional de Limeira, ainda no início de minha graduação trabalhei como Analista de Suporte, atualmente trabalho com ambientes mistos Linux/Windows desenvolvendo soluções para melhorar processos de infraestrutura em pequenas, médias, e grandes empresas.
+Graduado em Ciência da Computação pela faculdade Anhanguera Educacional de Limeira, atualmente trabalho como DevOps Support Analyst. No percurso acadêmico realcei o interesse na área de Redes, Administração de Sistemas e programação. Além disso, no início de minha graduação trabalhei como Analista de Suporte, e com ambientes mistos Linux/Windows desenvolvendo soluções para melhorar processos de infraestrutura em pequenas, médias, e grandes empresas.
 
-No percurso acadêmico realcei o interesse na área de Redes, Administração de Sistemas e  também na programação.
+A ideia é compartilhar nesta página meus estudos e aprendizados sobre Linux, DevOps, Infraestrutura, Desenvolvimento e tecnologia no geral. Confere meus [projetos](https://piholiveira.github.io/year-archive/) e bora aprender juntos! 🚀
 
-A idéia é compatilhar nesta página acadêmica dicas e artigos sobre tecnologia em geral com enfâse em Redes de Computadores, além disso um pouquinho de Ferramentas IaC (Infra as Code) e a cultura DevOps.
-
-Abraços :D
+Abraços 😄
 
 ## English ##
 Hey, what's up?
 
-My name is Vinicius, I'm 20 years old. I decided in the last weeks, create a page to share about some subjects, like my journey in IT or “Information Technology”, and also like SysAdmin. I have been interested in technology since I was a child, I can now consider passionate about technology.
+My name is Vinicius, I'm 22 years old. I created this page to share about some subjects, like DevOps, my journey in IT or “Information Technology”, and things like that. I have been interested in technology since I was a child, I can now consider passionate about technology.
 
-I am a Computer Science student, currently working as a Technical Consultant, always seeking theoretical and practical knowledge regarding tools, development, automation and network infrastructure.
+DevOps Support Analyst graduated in computer science, currently I'm passionate about technology, problem solver, and critical thinker.
 
-I have been a fan of online games, sports and music I consider hobbie. The idea is share in this academic page my studies and learnings in this tech journey.
+The idea is share in this page my studies and learnings about Linux, DevOps, Infrastructure, Development and technology in general. Check my [projects](https://piholiveira.github.io/year-archive/) and let's learn together! 🚀
 
-See you :D
+See you 😄
+
