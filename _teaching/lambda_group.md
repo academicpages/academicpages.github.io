@@ -4,6 +4,7 @@ collection: teaching
 type:
 permalink: /teaching/lambda_group
 venue:
+date: 
 location: "Lima, Perú"
 ---
 
