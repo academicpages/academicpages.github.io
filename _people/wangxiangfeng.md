@@ -28,7 +28,7 @@ permalink: /people/xfwang
 
 ### Research Area
 - Distributed Optimization and Applications
-- Multi-agent Reinforcement Learning
+- Multi-agent Learning
 - Trustworthy Machine Learning: Fairness, Privacy, etc.
 
 ---
