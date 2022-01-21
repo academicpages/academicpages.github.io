@@ -1,13 +1,13 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: ""
 excerpt: "Teaching"
 author_profile: true
 ---
 
 ## SOC591: Intro to Computational Social Science
 
-You can check the [syllabus here](https://yongjunzhang.com/files/css/CSS_Zhang_Spring2022.pdf)
+You can check oursyllabus [here](https://yongjunzhang.com/files/css/CSS_Zhang_Spring2022.pdf)
 
 ### Week 1
 
