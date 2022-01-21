@@ -88,7 +88,7 @@ redirect_from:
         <div class="member_pic" id="wangxiangfeng"></div>
         <div class="member_name"><a href="https://mail-ecnu.cn/people/xfwang">WANG Xiangfeng 王祥丰</a> </div>
         <div class="member_pos">Associate Professor 副教授 </div>
-        <div class="member_intro">Distributed Optimization, MARL, Trustworthy ML</div>
+        <div class="member_intro">Distributed Optimization, Multi-agent Learning, Trustworthy ML</div>
       </div>
     </div>
     <div class="member_item col">
