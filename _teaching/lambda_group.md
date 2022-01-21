@@ -1,9 +1,9 @@
 ---
 title: "Lambda Group"
 collection: teaching
-type:
+type: "Workshop"
 permalink: /teaching/lambda_group
-venue:
+venue: "Lambda Group, Lima"
 date: 2021-12-31
 location: "Lima, Perú"
 ---
