@@ -25,9 +25,10 @@ Please also find more information from my
 
 News
 ------
+- Jan 20: Our paper has been accepted to [ICLR 2022](https://iclr.cc/). Stay tuned!
 - Oct 5: New [preprint](https://arxiv.org/abs/2110.00708) of our IJCB paper is now available on ArXiv. 
 - July 24: Our [IJCB paper](https://ieeexplore.ieee.org/document/9484380) is now available.
-- July 18: I will be presenting at [TPDP 2021](https://tpdp.journalprivacyconfidentiality.org/2021/). 
+<!-- - July 18: I will be presenting at [TPDP 2021](https://tpdp.journalprivacyconfidentiality.org/2021/).  -->
 <!-- - Jun 2: Our paper is accepted to [IJCB 2021](http://ijcb2021.iapr-tc4.org/). Stay tuned! -->
 <!-- - Nov 3: Our [Interspeech 2020](http://www.interspeech2020.org/) presentation is now available [here](http://www.interspeech2020.org/index.php?m=content&c=index&a=show&catid=274&id=534). -->
 
