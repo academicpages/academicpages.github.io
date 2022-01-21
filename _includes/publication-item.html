@@ -1,0 +1,23 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<li class="{{ include.type | default: "list" }}__item" style="margin-bottom: -1em;">
+<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+<p>
+{{ post.authors }}:<br/>
+<a href="{{ base_path }}{{ post.url }}" rel="permalink"><b>{{ title }}</b></a><br/>
+{% if post.venue-url %}<a href="{{ post.venue-url }}">{% endif %}<i>{{ post.venue }}</i>{% if post.venue-url %}</a>{% endif %}.
+</p>
+</article>
+</li>
