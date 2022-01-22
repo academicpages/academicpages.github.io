@@ -80,21 +80,15 @@
     <!-- Content Row -->
     <div class="row">
         {% assign content_col_size = "col-md-12" %}
-        <!-- Content Column -->
-        {% assign content_col_size = "col-md-9" %}
         <div class="{{content_col_size}}" id="tg-sb-content">
             {{content}}
-        </div>
-        <!-- Sidebar Column -->
-        <div class="col-sm-3" id="tg-sb-sidebar">
-            {% include toc.html %}
         </div>
     <!-- /.row -->
 </div>
 <!-- /.container -->
 </div>
 <!-- /#main -->
-    </div>
+  </div>
 
 </body>
 {% if site.google_analytics %}

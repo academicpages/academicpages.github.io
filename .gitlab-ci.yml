@@ -1,0 +1,26 @@
+image: ruby:2.3
+
+variables:
+  JEKYLL_ENV: production
+
+test:
+  stage: test
+  script:
+  - sh ./var/build.sh
+  - bundle exec jekyll build -d test
+  artifacts:
+    paths:
+    - test
+  except:
+  - master
+
+pages:
+  stage: deploy
+  script:
+  - sh ./var/build.sh
+  - bundle exec jekyll build -d public
+  artifacts:
+    paths:
+    - public
+  only:
+  - master

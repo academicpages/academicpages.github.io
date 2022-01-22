@@ -1,0 +1,18 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    #- title: GitHub
+    #  external_url: https://github.com/tomjoht/documentation-theme-jekyll
+    - title: CV
+      url: /cv
+    - title: Publications
+      url: /publications
+    - title: Talks
+      url: /talks
+    - title: Misc
+      url: /misc
+
+
+# Copyright 2021 Google LLC
