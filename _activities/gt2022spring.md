@@ -13,7 +13,7 @@ author_profile: false
 |Th, Feb 3, 2022| 1:30pm - 2:30pm |  Jiayin Pan | The escape phenomenon in open manifolds with nonnegative Ricci curvature | [https://umn.zoom.us/s/99199273342](https://umn.zoom.us/s/99199273342)
 |Th, Feb 10, 2022| 1:30pm - 2:30pm | Zhichao Wang |  | [https://umn.zoom.us/s/99199273342](https://umn.zoom.us/s/99199273342)
 |Th, Feb 17, 2022| 1:30pm - 2:30pm | Peng Zhou | Variation of GIT quotients and Variation of Lagrangian skeleton | [https://umn.zoom.us/s/99199273342](https://umn.zoom.us/s/99199273342)
-|Th, Feb 24, 2022| 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/s/99199273342](https://umn.zoom.us/s/99199273342)
+|Th, Feb 24, 2022| 1:30pm - 2:30pm | Alex Waldron |  | [https://umn.zoom.us/s/99199273342](https://umn.zoom.us/s/99199273342)
 |Th, Mar 3, 2022| 1:30pm - 2:30pm | Andrew Sageman-Furnas |  | [https://umn.zoom.us/s/99199273342](https://umn.zoom.us/s/99199273342)
 |Th, Mar 10, 2022| 1:30pm - 2:30pm | spring break |  | [https://umn.zoom.us/s/99199273342](https://umn.zoom.us/s/99199273342)
 |Th, Mar 17, 2022| 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/s/99199273342](https://umn.zoom.us/s/99199273342)
