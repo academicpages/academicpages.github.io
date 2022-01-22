@@ -1,31 +1,105 @@
----
-layout: compress
----
-
-{% include base_path %}
-
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
+<!DOCTYPE html>
+<html>
+<head>
     {% include head.html %}
-    {% include head/custom.html %}
-  </head>
+    <script>
+        $(document).ready(function() {
+            // Initialize navgoco with default options
+            $("#mysidebar").navgoco({
+                caretHtml: '',
+                accordion: true,
+                openClass: 'active', // open
+                save: false, // leave false or nav highlighting doesn't work right
+                cookie: {
+                    name: 'navgoco',
+                    expires: false,
+                    path: '/'
+                },
+                slide: {
+                    duration: 400,
+                    easing: 'swing'
+                }
+            });
 
-  <body>
+            $("#collapseAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', false);
+            });
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
+            $("#expandAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', true);
+            });
 
-    {{ content }}
+        });
 
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
+    </script>
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+    <script>
+        $(document).ready(function() {
+            $("#tg-sb-link").click(function() {
+                $("#tg-sb-sidebar").toggle();
+                $("#tg-sb-content").toggleClass('col-md-9');
+                $("#tg-sb-content").toggleClass('col-md-12');
+                $("#tg-sb-icon").toggleClass('fa-toggle-on');
+                $("#tg-sb-icon").toggleClass('fa-toggle-off');
+            });
+        });
+    </script>
+    {% if page.datatable == true %}
+    <!-- Include the standard DataTables bits -->
+    <link rel="stylesheet" type="text/css" href="//cdn.datatables.net/1.10.13/css/jquery.dataTables.css">
+    <script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.10.13/js/jquery.dataTables.js"></script>
+    <!-- First, this walks through the tables that occur between ...-begin
+         and ...-end and add the "datatable" class to them.
+         Then it invokes DataTable's standard initializer
+         Credit here: http://www.beardedhacker.com/blog/2015/08/28/add-class-attribute-to-markdown-table/
+      -->
+    <script>
+      $(document).ready(function(){
+          $('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
+          $('table.display').DataTable( {
+              paging: true,
+              stateSave: true,
+              searching: true
+          });
+       });
+    </script>
+    {% endif %}
+
+</head>
+<body>
+{% include topnav.html %}
+<!-- Page Content -->
+<div class="container">
+  <div id="main">
+    <!-- Content Row -->
+    <div class="row">
+        {% assign content_col_size = "col-md-12" %}
+        <!-- Content Column -->
+        {% assign content_col_size = "col-md-9" %}
+        <div class="{{content_col_size}}" id="tg-sb-content">
+            {{content}}
+        </div>
+        <!-- Sidebar Column -->
+        <div class="col-sm-3" id="tg-sb-sidebar">
+            {% include toc.html %}
+        </div>
+    <!-- /.row -->
+</div>
+<!-- /.container -->
+</div>
+<!-- /#main -->
     </div>
 
-    {% include scripts.html %}
-
-  </body>
+</body>
+{% if site.google_analytics %}
+{% include google_analytics.html %}
+{% endif %}
 </html>
+
+{% comment %} Copyright 2021 Google LLC {% endcomment %}
