@@ -26,7 +26,8 @@ redirect_from:
 
 <p>
   Multi-agent Artificial Intelligence Laboratory (MAIL) belongs to School of Computer Science and Technology at East China Normal University. MAIL focuses on developing advanced methods for multi-agent system management, especially on 
-  
+</p>
+<p>
   - Multi-agent reinforcement learning
   
   - Distributed optimization theory and algorithms
