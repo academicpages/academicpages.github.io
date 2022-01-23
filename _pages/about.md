@@ -15,7 +15,7 @@ I received the Ph.D. degree in mechanical engineering, specializing in robotics 
 
 **Recent News:**
 
-[Dec. 06, 2021](http://jiewang.name/publications/GP-FBLMPC2021/): Finalizing our GP-FBLMPC algorithm [Paper](http://jiewang.name/publications/GP-FBLMPC2021/) to be submitted to IEEE/ASME Transactions on Mechatronics.
+[Dec. 20, 2021](http://jiewang.name/publications/GP-FBLMPC2021/): Submitted our GP-FBLMPC algorithm [Paper](http://jiewang.name/publications/GP-FBLMPC2021/) to IEEE/ASME Transactions on Mechatronics with a supplementary [video](https://www.youtube.com/watch?v=tC09jJQ0OXM). 
 
 [Nov. 11, 2021](http://jiewang.name/publications/simulator2021/): A quantitative comparison of CoppeliaSim, Gazebo, MORSE and Webots robot simulator [Paper](http://jiewang.name/publications/simulator2021/) was submited. 
 
