@@ -8,20 +8,26 @@ author_profile: true
 ## Under review
 <b>[Risk-Aware ReinforcementLearning Based Bid Optimization](??)
 </b><br><b>Zhimeng Jiang</b>, Kaixiong Zhou, Mi Zhang, Rui Chen, Xia Hu, and Soo-Hyun Choi.
+<b>[FMP: Toward Fair Graph Message Passing against Topology Bias](??)
+</b><br><b>Zhimeng Jiang</b>, Xiaotian Han, Chao Fan, Zirui Liu, Zou Na, Ali Mostafavi and Xia Hu.
+<b>[G-Mixup: Graph  Augmentation  for  GraphClassification](??)
+</b><br>Xiaotian Han, <b>Zhimeng Jiang</b>, Ninghao Liu, and Xia Hu. 
+<b>[You Only Debias Once: Towards Flexible Accuracy-Fairness Trade-offs](??)
+</b><br>Xiaotian Han, Tianlong Chen, Kaixiong Zhou <b>Zhimeng Jiang</b>, Ninghao Liu, and Xia Hu. 
 
+
+## Conference Papers
 <b>[An Information FusionApproach to Learning with Instance-Dependent Label Noise](??)
 </b><br><b>Zhimeng Jiang</b>, Kaixiong Zhou, Zirui Liu, Li Li, Rui Chen, Soo-Hyun Choi, and Xia Hu. 
+In Proceedings of International Conference on Learning Representations (ICLR), 2022
 
 <b>[Generalized DemographicParity for Group Fairness](??)
 </b><br><b>Zhimeng Jiang</b>, Xiaotian Han, Chao Fan, Fan Yang, Ali Mostafavi, and Xia Hu. 
+In Proceedings of International Conference on Learning Representations (ICLR), 2022
 
 <b>[Geometric Graph RepresentationLearning via Maximizing Rate Reduction](??)
 </b><br>Xiaotian Han, <b>Zhimeng Jiang</b>, Ninghao Liu, Qingquan Song, Jundong Li, and Xia Hu.
-
-
-<b>[G-Mixup: Graph  Augmentation  for  GraphClassification](??)
-</b><br>Xiaotian Han, <b>Zhimeng Jiang</b>, Ninghao Liu, and Xia Hu. 
-
+In Proceedings of the 31th International Conference on World Wide Web Companion (WWW), 2022
 
 ## Paper related to Optical Wireless Communication
 <b>[On the Achievable Rate and Capacity of a Sample-Based Practical Photon-Counting Receiver](https://ieeexplore.ieee.org/abstract/document/9452170)
