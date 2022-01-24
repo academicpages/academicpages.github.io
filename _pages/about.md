@@ -10,7 +10,7 @@ redirect_from:
 
 
 <a href="http://www.hectorbahamonde.com/">
-<img src="/resources/profile2.jpeg" alt="me"  style="width:386px;height:330;;border:0;">
+<img src="/resources/Profile4.jpeg" alt="me"  style="width:386px;height:330;;border:0;">
 </a>
 
 I am a Senior Researcher at the University of Turku, Finland. I am affiliated with the [INVEST Flagship Center](https://invest.utu.fi) and the Political Science unit at UTU.
