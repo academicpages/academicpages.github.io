@@ -14,4 +14,4 @@ I received my bachelor’s degree in Mathematics in 2016 from the <a href="https
 
 News
 ======
-* **14 Dec 2021** New <a href="https://arxiv.org/abs/2112.07344/" target="_blank">manuscript</a> with <a href="http://cse.lab.imtlucca.it/~bemporad/" target="_blank">A. Bemporad</a> on a new algorithm for training overparameterized neural networks uploaded to <a href="https://arxiv.org/abs/2112.07344/" target="_blank">arXiv</a>.
+* **14 Dec 2021** New <a href="https://arxiv.org/abs/2112.07344/" target="_blank">manuscript</a> _prepared together with_ <a href="http://cse.lab.imtlucca.it/~bemporad/" target="_blank">_A. Bemporad_</a> on a new algorithm for training overparameterized neural networks uploaded to <a href="https://arxiv.org/abs/2112.07344/" target="_blank">arXiv</a>.
