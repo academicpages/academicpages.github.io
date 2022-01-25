@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Paul Prevel / Site Title"
+title                    : "Paul Prevel"
 title_separator          : "-"
-name                     : &name "Paul Prevel"
-description              : &description "personal description"
-url                      : https://Polymere.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name ""
+description              : &description "Robotics Engineer"
+url                      : http://127.0.0.1:4000/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Polymere.Polymere.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "false" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Paul Prevel"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Robotics Engineer M.Sc."
+  location         : "Worldwide"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=paul+prevel"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=paul+prevel"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "paul.prevel@protonmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "paul-prevel-060b3471"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -234,7 +234,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
