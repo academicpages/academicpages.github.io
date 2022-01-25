@@ -29,18 +29,21 @@ I am a Senior Researcher at the University of Turku, Finland. I am affiliated wi
 Next Talks/Conferences
 ============
 
-1. Oct. 26th 2021:  [DPINVEST & INVESThub Workshop on interventions, evaluations and field experiments](https://invest.utu.fi/events/dpinvest-investhub-workshop-on-interventions-evaluations-and-field-experiments/).
+1. May 5th-8th 2022: Latin American Studies Association Conference, San Francisco, California, USA.
+
+2. Jan. 26th 2022: General Seminar, Åbo Akademi, Turku, Finland.
+
+3. Dec. 17th 2021: Political Science Research Seminar, University of Turku, Turku, Finland.
+
+4. Dec. 14th 2021: TSE Economics weekly Research Seminar, University of Turku, Turku, Finland.
+
+5. Nov. 19th.: INVEST Scientific Seminar, University of Turku, Turku, Finland.
+
+6. Oct. 26th 2021:  [DPINVEST & INVESThub Workshop on interventions, evaluations and field experiments](https://invest.utu.fi/events/dpinvest-investhub-workshop-on-interventions-evaluations-and-field-experiments/). University of Turku, Turku, Finland.
 
 
-1. Jan. 26th 2022: General Seminar, Åbo Akademi, Turku, Finland.
 
-2. Nov. 19th.: INVEST Scientific Seminar, Turku, Finland.
 
-3. Dec. 14th 2021: TSE Economics weekly Research Seminar, University of Turku, Finland.
-
-4. Dec. 17th 2021: Political Science Research Seminar, University of Turku, Finland.
-
-5. May 2022: Latin American Studies Association Conference, San Francisco, California, USA.
 
 
 <!---
