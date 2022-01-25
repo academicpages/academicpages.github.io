@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This page is sadly a bit out of date. [Click here for full up to date CV in PDF (updated November 9th 2021)](http://nikhil-sarin.github.io/files/nikhil_cv.pdf)
+[Click here for full CV in PDF (updated November 9th 2021)](http://nikhil-sarin.github.io/files/nikhil_cv.pdf)
 
 Education
 ======
@@ -18,6 +18,8 @@ Education
 
 Work experience
 ======
+* Nordita Institute & Stockholm University: November 2021-Ongoing
+  * Nordita Fellow.
 * Monash University: July 2021 - November 2021
   * Postdoctoral research fellow.
 * Monash University: Feb 2017 - January 2021
@@ -36,8 +38,9 @@ Skills
 
 Awards
 ======
-* ASA Conference - Runner-up in best student talk competition at the Annual Astronomical Society of Australia (ASA) meeting 2018.
+* Nordita Postdoctoral Fellowship 2021-2024.
 * Australian Research Council Research Training Scheme - PhD Scholarship 2018-2021
+* ASA Conference - Runner-up in best student talk competition at the Annual Astronomical Society of Australia (ASA) meeting 2018.
 * MoCA Prize - Best astrophysics honours student at Monash, 2017
 * J.L Williams Honours scholarship, 2017
 
