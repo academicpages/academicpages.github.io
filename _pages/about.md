@@ -15,5 +15,4 @@ Check out the [CV](https://lonsbio.com.au/cv/) page for more details on the long
 I am currently a bioinformatics post-doc at the [Peter MacCallum Cancer Centre](https://www.petermac.org/). 
 
 
-Work/Life: 👨‍👧💻💻💻💻👨‍👩‍👧👨‍👩‍👧
-
+Work/Life: 👨‍👩‍👧‍👧💻💻💻💻👨‍👩‍👧‍👧👨‍👩‍👧‍👧 
