@@ -31,13 +31,17 @@ Next Talks/Conferences
 
 1. Oct. 26th 2021:  [DPINVEST & INVESThub Workshop on interventions, evaluations and field experiments](https://invest.utu.fi/events/dpinvest-investhub-workshop-on-interventions-evaluations-and-field-experiments/).
 
-2. Nov. 19th.: INVEST Scientific Seminar.
 
-3. Dec. 14th 2021: TSE Economics weekly Research Seminar, University of Turku.
+1. Jan. 26th 2022: General Seminar, Åbo Akademi, Turku, Finland.
 
-4. Dec. 17th 2021: Political Science Research Seminar, University of Turku.
+2. Nov. 19th.: INVEST Scientific Seminar, Turku, Finland.
+
+3. Dec. 14th 2021: TSE Economics weekly Research Seminar, University of Turku, Finland.
+
+4. Dec. 17th 2021: Political Science Research Seminar, University of Turku, Finland.
 
 5. May 2022: Latin American Studies Association Conference, San Francisco, California, USA.
+
 
 <!---
 Job Market
