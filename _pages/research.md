@@ -11,9 +11,9 @@ redirect_from:
 
 -  Hector Bahamonde (2022). "Still for Sale: The Micro-Dynamics of Vote Selling in the United States, Evidence from a List Experiment." In: Acta Politica 57.1, pp. 73-95. <br/> [[Paper]](https://doi.org/10.1057/s41269-020-00174-4). [[Data]](https://github.com/hbahamonde/Replication_Materials/tree/master/AP_2020).
 
--  Hector Bahamonde and Mart Trasberg (2021). "Inclusive Institutions, Unequal Outcomes: Democ- racy, State Capacity, and Income Inequality." In: European Journal of Political Economy 70. May, p. 102048. <br/> [[Paper]](https://doi.org/10.1016/j.ejpoleco.2021.102048). [[Cumulative Census Data]](https://github.com/hbahamonde/Inequality_State_Capacity/raw/main/Bahamonde_Trasberg_%20Cumulative%20census_Replication_Data.dta). [[Media coverage (NYT)]](https://www.nytimes.com/2021/08/04/opinion/biden-eviction-covid-democrats.html).
+-  Hector Bahamonde and Mart Trasberg (2021). "Inclusive Institutions, Unequal Outcomes: Democracy, State Capacity, and Income Inequality." In: European Journal of Political Economy 70. May, p. 102048. <br/> [[Paper]](https://doi.org/10.1016/j.ejpoleco.2021.102048). [[Cumulative Census Data]](https://github.com/hbahamonde/Inequality_State_Capacity/raw/main/Bahamonde_Trasberg_%20Cumulative%20census_Replication_Data.dta). [[Media coverage (NYT)]](https://www.nytimes.com/2021/08/04/opinion/biden-eviction-covid-democrats.html).
 
-- Felix Modrego, Andrea Canales, and Hector Bahamonde (2020). "Employment Effects of COVID- 19 Across Chilean Regions: An Application of the Translog Cost Function." In: Regional Science Policy & Practice 12.6, pp. 1151-1167. <br/> [[Paper]](https://doi.org/10.1111/rsp3.12337).
+- Felix Modrego, Andrea Canales, and Hector Bahamonde (2020). "Employment Effects of COVID-19 Across Chilean Regions: An Application of the Translog Cost Function." In: Regional Science Policy & Practice 12.6, pp. 1151-1167. <br/> [[Paper]](https://doi.org/10.1111/rsp3.12337).
 
 - Hector Bahamonde (2018). "Aiming Right at You: Group versus Individual Clientelistic Targeting in Brazil." In: Journal of Politics in Latin America 10.2, pp. 41-76 <br/> [[Paper]](https://journals.sub.uni-hamburg.de/giga/jpla/article/view/1121/1128). [[Data]](https://github.com/hbahamonde/Replication_Materials/tree/master/JPLA_2018).
 
