@@ -1,25 +1,27 @@
 ---
-title: "Data and Code"
-permalink: /datacode/
+title: "Data Science Projects"
+permalink: /datascience/
 author_profile: true
 ---
 
-Data and code packets for published papers are either available on the publication website or upon request from my coauthors and I (except when data sharing limitations apply).
-
-### Complete
-Minimum Driving Age Database
-* [Initial Release (Nov. 2020)](https://github.com/cseveren/MinimumDrivingAgeDatabase)
-* Covers historical state-level minimum driver license ages from (1968-2015)
-
-Philly-area electricity-based indicator of economic disruption (discontinued Summer 2020):
-* [Results, data, and code](https://github.com/cseveren/PA-Electricity-Economic-Disruption)
 
 
-### In Progress
-* Historical county-level vehicle registration data in the United States (1900-1960)
+### [Recidivism Forecasting Challenge] (https://nij.ojp.gov/funding/recidivism-forecasting-challenge) - Complete
+* Prizewinner of Machine Learning Contest hosted by National Institute of Justice ($19,500)
+* Predicted recidivism using person and place-based variables with the goal of improving outcomes for those serving a community supervision sentence.
+* Utilised Xgboost, Adaboost, LightGBM, CatBoost, Autoencoder, and Logistic Regression algorithms using Python libraries
+* You can find the code on [my github page](https://github.com/assamidanov/RecedivismForecasting)
 
-### Useful Tweets
-* [Spatial Methods: Querying from HERE (in R) for matrix of travel times](https://twitter.com/ChrisSeveren/status/1255944834201923586)
-* [Spatial Methods: Using Graphhopper (using R and Java) to get shapefiles of optimal routes at scale](https://twitter.com/ChrisSeveren/status/1288167885739888640)
+### School Closure and Digital Learning Marker - Complete
+
+In this work, we analyzed the impact of the COVID-19 on the digital learning market. Mainly, we tested how the school closure order has changed the useage of digital learning platforms. To examine this hypothesis, we utilized the data provided by the LearnPlatform organization. The code and Data visualization is publicly available on my [Kaggle page](https://www.kaggle.com/anuaranuar/school-closure-and-digital-learning-marker)
+
+
+### Recommendation System - In Progress
+_with 211 LA Data Team_
+* Developed Recommender System using cutting-edge Deep Learning and Machine Learning models in Pytorch and Sklearn
+* Deployed the model using Flask, Docker and Google Cloud Platforms
+* Develop A/B test plans and manage implementation
+
 
 
