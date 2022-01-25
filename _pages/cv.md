@@ -20,21 +20,10 @@ Relevant Experience
 ===================
 
 * IT Specialist - IT Infrastructure & Business Continuity - Mar 2018 - Present
-* *Labcorp*
-  * Duties included: Windows & Linux Systems Administration, Network Administration, Tier 2 End User Support for 6 States & Puerto Rico, Project Management, and Task Automation.
+  * *Labcorp*
+    * Duties included: Windows & Linux Systems Administration, Network Administration, Tier 2 End User Support for 6 States & Puerto Rico, Project Management, and Task Automation.
 * Systems Architect - May 2018 - Present
-* *Homelab*
-  * Built, automated, and mainted production-level systems solely for the purpose of learning and enjoying the technology
-  * Systems include:
-    * VMWare suite (vSphere including ESXi, vRealize)
-      * Other virtualization/hypervisor solutions used include Proxmox, Citrix, Hyper-V, and SUSE Harvester.
-    * Docker
-    * Linux Servers running Ubuntu, RHEL (CentOS), Rocky Linux.
-    * Automation using Ansible, Rancher, and Kubernetes (k3s).
-    * Windows Servers performing ADFS, ADDS, DNS, DHCP, Group Policy, Azure AD sync, SCCM, and more.
-    * Hardware that includes Cisco Switches, Ubiquiti switches and routers, and Dell and HP servers.
-    * Networking providing RADIUS, Remote User VPN, VLANs, firewall, and IDS/IPS services.
-    * Currently learning/improving on Ansible, Kubernetes, SCCM, and Python.
+  * See *Homelab* in Projects below
 
 Skills
 ======
@@ -53,7 +42,23 @@ Skills
 Projects
 ========
 
-* Homelab (Update in Progress)
+### Xpress Order Management | Web app for teams across the nation to order tests
+
+* Developed and deployed multi-environment (Dev/QA/Prod) Flask web app
+* Integrated LDAP and OAuth authentication, registration, tiered permissions, and password reset
+* Implemented Docker containerization to deploy at scale with NGINX and Gunicorn
+* Utilized Bootstrap along with Jinja2 to dynamically update the data and UI
+* Designed a complex databases with SQLite, PostgreSQL, order data, and permissions
+* Building reporting dashboard for national teams to understand their workloads, business cost, and patient data
+
+### Homelab | Highly-available 8 node ESXi cluster managed by VMWare vSphere, Active Directory, Linux, Docker, Azure
+
+* Designed, deployed, and maintained production-level systems solely for the purpose of learning more about them
+* Designed systems around hardware constrains (Dell R510, R620, R430s) in a highly available 8 node cluster
+  utilizing vSphere, IPMI, Reverse Proxy with NGINX, and container deployment and management
+* Implemented Docker containerization for individual services with source-controlled configuration
+* Designed networks with multiple VLANs for segmentation of services such as IoT, Servers, End Users, and Security
+* Automated various deployments using Powershell and Bash
 
 Service and leadership
 ======================
