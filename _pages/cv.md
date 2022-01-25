@@ -23,7 +23,18 @@ Relevant Experience
   * *Labcorp*
     * Duties included: Windows & Linux Systems Administration, Network Administration, Tier 2 End User Support for 6 States & Puerto Rico, Project Management, and Task Automation.
 * Systems Architect - May 2018 - Present
-  * See *Homelab* in Projects below
+  * *Homelab*
+    * Built, automated, and mainted production-level systems solely for the purpose of learning and enjoying the technology
+    * Systems include:
+      * VMWare suite (vSphere including ESXi, vRealize)
+        * Other virtualization/hypervisor solutions used include Proxmox, Citrix, Hyper-V, and SUSE Harvester.
+      * Docker
+      * Linux Servers running Ubuntu, RHEL (CentOS), Rocky Linux.
+      * Automation using Ansible, Rancher, and Kubernetes (k3s).
+      * Windows Servers performing ADFS, ADDS, DNS, DHCP, Group Policy, Azure AD sync, SCCM, and more.
+      * Hardware that includes Cisco Switches, Ubiquiti switches and routers, and Dell and HP servers.
+      * Networking providing RADIUS, Remote User VPN, VLANs, firewall, and IDS/IPS services.
+      * Currently learning/improving on Ansible, Kubernetes, SCCM, and Python.
 
 Skills
 ======
@@ -42,7 +53,7 @@ Skills
 Projects
 ========
 
-### Xpress Order Management | Web app for teams across the nation to order tests
+Xpress Order Management | Web app for teams across the nation to order tests
 
 * Developed and deployed multi-environment (Dev/QA/Prod) Flask web app
 * Integrated LDAP and OAuth authentication, registration, tiered permissions, and password reset
@@ -51,7 +62,7 @@ Projects
 * Designed a complex databases with SQLite, PostgreSQL, order data, and permissions
 * Building reporting dashboard for national teams to understand their workloads, business cost, and patient data
 
-### Homelab | Highly-available 8 node ESXi cluster managed by VMWare vSphere, Active Directory, Linux, Docker, Azure
+Homelab | VMWare vSphere, Active Directory, Linux, Docker, Azure
 
 * Designed, deployed, and maintained production-level systems solely for the purpose of learning more about them
 * Designed systems around hardware constrains (Dell R510, R620, R430s) in a highly available 8 node cluster
@@ -59,6 +70,7 @@ Projects
 * Implemented Docker containerization for individual services with source-controlled configuration
 * Designed networks with multiple VLANs for segmentation of services such as IoT, Servers, End Users, and Security
 * Automated various deployments using Powershell and Bash
+* Provides various services including OpenID (OAuth2), public and intranet web hosting, NAS storage, VDI remote environments, logging and monitoring with tools like Grafana, Elasticsearch, and logstash, and much more
 
 Service and leadership
 ======================
