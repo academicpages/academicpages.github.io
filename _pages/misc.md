@@ -7,4 +7,5 @@ author_profile: true
 
 Below you may find some miscellaneous links and materials of interest. I am trying to expand this section, so be patient with me!
 
-- I was an International Student Delegate at my department at GSU. [Here is a short guide that I prepared for international students looking for housing in Atlanta, GA](https://ozlemtuncel.github.io/files/international_student.pdf)
+- A guide for graduate students to learn [coding in R.](https://ozlemtuncel.github.io/files/Learning_R.pdf)
+- I was an International Student Delegate at my department at GSU. [Here is a short document that I prepared for international students looking for housing in Atlanta, GA.](https://ozlemtuncel.github.io/files/international_student.pdf)
