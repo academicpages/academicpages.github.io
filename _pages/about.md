@@ -12,7 +12,7 @@ I am a NORDITA Fellow at the Nordita Institute and Stockholm University working 
 I am a member of the LIGO Scientific Collaboration (LSC) and the Australian research council centre for excellence for gravitational-wave discovery, OzGrav.
 
 # Recent News
-* Januart 24th 2022: _Linking the rates of neutron star binaries and short gamma-ray bursts_ submitted to Phys Review D. Check it out on the [arXiv](https://arxiv.org/abs/2201.08491).
+* January 24th 2022: _Linking the rates of neutron star binaries and short gamma-ray bursts_ submitted to Phys Review D. Check it out on the [arXiv](https://arxiv.org/abs/2201.08491).
 * January 22-28th 2022: This week I am in Switzerland attending the Saas-fee winter school on gravitational waves and multi-messenger astronomy. And Skiing!
 * December 2021: _Multimessenger astronomy with a kHz-band gravitational-wave observatory_ accepted in PASA. See it on [arXiv](https://arxiv.org/abs/2110.10892).
 * October 21st 2021: _Multimessenger astronomy with a kHz-band gravitational-wave observatory_ submitted to PASA. See it on [arXiv](https://arxiv.org/abs/2110.10892).
