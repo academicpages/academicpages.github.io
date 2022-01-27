@@ -15,6 +15,6 @@ Before joining Cambridge Computer Lab, I was involved in two different research 
 
 In addition to my research experiences, I also worked as a freelance software engineer from February until October 2020. During this period, I developed a mobile app using image hashcoding algorithms as well as creating custom widgets within Kivy framework in Python.
 
-I am a female electronics engineer from Turkey, who don't really like being addressed as Mr Gokbudak! Except for Turkey, I lived in Germany for around seven months as a summer school and exchange student. Also, I studied my master's in the UK at the University of Edinburgh. You can find my educational experiences about these countries in [Blog Posts](https://faziletgokbudak.github.io/year-archive/).
-
+<!-- I am a female electronics engineer from Turkey, who don't really like being addressed as Mr Gokbudak! Except for Turkey, I lived in Germany for around seven months as a summer school and exchange student. Also, I studied my master's in the UK at the University of Edinburgh. You can find my educational experiences about these countries in [Blog Posts](https://faziletgokbudak.github.io/year-archive/).
+ -->
 Welcome to my website!
