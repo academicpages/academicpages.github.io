@@ -12,11 +12,11 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Robotics, Ecole Polytechnique Fédérale de Lausanne (EPFL)
+* M.Sc. in Robotics, EPFL
   * Minor in Computational neuroscience
   * Focus on Mobile Robots, Machine Learning, Computer Vision and Control Systems
 
-* B.Sc. in Micro-engineering, Ecole Polytechnique Fédérale de Lausanne (EPFL)
+* B.Sc. in Micro-engineering, EPFL
 
 
 
@@ -34,11 +34,21 @@ sensor
   
 Skills
 ======
-* Python
-  * Machine learning, signal/image processing, data analysis
-  * Libraries: Sklearn, Scipy, Numpy, Pandas, Pytorch, Keras, OpenCV
 
-* ROS
+<!-- * Machine learning -->
+  
+* Programmation
+  * Python
+  * CPP
+
+* Software
+  * Linux / bash
+  * ROS
+
+* Language
+  * Native French / Spanish
+  * Advanced English
+
 
 
 <!-- Publications
