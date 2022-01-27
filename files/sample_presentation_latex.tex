@@ -1,0 +1,149 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% DO NOT CHANGE THIS SECTION IF YOU WANT TO %%%
+% KEEP THE EXISTING PRESENTATION DESIGN %%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[15pt, xcolor=dvipsnames]{beamer}
+\usepackage[utf8]{inputenc}
+\setbeamertemplate{navigation symbols}{} % REMOVES NAVIGATION SYMBOLS IN PDF 
+\setbeamertemplate{footline}[frame number]
+\useoutertheme{miniframes}
+\setbeamertemplate{blocks}[shadow=true] % USE THIS FOR BLOCKS
+\usepackage{graphicx}
+\usepackage[round]{natbib} % REMOVE IF YOU ARE NOT USING ANY REFERENCES
+\AtBeginSection[]{\subsection{}}
+\usepackage{color, soul, xcolor}
+% color scheme 
+\definecolor{UBCblue}{rgb}{0.04706, 0.13725, 0.26667}
+\usecolortheme[named=UBCblue]{structure}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+} % CHANGE COLORS TO YOUR DESIRE
+% ADD THESE PACKAGES FOR EQUATIONS AND ALL THAT MATH YOU NEED
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+
+
+
+% TITLE + AUTHOR + DATE INFORMATION
+
+\title{Title of Your Presentation}
+\subtitle{Subtitle if you need one}
+\author[shortname]{Author One\inst{1} \and Author Two\inst{2} \and Author Three\inst{1}}
+\institute[shortinst]{\inst{1} Department of XYZ, ABC University \\
+                      \inst{2} Department of XYZT, ABCD University}
+\date{Insert Date Here} % LEAVE EMPTY FOR TODAY'S DATE
+
+\begin{document}
+
+\maketitle
+
+% THERE ARE TWO MAIN COMPONENTS YOU NEED TO KNOW: SECTION AND FRAME
+% SECTION GROUPS FRAMES AND VERY HELPFUL FOR OUTLINING YOUR PRESENTATION 
+% YOU CAN SEE SECTIONS AT THE TOP OF YOUR PRESENTATION
+% FRAME IS EACH PRESENTATION PAGE WHERE YOU PROVIDE INFORMATION 
+% THERE CAN BE MULTIPLE FRAMES UNDER EACH SECTION 
+% FOR EACH FRAME, THERE IS A SMALL DOT UNDER THE SECTION NAME 
+
+
+% YOUR FIRST SECTION
+\section{First Section} 
+
+% ADD TABLE OF CONTENTS IF YOU WANT 
+\begin{frame}
+\frametitle{Table of Contents}
+\tableofcontents
+\end{frame}
+
+% YOUR FIRST PAGE
+\begin{frame}{Put title of that page here}
+You can put your text here, or insert images. 
+\end{frame}
+
+% YOUR SECOND PAGE 
+\begin{frame}{Page with a figure \ref{fig:FIRST_FIGURE}}
+
+\begin{figure}
+    \centering % CENTERS THE FIGURE
+    \includegraphics[keepaspectratio=true, height=0.8\textheight]{PUT_IMAGE_HERE.jpg}
+    \caption{My first figure in beamer.}
+    \label{fig:FIRST_FIGURE}
+\end{figure}
+    
+\end{frame}
+
+% YOUR THIRD PAGE 
+\begin{frame}{Put title of that page here}
+You can also have numbered lists here:
+
+\begin{enumerate}
+    \item Here is my first point
+    \item Here is my second point
+    \item \ldots
+\end{enumerate}
+
+\end{frame}
+
+% ANOTHER PAGE
+\begin{frame}{Frame Title}
+You can also have bullet point lists here:
+
+\begin{itemize}
+    \item Here is bullet point 1
+    \item Here is another one
+\end{itemize}
+
+\end{frame}
+
+% SECOND SECTION
+
+\section{Second Section}
+
+% YOUR PAGE 
+\begin{frame}{You can have two columns in your presentation}
+\begin{columns}
+\begin{column}{0.48\linewidth}
+\begin{center}
+   \includegraphics[keepaspectratio, height=0.9\textheight, width=0.9\textwidth]{PUT_IMAGE_HERE.jpg}
+\end{center}
+\end{column}
+
+\begin{column}{0.48\linewidth}
+    \begin{itemize} % HELPS YOU TO LIST STUFF
+        \item You columns can contain list, numbered list, or simple text 
+        \item You can also insert images
+        \item \ldots
+    \end{itemize}
+\end{column}
+\end{columns}
+\end{frame}
+
+\section{Third Section}
+\begin{frame}{You can add equations}
+    \begin{equation}
+         Total = \frac{1}{n}*\sum_{i=0}^n (eachnode_i)
+    \end{equation}
+\end{frame}
+
+\section{Fourth Section}
+\begin{frame}{You can have blocks of information}
+
+\begin{block}{Adding a quote here}
+Sample text
+\end{block}
+
+\begin{alertblock}{Important theorem/explanation}
+Sample text in red box
+\end{alertblock}
+
+\begin{examples}
+Sample text in green box. The title of the block is ``Examples".
+\end{examples}
+
+\end{frame}
+
+
+\end{document}
