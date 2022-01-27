@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a recently graduated Robotics Enginneer from EPFL (Ecole Polytechnique Fédérale de Lausanne). I focused my academic program around the link between robotics and biological systems, both in the locomotion and the cognition domains. I am especially interested by healthcare applications and bio-inspired locomotion.
+I am a recently graduated Robotics Engineer from EPFL (Ecole Polytechnique Fédérale de Lausanne). I focused my academic program around the link between robotics and biological systems, both in the locomotion and the cognition domains. I am especially interested by healthcare applications and bio-inspired locomotion.
 
 
 
