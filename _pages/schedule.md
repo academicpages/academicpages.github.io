@@ -33,7 +33,7 @@ Meetings are scheduled on Mondays at noon US eastern time, unless otherwise note
 *Moderator:* Open slot
 
 
-**March 14th : Simon Happersberger (Vrije Universiteit Brussel), "*The Effectiveness of Environmental Provisions and the Greening of EU Trade. A Qualitative Comparative Analysis.*"**
+**March 14th (TBC): Simon Happersberger (Vrije Universiteit Brussel), "*The Effectiveness of Environmental Provisions and the Greening of EU Trade. A Qualitative Comparative Analysis.*"**
 <br />
 *Moderator:* Open slot
 
