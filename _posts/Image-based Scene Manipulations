@@ -1,10 +1,6 @@
 ---
 title: 'Image-based Scene Manipulations'
 date: 2021-10-07
-tags:
-  - computer graphics
-  - image processing
-  - 3D scene manipulations
 ---
 
 This post presents a general aspect of the aim of my current research. Instead of manipulating 3D scenes with traditional graphics pipelines, editing rendered images in a photoreaistic way can reduce the computational complexity and offer time efficiency.
