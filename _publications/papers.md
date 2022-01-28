@@ -12,8 +12,8 @@ author_profile: true
 
 ### Under Submission
 * [Investigating the Locality of Neural Network Training Dynamics](https://arxiv.org/pdf/2111.01166.pdf) <br/> **Soham Dan**, Phanideep Gampa and Anirbit Mukherjee. 
-* [Understanding Robust Generalization in Learning Regular Languages] <br/> **Soham Dan**, Osbert Bastani and Dan Roth
-* [Cross-modal Map Learning for Vision and Language Navigation] <br/> Georgios Georgakis, Karl Schmeckpeper, Karan Wanchoo, **Soham Dan**, Eleni Miltsakaki, Dan Roth, and Kostas Daniilidis.
+* Understanding Robust Generalization in Learning Regular Languages <br/> **Soham Dan**, Osbert Bastani and Dan Roth
+* Cross-modal Map Learning for Vision and Language Navigation <br/> Georgios Georgakis, Karl Schmeckpeper, Karan Wanchoo, **Soham Dan**, Eleni Miltsakaki, Dan Roth, and Kostas Daniilidis.
 
 
 ### 2021
