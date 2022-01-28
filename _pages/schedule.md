@@ -8,27 +8,27 @@ author_profile: true
 
 Meetings are scheduled on Mondays at noon US eastern time, unless otherwise noted. The Zoom address will be made available to participants ahead of each meeting. 
 
-**February 7th: Ebad Ebadi (George Washington University), "*Adapting to Sanctions: Evidence from Firm Response and Market Reallocation in Iran*"**
+**February 7th: Ebad Ebadi (GWU), "*Adapting to Sanctions: Evidence from Firm Response and Market Reallocation in Iran.*"**
 <br />
 *Moderator:* Oriana Montti (Brandeis).
 
 
-**February 14th: Cynthia Couette (Université Laval), "*Intellectual Property, Public Health and the Influence of Experts*"**
+**February 14th: Cynthia Couette (Université Laval), "*Intellectual Property, Public Health and the Influence of Experts.*"**
 <br />
 *Moderator:* Elizabeth Meehan (GWU).
 
 
-**February 21st: Harry Oppenheimer (Harvard University), "*Does Data Follow the Flag?*"**
+**February 21st: Harry Oppenheimer (Harvard), "*Does Data Follow the Flag?*"**
 <br />
 *Moderator:* Felipe
 
 
-**February 28th : Elisa Navarra (Université libre de Bruxelles - ECARES), "*Spillover effects of subsidies on downstream trade*"**
+**February 28th : Elisa Navarra (Université libre de Bruxelles - ECARES), "*Spillover effects of subsidies on downstream trade.*"**
 <br />
 *Moderator:* Felipe Balcazar (NYU).
 
 
-**March 7th: Bjoern Brey (Universite Libre Bruxelles - ECARES), "*The consequences of a trade collapse: Economics and politics in Weimar Germany*"**
+**March 7th: Bjoern Brey (Universite Libre Bruxelles - ECARES), "*The consequences of a trade collapse: Economics and politics in Weimar Germany.*"**
 <br />
 *Moderator:* Open slot
 
@@ -38,17 +38,17 @@ Meetings are scheduled on Mondays at noon US eastern time, unless otherwise note
 *Moderator:* Open slot
 
 
-**March 21st: Sojun Park (Princeton University), "*Reputation as a Binding Constraint: How States Navigate TRIPS Flexibilities*"**
+**March 21st: Sojun Park (Princeton), "*Reputation as a Binding Constraint: How States Navigate TRIPS Flexibilities.*"**
 <br />
 *Moderator:* Open slot
 
 
-**April 4th : Antoine Boucher (Université Paris Dauphine), "*Political Cycle in World Bank’s Procurement Allocation*"**
+**April 4th : Antoine Boucher (Université Paris Dauphine), "*Political Cycle in World Bank’s Procurement Allocation.*"**
 <br />
 *Moderator:* Open slot
 
 
-**April 11th: Celestine Siameh (University of Minnesota, Twin Cities), "*Brexit and Global Value Chains: Beyond the UK and the EU*"**
+**April 11th: Celestine Siameh (Minnesota, Twin Cities), "*Brexit and Global Value Chains: Beyond the UK and the EU.*"**
 <br />
 *Moderator:* Open slot
 
@@ -58,17 +58,17 @@ Meetings are scheduled on Mondays at noon US eastern time, unless otherwise note
 *Moderator:* Open slot
 
 
-**April 25th: Torsten Jaccard (University of Toronto), "*Who Pays for Protectionism? The Welfare and Substitution Effects of Tariff Changes*"**
+**April 25th: Torsten Jaccard (Toronto), "*Who Pays for Protectionism? The Welfare and Substitution Effects of Tariff Changes.*"**
 <br />
 *Moderator:* Open slot
 
 
-**May 2nd: Nicola Nones (University of Virginia), "*The PIIGS Acronym as Heuristic Device during the European Sovereign Bond Crisis*"**
+**May 2nd: Nicola Nones (Virginia), "*The PIIGS Acronym as Heuristic Device during the European Sovereign Bond Crisis.*"**
 <br />
 *Moderator:* Open slot
 
 
-**May 9th: Pengshan Pan (University of Pittsburgh), "*Foreign Mining Investment, Labor Market and Local Distrust: Evidence from Kyrgyzstan Kumtor Gold Mine*"**
+**May 9th: Pengshan Pan (Pittsburgh), "*Foreign Mining Investment, Labor Market and Local Distrust: Evidence from Kyrgyzstan Kumtor Gold Mine.*"**
 <br />
 *Moderator:* Open slot
 
