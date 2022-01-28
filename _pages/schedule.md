@@ -30,22 +30,22 @@ Meetings are scheduled on Mondays at noon US eastern time, unless otherwise note
 
 **March 7th: Bjoern Brey (Universite Libre Bruxelles - ECARES), "*The consequences of a trade collapse: Economics and politics in Weimar Germany.*"**
 <br />
-*Moderator:* Open slot.
+*Moderator:* Sabreena Croteau.
 
 
 **March 14th (TBC): Simon Happersberger (Vrije Universiteit Brussel), "*The Effectiveness of Environmental Provisions and the Greening of EU Trade. A Qualitative Comparative Analysis.*"**
 <br />
-*Moderator:* Open slot.
+*Moderator:* Ishana Ratan.
 
 
 **March 21st: Sojun Park (Princeton), "*Reputation as a Binding Constraint: How States Navigate TRIPS Flexibilities.*"**
 <br />
-*Moderator:* Open slot.
+*Moderator:* Zoe Xincheng Ge.
 
 
 **April 4th : Antoine Boucher (Université Paris Dauphine), "*Political Cycle in World Bank’s Procurement Allocation.*"**
 <br />
-*Moderator:* Open slot.
+*Moderator:* Nicola Nones.
 
 
 **April 11th: Celestine Siameh (Minnesota, Twin Cities), "*Brexit and Global Value Chains: Beyond the UK and the EU.*"**
@@ -55,12 +55,12 @@ Meetings are scheduled on Mondays at noon US eastern time, unless otherwise note
 
 **April 18th: Zoe Ge (NYU), "*Self-Defeating Treaties: Global Value Chains and the Termination of Bilateral Investment Treaties*"**
 <br />
-*Moderator:* Open slot.
+*Moderator:* Frederik Heitmüller.
 
 
 **April 25th: Torsten Jaccard (Toronto), "*Who Pays for Protectionism? The Welfare and Substitution Effects of Tariff Changes.*"**
 <br />
-*Moderator:* Open slot.
+*Moderator:* Anthony James Calacino.
 
 
 **May 2nd: Nicola Nones (Virginia), "*The PIIGS Acronym as Heuristic Device during the European Sovereign Bond Crisis.*"**
@@ -70,6 +70,6 @@ Meetings are scheduled on Mondays at noon US eastern time, unless otherwise note
 
 **May 9th: Pengshan Pan (Pittsburgh), "*Foreign Mining Investment, Labor Market and Local Distrust: Evidence from Kyrgyzstan Kumtor Gold Mine.*"**
 <br />
-*Moderator:* Open slot.
+*Moderator:* Tanja Schweinberger.
 
 
