@@ -11,9 +11,9 @@ title                    : "Ezekiel Soremekun, PhD"
 title_separator          : "-"
 name                     : &name "Dr. Ezekiel Soremekun"
 description              : &description "Research Associate (PostDoc) at SnT, University of Luxembourg"
-url                      : https://soremekun.github.io # the base hostname & protocol for your site e.g. "https://soremekun.github.io"
+url                      : https://ezekiel-soremekun.github.io # the base hostname & protocol for your site e.g. "https://ezekiel-soremekun.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "soremekun.github.io"
+repository               : "ezekiel-soremekun.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "soremekun"
+  github           : "ezekiel-soremekun"
   google_plus      :
   keybase          :
   instagram        :
