@@ -18,9 +18,7 @@ We invite graduate students and faculty from Political Science and Economics wit
 *News:* 
 
 
-- We are pleased to announce the call for submissions for the **Graduate Students in International Political Economy (GSIPE) workshop for Spring 2022**, [check it here](https://gsipe-workshop.github.io/call-papers/).
-
-- We are pleased to share the program and registration details for the **3rd virtual themed conference on November 30, 2021**. The conference will showcase qualitative and mixed methods research in international political economy. [More information here.](https://gsipe-workshop.github.io/special-events/)
+- We are pleased to share the schedule for the **Graduate Students in International Political Economy (GSIPE) workshop for Spring 2022**. [More information here.](https://gsipe-workshop.github.io/schedule/)
 
 
 <hr> 
