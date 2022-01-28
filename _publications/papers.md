@@ -9,19 +9,22 @@ author_profile: true
 
 [[Google Scholar](https://scholar.google.com/citations?user=nOsmu8UAAAAJ&hl=en&oi=ao)] (\* Equal Contribution)
 
-<!---
-### Preprints
--->
+
+### Under Submission
+* [Investigating the Locality of Neural Network Training Dynamics](https://arxiv.org/pdf/2111.01166.pdf) <br/> **Soham Dan**, Phanideep Gampa and Anirbit Mukherjee. 
+* [Understanding Robust Generalization in Learning Regular Languages] <br/> **Soham Dan**, Osbert Bastani and Dan Roth
+* [Cross-modal Map Learning for Vision and Language Navigation] <br/> Georgios Georgakis, Karl Schmeckpeper, Karan Wanchoo, **Soham Dan**, Eleni Miltsakaki, Dan Roth, and Kostas Daniilidis.
 
 
 ### 2021
-* Few-Shot Novel Concept Learning for Semantic Parsing <br/> **Soham Dan**, Osbert Bastani and Dan Roth. **Findings of EMNLP** 2021
-* Compositional Data and Task Augmentation for Instruction Following <br/> **Soham Dan\***, Xinran Han\* and Dan Roth. **Findings of EMNLP** 2021
-* On the Effects of Transformer Size on In- and Out-of-Domain Calibration <br/> **Soham Dan**, Dan Roth. **Findings of EMNLP** 2021
-* [Learning from Noisy Similar and Dissimilar Data](https://arxiv.org/pdf/2002.00995.pdf)<br/> **Soham Dan**, Han Bao, Masashi Sugiyama. **ECML-PKDD** 2021
-* [Variance Reduced Stochastic Proximal Algorithm for AUC Maximization](https://arxiv.org/abs/1911.03548)<br/> **Soham Dan \***, Dushyant Sahoo\*. **ECML-PKDD** 2021
+* [Few-Shot Novel Concept Learning for Semantic Parsing](https://aclanthology.org/2021.findings-emnlp.177.pdf) <br/> **Soham Dan**, Osbert Bastani and Dan Roth. **Findings of EMNLP** 2021
+* [Compositional Data and Task Augmentation for Instruction Following](https://aclanthology.org/2021.findings-emnlp.178.pdf) <br/> **Soham Dan\***, Xinran Han\* and Dan Roth. **Findings of EMNLP** 2021
+* [On the Effects of Transformer Size on In- and Out-of-Domain Calibration](https://aclanthology.org/2021.findings-emnlp.180.pdf) <br/> **Soham Dan**, Dan Roth. **Findings of EMNLP** 2021
+* [Learning from Noisy Similar and Dissimilar Data](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_303.pdf)<br/> **Soham Dan**, Han Bao, Masashi Sugiyama. **ECML-PKDD** 2021
+* [Variance Reduced Stochastic Proximal Algorithm for AUC Maximization](https://2021.ecmlpkdd.org/wp-content/uploads/2021/07/sub_306.pdf)<br/> **Soham Dan \***, Dushyant Sahoo\*. **ECML-PKDD** 2021
 * [Generalization in Instruction Following Systems](https://www.aclweb.org/anthology/2021.naacl-main.76.pdf) <br/>**Soham Dan**, Michael Zhou, Dan Roth. **NAACL** 2021.
 * [Human-guided Collaborative Problem Solving: A Natural Language based Framework](https://icaps21.icaps-conference.org/demos/demos/375.pdf) <br/> Harsha Kokel, Mayukh Das, Rakibul Islam, Julia Bonn, Jon Cai, **Soham Dan**, Anjali Narayan-Chen, Prashant Jayannavar, Janardhan Doppa, Julia Hockenmaier, Sriraam Natarajan, Martha Palmer, and Dan Roth. **ICAPS** 2021 (demos)
+* [Proceedings of the First Workshop on Interactive Learning for Natural Language Processing](https://aclanthology.org/2021.internlp-1.0.pdf) <br/> Kiante Brantley, Soham Dan, Iryna Gurevych, Ji-Ung Lee, Filip Radlinski, Hinrich Schutze, Edwin Simpson, and Lili Yu. **InterNLP Workshop @ ACL** 2021.
 
 ### 2020
 * [A Locally Linear Procedure for Word Translation ](https://www.aclweb.org/anthology/2020.coling-main.528.pdf) <br/>**Soham Dan**, Hagai Taitelbaum, Jacob Goldberger. **COLING** 2020.
