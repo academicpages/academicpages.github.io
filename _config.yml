@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Ezekiel Soremekun"
+  name             : "Ezekiel Soremekun"
   avatar           : "Ezekiel_Soremekun.jpeg"
-  bio              : "Ezekiel Soremekun is a Research Associate (PostDoc) at SnT, University of Luxembourg, Luxembourg." 
+  bio              : "Ezekiel Soremekun is a Research Associate (PostDoc) at SnT, University of Luxembourg." 
   location         : "Luxembourg"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=r8T1-yoAAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/scientific-contributions/Ezekiel-Soremekun-2130094542"
+  researchgate     : "https://www.researchgate.net/scientific-contributions/Ezekiel-Soremekun-2130094542"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ezekiel-soremekun"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
