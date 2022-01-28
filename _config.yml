@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ezekiel Soremekun, PhD"
+title                    : "Ezekiel Soremekun"
 title_separator          : "-"
-name                     : &name "Dr. Ezekiel Soremekun"
+name                     : &name "Ezekiel Soremekun"
 description              : &description "Research Associate (PostDoc) at SnT, University of Luxembourg"
 url                      : https://ezekiel-soremekun.github.io # the base hostname & protocol for your site e.g. "https://ezekiel-soremekun.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Ezekiel Soremekun"
   avatar           : "Ezekiel_Soremekun.jpeg"
-  bio              : "Ezekiel Soremekun is a Research Associate (PostDoc) at SnT, Interdisciplinary Centre for Security, Reliability and Trust (SnT), University of Luxembourg, Luxembourg. Ezekiel's research is focussed on automated debugging, software testing and program analysis."
+  bio              : "Ezekiel Soremekun is a Research Associate (PostDoc) at SnT, University of Luxembourg, Luxembourg." 
   location         : "Luxembourg"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
