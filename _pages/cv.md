@@ -11,49 +11,50 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Software Engineering, American University of Nigeria, 2010
+* M.Sc. in Computer Science, African University of Science & Technology, 2011
+* Graduate School, Computer Science, Saarland University, 2016
+* Ph.D in Software Engineering, Saarland University, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug. 2020 to present:  Research Associate/Postdoctoral Researcher 
+  * SerVal Group
+  * Supervisor: Prof. Dr. Yves Le Traon
+  * SnT - Interdisciplinary Centre for Security, Reliability and Trust
+  * University of Luembourg, Luxembourg
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Jan. 2019 to Jul. 2020: Research Assistant/PhD Candidate
+  * Software Engineering Group
+  * Supervisor: Prof. Dr. Andreas Zeller
+  * CISPA – Helmholtz Center for Information Security, Saarbrücken, Germany
+
+* Sept. 2019 to Dec. 2019: Visiting Researcher 
+  * ASSET (Automated Systems SEcuriTy) Research Group 
+  * Supervisor: Prof. Sudipta Chattopadhyay) 
+  * Singapore University of Technology and Design, Singapore
+
+* Feb. 2016 to Dec. 2018: Researcher 
+  * Software Engineering Chair
+  * Supervisor: Prof. Dr. Andreas Zeller
+  * Saarland University, Saarbrücken, Germany
+
+* Jan. 2012 to Sept. 2013: Research & Teaching Assistant (Computer Science)
+  * Simulation & Modeling Laboratory
+  * Supervisor: Prof. Mamadou Traore
+  * African University of Science & Technology, Nigeria
+     
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software Engineering 
+  * Software Testing & Test Generation
+  * Automated Debugging
+  * Program Analysis
+  * Software Security 
+  * Empirical Software Engineering
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Artificial Intelligence (AI) and Machine Learning (ML) 
+  * Analysis and Testing of AI/ML systems 
+  * Bias and Fairness Mitigation
+  * AI/ML Security
+
