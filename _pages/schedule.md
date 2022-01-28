@@ -20,56 +20,56 @@ Meetings are scheduled on Mondays at noon US eastern time, unless otherwise note
 
 **February 21st: Harry Oppenheimer (Harvard), "*Does Data Follow the Flag?*"**
 <br />
-*Moderator:* Felipe
+*Moderator:* Felipe Balcazar (NYU).
 
 
 **February 28th : Elisa Navarra (Université libre de Bruxelles - ECARES), "*Spillover effects of subsidies on downstream trade.*"**
 <br />
-*Moderator:* Felipe Balcazar (NYU).
+*Moderator:* Open slot.
 
 
 **March 7th: Bjoern Brey (Universite Libre Bruxelles - ECARES), "*The consequences of a trade collapse: Economics and politics in Weimar Germany.*"**
 <br />
-*Moderator:* Open slot
+*Moderator:* Open slot.
 
 
 **March 14th (TBC): Simon Happersberger (Vrije Universiteit Brussel), "*The Effectiveness of Environmental Provisions and the Greening of EU Trade. A Qualitative Comparative Analysis.*"**
 <br />
-*Moderator:* Open slot
+*Moderator:* Open slot.
 
 
 **March 21st: Sojun Park (Princeton), "*Reputation as a Binding Constraint: How States Navigate TRIPS Flexibilities.*"**
 <br />
-*Moderator:* Open slot
+*Moderator:* Open slot.
 
 
 **April 4th : Antoine Boucher (Université Paris Dauphine), "*Political Cycle in World Bank’s Procurement Allocation.*"**
 <br />
-*Moderator:* Open slot
+*Moderator:* Open slot.
 
 
 **April 11th: Celestine Siameh (Minnesota, Twin Cities), "*Brexit and Global Value Chains: Beyond the UK and the EU.*"**
 <br />
-*Moderator:* Open slot
+*Moderator:* Open slot.
 
 
 **April 18th: Zoe Ge (NYU), "*Self-Defeating Treaties: Global Value Chains and the Termination of Bilateral Investment Treaties*"**
 <br />
-*Moderator:* Open slot
+*Moderator:* Open slot.
 
 
 **April 25th: Torsten Jaccard (Toronto), "*Who Pays for Protectionism? The Welfare and Substitution Effects of Tariff Changes.*"**
 <br />
-*Moderator:* Open slot
+*Moderator:* Open slot.
 
 
 **May 2nd: Nicola Nones (Virginia), "*The PIIGS Acronym as Heuristic Device during the European Sovereign Bond Crisis.*"**
 <br />
-*Moderator:* Open slot
+*Moderator:* Open slot.
 
 
 **May 9th: Pengshan Pan (Pittsburgh), "*Foreign Mining Investment, Labor Market and Local Distrust: Evidence from Kyrgyzstan Kumtor Gold Mine.*"**
 <br />
-*Moderator:* Open slot
+*Moderator:* Open slot.
 
 
