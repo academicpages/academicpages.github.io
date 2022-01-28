@@ -36,6 +36,8 @@ Teaching Experience
 ======
 * Teaching Assistant for CIS 419/519 Spring 2018: Applied Machine Learning
   * Instructor: Prof. Dan Roth
+* Teaching Assistant for CIS 620 Spring 2021: Learning in Few-Labels Settings
+  * Instructor: Prof. Dan Roth
 
   
 Awards and Honours
