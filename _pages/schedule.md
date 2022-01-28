@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Schedule Fall 2021"
+title: "Schedule Spring 2022"
 permalink: /schedule/
 author_profile: true
 ---
@@ -8,55 +8,68 @@ author_profile: true
 
 Meetings are scheduled on Mondays at noon US eastern time, unless otherwise noted. The Zoom address will be made available to participants ahead of each meeting. 
 
-**September 13: Noah Zucker (Columbia), "*Social Ties and Industrial Decline: Evidence from Historical Fossil Fuel Busts.*"**
+**February 7th: Ebad Ebadi (George Washington University), "*Adapting to Sanctions: Evidence from Firm Response and Market Reallocation in Iran*"**
+<br />
+*Moderator:* Oriana Montti (Brandeis).
+
+
+**February 14th: Cynthia Couette (Université Laval), "*Intellectual Property, Public Health and the Influence of Experts*"**
+<br />
+*Moderator:* Elizabeth Meehan (GWU).
+
+
+**February 21st: Harry Oppenheimer (Harvard University), "*Does Data Follow the Flag?*"**
+<br />
+*Moderator:* Felipe
+
+
+**February 28th : Elisa Navarra (Université libre de Bruxelles - ECARES), "*Spillover effects of subsidies on downstream trade*"**
 <br />
 *Moderator:* Felipe Balcazar (NYU).
 
 
-**September 20: Siyao Li (Penn), "*Closing the Institutional Gap: Protecting Technology in Foreign Direct Investment.*"**
+**March 7th: Bjoern Brey (Universite Libre Bruxelles - ECARES), "*The consequences of a trade collapse: Economics and politics in Weimar Germany*"**
 <br />
-*Moderator:* Oriana Montti (Brandeis).
+*Moderator:* Open slot
 
-**October 4: Qi Liu (Duke), "*Common Benefit, Threat to Withdraw and Order in Global Club Goods Provision.*"**
+
+**March 14th : Simon Happersberger (Vrije Universiteit Brussel), "*The Effectiveness of Environmental Provisions and the Greening of EU Trade. A Qualitative Comparative Analysis.*"**
 <br />
-*Moderator:* Elizabeth Meehan (GWU).
+*Moderator:* Open slot
 
-**October 11: James Sundquist (Yale), "*Institutional Eclipse: How Chinese Loans Substitute for IMF Assistance.*"**
+
+**March 21st: Sojun Park (Princeton University), "*Reputation as a Binding Constraint: How States Navigate TRIPS Flexibilities*"**
 <br />
-*Moderator:* Zoe Ge (NYU).
+*Moderator:* Open slot
 
-**October 18: Nina Obermeier (Cornell), "*Right-wing populism and the rise of internationalism in Europe.*"**
+
+**April 4th : Antoine Boucher (Université Paris Dauphine), "*Political Cycle in World Bank’s Procurement Allocation*"**
 <br />
-*Moderator:* Thomas Flaherty (UCSD).
+*Moderator:* Open slot
 
-**October 26 (Tuesday): Aycan Katias (Princeton), "*Politicizing Trade: How Economic Discontent and Identity Politics Shape Anti-Trade Campaign Appeals.*"**
+
+**April 11th: Celestine Siameh (University of Minnesota, Twin Cities), "*Brexit and Global Value Chains: Beyond the UK and the EU*"**
 <br />
-*Moderator:* Susan Kurdli (Nanyang Technological University, Singapore).
+*Moderator:* Open slot
 
-**November 1:** Cancelled.
 
-**November 8: Lukas Wellner (Goettingen), "*The Power of International Bureaucrats: Individual-level Evidence from IMF Mission Chiefs.*"**
+**April 18th: Zoe Ge (NYU), "*Self-Defeating Treaties: Global Value Chains and the Termination of Bilateral Investment Treaties*"**
 <br />
-*Moderator:* Sujeong Shim (University of Zurich).
+*Moderator:* Open slot
 
-**November 15: Cleo O'Brien Udry (Yale), "*Innovation and Interdependence: The Case of Gene-Editing Technology.*"**
-<br />
-*Moderator:* Taylor Dalton (USC).
 
-**November 22: Lorenzo Crippa (Essex), "*Global Firms and Global Sheriffs. How Private Foreign Investment Empowers Enforcement of International Regimes.*"**
+**April 25th: Torsten Jaccard (University of Toronto), "*Who Pays for Protectionism? The Welfare and Substitution Effects of Tariff Changes*"**
 <br />
-*Moderator:* Bernhard Reinsberg (Cambridge).
+*Moderator:* Open slot
 
-**November 29: Muzhou Zhang (Essex), "*No Diffusion at All: Trade, Free Riding, and Government Underspending on Environmental Innovation.*"**
-<br />
-*Moderator:* Nicola Nones (UVA).
 
-**December 6: Gal Bitton (Tel Aviv), "*How Does Culture Shape Financial Policies? A Macro-Level Analysis Using Instrumental Variables.*"**
+**May 2nd: Nicola Nones (University of Virginia), "*The PIIGS Acronym as Heuristic Device during the European Sovereign Bond Crisis*"**
 <br />
-*Moderator:* William O'Connell (Toronto).
+*Moderator:* Open slot
 
-**December 13: Zoe Ge (NYU), "*Distributive Consequence of Institutional Design.*"**
+
+**May 9th: Pengshan Pan (University of Pittsburgh), "*Foreign Mining Investment, Labor Market and Local Distrust: Evidence from Kyrgyzstan Kumtor Gold Mine*"**
 <br />
-*Moderator:* Natalia Pushkareva (University of Urbino).
+*Moderator:* Open slot
 
 

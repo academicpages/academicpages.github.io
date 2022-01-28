@@ -5,11 +5,11 @@ permalink: /paper/
 author_profile: true
 ---
 
-Monday, December 13th:
+Monday, February 7th:
 
-[Zoe Xincheng Ge](https://wp.nyu.edu/zoege/) (NYU), presents:
+[Ebad Ebadi](https://www.ebadebadi.com) (GWU), presents:
 
-**Title:** ["*Who Complies? When Interdependence Meets IO Independence.*"](https://gsipe-workshop.github.io/files/Zoe_Ge_13DEC2021.pdf)
+**Title:** "*Adapting to Sanctions: Evidence from Firm Response and Market Reallocation in Iran.*" (Link to paper will be added next week.)
 
 **Abstract:**
-Why do some states comply with the disease outbreak reporting requirement at the World Health Organization (WHO) while others do not? Information dissemination of disease outbreaks can trigger the international community to impose trade and travel bans to states with weak linkages and provide resources to states with strong linkages. Due to such heterogeneous responses, states with high interdependence with the community comply and report, while states with low interdependence conceal the outbreaks. To induce compliance in reporting, the WHO reformed its International Health Regulations (IHR) in 2005, which grants the WHO independence to disseminate outbreak information without the consent of the outbreak country. I argue that such independence in information dissemination allows the WHO to leverage the interdependence among the states and trigger punishment on information withhold, which deters non-compliance. Using the number of Disease Outbreak News (DONs) as an indicator of state's compliance, I find that states with strong linkages to the U.S. have more DONs reports before the reform. The reform increases the number of DONs reports from states with weak linkages to the U.S.
+This paper studies the distributional costs to US consumers of country-specific tariffs. By linking detailed household purchase records with a barcode-specific country-of-origin, I estimate a demand model with both detailed consumer heterogeneity and rich import substitution patterns in the face of country-specific tariff changes. Simulations using this model show that tariffs placed on low-income countries are regressive and anti-rural whereas tariffs on high-income countries are progressive and anti-urban. I provide novel evidence that the urban/rural disparity in exposure to tariff policy is driven by the extent to which retail market characteristics differ across urban and rural counties in the US. When modeling import substitution, I combine descriptive text on the packaging of each barcode with unsupervised clustering algorithms to place barcodes into market segments of observable similarity. In general, I estimate lower tariff costs when compared to a model in which varieties are segmented based on their production location, as is common in the trade literature. These findings caution against the practice of estimating consumption gains from trade in the absence of (1) detailed variety attribute data and (2) information regarding the domestic alternatives available to consumers.

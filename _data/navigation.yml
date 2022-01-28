@@ -1,7 +1,8 @@
 # main links links
 main:
-  - title: "Call for papers"
-    url: /call-papers/
+
+  - title: "Paper"
+    url: /paper/
 
   - title: "Schedule"
     url: /schedule/
