@@ -65,7 +65,7 @@ Meetings are scheduled on Mondays at noon US eastern time, unless otherwise note
 
 **May 2nd: Nicola Nones (Virginia), "*The PIIGS Acronym as Heuristic Device during the European Sovereign Bond Crisis.*"**
 <br />
-*Moderator:* Open slot.
+*Moderator:* Amy Basu (Yale).
 
 
 **May 9th: Pengshan Pan (Pittsburgh), "*Foreign Mining Investment, Labor Market and Local Distrust: Evidence from Kyrgyzstan Kumtor Gold Mine.*"**
