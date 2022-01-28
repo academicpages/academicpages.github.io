@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ezekiel Soremekun"
+title                    : "Dr. Ezekiel Soremekun"
 title_separator          : "-"
 name                     : &name "Ezekiel Soremekun"
-description              : &description "Research Associate (PostDoc) at SnT, University of Luxembourg"
+description              : &description "Research Associate (PostDoc)"
 url                      : https://ezekiel-soremekun.github.io # the base hostname & protocol for your site e.g. "https://ezekiel-soremekun.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ezekiel-soremekun.github.io"
