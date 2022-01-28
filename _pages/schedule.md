@@ -25,7 +25,7 @@ Meetings are scheduled on Mondays at noon US eastern time, unless otherwise note
 
 **February 28th : Elisa Navarra (Université libre de Bruxelles - ECARES), "*Spillover effects of subsidies on downstream trade.*"**
 <br />
-*Moderator:* Lauren Konken.
+*Moderator:* Lauren Konken (Princeton).
 
 
 **March 7th: Bjoern Brey (Universite Libre Bruxelles - ECARES), "*The consequences of a trade collapse: Economics and politics in Weimar Germany.*"**
