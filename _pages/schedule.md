@@ -50,7 +50,7 @@ Meetings are scheduled on Mondays at noon US eastern time, unless otherwise note
 
 **April 11th: Celestine Siameh (Minnesota, Twin Cities), "*Brexit and Global Value Chains: Beyond the UK and the EU.*"**
 <br />
-*Moderator:* Open slot.
+*Moderator:* Munzir Malik (Indian Institute of Technology).
 
 
 **April 18th: Zoe Ge (NYU), "*Self-Defeating Treaties: Global Value Chains and the Termination of Bilateral Investment Treaties*"**
