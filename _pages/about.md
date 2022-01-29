@@ -12,7 +12,7 @@ Thought leader and changing agent with over 10 years of success in a Silicon Val
 
 - Led the R&D of several large research projects, resulting in successful transfer into 20+ products with high business impact (billion+\$ revenue) and numerous high-profile customer engagements. Recognized by multiple prestigious IBM internal awards. 
 - Built a high performing team awarded with 12 prestigious research accomplishment awards within the past 5 years with perfect employee engagement scores. 
-- Recognized as a world-class expert at the intersection of natural language processing, databases, human-computer interaction, and machine learning. Published 80+ peer reviewed publications in these areas at prestigious conferences (e.g. ACL, AAAI, SIGMOD) and journals (e.g. JVLDB and ToCHI) with 50+ patents filed/issued and 1 book. 
+- Expert at the intersection of natural language processing, databases, human-computer interaction, and machine learning. Published 80+ peer reviewed publications in these areas at prestigious conferences (e.g. ACL, AAAI, SIGMOD) and journals (e.g. JVLDB and ToCHI) with 50+ patents filed/issued and 1 book. 
 - Developed and co-taught graduate-level courses at 5+ top universities world-wide and 2 MOOC courses on NLP (20,000+ enrollment). 
 - Regularly organizes conferences, workshops, and panels at top AI conferences and served on prestigious program committees, editorial board and review panels.
 
