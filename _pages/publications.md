@@ -25,7 +25,7 @@ Umemoto, Andrea Wiggins, Koichiro Yoshida:  _SIGMOD Record_ 49(2): 30-35. 2020
 Hongming Shan, Xun Jia, Pingkun Yan, Yunyao Li, Harald Paganetti and Ge Wang. **Machine Learning: Science and
 Technology** April 2020
 
-- **Understand users comprehension and preferences for composing information visualizations.** Huahai Yang, Yunyao Li, and Michelle Zhou. _ACM Transaction on Computer Human Interaction_ 21(1) 2014
+- **[Understand users comprehension and preferences for composing information visualizations](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/Understand%20Users%20Comprehension%20and%20Preferences.pdf).** Huahai Yang, Yunyao Li, and Michelle Zhou. _ACM Transaction on Computer Human Interaction_ 21(1) 2014
 
 - **SystemT: a System for Declarative Information Extraction.** Rajasekar Krishnamurthy, Yunyao Li, Sriram Raghavan, Frederick Reiss, Shivakumar Vaithyanathan,
 and Huaiyu Zhu.  _SIGMOD Record_ 37(4) 2008
