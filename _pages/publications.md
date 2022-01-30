@@ -21,7 +21,7 @@ Kitahara, Dongwon Lee, **Yunyao Li**, Ria Mae Borromeo, Paolo Papotti, Raghav Ra
 Pierre Senellart, Keishi Tajima, Saravanan Thirumuruganathan, Marion Tommasi, Kazutoshi
 Umemoto, Andrea Wiggins, Koichiro Yoshida:  _SIGMOD Record_ 49(2): 30-35. 2020
 
-- **Synergizing Medical Imaging and Radiotherapy with Deep Learning.** 
+- **[Synergizing Medical Imaging and Radiotherapy with Deep Learning](https://iopscience.iop.org/article/10.1088/2632-2153/ab869f/pdf).** 
 Hongming Shan, Xun Jia, Pingkun Yan, Yunyao Li, Harald Paganetti and Ge Wang. **Machine Learning: Science and
 Technology** April 2020
 
