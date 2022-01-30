@@ -23,4 +23,6 @@ Yunyao Li is a Distinguished Research Staff Member and Senior Research Manager a
 
 ### More About Me
 
+![Yunyao Li: Illustrated Story](https://yunyaoli.github.io/images/YunyaoLi.IllustratedStories.jpg "illustrated story")
+
 Learn more about [my personal journey as a 1st generation college student](https://techmonitor.ai/techonology/ai-and-automation/small-town-china-silicon-valley-giant-amazing-story-one-ibm-researcher).   
