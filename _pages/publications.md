@@ -27,12 +27,12 @@ Technology** April 2020
 
 - **[Understand users comprehension and preferences for composing information visualizations](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/Understand%20Users%20Comprehension%20and%20Preferences.pdf).** Huahai Yang, Yunyao Li, and Michelle Zhou. _ACM Transaction on Computer Human Interaction_ 21(1) 2014
 
-- **SystemT: a System for Declarative Information Extraction.** Rajasekar Krishnamurthy, Yunyao Li, Sriram Raghavan, Frederick Reiss, Shivakumar Vaithyanathan,
+- **[SystemT: a System for Declarative Information Extraction](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/sigmodRecord08-SystemT.pdf).** Rajasekar Krishnamurthy, Yunyao Li, Sriram Raghavan, Frederick Reiss, Shivakumar Vaithyanathan,
 and Huaiyu Zhu.  _SIGMOD Record_ 37(4) 2008
 
-- **Enabling Schema-Free XQuery with Meaningful Query Focus.** Yunyao Li, Cong Yu, H. V. Jagadish.  _Very Large Data Bases Journal___ 17(3) 2008
+- **[Enabling Schema-Free XQuery with Meaningful Query Focus](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/vldbj06-SchemaFreeXQuery.pdf).** Yunyao Li, Cong Yu, H. V. Jagadish.  _Very Large Data Bases Journal___ 17(3) 2008
 
-- **NaLIX: A Generic Natural Language Search Environment for XML Data.** Yunyao Li, Huahai Yang, H. V. Jagadish. _ACM Transaction on Database System._ 32(4) 2007
+- **[NaLIX: A Generic Natural Language Search Environment for XML Data](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/tods07-nalix.pdf).** Yunyao Li, Huahai Yang, H. V. Jagadish. _ACM Transaction on Database System._ 32(4) 2007
 
 ### Refereed Conference Articles
 
