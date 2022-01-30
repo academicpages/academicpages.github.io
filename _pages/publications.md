@@ -14,10 +14,10 @@ Under Construction
 - **[Natural Language Data Management and Interfaces](https://www.morganclaypool.com/doi/10.2200/S00866ED1V01Y201807DTM049).** **Yunyao Li** and Davood Rafiei. _Morgan Claypool Publisher_. 2018
 
 ### Refereed Journal Articles
-- **Making AI Machines Work for Humans in FoW.** Sihem Amer-Yahia, Senjuti Basu Roy, Lei Chen, Atsuyuki Morishima, James Abello Monedero,
+- **[Making AI Machines Work for Humans in FoW](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/Making%20AI%20Machines%20Work%20for%20Humans%20in%20FoW.pdf).** Sihem Amer-Yahia, Senjuti Basu Roy, Lei Chen, Atsuyuki Morishima, James Abello Monedero,
 Pierre Bourhis, Franois Charoy, Marina Danilevsky, Gautam Das, Gianluca Demartini, Shady
 Elbassuoni, David Gross-Amblard, Emilie Hoareau, Munenari Inoguchi, Jared B. Kenworthy, Itaru
-Kitahara, Dongwon Lee, Yunyao Li, Ria Mae Borromeo, Paolo Papotti, Raghav Rao, Sudeepa Roy,
+Kitahara, Dongwon Lee, **Yunyao Li**, Ria Mae Borromeo, Paolo Papotti, Raghav Rao, Sudeepa Roy,
 Pierre Senellart, Keishi Tajima, Saravanan Thirumuruganathan, Marion Tommasi, Kazutoshi
 Umemoto, Andrea Wiggins, Koichiro Yoshida:  _SIGMOD Record_ 49(2): 30-35. 2020
 
