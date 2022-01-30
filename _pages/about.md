@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal space on the web! 
 
-I am currently a PhD student at the [Institute of Astronomy](https://fys.kuleuven.be/ster) at [KU Leuven](https://www.kuleuven.be/english/), Belgium, and a visiting student researcher (VSR) at [Caltech-TAPIR](http://www.tapir.caltech.edu). I earned my B.Sc. and M.Sc. in Chemistry ('Chemie') from the [University of Antwerp](https://www.uantwerpen.be/en/) and my M.Sc. in Astronomy & Astrophysics from [KU Leuven](https://www.kuleuven.be/english/).
+I am currently a PhD student at the [Institute of Astronomy](https://fys.kuleuven.be/ster) at [KU Leuven](https://www.kuleuven.be/english/), Belgium, and a visiting student researcher (VSR) at [Caltech-TAPIR](http://www.tapir.caltech.edu), CA, US. I earned my B.Sc. and M.Sc. in Chemistry ('Chemie') from the [University of Antwerp](https://www.uantwerpen.be/en/) and my M.Sc. in Astronomy & Astrophysics from [KU Leuven](https://www.kuleuven.be/english/).
 
 My work has been [published](https://jvb11.github.io/publications) in *Astronomy & Astrophysics*. My PhD topic is centered around asteroseismology, the study of waves inside (variable) stars to characterize how stars evolve, by improving current theoretical models. I primarily focus my [research](https://jvb11.github.io/research) on nonlinear interactions between (gravity) waves propagating inside (variable) stars. In addition, some of my research papers discussed the influence of magnetic fields on gravity waves inside stars.<sup id="a1">[1](#fn1)</sup> I also maintain an active interest in (astro)chemistry and plasma physics and try to keep up with some of the recent advances within these field. 
 
