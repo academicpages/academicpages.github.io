@@ -11,7 +11,7 @@ redirect_from:
 Under Construction
 
 ### Book
-- **Natural Language Data Management and Interfaces. Morgan** Yunyao Li and Davood Rafiei. _Claypool Publisher_. 2018
+- **Natural Language Data Management and Interfaces.** **Yunyao Li** and Davood Rafiei. _Morgan Claypool Publisher_. 2018
 
 ### Refereed Journal Articles
 - **Making AI Machines Work for Humans in FoW.** Sihem Amer-Yahia, Senjuti Basu Roy, Lei Chen, Atsuyuki Morishima, James Abello Monedero,
