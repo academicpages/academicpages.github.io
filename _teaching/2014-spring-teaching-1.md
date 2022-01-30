@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "Colegio Mayor"
+collection: formación
+type: "Secundaria"
+permalink: /formacion/colegio-mayor
+venue: "Huampani"
+date: 2013-12-23
+location: "Lima,Perú"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+La pasé bacán nomás
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
