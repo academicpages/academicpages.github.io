@@ -28,7 +28,7 @@ Ezekiel was previously a researcher (and PhD candidate) at the [Software Enginee
 Education
 ---------
 Ezekiel possesses a 
-PhD in Software Engineering (2022) from 
+PhD in Software Engineering (2021) from 
 [Saarland University](https://www.uni-saarland.de/en/home.html). 
 He was also a graduate student (2013-2016) at the 
 [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de).
