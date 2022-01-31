@@ -23,7 +23,7 @@ Ezekiel was previously a researcher (and PhD candidate) at the [Software Enginee
 [CISPA Helmholtz Center for Information Security](https://cispa.de/en) and a visiting researcher at the 
 [ASSETS Group](https://asset-group.github.io) 
 (of Prof. Dr. Sudipta Chattopadhyay) at 
-[SUTD](https://www.sutd.edu.sg). 
+[SUTD](https://www.sutd.edu.sg) -- Singapore University of Technology and Design. 
 
 Education
 ---------
