@@ -29,13 +29,12 @@ Kampmann, Alexander, Nikolas Havrikov, **Ezekiel O. Soremekun**, and Andreas Zel
 In Proceedings of the 28th ACM joint meeting on european software engineering conference and symposium on the foundations of software engineering, pp. 1228-1239. 2020.
 [link](https://dl.acm.org/doi/abs/10.1145/3368089.3409687)
 
-
 * **"Where is the bug and how is it fixed? an experiment with practitioners."** 
 Böhme, Marcel, **Ezekiel O. Soremekun**, Sudipta Chattopadhyay, Emamurho Ugherughe, and Andreas Zeller. 
 In Proceedings of the 2017 11th joint meeting on foundations of software engineering, pp. 117-128. 2017.
 [link](https://dl.acm.org/doi/abs/10.1145/3106237.3106255)
 [preprint](https://publications.cispa.saarland/1468/1/FSE17.pdf)
-[Website](https://dbgbench.github.io)
+[website](https://dbgbench.github.io)
 
 * **"Detecting information flow by mutating input data."**
 Mathis, Björn, Vitalii Avdiienko, **Ezekiel O. Soremekun**, Marcel Böhme, and Andreas Zeller.
@@ -67,7 +66,7 @@ IEEE Transactions on Software Engineering (2020)
 Thesis
 -------
 * **"Evidence-driven testing and debugging of software systems."**
-**Soremekun, Ezekiel**
+**Soremekun, Ezekiel**.
 PhD Dissertation (2021), Saarland Univerity.
 [link](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/31243)
 [preprint](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/31243/1/Phd_thesis_Ezekiel_Soremekun-no-cv.pdf)
