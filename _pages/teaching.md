@@ -7,8 +7,13 @@ author_profile: true
 
 ## SOC591: Intro to Computational Social Science
 
-You can check oursyllabus [here](https://yongjunzhang.com/files/css/CSS_Zhang_Spring2022.pdf)
+You can check ours yllabus [here](https://yongjunzhang.com/files/css/CSS_Zhang_Spring2022.pdf)
 
 ### Week 1
 
 [Lab 1](https://yongjunzhang.com/files/css/Lab1-Tutorial.html)
+
+
+### Week 2
+
+[Lab 2](https://yongjunzhang.com/files/css/Lab2.html)
