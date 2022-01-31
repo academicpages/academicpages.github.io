@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ezekiel Soremekun"
-  avatar           : "Ezekiel_Soremekun_8679.jpg" #"Ezekiel_Soremekun.jpeg"
-  bio              : "Ezekiel Soremekun is a Research Associate (PostDoc) at SnT, University of Luxembourg." 
+  name             : "Dr. Ezekiel Soremekun"
+  avatar           : "Ezekiel_Soremekun.jpg" #"Ezekiel_Soremekun.jpg"
+  bio              : "Research Associate (PostDoc) at SnT, University of Luxembourg." 
   location         : "Luxembourg"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/ezekiel-soremekun/"
+  linkedin         : "https://lu.linkedin.com/in/ezekiel-soremekun" #"https://www.linkedin.com/in/ezekiel-soremekun/"
   orcid            : "https://orcid.org/0000-0002-0039-8106"
   dblp		   : "https://dblp.org/pid/200/2864.html"
   pinterest        :
