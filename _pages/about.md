@@ -38,11 +38,8 @@ software systems, including aritificial intelligence (AI) -driven systems (e.g.,
 
 Ezekiel's research objective is to *apply scientific methods to validate software systems*. 
 Software systems have become increasingly complex, such that it is impossible to ensure their
-correctness without systematic validation.
-
-The main goal is to address these key challenges 
-by *developing methods and tools to support developers 
-during software testing and debugging activities*.
+correctness without systematic validation. The main research goal is to address these key challenges 
+by *developing methods and tools to support developers during software testing and debugging activities*.
 
 The over-arching research aim is to provide useful validation techniques, tools and empirical data for the following:
    * __Software Testing__: *systematic generation of test inputs* to expose unexpected program behaviors, 
