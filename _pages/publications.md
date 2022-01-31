@@ -11,7 +11,7 @@ and [DBLP](https://dblp.org/pid/200/2864.html).
 Selected Conference Papers
 --------------------------
 
-* __"Abstracting failure-inducing inputs."__
+* **"Abstracting failure-inducing inputs."**
 Gopinath, Rahul, Alexander Kampmann, Nikolas Havrikov, **Ezekiel O. Soremekun**, and Andreas Zeller.
 In Proceedings of the 29th ACM SIGSOFT international symposium on software testing and analysis, pp. 237-248. 2020.
 (ACM Distinguised (Best) Paper Award)
