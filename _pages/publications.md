@@ -11,7 +11,7 @@ and [DBLP](https://dblp.org/pid/200/2864.html).
 Selected Conference Papers
 --------------------------
 
-* *"Abstracting failure-inducing inputs."*
+* "*Abstracting failure-inducing inputs.*"
 Gopinath, Rahul, Alexander Kampmann, Nikolas Havrikov, *Ezekiel O. Soremekun*, and Andreas Zeller.
 In Proceedings of the 29th ACM SIGSOFT international symposium on software testing and analysis, pp. 237-248. 2020.
 (ACM Distinguised (Best) Paper Award)
@@ -34,7 +34,7 @@ In Proceedings of the 28th ACM joint meeting on european software engineering co
 Böhme, Marcel, *Ezekiel O. Soremekun*, Sudipta Chattopadhyay, Emamurho Ugherughe, and Andreas Zeller. 
 In Proceedings of the 2017 11th joint meeting on foundations of software engineering, pp. 117-128. 2017.
 [link](https://dl.acm.org/doi/abs/10.1145/3106237.3106255)
-[preprint)(https://publications.cispa.saarland/1468/1/FSE17.pdf)
+[preprint](https://publications.cispa.saarland/1468/1/FSE17.pdf)
 [Website](https://dbgbench.github.io)
 
 * *"Detecting information flow by mutating input data."*
