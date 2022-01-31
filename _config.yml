@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Ezekiel Soremekun"
-  avatar           : "Ezekiel_Soremekun.png" #"Ezekiel_Soremekun.jpg"
+  avatar           : "profile.png" #"Ezekiel_Soremekun.jpg"
   bio              : "Research Associate (PostDoc) at SnT, University of Luxembourg." 
   location         : "Luxembourg"
   employer         :
