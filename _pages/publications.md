@@ -46,13 +46,6 @@ In 2017 32nd IEEE/ACM International Conference on Automated Software Engineering
 Selected Journal Papers
 ------------------------
 
-* **"Inputs from Hell Learning Input Distributions for Grammar-Based Test Generation."**
-**Soremekun, Ezekiel**, Esteban Pavese, Nikolas Havrikov, Lars Grunske, and Andreas Zeller. 
-IEEE Transactions on Software Engineering (2020)
-[link](https://ieeexplore.ieee.org/abstract/document/9154602)
-[preprint](https://publications.cispa.saarland/3167/7/inputs-from-hell.pdf)
-
-
 * **"Astraea: Grammar-based fairness testing."** 
 **Soremekun, Ezekiel**, Sakshi Udeshi, and Sudipta Chattopadhyay. 
 IEEE Transactions on Software Engineering (2022)
@@ -65,12 +58,17 @@ Empirical Software Engineering 26, no. 3 (2021): 1-45.
 [link](https://link.springer.com/article/10.1007/s10664-020-09931-7)
 [preprint](https://arxiv.org/pdf/2101.03008)
 
+* **"Inputs from Hell Learning Input Distributions for Grammar-Based Test Generation."**
+**Soremekun, Ezekiel**, Esteban Pavese, Nikolas Havrikov, Lars Grunske, and Andreas Zeller. 
+IEEE Transactions on Software Engineering (2020)
+[link](https://ieeexplore.ieee.org/abstract/document/9154602)
+[preprint](https://publications.cispa.saarland/3167/7/inputs-from-hell.pdf)
 
 Thesis
 -------
 * **"Evidence-driven testing and debugging of software systems."**
 **Soremekun, Ezekiel**
-PhD Dissertation, Saarland Univerity.
+PhD Dissertation (2021), Saarland Univerity.
 [link](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/31243)
 [preprint](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/31243/1/Phd_thesis_Ezekiel_Soremekun-no-cv.pdf)
 
