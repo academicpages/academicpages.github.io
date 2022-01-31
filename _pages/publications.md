@@ -14,6 +14,7 @@ Selected Conference Papers
 * *"Abstracting failure-inducing inputs."*
 Gopinath, Rahul, Alexander Kampmann, Nikolas Havrikov, *Ezekiel O. Soremekun*, and Andreas Zeller.
 In Proceedings of the 29th ACM SIGSOFT international symposium on software testing and analysis, pp. 237-248. 2020.
+(ACM Distinguised (Best) Paper Award)
 [link](https://dl.acm.org/doi/abs/10.1145/3395363.3397349)
 [preprint](https://rahul.gopinath.org/resources/issta2020/gopinath2020abstracting.pdf)
 
