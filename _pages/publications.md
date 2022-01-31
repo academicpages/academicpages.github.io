@@ -111,6 +111,13 @@ Katsis, Radu Florian, **Yunyao Li**, Salim Roukos, and Avirup Sil. In _AAAI(Demo
 
 - **[Crowd-in-the-Loop: A Hybrid Approach for Annotating Semantic Roles](https://aclanthology.org/D17-1205.pdf).** Chenguang Wang, Alan Akbik, Laura Chiticariu, **Yunyao Li**, Fei Xia, and Anbang Xu.  In _EMNLP_ 2017
 
+- **Creation and Interaction with Large-scale Domain-Specific Knowledge Bases.** S. Bharadwaj, L. Chiticariu, M. Danilevsky, S. Dhingra, S. Divekar, A. Carreno-Fuentes, H. Gupta, N. Gupta, S.-D. Han, M. Herandez, H. Ho, P. Jain, S. Joshi, H. Karanam, S. Krishnan, R. Krishnamurthy, **Y. Li**, S. Manivannan, A. Mittal, F. Ozcan A. Quamar, P. Raman, D. Saha, K. Sankaranarayanan, J. Sen, P. Sen, S. Vaithyanathan, M. Vasa, H. Wang, and H. Zhu.  In **VLDB (Demonstration Track)** 2017
+
+- **[Active Learning for Black-Box Semantic Role Labeling with Neural Factors](https://www.ijcai.org/Proceedings/2017/0405.pdf).** Chenguang Wang, Laura Chiticariu, and **Yunyao Li**.  In _IJCAI_ 2017
+
+- **[SEER: Auto-Generating Information Extraction Rules from User-Specified Examples](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/chi17_seer.pdf).** Maeda F. Hanafi, Azza Abouzied, Laura Chiticariu, and **Yunyao Li**. In _CHI_ 2017
+
+- **[Synthesizing Extraction Rules from User Examples with SEER](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/sigmod17-seer.pdf).** Maeda F. Hanafi, Azza Abouzied, Laura Chiticariu, and **Yunyao Li**.  In _SIGMOD (Demonstration Track)_ 2017
 
 <!--
 {% if author.googlescholar %}
