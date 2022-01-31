@@ -40,12 +40,11 @@ and a BSc in Software Engineering (2010) from
 
 
 
-Research Statement
+Research
 -------------------
-
 Ezekiel's research is primarily focused on **software engineering** (SE), especially **software validation**. 
-This includes SE research concerns such as _automated debugging, software testing, 
-program analysis_, and _security testing_. 
+This includes SE research concerns such as **automated debugging**, **software testing**, 
+**program analysis**, and **security testing**. 
 He is interested in studying both functional properties (e.g., correctness)
 and non-functional properties (e.g., security, robustness, and fairness) of 
 software systems, including aritificial intelligence (AI) -driven systems (e.g., automated classifiers). 
