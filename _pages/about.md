@@ -13,12 +13,21 @@ Ezekiel Soremekun is a Research Associate at
 -- Interdisciplinary Centre for Security, Reliability and Trust, 
 at the 
 [University of Luxembourg](https://wwwen.uni.lu), Luxembourg. 
-HE was formerly a researcher 
-and PhD Candidate at 
+
+Education
+---------
+He was previously a researcher and PhD Candidate at 
 [CISPA](https://cispa.de/en) and 
 [Saarland University](https://www.uni-saarland.de/en/home.html), respectively. 
-He also attended the 
+He was a graduate student (2013-2016) at the 
 [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de).
+He possesses a MSc in Computer Science (2011) from 
+[African University of Science and Technology](https://aust.edu.ng)
+and a BSc in Software Engineering (2010) from
+[American University of Nigeria](https://www.aun.edu.ng).
+
+Research Statement
+-------------------
 
 Ezekiel's research is primarily focused on *software engineering* (SE), especially *software validation*. 
 This includes SE research concerns such as automated debugging, software testing, 
@@ -26,10 +35,6 @@ program analysis, and security testing.
 He is interested in studying both functional properties (e.g., correctness)
 and non-functional properties (e.g., security, robustness, and fairness) of 
 software systems, including aritificial intelligence (AI) -driven systems (e.g., automated classifiers). 
-
-
-Research Statement
--------------------
 
 Ezekiel's research objective is to *apply scientific methods to validate software systems*. 
 Software systems have become increasingly complex, such that it is impossible to ensure their
