@@ -20,9 +20,8 @@ A PDF of my CV is available [here](http://larrylehan.github.io/files/LarryHan_CV
 **Harvard University**  
 PhD in Biostatistics, 2018-2023 (expected)  
 AM in Biostatistics, 2020  
-Dissertation Primary Advisor: [Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/)  
-Dissertation Co-Advisor: [Lorenzo Trippa](https://www.hsph.harvard.edu/lorenzo-trippa/)  
-Dissertation Committee:  [Rui Duan,](https://sites.google.com/view/ruiduan/home?authuser=0) [Sebastian Schneeweiss](https://www.hsph.harvard.edu/sebastian-schneeweiss/)
+Dissertation Primary Advisor: [Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/)   
+Dissertation Committee: [Lorenzo Trippa,](https://www.hsph.harvard.edu/lorenzo-trippa/) [Rui Duan,](https://sites.google.com/view/ruiduan/home?authuser=0) [Sebastian Schneeweiss](https://www.hsph.harvard.edu/sebastian-schneeweiss/)
 
 **University of Cambridge**  
 MPhil in Operations Management, 2018  
