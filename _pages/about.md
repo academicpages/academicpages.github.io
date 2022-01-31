@@ -17,6 +17,14 @@ I received my Bachelor's degree in Computer Science in [Sichuan University](http
 
 # Publication
 
+![](images/iclr22.png){: .align-right width="200px"}
+**SO(2)-Equivariant Reinforcement Learning**  
+**Dian Wang**, Robin Walters, Robert Platt  
+ICLR 2022, Virtual, **spotlight**  
+[(OpenReview)](https://openreview.net/forum?id=7F9cOhdvfk_)
+` `  
+` `  
+
 ![](images/corl21.png){: .align-right width="200px"}
 **Equivariant Q Learning in Spatial Action Spaces**  
 **Dian Wang**, Robin Walters, Xupeng Zhu, Robert Platt  
