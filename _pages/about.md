@@ -18,10 +18,10 @@ at the
 
 Professional Experience
 -----------------------
-Ezekiel was previously a researcher (and PhD candidate) at the [Software Engineering Group](https://andreas-zeller.info) 
+Ezekiel was previously a researcher (and PhD candidate) at the [Software Engineering Research Group](https://andreas-zeller.info) 
 (of Prof. Dr. Andreas Zeller) of 
 [CISPA Helmholtz Center for Information Security](https://cispa.de/en) and a visiting researcher at the 
-[ASSETS Group](https://asset-group.github.io) 
+[Automated Systems SEcuriTy (ASSET) Research Group](https://asset-group.github.io) 
 (of Prof. Dr. Sudipta Chattopadhyay) at 
 [SUTD](https://www.sutd.edu.sg) -- Singapore University of Technology and Design. 
 
