@@ -64,7 +64,9 @@ Tejaswini Pedapati, Horst Samulowitz, Martin Wistuba, and **Yunyao Li**.  In _AA
 Burdick, Nandana Mihindukulasooriya, Vittorio Castelli, Guy Feigenblat, David Konopnicki, Yannis
 Katsis, Radu Florian, **Yunyao Li**, Salim Roukos, and Avirup Sil. In _AAAI(Demonstration Track)_ 2021
 
-###2020
+### 2020
+
+- **[Ontology Mediated Information Extraction with MASTRO SYSTEM-T](http://ceur-ws.org/Vol-2721/paper564.pdf).** Domenico Lembo, **Yunyao Li**, Lucian Popa, Kun Qian, Federico Scafoglieri.  In _ISWC (Demonstration Track)_ 2020 (**Best Demo Award**)
 
 - **[Exploiting Node Content for Multiview Graph Convolutional Network and Adversarial Regularization](https://aclanthology.org/2020.coling-main.47.pdf).** Qiuhao Lu, Nisansade Silva, Dejing Dou, Thien Huu Nguyen, Prithviraj Sen, Berthold Reinwald, **Yunyao Li**. In _COLING_ 2020
 
@@ -78,11 +80,18 @@ Katsis, Radu Florian, **Yunyao Li**, Salim Roukos, and Avirup Sil. In _AAAI(Demo
 
 - **[Learning Structured Representations of Entity Names using ActiveLearning and Weak Supervision](https://aclanthology.org/2020.emnlp-main.517.pdf).** Kun Qian, Poornima Chozhiyath Raman, **Yunyao Li**, Lucian Popa. In _EMNLP (short paper)_ 2020
 
+- **[XAIT: An Interactive Website for Explainable AI for Text](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/iui19-xait.pdf).** Erick Oduor, Kun Qian, **Yunyao Li**, Lucian Popa  In _IUI (Demonstration Track)_ 2020
+
+- **[PARTNER: Human-in-the-loop Entity Understanding with Deep Learning](https://ojs.aaai.org/index.php/AAAI/article/download/7104/6958).** Kun Qian, Poornima Chozhiyath Raman, **Yunyao Li**, and Lucian Popa. In _AAAI (Demonstration Track)_ 2020
+
+
 ### 2019
 
 - **[Learning Electronic Health Records through HyperbolicEmbedding of Medical Ontologies](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/bcb19.pdf).** Qiuhao Lu, Nisansa de Silva, Sabin Kafle, Jiazhen Cao, Dejing Dou, Thien Huu Nguyen, Prithviraj Sen, Brent Hailpern, Berthold Reinwald, **Yunyao Li**.  In _ACM-BCB_ 2019
 
 - **[Low-resource Deep Entity Resolution with Transfer and Active Learning](https://aclanthology.org/P19-1586.pdf).** Jungo Kasai, Kun Qian, Sairam Gurajada, **Yunyao Li**, Lucian Popa. In _ACL_ 2019
+
+- **HEIDL: Learning Linguistic Expressions with Deep Learning and Human-in-the-Loop.** Yiwei Yang, Eser Kandogan, **Yunyao Li**, Walter S. Lasecki, and Prithviraj Sen. In _ACL(Demonstration Track)_ 2019
 
 - **[Bridging the Semantic Gap with SQL Query Logs in Natural Language Interfaces to Databases](https://arxiv.org/pdf/1902.00031.pdf).** Chris Baik, **Yunyao Li**, and H.V. Jagadish. In _ICDE_ 2019
 
@@ -92,7 +101,11 @@ Katsis, Radu Florian, **Yunyao Li**, Salim Roukos, and Avirup Sil. In _AAAI(Demo
 
 - **[Exploiting Structure in Representation of Named Entities using Active Learning](https://aclanthology.org/C18-1058.pdf).** Nikita Bhutani, Kun Qian, **Yunyao Li**, H. V. Jagadish, Mauricio A. Hernndez, Mitesh Vasa.  In _COLING_ 2018
 
+- **[LUSTRE: An Interactive System for Entity Structured Representation and Variant Generation](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/icde19_lustre_demo.pdf).** Kun Qian, Nikita Bhutani, and **Yunyao Li**. In _ICDE (Demonstration Track)_ 2018
+
 - **[SystemT: Declarative Text Understanding for Enterprise](https://aclanthology.org/N18-3010.pdf).** Laura Chiticariu, Marina Danilevsky, **Yunyao Li**, Frederick Reiss, and Huaiyu Zhu.  In _NAACL-HLT (Industry Track)_ 2018
+
+
 
 ### 2017
 
