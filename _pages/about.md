@@ -39,7 +39,6 @@ and a BSc in Software Engineering (2010) from
 [American University of Nigeria](https://www.aun.edu.ng).
 
 
-
 Research
 -------------------
 Ezekiel's research is primarily focused on **software engineering** (SE), especially **software validation**. 
