@@ -64,6 +64,41 @@ Tejaswini Pedapati, Horst Samulowitz, Martin Wistuba, and **Yunyao Li**.  In _AA
 Burdick, Nandana Mihindukulasooriya, Vittorio Castelli, Guy Feigenblat, David Konopnicki, Yannis
 Katsis, Radu Florian, **Yunyao Li**, Salim Roukos, and Avirup Sil. In _AAAI(Demonstration Track)_ 2021
 
+###2020
+
+- **[Exploiting Node Content for Multiview Graph Convolutional Network and Adversarial Regularization](https://aclanthology.org/2020.coling-main.47.pdf).** Qiuhao Lu, Nisansade Silva, Dejing Dou, Thien Huu Nguyen, Prithviraj Sen, Berthold Reinwald, **Yunyao Li**. In _COLING_ 2020
+
+- **[A Novel Workflow for Accurately and Efficiently Crowdsourcing Predicate Senses and Argument Labels](https://aclanthology.org/2020.findings-emnlp.38.pdf).**  Youxuan Jiang, Huaiyu Zhu, Jonathan K. Kummerfeld, **Yunyao Li**, Walter S. Lasecki.  In _EMNLP (Findings)_ 2020
+
+- **[Small but Mighty: New Benchmarks for Split and Rephrase](https://aclanthology.org/2020.emnlp-main.91.pdf).** Li Zhang, Huaiyu Zhu, Siddhartha Brahma, **Yunyao Li**.  In _EMNLP (short paper)_ 2020
+
+- **[CLAR: A Cross-Lingual Argument Regularizer for Semantic Role Labeling](https://aclanthology.org/2020.findings-emnlp.279.pdf).** Ishan Jindal, **Yunyao Li**, Siddhartha Brahma, Huaiyu Zhu.  In _EMNLP (Findings)_ 2020
+
+- **[Learning Explainable Linguistic Expressions with Neural Inductive Logic Programming for Sentence Classification](https://aclanthology.org/2020.emnlp-main.345.pdf).** Prithviraj Sen, Marina Danilevsky, **Yunyao Li**, Siddhartha Brahma, Matthias Boehm, Laura Chiticariu, Rajasekar Krishnamurthy.  In _EMNLP (long paper)_ 2020
+
+- **[Learning Structured Representations of Entity Names using ActiveLearning and Weak Supervision](https://aclanthology.org/2020.emnlp-main.517.pdf).** Kun Qian, Poornima Chozhiyath Raman, **Yunyao Li**, Lucian Popa. In _EMNLP (short paper)_ 2020
+
+### 2019
+
+- **[Learning Electronic Health Records through HyperbolicEmbedding of Medical Ontologies](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/bcb19.pdf).** Qiuhao Lu, Nisansa de Silva, Sabin Kafle, Jiazhen Cao, Dejing Dou, Thien Huu Nguyen, Prithviraj Sen, Brent Hailpern, Berthold Reinwald, **Yunyao Li**.  In _ACM-BCB_ 2019
+
+- **[Low-resource Deep Entity Resolution with Transfer and Active Learning](https://aclanthology.org/P19-1586.pdf).** Jungo Kasai, Kun Qian, Sairam Gurajada, **Yunyao Li**, Lucian Popa. In _ACL_ 2019
+
+- **[Bridging the Semantic Gap with SQL Query Logs in Natural Language Interfaces to Databases](https://arxiv.org/pdf/1902.00031.pdf).** Chris Baik, **Yunyao Li**, and H.V. Jagadish. In _ICDE_ 2019
+
+### 2018
+
+- **[DIMSIM: An Accurate Chinese Phonetic Similarity Algorithm based on Learned High Dimensional Encoding](https://aclanthology.org/K18-1043.pdf).** Min Li, Marina Danilevsky, Sarah Noeman, and **Yunyao Li**. In _CoNLL_ 2018
+
+- **[Exploiting Structure in Representation of Named Entities using Active Learning](https://aclanthology.org/C18-1058.pdf).** Nikita Bhutani, Kun Qian, **Yunyao Li**, H. V. Jagadish, Mauricio A. Hernndez, Mitesh Vasa.  In _COLING_ 2018
+
+- **[SystemT: Declarative Text Understanding for Enterprise](https://aclanthology.org/N18-3010.pdf).** Laura Chiticariu, Marina Danilevsky, **Yunyao Li**, Frederick Reiss, and Huaiyu Zhu.  In _NAACL-HLT (Industry Track)_ 2018
+
+### 2017
+
+- **[Crowd-in-the-Loop: A Hybrid Approach for Annotating Semantic Roles](https://aclanthology.org/D17-1205.pdf).** Chenguang Wang, Alan Akbik, Laura Chiticariu, **Yunyao Li**, Fei Xia, and Anbang Xu.  In _EMNLP_ 2017
+
+
 <!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
