@@ -11,7 +11,7 @@ author_profile: false
 | -- | -- | ---- | -------- | ----- 
 |Th, Jan 27, 2022| 1:30pm - 2:30pm | Zhenhua Liu  |  Calibrated area-minimizing surfaces with fractal singular sets | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Feb 3, 2022| 1:30pm - 2:30pm |  Jiayin Pan | The escape phenomenon in open manifolds with nonnegative Ricci curvature | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
-|Th, Feb 10, 2022| 1:30pm - 2:30pm | Zhichao Wang |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
+|Th, Feb 10, 2022| 1:30pm - 2:30pm | Zhichao Wang | Min-max minimal hypersurfaces with higher multiplicity | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Feb 17, 2022| 1:30pm - 2:30pm | Peng Zhou | Variation of GIT quotients and Variation of Lagrangian skeleton | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Feb 24, 2022| 1:30pm - 2:30pm | Alex Waldron |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Mar 3, 2022| 1:30pm - 2:30pm | Andrew Sageman-Furnas |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
@@ -41,4 +41,7 @@ author_profile: false
 
 * Peng Zhou
   * Just as one can compute the cohomology of a smooth manifold using Morse theory with different Morse functions, one can compute the partially wrapped Fukaya category of a Weinstein pair using microlocal sheaf theory with different Lagrangian skeletons. In the setup of mirror symmetry for toric GIT quotient, we give an explicit interpolation between various Lagrangian skeleton using the notion of windows subcategory in VGIT. This is based on works https://arxiv.org/abs/2011.03719 and https://arxiv.org/abs/2011.06114 (with Jesse Huang).
+
+* Zhichao Wang
+  * Recently, X. Zhou proved that the Almgren-Pitts min-max solution has multiplicity one for bumpy metrics (Multiplicity One Theorem). In this talk, we exhibit the first set of examples of non-bumpy metrics on the $(n+1)$-sphere ($2\leq n\leq 6$) in which the varifold associated with the two-parameter min-max construction must be a multiplicity-two minimal $n$-sphere. This is proved by a new area-and-separation estimate for certain minimal hypersurfaces with Morse index two inspired by an early work of Colding-Minicozzi. This is a joint work with X. Zhou.
 
