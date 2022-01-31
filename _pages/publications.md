@@ -26,14 +26,14 @@ Kirschner, Lukas, _Ezekiel Soremekun_, and Andreas Zeller.
 * _"When does my program do this? learning circumstances of software behavior."_
 Kampmann, Alexander, Nikolas Havrikov, _Ezekiel O. Soremekun_, and Andreas Zeller
 In Proceedings of the 28th ACM joint meeting on european software engineering conference and symposium on the foundations of software engineering, pp. 1228-1239. 2020.
-[link][https://dl.acm.org/doi/abs/10.1145/3368089.3409687]
+[link](https://dl.acm.org/doi/abs/10.1145/3368089.3409687)
 
 
 * _"Where is the bug and how is it fixed? an experiment with practitioners."_ 
 Böhme, Marcel, _Ezekiel O. Soremekun_, Sudipta Chattopadhyay, Emamurho Ugherughe, and Andreas Zeller. 
 In Proceedings of the 2017 11th joint meeting on foundations of software engineering, pp. 117-128. 2017.
 [link](https://dl.acm.org/doi/abs/10.1145/3106237.3106255)
-[preprint)[https://publications.cispa.saarland/1468/1/FSE17.pdf]
+[preprint)(https://publications.cispa.saarland/1468/1/FSE17.pdf)
 [Website](https://dbgbench.github.io)
 
 * _"Detecting information flow by mutating input data."_
@@ -55,7 +55,6 @@ IEEE Transactions on Software Engineering (2020)
 * _"Astraea: Grammar-based fairness testing."_ 
 _Soremekun, Ezekiel_, Sakshi Udeshi, and Sudipta Chattopadhyay. 
 IEEE Transactions on Software Engineering (2022)
-# (link)[]
 [preprint](https://arxiv.org/pdf/2010.02542)
 
 
@@ -74,13 +73,3 @@ PhD Dissertation, Saarland Univerity.
 [link](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/31243)
 [preprint](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/31243/1/Phd_thesis_Ezekiel_Soremekun-no-cv.pdf)
 
-
-#{% if author.googlescholar %}
-#  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-#{% endif %}
-#
-#{% include base_path %}
-#
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
