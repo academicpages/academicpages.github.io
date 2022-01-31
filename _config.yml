@@ -14,7 +14,7 @@ description              : &description "Research Associate (PostDoc)"
 url                      : https://ezekiel-soremekun.github.io # the base hostname & protocol for your site e.g. "https://ezekiel-soremekun.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ezekiel-soremekun.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300w.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Ezekiel Soremekun"
-  avatar           : images/profile.png #"Ezekiel_Soremekun.jpg"
+  avatar           : "images/profile.png" #"Ezekiel_Soremekun.jpg"
   bio              : "Research Associate (PostDoc) at SnT, University of Luxembourg." 
   location         : "Luxembourg"
   employer         :
