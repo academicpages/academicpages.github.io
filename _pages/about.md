@@ -35,19 +35,19 @@ News
 Journal paper
 ------
 1. Canqi Yao, Shibo Chen, and Zaiyue Yang. "Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm." IEEE Transactions on Intelligent Transportation Systems, 2021. [[link]](https://ieeexplore.ieee.org/document/9430759)
+2. Canqi Yao, Shibo Chen, and Zaiyue Yang. "Online Distributed Routing Problem of Electric Vehicles." IEEE Transactions on Intelligent Transportation Systems minor revision.
 
 Conference paper
 ------
 1. Canqi Yao, Shibo Chen, and Zaiyue Yang."Evacuation Problem Under the Nuclear Leakage Accident." 2021 40th Chinese Control Conference (CCC). IEEE, 2021.[[link]](https://ieeexplore.ieee.org/document/9549934)[[poster]](https://drive.google.com/file/d/1wSui_pT8jHNKOOIKA6uj6N5EAo1MJcAJ/view?usp=sharing)
+2. Canqi Yao, Shibo Chen, Mauro Salazar, and Zaiyue Yang.“Incentive-aware Electric Vehicle Routing Problem: a Bi-level Model and a Joint Solution Algorithm” The 2022 American Control Conference (ACC) [[link]](https://arxiv.org/abs/2110.06441).
 
 
 
 Submitted Manuscripts
 ------
-1. Canqi Yao, Shibo Chen, and Zaiyue Yang. "Online Distributed Routing Problem of Electric Vehicles." IEEE Transactions on Intelligent Transportation Systems under review.
-2. Canqi Yao, Shibo Chen, and Zaiyue Yang. "Vehicle Routing Problem with Flexible Time Window: A Bi-level Approach." IEEE Transactions on Intelligent Transportation Systems under review.
-3. Canqi Yao, Shibo Chen, Mauro Salazar, and Zaiyue Yang.“Incentive-aware Electric Vehicle Routing Problem: a Bi-level Model and a Joint Solution Algorithm”  ACC 2022 under review.
-4. Canqi Yao, Shibo Chen, Mauro Salazar, and Zaiyue Yang.“Electric Vehicle Routing Problem with Spatio-temporal Varying Electricity Price and Incentive-aware Customers”  IEEE Transactions on Smart Grid under review.
+1. Canqi Yao, Shibo Chen, and Zaiyue Yang. "Vehicle Routing Problem with Flexible Time Window: A Bi-level Approach." IEEE Transactions on Intelligent Transportation Systems under review.
+2. Canqi Yao, Shibo Chen, Mauro Salazar, and Zaiyue Yang.“Electric Vehicle Routing Problem with Spatio-temporal Varying Electricity Price and Incentive-aware Customers”  IEEE Transactions on Smart Grid under review.
 
 
 Teaching
