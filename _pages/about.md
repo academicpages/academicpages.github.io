@@ -24,6 +24,7 @@ Research Interest
 
 News
 ------
+* Jan 31, 2022,  a conference paper named "_Incentive-aware Electric Vehicle Routing Problem: a Bi-level Model and a Joint Solution Algorithm_" is **accepted** by The 2022 American Control Conference (ACC) will be held in Atlanta, Georgia, USA.
 * Jan 11, 2022, invited as reviewer for The 2022 IEEE/AIAA Transportation Electrification Conference and Electric Aircraft Technologies Symposium (ITEC+EATS)
 * Oct 9, 2021, invited as reviewer for IEEE Systems Journal (ISJ). 
 * Apr 22, 2021, a journal paper named "_Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm_" is **accepted** by IEEE Transactions on Intelligent Transportation Systems.
