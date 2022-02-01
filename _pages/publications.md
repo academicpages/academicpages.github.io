@@ -20,6 +20,7 @@ author_profile: true
 - **Xiangfeng Wang**, J. Ye, X. Yuan, S. Zeng and J. Zhang, Perturbation Techniques for Convergence Analysis of Proximal Gradient Method and Other First-order Algorithms via Variational Analysis. *Set-Valued and Variational Analysis*, accepted, 2021.
 
 ## 2022
+- **Wenhao Li**, **Hongjun Chen**, **Bo Jin**, W. Tan, **Hongyuan Zha**, **Xiangfeng Wang**, Multi-Agent Path Finding with Prioritized Communication Learning. *ICRA*, 2022.
 - **Tingyu Wu**, **Wenhao Li**, **Bo Jin**, W. Zhang and **Xiangfeng Wang**, Weighted Mean-Field Multi-Agent Reinforcement Learning via Reward Attribution Decomposition. *DASFAA*, 2022.
 - **Wenhao Li**, **Bo Jin**, **Xiangfeng Wang**, **Junjie Sheng** and **Hongyuan Zha**, Dealing with Non-Stationarity in Multi-Agent Reinforcement Learning via Trust Region Decomposition. *ICLR*, 2022. [arxiv](https://arxiv.org/abs/2102.10616)
 - **Moyi Yang**, **Junjie Sheng**, **Xiangfeng Wang**, W. Liu, **Bo Jin**, J. Wang and **Hongyuan Zha**, Obtaining Dyadic Fairness by Optimal Transport. *AAAI Workshop on Optimal Transport and Structured Data Modeling*, 2022.
