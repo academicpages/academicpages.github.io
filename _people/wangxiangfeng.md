@@ -53,11 +53,9 @@ permalink: /people/xfwang
 
 ### Publications
 
-#### 出版书籍
+#### Book and Book Chapter
 1. 王祥丰/金博, 群体智能/Swarm Intelligence, 人工智能与智能教育丛书, 教育科学出版社.
-
-#### Book Chapter
-1. X. Fu, B. He, **Xiangfeng Wang**, and X. Yuan, Block-wise Alternating Direction Method of Multipliers with Gaussian Back Substitution for Multiple-block Convex Programming. Splitting Algorithms, Modern Operator Theory, and Applications, 2019.
+2. X. Fu, B. He, **Xiangfeng Wang**, and X. Yuan, Block-wise Alternating Direction Method of Multipliers with Gaussian Back Substitution for Multiple-block Convex Programming. Splitting Algorithms, Modern Operator Theory, and Applications, 2019.
 
 #### Journal 
 1. X. Cai, **Xiangfeng Wang**, and W. Zhang, The O(1/n) Worst-case Convergence Rate of ADMM with Variable Penalty Parameters. Numerical Mathematics A Journal of Chinese Universities, accepted, 2022. (Commemorate the 100th anniversary of the birth of Professor Xuchu He)
