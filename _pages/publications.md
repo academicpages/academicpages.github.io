@@ -119,6 +119,19 @@ Katsis, Radu Florian, **Yunyao Li**, Salim Roukos, and Avirup Sil. In _AAAI(Demo
 
 - **[Synthesizing Extraction Rules from User Examples with SEER](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/sigmod17-seer.pdf).** Maeda F. Hanafi, Azza Abouzied, Laura Chiticariu, and **Yunyao Li**.  In _SIGMOD (Demonstration Track)_ 2017
 
+### 2016
+
+- **[Multilingual Information Extraction with PolyglotIE](https://aclanthology.org/C16-2056.pdf).** Alan Akbik, Laura Chiticariu, Marina Danilevsky, Yonas Kbrom, **Yunyao Li**, and Huaiyu Zhu. In COLING (Demonstration Track) 2016
+
+- **[Polyglot: Multilingual semantic role labeling with unified labels](https://aclanthology.org/P16-4001.pdf).** Alan Akbik and **Yunyao Li**. In _COLING (Demonstration Track)___ 2016
+
+- **[K-SRL: Instance-based Learning for Semantic Role Labeling](https://aclanthology.org/C16-1058.pdf).** Alan Akbik and **Yunyao Li**. In _COLING_ 2016
+
+- **[Multilingual aliasing for auto-generating proposition banks](https://aclanthology.org/C16-1327.pdf).** Alan Akbik, Xinyu Guan, and **Yunyao Li**. In _COLING_ 2016
+
+- **[Towards semi-automatic generation of proposition banks for low-resource languages](https://aclanthology.org/D16-1102.pdf).** Alan Akbik and Vishwajeet Kumar and **Yunyao Li**. In _EMNLP (short paper)_ 2016
+
+
 <!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
