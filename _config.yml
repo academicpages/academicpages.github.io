@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Taeju Park"
-  avatar           : "profile.png"
+  avatar           : "bio-pic.png"
   bio              : "Computer Science Graduate"
   location         : 
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "taeju-park"
   orcid            : 
   pinterest        :
   soundcloud       :
