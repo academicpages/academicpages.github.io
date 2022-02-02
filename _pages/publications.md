@@ -147,6 +147,10 @@ Katsis, Radu Florian, **Yunyao Li**, Salim Roukos, and Avirup Sil. In _AAAI(Demo
 
 - **[WIZIE:A Best Practices Guided Development Environment for Information Extraction](https://aclanthology.org/P12-3019/).** **Yunyao Li**, Laura Chiticariu, Huahai Yang, Frederick Reiss, and Arnaldo Carreno-fuentes.  In _ACL (Demonstration Track)_ 2012
 
+- **Generating High Quality Proposition Banks for Multilingual Semantic Role Labeling.** Alan Akbik, Laura Chiticariu, Marina Danilevsky, Yunyao Li, Shivakumar Vaithyanathan, and Huaiyu Zhu. In _ACL_ 2015
+
+- **An In-depth Analysis of the Effect of Text Normalization in Social Media.** Tyler Baldwin and Yunyao Li. In _NAACL_ 2015
+
 
 ### 2011 
 
