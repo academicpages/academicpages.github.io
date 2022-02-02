@@ -160,7 +160,7 @@ Katsis, Radu Florian, **Yunyao Li**, Salim Roukos, and Avirup Sil. In _AAAI(Demo
 
 ### 2009
 
-- **[Enabling enterprise mashups over unstructured text feeds with InfoSphere MashupHub and SystemT](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/sigmod09-mashup.pdf).** David E. Simmen, Frederick Reiss, **Yunyao Li**, and Suresh Thalamati. In _SIGMOD (Demonstration Track)_ 2009
+- **[Enabling enterprise mashups over unstructured text feeds with InfoSphere MashupHub and SystemT(https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/sigmod09-mashup.pdf).** David E. Simmen, Frederick Reiss, **Yunyao Li**, and Suresh Thalamati. In _SIGMOD (Demonstration Track)_ 2009
 
 ### 2007
 
