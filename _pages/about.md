@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+![Yunyao Li: Illustrated Story](https://yunyaoli.github.io/images/YunyaoLi.IllustratedStories.jpg "illustrated story")
+
 Thought leader and changing agent with over 10 years of success in a Silicon Valley R&D center, achieving business impact by combining effective leadership with deep technical knowledge and skills. World-class computer scientist, continuing to push the boundary of innovation from scientific research to business results. Passionate advocate for improving the diversity for the STEM field.
 
 - Led the R&D of several large research projects, resulting in successful transfer into 20+ products with high business impact (billion+\$ revenue) and numerous high-profile customer engagements. Recognized by multiple prestigious IBM internal awards. 
@@ -22,7 +24,5 @@ Thought leader and changing agent with over 10 years of success in a Silicon Val
 Yunyao Li is a Distinguished Research Staff Member and Senior Research Manager at IBM Research - Almaden where she manages the Scalable Knowledge Intelligence department. She is particularly known for her work in scalable NLP, enterprise search, and database usability. She has built systems, developed solutions, and delivered core technologies to over 20 IBM products under brands such as Watson, InfoSphere, and Cognos. She has published over 80 articles and a book. She is a IBM Master Inventor, with over 50 patents filed/granted. Her technical contributions have been recognized by prestigious awards within and outside of IBM on regular basis. She is an ACM Distinguished Member. She was a member of the inaugural New Voices program of the American National Academies (1 out of 18 selected nationwide) and represented US young scientists at World Laureates Forum Young Scientists Forum in 2019 (1 of 4 selected nationwide). Yunyao obtained her Ph.D degree in Computer Science & Engineering and dual-degrees of M.S.E in Computer Science & Engineering and M.S in Information from the University of Michigan. She went to college at Tsinghua University, Beijing, China, and graduated with dual-degrees of B.E in Automation and B.S in Economics.
 
 ### More About Me
-
-![Yunyao Li: Illustrated Story](https://yunyaoli.github.io/images/YunyaoLi.IllustratedStories.jpg "illustrated story")
 
 Learn more about [my personal journey as a 1st generation college student](https://techmonitor.ai/techonology/ai-and-automation/small-town-china-silicon-valley-giant-amazing-story-one-ibm-researcher).   
