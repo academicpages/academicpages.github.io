@@ -80,6 +80,14 @@ Katsis, Radu Florian, **Yunyao Li**, Salim Roukos, and Avirup Sil. In _AAAI(Demo
 
 - **[Learning Structured Representations of Entity Names using ActiveLearning and Weak Supervision](https://aclanthology.org/2020.emnlp-main.517.pdf).** Kun Qian, Poornima Chozhiyath Raman, **Yunyao Li**, Lucian Popa. In _EMNLP (short paper)_ 2020
 
+- **[CORD-19: The COVID-19 Open Research Dataset](https://aclanthology.org/2020.nlpcovid19-acl.1/).** Lucy Lu Wang, Kyle Lo, Yoganand Chandrasekhar, Russell Reas, Jiangjiang Yang, Doug Burdick, Darrin Eidedarrine, Kathryn Funk, Yannis Katsis, Rodney Kinney, Yunyao Li, Ziyang Liu, William Merrill, Paul Mooney, Dewey Murdick, Devvret Rishi, Jerry Sheehan, Zhihong Shenzhihosh, Brandon Stilson, Alex Wade, Kuansan Wang, Nancy Xin Ru Wang, Chris Wilhelm, Boya Xie, Douglas Raymond, Daniel S Weld, Oren Etzioni, Sebastian Kohlmeier.  In _NLP COVID-19 Workshop_, Co-located with ACL, 2020
+
+-- **[Jennifer for COVID-19: An NLP-Powered Chatbot Built for the People and by the People to Combat Misinformation](https://aclanthology.org/2020.nlpcovid19-acl.9/).** Yunyao Li, Tyrone Grandison, Patricia Silveyra, Ali Douraghy, Xinyu Guan, Thomas Kieselbach, Chengkai Li, Haiqi Zhang. In _NLP COVID-19 Workshop_, Co-located with ACL, 2020
+
+- **[An Intuitive User Interface for Human-in-the-loop Entity Name Parsing and Entity Variant Generation](https://drive.google.com/file/d/1-NT7dHEiMxaAjvIIbr1lll6XL-BelcCe/view).** Kun Qian, Lucian Popa and Yunyao Li. In _DaSH@KDD_, 2020.
+
+- **[WhyFlow: Explaining Errors. in Data Flows Interactively](https://drive.google.com/file/d/1EROo3fYk8E1fnX5vBtB1TYtfs_PWsX-N/view).** Maeda Hanafi, Azza Abouzied, Marina Danilevsky and Yunyao Li. In _DaSH@KDD_, 2020
+
 - **[XAIT: An Interactive Website for Explainable AI for Text](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/iui19-xait.pdf).** Erick Oduor, Kun Qian, **Yunyao Li**, Lucian Popa  In _IUI (Demonstration Track)_ 2020
 
 - **[PARTNER: Human-in-the-loop Entity Understanding with Deep Learning](https://ojs.aaai.org/index.php/AAAI/article/download/7104/6958).** Kun Qian, Poornima Chozhiyath Raman, **Yunyao Li**, and Lucian Popa. In _AAAI (Demonstration Track)_ 2020
@@ -121,7 +129,7 @@ Katsis, Radu Florian, **Yunyao Li**, Salim Roukos, and Avirup Sil. In _AAAI(Demo
 
 ### 2016
 
-- **[Multilingual Information Extraction with PolyglotIE](https://aclanthology.org/C16-2056.pdf).** Alan Akbik, Laura Chiticariu, Marina Danilevsky, Yonas Kbrom, **Yunyao Li**, and Huaiyu Zhu. In COLING (Demonstration Track) 2016
+- **[Multilingual Information Extraction with PolyglotIE](https://aclanthology.org/C16-2056.pdf).** Alan Akbik, Laura Chiticariu, Marina Danilevsky, Yonas Kbrom, **Yunyao Li**, and Huaiyu Zhu. In _COLING (Demonstration Track)_ 2016
 
 - **[Polyglot: Multilingual semantic role labeling with unified labels](https://aclanthology.org/P16-4001.pdf).** Alan Akbik and **Yunyao Li**. In _COLING (Demonstration Track)___ 2016
 
@@ -130,6 +138,34 @@ Katsis, Radu Florian, **Yunyao Li**, Salim Roukos, and Avirup Sil. In _AAAI(Demo
 - **[Multilingual aliasing for auto-generating proposition banks](https://aclanthology.org/C16-1327.pdf).** Alan Akbik, Xinyu Guan, and **Yunyao Li**. In _COLING_ 2016
 
 - **[Towards semi-automatic generation of proposition banks for low-resource languages](https://aclanthology.org/D16-1102.pdf).** Alan Akbik and Vishwajeet Kumar and **Yunyao Li**. In _EMNLP (short paper)_ 2016
+
+### 2015 
+
+Yunyao Li, Elmer Kim, Marc A. Touchette, Ramiya Venkatachalam, and Hao Wang. VINERy: A
+Visual IDE for Information Extraction. In VLDB (Demonstration Track) 2015
+[16]Zhuowei Bao, Benny Kimelfeld, Yunyao Li, Sriram Raghavan, and Huahai Yang. Gumshoe Quality
+Toolkit: Administering Programmable Search. In CIKM (Demonstration Track) 2012
+[17]Yunyao Li, Laura Chiticariu, Huahai Yang, Frederick Reiss, and Arnaldo Carreno-fuentes. WIZIE:
+A Best Practices Guided Development Environment for Information Extraction. In ACL
+(Demonstration Track) 2012
+[18]Yunyao Li, Frederick Reiss, and Laura Chiticariu. SystemT: A Declarative Information
+Extraction System. In ACL (Demonstration Track) 2011
+[19]Laura Chiticariu, Vivian Chu, Sajib Dasgupta, Thilo W. Goetz, Howard Ho, Rajasekar
+Krishnamurthy, Alexander Lang, Yunyao Li, Bin Liu, Sriram Raghavan, Frederick Reiss, Shivakumar
+Vaithyanathan, and Huaiyu Zhu, The SystemT IDE: an integrated development
+environment for information extraction rules. In SIGMOD (Demonstration Track) 2011
+[20]Yunyao Li, Ishan Chaudhuri, Huahai Yang, Satinder Singh and H. V. Jagadish. Name suppressed
+for double blind review. In SIGMOD (Demonstration Track) 2007
+[21]David E. Simmen, Frederick Reiss, Yunyao Li, and Suresh Thalamati. Enabling enterprise
+mashups over unstructured text feeds with InfoSphere MashupHub and SystemT. In
+SIGMOD (Demonstration Track) 2009
+
+Yunyao Li, Ishan Chaudhuri, Huahai Yang, Satinder Singh, and H. V. Jagadish. DaNaLIX: a
+domain-adaptive natural language interface for querying XML. In SIGMOD (Demonstration
+Track) 2007
+[23]Yunyao Li, Huahai Yang, H. V. Jagadish. NaLIX: an Interactive Natural Language Interface
+for Querying XML. In SIGMOD (Demonstration Track) 2005 (Best Demo Award)
+
 
 
 <!--
