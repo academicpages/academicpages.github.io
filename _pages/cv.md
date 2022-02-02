@@ -35,12 +35,8 @@ Award and Service
 * Best student paper award, the Web Conference 2021
 * Google PhD fellowship nominee, 2020
 * First class scholarship, Hunan University, 2013-2015
-
-
-* Conference reviewer for ACM CHI 2021 
+* Conference reviewer for ACM CHI 2021, 2022 
 * Conference reviewer for ACM CSCW 2020
-
-
 * US patent. “Method of Machine Learning Training for Data Augmentation”. Filed
 * US patent. “Combining Unsupervised and Supervised Machine Learning to Estimate SMB (Small Business) Revenue in Lending”. Filed.
 
