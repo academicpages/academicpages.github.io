@@ -1,6 +1,6 @@
 ---
 title: "Molecular Machine Learning"
-excerpt: "Artificial intelligence for molecular property prediction and material design<br/><img src='/images/molopt.png' width='300'>"
+excerpt: "Artificial intelligence for molecular property prediction and material design<br/><img src='/images/molopt.png' width='500'>"
 collection: portfolio
 ---
 
