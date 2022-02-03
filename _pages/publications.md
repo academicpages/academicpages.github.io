@@ -171,16 +171,32 @@ Technology_ April 2020
 
 - **[A Graph Approach to Spelling Correction in Domain-Centric Search](https://aclanthology.org/P11-1091/).** Zhuowei Bao, Benny Kimelfeld, and **Yunyao Li**. In _ACL_ 2011
 
+- **[Rewrite Rules for Search Database Systems](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/pods11.pdf).** Ronald Fagin, Benny Kimelfeld, **Yunyao Li**, Sriram Raghavan, and Shivakumar Vaithyanathan. In _PODS_ 2011
+
+- **[Selectivity Estimation for Extraction Operators over Text Data](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/icde2011-SystemT-selectivity-estimation.pdf).** Daisy Zhe Wang, Long Wei, Yunyao Li, Frederick Reiss, and Shivakumar Vaithyanathan. In _ICDE_ 2011
+
+### 2010
+
+- **[SystemT: An Algebraic Approach to Declarative Information Extraction](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/acl2010-systemt-overview-TR2012.pdf).** Laura Chiticariu, Rajasekar Krishnamurthy, **Yunyao Li**, Sriram Raghavan, Frederick Reiss, and Shivakumar Vaithyanathan.  In _ACL_ 2010
+
+- **[Domain Adaptation of Rule-Based Annotators for Named-Entity Recognition Tasks](https://aclanthology.org/D10-1098/).** Laura Chiticariu, Rajasekar Krishnamurthy, **Yunyao Li**, Frederick Reiss, and Shivakumar Vaithyanathan. In _EMNLP_ 2010
+
+- **[Understanding queries in a search database system](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/pods10.pdf).** Ronald Fagin, Benny Kimelfeld, Yunyao Li, Sriram Raghavan, and Shivakumar Vaithyanathan. In _PODS_ 2010
+
 ### 2009
 
-- **[Enabling enterprise mashups over unstructured text feeds with InfoSphere MashupHub and SystemT(https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/sigmod09-mashup.pdf).** David E. Simmen, Frederick Reiss, **Yunyao Li**, and Suresh Thalamati. In _SIGMOD (Demonstration Track)_ 2009
+- **[Enabling enterprise mashups over unstructured text feeds with InfoSphere MashupHub and SystemT](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/sigmod09-mashup.pdf).** David E. Simmen, Frederick Reiss, **Yunyao Li**, and Suresh Thalamati. In _SIGMOD (Demonstration Track)_ 2009
 
 ### 2008
 
 - **[SystemT: a System for Declarative Information Extraction](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/sigmodRecord08-SystemT.pdf).** Rajasekar Krishnamurthy, **Yunyao Li**, Sriram Raghavan, Frederick Reiss, Shivakumar Vaithyanathan,
 and Huaiyu Zhu.  _SIGMOD Record_ 37(4) 2008
 
-- **[Enabling Schema-Free XQuery with Meaningful Query Focus](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/vldbj06-SchemaFreeXQuery.pdf).** **Yunyao Li**, Cong Yu, H. V. Jagadish.  _Very Large Data Bases Journal___ 17(3) 2008
+- **[Enabling Schema-Free XQuery with Meaningful Query Focus](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/vldbj06-SchemaFreeXQuery.pdf).** **Yunyao Li**, Cong Yu, H. V. Jagadish.  _Very Large Data Bases Journal_ 17(3) 2008
+
+- **[Regular Expression Learning for Information Extraction](https://aclanthology.org/D08-1003/).** **Yunyao Li**, Rajasekar Krishnamurthy, Sriram Raghavan, Shivakumar Vaithyanathan, and H. V. Jagadish. In _EMNLP_ 2008
+
+- **[Enabling Domain-Awareness for a Generic Natural Language Interface](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/AAAI07LiY.pdf).** **Yunyao Li**, Ishan Chaudhuri, Huahai Yang, Satinder Singh, and H. V. Jagadish. In _AAAI_ 2007
 
 ### 2007
 
@@ -188,12 +204,23 @@ and Huaiyu Zhu.  _SIGMOD Record_ 37(4) 2008
 
 - **[NaLIX: A Generic Natural Language Search Environment for XML Data](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/tods07-nalix.pdf).** **Yunyao Li**, Huahai Yang, H. V. Jagadish. _ACM Transaction on Database System._ 32(4) 2007
 
+- **[Making database systems usable](http://dbgroup.eecs.umich.edu/usable/usability.pdf).** H. V. Jagadish, Adriane Chapman, Aaron Elkiss, Magesh Jayapandian, **Yunyao Li**, Arnab Nandi, and Cong Yu. In _SIGMOD_ 2007
+
+### 2006
+
+- **[Getting Work Done on the Web: Supporting Transactional Queries](http://dbgroup.eecs.umich.edu/files/SupportTransactionalSearch-SIGIR06.pdf).**  **Yunyao Li**, Rajasekar Krishnamurthy, Shivakumar Vaithyanathan, and H.V. Jagadish. In _SIGIR_ 2006
+
+- **[Term Disambiguation in Natural Language Query for XML](http://dbgroup.eecs.umich.edu/files/fqas06.pdf).** **Yunyao Li**, Huahai Yang, and H. V. Jagadish.  In _FQAS_ 2006 (invited paper)
+
+- **[Constructing a Generic Natural Language Interface for an XML Database](http://dbgroup.eecs.umich.edu/files/NaLIX_EDBT.pdf).** **Yunyao Li**, Huahai Yang, and H. V. Jagadish.  In _EDBT_ 2006
 
 ### 2005
 
 - **[NaLIX: an Interactive Natural Language Interface for Querying XML](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/sigmod05-nalix.pdf).** **Yunyao Li**, Huahai Yang, H. V. Jagadish. In _SIGMOD (Demonstration Track)_ 2005 **(Best Demo Award)**
 
+### 2004
 
+- **[Schema-Free XQuery](http://dbgroup.eecs.umich.edu/files/mlcas.pdf).** **Yunyao Li**, Cong Yu, H. V. Jagadish. In VLDB 2004
 
 <!--
 {% if author.googlescholar %}
