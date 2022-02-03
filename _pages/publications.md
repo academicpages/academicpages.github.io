@@ -55,6 +55,6 @@ Knowledge-Based Systems, 2021.
 
 * **MDA: Multimodal Data Augmentation Framework for Boosting Performance on Image-Text Sentiment/Emotion Classification Tasks**  
 Nan Xu, Wenji Mao, **Penghui Wei**, Daniel Zeng  
-IEEE Intelligent Systems, 2020.
+IEEE Intelligent Systems, Volume 36, Issue 6, 2020: 3--12.
 
   
