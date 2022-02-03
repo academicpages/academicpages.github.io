@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 # ACADEMIC POSITIONS
 
 ## Postdoctoral Researcher 2020-
