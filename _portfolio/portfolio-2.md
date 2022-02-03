@@ -1,6 +1,6 @@
 ---
 title: "Molecular Simulation"
-excerpt: "Combining physics-based and data-driven methods for molecular simulation<br/><img src='/images/molsim.png'>"
+excerpt: "Combining physics-based and data-driven methods for molecular simulation<br/><img src='/images/molnnp.png'>"
 collection: portfolio
 ---
 
