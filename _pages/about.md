@@ -15,5 +15,3 @@ I am interested in learning how and why people make decisions and then using the
 As a first-generation student myself, I wish to study more about intergenerational socioeconomic mobility and education in future research by using data and behavioral economics tools.
 
 I am a big tennis fan, and love playing badminton. I also love watching movies. If you want to talk about your (or mine!) research interests, data, tennis, or movies, please [get in touch](mailto:aartimalik96@gmail.com)! I'd love to hear from you!
-
-[Curriculum Vitae](https://github.com/aartimalik/aartimalik.github.io/raw/master/pdfs/web_cv.pdf) (Updated February 2022)
