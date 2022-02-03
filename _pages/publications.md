@@ -13,28 +13,7 @@ redirect_from:
 ### Book
 - **[Natural Language Data Management and Interfaces](https://www.morganclaypool.com/doi/10.2200/S00866ED1V01Y201807DTM049).** **Yunyao Li** and Davood Rafiei. _Morgan Claypool Publisher_. 2018
 
-### Refereed Journal Articles
-- **[Making AI Machines Work for Humans in FoW](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/Making%20AI%20Machines%20Work%20for%20Humans%20in%20FoW.pdf).** Sihem Amer-Yahia, Senjuti Basu Roy, Lei Chen, Atsuyuki Morishima, James Abello Monedero,
-Pierre Bourhis, Franois Charoy, Marina Danilevsky, Gautam Das, Gianluca Demartini, Shady
-Elbassuoni, David Gross-Amblard, Emilie Hoareau, Munenari Inoguchi, Jared B. Kenworthy, Itaru
-Kitahara, Dongwon Lee, **Yunyao Li**, Ria Mae Borromeo, Paolo Papotti, Raghav Rao, Sudeepa Roy,
-Pierre Senellart, Keishi Tajima, Saravanan Thirumuruganathan, Marion Tommasi, Kazutoshi
-Umemoto, Andrea Wiggins, Koichiro Yoshida:  _SIGMOD Record_ 49(2): 30-35. 2020
-
-- **[Synergizing Medical Imaging and Radiotherapy with Deep Learning](https://iopscience.iop.org/article/10.1088/2632-2153/ab869f/pdf).** 
-Hongming Shan, Xun Jia, Pingkun Yan, Yunyao Li, Harald Paganetti and Ge Wang. **Machine Learning: Science and
-Technology** April 2020
-
-- **[Understand users comprehension and preferences for composing information visualizations](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/Understand%20Users%20Comprehension%20and%20Preferences.pdf).** Huahai Yang, **Yunyao Li**, and Michelle Zhou. _ACM Transaction on Computer Human Interaction_ 21(1) 2014
-
-- **[SystemT: a System for Declarative Information Extraction](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/sigmodRecord08-SystemT.pdf).** Rajasekar Krishnamurthy, **Yunyao Li**, Sriram Raghavan, Frederick Reiss, Shivakumar Vaithyanathan,
-and Huaiyu Zhu.  _SIGMOD Record_ 37(4) 2008
-
-- **[Enabling Schema-Free XQuery with Meaningful Query Focus](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/vldbj06-SchemaFreeXQuery.pdf).** **Yunyao Li**, Cong Yu, H. V. Jagadish.  _Very Large Data Bases Journal___ 17(3) 2008
-
-- **[NaLIX: A Generic Natural Language Search Environment for XML Data](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/tods07-nalix.pdf).** **Yunyao Li**, Huahai Yang, H. V. Jagadish. _ACM Transaction on Database System._ 32(4) 2007
-
-### Refereed Conference Articles
+### Refereed Conference/Journal Articles
 
 ### 2022
 
@@ -92,6 +71,17 @@ Katsis, Radu Florian, **Yunyao Li**, Salim Roukos, and Avirup Sil. In _AAAI(Demo
 
 - **[PARTNER: Human-in-the-loop Entity Understanding with Deep Learning](https://ojs.aaai.org/index.php/AAAI/article/download/7104/6958).** Kun Qian, Poornima Chozhiyath Raman, **Yunyao Li**, and Lucian Popa. In _AAAI (Demonstration Track)_ 2020
 
+- **[Making AI Machines Work for Humans in FoW](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/Making%20AI%20Machines%20Work%20for%20Humans%20in%20FoW.pdf).** Sihem Amer-Yahia, Senjuti Basu Roy, Lei Chen, Atsuyuki Morishima, James Abello Monedero,
+Pierre Bourhis, Franois Charoy, Marina Danilevsky, Gautam Das, Gianluca Demartini, Shady
+Elbassuoni, David Gross-Amblard, Emilie Hoareau, Munenari Inoguchi, Jared B. Kenworthy, Itaru
+Kitahara, Dongwon Lee, **Yunyao Li**, Ria Mae Borromeo, Paolo Papotti, Raghav Rao, Sudeepa Roy,
+Pierre Senellart, Keishi Tajima, Saravanan Thirumuruganathan, Marion Tommasi, Kazutoshi
+Umemoto, Andrea Wiggins, Koichiro Yoshida:  _SIGMOD Record_ 49(2): 30-35. 2020
+
+- **[Synergizing Medical Imaging and Radiotherapy with Deep Learning](https://iopscience.iop.org/article/10.1088/2632-2153/ab869f/pdf).** 
+Hongming Shan, Xun Jia, Pingkun Yan, Yunyao Li, Harald Paganetti and Ge Wang. _Machine Learning: Science and
+Technology_ April 2020
+
 
 ### 2019
 
@@ -112,8 +102,6 @@ Katsis, Radu Florian, **Yunyao Li**, Salim Roukos, and Avirup Sil. In _AAAI(Demo
 - **[LUSTRE: An Interactive System for Entity Structured Representation and Variant Generation](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/icde19_lustre_demo.pdf).** Kun Qian, Nikita Bhutani, and **Yunyao Li**. In _ICDE (Demonstration Track)_ 2018
 
 - **[SystemT: Declarative Text Understanding for Enterprise](https://aclanthology.org/N18-3010.pdf).** Laura Chiticariu, Marina Danilevsky, **Yunyao Li**, Frederick Reiss, and Huaiyu Zhu.  In _NAACL-HLT (Industry Track)_ 2018
-
-
 
 ### 2017
 
@@ -151,6 +139,27 @@ Katsis, Radu Florian, **Yunyao Li**, Salim Roukos, and Avirup Sil. In _AAAI(Demo
 
 - **An In-depth Analysis of the Effect of Text Normalization in Social Media.** Tyler Baldwin and Yunyao Li. In _NAACL_ 2015
 
+### 2014
+
+- **[Ph.D. Workshop - An Overview](http://www.vldb.org/pvldb/vol7/p1719-phd.pdf).** **Yunyao Li** and Erich J. Neuhold. _VLDB___ 2014 In PVLDB7(13): 1719 2014
+
+- **[Understand users comprehension and preferences for composing information visualizations](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/Understand%20Users%20Comprehension%20and%20Preferences.pdf).** Huahai Yang, **Yunyao Li**, and Michelle Zhou. _ACM Transaction on Computer Human Interaction_ 21(1) 2014
+
+### 2013
+
+- **[Rule-based Information Extraction is Dead! Long Live Rule-based Information Extraction Systems](https://aclanthology.org/D13-1079/)!** Laura Chiticariu, **Yunyao Li**, and Frederick Reiss. In _EMNLP_ 2013 (short paper)
+
+- **[OpinionBlocks: A Crowd-Powered, Self-Improving Interactive Visual Analytic System for Understanding Opinion Text](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/interact2013_opinionBlock.pdf).** Mengdie Hu, Huahai Yang, Michelle Zhou, Liang Gou, **Yunyao Li**, and Eben Haber. In _INTERACT_ 2013
+
+- **[Adaptive Parser-Centric Text Normalization](https://aclanthology.org/P13-1114/).** Congle Zhang, Tyler Baldwin, Howard Ho, Benny Kimelfeld, **Yunyao Li**. In _ACL_ 2013 (**Best paper nomination**)
+
+- **[Automatic Term Ambiguity Detection](https://aclanthology.org/P13-2140/).** Tyler Baldwin, **Yunyao Li**, Bogdan Alexe, Ioana Roxana Stanoi. In _ACL_ 2013 (short paper)
+
+- **[I Can Do Text Analytics! Designing Development Tools for Novice Developers](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/chi2013-SystemT-user-interface.pdf).** Huahai Yang, Daina Pupons-Wickham, Laura Chiticariu, **Yunyao Li**, Benjamin Nguyen, and Arnaldo Carreno-fuentes.  In _CHI_ 2013
+
+### 2012
+
+- **[Automatic Suggestion of Query-Rewrite Rules for Enterprise Search](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/papers-sigir12.pdf)**. Zhuowei Bao, Benny Kimelfeld, and **Yunyao Li**.  In SIGIR 2012
 
 ### 2011 
 
@@ -158,13 +167,27 @@ Katsis, Radu Florian, **Yunyao Li**, Salim Roukos, and Avirup Sil. In _AAAI(Demo
 
 - **[The SystemT IDE: an integrated development environment for information extraction rules](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/sigmod2011-SystemT-tooling-demo.pdf).** Laura Chiticariu, Vivian Chu, Sajib Dasgupta, Thilo W. Goetz, Howard Ho, Rajasekar Krishnamurthy, Alexander Lang, **Yunyao Li**, Bin Liu, Sriram Raghavan, Frederick Reiss, Shivakumar Vaithyanathan, and Huaiyu Zhu, In _SIGMOD (Demonstration Track)_ 2011
 
+- **[Facilitating Pattern Discovery for Relation Extraction with Semantic-Signature-based Clustering](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/cikm2011-SystemT-pattern-discovery.pdf).** Yunyao Li, Vivian Chu, Sebastian Blohm, Huaiyu Zhu, and Howard Ho. In _CIKM_ 2011
+
+- **[A Graph Approach to Spelling Correction in Domain-Centric Search](https://aclanthology.org/P11-1091/).** Zhuowei Bao, Benny Kimelfeld, and **Yunyao Li**. In _ACL_ 2011
+
 ### 2009
 
 - **[Enabling enterprise mashups over unstructured text feeds with InfoSphere MashupHub and SystemT(https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/sigmod09-mashup.pdf).** David E. Simmen, Frederick Reiss, **Yunyao Li**, and Suresh Thalamati. In _SIGMOD (Demonstration Track)_ 2009
 
+### 2008
+
+- **[SystemT: a System for Declarative Information Extraction](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/sigmodRecord08-SystemT.pdf).** Rajasekar Krishnamurthy, **Yunyao Li**, Sriram Raghavan, Frederick Reiss, Shivakumar Vaithyanathan,
+and Huaiyu Zhu.  _SIGMOD Record_ 37(4) 2008
+
+- **[Enabling Schema-Free XQuery with Meaningful Query Focus](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/vldbj06-SchemaFreeXQuery.pdf).** **Yunyao Li**, Cong Yu, H. V. Jagadish.  _Very Large Data Bases Journal___ 17(3) 2008
+
 ### 2007
 
 - **[DaNaLIX: a Domain-adaptive Natural Language Interface for Querying XML](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/sigmod07-danalix.pdf).** **Yunyao Li**, Ishan Chaudhuri, Huahai Yang, Satinder Singh and H. V. Jagadish. . In _SIGMOD (Demonstration Track)_ 2007
+
+- **[NaLIX: A Generic Natural Language Search Environment for XML Data](https://github.com/yunyaoli/yunyaoli.github.io/blob/master/files/tods07-nalix.pdf).** **Yunyao Li**, Huahai Yang, H. V. Jagadish. _ACM Transaction on Database System._ 32(4) 2007
+
 
 ### 2005
 
