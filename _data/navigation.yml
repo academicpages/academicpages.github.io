@@ -2,4 +2,4 @@
 main:
     
   - title: "CV"
-    url: https://github.com/aartimalik/aartimalik.github.io/raw/master/pdfs/web_cv.pdf
+    url: https://docs.google.com/viewer?url=${https://github.com/aartimalik/aartimalik.github.io/raw/master/pdfs/web_cv.pdf}
