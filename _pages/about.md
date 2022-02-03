@@ -16,4 +16,4 @@ As a first-generation student myself, I wish to study more about intergeneration
 
 I am a big tennis fan, and love playing badminton. I also love watching movies. If you want to talk about your (or mine!) research interests, data, tennis, or movies, please [get in touch](mailto:aartimalik96@gmail.com)! I'd love to hear from you!
 
-__[Curriculum Vitae]("/pdfs/web_cv.pdf")__ (Updated February 2022)
+[Curriculum Vitae](https://github.com/aartimalik/aartimalik.github.io/raw/master/pdfs/web_cv.pdf) (Updated February 2022)
