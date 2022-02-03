@@ -8,8 +8,6 @@ redirect_from:
 ---
 {% include base_path %}
 
-# Under Construction
-
 ### Book
 - **[Natural Language Data Management and Interfaces](https://www.morganclaypool.com/doi/10.2200/S00866ED1V01Y201807DTM049).** **Yunyao Li** and Davood Rafiei. _Morgan Claypool Publisher_. 2018
 
