@@ -21,10 +21,11 @@ The generated synthetic images for the dense-black-grass class are as follows:![
 I trained the network with four Nvidia P100 GPUs for 36 hours to obtain these results. As the original dataset hasn't been published yet, I can only share here some samples from synthetic images. As can be seen from the image, the model performs poorly in the generation of soil texture.
 
 ### Binary Classification
-The main objective of this project is to detect blackgrass in the field images. Hence, as the next step, I trained a binary classifier with two classes: dense blackgrass and no blackgrass. The dataset consists of four classes, dense, medium, sparse, and no blackgrass, with the class imbalance in favor of no blackgrass. Therefore, I combined medium and dense blackgrass classes and trained a ResNet50 model with fine-tuning technique. The numbers of training, validation, and test images per class are: 1730, 494, 247. Training and validation accuray/loss graphes are: ![!](/images/results_bs_32_img_512_fig2_fine.png)
+The main objective of this project is to detect blackgrass in the field images. Hence, as the next step, I trained a binary classifier with two classes: dense blackgrass and no blackgrass. The dataset consists of four classes, dense, medium, sparse, and no blackgrass, with the class imbalance in favor of no blackgrass. Therefore, I combined medium and dense blackgrass classes and trained a ResNet50 model with fine-tuning technique. The numbers of training, validation, and test images per class are: 1730, 494, 247. Training and validation accuray/loss graphes are:\
+![!](/images/results_bs_32_img_512_fig2_fine.png)
 
 
-Some metric results are as follows:
+Also, some metric results are as follows:
 
 Confusion matrix: [[206  41], [ 58 189]]
 
