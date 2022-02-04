@@ -25,7 +25,7 @@ The main objective of this project is to detect blackgrass in the field images. 
 ![!](/images/results_bs_32_img_512_fig2_fine.png)
 
 
-Also, some metric results are as follows:
+Also, some metric results for the test dataset are as follows:
 
 Confusion matrix: [[206  41], [ 58 189]]
 
