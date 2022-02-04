@@ -329,4 +329,5 @@ Submitted and under review
 176. M. S. Omar and X. Ma, “The Effects of Narrowband Interference on OCDM,” in *Proc. IEEE 21st International Workshop on Signal Processing Advances in Wireless Communications (SPAWC)*, Atlanta, GA, May 2020.
 177. M. S. Omar and X. Ma, “Mitigating Clipping Distortion in OFDM Using Deep Residual Learning,” in *Proc. IEEE ICASSP*, June 2021.
 178. C.-H. Yang,  J. Qi, P.-Y. Chen, Y.-C. S. Chen, S. M. Siniscalchi, X. Ma, and C.-H. Lee, “Decentralizing Feature Extraction with Quantum Convolutional Neural Network for Automatic Speech Recognition,” in *Proc. IEEE ICASSP*, June 2021. 
+179. L. Yan, X. Ma and X. Li, "Diversity-Oriented Grant-Free Transmissions for Underwater Wireless Networks," in *Proc. IEEE/CIC International Conference on Communications in China (ICCC Workshops)*, Oct. 2021, pp. 309-314.
 
