@@ -136,10 +136,16 @@ author_profile: true
 107.  R. Zhang, X. Ma, D. Wang, F. Yuan, and E. Cheng, “Adaptive Coding and Bit-Power Loading Algorithms for Underwater Acoustic Transmissions,” *IEEE Trans. on Wireless Communications*, accepted Mar. 2021.
 108. H. Wu, X. Ma, and S. Liu, “Designing Multitask Convolutional Variational Autoencoder for Radio Tomographic Imaging,” *IEEE Trans. on Circuits and Systems–II: Express Briefs*, accepted May 2021.
 109. Z. Shi, Y. Wang, L. Liu, and X. Ma, “A Joint Sonar-Communication System Based on Multicarrier Waveforms,” *IEEE Signal Processing Letters*, accepted Aug. 2021. 
-110.  M. S. Omar and X. Ma, “Pilot symbol aided channel estimation for OCDM transmissions,” *IEEE Communications Letters*, Accepted Npv. 2021. 
+110.  M. S. Omar and X. Ma, “Pilot symbol aided channel estimation for OCDM transmissions,” *IEEE Communications Letters*, Accepted Nov. 2021. 
 111. R. Zhang, Y. Wang, and X. Ma, “Channel Estimation for OCDM Transmissions with Carrier Frequency Offset,” *IEEE Wireless Communications Letters*, Accepted Dec. 2021.
 
 Submitted and under review
+
+112. Y. Alfadhli, R. Sarkar, H. Gupta, S. Yao, M. Sethuraman, C.-W. Hsu, S.-J. Su,  G.-K. Chang, and X. Ma, “P4MEC: Empowering In-network Computing to Support Cooperative-URLLC Services at the Aggregation Layer,” *Journal of Network and Computer Applications*, submitted Oct. 2021.
+
+113. S. Yao, X. Tang, R. Zhang, Q. Zhou, S.-J. Su, C.-W. Hsu, Y. M. Alfadhli, X. Ma, and G.-K. Chang, “Accelerating LMS-based Equalization with Correlated Training Sequence in Bandlimited IM/DD Systems,” *IEEE/Optica Publishing Group Journal of Lightwave Technology*, submitted Jan. 2022.
+
+114. D. Huang, S. Zhang, and X. Ma, “Accelerating LMS-based Equalization with Correlated Training Sequence in Bandlimited IM/DD Systems,” *IEEE/ACM Transactions on Networking*,submitted Jan. 2022.
 
 
 **Conference Publications**
