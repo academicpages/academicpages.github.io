@@ -109,6 +109,12 @@ collection: portfolio
 <br/>Colonel Oscar P. Cleaver Awards from ECE, Spring 2013
 <br/>Currently employed by Google, CA 
 
+*Dr. Jun Qi*
+
+<br/> Fall 2019 -- Jan. 2022
+<br/> Dissertation: 
+*Theoretical Error Performance Analysis for Deep Neural Network Based Regression Functional Approximation*
+
 <u>Masters Students</u>
 
 *Wei Zhang*
