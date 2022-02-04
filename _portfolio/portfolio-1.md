@@ -13,12 +13,25 @@ collection: portfolio
 * B.Sc. National University of Sciences and Technology, Pakistan
 
 
-**Jun Qi**
+**Rui Zhang**
 
-* Ph.D. Candidate, Georgia Institute of Technology,  Fall 2020 -- present
-  * Topic: Performance analysis on the deep neural networks based vector-to-vector regression
-  * Expected to graduate Aug. 2021
-* B.Sc., Tsinghua University, Beijing, China
+* Ph.D. Candidate, Georgia Institute of Technology,  Spring 2021 -- present
+  * Topic: Noise Characterization and System Optimization for High-Capacity Optical Commuication
+  * Expected to graduate May 2022
+* B.Sc., Peking University, Beijing, China
+
+**Yao Shuang**
+
+* Ph.D. Candidate, Georgia Institute of Technology,  Spring 2021 -- present
+  * Topic: Fiber-Wireless Integration with Enhanced Adaptability for Next Generation Radio Access Networks
+  * Expected to graduate May 2022
+
+**Yahya M. Alfadhli**
+
+* Ph.D. Candidate, Georgia Institute of Technology,  Spring 2021 -- present
+  * Topic: ADVANCED RADIO ACCESS NETWORK FEATURING COLLABORATIVE MOBILE EDGE COMPUTING WITH FLEXIBLE PER-UE SERVICE PROVISIONING
+  * Expected to graduate May 2022
+  
 
 
 **Chin-Yuan (Howard) Tseng**
@@ -33,7 +46,7 @@ collection: portfolio
 * Ph.D. Student, Georgia Institute of Technology, Fall 2019 -- present
   * Topic: Learning-based attacks and defenses for wireless systems
   * Expected to graduate Dec. 2023 
-* B.Sc., City University of Hong Kong, Hong Kong, China
+* B.Sc., City University of Hong Kong, Hong Kong
 
 **Ziyan He**
 
