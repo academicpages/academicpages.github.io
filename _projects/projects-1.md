@@ -11,7 +11,7 @@ The aim of the project is to develop a computer vision-based weed detection syst
 To accomplish this, I have used two machine learning tools so far: Generative Adversarial Networks (GANs) and Convolutional Neural Networks (CNNs). CNNs are well-known image recognition systems that have demonstrated outstanding performance in a variety of applications. 
 However, CNNs require large datasets to train, and collecting such a dataset for each field is not practical. To meet this challenge, I trained a [StyleGAN model](https://arxiv.org/abs/1912.04958), which generates synthetic images based on factors, such as growth stage and soil type. 
 
-For further information regarding the project, please refer to this link: [Black-grass Project](https://agrifoodtech.blogs.lincoln.ac.uk/2020/12/16/black-grass-detection-project/)
+For further information regarding the project, please refer to this link: [Blackgrass Project](https://agrifoodtech.blogs.lincoln.ac.uk/2020/12/16/black-grass-detection-project/)
 
 ### Synthetic Data Generation
 Based on the authors' [GitHub repo](https://github.com/NVlabs/stylegan2), I trained a StyleGAN model with our dataset which is collected from cereal fields across the UK. The dataset consists of five channels: red, green, blue, near-infrared, red-edge, and each pixel is represented by 16 bits. As a pre-processing step, I combined red, green and near-infrared channels and normalized the pixel values.
