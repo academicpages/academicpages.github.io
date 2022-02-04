@@ -1,6 +1,6 @@
 ---
 title: "Black-grass Detection with Deep Neural Networks"
-excerpt: "<img src='/images/blackgrass.png'>"
+excerpt: "<img src='/images/blackgrass.jpg'>"
 collection: projects
 ---
 
