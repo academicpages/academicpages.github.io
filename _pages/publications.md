@@ -6,7 +6,7 @@ author_profile: true
 <br>
 <b>[GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation](http://lantaoyu.com/publications/GeoDiff)</b> <br> 
 Minkai Xu, <b>Lantao Yu</b>, Yang Song, Chence Shi, Stefano Ermon, Jian Tang.
-<i>The Tenth International Conference on Learning Representations</i>. <b>ICLR 2022</b>.
+<i>The Tenth International Conference on Learning Representations</i>. <b>ICLR 2022</b>. <b><span style="color:red">(Oral Presentation)</span></b>
 
 <b>[Pseudo-Spherical Contrastive Divergence](http://lantaoyu.com/publications/PSCD)</b> <br> 
 <b>Lantao Yu</b>, Jiaming Song, Yang Song, Stefano Ermon.
