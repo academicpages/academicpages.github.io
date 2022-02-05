@@ -56,7 +56,7 @@ Work experience
   * Kent State University
   * Supervisor: Dr. Mina Choi
 
-* Fall 2021: Teaching Assistant
+* Fall 2021: Graduate Instructor
   * Kent State University
   * Supervisor: Dr. Jennifer L. McCullough
   
