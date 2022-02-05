@@ -59,6 +59,10 @@ Work experience
 * Fall 2021: Graduate Instructor
   * Kent State University
   * Supervisor: Dr. Jennifer L. McCullough
+
+* Spring 2022: Graduate Instructor
+  * Kent State University
+  * Supervisor: Dr. Michael Beam
   
 Skills
 ======
@@ -89,4 +93,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Service to the dicipline
+  * Conference Panel Chair / Respondent
+    * 2020 Chair of the *At the crossroads of coming out and online identities* [Conference session]. Panel presented at the National Communication Association 106th Annual Convention, Virtual Conference
