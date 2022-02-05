@@ -8,3 +8,4 @@ redirect_from:
   - /posts.html
 ---
 
+### Coming soon!
