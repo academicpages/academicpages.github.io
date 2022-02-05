@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &Matthew_JACraig
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : https://stackoverflow.com/users/18128260/mcdv7
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : Matthew_JACraig
   vine             :
   weibo            :
   xing             :
