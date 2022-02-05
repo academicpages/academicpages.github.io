@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Organizational Communication & Gender and Women's Studies, Western Michigan University, 2017
+* M.A. in Communication, Western Michigan University, 2020
+* Ph.D in Communication & Information, Kent State University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Fall 2018 - Spring 2020: Graduate Teaching Assistant
+  * Western Michigan University, School of Communication
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 

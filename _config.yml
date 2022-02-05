@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthew J. Craig"
+title                    : "Matthew J. A. Craig"
 title_separator          : "Ph.D. Student, Communication & Information"
-name                     : &name "Your Name"
+name                     : &name "Matthew J. A. Craig"
 description              : &description "personal description"
 url                      : https://mcdv7.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Matthew JA Craig"
   avatar           : "profile.png"
-  bio              : "Communication Technology, Society, & Interpersonal"
+  bio              : "Doctoral student at Kent State University CCI studying our communication with and through machines (Communication Technology, Society, & Interpersonal)"
   location         : "Ohio"
-  employer         : ""
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_RX3IlkAAAAJ&hl=en&oi=sra"
   email            : "matthewjacraig@outlook.com"
@@ -106,10 +106,10 @@ author:
   orcid            : "https://orcid.org/0000-0002-4824-566X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 18128260/mcdv7
+  stackoverflow    : "18128260/mcdv7"
   steam            :
   tumblr           :
-  twitter          : Matthew_JACraig
+  twitter          : "Matthew_JACraig"
   vine             :
   weibo            :
   xing             :
