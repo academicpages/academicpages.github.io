@@ -21,6 +21,19 @@ Work experience
   * Duties included: Writing academic literature reviews, designing and deploying surveys, market analysis, interviews with experts, proposing and applying econometric models
   * Supervisor: José Tavera
 
+Extra-curricular activities
+======
+
+* Fall - Winter 2021: HR Assisant
+  * Económica Magazine
+  * Duties included: Follow-ups with the areas of the organization and their members. Communication with area managers. Development of infographics concerning worker wellbeing. Presentations on the advancements of the Human Resources area.
+  * Supervisor: Yanira Luna
+
+* Spring 2021 - Summer 2022
+  * Económica Magazine
+  * Duties included: Creation of economic news summaries, opinion pieces. Tasked with building a database for peer review and editorial board. Interviews with experts in diverse topics. 
+  * Supervisor: André Lama
+
   
 Skills
 ======
