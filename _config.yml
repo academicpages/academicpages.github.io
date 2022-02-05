@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rodrigo Grijalba - Professional Introduction"
+title                    : "Rodrigo Grijalba - Introduction"
 title_separator          : "-"
 name                     : &name "Rodrigo Grijalba"
 description              : &description "Economist and Data Scientist. Machine Learning, Statistical Learningm, Applied Econometrics. Bachelor's Degree in Economics from the Pontifical Catholic University of Peru"
