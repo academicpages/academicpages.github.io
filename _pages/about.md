@@ -24,6 +24,17 @@ Updates
 ---
 
 <details open>
+<summary>2022</summary>
+<ul>
+  <li>
+    3 Feb - Received Registraion Grant for AAAI22
+  </li>
+  <li>
+    7 Jan - Shortlisted to participate in Google Research Week 2022
+  </li>
+</ul>
+
+<details>
 <summary>2021</summary>
 <ul>
   <li>
