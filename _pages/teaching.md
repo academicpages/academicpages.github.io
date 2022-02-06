@@ -17,3 +17,7 @@ You can check ours yllabus [here](https://yongjunzhang.com/files/css/CSS_Zhang_S
 ### Week 2
 
 [Lab 2](https://yongjunzhang.com/files/css/Lab2.html)
+
+### Week 3
+
+[Lab 3](https://yongjunzhang.com/files/css/Lab3.html)
