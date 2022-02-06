@@ -4,7 +4,7 @@ excerpt: "Exploratory analysis of Metropolitan Lima's commuting patterns and mod
 collection: portfolio
 ---
 
- <!DOCTYPE html>
+ 
 
 <html>
 
