@@ -39,7 +39,7 @@ Skills
 ======
 * English as a second language (C2)
 
-* Programming languages:
+* Statistical software:
 
   * Python (Advanced)
   * R (Intermediate)
