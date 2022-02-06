@@ -1,6 +1,6 @@
 ---
-title: "Vacunas por distrito"
-excerpt: "Mapa de la cantidad de vacunas por cada 100 habitantes aplicadas para cada distrito<br/><img src='/images/vax_dist.png'>"
+title: "Vaccines per district"
+excerpt: "Map of the number of vaccines applied per 100 inhabitants for each district in Peru <br/><img src='/images/vax_dist.png'>"
 collection: portfolio
 ---
 
