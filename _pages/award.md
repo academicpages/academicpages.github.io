@@ -37,7 +37,7 @@ author_profile: true
   - [Adaptive Parser-Centric Text Normalization](https://aclanthology.org/P13-1114.pdf)
 
 - **Best Demo Award**, ACM SIGMOD Conference (2005)\\
-  - NaLIX: an interactive natural language interface for querying XML
+  - [NaLIX: an interactive natural language interface for querying XML](http://dbgroup.eecs.umich.edu/files/130NaLIX.pdf)
 
 ### Selected IBM Recognition and Award
 
