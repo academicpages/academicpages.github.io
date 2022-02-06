@@ -47,3 +47,27 @@ tags:
 
 示例：为演讲编辑 Markdown 文件
 ![为演讲编辑 Markdown 文件](/images/editing-talk.png)
+
+# 关键文件/目录的位置
+
+* 基本配置选项: _config.yml
+* 顶部导航栏配置: _data/navigation.yml
+* 单页: _pages/
+* 页面集合是 .md 或 .html 文件，位于:
+  * _publications/
+  * _portfolio/
+  * _posts/
+  * _teaching/
+  * _talks/
+* 页脚: _includes/footer.html
+* 静态文件（如 PDF）: /files/
+* 个人资料图片（可以在_config.yml中设置）: images/profile.png
+
+# 提示
+
+* 将文件命名为“.md”以使其在 Markdown 中呈现，将其命名为“.html”以在 HTML 中呈现。
+* 转到提交列表（在您的 repo 上）以找到使用 Jekyll 构建的最新版本的 Github。
+  * 绿色对勾：成功构建
+  * 橙色圆圈：建筑
+  * 红色 X：错误
+  * 无图标：未构建
