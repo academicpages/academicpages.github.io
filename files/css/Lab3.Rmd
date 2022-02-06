@@ -1,0 +1,590 @@
+---
+title: "Lab3 Web Scraping and API 101"
+author: "Yongjun Zhang, Ph.D."
+institute: "Department of Sociology and IACS, Stony Brook Unversity"
+date: "02/07/2022"
+output:
+  rmdformats::readthedown:
+    highlight: pygments
+--- = =
+---
+
+```{=html}
+<style type="text/css">
+p{ /* Normal  */
+   font-size: 18px;
+}
+body{ /* Normal  */
+   font-size: 18px;
+}
+td {  /* Table  */
+   font-size: 14px;
+}
+h1 { /* Header 1 */
+ font-size: 32px;
+}
+h2 { /* Header 2 */
+ font-size: 26px;
+}
+h3 { /* Header 3 */
+ font-size: 22px;
+}
+code.r{ /* Code block */
+  font-size: 14px;
+}
+pre { /* Code block */
+  font-size: 14px
+}
+</style>
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Learning Objects
+
+This tutorial aims to introduce some basic ways to collect data via web scraping and API using R or python. 
+
+1. How to do basic web scraping with httr,rvest, and rselenium R packages. For selenium driver, we will use python as an example. You are asked to rewrite the code in R. The target website is elephrame.com and the main content is related to black lives matter movement.
+
+2. How to read, clean, and transform dat to get basic statistics.
+
+In the first part of python tutorial, we have covered some basic things about how to read and save files in Python, and how to use selenium to do webscraping. For more details on webscraping, you can check out this book <https://link.springer.com/content/pdf/10.1007/978-1-4842-3582-9.pdf>.
+
+## Lab 3 Part 1. Basic Intro to Python and Webscraping
+
+We will focus more on R in this semester, but we also briefly introduce some basics on Python. You should know how to use python to process data and do machine learning. There are a couple of ways to access python like R. You can use jupyter notebook, google colab, terminal, Spyder, VScode, etc. Here we use Rstudio to access python. 
+
+### Basic Intro to Python
+We will use Python to collect data, but use R to tidy data. In the last week's Tutorial, we covered how to install Python/Spyder. You should be Python-ready. You can open the our tutorial using jupyter notebook or google colab. 
+
+If your system does not have jupyter notebook, pls check here for more information about how to install jupyter notebook <https://jupyter.org/install>.
+
+If your system has pip, you can simply run the following code in your terminal (note that remove # ):
+
+```{bash, eval = FALSE}
+#pip3 install notebook
+#jupyter notebook
+```
+
+**If you system does not install pip, you can check here for more details:https://pip.pypa.io/en/stable/installing/**
+
+Similarly, you can install modules like pandas, numpy, selenium,bs4 (beautifulsoup), tensorflow, pytorch, keras, etc.
+
+We are not going to cover those Python Basics today. You can read **NLP with Python** Chapters1-3 for more details <https://www.nltk.org/book/>. 
+
+Today, we only introduce some basics related to webscraping. 
+
+### 1. Play with your working directory and then open and save files
+
+```{python,eval=FALSE}
+# get current working directory
+import os
+path=os.getcwd()
+print(path)
+```
+
+```{python,eval=FALSE}
+# create a new folder for our course
+new_path="./soc591/"
+os.makedirs(new_path)
+```
+
+```{python,eval=FALSE}
+# change the current working directory to soc591
+os.chdir(new_path,eval=FALSE)
+# check the current wd
+print("Current wd: ",os.getcwd())
+```
+
+```{python,eval=FALSE}
+# let us create a new file in current WD, write some texts into the file, and then close it
+f = open("soc591.txt",mode="w+")
+col_vars = "id;text\n"
+f.write(col_vars)
+f.write("1;This is a demo for writing some texts\n")
+f.close()
+```
+
+```{python,eval=FALSE}
+# Let us read the soc591.txt file and assign it to variable text_df
+text_df = open("soc591.txt", "r").read()
+print(text_df)
+```
+
+```{python,eval=FALSE}
+# list file content
+os.listdir(".")
+```
+
+```{python,eval=FALSE}
+# Let us remove the soc591.txt file
+os.remove("soc591.txt")
+```
+
+
+### Basic info on webpages
+
+Web-scraping is automating the ways how we gather data from websites. It is more efficient, but imposing burdens on servers. That is why a lot of websites develop anti-robot measures to prevent automate data gathering. You should always check robots.txt from the target website to see whether it allows you to scrape. 
+
+For most of the time, we can scrape those government websites because they disclose massive data for the public such as FEC and SEC websites. 
+
+Some of these websites are straightfoward. They are static. You can go their webpage and scrape all their stuff easily.
+
+#### Here is an example of static html page
+```{r,eval=FALSE}
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+
+```
+
+But sometimes we have dynamic and interactive websites built on JavaScript, PHP, etc. For instance, a lot of data visualizaton websites, you have to click on something, then the website will return some results. 
+
+One solution to this is to use Selenium to simulate browser behavior.
+
+### Scraping Static Webpages
+
+```{python, eval=FALSE}
+import pandas as pd
+from bs4 import BeautifulSoup as bs
+import urllib.parse
+import urllib.request
+
+def get_crp_industry_list(url):
+  ''' Access Opensecrets.org website and return industry names and ids.
+  '''
+  # Specify userheader
+  userHeader = {"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/600.7.12 (KHTML, like Gecko) Version/8.0.7 Safari/600.7.12"}
+  req = urllib.request.Request(url, headers=userHeader)
+  # open url and read web page
+  response = urllib.request.urlopen(req)
+  the_page = response.read()
+  # beautifulsoup parse html
+  soup=bs(the_page,"html.parser")
+  #print(soup)
+  # get all industry links and names
+  indList=soup.find("div",{"id":"rightColumn"}).find_all("a")
+  #print(indList)
+  # clean raw data
+  indLinks = []
+  indNames = []
+  for link in indList[1:]:
+      indLinks.append(link['href'].replace("indus.php?ind=",""))
+      indNames.append(link.contents[0].strip())
+  #print(indLinks,indNames)
+  # create a dataset
+  indDF = pd.DataFrame({"indLinks":indLinks,"indNames":indNames})
+  return indDF
+
+url="https://www.opensecrets.org/industries/slist.php"
+data_ind_list=get_crp_industry_list(url)
+print(data_ind_list)
+```
+
+### Using Selenium to Scrape Dynamic and Interactive Websites
+
+So what is selenium? Selenium is an open-source web-based automation tool used for testing in the industry. But it can also used for wescraping, or "crawling/spiderig". 
+
+Selenium can control your web browser and automate your browsing behavior. We will use Google chrome driver, but you can also other drivers like firefox,IE,etc.
+
+```{bash, eval=FALSE}
+#!pip3 install selenium
+#pip3 install webdriver_manager
+#pip3 install bs4
+```
+
+#### The Goal here is to scrape Black Lives Matter Data from 
+<https://elephrame.com/textbook/BLM/chart>
+
+This website tracks the occurence of BLM protests. We cannot use the previous way to directly get the data because it is dynamic and you have to scroll down or click next page to get more data.
+
+Let us build our cralwer from scratches...
+
+1. We need to install webdriver to control our browser
+2. We need to use our webdriver to control brower to establish a connection with the target website (sometimes you have to do someth log-in stuff, send pwd, etc.)
+3. We need to check the target webpage to locate the info we need
+4. Scrape the target info, open a file on local computer or your server, and save that info.
+5. We click the next page and repeat the scraping process until the end
+5. Close your webdriver
+6. We encapsulate the whole process (def a function or class to automate the whole process)
+
+```{python, eval=FALSE}
+# Import modules for use
+import os
+import selenium
+from selenium import webdriver
+import time
+import requests
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.common.exceptions import ElementClickInterceptedException
+from bs4 import BeautifulSoup as bs
+
+# Install Driver
+driver = webdriver.Chrome(ChromeDriverManager().install())
+
+# Open the url and establish a connection
+url = "https://elephrame.com/textbook/BLM/chart"
+driver.implicitly_wait(5)
+driver.maximize_window()
+driver.get(url)
+
+# Scroll down to the bottom of the page
+#driver.execute_script("window.scrollTo(0,window.scrollY+300)")
+driver.execute_script("window.scrollTo(0,document.body.scrollHeight)")
+
+# Read and parse the first page
+first_page = driver.page_source
+soup = bs(first_page,"html.parser")
+
+# Use google developer inspect to check the source codes
+# locate the key info we need
+# it stores ad div class = "item chart"
+items = soup.findAll("div",{"class":"item chart"})
+print(items)
+
+# find necessay elements, including id, item-protest-location,protest-start,protest-end,item-protest-subject
+# item-protest-participants (li), item-protest-time,item-protest-description, item-protest-url
+import re
+for item in items:
+    try:
+        id=re.findall(r'id="([0-9].*?)"',str(item))[0]
+        print(id)
+    except:
+        id=NA
+    try:
+        protest_location=' '.join(item.find("div",{"class":"item-protest-location"}).text.split())
+        print(protest_location)
+    except:
+        protest_location=""
+    try:
+        protest_start=' '.join(item.find("div",{"class":"protest-start"}).text.split())
+        print(protest_start)
+    except:
+        protest_start=""
+    try:
+        protest_end=' '.join(item.find("div",{"class":"protest-end"}).text.split())
+        print(protest_end)
+    except:
+        protest_end=""
+    try:
+        protest_subject=' '.join(item.find("li",{"class":"item-protest-subject"}).text.split())
+        print(protest_subject)
+    except:
+        protest_subject=""
+    try:
+        protest_participants=' '.join(item.find("li",{"class":"item-protest-participants"}).text.split())
+        print(protest_participants)
+    except:
+        protest_participants=""
+    try:
+        protest_time=' '.join(item.find("li",{"class":"item-protest-time"}).text.split())
+        print(protest_time)
+    except:
+        protest_time=""
+    try:
+        protest_description=' '.join(item.find("li",{"class":"item-protest-description"}).text.split())
+        print(protest_description)
+    except:
+        protest_description=""
+    try:
+        protest_urls='##'.join(item.find("li",{"class":"item-protest-url"}).text.split())
+        print(protest_urls,"\n")
+    except:
+        protest_urls=""
+        
+# save the last item content into a tsv file for check
+# check current dir
+os.getcwd()
+#os.chdir()
+import csv 
+with open('blm-data.tsv','w+') as f:
+    tsv_writer = csv.writer(f, delimiter='\t')
+    # write column names
+    var_names=["protest_id", "protest_location","protest_start","protest_end","protest_subject","protest_participants", 
+            "protest_time","protest_description", "protest_urls"]
+    tsv_writer.writerow(var_names)
+    # write actual data
+    data=[protest_id, protest_location,protest_start,protest_end,protest_subject,protest_participants, 
+            protest_time,protest_description, protest_urls]
+    tsv_writer.writerow(data)
+    
+# click the next page
+# you can check here for more info on selenium how to locate elements 
+# https://selenium-python.readthedocs.io/locating-elements.html
+import time
+from selenium.webdriver.common.by import By
+next_page = driver.find_element(By.XPATH, '//*[@id="blm-results"]/div[3]/ul/li[4]')
+next_page.click()
+time.sleep(5)
+# then we repeat the process to the end
+
+# Because we have 229 pages, so we need a loop to automate the process
+soup = bs(driver.page_source,"html.parser")
+# locate the page id
+page_id = soup.find("input",{"class":"page-choice"})["value"]
+page_id = int(page_id)
+print(page_id)
+'''
+while page_id <=336:
+    # do first page scraping 
+    # click next page
+    # repeat the scraping
+    # if page_id>336, then stop
+'''
+
+```
+
+We can encapsulate the whole process into one single file
+<https://yongjunzhang.com/files/scrape-blm.py>
+
+## Lab 3 Part 2. Basic Intro to R and Preprossing Textual Data with R
+
+We were able to successfully scrape the BLM protest events dataset. You can access the dataset <https://yongjunzhang.com/files/blm-data.tsv>
+
+#### We need to load some packages for use
+
+```{r}
+if (!requireNamespace("pacman"))
+  install.packages('pacman')
+library(pacman)
+packages<-c("tidyverse","tidytext","rvest", "RSelenium","coreNLP",
+            "tm","haven","readxl","here","knitr","stopwords")
+p_load(packages,character.only = TRUE)
+```
+
+#### Load blm-data tsv file
+
+R tidyverse package provides a series of useful data wrangling tools. You can 
+check it here <https://www.tidyverse.org/>. The tidyverse package installs a number of other packages for reading data:
+
+1. **DBI** for relational databases. You’ll need to pair DBI with a database specific backends like RSQLite, RMariaDB, RPostgres, or odbc. Learn more at https://db.rstudio.com.
+
+2. **haven** for SPSS, Stata, and SAS data.
+
+3. **httr** for web APIs.
+
+4. **readxl** for .xls and .xlsx sheets.
+
+5. **rvest** for web scraping.
+
+6. **jsonlite** for JSON. (Maintained by Jeroen Ooms.)
+
+7. **xml2** for XML.
+
+```{r}
+# read tsv file using read_csv
+data <- read_tsv(url("https://yongjunzhang.com/files/blm-data.tsv"))
+```
+
+```{r}
+# Show a table for visual check
+knitr::kable(data[1:3,],cap="Black Lives Matter Protest (elephrame.com)")
+```
+
+#### Clean blm-data
+
+Let us say, we need to create variables like state and city; we also want to clean some variables like subjects, description, etc.
+
+```{r}
+data <- data %>% 
+  # split location
+  separate(protest_location,c("city","state"),sep = ",",remove = T) %>% 
+  # split protest start time
+  separate(protest_start,c("day","date","year"),sep = ",",remove = T) %>%
+  # clean subjects and participants
+  mutate(
+    protest_subject = str_replace(protest_subject,"Subject\\(s\\): ",""),
+    protest_participants = str_replace(protest_participants,"Participant\\(s\\): ",""),
+    protest_time = str_replace(protest_time,"Time: ",""),
+    protest_description = str_replace(protest_description,"Description: ",""),
+    protest_urls = str_replace(protest_urls,"Source\\(s\\):","")
+    )
+
+```
+
+```{r}
+# Show a table for visual check
+knitr::kable(data[1:3,],cap="Black Lives Matter Protest (elephrame.com)")
+```
+
+### Using Tidytest package to process some variables
+
+There are a variety of processing text packages. Today we briefly introduce tidytext package. You can check here<https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html>; This tidytext toturial heavily relies on Julia Silge and David Robinson's work. You can also check their book Text Mining with R here <https://www.tidytextmining.com/>
+
+```{r}
+library(tidytext)
+
+# Let us say we are interested in protest description. We need to restructure it as one-token-per-row format. The unnest_tokens function is a way to convert a dataframe with a text column to be one-token-per-row:
+
+tidy_data <- data %>%
+  # protest_urls is messay, let us get rid of it first
+  select(-protest_urls) %>% 
+  # one token per row. This function uses the tokenizers package to separate each line into words. The default tokenizing is for words, but other options include characters, ngrams, sentences, lines, paragraphs, or separation around a regex pattern.
+  unnest_tokens(word, protest_description) %>% 
+  # remove stop words
+  anti_join(tidytext::get_stopwords("en",source="snowball")) %>% 
+  # you can also add your own stop words if you want
+  # check here to see tibble data structure <https://tibble.tidyverse.org/>
+  anti_join(tibble(word=c("no","details")),by="word")
+
+
+knitr::kable(tidy_data[1:10,],cap="Black Lives Matter Protest (elephrame.com)")
+  
+```
+
+## Part 3. Basic Analysis of Textual Data
+
+### Let us get a count vector for protest description, like what are the most frequent words or bi-grams
+
+```{r}
+tidy_data %>% 
+  count(word, sort = TRUE) 
+```
+
+We can further plot this! I don't like wordcloud, so I just do a simple bar plot.
+
+```{r}
+library(ggplot2)
+
+tidy_data %>%
+  count(word, sort = TRUE) %>%
+  filter(n > 100) %>%
+  mutate(word = reorder(word, n)) %>%
+  ggplot(aes(word, n)) +
+  geom_col() +
+  xlab(NULL) +
+  coord_flip()
+```
+
+**let us get bigram**
+
+```{r}
+ data %>%
+  select(-protest_urls) %>% 
+  unnest_tokens(bigram, protest_description,token = "ngrams", n = 2) %>%
+  count(bigram,sort = TRUE)
+```
+
+You can check text mining with R book here <https://www.tidytextmining.com/tfidf.html#tfidf>
+
+```{r}
+tidy_words <- tidy_data %>%
+  count(protest_id, word, sort = TRUE)
+
+tidy_words
+```
+
+## Part 4. Let us use R to replicate some webscraping
+
+Let us say we want to go deeper about BLM data. The BLM-DATA.TSV provides the original protest urls (news articles). We want to process those original articles to get more info.
+
+### Let us use httr or rvest to scrape a couple of news articles for example.
+
+```{r}
+# create a dataset having urls, year, and ids
+urls <- data %>% 
+  select(protest_id,state,date,protest_urls) %>% 
+  # let us extract all protest_urls
+  mutate(protest_urls=str_replace_all(protest_urls,"^##|^#","")) %>% 
+  separate_rows(protest_urls,sep="##") %>% 
+  filter(str_detect(protest_urls,"^http"))
+
+# only keep one url for each protest
+urls1 <- urls %>% 
+  distinct(protest_id,.keep_all = T)
+
+# let us take a look at the data
+knitr::kable(urls1[1:5,],cap="Black Lives Matter Protest (elephrame.com)")
+```
+
+Use httr and rvest packages to get access to articles. Note that a lot of news articles need speciall subsription to get access such as facebook, wp, etc.
+
+rvest and httr have a lot of functions. here is an overview (credit to GITHUB:yusuzech)
+
+```{r, out.width="100%",out.height="50%",fig.align='center', fig.cap=''}
+knitr::include_graphics('rvest_httr.png')
+```
+
+
+```{r}
+library(rvest)
+library(httr)
+url <- urls1$protest_urls[1]
+url
+
+# rvest provides two ways of making request: read_html() and html_session() 
+# read_html() can parse a HTML file or an url into xml document. 
+# html_session() is built on GET() from httr package.
+
+#making GET request andparse website into xml document
+pagesource <- read_html(url)
+
+#using html_session which creates a session and accept httr methods
+my_session <- session(url)
+
+#html_session is built upon httr, you can access response with a session
+response <- my_session$response
+
+#retrieve content as raw
+content_raw <- content(my_session$response,as = "raw")
+#retrieve content as text
+content_text <- content(my_session$response,as = "text")
+#retrieve content as parsed(parsed automatically)
+content_parsed <- content(my_session$response,as = "parsed")
+
+```
+> Obviously it returns a bunch of messy stuff; You need to use RSelenium to scrape these dynamic websites; we have learnt basic Selenium stuff in python.
+> You can read this turorial for more details <https://ropensci.org/tutorials/rselenium_tutorial/>
+
+### Here let me briefly show you we can also do this in R
+
+```{r,eval=FALSE}
+# connect to chrome driver
+driver <- RSelenium::rsDriver(browser = "chrome",port = 4443L)
+remote_driver <- driver[["client"]] 
+remote_driver$navigate(url)
+```
+
+```{r,eval=FALSE}
+# retrieve the article
+
+main_article <- remote_driver$findElement(using = "class", value="p402_premium")
+
+text <- main_article$getElementText()
+
+```
+
+### Text is a messy list, you need to do some cleaning again.
+
+```{r,eval=FALSE}
+# let us clean those special characters like \n \t, etc.
+
+tidy_text <- text[[1]] %>% 
+  # remove all whitespaces, note it is regex \t
+  str_replace_all("\\s"," ") %>% 
+  # reove some weird punct
+  str_replace_all('\\"',"") %>% 
+  # remove some double spaces
+  str_squish %>% 
+  # reve spaces at the begining and end of the text
+  str_trim %>% 
+  # lower case
+  tolower()
+
+tidy_text
+```
+**VOILA, we have a nice tidy text!!!**
+
+
+### THE END...
