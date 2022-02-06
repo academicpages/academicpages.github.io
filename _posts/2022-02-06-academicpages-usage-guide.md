@@ -9,7 +9,7 @@ tags:
 
 这是中文版学术主页使用指南，旨在搭建一个托管在 [Github](http://github.com) 的学术主页。通过开源项目 [Academicpages](https://github.com/academicpages/academicpages.github.io) 和 Github 的 Github Pages 服务我们可以搭建一个**免费**、**简约**和**高度定制**的学术主页。
 
-# 指示
+# 入门
 
 1. 如果没有 [Github](http://github.com) 帐户，请注册一个 GitHub 帐户并确认电子邮件。
 2. 点击 [Academicpages 存储库链接](https://github.com/academicpages/academicpages.github.io)访问项目源代码存储库，通过单击右上角的“fork”按钮来创建此存储库的分叉。
@@ -21,4 +21,12 @@ tags:
 
 在 https://academicpages.github.io/ 上查看更多信息。
 
-## 指示
+## 在本地运行
+
+1. 克隆存储库并进行更新，如上所述。
+2. 确保安装了 ruby-dev、bundler 和 nodejs：`sudo apt install ruby-dev ruby-bundler nodejs`。
+3. 运行 `bundle clean` 清理目录（无需运行 `--force`）。
+4. 运行 `bundle install` 来安装 ruby 依赖项。 如果出现错误，请删除 Gemfile.lock 并重试。
+5. 运行 `bundle exec jekyll liveserve` 生成 HTML 并在 `localhost:4000` 提供服务，本地服务器将在更改时自动重建和刷新页面。
+
+# 
