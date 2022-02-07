@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shengyao (Arvin) Zhuang"
+title: "Shengyao (Arvin) Zhuang (庄胜尧)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student in the [ielab](http://ielab.io/), School of Information Technology and Electrical Engineering, The University of Queensland, supervised by A/Prof. [Guido Zuccon](http://ielab.io/people/guido-zuccon).
 
-I am working on improving efficiency and effectiveness for deep language model based information retrieval system.
+I am working on improving effectiveness, efficiency, and robustness for pre-trained deep language model based information retrieval systems.
 
 I am currently looking for a summer internship in 2022.
 
