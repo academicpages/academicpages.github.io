@@ -33,9 +33,14 @@ Under Construction
   </td>
 <td style="vertical-align: top; width: 66.9539%; height: 314px;">
 <p><span style="color: #333300; font-family: helvetica, arial, sans-serif;"></span><strong><span style="font-size: 14pt;">Gumshoe: Programmable Search for the Enterprise</span></strong></span></span></p>
-Gumshoe was a scalable and highly customizable enterprise search solution and successfully deployed the solution within the IBM enterprise to power both extranet (ibm.com) and intranet (w3) search from 2011 to 2017. The Gumshoe architecture marries sophisticated backend content analytics workflow with a unique programmable runtime search architecture specifically designed to provide flexible and powerful search quality management. It culminated in the highest ever search satisfaction scores in the history of the CIO WorkPlace Effectiveness Survey during its active deployment. 
+Gumshoe was a scalable and highly customizable enterprise search solution and successfully deployed the solution within the IBM enterprise to power both extranet (ibm.com) and intranet (w3) search. The Gumshoe architecture marries sophisticated backend content analytics workflow with a unique programmable runtime search architecture specifically designed to provide flexible and powerful search quality management. 
 
+**Business Imact:** In production from 2011 to 2017, culminating in the highest ever search satisfaction scores in the history of the CIO WorkPlace Effectiveness Survey during its active deployment. 
+
+**Scientific Impact:** Pineered the notion of a "programmable search architecture" that permits both transparency as well as maintainability and debugability. 
+<p>
 <a style="color: #0375b4; text-decoration: none;" href="https://www.slideshare.net/YunyaoLi/sigmod2010-ietutorial">Learn More</a> 
+</p>
 
 </td>
 </tr>
