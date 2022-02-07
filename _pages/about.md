@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shengyao (Arvin) Zhuang (庄胜尧)"
+title: "Shengyao (Arvin) Zhuang 庄胜尧"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
