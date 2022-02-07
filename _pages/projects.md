@@ -23,7 +23,7 @@ Under Construction
 
 **Research Impact:** Various aspects of SystemT have been published in over 50 major research conferences and journals in diverse areas: from natural language processing, database systems, and human-computer interaction. 
 
-**Education Impact:** SystemT is available to teach- ers and students under a free academic license. It has been taught in multiple major universities as graduate-level courses, made available3 as a MOOC with 10,000+ students enrolled in less than 18 months, and also in several tutorials. </span></span></p>
+**Education Impact:** SystemT has been taught in multiple major universities as graduate-level courses, made available3 as a MOOC with 10,000+ students enrolled in less than 18 months, and also in several tutorials at conferences. </span></span></p>
 <p style="text-align: justify;"><span style="font-size: 10pt; font-family: helvetica, arial, sans-serif;"><span style="font-size: 11pt;"><span style="color: #0375b4;"><a style="color: #0375b4; text-decoration: none;" href="http://www.odbms.org/2016/09/data-x-video-enterprise-information-extraction-an-introduction/">Video</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a style="color: #0375b4; text-decoration: none;" href="https://aclanthology.org/N18-3010.pdf">Overview Paper</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a style="color: #0375b4; text-decoration: none;" href="https://researcher.watson.ibm.com/researcher/view_group.php?id=1264">Project Website</a> </span><br /></span></span></p>
 </td>
 </tr>
