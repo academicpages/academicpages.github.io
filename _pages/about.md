@@ -26,6 +26,9 @@ If you need CSS-related talks or workshops, please feel free to contact me direc
 I am co-editing an anual series on cohabitation and the evolving nature of intimate and family relationships with Dr. Sampson Blair for Contemporary Perspectives in Family Research. The deadline for initial submissions is September 30, 2022. [Please click here for more details.](https://yongjunzhang.com/files/CPFR-2022-Cohabitation-Call-for-Papers.pdf)
 
 ## New Paper Alert
+
+Yongjun Zhang, Sienna Thorgusen, and Xinguang Fan. In press. "News Coverage of Social Protests in Global Society." International Journal of Comparative Sociology.
+
 Yongjun Zhang. 2021. "[Corporate Responses to COVID19: A Non-Market Strategy Approach](https://doi.org/10.1177/07311214211017587)." Sociological Perspectivies.
 
 Seguin, Charles, Chris Julien, and Yongjun Zhang. 2021. "[The stability of androgynous names: Dynamics of gendered naming practices in the United States 1880–2016.](http://www.charlieseguin.com/uploads/4/1/2/7/41271621/seguin_poetics_names_10-2020.pdf)" Poetics
