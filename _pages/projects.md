@@ -27,5 +27,17 @@ Under Construction
 <p style="text-align: justify;"><span style="font-size: 10pt; font-family: helvetica, arial, sans-serif;"><span style="font-size: 11pt;"><span style="color: #0375b4;"><a style="color: #0375b4; text-decoration: none;" href="http://www.odbms.org/2016/09/data-x-video-enterprise-information-extraction-an-introduction/">Video</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a style="color: #0375b4; text-decoration: none;" href="https://aclanthology.org/N18-3010.pdf">Overview Paper</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a style="color: #0375b4; text-decoration: none;" href="https://researcher.watson.ibm.com/researcher/view_group.php?id=1264">Project Website</a> </span><br /></span></span></p>
 </td>
 </tr>
+<tr style="height: 314px;">
+<td style="vertical-align: middle; width: 33.0461%; height: 314px;">
+<img style="display: block; margin-left: auto; margin-right: auto;" src="https://yunyaoli.github.io/images/GumshoeOverview.png" alt="" width="330" />
+  </td>
+<td style="vertical-align: top; width: 66.9539%; height: 314px;">
+<p><span style="color: #333300; font-family: helvetica, arial, sans-serif;"></span><strong><span style="font-size: 14pt;">Gumshoe: Programmable Search for the Enterprise</span></strong></span></span></p>
+Gumshoe was a scalable and highly customizable enterprise search solution and successfully deployed the solution within the IBM enterprise to power both extranet (ibm.com) and intranet (w3) search from 2011 to 2017. The Gumshoe architecture marries sophisticated backend content analytics workflow with a unique programmable runtime search architecture specifically designed to provide flexible and powerful search quality management. It culminated in the highest ever search satisfaction scores in the history of the CIO WorkPlace Effectiveness Survey during its active deployment. 
+
+<a style="color: #0375b4; text-decoration: none;" href="https://www.slideshare.net/YunyaoLi/sigmod2010-ietutorial">Learn More</a> 
+
+</td>
+</tr>
 </tbody>
 </table>
