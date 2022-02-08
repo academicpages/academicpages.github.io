@@ -33,9 +33,13 @@ Under Construction
   </td>
 <td style="vertical-align: top; width: 66.9539%; height: 314px;">
 <p> <strong><span style="font-size: 14pt;">Content Services: Building Large-Scale Domain-Specific Knowledge Base</span></strong></p>
-The Content Services system provides the ability to create and interact with large-scale domain- specific knowledge bases by analyzing and integrating multiple (un/semi)structured content sources. Such a capability is the foundation for many industry-focused cognitive systems. 
-<strong>Business Impact:</strong> 
-<strong>Scientific Impact:</strong> 
+The Content Services system provides the ability to create and interact with large-scale domain- specific knowledge bases by analyzing and integrating multiple (un/semi)structured content sources. Such a capability is the foundation for many industry-focused cognitive systems. This project built a scalable platform the addresses the challenges of (1) how to represent and incorporate domain knowledge; (2) how to enable a robust platform-agnostic workflow for knowledge extrac- tion and integration from different data sources in different formats in both batch and incremental fashion; (3) how to monitor and maintain data quality; (4) how to store and query the KB to support a wide-spectrum of use cases.</p>
+<p>
+<strong>Business Impact:</strong> (1) Production-ready platform for building Large-Scale domain-specific knowledge base with several major components resused in multiple products and services. (2) A large-scale financial content knowledge base from over 20 years' SEC and FFIEC financial fiings for all public companies and banks in US with multiple customer engagement.   
+</p>
+<p>
+<strong>Scientific Impact:</strong> Varies aspects of the Content Services system are covered in multiple research papers, leading to follow up research projects on table extraction & understanding, table QA, OQL and natural language query to databases.  
+</p>
 <p>
 <a style="color: #0375b4; text-decoration: none;" href="http://www.vldb.org/pvldb/vol10/p1965-Danilevsky.pdf">Learn More</a> 
 </p>
