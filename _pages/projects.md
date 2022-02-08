@@ -39,7 +39,7 @@ Gumshoe was a scalable and highly customizable enterprise search solution and su
 
 **Scientific Impact:** Pineered the notion of a "programmable search architecture" that permits both transparency as well as maintainability and debugability. 
 <p>
-<a style="color: #0375b4; text-decoration: none;" href="https://www.slideshare.net/YunyaoLi/sigmod2010-ietutorial">Learn More</a> 
+<a style="color: #0375b4; text-decoration: none;" href="https://www.slideshare.net/YunyaoLi/enterprise-search-in-the-big-data-era-recent-developments-and-open-challenges-38801004">Learn More</a> 
 </p>
 
 </td>
