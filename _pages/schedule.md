@@ -33,7 +33,7 @@ Meetings are scheduled on Mondays at noon US eastern time, unless otherwise note
 *Moderator:* Sabreena Croteau (Chicago).
 
 
-**March 14th (TBC): Simon Happersberger (Vrije Universiteit Brussel), "*The Effectiveness of Environmental Provisions and the Greening of EU Trade. A Qualitative Comparative Analysis.*"**
+**March 14th: Torsten Jaccard (Toronto), "*Who Pays for Protectionism? The Welfare and Substitution Effects of Tariff Changes.*"**
 <br />
 *Moderator:* Ishana Ratan (Berkeley).
 
@@ -58,7 +58,7 @@ Meetings are scheduled on Mondays at noon US eastern time, unless otherwise note
 *Moderator:* Frederik Heitmüller (Leiden University).
 
 
-**April 25th: Torsten Jaccard (Toronto), "*Who Pays for Protectionism? The Welfare and Substitution Effects of Tariff Changes.*"**
+**April 25th: Simon Happersberger (Vrije Universiteit Brussel), "*The Effectiveness of Environmental Provisions and the Greening of EU Trade. A Qualitative Comparative Analysis.*"**
 <br />
 *Moderator:* Anthony James Calacino (Texas at Austin).
 
