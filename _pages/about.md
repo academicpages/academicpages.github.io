@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About Me
-I am a 1st year PhD student in the [Computer Science department](https://cse.ucsd.edu/) at the [University of California San Diego](https://ucsd.edu/) advised by Prof. [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/) and Prof. [Kamalika Chaudhuri](https://cseweb.ucsd.edu/~kamalika/). Previously, I was a research fellow in the [Machine Teaching Group](https://machineteaching.mpi-sws.org/adishsingla.html) at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), where I had the great fortune to be advised by Dr. [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). 
+I am a PhD student in the [Computer Science department](https://cse.ucsd.edu/) at the [University of California San Diego](https://ucsd.edu/) advised by Prof. [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/) and Prof. [Kamalika Chaudhuri](https://cseweb.ucsd.edu/~kamalika/). Previously, I was a research fellow in the [Machine Teaching Group](https://machineteaching.mpi-sws.org/adishsingla.html) at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), where I had the great fortune to be advised by Dr. [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). 
 
 My journey into computer science started at [Chennai Mathematical Institute (CMI, India)](https://www.cmi.ac.in/), where I completed my BSc in Mathematics and Computer Science (2013-2016) and MSc in Computer Science (2016-2018) under the supervision of Prof. [K Venkata Subrahmanyam](https://www.cmi.ac.in/~kv/).<br>
 
@@ -17,13 +17,6 @@ I am broadly interested in the theoretical aspects of machine learning. More spe
 the computational and statistical efficiency of learning methods, and the extent to which machines can learn from data.<br>
 
 **Contact**: (username id) akk002 at ucsd dot edu
-
-# Recent News
-
-* Our paper on **Teaching via Best-Case Counterexamples
-in the Learning-with-Equivalence-Queries Paradigm** is accepted at NeurIPS (2021)! :D 
-* Attended **ICML'21** and **COLT'21** conferences organized virtually.
-* Our paper on **The Teaching Dimension of Kernel Perceptrons** is accepted at AISTATS (2021)! :D 
 
 # Publications and Preprints
 1. <b> Teaching via Best-Case Counterexamples
@@ -57,6 +50,4 @@ Teaching via Best-case Counterexamples (UCSD AI Seminar)
 
 <b> [Natural Proofs Vs Derandomization](https://drive.google.com/file/d/1TeHXyLIIUfp0p4iPqRqgNKwUx92ZO0Qn/view?usp=sharing) </b> <br>
 <i>Project report completed as part of the Advanced Complexity course at Chennai Mathematical Institute.</i>
-
-# Some Hobbies
-I have been playing piano for a number of years and have been lucky to have some formal training to grade 2. Recently, I have picked up on Ukulele, which could be approximately thought of as a miniature version of a guiter with 4 strings.  
+ 
