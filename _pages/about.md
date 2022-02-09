@@ -19,7 +19,7 @@ I am Yusheng Su, a Ph.D. candidate in [THUNLP Lab](https://twitter.com/tsinghuan
 
 ## Professional Services
 * Reviewer: EMNLP/ACL/IEEE-TASLP 2021
-* ACL Rolling Reviewr
+* ACL Rolling Reviewer
 <!-- * Program Committee Member: EMNLP 2021 -->
 <!-- * Review Assistant: ACL 2021 -->
 
