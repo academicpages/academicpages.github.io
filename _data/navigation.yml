@@ -3,6 +3,9 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "RL Environments"
+    url: /envs/
+
   - title: "MS Thesis"
     url: /thesis/
 
