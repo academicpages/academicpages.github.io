@@ -7,7 +7,7 @@ author_profile: true
 In this page, I would like to share great online courses on Causal Inference, Machine Learning, and some useful websites.
 
 ### Causal Inference
-Minimum Driving Age Database
+Minimum Driving Age Database Info
 * [Initial Release (Nov. 2020)](https://github.com/cseveren/MinimumDrivingAgeDatabase)
 * Covers historical state-level minimum driver license ages from (1968-2015)
 
