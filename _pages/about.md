@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. Candidate of Human-Computer Interaction at Carnegie-Mellon University.
+I am a Ph.D. Student of Human-Computer Interaction at Carnegie-Mellon University.
 ======
 I am advised by [Chinmay Kulkarni](http://www.cs.cmu.edu/~chinmayk/). My current research projects include:
 
