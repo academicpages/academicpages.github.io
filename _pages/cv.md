@@ -224,4 +224,4 @@ MSc Strategic Communication and Public Relations, Pompeu Fabra University and Un
 # OTHERS
 =========
 ### Journal reviewer
-_Computers in Human Behavior_, _Computers &amp; Education_, _Communication &amp; Society, Journal of Adolescence,__Cuadernos.info_, _Cyberpsychology: Journal of Psychosocial Research on Cyberspace_.
+_Computers in Human Behavior_, _Computers &amp; Education_, _Communication &amp; Society_, _Journal of Adolescence_, _Cuadernos.info_, _Cyberpsychology: Journal of Psychosocial Research on Cyberspace_.
