@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 
-ACADEMIC POSITIONS
+# ACADEMIC POSITIONS
 ===========
 ## Postdoctoral Researcher 2020-
 Department of Communication
@@ -32,7 +32,7 @@ Department of Sociology and Communication
 University of Salamanca, Spain
 
 
-EDUCATION
+# EDUCATION
 ===========
 ## PhD in Education in the Knowledge Society. Media and Education speciality 2018
 University of Salamanca, Spain
@@ -48,7 +48,7 @@ University of Salamanca, Spain
 University of Valladolid, Spain
 
 
-RESEARCH grants and FELLOWSHIPS
+# RESEARCH grants and FELLOWSHIPS
 ===========
 ## Research grant &quot;la Caixa&quot; Foundation 2022
 Flash Call in Social Sciences 2021 – Technology and society
@@ -64,7 +64,7 @@ Research grant from the Government of Castile and Leon and the European Social F
 22/11/2014 – 30/09/2018
 
 
-PUBLICATIONS: Journal articles
+# PUBLICATIONS: Journal articles
 ===========
 Rodero, E., Larrea, O., **Rodríguez-de-Dios, I**., Lucas, I. (in press). The Expressive Balance Effect: Perception and Physiological Responses of Prosody and Gestures. _Journal of Language and Social Psychology._
 
@@ -91,7 +91,7 @@ Piñeiro-Naval, V., Igartua, J. J. &amp; **Rodríguez-de-Dios, I.** (2015) La in
 **Rodríguez-de-Dios, I.** (2014). Riesgos de la comunicación interactiva en adolescentes: propuesta de alfabetización digital. _Vozes dos Vales_, 6(III).
 
 
-PUBLICATIONS: Book Chapters
+# PUBLICATIONS: Book Chapters
 ===========
 Rodero, E., **Rodríguez-de-Dios, I.** , de-la-Mota, C., y Lopera, M. (2021)._ &quot;_Cómo hablar a las personas con Alzheimer. Estrategias para mejorar la comunicación entre cuidadores y pacientes&quot; en C. Sánchez (Ed.). _Comunicar en pandemia. De las fake news a la sostenibilidad._ McGraw Hill.
 
@@ -106,7 +106,7 @@ Piñeiro-Naval, V., **Rodríguez-de-Dios, I.** &amp; Igartua, J. J. (2016). A du
 **Rodríguez de Dios, I.** , &amp; Igartua, J. J. (2014). Risks of interactive communication. A digital literacy proposal. In F. J. García-Peñalvo (Ed.), _Proceedings of the Second International Conference on Technological Ecosystem for Enhancing Multiculturality_ (pp. 653-657). Nueva York: Association for Computing Machinery (ACM).
 
 
-Conference Papers and Poster Presentations
+# Conference Papers and Poster Presentations
 ===========
 Larrea, O., **Rodríguez-de-Dios, I.** , Vinyals-Mirabent, S., y Rodero, E. (2021). _Las referencias de COVID en anuncios marcan la diferencia Las actitudes de los consumidores hacia los anuncios y el compromiso de las marcas mejoran cuando se conectan con la pandemia_. Paper presented at the II International Conference Nodos del Conocimiento 2021, Virtual Conference, 25-26 November 2021.
 
@@ -155,7 +155,7 @@ Igartua, J. J., **Rodríguez, I.** , Marañon, F. &amp; Arranz, L. (2014) _Facto
 Piñeiro, V., **Rodríguez, I.** , Igartua, J.J. (2014) _La Comunicación del Patrimonio a través de la World Wide Web. Una panorámica basada en el análisis de contenido de sedes municipales_. Paper presented at the IX Congreso Internacional AR&amp;PA 2014 &quot;Sociedad y Patrimonio&quot;, Valladolid (Spain), 13-15 November 2014.
 
 
-RESEARCH VISITS
+# RESEARCH VISITS
 ============
 ## Research stay at the Institute for Media Studies 2018
 KU Leuven (Katholieke Universiteit Leuven, Belgium)
@@ -166,7 +166,7 @@ Amsterdam School of Communication Research (ASCoR), University of Amsterdam (The
 27/02/2017 – 30/06/2017
 
 
-PARTICIPATION IN RESEARCH PROJECTS
+# PARTICIPATION IN RESEARCH PROJECTS
 ============
 ## LGBTI+ representation in Spanish serial fiction and its effectiveness in reducing prejudices due to sexual orientation and gender identity (LGBTI+SCREENS). 2020-2024
 _(Representación LGBTI+ en la ficción seriada española y eficacia en la reducción de prejuicios por orientación sexual e identidad de género (LGBTIQ+ PANTALLAS)._ 
@@ -199,7 +199,7 @@ Principal investigator: Valeriano Piñeiro Naval
 Work team member
 
 
-TEACHING
+# TEACHING
 ===========
 ## Lecturer _Advanced Data Analyses_ 2022
 (_Análisis Avanzado de Datos_).
@@ -245,7 +245,7 @@ MSc Strategic Communication and Public Relations, Pompeu Fabra University and Un
 (_Métodos de Investigación en Comunicación_). Bachelor in Audiovisual Communication, University of Salamanca
 
 
-OTHERS
+# OTHERS
 =========
 ## Journal reviewer
 _Computers in Human Behavior_, _Computers &amp; Education_, _Communication &amp; Society, Journal of Adolescence,__Cuadernos.info_, _Cyberpsychology: Journal of Psychosocial Research on Cyberspace_.
