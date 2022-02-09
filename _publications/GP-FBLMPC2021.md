@@ -6,7 +6,6 @@ venue: 'xxx'
 ---
 
 Submitted to IEEE/ASME Transactions on Mechatronics on December 20, 2021. Manuscript # TMECH-12-2021-12868.
-
 ## The submitted paper is available upon request. ##
 
 [[Videos]](https://youtu.be/tC09jJQ0OXM)
