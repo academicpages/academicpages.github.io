@@ -27,10 +27,9 @@ We now invite abstract submissions for oral or poster presentations that address
  
 We are seeking abstracts that put greater weight on addressing the technical challenges associated with developing land DA systems than answering the scientific questions that lie behind those technical developments, which is typically the focus of other professional meetings and conferences. Oral presentations will prioritize the themes identified above. However, we will also consider abstracts that address important topics beyond the designated themes.
 
-We are looking forward to continuing to build the land DA community and to seeing your abstracts! 
-#### The deadline to submit your abstract is Friday, March 4, 2022. 
-#### [Submit your abstracts here](https://docs.google.com/forms/d/e/1FAIpQLSevnECTNo586caKq1Y8mBW_So6v7s0ZZxFqptSmwbCgNDOZhA/viewform) 
-Email aimes(at)futureearth.org with any questions.
+We are looking forward to continuing to build the land DA community and to seeing your abstracts! Email aimes(at)futureearth.org with any questions.
+#### The deadline to submit your abstract is Friday, March 4, 2022. #### [Submit your abstracts here](https://docs.google.com/forms/d/e/1FAIpQLSevnECTNo586caKq1Y8mBW_So6v7s0ZZxFqptSmwbCgNDOZhA/viewform) 
+
 
 ## *Past*
 
