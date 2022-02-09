@@ -6,7 +6,6 @@ venue: 'xxx'
 ---
 
 Submitted to Simulation Modelling Practice and Theory with Manuscript # SIMPAT-D-21-1068.
-
 ## The submitted paper is available upon request. ##
 
 [[Implementation]](https://github.com/offroad-robotics/Robot-Simulator-Comparison)
