@@ -19,7 +19,9 @@ I work at [Biobot Analytics](https://www.biobot.io), where I lead the Epidemiolo
 group in the Data Science Team. Our goal is to
 connect wastewater-based data streams with public health
 actions. Biobot performs Covid-19 monitoring for places
-like [Boston, MA](https://www.mwra.com/biobot/biobotdata.htm).
+like [Boston, MA](https://www.mwra.com/biobot/biobotdata.htm). You can learn more
+by watching my [career chat](https://www.youtube.com/watch?v=S8_Dd8RIKvo)
+with [Vivify Space Club](https://www.vivifystem.com/space-club)!
 
 During 2020--2021, I was a part-time Research Analyst in the [Center for Public Health
 Preparedness and Resilience](https://www.cna.org/centers/ipr/phpr/) in the
