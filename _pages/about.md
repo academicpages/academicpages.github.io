@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-I am a Ph.D. Student of Human-Computer Interaction at Carnegie-Mellon University. I am advised by [Chinmay Kulkarni](http://www.cs.cmu.edu/~chinmayk/). My current research projects include:
+I am a 6th year PhD Student of Human-Computer Interaction at Carnegie-Mellon University.
+======
+I am advised by [Chinmay Kulkarni](http://www.cs.cmu.edu/~chinmayk/). My current research projects include:
 
 Supporting Early-Stage Design Feedback Exchanges among Small Business Owners
 #### Receiving feedback on open-ended creative work is essential for success. Receiving early-stage feedback often leads to higher quality results by increasing iteration. However, when designers in the "wild" seek feedback, the majority do so towards a later stage in their design process. Moreover, online communities geared towards sharing in-progress work often fail. In this project, we explore why designers wait to ask for feedback until later in their design process. We've found designers viewed both stages being similarly valuable, but opt for late-stage feedback because the design space is larger and less defined, which makes the "script" for early-stage feedback less clear in practice, leading participants to avoid it. Furthermore, participants had misunderstandings regarding idea selection and the prototype fidelity necessary to elicit effective feedback. This project is a collaboration with Prof [Sarah Fox](https://www.sarahfox.info/), [Prototype PGH](https://prototypepgh.com/) a local markerspace in Pittsburgh as well as McKayla Kingston, Director UX Research at [Etsy](https://etsy.com) and the Creator Team at [Instagram](https://instagram.com). [Read more](https://dl.acm.org/citation.cfm?id=3326580) and [more](https://dl.acm.org/doi/pdf/10.1145/3449089).
@@ -31,8 +33,11 @@ Current and past supporters of my work:
 <img src='/images/insta-logo.png' width="75" >
 <img src='/images/etsy-logo.png' width="100">
 <img src='/images/onr-logo.png' width="150">
-<img src='/images/S_scholars_logo-color.jpeg' width="150">
-<img src='/images/waim.png' width="150">
+
+<br>
+
+<img src='/images/S_scholars_logo-color.jpeg' width="300">
+<img src='/images/waim.png' width="2000">
 
 
 ###### Picture of me by [@gerardoforsure](https://twitter.com/gerardoforsure)
