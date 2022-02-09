@@ -14,19 +14,15 @@ redirect_from:
 ### Postdoctoral Researcher 2020-
 Department of Communication
 Pompeu Fabra University, Spain
-
 ### Lecturer 2019-2020
 Department of Communication Science
 University of Amsterdam, The Netherlands
-
 ### Associate Lecturer 2019-2019
 Department of Communication
 Pompeu Fabra University, Spain
-
 ### Associate Lecturer 2019-2019
 Department of Communication
 Rey Juan Carlos University, Spain
-
 ### PhD student &amp; Research Assistant 2014-2018
 Department of Sociology and Communication
 University of Salamanca, Spain
