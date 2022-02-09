@@ -19,7 +19,7 @@ author_profile: false
 |Th, Mar 17, 2022| 1:30pm - 2:30pm | Laura Starkston |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Mar 24, 2022| 1:30pm - 2:30pm | Christos Mantoulidis |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Mar 31, 2022| 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
-|Th, Apr 7, 2022| 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
+|Th, Apr 7, 2022| 1:30pm - 2:30pm | Gleb Smirnov |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Apr 14, 2022| 1:30pm - 2:30pm | Jonathan Zhu |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Apr 21, 2022| 1:30pm - 2:30pm | Martin Lesourd |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Apr 28, 2022| 1:30pm - 2:30pm | Suguru Ishikawa |  |  [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
