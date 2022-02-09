@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD Candidate of Human-Computer Interaction at Carnegie-Mellon University.
+I am a 6th year PhD Student of Human-Computer Interaction at Carnegie-Mellon University.
 ======
 I am advised by [Chinmay Kulkarni](http://www.cs.cmu.edu/~chinmayk/). My current research projects include:
 
@@ -33,9 +33,8 @@ Current and past supporters of my work:
 <img src='/images/insta-logo.png' width="75" >
 <img src='/images/etsy-logo.png' width="100">
 <img src='/images/onr-logo.png' width="150">
-<br>
-<img src='/images/S_scholars_logo-color.jpeg' width="300">
-<img src='/images/waim.png' width="2000">
+<img src='/images/S_scholars_logo-color.jpeg' width="150">
+<img src='/images/waim.png' width="150">
 
 
 ###### Picture of me by [@gerardoforsure](https://twitter.com/gerardoforsure)
