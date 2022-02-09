@@ -30,38 +30,34 @@ University of Salamanca, Spain
 
 # EDUCATION
 ===========
-## PhD in Education in the Knowledge Society. Media and Education speciality 2018
+### PhD in Education in the Knowledge Society. Media and Education speciality 2018
 University of Salamanca, Spain
 Thesis: _Risks of Interactive Communication in Adolescents. Digital Literacy Diagnosis and Intervention._ Cum Laude distinction. International Doctorate mention
-
-## Master&#39;s Degree in Applied Communication Research 2013
+### Master&#39;s Degree in Applied Communication Research 2013
 Rey Juan Carlos University, Spain
-
-**Bachelor&#39;s Degree in Audiovisual Communication 2012**
+### Bachelor&#39;s Degree in Audiovisual Communication 2012
 University of Salamanca, Spain
-
-## Bachelor&#39;s Degree in Journalism 2010
+### Bachelor&#39;s Degree in Journalism 2010
 University of Valladolid, Spain
 
 
 # RESEARCH grants and FELLOWSHIPS
 ===========
-## Research grant &quot;la Caixa&quot; Foundation 2022
+### Research grant &quot;la Caixa&quot; Foundation 2022
 Flash Call in Social Sciences 2021 – Technology and society
 Project &quot;Does social media use impact adolescents&#39; well-being state or the opposite? A longitudinal study on social media, loneliness, and personality traits
 Principal Investigator
-
-## Postdoctoral Fellow: Juan de la Cierva Formación 2020-2022
+### Postdoctoral Fellow: Juan de la Cierva Formación 2020-2022
 Research grant from the Spanish State Research Agency
 01/09/2020 – 01/09/2022
-
-## Predoctoral Fellow 2014-2018
+### Predoctoral Fellow 2014-2018
 Research grant from the Government of Castile and Leon and the European Social Fund (EDU/1083/ 2013).
 22/11/2014 – 30/09/2018
 
 
 # PUBLICATIONS: Journal articles
 ===========
+
 Rodero, E., Larrea, O., **Rodríguez-de-Dios, I**., Lucas, I. (in press). The Expressive Balance Effect: Perception and Physiological Responses of Prosody and Gestures. _Journal of Language and Social Psychology._
 
 Dalla-Pria, L. &amp; **Rodríguez-de-Dios, I.** (2022). CSR communication on social media: the impact of source and framing on message credibility, corporate reputation and WOM. _Corporate Communications: an International Journal, 27_. https://doi.org/10.1108/CCIJ-09-2021-0097
@@ -89,6 +85,7 @@ Piñeiro-Naval, V., Igartua, J. J. &amp; **Rodríguez-de-Dios, I.** (2015) La in
 
 # PUBLICATIONS: Book Chapters
 ===========
+
 Rodero, E., **Rodríguez-de-Dios, I.** , de-la-Mota, C., y Lopera, M. (2021)._ &quot;_Cómo hablar a las personas con Alzheimer. Estrategias para mejorar la comunicación entre cuidadores y pacientes&quot; en C. Sánchez (Ed.). _Comunicar en pandemia. De las fake news a la sostenibilidad._ McGraw Hill.
 
 Girbal González, E., Pérez Sabadell, M., Ponce Capdeville, B., **Rodríguez-de-Dios, I.** , &amp; Rodero, E. (2022). La responsabilidad social corporativa en la publicidad de las marcas comerciales durante la pandemia del COVID-19. In _La nueva era comunicativa_. Thomson Reuters-Aranzadi.
@@ -104,6 +101,7 @@ Piñeiro-Naval, V., **Rodríguez-de-Dios, I.** &amp; Igartua, J. J. (2016). A du
 
 # Conference Papers and Poster Presentations
 ===========
+
 Larrea, O., **Rodríguez-de-Dios, I.** , Vinyals-Mirabent, S., y Rodero, E. (2021). _Las referencias de COVID en anuncios marcan la diferencia Las actitudes de los consumidores hacia los anuncios y el compromiso de las marcas mejoran cuando se conectan con la pandemia_. Paper presented at the II International Conference Nodos del Conocimiento 2021, Virtual Conference, 25-26 November 2021.
 
 Rodero, E., **Rodríguez-de-Dios, I.** , de-la-Mota, C., y Lopera-Mármol, M. (2021). _Cómo hablar a las personas con Alzheimer. Estrategias de prosodia para mejorar la comunicación entre cuidadores y pacientes_. II Congreso Internacional de Comunicación Especializada en la Sociedad de la Información, Málaga (Spain), 18-19 November 2021.
@@ -153,42 +151,37 @@ Piñeiro, V., **Rodríguez, I.** , Igartua, J.J. (2014) _La Comunicación del Pa
 
 # RESEARCH VISITS
 ============
-## Research stay at the Institute for Media Studies 2018
+### Research stay at the Institute for Media Studies 2018
 KU Leuven (Katholieke Universiteit Leuven, Belgium)
 12/02/2018 – 18/05/2018
-
-## Research stay at the Center for research on Children, Adolescents and the Media 2017
+### Research stay at the Center for research on Children, Adolescents and the Media 2017
 Amsterdam School of Communication Research (ASCoR), University of Amsterdam (The Netherlands)
 27/02/2017 – 30/06/2017
 
 
 # PARTICIPATION IN RESEARCH PROJECTS
 ============
-## LGBTI+ representation in Spanish serial fiction and its effectiveness in reducing prejudices due to sexual orientation and gender identity (LGBTI+SCREENS). 2020-2024
+### LGBTI+ representation in Spanish serial fiction and its effectiveness in reducing prejudices due to sexual orientation and gender identity (LGBTI+SCREENS). 2020-2024
 _(Representación LGBTI+ en la ficción seriada española y eficacia en la reducción de prejuicios por orientación sexual e identidad de género (LGBTIQ+ PANTALLAS)._ 
 Research project funded by Spanish Ministry of Science and Innovation (PID2019-110351RB-I00)
 Principal investigator: Dr. Maite Soto Sanfiel
 Work team member
-
-## Prosody variations for improving the cognitive response and the communicative interaction between Alzheimer patients and their caregivers 2018-2021
+### Prosody variations for improving the cognitive response and the communicative interaction between Alzheimer patients and their caregivers 2018-2021
 (_Variaciones prosódicas para mejorar la respuesta cognitiva y la interacción comunicativa de los enfermos de Alzheimer con sus cuidadores_). 
 Research project funded by the Spanish Ministry of Economy and Competitiveness (CSO2017-83432-R).
 Principal investigator: Dr. Emma Rodero
 Work team member
-
-## &quot;If you want, you can quit.&quot; Narrative tools for smoking prevention in adults. Effects of similarity with the audience and narrative voice 2018-2020
+### &quot;If you want, you can quit.&quot; Narrative tools for smoking prevention in adults. Effects of similarity with the audience and narrative voice 2018-2020
 (&quot;_Si tú quieres, puedes dejarlo&quot;._ _Herramientas narrativas para la prevención del tabaquismo en fumadores adultos. Efectos de la similitud con la audiencia y la voz narrativa_). 
 Research project funded by the Department of Education of the Regional Government of Castile and Leon (SA032G18).
 Principal investigator: Dr. Juan José Igartua
 Research team member
-
-## Narrative tools to reduce prejudice. Effects of similarity, imagined contact, empathy and narrative voice 2016-2019
+### Narrative tools to reduce prejudice. Effects of similarity, imagined contact, empathy and narrative voice 2016-2019
 _(Herramientas narrativas para reducir el prejuicio. Efectos de la similitud, el contacto imaginado, la empatía y la voz narrativa (HENAR))._ 
 Research project funded by Spanish Ministry of Economy and Competitiveness (CSO2015-67611-P)
 Principal investigator: Dr. Juan José Igartua
 Work team member
-
-## Cultural Heritage in the Digital Society. A Study of Dissemination through the Internet 2013-2015
+### Cultural Heritage in the Digital Society. A Study of Dissemination through the Internet 2013-2015
 (_El Patrimonio Cultural en la Sociedad Digital. Un estudio de su difusión a través de internet_). 
 Research project funded by Fundación del Patrimonio Histórico de Castilla y León.
 Principal investigator: Valeriano Piñeiro Naval
@@ -197,51 +190,38 @@ Work team member
 
 # TEACHING
 ===========
-## Lecturer _Advanced Data Analyses_ 2022
+### Lecturer _Advanced Data Analyses_ 2022
 (_Análisis Avanzado de Datos_).
 MSc Communication Research, Pompeu Fabra University
-
-## Lecturer _Research and Evaluation for Practice_ 2021-2022
+### Lecturer _Research and Evaluation for Practice_ 2021-2022
 MSc Strategic Communication and Public Relations, Pompeu Fabra University and University of Stirling (Joint Degree)
-
-## Supervisor _Master&#39;s Thesis Dissertations_ 2021
+### Supervisor _Master&#39;s Thesis Dissertations_ 2021
 (3 students) MSc Strategic Communication and Public Relations, and MSc Social Communication Research. Pompeu Fabra University
-
-## Lecturer _Quantitative Research and Experimental Methods in Communication_ 2021
+### Lecturer _Quantitative Research and Experimental Methods in Communication_ 2021
 (_Métodos de investigación cuantitativa y experimental en comunicación_). MSc Social Communication Research, Pompeu Fabra University
-
-## Supervisor _Master&#39;s Thesis_ 2019-2020
+### Supervisor _Master&#39;s Thesis_ 2019-2020
 (9 students) MSc Communication Science: Entertainment Communication, University of Amsterdam
-
-## Tutorial Lecturer _Entertainment Communication_ 2020
+### Tutorial Lecturer _Entertainment Communication_ 2020
 Bachelor&#39;s in Communication Science, University of Amsterdam
-
-## Tutorial Lecturer _The Media Landscape_ 2020
+### Tutorial Lecturer _The Media Landscape_ 2020
 Bachelor&#39;s in Communication Science, University of Amsterdam
-
-## Tutorial Lecturer _Research Workshop: Experiment_ 2020
+### Tutorial Lecturer _Research Workshop: Experiment_ 2020
 Bachelor&#39;s in Communication Science, University of Amsterdam
-
-## Teaching Assistant _Clashing Views on Media Effects_ 2019
+### Teaching Assistant _Clashing Views on Media Effects_ 2019
 MSc Communication Science: Entertainment Communication, University of Amsterdam
-
-## Tutorial Lecturer _Introduction to Communication Science_ 2019
+### Tutorial Lecturer _Introduction to Communication Science_ 2019
 Bachelor&#39;s in Communication Science, University of Amsterdam
-
-## Lecturer _Research and Evaluation for Practice_ 2019
+### Lecturer _Research and Evaluation for Practice_ 2019
 MSc Strategic Communication and Public Relations, Pompeu Fabra University and University of Stirling (Joint Degree)
-
-## Lecturer _Public Opinion and International Journalism_ 2019
+### Lecturer _Public Opinion and International Journalism_ 2019
 (_Opinión Pública y Periodismo Internacional_). Bachelor in International Relations, Rey Juan Carlos University
-
-## Teaching Assistant _Media Process_ 2015-2018
+### Teaching Assistant _Media Process_ 2015-2018
 (_Procesos y Efectos Mediáticos_). Bachelor in Audiovisual Communication, University of Salamanca
-
-## Teaching Assistant _Communication Research Methods_ 2015-2017
+### Teaching Assistant _Communication Research Methods_ 2015-2017
 (_Métodos de Investigación en Comunicación_). Bachelor in Audiovisual Communication, University of Salamanca
 
 
 # OTHERS
 =========
-## Journal reviewer
+### Journal reviewer
 _Computers in Human Behavior_, _Computers &amp; Education_, _Communication &amp; Society, Journal of Adolescence,__Cuadernos.info_, _Cyberpsychology: Journal of Psychosocial Research on Cyberspace_.
