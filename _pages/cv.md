@@ -11,49 +11,45 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BEngineering (Hons), Mechatronics / BMaths, University of Queensland, 2019-2023 (expected)  
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Software Engineer Intern @ Redback Technologies, 2021 Summer
+  * Full-time internship
+  * Data analysis of Redback smart inverter & smart battery telemetry data
+  * Developed simulation algorithms for modelling consumer solar+battery systems
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* UQ Mathematics Tutor, 2021
+  * MATH1051 (Calculus & Linear Algebra I)
+    * Lead weekly tutorial classes
+    * Marked assignments and weekly exercises
+  * MATH1052 (Multivariate Calculus & Ordinary Differential Equations)
+    * Lead weekly MATLAB coding labs
+    * Marked weekly coding exercises
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* UQ Winter Research Scholar, 2021
+  * Applied deep learning techniques to MRI reconstruction and denoising. Among other things, explored complex-valued neural networks, dilated CNNs, autoencoders & 2D Fourier Transforms.
+  * Supervisor: Dr. Shakes Chandra
+
+* Tech Journalist, 2017-2020
+  * TechFlow Media Group
+    * Founding member and Lead Writer of techflow.co, a student-run consumer electronics news website
+    * Wrote mostly product reviews and news articles
+  * Tom's Hardware US
+    * Freelance news writer covering computer/gaming peripherals
+
   
-Talks
+Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* UQ Dean's Commendation (aka Dean's List)
+   * Awarded in all semesters to date from 2019-2021 (6 total)
+* UQ Hawken Scholar, 2020-Present
+* Australian Power Institute Bursary, 2021-Present
+* Peter Doherty Award for Outstanding Senior STEM Student, 2018
+
   
-Teaching
+Societies & Volunteering
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Chair of the UQ IEEE Student Branch, 2020-Present
+
