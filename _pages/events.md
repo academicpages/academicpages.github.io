@@ -30,7 +30,7 @@ We are seeking abstracts that put greater weight on addressing the technical cha
 We are looking forward to continuing to build the land DA community and to seeing your abstracts! 
 ### The deadline to submit your abstract is Friday, March 4, 2022. 
 ### [Submit your abstracts here](https://docs.google.com/forms/d/e/1FAIpQLSevnECTNo586caKq1Y8mBW_So6v7s0ZZxFqptSmwbCgNDOZhA/viewform) 
-Email [aimes@futureearth.org](aimes@futureearth.org) with any questions.
+Email aimes(at)futureearth.org with any questions.
 
 ## *Past*
 
