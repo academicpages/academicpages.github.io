@@ -7,7 +7,6 @@ collection: portfolio
 
 <head>
   <link rel="stylesheet" href="/_sass/image_slideshow.css">  
-  <script src="/assests/js/image_slideshow.js"></script>
 </head>
 
 
@@ -42,7 +41,7 @@ collection: portfolio
   <span class="dot" onclick="currentSlide(3)"></span>
 </div>
 
-
-
+  
+<script src="/assests/js/image_slideshow.js"></script>  
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. test test 123 
