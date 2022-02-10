@@ -10,12 +10,9 @@ redirect_from:
 {% include base_path %}
 
 <a href="/files/resume_alec_lazarini.pdf" target="_blank" 
-   style="width:100%;display:block;text-align:center;padding:.5em;background-color:#0073e2;color:#fff;border-radius:4px;box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px          rgba(0,0,0,.08);text-decoration:none">View and Download as PDF</a>  
-
-[Link button]("/files/resume_alec_lazarini.pdf"){: .btn }  
-  
-<a href="/files/resume_alec_lazarini.pdf" target="_blank">View and Download as PDF</a>  
-  
+   style="width:100%;display:block;text-align:center;padding:.5em;background-color:#52adc8;color:#fff;border-radius:4px;box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px          rgba(0,0,0,.08);text-decoration:none">View and Download as PDF</a>  
+   
+   
 Skills
 ======
   
