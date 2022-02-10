@@ -9,7 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-  
+  <form action="/files/resume_alec_lazarini.pdf">
+    <input type="submit" value="View and Download as PDF" />
+</form>  
+
 <a href="/files/resume_alec_lazarini.pdf" target="_blank">View and Download as PDF</a>  
   
 Skills
