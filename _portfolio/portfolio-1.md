@@ -7,7 +7,7 @@ collection: portfolio
 
 <head>
   <link rel="stylesheet" href="/_sass/image_slideshow.css">  
-  <script src="image_slideshow.js"></script>
+  <script src="/assests/js/image_slideshow.js"></script>
 </head>
 
 
