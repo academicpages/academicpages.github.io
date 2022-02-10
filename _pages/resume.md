@@ -35,7 +35,6 @@ Education
 **Arkansas State University, Jonesboro Arkansas** August 2019 - Present  
   * Majoring in theatre with an emphasis in design technologies in scenic, lighting,
     sound, and makeup design.  
-  * 2.9 GPA  
 
 **Saint Benedict at Auburndale Catholic School, Memphis Tennessee** August 2015 - May 2019  
   * Attended all four years of high school and spent time in the theatre department.  
