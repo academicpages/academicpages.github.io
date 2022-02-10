@@ -37,7 +37,7 @@ Education
 Theatre Experience
 ======
 **Arkansas State University**  
------- 
+------  
 ***God of Carnage*** — *Assistant Stage Manager* January 2020 - February 2020    
   * Performed many duties including handing out line notes, rehearsal/performance reports and calls, and managed props and backstage during productions.  
 
