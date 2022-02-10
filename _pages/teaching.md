@@ -21,13 +21,17 @@ Current students:
 
 Year | Students | Project |
 -----|----------|---------|
-2021 | Morten Holm Thomsen and Simon Kristian Jacobsen | Development of Graph Neural Networks for prediction of financial data |
-2021 | Frederik Kromann Hansen and Jonas Søbro Christophersen | Investigating osteoarthritis via x-ray images using deep learning |
+2022 | Marco Placenti | Machine Learning Pipeline Engineering with Amazon Web Services |
+2022 | Xianhao Liu | Continues piecewise affine based normalizing flows |
+2022 | Andri Geir Arnarson and Asger Frederik Græsholt | Automation of a fruit sorting system |
+2022 | Gustav Selfort Hartz | Using deep learning and transformer models for processing, searching, and tagging legal documents |
 
 Former students:
 
 Year | Students | Project |
 -----|----------|---------|
+2021 | Frederik Kromann Hansen and Jonas Søbro Christophersen | Investigating osteoarthritis via x-ray images using deep learning |
+2021 | Morten Holm Thomsen and Simon Kristian Jacobsen | Development of Graph Neural Networks for prediction of financial data |
 2020 | Kathrine Thorup Hagedorn | Entertainment Recommender System complying to the GDPR ruleset |
 2020 | Dominik Mate Kovacs and Zoltán Kovács | Generating and Detecting Deepfakes |
 2018 | Julie Liv Cetti Hansen | Foci detection in cells using deep learning |
