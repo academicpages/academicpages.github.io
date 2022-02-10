@@ -1,14 +1,37 @@
 ---
-title: "Archive Layout with Content"
-layout: archive
-permalink: /archive-layout-with-content/
+permalink: /paper/
+title: "Paper"
+author_profile: true
 ---
 
-A variety of common markup showing how the theme styles them.
+## Locations of key files/directories
 
-# Header one
+* Basic config options: _config.yml
+* Top navigation bar config: _data/navigation.yml
+* Single pages: _pages/
+* Collections of pages are .md or .html files in:
+  * _publications/
+  * _portfolio/
+  * _posts/
+  * _teaching/
+  * _talks/
+* Footer: _includes/footer.html
+* Static files (like PDFs): /files/
+* Profile image (can set in _config.yml): images/profile.png
 
-## Header two
+## Tips and hints
+
+* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
+* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
+  * Green check: successful build
+  * Orange circle: building
+  * Red X: error
+  * No icon: not built
+
+## Resources
+ * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+
+## Markdown guide
 
 ### Header three
 
@@ -26,11 +49,15 @@ Single line blockquote:
 
 ## Tables
 
+### Table 1
+
 | Entry            | Item   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
 | [John Doe](#)    | 2016   | Description of the item in the list                          |
 | [Jane Doe](#)    | 2019   | Description of the item in the list                          |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+
+### Table 2
 
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
@@ -170,8 +197,3 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 ### Variable Tag
 
 This allows you to denote <var>variables</var>.
-
-{% include base_path %}
-{% for post in site.pages %}
-{% include archive-single.html %}
-{% endfor %}

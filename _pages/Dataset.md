@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /dataset/
+title: "Dataset"
 author_profile: true
 ---
 

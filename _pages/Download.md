@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /download/
+title: "Download"
 author_profile: true
 ---
 
