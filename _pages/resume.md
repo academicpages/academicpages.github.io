@@ -61,7 +61,7 @@ Theatre Experience
 ***The Importance of Being Earnest*** — *Stage Manager* August 2021 - October 2021  
   * Scheduled and ran rehearsals coordindated between designers, director, and actors and crew oversaw and called cues for every performance.   
 
-***A Christmas Carol: a Radio Play*** — *Prop Master* November 2021 December 2021  
+***A Christmas Carol: A Radio Play*** — *Prop Master* November 2021 December 2021  
   * Managed props including foley props used on stage.   
 
 ## **Saint Benedict At Auburndale Catholic High School**  
