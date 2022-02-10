@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "aleclazarini.com"
+title                    : "Alec Lazarini"
 title_separator          : "-"
 name                     : &name "Alec Lazarini"
 description              : &description "personal description"
