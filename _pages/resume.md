@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-<button onclick="location.href='/file/resume_alec_lazarini'" type="button">
-         View and Download as PDF</button>
-
+<span class="fs-8">
+[View and Download as PDF](/files/resume_alec_lazarini.pdf){: .btn }
+</span>
+  
 <a href="/files/resume_alec_lazarini.pdf" target="_blank">View and Download as PDF</a>  
   
 Skills
