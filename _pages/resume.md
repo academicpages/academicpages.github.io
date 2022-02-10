@@ -11,9 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Arkansas State University, Jonesboro Arkansas August 2019 - Present
+    * Majoring in theatre with an emphasis in design technologies in scenic, lighting,
+      sound, and makeup design.
+    * 2.9 GPA
+Saint Benedict at Auburndale Catholic School, Memphis TN August 2015 -
+May 2019
+    * Attended all four years of high school and spent time in the theatre department.
+      Helped production for shows including The Addams Family Musical and Kill Me
+      Deadly.
 
 Work experience
 ======
@@ -27,6 +33,11 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
+Awards 
+======
+  Nominated for an Orpheum High School Musical Theatre Award for outstanding scenic
+  design for The Addams Family Musical
+
 Skills
 ======
 * Skill 1
@@ -36,11 +47,11 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+##[ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>]
   
 Talks
 ======
