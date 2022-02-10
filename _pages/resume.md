@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <span class="fs-10">
-[View and Download as PDF](/files/resume_alec_lazarini.pdf) target="_blank"{: .btn }
+[View and Download as PDF](/files/resume_alec_lazarini.pdf target="_blank") {: .btn }
 </span>
   
 <a href="/files/resume_alec_lazarini.pdf" target="_blank">View and Download as PDF</a>  
