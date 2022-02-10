@@ -9,9 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-  <form action="/files/resume_alec_lazarini.pdf">
-    <input type="submit" value="View and Download as PDF" />
-</form>  
+<button onclick="location.href='/file/resume_alec_lazarini'" type="button">
+         View and Download as PDF</button>
 
 <a href="/files/resume_alec_lazarini.pdf" target="_blank">View and Download as PDF</a>  
   
