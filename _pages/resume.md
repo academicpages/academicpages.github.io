@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-
+  
+  
+  
 Skills
 ======
 * Proficient in 3D CAD programs
