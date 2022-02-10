@@ -77,18 +77,18 @@ img {vertical-align: middle;}
 /* Fading animation */
 .fade {
   -webkit-animation-name: fade;
-  -webkit-animation-duration: 2.5s;
+  -webkit-animation-duration: 2.0s;
   animation-name: fade;
-  animation-duration: 2.5s;
+  animation-duration: 2.0s;
 }
 
 @-webkit-keyframes fade {
-  from {opacity: .2} 
+  from {opacity: .3} 
   to {opacity: 1}
 }
 
 @keyframes fade {
-  from {opacity: .2} 
+  from {opacity: .3} 
   to {opacity: 1}
 }
 
