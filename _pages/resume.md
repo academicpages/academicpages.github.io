@@ -36,8 +36,7 @@ Education
 
 Theatre Experience
 ======
-**Arkansas State University**  
-------  
+## **Arkansas State University**  
 ***God of Carnage*** — *Assistant Stage Manager* January 2020 - February 2020    
   * Performed many duties including handing out line notes, rehearsal/performance reports and calls, and managed props and backstage during productions.  
 
@@ -56,8 +55,7 @@ Theatre Experience
 ***A Christmas Carol: a Radio Play*** — *Prop Master* November 2021 December 2021  
   * Managed props including foley props used on stage.   
 
-**Saint Benedict At Auburndale Catholic High School**  
-------  
+## **Saint Benedict At Auburndale Catholic High School**  
 ***The Addams Family Musical*** and ***Kill Me Deadly***  
   * Worked as part of the scenic design and build team for both productions and was the lead carpenter and designer for ***The Addams Family Musical***.  
     
