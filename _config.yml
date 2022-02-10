@@ -80,9 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "CURLY"
-  avatar           : "profile.png"
-  bio              : "Computational Autonomy and Robotics Laboratory"
+  name             : "UM Robotics"
+  name2            : "Barton Research Group"
+  avatar           : "curly.png"
+  avatar2          : "brg.png"
+  bio              :
   location         :
   employer         :
   pubmed           :
