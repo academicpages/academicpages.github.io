@@ -27,6 +27,7 @@ Skills
 * Designed and built props 
 * Experience with scenic design, joinery, and building techniques and processes
   
+  
 Education
 ======
 **Arkansas State University, Jonesboro Arkansas** August 2019 - Present  
@@ -37,6 +38,7 @@ Education
 **Saint Benedict at Auburndale Catholic School, Memphis Tennessee** August 2015 - May 2019  
   * Attended all four years of high school and spent time in the theatre department.  
     Helped production for shows including *The Addams Family Musical* and *Kill Me Deadly*.  
+  
   
 Theatre Experience
 ======
@@ -63,6 +65,7 @@ Theatre Experience
 ***The Addams Family Musical*** and ***Kill Me Deadly***  
   * Worked as part of the scenic design and build team for both productions and was the lead carpenter and designer for ***The Addams Family Musical***.  
   
+  
 Other Experience  
 ======
 **Firehouse Subs, Memphis Tennessee** — *Crew Member* May 2016 - August 2018  
@@ -73,6 +76,7 @@ Other Experience
 
 **Memphis Escape Rooms** — *Production Specialist* May 2021- August 2021   
   * Participated in the design, build, and beta processes for many rooms and performed maintenance on rooms.  
+    
     
 Awards 
 ======
