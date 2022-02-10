@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
   
-  
+<a href="https://www.aleclazarini.com/_files/resume_alec_lazarini" target="_blank">Download as PDF</a>  
   
 Skills
 ======
