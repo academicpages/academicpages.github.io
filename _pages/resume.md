@@ -58,7 +58,7 @@ Theatre Experience
 ***Revue*** — *Light Operator* April 2021 - April 2021  
   * Helped set up and monitor lighting for outdoor productions.   
 
-***The Importance of Being Earnest*** *Stage Manager* August 2021 - October 2021  
+***The Importance of Being Earnest*** — *Stage Manager* August 2021 - October 2021  
   * Scheduled and ran rehearsals coordindated between designers, director, and actors and crew oversaw and called cues for every performance.   
 
 ***A Christmas Carol: a Radio Play*** — *Prop Master* November 2021 December 2021  
