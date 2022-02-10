@@ -5,7 +5,7 @@ main:
     url: /portfolio/
   
   - title: "Resume"
-    url: /resume/ 
+    url: /portfolio/ 
   
   - title: "Other Projects"
     url: /other_projects/    
