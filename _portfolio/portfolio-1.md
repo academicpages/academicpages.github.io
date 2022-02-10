@@ -23,7 +23,7 @@ collection: portfolio
 
   <div class="mySlides fade">
     <div class="numbertext">2 / 3</div>
-    <img src="/images/earnest/earnest_set_with_actors" style="width:100%">
+    <img src="/images/earnest/earnest_set_with_actors.png" style="width:100%">
     <div class="text">Caption Two</div>
   </div>
 
