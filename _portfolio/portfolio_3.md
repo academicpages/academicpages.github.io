@@ -92,12 +92,12 @@ img {vertical-align: middle;}
 }
 
 @-webkit-keyframes fade {
-  from {opacity: .4} 
+  from {opacity: .2} 
   to {opacity: 1}
 }
 
 @keyframes fade {
-  from {opacity: .4} 
+  from {opacity: .2} 
   to {opacity: 1}
 }
 
@@ -112,7 +112,7 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 2</div>
+  <div class="numbertext">14 / 2</div>
   <img src="/images/earnest/earnest_set.png" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
