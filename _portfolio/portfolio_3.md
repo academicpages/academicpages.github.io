@@ -58,7 +58,7 @@ img {vertical-align: middle;}
   text-align: center;
 }
 
-/* Number text (1/3 etc) */
+/* Number text (1/2 etc) */
 .numbertext {
   color: #f2f2f2;
   font-size: 12px;
