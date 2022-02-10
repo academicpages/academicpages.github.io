@@ -10,11 +10,11 @@ main:
   - title: "Other Projects"
     url: /other_projects/    
 
-  - title: "Contact"
-    url: /contact/
-
   - title: "About"
     url: /about/    
+    
+  - title: "Contact"
+    url: /contact/
     
   - title: "Guide"
     url: /markdown/
