@@ -40,14 +40,14 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "aleclaz124@gmail.com"
+    email                : ""
   generatedFields:
     date:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
+#atom_feed:
+#  path                   : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -56,13 +56,13 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+#twitter:
+#  username               : 
+#facebook:
+#  username               :
+#  app_id                 :
+#  publisher              :
+#og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
