@@ -34,29 +34,29 @@ Education
 
 Theatre Experience
 ======
-**Arkansas State University**
---  
-**God of Carnage** — *Assistant Stage Manager* January 2020 - February 2020    
+**Arkansas State University**  
+------ 
+***God of Carnage*** — *Assistant Stage Manager* January 2020 - February 2020    
   * Performed many duties including handing out line notes, rehearsal/performance reports and calls, and managed props and backstage during productions.  
 
-**She Kills Monsters: Virtual Realms** — *Documentarian* October 2020 - November 2020  
+***She Kills Monsters: Virtual Realms*** — *Documentarian* October 2020 - November 2020  
   * Took pictures during performances and rehearsals for marketing and credit purposes.  
 
-**Everybody** — *Prop Master* October 2020 - November 2020  
+***Everybody*** — *Prop Master* October 2020 - November 2020  
   * Managed and built props including a fully posable puppet.   
 
-**Revue** — *Light Operator* April 2021 - April 2021  
+***Revue*** — *Light Operator* April 2021 - April 2021  
   * Helped set up and monitor lighting for outdoor productions.   
 
-**The Importance of Being Earnest** *Stage Manager* August 2021 - October 2021  
+***The Importance of Being Earnest*** *Stage Manager* August 2021 - October 2021  
   * Scheduled and ran rehearsals coordindated between designers, director, and actors and crew oversaw and called cues for every performance.   
 
-**A Christmas Carol: a Radio Play** — *Prop Master* November 2021 December 2021  
+***A Christmas Carol: a Radio Play*** — *Prop Master* November 2021 December 2021  
   * Managed props including foley props used on stage.   
 
 **Saint Benedict At Auburndale Catholic High School**  
 ------  
-**The Addams Family Musical** and **Kill Me Deadly**  
+***The Addams Family Musical*** and ***Kill Me Deadly***  
   * Worked as part of the scenic design and build team for both productions and was the lead carpenter and designer for ***The Addams Family Musical***.  
     
 Other Experience  
