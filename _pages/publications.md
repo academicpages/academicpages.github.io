@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Under review
-<b>[Risk-Aware ReinforcementLearning Based Bid Optimization](??)
+<b>[Risk-Aware Reinforcement Learning Based Bid Optimization](??)
 </b><br><b>Zhimeng Jiang</b>, Kaixiong Zhou, Mi Zhang, Rui Chen, Xia Hu, and Soo-Hyun Choi.
 
 <b>[FMP: Toward Fair Graph Message Passing against Topology Bias](??)
@@ -19,15 +19,15 @@ author_profile: true
 
 
 ## Conference Papers
-<b>[An Information FusionApproach to Learning with Instance-Dependent Label Noise](??)
+<b>[An Information Fusion Approach to Learning with Instance-Dependent Label Noise](??)
 </b><br><b>Zhimeng Jiang</b>, Kaixiong Zhou, Zirui Liu, Li Li, Rui Chen, Soo-Hyun Choi, and Xia Hu. 
 In Proceedings of International Conference on Learning Representations (ICLR), 2022
 
-<b>[Generalized DemographicParity for Group Fairness](??)
+<b>[Generalized Demographic Parity for Group Fairness](??)
 </b><br><b>Zhimeng Jiang</b>, Xiaotian Han, Chao Fan, Fan Yang, Ali Mostafavi, and Xia Hu. 
 In Proceedings of International Conference on Learning Representations (ICLR), 2022
 
-<b>[Geometric Graph RepresentationLearning via Maximizing Rate Reduction](??)
+<b>[Geometric Graph Representation Learning via Maximizing Rate Reduction](??)
 </b><br>Xiaotian Han, <b>Zhimeng Jiang</b>, Ninghao Liu, Qingquan Song, Jundong Li, and Xia Hu.
 In Proceedings of the 31th International Conference on World Wide Web Companion (WWW), 2022
 
