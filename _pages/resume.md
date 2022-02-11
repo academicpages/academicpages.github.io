@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="/files/resume_alec_lazarini.pdf" target="_blank" 
+<a href="https://docs.google.com/document/d/1r2sbgcDgDxmxz0EYZ4J5erLjHD2u6MNY7USb8visLvU/export?format=pdf" target="_blank" 
    style="width:100%;display:block;text-align:center;padding:.5em;background-color:#52adc8;color:#fff;border-radius:6px;box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px          rgba(0,0,0,.08);text-decoration:none">View and Download as PDF</a>  
    
    
