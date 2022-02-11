@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Other Projects"
-permalink: /other_projects/
+permalink: /_other_projects/
 author_profile: true
 ---
 
@@ -13,4 +13,3 @@ author_profile: true
 {% endfor %}
 
 
-Test 123 test 113
