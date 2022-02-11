@@ -10,10 +10,7 @@ redirect_from:
 I am a PhD student at Sorbonne University working with the DELYS team in LIP6/Inria in Paris. My primary area of research
 is Distributed Systems. I am studying the strategies to 'Optimise Coordination in Concurrent and Geo-Distributed Systems'. In this work, the plan is to develop a pragmatic 
 approach to optimise concurrency control in actual, complex applications. The aim is to develop a tool that assists developers in identifying the concurrency control and 
-coordination required to achieve correctness
-
-
-My latest work is in
+coordination required to achieve correctness. My latest work is in the following
 
 **AntidoteDB**
 
