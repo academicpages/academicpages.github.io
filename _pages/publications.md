@@ -2,7 +2,7 @@
 layout: archive
 title: "Other Projects"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
 
