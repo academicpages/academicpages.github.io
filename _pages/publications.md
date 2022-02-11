@@ -6,13 +6,22 @@ author_profile: true
 ---
 
 
+## The Strong Program in Embodied Cognitive Science.<br>*Phenomenology and the Cognitive Sciences*, forthcoming. (Link coming soon) <img align="right" src="https://gui-cogsci.github.io/images/phencogsci.jpg" width="130">
+>  A popular trend in the sciences of the mind is to understand cognition as embodied, embedded, enactive, ecological, and so on. While some of the work under the label of “embodied cognition” takes for granted key commitments of traditional cognitive science, other projects coincide in treating embodiment as the starting point for an entirely different way of investigating all of cognition. Focusing on the latter, this paper discusses how embodied cognitive science can be made more reflexive and more sensitive to the implications that our views of cognition have for how we understand scientific practice, including our own theorizing about cognition. Inspired by the “strong programme” in the sociology of scientific knowledge, I explore the prospect of an analogously “strong” program in embodied cognitive science. I first draw from Dewey’s transactional notion of “situation” to identify a broad sense in which embodied cognitive science takes cognition, as an embodied phenomenon, to be situated. I then sketch a perspective I call situated reflexivity, which extends the Deweyan analysis to understand scientific practice in the same terms, and thereby illustrates what research in line with a strong program in embodied cognitive science can look like. This move, I propose, has the potential of setting up a new inquiry situation that makes more salient the embodiment of scientific practice and that, through this, can help organize our own embodied cognitive activities as we try to make sense of scientific work, including our own.
+> 
+> KEYWORDS: embodiment, situation, reflexivity, scientific practice, embodied cognitive science
+>
+>> Sanches de Oliveira, G. (forthcoming)  The Strong Program in Embodied Cognitive Science. *Phenomenology and the Cognitive Sciences*. 
+
+<br><br>
+
 
 ## From something old to something new: Functionalist lessons for the cognitive science of scientific creativity.<br>*Frontiers in Psychology: Cognition*, forthcoming. ([Link](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.750086/full)) <img align="right" src="https://gui-cogsci.github.io/images/frontierspsychology.png" width="130">
 >  An intuitive view is that creativity involves bringing together what's already known and familiar in a way that produces something new. In cognitive science this intuition is typically formalized in terms of computational processes that combine or associate internally represented information. From this computationalist perspective, it's hard to imagine how non-representational approaches in embodied cognitive science could shed light on creativity, especially when it comes to abstract conceptual reasoning of the kind scientists so often engage in. The present article offers an entry point to addressing this challenge. The scientific project of embodied cognitive science is a continuation of work in the functionalist tradition in psychology developed over a century ago by William James and John Dewey, among others. The focus here is on how functionalist views on the nature of mind, thought and experience offer an alternative starting point for cognitive science in general, and for the cognitive science of scientific creativity in particular. The result may seem paradoxical. On the one hand, the paper claims that the functionalist conceptual framework motivates rejecting mainstream cognitive views of creativity as the combination or association of ideas. On the other hand, however, the strategy adopted here—namely, revisiting ideas from functionalist psychology to inform current scientific theorizing—can itself be described as a process of arriving at new, creative ideas from combinations of old ones. As is shown here, a proper understanding of cognition in light of the functionalist tradition resolves the seeming tension between these two claims.
 > 
 > KEYWORDS: creativity, representation, mind, experience, Functionalism, Embodied cognitive science
 >
->> Sanches de Oliveira, G. (forthcoming)  From something old to something new: Functionalist lessons for the cognitive science of scientific creativity. *Frontiers in Psychology: Cognition*. DOI: 10.3389/fpsyg.2021.750086
+>> Sanches de Oliveira, G. (2022)  From something old to something new: Functionalist lessons for the cognitive science of scientific creativity. *Frontiers in Psychology: Cognition*. DOI: 10.3389/fpsyg.2021.750086
 
 <br><br>
 
