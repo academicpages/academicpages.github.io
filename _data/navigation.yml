@@ -11,6 +11,8 @@ main:
     url: /publications/ 
 
   - title: "About"
-    url: /about/    
+    url: /about/  
     
+  - title: "Other Projects"
+    url: /other_projects/      
     
