@@ -9,9 +9,21 @@ author_profile: true
     <video autoplay="autoplay" src="../images/DataVideo.mp4" controls="false" width="100%" />
 </p>
 
+Welcome! **CarlaSC** is a semantic scene completion dataset with the aim of increasing scene understanding in dynamic environments. Dynamic environments are challenging for scene understanding because dynamic objects leave behind traces and occlusions in completed scenes. As a result, quantifying performance and supervising training of algorithms from real world data is challenging. Therefore, we propose **CarlaSC**, a synthetic outdoor driving dataset generated from *randomly sampled multi-view geometry*.
+
 ## Overview
 
-![All](../images/GoodCarlaOrig.png) 
+Our dataset consists of 24 sequences, generated from eight maps with a light traffic, medium traffic, and heavy traffic sequence for each. We obtain data from the [CARLA](https://carla.org/) simulator for its realism, autonomous traffic, and synchronized ground truth. Each sequence consists of three minutes of driving sampled at 10 Hz, for a total of 1800 frames. Each frame contains ground truth data including:
+
+* Observed **point clouds** with **semantic labels** and ego-motion compensated **scene flow** for each point.
+* **Pose** and **time** of each observation.
+* **Complete semantic scene** represented in Cartesian and Cylindrical coordinates. The scene is obtained from twenty randomly placed LiDAR sensors, placed in new locations for every sequence.
+
+Our multi-view scenes include free space labels and minimal occlusions. An example image from our dataset compared to a similar frame in the well-known [Semantic KITTI](http://www.semantic-kitti.org/) dataset is shown below. 
+
+<p float="middle">
+  <img src="../images/CarlaKITTI.png" width="100%" />
+</p>
 
 ## Classes
 
