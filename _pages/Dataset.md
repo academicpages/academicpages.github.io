@@ -18,6 +18,7 @@ Our dataset consists of 24 sequences, generated from eight maps with a light tra
 * Observed **point clouds** with **semantic labels** and ego-motion compensated **scene flow** for each point.
 * **Pose** and **time** of each observation.
 * **Complete semantic scene** represented in Cartesian and Cylindrical coordinates. The scene is obtained from twenty randomly placed LiDAR sensors, placed in new locations for every sequence.
+* **Bird's Eye View** image for verification.
 
 Our multi-view scenes include free space labels and minimal occlusions. An example image from our dataset compared to a similar frame in the well-known [Semantic KITTI](http://www.semantic-kitti.org/) dataset is shown below. 
 
@@ -27,22 +28,27 @@ Our multi-view scenes include free space labels and minimal occlusions. An examp
 
 ## Classes
 
-* Splits 
-
-<p float="middle">
-  <img src="../images/BEV.png" width="30%" />
-  <img src="../images/Cartesian.png" width="30%" /> 
-  <img src="../images/Cylindrical.png" width="30%" /> 
-</p>
-
-* Re mapping
+There are 23 semantic [classes](https://carla.readthedocs.io/en/latest/ref_sensors/#semantic-segmentation-camera) in the CARLA simulator. We remove all unlabeled points, and use class 0 to instead represent free space. We also remove any observations of the ego-vehicle, resulting in a clean dataset. A histogram of the frequency of all classes is shown below. 
 
 ![All](../images/HistogramAll.png) 
 
-<p float="middle">
-  <img src="../images/ClassRemapping.png" width="35%" />
-  <img src="../images/HistogramAll.png" width="60%" /> 
+As can be seen, the distribution of classes is very uneven. Some classes are nearly identical to others, and some classes such as sky do not show up at all. Therefore, we also propose a remapping of the classes to aid with training supervised learning algorithms.
+
+<p align="center">
+  <img src="../images/ClassRemapping.png" width="65%" />
 </p>
+<p float="middle">
+  <img src="../images/HistogramRemapped.png" width="100%" /> 
+</p>
+  
 
 
 ## Format
+
+<p align="center">
+  <img src="../images/BEV.png" width="30%" />
+</p>
+<p align="center">
+  <img src="../images/Cartesian.png" width="45%" /> 
+  <img src="../images/Cylindrical.png" width="45%" /> 
+</p>
