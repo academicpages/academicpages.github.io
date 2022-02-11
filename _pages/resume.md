@@ -49,19 +49,19 @@ Theatre Experience
 ***God of Carnage*** — *Assistant Stage Manager* January 2020 - February 2020    
   * Performed many duties including handing out line notes, rehearsal/performance reports and calls, and managed props and backstage during productions.  
 
-***She Kills Monsters: Virtual Realms*** — *Documentarian* October 2020 - November 2020  
+***She Kills Monsters: Virtual Realms*** — *Documentarian* and *Carpenter* October 2020 - November 2020  
   * Took pictures during performances and rehearsals for marketing and credit purposes.  
 
-***Everybody*** — *Prop Master* October 2020 - November 2020  
+***Everybody*** — *Prop Master* and *Carpenter* October 2020 - November 2020  
   * Managed and built props including a fully posable puppet.   
 
-***Revue*** — *Light Operator* April 2021 - April 2021  
+***Revue*** — *Light Operator* and *Carpenter* April 2021 - April 2021  
   * Helped set up and monitor lighting for outdoor productions.   
 
-***The Importance of Being Earnest*** — *Stage Manager* August 2021 - October 2021  
+***The Importance of Being Earnest*** — *Stage Manager* and *Carpenter* August 2021 - October 2021  
   * Scheduled and ran rehearsals coordindated between designers, director, and actors and crew oversaw and called cues for every performance.   
 
-***A Christmas Carol: A Radio Play*** — *Prop Master* November 2021 December 2021  
+***A Christmas Carol: A Radio Play*** — *Prop Master* and *Carpenter* November 2021 December 2021  
   * Managed props including foley props used on stage.   
 
 ## **Saint Benedict At Auburndale Catholic High School**  
