@@ -8,7 +8,7 @@ main:
     url: /resume/ 
   
   - title: "Other Projects"
-    url: /other_projects/    
+    url: /other-projects/    
 
   - title: "About"
     url: /about/    
