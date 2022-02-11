@@ -63,5 +63,5 @@ and change numbers
 <script src="/assets/js/image_slideshow.js"></script>
 
 
-[Link button](/other-projects/){: .btn }
+[Button ](/other-projects/){: .btn }
 </body>
