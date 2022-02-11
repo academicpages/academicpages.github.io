@@ -33,7 +33,7 @@ Under Construction
 <img style="display: block; margin-left: auto; margin-right: auto;" src="https://yunyaoli.github.io/images/wcs.png" alt="" width="330" />
   </td>
 <td style="vertical-align: top; width: 66.9539%; height: 314px;">
-<p> <strong><span style="font-size: 14pt;">Content Services: Building Large-Scale Domain-Specific Knowledge Base</span></strong></p>
+<p> <strong><span style="font-size: 14pt;color: #008080;">Content Services: Building Large-Scale Domain-Specific Knowledge Base</span></strong></p>
 The Content Services system provides the ability to create and interact with large-scale domain- specific knowledge bases by analyzing and integrating multiple (un/semi)structured content sources. Such a capability is the foundation for many industry-focused cognitive systems. This project built a scalable platform the addresses the challenges of (1) how to represent and incorporate domain knowledge; (2) how to enable a robust platform-agnostic workflow for knowledge extrac- tion and integration from different data sources in different formats in both batch and incremental fashion; (3) how to monitor and maintain data quality; (4) how to store and query the KB to support a wide-spectrum of use cases.
 <p>
 <strong>Business Impact:</strong> (1) Production-ready platform for building Large-Scale domain-specific knowledge base with several major components resused in multiple products and services. (2) A large-scale financial content knowledge base from over 20 years' SEC and FFIEC financial fiings for all public companies and banks in US with multiple customer engagement.   
@@ -53,7 +53,7 @@ The Content Services system provides the ability to create and interact with lar
 <img style="display: block; margin-left: auto; margin-right: auto;" src="https://yunyaoli.github.io/images/GumshoeOverview.png" alt="" width="330" />
   </td>
 <td style="vertical-align: top; width: 66.9539%; height: 314px;">
-<p> <strong><span style="font-size: 14pt;">Gumshoe: Programmable Search for the Enterprise</span></strong></p>
+<p> <strong><span style="font-size: 14pt;color: #008080;">Gumshoe: Programmable Search for the Enterprise</span></strong></p>
 Gumshoe was a scalable and highly customizable enterprise search solution and successfully deployed the solution within the IBM enterprise to power both extranet (ibm.com) and intranet (w3) search. The Gumshoe architecture marries sophisticated backend content analytics workflow with a unique programmable runtime search architecture specifically designed to provide flexible and powerful search quality management. 
 <p>
 <strong>Business Impact:</strong> In production from 2011 to 2017, culminating in the highest ever search satisfaction scores in the history of the CIO WorkPlace Effectiveness Survey during its active deployment. 
