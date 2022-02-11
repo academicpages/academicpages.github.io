@@ -1,14 +1,25 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Ayush Pandey"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am a PhD student at Sorbonne University working with the DELYS team in LIP6/Inria in Paris. My primary areas of research
+is Distributed Systems. My latest work is in the following:
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+**AntidoteDB**
+
+[AntidoteDB](https://www.antidotedb.eu) is a plane scale, highly available transactional database. During my Master thesis,
+I worked on designing and implementing
+1. A Cache to store CRDT objects in memory.
+2. A Checkpoint store to persist these objects.
+3. An Indexing mechanism to facilitate faster reads in Journal based databases.
+4. Strategies to truncate the Journal upon checkpointing. 
+
+The work has been submitted as a [dissertation](http://ayushpandey8439.github.io/files/master_thesis.pdf)
 
 A data-driven personal website
 ======
