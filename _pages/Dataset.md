@@ -45,6 +45,8 @@ As can be seen, the distribution of classes is very uneven. Some classes are nea
 
 ## Format
 
+Our data set is split into two coordinate systems with three splits each. There is a Cartesian and Cylindrical semantic scene completion data set, each with a training, validation, and testing split. Note that the coordinate system is only modified for the output semantic scene, while the coordinate system for point clouds and poses is Cartesian in both. An example of the same scene in both coordinate systems is shown below, with a Bird's Eye View camera image for reference. 
+
 <p align="center">
   <img src="../images/BEV.png" width="30%" />
 </p>
