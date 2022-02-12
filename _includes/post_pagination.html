@@ -1,7 +1,8 @@
 {% include base_path %}
 
-{% if page.previous or page.next %}
+<!-- {% if page.previous or page.next %} -->
   <nav class="pagination">
+    <!--
     {% if page.previous %}
       <a href="{{ base_path }}{{ page.previous.url }}" class="pagination--pager" title="{{ page.previous.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
     {% else %}
@@ -12,6 +13,10 @@
     {% else %}
       <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
     {% endif %}
-  </nav>
+    -->
+   <a href="../" 
+   style="width:10%;display:block;text-align:center;padding:.5em;background-color:#52adc8;color:#fff;border-radius:6px;box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px
+   rgba(0,0,0,.08);text-decoration:none">Back</a>   
+</nav>
 
 {% endif %}
