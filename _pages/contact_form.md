@@ -1,6 +1,6 @@
 ---
 permalink: /contact_form/
-title: "Contact Me"
+title: ""
 excerpt: ""
 author_profile: true
 ---
