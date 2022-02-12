@@ -55,11 +55,9 @@ and change numbers
   <span class="dot" onclick="currentSlide(2)"></span> 
   <span class="dot" onclick="currentSlide(3)"></span> 
 </div>
-
-  
-  
-  
   
 <script src="/assets/js/image_slideshow.js"></script>
-
+<a href="/other-projects/" 
+   style="width:10%;display:block;text-align:center;padding:.5em;background-color:#52adc8;color:#fff;border-radius:6px;box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px          rgba(0,0,0,.08);text-decoration:none">Back</a>  
+  
 </body>
