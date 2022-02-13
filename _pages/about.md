@@ -16,6 +16,8 @@ You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.e
 
 News
 ======
+\[February 2022\] Invited to serve as a Reviewer for **[TMLR](https://www.jmlr.org/tmlr/)**.
+
 \[January 2022\] Invited to serve as a Reviewer for **ICML 2022**. 
 
 \[August 2021\] I passed my Ph.D. qualifying exam and became a Ph.D. candidate. \[[slides](https://kl4805.github.io/files/slides.pdf)\]
