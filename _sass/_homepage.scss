@@ -1,0 +1,28 @@
+/* ==========================================================================
+   HOME PAGE
+   ========================================================================== */
+
+/*
+   Custom Styling for Home Page
+   ========================================================================== */
+
+.HOME-feature-block {
+    @include container;
+    @include clearfix;
+
+    div {
+        display: inline-block;
+        text-align: center;
+        width: 32%;
+        height: 300px;
+        margin: auto;
+        border-style: solid;
+        border-radius: $border-radius;
+        border-width: $border-width;
+        border-color: $light-gray;
+    }
+
+    p{
+        font-size: $type-size-5;
+    }
+}
