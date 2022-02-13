@@ -14,3 +14,4 @@ author_profile: true
 - Secondary Reviewer: ICLR 2020, AAAI 2020, ACL 2020, NeurIPS 2020. 
 - Journal Reviewer: 
     - **2021**: IEEE BigData, IEEE T-ITS, Neural Networks
+    - **2022**: [TMLR](https://www.jmlr.org/tmlr/)
