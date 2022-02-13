@@ -18,6 +18,7 @@ In my leisure time, I enjoy playing different sports (especially Cricket and Tab
 > Life is what happens when you're busy making other plans - *John Lennon*
 
 ## Updates 
+- Feb 2022: Joined [Streamlit creators group](https://streamlit.io/creators)!🎈
 - Nov 2021: I have been awarded a [Straub Young Scientist Prize 2021](http://www.brc.hu/hu/blog/2021/11/5/8-fiatal-kutato-nyerte-el-straub-fiatal-kutatoi-dij-at).
 - Nov 2021: We submitted our paper titled, [Trimeric Photosystem I facilitates energy transfer from phycobilisomes in Synechocystis PCC 6803](https://www.biorxiv.org/content/10.1101/2021.10.25.465751v1.full.pdf). 
 - Mar 2021: Our paper titled, [Excitation energy transfer kinetics of trimeric, monomeric and subunit-depleted Photosystem I from Synechocystis PCC 6803](https://portlandpress.com/biochemj/article-abstract/478/7/1333/228049/Excitation-energy-transfer-kinetics-of-trimeric?redirectedFrom=fulltext), accepted in Biochemical Journal.
