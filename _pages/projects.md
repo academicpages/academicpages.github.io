@@ -9,8 +9,49 @@ author_profile: true
 
 Under Construction
 
+List of significant projects that I have played a major role as a technical lead.
+
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
+<tr style="height: 314px;">
+<td style="vertical-align: middle; width: 33.0461%; height: 314px;">
+<img style="display: block; margin-left: auto; margin-right: auto;" src="" alt="" width="330" />
+  </td>
+<td style="vertical-align: top; width: 66.9539%; height: 314px;">
+<p> <strong><span style="font-size: 14pt;color: #008080;">Universal Proposition Banks</span></strong></p>
+
+<p>
+<strong>Business Impact:</strong> (1) A major differientiating advanced NLP primitive in Watson NLP, which provides the NLP foundation of many IBM AI offerings; (2) TBA
+</p>
+<p>
+<strong>Scientific Impact:</strong> TBA
+</p>
+<p>
+<a style="color: #0375b4; text-decoration: none;" href="https://github.com/System-T/UniversalPropositions">Learn More</a> 
+</p>
+</td>
+</tr>
+
+<tr style="height: 314px;">
+<td style="vertical-align: middle; width: 33.0461%; height: 314px;">
+<img style="display: block; margin-left: auto; margin-right: auto;" src="" alt="" width="330" />
+  </td>
+<td style="vertical-align: top; width: 66.9539%; height: 314px;">
+<p> <strong><span style="font-size: 14pt;color: #008080;">AutoAI for Text</span></strong></p>
+
+<p>
+<strong>Business Impact:</strong> TBA
+</p>
+<p>
+<strong>Scientific Impact:</strong> TBA
+</p>
+<p>
+<a style="color: #0375b4; text-decoration: none;" href="https://researcher.watson.ibm.com/researcher/view_group.php?id=10799">Learn More</a> 
+</p>
+</td>
+</tr>
+
+
 <tr style="height: 314px;">
 <td style="vertical-align: middle; width: 33.0461%; height: 314px;">
 <img style="display: block; margin-left: auto; margin-right: auto;" src="https://yunyaoli.github.io/images/systemt-overview0.jpg" alt="" width="330" />
@@ -36,7 +77,7 @@ Under Construction
 <p> <strong><span style="font-size: 14pt;color: #008080;">Content Services: Building Large-Scale Domain-Specific Knowledge Base</span></strong></p>
 The Content Services system provides the ability to create and interact with large-scale domain- specific knowledge bases by analyzing and integrating multiple (un/semi)structured content sources. Such a capability is the foundation for many industry-focused cognitive systems. This project built a scalable platform the addresses the challenges of (1) how to represent and incorporate domain knowledge; (2) how to enable a robust platform-agnostic workflow for knowledge extrac- tion and integration from different data sources in different formats in both batch and incremental fashion; (3) how to monitor and maintain data quality; (4) how to store and query the KB to support a wide-spectrum of use cases.
 <p>
-<strong>Business Impact:</strong> (1) Production-ready platform for building Large-Scale domain-specific knowledge base with several major components resused in multiple products and services. (2) A large-scale financial content knowledge base from over 20 years' SEC and FFIEC financial fiings for all public companies and banks in US with multiple customer engagement.   
+<strong>Business Impact:</strong> (1) Production-ready platform for building Large-Scale domain-specific knowledge base with several major components resused in multiple products and services. (2) A large-scale financial content knowledge base for all public companies and banks in US constructed from over 20 years' SEC and FFIEC financial fiings with multiple customer engagements.   
 </p>
 <p>
 <strong>Scientific Impact:</strong> Varies aspects of the Content Services system are covered in multiple research papers, leading to follow up research projects on table extraction & understanding, table QA, OQL and natural language query to databases.  
