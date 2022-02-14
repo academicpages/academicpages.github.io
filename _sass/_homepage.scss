@@ -11,18 +11,20 @@
     @include clearfix;
 
     div {
-        display: inline-block;
         text-align: center;
-        width: 32%;
-        height: 300px;
-        margin: auto;
+        width: 31%;
+        height: 400px;
+        margin: 1%;
         border-style: solid;
         border-radius: $border-radius;
         border-width: $border-width;
         border-color: $light-gray;
+        font-size: $type-size-5;
+        padding: 10px;
+        float: left;
     }
 
-    p{
-        font-size: $type-size-5;
+    p {
+        font-size: $type-size-7;
     }
 }
