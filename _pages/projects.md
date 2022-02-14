@@ -20,8 +20,9 @@ Under Construction
 
 <p>
 Universal Proposition Banks builds on the Universal Dependencies project and adds a layer of crosslingually unified shallow semantic information. It enable the training of crosslingual parsers and the study of crosslingual semantics. The key idea is to generate high quality prosition banks at scale with a combination of auto-generation and human-in-the-loop methods. In addition, we also study shallow semantic parsing models for better quality, runtime performance, and maintainability as well as the building of novel NLP applications on top of such crosslingual unified shallow semantic information.
-
-<strong>Business Impact:</strong> (1) Foundation for Expanded Shallow Semantic Parsing (ESSP), a major differientiating advanced NLP primitive in Watson NLP, an embedding NLP library used widely within IBM products and solutions; (2) ESSP enables multiple IBM products and solutions such as Watson Discovery and AIOps.  
+</p>
+<p>
+<strong>Business Impact:</strong> (1) Foundation for Expanded Shallow Semantic Parsing (ESSP), a major differientiating advanced NLP primitive in Watson NLP, an embedding NLP library used widely within IBM products and solutions; (2) Powers multiple IBM products and solutions such as Watson Discovery and AIOps.  
 </p>
 <p>
 <strong>Scientific Impact:</strong> (1) Public dataset; (2) Multiple research papers on data generation, curation, model building at top NLP conferences; (3) More to come in the near future. 
