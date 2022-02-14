@@ -45,7 +45,7 @@ As can be seen, the distribution of classes is very uneven. Some classes are nea
 
 ## Format
 
-Our data set is split into two coordinate systems with three splits each. There is a Cartesian and Cylindrical semantic scene completion data set, each with a training, validation, and testing split. Note that the coordinate system is only modified for the output semantic scene, while the coordinate system for point clouds and poses is Cartesian in both. An example of the same scene in both coordinate systems is shown below, with a Bird's Eye View camera image for reference. 
+Our data set is split into two coordinate systems with three splits each. There is a Cartesian and Cylindrical semantic scene completion data set, each with a training, validation, and testing split. Note that the coordinate system is only modified for the *output semantic scene*, while the coordinate system for point clouds and poses is Cartesian in both. An example of the same scene in both coordinate systems is shown below, with a Bird's Eye View camera image for reference. Cylindrical coordinates represent objects near to the ego vehicle in high resolution while further away objects are granular. Cartesian coordinates maintain a consistent resolution throughout the volume. 
 
 <p align="center">
   <img src="../images/BEV.png" width="30%" />
@@ -54,3 +54,56 @@ Our data set is split into two coordinate systems with three splits each. There 
   <img src="../images/Cartesian.png" width="45%" /> 
   <img src="../images/Cylindrical.png" width="45%" /> 
 </p>
+
+The file structure of our data is shown below. Formats are similar to that of Semantic KITTI, where semantic labels are stored as a [NumPy](https://numpy.org/) uint32 file with the extension ".label" and other files including point locations, number of points per cell, and scene flow are stored as a [NumPy](https://numpy.org/) float32 file with the ".bin" extension. Files are stored as a six character string indicating the frame number followed by an extension, which may be mapped to an exact time using the "times.txt" file. Note that all files use the ego sensor coordinate frame. 
+
+<p align="left">
+  <img src="../images/Folder.png" width="35px" />
+   <b>Split</b> (Train, Val, and Test)
+</p>
+
+<p align="left" style="text-indent: 50px;">
+  <img src="../images/Folder.png" width="35px" />
+   <b>Sequence</b> 
+</p>
+
+<p align="left" style="text-indent: 100px;">
+  <img src="../images/Folder.png" width="35px" />
+   <b>Coordinates</b> (cartesian or cylindrical)
+</p>
+
+<p align="left" style="text-indent: 150px;">
+  <img src="../images/Folder.png" width="35px" />
+   <b>bev</b> bird's eye view image of each frame
+</p>
+
+<p align="left" style="text-indent: 150px;">
+  <img src="../images/Folder.png" width="35px" />
+   <b>evaluation</b> semantic scene completion ground truth
+</p>
+
+<p align="left" style="text-indent: 150px;">
+  <img src="../images/Folder.png" width="35px" />
+   <b>labels</b> semantically labeled point cloud for each frame
+</p>
+
+<p align="left" style="text-indent: 150px;">
+  <img src="../images/Folder.png" width="35px" />
+   <b>predictions</b> ego-motion compensated scene flow for each frame
+</p>
+
+<p align="left" style="text-indent: 150px;">
+  <img src="../images/Folder.png" width="35px" />
+   <b>velodyne</b> raw point cloud without intensity
+</p>
+
+<p align="left" style="text-indent: 150px;">
+  <img src="../images/Paper.png" width="35px" />
+   <b>poses.txt</b>
+</p>
+
+<p align="left" style="text-indent: 150px;">
+  <img src="../images/Paper.png" width="35px" />
+   <b>times.txt</b> 
+</p>
+
