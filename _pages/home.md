@@ -8,7 +8,7 @@ redirect_from: /sitemap/
 
 <p>A Data Set and Network for Real-Time Semantic Mapping in Dynamic Environments</p>
 <div>
-    <video autoplay="autoplay" src="../images/MotionSCHomeVideo.mp4" controls="controls" width="100%" />
+    <video autoplay="autoplay" src="./images/MotionSCHomeVideo.mp4" controls="controls" width="100%" />
 </div>
 
 <div class="page__lead">
@@ -17,7 +17,7 @@ redirect_from: /sitemap/
             <div>
                 Trace Free Scenes
                 <p>
-                    <img src="../images/TraceFree.png" alt="Trace Free">
+                    <img src="./images/TraceFree.png" alt="Trace Free">
                 </p>
                 <p>
                     MotionSC scenes are sampled from multiple viewpoints, ensuring minimal occlusions and no traces left by dynamic objects. The image above showcases MotionSC lack of traces for dynamic objects compared to SemanticKITTI, another well known vision benchmark.
@@ -26,7 +26,7 @@ redirect_from: /sitemap/
             <div>
                 Sequential Labels
                 <p>
-                    <img src="../images/SemanticLabel.png" alt="SemanticLabel">
+                    <img src="./images/SemanticLabel.png" alt="SemanticLabel">
                 </p>
                 <p>
                     Data is captured at 10Hz and semantic labels along with scene flow data ground truth data is provided for each frame. This provides more information for scene understanding over multiple scans.
@@ -35,7 +35,7 @@ redirect_from: /sitemap/
             <div>
                 Synthetic Data
                 <p>
-                    <img src="../images/Carla.png" alt="Carla">
+                    <img src="./images/Carla.png" alt="Carla">
                 </p>
                 <p>
                     MotionSC is generated using CARLA, an open source simulator for autonomous driving research. This enables high customizability, from the number of dynamic objects to the position and number of sensors.
