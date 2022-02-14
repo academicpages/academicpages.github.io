@@ -65,18 +65,6 @@ ISRR 2019, Hanoi, Vietnam
 ` `  
 ` `  
 
-# Thesis
-**Imitation Learning with Pixel-Wise Robotic End Effector Action Parametrization**  
-M.S. Thesis. November 2019.  
-Khoury College of Computer Sciences, Northeastern University, Boston, USA  
-[(PDF)]({{ site.url }}/files/Master Thesis.pdf)
-
-**Playing Gomoku with Deep Reinforcement Learning**  
-B.Eng. Thesis. May 2017.  
-Department of Computer Science, Sichuan University, Chengdu, China  
-1st class outstanding bachelor's thesis of Sichuan University  
-[(PDF)(in Simplified Chinese)]({{ site.url }}/files/Bachelor Thesis.pdf)
-
 # Education
 + (2020-Present) PhD student, Computer Science, Northeastern University, Boston, USA
 + (2017-2019) M.S, Computer Science, Northeastern University, Boston, USA
