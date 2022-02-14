@@ -21,7 +21,7 @@ I received my Bachelor's degree in Computer Science in [Sichuan University](http
 **SO(2)-Equivariant Reinforcement Learning**  
 **Dian Wang**, Robin Walters, Robert Platt  
 ICLR 2022, Virtual, **spotlight**  
-[(OpenReview)](https://openreview.net/forum?id=7F9cOhdvfk_)
+[(Webpage)](https://pointw.github.io/equi_rl_page/)[(OpenReview)](https://openreview.net/forum?id=7F9cOhdvfk_)
 ` `  
 ` `  
 
@@ -29,7 +29,7 @@ ICLR 2022, Virtual, **spotlight**
 **Equivariant Q Learning in Spatial Action Spaces**  
 **Dian Wang**, Robin Walters, Xupeng Zhu, Robert Platt  
 CoRL 2021, London, UK  
-[(PDF)](https://arxiv.org/pdf/2110.15443.pdf)[(OpenReview)](https://openreview.net/forum?id=IScz42A3iCI)[(Poster)](https://openreview.net/attachment?id=IScz42A3iCI&name=poster)[(Page)](https://pointw.github.io/equi_q_page/)[(Video)](https://www.youtube.com/watch?v=GtdpvjLHc_Q)[(Code)](https://github.com/pointW/equi_q_corl21)
+[(Webpage)](https://pointw.github.io/equi_q_page/)[(PDF)](https://arxiv.org/pdf/2110.15443.pdf)[(OpenReview)](https://openreview.net/forum?id=IScz42A3iCI)[(Poster)](https://openreview.net/attachment?id=IScz42A3iCI&name=poster)[(Video)](https://www.youtube.com/watch?v=GtdpvjLHc_Q)[(Code)](https://github.com/pointW/equi_q_corl21)
 ` `  
 ` `  
 
@@ -53,7 +53,7 @@ AAMAS 2021, London, UK
 **Policy learning in SE (3) action spaces**  
 **Dian Wang**, Colin Kohler, Robert Platt  
 CoRL 2020, Boston, Massachusetts, USA  
-[(PDF)](https://arxiv.org/pdf/2010.02798.pdf)[(Page)](https://pointw.github.io/asrse3-page/)[(Video)](https://youtu.be/FiHoIF1oLZs)[(Talk)](https://youtu.be/W0UQMntqaog)[(Code)](https://github.com/pointW/asrse3_corl20)
+[(Webpage)](https://pointw.github.io/asrse3-page/)[(PDF)](https://arxiv.org/pdf/2010.02798.pdf)[(Video)](https://youtu.be/FiHoIF1oLZs)[(Talk)](https://youtu.be/W0UQMntqaog)[(Code)](https://github.com/pointW/asrse3_corl20)
 ` `  
 ` `  
 
@@ -61,7 +61,7 @@ CoRL 2020, Boston, Massachusetts, USA
 **Towards Assistive Robotic Pick and Place in Open World Environments**  
 **Dian Wang**, Colin Kohler, Andreas ten Pas, Alexander Wilkinson, Maozhi Liu, Holly Yanco, Robert Platt  
 ISRR 2019, Hanoi, Vietnam  
-[(PDF)](https://arxiv.org/pdf/1809.09541.pdf)[(Page)](https://pointw.github.io/scooter-page/)[(Video)](https://www.youtube.com/watch?v=ZimZlsJTaTU)
+[(Webpage)](https://pointw.github.io/scooter-page/)[(PDF)](https://arxiv.org/pdf/1809.09541.pdf)[(Video)](https://www.youtube.com/watch?v=ZimZlsJTaTU)
 ` `  
 ` `  
 
