@@ -17,8 +17,8 @@ these filters to an image is called convolution. 2D convolution in the spatial d
 input pixel and summed together to obtain the corresponding output pixel. 
 
 <p align="center">
-  <br/><img src='/images/convolution.png'width="500"/><br/>
-  Fig. 1: Visual illustration of 2D convolution [2]<br/>
+  <img src='/images/convolution.png'width="500"/><br/>
+  <br/>Fig. 1: Visual illustration of 2D convolution [2]<br/>
 </p>
 
 Some well-known linear image filters are smoothing filters, such as mean filters, which take the average of neighbor pixels, Gaussian filters, an approximation of Gaussian function,
@@ -40,8 +40,8 @@ comes from the observation that image contents and complex manipulations are mor
 example of such piecewise smooth signals along with an example of domain transform application for edge-preserving filtering.
 
 <p align="center">
-  <br/><img src='/images/domaintransform.png'width="500"/><br/>
-  Fig. 2: 1D edge-preserving filtering using a piecewise linear function ct(u). (a) Input signal
+  <img src='/images/domaintransform.png'width="500"/><br/>
+  <br/>Fig. 2: 1D edge-preserving filtering using a piecewise linear function ct(u). (a) Input signal
 I. (b) ct(u). (c) Signal I plotted in the transformed domain (Ωw).
 Signal I filtered in Ωw with a 1D Gaussian (d) and plotted in Ω (e).[4]<br/>
 </p>
@@ -95,12 +95,15 @@ laplacian filter benefits from local processing in which it modifies each coeffi
 edges from details.
 
 <p align="center">
-  <br/><img src='/images/llf1D.png'width="700"/><br/>
+  <img src='/images/llf1D.png'width="700"/>
+</p>
+<p align="center">
   Fig 5. 1D local laplacian filter implementation. L<sub>0</sub> and L<sub>1</sub> represent the first two laplacian levels.[8]<br/>
 </p>
-
 <p align="center">
-  <br/><img src='/images/llf_func.png'width="700"/><br/>
+  <img src='/images/llf_func.png'width="700"/>
+</p>
+<p align="center">
   Fig 6. A variety of pointwise functions r(i) applied to a local value g<sub>o</sub> to obtain the intermediate image.[8]<br/>
 </p>
 
