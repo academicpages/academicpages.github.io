@@ -21,3 +21,7 @@ You can check our syllabus [here](https://yongjunzhang.com/files/css/CSS_Zhang_S
 ### Week 3
 
 [Lab 3](https://yongjunzhang.com/files/css/Lab3.html)
+
+### Week 4
+
+[Lab 4](https://yongjunzhang.com/files/css/Lab4.html)
