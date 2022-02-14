@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
