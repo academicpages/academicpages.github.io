@@ -17,7 +17,7 @@ these filters to an image is called convolution. 2D convolution in the spatial d
 input pixel and summed together to obtain the corresponding output pixel. 
 
 <p align="center">
-  <img src='/images/convolution.png'width="500"/><br/>
+  <img src="/images/convolution.png" width="500"/><br/>
   <br/>Fig. 1: Visual illustration of 2D convolution [2]<br/>
 </p>
 
@@ -40,7 +40,7 @@ comes from the observation that image contents and complex manipulations are mor
 example of such piecewise smooth signals along with an example of domain transform application for edge-preserving filtering.
 
 <p align="center">
-  <img src='/images/domaintransform.png'width="500"/><br/>
+  <img src="/images/domaintransform.png" width="500"/><br/>
   <br/>Fig. 2: 1D edge-preserving filtering using a piecewise linear function ct(u). (a) Input signal
 I. (b) ct(u). (c) Signal I plotted in the transformed domain (Ωw).
 Signal I filtered in Ωw with a 1D Gaussian (d) and plotted in Ω (e).[4]<br/>
@@ -56,7 +56,7 @@ A bilateral filter is a nonlinear operator that smoothes an image while retainin
 from the fact that it reduces the weights of nearby pixels whose values largely differ from the input pixel.
 
 <p align="center">
-  <br/><img src='/images/bf_eqn.png'width="500"/><br/>
+  <br/><img src="/images/bf_eqn.png" width="500"/><br/>
   Eqn. 1: Bilateral filter definition for an image I, at position p [5]<br/>
 </p>
 Here, G<sub>σs</sub> is a Gaussian on the spatial distance and G<sub>σr</sub> a Gaussian on the pixel value difference. The output pixel is a weighted average where 
@@ -64,13 +64,13 @@ the weight is the product of G<sub>σs</sub> and G<sub>σr</sub>, the latter, al
 those on the other side so that the range variation in pixel values wouldn't smooth strong edges [3].
 
 <p align="center">
-  <br/><img src='/images/bilateral_filtering.png'width="700"/><br/>
+  <br/><img src="/images/bilateral_filtering.png" width="700"/><br/>
   Fig 3. Bilateral filtering. The spatial and range kernels, f and g respectively, combine to preserve edges.[6]<br/>
 </p>
 
 <p align="center">
   <img src="/images/Before_SF.png" width="220" height="300" />
-  <img src="/images/BeforeAfter_BF.png" width="220" height="300"  /> 
+  <img src="/images/BeforeAfter_BF.png" width="220" height="300" /> 
 </p>
 
 <p align="center">
@@ -91,17 +91,16 @@ data structure, a bilateral grid [3], that combines the 2D spatial dimension wit
 
 Local Laplacian filters are another type of edge-preserving filters where Laplacian pyramids are utilized. Laplacian pyramids have been long neglected for
 edge-preserving filtering due to the isotropic, spatially-invariant and smooth Gaussian filters on which pyramids are constructed [8]. However, a local 
-laplacian filter benefits from local processing in which it modifies each coefficient of the pyramid levels separately which better allows the filter to distinguish
-edges from details.
+laplacian filter benefits from local processing in which it modifies each coefficient of the pyramid levels separately which better allows the filter to distinguish edges from details.
 
 <p align="center">
-  <img src='/images/llf1D.png'width="700"/>
+  <img src="/images/llf1D.png" width="700"/>
 </p>
 <p align="center">
   Fig 5. 1D local laplacian filter implementation. L<sub>0</sub> and L<sub>1</sub> represent the first two laplacian levels.[8]<br/>
 </p>
 <p align="center">
-  <img src='/images/llf_func.png'width="700"/>
+  <img src="/images/llf_func.png" width="700"/>
 </p>
 <p align="center">
   Fig 6. A variety of pointwise functions r(i) applied to a local value g<sub>o</sub> to obtain the intermediate image.[8]<br/>
@@ -113,7 +112,7 @@ intermediate signal is rendered. Later, its Laplacian pyramid is built and its v
 distinguish intricate details (red curve) from strong edges (blue curve).
 
 <p align="center">
-  <img src="/images/face113.jpg" width="220" height="300" />
+  <img src="/images/face113.jpg" width="200" height="300" />
   <img src="/images/BeforeAfter_test_LLF_a07_s_04.png" width="200" height="300" />
   <img src="/images/BeforeAfter_test_LLF_a2_s_02.png" width="200" height="300"  /> 
 </p>
@@ -123,11 +122,11 @@ distinguish intricate details (red curve) from strong edges (blue curve).
 </p>
 
 ## References
-[1] https://uk.mathworks.com/help/images/what-is-image-filtering-in-the-spatial-domain.html \
-[2] https://petar-v.com/GAT/ \
+[1] [MathWorks-Image filtering](https://uk.mathworks.com/help/images/what-is-image-filtering-in-the-spatial-domain.html) \
+[2] [Image courtesy of the author](https://petar-v.com/GAT/) \
 [3] [Real-time edge-aware image processing with the bilateral grid](https://dl.acm.org/doi/pdf/10.1145/1276377.1276506) \
 [4] [Domain Transform for Edge-Aware Image and Video Processing](https://dl.acm.org/doi/pdf/10.1145/2010324.1964964) \
 [5] [Real-time Edge-Aware Image Processing with the Bilateral Grid](https://dl.acm.org/doi/pdf/10.1145/1276377.1276506?casa_token=okTiOgR1cQ4AAAAA:Z3oYrIvVn_xwjxU3LGIyXUSXA2QPKLKRGlfXWSGRoduxfVyyqAwxXKIUoUruwcRWKbsIPOSr52gJ-ZY) \
 [6] [Fast bilateral filtering for the display of high-dynamic-range images](https://dl.acm.org/doi/pdf/10.1145/566570.566574) \
 [7] [A fast approximation of the bilateral filter using a signal processing approach](https://link.springer.com/content/pdf/10.1007/11744085_44.pdf) \
-[8] [Local Laplacian Filters: Edge-aware Image Processing with a Laplacian Pyramid](http://people.csail.mit.edu/hasinoff/pubs/ParisEtAl11-lapfilters-lowres.pdf) \
+[8] [Local Laplacian Filters: Edge-aware Image Processing with a Laplacian Pyramid](http://people.csail.mit.edu/hasinoff/pubs/ParisEtAl11-lapfilters-lowres.pdf)
