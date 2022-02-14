@@ -3,7 +3,7 @@ title: 'Edge-aware Image Processing'
 date: 2022-02-12
 ---
 
-# Image filtering in the spatial domain 
+# Edge-aware Image Processing 
 
 Image filtering is a fundamental technique for enhancing or manipulating an image. By changing the pixel values, colors, it modifies the appearance of an image. 
 
@@ -96,7 +96,7 @@ edges from details.
 
 <p align="center">
   <br/><img src='/images/llf1D.png'width="700"/><br/>
-  Fig 5. 1D local laplacian filter implementation. L<sub>0</sub>) and L<sub>1</sub>) represent the first two laplacian levels.[8]<br/>
+  Fig 5. 1D local laplacian filter implementation. L<sub>0</sub> and L<sub>1</sub> represent the first two laplacian levels.[8]<br/>
 </p>
 
 <p align="center">
