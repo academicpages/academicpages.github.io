@@ -18,7 +18,7 @@ Our approach builds upon the efficient 2D convolution architecture of LMSCNet by
 
 ![MotionSC-structure](../images/MotionSC.png)
 
-The MotionSC network balances accurate and complete real-time performance compared with other state-of-the-art algorithms, and gains a smoothing effect from temporal information. These effects may be seen in the graphs below, or video at the top of the page. More details can be found in the figure below and in our paper.
+The MotionSC network balances accurate and complete real-time performance compared with other state-of-the-art algorithms, and gains a smoothing effect from temporal information. These effects may be seen in the graphs below, or video at the top of the page. More details can be found in our paper.
 
 <p align="center">
   <img src="../images/AccuracyLatency.png" width="45%" /> 
