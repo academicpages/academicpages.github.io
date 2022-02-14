@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Under Construction
+### Active Projects
 
 <table style="border-collapse: collapse; width: 100%;" border="0">
 <tbody>
@@ -51,8 +51,11 @@ AutoAI for Text is a framework that provides both the components and the tools t
 </p>
 </td>
 </tr>
+</table>
 
+### Matured Projects 
 
+<table>
 <tr style="height: 314px;">
 <td style="vertical-align: middle; width: 33.0461%; height: 314px;">
 <img style="display: block; margin-left: auto; margin-right: auto;" src="https://yunyaoli.github.io/images/systemt-overview0.jpg" alt="" width="330" />
@@ -70,6 +73,10 @@ AutoAI for Text is a framework that provides both the components and the tools t
 <p style="text-align: justify;"><span style="font-size: 10pt; font-family: helvetica, arial, sans-serif;"><span style="font-size: 11pt;"><span style="color: #0375b4;"><a style="color: #0375b4; text-decoration: none;" href="http://www.odbms.org/2016/09/data-x-video-enterprise-information-extraction-an-introduction/">Video</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a style="color: #0375b4; text-decoration: none;" href="https://aclanthology.org/N18-3010.pdf">Overview Paper</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <a style="color: #0375b4; text-decoration: none;" href="https://researcher.watson.ibm.com/researcher/view_group.php?id=1264">Project Website</a> </span><br /></span></span></p>
 </td>
 </tr>
+</table>
+
+### Completed Projects
+<table>
 <tr style="height: 314px;">
 <td style="vertical-align: middle; width: 33.0461%; height: 314px;">
 <img style="display: block; margin-left: auto; margin-right: auto;" src="https://yunyaoli.github.io/images/wcs.png" alt="" width="330" />
