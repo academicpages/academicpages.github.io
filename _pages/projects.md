@@ -35,16 +35,16 @@ Universal Proposition Banks builds on the Universal Dependencies project and add
 
 <tr style="height: 314px;">
 <td style="vertical-align: middle; width: 33.0461%; height: 314px;">
-<img style="display: block; margin-left: auto; margin-right: auto;" src="" alt="" width="330" />
+<img style="display: block; margin-left: auto; margin-right: auto;" src="https://yunyaoli.github.io/images/AutoAI4Text.jpeg" alt="" width="330" />
   </td>
 <td style="vertical-align: top; width: 66.9539%; height: 314px;">
 <p> <strong><span style="font-size: 14pt;color: #008080;">AutoAI for Text</span></strong></p>
-
+AutoAI for Text is a framework that provides both the components and the tools that facilitate the process of NLP model development for text data, via automation, ease-of-use and explainability. We target users at different levels of skills or expertise, with a particular focus on 1) data scientists who want to quickly get a head start in their text processing projects, and 2) advanced model developers who will want to optimize and fine-tune their models before deployed in production. The goal of AutoAI for Text is to make such users more efficient by reducing model development time and effort while at the same time improving the quality of their models through the use of automatic optimization.
 <p>
-<strong>Business Impact:</strong> TBA
+<strong>Business Impact:</strong> (1) Currently used by internal NLP teams to scale model development; (2) Key differentiating technology resulting in major customer engagements as an Early Research Offering; (3) In the process to transfer to multiple IBM products.  
 </p>
 <p>
-<strong>Scientific Impact:</strong> TBA
+<strong>Scientific Impact:</strong> Demos and publications. 
 </p>
 <p>
 <a style="color: #0375b4; text-decoration: none;" href="https://researcher.watson.ibm.com/researcher/view_group.php?id=10799">Learn More</a> 
