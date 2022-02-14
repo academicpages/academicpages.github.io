@@ -51,6 +51,24 @@ AutoAI for Text is a framework that provides both the components and the tools t
 </p>
 </td>
 </tr>
+<tr style="height: 314px;">
+<td style="vertical-align: middle; width: 33.0461%; height: 314px;">
+<img style="display: block; margin-left: auto; margin-right: auto;" src="https://yunyaoli.github.io/images/PDF.png" alt="" width="330" />
+  </td>
+<td style="vertical-align: top; width: 66.9539%; height: 314px;">
+<p> <strong><span style="font-size: 14pt;color: #008080;">Deep Document Understanding</span></strong></p>
+PDF understanding is a general AI problem. In this project, we aim to provide an out-of-box solution to programmatically process PDF documents into a common target representation (e.g., HTML with extensions) for downstreaming applications. The main research challenges are (1) maintain formatting, reading order & structural metadata (e.g. lists, headings, font) and  (2) capture non-textual content (e.g. tabular content).
+<p>
+<strong>Business Impact:</strong> (1) Foundation of Watson OneConversion, an innner project for document conversion; (2) Powering multiple IBM products and solutions.  
+</p>
+<p>
+<strong>Scientific Impact:</strong> Workshops, demos, tutorials and publications. 
+</p>
+<p>
+<a style="color: #0375b4; text-decoration: none;" href="https://research.ibm.com/blog/deep-document-understanding-complex-documents">Learn More</a> 
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 
