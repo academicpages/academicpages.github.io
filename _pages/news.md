@@ -5,8 +5,6 @@ permalink: /news/
 author_profile: true
 ---
 
-## News
-
 - My last day at IBM Research ([LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:6898035670967840768/)) _Feb. 11, 2022_
 - Upcoming Tutorials: "Deep Learning from Graphs" at AAAI'2022 and WWW'2022; "Meaning Representations for Natural Languages: Design, Models and Applications" at EMNLP'2022
 - Two projects with significant contributions from my team got recognized by prestigious IBM Research accomplishments: O-level: Research contributions to Watson NLP Stack; A-level: Research contributions to Watson OneConversion: _Dec. 2021_
