@@ -34,7 +34,7 @@ More recently, works have focused on simplifying and speeding up this editing pi
 
 <p align="center">
   <img src="/images/relighting.png" width="700"/><br/>
-  <br/>Fig. 3: Portrait relighting is a special kind of image relighting, changing the lighting properties, such as brightness and direction of light sources, on portrait photos [Debevec et al. 2000](https://dl.acm.org/doi/pdf/10.1145/344779.344855).<br/>
+  <br/>Fig. 3: Portrait relighting is a special kind of image relighting, changing the lighting properties, such as brightness and direction of light sources, on portrait photos [Debevec et al. 2000].<br/>
 </p>
 
 Lighting affects the way we perceive photographs. In traditional photography, professional photographers care a great deal about the lighting in their studio. They apply various types of traditional lighting set-ups, which create different light patterns on the appearance of their subject. The direction of light determined by the type and position of light sources shapes light patterns, such as split, loop, or butterfly, and directly affects the shadows on the appearance. As in material editing, scene relighting is a tedious task, requiring advanced skills and special equipment, such as flashes, reflectors, and diffusers.
@@ -45,7 +45,7 @@ Photographs can also be relit after the photo-shooting with some software tools.
 
 <p align="center">
   <img src="/images/novel_view.png" width="700"/><br/>
-  <br/>Fig. 2: Novel view synthesis from a sparse set of input images as an example of geometry editing [Mildenhall et al. 2020](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_24)<br/>
+  <br/>Fig. 2: Novel view synthesis from a sparse set of input images as an example of geometry editing [Mildenhall et al. 2020]<br/>
 </p>
 
 In traditional computer graphics, in which 3D information of a scene is known, the scene geometry can be represented with parametric curves and surfaces, polygonal meshes, implicit surfaces, or point set surfaces. Hence, geometry can be edited on scene-level with known 3D representations. There already exist software tools, such as 3D sculpting, CAD/CAM, or procedural, to model and edit the geometry. Some well-known techniques that are being used in traditional computer graphics to edit geometry are interactive and sketch-based interfaces, deformations, cutting and fracturing, smoothing and filtering, and compression and simplification.
