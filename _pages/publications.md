@@ -8,7 +8,7 @@ author_profile: true
 
 ## Preprint
 
-- **Tianli Liao** and Nan Li. Natural Image Stitching Using Depth Maps       
+- **Tianli Liao** and Nan Li. Natural Image Stitching Using Depth Maps.         
 [Arxiv Preprint](https://arxiv.org/abs/2202.06276)
 
 ## Journal Publications
