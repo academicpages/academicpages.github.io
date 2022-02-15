@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "News"
+excerpt: "News"
+author_profile: true
+redirect_from: 
+  - /news/
+---
+
 ## News
 
 - My last day at IBM Research ([LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:6898035670967840768/)) _Feb. 11, 2022_
