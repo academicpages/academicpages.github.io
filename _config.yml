@@ -185,6 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+toc: true
 
 # Defaults
 defaults:
