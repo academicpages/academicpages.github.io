@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Artificial Intelligence"
+title: "Introduction to Artificial Intelligence Student Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-teaching-1
