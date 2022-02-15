@@ -123,7 +123,7 @@ distinguish intricate details (red curve) from strong edges (blue curve).
 
 ## References
 [1] [MathWorks-Image filtering](https://uk.mathworks.com/help/images/what-is-image-filtering-in-the-spatial-domain.html) \
-[2] [Image courtesy of the author](https://petar-v.com/GAT/) \
+[2] [https://petar-v.com/GAT/](https://petar-v.com/GAT/) \
 [3] [Real-time edge-aware image processing with the bilateral grid](https://dl.acm.org/doi/pdf/10.1145/1276377.1276506) \
 [4] [Domain Transform for Edge-Aware Image and Video Processing](https://dl.acm.org/doi/pdf/10.1145/2010324.1964964) \
 [5] [Real-time Edge-Aware Image Processing with the Bilateral Grid](https://dl.acm.org/doi/pdf/10.1145/1276377.1276506?casa_token=okTiOgR1cQ4AAAAA:Z3oYrIvVn_xwjxU3LGIyXUSXA2QPKLKRGlfXWSGRoduxfVyyqAwxXKIUoUruwcRWKbsIPOSr52gJ-ZY) \
