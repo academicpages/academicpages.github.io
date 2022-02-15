@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+toc                      : true
 locale                   : "en-UK"
 remote_theme             : pages-themes/cayman@v0.2.0
 title                    : "Seán R. Kavanagh"
