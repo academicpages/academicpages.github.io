@@ -7,14 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-### Selected Society Affiliation 
+### Selected Society Affiliations 
 
 - **Distinguished Member**, [Association for Computing Machinery](https://www.acm.org/media-center/2020/december/distinguished-members-2020) (Since December 2020)
 
 - **Member**, [New Voices in Sciences, Engineering and Medicine](http://www.nationalacademies.org/newvoices/), National Academies (2018 – 2020)
   - 1 of 18 selected nation-wide for this inaugural class.
 
-### Selected Leadership Award
+### Selected Leadership Awards
 
 - **YWCA's Tribute to Women Award**, YWCA Silicon Valley (2019)
   - 1 out of 49 honorees recognized for outstanding achievements in the workplace and beyond
@@ -25,7 +25,7 @@ author_profile: true
 - **Member of IBM Manager Champion Group**, IBM (2018)
    - 1 of 56 selected globally to showcase IBM management at its best and develop exceptional leaders; 1 of 2 selected from IBM Research
 
-### Selected External Technical Recognition and Award
+### Selected External Technical Recognition and Awards
 
 - **Best Demo Award**, International Semantic Web Conference (2020)\\
   - _[Ontology Mediated Information Extraction with MASTRO SYSTEM-T](http://ceur-ws.org/Vol-2721/paper564.pdf)_}\\
@@ -39,7 +39,7 @@ author_profile: true
 - **Best Demo Award**, ACM SIGMOD Conference (2005)\\
   - [NaLIX: an interactive natural language interface for querying XML](http://dbgroup.eecs.umich.edu/files/130NaLIX.pdf)
 
-### Selected IBM Recognition and Award
+### Selected IBM Recognition and Awards
 
 - **Member**, IBM Academy of Technology (2016-2022)
   - Selected for demonstrated exceptional leadership and technical eminence
