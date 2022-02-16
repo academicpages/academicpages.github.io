@@ -2,7 +2,7 @@
 permalink: /contact_form/
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: false
 ---
 <a href="/about/" 
 style="width:100%;display:block;text-align:center;padding:.5em;background-color:#52adc8;color:#fff;border-radius:6px;box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px
