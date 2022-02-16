@@ -1,6 +1,6 @@
 ---
 title: "**Everybody**"
-excerpt: "Setand puppet for **Everybody**<br/><img src='/images/everybody/everybody_puppet.jpg'>"
+excerpt: "Set and puppet for **Everybody**<br/><img src='/images/everybody/everybody_puppet.jpg'>"
 collection: portfolio
 ---
 <!-- 
