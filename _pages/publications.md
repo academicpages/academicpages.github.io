@@ -13,7 +13,7 @@ redirect_from:
 <h3>Articles submitted, in review, and in press</h3>
 <table class="tg">
 <tbody>
-<tr>
+<tr> 
 <td width="5%">[12]</td>
 <td width="95%"><strong>Florko, K.R.N.</strong>, Shuert, C.R., Cheung, W.W.L., Ferguson, S.H., Jonsen, I.D., Rosen, D.A.S., Sumaila, U.R., Tai, T.C., Yurkowski, D.J., Auger-Méthé, M. Linking movement and dive data to prey distribution models: new insights in foraging behaviour and potential pitfalls of movement analyses. Submitted. </td>
 </tr>
