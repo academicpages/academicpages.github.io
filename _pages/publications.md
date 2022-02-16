@@ -16,7 +16,7 @@ author_profile: true
 </b><br>Xiaotian Han, <b>Zhimeng Jiang</b>, Ninghao Liu, and Xia Hu. 
 
 <b>[BED: A Real-Time Object Detection System for Edge Devices.](https://arxiv.org/abs/2202.07503)
-</b><br>Guanchu Wang*, Zaid Pervaiz Bhat*, <b>Zhimeng Jiang*</b>, Yi-Wei Chen*, Daochen Zha*, Alfredo Costilla Reyes*, Afshin Niktash, Gorkem Ulkar, Erman Okman, Xia Hu
+</b><br>Guanchu Wang\*, Zaid Pervaiz Bhat\*, <b>Zhimeng Jiang\*</b>, Yi-Wei Chen\*, Daochen Zha\*, Alfredo Costilla Reyes*, Afshin Niktash, Gorkem Ulkar, Erman Okman, Xia Hu
 
 
 <!-- <b>[You Only Debias Once: Towards Flexible Accuracy-Fairness Trade-offs](??)
