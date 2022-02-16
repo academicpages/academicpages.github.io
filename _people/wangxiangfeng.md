@@ -74,8 +74,8 @@ permalink: /people/xfwang
 14. H. Yue, Q. Yang, **Xiangfeng Wang**, and X. Yuan, Implementing the ADMM to Big Datasets: A Case Study of LASSO. SIAM Journal on Scientific Computing, 40(5), 2018, pp.A3121-A3156.
 15. **Xiangfeng Wang**, W. Zhang, J. Yan, X. Yuan, and H. Zha, On the Flexibility of Block Coordinate Descent for Large-Scale Optimization. Neurocomputing, 272, 2018, pp.471-480.
 16. M. Hong, **Xiangfeng Wang**, M. Razaviyayn and Z.-Q. Luo, Iteration Complexity Analysis of Block Coordinate Descent Methods. Mathematical Programming Series A, 163, 2017, pp.85-114.
-17. T.-H. Chang, M. Hong, W.-C. Liao, and **Xiangfeng Wang**, Asynchronous Distributed ADMM for Large-Scale Optimization-Part I: Algorithm and Convergence Analysis, IEEE Transactions on Signal Processing, 64(12), 2016, pp.3118-3130.
-18. T.-H. Chang, W.-C. Liao, M. Hong, and **Xiangfeng Wang**, Asynchronous Distributed ADMM for Large-Scale Optimization-Part II: Linear Convergence Analysis and Numerical Performances, IEEE Transactions on Signal Processing, 64(12), 2016, pp.3131-3144.
+17. T.-H. Chang, M. Hong, W.-C. Liao, and **Xiangfeng Wang**, Asynchronous Distributed ADMM for Large-Scale Optimization-Part I: Algorithm and Convergence Analysis. IEEE Transactions on Signal Processing, 64(12), 2016, pp.3118-3130.
+18. T.-H. Chang, W.-C. Liao, M. Hong, and **Xiangfeng Wang**, Asynchronous Distributed ADMM for Large-Scale Optimization-Part II: Linear Convergence Analysis and Numerical Performances. IEEE Transactions on Signal Processing, 64(12), 2016, pp.3131-3144.
 19. **Xiangfeng Wang**, On the Convergence Rate of a Class of Proximal-Based Decomposition Methods for Monotone Variational Inequalities. Journal of the Operations Research Society of China, 3(3), 2015, pp.347-362.
 20. **Xiangfeng Wang**, M. Hong, S. Ma, and Z.-Q. Luo, Solving Multiple-Block Separable Convex Minimization Problems using Two-Block ADMM. Pacific Journal of Optimization, 11(4), 2015, pp.645-667.
 21. T.-H. Chang, M. Hong, and **Xiangfeng Wang**, Multi-Agent Distributed Large-Scale Optimization by Inexact Consensus ADMM. IEEE Transactions on Signal Processing, 63(2), 2015, pp.482-497. **ESI高被引论文** **IEEE Signal Processing Society Best Paper Award**
@@ -98,7 +98,7 @@ permalink: /people/xfwang
 13. M. Zhang, C. Li, and **Xiangfeng Wang**, Multi-View Metric Learning for Multi-Label Image Classification. ICIP, 2019.
 14. W. Li, B. Jin, and **Xiangfeng Wang**, SparseMAAC: Sparse Attention for Multi-agent Reinforcement Learning. DASFAA, 2019.
 15. W. Zhang, J. Yan, **Xiangfeng Wang**, and H. Zha, Deep eXtreme Multi-label Learning. ICMR, 2018.
-16. X. Liu, J. Yan, S. Xiao, **Xiangfeng Wang**, H. Zha, and S. Chu, On Predictive Patent Valuation: Forecasting Patent Citations and Their Types, AAAI, 2017.
+16. X. Liu, J. Yan, S. Xiao, **Xiangfeng Wang**, H. Zha, and S. Chu, On Predictive Patent Valuation: Forecasting Patent Citations and Their Types. AAAI, 2017.
 17. T.-H. Chang, M. Hong, W.-C. Liao, and **Xiangfeng Wang**, Asynchronous Distributed Alternating Direction Method of Multipliers: Algorithm and Convergence Analysis. ICASSP, 2016.
 18. D. Hajinezhad, T.-H. Chang, **Xiangfeng Wang**, Q. Shi, and M. Hong, Nonnegative Matrix Factorization using ADMM: Algorithm and Convergence Analysis. ICASSP, 2016.
 19. S. Xiao, J. Yan, C. Li, B. Jin, **Xiangfeng Wang**, H. Zha, X. Yang, and S. Chu, On Modelling and Predicting Individual Paper Citation Count Over Time. IJCAI, 2016.
