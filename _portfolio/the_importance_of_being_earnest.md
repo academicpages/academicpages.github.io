@@ -27,7 +27,7 @@ and change numbers
   
 <div class="mySlides fade">
   <!--<div class="numbertext">3 / 3</div>-->
-  <img src="/images/earnest/earnest_act1=set.jpg" style="width:100%">
+  <img src="/images/earnest/earnest_act1_set.jpg" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
 
