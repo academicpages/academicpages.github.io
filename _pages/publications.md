@@ -10,16 +10,16 @@ redirect_from:
 {% include base_path %}
 <h5>Please don't hesitate to get in touch (katieflorko@gmail.com) to obtain reprints of any of the following publications.</h5>
 
-<h3>Articles in Review and in Press</h3>
+<h3>Articles submitted, in review, and in press</h3>
 <table class="tg">
 <tbody>
 <tr>
-<td width="5%">[11]</td>
-<td width="95%">Kwong, L.E., Ross, T., Lüskow, F., <strong>Florko, K.R.N.</strong>, Pakhomov, E.A. 2022. Spatial, seasonal, and climatic variability in mesozooplankton size spectra along a coastal-to-open ocean transect in the subarctic Northeast Pacific. Progress in Oceanography. <a href="https://www.sciencedirect.com/science/article/pii/S0079661121002111?via%3Dihub" rel="noopener noreferrer">doi:10.1016/j.pocean.2021.102728</a>.</td>
+<td width="5%">[12]</td>
+<td width="95%"><strong>Florko, K.R.N.</strong>, Shuert, C.R., Cheung, W.W.L., Ferguson, S.H., Jonsen, I.D., Rosen, D.A.S., Sumaila, U.R., Tai, T.C., Yurkowski, D.J., Auger-Méthé, M. Linking movement and dive data to prey distribution models: new insights in foraging behaviour and potential pitfalls of movement analyses. Submitted. </td>
 </tr>
 </tbody>
 </table>
-<h3>Articles in Peer-Reviewed Journals</h3>
+<h3>Articles in peer-reviewed journals</h3>
 <table class="tg">
 <tbody>
 <tr>
