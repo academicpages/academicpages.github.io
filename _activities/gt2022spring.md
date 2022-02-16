@@ -13,7 +13,7 @@ author_profile: false
 |Th, Feb 3, 2022| 1:30pm - 2:30pm |  Jiayin Pan | The escape phenomenon in open manifolds with nonnegative Ricci curvature | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Feb 10, 2022| 1:30pm - 2:30pm | Zhichao Wang | Min-max minimal hypersurfaces with higher multiplicity | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Feb 17, 2022| 1:30pm - 2:30pm | Peng Zhou | Variation of GIT quotients and Variation of Lagrangian skeleton | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
-|Th, Feb 24, 2022| 1:30pm - 2:30pm | Alex Waldron |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
+|Th, Feb 24, 2022| 1:30pm - 2:30pm | Alex Waldron | Strict type-II blowup in harmonic map flow | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Mar 3, 2022| 1:30pm - 2:30pm | Andrew Sageman-Furnas |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Mar 10, 2022| 1:30pm - 2:30pm | spring break |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Mar 17, 2022| 1:30pm - 2:30pm | Laura Starkston |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
@@ -45,3 +45,5 @@ author_profile: false
 * Zhichao Wang
   * Recently, X. Zhou proved that the Almgren-Pitts min-max solution has multiplicity one for bumpy metrics (Multiplicity One Theorem). In this talk, we exhibit the first set of examples of non-bumpy metrics on the $(n+1)$-sphere ($2\leq n\leq 6$) in which the varifold associated with the two-parameter min-max construction must be a multiplicity-two minimal $n$-sphere. This is proved by a new area-and-separation estimate for certain minimal hypersurfaces with Morse index two inspired by an early work of Colding-Minicozzi. This is a joint work with X. Zhou.
 
+* Alex Waldron
+  * I'll describe some recent work on 2D harmonic map flow, in which I show that a familiar bound on the blowup rate at a finite-time singularity is sufficient for continuity of the body map. This is relevant to a conjecture of Topping.
