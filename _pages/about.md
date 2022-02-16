@@ -21,6 +21,7 @@ redirect_from:
 News
 =====
 **Feb. 2022:** Our real-time object detection based on MAX78000 for edge devices has been released! [[Video](https://www.youtube.com/watch?v=cFR1IYRFal8)] [[Paper](https://arxiv.org/abs/2202.07503)] [[Code](https://github.com/datamllab/BED_main)]
+
 **Jan. 2022:** Two papers are accepted by ICLR 2022, [[Label noise](https://openreview.net/forum?id=ecH2FKaARUp)] and [[Generalized Demographic Parity](https://openreview.net/forum?id=YigKlMJwjye)]!
 
 **Jan. 2022:** Our paper on Geometric Graph Representation Learning is accepted by The Web Conference (WWW) 2022!
