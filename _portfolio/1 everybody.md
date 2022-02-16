@@ -38,18 +38,16 @@ and change numbers
 </div>
 
 <div class="mySlides fade">
-  <!--<div class="numbertext">3 / 3</div>-->
-  <img src="/images/everybody/everybody_set_wide_falsepro.jpg" style="width:100%">
-  <div class="text">Caption Three</div>
-</div>
-
-<div class="mySlides fade">
   <!--<div class="numbertext">3 / 4</div>-->
   <img src="/images/everybody/everybody_stuff.jpg" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
 
-
+<div class="mySlides fade">
+  <!--<div class="numbertext">3 / 3</div>-->
+  <img src="/images/everybody/everybody_set_wide_falsepro.jpg" style="width:100%">
+  <div class="text">Caption Three</div>
+</div>
 
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
 <a class="next" onclick="plusSlides(1)">&#10095;</a>
