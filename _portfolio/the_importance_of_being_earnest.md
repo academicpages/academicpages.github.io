@@ -3,7 +3,7 @@ title: "***The Importance of Being Earnest***"
 excerpt: "Set for ***The Importance of Being Earnest***<br/><img src='/images/earnest/earnest_act1_set.jpg'>"
 collection: portfolio
 ---
-<!-- 
+<!--  
 To add numbers and new slides
 copy 
   <div class="mySlides fade">
