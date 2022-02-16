@@ -21,3 +21,4 @@ Flore Sentenac, Jialin Yi, Clément Calauzènes, Vianney Perchet, Milan Vojnovic
 
 [Robust Estimation of Discrete Distributions under Local Differential Privacy](https://arxiv.org/abs/2202.06825) <br/>
 Julien Chhor, Flore Sentenac. February 2022
+ 
