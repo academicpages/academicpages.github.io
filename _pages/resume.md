@@ -52,7 +52,7 @@ Theatre Experience
   * Managed props including foley props used on stage.   
 
 ***The Importance of Being Earnest*** — *Stage Manager* and *Carpenter* — August 2021 - October 2021  
-  * Scheduled and ran rehearsals coordindated between designers, director, and actors and crew oversaw and called cues for every performance.   
+  * Scheduled and ran rehearsals coordinated between designers, director, and actors and crew oversaw and called cues for every performance.   
 
 ***Revue*** — *Light Operator* and *Carpenter* — April 2021 - April 2021  
   * Helped set up and monitor lighting for outdoor productions.   
