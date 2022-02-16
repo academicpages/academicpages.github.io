@@ -34,7 +34,7 @@ Skills
 Education
 ======
 **Arkansas State University, Jonesboro Arkansas** August 2019 - Present  
-  * Majoring in theatre with an emphasis in design technologies in scenic, lighting,
+  * Majoring in theatre with an emphasis in design technologies including scenic, lighting,
     sound, and makeup design.  
 
 **Saint Benedict at Auburndale Catholic School, Memphis Tennessee** August 2015 - May 2019  
