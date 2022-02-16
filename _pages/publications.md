@@ -62,12 +62,12 @@ author_profile: true
 
 - M. Hong, **Xiangfeng Wang**, M. Razaviyayn and Z.-Q. Luo, Iteration Complexity Analysis of Block Coordinate Descent Methods. *Mathematical Programming Series A*, 163, 2017, pp.85-114.
 - **Bo Jin**, Z.L. Jing, H.T. Zhao. Incremental and Decremental Extreme Learning Machine Based on Generalized Inverse. *IEEE Access*, 2017.
-- X. Liu, J. Yan, S. Xiao, **Xiangfeng Wang**, **Hongyuan Zha** and S. Chu, On Predictive Patent Valuation: Forecasting Patent Citations and Their Types, *AAAI*, 2017.
+- X. Liu, J. Yan, S. Xiao, **Xiangfeng Wang**, **Hongyuan Zha** and S. Chu, On Predictive Patent Valuation: Forecasting Patent Citations and Their Types. *AAAI*, 2017.
 
 ## 2016
 
-- T.-H. Chang, M. Hong, W.-C. Liao and **Xiangfeng Wang**, Asynchronous Distributed ADMM for Large-Scale Optimization-Part I: Algorithm and Convergence Analysis, *IEEE Transactions on Signal Processing*, 64(12), 2016, pp.3118-3130.
-- T.-H. Chang, W.-C. Liao, M. Hong and **Xiangfeng Wang**, Asynchronous Distributed ADMM for Large-Scale Optimization-Part II: Linear Convergence Analysis and Numerical Performances, *IEEE Transactions on Signal Processing*, 64(12), 2016, pp.3131-3144.
+- T.-H. Chang, M. Hong, W.-C. Liao and **Xiangfeng Wang**, Asynchronous Distributed ADMM for Large-Scale Optimization-Part I: Algorithm and Convergence Analysis. *IEEE Transactions on Signal Processing*, 64(12), 2016, pp.3118-3130.
+- T.-H. Chang, W.-C. Liao, M. Hong and **Xiangfeng Wang**, Asynchronous Distributed ADMM for Large-Scale Optimization-Part II: Linear Convergence Analysis and Numerical Performances. *IEEE Transactions on Signal Processing*, 64(12), 2016, pp.3131-3144.
 - T.-H. Chang, M. Hong, W.-C. Liao and **Xiangfeng Wang**, Asynchronous Distributed Alternating Direction Method of Multipliers: Algorithm and Convergence Analysis. *ICASSP*, 2016.
 - D. Hajinezhad, T.-H. Chang, **Xiangfeng Wang**, Q. Shi and M. Hong, Nonnegative Matrix Factorization using ADMM: Algorithm and Convergence Analysis. *ICASSP*, 2016.
 - S. Xiao, J. Yan, C. Li, **Bo Jin**, **Xiangfeng Wang**, **Hongyuan Zha**, X. Yang and S. Chu, On Modelling and Predicting Individual Paper Citation Count Over Time. *IJCAI*, 2016.
