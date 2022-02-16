@@ -3,8 +3,6 @@ title: 'Edge-aware Image Processing'
 date: 2022-02-12
 ---
 
-# Edge-aware Image Processing 
-
 Image filtering is a fundamental technique for enhancing or manipulating an image. By changing the pixel values, colors, it modifies the appearance of an image. 
 
 Filters, also known as kernels or masks, operate in the neighborhood of a pixel by applying a certain function to the neighbor pixels of the corresponding input pixel [1].
