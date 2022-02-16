@@ -28,6 +28,11 @@ and change numbers
 <div class="slideshow-container">
 
 <div class="mySlides fade">
+  <img src="/images/revue/revue_set_day.jpg" style="width:100%">
+  <div class="text">Caption Text</div>
+</div>
+  
+<div class="mySlides fade">
   <img src="/images/revue/revue_set_day_wide.jpg" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
@@ -38,9 +43,10 @@ and change numbers
 </div>
 
 <div class="mySlides fade">
-  <img src="/images/revue/revue_set_might.jpg" style="width:100%">
+  <img src="/images/revue/revue_set_night.jpg" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
+  
 <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
 <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
