@@ -5,9 +5,7 @@ modified: 2022-02-16
 ---
 
 {% include base_path %}
-{% include toc %}
 
-# Privacy Policy
 
 Hosting
 Unser Hoster erhebt in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
