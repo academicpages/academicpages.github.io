@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate of computer science at Purdue University working under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/) and Dr. He Wang. My research interests broadly lie in the area of mobile computing and mobile sensing.
+I am a Ph.D. candidate of computer science at Purdue University working under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/). My research interests broadly lie in the area of mobile computing and mobile sensing.
 I specifically focus on designing and building innovative and secure mobile sensing systems through applying security, machine learning and computer vision algorithms. 
 <!-- Before coming to Purdue, I received my bachelor's degree from [LUMS School of Science and Engineering (SBASSE)](https://sbasse.lums.edu.pk/department/computer-science). -->
 
@@ -26,10 +26,6 @@ Updates
 	<li> <b>[Mar 2021]</b> Our paper about side-channel attacks on stylus pencils is accepted to IMWUT-UbiComp 2021!
 	</li>
 	<li> <b>[Sep 2020]</b> Our work on secure face liveness detection on commodity smartphones to appear in MobiCom 2020!
-	</li>
-	<li> <b>[July 2020]</b> Our work on context addressing for camera-to-human communication to appear in InfoCom 2020!
-	</li>
-	<li> <b>[June 2020]</b> Started internship at Amazon Robotics as Applied Scientist with the Machine Learning Team!
 	</li>
 		
 </ul>
