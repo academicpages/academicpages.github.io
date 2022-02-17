@@ -85,7 +85,7 @@ author:
   bio              : "Robotics Engineer"
   location         : "Kazan, Russia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=VDBr2VUAAAAJ&hl=en"
   email            :  MostafaMetwaly96@gmail.com
   researchgate     :  https://www.researchgate.net/profile/Mostafa-Metwaly
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "mostafametwally"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
