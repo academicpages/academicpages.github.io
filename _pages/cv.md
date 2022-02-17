@@ -166,6 +166,7 @@ _(Representación LGBTI+ en la ficción seriada española y eficacia en la reduc
 Research project funded by Spanish Ministry of Science and Innovation (PID2019-110351RB-I00)
 Principal investigator: Dr. Maite Soto Sanfiel
 Work team member
+[Website of the project](https://www.lgbtiq-screens.org/)
 ### Prosody variations for improving the cognitive response and the communicative interaction between Alzheimer patients and their caregivers 2018-2021
 (_Variaciones prosódicas para mejorar la respuesta cognitiva y la interacción comunicativa de los enfermos de Alzheimer con sus cuidadores_). 
 Research project funded by the Spanish Ministry of Economy and Competitiveness (CSO2017-83432-R).
