@@ -5,7 +5,6 @@ modified: 2022-02-16
 ---
 
 {% include base_path %}
-{% include toc %}
 
 Angaben gemäß § 5 TMG:
 Matteo Große-Kampmann
