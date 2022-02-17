@@ -1,7 +1,19 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "In the Media"
+excerpt: "Various appearances in the media"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+| **Titel**                                                          | **Veröffentlicht**         |
+| ------------------------------------------------------------------ | -------------------------- |
+| Ruhrpott - Revier im Umbruch                                       | ZDF                        |
+| "Ach du Scheiße": So reagieren Europaabgeordnete darauf, dass ihre Handynummer wegen des Facebook-Lecks im Netz steht!  | ZDF                        |
+| When it comes to cybersecurity, the Ruhr metropolitan area plays in the Champions League! | EU-Startups |
+| Datenleck: Abgeordnete im Facebook-Leak! | Golem.de |
+| Gesundheit digital?                                                | Wissenschaftsdoku, 3Sat    |
+| Sicherheit von Patientendaten - Der Preis der digitalen Medizin    | ZDF heute, ZDF             |
+| Live Interview zum Thema: Breitbandausbeu in Essen                 | WDR, Lokalzeit Ruhr        |
+| Neues Facebook-Löschzentrum in Essen vorgestellt                   | WDR, Aktuelle Stunde       |
+| Betrug mit der 110                                                 | WDR, Lokalzeit Ruhr        |
+| Freie Ausfahrt – WannaCry betrifft Parkhäuser!                     | WDR, Lokalzeit Ruhr        |
+| Wie schütze ich meinen Router?                                     | Sat. 1 NRW                 |
