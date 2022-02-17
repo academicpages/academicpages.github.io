@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Matteo Große-Kampmann"
-  avatar           : "profile.png"
+  avatar           : "matteo.jpg"
   bio              : "Researcher at AWARE7 GmbH and RUB"
   location         : "Gelsenkirchen, Germany"
-  employer         :
+  employer         : "AWARE7 GmbH"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CBZ5-poAAAAJ&hl=de"
   email            : "matteo@aware7.de"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Matteo-Grosse-Kampmann"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/matteo-gro%C3%9Fe-kampmann/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
