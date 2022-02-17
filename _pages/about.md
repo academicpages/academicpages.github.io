@@ -15,10 +15,10 @@ I am a third year Ph.D. student at the University of Melbourne, working under th
 
 Besides my in-depth experience with generative modeling, I have worked and am interested in the following areas:
 
-● Adversarial Machine Learning (Adversarial/Backdoor Robustness/Attack)
-● Coreset Selection
-● Compressed Sensing
-● 3D Reconstruction
+* Adversarial Machine Learning (Adversarial/Backdoor Robustness/Attack)
+* Coreset Selection
+* Compressed Sensing
+* 3D Reconstruction
 
 I am always happy to discuss research-related topics.
 
