@@ -20,7 +20,7 @@ Besides my in-depth experience with generative modeling, I have worked and am in
 * Compressed Sensing
 * 3D Reconstruction
 
-I am always happy to discuss research-related topics.
+I am always happy to discuss research-related topics. Just shoot me an email! :)
 
 News
 ======
