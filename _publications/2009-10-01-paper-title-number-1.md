@@ -3,7 +3,7 @@ title: "Robotic Pick and Assembly Using Deep Learning and Hybrid Vision/Force Co
 "
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This Paper  '
+excerpt: ''
 date:  26-29 Aug. 2021
 venue: ' 2021 International Conference "Nonlinearity, Information and Robotics" (NIR)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9666138'
