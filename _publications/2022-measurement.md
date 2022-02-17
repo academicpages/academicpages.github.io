@@ -2,7 +2,7 @@
 title: "Reproducibility and Replicability of Web Measurement Studies"
 collection: publications
 permalink: /publication/2022-measurement
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about reproducibility and replicability of Web Measurement Studies.'
 date: 2022-04
 venue: 'ACM Web Conference 2022'
 paperurl: 'https://www.researchgate.net/publication/358061267_Reproducibility_and_Replicability_of_Web_Measurement_Studies'
