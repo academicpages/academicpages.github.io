@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mostafa Osama Metwaly Othman/ Mostafa Metwaly"
+title                    : "Mostafa Osama Metwaly Othman"
 title_separator          : "-"
 name                     : &name "Mostafa Osama Metwaly Othman"
 description              : &description "My personal Website"
@@ -26,7 +26,7 @@ comments:
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
+  facebook: 
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -58,7 +58,7 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
-facebook:
+facebook: https://www.facebook.com/Mostafa.Osama.Metwaly/
   username               :
   app_id                 :
   publisher              :
@@ -80,40 +80,40 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Mostafa Osama"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Robotics Engineer"
+  location         : "Kazan, Russia"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=VDBr2VUAAAAJ&hl=en"
+  email            :  MostafaMetwaly96@gmail.com
+  researchgate     :  https://www.researchgate.net/profile/Mostafa-Metwaly
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "Mostafa.Osama.Metwaly"
   foursquare       :
-  github           : "academicpages"
+  github           : "mostafa-metwaly"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "mostafametwally"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "TEFAOSAMA"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : https://www.youtube.com/channel/UCLTBnOoQlxSXNTAWchZNAxw
   wikipedia        :
 
 
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
