@@ -11,31 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Medical Engineering, University of Applied Sciences Koblenz, 2014
+* M.Sc. in Internet Security, University of Applied Sciences Gelsenkirchen, 2017
+* Ph.D in System Security, Ruhr University Bochum, March 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-now: Managing Director & Founder
+  * AWARE7 GmbH
+  * Duties included: Team management, business development, research, acquiring grants
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
+* 2014-2019: Research Assistant
+  * University of Applied Sciences Gelsenkirchen
+  * Duties included: Project lead medical security, leading a team of researchers
+  * Supervisor: Professor Norbert Pohlmann
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -56,4 +47,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Jury for Senkrechtstarter Bochum
+* Jury for start2grow Dortmund in 2021
+* Coach at Ruhr Israel Cyber Innovation project in 2021
