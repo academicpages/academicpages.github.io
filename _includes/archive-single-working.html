@@ -40,7 +40,7 @@
 
         {% if post.collection == 'workings' and post.ssrnurl and post.other_authors %}
           <p>With {{ post.other_authors }}, last updated on {{ post.date | default: "1900-01-01" | date: "%Y-%m-%d" }} | <a href="{{ post.ssrnurl }}" target="blank">ssrn link</a> 
-            {% if post.paperstatus == 'revise_resubmit' %}| R&R at {{ post.venue }}
+            {% if post.paperstatus == 'revise_resubmit' %}| RandR at {{ post.venue }}
             {% endif %}
           </p>
         {% elsif post.collection == 'workings' and post.ssrnurl %}
