@@ -38,7 +38,7 @@ Disponível no sistema SAGRES.
 
 Listas de Exercícios
 ======
-* Lista 01
+[Lista 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/Lista01_FME1.pdf)
 
 Aulas
 ======
