@@ -1,0 +1,3736 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"subsub",
+				"\\subsubsection{title}                             "
+			],
+			[
+				"sec",
+				"\\sec"
+			],
+			[
+				"usep",
+				"\\usepackage{package}                              "
+			],
+			[
+				"i",
+				"itd"
+			],
+			[
+				"in",
+				"\\input{file}                                      "
+			],
+			[
+				"citeaut",
+				"\\citeauthor{keylist}                              "
+			],
+			[
+				"foot",
+				"\\footnotesize                                     "
+			],
+			[
+				"inp",
+				"\\input{file}                                      "
+			],
+			[
+				"lamda",
+				"\\lambda                                           "
+			],
+			[
+				"equatio",
+				"\\begin{equation}                                  "
+			],
+			[
+				"03",
+				"03a-factor-perforance-tcost"
+			],
+			[
+				"subs",
+				"subsection{title}\tlatex-document"
+			],
+			[
+				"setle",
+				"setlength{\\gnat}{length}\tlatex-dev"
+			],
+			[
+				"file_",
+				"file_paths\t  [scope]"
+			],
+			[
+				"end",
+				"end{landscape}\t01-carry-xsec-pricing-multi-body.tex"
+			],
+			[
+				"quo",
+				"begin{quote}\tlatex-document"
+			],
+			[
+				"specia",
+				"specialrule[width]{abovespace}{belowspace}\tbooktabs"
+			],
+			[
+				"cmi",
+				"cmidrule{a-b}\tbooktabs"
+			],
+			[
+				"use",
+				"usepackage{package}\tlatex-document"
+			],
+			[
+				"query",
+				"queryText"
+			],
+			[
+				"para",
+				"paragraph{title}\tlatex-document"
+			],
+			[
+				"url",
+				"\\url{URL}                                         \thyperref"
+			],
+			[
+				"footnotes",
+				"footnotesize\tlatex-document"
+			],
+			[
+				"restore",
+				"restoregeometry\tgeometry"
+			],
+			[
+				"restre",
+				"restoregeometry\tgeometry"
+			],
+			[
+				"PassO",
+				"PassOptionsToPackage{optionlist}{package}\tlatex-dev"
+			],
+			[
+				"vsp",
+				"\\vspace*{length}                                  \tlatex-document"
+			],
+			[
+				"bib",
+				"bibliography{file}\tlatex-document"
+			],
+			[
+				"caption",
+				"caption{title}\tlatex-document"
+			],
+			[
+				"mo",
+				"monthly_values"
+			],
+			[
+				"sett",
+				"settlements_am"
+			],
+			[
+				"settl",
+				"settlements_pm"
+			],
+			[
+				"month",
+				"monthly_dates"
+			],
+			[
+				"monhtl",
+				"monthly_values"
+			],
+			[
+				"hkm_",
+				"hkm_characteristic_columns\t  [workspace]"
+			],
+			[
+				"hed",
+				"hedge_factor_columns\t  [workspace]"
+			],
+			[
+				"foo",
+				"footnotesize\tlatex-document"
+			],
+			[
+				"mathb",
+				"mathbb{text}\tamsfonts"
+			],
+			[
+				"math",
+				"mathcal{text}\tlatex-document"
+			],
+			[
+				"multico",
+				"multicolumn{cols}{pos}{text}\tlatex-document"
+			],
+			[
+				"bott",
+				"bottomrule\tbooktabs"
+			],
+			[
+				"inpu",
+				"input{file}\tlatex-document"
+			],
+			[
+				"citeau",
+				"citeauthor{keylist}\tnatbib"
+			],
+			[
+				"app",
+				"appendixname\tlatex-document"
+			],
+			[
+				"colr",
+				"color{name}\tgraphicx"
+			],
+			[
+				"eq",
+				"eqref{label}\tamsmath"
+			],
+			[
+				"textt",
+				"texttt{text}\tlatex-document"
+			],
+			[
+				"em",
+				"emph{text}\tlatex-document"
+			],
+			[
+				"minip",
+				"begin{minipage}{width}\tlatex-document"
+			],
+			[
+				"flushle",
+				"begin{flushleft}\tlatex-document"
+			],
+			[
+				"bemi",
+				"begin{minipage}[position]{width}\tlatex-document"
+			],
+			[
+				"left",
+				"left[\tlatex-document"
+			],
+			[
+				"multirow",
+				"multirow{number of rows}{*}{text}\tmultirow"
+			],
+			[
+				"non",
+				"nonumber\tlatex-document"
+			],
+			[
+				"Lamvec",
+				"Lamvechat\t2020-04-07-appendix-estimation.tex"
+			],
+			[
+				"Lmav",
+				"Lamvechat\t2020-04-07-appendix-estimation.tex"
+			],
+			[
+				"Bmat",
+				"Bmathat\t2020-04-07-appendix-estimation.tex"
+			],
+			[
+				"bv",
+				"bvecfhat\t2020-04-07-appendix-estimation.tex"
+			],
+			[
+				"Lamv",
+				"Lamvechat\t2020-04-07-appendix-estimation.tex"
+			],
+			[
+				"Lave",
+				"Lamvechat\t2020-04-07-appendix-estimation.tex"
+			],
+			[
+				"Lamve",
+				"Lamvechat\t2020-04-07-appendix-estimation.tex"
+			],
+			[
+				"Lam",
+				"Lamvechat\t2020-04-07-appendix-estimation.tex"
+			],
+			[
+				"lef",
+				"left[\tlatex-document"
+			],
+			[
+				"eqi",
+				"equiv\tlatex-mathsymbols"
+			],
+			[
+				"vec",
+				"vec{a}\tlatex-mathsymbols"
+			],
+			[
+				"longr",
+				"longrightarrow\tlatex-mathsymbols"
+			],
+			[
+				"matb",
+				"mathbf{text}\tlatex-document"
+			],
+			[
+				"color",
+				"color{name}\tgraphicx"
+			],
+			[
+				"ph",
+				"phivec\t01-estimation-strategy-2020-03-17.tex"
+			],
+			[
+				"newc",
+				"newcommand{cmd}{def}\tlatex-document"
+			],
+			[
+				"mat",
+				"mathbf{text}\tlatex-document"
+			],
+			[
+				"smal",
+				"smallskip\ttex"
+			],
+			[
+				"norm",
+				"normalsize\tlatex-document"
+			],
+			[
+				"bibl",
+				"bibliography{file}\tlatex-document"
+			],
+			[
+				"alemi",
+				"Almeida2012"
+			],
+			[
+				"underb",
+				"underbrace{text}\tlatex-document"
+			],
+			[
+				"ur",
+				"url{URL}\thyperref"
+			],
+			[
+				"ttt",
+				"texttt{text}\tlatex-document"
+			],
+			[
+				"textb",
+				"textbf{text}\tlatex-document"
+			],
+			[
+				"sce",
+				"section{title}\tlatex-document"
+			],
+			[
+				"bfte",
+				"textbf{text}\tlatex-document"
+			],
+			[
+				"Pass",
+				"PassOptionsToPackage{optionlist}{package}\tlatex-dev"
+			],
+			[
+				"POSI",
+				"POSIXct"
+			],
+			[
+				"as.POSIX",
+				"as.POSIXct\t  {base}"
+			],
+			[
+				"case",
+				"case_when\t  {dplyr}"
+			],
+			[
+				"bind_",
+				"bind_rows\t  {dplyr}"
+			],
+			[
+				"trade",
+				"trade_df"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"scale_alp",
+				"scale_alpha_manual\t  {ggplot2}"
+			],
+			[
+				"scale_f",
+				"scale_fill_grey\t  {ggplot2}"
+			],
+			[
+				"scale_color",
+				"scale_color_discrete\t  {ggplot2}"
+			],
+			[
+				"scale_a",
+				"scale_alpha_manual\t  {ggplot2}"
+			],
+			[
+				"scale_c",
+				"scale_color_discrete\t  {ggplot2}"
+			],
+			[
+				"ggplot",
+				"ggplot2\t  Module"
+			],
+			[
+				"facet",
+				"facet_wrap\t  {ggplot2}"
+			],
+			[
+				"du20",
+				"Du2011"
+			],
+			[
+				"overni",
+				"overnight"
+			],
+			[
+				"profit",
+				"profit-table"
+			],
+			[
+				"bid-",
+				"bid-ask-table"
+			],
+			[
+				"tab",
+				"bid-ask-table"
+			],
+			[
+				"cite",
+				"citeauthor"
+			],
+			[
+				"bid",
+				"bid-ask-table"
+			],
+			[
+				"mar",
+				"margin_requirement_var"
+			],
+			[
+				"marg",
+				"margin_requirement_skew"
+			],
+			[
+				"integr",
+				"integr_multiplier"
+			],
+			[
+				"inte",
+				"integr_multiplier"
+			],
+			[
+				"integ",
+				"integr_limits"
+			],
+			[
+				"it",
+				"item\tlatex-document"
+			],
+			[
+				"beginenum",
+				"begin{enumerate}\\item\tlatex-document"
+			],
+			[
+				"beginenume",
+				"begin{enumerate}[mini template]\\item\tclass-beamer"
+			],
+			[
+				"beginPdefi",
+				"begin{definition}<action specification>[additional text]<action specification>\tclass-beamer"
+			],
+			[
+				"mod",
+				"mod_est_iv"
+			],
+			[
+				"realized",
+				"realized_skew_lag"
+			],
+			[
+				"profit_",
+				"profit_short"
+			],
+			[
+				"ci",
+				"ci_of_robust_mean_right"
+			],
+			[
+				"ci_o",
+				"ci_of_robust_mean_left"
+			],
+			[
+				"ou",
+				"output_table"
+			],
+			[
+				"overnig",
+				"overnight_replacement"
+			],
+			[
+				"daytime",
+				"daytime_replacement"
+			],
+			[
+				"all",
+				"all_trade_df"
+			],
+			[
+				"flash_",
+				"flash_crash_morning"
+			],
+			[
+				"output",
+				"output_table"
+			],
+			[
+				"outpu",
+				"output_table"
+			],
+			[
+				"out",
+				"output_table_overnight_weekend"
+			],
+			[
+				"return",
+				"return_summary"
+			],
+			[
+				"data_Frame",
+				"data_frame\t{dplyr}"
+			],
+			[
+				"data_f",
+				"data_frame\t{dplyr}"
+			],
+			[
+				"mutate",
+				"mutate_if"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_posts/2021-11-11-ssh-tunnel.md",
+			"settings":
+			{
+				"buffer_size": 502,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "SSH"
+					},
+					"BAAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAfAAAAAAAAABYAAABTTFVSTSBxdWV1ZSBtYW5hZ2VtZW50HwAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgAAAAAAAAA0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": " tunneling"
+					},
+					"CgAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAmAAAAAAAAAAAAAAAmAAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAApAAAAAAAAAAAAAAApAAAAAAAAACoAAAAAAAAAAAAAACoAAAAAAAAAKwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"insert",
+					{
+						"characters": "11-11"
+					},
+					"BgAAADkAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA6AAAAAAAAAAUAAAAxMC0xMjoAAAAAAAAAOwAAAAAAAAAAAAAAOwAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAAD0AAAAAAAAAAAAAAD0AAAAAAAAAPgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPgAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"right_delete",
+					null,
+					"AQAAAFgAAAAAAAAAWAAAAAAAAAABAAAAMA",
+					"AQAAAAAAAAABAAAAWAAAAAAAAABYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAAFgAAAAAAAAAWQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWAAAAAAAAABYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": "ssh-tunnel"
+					},
+					"CwAAAFoAAAAAAAAAWwAAAAAAAAAAAAAAWwAAAAAAAABbAAAAAAAAAAsAAABzbHVybS1xdWV1ZVsAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABdAAAAAAAAAAAAAABdAAAAAAAAAF4AAAAAAAAAAAAAAF4AAAAAAAAAXwAAAAAAAAAAAAAAXwAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAGEAAAAAAAAAAAAAAGEAAAAAAAAAYgAAAAAAAAAAAAAAYgAAAAAAAABjAAAAAAAAAAAAAABjAAAAAAAAAGQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWgAAAAAAAABlAAAAAAAAAP///////+9/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "ssh"
+					},
+					"BAAAAHAAAAAAAAAAcQAAAAAAAAAAAAAAcQAAAAAAAABxAAAAAAAAAAUAAABzbHVybXEAAAAAAAAAcgAAAAAAAAAAAAAAcgAAAAAAAABzAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcAAAAAAAAAB1AAAAAAAAAP///////+9/"
+				],
+				[
+					44,
+					1,
+					"right_delete",
+					null,
+					"AQAAAJwAAAAAAAAAnAAAAAAAAAD4AgAAVGhlIGZvbGxvd2luZyBoYXZlIHRvIGJlIHNldCBpbiBgL2V0Yy9zbHVybS1sbG5sL3NsdXJtLmNvbmZgIGluIG9yZGVyIHRvIG1hbmFnZSB0aGUgcXVldWUgd2l0aCBtZW1vcnkgbGltaXRzIGFuZCBDUFUgbGltaXRzOgo8cHJlPgpNYXhNZW1QZXJOb2RlPTQ4NTAwClNjaGVkdWxlclR5cGU9c2NoZWQvYmFja2ZpbGwKU2VsZWN0VHlwZT1zZWxlY3QvY29uc19yZXMKU2VsZWN0VHlwZVBhcmFtZXRlcnM9Q1JfQ29yZV9NZW1vcnkKPC9wcmU+CgpJZiB5b3Ugb25seSBuZWVkIENQVSBsaW1pdHMsIHRoaXMgaXMgdGhlIHNvbHV0aW9uOgo8cHJlPgpTY2hlZHVsZXJUeXBlPXNjaGVkL2JhY2tmaWxsClNlbGVjdFR5cGU9c2VsZWN0L2NvbnNfcmVzClNlbGVjdFR5cGVQYXJhbWV0ZXJzPUNSX0NvcmUKPC9wcmU+CgpGdWxsIGNvbXB1dGUgbm9kZSBzZXR1cCBhdCB0aGUgZW5kIG9mIHRoZSBmaWxlOgo8cHJlIHdvcmQtd3JhcD0iYnJlYWstd29yZCI+CiMgQ09NUFVURSBOT0RFUwojIFRocmVhZHJpcHBlciAzOTYwWApOb2RlTmFtZT1ocGMtOTAwMCBDUFVzPTI0IFJlYWxNZW1vcnk9NDg1MDAgU29ja2V0cz04IENvcmVzUGVyU29ja2V0PTMgVGhyZWFkc1BlckNvcmU9MSBTdGF0ZT1VTktOT1dOClBhcnRpdGlvbk5hbWU9YmF0Y2ggTm9kZXM9aHBjLTkwMDAgRGVmYXVsdD1ZRVMgTWF4VGltZT1JTkZJTklURSBTdGF0ZT1VUAo8L3ByZT4KCkFmdGVyIG1ha2luZyB0aGUgY2hhbmdlcyBydW4gPGNvZGU+c2NvbnRyb2wgcmVjb25maWd1cmU8L2NvZGU+Lg",
+					"AQAAAAAAAAABAAAAnAAAAAAAAACUAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": "To"
+					},
+					"AgAAAJwAAAAAAAAAnQAAAAAAAAAAAAAAnQAAAAAAAACeAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnAAAAAAAAACcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": " open"
+					},
+					"BQAAAJ4AAAAAAAAAnwAAAAAAAAAAAAAAnwAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAAKEAAAAAAAAAAAAAAKEAAAAAAAAAogAAAAAAAAAAAAAAogAAAAAAAACjAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAngAAAAAAAACeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					4,
+					"left_delete",
+					null,
+					"BAAAAKIAAAAAAAAAogAAAAAAAAABAAAAbqEAAAAAAAAAoQAAAAAAAAABAAAAZaAAAAAAAAAAoAAAAAAAAAABAAAAcJ8AAAAAAAAAnwAAAAAAAAABAAAAbw",
+					"AQAAAAAAAAABAAAAowAAAAAAAACjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": "forward"
+					},
+					"BwAAAJ8AAAAAAAAAoAAAAAAAAAAAAAAAoAAAAAAAAAChAAAAAAAAAAAAAAChAAAAAAAAAKIAAAAAAAAAAAAAAKIAAAAAAAAAowAAAAAAAAAAAAAAowAAAAAAAACkAAAAAAAAAAAAAACkAAAAAAAAAKUAAAAAAAAAAAAAAKUAAAAAAAAApgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnwAAAAAAAACfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": " port"
+					},
+					"BQAAAKYAAAAAAAAApwAAAAAAAAAAAAAApwAAAAAAAACoAAAAAAAAAAAAAACoAAAAAAAAAKkAAAAAAAAAAAAAAKkAAAAAAAAAqgAAAAAAAAAAAAAAqgAAAAAAAACrAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApgAAAAAAAACmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAKsAAAAAAAAArAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqwAAAAAAAACrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"insert_snippet",
+					{
+						"contents": "`$0`"
+					},
+					"AQAAAKwAAAAAAAAArgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArAAAAAAAAACsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"insert",
+					{
+						"characters": "X"
+					},
+					"AQAAAK0AAAAAAAAArgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArQAAAAAAAACtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAK8AAAAAAAAAsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArwAAAAAAAACvAAAAAAAAAP///////+9/"
+				],
+				[
+					71,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAKYAAAAAAAAApwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApgAAAAAAAACmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					73,
+					1,
+					"insert",
+					{
+						"characters": "local"
+					},
+					"BQAAAKcAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACpAAAAAAAAAAAAAACpAAAAAAAAAKoAAAAAAAAAAAAAAKoAAAAAAAAAqwAAAAAAAAAAAAAAqwAAAAAAAACsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApwAAAAAAAACnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					75,
+					1,
+					"insert",
+					{
+						"characters": "to"
+					},
+					"AgAAALYAAAAAAAAAtwAAAAAAAAAAAAAAtwAAAAAAAAC4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtgAAAAAAAAC2AAAAAAAAAP///////+9/"
+				],
+				[
+					76,
+					1,
+					"insert",
+					{
+						"characters": " remote"
+					},
+					"BwAAALgAAAAAAAAAuQAAAAAAAAAAAAAAuQAAAAAAAAC6AAAAAAAAAAAAAAC6AAAAAAAAALsAAAAAAAAAAAAAALsAAAAAAAAAvAAAAAAAAAAAAAAAvAAAAAAAAAC9AAAAAAAAAAAAAAC9AAAAAAAAAL4AAAAAAAAAAAAAAL4AAAAAAAAAvwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuAAAAAAAAAC4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					77,
+					1,
+					"insert",
+					{
+						"characters": " port"
+					},
+					"BQAAAL8AAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADBAAAAAAAAAAAAAADBAAAAAAAAAMIAAAAAAAAAAAAAAMIAAAAAAAAAwwAAAAAAAAAAAAAAwwAAAAAAAADEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvwAAAAAAAAC/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					78,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAMQAAAAAAAAAxQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxAAAAAAAAADEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					79,
+					1,
+					"insert_snippet",
+					{
+						"contents": "`$0`"
+					},
+					"AQAAAMUAAAAAAAAAxwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxQAAAAAAAADFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					80,
+					1,
+					"insert",
+					{
+						"characters": "Y"
+					},
+					"AQAAAMYAAAAAAAAAxwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxgAAAAAAAADGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					86,
+					1,
+					"left_delete",
+					null,
+					"AQAAALQAAAAAAAAAtAAAAAAAAAABAAAAYA",
+					"AQAAAAAAAAABAAAAtQAAAAAAAAC1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					88,
+					1,
+					"left_delete",
+					null,
+					"AQAAALMAAAAAAAAAswAAAAAAAAABAAAAWA",
+					"AQAAAAAAAAABAAAAtAAAAAAAAAC0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					90,
+					1,
+					"insert",
+					{
+						"characters": "`"
+					},
+					"AQAAALMAAAAAAAAAtAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAswAAAAAAAACzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					93,
+					1,
+					"insert",
+					{
+						"characters": "local_port"
+					},
+					"CgAAALMAAAAAAAAAtAAAAAAAAAAAAAAAtAAAAAAAAAC1AAAAAAAAAAAAAAC1AAAAAAAAALYAAAAAAAAAAAAAALYAAAAAAAAAtwAAAAAAAAAAAAAAtwAAAAAAAAC4AAAAAAAAAAAAAAC4AAAAAAAAALkAAAAAAAAAAAAAALkAAAAAAAAAugAAAAAAAAAAAAAAugAAAAAAAAC7AAAAAAAAAAAAAAC7AAAAAAAAALwAAAAAAAAAAAAAALwAAAAAAAAAvQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAswAAAAAAAACzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					96,
+					1,
+					"left_delete",
+					null,
+					"AQAAAM8AAAAAAAAAzwAAAAAAAAABAAAAWQ",
+					"AQAAAAAAAAABAAAA0AAAAAAAAADQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"insert",
+					{
+						"characters": "remote_port"
+					},
+					"CwAAAM8AAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADRAAAAAAAAAAAAAADRAAAAAAAAANIAAAAAAAAAAAAAANIAAAAAAAAA0wAAAAAAAAAAAAAA0wAAAAAAAADUAAAAAAAAAAAAAADUAAAAAAAAANUAAAAAAAAAAAAAANUAAAAAAAAA1gAAAAAAAAAAAAAA1gAAAAAAAADXAAAAAAAAAAAAAADXAAAAAAAAANgAAAAAAAAAAAAAANgAAAAAAAAA2QAAAAAAAAAAAAAA2QAAAAAAAADaAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzwAAAAAAAADPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					99,
+					1,
+					"insert",
+					{
+						"characters": " while"
+					},
+					"BgAAANsAAAAAAAAA3AAAAAAAAAAAAAAA3AAAAAAAAADdAAAAAAAAAAAAAADdAAAAAAAAAN4AAAAAAAAAAAAAAN4AAAAAAAAA3wAAAAAAAAAAAAAA3wAAAAAAAADgAAAAAAAAAAAAAADgAAAAAAAAAOEAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2wAAAAAAAADbAAAAAAAAAP///////+9/"
+				],
+				[
+					100,
+					1,
+					"insert",
+					{
+						"characters": " connecting"
+					},
+					"CwAAAOEAAAAAAAAA4gAAAAAAAAAAAAAA4gAAAAAAAADjAAAAAAAAAAAAAADjAAAAAAAAAOQAAAAAAAAAAAAAAOQAAAAAAAAA5QAAAAAAAAAAAAAA5QAAAAAAAADmAAAAAAAAAAAAAADmAAAAAAAAAOcAAAAAAAAAAAAAAOcAAAAAAAAA6AAAAAAAAAAAAAAA6AAAAAAAAADpAAAAAAAAAAAAAADpAAAAAAAAAOoAAAAAAAAAAAAAAOoAAAAAAAAA6wAAAAAAAAAAAAAA6wAAAAAAAADsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4QAAAAAAAADhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					101,
+					1,
+					"insert",
+					{
+						"characters": " to"
+					},
+					"AwAAAOwAAAAAAAAA7QAAAAAAAAAAAAAA7QAAAAAAAADuAAAAAAAAAAAAAADuAAAAAAAAAO8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7AAAAAAAAADsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					102,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAO8AAAAAAAAA8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7wAAAAAAAADvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					103,
+					3,
+					"left_delete",
+					null,
+					"AwAAAO8AAAAAAAAA7wAAAAAAAAABAAAAIO4AAAAAAAAA7gAAAAAAAAABAAAAb+0AAAAAAAAA7QAAAAAAAAABAAAAdA",
+					"AQAAAAAAAAABAAAA8AAAAAAAAADwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					104,
+					1,
+					"insert",
+					{
+						"characters": "vis"
+					},
+					"AwAAAO0AAAAAAAAA7gAAAAAAAAAAAAAA7gAAAAAAAADvAAAAAAAAAAAAAADvAAAAAAAAAPAAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7QAAAAAAAADtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					105,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAPAAAAAAAAAA8QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8AAAAAAAAADwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					106,
+					1,
+					"insert_snippet",
+					{
+						"contents": "`$0`"
+					},
+					"AQAAAPEAAAAAAAAA8wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8QAAAAAAAADxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					107,
+					1,
+					"insert",
+					{
+						"characters": "ssh"
+					},
+					"AwAAAPIAAAAAAAAA8wAAAAAAAAAAAAAA8wAAAAAAAAD0AAAAAAAAAAAAAAD0AAAAAAAAAPUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8gAAAAAAAADyAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					110,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAPYAAAAAAAAA9wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9gAAAAAAAAD2AAAAAAAAAP///////+9/"
+				],
+				[
+					112,
+					1,
+					"insert",
+					{
+						"characters": "on"
+					},
+					"AgAAAPcAAAAAAAAA+AAAAAAAAAAAAAAA+AAAAAAAAAD5AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9wAAAAAAAAD3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					113,
+					1,
+					"insert",
+					{
+						"characters": " port"
+					},
+					"BQAAAPkAAAAAAAAA+gAAAAAAAAAAAAAA+gAAAAAAAAD7AAAAAAAAAAAAAAD7AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAAA/QAAAAAAAAAAAAAA/QAAAAAAAAD+AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+QAAAAAAAAD5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					114,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAP4AAAAAAAAA/wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/gAAAAAAAAD+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					115,
+					1,
+					"insert_snippet",
+					{
+						"contents": "`$0`"
+					},
+					"AQAAAP8AAAAAAAAAAQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/wAAAAAAAAD/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					116,
+					1,
+					"insert",
+					{
+						"characters": "ssh_port"
+					},
+					"CAAAAAABAAAAAAAAAQEAAAAAAAAAAAAAAQEAAAAAAAACAQAAAAAAAAAAAAACAQAAAAAAAAMBAAAAAAAAAAAAAAMBAAAAAAAABAEAAAAAAAAAAAAABAEAAAAAAAAFAQAAAAAAAAAAAAAFAQAAAAAAAAYBAAAAAAAAAAAAAAYBAAAAAAAABwEAAAAAAAAAAAAABwEAAAAAAAAIAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					121,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAAkBAAAAAAAACgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQEAAAAAAAAJAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					122,
+					1,
+					"insert",
+					{
+						"characters": " run"
+					},
+					"BAAAAAoBAAAAAAAACwEAAAAAAAAAAAAACwEAAAAAAAAMAQAAAAAAAAAAAAAMAQAAAAAAAA0BAAAAAAAAAAAAAA0BAAAAAAAADgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACgEAAAAAAAAKAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					123,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAA4BAAAAAAAADwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADgEAAAAAAAAOAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					125,
+					1,
+					"insert",
+					{
+						"characters": "<"
+					},
+					"AQAAAA8BAAAAAAAAEAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwEAAAAAAAAPAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					128,
+					1,
+					"insert",
+					{
+						"characters": "pre>"
+					},
+					"BAAAABABAAAAAAAAEQEAAAAAAAAAAAAAEQEAAAAAAAASAQAAAAAAAAAAAAASAQAAAAAAABMBAAAAAAAAAAAAABMBAAAAAAAAFAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEAEAAAAAAAAQAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					129,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"BQAAABQBAAAAAAAAFQEAAAAAAAAAAAAAFQEAAAAAAAAXAQAAAAAAAAAAAAAXAQAAAAAAABgBAAAAAAAAAAAAABgBAAAAAAAAGgEAAAAAAAAAAAAAFQEAAAAAAAAVAQAAAAAAAAIAAAAgIA",
+					"AQAAAAAAAAABAAAAFAEAAAAAAAAUAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					131,
+					1,
+					"left_delete",
+					null,
+					"AQAAABYBAAAAAAAAFgEAAAAAAAACAAAAICA",
+					"AQAAAAAAAAABAAAAGAEAAAAAAAAYAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					132,
+					1,
+					"insert",
+					{
+						"characters": "<"
+					},
+					"AQAAABYBAAAAAAAAFwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFgEAAAAAAAAWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					133,
+					1,
+					"close_tag",
+					{
+						"insert_slash": true
+					},
+					"AQAAABcBAAAAAAAAHAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFwEAAAAAAAAXAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					137,
+					1,
+					"paste",
+					null,
+					"AQAAABUBAAAAAAAAcQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAFQEAAAAAAAAVAQAAAAAAAAAAAAAAgEpA"
+				],
+				[
+					144,
+					5,
+					"right_delete",
+					null,
+					"BQAAAB0BAAAAAAAAHQEAAAAAAAABAAAANh0BAAAAAAAAHQEAAAAAAAABAAAANB0BAAAAAAAAHQEAAAAAAAABAAAAMx0BAAAAAAAAHQEAAAAAAAABAAAAOB0BAAAAAAAAHQEAAAAAAAABAAAAOQ",
+					"AQAAAAAAAAABAAAAHQEAAAAAAAAdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					146,
+					1,
+					"insert_snippet",
+					{
+						"contents": "`$0`"
+					},
+					"AQAAAB0BAAAAAAAAHwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHQEAAAAAAAAdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					147,
+					1,
+					"insert",
+					{
+						"characters": "local_port"
+					},
+					"CgAAAB4BAAAAAAAAHwEAAAAAAAAAAAAAHwEAAAAAAAAgAQAAAAAAAAAAAAAgAQAAAAAAACEBAAAAAAAAAAAAACEBAAAAAAAAIgEAAAAAAAAAAAAAIgEAAAAAAAAjAQAAAAAAAAAAAAAjAQAAAAAAACQBAAAAAAAAAAAAACQBAAAAAAAAJQEAAAAAAAAAAAAAJQEAAAAAAAAmAQAAAAAAAAAAAAAmAQAAAAAAACcBAAAAAAAAAAAAACcBAAAAAAAAKAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgEAAAAAAAAeAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					148,
+					11,
+					"left_delete",
+					null,
+					"CwAAACcBAAAAAAAAJwEAAAAAAAABAAAAdCYBAAAAAAAAJgEAAAAAAAABAAAAciUBAAAAAAAAJQEAAAAAAAABAAAAbyQBAAAAAAAAJAEAAAAAAAABAAAAcCMBAAAAAAAAIwEAAAAAAAABAAAAXyIBAAAAAAAAIgEAAAAAAAABAAAAbCEBAAAAAAAAIQEAAAAAAAABAAAAYSABAAAAAAAAIAEAAAAAAAABAAAAYx8BAAAAAAAAHwEAAAAAAAABAAAAbx4BAAAAAAAAHgEAAAAAAAABAAAAbB0BAAAAAAAAHQEAAAAAAAABAAAAYA",
+					"AQAAAAAAAAABAAAAKAEAAAAAAAAoAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					149,
+					1,
+					"insert",
+					{
+						"characters": "l"
+					},
+					"AQAAAB0BAAAAAAAAHgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHQEAAAAAAAAdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					150,
+					1,
+					"right_delete",
+					null,
+					"AQAAAB4BAAAAAAAAHgEAAAAAAAABAAAAYA",
+					"AQAAAAAAAAABAAAAHgEAAAAAAAAeAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					151,
+					1,
+					"insert",
+					{
+						"characters": "ocal_port"
+					},
+					"CQAAAB4BAAAAAAAAHwEAAAAAAAAAAAAAHwEAAAAAAAAgAQAAAAAAAAAAAAAgAQAAAAAAACEBAAAAAAAAAAAAACEBAAAAAAAAIgEAAAAAAAAAAAAAIgEAAAAAAAAjAQAAAAAAAAAAAAAjAQAAAAAAACQBAAAAAAAAAAAAACQBAAAAAAAAJQEAAAAAAAAAAAAAJQEAAAAAAAAmAQAAAAAAAAAAAAAmAQAAAAAAACcBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHgEAAAAAAAAeAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					155,
+					1,
+					"left_delete",
+					null,
+					"AQAAACYBAAAAAAAAJgEAAAAAAAABAAAAdA",
+					"AQAAAAAAAAABAAAAJwEAAAAAAAAnAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					157,
+					9,
+					"left_delete",
+					null,
+					"CQAAACUBAAAAAAAAJQEAAAAAAAABAAAAciQBAAAAAAAAJAEAAAAAAAABAAAAbyMBAAAAAAAAIwEAAAAAAAABAAAAcCIBAAAAAAAAIgEAAAAAAAABAAAAXyEBAAAAAAAAIQEAAAAAAAABAAAAbCABAAAAAAAAIAEAAAAAAAABAAAAYR8BAAAAAAAAHwEAAAAAAAABAAAAYx4BAAAAAAAAHgEAAAAAAAABAAAAbx0BAAAAAAAAHQEAAAAAAAABAAAAbA",
+					"AQAAAAAAAAABAAAAJgEAAAAAAAAmAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					158,
+					1,
+					"insert",
+					{
+						"characters": "ssh_port"
+					},
+					"CAAAAB0BAAAAAAAAHgEAAAAAAAAAAAAAHgEAAAAAAAAfAQAAAAAAAAAAAAAfAQAAAAAAACABAAAAAAAAAAAAACABAAAAAAAAIQEAAAAAAAAAAAAAIQEAAAAAAAAiAQAAAAAAAAAAAAAiAQAAAAAAACMBAAAAAAAAAAAAACMBAAAAAAAAJAEAAAAAAAAAAAAAJAEAAAAAAAAlAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHQEAAAAAAAAdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					165,
+					1,
+					"insert",
+					{
+						"characters": "\n\nYou"
+					},
+					"BQAAAHsBAAAAAAAAfAEAAAAAAAAAAAAAfAEAAAAAAAB9AQAAAAAAAAAAAAB9AQAAAAAAAH4BAAAAAAAAAAAAAH4BAAAAAAAAfwEAAAAAAAAAAAAAfwEAAAAAAACAAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAewEAAAAAAAB7AQAAAAAAAAAAAAAAoGFA"
+				],
+				[
+					166,
+					1,
+					"insert",
+					{
+						"characters": " can"
+					},
+					"BAAAAIABAAAAAAAAgQEAAAAAAAAAAAAAgQEAAAAAAACCAQAAAAAAAAAAAACCAQAAAAAAAIMBAAAAAAAAAAAAAIMBAAAAAAAAhAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgAEAAAAAAACAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					171,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAJsAAAAAAAAAnAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmwAAAAAAAACbAAAAAAAAAAAAAAAAAE9A"
+				],
+				[
+					173,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAJwAAAAAAAAAnQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnAAAAAAAAACcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					175,
+					2,
+					"left_delete",
+					null,
+					"AgAAAJwAAAAAAAAAnAAAAAAAAAABAAAACpsAAAAAAAAAmwAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAnQAAAAAAAACdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					178,
+					1,
+					"insert",
+					{
+						"characters": " forward"
+					},
+					"CAAAAIQBAAAAAAAAhQEAAAAAAAAAAAAAhQEAAAAAAACGAQAAAAAAAAAAAACGAQAAAAAAAIcBAAAAAAAAAAAAAIcBAAAAAAAAiAEAAAAAAAAAAAAAiAEAAAAAAACJAQAAAAAAAAAAAACJAQAAAAAAAIoBAAAAAAAAAAAAAIoBAAAAAAAAiwEAAAAAAAAAAAAAiwEAAAAAAACMAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhAEAAAAAAACEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					179,
+					1,
+					"insert",
+					{
+						"characters": " multiple"
+					},
+					"CQAAAIwBAAAAAAAAjQEAAAAAAAAAAAAAjQEAAAAAAACOAQAAAAAAAAAAAACOAQAAAAAAAI8BAAAAAAAAAAAAAI8BAAAAAAAAkAEAAAAAAAAAAAAAkAEAAAAAAACRAQAAAAAAAAAAAACRAQAAAAAAAJIBAAAAAAAAAAAAAJIBAAAAAAAAkwEAAAAAAAAAAAAAkwEAAAAAAACUAQAAAAAAAAAAAACUAQAAAAAAAJUBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjAEAAAAAAACMAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					180,
+					1,
+					"insert",
+					{
+						"characters": " ports"
+					},
+					"BgAAAJUBAAAAAAAAlgEAAAAAAAAAAAAAlgEAAAAAAACXAQAAAAAAAAAAAACXAQAAAAAAAJgBAAAAAAAAAAAAAJgBAAAAAAAAmQEAAAAAAAAAAAAAmQEAAAAAAACaAQAAAAAAAAAAAACaAQAAAAAAAJsBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlQEAAAAAAACVAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					181,
+					1,
+					"insert",
+					{
+						"characters": " by"
+					},
+					"AwAAAJsBAAAAAAAAnAEAAAAAAAAAAAAAnAEAAAAAAACdAQAAAAAAAAAAAACdAQAAAAAAAJ4BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmwEAAAAAAACbAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					182,
+					1,
+					"insert",
+					{
+						"characters": " adding"
+					},
+					"BwAAAJ4BAAAAAAAAnwEAAAAAAAAAAAAAnwEAAAAAAACgAQAAAAAAAAAAAACgAQAAAAAAAKEBAAAAAAAAAAAAAKEBAAAAAAAAogEAAAAAAAAAAAAAogEAAAAAAACjAQAAAAAAAAAAAACjAQAAAAAAAKQBAAAAAAAAAAAAAKQBAAAAAAAApQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAngEAAAAAAACeAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					183,
+					1,
+					"insert",
+					{
+						"characters": " multiple"
+					},
+					"CQAAAKUBAAAAAAAApgEAAAAAAAAAAAAApgEAAAAAAACnAQAAAAAAAAAAAACnAQAAAAAAAKgBAAAAAAAAAAAAAKgBAAAAAAAAqQEAAAAAAAAAAAAAqQEAAAAAAACqAQAAAAAAAAAAAACqAQAAAAAAAKsBAAAAAAAAAAAAAKsBAAAAAAAArAEAAAAAAAAAAAAArAEAAAAAAACtAQAAAAAAAAAAAACtAQAAAAAAAK4BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApQEAAAAAAAClAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					184,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAK4BAAAAAAAArwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArgEAAAAAAACuAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					185,
+					1,
+					"insert_snippet",
+					{
+						"contents": "`$0`"
+					},
+					"AQAAAK8BAAAAAAAAsQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArwEAAAAAAACvAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					186,
+					1,
+					"insert",
+					{
+						"characters": "=L"
+					},
+					"AgAAALABAAAAAAAAsQEAAAAAAAAAAAAAsQEAAAAAAACyAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsAEAAAAAAACwAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					190,
+					1,
+					"left_delete",
+					null,
+					"AQAAALEBAAAAAAAAsQEAAAAAAAABAAAATA",
+					"AQAAAAAAAAABAAAAsgEAAAAAAACyAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					191,
+					1,
+					"insert",
+					{
+						"characters": "-"
+					},
+					"AQAAALEBAAAAAAAAsgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsQEAAAAAAACxAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					192,
+					2,
+					"left_delete",
+					null,
+					"AgAAALEBAAAAAAAAsQEAAAAAAAABAAAALbABAAAAAAAAsAEAAAAAAAABAAAAPQ",
+					"AQAAAAAAAAABAAAAsgEAAAAAAACyAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					193,
+					1,
+					"insert",
+					{
+						"characters": "-L"
+					},
+					"AgAAALABAAAAAAAAsQEAAAAAAAAAAAAAsQEAAAAAAACyAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsAEAAAAAAACwAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					195,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAALMBAAAAAAAAtAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAswEAAAAAAACzAQAAAAAAAP///////+9/"
+				],
+				[
+					197,
+					1,
+					"insert",
+					{
+						"characters": "options."
+					},
+					"CAAAALQBAAAAAAAAtQEAAAAAAAAAAAAAtQEAAAAAAAC2AQAAAAAAAAAAAAC2AQAAAAAAALcBAAAAAAAAAAAAALcBAAAAAAAAuAEAAAAAAAAAAAAAuAEAAAAAAAC5AQAAAAAAAAAAAAC5AQAAAAAAALoBAAAAAAAAAAAAALoBAAAAAAAAuwEAAAAAAAAAAAAAuwEAAAAAAAC8AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtAEAAAAAAAC0AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					204,
+					1,
+					"delete_word",
+					{
+						"forward": true
+					},
+					"AQAAAGABAAAAAAAAYAEAAAAAAAAEAAAAcGlvcg",
+					"AQAAAAAAAAABAAAAYAEAAAAAAABgAQAAAAAAAAAAAAAAACJA"
+				],
+				[
+					206,
+					1,
+					"insert",
+					{
+						"characters": "username"
+					},
+					"CAAAAGABAAAAAAAAYQEAAAAAAAAAAAAAYQEAAAAAAABiAQAAAAAAAAAAAABiAQAAAAAAAGMBAAAAAAAAAAAAAGMBAAAAAAAAZAEAAAAAAAAAAAAAZAEAAAAAAABlAQAAAAAAAAAAAABlAQAAAAAAAGYBAAAAAAAAAAAAAGYBAAAAAAAAZwEAAAAAAAAAAAAAZwEAAAAAAABoAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYAEAAAAAAABgAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					209,
+					1,
+					"insert",
+					{
+						"characters": "remote_hsot"
+					},
+					"DAAAAGkBAAAAAAAAagEAAAAAAAAAAAAAagEAAAAAAABqAQAAAAAAAA8AAAAxMDQuMTYzLjE3Mi4yMjJqAQAAAAAAAGsBAAAAAAAAAAAAAGsBAAAAAAAAbAEAAAAAAAAAAAAAbAEAAAAAAABtAQAAAAAAAAAAAABtAQAAAAAAAG4BAAAAAAAAAAAAAG4BAAAAAAAAbwEAAAAAAAAAAAAAbwEAAAAAAABwAQAAAAAAAAAAAABwAQAAAAAAAHEBAAAAAAAAAAAAAHEBAAAAAAAAcgEAAAAAAAAAAAAAcgEAAAAAAABzAQAAAAAAAAAAAABzAQAAAAAAAHQBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaQEAAAAAAAB4AQAAAAAAAP///////+9/"
+				],
+				[
+					210,
+					3,
+					"left_delete",
+					null,
+					"AwAAAHMBAAAAAAAAcwEAAAAAAAABAAAAdHIBAAAAAAAAcgEAAAAAAAABAAAAb3EBAAAAAAAAcQEAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAdAEAAAAAAAB0AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					211,
+					1,
+					"insert",
+					{
+						"characters": "ost"
+					},
+					"AwAAAHEBAAAAAAAAcgEAAAAAAAAAAAAAcgEAAAAAAABzAQAAAAAAAAAAAABzAQAAAAAAAHQBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcQEAAAAAAABxAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					218,
+					1,
+					"insert",
+					{
+						"characters": "local_port"
+					},
+					"CwAAACkBAAAAAAAAKgEAAAAAAAAAAAAAKgEAAAAAAAAqAQAAAAAAAAQAAAA4Nzg3KgEAAAAAAAArAQAAAAAAAAAAAAArAQAAAAAAACwBAAAAAAAAAAAAACwBAAAAAAAALQEAAAAAAAAAAAAALQEAAAAAAAAuAQAAAAAAAAAAAAAuAQAAAAAAAC8BAAAAAAAAAAAAAC8BAAAAAAAAMAEAAAAAAAAAAAAAMAEAAAAAAAAxAQAAAAAAAAAAAAAxAQAAAAAAADIBAAAAAAAAAAAAADIBAAAAAAAAMwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKQEAAAAAAAAtAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					223,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAEQBAAAAAAAARAEAAAAAAAAEAAAAODc4Nw",
+					"AQAAAAAAAAABAAAASAEAAAAAAABIAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					225,
+					1,
+					"insert",
+					{
+						"characters": "remote_port"
+					},
+					"CwAAAEQBAAAAAAAARQEAAAAAAAAAAAAARQEAAAAAAABGAQAAAAAAAAAAAABGAQAAAAAAAEcBAAAAAAAAAAAAAEcBAAAAAAAASAEAAAAAAAAAAAAASAEAAAAAAABJAQAAAAAAAAAAAABJAQAAAAAAAEoBAAAAAAAAAAAAAEoBAAAAAAAASwEAAAAAAAAAAAAASwEAAAAAAABMAQAAAAAAAAAAAABMAQAAAAAAAE0BAAAAAAAAAAAAAE0BAAAAAAAATgEAAAAAAAAAAAAATgEAAAAAAABPAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAEAAAAAAABEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					231,
+					1,
+					"right_delete",
+					null,
+					"AQAAAE8BAAAAAAAATwEAAAAAAAAdAAAAIC1MIDg3ODY6MTkyLjE2OC4xMTcuMTM0Ojg3ODY",
+					"AQAAAAAAAAABAAAATwEAAAAAAABsAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					235,
+					1,
+					"insert",
+					{
+						"characters": "remote_host"
+					},
+					"DAAAADQBAAAAAAAANQEAAAAAAAAAAAAANQEAAAAAAAA1AQAAAAAAAA8AAAAxOTIuMTY4LjExNy4xMzQ1AQAAAAAAADYBAAAAAAAAAAAAADYBAAAAAAAANwEAAAAAAAAAAAAANwEAAAAAAAA4AQAAAAAAAAAAAAA4AQAAAAAAADkBAAAAAAAAAAAAADkBAAAAAAAAOgEAAAAAAAAAAAAAOgEAAAAAAAA7AQAAAAAAAAAAAAA7AQAAAAAAADwBAAAAAAAAAAAAADwBAAAAAAAAPQEAAAAAAAAAAAAAPQEAAAAAAAA+AQAAAAAAAAAAAAA+AQAAAAAAAD8BAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwEAAAAAAAA0AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					239,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAKgBAAAAAAAAqQEAAAAAAAAAAAAAqQEAAAAAAACqAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqAEAAAAAAACoAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					242,
+					1,
+					"insert",
+					{
+						"characters": "I"
+					},
+					"AQAAAKoBAAAAAAAAqwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqgEAAAAAAACqAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					245,
+					1,
+					"insert",
+					{
+						"characters": "f"
+					},
+					"AQAAAKsBAAAAAAAArAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqwEAAAAAAACrAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					246,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAKwBAAAAAAAArQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArAEAAAAAAACsAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					247,
+					1,
+					"insert_snippet",
+					{
+						"contents": "`$0`"
+					},
+					"AQAAAK0BAAAAAAAArwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArQEAAAAAAACtAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					248,
+					1,
+					"insert",
+					{
+						"characters": "ssg0"
+					},
+					"BAAAAK4BAAAAAAAArwEAAAAAAAAAAAAArwEAAAAAAACwAQAAAAAAAAAAAACwAQAAAAAAALEBAAAAAAAAAAAAALEBAAAAAAAAsgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArgEAAAAAAACuAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					249,
+					2,
+					"left_delete",
+					null,
+					"AgAAALEBAAAAAAAAsQEAAAAAAAABAAAAMLABAAAAAAAAsAEAAAAAAAABAAAAZw",
+					"AQAAAAAAAAABAAAAsgEAAAAAAACyAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					250,
+					1,
+					"insert",
+					{
+						"characters": "ha"
+					},
+					"AgAAALABAAAAAAAAsQEAAAAAAAAAAAAAsQEAAAAAAACyAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsAEAAAAAAACwAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					251,
+					1,
+					"left_delete",
+					null,
+					"AQAAALEBAAAAAAAAsQEAAAAAAAABAAAAYQ",
+					"AQAAAAAAAAABAAAAsgEAAAAAAACyAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					252,
+					1,
+					"insert",
+					{
+						"characters": "-agent"
+					},
+					"BgAAALEBAAAAAAAAsgEAAAAAAAAAAAAAsgEAAAAAAACzAQAAAAAAAAAAAACzAQAAAAAAALQBAAAAAAAAAAAAALQBAAAAAAAAtQEAAAAAAAAAAAAAtQEAAAAAAAC2AQAAAAAAAAAAAAC2AQAAAAAAALcBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAsQEAAAAAAACxAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					254,
+					1,
+					"insert",
+					{
+						"characters": " is"
+					},
+					"AwAAALgBAAAAAAAAuQEAAAAAAAAAAAAAuQEAAAAAAAC6AQAAAAAAAAAAAAC6AQAAAAAAALsBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuAEAAAAAAAC4AQAAAAAAAP///////+9/"
+				],
+				[
+					255,
+					1,
+					"insert",
+					{
+						"characters": " not"
+					},
+					"BAAAALsBAAAAAAAAvAEAAAAAAAAAAAAAvAEAAAAAAAC9AQAAAAAAAAAAAAC9AQAAAAAAAL4BAAAAAAAAAAAAAL4BAAAAAAAAvwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuwEAAAAAAAC7AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					256,
+					1,
+					"insert",
+					{
+						"characters": " available,"
+					},
+					"CwAAAL8BAAAAAAAAwAEAAAAAAAAAAAAAwAEAAAAAAADBAQAAAAAAAAAAAADBAQAAAAAAAMIBAAAAAAAAAAAAAMIBAAAAAAAAwwEAAAAAAAAAAAAAwwEAAAAAAADEAQAAAAAAAAAAAADEAQAAAAAAAMUBAAAAAAAAAAAAAMUBAAAAAAAAxgEAAAAAAAAAAAAAxgEAAAAAAADHAQAAAAAAAAAAAADHAQAAAAAAAMgBAAAAAAAAAAAAAMgBAAAAAAAAyQEAAAAAAAAAAAAAyQEAAAAAAADKAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvwEAAAAAAAC/AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					257,
+					1,
+					"insert",
+					{
+						"characters": " include"
+					},
+					"CAAAAMoBAAAAAAAAywEAAAAAAAAAAAAAywEAAAAAAADMAQAAAAAAAAAAAADMAQAAAAAAAM0BAAAAAAAAAAAAAM0BAAAAAAAAzgEAAAAAAAAAAAAAzgEAAAAAAADPAQAAAAAAAAAAAADPAQAAAAAAANABAAAAAAAAAAAAANABAAAAAAAA0QEAAAAAAAAAAAAA0QEAAAAAAADSAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAygEAAAAAAADKAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					258,
+					1,
+					"insert",
+					{
+						"characters": " the"
+					},
+					"BAAAANIBAAAAAAAA0wEAAAAAAAAAAAAA0wEAAAAAAADUAQAAAAAAAAAAAADUAQAAAAAAANUBAAAAAAAAAAAAANUBAAAAAAAA1gEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0gEAAAAAAADSAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					259,
+					1,
+					"insert",
+					{
+						"characters": " identitfy"
+					},
+					"CgAAANYBAAAAAAAA1wEAAAAAAAAAAAAA1wEAAAAAAADYAQAAAAAAAAAAAADYAQAAAAAAANkBAAAAAAAAAAAAANkBAAAAAAAA2gEAAAAAAAAAAAAA2gEAAAAAAADbAQAAAAAAAAAAAADbAQAAAAAAANwBAAAAAAAAAAAAANwBAAAAAAAA3QEAAAAAAAAAAAAA3QEAAAAAAADeAQAAAAAAAAAAAADeAQAAAAAAAN8BAAAAAAAAAAAAAN8BAAAAAAAA4AEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1gEAAAAAAADWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					260,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAANcBAAAAAAAA1wEAAAAAAAAJAAAAaWRlbnRpdGZ5",
+					"AQAAAAAAAAABAAAA4AEAAAAAAADgAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					261,
+					1,
+					"left_delete",
+					null,
+					"AQAAANYBAAAAAAAA1gEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA1wEAAAAAAADXAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					262,
+					1,
+					"insert",
+					{
+						"characters": " key"
+					},
+					"BAAAANYBAAAAAAAA1wEAAAAAAAAAAAAA1wEAAAAAAADYAQAAAAAAAAAAAADYAQAAAAAAANkBAAAAAAAAAAAAANkBAAAAAAAA2gEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1gEAAAAAAADWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					263,
+					1,
+					"insert",
+					{
+						"characters": " w"
+					},
+					"AgAAANoBAAAAAAAA2wEAAAAAAAAAAAAA2wEAAAAAAADcAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2gEAAAAAAADaAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					264,
+					1,
+					"left_delete",
+					null,
+					"AQAAANsBAAAAAAAA2wEAAAAAAAABAAAAdw",
+					"AQAAAAAAAAABAAAA3AEAAAAAAADcAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					265,
+					1,
+					"insert",
+					{
+						"characters": "by"
+					},
+					"AgAAANsBAAAAAAAA3AEAAAAAAAAAAAAA3AEAAAAAAADdAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2wEAAAAAAADbAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					266,
+					1,
+					"insert",
+					{
+						"characters": " adding"
+					},
+					"BwAAAN0BAAAAAAAA3gEAAAAAAAAAAAAA3gEAAAAAAADfAQAAAAAAAAAAAADfAQAAAAAAAOABAAAAAAAAAAAAAOABAAAAAAAA4QEAAAAAAAAAAAAA4QEAAAAAAADiAQAAAAAAAAAAAADiAQAAAAAAAOMBAAAAAAAAAAAAAOMBAAAAAAAA5AEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3QEAAAAAAADdAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					267,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAOQBAAAAAAAA5QEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5AEAAAAAAADkAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					268,
+					1,
+					"insert_snippet",
+					{
+						"contents": "`$0`"
+					},
+					"AQAAAOUBAAAAAAAA5wEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5QEAAAAAAADlAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					269,
+					1,
+					"insert",
+					{
+						"characters": "=i"
+					},
+					"AgAAAOYBAAAAAAAA5wEAAAAAAAAAAAAA5wEAAAAAAADoAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5gEAAAAAAADmAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					270,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAOgBAAAAAAAA6QEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6AEAAAAAAADoAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					271,
+					3,
+					"left_delete",
+					null,
+					"AwAAAOgBAAAAAAAA6AEAAAAAAAABAAAAIOcBAAAAAAAA5wEAAAAAAAABAAAAaeYBAAAAAAAA5gEAAAAAAAABAAAAPQ",
+					"AQAAAAAAAAABAAAA6QEAAAAAAADpAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					272,
+					1,
+					"insert",
+					{
+						"characters": "-i"
+					},
+					"AgAAAOYBAAAAAAAA5wEAAAAAAAAAAAAA5wEAAAAAAADoAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5gEAAAAAAADmAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					273,
+					1,
+					"insert",
+					{
+						"characters": " path/to/"
+					},
+					"CQAAAOgBAAAAAAAA6QEAAAAAAAAAAAAA6QEAAAAAAADqAQAAAAAAAAAAAADqAQAAAAAAAOsBAAAAAAAAAAAAAOsBAAAAAAAA7AEAAAAAAAAAAAAA7AEAAAAAAADtAQAAAAAAAAAAAADtAQAAAAAAAO4BAAAAAAAAAAAAAO4BAAAAAAAA7wEAAAAAAAAAAAAA7wEAAAAAAADwAQAAAAAAAAAAAADwAQAAAAAAAPEBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6AEAAAAAAADoAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					275,
+					1,
+					"insert",
+					{
+						"characters": "keu"
+					},
+					"AwAAAPEBAAAAAAAA8gEAAAAAAAAAAAAA8gEAAAAAAADzAQAAAAAAAAAAAADzAQAAAAAAAPQBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8QEAAAAAAADxAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					276,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPMBAAAAAAAA8wEAAAAAAAABAAAAdQ",
+					"AQAAAAAAAAABAAAA9AEAAAAAAAD0AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					277,
+					1,
+					"insert",
+					{
+						"characters": "y"
+					},
+					"AQAAAPMBAAAAAAAA9AEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8wEAAAAAAADzAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					280,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AQAAAPUBAAAAAAAA9gEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9QEAAAAAAAD1AQAAAAAAAP///////+9/"
+				]
+			]
+		},
+		{
+			"file": "_pages/year-archive.html",
+			"settings":
+			{
+				"buffer_size": 538,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "P"
+					},
+					"AgAAADYAAAAAAAAANwAAAAAAAAAAAAAANwAAAAAAAAA3AAAAAAAAABIAAABOb3RlcyBhbmQgU25pcHBldHM",
+					"AQAAAAAAAAABAAAANgAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "ublic"
+					},
+					"BQAAADcAAAAAAAAAOAAAAAAAAAAAAAAAOAAAAAAAAAA5AAAAAAAAAAAAAAA5AAAAAAAAADoAAAAAAAAAAAAAADoAAAAAAAAAOwAAAAAAAAAAAAAAOwAAAAAAAAA8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwAAAAAAAAA3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": " St"
+					},
+					"AwAAADwAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAAA+AAAAAAAAAAAAAAA+AAAAAAAAAD8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPAAAAAAAAAA8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "icky"
+					},
+					"BAAAAD8AAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABBAAAAAAAAAAAAAABBAAAAAAAAAEIAAAAAAAAAAAAAAEIAAAAAAAAAQwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": " Notes"
+					},
+					"BgAAAEMAAAAAAAAARAAAAAAAAAAAAAAARAAAAAAAAABFAAAAAAAAAAAAAABFAAAAAAAAAEYAAAAAAAAAAAAAAEYAAAAAAAAARwAAAAAAAAAAAAAARwAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwAAAAAAAABDAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"Basic Builder - XeLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Render R Markdown"
+				]
+			],
+			[
+				"Packages/User/R-IDE/R-IDE.sublime-build",
+				"Render R Markdown"
+			]
+		],
+		[
+			[
+				[
+					"Packages/R-Box/support/R Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/R-Box/support/R Markdown.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/R-IDE/support/R Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/R-IDE/support/R Markdown.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/R/R.sublime-build",
+					""
+				],
+				[
+					"Packages/R-Box/support/R Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/SendCode/support/R - Source File.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/R-Box/support/R Markdown.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/R/R.sublime-build",
+					""
+				],
+				[
+					"Packages/R-Box/support/R Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/R-Box/support/R Markdown.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Install Package"
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Install Package Locally"
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Test Package"
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Test File"
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Check Package"
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Document Package"
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Build Package Site"
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Render R Markdown"
+				]
+			],
+			[
+				"Packages/User/R-IDE/R-IDE.sublime-build",
+				"Render R Markdown"
+			]
+		],
+		[
+			[
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					""
+				],
+				[
+					"Packages/User/R-IDE/R-IDE.sublime-build",
+					"Render R Markdown"
+				]
+			],
+			[
+				"Packages/User/R-IDE/R-IDE.sublime-build",
+				"Render R Markdown"
+			]
+		],
+		[
+			[
+				[
+					"Packages/knitr/knitr-Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/knitr/knitr-Markdown.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/knitr/knitr-Markdown.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/knitr/knitr-Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/knitr/knitr-Markdown.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/knitr/knitr-Markdown.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"subsub",
+				"Snippet: Sub Sub Section"
+			],
+			[
+				"sec",
+				"Snippet: Section"
+			],
+			[
+				"table",
+				"Snippet: New table"
+			],
+			[
+				"frame",
+				"Snippet: Beamer: Frame Two Columns (Figure and List)"
+			],
+			[
+				"subs",
+				"Snippet: Sub Section"
+			],
+			[
+				"item",
+				"Snippet: Itemize"
+			],
+			[
+				"enum",
+				"Snippet: Enumerate"
+			],
+			[
+				"figure",
+				"Snippet: New figure"
+			],
+			[
+				"latex clea",
+				"LaTeXTools: Clear document cache"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"latex clean",
+				"LaTeXTools: Clear document cache"
+			],
+			[
+				"bib",
+				"LaTeXTools: Clear current bibliography cache"
+			],
+			[
+				"clean",
+				"LaTeXTools: Clear current bibliography cache"
+			],
+			[
+				"fig",
+				"Snippet: New figure"
+			],
+			[
+				"enum\t",
+				"Snippet: Enumerate"
+			],
+			[
+				"matr",
+				"Snippet: Matrix"
+			],
+			[
+				"tabu",
+				"Snippet: Tabular"
+			],
+			[
+				"env",
+				"LaTeXing: New Environment"
+			],
+			[
+				"count",
+				"LaTeXTools: Show word count"
+			],
+			[
+				"late env",
+				"LaTeXing: New Environment"
+			],
+			[
+				"new",
+				"LaTeXing: New Environment"
+			],
+			[
+				"repl",
+				"SublimeREPL: R"
+			],
+			[
+				"ci",
+				"Citer: Search"
+			],
+			[
+				"align",
+				"Snippet: New align"
+			],
+			[
+				"sect",
+				"Snippet: Section"
+			],
+			[
+				"itemi",
+				"Snippet: Itemize"
+			],
+			[
+				"figu",
+				"Snippet: New figure"
+			],
+			[
+				"new env",
+				"LaTeXing: New Environment"
+			],
+			[
+				"new ev",
+				"LaTeXing: New Environment"
+			],
+			[
+				"new ",
+				"LaTeXing: New Environment"
+			],
+			[
+				"ite",
+				"Snippet: Itemize"
+			],
+			[
+				"new ne",
+				"LaTeXing: New Environment"
+			],
+			[
+				"new e",
+				"LaTeXing: New Environment"
+			],
+			[
+				"new en",
+				"LaTeXing: New Environment"
+			],
+			[
+				"matri",
+				"Snippet: Matrix"
+			],
+			[
+				"eq",
+				"Snippet: Equation"
+			],
+			[
+				"newenv",
+				"LaTeXing: New Environment"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"subsect\t",
+				"Snippet: Sub Section"
+			],
+			[
+				"envir",
+				"LaTeXing: New Environment"
+			],
+			[
+				"frmae",
+				"Snippet: Beamer: Simple Frame"
+			],
+			[
+				"snip sec",
+				"Snippet: Section"
+			],
+			[
+				"itmei",
+				"Snippet: Itemize"
+			],
+			[
+				"frame col",
+				"Snippet: Beamer: Frame Two Columns (List and Figure)"
+			],
+			[
+				"snip frame",
+				"Snippet: Beamer: Frame Two Columns (Figure and List)"
+			],
+			[
+				"snip",
+				"Snippet: New align"
+			],
+			[
+				"snip page",
+				"Snippet: Page"
+			],
+			[
+				"itemize",
+				"Snippet: Itemize"
+			],
+			[
+				"snip fig",
+				"Snippet: New figure"
+			],
+			[
+				"snip subsub",
+				"Snippet: Sub Sub Section"
+			],
+			[
+				"snip subs",
+				"Snippet: Sub Section"
+			],
+			[
+				"envi",
+				"LaTeXing: New Environment"
+			],
+			[
+				"snip eq",
+				"Snippet: Equation"
+			],
+			[
+				"new fig",
+				"Snippet: New figure"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"simple frmae",
+				"Snippet: Beamer: Simple Frame"
+			],
+			[
+				"frmae figure",
+				"Snippet: Beamer: Frame One Column (Figure)"
+			],
+			[
+				"tabl",
+				"Snippet: New table"
+			],
+			[
+				"mat",
+				"Snippet: Matrix"
+			],
+			[
+				"snip ite",
+				"Snippet: Itemize"
+			],
+			[
+				"snip matr",
+				"Snippet: Matrix"
+			],
+			[
+				"snip item",
+				"Snippet: Itemize"
+			],
+			[
+				"snip sub",
+				"Snippet: Sub Section"
+			],
+			[
+				"snip itemi",
+				"Snippet: Itemize"
+			],
+			[
+				"matrix",
+				"Snippet: Matrix"
+			],
+			[
+				"newf ",
+				"Snippet: New figure"
+			],
+			[
+				"new tab",
+				"Snippet: New table"
+			],
+			[
+				"snip tab",
+				"Snippet: New table"
+			],
+			[
+				"subsubs",
+				"Snippet: Sub Sub Section"
+			],
+			[
+				"snip mat",
+				"Snippet: Matrix"
+			],
+			[
+				"snip envir",
+				"Snippet: Wrap Environment Around Selected Text"
+			],
+			[
+				"snip ali",
+				"Snippet: New align"
+			],
+			[
+				"snio sub",
+				"Snippet: Sub Section"
+			],
+			[
+				"snip f",
+				"Snippet: New figure"
+			],
+			[
+				"sectio",
+				"Snippet: Section"
+			],
+			[
+				"subsec",
+				"Snippet: Sub Section"
+			],
+			[
+				"bold",
+				"Snippet: Boldface Text"
+			],
+			[
+				"snip bol",
+				"Snippet: Boldface Text"
+			],
+			[
+				"snip enum",
+				"Snippet: Enumerate"
+			],
+			[
+				"snip fi",
+				"Snippet: New figure"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"rlang",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"enab",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"sendcode ",
+				"SendCode: Choose Program"
+			],
+			[
+				"send",
+				"SendCode: Choose Program"
+			],
+			[
+				"R source",
+				"Build With: R - Source File"
+			],
+			[
+				"enable langu",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"disable",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"sublimelint",
+				"Preferences: SublimeLint Settings – User"
+			],
+			[
+				"file searc",
+				"File: Search Files"
+			],
+			[
+				"file ",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"file sea",
+				"File: Search Files"
+			],
+			[
+				"sendoce",
+				"Preferences: SendCode Settings"
+			],
+			[
+				"sendco",
+				"Preferences: SendCode Key Bindings"
+			],
+			[
+				"subl",
+				"SublimeREPL: R"
+			],
+			[
+				"sear",
+				"Citer: Search"
+			],
+			[
+				"term",
+				"Terminus: List Shells"
+			],
+			[
+				"terim",
+				"Terminus: List Shells"
+			],
+			[
+				"searc",
+				"Citer: Search"
+			],
+			[
+				"search",
+				"Citer: Search"
+			],
+			[
+				"termi",
+				"Terminus: List Shells"
+			],
+			[
+				"terminus",
+				"Terminus: List Shells"
+			],
+			[
+				"terminu",
+				"Terminus: List Shells"
+			],
+			[
+				"ter",
+				"Terminus: List Shells"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"termins",
+				"Terminus: List Shells"
+			],
+			[
+				"packagec",
+				"Package Control: Remove Package"
+			],
+			[
+				"sendC",
+				"SendCode: Choose Program"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ren",
+				"LaTeXing: Rename Environment"
+			],
+			[
+				"rename en",
+				"LaTeXing: Rename Environment"
+			],
+			[
+				"citat",
+				"LaTeXing: Import Citation(s)"
+			],
+			[
+				"fill a",
+				"LaTeXing: Fill Anywhere"
+			],
+			[
+				"latex",
+				"LaTeXing: Fill Anywhere"
+			],
+			[
+				"latext",
+				"LaTeXTools: Show toggles"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"replr",
+				"SublimeREPL: R"
+			],
+			[
+				"sedn",
+				"SendCode: Choose Program"
+			],
+			[
+				"repl R",
+				"SublimeREPL: R"
+			],
+			[
+				"sublimeREPL: R",
+				"SublimeREPL: R"
+			],
+			[
+				"latexing kni",
+				"Set Syntax: LaTeXing (Knitr)"
+			],
+			[
+				"sendc",
+				"SendCode: Choose Program"
+			],
+			[
+				"set syntax: R",
+				"Set Syntax: R"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 416.0,
+		"history":
+		[
+			"prv"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/piotr/git/piotrek-orlowski.github.io",
+		"/C/piotr/git/piotrek-orlowski.github.io/_pages"
+	],
+	"file_history":
+	[
+		"/C/cloud-share/Dropbox/br-working/ms-revision-1/_reply-to-referees.tex",
+		"/C/cloud-share/Dropbox/Erik_Valeri_Piotr/PaperDraft/evp_references.bib",
+		"/C/cloud-share/Dropbox/equity-option-cross-section/data/spx-ret/046-oos-dvix-pcp/07-oos-hedge-heston-is.tex",
+		"/C/cloud-share/Dropbox/equity-option-cross-section/data/spx-ret/046-oos-dvix-pcp/05a-panel-a-bs-heston-hedge.tex",
+		"/C/cloud-share/Dropbox/equity-option-cross-section/data/spx-ret/046-oos-dvix-pcp/08-predictive-rsq-is-oos.tex",
+		"/C/cloud-share/Dropbox/equity-option-cross-section/data/spx-ret/046-oos-dvix-pcp/07b-oos-hedge-oos-heston-ex2008.tex",
+		"/C/cloud-share/Dropbox/equity-option-cross-section/data/spx-ret/046-oos-dvix-pcp/07c-oos-hedge-is-hedge.tex",
+		"/C/Users/80000976/Downloads/conditional risk premia/FJO_15Octobre2020.tex",
+		"/C/cloud-share/Dropbox/equity-option-cross-section/data/spx-ret/046-oos-dvix-pcp/07-table-body.tex",
+		"/C/cloud-share/Dropbox/Erik_Valeri_Piotr/PaperDraft/OSS_Draft_2021.tex",
+		"/C/cloud-share/Dropbox/augusting-grass-jfm/Matlab/1_NumericalAnalysis/r2_RFS_replyPartII_201107.m",
+		"/C/cloud-share/Dropbox/equity-option-cross-section/Math - Folders/5 - Estimation of Heston/3 - Estimation v4 - OOS/OptData_Calibration_2_OOS.txt",
+		"/C/cloud-share/Dropbox/Erik_Valeri_Piotr/PaperDraft/InternetAppendix.tex",
+		"/C/cloud-share/OneDrive - HEC Montréal/hec-dff/python-homeworks-2021/homework-02-event-study/homework-02-event-study.tex",
+		"/C/cloud-share/Dropbox/afd/01_Data & Code/CC13_Replication/cc13_global/code/declarations.hpp",
+		"/C/cloud-share/Dropbox/afd/01_Data & Code/CC13_Replication/cc13_global/code/mlinterp-master/README.md",
+		"/C/cloud-share/Dropbox/afd/01_Data & Code/CC13_Replication/cc13_global/code/helper_functions.cpp",
+		"/C/cloud-share/Dropbox/equity-option-cross-section/Math - Folders/5 - Estimation of Heston/3 - Estimation v4 - OOS/OptData_Calibration_1_OOS.txt",
+		"/C/cloud-share/Dropbox/afd/01_Data & Code/CC13_Replication/cc13_global/code/model_functions.cpp",
+		"/C/cloud-share/OneDrive - HEC Montréal/hec-dff/python-homeworks-2021/homework-01-fg2009/homework-01-fg2009.tex",
+		"/C/cloud-share/Dropbox/afd/01_Data & Code/CC13_Replication/cc13_global/code/main.cpp",
+		"/C/cloud-share/Dropbox/afd/01_Data & Code/CC13_Replication/cc13_global/readme.md",
+		"/C/cloud-share/Dropbox/Erik_Valeri_Piotr/PaperDraft/preamble.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021-noerp/04-predictive-regressions-ff-portfolios/04-plot-other-rsq--3.0.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021/00-sdf-properties/01-plot-time-series-es-diff-lagr--0.5.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021-noerp/04-predictive-regressions-ff-portfolios/04-plot-other-rsq.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021/04-predictive-regressions-ff-portfolios/01-plot-es-tstats--0.5.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021/04-predictive-regressions-ff-portfolios/02-plot-es-rsq--3.0.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021/04-predictive-regressions-ff-portfolios/04-plot-other-rsq--0.5.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021/01-predictive-regressions-sp500-return/optes-tab-pred-sp500ret-pow--3.0.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021-noerp/04-predictive-regressions-ff-portfolios/01-plot-es-tstats--3.0.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021/01-predictive-regressions-sp500-return/tab-pred-sp500eqprem-pow--0.5.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021/01-predictive-regressions-sp500-return/tab-pred-body-eqprem.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021-erp10/01-predictive-regressions-sp500-return/optes-tab-pred-sp500ret-pow--3.0.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021-noerp/01-predictive-regressions-sp500-return/tab-pred-sp500ret-pow--3.0.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021-noerp/01-predictive-regressions-sp500-return/optes-tab-pred-sp500ret-pow--3.0.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021/01-predictive-regressions-sp500-return/tab-pred-sp500eqprem-pow--3.0.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021/01-predictive-regressions-sp500-return/optes-tab-pred-sp500ret-pow--0.5.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021-noerp/00-sdf-properties/01-plot-time-series-es-diff-lagr--3.0.tex",
+		"/C/cloud-share/Dropbox/equity-option-cross-section/slides/2021-cdi/slides-main.tex",
+		"/C/Users/80000976/AppData/Roaming/Sublime Text 3/Packages/User/cm.sublime-snippet",
+		"/C/cloud-share/Dropbox/equity-option-cross-section/slides/2021-cdi/beamercolorthemeArguelles.sty",
+		"/C/cloud-share/Dropbox/equity-option-cross-section/slides/2021-cdi/beamerthemeArguelles.sty",
+		"/C/piotr/git/divergence/src/BansalYaronTrajectoryCpp.cpp",
+		"/C/cloud-share/Dropbox/equity-option-cross-section/data/spx-ret/prep-05-ret-spread-1m-6m.R",
+		"/C/piotr/git/divergence/src/BansalYaronSimAggrCpp.cpp",
+		"/C/piotr/git/divergence/src/BansalYaronSimCpp.cpp",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-october-2021/02-predictive-regressions-sp500-rv-jv/tab-pred-body.tex",
+		"/C/cloud-share/Dropbox/Erik_Valeri_Piotr/Analysis/fig-july2021/xsec-lev-plot.tex",
+		"/C/cloud-share/Dropbox/Erik_Valeri_Piotr/PaperDraft/PicturesMaster.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-october-2021/01-predictive-regressions-sp500-return/tab-pred-body-pow--0.5.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-october-2021/03-quantile-regressions-sp500/tab-body-oos-int-eval-sp500ret-pow--3.0.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-october-2021/03-quantile-regressions-sp500/tab-quantile-pred-body-pow--3.0.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-october-2021/03-quantile-regressions-sp500/tab-quantile-pred-sp500ret-pow--3.0.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-october-2021/03-quantile-regressions-sp500/tab-body-oos-int-eval-sp500ret-pow--0.5.tex",
+		"/C/cloud-share/Dropbox/Erik_Valeri_Piotr/PaperDraft/TablesMaster.tex",
+		"/C/piotr/git/divergence/src/BansalYaronSimCpp.o",
+		"/C/cloud-share/Dropbox/hec/referee/appl-math-fin/reviewer-blind-RAMF-2021-0015R1.tex",
+		"/C/cloud-share/OneDrive - HEC Montréal/hec/referee/appl-math-fin/cover-RAMF-2021-0015R1.tex",
+		"/C/cloud-share/Dropbox/Erik_Valeri_Piotr/PaperDraft/OSS_Draft_2020.tex",
+		"/C/cloud-share/Dropbox/equity-option-cross-section/slides/2021-cdi/beamerouterthemeArguelles.sty",
+		"/C/cloud-share/Dropbox/equity-option-cross-section/slides/2021-cdi/beamerinnerthemeArguelles.sty",
+		"/C/cloud-share/Dropbox/equity-option-cross-section/slides/2021-cdi/beamerfontthemeArguelles.sty",
+		"/C/piotr/git/mdr/runfiles-june-2020/003b-expand-sample-2020/tab-plot-2004-2020/subs-emp-08-information/08-table-body.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021/01-predictive-regressions-sp500-return/tab-pred-sp500ret-pow--3.0.tex",
+		"/C/piotr/git/mdr/runfiles-june-2020/003b-expand-sample-2020/tab-plot-2004-2020/subs-emp-08-information/08-information-table-panel-b.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021/02-predictive-regressions-sp500-rv-jv/tab-pred-body.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021/01-predictive-regressions-sp500-return/tab-pred-body.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021-erp10/01-predictive-regressions-sp500-return/tab-pred-body.tex",
+		"/C/cloud-share/Dropbox/br-working/ms-revision-1/revision-working-main.tex",
+		"/C/cloud-share/Dropbox/br-working/ms-revision-1/rev-01-skew-var-similarity.tex",
+		"/C/cloud-share/Dropbox/br-working/ms-revision-1/rev-02-informed-trading.tex",
+		"/C/cloud-share/Dropbox/br-working/br-main-elsa.tex",
+		"/C/cloud-share/Dropbox/equity-option-cross-section/data/spx-ret/_extrasec_tabs/extra-tab-08-body.tex",
+		"/C/cloud-share/Dropbox/Erik_Valeri_Piotr/PaperDraft/section-04-investment-performance.tex",
+		"/C/piotr/git/mdr/runfiles-june-2020/003b-expand-sample-2020/tab-plot-2004-2020/subs-emp-07-differences/07-table-body.tex",
+		"/C/piotr/git/mdr/runfiles-june-2020/003b-expand-sample-2020/tab-plot-2004-2020/subs-emp-08-information/08-information-table-panel-a.tex",
+		"/C/cloud-share/Dropbox/br-working/br-main.tex",
+		"/C/cloud-share/Dropbox/Erik_Valeri_Piotr/Analysis/tab-july2021/05-oos-assets-pricing.tex",
+		"/C/cloud-share/Dropbox/Erik_Valeri_Piotr/Analysis/tab-july2021/06a-oos-assets-pricing-robust.tex",
+		"/C/cloud-share/Dropbox/Erik_Valeri_Piotr/Analysis/tab-july2021/06b-oos-assets-pricing-robust.tex",
+		"/C/piotr/git/mdr/runfiles-june-2020/003b-expand-sample-2020/tab-plot-2004-2020/subs-emp-07-differences/07-tab-corr-taildep.tex",
+		"/C/cloud-share/Dropbox/Erik_Valeri_Piotr/Analysis/tab-july2021/04-robustness-pricing-all.tex",
+		"/C/Users/80000976/Downloads/GOTOES_9070999513500058.gpx",
+		"/C/cloud-share/OneDrive - HEC Montréal/hec-dff/papers-by-subject/06 natural experiment/data/02-replication-of-nat-exp-results.R",
+		"/c/piotr/git/mdr/runfiles-june-2020/003b-expand-sample-2020/tab-plot-2004-2020/subs-emp-05-ts-returns/04-leverage-realized-profits.tex",
+		"/C/Users/80000976/Downloads/0304405X82900186.bib",
+		"/C/Users/80000976/Downloads/S1090944317301096.bib",
+		"/C/cloud-share/Dropbox/br-working/99-appendix-opt-wts.tex",
+		"/C/Users/80000976/Downloads/S0304405X15000987.bib",
+		"/C/cloud-share/Dropbox/br-working/br-main-elsa.fff",
+		"/D/datasets-zip/VX_fha87ep/VX_continuous_adjusted_5min.txt",
+		"/C/cloud-share/Dropbox/equity-option-cross-section/data/spx-ret/_extrasec_tabs/extra-tab-08-rnmom-premia.tex",
+		"/C/piotr/git/journal-sty/rqufLatex/rQUF2e.cls",
+		"/C/cloud-share/Dropbox/Erik_Valeri_Piotr/Analysis/tab-july2021/06-oos-assets-pricing-robust-body.tex",
+		"/C/cloud-share/Dropbox/equity-option-cross-section/data/spx-ret/_extrasec_plots/extra-plot-08-rnmoment-ts.tex",
+		"/C/cloud-share/Dropbox/equity-option-cross-section/data/spx-ret/039-rnmom-pcp/model-spec-vix3flin-rncoef/02-premia-ts-plot.tex",
+		"/C/piotr/git/skewspanning/revision-3-final/rev-2-unspanned-skewness-and-state-recovery-qf.tex",
+		"/C/cloud-share/Dropbox/equity-option-cross-section/data/spx-ret/_vis-apps/dev/opt-premia-params-vis-sapp.R",
+		"/C/cloud-share/Dropbox/equity-option-cross-section/data/spx-ret/_vis-apps/lwhjlkJKHkhlkHkjHKLJ/app.R",
+		"/C/Program Files/miktex/tex/latex/preprint/authblk.sty",
+		"/C/Users/80000976/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXing.sublime-settings",
+		"/C/Users/80000976/AppData/Roaming/Sublime Text 3/Packages/LaTeXing/LaTeXing.sublime-settings",
+		"/C/cloud-share/Dropbox/br-working/ms-revision-1/issue-01-informed-night-trading/report-spread-by-option-day.sql",
+		"/C/cloud-share/Dropbox/Bond and stock returns/estimated-models/02-stocksonly/reports/body-01-parameter-premia-tab.tex",
+		"/C/cloud-share/Dropbox/afd/02_Paper/writedown/6.tex",
+		"/C/cloud-share/Dropbox/Erik_Valeri_Piotr/Analysis/tab-july2021/05-oos-assets-pricing-body.tex",
+		"/C/cloud-share/Dropbox/equity-option-cross-section/data/spx-ret/_extrasec_tabs/extra-tab-05-body.tex",
+		"/C/cloud-share/Dropbox/Bond and stock returns/estimated-models/01-bondsonly/reports/01-parameter-premia-tab.tex",
+		"/C/cloud-share/Dropbox/Bond and stock returns/estimated-models/01-bondsonly/reports/body-01-parameter-premia-tab.tex",
+		"/C/cloud-share/Dropbox/Bond and stock returns/data_piotr/final_data/bond_dataset/Bond_Dataset.csv",
+		"/C/cloud-share/Dropbox/Erik_Valeri_Piotr/Analysis/tab-july2021/01-carry-xsec-pricing-body.tex",
+		"/C/piotr/git/ukfRcpp/inst/include/unscentedMeanCov.h",
+		"/C/piotr/git/ukfRcpp/inst/include/ukfClass.h",
+		"/C/piotr/git/entRsdfDev/DESCRIPTION",
+		"/C/piotr/git/entRsdfDev/anRpackage/DESCRIPTION",
+		"/C/piotr/git/entRsdfDev/NAMESPACE",
+		"/C/piotr/git/entRsdfDev/anRpackage/NAMESPACE",
+		"/C/cloud-share/Dropbox/Erik_Valeri_Piotr/Analysis/tab-june2021/03-factor-perforance-body.tex",
+		"/C/cloud-share/Dropbox/option-stock-cross-section/sql/002-link-for-multi-permno-per-gvkey.sql",
+		"/C/cloud-share/Dropbox/option-stock-cross-section/sql/001-link-with-unique-permno-gvkey-match.sql",
+		"/C/cloud-share/Dropbox/option-stock-cross-section/sql/003-link-for-multi-gvkey-per-permno-only-exist-in-comp-funda.sql",
+		"/C/cloud-share/Dropbox/option-stock-cross-section/sql/004-crsp-comp-link-cusip678.sql",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021-q10/02-predictive-regressions-sp500-rv-jv/tab-pred-sp500rv-pow--3.0.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021-q10/02-predictive-regressions-sp500-rv-jv/tab-pred-sp500jv-pow--3.0.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021-q10/02-predictive-regressions-sp500-rv-jv/optes-tab-pred-sp500rv-pow--3.0.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021-q10/02-predictive-regressions-sp500-rv-jv/optes-tab-pred-sp500jv-pow--3.0.tex",
+		"/C/cloud-share/Dropbox/aago-hf-tail-risk/spx-opt-returns/_results-march-2021-q10/01-predictive-regressions-sp500-return/optes-tab-pred-sp500ret-pow--3.0.tex"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 622.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"c",
+			"1026",
+			"in-sample fit",
+			"deMig",
+			"see, e.g. ",
+			"provide",
+			"M_t^{T,C}",
+			"_T^C",
+			"mathcal{M}",
+			"degree of missp",
+			"august",
+			"october",
+			"aalpha"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"1140",
+			"M_t^{T,L}",
+			"_T^L"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_posts/2021-11-11-ssh-tunnel.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 502,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								502,
+								502
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 480,
+								"count": 60,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": "\\",
+									"selector": "text.tex.latex"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"git_gutter_is_enabled": true,
+							"lsp_uri": "file:///C:/piotr/git/piotrek-orlowski.github.io/_posts/2021-11-11-ssh-tunnel.md",
+							"open_with_edit": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_pages/year-archive.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 538,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 20,
+								"count": 42,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": "\\",
+									"selector": "text.tex.latex"
+								}
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"git_gutter_is_enabled": true,
+							"lsp_uri": "file:///C:/piotr/git/piotrek-orlowski.github.io/_pages/year-archive.html",
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 210.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 210.0
+	},
+	"output.Terminus":
+	{
+		"height": 138.0
+	},
+	"output.diagnostics":
+	{
+		"height": 38.0
+	},
+	"output.exec":
+	{
+		"height": 221.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 372.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/knitr/knitr-Markdown.sublime-build",
+	"project": "pers-site.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\cloud-share\\Dropbox\\Erik_Valeri_Piotr\\PaperDraft\\PicturesMaster.tex"
+			],
+			[
+				"04",
+				"04-data.tex"
+			],
+			[
+				"02",
+				"02-trading-theory.tex"
+			],
+			[
+				"elsa",
+				"br-main-elsa.tex"
+			],
+			[
+				"em",
+				"05-empirical-results.tex"
+			],
+			[
+				"intro",
+				"01-intro.tex"
+			],
+			[
+				"title",
+				"C:\\cloud-share\\Dropbox\\br-working\\br-main-elsa-titlepage.tex"
+			],
+			[
+				"03",
+				"C:\\cloud-share\\Dropbox\\br-working\\03-simulation.tex"
+			],
+			[
+				"01",
+				"C:\\cloud-share\\Dropbox\\br-working\\01-intro.tex"
+			],
+			[
+				"06",
+				"C:\\cloud-share\\Dropbox\\br-working\\06-conclusions.tex"
+			],
+			[
+				"data",
+				"C:\\cloud-share\\Dropbox\\br-working\\04-data.tex"
+			],
+			[
+				"05",
+				"C:\\cloud-share\\Dropbox\\br-working\\05-empirical-results.tex"
+			],
+			[
+				"999",
+				"C:\\cloud-share\\Dropbox\\br-working\\999-appendix-derivation-of-strategies.tex"
+			],
+			[
+				"sim",
+				"C:\\cloud-share\\Dropbox\\br-working\\03-simulation.tex"
+			],
+			[
+				"els",
+				"C:\\cloud-share\\Dropbox\\br-working\\br-main-elsa.tex"
+			],
+			[
+				"in",
+				"C:\\cloud-share\\Dropbox\\br-working\\01-intro.tex"
+			],
+			[
+				"int",
+				"C:\\cloud-share\\Dropbox\\br-working\\01-intro.tex"
+			],
+			[
+				"bat",
+				"C:\\cloud-share\\Dropbox\\hec-dff\\python-exercises\\bankruptcies\\001a-create-crsp-csv.bat"
+			],
+			[
+				"simu",
+				"C:\\piotr\\git\\mdr\\runfiles-june-2020\\001-simulation-evidence\\simulation-jump-summary.tex"
+			],
+			[
+				"9",
+				"C:\\cloud-share\\Dropbox\\br-working\\99-appendices.tex"
+			],
+			[
+				"main",
+				"C:\\cloud-share\\Dropbox\\br-working\\br-main.tex"
+			],
+			[
+				"prea",
+				"C:\\cloud-share\\Dropbox\\Erik_Valeri_Piotr\\PaperDraft\\preamble.tex"
+			],
+			[
+				"notes",
+				"C:\\cloud-share\\Dropbox\\Erik_Valeri_Piotr\\PaperDraft\\notes-min-dispersion-sdf.tex"
+			],
+			[
+				"pre",
+				"C:\\cloud-share\\Dropbox\\Erik_Valeri_Piotr\\PaperDraft\\preamble.tex"
+			],
+			[
+				"br",
+				"C:\\cloud-share\\Dropbox\\br-working\\br-main.tex"
+			],
+			[
+				"conc",
+				"C:\\cloud-share\\Dropbox\\br-working\\05-conclusions.tex"
+			],
+			[
+				"intr",
+				"C:\\cloud-share\\Dropbox\\br-working\\01-intro-and-lit-review-piotr.tex"
+			],
+			[
+				"empi",
+				"03-empirics-crash-trading.tex"
+			],
+			[
+				"br-m",
+				"br-main.tex"
+			],
+			[
+				"app",
+				"99-appendices-paulI.tex"
+			],
+			[
+				"cov",
+				"C:\\piotr\\git\\hec\\referee\\jf\\never-a-dull-moment-entropy-risk\\cover-jf-20190964.tex"
+			],
+			[
+				"jf",
+				"C:\\piotr\\git\\hec\\referee\\jf\\never-a-dull-moment-entropy-risk\\reviewer-blind-jf-20190964.tex"
+			],
+			[
+				"ROB",
+				"04-robustness-checks.tex"
+			],
+			[
+				"03cr",
+				"03-empirics-crash-trading.tex"
+			],
+			[
+				"intro-an",
+				"01-intro-and-lit-review-piotr.tex"
+			],
+			[
+				"br-ma",
+				"br-main.tex"
+			],
+			[
+				"inde.x",
+				"slides\\fma-derivs-2019-30min_files\\reveal.js-3.3.0.1\\index.html"
+			],
+			[
+				"section_04_spanning",
+				"section_04_sub_spanning_tables.rmd"
+			],
+			[
+				"spanning-table",
+				"spanning-table-bid-ask-market.Rmd"
+			],
+			[
+				"tables",
+				"section_04_tables.Rmd"
+			],
+			[
+				"subsection-trading-wee",
+				"subsection-trading-weeklys-summary-of-results.rmd"
+			],
+			[
+				"subsection-trad",
+				"subsection-trading-weeklys-big-risk-premia.Rmd"
+			],
+			[
+				"subsection-trading",
+				"subsection-trading-weeklys-settlement-payoffs.Rmd"
+			],
+			[
+				"section-trad",
+				"section-trading-weeklys.Rmd"
+			],
+			[
+				"summary-f",
+				"subsection-trading-weeklys-summary-of-results.rmd"
+			],
+			[
+				"section-trading",
+				"section-trading-weeklys.Rmd"
+			],
+			[
+				"discrete",
+				"subsection-measuring-trading-discrete-properties.Rmd"
+			],
+			[
+				"section_04_pl",
+				"section_04_plots.Rmd"
+			],
+			[
+				"section_03",
+				"section_03.Rmd"
+			],
+			[
+				"robust",
+				"section-robustness-checks.Rmd"
+			],
+			[
+				"appendix_04_",
+				"appendix_04_flash_Crash.Rmd"
+			],
+			[
+				"measuring-trading-small",
+				"subsection-measuring-trading-from-small-to-big.Rmd"
+			],
+			[
+				"measuringt",
+				"section-measuring-trading-main.rmd"
+			],
+			[
+				"rob",
+				"section-robustness-checks.Rmd"
+			],
+			[
+				"sec",
+				"section-measuring-trading-main.rmd"
+			],
+			[
+				"br-main.te",
+				"br-main.tex"
+			],
+			[
+				"robu",
+				"section-robustness-checks.Rmd"
+			],
+			[
+				"robut",
+				"section-robustness-checks.Rmd"
+			],
+			[
+				"litera",
+				"subsection-introduction-literature-review.Rmd"
+			],
+			[
+				"header",
+				"headers\\header.tex"
+			],
+			[
+				"settlemt",
+				"subsection-trading-weeklys-settlement-payoffs.Rmd"
+			],
+			[
+				"subsection-dis",
+				"subsection-measuring-trading-discrete-properties.Rmd"
+			],
+			[
+				"big-risk-",
+				"subsection-trading-weeklys-big-risk-premia.Rmd"
+			],
+			[
+				"measuring-trading",
+				"subsection-measuring-trading-properties.Rmd"
+			],
+			[
+				"measuring",
+				"subsection-measuring-trading-trading-big-risks.Rmd"
+			],
+			[
+				"br-main",
+				"br-main.tex"
+			],
+			[
+				"spanning",
+				"section_04_sub_spanning_tables_bid_ask.rmd"
+			],
+			[
+				"supple",
+				"appendix_03_supplementary_tables.Rmd"
+			],
+			[
+				"descri",
+				"section_04_sub_descriptive_tables.Rmd"
+			],
+			[
+				"defa",
+				"default.latex"
+			],
+			[
+				"br-main.",
+				"br-main.tex"
+			],
+			[
+				"descr",
+				"section_04_sub_descriptive_tables.Rmd"
+			],
+			[
+				"descripti",
+				"section_04_sub_descriptive_tables.Rmd"
+			],
+			[
+				"section_04_sp",
+				"section_04_sub_spanning_tables.rmd"
+			],
+			[
+				"trad",
+				"subsection-trading-weeklys-big-risk-premia.Rmd"
+			],
+			[
+				"table",
+				"spanning-table-bid-ask-market.Rmd"
+			],
+			[
+				"trading-weekl",
+				"subsection-trading-weeklys-big-risk-premia.Rmd"
+			],
+			[
+				"comparis",
+				"subsection-measuring-trading-comparison.Rmd"
+			],
+			[
+				"section-in",
+				"section-introduction-main.Rmd"
+			],
+			[
+				"trading",
+				"subsection-trading-weeklys-big-risk-premia.Rmd"
+			],
+			[
+				"big-risk-premia",
+				"subsection-trading-weeklys-big-risk-premia.Rmd"
+			],
+			[
+				"subsection-data",
+				"subsection-trading-weeklys-data-description.Rmd"
+			],
+			[
+				"section-tra",
+				"section-trading-weeklys.Rmd"
+			],
+			[
+				"subsection-proper",
+				"subsection-measuring-trading-properties.Rmd"
+			],
+			[
+				"compari",
+				"subsection-measuring-trading-comparison.Rmd"
+			],
+			[
+				"subsection-trading-big",
+				"subsection-measuring-trading-trading-big-risks.Rmd"
+			],
+			[
+				"subsection-from",
+				"subsection-measuring-trading-from-small-to-big.Rmd"
+			],
+			[
+				"section-measu",
+				"section-measuring-trading-main.rmd"
+			],
+			[
+				"lite",
+				"subsection-introduction-literature-review.Rmd"
+			],
+			[
+				"section-int",
+				"section-introduction-main.Rmd"
+			],
+			[
+				"appedi",
+				"appendix_01.Rmd"
+			],
+			[
+				"big-ris",
+				"subsection-trading-weeklys-big-risk-premia.Rmd"
+			],
+			[
+				"flash",
+				"appendix_04_flash_Crash.Rmd"
+			],
+			[
+				"flas",
+				"appendix_04_flash_Crash.Rmd"
+			],
+			[
+				"concl",
+				"section-conclusions.Rmd"
+			],
+			[
+				"section-ro",
+				"section-robustness-checks.Rmd"
+			],
+			[
+				"trading-weeklys-su",
+				"subsection-trading-weeklys-summary-of-results.rmd"
+			],
+			[
+				"trading-week",
+				"subsection-trading-weeklys-data-description.Rmd"
+			],
+			[
+				"measuring-",
+				"subsection-measuring-trading-properties.Rmd"
+			],
+			[
+				"trading-big-ris",
+				"subsection-measuring-trading-trading-big-risks.Rmd"
+			],
+			[
+				"from-small",
+				"subsection-measuring-trading-from-small-to-big.Rmd"
+			],
+			[
+				"section-measur",
+				"section-measuring-trading-main.rmd"
+			],
+			[
+				"subsection-intr",
+				"subsection-introduction-literature-review.Rmd"
+			],
+			[
+				"section-i",
+				"section-introduction-main.Rmd"
+			],
+			[
+				"settlement",
+				"subsection-trading-weeklys-settlement-payoffs.Rmd"
+			],
+			[
+				"suppe",
+				"appendix_03_supplementary_tables.Rmd"
+			],
+			[
+				"section_04_spa",
+				"section_04_sub_spanning_tables.rmd"
+			],
+			[
+				"appendix",
+				"appendix_04_flash_Crash.Rmd"
+			],
+			[
+				"subsection-trading-data",
+				"subsection-trading-weeklys-data-description.Rmd"
+			],
+			[
+				"subsection-measu",
+				"subsection-measuring-trading-trading-big-risks.Rmd"
+			],
+			[
+				"appendi",
+				"appendix_02.Rmd"
+			],
+			[
+				"appe",
+				"appendix_01.Rmd"
+			],
+			[
+				"section-mea",
+				"section-measuring-trading-main.rmd"
+			],
+			[
+				"appendix_",
+				"appendix_01.Rmd"
+			],
+			[
+				"appendix_04",
+				"appendix_04_flash_Crash.Rmd"
+			],
+			[
+				"subsection-lite",
+				"subsection-introduction-literature-review.Rmd"
+			],
+			[
+				"section-intr",
+				"section-introduction-main.Rmd"
+			],
+			[
+				"subsection-com",
+				"subsection-measuring-trading-comparison.Rmd"
+			],
+			[
+				"subsection-measuring",
+				"subsection-measuring-trading-trading-big-risks.Rmd"
+			],
+			[
+				"data-de",
+				"subsection-trading-weeklys-data-description.Rmd"
+			],
+			[
+				"compariso",
+				"subsection-measuring-trading-comparison.Rmd"
+			],
+			[
+				"subsection-measuring-trad",
+				"subsection-measuring-trading-trading-big-risks.Rmd"
+			],
+			[
+				"measuring-ta",
+				"subsection-measuring-trading-properties.Rmd"
+			],
+			[
+				"subsection-pro",
+				"subsection-measuring-trading-properties.Rmd"
+			],
+			[
+				"section-",
+				"section-measuring-trading-main.rmd"
+			],
+			[
+				"subsection-t",
+				"subsection-trading-weeklys-big-risk-premia.Rmd"
+			],
+			[
+				"sectio-in",
+				"section-introduction-main.Rmd"
+			],
+			[
+				"section_04_",
+				"section_04_sub_spanning_tables.rmd"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\git\\pfopt\\pfopt.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
