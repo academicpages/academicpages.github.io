@@ -36,6 +36,10 @@ Plano de Curso
 ======
 Disponível no sistema SAGRES.
 
+Slides
+======
+[Slides das duas primeiras aulas](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/FME1_aulas01_02.pdf)
+
 Listas de Exercícios
 ======
 [Lista 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/Lista01_FME1.pdf)
