@@ -1,0 +1,58 @@
+/* ==========================================================================
+   About PAGE
+   ========================================================================== */
+
+/*
+   Custom Styling for About Page
+   ========================================================================== */
+
+   .ABOUT-image-block {
+    @include container;
+    @include clearfix;
+
+    img {
+        max-width: 100%;
+        max-height: 100%;
+        width: auto;
+        height: auto;
+        object-fit: cover;
+    }
+
+    div {
+        text-align: center;
+        width: 30%;
+        height: 275px;
+        margin: 1%;
+        // border-style: solid;
+        // border-radius: $border-radius;
+        // border-width: $border-width;
+        // border-color: $light-gray;
+        // font-size: $type-size-5;
+        padding: 10px;
+        float: left;
+    }
+
+    li {
+        list-style-type: none;
+        margin: 0;
+        line-height: 20px;
+    }
+
+    p {
+        font-size: $type-size-7;
+
+    }
+
+    li .google-scholar {
+        list-style-image: url(../fonts/ai-google-scholar.svg);
+    }
+
+    a {
+        text-decoration: none;
+        font-size: small;
+    }
+
+    h5 {
+        margin: 0;
+    }
+}
