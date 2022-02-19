@@ -93,7 +93,7 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : mix(#000, $caltech-color, 25%);
 $link-color-hover           : mix(#000, $caltech-color, 25%);
 $link-color-visited         : mix(#fff, $caltech-color, 25%);
 $masthead-link-color        : $primary-color;
