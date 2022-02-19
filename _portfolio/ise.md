@@ -8,8 +8,8 @@ collection: portfolio
 ### Current Members
 * Jiwon Kim (PI)
 * [Anika Kapur](https://j1wonkim.github.io/posts/anika/) (Undergraduate researcher)
-* [Celline Kim]() (Undergraduate researcher)
-* [Karina Nehra]() (Undergraduate researcher)
+* [Celline Kim](https://j1wonkim.github.io/posts/celline/) (Undergraduate researcher)
+* [Karina Nehra](https://j1wonkim.github.io/posts/karina/) (Undergraduate researcher)
 
 <br/><img src='/images/ISE_s22_group_picture.jpg'>{: width="200" }
 
