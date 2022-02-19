@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-An exerpt about me!
+An excerpt about me!
