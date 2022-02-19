@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-An excerpt about me!
+I am a Ph.D. candidate studying chemical engineering in the [Miller group](https://millergroup.caltech.edu/) at [Caltech](https://www.caltech.edu/). My research interests are in applying computational chemistry and machine learning to study catalysis.   
