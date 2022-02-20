@@ -26,23 +26,23 @@ Peter Hase, Mohit Bansal
 
 **FastIF: Scalable Influence Functions for Efficient Model Interpretation and Debugging**  
 Han Guo, Nazneen Fatema Rajani, Peter Hase, Mohit Bansal, Caiming Xiong  
-*EMNLP 2021.* [[pdf]](https://arxiv.org/abs/2012.15781) [[code]](https://github.com/salesforce/fast-influence-functions)  
+*EMNLP 2021.* [[pdf]](https://arxiv.org/pdf/2012.15781.pdf) [[code]](https://github.com/salesforce/fast-influence-functions)  
 
 **Leakage-Adjusted Simulatability: Can Models Generate Non-Trivial Explanations of Their Behavior in Natural Language?**  
 Peter Hase, Shiyue Zhang, Harry Xie, Mohit Bansal  
-*Findings of EMNLP.* [[pdf]](https://arxiv.org/abs/2010.04119) [[code]](https://github.com/peterbhase/LAS-NL-Explanations)  
+*Findings of EMNLP.* [[pdf]](https://arxiv.org/pdf/2010.04119.pdf) [[code]](https://github.com/peterbhase/LAS-NL-Explanations)  
 
 **Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?**  
 Peter Hase, Mohit Bansal  
-*ACL 2020.* [[pdf]](https://arxiv.org/abs/2005.01831) [[code]](https://github.com/peterbhase/InterpretableNLP-ACL2020)  
+*ACL 2020.* [[pdf]](https://arxiv.org/pdf/2005.01831.pdf) [[code]](https://github.com/peterbhase/InterpretableNLP-ACL2020)  
 
 **Interpretable Image Recognition with Hierarchical Prototypes**  
 Peter Hase, Chaofan Chen, Oscar Li, Cynthia Rudin  
-*AAAI-HCOMP 2019.* [[pdf]](https://arxiv.org/abs/1906.10651) [[code]](https://github.com/peterbhase/interpretable-image)  
+*AAAI-HCOMP 2019.* [[pdf]](https://arxiv.org/pdf/1906.10651.pdf) [[code]](https://github.com/peterbhase/interpretable-image)  
 
 **Shall I Compare Thee to a Machine-Written Sonnet? An Approach to Algorithmic Sonnet Generation**  
 John Benhardt, Peter Hase, Liuyi Zhu, Cynthia Rudin  
-*Preprint on arXiv.* [[pdf]](https://arxiv.org/abs/1811.05067) [[code]](https://github.com/peterbhase/poetry-generation)  
+*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/1811.05067.pdf) [[code]](https://github.com/peterbhase/poetry-generation)  
 
 
 
