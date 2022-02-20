@@ -1,4 +1,62 @@
+---
+title: "Lab5 Data Visualization"
+author: "Yongjun Zhang, Ph.D."
+institute: "Department of Sociology and IACS, Stony Brook Unversity"
+date: "02-20-2022"
+output:
+  rmdformats::readthedown:
+    highlight: pygments
+--- = =
+---
 
+```{=html}
+<style type="text/css">
+p{ /* Normal  */
+   font-size: 18px;
+}
+body{ /* Normal  */
+   font-size: 18px;
+}
+td {  /* Table  */
+   font-size: 14px;
+}
+h1 { /* Header 1 */
+ font-size: 32px;
+}
+h2 { /* Header 2 */
+ font-size: 26px;
+}
+h3 { /* Header 3 */
+ font-size: 22px;
+}
+code.r{ /* Code block */
+  font-size: 14px;
+}
+pre { /* Code block */
+  font-size: 14px
+}
+</style>
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Learning Objects
+
+This tutorial aims to introduce some basic examples of using r ggplot2 to do data visualization. 
+
+1. You should read Healy's data visualization book for more details <https://socviz.co/>
+
+2. You should also check ggplot2 cookbook for more details.
+
+## Replicating anti-AAPI hate speech data viz
+
+> The following codes are used to replicate the results of the paper I have worked on for a while. You can check here for the paper, data, and codes <https://osf.io/xtw4c/>. If you find any bugs, please let me know.
+
+> The goal is to show some basic academic visualization and its workflow.
+
+```{r}
 
 if (!requireNamespace("pacman")) install.packages('pacman')
 library(pacman)
@@ -74,7 +132,7 @@ scale_colour_Publication <- function(...){
 # REPLICATE FIGURE 1
 
 
-data_fig1 <- read_csv("./dat_fig1.csv")
+data_fig1 <- read_csv(url("https://yongjunzhang.com/files/css/dat_fig1.csv"))
 
 dat_fig1 %>% 
   filter(classifier%in%c("All, COVID19 hate terms",
@@ -114,7 +172,7 @@ ggsave("./fig1.eps",dpi=300,width=187,units="mm",height=100)
 # REPLICATE FIGURE 2
 
 
-data_fig2 <- read_csv("./dat_fig2.csv")
+data_fig2 <- read_csv(url("https://yongjunzhang.com/files/css/dat_fig2.csv"))
 
 
 data_fig2 %>% 
@@ -144,7 +202,7 @@ ggsave("./fig2.eps",dpi=300,width=187,units="mm",height=160)
 # REPLICATE FIGURE 3
 
 
-data_fig3 <- read_csv("./dat_fig3.csv")
+data_fig3 <- read_csv(url("https://yongjunzhang.com/files/css/dat_fig3.csv"))
 
 
 dat_fig3 %>% 
@@ -185,7 +243,7 @@ ggsave("./fig3.eps",dpi=300,width=187,units="mm",height=130)
 # REPLICATE FIGURE 4
 
 
-data_fig4 <- read_csv("./dat_fig4.csv")
+data_fig4 <- read_csv(url("https://yongjunzhang.com/files/css/dat_fig4.csv"))
 
 
 data_fig4 %>% 
@@ -219,7 +277,7 @@ ggsave("./fig4.eps",dpi=300,width=187,units="mm",height=100)
 # REPLICATE FIGURE 5
 
 
-data_fig5 <- read_csv("./dat_fig5.csv")
+data_fig5 <- read_csv(url("https://yongjunzhang.com/files/css/dat_fig5.csv"))
 
 
 
@@ -299,11 +357,9 @@ ggsave("./fig5.eps",dpi=300,width=187,units="mm",height=200)
 
 # REPLICATE FIGURE 6
 
+data_fig6a <- read_csv(url("https://yongjunzhang.com/files/css/dat_fig6a.csv"))
 
-data_fig6a <- read_csv("./dat_fig6a.csv")
-
-
-data_fig6b <- read_csv("./dat_fig6a.csv")
+data_fig6b <- read_csv(url("https://yongjunzhang.com/files/css/dat_fig6b.csv"))
 
 
 a <- dat_fig6a %>% 
@@ -349,9 +405,7 @@ b <- dat_fig6b %>%
 a/b+ plot_annotation(tag_levels = 'A')
 
 ggsave("./fig6.eps",dpi=300,width=187,units="mm",height=100)
+```
 
 
-
-
-
-
+### THE END...
