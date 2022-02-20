@@ -23,6 +23,8 @@ My research interests center on interpretable machine learning and natural langu
 *Email:* peter@cs.unc.edu
 
 ## News
+* 2022 - Invited talk at the [Allen Institute for AI](https://allenai.org/), on [Detecting, Updating, and Visualizing Language Model Beliefs](https://arxiv.org/abs/2111.13654)
+* 2022 - Invited talk at [Uber AI](https://www.uber.com/us/en/uberai/), on [The OOD Problem and Search Methods in Explainable ML](https://arxiv.org/abs/2106.00786)
 * 2021 - New preprint on arxiv! "Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs" [[pdf]](https://arxiv.org/abs/2111.13654) [[code]](https://github.com/peterbhase/SLAG-Belief-Updating)
 * 2021 - Paper accepted to NeurIPS 2021! "Search Methods for Sufficient, Socially-Aligned Feature Importance Explanations with In-Distribution Counterfactuals" [[pdf]](https://arxiv.org/abs/2106.00786) [[code]](https://github.com/peterbhase/ExplanationSearch)
 * 2021 - Awarded a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/) for Natural Language Processing! 
@@ -40,7 +42,5 @@ My research interests center on interpretable machine learning and natural langu
 * 2019 - Paper accepted into [AAAI-HCOMP 2019](https://www.humancomputation.com/), "Interpretable Image Recognition with Hierarchical Prototypes" [[pdf]](https://arxiv.org/abs/1906.10651) [[code]](https://github.com/peterbhase/interpretable-image)
 * 2019 - Joined the [UNC NLP](https://nlp.cs.unc.edu/) lab
 * 2019 - Graduated with a B.S. from the Department of Statistical Science at Duke University
-* 2019 - Awarded the [William R. Kenan Jr. (Royster) Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/membership.html) from UNC Chapel Hill
-* 2018 - Received First Prize in Darmouth's PoetiX Literary Turing Test (see submission [[pdf]](https://arxiv.org/abs/1811.05067) and [[code]](https://github.com/peterbhase/poetry-generation))
-* 2018 - Nominated for Statistical Science Undergraduate TA of the Year
+* 2019 - Awarded a [Royster PhD Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/membership.html) from UNC Chapel Hill
 
