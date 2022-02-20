@@ -1,9 +1,8 @@
 ---
 layout: archive
-title: ""
-excerpt: ""
-author_profile: true
+title: "Teaching"
 permalink: /talks/
+author_profile: true
 ---
 
 ## Talks
