@@ -26,4 +26,6 @@ You can check our syllabus [here](https://yongjunzhang.com/files/css/CSS_Zhang_S
 
 [Lab 4](https://yongjunzhang.com/files/css/Lab4.html)
 
-### Week 5 (coming soon)
+### Week 5
+
+[Lab 5 replication file](https://yongjunzhang.com/files/css/Lab5.html)
