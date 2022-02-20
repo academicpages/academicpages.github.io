@@ -1,0 +1,1061 @@
+year,week,tweets,date,classifier
+2019,1,35248,2019-01-01,"All, anti-Chinese politics terms"
+2019,2,23582,2019-01-08,"All, anti-Chinese politics terms"
+2019,3,22404,2019-01-15,"All, anti-Chinese politics terms"
+2019,4,19431,2019-01-22,"All, anti-Chinese politics terms"
+2019,5,23066,2019-01-29,"All, anti-Chinese politics terms"
+2019,6,27933,2019-02-05,"All, anti-Chinese politics terms"
+2019,7,37835,2019-02-12,"All, anti-Chinese politics terms"
+2019,8,30422,2019-02-19,"All, anti-Chinese politics terms"
+2019,9,21451,2019-02-26,"All, anti-Chinese politics terms"
+2019,10,27752,2019-03-05,"All, anti-Chinese politics terms"
+2019,11,96875,2019-03-12,"All, anti-Chinese politics terms"
+2019,12,28382,2019-03-19,"All, anti-Chinese politics terms"
+2019,13,43421,2019-03-26,"All, anti-Chinese politics terms"
+2019,14,43127,2019-04-02,"All, anti-Chinese politics terms"
+2019,15,40221,2019-04-09,"All, anti-Chinese politics terms"
+2019,16,23182,2019-04-16,"All, anti-Chinese politics terms"
+2019,17,32711,2019-04-23,"All, anti-Chinese politics terms"
+2019,18,36609,2019-04-30,"All, anti-Chinese politics terms"
+2019,19,45853,2019-05-07,"All, anti-Chinese politics terms"
+2019,20,28644,2019-05-14,"All, anti-Chinese politics terms"
+2019,21,31990,2019-05-21,"All, anti-Chinese politics terms"
+2019,22,21981,2019-05-28,"All, anti-Chinese politics terms"
+2019,23,30951,2019-06-04,"All, anti-Chinese politics terms"
+2019,24,110567,2019-06-11,"All, anti-Chinese politics terms"
+2019,25,48137,2019-06-18,"All, anti-Chinese politics terms"
+2019,26,96309,2019-06-25,"All, anti-Chinese politics terms"
+2019,27,50968,2019-07-02,"All, anti-Chinese politics terms"
+2019,28,51790,2019-07-09,"All, anti-Chinese politics terms"
+2019,29,72345,2019-07-16,"All, anti-Chinese politics terms"
+2019,30,114741,2019-07-23,"All, anti-Chinese politics terms"
+2019,31,95893,2019-07-30,"All, anti-Chinese politics terms"
+2019,32,116675,2019-08-06,"All, anti-Chinese politics terms"
+2019,33,290640,2019-08-13,"All, anti-Chinese politics terms"
+2019,34,274399,2019-08-20,"All, anti-Chinese politics terms"
+2019,35,520658,2019-08-27,"All, anti-Chinese politics terms"
+2019,36,480391,2019-09-03,"All, anti-Chinese politics terms"
+2019,37,309944,2019-09-10,"All, anti-Chinese politics terms"
+2019,38,299880,2019-09-17,"All, anti-Chinese politics terms"
+2019,39,469337,2019-09-24,"All, anti-Chinese politics terms"
+2019,40,918172,2019-10-01,"All, anti-Chinese politics terms"
+2019,41,855847,2019-10-08,"All, anti-Chinese politics terms"
+2019,42,845438,2019-10-15,"All, anti-Chinese politics terms"
+2019,43,545141,2019-10-22,"All, anti-Chinese politics terms"
+2019,44,648700,2019-10-29,"All, anti-Chinese politics terms"
+2019,45,733528,2019-11-05,"All, anti-Chinese politics terms"
+2019,46,2786580,2019-11-12,"All, anti-Chinese politics terms"
+2019,47,895988,2019-11-19,"All, anti-Chinese politics terms"
+2019,48,555355,2019-11-26,"All, anti-Chinese politics terms"
+2019,49,464388,2019-12-03,"All, anti-Chinese politics terms"
+2019,50,376110,2019-12-10,"All, anti-Chinese politics terms"
+2019,51,849651,2019-12-17,"All, anti-Chinese politics terms"
+2019,52,506787,2019-12-24,"All, anti-Chinese politics terms"
+2019,53,61495,2019-12-31,"All, anti-Chinese politics terms"
+2020,1,350305,2020-01-01,"All, anti-Chinese politics terms"
+2020,2,260159,2020-01-08,"All, anti-Chinese politics terms"
+2020,3,266487,2020-01-15,"All, anti-Chinese politics terms"
+2020,4,419963,2020-01-22,"All, anti-Chinese politics terms"
+2020,5,254255,2020-01-29,"All, anti-Chinese politics terms"
+2020,6,197961,2020-02-05,"All, anti-Chinese politics terms"
+2020,7,158515,2020-02-12,"All, anti-Chinese politics terms"
+2020,8,173299,2020-02-19,"All, anti-Chinese politics terms"
+2020,9,236202,2020-02-26,"All, anti-Chinese politics terms"
+2020,10,252760,2020-03-04,"All, anti-Chinese politics terms"
+2020,11,272340,2020-03-11,"All, anti-Chinese politics terms"
+2020,12,583298,2020-03-18,"All, anti-Chinese politics terms"
+2020,13,593550,2020-03-25,"All, anti-Chinese politics terms"
+2020,14,357087,2020-04-01,"All, anti-Chinese politics terms"
+2020,15,378757,2020-04-08,"All, anti-Chinese politics terms"
+2020,16,409203,2020-04-15,"All, anti-Chinese politics terms"
+2020,17,258445,2020-04-22,"All, anti-Chinese politics terms"
+2020,18,231329,2020-04-29,"All, anti-Chinese politics terms"
+2020,19,372468,2020-05-06,"All, anti-Chinese politics terms"
+2020,20,328877,2020-05-13,"All, anti-Chinese politics terms"
+2020,21,765781,2020-05-20,"All, anti-Chinese politics terms"
+2020,22,854900,2020-05-27,"All, anti-Chinese politics terms"
+2020,23,453156,2020-06-03,"All, anti-Chinese politics terms"
+2020,24,405386,2020-06-10,"All, anti-Chinese politics terms"
+2020,25,742511,2020-06-17,"All, anti-Chinese politics terms"
+2020,26,471293,2020-06-24,"All, anti-Chinese politics terms"
+2020,27,711596,2020-07-01,"All, anti-Chinese politics terms"
+2020,28,394815,2020-07-08,"All, anti-Chinese politics terms"
+2020,29,385380,2020-07-15,"All, anti-Chinese politics terms"
+2020,30,283500,2020-07-22,"All, anti-Chinese politics terms"
+2020,31,316401,2020-07-29,"All, anti-Chinese politics terms"
+2020,32,390676,2020-08-05,"All, anti-Chinese politics terms"
+2020,33,296538,2020-08-12,"All, anti-Chinese politics terms"
+2020,34,234254,2020-08-19,"All, anti-Chinese politics terms"
+2020,35,410115,2020-08-26,"All, anti-Chinese politics terms"
+2020,36,685156,2020-09-02,"All, anti-Chinese politics terms"
+2020,37,359304,2020-09-09,"All, anti-Chinese politics terms"
+2020,38,250491,2020-09-16,"All, anti-Chinese politics terms"
+2020,39,263844,2020-09-23,"All, anti-Chinese politics terms"
+2020,40,265229,2020-09-30,"All, anti-Chinese politics terms"
+2020,41,264318,2020-10-07,"All, anti-Chinese politics terms"
+2020,42,321712,2020-10-14,"All, anti-Chinese politics terms"
+2020,43,196537,2020-10-21,"All, anti-Chinese politics terms"
+2020,44,145227,2020-10-28,"All, anti-Chinese politics terms"
+2020,45,140680,2020-11-04,"All, anti-Chinese politics terms"
+2020,46,167671,2020-11-11,"All, anti-Chinese politics terms"
+2020,47,145155,2020-11-18,"All, anti-Chinese politics terms"
+2020,48,133423,2020-11-25,"All, anti-Chinese politics terms"
+2020,49,169342,2020-12-02,"All, anti-Chinese politics terms"
+2020,50,148142,2020-12-09,"All, anti-Chinese politics terms"
+2020,51,135621,2020-12-16,"All, anti-Chinese politics terms"
+2020,52,139301,2020-12-23,"All, anti-Chinese politics terms"
+2020,53,23496,2020-12-30,"All, anti-Chinese politics terms"
+2019,1,3292,2019-01-01,Ziems-Hate
+2019,1,19527,2019-01-01,Ziems-Neutral
+2019,1,12277,2019-01-01,Ziems-Other
+2019,2,2268,2019-01-08,Ziems-Hate
+2019,2,15076,2019-01-08,Ziems-Neutral
+2019,2,6176,2019-01-08,Ziems-Other
+2019,3,1870,2019-01-15,Ziems-Hate
+2019,3,15667,2019-01-15,Ziems-Neutral
+2019,3,4797,2019-01-15,Ziems-Other
+2019,4,2015,2019-01-22,Ziems-Hate
+2019,4,12811,2019-01-22,Ziems-Neutral
+2019,4,4562,2019-01-22,Ziems-Other
+2019,5,2077,2019-01-29,Ziems-Hate
+2019,5,15682,2019-01-29,Ziems-Neutral
+2019,5,5211,2019-01-29,Ziems-Other
+2019,6,2892,2019-02-05,Ziems-Hate
+2019,6,15179,2019-02-05,Ziems-Neutral
+2019,6,9724,2019-02-05,Ziems-Other
+2019,7,3954,2019-02-12,Ziems-Hate
+2019,7,24733,2019-02-12,Ziems-Neutral
+2019,7,8977,2019-02-12,Ziems-Other
+2019,8,2397,2019-02-19,Ziems-Hate
+2019,8,16791,2019-02-19,Ziems-Neutral
+2019,8,11136,2019-02-19,Ziems-Other
+2019,9,1620,2019-02-26,Ziems-Hate
+2019,9,14801,2019-02-26,Ziems-Neutral
+2019,9,4977,2019-02-26,Ziems-Other
+2019,10,2882,2019-03-05,Ziems-Hate
+2019,10,15678,2019-03-05,Ziems-Neutral
+2019,10,9114,2019-03-05,Ziems-Other
+2019,11,7205,2019-03-12,Ziems-Hate
+2019,11,62338,2019-03-12,Ziems-Neutral
+2019,11,26382,2019-03-12,Ziems-Other
+2019,12,2343,2019-03-19,Ziems-Hate
+2019,12,17770,2019-03-19,Ziems-Neutral
+2019,12,8160,2019-03-19,Ziems-Other
+2019,13,5363,2019-03-26,Ziems-Hate
+2019,13,28047,2019-03-26,Ziems-Neutral
+2019,13,9925,2019-03-26,Ziems-Other
+2019,14,2257,2019-04-02,Ziems-Hate
+2019,14,31555,2019-04-02,Ziems-Neutral
+2019,14,9239,2019-04-02,Ziems-Other
+2019,15,2081,2019-04-09,Ziems-Hate
+2019,15,29795,2019-04-09,Ziems-Neutral
+2019,15,8239,2019-04-09,Ziems-Other
+2019,16,2386,2019-04-16,Ziems-Hate
+2019,16,14896,2019-04-16,Ziems-Neutral
+2019,16,5835,2019-04-16,Ziems-Other
+2019,17,2843,2019-04-23,Ziems-Hate
+2019,17,21463,2019-04-23,Ziems-Neutral
+2019,17,8299,2019-04-23,Ziems-Other
+2019,18,1666,2019-04-30,Ziems-Hate
+2019,18,25364,2019-04-30,Ziems-Neutral
+2019,18,9530,2019-04-30,Ziems-Other
+2019,19,2867,2019-05-07,Ziems-Hate
+2019,19,35663,2019-05-07,Ziems-Neutral
+2019,19,7092,2019-05-07,Ziems-Other
+2019,20,2185,2019-05-14,Ziems-Hate
+2019,20,18346,2019-05-14,Ziems-Neutral
+2019,20,8040,2019-05-14,Ziems-Other
+2019,21,2554,2019-05-21,Ziems-Hate
+2019,21,22086,2019-05-21,Ziems-Neutral
+2019,21,7271,2019-05-21,Ziems-Other
+2019,22,1761,2019-05-28,Ziems-Hate
+2019,22,13620,2019-05-28,Ziems-Neutral
+2019,22,6534,2019-05-28,Ziems-Other
+2019,23,1936,2019-06-04,Ziems-Hate
+2019,23,22351,2019-06-04,Ziems-Neutral
+2019,23,6615,2019-06-04,Ziems-Other
+2019,24,2380,2019-06-11,Ziems-Hate
+2019,24,86614,2019-06-11,Ziems-Neutral
+2019,24,21125,2019-06-11,Ziems-Other
+2019,25,3744,2019-06-18,Ziems-Hate
+2019,25,33505,2019-06-18,Ziems-Neutral
+2019,25,10748,2019-06-18,Ziems-Other
+2019,26,2899,2019-06-25,Ziems-Hate
+2019,26,77394,2019-06-25,Ziems-Neutral
+2019,26,15310,2019-06-25,Ziems-Other
+2019,27,2629,2019-07-02,Ziems-Hate
+2019,27,40498,2019-07-02,Ziems-Neutral
+2019,27,7770,2019-07-02,Ziems-Other
+2019,28,3751,2019-07-09,Ziems-Hate
+2019,28,36206,2019-07-09,Ziems-Neutral
+2019,28,11716,2019-07-09,Ziems-Other
+2019,29,3697,2019-07-16,Ziems-Hate
+2019,29,59093,2019-07-16,Ziems-Neutral
+2019,29,9446,2019-07-16,Ziems-Other
+2019,30,2151,2019-07-23,Ziems-Hate
+2019,30,80866,2019-07-23,Ziems-Neutral
+2019,30,31583,2019-07-23,Ziems-Other
+2019,31,2868,2019-07-30,Ziems-Hate
+2019,31,78075,2019-07-30,Ziems-Neutral
+2019,31,13986,2019-07-30,Ziems-Other
+2019,32,2413,2019-08-06,Ziems-Hate
+2019,32,101572,2019-08-06,Ziems-Neutral
+2019,32,12584,2019-08-06,Ziems-Other
+2019,33,9100,2019-08-13,Ziems-Hate
+2019,33,212721,2019-08-13,Ziems-Neutral
+2019,33,68112,2019-08-13,Ziems-Other
+2019,34,15827,2019-08-20,Ziems-Hate
+2019,34,196646,2019-08-20,Ziems-Neutral
+2019,34,60778,2019-08-20,Ziems-Other
+2019,35,16616,2019-08-27,Ziems-Hate
+2019,35,382849,2019-08-27,Ziems-Neutral
+2019,35,119082,2019-08-27,Ziems-Other
+2019,36,14327,2019-09-03,Ziems-Hate
+2019,36,340468,2019-09-03,Ziems-Neutral
+2019,36,124585,2019-09-03,Ziems-Other
+2019,37,14829,2019-09-10,Ziems-Hate
+2019,37,216039,2019-09-10,Ziems-Neutral
+2019,37,77819,2019-09-10,Ziems-Other
+2019,38,18099,2019-09-17,Ziems-Hate
+2019,38,211537,2019-09-17,Ziems-Neutral
+2019,38,69487,2019-09-17,Ziems-Other
+2019,39,22501,2019-09-24,Ziems-Hate
+2019,39,351388,2019-09-24,Ziems-Neutral
+2019,39,94463,2019-09-24,Ziems-Other
+2019,40,34450,2019-10-01,Ziems-Hate
+2019,40,697553,2019-10-01,Ziems-Neutral
+2019,40,184659,2019-10-01,Ziems-Other
+2019,41,35000,2019-10-08,Ziems-Hate
+2019,41,632533,2019-10-08,Ziems-Neutral
+2019,41,183482,2019-10-08,Ziems-Other
+2019,42,38332,2019-10-15,Ziems-Hate
+2019,42,657090,2019-10-15,Ziems-Neutral
+2019,42,148189,2019-10-15,Ziems-Other
+2019,43,15951,2019-10-22,Ziems-Hate
+2019,43,424702,2019-10-22,Ziems-Neutral
+2019,43,103099,2019-10-22,Ziems-Other
+2019,44,21410,2019-10-29,Ziems-Hate
+2019,44,515048,2019-10-29,Ziems-Neutral
+2019,44,111445,2019-10-29,Ziems-Other
+2019,45,21972,2019-11-05,Ziems-Hate
+2019,45,593751,2019-11-05,Ziems-Neutral
+2019,45,115730,2019-11-05,Ziems-Other
+2019,46,76431,2019-11-12,Ziems-Hate
+2019,46,2170969,2019-11-12,Ziems-Neutral
+2019,46,527339,2019-11-12,Ziems-Other
+2019,47,32044,2019-11-19,Ziems-Hate
+2019,47,653809,2019-11-19,Ziems-Neutral
+2019,47,205029,2019-11-19,Ziems-Other
+2019,48,26087,2019-11-26,Ziems-Hate
+2019,48,421801,2019-11-26,Ziems-Neutral
+2019,48,106665,2019-11-26,Ziems-Other
+2019,49,24402,2019-12-03,Ziems-Hate
+2019,49,325424,2019-12-03,Ziems-Neutral
+2019,49,110735,2019-12-03,Ziems-Other
+2019,50,26961,2019-12-10,Ziems-Hate
+2019,50,265721,2019-12-10,Ziems-Neutral
+2019,50,76430,2019-12-10,Ziems-Other
+2019,51,170089,2019-12-17,Ziems-Hate
+2019,51,472517,2019-12-17,Ziems-Neutral
+2019,51,202063,2019-12-17,Ziems-Other
+2019,52,34227,2019-12-24,Ziems-Hate
+2019,52,393402,2019-12-24,Ziems-Neutral
+2019,52,77029,2019-12-24,Ziems-Other
+2019,53,2196,2019-12-31,Ziems-Hate
+2019,53,47570,2019-12-31,Ziems-Neutral
+2019,53,11606,2019-12-31,Ziems-Other
+2020,1,15927,2020-01-01,Ziems-Hate
+2020,1,277277,2020-01-01,Ziems-Neutral
+2020,1,56615,2020-01-01,Ziems-Other
+2020,2,17831,2020-01-08,Ziems-Hate
+2020,2,202849,2020-01-08,Ziems-Neutral
+2020,2,38534,2020-01-08,Ziems-Other
+2020,3,15832,2020-01-15,Ziems-Hate
+2020,3,198733,2020-01-15,Ziems-Neutral
+2020,3,50851,2020-01-15,Ziems-Other
+2020,4,27706,2020-01-22,Ziems-Hate
+2020,4,317078,2020-01-22,Ziems-Neutral
+2020,4,74491,2020-01-22,Ziems-Other
+2020,5,20052,2020-01-29,Ziems-Hate
+2020,5,186050,2020-01-29,Ziems-Neutral
+2020,5,42057,2020-01-29,Ziems-Other
+2020,6,13512,2020-02-05,Ziems-Hate
+2020,6,148364,2020-02-05,Ziems-Neutral
+2020,6,35637,2020-02-05,Ziems-Other
+2020,7,14475,2020-02-12,Ziems-Hate
+2020,7,117776,2020-02-12,Ziems-Neutral
+2020,7,25866,2020-02-12,Ziems-Other
+2020,8,15431,2020-02-19,Ziems-Hate
+2020,8,117230,2020-02-19,Ziems-Neutral
+2020,8,40228,2020-02-19,Ziems-Other
+2020,9,19701,2020-02-26,Ziems-Hate
+2020,9,166215,2020-02-26,Ziems-Neutral
+2020,9,49934,2020-02-26,Ziems-Other
+2020,10,18652,2020-03-04,Ziems-Hate
+2020,10,177081,2020-03-04,Ziems-Neutral
+2020,10,55681,2020-03-04,Ziems-Other
+2020,11,41331,2020-03-11,Ziems-Hate
+2020,11,153018,2020-03-11,Ziems-Neutral
+2020,11,76524,2020-03-11,Ziems-Other
+2020,12,116201,2020-03-18,Ziems-Hate
+2020,12,323500,2020-03-18,Ziems-Neutral
+2020,12,141225,2020-03-18,Ziems-Other
+2020,13,144393,2020-03-25,Ziems-Hate
+2020,13,261550,2020-03-25,Ziems-Neutral
+2020,13,181190,2020-03-25,Ziems-Other
+2020,14,78154,2020-04-01,Ziems-Hate
+2020,14,166136,2020-04-01,Ziems-Neutral
+2020,14,111783,2020-04-01,Ziems-Other
+2020,15,75175,2020-04-08,Ziems-Hate
+2020,15,176133,2020-04-08,Ziems-Neutral
+2020,15,124487,2020-04-08,Ziems-Other
+2020,16,84652,2020-04-15,Ziems-Hate
+2020,16,207730,2020-04-15,Ziems-Neutral
+2020,16,114591,2020-04-15,Ziems-Other
+2020,17,56414,2020-04-22,Ziems-Hate
+2020,17,142915,2020-04-22,Ziems-Neutral
+2020,17,58176,2020-04-22,Ziems-Other
+2020,18,36687,2020-04-29,Ziems-Hate
+2020,18,144647,2020-04-29,Ziems-Neutral
+2020,18,49495,2020-04-29,Ziems-Other
+2020,19,39027,2020-05-06,Ziems-Hate
+2020,19,262704,2020-05-06,Ziems-Neutral
+2020,19,69900,2020-05-06,Ziems-Other
+2020,20,42551,2020-05-13,Ziems-Hate
+2020,20,204125,2020-05-13,Ziems-Neutral
+2020,20,81585,2020-05-13,Ziems-Other
+2020,21,74117,2020-05-20,Ziems-Hate
+2020,21,490578,2020-05-20,Ziems-Neutral
+2020,21,200022,2020-05-20,Ziems-Other
+2020,22,75974,2020-05-27,Ziems-Hate
+2020,22,532219,2020-05-27,Ziems-Neutral
+2020,22,240457,2020-05-27,Ziems-Other
+2020,23,50239,2020-06-03,Ziems-Hate
+2020,23,296228,2020-06-03,Ziems-Neutral
+2020,23,104076,2020-06-03,Ziems-Other
+2020,24,43837,2020-06-10,Ziems-Hate
+2020,24,259400,2020-06-10,Ziems-Neutral
+2020,24,97901,2020-06-10,Ziems-Other
+2020,25,95640,2020-06-17,Ziems-Hate
+2020,25,328119,2020-06-17,Ziems-Neutral
+2020,25,285737,2020-06-17,Ziems-Other
+2020,26,51608,2020-06-24,Ziems-Hate
+2020,26,285217,2020-06-24,Ziems-Neutral
+2020,26,131422,2020-06-24,Ziems-Other
+2020,27,75281,2020-07-01,Ziems-Hate
+2020,27,484034,2020-07-01,Ziems-Neutral
+2020,27,149584,2020-07-01,Ziems-Other
+2020,28,48727,2020-07-08,Ziems-Hate
+2020,28,264834,2020-07-08,Ziems-Neutral
+2020,28,78996,2020-07-08,Ziems-Other
+2020,29,43743,2020-07-15,Ziems-Hate
+2020,29,228577,2020-07-15,Ziems-Neutral
+2020,29,111806,2020-07-15,Ziems-Other
+2020,30,36210,2020-07-22,Ziems-Hate
+2020,30,177921,2020-07-22,Ziems-Neutral
+2020,30,67397,2020-07-22,Ziems-Other
+2020,31,44231,2020-07-29,Ziems-Hate
+2020,31,191868,2020-07-29,Ziems-Neutral
+2020,31,79429,2020-07-29,Ziems-Other
+2020,32,46095,2020-08-05,Ziems-Hate
+2020,32,238223,2020-08-05,Ziems-Neutral
+2020,32,104313,2020-08-05,Ziems-Other
+2020,33,23870,2020-08-12,Ziems-Hate
+2020,33,201734,2020-08-12,Ziems-Neutral
+2020,33,68923,2020-08-12,Ziems-Other
+2020,34,30282,2020-08-19,Ziems-Hate
+2020,34,153781,2020-08-19,Ziems-Neutral
+2020,34,49601,2020-08-19,Ziems-Other
+2020,35,37493,2020-08-26,Ziems-Hate
+2020,35,271190,2020-08-26,Ziems-Neutral
+2020,35,99973,2020-08-26,Ziems-Other
+2020,36,48314,2020-09-02,Ziems-Hate
+2020,36,463192,2020-09-02,Ziems-Neutral
+2020,36,168576,2020-09-02,Ziems-Other
+2020,37,41116,2020-09-09,Ziems-Hate
+2020,37,229690,2020-09-09,Ziems-Neutral
+2020,37,87841,2020-09-09,Ziems-Other
+2020,38,27627,2020-09-16,Ziems-Hate
+2020,38,164777,2020-09-16,Ziems-Neutral
+2020,38,57673,2020-09-16,Ziems-Other
+2020,39,31732,2020-09-23,Ziems-Hate
+2020,39,158327,2020-09-23,Ziems-Neutral
+2020,39,73340,2020-09-23,Ziems-Other
+2020,40,27751,2020-09-30,Ziems-Hate
+2020,40,173622,2020-09-30,Ziems-Neutral
+2020,40,62838,2020-09-30,Ziems-Other
+2020,41,33229,2020-10-07,Ziems-Hate
+2020,41,168001,2020-10-07,Ziems-Neutral
+2020,41,62408,2020-10-07,Ziems-Other
+2020,42,28076,2020-10-14,Ziems-Hate
+2020,42,195589,2020-10-14,Ziems-Neutral
+2020,42,97312,2020-10-14,Ziems-Other
+2020,43,18827,2020-10-21,Ziems-Hate
+2020,43,135096,2020-10-21,Ziems-Neutral
+2020,43,41903,2020-10-21,Ziems-Other
+2020,44,22648,2020-10-28,Ziems-Hate
+2020,44,81073,2020-10-28,Ziems-Neutral
+2020,44,40847,2020-10-28,Ziems-Other
+2020,45,15506,2020-11-04,Ziems-Hate
+2020,45,87293,2020-11-04,Ziems-Neutral
+2020,45,36447,2020-11-04,Ziems-Other
+2020,46,27621,2020-11-11,Ziems-Hate
+2020,46,96857,2020-11-11,Ziems-Neutral
+2020,46,42280,2020-11-11,Ziems-Other
+2020,47,19979,2020-11-18,Ziems-Hate
+2020,47,86124,2020-11-18,Ziems-Neutral
+2020,47,38140,2020-11-18,Ziems-Other
+2020,48,23902,2020-11-25,Ziems-Hate
+2020,48,81773,2020-11-25,Ziems-Neutral
+2020,48,27336,2020-11-25,Ziems-Other
+2020,49,29833,2020-12-02,Ziems-Hate
+2020,49,97621,2020-12-02,Ziems-Neutral
+2020,49,41610,2020-12-02,Ziems-Other
+2020,50,28653,2020-12-09,Ziems-Hate
+2020,50,85399,2020-12-09,Ziems-Neutral
+2020,50,32520,2020-12-09,Ziems-Other
+2020,51,26928,2020-12-16,Ziems-Hate
+2020,51,79225,2020-12-16,Ziems-Neutral
+2020,51,28430,2020-12-16,Ziems-Other
+2020,52,29984,2020-12-23,Ziems-Hate
+2020,52,67084,2020-12-23,Ziems-Neutral
+2020,52,41890,2020-12-23,Ziems-Other
+2020,53,5346,2020-12-30,Ziems-Hate
+2020,53,13507,2020-12-30,Ziems-Neutral
+2020,53,4614,2020-12-30,Ziems-Other
+2019,1,1192,2019-01-01,Davidson-Hate speech
+2019,1,34033,2019-01-01,Davidson-Neither
+2019,1,20,2019-01-01,Davidson-Offensive language
+2019,2,202,2019-01-08,Davidson-Hate speech
+2019,2,23361,2019-01-08,Davidson-Neither
+2019,2,19,2019-01-08,Davidson-Offensive language
+2019,3,221,2019-01-15,Davidson-Hate speech
+2019,3,22160,2019-01-15,Davidson-Neither
+2019,3,23,2019-01-15,Davidson-Offensive language
+2019,4,142,2019-01-22,Davidson-Hate speech
+2019,4,19250,2019-01-22,Davidson-Neither
+2019,4,39,2019-01-22,Davidson-Offensive language
+2019,5,242,2019-01-29,Davidson-Hate speech
+2019,5,22786,2019-01-29,Davidson-Neither
+2019,5,38,2019-01-29,Davidson-Offensive language
+2019,6,590,2019-02-05,Davidson-Hate speech
+2019,6,27319,2019-02-05,Davidson-Neither
+2019,6,24,2019-02-05,Davidson-Offensive language
+2019,7,991,2019-02-12,Davidson-Hate speech
+2019,7,36820,2019-02-12,Davidson-Neither
+2019,7,22,2019-02-12,Davidson-Offensive language
+2019,8,372,2019-02-19,Davidson-Hate speech
+2019,8,30018,2019-02-19,Davidson-Neither
+2019,8,31,2019-02-19,Davidson-Offensive language
+2019,9,215,2019-02-26,Davidson-Hate speech
+2019,9,21207,2019-02-26,Davidson-Neither
+2019,9,27,2019-02-26,Davidson-Offensive language
+2019,10,108,2019-03-05,Davidson-Hate speech
+2019,10,27608,2019-03-05,Davidson-Neither
+2019,10,35,2019-03-05,Davidson-Offensive language
+2019,11,1318,2019-03-12,Davidson-Hate speech
+2019,11,95440,2019-03-12,Davidson-Neither
+2019,11,117,2019-03-12,Davidson-Offensive language
+2019,12,439,2019-03-19,Davidson-Hate speech
+2019,12,27914,2019-03-19,Davidson-Neither
+2019,12,27,2019-03-19,Davidson-Offensive language
+2019,13,2996,2019-03-26,Davidson-Hate speech
+2019,13,40385,2019-03-26,Davidson-Neither
+2019,13,38,2019-03-26,Davidson-Offensive language
+2019,14,432,2019-04-02,Davidson-Hate speech
+2019,14,42675,2019-04-02,Davidson-Neither
+2019,14,20,2019-04-02,Davidson-Offensive language
+2019,15,224,2019-04-09,Davidson-Hate speech
+2019,15,39962,2019-04-09,Davidson-Neither
+2019,15,35,2019-04-09,Davidson-Offensive language
+2019,16,568,2019-04-16,Davidson-Hate speech
+2019,16,22579,2019-04-16,Davidson-Neither
+2019,16,35,2019-04-16,Davidson-Offensive language
+2019,17,276,2019-04-23,Davidson-Hate speech
+2019,17,32409,2019-04-23,Davidson-Neither
+2019,17,26,2019-04-23,Davidson-Offensive language
+2019,18,535,2019-04-30,Davidson-Hate speech
+2019,18,36025,2019-04-30,Davidson-Neither
+2019,18,49,2019-04-30,Davidson-Offensive language
+2019,19,10734,2019-05-07,Davidson-Hate speech
+2019,19,35077,2019-05-07,Davidson-Neither
+2019,19,42,2019-05-07,Davidson-Offensive language
+2019,20,367,2019-05-14,Davidson-Hate speech
+2019,20,28251,2019-05-14,Davidson-Neither
+2019,20,26,2019-05-14,Davidson-Offensive language
+2019,21,351,2019-05-21,Davidson-Hate speech
+2019,21,31608,2019-05-21,Davidson-Neither
+2019,21,31,2019-05-21,Davidson-Offensive language
+2019,22,1061,2019-05-28,Davidson-Hate speech
+2019,22,20903,2019-05-28,Davidson-Neither
+2019,22,17,2019-05-28,Davidson-Offensive language
+2019,23,342,2019-06-04,Davidson-Hate speech
+2019,23,30570,2019-06-04,Davidson-Neither
+2019,23,34,2019-06-04,Davidson-Offensive language
+2019,24,503,2019-06-11,Davidson-Hate speech
+2019,24,109499,2019-06-11,Davidson-Neither
+2019,24,563,2019-06-11,Davidson-Offensive language
+2019,25,598,2019-06-18,Davidson-Hate speech
+2019,25,47453,2019-06-18,Davidson-Neither
+2019,25,86,2019-06-18,Davidson-Offensive language
+2019,26,288,2019-06-25,Davidson-Hate speech
+2019,26,95784,2019-06-25,Davidson-Neither
+2019,26,236,2019-06-25,Davidson-Offensive language
+2019,27,1072,2019-07-02,Davidson-Hate speech
+2019,27,49791,2019-07-02,Davidson-Neither
+2019,27,102,2019-07-02,Davidson-Offensive language
+2019,28,1383,2019-07-09,Davidson-Hate speech
+2019,28,50342,2019-07-09,Davidson-Neither
+2019,28,65,2019-07-09,Davidson-Offensive language
+2019,29,2022,2019-07-16,Davidson-Hate speech
+2019,29,70185,2019-07-16,Davidson-Neither
+2019,29,137,2019-07-16,Davidson-Offensive language
+2019,30,554,2019-07-23,Davidson-Hate speech
+2019,30,113934,2019-07-23,Davidson-Neither
+2019,30,253,2019-07-23,Davidson-Offensive language
+2019,31,913,2019-07-30,Davidson-Hate speech
+2019,31,94750,2019-07-30,Davidson-Neither
+2019,31,230,2019-07-30,Davidson-Offensive language
+2019,32,681,2019-08-06,Davidson-Hate speech
+2019,32,104909,2019-08-06,Davidson-Neither
+2019,32,333,2019-08-06,Davidson-Offensive language
+2019,33,2915,2019-08-13,Davidson-Hate speech
+2019,33,281466,2019-08-13,Davidson-Neither
+2019,33,6256,2019-08-13,Davidson-Offensive language
+2019,34,2936,2019-08-20,Davidson-Hate speech
+2019,34,269025,2019-08-20,Davidson-Neither
+2019,34,2426,2019-08-20,Davidson-Offensive language
+2019,35,4489,2019-08-27,Davidson-Hate speech
+2019,35,514045,2019-08-27,Davidson-Neither
+2019,35,2122,2019-08-27,Davidson-Offensive language
+2019,36,2954,2019-09-03,Davidson-Hate speech
+2019,36,474262,2019-09-03,Davidson-Neither
+2019,36,3158,2019-09-03,Davidson-Offensive language
+2019,37,3232,2019-09-10,Davidson-Hate speech
+2019,37,305270,2019-09-10,Davidson-Neither
+2019,37,1441,2019-09-10,Davidson-Offensive language
+2019,38,3478,2019-09-17,Davidson-Hate speech
+2019,38,295164,2019-09-17,Davidson-Neither
+2019,38,1238,2019-09-17,Davidson-Offensive language
+2019,39,2563,2019-09-24,Davidson-Hate speech
+2019,39,466057,2019-09-24,Davidson-Neither
+2019,39,714,2019-09-24,Davidson-Offensive language
+2019,40,6124,2019-10-01,Davidson-Hate speech
+2019,40,909370,2019-10-01,Davidson-Neither
+2019,40,2677,2019-10-01,Davidson-Offensive language
+2019,41,9077,2019-10-08,Davidson-Hate speech
+2019,41,840900,2019-10-08,Davidson-Neither
+2019,41,5864,2019-10-08,Davidson-Offensive language
+2019,42,4399,2019-10-15,Davidson-Hate speech
+2019,42,838725,2019-10-15,Davidson-Neither
+2019,42,2314,2019-10-15,Davidson-Offensive language
+2019,43,6564,2019-10-22,Davidson-Hate speech
+2019,43,533786,2019-10-22,Davidson-Neither
+2019,43,4790,2019-10-22,Davidson-Offensive language
+2019,44,4884,2019-10-29,Davidson-Hate speech
+2019,44,638369,2019-10-29,Davidson-Neither
+2019,44,5437,2019-10-29,Davidson-Offensive language
+2019,45,16511,2019-11-05,Davidson-Hate speech
+2019,45,715615,2019-11-05,Davidson-Neither
+2019,45,1394,2019-11-05,Davidson-Offensive language
+2019,46,119500,2019-11-12,Davidson-Hate speech
+2019,46,2662493,2019-11-12,Davidson-Neither
+2019,46,4557,2019-11-12,Davidson-Offensive language
+2019,47,13411,2019-11-19,Davidson-Hate speech
+2019,47,880851,2019-11-19,Davidson-Neither
+2019,47,1726,2019-11-19,Davidson-Offensive language
+2019,48,7056,2019-11-26,Davidson-Hate speech
+2019,48,546029,2019-11-26,Davidson-Neither
+2019,48,2265,2019-11-26,Davidson-Offensive language
+2019,49,4693,2019-12-03,Davidson-Hate speech
+2019,49,457690,2019-12-03,Davidson-Neither
+2019,49,2001,2019-12-03,Davidson-Offensive language
+2019,50,2003,2019-12-10,Davidson-Hate speech
+2019,50,373207,2019-12-10,Davidson-Neither
+2019,50,900,2019-12-10,Davidson-Offensive language
+2019,51,53620,2019-12-17,Davidson-Hate speech
+2019,51,794277,2019-12-17,Davidson-Neither
+2019,51,1752,2019-12-17,Davidson-Offensive language
+2019,52,8956,2019-12-24,Davidson-Hate speech
+2019,52,497322,2019-12-24,Davidson-Neither
+2019,52,509,2019-12-24,Davidson-Offensive language
+2019,53,1812,2019-12-31,Davidson-Hate speech
+2019,53,59636,2019-12-31,Davidson-Neither
+2019,53,47,2019-12-31,Davidson-Offensive language
+2020,1,2000,2020-01-01,Davidson-Hate speech
+2020,1,345468,2020-01-01,Davidson-Neither
+2020,1,2837,2020-01-01,Davidson-Offensive language
+2020,2,3070,2020-01-08,Davidson-Hate speech
+2020,2,256650,2020-01-08,Davidson-Neither
+2020,2,438,2020-01-08,Davidson-Offensive language
+2020,3,2252,2020-01-15,Davidson-Hate speech
+2020,3,263855,2020-01-15,Davidson-Neither
+2020,3,380,2020-01-15,Davidson-Offensive language
+2020,4,2430,2020-01-22,Davidson-Hate speech
+2020,4,415031,2020-01-22,Davidson-Neither
+2020,4,2502,2020-01-22,Davidson-Offensive language
+2020,5,1522,2020-01-29,Davidson-Hate speech
+2020,5,251818,2020-01-29,Davidson-Neither
+2020,5,914,2020-01-29,Davidson-Offensive language
+2020,6,1078,2020-02-05,Davidson-Hate speech
+2020,6,196280,2020-02-05,Davidson-Neither
+2020,6,603,2020-02-05,Davidson-Offensive language
+2020,7,841,2020-02-12,Davidson-Hate speech
+2020,7,157354,2020-02-12,Davidson-Neither
+2020,7,320,2020-02-12,Davidson-Offensive language
+2020,8,911,2020-02-19,Davidson-Hate speech
+2020,8,172104,2020-02-19,Davidson-Neither
+2020,8,284,2020-02-19,Davidson-Offensive language
+2020,9,962,2020-02-26,Davidson-Hate speech
+2020,9,234179,2020-02-26,Davidson-Neither
+2020,9,1060,2020-02-26,Davidson-Offensive language
+2020,10,1789,2020-03-04,Davidson-Hate speech
+2020,10,250621,2020-03-04,Davidson-Neither
+2020,10,350,2020-03-04,Davidson-Offensive language
+2020,11,2995,2020-03-11,Davidson-Hate speech
+2020,11,268266,2020-03-11,Davidson-Neither
+2020,11,1079,2020-03-11,Davidson-Offensive language
+2020,12,5197,2020-03-18,Davidson-Hate speech
+2020,12,575856,2020-03-18,Davidson-Neither
+2020,12,2242,2020-03-18,Davidson-Offensive language
+2020,13,8580,2020-03-25,Davidson-Hate speech
+2020,13,581252,2020-03-25,Davidson-Neither
+2020,13,3713,2020-03-25,Davidson-Offensive language
+2020,14,2906,2020-04-01,Davidson-Hate speech
+2020,14,352877,2020-04-01,Davidson-Neither
+2020,14,1304,2020-04-01,Davidson-Offensive language
+2020,15,4728,2020-04-08,Davidson-Hate speech
+2020,15,372049,2020-04-08,Davidson-Neither
+2020,15,1980,2020-04-08,Davidson-Offensive language
+2020,16,4964,2020-04-15,Davidson-Hate speech
+2020,16,402726,2020-04-15,Davidson-Neither
+2020,16,1512,2020-04-15,Davidson-Offensive language
+2020,17,2543,2020-04-22,Davidson-Hate speech
+2020,17,254900,2020-04-22,Davidson-Neither
+2020,17,1002,2020-04-22,Davidson-Offensive language
+2020,18,4132,2020-04-29,Davidson-Hate speech
+2020,18,226601,2020-04-29,Davidson-Neither
+2020,18,595,2020-04-29,Davidson-Offensive language
+2020,19,1590,2020-05-06,Davidson-Hate speech
+2020,19,369292,2020-05-06,Davidson-Neither
+2020,19,1586,2020-05-06,Davidson-Offensive language
+2020,20,2954,2020-05-13,Davidson-Hate speech
+2020,20,325100,2020-05-13,Davidson-Neither
+2020,20,823,2020-05-13,Davidson-Offensive language
+2020,21,2385,2020-05-20,Davidson-Hate speech
+2020,21,762511,2020-05-20,Davidson-Neither
+2020,21,881,2020-05-20,Davidson-Offensive language
+2020,22,4251,2020-05-27,Davidson-Hate speech
+2020,22,849301,2020-05-27,Davidson-Neither
+2020,22,1344,2020-05-27,Davidson-Offensive language
+2020,23,3629,2020-06-03,Davidson-Hate speech
+2020,23,448775,2020-06-03,Davidson-Neither
+2020,23,752,2020-06-03,Davidson-Offensive language
+2020,24,2390,2020-06-10,Davidson-Hate speech
+2020,24,401852,2020-06-10,Davidson-Neither
+2020,24,1144,2020-06-10,Davidson-Offensive language
+2020,25,10190,2020-06-17,Davidson-Hate speech
+2020,25,730553,2020-06-17,Davidson-Neither
+2020,25,1766,2020-06-17,Davidson-Offensive language
+2020,26,2996,2020-06-24,Davidson-Hate speech
+2020,26,466498,2020-06-24,Davidson-Neither
+2020,26,1797,2020-06-24,Davidson-Offensive language
+2020,27,7767,2020-07-01,Davidson-Hate speech
+2020,27,699458,2020-07-01,Davidson-Neither
+2020,27,4370,2020-07-01,Davidson-Offensive language
+2020,28,2764,2020-07-08,Davidson-Hate speech
+2020,28,391344,2020-07-08,Davidson-Neither
+2020,28,707,2020-07-08,Davidson-Offensive language
+2020,29,3172,2020-07-15,Davidson-Hate speech
+2020,29,381380,2020-07-15,Davidson-Neither
+2020,29,828,2020-07-15,Davidson-Offensive language
+2020,30,3908,2020-07-22,Davidson-Hate speech
+2020,30,278625,2020-07-22,Davidson-Neither
+2020,30,967,2020-07-22,Davidson-Offensive language
+2020,31,2478,2020-07-29,Davidson-Hate speech
+2020,31,311975,2020-07-29,Davidson-Neither
+2020,31,1948,2020-07-29,Davidson-Offensive language
+2020,32,2237,2020-08-05,Davidson-Hate speech
+2020,32,387447,2020-08-05,Davidson-Neither
+2020,32,992,2020-08-05,Davidson-Offensive language
+2020,33,2669,2020-08-12,Davidson-Hate speech
+2020,33,293344,2020-08-12,Davidson-Neither
+2020,33,524,2020-08-12,Davidson-Offensive language
+2020,34,9803,2020-08-19,Davidson-Hate speech
+2020,34,223357,2020-08-19,Davidson-Neither
+2020,34,914,2020-08-19,Davidson-Offensive language
+2020,35,16207,2020-08-26,Davidson-Hate speech
+2020,35,393145,2020-08-26,Davidson-Neither
+2020,35,762,2020-08-26,Davidson-Offensive language
+2020,36,17234,2020-09-02,Davidson-Hate speech
+2020,36,665609,2020-09-02,Davidson-Neither
+2020,36,2311,2020-09-02,Davidson-Offensive language
+2020,37,4434,2020-09-09,Davidson-Hate speech
+2020,37,354095,2020-09-09,Davidson-Neither
+2020,37,775,2020-09-09,Davidson-Offensive language
+2020,38,2257,2020-09-16,Davidson-Hate speech
+2020,38,247869,2020-09-16,Davidson-Neither
+2020,38,365,2020-09-16,Davidson-Offensive language
+2020,39,3188,2020-09-23,Davidson-Hate speech
+2020,39,260239,2020-09-23,Davidson-Neither
+2020,39,417,2020-09-23,Davidson-Offensive language
+2020,40,1781,2020-09-30,Davidson-Hate speech
+2020,40,262937,2020-09-30,Davidson-Neither
+2020,40,511,2020-09-30,Davidson-Offensive language
+2020,41,2551,2020-10-07,Davidson-Hate speech
+2020,41,261157,2020-10-07,Davidson-Neither
+2020,41,609,2020-10-07,Davidson-Offensive language
+2020,42,4448,2020-10-14,Davidson-Hate speech
+2020,42,316818,2020-10-14,Davidson-Neither
+2020,42,446,2020-10-14,Davidson-Offensive language
+2020,43,1633,2020-10-21,Davidson-Hate speech
+2020,43,194471,2020-10-21,Davidson-Neither
+2020,43,433,2020-10-21,Davidson-Offensive language
+2020,44,2151,2020-10-28,Davidson-Hate speech
+2020,44,142752,2020-10-28,Davidson-Neither
+2020,44,324,2020-10-28,Davidson-Offensive language
+2020,45,876,2020-11-04,Davidson-Hate speech
+2020,45,139573,2020-11-04,Davidson-Neither
+2020,45,231,2020-11-04,Davidson-Offensive language
+2020,46,1656,2020-11-11,Davidson-Hate speech
+2020,46,165653,2020-11-11,Davidson-Neither
+2020,46,362,2020-11-11,Davidson-Offensive language
+2020,47,1455,2020-11-18,Davidson-Hate speech
+2020,47,143389,2020-11-18,Davidson-Neither
+2020,47,311,2020-11-18,Davidson-Offensive language
+2020,48,805,2020-11-25,Davidson-Hate speech
+2020,48,132289,2020-11-25,Davidson-Neither
+2020,48,327,2020-11-25,Davidson-Offensive language
+2020,49,1261,2020-12-02,Davidson-Hate speech
+2020,49,167742,2020-12-02,Davidson-Neither
+2020,49,338,2020-12-02,Davidson-Offensive language
+2020,50,1683,2020-12-09,Davidson-Hate speech
+2020,50,146217,2020-12-09,Davidson-Neither
+2020,50,242,2020-12-09,Davidson-Offensive language
+2020,51,1737,2020-12-16,Davidson-Hate speech
+2020,51,133556,2020-12-16,Davidson-Neither
+2020,51,326,2020-12-16,Davidson-Offensive language
+2020,52,1113,2020-12-23,Davidson-Hate speech
+2020,52,137931,2020-12-23,Davidson-Neither
+2020,52,256,2020-12-23,Davidson-Offensive language
+2020,53,157,2020-12-30,Davidson-Hate speech
+2020,53,23281,2020-12-30,Davidson-Neither
+2020,53,58,2020-12-30,Davidson-Offensive language
+2019,1,9017,2019-01-01,Vidgen-entity_directed_criticism
+2019,1,6477,2019-01-01,Vidgen-entity_directed_hostility
+2019,1,19553,2019-01-01,Vidgen-none_of_the_above
+2019,2,5668,2019-01-08,Vidgen-entity_directed_criticism
+2019,2,1422,2019-01-08,Vidgen-entity_directed_hostility
+2019,2,16029,2019-01-08,Vidgen-none_of_the_above
+2019,3,7217,2019-01-15,Vidgen-entity_directed_criticism
+2019,3,1578,2019-01-15,Vidgen-entity_directed_hostility
+2019,3,13515,2019-01-15,Vidgen-none_of_the_above
+2019,4,4656,2019-01-22,Vidgen-entity_directed_criticism
+2019,4,1637,2019-01-22,Vidgen-entity_directed_hostility
+2019,4,12936,2019-01-22,Vidgen-none_of_the_above
+2019,5,5665,2019-01-29,Vidgen-entity_directed_criticism
+2019,5,1540,2019-01-29,Vidgen-entity_directed_hostility
+2019,5,15746,2019-01-29,Vidgen-none_of_the_above
+2019,6,11042,2019-02-05,Vidgen-entity_directed_criticism
+2019,6,1462,2019-02-05,Vidgen-entity_directed_hostility
+2019,6,15106,2019-02-05,Vidgen-none_of_the_above
+2019,7,13166,2019-02-12,Vidgen-entity_directed_criticism
+2019,7,3074,2019-02-12,Vidgen-entity_directed_hostility
+2019,7,20814,2019-02-12,Vidgen-none_of_the_above
+2019,8,11821,2019-02-19,Vidgen-entity_directed_criticism
+2019,8,2400,2019-02-19,Vidgen-entity_directed_hostility
+2019,8,15955,2019-02-19,Vidgen-none_of_the_above
+2019,9,5572,2019-02-26,Vidgen-entity_directed_criticism
+2019,9,1438,2019-02-26,Vidgen-entity_directed_hostility
+2019,9,14235,2019-02-26,Vidgen-none_of_the_above
+2019,10,6961,2019-03-05,Vidgen-entity_directed_criticism
+2019,10,1526,2019-03-05,Vidgen-entity_directed_hostility
+2019,10,19048,2019-03-05,Vidgen-none_of_the_above
+2019,11,13474,2019-03-12,Vidgen-entity_directed_criticism
+2019,11,51228,2019-03-12,Vidgen-entity_directed_hostility
+2019,11,31915,2019-03-12,Vidgen-none_of_the_above
+2019,12,7932,2019-03-19,Vidgen-entity_directed_criticism
+2019,12,2176,2019-03-19,Vidgen-entity_directed_hostility
+2019,12,18153,2019-03-19,Vidgen-none_of_the_above
+2019,13,12602,2019-03-26,Vidgen-entity_directed_criticism
+2019,13,3893,2019-03-26,Vidgen-entity_directed_hostility
+2019,13,26719,2019-03-26,Vidgen-none_of_the_above
+2019,14,18683,2019-04-02,Vidgen-entity_directed_criticism
+2019,14,2021,2019-04-02,Vidgen-entity_directed_hostility
+2019,14,22210,2019-04-02,Vidgen-none_of_the_above
+2019,15,11093,2019-04-09,Vidgen-entity_directed_criticism
+2019,15,1685,2019-04-09,Vidgen-entity_directed_hostility
+2019,15,27285,2019-04-09,Vidgen-none_of_the_above
+2019,16,6022,2019-04-16,Vidgen-entity_directed_criticism
+2019,16,1921,2019-04-16,Vidgen-entity_directed_hostility
+2019,16,15133,2019-04-16,Vidgen-none_of_the_above
+2019,17,7631,2019-04-23,Vidgen-entity_directed_criticism
+2019,17,3072,2019-04-23,Vidgen-entity_directed_hostility
+2019,17,21828,2019-04-23,Vidgen-none_of_the_above
+2019,18,6395,2019-04-30,Vidgen-entity_directed_criticism
+2019,18,1963,2019-04-30,Vidgen-entity_directed_hostility
+2019,18,27909,2019-04-30,Vidgen-none_of_the_above
+2019,19,20302,2019-05-07,Vidgen-entity_directed_criticism
+2019,19,2058,2019-05-07,Vidgen-entity_directed_hostility
+2019,19,22880,2019-05-07,Vidgen-none_of_the_above
+2019,20,8258,2019-05-14,Vidgen-entity_directed_criticism
+2019,20,2200,2019-05-14,Vidgen-entity_directed_hostility
+2019,20,17985,2019-05-14,Vidgen-none_of_the_above
+2019,21,11756,2019-05-21,Vidgen-entity_directed_criticism
+2019,21,1788,2019-05-21,Vidgen-entity_directed_hostility
+2019,21,18295,2019-05-21,Vidgen-none_of_the_above
+2019,22,5952,2019-05-28,Vidgen-entity_directed_criticism
+2019,22,1527,2019-05-28,Vidgen-entity_directed_hostility
+2019,22,14318,2019-05-28,Vidgen-none_of_the_above
+2019,23,5279,2019-06-04,Vidgen-entity_directed_criticism
+2019,23,2156,2019-06-04,Vidgen-entity_directed_hostility
+2019,23,23422,2019-06-04,Vidgen-none_of_the_above
+2019,24,21442,2019-06-11,Vidgen-entity_directed_criticism
+2019,24,3813,2019-06-11,Vidgen-entity_directed_hostility
+2019,24,84974,2019-06-11,Vidgen-none_of_the_above
+2019,25,10835,2019-06-18,Vidgen-entity_directed_criticism
+2019,25,6569,2019-06-18,Vidgen-entity_directed_hostility
+2019,25,30469,2019-06-18,Vidgen-none_of_the_above
+2019,26,10744,2019-06-25,Vidgen-entity_directed_criticism
+2019,26,3114,2019-06-25,Vidgen-entity_directed_hostility
+2019,26,82244,2019-06-25,Vidgen-none_of_the_above
+2019,27,9103,2019-07-02,Vidgen-entity_directed_criticism
+2019,27,2170,2019-07-02,Vidgen-entity_directed_hostility
+2019,27,39509,2019-07-02,Vidgen-none_of_the_above
+2019,28,14946,2019-07-09,Vidgen-entity_directed_criticism
+2019,28,1908,2019-07-09,Vidgen-entity_directed_hostility
+2019,28,34671,2019-07-09,Vidgen-none_of_the_above
+2019,29,18235,2019-07-16,Vidgen-entity_directed_criticism
+2019,29,2186,2019-07-16,Vidgen-entity_directed_hostility
+2019,29,51680,2019-07-16,Vidgen-none_of_the_above
+2019,30,13374,2019-07-23,Vidgen-entity_directed_criticism
+2019,30,2871,2019-07-23,Vidgen-entity_directed_hostility
+2019,30,98024,2019-07-23,Vidgen-none_of_the_above
+2019,31,13581,2019-07-30,Vidgen-entity_directed_criticism
+2019,31,2926,2019-07-30,Vidgen-entity_directed_hostility
+2019,31,79020,2019-07-30,Vidgen-none_of_the_above
+2019,32,10788,2019-08-06,Vidgen-entity_directed_criticism
+2019,32,3912,2019-08-06,Vidgen-entity_directed_hostility
+2019,32,101503,2019-08-06,Vidgen-none_of_the_above
+2019,33,43833,2019-08-13,Vidgen-entity_directed_criticism
+2019,33,15239,2019-08-13,Vidgen-entity_directed_hostility
+2019,33,229690,2019-08-13,Vidgen-none_of_the_above
+2019,34,56563,2019-08-20,Vidgen-entity_directed_criticism
+2019,34,27547,2019-08-20,Vidgen-entity_directed_hostility
+2019,34,187786,2019-08-20,Vidgen-none_of_the_above
+2019,35,114386,2019-08-27,Vidgen-entity_directed_criticism
+2019,35,38303,2019-08-27,Vidgen-entity_directed_hostility
+2019,35,365532,2019-08-27,Vidgen-none_of_the_above
+2019,36,118038,2019-09-03,Vidgen-entity_directed_criticism
+2019,36,33383,2019-09-03,Vidgen-entity_directed_hostility
+2019,36,327671,2019-09-03,Vidgen-none_of_the_above
+2019,37,70199,2019-09-10,Vidgen-entity_directed_criticism
+2019,37,28993,2019-09-10,Vidgen-entity_directed_hostility
+2019,37,208798,2019-09-10,Vidgen-none_of_the_above
+2019,38,77507,2019-09-17,Vidgen-entity_directed_criticism
+2019,38,23455,2019-09-17,Vidgen-entity_directed_hostility
+2019,38,196230,2019-09-17,Vidgen-none_of_the_above
+2019,39,111762,2019-09-24,Vidgen-entity_directed_criticism
+2019,39,27197,2019-09-24,Vidgen-entity_directed_hostility
+2019,39,328062,2019-09-24,Vidgen-none_of_the_above
+2019,40,197572,2019-10-01,Vidgen-entity_directed_criticism
+2019,40,54923,2019-10-01,Vidgen-entity_directed_hostility
+2019,40,663745,2019-10-01,Vidgen-none_of_the_above
+2019,41,170826,2019-10-08,Vidgen-entity_directed_criticism
+2019,41,56243,2019-10-08,Vidgen-entity_directed_hostility
+2019,41,622844,2019-10-08,Vidgen-none_of_the_above
+2019,42,155237,2019-10-15,Vidgen-entity_directed_criticism
+2019,42,38023,2019-10-15,Vidgen-entity_directed_hostility
+2019,42,647663,2019-10-15,Vidgen-none_of_the_above
+2019,43,93452,2019-10-22,Vidgen-entity_directed_criticism
+2019,43,31461,2019-10-22,Vidgen-entity_directed_hostility
+2019,43,418279,2019-10-22,Vidgen-none_of_the_above
+2019,44,173343,2019-10-29,Vidgen-entity_directed_criticism
+2019,44,36933,2019-10-29,Vidgen-entity_directed_hostility
+2019,44,437167,2019-10-29,Vidgen-none_of_the_above
+2019,45,174321,2019-11-05,Vidgen-entity_directed_criticism
+2019,45,49914,2019-11-05,Vidgen-entity_directed_hostility
+2019,45,507740,2019-11-05,Vidgen-none_of_the_above
+2019,46,461880,2019-11-12,Vidgen-entity_directed_criticism
+2019,46,182452,2019-11-12,Vidgen-entity_directed_hostility
+2019,46,2139498,2019-11-12,Vidgen-none_of_the_above
+2019,47,168977,2019-11-19,Vidgen-entity_directed_criticism
+2019,47,37811,2019-11-19,Vidgen-entity_directed_hostility
+2019,47,688233,2019-11-19,Vidgen-none_of_the_above
+2019,48,112949,2019-11-26,Vidgen-entity_directed_criticism
+2019,48,26086,2019-11-26,Vidgen-entity_directed_hostility
+2019,48,412968,2019-11-26,Vidgen-none_of_the_above
+2019,49,99809,2019-12-03,Vidgen-entity_directed_criticism
+2019,49,21573,2019-12-03,Vidgen-entity_directed_hostility
+2019,49,338944,2019-12-03,Vidgen-none_of_the_above
+2019,50,99981,2019-12-10,Vidgen-entity_directed_criticism
+2019,50,29012,2019-12-10,Vidgen-entity_directed_hostility
+2019,50,244915,2019-12-10,Vidgen-none_of_the_above
+2019,51,206857,2019-12-17,Vidgen-entity_directed_criticism
+2019,51,198612,2019-12-17,Vidgen-entity_directed_hostility
+2019,51,441385,2019-12-17,Vidgen-none_of_the_above
+2019,52,139946,2019-12-24,Vidgen-entity_directed_criticism
+2019,52,44423,2019-12-24,Vidgen-entity_directed_hostility
+2019,52,321016,2019-12-24,Vidgen-none_of_the_above
+2019,53,11861,2019-12-31,Vidgen-entity_directed_criticism
+2019,53,4676,2019-12-31,Vidgen-entity_directed_hostility
+2019,53,44868,2019-12-31,Vidgen-none_of_the_above
+2020,1,78852,2020-01-01,Vidgen-entity_directed_criticism
+2020,1,26261,2020-01-01,Vidgen-entity_directed_hostility
+2020,1,244740,2020-01-01,Vidgen-none_of_the_above
+2020,2,50500,2020-01-08,Vidgen-entity_directed_criticism
+2020,2,25526,2020-01-08,Vidgen-entity_directed_hostility
+2020,2,183327,2020-01-08,Vidgen-none_of_the_above
+2020,3,67446,2020-01-15,Vidgen-entity_directed_criticism
+2020,3,24750,2020-01-15,Vidgen-entity_directed_hostility
+2020,3,173700,2020-01-15,Vidgen-none_of_the_above
+2020,4,65977,2020-01-22,Vidgen-entity_directed_criticism
+2020,4,38886,2020-01-22,Vidgen-entity_directed_hostility
+2020,4,314229,2020-01-22,Vidgen-none_of_the_above
+2020,5,45710,2020-01-29,Vidgen-entity_directed_criticism
+2020,5,16728,2020-01-29,Vidgen-entity_directed_hostility
+2020,5,190567,2020-01-29,Vidgen-none_of_the_above
+2020,6,37625,2020-02-05,Vidgen-entity_directed_criticism
+2020,6,15838,2020-02-05,Vidgen-entity_directed_hostility
+2020,6,142639,2020-02-05,Vidgen-none_of_the_above
+2020,7,46678,2020-02-12,Vidgen-entity_directed_criticism
+2020,7,15780,2020-02-12,Vidgen-entity_directed_hostility
+2020,7,93334,2020-02-12,Vidgen-none_of_the_above
+2020,8,47851,2020-02-19,Vidgen-entity_directed_criticism
+2020,8,13684,2020-02-19,Vidgen-entity_directed_hostility
+2020,8,110961,2020-02-19,Vidgen-none_of_the_above
+2020,9,87881,2020-02-26,Vidgen-entity_directed_criticism
+2020,9,16225,2020-02-26,Vidgen-entity_directed_hostility
+2020,9,131341,2020-02-26,Vidgen-none_of_the_above
+2020,10,65315,2020-03-04,Vidgen-entity_directed_criticism
+2020,10,25349,2020-03-04,Vidgen-entity_directed_hostility
+2020,10,151699,2020-03-04,Vidgen-none_of_the_above
+2020,11,74467,2020-03-11,Vidgen-entity_directed_criticism
+2020,11,43365,2020-03-11,Vidgen-entity_directed_hostility
+2020,11,142520,2020-03-11,Vidgen-none_of_the_above
+2020,12,169963,2020-03-18,Vidgen-entity_directed_criticism
+2020,12,91470,2020-03-18,Vidgen-entity_directed_hostility
+2020,12,296833,2020-03-18,Vidgen-none_of_the_above
+2020,13,123416,2020-03-25,Vidgen-entity_directed_criticism
+2020,13,128825,2020-03-25,Vidgen-entity_directed_hostility
+2020,13,301585,2020-03-25,Vidgen-none_of_the_above
+2020,14,87073,2020-04-01,Vidgen-entity_directed_criticism
+2020,14,73191,2020-04-01,Vidgen-entity_directed_hostility
+2020,14,193983,2020-04-01,Vidgen-none_of_the_above
+2020,15,109441,2020-04-08,Vidgen-entity_directed_criticism
+2020,15,80530,2020-04-08,Vidgen-entity_directed_hostility
+2020,15,179781,2020-04-08,Vidgen-none_of_the_above
+2020,16,124497,2020-04-15,Vidgen-entity_directed_criticism
+2020,16,88029,2020-04-15,Vidgen-entity_directed_hostility
+2020,16,190733,2020-04-15,Vidgen-none_of_the_above
+2020,17,64716,2020-04-22,Vidgen-entity_directed_criticism
+2020,17,53542,2020-04-22,Vidgen-entity_directed_hostility
+2020,17,138119,2020-04-22,Vidgen-none_of_the_above
+2020,18,76705,2020-04-29,Vidgen-entity_directed_criticism
+2020,18,34699,2020-04-29,Vidgen-entity_directed_hostility
+2020,18,118450,2020-04-29,Vidgen-none_of_the_above
+2020,19,101629,2020-05-06,Vidgen-entity_directed_criticism
+2020,19,39269,2020-05-06,Vidgen-entity_directed_hostility
+2020,19,229048,2020-05-06,Vidgen-none_of_the_above
+2020,20,99721,2020-05-13,Vidgen-entity_directed_criticism
+2020,20,42859,2020-05-13,Vidgen-entity_directed_hostility
+2020,20,184416,2020-05-13,Vidgen-none_of_the_above
+2020,21,188524,2020-05-20,Vidgen-entity_directed_criticism
+2020,21,87114,2020-05-20,Vidgen-entity_directed_hostility
+2020,21,479691,2020-05-20,Vidgen-none_of_the_above
+2020,22,196599,2020-05-27,Vidgen-entity_directed_criticism
+2020,22,156395,2020-05-27,Vidgen-entity_directed_hostility
+2020,22,498017,2020-05-27,Vidgen-none_of_the_above
+2020,23,80206,2020-06-03,Vidgen-entity_directed_criticism
+2020,23,104638,2020-06-03,Vidgen-entity_directed_hostility
+2020,23,264673,2020-06-03,Vidgen-none_of_the_above
+2020,24,98441,2020-06-10,Vidgen-entity_directed_criticism
+2020,24,70813,2020-06-10,Vidgen-entity_directed_hostility
+2020,24,232713,2020-06-10,Vidgen-none_of_the_above
+2020,25,162513,2020-06-17,Vidgen-entity_directed_criticism
+2020,25,222852,2020-06-17,Vidgen-entity_directed_hostility
+2020,25,349491,2020-06-17,Vidgen-none_of_the_above
+2020,26,138395,2020-06-24,Vidgen-entity_directed_criticism
+2020,26,78797,2020-06-24,Vidgen-entity_directed_hostility
+2020,26,251727,2020-06-24,Vidgen-none_of_the_above
+2020,27,176486,2020-07-01,Vidgen-entity_directed_criticism
+2020,27,96248,2020-07-01,Vidgen-entity_directed_hostility
+2020,27,435077,2020-07-01,Vidgen-none_of_the_above
+2020,28,91763,2020-07-08,Vidgen-entity_directed_criticism
+2020,28,41627,2020-07-08,Vidgen-entity_directed_hostility
+2020,28,256707,2020-07-08,Vidgen-none_of_the_above
+2020,29,128122,2020-07-15,Vidgen-entity_directed_criticism
+2020,29,43703,2020-07-15,Vidgen-entity_directed_hostility
+2020,29,209930,2020-07-15,Vidgen-none_of_the_above
+2020,30,74039,2020-07-22,Vidgen-entity_directed_criticism
+2020,30,38057,2020-07-22,Vidgen-entity_directed_hostility
+2020,30,169291,2020-07-22,Vidgen-none_of_the_above
+2020,31,91419,2020-07-29,Vidgen-entity_directed_criticism
+2020,31,43612,2020-07-29,Vidgen-entity_directed_hostility
+2020,31,179429,2020-07-29,Vidgen-none_of_the_above
+2020,32,107611,2020-08-05,Vidgen-entity_directed_criticism
+2020,32,46813,2020-08-05,Vidgen-entity_directed_hostility
+2020,32,234736,2020-08-05,Vidgen-none_of_the_above
+2020,33,67638,2020-08-12,Vidgen-entity_directed_criticism
+2020,33,30501,2020-08-12,Vidgen-entity_directed_hostility
+2020,33,196290,2020-08-12,Vidgen-none_of_the_above
+2020,34,56873,2020-08-19,Vidgen-entity_directed_criticism
+2020,34,37086,2020-08-19,Vidgen-entity_directed_hostility
+2020,34,138548,2020-08-19,Vidgen-none_of_the_above
+2020,35,112818,2020-08-26,Vidgen-entity_directed_criticism
+2020,35,60919,2020-08-26,Vidgen-entity_directed_hostility
+2020,35,234031,2020-08-26,Vidgen-none_of_the_above
+2020,36,153176,2020-09-02,Vidgen-entity_directed_criticism
+2020,36,51588,2020-09-02,Vidgen-entity_directed_hostility
+2020,36,473329,2020-09-02,Vidgen-none_of_the_above
+2020,37,100983,2020-09-09,Vidgen-entity_directed_criticism
+2020,37,39912,2020-09-09,Vidgen-entity_directed_hostility
+2020,37,216235,2020-09-09,Vidgen-none_of_the_above
+2020,38,68923,2020-09-16,Vidgen-entity_directed_criticism
+2020,38,27938,2020-09-16,Vidgen-entity_directed_hostility
+2020,38,151990,2020-09-16,Vidgen-none_of_the_above
+2020,39,96154,2020-09-23,Vidgen-entity_directed_criticism
+2020,39,25463,2020-09-23,Vidgen-entity_directed_hostility
+2020,39,140578,2020-09-23,Vidgen-none_of_the_above
+2020,40,78848,2020-09-30,Vidgen-entity_directed_criticism
+2020,40,24569,2020-09-30,Vidgen-entity_directed_hostility
+2020,40,160263,2020-09-30,Vidgen-none_of_the_above
+2020,41,72450,2020-10-07,Vidgen-entity_directed_criticism
+2020,41,25805,2020-10-07,Vidgen-entity_directed_hostility
+2020,41,146441,2020-10-07,Vidgen-none_of_the_above
+2020,42,66959,2020-10-14,Vidgen-entity_directed_criticism
+2020,42,25264,2020-10-14,Vidgen-entity_directed_hostility
+2020,42,228296,2020-10-14,Vidgen-none_of_the_above
+2020,43,51011,2020-10-21,Vidgen-entity_directed_criticism
+2020,43,19012,2020-10-21,Vidgen-entity_directed_hostility
+2020,43,125235,2020-10-21,Vidgen-none_of_the_above
+2020,44,37080,2020-10-28,Vidgen-entity_directed_criticism
+2020,44,21244,2020-10-28,Vidgen-entity_directed_hostility
+2020,44,86084,2020-10-28,Vidgen-none_of_the_above
+2020,45,50612,2020-11-04,Vidgen-entity_directed_criticism
+2020,45,13769,2020-11-04,Vidgen-entity_directed_hostility
+2020,45,75552,2020-11-04,Vidgen-none_of_the_above
+2020,46,56929,2020-11-11,Vidgen-entity_directed_criticism
+2020,46,21845,2020-11-11,Vidgen-entity_directed_hostility
+2020,46,85853,2020-11-11,Vidgen-none_of_the_above
+2020,47,36249,2020-11-18,Vidgen-entity_directed_criticism
+2020,47,21538,2020-11-18,Vidgen-entity_directed_hostility
+2020,47,86035,2020-11-18,Vidgen-none_of_the_above
+2020,48,36770,2020-11-25,Vidgen-entity_directed_criticism
+2020,48,18326,2020-11-25,Vidgen-entity_directed_hostility
+2020,48,77755,2020-11-25,Vidgen-none_of_the_above
+2020,49,56904,2020-12-02,Vidgen-entity_directed_criticism
+2020,49,30592,2020-12-02,Vidgen-entity_directed_hostility
+2020,49,80567,2020-12-02,Vidgen-none_of_the_above
+2020,50,46404,2020-12-09,Vidgen-entity_directed_criticism
+2020,50,30296,2020-12-09,Vidgen-entity_directed_hostility
+2020,50,70533,2020-12-09,Vidgen-none_of_the_above
+2020,51,38464,2020-12-16,Vidgen-entity_directed_criticism
+2020,51,26161,2020-12-16,Vidgen-entity_directed_hostility
+2020,51,69937,2020-12-16,Vidgen-none_of_the_above
+2020,52,32783,2020-12-23,Vidgen-entity_directed_criticism
+2020,52,37768,2020-12-23,Vidgen-entity_directed_hostility
+2020,52,67719,2020-12-23,Vidgen-none_of_the_above
+2020,53,5759,2020-12-30,Vidgen-entity_directed_criticism
+2020,53,5536,2020-12-30,Vidgen-entity_directed_hostility
+2020,53,12110,2020-12-30,Vidgen-none_of_the_above
