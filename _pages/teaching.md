@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-## Current (Univerasity of Turku, Finland)
+## Current
 
 - Quantitative Methods (Spring 2022): OLS.  <a href="https://github.com/hbahamonde/OLS/raw/master/Bahamonde_OLS.pdf"><i class='fa fa-book fa'></i></a>
 
