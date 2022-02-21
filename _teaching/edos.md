@@ -48,6 +48,7 @@ Listas de Exercícios
 * [Lista 03](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/ListaEDO_03.pdf)
 * [Lista 04](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/ListaEDO_04.pdf)
 * [Lista 05](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/ListaEDO_05.pdf)
+* [Lista 06](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/ListaEDO_06.pdf)
 
 
 Slides das Aulas
@@ -57,6 +58,7 @@ Slides das Aulas
 1. [Aula do dia 13/12/2021](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/EDO-aula03-20211213.pdf)
 1. [Aula do dia 14/02/2022](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/EDO-aula04.pdf)
 1. [Aula do dia 16/02/2022](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/EDO-aula-05.pdf)
+1. [Aula do dia 21/02/2022](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/EDO-aula-06.pdf)
 
 
 
