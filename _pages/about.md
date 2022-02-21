@@ -13,7 +13,7 @@ I use binary Convolutional Neural Network and other parallel techniques to deplo
 
 # Latest news  
 
-* I passed my viva on 8th Feb 2022 with minor corrections.
+* I passed my viva on 8th Feb 2022 with minor corrections. (submission on 15th Dec. 2021)
 
 * Our work on the University Press   
   * [Bristol researchers create a camera that knows exactly where it is](http://www.bristol.ac.uk/news/2021/june/camera-maps-where-it--s.html)   
