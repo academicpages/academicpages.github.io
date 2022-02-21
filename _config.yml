@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Batiste Le Bars"
 title_separator          : "-"
 name                     : &name "Batiste Le Bars"
 description              : &description "Postdoc @ Inria "
