@@ -13,9 +13,9 @@ redirect_from:
 
 ## Current
 
-- Quantitative Methods (Spring 2022): OLS.  <a href="https://github.com/hbahamonde/OLS/raw/master/Bahamonde_OLS.pdf"><i class='fa fa-book fa'></i></a>
+- Quantitative Methods (MA students, Spring 2022): OLS.  <a href="https://github.com/hbahamonde/OLS/raw/master/Bahamonde_OLS.pdf"><i class='fa fa-book fa'></i></a>
 
-- Experimental Social Science (Fall 2022).  <a href="http://www.hectorbahamonde.com"><i class='fa fa-book fa'></i></a>
+- Experimental Social Science (PhD students, Fall 2022).  <a href="http://www.hectorbahamonde.com"><i class='fa fa-book fa'></i></a>
 
 
 
