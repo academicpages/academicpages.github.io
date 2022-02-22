@@ -16,7 +16,9 @@ We design a real-time dense local semantic mapping algorithm, MotionSC as a benc
 
 Our approach builds upon the efficient 2D convolution architecture of LMSCNet by incorporating temporal information using temporal pooling layers from [MotionNet](https://arxiv.org/abs/2003.06754). A diagram of our network is shown below, and is comprised of a A Spatio-Temporal Pooling Network backbone with a semantic scene completion head which lifts the dimensionality of the output. The input to the network is a stack of consecutive occupancy grids, which may be maintained without significant additional computational overhead. 
 
-![MotionSC-structure](../images/MotionSC.png)
+<p float="middle">
+  <img src="../images/MotionSC.png" width="100%" /> 
+</p>
 
 The layers of the network can be seen in the graphic below. Each Conv2D operation is followed by a BatchNorm2D and ReLU operation. The parameters of each convolution operation are the number of filters f, kernel size, stride, and padding. Any stride 2 operation reduces the H and W dimensions by half, while stride 1 operations preserve dimensions. Unless otherwise specified, dilation (dil) is 1. The ASPP block sums three 3D convolutions with dilations [1, 2, 3] and paddings of [1, 2, 3].
 

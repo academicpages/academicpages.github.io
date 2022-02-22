@@ -6,7 +6,7 @@
    Custom Styling for About Page
    ========================================================================== */
 
-   .ABOUT-image-block {
+.ABOUT-image-block {
     @include container;
     @include clearfix;
 
@@ -21,7 +21,7 @@
     div {
         text-align: center;
         width: 30%;
-        height: 275px;
+        height: 350px;
         margin: 1%;
         // border-style: solid;
         // border-radius: $border-radius;

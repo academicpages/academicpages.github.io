@@ -41,15 +41,17 @@ Our multi-view scenes include free space labels and minimal occlusions. Each map
 
 There are 23 semantic [classes](https://carla.readthedocs.io/en/latest/ref_sensors/#semantic-segmentation-camera) in the CARLA simulator. We remove all unlabeled points, and use class 0 to instead represent free space. We also remove any observations of the ego-vehicle, resulting in a clean dataset. A histogram of the frequency of all classes is shown below. 
 
-![All](../images/HistogramAll.png) 
+<p float="middle">
+  <img src="../images/HistogramAll.png" width="75%" /> 
+</p>
 
 As can be seen, the distribution of classes is very uneven. Some classes are nearly identical to others, and some classes such as sky do not show up at all. Therefore, we also propose a remapping of the classes to aid with training supervised learning algorithms.
 
-<p align="center">
+<p float="middle">
   <img src="../images/ClassRemapping.png" width="65%" />
 </p>
 <p float="middle">
-  <img src="../images/HistogramRemapped.png" width="100%" /> 
+  <img src="../images/HistogramRemapped.png" width="75%" /> 
 </p>
   
 
