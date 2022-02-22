@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "data scientist // researcher // always curious"
+title: "Earth observation scientist // data scientist // researcher "
 excerpt: "About me"
 author_profile: true
 redirect_from:
