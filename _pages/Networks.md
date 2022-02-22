@@ -18,6 +18,12 @@ Our approach builds upon the efficient 2D convolution architecture of LMSCNet by
 
 ![MotionSC-structure](../images/MotionSC.png)
 
+The layers of the network can be seen in the graphic below. Each Conv2D operation is followed by a BatchNorm2D and ReLU operation. The parameters of each convolution operation are the number of filters f, kernel size, stride, and padding. Any stride 2 operation reduces the H and W dimensions by half, while stride 1 operations preserve dimensions. Unless otherwise specified, dilation (dil) is 1. The ASPP block sums three 3D convolutions with dilations [1, 2, 3] and paddings of [1, 2, 3].
+
+<p float="middle" class="NETWORKS-image">
+  <img src="../images/NetworkVisualization.png"/>
+</p>
+
 The MotionSC network balances accurate and complete real-time performance compared with other state-of-the-art algorithms, and gains a smoothing effect from temporal information. These effects may be seen in the graphs below, or video at the top of the page. More details can be found in our paper.
 
 <p align="center">

@@ -20,7 +20,18 @@ Our dataset consists of 24 sequences, generated from eight maps with a light tra
 * **Complete semantic scene** represented in Cartesian and Cylindrical coordinates. The scene is obtained from twenty randomly placed LiDAR sensors, placed in new locations for every sequence.
 * **Bird's Eye View** image for verification.
 
-Our multi-view scenes include free space labels and minimal occlusions. An example image from our dataset compared to a similar frame in the well-known [Semantic KITTI](http://www.semantic-kitti.org/) dataset is shown below. 
+## Scan Properties
+
+To maintain consistency with SemanticKitti, each scene in **CarlaSC** contains 131,702 cells, which is roughly equal to the number of points in each scan. Scan coordinates are in the ego Lidar frame, where the x direction is forward, y direction is to the right, and z direction is up. The limits on both the cartesian and cylindrical coordinate systems were chosen to be roughly the same as Kitti, and the total volume contained by each nearly the same as well. The resolution for resolution of the cartesian and cylindrical scene is (2.81 degrees, 0.23 m, 0.375 m). While Semantic KITTI voxelizes only the region 51.2 meters in front of the vehicle, we include the region in front and behind the vehicle, as the both regions are important for safe and efficient operation. 
+
+
+The exact dimensions for each scene in cartesian and cylindrical coordinates is shown below.
+
+<p float="middle">
+  <img src="../images/CarlaSCGrid.png" width="100%" />
+</p>
+
+Our multi-view scenes include free space labels and minimal occlusions. Each map divided into a low traffic, medium traffic, and high traffic setting. Low traffic is defined as 25 autonomous pedestrians and vehicles, medium traffic as 50 of each, and high traffic as 100. An example image from our dataset compared to a similar frame in the well-known [Semantic KITTI](http://www.semantic-kitti.org/) dataset is shown below. 
 
 <p float="middle">
   <img src="../images/CarlaKITTI.png" width="100%" />
