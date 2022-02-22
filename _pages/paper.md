@@ -5,12 +5,11 @@ permalink: /paper/
 author_profile: true
 ---
 
-Monday, February 21st:
+Monday, February 28th:
 
-[Harry Oppenheimer](https://scholar.harvard.edu/hoppenheimer/home) (Harvard), presents:
+[Elisa Navarra](https://sites.google.com/view/elisanavarra) (Université libre de Bruxelles - ECARES), presents:
 
-**Title:** ["*Does Data Follow the Flag?*"](https://gsipe-workshop.github.io/files/paper_gsipe_workshop.pdf)
+**Title:** ["*Spillover effects of subsidies on downstream trade*"](https://gsipe-workshop.github.io/files/paper_gsipe_workshop.pdf)
 
 **Abstract:**
-Does data follow the flag? Many authors have argued international conflict, military treaties, and trade agreements impact commerce and trade flows. The internet enables over 15% of global GDP, yet we know little about whether or why international politics impact transnational data flows. This paper analyzes monthly-level changes in the Border Gateway Protocol (BGP) from
-2008-2019. This protocol determines how data is routed through the internet and across borders between over 70,000 internet operators, influencing the speed, price, and reliability of data transfer both across and within national boundaries. I demonstrate that while trade agreements generally do not affect cross-border internet interconnection, agreements preventing data localization, one of the key international data issues, increase customer-to-provider data inter-connection. While the relationship between international conflict and data flows is inconclusive, new military treaties are positively associated with data flows. Despite the prevailing understanding of the internet as “un-territorial” and resistant to border effects and regulation, the internet’s structure does follow the flag.
+Corporate subsidies are at the center of the political, economic, and trade policy debate as a major source of controversy in the world trading system. Subsidization of industrial activities is often considered to distort the allocation of scarce resources and generate friction in international trade. Much attention has been devoted to direct subsidies, but there is scarce evidence on the indirect effect of government support on downstream trade. In the present study, I use detailed information on US subsidies to examine the effect of government support on the export performance of the recipient industries and industries that use subsidized goods and services as inputs of production. I address endogeneity concerns by re-adapting a shift-share instrument developed by Bown et al. (2021). The instrument leverages the exogenous variation in the political importance of US battleground states across electoral terms and the importance of industries within states. I estimate that corporate subsidies boost the export performance of the targeted industries and increase exports of indirectly exposed (downstream) industries.
