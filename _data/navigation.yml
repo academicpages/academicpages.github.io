@@ -3,14 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Education"
-    url: /education/
-
-  - title: "Employment"
-    url: /employment/
-
-  # - title: "CV"
-  #   url: /cv/
+  - title: "Academic CV"
+    url: /cv/
 
   # - title: "Talks"
   #   url: /talks/
@@ -20,6 +14,3 @@ main:
 
   - title: "Other Stuff"
     url: /otherstuff/
-
-  # - title: "Guide"
-  #   url: /markdown/
