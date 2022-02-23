@@ -1,8 +1,8 @@
 ---
+layout: archive
 permalink: /research/
 title: "Trial"
 author_profile: true
-
 ---
 
 ## Locations of key files/directories
