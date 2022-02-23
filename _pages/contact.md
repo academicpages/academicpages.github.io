@@ -12,4 +12,3 @@ Phone: +1-514-699-9655
 Leacock Building, Room 414
 855 Sherbrooke Street West
 Montreal, QC, Canada H3A 2T7
-  
