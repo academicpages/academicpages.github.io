@@ -2,9 +2,7 @@
 permalink: /research/
 title: "Trial"
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
+
 ---
 
 ## Locations of key files/directories
