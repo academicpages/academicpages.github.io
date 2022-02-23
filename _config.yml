@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Benjamin Lucas"
-  avatar           : "profile.jpg" # GET PICTURE FOR HERE!!!!!!!!!!!!!!!!!!!!!!! <---------------------------
+  avatar           : "profile.png" # GET PICTURE FOR HERE!!!!!!!!!!!!!!!!!!!!!!! <---------------------------
   bio              : "Postdoctoral Research Scientist"
   location         : "Boulder, CO"
   employer         :
