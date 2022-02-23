@@ -9,7 +9,7 @@ redirect_from:
 
 ## Peer-Reviewed Articles
 
--  Hector Bahamonde (2022). "Still for Sale: The Micro-Dynamics of Vote Selling in the United States, Evidence from a List Experiment." In: Acta Politica 57.1, pp. 73-95. <br/> [[Paper]](https://doi.org/10.1057/s41269-020-00174-4) [[Data]](https://github.com/hbahamonde/Replication_Materials/tree/master/AP_2020).
+-  Hector Bahamonde (2022). "Still for Sale: The Micro-Dynamics of Vote Selling in the United States, Evidence from a List Experiment." In: Acta Politica 57.1, pp. 73-95. <br/> [[Paper]](https://doi.org/10.1057/s41269-020-00174-4) [[Data]](https://github.com/hbahamonde/Replication_Materials/tree/master/AP_2020)
 
 -  Hector Bahamonde and Mart Trasberg (2021). "Inclusive Institutions, Unequal Outcomes: Democracy, State Capacity, and Income Inequality." In: European Journal of Political Economy 70. May, p. 102048. <br/> [[Paper]](https://doi.org/10.1016/j.ejpoleco.2021.102048) [[Cumulative Census Data]](https://github.com/hbahamonde/Inequality_State_Capacity/raw/main/Bahamonde_Trasberg_%20Cumulative%20census_Replication_Data.dta) [[Media coverage (NYT)]](https://www.nytimes.com/2021/08/04/opinion/biden-eviction-covid-democrats.html)
 
