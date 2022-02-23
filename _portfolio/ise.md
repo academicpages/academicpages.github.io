@@ -11,7 +11,7 @@ collection: portfolio
 * [Celline Kim](https://j1wonkim.github.io/posts/celline/) (Undergraduate researcher)
 * [Karina Nehra](https://j1wonkim.github.io/posts/karina/) (Undergraduate researcher)
 
-<br/><img src='/images/ISE_s22_group_picture.jpg'>{: width="200" }
+<br/><img src='/images/ISE_picture_4.jpg'>{: width="150" }
 
 
 ### Former Members
