@@ -9,6 +9,6 @@ Phone: +1-514-699-9655
 
   
 ## Mailing Address  
-Apt. 307, 6001 Cote Saint-Luc Road   
-Hempstead, Quebec   
-Canada H3X 2G4   
+Leacock Building, Room 414  
+855 Sherbrooke Street West  
+Montreal, QC, Canada H3A 2T7
