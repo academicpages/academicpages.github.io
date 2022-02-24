@@ -26,6 +26,7 @@ redirect_from:
 
 ## In Preparation
 
+- Hector Bahamonde and Outi Sarpila. "Physical Appearance and Turnout in Finland: An Inequality Perspective." <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Physical/main/abstract.rtf)
 
 - **Skyrocketed Inequality and (Un)lockdown Political Elites in Chile: Aerodrome Usage during Pandemic Times**. <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Tobalaba/main/abstract.txt). **Data analyses**. With Paz Irarrazabal (U-Chile).
 
