@@ -8,6 +8,15 @@ redirect_from:
   - /home.html
 ---
 
+excerpt: 
+header:
+  overlay_image: /assets/images/rainynight_ac.jpeg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: 
+  actions:
+    - label: 
+      url:
+
 Welcome to my personal website!
 
 I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/economics/) at [McGill University](https://www.mcgill.ca/). My research interests are in the areas of Development Economics, Applied Micro Economics, and Institutional Economics.
