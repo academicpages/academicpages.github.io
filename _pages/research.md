@@ -12,7 +12,7 @@ title: "Research"
 * “Assessing the Impact of Judicial Independence in Developing Countries: Evidence from Rural Bangladesh” (with Matthieu Chemin)
 * “Beliefs about Uncertain Technologies: Experimental Evidence from a Coordination Game in Peru” (with Jim Engle-Warnick, Javier Escobal, and Sonia Laszlo)
 
-## Publications
+## Book Chapter
 
 * “Food Insecurity, Price Volatility and Trade: A Panel Data Analysis in Developing Countries” (with Panchanan Das and Swayambhu Mukherjee), Indian Agriculture under Multilateral and Regional Trade Agreements - Competitiveness and Food Security, Sharma and Bathla (eds.), Bookwell, Delhi, 2017, 177-194. [Full Paper](/files/pdf/Food Insecurity, Price Volatility, and Trade.pdf)
 
