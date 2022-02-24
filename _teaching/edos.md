@@ -48,7 +48,7 @@ Listas de Exercícios
 * [Lista 03](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/ListaEDO_03.pdf)
 * [Lista 04](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/ListaEDO_04.pdf)
 * [Lista 05](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/ListaEDO_05.pdf)
-* [Lista 06](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/ListaEDO_06.pdf)
+* [Lista 06](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/listaEDO_06.pdf)
 
 
 Slides das Aulas
