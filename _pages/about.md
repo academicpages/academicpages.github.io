@@ -13,8 +13,6 @@ I am a PhD student in Computer Science in the [Khoury College of Computer Scienc
 
 I received my Bachelor's degree in Computer Science in [Sichuan University](http://www.scu.edu.cn), Chengdu, China.
 
-<br><br>
-
 ## Publication
 
 ![](images/equi_transporter.png){: .align-right width="200px"}
