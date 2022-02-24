@@ -143,9 +143,9 @@ Submitted and under review
 
 112. Y. Alfadhli, R. Sarkar, H. Gupta, S. Yao, M. Sethuraman, C.-W. Hsu, S.-J. Su,  G.-K. Chang, and X. Ma, “P4MEC: Empowering In-network Computing to Support Cooperative-URLLC Services at the Aggregation Layer,” *Journal of Network and Computer Applications*, submitted Oct. 2021.
 113. S. Yao, X. Tang, R. Zhang, Q. Zhou, S.-J. Su, C.-W. Hsu, Y. M. Alfadhli, X. Ma, and G.-K. Chang, “Accelerating LMS-based Equalization with Correlated Training Sequence in Bandlimited IM/DD Systems,” *IEEE/Optica Publishing Group Journal of Lightwave Technology*, submitted Jan. 2022.
-114. D. Huang, S. Zhang, and X. Ma, “Block Confirmation Time Analysis for PBFT Consensus in Permissioned Blockchains,” *IEEE/ACM Transactions on Networking*,submitted Jan. 2022.
-115. K. Zheng and X. Ma, “Designing learning-based adversarial attacks to (MIMO-)OFDM systems with adaptive modulation,” *IEEE Transactions on Wireless Communications*,submitted Feb. 2022.
-116. Z. He and X. Ma, “Improving Radio Tomographic Imaging Accuracy by Attention Augmented Optimization Technique,” *IEEE Wireless Communications Letters*,submitted Feb. 2022.
+114. D. Huang, S. Zhang, and X. Ma, “Block Confirmation Time Analysis for PBFT Consensus in Permissioned Blockchains,” *IEEE/ACM Transactions on Networking*, submitted Jan. 2022.
+115. K. Zheng and X. Ma, “Designing learning-based adversarial attacks to (MIMO-)OFDM systems with adaptive modulation,” *IEEE Transactions on Wireless Communications*, submitted Feb. 2022.
+116. Z. He and X. Ma, “Improving Radio Tomographic Imaging Accuracy by Attention Augmented Optimization Technique,” *IEEE Wireless Communications Letters*, submitted Feb. 2022.
 117. D. Guidotti, B. Yang, M. S. Omar, S.-J. Su, Y. M. Alfadhli, G.-K. Chang, and X. Ma, “Small Formfactor Beamforming for Simultaneous Spatial and Channel Diversity Communications,” *IEEE Transactions on Antennas and Propagation*, submitted Feb. 2022.
 
 **Conference Publications**
