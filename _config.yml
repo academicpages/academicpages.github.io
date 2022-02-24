@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anna Maria Langmüller"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Anna Maria Langmüller"
 description              : &description "MSCA postdoctoral fellow at Cornell University"
