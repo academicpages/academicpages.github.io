@@ -19,7 +19,7 @@ I received my Bachelor's degree in Computer Science in [Sichuan University](http
 
 ![](images/equi_transporter.png){: .align-right width="200px"}
 **Equivariant Transporter Network**  
-Haojie Huang, **Dian Wang**, Robin Walter, Robert Platt  
+Haojie Huang, **Dian Wang**, Robin Walters, Robert Platt  
 *Preprint*  
 [(PDF)](https://arxiv.org/pdf/2202.09400.pdf)
 ` `  
