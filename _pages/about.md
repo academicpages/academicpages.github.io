@@ -15,7 +15,7 @@ I received my Bachelor's degree in Computer Science in [Sichuan University](http
 
 <br><br>
 
-# Publication
+## Publication
 
 ![](images/equi_transporter.png){: .align-right width="200px"}
 **Equivariant Transporter Network**  
@@ -81,7 +81,7 @@ Ondrej Biza, **Dian Wang**, Robert Platt, Jan-Willem van de Meent, Lawson LS Won
 ` `  
 ` `  
 
-# Education
+## Education
 + (2020-Present) PhD student, Computer Science, Northeastern University, Boston, USA
 + (2017-2019) M.S, Computer Science, Northeastern University, Boston, USA
 + (2013-2017) B.Eng, Computer Science & Technology, Sichuan University, Chengdu, China
