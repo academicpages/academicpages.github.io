@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome home"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-I harbor a love for all things living and wish to see harmony. My goal is to remain an objective observer of all things, and I am driven in pursuit of morally uncompromising challenge.
+I am a first year PhD student at the University of Washington in the department of Earth and Space Sciences and advised by Dr. Brad Lipovsky. My interests involve approaching questions in Earth and Planetary science with machine learning and other techniques in data science.
 
 
 
