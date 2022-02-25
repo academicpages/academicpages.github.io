@@ -15,7 +15,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Edasi Avahlet"
+title                    : "Edasi Koduleht"
 title_separator          : "-"
 name                     : &name "Simon Hans Edasi"
 description              : &description "personal description"
