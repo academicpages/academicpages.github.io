@@ -15,21 +15,18 @@ Contact: zhuo [dot] sun [dot] 19 [at] ucl.ac.uk
 
 
 
-Research Interest
-======
+### Research Interest
 In general, I am very interested in __computational statistics__ and __machine learning__. I am also very interested in applications of statistics and machine learning.
 
 
-Academic Activities
-======
-* This year, I am an [Enrichment student](https://www.turing.ac.uk/news/turing-welcomes-next-generation-data-enthusiasts-academic-institutions-across-uk) at [The Alan Turing Institute](https://www.turing.ac.uk).
-* Organiser of 2022 [Statistics in Data-Centric Engineering (S-DCE)](https://sites.google.com/view/dce-reading-group) Seminars at The Alan Turing Institute.
+### Academic Activities
+   * This year, I am an [Enrichment student](https://www.turing.ac.uk/news/turing-welcomes-next-generation-data-enthusiasts-academic-institutions-across-uk) at [The Alan Turing Institute](https://www.turing.ac.uk).
+   
+   * Organiser of 2022 [Statistics in Data-Centric Engineering (S-DCE)](https://sites.google.com/view/dce-reading-group) Seminars at The Alan Turing Institute.
 
 
 
-Publication
-======
-
+### Publication
 
 *  __Sun, Z.__, Barp, A., Briol, F.-X.(2021). Vector-Valued Control Variates _[(pre-print)](https://arxiv.org/abs/2109.08944)_.
     * awarded a Student Paper Award from the Section on Bayesian Statistical Science (SBSS) of the American Statistical Association (ASA) [(__2022 ASA SBSS Student Paper Competition Award__)]().
@@ -43,8 +40,8 @@ Publication
 
 
 
-Talks/Presentations
-======
+### Talk/Presentation
+
 *  Incoming Talk at topic-contributed sessions of _[Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2022/)_, August 2022, USA.
 *  Poster at _[Statistics at Bristol: FRY](https://web-eur.cvent.com/event/a5a8878f-5ff8-457d-ad63-09fc66f9afd2/websitePage:645d57e4-75eb-4769-b2c0-f201a0bfc6ce?RefId=HIMR&rp=00000000-0000-0000-0000-000000000000)_, September 2021, UK. 
 *  Talk at _[International Conference on Monte Carlo Methods and Applications](https://www.uni-mannheim.de/mcm-2021/)_ (Special Session on Stein's method), August 2021, German.
