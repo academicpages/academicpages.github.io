@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first year PhD student at the University of Washington in the department of Earth and Space Sciences and advised by Dr. Brad Lipovsky. My interests involve approaching questions in Earth and Planetary science with machine learning and other techniques in data science.
+I am a first year PhD student at the University of Washington in the department of Earth and Space Sciences advised by Dr. Brad Lipovsky. I am interested in approaching questions in Planetary Sciences with machine learning and other data science techniques.
 
 
 
