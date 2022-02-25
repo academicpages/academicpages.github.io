@@ -9,14 +9,19 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 
 ## Ongoing Statistical Methods Papers
 
+**[Federated Adaptive Causal Estimation (FACE) for Target Treatment Effects](https://arxiv.org/abs/2112.09313)**.  
+*2022 ASA Young Investigator Award of the Section on Statistics in Epidemiology.*  
+**Han L,** Hou J, Cho K, Duan R, Cai T.  
+We develop a novel framework for estimating causal effects in federated data settings. Our method guarantees no negative transfer and adaptively combines information from multiple sites for optimal efficiency in the presence of heterogeneity.
+
 **[On the Evaluation of Surrogate Markers in Real World Data Settings](https://arxiv.org/abs/2104.05513)**.    
 *2021 John Van Ryzin Award and ENAR Distinguished Student Paper Award.*    
 **Han L,** Wang X, Cai T.  
 We provide doubly robust estimation and inference for the proportion of treatment effect on a true outcome that is explained by a surrogate marker in observational data settings.
 
-**[Federated Adaptive Causal Estimation (FACE) for Target Treatment Effects](https://arxiv.org/abs/2112.09313)**.  
-**Han L,** Hou J, Cho K, Duan R, Cai T.  
-We develop a novel framework for estimating causal effects in federated data settings. Our method guarantees no negative transfer and adaptively combines information from multiple sites for optimal efficiency in the presence of heterogeneity.
+**Privacy-preserving and Communication-efficient Causal Inference for Hospital Quality Measurement**.  
+**Han L,** Li Y, Niknam B, Zubizarreta J.  
+We leverage federated multi-hospital data for hospital ranking and quality measurement purposes.
 
 **Representative and Optimal Sensitivity Analysis (ROSA) for Clinical Trials**.  
 **Han L,** Arfe A, Trippa L.  
@@ -25,10 +30,6 @@ This paper develops a principled approach for sensitivity analysis of design par
 **Doubly Robust Semi-supervised Estimation of Survival**.    
 **Han L,** Hou J, Cai T.  
 This paper develops semi-supervised, transfer learning methods to improve efficiency of pragmatic trials when the study endpoint is time-to-event and is captured using imperfect surrogates in electronic health records.
-
-**Privacy-preserving and Communication-efficient Causal Inference for Hospital Quality Measurement**.  
-**Han L,** Li Y, Niknam B, Zubizarreta J.  
-We leverage federated and heterogeneous multi-hospital data for hospital ranking and quality measurement purposes.
 
 **Principal Resampling for Causal Inference**.  
 Han S, **Han L,** Zubizarreta, J.  
@@ -115,7 +116,7 @@ Tang W, **Han L,** Best J, Zhang Y, Mollan K, Kim J, Liu F, Hudgens M, Bayus B, 
 
 **[Social innovation in health: Monitoring and evaluation framework](https://socialinnovationinhealth.org/monitoring-evaluation-framework/)**.  
 WHO/TDR (2021).   
-SIHI Working Group (**Han L,** Chen E, Tucker J, et al).
+**Han L,** Chen E, Tucker J, et al (SIHI Working Group).
 
 **[Crowdsourcing in health and medical research: a systematic review](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-020-0622-9)**.  
 Infectious Diseases of Poverty (2020).  
