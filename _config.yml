@@ -155,7 +155,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
-remote_theme: slate
+theme: slate
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
