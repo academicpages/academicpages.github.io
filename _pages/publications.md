@@ -12,9 +12,9 @@ Selected Journal Papers
 ------------------------
 
 * **"Astraea: Grammar-based fairness testing."** 
-**Soremekun, Ezekiel***, Sakshi Udeshi*, and Sudipta Chattopadhyay. 
-IEEE Transactions on Software Engineering (2022). * equal contribution.
-[preprint](https://arxiv.org/pdf/2010.02542)
+**Soremekun, Ezekiel**\*, Sakshi Udeshi\*, and Sudipta Chattopadhyay. 
+IEEE Transactions on Software Engineering (2022). \* equal contribution.
+[link](https://ieeexplore.ieee.org/document/9678017) [preprint](https://arxiv.org/pdf/2010.02542)
 
 * **"Locating faults with program slicing: an empirical analysis."**
 **Soremekun, Ezekiel**, Lukas Kirschner, Marcel Böhme, and Andreas Zeller.
