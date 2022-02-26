@@ -8,6 +8,27 @@ author_profile: true
 For full list of publications check [Google Scholar](https://scholar.google.co.uk/citations?user=r8T1-yoAAAAJ&hl=en&oi=ao) 
 and [DBLP](https://dblp.org/pid/200/2864.html).
 
+Selected Journal Papers
+------------------------
+
+* **"Astraea: Grammar-based fairness testing."** 
+**Soremekun, Ezekiel***, Sakshi Udeshi*, and Sudipta Chattopadhyay. 
+IEEE Transactions on Software Engineering (2022). * equal contribution.
+[preprint](https://arxiv.org/pdf/2010.02542)
+
+* **"Locating faults with program slicing: an empirical analysis."**
+**Soremekun, Ezekiel**, Lukas Kirschner, Marcel Böhme, and Andreas Zeller.
+Empirical Software Engineering 26, no. 3 (2021): 1-45. 
+[link](https://link.springer.com/article/10.1007/s10664-020-09931-7)
+[preprint](https://arxiv.org/pdf/2101.03008)
+
+* **"Inputs from Hell Learning Input Distributions for Grammar-Based Test Generation."**
+**Soremekun, Ezekiel**, Esteban Pavese, Nikolas Havrikov, Lars Grunske, and Andreas Zeller. 
+IEEE Transactions on Software Engineering (2020)
+[link](https://ieeexplore.ieee.org/abstract/document/9154602)
+[preprint](https://publications.cispa.saarland/3167/7/inputs-from-hell.pdf)
+
+
 Selected Conference Papers
 --------------------------
 
@@ -42,26 +63,6 @@ In 2017 32nd IEEE/ACM International Conference on Automated Software Engineering
 [link](https://ieeexplore.ieee.org/abstract/document/8115639)
 [preprint](https://publications.cispa.saarland/1436/1/ase17-mainp148.pdf)
 
-Selected Journal Papers
-------------------------
-
-* **"Astraea: Grammar-based fairness testing."** 
-**Soremekun, Ezekiel**, Sakshi Udeshi, and Sudipta Chattopadhyay. 
-IEEE Transactions on Software Engineering (2022)
-[preprint](https://arxiv.org/pdf/2010.02542)
-
-
-* **"Locating faults with program slicing: an empirical analysis."**
-**Soremekun, Ezekiel**, Lukas Kirschner, Marcel Böhme, and Andreas Zeller.
-Empirical Software Engineering 26, no. 3 (2021): 1-45. 
-[link](https://link.springer.com/article/10.1007/s10664-020-09931-7)
-[preprint](https://arxiv.org/pdf/2101.03008)
-
-* **"Inputs from Hell Learning Input Distributions for Grammar-Based Test Generation."**
-**Soremekun, Ezekiel**, Esteban Pavese, Nikolas Havrikov, Lars Grunske, and Andreas Zeller. 
-IEEE Transactions on Software Engineering (2020)
-[link](https://ieeexplore.ieee.org/abstract/document/9154602)
-[preprint](https://publications.cispa.saarland/3167/7/inputs-from-hell.pdf)
 
 Thesis
 -------

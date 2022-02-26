@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Software Engineering, American University of Nigeria, 2010
-* M.Sc. in Computer Science, African University of Science & Technology, 2011
-* Graduate School, Computer Science, Saarland University, 2016
 * Ph.D in Software Engineering, Saarland University, 2021
+* Graduate School, Computer Science, Saarland University, 2016
+* M.Sc. in Computer Science, African University of Science & Technology, 2011
+* B.Sc. in Software Engineering, American University of Nigeria, 2010
 
 Work experience
 ======
@@ -31,7 +31,7 @@ Work experience
 
 * Sept. 2019 to Dec. 2019: Visiting Researcher 
   * ASSET (Automated Systems SEcuriTy) Research Group 
-  * Supervisor: Prof. Sudipta Chattopadhyay) 
+  * Supervisor: Prof. Sudipta Chattopadhyay
   * Singapore University of Technology and Design, Singapore
 
 * Feb. 2016 to Dec. 2018: Researcher 
@@ -55,6 +55,6 @@ Skills
 
 * Artificial Intelligence (AI) and Machine Learning (ML) 
   * Analysis and Testing of AI/ML systems 
-  * Bias and Fairness Mitigation
+  * Bias/Fairness Mitigation
   * AI/ML Security
 
