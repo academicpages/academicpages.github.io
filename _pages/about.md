@@ -19,20 +19,21 @@ at the
 Professional Experience
 -----------------------
 Ezekiel was previously a researcher (and PhD candidate) at the [Software Engineering Research Group](https://andreas-zeller.info) 
-(of Prof. Dr. Andreas Zeller) of 
-[CISPA Helmholtz Center for Information Security](https://cispa.de/en) and a visiting researcher at the 
+(of Prof. Dr. Andreas Zeller) at 
+[CISPA Helmholtz Center for Information Security](https://cispa.de/en), [Saarland University](https://www.uni-saarland.de/en/home.html).
+He was also a visiting researcher at the 
 [Automated Systems SEcuriTy (ASSET) Research Group](https://asset-group.github.io) 
 (of Prof. Dr. Sudipta Chattopadhyay) at 
 [SUTD](https://www.sutd.edu.sg) -- Singapore University of Technology and Design. 
 
 Education
 ---------
-Ezekiel possesses a 
+Ezekiel has a
 PhD in Software Engineering (2021) from 
 [Saarland University](https://www.uni-saarland.de/en/home.html). 
 He was also a graduate student (2013-2016) at the 
 [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de).
-He also possesses an
+He also obtained an
 MSc in Computer Science (2011) from 
 [African University of Science and Technology](https://aust.edu.ng)
 and a BSc in Software Engineering (2010) from
@@ -41,7 +42,7 @@ and a BSc in Software Engineering (2010) from
 
 Research
 -------------------
-Ezekiel's research is primarily focused on **software engineering** (SE), especially **software validation**. 
+Ezekiel's research is primarily focused on **software engineering** (SE), especially **software validation**, i.e., validating software quality.
 This includes SE research concerns such as **automated debugging**, **software testing**, 
 **program analysis**, and **security testing**. 
 He is interested in studying both functional properties (e.g., correctness)
@@ -49,8 +50,7 @@ and non-functional properties (e.g., security, robustness, and fairness) of
 software systems, including aritificial intelligence (AI) -driven systems (e.g., automated classifiers). 
 
 Ezekiel's research objective is to **apply scientific methods to validate software systems**. 
-Software systems have become increasingly complex, such that it is impossible to ensure their
-correctness without systematic validation. The main research goal is to address these key challenges 
+His main research goal is to address key challenges in software validation  
 by **developing methods and tools to support developers during software testing and debugging activities**.
 
 The over-arching research aim is to provide useful validation techniques, tools and empirical data for the following:
