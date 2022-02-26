@@ -45,7 +45,7 @@ In general, I am very interested in __computational statistics__ and __machine l
 
 
 ## Selected Award
-* Best Student Paper Award from the Section on Bayesian Statistical Science (SBSS) of the American Statistical Association (ASA) [(_2022 ASA SBSS Student Paper Competition Award_)](), 2021.
+* Best Student Paper Award from the Section on Bayesian Statistical Science (SBSS) of the American Statistical Association (ASA) [(_2022 ASA SBSS Student Paper Competition Award_)](), 2022.
 * Silver Medal for Best poster at the conference Bristol: FRY, 2021.
 * Enrichment Award (PhD), 2021.
 * EPSRC PhD Scholarship, 2019-2023.
