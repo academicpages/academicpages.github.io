@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Download
+<!-- Download
 ======
-You can download the pdf [here](http://artemisp.github.io/files/CV.pdf)
+You can download the pdf [here](http://artemisp.github.io/files/CV.pdf) -->
 
 
 Education
 ======
 * Dual Degree in Artificial Intelligence:
-  * BA in Cognitive Science and Philosophy (Hons), University of Pennsylvania, 2020
+  * BA in Cognitive Science and Philosophy (Honors), University of Pennsylvania, 2020
   * BAS in Computer and Cognitive Science, University of Pennsylvania, 2020
     * Minor: Mathematics
     * Dean's List (Aug, 2017 - May, 2020)
@@ -73,6 +73,8 @@ Awards and Funding
 
 Leadership and Activities
 ======
+* Alexa Taskbot Challenge: Team Co-Lead (Aug, 2021-Present)
+  * Co-Lead University of Pennsylvania's Team for the Alexa Taskbot Challenge. We implemented a live Alexa Skill that guides users through tasks and recipes. 
 * Scavenger Hunt Robot: HRI Team  (Aug - Dec, 2019)
   * Built a HRI system that incorporates voice commands and a scratch-like interface for the operation of a robot performing tasks specified at the UT Austin Scavenger Hunt competition. 
 * Mind, Intelligence, Research, and Analysis (MIRA) Group  (May, 2018 - Aug, 2019) 
