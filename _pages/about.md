@@ -25,7 +25,7 @@ Please also find more information from my
 
 News
 ------
-- Feb 2: [Our paper](https://openreview.net/forum?id=M6M8BEmd6dq) has been accepted to [ICLR 2022](https://iclr.cc/). 
+- Feb 2: [Our paper](https://openreview.net/forum?id=M6M8BEmd6dq) has been accepted to [ICLR 2022](https://iclr.cc/). Here is the [press release](https://linecorp.com/en/pr/news/en/2022/4123).
 - Oct 5: New [preprint](https://arxiv.org/abs/2110.00708) of our IJCB paper is now available on ArXiv. 
 - July 24: Our [IJCB paper](https://ieeexplore.ieee.org/document/9484380) is now available.
 <!-- - July 18: I will be presenting at [TPDP 2021](https://tpdp.journalprivacyconfidentiality.org/2021/).  -->
