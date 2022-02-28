@@ -14,7 +14,7 @@ author_profile: false
 |Th, Feb 10, 2022| 1:30pm - 2:30pm | Zhichao Wang | Min-max minimal hypersurfaces with higher multiplicity | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Feb 17, 2022| 1:30pm - 2:30pm | Peng Zhou | Variation of GIT quotients and Variation of Lagrangian skeleton | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Feb 24, 2022| 1:30pm - 2:30pm | Alex Waldron | Strict type-II blowup in harmonic map flow | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
-|Th, Mar 3, 2022| 1:30pm - 2:30pm | Andrew Sageman-Furnas |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
+|Th, Mar 3, 2022| 1:30pm - 2:30pm | Andrew Sageman-Furnas | Constructing isometric tori with the same curvatures | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Mar 10, 2022| 1:30pm - 2:30pm | spring break |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Mar 17, 2022| 1:30pm - 2:30pm | Laura Starkston |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Mar 24, 2022| 1:30pm - 2:30pm | Christos Mantoulidis |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
