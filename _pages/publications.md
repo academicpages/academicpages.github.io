@@ -21,4 +21,4 @@ In _SIGDIAL – Special Interest Group on Discourse and Dialogue: SIGDIAL 2021 (
 
 **[Reranking of responses using transfer learning for a retrieval-based chatbot](http://workshop.colips.org/wochat/@iwsds2019/documents/IWSDS_2019_paper_8.pdf)** <br>
 **Ibrahim Taha Aksu**, Nancy F. Chen, Luis Fernando D’Haro, Rafael Banchs <br>
-In _Tenth International Workshop on Spoken Dialogue Systems Technology (IWSDS) 2019: IWSDS 2019_. IWSDS 2019. <br>
+In _Tenth International Workshop on Spoken Dialogue Systems Technology: IWSDS 2019_. IWSDS 2019. <br>
