@@ -27,6 +27,9 @@ Updates
 <summary>2022</summary>
 <ul>
   <li>
+    28 Feb - Became a reviewer member at [The ReScience C](http://rescience.github.io/)
+  </li>
+  <li>
     3 Feb - Received Registraion Grant for AAAI22
   </li>
   <li>
