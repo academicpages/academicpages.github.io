@@ -18,6 +18,12 @@ Avaliação
 ======
 Será considerada para a avaliação uma prova escrita individual para cada uma das três unidades. A média final será a média aritmética simples das notas dessas unidades. 
 
+Datas das Provas
+======
+* Primeira prova: 11/03/2022
+* Segunda prova: 15/04/2022
+* Terceira prova: 31/05/2022
+
 Bibliografia
 ======
 * do Carmo, M. P., Morgado, A. C., Wagner, E., Trigonometria e Números Complexos, Coleção do Professor de Matemática, SBM, 1992.
