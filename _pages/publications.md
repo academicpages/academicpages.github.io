@@ -3,12 +3,7 @@ title: "Selected Publications[[All](https://scholar.google.com/citations?user=dD
 permalink: /publications/
 author_profile: true
 ---
-**Tech reports**
-* <b>Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer</b> <br> 
-  <b>Xiangde Luo</b>, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang<br>
-  <i>This is a tech report about our [SSL4MIS](https://github.com/HiLab-git/SSL4MIS) project, the work is still ongoing.<br>
-  [[paper](https://arxiv.org/pdf/2112.04894.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
-  
+**Tech reports**  
 * <b>WORD: Revisiting Organs Segmentation in the Whole Abdominal Region</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jianghong Xiao, Tao Song, Xiaofan Zhang, Kang Li, Guotai Wang, Shaoting Zhang<br>
   <i>This is a tech report, the work is still ongoing.<br>
@@ -31,6 +26,10 @@ author_profile: true
    [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521001481)][[code](https://github.com/Luoxd1996/MIDeepSeg)][[demo](https://www.youtube.com/watch?v=eq-tqlJnckE)]
    
 **Conferences**
+* <b>Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer</b> <br> 
+  <b>Xiangde Luo</b>, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang<br>
+  <i>Medical Imaging with Deep Learning</i>. <b>MIDL2022</b>.<br>
+  [[paper](https://openreview.net/pdf?id=KUmlnqHrAbE)][[code](https://github.com/HiLab-git/SSL4MIS)]
   
 * <b>Efficient Semi-Supervised Gross Target Volume of Nasopharyngeal Carcinoma Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Nianyong Chen, Guotai Wang, Shaoting Zhang<br>
