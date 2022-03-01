@@ -14,26 +14,25 @@ Education
 * Doctor of Philosophy in Machine Learning, Monash University, 2021
 * Master of Analytics, RMIT University, 2017
 * Master of Urban Planning, University of Melbourne, 2010
-* Bachelor of Science, with double major in Mathematics and Geography, University of Melbourne, 2008
+* Bachelor of Science, in Math & Stats and Geography, University of Melbourne, 2008
 
 Research positions
 ======
 * Current: Postdoctoral Research Associate
-  * University of Colorado Boulder
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Department of Geography, University of Colorado Boulder
+  * Focus: Machine learning for Sea Ice classification from SAR data
 
-* Research Associate
-  * Monash University
+* 2017: Research Associate
+  * Faculty of Information Technology, Monash University
+  * Focus: Scalable time series classification
 
 Research interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Earth observation / Remote sensing
+* Applied machine learning
+* Spatio-temporal machine learning
+* Time series classification and forecasting
+* Sports analytics
 
 Publications
 ======
