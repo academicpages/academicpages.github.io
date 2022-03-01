@@ -15,6 +15,7 @@ redirect_from:
 
 
 # Recent News
+* Mar. 1, 2022, Our paper <b>Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer</b> was accepted by <b>MIDL2022</b>, thanks to all co-authors, [code](https://github.com/HiLab-git/SSL4MIS) and [paper](https://openreview.net/pdf?id=KUmlnqHrAbE) are available.
 * Oct. 21, 2021, Our paper <b>SCPM-Net:An Anchor-free 3D Lung Nodule Detection Network using Sphere Representation and Center Points Matching</b> was accepted by <b>Medical Image Analysis</b>, thanks to all co-authors, [code](https://github.com/HiLab-git/SCPM-Net) and [paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521003327) are available.
 * Aug. 29, 2021, We released a 2D inference code and GUI of MIDeepSeg (published in MedIA2021), the repo at [MIDeepSeg](https://github.com/HiLab-git/MIDeepSeg).
 * Jun. 21, 2021, I have joined [Shanghai AI Lab](https://www.shlab.org.cn/pc/home)  as a research intern.
