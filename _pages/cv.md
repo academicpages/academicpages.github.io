@@ -22,8 +22,10 @@ Education
 Work experience
 ======
 * March 2020 - Present: Data Analyst at Max Planck Institute of Human Cognitive and Brain Sciences (Research Group Learning in Early Childhood)
+  * Designing pipelines for NIRS-EEG data 
   * Analyzing and developing pipelines for fMRI Data
   * Running quality control on MRI scans
+  * Optimizing NLP models to infer from multimodal neuroimaging data
   * Optimizing workflows for deployment on High Performance Clusters
   * Data warehousing (O(TBytes))
 
@@ -48,7 +50,7 @@ Skills
 | Python        |  SLURM       |   Tensorflow  |     FSL             |    rclone                   |
 | C++           |  Data Lad    |   Nipype      |     Psychopy        |    ownCloud                 |
 | MATLAB        |  Git         |   Dipy        |     SPM             |                             |
-| R             |              |               |                     |                             |
+| R             |  CUDA        |               |                     |                             |
 | HTML/CSS      |              |               |                     |                             |
 
 
