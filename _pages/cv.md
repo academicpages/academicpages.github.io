@@ -11,23 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Doctor of Philosophy in Machine Learning, Monash University, 2021
+* Master of Analytics, RMIT University, 2017
+* Master of Urban Planning, University of Melbourne, 2010
+* Bachelor of Science, with double major in Mathematics and Geography, University of Melbourne, 2008
 
-Work experience
+Research positions
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
+* Current: Postdoctoral Research Associate
+  * University of Colorado Boulder
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
+
+* Research Associate
+  * Monash University
+
+Research interests
 ======
 * Skill 1
 * Skill 2
@@ -41,19 +40,20 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+* 2018-2020: Head tutor and substitute instructor
+  * Monash University
+  * Subjects taught:
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
