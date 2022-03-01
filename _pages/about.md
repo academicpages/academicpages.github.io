@@ -13,9 +13,9 @@ redirect_from:
 <img src="/resources/Profile4.jpeg" alt="me"  style="width:386px;height:330;;border:0;">
 </a>
 
-I am a Senior Researcher at the University of Turku, Finland. I am affiliated with the [INVEST Flagship Center](https://invest.utu.fi) and the Political Science unit at UTU.
+I am a Senior Researcher at the [INVEST Research Flagship Center](https://invest.utu.fi) of University of Turku, Finland.
 
-<p class="lead"> Before joining University of Turku, I was an Assistant Professor (tenure-track) at Universidad de O'Higgins, Chile. Before that, I served one year as a post-doctoral fellow at Tulane University (New Orleans, LA). I received my Ph.D in Political Science from Rutgers University (New Brunswick, NJ) in the spring of 2017.</p>
+<p class="lead"> Before joining University of Turku, I was an Assistant Professor (tenure-track) at Universidad de O'Higgins, Chile. Previously, I had served one year as a post-doctoral fellow at Tulane University (New Orleans, LA). I received my PhD in Political Science from Rutgers University (New Brunswick, NJ) in the spring of 2017.</p>
 
 <p class="lead">My primary subfield is the political economy of <b>inequality</b>,  <b>political development</b> and <b>clientelism</b>. As an applied methodologist I also have a strong interest in statistical as well as experimental methods (lab and survey-based).</p>
 
