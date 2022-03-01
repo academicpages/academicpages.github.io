@@ -21,7 +21,7 @@ Será considerada para a avaliação uma prova escrita individual para cada uma 
 Datas das Provas
 ======
 * Primeira prova: 11/03/2022
-* Segunda prova: 15/04/2022
+* Segunda prova: 22/04/2022
 * Terceira prova: 31/05/2022
 
 Bibliografia
