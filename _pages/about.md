@@ -10,9 +10,9 @@ redirect_from:
 
 My name is Z. Sun, a 3rd year PhD student at UCL and The Alan Turing Institute. I am very very lucky to be supervised by Prof. [F-X Briol](https://fxbriol.github.io) and Prof. [J-H Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). My research is funded by EPSRC and UCL jointly. Prior to my journey to UCL, I obtained a MSc degree in Statistics with Distinction from the University of Oxford. 
 
-
+```
 Contact: zhuo [dot] sun [dot] 19 [at] ucl.ac.uk
-
+```
 
 
 ## Research Interest
@@ -45,7 +45,7 @@ In general, I am very interested in __computational statistics__ and __machine l
 
 ## Selected Award
 ```
-* Best Student Paper Award from the Section on Bayesian Statistical Science (SBSS) of the American Statistical Association (ASA) (2022 ASA SBSS Student Paper Competition Award), 2022.
+* Best Student Paper Award from the Section on Bayesian Statistical Science of the American Statistical Association (ASA) (2022 ASA SBSS Student Paper Competition Award), 2022.
 * Silver Medal for Best poster at the conference Bristol: FRY, 2021.
 * The Alan Turing Institute Enrichment Award (PhD), 2021.
 * EPSRC PhD Scholarship, 2019-2023.
