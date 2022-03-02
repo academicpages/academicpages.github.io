@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-![some discription](/files/Bashar_Talafha.pdf "some discription")
+![some discription](https://github.com/bashartalafha/bashartalafha.github.io/raw/master/files/Bashar_Talafha.pdf "some discription")
 
-<image src="/files/Bashar_Talafha.pdf"/>
+<image src="https://github.com/bashartalafha/bashartalafha.github.io/raw/master/files/Bashar_Talafha.pdf"/>
 
 
 <!-- 
