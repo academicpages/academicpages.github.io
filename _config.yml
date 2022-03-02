@@ -5,6 +5,12 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+
+remote_theme             :  mmistakes/minimal-mistakes
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
+
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
