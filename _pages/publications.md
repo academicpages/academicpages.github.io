@@ -7,6 +7,7 @@ author_profile: true
 
 ### 2022
 
+- **SIGMOD 2022** Demonstrating DB-BERT: a database tuning tool that "reads the manual". _Immanuel Trummer_.
 - **AAAI 2022** Procrastinated tree search: black-box optimization with delayed, noisy, and multi-fidelity feedback. _Junxiong Wang, Debabrota Basu, Immanuel Trummer_.
 - **SIGMOD 2022** DB-BERT: a database tuning tool that "reads the manual". _Immanuel Trummer_.
 - **CIDR 2022** Towards NLP-enhanced data profiling tools. (Abstract) _Immanuel Trummer_.
