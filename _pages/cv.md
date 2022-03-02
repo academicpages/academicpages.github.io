@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="https://github.com/bashartalafha/bashartalafha.github.io/blob/master/files/Bashar_Talafha.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/bashartalafha/bashartalafha.github.io/blob/master/files/Bashar_Talafha.pdf">
+<object data="files/Bashar_Talafha.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="files/Bashar_Talafha.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
