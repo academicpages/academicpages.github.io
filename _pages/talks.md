@@ -8,7 +8,7 @@ author_profile: true
 ## Talks
 
 **NEC Laboratories Europe**  
-“Explainable Machine Learning in NLP: Methods and Evaluation”
+“Explainable Machine Learning in NLP: Methods and Evaluation” [[slides]](https://peterbhase.github.io/files/ExplainableMachineLearninginNLPNECSlides.pdf)
 
 **National Institute for Standards and Technology (NIST)**  
 “Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?” [[slides](https://peterbhase.github.io/files/evaluating_explainable_AI_slides.pdf)]
