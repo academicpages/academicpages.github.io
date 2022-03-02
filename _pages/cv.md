@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: ""
 permalink: /cv/
 author_profile: true
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://bashartalafha.github.io/images/Bashar_Talafha.pdf" type="application/pdf" style="height: 100%;"/>
+<embed src="https://bashartalafha.github.io/images/Bashar_Talafha.pdf" type="application/pdf" style="height: 500px;"/>
 
 
 <!-- 
