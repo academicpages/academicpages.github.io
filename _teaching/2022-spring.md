@@ -8,7 +8,7 @@ date: 2022-01-10
 location: "In Person"
 ---
 
-Co-instructor (In-person)
+Co-instructor
 
 ## Lecture slides
 
