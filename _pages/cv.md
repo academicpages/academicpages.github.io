@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
+<embed src="https://docs.google.com/viewer?url=https://github.com/bashartalafha/bashartalafha.github.io/raw/master/Bashar_Talafha.pdf" type="application/pdf" />
 
 
 <!-- 
