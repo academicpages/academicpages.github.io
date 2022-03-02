@@ -17,7 +17,6 @@ I am currently a PhD student in [the School of Information](https://ischool.ubc.
 ---
 
 # Publications:
----
 
 * **Talafha, B.**, Za’Ter, M. E., Suleiman, S., Al-Ayyoub, M., & Al-Kabi, M. N. (2021, November). sarcasm detection and quantification in arabic tweets. In 2021 IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI) (pp. 1121-1125). IEEE.
 
