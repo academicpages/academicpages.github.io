@@ -16,13 +16,15 @@ redirect_from:
 
 ## About Me
 
-I am a third-year PhD student in the [MURGe-Lab](https://murgelab.cs.unc.edu/) at the University of North Carolina at Chapel Hill, where I am advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My work at UNC is supported by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/) and previously by a [Royster Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/membership.html). Before this, I graduated with a bachelor's degree from Duke University, where my thesis advisor was [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). At Duke I was supported by a [Trinity Scholarship](https://www.ousf.duke.edu/page/Trin). 
+I am a third-year PhD student in the [UNC-NLP](https://nlp.cs.unc.edu/) lab at the University of North Carolina at Chapel Hill, where I am advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My work at UNC is supported by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/) and previously by a [Royster Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/membership.html). Before this, I graduated with a bachelor's degree from Duke University, where my thesis advisor was [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). At Duke I was supported by a [Trinity Scholarship](https://www.ousf.duke.edu/page/Trin). 
 
 My research interests center on interpretable machine learning and natural language processing. I am particularly interested in techniques for explaining model behavior and aligning ML systems with human values. I see language models as a good object of study since we lack complete explanations for their behavior and human language provides a rich means of interaction with models. I am broadly interested in topics related to AI Safety; besides interpretable ML I have worked on methods for improving models via human explanations, providing recourses to people adversely affected by ML models, and making pretrained language models more truthful. In all of these areas, I find work on clarifying concepts and developing strong evaluation procedures especially valuable. 
 
 *Email:* peter@cs.unc.edu
 
 ## News
+* 2022 - Invited talk at [NEC Laboratories Europe](https://www.neclab.eu/), on Explainable Machine Learning in NLP
+* 2022 - Invited talk at the [National Institute for Standards and Technology](https://www.nist.gov/), on [Evaluating Explainable AI](https://arxiv.org/abs/2005.01831)
 * 2022 - Invited talk at the [Allen Institute for AI](https://allenai.org/), on [Detecting, Updating, and Visualizing Language Model Beliefs](https://arxiv.org/abs/2111.13654)
 * 2022 - Invited talk at [Uber AI](https://www.uber.com/us/en/uberai/), on [The OOD Problem and Search Methods in Explainable ML](https://arxiv.org/abs/2106.00786)
 * 2021 - New preprint on arxiv! "Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs" [[pdf]](https://arxiv.org/abs/2111.13654) [[code]](https://github.com/peterbhase/SLAG-Belief-Updating)
