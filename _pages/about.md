@@ -36,7 +36,6 @@ In general, I am very interested in __computational statistics__ and __machine l
 
 
 ## Talk/Presentation
-
 *   Incoming Talk at topic-contributed sessions of _[Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2022/)_, August 2022, USA.
 *   Poster at _[Statistics at Bristol: FRY](https://web-eur.cvent.com/event/a5a8878f-5ff8-457d-ad63-09fc66f9afd2/websitePage:645d57e4-75eb-4769-b2c0-f201a0bfc6ce?RefId=HIMR&rp=00000000-0000-0000-0000-000000000000)_, September 2021, UK. 
 *   Talk at _[International Conference on Monte Carlo Methods and Applications](https://www.uni-mannheim.de/mcm-2021/)_ (Special Session on Stein's method), August 2021, German.
@@ -45,12 +44,13 @@ In general, I am very interested in __computational statistics__ and __machine l
 
 
 ## Selected Award
-* Best Student Paper Award from the Section on Bayesian Statistical Science (SBSS) of the American Statistical Association (ASA) [(_2022 ASA SBSS Student Paper Competition Award_)](), 2022.
+```
+* Best Student Paper Award from the Section on Bayesian Statistical Science (SBSS) of the American Statistical Association (ASA) (2022 ASA SBSS Student Paper Competition Award), 2022.
 * Silver Medal for Best poster at the conference Bristol: FRY, 2021.
 * The Alan Turing Institute Enrichment Award (PhD), 2021.
 * EPSRC PhD Scholarship, 2019-2023.
 * Cambridge International Scholarship (PhD), 2019-2022.
-
+```
 
 
 
