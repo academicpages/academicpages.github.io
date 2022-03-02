@@ -47,3 +47,7 @@ I am currently a PhD student in [the School of Information](https://ischool.ubc.
 * Albadarneh, J., **Talafha, B.**, Al-Ayyoub, M., Zaqaibeh, B., Al-Smadi, M., Jararweh, Y., & Benkhelifa, E. (2015, December). Using big data analytics for authorship authentication of arabic tweets. In 2015 IEEE/ACM 8th International Conference on Utility and Cloud Computing (UCC) (pp. 448-452). IEEE.
 
 * Al-Smadi, M., **Talafha, B.**, Qawasmeh, O., Alandoli, M. N., Hussien, W. A., & Guetl, C. (2015, October). A hybrid approach for Arabic named entity disambiguation. In Proceedings of the 15th International Conference on Knowledge Technologies and Data-driven Business (pp. 1-4).
+
+# Patents:
+* [Multilingual translation device and method](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0ZhSI1sAAAAJ&sortby=pubdate&citation_for_view=0ZhSI1sAAAAJ:WF5omc3nYNoC)
+* [Method and apparatus for processing language based on trained network model](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=0ZhSI1sAAAAJ&sortby=pubdate&citation_for_view=0ZhSI1sAAAAJ:Se3iqnhoufwC)
