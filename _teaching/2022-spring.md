@@ -1,5 +1,5 @@
 ---
-title: "Advanced Seminar: Research in Human Rights"
+title: "Research in Human Rights"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2022-spring
