@@ -8,7 +8,7 @@ date: 2021-01-10
 location: "Zoom"
 ---
 
-TA, weekly sections (zoom)
+TA, weekly sections (Zoom)
 
 ## Activity logs / lecture slides
 
