@@ -9,24 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Education
+Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* B.S. in Earth and Space Sciences, University of Washington, 2019
+* Ph.D in Earth and Space Sciences, University of Washington, 2028 (expected)
 
-<!-- Work experience
+Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-   -->
+* 2021 - 2022: University of Washington
+  * Research Assistant in ESS Photonic Sensing Lab
+  * Supervisor: Dr. Brad Lipovsky
+
+* 2019 - 2021: University of Washington
+  * Research Assistant in ESS IsoLab
+  * Supervisor: Dr. Alexis Licht
+
+* 2017 - 2022: University of Washington
+  * Administrative Assistant
+
+* 2008 - 2014: U.S. Air Force
+  * AWACS Communication & Navigation technician
+
+* 2006 - 2008: Nibley Park Golf Course
+  * Driving range and fairway ranger
+
+
 <!-- Skills
 ======
 * Skill 1
