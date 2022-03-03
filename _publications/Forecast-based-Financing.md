@@ -1,4 +1,3 @@
-
 ---
 title: "The role of anticipatory humanitarian action to reduce disaster displacement"
 collection: publications
