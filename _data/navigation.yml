@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Publications"
-    url: /"https://scholar.google.com/citations?user=rIeiXcEAAAAJ&hl=en"/
+    url: "https://scholar.google.com/citations?user=rIeiXcEAAAAJ&hl=en"
 #
 #   - title: "Talks"
 #     url: /talks/
 #
   - title: "Code"
-    url: /"github.com/simonhansedasi"/
+    url: "github.com/simonhansedasi"
 #
 #   - title: "Portfolio"
 #     url: /portfolio/
