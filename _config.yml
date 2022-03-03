@@ -87,13 +87,13 @@ analytics:
 # Site Author
 author:
   name             : "Simon Hans Edasi"
-  avatar           : "500x300.png"
+  avatar           : "tchrlie_crop.jpg"
   bio              : " "
   location         : "Seattle, WA"
   employer         : "University of Washington"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rIeiXcEAAAAJ&hl=en"
-  email            :
+  email            : "sa42@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
