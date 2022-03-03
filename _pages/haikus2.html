@@ -1,0 +1,36 @@
+---
+layout: archive
+title: "Haikus"
+permalink: /haikus2/
+author_profile: true
+---
+
+To make my 33rd year more interesting I decided to each day write a haiku. Inspired by Skid Maher of the GCP, the original HaikuBoy
+<!-- <br>
+<br>
+-------------------------------
+3/3/2022
+# 1
+Riding in the rain
+My bike is brand spanking new
+I hope I don't die
+-------------------------------
+<br>
+<br>
+<br>
+<br>
+-------------------------------
+3/3/2022
+# 1
+Riding in the rain
+My bike is brand spanking new
+I hope I don't die
+-------------------------------
+<br>
+<br> -->
+
+{% include base_path %}
+
+{% for post in site.haikus2 reversed %}
+  {% include archive-single.html %}
+{% endfor %}
