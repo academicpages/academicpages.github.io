@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Linh H.D. Nguyen website"
+title: "Welcome to Linh H.D. Nguyen homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
