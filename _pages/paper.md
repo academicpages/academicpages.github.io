@@ -7,7 +7,7 @@ author_profile: true
 
 Monday, March 7th:
 
-[Brey Björn](https://sites.google.com/view/bjoernbrey) (Université libre de Bruxelles - ECARES), presents:
+[Björn Brey](https://sites.google.com/view/bjoernbrey) (Université libre de Bruxelles - ECARES), presents:
 
 **Title:** ["*The consequences of a trade collapse: Economics and politics in Weimar Germany*"](https://gsipe-workshop.github.io/files/paper_gsipe_workshop.pdf)
 
