@@ -11,6 +11,5 @@ redirect_from:
 Hello, I'm currently a master student at ENS Paris-Saclay, Université Paris-Saclay. Before coming ENS Paris-Saclay, I spent two years for working as research assistant and studying machine learning in Vietnam (after my undergraduate program).
 
 
-Contact me:
-------
+**Contact me:**
 linh.nguyen@ens-paris-saclay.fr
