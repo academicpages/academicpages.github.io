@@ -9,12 +9,4 @@ location: "Beijing, China"
 ---
 
 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+During Fall 2021, I have worked as a TA in Discrete Mathematics and Structures which is taught by [Prof. XiaoTie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm).
