@@ -12,7 +12,6 @@ My name is Jingwu Tang(唐静吾). I am a third-year undergrad at Turing Class, 
 
 # Publications
 + **A Context-Integrated Transformer-Based Neural Network for Auction Design**. (preprint)
-
 Zhijian Duan, Jingwu Tang, Yutong Yin, Zhe Feng, Xiang Yan, Manzil Zaheer, and Xiaotie Deng. [arXiv](https://arxiv.org/abs/2201.12489).
 
 # Teaching
