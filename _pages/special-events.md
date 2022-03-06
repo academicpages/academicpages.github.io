@@ -6,6 +6,8 @@ author_profile: true
 ---
 Information about special events and opportunties can be found here.
 
+- We are happy to announce the call for papers for the 4th Virtual Mini-Conference: International Political Economy of the Environment on May 10, 2022. More information can be found <a href="https://gsipe-workshop.github.io/files/Environment_GSIPE_CfP.pdf">here. </a>
+
 <hr>
 
 ## Previous events:
