@@ -4,7 +4,7 @@ collection: teaching
 type: "Grdaute course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "CSUF, Computer Science"
-date: 
+date: 2022-01-01
 location: "Fullerton, CA"
 ---
 
