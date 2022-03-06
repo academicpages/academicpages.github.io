@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "TuffyToken"
-    url: /tuffytoken/
     
   - title: "Publications"
     url: /publications/
@@ -19,7 +17,4 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /cv/ 
