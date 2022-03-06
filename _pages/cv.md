@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Service"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -23,8 +23,8 @@ IEEE BDS’20, IEEE ZINC’20&21; IEEE ICCE-Berlin’19; IEEE ISCT’19; IEEE Bi
 
 Editorial Board
 ======
-Energies, ISSN: 0360-5442, 2021
-International Journal of Information and Communication Sciences (IJICS), ISSN Print:  2575-1700
+- Energies, ISSN: 0360-5442, 2021
+- International Journal of Information and Communication Sciences (IJICS), ISSN Print:  2575-1700
 ISSN Online:  2575-1719, 2018 – 2020
 
 Reviewer
@@ -55,3 +55,12 @@ University/College/Department Service
 - CS Graduate Committee, 2018-19 AY
 - CS Assessment Committee, 2018-19, 2019-20 AY
 - CS Ad-hoc Committee of Cybersecurity Concentration, 2018-19 AY
+
+Community Service
+======
+- High school internship programs: Troy High School, Valencia High School, Diamond Bar High School, summer and fall 2020.
+- STEM-EXPO exhibition, Fullerton CA, Fall’17 
+- OLLi (Osher Lifelong Learning Institute), volunteer instructor, Tuscaloosa AL, 2016 Summer & Fall
+- Hour of Code, Tuscaloosa AL, 2017 Summer
+- Robotics training and contest for K-12 students, Tuscaloosa AL, 2017 Summer
+
