@@ -23,6 +23,6 @@ Blockchain Club
 ======
 Students, faculty and staff who are Crypto advocate are welcomed to join us!
 
-Site: https://blockchainatcsuf.club/
+Site: [https://blockchainatcsuf.club/](https://blockchainatcsuf.club/)
 
-Discord: https://discord.gg/AgEQmvH6
+Discord: [https://discord.gg/AgEQmvH6](https://discord.gg/AgEQmvH6)
