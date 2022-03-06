@@ -9,13 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Computer Science, Central China Normal University, China, 2002
-* M.S. in Computer Science, Central China Normal University, China, 2005
-* M.S. in Computer Science, The University of Alabama, USA, 2014
-* Ph.D in Computer Science, The University of Alabama, USA, 2017
-
 Scholarly presentations
 ======
 IEEE NFSP'12; WASA’16; ICAI'18; IEEE ICCE’19; IEEE ICII’19, etc.
