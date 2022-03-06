@@ -14,3 +14,13 @@ Wenlin Han is currently a tenure-track assistant professor, with the Department 
 Recent Research/Innovation Interests
 ======
 Metaverse, Defi, NFTs, GameFi, SocialFi, etc.
+
+TuffyVerse Lab
+======
+Looking for highly self-motivated students to join me building our own Metaverse, TuffyVerse!
+
+Blockchain Club
+======
+Students, faculty and staff who are Crypto advocate are welcomed to join us!
+Site: https://blockchainatcsuf.club/
+Discord: https://discord.gg/AgEQmvH6
