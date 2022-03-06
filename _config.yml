@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=EXdwp8gAAAAJ&hl=en"
   email            : "whan@fullerton.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Wenlin-Han"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : # "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/wenlin-han-40652a7a/"
+  orcid            : # "http://orcid.org/0000-0001-9249-0390"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
