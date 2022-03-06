@@ -59,6 +59,12 @@ $darker-black                : mix(#000, $black, 60%);
 $light-black                 : mix(#fff, $black, 50%);
 $lighter-black               : mix(#fff, $black, 90%);
 
+$red                       : #de1016;
+$dark-red                  : mix(#000, $red, 40%);
+$darker-red                : mix(#000, $red, 60%);
+$light-red                 : mix(#fff, $red, 50%);
+$lighter-red               : mix(#fff, $red, 90%);
+
 $body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
