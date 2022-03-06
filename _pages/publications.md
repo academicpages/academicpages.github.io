@@ -14,7 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-Peer-reviewed Journal papers 
+===============
 1.	Wenlin Han and Yang Xiao, “Edge Computing Enabled Non-Technical Loss Fraud Detection for Big Data Security Analytic in Smart Grid,” Journal of Ambient Intelligence and Humanized Computing, pp. 1-12, July 2019. https://doi.org/10.1007/s12652-019-01381-4.
 2.	Wenlin Han and Yang Xiao, “Deploying Throwboxes to Enhance Fault-tolerance Performance in Delay Tolerant Networks,” Wireless Personal Communications, pp 1–32, December 2017.
 3.	Wenlin Han and Yang Xiao, "NFD: Non-Technical Loss Fraud Detection in Smart Grid," Computers & Security. http://dx.doi.org/10.1016/j.cose.2016.11.009. November 2016.
