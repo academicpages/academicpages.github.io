@@ -21,11 +21,11 @@ CPSC 351, CPSC 353 or CPSC 452; Computer Science or Computer Engineering major o
 
 Learning Goals and Objectives
 ======
-CLO1: Describe Blockchain technologies and its relationship with cryptocurrencies.
-CLO2: Analyze cryptocurrency mechanics and protocols.
-CLO3: Describe Blockchain decentralization and anonymity.
-CLO4: Use basics of cryptography and crypto-economics.
-CLO5: Identify real-world applications using cryptocurrency and Blockchain.
-CLO6: Examine cryptocurrency politics and regulation.
-CLO7: Construct a simple cryptocurrency.
-CLO8: Construct alternative Blockchain mechanics and protocols.
+- CLO1: Describe Blockchain technologies and its relationship with cryptocurrencies.
+- CLO2: Analyze cryptocurrency mechanics and protocols.
+- CLO3: Describe Blockchain decentralization and anonymity.
+- CLO4: Use basics of cryptography and crypto-economics.
+- CLO5: Identify real-world applications using cryptocurrency and Blockchain.
+- CLO6: Examine cryptocurrency politics and regulation.
+- CLO7: Construct a simple cryptocurrency.
+- CLO8: Construct alternative Blockchain mechanics and protocols.
