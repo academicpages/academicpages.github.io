@@ -5,11 +5,11 @@ permalink: /paper/
 author_profile: true
 ---
 
-Monday, March 7th:
+Monday, March 14th:
 
-[Björn Brey](https://sites.google.com/view/bjoernbrey) (Université libre de Bruxelles - ECARES), presents:
+[Torsten Jaccard](https://torstenjaccard.wordpress.com/) (Toronto), presents:
 
-**Title:** ["*The consequences of a trade collapse: Economics and politics in Weimar Germany*"](https://gsipe-workshop.github.io/files/paper_gsipe_workshop.pdf)
+**Title:** ["*Who Pays for Protectionism: The Welfare and Substitution Effects of Tariffs*"](https://gsipe-workshop.github.io/files/paper_gsipe_workshop.pdf)
 
 **Abstract:**
-What were the economic and political effects of the trade collapse that affected Germany during the Great Depression? Using novel micro-level data we find causal evidence that the decline in German exports considerably contributed to the decline in economic activity and employment during the Great Depression, accounting for 23% of the total observed output contraction across industries. The effect of the export shock on the rise of the NSDAP is instead more nuanced. While we find that exposure to the shock increased support for the NSDAP among blue collar workers, we find no such effect among the self employed, and a negative impact on white collar workers. This finding is in line with the NSDAP autarkic policies and the party's push to replace unemployment benefits with a public work ("work and bread"") programs that especially benefited unskilled workers. Our analysis also uncovers an important role for spatial spillovers, with declines in domestic demand for agricultural products playing an important role in increasing support for the NSDAP in rural areas.
+This paper studies the distributional costs to US consumers of country-specific tariffs. By linking detailed household purchase records with a barcode-specific country-of-origin, I estimate a demand model with both detailed consumer heterogeneity and rich import substitution patterns in the face of country-specific tariff changes. Simulations using this model show that tariffs placed on low-income countries are regressive and anti-rural whereas tariffs on high-income countries are progressive and anti-urban. I provide novel evidence that the urban/rural disparity in exposure to tariff policy is driven by the extent to which retail market characteristics differ across urban and rural counties in the US. When modeling import substitution, I combine descriptive text on the packaging of each barcode with unsupervised clustering algorithms to place barcodes into market segments of observable similarity. In general, I estimate lower tariff costs when compared to a model in which varieties are segmented based on their production location, as is common in the trade literature. These findings caution against the practice of estimating consumption gains from trade in the absence of (1) detailed variety attribute data and (2) information regarding the domestic alternatives available to consumers. 
