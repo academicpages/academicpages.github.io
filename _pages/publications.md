@@ -4,6 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 **Tech reports**  
+* <b>Scribble-Supervised Medical Image Segmentation via Dual-Branch Network and Dynamically Mixed Pseudo Labels Supervision</b> <br> 
+  <b>Xiangde Luo</b>, Minhao Hu, Wenjun Liao, Shuwei Zhai, Tao Song, Guotai Wang, Shaoting Zhang<br>
+  <i>This is a comprehensive study about scribble-supervised medical image segmentation based on the ACDC dataset<br>
+ [[paper](https://arxiv.org/abs/2203.02106)][[code](https://github.com/HiLab-git/WSL4MIS)]
+  
 * <b>WORD: Revisiting Organs Segmentation in the Whole Abdominal Region</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jianghong Xiao, Tao Song, Xiaofan Zhang, Kang Li, Guotai Wang, Shaoting Zhang<br>
   <i>This is a tech report, the work is still ongoing.<br>
