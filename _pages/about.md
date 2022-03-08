@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About me [[My CV_CN](https://github.com/Luoxd1996/Luoxd1996.github.io/blob/master/files/xiangdeluo_cv.pdf)]
+<!-- # About me [[My CV_CN](https://github.com/Luoxd1996/Luoxd1996.github.io/blob/master/files/xiangdeluo_cv.pdf)] -->
+# About me
 * I am a 2-nd year Ph.D. student in the School of Mechanical and Electrical Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), advised by Prof. [Guotai Wang](https://scholar.google.co.uk/citations?user=Z2sFN4EAAAAJ&hl=en) and Prof. [Shaoting Zhang](https://scholar.google.co.uk/citations?user=oiBMWK4AAAAJ&hl=en). 
 * My research mainly focuses on the area of medical image analysis, particularly in data-efficient learning for medical image computing, such as semi-supervised learning, weakly-supervised learning and human-in-the-loop, as well as extending them for clinical applicable use.
 * I received my Bachelor Degree in the School of Mechanical and Electrical Engineering at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), on July 1, 2018.
@@ -15,6 +16,7 @@ redirect_from:
 
 
 # Recent News
+* Mar. 8, 2022, We have done a comprehensive study about scribble-supervised medical image segmentation based on the ACDC dataset, where more than ten weakly-/semi-supervised methods are tested on the same setting (five-fold cross-validation). The [tech report](https://arxiv.org/abs/2203.02106) and [Code](https://github.com/HiLab-git/WSL4MIS) are available.
 * Mar. 1, 2022, Our paper <b>Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer</b> was accepted by <b>MIDL2022</b>, thanks to all co-authors, [code](https://github.com/HiLab-git/SSL4MIS) and [paper](https://openreview.net/pdf?id=KUmlnqHrAbE) are available.
 * Oct. 21, 2021, Our paper <b>SCPM-Net:An Anchor-free 3D Lung Nodule Detection Network using Sphere Representation and Center Points Matching</b> was accepted by <b>Medical Image Analysis</b>, thanks to all co-authors, [code](https://github.com/HiLab-git/SCPM-Net) and [paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521003327) are available.
 * Aug. 29, 2021, We released a 2D inference code and GUI of MIDeepSeg (published in MedIA2021), the repo at [MIDeepSeg](https://github.com/HiLab-git/MIDeepSeg).
