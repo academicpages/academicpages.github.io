@@ -25,3 +25,9 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+# https://github.com/jekyll/jekyll/issues/5935#issuecomment-323496905
+gem 'tzinfo'
+gem 'tzinfo-data'
+# https://github.com/jekyll/jekyll/issues/8523#issue-774747339
+gem "webrick"
