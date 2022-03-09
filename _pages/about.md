@@ -23,7 +23,7 @@ Cybersecurity and Blockchain
 
 Recent Research/Innovation Interests
 ======
-Metaverse, Defi, NFTs, GameFi, SocialFi, etc.
+Metaverse, DeFi fraud/scam detection, NFTs, GameFi, SocialFi, etc.
 
 TuffyVerse Lab
 ======
