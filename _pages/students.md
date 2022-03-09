@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 Past graduate students under supervision in CSUF (partial list)
 ============
+- Yusuke Tomatsu: MS, paper supervisor, Fall'21
 - Viraj Deshwal: grader and research volunteer Spr’18, Fall’18; graduate project supervisor, Spr’19
 - Madhura Ansingkar: research volunteer Spr’18; student research assistant Fall’18&Spr’19; graduate project supervisor, Spr’19
 - Nupur Pande: research volunteer Spr’18, Fall’18
