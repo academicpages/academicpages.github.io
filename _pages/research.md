@@ -28,9 +28,9 @@ redirect_from:
 
 - Hector Bahamonde and Outi Sarpila. "Physical Appearance and Turnout in Finnish Elections: An Inequality Perspective." <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Physical/main/abstract.rtf)
 
-- Hector Bahamonde and Paz Irarrazabal. "Skyrocketed Inequality and (Un)lockdown Political Elites in Chile: Aerodrome Usage during Pandemic Times." <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Tobalaba/main/abstract.txt)
-
 - Hector Bahamonde, Heikki Kaupi, Igor Kovac and Wilma Nissila. "Not Just Guns or Butter, but What Came First—Guns or Butter? Introducing GVAR to International Relations." <br/> [[Abstract]](https://github.com/hbahamonde/Bahamonde_Kovac/raw/master/abstract.txt)
+
+- Hector Bahamonde and Paz Irarrazabal. "Skyrocketed Inequality and (Un)lockdown Political Elites in Chile: Aerodrome Usage during Pandemic Times." <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Tobalaba/main/abstract.txt)
 
 - Hector Bahamonde, Mona Kleinberg and Richard Lau. "Testing the Online Model of Candidate Evaluation in a More Realistic Environment." <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Running_Tally/master/abstract.txt) [[Data]](https://github.com/hbahamonde/Replication_Materials)
 
