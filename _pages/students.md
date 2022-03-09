@@ -66,7 +66,7 @@ Student awards/achievements in CSUF
 https://business.fullerton.edu/Center/Entrepreneurship/Business-Plan-Competition/BusinessCompetitionResults
 more info:
 https://business.fullerton.edu/Center/Entrepreneurship/Business-Plan-Competition/BusinessCompetitionAwards
--Connor O’Donnell (graduate student CPSC 481-01 Fall’17): his AI course paper (after revision) was published at an international conference.
+- Connor O’Donnell (graduate student CPSC 481-01 Fall’17): his AI course paper (after revision) was published at an international conference.
 
 Connor O’Donnell and Wenlin Han, “Recent Developments and Emerging Challenges in Deep Neural Networks for Cybersecurity and Other Applications,” The 20th International Conference on Artificial Intelligence (ICAI'18), pp. 112-118, Las Vegas, USA, July 30 - August 2, 2018.
 - Austin Draper, Aryan Familrouhani, Devin Cao, and Tevisophea Heng (undergraduate students CPSC 481-03 Spr’18): their course paper (after revision) was submitted to an international conference
