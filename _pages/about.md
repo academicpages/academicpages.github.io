@@ -27,7 +27,7 @@ Metaverse, Defi, NFTs, GameFi, SocialFi, etc.
 
 TuffyVerse Lab
 ======
-Looking for highly self-motivated students to join me building our own Metaverse, TuffyVerse!
+Looking for highly self-motivated students to join us building a decentralized antiracist virtual space!
 Site: [https://tuffyverse.com/tuffyverse-lab](https://tuffyverse.com/tuffyverse-lab)
 
 Blockchain Club
