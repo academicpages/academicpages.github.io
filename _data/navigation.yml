@@ -9,15 +9,15 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "Service"
+    url: /cv/ 
+    
+  - title: "Students"
+    url: /students/ 
     
   - title: "Portfolio"
     url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "Service"
-    url: /cv/ 
-    
-  - title: "Students"
-    url: /students/ 
