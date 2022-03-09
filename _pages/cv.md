@@ -19,6 +19,10 @@ Editorial Board
 - International Journal of Information and Communication Sciences (IJICS), ISSN Print:  2575-1700
 ISSN Online:  2575-1719, 2018 – 2020
 
+Academic chair/organizer
+=====
+ICAI'18 session chair
+
 Reviewer
 ======
 - NSF Ad-hoc reviewer 2018
