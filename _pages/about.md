@@ -33,6 +33,6 @@ Blockchain Club
 ======
 Students, faculty and staff who are Crypto advocate are welcomed to join us!
 
-Site: [https://blockchainatcsuf.club/](https://blockchainatcsuf.club/)
+Site: [https://tuffyverse.com/ (https://tuffyverse.com/)
 
 Discord: [https://discord.gg/AgEQmvH6](https://discord.gg/AgEQmvH6)
