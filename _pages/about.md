@@ -28,12 +28,12 @@ Metaverse, Defi, NFTs, GameFi, SocialFi, etc.
 TuffyVerse Lab
 ======
 Looking for highly self-motivated students to join me building our own Metaverse, TuffyVerse!
-Site: [https://tuffyverse.com/tuffyverse-lab] (https://tuffyverse.com/tuffyverse-lab)
+Site: [https://tuffyverse.com/tuffyverse-lab](https://tuffyverse.com/tuffyverse-lab)
 
 Blockchain Club
 ======
 Students, faculty and staff who are Crypto advocate are welcomed to join us!
 
-Site: [https://tuffyverse.com/blockchain-club] (https://tuffyverse.com/blockchain-club)
+Site: [https://tuffyverse.com/blockchain-club](https://tuffyverse.com/blockchain-club) 
 
 Discord: [https://discord.gg/AgEQmvH6](https://discord.gg/AgEQmvH6)
