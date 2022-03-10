@@ -17,6 +17,14 @@ Email: wang dot dian at northeastern dot edu
 
 ## Publication
 
+![](images/rss.png){: .align-right width="200px"}
+**Equivariant Transporter Network**  
+**Dian Wang**, Mingxi Jia, Xupeng Zhu, Robin Walters, Robert Platt  
+*Preprint*  
+[(PDF)](https://arxiv.org/pdf/2203.04923.pdf)
+` `  
+` `  
+
 ![](images/equi_transporter.png){: .align-right width="200px"}
 **Equivariant Transporter Network**  
 Haojie Huang, **Dian Wang**, Robin Walters, Robert Platt  
