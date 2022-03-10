@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ben Steenhoek"
+title                    : "Benjamin Steenhoek"
 title_separator          : "-"
-name                     : &name "Ben Steenhoek"
+name                     : &name "Benjamin Steenhoek"
 description              : &description "PhD student at Iowa State University"
 url                      : https://benjijang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : / # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ben Steenhoek"
+  name             : *name
   avatar           : "profilepic.jpg"
-  bio              : "PhD Student at Iowa State University Department of Computer Science."
+  bio              : *description
   location         : #"Ames, IA"
   employer         : "Iowa State University"
   pubmed           :
