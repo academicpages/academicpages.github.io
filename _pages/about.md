@@ -22,7 +22,7 @@ From November 2021 to February 2022, I worked as an intern at the Industrial Ser
 From March 2022 to June 2022, I will be working as a front-end engineer for a start-up named 未界科技(Weijie Technology). This company aims to strengthen the industry of [Murder Mystery Game](https://en.wikipedia.org/wiki/Murder_mystery_game) with computer technology.   
 ## Publications
 **A NOVEL MULTI-FOCUS FUSION NETWORK FOR RETINAL MICROSURGERY**   
-***Xinyi Zhou**, Louying Hao, Qiushi Nie, Yingquan Zhou, Lihui Wang, Yan Hu, Jiang Liu*  
+**Xinyi Zhou**, Louying Hao, Qiushi Nie, Yingquan Zhou, Lihui Wang, Yan Hu, Jiang Liu  
 This paper has been **ACCEPTED** by ISBI 2022 on January 7, 2022 for presentation🎉❗  
 ## Projects 
 [A WeChat Mini Program for Color Blinded People Cooperated with Tencent](https://github.com/CindyChow123/Multimedia_project_2021_spring)  

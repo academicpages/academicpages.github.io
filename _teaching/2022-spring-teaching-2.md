@@ -1,9 +1,9 @@
 ---
-title: "Introduction to Artificial Intelligence Student Assistant"
+title: "Multimedia Information Processing Student Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2021-fall-teaching-1
+permalink: /teaching/2022-spring-teaching-2
 venue: "SUSTECH, Department of Computer Science and Engineering"
-date: 2021-09-01
+date: 2022-02-14
 location: "Shenzhen, China"
 ---
