@@ -1,0 +1,40 @@
+---
+layout: archive
+title: "Haikus"
+permalink: /haikus/
+author_profile: true
+---
+To make my 33rd year more interesting, and hopefully prevent it from blending in with all the others, I am writing a haiku to reflect every day.
+
+<br>
+<br>
+
+Inspired by  <a href="https://glasscannonnetwork.com/">Skid Maher of the GCP</a>, the original HaikuBoy
+<!-- <br>
+<br>
+-------------------------------
+3/3/2022
+# 1
+Riding in the rain
+My bike is brand spanking new
+I hope I don't die
+-------------------------------
+<br>
+<br>
+<br>
+<br>
+-------------------------------
+3/3/2022
+# 1
+Riding in the rain
+My bike is brand spanking new
+I hope I don't die
+-------------------------------
+<br>
+<br> -->
+
+{% include base_path %}
+
+{% for post in site.haikus reversed %}
+  {% include archive-single.html %}
+{% endfor %}

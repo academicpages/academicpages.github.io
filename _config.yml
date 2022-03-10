@@ -6,20 +6,18 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 
-# theme: minimal-mistakes-jekyll
-# theme                  : "minimal-mistakes-jekyll"
-# # remote_theme           : "mmistakes/minimal-mistakes"
-# minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+# theme             :  mmistakes/minimal-mistakes
+# remote_theme           : "mmistakes/minimal-mistakes"
+# minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Edasi Avahlet"
+title                    : "Edasi Koduleht"
 title_separator          : "-"
 name                     : &name "Simon Hans Edasi"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "My homepage"
+url                      : https://simonhansedasi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "simonhansedasi/simonhansedasi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -89,10 +87,10 @@ analytics:
 # Site Author
 author:
   name             : "Simon Hans Edasi"
-  avatar           : "profile.png"
-  bio              : ""
-  location         : "University of Washington"
-  employer         :
+  avatar           : "tchrlie_crop.jpg"
+  bio              : " "
+  location         : "Seattle, WA"
+  employer         : "University of Washington"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rIeiXcEAAAAJ&hl=en"
   email            : "sa42@uw.edu"
@@ -111,7 +109,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  # orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0296-2740"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -154,6 +152,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  # - 'assets'
 keep_files:
   - .git
   - .svn
@@ -195,7 +194,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  haikus:
+    output: true
+    permalink: /:collection/:path/
+  haikus2:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -224,7 +228,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _publications
   - scope:
@@ -233,7 +237,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _portfolio
   - scope:
@@ -250,6 +254,22 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _haikus
+  - scope:
+      path: ""
+      type: haikus
+    values:
+      layout: single
+      author_profile: true
+      share: false
+  # _haikus2
+  - scope:
+      path: ""
+      type: haikus2
+    values:
+      layout: single
       author_profile: true
       share: true
 
@@ -273,7 +293,9 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-remote-theme
 # mimic GitHub Pages with --safe
+
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap

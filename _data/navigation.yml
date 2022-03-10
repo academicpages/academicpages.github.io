@@ -1,22 +1,26 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: "https://scholar.google.com/citations?user=rIeiXcEAAAAJ&hl=en"
+#
+#   - title: "Talks"
+#     url: /talks/
+#
+  - title: "Code"
+    url: "https://github.com/simonhansedasi"
+#
+#   - title: "Portfolio"
+#     url: /portfolio/
+#
+  # - title: "Teaching"
+  #   url: /haikus2/
+#
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Haikus"
+    url: /haikus/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+#
+#   - title: "Guide"
+#     url: /markdown/

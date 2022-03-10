@@ -229,6 +229,10 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
+<<<<<<< HEAD
+=======
+    mini_portile2 (2.8.0)
+>>>>>>> 1146b53533ef47ed7ed57b120d456a3e2fe97dc9
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
@@ -242,7 +246,12 @@ GEM
       jekyll-sitemap (~> 1.3)
     minitest (5.15.0)
     multipart-post (2.1.1)
+<<<<<<< HEAD
     nokogiri (1.13.3-x86_64-linux)
+=======
+    nokogiri (1.13.3)
+      mini_portile2 (~> 2.8.0)
+>>>>>>> 1146b53533ef47ed7ed57b120d456a3e2fe97dc9
       racc (~> 1.4)
     octokit (4.22.0)
       faraday (>= 0.9)
@@ -282,10 +291,18 @@ GEM
       unf_ext
     unf_ext (0.0.8)
     unicode-display_width (1.8.0)
+<<<<<<< HEAD
     zeitwerk (2.5.4)
 
 PLATFORMS
   x86_64-linux
+=======
+    webrick (1.7.0)
+    zeitwerk (2.5.4)
+
+PLATFORMS
+  ruby
+>>>>>>> 1146b53533ef47ed7ed57b120d456a3e2fe97dc9
 
 DEPENDENCIES
   github-pages
@@ -293,6 +310,13 @@ DEPENDENCIES
   jekyll-feed
   jekyll-sitemap
   minimal-mistakes-jekyll
+<<<<<<< HEAD
 
 BUNDLED WITH
    2.3.7
+=======
+  webrick (~> 1.7)
+
+BUNDLED WITH
+   2.1.4
+>>>>>>> 1146b53533ef47ed7ed57b120d456a3e2fe97dc9
