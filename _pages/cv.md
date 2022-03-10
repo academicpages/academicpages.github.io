@@ -24,7 +24,7 @@ Education
 
 Work experience
 ======
-* [Data Science Instructor](https://www.coursera.org/instructor/you-lilian-cheng) for Guided Projects, Coursera Inc.                              Aug. 2020 – Present
+* [Data Science Instructor](https://www.coursera.org/instructor/you-lilian-cheng) for Guided Projects, Coursera Inc.                              Aug. 2020 – Feb. 2022
 
 * Machine Learning Research Intern, [Max Planck Institute for Software System](https://www.mpi-sws.org/).                              Aug. 2021 – Oct. 2021
 
