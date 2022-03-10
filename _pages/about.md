@@ -18,7 +18,7 @@ Email: wang dot dian at northeastern dot edu
 ## Publication
 
 ![](images/rss22.png){: .align-right width="200px"}
-**Equivariant Transporter Network**  
+**On-Robot Policy Learning with O(2)-Equivariant SAC**  
 **Dian Wang**, Mingxi Jia, Xupeng Zhu, Robin Walters, Robert Platt  
 *Preprint*  
 [(PDF)](https://arxiv.org/pdf/2203.04923.pdf)
