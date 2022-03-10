@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "profilepic.jpg"
+  avatar           : "profile.png"
   bio              : *description
   location         : #"Ames, IA"
   employer         : "Iowa State University"
