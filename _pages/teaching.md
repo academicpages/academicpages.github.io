@@ -11,4 +11,6 @@ Teaching Assistants: B8.1 Probability, Measure and Martingales, B8.2 Continuous 
 
 College Tutor: B8.2 Continuous Martingales and Stochastic Calculus in Mansfield College.
 
-Previous TA: Game Theory,  Regression and Classification, Optimisation techniques,  Financial Risk Management.
+Previous Teaching Assistants: Game Theory,  Regression and Classification, Optimisation techniques,  Financial Risk Management.
+
+
