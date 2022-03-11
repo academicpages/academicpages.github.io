@@ -59,7 +59,7 @@ Readings
 
 <p align="center">
 
-<img src="https://gui-cogsci.github.io/files/phil1004-course-map.png.png">
+<img src="https://gui-cogsci.github.io/files/phil1004-course-map.png">
 
 </p>
 
