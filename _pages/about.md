@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hola! I am Purba. Good day!
+Hola! I am Purba. Good day! :)
