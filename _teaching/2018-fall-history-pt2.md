@@ -55,7 +55,13 @@ Readings
 - John Dewey: excerpt from _Democracy and Education_
 - Anthony Chemero and Stephan Käufer: "_Pragmatism, Phenomenology, and Extended Cognition_"
 
+<br>
 
+<p align="center">
+
+<img src="https://gui-cogsci.github.io/files/phil1004-course-map.png.png">
+
+</p>
 
 <br>
 
