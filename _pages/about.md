@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd-year Ph.D. student in [Computer Science at University of Southern California](https://www.cs.usc.edu/). I am co-advised by Professor [Bistra Dilkina](https://viterbi.usc.edu/directory/faculty/Dilkina/Bistra) and Professor [Sven Koenig](http://idm-lab.org/index.html).
+I am a Ph.D. candidate in [Computer Science at University of Southern California](https://www.cs.usc.edu/). I am co-advised by Professor [Bistra Dilkina](https://viterbi.usc.edu/directory/faculty/Dilkina/Bistra) and Professor [Sven Koenig](http://idm-lab.org/index.html).
 
 In 2019, I received my B.E. in computer science from [Yao Class](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University.
 
@@ -21,6 +21,7 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
 [CV](https://taoanhuang.github.io/files/TaoanHuangCV.pdf)
 
 ## News
+* \[2022.03\] I passed the Qualification Exam and now I am a Ph.D. candidate!
 * \[2021.12\] Our paper on ML-guided large neighborhood search for MAPF is accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
 * \[2021.11\] I am joining [Facebook AI Research (FAIR)](https://ai.facebook.com/) as a research intern next May.
 * \[2021.08\] I finished my 3-month research internship at [Amazon Robotics](https://www.amazon.jobs/en/teams/amazon-robotics). 
