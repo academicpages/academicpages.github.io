@@ -19,7 +19,7 @@ We develop a novel framework for estimating causal effects in federated data set
 **Han L,** Wang X, Cai T.  
 We provide doubly robust estimation and inference for the proportion of treatment effect on a true outcome that is explained by a surrogate marker in observational data settings.
 
-**Privacy-preserving and Communication-efficient Causal Inference for Hospital Quality Measurement**.  
+**[Privacy-preserving and Communication-efficient Causal Inference for Hospital Quality Measurement](https://arxiv.org/abs/2203.00768)**.  
 **Han L,** Li Y, Niknam B, Zubizarreta J.  
 We leverage federated multi-hospital data for hospital ranking and quality measurement purposes.
 
