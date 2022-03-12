@@ -23,9 +23,7 @@ More broadly, I am interested in how subsistence-based populations with limited 
 
 Field research
 ------
-<figure><img style="float: left; padding: 20px;" src="/images/zach_spear.jpg" width="300"><figcaption>An elephant at sunset</figcaption>
-</figure>
-
+<img style="float: left; padding: 20px;" src="/images/zach_spear.jpg" width="300" asd>
 
  
 I have conducted ethnographic fieldwork in Southwest Ethiopia since 2015. I have worked with the [Chabu forager-horticulturalists](https://anthro.vancouver.wsu.edu/people/zgarfield/chabu-forager-horticulturalists-sheka-forest/) in the Sheka forests investigating traditional and contemporary systems of leadership among women and men in this relatively egalitarian society.
