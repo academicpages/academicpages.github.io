@@ -23,7 +23,7 @@ More broadly, I am interested in how subsistence-based populations with limited 
 
 Field research
 ------
-<img align="left" src="/images/chabu_interview_small75.jpg" width="300"/>\n*Conducting interviews at a Chabu house, 2016* I have conducted ethnographic fieldwork in Southwest Ethiopia since 2015. I have worked with the [Chabu forager-horticulturalists](https://anthro.vancouver.wsu.edu/people/zgarfield/chabu-forager-horticulturalists-sheka-forest/) in the Sheka forests investigating traditional and contemporary systems of leadership among women and men in this relatively egalitarian society.
+<img align="left" src="/images/chabu_interview_small75.jpg" width="300"/> \n *Conducting interviews at a Chabu house, 2016* I have conducted ethnographic fieldwork in Southwest Ethiopia since 2015. I have worked with the [Chabu forager-horticulturalists](https://anthro.vancouver.wsu.edu/people/zgarfield/chabu-forager-horticulturalists-sheka-forest/) in the Sheka forests investigating traditional and contemporary systems of leadership among women and men in this relatively egalitarian society.
 
 
 Currently, my field research is focused on developing [The Omo Valley Research Project](http://www.omovalleyresearchproject.org) (OVRP), which I co-direct with [Dr. Luke Glowacki](https://www.hsb-lab.org/people). Ethiopia's Omo Valley is among the most culturally diverse regions in the world.<img align="right" src="/images/OVRP-logo-Black-500px.png" width="400"> Dr. Glowacki and I established the OVRP in 2019 and are working to build a large-scale data set from multiple ethnolinguistic groups for comparative and longitudinal social, biological, and health research.
