@@ -17,13 +17,13 @@ I received a B.A. in anthropology and psychology from the University of Nebraska
 
 Research statement
 ======
-My research program focuses on relationships between individual behavioral strategies and group dynamics in the context of cultural transitions. In particular, I investigate how behaviors such as leadership and followership, social learning, decision-making, and economic strategies are related to group-level pressures stemming from, for example, social contexts, network dynamics, political structures, and cultural norms. I am especially interested in how relationships between these individual-level and group-level processes vary across populations and across time. I draw on adaptationist, behavioral-ecological, and cultural-evolutionary theoretical frameworks.
+My research program focuses on relationships between individual behavioral strategies and group dynamics in the context of cultural transitions. <img style="float: right; padding: 20px;" src="/images/chabu_interview_small75.jpg" width="400"/> In particular, I investigate how behaviors such as leadership and followership, social learning, decision-making, and economic strategies are related to group-level pressures stemming from, for example, social contexts, network dynamics, political structures, and cultural norms. I am especially interested in how relationships between these individual-level and group-level processes vary across populations and across time. I draw on adaptationist, behavioral-ecological, and cultural-evolutionary theoretical frameworks.
 
 More broadly, I am interested in how subsistence-based populations with limited market integration navigate increasing pressures from state-level influences and maintain or adapt long-standing components of their social, cultural, and economic livelihoods. My ultimate goals include developing more robust, generalizable theories of human behavior, social organization, and cultural change which are supported and tested through solid empirical foundations.
 
 Field research
 ------
-<img style="float: left; padding: 20px;" src="/images/chabu_interview_small75.jpg" width="400"/>
+<img style="float: left; padding: 20px;" src="/images/zach_spear.jpg" width="400"/>
 
  
 I have conducted ethnographic fieldwork in Southwest Ethiopia since 2015. I have worked with the [Chabu forager-horticulturalists](https://anthro.vancouver.wsu.edu/people/zgarfield/chabu-forager-horticulturalists-sheka-forest/) in the Sheka forests investigating traditional and contemporary systems of leadership among women and men in this relatively egalitarian society.
