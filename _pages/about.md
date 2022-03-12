@@ -10,7 +10,7 @@ redirect_from:
 
 Biographical sketch
 ======
-I am an interdisciplinary behavioral scientist and evolutionary anthropologist. Currently I am a Research Fellow at [The Institute for Advanced Study in Toulouse](http://www.iast.fr/people/zachary-garfield?tab=bio-and-research-interests) <img align="right" src="/images/IAST2022.png" width="90"> and co-director of [The Omo Valley Research Project](http://www.omovalleyresearchproject.org). I also maintain affiliations with the Departments of Anthropology at Washington State University and at Pennsylvania State University.
+I am an interdisciplinary behavioral scientist and evolutionary anthropologist. Currently I am a Research Fellow at [The Institute for Advanced Study in Toulouse](http://www.iast.fr/people/zachary-garfield?tab=bio-and-research-interests) <img align="right" src="/images/IAST2022.png" width="100"> and co-director of [The Omo Valley Research Project](http://www.omovalleyresearchproject.org). I also maintain affiliations with the Departments of Anthropology at Washington State University and at Pennsylvania State University.
 
 
 I received a B.A. in anthropology and psychology from the University of Nebraska–Lincoln in 2012 and completed my Ph.D. in anthropology at Washington State University in 2019.
@@ -25,7 +25,7 @@ Field research
 ------
 I have conducted ethnographic fieldwork in Southwest Ethiopia since 2015. I have worked with the [Chabu forager-horticulturalists](https://anthro.vancouver.wsu.edu/people/zgarfield/chabu-forager-horticulturalists-sheka-forest/) in the Sheka forests investigating traditional and contemporary systems of leadership among women and men in this relatively egalitarian society.
 
-<img src="/images/chabu_interview_small75.jpg" width="200" height="200" />
+<img src="/images/chabu_interview_small75.jpg" width="300" height="200" />
 *Conducting interviews at a Chabu house, 2016*
 
 
