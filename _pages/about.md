@@ -10,7 +10,7 @@ redirect_from:
 
 Biographical sketch
 ======
-I am an interdisciplinary behavioral scientist and evolutionary anthropologist. Currently I am a Research Fellow at [The Institute for Advanced Study in Toulouse](http://www.iast.fr/people/zachary-garfield?tab=bio-and-research-interests) <img align="right" src="/images/IAST2022.png" width="92"> and co-director of [The Omo Valley Research Project](http://www.omovalleyresearchproject.org). I also maintain affiliations with the Departments of Anthropology at Washington State University and at Pennsylvania State University.
+I am an interdisciplinary behavioral scientist and evolutionary anthropologist. Currently I am a Research Fellow at [The Institute for Advanced Study in Toulouse](http://www.iast.fr/people/zachary-garfield?tab=bio-and-research-interests) <img align="right" src="/images/IAST2022.png" width="80"> and co-director of [The Omo Valley Research Project](http://www.omovalleyresearchproject.org). I also maintain affiliations with the Departments of Anthropology at Washington State University and at Pennsylvania State University.
 
 
 I received a B.A. in anthropology and psychology from the University of Nebraska–Lincoln in 2012 and completed my Ph.D. in anthropology at Washington State University in 2019.
@@ -23,8 +23,8 @@ More broadly, I am interested in how subsistence-based populations with limited 
 
 Field research
 ------
-I have conducted ethnographic fieldwork in Southwest Ethiopia since 2015. I have worked with the [Chabu forager-horticulturalists](https://anthro.vancouver.wsu.edu/people/zgarfield/chabu-forager-horticulturalists-sheka-forest/) in the Sheka forests investigating traditional and contemporary systems of leadership among women and men in this relatively egalitarian society. <img align="right" src="/images/chabu_interview_small75.jpg" width="350" height="300"/>\
-*Conducting interviews at a Chabu house, 2016*
+<img align="right" src="/images/chabu_interview_small75.jpg" width="350" height="300"/>\
+*Conducting interviews at a Chabu house, 2016*I have conducted ethnographic fieldwork in Southwest Ethiopia since 2015. I have worked with the [Chabu forager-horticulturalists](https://anthro.vancouver.wsu.edu/people/zgarfield/chabu-forager-horticulturalists-sheka-forest/) in the Sheka forests investigating traditional and contemporary systems of leadership among women and men in this relatively egalitarian society.
 
 
 Currently, my field research is focused on developing [The Omo Valley Research Project](http://www.omovalleyresearchproject.org) (OVRP), which I co-direct with [Dr. Luke Glowacki](https://www.hsb-lab.org/people). Ethiopia's Omo Valley is among the most culturally diverse regions in the world.<img align="right" src="/images/OVRP-logo-Black-500px.png" width="400"> Dr. Glowacki and I established the OVRP in 2019 and are working to build a large-scale data set from multiple ethnolinguistic groups for comparative and longitudinal social, biological, and health research.
