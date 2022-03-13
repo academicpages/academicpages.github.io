@@ -39,6 +39,8 @@ Yongjun Zhang. 2021. "[Using Population Mobility to Measure Racial Residential S
 Pradeep Nalluri, Hao Lin, Lantian Li, Yifan Sun, and Yongjun Zhang. "[Multiplex Anti-Asian Sentiment before and during the Pandemic: Introducing New Datasets from Twitter Mining](https://osf.io/xtw4c/)."
 
 ## Talks
+Yongjun Zhang. March 2022. "Gender, Race, and Intersectionality in the Political Donations of America's Corporate Elite". European University Institute. with Dr. Jennifer Heerwig.
+
 Yongjun Zhang. Dec 2021. "Computational Social Science: Its Recent Development, Opportunities, and Challenges." Peking University [[Poster]](https://yongjunzhang.com/images/pkutalk.png).
 
 Yongjun Zhang. Oct 2021. ["Residential Segregation in U.S. Metro Areas: Using Facebook and Safegraph Data to Assess Racial Segregation."](https://arts-sciences.buffalo.edu/sociology/news-events/colloquium.html) Department of Sociology, SUNY Buffalo [[Poster]](https://yongjunzhang.com/files/ub.pdf).
