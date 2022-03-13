@@ -12,7 +12,7 @@ author_profile: true
 
 ### Under Submission
 * [Investigating the Locality of Neural Network Training Dynamics](https://arxiv.org/pdf/2111.01166.pdf) <br/> **Soham Dan\***, Phanideep Gampa and Anirbit Mukherjee\*. 
-* Understanding Robust Generalization in Learning Regular Languages <br/> **Soham Dan**, Osbert Bastani and Dan Roth
+* [Understanding Robust Generalization in Learning Regular Languages](https://arxiv.org/pdf/2202.09717.pdf) <br/> **Soham Dan**, Osbert Bastani and Dan Roth
 
 
 ### 2022
