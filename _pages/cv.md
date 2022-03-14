@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 permalink: 'https://github.com/mostafa-metwaly/mostafa-metwaly.github.io/blob/master/files/Mostafa%20Othman.pdf'
-url: 'https://github.com/mostafa-metwaly/mostafa-metwaly.github.io/blob/master/files/Mostafa%20Othman.pdf'
+<!-- url: 'https://github.com/mostafa-metwaly/mostafa-metwaly.github.io/blob/master/files/Mostafa%20Othman.pdf' -->
 author_profile: true
 redirect_from:
   - /resume
