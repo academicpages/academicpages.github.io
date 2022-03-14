@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "Project 1"
+excerpt: "This project was part of my Internship in Teleoperation of Cable robots using Touch Haptic device <br/><img src='/images/500x300.png'>
+<a href="{https://www.youtube.com/watch?v=IGJtQsirpvE}" title="TeleOperation of a Cable-driven robot via Touch haptic device
+"><img src="{image-url}" alt="Alternate Text" /></a>
+"
+collection: projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<a href="{video-url}" title="Link Title"><img src="{image-url}" alt="Alternate Text" /></a>
+
