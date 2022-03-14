@@ -33,7 +33,7 @@ Currently, my field research is focused on developing [The Omo Valley Research P
 
 As an interdisciplinary non-profit scientific organization, OVRP is focused on 1) understanding cultural change and diversity in human social organization and behavior and 2) facilitating education, conservation, and philanthropy across Southwest Ethiopia.
 
-<img align="center" style="padding: 20px; position:relative; right:10x;" src="/images/hamar_cow.jpg" width="650"/>
+<img align="center" style="padding: 20px; position:relative; right:100x;" src="/images/hamar_cow.jpg" width="650"/>
 
 Scientific philosophy
 ------
