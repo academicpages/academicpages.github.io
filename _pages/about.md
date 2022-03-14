@@ -37,7 +37,7 @@ Haojie Huang, **Dian Wang**, Robin Walters, Robert Platt
 **Sample Efficient Grasp Learning Using Equivariant Models**  
 Xupeng Zhu, **Dian Wang**, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt  
 *Preprint*  
-[(Webpage)](https://zxp-s-works.github.io/equivariant_grasp_site/)[(PDF)](https://arxiv.org/pdf/2202.09468.pdf)[(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)
+[(Webpage)](https://zxp-s-works.github.io/equivariant_grasp_site/)[(PDF)](https://arxiv.org/pdf/2202.09468.pdf)[Video](https://youtu.be/au59crsgiKw)[(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)
 ` `  
 ` `  
 
