@@ -8,9 +8,12 @@ main:
 #
   - title: "Code"
     url: "https://github.com/simonhansedasi"
+
+
+
 #
-#   - title: "Portfolio"
-#     url: /portfolio/
+  # - title: "Dashboards"
+  #   url: /portfolio/
 #
   # - title: "Teaching"
   #   url: /haikus2/
