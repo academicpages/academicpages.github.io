@@ -2,6 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
+[Download CV](https://github.com/mostafa-metwaly/mostafa-metwaly.github.io/blob/master/files/Mostafa_Othman_CV.pdf)
 author_profile: true
 redirect_from:
   - /resume
