@@ -85,10 +85,10 @@ author:
   bio              : #"Your biography for the left-hand sidebar"
   location         : "Singapore"
   employer         :
-  pubmed           :# "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=fdUUM8kAAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Duc-Le-24/research"
+  researchgate     : "https://www.researchgate.net/profile/Duc-Le-24/research"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      :# #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0115-8726"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
