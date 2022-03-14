@@ -6,4 +6,6 @@ author_profile: true
 
 Link to paper
 
-Image of front page
+<div>
+    <img src="../images/MotionSCPaper1.png" alt="MotionSC Paper Cover" background-size="cover" width="60%">
+</div>

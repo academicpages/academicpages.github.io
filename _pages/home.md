@@ -77,7 +77,7 @@ redirect_from: /sitemap/
 <div>
     Getting started
     <p class="small">
-        Brief Description Here
+        A description of the dataset and its properties can be found in the Dataset page on this website. To download it, please visit the Download page to download the Cartesian or Cylindrical dataset version. An example of how to use the dataset can be found on the MotionSC Github repository linked in the Download page as well. This repository contains the CarlaSC dataloader used in the MotionSC paper as well as python visualization scripts.
     </p>
 </div>  
 
@@ -89,7 +89,7 @@ redirect_from: /sitemap/
     <p class="small">
         See our paper below for more information and our network baseline results: 
         <div>
-            <img src="./images/TempResearchPaper.png" alt="MotionSC Paper Here" background-size="cover">
+            <img src="./images/MotionSCPaperAll.png" alt="MotionSC Paper Here" background-size="cover">
         </div>
         <p class="small">
             If you plan to use our dataset and tools in your work, we would appreciate it if you could cite our paper.
