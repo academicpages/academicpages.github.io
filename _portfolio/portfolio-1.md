@@ -1,6 +1,8 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 2 <a href="{https://www.youtube.com/watch?v=IGJtQsirpvE}" title="TeleOperation of a Cable-driven robot via Touch haptic device
+"></a>
+"
 collection: portfolio
 ---
 
