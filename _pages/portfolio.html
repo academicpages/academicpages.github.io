@@ -1,6 +1,20 @@
 ---
 layout: archive
-title: "Projects"
+title: "Bachelor Projects"
+permalink: /portfolio/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
+---
+layout: archive
+title: "Master Projects"
 permalink: /portfolio/
 author_profile: true
 ---
