@@ -74,7 +74,7 @@ redirect_from: /sitemap/
     </div>
 </div>
 
-<div>
+<div class="page__content">
     Getting started
     <p class="small">
         A description of the dataset and its properties can be found in the Dataset page on this website. To download it, please visit the Download page to download the Cartesian or Cylindrical dataset version. An example of how to use the dataset can be found on the MotionSC Github repository linked in the Download page as well. This repository contains the CarlaSC dataloader used in the MotionSC paper as well as python visualization scripts.
@@ -82,7 +82,7 @@ redirect_from: /sitemap/
 </div>  
 
 
-<div>
+<div class="page__content">
     <div>
         Paper
     </div>
