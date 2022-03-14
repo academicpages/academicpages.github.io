@@ -2,7 +2,6 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-<!-- url: 'https://github.com/mostafa-metwaly/mostafa-metwaly.github.io/blob/master/files/Mostafa%20Othman.pdf' -->
 author_profile: true
 redirect_from:
   - /resume
@@ -41,7 +40,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-<!--   
+  
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -57,4 +56,3 @@ Projects
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
- -->
