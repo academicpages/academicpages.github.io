@@ -1,7 +1,6 @@
 ---
 title: "Portfolio item number 1"
 excerpt: "Short description of portfolio item number 2"
-url: [TeleOperation of a Cable-driven robot via Touch haptic device](https://www.youtube.com/watch?v=IGJtQsirpvE "TeleOperation of a Cable-driven robot via Touch haptic device")
 collection: portfolio
 ---
 
