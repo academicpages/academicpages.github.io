@@ -90,11 +90,11 @@ author:
   email            :  MostafaMetwaly96@gmail.com
   researchgate     :  https://www.researchgate.net/profile/Mostafa-Metwaly
   uri              :
+  youtube          : "mostafaman9/featured"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "Mostafa.Osama.Metwaly"
   foursquare       :
   github           : "mostafa-metwaly"
   google_plus      :
@@ -109,13 +109,12 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "TEFAOSAMA"
+  twitter          : #"TEFAOSAMA"
   vine             :
   weibo            :
   xing             :
-  youtube          : "mostafaman9/featured"
   wikipedia        :
-
+  facebook         : "Mostafa.Osama.Metwaly"
 
 # Reading Files
 include:
