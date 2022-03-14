@@ -2,13 +2,13 @@
 layout: archive
 title: "CV"
 permalink: /cv/
+url: 'https://github.com/mostafa-metwaly/mostafa-metwaly.github.io/blob/master/files/Mostafa%20Othman.pdf'
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
-[Download CV](https://github.com/mostafa-metwaly/mostafa-metwaly.github.io/blob/master/files/Mostafa_Othman_CV.pdf)
 
 Education
 ======
