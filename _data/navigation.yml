@@ -4,8 +4,8 @@ main:
   - title: "CV"
     url: /cv/
  
- - title: "portfolio"
-   url: /portfolio/
+  - title: "portfolio"
+    url: /portfolio/
    
   - title: "Publications"
     url: /publications/
