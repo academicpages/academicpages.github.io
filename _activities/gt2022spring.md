@@ -16,7 +16,7 @@ author_profile: false
 |Th, Feb 24, 2022| 1:30pm - 2:30pm | Alex Waldron | Strict type-II blowup in harmonic map flow | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Mar 3, 2022| 1:30pm - 2:30pm | Andrew Sageman-Furnas | Constructing isometric tori with the same curvatures | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Mar 10, 2022| 1:30pm - 2:30pm | spring break |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
-|Th, Mar 17, 2022| 1:30pm - 2:30pm | Laura Starkston |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
+|Th, Mar 17, 2022| 1:30pm - 2:30pm | Laura Starkston | Complements of rational cuspidal curves | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Mar 24, 2022| 1:30pm - 2:30pm | Christos Mantoulidis |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Mar 31, 2022| 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Apr 7, 2022| 1:30pm - 2:30pm | Gleb Smirnov | Symplectic topology of K3 surfaces via Seiberg-Witten invariants | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
@@ -49,3 +49,6 @@ author_profile: false
   * I'll describe some recent work on 2D harmonic map flow, in which I show that a familiar bound on the blowup rate at a finite-time singularity is sufficient for continuity of the body map. This is relevant to a conjecture of Topping.
 * Gleb Smirnov
   * Symplectomorphism groups may be considered intermediate objects between Lie groups of isometries and full diffeomorphisms. A central question about the relationship between diffeomorphisms and symplectomorphisms is to describe the smoothly trivial symplectic mapping class group, that is, the group of isotopy classes of symplectomorphisms that are smoothly isotopic to the identity. After a short introduction to symplectic mapping class groups, I will explain how to use Seiberg-Witten theory to get information about them. In particular, I will prove that the smoothly trivial symplectic mapping class groups of many K3 surfaces are infinitely generated, thus extending a recent result of Sheridan and Smith.
+
+* Laura Starkston
+  * We will discuss how to present the symplectic topology of the complement of a rational cuspidal curve in a closed symplectic 4-manifold. Even when we know abstractly that the complement of a divisor has a Stein structure, we can ask what is an explicit Stein handlebody diagram or Lefschetz fibration for that complement? This is a difficult question in general. Here we discuss a scenario where we can find explicit Stein handlebody diagrams. This is joint work with Marco Golla.
