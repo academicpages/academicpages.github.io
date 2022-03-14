@@ -37,7 +37,7 @@ Haojie Huang, **Dian Wang**, Robin Walters, Robert Platt
 **Sample Efficient Grasp Learning Using Equivariant Models**  
 Xupeng Zhu, **Dian Wang**, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt  
 *Preprint*  
-[(PDF)](https://arxiv.org/pdf/2202.09468.pdf)[(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)
+[(Webpage)](https://zxp-s-works.github.io/equivariant_grasp_site/)[(PDF)](https://arxiv.org/pdf/2202.09468.pdf)[(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)
 ` `  
 ` `  
 
@@ -69,7 +69,7 @@ Alexander Wilkinson, Michael Gonzales, Patrick Hoey, David Kontak, **Dian Wang**
 **Action Priors for Large Action Spaces in Robotics**  
 Ondrej Biza, **Dian Wang**, Robert Platt, Jan-Willem van de Meent, Lawson LS Wong  
 *AAMAS 2021, London, UK*  
-[(PDF)](https://arxiv.org/pdf/2101.04178.pdf)
+[(PDF)](https://arxiv.org/pdf/2101.04178.pdf)[(Code)](https://github.com/ondrejba/action_priors)
 ` `  
 ` `  
 
