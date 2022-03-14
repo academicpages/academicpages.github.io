@@ -6,6 +6,13 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<iframe
+    src="/files/Mostafa%20Othman.pdf"
+    frameBorder="0"
+    scrolling="auto"
+    height="100%"
+    width="100%"
+></iframe>
 
 {% include base_path %}
 
