@@ -13,12 +13,12 @@ redirect_from:
     height="100%"
     width="100%"
 ></iframe> -->
-<p>&nbsp;</p>
-##### :open_file_folder: [***My CV ***](/files/Mostafa Othman.pdf)
-<p>&nbsp;</p>
 
 
 {% include base_path %}
+<p>&nbsp;</p>
+##### [***My CV ***](files/Mostafa Othman.pdf)
+<p>&nbsp;</p>
 
 Education
 ======
