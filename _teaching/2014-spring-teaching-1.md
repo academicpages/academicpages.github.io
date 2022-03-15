@@ -8,9 +8,7 @@ date: 2022-01-01
 location: "Fullerton, CA"
 ---
 
-We mainly talk about Bitcoin mechanism and programming. 
-
-Students will get free TuffyToken upon course completion!
+We mainly talk about Bitcoin mechanism and programming. Students will get free TuffyToken upon course completion!
 
 Description & Objectives
 ======
