@@ -54,5 +54,8 @@ Guojie Song, Qingqing Long, Yi Luo, Yiming Wang, **Yilun Jin**. <br>In *IEEE Tra
 Kewei Cheng, Tao Fan, **Yilun Jin**, Yang Liu, Tianjian Chen, Qiang Yang. <br>In *The 1st International Workshop on Federated Machine Learning for User Privacy and Data Confidentiality (FML-IJCAI’19)*.
 
 
+# Book Chapters 
 
+* (In Chinese) **Chapter 6: Differential Privacy** and **Chapter 8: Federated Learning** \[purchase [link](https://item.jd.com/13604520.html)\] <br>
+In *Privacy-Preserving Computing*, Kai Chen and Qiang Yang, Publishing House of Electronics Industry, China, 2022. 
 
