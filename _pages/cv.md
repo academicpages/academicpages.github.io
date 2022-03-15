@@ -6,13 +6,17 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<iframe
+<!-- <iframe
     src="/files/Mostafa%20Othman.pdf"
     frameBorder="0"
     scrolling="auto"
     height="100%"
     width="100%"
-></iframe>
+></iframe> -->
+<p>&nbsp;</p>
+##### :open_file_folder: [***My CV ***](/files/Mostafa Othman.pdf)
+<p>&nbsp;</p>
+
 
 {% include base_path %}
 
