@@ -14,7 +14,7 @@ redirect_from:
     width="100%"
 ></iframe> -->
 <p>&nbsp;</p>
-##### :open_file_folder: [My CV](files/Mostafa%20Othman.pdf)
+##### :open_file_folder: [My CV](http://mostafa-metwaly.github.io/files/Mostafa%20Othman.pdf)
 <p>&nbsp;</p>
 
 {% include base_path %}
