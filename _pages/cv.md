@@ -14,7 +14,7 @@ redirect_from:
     width="100%"
 ></iframe> -->
 {% include base_path %}
-##  [***My CV :page_facing_up: ***](http://mostafa-metwaly.github.io/files/Mostafa%20Othman.pdf)
+##  [***My CV***](http://mostafa-metwaly.github.io/files/Mostafa%20Othman.pdf)
 
 Education
 ======
