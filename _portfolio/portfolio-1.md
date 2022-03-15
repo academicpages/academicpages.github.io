@@ -4,6 +4,8 @@ excerpt: "<br/> While discrete-event simulators are essential tools for architec
 <br />
 
 [Paper](https://arxiv.org/abs/2105.05821) <br />
+
+<img src='/images/100M_scalability_nGPUs.pdf'>
 "
 collection: portfolio
 ---
