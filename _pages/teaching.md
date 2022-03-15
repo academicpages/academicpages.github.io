@@ -11,9 +11,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+<!--
 ## Massachusetts Institute of Technology
 
-- Informal Teaching Assistant, 20.260/20.460 Comptationl Anlysis: Biological Data, Spring 2022
+- Informal Teaching Assistant, 20.260/20.460 Comptationl Analysis: Biological Data, Spring 2022
+-->
 
 ## Brown University
 
