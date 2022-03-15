@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Sourav Saha, a researcher in the field of Information Retrieval (IR), Machine Learning (ML) and Natural Language Processing (NLP).
+Hi, I am first year PhD student at Indian Statistical Institute, Kolkata advised by [Prof. Mandar Mitra](https://www.isical.ac.in/~mandar/). I have been reading about some recent papers on Explainability and Interepretability, Neural IR to find a suitable research problem for my doctoral research. 
