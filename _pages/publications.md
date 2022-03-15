@@ -18,7 +18,7 @@ author_profile: true
 - [Google Scholar](https://scholar.google.com/citations?user=bd-bLJUAAAAJ&hl=en)
 - <sup>\*</sup>Contributed equally
 
-## Preprint
+## Preprints
 1. Q. Zhang, K. Sampani, M. Xu, S. Cai, Y. Deng, H. Li, J. K. Sun, G. Karniadakis. [AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images](https://arxiv.org/abs/2106.02800). *arXiv preprint arXiv:2106.02800*, 2021
 
 ## Journal Papers
