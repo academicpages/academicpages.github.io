@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am currently a Postdoctoral Associate in [Alter lab](https://ragoninstitute.org/alter/) at [Ragon Institute at MGH, MIT and Harvard](https://ragoninstitute.org/), co-advised by Prof. Douglas A Lauffenburger at MIT.
+- I am currently a Postdoctoral Associate in [Alter lab](https://ragoninstitute.org/alter/) at [Ragon Institute of MGH, MIT and Harvard](https://ragoninstitute.org/), co-advised by Prof. Douglas A Lauffenburger at MIT.
 - Prior to joining the Alter lab, I received my Ph.D. in [School of Engineering](https://engineering.brown.edu/) at [Brown University](https://www.brown.edu/), working with [Prof. George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis), in 2021. I received my B.Eng. degree in [School of Naval Architecture, Ocean and Civil Engineering](https://en.naoce.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2015.
 - My current research interest is on computational system serology for infectious diseases. My broad research interests focus on biomechanical and bioinformatic modeling in type 2 diabetes and infectious diseases.
 - [Curriculum Vitae](http://yixiangd.github.io/files/YixiangDeng_CV.pdf)
