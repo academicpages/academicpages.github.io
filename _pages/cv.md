@@ -16,9 +16,9 @@ redirect_from:
 
 
 {% include base_path %}
-<p>&nbsp;</p>
-##### :page_facing_up: [***My CV***](http://mostafa-metwaly.github.io/files/Mostafa%20Othman.pdf)
-<p>&nbsp;</p>
+
+## :page_facing_up: [***My CV***](http://mostafa-metwaly.github.io/files/Mostafa%20Othman.pdf)
+
 
 Education
 ======
