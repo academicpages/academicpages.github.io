@@ -1,6 +1,6 @@
 ---
 title: "Bachelor Graduation Project"
-excerpt: "Tele-Operated VR control of a Self-Aware robot in a hostile environment <br/><img src='https://img.youtube.com/vi/Fn2Nb0Y-_eM?t/maxresdefault.jpg'> "
+excerpt: "Tele-Operated VR control of a Self-Aware robot in a hostile environment <br/><img src='https://img.youtube.com/vi/oxwMDySRGDk/maxresdefault.jpg'> "
 collection: portfolio
 ---
 
