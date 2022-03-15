@@ -17,7 +17,7 @@ redirect_from:
 
 {% include base_path %}
 <p>&nbsp;</p>
-##### [***My CV ***](files/Mostafa Othman.pdf)
+##### [***My CV ***](/files/Mostafa%20Othman.pdf)
 <p>&nbsp;</p>
 
 Education
