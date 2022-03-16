@@ -17,7 +17,7 @@ author_profile: false
 |Th, Mar 3, 2022| 1:30pm - 2:30pm | Andrew Sageman-Furnas | Constructing isometric tori with the same curvatures | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Mar 10, 2022| 1:30pm - 2:30pm | spring break |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Mar 17, 2022| 1:30pm - 2:30pm | Laura Starkston | Complements of rational cuspidal curves | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
-|Th, Mar 24, 2022| 1:30pm - 2:30pm | Christos Mantoulidis |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
+|Th, Mar 24, 2022| 1:30pm - 2:30pm | Christos Mantoulidis | A nonlinear spectrum on closed manifolds | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Mar 31, 2022| 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Apr 7, 2022| 1:30pm - 2:30pm | Gleb Smirnov | Symplectic topology of K3 surfaces via Seiberg-Witten invariants | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Apr 14, 2022| 1:30pm - 2:30pm | Jonathan Zhu |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
@@ -52,3 +52,16 @@ author_profile: false
 
 * Laura Starkston
   * We will discuss how to present the symplectic topology of the complement of a rational cuspidal curve in a closed symplectic 4-manifold. Even when we know abstractly that the complement of a divisor has a Stein structure, we can ask what is an explicit Stein handlebody diagram or Lefschetz fibration for that complement? This is a difficult question in general. Here we discuss a scenario where we can find explicit Stein handlebody diagrams. This is joint work with Marco Golla.
+
+* Christos Mantoulidis
+  * The p-widths of a closed Riemannian manifold are a nonlinear
+analogue of the spectrum of its Laplace--Beltrami operator, which was
+defined by Gromov in the 1980s and corresponds to areas of a certain
+min-max sequence of hypersurfaces. By a recent theorem of
+Liokumovich--Marques--Neves, the p-widths obey a Weyl law, just like
+the eigenvalues do. However, even though eigenvalues are explicitly
+computable for many manifolds, there had previously not been any >=
+2-dimensional manifold for which all the p-widths are known. In recent
+joint work with Otis Chodosh, we found all p-widths on the round
+2-sphere and thus the previously unknown Liokumovich--Marques--Neves
+Weyl law constant in dimension 2. 
