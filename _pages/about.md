@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Polly Chan"
 excerpt: ""
 author_profile: true
 redirect_from: 
