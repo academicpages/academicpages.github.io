@@ -38,3 +38,19 @@ Students, faculty and staff who are Crypto advocate are welcomed to join us!
 Site: [https://tuffyverse.com/blockchain-club](https://tuffyverse.com/blockchain-club) 
 
 Discord: [https://discord.gg/AgEQmvH6](https://discord.gg/AgEQmvH6)
+
+[Publications](https://wenlinhan.github.io/publications/)
+======
+
+[Talks](https://wenlinhan.github.io/talks/)
+======
+
+[Teaching](https://wenlinhan.github.io/teaching/)
+======
+
+[Service](https://wenlinhan.github.io/cv/)
+======
+
+[Students](https://wenlinhan.github.io/students/)
+======
+
