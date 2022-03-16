@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: It's Hard to Optimize Recurrent Models in PyMC3
 mathjax: true
 ---

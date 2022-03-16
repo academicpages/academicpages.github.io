@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Landsat and the Prairie Potholes
 mathjax: true
 ---

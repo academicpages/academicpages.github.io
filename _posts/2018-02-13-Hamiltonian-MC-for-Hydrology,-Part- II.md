@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Hamiltonian Monte Carlo for Hydrology, Part II
 mathjax: true
 ---

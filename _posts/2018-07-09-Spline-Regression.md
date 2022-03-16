@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Spline regression in PyMC3
 mathjax: true
 ---

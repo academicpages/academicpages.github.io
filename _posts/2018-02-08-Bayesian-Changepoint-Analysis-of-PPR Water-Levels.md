@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Bayesian Changepoint Analysis of PPR Water Levels
 mathjax: true
 ---
