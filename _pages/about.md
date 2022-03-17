@@ -12,7 +12,7 @@ I am Yusheng Su, a Ph.D. candidate in [THUNLP Lab](https://twitter.com/tsinghuan
 
 
 ## News
-* [Mar. 2021] Got one paper accepted at ACL 2022 (Findings). 
+* [Mar. 2022] Got one paper accepted at ACL 2022 (Findings). 
 * [Aug. 2021] Got one paper accepted at IEEE/TASLP 2021 (Journal). 
 * [Feb. 2021] Got one paper accepted at WWW 2021 (Workshop). 
 * [Aug. 2020] Got one papers accepted at EMNLP 2020 (Findings).
