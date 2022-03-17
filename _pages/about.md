@@ -23,6 +23,8 @@ I publish under my official Vietnamese name, Tuan Dung Nguyen.
 News
 ======
 
+[16-03-2022] Our paper, _Mapping Topics in 100,000 Real-life Moral Dilemmas_, is accepted to [ICWSM 2022](https://icwsm.org/2022/index.html/)!
+
 [30-11-2021] I am honored to attend the [International School in Artificial Intelligence and its Applications in Computer Science](https://www.monash.edu/it/events/2021/international-school-in-artificial-intelligence-and-its-applications-in-computer-science-isaac) (ISAAC 2021) this december at [Monash University](https://www.monash.edu/).
 
 [27-04-2021] I will be volunteering at the [ICWSM-2021](https://www.icwsm.org/2021/index.html) conference.
