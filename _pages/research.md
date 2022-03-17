@@ -26,7 +26,7 @@ redirect_from:
 
 ## In Preparation
 
-- Hector Bahamonde and Outi Sarpila. "Physical Appearance and Turnout in Finnish Elections: An Inequality Perspective." <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Physical/main/abstract.rtf)
+- Hector Bahamonde and Outi Sarpila. "Physical Appearance and Turnout in Finnish Elections: An Inequality Perspective." <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Physical/main/abstract.txt)
 
 - Hector Bahamonde, Heikki Kaupi, Igor Kovac and Wilma Nissila. "Not Just Guns or Butter, but What Came First—Guns or Butter? Introducing GVAR to International Relations." <br/> [[Abstract]](https://github.com/hbahamonde/Bahamonde_Kovac/raw/master/abstract.txt)
 
