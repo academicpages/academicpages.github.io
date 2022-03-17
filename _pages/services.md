@@ -14,3 +14,5 @@ author_profile: true
   - [Journal of Computational Physics](https://www.journals.elsevier.com/journal-of-computational-physics)
   - [Extreme Mechanics Letter](https://www.sciencedirect.com/journal/extreme-mechanics-letters)
   - [Micromachines](https://www.mdpi.com/journal/micromachines)
+  - [Tissue and Cell](https://www.sciencedirect.com/journal/tissue-and-cell)
+  - [Brain Sciences](https://www.mdpi.com/journal/brainsci)
