@@ -83,11 +83,11 @@ author:
   name             : "Ayush Pandey"
   avatar           : "profile.jpg"
   bio              : "Distributed systems researcher"
-  location         : "Paris"
-  employer         :
+  location         :
+  employer         : "Sorbonne Université"
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "ayush.pandey@lip6.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ayushpandey8439"
   google_plus      :
   keybase          :
   instagram        :
@@ -243,7 +243,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
