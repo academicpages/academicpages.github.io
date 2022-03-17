@@ -56,6 +56,6 @@ Kewei Cheng, Tao Fan, **Yilun Jin**, Yang Liu, Tianjian Chen, Qiang Yang. <br>In
 
 # Book Chapters 
 
-* (In Chinese) **Chapter 6: Differential Privacy** and **Chapter 8: Federated Learning** \[purchase [link](https://item.jd.com/13604520.html)\] <br>
+* (In Chinese) **Chapter 6: Differential Privacy (差分隐私)** and **Chapter 8: Federated Learning (联邦学习)** \[purchase [link](https://item.jd.com/13604520.html)\] <br>
 In *Privacy-Preserving Computing*, Kai Chen and Qiang Yang, Publishing House of Electronics Industry, China, 2022. 
 
