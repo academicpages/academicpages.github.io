@@ -39,15 +39,12 @@ I am Yusheng Su, a Ph.D. candidate in [THUNLP Lab](https://twitter.com/tsinghuan
 
 ## Publications
 
-<!-- ### 2022 -->
 * Yujia Qin, Xiaozhi Wang, <b>Yusheng Su</b>, Yankai Lin, Ning Ding, Zhiyuan Liu, Juanzi Li, Lei Hou, Peng Li, Maosong Sun, Jie Zhou. <b>Exploring Low-dimensional Intrinsic Task Subspace via Prompt Tuning</b> (ACL-Findings 2022). [[pdf]](https://arxiv.org/abs/2110.07867)
 
-<!-- ### 2021 -->
 * Zhengyan Zhang, Xu Han, Hao Zhou, Pei Ke, Yuxian Gu, Deming Ye, Yujia Qin, <b>Yusheng Su</b>, Haozhe Ji, Jian Guan, Fanchao Qi, Xiaozhi Wang, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun. <b>CPM: A large-scale generative Chinese pre-trained language model</b> (AI OPEN 2021). [[pdf]](https://www.sciencedirect.com/science/article/pii/S266665102100019X) [[code]](https://github.com/TsinghuaAI/CPM)
 
 * <b>Yusheng Su</b>, Xu Han, Yankai Lin, Zhengyan Zhang, Zhiyuan Liu, Peng Li, Maosong Sun. <b>CSS-LM: A Contrastive Framework for Semi-supervised Fine-tuning of Pre-trained Language Models</b> (WWW-workshop 2020, IEEE/TASLP 2021). [[pdf]](https://arxiv.org/abs/2102.03752) [[code]](https://github.com/thunlp/CSS-LM) 
 
-<!-- ### 2020 -->
 * <b>Yusheng Su</b>, Xu Han, Zhengyan Zhang, Peng Li, Zhiyuan Liu, Yankai Lin, Jie Zhou, Maosong Sun. <b>CokeBERT: Contextual Knowledge Selection and Embedding towards Enhanced Pre-Trained Language Models</b> (EMNLP-Findings 2020, AI OPEN 2021). [[pdf]](https://arxiv.org/abs/2009.13964) [[pdf]](https://www.sciencedirect.com/science/article/pii/S2666651021000188) [[code]](https://github.com/thunlp/CokeBERT)
 
 
