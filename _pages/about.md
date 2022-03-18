@@ -8,21 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student at the Laboratoire de Mathématiques d'Orsay. I work under the supervision of [Christophe Giraud](https://www.math.u-psud.fr/~giraud/) and [Olga Klopp](http://kloppolga.perso.math.cnrs.fr/) on link prediction with bandit feedback, and on network estimation.
+I am a third year PhD student at the Laboratoire de Mathématiques d'Orsay. I work under the supervision of [Christophe Giraud](https://www.math.u-psud.fr/~giraud/) and [Olga Klopp](http://kloppolga.perso.math.cnrs.fr/) on bandit problems, and on network estimation.
 
 # News
    
    I have taken a gap in my PhD from September 2020 to February 2021 to work with [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) and Gilles Stolzt on Adaptative Electric Load Forecasting, and Renewable Energy Production Forecasting.
 
-# Papers and software
+# Papers, preprints, and software
 
-**Hierarchical transfer learning with applications for electricity load forecasting**, A. Antoniadis, S. Gaucher, Y. Goude. [Preprint on HAL.](https://hal.archives-ouvertes.fr/hal-03429702)
+**The price of unfairness in linear bandits with biased feedback**, S. Gaucher, A. Carpentier, C. Giraud. [Preprint on Hall](https://hal.archives-ouvertes.fr/hal-03611628)
 
-**Optimality of variational inference for stochastic block model with missing links**, S. Gaucher. [NeuRIPS 2021](https://papers.nips.cc/paper/2021/file/a5e308070bd6dd3cc56283f2313522de-Paper.pdf)
+**Hierarchical transfer learning with applications for electricity load forecasting**, A. Antoniadis, S. Gaucher, Y. Goude. [Preprint on HAL](https://hal.archives-ouvertes.fr/hal-03429702)
 
 **Finite Continuum-Armed Bandits**, S. Gaucher. [NeuRIPS 2020](https://proceedings.neurips.cc/paper/2020/file/20c86a628232a67e7bd46f76fba7ce12-Paper.pdf), [Short Presentation](https://slideslive.com/s/solenne-gaucher-43495), [Poster](../FCAB.pdf)
 
 **Outliers Detection in Networks with Missing Links**, S. Gaucher, O. Klopp, G. Robin (2021). [Computational Statistics and Data Analysis](https://www.sciencedirect.com/science/article/pii/S0167947321001420).[Preprint on Arxiv](https://arxiv.org/abs/1911.13122)
+
+**Optimality of variational inference for stochastic block model with missing links**, S. Gaucher. [NeuRIPS 2021](https://papers.nips.cc/paper/2021/file/a5e308070bd6dd3cc56283f2313522de-Paper.pdf)
 
 **Maximum Likelihood Estimation of Sparse Networks with Missing Observations**, S. Gaucher, O. Klopp (2021). [Journal of Statistical Planning and Inference](https://www.sciencedirect.com/science/article/abs/pii/S0378375821000422), [Preprint on HAL](https://hal.archives-ouvertes.fr/hal-02050003)
 
