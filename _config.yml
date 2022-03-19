@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ludovic Arnould WebPage"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ludovic Arnould"
 description              : &description ""
