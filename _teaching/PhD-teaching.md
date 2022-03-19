@@ -1,8 +1,10 @@
 ---
-title: "Teaching Experience"
+title: "Teaching experience"
 collection: teaching
-permalink:
+type: ""
+permalink: /teaching/PhD-teaching
 venue: ""
+date:
 location: ""
 ---
 
