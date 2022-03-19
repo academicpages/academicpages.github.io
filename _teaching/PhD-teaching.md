@@ -1,24 +1,9 @@
 ---
-title: "Teaching experience"
-collection: teaching
-type: "Courses"
-permalink: /teaching/PhD
-venue: "Sorbonne Université"
-date: October 2020 - May 2022
-location: "Paris, France"
----
 
-Below is a list of the few courses I taught at Sorbonne Université during my Ph.D.
+Below is a list of the few courses I taught at Sorbonne Université during my Ph.D from October 2020 to May 2022.
 
-Probability - L3
-======
-Last year of bachelor in Mathematics.
+- **Probability** -  Last year of B.S in mathematics.
 
+- **Statistics** - Last year of B.S in mathematics.
 
-Statistics - L3 
-======
-Last year of bachelor in Mathematics.
-
-Linear Methods
-======
-First year of Ms.C in mathematics at ISUP.
+- **Linear Models** - First year of M.S in mathematics (taught at ISUP)
