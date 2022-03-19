@@ -6,7 +6,7 @@ date: March 18 2022
 venue: '[<b><i>Accepted</i></b>]'
 doi: ''
 pubtype: 'journal'
-authors: 'Rameez Arshad, Francesco Saccon, , Pushan Bag , Avratanu Biswas, Claudio Calvaruso and *more authors*'
+authors: 'Rameez Arshad, Francesco Saccon, Pushan Bag , Avratanu Biswas, Claudio Calvaruso and more authors'
 excerpt_separator: ""
 ---
 ### Abstract
