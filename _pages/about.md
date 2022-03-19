@@ -18,7 +18,7 @@ In my leisure time, I enjoy playing different sports (especially Cricket and Tab
 > Life is what happens when you're busy making other plans - *John Lennon*
 
 ## Updates 
-- Mar 2022: Two of my co-authored articles got accepted in [Plant Physiology](https://academic.oup.com/plphys) journal, more in the [Publication section](https://avratanubiswas.github.io/publications/)! 😊 
+- Mar 2022: Two of my co-authored articles got accepted in [Plant Physiology](https://academic.oup.com/plphys) journal!😊(details in the [Publication section](https://avratanubiswas.github.io/publications/))
 - Feb 2022: Joined [Streamlit creators group](https://streamlit.io/creators)!🎈
 - Nov 2021: I have been awarded a [Straub Young Scientist Prize 2021](http://www.brc.hu/hu/blog/2021/11/5/8-fiatal-kutato-nyerte-el-straub-fiatal-kutatoi-dij-at).
 - Nov 2021: We submitted our paper titled, [Trimeric Photosystem I facilitates energy transfer from phycobilisomes in Synechocystis PCC 6803](https://www.biorxiv.org/content/10.1101/2021.10.25.465751v1.full.pdf). 
