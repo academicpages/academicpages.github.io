@@ -3,7 +3,7 @@ title: "A kaleidoscope of photosynthetic antenna proteins and their emerging rol
 collection: publications
 permalink: /publication/update_PlantPhysiology
 date: March 18 2022
-venue: 'Plant Physiology Update'
+venue: '[<b><i>Accepted</i></b>]'
 doi: ''
 pubtype: 'journal'
 authors: 'Rameez Arshad, Francesco Saccon, , Pushan Bag , Avratanu Biswas, Claudio Calvaruso and *more authors*'
