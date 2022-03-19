@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Charles Koutcheme (Ph.D Student)"
 title_separator          : "-"
 name                     : &name "Charles Koutcheme"
-description              : &description "Doctoral student working on applications of source code modelling for computing education"
+description              : &description "Doctoral student working on applications of source code modelling for computing education."
 url                      : https://koutchemecharles.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KoutchemeCharles/koutchemecharles.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "YCharlie"
+  name             : "Charlie"
   avatar           : "profile.png"
   bio              : "Ph.D Student"
   location         : "Espoo, Finland"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/charles-koutcheme/"
+  linkedin         : "charles-koutcheme"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/koutakch"
+  twitter          : "koutakch"
   vine             :
   weibo            :
   xing             :
