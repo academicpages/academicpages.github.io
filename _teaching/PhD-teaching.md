@@ -2,7 +2,6 @@
 title: "Teaching experience"
 collection: teaching
 type: ""
-permalink: /teaching/PhD-teaching
 venue: ""
 date:
 location: ""
