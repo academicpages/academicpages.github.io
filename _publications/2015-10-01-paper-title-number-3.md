@@ -1,15 +1,4 @@
----
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
----
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+Analyzing the tree-layer structure of Deep Forests, Ludovic Arnould, Claire Boyer, Erwan Scornet. Proceedings of the 38th International Conference on Machine Learning, PMLR 139:342-350, 2021. [Download paper here](http://proceedings.mlr.press/v139/arnould21a/arnould21a.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Is interpolation benign for random forests?, Ludovic Arnould, Claire Boyer, Erwan Scornet. (2022). Preprint, arXiv:2202.03688, [Download paper here](https://arxiv.org/pdf/2202.03688)
