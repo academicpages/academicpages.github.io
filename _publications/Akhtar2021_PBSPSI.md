@@ -3,7 +3,7 @@ title: "Trimeric Photosystem I facilitates energy transfer from phycobilisomes i
 collection: publications
 permalink: /publication/Akhtar2021_PBSPSI
 date: Feb 27, 2022
-venue: '[<b><i>Plant Physiology (Accepted) </i></b>]'
+venue: Plant Physiology
 doi: 'https://doi.org/10.1101/2021.10.25.465751'
 pubtype: 'journal'
 authors: 'Parveen Akhtar, Avratanu Biswas, Fanny Balog-Vig, Ildikó Domonkos, László Kovács and Petar H. Lambrev'
