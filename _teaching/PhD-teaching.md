@@ -1,11 +1,4 @@
----
-title: "Teaching experience"
-collection: teaching
-type: ""
-venue: ""
-date:
-location: ""
----
+
 
 Below is a list of the few courses I taught at Sorbonne Université during my Ph.D from October 2020 to May 2022.
 
