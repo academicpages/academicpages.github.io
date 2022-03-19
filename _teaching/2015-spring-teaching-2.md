@@ -1,20 +1,24 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching experience"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Courses"
+permalink: /teaching/PhD
+venue: "Sorbonne Université"
+date: October 2020 - May 2022
+location: "Paris, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Below is a list of the few courses I taught at Sorbonne Université during my Ph.D.
 
-Heading 1
+Probability - L3
 ======
+Last year of bachelor in Mathematics.
 
-Heading 2
-======
 
-Heading 3
+Statistics - L3 
 ======
+Last year of bachelor in Mathematics.
+
+Linear Methods
+======
+First year of Ms.C in mathematics at ISUP.
