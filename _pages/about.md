@@ -33,3 +33,8 @@ Below is a list of the few courses I taught at Sorbonne Université during my Ph
 - **Statistics** - Last year of B.S in mathematics.
 
 - **Linear Models** - First year of M.S in mathematics (taught at ISUP)
+
+
+CV
+======
+You can download my cv here: [link](https://github.com/Ludovic-arnould/Ludovic-arnould.github.io/tree/master/files/CV_LA.pdf)
