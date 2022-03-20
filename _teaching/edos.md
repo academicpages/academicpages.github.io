@@ -62,5 +62,6 @@ Slides das Aulas
 1. [Aula do dia 21/02/2022](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/EDO-aula-06.pdf)
 1. [Aula do dia 23/02/2022](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/EDO-aula-07.pdf)
 1. [Aula do dia 02/03/2022](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/EDO-aula-08.pdf)
+1. [Aula do dia 14/03/2022](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/EDO-aula-09.pdf)
 
 
