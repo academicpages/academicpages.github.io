@@ -14,8 +14,9 @@ I am a first-year doctoral student at Aalto University. I am working on an inter
 
 ## Recent news 
 
-> Our paper: "Hack a Way! Analysis of SQL injection attempts in a cybersecurity course" has been accepted for publication at [ITiCSE](https://iticse.acm.org/2022/)
-> 
+> Our paper: "Hack a Way! Analysis of SQL injection attempts in a cybersecurity course" has been accepted for publication at [ITiCSE](https://iticse.acm.org/2022/)!
+
+
 ## Me and my research
 
 I believe improving education is one of the best ways to impact society positively, and I consider AI a turning stone.  
