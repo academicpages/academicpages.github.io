@@ -12,6 +12,10 @@ Hello! Welcome to my web page.
 
 I am a first-year doctoral student at Aalto University. I am working on an interdisciplinary project in the LeTech (Learning + Technology) research group, which combines knowledge in computing education, and my interest in AI/ML. 
 
+## Recent news 
+
+> Our paper: "Hack a Way! Analysis of SQL injection attempts in a cybersecurity course" has been accepted for publication at [ITiCSE](https://iticse.acm.org/2022/)
+> 
 ## Me and my research
 
 I believe improving education is one of the best ways to impact society positively, and I consider AI a turning stone.  
