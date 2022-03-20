@@ -18,7 +18,7 @@ My research interests include computer vision, machine learning and image proces
 * texture synthesis
 
 
-Here is my [CV](https://tlliao.github.io/files/cv_ltl.pdf) (updated in Mar. 2020) and [contact information](#contact information).
+Here is my [CV](https://tlliao.github.io/files/cv_ltl.pdf) (updated in Mar. 2022) and [contact information](#contact information).
 
 
 ## News
