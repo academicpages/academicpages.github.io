@@ -53,7 +53,7 @@ learning, too.
 {% endcapture %}
 
 <div class="notice--danger">
-  {{ notice-text | markdownify }}
+  `{{ notice-text | markdownify }}`{=markdown}
 </div>
 
 I use [jekyll](https://jekyllrb.com/) to create my website. Jekyll converts
