@@ -14,9 +14,9 @@ I am a first-year doctoral student at Aalto University. I am working on an inter
 
 ## Me and my research
 
-I first developed an interest in education from my teaching assistant experience at the University of Liege. I believe improving education is one of the best ways to positively impact society, and I consider AI as a turning stone.  
+I believe improving education is one of the best ways to impact society positively, and I consider AI a turning stone.  
 
-I completed a master's degree in Artificial Intelligence at the University of Liege, but I came to Aalto to work on my master's thesis. In my thesis, I applied data mining and machine learning techniques to study how students learn in an online course and how their learning behaviors can be used to predict who will drop out. My highlighted, among other things, that struggling with programming assignments is one of the main factors for dropping out of a course. To alleviate this problem, it is important to support students when they learn how to program. However, it is difficult for educational teams to provide each student with detailed help and feedback, especially for large classes. 
+I initially came to Aalto to work on my master's thesis. In my thesis, I leveraged data mining methods to study how students learn in online courses, and I trained machine learning models to investigate whether the discovered learning behaviors can predict which students will drop out. My research confirmed, among other things, that struggling with programming assignments is one of the main factors for dropping out of a course, highlighting once again the importance of supporting students when they learn how to program. However, from my personal experience as a teaching assistant, I know that it is difficult for educational teams to help each student, especially for large classes. My doctoral dissertation aims to address this problem. The goal is to develop advanced machine learning methods that can automatically discover issues in students' programming solutions and provide feedback highlighting and addressing these issues. 
 
 My doctoral dissertation aims to address this issue. My goal is to develop machine learning methods that can automatically discover challenges students face when working on their programming assignments and provide feedback that addresses these challenges. 
 
@@ -26,7 +26,7 @@ Stay tuned!
 
 ## This website
 
-It is currently a bit empty since I just started my doctoral studies. My goal is to use these pages to present who I am, showcase my work, and share my thoughts with others. I will write in these pages primarily as an exercise, because I believe part of being a researcher is being able to communicate effectively with others, both in person and online.
+It is a bit empty, but I will add more stuff over time. I will write on these pages primarily as an exercise because I believe part of being a researcher is being able to communicate effectively with others, both in-person and online. My goal is to use these pages to present who I am, showcase my work, and share my thoughts with others. 
 
 
 
