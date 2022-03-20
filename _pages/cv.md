@@ -9,9 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Download
+Download
 ======
-You can download the pdf [here](http://artemisp.github.io/files/CV.pdf) -->
+You can download the CV pdf [here](http://artemisp.github.io/files/CV.pdf)
+and the abridged resume [here](http://artemisp.github.io/files/resume.pdf)
 
 
 Education
