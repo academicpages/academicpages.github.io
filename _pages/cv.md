@@ -17,20 +17,17 @@ Education
 Work experience
 ======
 * **Microsoft**
-  * Data Scientist Intern
-  * Summer 2021
+  * Data Scientist Intern (Summer 2021)
 
 * **Arize AI**
-  * Data Science Intern
-  * Summer 2020
+  * Data Science Intern (Summer 2020)
 
 * **Oliver Wyman**
   * Senior Analyst, Retail and Business Banking Consumer Insights Group (Winter 2018 - Summer 2019)
   * Analyst, Retail and Business Banking Consumer Insights Group (Summer 2014 - Winter 2018)
 
 * **Cornerstone Research**
-  * Analyst
-  * Summer 2012 - Summer 2014
+  * Analyst (Summer 2012 - Summer 2014)
   
 Publications
 ======
