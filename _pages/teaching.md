@@ -33,3 +33,7 @@ You can check our syllabus [here](https://yongjunzhang.com/files/css/CSS_Zhang_S
 ### Week 6
 
 [Lab 6](https://yongjunzhang.com/files/css/Lab6.html)
+
+### Week 8
+
+[Lab 7](https://yongjunzhang.com/files/css/Lab7.html) and [stm viz](https://yongjunzhang.com/files/css/lab7-viz.html)
