@@ -65,10 +65,3 @@ Slides das Aulas
 1. [Aula do dia 14/03/2022](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/EDO-aula-09.pdf)
 
 
-\begin{enumerate}
-
-\item Teste
-
-$$f(x) = \int_a^x g(t) \, dt.$$
-
-\end{enumerate}
