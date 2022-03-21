@@ -22,7 +22,7 @@ author_profile: false
 |Th, Apr 7, 2022| 1:30pm - 2:30pm | Gleb Smirnov | Symplectic topology of K3 surfaces via Seiberg-Witten invariants | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Apr 14, 2022| 1:30pm - 2:30pm | Jonathan Zhu |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Apr 21, 2022| 1:30pm - 2:30pm | Martin Lesourd |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
-|Th, Apr 28, 2022| 1:30pm - 2:30pm | Suguru Ishikawa |  |  [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
+|Th, Apr 28, 2022| 1:30pm - 2:30pm |  |  |  [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 
 ## Abstracts
 
