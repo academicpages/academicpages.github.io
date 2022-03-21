@@ -25,12 +25,8 @@ Work experience
   * Summer 2020
 
 * **Oliver Wyman**
-  * Senior Analyst, Retail and Business Banking Consumer Insights Group
-  * Winter 2018 - Summer 2019
-
-* **Oliver Wyman**
-  * Analyst, Retail and Business Banking Consumer Insights Group
-  * Summer 2014 - Winter 2018
+  * Senior Analyst, Retail and Business Banking Consumer Insights Group (Winter 2018 - Summer 2019)
+  * Analyst, Retail and Business Banking Consumer Insights Group (Summer 2014 - Winter 2018)
 
 * **Cornerstone Research**
   * Analyst
