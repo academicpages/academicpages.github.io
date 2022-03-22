@@ -19,8 +19,8 @@ During my Ph.D., my research interests were in natural language processing and s
 
 News
 ======
-* Jan. 2022: Our paper about debiasing CVR estimation is accepted at WWW 2022. The model has been deployed to the ranking module of our production system.
-* Jul. 2021: Our paper about CVR estimation is accepted at CIKM 2021. The model has been deployed to the ranking module of our production system. 
+* Jan. 2022: Our paper about debiasing CVR estimation was accepted at WWW 2022. The model has been deployed to the ranking module of our production system.
+* Jul. 2021: Our paper about CVR estimation was accepted at CIKM 2021. The model has been deployed to the ranking module of our production system. 
 * Jun. 2021: I started at Alimama Ads Tech.
 
 
