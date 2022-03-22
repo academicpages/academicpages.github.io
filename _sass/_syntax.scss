@@ -20,8 +20,7 @@ div.highlighter-rouge, figure.highlight {
     padding: 0.5em;
     background-color: $lighter-gray;
     content: "\f121";
-    font-family: "fontawesome" !important;
-    font-size: $type-size-6;
+    font-family: "Font Awesome 5 Free" !important; // https://github.com/academicpages/academicpages.github.io/issues/59#issuecomment-531444171
     font-size: $type-size-5_5;
     line-height: 1;
     text-transform: none;
