@@ -148,6 +148,7 @@ The refactoring tool exchanges a `for` statement with a `while` statement. This 
 inue`, or `return`. You can access the prototype's source code here: https://github.com/bstee615/pa_framework_examples.
 
 Here is an example of the tool at work. When this program is input:
+
 ```c
 int main()
 {
@@ -161,6 +162,7 @@ int main()
 ```
 
 Then this program should be the output.
+
 ```c
 int main()
 {
