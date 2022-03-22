@@ -145,7 +145,7 @@ Rewriting approach
 
 I implemented a simple refactoring tool with each framework in order to evaluate the speed of each tool.
 The refactoring tool exchanges a `for` statement with a `while` statement. This can be done with AST only, though control-flow information is necessary in order to handle early `break`, `cont
-inue`, or `return`. You can access the prototype's source code here: https://github.com/bstee615/pa_framework_examples.
+inue`, or `return`. You can access the prototype's source code here: [https://github.com/bstee615/pa_framework_examples](https://github.com/bstee615/pa_framework_examples).
 
 Here is an example of the tool at work. When this program is input:
 
