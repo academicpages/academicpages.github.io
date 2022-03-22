@@ -2,6 +2,8 @@
    Syntax highlighting
    ========================================================================== */
 
+$type-size-5_5: 13px; // https://github.com/academicpages/academicpages.github.io/issues/59#issue-278839504
+
 div.highlighter-rouge, figure.highlight {
   position: relative;
   margin-bottom: 1em;
@@ -20,6 +22,7 @@ div.highlighter-rouge, figure.highlight {
     content: "\f121";
     font-family: "fontawesome" !important;
     font-size: $type-size-6;
+    font-size: $type-size-5_5;
     line-height: 1;
     text-transform: none;
     speak: none;
@@ -28,7 +31,7 @@ div.highlighter-rouge, figure.highlight {
   .highlight {
     margin: 0;
     font-family: $monospace;
-    font-size: $type-size-7;
+    font-size: $type-size-5_5;
     line-height: 1.8;
   }
 }
