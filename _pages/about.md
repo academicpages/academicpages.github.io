@@ -16,6 +16,14 @@ My research interests are in computational advertising and information retrieval
 
 During my Ph.D., my research interests were in natural language processing and social media analytics, especially opinion mining and opinionated/argumentative text generation in low-resource (e.g., cross-domain transfer, learning with noisy labels and sequence generation with few paired data), multi-task, multi-modal and adversarial attack scenarios.       
 
+
+News
+======
+* Jan. 2022: Our paper about debiasing CVR estimation is accepted at WWW 2022. The model has been deployed to the ranking module of our production system.
+* Jul. 2021: Our paper about CVR estimation is accepted at CIKM 2021. The model has been deployed to the ranking module of our production system. 
+* Jun. 2021: I started at Alimama Ads Tech.
+
+
 Experience and Education
 ======
 **[Experience](experiences/)**  
