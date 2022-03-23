@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,6 +16,7 @@ I am a PhD student working on building photovoltaic applications. Especially, my
 
 Originally from the mountainy area of Grenoble in France, I have been educated through two MSc in Engineering and Sustainable Energy respectively from CentraleSupelec (France) and DTU (Denmark). 
 
+On my spare time, I love adventuring in the mountains, breathing fresh air and embracing the beauty of nature. My activities include hiking, ski-touring, climbing but also doing judo.
 
 ## Contact
 
