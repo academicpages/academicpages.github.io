@@ -1,10 +1,10 @@
 # main links links
 main:
-- title: "PhD Thesis"
+  - title: "PhD Thesis"
     url: /phd/
-    
-- title: "CV"
+  - title: "CV"
     url: /cv/
+    
     
 #  - title: "Publications"
 #    url: /publications/
