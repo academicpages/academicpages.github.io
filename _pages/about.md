@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-# Alexandre MATHIEU, PhD Student
-
 ## About Me
 
 I am a PhD student working on building photovoltaic applications. Especially, my work focuses on modelling failures as well as quantifying diagnostic methods in order to build a performance garantee on solar installations. My personal belief is that research owes to find solutions to mitigate the human environmental impact.
+
+# Where I come from 
 
 Originally from the mountainy area of Grenoble in France, I have been educated through two MSc in Engineering and Sustainable Energy respectively from CentraleSupelec (France) and DTU (Denmark). 
 
