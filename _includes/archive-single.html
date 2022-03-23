@@ -58,7 +58,10 @@
       <a href="{{post.paperurl}}" style="font-size:14px">Paper</a>
     {% endif %}
     {% if post.codeurl %}
-      / <a href="{{post.codeurl}}" style="font-size:14px">Code</a>
+      <a href="{{post.codeurl}}" style="font-size:14px">Code</a>
+    {% endif %}
+    {% if post.stars %}
+      <div GFG-include-html-snippet="{{post.stars}}"></div>
     {% endif %}
 
   </article>
