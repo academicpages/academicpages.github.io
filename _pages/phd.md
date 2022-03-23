@@ -14,7 +14,14 @@ Methodology development to guarantee building photovoltaic systems' performance 
 
 ## Subject Content
 
-The objective of the thesis is to define and validate a methodology to guarantee the real performance of photovoltaic systems on buildings that can be widely deployed. This method could be envisioned to inspect new installations upon receipt, but also existing installations, to suggest a rehabilitation plan that would be the most effective. This work should contribute to the implementation of a new normative approach of the “Guarantee of Energy Results” type. The thesis work starts with a state of the art and then an analysis on experimental data obtained from real BIPV installations. This would lead to assess diagnostic methods, their limits and the main failures which will be modeled. Then, the performance guarantee methodology should be established. 
+The objective of the thesis is to define and validate a methodology to guarantee the real performance of photovoltaic systems on buildings that can be widely deployed. 
+
+This method could be envisioned to inspect new installations upon receipt, but also existing installations, to suggest a rehabilitation plan that would be the most effective. This work would lead to:
+* assess diagnostic methods and their limits.
+* identify and model the main failures.
+* model the whole solar installation sytem with failure and diagnostic operations.
+* establish the performance guarantee methodology. 
+
 
 
 ## Collaboration
