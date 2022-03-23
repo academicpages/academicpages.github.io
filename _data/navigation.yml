@@ -1,5 +1,11 @@
 # main links links
 main:
+- title: "PhD Thesis"
+    url: /phd/
+    
+- title: "CV"
+    url: /cv/
+    
 #  - title: "Publications"
 #    url: /publications/
 
@@ -14,12 +20,6 @@ main:
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
-   - title: "PhD Thesis"
-    url: /phd/
-    
-  - title: "CV"
-    url: /cv/
-    
     
 #  - title: "Guide"
 #    url: /markdown/
