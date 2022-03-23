@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "MotionSC"
+title: "CarlaSC"
 excerpt: "About me"
 author_profile: true
 redirect_from: /sitemap/
@@ -20,7 +20,7 @@ redirect_from: /sitemap/
                     <img src="./images/TraceFree.png" alt="Trace Free">
                 </p>
                 <p>
-                    MotionSC scenes are sampled from multiple viewpoints, ensuring minimal occlusions and no traces left by dynamic objects. The image above showcases MotionSC lack of traces for dynamic objects compared to SemanticKITTI, another well known vision benchmark.
+                    CarlaSC scenes are sampled from multiple viewpoints, ensuring minimal occlusions and no traces left by dynamic objects. The image above showcases MotionSC lack of traces for dynamic objects compared to SemanticKITTI, another well known vision benchmark.
                 </p>
             </div>
             <div>
@@ -38,7 +38,7 @@ redirect_from: /sitemap/
                     <img src="./images/Carla.png" alt="Carla">
                 </p>
                 <p>
-                    MotionSC is generated using CARLA, an open source simulator for autonomous driving research. This enables high customizability, from the number of dynamic objects to the position and number of sensors.
+                    CarlaSC is generated using CARLA, an open source simulator for autonomous driving research. This enables high customizability, from the number of dynamic objects to the position and number of sensors.
                 </p>
             </div>
             <!-- <p class="small">
@@ -93,7 +93,7 @@ redirect_from: /sitemap/
         </div>
         <p class="small">
             If you plan to use our dataset and tools in your work, we would appreciate it if you could cite our paper.
-            (<a href="https://github.com/UMich-CURLY/3DMapping">PDF</a>)
+            (<a href="https://arxiv.org/abs/2203.07060">PDF</a>)
         </p>
     </p>
 </div>  
