@@ -9,7 +9,7 @@ award: 'Best Paper Award Honorable Mention (Best Paper Nominee)'
 paperurl: https://dl.acm.org/doi/pdf/10.1145/3462244.3479919
 codeurl: https://github.com/declare-lab/BBFN
 citation: ''
-star: <!-- Place this tag where you want the button to render. -->
+stars: <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/declare-lab/bbfn" data-icon="octicon-star" data-show-count="true" aria-label="Star declare-lab/bbfn on GitHub">Star</a>
 ---
 
