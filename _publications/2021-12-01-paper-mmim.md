@@ -7,4 +7,5 @@ authors: '<strong>Wei Han</strong>, Hui Chen, Soujanya Poria'
 paperurl: https://aclanthology.org/2021.emnlp-main.723.pdf
 codeurl: https://github.com/declare-lab/Multimodal-Infomax
 citation: ''
+stars: <a class="github-button" href="https://github.com/declare-lab/Multimodal-Infomax" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star declare-lab/Multimodal-Infomax on GitHub">Star</a>
 ---
