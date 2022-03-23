@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<form action="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//files/AlexandreMATHIEU.CV.pdf">
+<form action="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//files/AlexandreMATHIEU_CV.pdf">
     <input type="submit" value="Download CV"/>
 </form>
