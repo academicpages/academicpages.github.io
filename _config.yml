@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Alexandre MATHIEU"
-  avatar           : "Alex_picture_closeup.jpg"
-  bio              : "PhD student: BPV performance guarantee/failure modelling"
+  avatar           : "profile.jpng"
+  bio              : "Building Photovoltaic performance guarantee/failure modelling"
   location         : "Grenoble/FRANCE"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "AlexandreHugoMathieu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
