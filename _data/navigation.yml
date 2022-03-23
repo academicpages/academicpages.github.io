@@ -1,7 +1,7 @@
 # main links links
 main:
-#  - title: "PhD Thesis"
-#    url: /phd/
+  - title: "PhD Thesis"
+    url: /phd/
   - title: "CV"
     url: /cv/
     
