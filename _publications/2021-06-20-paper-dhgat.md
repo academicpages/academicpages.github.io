@@ -9,6 +9,5 @@ authors: 'Hui Chen, Pengfei Hong, <strong>Wei Han</strong>, Navonil Majumder'
 paperurl: https://arxiv.org/pdf/2009.05092.pdf
 codeurl: https://github.com/declare-lab/dialog-HGAT
 citation: ''
-stars: <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/declare-lab/dialog-HGAT" data-icon="octicon-star" aria-label="Star declare-lab/dialog-HGAT on GitHub">Star</a>
+stars: <a class="github-button" href="https://github.com/declare-lab/dialog-HGAT" data-icon="octicon-star" aria-label="Star declare-lab/dialog-HGAT on GitHub">Star</a>
 ---
