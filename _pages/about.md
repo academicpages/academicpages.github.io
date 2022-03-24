@@ -25,7 +25,7 @@ In my leisure time, I enjoy playing different sports (especially Cricket and Tab
 - Mar 2021: Our paper titled, [Excitation energy transfer kinetics of trimeric, monomeric and subunit-depleted Photosystem I from Synechocystis PCC 6803](https://portlandpress.com/biochemj/article-abstract/478/7/1333/228049/Excitation-energy-transfer-kinetics-of-trimeric?redirectedFrom=fulltext), accepted in Biochemical Journal.
 - Mar 2020: Resuming my PhD work at the [Biological Research Centre](http://www.brc.hu/en), at the Institute of Plant Biology, [Photosynthetic Membranes Group](http://www.brc.hu/en/research/institute-of-plant-biology/plant-light-perception-and-utilization-research-unit/photosynthetic-membranes-group).
 <details>
-  <summary> Archived ... </summary>
+  <summary> Archived </summary>
   
     - Feb 2020: I will be presenting a talk on "*Modelling excitation energy transfer and trapping in the filamentous cyanobacterium Anabaena variabilis PCC 7120*" at, "*Optimization of light energy conversion in plants and microalgae*", conference, Porto, Portugal.
     - Oct 2019: I will be presenting a poster on "*Excitation energy transfer and trapping in the filamentous cyanobacterium Anabaena variabilis PCC 7120*" at "*Biophysics of Photosynthesis: from molecules to the field*" congress, Rome, Italy.
