@@ -26,6 +26,7 @@ In my leisure time, I enjoy playing different sports (especially Cricket and Tab
 - Mar 2020: Resuming my PhD work at the [Biological Research Centre](http://www.brc.hu/en), at the Institute of Plant Biology, [Photosynthetic Membranes Group](http://www.brc.hu/en/research/institute-of-plant-biology/plant-light-perception-and-utilization-research-unit/photosynthetic-membranes-group).
 <details>
   <summary>Archived.</summary>
+  
   - Feb 2020: I will be presenting a talk on "*Modelling excitation energy transfer and trapping in the filamentous cyanobacterium Anabaena variabilis PCC 7120*" at, "*Optimization of light energy conversion in plants and microalgae*", conference, Porto, Portugal.
   - Oct 2019: I will be presenting a poster on "*Excitation energy transfer and trapping in the filamentous cyanobacterium Anabaena variabilis PCC 7120*" at "*Biophysics of Photosynthesis: from molecules to the field*" congress, Rome, Italy.
   - Oct 2018: I have been awarded *Marie Skłodowska-Curie Early Stage Researcher grant*, to pursue my research work at the [Vrije University Amsterdam](https://vu.nl/en). I will be working on the project, [Solar Energy to Biomass](http://se2b.eu).
