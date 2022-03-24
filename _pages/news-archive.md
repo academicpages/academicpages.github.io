@@ -6,6 +6,9 @@ permalink: /news-archive/
 
 # Lab news archive
 
+
+February 2020: Lucy Howell joined the lab as a Masters in Antarctic Studies student! 
+
 Check out how Sarah spent her time in 2019 [in her latest blog post!](https://sarahpflanagan.wordpress.com/?p=1932)
 
 November 2019: Sarah was awarded a [Marsden Award](https://www.royalsociety.org.nz/news/world-class-research-supported-by-marsden-fund-including-two-large-marsden-interdisciplinary-awards/) to conduct research on the evolution of sex-biased gene expression in pipefish, in collaboration with [Bob Wong](http://www.bobwonglab.org/) (Monash University) and [Judith Mank](https://www.zoology.ubc.ca/mank-lab/) (University of British Columbia)! 
