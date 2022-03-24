@@ -17,7 +17,7 @@ Welcome to our page! The London AI for Source Code group is an active research h
 - Source code representations
 - Source code pattern mining
 - Frameworks that facilitate all the above categories
-- And so on...
+- <small>And so on...</small>
 
 The team behind this group consists of:
 - Prof. [Earl T. Barr](https://earlbarr.com/) from [UCL](https://www.ucl.ac.uk/)
