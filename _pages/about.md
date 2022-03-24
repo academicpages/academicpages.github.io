@@ -17,6 +17,8 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 March 2022: Fleur van Eyndhoven submitted her MSc thesis. Congratulations, Fleur!
 
+February 2022: The research team has received funding from the University of Canterbury's Vision Mātauranga Fund and UC's Faculty of Science New Ideas Seed grant to support the collaborative research with Ōnuku Rūnanga and Pohatu Penguins, supporting Lucy Howell's PhD research.
+
 Januray 2022: Coley Tosto, who began her PhD in November 2020, finally arrived in New Zealand to complete the remainder of her PhD!
 
 Check out how Sarah spent her time in 2021 [in her latest blog post!](https://sarahpflanagan.wordpress.com/2022/01/04/working-in-the-age-of-lockdowns/)
