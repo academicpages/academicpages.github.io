@@ -50,6 +50,7 @@ Listas de Exercícios
 ======
 [Lista 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/Lista01_FME1.pdf)
 [Lista 02](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/Lista02_FME1.pdf)
+[Lista 03](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/Lista03_FME1.pdf)
 
 Aulas
 ======
