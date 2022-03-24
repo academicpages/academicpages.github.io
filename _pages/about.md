@@ -15,6 +15,8 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+March 2022: Fleur van Eyndhoven submitted her MSc thesis. Congratulations, Fleur!
+
 Januray 2022: Coley Tosto, who began her PhD in November 2020, finally arrived in New Zealand to complete the remainder of her PhD!
 
 Check out how Sarah spent her time in 2021 [in her latest blog post!](https://sarahpflanagan.wordpress.com/2022/01/04/working-in-the-age-of-lockdowns/)
@@ -34,8 +36,6 @@ February 2021: Fleur van Eyndhoven is continuing her summer scholarship research
 November 2020: Nicole Tosto began her PhD studying pipefish behaviour and genetics! She is currently working with collaborators in the US and plans to join the group in New Zealand in 2021.
 
 March 2020: Sarah had three papers come out this month -- a paper on [changes in gene expression in response to estrogen in pipefish](https://doi-org.ezproxy.canterbury.ac.nz/10.1093/jhered/esaa008), a paper on [a mathematical model of how spatial arrangements of individuals impacts reproductive success](https://esj-journals.onlinelibrary.wiley.com/doi/abs/10.1002/1438-390X.12047) and a whitepaper describing [the why, when, and how of computing in biology classrooms](https://doi.org/10.12688/f1000research.20873.2).
-
-February 2020: Lucy Howell joined the lab as a Masters in Antarctic Studies student! 
 
 See older news at the [news archive](https://flanagan-lab.github.io/news-archive/)
 
