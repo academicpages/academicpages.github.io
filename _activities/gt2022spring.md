@@ -19,6 +19,7 @@ author_profile: false
 |Th, Mar 17, 2022| 1:30pm - 2:30pm | Laura Starkston | Complements of rational cuspidal curves | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Mar 24, 2022| 1:30pm - 2:30pm | Christos Mantoulidis | A nonlinear spectrum on closed manifolds | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Mar 31, 2022| 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
+|Tu, Apr 5, 2022| 8:00pm - 9:00pm | Mark McLean |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Apr 7, 2022| 1:30pm - 2:30pm | Gleb Smirnov | Symplectic topology of K3 surfaces via Seiberg-Witten invariants | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Apr 14, 2022| 1:30pm - 2:30pm | Jonathan Zhu |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Apr 21, 2022| 1:30pm - 2:30pm | Martin Lesourd |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
