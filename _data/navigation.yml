@@ -6,5 +6,8 @@ main:
   - title: "Meetups"
     url: /meetups/    
 
+  - title: "People"
+    url: /people/
+
   - title: "Contact"
     url: /contact/
