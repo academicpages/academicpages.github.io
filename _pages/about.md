@@ -11,7 +11,7 @@ marp: false
 ---
 Welcome! I am a PhD candidate at the Institute of Plant Biology, Biological Research Centre, Hungary and Vrije University, The Netherlands, supervised by [Dr. Petar Lambrev](http://www.brc.hu/en/research/institute-of-plant-biology/plant-light-perception-and-utilization-research-unit/photosynthetic-membranes-group) and [Dr. Ivo van Stokkum](http://www.few.vu.nl/~ivo/). Currently, I'm working at the [Photosynthetic Membranes Group](http://www.brc.hu/en/research/institute-of-plant-biology/plant-light-perception-and-utilization-research-unit photosynthetic-membranes-group),[Biological Research Centre](http://www.brc.hu/en).
 
-My research work primarily explores on monitoring excitation energy transfer and trapping kinetics during the light-harvesting process of cyanobacterial photosynthesis. In our lab, we use various spectroscopic methods and data analysis tools to probe this rapid natural processes within photosynthetic organisims. You can find few of my completed projects here as a form of [puclication](https://avratanubiswas.github.io/publications/). Want to know more or discuss more about my work, feel free to contact me! 
+My research work primarily explores on monitoring excitation energy transfer and trapping kinetics during the light-harvesting process of cyanobacterial photosynthesis. In our lab, we use various spectroscopic methods and data analysis tools to probe this rapid natural processes within photosynthetic organisims. You can find few of my completed projects here as a form of [puclication](https://avratanubiswas.github.io/publications/). Always happy to chat more about my work, so please don't hesitate to reach out !
 
 In my leisure hours, I enjoy playing different sports (especially Cricket and Table-tennis), also painting, coding for fun, among many other things. In this webpage, I  aim to update with posts related to my academic works, academic social networks, side projects, and occasional blog posts. Let's stay connected!
 
@@ -26,12 +26,12 @@ In my leisure hours, I enjoy playing different sports (especially Cricket and Ta
 - Mar 2020: Resuming my PhD work at the [Biological Research Centre](http://www.brc.hu/en), at the Institute of Plant Biology, [Photosynthetic Membranes Group](http://www.brc.hu/en/research/institute-of-plant-biology/plant-light-perception-and-utilization-research-unit/photosynthetic-membranes-group).
 
 <details markdown=1><summary markdown="span"><b>Click here for archived news</b></summary>
-  
+ ```
   * <sub>  - Feb 2020: I will be presenting a talk on "*Modelling excitation energy transfer and trapping in the filamentous cyanobacterium Anabaena variabilis PCC7120* at, "*Optimization of light energy conversion in plants and microalgae*", conference, Porto, Portugal.</sub>
   * <sub>  - Oct 2019: I will be presenting a poster on "*Excitation energy transfer and trapping in the filamentous cyanobacterium Anabaena variabilis PCC 7120*" at "*Biophysics of Photosynthesis: from molecules to the field*" congress, Rome, Italy.</sub>
   * <sub>  - Oct 2018: I have been awarded *Marie Skłodowska-Curie Early Stage Researcher grant*, to pursue my research work at the [Vrije University Amsterdam](https://vu.nl/en). I will be working on the project, [Solar Energy to Biomass](http://se2b.eu).</sub>
   * <sub>  - Sep 2018: I have been awarded a [Stipendium Hungaricum Scholarship](https://stipendiumhungaricum.hu) for my PhD studies.</sub>
-
+```
 </details>
 
 
