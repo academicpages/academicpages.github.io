@@ -9,11 +9,11 @@ redirect_from:
   - /about.html
 marp: false
 ---
-I am final year PhD student in the Institute of Plant Biology, Biological Research Centre, Hungary and Vrije University, The Netherlands, supervised by [Dr. Petar Lambrev](http://www.brc.hu/en/research/institute-of-plant-biology/plant-light-perception-and-utilization-research-unit/photosynthetic-membranes-group) and [Dr. Ivo van Stokkum](http://www.few.vu.nl/~ivo/). Currently, I'm working at the [Photosynthetic Membranes Group](http://www.brc.hu/en/research/institute-of-plant-biology/plant-light-perception-and-utilization-research-unit photosynthetic-membranes-group),[Biological Research Centre](http://www.brc.hu/en).
+Welcome! I am a PhD candidate at the Institute of Plant Biology, Biological Research Centre, Hungary and Vrije University, The Netherlands, supervised by [Dr. Petar Lambrev](http://www.brc.hu/en/research/institute-of-plant-biology/plant-light-perception-and-utilization-research-unit/photosynthetic-membranes-group) and [Dr. Ivo van Stokkum](http://www.few.vu.nl/~ivo/). Currently, I'm working at the [Photosynthetic Membranes Group](http://www.brc.hu/en/research/institute-of-plant-biology/plant-light-perception-and-utilization-research-unit photosynthetic-membranes-group),[Biological Research Centre](http://www.brc.hu/en).
 
-My research primarily focus on monitoring excitation energy transfer and trapping within cyanobacteria during the light-harvesting process of photosynthesis. We use various spectroscopic methods and data analysis tools to probe this rapid natural processes within photosynthetic organisims.
+My research work primarily explores on monitoring excitation energy transfer and trapping kinetics during the light-harvesting process of cyanobacterial photosynthesis. In our lab, we use various spectroscopic methods and data analysis tools to probe this rapid natural processes within photosynthetic organisims. You can find few of my completed projects here as a form of [puclication](https://avratanubiswas.github.io/publications/). Want to know more or discuss more about my work, feel free to contact me! 
 
-In my leisure time, I enjoy playing different sports (especially Cricket and Table-tennis), painting, coding for fun, among many other things. Out here, you will find my posts related to my academic works, academic social networks, side projects, and occasional blog posts. Feel free to contact me in case of any inquiry!
+In my leisure hours, I enjoy playing different sports (especially Cricket and Table-tennis), also painting, coding for fun, among many other things. In this webpage, I  aim to update with posts related to my academic works, academic social networks, side projects, and occasional blog posts. Let's stay connected!
 
 > Life is what happens when you're busy making other plans - *John Lennon*
 
