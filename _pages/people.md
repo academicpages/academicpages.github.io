@@ -16,3 +16,9 @@ The people behind the organization of the meetups consists of:
 <br>
 <br>
 ![Konstantina Dritsa](/files/konstantina_dritsa_150.jpg) [Konstantina Dritsa](https://dritsa-konstantina.github.io/), PhD Candidate at the [Business Analytics Lab](https://www.balab.aueb.gr/) (Athens University of Economics & Business)
+
+
+
+Gabriel Gordon-Hall                                        |  Earl T. Barr
+:---------------------------------------------------------:|:---------------------------------------------:
+![Gabriel Gordon-Hall](/files/gabriel_gordon_hall_150.jpg) |  ![Earl T. Barr](/files/earl_t_barr_150.jpg)
