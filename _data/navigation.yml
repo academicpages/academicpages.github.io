@@ -3,8 +3,8 @@ main:
   - title: "About"
     url: /about/
 
-  - title: "Meetings"
-    url: /meetings/    
+  - title: "Meetups"
+    url: /meetups/    
 
   - title: "Contact"
-    url: /people/
+    url: /contact/
