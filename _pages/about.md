@@ -17,14 +17,7 @@ Welcome to our page! The London AI for Source Code group is an active research h
 - Source code representations
 - Source code pattern mining
 - Frameworks that facilitate all the above categories
-- <small>And so on...</small>
-
-The team behind this group consists of:
-- Prof. [Earl T. Barr](https://earlbarr.com/) from [UCL](https://www.ucl.ac.uk/)
-- [Gabriel Gordon-Hall](https://ggordonhall.github.io/), Co-founder & CTO at [bloop.ai](https://bloop.ai/)
-- [Konstantina Dritsa](https://dritsa-konstantina.github.io/), PhD Candidate at the [Business Analytics Lab](https://www.balab.aueb.gr/) of Athens University of Economics & Business
-
-![test](/files/github_profile.jpg)
+- And so on...
 
 Once a month, esteemed speakers from around the world are invited to share their latest research work in our 40-minute sessions. The meetups conclude with questions and discussion on new ideas. Our aim is to bring together like-minded researcher and academics, stay upot-date with the latest developments and of course networking.
 
