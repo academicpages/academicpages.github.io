@@ -81,7 +81,7 @@ author_profile: true
 
 + Lee, J., Chen, Z., **Sun, Y.**, Kim, J., Rogers, J., Liu, C. and Weng, C., " Deep Learning for Rare Disease: Scoping Review with Methodological Focus". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2021. (in submission)  
 
-+ Tian, K., Perotte, A., **Sun, Y.**, Kim, J., Liu, H., Turfah, A. and Weng, C., "EvidenceMap: A Multi-Level Representation for Medical Evidence Extraction and Synthesis". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2021. (in submission)  
++ Tian, K., **Sun, Y.**, Perotte, A., Kim, J., Liu, H., Turfah, A. and Weng, C., "EvidenceMap: A Multi-Level Representation for Medical Evidence Extraction and Synthesis". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2021. (in submission)  
 
 
 ## Patents
