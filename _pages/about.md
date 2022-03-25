@@ -20,8 +20,8 @@ During my Ph.D., my research interests were in natural language processing and s
 News
 ======
 * Jan. 2022: Our paper about debiasing CVR estimation was accepted at WWW 2022.  
-* Jul. 2021: Our paper about CVR estimation via AutoML was accepted at CIKM 2021.  
-* Jun. 2021: I started at Alimama Ads Tech.
+* Aug. 2021: Our paper about CVR estimation via AutoML was accepted at CIKM 2021.  
+* Jul. 2021: I started at Alimama Ads Tech.
 
 
 Experience and Education
