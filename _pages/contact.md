@@ -19,7 +19,7 @@ redirect_from:
   <!-- your other form fields go here -->
   <button type="submit">Subscribe</button>
 </form>
-<small><em>Your email will not be used for any other promotional or marketing activities</em></small>
+<small><em>Your email will not be shared or used for any other promotional activities.</em></small>
 
 ### Get in Touch
 <form
