@@ -40,3 +40,5 @@ redirect_from:
   <input type="hidden" name="_subject" value="Contact request (AI4code meetup)" />
   <button type="submit">Send</button>
 </form>
+
+![twitter](twitter-thumb_60.jpg)(https://twitter.com/ai4code_meetup)  ![meetup.com](meetup_thumb_60.jpg)(https://www.meetup.com/ai4code-meetup/)
