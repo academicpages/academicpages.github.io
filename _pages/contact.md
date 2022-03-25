@@ -46,4 +46,4 @@ redirect_from:
 <small><em>Your email will not be shared or used for any other promotional activities.</em></small>
 <br>
 
-[![twitter](/images/twitter-thumb_60.jpg)](https://twitter.com/ai4code_meetup)  [![meetup.com](/images/meetup_thumb_60.jpg)](https://www.meetup.com/ai4code-meetup/)
+[![twitter](/images/twitter-thumb_60.jpg)](https://twitter.com/ai4code_meetup)  [![meetup.com](/images/meetup_thumb_60_1.jpg)](https://www.meetup.com/ai4code-meetup/)
