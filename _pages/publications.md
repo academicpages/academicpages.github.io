@@ -11,7 +11,7 @@ author_profile: true
 > 
 > KEYWORDS: American pragmatism; William James; Practical effects; Truth; Development; Habit; Cognition; Meaning; Pluralism
 >
->> Sanches de Oliveira, G. (forthcoming)  The Strong Program in Embodied Cognitive Science. *Phenomenology and the Cognitive Sciences*. 
+>> Sanches de Oliveira, G. (forthcoming)  Pragmatism. In V. P. Glăveanu (ed.), *The Palgrave Encyclopedia of the Possible*. DOI: 10.1007/978-3-319-98390-5_241-1 
 
 <br><br>
 
@@ -20,7 +20,7 @@ author_profile: true
 > 
 > KEYWORDS: embodiment, situation, reflexivity, scientific practice, embodied cognitive science
 >
->> Sanches de Oliveira, G. (2022) Pragmatism. In V. P. Glăveanu (ed.), *The Palgrave Encyclopedia of the Possible*. DOI: 10.1007/978-3-319-98390-5_241-1 
+>> Sanches de Oliveira, G. (2022) The Strong Program in Embodied Cognitive Science. *Phenomenology and the Cognitive Sciences*. DOI: 10.1007/s11097-022-09806-w
 
 <br><br>
 
