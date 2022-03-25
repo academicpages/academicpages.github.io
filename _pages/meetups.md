@@ -20,9 +20,8 @@ Past events
 |                     |
 
 
-| Windows | Linux x32 | Linux x64 | Mac x64 |
-| :------ | :-------- | :-------- | :------ |
-|                                           |
+| abc | def |
+| --- | --- |
 
 <br>
 [Slides](/files/2022_3_22_allamanis.pdf)
