@@ -7,7 +7,7 @@ author_profile: true
     
     
 ## Journal Articles
-
+<span style="color:red">(Best Paper Candidiate)</span>
 <span style="color:red">* Note that \textbf{JAMIA} and \textbf{JBI} are leading health informatics journals with impact factor 5.178 and 6.317</span>
     
 + **Sun, Y.**, Butler, A., Diallo, I., Kim, J., Ta, C., Rogers, J., Liu, H. and Weng, C., "A Framework for Systematic Assessment of Clinical Trial Population Representativeness Using Electronic Health Records Data". **_Applied Clinical Informatics Journal_** , 2021. [pdf](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0041-1733846)
