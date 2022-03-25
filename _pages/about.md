@@ -23,4 +23,4 @@ Once a month, esteemed speakers from around the world are invited to share their
 
 **All are welcome!**
 
-[Check out our schedule]()
+[Check out our schedule](/meetups/)
