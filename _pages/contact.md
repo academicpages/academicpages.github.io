@@ -43,4 +43,8 @@ redirect_from:
   <button type="submit">Send</button>
 </form>
 
-[![twitter](twitter-thumb_60.jpg)](https://twitter.com/ai4code_meetup)  [![meetup.com](meetup_thumb_60.jpg)](https://www.meetup.com/ai4code-meetup/)
+
+
+[<img alt="twitter" src="images/twitter-thumb_60.jpg" />](https://twitter.com/ai4code_meetup) [<img alt="meetup.com" src="images/meetup_thumb_60-thumb_60.jpg" />](https://www.meetup.com/ai4code-meetup/)
+
+[![twitter](images/twitter-thumb_60.jpg)](https://twitter.com/ai4code_meetup)  [![meetup.com](meetup_thumb_60.jpg)](https://www.meetup.com/ai4code-meetup/)
