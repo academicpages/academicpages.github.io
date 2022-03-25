@@ -45,6 +45,13 @@ redirect_from:
 
 
 
-[<img alt="twitter" src="images/twitter-thumb_60.jpg" />](https://twitter.com/ai4code_meetup) [<img alt="meetup.com" src="images/meetup_thumb_60-thumb_60.jpg" />](https://www.meetup.com/ai4code-meetup/)
+[<img alt="twitter" src="/images/twitter-thumb_60.jpg" />](https://twitter.com/ai4code_meetup) 
+[<img alt="meetup.com" src="https://ai4code-london.github.io/images/twitter-thumb_60.jpg" />](https://www.meetup.com/ai4code-meetup/)
 
-[![twitter](images/twitter-thumb_60.jpg)](https://twitter.com/ai4code_meetup)  [![meetup.com](meetup_thumb_60.jpg)](https://www.meetup.com/ai4code-meetup/)
+<p>
+ <a href="https://twitter.com/ai4code_meetup">
+  <img src="https://ai4code-london.github.io/images/twitter-thumb_60.jpg">
+ </a>
+</p>
+
+[![twitter](/images/twitter-thumb_60.jpg)](https://twitter.com/ai4code_meetup)  [![meetup.com](https://ai4code-london.github.io/images/twitter-thumb_60.jpg)](https://www.meetup.com/ai4code-meetup/)
