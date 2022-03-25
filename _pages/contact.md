@@ -15,16 +15,13 @@ redirect_from:
     Your email:
     <input type="email" name="email" required>
   </label>
-  <label>
-    Your message:
-    <textarea name="message" required></textarea>
-  </label>
   <input type="hidden" name="_subject" value="Subscription (AI4code meetup)" />
   <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+  <button type="submit">Subscribe</button>
 </form>
+<small><em>Your email will not be used for any other promotional or marketing activities</em></small>
 
-### Get in Touch</h2>
+### Get in Touch
 <form
   action="https://formspree.io/f/xyyodyjj"
   method="POST"
