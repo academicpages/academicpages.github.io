@@ -2,8 +2,6 @@
 title: "Contact"
 permalink: /contact/
 author_profile: true
-redirect_from:
-  - /contact.html
 ---
 
 ### Subscribe to our mailing list for upcoming events
