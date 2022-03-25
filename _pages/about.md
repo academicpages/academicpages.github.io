@@ -12,7 +12,7 @@ Hi! I am currently an algorithm expert in Alimama Ads Tech at Alibaba Group. I r
 
 Research Interests
 ======
-My research interests are in computational advertising and information retrieval, and broader interests include transfer learning, text generation, automated machine learning and their applications in advertising, search and recommendation.  
+My research interests are in computational advertising and information retrieval, and broader interests include transfer learning, text generation, federated learning and their applications in advertising, recommendation and search.  
 
 During my Ph.D., my research interests were in natural language processing and social media analytics, especially opinion mining and opinionated/argumentative text generation in low-resource (e.g., cross-domain transfer, learning with noisy labels and sequence generation with few paired data), multi-task, multi-modal and adversarial attack scenarios.       
 
