@@ -12,15 +12,18 @@ author_profile: true
 
 + **Sun, Y.**, Butler, A., Stewart, S.A., Liu, H., Yuan, C., Southard, C.T., Kim, J. and Weng, C., "Buliding An OMOP Common Data Model-Compliant Annotated Corpus for COVID-19 Clinical Trials". **_Journal of Biomedical Informatics(JBI)_**, 2021. [code](https://github.com/WengLab-InformaticsResearch/COVID19-Structured_Trials)
 
-+ Kim, J., Butler, A., Ta, C., **Sun, Y.**, Maurer, M. and Weng, C., "The Potential Role of EHR data in optimizing eligibility criteria definition for cardiovascular outcome trials". **_International Journal of Medical Informatics_**, 2021. [pdf](https://www.sciencedirect.com/science/article/pii/S1386505621002136)
-
-+ Liu, H., Yuan, C., Butler, A., **Sun, Y.** and Weng, C., "A Knowledge Base of Clinical Trial Eligibility Criteria". **_Journal of Biomedical Informatics(JBI)_**, p.103771, 2021. [pdf](https://yingchengsun.github.io/academic/files/CTKB.pdf) [website](http://www.ctkb.io) [video](https://www.ohdsi.org/2020-global-symposium-showcase-70/)
-
 + **Sun, Y.**, Butler, A., Lin, F., Liu, H., Stewart, A.S., Kim J., Idnay, S.B., Ge, Q., Wei, X., Liu, C., Yuan, C. and Weng, C., "The COVID-19 Trial Finder". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2020. [pdf](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaa304/5995330) [code](https://github.com/WengLab-InformaticsResearch/covid19-trialfinder) [website](https://covidtrialx.dbmi.columbia.edu/) [video](https://www.youtube.com/watch?v=oFesA1XMKEs)
 
 + **Sun, Y.**, Guo, F., Kaffashi, F., Jacono, F.J., DeGeorgia, M. and Loparo, K.A., "INSMA: An integrated system for multimodal data acquisition and analysis in the intensive care unit". **_Journal of Biomedical Informatics(JBI)_**, p.103434, 2020.[pdf](https://yingchengsun.github.io/academic/files/INSMA.pdf) [code](https://github.com/yingchengsun/INSMA_Visualizer)
 
 + **Sun, Y.**, Kolacinski, R. and Loparo, K., "Transitive Topic Modeling with Conversational Structure Context: Discovering Topics that are Most Popular in Online Discussions". **_International Journal of Semantic Computing_**, 14(02), pp.273-293, 2020. [pdf](https://yingchengsun.github.io/academic/files/IJSC_final.pdf)    
+
++ Fang, Y., Idnay, B., **Sun, Y.**, Chen, Z., Marder, K., Xu, H., Schnall, R., and Weng, C.,"Combining Human and Machine Intelligence for Clinical Trial Eligibility Querying". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2022. 
+
+
++ Kim, J., Butler, A., Ta, C., **Sun, Y.**, Maurer, M. and Weng, C., "The Potential Role of EHR data in optimizing eligibility criteria definition for cardiovascular outcome trials". **_International Journal of Medical Informatics_**, 2021. [pdf](https://www.sciencedirect.com/science/article/pii/S1386505621002136)
+
++ Liu, H., Yuan, C., Butler, A., **Sun, Y.** and Weng, C., "A Knowledge Base of Clinical Trial Eligibility Criteria". **_Journal of Biomedical Informatics(JBI)_**, p.103771, 2021. [pdf](https://yingchengsun.github.io/academic/files/CTKB.pdf) [website](http://www.ctkb.io) [video](https://www.ohdsi.org/2020-global-symposium-showcase-70/)
 
 + Kury, F., Butler, A., Yuan, C., Fu, L.H., **Sun, Y.**, Liu, H., Sim, I., Carini, S. and Weng, C., "Chia, a large annotated corpus of clinical trial eligibility criteria". **_Scientific data_**, 7(1), pp.1-11, 2020. [pdf](https://www.nature.com/articles/s41597-020-00620-0) [code](https://github.com/WengLab-InformaticsResearch/CHIA) [data](https://doi.org/10.6084/m9.figshare.12765602)
 
@@ -76,8 +79,6 @@ author_profile: true
 + **Sun, Y.**, Tian, K., Perotte, A., Kim, J., Liu, H., Turfah, A. and Weng, C., "EvidenceBase: A Natural Language Search Engine for Medical Evidence Curation". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2021. (in submission) 
 
 + Lee, J., Chen, Z., **Sun, Y.**, Kim, J., Rogers, J., Liu, C. and Weng, C., " Deep Learning for Rare Disease: Scoping Review with Methodological Focus". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2021. (in submission)  
-
-+ Fang, Y., **Sun, Y.**, Liu, H. and Weng, C., "Improving the Automatic Process of Cohort Definition Generation by Human-computer Collaboration". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2021. (in submission) 
 
 + Tian, K., Perotte, A., **Sun, Y.**, Kim, J., Liu, H., Turfah, A. and Weng, C., "EvidenceMap: A Multi-Level Representation for Medical Evidence Extraction and Synthesis". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2021. (in submission)  
 
