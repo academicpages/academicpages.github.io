@@ -23,4 +23,4 @@ Once a month, esteemed speakers from around the world are invited to share their
 
 **All are welcome!**
 
-[Check out our schedule](/meetups/)
+[Check out our schedule](https://ai4code-london.github.io/meetups/)
