@@ -6,6 +6,8 @@ redirect_from:
   - /meetups.html
 ---
 
+<br>
+<br>
 Past events
 ====
 - <span style="font-size:120%">"Repairing Code with Deep Learning"</span><br>
