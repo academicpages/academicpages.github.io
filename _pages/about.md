@@ -20,7 +20,7 @@ During my Ph.D., my research interests were in natural language processing and s
 News
 ======
 * Jan. 2022: Our paper about debiasing CVR estimation was accepted at WWW 2022.  
-* Jul. 2021: Our paper about CVR estimation was accepted at CIKM 2021.  
+* Jul. 2021: Our paper about CVR estimation via AutoML was accepted at CIKM 2021.  
 * Jun. 2021: I started at Alimama Ads Tech.
 
 
@@ -34,7 +34,7 @@ Working on data-driven algorithms to improve the performance of online advertisi
 **Education**  
 
 * **Sep. 2016 -- Jun. 2021.** Ph.D., Pattern Recognition and Intelligent System @ Institute of Automation, Chinese Academy of Sciences (CASIA).
-* **Sep. 2012 -- Jun. 2016.** B.Eng., Department of Automation (Control Science and Engineering) @ Wuhan University (WHU). Rank: 1st (Overall GPA 3.84 / 4.0, Major GPA 3.92 / 4.0).
+* **Sep. 2012 -- Jun. 2016.** B.Eng., Department of Automation (a.k.a. Control Science and Engineering) @ Wuhan University (WHU). Rank: 1st (Overall GPA 3.84 / 4.0, Major GPA 3.92 / 4.0).
 * **Sep. 2009 -- Jul. 2012.** Tianjin Nankai High School.  
 
 
@@ -58,7 +58,7 @@ Awards
 
 Services
 =====
-* Program Committee Member or Reviewer: ACL (2021), EMNLP (2021), AAAI (2021, 2020), IJCAI (2022, 2021, 2020, 2019).  
+* Program Committee Member or Reviewer: ACL Rolling Review, ACL (2021), EMNLP (2021), AAAI (2021, 2020), IJCAI (2022, 2021, 2020, 2019).  
 
 Misc
 ======
