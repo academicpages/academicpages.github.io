@@ -35,10 +35,12 @@ redirect_from:
     <textarea name="message" required></textarea>
   </label>
   <!-- your other form fields go here -->
-  <input type="checkbox" id="subscribeEvents" name="subscribe" value="mailing_list">
+  <div>
+    <input type="checkbox" id="subscribeEvents" name="subscribe" value="yes">
+  </div>
   <label for="subscribeEvents">Subscribe to our mailing list for upcoming events?</label>
   <input type="hidden" name="_subject" value="Contact request (AI4code meetup)" />
   <button type="submit">Send</button>
 </form>
 
-![twitter](twitter-thumb_60.jpg)(https://twitter.com/ai4code_meetup)  ![meetup.com](meetup_thumb_60.jpg)(https://www.meetup.com/ai4code-meetup/)
+[![twitter](twitter-thumb_60.jpg)](https://twitter.com/ai4code_meetup)  [![meetup.com](meetup_thumb_60.jpg)](https://www.meetup.com/ai4code-meetup/)
