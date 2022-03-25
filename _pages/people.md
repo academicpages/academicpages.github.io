@@ -2,8 +2,6 @@
 title: "The Team"
 permalink: /people/
 author_profile: true
-redirect_from:
-  - /people.html
 ---
 
 The team behind the meetups' organization.
