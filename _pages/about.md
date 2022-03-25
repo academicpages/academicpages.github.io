@@ -27,10 +27,10 @@ In my leisure hours, I enjoy playing different sports (especially Cricket and Ta
 
 <details markdown=1><summary markdown="span"><b>Click here for archived news</b></summary>
 
-  <sub>  - Feb 2020: I will be presenting a talk on "*Modelling excitation energy transfer and trapping in the filamentous cyanobacterium Anabaena variabilis PCC7120* at, "*Optimization of light energy conversion in plants and microalgae*", conference, Porto, Portugal.</sub>
-  <sub>  - Oct 2019: I will be presenting a poster on "*Excitation energy transfer and trapping in the filamentous cyanobacterium Anabaena variabilis PCC 7120*" at "*Biophysics of Photosynthesis: from molecules to the field*" congress, Rome, Italy.</sub>
-  <sub>  - Oct 2018: I have been awarded *Marie Skłodowska-Curie Early Stage Researcher grant*, to pursue my research work at the [Vrije University Amsterdam](https://vu.nl/en). I will be working on the project, [Solar Energy to Biomass](http://se2b.eu).</sub>
-  <sub>  - Sep 2018: I have been awarded a [Stipendium Hungaricum Scholarship](https://stipendiumhungaricum.hu) for my PhD studies.</sub>
+  * <sub>  - Feb 2020: I will be presenting a talk on "*Modelling excitation energy transfer and trapping in the filamentous cyanobacterium Anabaena variabilis PCC7120* at, "*Optimization of light energy conversion in plants and microalgae*", conference, Porto, Portugal.</sub>
+  * <sub>  - Oct 2019: I will be presenting a poster on "*Excitation energy transfer and trapping in the filamentous cyanobacterium Anabaena variabilis PCC 7120*" at "*Biophysics of Photosynthesis: from molecules to the field*" congress, Rome, Italy.</sub>
+  * <sub>  - Oct 2018: I have been awarded *Marie Skłodowska-Curie Early Stage Researcher grant*, to pursue my research work at the [Vrije University Amsterdam](https://vu.nl/en). I will be working on the project, [Solar Energy to Biomass](http://se2b.eu).</sub>
+  * <sub>  - Sep 2018: I have been awarded a [Stipendium Hungaricum Scholarship](https://stipendiumhungaricum.hu) for my PhD studies.</sub>
 
 </details>
 
