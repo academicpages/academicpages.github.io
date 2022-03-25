@@ -17,6 +17,8 @@ My research interests include Information Retrieval, Machine Learning and Softwa
 
 News    
 ======
+<span style="color:red">[11.2020]</span> Our paper "Combining Human and Machine Intelligence for Clinical Trial Eligibility Querying" was accepted by JAMIA (IF: 4.112)!   
+
 <span style="color:red">[9.2021]</span> Our paper is accepted by the International Journal of Medical Informatics (IJMI) (IF:3.21)! 
 
 <span style="color:red">[8.2021]</span> Our paper is accepted by MEDINFO 2021! 
