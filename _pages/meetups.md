@@ -1,9 +1,7 @@
 ---
 title: "Meetups"
-permalink: /meetups
+permalink: /meetups/
 author_profile: true
-redirect_from:
-  - /meetups.html
 ---
 
 <br>
