@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-You can find the recorded versions of my talks on my [YouTube channel](https://www.youtube.com/channel/UCoVGnBeZeWmKzv8_-PzCKCw) <i class="fab fa-fw fa-youtube" aria-hidden="true"></i> and the slides/posters on my [SpeakerDeck](https://speakerdeck.com/kavanase).
+You can find the recorded versions of my talks on my [YouTube channel](https://www.youtube.com/c/SeánRKavanagh) <i class="fab fa-fw fa-youtube" aria-hidden="true"></i> and the slides/posters on my [SpeakerDeck](https://speakerdeck.com/kavanase).
 
 - ‘_Enhanced Optical Absorption via Mixed-Valent Doping of Vacancy-Ordered A3B2X9 Triple Perovskites_’ **(Talk)** @ MRS Fall 2020 **_(Excellent Talk Prize)_**; NanoGe Fall 2020; MRS Spring 2021; **_(Invited Talk)_** @ Morgan Research Group, University of Bath; **(Invited Talk)** @ Centre for Plastic Electronics (CPE) Perovskite Symposium 2021; RSC Solid-State Chemistry Group (SSCG) Conference 2021 **_(Roy Prize for Best Oral Presentation (£250))_**
 
