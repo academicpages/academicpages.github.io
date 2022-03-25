@@ -19,7 +19,6 @@ redirect_from:
   <!-- your other form fields go here -->
   <button type="submit">Subscribe</button>
 </form>
-<small><em>Your email will not be shared or used for any other promotional activities.</em></small>
 
 ### Get in Touch
 <form
@@ -37,21 +36,14 @@ redirect_from:
   <!-- your other form fields go here -->
   <div>
     <input type="checkbox" id="subscribeEvents" name="subscribe" value="yes">
+    <label for="subscribeEvents">Subscribe to our mailing list for upcoming events?</label>
   </div>
-  <label for="subscribeEvents">Subscribe to our mailing list for upcoming events?</label>
   <input type="hidden" name="_subject" value="Contact request (AI4code meetup)" />
   <button type="submit">Send</button>
 </form>
 
+<br>
+<small><em>Your email will not be shared or used for any other promotional activities.</em></small>
+<br>
 
-
-[<img alt="twitter" src="/images/twitter-thumb_60.jpg" />](https://twitter.com/ai4code_meetup) 
-[<img alt="meetup.com" src="https://ai4code-london.github.io/images/twitter-thumb_60.jpg" />](https://www.meetup.com/ai4code-meetup/)
-
-<p>
- <a href="https://twitter.com/ai4code_meetup">
-  <img src="https://ai4code-london.github.io/images/twitter-thumb_60.jpg">
- </a>
-</p>
-
-[![twitter](/images/twitter-thumb_60.jpg)](https://twitter.com/ai4code_meetup)  [![meetup.com](https://ai4code-london.github.io/images/twitter-thumb_60.jpg)](https://www.meetup.com/ai4code-meetup/)
+[![twitter](/images/twitter-thumb_60.jpg)](https://twitter.com/ai4code_meetup)  [![meetup.com](/images/meetup_thumb_60.jpg)](https://www.meetup.com/ai4code-meetup/)
