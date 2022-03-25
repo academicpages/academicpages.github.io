@@ -11,7 +11,7 @@ author_profile: true
     
 + **Sun, Y.**, Butler, A., Diallo, I., Kim, J., Ta, C., Rogers, J., Liu, H. and Weng, C., "A Framework for Systematic Assessment of Clinical Trial Population Representativeness Using Electronic Health Records Data". **_Applied Clinical Informatics Journal_** , 2021. [pdf](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0041-1733846)
 
-+ **Sun, Y.**, Butler, A., Stewart, S.A., Liu, H., Yuan, C., Southard, C.T., Kim, J. and Weng, C., "Buliding An OMOP Common Data Model-Compliant Annotated Corpus for COVID-19 Clinical Trials". **_Journal of Biomedical Informatics(JBI)_**, 2021. [code](https://github.com/WengLab-InformaticsResearch/COVID19-Structured_Trials)
++ **Sun, Y.**, Butler, A., Stewart, S.A., Liu, H., Yuan, C., Southard, C.T., Kim, J. and Weng, C., "Building An OMOP Common Data Model-Compliant Annotated Corpus for COVID-19 Clinical Trials". **_Journal of Biomedical Informatics(JBI)_**, 2021. [code](https://github.com/WengLab-InformaticsResearch/COVID19-Structured_Trials)
 
 + **Sun, Y.**, Butler, A., Lin, F., Liu, H., Stewart, A.S., Kim J., Idnay, S.B., Ge, Q., Wei, X., Liu, C., Yuan, C. and Weng, C., "The COVID-19 Trial Finder". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2020. [pdf](https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocaa304/5995330) [code](https://github.com/WengLab-InformaticsResearch/covid19-trialfinder) [website](https://covidtrialx.dbmi.columbia.edu/) [video](https://www.youtube.com/watch?v=oFesA1XMKEs)
 
@@ -45,9 +45,9 @@ author_profile: true
 
 + Fang, Y., **Sun, Y.**, Liu, H., Chen Z. and Weng, C., "Criteria2Query 2.0: An Editable User Interface for Human-Machine Collaboration in Cohort Definition". In **_Observational Health Data Sciences & Informatics (OHDSI) Software Showcase_**. 2021, August. [pdf](https://yingchengsun.github.io/academic/files/2021EditableC2Q.pdf) [video](https://www.youtube.com/watch?v=gSRaPYC_NyY)
 
-+ **Sun, Y.**, Kolacinski, R. and Loparo, K., ”Eliminating search intent bias in learning to rank“. In **_IEEE 14th International Conference on Semantic Computing (ICSC)_** (pp. 108-115). IEEE, 2020, February. <span style="color:red">(Best Paper Candidiate)</span>
++ **Sun, Y.**, Kolacinski, R. and Loparo, K., "Eliminating search intent bias in learning to rank". In **_IEEE 14th International Conference on Semantic Computing (ICSC)_** (pp. 108-115). IEEE, 2020, February. <span style="color:red">(Best Paper Candidate)</span>
     
-+ **Sun, Y.**, Loparo, K. and Kolacinski, R., "Conversational structure aware and context sensitive topic model for online discussions". In **_IEEE 14th International Conference on Semantic Computing (ICSC)_** (pp. 85-92). IEEE, 2020, February. <span style="color:red">(Best Paper Candidiate)</span>
++ **Sun, Y.**, Loparo, K. and Kolacinski, R., "Conversational structure aware and context sensitive topic model for online discussions". In **_IEEE 14th International Conference on Semantic Computing (ICSC)_** (pp. 85-92). IEEE, 2020, February. <span style="color:red">(Best Paper Candidate)</span>
     
 + Liu, H., Yuan, C., Butler, A., **Sun, Y.** and Weng, C., "Potential Role of Clinical Trial Eligibility Criteria in Electronic Phenotyping". In **_American Medical Informatics Association 2020 Annual Symposium (AMIA)_**. 2020, December. [video](https://www.ohdsi.org/2020-global-symposium-showcase-74/)
        
