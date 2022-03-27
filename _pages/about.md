@@ -21,7 +21,7 @@ Email: wang dot dian at northeastern dot edu
 **On-Robot Policy Learning with O(2)-Equivariant SAC**  
 **Dian Wang**, Mingxi Jia, Xupeng Zhu, Robin Walters, Robert Platt  
 *Preprint*  
-[(PDF)](https://arxiv.org/pdf/2203.04923.pdf)
+[(Webpage)](https://pointw.github.io/equi_robot_page/)[(PDF)](https://arxiv.org/pdf/2203.04923.pdf)[(Video)](https://www.youtube.com/watch?v=HDYoOXMojkY)
 ` `  
 ` `  
 
