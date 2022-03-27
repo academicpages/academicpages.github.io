@@ -2,7 +2,7 @@
 title: "Time‐resolved fluorescence study of excitation energy transfer in the cyanobacterium Anabaena PCC 7120"
 collection: publications
 permalink: /publication/Akhtar_et_al_2020_PhotosynRes
-date: 2020
+date: 19 February 2020
 venue: 'Photosyn Res'
 doi: 'http://real.mtak.hu/117277/1/s11120-020-00719-w.pdf'
 pubtype: 'journal'
