@@ -13,7 +13,7 @@ I am broadly interested in the interpretation of the observed galaxy distributio
 galaxy evolution physics and cosmology.
 
 Full up-to-date CV can be found here:
-[Download CV here](http://sandyyuan.github.io/files/CV%20(1).pdf)
+[Download CV here](http://sandyyuan.github.io/files/CV.pdf)
 
 Education
 ======
