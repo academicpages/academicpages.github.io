@@ -12,8 +12,12 @@ redirect_from:
 I am broadly interested in the interpretation of the observed galaxy distribution and the inference of underlying
 galaxy evolution physics and cosmology.
 
-Full up-to-date CV can be found here:
+Full up-to-date CV can be found here (April 2022):
 [Download CV here](http://sandyyuan.github.io/files/CV.pdf)
+
+Employment
+======
+* KIPAC Postdoctoral FEllow, Stanford University, 2022
 
 Education
 ======
@@ -46,20 +50,13 @@ Skills
  
 Publications
 ======
+* [ads](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-5992-7586&sort=date+desc)
 * [Arxiv](https://arxiv.org/search/?query=sihan+yuan&searchtype=all&source=header)
-* [ORCID](https://orcid.org/0000-0002-5992-7586)
   
 Talks
 ======
   Refer to full CV
   
-Teaching
+Teaching and Service
 ======
-* ASTRON 130 - Cosmology. 2018
-* ASTRON 17 - Galactic and Extragalactic Astronomy. 2017
-  
-Service and leadership
-======
-* Co-founder, Open Labs @ Harvard
-* Group Leader, Harvard Observing Project
-
+  Refer to full CV
