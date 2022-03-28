@@ -24,7 +24,9 @@ Basic Information
 Education
 ======
 * **MS in Data Science**, Bocconi University, 08/2021 - 07/2023
-    * Graduate degree, heavy focus on Mathematics, Statistics and Computer Science.
+    * GPA 28.75/30
+    * Graduate degree, heavy focus on Mathematics, Statistics and Computer Science
+    * Modules include: Advanced Machine Learning, Optimization, Stochastic Processes
 * Exchange Semester, **Arizona State University**, 01/2021 - 05/2021, USA
     * Selection by GPA
     * Graduate Level courses: **Quantum Computation**, Modeling with Game Theory
@@ -33,15 +35,20 @@ Education
     * Associations: Google Developer Student Club, Sun Devil Data Science   
 * **BS in Economics, Management and Computer Science**, Bocconi University, 08/2018 - 07/2021
     * The degree provides a Computer Science, Mathematics and Statistics background  for Data Science and Machine Learning.
-    * Weighed average 29.18/30 (GPA 3.88/4)
+    * GPA 29.18/30
     * **Thesis:** [PDF link](http://simonegiancola09.github.io/files/Support_vector_machine_and_value_of_information_an_exploration.pdf)"_Value of Information in a Support Vector Machine, an exploration_", advised by Professor Borgonovo Emanuele. 
     * Associations: Bocconi Healthcare Hub, Bocconi Students for Data Science
     * **Final Grade** 110 Cum Laude/110 (maximum)
 
 Professional experience
 ======
-* **Santagostino Clinic**, Data Science Intern 01/2022 - Present
-* **Bocconi University**, Research Assistant (thesis), 01/2021 - 06/2021
+* **Bocconi Institute for Data Science**, Visiting Student 03/2022 - Present, Italy
+  * Advisors: Professors Lucibello C. and Saglietti L., Computing Sciences Department
+  * Participating to research projects and reading groups
+* **Santagostino Clinic**, Data Science Intern 01/2022 - 03/2022, Italy
+  * Automated monthly report
+  * Identified customers’ origin among services offered
+* **Bocconi University**, Research Assistant (thesis), 01/2021 - 06/2021, Italy
   * Part-time **research** with Professor Borgonovo Emanuele to write a **thesis** on SVM and Value of Information. Weekly calls, programming, discussion and reading. 
 * **Barclays**, Technology Analyst, Summer 2020, United Kingdom
   * Team: Application Performance Monitoring for different Interactive Voice Response technologies
