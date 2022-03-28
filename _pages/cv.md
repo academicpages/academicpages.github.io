@@ -17,7 +17,7 @@ Full up-to-date CV can be found here (April 2022):
 
 Employment
 ======
-* KIPAC Postdoctoral FEllow, Stanford University, 2022
+* KIPAC Postdoctoral Fellow, Stanford University, 2022
 
 Education
 ======
