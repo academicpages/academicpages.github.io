@@ -11,21 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* GCE Advanced Level Physical Science Stream 2015
+  * 3As
+* B.Sc. Electronics and Telecommunication Engineering, University of Moratuwa, Sri Lanka 2021
+  * GPA: 4.01/4.2 (First Class Division)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2021 - Present: Software Engineer
+  * WSO2
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jun 2019 - Nov 2019: Trainee Electronic Engineer
+  * Lanka Electronic(Pvt) Ltd.
+  * Duties: Designed and Developed Smart Greeting Device (Vision based)
+  * Supervisor: J.A.K.S. Jayasinghe
+
+* Mar 2019 - May 2019: Visiting Instructor
+  * University of Moratuwa, Sri Lanka
+  * Duties included: Conducted the lab practicals for EN2532 Robot Design & Competition Module
+  * Supervisor: Dr. Peshala Jayasekara
   
 Skills
 ======
