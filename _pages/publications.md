@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+13. S. Luo, **P. Cheng**, S. Yu, [Semi-constraint Optimal Transport for Entity Alignment with Dangling Cases
+](https://arxiv.org/abs/2203.05744), Findings of the Association for Computational Linguistics, 2022
+
 12. **P. Cheng**\*, W. Hao\*, S. Yuan, S. Si, L. Carin, [FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w), International Conference on Learning Representations (ICLR), 2021
 
 11. S. Yuan\*, **P. Cheng**\*, R. Zhang, W. Hao, Z. Gan, and L. Carin, [Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning](https://openreview.net/forum?id=TgSVWXw22FQ), International Conference on Learning Representations (ICLR), 2021
