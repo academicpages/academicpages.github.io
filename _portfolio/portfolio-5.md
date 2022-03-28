@@ -3,6 +3,7 @@ title: "Bayesian MCMC Probit"
 excerpt: "Markov Chain Monte Carlo Sampling from a Probit GLM, December 2021 <br/><img src='/images/Triple_dim_acc_rej_123.png'>"
 collection: portfolio
 ---
+To access the report only, please click [here](https://github.com/simonegiancola09/probit_bayesian_MCMC/blob/main/report.pdf)
 To access the repository, please click [here](https://github.com/simonegiancola09/probit_bayesian_MCMC)
 
 
