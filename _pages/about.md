@@ -17,7 +17,7 @@ I specifically focus on designing and building innovative and secure mobile sens
 Updates
 =======
 <ul>
-	<li> <b>[July 2021]</b> Our paper on new metrics to evaluate performance and fairness in personalized federated learning is accepted to FL-ICML 2021!
+	<li> <b>[Mar 2022]</b> Our work on secure Android remote authorization to appear in Usenix Security 2022!
 	</li>
 	<li> <b>[June 2021]</b> Received Bilsland Dissertation Fellowship Award 2021-2022!
 	</li>
@@ -33,6 +33,16 @@ Updates
 
 Publications
 ============
+
+<ul>
+	<li><b>SARA: Secure Android Remote Authorization</b>
+			<br/>
+		Abdullah Imran, <b>Habiba Farrukh</b>, Muhammad Ibrahim, Z. Berkay Celik, Antonio Bianchi
+			<br/>
+			Proceedings of the USENIX Security Symposium (Usenix SEC '22)
+			<br/>
+	</li>
+</ul>
 
 <ul>
 	<li><b>New Metrics to Evaluate the Performance and Fairness of Personalized Federated Learning</b>
