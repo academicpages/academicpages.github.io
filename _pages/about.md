@@ -12,7 +12,7 @@ My name is Taylor Grimm, and I am a first year PhD student in Statistics at Bayl
 
 While at BYU, I worked as an undergraduate research assistant for a year working on Bayesian models for estimating elemental profiles of pollution source profiles and their contributions at various locations.
 
-Currently, I am a graduate assistant helping with the development of a multi-day data science workshop for professionals in the water/wastewater treatment industry. 
+As a graduate assistant at Baylor, I have helped with the development of a multi-day data science workshop for professionals in the water/wastewater treatment industry and am currently working as a graduate student statistical consultant.
 
 
 Research Interests
