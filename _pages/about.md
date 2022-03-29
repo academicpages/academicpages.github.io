@@ -21,6 +21,7 @@ Research Interests
 * Bayesian methods
 * Time series
 * Spatial statistics
+* Data science
 
 [comment]: <> (For more info)
 [comment]: <> (------)
