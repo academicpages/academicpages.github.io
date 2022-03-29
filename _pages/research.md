@@ -4,7 +4,7 @@ title: "Research"
 ---
 ## Working Papers
 
-* “Optimal Network Based Targeting for Technology Adoption in Developing Countries” (Job Market Paper) <p style="padding-top:10px"> <a class="btn btn-primary btn-outline btn-xs" href="/files/pdf/Optimal Network Based Targeting for Technology Adoption in Developing Countries.pdf" target="_blank"> Full Paper </a><p>
+* “Optimal Network Based Targeting for Technology Adoption in Developing Countries” (Job Market Paper) <a class="btn btn-primary btn-outline btn-xs" href="/files/pdf/Optimal Network Based Targeting for Technology Adoption in Developing Countries.pdf" target="_blank"> Full Paper </a>
 
 * “The Role of Experience in Learning for Index Insurance Products: Evidence from Rural Kenya” [Full Paper](/files/pdf/The Role of Experience in Learning for Index Insurance.pdf)
 
