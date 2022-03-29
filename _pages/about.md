@@ -26,8 +26,9 @@ If you need CSS-related talks or workshops, please feel free to contact me direc
 I am co-editing an anual series on cohabitation and the evolving nature of intimate and family relationships with Dr. Sampson Blair for Contemporary Perspectives in Family Research. The deadline for initial submissions is September 30, 2022. [Please click here for more details.](https://yongjunzhang.com/files/CPFR-2022-Cohabitation-Call-for-Papers.pdf)
 
 ## New Paper Alert
+Pradeep Nalluri, Hao Lin, Lantian Li, Yifan Sun, and Yongjun Zhang. 2022. "[Multiplex Anti-Asian Sentiment before and during the Pandemic: Introducing New Datasets from Twitter Mining](https://osf.io/xtw4c/)." 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis.
 
-Yongjun Zhang, Sienna Thorgusen, and Xinguang Fan. In press. "News Coverage of Social Protests in Global Society." International Journal of Comparative Sociology.
+Yongjun Zhang, Sienna Thorgusen, and Xinguang Fan. 2022. "News Coverage of Social Protests in Global Society." International Journal of Comparative Sociology.
 
 Yongjun Zhang. 2021. "[Corporate Responses to COVID19: A Non-Market Strategy Approach](https://doi.org/10.1177/07311214211017587)." Sociological Perspectivies.
 
@@ -36,7 +37,7 @@ Seguin, Charles, Chris Julien, and Yongjun Zhang. 2021. "[The stability of andro
 ## Working Paper
 Yongjun Zhang. 2021. "[Using Population Mobility to Measure Racial Residential Segregation in the U.S. Metro Areas](https://osf.io/pvbxw/)." 
 
-Pradeep Nalluri, Hao Lin, Lantian Li, Yifan Sun, and Yongjun Zhang. "[Multiplex Anti-Asian Sentiment before and during the Pandemic: Introducing New Datasets from Twitter Mining](https://osf.io/xtw4c/)."
+Yongjun Zhang and Jennifer Heerwig. 2022. "Gender, Race, and Intersectionality in the Political Donations of America's Corporate Elite".
 
 ## Talks
 Yongjun Zhang. March 2022. "Gender, Race, and Intersectionality in the Political Donations of America's Corporate Elite". European University Institute. with Dr. Jennifer Heerwig.
