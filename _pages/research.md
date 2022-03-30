@@ -7,15 +7,15 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My research falls into two main areas: understanding the influence of geography
-on actor behavior before, during, and after civil conflict, and developing new
-tools to improve the study of institutions (both formal and informal) in peace
-and conflict. One strand of research in this first area explores how the
-territories that ethnic groups inhabit shape rebel group formation and condition
-their relationship with the state. My interest in geography also informs
-projects on active conflicts including the targeting of UN peacekeepers by
-insurgent groups, civilian victimization after rebel territorial conquest, and
-communal violence in fragile settings.
+My academic research falls into two main areas: understanding the influence of
+geography on actor behavior before, during, and after civil conflict, and
+developing new tools to improve the study of institutions (both formal and
+informal) in peace and conflict. One strand of research in this first area
+explores how the territories that ethnic groups inhabit shape rebel group
+formation and condition their relationship with the state. My interest in
+geography also informs projects on active conflicts including the targeting of
+UN peacekeepers by insurgent groups, civilian victimization after rebel
+territorial conquest, and communal violence in fragile settings.
 
 My other main research agenda uses advanced methods to develop new measures of
 institutions. One project uses Bayesian item response theory to measure the
