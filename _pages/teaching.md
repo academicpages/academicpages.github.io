@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching Experience
+## Teaching Experience
 
 - Teaching Assistant, Washington University in St. Louis
 
