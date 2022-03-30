@@ -3,9 +3,6 @@ permalink: /research/
 title: "Research"
 ---
 
-## Working Papers
-1. Tackling Persistent Misperceptions: Repeated Interactions, Repeated Refutations, and Endogenous Corrections.
-[Proposal](/files/proposals/Weiye Deng_Proposal_Repeated Interaction with Misinfo.pdf)
-
-2. Media Rhetoric, Political Ideologies, and Public Opinion on Terrorism.
-[Proposal](/files/proposals/Weiye Deng_Proposal_Terrorism.pdf)
+## Selected Working Papers
+1. An Imitation Game: How Authoritarian Regimes Secure Public Support in Chinese Social Media. (with Cecilia Sui and Margit Tavits)
+2. A War of Fear: How Negative Propaganda Cultivate Regime Support in China
