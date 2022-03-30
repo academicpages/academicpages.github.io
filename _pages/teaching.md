@@ -5,9 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teaching Experience
-Teaching Assistant, Washington University in St. Louis
+# Teaching Experience
 
-- Quantitative Political Methodology (Ted Enamerado), Spring 2022, Undergraduate Level
+- Teaching Assistant, Washington University in St. Louis
 
-- Data Science for Politics (Jacob M. Montgomery), Fall 2021, Undergraduate Level
+  - Quantitative Political Methodology (Ted Enamerado), Spring 2022, Undergraduate Level
+
+  - Data Science for Politics (Jacob M. Montgomery), Fall 2021, Undergraduate Level
