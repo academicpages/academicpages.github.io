@@ -19,7 +19,7 @@ Zixuan Xu\*, **Penghui Wei**\*, Weimin Zhang, Shaoguo Liu, Liang Wang, Bo Zheng 
 
 * **A Graph-to-Sequence Learning Framework for Summarizing Opinionated Texts**  
 **Penghui Wei**, Jiahao Zhao, Wenji Mao  
-**TASLP 2021**: IEEE/ACM Transactions on Audio, Speech, and Language Processing, Volume 29, 2021: 1650--1660.  
+**TASLP ’21**: IEEE/ACM Transactions on Audio, Speech, and Language Processing, Volume 29, 2021: 1650--1660.  
 
 * **Robust Neural Text Classification and Entailment via Mixup Regularized Adversarial Training**     
 Jiahao Zhao, **Penghui Wei**, Wenji Mao  
