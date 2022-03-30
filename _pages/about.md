@@ -80,7 +80,7 @@ Publications
 			<br/>
 			Siyuan Cao, <b>Habiba Farrukh</b>, He Wang
 			<br/>
-			IEEE International Conference on Computer Communications (InfoCom '20) <a href="/files/context.pdf">[Paper]</a>, <a href="https://www.cs.purdue.edu/homes/cao208/files/context_address_siyuan_cao-uploaded.mp4">[Video]</a>
+			IEEE International Conference on Computer Communications (InfoCom '20) <a href="/files/Context.pdf">[Paper]</a>, <a href="https://www.cs.purdue.edu/homes/cao208/files/context_address_siyuan_cao-uploaded.mp4">[Video]</a>
 			<br/>
 	</li>
 </ul>
