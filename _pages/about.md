@@ -49,7 +49,7 @@ Publications
 			<br/>
 			Siddharth Divi, Yi-Shan Lin, <b>Habiba Farrukh</b>, Z Berkay Celik
 			<br/>
-			International Workshop on Federated Learning for User Privacy and Data Confidentiality (FL-ICML '21) <a href="h/files/FL.pdf">[Paper]</a>
+			International Workshop on Federated Learning for User Privacy and Data Confidentiality (FL-ICML '21) <a href="/files/FL.pdf">[Paper]</a>
 			<br/>
 	</li>
 </ul>
