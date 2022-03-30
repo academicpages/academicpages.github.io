@@ -12,32 +12,35 @@ I am a NORDITA Fellow at the Nordita Institute and Stockholm University working 
 I am a member of the LIGO Scientific Collaboration (LSC) and the Australian research council centre for excellence for gravitational-wave discovery, OzGrav.
 
 # Recent News
+* 28th March 2022: _Linking the rates of neutron star binaries and short gamma-ray bursts_ accepted in Phys Review D. Check it out on the [arXiv](https://arxiv.org/abs/2201.08491).
+* 17th March 2022: Today, we released the alpha version of redback, a bayesian inference software package for electromagnetic transients. If you are interested in fitting and interpreting the observations of electromagnetic transients, check it out on [github](https://github.com/nikhil-sarin/redback) and consider contributing!
+* 3rd March 2022: _Low-efficiency long gamma-ray bursts: A case study with AT2020blt_ published in to MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2106.01556).
 * January 24th 2022: _Linking the rates of neutron star binaries and short gamma-ray bursts_ submitted to Phys Review D. Check it out on the [arXiv](https://arxiv.org/abs/2201.08491).
 * January 22-28th 2022: This week I am in Switzerland attending the Saas-fee winter school on gravitational waves and multi-messenger astronomy. And Skiing!
-* December 2021: _Multimessenger astronomy with a kHz-band gravitational-wave observatory_ accepted in PASA. See it on [arXiv](https://arxiv.org/abs/2110.10892).
-* October 21st 2021: _Multimessenger astronomy with a kHz-band gravitational-wave observatory_ submitted to PASA. See it on [arXiv](https://arxiv.org/abs/2110.10892).
+* December 2021: _Multimessenger astronomy with a kHz-band gravitational-wave observatory_ accepted in PASA. Check it out  on [arXiv](https://arxiv.org/abs/2110.10892).
+* October 21st 2021: _Multimessenger astronomy with a kHz-band gravitational-wave observatory_ submitted to PASA. Check it out  on [arXiv](https://arxiv.org/abs/2110.10892).
 * October 8th 2021: I did an interview on the highs and lows of my PhD with LIGO-India. Check it out on [Youtube](https://www.youtube.com/watch?v=A-3n3IklmM0) or the press release [here](https://www.ligo-india.in/blog36/)
 * October 8th 2021: I am now officially Dr Nikhil Sarin!
 * July 18-23rd 2021: This week I am attending the AMALDI meeting. I will be giving a talk on the multimessenger signatures of binary neutron star mergers.
 * July 15th 2021: Today I submitted my PhD thesis titled _The observational signatures of nascent neutron stars_!! Hoping for a smooth review!
 * July 12-16th 2021: I am attending the Annual ASA meeting this week (in hybrid format). Looking forward to listening to all the exciting science happening across Australia.
-* 4th June 2021: _Low-efficiency long gamma-ray bursts: A case study with AT2020blt_ submitted to MNRAS. See it on [arXiv](https://arxiv.org/abs/2106.01556).
-* 1st June 2021: _The evolution of binary neutron star post-merger remnants: a review_ accepted in General Relativity and Gravitation. See it on [arXiv](https://arxiv.org/abs/2012.08172).
-* 24th May 2021: _CDF XT1: The off-axis afterglow of a neutron star merger at z = 2.23_ submitted to ApJL. See it on [arXiv](https://arxiv.org/abs/2105.10108).
+* 4th June 2021: _Low-efficiency long gamma-ray bursts: A case study with AT2020blt_ submitted to MNRAS. Check it out  on [arXiv](https://arxiv.org/abs/2106.01556).
+* 1st June 2021: _The evolution of binary neutron star post-merger remnants: a review_ accepted in General Relativity and Gravitation. Check it out  on [arXiv](https://arxiv.org/abs/2012.08172).
+* 24th May 2021: _CDF XT1: The off-axis afterglow of a neutron star merger at z = 2.23_ submitted to ApJL. Check it out  on [arXiv](https://arxiv.org/abs/2105.10108).
 * 23-26 March 2021: I gave a virtual talk at the THESEUS conference. See slides [here](https://www.isdc.unige.ch/theseus/posters-slides.html)
 * February 2021: Pleased to finally announce that I have accepted a postdoctoral fellowship at NORDITA. Looking forward to moving to Sweden in November.
 * January 2021: I passed my pre-submission milestone for my PhD! This is the last milestone before I submit my thesis in mid July.
-* November 27th 2020: _The evolution of binary neutron star post-merger remnants: a review_ submitted to General Relativity and Gravitation. See it on [arXiv](https://arxiv.org/abs/2012.08172).
+* November 27th 2020: _The evolution of binary neutron star post-merger remnants: a review_ submitted to General Relativity and Gravitation. Check it out  on [arXiv](https://arxiv.org/abs/2012.08172).
 * November 23rd-27th 2020: This week I am attending the annual OzGrav retreat.  
 * 16th November 2020: Today I am giving an invited talk at Caltech.
 * September 2020: _Interpreting the X-ray afterglows of gamma-ray bursts with radiative losses and millisecond magnetars_ accepted in MNRAS.
 * August 2020: I gave a couple more remote talks this month. One at the Flatiron Institute, and another at the University of California, Berkeley.
-* August 2020: Submitted _Interpreting the X-ray afterglows of gamma-ray bursts with radiative losses and millisecond magnetars_ to MNRAS. See it on [arXiv](https://arxiv.org/abs/2008.05745).
+* August 2020: Submitted _Interpreting the X-ray afterglows of gamma-ray bursts with radiative losses and millisecond magnetars_ to MNRAS. Check it out  on [arXiv](https://arxiv.org/abs/2008.05745).
 * July 2020: Over the last month I have given several talks remotely, this remote adventure concludes this week with talks at the University of Bath, Leicester, Gran Sasso and Swinburne. Pleased to be able to present my work at so many different places, unfortunate downside that it had to be remotely.
-* 3rd June 2020: Submitted _Bayesian inference for compact binary coalescences with BILBY: Validation and application to the first LIGO--Virgo gravitational-wave transient catalogue_ to MNRAS. See it on [arXiv](https://arxiv.org/abs/2006.00714)
+* 3rd June 2020: Submitted _Bayesian inference for compact binary coalescences with BILBY: Validation and application to the first LIGO--Virgo gravitational-wave transient catalogue_ to MNRAS. Check it out  on [arXiv](https://arxiv.org/abs/2006.00714)
 * 8th March 2020: _Gravitational waves or deconfined quarks: what causes the premature collapse of neutron stars born in short gamma-ray bursts?_ accepted in PRD.
 * 4th March 2020: My recent paper is in the news! see article [here](https://www.monash.edu/science/news/current/new-study-reveals-possible-formation-of-massive-neutron-stars-from-stellar-collision/_nocache) on the Monash website and [here](https://www.ozgrav.org/news/new-study-reveals-possible-formation-of-massive-neutron-stars-from-stellar-collision) on OzGrav!
-* January 16th 2020: Submitted _Gravitational waves or deconfined quarks: what causes the premature collapse of neutron stars born in short gamma-ray bursts?_ to PRD. See it on [arXiv](https://arxiv.org/abs/2001.06102). This paper took a long time but it was well worth it.
+* January 16th 2020: Submitted _Gravitational waves or deconfined quarks: what causes the premature collapse of neutron stars born in short gamma-ray bursts?_ to PRD. Check it out  on [arXiv](https://arxiv.org/abs/2001.06102). This paper took a long time but it was well worth it.
 * November 17th-22nd November: This week I am in Lorne, Victoria for the Annual OzGrav retreat and ECR workshop.  
 * November 8th: After a long productive trip in Japan my visit comes a conclusion. Met heaps of amazing people, started several collaborations, lots of exciting science to come.
 * October 27th-3rd November: This week, I am the Yamada meeting on gamma-ray-bursts in the beautiful city of Yokohama. I am presenting a couple of posters on my work on the population properties of long-lived neutron star merger remnants and extension of millisecond-magnetar models to include radiative losses.
