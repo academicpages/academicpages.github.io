@@ -7,7 +7,7 @@ author_profile: true
 
 Monday, April 4th:
 
-[Université Paris Dauphine](https://leda.dauphine.fr/fr/membre/detail-cv/profile/antoine-boucher.html) (Princeton), presents:
+[Antoine Boucher](https://leda.dauphine.fr/fr/membre/detail-cv/profile/antoine-boucher.html) (Université Paris Dauphine), presents:
 
 **Title:** ["*Foreign Aid and Power Play: Political Cycle in World Bank's Procurement Allocation*"](https://gsipe-workshop.github.io/files/paper_gsipe_workshop.pdf)
 
