@@ -84,8 +84,8 @@ analytics:
 author:
   name             : "Rob Williams"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Research Fellow"
-  location         : "St. Louis, MO"
+  bio              : "Data Scientist"
+  location         :
   employer         :
   pubmed           :
   orcid            : "http://orcid.org/0000-0001-9259-3883"
@@ -109,7 +109,7 @@ author:
   linkedin         : "jayrobwilliams"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
   steam            :
   tumblr           :
   twitter          : "jayrobw"
