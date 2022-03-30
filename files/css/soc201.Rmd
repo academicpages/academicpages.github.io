@@ -1,5 +1,5 @@
 ---
-title: "Using Computational Methods to Scrape Data from the Internet 101-System"
+title: "Research Methods in Sociology--Using Computational Methods to Scrape Data from the Internet"
 author: "Yongjun Zhang, Ph.D."
 institute: "Department of Sociology and IACS, Stony Brook Unversity"
 date: "March 30,2022"
