@@ -1,0 +1,1007 @@
+---
+title: "Using Computational Methods to Scrape Data from the Internet 101-System"
+author: "Yongjun Zhang, Ph.D."
+institute: "Department of Sociology and IACS, Stony Brook Unversity"
+date: "March 30,2022"
+output:
+  rmdformats::readthedown:
+    highlight: pygments
+--- = =
+---
+
+```{=html}
+<style type="text/css">
+p{ /* Normal  */
+   font-size: 18px;
+}
+body{ /* Normal  */
+   font-size: 18px;
+}
+td {  /* Table  */
+   font-size: 14px;
+}
+h1 { /* Header 1 */
+ font-size: 32px;
+}
+h2 { /* Header 2 */
+ font-size: 26px;
+}
+h3 { /* Header 3 */
+ font-size: 22px;
+}
+code.r{ /* Code block */
+  font-size: 14px;
+}
+pre { /* Code block */
+  font-size: 14px
+}
+</style>
+```
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Welcome to Research Methods in Sociology Lab training session. You can get access to this tutorial via <https://yongjunzhang.com/files/css/soc201.html>. You get the RMarkdown file [here](https://yongjunzhang.com/files/css/soc201.Rmd).
+
+> This tutorial aims to help students set up their computer system to meet necessary lab training requirements. It includes basic steps to install R, Rstudio etc. 
+
+> We also aim to introduce some basic R, including variables, data types, functions, and loops. You need to read the r for data science chapters "explore and wrangle."
+
+> Finally, we introduce basic ways to access twitter API  and show you how to use selenium to control your web browser to do web scraping.
+
+If you don't want to install anything on your computer, you can use rstudio.cloud (R). But I strongly suggest that you install them because you want to have more experience.
+
+# Install R and Rstudio
+
+Let us do it from scratch. 
+
+Before Installing Rstudio, you need to Install R. You can download R and other necessary software by clicking here <https://cran.r-project.org/>. You can choose the appropriate version for your system (e.g., windows, Mac). Be careful to follow its installing instruction, especially regarding those necessary software like xquartz.
+
+After this step, please go to RStudio website to download and install RStudio desktop. You can click here <https://rstudio.com/products/rstudio/download/> and choose the free version. 
+
+Then, you can use `install.packages` function to install necessary R packages. But I suggest you to copy and paste following code to install some common packages for data processing and visualization. You can add any packages you want to install by defining the "packages" variable.
+
+Packages are developed by the R user community to achieve different goals. For instance, tidyverse is a wrapper for a lot of different packages designed for data science, including dplyr, tidyr, readr,purr, tibble, etc. Click here for more details <https://www.tidyverse.org/packages/>
+
+```{r}
+if (!requireNamespace("pacman")) install.packages('pacman')
+library(pacman)
+p_load(tidyverse, tidytext,rvest, RSelenium,httr)
+```
+
+# SOME BASIC R
+
+## Access R
+
+To use R, there are multiple ways. 
+
+- You can use RGui, like this:
+
+![RGui](./rconsole.png)
+
+- You can use terminal or cmdline to access R, like this:
+
+![Terminal,cmdline](./rterminal.png)
+
+- Of course, we can use Rstudio to access R, obviously. 
+
+![Rstudio](./rstudio.png)
+
+When we use Rstudio, you can use the right upper panel (console) to use R, but you can also use the left panel by openning a R script or R markdown to use R. I strongly suggest that you should write R script or Rmarkdown files to execute your codes instead of using R console directly. 
+
+## Manage Your Codes via Rstudio Project
+
+We often develop our own habits and systems to organize our project and files. But in this course, I suggest that we use Rstudio project to organize our codes. We clike **File/New Project/New Directory**, like this:
+
+![Rstudio Project](./rproj.png)
+
+
+The great thing with Rstudio project is you can use it with git version control system to track your codes. **Another advantage of using Rstudio project is that it is super convenient to share your codes. You can share the entire project folder with your collaborators and they don't need to change anything. Just click the proj file to start Rstudio and run your codes on their end to replicate what you have done.**
+
+Next we will use Rstudio to access R and run our demos.
+
+## Manage your libraries
+
+R is a great open source software for statistical computing and graphic visualization. I use R for data wrangling and data visualization. The advantage of R is that it has a great community with users contributing to R community. A lot of user-written packages like tidyverse and ggplot2 which allow users to conveniently achieve their goals. 
+
+To use R on top of its base, we need to install packages for specific tasks. There are different ways to install R packages. But let us figure out where your library is (storing your packages) and see what packages have been loaded into your environment.
+
+### Check your library
+
+```{r}
+.libPaths() # get library location
+library()   # see all packages installed
+search()    # see packages currently loaded
+```
+
+### Install your packages
+
+We can use the function **install.packages()** to install your target package.
+
+Let us say, we want our tidyverse... It takes a while, since it will install all these dependencies.
+
+```{r eval=FALSE}
+install.packages("tidyverse")
+```
+
+You can also use **devtools** to install packages from github, etc.
+
+```{r eval=FALSE}
+devtools::install_github("Your target package path")
+```
+
+Of course, you can use **pacman** package as shown before.
+
+## check your current working directory
+
+If you are not using Rstudio project to organize your codes, then typically what you have to do is to check your working directory. Now your working directory should be under your R project folder. 
+
+```{r }
+getwd()
+```
+
+You can use **setwd()** to change your working directory
+
+```{r eval=FALSE}
+# not running the code
+wdir <- "Your Dir"
+setwd(wdir)
+```
+
+
+> Now you have some basic understanding about how to start your R. Next let us move to introduce some basic R functions.
+
+Long time ago, I wrote some a post on how to write good r code. You can take a look here:
+
+[https://yongjunzhang.com/posts/2018/02/google-r-style-guide/](https://yongjunzhang.com/posts/2018/02/google-r-style-guide/)
+
+## Assign Values to Variables
+
+In R, you can use the assignment operator **\<-** to create new variables. I also see people use the equal sign ("=") to do that. But for code consistency, we should stick to the **\<-** sign.
+
+> If you are using windows system, you can press "alt" and "-" simultaneously to type \<- In mac, I believe it is opt and -
+
+```{r}
+# One example of assigning values to variables
+
+# let us create a variable "a" and assign a value of 5 to it.
+a <- 5
+a
+# let us create a variable b and assign a value 100 to it
+
+b <- 100
+b
+# you can also assign a string
+
+c <- "hello world"
+c
+```
+
+## Arithmetic and Logical Operators
+
+| Arithmetic Operator | Description    |
+|---------------------|----------------|
+| \+                  | addition       |
+| \-                  | subtraction    |
+| \*                  | multiplication |
+| /                   | division       |
+| \^ or \*\*          | exponentiation |
+
+| Logical Operator | Description              |
+|------------------|--------------------------|
+| \>               | greater than             |
+| \>=              | greater than or equal to |
+| ==               | exactly equal to         |
+| !=               | not equal to             |
+
+Let us see some examples
+
+```{r}
+# we can do some operation in R
+# let us create a new variable d that stores a and b
+d <- a + b
+d
+# let do other arithmetic operations
+e <- a - b
+e
+f <- a * b
+f
+g <- a ** b
+g
+# but you cannot do this for different data types
+# h <- a + c
+# h
+
+# let us try some logical operation
+# Note that a = 5
+a == 5
+a <= 100
+a !=100
+# as you see here, it returns TRUE OR FALSE
+```
+
+## Data Types
+
+R has a wide variety of data types including scalars, vectors (numerical, character, logical), matrices, data frames, and lists.
+
++-------------+---------------------------------------------------------------+
+| Types       | Examples                        |
++=============+===============================================================+
+| scalars     | a \<- 1; b\<-"hello word"; c \<- (a ==1) |
++-------------+------------------------------------------+
+| vectors     | a \<- c(1, 2, 3, 4); b \<- c ("a", "b", "c")|
++-------------+--------------------------------------------+
+| matrices    | let us see a 2 by 3 matrix: |
+|             |                             |
+|             | a \<- matrix(c(2,4,3,1,5,7),\#the data elements\ |
+|             | nrow=2,\#number of rows\  |
+|             | ncol=3,\#number of columns\ |
+|             | byrow=TRUE) \#fill matrix by rows |
++-------------+------------------------+
+| data frames | A **data frame** is used for storing data tables. It is a list of vectors of equal length. For example, df is a data frame containing three vectors n, s,b. |
+|             |                               |
+|             | n=c(2,3,5)\              |
+|             | s=c("aa","bb","cc")\     |
+|             | b=c(TRUE,FALSE,TRUE)\    |
+|             | df=data.frame(n,s,b)     |
++-------------+------------------------------------------------+
+| lists       | Lists contain elements of different types like − numbers, strings, vectors and another list inside it. A list can also contain a matrix or a function as its elements. List is created using **list()** function. |
+|             |                               |
+|             | list\_example\<- list("Red", "Green", c(1,2,3), TRUE, 520, 10000) |
++-------------+------------------------------------------------------+
+
+let us see some examples:
+
+```{r}
+# scalars
+a <-  2
+class(a)
+# vectors
+b <- c("a","b","c")
+b
+class(b)
+# matrix
+c <- matrix(c(2,4,3,1,5,7),nrow=2, ncol=3,byrow=TRUE)
+c
+class(c)
+# data frame
+n <- c(2,3,5)
+s <- c("aa","bb","cc")
+b <- c(TRUE,FALSE,TRUE)
+df <- data.frame(n,s,b)
+df
+class(df)
+# lists
+list_example <- list("Red", "Green", c(1,2,3), TRUE, 520, 10000)
+list_example
+class(list_example)
+```
+
+## Functions
+
+In R you can define a function to achieve certain goals.
+
+```{r}
+# let us define a function that prints out the texts you input...
+
+print_text <- function(x){
+  print(x)
+}
+
+x <- "Hello Word, R."
+print_text(x)
+
+```
+
+> One rule to beautify your codes is to abstract your codes using R functions. R has many built-in functions (R base), but you can also get a lot more functions by installing new packages.
+
+Let us write a function of computing covariance of two variables.
+
+```{r}
+CalculateSampleCovariance <- function(x, y, verbose = TRUE) {
+  # Computes the sample covariance between two vectors.
+  #
+  # Args:
+  #   x: One of two vectors whose sample covariance is to be calculated.
+  #   y: The other vector. x and y must have the same length, greater than one,
+  #      with no missing values.
+  #   verbose: If TRUE, prints sample covariance; if not, not. Default is TRUE.
+  #
+  # Returns:
+  #   The sample covariance between x and y.
+  n <- length(x)
+  # Error handling
+  if (n <= 1 || n != length(y)) {
+    stop("Arguments x and y have different lengths: ",
+         length(x), " and ", length(y), ".")
+  }
+  if (TRUE %in% is.na(x) || TRUE %in% is.na(y)) {
+    stop(" Arguments x and y must not have missing values.")
+  }
+  covariance <- var(x, y)
+  if (verbose)
+    cat("Covariance = ", round(covariance, 4), ".\n", sep = "")
+  return(covariance)
+}
+
+getAnywhere(CalculateSampleCovariance)
+
+(x <- seq(1,10,1))
+(y <- seq(21,40,2))
+CalculateSampleCovariance(x,y,verbose = TRUE)
+```
+
+So a typical function consits of the following elements:
+
+```{r}
+FunctionName <- function(arg1,arg2,arg3=TRUE,...){
+  # MAIN FUNCTION BODY
+  # You Do SOMETHING HERE
+  # Return Your Value or Values
+}
+```
+
+- Functions should contain a comments section immediately below the function definition line. These comments should consist of a one-sentence description of the function; a list of the function’s arguments, denoted by Args:, with a description of each (including the data type); and a description of the return value, denoted by Returns:. The comments should be descriptive enough that a caller can use the function without reading any of the function’s code.
+
+- FunctionName: You have to assign a function name to your function. You can reference my post to see how to write consistent R codes. 
+
+- arg1, arg2, arg3: these are your function's arguments. Could be any R objects such as numbers, strings, arrays, data frames, and other valid arguments.
+
+- Some arguments have default values, for instance, arg. You have to supply a value for arguments without a default when you run.
+
+- The ‘…’ argument: We can also use ..., or ellipsis, in the function, which allows us pass arguments to other funsions you are using. 
+
+- Main Function body: The codes specified in **{}** are called everytime when you running it. It could be very long or short. Also you can use other functions in your function.
+
+- Return value: The last line of the code is the value that will be returned by the function. 
+
+### Use tryCatch to manage errors in expression
+
+> **tryCatch()** evaluates an expression to catch exceptions. The tryCatch() function allows R users to handle errors like this: if(error), then(do this).
+
+The basic syntax is:
+
+```{r eval=FALSE}
+tryCatch({
+# Parameters
+# expression: The expression to be evaluated.
+# …: A catch list of named expressions. The expression with the same name as the class of the Exception thrown when evaluating an expression.
+# finally: An expression that is guaranteed to be called even if the expression generates an exception.
+# envir: The environment in which the caught expression is to be evaluated.
+ expression # you do something here, e.g., your function
+}, warning = function(w) {
+ warning-handler-code
+}, error = function(e) {
+ error-handler-code
+}, finally = {
+ cleanup-code
+}
+)
+```
+
+Let us use our specified function as an example:
+
+```{r eval=FALSE}
+(x <- seq(1,10,1))
+(y <- seq(100,200,2))
+CalculateSampleCovariance(x,y,verbose = TRUE)
+#After we run this code, it reports errors. We have a line of code to handle the length inconsistency and stop the function. But if you are running a large chunk of the codes and you don't want your codes to break... 
+```
+```{r}
+(x <- seq(1,10,1))
+(y <- seq(100,200,2))
+tryCatch({CalculateSampleCovariance(x,y,verbose = TRUE)},
+ error = function(e) print("You can't calculate covariance with two different length vectors"))
+# the code does not break
+```
+
+## Loops
+
+### for loop
+
+A for loop is used to apply the same function calls to a collection of objects. R has a family of loops. Usually we should avoid for loop when you are coding. But in this tutorial, we will use for-loop as an example.
+
+```{r}
+# let us say you have a list of texts that you want to print out.
+texts <- rep("this is a test",10)
+# now you want to use print function to print out the content..
+# one way you can do is to mannually specify all texts
+# like print(texts[1])... but it is tedious...
+# we can do a for loop to print out all texts easily
+
+for(text in texts){
+  print(text)
+}
+
+```
+> we should avoid loop functions if possible as it is every expensive. Of course, you can also use apply family to avoid loops. But we are not going to discuss it. I prefer using map family functions.
+
+
+### map family
+
+Let us use reading files as a demo. If you need to read a list of files into R from a folder, so here is what you want to do:
+
+- get a list of files that needs to be read
+- read the first file
+- read the second file
+- read the nth file
+
+But this is very redundant and time consuming.
+
+Here is what you are actually doing.
+
+- get a list of files that needs to be read
+- define a function of reading the file
+- apply the function to all the files.
+
+> Let us read U.S. SSA Baby Names
+
+![US Baby Names Example](./babynames.png)
+
+```{r}
+files <- list.files(path = "./names/",pattern = ".txt",full.names = TRUE)
+files
+
+# let us read the first file
+library(tidyverse)
+baby1 <- read_csv(files[1],col_names = FALSE)
+head(baby1)
+colnames(baby1) <- c("names","sex","count")
+
+# let us say we want to define a read_us_baby function
+
+readSsaBabyNames <- function(file,...){
+  require(tidyverse)
+  data <- read_csv(file,col_names = FALSE,show_col_types = FALSE) %>% 
+    mutate(year=str_replace_all(file,"[^0-9]",""))
+  colnames(data) <- c("names","sex","count","year")
+  return(data)
+}
+readSsaBabyNames(files[1])
+```
+
+
+```{r}
+start_time <- Sys.time()
+dat_baby <- map_dfr(files, readSsaBabyNames)
+end_time <- Sys.time()
+(end_time - start_time)
+```
+You can check here to see a more detailed description of map function:
+[https://purrr.tidyverse.org/reference/map.html](https://purrr.tidyverse.org/reference/map.html)
+
+## Parallelising your code
+```{r}
+require(parallel)
+no_cores <- detectCores() - 1
+start_time <- Sys.time()
+dat_baby <- mclapply(files,readSsaBabyNames,mc.cores = no_cores) #same thing using all the cores in your machine
+end_time <- Sys.time()
+(end_time - start_time)
+head(dat_baby)
+
+```
+
+# Pipe coding
+
+> Next we are going to discuss pipe coding in R. The pipe operator, **%>%**, has been a longstanding feature of the **magrittr** package for R. You can check  here:[https://cran.r-project.org/web/packages/magrittr/vignettes/magrittr.html](https://cran.r-project.org/web/packages/magrittr/vignettes/magrittr.html) The following codes are from magrittr readme.rmd.
+### Basic piping
+  
+* `x %>% f` is equivalent to `f(x)`
+* `x %>% f(y)` is equivalent to `f(x, y)`
+* `x %>% f %>% g %>% h` is equivalent to `h(g(f(x)))`
+
+Here, "equivalent" is not technically exact: evaluation is non-standard,
+and the left-hand side is evaluated before passed on to the right-hand side
+expression. However, in most cases this has no practical implication.
+
+### The argument placeholder
+
+* `x %>% f(y, .)` is equivalent to `f(y, x)`
+* `x %>% f(y, z = .)` is equivalent to `f(y, z = x)`
+ 
+### Re-using the placeholder for attributes
+
+It is straightforward to use the placeholder several times
+in a right-hand side expression. However, when the placeholder
+only appears in a nested expressions magrittr will still apply
+the first-argument rule. The reason is that in most cases this
+results more clean code. 
+
+`x %>% f(y = nrow(.), z = ncol(.))` is equivalent to 
+   `f(x, y = nrow(x), z = ncol(x))`
+
+The behavior can be
+overruled by enclosing the right-hand side in braces:
+
+`x %>% {f(y = nrow(.), z = ncol(.))}` is equivalent to 
+   `f(y = nrow(x), z = ncol(x))`
+
+### Building (unary) functions
+
+Any pipeline starting with the `.` will return a function which can later
+be used to apply the pipeline to values. Building functions in magrittr 
+is therefore similar to building other values.
+
+```{r}
+f <- . %>% cos %>% sin 
+# is equivalent to 
+f <- function(.) sin(cos(.)) 
+```
+### A short demo to process data using piping 
+```{r}
+# Let us use baby names as an example
+# here is our codes:
+# we first read all txt files into R
+# we want to lowercase all names
+# we want to get the overall counts for each name
+# we sort names from largest to smallest
+# we assign the results to baby_name_counts ( a data frame)
+
+baby_name_counts <- map_dfr(files, readSsaBabyNames) %>% 
+  mutate(names = tolower(names)) %>% 
+  group_by(names) %>% 
+  summarise(counts=sum(count)) %>% 
+  arrange(desc(counts))
+head(baby_name_counts)
+# your codes are more readable???
+```
+
+# Read and Save Files in R
+
+> Now let us talk about how to read and save files in R, though we have covered some,like using read_csv function from tidyverse to read comma separated files. Tidyverse has a series of functions to read files, such as read_tsv, read_delim, etc; R base has a sereis of functions as well, like read.csv, read.table; foreign package has functions like read.spss, read.data. Haven packages has also some useful functions. Let us go through some functions
+
+> You can click here for more details: [https://readr.tidyverse.org/reference/read_delim.html](https://readr.tidyverse.org/reference/read_delim.html)
+
+## Read Delimited Files
+
+Tidyverse has read_delim and read_csv functions. 
+
+```{r eval=FALSE}
+
+# Arguments
+# file: Either a path to a file, a connection, or literal data (either a single string or a raw vector). Files ending in .gz, .bz2, .xz, or .zip will be automatically uncompressed. Files starting with http://, https://, ftp://, or ftps:// will be automatically downloaded. Remote gz files can also be automatically downloaded and decompressed.
+# delim: Single character used to separate fields within a record.
+# quote: Single character used to quote strings.
+read_delim(
+  file,
+  delim = NULL,
+  quote = "\"",
+  escape_backslash = FALSE,
+  escape_double = TRUE,
+  col_names = TRUE,
+  col_types = NULL,
+  col_select = NULL,
+  id = NULL,
+  locale = default_locale(),
+  na = c("", "NA"),
+  quoted_na = TRUE,
+  comment = "",
+  trim_ws = FALSE,
+  skip = 0,
+  n_max = Inf,
+  guess_max = min(1000, n_max),
+  name_repair = "unique",
+  num_threads = readr_threads(),
+  progress = show_progress(),
+  show_col_types = should_show_types(),
+  skip_empty_rows = TRUE,
+  lazy = should_read_lazy()
+)
+
+read_csv(
+  file,
+  col_names = TRUE,
+  col_types = NULL,
+  col_select = NULL,
+  id = NULL,
+  locale = default_locale(),
+  na = c("", "NA"),
+  quoted_na = TRUE,
+  quote = "\"",
+  comment = "",
+  trim_ws = TRUE,
+  skip = 0,
+  n_max = Inf,
+  guess_max = min(1000, n_max),
+  name_repair = "unique",
+  num_threads = readr_threads(),
+  progress = show_progress(),
+  show_col_types = should_show_types(),
+  skip_empty_rows = TRUE,
+  lazy = should_read_lazy()
+)
+
+```
+
+## Read execl spreadsheets
+
+You can use read_excel to read xlsx files. 
+
+```{r eval=FALSE}
+read_excel(path, sheet = NULL, range = NULL, col_names = TRUE,
+  col_types = NULL, na = "", trim_ws = TRUE, skip = 0,
+  n_max = Inf, guess_max = min(1000, n_max),
+  progress = readxl_progress(), .name_repair = "unique")
+
+read_xls(path, sheet = NULL, range = NULL, col_names = TRUE,
+  col_types = NULL, na = "", trim_ws = TRUE, skip = 0,
+  n_max = Inf, guess_max = min(1000, n_max),
+  progress = readxl_progress(), .name_repair = "unique")
+
+read_xlsx(path, sheet = NULL, range = NULL, col_names = TRUE,
+  col_types = NULL, na = "", trim_ws = TRUE, skip = 0,
+  n_max = Inf, guess_max = min(1000, n_max),
+  progress = readxl_progress(), .name_repair = "unique")
+```
+
+
+> Here is the cheatsheet to import data in R: [https://github.com/rstudio/cheatsheets/blob/main/data-import.pdf](https://github.com/rstudio/cheatsheets/blob/main/data-import.pdf)
+
+# Basic Regular Expression
+
+## Play with Regular Expression
+Next we learn about the basic skills to understand, recognize, and write your own regular expression codes.
+
+1. What is regular expression?
+2. Why should we learn RegEx?
+3. How to write your own RegEx?
+If you're interested in text analysis or broad NLP, RegEX would be one element of your necessary toolkit. 
+
+### What is REGULAR EXPRESSION?
+Regular expressions, or RegEXes, are an abstract way to express patterns that match strings. It is widely used in natural language processing, for instance, to find and replace certain strings with certain patterns.
+
+One simple example is, if you are a data scientist, to create a variable that contains all email address from a large amount of texual data. You can use certain email name pattern to capture all potential email addresses.
+
+```{r}
+require(glue)
+# We use stringr package's some functions for demo
+# Here is an email example
+email_text = "Josh Zhang's email is example@email.com"
+# RegEx for email address
+email_regex = "[a-z]{7}@.*$"
+# extract the address
+email_search = str_extract_all(email_text,email_regex)
+print(glue("we have a match: ", email_search[[1]]))
+```
+Here, we used str_extract_all function to search pattern within the email_text. The method returns a match object if the search is successful. You can access the matched text like email_search[[1]]
+
+### Why should we use or learn RegEX?
+If you a data scientist or quantitative scholar, most of your time is to construct some databases based on a large amount of raw data. Obviously, it is not plausible to do manual coding. Even if you could, it would be very expensive and time costly in the big data era. To improve our efficiency, it is better for us to become a master of RegEX.
+
+There are couple of ways to generate RegEX automatically using third party algorithms. For instance, you can use RegEx tester tools such as regex101<https://regex101.com/>. 
+
+But before doing that, you have to be able to understand the meaning of the RegEX pattern.
+
+### How to write your own RegEX?
+There are certain basic RegEXes we need to familier with, including anchors, quantifiers, operators, character classes,boundaries,flags, groupings,back-referencing, look forward and backward,etc.We will go through these topics one by one.
+
+#### Let us first see some Sepcial Characters
+Regular expressions can contain both special and ordinary characters. 
+
+Most ordinary characters, like 'A', 'a', or '0', are the simplest regular expressions; they simply match themselves. 
+
+Special characters are characters that are interpreted in a special way by a RegEx engine. 
+
+The special characters are:
+
+**[] . ^ $ * + ? {} () \\ |**
+
+##### [ ] - Square brackets
+
+Square brackets specifies a set of characters you want to match.
+
+For instance, [ABCabc] matches if the string contains any of the A, B, C, a, b, or c.
+
+You can also specify a range of characters using - inside square brackets.
+
+> [A-Ca-c] is the same as [ABCabc].
+
+> [1-9] is the same as [123456789].
+
+> [0-38] is the same as [01238].
+
+You can use caret ^ symbol at the start of a square-bracket to exclude certain characters (equate to saying "NOT SOME CHARS").
+
+> [^ABCabc] : any character except A OR B OR C OR a OR b OR c.
+
+> [^0-9] : any non-digit character.
+
+##### .- Dot
+
+The dot symbol . matches any single character (except newline '\\n').
+
+##### ^ - Caret
+
+The caret symbol ^ checks if a string starts with a certain character.
+
+##### $ - Dollar
+
+The dollar symbol $ is used to check if a string ends with a certain character.
+
+##### * - Star
+
+The star symbol * matches zero or more occurrences of the pattern left to it.
+
+##### + - Plus
+
+The plus symbol + matches one or more occurrences of the pattern left to it.
+
+##### ? - Question Mark
+
+The question mark symbol ? matches zero or one occurrence of the pattern left to it
+
+##### {} - Braces
+
+Consider this code: {n,m}. This means at least n, and at most m repetitions of the pattern left to it.
+
+##### | - Alternation
+
+Vertical bar | is used for alternation (or operator).
+
+##### () - Group
+
+Parentheses () is used to group sub-patterns. For example, (a|b|c)xz match any string that matches either a or b or c followed by xz
+
+##### \\ - Backslash
+
+Backlash \\ is used to escape various characters including all metacharacters. For example,
+
+Here, \\$ is not interpreted by a RegEx engine in a special way.
+
+If you are unsure if a character has special meaning or not, you can put \\ in front of it. This makes sure the character is not treated in a special way.
+
+### let check some special sequence
+Special sequences make commonly used patterns easier to write. Here's a list of special sequences:
+
+>\\A - Matches if the specified characters are at the start of a string.
+
+>\\b - Matches if the specified characters are at the beginning or end of a word.
+
+>\\B - Opposite of \\b. Matches if the specified characters are not at the beginning or end of a word.
+
+>\\d - Matches any decimal digit. Equivalent to [0-9]
+
+>\\D - Matches any non-decimal digit. Equivalent to [^0-9]
+
+>\\s - Matches where a string contains any whitespace character. Equivalent to [\\t\\n\\r\\f\\v].
+
+>\\S - Matches where a string contains any non-whitespace character. Equivalent to [^ \\t\\n\\r\\f\\v].
+
+>\\w - Matches any alphanumeric character (digits and alphabets). Equivalent to [a-zA-Z0-9_]. By the way, underscore _ is also considered an alphanumeric character.
+
+>\\W - Matches any non-alphanumeric character. Equivalent to [^a-zA-Z0-9_]
+
+>\\Z - Matches if the specified characters are at the end of a string.
+
+#### **Anchors: ^, $, \\b, \\B**
+
+> All the patterns youe’ve seen so far will find a match anywhere within a string, which is usually - but not always - what you want. This is the purpose of an anchor; to make sure that you are at a certain boundary before you continue the match. 
+
+> The caret symbol ^ matches the beginning of a line, and the dollar sign $ matches the end of a line. 
+
+> The other two anchors are \\b and \\B, which stand for a “word boundary” and “non-word boundary”. Here is an exmaple:
+
+> **\\bame** will capture "i am american", but not "i am an blamer".
+
+> **\\bnational** will capture "national flag is abcde" but not "internatonal organizations are abbbb".
+
+#### **Quantifiers: {}, +, *, ?
+
+> These symbols are quantifiers used in regEX to indicate the repetition or the frequency of certain characters 
+
+> {a,b} a times at least, b times at most
+
+> \+ at least once
+
+> \* zero times or more
+
+> \? zero times or once
+
+#### **Greedy Match or Lazy Match**
+
+We use * or ? to do greedy (longest search) or lazy match (shortest search).
+
+> For instance, pattern "i.*nat" will capture i am a national representative in an internat" in the string "i am a national representative in an international organization".
+
+> But "i.*?nat" will only capture "i am a nat".
+
+**Let us do a quick test**
+
+**r"(\\d|[a-c]){2}.\\*? \bame.\\*$"**
+
+```{r}
+# A sample text string where regular expression is searched. 
+string = "STONY BROOK UNIVERSITY ZIPCODE IS 11794, MY ID IS 12398774, YOU ID IS 8966AGVGG"
+# A sample regular expression to find digits. 
+pattern = '\\d+'			
+match = str_extract_all(string,pattern)
+print(match) 
+```
+
+
+> Now we have some basic ideas of what R can do for us. Let us move to web scraping. You will see how we can store data as variables, dataframes, or vectors as well as how we can write a loop to automate the tedious downloading stuff. Hope you have some fun....
+
+# Scraping a Static Webpage
+
+Let us say, if you are interested in studying shareholder activism, you are trying to get all information on how managers deal with those shareholders proposal via SEC.
+
+You might want to collect all those no action letter pdfs via SEC website: <https://www.sec.gov/corpfin/2019-2020-shareholder-proposals-no-action>. This website lists all those pdfs. What we need to do is to write some lines of codes to automate the whole scraping process in r or python, but we will do this in R.
+
+```{r}
+library(rvest)
+#library(httr)
+
+# Specify the url you want to scrape, let us just focus on the year of 2020
+url <- "https://www.sec.gov/corpfin/2019-2020-shareholder-proposals-no-action#alpha"
+
+# some pseudo codes
+# 1. we need to establish a connection with the web page
+# 2. read the html web page
+# 3. Parse the html page and get the data we want (pdf links)
+# 4. write a loop to download all pdfs
+
+# rvest provides two ways of making request: read_html() and html_session() 
+# read_html() can parse a HTML file or an url into xml document. 
+# html_session() is built on GET() from httr package.
+
+#making GET request and parse website into xml document
+page_source <- read_html(url)
+
+# we need to access those nodes data, related to pdfs
+# if you look at those pdf links, they actually stored in 
+# tags like this <a href="https://www.sec.gov/divisions/corpfin/cf-noaction/14a-8/2020/ctwinvestmentalphabet030620-14a8.pdf"> apple inc </a>
+pdfs <- page_source %>% 
+  # we get all those tags "a"
+  html_nodes("a") %>%
+  # we get attributes href
+  html_attr("href") %>%
+  # make this as a data frame
+  as_tibble() %>% 
+  # only keep those pdf links
+  filter(str_detect(value,"/divisions/corpfin/cf-noaction/14a-8")==TRUE) %>% 
+  transmute(id=row_number(),
+            pdfs=paste0("https://www.sec.gov",value))
+# YOU CAN use html_text() to get all texts in tag a
+# let us print out the first 10 rows
+knitr::kable(pdfs[1:10,])
+
+```
+
+Let us write a loop to download all pdfs
+
+```{r}
+# in r you can use download.file to download things
+# let use specify the target folders first
+# setwd("YOUR FOLDER")
+for(pdf in pdfs$pdfs[1:3]){
+  file_name=str_replace(pdf,"^.*\\/","")
+  download.file(pdf, file_name, mode="wb")
+}
+
+```
+
+# More advanced scraping.
+
+> Sometimes the website is dynamic, and you cannot use rvest to colelct data. You can try rselenium. It basically mimics browser behavior. It controls your browser to automatically go to the website and collect data like human beings.
+
+> You can read this tutorial for more details <http://joshuamccrain.com/tutorials/web_scraping_R_selenium.html>
+
+### Let us use rselenium to control your web browser to get some data on black lives matter protests
+
+> You can check this website for more details: <https://elephrame.com/textbook/BLM/chart>
+
+> I have a selenium script to scrape all data from this website and we are not going to do this in this class, but you can click here <https://yongjunzhang.com/files/css/ws.mov> to see how I did it...
+
+> We will use one url from this dataset as an example.
+
+Here is one example of protest: <https://www.minneapolis.org/support-black-lives/38th-and-chicago/>. Let us use rselenium to get the data from this webpage.
+
+
+
+```{r}
+url <- "https://www.minneapolis.org/support-black-lives/38th-and-chicago/"
+```
+
+
+```{r,eval=FALSE}
+# connect to chrome driver
+driver <- RSelenium::rsDriver(browser = "firefox",port = 4445L)
+remote_driver <- driver[["client"]] 
+remote_driver$navigate(url)
+```
+
+```{r,eval=FALSE}
+# retrieve the article
+main_article <- remote_driver$findElement(using = "class", value="page-title__intro-text")
+
+text <- main_article$getElementText()
+
+```
+
+### Text is a messy list, you need to do some cleaning again.
+
+```{r,eval=FALSE}
+# let us clean those special characters like \n \t, etc.
+
+tidy_text <- text[[1]] %>% 
+  # remove all whitespaces, note it is regex \t
+  str_replace_all("\\s"," ") %>% 
+  # reove some weird punct
+  str_replace_all('\\"',"") %>% 
+  # remove some double spaces
+  str_squish %>% 
+  # reve spaces at the begining and end of the text
+  str_trim %>% 
+  # lower case
+  tolower()
+
+tidy_text
+```
+
+# Using Twitter API to Scrape Tweets
+
+First you need to apply for a developer account to get the following keys and secrets used to access twitter data
+
+You can click here for more details <https://developer.twitter.com/en/apply-for-access>
+
+Once you have the following info, you can write codes to access twitter...
+
+```{r}
+# We need twitterR package to access and query data from twitter
+library(twitteR)
+consumer_key <- "your_consumer_key"
+consumer_secret <- "your_consumer_secret"
+access_key <- "your_access_token"
+access_secret <- "your_access_secret"
+source("twitter.R") # I store my authentification info in a local R file
+setup_twitter_oauth(consumer_key, consumer_secret, access_key, access_secret)
+```
+
+Let us say you are interested in covid19 hashtag.
+
+```{r}
+# let use searchTwitter function to search covid19 
+# here is the documentation of this function <https://www.rdocumentation.org/packages/twitteR/versions/1.1.9/topics/searchTwitter>
+# we store the data as covid_twitter
+covid_twitter <- searchTwitter("covid19",n=1000)
+# we convert is to a data frame using twListToDF
+covid_twitter_df <- twListToDF(covid_twitter)
+# We then tokenize all the words using tidytext package function unnest_tokens
+tweet_words <- covid_twitter_df %>% select(id, text) %>% unnest_tokens(word,text)
+# We then plot it...
+tweet_words %>% 
+  count(word,sort=T) %>% # we count the frequency of each word
+  slice(1:20) %>% # let us focus on the top 20 words
+  ggplot(aes(x = reorder(word, 
+    n, function(n) -n), y = n)) + 
+  geom_bar(stat = "identity") + 
+  theme(axis.text.x = element_text(angle = 60, 
+    hjust = 1)) + xlab("")
+```
+
+The plot is messy.. let us get rid of some words..
+
+```{r}
+# Create a list of stop words: a list of words that are not worth including
+# stop words are those words not informative, such as a an the etc..
+my_stop_words <- stop_words %>% 
+  select(-lexicon) %>% 
+  bind_rows(data.frame(word = c("https", "t.co", "rt", "amp","covid19","de","la","el","en","2","le","1")))
+
+tweet_words_interesting <- tweet_words %>% 
+  anti_join(my_stop_words)
+
+tweet_words_interesting %>% 
+  group_by(word) %>% 
+  tally(sort=TRUE) %>% 
+  slice(1:25) %>% 
+  ggplot(aes(x = reorder(word, 
+    n, function(n) -n), y = n)) + 
+  geom_bar(stat = "identity") + 
+  theme(axis.text.x = element_text(angle = 60, 
+    hjust = 1)) + xlab("")
+```
+
+# The End
