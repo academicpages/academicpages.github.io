@@ -446,8 +446,8 @@ body:hover .visually-hidden button {
    ========================================================================== */
 
 .footnote {
-  color: mix(#fff, $gray, 25%);
-  text-decoration: none;
+  color: $link-color;
+  text-decoration: none !important;
 }
 
 .footnotes {
@@ -461,7 +461,7 @@ body:hover .visually-hidden button {
 
 a.reversefootnote {
   color: $gray;
-  text-decoration: none;
+  text-decoration: none !important;
 
   &:hover {
     text-decoration: underline;
