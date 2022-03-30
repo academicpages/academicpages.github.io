@@ -39,7 +39,7 @@ Publications
 			<br/>
 		Abdullah Imran, <b>Habiba Farrukh</b>, Muhammad Ibrahim, Z. Berkay Celik, Antonio Bianchi
 			<br/>
-			Proceedings of the USENIX Security Symposium (Usenix SEC '22)
+			Proceedings of the USENIX Security Symposium (Usenix SEC '22) <a href="/files/SARA.pdf">[Paper]</a>
 			<br/>
 	</li>
 </ul>
@@ -49,7 +49,7 @@ Publications
 			<br/>
 			Siddharth Divi, Yi-Shan Lin, <b>Habiba Farrukh</b>, Z Berkay Celik
 			<br/>
-			International Workshop on Federated Learning for User Privacy and Data Confidentiality (FL-ICML '21) <a href="https://arxiv.org/pdf/2107.13173.pdf">[Paper]</a>
+			International Workshop on Federated Learning for User Privacy and Data Confidentiality (FL-ICML '21) <a href="h/files/FL.pdf">[Paper]</a>
 			<br/>
 	</li>
 </ul>
@@ -59,7 +59,7 @@ Publications
 			<br/>
 			<b>Habiba Farrukh</b>, Tinghan Yang, Hanwen Xu, Yuxuan Yin, He Wang, Z. Berkay Celik
 			<br/>
-			Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (ACM IMWUT/UbiComp '21) <a href="https://dl.acm.org/doi/abs/10.1145/3448085">[Paper]</a>
+			Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (ACM IMWUT/UbiComp '21) <a href="/files/S3.pdf">[Paper]</a>
 			<br/>
 	</li>
 </ul>
@@ -80,7 +80,7 @@ Publications
 			<br/>
 			Siyuan Cao, <b>Habiba Farrukh</b>, He Wang
 			<br/>
-			IEEE International Conference on Computer Communications (InfoCom '20) <a href="https://www.cs.purdue.edu/homes/cao208/files/context_infocom2020.pdf">[Paper]</a>, <a href="https://www.cs.purdue.edu/homes/cao208/files/context_address_siyuan_cao-uploaded.mp4">[Video]</a>
+			IEEE International Conference on Computer Communications (InfoCom '20) <a href="/files/context.pdf">[Paper]</a>, <a href="https://www.cs.purdue.edu/homes/cao208/files/context_address_siyuan_cao-uploaded.mp4">[Video]</a>
 			<br/>
 	</li>
 </ul>
@@ -91,7 +91,7 @@ Publications
 			<br/>
 		Siyuan Cao, <b>Habiba Farrukh</b>, He Wang
 			<br/>
-			18th ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys '18), <a href="https://www.cs.purdue.edu/homes/cao208/files/mobisys18demos-final20.pdf">[Abstract]</a>, <a href="https://www.cs.purdue.edu/homes/cao208/files/phade_poster_mobisys18.pdf">[Poster]</a>, <a href="https://www.youtube.com/watch?time_continue=4&v=eUvslFNlLnM">[Video]</a>
+			18th ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys '18), <a href="/files/PHADE.pdf">[Abstract]</a>, <a href="https://www.cs.purdue.edu/homes/cao208/files/phade_poster_mobisys18.pdf">[Poster]</a>, <a href="https://www.youtube.com/watch?time_continue=4&v=eUvslFNlLnM">[Video]</a>
 	</li>
 </ul>
 
