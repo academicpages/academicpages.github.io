@@ -11,7 +11,6 @@ redirect_from:
 # <span style="text-decoration:underline">Zeel</span> B Patel
 
 ---
-[**Looking for a research internship, Summer 2022**]
 
 I am a PhD student at <a style="text-decoration:none" href="https://www.iitgn.ac.in/">IIT Gandhinagar</a> advised by <a style="text-decoration:none" href="https://nipunbatra.github.io">Prof. Nipun Batra</a>. My research area of interest is Gaussian processes and their applications to air quality inference and active station deployment.
 
