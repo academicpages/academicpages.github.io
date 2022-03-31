@@ -8,6 +8,8 @@ author_profile: true
 
 {% include base_path %}
 
+(last updated on 4/6/21 during my PhD)
+
 # Genetic Interactions
 
 The interplay between genes and environment in human disease remains unclear. We are identifying interactions between genetic factors, lifestyle factors, and medications using massive biobank datasets, with an interest in individualized genetic prediction and modifiable risk factors.
