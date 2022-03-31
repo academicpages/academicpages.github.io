@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* Aug 2021-: NLP Research Intern
+* Aug 2021-Feb 2022: NLP Research Intern
   * DAMO acadamy, Alibaba Group
   * Research Direction: Multimodal Learning in NLP
-  * Supervisor: Zhen Hai, Lidong Bing
+  * Mentor: Zhen Hai, Lidong Bing
   
 
 Publications
