@@ -23,6 +23,7 @@ My research interests are broadly defined at the intersection of Data Science, B
 
 # News
 
+- **March, 2022:** Gave a talk at the [Women in STEM Mentoring Seminars](https://www.w-stem.org/home). Slides are available [here](https://github.com/Isminoula/isminoula.github.io/blob/master/files/WSTEMSeminar_March2022_IsminiLourentzou.pdf). 
 - **February, 2022:** We are grateful to receive an [NSF EAGER CMMI-AM](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2208864&HistoricalAwards=false) grant!
 - **January, 2022:** TriGORank, a gene ontology enriched learning-to-rank model for trigenic fitness prediction tasks was published at the [IEEE BIBM'21 BiOK 2021](https://ieeexplore.ieee.org/abstract/document/9669503) workshop. Joint work with the Computer Science Department and the Carl R. Woese Institute for Genomic Biology at the University of Illinois at Urbana-Champaign.
 - **January, 2022:** Recent [paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mice.12812) on unsupervised novelty detection in structural health monitoring (SHM) accepted to the Computer-Aided Civil and Infrastructure Engineering (CACAIE) Journal. Joint work with the Department of Civil and Environmental Engineering at Virginia Tech and the Department of Civil Engineering at the KN Toosi University of Technology in Tehran, Iran.
