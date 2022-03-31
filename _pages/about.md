@@ -18,7 +18,10 @@ We are hiring NLP researchers and interns globally! If you are curious or enthus
 I received my Ph.D. degree from the Department of Electric and Computer Engineering at Duke University in 2021. My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/). I graduated with my B.S. degree from the Department of Mathematical Sciences at Tsinghua University in 2017. 
 
 ### Timeline:
-- [2022/03] One paper ([SoTead](https://arxiv.org/abs/2203.05744)) got accepted by findings of ACL 2022.
+
+- [2022/03/31] Began serving as a PC for NeurIPS 2022.
+
+- [2022/02/28] One paper ([SoTead](https://arxiv.org/abs/2203.05744)) got accepted by findings of ACL 2022.
 
 - [2021/04/20] Began serving as a PC for EMNLP 2021.
 
