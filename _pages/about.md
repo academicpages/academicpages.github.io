@@ -16,7 +16,7 @@ redirect_from:
 
 About Me
 ======
-I hold a BEng honour degree in Electronics and Electrical Engineering and an MSc degree in Artificial Intelligence, both received from the University of Edinburgh. My research includes multisensory based multimodal machine learning in contextual recognition and location tracking. Besides research, I adore cooking and travelling.
+I am currently a PhD student at University College London (UCL). Prior to that, I studied Artificial Intelligence (MSc) and Electronics and Electrical Engineering (BEng) at the University of Edinburgh. My research includes multisensory based multimodal machine learning in ubiquitous computing such as contextual recognition and location tracking. Besides research, I adore cooking and travelling.
 
 Research Interests
 ======
