@@ -1,9 +1,22 @@
 @import url(http://fonts.googleapis.com/css?family=Merriweather:300,300italic,400,400italic,700,700italic);
 @import url(http://fonts.googleapis.com/css?family=Montserrat);
 
-/* body { padding-top: 20px; padding-bottom: 40px; font-family: 'Merriweather', Georgia, Times; font-size: 16px; } */
+body {
+    padding-top: 20px;
+    padding-bottom: 40px;
+    font-family: 'Merriweather', Georgia, Times;
+    font-size: 16px;
+}
 
-h1, h2, h3, h4, h5, h6 { font-family: 'Merriweather', Georgia, Times; font-weight: 700;}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Merriweather', Georgia, Times;
+    /* font-weight: 700; */
+}
 
 
 /* title */
@@ -31,25 +44,24 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Merriweather', Georgia, Times; font-weigh
 }
 
 /*Alumnis*/
-.alumnis{
-}
+.alumnis {}
 
 /*all config students*/
 
-.personas{
+.personas {
     width: 120%;
     margin: auto;
     margin-bottom: 40px;
 
- /*    margin: 30px; */
+    /*    margin: 30px; */
     /* padding: 1px; */
     box-sizing: border-box;
-/*     font-family: sans-serif; */
+    /*     font-family: sans-serif; */
 }
 
 /* students - all img*/
 
-.contenedor{
+.contenedor {
     width: 100%;
     display: flex;
     justify-content: center;
@@ -57,33 +69,35 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Merriweather', Georgia, Times; font-weigh
     /* height: 100vh; */
 }
 
-.galeria__image{
+.galeria__image {
     width: 250px;
     height: 350px;
     object-fit: cover;
 }
 
-.contenedor figure{
+.contenedor figure {
     position: relative;
     height: 200px;
     width: 200px;
     overflow: hidden;
     border-radius: 50%;
     margin: 10px;
-    box-shadow: 0px 15px 25px rgba(0,0,0,0.50);
+    box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.50);
     cursor: pointer;
 }
-.contenedor figure img{
+
+.contenedor figure img {
     width: 100%;
     height: 100%;
-/*     min-width: 80%;
+    /*     min-width: 80%;
     min-height: 80%; */
-    
- 
+
+
     transition: all 500ms ease-out;
- 
+
 }
-.contenedor figure .capa{
+
+.contenedor figure .capa {
     position: absolute;
     top: 0;
     width: 100%;
@@ -93,23 +107,24 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Merriweather', Georgia, Times; font-weigh
     opacity: 0;
     visibility: hidden;
     text-align: center;
-/*     justify-content: center; */
+    /*     justify-content: center; */
 }
-.contenedor figure:hover > .capa{
+
+.contenedor figure:hover>.capa {
     opacity: 1;
     visibility: visible;
 }
 
-.contenedor figure:hover > .capa h4{
+.contenedor figure:hover>.capa h4 {
     margin-top: 60px;
     margin-bottom: 15px;
 }
 
-.contenedor figure:hover > img{
+.contenedor figure:hover>img {
     transform: scale(1.2);
 }
 
-.contenedor figure .capa h4{
+.contenedor figure .capa h4 {
     color: rgb(5, 5, 5);
     font-weight: 400;
     margin-bottom: 120px;
@@ -119,40 +134,45 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Merriweather', Georgia, Times; font-weigh
 
 }
 
-.contenedor figure .capa p{
+.contenedor figure .capa p {
     color: rgb(255, 255, 255);
     font-size: 15px;
     line-height: 10.5px;
     width: 100%;
     max-width: 80%;
-     margin: auto;
-     /* justify-content: center; */
+    margin: auto;
+    /* justify-content: center; */
     align-items: center;
 
 }
+
 /* students - for img*/
 
 
 
-.personas .contenedor{
+.personas .contenedor {
     display: grid;
     margin: auto;
 }
-@media(min-width:520px){
-    .personas .contenedor{
-        grid-template-columns: repeat(2,50%);
+
+@media(min-width:520px) {
+    .personas .contenedor {
+        grid-template-columns: repeat(2, 50%);
     }
 }
-@media(min-width:728px){
-    .personas .contenedor{
-        grid-template-columns: repeat(3,33.3%);
+
+@media(min-width:728px) {
+    .personas .contenedor {
+        grid-template-columns: repeat(3, 33.3%);
     }
 }
-@media(min-width:1024px){
-    .personas .contenedor{
-        grid-template-columns: repeat(4,25%);
+
+@media(min-width:1024px) {
+    .personas .contenedor {
+        grid-template-columns: repeat(4, 25%);
     }
-    .contenedor{
+
+    .contenedor {
         width: 1024;
     }
 }
@@ -160,33 +180,34 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Merriweather', Georgia, Times; font-weigh
 
 /*title students*/
 
-.flex-center{
-	/* display: */
-	justify-content: center;
-	align-items: center;
+.flex-center {
+    /* display: */
+    justify-content: center;
+    align-items: center;
 }
 
 
-.icon{
+.icon {
     font-size: 30px;
     width: 30px;
     height: 80px;
     border-radius: 18px;
     color: rgb(53, 50, 50);
     margin: 10px;
-   
-   /*  margin-top: 3px; */
+
+    /*  margin-top: 3px; */
 
 
- 
+
 }
+
 /* img{
     float: left;
 } */
 
 
 
-#fondo{
+#fondo {
     color: #999;
     font-family: Raleway, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
     font-weight: normal;
@@ -207,4 +228,126 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Merriweather', Georgia, Times; font-weigh
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+
+
+
+/* -----------------alumni2------------------------ */
+/* -----------------alumni2------------------------ */
+/* -----------------alumni2------------------------ */
+/* -----------------alumni2------------------------ */
+/* -----------------alumni2------------------------ */
+/* -----------------alumni2------------------------ */
+
+
+
+
+.titulo {
+
+
+    box-sizing: border-box;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-image: url("/img/explanada.jpg");
+    background-repeat: no-repeat;
+    color: rgb(250, 250, 250);
+    text-align: center;
+    background-position: 50% 50%;
+    background-size: cover;
+    background-attachment: scroll;
+    width: 100%;
+    height: 30vh;
+    font-size: 2em;
+}
+
+#sub-titulo {
+    color: #999;
+    font-family: Raleway, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    cursor: auto;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.galeria {
+    font-family: 'open sans';
+}
+
+.linea {
+    border-top: 5px solid #0077c0;
+}
+
+.galeria {
+
+    display: flex;
+    width: 70%;
+    margin: auto;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    border-radius: 3px;
+    margin-top: 30px;
+    margin-bottom: 120px;
+}
+
+.contenedor-imagenes figure {
+    width: 250px;
+    height: 250px;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 35px;
+    box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.85);
+    cursor: pointer;
+}
+
+.imagen img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: all 500ms ease-out;
+}
+
+.contenedor-imagenes figure .capa {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(250, 250, 250, 0.7);
+    transition: all 500ms ease-out;
+    opacity: 0;
+    visibility: hidden;
+    text-align: center;
+}
+
+.contenedor-imagenes figure:hover>.capa {
+    opacity: 1;
+    visibility: visible;
+}
+
+.contenedor-imagenes figure:hover>.capa h4 {
+    margin-top: 70px;
+    margin-bottom: 15px;
+}
+
+.contenedor-imagenes figure .capa h4 {
+    color: #050505;
+    font-weight: 400;
+    font-size: 18px;
+    margin-bottom: 120px;
+    transition: all 500ms ease-out;
+    margin-top: 30px;
+}
+
+.contenedor-imagenes figure .capa p {
+    color: #0077c0;
+    font-size: 16px;
+    line-height: 1.1;
+    width: 100%;
+    max-width: 230px;
+    margin: auto;
+
 }
