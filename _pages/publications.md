@@ -19,11 +19,11 @@ author_profile: true
 
 * **UKD: Debiasing Conversion Rate Estimation via Uncertainty-regularized Knowledge Distillation**  
 Zixuan Xu\*, **Penghui Wei**\*, Weimin Zhang, Shaoguo Liu, Liang Wang, Bo Zheng (\*: Equal contribution)  
-**WWW ’22**: Proceedings of the Web Conference 2022. Online, Lyon, France, April 25--29, 2022.    
+**WWW ’22** (long): Proceedings of the Web Conference 2022. Online, Lyon, France, April 25--29, 2022.    
   
 * **AutoHERI: Automated Hierarchical Representation Integration for Post-Click Conversion Rate Estimation**  
 **Penghui Wei**, Weimin Zhang, Zixuan Xu, Shaoguo Liu, Kuang-chih Lee, Bo Zheng  
-**CIKM ’21**: Proceedings of the 30th ACM International Conference on Information and Knowledge Management, pages 3528--3532. Virtual Event, QLD, Australia, November 1--5, 2021.  
+**CIKM ’21** (short): Proceedings of the 30th ACM International Conference on Information and Knowledge Management, pages 3528--3532. Virtual Event, QLD, Australia, November 1--5, 2021.  
 
 * **A Graph-to-Sequence Learning Framework for Summarizing Opinionated Texts**  
 **Penghui Wei**, Jiahao Zhao, Wenji Mao  
@@ -35,11 +35,11 @@ Jiahao Zhao, **Penghui Wei**, Wenji Mao
 
 * **Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction**  
 **Penghui Wei**, Jiahao Zhao, Wenji Mao  
-**ACL ’20**: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 3171–3181. Online, July 5–10, 2020.  
+**ACL ’20** (long): Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 3171–3181. Online, July 5–10, 2020.  
 
 * **Modeling Conversation Structure and Temporal Dynamics for Jointly Predicting Rumor Stance and Veracity**  
 **Penghui Wei**, Nan Xu, Wenji Mao  
-**EMNLP ’19**: Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing, pages 4787--4798. Hong Kong, China, November 3--7, 2019.  
+**EMNLP ’19** (long): Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing, pages 4787--4798. Hong Kong, China, November 3--7, 2019.  
 
 * **Modeling Transferable Topics for Cross-Target Stance Detection**     
 **Penghui Wei** and Wenji Mao  
@@ -47,7 +47,7 @@ Jiahao Zhao, **Penghui Wei**, Wenji Mao
 
 * **A Topic-Aware Reinforced Model for Weakly Supervised Stance Detection**    
 **Penghui Wei**, Wenji Mao, Guandan Chen  
-**AAAI ’19**: Proceedings of the 33rd AAAI Conference on Artificial Intelligence, pages 7249--7256. Honolulu, Hawaii, USA, January 27 -- February 1, 2019.  
+**AAAI ’19** (long): Proceedings of the 33rd AAAI Conference on Artificial Intelligence, pages 7249--7256. Honolulu, Hawaii, USA, January 27 -- February 1, 2019.  
 
 * **Multi-Target Stance Detection via a Dynamic Memory-Augmented Network**       
 **Penghui Wei**, Junjie Lin, Wenji Mao  
