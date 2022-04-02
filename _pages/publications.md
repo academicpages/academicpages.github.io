@@ -11,11 +11,11 @@ author_profile: true
 
 * **Posterior Probability Matters: Doubly-Adaptive Calibration for Neural Predictions in Online Advertising**  
 **Penghui Wei**, Weimin Zhang, Ruijie Hou, Jinquan Liu, Shaoguo Liu, Liang Wang, Bo Zheng  
-**SIGIR ’22**: Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. Madrid, Spain, July 11--15, 2022.    
+**SIGIR ’22** (short): Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. Madrid, Spain, July 11--15, 2022.    
 
 * **Towards Personalized Bundle Creative Generation with Contrastive Non-Autoregressive Decoding**  
 **Penghui Wei**, Shaoguo Liu, Xuanhua Yang, Liang Wang, Bo Zheng  
-**SIGIR ’22**: Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. Madrid, Spain, July 11--15, 2022.      
+**SIGIR ’22** (short): Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. Madrid, Spain, July 11--15, 2022.      
 
 * **UKD: Debiasing Conversion Rate Estimation via Uncertainty-regularized Knowledge Distillation**  
 Zixuan Xu\*, **Penghui Wei**\*, Weimin Zhang, Shaoguo Liu, Liang Wang, Bo Zheng (\*: Equal contribution)  
@@ -31,7 +31,7 @@ Zixuan Xu\*, **Penghui Wei**\*, Weimin Zhang, Shaoguo Liu, Liang Wang, Bo Zheng 
 
 * **Robust Neural Text Classification and Entailment via Mixup Regularized Adversarial Training**     
 Jiahao Zhao, **Penghui Wei**, Wenji Mao  
-**SIGIR ’21**: Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, pages 1778--1782. Virtual Event, Canada, July 11--15, 2021.    
+**SIGIR ’21** (short): Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, pages 1778--1782. Virtual Event, Canada, July 11--15, 2021.    
 
 * **Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction**  
 **Penghui Wei**, Jiahao Zhao, Wenji Mao  
@@ -43,7 +43,7 @@ Jiahao Zhao, **Penghui Wei**, Wenji Mao
 
 * **Modeling Transferable Topics for Cross-Target Stance Detection**     
 **Penghui Wei** and Wenji Mao  
-**SIGIR ’19**: Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval, pages 1173--1176. Paris, France, July 21--25, 2019.  
+**SIGIR ’19** (short): Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval, pages 1173--1176. Paris, France, July 21--25, 2019.  
 
 * **A Topic-Aware Reinforced Model for Weakly Supervised Stance Detection**    
 **Penghui Wei**, Wenji Mao, Guandan Chen  
@@ -51,7 +51,7 @@ Jiahao Zhao, **Penghui Wei**, Wenji Mao
 
 * **Multi-Target Stance Detection via a Dynamic Memory-Augmented Network**       
 **Penghui Wei**, Junjie Lin, Wenji Mao  
-**SIGIR ’18**: Proceedings of the 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, pages 1229--1232. Ann Arbor, MI, USA, July 8--12, 2018.  
+**SIGIR ’18** (short): Proceedings of the 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, pages 1229--1232. Ann Arbor, MI, USA, July 8--12, 2018.  
 
 * **A Knowledge Enhanced Learning and Semantic Composition Model for Multi-Claim Fact Checking**  
 Shuai Wang, **Penghui Wei**, Jiahao Zhao, Wenji Mao  
