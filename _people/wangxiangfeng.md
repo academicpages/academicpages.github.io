@@ -61,7 +61,7 @@ permalink: /people/xfwang
 #### Journal 
 1. X. Cai, **Xiangfeng Wang**, and W. Zhang, The O(1/n) Worst-case Convergence Rate of ADMM with Variable Penalty Parameters. Numerical Mathematics A Journal of Chinese Universities, accepted, 2022. (Commemorate the 100th anniversary of the birth of Professor Xuchu He)
 2. W. Li, **Xiangfeng Wang**, B. Jin, D. Luo, and H. Zha, Structured Cooperative Reinforcement Learning with Time-varying Composite Action Space. IEEE Transactions on Pattern Analysis and Machine Intelligence, accepted, 2021.
-3. **Xiangfeng Wang**, J. Ye, X. Yuan, S. Zeng, and J. Zhang, Perturbation Techniques for Convergence Analysis of Proximal Gradient Method and Other First-order Algorithms via Variational Analysis. Set-Valued and Variational Analysis, accepted, 2021.
+3. **Xiangfeng Wang**, J. Ye, X. Yuan, S. Zeng, and J. Zhang, Perturbation Techniques for Convergence Analysis of Proximal Gradient Method and Other First-order Algorithms via Variational Analysis. Set-Valued and Variational Analysis, 30, 2022, pp.39-79.
 4. J. Sheng, Y. Hu, W. Zhou, L. Zhu, B. Jin, J. Wang, and **Xiangfeng Wang**, Learning to Schedule Multi-NUMA Virtual Machines via Reinforcement Learning. Pattern Recognition, 121, 2022, pp.108254.
 5. C. Ma, Q. Xu, **Xiangfeng Wang**, Bo Jin, X. Zhang, Y. Wang, and Y. Zhang, Boundary-aware Supervoxel-level Iteratively Refined Interactive 3D Image Segmentation with Multi-agent Reinforcement Learning. IEEE Transactions on Medical Imaging, 40(10), 2021, pp.2563-2574.
 6. **Xiangfeng Wang**, J. Yan, B. Jin, and W. Li, Distributed and Parallel ADMM for Structured Nonconvex Optimization Problem. IEEE Transactions on Cybernetics, 51(9), 2021, pp.4540-4552.
