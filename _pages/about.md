@@ -25,8 +25,13 @@ If you need CSS-related talks or workshops, please feel free to contact me direc
 
 I am co-editing an anual series on cohabitation and the evolving nature of intimate and family relationships with Dr. Sampson Blair for Contemporary Perspectives in Family Research. The deadline for initial submissions is September 30, 2022. [Please click here for more details.](https://yongjunzhang.com/files/CPFR-2022-Cohabitation-Call-for-Papers.pdf)
 
+## Frontiers Conversations on Digital Society
+I am co-hosting a Brownbag series with Professor Zeqi Qiu at Peking University focusing on digital society and its impact on our world. Our first speaker is Professor Chris Bail.
+
+April 6, 2022, Conversation with Professor Chris Bail at Duke University, Director of Polarization Lab. [Click here for more info](https://yongjunzhang.com/files/smp.pdf). 
+
 ## New Paper Alert
-Pradeep Nalluri, Hao Lin, Lantian Li, Yifan Sun, and Yongjun Zhang. 2022. "[Multiplex Anti-Asian Sentiment before and during the Pandemic: Introducing New Datasets from Twitter Mining](https://osf.io/xtw4c/)." 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis.
+Hao Lin, Pradeep Nalluri, Lantian Li, Yifan Sun, and Yongjun Zhang. 2022. "[Multiplex Anti-Asian Sentiment before and during the Pandemic: Introducing New Datasets from Twitter Mining](https://osf.io/xtw4c/)." 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis.
 
 Yongjun Zhang, Sienna Thorgusen, and Xinguang Fan. 2022. "News Coverage of Social Protests in Global Society." International Journal of Comparative Sociology.
 
