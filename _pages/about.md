@@ -19,7 +19,7 @@ During my Ph.D., my research interests were in natural language processing and s
 
 News
 ======
-* Apr. 2022: Our papers about calibration for ranking models and Ad creative generation were accepted at SIGIR 2022.  
+* Apr. 2022: Our papers about calibration for ranking models and ad creative generation were accepted at SIGIR 2022.  
 * Jan. 2022: Our paper about debiasing CVR estimation was accepted at WWW 2022.  
 * Aug. 2021: Our paper about CVR estimation via AutoML was accepted at CIKM 2021.  
 * Jul. 2021: I started at Alimama Ads Tech.
