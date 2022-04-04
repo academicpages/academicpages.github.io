@@ -1,0 +1,548 @@
+---
+title: "Sentiment Analysis"
+author: "Yongjun Zhang"
+date: ""
+output:
+  rmdformats::readthedown:
+    highlight: pygments
+--- = =
+---
+
+```{=html}
+<style type="text/css">
+p{ /* Normal  */
+   font-size: 18px;
+}
+body{ /* Normal  */
+   font-size: 18px;
+}
+td {  /* Table  */
+   font-size: 14px;
+}
+h1 { /* Header 1 */
+ font-size: 32px;
+}
+h2 { /* Header 2 */
+ font-size: 26px;
+}
+h3 { /* Header 3 */
+ font-size: 22px;
+}
+code.r{ /* Code block */
+  font-size: 14px;
+}
+pre { /* Code block */
+  font-size: 14px
+}
+</style>
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Learning Objects
+
+The primary goals of this tutorial includes:
+
+> Introducing basic lexicon-based sentiment analysis in R
+> Introducing conventional ML based SA in R
+> Introducing DL based SA in R
+
+# Lexicon-based SA
+
+## We need to load some packages for use
+
+```{r}
+if (!requireNamespace("pacman")) install.packages('pacman')
+library(pacman)
+p_load(tidyverse,sentimentr, lexicon,syuzhet,parallel)
+```
+
+## Load sample data on earnings call transcripts
+
+R tidyverse package provides a series of useful data wrangling tools. You can 
+check it here <https://www.tidyverse.org/>. 
+
+We use earning call transcripts as an illustrative example. We mentioned that the QJE paper on firm level political risk is computed based on earnings call data. You can get their final dataset via <https://www.firmlevelrisk.com/>
+
+We use some of these earnings call excerpts. It has already been parsed and it is structured by speaker-session. You can get the sample data via <https://yongjunzhang.com/files/css/ect_sample.RData>
+
+```{r}
+# load data
+# load(url("https://yongjunzhang.com/files/css/ect_sample.RData"))
+# you can also download the data and then load it
+load("ect_sample.RData")
+ect_sample <- ect_sample %>% 
+  filter(!is.na(tic))
+```
+
+```{r}
+# Show a table for visual check
+knitr::kable(ect_sample[1:10,],cap="Earnings call parsed data")
+```
+
+## R syuzhet Package
+
+Let us use *syuzhet* package as the baseline. Matthew Jockers created the syuzhet package that utilizes dictionary lookups for the Bing, NRC, and Afinn methods as well as a custom dictionary. He also utilizes a wrapper for the Stanford coreNLP which uses much more sophisticated analysis. 
+
+You can check here for a tutorial for syuzhet: <https://cran.r-project.org/web/packages/syuzhet/vignettes/syuzhet-vignette.html>
+
+We are going to use its functions:
+
+- `get_sentences()`:implements the openNLP sentence tokenizer (tokenize your texts into sentence level)
+
+- `get_tokens`:tokenize by words instead of sentences
+
+- `get_sentiment()`:includes two parameters--a character vector (of sentences or words) and a “method.” The method you select determines which of the four available sentiment extraction methods to employ. In the example that follows below, the “syuzhet” (default) method is called.Other methods include “bing”, “afinn”, “nrc”, and “ç” (YZ comment: i.e., using different dictionary lookups)
+
+- `get_nrc_sentiment`: implements Saif Mohammad’s NRC Emotion lexicon. The NRC emotion lexicon is a list of words and their associations with eight emotions (anger, fear, anticipation, trust, surprise, sadness, joy, and disgust) and two sentiments (negative and positive) (See <http://www.purl.org/net/NRCemotionlexicon>). 
+
+- `get_percentage_values`:divides a text into an equal number of “chunks” and then calculates the mean sentiment valence for each.
+
+- `simple_plot`:akes a sentiment vector and applies three smoothing methods. The smoothers include a moving average, loess, and discrete cosine transformation. 
+
+Some Notes: 
+
+- **afinn** is an English word list developed by Finn Nielsen. Words scores range from minus five (negative) to plus five (positive). You can download the original list via <http://www2.imm.dtu.dk/pubdb/pubs/6010-full.html>; 
+
+- **bing opinion lexicon** can be accessed via <https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html>;
+
+- **nrc** is a list of English words and their associations with eight basic emotions (anger, fear, anticipation, trust, surprise, sadness, joy, and disgust) and two sentiments (negative and positive), and it can can be accessed via <https://saifmohammad.com/WebPages/NRC-Emotion-Lexicon.htm>
+
+```{r}
+# Let use tokenize our texts first
+my_example_text <- ect_sample$text
+s_v <- get_sentences(my_example_text)
+head(s_v)
+```
+
+```{r}
+syuzhet_vector <- get_sentiment(s_v, method="syuzhet")
+head(syuzhet_vector)
+```
+Let us try different methods (use different lexicons)
+
+```{r}
+bing_vector <- get_sentiment(s_v, method="bing")
+head(bing_vector)
+```
+
+```{r}
+afinn_vector <- get_sentiment(s_v, method="afinn")
+head(afinn_vector)
+```
+
+```{r}
+nrc_vector <- get_sentiment(s_v, method="nrc", lang = "english")
+head(nrc_vector)
+```
+
+Let us compare the difference
+
+```{r}
+rbind(
+  sign(head(syuzhet_vector)),
+  sign(head(bing_vector)),
+  sign(head(afinn_vector)),
+  sign(head(nrc_vector))
+)
+```
+
+Let us plot the result
+
+```{r}
+plot(
+  syuzhet_vector, 
+  type="h", 
+  main="Example Plot Trajectory", 
+  xlab = "Narrative Time", 
+  ylab= "Emotional Valence"
+  )
+```
+
+Let us see get_nrc_sentiment results
+
+```{r}
+nrc_data <- get_nrc_sentiment(s_v)
+```
+
+```{r}
+angry_items <- which(nrc_data$anger > 0)
+s_v[angry_items][1:10]
+```
+
+```{r}
+joy_items <- which(nrc_data$joy > 0)
+s_v[joy_items][1:10]
+```
+
+```{r}
+valence <- (nrc_data[, 9]*-1) + nrc_data[, 10]
+valence[1:10]
+```
+
+```{r}
+barplot(
+  sort(colSums(prop.table(nrc_data[, 1:8]))), 
+  horiz = TRUE, 
+  cex.names = 0.7, 
+  las = 1, 
+  main = "Emotions in Sample Earnings Call Transcripts", xlab="Percentage"
+  )
+```
+
+You can also customize your lexicons
+
+```{r}
+my_text <- "I love when I see something beautiful.  I hate it when ugly feelings creep into my head."
+char_v <- get_sentences(my_text)
+method <- "custom"
+custom_lexicon <- data.frame(word=c("love", "hate", "beautiful", "ugly"), value=c(1,-1,1, -1))
+my_custom_values <- get_sentiment(char_v, method = method, lexicon = custom_lexicon)
+my_custom_values
+```
+
+
+## Let Us Move to sentimentR package
+
+YZ's comment: because the Syuzhet package does not account for negation and valence shifter. I typically use sentimentr as the default package for sentiment analysis in R. Note that sentimentr use some functions from Syuzhet, for instance, `get_sentences()`.
+
+Another R package that deal with valen shifter is <https://cran.r-project.org/web/packages/vader/vader.pdf>. You can use the function `get_vader()`.
+
+This tutorial is based on **Tyler Rinke**'s amazing one: <https://github.com/trinker/sentimentr>
+
+-> sentimentr attempts to take into account valence shifters (i.e., negators, amplifiers (intensifiers), de-amplifiers (downtoners), and adversative conjunctions) while maintaining speed. Simply put, sentimentr is an augmented dictionary lookup. The next questions address why it matters.
+
+-> A negator flips the sign of a polarized word (e.g., "I do not like it."). See lexicon::hash_valence_shifters[y==1] for examples. An amplifier (intensifier) increases the impact of a polarized word (e.g., "I really like it."). See lexicon::hash_valence_shifters[y==2] for examples. A de-amplifier (downtoner) reduces the impact of a polarized word (e.g., "I hardly like it."). See lexicon::hash_valence_shifters[y==3] for examples. An adversative conjunction overrules the previous clause containing a polarized word (e.g., "I like it but it's not worth it."). See lexicon::hash_valence_shifters[y==4] for examples.
+
+-> Well valence shifters affect the polarized words. In the case of negators and adversative conjunctions the entire sentiment of the clause may be reversed or overruled. So if valence shifters occur fairly frequently a simple dictionary lookup may not be modeling the sentiment appropriately. You may be wondering how frequently these valence shifters co-occur with polarized words, potentially changing, or even reversing and overruling the clause's sentiment. The table below shows the rate of sentence level co-occurrence of valence shifters with polarized words across a few types of texts.
+
+
+### Functions
+
+There are two main functions (top 2 in table below) in **sentimentr** with several helper functions summarized in the table below:
+
+
+| Function         |  Description                                          |
+|------------------|-------------------------------------------------------|
+| `sentiment`      | Sentiment at the sentence level                       |
+| `sentiment_by`   | Aggregated sentiment by group(s)                      |
+| `profanity`      | Profanity at the sentence level                       |
+| `profanity_by`   | Aggregated profanity by group(s)                      |
+| `emotion`        | Emotion at the sentence level                         |
+| `emotion_by`     | Aggregated emotion by group(s)                        |
+| `uncombine`      | Extract sentence level sentiment from  `sentiment_by` |
+| `get_sentences`  | Regex based string to sentence parser (or get sentences from `sentiment`/`sentiment_by`)|
+| `replace_emoji`           | repalcement | Replace emojis with word equivalent or unique identifier |
+| `replace_emoticon`| Replace emoticons with word equivalent               |
+| `replace_grade`  | Replace grades (e.g., "A+") with word equivalent     |
+| `replace_internet_slang`  | replacment  | Replace Internet slang with word equivalents |
+| `replace_rating` | Replace ratings (e.g., "10 out of 10", "3 stars") with word equivalent |
+| `as_key`         | Coerce a `data.frame` lexicon to a polarity hash key  |
+| `is_key`         | Check if an object is a hash key                      |
+| `update_key`     | Add/remove terms to/from a hash key                   |
+| `highlight`      | Highlight positive/negative sentences as an HTML document |
+| `general_rescale` | Generalized rescaling function to rescale sentiment scoring |
+| `sentiment_attribute` | Extract the sentiment based attributes from a text |
+| `validate_sentiment` | Validate sentiment score sign against known results |
+
+
+### The Equation 
+
+The equation below describes the augmented dictionary method of **sentimentr** that may give better results than a simple lookup dictionary approach that does not consider valence shifters.  The equation used by the algorithm to assign value to polarity of each sentence fist utilizes a sentiment dictionary (e.g., Jockers, [(2017)](https://github.com/mjockers/syuzhet)) to tag polarized words.  Each paragraph ($p_i = \{s_1, s_2, ..., s_n\}$) composed of sentences, is broken into element sentences ($s_i,j = \{w_1, w_2, ..., w_n\}$) where $w$ are the words within sentences.  Each sentence ($s_j$) is broken into a an ordered bag of words.  Punctuation is removed with the exception of pause punctuations (commas, colons, semicolons) which are considered a word within the sentence.  I will denote pause words as $cw$ (comma words) for convenience.  We can represent these words as an i,j,k notation as $w_{i,j,k}$.  For example $w_{3,2,5}$ would be the fifth word of the second sentence of the third paragraph.  While I use the term paragraph this merely represent a complete turn of talk.  For example it may be a cell level response in a questionnaire composed of sentences.
+
+The words in each sentence ($w_{i,j,k}$) are searched and compared to a dictionary of polarized words (e.g., a combined and augmented version of Jocker's (2017) [originally exported by the [**syuzhet**](https://github.com/mjockers/syuzhet) package] & Rinker's augmented Hu & Liu (2004) dictionaries in the [**lexicon**](https://cran.r-project.org/package=lexicon) package). Positive ($w_{i,j,k}^{+}$) and negative ($w_{i,j,k}^{-}$) words are tagged with a $+1$ and $-1$ respectively (or other positive/negative weighting if the user provides the sentiment dictionary).  I will denote polarized words as $pw$ for convenience. These will form a polar cluster ($c_{i,j,l}$) which is a subset of the a sentence ($c_{i,j,l} \subseteq s_i,j$).
+
+The polarized context cluster ($c_{i,j,l}$) of words is pulled from around the polarized word ($pw$) and defaults to 4 words before and two words after $pw$ to be considered as valence shifters.  The cluster can be represented as ($c_{i,j,l} = \{pw_{i,j,k - nb}, ..., pw_{i,j,k} , ..., pw_{i,j,k - na}\}$), where $nb$ & $na$ are the parameters `n.before` and `n.after` set by the user.  The words in this polarized context cluster are tagged as neutral ($w_{i,j,k}^{0}$), negator ($w_{i,j,k}^{n}$),
+amplifier [intensifier] ($w_{i,j,k}^{a}$), or de-amplifier [downtoner] ($w_{i,j,k}^{d}$). Neutral words hold no value in the equation but do affect word count ($n$).  Each polarized word is then weighted ($w$) based on the weights from the `polarity_dt` argument and then further weighted by the function and number of the valence shifters directly surrounding the positive or negative word ($pw$).  Pause ($cw$) locations (punctuation that denotes a pause including commas, colons, and semicolons) are indexed and considered in calculating the upper and lower bounds in the polarized context cluster. This is because these marks indicate a change in thought and words prior are not necessarily connected with words after these punctuation marks.  The lower bound of the polarized context cluster is constrained to $\max \{pw_{i,j,k - nb}, 1, \max \{cw_{i,j,k} < pw_{i,j,k}\}\}$ and the upper bound is constrained to $\min \{pw_{i,j,k + na}, w_{i,jn}, \min \{cw_{i,j,k} > pw_{i,j,k}\}\}$ where $w_{i,jn}$ is the number of words in the sentence.
+
+The core value in the cluster, the polarized word is acted upon by valence shifters. Amplifiers increase the polarity by 1.8 (.8 is the default weight ($z$)).  Amplifiers ($w_{i,j,k}^{a}$) become de-amplifiers if the context cluster contains an odd number of negators ($w_{i,j,k}^{n}$).  De-amplifiers work to decrease the polarity.  Negation ($w_{i,j,k}^{n}$) acts on amplifiers/de-amplifiers as discussed but also flip the sign of the polarized word.  Negation is determined by raising $-1$ to the power of the number of negators ($w_{i,j,k}^{n}$) plus $2$.  Simply, this is a result of a belief that two negatives equal a positive, 3 negatives a negative, and so on.
+
+The adversative conjunctions (i.e., 'but', 'however', and 'although') also weight the context cluster.  An adversative conjunction before the polarized word ($w_{adversative\,conjunction}, ..., w_{i, j, k}^{p}$) up-weights the cluster by 1 + $z_2 * \{|w_{adversative\,conjunction}|, ..., w_{i, j, k}^{p}\}$ (.85 is the default weight ($z_2$) where $|w_{adversative\,conjunction}|$ are the number of adversative conjunctions before the polarized word).  An adversative conjunction after the polarized word down-weights the cluster by 1 + $\{w_{i, j, k}^{p}, ..., |w_{adversative\,conjunction}| * -1\} * z_2$.  This corresponds to the belief that an adversative conjunction makes the next clause of greater values while lowering the value placed on the prior clause.
+
+The researcher may provide a weight ($z$) to be utilized with amplifiers/de-amplifiers (default is $.8$; de-amplifier weight is constrained to $-1$ lower bound).  Last, these weighted context clusters ($c_{i,j,l}$) are summed ($c'_{i,j}$) and divided by the square root of the word count (&radic;$w_{i,jn}$) yielding an **unbounded polarity score** ($\delta_{i,j}$) for each sentence.
+
+
+$\delta$<sub>*i**j*</sub> = <em>c</em>'<sub>*i**j*</sub>/&radic;*w*<sub>*i**j**n*</sub>
+
+
+Where:
+
+$$c'_{i,j} = \sum{((1 + w_{amp} + w_{deamp})\cdot w_{i,j,k}^{p}(-1)^{2 + w_{neg}})}$$
+
+$$w_{amp} = \sum{(w_{neg}\cdot (z \cdot w_{i,j,k}^{a}))}$$
+
+$$w_{deamp} = \max(w_{deamp'}, -1)$$
+
+$$w_{deamp'} = \sum{(z(- w_{neg}\cdot w_{i,j,k}^{a} + w_{i,j,k}^{d}))}$$
+
+
+
+$$w_{b} = 1 + z_2 * w_{b'}$$
+
+$$w_{b'} = \sum{(|w_{adversative\,conjunction}|, ..., w_{i, j, k}^{p}, w_{i, j, k}^{p}, ..., |w_{adversative\,conjunction}| * -1})$$
+
+$w_{neg}$ = ($\sum{w_{i,j,k}^{n}}$ ) mod 2
+
+To get the mean of all sentences ($s_{i,j}$) within a paragraph/turn of talk ($p_{i}$) simply take the average sentiment score $p_{i,\delta_{i,j}}$ = 1/n $\cdot$ $\sum$ $\delta_{i,j}$ or use an available weighted average (the default `average_weighted_mixed_sentiment` which upweights the negative values in a vector while also downweighting the zeros in a vector or `average_downweighted_zero` which simply downweights the zero polarity scores).
+
+
+## Preferred Workflow
+Here is a basic `sentiment` demo.  Notice that the first thing you should do is to split your text data into sentences (a process called sentence boundary disambiguation) via the `get_sentences` function.  This can be handled within `sentiment` (i.e., you can pass a raw character vector) but it slows the function down and should be done one time rather than every time the function is called.  Additionally, a warning will be thrown if a larger raw character vector is passed.  The preferred workflow is to spit the text into sentences with `get_sentences` before any sentiment analysis is done.  
+
+
+```{r}
+mytext <- c(
+    'do you like it?  But I hate really bad dogs',
+    'I am the best friend.',
+    'Do you really like it?  I\'m not a fan'
+)
+mytext <- get_sentences(mytext)
+sentiment(mytext)
+```
+
+To aggregate by element (column cell or vector element) use `sentiment_by` with `by = NULL`.
+
+```{r}
+mytext <- c(
+    'do you like it?  But I hate really bad dogs',
+    'I am the best friend.',
+    'Do you really like it?  I\'m not a fan'
+)
+mytext <- get_sentences(mytext)
+sentiment_by(mytext)
+```
+
+To aggregate by grouping variables use `sentiment_by` using the `by` argument.
+
+```{r}
+out <- with(
+    ect_sample, 
+    sentiment_by(
+        get_sentences(text), 
+        list(tic)
+    )
+)
+head(out)
+```
+
+### Plotting at Aggregated Sentiment
+
+```{r, warning=FALSE}
+# let us plot random 20 companies
+out_20 <- sample_n(out,20)
+plot(out_20)
+```
+
+### You can Use the Custimized Dictionary as well
+
+Because earnings call transcripts relate to financial domain, we use financial specific dictionary.
+
+```{r}
+out <- with(
+    ect_sample, 
+    sentiment_by(get_sentences(text),
+                 polarity_dt=lexicon::hash_sentiment_loughran_mcdonald,
+                 list(tic)) 
+    )
+
+plot(sample_n(out,30))
+```
+
+### Plotting at the Sentence Level
+
+The `plot` method for the class `sentiment` uses **syuzhet**'s `get_transformed_values` combined with **ggplot2** to make a reasonable, smoothed plot for the duration of the text based on percentage, allowing for comparison between plots of different texts.  This plot gives the overall shape of the text's sentiment.  The user can see `syuzhet::get_transformed_values` for more details.
+
+```{r}
+plot(uncombine(sample_n(out,30)))
+```
+
+# Conventional ML based SA
+
+> On top of lexicon-based methods, you can also use supervised machine learning methods to implement sentiment analysis if you have a training dataset or you can find a pretrained model that fits into your research purpose appropriately. 
+
+> The basic idea is very straightforward. You need to do some feature engineering to obtain a list of features used to classify sentiments (e.g., positive, negative, or neutral). So you can treat this as a classification problem.
+
+> One option is to use n-gram as your feature matrix and then train a classifier using quanteda package in R or you can also use caret pacakge as we have covered in previous lab session.
+
+> We will use IMDb Movie Review as an illustrative example. The IMDb Movie Reviews dataset is a binary sentiment analysis dataset consisting of 50,000 reviews from the Internet Movie Database (IMDb) labeled as positive or negative. The dataset contains an even number of positive and negative reviews. Only highly polarizing reviews are considered. A negative review has a score ≤ 4 out of 10, and a positive review has a score ≥ 7 out of 10. No more than 30 reviews are included per movie. The dataset contains additional unlabeled data. <https://paperswithcode.com/dataset/imdb-movie-reviews>.  We will use the toy dataset from quanteda's data_corpus_moviereviews.. You can check this tutorial <https://tutorials.quanteda.io/machine-learning/nb/>
+
+```{r}
+p_load(quanteda,quanteda.textmodels,caret)
+corp_movies <- data_corpus_moviereviews
+summary(corp_movies, 10)
+```
+### Let us take a look at imdb movie review data first
+```{r}
+table(corp_movies$sentiment)
+```
+
+Okay, we have 1k positive and 1k negative movie reviews. Let us use xgboost to classify these movies. You can always use other methods. We will use words as features. 
+
+
+```{r}
+# generate 1500 numbers without replacement
+set.seed(300)
+id_train <- sample(1:2000, 1500, replace = FALSE)
+head(id_train, 10)
+
+# create docvar with ID
+corp_movies$id_numeric <- 1:ndoc(corp_movies)
+
+# tokenize texts
+toks_movies <- tokens(corp_movies, remove_punct = TRUE, remove_number = TRUE) %>% 
+               tokens_remove(pattern = stopwords("en")) %>% 
+               tokens_wordstem()
+dfmt_movie <- dfm(toks_movies)
+
+# get training set
+dfmat_training <- dfm_subset(dfmt_movie, id_numeric %in% id_train)
+
+# get test set (documents not in id_train)
+dfmat_test <- dfm_subset(dfmt_movie, !id_numeric %in% id_train)
+
+# Next we train the naive Bayes classifier using textmodel_nb().
+
+tmod_nb <- textmodel_nb(dfmat_training, dfmat_training$sentiment)
+summary(tmod_nb)
+
+# Naive Bayes can only take features into consideration that occur both in the training set and the test set, but we can make the features identical using dfm_match()
+
+dfmat_matched <- dfm_match(dfmat_test, features = featnames(dfmat_training))
+
+# Let’s inspect how well the classification worked.
+
+actual_class <- dfmat_matched$sentiment
+predicted_class <- predict(tmod_nb, newdata = dfmat_matched)
+tab_class <- table(actual_class, predicted_class)
+tab_class
+
+# We can use the function confusionMatrix() from the caret package to assess the performance of the classification.
+
+confusionMatrix(tab_class, mode = "everything")
+
+```
+
+Of course, you can achieve this just using caret package as well.
+
+# Deep Learning based SA
+
+The following part introduces a simple DNN. You can get the original post via <https://tensorflow.rstudio.com/guide/keras/examples/imdb_fasttext/>. You can also check another tutorial via <https://burtmonroe.github.io/TextAsDataCourse/Tutorials/TADA-IntroToKerasAndTensflowInR.nb.html>
+
+```{r}
+library(keras)
+library(purrr)
+
+# Function Definitions ----------------------------------------------------
+
+create_ngram_set <- function(input_list, ngram_value = 2){
+  indices <- map(0:(length(input_list) - ngram_value), ~1:ngram_value + .x)
+  indices %>%
+    map_chr(~input_list[.x] %>% paste(collapse = "|")) %>%
+    unique()
+}
+
+add_ngram <- function(sequences, token_indice, ngram_range = 2){
+  ngrams <- map(
+    sequences, 
+    create_ngram_set, ngram_value = ngram_range
+  )
+  
+  seqs <- map2(sequences, ngrams, function(x, y){
+    tokens <- token_indice$token[token_indice$ngrams %in% y]  
+    c(x, tokens)
+  })
+  
+  seqs
+}
+
+
+# Parameters --------------------------------------------------------------
+
+# ngram_range = 2 will add bi-grams features
+ngram_range <- 2
+max_features <- 20000
+maxlen <- 400
+batch_size <- 32
+embedding_dims <- 50
+epochs <- 5
+
+
+# Data Preparation --------------------------------------------------------
+
+# Load data
+imdb_data <- dataset_imdb(num_words = max_features)
+
+# Train sequences
+print(length(imdb_data$train$x))
+print(sprintf("Average train sequence length: %f", mean(map_int(imdb_data$train$x, length))))
+
+# Test sequences
+print(length(imdb_data$test$x)) 
+print(sprintf("Average test sequence length: %f", mean(map_int(imdb_data$test$x, length))))
+
+if(ngram_range > 1) {
+  
+  # Create set of unique n-gram from the training set.
+  ngrams <- imdb_data$train$x %>% 
+    map(create_ngram_set) %>%
+    unlist() %>%
+    unique()
+
+  # Dictionary mapping n-gram token to a unique integer
+    # Integer values are greater than max_features in order
+    # to avoid collision with existing features
+  token_indice <- data.frame(
+    ngrams = ngrams,
+    token  = 1:length(ngrams) + (max_features), 
+    stringsAsFactors = FALSE
+  )
+  
+  # max_features is the highest integer that could be found in the dataset
+  max_features <- max(token_indice$token) + 1
+  
+  # Augmenting x_train and x_test with n-grams features
+  imdb_data$train$x <- add_ngram(imdb_data$train$x, token_indice, ngram_range)
+  imdb_data$test$x <- add_ngram(imdb_data$test$x, token_indice, ngram_range)
+}
+
+# Pad sequences
+imdb_data$train$x <- pad_sequences(imdb_data$train$x, maxlen = maxlen)
+imdb_data$test$x <- pad_sequences(imdb_data$test$x, maxlen = maxlen)
+
+
+# Model Definition --------------------------------------------------------
+
+model <- keras_model_sequential()
+
+model %>%
+  layer_embedding(
+    input_dim = max_features, output_dim = embedding_dims, 
+    input_length = maxlen
+    ) %>%
+  layer_global_average_pooling_1d() %>%
+  layer_dense(1, activation = "sigmoid")
+
+model %>% compile(
+  loss = "binary_crossentropy",
+  optimizer = "adam",
+  metrics = "accuracy"
+)
+
+
+# Fitting -----------------------------------------------------------------
+
+model %>% fit(
+  imdb_data$train$x, imdb_data$train$y, 
+  batch_size = batch_size,
+  epochs = epochs,
+  validation_data = list(imdb_data$test$x, imdb_data$test$y)
+)
+```
+
+
+### YOU can also try to figure out how to use bert model. I do not see some good practices in terms of training bert model in R using tensorflow and keras. But definitely you should try it in python.
+
+
+### THE END...
