@@ -46,7 +46,9 @@ knitr::opts_chunk$set(echo = TRUE)
 The primary goals of this tutorial includes:
 
 > Introducing basic lexicon-based sentiment analysis in R
+
 > Introducing conventional ML based SA in R
+
 > Introducing DL based SA in R
 
 # Lexicon-based SA
@@ -430,7 +432,7 @@ Of course, you can achieve this just using caret package as well.
 
 The following part introduces a simple DNN. You can get the original post via <https://tensorflow.rstudio.com/guide/keras/examples/imdb_fasttext/>. You can also check another tutorial via <https://burtmonroe.github.io/TextAsDataCourse/Tutorials/TADA-IntroToKerasAndTensflowInR.nb.html>
 
-```{r}
+```{r,eval=FALSE}
 library(keras)
 library(purrr)
 
@@ -511,7 +513,6 @@ if(ngram_range > 1) {
 imdb_data$train$x <- pad_sequences(imdb_data$train$x, maxlen = maxlen)
 imdb_data$test$x <- pad_sequences(imdb_data$test$x, maxlen = maxlen)
 
-
 # Model Definition --------------------------------------------------------
 
 model <- keras_model_sequential()
@@ -530,17 +531,16 @@ model %>% compile(
   metrics = "accuracy"
 )
 
-
 # Fitting -----------------------------------------------------------------
 
 model %>% fit(
   imdb_data$train$x, imdb_data$train$y, 
   batch_size = batch_size,
   epochs = epochs,
+  verbose = 2,
   validation_data = list(imdb_data$test$x, imdb_data$test$y)
 )
 ```
-
 
 ### YOU can also try to figure out how to use bert model. I do not see some good practices in terms of training bert model in R using tensorflow and keras. But definitely you should try it in python.
 
