@@ -243,3 +243,24 @@
     }
   }
 }
+
+.short, .long, .workshop, .journal, .book, .demo, .data {
+  display: inline;
+  padding: .2em .6em .3em;
+  font-size: 85%;
+  line-height: 1;
+  color: white;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: baseline;
+  border-radius: .25em;
+  margin-left: .5em;
+  opacity: 0.85;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.short { background-color: #f0ad4e; }
+.long { background-color: #5cb85c;}
+.journal { background-color: #4582ec;}
+.workshop, .demo { background-color: #f0ad4e; }
+.book { background-color: red; }
