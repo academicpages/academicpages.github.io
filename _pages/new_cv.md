@@ -7,4 +7,4 @@ redirect_from:
 ---
 
 
-<iframe src="https://drive.google.com/file/d/1Mnd9PJRTlICs-ELwV6IZJ3YlAauzUw_N/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1Mnd9PJRTlICs-ELwV6IZJ3YlAauzUw_N/preview" width="1280" height="720"></iframe>
