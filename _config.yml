@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Miguel A. González Ballester"
-  avatar           : "magonballester.jpg"
+  avatar           : "images/magonballester.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Barcelona, Spain"
   employer         :
