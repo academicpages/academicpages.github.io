@@ -1,9 +1,9 @@
 ---
 title: "Asyncval: A Toolkit for Asynchronously Validating Dense Retriever Checkpoints during Training"
 collection: publications
-permalink: /publication/arxiv2022Asyncval
+permalink: /publication/SIGIR2022Asyncval
 year: 2022
-venue: 'arxiv preprint'
+venue: 'Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’22)'
 authors: <strong>Shengyao Zhuang</strong>, Guido Zuccon
 track: Demo paper
 ---
