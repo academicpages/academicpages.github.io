@@ -42,7 +42,18 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <P>{{post.authors}}</p>
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.year}}, {{post.track}}</p>
+          <p>
+            Published in <i>{{ post.venue }}</i>, {{ post.year}},
+            {% if post.track == 'Full paper' %}
+              <i class="long">{{post.track}}</i>
+            {% elsif post.track == 'Short paper' %}
+              <i class="short">{{post.track}}</i>
+            {% elsif post.track == 'Journal paper' %}
+              <i class="journal">{{post.track}}</i>
+            {% else %}
+              <i class="demo">{{post.track}}</i>
+            {% endif %}
+            </p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
