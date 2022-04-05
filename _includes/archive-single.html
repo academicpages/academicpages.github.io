@@ -44,13 +44,13 @@
           <P>{{post.authors}}</p>
           <p>Published in <i>{{ page.venue }}</i>, {{ page.year}}, 
             {% if page.track == 'Full paper' %}
-              <i class='long'>{{page.track}}</i>
+              <i class="long">{{page.track}}</i>
             {% elsif page.track == 'Short paper' %}
-              <i class='short'>{{page.track}}</i>
+              <i class="short">{{page.track}}</i>
             {% elsif page.track == 'Demo paper' %}
-              <i class='demo'>{{page.track}}</i>
+              <i class="demo">{{page.track}}</i>
             {% elsif page.track == 'Journal paper' %}
-              <i class='journal'>{{page.track}}</i>
+              <i class="journal">{{page.track}}</i>
             {% endif %}
           </p>
         {% elsif post.date %}
