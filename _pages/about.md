@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Wenlin Han is currently a tenure-track assistant professor, with the Department of Computer Science, California State University, Fullerton, USA. Her research interests include Cybersecurity and Blockchain. She has been publishing papers in very competitive venues with one best paper runner-up award. She has been publishing papers in very competitive venues with three papers ranked as the top 1% most-cited articles published in Computer Science. One paper was ranked #9 by Google Scholar among all Computer Security & Cryptography articles in 2016. Sha has published over 30 papers which is productive in computer security field. She has served as an editor, PC member or reviewer for various international conferences and journals including IEEE Tran. on Information Forensics & Security, IEEE INFOCOM, Information Science, etc. 
+Wenlin Han is currently a tenure-track assistant professor, with the Department of Computer Science, California State University, Fullerton, USA. Her research interests include Cybersecurity and Blockchain. She has been publishing papers in very competitive venues with three papers ranked as the top 1% most-cited articles published in Computer Science. One paper was ranked #9 by Google Scholar among all Computer Security & Cryptography articles in 2016. Sha has published over 30 papers which is productive in computer security field. She has served as an editor, PC member or reviewer for various international conferences and journals including IEEE Tran. on Information Forensics & Security, IEEE INFOCOM, Information Science, etc. 
 
 Education
 ======
