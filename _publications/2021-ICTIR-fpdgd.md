@@ -5,7 +5,7 @@ permalink: /publication/ICTIR2021FPDGD
 year: 2021
 venue: 'Proceedings of the 2021 ACM SIGIR International Conference on the Theory
 of Information Retrieval (ICTIR ’21)'
-authors: Shuyi Wang, Bing Liu, <strong>Shengyao Zhuang</strong>, Guido Zuccon, <i class="fa fa-trophy" aria-hidden="true"> Best Student Paper Award </i>
+authors: Shuyi Wang, Bing Liu, <strong>Shengyao Zhuang</strong>, Guido Zuccon (<i class="fa fa-trophy" aria-hidden="true"> Best Student Paper Award </i>)
 track: Full paper
 ---
 ---
