@@ -1,22 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Merriweather:300,300italic,400,400italic,700,700italic);
 @import url(http://fonts.googleapis.com/css?family=Montserrat);
 
-body {
-    padding-top: 20px;
-    padding-bottom: 40px;
-    font-family: 'Merriweather', Georgia, Times;
-    font-size: 16px;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-family: 'Merriweather', Georgia, Times;
-    /* font-weight: 700; */
-}
 
 
 /* title */
@@ -89,8 +73,7 @@ h6 {
 .contenedor figure img {
     width: 100%;
     height: 100%;
-    /*     min-width: 80%;
-    min-height: 80%; */
+
 
 
     transition: all 500ms ease-out;
@@ -181,7 +164,6 @@ h6 {
 /*title students*/
 
 .flex-center {
-    /* display: */
     justify-content: center;
     align-items: center;
 }
@@ -190,33 +172,21 @@ h6 {
 .icon {
     font-size: 30px;
     width: 30px;
-    height: 80px;
-    border-radius: 18px;
-    color: rgb(53, 50, 50);
+    height: 80px;   
+    cursor: progress; 
+    color: #050505;
     margin: 10px;
 
-    /*  margin-top: 3px; */
-
-
-
 }
-
-/* img{
-    float: left;
-} */
-
 
 
 #fondo {
     color: #999;
     font-family: Raleway, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
-    font-weight: normal;
-    font-style: normal;
-    line-height: 160%;
     cursor: auto;
     box-sizing: border-box;
-    margin-top: 15px;
-    padding: 20px;
+   
+
     text-align: center;
     margin-left: 20%;
 }
