@@ -12,7 +12,7 @@ Education
 ======
 * B.S. in Mathematics, Sichuan University, 2018
 * M.S. in Statistics, University of Minnesota-Twin Cities, 2022 (expected)
-* Ph.D in Industrial and Systems Engineering, GitHub University, University of Minnesota-Twin Cities
+* Ph.D in Industrial and Systems Engineering, University of Minnesota-Twin Cities
 
 Work experience
 ======
