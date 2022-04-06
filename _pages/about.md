@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <p>Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.</p>
-[Watch Steve Jobs' 2005 Stanford Talk](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
+[Steve Jobs' 2005 Stanford Talk](https://www.youtube.com/watch?v=UF8uR6Z6KLc)
 <p style="text-align: right;">-- Steve Jobs</p>
 
 
@@ -24,15 +24,12 @@ Prior to joining UCL, I studied Artificial Intelligence (MSc) under the supervis
 Research Interests
 ======
 <ul>
-<li>Applied Machine Learning</li>
 <li>Multimodal Machine Learning</li>
+<li>On-device Machine Learning</li>
 <li>Multisensory Systems</li>
+<li>Ubiquitious Computing</li>
 <li>Location Tracking System</li>
 <li>Sensor-based Healthcare</li>
-<li>Human-centred AI System</li>
-<li>Human-computer Interaction</li>
-<li>Wearable Devices</li>
-<li>Mobile Sensing</li>
 </ul>
 
 <hr color="#FFFFFF" />
@@ -61,11 +58,3 @@ See you in Pisa, Italy.
 Work with Valentin Radu, "End-to-End Machine Learning for Smartphone-based Indoor Localisation and Tracking using Recurrent Neural Networks".
 See you in Cambridge, UK.
 [Link](https://weixijia.github.io/talks/mobiuk2018-talk)
-
-Services
-======
-Reviewer: ACM Transactions on Embedded Computing Systems
-
-For More Info
-======
-Please drop me an email if you are interested about my research!
