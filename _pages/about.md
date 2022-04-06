@@ -17,9 +17,9 @@ redirect_from:
 About Me
 ======
 I am currently a PhD student at University College London (UCL) under the supervision of 
-(<a href="https://uclic.ucl.ac.uk/people/nadia-berthouze/" style="color:#5dbcd2;">Prof Nadia Berthouze</a>). I focus on sensor fusion based ubiquitious computing. I am investigating multimodal machine learning to automatically learn multisensory data communicative features without human intervention to make robust inferences.
+<a href="https://uclic.ucl.ac.uk/people/nadia-berthouze/" style="color:#5dbcd2;">Prof Nadia Berthouze</a>. I focus on sensor fusion based ubiquitious computing. I am investigating multimodal machine learning to automatically learn multisensory data communicative features without human intervention to make robust inferences.
 
-Prior to joining UCL, I studied Artificial Intelligence (MSc) under the supervision of (<a href="https://vradu.uk/" style="color:#5dbcd2;">Dr Valentin Radu</a>) and Electronics and Electrical Engineering (BEng), supervised by (<a href="h https://www.eng.ed.ac.uk/about/people/prof-tughrul-arslan/" style="color:#5dbcd2;">Prof Tughrul Arslan</a>), at the University of Edinburgh.
+Prior to joining UCL, I studied Artificial Intelligence (MSc) under the supervision of <a href="https://vradu.uk/" style="color:#5dbcd2;">Dr Valentin Radu</a> and Electronics and Electrical Engineering (BEng), supervised by <a href="h https://www.eng.ed.ac.uk/about/people/prof-tughrul-arslan/" style="color:#5dbcd2;">Prof Tughrul Arslan</a>, at the University of Edinburgh.
 
 Research Interests
 ======
