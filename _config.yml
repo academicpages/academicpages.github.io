@@ -11,9 +11,9 @@ title                    : "Siwei Liu's homepage"
 title_separator          : "-"
 name                     : &name "Siwei Liu"
 description              : &description "personal description"
-url                      : https://tedsiweiliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://tedsiweiliu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "siwei-personalpage.github.io"
 teaser                   :  "images/profile.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
