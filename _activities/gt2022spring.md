@@ -21,7 +21,7 @@ author_profile: false
 |Th, Mar 31, 2022| 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Tu, Apr 5, 2022| 8:00pm - 9:00pm | Mark McLean | Complex cobordism, Hamiltonian loops and global Kuranishi charts | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Apr 7, 2022| 1:30pm - 2:30pm | Gleb Smirnov | Symplectic topology of K3 surfaces via Seiberg-Witten invariants | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
-|Th, Apr 14, 2022| 1:30pm - 2:30pm | Jonathan Zhu |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
+|Th, Apr 14, 2022| 1:30pm - 2:30pm | Jonathan Zhu | Waists, widths and symplectic embeddings | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Apr 21, 2022| 1:30pm - 2:30pm | Martin Lesourd |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Apr 28, 2022| 1:30pm - 2:30pm |  |  |  [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 
@@ -69,3 +69,6 @@ Weyl law constant in dimension 2.
 
 * Mark McLean
   * Consider a smooth submersion from a symplectic manifold P to the complex line with symplectic fibers. Then we prove that the cohomology of P over the integers is additively isomorphic to the cohomology of the fiber times the base. More generally, we prove such an isomorphism holds with respect to any complex oriented cohomology theory, such as complex cobordism. These results are new even in the special case of smooth projective morphisms to the complex line. To prove our result we use Morava K theories, which are generalized cohomology theories approximating cohomology over the integers modulo each prime power and which admit virtual fundamental classes. Our proof also contains a new construction of a global Kuranishi chart for the moduli space of curves. This is joint work with Abouzaid and Smith.
+
+* Jonathan Zhu
+  * Waists and widths measure the size of a manifold with respect to measures of families of submanifolds. We’ll discuss related area estimates for minimal submanifolds, as well as applications to quantitative symplectic camels.
