@@ -9,6 +9,10 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+* **CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning**  
+**Penghui Wei**, Xuanhua Yang, Shaoguo Liu, Liang Wang, Bo Zheng  
+**NAACL ’22** (industry track): Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics. Seattle, Washington, USA, July 10--15, 2022.   
+
 * **Posterior Probability Matters: Doubly-Adaptive Calibration for Neural Predictions in Online Advertising**  
 **Penghui Wei**, Weimin Zhang, Ruijie Hou, Jinquan Liu, Shaoguo Liu, Liang Wang, Bo Zheng  
 **SIGIR ’22** (short): Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval. Madrid, Spain, July 11--15, 2022.    
