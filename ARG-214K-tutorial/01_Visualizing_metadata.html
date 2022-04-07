@@ -1,0 +1,518 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Visualizing Metadata &#8212; The 214K ARG metagenomic data collection</title>
+    
+  <link href="_static/css/theme.css" rel="stylesheet">
+  <link href="_static/css/index.ff1ffe594081f20da1ef19478df9384b.css" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    
+      
+
+    
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-book-theme.css?digest=c3fdc42140077d1ad13ad2f1588a4309" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
+    <link rel="stylesheet" type="text/css" href="_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
+    
+  <link rel="preload" as="script" href="_static/js/index.be7d3bbb2ef33a8344ce.js">
+
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/clipboard.min.js"></script>
+    <script src="_static/copybutton.js"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="_static/sphinx-book-theme.d59cb220de22ca1c485ebbdc042f0030.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="80">
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<div class="col-12 col-md-3 bd-sidebar site-navigation show" id="site-navigation">
+    
+        <div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="index.html">
+      
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="_static/logo.png" class="logo" alt="logo">
+      
+      
+      <h1 class="site-logo" id="site-title">The 214K ARG metagenomic data collection</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item active">
+        <ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="intro.html">
+   Welcome
+  </a>
+ </li>
+</ul>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="Tables.html">
+   Tables documentation
+  </a>
+ </li>
+</ul>
+
+    </div>
+</nav> <!-- To handle the deprecated key -->
+
+<div class="navbar_extra_footer">
+  Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+</div>
+
+</div>
+
+
+          
+
+
+          
+<main class="col py-md-3 pl-md-4 bd-content overflow-auto" role="main">
+    
+    <div class="topbar container-xl fixed-top">
+    <div class="topbar-contents row">
+        <div class="col-12 col-md-3 bd-topbar-whitespace site-navigation show"></div>
+        <div class="col pl-md-4 topbar-main">
+            
+            <button id="navbar-toggler" class="navbar-toggler ml-0" type="button" data-toggle="collapse"
+                data-toggle="tooltip" data-placement="bottom" data-target=".site-navigation" aria-controls="navbar-menu"
+                aria-expanded="true" aria-label="Toggle navigation" aria-controls="site-navigation"
+                title="Toggle navigation" data-toggle="tooltip" data-placement="left">
+                <i class="fas fa-bars"></i>
+                <i class="fas fa-arrow-left"></i>
+                <i class="fas fa-arrow-up"></i>
+            </button>
+            
+            
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn" aria-label="Download this page"><i
+            class="fas fa-download"></i></button>
+
+    <div class="dropdown-buttons">
+        <!-- ipynb file if we had a myst markdown file -->
+        
+        <!-- Download raw file -->
+        <a class="dropdown-buttons" href="_sources/01_Visualizing_metadata.md"><button type="button"
+                class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
+                data-placement="left">.md</button></a>
+        <!-- Download PDF via print -->
+        <button type="button" id="download-print" class="btn btn-secondary topbarbtn" title="Print to PDF"
+                onclick="printPdf(this)" data-toggle="tooltip" data-placement="left">.pdf</button>
+    </div>
+</div>
+
+            <!-- Source interaction buttons -->
+
+<div class="dropdown-buttons-trigger">
+    <button id="dropdown-buttons-trigger" class="btn btn-secondary topbarbtn"
+        aria-label="Connect with source repository"><i class="fab fa-github"></i></button>
+    <div class="dropdown-buttons sourcebuttons">
+        <a class="repository-button"
+            href="https://github.com/hmmartiny/mARG"><button type="button" class="btn btn-secondary topbarbtn"
+                data-toggle="tooltip" data-placement="left" title="Source repository"><i
+                    class="fab fa-github"></i>repository</button></a>
+        <a class="issues-button"
+            href="https://github.com/hmmartiny/mARG/issues/new?title=Issue%20on%20page%20%2F01_Visualizing_metadata.html&body=Your%20issue%20content%20here."><button
+                type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip" data-placement="left"
+                title="Open an issue"><i class="fas fa-lightbulb"></i>open issue</button></a>
+        
+    </div>
+</div>
+
+            <!-- Full screen (wrap in <a> to have style consistency -->
+
+<a class="full-screen-button"><button type="button" class="btn btn-secondary topbarbtn" data-toggle="tooltip"
+        data-placement="bottom" onclick="toggleFullScreen()" aria-label="Fullscreen mode"
+        title="Fullscreen mode"><i
+            class="fas fa-expand"></i></button></a>
+
+            <!-- Launch buttons -->
+
+        </div>
+
+        <!-- Table of contents -->
+        <div class="d-none d-md-block col-md-2 bd-toc show noprint">
+            
+            <div class="tocsection onthispage pt-5 pb-3">
+                <i class="fas fa-list"></i> Contents
+            </div>
+            <nav id="bd-toc-nav" aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#setup">
+   Setup
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#loading-metadata">
+   Loading metadata
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#inspecting-the-metadata">
+   Inspecting the metadata
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#distribution-of-metagenomes-per-year">
+     Distribution of metagenomes per year
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#distribution-of-metagenomes-per-continent">
+     Distribution of metagenomes per continent
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#distribution-of-metagenomes-per-host">
+     Distribution of metagenomes per host
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+            </nav>
+        </div>
+    </div>
+</div>
+    <div id="main-content" class="row">
+        <div class="col-12 col-md-9 pl-md-3 pr-md-0">
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Visualizing Metadata</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#setup">
+   Setup
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#loading-metadata">
+   Loading metadata
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#inspecting-the-metadata">
+   Inspecting the metadata
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#distribution-of-metagenomes-per-year">
+     Distribution of metagenomes per year
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#distribution-of-metagenomes-per-continent">
+     Distribution of metagenomes per continent
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#distribution-of-metagenomes-per-host">
+     Distribution of metagenomes per host
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            
+              <div>
+                
+  <div class="tex2jax_ignore mathjax_ignore section" id="visualizing-metadata">
+<h1>Visualizing Metadata<a class="headerlink" href="#visualizing-metadata" title="Permalink to this headline">¶</a></h1>
+<p>In this chapter, a brief overview of the distribution of metadata variables and how to visualize them is given.</p>
+<p>The code examples is based on interacting with the MySQL database, but the code for the visualizations themselves can easily be made to run as long as you have the correct dataframe loaded.</p>
+<div class="section" id="setup">
+<h2>Setup<a class="headerlink" href="#setup" title="Permalink to this headline">¶</a></h2>
+<p>The various settings that are sensitive are stored in a config.json file, but just change the settings to what fit your own setup.</p>
+<div class="tabbed-set docutils">
+<input checked="checked" id="444bed1f-b784-470a-9f85-0aba7ee9e510" name="f164ec41-9b91-402f-b2ba-985a62cd91ca" type="radio">
+</input><label class="tabbed-label" for="444bed1f-b784-470a-9f85-0aba7ee9e510">
+Python</label><div class="tabbed-content docutils">
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">json</span>
+<span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s1">&#39;../config.json&#39;</span><span class="p">,</span> <span class="s1">&#39;r&#39;</span><span class="p">)</span> <span class="k">as</span> <span class="n">source</span><span class="p">:</span>
+    <span class="n">config</span> <span class="o">=</span> <span class="n">json</span><span class="o">.</span><span class="n">load</span><span class="p">(</span><span class="n">source</span><span class="p">)</span>
+
+<span class="n">database</span><span class="o">=</span><span class="n">config</span><span class="p">[</span><span class="s1">&#39;database&#39;</span><span class="p">]</span> <span class="c1"># name of database</span>
+<span class="n">host</span><span class="o">=</span><span class="n">config</span><span class="p">[</span><span class="s1">&#39;host&#39;</span><span class="p">]</span> <span class="c1"># host address of MySQL server</span>
+<span class="n">port</span><span class="o">=</span><span class="n">config</span><span class="p">[</span><span class="s1">&#39;port&#39;</span><span class="p">]</span> <span class="c1"># port of MySQL server</span>
+<span class="n">user</span><span class="o">=</span><span class="n">config</span><span class="p">[</span><span class="s1">&#39;user&#39;</span><span class="p">]</span> <span class="c1"># user name</span>
+<span class="n">passwd</span><span class="o">=</span><span class="n">config</span><span class="p">[</span><span class="s1">&#39;password&#39;</span><span class="p">]</span> <span class="c1"># password for user </span>
+<span class="n">dataDir</span><span class="o">=</span><span class="n">config</span><span class="p">[</span><span class="s1">&#39;datadir&#39;</span><span class="p">]</span> <span class="c1"># directory where data files are stored</span>
+</pre></div>
+</div>
+<p>Furthermore, let’s define the query_db function again.</p>
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">subprocess</span>
+<span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="nn">pd</span>
+<span class="kn">from</span> <span class="nn">io</span> <span class="kn">import</span> <span class="n">StringIO</span>
+
+<span class="k">def</span> <span class="nf">query_db</span><span class="p">(</span><span class="n">query</span><span class="p">,</span> <span class="n">args</span><span class="o">=</span><span class="s1">&#39;&#39;</span><span class="p">):</span>
+    <span class="n">cmd</span> <span class="o">=</span> <span class="s2">&quot;mysql </span><span class="si">{}</span><span class="s2"> -e </span><span class="se">\&quot;</span><span class="si">{}</span><span class="se">\&quot;</span><span class="s2">&quot;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">args</span><span class="p">,</span> <span class="n">query</span><span class="p">)</span>
+    <span class="n">p</span> <span class="o">=</span> <span class="n">subprocess</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">cmd</span><span class="p">,</span> <span class="n">shell</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">stdout</span><span class="o">=</span><span class="n">subprocess</span><span class="o">.</span><span class="n">PIPE</span><span class="p">,</span> <span class="n">stderr</span><span class="o">=</span><span class="n">subprocess</span><span class="o">.</span><span class="n">PIPE</span><span class="p">)</span>
+
+    <span class="k">if</span> <span class="n">p</span><span class="o">.</span><span class="n">returncode</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span>
+        <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Failed to query database with error:&quot;</span><span class="p">)</span>
+        <span class="nb">print</span><span class="p">(</span><span class="n">p</span><span class="o">.</span><span class="n">stderr</span><span class="o">.</span><span class="n">decode</span><span class="p">())</span>
+    
+    <span class="k">else</span><span class="p">:</span>
+        <span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">read_csv</span><span class="p">(</span><span class="n">StringIO</span><span class="p">(</span><span class="n">p</span><span class="o">.</span><span class="n">stdout</span><span class="o">.</span><span class="n">decode</span><span class="p">()),</span> <span class="n">sep</span><span class="o">=</span><span class="s1">&#39;</span><span class="se">\t</span><span class="s1">&#39;</span><span class="p">)</span>
+        <span class="k">return</span> <span class="n">df</span>
+</pre></div>
+</div>
+</div>
+<input id="027bc223-bcc2-4606-a95a-70bbba9ce68a" name="f164ec41-9b91-402f-b2ba-985a62cd91ca" type="radio">
+</input><label class="tabbed-label" for="027bc223-bcc2-4606-a95a-70bbba9ce68a">
+R</label><div class="tabbed-content docutils">
+<div class="highlight-R notranslate"><div class="highlight"><pre><span></span><span class="nf">library</span><span class="p">(</span><span class="s">&#39;rjson&#39;</span><span class="p">)</span>
+<span class="n">config</span> <span class="o">&lt;-</span> <span class="nf">fromJSON</span><span class="p">(</span><span class="n">file</span><span class="o">=</span><span class="s">&quot;../config.json&quot;</span><span class="p">)</span>
+
+<span class="n">database</span> <span class="o">&lt;-</span> <span class="n">config</span><span class="o">$</span><span class="n">database</span> <span class="c1"># name of database</span>
+<span class="n">host</span> <span class="o">&lt;-</span> <span class="n">config</span><span class="o">$</span><span class="n">host</span> <span class="c1"># host address of MySQL server</span>
+<span class="n">port</span> <span class="o">&lt;-</span> <span class="n">config</span><span class="o">$</span><span class="n">port</span> <span class="c1"># port of MySQL server</span>
+<span class="n">user</span> <span class="o">&lt;-</span> <span class="n">config</span><span class="o">$</span><span class="n">user</span> <span class="c1"># user name</span>
+<span class="n">passwd</span> <span class="o">&lt;-</span> <span class="n">config</span><span class="o">$</span><span class="n">password</span> <span class="c1"># password for user </span>
+<span class="n">dataDir</span> <span class="o">&lt;-</span> <span class="n">config</span><span class="o">$</span><span class="n">datadir</span> <span class="c1"># directory where data files are stored</span>
+</pre></div>
+</div>
+<p>And import other libraries for retrieving data, manipulating and plotting:</p>
+<div class="highlight-R notranslate"><div class="highlight"><pre><span></span><span class="nf">library</span><span class="p">(</span><span class="n">ggplot2</span><span class="p">)</span>
+<span class="nf">library</span><span class="p">(</span><span class="n">RMySQL</span><span class="p">)</span>
+<span class="nf">library</span><span class="p">(</span><span class="n">dplyr</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="section" id="loading-metadata">
+<h2>Loading metadata<a class="headerlink" href="#loading-metadata" title="Permalink to this headline">¶</a></h2>
+<p>The metadata are available in either the MySQL table <code class="docutils literal notranslate"><span class="pre">metadata</span></code> or in TSV format in the file <code class="docutils literal notranslate"><span class="pre">metadata.tsv</span></code> and HDF5 format <code class="docutils literal notranslate"><span class="pre">metadata.h5</span></code>. Let’s load it from our MySQL database.</p>
+<div class="tabbed-set docutils">
+<input checked="checked" id="93886f0a-96ba-4d53-9d9f-00646ac1c3cd" name="fd682b43-4b0a-402f-bf4c-489ba9a29bdb" type="radio">
+</input><label class="tabbed-label" for="93886f0a-96ba-4d53-9d9f-00646ac1c3cd">
+Python</label><div class="tabbed-content docutils">
+<div class="highlight-Python notranslate"><div class="highlight"><pre><span></span><span class="c1"># Load the metadata from MySQL database</span>
+<span class="n">cli_args</span> <span class="o">=</span> <span class="sa">f</span><span class="s2">&quot;--database=</span><span class="si">{</span><span class="n">database</span><span class="si">}</span><span class="s2"> --host=</span><span class="si">{</span><span class="n">host</span><span class="si">}</span><span class="s2"> --port=</span><span class="si">{</span><span class="n">port</span><span class="si">}</span><span class="s2"> --user=</span><span class="si">{</span><span class="n">user</span><span class="si">}</span><span class="s2"> --password=</span><span class="si">{</span><span class="n">passwd</span><span class="si">}</span><span class="s2">&quot;</span>
+<span class="n">metadata</span> <span class="o">=</span> <span class="n">query_db</span><span class="p">(</span><span class="s2">&quot;select * from metadata&quot;</span><span class="p">,</span> <span class="n">args</span><span class="o">=</span><span class="n">cli_args</span><span class="p">)</span>
+
+<span class="n">metadata</span><span class="p">[</span><span class="s1">&#39;collection_date&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">to_datetime</span><span class="p">(</span><span class="n">metadata</span><span class="p">[</span><span class="s1">&#39;collection_date&#39;</span><span class="p">],</span> <span class="n">errors</span><span class="o">=</span><span class="s1">&#39;coerce&#39;</span><span class="p">)</span>
+<span class="n">metadata</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">metadata</span><span class="p">[</span><span class="s1">&#39;collection_date&#39;</span><span class="p">]</span> <span class="o">&gt;</span> <span class="s1">&#39;2020-01-01&#39;</span><span class="p">,</span> <span class="s1">&#39;collection_date&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">pd</span><span class="o">.</span><span class="n">NaT</span> <span class="c1"># cannot be later than this date</span>
+
+<span class="c1"># combine host labels metagenome and metagenomes into one</span>
+<span class="n">metadata</span><span class="o">.</span><span class="n">loc</span><span class="p">[</span><span class="n">metadata</span><span class="p">[</span><span class="s1">&#39;host&#39;</span><span class="p">]</span> <span class="o">==</span> <span class="s1">&#39;metagenomes&#39;</span><span class="p">,</span> <span class="s1">&#39;host&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="s1">&#39;metagenome&#39;</span>
+</pre></div>
+</div>
+</div>
+<input id="fb50fcb8-f3b2-4619-bed8-4ac327fc6ea4" name="fd682b43-4b0a-402f-bf4c-489ba9a29bdb" type="radio">
+</input><label class="tabbed-label" for="fb50fcb8-f3b2-4619-bed8-4ac327fc6ea4">
+R</label><div class="tabbed-content docutils">
+<div class="highlight-R notranslate"><div class="highlight"><pre><span></span><span class="n">mydb</span> <span class="o">=</span> <span class="nf">dbConnect</span><span class="p">(</span><span class="nf">MySQL</span><span class="p">(),</span> <span class="n">user</span><span class="o">=</span><span class="n">user</span><span class="p">,</span> <span class="n">password</span><span class="o">=</span><span class="n">passwd</span><span class="p">,</span> <span class="n">host</span><span class="o">=</span><span class="n">host</span><span class="p">,</span> <span class="n">port</span><span class="o">=</span><span class="nf">as.integer</span><span class="p">(</span><span class="n">port</span><span class="p">),</span> <span class="n">dbname</span><span class="o">=</span><span class="n">database</span><span class="p">)</span>
+<span class="n">rs</span> <span class="o">=</span> <span class="nf">dbSendQuery</span><span class="p">(</span><span class="n">mydb</span><span class="p">,</span> <span class="s">&quot;select * from metadata&quot;</span><span class="p">)</span>
+<span class="n">metadata</span> <span class="o">=</span> <span class="nf">fetch</span><span class="p">(</span><span class="n">rs</span><span class="p">,</span> <span class="n">n</span><span class="o">=</span><span class="m">-1</span><span class="p">)</span> <span class="c1"># retrieve all with n=-1</span>
+</pre></div>
+</div>
+<p>Some preprocessing is required before we look at the data:</p>
+<div class="highlight-R notranslate"><div class="highlight"><pre><span></span><span class="n">metadata</span><span class="o">$</span><span class="n">collection_date</span> <span class="o">&lt;-</span> <span class="nf">as.Date</span><span class="p">(</span><span class="n">metadata</span><span class="o">$</span><span class="n">collection_date</span><span class="p">)</span>
+<span class="n">metadata</span><span class="p">[</span><span class="nf">which</span><span class="p">(</span><span class="n">metadata</span><span class="o">$</span><span class="n">collection_date</span> <span class="o">&gt;</span> <span class="s">&#39;2020-01-01&#39;</span><span class="p">),</span> <span class="s">&#39;collection_date&#39;</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="kc">NA</span> <span class="c1"># cannot be later than this date</span>
+
+<span class="c1"># combine host laels metagenome and metagenomes into one</span>
+<span class="n">metadata</span><span class="p">[</span><span class="nf">which</span><span class="p">(</span><span class="n">metadata</span><span class="o">$</span><span class="n">host</span> <span class="o">==</span> <span class="s">&#39;metagenomes&#39;</span><span class="p">),</span> <span class="s">&#39;host&#39;</span><span class="p">]</span> <span class="o">&lt;-</span> <span class="s">&#39;metagenome&#39;</span>
+</pre></div>
+</div>
+</div>
+</div>
+</div>
+<div class="section" id="inspecting-the-metadata">
+<h2>Inspecting the metadata<a class="headerlink" href="#inspecting-the-metadata" title="Permalink to this headline">¶</a></h2>
+<p>There are a multitude of different metadata associated with each metagenomic dataset.</p>
+<p>In the paper, we have looked at the distribution of samples according to the following columns: <code class="docutils literal notranslate"><span class="pre">continent</span></code>, <code class="docutils literal notranslate"><span class="pre">host</span></code>, <code class="docutils literal notranslate"><span class="pre">collection_year</span></code> (from the <code class="docutils literal notranslate"><span class="pre">collection_date</span></code>), number of trimmed reads vs mapped reads. So let’s replicate these figures.</p>
+<details class="sphinx-bs dropdown card mb-3">
+<summary class="summary-title card-header">
+Metadata columns<div class="summary-down docutils">
+<svg version="1.1" width="24" height="24" class="octicon octicon-chevron-down" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M5.22 8.72a.75.75 0 000 1.06l6.25 6.25a.75.75 0 001.06 0l6.25-6.25a.75.75 0 00-1.06-1.06L12 14.44 6.28 8.72a.75.75 0 00-1.06 0z"></path></svg></div>
+<div class="summary-up docutils">
+<svg version="1.1" width="24" height="24" class="octicon octicon-chevron-up" viewBox="0 0 24 24" aria-hidden="true"><path fill-rule="evenodd" d="M18.78 15.28a.75.75 0 000-1.06l-6.25-6.25a.75.75 0 00-1.06 0l-6.25 6.25a.75.75 0 101.06 1.06L12 9.56l5.72 5.72a.75.75 0 001.06 0z"></path></svg></div>
+</summary><div class="summary-content card-body docutils">
+<dl class="glossary simple">
+<dt id="term-run_accession">run_accession<a class="headerlink" href="#term-run_accession" title="Permalink to this term">¶</a></dt><dd><p class="card-text">Identifier for sequencing read dataset</p>
+</dd>
+<dt id="term-sample_accession">sample_accession<a class="headerlink" href="#term-sample_accession" title="Permalink to this term">¶</a></dt><dd><p class="card-text">Identifier for sample</p>
+</dd>
+<dt id="term-project_accession">project_accession<a class="headerlink" href="#term-project_accession" title="Permalink to this term">¶</a></dt><dd><p class="card-text">Identifier for project</p>
+</dd>
+<dt id="term-country">country<a class="headerlink" href="#term-country" title="Permalink to this term">¶</a></dt><dd><p class="card-text">Country where sample was taken</p>
+</dd>
+<dt id="term-location">location<a class="headerlink" href="#term-location" title="Permalink to this term">¶</a></dt><dd><p class="card-text">GPS coordinates for sampling location</p>
+</dd>
+<dt id="term-continent">continent<a class="headerlink" href="#term-continent" title="Permalink to this term">¶</a></dt><dd><p class="card-text">Denotes which continent the country is in</p>
+</dd>
+<dt id="term-collection_date">collection_date<a class="headerlink" href="#term-collection_date" title="Permalink to this term">¶</a></dt><dd><p class="card-text">Sampling date</p>
+</dd>
+<dt id="term-host">host<a class="headerlink" href="#term-host" title="Permalink to this term">¶</a></dt><dd><p class="card-text">Sampling host</p>
+</dd>
+<dt id="term-instrument_platform">instrument_platform<a class="headerlink" href="#term-instrument_platform" title="Permalink to this term">¶</a></dt><dd><p class="card-text">Sequencing platform</p>
+</dd>
+</dl>
+</div>
+</details><div class="section" id="distribution-of-metagenomes-per-year">
+<h3>Distribution of metagenomes per year<a class="headerlink" href="#distribution-of-metagenomes-per-year" title="Permalink to this headline">¶</a></h3>
+<p>We first create the column <code class="docutils literal notranslate"><span class="pre">collection_year</span></code> from the <code class="docutils literal notranslate"><span class="pre">collection_date</span></code> column, and then we count the number of samples per year. Finally, we visualize these counts in a barplot.</p>
+<div class="tabbed-set docutils">
+<input checked="checked" id="524b07c8-3671-4dd8-a48e-e296c4248aa4" name="e743a21d-5b1c-499b-be93-e2e9bf2aa13f" type="radio">
+</input><label class="tabbed-label" for="524b07c8-3671-4dd8-a48e-e296c4248aa4">
+Python</label><div class="tabbed-content docutils">
+<p>hwkj</p>
+</div>
+<input id="75a68cf8-ebe1-48c2-bc15-48a6e049b816" name="e743a21d-5b1c-499b-be93-e2e9bf2aa13f" type="radio">
+</input><label class="tabbed-label" for="75a68cf8-ebe1-48c2-bc15-48a6e049b816">
+R</label><div class="tabbed-content docutils">
+<p>hej</p>
+</div>
+</div>
+</div>
+<div class="section" id="distribution-of-metagenomes-per-continent">
+<h3>Distribution of metagenomes per continent<a class="headerlink" href="#distribution-of-metagenomes-per-continent" title="Permalink to this headline">¶</a></h3>
+<p>This is a pretty similar process as for looking at the distribution of samples according to sampling year, instead we just look at the <code class="docutils literal notranslate"><span class="pre">continent</span></code> labels.</p>
+<div class="tabbed-set docutils">
+<input checked="checked" id="8f9758cf-e717-4948-a9be-1cc3f05f3c97" name="08b2acab-194c-49ae-bb0c-38e919d26db7" type="radio">
+</input><label class="tabbed-label" for="8f9758cf-e717-4948-a9be-1cc3f05f3c97">
+Python</label><div class="tabbed-content docutils">
+<p>hwkj</p>
+</div>
+<input id="4454980a-464c-4c4d-baa7-3c0ca6268cc2" name="08b2acab-194c-49ae-bb0c-38e919d26db7" type="radio">
+</input><label class="tabbed-label" for="4454980a-464c-4c4d-baa7-3c0ca6268cc2">
+R</label><div class="tabbed-content docutils">
+<p>hej</p>
+</div>
+</div>
+</div>
+<div class="section" id="distribution-of-metagenomes-per-host">
+<h3>Distribution of metagenomes per host<a class="headerlink" href="#distribution-of-metagenomes-per-host" title="Permalink to this headline">¶</a></h3>
+<p>This is a pretty similar process as for looking at the distribution of samples according to sampling year, instead we just look at the <code class="docutils literal notranslate"><span class="pre">host</span></code> labels.</p>
+<p>NOTE: There are many host labels, so let us look at those with at least 1000 samples.</p>
+<div class="tabbed-set docutils">
+<input checked="checked" id="7ba8cddb-e1d4-452d-9d12-d87d9dea15d1" name="9b6c1e56-d502-4ae7-87d8-bd2c08d14155" type="radio">
+</input><label class="tabbed-label" for="7ba8cddb-e1d4-452d-9d12-d87d9dea15d1">
+Python</label><div class="tabbed-content docutils">
+<p>hwkj</p>
+</div>
+<input id="dc40eefe-233f-492d-bec0-794aba94983b" name="9b6c1e56-d502-4ae7-87d8-bd2c08d14155" type="radio">
+</input><label class="tabbed-label" for="dc40eefe-233f-492d-bec0-794aba94983b">
+R</label><div class="tabbed-content docutils">
+<p>hej</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+            
+                <!-- Previous / next buttons -->
+<div class='prev-next-area'>
+</div>
+            
+        </div>
+    </div>
+    <footer class="footer">
+  <p>
+    
+      By Hannah-Marie Martiny<br/>
+    
+        &copy; Copyright 2022.<br/>
+  </p>
+</footer>
+</main>
+
+
+      </div>
+    </div>
+  
+  <script src="_static/js/index.be7d3bbb2ef33a8344ce.js"></script>
+
+  </body>
+</html>

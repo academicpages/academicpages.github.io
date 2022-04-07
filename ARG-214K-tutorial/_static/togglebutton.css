@@ -1,0 +1,144 @@
+/**
+ * Admonition-based toggles
+ */
+
+/* Visibility of the target */
+.admonition.toggle .admonition-title ~ * {
+    transition: opacity .3s, height .3s;
+}
+
+/* Toggle buttons inside admonitions so we see the title */
+.toggle.admonition {
+    position: relative;
+}
+
+/* Titles should cut off earlier to avoid overlapping w/ button */
+.toggle.admonition .admonition-title {
+    padding-right: 25%;
+    cursor: pointer;
+}
+
+/* hides all the content of a page until de-toggled */
+.toggle-hidden.admonition .admonition-title ~ * {
+    height: 0;
+    margin: 0;
+    float: left; /* so they overlap when hidden */
+    opacity: 0;
+    visibility: hidden;
+}
+
+/* General button style and position*/
+button.toggle-button {
+    /**
+     * Background and shape. By default there's no background
+     * but users can style as they wish
+     */  
+    background: none;
+    border: none;
+    outline: none;
+
+    /* Positioning just inside the amonition title */
+    margin-right: 0.5em;
+    position: absolute;
+    right: 0em;
+    top: .5em;
+    float: right;
+    padding: 0px;
+    display: flex;
+}
+
+/* Display the toggle hint on wide screens */
+@media (min-width: 768px) {
+    button.toggle-button.toggle-button-hidden:before {
+        content: attr(data-toggle-hint);  /* This will be filled in by JS */
+        font-size: .8em;
+        align-self: center;
+    }
+}
+
+/* Icon behavior */
+.tb-icon {
+    transition: transform .2s ease-out;
+    height: 1.5em;
+    width: 1.5em;
+    stroke: currentColor;  /* So that we inherit the color of other text */
+}
+
+/* Rotate icon with admonitions so that it points down */
+.admonition.toggle .tb-icon {
+    transform: rotate(-90deg);
+}
+
+/* When the admonition is hidden, icon should flip upwards but retain rotation */
+/* We scaleX, in order to flip along Y, because it is rotated */
+.admonition.toggle .toggle-button-hidden .tb-icon {
+    transform: rotate(-90deg) scaleX(-1);
+}
+
+/* With details toggles, we don't rotate the icon so it points right */
+details.toggle-details .tb-icon {
+    height: 1.4em;
+    width: 1.4em;
+    margin-top: 0.1em;  /* To center the button vertically */
+}
+
+
+/**
+ * Details-based toggles.
+ * In this case, we wrap elements with `.toggle` in a details block.
+ */
+
+/* Details blocks */
+details.toggle-details {
+    margin: 1em 0;
+}
+
+details.toggle-details summary {
+    display: flex;
+    align-items: center;
+    width: fit-content;
+    cursor: pointer;
+    list-style: none;
+    border-radius: .4em;
+    border: 1px solid #ccc;
+    background: #f8f8f8;
+    padding: 0.2em 0.7em 0.3em 0.5em; /* Less padding on left because the SVG has left margin */
+    font-size: 0.8em;
+}
+
+.toggle-details__summary-text {
+    margin-left: 0.2em;
+}
+
+details.toggle-details summary:hover {
+    background: #f6f6f6;
+}
+
+details.toggle-details summary:active {
+    background: #eee;
+}
+
+details.toggle-details[open] summary {
+    margin-bottom: .5em;
+}
+
+details.toggle-details[open] summary .tb-icon {
+    transform: rotate(90deg);
+}
+
+details.toggle-details[open] summary ~ * {
+    animation: toggle-fade-in .3s ease-out;
+}
+
+@keyframes toggle-fade-in {
+  from {opacity: 0%;}
+  to {opacity: 100%;}
+}
+
+/* Print rules - we hide all toggle button elements at print */
+@media print {
+    /* Always hide the summary so the button doesn't show up */
+    details.toggle-details summary {
+        display: none;
+    }
+}
