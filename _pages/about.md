@@ -10,7 +10,7 @@ redirect_from:
 
 I am a first year PhD student at the University of Pennsylvania working in the intersection of Natural Language Processing and Computer Vision under the supervision of Prof. Chris Callison-Burch and Prof. Mark Yatskar. 
 
-Aside from my research, I co-lead Penn's Team for the [Amazon Alexa Taskbot Challenge](https://www.amazon.science/academic-engagements/amazon-launches-new-alexa-prize-taskbot-challenge). If you have an Alexa device you can say "Alexa, assist me!" to interact with one of the team's bots and help give anonymous feedback! Note your feedback is valuable so it is important to be reflective of your experience. 
+<!-- Aside from my research, I co-lead Penn's Team for the [Amazon Alexa Taskbot Challenge](https://www.amazon.science/academic-engagements/amazon-launches-new-alexa-prize-taskbot-challenge). If you have an Alexa device you can say "Alexa, assist me!" to interact with one of the team's bots and help give anonymous feedback! Note your feedback is valuable so it is important to be reflective of your experience.  -->
 
 Brief Background
 ======
