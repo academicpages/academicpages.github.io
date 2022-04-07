@@ -1,5 +1,5 @@
 ---
-title: "Combating Sampling Bias: A Self-Training Method in Credit Risk Models"
+title: "Nudge for Reflective Mind: Understanding How Accessing Peer Concept Mapping and Commenting Affects Reflection of High-stakes Information"
 collection: publications
 permalink: /publication/2022-05-01-DeepThinkingMapEA
 excerpt: 'Toadd.'
