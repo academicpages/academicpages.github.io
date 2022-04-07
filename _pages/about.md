@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year PhD candidate from the school of computing science, [Terrier team](http://terrierteam.dcs.gla.ac.uk/index.html), University of Glasgow.
+I am a final year PhD candidate from the school of computing science, University of Glasgow and I am a member of [Terrier team](http://terrierteam.dcs.gla.ac.uk/index.html), supervised by Prof. [Iadh Ounis](http://www.dcs.gla.ac.uk/~ounis/) and Dr. [Craig Macdonald](https://www.gla.ac.uk/schools/computing/staff/craigmacdonald/#). 
 
 A data-driven personal website
 ======
