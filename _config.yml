@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : "https://tedsiweiliu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "siwei-personalpage.github.io"
-teaser                   :  "profile.png"
+teaser                   :  "self_pic.pdf"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Siwei Liu"
-  avatar           : "profile.png"
+  avatar           : "self_pic.pdf"
   bio              : "PhD student in CS, University of Glasgow"
   location         : "Glasgow"
   employer         :
