@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "Glasgow"
-title                    : "Siwei Liu's homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Siwei Liu"
 description              : &description "personal description"
