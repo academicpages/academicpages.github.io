@@ -29,31 +29,4 @@ If you need to see me, make an appointment using the links below.
 <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/bahamonde/zoom_officehours'});return false;">Zoom Office Hours</a> click here.
 <!-- Calendly link widget end -->
 
----
-
-Email Etiquette
-===============
-
-1. Use a clear subject line. 
-2. Use a salutation and signature. 
-3. Use standard punctuation, capitalization, spelling and grammar. 
-4. Do your part in solving what you need to solve. 
-5. Be aware of concerns about entitlement.
-
-More details, here: [http://www.wikihow.com/Email-a-Professor](http://www.wikihow.com/Email-a-Professor).
-
----
-
-Grade Appealing Policy
-=======================
-
-As a student it is your right to ask for a grade appeal. At the same time, I take grading very seriously. Please, read carefully my policy on grade appeals.
-
-
-<div>
-    <a href="/resources/ReGrade_Policy.pdf"><i class="fa fa-file-pdf-o fa" style="color:#d21034"></i></a>
-</div>
-
-
-
 
