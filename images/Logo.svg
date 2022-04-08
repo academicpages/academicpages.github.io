@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="200 241 252 92" width="252" height="92">
+  <defs>
+    <font-face font-family="Lucida Grande" font-size="48" panose-1="2 11 6 0 4 5 2 2 2 4" units-per-em="1000" underline-position="-97.65625" underline-thickness="48.828125" slope="0" x-height="530.27344" cap-height="722.65625" ascent="966.7969" descent="-210.9375" font-weight="400">
+      <font-face-src>
+        <font-face-name name="LucidaGrande"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Lucida Grande" font-size="42" panose-1="2 11 6 0 4 5 2 2 2 4" units-per-em="1000" underline-position="-97.65625" underline-thickness="48.828125" slope="0" x-height="530.27344" cap-height="722.65625" ascent="966.7969" descent="-210.9375" font-weight="400">
+      <font-face-src>
+        <font-face-name name="LucidaGrande"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.15 
+    <dc:date>2020-07-09 21:56:16 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke-opacity="1" stroke="none" fill="none" fill-opacity="1" stroke-dasharray="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="200" y="241" width="252" height="92"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <rect x="199.99398" y="241" width="252" height="92" fill="#336aac"/>
+      </g>
+      <g id="Graphic_4">
+        <rect x="304.994" y="249.54128" width="138" height="74.5" fill="white"/>
+      </g>
+      <g id="Graphic_5">
+        <text transform="translate(203.9354 259.54128)" fill="white">
+          <tspan font-family="Lucida Grande" font-size="48" font-weight="400" fill="white" x="0" y="46">Beta</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <text transform="translate(305.2723 261.54128)" fill="#3369ab">
+          <tspan font-family="Lucida Grande" font-size="42" font-weight="400" fill="#3369ab" x="0" y="41">RecSys</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
