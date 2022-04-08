@@ -10,7 +10,7 @@ redirect_from:
 
 I am a final year PhD candidate from the school of computing science, University of Glasgow and I am a member of [Terrier team](http://terrierteam.dcs.gla.ac.uk/index.html), supervised by Prof. [Iadh Ounis](http://www.dcs.gla.ac.uk/~ounis/) and Dr. [Craig Macdonald](https://www.gla.ac.uk/schools/computing/staff/craigmacdonald/#). I am researching in the field of **Graph Representaion Learning**, **Recommender Systems** and **Natural Language Processing**. Besides, I have a strong passion for topics like **Fintech** (NLP for finance) and **Bioinformatics** (protein-drug relationships).  
 
-## <img src="https://github.com/TedSIWEILIU/tedsiweiliu.github.io/blob/master/images/new.png" width="50" height="50">
+I am one of the cofounders and main contributors of the Beta-Recsys project, an open source project for Building, Evaluating and Tuning Automated Recommender Systems.
 
 A data-driven personal website
 ======
