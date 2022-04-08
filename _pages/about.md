@@ -12,10 +12,11 @@ I am Yusheng Su, a Ph.D. candidate in [THUNLP Lab](https://twitter.com/tsinghuan
 
 
 ## News
-* [Mar. 2022] Got one paper accepted at ACL 2022 (Findings). 
-* [Aug. 2021] Got one paper accepted at IEEE/TASLP 2021 (Journal). 
-* [Feb. 2021] Got one paper accepted at WWW 2021 (Workshop). 
-* [Aug. 2020] Got one paper accepted at EMNLP 2020 (Findings).
+* [Apr. 2022] Got two papers accepted at NAACL 2022. 
+* [Mar. 2022] Got one paper accepted at ACL 2022. 
+* [Aug. 2021] Got one paper accepted at IEEE/TASLP 2021. 
+* [Feb. 2021] Got one paper accepted at WWW 2021. 
+* [Aug. 2020] Got one paper accepted at EMNLP 2020.
 
 
 ## Professional Services
@@ -28,6 +29,10 @@ I am Yusheng Su, a Ph.D. candidate in [THUNLP Lab](https://twitter.com/tsinghuan
 
 
 ## Publications
+
+* <b>Yusheng Su</b>, Xiaozhi Wang, Yujia Qin, Chi-Min Chan, Yankai Lin, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou. <b>On Transferability of Prompt Tuning for Natural Language Understanding</b> (NAACL 2022). [[pdf]](https://arxiv.org/abs/2111.06719)
+
+* Yujia Qin, Yankai Lin, Jing Yi, Jiajie Zhang, Xu Han, Zhengyan Zhang, <b>Yusheng Su</b>, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou. <b>Knowledge Inheritance for Pre-trained Language Models</b> (NAACL 2022). [[pdf]](https://arxiv.org/abs/2105.13880) [[code]](https://github.com/thunlp/Knowledge-Inheritance)
 
 * Yujia Qin, Xiaozhi Wang, <b>Yusheng Su</b>, Yankai Lin, Ning Ding, Zhiyuan Liu, Juanzi Li, Lei Hou, Peng Li, Maosong Sun, Jie Zhou. <b>Exploring Low-dimensional Intrinsic Task Subspace via Prompt Tuning</b> (ACL-Findings 2022). [[pdf]](https://arxiv.org/abs/2110.07867)
 
@@ -43,10 +48,6 @@ I am Yusheng Su, a Ph.D. candidate in [THUNLP Lab](https://twitter.com/tsinghuan
 ## Under Review or Preprint Version <!-- Submitted for Publications-->
 
 * Ning Ding, Yujia Qin, Guang Yang, Fuchao Wei, Zonghan Yang, <b>Yusheng Su</b>, Shengding Hu, Yulin Chen, Chi-Min Chan, Weize Chen, Jing Yi, Weilin Zhao, Xiaozhi Wang, Zhiyuan Liu, Hai-Tao Zheng, Jianfei Chen, Yang Liu, Jie Tang, Juanzi Li, Maosong Sun. <b>Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models</b> (ArXiv). [[pdf]](https://arxiv.org/abs/2203.06904)
-
-* <b>Yusheng Su</b>, Xiaozhi Wang, Yujia Qin, Chi-Min Chan, Yankai Lin, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou. <b>On Transferability of Prompt Tuning for Natural Language Understanding</b> (ArXiv). [[pdf]](https://arxiv.org/abs/2111.06719)
-
-* Yujia Qin, Yankai Lin, Jing Yi, Jiajie Zhang, Xu Han, Zhengyan Zhang, <b>Yusheng Su</b>, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou. <b>Knowledge Inheritance for Pre-trained Language Models</b> (ArXiv). [[pdf]](https://arxiv.org/abs/2105.13880) [[code]](https://github.com/thunlp/Knowledge-Inheritance)
 
 
 
