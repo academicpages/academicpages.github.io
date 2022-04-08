@@ -12,7 +12,7 @@ I am a final year PhD candidate from the school of computing science, University
 
 I am one of the cofounders and main contributors of the Beta-Recsys project, an open source project for Building, Evaluating and Tuning Automated Recommender Systems.
 
-[<img src="https://github.com/TedSIWEILIU/tedsiweiliu.github.io/tree/master/images/Logo.png">](https://beta-recsys.readthedocs.io/en/latest/)
+[#BetaRecSys](https://beta-recsys.readthedocs.io/en/latest/)
 
 A data-driven personal website
 ======
