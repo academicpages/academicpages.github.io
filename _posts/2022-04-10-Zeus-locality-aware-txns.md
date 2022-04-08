@@ -1,4 +1,18 @@
-# Zeus: locality aware distributed transactions
+---
+title: 'Zeus: locality aware distributed transactions'
+date: 2022-04-10
+permalink: /posts/2022/04/Zeus-locality-aware-txns/
+tags:
+  - Locality
+  - Transactions
+  - Dynamic sharding
+  - Availability
+  - Strict serializability
+  - pipelining
+  -replication
+---
+
+
 
 ## Introduction 
 
