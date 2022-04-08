@@ -10,6 +10,8 @@ redirect_from:
 
 I am a final year PhD candidate from the school of computing science, University of Glasgow and I am a member of [Terrier team](http://terrierteam.dcs.gla.ac.uk/index.html), supervised by Prof. [Iadh Ounis](http://www.dcs.gla.ac.uk/~ounis/) and Dr. [Craig Macdonald](https://www.gla.ac.uk/schools/computing/staff/craigmacdonald/#). I am researching in the field of **Graph Representaion Learning**, **Recommender Systems** and **Natural Language Processing**. Besides, I have a strong passion for topics like **Fintech** (NLP for finance) and **Bioinformatics** (protein-drug relationships).  
 
+## <img src="https://github.com/kgspace/KG_papers/blob/main/images/new.png" width="25" height="25">
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
