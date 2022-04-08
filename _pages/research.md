@@ -40,5 +40,5 @@ redirect_from:
 - Inés Durán Matute (2019). [Indigenous Peoples and the Geographies of Power: Mezcala's Narratives of Neoliberal Governance](https://doi.org/10.1080/13260219.2019.1671679). **Journal of Iberian and Latin American Research**, Routledge.
 
 
-<iframe src="/resources/citations.php?id=3FHDoL0AAAAJ&lang=en" height="250" width="450" style="border:none;"></iframe>
-
+<?php require "/resources/citations.php?id=3FHDoL0AAAAJ&lang=en";
+?>
