@@ -15,8 +15,7 @@ Workshops
 ## *Upcoming*
 
 
-## [Open Registration for the 2nd Annual Land DA Community Workshop: "New Directions in Land Data Assimilation"](https://docs.google.com/forms/d/e/1FAIpQLScjikwX9Lp-cfW8l-HPCrrtgqlERTLwuGIzrUZhedKvwS1IRA/viewform)
-
+## [Open Registration for the 2nd Annual Land DA Community Workshop: "New Directions in Land Data Assimilation"](https://aimesproject.org/lda_workshop_2022/)
 ### 13-15 June 2022 | 10:00-13:00 EDT // 16:00-19:00 CEST
 ### Organizers†: Natasha MacBean (1), Jana Kolassa (2), Andy Fox (3), Tristan Quaife (4), Hannah Liddy (5)
 (1) Indiana University, (2) NASA GMAO, (3) Joint Center for Satellite Data Assimilation, (4) University of Reading, (5) Columbia University/NASA GISS
@@ -37,6 +36,8 @@ Opportunities to Contribute to the Program: With this workshop, we are seeking t
 ### Poster submissions: Monday, April 25th at 12:00 EDT
 ### Breakout Group Proposals: Monday, April 25th at 12:00 EDT
 ### Registration: Wednesday, June 1st at 12:00 EDT
+
+[Register Here](https://docs.google.com/forms/d/e/1FAIpQLScjikwX9Lp-cfW8l-HPCrrtgqlERTLwuGIzrUZhedKvwS1IRA/viewform)
 
 If anyone cannot access the Google form please contact us aimes@futureearth.org to register by email.
 
