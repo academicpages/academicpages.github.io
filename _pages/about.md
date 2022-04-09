@@ -10,7 +10,7 @@ redirect_from:
 
 Contact me at: josh \[dot\] nguyen \[at\] anu \[dot\] edu \[dot\] au
 
-I am an MPhil student at the [Computational Media Lab](http://cm.cecs.anu.edu.au/), the Australian National University, supervised by [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) and [Colin Klein](http://colinklein.org/). Our current project is "Analysing Real-Word Moral Dilemmas from Online Discussions". We are interested in how dilemmas come about, are presented and are justified on social media, and how to automate the reasoning process similar to that observable on online forums.
+I am an MPhil student at the [Computational Media Lab](http://cm.cecs.anu.edu.au/), the Australian National University, supervised by [Lexing Xie](http://users.cecs.anu.edu.au/~xlx/) and [Colin Klein](http://colinklein.org/). I am interested in how dilemmas come about, are presented and are justified on social media, and how to automate the reasoning process similar to that observable on online forums.
 
 Previously I graduated with a BSc in computer science from the [School of Computing and Information Systems](https://cis.unimelb.edu.au/), the University of Melbourne, Australia. 
 
@@ -23,7 +23,7 @@ I publish under my official Vietnamese name, Tuan Dung Nguyen.
 News
 ======
 
-[16-03-2022] Our paper, _Mapping Topics in 100,000 Real-life Moral Dilemmas_, is accepted to [ICWSM 2022](https://icwsm.org/2022/index.html/)!
+[16-03-2022] Our paper, [_Mapping Topics in 100,000 Real-life Moral Dilemmas_](https://arxiv.org/abs/2203.16762), is accepted to [ICWSM 2022](https://icwsm.org/2022/index.html/)!
 
 [30-11-2021] I am honored to attend the [International School in Artificial Intelligence and its Applications in Computer Science](https://www.monash.edu/it/events/2021/international-school-in-artificial-intelligence-and-its-applications-in-computer-science-isaac) (ISAAC 2021) this december at [Monash University](https://www.monash.edu/).
 
