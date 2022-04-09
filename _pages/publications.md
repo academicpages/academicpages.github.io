@@ -9,8 +9,8 @@ author_profile: true
   <i>This is a comprehensive study about scribble-supervised medical image segmentation based on the ACDC dataset<br>
  [[paper](https://arxiv.org/abs/2203.02106)][[code](https://github.com/HiLab-git/WSL4MIS)]
   
-* <b>WORD: Revisiting Organs Segmentation in the Whole Abdominal Region</b> <br> 
-  <b>Xiangde Luo</b>, Wenjun Liao, Jianghong Xiao, Tao Song, Xiaofan Zhang, Kang Li, Guotai Wang, Shaoting Zhang<br>
+* <b>WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image</b> <br> 
+  <b>Xiangde Luo</b>, Wenjun Liao, Jianghong Xiao, Tao Song, Xiaofan Zhang, Kang Li, Dimitris N. Metaxas, Guotai Wang, Shaoting Zhang<br>
   <i>This is a tech report, the work is still ongoing.<br>
   [[paper](https://arxiv.org/pdf/2111.02403.pdf)][[code](https://github.com/HiLab-git/WORD)][[dataset](https://drive.google.com/file/d/1HcRo3WARRXa_iBdFpo_4Z2s3z7PMzLlL/view)]
   
