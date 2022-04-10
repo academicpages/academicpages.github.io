@@ -1,6 +1,6 @@
 ---
 title: 'Control Learning for Soft Robotics'
-date: 2017-11-21
+date: 2021-03-01
 permalink: /posts/2017/11/blog-post-bipedal/
 tags:
   - machine learning
