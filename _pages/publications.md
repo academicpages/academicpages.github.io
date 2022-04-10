@@ -42,7 +42,7 @@ author_profile: true
  [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
    
 * <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> <br> 
-  <b>Xiangde Luo</b>, Jieneng Chen, Tao Song, Yinan Chen, Guotai Wang, Shaoting Zhang<br>
+  <b>Xiangde Luo</b>, Jieneng Chen, Tao Song, Guotai Wang<br>
   <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. <b>AAAI2021  (CCF A)</b>.<br>
  [[paper](https://arxiv.org/abs/2009.04448)][[code](https://github.com/HiLab-git/DTC)]
  
