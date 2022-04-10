@@ -68,6 +68,6 @@ Teaching
   {% endfor %}</ul>
   
 Voluntary Work
-======
+====== 
 * Volunteer, Raleigh International Borneo, Summer 2012.
   * Construction of a kindergarten to facilitate education in rural communities and conservation work for an endangered species of bear.
