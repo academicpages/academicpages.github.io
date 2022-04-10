@@ -9,8 +9,8 @@
 locale                   : "en-GB"
 title                    : "Euan Judd"
 title_separator          : "-"
-name                     : &name "Euan Judd"
-description              : &description "PhD Student at the University of Bristol"
+name                     : &name "Dr Euan Judd"
+description              : &description "Postdoctoral Researcher at EPFL"
 url                      : https://euanjudd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "euanjudd/euanjudd.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Euan Judd"
   avatar           : "profile.jpg"
-  bio              : "PhD Student at the University of Bristol and Bristol Robotics Laboratory"
-  location         : "Bristol, UK"
+  bio              : "Postdoctoral Researcher at EPFL"
+  location         : "Lausanne Switzerland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=ZlJG5XEAAAAJ&hl=en&oi=ao"
-  email            : euan.judd@bristol.ac.uk
+  email            : euan.judd@epfl.ch
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        : "euanjudd"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "euan-judd-749b04116"
+  linkedin         : "euan-judd-phd-749b04116"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
