@@ -1,7 +1,7 @@
 ---
 title: 'Learning to Control Soft Robots'
 date: 2021-03-01
-permalink: /posts/2017/11/blog-post-bipedal/
+permalink: /posts/2021/03/blog-post-control/
 tags:
   - machine learning
   - co-evolution of morphology and control
