@@ -1,5 +1,5 @@
 ---
-title: 'Control Learning for Soft Robotics'
+title: 'Learning to Control Soft Robots'
 date: 2021-03-01
 permalink: /posts/2017/11/blog-post-bipedal/
 tags:
