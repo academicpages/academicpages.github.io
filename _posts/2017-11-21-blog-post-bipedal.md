@@ -8,10 +8,6 @@ tags:
   - essay
 ---
 
-This essay was submitted as part of a masters level biomechanics course. Obligate bipedality has evolved independently many times and the adaptive advantages for each evolution vary greatly. I explore the different causes for first facultative and then obligate bipedalism in hominins, dinosaurs and saltatory bipedalism amongst rodents and marsupials.
-
-[Watch a video version of this essay on YouTube](https://www.youtube.com/channel/UCeVwt0rUEoRIUQ8oHQ0cUhg?)
-
 Introduction
 ------
 Bipedality has evolved independently in different lineages among terrestrial vertebrates (Snyder R. C., 1962). In extant mammals it has evolved independently in primates, kangaroos, and rodents (Wu, et al., 2014) and it has also evolved once in dinosaurs (Sereno P. F., 1993). This essay will therefore be split into three parts. The first will deal with human obligate bipedalism with reference to facultative bipedality in other primates. The second will deal with obligate bipedality in dinosaurs, the origin of which is assumed to be the same for <i>Aves</i>, and will highlight an interesting theory which uses lizard facultative bipedalism as an analogy for early bipedal evolution. Finally, obligate saltatory gait in marsupials and rodents, which had different origins but may have evolved for the same purpose, will be discussed.
