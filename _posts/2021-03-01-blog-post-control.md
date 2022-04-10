@@ -18,8 +18,7 @@ kinematic and dynamic models that account for the unknown nonlinearities.
 Control Learning for Soft Continuum Manipulators
 ------
 The first use of a model-free method for continuum robotic manipulators used the universal approximation properties of a feedforward neural network to compensate for some of these unknown nonlinear
-dynamics [Braganza et al., 2007]. The neural network was added to a closed-loop controller to compen-
-sate for the difference between the desired and actual actuator lengths by regulating the pressure of the
+dynamics [Braganza et al., 2007]. The neural network was added to a closed-loop controller to compensate for the difference between the desired and actual actuator lengths by regulating the pressure of the
 nine pneumatic actuators. However, the actual position and orientation of the end effector are still uncertain due to the time-dependant nonlinearities of the compliant material, external forces, and uncertain
 environment. Accurate tracking of the end effector is also a particular challenge for continuum robots.
 Giorelli et al. [2013] were the first to use a feedforward neural network to solve the inverse kinematics
@@ -85,8 +84,7 @@ rapidly fabricated using hot melt adhesives or a laser cutter. However, fabricat
 remains a challenge, as does the time cost for fabrication and testing.
 Goal-focused evolutionary algorithms are computationally expensive even in simulation. Joachimczak
 et al. [2015] used a combination of novelty search combined with developmental adaptation in simulation to reduce the computational cost of designing the morphologies and controllers of multicellular and
-soft-bodied robots. Novelty search rewards a phenotype based on how different it is from other pheno-
-types in the population and developmental adaption reduces the computational expense by reducing the
+soft-bodied robots. Novelty search rewards a phenotype based on how different it is from other phenotypes in the population and developmental adaption reduces the computational expense by reducing the
 complexity of the fitness landscape.
 Vujovic et al. [2017] were the first to combine evolutionary algorithms and developmental adaptation for morphology-control co-evolution using physical robots where the fabrication process of soft-legged robots was automated using a robot arm and hot glue. Evolutionary algorithms are well suited to
 morphology-control co-evolution but require all candidate solutions to be evaluated and lack any assumptions about the influence of its parameters. Bayesian optimisation continuously develops a relationship
@@ -103,8 +101,7 @@ means small changes in the morphology cause small changes in behaviour, only sma
 parameters are needed to retain the desired behaviour. Therefore, PMCCA was used to perform a refined
 search to adapt the morphological parameters. PMCCA was then used to find new control parameters
 for these new morphologies using prior knowledge from neighboring morphologies and their controllers.
-They found this often increased the fitness and reduced the number of iterations for optimisation com-
-pared to using a global optimisation algorithm.
+They found this often increased the fitness and reduced the number of iterations for optimisation compared to using a global optimisation algorithm.
 
 Conclusion
 ------
@@ -116,9 +113,7 @@ or environment changed. Continuously adapting the control parameters and the mor
 changes would be the most promising approach in the future and could better exploit the rich dynamics
 of the soft robots. This goes hand in hand with the sensing cost to provide accurate body configuration
 feedback which is also a challenge for high-dimensional soft robots.
-Co-design of morphology and control is largely performed in the real world due to the simulation-
-reality gap. Optimisation techniques have reduced the number of evaluated candidates needed for co-
-design of morphology and control and these solutions have been shown to outperform a controller optimised for a fixed morphology. However, the time cost for automating the fabrication and testing of
+Co-design of morphology and control is largely performed in the real world due to the simulation-reality gap. Optimisation techniques have reduced the number of evaluated candidates needed for co-design of morphology and control and these solutions have been shown to outperform a controller optimised for a fixed morphology. However, the time cost for automating the fabrication and testing of
 physical candidates is still substantial. The biggest hurdle is therefore the development of an autonomous
 system for the fabrication and testing of candidate robots that reduces the time cost and can fabricate more
 complex robots.
