@@ -27,12 +27,12 @@ News
 * Apr 10, 2022, **awarded** the ACC Travel Grant of the 2022 American Control Conference.
 * Feb 4, 2022, a journal paper named "_Online Distributed Routing Problem of Electric Vehicles_" is **accepted** by IEEE Transactions on Intelligent Transportation Systems.
 * Jan 31, 2022, a conference paper named "_Incentive-aware Electric Vehicle Routing Problem: a Bi-level Model and a Joint Solution Algorithm_" is **accepted** by the 2022 American Control Conference (ACC) to be held in Atlanta, Georgia, USA.
-* Jan 11, 2022, invited as reviewer for The 2022 IEEE/AIAA Transportation Electrification Conference and Electric Aircraft Technologies Symposium (ITEC+EATS)
-* Oct 9, 2021, invited as reviewer for IEEE Systems Journal (ISJ). 
+* Jan 11, 2022, invited as the reviewer for The 2022 IEEE/AIAA Transportation Electrification Conference and Electric Aircraft Technologies Symposium (ITEC+EATS)
+* Oct 9, 2021, invited as the reviewer for IEEE Systems Journal (ISJ). 
 * Apr 22, 2021, a journal paper named "_Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm_" is **accepted** by IEEE Transactions on Intelligent Transportation Systems.
 * Apr 2, 2021, a conference paper named "_Evacuation Problem Under the Nuclear Leakage Accident_" is **accepted** by the 40th Chinese Control Conference (CCC2021) to be held on July 26-28, 2021 in Shanghai, China.
-* Jan 17, 2021, invited as reviewer for the 33rd Chinese Control and Decison Conference (CCDC 2021).
-* Apr 30, 2020, invited as reviewer for IEEE Transactions on Smart Grid (TSG). 
+* Jan 17, 2021, invited as the reviewer for the 33rd Chinese Control and Decison Conference (CCDC 2021).
+* Apr 30, 2020, invited as the reviewer for IEEE Transactions on Smart Grid (TSG). 
 
 
 Journal paper
