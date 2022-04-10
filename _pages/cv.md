@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-% A pdf version can be viewed [here](https://euanjudd.github.io/files/EuanJuddCV.pdf).
+{% A pdf version can be viewed [here](https://euanjudd.github.io/files/EuanJuddCV.pdf). %}
 
 {% include base_path %}
 
@@ -70,4 +70,4 @@ Teaching
 Voluntary Work
 ======
 * Volunteer, Raleigh International Borneo, Summer 2012.
-* Fundraised £3000 for Raleigh International and helped fundraised £1500 for Childreach International.
+  * Construction of a kindergarten to facilitate education in rural communities and conservation work for an endangered species of bear.
