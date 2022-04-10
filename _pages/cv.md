@@ -34,8 +34,8 @@ Education
 * PhD in Robotics and Autonomous Systems, SoftLab, University of Bristol, 2021
   * Worked at the intersection of machine learning, soft robotics and embodied intelligence. Advised by Professor Helmut Hauser and Professor Jonathan Rossiter
   
- * BEng in Mechanical Engineering (First-Class Honours), University of Aberdeen, 2014
-  * Award for undergraduate thesis on the statistical modelling of flow-seaweed interactions for bio-fuel aquaculture. Advised by Professor Vladimir Nikora
+* BEng in Mechanical Engineering (First-Class Honours), University of Aberdeen, 2014
+ * Award for undergraduate thesis on the statistical modelling of flow-seaweed interactions for bio-fuel aquaculture. Advised by Professor Vladimir Nikora
 
 Skills
 ======
