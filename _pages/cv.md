@@ -30,7 +30,7 @@ Work experience
 
   
 Education
-======
+====== 
 * PhD in Robotics and Autonomous Systems, SoftLab, University of Bristol, 2021
   * Worked at the intersection of machine learning, soft robotics and embodied intelligence. Advised by Professor Helmut Hauser and Professor Jonathan Rossiter
   
