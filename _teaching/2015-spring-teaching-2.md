@@ -1,7 +1,7 @@
 ---
 title: "CPSC 559 - Advanced Blockchain Technologies"
 collection: teaching
-type: "Grdaute course"
+type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "CSUF, Computer Science"
 date: 2022-01-01
