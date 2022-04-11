@@ -41,3 +41,7 @@ You can check our syllabus [here](https://yongjunzhang.com/files/css/CSS_Zhang_S
 ### Week 10
 
 [Lab 8](https://yongjunzhang.com/files/css/Lab8.html)
+
+### Week 11
+
+[Lab 9a](https://yongjunzhang.com/files/css/Lab9a.html) and [Lab 9b](https://yongjunzhang.com/files/css/Lab9b.html)
