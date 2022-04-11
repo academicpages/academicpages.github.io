@@ -13,7 +13,7 @@ tags:
 ---
 
 
-Typical databases have distributed transactions that update multiple objects. These objects are updated by transactions that span multiple shards and require coordination for state reconciliation. Most popular protocol to reconcile the state is the two phase commit protocol. This distribution is an inherent problem since most transactions access multiple replicas and thus the communication latency between those replicas leads to a slowdown. The commit requiring coordination is also blocking. Zeus fetches the objects involved in a transaction's operations locally and then performs the reads and writes on the local versions of the objects. 
+Typical databases have distributed transactions that update multiple objects. These objects are updated by transactions that span multiple shards and require coordination for state reconciliation. Most popular protocol to reconcile the state is the two phase commit protocol. This distribution is an inherent problem since most transactions access multiple replicas and thus the communication latency between those replicas leads to a slowdown. The commit requiring coordination is also blocking. [Zeus](https://doi.org/10.1145/3447786.3456234) fetches the objects involved in a transaction's operations locally and then performs the reads and writes on the local versions of the objects. 
 
 To ensure that the locality is not violated by concurrent transactions accessing the same object, there are protocols in place that ensure that the database as a whole is fault tolerant and strongly consistent. 
 
