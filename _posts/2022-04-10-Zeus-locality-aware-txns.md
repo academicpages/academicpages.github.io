@@ -36,15 +36,15 @@ The authors argue that the high performance dynamic sharding of objects in a dat
 - **Directory** : A node containing the ownership metadata of the objects. This directory contains the object state, object timestamp, the replicas that store the object. 
 
 
- ### Running transactions in Zeus (Updating and Reading objects)
+### Running transactions in Zeus (Updating and Reading objects)
 
- A transaction in Zeus has 3 phases
+A transaction in Zeus has 3 phases
 
- - **Prepare and Execute** : Before the transaction accesses an object, it ensures that the proper ownership rights are present to perform operations on the object. If not, the proper rights are acquired via the ownership protocol. The transaction then creates a local copy of the objects to operate on. 
- 
- - **Local commit** : When the transaction is done performing the operations, it commits via a traditional single node commit.
- 
- - **Reliable commit** : Upon successfully committing the transaction locally, the coordinator pushes all the local updates for the followers.  
+- **Prepare and Execute** : Before the transaction accesses an object, it ensures that the proper ownership rights are present to perform operations on the object. If not, the proper rights are acquired via the ownership protocol. The transaction then creates a local copy of the objects to operate on. 
+
+- **Local commit** : When the transaction is done performing the operations, it commits via a traditional single node commit.
+
+- **Reliable commit** : Upon successfully committing the transaction locally, the coordinator pushes all the local updates for the followers.  
 
 
 ## Reliable Ownership
@@ -85,6 +85,18 @@ During recovery the ACK message is sent back to the driver instead of the reques
 
 When the transaction locally commits its updates, it updates the ***data*** of the modified objects as well as their ***versions***. It then sets the state of the objects to ***Write*** to indicate them being pending for a reliable commit. 
 
-The 
+The coordinator then broadcasts an ***invalidation*** message to all the followers along with the updated data and the version. When a follower receives this message, it checks if the epoch id matches with the epoch it is in, if it does, the objects' versions are matched with its local versions. If the versions are different and the version received in the invalidation message is newer, it is updated. The follower then marks the updated object as ***Invalid*** stating that it has a pending reliable commit and sends an acknowledgement back to the coordinator. 
+
+When all the acknowledgement messages are received by the coordinator, it broadcasts a ***Validation*** message to the followers. This lets the followers know that the transaction can be committed. When the follower receives this validation message, it checks if it had received an invalidation message for the same transaction for the same version of the object. If it did, then the object is marked as valid and the transaction considered committed. If the version has changed, then the validation message is ignored. 
 
 
+### Reliable replay under failures. 
+
+When a node fails, the transactions under progress by that node fail too. Following this, the failed node will not be able to initiate a reliable commit. In this case, a reconfiguration happens. Following which, a live node replays it's own reliable commits and those from the failed nodes.
+
+To do this, the node first updates the local invalidation messages with the new epoch Id and removes all the dead nodes from the followers. A reliable commit is re-initiated. When a follower receives the messages for invalidation and validation and it has previously stored these messages, it ignores them and responds with an acknowledgement. When there are no pending reliable commits, the node informs the ownership protocol that the routine operations can happen. 
+
+
+## Discussion
+
+Zeus reduces the need for round trips between nodes when committing a transaction. This is achieved by transferring the ownership of an object between the nodes. Unlike traditional commits, local commits in Zeus followed by reliable commits are faster. The need to transfer objects between nodes is observed (using real benchmarks) to have a non-significant impact on the performance. 
