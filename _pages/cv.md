@@ -12,8 +12,10 @@ redirect_from:
 Work experience
 ======
 * July – Present: Postdoctoral Researcher, Laboratory of Intelligent Systems, EPFL (École polytechnique fédérale de Lausanne)
-  * My aim is to make robots ubiquitous in our everyday lives using reinforcement learning, evolutionary algorithms and world models for the design and control of novel robotic systems. Advised by Professor Dario Floreano.
-  * Head teaching assistant on the Evolutionary Robotics course.
+  * Developing robots that can learn faster by co-evolving the body and brain using reinforcement learning and evolutionary algorithms.
+  * Developed a classifier for continuously monitoring tactile feedback, including slip anticipation, integrated into the perception system of industrial robots for manufacturing deformable objects as part of the European Union's Horizon 2020 research and innovation programme (MERGING).
+  * Ideate and supervise Master's student projects.
+  * Leveraged knowledge in Python, PyTorch, Tensorflow, Keras, Scikit-learn, Reinforcement Learning and Evolutionary Algorithms.
 
 * Sept 2019 - January 2021: Teaching Assistant, University of Bristol, Introduction to Computer Programming (Python).
 
@@ -30,7 +32,9 @@ Work experience
 Education
 ====== 
 * PhD in Robotics and Autonomous Systems, SoftLab, University of Bristol, 2021
-  * Worked at the intersection of machine learning, soft robotics and embodied intelligence. Advised by Professor Helmut Hauser and Professor Jonathan Rossiter
+  * Developed a novel soft fluidic sensor with an optimised morphology to sparsify the output dimensionality while maximising the sensory information to improve the machine learning performance.
+  * Developed a novel proprioceptive sensor for aquatic environments that can predict the position of objects in its vicinity without touching them by using the body as a computational resource to simplify the machine learning task.
+  * Leveraged knowledge in Python, Tensorflow, Keras, Scikit-learn, Evolutionary Algorithms, openCV, C++, and MATLAB.
   
 * BEng in Mechanical Engineering (First-Class Honours), University of Aberdeen, 2014
   * Award for undergraduate thesis on the statistical modelling of flow-seaweed interactions for bio-fuel aquaculture. Advised by Professor Vladimir Nikora
