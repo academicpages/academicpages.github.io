@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the homepage for the Knevel Lab where we collect all our digital work in and arond the rheumatology field. 
+Welcome to the homepage for the Knevel Lab where we collect all our digital work in and around the rheumatology field. 
 
 About us
 ======
