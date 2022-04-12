@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,4 +14,5 @@ My resreach interests are focused on computational methods and machine learning 
 
 
 
-![Merged_document](https://user-images.githubusercontent.com/24252683/163002285-be82312e-3789-413f-ad97-8c0da6110745.png)
+![Merged_document](https://user-images.githubusercontent.com/24252683/163002410-72db1d25-d53c-4134-9743-3cc61f4d8d00.png)
+
