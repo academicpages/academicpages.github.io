@@ -1,9 +1,9 @@
 ---
 title: "A Novel Volume-Surface Integral Equation Formulation of Global Maxwell Tomography: Simulations and Experiments"
 collection: talks
-type: "Talk"
+type: "Digital Poster"
 permalink: /talks/tutorial1
 venue: "ISMRM Annual Meeting & Exhibition"
-date: 2022-01-01
+date: 2022-05-12
 location: "London, UK"
 ---
