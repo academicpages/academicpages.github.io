@@ -13,6 +13,5 @@ Hi, welcome to my personal website! I am a postdoctoral fellow at the Center for
 My resreach interests are focused on computational methods and machine learning algorithms for problems in biomedical imaging and bioengineering. Precisely, I am developing computational electromagnetic simulation tools based on integral equation methods and numerical linear algebra algorithms (matrix & tensor decompositions). I am using these algorithms for radiofrequency coil design, parallel magnetic resonance imaging and electrical property tomography. Other areas that I highly interested in are inverse problems and deep learning.
 
 
-[giann5-eps-converted-to.pdf](https://github.com/GiannakopoulosIlias/GiannakopoulosIlias.github.io/files/8474421/giann5-eps-converted-to.pdf)
-[giann1-eps-converted-to.pdf](https://github.com/GiannakopoulosIlias/GiannakopoulosIlias.github.io/files/8474423/giann1-eps-converted-to.pdf)
-[tumor_segmentation_rev-eps-converted-to.pdf](https://github.com/GiannakopoulosIlias/GiannakopoulosIlias.github.io/files/8474435/tumor_segmentation_rev-eps-converted-to.pdf)
+
+![Merged_document](https://user-images.githubusercontent.com/24252683/163002285-be82312e-3789-413f-ad97-8c0da6110745.png)
