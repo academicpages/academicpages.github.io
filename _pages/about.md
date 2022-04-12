@@ -33,7 +33,7 @@ April 6, 2022, Conversation with Professor Chris Bail at Duke University, Direct
 ## New Paper Alert
 Hao Lin, Pradeep Nalluri, Lantian Li, Yifan Sun, and Yongjun Zhang. 2022. "[Multiplex Anti-Asian Sentiment before and during the Pandemic: Introducing New Datasets from Twitter Mining](https://osf.io/xtw4c/)." 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis.
 
-Yongjun Zhang, Sienna Thorgusen, and Xinguang Fan. 2022. "News Coverage of Social Protests in Global Society." International Journal of Comparative Sociology.
+Yongjun Zhang, Sienna Thorgusen, and Xinguang Fan. 2022. "[News Coverage of Social Protests in Global Society](https://doi.org/10.1177/00207152221085601)." International Journal of Comparative Sociology.
 
 Yongjun Zhang. 2021. "[Corporate Responses to COVID19: A Non-Market Strategy Approach](https://doi.org/10.1177/07311214211017587)." Sociological Perspectivies.
 
