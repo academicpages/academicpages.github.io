@@ -28,7 +28,7 @@ Email: wang dot dian at northeastern dot edu
 ![](images/equi_transporter.png){: .align-right width="200px"}
 **Equivariant Transporter Network**  
 Haojie Huang, **Dian Wang**, Robin Walters, Robert Platt  
-*Preprint*  
+*RSS 2022, New York City, New York, USA*  
 [(Webpage)](https://haojhuang.github.io/etp_page/)[(PDF)](https://arxiv.org/pdf/2202.09400.pdf)[(Code)](https://github.com/HaojHuang/Equivariant-Transporter-Net)
 ` `  
 ` `  
@@ -36,7 +36,7 @@ Haojie Huang, **Dian Wang**, Robin Walters, Robert Platt
 ![](images/rss_grasp.jpeg){: .align-right width="200px"}
 **Sample Efficient Grasp Learning Using Equivariant Models**  
 Xupeng Zhu, **Dian Wang**, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt  
-*Preprint*  
+*RSS 2022, New York City, New York, USA*  
 [(Webpage)](https://zxp-s-works.github.io/equivariant_grasp_site/)[(PDF)](https://arxiv.org/pdf/2202.09468.pdf)[(Video)](https://youtu.be/au59crsgiKw)[(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)
 ` `  
 ` `  
