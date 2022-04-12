@@ -18,7 +18,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Works in Progress
+## Dormant
 
 **Scale of Truth: How Ideology Affects What NGO Tweets about What Is Happening in Gaza**
   
