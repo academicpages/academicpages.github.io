@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jaehoon Cho"
 title_separator          : "-"
 name                     : &name "Jaehoon Cho"
-description              : &description "Ph.D. Student at Yonsei"
+description              : &description "Senior Research Engineer"
 url                      : https://jhcho90.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jhcho90/jhcho90.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Jaehoon Cho"
   avatar           : "https://jhcho90.github.io/images/profile_jh.jpg"
-  bio              : "Ph.D. Student at Yonsei University."
-  location         : "Yonsei University, Seoul"
+  bio              : "Senior Research Engineer"
+  location         : "Hyundai Motor Company, Seoul"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=5ixrVS8AAAAJ&hl=ko"
-  email            : rehoon@yonsei.ac.kr
+  email            : jh.cho@hyundai.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
