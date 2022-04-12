@@ -42,7 +42,7 @@ Journal paper
 
 Conference paper
 ------
-1. **Canqi Yao**, Shibo Chen, Mauro Salazar, and Zaiyue Yang.“Incentive-aware Electric Vehicle Routing Problem: a Bi-level Model and a Joint Solution Algorithm” The 2022 American Control Conference (ACC) [[link]](https://arxiv.org/abs/2110.06441).
+1. **Canqi Yao**, Shibo Chen, Mauro Salazar, and Zaiyue Yang.“Incentive-aware Electric Vehicle Routing Problem: a Bi-level Model and a Joint Solution Algorithm” The 2022 American Control Conference (ACC) [[link]](https://arxiv.org/abs/2110.06441)[[slides]](https://drive.google.com/file/d/1Zbs_XFauiDLkBt2a0Hcx1b3zB8M22Tvj/view?usp=sharing).
 2. **Canqi Yao**, Shibo Chen, and Zaiyue Yang."Evacuation Problem Under the Nuclear Leakage Accident." 2021 40th Chinese Control Conference (CCC). IEEE, 2021.[[link]](https://ieeexplore.ieee.org/document/9549934)[[poster]](https://drive.google.com/file/d/1wSui_pT8jHNKOOIKA6uj6N5EAo1MJcAJ/view?usp=sharing)
 
 
