@@ -4,6 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/tutorial3
 venue: "ISMRM Annual Meeting & Exhibition"
-date: 2021
+date: 2021-01-01
 location: "Online"
 ---
