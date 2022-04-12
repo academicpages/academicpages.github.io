@@ -23,7 +23,7 @@ Relevant working experience
 
 * Summer 2018: Research Intern
   * Development and Policies Research Center (DEPOCEN)
-  * Duties included: Collected and cleaned data, conducted analyses, performed literature reviews\\ and helped with project reports.
+  * Duties included: Collected and cleaned data, conducted analyses, performed literature reviews and helped with project reports.
 
   
 
