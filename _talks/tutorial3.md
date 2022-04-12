@@ -1,9 +1,9 @@
 ---
 title: "Decomposition of the incomplete volume-surface integral equation matrices for MR coil simulations"
 collection: talks
-type: "Talk"
+type: "Digital Talk"
 permalink: /talks/tutorial3
 venue: "ISMRM Annual Meeting & Exhibition"
-date: 2021-01-01
+date: 2021-05-01
 location: "Online"
 ---
