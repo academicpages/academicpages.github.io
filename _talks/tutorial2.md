@@ -4,6 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/tutorial2
 venue: "ISMRM Workshop on Ultra-High Field MR"
-date: 2022
+date: 2022-01-01
 location: "Lisbon, Portugal"
 ---
