@@ -1,7 +1,7 @@
 ---
 title: "PhD Thesis Mentoring"
 collection: teaching
-type: "Graduate course"
+type: " "
 permalink: /teaching/teaching1
 venue: "New York University, Grossman School of Medicine, Department of Radiology"
 date: 2021-06-01
