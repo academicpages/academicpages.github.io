@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Using genetics to prioritize diagnoses for rheumatology outpatients with inflammatory arthritis"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://www.science.org/doi/10.1126/scitranslmed.aay1548
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2020-May-27
+venue: 'Science Translational Medicine'
+paperurl: 'https://www.science.org/doi/10.1126/scitranslmed.aay1548'
+citation: 'Knevel, R. (2020). &quot;Using genetics to prioritize diagnoses for rheumatology outpatients with inflammatory arthritis.&quot; <i>Science Translational Medicine</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[View paper here](https://www.science.org/doi/10.1126/scitranslmed.aay1548)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Knevel, R. (2020). "Using genetics to prioritize diagnoses for rheumatology outpatients with inflammatory arthritis." <i>Science Translational Medicine</i>. 1(1).
