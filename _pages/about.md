@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in electrical and electronic engineering at Yonesei University, advised by [Prof. Kwanghoon Sohn](http://diml.yonsei.ac.kr/professor/). 
 
-I am a computer vision fanatic and like the researches that could directly be applied to real-world problems. I am interested in a wide array of topics, ranging from low-level vision to high-level vision, and their connections to autonomous driving assistance systems. Recently, I have been thinking more from the 3D perspective.
 
-Here's my [CV](https://jhcho90.github.io/files/Jaehoon_CV.pdf).
+I am a senior research engineer at Hyudai Motor Company, South Korea. I received Ph.D. from Yonesei University, advised by [Prof. Kwanghoon Sohn](http://diml.yonsei.ac.kr/professor/). 
+
+I am a computer vision fanatic and like the researches that could directly be applied to real-world problems. I am interested in a wide array of topics, ranging from low-level vision to high-level vision, and their connections to autonomous driving assistance systems. Recently, I have been thinking more from the 3D perspective. Here's my [CV](https://jhcho90.github.io/files/Jaehoon_CV.pdf).
+
+
 
  <br/>
  <br/>
