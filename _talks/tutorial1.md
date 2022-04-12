@@ -4,6 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/tutorial1
 venue: "ISMRM Annual Meeting & Exhibition"
-date: 2022
+date: 2022-01-01
 location: "London, UK"
 ---
