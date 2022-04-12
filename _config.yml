@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ilias Giannakopoulos, PhD"
 title_separator          : "-"
 name                     : &name "Ilias Giannakopoulos"
-description              : &description "personal description"
+description              : &description "This is the personal website of Dr. Ilias Giannakopoulos"
 url                      : https://GiannakopoulosIlias.github.io # the base hostname & protocol for your site e.g. "https://GiannakopoulosIlias.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GiannakopoulosIlias/GiannakopoulosIlias.github.io"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "ilias.giannakopoulos@nyulangone.org"
+    email                : "md5"
   generatedFields:
     date:
       type               : "date"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &IliasGiannakop3
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ilias Giannakopoulos"
+  name             : "Ilias Giannakopoulos, PhD"
   avatar           : "profile_pic.jpg"
   bio              : "Postdoctoral Fellow, New York University Grossman School of Medicine"
   location         : "New York, NY, 10016"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Giannakopoulos+II&cauthor_id=35110782"
   googlescholar    : "https://scholar.google.com/citations?user=6Zpd1esAAAAJ&hl=en"
-  email            :
+  email            : "ilias.giannakopoulos@nyulangone.org"
   researchgate     : "https://www.researchgate.net/profile/Ilias-Giannakopoulos"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "ilias-giannakopoulos-1051b7184"
+  linkedin         : "https://www.linkedin.com/in/ilias-giannakopoulos-1051b7184"
   orcid            : "https://orcid.org/0000-0003-2180-5898"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "IliasGiannakop3"
+  twitter          : "@IliasGiannakop3"
   vine             :
   weibo            :
   xing             :
