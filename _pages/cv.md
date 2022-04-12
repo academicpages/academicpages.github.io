@@ -57,3 +57,6 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+[Ilias_Giannakopoulos_Bio.pdf](https://github.com/GiannakopoulosIlias/GiannakopoulosIlias.github.io/files/8475310/Ilias_Giannakopoulos_Bio.pdf)
+
