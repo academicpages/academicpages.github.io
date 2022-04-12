@@ -4,6 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/tutorial7
 venue: "3rd Annual Skoltech-MIT Conference, “Collaborative Solutions for Next Generation Education, Science and Technology"
-date: 2018
+date: 2018-01-01
 location: "Moscow, Russian Federation"
 ---
