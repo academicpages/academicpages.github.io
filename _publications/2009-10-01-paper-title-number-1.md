@@ -8,7 +8,3 @@ venue: '2021 International Applied Computational Electromagnetics Society Sympos
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9528694'
 citation: 'Giannakopoulos, Ilias I., et al. "A Tensor Train Compression Scheme for Remote Volume-surface Integral Equation Interactions." 2021 International Applied Computational Electromagnetics Society Symposium (ACES). IEEE, 2021.'
 ---
-
-[Download paper here](https://ieeexplore.ieee.org/abstract/document/9528694)
-
-Recommended citation: Giannakopoulos, Ilias I., et al. "A Tensor Train Compression Scheme for Remote Volume-surface Integral Equation Interactions." 2021 International Applied Computational Electromagnetics Society Symposium (ACES). IEEE, 2021.
