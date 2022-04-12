@@ -26,15 +26,6 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -54,9 +45,25 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Services and Affiliations
 ======
-* Currently signed in to 43 different slack teams
+* 11/2019-now       Trainee Member, ISMRM
+* 01/2014-12/2016   Member, IEEE
+* 03/2021–now       Volunteer for knee MRI scans at NYU Center for Biomedical Imaging, New York, NY, USA.
+* 03/2014–06/2014   Organizer of student presentation meeting for "Quantum Mechanics" course, ECE, AuTh.
+  
+Languages
+======
+* Hellenic  Native Speaker
+* English   Fully Proficient
+  * IELTS (2011)
+  * ECCE, University of Michigan (2006)
+* French    Working Knowledge
+  * Delf B1/A2/A1
 
-[Ilias_Giannakopoulos_Bio.pdf](https://github.com/GiannakopoulosIlias/GiannakopoulosIlias.github.io/files/8475310/Ilias_Giannakopoulos_Bio.pdf)
-
+Computer and Software skills
+======
+* OS:              GNU/Linux (Ubuntu, CentOS), Windows.
+* Software:        LATEX, Gmsh, Slurm, LibreOffice.
+* CEM Software:    MARIE, CST, Sonnet, 4NEC2, WIPL-D, PSpice.
+* Prog. Languages: MATLAB, Python (PyTorch), C, C ++, CUDA, Julia.
