@@ -2,7 +2,7 @@
 title: "Mahine learning: an introduction"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2023-spring-machine-learning-an-intro.md
+permalink: /teaching/2023-spring-machine-learning-an-intro
 venue: "Mines Saint-Étienne"
 date: 2023-01-01
 location: "Saint Etienne, France"
