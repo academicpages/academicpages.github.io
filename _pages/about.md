@@ -12,7 +12,8 @@ I am a DPhil student in Mathematical Institute at the University of Oxford under
 
 
 
-* Research interests: 
+**Research interests:** 
 
 Pathwise methods in stochastic analysis: Föllmer-Itô calculus,  'roughness' of functions.
+
 Roughness in finance: Rough volatility, Microstructure noise.
