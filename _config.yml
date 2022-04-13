@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nikolaos Alexopoulos"
 title_separator          : "-"
 name                     : &name "Nikolaos Alexopoulos"
-description              : &description "Researcher at TU Darmstadt"
+description              : &description "Postdoctoral researcher at TU Darmstadt"
 url                      : https://www.alexopoulos.ch # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nikalexo.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nikolaos Alexopoulos"
   avatar           : "profile.png"
-  bio              : "Researcher at TU Darmstadt, working towards a PhD. Interested in security and privacy."
+  bio              : "Postdoctoral researcher at TU Darmstadt. Interested in security & privacy and distributed systems."
   location         : "Darmstadt, Germany"
   employer         :
   pubmed           : 
