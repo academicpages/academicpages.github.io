@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[CV](../files/CV.pdf)
+Please find my [CV](../files/CV.pdf) here.
 
 <!--
 Education
