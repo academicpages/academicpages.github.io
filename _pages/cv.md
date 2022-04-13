@@ -11,7 +11,7 @@ redirect_from:
 
 <br> 
 
-Click here for a [full CV](http://lilianyou.github.io/files/You_Cheng_CV_March_10_2022.pdf) (or a shorter [Resume](http://lilianyou.github.io/files/You_Cheng_Resume.pdf)).
+<!--- Click here for a [full CV](http://lilianyou.github.io/files/You_Cheng_CV_March_10_2022.pdf) (or a shorter [Resume](http://lilianyou.github.io/files/You_Cheng_Resume.pdf)). --->
 
 Education
 ======
@@ -22,7 +22,7 @@ Education
 
 
 
-Work experience
+<!--- Work experience
 ======
 * [Data Science Instructor](https://www.coursera.org/instructor/you-lilian-cheng) for Guided Projects, Coursera Inc.                              Aug. 2020 – Feb. 2022
 
@@ -32,7 +32,7 @@ Work experience
   
 * Teaching Assistant, [Neuromatch Academy Inc.](https://www.neuromatchacademy.org/)                              June 2020 – July 2020
   
-* Data Science Intern, [National Center for Ecological Analysis and Synthesis (NCEAS)](https://www.nceas.ucsb.edu/).                              June 2019 – Sept. 2019
+* Data Science Intern, [National Center for Ecological Analysis and Synthesis (NCEAS)](https://www.nceas.ucsb.edu/).                              June 2019 – Sept. 2019  --->
 
 
 
