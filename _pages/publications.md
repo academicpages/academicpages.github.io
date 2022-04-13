@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-* R. Cont, P. Das. _Quadratic variation and quadratic roughness_. [Arxiv]( https://arxiv.org/abs/1907.03115 )
-
 * R. Cont, P. Das. _Measuring roughness of signals_. [Working paper]()
 
 * R. Cont, P. Das. _Rough Volatility: fact or artifact?_. [Arxiv](https://arxiv.org/abs/2203.13820)
