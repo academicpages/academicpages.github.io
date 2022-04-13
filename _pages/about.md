@@ -13,6 +13,4 @@ Hi, welcome to my personal website! I am a postdoctoral fellow at the Center for
 My resreach interests are focused on computational methods and machine learning algorithms for problems in biomedical imaging and bioengineering. I am developing computational electromagnetic simulation tools based on integral equation methods and numerical linear algebra algorithms (matrix & tensor decompositions) for radiofrequency coil design, parallel magnetic resonance imaging and electrical property tomography. Other areas that I am highly interested in are inverse problems in physics and deep learning algorithms.
 
 
-
-![Merged_document](https://user-images.githubusercontent.com/24252683/163002410-72db1d25-d53c-4134-9743-3cc61f4d8d00.png)
-
+![about_figure_1](https://user-images.githubusercontent.com/24252683/163206288-3f1c8753-a9b8-45dc-ae00-4941877bba45.png)
