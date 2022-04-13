@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a DPhil student in Mathematical Institute at the University of Oxford under the supervison of Professor Rama Cont. I received my Bachelor’s and Master's degree in Mathematics from Chennai Mathematical Institute, India in 2016 and 2018 respectively. 
+I am a DPhil student in Mathematical Institute at the University of Oxford under the supervison of Professor Rama Cont. I received my Bachelor’s degree in Mathematics and Computer Science from Chennai Mathematical Institute, India in 2016 and Master's degree in Applied Mathematics  from Chennai Mathematical Institute, India in 2018. 
 
 
 
