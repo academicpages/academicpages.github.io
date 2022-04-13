@@ -29,7 +29,7 @@ publist = {
     "proceeding": {
         "file" : "publications.bib",
         "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
+        "venue-pretext": "In ",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"}
         
