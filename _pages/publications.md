@@ -15,7 +15,7 @@ author_profile: true
 
 * P. Das, T. Parthasarathy, G. Ravindran. _On Completely Mixed Stochastic Games_. [Arxiv](https://arxiv.org/abs/1703.04619)
 
-* P. Das, S. Das, A. Lahiri. _Understanding Sea Ice Melting via Functional Data Analysis_. [Semanticscholar](https://www.jstor.org/stable/26978320?seq=1)
+* P. Das, S. Das, A. Lahiri. _Understanding Sea Ice Melting via Functional Data Analysis_. [Current Science](https://www.jstor.org/stable/26978320?seq=1)
 
  
  
