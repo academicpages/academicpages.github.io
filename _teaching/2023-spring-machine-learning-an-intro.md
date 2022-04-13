@@ -8,52 +8,56 @@ date: 2023-01-01
 location: "Saint Etienne, France"
 ---
 
-## COURSE 1: Introduction to Machine Learning
+## Mahine learning: an introduction (Master 1), Master’s Degree in Management Science, 2022/2023, 18h.
+
+## COURSE 1: Introduction to Machine Learning (3h)
+#### Lecture (1h)
 - Overview
 - Introduction & Context
 - Machine Learning: Basics
-
-#### Additional resources 
+#### Practical Session (2h)
 - Python environment preparation
+- Ipython and jupyter notebook
 - Validation of your environment
 
-## COURSE 2: Unsupervised Learning
+## COURSE 2: Unsupervised Learning (3h)
+#### Lecture (1h)
 - K-Means
 - Expectation Maximization (EM)
 - Principal Component Analysis
+#### Practical Session (2h)
+- K-Means.ipynb
+- EM algorithm.ipynb
+- Principal Component Analysis.ipynb
 
-#### Additional resources (Jupyter Notebooks)
-- K-Means 
-- EM algorithm
-- Principal Component Analysis
-
-## COURSE 3: Supervised Learning
+## COURSE 3: Supervised Learning (3h)
+#### Lecture (1h)
 - Definition & concepts
 - Decision Tree
 - Naive Bayes Classifier
 - Logistic Regression
 - Support Vector Machine
+#### Practical Session (2h)
+- Decision Tree.ipynb
+- Naive Bayes Classifier.ipynb
+- Logistic Regression.ipynb
+- Support Vector Machine.ipynb
+- overfitting and underfitting.ipynb
 
-#### Additional resources (Jupyter Notebooks)
-- Decision Tree
-- Naive Bayes Classifier
-- Logistic Regression
-- Support Vector Machine
-- overfitting and underfitting 
-
-## COURSE 4: An introduction to Deep learning 
+## COURSE 4: An introduction to Deep learning (3h)
+#### Lecture (1h)
 - Representation learning
 - Perceptron
 - Feedforward networks
 - Introduction to a Bridging course: Advanced Deep Learning 
+#### Practical Session (2h)
+- CNN.ipynb
+- RNN.ipynb
 
-#### Additional resources (Jupyter Notebooks)
-- CNN
-- RNN
-
-## COURSE 5: Practical Session / Project 
+## COURSE 5: Project (6h)
+#### Lecture (aobout 15 mins)
 - Introduction
 
-#### Additional resources
+####  Practical Session (2h45 + 3h = 5h 45mins)
 - Dataset.zip
 - Project_description.pdf
