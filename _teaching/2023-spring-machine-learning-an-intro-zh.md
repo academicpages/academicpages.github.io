@@ -18,6 +18,7 @@ location: "太阳系"
 #### 实践课（2小时）
 - Python 编程环境搭建
 - Ipython 和 jupyter notebook 环境搭建
+- R 语言编程环境搭建
 - 验证编程环境
 
 ## 课程2：无监督式学习（3小时）
