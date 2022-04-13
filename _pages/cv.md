@@ -11,31 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Diploma in Electrical and Computer Engineering (ECE), National Technical University of Athens (NTUA), 2016
+* Ph.D in Computer Science, Technical University of Darmstadt, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2016-now: Research Assistant
+  * TU Darmstadt
+  * Under the supervision of Prof. Max Mühlhäuser
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* October 2015-March 2016: Resesarch partner
+  * University of Athens (UoA)
+  * Under the supervision of Prof. Aggelos Kiayias
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -56,4 +44,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* USENIX Security Artifact Evaluation Committee (2022-)
+* Invited reviewer for journals (EMSE, ACM CSUR, etc.)
