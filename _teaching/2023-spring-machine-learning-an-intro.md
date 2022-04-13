@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "Saint Etienne, France"
 ---
 
-## Mahine learning: an introduction (Master 1), Master’s Degree in Management Science, 2022/2023, 18h.
+Master 1, Master’s Degree in Management Science, 2022/2023, 18h.
 
 ## COURSE 1: Introduction to Machine Learning (3h)
 #### Lecture (1h)
