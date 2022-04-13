@@ -5,10 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+* R. Cont, P. Das. _Quadratic variation and quadratic roughness_. [Arxiv]( https://arxiv.org/abs/1907.03115 )
 
 * R. Cont, P. Das. _Quadratic variation and quadratic roughness_. [Arxiv]( https://arxiv.org/abs/1907.03115 )
 
 * R. Cont, P. Das. _Functions with quadratic variation along refining partitions_. [Arxiv]( https://arxiv.org/abs/2109.12635 ) 
+
+* R. Cont, P. Das. _Quadratic variation and quadratic roughness_. [To appear: Bernolli]( https://arxiv.org/abs/1907.03115 )
 
 * P. Das, T. Parthasarathy, G. Ravindran. _On Completely Mixed Stochastic Games_. [Arxiv](https://arxiv.org/abs/1703.04619)
 
