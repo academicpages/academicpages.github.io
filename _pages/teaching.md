@@ -9,7 +9,9 @@ Tutor:  B8.1 Probability, Measure and Martingales, B8.2 Continuous Martingales a
 
 Teaching Assistants: B8.1 Probability, Measure and Martingales, B8.2 Continuous Martingales and Stochastic Calculus,  C8.1 Stochastic Differential Equations, C6.2 Continuous Optimisation,  Part C (MCF) Optimisation.
 
-College Tutor: B8.2 Continuous Martingales and Stochastic Calculus in Mansfield College.
+Oxford college Tutor: B8.2 Continuous Martingales and Stochastic Calculus in Mansfield College.
+
+Oxford College TA: A4: Integration in Queens college.
 
 Previous Teaching Assistants: Game Theory,  Regression and Classification, Optimisation techniques,  Financial Risk Management.
 
