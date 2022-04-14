@@ -25,4 +25,9 @@ author_profile: true
     {% endif %}
   {% endfor %}
 
-
+<h2>Thesis</h2>
+  {% for post in site.publications reversed %} 
+    {% if post.pubtype == 'thesis' %} 
+      {% include archive-single.html %} 
+    {% endif %}
+  {% endfor %}
