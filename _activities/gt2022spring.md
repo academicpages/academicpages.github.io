@@ -22,7 +22,7 @@ author_profile: false
 |Tu, Apr 5, 2022| 8:00pm - 9:00pm | Mark McLean | Complex cobordism, Hamiltonian loops and global Kuranishi charts | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Apr 7, 2022| 1:30pm - 2:30pm | Gleb Smirnov | Symplectic topology of K3 surfaces via Seiberg-Witten invariants | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Apr 14, 2022| 1:30pm - 2:30pm | Jonathan Zhu | Waists, widths and symplectic embeddings | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
-|Th, Apr 21, 2022| 1:30pm - 2:30pm | Martin Lesourd |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
+|Th, Apr 21, 2022| 1:30pm - 2:30pm | Martin Lesourd | Positive Scalar Curvature without Compactness - Mass, Geometry, and Topology | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 |Th, Apr 28, 2022| 1:30pm - 2:30pm |  |  |  [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342)
 
 ## Abstracts
@@ -72,3 +72,7 @@ Weyl law constant in dimension 2.
 
 * Jonathan Zhu
   * Waists and widths measure the size of a manifold with respect to measures of families of submanifolds. We’ll discuss related area estimates for minimal submanifolds, as well as applications to quantitative symplectic camels.
+
+* Martin Lesourd
+  *  The study of Positive Scalar Curvature (PSC) is rich in open problems. I'll discuss two of these: ''what topologies are compatible with PSC?'', and ''what is the geometry of PSC?''. Both of these are related to the Positive Mass Theorem, which I'll also discuss. The basic set of results I'll present concerns the removal of the compactness assumption that has been more or less ubiquitous in studies on the topology and geometry of PSC. Without compactness, many of the classic techniques pioneered in the 1970s-80s don't seem to work. Spearheaded by a flurry of papers on PSC by M.Gromov, a certain variant of the classic geometric technique of Schoen-Yau 1979 has come to the fore and allowed generalizations of several classic results which I'll discuss. This is based on joint work over 4 papers, 2 with R.Unger and S-T. Yau, and 2 with R.Unger and D.Lee.
+
