@@ -1,7 +1,7 @@
 ---
 title: 'Zeus: locality aware distributed transactions'
 date: 2022-04-10
-permalink: /posts/2022/10/zeus-locality-aware-txns/
+permalink: /posts/2022/04/zeus-locality-aware-txns/
 tags:
   - Locality
   - Transactions
