@@ -18,12 +18,12 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
-    
+
+  - title: "Outreach"
+    url: /outreach/
+
   - title: "CV"
     url: /cv/
-
-- title: "Outreach"
-    url: /outreach/
 
   - title: "Contact"
     url: /contact/
