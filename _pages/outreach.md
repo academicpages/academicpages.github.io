@@ -7,8 +7,8 @@ author_profile: true
 
 *Page under construction.*
 
-# Authored
+## Authored
 
-# Featured
+## Featured
 
-# Covered
+## Covered
