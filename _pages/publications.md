@@ -13,8 +13,8 @@ author_profile: true
 
 ## Journal Publications
 
-- **Tianli Liao** and Nan Li. [Single-Perspective Warps in Natural Image Stitching](https://ieeexplore.ieee.org/abstract/document/8802274). IEEE Transactions on Image Processing (TIP), 29, 724-735, 2019.  
-[Project page](https://tlliao.github.io/projects/2019-spw) - 
+- **Tianli Liao** and Nan Li. [Single-Perspective Warps in Natural Image Stitching](https://ieeexplore.ieee.org/abstract/document/8802274). IEEE Transactions on Image Processing (TIP), 29, 724-735, 2020.  
+[Project page](https://tlliao.github.io/projects/2020-spw) - 
 [Code](https://github.com/tlliao/Single-perspective-warps)   
 
 - **Tianli Liao**, Jing Chen and Yifang Xu. [Quality evaluation-based seam estimation for image stitching](https://link.springer.com/article/10.1007/s11760-019-01466-9). Signal, Image and Video Processing (SIViP), 13(6), 1199-1206, 2019.       
