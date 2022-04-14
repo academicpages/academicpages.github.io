@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Logos"
+title: "LDA Community Logos"
 permalink: /logos/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-# LDA Community Logos
 
 The LDA Community logo is available here for download in web and print compatible formats. 
 The LDA Community encourages scientists who are producing websites, written meeting documents or special issues of peer reviewed publications that have 
