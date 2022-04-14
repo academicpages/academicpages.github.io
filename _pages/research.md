@@ -17,7 +17,5 @@ International status: concept meets measurement (with Lauren Ferry) (<a href= "h
 
 Populism, Promises, and Aid Withdrawal: The Case of 'Kosova e Re' (<a href= "https://cobrienudry.github.io/files/aid_withdrawal_parties.pdf">draft</a>)
 
-How Aid, Visibility, and Volatility Affect Incumbents: Evidence from Kosovo (email for draft)
-
-Race and the International Status Quo (with Lauren Ferry) (email for draft)
+Whose aid? Credit-attribution for foreign aid amongst ethnic minorities (<a href="https://cobrienudry.github.io/files/ethnic_minority_aidApr2022.pdf">draft</a>)
 
