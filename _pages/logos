@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Land DA Community Logos"
+permalink: /logos/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+The LDA Community logo is available here for download in web and print compatible formats. 
+The LDA Community encourages scientists who are producing websites, written meeting documents or special issues of peer reviewed publications that have 
+been supported in part by the LDA Community or constitute contributions to the LDA Community program, to use our logo on these products. 
+
