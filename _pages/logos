@@ -13,3 +13,19 @@ The LDA Community logo is available here for download in web and print compatibl
 The LDA Community encourages scientists who are producing websites, written meeting documents or special issues of peer reviewed publications that have 
 been supported in part by the LDA Community or constitute contributions to the LDA Community program, to use our logo on these products. 
 
+import io
+
+from PIL import Image  # https://pillow.readthedocs.io/en/4.3.x/
+import requests  # http://docs.python-requests.org/en/master/
+
+
+# example image url: https://aimesproject.org/wp-content/uploads/2022/04/4hex-13.jpg
+def download_image(url, image_file_path):
+    r = requests.get(url, timeout=4.0)
+    if r.status_code != requests.codes.ok:
+        assert False, 'Status code error: {}.'.format(r.status_code)
+
+    with Image.open(io.BytesIO(r.content)) as im:
+        im.save(image_file_path)
+
+    print('Image downloaded from url: {} and saved to: {}.'.format(url, image_file_path))
