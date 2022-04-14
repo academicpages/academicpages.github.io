@@ -5,6 +5,15 @@ title: "Publications"
 author_profile: true
 ---
 
+## Radical Artifactualism.<br>*European Journal for Philosophy of Science*, forthcoming. (Link coming soon) <img align="right" src="https://gui-cogsci.github.io/images/epsa.jpg" width="130">
+>  A powerful idea put forward in the recent philosophy of science literature is that scientific models are best understood as instruments, tools or, more generally, artifacts. This idea has thus far been developed in combination with the more traditional representational approach: accordingly, current artifactualist accounts treat models as representational tools. But artifactualism and representationalism are independent views, and adopting one does not require acceptance of the other. This paper argues that a leaner version of artifactualism, free of representationalist assumptions, is both desirable and viable. Taking seriously the idea that models are artifacts can help us philosophically to make sense of how and why scientific modeling works even without reference to representation.
+> 
+> KEYWORDS: scientific modeling; representation; tool use; material engagement; pragmatism
+>
+>> Sanches de Oliveira, G. (forthcoming)  Radical Artifactualism. *European Journal for Philosophy of Science*.
+
+<br><br>
+
 
 ## Pragmatism.<br>*The Palgrave Encyclopedia of the Possible*, forthcoming. (Link coming soon) <img align="right" src="https://gui-cogsci.github.io/images/palgrave-encyclopedia.png" width="130">
 >  Pragmatism is a school of thought popularized in the beginning of the twentieth century by American psychologist and philosopher William James. Although most widely known (and criticized) for its theory of truth, pragmatism is a far broader position, connecting to issues in psychology, education, ethics, religion, and politics. This entry gives an overview of pragmatism particularly as developed by James. It begins by describing pragmatism’s historical development and presenting the pragmatist contribution to philosophical debates about truth. From this, the entry moves to discussing pragmatism’s broader significance, and it does so by highlighting how pragmatism’s emphasis on practical effects relates to cognitive and existential possibilities: Our habits both limit and enable the range of behaviors available to us, but they can also be worked on so as to bring us closer to better possibilities, including possibilities for our own personal development and for making life more meaningful, as well as possibilities for how we approach life in society.
