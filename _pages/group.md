@@ -4,8 +4,7 @@ title: "Group"
 permalink: /group/
 author_profile: true
 redirect_from: 
-  - /group/
-  - /group.html
+  - /group
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
