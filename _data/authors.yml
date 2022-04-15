@@ -4,12 +4,12 @@ Name Name:
   name        : "Rachel Knevel"
   uri         : "http://name.com"
   email       : "r.knevel@lumc.nl"
-  bio         : "Mother Superior"
+  bio         : "PI"
   avatar      : "Rachel.jpg"
 
 
 Name2 Name2:
   name        : "Marc Maurits"
   email       : "marcmaurits@msn.com"
-  bio         : "Primo PhD-o"
+  bio         : "PhD"
   avatar      : "Marc.jpg"
