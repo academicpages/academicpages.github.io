@@ -6,11 +6,11 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Group"
+    url: /group/    
     
-  - title: "CV"
-    url: /cv/
+  - title: "Applications"
+    url: /applications/
     
   - title: "Guide"
     url: /markdown/

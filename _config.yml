@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rachel Knevel"
   avatar           : "Rachel.jpg"
-  bio              : "Mother Superior of the Knevel Lab"
+  bio              : "Principle Investigator of the Knevel Lab"
   location         : "Leiden, The Netherlands"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=rachel+knevel"
@@ -237,6 +237,14 @@ defaults:
       share: true
       comment: true
   # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  # _applications
   - scope:
       path: ""
       type: talks
