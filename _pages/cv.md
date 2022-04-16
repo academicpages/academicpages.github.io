@@ -25,15 +25,23 @@ ICAI'18 session chair
 
 Reviewer
 ======
-- NSF Ad-hoc reviewer 2018
+- National Science Foundation Panelist 2018
 - International Journal of Electrical Power & Energy Systems, Outstanding Reviewer, 2017-19
-- IEEE Transactions on Big Data, 2019
+Ranked #4 in Power Engineering by Google Scholar
 - IEEE Transactions on Information Forensics & Security, 2016, 2018
-- IEEE Transactions on Automation Science and Engineering,  2017
-- IEEE INFOCOM'14 2014
-- IEEE Transactions on Cloud Computing  2013
-- IEEE Transactions on Neural Networks and Learning Systems 2013
+Impact Factor = 4.332. Ranked #3 in Computer Security & Cryptography and ranked #5 in Signal Processing by Google Scholar
 - Information Science 2013-2019
+Impact Factor = 4.832. Ranked #5 in Engineering & Computer Science (general) by Google Scholar
+- Computer Standards & Interfaces, 2017
+- IEEE Transactions on Big Data, 2019
+- IEEE Transactions on Automation Science and Engineering, 2017
+- IEEE Network Magazine 2016
+- IEEE INFOCOM'14 2014
+- IEEE Transactions on Cloud Computing 2013
+- Journal of Computer 2013
+- IEEE Transactions on Neural Networks and Learning Systems 2013
+Impact Factor = 6.108. Ranked #6 in Artificial Intelligence by Google Scholar
+
 
 Membership
 ======
@@ -41,6 +49,7 @@ Membership
 - IEEE Cybersecurity Community
 - IEEE Computer Society Technical Committee on Security and Privacy
 - IEEE Computer Society Technical Community on Smart Grid
+- IEEE Internet of Things Community
 
 
 University/College/Department Service
@@ -59,4 +68,3 @@ Community Service
 - OLLi (Osher Lifelong Learning Institute), volunteer instructor, Tuscaloosa AL, 2016 Summer & Fall
 - Hour of Code, Tuscaloosa AL, 2017 Summer
 - Robotics training and contest for K-12 students, Tuscaloosa AL, 2017 Summer
-
