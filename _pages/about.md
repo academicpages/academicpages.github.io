@@ -25,8 +25,8 @@ Please also find more information from my
 
 News
 ------
-- Mac 15: A new [preprint](https://arxiv.org/abs/2203.06791) is now available on ArXiv.
-- Mac 10: Our paper has been accepted to [SIGMOD 2022](https://2022.sigmod.org/sigmod_research_list.shtml)! Here is the [ArXiv](https://arxiv.org/abs/2204.03919) version.
+- Apr 16: [Our paper](https://arxiv.org/abs/2203.06791) has been accepted to [VLDB 2022](https://vldb.org/2022/).
+- Mac 10: Our paper has been accepted to [SIGMOD 2022](https://2022.sigmod.org/sigmod_research_list.shtml). Here is the [ArXiv](https://arxiv.org/abs/2204.03919) version.
 - Feb 2: [Our paper](https://openreview.net/forum?id=M6M8BEmd6dq) has been accepted to [ICLR 2022](https://iclr.cc/). Here is the [press release](https://linecorp.com/en/pr/news/en/2022/4123).
 <!-- - Oct 5: New [preprint](https://arxiv.org/abs/2110.00708) of our IJCB paper is now available on ArXiv.  -->
 <!-- - July 24: Our [IJCB paper](https://ieeexplore.ieee.org/document/9484380) is now available. -->
