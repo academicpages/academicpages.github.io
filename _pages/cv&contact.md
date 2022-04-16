@@ -4,9 +4,9 @@ permalink: /cv&contact/
 author_profile: true
 ---
 
-[English CV [PDF]](https://ieeexplore.ieee.org/author/37088527349)
+[Acdemic CV [PDF]](https://github.com/hechen95/hechen95.github.io/raw/master/files/cv/HE_acdemic_cv.pdf)
 
-[Chinese CV [PDF]](https://ieeexplore.ieee.org/author/37088527349)
+[Professional CV [PDF]](https://github.com/hechen95/hechen95.github.io/raw/master/files/cv/HE_professional_cv.pdf)
 
 # Contact
 Departement of Healthcare Engineering, <br>
