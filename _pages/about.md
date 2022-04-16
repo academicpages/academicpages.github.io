@@ -80,7 +80,7 @@ Publications
 			<br/>
 			Siyuan Cao, <b>Habiba Farrukh</b>, He Wang
 			<br/>
-			IEEE International Conference on Computer Communications (InfoCom '20) <a href="/files/Context.pdf">[Paper]</a>, <a href="https://www.cs.purdue.edu/homes/cao208/files/context_address_siyuan_cao-uploaded.mp4">[Video]</a>
+			IEEE International Conference on Computer Communications (InfoCom '20) <a href="/files/Context.pdf">[Paper]</a>
 			<br/>
 	</li>
 </ul>
@@ -91,7 +91,7 @@ Publications
 			<br/>
 		Siyuan Cao, <b>Habiba Farrukh</b>, He Wang
 			<br/>
-			18th ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys '18), <a href="/files/PHADE.pdf">[Abstract]</a>, <a href="https://www.cs.purdue.edu/homes/cao208/files/phade_poster_mobisys18.pdf">[Poster]</a>, <a href="https://www.youtube.com/watch?time_continue=4&v=eUvslFNlLnM">[Video]</a>
+			18th ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys '18), <a href="/files/PHADE.pdf">[Abstract]</a>, <a href="https://youtu.be/eUvslFNlLnM">[Video]</a>
 	</li>
 </ul>
 
