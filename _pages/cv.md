@@ -26,11 +26,11 @@ ICAI'18 session chair
 Reviewer
 ======
 - National Science Foundation Panelist 2018
-- International Journal of Electrical Power & Energy Systems, Outstanding Reviewer, 2017-19
+- International Journal of Electrical Power & Energy Systems, Outstanding Reviewer, 2017-19<br/>
 Ranked #4 in Power Engineering by Google Scholar
-- IEEE Transactions on Information Forensics & Security, 2016, 2018
+- IEEE Transactions on Information Forensics & Security, 2016, 2018<br/>
 Impact Factor = 4.332. Ranked #3 in Computer Security & Cryptography and ranked #5 in Signal Processing by Google Scholar
-- Information Science 2013-2019
+- Information Science 2013-2019<br/>
 Impact Factor = 4.832. Ranked #5 in Engineering & Computer Science (general) by Google Scholar
 - Computer Standards & Interfaces, 2017
 - IEEE Transactions on Big Data, 2019
@@ -39,7 +39,7 @@ Impact Factor = 4.832. Ranked #5 in Engineering & Computer Science (general) by 
 - IEEE INFOCOM'14 2014
 - IEEE Transactions on Cloud Computing 2013
 - Journal of Computer 2013
-- IEEE Transactions on Neural Networks and Learning Systems 2013
+- IEEE Transactions on Neural Networks and Learning Systems 2013<br/>
 Impact Factor = 6.108. Ranked #6 in Artificial Intelligence by Google Scholar
 
 
