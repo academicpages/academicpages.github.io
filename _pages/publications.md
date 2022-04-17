@@ -19,11 +19,11 @@ author_profile: true
 
 
 ## 2022
-- **Junjie Sheng**, **Shengliang Cai**, **Haochuan Cui**, **Wenhao Li**, **Yun Hua**, **Bo Jin**, W. Zhou, Y. Hu, L. Zhu, Q. Peng, **Hongyuan Zha** and **Xiangfeng Wang**, VMAgent: A Practical Virtual Machine Scheduling Platform. *IJCAI-Demos*, 2022. (**The [VMAgent](https://github.com/mail-ecnu/VMAgent) Simulator**) [arxiv](https://arxiv.org/abs/2112.04785)
+- **Junjie Sheng**, **Shengliang Cai**, **Haochuan Cui**, **Wenhao Li**, **Yun Hua**, **Bo Jin**, W. Zhou, Y. Hu, L. Zhu, Q. Peng, **Hongyuan Zha** and **Xiangfeng Wang**, VMAgent: A Practical Virtual Machine Scheduling Platform. *IJCAI-Demos*, 2022. (**The [VMAgent](https://github.com/mail-ecnu/VMAgent) Simulator**)
 - **Xiangfeng Wang**, J. Ye, X. Yuan, S. Zeng and J. Zhang, Perturbation Techniques for Convergence Analysis of Proximal Gradient Method and Other First-order Algorithms via Variational Analysis. *Set-Valued and Variational Analysis*, 30, 2022, pp.39-79.
 - **Wenhao Li**, **Hongjun Chen**, **Bo Jin**, W. Tan, **Hongyuan Zha**, **Xiangfeng Wang**, Multi-Agent Path Finding with Prioritized Communication Learning. *ICRA*, 2022.
 - **Tingyu Wu**, **Wenhao Li**, **Bo Jin**, W. Zhang and **Xiangfeng Wang**, Weighted Mean-Field Multi-Agent Reinforcement Learning via Reward Attribution Decomposition. *DASFAA*, 2022.
-- **Wenhao Li**, **Bo Jin**, **Xiangfeng Wang**, **Junjie Sheng** and **Hongyuan Zha**, Dealing with Non-Stationarity in Multi-Agent Reinforcement Learning via Trust Region Decomposition. *ICLR*, 2022. [arxiv](https://arxiv.org/abs/2102.10616)
+- **Wenhao Li**, **Bo Jin**, **Xiangfeng Wang**, **Junjie Sheng** and **Hongyuan Zha**, Dealing with Non-Stationarity in Multi-Agent Reinforcement Learning via Trust Region Decomposition. *ICLR*, 2022.
 - **Moyi Yang**, **Junjie Sheng**, **Xiangfeng Wang**, W. Liu, **Bo Jin**, J. Wang and **Hongyuan Zha**, Obtaining Dyadic Fairness by Optimal Transport. *AAAI Workshop on Optimal Transport and Structured Data Modeling*, 2022.
 - **Junjie Sheng**, **Yiqiu Hu**, W. Zhou, L. Zhu, **Bo Jin**, J. Wang and **Xiangfeng Wang**, Learning to Schedule Multi-NUMA Virtual Machines via Reinforcement Learning. *Pattern Recognition*, 121, 2022, pp.108254.
 
