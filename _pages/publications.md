@@ -7,7 +7,6 @@ author_profile: true
 
 ## Manuscript
 
-- **Junjie Sheng**, **Shengliang Cai**, **Haochuan Cui**, **Wenhao Li**, **Yun Hua**, **Bo Jin**, W. Zhou, Y. Hu, L. Zhu, Q. Peng, **Hongyuan Zha** and **Xiangfeng Wang**, VMAgent: Scheduling Simulator for Reinforcement Learning. 2021. (**The [VMAgent](https://github.com/mail-ecnu/VMAgent) Simulator**) [arxiv](https://arxiv.org/abs/2112.04785)
 - **Wenhao Li**, **Qisen Xu**, **Chuyun Shen**, B. Hu, F. Zhu, Y. Li, **Bo Jin** and **Xiangfeng Wang**, Interactive Medical Image Segmentation with Self-Adaptive Confidence Calibration. 2021. [arxiv](https://arxiv.org/abs/2111.07716)
 - **Wenhao Li**, **Bo Jin**, **Xiangfeng Wang**, J. Yan and **Hongyuan Zha**, F2A2: Flexible Fully-decentralized Approximate Actor-critic for Cooperative Multi-agent Reinforcement Learning. 2020. [arxiv](https://arxiv.org/abs/2004.11145)
 - **Junjie Sheng**, **Xiangfeng Wang**, **Bo Jin**, **Wenhao Li**, J. Yan, T.-H. Chang, J. Wang and **Hongyuan Zha**, Learning Structured Communication for Multi-agent Reinforcement Learning. 2020. [arxiv](https://arxiv.org/abs/2002.04235)
@@ -20,6 +19,7 @@ author_profile: true
 
 
 ## 2022
+- **Junjie Sheng**, **Shengliang Cai**, **Haochuan Cui**, **Wenhao Li**, **Yun Hua**, **Bo Jin**, W. Zhou, Y. Hu, L. Zhu, Q. Peng, **Hongyuan Zha** and **Xiangfeng Wang**, VMAgent: A Practical Virtual Machine Scheduling Platform. *IJCAI-Demos*, 2022. (**The [VMAgent](https://github.com/mail-ecnu/VMAgent) Simulator**) [arxiv](https://arxiv.org/abs/2112.04785)
 - **Xiangfeng Wang**, J. Ye, X. Yuan, S. Zeng and J. Zhang, Perturbation Techniques for Convergence Analysis of Proximal Gradient Method and Other First-order Algorithms via Variational Analysis. *Set-Valued and Variational Analysis*, 30, 2022, pp.39-79.
 - **Wenhao Li**, **Hongjun Chen**, **Bo Jin**, W. Tan, **Hongyuan Zha**, **Xiangfeng Wang**, Multi-Agent Path Finding with Prioritized Communication Learning. *ICRA*, 2022.
 - **Tingyu Wu**, **Wenhao Li**, **Bo Jin**, W. Zhang and **Xiangfeng Wang**, Weighted Mean-Field Multi-Agent Reinforcement Learning via Reward Attribution Decomposition. *DASFAA*, 2022.
