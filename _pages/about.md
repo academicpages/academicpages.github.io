@@ -23,6 +23,8 @@ I received my Ph.D. degree from the Department of Electric and Computer Engineer
 
 - [2022/02/28] One paper ([SoTead](https://arxiv.org/abs/2203.05744)) got accepted by findings of ACL 2022.
 
+- [2021/10/28] Began serving as a reviewer for ACL Rolling Review (ARR).
+
 - [2021/04/20] Began serving as a PC for EMNLP 2021.
 
 - [2021/03/30] Finished my Ph.D. [final defense](/files/defense_slides.pdf)! What an unforgettable journey!
