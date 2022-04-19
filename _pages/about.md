@@ -52,15 +52,13 @@ Find my CV [here]().<br>
 &dagger; : refers to the first student author. <br>
 * : refers to the corresponding author. <br>
 </p>
-
-
-## [Academic Services](#services)
+<h2 id="services"><a href="#services">Academic Services</a></h2>
 
 - 2022: ESEC/FSE co-reviewer.
 - 2021: ISSTA co-reviewer, TDSC co-reviewer.
 - 2020:  ISSTA Tool Demo co-reviewer, JCST  co-reviewer, COMPSAC co-reviewer, Journal of Software co-reviewer.
 
-## [Honors & Awards](#honors)
+<h2 id="awards"><a href="#awards">Honors & Awards</a></h2>
 
 - 2022: CIE Outstanding Master Dissertation Award, Chinese Institute of Electronics
 - 2021: Outstanding Graduate Students, Tianjin University (master's degree)
