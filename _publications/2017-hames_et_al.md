@@ -6,7 +6,7 @@ excerpt: <blockquote>Our results show that male same sex behavior as well as mal
 date: 2017-01-13
 venue: 'Archives of sexual behavior'
 paperurl: 'https://link.springer.com/article/10.1007/s10508-016-0855-7'
-citation: 'Raymond B. Hames, <b>Zachary H. Garfield</b>, and Melissa J. Garfield. (2017). &quot;Is male androphilia a context-dependent cross-cultural universal&quot; <i>Archives of sexual behavior</i>. 46(1).'
+citation: 'Raymond B. Hames, <b>Zachary H. Garfield</b>, and Melissa J. Garfield. (2017). &quot;Is male androphilia a context-dependent cross-cultural universal?&quot; <i>Archives of sexual behavior</i>. 46(1).'
 ---
 This cross-cultural study relied on the SCCS to provide updated data on the frequency of male homosexual behavior.
 
