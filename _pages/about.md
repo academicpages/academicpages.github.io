@@ -10,7 +10,7 @@ redirect_from:
 
 Hello and welcome to my homepage!
 
-I am Johar Arrieta Vidal, I am a Peruvian economist looking to continue his studies in a Ph.D. Program. 
+I am Johar Arrieta Vidal, I am a Peruvian economist and an Incoming Economics Ph.D. Student at the University of Michigan. 
 
 I am particularly interested in the topic of applied macroeconomics, experimental and behavioral economics, history and development.
 
