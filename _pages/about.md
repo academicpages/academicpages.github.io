@@ -15,6 +15,9 @@ I am an interdisciplinary behavioral scientist and evolutionary anthropologist. 
 
 I received a B.A. in anthropology and psychology from the University of Nebraska–Lincoln in 2012 and completed my Ph.D. in anthropology at Washington State University in 2019.
 
+[![alt text](h/images/still2.001.jpeg)](https://www.youtube.com/watch?v=PKel6Dote6Y&ab_channel=ZachGarfield "IAST Research Fellow Introduction Video)
+
+
 Research statement
 ======
 My research program focuses on relationships between individual behavioral strategies and group dynamics in the context of cultural transitions. <img style="float: right; padding: 20px;" src="/images/chabu_interview_small75.jpg" width="400"/> In particular, I investigate how behaviors such as leadership and followership, social learning, decision-making, and economic strategies are related to group-level pressures stemming from, for example, social contexts, network dynamics, political structures, and cultural norms. I am especially interested in how relationships between these individual-level and group-level processes vary across populations and across time. I draw on adaptationist, behavioral-ecological, and cultural-evolutionary theoretical frameworks.
