@@ -15,7 +15,7 @@ I am an interdisciplinary behavioral scientist and evolutionary anthropologist. 
 
 I received a B.A. in anthropology and psychology from the University of Nebraska–Lincoln in 2012 and completed my Ph.D. in anthropology at Washington State University in 2019.
 
-[![alt text](h/images/still2.001.jpeg)](https://www.youtube.com/watch?v=PKel6Dote6Y&ab_channel=ZachGarfield "IAST Research Fellow Introduction Video")
+[![alt text](/images/still2.001.jpeg)](https://www.youtube.com/watch?v=PKel6Dote6Y&ab_channel=ZachGarfield "IAST Research Fellow Introduction Video")
 
 
 Research statement
