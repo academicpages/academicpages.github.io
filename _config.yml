@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "About Me"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Oliver received his undergraduate degree in cognitive and computer science from the University of California, Berkeley in 2019. He is currently a graduate student in the brainLENS Laboratory at the University of Connecticut, working towards his Ph.D. in language and cognition."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
