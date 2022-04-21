@@ -9,7 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - {file: "cv_rmd.pdf", title: "CV"}
+  - title: "CV"
+    url: https://github.com/luukschmitz/my-website/raw/master/files/CV_rmd.pdf
     
   - title: "Contact"
     url: /contact/
