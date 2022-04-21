@@ -2,6 +2,7 @@
 title: "Planning for a Post-Neoliberal Age? The Political Economy of Industrial Policy"
 collection: research
 permalink: /research/post-neoliberal
+date: 2014-01-01
 ---
 
 Planning for a Post-Neoliberal Age? The Political Economy of EU Industrial Policy (PhD-project)
