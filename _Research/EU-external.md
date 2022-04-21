@@ -1,6 +1,6 @@
 ---
 title: "The Politics of EU External Policy"
-collection: research
+collection: Research
 permalink: /research/eu-external
 ---
 

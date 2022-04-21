@@ -1,6 +1,6 @@
 ---
 title: "Planning for a Post-Neoliberal Age? The Political Economy of Industrial Policy"
-collection: research
+collection: Research
 permalink: /research/post-neoliberal
 ---
 

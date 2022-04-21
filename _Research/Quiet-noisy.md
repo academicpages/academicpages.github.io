@@ -1,6 +1,6 @@
 ---
-title: "Saying the Quiet part out Loud: How Businiesses Exert Power"
-collection: research
+title: "Saying the Quiet part out Loud: How Businesses Exert Power"
+collection: Research
 permalink: /research/quiet-noisy
 ---
 
