@@ -21,4 +21,6 @@ His current research targets:
 
 He enjoys playing golf (especially in his home state of North Carolina), reading history (especially biographies), and staying up-to-date with global affairs (especially US-China relations). 
 
-Feel free to reach out by email: larryhan [at] g [dot] harvard [dot] edu.
+Feel free to reach out by email: larryhan [at] g [dot] harvard [dot] edu.  
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=dLyrqMPJyXiy0SeLmHsCUAnMJXu3-C0FR9_QuwIwa5c&cl=ffffff&w=a"></script>
