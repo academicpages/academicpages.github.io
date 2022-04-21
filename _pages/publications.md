@@ -20,7 +20,9 @@ Journal Publications
 Conference Publications
 ------
 
-* <b>Alexander Davydov</b>, Anton V. Proskurnikov, and Francesco Bullo. “Non-Euclidean Contractivity of Recurrent Neural Networks,” <i>American Control Conference</i>, Oct. 2021. [[URL](https://arxiv.org/abs/2110.08298)] <b>To Appear</b>
+* <b>Alexander Davydov</b>, Anton V. Proskurnikov, and Francesco Bullo. “Non-Euclidean Contractivity of Recurrent Neural Networks,” <i>American Control Conference</i>, Oct. 2021. [[URL](https://arxiv.org/abs/2110.08298)] <b>To Appear, Best Student Paper Award Finalist</b>
+
+* Saber Jafarpour<sup>*</sup>, Matthew Abate<sup>*</sup>, <b>Alexander Davydov</b><sup>*</sup>, Francesco Bullo, and Samuel Coogan. “Robustness Certificates for Implicit Neural Networks: A Mixed Monotone Contractive Approach,” <i>Learning for Dynamics and Control Conference</i>, Dec. 2021. [[URL](https://arxiv.org/abs/2112.05310)] <b>To Appear, Oral Presentation</b>
 
 * Saber Jafarpour<sup>*</sup>, <b>Alexander Davydov</b><sup>*</sup>, Anton V. Proskurnikov, and Francesco Bullo. “Robust Implicit Networks via Non-Euclidean Contractions,” <i>35th Conference on Neural Information Processing Systems</i>, Dec. 2021. [[URL](https://arxiv.org/abs/2106.03194)]
 * Francesco Bullo, Pedro Cisneros-Velarde, <b>Alexander Davydov</b>, and Saber Jafarpour. “From Contraction Theory to Fixed Point Algorithms on Riemannian and non-Euclidean Spaces,” <i>IEEE Conference on Decision and Control</i>, Dec. 2021. [[URL](https://arxiv.org/abs/2110.03623)] <b>(Invited Tutorial Paper)</b>
@@ -30,7 +32,9 @@ Conference Publications
 Preprints and Publications Under Review
 ------
 
-* Saber Jafarpour<sup>*</sup>, Matthew Abate<sup>*</sup>, <b>Alexander Davydov</b><sup>*</sup>, Francesco Bullo, and Samuel Coogan. “Robustness Certificates for Implicit Neural Networks: A Mixed Monotone Contractive Approach,” <i>Learning for Dynamics and Control Conference</i>, Dec. 2021. [[URL](https://arxiv.org/abs/2112.05310)] <b>Submitted</b>
+* <b>Alexander Davydov</b><sup>*</sup>, Saber Jafarpour<sup>*</sup>, Anton V. Proskurnikov, and Francesco Bullo. “Non-Euclidean Monotone Operator Theory with Applications to Recurrent Neural Networks,” <i>IEEE Conference on Decision and Control</i>, Mar. 2022. [[URL](https://arxiv.org/abs/2204.01877)] <b>Submitted</b>
+
+* <b>Alexander Davydov</b><sup>*</sup>, Saber Jafarpour<sup>*</sup>, Matthew Abate, Francesco Bullo, and Samuel Coogan. “Comparative Analysis of Interval Reachability for Robust Implicit and Feedforward Neural Networks,” <i>IEEE Control Systems Letters</i>, Mar. 2022. [[URL](https://arxiv.org/abs/2204.00187)] <b>Submitted</b>
 
 * Saber Jafarpour, <b>Alexander Davydov</b>, and Francesco Bullo. “Non-Euclidean Contraction Theory for Monotone and Positive Systems,” <i>IEEE Transactions on Automatic Control</i>, Apr. 2021. [[URL](https://arxiv.org/abs/2104.01321)] <b>Submitted</b>
 
