@@ -1,7 +1,7 @@
 ---
 title: "The Politics of EU External Policy"
 collection: research
-permalink: /research/post-neoliberal
+permalink: /research/eu-external
 ---
 
 The Politics of EU External Policy
