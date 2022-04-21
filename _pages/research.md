@@ -9,6 +9,6 @@ My research lies at the intersection between international and comparative polit
 
 {% include base_path %}
 
-{% for post in site.research reversed %}
+{% for post in site.Research reversed %}
   {% include archive-single.html %}
 {% endfor %}
