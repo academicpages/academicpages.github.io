@@ -7,7 +7,7 @@ date: 2020
 venue: 'Globalizations'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Schmitz, L. & Eimer, T.R. (2020). &quot;From coherence to coheritization: explaining the rise of policy coherence in EU external policy
-.&quot; <i>Globalizations</i>. 17(4). <url>https://doi.org/10.1080/14747731.2019.1676103</url>.'
+.&quot; <i>Globalizations</i>. 17(4). <url>https://doi.org/10.1080/14747731.2019.1676103<url>.'
 ---
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
