@@ -23,6 +23,11 @@ We provide doubly robust estimation and inference for the proportion of treatmen
 **Han L,** Li Y, Niknam B, Zubizarreta J.  
 We leverage federated multi-hospital data for hospital ranking and quality measurement purposes.
 
+**[Towards Optimal Use of Surrogate Markers to Improve Power](https://onlinelibrary.wiley.com/doi/10.1111/biom.13677)**.  
+Biometrics (2022).  
+Wang X, Parast L, **Han L,** Tian L, Cai T.  
+We propose a novel calibrated model fusion approach to optimally combine multiple surrogate markers to improve power.
+
 **Representative and Optimal Sensitivity Analysis (ROSA) for Clinical Trials**.  
 **Han L,** Arfe A, Trippa L.  
 This paper develops a principled approach for sensitivity analysis of design parameters in the evaluation of competing trial designs.
@@ -34,10 +39,6 @@ This paper develops semi-supervised, transfer learning methods to improve effici
 **Principal Resampling for Causal Inference**.  
 Han S, **Han L,** Zubizarreta, J.  
 We propose a new principal resampling technique for unbiased estimation of the ATE and proportions in each of four principal strata without requiring the deterministic monotonicity assumption.
-
-**Towards Optimal Use of Surrogate Markers to Improve Power**.  
-Wang X, Parast L, **Han L,** Tian L, Cai T.  
-We propose a novel calibrated model fusion approach to optimally combine multiple surrogate markers to improve power.
 
 
 ## Electronic Health Records
