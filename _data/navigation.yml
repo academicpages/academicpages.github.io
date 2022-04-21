@@ -9,8 +9,7 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "CV"
-    url: /cv/
+  - {file: "cv_rmd.pdf", title: "CV"}
     
   - title: "Contact"
     url: /contact/
