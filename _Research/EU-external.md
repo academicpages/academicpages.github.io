@@ -1,7 +1,8 @@
 ---
-title: "The Politics of EU External Policy"
-collection: research
+layout: archive
+title: ""
 permalink: /research/eu-external
+author_profile: true
 ---
 
 The Politics of EU External Policy
