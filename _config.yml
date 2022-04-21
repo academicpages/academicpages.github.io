@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Luuk Schmitz"
   avatar           : "Schmitz_Luuk.jpg"
   bio              : "Political economist at the European University Institute"
-  location         : "[Cologne, Germany](https://goo.gl/maps/rqcbckzYavkVJ6Db8)"
+  location         : [Cologne, Germany](https://goo.gl/maps/rqcbckzYavkVJ6Db8)
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oFDW6tIAAAAJ&hl=it&oi=ao"
