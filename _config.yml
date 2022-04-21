@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luuk Schmitz / Personal Website"
+title                    : "Luuk Schmitz"
 title_separator          : "-"
 name                     : &name "Luuk Schmitz"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Your Sidebar Name"
   avatar           : "Schmitz_Luuk.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Cologne"
+  bio              : "Political economist at the European University Institute"
+  location         : "[Cologne, Germany](https://goo.gl/maps/rqcbckzYavkVJ6Db8)"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oFDW6tIAAAAJ&hl=it&oi=ao"
