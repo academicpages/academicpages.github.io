@@ -1,8 +1,8 @@
 ---
+layout: archive
 title: ""
-collection: research
 permalink: /research/post-neoliberal
-date: false
+author_profile: true
 ---
 
 Planning for a Post-Neoliberal Age? The Political Economy of EU Industrial Policy (PhD-project)
