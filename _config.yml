@@ -122,7 +122,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - log
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -143,6 +142,7 @@ exclude:
   - config
   - gulpfile.js
   - node_modules
+  - log
   - package.json
   - tmp
   - vendor
