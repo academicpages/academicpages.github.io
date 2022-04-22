@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-Paulstraße 3 | 50676 Köln
+Paulstraße 3, 50676 Köln
 
 Germany
 
