@@ -1,8 +1,6 @@
 ---
 title: Fast Kronecker matrix-vector product with einsum 
 layout: single
-header:
-  teaser: "assets/images/kron_im.png"
 mathjax: true
 comments: true
 ---
