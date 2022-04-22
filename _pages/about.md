@@ -24,6 +24,12 @@ A short list of my current research efforts are shown below. A common vein runni
 * Bayesian inference for engineering models
 * Leveraging graphical structure in deep generative models
 
+<object data="images/terrain_dgm.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+<object data="images/wetland_model.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+<object data="images/inverse_advi.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 # Interns and students
 I am available to serve as an extra-institutional committee member for graduate degree committees and also have some opportunities available for interns at the undergraduate and graduate student level. For these positions, prior experience to statistical modeling and programming in a scripting language like Python or R is vital. For more information, contact me at *krapucl* at *ornl.gov*.
 
