@@ -24,3 +24,11 @@ PhD Candidate, bioinformatician, expert in the field of Electronic Patient Recor
 Marc Maurits
 ======
 PhD Candidate, pseudo-bioinformatician, expert in the field of being really picky and annoying about research
+
+Samantha Jurado-Zapata
+======
+Datamanager, bioinformatician
+
+Daan van der Bijl
+======
+Student, bioinformatician, working on RA disease trajectories 
