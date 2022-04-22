@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  "sitelogo.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -122,6 +122,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - log
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -141,7 +142,6 @@ exclude:
   - assets/js/vendor
   - config
   - gulpfile.js
-  - log
   - node_modules
   - package.json
   - tmp
