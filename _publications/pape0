@@ -7,5 +7,5 @@ excerpt:
 date: 2022-04-01
 venue: Arxiv
 paperurl: https://arxiv.org/abs/2201.07681
-citation: 'Y. Yue, Y. Xie, H. Wu, H. Jia, S. Zhai, W. Shi, J. Hunt. &quot;Learning to Rank For Push Notifications Using Pairwise Expected Regret&quot; <i>Arxiv(2022)</i>.'
+citation: 'Y. Yue*, Y. Xie, H. Wu, H. Jia, S. Zhai, W. Shi, J. Hunt*. &quot;Learning to Rank For Push Notifications Using Pairwise Expected Regret&quot; <i>Arxiv(2022)</i>.'
 ---
