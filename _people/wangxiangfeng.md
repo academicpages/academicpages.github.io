@@ -54,9 +54,10 @@ permalink: /people/xfwang
 ### Publications
 
 #### Book and Book Chapter
-1. 王祥丰/金博, 群体智能/Swarm Intelligence, 人工智能与智能教育丛书, 教育科学出版社.
-2. 王晓玲/王祥丰/金博，人工智能伦理与安全(第4章-安全可信人工智能)，清华大学出版社.
-3. X. Fu, B. He, **Xiangfeng Wang**, and X. Yuan, Block-wise Alternating Direction Method of Multipliers with Gaussian Back Substitution for Multiple-block Convex Programming. Splitting Algorithms, Modern Operator Theory, and Applications, 2019.
+1. **王祥丰**/金博, 群体智能/Swarm Intelligence, 人工智能与智能教育丛书, 教育科学出版社.
+2. 吴信东/**王祥丰**/金博/于政/吴明辉，人机协同/Human-Machine Synergy，科学出版社.
+3. 王晓玲/**王祥丰**/金博，人工智能伦理与安全(第4章-安全可信人工智能)，清华大学出版社.
+4. X. Fu, B. He, **Xiangfeng Wang**, and X. Yuan, Block-wise Alternating Direction Method of Multipliers with Gaussian Back Substitution for Multiple-block Convex Programming. Splitting Algorithms, Modern Operator Theory, and Applications, 2019.
 
 #### Journal 
 1. W. Li, **Xiangfeng Wang**, B. Jin, D. Luo, and H. Zha, Structured Cooperative Reinforcement Learning with Time-varying Composite Action Space. IEEE Transactions on Pattern Analysis and Machine Intelligence, accepted, 2021.
