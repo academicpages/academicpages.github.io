@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a fourth-year PhD student at [Statistics and Data Science Department](https://https://stat.utexas.edu/) in [University of Texas at Austin](https://https://www.utexas.edu/), supervised by [Dr.Mingyuan Zhou](https://mingyuanzhou.github.io/). My research interest is Bayesian statistics, with applications including **Reinforcement Learning** and **Generative Models**. I am also interested in **optimization**. 
+I am currently a Machine Learning Researcher at the [Cortex Applied Research](https://cortex.twitter.com/) team at Twitter, with a focus on recommender system and reinforcement learning. Prior to Twitter, I obtained my PhD from [Statistics and Data Science Department](https://https://stat.utexas.edu/) in [University of Texas at Austin](https://https://www.utexas.edu/), supervised by [Dr.Mingyuan Zhou](https://mingyuanzhou.github.io/). My research interest is Bayesian statistics, with applications including **Reinforcement Learning** and **Generative Models**. I am also interested in **optimization**. 
 
 In my spare time, I like playing **tennis** and **piano**.
 
 
 Education
 ======
-* Ph.D in University of Texas at Austin, 2021 (expected)
+* Ph.D in University of Texas at Austin, 2021
 * M.S. in University of California, Los Angeles, 2017
 * B.S. in Fudan University, 2015
 
@@ -28,7 +28,13 @@ Publications
 
 Work experience
 ======
-* Twitter: Machine Learning Research Engineer Intern (Summer 2020)
+* Twitter: Machine Learning Researcher (From June 2021)
+  * Work on building recommender for the new [explore page](https://twitter.com/TwitterSupport/status/1468619385472438279?s=20)
+  * Improve Ads ranking model with multitask learning techniques
+  * Build simulation systems with JAX
+* Nuro: Machine Learning Researcher Intern (Spring 2021)
+  * Improve the agent using imitation learning technique
+* Twitter: Machine Learning Research Engineer Intern (Summer, Fall 2020)
   * Improve push notification recommendation system
 * Bytedance: Research Intern (Winter 2019)
   * Build Bayesian testing platform
