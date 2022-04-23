@@ -24,7 +24,7 @@ author_profile: true
 - **Wenhao Li**, **Hongjun Chen**, **Bo Jin**, W. Tan, **Hongyuan Zha**, **Xiangfeng Wang**, Multi-Agent Path Finding with Prioritized Communication Learning. *ICRA*, 2022.
 - **Tingyu Wu**, **Wenhao Li**, **Bo Jin**, W. Zhang and **Xiangfeng Wang**, Weighted Mean-Field Multi-Agent Reinforcement Learning via Reward Attribution Decomposition. *DASFAA*, 2022.
 - **Wenhao Li**, **Bo Jin**, **Xiangfeng Wang**, **Junjie Sheng** and **Hongyuan Zha**, Dealing with Non-Stationarity in Multi-Agent Reinforcement Learning via Trust Region Decomposition. *ICLR*, 2022.
-- **Moyi Yang**, **Junjie Sheng**, **Xiangfeng Wang**, W. Liu, **Bo Jin**, J. Wang and **Hongyuan Zha**, Obtaining Dyadic Fairness by Optimal Transport. *AAAI Workshop on Optimal Transport and Structured Data Modeling*, 2022.
+- **Moyi Yang**, **Junjie Sheng**, **Xiangfeng Wang**, W. Liu, **Bo Jin**, J. Wang and **Hongyuan Zha**, Obtaining Dyadic Fairness by Optimal Transport. *AAAI*, 2022.
 - **Junjie Sheng**, **Yiqiu Hu**, W. Zhou, L. Zhu, **Bo Jin**, J. Wang and **Xiangfeng Wang**, Learning to Schedule Multi-NUMA Virtual Machines via Reinforcement Learning. *Pattern Recognition*, 121, 2022, pp.108254.
 
 ## 2021
