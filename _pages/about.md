@@ -12,6 +12,7 @@ I am a Research Associate in the ECE Department at the University of Waterloo. P
 
 I received my PhD degree in Mechanical Engineering, specializing in robotics control, from the University of Calgary, Canada. The research focused on locomotion mode selection and motion planning of a leg-tracked [quadrupedal robot](http://jiewang.name/publications/arXiv2019/). After that, I worked as a Postdoc Fellow at the University of Calgary. I developed and implemented perception solutions for micro aerial vehicles including [visual SLAM](http://jiewang.name/publications/slam2019) and CNN-based multi-object detection and [tracking](http://jiewang.name/publications/rsmdpi2019). 
 
+[![Jie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwangjie&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 **Recent News:**
 
