@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuguang Yue"
   avatar           : "yuguang1.png"
-  bio              : "PhD Student in Statistics and Data Science"
-  location         : "Austin, TX, USA"
-  employer         : University of Texas at Austin
+  bio              : "Machine Learning Researcher at Twitter"
+  location         : "New York, NY, USA"
+  employer         : Twitter
   pubmed           : 
   googlescholar    : 
-  email            : yuguang@utexas.edu
+  email            : yueyuguang1@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
