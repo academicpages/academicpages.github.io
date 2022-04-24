@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a PhD student in the Dept. of Psychology at Harvard University, advised by Prof. George Alvarez and Prof. Talia Konkle in the [Vision Sciences Lab](https://visionlab.harvard.edu) and [Cognitive and Neural Organization Lab](https://konklab.fas.harvard.edu/#). I am broadly interested in how the human mind encodes and organizes visual sensory information into mid- and high-level representations. 
+Hi! I am a PhD student in the Dept. of Psychology at Harvard University, advised by Prof. George Alvarez and Prof. Talia Konkle in the [Vision Sciences Lab](https://visionlab.harvard.edu) and [Cognitive and Neural Organization Lab](https://konklab.fas.harvard.edu/#). I am broadly interested in how the human mind encodes and organizes visual sensory information into mid- and high-level representations and subsequently to meaningful percepts of our world.
 
 <!-- I'm a Research Fellow at Harvard University, working with George Alvarez and Talia Konkle in the [Vision Sciences Lab](https://visionlab.harvard.edu) and [Cognitive and Neural Organization Lab](https://konklab.fas.harvard.edu/#). I am broadly interested in how the human mind encodes and organizes visual sensory information into meaningful high-level representations.  -->
 
