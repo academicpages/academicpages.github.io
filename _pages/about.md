@@ -12,8 +12,6 @@ I am a Ph.D. student in the [ielab](http://ielab.io/), School of Information Tec
 
 I am working on improving effectiveness, efficiency, and robustness for pre-trained deep language model based information retrieval systems.
 
-I am currently looking for a summer internship in 2022.
-
 <hr>
 
 {% include base_path %}
