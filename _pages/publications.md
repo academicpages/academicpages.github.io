@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-fontsize: 12pt
+fontsize: 24pt
 author_profile: true
 ---
 
