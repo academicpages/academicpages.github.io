@@ -17,7 +17,7 @@ Protecting, Transforming, and Projecting the Single Market: Open Strategic Auton
 (With [Timo Seidl](https://www.timoseidl.com/))
 
 Collaborative Advantage in a Geopolitical World: How the European Commission fosters Innovation in the Single Market. \\
-(With [Donato Di Carlo(https://www.mpifg.de/person/110112/2733))
+(With [Donato Di Carlo](https://www.mpifg.de/person/110112/2733))
 
 The political role of industrial policy in green energy transitions. \\
 (With [Timur Ergen](https://tergen.org/)
