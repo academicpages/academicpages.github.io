@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Central and Eastern European countries at the crossroads"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'A policy brief arguing against the inclusion of investment arbitration in TTIP'
+date: 2015-06-01
+venue: 'TNI Policy Brief'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+**Central and Eastern European countries at the crossroads: Why governments should reject investment arbitration in TTIP**
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Perhaps the most contentuous issue in the ill-fated Transatlantic Trade and Investment Partnership (TTIP) was the envisioned inclusion of an investment arbitration system that would allow private investors to sue governments when policy change and regulatory measures compromise expected future profits. The bounds of legitimate capacity to regulate are ill-defined and therefore threaten governments' capacity to act in the public interest. Such a system is, moreover, redundant when investors have sound recourse to domestic courts.
+
+I conducted research on and co-authored this policy brief during my internship at the Transnational Institute in Amsterdam. Read [here](https://www.tni.org/files/download/governments_should_reject_isds_in_ttip.pdf)
