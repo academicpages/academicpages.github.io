@@ -17,4 +17,4 @@ Over the past decade, the external policy of the European Commission has become 
 
 *Suggested citation*:
 Schmitz, L. & Eimer, T.R. (2020). &quot;From coherence to coheritization: explaining the rise of policy coherence in EU external policy
-.&quot; <i>Globalizations</i>. 17(4).
+.&quot; <i>Globalizations</i>. 17(4). [https://doi.org/10.1080/14747731.2019.1676103](https://doi.org/10.1080/14747731.2019.1676103).
