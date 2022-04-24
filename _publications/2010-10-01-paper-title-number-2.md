@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/EU-industrial-strategy
 date: 2020-06-04
 venue: 'EUIdeas blog'
-paperurl: 'https://euideas.eui.eu/2020/06/04/reflections-on-how-covid-19-is-reshaping-the-eus-industrial-strategy/'
 ---
 
 
