@@ -1,10 +1,10 @@
 ---
- title: "From Coherence to Coheritization"
-  collection: publications
-  permalink: /publication/coheritization
-  excerpt: ''
-  date: 2020-01-01
-  venue: 'Globalizations'
+title: "From Coherence to Coheritization"
+collection: publications
+permalink: /publication/coheritization
+excerpt: 'Examining the contradictions of policy coherence and EU external policy'
+date: 2020-01-01
+venue: 'Globalizations'
 ---
 
 **From coherence to coheritization: explaining the rise of policy coherence in EU external policy** 
