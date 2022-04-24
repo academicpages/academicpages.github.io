@@ -12,12 +12,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+  <font size="2">  
 **Work in progress** \\
-Protecting, Transforming, and Projecting the Single Market: Open Strategic Autonomy and Digital Sovereignty in the EU’s Trade and Digital Policies. \\
-(With [Timo Seidl](https://www.timoseidl.com/))
+(With [Timo Seidl](https://www.timoseidl.com/)) Protecting, Transforming, and Projecting the Single Market: Open Strategic Autonomy and Digital Sovereignty in the EU’s Trade and Digital Policies.
 
-Collaborative Advantage in a Geopolitical World: How the European Commission fosters Innovation in the Single Market. \\
-(With [Donato Di Carlo](https://www.mpifg.de/person/110112/2733))
+(With [Donato Di Carlo](https://www.mpifg.de/person/110112/2733)) Collaborative Advantage in a Geopolitical World: How the European Commission fosters Innovation in the Single Market. 
 
-The political role of industrial policy in green energy transitions. \\
-(With [Timur Ergen](https://tergen.org/)
+(With [Timur Ergen](https://tergen.org/)) The political role of industrial policy in green energy transitions. 
+  </font>
