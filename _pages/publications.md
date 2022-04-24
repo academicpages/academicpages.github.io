@@ -2,6 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
+fontsize: 12pt
 author_profile: true
 ---
 
@@ -11,10 +12,6 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-body {
-  font-size: 16px;
-}
 
 **Work in progress** \\
 (With [Timo Seidl](https://www.timoseidl.com/)) Protecting, Transforming, and Projecting the Single Market: Open Strategic Autonomy and Digital Sovereignty in the EU’s Trade and Digital Policies.
