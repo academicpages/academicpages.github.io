@@ -12,7 +12,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-**Work in progress**
+**Work in progress** \\
 Protecting, Transforming, and Projecting the Single Market: Open Strategic Autonomy and Digital Sovereignty in the EU’s Trade and Digital Policies. \\
 (With [Timo Seidl](https://www.timoseidl.com/))
 
