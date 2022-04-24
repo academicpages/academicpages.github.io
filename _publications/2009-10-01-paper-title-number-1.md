@@ -1,10 +1,9 @@
 ---
-  title: "From Coherence to Coheritization"
-  collection: publications
-  permalink: /publication/coheritization
-  excerpt: 'Examining the contradictions around policy coherence in forming the EU's external policies.'
-  date: 2020-01-01
-  venue: 'Globalizations'
+title: "D on how COVID-19 is reshaping the EU’s industrial strategy"
+collection: publications
+permalink: /publication/EU-industrial-strategy
+date: 2020-06-04
+venue: 'EUIdeas blog'
 ---
 
 **From coherence to coheritization: explaining the rise of policy coherence in EU external policy** 
