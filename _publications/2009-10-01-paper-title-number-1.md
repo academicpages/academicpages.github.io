@@ -5,8 +5,6 @@ permalink: /publication/coheritization
 excerpt: ''
 date: 2020-01-01
 venue: 'Globalizations'
-paperurl: 'https://github.com/luukschmitz/my-website/blob/master/files/From-Coherence-to-Coheritization-Schmitz-Eimer.pdf'
-citation: ''
 ---
 
 **From coherence to coheritization: explaining the rise of policy coherence in EU external policy**
