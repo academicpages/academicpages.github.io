@@ -116,15 +116,16 @@
   float : left;
   margin-left : 15px;
   margin-top : 15px;
+  margin-right : 15px
     app {
        transition: all .2s ease-in-out;
      }
       &:hover app {
-        -webkit-transform:scale(1.07); /* Safari and Chrome */
-        -moz-transform:scale(1.07); /* Firefox */
-        -ms-transform:scale(1.07); /* IE 9 */
-        -o-transform:scale(1.07); /* Opera */
-        transform:scale(1.07);
+        -webkit-transform:scale(1.2); /* Safari and Chrome */
+        -moz-transform:scale(1.2); /* Firefox */
+        -ms-transform:scale(1.2); /* IE 9 */
+        -o-transform:scale(1.2); /* Opera */
+        transform:scale(1.2);
 
     }
     &:nth-child(1){
