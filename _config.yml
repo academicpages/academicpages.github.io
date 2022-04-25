@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luuk Schmitz"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Luuk Schmitz"
 description              : &description "personal description"
