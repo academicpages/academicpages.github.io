@@ -15,12 +15,12 @@ My primary area of research is Distributed Systems. I am studying the strategies
 
 ### My latest work is in the following: 
 
-[AntidoteDB](https://www.antidotedb.eu) is a plane scale, highly available transactional database. During my Master thesis,
-I worked on designing and implementing
+[AntidoteDB](https://www.antidotedb.eu) is a planet scale, highly available transactional database. During my Master thesis,
+I worked on designing and implementing:
 1. A Cache to store CRDT objects in memory.
 2. A Checkpoint store to persist these objects.
 3. An Indexing mechanism to facilitate faster reads in Journal based databases.
-4. Strategies to truncate the Journal upon checkpointing. 
+4. Strategies to truncate the Journal upon check-pointing. 
 
 The work has been submitted as a [dissertation](http://ayushpandey8439.github.io/files/master_thesis.pdf) towards my master degree.
 

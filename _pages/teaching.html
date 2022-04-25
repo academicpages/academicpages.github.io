@@ -7,6 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+{% if site.teaching.size > 0 %}
+  {% for post in site.teaching reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% else %}
+  
+<p style = "display:flex; justify-content:center;" ><img src="/images/sadness.gif" ></p>
+
+<h3 style = "justify-content: center; display: flex;">Awww...Dont cry!</h3> 
+
+<p style = "justify-content: center; display: flex;">I am going to add content here soon.</p>
+{% endif %}
+
