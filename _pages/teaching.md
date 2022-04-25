@@ -13,7 +13,7 @@ Teaching
   
 Service and leadership
 ======
-* E&I committee, Stanford KIPAC
+* Co-chair, Stanford KIPAC E&I committee
 * Graduate admission committee, Stanford Physics Department
 * Co-founder, Open Labs @ Harvard
 * Group Leader, Harvard Observing Project
