@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## Working Papers
-1. C. Xu\*, T. Li\*, **C. Tang**, L. Sun, K. Keutzer, M. Tomizuka, A. Fathi, W. Zhan, "PreTraM: Self-Supervised Pre-training via Connecting Trajectory and Map," under review for *European Conference on Computer Vision (ECCV)*, 2022
+1. C. Xu\*, T. Li\*, **C. Tang**, L. Sun, K. Keutzer, M. Tomizuka, A. Fathi, and W. Zhan, "PreTraM: Self-Supervised Pre-training via Connecting Trajectory and Map," under review for *European Conference on Computer Vision (ECCV)*, 2022
 1. **C. Tang**, W. Zhan, and M. Tomizuka, “Interventional behavior prediction: Avoiding overly confident anticipation in interactive prediction,” under review for *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022
 1. L. Sun\*, **C. Tang**\*, Y. Niu, E. Sachdeva, C. Choi, T. Misu, M. Tomizuka, and W. Zhan, “Domain knowledge driven pseudo labels for interpretable goal-conditioned interactive trajectory prediction,” under review for *IEEE Robotics and Automation Letters (RA-L)*, 2022
 1. J. Li, **C. Tang**, W. Zhan, and M. Tomizuka, “Hierarchical planning through goal-conditioned offline reinforcement learning,” under review for *IEEE Robotics and Automation Letters (RA-L)*, 2022
