@@ -28,23 +28,25 @@ I am a <b>Senior Researcher</b> at the [INVEST Research Flagship Center](https:/
 
 Next Talks/Conferences
 ============
-1. Aug. 22nd-26th 2022: European Consortium for Political Research Conference (Innsbruck, Austria).
+1. Aug. 10th-12th 2022: Nordic Sociological Association Conference (Reykjavik, Iceland).
 
-2. June 23rd-25th 2022: Society for Institutional and Organizational Economics (Toronto, Canada).
+2. Aug. 22nd-26th 2022: European Consortium for Political Research Conference (Innsbruck, Austria).
 
-3. June 23rd-25th 2022: European Political Science Association Conference (Prague, Czech Republic).
+3. June 23rd-25th 2022: Society for Institutional and Organizational Economics (Toronto, Canada).
 
-4. May 5th-8th 2022: Latin American Studies Association Conference (San Francisco, California, USA).
+4. June 23rd-25th 2022: European Political Science Association Conference (Prague, Czech Republic).
 
-5. Jan. 26th 2022: General Seminar, Åbo Akademi (Turku, Finland).
+5. May 5th-8th 2022: Latin American Studies Association Conference (San Francisco, California, USA).
 
-6. Dec. 17th 2021: Political Science Research Seminar, University of Turku (Turku, Finland).
+6. Jan. 26th 2022: General Seminar, Åbo Akademi (Turku, Finland).
 
-7. Dec. 14th 2021: TSE Economics weekly Research Seminar, University of Turku (Turku, Finland).
+7. Dec. 17th 2021: Political Science Research Seminar, University of Turku (Turku, Finland).
 
-8. Nov. 19th.: INVEST Scientific Seminar, University of Turku (Turku, Finland).
+8. Dec. 14th 2021: TSE Economics weekly Research Seminar, University of Turku (Turku, Finland).
 
-9. Oct. 26th 2021:  [DPINVEST & INVESThub Workshop on interventions, evaluations and field experiments](https://invest.utu.fi/events/dpinvest-investhub-workshop-on-interventions-evaluations-and-field-experiments/). University of Turku (Turku, Finland).
+9. Nov. 19th.: INVEST Scientific Seminar, University of Turku (Turku, Finland).
+
+10. Oct. 26th 2021:  [DPINVEST & INVESThub Workshop on interventions, evaluations and field experiments](https://invest.utu.fi/events/dpinvest-investhub-workshop-on-interventions-evaluations-and-field-experiments/). University of Turku (Turku, Finland).
 
 
 
