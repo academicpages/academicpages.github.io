@@ -31,7 +31,7 @@ I am Yusheng Su, a Ph.D. candidate in [THUNLP Lab](https://twitter.com/tsinghuan
 
 ## Publications
 
-* <b>Yusheng Su</b>, Xiaozhi Wang, Yujia Qin, Chi-Min Chan, Yankai Lin, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou. <b>On Transferability of Prompt Tuning for Natural Language Understanding</b> (NAACL 2022). [[pdf]](https://arxiv.org/abs/2111.06719)
+* <b>Yusheng Su</b>, Xiaozhi Wang, Yujia Qin, Chi-Min Chan, Yankai Lin, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou. <b>On Transferability of Prompt Tuning for Natural Language Processing</b> (NAACL 2022). [[pdf]](https://arxiv.org/abs/2111.06719)
 
 * Yujia Qin, Yankai Lin, Jing Yi, Jiajie Zhang, Xu Han, Zhengyan Zhang, <b>Yusheng Su</b>, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou. <b>Knowledge Inheritance for Pre-trained Language Models</b> (NAACL 2022). [[pdf]](https://arxiv.org/abs/2105.13880) [[code]](https://github.com/thunlp/Knowledge-Inheritance)
 
