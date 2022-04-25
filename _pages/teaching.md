@@ -6,9 +6,8 @@ author_profile: true
 ---
 
 Teaching
-
+======
 * ASTRON 130 - Cosmology. 2018
-
 * ASTRON 17 - Galactic and Extragalactic Astronomy. 2017
   
 Service and leadership
