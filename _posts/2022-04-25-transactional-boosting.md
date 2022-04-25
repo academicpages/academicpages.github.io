@@ -29,6 +29,6 @@ In a boosted transaction, every method call has an inverse. When a transaction e
 ## Correctness rules for a transactional boosting system
 
 - **Commutativity Isolation -** "For any non-commutative method calls I<sub>1</sub>, R<sub>1</sub>  &isin; T<sub>1</sub> and I<sub>2</sub> , R<sub>2</sub> &isin; T<sub>2</sub> ; either T<sub>1</sub> commits or aborts before any additional method calls from T<sub?2</sub> are invoked, or vice-versa".
-- **Compensating Actions -** "For any history *h* and transaction *T*, if <T, aborted> &isin; *h*, then it must be the case that *h*|*T* = <T, init> . I<sub>0</sub> . R<sub>0</sub> .....  I<sub>i</sub> . R<sub>i</sub> . <T, aborted>  I<sub>i</sub><sup>-1</sup> . R<sub>i</sub><sup>-1</sup> .....  I<sub>0</sub><sup>-1</sup> . R<sub>0</sub><sup>-1</sup> . <T, aborted> where *i* indexes the last successfully completed method call. "
+- **Compensating Actions -** "For any history *h* and transaction *T*, if <T, aborted> &isin; *h*, then it must be the case that *h* &#124; *T* = <T, init> . I<sub>0</sub> . R<sub>0</sub> .....  I<sub>i</sub> . R<sub>i</sub> . <T, aborted>  I<sub>i</sub><sup>-1</sup> . R<sub>i</sub><sup>-1</sup> .....  I<sub>0</sub><sup>-1</sup> . R<sub>0</sub><sup>-1</sup> . <T, aborted> where *i* indexes the last successfully completed method call. "
 - **Disposable method calls -** "For any history *h* and Transaction *T*, any method call <T, xm(v)> . <T, r> that occurs after <T, commit> or <T, abort> must be disposable." 
 
