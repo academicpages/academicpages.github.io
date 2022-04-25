@@ -108,8 +108,8 @@
 }
 
 .applink {
-  width : 250px;
-  height : 250px;
+  width : 200px;
+  height : 200px;
   cursor : pointer;
   position : relative;
   float : left;
@@ -121,13 +121,25 @@
 }
 
 .applink:hover {
-    -webkit-transform:scale(1.2); /* Safari and Chrome */
-    -moz-transform:scale(1.2); /* Firefox */
-    -ms-transform:scale(1.2); /* IE 9 */
-    -o-transform:scale(1.2); /* Opera */
-    transform:scale(1.2);
+    -webkit-transform:scale(1.05); /* Safari and Chrome */
+    -moz-transform:scale(1.05); /* Firefox */
+    -ms-transform:scale(1.05); /* IE 9 */
+    -o-transform:scale(1.05); /* Opera */
+    transform:scale(1.05);
 
 }
+
+.biopic {
+  width : 150px;
+  height : 150px;
+  position : relative;
+  float : left;
+  margin-left : 15px;
+  margin-top : 15px;
+  margin-right : 15px;
+  margin-bottom: 15px;
+}
+
 
 .page__hero {
   position: relative;
