@@ -108,29 +108,25 @@
 }
 
 .applink {
-  width : 200px;
-  height : 200px;
-  overflow : hidden;
+  width : 250px;
+  height : 250px;
   cursor : pointer;
   position : relative;
   float : left;
   margin-left : 15px;
   margin-top : 15px;
   margin-right : 15px;
-    app {
-       transition: all .2s ease-in-out;
-     }
-      &:hover app {
-        -webkit-transform:scale(1.2); /* Safari and Chrome */
-        -moz-transform:scale(1.2); /* Firefox */
-        -ms-transform:scale(1.2); /* IE 9 */
-        -o-transform:scale(1.2); /* Opera */
-        transform:scale(1.2);
+  margin-bottom: 15px;
+  transition: all .2s ease-in-out;
+}
 
-    }
-    &:nth-child(1){
-      height : 130px
-    }
+.applink:hover {
+    -webkit-transform:scale(1.2); /* Safari and Chrome */
+    -moz-transform:scale(1.2); /* Firefox */
+    -ms-transform:scale(1.2); /* IE 9 */
+    -o-transform:scale(1.2); /* Opera */
+    transform:scale(1.2);
+
 }
 
 .page__hero {
