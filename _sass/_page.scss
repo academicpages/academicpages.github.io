@@ -105,17 +105,17 @@
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
-  
-  .applink {
+}
+
+.applink {
 	border-radius: 50%;
 	transition: transform .2s;
-  }
-  
-  .applink:hover {
+}
+
+.applink:hover {
 	-ms-transform: scale(1.5);
 	-webkit-transform: scale(1.5);
 	transform: scale(1.5); 
-  }
 }
 
 .page__hero {
