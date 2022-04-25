@@ -1,18 +1,19 @@
 ---
 permalink: /
-title: "Ayush Pandey"
+title: "Welcome!!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a PhD student at Sorbonne University working with the DELYS team in LIP6/Inria in Paris. My primary area of research
-is Distributed Systems. I am studying the strategies to 'Optimise Coordination in Concurrent and Geo-Distributed Systems'. In this work, the plan is to develop a pragmatic 
-approach to optimise concurrency control in actual, complex applications. The aim is to develop a tool that assists developers in identifying the concurrency control and 
-coordination required to achieve correctness. My latest work is in the following
 
-**AntidoteDB**
+Dear reader, I am a PhD student at Sorbonne University working with the [DELYS](https://team.inria.fr/delys/) team in LIP6/Inria in Paris. Previously i was with the [AGPL](https://pl.cs.uni-kl.de/homepage/en/) team in TU Kaiserslautern where i did my Master's thesis. 
+
+My primary area of research is Distributed Systems. I am studying the strategies to **Optimise Coordination in Concurrent and Geo-Distributed Systems**. This relates to developing a pragmatic approach to optimise concurrency control in actual, complex applications. The goal is to develop a tool that assists developers in identifying the concurrency control and coordination required to achieve correctness.
+
+
+### My latest work is in the following: 
 
 [AntidoteDB](https://www.antidotedb.eu) is a plane scale, highly available transactional database. During my Master thesis,
 I worked on designing and implementing
