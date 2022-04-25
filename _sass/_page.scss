@@ -108,14 +108,28 @@
 }
 
 .applink {
-	border-radius: 50%;
-	transition: transform .2s;
-}
+  width : 200px;
+  height : 200px;
+  overflow : hidden;
+  cursor : pointer;
+  position : relative;
+  float : left;
+  margin-left : 15px;
+  margin-top : 15px;
+    app {
+       transition: all .2s ease-in-out;
+     }
+      &:hover app {
+        -webkit-transform:scale(1.07); /* Safari and Chrome */
+        -moz-transform:scale(1.07); /* Firefox */
+        -ms-transform:scale(1.07); /* IE 9 */
+        -o-transform:scale(1.07); /* Opera */
+        transform:scale(1.07);
 
-.applink:hover {
-	-ms-transform: scale(1.5);
-	-webkit-transform: scale(1.5);
-	transform: scale(1.5); 
+    }
+    &:nth-child(1){
+      height : 130px
+    }
 }
 
 .page__hero {
