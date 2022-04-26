@@ -11,9 +11,9 @@ title                    : "副教授/硕士生导师"
 title_separator          : "-"
 name                     : &name "杜秀全"
 description              : &description "教师"
-url                      : https://dxq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dxqllp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dxqllp/dxq.github.io"
+repository               : "dxqllp/dxqllp.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
