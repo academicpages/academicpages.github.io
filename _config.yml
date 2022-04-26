@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "副教授/硕士生导师"
+title                    : "xxxxxxxxxxx"
 title_separator          : "-"
-name                     : &name "杜秀全"
-description              : &description "教师"
+name                     : &name "xxxxxxx"
+description              : &description "xxxxx"
 url                      : https://dxqllp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dxqllp/dxqllp.github.io"
