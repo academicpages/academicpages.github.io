@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "标题修改测试"
+title: "Publication"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 The research direction
 ======
-1. Machine learning/deep learning  2. Medical image processing  3. Bioinformatics
+1. Machine learning/deep learning  2. Medical image analysis  3. Bioinformatics
 
 A data-driven personal website
 ======
