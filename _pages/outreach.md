@@ -19,7 +19,7 @@ Guest scientist, *Here We Are* podcast hosted my Shane Mauss. [Episode 124: Suic
 
 ## Covered
 
-[*Take me to your leader: chiefs, shamans and followers*](https://www.iast.fr/take-me-your-leader-chiefs-shamans-and-followers) published in IAST Magazine No. 17, Summer 2021
+[*Take me to your leader: chiefs, shamans and followers*](https://www.iast.fr/take-me-your-leader-chiefs-shamans-and-followers) published in **IAST Magazine** No. 17, Summer 2021
 
 [*Press release: The nature and diversity of leadership across human societies*](https://www.iast.fr/press-release-nature-and-diversity-leadership-across-human-societies) by The Institute for Advanced Study in Toulouse, 13 August 2020
 
