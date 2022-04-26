@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "杜秀全 / Academics Page"
+title                    : "副教授/硕士生导师"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://dxqllp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "杜秀全"
+description              : &description "教师"
+url                      : https://dxq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dxqllp/dxqllp.github.io"
+repository               : "dxqllp/dxq.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "个人信息"
+  name             : "杜秀全"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "安徽·合肥"
