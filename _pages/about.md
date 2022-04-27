@@ -17,7 +17,7 @@ We invite graduate students and faculty from Political Science and Economics wit
 
 *News:* 
 
-- We are pleased to share the call for papers for the mini-conference on the **International Political Economy of the Environment**. [More information here.](https://gsipe-workshop.github.io/special-events/)
+- We are pleased to share the program for the mini-conference on the **International Political Economy of the Environment**, which will take place on **May 10, 2022**. [More information here.](https://gsipe-workshop.github.io/special-events/)
 
 - We are pleased to share the schedule for the **Graduate Students in International Political Economy (GSIPE) workshop for Spring 2022**. [More information here.](https://gsipe-workshop.github.io/schedule/)
 
