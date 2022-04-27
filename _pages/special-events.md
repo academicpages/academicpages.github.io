@@ -6,7 +6,7 @@ author_profile: true
 ---
 Information about special events and opportunties can be found here.
 
-- We are happy to announce program for the 4th Virtual Mini-Conference: **International Political Economy of the Environment on May 10, 2022.** <a href="https://gsipe-workshop.github.io/files/Environment-conference-program.pdf">Click here for more information. </a>
+- We are happy to announce the program for the 4th Virtual Mini-Conference: **International Political Economy of the Environment on May 10, 2022.** <a href="https://gsipe-workshop.github.io/files/Environment-conference-program.pdf">Click here for more information and for registration. </a>
 
 <hr>
 
