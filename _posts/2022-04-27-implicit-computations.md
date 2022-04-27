@@ -9,9 +9,7 @@ tags:
 
 Suppose you want to play the original version of Tetris, written for a Soviet Elektronika 60 computer - but you only have a binary version of that program. To solve the problem, you write an _emulator_ that runs on your modern MacBook, and simulates the Elektronika 60's behaviour. The straightforward way to write such an emulator is to simulate the Elektronika 60's memory states and CPU step-by-step - but is there another way?
 
-
 For particular problems, the answer may clearly be "yes" - for example, a program that adds all integers from 1 to n is equivalent to one that returns n*(n+1)/2. But for a generic emulator, one can form a suspicion that this is impossible: That for some inputs, the emulator's _execution trace_ - the history of instructions and memory states it went through before termination, and the causal implications that gave rise to them - must "implicitly contain" contain the execution trace of the original computer's calculation.[^1][^2] In the case of classical Turing machines, I currently don't understand how to formalize this intuition that yields neither false positives nor false negatives - I may write another post going into more detail.[^3] But considering quantum circuits rather than classical Turing machines, I think that formalizing it is possible - largely because the no-cloning principle precludes some strategies how a quantum emulator may fool a definition. What's more, it seems possible to me that one can prove such a notion using ideas from the recent paper ["Linear growth of quantum circuit complexity"](https://doi.org/10.1038/s41567-022-01539-6) by Haferkamp et al.
-
 
 The quantum case
 ----------------
@@ -29,10 +27,9 @@ An analogous claim isn't true in a merely reversible (or classical) model of com
 
 A recent paper by Haferkamp et al. shows that, for reasonable models of random circuits, the circuit complexity of a random unitary grows linearly with the number of steps. To my understanding, this is not exactly enough to show a hypothesis of the form in (\*). Nevertheless, it seems to me that the methods used in that paper may be helpful for a rigorous proof.
 
-
 Applications
 ------------
-Finally, I'll talk about possible applications of such a notion and result - one connecting to mathematical open problems, one more philosophical.
+Finally, some possible applications of such a notion and result - one connecting to mathematical open problems, one more philosophical.
 
  - A similar notion and related theorem may play a part in proving lower bounds on the computational complexity. Consider a deterministic algorithm A that solves an NP-complete problem, i.e. calculates whether a nondeterministic Turing machine NT will accept some input. If it calculates that NT won't accept, it makes a statement about the behaviour of NT for all the (exponentially many) nondeterministic choices. If one now proves a theorem that any such computation implicitly contains many of the possible intermediate computations of NT, and a theorem that a single computational step can't implicitly perform calculations for multiple unrelated branches at once, one has shown a lower bound on the number of steps.
  
