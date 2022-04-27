@@ -58,7 +58,7 @@ Meetings are scheduled on Mondays at noon US eastern time, unless otherwise note
 *Moderator:* Frederik Heitmüller (Leiden University).
 
 
-**April 25th: Simon Happersberger (Vrije Universiteit Brussel), "*The Effectiveness of Environmental Provisions and the Greening of EU Trade. A Qualitative Comparative Analysis.*"**
+**April 25th (Cancelled): Simon Happersberger (Vrije Universiteit Brussel), "*The Effectiveness of Environmental Provisions and the Greening of EU Trade. A Qualitative Comparative Analysis.*"**
 <br />
 *Moderator:* Ishana Ratan (Berkeley).
 
