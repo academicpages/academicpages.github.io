@@ -70,6 +70,7 @@ $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-black;
 $text-color                 : $dark-black;
+$muted-text-color: mix(#fff, $dark-gray, 35%) !default;
 $border-color               : $lighter-black;
 
 $primary-color              : #7a8288;
