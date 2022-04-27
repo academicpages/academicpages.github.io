@@ -12,6 +12,11 @@ var addressPoints = [
   ],
   // LASA
   [
+    "San Francisco, USA", // LASA 2022 (Zoom!)
+    37.764191276852294, -122.44087471538701
+  ],
+  // LASA
+  [
     "Barcelona, Spain", // LASA 2018 (Centre de Convencions Internacional de Barcelona)
     41.409584,
     2.219077
@@ -77,5 +82,46 @@ var addressPoints = [
     "Chicago, USA", // MPSA: 2020 (Palmer House)
     41.880646,
     -87.627422
+  ],
+  // EPSA
+  [
+    "Prague, Czech Republic", // EPSA: 2022 (Prague Congress Centre)
+    50.062439155334545,
+    14.429037832429705
+  ],
+  // ECPR
+  [
+    "Inssbruck, Austria", // ECPR: 2022 (University of Innsbruck)
+    47.26184826224502, 11.385602383668347
+  ],
+  // NSA
+  [
+    "Reykjavik, Iceland", // NSA: 2022 (University of Iceland)
+    64.13926337754505, -21.951501132825474
+  ],
+  // Abo Akademi
+  [
+    "Turku, Finland", // 2022 (Abo Akademi, Zoom)
+    60.45091001824319, 22.27774630764093
+  ],
+  // University of Turku, Political Science
+  [
+    "Turku, Finland", // 2021 (University of Turku, Zoom)
+    60.4584205391681, 22.28650237521656
+  ],
+  // University of Turku, Economics
+  [
+    "Turku, Finland", // 2021 (University of Turku, TSE, Zoom)
+    60.45477362543441, 22.289130142625428
+  ],
+  // University of Turku, INVEST Workshop on Experiments
+  [
+    "Turku, Finland", // 2021 (INVEST Workshop on Experiments, Zoom)
+    60.45477362543441, 22.289130142625428
+  ],
+  // University of Turku, INVEST Research Seminar
+  [
+    "Turku, Finland", // 2021 (INVEST Research Seminar, Zoom)
+    60.4489235638133, 22.293786371517424
   ]
 ];
