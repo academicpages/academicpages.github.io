@@ -19,7 +19,7 @@ Namely, consider a Hilbert space of $S$ qubits, and some subset $\mathcal{A}\sub
 
 $\mathcal{C}(U\mid V):=\min \\{t\mid U \approx A_t \ldots A_2 A_1 V, \\{A_1,\ldots, A_t\\}\subseteq \mathcal{A}\\}$.
 
-Now consider an equivalence between sequences of computation steps, $A_n \ldots A_2 A_1 \approx A'_m \ldots A'_2 A'_1$ - with the left-hand side considered the original computation and the right-hand side an alternative computation. Then we say that this equivalence is _k-unsurprising_ (with $k\ll n$ in the cases we are interested in) if for all $i\in \{1,\ldots, n\}$, there exists $j\in \\{1,\ldots, m\\}$ such that $\mathcal{C}(A_i \ldots A_1\mid A'_j \ldots A'_1)\leq k$ - in other words, during its proceeding, the alternative computation comes very close to calculating all intermediate results of the original one while it runs. Then the hypothesis of this post can then be made more rigorous in the folllowing style:
+Now consider an equivalence between sequences of computation steps, $A_n \ldots A_2 A_1 \approx A'\_m \ldots A'\_2 A'\_1$ - with the left-hand side considered the original computation and the right-hand side an alternative computation. Then we say that this equivalence is _k-unsurprising_ (with $k\ll n$ in the cases we are interested in) if for all $i\in \{1,\ldots, n\}$, there exists $j\in \\{1,\ldots, m\\}$ such that $\mathcal{C}(A_i \ldots A_1\mid A'\_j \ldots A'\_1)\leq k$ - in other words, during its proceeding, the alternative computation comes very close to calculating all intermediate results of the original one while it runs. Then the hypothesis of this post can then be made more rigorous in the folllowing style:
 
 (\*) **Choose S and a subset of S' qubits, let $m=poly(n)$, $n=poly(S')$ and $k$ such that $poly(k)=n$. Randomly chose unitaries $A_n \ldots A_1$ under the condition that they act trivially on all qubits except those in the subset.[^4] Then the probability that every equivalence $A_n \ldots A_2 A_1 \approx A'_m \ldots A'_2 A'_1$ is k-unsurprising is 1.**
 
@@ -27,7 +27,7 @@ Of course, one can consider various variants of this hypothesis. However, some b
 
 An analogous claim isn't true in a merely reversible (or classical) model of computation. A strategy to construct a sequence of $V$ contradicting it would be to first copy the input and compute a high-complexity unrelated function, then copy the input again and perform the original computation $U_1,\ldots$, and finally uncompute the unrelated function. In the general quantum case, the no-cloning principle forbids this.[^5]
 
-A recent paper by Haferkamp et al. shows that, for reasonable models of random circuits, the circuit complexity of a random unitary grows linearly with the number of steps. To my understanding, this is not exactly enough to show a hypothesis of the form in (*). Nevertheless, it seems to me that the methods used in that paper may be helpful for a rigorous proof.
+A recent paper by Haferkamp et al. shows that, for reasonable models of random circuits, the circuit complexity of a random unitary grows linearly with the number of steps. To my understanding, this is not exactly enough to show a hypothesis of the form in (\*). Nevertheless, it seems to me that the methods used in that paper may be helpful for a rigorous proof.
 
 
 Applications
