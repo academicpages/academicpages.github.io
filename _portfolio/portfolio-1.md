@@ -1,6 +1,6 @@
 ---
 title: "Master's Project: MPM Snow simulation in Unity"
-excerpt: "Interactive Snow Simulation using the Unity Game Engine <br/><img src='/images/500x300.png'>"
+excerpt: "Interactive Snow Simulation using the Unity Game Engine <br/><img src='/images/snowball.gif'>"
 collection: portfolio
 ---
 
