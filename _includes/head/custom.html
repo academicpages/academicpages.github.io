@@ -1,6 +1,24 @@
 {% include base_path %}
 
 <!-- start custom head snippets -->
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$$','$$'], ["\\(","\\)"] ],
+      displayMath: [ ['$$','$$'], ["\\(","\\)"] ],
+    },
+    TeX: {
+      Macros: {
+        bra: ["\\langle{#1}|", 1],
+        ket: ["|{#1}\\rangle", 1],
+        braket: ["\\langle{#1}\\rangle", 1],
+        bk: ["\\langle{#1}|{#2}|{#3}\\rangle", 3]
+     }
+   }
+  });
+</script>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
 <link rel="apple-touch-icon" sizes="57x57" href="{{ base_path }}/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="60x60" href="{{ base_path }}/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
