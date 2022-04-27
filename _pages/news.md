@@ -3,6 +3,8 @@ permalink: /news/
 title: "News and Opportunities"
 ---
 
+Have a job you would like to share? Email us at landdacommunity@gmail.com!
+
 ### Jobs
 
 [Research position in hydrology, atmospheric science, or earth science working in Land Data Assimilation for GEOS Weather Reanalysis](https://gestar2.umbc.edu/jobs-at-gestar-ii/research-position-in-hydrology-atmospheric-science-or-earth-science-working-in-land-data-assimilation-for-geos-weather-reanalysis/) Application deadline: 31/01/22
