@@ -16,21 +16,36 @@ I have presented / will be presenting at...
 
 ---
 
+
+#### European Political Science Association (EPSA)
+- Prague, Czech Republic: 2022. Panel: Patronage & Accountability.
+
+#### European Political Science Association (ECPR)
+- Inssbruck, Austria: 2022. Panel: Clientelism in Developing Democracies: Divergent Explanations, Convergent Outcomes (full panel organizer).
+
+#### Nordic Sociological Association Conference (NSA)
+- Reykjavik, Iceland: 2022. Panel: TBA.
+
+#### Society for Institutional & Organizational Economics (SIOE)
+- Toronto, Canada: 2022. Panel: TBA.
+
 #### Midwest Political Science Association (MPSA)
 
-- Chicago, IL: 2020. Panel Session: Experiments for Improving Democratic Institutions. With *Andrea Canales* (UOH, Chile). Canceled (COVID19).
+- Chicago, IL: 2020. Panel: Experiments for Improving Democratic Institutions. Canceled (COVID19).
 - Chicago, IL: 2018. JSS Session: Comparative Political Economy. [declined]
 - Chicago, IL: 2017. JSS Session: Political Economy of Development and Regime Change.
 
 
 #### American Political Science Association (APSA)
 
-- San Francisco, CA: 2020. Panel: Change, Stability, and Hierarchy in International Orders (coauthor, with Igor Kovac).
-- Washington D.C.: 2019. Panel:  The Political Economy of Latin America. Chair and (full paper panel organizer).
-- Philadelphia, PA: 2016. Panel: Evaluations and Inferences in Campaign Environments (coauthor, with Richard Lau and Mona Kleinberg).
+- San Francisco, CA: 2020. Panel: Change, Stability, and Hierarchy in International Orders.
+- Washington D.C.: 2019. Panel:  The Political Economy of Latin America. Chair and (full panel organizer).
+- Philadelphia, PA: 2016. Panel: Evaluations and Inferences in Campaign Environments.
 
 
 #### Latin American Studies Association (LASA)
+
+- San Francisco, CA: 2022. Panel: 
 
 - Barcelona, Spain: 2018. Panel: Building and Eroding State Capacity.
 
