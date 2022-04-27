@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Siru Liu"
 title_separator          : "-"
-name                     : &name "Siru Liu"
+name                     : &name "Siru Liu, PhD"
 description              : &description "Postdoctoral Research Fellow in the Department of Biomedical Informatics at Vanderbilt University Medical Center"
 url                      : https://siruliu1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Siru Liu"
-  avatar           : "profile.png"
+  avatar           : "Headshot.jpeg"
   bio              : "Postdoctoral Research Fellow, Department of Biomedical Informatics, Vanderbilt University Medical Center"
   location         : "Nashville, TN"
   employer         :
