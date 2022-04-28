@@ -1,6 +1,6 @@
 ---
-title: "Pension coverage in Chile, Colombia and Peru: Demography, migration and labor"
-excerpt: "(With María Amparo Cruz-Saco, Mirian Gil & Bruno Seminario). In <i>Globalization in crisis: challenges and opportunities for Latin America</i>, César Ferrari & David Fernando Varela S. (editors), Bogota: Pontificia Universidad Javeriana. In press. <b>(Original in Spanish)</b>"
+title: "Estimation of GDP at the subnational level using satellite data of night lights: Peru 1993-2018"
+excerpt: "(With Bruno Seminario). <i>Universidad del Pacífico, Research Document</i>. Forthcoming. <b>(Original in Spanish)</b>"
 collection: research
 ---
 
