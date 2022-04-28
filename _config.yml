@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rachel Widra's Research Website"
+title                    : "Rachel Widra"
 title_separator          : "-"
 name                     : &name "Rachel Widra"
 description              : &description ""
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
 
-  avatar           : "Headshot.png"
+  avatar           : "Headshot.JPG"
   bio              : "First year economics PhD student at UW-Madison"
   location         : "Madison, WI, USA"
   email            :
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "rachel-widra"
   google_plus      :
   keybase          :
   instagram        :
