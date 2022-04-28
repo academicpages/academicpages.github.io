@@ -4,7 +4,7 @@ title: ""
 ---
  
 Email: aranya.chakraborty@mail.mcgill.ca   
-Twitter: @aranyacecon
+Twitter: @aranyacecon  
 Phone: +1-514-699-9655   
 
   
