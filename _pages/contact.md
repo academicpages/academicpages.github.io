@@ -1,10 +1,10 @@
 ---
 permalink: /contact/
-title: "Contact"
+title: ""
 ---
-
-Name: Aranya Chakraborty   
+ 
 Email: aranya.chakraborty@mail.mcgill.ca   
+Twitter: @aranyacecon
 Phone: +1-514-699-9655   
 
   
