@@ -3,10 +3,12 @@ permalink: /datasets/
 title: "Datasets"
 ---
 
-Press releases - Five main spanish speaking parties in Spain 2008 - 2021
+Press releases from Interest Groups and parties - Spain 2008 - 2021
 ======
 * Party rhetoric data
-* Scraping of party press releases for PP, PSOE, Podemos, IU, Vox, Ciudadanos"
+* Scraping of press releases 
+ * Five main spanish speaking parties in Spain: PP, PSOE, Podemos, IU, Vox, Ciudadanos
+ * Forty interest group organizations
 * 2008-2021
 * 45,643 press releases
 
