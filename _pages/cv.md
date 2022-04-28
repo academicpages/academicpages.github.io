@@ -29,8 +29,9 @@ Presentations
 
 Teaching & Supervision
 ======
+* 2022 : Lecture on Inferring Correlations with Compositional Data in the master course <a href="https://kurser.dtu.dk/course/23257" target="_blank">Compositional Data Analysis with Applications in Genomics</a>
 * 2021 : Lecture on Compositional Data Analysis in Metagenomics in the master couse <a href="https://kurser.dtu.dk/course/23260"> 23260 Applied methods in metagenomics</a>
-* 2021: Teaching Assistant in master course <a href="https://kurser.dtu.dk/course/23257" target="_blank">Compositional Data Analysis with Applications in Genomics</a>
+* 2021: Teaching Assistant in the master course <a href="https://kurser.dtu.dk/course/23257" target="_blank">Compositional Data Analysis with Applications in Genomics</a>
 * 2021: Co-supervision of Master thesis project focusing on autmoating the discovery of novel AMR gene variants in sewage samples. 
 * 2020: Co-supervision of Bachelor thesis project on the topic of distribution and propagation of AMR genes in historical metagenomic data.
 
@@ -42,7 +43,8 @@ Skills
 
 Work experience
 ======
-* 2019- : PhD student, Research Group for Genomic Epidemiology, Technical University of Denmark
+* 2019- : PhD student, Research Group for Genomic Epidemiology, Technical University of Denmark (current)
+* 2022 : Visiting PhD Student, University of Vic - Central University of Catalonia, Spain.
 * 2019 : Research Assistant, Research Group for Genomic Epidemiology, Technical University of Denmark
 * 2017-2019: Student Assistant, in the data science team Advanced Analytics, Novozymes, Copenhagen
 
