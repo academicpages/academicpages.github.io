@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% if site.teaching.size > 0 %}
+{% if site.publications.size > 0 %}
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
