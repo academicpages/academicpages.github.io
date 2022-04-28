@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rachel Knevel"
-  avatar           : "Rachel.jpg"
-  bio              : "Principle Investigator of the Knevel Lab"
+  name             : "Knevel Lab"
+  avatar           : "Logo.jpg"
+  bio              : "Bioinformatics group of the LUMC Rheumatology department"
   location         : "Leiden, The Netherlands"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=rachel+knevel"
