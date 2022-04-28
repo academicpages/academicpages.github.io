@@ -83,7 +83,7 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $red, 25%);
+      color: $muted-text-color;
       border: 1px solid $light-red;
       border-radius: 0;
 
@@ -97,7 +97,7 @@
       }
 
       &.disabled {
-        color: mix(#fff, $red, 75%);
+        color: rgba($muted-text-color, 0.5);
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -151,7 +151,7 @@
     }
 
     &.disabled {
-      color: mix(#fff, $red, 75%);
+      color: rgba($muted-text-color, 0.5);
       pointer-events: none;
       cursor: not-allowed;
     }
