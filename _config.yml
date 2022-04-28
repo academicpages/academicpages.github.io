@@ -176,7 +176,7 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  data:
+  datasets:
     output: true
     permalink: /:collection/:path/
 
@@ -228,7 +228,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _data
+  # _datasets
   - scope:
       path: ""
       type: publications
