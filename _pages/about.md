@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome to my homepage!"
+excerpt: "Welcome to my homepage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Welcome to my homepage!
 
 I am Luis Palomino, I am a Peruvian economist from the [Universidad Nacional Mayor de San Marcos (UNMSM)](https://www.unmsm.edu.pe/la-universidad/historia#linea/){:target="_blank"} and an Incoming MA Student at [El Instituto](https://elin.uconn.edu/){:target="_blank"}-[University of Connecticut](https://uconn.edu/){:target="_blank"}. I will apply to obtain a PhD in Economics in any program of high prestige to develop an academic career.
 
