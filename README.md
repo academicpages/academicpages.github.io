@@ -1,3 +1,3 @@
 Knevel Lab Pages Repository
 
-For instructions see original repository at https://github.com/academicpages/academicpages.github.io
+Website can be found at https://knevel-lab.github.io/
