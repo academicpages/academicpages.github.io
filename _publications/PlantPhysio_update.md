@@ -5,7 +5,7 @@ permalink: /publication/update_PlantPhysiology
 date: April 21 2022
 venue: 'Plant Physio'
 doi: 'https://doi.org/10.1093/plphys/kiac175'
-pubtype: 'Update'
+pubtype: 'journal'
 authors: 'Rameez Arshad, Francesco Saccon, Pushan Bag , Avratanu Biswas, Claudio Calvaruso and more authors'
 excerpt_separator: ""
 ---
