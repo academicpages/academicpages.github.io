@@ -14,9 +14,9 @@ author_profile: true
 * Accurate and Scalable Gaussian Processes for Fine-grained Air Quality Inference. **Zeel B Patel**, Palak Purohit, Harsh Patel, Shivam Sahni, and Nipun Batra. AAAI 2022, Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22) (CORE A* with 15% acceptance rate) [[PDF](https://nipunbatra.github.io/papers/2022/aaai_22_air.pdf)] [[GitHub](https://github.com/patel-zeel/AAAI22)]
 
 ## 2021
-* Towards Active Air Quality Station Deployment. **Zeel B Patel**, Nipun Batra. SubSetML Workshop, ICML 2021 [[PDF](https://github.com/patel-zeel/patel-zeel.github.io/blob/master/_publications/papers/SubSetML21.pdf)]
+* Towards Active Air Quality Station Deployment. **Zeel B Patel**, Nipun Batra. SubSetML Workshop, ICML 2021 (CORE A*) [[PDF](https://github.com/patel-zeel/patel-zeel.github.io/blob/master/_publications/papers/SubSetML21.pdf)]
 
-* Vartalaap: what drives #AirQuality discussions: politics, pollution or pseudo-science? Rishiraj Adhikary, **Zeel B Patel**, Tanmay Srivastava, Nipun Batra, Mayank Singh, Udit Bhatia, and Sarath Guttikunda. ACM CSCW 2021 [[PDF](https://nipunbatra.github.io/papers/2021/vartalaap.pdf)] [[DOI](https://dl.acm.org/doi/abs/10.1145/3449170)]
+* Vartalaap: what drives #AirQuality discussions: politics, pollution or pseudo-science? Rishiraj Adhikary, **Zeel B Patel**, Tanmay Srivastava, Nipun Batra, Mayank Singh, Udit Bhatia, and Sarath Guttikunda. ACM CSCW 2021 (CORE A) [[PDF](https://nipunbatra.github.io/papers/2021/vartalaap.pdf)] [[DOI](https://dl.acm.org/doi/abs/10.1145/3449170)]
 
 ## 2020
 * Poster: A toolkit for spatial interpolation and sensor placement, **Zeel B Patel**, S Deepak Narayanan, Apoorv Agnihotri, Nipun Batra. ACM SenSys 2020 (CORE A*)[[PDF](https://github.com/patel-zeel/patel-zeel.github.io/blob/master/_publications/papers/polire.pdf)] [[DOI](https://dl.acm.org/doi/abs/10.1145/3384419.3430407)]
