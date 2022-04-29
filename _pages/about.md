@@ -18,7 +18,7 @@ In my leisure hours, I enjoy playing different sports (especially Cricket and Ta
 > Life is what happens when you're busy making other plans - *John Lennon*
 
 ## Updates
-- Do you want to serach for scientific publications and obiatin it's analytics? Here's link to one of my *code for fun* project, an web-app, called [PubLit](https://share.streamlit.io/avratanubiswas/publit/main/publit.py) 🎉
+- Do you want to serach for scientific publications and obiatin it's analytics? Here's link to one of my *code for fun* project, an web-app, called [PubLit](https://share.streamlit.io/avratanubiswas/publit/main/publit.py) 🚀
 - Mar 2022: Two of my co-authored articles got accepted in [Plant Physiology](https://academic.oup.com/plphys) journal!😊(details in the [Publications](https://avratanubiswas.github.io/publications/) page).
 - Feb 2022: Joined [Streamlit creators group](https://streamlit.io/creators)!🎈
 - Nov 2021: I have been awarded a [Straub Young Scientist Prize 2021](http://www.brc.hu/hu/blog/2021/11/5/8-fiatal-kutato-nyerte-el-straub-fiatal-kutatoi-dij-at).
