@@ -8,11 +8,17 @@ author_profile: true
 
 *Note: Please reach out to me over mail for PDFs not attchaed here/broken links*
 
+## 2022
+* Samachar: Print News Media on Air Pollution in India. Karm Patel, Rishiraj Adhikary, **Zeel B Patel**, Nipun Batra, and Sarath Guttikunda. In ACM SIGCAS Computing and Sustainable Societies (COMPASS ’22)
 
-| Year | Type | Title | Venue | CORE Rank | Link | Publisher link |
-| --: |:-- | :-- | :-- | :-: | :-: | :-: |
-|2022|Conference| Accurate and Scalable Gaussian Processes for Fine-grained Air Quality Inference | AAAI | A<sup>*</sup> | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="20" height="20" />]() | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="20" height="20" />]() |
-|2021|Workshop| Towards Active Air Quality Station Deployment | SubSetML, ICML | A<sup>*</sup> |[<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="20" height="20" />](https://github.com/patel-zeel/patel-zeel.github.io/blob/master/_publications/papers/SubSetML21.pdf) | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="20" height="20" />]() |
-|2021|Journal| Vartalaap: what drives# airquality discussions: politics, pollution or pseudo-science? | ACM CSCW | A | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="20" height="20" />](https://github.com/patel-zeel/patel-zeel.github.io/blob/master/_publications/papers/vartalaap.pdf) | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="20" height="20" />](https://dl.acm.org/doi/abs/10.1145/3449170) |
-|2020|Poster| A toolkit for spatial interpolation and sensor placement | ACM SenSys | A<sup>*</sup> | [<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="20" height="20" />](https://github.com/patel-zeel/patel-zeel.github.io/blob/master/_publications/papers/polire.pdf) | [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="20" height="20" />](https://dl.acm.org/doi/abs/10.1145/3384419.3430407) |
-|2020|Workshop| Active Learning: A Visual Tour | VisXAI, IEEE VIS | A |[<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="20" height="20" />](https://patel-zeel.github.io/active-learning-visualization) | - |
+* Accurate and Scalable Gaussian Processes for Fine-grained Air Quality Inference. **Zeel B Patel**, Palak Purohit, Harsh Patel, Shivam Sahni, and Nipun Batra. AAAI 2022, Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22) (CORE A* with 15% acceptance rate) [[PDF](https://nipunbatra.github.io/papers/2022/aaai_22_air.pdf)] [[GitHub](https://github.com/patel-zeel/AAAI22)]
+
+## 2021
+* Towards Active Air Quality Station Deployment. **Zeel B Patel**, Nipun Batra. SubSetML Workshop, ICML 2021 [[PDF](https://github.com/patel-zeel/patel-zeel.github.io/blob/master/_publications/papers/SubSetML21.pdf)]
+
+* Vartalaap: what drives #AirQuality discussions: politics, pollution or pseudo-science? Rishiraj Adhikary, **Zeel B Patel**, Tanmay Srivastava, Nipun Batra, Mayank Singh, Udit Bhatia, and Sarath Guttikunda. ACM CSCW 2021 [[PDF](https://nipunbatra.github.io/papers/2021/vartalaap.pdf)] [[DOI](https://dl.acm.org/doi/abs/10.1145/3449170)]
+
+## 2020
+* Poster: A toolkit for spatial interpolation and sensor placement, **Zeel B Patel**, S Deepak Narayanan, Apoorv Agnihotri, Nipun Batra. ACM SenSys 2020 (CORE A*)[[PDF](https://github.com/patel-zeel/patel-zeel.github.io/blob/master/_publications/papers/polire.pdf)] [[DOI](https://dl.acm.org/doi/abs/10.1145/3384419.3430407)]
+
+* Active Learning: A Visual Tour, **Zeel B Patel**, Nipun Batra. VisXAI Workshop, IEEE VIS 2020 (CORE A) [[URL](https://patel-zeel.github.io/active-learning-visualization)]
