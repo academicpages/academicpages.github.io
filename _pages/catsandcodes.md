@@ -7,4 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+> Wondering what this page is all about ? Well, I plan to document here, my *code for fun* projects. Ofcourse, I'm fond of cats. Why always code and coffee ☕ , why not cat and code 🐱?
+
+
