@@ -16,6 +16,15 @@ Before Carnegie Mellon, I worked as a design consultant in the industry for over
 
 [Download my CV](https://nuryildirim.github.io/files/YildirimCV.pdf){:target="_blank"}
 
+Recent Publications:
+------
+How Experienced Designers of Enterprise Applications Engage AI as a Design Material (CHI 2022) [link](https://www.researchgate.net/profile/Nur-Yildirim/publication/359661153_How_Experienced_Designers_of_Enterprise_Applications_Engage_AI_as_a_Design_Material/links/62471dec7931cc7ccf0bb8cc/How-Experienced-Designers-of-Enterprise-Applications-Engage-AI-as-a-Design-Material.pdf)
+**Nur Yildirim**, Alex Kass, Teresa Tung, Connor Upton, Donnacha Costello, Robert Giusti, Sinem Lacin, Sara Lovic, James O’Neill, Rudi O’Reilly Meehan, Eoin Ó Loideáin, Azzurra Pini, Medb Corcoran, Jeremiah Hayes, Diarmuid Cahalane, Gaurav Shivhare, Luigi Castoro, Giovanni Caruso, Changhoon Oh, James McCann, Jodi Forlizzi, John Zimmerman.
+
+Technical Feasibility, Financial Viability, and Clinician Acceptance: On the many challenges to AI in Clinical Practice
+AAAI Fall 2021 Symposium [link](https://www.researchgate.net/profile/Nur-Yildirim/publication/355964953_Technical_Feasibility_Financial_Viability_and_Clinician_Acceptance_On_the_many_challenges_to_AI_in_Clinical_Practice/links/618680ad61f0987720648573/Technical-Feasibility-Financial-Viability-and-Clinician-Acceptance-On-the-many-challenges-to-AI-in-Clinical-Practice.pdf)
+**Nur Yildirim**, John Zimmerman, Sarah Preum
+
 [Check my publications on Google Scholar](https://scholar.google.com/citations?user=1KjMCfQAAAAJ&hl=en){:target="_blank"}
 
 
