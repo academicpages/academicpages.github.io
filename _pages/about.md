@@ -17,6 +17,16 @@ News
 
 Selected Papers 
 ------
+---
+title: "xxx"
+excerpt: "aaa 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+---
+title: "xxx"
+excerpt: "aaa 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
 
 
 Education 
