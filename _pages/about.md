@@ -22,6 +22,9 @@ td, th {
    border: none!important;
    font-size: 16px
 }
+th {
+        display: none;
+    }
 </style>
 
 | | |
