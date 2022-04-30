@@ -26,10 +26,8 @@ td, th {
 
 | | |
 |---- | --- |
-|<img src="/images/sublime.png" width="400"> | Towards Unsupervised Deep Graph Structure Learning \[[PDF](https://arxiv.org/pdf/2201.06367.pdf)\] \[[Code](https://github.com/yixinliu233/SUBLIME)\]<br>**Yixin Liu**, Yu Zheng, Daokun Zhang, Hongxu Chen, Hao Peng, Shirui Pan.<br>The Web Conference (WWW), 2022.|
-|<img src="/images/CoLA.png" width="400"> | Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning \[[PDF](https://arxiv.org/pdf/2103.00113.pdf)\] \[[Code](https://github.com/yixinliu233/CoLA)\]<br>**Yixin Liu**, Zhao Li, Shirui Pan, Chen Gong, Chuan Zhou, George Karypis. <br>IEEE transactions on neural networks and learning systems (TNNLS), 2021.|
-
-![image](/images/sublime.png){: style="float: left", width="400"} Towards Unsupervised Deep Graph Structure Learning \[[PDF](https://arxiv.org/pdf/2201.06367.pdf)\] \[[Code](https://github.com/yixinliu233/SUBLIME)\]<br>**Yixin Liu**, Yu Zheng, Daokun Zhang, Hongxu Chen, Hao Peng, Shirui Pan.<br>The Web Conference (WWW), 2022.
+|<img src="/images/sublime.png" width="200"> | Towards Unsupervised Deep Graph Structure Learning \[[PDF](https://arxiv.org/pdf/2201.06367.pdf)\] \[[Code](https://github.com/yixinliu233/SUBLIME)\]<br>**Yixin Liu**, Yu Zheng, Daokun Zhang, Hongxu Chen, Hao Peng, Shirui Pan.<br>The Web Conference (WWW), 2022.|
+|<img src="/images/CoLA.png" width="200"> | Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning \[[PDF](https://arxiv.org/pdf/2103.00113.pdf)\] \[[Code](https://github.com/yixinliu233/CoLA)\]<br>**Yixin Liu**, Zhao Li, Shirui Pan, Chen Gong, Chuan Zhou, George Karypis. <br>IEEE transactions on neural networks and learning systems (TNNLS), 2021.|
 
 Education 
 ------
