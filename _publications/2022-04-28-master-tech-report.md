@@ -20,4 +20,4 @@ persisted into a checkpoint store and measure the performance of our design with
 benchmarks. The implementation of the system is based on AntidoteDB. An additional
 library is implemented to realise the discussed design
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://hal.inria.fr/hal-03654003v2)
