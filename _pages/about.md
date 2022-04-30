@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate at Monash University, supervised by [Dr. Shirui Pan](https://shiruipan.github.io/) and [A/Prof. Vincent Lee](https://research.monash.edu/en/persons/vincent-lee). I obtained my B.S. degree and M.S. degree from Beihang University in 2017 and 2020, respectively. 
+I am a Ph.D. candidate at Monash University, supervised by [Dr. Shirui Pan](https://shiruipan.github.io/), [A/Prof. Vincent Lee](https://research.monash.edu/en/persons/vincent-lee), and [Dr. Daokun Zhang](https://research.monash.edu/en/persons/daokun-zhang). I obtained my B.S. degree and M.S. degree from Beihang University in 2017 and 2020, respectively. 
 
-My research interests are in graph representation learning network, with a special focus on semi-supervised and unsupervised scenarios.
+My research interests are in graph representation learning and graph neural networks, with a special focus on unsupervised and weak-supervised scenarios.
 
 News
 ------
@@ -17,6 +17,7 @@ News
 
 Selected Papers 
 ------
+
 
 Education 
 ------
