@@ -24,7 +24,7 @@ author_profile: true
     - Responsibility:
         - Hold 4-hr office hours per week
         - Grade homework assignments
-        - Teach tutorial sessions on 1) Feature selection and 2) Classification using PLS-DA
+        - Design and teach tutorial sessions on 1) Feature selection and 2) Classification using PLS-DA
 -->
 
 ## Brown University
@@ -35,7 +35,7 @@ author_profile: true
     - Responsibility:
         - Hold 4-hr office hours per week
         - Grade homework assignments
-        - Hold tutorial sessions on 1) MATLAB and 2) introduction to vectors
+        - Hold tutorial sessions on 1) MATLAB and 2) Introduction to vectors
         - Proctor mid-term and final exams
 - Teaching Assistant, ENGN0040 Dynamics and Vibrations, Spring 2018
     - Instructor: Prof. Allan Bower and Prof. Jimmy Xu
@@ -43,5 +43,5 @@ author_profile: true
     - Responsibility:
         - Hold 4-hr office hours per week
         - Grade homework assignments
-        - Modulate group projects
+        - Proctor four group projects
         - Proctor mid-term and final exams
