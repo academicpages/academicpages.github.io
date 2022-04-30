@@ -26,7 +26,7 @@ Updates
 <summary>2022</summary>
 <ul>
   <li>
-    26 Apr - Our work "Samachar: Print News Media on Air Pollution in India" is accepted in <a style="text-decoration:none" href="https://compass.acm.org/">COMPASS</a> 2022. More details are <a style="text-decoration:none" href="https://patel-zeel.github.io/publications/">here</a>.
+    26 Apr - Our work "Samachar: Print News Media on Air Pollution in India" is accepted in <a style="text-decoration:none" href="https://compass.acm.org/">ACM COMPASS</a> 2022. More details are <a style="text-decoration:none" href="https://patel-zeel.github.io/publications/">here</a>.
   </li>
   <li>
     28 Feb - Joined as a reviewer at <a style="text-decoration:none" href="http://rescience.github.io/">The ReScience C journal</a>
