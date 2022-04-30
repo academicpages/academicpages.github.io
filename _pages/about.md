@@ -17,8 +17,11 @@ News
 
 Selected Papers 
 ------
-* ![avatar](/images/sublime.png =250x) Towards Unsupervised Deep Graph Structure Learning \[[PDF](https://arxiv.org/pdf/2201.06367.pdf)\] \[[Code](https://github.com/yixinliu233/SUBLIME)\]
+<!-- ![avatar](/images/sublime.png =250x) -->
+* <img src="/images/sublime.png" width="200"> Towards Unsupervised Deep Graph Structure Learning \[[PDF](https://arxiv.org/pdf/2201.06367.pdf)\] \[[Code](https://github.com/yixinliu233/SUBLIME)\]
+
 **Yixin Liu**, Yu Zheng, Daokun Zhang, Hongxu Chen, Hao Peng, Shirui Pan.
+
 The Web Conference (WWW), 2022.
 
 
