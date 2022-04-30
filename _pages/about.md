@@ -1,9 +1,4 @@
 ---
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 permalink: /
 title: "About Me"
 excerpt: "About me"
