@@ -20,7 +20,7 @@ Selected Papers
 <style>
 td, th {
    border: none;
-   font-size: 12px
+   font-size: 14px
 }
 th {
         display: none;
