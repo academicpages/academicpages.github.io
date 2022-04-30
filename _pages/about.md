@@ -37,8 +37,12 @@ Education
 
 * B.S. (2013-2017) in Beihang University
 
+Experience 
+------
+* **Alibaba**, Research Intern, 2020.
+
 Contact
-======
+------
 * Email: yixin.liu\[at\]monash\[dot\]edu
 
 * Office: Level 2, 25 Exhibition Walk, Clayton, VIC 3800
