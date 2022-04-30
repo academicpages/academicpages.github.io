@@ -19,8 +19,9 @@ Selected Papers
 ------
 <style>
 td, th {
-   border: none;
+   border: 5px solid grey;
    font-size: 14px
+   background-color: grey
 }
 th {
         display: none;
