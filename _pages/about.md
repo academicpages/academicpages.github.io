@@ -29,7 +29,7 @@ Education
 Contact
 ======
 * Email: yixin.liu\[at\]monash\[dot\]edu
-* 
+
 * Office: Level 2, 25 Exhibition Walk, Clayton, VIC 3800
 
 
