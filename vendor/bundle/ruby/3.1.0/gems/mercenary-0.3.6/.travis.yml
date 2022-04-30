@@ -1,0 +1,15 @@
+language: ruby
+rvm:
+  - 1.9.3
+  - 2.0.0
+  - 2.1
+sudo: false
+cache: bundler
+before_script: bundle update
+script: "./script/cibuild"
+notifications:
+  email:
+    recipients:
+      - mercenary@jekyllrb.com
+    on_success: change
+    on_failure: change

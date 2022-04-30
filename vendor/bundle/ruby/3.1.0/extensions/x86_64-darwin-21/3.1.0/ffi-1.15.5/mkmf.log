@@ -1,0 +1,257 @@
+DYLD_FALLBACK_LIBRARY_PATH=.:/usr/local/Cellar/ruby/3.1.2/lib pkg-config --exists libffi
+DYLD_FALLBACK_LIBRARY_PATH=.:/usr/local/Cellar/ruby/3.1.2/lib pkg-config --libs libffi |
+=> "-lffi\n"
+DYLD_FALLBACK_LIBRARY_PATH=.:/usr/local/Cellar/ruby/3.1.2/lib "clang -o conftest -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0/x86_64-darwin21 -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0/ruby/backward -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0 -I.  -I/usr/local/opt/libyaml/include -I/usr/local/opt/openssl@1.1/include -I/usr/local/opt/readline/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fdeclspec -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens -Wundef  -fno-common -pipe conftest.c  -L. -L/usr/local/Cellar/ruby/3.1.2/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib -L. -fstack-protector-strong -L/usr/local/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib     -lruby.3.1   "
+warning: unknown warning option '-Wno-cast-function-type'; did you mean '-Wno-bad-function-cast'? [-Wunknown-warning-option]
+1 warning generated.
+ld: warning: dylib (/usr/local/Cellar/ruby/3.1.2/lib/libruby.3.1.dylib) was built for newer macOS version (12.0) than being linked (11.3)
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return !!argv[argc];
+6: }
+/* end */
+
+DYLD_FALLBACK_LIBRARY_PATH=.:/usr/local/Cellar/ruby/3.1.2/lib "clang -o conftest -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0/x86_64-darwin21 -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0/ruby/backward -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0 -I.  -I/usr/local/opt/libyaml/include -I/usr/local/opt/openssl@1.1/include -I/usr/local/opt/readline/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fdeclspec -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens -Wundef  -fno-common -pipe conftest.c  -L. -L/usr/local/Cellar/ruby/3.1.2/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib -L. -fstack-protector-strong -L/usr/local/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib     -lruby.3.1 -lffi  "
+warning: unknown warning option '-Wno-cast-function-type'; did you mean '-Wno-bad-function-cast'? [-Wunknown-warning-option]
+1 warning generated.
+ld: warning: dylib (/usr/local/Cellar/ruby/3.1.2/lib/libruby.3.1.dylib) was built for newer macOS version (12.0) than being linked (11.3)
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return !!argv[argc];
+6: }
+/* end */
+
+DYLD_FALLBACK_LIBRARY_PATH=.:/usr/local/Cellar/ruby/3.1.2/lib pkg-config --cflags-only-I libffi |
+=> "-I/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/ffi\n"
+DYLD_FALLBACK_LIBRARY_PATH=.:/usr/local/Cellar/ruby/3.1.2/lib pkg-config --cflags-only-other libffi |
+=> "\n"
+DYLD_FALLBACK_LIBRARY_PATH=.:/usr/local/Cellar/ruby/3.1.2/lib pkg-config --libs-only-l libffi |
+=> "-lffi\n"
+package configuration for libffi
+incflags: -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/ffi
+cflags: 
+ldflags: 
+libs: -lffi
+
+have_library: checking for ffi_prep_closure_loc() in -lffi... -------------------- yes
+
+DYLD_FALLBACK_LIBRARY_PATH=.:/usr/local/Cellar/ruby/3.1.2/lib "clang -o conftest -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0/x86_64-darwin21 -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0/ruby/backward -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0 -I. -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/ffi  -I/usr/local/opt/libyaml/include -I/usr/local/opt/openssl@1.1/include -I/usr/local/opt/readline/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fdeclspec -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens -Wundef  -fno-common -pipe  conftest.c  -L. -L/usr/local/Cellar/ruby/3.1.2/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib -L. -fstack-protector-strong -L/usr/local/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib      -lffi -lruby.3.1 -lffi  -lffi  "
+warning: unknown warning option '-Wno-cast-function-type'; did you mean '-Wno-bad-function-cast'? [-Wunknown-warning-option]
+In file included from conftest.c:3:
+/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/ffi/ffi.h:449:5: warning: 'FFI_GO_CLOSURES' is not defined, evaluates to 0 [-Wundef]
+#if FFI_GO_CLOSURES
+    ^
+2 warnings generated.
+ld: warning: dylib (/usr/local/Cellar/ruby/3.1.2/lib/libruby.3.1.dylib) was built for newer macOS version (12.0) than being linked (11.3)
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <ffi.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))ffi_prep_closure_loc; return !p; }
+/* end */
+
+--------------------
+
+have_func: checking for ffi_prep_cif_var()... -------------------- yes
+
+DYLD_FALLBACK_LIBRARY_PATH=.:/usr/local/Cellar/ruby/3.1.2/lib "clang -o conftest -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0/x86_64-darwin21 -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0/ruby/backward -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0 -I. -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/ffi  -I/usr/local/opt/libyaml/include -I/usr/local/opt/openssl@1.1/include -I/usr/local/opt/readline/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fdeclspec -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens -Wundef  -fno-common -pipe  conftest.c  -L. -L/usr/local/Cellar/ruby/3.1.2/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib -L. -fstack-protector-strong -L/usr/local/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib     -lffi  -lffi -lruby.3.1 -lffi  -lffi  "
+warning: unknown warning option '-Wno-cast-function-type'; did you mean '-Wno-bad-function-cast'? [-Wunknown-warning-option]
+conftest.c:14:57: error: use of undeclared identifier 'ffi_prep_cif_var'
+int t(void) { void ((*volatile p)()); p = (void ((*)()))ffi_prep_cif_var; return !p; }
+                                                        ^
+1 warning and 1 error generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int main(int argc, char **argv)
+ 6: {
+ 7:   if (argc > 1000000) {
+ 8:     int (* volatile tp)(void)=(int (*)(void))&t;
+ 9:     printf("%d", (*tp)());
+10:   }
+11: 
+12:   return !!argv[argc];
+13: }
+14: int t(void) { void ((*volatile p)()); p = (void ((*)()))ffi_prep_cif_var; return !p; }
+/* end */
+
+DYLD_FALLBACK_LIBRARY_PATH=.:/usr/local/Cellar/ruby/3.1.2/lib "clang -o conftest -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0/x86_64-darwin21 -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0/ruby/backward -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0 -I. -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/ffi  -I/usr/local/opt/libyaml/include -I/usr/local/opt/openssl@1.1/include -I/usr/local/opt/readline/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fdeclspec -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens -Wundef  -fno-common -pipe  conftest.c  -L. -L/usr/local/Cellar/ruby/3.1.2/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib -L. -fstack-protector-strong -L/usr/local/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib     -lffi  -lffi -lruby.3.1 -lffi  -lffi  "
+warning: unknown warning option '-Wno-cast-function-type'; did you mean '-Wno-bad-function-cast'? [-Wunknown-warning-option]
+1 warning generated.
+ld: warning: dylib (/usr/local/Cellar/ruby/3.1.2/lib/libruby.3.1.dylib) was built for newer macOS version (12.0) than being linked (11.3)
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int main(int argc, char **argv)
+ 6: {
+ 7:   if (argc > 1000000) {
+ 8:     int (* volatile tp)(void)=(int (*)(void))&t;
+ 9:     printf("%d", (*tp)());
+10:   }
+11: 
+12:   return !!argv[argc];
+13: }
+14: extern void ffi_prep_cif_var();
+15: int t(void) { ffi_prep_cif_var(); return 0; }
+/* end */
+
+--------------------
+
+have_func: checking for ffi_raw_call()... -------------------- yes
+
+DYLD_FALLBACK_LIBRARY_PATH=.:/usr/local/Cellar/ruby/3.1.2/lib "clang -o conftest -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0/x86_64-darwin21 -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0/ruby/backward -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0 -I. -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/ffi  -I/usr/local/opt/libyaml/include -I/usr/local/opt/openssl@1.1/include -I/usr/local/opt/readline/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fdeclspec -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens -Wundef  -fno-common -pipe  conftest.c  -L. -L/usr/local/Cellar/ruby/3.1.2/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib -L. -fstack-protector-strong -L/usr/local/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib     -lffi  -lffi -lruby.3.1 -lffi  -lffi  "
+warning: unknown warning option '-Wno-cast-function-type'; did you mean '-Wno-bad-function-cast'? [-Wunknown-warning-option]
+conftest.c:14:57: error: use of undeclared identifier 'ffi_raw_call'
+int t(void) { void ((*volatile p)()); p = (void ((*)()))ffi_raw_call; return !p; }
+                                                        ^
+1 warning and 1 error generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int main(int argc, char **argv)
+ 6: {
+ 7:   if (argc > 1000000) {
+ 8:     int (* volatile tp)(void)=(int (*)(void))&t;
+ 9:     printf("%d", (*tp)());
+10:   }
+11: 
+12:   return !!argv[argc];
+13: }
+14: int t(void) { void ((*volatile p)()); p = (void ((*)()))ffi_raw_call; return !p; }
+/* end */
+
+DYLD_FALLBACK_LIBRARY_PATH=.:/usr/local/Cellar/ruby/3.1.2/lib "clang -o conftest -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0/x86_64-darwin21 -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0/ruby/backward -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0 -I. -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/ffi  -I/usr/local/opt/libyaml/include -I/usr/local/opt/openssl@1.1/include -I/usr/local/opt/readline/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fdeclspec -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens -Wundef  -fno-common -pipe  conftest.c  -L. -L/usr/local/Cellar/ruby/3.1.2/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib -L. -fstack-protector-strong -L/usr/local/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib     -lffi  -lffi -lruby.3.1 -lffi  -lffi  "
+warning: unknown warning option '-Wno-cast-function-type'; did you mean '-Wno-bad-function-cast'? [-Wunknown-warning-option]
+1 warning generated.
+ld: warning: dylib (/usr/local/Cellar/ruby/3.1.2/lib/libruby.3.1.dylib) was built for newer macOS version (12.0) than being linked (11.3)
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int main(int argc, char **argv)
+ 6: {
+ 7:   if (argc > 1000000) {
+ 8:     int (* volatile tp)(void)=(int (*)(void))&t;
+ 9:     printf("%d", (*tp)());
+10:   }
+11: 
+12:   return !!argv[argc];
+13: }
+14: extern void ffi_raw_call();
+15: int t(void) { ffi_raw_call(); return 0; }
+/* end */
+
+--------------------
+
+have_func: checking for ffi_prep_raw_closure()... -------------------- yes
+
+DYLD_FALLBACK_LIBRARY_PATH=.:/usr/local/Cellar/ruby/3.1.2/lib "clang -o conftest -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0/x86_64-darwin21 -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0/ruby/backward -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0 -I. -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/ffi  -I/usr/local/opt/libyaml/include -I/usr/local/opt/openssl@1.1/include -I/usr/local/opt/readline/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fdeclspec -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens -Wundef  -fno-common -pipe  conftest.c  -L. -L/usr/local/Cellar/ruby/3.1.2/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib -L. -fstack-protector-strong -L/usr/local/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib     -lffi  -lffi -lruby.3.1 -lffi  -lffi  "
+warning: unknown warning option '-Wno-cast-function-type'; did you mean '-Wno-bad-function-cast'? [-Wunknown-warning-option]
+conftest.c:14:57: error: use of undeclared identifier 'ffi_prep_raw_closure'
+int t(void) { void ((*volatile p)()); p = (void ((*)()))ffi_prep_raw_closure; return !p; }
+                                                        ^
+1 warning and 1 error generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int main(int argc, char **argv)
+ 6: {
+ 7:   if (argc > 1000000) {
+ 8:     int (* volatile tp)(void)=(int (*)(void))&t;
+ 9:     printf("%d", (*tp)());
+10:   }
+11: 
+12:   return !!argv[argc];
+13: }
+14: int t(void) { void ((*volatile p)()); p = (void ((*)()))ffi_prep_raw_closure; return !p; }
+/* end */
+
+DYLD_FALLBACK_LIBRARY_PATH=.:/usr/local/Cellar/ruby/3.1.2/lib "clang -o conftest -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0/x86_64-darwin21 -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0/ruby/backward -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0 -I. -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/ffi  -I/usr/local/opt/libyaml/include -I/usr/local/opt/openssl@1.1/include -I/usr/local/opt/readline/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fdeclspec -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens -Wundef  -fno-common -pipe  conftest.c  -L. -L/usr/local/Cellar/ruby/3.1.2/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib -L. -fstack-protector-strong -L/usr/local/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib     -lffi  -lffi -lruby.3.1 -lffi  -lffi  "
+warning: unknown warning option '-Wno-cast-function-type'; did you mean '-Wno-bad-function-cast'? [-Wunknown-warning-option]
+1 warning generated.
+ld: warning: dylib (/usr/local/Cellar/ruby/3.1.2/lib/libruby.3.1.dylib) was built for newer macOS version (12.0) than being linked (11.3)
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int main(int argc, char **argv)
+ 6: {
+ 7:   if (argc > 1000000) {
+ 8:     int (* volatile tp)(void)=(int (*)(void))&t;
+ 9:     printf("%d", (*tp)());
+10:   }
+11: 
+12:   return !!argv[argc];
+13: }
+14: extern void ffi_prep_raw_closure();
+15: int t(void) { ffi_prep_raw_closure(); return 0; }
+/* end */
+
+--------------------
+
+block in append_ldflags: checking for whether -pthread is accepted as LDFLAGS... -------------------- yes
+
+DYLD_FALLBACK_LIBRARY_PATH=.:/usr/local/Cellar/ruby/3.1.2/lib "clang -o conftest -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0/x86_64-darwin21 -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0/ruby/backward -I/usr/local/Cellar/ruby/3.1.2/include/ruby-3.1.0 -I. -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/include/ffi  -I/usr/local/opt/libyaml/include -I/usr/local/opt/openssl@1.1/include -I/usr/local/opt/readline/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fdeclspec -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wdeprecated-declarations -Wdivision-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wmisleading-indentation -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wextra-tokens -Wundef  -fno-common -pipe  conftest.c  -L. -L/usr/local/Cellar/ruby/3.1.2/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib -L. -fstack-protector-strong -L/usr/local/lib -L/usr/local/opt/libyaml/lib -L/usr/local/opt/openssl@1.1/lib -L/usr/local/opt/readline/lib     -lffi  -lffi -lruby.3.1 -pthread  "
+warning: unknown warning option '-Wno-cast-function-type'; did you mean '-Wno-bad-function-cast'? [-Wunknown-warning-option]
+1 warning generated.
+ld: warning: dylib (/usr/local/Cellar/ruby/3.1.2/lib/libruby.3.1.dylib) was built for newer macOS version (12.0) than being linked (11.3)
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return !!argv[argc];
+6: }
+/* end */
+
+--------------------
+
+extconf.h is:
+/* begin */
+1: #ifndef EXTCONF_H
+2: #define EXTCONF_H
+3: #define HAVE_FFI_PREP_CIF_VAR 1
+4: #define HAVE_FFI_RAW_CALL 1
+5: #define HAVE_FFI_PREP_RAW_CLOSURE 1
+6: #define HAVE_RAW_API 1
+7: #endif
+/* end */
+

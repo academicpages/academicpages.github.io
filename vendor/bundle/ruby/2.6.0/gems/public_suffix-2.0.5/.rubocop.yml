@@ -1,0 +1,18 @@
+inherit_from:
+  - .rubocop_defaults.yml
+
+AllCops:
+  Exclude:
+    # Exclude .gemspec files because they are generally auto-generated
+    - '*.gemspec'
+    # Exclude vendored folders
+    - 'tmp/**/*'
+    - 'vendor/**/*'
+    # Exclude artifacts
+    - 'pkg/**/*'
+
+Style/ClassAndModuleChildren:
+  Exclude:
+    - 'spec/**/*_spec.rb'
+    - 'test/**/*_test.rb'
+

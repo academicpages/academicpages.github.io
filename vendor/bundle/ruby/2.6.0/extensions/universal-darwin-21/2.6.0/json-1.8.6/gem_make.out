@@ -1,0 +1,21 @@
+current directory: /Users/avra/AvratanuBiswas.github.io/vendor/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json/ext/generator
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20220430-31631-loca1b.rb extconf.rb
+creating Makefile
+
+current directory: /Users/avra/AvratanuBiswas.github.io/vendor/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json/ext/generator
+make "DESTDIR=" clean
+
+current directory: /Users/avra/AvratanuBiswas.github.io/vendor/bundle/ruby/2.6.0/gems/json-1.8.6/ext/json/ext/generator
+make "DESTDIR="
+compiling generator.c
+In file included from generator.c:1:
+In file included from ./../fbuffer/fbuffer.h:5:
+In file included from /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby.h:33:
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:24:10: fatal error: 'ruby/config.h' file not found
+#include "ruby/config.h"
+         ^~~~~~~~~~~~~~~
+/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/ruby.h:24:10: note: did not find header 'config.h' in framework 'ruby' (loaded from '/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks')
+1 error generated.
+make: *** [generator.o] Error 1
+
+make failed, exit code 2

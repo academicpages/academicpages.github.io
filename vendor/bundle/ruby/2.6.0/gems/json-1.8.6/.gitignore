@@ -1,0 +1,17 @@
+.*.sw[pon]
+*.bundle
+coverage
+tags
+pkg
+.nfs.*
+.idea
+java/Json.iml
+Gemfile.lock
+.rvmrc
+*.rbc
+.rbx
+.AppleDouble
+.DS_Store
+*/**/Makefile
+*/**/*.o
+.byebug_history

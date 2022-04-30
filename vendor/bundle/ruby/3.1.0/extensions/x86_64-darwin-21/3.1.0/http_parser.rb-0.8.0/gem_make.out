@@ -1,0 +1,24 @@
+current directory: /Users/avra/AvratanuBiswas.github.io/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/usr/local/opt/ruby/bin/ruby -I /usr/local/Cellar/ruby/3.1.2/lib/ruby/3.1.0 -r ./siteconf20220430-31804-owhfio.rb extconf.rb
+creating Makefile
+
+current directory: /Users/avra/AvratanuBiswas.github.io/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= clean
+
+current directory: /Users/avra/AvratanuBiswas.github.io/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\=
+compiling ruby_http_parser.c
+warning: unknown warning option '-Wno-cast-function-type'; did you mean '-Wno-bad-function-cast'? [-Wunknown-warning-option]
+ruby_http_parser.c:365:17: warning: comparison of integers of different signs: 'size_t' (aka 'unsigned long') and 'long' [-Wsign-compare]
+    if (nparsed < len)
+        ~~~~~~~ ^ ~~~
+2 warnings generated.
+compiling ryah_http_parser.c
+warning: unknown warning option '-Wno-cast-function-type'; did you mean '-Wno-bad-function-cast'? [-Wunknown-warning-option]
+1 warning generated.
+linking shared-object ruby_http_parser.bundle
+ld: warning: dylib (/usr/local/Cellar/ruby/3.1.2/lib/libruby.3.1.dylib) was built for newer macOS version (12.0) than being linked (11.3)
+
+current directory: /Users/avra/AvratanuBiswas.github.io/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20220430-31804-ohhuz9

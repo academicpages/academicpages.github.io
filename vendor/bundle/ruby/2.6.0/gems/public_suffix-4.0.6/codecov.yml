@@ -1,0 +1,12 @@
+# https://docs.codecov.io/docs/coverage-configuration
+coverage:
+  precision: 1
+  round: down
+  status:
+    project:
+      default: false
+    patch:
+      default: false
+
+# https://docs.codecov.io/docs/pull-request-comments#section-requiring-changes
+comment: off

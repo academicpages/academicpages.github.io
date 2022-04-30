@@ -1,0 +1,13 @@
+---
+layout: page
+---
+
+{% if page.category_name %}
+  {% assign category_name = page.category_name %}
+{% endif %}
+
+<div class="container mx-auto">
+  {% for post in site.categories[category_name] %}
+    {% include post_block.html %}
+  {% endfor %}
+</div>

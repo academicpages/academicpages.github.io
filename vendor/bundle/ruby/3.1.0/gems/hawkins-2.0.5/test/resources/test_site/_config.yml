@@ -1,0 +1,21 @@
+# Do not use tabs in this file!
+# Required for running on Ruby 1.9
+encoding: utf-8
+
+# Change this if we ever need the site to reside in a sub-directory
+baseurl: ''
+
+permalink: /:year/:title.html
+paginate: 8
+paginate_path: /news/page:num
+
+markdown: kramdown
+kramdown:
+  # Use GitHub flavor markdown
+  input: GFM
+  hard_wrap: false
+
+# See http://jekyllrb.com/docs/configuration/#frontmatter-defaults
+defaults:
+  - scope: { type: "posts" }
+    values: { layout: "default" }

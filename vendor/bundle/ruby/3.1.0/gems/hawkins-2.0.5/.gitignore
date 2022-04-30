@@ -1,0 +1,31 @@
+test/resources/test_site/_site
+
+# rcov generated
+coverage
+coverage.data
+
+# rdoc generated
+rdoc
+
+# yard generated
+doc
+.yardoc
+
+# bundler
+.bundle
+
+# jeweler generated
+pkg
+
+# ruby environment manager
+.rvmrc
+.ruby-version
+.ruby-gemset
+
+# bundler
+Gemfile.lock
+
+# For vim:
+*.swp
+*.swo
+tags

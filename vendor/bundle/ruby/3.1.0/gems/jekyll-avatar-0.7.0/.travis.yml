@@ -1,0 +1,9 @@
+language: ruby
+rvm:
+  - 2.4
+cache: bundler
+script: script/cibuild
+env:
+  matrix:
+    - JEKYLL_VERSION="~> 3.0"
+    - JEKYLL_VERSION=">= 4.0.0.pre.alpha1"
