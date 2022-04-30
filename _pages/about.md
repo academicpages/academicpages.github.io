@@ -17,16 +17,9 @@ News
 
 Selected Papers 
 ------
----
-title: "xxx"
-excerpt: "aaa 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
----
----
-title: "xxx"
-excerpt: "aaa 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
----
+![avatar](/1.jpg) Towards Unsupervised Deep Graph Structure Learning \[[PDF]\](https://arxiv.org/pdf/2201.06367.pdf) \[[Code]\](https://github.com/yixinliu233/SUBLIME)
+**Yixin Liu**, Yu Zheng, Daokun Zhang, Hongxu Chen, Hao Peng, Shirui Pan.
+WWW, 2022.
 
 
 Education 
