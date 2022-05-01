@@ -14,7 +14,7 @@ author_profile: true
 </figure> -->
 
 <video controls="controls" width="50%" name="Collection-0.">
-  <source src="/images/Gallery/IMG_3806.mov">
+  <source src="/images/Gallery/IMG_3806.MOV">
 </video>
 
 <figure>
