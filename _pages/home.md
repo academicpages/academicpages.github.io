@@ -6,16 +6,15 @@ author_profile: true
 marp: false
 ---
 <h1> Hi, I'm Avra. </h1>
-Welcome! Another curious being, who is interested in science, politics and happenings in the world. You can expect me here to update you with my research projects and ocassional blog posts. Happy to connect with you all!
+Another curious being, who is interested in science, politics and happenings in the world. You can expect me to update here with my on-going [research](https://avratanubiswas.github.io/research/) works and ocassional [blog posts](https://avratanubiswas.github.io/cats-&-codes/). Happy to connect with you!
 
+------------
 <!-- <figure class="half" style="display:flex">
     <img style="width:500px" src="http://alexmarshall12.github.io/assets/img/colored_1693146.png">
     <img style="width:500px" src="/images/home_research.png">
     <figcaption>Caption describing these two images.</figcaption>
 </figure> -->
 <!-- <img src="/images/home_research.png" alt="Trulli" width="100px" height="100px"> -->
-	
-
 
 
 ## Updates
