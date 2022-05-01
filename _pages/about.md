@@ -10,19 +10,20 @@ redirect_from:
 
 I am a postdoctoral research fellow in the Department of Biomedical Informatics at Vanderbilt University Medical Center. I am interested in optimizing electronic health record features and functions, with an emphasis on clinical decision support, leveraging machine learning and natural language processing techniques to improve healthcare quality, and analyzing public perceptions using social and behavioral science. My research goal is to leverage innovative AI methods to improve healthcare quality and reduce health disparities.  
 
-Recent Research
+## Recent Research
 
 
-Education
+## Education
 
-Selected Awards/Honors
-2022 [Google Cloud Research Innovator](https://cloud.google.com/edu/researchers/innovators)
-National Cancer Institute’s [Multilevel Intervention Training Institute] Fellow (https://healthcaredelivery.cancer.gov/mlti/)
-2022-23 [American Association of University Women International Fellow](https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/)
-2021 Women in AMIA (WIA) Leadership Program](https://www.wialeadership.com/)
-2022 [AMIA Artificial Intelligence Evaluation Showcase] Finalist (https://amia.org/education-events/amia-2022-artificial-intelligence-evaluation-showcase)
-Service and Committees
+## Selected Awards/Honors
+* 2022 [Google Cloud Research Innovator](https://cloud.google.com/edu/researchers/innovators)
+* National Cancer Institute’s [Multilevel Intervention Training Institute] Fellow (https://healthcaredelivery.cancer.gov/mlti/)
+* 2022-23 [American Association of University Women International Fellow](https://www.aauw.org/resources/programs/fellowships-grants/current-opportunities/international/)
+* 2021 Women in AMIA (WIA) Leadership Program](https://www.wialeadership.com/)
+* 2022 [AMIA Artificial Intelligence Evaluation Showcase] Finalist (https://amia.org/education-events/amia-2022-artificial-intelligence-evaluation-showcase)
 
-Invited Talks
+## Service and Committees
+
+## Invited Talks
 
 
