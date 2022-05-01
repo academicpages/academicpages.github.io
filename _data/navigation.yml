@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Research"
+    url: /research/
+
   - title: "Publications"
     url: /publications/
 
@@ -12,5 +15,5 @@ main:
   - title: "CV"
     url: /cv/
   
-  - title: "Cats-&-Codes 🐱"
+  - title: "Cats-&-Codes"
     url: /cats-&-codes/
