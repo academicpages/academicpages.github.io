@@ -23,7 +23,7 @@ author_profile: true
 
 * **UKD: Debiasing Conversion Rate Estimation via Uncertainty-regularized Knowledge Distillation**  
 Zixuan Xu\*, **Penghui Wei**\*, Weimin Zhang, Shaoguo Liu, Liang Wang, Bo Zheng (\*: Equal contribution)  
-**WWW ’22** (long): Proceedings of the Web Conference 2022. Online, Lyon, France, April 25--29, 2022.    
+**WWW ’22** (long): Proceedings of the Web Conference 2022, pages 2078--2087. Online, Lyon, France, April 25--29, 2022.    
   
 * **AutoHERI: Automated Hierarchical Representation Integration for Post-Click Conversion Rate Estimation**  
 **Penghui Wei**, Weimin Zhang, Zixuan Xu, Shaoguo Liu, Kuang-chih Lee, Bo Zheng  
