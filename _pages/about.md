@@ -10,21 +10,31 @@ redirect_from:
 
 I am a postdoctoral research fellow in the Department of Biomedical Informatics at Vanderbilt University Medical Center. I am interested in optimizing electronic health record features and functions, with an emphasis on clinical decision support, leveraging machine learning and natural language processing techniques to improve healthcare quality, and analyzing public perceptions using social and behavioral science. My research goal is to leverage innovative AI methods to improve healthcare quality and reduce health disparities.  
 
-## Recent Research
-
 
 ## Education
+* Ph.D., Biomedical Informatics, University of Utah School of Medcine, 2017.8 - 2021.1
+* B.S., Computer Science and Mathematics, Magna Cum Laude with Honors, Univeristy of Arizona, 2015.1 - 2017.5
 
 ## Selected Awards/Honors
-* 2022-23 American Association of University Women International Fellow
-* 2022 Google Cloud Research Innovator
-* 2022 National Cancer Institute’s Multilevel Intervention Training Institute Fellow
-* 2022 American Medical Informatics Association (AMIA) Artificial Intelligence Evaluation Showcase Finalist 
-* 2021 Women in AMIA (WIA) Leadership Program
+* American Association of University Women International Fellow, 2022
+* Google Cloud Research Innovator, 2022
+* National Cancer Institute’s Multilevel Intervention Training Institute Fellow, 2022
+* American Medical Informatics Association (AMIA) Artificial Intelligence Evaluation Showcase Finalist, 2022
+* American Thoracic Society (ATS) Student Scholar Program, 2022
+* Women in AMIA (WIA) Leadership Program, 2021
+* AMIA Leadership and Education Award Donation (LEAD) Trainee Meeting Scholarship, 2021
+* John D. Morgan Ph.D. Award, University of Utah (an award presented each year to a PhD student who conducted the best research during their final year of studies), 2020
+* IEEE International Conference on Healthcare Informatics Doctoral Consortium Fellow, 2020
+* Helmuth F. Orthner Travel Assistance Scholarships, University of Utah, 2018
 
 
 ## Service and Committees
+* Senior Program Committee member, IEEE International Conference on Healthcare Informatics (ICHI), 2022
+* Program Committee member, IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022, 2021
+* Committee member, Women in AMIA (Awards and Leadership, Pathways), 2022
+* Committee member, Diversity Equity and Inclusion (DEI), AMIA, 2022
+* Committee member, Diversity Equity and Inclusion (DEI), Department of Biomedical Infromatics, Vanderbilt Univeristy Medical Center, 2021, 2022
 
 ## Invited Talks
-
+* American Medical Informatics Association, Clinical Decision Support Workgroup, CDS Chats. (May 4, 2022). “The Potential for Leveraging Machine Learning to Filter Medication Alerts.” 
 
