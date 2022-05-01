@@ -23,7 +23,7 @@ I am a postdoctoral research fellow in the Department of Biomedical Informatics 
 * American Thoracic Society (ATS) Student Scholar Program, 2022
 * Women in AMIA (WIA) Leadership Program, 2021
 * AMIA Leadership and Education Award Donation (LEAD) Trainee Meeting Scholarship, 2021
-* John D. Morgan Ph.D. Award, University of Utah (an award presented each year to a PhD student who conducted the best research during their final year of studies), 2020
+* John D. Morgan Ph.D. Award, University of Utah, 2020
 * IEEE International Conference on Healthcare Informatics Doctoral Consortium Fellow, 2020
 * Helmuth F. Orthner Travel Assistance Scholarships, University of Utah, 2018
 
@@ -32,8 +32,8 @@ I am a postdoctoral research fellow in the Department of Biomedical Informatics 
 * Senior Program Committee member, IEEE International Conference on Healthcare Informatics (ICHI), 2022
 * Program Committee member, IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022, 2021
 * Committee member, Women in AMIA (Awards and Leadership, Pathways), 2022
-* Committee member, Diversity Equity and Inclusion (DEI), AMIA, 2022
-* Committee member, Diversity Equity and Inclusion (DEI), Department of Biomedical Infromatics, Vanderbilt Univeristy Medical Center, 2021, 2022
+* Committee member, Diversity Equity and Inclusion, AMIA, 2022
+* Committee member, Diversity Equity and Inclusion, Department of Biomedical Infromatics, Vanderbilt Univeristy Medical Center, 2021, 2022
 
 ## Invited Talks
 * American Medical Informatics Association, Clinical Decision Support Workgroup, CDS Chats. (May 4, 2022). “The Potential for Leveraging Machine Learning to Filter Medication Alerts.” 

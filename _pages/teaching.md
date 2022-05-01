@@ -1,13 +1,10 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
 ---
 
-Selected Papers [Google Scholar](https://scholar.google.com/citations?user=JKXOENIAAAAJ&hl=en)
-
-1.	Thomas Reese, Adam Wright, **Siru Liu**, Richard Boyce, Andrew Romero, Guilherme Del Fiol, Kensaku Kawamoto, Daniel Malone. Improving the specificity of drug-drug interaction alerts: Can it be done?, American Journal of Health-System Pharmacy. 2022. doi: 10.1093/ajhp/zxac045
 
 
 {% if author.googlescholar %}
