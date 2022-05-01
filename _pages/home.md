@@ -11,7 +11,7 @@ Another curious being, who is interested in science, politics and happenings in 
 
 <div style="width:500px;">
   <div style="float:left; border: 2px solid AliceBlue;text-align:center;width:49%;border-radius:10px; padding:5px; background: AliceBlue;">
-  <a href="https://avratanubiswas.github.io/cats-and-codes/" style="color:black">Research</a>
+  <a href="https://avratanubiswas.github.io/research/" style="color:black">Research</a>
   </div> 
   <div style="float:right;border: 2px solid MistyRose;text-align:center;width:49%;border-radius:10px; padding:5px; background: MistyRose;">
   
@@ -25,7 +25,7 @@ Another curious being, who is interested in science, politics and happenings in 
 
 <hr width="50%" />
 
-- Would you like to search for scientific keywords and obiatin it's related analytics from publications to authors? Here's link to one of my [*code for fun*](https://avratanubiswas.github.io/cats-&-codes/) project, a web-app, called [PubLit](https://share.streamlit.io/avratanubiswas/publit/main/publit.py) 🚀
+- Would you like to search for scientific keywords and obiatin it's related analytics from publications to authors? Here's link to one of my [*code for fun*](https://avratanubiswas.github.io/cats-and-codes/) project, a web-app, called [PubLit](https://share.streamlit.io/avratanubiswas/publit/main/publit.py) 🚀
 - Mar 2022: Two of my co-authored articles got accepted in [Plant Physiology](https://academic.oup.com/plphys) journal!🎉(details in the [Publications](https://avratanubiswas.github.io/publications/) page).
 - Feb 2022: Joined [Streamlit creators group](https://streamlit.io/creators)!🎈
 - Nov 2021: I have been awarded a [Straub Young Scientist Prize 2021](http://www.brc.hu/hu/blog/2021/11/5/8-fiatal-kutato-nyerte-el-straub-fiatal-kutatoi-dij-at).
