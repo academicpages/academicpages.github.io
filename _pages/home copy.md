@@ -8,23 +8,70 @@ marp: false
 <h1> Hi, I'm Avra. </h1>
 Another curious being, who is interested in science, politics and happenings in the world. You can expect me to update here with my on-going [research](https://avratanubiswas.github.io/research/) works and ocassional [blog posts](https://avratanubiswas.github.io/cats-and-codes/). Happy to connect with you!
 
+<!-- <div style="width:800px;">
+    <div style="background: AliceBlue; 
+                width:300px; 
+                float:left;
+                text-align:center;
+                font-size: 20px; 
+                color: black;
+                padding: 10px; 
+                width: 25%;
+                border: 2px solid MediumBlue; 
+                border-radius: 10px;
+                margin: 10px;">
+      <a href="https://avratanubiswas.github.io/research/">Research</a>
+    </div>
 
-<div style="width:500px;">
-  <div style="float:left; border: 2px solid AliceBlue;text-align:center;width:49%;border-radius:10px; padding:5px; background: AliceBlue;">
-  <a href="https://avratanubiswas.github.io/cats-and-codes/" style="color:black">Research</a>
-  </div> 
-  <div style="float:right;border: 2px solid MistyRose;text-align:center;width:49%;border-radius:10px; padding:5px; background: MistyRose;">
+  <div style="background: MistyRose; 
+                width:300px; 
+                float:right;
+                text-align:center;
+                font-size: 20px; 
+                color: black;
+                padding: 10px; 
+                width: 25%;
+                border: 2px solid Crimson; 
+                border-radius: 10px;
+                margin: 10px;">
+      <a href="https://avratanubiswas.github.io/cats-and-codes/">Blog Posts</a>
+    </div>
+</div> -->
+
+<!-- <div style="width: 100%; display: table;">
+    <div style="display: table-row; height: 100px;">
+        <div style="width: 50%; display: table-cell; background: AliceBlue;text-align:center;border-radius: 10px;padding: 10px;margin: 10px;font-size: 20px; ">
+          <a href="https://avratanubiswas.github.io/research/">Research</a>
+        </div>
+        <div style="display: table-cell;width: 50%; background: MistyRose;text-align:center;border-radius: 10px;padding: 10px;margin: 10px;font-size: 20px; "> 
+          <a href="https://avratanubiswas.github.io/cats-and-codes/">Blog Posts</a>
+        </div>
+    </div>
+</div> -->
+
+
+<div style="width:800px;">
+  <div style="width:300px; float:left; border: 2px solid MediumBlue">
   
-  <a href="https://avratanubiswas.github.io/cats-and-codes/" style="color:black">Blog Posts</a>
+  <a href="https://avratanubiswas.github.io/cats-and-codes/">Research</a>
+  </div>
+  
+  <div style="width:300px; float:right;border: 2px solid Crimson">
+  
+  <a href="https://avratanubiswas.github.io/cats-and-codes/">Blog Posts</a>
   </div>
 </div>
 
-<hr>
+<!-- <figure class="half" style="display:flex">
+    <img style="width:500px" src="http://alexmarshall12.github.io/assets/img/colored_1693146.png">
+    <img style="width:500px" src="/images/home_research.png">
+    <figcaption>Caption describing these two images.</figcaption>
+</figure> -->
+<!-- <img src="/images/home_research.png" alt="Trulli" width="100px" height="100px"> -->
+
 ------------
+
 ## Updates
-
-<hr width="50%" />
-
 - Would you like to search for scientific keywords and obiatin it's related analytics from publications to authors? Here's link to one of my [*code for fun*](https://avratanubiswas.github.io/cats-&-codes/) project, a web-app, called [PubLit](https://share.streamlit.io/avratanubiswas/publit/main/publit.py) 🚀
 - Mar 2022: Two of my co-authored articles got accepted in [Plant Physiology](https://academic.oup.com/plphys) journal!🎉(details in the [Publications](https://avratanubiswas.github.io/publications/) page).
 - Feb 2022: Joined [Streamlit creators group](https://streamlit.io/creators)!🎈

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Cats & Codes"
-permalink: /cats-&-codes/
+permalink: /cats-and-codes/
 author_profile: true
 ---
 {% include base_path %}
@@ -10,7 +10,7 @@ Well, the title itself is self explanatory - I'm very fond of cats 🐱. Here yo
 ----------------
 <img style="border-top:20px solid crimson;border-right:20px solid crimson;border-left:20px solid crimson;border-bottom:1px solid crimson;"
 src="/images/CodeForFun/publit_demo.gif" alt="PubLit demo GIF" width="640px" height="389px"> 
-## PubLit - A Web app to search scientific publictions and obtain analytics 
+## PubLit - A Web app to search scientific publications and obtain analytics 
 > *What analytics does PubLit offer? 
 Authors details, journals related informations, author's network, yearly trends and many more.*
 
@@ -43,7 +43,10 @@ src="/images/CodeForFun/medium_post3.png" alt="PubLit demo GIF" width="640px" he
 
 
 ----------
-**_Looking for any web-developers who would be happy to collaborate with me, primarily to dedicate this "Cats-&-Codes" page into an independent website. Feel free to write to me._**
+**_Looking for any web-developers who would be happy to collaborate, primarily to dedicate this "Cats-&-Codes" page into an independent website. Also,I'm planning to host blog posts here. Feel free to write to me if you are interested._**
+
+<hr width="50%" />
+
 <section class="page__share">
   {% if site.data.ui-text[site.locale].share_on_label %}
     <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "Share on" }}</h4>
