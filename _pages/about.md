@@ -14,4 +14,4 @@ My academic interest lie at the intersection of international political economy,
 
 Gustav Mahler once said he worked as a conductor to live, but lived to compose. The great thing about academia is that I never feel forced to choose between work and 'life'. My intellecutal and non-academic passions blur into each other and I wouldn't be the same researcher without my other interests. Talking of which, I am passionate about music of various sorts and from different ages, play the French horn (badly), watch and talk about cinema, take [photos](https://www.flickr.com/photos/136054004@N08/), like to read non-academic books too, do pastry, love to learn languages, and I like to see as much of the world and learn from other people as much as possible.
 
-In case you would like to know more, you can read about my research, published work, and teaching by clicking on the top items.
+In case you would like to know more, you can read about my research and published work through the top menu.
