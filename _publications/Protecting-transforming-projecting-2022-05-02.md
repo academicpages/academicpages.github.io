@@ -2,7 +2,7 @@
 title: "Protecting, Transforming, and Projecting the Single Market"
 collection: publications
 permalink: /publication/protecting-transforming
-excerpt: 'Tracing the rise of open strategic autonomy and digital sovereignty in the Single Market'
+excerpt: 'Tracing the rise of open strategic autonomy and digital sovereignty in the Single Market.'
 date: 2022-05-02
 venue: 'preprint'
 ---
