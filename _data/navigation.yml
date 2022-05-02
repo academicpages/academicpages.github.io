@@ -6,8 +6,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
   - title: "CV"
     url: https://github.com/luukschmitz/my-website/raw/master/files/CV_rmd.pdf
