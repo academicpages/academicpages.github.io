@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/coheritization
 excerpt: 'Examining the contradictions around policy coherence and EU external policy.'
 date: 2020-01-01
-venue: 'Globalizations'
+venue: 'Globalizations 17(4)'
 ---
 
 **From coherence to coheritization: explaining the rise of policy coherence in EU external policy** 
