@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Jingxian Liao"
+excerpt: "Jingxian Liao"
 author_profile: true
 redirect_from: 
   - /about/
