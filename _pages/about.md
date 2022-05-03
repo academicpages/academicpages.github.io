@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ## Bio
 Third year PhD student, O'Neill School of Public and Environmental Affairs  
 Rumsfeld Foundation Fellow  
