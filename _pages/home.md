@@ -9,7 +9,7 @@ marp: false
 Another curious being, who is interested in science, politics and happenings in the world. You can expect me to update here with my on-going [research](https://avratanubiswas.github.io/research/) works and ocassional [blog posts](https://avratanubiswas.github.io/cats-and-codes/). Happy to connect with you!
 
 
-<div style="width:500px;">
+<div style="width:50%;">
   <div style="float:left; border: 2px solid AliceBlue;text-align:center;width:49%;border-radius:10px; padding:5px; background: AliceBlue;">
   <a href="https://avratanubiswas.github.io/research/" style="color:black">Research</a>
   </div> 
