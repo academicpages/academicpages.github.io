@@ -79,9 +79,9 @@ Papers Under Review
 -------------------
 
 * **"Aegis: Exposing backdoors in robust machine learning models."**
-**Soremekun, Ezekiel**\*, Sakshi Udeshi, and  Sudipta Chattopadhyay. 
-ACM Transactions on Software Engineering and Methodology (TOSEM) 2022. (Major Revision).\* equal contribution.
-[preprint](https://arxiv.org/pdf/2003.00865.pdf?ref=https://githubhelp.com)
+**Soremekun, Ezekiel**\*, Sakshi Udeshi\*, and  Sudipta Chattopadhyay. 
+ACM Transactions on Software Engineering and Methodology (TOSEM) 2022. (Major Revision). \* equal contribution.
+[preprint](https://arxiv.org/pdf/2003.00865.pdf)
 
 * **"Repairing Inputs via Synthesis."**
 Kirschner, Lukas, Rahul Gopinath, **Ezekiel Soremekun**, and Andreas Zeller. 
@@ -90,6 +90,7 @@ ACM Joint Meeting on European Software Engineering Conference and Symposium on t
 * **"Software Fairness: An Analysis and Survey."**
 **Soremekun, Ezekiel**, Mike Papadakis, Maxime Cordy, and Yves Le Traon.
 ACM Cmputing Survey (CSUR) 2022.  (Under Review)
+[Github - Preprint and Data](https://github.com/ezekiel-soremekun/Software-Fairness-Analysis)
 
 
 Thesis
