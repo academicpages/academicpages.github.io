@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-spring-teaching-1
 venue: "Indiana University, O'Neill School of Public and Environmental Affairs"
-date: 2022-08
+date: 2022-01-11
 location: "Bloomington, Indiana"
 ---
 
