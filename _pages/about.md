@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ezekiel Soremekun is a Research Scientist #Associate (Postdoctoral researcher) 
+Ezekiel Soremekun is a Research Scientist 
 at the [SerVal Group](https://wwwen.uni.lu/snt/research/serval) 
 (led by Prof. Dr. Yves Le Traon), 
 [SnT](https://wwwen.uni.lu/snt) 
@@ -52,10 +52,9 @@ and non-functional properties (e.g., security, robustness, and fairness) of
 software systems, including aritificial intelligence (AI) -driven systems (e.g., automated classifiers). 
 
 Ezekiel's research objective is to **apply scientific methods to validate software systems**. 
-His main research goal is to address key challenges in software validation  
-by **developing methods and tools to support developers during software testing and debugging activities**.
+His main research goal is to address key challenges in software validation by **developing methods and tools to support developers during software testing and debugging activities**.
 
-The over-arching research aim is to provide useful validation techniques, tools and empirical data for the following:
+The over-arching research aim is to provide useful validation techniques, tools and empirical studies for the following:
    * __Software Testing__: *systematic generation of test inputs* to expose unexpected program behaviors, 
    * __Automated Debugging__: how to *automatically diagnose, mitigate and repair* incorrect program behaviors, 
    * __Human Factors in SE__: studying *developer behaviors* during software testing and debugging activities, and 
