@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Ezekiel Soremekun is a Research Associate (Postdoctoral researcher) at 
-the [SerVal Group](https://wwwen.uni.lu/snt/research/serval) 
+Ezekiel Soremekun is a Research Scientist #Associate (Postdoctoral researcher) 
+at the [SerVal Group](https://wwwen.uni.lu/snt/research/serval) 
 (led by Prof. Dr. Yves Le Traon), 
 [SnT](https://wwwen.uni.lu/snt) 
 -- Interdisciplinary Centre for Security, Reliability and Trust, 
@@ -31,7 +31,7 @@ Education
 Ezekiel has a
 PhD in Software Engineering (2021) from 
 [Saarland University](https://www.uni-saarland.de/en/home.html). 
-He was also a graduate student (2013-2016) at the 
+He was a graduate student (2013-2016) at the 
 [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de).
 He also obtained an
 MSc in Computer Science (2011) from 

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Ezekiel Soremekun"
 title_separator          : "-"
 name                     : &name "Ezekiel Soremekun"
-description              : &description "Research Associate (PostDoc)"
+description              : &description "Research Scientist" #Associate (PostDoc)"
 url                      : https://ezekiel-soremekun.github.io # the base hostname & protocol for your site e.g. "https://ezekiel-soremekun.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://ezekiel-soremekun.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Ezekiel Soremekun"
   avatar           : "profile.png" #"Ezekiel_Soremekun.jpg"
-  bio              : "Research Associate (PostDoc) at SnT, University of Luxembourg." 
+  bio              : "Research Scientist at SnT, University of Luxembourg." 
   location         : "Luxembourg"
   employer         :
   pubmed           : 

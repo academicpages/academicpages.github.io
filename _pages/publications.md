@@ -11,6 +11,12 @@ and [DBLP](https://dblp.org/pid/200/2864.html).
 Selected Journal Papers
 ------------------------
 
+* **"Mutation Testing in Evolving Systems: Studying the relevance of mutants to code evolution."**
+Ojdanic, Milos, **Ezekiel Soremekun**, Renzo Degiovanni, Mike Papadakis, Yves Le Traon.
+ACM Transactions on Software Engineering and Methodology (TOSEM) 2022.
+[preprint](https://arxiv.org/pdf/2112.14566)
+
+
 * **"Astraea: Grammar-based fairness testing."** 
 **Soremekun, Ezekiel**\*, Sakshi Udeshi\*, and Sudipta Chattopadhyay. 
 IEEE Transactions on Software Engineering (2022). \* equal contribution.
@@ -31,6 +37,11 @@ IEEE Transactions on Software Engineering (2020)
 
 Selected Conference Papers
 --------------------------
+
+* **"GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses."**
+Ma, Wei, Mengjie Zhao, **Ezekiel Soremekun**, Qiang Hu, Jie Zhang, Mike Papadakis, Maxime Cordy, Xiaofei Xie, and Yves Le Traon.
+International Conference on Mining Software Repositories (MSR) 2022.
+[preprint](https://arxiv.org/pdf/2112.01218)
 
 * **"Abstracting failure-inducing inputs."**
 Gopinath, Rahul, Alexander Kampmann, Nikolas Havrikov, **Ezekiel O. Soremekun**, and Andreas Zeller.
@@ -64,11 +75,29 @@ In 2017 32nd IEEE/ACM International Conference on Automated Software Engineering
 [preprint](https://publications.cispa.saarland/1436/1/ase17-mainp148.pdf)
 
 
+Papers Under Review
+-------------------
+
+* **"Aegis: Exposing backdoors in robust machine learning models."**
+**Soremekun, Ezekiel**\*, Sakshi Udeshi, and  Sudipta Chattopadhyay. 
+ACM Transactions on Software Engineering and Methodology (TOSEM) 2022. (Major Revision).\* equal contribution.
+[preprint](https://arxiv.org/pdf/2003.00865.pdf?ref=https://githubhelp.com)
+
+* **"Repairing Inputs via Synthesis."**
+Kirschner, Lukas, Rahul Gopinath, **Ezekiel Soremekun**, and Andreas Zeller. 
+ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering  ESEC/FSE 2022. (Under Review)
+
+* **"Software Fairness: An Analysis and Survey."**
+**Soremekun, Ezekiel**, Mike Papadakis, Maxime Cordy, and Yves Le Traon.
+ACM Cmputing Survey (CSUR) 2022.  (Under Review)
+
+
 Thesis
 -------
 * **"Evidence-driven testing and debugging of software systems."**
 **Soremekun, Ezekiel**.
-PhD Dissertation (2021), Saarland Univerity.
+PhD Dissertation (2021), Saarland University.
+Nominated for the Ernst Denert Preis for (Best PhD Dissertation in) Software Engineering in Germany [video](https://www.youtube.com/watch?v=rc5lW9NH1zY&list=PLzsZ3_H0dFA7TsclvQ5sLsuoGsoPiwHZq&index=6)
 [link](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/31243)
 [preprint](https://publikationen.sulb.uni-saarland.de/bitstream/20.500.11880/31243/1/Phd_thesis_Ezekiel_Soremekun-no-cv.pdf)
 
