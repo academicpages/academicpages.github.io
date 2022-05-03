@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+PhD Public Affairs - Indiana University (2019 - 2024 expected) [^1]  
+[Faculty profile](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html)  
+MPA - Brigham Young University (2017 - 2019) [^2]  
+BS - Utah Valley University (2014 - 2017) [^3]  
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Under construction
+* 2022 Spring SPEA-V 202 Contemporary Economic Issues in Public Affairs (3 CR)  
+* 2021 Fall SPEA-V 202 Contemporary Economic Issues in Public Affairs (3 CR)  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Policy Analysis  
+- Stata  
+- R 
+- Python  
 
 Publications
 ======
@@ -56,4 +49,15 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+- Health Policy Workshop, Student Coordinator, 8/2020 - present  
+- O'Neill PhD Student Association President, 2021 - present  
+- Undergraduate Honors Thesis healthcare panel chair, 4/29/2022  
+- Economics Advisory Board member, Utah Valley University, 2021 - present  
+- Program Advisory Committee member, MPA at Brookline College, 2022  
+- Association of O'Neill PhD Students Board member, 2020 - 2021  
+  
+    
+    ___  
+[^1]: Major emphasis Policy Analysis, minor emphasis Public Finance  
+[^2]: Minor in Information Systems (IS); Major field emphasis Program Management, minor field emphasis in healthcare  
+[^3]: Major in Economics  
