@@ -13,7 +13,7 @@ I am a third year PhD student studying policy analysis at the O'Neill School of 
 
 ## Education
 PhD Public Affairs - Indiana University (2019 - 2024 expected) [^1]  
-        [Faculty profile](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Faculty profile](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html)  
 MPA - Brigham Young University (2017 - 2019) [^2]  
 BS - Utah Valley University (2014 - 2017) [^3]  
 
