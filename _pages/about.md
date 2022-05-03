@@ -47,5 +47,5 @@ BS - Utah Valley University (2014 - 2017) [^3]
     
 ___  
 [^1]: Major emphasis Policy Analysis, minor emphasis Public Finance  
-[^2]: Minor in Information Systems (IS); Major field emphasis Program Management, minor field emphasis in healthcare  
+[^2]: Minor in Information Systems (IS); major field emphasis Program Management, minor field emphasis Healthcare  
 [^3]: Major in Economics  
