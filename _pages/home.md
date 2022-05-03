@@ -18,7 +18,7 @@ Another curious being, who is interested in science, politics and happenings in 
   <a href="https://avratanubiswas.github.io/cats-and-codes/" style="color:black">Blog Posts</a>
   </div>
 </div>
-<br></br>
+<br/>
 <hr width="50%" />
 ## Updates
 - Would you like to search for scientific keywords and obiatin it's related analytics from publications to authors? Here's link to one of my [*code for fun*](https://avratanubiswas.github.io/cats-and-codes/) project, a web-app, called [PubLit](https://share.streamlit.io/avratanubiswas/publit/main/publit.py) 🚀
