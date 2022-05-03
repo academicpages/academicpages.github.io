@@ -18,7 +18,9 @@ at the
 
 Professional Experience
 -----------------------
-Ezekiel was previously a researcher (and PhD candidate) at the [Software Engineering Research Group](https://andreas-zeller.info) 
+Ezekiel was previously a research associate (post-doctoral researcher) 
+at the SerVal Group, SnT, University of Luxembourg.
+Before then, he was a researcher (and PhD candidate) at the [Software Engineering Research Group](https://andreas-zeller.info) 
 (of Prof. Dr. Andreas Zeller) at 
 [CISPA Helmholtz Center for Information Security](https://cispa.de/en), [Saarland University](https://www.uni-saarland.de/en/home.html).
 He was also a visiting researcher at the 
