@@ -18,9 +18,6 @@ Another curious being, who is interested in science, politics and happenings in 
   <a href="https://avratanubiswas.github.io/cats-and-codes/" style="color:black">Blog Posts</a>
   </div>
 </div>
-
-<hr>
-------------
 ## Updates
 
 <hr width="50%" />
