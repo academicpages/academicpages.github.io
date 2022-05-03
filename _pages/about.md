@@ -9,9 +9,7 @@ redirect_from:
 ---
 
 ## Bio
-Third year PhD student, O'Neill School of Public and Environmental Affairs  
-Rumsfeld Foundation Fellow  
-Healthcare Industry Scholar, Marriott School of Business  
+I am a third year PhD student studying policy analysis at the O'Neill School of Public and Environmental Affairs, with minor emphasis in public finance. The best part of my career path is how I am able to combine my love for research with my passion for teaching and serving others. I plan on making the world a better place through my efforts to analyze public healthcare policy, advance theory-based research, and inspire students of public affairs. 
 
 ## Education
 PhD Public Affairs - Indiana University (2019 - 2024 expected) [^1]  
@@ -43,7 +41,9 @@ BS - Utah Valley University (2014 - 2017) [^3]
 - Program Advisory Committee member, MPA at Brookline College, 2022  
 - Association of O'Neill PhD Students Board member, 2020 - 2021  
   
-  
+### Fellowships
+- Rumsfeld Foundation Fellow, 2019 - 2021  
+- Healthcare Industry Scholar, Marriott School of Business, 2018 - 2019  
     
 ___  
 [^1]: Major emphasis Policy Analysis, minor emphasis Public Finance  
