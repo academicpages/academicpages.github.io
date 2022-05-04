@@ -25,7 +25,7 @@ Selected Papers
 ------
 <style>
 td, th {
-   font-size: 14px
+   font-size: 13px
 }
 th {
         display: none;
