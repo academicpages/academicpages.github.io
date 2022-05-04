@@ -10,7 +10,7 @@ redirect_from:
 
 
 <a href="http://www.hectorbahamonde.com/">
-<img src="/resources/Profile4.jpeg" alt="me"  style="width:386px;height:330;;border:0;">
+<img src="/resources/pic1.jpg" alt="me"  style="width:386px;height:330;;border:0;">
 </a>
 
 I am a <b>Senior Researcher</b> at the [INVEST Research Flagship Center](https://invest.utu.fi) of the University of Turku, Finland. I also serve as <b>Research Director</b> of the [INVEST-Hub](https://www.utu.fi/en/investhub) about experimental research and interventions.
