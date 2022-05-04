@@ -16,7 +16,11 @@ Education
 
 Work Experience
 ======
-* 02.2018 – Present\
+* 04.2021 – Present\
+  Staff Applied Research Scientist\
+  Kaia Health GmbH, Munich, Germany
+
+* 02.2018 – 04.2021\
   Research Engineer, Digital Humans in Motion \
   Perceiving Systems Department, Michael Black, Max-Planck Institute for Intelligent Systems, Tübingen, Germany
     
