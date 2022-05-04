@@ -13,7 +13,9 @@ My research interests are in graph representation learning and graph neural netw
 
 News
 ------
-* 2022/01: One paper of [unsupervised graph structure learning](https://arxiv.org/pdf/2201.06367.pdf) has been accepted to WWW 2022.
+* 2022/05: Our survey of [graph self-supervised learning](https://arxiv.org/pdf/2103.00111.pdf) has been accepted to IEEE TKDE.
+
+* 2022/01: Our paper of [unsupervised graph structure learning](https://arxiv.org/pdf/2201.06367.pdf) has been accepted to WWW 2022.
 
 Selected Papers 
 ------
