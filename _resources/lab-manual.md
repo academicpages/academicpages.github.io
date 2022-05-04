@@ -29,7 +29,7 @@ It’s very easy to let your research work slide! Successfully completing a rese
 
 The Flanagan lab does not institute fixed work hours. That being said, it is important to have interactions with lab members and other members of the School, which generally occurs from 10am-4pm. Lab members are generally expected to start with a 9am-5pm schedule, but this will shift over time as priorities change. Expectations about the number of hours worked per week differs for each type of lab member (see below), but in general most lab members are expected to treat research as their full-time job (i.e., 40 hours per week). This does not mean whiling away hours in the lab or office doing non-research tasks. If you are unproductive in the lab/office, you are welcome to find a more productive place to work. I set this example by generally working from 8am-5pm on weekdays and not showing up on the weekends (with exceptions). 
 
-Lab members are welcome to work from home if their current line of research allows it and you don’t miss any previously-scheduled lab meetings, school meetings, or other commitments. If you work from home, I request that you put it on the Flanagan-lab shared Google calendar so that I know where you are, and to keep Slack open so that the lab can easily contact you.
+Lab members are welcome to work from home if their current line of research allows it and you don’t miss any previously-scheduled lab meetings, school meetings, or other commitments. If you work from home, please change your profile on Slack to show 'Working remotely' and keep Slack open so that the lab can easily contact you. 
 
 ## Vacation and Medical Leave
 
