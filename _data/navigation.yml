@@ -13,8 +13,8 @@ main:
   - title: "Data"
     url: /data/
 
-  - title: "Teaching"
-    url: /teaching/
+  #- title: "Teaching"
+  #  url: /teaching/
 
   #- title: "Portfolio"
   #  url: /portfolio/
