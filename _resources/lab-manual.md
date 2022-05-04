@@ -33,7 +33,7 @@ Lab members are welcome to work from home if their current line of research allo
 
 ## Vacation and Medical Leave
 
-Your mental and physical health are very important – to you and to ensure your success in the lab. You are expected to take time off when needed. If you feel as though you need help, contact Student Care for free: https://www.canterbury.ac.nz/support/needtotalk/. I expect that you will observe official university holidays unless there is a valid reason not to (e.g., the fish need to be fed), and I expect you will also take additional holidays. Taking vacation should be discussed two weeks or more in advance with me, and it is your responsibility to find someone to cover any lab duties you are responsible for. 
+Your mental and physical health are very important – to you and to ensure your success in the lab. You are expected to take time off when needed. If you feel as though you need help, contact Student Care for free: https://www.canterbury.ac.nz/support/needtotalk/. I expect that you will observe official university holidays unless there is a valid reason not to (e.g., the fish need to be fed), and I expect you will also take additional holidays. Taking vacation should be discussed two weeks or more in advance with me, and it is your responsibility to find someone to cover any lab duties you are responsible for. Update your slack profile to reflect if you are away for either vacation or medical leave.
 
 ## Meetings and contact
 
