@@ -22,7 +22,7 @@ author_profile: true
         - To gain practice in identifying and using appropriate computational algorithms for analyzing "omic biology data"
         - To gain capability in interpreting results from computational analysis of "omic biology data"
     - Responsibility:
-        - Hold 2-hr office hours per week
+        - Hold office hours
         - Grade homework assignments
         - Design and teach tutorial sessions on 1) Feature selection and 2) Classification using PLS-DA
 
