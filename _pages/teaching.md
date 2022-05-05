@@ -11,21 +11,21 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-<!--
+
 ## Massachusetts Institute of Technology
 
 - Teaching Assistant, 20.260/20.460 Comptationl Analysis: Biological Data, Spring 2022
     - Instructor: Prof. Douglas Lauffenburger and Prof. Forest White
     - Description: This course is aimed at meeting the following learning objectives:
-        - To gain understanding of how to frame questions concerning aspired prediction and insight from computational analysis and modeling of `omic data' in biology
-        - To gain familiarity with foundational aspects of probability, statistics, and linear algebra underlying algorithms commonly employed in `omic biology data' analysis
-        - To gain practice in identifying and using appropriate computational algorithms for analyzing `omic biology data'
-        - To gain capability in interpreting results from computational analysis of `omic biology data'
+        - To gain understanding of how to frame questions concerning aspired prediction and insight from computational analysis and modeling of "omic data" in biology
+        - To gain familiarity with foundational aspects of probability, statistics, and linear algebra underlying algorithms commonly employed in "omic biology data" analysis
+        - To gain practice in identifying and using appropriate computational algorithms for analyzing "omic biology data"
+        - To gain capability in interpreting results from computational analysis of "omic biology data"
     - Responsibility:
-        - Hold 4-hr office hours per week
+        - Hold 2-hr office hours per week
         - Grade homework assignments
         - Design and teach tutorial sessions on 1) Feature selection and 2) Classification using PLS-DA
--->
+
 
 ## Brown University
 
