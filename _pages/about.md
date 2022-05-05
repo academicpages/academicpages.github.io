@@ -23,6 +23,7 @@ My research interests center on interpretable machine learning and natural langu
 *Email:* peter@cs.unc.edu
 
 ## News
+* 2022 - Paper accepted to ACL 2022 Workshop on [Natural Language Supervision](https://sites.google.com/princeton.edu/nl-supervision)! "When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data" [[pdf]](https://peterbhase.github.io/files/when-expl-help-LNLS-ACL2022.pdf) [[code]](https://github.com/peterbhase/ExplanationRoles)
 * 2022 - Invited talk at [NEC Laboratories Europe](https://www.neclab.eu/), on Explainable Machine Learning in NLP
 * 2022 - Invited talk at the [National Institute for Standards and Technology](https://www.nist.gov/), on [Evaluating Explainable AI](https://arxiv.org/abs/2005.01831)
 * 2022 - Invited talk at the [Allen Institute for AI](https://allenai.org/), on [Detecting, Updating, and Visualizing Language Model Beliefs](https://arxiv.org/abs/2111.13654)
