@@ -31,7 +31,6 @@ author_profile: true
 - C. Ma, **Qisen Xu**, **Xiangfeng Wang**, **Bo Jin**, X. Zhang, Y. Wang and Y. Zhang, Boundary-aware Supervoxel-level Iteratively Refined Interactive 3D Image Segmentation with Multi-agent Reinforcement Learning. *IEEE Transactions on Medical Imaging*, 40(10), 2021, pp.2563-2574.
 - **Xiangfeng Wang**, J. Yan, **Bo Jin** and **Wenhao Li**, Distributed and Parallel ADMM for Structured Nonconvex Optimization Problem. *IEEE Transactions on Cybernetics*, 51(9), 2021, pp.4540-4552.
 - Y. Song, T. Liu, T. Wei, **Xiangfeng Wang**, Z. Tao and M. Chen, FDA3: Federated Defense Against Adversarial Attacks for Cloud-Based IIoT Applications. *IEEE Transactions on Industrial Informatics*, 17(11), 2021, pp.7830-7838.
-- B. Wang, **Tingyu Wu**, **Wenhao Li**, **Da Huang**, **Bo Jin**, F. Yang, A. Zhou and **Xiangfeng Wang**, Large-scale UAVs Confrontation via Multi-agent Reinforcement Learning. *Journal of System Simulation*, 33(8), 2021, pp.1-15. (Chinese version)
 - **Yun Hua**, **Xiangfeng Wang**, **Bo Jin**, **Wenhao Li**, J. Yan, X. He and **Hongyuan Zha**, Hyper-Meta Reinforcement Learning with Sparse Reward. *KDD*, 2021.
 - **Wenyan Liu**, **Chuyun Shen**, **Xiangfeng Wang**, **Bo Jin**, X. Lu, X. Wang, **Hongyuan Zha** and J. He, Fairness in Trustworthy Machine Learning: A Survey. *Journal of Software*, 32(5), 2021, pp.1404-1426. (Chinese version)
 - **Qisen Xu**, **Qian Wu**, **Hu Yiqiu**, **Bo Jin**, B. Hu, F. Zhu, Y. Li and **Xiangfeng Wang**, Semi-supervised Medical Image Segmentation with Confidence Calibration. *IJCNN*, 2021.
