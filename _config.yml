@@ -83,8 +83,8 @@ author:
   name             : "Kalyan Kolukuluri" # "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Assistant Professor, Economics" #"Your biography for the left-hand sidebar"
-  location         : "India" 
-  employer         : "Indian Institute of Management Visakhapatnam"
+  location         : 
+  employer         : "Indian Institute of Management, Visakhapatnam"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "kalyan@iimv.ac.in"
