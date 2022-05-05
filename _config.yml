@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kalyan Kolukuluri Website" #"Your Name / Site Title"
+title                    : "Kalyan Kolukuluri" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Kalyan Kolukuluri" # "Your Name"
 description              : &description "Dr. Kalyan Kolukuluri personal website" #"personal description"

@@ -14,6 +14,6 @@ My research interests are in applied econometrics, particularly in investigating
 
 | **Education** | **Year** |
 | ----------- | ----------- |
-| PhD (Economics) | 2018 |
-| Master of Public Management | 2012 |
-| Bachelor of Technology | 2005 |
+| PhD (Economics) - Indian Institute of Management Bangalore | 2018 |
+| Master of Public Management - SDA Bocconi, Italy | 2012 |
+| Bachelor of Technology - National Institute of Technology, Jalandhar, India | 2005 |
