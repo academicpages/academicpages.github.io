@@ -4,11 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 **Tech reports**  
-* <b>Scribble-Supervised Medical Image Segmentation via Dual-Branch Network and Dynamically Mixed Pseudo Labels Supervision</b> <br> 
-  <b>Xiangde Luo</b>, Minhao Hu, Wenjun Liao, Shuwei Zhai, Tao Song, Guotai Wang, Shaoting Zhang<br>
-  <i>This is a comprehensive study about scribble-supervised medical image segmentation based on the ACDC dataset<br>
- [[paper](https://arxiv.org/abs/2203.02106)][[code](https://github.com/HiLab-git/WSL4MIS)]
-  
 * <b>WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jianghong Xiao, Jieneng Chen, Tao Song, Xiaofan Zhang, Kang Li, Dimitris N. Metaxas, Guotai Wang, Shaoting Zhang<br>
   <i>This is a tech report which has been submitted to a journal for consideration.<br>
@@ -31,6 +26,11 @@ author_profile: true
    [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521001481)][[code](https://github.com/Luoxd1996/MIDeepSeg)][[demo](https://www.youtube.com/watch?v=eq-tqlJnckE)]
    
 **Conferences**
+* <b>Scribble-Supervised Medical Image Segmentation via Dual-Branch Network and Dynamically Mixed Pseudo Labels Supervision</b> <br> 
+  <b>Xiangde Luo</b>, Minhao Hu, Wenjun Liao, Shuwei Zhai, Tao Song, Guotai Wang, Shaoting Zhang<br>
+  <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2022 (provisionally accepted, top 13% in 1825 submissions)</b>.<br>
+ [[paper](https://arxiv.org/abs/2203.02106)][[code](https://github.com/HiLab-git/WSL4MIS)]
+    
 * <b>Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer</b> <br> 
   <b>Xiangde Luo</b>, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang<br>
   <i>Medical Imaging with Deep Learning</i>. <b>MIDL2022</b>.<br>
