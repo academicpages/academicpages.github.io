@@ -31,7 +31,7 @@ author_profile: true
 
 - Teaching Assistant, ENGN0030 Introduction to Engineering, Fall 2017
     - Instructor: Prof. Karen Haberstroh and Prof. Brian Sheldon
-    - Description: The purpose of the course is to introduce students to the profession of engineering and the important role engineers play in society, as well as to provide a foundation for further study in engineering. The course begins with the consideration of engineering design and introduces a number of tools that are fundamental to engineering. These include vectors, computer aided design (SolidWorks), and basic programming (Matlab). Particular attention is then focused on the analysis of static structures, but topics also include professional ethics and the social responsibility of engineers. Students will complete a set of training modules and three design projects in the Brown Design Workshop.
+    - Description: The purpose of the course is to introduce students to the profession of engineering and the important role engineers play in society, as well as to provide a foundation for further study in engineering. The course begins with the consideration of engineering design and introduces a number of tools that are fundamental to engineering. These include vectors, computer aided design (SolidWorks), and basic programming (MATLAB). Particular attention is then focused on the analysis of static structures, but topics also include professional ethics and the social responsibility of engineers. Students will complete a set of training modules and three design projects in the Brown Design Workshop.
     - Responsibility:
         - Hold 4-hr office hours per week
         - Grade homework assignments
