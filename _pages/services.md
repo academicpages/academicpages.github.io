@@ -17,3 +17,4 @@ author_profile: true
   - [Tissue and Cell](https://www.sciencedirect.com/journal/tissue-and-cell)
   - [Micromachines](https://www.mdpi.com/journal/micromachines)
   - [Brain Sciences](https://www.mdpi.com/journal/brainsci)
+  - [Journal of Clinical Science](https://www.mdpi.com/journal/jcm)
