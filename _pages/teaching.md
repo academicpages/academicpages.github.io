@@ -6,7 +6,11 @@ author_profile: true
 ---
 # Learning Resources
 
-[_**Tarangini**_](http://tarangini-sim.herokuapp.com/) is a web based listing of teaching simulations I have developed. It is a work in progress and can be used as a companion to visualize and simulate concepts in Economics & Econometrics. 
+[_**Tarangini**_](http://tarangini-sim.herokuapp.com/) is a web based listing of teaching simulations I have developed. It is a work in progress. Tarangini can be used as a companion to visualize concepts in Economics & Econometrics. Example of some simulations, developed using Python and Dash framework:
+* Economic cost functions
+* Solow growth model
+* Basic Utility maximization
+* Central limit theorem
 
 
 # Teaching
