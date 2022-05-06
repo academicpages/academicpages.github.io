@@ -52,7 +52,11 @@ Listas de Exercícios
 [Lista 02](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/Lista02_FME1.pdf)
 [Lista 03](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/Lista03_FME1.pdf)
 
-Indicação de exercícios: 
+Indicação de exercícios: Fundamentos de Matemática Elementar Vol. 1 : Capítulo IX Seção V (pares); Apêndice I (múltiplos de 3); Apêndice II (múltiplos de 3).
+
+Indicação de exercícios: Fundamentos de Matemática Elementar Vol. 2 : Capítulo I: Seção I (pares), Seção II (pares), Seção III (pares), Seção VI (todos)
+
+Indicação de exercícios: Fundamentos de Matemática Elementar Vol. 2 : Capítulo II: Seção II (todos), Seção IV (todos), Seção V (múltiplos de 3).
 
 Aulas
 ======
