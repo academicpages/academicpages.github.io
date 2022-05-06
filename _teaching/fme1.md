@@ -52,6 +52,8 @@ Listas de Exercícios
 [Lista 02](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/Lista02_FME1.pdf)
 [Lista 03](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/Lista03_FME1.pdf)
 
+Indicação de exercícios: 
+
 Aulas
 ======
 1. [Apresentação do Curso](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/FME1-apresentacaoCurso.pdf)
