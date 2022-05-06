@@ -5,9 +5,10 @@ main:
 
   - title: "Research and Publications"
     url: /publications/
+
+  - title: "Teaching Resources"
+    url: /teaching/  
     
-  - title: "Teaching material and simulations"
-    url: /teaching/ 
   # - title: "Talks"
   #   url: /talks/      
     
