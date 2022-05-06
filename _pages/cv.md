@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here for full CV in PDF (updated November 9th 2021)](http://nikhil-sarin.github.io/files/nikhil_cv.pdf)
+[Click here for full CV in PDF (updated May 6th 2022)](http://nikhil-sarin.github.io/files/nikhil_cv.pdf)
 
 Education
 ======
