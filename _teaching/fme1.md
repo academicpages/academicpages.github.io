@@ -58,6 +58,11 @@ Indicação de exercícios: Fundamentos de Matemática Elementar Vol. 2 : Capít
 
 Indicação de exercícios: Fundamentos de Matemática Elementar Vol. 2 : Capítulo II: Seção II (todos), Seção IV (todos), Seção V (múltiplos de 3).
 
+Indicação de exercícios: Fundamentos de Matemática Elementar Vol. 2 : Capítulo III: Seção II (137 - 140), Seção III (todos), Seção IV (todos), Seção V (pares), Seção VI (pares).
+
+Indicação de exercícios: Fundamentos de Matemática Elementar Vol. 2 : Capítulo IV: Seção I (pares).
+
+
 Aulas
 ======
 1. [Apresentação do Curso](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/FME1-apresentacaoCurso.pdf)
