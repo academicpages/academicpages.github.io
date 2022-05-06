@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a PhD candidate in the department of Computer Science at University of California, Davis, working with Professor [Hao-Chuan Wang](http://www.haochuanwang.info/). My broad research interests are Human-Computer Interaction (HCI) and Data Science, with a focus on collaboration and social interaction, including peer production, peer support, collaborative consumption, online informal learning, and social computing. 
+I am a PhD candidate in Computer Science at University of California, Davis, working with Professor [Hao-Chuan Wang](http://www.haochuanwang.info/). My research area is Human-Computer Interaction (HCI) and Data Science (DS), with a focus on social collaboration, including peer production, peer support, collaborative consumption, online informal learning, and social computing. My studies use social interaction mechanisms and human-centered AI approaches to understand and facilitate general online users to forage, evaluate, and apply knowledge online individually and in group.
 
 
 I hold a B.S. in Statistics from Hunan University (2016) and an M.S. in Statistics from University of California, Davis (2018).
