@@ -64,6 +64,23 @@ Research
 ======
 <div class="row">
   <div class="column left">
+    <img align="left" width="100%" src="https://yaojieliu.github.io/images/vit.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing</strong><br/>
+      Hsin-Ping Huang, Deqing Sun, <u>Yaojie Liu</u>, Wen-Sheng Chu, Taihong Xiao, Jinwei Yuan, Hartwig Adam, Ming-Hsuan Yang<br/>
+      arXiv, 2022.<br/>
+      [<a href="https://arxiv.org/pdf/2203.12175.pdf">PDF</a>]
+    </p>
+  </div>
+</div>
+
+___
+
+<div class="row">
+  <div class="column left">
     <img align="left" width="100%" src="https://yaojieliu.github.io/images/pscc.jpeg?raw=true">  
   </div>
   <div class="column middle">&nbsp;</div>
