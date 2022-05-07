@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kalyan Kolukuluri" # "Your Sidebar Name"
-  avatar           : "profile.jpeg"
+  avatar           : "profile.png"
   bio              : "Assistant Professor, Economics" #"Your biography for the left-hand sidebar"
   location         : 
   employer         : "IIM Visakhapatnam"
