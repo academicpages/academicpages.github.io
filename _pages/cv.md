@@ -35,8 +35,30 @@ Thesis Advisor: [Michael Powers](http://www.sem.tsinghua.edu.cn/en/powers)
 BSPH in Biostatistics, 2016   
 Thesis Advisor: [Michael Hudgens](https://sph.unc.edu/adv_profile/michael-hudgens-phd/)
 
+
+# Service
+---
+
+**Harvard Department of Biostatistics Student Committee**.  
+Co-President (2021-).
+
+**Harvard Department of Biostatistics Diversity, Inclusion, and Equity Committee**.  
+PhD Student Representative (2020-).
+
+**Harvard Department of Biostatistics Mental Health Working Group**.  
+Lead for promotion of department community at a distance (2020-).
+
+**Harvard Graduate ABSK**.    
+President (2019-).
+
+**University of North Carolina -- Carolina Collective**.   
+Organizing committee for safe and effective re-opening of campus during the COVID-19 era (2020-).
+  
+
 # Honors and Awards
 ---
+* Rose Fellowship, 2022  
+* ASA Biopharmaceutical Section Scholarship Award, 2022  
 * NSF New Researcher Award (American Causal Inference Conference), 2022  
 * IMS Hannan Graduate Student Travel Award, 2022  
 * ASA Young Investigator Award, Section on Statistics in Epidemiology, 2022  
@@ -57,23 +79,3 @@ Thesis Advisor: [Michael Hudgens](https://sph.unc.edu/adv_profile/michael-hudgen
 * Phillips Ambassadorship, 2014
 * Morehead-Cain Scholarship, 2012
 * National Merit Scholarship, 2012
-
-# Service
----
-
-**Harvard Department of Biostatistics Student Committee**.  
-Co-Chair (2021-).
-
-**Harvard Department of Biostatistics Diversity, Inclusion, and Equity Committee**.  
-PhD Student Representative (2020-).
-
-**Harvard Department of Biostatistics Mental Health Working Group**.  
-Lead for promotion of department community at a distance (2020-).
-
-**Harvard Graduate ABSK**.    
-President (2019-).
-
-**University of North Carolina -- Carolina Collective**.   
-Organizing committee for safe and effective re-opening of campus during the COVID-19 era (2020-).
-  
-
