@@ -37,3 +37,7 @@ Datas das Provas
 * Primeira prova: 11/03/2022
 * Segunda prova: 22/04/2022
 * Terceira prova: 30/05/2022
+
+Notas de Aula
+======
+[Extremos de Funções](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/calculo1_notas01.pdf)
