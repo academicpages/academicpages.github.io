@@ -18,10 +18,11 @@ Education
 
 Work experience
 ======
+
 Pennsylvania State University
 --------------
 
-07/2019: Science U: Water Heroes
+* 07/2019: Science U: Water Heroes
 
 University of Strathclyde
 --------------
