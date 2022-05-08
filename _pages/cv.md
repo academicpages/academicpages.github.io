@@ -11,30 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* B.S. Biomedical Engineering (cell and tissue engineering), University of Rochester, 2017 (T5)
+* M.Phil. Chemical and Process Engineering, University of Strathclyde, 2019
+* Ph.D. Environmental Engineering, Pennsylvannia State University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Pennsylvania State University
+--------------
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+07/2019: Science U: Water Heroes
+
+University of Strathclyde
+--------------
+
+01/2018-05/’18: Society of Chemical Industry Electrochemistry Postgraduate Conference Committee
+
+10/2017-08/’19: Really Small Science Group
+
+
+University of Rochester
+--------------
+
+08/2015-05/’17: Biomedical Engineering Peer Advisor (through College Center for Advising Services)
+
+Pacific Northwest National Laboratory
+--------------
+
+06-08/2016: Science Undergraduate Laboratory Internship (SULI) program
+* PIs: Brady Lee, Hope Lee (Pacific Northwest National Laboratory)
+* Microbially induced calcite precipitation for bioremediation of I-129 in the Hanford Site subsurface
+  * rate analysis using two model bacteria
+  * phylogenetic characterization of Hanford Site enrichments
+
+Colorado State University
+--------------
+
+05-07/2015: NSF REU: Colorado Center for Biorefining and Bioproducts
+* PI: Shantanu Jathar (Mech. Eng.) and Charles Henry (Chem.)
+* A Microfluidic Electrochemical Sensor for the Oxidative Load of Particulate Matter
+  * sensor characterization and optimization
+  * assessment of diesel vs biodiesel combustion particulates
 
 Publications
 ======
@@ -54,6 +72,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
