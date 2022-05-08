@@ -18,5 +18,5 @@ main:
   - title: "Musings"
     url: /year-archive/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
