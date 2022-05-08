@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ting Chen"
   avatar           : "ting_profile.jpeg"
-  bio              : "Undergraduate student at the University of Richmond, Va, USA ('21)"
-  location         : "Richmond, Virginia"
+  bio              : "Incoming MS CS student at Columbia University, current ML software engineer"
+  location         : "NYC"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "ting.chen@richmond.edu"
+  email            : "zc2666@columbia.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
