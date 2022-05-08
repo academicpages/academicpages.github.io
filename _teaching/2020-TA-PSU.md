@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant - Penn State University - 2020-"
+title: "2020-? - Teaching Assistant - Penn State University"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-TA-PSU

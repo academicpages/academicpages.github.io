@@ -83,11 +83,11 @@ author:
   name             : "Jon Boualavong"
   avatar           : "profile.png"
   bio              : "Researcher of Environmentally Relevant Electrochemical Separations"
-  location         : ""
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : # "jkb56@psu.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jkboualavong/"
+  linkedin         : "jkboualavong"
   orcid            : "https://orcid.org/0000-0003-4588-8384"
   pinterest        :
   soundcloud       :
