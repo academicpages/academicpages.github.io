@@ -3,7 +3,7 @@ title: "The Domestic Price of Speech and Silence: American Public Opinion on US 
 collection: publications
 permalink: /research/po
 excerpt: ''
-date: 2021-02-10
+date: 2022-04-10
 venue: 'Presented at 2022 Midwest Political Science Association (MPSA) Conference, 2022'
 ---
 
