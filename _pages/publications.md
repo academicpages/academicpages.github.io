@@ -19,7 +19,7 @@ author_profile: true
 {% endfor %}
 
 ## Works in Progress
-** Measuring Human Rights Shaming Intensity as a Multifaceted Interval Variable**
+**Measuring Human Rights Shaming Intensity as a Multifaceted Interval Variable**
 
   _Contact for the current status_
 
