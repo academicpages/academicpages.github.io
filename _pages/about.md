@@ -39,6 +39,9 @@ Site: [https://tuffyverse.com/blockchain-club](https://tuffyverse.com/blockchain
 
 Discord: [https://discord.gg/AgEQmvH6](https://discord.gg/AgEQmvH6)
 
+[Blog Posts](https://wenlinhan.github.io/posts/)
+======
+
 [Publications](https://wenlinhan.github.io/publications/)
 ======
 
@@ -53,4 +56,3 @@ Discord: [https://discord.gg/AgEQmvH6](https://discord.gg/AgEQmvH6)
 
 [Students](https://wenlinhan.github.io/students/)
 ======
-
