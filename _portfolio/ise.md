@@ -3,6 +3,8 @@ title: "The International Shaming Events (ISE) Data Project"
 excerpt: "<img src='/images/ISE_s22_group_picture.jpg'>"
 collection: portfolio
 ---
+### Research Goal
+Why do governments make pronouncements about another country's human rights practice? Accurately describing gov-to-gov human rights shaming behavior is the first step to answering this questions.
 
 ## ISE Crews
 ### Current Members
@@ -27,7 +29,10 @@ collection: portfolio
 * Yusr Zaghlula (Coding assistance, 2021 Fall)
 
 ## Related Links
-
+### Related Projects
+* [The US Human Rights Shaming Data: Who the US Shames, When, about What, And How Intensely](https://j1wonkim.github.io/research/ise)
+* [Measuring Human Rights Shaming Intensity as a Multifaceted Interval Variable](https://j1wonkim.github.io/research/)
+* [Shaming as Human Rights Diplomacy: Who Does US Name And Shame And When?](https://j1wonkim.github.io/research/mpsa2021)
 
 
 
