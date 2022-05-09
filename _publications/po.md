@@ -1,12 +1,12 @@
 ---
-title: "A Conscious Conscience? International Context And American Support for US Shaming"
+title: "The Domestic Price of Speech and Silence: American Public Opinion on US Human Rights Shaming Behavior"
 collection: publications
 permalink: /research/po
 excerpt: ''
 date: 2021-02-10
-venue: 'Internal grant approved'
+venue: 'Presented at 2022 Midwest Political Science Association (MPSA) Conference, 2022'
 ---
 
 #### Abstract
 
-Increasing scholarships find that human rights affect policy approval by changing the strategic calculus about national interest. Can human rights rhetoric be more consequential in some international contexts than in others? This paper focus on an increasingly salient phenomenon that primes the strategic value of US human rights foreign policy: major powers' verbal criticism or endorsement of the human rights violation in a foreign country. I theorize that learning about how major powers respond invokes additional strategic concerns to citizens about the opportunity cost of US inaction. Utilizing a $2 \times 3 \times 2$ factorial design, I will test whether observing statements from other major world powers can increase the strategic value of the US shaming in the public's eyes, and whether the increased strategic stake increases the public's tolerance to potential costs of US human rights policy. The findings aim to join growing scholarly interests in the public's use of strategic criteria to evaluate the US human rights foreign policy. By demonstrating the priming effect of the third-party shaming, the paper renders new theoretical insight on when citizens are more likely to form human rights policy opinion on the basis of national interest. It also challenges the conventional wisdom's dyadic approach to human rights policy, and highlights the multilateral and interdependent nature of the international human rights shaming process.
+Does the US public care something as simple as whether the US issues a shaming statement against human rights abusing countries? Third-party citizens' mobilization and pressure "from above" is key to changing the behavior of abusive states. Despite its importance to the transnational human rights advocacy model, domestic cost or benefit in state shaming has been only assumed. Using survey experiment, this paper aims to show that the American public re-evaluates the government's foreign policy competence upon US' human rights statement, or lack thereof. The $2 \times 3 \times 2$ factorial design is utilized to test when domestic cost of shaming increases. I expect to find that shaming support increases when the strategic interests in the target decreases and when other countries also comment on the same issue. These findings have several important contributions to the literature. First, it challenges the conventional wisdom that human rights shaming is cheap. Second, it demonstrates that classic theories about US willingness to shame works through public opinion. Third, by showing that that human rights statements of other countries influence public opinion, it joins other works that challenges the current literature's dyadic approach to state shaming behavior.
