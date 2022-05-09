@@ -19,9 +19,13 @@ author_profile: true
 {% endfor %}
 
 ## Works in Progress
+**Bursting The Green Bubble? Environmental Provisions and Approval for Trade Agreements**
+
+ _with [Stefano Jud](http://stefanojud.com/), 2022_
+
 **Measuring Human Rights Shaming Intensity as a Multifaceted Interval Variable**
 
-  _Contact for the current status_
+  _Contact for the current status, 2022_
 
 ## Dormant
 
