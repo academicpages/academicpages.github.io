@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Sitemap"
-permalink:/sitemap/
+permalink:/sitemap.xml
 author_profile: true
 site_pages:
   - /
