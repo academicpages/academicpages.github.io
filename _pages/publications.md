@@ -18,6 +18,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+## Works in Progress
+** Measuring Human Rights Shaming Intensity as a Multifaceted Interval Variable**
+
+  _Contact for the current status_
+
 ## Dormant
 
 **Scale of Truth: How Ideology Affects What NGO Tweets about What Is Happening in Gaza**
