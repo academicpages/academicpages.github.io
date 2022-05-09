@@ -3,7 +3,7 @@ title: "Discourse Network"
 collection: publications
 permalink: /research/ise
 excerpt: ''
-date: 2022-01-01
+date: 2022-04-14
 venue: 'Preliminary Analysis Completed'
 ---
 
