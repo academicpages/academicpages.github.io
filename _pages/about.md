@@ -39,7 +39,7 @@ Site: [https://tuffyverse.com/blockchain-club](https://tuffyverse.com/blockchain
 
 Discord: [https://discord.gg/AgEQmvH6](https://discord.gg/AgEQmvH6)
 
-[Blog Posts](https://wenlinhan.github.io/posts/)
+[Blog Posts](https://wenlinhan.github.io/year-archive/)
 ======
 
 [Publications](https://wenlinhan.github.io/publications/)
