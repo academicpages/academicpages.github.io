@@ -9,6 +9,10 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+## Lab
+
+**International Shaming Events (ISE) Data Project**
+_[Link](https://j1wonkim.github.io/portfolio/ise/)_
 
 ## Working Papers
 
