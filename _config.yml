@@ -10,8 +10,13 @@ locale                   : "en-US"
 title                    : "Pingping Wang/ Site Title"
 title_separator          : "-"
 name                     : &name "Pingping Wang"
+<<<<<<< HEAD
 description              : &description "PhD Candidate at TU Wien"
 url                      : https://Pingping1997.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+=======
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+>>>>>>> 3c473c6 (add my info to config file)
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
