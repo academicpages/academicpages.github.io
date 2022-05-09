@@ -4,7 +4,7 @@ collection: publications
 permalink: /research/po
 excerpt: ''
 date: 2022-04-10
-venue: 'Presented at 2022 Midwest Political Science Association (MPSA) Conference, 2022'
+venue: 'Presented at 2022 Midwest Political Science Association (MPSA) Conference'
 ---
 
 #### Abstract
