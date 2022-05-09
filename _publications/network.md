@@ -2,7 +2,7 @@
 title: "Discourse Network"
 collection: publications
 permalink: /research/ise
-excerpt: 'In Progress'
+excerpt: ''
 date: 2021-01-01
 venue: 'Preliminary Analysis Completed'
 ---
