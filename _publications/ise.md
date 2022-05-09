@@ -4,7 +4,7 @@ collection: publications
 permalink: /research/ise
 excerpt: ''
 date: 2021-01-01
-venue: 'Accepted to present at 2022 MPSA'
+venue: 'Data Generation in Progress'
 ---
 
 #### Abstract
