@@ -24,7 +24,7 @@ I have presented / will be presenting at...
 - Inssbruck, Austria: 2022. Panel: Clientelism in Developing Democracies: Divergent Explanations, Convergent Outcomes (full panel organizer).
 
 #### Nordic Sociological Association Conference (NSA)
-- Reykjavik, Iceland: 2022. Panel: TBA.
+- Reykjavik, Iceland: 2022. [declined]
 
 #### Society for Institutional & Organizational Economics (SIOE)
 - Toronto, Canada: 2022. Panel: TBA.
