@@ -16,23 +16,25 @@ Why do governments make pronouncements about another country's human rights prac
 
 <br/><img src='/images/ISE_picture_4.jpg'>{: width="600" }
 
+## Related Links
+### Related Projects
+* [The US Human Rights Shaming Data: Who the US Shames, When, about What, And How Intensely](https://j1wonkim.github.io/research/ise)
+* [Measuring Human Rights Shaming Intensity as a Multifaceted Interval Variable](https://j1wonkim.github.io/research/)
+* [Shaming as Human Rights Diplomacy: Who Does US Name And Shame And When?](https://j1wonkim.github.io/research/mpsa2021)
 
-### Former Members
+## Funding
+This research has been supported by Emory University's POLS 399R course and internal grants.
+
+## Former Members
 * Sarah Qadir (2020 Fall)
 * Joanne Choi (2021 Spring)
 * Sandy Gonzalez (2021 Spring) 
-
 
 ### Acknowledgements
 * Eric Chung (Coding assistance, 2021 Fall)
 * Kyle Whitlock (Coding assistance, 2021 Fall)
 * Yusr Zaghlula (Coding assistance, 2021 Fall)
 
-## Related Links
-### Related Projects
-* [The US Human Rights Shaming Data: Who the US Shames, When, about What, And How Intensely](https://j1wonkim.github.io/research/ise)
-* [Measuring Human Rights Shaming Intensity as a Multifaceted Interval Variable](https://j1wonkim.github.io/research/)
-* [Shaming as Human Rights Diplomacy: Who Does US Name And Shame And When?](https://j1wonkim.github.io/research/mpsa2021)
 
 
 
