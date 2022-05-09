@@ -3,7 +3,7 @@ title: "The International Shaming Events (ISE) Data: Who Shames Whose Human Righ
 collection: publications
 permalink: /research/ise
 excerpt: ''
-date: 2021-01-01
+date: 2022-05-01
 venue: 'Data Generation in Progress'
 ---
 
