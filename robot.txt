@@ -1,4 +1,4 @@
-Sitemap: https://j1wonkim.github.io/sitemap.xml
+Sitemap: https://j1wonkim.github.io/sitemap
 
 User-agent: *
 Disallow:
