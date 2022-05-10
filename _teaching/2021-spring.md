@@ -10,7 +10,7 @@ location: "Zoom"
 
 TA, weekly sections (Zoom)
 
-## Activity logs / lecture slides
+## Activity logs / lecture slides (Lecture design: Dr. Eric Reinhardt)
 
 * [Role of Institution: Case Study](https://docs.google.com/document/d/1LzPUUtW7Hmr1gwTC-IZkktClKAscY4S5JGGowYUIh6I/edit?usp=sharing)
 
@@ -21,3 +21,4 @@ TA, weekly sections (Zoom)
 * [International Public Goods: Global Health Case Study](https://docs.google.com/presentation/d/1_1OFYZf6uxqw0Xq_apXVaTP3NNsfiSnUSGt0NKABFZg/edit?usp=sharing)
 
 
+## Syllabus (Dr. Eric Reinhardt)
