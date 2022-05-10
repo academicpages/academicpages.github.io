@@ -10,7 +10,8 @@ location: "Zoom"
 
 TA, weekly sections (Zoom)
 
-## Activity logs / lecture slides (Lecture design: Dr. Eric Reinhardt)
+## Activity logs / lecture slides
+### Lecture design: Dr. Eric Reinhardt
 
 * [Role of Institution: Case Study](https://docs.google.com/document/d/1LzPUUtW7Hmr1gwTC-IZkktClKAscY4S5JGGowYUIh6I/edit?usp=sharing)
 
