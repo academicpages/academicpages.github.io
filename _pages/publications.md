@@ -20,7 +20,7 @@ author_profile: true
 > 
 > KEYWORDS: American pragmatism; William James; Practical effects; Truth; Development; Habit; Cognition; Meaning; Pluralism
 >
->> Sanches de Oliveira, G. (forthcoming)  Pragmatism. In V. P. Glăveanu (ed.), *The Palgrave Encyclopedia of the Possible*. DOI: 10.1007/978-3-319-98390-5_241-1 
+>> Sanches de Oliveira, G. (2022)  Pragmatism. In V. P. Glăveanu (ed.), *The Palgrave Encyclopedia of the Possible*. DOI: 10.1007/978-3-319-98390-5_241-1 
 
 <br><br>
 
@@ -30,7 +30,7 @@ author_profile: true
 > 
 > KEYWORDS: neuro-architecture; ecological psychology; Mobile brain/body imaging (MoBI); methodology; aesthetics & ergonomics; Ecological Validity
 >
->> Wang, S., Sanches de Oliveira, G., Djebbara, Z., and Gramann, K. (forthcoming) The Embodiment of Architectural Experience: A Methodological Perspective on Neuro-Architecture. *Frontiers in Human Neuroscience: Cognitive Neuroscience*. DOI: 10.3389/fnhum.2022.833528 
+>> Wang, S., Sanches de Oliveira, G., Djebbara, Z., and Gramann, K. (2022) The Embodiment of Architectural Experience: A Methodological Perspective on Neuro-Architecture. *Frontiers in Human Neuroscience: Cognitive Neuroscience*. DOI: 10.3389/fnhum.2022.833528 
 
 <br><br>
 
