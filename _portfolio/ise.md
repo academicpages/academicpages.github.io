@@ -9,10 +9,10 @@ Why do governments make pronouncements about another country's human rights prac
 ## ISE Crews
 ### Current Members
 * Jiwon Kim (PI)
-* [Anika Kapur](https://j1wonkim.github.io/posts/anika/) (Undergraduate researcher)
-* [Celline Kim](https://j1wonkim.github.io/posts/celline/) (Undergraduate researcher)
-* [Karina Nehra](https://j1wonkim.github.io/posts/karina/) (Undergraduate researcher)
-* [Taoshu Ren](https://j1wonkim.github.io/posts/taoshu) (Undergraduate researcher)
+* [Anika Kapur](https://j1wonkim.github.io/anika/) (Undergraduate researcher)
+* [Celline Kim](https://j1wonkim.github.io/celline/) (Undergraduate researcher)
+* [Karina Nehra](https://j1wonkim.github.io/karina/) (Undergraduate researcher)
+* [Taoshu Ren](https://j1wonkim.github.io/taoshu) (Undergraduate researcher)
 
 <br/><img src='/images/ISE_picture_4.jpg'>{: width="600" }
 
