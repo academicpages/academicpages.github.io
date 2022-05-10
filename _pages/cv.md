@@ -11,22 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Theoretical Physics, University College Dublin, Sep. 2013 - May. 2017
+* Ph.D in Applied and Computational Mathematics, University College Dublin, Oct. 2017 - Jan. 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Scholar (May. 2016 - Aug. 2016)
+  * Mathematics Applications Consortium for Science and Technology, University of Limerick 
+  * Developed a mathematical model for predicting influential spreaders in complex networks and tested its performance by developing Python code and using idealised Erdos-R\'enyi graphs
+  * Supervisor: Professor James Gleeson
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Research Scholar (May. 2017 - Aug. 2017)
+  * Department of Numerical Modelling, Paul Scherrer Institute (ETH Zurich)
+  * Modelling of fluid flows in nuclear reactors with an emphasis on implementing particle tracking techniques to track radionuclides
+  * Supervisor: Professor Bojan Niceno
+
+* Postgraduate Research Scholar (Oct. 2017 - Jan. 2021)
+  * School of Mathematics and Statistics, University College Dublin
+  * Development of fast computational methods for tsunami modelling
+  * Supervisor: Professor Frederic Dias
+
+* Research Fellow (Feb. 2021 - Present)
+  * Department of Statistical Sciences, University College London
+  * Associate Member of the Centre of Advanced Research Computing (ARC)
+  * Developed open source data assimilation software
+  * Embedding of statistical learning approaches into numerical models, application is focsued on weather and climate
+
 Skills
 ======
 * Skill 1
