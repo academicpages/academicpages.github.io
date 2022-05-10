@@ -2,7 +2,7 @@
 title: 'Anika Kapur'
 layout: single
 date: 2022-01-18
-permalink: /posts/anika/
+permalink: /anika/
 ---
 Anika Kapur
 ===========
