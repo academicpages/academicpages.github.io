@@ -38,3 +38,5 @@ I am a postdoctoral research fellow in the Department of Biomedical Informatics 
 ## Invited Talks
 * American Medical Informatics Association, Clinical Decision Support Workgroup, CDS Chats. (May 4, 2022). “The Potential for Leveraging Machine Learning to Filter Medication Alerts.” 
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=gkDtTE4gLkPP-0gfMb159XqHXaiOG_8lHVxggmLMedA&cl=ffffff&w=a"></script>
+
