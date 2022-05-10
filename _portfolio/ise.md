@@ -12,7 +12,7 @@ Why do governments make pronouncements about another country's human rights prac
 * [Anika Kapur](https://j1wonkim.github.io/posts/anika/) (Undergraduate researcher)
 * [Celline Kim](https://j1wonkim.github.io/posts/celline/) (Undergraduate researcher)
 * [Karina Nehra](https://j1wonkim.github.io/posts/karina/) (Undergraduate researcher)
-* [Taoshu Ren]() (Undergraduate researcher)
+* [Taoshu Ren](https://j1wonkim.github.io/posts/taoshu) (Undergraduate researcher)
 
 <br/><img src='/images/ISE_picture_4.jpg'>{: width="600" }
 
