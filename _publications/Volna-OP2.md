@@ -1,8 +1,8 @@
 ---
 title: "The Volna-OP2 tsunami Code (version 1.5)"
 collection: publications
-permalink: /publication/Volna-OP2
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publications/Volna-OP2
+excerpt: 'In this paper, we present the VOLNA-OP2 tsunami model and implementation; a finite-volume non-linear shallow-water equation (NSWE) solver built on the OP2 domain-specific language (DSL) for unstructured mesh computations.'
 date: 2018
 venue: 'Geoscientific Model Development'
 paperurl: 'https://doi.org/10.5194/gmd-11-4621-2018'
