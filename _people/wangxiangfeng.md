@@ -35,10 +35,12 @@ permalink: /people/xfwang
 
 ### Awards
 - 2021 IEEE Signal Processing Society Best Paper Award (for the paper *Multi-Agent Distributed Large-Scale Optimization by Inexact Consensus ADMM* with Tsung-Hui Chang and Mingyi Hong on *IEEE Transactions on Signal Processing*)
+- 2022 Shanghai QiMingXing
 
 ---
 
 ### Externally Funded Projects
+- Model-driven Real-time Control Platform based on ML-driven ODE Solver, QiMingXing Project of Shanghai, STCSM, 2022-2025.
 - Research on Advanced Machine Learning Method based on Structured Self-Adaptive and Self-Evolution, National Key Research and Development Program of China, MOST, 2021-2023.
 - Research on Machine Learning Algorithms for Distributed Optimization Problems, National Natural Science Foundations of China, NSFC, 2021-2024.
 - Research on Trustworthy Machine Learning, Artificial Intelligence Project of Shanghai, STCSM, 2021-2022.
