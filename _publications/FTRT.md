@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-01-14
 venue: 'Frontiers in Earth Sciences'
 paperurl: 'https://doi.org/10.3389/feart.2020.597865'
-citation: 'Giles, D., Gopinathan, D., Guillas, S., and Dias, F.: Faster Than Real Time Tsunami Warning with Associated Hazard Uncertainties, Front. Earth Sci., 8, 226, https://doi.org/10.3389/feart.2020.597865, 2021.'
+citation: 'Giles, D., Gopinathan, D., Guillas, S., and Dias, F.: Faster Than Real Time Tsunami Warning with Associated Hazard Uncertainties, Front. Earth Sci., 8, 226, 2021.'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 

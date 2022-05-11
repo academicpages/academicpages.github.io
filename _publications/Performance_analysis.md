@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-09-15
 venue: 'Computers & Fluids'
 paperurl: 'https://doi.org/10.1016/j.compfluid.2020.104649'
-citation: 'Giles, D., Kashdan, E., Salmanidou, M. D., Guillas, S., and Dias, F.: Performance analysis of Volna-OP2 – massively parallel code for tsunami modelling, Computers & Fluids, 209, 104649, https://doi.org/10.1016/j.compfluid.2020.104649, 2020.'
+citation: 'Giles, D., Kashdan, E., Salmanidou, M. D., Guillas, S., and Dias, F.: Performance analysis of Volna-OP2 – massively parallel code for tsunami modelling, Computers & Fluids, 209, 104649, 2020.'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
