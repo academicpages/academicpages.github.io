@@ -85,10 +85,10 @@ author:
   bio              : "Research Fellow at Univesity College London"
   location         : "London, United Kingdom"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=N9nxp98AAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Daniel-Giles"
   uri              :
   bitbucket        :
   codepen          :
