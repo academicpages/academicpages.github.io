@@ -3,7 +3,7 @@ title: "The Volna-OP2 tsunami Code (version 1.5)"
 collection: publications
 permalink: /publications/Volna-OP2
 excerpt: 'In this paper, we present the VOLNA-OP2 tsunami model and implementation; a finite-volume non-linear shallow-water equation (NSWE) solver built on the OP2 domain-specific language (DSL) for unstructured mesh computations.'
-date: 2018
+date: 2018-11-19
 venue: 'Geoscientific Model Development'
 paperurl: 'https://doi.org/10.5194/gmd-11-4621-2018'
 citation: 'Reguly, I. Z., Giles, D., Gopinathan, D., Quivy, L., Beck, J. H., Giles, M. B., Guillas, S., and Dias, F.: The VOLNA-OP2 tsunami code (version 1.5), Geosci. Model Dev., 11, 4621–4635, https://doi.org/10.5194/gmd-11-4621-2018, 2018.'
