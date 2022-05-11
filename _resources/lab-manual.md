@@ -50,6 +50,10 @@ The lab uses Slack for its primary form of communication among lab members, incl
 
 If you don’t leave Slack open or have notifications through the desktop or mobile app (though you are really encouraged to do so), you are expected check and respond to messages at minimum once per day during the week. However, Slack is not meant to be an urgent messaging system -- unless a message is marked as urgent, if you are occupied do not feel obligated to drop what you’re doing and immediately respond to a message.
 
+There are a number of Slack channels that I expect consistent engagement with, the most important of which is the #lone-worker channel. It is university policy that students working on campus outside of business hours utilise a check-in system in case of emergency. In the interest of health and safety, you are required to note in the #lone-worker channel when you are on campus outside of business hours (e.g., before 7:30 am, after 5:30 pm, on holidays) and when you have left for the day.
+
+For students that benefit from personal accountability, the channels #goals and #working-from-home are used to list tasks and goals for the week/day, which I suggest revisiting at the end of each allocated time period.
+
 ### Open Door Policy
 
 I have an open door policy and you can normally interrupt me with questions at any time. However, I too have deadlines to meet and classes to prepare, so please keep this in mind. If your question isn’t urgent, and can wait until our scheduled weekly meeting, you’ll have my undivided attention and you’ll likely get a more coherent answer.
