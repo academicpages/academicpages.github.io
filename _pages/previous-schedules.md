@@ -5,6 +5,8 @@ permalink: /previous-schedules/
 author_profile: true
 ---
 
+<a href="https://gsipe-workshop.github.io/files/schedule_spring2022.pdf">Spring 2022</a>
+
 <a href="https://gsipe-workshop.github.io/files/schedule_fall2021.pdf">Fall 2021</a>
 
 <a href="https://gsipe-workshop.github.io/files/schedule_spring2021.pdf">Spring 2021</a>
