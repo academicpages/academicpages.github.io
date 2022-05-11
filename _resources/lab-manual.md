@@ -64,7 +64,7 @@ The lab schedule will be maintained on the Flanagan-lab Google calendar. Timing 
 
 ## Deadlines
 
-Managing deadlines is an incredibly important component of being a successful and organized academic. When there are deadlines, please make sure that your collaborators (including me!) are aware of upcoming deadlines, and keep bugging them (yes, me too!) as the deadlines approach. Also, add deadlines on the Flanagan-lab Google calendar with appropriate email reminders (1 week in advance, 1 day in advance, etc).
+Managing deadlines is an incredibly important component of being a successful and organized academic. When there are deadlines, please make sure that your collaborators (including me!) are aware of upcoming deadlines, and keep bugging them (yes, me too!) as the deadlines approach. Also, add shared deadlines on the Flanagan-lab Google calendar with appropriate email reminders (1 week in advance, 1 day in advance, etc). Personal deadlines can be noted through weekly goals on slack and the upcoming deadlines section of meeting agendas.
 
 With hard deadlines, give me at least one week for tasks with low time requirements (e.g., revising conference abstracts, filling out paperwork, etc) and two weeks for tasks that take more time (e.g., letters of recommendation). Expect at least a month of back-and-forths on manuscript revisions, drafts of grant/fellowship applications, and your 1 year confirmation document and dissertation.
 
