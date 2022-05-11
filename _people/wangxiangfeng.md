@@ -114,7 +114,7 @@ permalink: /people/xfwang
 ---
 
 ### Teaching
-- Multi-agent System
+- Multi-agent System (Multi-agent Reinforcement Learning)
 - Optimization for Machine Learning
 
 ---
