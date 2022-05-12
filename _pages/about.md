@@ -28,13 +28,12 @@ I am a postdoctoral research fellow in the Department of Biomedical Informatics 
 * Helmuth F. Orthner Travel Assistance Scholarships, University of Utah, 2018
 
 
-## <i class="fa fa-fw fa-rss "></i> Recent News ##
+## <i class="fa fa-fw fa-rss "></i> News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b>[May, 2022]</b>. Our paper was featured by AHRQ! <a href="https://psnet.ahrq.gov/periodic-issue/periodic-issue-340#view-weekly-issue">"Link"</a> 
+  <li> <b>[May, 2022]</b>. Our paper was featured by AHRQ! <a href="https://psnet.ahrq.gov/periodic-issue/periodic-issue-340#view-weekly-issue">Link</a> 
 
-  
 </ul>
 
 
