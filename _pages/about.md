@@ -28,6 +28,16 @@ I am a postdoctoral research fellow in the Department of Biomedical Informatics 
 * Helmuth F. Orthner Travel Assistance Scholarships, University of Utah, 2018
 
 
+## <i class="fa fa-fw fa-rss "></i> Recent News ##
+
+<ul style="width: auto; height: 300px; overflow: auto">
+
+  <li> <b>[May, 2022]</b>. Our paper was featured by AHRQ! <a href="https://psnet.ahrq.gov/periodic-issue/periodic-issue-340#view-weekly-issue">"Link"</a> 
+
+  
+</ul>
+
+
 ## Service and Committees
 * Senior Program Committee member, IEEE International Conference on Healthcare Informatics (ICHI), 2022
 * Program Committee member, IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022, 2021
