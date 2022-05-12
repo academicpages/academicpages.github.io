@@ -42,7 +42,7 @@ We will meet formally each week to discuss results, progress, ideas, and relevan
 
 ### Lab meetings
 
-Lab meetings are an opportunity for the group to discuss lab issues, important news, upcoming events, and to discuss the research being conducted in the lab. The format will change based on the lab members, but students are expected to regularly present at lab meetings and everyone is expected to participate in discussions.
+Lab meetings are an opportunity for the group to discuss lab issues, important news, upcoming events, and to discuss the research being conducted in the lab. The format will change based on the lab members, but students are expected to provide a short presentation fortnightly at lab meetings and everyone is expected to participate in discussions. Longer presentations, discussions, or workshops can be requested prior to scheduled lab meetings. Our lab meetings are held to foster community, facilitate conversation, and benefit everyone in the lab, so participation is essential unless otherwise arranged.
 
 ### Engagement with the lab Slack channel
 
