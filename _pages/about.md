@@ -32,7 +32,7 @@ I am a postdoctoral research fellow in the Department of Biomedical Informatics 
 
 <ul style="width: auto; height: 300px; overflow: auto">
 
-  <li> <b>[May, 2022]</b>. Our paper was featured by <a href="https://psnet.ahrq.gov/periodic-issue/periodic-issue-340#view-weekly-issue">AHRQ</a>! 
+  <li> <b>[May, 2022]</b>. Our paper was featured by <a href="https://psnet.ahrq.gov/periodic-issue/periodic-issue-340#view-weekly-issue">AHRQ</a>! </li>
 
 </ul>
 
