@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Working Papers
-[When Student Incentives Don't Work: Evidence from a Field Experiment in Malawi](http://hyukhson.github.io/files/malawi_student_incentive.pdf) (with [James Berry](https://sites.google.com/site/econjimberry/) and [Hyuncheol Bryant Kim](https://sites.google.com/site/hk2405/home)), *R&R at Journal of Development Economics*
+[When Student Incentives Don't Work: Evidence from a Field Experiment in Malawi](http://hyukhson.github.io/files/malawi_student_incentive.pdf) (with [James Berry](https://sites.google.com/site/econjimberry/) and [Hyuncheol Bryant Kim](https://sites.google.com/site/hk2405/home)), *Accepted at Journal of Development Economics*
 
 [Teaching for large-scale Reproducibility Verification](https://arxiv.org/abs/2204.01540v1) (with [Lars Vilhuber](https://www.vilhuber.com/lars/), Meredith Welch, [David Wasser](https://www.davidnwasser.com/), and Michael Darisse), *Forthcoming at Journal of Statistics and Data Science Education*
 
