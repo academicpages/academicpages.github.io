@@ -25,3 +25,9 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+# gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+gem 'tzinfo-data', '~> 1.2021', '>= 1.2021.5'
+gem "webrick"
+
+
