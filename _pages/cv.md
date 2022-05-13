@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Objective
 Ph.D. student seeking machine learning internship.
 Research interests are the intersection of machine learning and software engineering.
 Experience in deep learning, machine learning, data scraping, program analysis, and software development.
@@ -54,6 +53,6 @@ Experience in deep learning, machine learning, data scraping, program analysis, 
 * DevOps: Git, Azure DevOps, and CI/CD, Slurm batch processing, Linux server administration.
 
 
-# LEADERSHIP
+# Leadership
 * Science education outreach at Greenville County Juvenile Detention, Fall 2018/Spring 2019
 * Vice president of Phi Beta Chi society, Spring 2018

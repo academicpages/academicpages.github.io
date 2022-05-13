@@ -338,7 +338,12 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   display: flex;
   width: 100%;
   justify-content: space-between;
+  margin-left: 1em;
 }
 .spaced-out h2 {
-  margin: 0;
+  margin-top: 0.5em;
+  margin-bottom: 0;
+}
+.spaced-out div {
+  margin-top: auto;
 }
