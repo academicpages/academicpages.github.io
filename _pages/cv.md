@@ -47,24 +47,43 @@ Skills
   * Julia
   * C++
 
+
+Awards & Scholarships 
+======
+* University College Dublin Entrance Scholar (UCD, 2013)
+* 2nd Year Academic Scholar (UCD, 2014)
+* 3rd Year Academic Scholar (UCD, 2015)
+* Science and Engineering Summer Research Scholarship (UL40) (University of Limerick, 2016)
+* Summer Research Scholarship at the Paul Scherrer Institute (PSI, 2017)
+* Government of Ireland Postgraduate Research Scholarship (2017)
+
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Academic Reviewer
 ======
-* Currently signed in to 43 different slack teams
+Reviewed numerous submissions to the following journals
+* Journal of Applied Mathematical Modelling; the European Journal of Mechanics /B Fluids; Wave Modelling; Estuarine, Coastal and Shelf Science; Applied Mathematics and Computing; Hydroinformatics; Natural Hazards and Earth System Sciences
+
+Academic Supervisor
+======
+Academic co-supervisor for a student's (ENS Paris-Saclay) undergraduate internship (Apr. 2019  - Aug. 2019)
+* The student's work focused on developing ML techniques for capturing localised tsunami responses
+
+Academic co-supervisor for a student's MSc project (UCL Scientific and Data Intensive Computing Masters) (May. 2021  - Sep. 2021)
+* The student's project was a collaboration with the UK Met Office and it focused on developing machine and statistical learning approaches for predicting atmospheric indices
