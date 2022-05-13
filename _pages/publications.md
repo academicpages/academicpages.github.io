@@ -11,7 +11,7 @@ author_profile: true
 
 * **CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning**  
 **Penghui Wei**, Xuanhua Yang, Shaoguo Liu, Liang Wang, Bo Zheng  
-**NAACL ’22** (industry track): Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics. Seattle, Washington, USA, July 10--15, 2022.   
+**NAACL ’22** (Industry Track, **Oral**): Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics. Seattle, Washington, USA, July 10--15, 2022.   
 
 * **Posterior Probability Matters: Doubly-Adaptive Calibration for Neural Predictions in Online Advertising**  
 **Penghui Wei**, Weimin Zhang, Ruijie Hou, Jinquan Liu, Shaoguo Liu, Liang Wang, Bo Zheng  
