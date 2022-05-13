@@ -3,6 +3,11 @@ title: 'No pain no gain? Comparing 3 program analysis frameworks for C'
 date: 2022-03-07
 venue-type: blog
 permalink: /posts/2022/03/no-pain-no-gain/
+image: '/files/unsplash/gene-jeter-79nVN_Cmj3o-unsplash.jpg'
+imagealt: Weights
+imageoffset: "30%"
+imagecredit_id: '@genejeter'
+imagecredit_name: 'Gene Jeter'
 tags:
   - research
   - tooling

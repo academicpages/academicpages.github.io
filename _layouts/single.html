@@ -15,6 +15,7 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
+  
   {% include sidebar.html %}
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
@@ -53,6 +54,8 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+        {% include usplash-credits.html %}
+
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>

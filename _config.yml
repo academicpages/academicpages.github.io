@@ -189,6 +189,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      imagealt: "No alternative text"
+      imageoffset: 0px
       read_time: true
       comments: true
       share: true
