@@ -1,0 +1,12 @@
+{% if post.venue-type %}
+<span class="venue-type">
+    <span>
+        {% case post.venue-type %}
+        {% when "conference-paper" %}
+            PAPER
+        {% else %}
+            {{ post.venue-type | replace: "-", " " | upcase }}
+        {% endcase %}
+    </span>
+</span>
+{% endif %}

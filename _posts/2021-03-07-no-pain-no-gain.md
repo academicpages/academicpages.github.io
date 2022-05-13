@@ -1,6 +1,7 @@
 ---
 title: 'No pain no gain? Comparing 3 program analysis frameworks for C'
 date: 2022-03-07
+venue-type: blog
 permalink: /posts/2022/03/no-pain-no-gain/
 tags:
   - research

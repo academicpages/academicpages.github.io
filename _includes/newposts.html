@@ -9,7 +9,10 @@
             <div>
             <a class="recentposts-clamp" href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
             </div>
-            <div>{{ post.date | date: "%a, %b %d, %Y" }}</div>
+            <div>
+              {% include venue_type.html %}
+              <span class="recentposts-date">{{ post.date | date: "%a, %b %d, %Y" }}</span>
+            </div>
         </div>
       </div>
     {% endfor %}

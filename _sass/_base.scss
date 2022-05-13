@@ -313,3 +313,18 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+.venue-type {
+  padding: 5px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none !important;
+  span {
+    padding: 4px 6px;
+    text-align: center;
+    background-color: lightgray;
+    color: $text-color;
+    font-size: $type-size-6;
+  }
+}

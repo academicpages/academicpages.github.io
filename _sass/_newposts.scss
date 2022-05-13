@@ -1,6 +1,6 @@
 .recentposts-container {
     display: flex;
-    overflow-x: scroll;
+    overflow-x: auto;
     overflow-y: hidden;
 }
   
@@ -28,4 +28,8 @@
     display: -webkit-box;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical; 
+}
+
+.recentposts-date {
+    font-size: $type-size-6;
 }
