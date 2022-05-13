@@ -311,6 +311,3 @@ compress_html:
     envs: development
 
 
-#!/bin/bash
-
-$ bundle exec jekyll serve
