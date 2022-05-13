@@ -314,6 +314,10 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   transition: $global-transition;
 }
 
+/*
+   Custom styles
+   ========================================================================== */
+
 .venue-type {
   padding: 5px;
   display: inline-flex;
@@ -327,4 +331,14 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
     color: $text-color;
     font-size: $type-size-6;
   }
+}
+
+
+.spaced-out {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.spaced-out h2 {
+  margin: 0;
 }

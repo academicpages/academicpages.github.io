@@ -1,0 +1,43 @@
+- title: Research Assistant
+  date: Aug 2020 - Aug 2021
+  organization: Iowa State University, Program Analysis Lab
+  location: Ames, IA
+  text: |
+    <ul>
+    <li>Contributing author, “Validating static warnings via testing code fragments” (ISSTA 2021, top conference).</li>
+    <li>Collaborated with CERT group @ Carnegie-Mellon Software Engineering Institute.</li>
+    <li>Created a toolkit for dynamic analysis and code generation (pal-tools) for use in experiments.</li>
+    <li>Acquired and maintained bug benchmarks for use in experiments.</li>
+    </ul>
+
+- title: Teaching Assistant
+  date: Jan 2020 - May 2020
+  organization: "Iowa State University, COM S 227: Object-oriented Programming (Java)"
+  location: Ames, IA
+  text: |
+    <ul>
+    <li>Instructed and mentored 30 students in weekly labs and office hours.</li>
+    <li>Volunteered to create a GUI visualization for Conway's Game of Life to increase student engagement (link).</li>
+    </ul>
+
+- title: Software Developer Intern
+  date: 2018 - 2021
+  organization: Ag Leader Technology, AgFiniti team
+  location: Ames, IA
+  text: |
+    <ul>
+    <li>Fall 2021: Responsible for adding GIS capability for address geolocation and remote sensing imagery.</li>
+    <li>Summer 2020: Developed full-farm integration with John Deere data platform (link).</li>
+    <li>Summer 2019: Implemented modern reactive satellite mapping interface with Javascript/Vue.</li>
+    <li>Summer 2018: Maintained domain-specific fertilizer prescription language using Antlr parser generator.</li>
+    </ul>
+
+- title: Freelance Software Developer
+  date: Aug 2019 - Aug 2021
+  organization: Roney Innovations (ecommerce retailer)
+  location: Des Moines, IA
+  text: |
+    <ul>
+    <li>Collaborated with 2 other developers to create Amazon product listing web app using C#, ASP.NET Core, SQL Server, and Azure cloud services.</li>
+    <li>Developed custom shipping manifest processing utility with Python.</li>
+    </ul>
