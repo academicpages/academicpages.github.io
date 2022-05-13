@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Aamish Hussain"
   avatar           : "profile.png"
-  bio              : "Mechatronics Engineer"
-  location         : "Islamabad,PK"
+  bio              : "Graduate Student in Automation and Robotics"
+  location         : "Dortmund,DE"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://linkedin.com/in/aamishhussain"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
