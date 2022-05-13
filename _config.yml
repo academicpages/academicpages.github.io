@@ -14,7 +14,7 @@ description              : &description "My personal website"
 url                      : https://ampaschal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ampaschal/ampaschal.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "PaschalAmusuo.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Paschal Amusuo"
-  avatar           : "profile.png"
+  avatar           : "PaschalAmusuo.png"
   bio              : "PhD Student, Purdue ECE"
   location         : "West-lafayette, Indiana"
   email            : "pamusuo@purdue.edu"
