@@ -15,3 +15,6 @@ redirect_from:
 
 # Research Interests
 My research interests lie at the intersection of machine learning and software engineering. I think that the current methods for program analysis are limited by only relying on an analytical approach, and that they will be much improved by integrating probabilistic reasoning which can be achieved by training deep learning with big data.
+
+# Newest Posts
+{% include newposts.html %}

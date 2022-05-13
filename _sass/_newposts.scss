@@ -1,0 +1,31 @@
+.recentposts-container {
+    display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+  
+.recentposts-item {
+    margin: 20px;
+    margin-right: 0;
+    padding-right: 20px;
+    min-width: 300px;
+    display: flex;
+
+    &:not(:last-child) {
+        border-right: 1px solid $text-color;
+    }
+}
+  
+.recentposts-index {
+    margin-right: 12px;
+    // border: 1px solid $text-color;
+    // border-radius: 50%;
+}
+  
+/* https://stackoverflow.com/a/56523044/8999671 */
+.recentposts-clamp {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical; 
+}

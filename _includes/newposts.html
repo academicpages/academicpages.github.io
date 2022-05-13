@@ -1,0 +1,17 @@
+<div>
+    {% assign all_posts = site.posts | concat: site.publications | sort: "date" | reverse %}
+    {% assign top_k_posts = all_posts | slice: 0, 5 %}
+    <div class="recentposts-container">
+    {% for post in top_k_posts %}
+      <div class="recentposts-item">
+        <div><div class="recentposts-index">{{ forloop.index }}.</div></div>
+        <div>
+            <div>
+            <a class="recentposts-clamp" href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
+            </div>
+            <div>{{ post.date | date: "%a, %b %d, %Y" }}</div>
+        </div>
+      </div>
+    {% endfor %}
+    </div>
+  </div>
