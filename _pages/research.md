@@ -4,7 +4,7 @@ title: ""
 ---
 # Working Papers
 
-* “Optimal Network Based Targeting for Technology Adoption in Developing Countries” (Job Market Paper) [Full Paper](/files/pdf/Optimal Network Based Targeting for Technology Adoption in Developing Countries.pdf), [Slides](/files/pdf/jmp_slides.pdf)
+* “Optimal Network-Based Targeting for Technology Adoption in Developing Countries” (Job Market Paper) [Full Paper](/files/pdf/Optimal Network Based Targeting for Technology Adoption in Developing Countries.pdf), [Slides](/files/pdf/jmp_slides.pdf)
 
 * “The Role of Experience in Learning for Index Insurance Products: Evidence from Rural Kenya”
 
