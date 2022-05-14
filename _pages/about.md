@@ -31,9 +31,9 @@ I am Yusheng Su, a Ph.D. student in [THUNLP Lab](https://twitter.com/tsinghuanlp
 
 ## Publications
 
-* <b>Yusheng Su</b>, Xiaozhi Wang, Yujia Qin, Chi-Min Chan, Yankai Lin, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou. <b>On Transferability of Prompt Tuning for Natural Language Processing</b> (NAACL 2022). [[pdf]](https://arxiv.org/abs/2111.06719) [[code]](https://github.com/thunlp/Prompt-Transferability)
+* <b>Yusheng Su</b>, Xiaozhi Wang, Yujia Qin, Chi-Min Chan, Yankai Lin, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou. <b>On Transferability of Prompt Tuning for Natural Language Processing</b> (NAACL 2022 <b>Oral</b>). [[pdf]](https://arxiv.org/abs/2111.06719) [[code]](https://github.com/thunlp/Prompt-Transferability)
 
-* Yujia Qin, Yankai Lin, Jing Yi, Jiajie Zhang, Xu Han, Zhengyan Zhang, <b>Yusheng Su</b>, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou. <b>Knowledge Inheritance for Pre-trained Language Models</b> (NAACL 2022). [[pdf]](https://arxiv.org/abs/2105.13880) [[code]](https://github.com/thunlp/Knowledge-Inheritance)
+* Yujia Qin, Yankai Lin, Jing Yi, Jiajie Zhang, Xu Han, Zhengyan Zhang, <b>Yusheng Su</b>, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou. <b>Knowledge Inheritance for Pre-trained Language Models</b> (NAACL 2022 <b>Oral</b>). [[pdf]](https://arxiv.org/abs/2105.13880) [[code]](https://github.com/thunlp/Knowledge-Inheritance)
 
 * Yujia Qin, Xiaozhi Wang, <b>Yusheng Su</b>, Yankai Lin, Ning Ding, Zhiyuan Liu, Juanzi Li, Lei Hou, Peng Li, Maosong Sun, Jie Zhou. <b>Exploring Low-dimensional Intrinsic Task Subspace via Prompt Tuning</b> (ACL-Findings 2022). [[pdf]](https://arxiv.org/abs/2110.07867) [[code]](https://github.com/thunlp/Intrinsic-Prompt-Tuning)
 
