@@ -7,7 +7,7 @@ tags:
   - cs.cc
 ---
 
-A famous, basic algorithm in quantum computing is the [_quantum phase estimation_](https://en.wikipedia.org/wiki/Quantum_phase_estimation_algorithm) algorithm. We can see the algorithm as a quantum query algorithm [^2] for oracles $O_d=\ket{\mathrm{idle}}\bra{\mathrm{idle}} + d\ket{\mathrm{\psi}}\bra{\mathrm{\psi}}$, where $d\in\mathbb{C}, \lVert d \rVert = 1$ is the eigenvalue to be estimated - for discretization purposes, we choose $\|D\|\in\mathbb{N}^{+}$ and assume $d$ is a $\|D\|$th root of unity, $d\in D:=\left\{d\middle d\in\mathbb{C}, d^{\|D\|}=1\right\}$.
+A famous, basic algorithm in quantum computing is the [_quantum phase estimation_](https://en.wikipedia.org/wiki/Quantum_phase_estimation_algorithm) algorithm. We can see the algorithm as a quantum query algorithm [^2] for oracles $O_d=\ket{\mathrm{idle}}\bra{\mathrm{idle}} + d\ket{\mathrm{\psi}}\bra{\mathrm{\psi}}$, where $d\in\mathbb{C}, \lVert d \rVert = 1$ is the eigenvalue to be estimated - for discretization purposes, we choose $\|D\|\in\mathbb{N}^{+}$ and assume $d$ is a $\|D\|$th root of unity, $d\in D:=\left\{d\mid d\in\mathbb{C}, d^{\|D\|}=1\right\}$.
 
 We'll characterize which combinations of states (for some $d\in D$) are reachable in $j$-query quantum query algorithms, i.e. algorithms starting from a $d$-independent initial state $\ket{\psi^0}$ and applying $O_d$ $j$ times in between $d$-independent unitaries $O^0,\ldots, O^j$. As in [^2], we can track the evolutions of all states at once, subsuming all the oracles in a single block-diagonal "super-oracle" $O=\sum_{d\in D}\ket{d}\bra{d}\otimes O_d$, and the states after the $j$th oracle application in a single "super-state" $\ket{\Psi^j}=\sum_{d\in D}\ket{d}\otimes \ket{\psi^j_d}$, where the $\ket{d}$ are computational basis vectors of a new Hilbert space $\mathcal{D}$.
 
@@ -30,11 +30,14 @@ $\langle \Phi^j \mid O^\dagger (X')^{\Delta k} O \mid \Phi^j \rangle=\\
 By Condition 1, for $j<\|D\|-1$, $X' \ket{\Phi^j}=X\ket{\Phi^j}$ and $\bra{\Phi^j}X^\dagger X'=\bra{\Phi^j}(I-P_{\|D\|-1})=\bra{\Phi^j}$. So the quantity above equals
 $\bra{\Phi^j}P_{\mathrm{idle}} (X')^{\Delta k}\ket{\Phi^j}+\bra{\Phi^j}{P_{\Phi}} (X')^{\Delta k} \ket{\Phi^j}=\langle \Phi^j \mid (X')^{\Delta k} \mid \Phi^j \rangle$.
 
+### Sufficiency of these conditions
 ### Reversing condition 2
 We can easily reverse the calculation proving condition 2: If $j<\|D\|-1$, $\ket{\Phi^j}=O U $\ket{\Phi^{j-1}}$$, $\ket{\Phi^{j-1}}$ fulfills condition 1 and $\ket{\Phi^j}$ fulfills condition 2, then $\ket{\Phi^{j-1}}$ fulfills condition 2 as well.
 
 ### Reversing condition 1
-What's more, suppose we are given a state  $(Z')^{\|D\|-1}=\ket{\|D\|-1}\bra{0}$. So condition $2$ says that 
+What's more, given $j<\|D\|$, suppose we are given a state fulfilling both conditions, $\ket{\Phi^j}=\sum^j_{k=0} \ket{k} \otimes \ket{\psi^j_k}$. Then $(Z')^{\Delta k} = 0$.
+
+$(Z')^{\|D\|-1}=\ket{\|D\|-1}\bra{0}$. So condition $2$ says that 
 Sufficiency of these conditions
 -------------------------------
 We now show that the conditions above are actually sufficient for reachability in $j< \|D\|$ queries. We work backwards: Assuming $\ket{\Psi^j}$ fulfilling conditions 1-2, we show that $\ket{\Psi^j}=O U \ket{\Psi^{j-1}}$ with $\ket{\Psi^{j-1}}$ fulfilling these conditions for step $j$, and the quantum computer's unitary $U$ acts trivially on $\mathcal{D}$. If the $\ket{\Psi^{j-1}}$ fulfills condition 1, the calculation used in the proof of condition 2 proves that it fulfills that condition as well.
