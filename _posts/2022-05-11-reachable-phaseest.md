@@ -23,7 +23,7 @@ Modified shift operators
 ------------------------
 Now define the "modified shift operator" $X':=X_{\mathcal{D}}(1-P_{\|D\|-1})=(1-P_0)X_{\mathcal{D}}$. Then for $\Delta k \in {0,\ldots,\|D\|-1}$, $X'^{\Delta k}_{\mathcal{D}}=\sum_{k=0}^{\|D\|-1-\Delta k}\ket{k+\Delta k}\bra{k}$, and the expectation values $\expval{X'^{\Delta k}\_{\mathcal{D}}}{\Psi^j}$ are given by sums of Gram matrix elements along the diagonal or an off-diagonal.
 
-Necessary condition 2: $\langle\Psi^j\middle X'^{\Delta k}\middle\ket{\Psi^j}\rangle=\|D\| \delta_{k,0}$ whenever $j<\|D\|$
+Necessary condition 2: $\langle\Psi^j\mid X'^{\Delta k}\mid\ket{\Psi^j}\rangle=\|D\| \delta_{k,0}$ whenever $j<\|D\|$
 -----------------------------------------------------------------------------------
 For $j=0$, the claim in the section title [^1] is clearly true with $\delta_{k,0}$ being the Kronecker delta ($1$ for $k=0$, $0$ otherwise). The quantum computer's unitaries don't change the Gram matrix, so what's left to show is that they are conserved after an oracle call in the first $\|D\|-1$ queries. With $\ket{\Psi^j} the super-state directly before the $j$th query (i.e. after at most $\|D\|-2$ queries), we write
 
@@ -45,7 +45,7 @@ Measurements
 ------------
 Once again, the conditions fit into a semidefinite program/convex optimization problem: In principle, the set of PSD matrices equals the set of Gram matrices for some non-normalized collection of states, condition 1 determines the dimension of the positive semidefinite matrices to consider, and condition 2 is a set of simple linear constraints on these matrices. As in [^2], understanding the set of possible measurement probabilities fits into a semidefinite programming framework as well.
 
-[^1]: If I am not mistaken, the expectation values $X^\Delta k$ being conserved is equivalent to the fact that the diagonal elements of the Gram matrix in the computational basis - i.e. the norms of the basis vectors - stay the same. One can check that $X^\Delta k = X'^\Delta k + (X'^\dagger)^{\|D\|-\Delta k}$, so what we prove for the first $\|D\|-1$ steps is stronger.
+[^1]: If I am not mistaken, the expectation values $X^{\Delta k}$ being conserved is equivalent to the fact that the diagonal elements of the Gram matrix in the computational basis - i.e. the norms of the basis vectors - stay the same. One can check that $X^\Delta k = X'^\Delta k + (X'^\dagger)^{\|D\|-\Delta k}$, so what we prove for the first $\|D\|-1$ steps is stronger.
 
 References
 ----------
