@@ -45,12 +45,12 @@ Clearly, the conditions are sufficient for $j=0$. Now consider the smallest $j$ 
 
 As promised, after $\|D\|-1$ queries, it is possible to obtain the identity Gram matrix - in the computational basis, this means that the states for all different inputs are orthogonal and can be distinguished without error.
 
-Measurements
-------------
+# Measurements
 Once again, the conditions fit into a semidefinite program/convex optimization problem: In principle, the set of PSD matrices equals the set of Gram matrices for some non-normalized collection of states, condition 1 determines the dimension of the positive semidefinite matrices to consider, and condition 2 is a set of simple linear constraints on these matrices. As in [^2], understanding the set of possible measurement probabilities fits into a semidefinite programming framework as well.
 
+# Footnote
 [^1]: If I am not mistaken, the expectation values $X^{\Delta k}$ being conserved is equivalent to the fact that the diagonal elements of the Gram matrix in the computational basis - i.e. the norms of the basis vectors - stay the same. One can check that $X\_{\mathcal{D}}^\Delta k = X'^\Delta k + (X'^\dagger)^{\|D\|-\Delta k}$, so what we prove for the first $\|D\|-1$ steps is stronger.
 
-References
-----------
+# References
+
 [^2]: https://github.com/qudent/RhoPaths
