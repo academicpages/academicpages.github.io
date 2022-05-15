@@ -13,17 +13,17 @@ We'll characterize which combinations of states (for some $d\in D$) are reachabl
 
 Fourier transforming the input register
 ---------------------------------------
-The basic idea is to Fourier transform the input register $\mathcal{D}$. Introduce the orthonormal Fourier basis {% raw %} $K=\left\{\ket{k}=\|D\|^{-1/2} \sum_{d\in D} d^k\ket{d}\middle k\in \mathbb{Z}\_{\|D\|}\right}$ {% endraw %}. In that basis, the initial state is $\ket{\Psi^0}=\|D\| \ket{0}\bra{0}\otimes\ket{\psi^0}$, and the oracle $O$ becomes a combination of identity and shift operators: $O=\sum_{k\in \mathbb{Z}\_{\|D\|}}(\ket{k,\mathrm{idle}}\bra{k,\mathrm{idle}}+\ket{k+1,\psi}\bra{k,\psi})=I_{\mathcal{D}} P_{\mathrm{idle}}+X_{\mathcal{D}} P_{\psi}$ (note that the addition in $\mathbb{Z}\_{\|D\|}$ is modulo $\|D\|$). Now this is a simple permutation matrix of the new basis vectors, and it seems much easier to understand which states are reachable after some number of steps. We now find two necessary conditions for super-states reachability of a super-state after $j<\|D\|$ queries. After that, we'll prove sufficiency.
+The basic idea is to Fourier transform the input register $\mathcal{D}$. Introduce the orthonormal Fourier basis {% raw %} $K=\left\{\ket{k}=\|D\|^{-1/2} \sum_{d\in D} d^k\ket{d}\middle k\in \mathbb{Z}\_{\|D\|}\right}$ {% endraw %}. In that basis, the initial state is $\ket{\Psi^0}=\|D\| \ket{0}\bra{0}\otimes\ket{\psi^0}$, and the oracle $O$ becomes a combination of identity and shift operators: $O=\sum_{k\in \mathbb{Z}\_{\|D\|}}(\ket{k,\mathrm{idle}}\bra{k,\mathrm{idle}}+\ket{k+1,\psi}\bra{k,\psi})=I_{\mathcal{D}} P_{\mathrm{idle}}+X_{\mathcal{D}} P_{\psi}$ (note that the addition in $\mathbb{Z}\_{\|D\|}$ is modulo $\|D\|$). Now this is a simple permutation matrix of the new basis vectors, and it seems much easier to understand which states are reachable after some number of steps.
 
-Condition 1: $P_k\ket{\Psi^j}=0$ for $k>j$.
+Necessary condition 1: $P_k\ket{\Psi^j}=0$ for $k>j$.
 -----------------------------------------
-This condition is simple - by induction and the form of the oracle, the super-state $\ket{\Psi}$ must lie entirely in the subspace spanned by the Fourier modes $0,\ldots,j$ after $j$ queries.
+By induction and the form of the oracle, the super-state $\ket{\Psi}$ must lie entirely in the subspace spanned by the Fourier modes $0,\ldots,j$ after $j$ queries.
 
 Modified shift operators
 ------------------------
 Now define the "modified shift operator" $X':=X_{\mathcal{D}}(1-P_{\|D\|-1})=(1-P_0)X_{\mathcal{D}}$. Then for $\Delta k \in {0,\ldots,\|D\|-1}$, $X'^{\Delta k}_{\mathcal{D}}=\sum_{k=0}^{\|D\|-1-\Delta k}\ket{k+\Delta k}\bra{k}$, and the expectation values $\expval{X'^{\Delta k}\_{\mathcal{D}}}{\Psi^j}$ are given by sums of Gram matrix elements along the diagonal or an off-diagonal.
 
-Condition 2: $\expval{X'^\Delta k}{\ket{\Psi^j}}=\|D\| \delta_{k,0}$ whenever $j<\|D\|$
+Necessary condition 2: $\langle\Psi^j\middle X'^{\Delta k}\middle\ket{\Psi^j}\rangle=\|D\| \delta_{k,0}$ whenever $j<\|D\|$
 -----------------------------------------------------------------------------------
 For $j=0$, the claim in the section title [^1] is clearly true with $\delta_{k,0}$ being the Kronecker delta ($1$ for $k=0$, $0$ otherwise). The quantum computer's unitaries don't change the Gram matrix, so what's left to show is that they are conserved after an oracle call in the first $\|D\|-1$ queries. With $\ket{\Psi^j} the super-state directly before the $j$th query (i.e. after at most $\|D\|-2$ queries), we write
 
