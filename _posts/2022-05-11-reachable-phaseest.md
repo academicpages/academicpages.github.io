@@ -1,5 +1,5 @@
 ---
-title: 'Reachable Gram matrices in quantum phase estimation'
+title: 'Reachable states in quantum phase estimation'
 date: 2022-05-13
 permalink: /posts/2022/05/reachable-phaseest/
 tags:
@@ -7,7 +7,7 @@ tags:
   - cs.cc
 ---
 
-A famous, basic algorithm in quantum computing is the [_quantum phase estimation_](https://en.wikipedia.org/wiki/Quantum_phase_estimation_algorithm) algorithm. We can see the algorithm as a quantum query algorithm [^2] for oracles $O_d=\ket{\mathrm{idle}}\bra{\mathrm{idle}} + d\ket{\mathrm{\psi}}\bra{\mathrm{\psi}}$, where $d\in\mathbb{C}, \lVert d \rVert = 1$ is the eigenvalue to be estimated - for discretization purposes, we choose $|D|\in\mathbb{N}^{+}$ and assume $d$ is a $\|D\|$th root of unity, $d\in D:=\left\{d\middle d\in\mathbb{C}, d^{\|D\|}=1\right\}$.
+A famous, basic algorithm in quantum computing is the [_quantum phase estimation_](https://en.wikipedia.org/wiki/Quantum_phase_estimation_algorithm) algorithm. We can see the algorithm as a quantum query algorithm [^2] for oracles $O_d=\ket{\mathrm{idle}}\bra{\mathrm{idle}} + d\ket{\mathrm{\psi}}\bra{\mathrm{\psi}}$, where $d\in\mathbb{C}, \lVert d \rVert = 1$ is the eigenvalue to be estimated - for discretization purposes, we choose $\|D\|\in\mathbb{N}^{+}$ and assume $d$ is a $\|D\|$th root of unity, $d\in D:=\left\{d\middle d\in\mathbb{C}, d^{\|D\|}=1\right\}$.
 
 We'll characterize which combinations of states (for some $d\in D$) are reachable in $j$-query quantum query algorithms, i.e. algorithms starting from a $d$-independent initial state $\ket{\psi^0}$ and applying $O_d$ $j$ times in between $d$-independent unitaries $O^0,\ldots, O^j$. As in [^2], we can track the evolutions of all states at once, subsuming all the oracles in a single block-diagonal "super-oracle" $O=\sum_{d\in D}\ket{d}\bra{d}\otimes O_d$, and the states after the $j$th oracle application in a single "super-state" $\ket{\Psi^j}=\sum_{d\in D}\ket{d}\otimes \ket{\psi^j_d}$, where the $\ket{d}$ are computational basis vectors of a new Hilbert space $\mathcal{D}$.
 
@@ -19,16 +19,16 @@ By induction and the form of the oracle, the super-state $\ket{\Psi}$ must lie e
 
 ## Condition 2
 ### Modified shift operators
-Now define the "modified shift operator" $X':=X\_{\mathcal{D}}(1-P_{\|D\|-1})=(1-P_0)X\_{\mathcal{D}}$, with $X_{\mathcal{D}}$ as in the Fourier basis definition of $O$. Then for $\Delta k \in {0,\ldots,\|D\|-1}$, $X'^{\Delta k}=\sum\_{k=0}^{\|D\|-1-\Delta k}\ket{k+\Delta k}\bra{k}$, and the expectation values $\langle \Psi^j \mid (X')^{\Delta k}\mid \Psi^j \rangle$ are given by sums of diagonal or off-diagonal reduced density operator entries on the $\mathcal{D}$ register.
+Now define the "modified shift operator" $X':=X\_{\mathcal{D}}(1-P_{\|D\|-1})=(1-P_0)X\_{\mathcal{D}}$, with $X_{\mathcal{D}}$ as in the Fourier basis definition of $O$. Then for $\Delta k \in {0,\ldots,\|D\|-1}$, $(X')^{\Delta k}=\sum\_{k=0}^{\|D\|-1-\Delta k}\ket{k+\Delta k}\bra{k}$, and the expectation values $\langle \Psi^j \mid (X')^{\Delta k}\mid \Psi^j \rangle$ are given by sums of diagonal or off-diagonal reduced density operator entries on the $\mathcal{D}$ register.
 
 ### The condition: $\langle\Psi^j\mid (X')^{\Delta k}\mid \Psi^j\rangle=\|D\| \delta_{\Delta k,0}$ for $j<\|D\|, \Delta k \in \mathbb{Z}\_{\|D\|}$
-For $j=0$, the claim in the section title [^1] is clearly true with $\delta_{k,0}$ being the Kronecker delta ($1$ for $k=0$, $0$ otherwise). The quantum computer's unitaries don't change the Gram matrix, so what's left to show is that they are conserved after an oracle call in the first $\|D\|-1$ queries. With $\ket{\Phi^j}$ the super-state directly before the $j$th query (i.e. after at most $\|D\|-2$ queries), we write
+For $j=0$, the claim in the section title [^1] is clearly true with $\delta_{k,0}$ being the Kronecker delta ($1$ for $k=0$, $0$ otherwise). The quantum computer's unitaries act trivially on $\mathcal{D}$ and don't change the expectation values, so what's left to show is that they are conserved after an oracle call in the first $\|D\|-1$ queries. With $\ket{\Phi^j}$ the super-state directly before the $j$th query (i.e. after at most $\|D\|-2$ queries), we write
 
-$\langle \Phi^j \mid O^\dagger X'^{\Delta k} O \mid \Phi^j \rangle=\\
-\bra{\Phi^j}P_{\mathrm{idle}} X'^{\Delta k}\ket{\Psi^j}+\bra{\Psi^j}{P_{\psi}}X^\dagger X'^{\Delta k} X \ket{\Psi^j}$.
+$\langle \Phi^j \mid O^\dagger (X')^{\Delta k} O \mid \Phi^j \rangle=\\
+\bra{\Phi^j}P_{\mathrm{idle}} (X')^{\Delta k}\ket{\Phi^j}+\bra{\Phi^j}{P_{\Phi}}X\_{\mathcal{D}}^\dagger (X')^{\Delta k} X\_{\mathcal{D}} \ket{\Phi^j}$.
 
-By Condition 1, for $j<\|D\|-1$, $X' \ket{\Psi^j}=X\ket{\Psi^j}$ and $\bra{\Psi^j}X^\dagger X'=\bra{\Psi^j}(I-P_{\|D\|-1})=\bra{\Psi^j}$. So the quantity above equals
-$\bra{\Psi^j}P_{\mathrm{idle}} X'^{\Delta k}\ket{\Psi^j}+\bra{\Psi^j}{P_{\psi}} X'^{\Delta k} \ket{\Psi^j}=\langle \Psi^j \mid X'^{\Delta k} \mid \Psi^j \rangle$.
+By Condition 1, for $j<\|D\|-1$, $X' \ket{\Phi^j}=X\ket{\Phi^j}$ and $\bra{\Phi^j}X^\dagger X'=\bra{\Phi^j}(I-P_{\|D\|-1})=\bra{\Phi^j}$. So the quantity above equals
+$\bra{\Phi^j}P_{\mathrm{idle}} (X')^{\Delta k}\ket{\Phi^j}+\bra{\Phi^j}{P_{\Phi}} (X')^{\Delta k} \ket{\Phi^j}=\langle \Phi^j \mid (X')^{\Delta k} \mid \Phi^j \rangle$.
 
 Sufficiency of these conditions
 -------------------------------
