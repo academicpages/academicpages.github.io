@@ -30,14 +30,15 @@ $\langle \Phi^j \mid O^\dagger (X')^{\Delta k} O \mid \Phi^j \rangle=\\
 By Condition 1, for $j<\|D\|-1$, $X' \ket{\Phi^j}=X\ket{\Phi^j}$ and $\bra{\Phi^j}X^\dagger X'=\bra{\Phi^j}(I-P_{\|D\|-1})=\bra{\Phi^j}$. So the quantity above equals
 $\bra{\Phi^j}P_{\mathrm{idle}} (X')^{\Delta k}\ket{\Phi^j}+\bra{\Phi^j}{P_{\Phi}} (X')^{\Delta k} \ket{\Phi^j}=\langle \Phi^j \mid (X')^{\Delta k} \mid \Phi^j \rangle$.
 
+Note that the truth of either condition is unchanged when the quantum computer applies a unitary $U$ onto query and ancilla space.
 ### Sufficiency of these conditions
-Let $0<j<\|D\|$, and $\ket{\Phi^j}=\sum^j_{k=0} \ket{k} \otimes \ket{\phi^j_k}$ be a super-state fulfilling both conditions. We'll find a unitary $U$ acting on query and ancilla space such that $\ket{\Phi^j}=UO\ket{\Phi^{j-1}}$, with $\ket{\Phi^{j-1}} fulfilling both conditions as well. By induction, this implies that all states fulfilling conditions 1-2 for some $j<\|D\|$ can be generated from an initial state in $j$ queries.
+Let $0<j<\|D\|$, and $\ket{\Phi^j}=\sum^j_{k=0} \ket{k} \otimes \ket{\phi^j_k}$ be a super-state fulfilling both conditions. We'll find a unitary $U$ acting on query and ancilla space such that $\ket{\Phi^j}=UO\ket{\Phi^{j-1}}$, with $\ket{\Phi^{j-1}}$ fulfilling both conditions as well. By induction, this implies that all states fulfilling conditions 1-2 for some $j<\|D\|$ can be generated from a state $\ket{0}\otimes\ket{\psi^0}$ in $j$ queries, which in turn can be generated from any $d$-independent initial state by a $d$-independent unitary.
 
 Condition $2$ for $\Delta k = j$ states that $\langle \phi^j_j \mid \phi^j_0 \rangle=0$. So we can choose our $U$ such that $P_{\mathrm{idle}} U\ket{\phi^j_0} = U\ket{\phi^j_0}$, and $P_v U\ket{\phi^j_j} = U\ket{\phi^j_j}$. Then $\ket{\Phi^{j-1}}=O^\dagger U \ket{\Phi^j}$ fulfills condition 1.
 
 By the calculation proving condition 2, we see that $\ket{\Phi^{j-1}}$ fulfills condition 2 as well.
 
-After $\|D\|-1$ queries, it is possible to obtain the identity Gram matrix - in the computational basis, this means that the states for all different inputs are orthogonal and can be distinguished without error. So if one is interested in measurements, it is not so bad that our argument breaks down after $\|D\|$ queries.
+For $j=\|D\|-1$, a final state whose reduced density operator on $\mathcal{D}$ is the identity is achievable - in the computational basis, this means that the states for all different inputs are orthogonal and can be distinguished without error. So if one is interested in measurements, it is not so bad that our argument breaks down after $\|D\|$ queries.
 
 # Measurements
 Once again, the conditions fit into a semidefinite program/convex optimization problem: In principle, the set of PSD matrices equals the set of possible reduced density operators on $\mathcal{D}$ associated with some non-normalized collection of states, condition 1 determines the dimension of the positive semidefinite matrices to consider, and condition 2 is a set of simple linear constraints on these matrices. As in [^2], understanding the set of possible measurement probabilities fits into a semidefinite programming framework as well.
