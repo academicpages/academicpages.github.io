@@ -9,23 +9,20 @@ tags:
 
 A famous, basic algorithm in quantum computing is the [_quantum phase estimation_](https://en.wikipedia.org/wiki/Quantum_phase_estimation_algorithm) algorithm. We can see the algorithm as a quantum query algorithm [^2] for oracles $O_d=\ket{\mathrm{idle}}\bra{\mathrm{idle}} + d\ket{\mathrm{\psi}}\bra{\mathrm{\psi}}$, where $d\in\mathbb{C}, \lVert d \rVert = 1$ is the eigenvalue to be estimated - for discretization purposes, we choose $|D|\in\mathbb{N}^{+}$ and assume $d$ is a $\|D\|$th root of unity, $d\in D:=\left\{d\middle d\in\mathbb{C}, d^{\|D\|}=1\right\}$.
 
-We'll characterize which combinations of states (for some $d\in D$) are reachable in $j$-query quantum query algorithms, i.e. algorithms starting from a $d$-independent initial state $\ket{\psi^0}$ and applying $O_d$ $j$ times in between $d$-independent unitaries $O^0,\ldots, O^j$. As in [^2], we can track the evolutions of all states at once, subsuming all the oracles in a single block-diagonal "super-oracle" $O=\sum_{d\in D}\ket{d}\bra{d}\otimes O_d$, and the states at a certain step in time in a single "super-state" $\ket{\Psi^j}=\sum_{d\in D}\ket{d}\otimes \ket{\psi^j_d}$.
+We'll characterize which combinations of states (for some $d\in D$) are reachable in $j$-query quantum query algorithms, i.e. algorithms starting from a $d$-independent initial state $\ket{\psi^0}$ and applying $O_d$ $j$ times in between $d$-independent unitaries $O^0,\ldots, O^j$. As in [^2], we can track the evolutions of all states at once, subsuming all the oracles in a single block-diagonal "super-oracle" $O=\sum_{d\in D}\ket{d}\bra{d}\otimes O_d$, and the states after the $j$th oracle application in a single "super-state" $\ket{\Psi^j}=\sum_{d\in D}\ket{d}\otimes \ket{\psi^j_d}$, where the $\ket{d}$ are computational basis vectors of a new Hilbert space $\mathcal{D}$.
 
-Fourier transforming the input register
----------------------------------------
-The basic idea is to Fourier transform the input register $\mathcal{D}$. Introduce the orthonormal Fourier basis {% raw %} $K=\left\{\ket{k}=\|D\|^{-1/2} \sum_{d\in D} d^k\ket{d}\middle k\in \mathbb{Z}\_{\|D\|}\right}$ {% endraw %}. In that basis, the initial state is $\ket{\Psi^0}=\|D\| \ket{0}\bra{0}\otimes\ket{\psi^0}$, and the oracle $O$ becomes a combination of identity and shift operators: $O=\sum_{k\in \mathbb{Z}\_{\|D\|}}(\ket{k,\mathrm{idle}}\bra{k,\mathrm{idle}}+\ket{k+1,\psi}\bra{k,\psi})=I_{\mathcal{D}} P_{\mathrm{idle}}+X_{\mathcal{D}} P_{\psi}$ (note that the addition in $\mathbb{Z}\_{\|D\|}$ is modulo $\|D\|$). Now this is a simple permutation matrix of the new basis vectors, and it seems much easier to understand which states are reachable after some number of steps.
+# Fourier transforming the input register
+The basic idea is to Fourier transform the input register $\mathcal{D}$. Introduce the orthonormal Fourier basis {% raw %} $K=\left\{\ket{k}=\|D\|^{-1/2} \sum_{d\in D} d^k\ket{d}\middle k\in \mathbb{Z}\_{\|D\|}\right}$ {% endraw %}. In that basis, the initial state is $\ket{\Psi^0}=\|D\| \ket{0}\bra{0}\otimes\ket{\psi^0}$, and the oracle $O$ becomes a combination of identity and shift operators: $O=\sum_{k\in \mathbb{Z}\_{\|D\|}}(\ket{k,\mathrm{idle}}\bra{k,\mathrm{idle}}+\ket{k+1,\psi}\bra{k,\psi})=I_{\mathcal{D}} P_{\mathrm{idle}}+X_{\mathcal{D}} P_{\psi}$ (note that the addition in $\mathbb{Z}\_{\|D\|}$ is modulo $\|D\|$). Now this is a simple permutation matrix of the new basis vectors, and it seems much easier to understand which states are reachable after some number of steps. 
 
-Necessary condition 1: $P_k\ket{\Psi^j}=0$ for $k>j$.
------------------------------------------
+## Condition 1: $P_k\ket{\Psi^j}=0$ for $k>j$.
 By induction and the form of the oracle, the super-state $\ket{\Psi}$ must lie entirely in the subspace spanned by the Fourier modes $0,\ldots,j$ after $j$ queries.
 
-Modified shift operators
-------------------------
-Now define the "modified shift operator" $X':=X_{\mathcal{D}}(1-P_{\|D\|-1})=(1-P_0)X_{\mathcal{D}}$. Then for $\Delta k \in {0,\ldots,\|D\|-1}$, $X'^{\Delta k}_{\mathcal{D}}=\sum_{k=0}^{\|D\|-1-\Delta k}\ket{k+\Delta k}\bra{k}$, and the expectation values $\expval{X'^{\Delta k}\_{\mathcal{D}}}{\Psi^j}$ are given by sums of Gram matrix elements along the diagonal or an off-diagonal.
+## Condition 2
+### Modified shift operators
+Now define the "modified shift operator" $X':=X\_{\mathcal{D}}(1-P_{\|D\|-1})=(1-P_0)X\_{\mathcal{D}}$, with $X_{\mathcal{D}}$ as in the Fourier basis definition of $O$. Then for $\Delta k \in {0,\ldots,\|D\|-1}$, $X'^{\Delta k}\_{\mathcal{D}}=\sum\_{k=0}^{\|D\|-1-\Delta k}\ket{k+\Delta k}\bra{k}$, and the expectation values $\langle \Psi^j\mid X'^{\Delta k}\mid \Psi^j }\rangle$ are given by sums of inner products of (non-super) states along the diagonal or an off-diagonal.
 
-Necessary condition 2: $\langle\Psi^j\mid X'^{\Delta k}\mid\ket{\Psi^j}\rangle=\|D\| \delta_{k,0}$ whenever $j<\|D\|$
------------------------------------------------------------------------------------
-For $j=0$, the claim in the section title [^1] is clearly true with $\delta_{k,0}$ being the Kronecker delta ($1$ for $k=0$, $0$ otherwise). The quantum computer's unitaries don't change the Gram matrix, so what's left to show is that they are conserved after an oracle call in the first $\|D\|-1$ queries. With $\ket{\Psi^j} the super-state directly before the $j$th query (i.e. after at most $\|D\|-2$ queries), we write
+### The condition: $\langle\Psi^j\mid (X')^{\Delta k}\mid \Psi^j\rangle=\|D\| \delta_{\Delta k,0}$ for $j<\|D\|, \Delta k \in \mathbb{Z}\_{\|D\|}$
+For $j=0$, the claim in the section title [^1] is clearly true with $\delta_{k,0}$ being the Kronecker delta ($1$ for $k=0$, $0$ otherwise). The quantum computer's unitaries don't change the Gram matrix, so what's left to show is that they are conserved after an oracle call in the first $\|D\|-1$ queries. With $\ket{\Psi^j}$ the super-state directly before the $j$th query (i.e. after at most $\|D\|-2$ queries), we write
 
 $\expval{O^\dagger X'^{\Delta k} O}{\Psi^j}=\\
 \bra{\Psi^j}P_{\mathrm{idle}} X'^{\Delta k}\ket{\Psi^j}+\bra{\Psi^j}{P_{\psi}}X^\dagger X'^{\Delta k} X \ket{\Psi^j}$.
@@ -45,7 +42,7 @@ Measurements
 ------------
 Once again, the conditions fit into a semidefinite program/convex optimization problem: In principle, the set of PSD matrices equals the set of Gram matrices for some non-normalized collection of states, condition 1 determines the dimension of the positive semidefinite matrices to consider, and condition 2 is a set of simple linear constraints on these matrices. As in [^2], understanding the set of possible measurement probabilities fits into a semidefinite programming framework as well.
 
-[^1]: If I am not mistaken, the expectation values $X^{\Delta k}$ being conserved is equivalent to the fact that the diagonal elements of the Gram matrix in the computational basis - i.e. the norms of the basis vectors - stay the same. One can check that $X^\Delta k = X'^\Delta k + (X'^\dagger)^{\|D\|-\Delta k}$, so what we prove for the first $\|D\|-1$ steps is stronger.
+[^1]: If I am not mistaken, the expectation values $X^{\Delta k}$ being conserved is equivalent to the fact that the diagonal elements of the Gram matrix in the computational basis - i.e. the norms of the basis vectors - stay the same. One can check that $X\_{\mathcal{D}}^\Delta k = X'^\Delta k + (X'^\dagger)^{\|D\|-\Delta k}$, so what we prove for the first $\|D\|-1$ steps is stronger.
 
 References
 ----------
