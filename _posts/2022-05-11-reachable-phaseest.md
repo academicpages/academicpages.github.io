@@ -19,7 +19,7 @@ By induction and the form of the oracle, the super-state $\ket{\Psi}$ must lie e
 
 ## Condition 2
 ### Modified shift operators
-Now define the "modified shift operator" $X':=X\_{\mathcal{D}}(1-P_{\|D\|-1})=(1-P_0)X\_{\mathcal{D}}$, with $X_{\mathcal{D}}$ as in the Fourier basis definition of $O$. Then for $\Delta k \in {0,\ldots,\|D\|-1}$, $X'^{\Delta k}=\sum\_{k=0}^{\|D\|-1-\Delta k}\ket{k+\Delta k}\bra{k}$, and the expectation values $\langle \Psi^j\mid X'^{\Delta k}\mid \Psi^j \rangle$ are given by sums of diagonal or off-diagonal reduced density operator entries on the $\mathcal{D}$ register.
+Now define the "modified shift operator" $X':=X\_{\mathcal{D}}(1-P_{\|D\|-1})=(1-P_0)X\_{\mathcal{D}}$, with $X_{\mathcal{D}}$ as in the Fourier basis definition of $O$. Then for $\Delta k \in {0,\ldots,\|D\|-1}$, $X'^{\Delta k}=\sum\_{k=0}^{\|D\|-1-\Delta k}\ket{k+\Delta k}\bra{k}$, and the expectation values $\langle \Psi^j \mid (X')^{\Delta k}\mid \Psi^j \rangle$ are given by sums of diagonal or off-diagonal reduced density operator entries on the $\mathcal{D}$ register.
 
 ### The condition: $\langle\Psi^j\mid (X')^{\Delta k}\mid \Psi^j\rangle=\|D\| \delta_{\Delta k,0}$ for $j<\|D\|, \Delta k \in \mathbb{Z}\_{\|D\|}$
 For $j=0$, the claim in the section title [^1] is clearly true with $\delta_{k,0}$ being the Kronecker delta ($1$ for $k=0$, $0$ otherwise). The quantum computer's unitaries don't change the Gram matrix, so what's left to show is that they are conserved after an oracle call in the first $\|D\|-1$ queries. With $\ket{\Phi^j}$ the super-state directly before the $j$th query (i.e. after at most $\|D\|-2$ queries), we write
