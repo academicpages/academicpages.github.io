@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  smartwatch:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -209,7 +209,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _smartwatch
   - scope:
       path: ""
       type: smartwatch
