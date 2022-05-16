@@ -14,3 +14,8 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+“Rising Food Prices: The Case of Childhood Poverty in a Developed Economy,” NCUR Proceedings, 2017
+•	Utah’s Conference on Undergraduate Research, poster presentation, 2017
+•	National Conference on Undergraduate Research, oral presentation, 2017
+“The Hope of Mankind,” The Journal of Student Leadership, 2017
