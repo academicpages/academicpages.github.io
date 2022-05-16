@@ -39,6 +39,10 @@ Teaching
 
 Work experience
 ======
+* Research Intern
+  * Microsoft, Beijing, STCA group
+  * May 2022 - Current
+  
 * Casual Research Assistant
   * The University of Queensland
   * Assist with the research and development of methods of information retrieval and evaluation based on online learning to rank.
