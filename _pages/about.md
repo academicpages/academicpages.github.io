@@ -11,7 +11,7 @@ redirect_from:
 ## Bio
 I am a third year PhD student studying policy analysis at the O'Neill School of Public and Environmental Affairs, with minor emphasis in public finance. The best part of my career is how academia combines my love for research with my passion for teaching and serving others. I plan on making the world a better place through my efforts to analyze public healthcare policy, advance theory-based research, and inspire students of public affairs. 
 
-## Education
+## Graduate Education
 #### PhD Public Affairs - Indiana University (2019 - 2024 expected)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Faculty profile](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html)
 * Policy Analysis
@@ -23,10 +23,6 @@ I am a third year PhD student studying policy analysis at the O'Neill School of 
 * Minor field emphasis Healthcare
 * Capstone: "Enhancing healchare transparency in Utah: Deriving a composite quality score for public use as a complement to the Total Cost of Care project"
 * Faculty Advisors: Robert Christensen, Rex Facer, Jeff Thompson, Eva Witesman, Chris Silvia, Andrew Heiss
-#### BS - Utah Valley University (2014 - 2017)  
-* Major in Economics
-* Capstone: "Rising Food Prices: The Case of Childhood Poverty in a Developed Economy"
-* Faculty Advisors: Maritza Sotomayor, Moh El-Saidi, Amir Kia, Andre Luis Rossi de Oliveira
 
 ### Interests
 - Health economics and policy 
