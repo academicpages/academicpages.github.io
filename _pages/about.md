@@ -17,7 +17,7 @@ We invite graduate students and faculty from Political Science and Economics wit
 
 *News:* 
 
-- We welcome our [new team](https://gsipe-workshop.github.io/team/) for GSIPE, taking over June 1st.
+- We welcome our [new team](https://gsipe-workshop.github.io/team/) for GSIPE, starting June 1st.
 
 - We are excited to announce a call for submissions for the **GSIPE workshop for APSA 2022!** The deadline for submissions is Thursday, May 26th at 11:59pm Eastern Time. More information [here](https://gsipe-workshop.github.io/special-events/).
 
