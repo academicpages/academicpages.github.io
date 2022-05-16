@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Job Market Candidates 2022"
-permalink: /job-market-2022/
+title: "Job Market Candidates"
+permalink: /job-market/
 toc: true
 toc_label: "JM tags"
 author_profile: true
