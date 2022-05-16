@@ -11,9 +11,9 @@ Email: [gsipe.workshop@gmail.com](gsipe.workshop@gmail.com)
 
 [Zoe Ge (NYU)](https://wp.nyu.edu/zoege/)
 
-[Elisa Navarra (George Washington)](https://sites.google.com/view/elisanavarra)
+[Elisa Navarra (Université Libre de Bruxelles)](https://sites.google.com/view/elisanavarra)
 
-[Anthony Calacino (UT at Austin)](https://cola.utexas.edu/government/graduate/profile.php?id=ac72973)
+[Anthony Calacino (UT Austin)](https://cola.utexas.edu/government/graduate/profile.php?id=ac72973)
 
 <hr>
 
