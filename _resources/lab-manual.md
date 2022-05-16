@@ -99,7 +99,7 @@ Implicit bias refers to the attitudes or stereotypes that affect our understandi
 
 ## Lab Data
 
-Lab data should be stored both on a local hard drive and an external hard drive, and all raw data and associated metadata should be regularly backed up. You notes and analysis codes are crucial resources for the lab, and these must be available upon request. Before leaving the lab for good, and upon completion of projects, old datasets must be backed up (we will work out archiving protocols when the time comes). 
+Lab data should be stored both on a local hard drive and an external hard drive, and all raw data and associated metadata should be regularly backed up. Your notes and analysis codes are crucial resources for the lab, and these must be available upon request. Before leaving the lab for good, and upon completion of projects, old datasets must be backed up (we will work out archiving protocols when the time comes). 
 
 ## Open Science
 
