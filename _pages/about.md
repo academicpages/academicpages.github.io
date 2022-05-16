@@ -12,22 +12,27 @@ redirect_from:
 I am a third year PhD student studying policy analysis at the O'Neill School of Public and Environmental Affairs, with minor emphasis in public finance. The best part of my career is how academia combines my love for research with my passion for teaching and serving others. I plan on making the world a better place through my efforts to analyze public healthcare policy, advance theory-based research, and inspire students of public affairs. 
 
 ## Education
-PhD Public Affairs - Indiana University (2019 - 2024 expected) [^1]  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Faculty profile](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html)  
-MPA - Brigham Young University (2017 - 2019) [^2]  
-BS - Utah Valley University (2014 - 2017) [^3]  
+PhD Public Affairs - Indiana University (2019 - 2024 expected)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Faculty profile](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html)
+* Policy Analysis
+* Public Finance
+* Faculty Advisors: Kosali Simon, Seth Freedman, Victoria Perez, Justin Ross
+MPA - Brigham Young University (2017 - 2019)
+* Minor in Information Systems
+* Major field emphasis Program Management
+* Minor field emphasis Healthcare
+* Capstone: "Enhancing healchare transparency in Utah: Deriving a composite quality score for public use as a complement to the Total Cost of Care project"
+* Faculty Advisors: Robert Christensen, Rex Facer, Jeff Thompson, Eva Witesman, Chris Silvia, Andrew Heiss
+BS - Utah Valley University (2014 - 2017)
+* Major in Economics
+* Capstone: "Rising Food Prices: The Case of Childhood Poverty in a Developed Economy"
+* Faculty Advisors: Maritza Sotomayor, Moh El-Saidi, Amir Kia, Andre Luis Rossi de Oliveira
 
 ### Interests
 - Health economics and policy 
-- Private and government healthcare finance
+- Healthcare finance
 - Healthcare labor market 
 - Healthcare quality
-
-### Skills and Abilities
-- Policy Analysis  
-- Stata  
-- R 
-- Python  
 
 ### Teaching
 2022 Spring SPEA-V 202 Contemporary Economic Issues in Public Affairs (3 CR)  
@@ -44,8 +49,3 @@ BS - Utah Valley University (2014 - 2017) [^3]
 ### Fellowships
 - Rumsfeld Foundation Fellow, 2019 - 2021  
 - Healthcare Industry Scholar, Marriott School of Business, 2018 - 2019  
-    
-___  
-[^1]: Major emphasis Policy Analysis, minor emphasis Public Finance  
-[^2]: Minor in Information Systems (IS); major field emphasis Program Management, minor field emphasis Healthcare  
-[^3]: Major in Economics  
