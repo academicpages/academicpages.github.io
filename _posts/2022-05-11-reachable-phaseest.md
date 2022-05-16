@@ -43,9 +43,7 @@ For $j=\|D\|-1$, a final state whose reduced density operator on $\mathcal{D}$ i
 # Measurements
 Once again, the conditions fit into a semidefinite program/convex optimization problem: In principle, the set of PSD matrices equals the set of possible reduced density operators on $\mathcal{D}$ associated with some non-normalized collection of states, condition 1 determines the dimension of the positive semidefinite matrices to consider, and condition 2 is a set of simple linear constraints on these matrices. As in [^2], understanding the set of possible measurement probabilities fits into a semidefinite programming framework as well.
 
-# Footnote
+# Footnotes and References
 [^1]: If I am not mistaken, the expectation values $X^{\Delta k}$ being conserved is equivalent to the fact that the diagonal elements of the Gram matrix in the norms of the states for individual $d$ are unchanged throughout the computation. One can check that $X\_{\mathcal{D}}^\Delta k = (X')^{\Delta k} + ((X')^\dagger)^{\|D\|-\Delta k}$, so what we prove for the first $\|D\|-1$ steps is stronger.
-
-# References
 
 [^2]: https://github.com/qudent/RhoPaths
