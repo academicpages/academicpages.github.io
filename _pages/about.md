@@ -7,18 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 The Graduate Student International Political Economy Workshop (GSIPE) is a virtual, interdisciplinary, graduate-student-run workshop. We aim to provide a venue for graduate students (including pre-docs and post-docs) to present works-in-progress and solicit feedback from their peers and faculty. 
 
 We invite graduate students and faculty from Political Science and Economics with an interest in International Political Economy ([broadly defined](https://www.isanet.org/ISA/Sections/IPE)) to participate, and to sign up for our [mailing list](#mailing). We welcome papers in all stages of progress and job market papers.
-
 
 
 <hr> 
 
 *News:* 
 
-- Our activities for the Spring of 2022 have concluded. We thank all participants, moderators and presenters for helping us keep growing GSIPE. Stay tuned for the call for papers for fall of 2022 and for more news regarding the GSIPE community.
+- We welcome our [new team](https://gsipe-workshop.github.io/team/) for GSIPE, taking over June 1st.
 
+- We are excited to announce a call for submissions for the **GSIPE workshop for APSA 2022!** The deadline for submissions is Thursday, May 26th at 11:59pm Eastern Time. More information [here](https://gsipe-workshop.github.io/special-events/).
+
+- We welcome our [new GSIPE team](https://gsipe-workshop.github.io/team/) for GSIPE.
+
+- Our activities for the Spring of 2022 have concluded. We thank all participants, moderators and presenters for helping us keep growing GSIPE.
 
 <hr> 
 

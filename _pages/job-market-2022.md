@@ -7,7 +7,7 @@ toc_label: "JM tags"
 author_profile: true
 ---
 
-Are you on the 2022 IPE job market and would like to be featured on this page? Fill out this <a href = "https://docs.google.com/forms/d/e/1FAIpQLSd-z--qmsi9n1o2-wg2bZn929zeNuEpixcY9-jSUFKbk757vg/viewform"><b>form</b></a>.
+Are you on the 2022 IPE job market and would like to be featured on this page? Fill out this <a href = "https://docs.google.com/forms/d/e/1FAIpQLSfplQyOa9VMP23xnjb21ifpc-UbWY7ZxyY2bRAaao3_jnjn0A/viewform?usp=sf_link"><b>form</b></a>.
 
 <style>
 HTML SCSSResult Skip Results Iframe

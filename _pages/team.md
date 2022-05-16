@@ -9,16 +9,47 @@ author_profile: true
 
 Email: [gsipe.workshop@gmail.com](gsipe.workshop@gmail.com)
 
+[Zoe Ge (NYU)](https://wp.nyu.edu/zoege/)
+
+[Elisa Navarra (George Washington)](https://sites.google.com/view/elisanavarra)
+
+[Anthony Calacino (UT at Austin)](https://cola.utexas.edu/government/graduate/profile.php?id=ac72973)
+
+<hr>
+
+## Events Team
+
+Email: [gsipe.planning@gmail.com](gsipe.planning@gmail.com)
+
+[Celestine Siameh (Minnesota)](https://www.celestineogboh.com/)
+
+[Pei-Yu Wei (Duke)](https://www.peiyuwei.com/)
+
+[Sojun Park (Princeton)](https://sites.google.com/view/sojunp/home)
+
+[RyuGyung (Rio) Park (UC Davis)](https://mesaedit.dss.ucdavis.edu/people/rio0721)
+
+[Pengshan Pan (Pittsburgh) ](https://www.cgm.pitt.edu/people/ant-25)
+
+[Ishana Ratan (Berkeley)](https://enlab.berkeley.edu/lab-people/ishana-ratan/)
+
+## Media 
+
+[Lingbo Zhao (Penn State)](https://polisci.la.psu.edu/people/lkz5164/)
+
+<hr>
+<hr>
+
+
+## Former team members:
+
+# 2nd generation:
+
 [Carlos Felipe Balcazar (NYU)](https://cfbalcazar.github.io/)
 
 [Elizabeth "Bit" Meehan (George Washington)](https://elizabethbitmeehan.com/)
 
 [Oriana Montti (Brandeis)](https://www.linkedin.com/in/orianamontti/)
-
-
-## Planning Team
-
-Email: [gsipe.planning@gmail.com](gsipe.planning@gmail.com)
 
 [Lorenzo Crippa (Essex)](https://lorenzo-crippa.github.io)
 
@@ -34,9 +65,8 @@ Email: [gsipe.planning@gmail.com](gsipe.planning@gmail.com)
 
 [Baptiste Souillard (ULBruxelles)](https://baptistesouillard.com)
 
-<hr>
 
-### Former team members
+# 1st generation:
 
 [Cleo O'Brien-Udry (Yale)](https://cobrienudry.github.io/)
 
