@@ -43,7 +43,7 @@ Email: [gsipe.planning@gmail.com](gsipe.planning@gmail.com)
 
 ## Former team members:
 
-# 2nd generation:
+### 2nd generation:
 
 [Carlos Felipe Balcazar (NYU)](https://cfbalcazar.github.io/)
 
@@ -66,7 +66,7 @@ Email: [gsipe.planning@gmail.com](gsipe.planning@gmail.com)
 [Baptiste Souillard (ULBruxelles)](https://baptistesouillard.com)
 
 
-# 1st generation:
+### 1st generation:
 
 [Cleo O'Brien-Udry (Yale)](https://cobrienudry.github.io/)
 
