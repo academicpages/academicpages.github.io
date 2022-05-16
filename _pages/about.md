@@ -16,7 +16,8 @@ I am a third year PhD student studying policy analysis at the O'Neill School of 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Faculty profile](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html)
 * Policy Analysis
 * Public Finance
-* Faculty Advisors: Kosali Simon, Seth Freedman, Victoria Perez, Justin Ross
+* Faculty Advisors: Kosali Simon, Seth Freedman, Victoria Perez, Justin Ross  
+
 #### MPA - Brigham Young University (2017 - 2019)  
 * Minor in Information Systems
 * Major field emphasis Program Management
