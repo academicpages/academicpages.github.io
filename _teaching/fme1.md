@@ -60,7 +60,11 @@ Indicação de exercícios: Fundamentos de Matemática Elementar Vol. 2 : Capít
 
 Indicação de exercícios: Fundamentos de Matemática Elementar Vol. 2 : Capítulo III: Seção II (137 - 140), Seção III (todos), Seção IV (todos), Seção V (pares), Seção VI (pares).
 
-Indicação de exercícios: Fundamentos de Matemática Elementar Vol. 2 : Capítulo IV: Seção I (pares).
+Indicação de exercícios: Fundamentos de Matemática Elementar Vol. 2 : Capítulo IV: Seção I-IV (pares).
+
+Indicação de exercícios: Fundamentos de Matemática Elementar Vol. 2 : Capítulo V: Seção II (pares).
+
+Indicação de exercícios: Fundamentos de Matemática Elementar Vol. 2 : Capítulo VI: Seção I-II (pares).
 
 
 Aulas
