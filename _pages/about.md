@@ -12,11 +12,14 @@ About me
 ======
 I am a research scientist at Google Research. My research is on CV/ML, with particular interests in security of face biometric systems (e.g., face anti-spoofing, digital manipulation attack, adversarial attack), 3D face modeling, face representation & analysis, XAI, image systhesis, and multi-model modeling.
 
-I got my Ph.D. from the Department of Computer Science and Engineering at [Michigan State University](http://www.cse.msu.edu/), where I was fortunate to join [Computer Vision Lab (CVLAB)](http://cvlab.cse.msu.edu/) and work with [Prof. Xiaoming Liu](http://www.cse.msu.edu/~liuxm/index2.html). I got my M.S. from [Ohio State Univeristy](https://www.osu.edu/) and B.E. from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). I worked in [Computational Biology and Cognitive Science Lab (CBCSL)](http://cbcsl.ece.ohio-state.edu/) advised by [Prof. Aleix Martinez](http://www2.ece.ohio-state.edu/~martinez/) during my M.S. study. In 2019 summer, I worked with [Dr. Barry Theobald](https://scholar.google.com/citations?user=DNrQd3IAAAAJ&hl=en) as an intern at [Apple AI Research](https://jobs.apple.com/en-us/details/200105314/ai-research-machine-learning-researcher).
-In 2020 summer, I joined [Bosch Research](https://www.bosch.us/our-company/bosch-in-the-usa/sunnyvale/) as a summer intern, working with [Dr. Xinyu Huang](https://scholar.google.com/citations?user=cL4bNBwAAAAJ&hl=en) and [Dr. Liu Ren](https://sites.google.com/site/liurenshomepage/).
+I got my Ph.D. at [Michigan State University](http://www.cse.msu.edu/), where I was fortunate to work with [Prof. Xiaoming Liu](http://www.cse.msu.edu/~liuxm/index2.html) at [Computer Vision Lab (CVLAB)](http://cvlab.cse.msu.edu/). I got my M.S. from [Ohio State Univeristy](https://www.osu.edu/) and B.E. from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). 
+I worked in [Computational Biology and Cognitive Science Lab (CBCSL)](http://cbcsl.ece.ohio-state.edu/) advised by [Prof. Aleix Martinez](http://www2.ece.ohio-state.edu/~martinez/). 
+In 2019, I worked with [Dr. Barry Theobald](https://scholar.google.com/citations?user=DNrQd3IAAAAJ&hl=en) as a summer intern at [Apple AI Research](https://jobs.apple.com/en-us/details/200105314/ai-research-machine-learning-researcher).
+In 2020, I joined [Bosch Research](https://www.bosch.us/our-company/bosch-in-the-usa/sunnyvale/) as a summer intern, working with [Dr. Xinyu Huang](https://scholar.google.com/citations?user=cL4bNBwAAAAJ&hl=en) and [Dr. Liu Ren](https://sites.google.com/site/liurenshomepage/).
 
 News
 ======
+* [2022/05/10] &nbsp; Our paper "Spoof Trace Disentanglement for Generic Face Anti-Spoofing" is accepted by TPAMI. The code will be released soon!
 * [2021/06/18] &nbsp; I'm interviewed by IEEE Biometrics Council Newsletter [[link](http://ieee-biometrics.org/images/pdf/Vol38-Newsletter.pdf)].
 * [2021/06/18] &nbsp; I'm selected as CVPR 2021 Outstanding Reviewer.
 * [2021/02/06] &nbsp; I receive 20-21 Outstanding Graduate Student Award at the College of Engineering [[link](https://www.egr.msu.edu/graduate/outstanding-graduate-student-awards)].
@@ -103,9 +106,9 @@ ___
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>Physics-Guided Spoof Trace Disentanglement for Generic Face Anti-Spoofing</strong><br/>
+      <strong>Spoof Trace Disentanglement for Generic Face Anti-Spoofing</strong><br/>
       <u>Yaojie Liu</u>, Xiaoming Liu<br/>
-      under review in IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2020.<br/>
+      IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), 2022.<br/>
       [<a href="https://arxiv.org/abs/2012.05185">PDF</a>]
       [<a href="http://cvlab.cse.msu.edu/project-face-anti.html">Code</a>]
     </p>
