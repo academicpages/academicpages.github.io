@@ -7,7 +7,7 @@ tags:
   - cs.cc
 ---
 
-A famous, basic algorithm in quantum computing is the [_quantum phase estimation_](https://en.wikipedia.org/wiki/Quantum_phase_estimation_algorithm) algorithm. We can see the algorithm as a quantum query algorithm [^2] for oracles $O_d=\ket{\mathrm{idle}}\bra{\mathrm{idle}} + d\ket{\mathrm{v}}\bra{\mathrm{v}}$, where $d\in\mathbb{C}, \lVert d \rVert = 1$ is the eigenvalue to be estimated - for discretization purposes, wechoose $\|D\|\in\mathbb{N}^{+}$ and assume $d$ is a $\|D\|$th root of unity, $d\in D$ with $D:=\left\\\{d\mid d\in\mathbb{C}, d^{\|D\|}=1\right\\\}$.
+A famous, basic algorithm in quantum computing is the [_quantum phase estimation_](https://en.wikipedia.org/wiki/Quantum_phase_estimation_algorithm) algorithm. We can see the algorithm as a quantum query algorithm [^2] for oracles $O_d=\ket{\mathrm{idle}}\bra{\mathrm{idle}} + d\ket{\mathrm{v}}\bra{\mathrm{v}}$, where $d\in\mathbb{C}, \lVert d \rVert = 1$ is the eigenvalue to be estimated - for discretization purposes, we choose $\|D\|\in\mathbb{N}^{+}$ and assume $d$ is a $\|D\|$th root of unity, $d\in D$ with $D:=\left\\\{d\mid d\in\mathbb{C}, d^{\|D\|}=1\right\\\}$.
 
 We'll characterize which combinations of states (for some $d\in D$) are reachable in $j$-query quantum query algorithms, i.e. algorithms starting from a $d$-independent initial state $\ket{\psi^0}$ and applying $O_d$ $j$ times in between $d$-independent unitaries $U^0,\ldots, U^j$, acting on the oracles' query space together with an ancilla space. As in [^2], we can track the evolutions of all states at once, subsuming all the oracles in a single block-diagonal "super-oracle" $O=\sum_{d\in D}\ket{d}\bra{d}\otimes O_d$, and the states after the $j$th oracle application in a single "super-state" $\ket{\Psi^j}=\sum_{d\in D}\ket{d}\otimes \ket{\psi^j_d}$, where the $\ket{d}$ are computational basis vectors of a new Hilbert space $\mathcal{D}$.
 
@@ -31,7 +31,7 @@ By Condition 1, for $j<\|D\|-1$, $X' \ket{\Phi^j}=X\ket{\Phi^j}$ and $\bra{\Phi^
 $\bra{\Phi^j}P_{\mathrm{idle}} (X')^{\Delta k}\ket{\Phi^j}+\bra{\Phi^j}{P_{\Phi}} (X')^{\Delta k} \ket{\Phi^j}=\langle \Phi^j \mid (X')^{\Delta k} \mid \Phi^j \rangle$.
 
 Note that the truth of either condition is unchanged when the quantum computer applies a unitary $U$ onto query and ancilla space.
-### Sufficiency of these conditions
+## Sufficiency of these conditions
 Let $0<j<\|D\|$, and $\ket{\Phi^j}=\sum^j_{k=0} \ket{k} \otimes \ket{\phi^j_k}$ be a super-state fulfilling both conditions. We'll find a unitary $U$ acting on query and ancilla space such that $\ket{\Phi^j}=UO\ket{\Phi^{j-1}}$, with $\ket{\Phi^{j-1}}$ fulfilling both conditions as well. By induction, this implies that all states fulfilling conditions 1-2 for some $j<\|D\|$ can be generated from a state $\ket{0}\otimes\ket{\psi^0}$ in $j$ queries, which in turn can be generated from any $d$-independent initial state by a $d$-independent unitary.
 
 Condition $2$ for $\Delta k = j$ states that $\langle \phi^j_j \mid \phi^j_0 \rangle=0$. So we can choose our $U$ such that $P_{\mathrm{idle}} U\ket{\phi^j_0} = U\ket{\phi^j_0}$, and $P_v U\ket{\phi^j_j} = U\ket{\phi^j_j}$. Then $\ket{\Phi^{j-1}}=O^\dagger U \ket{\Phi^j}$ fulfills condition 1.
