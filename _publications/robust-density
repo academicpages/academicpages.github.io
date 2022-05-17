@@ -5,7 +5,7 @@ link: https://arxiv.org/pdf/2006.16590.pdf
 permalink: /publication/robust-density
 date: 2020-6-30
 excerpt: ''
-pubtype: 'preprint'
-venue: ''
-author: 'B. Le Bars, P. Humbert and L. Minvielle '
+pubtype: 'conference'
+venue: 'ICML 2022'
+author: 'P. Humbert, B. Le Bars and L. Minvielle '
 ---
