@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## SP  
+## ES  
 
 Soy investigador independiente de CONICET en el [Laboratorio de Ecología Evolutiva](http://www.efn.uncor.edu/departamentos/divbioeco/otras/bioflor/), ([IMBIV](http://imbiv.conicet.unc.edu.ar/), [Universidad Nacional de Córdoba](http://www.unc.edu.ar/) – [CONICET](http://www.conicet.gov.ar/), Argentina). Estudio ecología y evolución de las interacciones planta-animal, centrado en evolución rápida, adaptación local, especiación y diversificación. Para abordar estos temas, en nuestro grupo de investigación aplicamos una variedad de métodos: cuantificación del color, morfometría geométrica, filogenética, genética de poblaciones y diferentes modelos estadísticos en R. Algunas preguntas que motivan mi investigación son:   
 
