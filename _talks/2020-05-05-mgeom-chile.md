@@ -8,6 +8,6 @@ date: 2020-05-05
 location: "Santiago, Chile"
 ---
 
-Presentación al I Congreso Iberoamericano de Morfometría Geométrica. Por Santiago Benitez-Vieyra, Juliana Izquierdo, Federico Sazatornil, Camila N. Barrionuevo y Santiago Costas.   
+Por Santiago Benitez-Vieyra, Juliana Izquierdo, Federico Sazatornil, Camila N. Barrionuevo y Santiago Costas.   
 
-[![images/image-alignment-580x300.jpg](https://img.youtube.com/vi/7e-UTYOTxt8/0.jpg)](https://www.youtube.com/watch?v=7e-UTYOTxt8)
+[![miles_flores](https://raw.githubusercontent.com/santiagombv/santiagombv.github.io/master/images/flores-montanas.png)](https://www.youtube.com/watch?v=7e-UTYOTxt8)
