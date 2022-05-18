@@ -31,9 +31,9 @@ I am a postdoctoral research fellow in the Department of Biomedical Informatics 
 ## News 
 
 <ul style="width: auto; height: 150px; overflow: auto">
-
+   <li> <b>[May, 2022]</b>. Dr. Liu was invited to give a talk in the <a href="https://amia.org/community/working-groups/clinical-information-systems">AMIA Clinical Informatics Systems Working Group</a>! </li>
   <li> <b>[May, 2022]</b>. Our paper was featured by <a href="https://psnet.ahrq.gov/periodic-issue/periodic-issue-340">Agency for Healthcare Research and Quality (AHRQ)</a>! </li>
-  <li> <b>[May, 2022]</b>. Dr. Liu was invited to give a talk in the <a href="https://amia.org/community/working-groups/clinical-information-systems">AMIA Clinical Informatics Systems Working Group</a>! </li>
+ 
 
 </ul>
 
