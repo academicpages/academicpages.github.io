@@ -12,4 +12,4 @@ I am a PhD candidate in Political Science at Yale University. I specialize in co
 
 Prior to starting the PhD, I served as a Peace Corps Volunteer in Kosovo. I have a Master's in English literature and a very cute cat. 
 
-You can read about my work cofounding the <a href="https://gsipe-workshop.github.io/">Greaudate Student International Political Economy (GSIPE) workshop</a> with <a href="https://www.alexanderkirss.com/">Alex Kirss</a> and <a href="https://sites.google.com/view/paulko/home">Paul Ko</a> in <a href="https://gsipe-workshop.github.io/">PS: Political Science and Politics</a>.
+You can read about my work cofounding the <a href="https://gsipe-workshop.github.io/">Greaudate Student International Political Economy (GSIPE) workshop</a> with <a href="https://www.alexanderkirss.com/">Alex Kirss</a> and <a href="https://sites.google.com/view/paulko/home">Paul Ko</a> in <a href="https://cobrienudry.github.io/files/ps_gsipe">PS: Political Science and Politics</a>.
