@@ -13,8 +13,8 @@ About me
 I am a research scientist at Google Research. My research is on CV/ML, with particular interests in security of face biometric systems (e.g., face anti-spoofing, digital manipulation attack, adversarial attack), 3D face modeling, face representation & analysis, XAI, image systhesis, and multi-model modeling.
 
 I got my Ph.D. at [Michigan State University](http://www.cse.msu.edu/), where I was fortunate to work with [Prof. Xiaoming Liu](http://www.cse.msu.edu/~liuxm/index2.html) at [Computer Vision Lab (CVLAB)](http://cvlab.cse.msu.edu/). I got my M.S. from [Ohio State Univeristy](https://www.osu.edu/) and B.E. from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). 
-I worked in [Computational Biology and Cognitive Science Lab (CBCSL)](http://cbcsl.ece.ohio-state.edu/) advised by [Prof. Aleix Martinez](http://www2.ece.ohio-state.edu/~martinez/). 
-In 2019, I worked with [Dr. Barry Theobald](https://scholar.google.com/citations?user=DNrQd3IAAAAJ&hl=en) as a summer intern at [Apple AI Research](https://jobs.apple.com/en-us/details/200105314/ai-research-machine-learning-researcher).
+During 2015-2016, I worked in [Computational Biology and Cognitive Science Lab (CBCSL)](http://cbcsl.ece.ohio-state.edu/) advised by [Prof. Aleix Martinez](http://www2.ece.ohio-state.edu/~martinez/). 
+In 2019 summer, I worked with [Dr. Barry Theobald](https://scholar.google.com/citations?user=DNrQd3IAAAAJ&hl=en) as a research intern at [Apple](https://jobs.apple.com/en-us/details/200105314/ai-research-machine-learning-researcher).
 In 2020, I joined [Bosch Research](https://www.bosch.us/our-company/bosch-in-the-usa/sunnyvale/) as a summer intern, working with [Dr. Xinyu Huang](https://scholar.google.com/citations?user=cL4bNBwAAAAJ&hl=en) and [Dr. Liu Ren](https://sites.google.com/site/liurenshomepage/).
 
 News
