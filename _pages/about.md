@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-**Hi! 
+Hi!
+===
 
 I'm a graduate student in economics at UC San Diego. My current reseach interests are in education and consumer finance.
 
