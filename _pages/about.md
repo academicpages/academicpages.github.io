@@ -33,6 +33,7 @@ I am a postdoctoral research fellow in the Department of Biomedical Informatics 
 <ul style="width: auto; height: 50px; overflow: auto">
 
   <li> <b>[May, 2022]</b>. Our paper was featured by <a href="https://psnet.ahrq.gov/periodic-issue/periodic-issue-340">Agency for Healthcare Research and Quality (AHRQ)</a>! </li>
+  <li> <b>[May, 2022]</b>. Dr. Liu was invited to give a talk in the <a href="https://amia.org/community/working-groups/clinical-information-systems">AMIA Clinical Informatics Systems Working Group</a>! </li>
 
 </ul>
 
@@ -45,7 +46,8 @@ I am a postdoctoral research fellow in the Department of Biomedical Informatics 
 * Committee member, Diversity Equity and Inclusion, Department of Biomedical Infromatics, Vanderbilt Univeristy Medical Center, 2021, 2022
 
 ## Invited Talks
-* American Medical Informatics Association, Clinical Decision Support Workgroup, CDS Chats. (May 4, 2022). “The Potential for Leveraging Machine Learning to Filter Medication Alerts.” 
+* American Medical Informatics Association, Clinical Decision Support Working Group, CDS Chats. (May 4, 2022). “The Potential for Leveraging Machine Learning to Filter Medication Alerts.” 
+* American Medical Informatics Association, Clinical Informatics Systems Working Group, CDS Chats. (June 6, 2022). “Machine Learning Applications and Sociotechnical Considerations in Clinical Information Systems.” 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=gkDtTE4gLkPP-0gfMb159XqHXaiOG_8lHVxggmLMedA&cl=ffffff&w=a"></script>
 
