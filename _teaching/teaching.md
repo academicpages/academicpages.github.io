@@ -8,7 +8,7 @@ author_profile: true
 ## Spring 2022 
 
 
-### ECE4723A Senior Design
+### ECE4872/4873 Senior Design
  - Tired Techies 
     - Project: The team of computer, electrical, and mechanical engineers created a sleep-monitoring mask and smart alarm that reduces drowsiness by waking the sleeper during the correct sleep cycle. The device measures eye movement throughout the night and processes the data to classify sleep stages.
     - [Capstone Expo](https://expo.gatech.edu/prod1/portal/portal.jsp?c=17462&p=413142918&g=413665329&id=416281030)
