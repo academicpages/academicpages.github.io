@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Political Science at Yale University. I specialize in comparative and international politics and the political economy of development, with a particular focus on foreign aid.  I also work on the politics of science and technology. 
+I am a PhD candidate in Political Science at Yale University. I specialize in comparative and international political economy with a particular focus on foreign aid.  I also work on the politics of technology and international status. 
 
-Prior to starting the PhD, I served as a Peace Corps Volunteer in Kosovo. I have a Master's in English literature and a very cute cat named Tara. 
+Prior to starting the PhD, I served as a Peace Corps Volunteer in Kosovo. I have a Master's in English literature and a very cute cat. 
 
-I co-founded the <a href = "https://gsipe-workshop.github.io/" >Graduate Student International Political Economy (GSIPE) workshop</a>. Check out my <a href = "https://cobrienudry.github.io/webscrape/" >github</a> page for videos and sample code for getting started with basic webscraping.
+You can read about my work cofounding the <a href="https://gsipe-workshop.github.io/">Greaudate Student International Political Economy (GSIPE) workshop</a> with <a href="https://www.alexanderkirss.com/">Alex Kirss</a> and <a href="https://sites.google.com/view/paulko/home">Paul Ko</a> in <a href="https://gsipe-workshop.github.io/">PS: Political Science and Politics</a>.
