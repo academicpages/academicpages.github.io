@@ -1,0 +1,21 @@
+%% See: https://bookdown.org/yihui/rmarkdown-cookbook/multi-column.html
+%% I've made some additional adjustments based on my own preferences (e.g. cols
+%% should be top-aligned in case of uneven vertical length)
+\newenvironment{columns}[1][]{}{}
+
+\newenvironment{column}[1]{\begin{minipage}[t]{#1}\ignorespaces}{%
+\end{minipage}
+\ifhmode\unskip\fi
+\aftergroup\useignorespacesandallpars
+}
+
+\def\useignorespacesandallpars#1\ignorespaces\fi{%
+#1\fi\ignorespacesandallpars}
+
+\makeatletter
+\def\ignorespacesandallpars{%
+  \@ifnextchar\par
+    {\expandafter\ignorespacesandallpars\@gobble}%
+    {}%
+}
+\makeatother

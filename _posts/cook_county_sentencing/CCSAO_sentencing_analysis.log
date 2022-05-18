@@ -1,0 +1,360 @@
+This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 21.1) (preloaded format=xelatex 2021.4.7)  7 APR 2021 23:34
+entering extended mode
+**./CCSAO_sentencing_analysis.tex
+(CCSAO_sentencing_analysis.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03> ("C:\Program Files\MiKTeX
+ 2.9\tex/latex/base\article.cls"
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count173
+\c@section=\count174
+\c@subsection=\count175
+\c@subsubsection=\count176
+\c@paragraph=\count177
+\c@subparagraph=\count178
+\c@figure=\count179
+\c@table=\count180
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/lm\lmodern.sty"
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip49
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+)) ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count181
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count182
+\leftroot@=\count183
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count184
+\DOTSCASE@=\count185
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box47
+\strutbox@=\box48
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count186
+\c@MaxMatrixCols=\count187
+\dotsspace@=\muskip16
+\c@parentequation=\count188
+\dspbrk@lvl=\count189
+\tag@help=\toks17
+\row@=\count190
+\column@=\count191
+\maxfields@=\count192
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+) (C:\Users\jtg3519\AppData\Roaming\MiKTeX\2.9\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+(C:\Users\jtg3519\AppData\Roaming\MiKTeX\2.9\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)) (C:\Users\jtg3519\AppData\Roaming\MiKTeX\2.9\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(C:\Users\jtg3519\AppData\Roaming\MiKTeX\2.9\tex/latex/unicode-math\unicode-mat
+h.sty ("C:\Program Files\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty"
+Package: expl3 2021-01-09 L3 programming layer (loader) 
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3backend\l3backend-xetex.def"
+File: l3backend-xetex.def 2021-01-09 L3 backend support: XeTeX
+()
+\c__kernel_sys_dvipdfmx_version_int=\count193
+\g__color_stack_int=\count194
+\l__kernel_color_stack_int=\count195
+\g__graphics_track_int=\count196
+\l__pdf_internal_box=\box49
+\g__pdf_backend_object_int=\count197
+\g__pdf_backend_annotation_int=\count198
+\g__pdf_backend_link_int=\count199
+))
+Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
+
+(C:\Users\jtg3519\AppData\Roaming\MiKTeX\2.9\tex/latex/unicode-math\unicode-mat
+h-xetex.sty
+Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLa
+TeX
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3packages/xparse\xparse.sty"
+Package: xparse 2020-10-27 L3 Experimental document command parser
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3packages/xparse\xparse-generic.tex"))
+("C:\Program Files\MiKTeX 2.9\tex/latex/l3packages/l3keys2e\l3keys2e.sty"
+Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/fontspec\fontspec.sty"
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+("C:\Program Files\MiKTeX 2.9\tex/latex/fontspec\fontspec-xetex.sty"
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count266
+\l__fontspec_language_int=\count267
+\l__fontspec_strnum_int=\count268
+\l__fontspec_tmp_int=\count269
+\l__fontspec_tmpa_int=\count270
+\l__fontspec_tmpb_int=\count271
+\l__fontspec_tmpc_int=\count272
+\l__fontspec_em_int=\count273
+\l__fontspec_emdef_int=\count274
+\l__fontspec_strong_int=\count275
+\l__fontspec_strongdef_int=\count276
+\l__fontspec_tmpa_dim=\dimen148
+\l__fontspec_tmpb_dim=\dimen149
+\l__fontspec_tmpc_dim=\dimen150
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/fontspec\fontspec.cfg"))) ("C:\Progra
+m Files\MiKTeX 2.9\tex/latex/base\fix-cm.sty"
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+))
+\g__um_fam_int=\count277
+\g__um_fonts_used_int=\count278
+\l__um_primecount_int=\count279
+\g__um_primekern_muskip=\muskip17
+
+(C:\Users\jtg3519\AppData\Roaming\MiKTeX\2.9\tex/latex/unicode-math\unicode-mat
+h-table.tex)))
+(C:\Users\jtg3519\AppData\Roaming\MiKTeX\2.9\tex/latex/cochineal\cochineal.font
+spec)
+
+Package fontspec Info: Cochineal-Roman scale = 1.011734196802109.
+
+
+Package fontspec Info: Cochineal-Roman scale = 1.011734196802109.
+
+
+Package fontspec Info: Cochineal-Roman scale = 1.011734196802109.
+
+
+Package fontspec Info: Cochineal-Bold scale = 0.9908026462561649.
+
+
+Package fontspec Info: Cochineal-Bold scale = 0.9908026462561649.
+
+
+Package fontspec Info: Cochineal-Italic scale = 0.9514313912402021.
+
+
+Package fontspec Info: Cochineal-Italic scale = 0.9514313912402021.
+
+
+Package fontspec Info: Cochineal-BoldItalic scale = 0.938994917074176.
+
+
+Package fontspec Info: Cochineal-BoldItalic scale = 0.938994917074176.
+
+
+Package fontspec Info: Font family 'cochineal(0)' created for font 'cochineal'
+(fontspec)             with options
+(fontspec)             [Scale=MatchLowercase,Ligatures=TeX,Scale=1,Extension =
+(fontspec)             .otf,UprightFont = Cochineal-Roman,BoldFont =
+(fontspec)             Cochineal-Bold,ItalicFont =
+(fontspec)             Cochineal-Italic,BoldItalicFont =
+(fontspec)             Cochineal-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Cochineal-Roman.otf]/OT:script=latn;language=d
+flt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Cochineal-Roman.otf]/OT:script=latn;language=d
+flt;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Cochineal-Bold.otf]/OT:script=latn;language=df
+lt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[1]"[Cochineal-Bold.otf]/OT:script=latn;language=df
+lt;+smcp;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Cochineal-Italic.otf]/OT:script=latn;language=
+dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Cochineal-Italic.otf]/OT:script=latn;language=
+dflt;+smcp;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Cochineal-BoldItalic.otf]/OT:script=latn;langu
+age=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[1]"[Cochineal-BoldItalic.otf]/OT:script=latn;langu
+age=dflt;+smcp;mapping=tex-text;"
+
+LaTeX Font Info:    Font shape `TU/cochineal(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 20.
+
+Package fontspec Info: Cochineal-Roman scale = 0.9999964181328444.
+
+
+Package fontspec Info: Cochineal-Roman scale = 0.9999964181328444.
+
+
+Package fontspec Info: Cochineal-Roman scale = 0.9999964181328444.
+
+
+Package fontspec Info: Cochineal-Bold scale = 0.9793077079577105.
+
+
+Package fontspec Info: Cochineal-Bold scale = 0.9793077079577105.
+
+
+Package fontspec Info: Cochineal-Italic scale = 0.9403932241755059.
+
+
+Package fontspec Info: Cochineal-Italic scale = 0.9403932241755059.
+
+
+Package fontspec Info: Cochineal-BoldItalic scale = 0.928101033539332.
+
+
+Package fontspec Info: Cochineal-BoldItalic scale = 0.928101033539332.
+
+
+Package fontspec Info: Font family 'cochineal(1)' created for font 'cochineal'
+(fontspec)             with options [Scale=MatchLowercase,Extension =
+(fontspec)             .otf,UprightFont = Cochineal-Roman,BoldFont =
+(fontspec)             Cochineal-Bold,ItalicFont =
+(fontspec)             Cochineal-Italic,BoldItalicFont =
+(fontspec)             Cochineal-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[0.9999964181328444]"[Cochineal-Roman.otf]/OT:scrip
+t=latn;language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[0.9999964181328444]"[Cochineal-Roman.otf]/OT:scrip
+t=latn;language=dflt;+smcp;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[0.9793077079577105]"[Cochineal-Bold.otf]/OT:script
+=latn;language=dflt;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->s*[0.9793077079577105]"[Cochineal-Bold.otf]/OT:script
+=latn;language=dflt;+smcp;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[0.9403932241755059]"[Cochineal-Italic.otf]/OT:scri
+pt=latn;language=dflt;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->s*[0.9403932241755059]"[Cochineal-Italic.otf]/OT:scri
+pt=latn;language=dflt;+smcp;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[0.928101033539332]"[Cochineal-BoldItalic.otf]/OT:s
+cript=latn;language=dflt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->s*[0.928101033539332]"[Cochineal-BoldItalic.otf]/OT:s
+cript=latn;language=dflt;+smcp;"
+
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/lmr/m/n --> TU/cochineal(1)/m/n on input line 20.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/lmr/m/it --> TU/cochineal(1)/m/it on input line 20.
+
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/lmr/bx/n --> TU/cochineal(1)/b/n on input line 20.
+
+! Package fontspec Error: The font "Fira Sans" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.21   \setmonofont
+                   []{Fira Code} 
+Here is how much of TeX's memory you used:
+ 7308 strings out of 411984
+ 153923 string characters out of 2847531
+ 641280 words of memory out of 3000000
+ 27011 multiletter control sequences out of 15000+200000
+ 403502 words of font info for 36 fonts, out of 3000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 98i,0n,125p,321b,323s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+No pages of output.
+
+
+! Sorry, but miktex-makemf did not succeed.
+
+! The log file hopefully contains the information to get MiKTeX going again:
+
+!   C:\Users\jtg3519\AppData\Local\MiKTeX\2.9\miktex\log\miktex-makemf.log
+! Couldn't open `Fira Sa.cfg'
+
+! hbf2gf (CJK ver. 4.8.4)
+
+
+! Sorry, but miktex-maketfm did not succeed.
+
+! The log file hopefully contains the information to get MiKTeX going again:
+
+!   C:\Users\jtg3519\AppData\Local\MiKTeX\2.9\miktex\log\miktex-maketfm.log

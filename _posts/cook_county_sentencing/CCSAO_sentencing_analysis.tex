@@ -1,0 +1,1556 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\PassOptionsToPackage{dvipsnames,svgnames*,x11names*}{xcolor}
+%
+\documentclass[
+]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+  \setmainfont[]{cochineal}
+  \setsansfont[]{Fira Sans}
+  \setmonofont[]{Fira Code}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Cook County Criminal Judge Sentencing Analysis},
+  colorlinks=true,
+  linkcolor=Maroon,
+  filecolor=Maroon,
+  citecolor=Blue,
+  urlcolor=blue,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+%% See: https://bookdown.org/yihui/rmarkdown-cookbook/multi-column.html
+%% I've made some additional adjustments based on my own preferences (e.g. cols
+%% should be top-aligned in case of uneven vertical length)
+\newenvironment{columns}[1][]{}{}
+
+\newenvironment{column}[1]{\begin{minipage}[t]{#1}\ignorespaces}{%
+\end{minipage}
+\ifhmode\unskip\fi
+\aftergroup\useignorespacesandallpars
+}
+
+\def\useignorespacesandallpars#1\ignorespaces\fi{%
+#1\fi\ignorespacesandallpars}
+
+\makeatletter
+\def\ignorespacesandallpars{%
+  \@ifnextchar\par
+    {\expandafter\ignorespacesandallpars\@gobble}%
+    {}%
+}
+\makeatother
+
+\title{Cook County Criminal Judge Sentencing Analysis}
+\usepackage{authblk}
+                                        \author[]{Jacob Toner Gosselin}
+                                        \date{07 April 2021}
+
+\begin{document}
+\maketitle
+
+{
+\hypersetup{linkcolor=}
+\setcounter{tocdepth}{2}
+\tableofcontents
+}
+What follows is the methodology for my sentencing analysis on Cook
+County Criminal Division judges. All work was done in R. The R code is
+here, at my GitHub; since the data is read in from the Cook County
+Online Data portal, my work can easily be re-created or expanded upon.
+
+\hypertarget{reading-in-dataconverting-sentence-term}{%
+\section{Reading in Data/Converting Sentence
+Term}\label{reading-in-dataconverting-sentence-term}}
+
+We'll start by reading in our sentencing
+\href{https://datacatalog.cookcountyil.gov/Courts/Sentencing/tg8v-tm6u}{data}.
+We'll then create a conversion table to standardize our units
+(i.e.~years=1, months=1/12, weeks=1/52, days=1/365, all other units are
+left undefined but the rows are kept). We'll then convert our sentence
+(i.e.~6 months=.5), and store it under a new variable,
+``converted\_sentence''.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{original <-}\StringTok{ }\KeywordTok{read_csv}\NormalTok{(}\StringTok{"https://datacatalog.cookcountyil.gov/api/views/tg8v-tm6u/rows.csv?accessType=DOWNLOAD"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## 
+## -- Column specification --------------------------------------------------------
+## cols(
+##   .default = col_character(),
+##   CASE_ID = col_double(),
+##   CASE_PARTICIPANT_ID = col_double(),
+##   PRIMARY_CHARGE_FLAG = col_logical(),
+##   CHARGE_ID = col_double(),
+##   CHARGE_VERSION_ID = col_double(),
+##   CHARGE_COUNT = col_double(),
+##   CURRENT_SENTENCE_FLAG = col_logical(),
+##   LENGTH_OF_CASE_in_Days = col_double(),
+##   AGE_AT_INCIDENT = col_double(),
+##   INCIDENT_CITY = col_logical(),
+##   LAW_ENFORCEMENT_UNIT = col_logical()
+## )
+## i Use `spec()` for the full column specifications.
+\end{verbatim}
+
+\begin{verbatim}
+## Warning: 305153 parsing failures.
+##  row           col           expected       actual                                                                                    file
+## 2075 INCIDENT_CITY 1/0/T/F/TRUE/FALSE Oak Park     'https://datacatalog.cookcountyil.gov/api/views/tg8v-tm6u/rows.csv?accessType=DOWNLOAD'
+## 2131 INCIDENT_CITY 1/0/T/F/TRUE/FALSE Harvey       'https://datacatalog.cookcountyil.gov/api/views/tg8v-tm6u/rows.csv?accessType=DOWNLOAD'
+## 2186 INCIDENT_CITY 1/0/T/F/TRUE/FALSE Morton Grove 'https://datacatalog.cookcountyil.gov/api/views/tg8v-tm6u/rows.csv?accessType=DOWNLOAD'
+## 2201 INCIDENT_CITY 1/0/T/F/TRUE/FALSE Chicago      'https://datacatalog.cookcountyil.gov/api/views/tg8v-tm6u/rows.csv?accessType=DOWNLOAD'
+## 2220 INCIDENT_CITY 1/0/T/F/TRUE/FALSE Chicago      'https://datacatalog.cookcountyil.gov/api/views/tg8v-tm6u/rows.csv?accessType=DOWNLOAD'
+## .... ............. .................. ............ .......................................................................................
+## See problems(...) for more details.
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{conversion_table <-}\StringTok{ }\KeywordTok{revalue}\NormalTok{(original}\OperatorTok{$}\NormalTok{COMMITMENT_UNIT, }\KeywordTok{c}\NormalTok{(}\StringTok{`}\DataTypeTok{Year(s)}\StringTok{`}\NormalTok{ =}\StringTok{ }\DecValTok{1}\NormalTok{, }\DataTypeTok{Months =} \DecValTok{1}\OperatorTok{/}\DecValTok{12}\NormalTok{, }
+    \DataTypeTok{Weeks =} \DecValTok{1}\OperatorTok{/}\DecValTok{52}\NormalTok{, }\DataTypeTok{Days =} \DecValTok{1}\OperatorTok{/}\DecValTok{365}\NormalTok{, }\DataTypeTok{Pounds =} \OtherTok{NA}\NormalTok{, }\DataTypeTok{Dollars =} \OtherTok{NA}\NormalTok{, }\DataTypeTok{Term =} \OtherTok{NA}\NormalTok{))}
+\NormalTok{conversion_table <-}\StringTok{ }\KeywordTok{as.double}\NormalTok{(conversion_table)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Warning: NAs introduced by coercion
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{original[}\StringTok{"converted_sentence"}\NormalTok{] <-}\StringTok{ }\KeywordTok{ifelse}\NormalTok{(original}\OperatorTok{$}\NormalTok{COMMITMENT_UNIT }\OperatorTok{==}\StringTok{ "Natural Life"}\NormalTok{, }
+    \DecValTok{100}\NormalTok{, conversion_table }\OperatorTok{*}\StringTok{ }\KeywordTok{as.double}\NormalTok{(original}\OperatorTok{$}\NormalTok{COMMITMENT_TERM))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Warning in ifelse(original$COMMITMENT_UNIT == "Natural Life", 100,
+## conversion_table * : NAs introduced by coercion
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{original[}\StringTok{"sentence_date"}\NormalTok{] <-}\StringTok{ }\KeywordTok{as.Date}\NormalTok{(original}\OperatorTok{$}\NormalTok{SENTENCE_DATE, }\StringTok{"%m/%d/%Y"}\NormalTok{)}
+\NormalTok{original[}\StringTok{"sentence_year"}\NormalTok{] <-}\StringTok{ }\KeywordTok{year}\NormalTok{(original}\OperatorTok{$}\NormalTok{sentence_date)}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{finding-median-sentences-by-felony-class}{%
+\section{Finding median sentences by felony
+class}\label{finding-median-sentences-by-felony-class}}
+
+We'll now create a series of subsets, to find median sentences. We're
+going to create a subset for class 1, 2, 3, 4, and X felonies. This will
+exclude 2792 cases, which are filed under class A, B, C, M, O, P, U, or
+Z felonies. A lot of these are mistaken filings, but we don't want to
+assign them. Since the sample size is large, we're better of ignoring
+them (they only make up \textless2\% of cases).
+
+We're also going to create further subsets (PJ) for sentences to Prison
+or Jail. We'll use these to find median sentences; while it eliminates a
+good chunk of our cases (\textasciitilde41\%), you have to do this to
+get an accurate read on median sentence time. Otherwise, a two year
+probation will skew our median, since that will be considered harsher
+than a one year prison sentence.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{CLASS_}\DecValTok{1}\NormalTok{ <-}\StringTok{ }\KeywordTok{subset}\NormalTok{(original, DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ "1"}\NormalTok{)}
+\NormalTok{CLASS_}\DecValTok{2}\NormalTok{ <-}\StringTok{ }\KeywordTok{subset}\NormalTok{(original, DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ "2"}\NormalTok{)}
+\NormalTok{CLASS_}\DecValTok{3}\NormalTok{ <-}\StringTok{ }\KeywordTok{subset}\NormalTok{(original, DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ "3"}\NormalTok{)}
+\NormalTok{CLASS_}\DecValTok{4}\NormalTok{ <-}\StringTok{ }\KeywordTok{subset}\NormalTok{(original, DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ "4"}\NormalTok{)}
+\NormalTok{CLASS_X <-}\StringTok{ }\KeywordTok{subset}\NormalTok{(original, DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ "X"}\NormalTok{)}
+\NormalTok{CLASS_}\DecValTok{1}\NormalTok{_PJ <-}\StringTok{ }\KeywordTok{subset}\NormalTok{(original, DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ "1"} \OperatorTok{&}\StringTok{ }\NormalTok{(SENTENCE_TYPE }\OperatorTok{==}\StringTok{ }
+\StringTok{    "Prison"} \OperatorTok{|}\StringTok{ }\NormalTok{SENTENCE_TYPE }\OperatorTok{==}\StringTok{ "Jail"}\NormalTok{))}
+\NormalTok{CLASS_}\DecValTok{2}\NormalTok{_PJ <-}\StringTok{ }\KeywordTok{subset}\NormalTok{(original, DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ "2"} \OperatorTok{&}\StringTok{ }\NormalTok{(SENTENCE_TYPE }\OperatorTok{==}\StringTok{ }
+\StringTok{    "Prison"} \OperatorTok{|}\StringTok{ }\NormalTok{SENTENCE_TYPE }\OperatorTok{==}\StringTok{ "Jail"}\NormalTok{))}
+\NormalTok{CLASS_}\DecValTok{3}\NormalTok{_PJ <-}\StringTok{ }\KeywordTok{subset}\NormalTok{(original, DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ "3"} \OperatorTok{&}\StringTok{ }\NormalTok{(SENTENCE_TYPE }\OperatorTok{==}\StringTok{ }
+\StringTok{    "Prison"} \OperatorTok{|}\StringTok{ }\NormalTok{SENTENCE_TYPE }\OperatorTok{==}\StringTok{ "Jail"}\NormalTok{))}
+\NormalTok{CLASS_}\DecValTok{4}\NormalTok{_PJ <-}\StringTok{ }\KeywordTok{subset}\NormalTok{(original, DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ "4"} \OperatorTok{&}\StringTok{ }\NormalTok{(SENTENCE_TYPE }\OperatorTok{==}\StringTok{ }
+\StringTok{    "Prison"} \OperatorTok{|}\StringTok{ }\NormalTok{SENTENCE_TYPE }\OperatorTok{==}\StringTok{ "Jail"}\NormalTok{))}
+\NormalTok{CLASS_X_PJ <-}\StringTok{ }\KeywordTok{subset}\NormalTok{(original, DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ "X"} \OperatorTok{&}\StringTok{ }\NormalTok{(SENTENCE_TYPE }\OperatorTok{==}\StringTok{ }
+\StringTok{    "Prison"} \OperatorTok{|}\StringTok{ }\NormalTok{SENTENCE_TYPE }\OperatorTok{==}\StringTok{ "Jail"}\NormalTok{))}
+\NormalTok{original_PJ <-}\StringTok{ }\KeywordTok{subset}\NormalTok{(original, SENTENCE_TYPE }\OperatorTok{==}\StringTok{ "Prison"} \OperatorTok{|}\StringTok{ }\NormalTok{SENTENCE_TYPE }\OperatorTok{==}\StringTok{ "Jail"}\NormalTok{)}
+\NormalTok{median_}\DecValTok{1}\NormalTok{ <-}\StringTok{ }\KeywordTok{median}\NormalTok{(CLASS_}\DecValTok{1}\NormalTok{_PJ}\OperatorTok{$}\NormalTok{converted_sentence, }\DataTypeTok{na.rm =} \OtherTok{TRUE}\NormalTok{)}
+\NormalTok{median_}\DecValTok{2}\NormalTok{ <-}\StringTok{ }\KeywordTok{median}\NormalTok{(CLASS_}\DecValTok{2}\NormalTok{_PJ}\OperatorTok{$}\NormalTok{converted_sentence, }\DataTypeTok{na.rm =} \OtherTok{TRUE}\NormalTok{)}
+\NormalTok{median_}\DecValTok{3}\NormalTok{ <-}\StringTok{ }\KeywordTok{median}\NormalTok{(CLASS_}\DecValTok{3}\NormalTok{_PJ}\OperatorTok{$}\NormalTok{converted_sentence, }\DataTypeTok{na.rm =} \OtherTok{TRUE}\NormalTok{)}
+\NormalTok{median_}\DecValTok{4}\NormalTok{ <-}\StringTok{ }\KeywordTok{median}\NormalTok{(CLASS_}\DecValTok{4}\NormalTok{_PJ}\OperatorTok{$}\NormalTok{converted_sentence, }\DataTypeTok{na.rm =} \OtherTok{TRUE}\NormalTok{)}
+\NormalTok{median_X <-}\StringTok{ }\KeywordTok{median}\NormalTok{(CLASS_X_PJ}\OperatorTok{$}\NormalTok{converted_sentence, }\DataTypeTok{na.rm =} \OtherTok{TRUE}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## [1] 6
+\end{verbatim}
+
+\begin{verbatim}
+## [1] 4
+\end{verbatim}
+
+\begin{verbatim}
+## [1] 2.25
+\end{verbatim}
+
+\begin{verbatim}
+## [1] 1
+\end{verbatim}
+
+\begin{verbatim}
+## [1] 10
+\end{verbatim}
+
+The outputs are our median prison sentences by felony class.
+
+\hypertarget{creating-severity-ranking}{%
+\section{Creating Severity Ranking}\label{creating-severity-ranking}}
+
+Now we construct our ranking of Criminal Division judges by sentence
+severity. First we're going to create a subset of our original which
+solely includes felonies of class 1, 2, 3, 4, and X (which is the vast
+majority of entries). Then we're going to create a boolean for whether
+the charge resulted in prison time, and if so, whether that prison
+sentence was above the median.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{original_subset <-}\StringTok{ }\KeywordTok{subset}\NormalTok{(original, DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ "1"} \OperatorTok{|}\StringTok{ }\NormalTok{DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ }
+\StringTok{    "2"} \OperatorTok{|}\StringTok{ }\NormalTok{DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ "3"} \OperatorTok{|}\StringTok{ }\NormalTok{DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ "4"} \OperatorTok{|}\StringTok{ }\NormalTok{DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ }
+\StringTok{    "X"}\NormalTok{)}
+\NormalTok{conversion_table2 <-}\StringTok{ }\KeywordTok{revalue}\NormalTok{(original_subset}\OperatorTok{$}\NormalTok{SENTENCE_TYPE, }\KeywordTok{c}\NormalTok{(}\DataTypeTok{Prison =} \OtherTok{TRUE}\NormalTok{, }\DataTypeTok{Jail =} \OtherTok{TRUE}\NormalTok{))}
+\NormalTok{original_subset[}\StringTok{"PJ"}\NormalTok{] =}\StringTok{ }\NormalTok{conversion_table2}
+\NormalTok{above_median <-}\StringTok{ }\NormalTok{(original_subset}\OperatorTok{$}\NormalTok{PJ }\OperatorTok{==}\StringTok{ }\OtherTok{TRUE} \OperatorTok{&}\StringTok{ }\NormalTok{((original_subset}\OperatorTok{$}\NormalTok{DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ }
+\StringTok{    "1"} \OperatorTok{&}\StringTok{ }\NormalTok{original_subset}\OperatorTok{$}\NormalTok{converted_sentence }\OperatorTok{>}\StringTok{ }\NormalTok{median_}\DecValTok{1}\NormalTok{) }\OperatorTok{|}\StringTok{ }\NormalTok{(original_subset}\OperatorTok{$}\NormalTok{DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ }
+\StringTok{    "2"} \OperatorTok{&}\StringTok{ }\NormalTok{original_subset}\OperatorTok{$}\NormalTok{converted_sentence }\OperatorTok{>}\StringTok{ }\NormalTok{median_}\DecValTok{2}\NormalTok{) }\OperatorTok{|}\StringTok{ }\NormalTok{(original_subset}\OperatorTok{$}\NormalTok{DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ }
+\StringTok{    "3"} \OperatorTok{&}\StringTok{ }\NormalTok{original_subset}\OperatorTok{$}\NormalTok{converted_sentence }\OperatorTok{>}\StringTok{ }\NormalTok{median_}\DecValTok{3}\NormalTok{) }\OperatorTok{|}\StringTok{ }\NormalTok{(original_subset}\OperatorTok{$}\NormalTok{DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ }
+\StringTok{    "4"} \OperatorTok{&}\StringTok{ }\NormalTok{original_subset}\OperatorTok{$}\NormalTok{converted_sentence }\OperatorTok{>}\StringTok{ }\NormalTok{median_}\DecValTok{4}\NormalTok{) }\OperatorTok{|}\StringTok{ }\NormalTok{(original_subset}\OperatorTok{$}\NormalTok{DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ }
+\StringTok{    "X"} \OperatorTok{&}\StringTok{ }\NormalTok{original_subset}\OperatorTok{$}\NormalTok{converted_sentence }\OperatorTok{>}\StringTok{ }\NormalTok{median_X)))}
+\NormalTok{original_subset[}\StringTok{"above_median"}\NormalTok{] <-}\StringTok{ }\NormalTok{above_median}
+\end{Highlighting}
+\end{Shaded}
+
+Now we are ready to make our ranking. We'll create a counter (a simple
+boolean, 1 if true, 0 if false) for:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Each sentence (i.e.~1 always)
+\item
+  Whether the sentence resulted in prison or jail time
+\item
+  If the sentence resulted in prison or jail time, whether the sentence
+  was above the median for that felony class
+\item
+  Whether the sentence was on a Class 1 felony
+\item
+  Whether the sentence was a Class 2 felony
+\item
+  Whether the sentence was a Class 3 felony
+\item
+  Whether the sentence was a Class 4 felony\\
+\item
+  Whether the sentence was on a class 4 felony and resulted in prison
+  time.
+\end{enumerate}
+
+Then we'll aggregate our counters by judge (i.e.~sum each counter,
+grouped by the sentencing judge), and calculate the percent of prison
+sentences above the median/the percent of class 4 felony sentences
+resulting in prison time. We'll average it to create our severity
+metric. I drop all judges who have served on less than 500 case (I like
+to deal in large sample sizes; the outcomes for judges who haven't
+served on many cases could be misleading). From there I just abbreviated
+the list and ordered it to make it tidy. I export the full list of 90
+judges, ranked, to judge\_rankings.csv. I also display the judges
+included in the list who are on the ballot for retention November 3rd,
+with their relative rank within the list of 90 judges by my ``severity
+metric''.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{original_subset <-}\StringTok{ }\KeywordTok{subset}\NormalTok{(original_subset, original_subset}\OperatorTok{$}\NormalTok{SENTENCE_TYPE }\OperatorTok{==}\StringTok{ "Prison"} \OperatorTok{|}\StringTok{ }
+\StringTok{    }\NormalTok{original_subset}\OperatorTok{$}\NormalTok{SENTENCE_TYPE }\OperatorTok{==}\StringTok{ "Jail"} \OperatorTok{|}\StringTok{ }\NormalTok{original_subset}\OperatorTok{$}\NormalTok{SENTENCE_TYPE }\OperatorTok{==}\StringTok{ "Probation"}\NormalTok{)}
+\NormalTok{original_subset}\OperatorTok{$}\NormalTok{counter <-}\StringTok{ }\DecValTok{1}
+\NormalTok{original_subset}\OperatorTok{$}\NormalTok{counter_PJ <-}\StringTok{ }\KeywordTok{ifelse}\NormalTok{(original_subset}\OperatorTok{$}\NormalTok{SENTENCE_TYPE }\OperatorTok{==}\StringTok{ "Prison"} \OperatorTok{|}\StringTok{ }
+\StringTok{    }\NormalTok{original_subset}\OperatorTok{$}\NormalTok{SENTENCE_TYPE }\OperatorTok{==}\StringTok{ "Jail"}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{0}\NormalTok{)}
+\NormalTok{original_subset}\OperatorTok{$}\NormalTok{counter_abovemedian <-}\StringTok{ }\KeywordTok{ifelse}\NormalTok{(original_subset}\OperatorTok{$}\NormalTok{above_median }\OperatorTok{==}\StringTok{ }\OtherTok{TRUE} \OperatorTok{&}\StringTok{ }
+\StringTok{    }\NormalTok{original_subset}\OperatorTok{$}\NormalTok{counter_PJ }\OperatorTok{==}\StringTok{ }\DecValTok{1}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{0}\NormalTok{)}
+\NormalTok{original_subset}\OperatorTok{$}\NormalTok{counter_F1 <-}\StringTok{ }\KeywordTok{ifelse}\NormalTok{(original_subset}\OperatorTok{$}\NormalTok{DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ }
+\StringTok{    }\DecValTok{1}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{0}\NormalTok{)}
+\NormalTok{original_subset}\OperatorTok{$}\NormalTok{counter_F2 <-}\StringTok{ }\KeywordTok{ifelse}\NormalTok{(original_subset}\OperatorTok{$}\NormalTok{DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ }
+\StringTok{    }\DecValTok{2}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{0}\NormalTok{)}
+\NormalTok{original_subset}\OperatorTok{$}\NormalTok{counter_F3 <-}\StringTok{ }\KeywordTok{ifelse}\NormalTok{(original_subset}\OperatorTok{$}\NormalTok{DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ }
+\StringTok{    }\DecValTok{3}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{0}\NormalTok{)}
+\NormalTok{original_subset}\OperatorTok{$}\NormalTok{counter_F4 <-}\StringTok{ }\KeywordTok{ifelse}\NormalTok{(original_subset}\OperatorTok{$}\NormalTok{DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ }
+\StringTok{    }\DecValTok{4}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{0}\NormalTok{)}
+\NormalTok{original_subset}\OperatorTok{$}\NormalTok{counter_F4_pj <-}\StringTok{ }\KeywordTok{ifelse}\NormalTok{(original_subset}\OperatorTok{$}\NormalTok{DISPOSITION_CHARGED_CLASS }\OperatorTok{==}\StringTok{ }
+\StringTok{    }\DecValTok{4} \OperatorTok{&}\StringTok{ }\NormalTok{original_subset}\OperatorTok{$}\NormalTok{SENTENCE_TYPE }\OperatorTok{!=}\StringTok{ "Probation"}\NormalTok{, }\DecValTok{1}\NormalTok{, }\DecValTok{0}\NormalTok{)}
+\NormalTok{judge_rankings <-}\StringTok{ }\KeywordTok{aggregate}\NormalTok{(original_subset[}\DecValTok{47}\OperatorTok{:}\DecValTok{54}\NormalTok{], }\DataTypeTok{by =} \KeywordTok{list}\NormalTok{(}\DataTypeTok{judges =}\NormalTok{ original_subset}\OperatorTok{$}\NormalTok{SENTENCE_JUDGE), }
+    \DataTypeTok{FUN =}\NormalTok{ sum, }\DataTypeTok{na.rm =} \OtherTok{TRUE}\NormalTok{)}
+\NormalTok{judge_rankings <-}\StringTok{ }\KeywordTok{subset}\NormalTok{(judge_rankings, judge_rankings}\OperatorTok{$}\NormalTok{counter }\OperatorTok{>=}\StringTok{ }\DecValTok{500}\NormalTok{)}
+\NormalTok{judge_rankings}\OperatorTok{$}\NormalTok{percentabove <-}\StringTok{ }\NormalTok{judge_rankings}\OperatorTok{$}\NormalTok{counter_abovemedian}\OperatorTok{/}\NormalTok{judge_rankings}\OperatorTok{$}\NormalTok{counter_PJ}
+\NormalTok{judge_rankings}\OperatorTok{$}\NormalTok{class4prisonpercent <-}\StringTok{ }\NormalTok{judge_rankings}\OperatorTok{$}\NormalTok{counter_F4_pj}\OperatorTok{/}\NormalTok{judge_rankings}\OperatorTok{$}\NormalTok{counter_F4}
+\NormalTok{judge_rankings}\OperatorTok{$}\NormalTok{severity_metric <-}\StringTok{ }\NormalTok{(judge_rankings}\OperatorTok{$}\NormalTok{percentabove }\OperatorTok{+}\StringTok{ }\NormalTok{judge_rankings}\OperatorTok{$}\NormalTok{class4prisonpercent)}\OperatorTok{/}\DecValTok{2}
+\NormalTok{judge_rankings_abb <-}\StringTok{ }\KeywordTok{data.frame}\NormalTok{(judge_rankings}\OperatorTok{$}\NormalTok{judges, judge_rankings}\OperatorTok{$}\NormalTok{percentabove, }
+\NormalTok{    judge_rankings}\OperatorTok{$}\NormalTok{class4prisonpercent, judge_rankings}\OperatorTok{$}\NormalTok{severity_metric)}
+\KeywordTok{colnames}\NormalTok{(judge_rankings_abb) <-}\StringTok{ }\KeywordTok{c}\NormalTok{(}\StringTok{"Judges"}\NormalTok{, }\StringTok{"% prison/jail sentences above median"}\NormalTok{, }
+    \StringTok{"% Class 4 felonies sentenced to prison/jail"}\NormalTok{, }\StringTok{"Severity metric"}\NormalTok{)}
+\NormalTok{judge_rankings_abb <-}\StringTok{ }\KeywordTok{arrange}\NormalTok{(judge_rankings_abb, }\KeywordTok{desc}\NormalTok{(judge_rankings_abb}\OperatorTok{$}\StringTok{`}\DataTypeTok{Severity metric}\StringTok{`}\NormalTok{))}
+\KeywordTok{write.csv}\NormalTok{(judge_rankings_abb, }\StringTok{"judge_rankings.csv"}\NormalTok{)}
+\NormalTok{retention_judges <-}\StringTok{ }\KeywordTok{subset}\NormalTok{(judge_rankings_abb, Judges }\OperatorTok{==}\StringTok{ "Shelley  Sutker-Dermer"} \OperatorTok{|}\StringTok{ }
+\StringTok{    }\NormalTok{Judges }\OperatorTok{==}\StringTok{ "Kenneth J Wadas"} \OperatorTok{|}\StringTok{ }\NormalTok{Judges }\OperatorTok{==}\StringTok{ "Kerry M Kennedy"} \OperatorTok{|}\StringTok{ }\NormalTok{Judges }\OperatorTok{==}\StringTok{ "Araujo, Mauricio"} \OperatorTok{|}\StringTok{ }
+\StringTok{    }\NormalTok{Judges }\OperatorTok{==}\StringTok{ "Byrne, Thomas"} \OperatorTok{|}\StringTok{ }\NormalTok{Judges }\OperatorTok{==}\StringTok{ "Anna Helen Demacopoulos"} \OperatorTok{|}\StringTok{ }\NormalTok{Judges }\OperatorTok{==}\StringTok{ "URSULA  WALOWSKI"} \OperatorTok{|}\StringTok{ }
+\StringTok{    }\NormalTok{Judges }\OperatorTok{==}\StringTok{ "Steven G Watkins"} \OperatorTok{|}\StringTok{ }\NormalTok{Judges }\OperatorTok{==}\StringTok{ "William  Raines"}\NormalTok{)}
+\KeywordTok{stargazer}\NormalTok{(retention_judges, }\DataTypeTok{summary =} \OtherTok{FALSE}\NormalTok{, }\DataTypeTok{type =} \StringTok{"html"}\NormalTok{, }\DataTypeTok{out =} \StringTok{"retention_judge_rankings.html"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+Judges
+
+\% prison/jail sentences above median
+
+\% Class 4 felonies sentenced to prison/jail
+
+Severity metric
+
+2
+
+URSULA WALOWSKI
+
+0.506
+
+0.657
+
+0.582
+
+24
+
+Byrne, Thomas
+
+0.514
+
+0.538
+
+0.526
+
+27
+
+Araujo, Mauricio
+
+0.479
+
+0.559
+
+0.519
+
+29
+
+William Raines
+
+0.334
+
+0.702
+
+0.518
+
+36
+
+Kenneth J Wadas
+
+0.437
+
+0.572
+
+0.505
+
+54
+
+Anna Helen Demacopoulos
+
+0.465
+
+0.480
+
+0.472
+
+65
+
+Shelley Sutker-Dermer
+
+0.398
+
+0.502
+
+0.450
+
+66
+
+Kerry M Kennedy
+
+0.343
+
+0.543
+
+0.443
+
+68
+
+Steven G Watkins
+
+0.372
+
+0.505
+
+0.439
+
+\hypertarget{checking-significance}{%
+\section{Checking significance}\label{checking-significance}}
+
+A ranking is one thing, but for context we want to see if the judges at
+the top of our ranking do seem to hand down ``severe'' sentences at a
+significant rate. Otherwise, the differences we see in the variables
+that make up our severity metric (percent of prison sentences ``above
+the median'' and percent of class 4 felony sentences resulting in prison
+time) could just be statistical noise.
+
+Two years ago, when I was only looking at Judge Maura Slattery Boyle, I
+did this by ``bootstrap'', i.e.~resampling data with replacement. My
+logic was that doing it this way I wouldn't have to assume the
+distribution of the statistic (in this case, the two aforementioned
+variables). I could draw a 95\% confidence interval around the variables
+for Judge Slattery Boyle, and then compare that confidence interval to
+the actual values of the variables in the entire population. If the
+bottom end of the confidence interval was above the actual value of the
+variable in the entire dataset (which was the case), I could say at a
+p-val of .05 that Judge Slattery-Boyle's sentences weren't randomly
+picked from the population at large. In other words, she was sentencing
+at a higher rate than the ``average'' judge.
+
+In retrospect, this approach wasn't particularly elegant or effective. I
+didn't want to do a simple linear regression because I was dealing with
+two dummy variables, and the distribution of the regression residuals
+wouldn't be even close to normal. My understanding then (and now,
+although I'd love if someone could walk me through this like I was 5)
+was that while non-normal residuals don't violate the Gauss-Markov
+theorem, they did make it impossible to interpret the t
+statistics/p-values produced, and the p-value was all I really wanted.
+
+However, looking back now I've had a change of heart for three reasons.
+Number one, as long as the Gauss-Markov assumptions are satisfied (we
+can adjust for heteroskedasticity using robust standard errors), the
+coefficient produced by my linear regression is still BLUE and
+consistent, meaning that given the massive sample size offered by this
+data (well over 100k cases), I feel more comfortable interpreting the
+coefficient than I did then. Number two, the biggest concern I always
+had was omitted variable bias, and by using a linear regression to
+assess significance I'm able to control for two additional variables
+that I didn't account for in my bootstrap method: sentence date (as a
+continuous variable, assuming sentences have gotten more lenient over
+time) and sentence years (as fixed effects, assuming sentencing
+norms/rules might change year to year). And number three, I can test my
+assumption that my OLS coefficients are trustworthy by A) fitting a
+logistic regression in addition, since logit models don't assume
+residuals are normally distributed for their p-vals; and B) using
+bootstrapping with my linear regression model, to construct an empirical
+confidence interval around my OLS coefficient.
+
+So, below I have five OLS regression tables and five logit regression
+tables for five judges: Maura Slattery Boyle (still leading by my
+severity metric, and I want to see if controlling for the additional
+covariates changes the results for her), Ursula Walowski, Mauricio
+Araujo, Thomas Byrne, and William Raines (all up for retention and in
+the top third of judges by sentencing severity). Each table has three
+columns for three dependent variables
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Dummy variable for sentence being above the median (0 if not, 1 if so,
+  only using sentences that resulted in prison or jail time)
+\item
+  Dummy variable for sentence being a class 4 felony and resulting in
+  prison time (0 if class 4 felony sentenced to probation, 1 if class 4
+  felony sentenced to prison or jail, only using sentences on class 4
+  felonies where the outcome was prison or jail)
+\item
+  Dummy variable for a sentence being ``severe'' (1 if sentence is for
+  prison or jail and ``above the median'' for that particular felony
+  class OR if a sentence is for prison or jail and the charge is a class
+  4 felony, 0 otherwise, using all sentences resulting in prison, jail,
+  or probation time).
+\end{enumerate}
+
+\hypertarget{regression-tables}{%
+\subsection{Regression tables}\label{regression-tables}}
+
+Code for regression tables is below.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{original_subset}\OperatorTok{$}\NormalTok{sentence_year.f <-}\StringTok{ }\KeywordTok{factor}\NormalTok{(original_subset}\OperatorTok{$}\NormalTok{sentence_year)}
+\NormalTok{original_subset}\OperatorTok{$}\NormalTok{boyle_dummy <-}\StringTok{ }\NormalTok{original_subset}\OperatorTok{$}\NormalTok{SENTENCE_JUDGE }\OperatorTok{==}\StringTok{ "Maura  Slattery Boyle"}
+\NormalTok{original_subset}\OperatorTok{$}\NormalTok{walowski_dummy <-}\StringTok{ }\NormalTok{original_subset}\OperatorTok{$}\NormalTok{SENTENCE_JUDGE }\OperatorTok{==}\StringTok{ "URSULA  WALOWSKI"}
+\NormalTok{original_subset}\OperatorTok{$}\NormalTok{araujo_dummy <-}\StringTok{ }\NormalTok{original_subset}\OperatorTok{$}\NormalTok{SENTENCE_JUDGE }\OperatorTok{==}\StringTok{ "Araujo, Mauricio"}
+\NormalTok{original_subset}\OperatorTok{$}\NormalTok{byrne_dummy <-}\StringTok{ }\NormalTok{original_subset}\OperatorTok{$}\NormalTok{SENTENCE_JUDGE }\OperatorTok{==}\StringTok{ "Byrne, Thomas"}
+\NormalTok{original_subset}\OperatorTok{$}\NormalTok{raines_dummy <-}\StringTok{ }\NormalTok{original_subset}\OperatorTok{$}\NormalTok{SENTENCE_JUDGE }\OperatorTok{==}\StringTok{ "William  Raines"}
+\NormalTok{original_subset}\OperatorTok{$}\NormalTok{severe_sentence <-}\StringTok{ }\NormalTok{original_subset}\OperatorTok{$}\NormalTok{counter_abovemedian }\OperatorTok{==}\StringTok{ }\DecValTok{1} \OperatorTok{|}\StringTok{ }\NormalTok{original_subset}\OperatorTok{$}\NormalTok{counter_F4_pj }\OperatorTok{==}\StringTok{ }
+\StringTok{    }\DecValTok{1}
+
+\NormalTok{model_}\DecValTok{1}\NormalTok{_data <-}\StringTok{ }\KeywordTok{subset}\NormalTok{(original_subset, counter_PJ }\OperatorTok{==}\StringTok{ }\DecValTok{1}\NormalTok{)}
+\NormalTok{model_}\DecValTok{2}\NormalTok{_data <-}\StringTok{ }\KeywordTok{subset}\NormalTok{(original_subset, counter_F4 }\OperatorTok{==}\StringTok{ }\DecValTok{1}\NormalTok{)}
+\NormalTok{model_}\DecValTok{3}\NormalTok{_data <-}\StringTok{ }\NormalTok{original_subset}
+
+\NormalTok{boyle_reg_}\DecValTok{3}\NormalTok{ <-}\StringTok{ }\KeywordTok{lm}\NormalTok{(severe_sentence }\OperatorTok{~}\StringTok{ }\NormalTok{boyle_dummy }\OperatorTok{+}\StringTok{ }\NormalTok{sentence_date }\OperatorTok{+}\StringTok{ }\NormalTok{sentence_year.f, }
+    \DataTypeTok{data =}\NormalTok{ model_}\DecValTok{3}\NormalTok{_data)}
+
+\KeywordTok{png}\NormalTok{(}\DataTypeTok{filename =} \StringTok{"boyle_3_qq.png"}\NormalTok{, }\DataTypeTok{width =} \DecValTok{1000}\NormalTok{, }\DataTypeTok{height =} \DecValTok{600}\NormalTok{)}
+\KeywordTok{qqnorm}\NormalTok{(}\KeywordTok{rstandard}\NormalTok{(boyle_reg_}\DecValTok{3}\NormalTok{), }\DataTypeTok{main =} \StringTok{"QQPlot of regression residuals, Judge Boyle model 3"}\NormalTok{)}
+\KeywordTok{dev.off}\NormalTok{()}
+
+\NormalTok{reg_tables <-}\StringTok{ }\ControlFlowTok{function}\NormalTok{(judge_dummy, ols_reg_table, logit_reg_table) \{}
+    
+\NormalTok{    ols_reg_}\DecValTok{1}\NormalTok{ <-}\StringTok{ }\KeywordTok{lm}\NormalTok{(}\KeywordTok{paste}\NormalTok{(}\StringTok{"above_median ~ "}\NormalTok{, judge_dummy, }\StringTok{" + sentence_date + sentence_year.f"}\NormalTok{), }
+        \DataTypeTok{data =}\NormalTok{ model_}\DecValTok{1}\NormalTok{_data)}
+\NormalTok{    cov <-}\StringTok{ }\KeywordTok{vcovHC}\NormalTok{(ols_reg_}\DecValTok{1}\NormalTok{, }\DataTypeTok{type =} \StringTok{"HC"}\NormalTok{)}
+\NormalTok{    ols_reg_}\DecValTok{1}\NormalTok{_robust.se <-}\StringTok{ }\KeywordTok{sqrt}\NormalTok{(}\KeywordTok{diag}\NormalTok{(cov))}
+\NormalTok{    ols_reg_}\DecValTok{2}\NormalTok{ <-}\StringTok{ }\KeywordTok{lm}\NormalTok{(}\KeywordTok{paste}\NormalTok{(}\StringTok{"counter_F4_pj ~ "}\NormalTok{, judge_dummy, }\StringTok{" + sentence_date + sentence_year.f"}\NormalTok{), }
+        \DataTypeTok{data =}\NormalTok{ model_}\DecValTok{2}\NormalTok{_data)}
+\NormalTok{    cov <-}\StringTok{ }\KeywordTok{vcovHC}\NormalTok{(ols_reg_}\DecValTok{2}\NormalTok{, }\DataTypeTok{type =} \StringTok{"HC"}\NormalTok{)}
+\NormalTok{    ols_reg_}\DecValTok{2}\NormalTok{_robust.se <-}\StringTok{ }\KeywordTok{sqrt}\NormalTok{(}\KeywordTok{diag}\NormalTok{(cov))}
+\NormalTok{    ols_reg_}\DecValTok{3}\NormalTok{ <-}\StringTok{ }\KeywordTok{lm}\NormalTok{(}\KeywordTok{paste}\NormalTok{(}\StringTok{"severe_sentence ~ "}\NormalTok{, judge_dummy, }\StringTok{" + sentence_date + sentence_year.f"}\NormalTok{), }
+        \DataTypeTok{data =}\NormalTok{ model_}\DecValTok{3}\NormalTok{_data)}
+\NormalTok{    cov <-}\StringTok{ }\KeywordTok{vcovHC}\NormalTok{(ols_reg_}\DecValTok{3}\NormalTok{, }\DataTypeTok{type =} \StringTok{"HC"}\NormalTok{)}
+\NormalTok{    ols_reg_}\DecValTok{3}\NormalTok{_robust.se <-}\StringTok{ }\KeywordTok{sqrt}\NormalTok{(}\KeywordTok{diag}\NormalTok{(cov))}
+    
+    \KeywordTok{stargazer}\NormalTok{(ols_reg_}\DecValTok{1}\NormalTok{, ols_reg_}\DecValTok{2}\NormalTok{, ols_reg_}\DecValTok{3}\NormalTok{, }\DataTypeTok{dep.var.labels =} \KeywordTok{c}\NormalTok{(}\StringTok{"Above median sentence"}\NormalTok{, }
+        \StringTok{"Class 4 prison sentence"}\NormalTok{, }\StringTok{"Severe sentence"}\NormalTok{), }\DataTypeTok{se =} \KeywordTok{list}\NormalTok{(ols_reg_}\DecValTok{1}\NormalTok{_robust.se, }
+\NormalTok{        ols_reg_}\DecValTok{2}\NormalTok{_robust.se, ols_reg_}\DecValTok{3}\NormalTok{_robust.se), }\DataTypeTok{align =} \OtherTok{TRUE}\NormalTok{, }\DataTypeTok{type =} \StringTok{"html"}\NormalTok{, }\DataTypeTok{omit =} \StringTok{"sentence_year.f"}\NormalTok{, }
+        \DataTypeTok{notes =} \KeywordTok{c}\NormalTok{(}\StringTok{"Also controlling for sentence year fixed effects"}\NormalTok{, }\StringTok{"Huber-White robust standard errors"}\NormalTok{), }
+        \DataTypeTok{omit.stat =} \KeywordTok{c}\NormalTok{(}\StringTok{"rsq"}\NormalTok{, }\StringTok{"f"}\NormalTok{, }\StringTok{"ser"}\NormalTok{), }\DataTypeTok{title =}\NormalTok{ ols_reg_table, }\DataTypeTok{out =}\NormalTok{ ols_reg_table)}
+    
+\NormalTok{    logit_reg_}\DecValTok{1}\NormalTok{ <-}\StringTok{ }\KeywordTok{glm}\NormalTok{(}\KeywordTok{paste}\NormalTok{(}\StringTok{"above_median ~ "}\NormalTok{, judge_dummy, }\StringTok{" + sentence_date + sentence_year.f"}\NormalTok{), }
+        \DataTypeTok{data =}\NormalTok{ model_}\DecValTok{1}\NormalTok{_data)}
+\NormalTok{    logit_reg_}\DecValTok{2}\NormalTok{ <-}\StringTok{ }\KeywordTok{glm}\NormalTok{(}\KeywordTok{paste}\NormalTok{(}\StringTok{"counter_F4_pj ~ "}\NormalTok{, judge_dummy, }\StringTok{" + sentence_date + sentence_year.f"}\NormalTok{), }
+        \DataTypeTok{data =}\NormalTok{ model_}\DecValTok{2}\NormalTok{_data)}
+\NormalTok{    logit_reg_}\DecValTok{3}\NormalTok{ <-}\StringTok{ }\KeywordTok{glm}\NormalTok{(}\KeywordTok{paste}\NormalTok{(}\StringTok{"severe_sentence ~ "}\NormalTok{, judge_dummy, }\StringTok{" + sentence_date + sentence_year.f"}\NormalTok{), }
+        \DataTypeTok{data =}\NormalTok{ model_}\DecValTok{3}\NormalTok{_data)}
+    
+    \KeywordTok{stargazer}\NormalTok{(logit_reg_}\DecValTok{1}\NormalTok{, logit_reg_}\DecValTok{2}\NormalTok{, logit_reg_}\DecValTok{3}\NormalTok{, }\DataTypeTok{dep.var.labels =} \KeywordTok{c}\NormalTok{(}\StringTok{"Above median sentence"}\NormalTok{, }
+        \StringTok{"Class 4 prison sentence"}\NormalTok{, }\StringTok{"Severe sentence"}\NormalTok{), }\DataTypeTok{align =} \OtherTok{TRUE}\NormalTok{, }\DataTypeTok{type =} \StringTok{"html"}\NormalTok{, }
+        \DataTypeTok{omit =} \StringTok{"sentence_year.f"}\NormalTok{, }\DataTypeTok{notes =} \KeywordTok{c}\NormalTok{(}\StringTok{"Also controlling for sentence year fixed effects"}\NormalTok{, }
+            \StringTok{"Huber-White robust standard errors"}\NormalTok{), }\DataTypeTok{omit.stat =} \KeywordTok{c}\NormalTok{(}\StringTok{"rsq"}\NormalTok{, }\StringTok{"f"}\NormalTok{, }\StringTok{"ser"}\NormalTok{), }
+        \DataTypeTok{title =}\NormalTok{ logit_reg_table, }\DataTypeTok{out =}\NormalTok{ logit_reg_table)}
+\NormalTok{\}}
+\end{Highlighting}
+\end{Shaded}
+
+Regression tables themselves are below.
+
+boyle
+
+Dependent variable:
+
+Above median sentence
+
+Class 4 prison sentence
+
+Severe sentence
+
+(1)
+
+(2)
+
+(3)
+
+boyle\_dummy
+
+0.064***
+
+0.132***
+
+0.092***
+
+(0.011)
+
+(0.013)
+
+(0.009)
+
+sentence\_date
+
+0.00001
+
+-0.00001
+
+0.00000
+
+(0.00001)
+
+(0.00002)
+
+(0.00001)
+
+Constant
+
+1.197***
+
+0.014
+
+1.027***
+
+(0.190)
+
+(0.018)
+
+(0.144)
+
+Observations
+
+131,931
+
+97,835
+
+218,502
+
+Adjusted R2
+
+0.002
+
+0.004
+
+0.001
+
+Note:
+
+\emph{p\textless0.1; \textbf{p\textless0.05; }}p\textless0.01
+
+Also controlling for sentence year fixed effects
+
+Huber-White robust standard errors
+
+boyle
+
+Dependent variable:
+
+Above median sentence
+
+Class 4 prison sentence
+
+Severe sentence
+
+(1)
+
+(2)
+
+(3)
+
+boyle\_dummy
+
+0.064***
+
+0.132***
+
+0.092***
+
+(0.011)
+
+(0.014)
+
+(0.009)
+
+sentence\_date
+
+0.00001
+
+-0.00001
+
+0.00000
+
+(0.00001)
+
+(0.00002)
+
+(0.00001)
+
+Constant
+
+1.197**
+
+0.014
+
+1.027**
+
+(0.532)
+
+(0.498)
+
+(0.509)
+
+Observations
+
+131,931
+
+97,835
+
+218,502
+
+Log Likelihood
+
+-95,072.100
+
+-70,578.620
+
+-153,479.800
+
+Akaike Inf. Crit.
+
+190,220.200
+
+141,215.200
+
+307,051.500
+
+Note:
+
+\emph{p\textless0.1; \textbf{p\textless0.05; }}p\textless0.01
+
+Also controlling for sentence year fixed effects
+
+Huber-White robust standard errors
+
+walowski
+
+Dependent variable:
+
+Above median sentence
+
+Class 4 prison sentence
+
+Severe sentence
+
+(1)
+
+(2)
+
+(3)
+
+walowski\_dummy
+
+0.062***
+
+0.115***
+
+0.073***
+
+(0.017)
+
+(0.020)
+
+(0.014)
+
+sentence\_date
+
+0.00001
+
+-0.00001
+
+0.00000
+
+(0.00001)
+
+(0.00002)
+
+(0.00001)
+
+Constant
+
+1.185***
+
+0.016
+
+1.010***
+
+(0.190)
+
+(0.018)
+
+(0.144)
+
+Observations
+
+131,931
+
+97,835
+
+218,502
+
+Adjusted R2
+
+0.002
+
+0.003
+
+0.001
+
+Note:
+
+\emph{p\textless0.1; \textbf{p\textless0.05; }}p\textless0.01
+
+Also controlling for sentence year fixed effects
+
+Huber-White robust standard errors
+
+walowski
+
+Dependent variable:
+
+Above median sentence
+
+Class 4 prison sentence
+
+Severe sentence
+
+(1)
+
+(2)
+
+(3)
+
+walowski\_dummy
+
+0.062***
+
+0.115***
+
+0.073***
+
+(0.017)
+
+(0.021)
+
+(0.014)
+
+sentence\_date
+
+0.00001
+
+-0.00001
+
+0.00000
+
+(0.00001)
+
+(0.00002)
+
+(0.00001)
+
+Constant
+
+1.185**
+
+0.016
+
+1.010**
+
+(0.532)
+
+(0.498)
+
+(0.509)
+
+Observations
+
+131,931
+
+97,835
+
+218,502
+
+Log Likelihood
+
+-95,082.840
+
+-70,610.670
+
+-153,518.300
+
+Akaike Inf. Crit.
+
+190,241.700
+
+141,279.300
+
+307,128.500
+
+Note:
+
+\emph{p\textless0.1; \textbf{p\textless0.05; }}p\textless0.01
+
+Also controlling for sentence year fixed effects
+
+Huber-White robust standard errors
+
+araujo
+
+Dependent variable:
+
+Above median sentence
+
+Class 4 prison sentence
+
+Severe sentence
+
+(1)
+
+(2)
+
+(3)
+
+araujo\_dummy
+
+0.028*
+
+0.003
+
+-0.039***
+
+(0.015)
+
+(0.016)
+
+(0.011)
+
+sentence\_date
+
+0.00001
+
+-0.00001
+
+0.00000
+
+(0.00001)
+
+(0.00002)
+
+(0.00001)
+
+Constant
+
+1.186***
+
+0.016
+
+1.015***
+
+(0.190)
+
+(0.018)
+
+(0.144)
+
+Observations
+
+131,931
+
+97,835
+
+218,502
+
+Adjusted R2
+
+0.002
+
+0.003
+
+0.001
+
+Note:
+
+\emph{p\textless0.1; \textbf{p\textless0.05; }}p\textless0.01
+
+Also controlling for sentence year fixed effects
+
+Huber-White robust standard errors
+
+araujo
+
+Dependent variable:
+
+Above median sentence
+
+Class 4 prison sentence
+
+Severe sentence
+
+(1)
+
+(2)
+
+(3)
+
+araujo\_dummy
+
+0.028*
+
+0.003
+
+-0.039***
+
+(0.015)
+
+(0.017)
+
+(0.011)
+
+sentence\_date
+
+0.00001
+
+-0.00001
+
+0.00000
+
+(0.00001)
+
+(0.00002)
+
+(0.00001)
+
+Constant
+
+1.186**
+
+0.016
+
+1.015**
+
+(0.533)
+
+(0.498)
+
+(0.509)
+
+Observations
+
+131,931
+
+97,835
+
+218,502
+
+Log Likelihood
+
+-95,088.010
+
+-70,625.760
+
+-153,526.800
+
+Akaike Inf. Crit.
+
+190,252.000
+
+141,309.500
+
+307,145.700
+
+Note:
+
+\emph{p\textless0.1; \textbf{p\textless0.05; }}p\textless0.01
+
+Also controlling for sentence year fixed effects
+
+Huber-White robust standard errors
+
+byrne
+
+Dependent variable:
+
+Above median sentence
+
+Class 4 prison sentence
+
+Severe sentence
+
+(1)
+
+(2)
+
+(3)
+
+byrne\_dummy
+
+0.068***
+
+-0.014
+
+0.016
+
+(0.014)
+
+(0.017)
+
+(0.011)
+
+sentence\_date
+
+0.00001
+
+-0.00001
+
+0.00000
+
+(0.00001)
+
+(0.00002)
+
+(0.00001)
+
+Constant
+
+1.187***
+
+0.016
+
+1.014***
+
+(0.190)
+
+(0.018)
+
+(0.144)
+
+Observations
+
+131,931
+
+97,835
+
+218,502
+
+Adjusted R2
+
+0.002
+
+0.003
+
+0.001
+
+Note:
+
+\emph{p\textless0.1; \textbf{p\textless0.05; }}p\textless0.01
+
+Also controlling for sentence year fixed effects
+
+Huber-White robust standard errors
+
+byrne
+
+Dependent variable:
+
+Above median sentence
+
+Class 4 prison sentence
+
+Severe sentence
+
+(1)
+
+(2)
+
+(3)
+
+byrne\_dummy
+
+0.068***
+
+-0.014
+
+0.016
+
+(0.014)
+
+(0.017)
+
+(0.011)
+
+sentence\_date
+
+0.00001
+
+-0.00001
+
+0.00000
+
+(0.00001)
+
+(0.00002)
+
+(0.00001)
+
+Constant
+
+1.187**
+
+0.016
+
+1.014**
+
+(0.532)
+
+(0.498)
+
+(0.510)
+
+Observations
+
+131,931
+
+97,835
+
+218,502
+
+Log Likelihood
+
+-95,078.560
+
+-70,625.440
+
+-153,531.700
+
+Akaike Inf. Crit.
+
+190,233.100
+
+141,308.900
+
+307,155.400
+
+Note:
+
+\emph{p\textless0.1; \textbf{p\textless0.05; }}p\textless0.01
+
+Also controlling for sentence year fixed effects
+
+Huber-White robust standard errors
+
+raines
+
+Dependent variable:
+
+Above median sentence
+
+Class 4 prison sentence
+
+Severe sentence
+
+(1)
+
+(2)
+
+(3)
+
+raines\_dummy
+
+-0.120***
+
+0.151***
+
+0.105***
+
+(0.015)
+
+(0.018)
+
+(0.014)
+
+sentence\_date
+
+0.00002
+
+-0.00002
+
+-0.00000
+
+(0.00001)
+
+(0.00002)
+
+(0.00001)
+
+Constant
+
+1.217***
+
+0.019
+
+0.995***
+
+(0.190)
+
+(0.018)
+
+(0.144)
+
+Observations
+
+131,931
+
+97,835
+
+218,502
+
+Adjusted R2
+
+0.002
+
+0.004
+
+0.001
+
+Note:
+
+\emph{p\textless0.1; \textbf{p\textless0.05; }}p\textless0.01
+
+Also controlling for sentence year fixed effects
+
+Huber-White robust standard errors
+
+raines
+
+Dependent variable:
+
+Above median sentence
+
+Class 4 prison sentence
+
+Severe sentence
+
+(1)
+
+(2)
+
+(3)
+
+raines\_dummy
+
+-0.120***
+
+0.151***
+
+0.105***
+
+(0.016)
+
+(0.019)
+
+(0.013)
+
+sentence\_date
+
+0.00002
+
+-0.00002
+
+-0.00000
+
+(0.00001)
+
+(0.00002)
+
+(0.00001)
+
+Constant
+
+1.217**
+
+0.019
+
+0.995*
+
+(0.532)
+
+(0.498)
+
+(0.509)
+
+Observations
+
+131,931
+
+97,835
+
+218,502
+
+Log Likelihood
+
+-95,060.930
+
+-70,594.600
+
+-153,502.000
+
+Akaike Inf. Crit.
+
+190,197.900
+
+141,247.200
+
+307,096.000
+
+Note:
+
+\emph{p\textless0.1; \textbf{p\textless0.05; }}p\textless0.01
+
+Also controlling for sentence year fixed effects
+
+Huber-White robust standard errors
+
+\hypertarget{bootstrapping-regression}{%
+\subsection{Bootstrapping regression}\label{bootstrapping-regression}}
+
+Now, I bootstrap one of my models (I'm not doing all of them because
+that would take ages, and I see this as more of a sanity check to see if
+the coefficients/standard errors are wildly different). I'm choosing the
+third column of Judge Maura Slattery Boyle's regression table, and draw
+5000 bootstrapped samples. The outputs are a summary of the coefficient,
+a plot of its distribution, and a confidence interval around it.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\CommentTok{# set.seed(123) boot_data <- model.matrix( ~ severe_sentence + boyle_dummy +}
+\CommentTok{# sentence_year.f, data = model_3_data) boot_data <- as.data.frame(boot_data)}
+\CommentTok{# rm(list=setdiff(ls(), 'boot_data')) #clearing workspace bs <- function(formula,}
+\CommentTok{# data, indices) \{ d <- data[indices,] # allows boot to select sample fit <-}
+\CommentTok{# lm(formula, data=d) return(summary(fit)$coefficients[2]) \} boyle_reg_3_boot <-}
+\CommentTok{# boot(data = boot_data, statistic = bs, R = 5000, formula=severe_sentenceTRUE ~}
+\CommentTok{# boyle_dummyTRUE + .)  png(file = 'bootstrap_graphs.png', width = 1200, height =}
+\CommentTok{# 700) plot(boyle_reg_3_boot) dev.off() boot.ci(boyle_reg_3_boot, type='perc',}
+\CommentTok{# conf=.99) stargazer(summary(boyle_reg_3_boot), summary = FALSE, type = 'html',}
+\CommentTok{# out = 'slattery_boyle_boot.html')}
+\end{Highlighting}
+\end{Shaded}
+
+I won't replicate this bootstrap experiment with all the judges (I've
+put my laptop through enough) but I take this as a good sign that the
+sample size is mitigating the impacts of our wonky residuals, and
+therefore our coefficients for all models are pretty robust.
+
+\hypertarget{conclusion}{%
+\section{Conclusion}\label{conclusion}}
+
+Happily, our bootstrap estimates fall in line well (almost perfectly in
+fact) with our coefficient from the regular OLS regression (see column 3
+of our regression table for Judge Slattery Boyle for reference). Our
+p-vals from the logit models show significance for most judge dummies
+too. For the record, I'm not using my logit coefficients just because
+they're weird to intrepret in comparison to our OLS coefficients (and
+because with large sample size I think OLS is still the best model, even
+with a binary dependent variable).
+
+All in all I see this as the fairest attempt I can make at measuring
+sentencing severity and assessing it's significance rigorously. I'd
+loved to be proved wrong though.
+
+It's also worth noting that, while cases are assigned randomly to judges
+(I confirmed this during my stint at Injustice Watch), the greatest
+source of omitted variable bias comes from our lack of access to
+defendent records. Even a simple binary indicating whether an individual
+had been convicted prior to this case would do wonders for mitigating
+OVB concerns. Really hope to see that soon.
+
+\end{document}

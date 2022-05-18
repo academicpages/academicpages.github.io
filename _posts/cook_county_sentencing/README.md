@@ -1,0 +1,1 @@
+For code, look at CCSAO_sentencing_analysis.Rmd. For judge rankings, look at judge_rankings.csv. All other output is html tables/images used in my summary blog post, which can be found [here](https://jaketg97.github.io/Jacob-Toner-Gosselin/cook_county_sentencing/judging_judges).

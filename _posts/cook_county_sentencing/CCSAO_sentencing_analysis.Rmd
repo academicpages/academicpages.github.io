@@ -1,0 +1,263 @@
+---
+title: "Cook County Criminal Judge Sentencing Analysis"
+author: 
+  name: Jacob Toner Gosselin
+date: "`r format(Sys.time(), '%d %B %Y')`"
+
+output: 
+  html_document:
+    theme: flatly
+    highlight: haddock
+    # code_folding: show
+    toc: yes
+    toc_depth: 4
+    toc_float: yes
+    keep_md: false
+    keep_tex: false ## Change to true if want keep intermediate .tex file
+    css: css/preamble.css ## For multi-col environments
+always_allow_html: true
+urlcolor: blue
+mainfont: cochineal
+sansfont: Fira Sans
+monofont: Fira Code ## Although, see: https://tex.stackexchange.com/q/294362
+## Automatically knit to both formats:
+knit: (function(inputFile, encoding) {
+ rmarkdown::render(inputFile, encoding = encoding, 
+ output_format = 'all') 
+ })
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(mosaic)
+library(readr)
+library(formatR)
+library(dplyr)
+library(plyr)
+library(plotrix)
+library(boot)
+library(lubridate)
+library(lmtest)
+library(sandwich)
+library(stargazer)
+library(kableExtra)
+library(car)
+theme_set(hrbrthemes::theme_ipsum())
+```
+What follows is the methodology for my sentencing analysis on Cook County Criminal Division judges. All work was done in R. The R code is here, at my GitHub; since the data is read in from the Cook County Online Data portal, my work can easily be re-created or expanded upon.
+
+# Reading in Data/Converting Sentence Term
+
+We'll start by reading in our sentencing [data](https://datacatalog.cookcountyil.gov/Courts/Sentencing/tg8v-tm6u). We'll then create a conversion table to standardize our units (i.e. years=1, months=1/12, weeks=1/52, days=1/365, all other units are left undefined but the rows are kept). We'll then convert our sentence (i.e. 6 months=.5), and store it under a new variable, "converted_sentence".
+```{r, tidy=TRUE, results=FALSE, warning=FALSE, message=FALSE}
+original <- read_csv("https://datacatalog.cookcountyil.gov/api/views/tg8v-tm6u/rows.csv?accessType=DOWNLOAD")
+conversion_table <- revalue(original$COMMITMENT_UNIT, c("Year(s)"=1, "Months"=1/12, "Weeks"=1/52, "Days"=1/365, "Pounds"=NA, "Dollars"=NA, "Term"=NA))
+conversion_table <- as.double(conversion_table)
+original["converted_sentence"]<-ifelse(original$COMMITMENT_UNIT=="Natural Life", 100,conversion_table*as.double(original$COMMITMENT_TERM))
+original["sentence_date"]<-as.Date(original$SENTENCE_DATE, "%m/%d/%Y")
+original["sentence_year"]<-year(original$sentence_date)
+```
+
+# Finding median sentences by felony class
+
+We'll now create a series of subsets, to find median sentences. We're going to create a subset for class 1, 2, 3, 4, and X felonies. This will exclude 2792 cases, which are filed under class A, B, C, M, O, P, U, or Z felonies. A lot of these are mistaken filings, but we don't want to assign them. Since the sample size is large, we're better of ignoring them (they only make up <2% of cases). 
+
+We're also going to create further subsets (PJ) for sentences to Prison or Jail. We'll use these to find median sentences; while it eliminates a good chunk of our cases (~41%), you have to do this to get an accurate read on median sentence time. Otherwise, a two year probation will skew our median, since that will be considered harsher than a one year prison sentence. 
+
+```{r, tidy=TRUE}
+CLASS_1 <- subset(original, DISPOSITION_CHARGED_CLASS=="1")
+CLASS_2 <- subset(original, DISPOSITION_CHARGED_CLASS=="2")
+CLASS_3 <- subset(original, DISPOSITION_CHARGED_CLASS=="3")
+CLASS_4 <- subset(original, DISPOSITION_CHARGED_CLASS=="4")
+CLASS_X <- subset(original, DISPOSITION_CHARGED_CLASS=="X") 
+CLASS_1_PJ <- subset(original, DISPOSITION_CHARGED_CLASS=="1" & (SENTENCE_TYPE=="Prison" | SENTENCE_TYPE=="Jail"))
+CLASS_2_PJ <- subset(original, DISPOSITION_CHARGED_CLASS=="2" & (SENTENCE_TYPE=="Prison" | SENTENCE_TYPE=="Jail"))
+CLASS_3_PJ <- subset(original, DISPOSITION_CHARGED_CLASS=="3" & (SENTENCE_TYPE=="Prison" | SENTENCE_TYPE=="Jail"))
+CLASS_4_PJ <- subset(original, DISPOSITION_CHARGED_CLASS=="4" & (SENTENCE_TYPE=="Prison" | SENTENCE_TYPE=="Jail"))
+CLASS_X_PJ <- subset(original, DISPOSITION_CHARGED_CLASS=="X" & (SENTENCE_TYPE=="Prison" | SENTENCE_TYPE=="Jail"))
+original_PJ <- subset(original, SENTENCE_TYPE=="Prison" | SENTENCE_TYPE=="Jail")
+median_1 <- median(CLASS_1_PJ$converted_sentence, na.rm=TRUE)
+median_2 <- median(CLASS_2_PJ$converted_sentence, na.rm=TRUE)
+median_3 <- median(CLASS_3_PJ$converted_sentence, na.rm=TRUE)
+median_4 <- median(CLASS_4_PJ$converted_sentence, na.rm=TRUE)
+median_X <- median(CLASS_X_PJ$converted_sentence, na.rm=TRUE)
+```
+```{r, echo=FALSE}
+median_1 
+median_2 
+median_3 
+median_4 
+median_X
+```
+The outputs are our median prison sentences by felony class.
+
+# Creating Severity Ranking 
+
+Now we construct our ranking of Criminal Division judges by sentence severity. First we're going to create a subset of our original which solely includes felonies of class 1, 2, 3, 4, and X (which is the vast majority of entries). Then we're going to create a boolean for whether the charge resulted in prison time, and if so, whether that prison sentence was above the median.
+
+```{r, tidy=TRUE}
+original_subset <- subset(original, DISPOSITION_CHARGED_CLASS=="1" | DISPOSITION_CHARGED_CLASS=="2" | DISPOSITION_CHARGED_CLASS=="3" | DISPOSITION_CHARGED_CLASS=="4" | DISPOSITION_CHARGED_CLASS=="X")
+conversion_table2 <- revalue(original_subset$SENTENCE_TYPE, c("Prison"=TRUE, "Jail"=TRUE))
+original_subset["PJ"]=conversion_table2
+above_median <- (original_subset$PJ==TRUE & ((original_subset$DISPOSITION_CHARGED_CLASS=="1" & original_subset$converted_sentence>median_1) | (original_subset$DISPOSITION_CHARGED_CLASS=="2" & original_subset$converted_sentence>median_2) | (original_subset$DISPOSITION_CHARGED_CLASS=="3" & original_subset$converted_sentence>median_3) | (original_subset$DISPOSITION_CHARGED_CLASS=="4" & original_subset$converted_sentence>median_4) | (original_subset$DISPOSITION_CHARGED_CLASS=="X" & original_subset$converted_sentence>median_X)))
+original_subset["above_median"] <- above_median
+```
+
+Now we are ready to make our ranking. We'll create a counter (a simple boolean, 1 if true, 0 if false) for: 
+
+1. Each sentence (i.e. 1 always) 
+2. Whether the sentence resulted in prison or jail time 
+3. If the sentence resulted in prison or jail time, whether the sentence was above the median for that felony class 
+4. Whether the sentence was on a Class 1 felony
+5. Whether the sentence was a Class 2 felony
+6. Whether the sentence was a Class 3 felony
+7. Whether the sentence was a Class 4 felony  
+8. Whether the sentence was on a class 4 felony and resulted in prison time. 
+
+Then we'll aggregate our counters by judge (i.e. sum each counter, grouped by the sentencing judge), and calculate the percent of prison sentences above the median/the percent of class 4 felony sentences resulting in prison time. We'll average it to create our severity metric. I drop all judges who have served on less than 500 case (I like to deal in large sample sizes; the outcomes for judges who haven't served on many cases could be misleading). From there I just abbreviated the list and ordered it to make it tidy. I export the full list of 90 judges, ranked, to judge_rankings.csv. I also display the judges included in the list who are on the ballot for retention November 3rd, with their relative rank within the list of 90 judges by my "severity metric".  
+
+```{r, tidy=TRUE, results = "asis"}
+original_subset<-subset(original_subset, original_subset$SENTENCE_TYPE=="Prison"|original_subset$SENTENCE_TYPE=="Jail"|original_subset$SENTENCE_TYPE=="Probation")
+original_subset$counter<-1
+original_subset$counter_PJ<-ifelse(original_subset$SENTENCE_TYPE=="Prison" | original_subset$SENTENCE_TYPE=="Jail", 1, 0)
+original_subset$counter_abovemedian<-ifelse(original_subset$above_median==TRUE & original_subset$counter_PJ==1, 1, 0)
+original_subset$counter_F1 <-ifelse(original_subset$DISPOSITION_CHARGED_CLASS==1, 1, 0)
+original_subset$counter_F2 <-ifelse(original_subset$DISPOSITION_CHARGED_CLASS==2, 1, 0)
+original_subset$counter_F3 <-ifelse(original_subset$DISPOSITION_CHARGED_CLASS==3, 1, 0)
+original_subset$counter_F4 <-ifelse(original_subset$DISPOSITION_CHARGED_CLASS==4, 1, 0)
+original_subset$counter_F4_pj <-ifelse(original_subset$DISPOSITION_CHARGED_CLASS==4 & original_subset$SENTENCE_TYPE!="Probation", 1, 0)
+judge_rankings<-aggregate(original_subset[47:54], by=list(judges=original_subset$SENTENCE_JUDGE), FUN=sum, na.rm=TRUE)
+judge_rankings<-subset(judge_rankings, judge_rankings$counter>=500)
+judge_rankings$percentabove <- judge_rankings$counter_abovemedian/judge_rankings$counter_PJ
+judge_rankings$class4prisonpercent <- judge_rankings$counter_F4_pj/judge_rankings$counter_F4
+judge_rankings$severity_metric<-(judge_rankings$percentabove+judge_rankings$class4prisonpercent)/2
+judge_rankings_abb <-data.frame(judge_rankings$judges, judge_rankings$percentabove, judge_rankings$class4prisonpercent, judge_rankings$severity_metric)
+colnames(judge_rankings_abb)<-c("Judges", "% prison/jail sentences above median", "% Class 4 felonies sentenced to prison/jail","Severity metric")
+judge_rankings_abb<-arrange(judge_rankings_abb, desc(judge_rankings_abb$`Severity metric`))
+write.csv(judge_rankings_abb, "judge_rankings.csv")
+retention_judges <- subset(judge_rankings_abb, Judges == "Shelley  Sutker-Dermer" | Judges == "Kenneth J Wadas" | Judges == "Kerry M Kennedy" | Judges == "Araujo, Mauricio" | Judges == "Byrne, Thomas" | Judges == "Anna Helen Demacopoulos" | Judges == "URSULA  WALOWSKI" | Judges == "Steven G Watkins" | Judges == "William  Raines")
+stargazer(retention_judges, summary = FALSE, type = "html", out = "retention_judge_rankings.html")
+```
+
+# Checking significance
+
+A ranking is one thing, but for context we want to see if the judges at the top of our ranking do seem to hand down "severe" sentences at a significant rate. Otherwise, the differences we see in the variables that make up our severity metric (percent of prison sentences "above the median" and percent of class 4 felony sentences resulting in prison time) could just be statistical noise. 
+
+Two years ago, when I was only looking at Judge Maura Slattery Boyle, I did this by "bootstrap", i.e.  resampling data with replacement. My logic was that doing it this way I wouldn't have to assume the distribution of the statistic (in this case, the two aforementioned variables). I could draw a 95% confidence interval around the variables for Judge Slattery Boyle, and then compare that confidence interval to the actual values of the variables in the entire population. If the bottom end of the confidence interval was above the actual value of the variable in the entire dataset (which was the case), I could say at a p-val of .05 that Judge Slattery-Boyle's sentences weren't randomly picked from the population at large. In other words, she was sentencing at a higher rate than the "average" judge.
+
+In retrospect, this approach wasn't particularly elegant or effective. I didn't want to do a simple linear regression because I was dealing with two dummy variables, and the distribution of the regression residuals wouldn't be even close to normal. My understanding then (and now, although I'd love if someone could walk me through this like I was 5) was that while non-normal residuals don't violate the Gauss-Markov theorem, they did make it impossible to interpret the t statistics/p-values produced, and the p-value was all I really wanted.
+
+However, looking back now I've had a change of heart for three reasons. Number one, as long as the Gauss-Markov assumptions are satisfied (we can adjust for heteroskedasticity using robust standard errors), the coefficient produced by my linear regression is still BLUE and consistent, meaning that given the massive sample size offered by this data (well over 100k cases), I feel more comfortable interpreting the coefficient than I did then. Number two, the biggest concern I always had was omitted variable bias, and by using a linear regression to assess significance I'm able to control for two additional variables that I didn't account for in my bootstrap method: sentence date (as a continuous variable, assuming sentences have gotten more lenient over time) and sentence years (as fixed effects, assuming sentencing norms/rules might change year to year). And number three, I can test my assumption that my OLS coefficients are trustworthy by A) fitting a logistic regression in addition, since logit models don't assume residuals are normally distributed for their p-vals; and B) using bootstrapping with my linear regression model, to construct an empirical confidence interval around my OLS coefficient. 
+
+So, below I have five OLS regression tables and five logit regression tables for five judges: Maura Slattery Boyle (still leading by my severity metric, and I want to see if controlling for the additional covariates changes the results for her), Ursula Walowski, Mauricio Araujo, Thomas Byrne, and William Raines (all up for retention and in the top third of judges by sentencing severity). Each table has three columns for three dependent variables 
+
+1. Dummy variable for sentence being above the median (0 if not, 1 if so, only using sentences that resulted in prison or jail time)
+2. Dummy variable for sentence being a class 4 felony and resulting in prison time (0 if class 4 felony sentenced to probation, 1 if class 4 felony sentenced to prison or jail, only using sentences on class 4 felonies where the outcome was prison or jail)
+3. Dummy variable for a sentence being "severe" (1 if sentence is for prison or jail and "above the median" for that particular felony class OR if a sentence is for prison or jail and the charge is a class 4 felony, 0 otherwise, using all sentences resulting in prison, jail, or probation time).
+
+## Regression tables
+
+Code for regression tables is below. 
+```{r, tidy=TRUE, results=FALSE, warning=FALSE, message=FALSE}
+original_subset$sentence_year.f <- factor(original_subset$sentence_year)
+original_subset$boyle_dummy <- original_subset$SENTENCE_JUDGE == "Maura  Slattery Boyle"
+original_subset$walowski_dummy <- original_subset$SENTENCE_JUDGE == "URSULA  WALOWSKI"
+original_subset$araujo_dummy <- original_subset$SENTENCE_JUDGE == "Araujo, Mauricio"
+original_subset$byrne_dummy <- original_subset$SENTENCE_JUDGE == "Byrne, Thomas"
+original_subset$raines_dummy <- original_subset$SENTENCE_JUDGE == "William  Raines"
+original_subset$severe_sentence <- original_subset$counter_abovemedian == 1 | original_subset$counter_F4_pj == 1
+
+model_1_data <- subset(original_subset, counter_PJ == 1)
+model_2_data <- subset(original_subset, counter_F4 == 1)
+model_3_data <- original_subset
+
+boyle_reg_3 <- lm(severe_sentence ~ boyle_dummy + sentence_date + sentence_year.f, data = model_3_data)
+
+data.frame(boyle_reg_3$residuals) %>% 
+  ggplot(aes(sample=boyle_reg_3.residuals)) +
+  stat_qq() + stat_qq_line() + 
+  labs(title = "QQPlot of regression residuals, Judge Boyle model 3") + 
+  theme(plot.title = element_text(size=15))
+
+ggsave(filename = "./boyle_3_qq.png", height = 4, width = 6.5, dpi = 600)
+
+reg_tables <- function(judge_dummy, ols_reg_table, logit_reg_table) {
+  
+  ols_reg_1 <- lm(paste("above_median ~ ", judge_dummy, " + sentence_date + sentence_year.f"), data = model_1_data)
+  cov <- vcovHC(ols_reg_1, type = "HC") 
+  ols_reg_1_robust.se <- sqrt(diag(cov))
+  ols_reg_2 <- lm(paste("counter_F4_pj ~ ", judge_dummy, " + sentence_date + sentence_year.f"), data = model_2_data)
+  cov <- vcovHC(ols_reg_2, type = "HC") 
+  ols_reg_2_robust.se <- sqrt(diag(cov))
+  ols_reg_3 <- lm(paste("severe_sentence ~ ", judge_dummy, " + sentence_date + sentence_year.f"), data = model_3_data)
+  cov <- vcovHC(ols_reg_3, type = "HC") 
+  ols_reg_3_robust.se <- sqrt(diag(cov)) 
+  
+  stargazer(ols_reg_1, ols_reg_2, ols_reg_3, dep.var.labels=c("Above median sentence","Class 4 prison sentence", "Severe sentence"), se = list(ols_reg_1_robust.se, ols_reg_2_robust.se, ols_reg_3_robust.se), align=TRUE, type = "html", omit = "sentence_year.f", notes = c("Also controlling for sentence year fixed effects", "Huber-White robust standard errors"), omit.stat = c("rsq", "f", "ser"), 
+            title = ols_reg_table , out = ols_reg_table)
+  
+  logit_reg_1 <- glm(paste("above_median ~ ", judge_dummy, " + sentence_date + sentence_year.f"), data = model_1_data)
+  logit_reg_2 <- glm(paste("counter_F4_pj ~ ", judge_dummy, " + sentence_date + sentence_year.f"), data = model_2_data)
+  logit_reg_3 <- glm(paste("severe_sentence ~ ", judge_dummy, " + sentence_date + sentence_year.f"), data = model_3_data)
+  
+  stargazer(logit_reg_1, logit_reg_2, logit_reg_3, dep.var.labels=c("Above median sentence","Class 4 prison sentence", "Severe sentence"), align=TRUE, type = "html", omit = "sentence_year.f", notes = c("Also controlling for sentence year fixed effects", "Huber-White robust standard errors"), omit.stat = c("rsq", "f", "ser"), 
+            title = logit_reg_table, out = logit_reg_table)
+} 
+```
+
+Regression tables themselves are below.
+```{r, echo = FALSE, results="asis"}
+reg_tables("boyle_dummy", "boyle_ols.html", "boyle_logit.html")
+
+reg_tables("walowski_dummy", "walowski_ols.html", "walowski_logit.html")
+
+reg_tables("araujo_dummy", "araujo_ols.html", "araujo_logit.html")
+
+reg_tables("byrne_dummy", "byrne_ols.html", "byrne_logit.html")
+
+reg_tables("raines_dummy", "raines_ols.html", "raines_logit.html")
+```
+
+## Bootstrapping regression
+
+Now, I bootstrap one of my models (I'm not doing all of them because that would take ages, and I see this as more of a sanity check to see if the coefficients/standard errors are wildly different). I'm choosing the third column of Judge Maura Slattery Boyle's regression table, and draw 5000 bootstrapped samples. The outputs are a summary of the coefficient, a plot of its distribution, and a confidence interval around it. 
+
+```{r, tidy=TRUE, results="asis", warning=FALSE, message=FALSE}
+
+# set.seed(123)
+# 
+# boot_data <- model.matrix( ~ severe_sentence + boyle_dummy + sentence_year.f, data = model_3_data)
+# boot_data <- as.data.frame(boot_data)
+# rm(list=setdiff(ls(), "boot_data")) #clearing workspace
+# 
+# bs <- function(formula, data, indices) {
+#   d <- data[indices,] # allows boot to select sample
+#   fit <- lm(formula, data=d)
+#   return(summary(fit)$coefficients[2])
+# }
+# 
+# boyle_reg_3_boot <- boot(data = boot_data, statistic = bs, R = 5000, formula=severe_sentenceTRUE ~ boyle_dummyTRUE + .)
+# saveRDS(boyle_reg_3_boot, file = "boot_data.rds")
+
+boyle_reg_3_boot = readRDS(file = "boot_data.rds")
+boot.ci(boyle_reg_3_boot, type="perc", conf=.99)
+stargazer(summary(boyle_reg_3_boot), summary = FALSE, type = "html", out = "slattery_boyle_boot.html")
+
+data.frame(boyle_reg_3_boot$t) %>% 
+  ggplot(aes(x=boyle_reg_3_boot.t)) +
+  geom_histogram(aes(y=..count../sum(..count..)), alpha=.4, position = "identity", fill="red", bins = 50) + 
+  labs(title="Bootstrapped distribution for Slattery Boyle", y="Percent", x="Coefficient for Severe Sentencing metric", 
+       caption = "Bootstrapped 99% confidence interval: (.0679, .1157)")
+
+ggsave(filename = "./bootstrap_graphs.png", height = 4, width = 5.5, dpi = 600)
+```
+
+I won't replicate this bootstrap experiment with all the judges (I've put my laptop through enough) but I take this as a good sign that the sample size is mitigating the impacts of our wonky residuals, and therefore our coefficients for all models are pretty robust. 
+
+# Conclusion 
+
+Happily, our bootstrap estimates fall in line well (almost perfectly in fact) with our coefficient from the regular OLS regression (see column 3 of our regression table for Judge Slattery Boyle for reference). Our p-vals from the logit models show significance for most judge dummies too. For the record, I'm not using my logit coefficients just because they're weird to intrepret in comparison to our OLS coefficients (and because with large sample size I think OLS is still the best model, even with a binary dependent variable).
+
+All in all I see this as the fairest attempt I can make at measuring sentencing severity and assessing it's significance rigorously. I'd loved to be proved wrong though. 
+
+It's also worth noting that, while cases are assigned randomly to judges (I confirmed this during my stint at Injustice Watch), the greatest source of omitted variable bias comes from our lack of access to defendent records. Even a simple binary indicating whether an individual had been convicted prior to this case would do wonders for mitigating OVB concerns. Really hope to see that soon.
