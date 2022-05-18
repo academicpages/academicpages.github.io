@@ -8,7 +8,7 @@ author_profile: true
 
 Publications
 ---
-"Less Stress, More Confidence": Supporting Junior Scholars Online at the Graduate Student International Political Economy Workshop. Forthcoming, <span class="PS: Political Science & Politics">word</span>. (with Alex Kirss and Paul Ko)
+"Less Stress, More Confidence": Supporting Junior Scholars Online at the Graduate Student International Political Economy Workshop. Forthcoming, <span class="emphasize">PS: Political Science & Politics</span>. (with Alex Kirss and Paul Ko). (<a href= "https://cobrienudry.github.io/files/ps_gsipe.pdf">ungated</a>)
 
 Working Papers
 ---
