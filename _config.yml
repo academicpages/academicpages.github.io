@@ -9,12 +9,12 @@
 locale                   : "en-US"
 title                    : "Collin J Wardius"
 title_separator          : "-"
-name                     : &name "Collin Wardius"
-description              : &description "graduate student"
+name                     : "Collin Wardius"
+description              : "graduate student"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "cjwardius/cjwardius.cjwardius.github.io"
+teaser                   : "IMG_1214.jpeg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "@CJWardius"
 facebook:
   username               :
   app_id                 :
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Collin J Wardius"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "cjwardius"
   google_plus      :
   keybase          :
   instagram        :
