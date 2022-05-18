@@ -1,6 +1,6 @@
 ---
 title: 'Judging judges (round 2)'
-date: 2012-08-14
+date: 2020-05-14
 permalink: /posts/2020/05/judging_judges/
 ---
 
