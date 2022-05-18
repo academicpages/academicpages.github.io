@@ -1,14 +1,14 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
-  - title: "Research Topics"
-    url: /talks/    
+  # - title: "Research Topics"
+  #   url: /talks/    
 
-  - title: "News"
-    url: /news/    
+  # - title: "News"
+  #   url: /news/    
         
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
