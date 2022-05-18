@@ -1,10 +1,9 @@
 ---
-layout: post
-title: "Judging judges (round 2)"
-author: "Jacob Toner Gosselin"
-date: 2020-10-16 
-categories: sentencing ideas
+title: 'Judging judges (round 2)'
+date: 2012-08-14
+permalink: /posts/2020/05/judging_judges/
 ---
+
 *Before you read this, if you're a Chicago resident, make sure you check out Injustice Watch's [Judicial Election Guide](https://www.injusticewatch.org/interactives/judicial-election-guide/2020-general/en/) and fill out your sample ballot! Also, my full methodology can be found [here](CCSAO_sentencing_analysis.html) and my code can be found [here](https://github.com/jaketg97/Jacob-Toner-Gosselin/tree/main/cook_county_sentencing).*
 
 ## Background
@@ -42,7 +41,7 @@ Two years ago, when I was only looking at Judge Maura Slattery Boyle, I did this
 
 In retrospect, this approach wasn’t particularly elegant or effective. I didn’t want to do a simple linear regression because I was dealing with two dummy variables, and the distribution of the regression residuals wasn't even close to normal. My understanding then (and now, although I’d love if someone could walk me through this like I was 5) was that while non-normal residuals don’t violate the Gauss-Markov theorem, they did make it impossible to interpret the t statistics/p-values produced, and the p-value was all I really wanted.
 
-![boyle_3_qq](boyle_3_qq.png)
+![boyle_3_qq](cook_county_sentencing/boyle_3_qq.png)
 *Look at how ugly these residuals are*
 
 Looking back now, I’ve had a change of heart for three reasons. 
@@ -70,7 +69,7 @@ I take the bootstrapping and logit results lining up with my OLS coefficients as
 
 *Bootstrapped regression output summary (coefficient is pretty much unchanged)*
 
-![bootstrap_graphs](bootstrap_graphs.png)
+![bootstrap_graphs](cook_county_sentencing/bootstrap_graphs.png)
 *graphs of our coefficient distribution from the bootstrapped samples, showing a pretty neat bell curve around our estimated value*
 
 ## Conclusion/Next Steps
