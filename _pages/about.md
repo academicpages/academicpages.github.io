@@ -16,6 +16,8 @@ You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.e
 
 News
 ======
+\[May 2022\]CrossTReS is accepted at **KDD 2022**. Congratulations!
+
 \[March 2022\] Invited to serve as a Reviewer for **NeurIPS 2022**. 
 
 \[February 2022\] Invited to serve as a Reviewer for **[TMLR](https://www.jmlr.org/tmlr/)**.
