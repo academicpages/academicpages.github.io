@@ -1,10 +1,8 @@
 ---
 title: "Insurer Competition in the Age of Provider Consolidation: The relationship between hospital and insurance competition in the ACA individual market"
 collection: publications
-permalink: /publication/2021-11-28-aca_competition_consolidation
+permalink: https://jaketg97.github.io/jaketg97/files/Insurance%20Competition%20in%20the%20Age%20of%20Provider%20Consolidation.pdf
 excerpt: 'This paper investigates the impact of hospital competition (or lack thereof) on insurer participation in the ACA’s individual market.'
-date: 2021-11-08
+date: 11-08-2021
 ---
 This paper started as an undergraduate thesis that I’ve substantially overhauled post-graduation. Using public data from CMS, and private data from the American Hospital Association (AHA), I tried to measure the impact of reduced healthcare provider competition on insurer competition on ACA exchanges. It is a “first go” at assessing this relationship, laying the groundwork for an eventual panel regression once there are enough years of ACA data. It adds to the literature by documenting a novel method of constructing hospital market HHI at the county-level, and by illustrating how rating areas, a unique feature of ACA markets, allow for some control of geographic fixed effects even with limited data.
-
-[Download paper here](https://jaketg97.github.io/jaketg97/files/Insurance%20Competition%20in%20the%20Age%20of%20Provider%20Consolidation.pdf)
