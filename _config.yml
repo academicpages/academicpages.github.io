@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author: 
   name             : "Collin J Wardius"
-  avatar           : null
+  avatar           : "IMG_1214.jpeg"
   bio              : "Econ graduate student at UC San Diego"
   location         : "La Jolla, CA"
   employer         :
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
-    output: false
+    output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
@@ -218,10 +218,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _research
+  # _publications
   - scope:
       path: ""
-      type: research
+      type: publications
     values:
       layout: single
       author_profile: true
