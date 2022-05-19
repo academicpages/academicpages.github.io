@@ -11,7 +11,7 @@ title                    : "Collin J Wardius"
 title_separator          : "-"
 name                     : "Collin Wardius"
 description              : "graduate student"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cjwardius.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cjwardius/cjwardius.cjwardius.github.io"
 teaser                   : 
