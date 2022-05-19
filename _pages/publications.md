@@ -1,16 +1,14 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+### Working papers
 
-{% include base_path %}
+"Not Cashing In On Cashing Out: An Analysis of Low Cash-Out Refinance Rates" (with [Igor Livshits](https://www.philadelphiafed.org/our-people/igor-livshits) and [Mallick Hossain](https://www.mallickhossain.com))
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### Selected Works in Progress
+
+"Teacher Turnover and Student Performance: Evidence from Pennsylvania's Publicly-Funded Schools"
