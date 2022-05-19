@@ -2,7 +2,7 @@
 main:
 
   - title: "Blog Posts"
-    url: /category-archive/
+    url: /year-archive/
     
   - title: "Publications"
     url: /publications/
