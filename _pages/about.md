@@ -10,9 +10,19 @@ redirect_from:
 ---
 
 Hi, I'm Paschal
-I'm a PhD student at Purdue University's school of Electrical and Computer Engineering, currently advised by Prof Jamie Davis.
+I'm a PhD student at Purdue University's school of Electrical and Computer Engineering, currently advised by [Prof Jamie Davis](https://davisjam.github.io/).
 
-My work sits at the intersection of software engineering, security and cyber-physical systems. I want to improve the security and safety of embedded systems, through well-engineered software.
-I am currently studying software vulnerabilities in Real Time Operating Systems, and my results will influence vulnerability detection, and exploit mitigation in these understudied class of system.
+## Research Interests
+My research sits at the intersection of software engineering, security and cyber-physical systems. I work to improve the security and safety of embedded systems, through well-engineered software.
 
-Outside research, I love discussing politics, startups and ideas. I am passionate about Nigeria, and Africa, and hope to contribute to the growth of the country, and continent.
+## Personal
+I love discussing politics, startups and strategies. 
+I love travelling and car trips. I can hardly resist the urge to visit a new city.
+If I'm not working or reading, I am probably watching a movie.
+I am passionate about Nigeria, and Africa.
+
+## Recent News
+**May 2022:** I will be attending *ICSE 2022* at Pittsburg, through an NSF-funded travel grant.
+**April 2022:** I won the *2022 Magoon Excellence in Teaching award*, from Purdue's college of engineering.
+**Feb 2022:** Our short paper, *"Experience paper: A first offering of Software Engineering"* just got accepted to *DREE 2022*
+
