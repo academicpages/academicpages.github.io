@@ -66,6 +66,8 @@ Indicação de exercícios: Fundamentos de Matemática Elementar Vol. 2 : Capít
 
 Indicação de exercícios: Fundamentos de Matemática Elementar Vol. 2 : Capítulo VI: Seção I-II (pares).
 
+Indicação de exercícios: Fundamentos de Matemática Elementar Vol. 3 : Capítulo II: Seção III, IV, V, VII, VIII (pares).
+
 
 Aulas
 ======
