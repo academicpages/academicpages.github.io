@@ -1,9 +1,15 @@
 ---
-title: "Insurer Competition in the Age of Provider Consolidation: The relationship between hospital and insurance competition in the ACA individual market"
+title: "Paper Title Number 1"
 collection: publications
-permalink: https://jaketg97.github.io/jaketg97/files/Insurance%20Competition%20in%20the%20Age%20of%20Provider%20Consolidation.pdf
-excerpt: 'This paper investigates the impact of hospital competition (or lack thereof) on insurer participation in the ACA’s individual market.'
-date: 11-08-2021
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper started as an undergraduate thesis that I’ve substantially overhauled post-graduation. Using public data from CMS, and private data from the American Hospital Association (AHA), I tried to measure the impact of reduced healthcare provider competition on insurer competition on ACA exchanges. It is a “first go” at assessing this relationship, laying the groundwork for an eventual panel regression once there are enough years of ACA data. It adds to the literature by documenting a novel method of constructing hospital market HHI at the county-level, and by illustrating how rating areas, a unique feature of ACA markets, allow for some control of geographic fixed effects even with limited data.
-TEST TEST TEST TEST
+This paper is about the number 1. The number 2 is left for future work.
+
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
