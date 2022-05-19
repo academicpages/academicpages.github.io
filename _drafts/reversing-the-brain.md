@@ -22,18 +22,12 @@ A basic goal of neuroscience is to understand a human brain's development and ac
 
 I argue that, most likely, the greatest part of both of these "sufficiently accurate descriptions" exist today - and that a smartphone has enough memory to store them:
 
-1. By the data on [human genome size](https://en.wikipedia.org/wiki/Human_genome), the zygote's DNA can be described using less than 400 Megabytes. The central dogma  
-2. The raw data entering a brain before adulthood would need some orders of magnitude more storage space. But again, I argue it's more plausible than not that the _relevant_ data can be compressed to less than a few Gigabytes, if not less. For example, [this study](https://pubs.asha.org/doi/10.1044/2016_AJSLP-15-0169#T2) finds that a typical infant overhears on the order of 15 000 (English) words a day. Compressing the King James bible with LZMA yields a file that takes 1.35 bytes per word - extrapolating, one obtain 200 Megabytes of spoken English overheard before age 25. To give another estimate, a college student taking 4 classes a semester for 8 semesters, each of which is based on a 500-page book with 250 words per page, will have studied 4 million words of content while obtainig their degree.
-3. brain certainly takes in orders of magnitude more raw sensual data than that. But 
-4. The raw sensual data taken in during development of a brain . For comparison, it is estimated that A developing brain takes in 
-
-we will be able to tell 
-- a 
-
-This is 
-
+1. By the data on [human genome size](https://en.wikipedia.org/wiki/Human_genome), the human DNA can be described using less than 700 Megabytes.
+2. The raw data entering a brain before adulthood would need some orders of magnitude more storage space. But again, I argue it's more plausible than not that the _relevant_ data can be compressed to less than a few Gigabytes, if not less. [^3]
 
 # Breaking down the problem
+This concerns essentially all [arXiv quantitative biology subcategories](https://arxiv.org/archive/q-bio).
+
 - protein expression and formation of biochemical pathways,
   - neural differentiation - which types of neurons exist, and how stem cells decide which one to become,
   - arborization - how neurons decide how to branch out and connect to each other,
@@ -45,8 +39,12 @@ The goal of the talk is not to explain all of neuroscience and microbiology - it
   - how fast and (Moore-like) predictably we can expect these methods to improve,
   - and pointers to recent literature.
 
-This concerns essentially all [arXiv quantitative biology subcategories](https://arxiv.org/archive/q-bio).
+# Whom to ask?
+
+# What to ask?
 
 My plan is to ask people
 
 [^1]: The algorithm is typically described as having a random component - nevertheless, a simulation must typically return a working human brain if a typical embryo develops into a brain as well.
+
+[^3]:
