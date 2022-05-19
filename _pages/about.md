@@ -22,7 +22,7 @@ If I'm not working or reading, I am probably watching a movie.
 I am passionate about Nigeria, and Africa.
 
 ## Recent News
-**May 2022:** I will be attending *ICSE 2022* at Pittsburg, through an NSF-funded travel grant.
-**April 2022:** I won the *2022 Magoon Excellence in Teaching award*, from Purdue's college of engineering.
-**Feb 2022:** Our short paper, *"Experience paper: A first offering of Software Engineering"* just got accepted to *DREE 2022*
+- **May 2022:** I will be attending *ICSE 2022* at Pittsburg, through an NSF-funded travel grant.
+- **April 2022:** I won the *2022 Magoon Excellence in Teaching award*, from Purdue's college of engineering.
+- **Feb 2022:** Our short paper, *"Experience paper: A first offering of Software Engineering"* just got accepted to *DREE 2022*
 
