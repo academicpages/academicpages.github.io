@@ -9,6 +9,9 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 (<sup>\*</sup> indicates equal contribution. )
 
 # Conference Papers
+## 2022
+* **Selective Cross-city Transfer Learning for Traffic Prediction via Source City Region Re-weighting** <br>
+**Yilun Jin**, Kai Chen, Qiang Yang. <br> To appear in *the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2022
 
 ## 2021
 * **Theoretically Improving Graph Neural Networks via Anonymous Walk Graph Kernels** \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3442381.3449951)\]\[[code](https://github.com/YimiAChack/GSKN)\]\[[talk](https://www.youtube.com/watch?v=2jInnSxOP2A)\]<br>
