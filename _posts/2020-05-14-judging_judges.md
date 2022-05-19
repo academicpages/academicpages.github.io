@@ -41,7 +41,7 @@ Two years ago, when I was only looking at Judge Maura Slattery Boyle, I did this
 
 In retrospect, this approach wasn’t particularly elegant or effective. I didn’t want to do a simple linear regression because I was dealing with two dummy variables, and the distribution of the regression residuals wasn't even close to normal. My understanding then (and now, although I’d love if someone could walk me through this like I was 5) was that while non-normal residuals don’t violate the Gauss-Markov theorem, they did make it impossible to interpret the t statistics/p-values produced, and the p-value was all I really wanted.
 
-![boyle_3_qq](https://jaketg97.github.io/jaketg97/posts/2020-05-14-judging_judges_supplementaryfiles/boyle_3_qq.png)
+![boyle_3_qq](2020-05-14-judging_judges_supplementaryfiles/boyle_3_qq.png)
 *Look at how ugly these residuals are*
 
 Looking back now, I’ve had a change of heart for three reasons. 
@@ -69,7 +69,7 @@ I take the bootstrapping and logit results lining up with my OLS coefficients as
 
 *Bootstrapped regression output summary (coefficient is pretty much unchanged)*
 
-![bootstrap_graphs](https://jaketg97.github.io/jaketg97/posts/2020-05-14-judging_judges_supplementaryfiles/bootstrap_graphs.png)
+![bootstrap_graphs](2020-05-14-judging_judges_supplementaryfiles/bootstrap_graphs.png)
 *graphs of our coefficient distribution from the bootstrapped samples, showing a pretty neat bell curve around our estimated value*
 
 ## Conclusion/Next Steps
