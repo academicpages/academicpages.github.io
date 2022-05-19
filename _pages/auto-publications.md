@@ -11,13 +11,15 @@ Here are my current list of publications.
 
 I am working so hard to get this page populated with actual papers. Please, kindly check back in couple of months.
 
+
 ## Peer-reviewed short papers
 
 1. *Experience Paper: A First Offering of Software Engineering*.  
  J. Davis, **P. Amusuo**, and J. Bushagour.  
  ICSE-DREE 2022.  
  
- ## Posters
+ 
+## Posters
  
  1. *A Preliminary Study on the Characteristic and Detectability of Vulnerabilities in Real-Time Operating Systems*.  
  **P. Amusuo**, A. Machiry, J. Davis.  
