@@ -9,8 +9,8 @@ redirect_from:
   - /home.html
 ---
 
-Hi, I'm Paschal
-I'm a PhD student at Purdue University's school of Electrical and Computer Engineering, currently advised by [Prof Jamie Davis](https://davisjam.github.io/).
+Hi, I'm Paschal *(pas-kal)*.  
+I'm a PhD student at Purdue University's Elmore Family School of Electrical and Computer Engineering, currently advised by [Prof Jamie Davis](https://davisjam.github.io/).
 
 ## Research Interests
 My research sits at the intersection of software engineering, security and cyber-physical systems. I work to improve the security and safety of embedded systems, through well-engineered software.
@@ -18,7 +18,7 @@ My research sits at the intersection of software engineering, security and cyber
 ## Personal
 Fun facts about me
 - I love discussing politics, startups and strategies. 
-- I enjoy travelling and car trips. I can hardly resist the invitation to visit a new city.
+- I can hardly resist an invitation to join a road trip or visit a new city.
 - If I'm not working or reading, I am probably watching a movie.
 - I am scared of heights 😩.
 - I am passionate about Nigeria, and Africa.
