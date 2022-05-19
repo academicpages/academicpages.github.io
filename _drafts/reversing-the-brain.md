@@ -25,9 +25,12 @@ I argue that, most likely, the greatest part of both of these "sufficiently accu
 1. By the data on [human genome size](https://en.wikipedia.org/wiki/Human_genome), the human DNA can be described using less than 700 Megabytes.
 2. The raw data entering a brain before adulthood would need some orders of magnitude more storage space. But again, I argue it's more plausible than not that the _relevant_ data can be compressed to less than a few Gigabytes, if not less. [^3]
 
+
 # Breaking down the problem
 This concerns essentially all [arXiv quantitative biology subcategories](https://arxiv.org/archive/q-bio).
 
+Consider a fresh zygote in a womb, about to develop into a human containing a brain.
+1. Th
 - protein expression and formation of biochemical pathways,
   - neural differentiation - which types of neurons exist, and how stem cells decide which one to become,
   - arborization - how neurons decide how to branch out and connect to each other,
