@@ -20,10 +20,10 @@ A basic goal of neuroscience is to understand a human brain's development and ac
 1. a human zygote, and
 2. the environment in which that zygote develops into an adult human, inside and outside the womb.
 
-I argue that, most likely, the greatest part of both of these "sufficiently accurate descriptions" exist today - and that a smartphone has enough memory to store them:
+I argue that, most likely, the greatest part of both of these "sufficiently accurate descriptions" exist today - and that a smartphone has enough memory to store them. This is in particular true if one ignores.
 
-1. By the data on [human genome size](https://en.wikipedia.org/wiki/Human_genome), the human DNA can be described using less than 700 Megabytes.
-2. Compiling various raw data entering a brain before adulthood would need some orders of magnitude more storage space. But again, I argue it's more plausible than not that the _relevant_ data can be compressed to less than a few Gigabytes, if not less. [^3]
+1. By the data on [human genome size](https://en.wikipedia.org/wiki/Human_genome), one can describe human DNA using less than 700 Megabytes. In fact, it is generally believed that not more than about 10 % of this DNA contains relevant information - the rest, called _junk DNA_, doesn't have a positive or negative effect on the organism's fitness. It is not clear whether, or how much, data is needed to save to understand the rest [^2]
+2. Similarly, a human hears a few hundred Megabytes words worth of spoken language before they turn 25. In that timefrime raw visual data arriving in a brain is bigger - but congenitally blind people don't receive these, and end up with brains [just as impressive](https://research.gold.ac.uk/id/eprint/5415/1/Pring_&_Tadic_CBMPD_VI_Nassr.pdf) as those of anyone else. So, while A few megabytes are enough to encode the study material for a college degree. [^3]
 
 
 # Breaking down the problem
