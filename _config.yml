@@ -14,7 +14,7 @@ description              : "graduate student"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cjwardius/cjwardius.cjwardius.github.io"
-teaser                   : "IMG_1214.jpeg"
+teaser                   : 
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author: "Collin J Wardius"
   name             : "Collin J Wardius"
-  avatar           : "profile.png"
+  avatar           : 
   bio              : "Econ graduate student at UC San Diego"
   location         : "La Jolla, CA"
   employer         :
