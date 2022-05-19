@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author: 
   name             : "Collin J Wardius"
-  avatar           : "IMG_1214.jpeg"
+  avatar           : null
   bio              : "Econ graduate student at UC San Diego"
   location         : "La Jolla, CA"
   employer         :
