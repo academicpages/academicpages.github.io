@@ -16,10 +16,12 @@ I'm a PhD student at Purdue University's school of Electrical and Computer Engin
 My research sits at the intersection of software engineering, security and cyber-physical systems. I work to improve the security and safety of embedded systems, through well-engineered software.
 
 ## Personal
-I love discussing politics, startups and strategies. 
-I love travelling and car trips. I can hardly resist the urge to visit a new city.
-If I'm not working or reading, I am probably watching a movie.
-I am passionate about Nigeria, and Africa.
+Fun facts about me
+- I love discussing politics, startups and strategies. 
+- I enjoy travelling and car trips. I can hardly resist the invitation to visit a new city.
+- If I'm not working or reading, I am probably watching a movie.
+- I am scared of heights 😩.
+- I am passionate about Nigeria, and Africa.
 
 ## Recent News
 - **May 2022:** I will be attending *ICSE 2022* at Pittsburg, through an NSF-funded travel grant.
