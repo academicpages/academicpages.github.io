@@ -42,7 +42,7 @@ News
 
 \[January 2020\] Two papers accepted at **TheWebConf 2020** (Short Paper) and **ECAI 2020**. 
 
-\[November 2019\] GraLSP is accepted at AAAI 2020 \[[Paper](https://aaai.org/ojs/index.php/AAAI/article/view/5861)\]. Congratulations!
+\[November 2019\] GraLSP is accepted at **AAAI 2020** \[[Paper](https://aaai.org/ojs/index.php/AAAI/article/view/5861)\]. Congratulations!
 
 Miscellaneous
 ======
