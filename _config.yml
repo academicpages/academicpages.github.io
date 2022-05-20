@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jeongwon Choi"
 title_separator          : "-"
 name                     : "Jeongwon Choi"
-description              : "Ph.D. Student at Vanderbilt University"
+description              : "Incoming Ph.D. Student at Vanderbilt University"
 url                      : "https://choi-jeongwon.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "choi-jeongwon.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jeongwon Choi"
   avatar           : "profile.png"
-  bio              : "Ph.D student at Vanderbilt University - studying quantitative methods"
+  bio              : "Incoming Ph.D student at Vanderbilt University"
   location         : "Seoul, South Korea"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
