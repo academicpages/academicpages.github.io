@@ -15,28 +15,21 @@ tags:
 I will reach out to biologists to understand the status, progress and experimental methods regarding all areas relevant to [mind uploading](https://en.wikipedia.org/wiki/Mind_uploading) and reproducing a human brain's algorithm in a computer.
 
 # More details
-Imagine we understand, from the smallest scales up, how a human brain works and develops. So we know
+Imagine we understand, from the smallest scales up, how the cells in a human brain work and develop
 
 1. q-bio.GN: the cells' DNA and whatever further (e.g. [epigenetic](https://en.wikipedia.org/wiki/Epigenetics)) information needed to describe them to sufficient accuracy,
 2. q-bio.BM: the structure and interaction parameters of the chemicals contained in the cells. In particular, we know not only how the cell's proteins fold, but also what chemical reactions they are involved in, and the reaction speeds,
 3. q-bio.MN: the "control logic" in each cell, determining when which new proteins get expressed and activated.
-4. cell differentation and morphogenesis: What types of cells exist, the control logic determining which type a certain cell develops into, and the how they decide 
-5. arborization: The algorithm by which neurons decide to branch out and connect with each other
-6. neuron-level activity: A description of a neuron's
-7. 
+4. cell differentation and morphogenesis: What types of cells exist, the control logic determining which type a cell in a certain part of the body develops into,
+5. arborization: How a neuron decides where to branch out and connect to other neurons,
+6. plasticity: The effective algorithm determining how neuron's connection strength change based on stimuli,
+7. neuron-level activity: A sufficient description of a neuron's internal parameters that allow to simulate its electrical and chemical output,
+8. larger-scale activity: Understanding to what extent it is possible to average over several neuron's behaviour and preserve the brain's computational power,
+9. overarching design principles.
 
-From this, we have derived
-3. how 
-3. How neural cells differentiate
-  - neural differentiation - which types of neurons exist, and how stem cells decide which one to become,
-  - arborization - how neurons decide how to branch out and connect to each other,
+Particularly concerning the first seven points, we have a _basic idea_ what we would need to do. What . Furthermore, to my limited understanding, one can often find that gathering this data becomes exponentially cheaper with time.
 
-
-  - neuron-level activity - how to model 
-  - synaptic plasticity,
-
-
-  - and overarching design principles.
+So this is what I set out to do: Find experts to ask, ask them questions, and then condense this into small overviews about how far we are away from getting "sufficient data" on each level.
 
 All of these
 The goal of the talk is not to explain all of neuroscience and microbiology - it is to give, for each level, a rough understanding of
