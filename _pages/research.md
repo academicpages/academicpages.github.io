@@ -16,7 +16,7 @@ Human-like signatures of contour integration in deep neural networks
 <img src="https://feziodoshi.github.io/images/contour_integration_3.png" alt="drawing" style="width:100%;"/>
 
 
-<img src="https://feziodoshi.github.io/images/contour_integration_1.png" alt="drawing" style="height:70%;"/>
+<img src="https://feziodoshi.github.io/images/contour_integration_1.png" alt="drawing" style="height:100%;"/>
 
 <!-- <img src="https://feziodoshi.github.io/images/contour_integration_2.png" alt="drawing" style="width:100%;"/> -->
 
