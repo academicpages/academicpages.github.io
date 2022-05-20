@@ -22,7 +22,7 @@ redirect_from:
 
 ## Under Review, Revise and Resubmit, Submitted
 
-- Hector Bahamonde and Andrea Canales. "Electoral Risk and Vote Buying, Introducing Prospect Theory in the Experimental Study of Clientelism." Revise and Resubmit, *Electoral Studies*. <br/> [[Abstract]](https://github.com/hbahamonde/Economic_Experiment_Vote_Selling/raw/master/abstract.txt)
+- Hector Bahamonde and Andrea Canales. "Electoral Risk and Vote Buying, Introducing Prospect Theory to the Experimental Study of Clientelism." Revise and Resubmit, *Electoral Studies*. <br/> [[Abstract]](https://github.com/hbahamonde/Economic_Experiment_Vote_Selling/raw/master/abstract.txt)
 
 ## In Preparation
 
