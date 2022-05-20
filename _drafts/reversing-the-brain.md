@@ -15,12 +15,16 @@ tags:
 I will reach out to biologists to understand the status, progress and experimental methods regarding all areas relevant to [mind uploading](https://en.wikipedia.org/wiki/Mind_uploading) and reproducing a human brain's algorithm in a computer.
 
 # More details
-Human neuroscience is concerned with understanding how a human's brain develops and works. Various parts of this task quite closely to [arXiv quantitative biology subcategories](https://arxiv.org/archive/q-bio):
+Imagine we understand, from the smallest scales up, everything about how an adult human brain develops and works from a zygote. So we know
 
-1. The brain starts out being a zygote in a womb; we need to determine its DNA and all other data relevant to simulating it (i.e. which proteins surround that DNA).
-2. Some part of the DNA - [less than 2 % in humans](https://en.wikipedia.org/wiki/Human_genome) - encodes proteins. In as far as they are relevant to the brain, we need to understand how the finished proteins look like, what chemical reactions they are involved in, and the reaction rates.
-3. This is enough for 
-- protein expression and formation of biochemical pathways,
+1. q-bio.GN: the zygote's DNA and whatever further (e.g. [epigenetic](https://en.wikipedia.org/wiki/Epigenetics)) information needed to describe it to sufficient accuracy,
+2. q-bio.BM: the structure and interaction parameters of the chemicals in the zygote - and the cells it develops into. In particular, we know not only how the cell's proteins fold, but also what chemical reactions and speeds they are involved in.
+3. Cell differentiation: How the zygote turns into a human-shaped mass of cells
+4. 
+
+From this, we have derived
+3. how 
+3. How neural cells differentiate
   - neural differentiation - which types of neurons exist, and how stem cells decide which one to become,
   - arborization - how neurons decide how to branch out and connect to each other,
 
