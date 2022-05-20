@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * M.Ed. in Educational Measurement and Statistics, Korea Uniersity, 2018 - 2020
 * B.S. in Mathematics Education, Ewha Womans University, 2014 - 2018
+
 
 Publications
 ======
@@ -32,16 +34,18 @@ Presentations
 * Jeon, H., Lee, C., & Choi, J. (2019). Job expectation trajectories of the elderly and their relationships with social activity participation and personal factors. Korea Employment Information Service, 2019 Conference of Employment Panel Survey
 * Jeon, H. & Choi, J. (2018). Meticulous analysis of the effects of smartphone dependence, with focus on happiness index, sociability, and delinquency among adolescents. The Korean Association for Survey Research, 2018 Fall Conference
 
+
 Awards
 ======
-* 2020.	3rd Award in Graduate Student Research Competition, Korea Youth Research Association
+* 3rd Award in Graduate Student Research Competition, Korea Youth Research Association (2020)
 	* (Title: A study on the relationship between smartphone usage types and smartphone dependency of elementary school students – Focusing on contact and SNS use)
-* 2019.	2nd Award in Graduate Student Research Competition, Korea Employment Information Service
+* 2nd Award in Graduate Student Research Competition, Korea Employment Information Service (2019)
 	* (Title: Job expectation trajectories of the elderly and their relationships with participation in social activities and personal factors)
-* 2018.	1st Award in Graduate Student Research Competition, The Korean Association for Survey Research
+* 1st Award in Graduate Student Research Competition, The Korean Association for Survey Research (2018)
 	* (Title: Meticulous analysis of the effects of smartphone dependence, with focus on happiness index, sociability, and delinquency among adolescents - comparison of 2015 and 2018 using Multigroup analysis)
-* 2017.	2nd Student Lifelong Education Program Development Award, Seoul Senior Welfare Center
+* 2nd Student Lifelong Education Program Development Award, Seoul Senior Welfare Center (2017)
 	* (Title: Math education program for the elderly, combining arts and games)
+
 
 Work experience
 ======
@@ -56,6 +60,7 @@ Work experience
 * Aug 2020 - May 2021: Admission Officer
   * Sungkyunkwan University, Seoul, Korea
   * Duties included: Application Assessments, Admission Data Analysis
+
 
 Certifications
 ======
