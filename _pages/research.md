@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## Mechanisms of Contour Integration: 
+Collaborators: [Talia Konkle](http://konklab.fas.harvard.edu/) and [George Alvarez](https://scorsese.wjh.harvard.edu/George/)
 
 Human-like signatures of contour integration in deep neural networks
 * Doshi, F., Konkle, T., & Alvarez, G.A. (2021). *Human-like signatures of contour integration in deep neural networks*. Talk presented at the Vision Sciences Society 2022 Conference
