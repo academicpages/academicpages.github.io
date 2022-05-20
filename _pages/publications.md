@@ -21,7 +21,7 @@ author_profile: true
 
 
 ## Conference Papers
-<b>[G-Mixup: Graph  Augmentation  for  GraphClassification](??)
+<b>[G-Mixup: Graph  Augmentation  for  Graph Classification](https://arxiv.org/abs/2202.07179)
 </b><br>Xiaotian Han, <b>Zhimeng Jiang</b>, Ninghao Liu, and Xia Hu. <br>
 In International Conference on Machine Learning (**ICML**), 2022 (**Long Presentation**)
 
