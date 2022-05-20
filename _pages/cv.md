@@ -32,5 +32,5 @@ Publications
 Service
 ======
 * Reviewer:
-  * Journals: Information Fusion, NeuralComputing, Affective Computing
+  * Journals: Information Fusion, NeuralComputing, Affective Computing, TCVST
   * Conferences
