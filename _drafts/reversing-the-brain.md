@@ -15,12 +15,15 @@ tags:
 I will reach out to biologists to understand the status, progress and experimental methods regarding all areas relevant to [mind uploading](https://en.wikipedia.org/wiki/Mind_uploading) and reproducing a human brain's algorithm in a computer.
 
 # More details
-Imagine we understand, from the smallest scales up, everything about how an adult human brain develops and works from a zygote. So we know
+Imagine we understand, from the smallest scales up, how a human brain works and develops. So we know
 
-1. q-bio.GN: the zygote's DNA and whatever further (e.g. [epigenetic](https://en.wikipedia.org/wiki/Epigenetics)) information needed to describe it to sufficient accuracy,
-2. q-bio.BM: the structure and interaction parameters of the chemicals in the zygote - and the cells it develops into. In particular, we know not only how the cell's proteins fold, but also what chemical reactions and speeds they are involved in.
-3. Cell differentiation: How the zygote turns into a human-shaped mass of cells
-4. 
+1. q-bio.GN: the cells' DNA and whatever further (e.g. [epigenetic](https://en.wikipedia.org/wiki/Epigenetics)) information needed to describe them to sufficient accuracy,
+2. q-bio.BM: the structure and interaction parameters of the chemicals contained in the cells. In particular, we know not only how the cell's proteins fold, but also what chemical reactions they are involved in, and the reaction speeds,
+3. q-bio.MN: the "control logic" in each cell, determining when which new proteins get expressed and activated.
+4. cell differentation and morphogenesis: What types of cells exist, the control logic determining which type a certain cell develops into, and the how they decide 
+5. arborization: The algorithm by which neurons decide to branch out and connect with each other
+6. neuron-level activity: A description of a neuron's
+7. 
 
 From this, we have derived
 3. how 
