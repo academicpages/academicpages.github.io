@@ -12,13 +12,13 @@ redirect_from:
 
 Education
 ======
-* M.Ed. in Educational Measurement and Statistics, Korea Uniersity, 2018 - 2020
-* B.S. in Mathematics Education, Ewha Womans University, 2014 - 2018
+* M.Ed. in Educational Measurement and Statistics, Korea Uniersity, Seoul, Korea. 2018 - 2020
+* B.S. in Mathematics Education, Ewha Womans University, Seoul, Korea. 2014 - 2018
 
 
 Publications
 ======
-* Choi, J. & Hong. S. (2022). Impact of imposing equality constraints on residual variances across classes in regression mixture models. Frontiers in Psychology-Quantitative Psychology and Measurement Section.
+* Choi, J. & Hong. S. (2022). Impact of imposing equality constraints on residual variances across classes in regression mixture models. Front. Psychol. 12:736132.
 * Lee, J. & Choi, J. (2021). A study on the level of use on the alignment with curriculum-instruction-evaluation-record and self-evaluation of secondary school teachers. Journal of Learner-Centered Curriculum and Instruction, 21(10), 167-187.
 * Choi, J. & Lee, J. (2020). An analysis of middle and high school teachers' stages of concern in integration of curriculum-instruction-evaluation-records. Journal of Learner-Centered Curriculum and Instruction, 20(20), 439-457.
 * Choi, J., Oh, H., & Hong, S. (2020). The mediating effect between self-efficacy, happiness, and job satisfaction of wage workers with disabilities and the moderated mediating effect of work disruption due to disability. Journal of Vocational Rehabilitation, 30(2), 209-228.
