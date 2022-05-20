@@ -18,7 +18,7 @@ News
 ======
 \[May 2022\] CrossTReS is accepted at **KDD 2022**. Congratulations!
 
-\[March 2022\] Invited to serve as a Reviewer for **NeurIPS 2022**. 
+\[March 2022\] Invited to serve as a Reviewer for **NeurIPS 2022** and its **Datasets and Benchmarks Track**. 
 
 \[February 2022\] Invited to serve as a Reviewer for **[TMLR](https://www.jmlr.org/tmlr/)**.
 
@@ -42,7 +42,7 @@ News
 
 \[January 2020\] Two papers accepted at **TheWebConf 2020** (Short Paper) and **ECAI 2020**. 
 
-\[November 2019\] Our paper **GraLSP: Graph Neural Networks with Local Structural Patterns** is accepted at AAAI 2020 \[[Paper](https://aaai.org/ojs/index.php/AAAI/article/view/5861)\]!
+\[November 2019\] GraLSP is accepted at AAAI 2020 \[[Paper](https://aaai.org/ojs/index.php/AAAI/article/view/5861)\]. Congratulations!
 
 Miscellaneous
 ======
