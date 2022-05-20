@@ -23,15 +23,15 @@ author_profile: true
 ## Conference Papers
 <b>[G-Mixup: Graph  Augmentation  for  Graph Classification](https://arxiv.org/abs/2202.07179)
 </b><br>Xiaotian Han, <b>Zhimeng Jiang</b>, Ninghao Liu, and Xia Hu. <br>
-In International Conference on Machine Learning (**ICML**), 2022 (**Long Presentation**)
+International Conference on Machine Learning (**ICML**), 2022 (**Long Presentation**)
 
 <b>[An Information Fusion Approach to Learning with Instance-Dependent Label Noise](??)
 </b><br><b>Zhimeng Jiang</b>, Kaixiong Zhou, Zirui Liu, Li Li, Rui Chen, Soo-Hyun Choi, and Xia Hu.  <br>
-In Proceedings of International Conference on Learning Representations (**ICLR**), 2022
+International Conference on Learning Representations (**ICLR**), 2022
 
 <b>[Generalized Demographic Parity for Group Fairness](??)
 </b><br><b>Zhimeng Jiang</b>, Xiaotian Han, Chao Fan, Fan Yang, Ali Mostafavi, and Xia Hu. <br> 
-In Proceedings of International Conference on Learning Representations (**ICLR**), 2022
+International Conference on Learning Representations (**ICLR**), 2022
 
 <b>[Geometric Graph Representation Learning via Maximizing Rate Reduction](??)
 </b><br>Xiaotian Han, <b>Zhimeng Jiang</b>, Ninghao Liu, Qingquan Song, Jundong Li, and Xia Hu. <br>
