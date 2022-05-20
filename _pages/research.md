@@ -7,6 +7,15 @@ redirect_from:
   - /publications
 ---
 
+## Mechanisms of Contour Integration: 
+
+Human-like signatures of contour integration in deep neural networks
+* Doshi, F., & Alvarez, G.A. (2021). *Human-like signatures of contour integration in deep neural networks*. Talk presented at VSS 2022
+
+<img src="https://feziodoshi.github.io/images/contour_integration_0.png" alt="drawing" style="width:100%;"/>
+
+
+
 ## A computational account of topography in the occipitotemporal cortex: 
 Collaborators: [Talia Konkle](http://konklab.fas.harvard.edu/)
 
