@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>[A General Recipe for Likelihood-free Bayesian Optimization](http://lantaoyu.com/publications/LFBO)</b> <br> 
+<b>Jiaming Song<b>\*</b>, Lantao Yu</b><b>\*</b> (equal contribution), Willie Neiswanger, Stefano Ermon.
+<i>The 39th International Conference on Machine Learning</i>. <b>ICML 2022</b>. <b><span style="color:red">(Long Oral, Top 2.2%)</span></b>
+
 <b>[GeoDiff: A Geometric Diffusion Model for Molecular Conformation Generation](http://lantaoyu.com/publications/GeoDiff)</b> <br> 
 Minkai Xu, <b>Lantao Yu</b>, Yang Song, Chence Shi, Stefano Ermon, Jian Tang.
 <i>The Tenth International Conference on Learning Representations</i>. <b>ICLR 2022</b>. <b><span style="color:red">(Oral Presentation)</span></b>
