@@ -6,6 +6,6 @@ excerpt: ''
 date: 2018-02-01
 venue: 'Evolution & Development'
 paperurl: 'https://doi.org/10.1111/ede.12246'
-citation: 'Strelin M, Benitez-Vieyra S, Fornoni J, Klingenberg CP, Cocucci AA. 2018. The evolution of floral ontogenetic allometry in the Andean genus <i>Caiophora</i> (Loasaceae, subfam. Loasoideae). <i>Evolution & Development</i> 20: 29-39.'
+citation: 'Strelin M, Benitez-Vieyra S, Fornoni J, Klingenberg CP, Cocucci AA. 2018. The evolution of floral ontogenetic allometry in the Andean genus <i>Caiophora</i> (Loasaceae, subfam. Loasoideae). <i>Evolution & Development</i> 20(1): 29-39.'
 ---
 
