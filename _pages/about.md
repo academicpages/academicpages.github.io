@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal website!"
+title: "The Research Garden"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
