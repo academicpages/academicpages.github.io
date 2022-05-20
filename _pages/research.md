@@ -15,6 +15,9 @@ Human-like signatures of contour integration in deep neural networks
 <img src="https://feziodoshi.github.io/images/contour_integration_0.png" alt="drawing" style="width:100%;"/>
 
 
+<img src="https://feziodoshi.github.io/images/contour_integration_1.png" alt="drawing" style="width:100%;"/>
+
+
 
 ## A computational account of topography in the occipitotemporal cortex: 
 Collaborators: [Talia Konkle](http://konklab.fas.harvard.edu/)
