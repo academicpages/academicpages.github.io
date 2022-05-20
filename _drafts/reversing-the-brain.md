@@ -15,11 +15,9 @@ tags:
 I will reach out to biologists to understand the status, progress and experimental methods regarding all areas relevant to [mind uploading](https://en.wikipedia.org/wiki/Mind_uploading) and reproducing a human brain's algorithm in a computer.
 
 # More details
-Imagine we understand, from the smallest scales up, how the cells in a human brain work and develop
-
-1. q-bio.GN: the cells' DNA and whatever further (e.g. [epigenetic](https://en.wikipedia.org/wiki/Epigenetics)) information needed to describe them to sufficient accuracy,
-2. q-bio.BM: the structure and interaction parameters of the chemicals contained in the cells. In particular, we know not only how the cell's proteins fold, but also what chemical reactions they are involved in, and the reaction speeds,
-3. q-bio.MN: the "control logic" in each cell, determining when which new proteins get expressed and activated.
+1. The cells' DNA and whatever further (e.g. [epigenetic](https://en.wikipedia.org/wiki/Epigenetics)) information needed to describe them to sufficient accuracy,
+2. the structure and interaction parameters of the chemicals contained in the cells. In particular, we know not only how the cell's proteins fold, but also what chemical reactions they are involved in, and the reaction speeds,
+3. the "control logic" in each cell, determining when which new proteins get expressed and activated.
 4. cell differentation and morphogenesis: What types of cells exist, the control logic determining which type a cell in a certain part of the body develops into,
 5. arborization: How a neuron decides where to branch out and connect to other neurons,
 6. plasticity: The effective algorithm determining how neuron's connection strength change based on stimuli,
@@ -66,7 +64,7 @@ Assuming [170](https://www.wolframalpha.com/input?i=%2810*24-%284%2F12*15.5%2B8%
 
 In conclusion, the _algorithm_ that describes the human brain probably fits in a few megabytes at most
 
-# Whom to ask?
+# Next: Whom to ask?
 
 # What to ask?
 
