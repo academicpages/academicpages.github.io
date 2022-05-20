@@ -9,6 +9,6 @@ paperurl: 'https://www.frontiersin.org/articles/10.3389/fpsyg.2021.736132/full'
 citation: 'Choi J and Hong S (2022) The Impact of Imposing Equality Constraints on Residual Variances Across Classes in Regression Mixture Models. Front. Psychol. 12:736132. doi: 10.3389/fpsyg.2021.736132'
 ---
 
-[Download paper here](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.736132/full)
+[Download paper here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8829145/pdf/fpsyg-12-736132.pdf)
 
 Recommended citation: Choi J and Hong S (2022) The Impact of Imposing Equality Constraints on Residual Variances Across Classes in Regression Mixture Models. Front. Psychol. 12:736132. doi: 10.3389/fpsyg.2021.736132
