@@ -27,20 +27,18 @@ Imagine we understand, from the smallest scales up, how the cells in a human bra
 8. larger-scale activity: Understanding to what extent it is possible to average over several neuron's behaviour and preserve the brain's computational power,
 9. overarching design principles.
 
-Particularly concerning the first seven points, we have a _basic idea_ what we would need to do. What . Furthermore, to my limited understanding, one can often find that gathering this data becomes exponentially cheaper with time.
+Particularly concerning the first seven points, we have a _basic idea_ what we would need to do. What . Furthermore, to my limited understanding, one can often find that gathering this data becomes exponentially cheaper with time. Just like Moore's law allowed one to predict the development of IT many years in advance, predictions of when science has "solved" some points in the above enumeration may be possible.
 
-So this is what I set out to do: Find experts to ask, ask them questions, and then condense this into small overviews about how far we are away from getting "sufficient data" on each level.
+But as I understand, the knowledge about the state of each field is quite scattered. So I'd like to find experts for each subfield and interview them regarding these questions - and turn these into short reports, tables, and predictions.
 
-All of these
 # What to ask?
-The basic questions for all these levels are similar:
-  - How much data would we need to gather to "solve" the problem? How sure are we about this quantity
-  - What experimental and computational methods exist? How fast - and predictably - does the field progress? Can we draw a nice Moore's law-like graph showing exponentially declining costs per unit of information?
-  - What is the reason for that progress, i.e. what is changing in the wider world of engineering that allows new methods to be used?
-  - How many people-hours and USD are devoted to the field, and how does this change?
-- the amount of yet-unknown data and insight versus the capabilities of current experimental methods,
-  - how fast and (Moore-like) predictably we can expect these methods to improve?
-  - Where does the 
+The basic questions I'd like to understand for all these levels are similar:
+  - How much data would we need to gather to "solve" the problem? How sure are we about this quantity?
+  - What experimental and computational methods exist, and how expensive is it to gather data with them? How fast - and predictably - do these progress? Can we draw a nice Moore's law-like graph showing exponentially declining costs per unit of information?
+  - What is the reason for that progress, i.e. what is changing in the wider world of engineering that allowed the introduction of new methods? What are obstacles to further progress?
+  - How many people-hours and USD per year are devoted to the field, and how does this change?
+  - Once we understood biology "completely" at this level of abstraction, what computational power do you expect to be necessary to reproduce it with an accuracy sufficient to reproduce the brain's abilities?
+  - of course, some space for further remarks.
 
 # Whom to ask?
 
