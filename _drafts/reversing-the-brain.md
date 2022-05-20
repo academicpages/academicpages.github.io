@@ -32,10 +32,17 @@ Particularly concerning the first seven points, we have a _basic idea_ what we w
 So this is what I set out to do: Find experts to ask, ask them questions, and then condense this into small overviews about how far we are away from getting "sufficient data" on each level.
 
 All of these
-The goal of the talk is not to explain all of neuroscience and microbiology - it is to give, for each level, a rough understanding of
-  - the amount of yet-unknown data and insight versus the capabilities of current experimental methods,
-  - how fast and (Moore-like) predictably we can expect these methods to improve,
-  - and pointers to recent literature.
+# What to ask?
+The basic questions for all these levels are similar:
+  - How much data would we need to gather to "solve" the problem? How sure are we about this quantity
+  - What experimental and computational methods exist? How fast - and predictably - does the field progress? Can we draw a nice Moore's law-like graph showing exponentially declining costs per unit of information?
+  - What is the reason for that progress, i.e. what is changing in the wider world of engineering that allows new methods to be used?
+  - How many people-hours and USD are devoted to the field, and how does this change?
+- the amount of yet-unknown data and insight versus the capabilities of current experimental methods,
+  - how fast and (Moore-like) predictably we can expect these methods to improve?
+  - Where does the 
+
+# Whom to ask?
 
 
 Understanding this at the various scales corresponds to the :
@@ -48,7 +55,7 @@ On an atomic scale, the brain is described by known quantum-mechanical principle
 1. a human zygote, and
 2. the environment in which that zygote develops into an adult human, inside and outside the womb.
 
-The amount of information in these "sufficiently accurate descriptions" upper-bounds the information needed to describe a functional adult human brain (when ignoring pseudorandom character traits). I argue that obtaining them is mostly a solved problem today, and the quantity
+The amount of information in these "sufficiently accurate descriptions" upper-bounds the information needed to describe a functional adult human brain (ignoring randomness and pseudorandomness as well as the computation needed to obtain a readily usable description). I argue that obtaining them is mostly a solved problem today, and the quantity
 
 1. By the data on [human genome size](https://en.wikipedia.org/wiki/Human_genome), storing the human genome requires less than 700 megabytes. In fact, it is generally believed that not more than about 10 % of this DNA contains relevant information - the rest, called _junk DNA_, doesn't have a positive or negative effect on the organism's fitness. [^20] It is not clear how much relevant data is encoded differently (e.g. in the [epigenome](https://en.wikipedia.org/wiki/Epigenome), but it seems fair to me to assume it's not a higher order of magnitude than the DNA.
 3. Similarly, a human hears a few hundred megabytes worth of language before they turn 25 (and, according to many parents, most of this doesn't change their mind); a few megabytes are enough to encode a college degree's worth of study material. [^30] Their brain also develops Their brain will also develop based on world-modelling they obtain from other senses
