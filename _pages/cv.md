@@ -51,11 +51,11 @@ Work experience
 ======
 * June 2021 - March 2022: Administrative Staff
   * Korea University, Sejong, Korea
-  * Duties included: Admission Data Analysis & General Administration
+  * Duties included: Admission Data Analysis, General Administration
 
 * Apr 2021 - May 2021: Research Executive
   * Kantar Korea (Public Division), Seoul, Korea
-  * Duties included: Statistical Reports Writing/Data Analysis of National Panel Surveys
+  * Duties included: Statistical Reports Writing, Data Analysis of National Panel Surveys
   
 * Aug 2020 - May 2021: Admission Officer
   * Sungkyunkwan University, Seoul, Korea
