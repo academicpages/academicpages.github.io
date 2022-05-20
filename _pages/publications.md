@@ -11,7 +11,7 @@ author_profile: true
   
  * <b>Semi-Supervised Medical Image Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
   <b>Xiangde Luo</b>, Guotai Wang, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Dimitris N. Metaxas, Shaoting Zhang<br>
-  <i>Submitted to Medical Image Analysis (Under Major Revision, extend from [MICCAI2021](https://arxiv.org/pdf/2012.07042.pdf))<br>
+  <i>Submitted to Medical Image Analysis (Under Minor Revision, extend from [MICCAI2021](https://arxiv.org/pdf/2012.07042.pdf))<br>
  [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
  
 **Journals**
