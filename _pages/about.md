@@ -20,11 +20,19 @@ redirect_from:
 
 News
 =====
+**May. 2022:** Thrilled to start my summer internship at Visa Research, work with [Dr. Huiyuan Chen](https://usa.visa.com/about-visa/visa-research/huiyuan-chen.html) and [Dr. Hao Yang](https://usa.visa.com/about-visa/visa-research/hao-yang.html).
+
+**May. 2022:** Our paper on G-mixup is accepted by ICML 2022 (Long Presentation)!
+
+**Mar. 2022:** Invited to serve as a PC member of NeurIPS 2022.
+
 **Feb. 2022:** Our real-time object detection based on MAX78000 for edge devices has been released! [[Video](https://www.youtube.com/watch?v=cFR1IYRFal8)] [[Paper](https://arxiv.org/abs/2202.07503)] [[Code](https://github.com/datamllab/BED_main)]
 
 **Jan. 2022:** Two papers are accepted by ICLR 2022, [[Label noise](https://openreview.net/forum?id=ecH2FKaARUp)] and [[Generalized Demographic Parity](https://openreview.net/forum?id=YigKlMJwjye)]!
 
-**Jan. 2022:** Our paper on Geometric Graph Representation Learning is accepted by The Web Conference (WWW) 2022!
+**Jan. 2022:** Invited to serve as a PC member of ICML 2022.
+
+**Jan. 2022:** Our paper on Geometric Graph Representation Learning is accepted by WWW 2022!
 
 **May. 2020:** Thrilled to start my summer internship at Samsung Research America Ads AI team, supervised by [Dr. Li Li](https://scholar.google.com/citations?user=FPcI7HkAAAAJ&hl=en) and [Dr. Rui Chen](https://scholar.google.com/citations?user=ngVttWUAAAAJ&hl=en).
 

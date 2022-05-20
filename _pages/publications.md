@@ -12,9 +12,6 @@ author_profile: true
 <b>[FMP: Toward Fair Graph Message Passing against Topology Bias](https://arxiv.org/abs/2202.04187)
 </b><br><b>Zhimeng Jiang</b>, Xiaotian Han, Chao Fan, Zirui Liu, Zou Na, Ali Mostafavi and Xia Hu.
 
-<b>[G-Mixup: Graph  Augmentation  for  GraphClassification](??)
-</b><br>Xiaotian Han, <b>Zhimeng Jiang</b>, Ninghao Liu, and Xia Hu. 
-
 <b>[BED: A Real-Time Object Detection System for Edge Devices.](https://arxiv.org/abs/2202.07503)
 </b><br>Guanchu Wang\*, Zaid Pervaiz Bhat\*, <b>Zhimeng Jiang\*</b>, Yi-Wei Chen\*, Daochen Zha\*, Alfredo Costilla Reyes*, Afshin Niktash, Gorkem Ulkar, Erman Okman, Xia Hu
 
@@ -24,6 +21,10 @@ author_profile: true
 
 
 ## Conference Papers
+<b>[G-Mixup: Graph  Augmentation  for  GraphClassification](??)
+</b><br>Xiaotian Han, <b>Zhimeng Jiang</b>, Ninghao Liu, and Xia Hu. 
+In International Conference on Machine Learning (**ICML**), 2022 (**Long Presentation**)
+
 <b>[An Information Fusion Approach to Learning with Instance-Dependent Label Noise](??)
 </b><br><b>Zhimeng Jiang</b>, Kaixiong Zhou, Zirui Liu, Li Li, Rui Chen, Soo-Hyun Choi, and Xia Hu.  <br>
 In Proceedings of International Conference on Learning Representations (**ICLR**), 2022
