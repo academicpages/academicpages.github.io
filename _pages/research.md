@@ -10,9 +10,9 @@ redirect_from:
 ## Mechanisms of Contour Integration: 
 
 Human-like signatures of contour integration in deep neural networks
-* Doshi, F., & Alvarez, G.A. (2021). *Human-like signatures of contour integration in deep neural networks*. Talk presented at VSS 2022
+* Doshi, F., & Alvarez, G.A. (2021). *Human-like signatures of contour integration in deep neural networks*. Talk presented at the Vision Sciences Society 2022 Conference
 
-<img src="https://feziodoshi.github.io/images/contour_integration_0.png" alt="drawing" style="width:100%;"/>
+<img src="https://feziodoshi.github.io/images/contour_integration_3.png" alt="drawing" style="width:100%;"/>
 
 
 <img src="https://feziodoshi.github.io/images/contour_integration_1.png" alt="drawing" style="width:100%;"/>
