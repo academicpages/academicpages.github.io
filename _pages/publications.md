@@ -43,7 +43,7 @@ _**Gregory Dexter**, Agniva Chowhdury, Haim Avron, and Petros Drineas_
 
 
 * [Inverse Reinforcement Learning in a Continuous State Space with Formal Guarantees](https://arxiv.org/abs/2102.07937)\
-NeurIPS 2020\
+NeurIPS 2021\
 _**Gregory Dexter**, Kevin Bello, and Jean Honorio_
 
 * [Randomized linear algebra approaches to estimate the von neumann entropy of density matrices](https://arxiv.org/abs/1801.01072)\
