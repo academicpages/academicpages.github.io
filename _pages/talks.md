@@ -7,6 +7,9 @@ author_profile: true
 
 ## Talks
 
+**University of Oxford**  
+“Explainable Machine Learning in NLP: Methods and Evaluation” [[slides]](https://peterbhase.github.io/files/ExplainableMachineLearningNLPSlides.pdf)
+
 **NEC Laboratories Europe**  
 “Explainable Machine Learning in NLP: Methods and Evaluation” [[slides]](https://peterbhase.github.io/files/ExplainableMachineLearninginNLPNECSlides.pdf)
 
