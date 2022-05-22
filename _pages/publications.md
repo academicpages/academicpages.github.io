@@ -18,7 +18,7 @@ author_profile: true
  * <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b> <br> 
   Zhongyu Li, Chaoqun Li, <b>Xiangde Luo</b>, Yitian Zhou, Jihua Zhu, Cunbao Xu, Meng Yang, Yenan Wu, Yifeng Chen <br> 
   <i>Submitted to IEEE Transaction on Medical Imaging (Under Major Revision, the first three authors contributed equally.)<br>
- [[paper]()][[code]()]
+ [[paper](https://luoxd1996.github.io/)][[code](https://luoxd1996.github.io/)]
     
 **Journals**
  * <b>SCPM-Net: An Anchor-free 3D Lung Nodule Detection Network using Sphere Representation and Center Points Matching</b> <br> 
