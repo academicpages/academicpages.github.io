@@ -16,8 +16,8 @@ author_profile: true
  [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
     
  * <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b> <br> 
-  Zhongyu Li*, Chaoqun Li*, <b>Xiangde Luo</b>*, Yitian Zhou, Jihua Zhu, Cunbao Xu, Meng Yang, Yenan Wu, Yifeng Chen <br> 
-  <i>Submitted to IEEE Transaction on Medical Imaging (Under Major Revision)<br>
+  Zhongyu Li, Chaoqun Li, <b>Xiangde Luo</b>, Yitian Zhou, Jihua Zhu, Cunbao Xu, Meng Yang, Yenan Wu, Yifeng Chen <br> 
+  <i>Submitted to IEEE Transaction on Medical Imaging (Under Major Revision, the first three authors contributed equally.)<br>
  [[paper](https://github.com/Luoxd1996)][[code](https://github.com/Luoxd1996)]
     
 **Journals**
@@ -53,6 +53,6 @@ author_profile: true
  [[paper](https://arxiv.org/abs/2009.04448)][[code](https://github.com/HiLab-git/DTC)]
  
 * <b>Learning Euler's Elastica Model for Medical Image Segmentation</b> <br> 
-  <b>Xu Chen*, Xiangde Luo*</b>, Yitian Zhao, Shaoting Zhang, Guotai Wang, Yalin Zheng<br>
-  A short version of this paper was accepted by <b>ISBI2021</b>.<br>
+  Xu Chen, <b>Xiangde Luo</b>, Yitian Zhao, Shaoting Zhang, Guotai Wang, Yalin Zheng<br>
+  A short version of this paper was accepted by <b>ISBI2021</b> (The first two authors contributed equally.)<br>
  [[paper](https://arxiv.org/abs/2011.00526)][[code](https://github.com/HiLab-git/ACELoss)]
