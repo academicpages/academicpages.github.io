@@ -14,12 +14,21 @@ tags:
 # Idea
 I will reach out to biologists to understand the status, progress and experimental methods regarding all areas relevant to [mind uploading](https://en.wikipedia.org/wiki/Mind_uploading) and reproducing a human brain's algorithm in a computer.
 
-# More details
+# Introduction: Is the brain more complicated than systemd?
+The brain is often described as "the most complicated object in the universe."
+1. a human zygote (<100 MB, and
+2. the environment in which that zygote develops into an adult human, inside and outside the womb - probably a few dozen
+
+So the bulk of the remaining question is how human DNA encodes the brain's algorithm - and how the brain's algorithm turns environmental data into intelligence, feelings and consciousness.
+
+I claim that, most likely, the bulk of data for both objects has been gathered. This means the 
+
+# Breaking down the problem
 1. The cells' DNA and whatever further (e.g. [epigenetic](https://en.wikipedia.org/wiki/Epigenetics)) information needed to describe them to sufficient accuracy,
 2. the structure and interaction parameters of the chemicals contained in the cells. In particular, we know not only how the cell's proteins fold, but also what chemical reactions they are involved in, and the reaction speeds,
 3. the "control logic" in each cell, determining when which new proteins get expressed and activated.
-4. cell differentation and morphogenesis: What types of cells exist, the control logic determining which type a cell in a certain part of the body develops into,
-5. arborization: How a neuron decides where to branch out and connect to other neurons,
+4. cell differentation and morphogenesis: What types of cells exist, the control logic determining which type a cell in a certain part of the body develops into.
+5. Arborization: Neurons, in particular, decide to "branch out" and connect to other neurons according to some algorithm.
 6. plasticity: The effective algorithm determining how neuron's connection strength change based on stimuli,
 7. neuron-level activity: A sufficient description of a neuron's internal parameters that allow to simulate its electrical and chemical output,
 8. larger-scale activity: Understanding to what extent it is possible to average over several neuron's behaviour and preserve the brain's computational power,
@@ -45,11 +54,6 @@ Understanding this at the various scales corresponds to the :
 
 
 
-# It can't be that hard, or... can it?
-On an atomic scale, the brain is described by known quantum-mechanical principles - so with the computing power found in thought experiments, such a simulation is possible if we have a sufficiently accurate description of [^10]
-
-1. a human zygote, and
-2. the environment in which that zygote develops into an adult human, inside and outside the womb.
 
 The amount of information in these "sufficiently accurate descriptions" upper-bounds the information needed to describe a functional adult human brain (ignoring randomness and pseudorandomness as well as the computation needed to obtain a readily usable description). I argue that obtaining them is mostly a solved problem today, and the quantity
 
