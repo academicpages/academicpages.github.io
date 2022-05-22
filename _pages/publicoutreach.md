@@ -7,8 +7,5 @@ redirect_from:
   - /publicoutreach
 ---
 
-{% include base_path %}
+## Public Outreach at Columbia
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
