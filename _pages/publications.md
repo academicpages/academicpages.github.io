@@ -4,18 +4,24 @@ permalink: /publications/
 author_profile: true
 ---
 **Tech reports**  
-* <b>WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image</b> <br> 
+
+ * <b>WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jianghong Xiao, Jieneng Chen, Tao Song, Xiaofan Zhang, Kang Li, Dimitris N. Metaxas, Guotai Wang, Shaoting Zhang<br>
-  <i>This is a tech report which has been submitted to a journal for consideration.<br>
+  <i>Submitted to Medical Image Analysis (Under Review)<br>
   [[paper](https://arxiv.org/pdf/2111.02403.pdf)][[code](https://github.com/HiLab-git/WORD)][[dataset](https://drive.google.com/file/d/1HcRo3WARRXa_iBdFpo_4Z2s3z7PMzLlL/view)]
   
  * <b>Semi-Supervised Medical Image Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
   <b>Xiangde Luo</b>, Guotai Wang, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Dimitris N. Metaxas, Shaoting Zhang<br>
-  <i>Submitted to Medical Image Analysis (Under Minor Revision, extend from [MICCAI2021](https://arxiv.org/pdf/2012.07042.pdf))<br>
+  <i>Submitted to Medical Image Analysis (Accept subject Minor Revision -No Second Review, extend from [MICCAI2021](https://arxiv.org/pdf/2012.07042.pdf))<br>
  [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
- 
+    
+ * <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b><br> 
+  Zhongyu Li*, Chaoqun Li*, <b>Xiangde Luo*</b>, Yitian Zhou, Jihua Zhu, Cunbao Xu, Meng Yang, Yenan Wu, Yifeng Chen <br> 
+  <i>Submitted to IEEE Transaction on Medical Imaging (Under Major Revision)<br>
+ [[paper](https://github.com/Luoxd1996)][[code](https://github.com/Luoxd1996)]
+    
 **Journals**
-* <b>SCPM-Net: An Anchor-free 3D Lung Nodule Detection Network using Sphere Representation and Center Points Matching</b> <br> 
+ * <b>SCPM-Net: An Anchor-free 3D Lung Nodule Detection Network using Sphere Representation and Center Points Matching</b> <br> 
  <b>Xiangde Luo </b>, Tao Song, Guotai Wang, Jieneng Chen, Yinan Chen, Kang Li, Dimitris N. Metaxas, Shaoting Zhang<br>
  <b>Medical Image Analysis</b>.<br>
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521003327)][[code](https://github.com/HiLab-git/SCPM-Net)]
