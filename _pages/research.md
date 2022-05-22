@@ -23,7 +23,15 @@ My research work primarily explores on monitoring excitation energy transfer and
 
 </details>
 
-
+<div style="width:50%;">
+  <div style="float:left; border: 2px solid AliceBlue;text-align:center;width:49%;border-radius:10px; padding:5px; background: AliceBlue;">
+  <a href="https://avratanubiswas.github.io/publications/" style="color:black">Publications</a>
+  </div> 
+  <div style="float:right;border: 2px solid MistyRose;text-align:center;width:49%;border-radius:10px; padding:5px; background: MistyRose;">
+  
+  <a href="https://avratanubiswas.github.io/cv/" style="color:black">CV</a>
+  </div>
+</div>
 
 
 

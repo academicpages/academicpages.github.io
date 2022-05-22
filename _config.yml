@@ -12,7 +12,7 @@ minimal_mistakes_skin2   : "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Avratanu Biswas"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Avratanu Biswas"
 description              : &description "PhD Student in Biophysics at Biological Research Centre, Szeged, Hungary"
@@ -22,7 +22,7 @@ repository               : "AvratanuBiswas/AvratanuBiswas.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : true 
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:

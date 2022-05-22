@@ -2,51 +2,140 @@
 layout: archive
 title: "Cats & Codes"
 permalink: /cats-and-codes/
-author_profile: true
----
+author_profile: false
+--- 
+<!-- Displaying categories -->
 {% include base_path %}
-Well, the title itself is self explanatory - I'm very fond of cats 🐱. Here you can find my **_code for fun_** projects, some web-applications to play around and few blog posts to read about. 
+<p class="category__taxonomy">
+  <strong><i class="fa fa-fw fa-folder-open" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].categories_label | default: "Categories:" }} </strong>
+  <span itemprop="keywords">
+  {% for category in site.categories %}
+    {% assign keyValue = category | split: '#' %}
+    {% capture category_word %}{{ category | first }}{% endcapture %}
+    <a href="/categories/#{{ category | first | slugify}}" class="category__taxonomy-item" rel="tag">{{ category_word }}</a>{% unless forloop.last %}<span class="sep"></span>{% endunless %}
+  {% endfor %}
+  </span>
+</p>
 
-----------------
-<img style="border-top:20px solid crimson;border-right:20px solid crimson;border-left:20px solid crimson;border-bottom:1px solid crimson;"
-src="/images/CodeForFun/publit_demo.gif" alt="PubLit demo GIF" width="640px" height="389px"> 
-## PubLit - A Web app to search scientific publications and obtain analytics 
-> *What analytics does PubLit offer? 
-Authors details, journals related informations, author's network, yearly trends and many more.*
+<style>
+    .category__taxonomy-item {
+      color: black;
+      font-size: 16px;
+      text-align: center;
+      border: solid;   
+      background: AliceBlue; 
+      border-radius:10px;
+      border-color: AliceBlue;
+      padding: 0.3em;
+      margin-bottom: 0.5em;
+      text-decoration: none!important;
+    }  
+    .category__taxonomy-item:hover{
+      background-color: SlateBlue;
+    }
+</style>
+<style>
+    .tag__taxonomy-item{
+      color: black;
+      font-size: 14px;
+      text-align: center;
+      text-decoration: none;
+      border: solid;   
+      background: MistyRose; 
+      border-radius:10px;
+      border-color: MistyRose;
+      text-decoration: none!important;
+      padding: 0.3em;
+      margin-bottom: 0.5em;
+      cursor: pointer;
+    }
+    .tag__taxonomy-item:hover{
+      background-color: crimson;
+    }
+</style> 
 
-GitHub Repo - <a href="https://github.com/AvratanuBiswas/PubLit">PubLit</a> 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/avratanubiswas/publit/main/publit.py)
+<!-- Post -->
+<ul class="post-list">
+<!-- Looping over the posts -->
+    {% for post in site.posts %}
+          <h2>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h2>
+          <style>
+            .post-link{
+              text-decoration: none!important;
+            }
+          </style>
+          <!-- Author -->
+          {% assign author = site.data.authors[post.author] %}
+          <div class="teaser-container">
+          {% if author.avatar %}
+          <img class = "author-logo" src="/images/{{author.avatar}}"/>
+          {% endif %}
+          {% if post.date %}
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>, by <u>{{author.name}}</u></p>
+          {% endif %}
+          <!--  -->
+          </div>
+          <style>
+          .author-logo{
+            margin: 6px;
+            border-radius: 50%;
+            float: left;
+            width: 50px;
+            height: 50px;
+            border: 2px solid {{post.bcolor}};       
+          }
+          </style>
+          <style>
+          .teaser-container {
+            display: flex;
+            align-items: center;
+            flex-direction: row;
+            font-size: 15px;
+          }
+          </style>
+          <style>
+          <!-- Zoom Hovering effect -->
+          .zteaser-thumbnail{
+            transition: transform .2s; /* Animation */
+          }
+          .teaser-thumbnail:hover {
+            transform: scale(1.15); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+          }
+          </style>
+          {% if post.image %}
+          <img class="teaser-thumbnail" style="border-top:20px solid {{ post.bcolor }};border-right:20px solid {{ post.bcolor }};border-left:20px solid {{ post.bcolor }};border-bottom:1px solid {{ post.bcolor }};"
+          src="{{ site.baseurl }}/blog_images/{{ post.image}} " width="440px" height="240px"> 
+          {% endif %}
+          {{ post.excerpt }}
+          <div class = "btn-tag">
+          <a class="btn btn-default" href="{{ post.url | prepend: site.baseurl }}"> Read more </a>
+          <p class="tag__taxonomy">
+          <i class="fa fa-fw fa-tags" aria-hidden="true"></i>
+            <span itemprop="keywords">
+            {% for hash in post.tags %}
+              {% assign keyValue = hash | split: '#' %}
+              {% capture tag_word %}{{ keyValue[1] | strip_newlines }}{% endcapture %}
+              <a href="/tags/#{{hash | slugify}}"  class="tag__taxonomy-item" rel="tag">{{ hash }}</a>{% unless forloop.last %}<span class="sep"></span>{% endunless %}
+            {% endfor %}
+            </span>
+          </p>
+          </div>
+          <style>
+          .btn-tag {
+            display: flex;
+            align-items: center;
+            flex-direction: row;
+            gap: 5%;
+            <!-- font-size: 15px; -->
+          }
+          </style>
+          <hr/>
+    {% endfor %}  
+</ul>
 
-<!-- <iframe src="https://share.streamlit.io/avratanubiswas/publit/main/publit.py" style="height:500px;width:600px" title="PubLit"></iframe> -->
-
----------------
-<img style="border-top:20px solid DarkSlateGray;border-right:20px solid DarkSlateGray;border-left:20px solid DarkSlateGray;border-bottom:1px solid DarkSlateGray;"
-src="/images/CodeForFun/medium_post1.png" alt="PubLit demo GIF" width="640px" height="389px">
-
-## Streamlit Python Cool Tricks to make Your Web-Application look better
- >Probably you have often wondered, what can be the better ways to make your Streamlit web application shine and be user-friendly. This article covers a few easy steps, that can minimalize and tweak the already added Streamlit features within the default web application.[**Click for further reading.**](https://medium.com/@avra42/streamlit-python-cool-tricks-to-make-your-web-application-look-better-8abfc3763a5b)
-
-------------
-<img style="border-top:20px solid SlateBlue;border-right:20px solid SlateBlue;border-left:20px solid SlateBlue;border-bottom:1px solid SlateBlue;"
-src="/images/CodeForFun/medium_post2.png" alt="PubLit demo GIF" width="640px" height="389px">
-
-## Streamlit Tricks — Application Reruns on Every Widget Click? Here's What-To-Do
-> If you have been using Streamlit to build your data science or machine learning web application, probably you are already aware, that whenever any interactive change is invoked through applications’s widgets, Streamlit web application reruns from the very top to the bottom of your python script.[**Click for further reading.**](https://medium.com/dev-genius/streamlit-python-tips-how-to-avoid-your-app-from-rerunning-on-every-widget-click-cae99c5189eb)
-
--------
-<img style="border-top:20px solid Gold;border-right:20px solid Gold;border-left:20px solid Gold;border-bottom:1px solid Gold;"
-src="/images/CodeForFun/medium_post3.png" alt="PubLit demo GIF" width="640px" height="389px">
-
-## How to Embed Tweets on Streamlit Web Application
-> Embedding tweets from Twitter within our web application can be both visually aesthetic and informative for our audiences. Here's only few lines of python codes to achieve this goal.
-[**Click for further reading.**](https://medium.com/@avra42/how-to-embed-tweets-on-streamlit-web-application-247c01fdf767)
-
-
-----------
-**_Looking for any web-developers who would be happy to collaborate, primarily to dedicate this "Cats-&-Codes" page into an independent website. Also,I'm planning to host blog posts here. Feel free to write to me if you are interested._**
-
-<hr width="50%" />
-
+**_More blog posts will be updated soonish. Happy to host more, therefore feel free to write to me if you are interested. Also the website development is in progress, so don't hesistate to report any bug [here](https://github.com/academicpages/academicpages.github.io/pull/915)_**
 <section class="page__share">
   {% if site.data.ui-text[site.locale].share_on_label %}
     <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "Share on" }}</h4>
@@ -58,9 +147,6 @@ src="/images/CodeForFun/medium_post3.png" alt="PubLit demo GIF" width="640px" he
 
   <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
-
-
-
 
 
 

@@ -6,7 +6,7 @@ author_profile: true
 marp: false
 ---
 <h1> Hi, I'm Avra. </h1>
-Another curious being, who is interested in science, politics and happenings in the world. You can expect me to update here with my on-going [research](https://avratanubiswas.github.io/research/) works and ocassional [blog posts](https://avratanubiswas.github.io/cats-and-codes/). Happy to connect with you!
+Another curious being, who is interested in science, politics and happenings in the world. You can expect me to update here with my on-going [research](https://avratanubiswas.github.io/research/) works and also blog posts, in different topics from sevral open-source enthusiasts who are interested to share their writings in this small but growing space called [cats-and-codes](https://avratanubiswas.github.io/cats-and-codes/). Happy to connect with you!
 
 
 <div style="width:50%;">
@@ -21,6 +21,7 @@ Another curious being, who is interested in science, politics and happenings in 
 <br/>
 <hr width="50%" />
 ## Updates
+- 🔨 Pre-release of [cats-and-codes](https://avratanubiswas.github.io/cats-and-codes/)✨ 🚀
 - Would you like to search for scientific keywords and obiatin it's related analytics from publications to authors? Here's link to one of my [*code for fun*](https://avratanubiswas.github.io/cats-and-codes/) project, a web-app, called [PubLit](https://share.streamlit.io/avratanubiswas/publit/main/publit.py) 🚀
 - Mar 2022: Two of my co-authored articles got accepted in [Plant Physiology](https://academic.oup.com/plphys) journal!🎉(details in the [Publications](https://avratanubiswas.github.io/publications/) page).
 - Feb 2022: Joined [Streamlit creators group](https://streamlit.io/creators)!🎈

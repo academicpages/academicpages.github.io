@@ -1,0 +1,77 @@
+{% include base_path %}
+<!-- Post -->
+<ul class="post-list">
+    <!-- Looping over the posts -->
+        {% for post in site.posts %}
+              <h2>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+              </h2>
+              <style>
+                .post-link{
+                  text-decoration: none!important;
+                }
+              </style>
+              <!-- Author -->
+              {% assign author = site.data.authors[post.author] %}
+              <div class="teaser-container">
+              <img class = "author-logo" src="/images/{{author.avatar}}"/> 
+              <!-- <p><small>{{author.name}}</small></p> -->
+              <!-- date -->
+              {% if post.date %}
+              <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+              {% endif %}
+              <!--  -->
+              </div>
+              <style>
+              .author-logo{
+                margin: 6px;
+                border-radius: 50%;
+                float: left;
+                border: 2px solid {{post.bcolor}};       
+              }
+              </style>
+              <style>
+              .teaser-container {
+                display: flex;
+                align-items: center;
+                flex-direction: row;
+                font-size: 15px;
+              }
+              </style>
+              <style>
+              <!-- Zoom Hovering effect -->
+              .zteaser-thumbnail{
+                transition: transform .2s; /* Animation */
+              }
+              .teaser-thumbnail:hover {
+                transform: scale(1.15); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+              }
+              </style>
+              <img class="teaser-thumbnail" style="border-top:20px solid {{ post.bcolor }};border-right:20px solid {{ post.bcolor }};border-left:20px solid {{ post.bcolor }};border-bottom:1px solid {{ post.bcolor }};"
+              src="{{ site.baseurl }}/blog_images/{{ post.image}} " width="440px" height="240px"> 
+              {{ post.excerpt }}
+              <div class = "btn-tag">
+              <a class="btn btn-default" href="{{ post.url | prepend: site.baseurl }}"> Read more </a>
+              <p class="tag__taxonomy">
+              <i class="fa fa-fw fa-tags" aria-hidden="true"></i>
+                <span itemprop="keywords">
+                {% for hash in post.tags %}
+                  {% assign keyValue = hash | split: '#' %}
+                  {% capture tag_word %}{{ keyValue[1] | strip_newlines }}{% endcapture %}
+                  <a href="/tags/#{{hash | slugify}}"  class="tag__taxonomy-item" rel="tag">{{ hash }}</a>{% unless forloop.last %}<span class="sep"></span>{% endunless %}
+                {% endfor %}
+                </span>
+              </p>
+              </div>
+              <style>
+              .btn-tag {
+                display: flex;
+                align-items: center;
+                flex-direction: row;
+                gap: 5%;
+                <!-- font-size: 15px; -->
+              }
+              </style>
+              <hr/>
+        {% endfor %}  
+    </ul>

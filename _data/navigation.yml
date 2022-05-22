@@ -2,9 +2,11 @@
 main:
   - title: "Research"
     url: /research/
+    exclude: true
 
   - title: "Publications"
     url: /publications/
+    exclude: true
 
   # - title: "Talks"
   #   url: /talks/    
@@ -14,9 +16,12 @@ main:
     
   - title: "CV"
     url: /cv/
-  
+    exclude: true
+
   - title: "Cats-&-Codes"
     url: /cats-and-codes/
+    exclude: false
   
   - title: "Gallery"
     url: /gallery/  
+    exclude: true
