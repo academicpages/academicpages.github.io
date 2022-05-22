@@ -70,6 +70,8 @@ Managing deadlines is an incredibly important component of being a successful an
 
 With hard deadlines, give me at least one week for tasks with low time requirements (e.g., revising conference abstracts, filling out paperwork, etc) and two weeks for tasks that take more time (e.g., letters of recommendation). Expect at least a month of back-and-forths on chapter drafts, manuscript revisions, drafts of grant/fellowship applications, and your 1 year confirmation document and dissertation.
 
+If a deadline sneaks up on you or you have not left Sarah the requested amount of time to provide feedback, she cannot promise you will receive high quality and/or substantive feedback -- remember that your emergency is not her emergency (most of the time).
+
 ## Lab notebooks
 
 I expect you to keep a well-organized notebook. For your wetlab notebook, I expect your notebook to include hard copies of anything that can be printed out. I expect you to keep a similarly complete and organized set of notes regarding your code and analysis projects, either a hard-copy notebook or an electronic notebook. In both of these notebooks, you should record your mistakes and difficulties performing the experiment, and do not remove them from your notebooks! Use a single cross out and explain why it was an error. Make sure your lab notebook is interpretable by yourself, me, and other lab members – doing this will help others and your future self! 
