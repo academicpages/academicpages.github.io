@@ -14,12 +14,16 @@ tags:
 # Idea
 I will reach out to biologists to understand the status, progress and experimental methods regarding all areas relevant to [mind uploading](https://en.wikipedia.org/wiki/Mind_uploading) and reproducing a human brain's algorithm in a computer.
 
-# Introduction: Is the brain more complicated than systemd?
-The brain is often described as "the most complicated object in the universe."
-1. a human zygote (<100 MB, and
-2. the environment in which that zygote develops into an adult human, inside and outside the womb - probably a few dozen
+# Introduction: Is your brain more complicated than your fridge?
+The brain is often described as "the most complex object in the universe" - justified by estimating the number of synapses it contains, or similar quantities. But a rock contains lots of atoms and degrees of freedom as well. The amount of _information_ needed to describe a functional brain is upper-bounded by the relevant information that flowed into it since conception, which in turn can be upper-bounded by very modest numbers:
 
-So the bulk of the remaining question is how human DNA encodes the brain's algorithm - and how the brain's algorithm turns environmental data into intelligence, feelings and consciousness.
+1. Traditionally, it is assumed that the [human genome](https://en.wikipedia.org/wiki/Human_genome) contains all information needed to describe a human body. Encoding someone's genome wouldbout 6 billion base pairs, each of which encode 2 bits of information.
+2. By the data on [human genome size](https://en.wikipedia.org/wiki/Human_genome), storing the human genome requires less than 700 megabytes. In fact, it is generally believed that not more than about 10 % of this DNA contains relevant information - the rest, called _junk DNA_, doesn't have a positive or negative effect on the organism's fitness. [^20] It is not entirely clear whether, or how much, relevant data is encoded differently (e.g. in the [epigenome](https://en.wikipedia.org/wiki/Epigenome), It is traditionally believed seems fair to me to assume it's not a higher order of magnitude than the DNA.
+3. Similarly, a human hears a few hundred megabytes worth of language before they turn 25 (and, according to many parents, most of this doesn't change their mind); a few megabytes are enough to encode a college degree's worth of study material. [^30] Their brain also develops Their brain will also develop based on world-modelling they obtain from other senses
+
+Assuming [170](https://www.wolframalpha.com/input?i=%2810*24-%284%2F12*15.5%2B8%2F12*13.5%2B2*12.5%2B3*11.5%2B4*10%29%29*365.25*3600) [million](https://www.sleepfoundation.org/children-and-sleep/how-much-sleep-do-kids-need) waking seconds before age 10, and a rate of change of 1 byte/second, one gets to a similar bound.
+
+So the bulk of the remaining question is how human DNA encodes the brain's algorithm - and how the brain's algorithm turns environmental data into human intelligence, feelings and consciousness.
 
 I claim that, most likely, the bulk of data for both objects has been gathered. This means the 
 
@@ -54,13 +58,6 @@ Understanding this at the various scales corresponds to the :
 
 
 
-
-The amount of information in these "sufficiently accurate descriptions" upper-bounds the information needed to describe a functional adult human brain (ignoring randomness and pseudorandomness as well as the computation needed to obtain a readily usable description). I argue that obtaining them is mostly a solved problem today, and the quantity
-
-1. By the data on [human genome size](https://en.wikipedia.org/wiki/Human_genome), storing the human genome requires less than 700 megabytes. In fact, it is generally believed that not more than about 10 % of this DNA contains relevant information - the rest, called _junk DNA_, doesn't have a positive or negative effect on the organism's fitness. [^20] It is not clear how much relevant data is encoded differently (e.g. in the [epigenome](https://en.wikipedia.org/wiki/Epigenome), but it seems fair to me to assume it's not a higher order of magnitude than the DNA.
-3. Similarly, a human hears a few hundred megabytes worth of language before they turn 25 (and, according to many parents, most of this doesn't change their mind); a few megabytes are enough to encode a college degree's worth of study material. [^30] Their brain also develops Their brain will also develop based on world-modelling they obtain from other senses
-
-Assuming [170](https://www.wolframalpha.com/input?i=%2810*24-%284%2F12*15.5%2B8%2F12*13.5%2B2*12.5%2B3*11.5%2B4*10%29%29*365.25*3600) [million](https://www.sleepfoundation.org/children-and-sleep/how-much-sleep-do-kids-need) waking seconds before age 10, and a rate of change of 1 byte/second, one gets to a similar bound.
 
 
 5. 
