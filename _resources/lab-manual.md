@@ -42,13 +42,17 @@ We will meet formally each week to discuss results, progress, ideas, and relevan
 
 ### Lab meetings
 
-Lab meetings are an opportunity for the group to discuss lab issues, important news, upcoming events, and to discuss the research being conducted in the lab. The format will change based on the lab members, but students are expected to regularly present at lab meetings and everyone is expected to participate in discussions.
+Lab meetings are an opportunity for the group to discuss lab issues, important news, upcoming events, and to discuss the research being conducted in the lab. The format will change based on the lab members, but students are expected to provide a short presentation fortnightly at lab meetings and everyone is expected to participate in discussions. Longer presentations, discussions, or workshops can be requested prior to scheduled lab meetings. Our lab meetings are held to foster community, facilitate conversation, and benefit everyone in the lab, so participation is essential unless otherwise arranged.
 
 ### Engagement with the lab Slack channel
 
 The lab uses Slack for its primary form of communication among lab members, including communication between Sarah and research students. It is not expected that you check or respond to Slack outside of standard working hours. Sarah might (and likely will!) send you messages at odd times, but will not expect a response until the next day's working hours. I recommend you set up your ‘do not disturb’ mode to fit your working hours (and adjust if sick or on vacation etc.) so as not to receive notifications at inconvenient times.
 
 If you don’t leave Slack open or have notifications through the desktop or mobile app (though you are really encouraged to do so), you are expected check and respond to messages at minimum once per day during the week. However, Slack is not meant to be an urgent messaging system -- unless a message is marked as urgent, if you are occupied do not feel obligated to drop what you’re doing and immediately respond to a message.
+
+There are a number of Slack channels that I expect consistent engagement with, the most important of which is the #lone-worker channel. It is university policy that students working on campus outside of business hours utilise a check-in system in case of emergency. In the interest of health and safety, you are required to note in the #lone-worker channel when you are on campus outside of business hours (e.g., before 7:30 am, after 5:30 pm, on holidays) and when you have left for the day.
+
+For students that benefit from personal accountability, the channels #goals and #working-from-home are used to list tasks and goals for the week/day, which I suggest revisiting at the end of each allocated time period.
 
 ### Open Door Policy
 
@@ -60,7 +64,7 @@ The lab schedule will be maintained on the Flanagan-lab Google calendar. Timing 
 
 ## Deadlines
 
-Managing deadlines is an incredibly important component of being a successful and organized academic. When there are deadlines, please make sure that your collaborators (including me!) are aware of upcoming deadlines, and keep bugging them (yes, me too!) as the deadlines approach. Also, add deadlines on the Flanagan-lab Google calendar with appropriate email reminders (1 week in advance, 1 day in advance, etc).
+Managing deadlines is an incredibly important component of being a successful and organized academic. When there are deadlines, please make sure that your collaborators (including me!) are aware of upcoming deadlines, and keep bugging them (yes, me too!) as the deadlines approach. Also, add shared deadlines on the Flanagan-lab Google calendar with appropriate email reminders (1 week in advance, 1 day in advance, etc). Personal deadlines can be noted through weekly goals on slack and the upcoming deadlines section of meeting agendas.
 
 With hard deadlines, give me at least one week for tasks with low time requirements (e.g., revising conference abstracts, filling out paperwork, etc) and two weeks for tasks that take more time (e.g., letters of recommendation). Expect at least a month of back-and-forths on manuscript revisions, drafts of grant/fellowship applications, and your 1 year confirmation document and dissertation.
 
@@ -95,7 +99,7 @@ Implicit bias refers to the attitudes or stereotypes that affect our understandi
 
 ## Lab Data
 
-Lab data should be stored both on a local hard drive and an external hard drive, and all raw data and associated metadata should be regularly backed up. You notes and analysis codes are crucial resources for the lab, and these must be available upon request. Before leaving the lab for good, and upon completion of projects, old datasets must be backed up (we will work out archiving protocols when the time comes). 
+Lab data should be stored both on a local hard drive and an external hard drive, and all raw data and associated metadata should be regularly backed up. Your notes and analysis codes are crucial resources for the lab, and these must be available upon request. Before leaving the lab for good, and upon completion of projects, old datasets must be backed up (we will work out archiving protocols when the time comes). 
 
 ## Open Science
 
