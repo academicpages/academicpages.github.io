@@ -33,7 +33,7 @@ Lab members are welcome to work from home if their current line of research allo
 
 ## Vacation and Medical Leave
 
-Your mental and physical health are very important – to you and to ensure your success in the lab. You are expected to take time off when needed. If you feel as though you need help, contact Student Care for free: https://www.canterbury.ac.nz/support/needtotalk/. I expect that you will observe official university holidays unless there is a valid reason not to (e.g., the fish need to be fed), and I expect you will also take additional holidays. Taking vacation should be discussed two weeks or more in advance with me, and it is your responsibility to find someone to cover any lab duties you are responsible for. Update your slack profile to reflect if you are away for either vacation or medical leave.
+Your mental and physical health are very important – to you and to ensure your success in the lab. You are expected to take time off when needed. If you feel as though you need help, contact Student Care for free: https://www.canterbury.ac.nz/support/needtotalk/. I expect that you will observe official university holidays unless there is a valid reason not to (e.g., the fish need to be fed), and I expect you will also take additional holidays. Taking vacation should be discussed two weeks or more in advance with me, and it is your responsibility to find someone to cover any lab duties you are responsible for. Update your Slack profile to reflect if you are away for either vacation or medical leave.
 
 ## Meetings and contact
 
@@ -46,7 +46,7 @@ Lab meetings are an opportunity for the group to discuss lab issues, important n
 
 ### Engagement with the lab Slack channel
 
-The lab uses Slack for its primary form of communication among lab members, including communication between Sarah and research students. It is not expected that you check or respond to Slack outside of standard working hours. Sarah might (and likely will!) send you messages at odd times, but will not expect a response until the next day's working hours. I recommend you set up your ‘do not disturb’ mode to fit your working hours (and adjust if sick or on vacation etc.) so as not to receive notifications at inconvenient times.
+The lab uses Slack for its primary form of communication among lab members, including communication between Sarah and research students. It is not expected that you check or respond to Slack outside of standard working hours. Sarah might (and likely will!) send you messages at odd times, but will not expect a response until the next day's working hours. I recommend you set up your ‘do not disturb’ mode to fit your working hours (and adjust if sick or on vacation etc.) so as not to receive notifications at inconvenient times. You are expected to update your profile to reflect if you are vacationing, sick, or working remotely. You are also encouraged to create custom profiles to reflect other activities (e.g., lab work) if you wish -- this helps your lab mates more easily find you for a quick question or an invitation to an impromptu coffee break.
 
 If you don’t leave Slack open or have notifications through the desktop or mobile app (though you are really encouraged to do so), you are expected check and respond to messages at minimum once per day during the week. However, Slack is not meant to be an urgent messaging system -- unless a message is marked as urgent, if you are occupied do not feel obligated to drop what you’re doing and immediately respond to a message.
 
