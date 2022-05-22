@@ -16,7 +16,7 @@ author_profile: true
  [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
     
  * <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b> <br> 
-  <b>Zhongyu Li*, Chaoqun Li*, Xiangde Luo*</b>, Yitian Zhou, Jihua Zhu, Cunbao Xu, Meng Yang, Yenan Wu, Yifeng Chen <br> 
+  Zhongyu Li*, Chaoqun Li*, <b>Xiangde Luo</b>*, Yitian Zhou, Jihua Zhu, Cunbao Xu, Meng Yang, Yenan Wu, Yifeng Chen <br> 
   <i>Submitted to IEEE Transaction on Medical Imaging (Under Major Revision)<br>
  [[paper](https://github.com/Luoxd1996)][[code](https://github.com/Luoxd1996)]
     
