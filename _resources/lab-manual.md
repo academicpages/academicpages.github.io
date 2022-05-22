@@ -62,13 +62,13 @@ I have an open door policy and you can normally interrupt me with questions at a
 
 ### Scheduling
 
-The lab schedule will be maintained on the Flanagan-lab Google calendar. Timing for meetings will be scheduled when members join the lab, and members should immediately notify me if conflicts arise as soon as possible. Please make sure I am aware of any changes to regularly-scheduled meetings, and send me reminders when arranging any special meetings!
+Sarah updates the Flanagan-lab Google calendar with her work schedule. Timing for meetings will be scheduled when members join the lab, and members should immediately notify me if conflicts arise as soon as possible. Please make sure I am aware of any changes to regularly-scheduled meetings, and send me reminders when arranging any special meetings!
 
 ## Deadlines
 
-Managing deadlines is an incredibly important component of being a successful and organized academic. When there are deadlines, please make sure that your collaborators (including me!) are aware of upcoming deadlines, and keep bugging them (yes, me too!) as the deadlines approach. Also, add shared deadlines on the Flanagan-lab Google calendar with appropriate email reminders (1 week in advance, 1 day in advance, etc). Personal deadlines can be noted through weekly goals on slack and the upcoming deadlines section of meeting agendas.
+Managing deadlines is an incredibly important component of being a successful and organized academic. When there are deadlines, please make sure that your collaborators (including me!) are aware of upcoming deadlines, and keep bugging them (yes, me too!) as the deadlines approach. Ensure that Sarah is aware of hard deadlines well in advance so she can set aside sufficient time. Soft deadlines (set by yourself or with Sarah) should be noted through weekly goals on Slack and the 'upcoming deadlines' section of meeting agendas. Make sure Sarah is aware of which deadlines are hers (e.g. she should give you feedback by x date) versus yours (you will send your co-supervisory team a ocument by x date). 
 
-With hard deadlines, give me at least one week for tasks with low time requirements (e.g., revising conference abstracts, filling out paperwork, etc) and two weeks for tasks that take more time (e.g., letters of recommendation). Expect at least a month of back-and-forths on manuscript revisions, drafts of grant/fellowship applications, and your 1 year confirmation document and dissertation.
+With hard deadlines, give me at least one week for tasks with low time requirements (e.g., revising conference abstracts, filling out paperwork, etc) and two weeks for tasks that take more time (e.g., letters of recommendation). Expect at least a month of back-and-forths on chapter drafts, manuscript revisions, drafts of grant/fellowship applications, and your 1 year confirmation document and dissertation.
 
 ## Lab notebooks
 
