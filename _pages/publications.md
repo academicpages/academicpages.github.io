@@ -31,11 +31,12 @@ Under Review\
 (**) _Rajarshi Bhattacharjee, Gregory Dexter, Petros Drineas, Cameron Musco, and Archan Ray_
 
 
-##### Published/Accepted
-
 * Faster Randomized Interior Point Methods for Tall/Wide Linear Programs\
-To Appear in JMLR\
+Under Review\
 _Agniva Chowhdury, **Gregory Dexter**, Palma London, Haim Avron, and Petros Drineas_
+
+
+##### Published/Accepted
 
 * [On the Convergence of Inexact Predictor-Corrector Methods for Linear Programming](https://arxiv.org/pdf/2202.01756.pdf)\
 To Appear at ICML 2022, **Selected for long presentation (2% acceptance rate)**\
