@@ -12,7 +12,7 @@ I am a die-hard fan of [Beijing Guoan FC](http://www.fcguoan.com/en/), a soccer 
 
 <figure>
   <figcaption>Me playing for my highschool's soccer team.</figcaption>
-  <img src="/images/highschool_soccer.jpg" width="100"/>
+  <img src="/images/highschool_soccer.jpg" width="50" height="100"/>
 </figure>
 
 <figure>
