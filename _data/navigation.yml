@@ -9,5 +9,8 @@ main:
   - title: "Public Outreach"
     url: /publicoutreach/  
     
+  - title: "Personal Life"
+    url: /personallife/
+    
   - title: "CV"
     url: /cv/
