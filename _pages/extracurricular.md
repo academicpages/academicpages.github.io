@@ -11,6 +11,12 @@ Beyond Astrophysics, I enjoy playing and watching all kinds of sports, especiall
 I am a die-hard fan of [Beijing Guoan FC](http://www.fcguoan.com/en/), a soccer team from my hometown Beijing, China.
 
 <figure>
-  <figcaption>Me playing for my highschool's soccer team</figcaption>
+  <figcaption>Me playing for my highschool's soccer team.</figcaption>
   <img src="/images/highschool_soccer.jpg" width="100"/>
 </figure>
+
+<figure>
+  <figcaption>Largest TIFO in Asia at Worker's Stadium, Beijing Guoan's homecourt. I am in the audience.</figcaption>
+  <img src="/images/highschool_soccer.jpg" width="200"/>
+</figure>
+
