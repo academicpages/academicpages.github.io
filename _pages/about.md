@@ -10,4 +10,4 @@ redirect_from:
 
 ## About Me
 
-Hi! My name is Zirui. I 
+Hi! My name is Zirui. I am 
