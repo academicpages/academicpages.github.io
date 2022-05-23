@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Miles Nash"
   avatar           : "profile.png"
-  bio              : "Miles Goddam Nash"
+  bio              : "Adventurer and Berkeley Engineer" #descriptor under profile pic
   location         : "Berkeley, CA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,18 +103,19 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UC2EYhlRGgMbeiCGt3sPRc_Q"
   wikipedia        :
+  hackster         : "https://www.hackster.io/milesnash_"
 
 
 # Reading Files
