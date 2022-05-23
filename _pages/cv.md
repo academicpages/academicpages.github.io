@@ -37,14 +37,12 @@ Work experience
   - Data collection of public transportation patterns
 
 
-Publications
+Selected Publications
 ======
 
-- 2021
-  - *What is a meaningful representation of protein sequences?*, Nicki Skafte Detlefsen, Søren Hauberg, Wouter Boomsma. Under review at Nature Communications. Arxiv link: <https://arxiv.org/abs/2012.02679>
-
-  - *Developing and validating COVID-19 adverse outcome risk prediction models from a bi-national European cohort of 5594 patients*, Espen Jimenez-Solem, Tonny S Petersen, Christina Lioma, Christian Igel, Wouter Boomsma, Oswin Krause, Casper Hansen, Christian Hansen, Stephan Lorenzen, Raghavendra Selvan, Janne Petersen, Martin Erik Nyeland, Mikkel Zöllner Ankarfeldt, Gert Mehl Virenfeldt, Anne Helms Andreasen, Matilde Winther-Jensen, Mostafa Ghazi, **Nicki S. Detlefsen**, Andreas Lauritsen, Abraham Smith, Marleen de Bruijne, Bulat Ibragimov, Jens Petersen, Martin Lillholm, Jon Middleton, Stine Hasling Mogensen, Hans-Christian Thorsen-Meyer, Anders Perner, Maria Helleberg, Benjamin Skov Kaas-Hansen, Alexander Bonde, Akshay Pai, Mads Nielsen, Martin Sillesen. In Scientific Reports.
-
+- 2022
+  - *What is a meaningful representation of protein sequences?*, **Nicki Skafte Detlefsen**, Søren Hauberg, Wouter Boomsma. In Nature Communications.
+  
 - 2020
   - *Lung Segmentation from Chest X-rays using Variational Data Imputation*, Raghavendra Selvan, Erik B. Dam, **Nicki S. Detlefsen**, Sofus Rischel, Kaining Sheng, Mads Nielsen, Akshay Pai. In ICML Workshop on Learning from Missing Values (Artemiss). Arxiv link: <https://arxiv.org/abs/2005.10052>
 
