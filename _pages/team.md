@@ -33,6 +33,8 @@ Email: [gsipe.planning@gmail.com](gsipe.planning@gmail.com)
 
 [Ishana Ratan (Berkeley)](https://enlab.berkeley.edu/lab-people/ishana-ratan/)
 
+[Katharina Kuhn (LSE)](https://www.lse.ac.uk/international-relations/phd-students/kuhn-katharina)
+
 ## Media 
 
 [Lingbo Zhao (Penn State)](https://polisci.la.psu.edu/people/lkz5164/)
