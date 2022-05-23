@@ -1,20 +1,8 @@
 ---
-title: "Teaching experience 2"
+title: "TA for Intro to Astrophysics I&II (ASTR 2001&2002)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: 
+permalink: /teaching/accelerated_physics
+venue: "Department of Astronomy, Columbia University"
+date: 2020-05-18 & 2021-05-18 & 2022-05-18
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
