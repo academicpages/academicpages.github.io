@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Extracurricular"
+title: ""
 permalink: /extracurricular/
 author_profile: true
 redirect_from:
