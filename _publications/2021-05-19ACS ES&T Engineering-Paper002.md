@@ -1,10 +1,10 @@
 ---
 title: "Electrochemically Mediated CO 2 Capture Using Aqueous Cu(II)/Cu(I) Imidazole Complexes"
 collection: publications
-permalink: /publication/2021ACS ES&T Engineering-Paper002
-date: 2021
+permalink: /publication/2021-05-19ACS ES&T Engineering-Paper002
+date: 2021-05-19
 venue: "ACS ES&T Engineering"
-Citation: "Boualavong, Jonathan; Gorski, Christopher, A.. Electrochemically Mediated CO 2 Capture Using Aqueous Cu(II)/Cu(I) Imidazole Complexes. <i>ACS ES&T Engineering.</i> vol. 1, pp. 1084-1093. 2021."
+Citation: "Boualavong, Jonathan; Gorski, Christopher, A.. Electrochemically Mediated CO 2 Capture Using Aqueous Cu(II)/Cu(I) Imidazole Complexes. <i>ACS ES&T Engineering.</i> vol. 1, pp. 1084-1093. 2021-05-19."
 ---
 [doi: 10.1021/acsestengg.1c00068](http://doi.org/10.1021/acsestengg.1c00068)
 

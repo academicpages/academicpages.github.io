@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About me
+
 I am 
 (1) a research engineer focused on environmentally relevant electro-separations, specifically in treatment of inorganic wastes and pollutants, 
 (2) a pedagogy scholar with an interest in subversive teaching techniques and curricula development that de-centers western epistemologies and dismantles epistemic hierarchies, and 

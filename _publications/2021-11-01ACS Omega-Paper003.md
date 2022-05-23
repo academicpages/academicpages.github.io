@@ -1,10 +1,10 @@
 ---
 title: "Inﬂuence of Hydrotropes on the Solubilities and Diﬀusivities of Redox-Active Organic Compounds for Aqueous Flow Batteries"
 collection: publications
-permalink: /publication/2021ACS Omega-Paper003
-date: 2021
+permalink: /publication/2021-11-01ACS Omega-Paper003
+date: 2021-11-01
 venue: "ACS Omega"
-Citation: "Cheng, Yingchi; Hall, Derek M.; Boualavong, Jonathan; Hickey, Robert J.; Lvov, Serguei N.; Gorski, Christopher A.. Inﬂuence of Hydrotropes on the Solubilities and Diﬀusivities of Redox-Active Organic Compounds for Aqueous Flow Batteries. <i>ACS Omega.</i> vol. 6, pp. 30800-30810. 2021."
+Citation: "Cheng, Yingchi; Hall, Derek M.; Boualavong, Jonathan; Hickey, Robert J.; Lvov, Serguei N.; Gorski, Christopher A.. Inﬂuence of Hydrotropes on the Solubilities and Diﬀusivities of Redox-Active Organic Compounds for Aqueous Flow Batteries. <i>ACS Omega.</i> vol. 6, pp. 30800-30810. 2021-11-01."
 ---
 [doi: 10.1021/acsomega.1c05133](http://doi.org/10.1021/acsomega.1c05133)
 

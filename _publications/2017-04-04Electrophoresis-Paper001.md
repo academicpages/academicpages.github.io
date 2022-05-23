@@ -1,10 +1,10 @@
 ---
 title: "Electrokinetically controlled fluid injection into unicellular microalgae"
 collection: publications
-permalink: /publication/2017Electrophoresis-Paper001
-date: 2017
+permalink: /publication/2017-04-04Electrophoresis-Paper001
+date: 2017-04-04
 venue: "Electrophoresis"
-Citation: "Zhou, Xuewen; Zhang, Xixi; Boualavong, Jonathan; Durney, Andrew R.; Wang, Tonghui; Kirschner, Scott; Wentz, Michaela; Mukaibo, Hitomi. Electrokinetically controlled fluid injection into unicellular microalgae. <i>Electrophoresis.</i> vol. 38, pp. 2587-2591. 2017."
+Citation: "Zhou, Xuewen; Zhang, Xixi; Boualavong, Jonathan; Durney, Andrew R.; Wang, Tonghui; Kirschner, Scott; Wentz, Michaela; Mukaibo, Hitomi. Electrokinetically controlled fluid injection into unicellular microalgae. <i>Electrophoresis.</i> vol. 38, pp. 2587-2591. 2017-04-04."
 ---
 [doi: 10.1002/elps.201600548](http://doi.org/10.1002/elps.201600548)
 
