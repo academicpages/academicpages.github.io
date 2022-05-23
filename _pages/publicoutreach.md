@@ -7,5 +7,6 @@ redirect_from:
   - /publicoutreach
 ---
 
-## Public Outreach at Columbia
+## Columbia Astronomy Outreach Program  
 
+Organize and publicize bimonthly lecture series and stargazing events for Columbia and the general public.
