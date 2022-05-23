@@ -1,8 +1,8 @@
 ---
-title: "TA for Accelerated Physics II (UN2802)"
+title: "TA for Accelerated Physics II (PHYS 2802)"
 collection: teaching
-type: 
+type: "Department of Physics"
 permalink: /teaching/accelerated_physics
-venue: "Department of Physics, Columbia University"
+venue: "Columbia University"
 date: 2020-05-18
 ---
