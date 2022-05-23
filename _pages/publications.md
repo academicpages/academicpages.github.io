@@ -11,22 +11,44 @@ table, th, td {
 }
 </style>
 
-## 2021
+## 2022
 
 <table>
 <tr>
 <td style="width:70%">
 <b> What is a meaningful representation of protein sequences? </b>
 <br>
-Nicki Skafte Detlefsen, Søren Hauberg, Wouter Boomsma
+**Nicki Skafte Detlefsen**, Søren Hauberg, Wouter Boomsma
 <br>
-Under review at Nature Communications
+In Nature Communications
 <br>
-<a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2020_protein.pdf">PDF</a>
+<a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2022_protein.pdf">PDF</a>
 </td>
 <td style="width:30%">
 <p align="center">
-<img src="../images/2021_protein.PNG" width="300" title="hover text">
+<img src="../images/2022_protein.PNG" width="300" title="hover text">
+</p>
+</td>
+</tr>
+</table>
+
+## 2021
+
+<table>
+<tr>
+<td style="width:70%">
+<b> TorchMetrics - Measuring Reproducibility in PyTorch </b>
+<br>
+**Nicki Skafte Detlefsen**, Jiri Borovec, Justus Schock, Ananya Harsh Jha, Teddy Koker, Luca Di Liello, Daniel Stanc,
+Changsheng Quan, Maxim Grechkin, and William Falcon
+<br>
+In Journal of Open Source Software (JOSS)
+<br>
+<a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2021_torchmetrics.pdf">PDF</a>
+</td>
+<td style="width:30%">
+<p align="center">
+<img src="../images/2021_torchmetrics.PNG" width="300" title="hover text">
 </p>
 </td>
 </tr>

@@ -21,7 +21,6 @@ Current students:
 
 Year | Students | Project |
 -----|----------|---------|
-2022 | Marco Placenti | Machine Learning Pipeline Engineering with Amazon Web Services |
 2022 | Xianhao Liu | Continues piecewise affine based normalizing flows |
 2022 | Andri Geir Arnarson and Asger Frederik Græsholt | Automation of a fruit sorting system |
 2022 | Gustav Selfort Hartz | Using deep learning and transformer models for processing, searching, and tagging legal documents |
@@ -30,6 +29,7 @@ Former students:
 
 Year | Students | Project |
 -----|----------|---------|
+2022 | Marco Placenti | Machine Learning Pipeline Engineering with Amazon Web Services |
 2021 | Frederik Kromann Hansen and Jonas Søbro Christophersen | Investigating osteoarthritis via x-ray images using deep learning |
 2021 | Morten Holm Thomsen and Simon Kristian Jacobsen | Development of Graph Neural Networks for prediction of financial data |
 2020 | Kathrine Thorup Hagedorn | Entertainment Recommender System complying to the GDPR ruleset |
