@@ -17,6 +17,6 @@ I am a die-hard fan of [Beijing Guoan FC](http://www.fcguoan.com/en/), a soccer 
 
 <figure>
   <figcaption>Largest TIFO in Asia at Worker's Stadium, Beijing Guoan's homecourt. I am in the audience.</figcaption>
-  <img src="/images/highschool_soccer.jpg" width="200"/>
+  <img src="/images/TIFO.jpg" width="200"/>
 </figure>
 
