@@ -31,7 +31,7 @@ I am co-hosting a Brownbag series with Professor Zeqi Qiu at Peking University f
 April 6, 2022, Conversation with Professor Chris Bail at Duke University, Director of Polarization Lab. [Click here for more info](https://yongjunzhang.com/files/smp.pdf). 
 
 ## New Paper Alert
-Hao Lin, Pradeep Nalluri, Lantian Li, Yifan Sun, and Yongjun Zhang. 2022. "[Multiplex Anti-Asian Sentiment before and during the Pandemic: Introducing New Datasets from Twitter Mining](https://osf.io/xtw4c/)." 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis.
+Hao Lin, Pradeep Nalluri, Lantian Li, Yifan Sun, and Yongjun Zhang. 2022. "[Multiplex Anti-Asian Sentiment before and during the Pandemic: Introducing New Datasets from Twitter Mining](https://aclanthology.org/2022.wassa-1.2/)." 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis.
 
 Yongjun Zhang, Sienna Thorgusen, and Xinguang Fan. 2022. "[News Coverage of Social Protests in Global Society](https://doi.org/10.1177/00207152221085601)." International Journal of Comparative Sociology.
 
