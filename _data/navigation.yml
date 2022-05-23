@@ -3,10 +3,13 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching and Outreach"
+  - title: "Teaching"
     url: /teaching/    
     
-  - title: "Side Projects"
+  - title: "Outreach"
+    url: /outreach/    
+
+  - title: "Early Projects"
     url: /projects/
         
   - title: "CV"
