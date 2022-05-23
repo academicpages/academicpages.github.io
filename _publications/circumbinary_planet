@@ -1,8 +1,8 @@
 ---
 title: "The Number of Transits Per Epoch for Transiting Misaligned Circumbinary Planets"
-#collection: publications
-#permalink: ""
-excerpt: test
+collection: publications
+permalink:
+excerpt:
 date: 2022-4-22
 venue: 'MNRAS'
 paperurl: 'https://arxiv.org/pdf/2112.00966.pdf'
