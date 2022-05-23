@@ -16,7 +16,8 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
-        <img src=
+        <img style="max-width: 50%;" 
+             src=
           {% if teaser contains "://" %}
             "{{ teaser }}"
           {% else %}
