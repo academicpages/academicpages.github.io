@@ -2,7 +2,7 @@
 title: "PiSmash: Machine Learning with Super Smash Bros"
 collection: projects
 permalink: /projects/pismash
-date: 2019
+date: 2019-01-01
 ---
 
 ![Some example object detections.](../images/projects/smashObjRecog.jpg)

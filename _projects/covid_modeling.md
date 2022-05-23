@@ -2,7 +2,7 @@
 title: "COVID-19 Doubling-Time Modeling and Predictions"
 collection: projects
 permalink: /projects/covidmodeling
-date: 2020
+date: 2020-01-01
 ---
 
 ![An example fitted model to COVID-19 doubling-time data.](../images/projects/covidmodeling.png)
