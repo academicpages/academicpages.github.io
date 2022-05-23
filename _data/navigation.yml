@@ -17,6 +17,8 @@ main:
     
   - title: "cv"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+ 
+  - title: "contact"
+    url: /contact/   
+ # - title: "Guide"
+ #   url: /markdown/

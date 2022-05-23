@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About"
+title                    : "about"
 title_separator          : "-"
 name                     : &name "Daria Tisch"
 description              : &description "Quantitative social scientist"
@@ -84,10 +84,10 @@ author:
   avatar           : "foto.jpg"
   bio              : "Quantitative social scientist"
   location         : 
-  employer         : ""
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?hl=en&inst=14111803007275821770&pli=1&user=KYa4NbYAAAAJ"
-  email            :
+  email            : "tisch@mpifg.de"
   researchgate     : "https://www.researchgate.net/profile/Daria-Tisch"
   uri              :
   bitbucket        :
