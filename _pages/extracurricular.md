@@ -20,3 +20,7 @@ I am a die-hard fan of [Beijing Guoan FC](http://www.fcguoan.com/en/), a soccer 
   <img src="/images/TIFO.jpg" width="200"/>
 </figure>
 
+## A Message that is Designed to Last for 10,000 Years
+
+How does a civilization create a message that can last for 10,000 years?
+
