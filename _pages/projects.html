@@ -1,0 +1,14 @@
+---
+permalink: /projects/
+title: "Side Projects"
+excerpt: "Side Projects"
+author_profile: true
+---
+
+Beyond my main academic research, I have also worked on various projects related to my own interested. 
+
+{% include base_path %}
+
+{% for post in site.projects reversed %}
+  {% include archive-single.html %}
+{% endfor %}
