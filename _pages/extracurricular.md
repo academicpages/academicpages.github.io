@@ -24,3 +24,15 @@ I am a die-hard fan of [Beijing Guoan FC](http://www.fcguoan.com/en/), a soccer 
 
 How does a civilization create a message that can last for 10,000 years?
 
+In Summer 2020, Ms. Madeline Sunley, an artist and oil painter, asked me this question. Our goal was to artistically render a message that will be placed at 
+the radioactive waste storage site at New Mexico to warn people against the everlasting radioactive harm, which can last up to 10,000 years. This is officially 
+known as the Waste Isolation Pilot Plant (WIPP) project 
+
+
+
+Collaborated with Ms. Madeline Sunley to translate a message that is intended to last 10,000 years into oracle bone Chinese. 
+The message will be placed at the Waste Isolation Pilot Plant (WIPP) in New Mexico and serves to warn people against the everlasting harm of the radioactive waste stored there. 
+Used astronomical signs like constellation patterns to convey the passage and recording of time on the scale of tens of thousands of years.
+More information about the project can be found at: https://madelinesunley.com/ten-thousand-year-mystery
+Blog for the project: https://madelinesunley.com/the-starry-messenger-wipp-blog
+
