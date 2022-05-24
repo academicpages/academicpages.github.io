@@ -13,7 +13,11 @@ Beyond Astrophysics, I enjoy playing and watching all kinds of sports, especiall
 I am a die-hard fan of [Beijing Guoan FC](http://www.fcguoan.com/en/), a soccer team from my hometown Beijing, China.
 
 <p float="left">
-  <img src="/images/highschool_soccer.jpg" width="200" />
+  
+  <figure>
+    <img src="/images/highschool_soccer.jpg" width="200" />
+    <figcaption>test</figcaption>
+  </figure>  
   <img src="/images/TIFO.jpg" width="300" /> 
 </p>
 
