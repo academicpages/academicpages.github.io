@@ -34,6 +34,6 @@ then to Oracle Bone Chinese.
 Thus, this intriguing art project ends up connecting my interest in astronomy and my cultural heritage in amazing ways. For images and blog posts about this project, click [here](https://madelinesunley.com/the-starry-messenger-wipp-blog).
 
 <figure>
-  <img src="/images/oracle_bone.jpg">
+  <img src="/images/oracle_bone.jpeg">
   <figcaption>A glimpse at Ms. Sunley's artwork. Credit: madelinesunley.com/</figcaption>
 </figure>
