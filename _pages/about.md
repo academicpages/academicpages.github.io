@@ -17,5 +17,5 @@ I am a quantitative social scientist.
 Currently, I mainly study wealth inequality with a focus on the family, gender, and the superrich.
 
 
-I work in the [Research Group on Wealth and Social Inequality](https://www.mpifg.de/research/wealth-and-social-inequality) at [the Max Planck Institute for the Study of Societies in Cologne, Germany] (https://mpifg.de).
+I work in the [Research Group on Wealth and Social Inequality](https://www.mpifg.de/research/wealth-and-social-inequality) at [the Max Planck Institute for the Study of Societies in Cologne, Germany](https://mpifg.de).
 
