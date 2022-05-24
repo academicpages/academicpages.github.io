@@ -14,8 +14,8 @@ I am a die-hard fan of [Beijing Guoan FC](http://www.fcguoan.com/en/), a soccer 
 
 <p float="left">
   
-  <img src="/images/highschool_soccer.jpg" width="200" /> 
-  <img src="/images/TIFO.jpg" width="300" /> 
+  <img src="/images/highschool_soccer.jpg" width="300" /> 
+  <img src="/images/TIFO.jpg" width="600" /> 
 </p>
 
 ## A Message that is Designed to Last for 10,000 Years
