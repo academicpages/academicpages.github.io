@@ -36,6 +36,12 @@ Research Interests
 
 News
 ======
+[May. 2022] I joined the UCL Interaction Centre (UCLIC) for my PhD adventure!
+
+[Apr. 2022] Paper accepted at MobiUK 2022.
+Work with Valentin Radu, "MMLoc+: A Transfer Learning based Multimodal Machine Learning Localization System for Dynamic Sensor Networks".
+[Link](https://mobiuk.org/2022/)
+
 [Jan. 2022] Paper published on IEEE.
 Work with Zhiqiang Wei and Valentin Radu, "MM-Loc: Cross-sensor Indoor Smartphone Location Tracking using Multimodal Deep Neural Networks".
 [Link](https://ieeexplore.ieee.org/document/9662519/)
