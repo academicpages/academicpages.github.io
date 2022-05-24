@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-#You can also find my articles on [my Google Scholar profile](https://scholar.google.de/citations?hl=en&inst=14111803007275821770&pli=1&user=KYa4NbYAAAAJ).
+You can also find my articles on [my Google Scholar profile](https://scholar.google.de/citations?hl=en&inst=14111803007275821770&pli=1&user=KYa4NbYAAAAJ).
 
 You can find the replication files on [my OSF profile](https://osf.io/8sgp9).  
 
