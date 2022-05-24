@@ -1,5 +1,5 @@
 ---
-title: "End-to-End Machine Learning for Smartphone-based Indoor Localisation and Tracking using Recurrent Neural Networks"
+title: "A Transfer Learning based Multimodal Machine Learning Localization System for Dynamic Sensor Networks"
 collection: publications
 permalink: /publications/mobiuk2022
 excerpt: ""
