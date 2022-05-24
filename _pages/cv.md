@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-<embed src= "/file/Zach Mackin Resume (3).pdf" type = "application/pdf">
-
+You can view my CV below or use this [link](https://zachmackin.github.io/files/Zach Mackin Resume (3).pdf)
+<embed src = "zachmackin.github.io/files/Zach Mackin Resume (3).pdf" type = "application/pdf">
