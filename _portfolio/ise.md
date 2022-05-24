@@ -8,10 +8,10 @@ Why do governments make pronouncements about another country's human rights prac
 
 ## Team
 ### Current Members
-* [Anika Kapur](https://j1wonkim.github.io/anika/) (Jan 2022-current)
-* [Celline Kim](https://j1wonkim.github.io/celline/) (Jan 2022-current)
-* [Karina Nehra](https://j1wonkim.github.io/karina/) (Jan 2022-current)
-* [Taoshu Ren](https://j1wonkim.github.io/taoshu/) (Feb 2022-current)
+* [Anika Kapur](https://j1wonkim.github.io/anika/) (Jan 2022-current, coder)
+* [Celline Kim](https://j1wonkim.github.io/celline/) (Jan 2022-current, coder)
+* [Karina Nehra](https://j1wonkim.github.io/karina/) (Jan 2022-current, coder)
+* [Taoshu Ren](https://j1wonkim.github.io/taoshu/) (Feb 2022-current, coder)
 
 <br/><img src='/images/ISE_picture_4.jpg'>{: width="600" }
 
@@ -21,7 +21,7 @@ Why do governments make pronouncements about another country's human rights prac
 * [Shaming as Human Rights Diplomacy: Who Does US Name And Shame And When?](https://j1wonkim.github.io/research/mpsa2021)
 
 ## Funding
-This research has been supported by Emory University's undergraduate reserach class (POLS399R) and external awards from [Computational Social Science Datathon](https://sites.google.com/view/css-workshop-datathon).
+This research has been supported by Emory University's undergraduate reserach class (POLS399R) and [Computational Social Science Datathon](https://sites.google.com/view/css-workshop-datathon).
 
 ## Former Members
 * Sarah Qadir (2020 Fall)
@@ -30,7 +30,7 @@ This research has been supported by Emory University's undergraduate reserach cl
 
 ## Related Links
 
-### Acknowledgements
+## Acknowledgements
 
 
 
