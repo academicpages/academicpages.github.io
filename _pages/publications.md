@@ -13,23 +13,23 @@ author_profile: true
  * <b>Semi-Supervised Medical Image Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
   <b>Xiangde Luo</b>, Guotai Wang, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Dimitris N. Metaxas, Shaoting Zhang <br>
   <i>Submitted to Medical Image Analysis (Accept subject Minor Revision -No Second Review, extend from [MICCAI2021](https://arxiv.org/pdf/2012.07042.pdf))<br>
- [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
+  [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
     
  * <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b> <br> 
   Zhongyu Li, Chaoqun Li, <b>Xiangde Luo</b>, Yitian Zhou, Jihua Zhu, Cunbao Xu, Meng Yang, Yenan Wu, Yifeng Chen <br> 
   <i>Submitted to IEEE Transaction on Medical Imaging (Under Major Revision, the first three authors contributed equally.) <br>
- [[paper](https://luoxd1996.github.io/)][[code](https://luoxd1996.github.io/)]
+  [[paper](https://luoxd1996.github.io/)][[code](https://luoxd1996.github.io/)]
     
 **Journals**
  * <b>SCPM-Net: An Anchor-free 3D Lung Nodule Detection Network using Sphere Representation and Center Points Matching</b> <br> 
  <b>Xiangde Luo </b>, Tao Song, Guotai Wang, Jieneng Chen, Yinan Chen, Kang Li, Dimitris N. Metaxas, Shaoting Zhang<br>
  <b>Medical Image Analysis</b>.<br>
-  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521003327)][[code](https://github.com/HiLab-git/SCPM-Net)]
+ [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521003327)][[code](https://github.com/HiLab-git/SCPM-Net)]
   
  * <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> <br> 
  <b>Xiangde Luo</b>, Guotai Wang, Tao Song, Jingyang Zhang, Michael Aertsen, Jan Deprest, Sebastien Ourselin, Tom Vercauteren, Shaoting Zhang<br>
  <b>Medical Image Analysis</b>.<br>
-   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521001481)][[code](https://github.com/Luoxd1996/MIDeepSeg)][[demo](https://www.youtube.com/watch?v=eq-tqlJnckE)]
+ [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521001481)][[code](https://github.com/Luoxd1996/MIDeepSeg)][[demo](https://www.youtube.com/watch?v=eq-tqlJnckE)]
    
 **Conferences**
 * <b>Scribble-Supervised Medical Image Segmentation via Dual-Branch Network and Dynamically Mixed Pseudo Labels Supervision</b> <br> 
