@@ -12,7 +12,9 @@ Hello! Welcome to my pages. I am a first-year doctoral student at Aalto Universi
 
 ## Recent news 
 
-> Our paper: "Hack a Way! Analysis of SQL injection attempts in a cybersecurity course" has been accepted for publication at [ITiCSE](https://iticse.acm.org/2022/)!
+> I will take part in the [Nordic Probabilistic AI School](https://probabilistic.ai/) in June
+
+> Our paper: "Exploring How Students Solve Open-ended Assignments: A Study of SQL Injection Attempts in a Cybersecurity Course" has been accepted for publication at [ITiCSE](https://iticse.acm.org/2022/)! It will be available in July. 
 
 > I presented online our [paper](https://koutche.me/publications/14_02_2022_Methodological_Considerations/): "Methodological Considerations for Predicting at Risk Students" at ACE22. 
 
