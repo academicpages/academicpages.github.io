@@ -14,10 +14,7 @@ I am a die-hard fan of [Beijing Guoan FC](http://www.fcguoan.com/en/), a soccer 
 
 <p float="left">
   
-  <figure>
-    <img src="/images/highschool_soccer.jpg" width="200" />
-    <figcaption>test</figcaption>
-  </figure>  
+  <img src="/images/highschool_soccer.jpg" width="200" /> 
   <img src="/images/TIFO.jpg" width="300" /> 
 </p>
 
