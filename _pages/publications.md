@@ -28,14 +28,18 @@ riage and Family (83, 2) 516-533,  <u><a href="https://doi.org/10.1111/jomf.1269
 
 Lutter, Mark, Karlijn Roex, Daria Tisch (2020) „Anomie or imitation? The
 Werther effect of celebrity suicides on suicide rates in 34 OECD coun-
-tries, 1960–2014“, Social Science and Medicine (246), <u><a href="https://doi.org/
-10.1016/j.socscimed.2019.112755">doi.org/10.1016/j.socscimed.2019.112755</a>.</u>
+tries, 1960–2014“, Social Science and Medicine (246), <u><a href="https://doi.org/10.1016/j.socscimed.2019.112755">doi.org/10.1016/j.socscimed.2019.112755</a>.</u>
 
 
 Lutter, Mark, Daria Tisch, Jens Beckert (2018) „Social Explanations of Lottery
 Play: New Evidence Based on National Survey Data“, Journal of Gambling
 Studies (34) 1185–1203, <u><a href="https://doi.org/10.1007/s10899-018-9748-0">doi.org/10.1007/s10899-018-9748-0</a>.</u>
 
+
+Other
+======
+
+Tisch, Daria (2021) "Perceptions of Gender Wealth Inequalities within the Family". Dissertation. <u><a href="https://kups.ub.uni-koeln.de/52697/">LINK</a>.</u>
 
 
 
