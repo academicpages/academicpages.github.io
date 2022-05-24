@@ -13,8 +13,8 @@ Beyond Astrophysics, I enjoy playing and watching all kinds of sports, especiall
 I am a die-hard fan of [Beijing Guoan FC](http://www.fcguoan.com/en/), a soccer team from my hometown Beijing, China.
 
 <p float="left">
-  <img src="/images/highschool_soccer.jpg" width="100" />
-  <img src="/images/TIFO.jpg" width="100" /> 
+  <img src="/images/highschool_soccer.jpg" width="200" />
+  <img src="/images/TIFO.jpg" width="300" /> 
 </p>
 
 ## A Message that is Designed to Last for 10,000 Years
