@@ -16,4 +16,4 @@ I have done research and projects in a multitude of areas such as exploring a co
 
 I additionally have extensive teaching experiences within Mathematics, Statistics, Computer Science, and Data Science courses.
 
-Thank you for visiting my page! To reach out you can send an email to zachmackin@berkeley.edu or connect with me on [Linkedin](https://www.linkedin.com/in/zachary-mackin-408ba51bb/)
+Thank you for visiting my page! To reach out you can send an email to zachmackin@berkeley.edu or connect with me on [Linkedin](https://www.linkedin.com/in/zachary-mackin-408ba51bb/).
