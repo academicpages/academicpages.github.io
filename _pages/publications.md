@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## Lab
+## Data
 
 [**International Shaming Events (ISE) Data Project**](https://j1wonkim.github.io/portfolio/ise/)
 
@@ -30,8 +30,3 @@ author_profile: true
 
   _Contact for the current status, 2022_
 
-## Dormant
-
-**Scale of Truth: How Ideology Affects What NGO Tweets about What Is Happening in Gaza**
-  
-  _Received seed grant from [Computational Social Science Datathon](https://sites.google.com/view/css-workshop-datathon), 2021_
