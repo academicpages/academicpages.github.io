@@ -10,7 +10,7 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 
 # Conference Papers
 ## 2022
-* **Selective Cross-city Transfer Learning for Traffic Prediction via Source City Region Re-weighting** <br>
+* **Selective Cross-City Transfer Learning for Traffic Prediction via Source City Region Re-Weighting** <br>
 **Yilun Jin**, Kai Chen, Qiang Yang. <br> To appear in *the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2022
 
 ## 2021
