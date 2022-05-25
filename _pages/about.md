@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Systems Analyst at The Jackson Laboratory, working in the Research IT department. My expertise is in microscopy data analysis and management, with my previous life being the data person at [CAMDU](https://www.warwick.ac.uk/camdu).
+I manage the Imaging Solutions at The Jackson Laboratory, working in the Research IT department. My expertise is in microscopy data analysis and management, with my previous life being the data person at [CAMDU](https://www.warwick.ac.uk/camdu).

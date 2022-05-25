@@ -17,7 +17,7 @@ Education
 
 Research experience
 ======
-* **2017-2019:** Independent Research Fellow on Bioimage analysis and data management, University of Warwick
+* **2017-2019:** Research Fellow on Bioimage analysis and data management, University of Warwick
   * Responsible for image analysis and data management for the Biomedical Sciences division of Warwick Medical School
   * Implemented and maintained a number of IT systems for data management.
   * Developed software in multiple different languages to support image analysis needs from other researchers  
@@ -34,7 +34,10 @@ Research experience
 
 Work experience
 ======
-* **2019-present:** Systems Analyst, The Jackson Laboratory
+* **2022-present:** Manager, Imaging Solutions, The Jackson Laboratory
+  * Research IT department
+
+* **2019-2022:** Systems Analyst, The Jackson Laboratory
   * Research IT department
 
 * **2017-2019:** Research Fellow, University of Warwick
@@ -58,7 +61,7 @@ Skills
   * C
   * Python
   * R
-  * MATLAB
+  * Matlab
   * Bash
   * Java
   * ImageJ/Fiji macro
@@ -67,6 +70,7 @@ Skills
   * LaTeX
   * OMERO
   * Numpy/Pandas
+  * PyTorch
 
 Publications
 ======
