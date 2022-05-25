@@ -15,3 +15,21 @@ comments
 
 
 You can download a PDF copy of my CV [here](/files/pdf/my_CV.pdf).
+
+
+
+## Education
+
+Boston, MA
+  ~ **University of Charles River**
+
+09/2021 - 01/2023
+  ~ M.S. in Computer Science
+
+Shanghai, China
+  ~ **Huangdu Institute of Technology**
+
+09/2016 - 07/2020
+  ~ B.Eng. in Software Engineering 
+
+
