@@ -11,26 +11,9 @@ redirect_from:
 
 Education
 ======
-* **B.Eng. in Telecommunications Engineering**, Universidade Federal Fluminense, 2009
-* **Double M.Sc. in Complex Systems Science**, École Polytechnique and Chalmers University of Technology, 2013
 * **Ph.D in Analytical Science**, University of Warwick, 2017  
-
-Research experience
-======
-* **2017-2019:** Research Fellow on Bioimage analysis and data management, University of Warwick
-  * Responsible for image analysis and data management for the Biomedical Sciences division of Warwick Medical School
-  * Implemented and maintained a number of IT systems for data management.
-  * Developed software in multiple different languages to support image analysis needs from other researchers  
-  
-* **2017:** Research Assistant on protein structure visualisation, University of Warwick
-  * Developed a software pipeline to simulate and visualise protein rigidity analysis.
-  * Built a virtual reality toolkit to deploy three-dimensional protein structure animations.
-  * Took part in supporting antimicrobial resistance research, trying to understand how drugs affect protein rigidity.  
-  
-* **2013-2017:** Ph.D candidate in computational biophysics, University of Warwick
-  * Developed simulation software to better understand force generation during bacterial division.
-  * Researched and adapted advanced applied mathematics algorithms for calculations.
-  * Used high-performance computing infrastructure to achieve simulation results.  
+* **Double M.Sc. in Complex Systems Science**, École Polytechnique and Chalmers University of Technology, 2013
+* **B.Eng. in Telecommunications Engineering**, Universidade Federal Fluminense, 2009
 
 Work experience
 ======
@@ -54,23 +37,41 @@ Work experience
 
 * **2008-2008:** Research Intern, Harman/Becker GmbH.
   * Automotive applications
+
+Research experience
+======
+* **2017-2019:** Research Fellow on Bioimage analysis and data management, University of Warwick
+  * Responsible for image analysis and data management for the Biomedical Sciences division of Warwick Medical School
+  * Implemented and maintained a number of IT systems for data management.
+  * Developed software in multiple different languages to support image analysis needs from other researchers  
   
+* **2017:** Research Assistant on protein structure visualisation, University of Warwick
+  * Developed a software pipeline to simulate and visualise protein rigidity analysis.
+  * Built a virtual reality toolkit to deploy three-dimensional protein structure animations.
+  * Took part in supporting antimicrobial resistance research, trying to understand how drugs affect protein rigidity.  
+  
+* **2013-2017:** Ph.D candidate in computational biophysics, University of Warwick
+  * Developed simulation software to better understand force generation during bacterial division.
+  * Researched and adapted advanced applied mathematics algorithms for calculations.
+  * Used high-performance computing infrastructure to achieve simulation results.  
+
 Skills
 ======
-* **Programming languages**
-  * C
+
   * Python
-  * R
-  * Matlab
   * Bash
-  * Java
-  * ImageJ/Fiji macro
-* **Libraries and tools**
   * Git
-  * LaTeX
   * OMERO
   * Numpy/Pandas
+  * CI/CD, Github Actions, unit/integration testing
   * PyTorch
+  * ImageJ/Fiji macro
+  * Java
+  * C
+  * R
+  * Matlab
+  * LaTeX
+
 
 Publications
 ======
