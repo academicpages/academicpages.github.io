@@ -4,10 +4,11 @@ excerpt: "<img src='/images/ISE_s22_group_picture.jpg'>"
 collection: portfolio
 ---
 ### Research Goal
-Why do governments make pronouncements about another country's human rights practice? Accurately describing gov-to-gov human rights shaming behavior is the first step to answering this questions.
+Why do countries talk about each other's human rights practices? What rhetorical strategies do they use to shame others? How does the definition of human rights differ across countries, and what are the implications to the rule-based international order? Accurately describing country-to-country verbal interaction is the first step to answering these questions.
 
 ## Team
 ### Current Members
+* Jiwon Kim (PI)
 * [Anika Kapur](https://j1wonkim.github.io/anika/) (Jan 2022-current, coder)
 * [Celline Kim](https://j1wonkim.github.io/celline/) (Jan 2022-current, coder)
 * [Karina Nehra](https://j1wonkim.github.io/karina/) (Jan 2022-current, coder)
