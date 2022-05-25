@@ -15,7 +15,7 @@ comments
 
 
 # Education
-**McGill University** <p style='text-align: right;'> Montreal, Canada </p>
+`2017-Present` **McGill University, Montreal, Canada** 
 *PhD in Economics*
 
 
