@@ -1,5 +1,5 @@
 ---
-title: "*Salvia stachydifolia,* "
+title: "*Salvia stachydifolia* "
 excerpt: "<br/><img src='/images/stach_mix1.png'>"
 collection: portfolio
 ---
