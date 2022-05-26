@@ -21,16 +21,16 @@ Why do countries talk about each other's human rights practices? What rhetorical
 * [Measuring Human Rights Shaming Intensity as a Multifaceted Interval Variable](https://j1wonkim.github.io/research/)
 
 ## Funding
-This research has been supported by Emory University's undergraduate reserach class (POLS399R) and [Computational Social Science Datathon](https://sites.google.com/view/css-workshop-datathon).
+This research has been supported by Emory University's undergraduate reserach credit course (POLS399R) and [Computational Social Science Datathon](https://sites.google.com/view/css-workshop-datathon).
+
+## Acknowledgements
+I thank [Prodigy](https://prodi.gy/) for providing academic license.
 
 ## Former Members
 * Sarah Qadir (2020 Fall)
 * Joanne Choi (2021 Spring)
 * Sandy Gonzalez (2021 Spring) 
 
-## Related Links
-
-## Acknowledgements
 
 
 
