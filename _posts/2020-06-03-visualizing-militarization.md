@@ -19,28 +19,6 @@ tags:
   - github
 ---
 
----
-date: 2020-06-03
-excerpt_separator: |
-  <!--more-->
-header:
-  og_image: posts/mrap/mrap-1.png
-knit: "(function(inputFile, encoding) { rmarkdown::render(inputFile,
-  encoding = encoding, output_dir = “../\\_posts”) })"
-output:
-  md_document:
-    preserve_yaml: true
-    variant: gfm
-permalink: /posts/2020/06/visualizing-militarization/
-tags:
-- data
-- policing
-- visualization
-- github
-title: Visualizing Police Militarization
-toc: true
----
-
 
 
 Much has been written lately about the increasing militarization of US
