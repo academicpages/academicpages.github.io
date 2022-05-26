@@ -19,6 +19,30 @@ tags:
   - github
 ---
 
+---
+date: 2020-06-03
+excerpt_separator: |
+  <!--more-->
+header:
+  og_image: posts/mrap/mrap-1.png
+knit: "(function(inputFile, encoding) { rmarkdown::render(inputFile,
+  encoding = encoding, output_dir = “../\\_posts”) })"
+output:
+  md_document:
+    preserve_yaml: true
+    variant: gfm
+permalink: /posts/2020/06/visualizing-militarization/
+tags:
+- data
+- policing
+- visualization
+- github
+title: Visualizing Police Militarization
+toc: true
+---
+
+
+
 Much has been written lately about the increasing militarization of US
 law enforcement. One of the most visible indicators of this shift in
 recent decades is the increased frequency of tactical gear and equipment
@@ -67,10 +91,10 @@ transfer surplus Department of Defense property to “federal and state
 agencies for use in counter-drug activities” and this was expanded to
 the 1033 program in 1997 (see
 [here](https://web.archive.org/web/20141202031945/http://www.dispositionservices.dla.mil/leso/pages/1033programfaqs.aspx#q1#q1)
-for details). The program was [suspended by Obama
-in 2014](https://www.usatoday.com/story/news/politics/2015/05/18/obama-police-military-equipment-sales-new-jersey/27521793/)
-before being [restored by Trump
-in 2017](https://www.nytimes.com/2017/08/28/us/politics/trump-police-military-surplus-equipment.html).
+for details). The program was [suspended by Obama in
+2014](https://www.usatoday.com/story/news/politics/2015/05/18/obama-police-military-equipment-sales-new-jersey/27521793/)
+before being [restored by Trump in
+2017](https://www.nytimes.com/2017/08/28/us/politics/trump-police-military-surplus-equipment.html).
 
 The [Marshall Project](https://www.themarshallproject.org/) has an
 [online
@@ -91,7 +115,7 @@ from the Defense Logistics Agency (DLA), which administers the 1033
 program.
 
 Below I’ve plotted the total number of MRAPs transferred to law
-enforcement agencies in each state from 1990 to 2021. It’s important to
+enforcement agencies in each state from 1990 to 2022. It’s important to
 note that this is *not* a reflection of the total number of MRAPs in
 each state as this just count the transfers from DLA to local agencies.
 It’s possible for agencies to return the vehicles, as LAUSD did, and
@@ -100,7 +124,7 @@ maintain.
 
 ![](/images/posts/mrap/mrap-1.png)<!-- -->
 
-By 2021 only 3 states have not received a single MRAP (Hawaii is not
+By 2022 only 3 states have not received a single MRAP (Hawaii is not
 included in the data from DLA, although the Marshall Project’s database
 records that the FBI has received 3). The grey band in each panel of the
 plot marks the suspension of the 1033 program from 2014 to 2017. While
