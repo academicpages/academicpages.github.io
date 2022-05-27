@@ -21,13 +21,13 @@ I have presented / will be presenting at...
 - Prague, Czech Republic: 2022. Panel: Patronage & Accountability.
 
 #### European Political Science Association (ECPR)
-- Inssbruck, Austria: 2022. Panel: Clientelism in Developing Democracies: Divergent Explanations, Convergent Outcomes (full panel organizer).
+- Innsbruck, Austria: 2022. Panel: Clientelism in Developing Democracies: Divergent Explanations, Convergent Outcomes (full panel organizer).
 
 #### Nordic Sociological Association Conference (NSA)
-- Reykjavik, Iceland: 2022. [declined]
+- Reykjavik, Iceland: 2022.
 
 #### Society for Institutional & Organizational Economics (SIOE)
-- Toronto, Canada: 2022. Panel: TBA.
+- Toronto, Canada: 2022. [declined]
 
 #### Midwest Political Science Association (MPSA)
 
@@ -45,7 +45,7 @@ I have presented / will be presenting at...
 
 #### Latin American Studies Association (LASA)
 
-- San Francisco, CA: 2022. Panel: 
+- San Francisco, CA: 2022. Panel: The Politics of Corruption and Anti-Corruption.
 
 - Barcelona, Spain: 2018. Panel: Building and Eroding State Capacity.
 
