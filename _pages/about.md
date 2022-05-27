@@ -29,6 +29,7 @@ Email: wang dot dian at northeastern dot edu
 **Equivariant Transporter Network**  
 Haojie Huang, **Dian Wang**, Robin Walters, Robert Platt  
 *RSS 2022, New York City, New York, USA*  
+*ICRA 2022 Workshop on Scaling Robot Learning, Philadelphia, Pennsylvania USA,* ***Best Paper Award Finalist***  
 [(Webpage)](https://haojhuang.github.io/etp_page/)[(PDF)](https://arxiv.org/pdf/2202.09400.pdf)[(Code)](https://github.com/HaojHuang/Equivariant-Transporter-Net)
 ` `  
 ` `  
@@ -37,6 +38,7 @@ Haojie Huang, **Dian Wang**, Robin Walters, Robert Platt
 **Sample Efficient Grasp Learning Using Equivariant Models**  
 Xupeng Zhu, **Dian Wang**, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt  
 *RSS 2022, New York City, New York, USA*  
+*ICRA 2022 Workshop on Scaling Robot Learning, Philadelphia, Pennsylvania USA, Spotlight*  
 [(Webpage)](https://zxp-s-works.github.io/equivariant_grasp_site/)[(PDF)](https://arxiv.org/pdf/2202.09468.pdf)[(Video)](https://youtu.be/au59crsgiKw)[(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)
 ` `  
 ` `  
@@ -45,6 +47,7 @@ Xupeng Zhu, **Dian Wang**, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt
 **SO(2)-Equivariant Reinforcement Learning**  
 **Dian Wang**, Robin Walters, Robert Platt  
 *ICLR 2022, Virtual,* ***spotlight***  
+*ICRA 2022 Workshop on Scaling Robot Learning, Philadelphia, Pennsylvania USA, Spotlight*  
 [(Webpage)](https://pointw.github.io/equi_rl_page/)[(PDF)](https://arxiv.org/pdf/2203.04439.pdf)[(OpenReview)](https://openreview.net/forum?id=7F9cOhdvfk_)[(Video)](https://youtu.be/8Ocwv2nnSKI)[(Code)](https://github.com/pointW/equi_rl)
 ` `  
 ` `  
