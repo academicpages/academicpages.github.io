@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=iZnTmxMAAAAJ&view_op=list_works&sortby=pubdate) for a full list of publications. Here, I highlight some of my ongoing and recent work.
 
 
-## Ongoing Statistical Methods Papers
+## Statistical Methods
 
 **[Federated Adaptive Causal Estimation (FACE) for Target Treatment Effects](https://arxiv.org/abs/2112.09313)**.  
 *2022 ASA Young Investigator Award of the Section on Statistics in Epidemiology.*  
@@ -35,6 +35,10 @@ This paper develops a principled approach for sensitivity analysis of design par
 **Doubly Robust Semi-supervised Estimation of Survival**.    
 **Han L,** Hou J, Cai T.  
 This paper develops semi-supervised, transfer learning methods to improve efficiency of pragmatic trials when the study endpoint is time-to-event and is captured using imperfect surrogates in electronic health records.
+
+**Multisource Transfer Learning: Majority Rules**.   
+Guo, Z, **Han, L,** Cai, T.  
+We develop a novel methodology for multisource transfer learning, with applications high-dimensionanl regression, causal inference, and instrumental variable settings.
 
 **Principal Resampling for Causal Inference**.  
 Han S, **Han L,** Zubizarreta, J.  
@@ -131,7 +135,7 @@ WHO/TDR (2018).
 AIDS (2018).  
 Qin Y, **Han L,** Babbitt A, Walker JS, Liu F, Thirumurthy H, Tang W, Tucker JD.
 
-## Observational HIV/STI Studies
+## Observational Studies
 
 **[HIV self-testing among men who have sex with men in China: a qualitative implementation research study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6844410/)**.  
 Journal of Virus Eradication (2020).  
