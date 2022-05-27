@@ -46,7 +46,7 @@ Xupeng Zhu, **Dian Wang**, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt
 ![](images/iclr22_sac.png){: .align-right width="200px"}
 **SO(2)-Equivariant Reinforcement Learning**  
 **Dian Wang**, Robin Walters, Robert Platt  
-*ICLR 2022, Virtual,* ***spotlight***  
+*ICLR 2022, Virtual,* ***Spotlight***  
 *ICRA 2022 Workshop on Scaling Robot Learning, Spotlight*  
 [(Webpage)](https://pointw.github.io/equi_rl_page/)[(PDF)](https://arxiv.org/pdf/2203.04439.pdf)[(OpenReview)](https://openreview.net/forum?id=7F9cOhdvfk_)[(Video)](https://youtu.be/8Ocwv2nnSKI)[(Code)](https://github.com/pointW/equi_rl)
 ` `  
