@@ -37,7 +37,7 @@ Students, faculty and staff who are Crypto advocate are welcomed to join us!
 
 Site: [https://tuffyverse.com/blockchain-club](https://tuffyverse.com/blockchain-club) 
 
-Discord: [https://discord.gg/AgEQmvH6](https://discord.gg/AgEQmvH6)
+Discord: [https://discord.gg/x9wZEXXFE6](https://discord.gg/x9wZEXXFE6)
 
 [Blog Posts](https://wenlinhan.github.io/year-archive/)
 ======
