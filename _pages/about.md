@@ -14,6 +14,6 @@ I am a Junior studying Statistics and Data Science at the [University of Califor
 
 I have done research and projects in a multitude of areas such as exploring a country's risk of defaulting with the [Economist Intellingence Unit](https://eiu.com) and accounting for growth in pollution within the Chesapeake Bay with the [Chesapeake Legal Alliance](https://chesapeakelegal.org).
 
-I additionally have extensive teaching experiences within Mathematics, Statistics, Computer Science, and Data Science courses.
+Additionally, I have extensive teaching experiences within Mathematics, Statistics, Computer Science, and Data Science courses.
 
 Thank you for visiting my page! To reach out you can send an email to zachmackin@berkeley.edu or connect with me on [Linkedin](https://www.linkedin.com/in/zachary-mackin-408ba51bb/).
