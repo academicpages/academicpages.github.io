@@ -20,7 +20,7 @@ redirect_from:
 - Juan Pablo Luna et al. (2011). "El Secreto de mi Exito: Parte II. Los Caminos a Vaparaiso en 2009." In: Revista de Ciencia Política 31.2, pp. 285-310. <br/> [[Paper]](https://scielo.conicyt.cl/pdf/revcipol/v31n2/art07.pdf)
 
 
-## Under Review, Revise and Resubmit, Submitted
+## Submitted, Under Review, Revise and Resubmit.
 
 - Hector Bahamonde and Andrea Canales. "Electoral Risk and Vote Buying, Introducing Prospect Theory to the Experimental Study of Clientelism." Revise and Resubmit, *Electoral Studies*. <br/> [[Abstract]](https://github.com/hbahamonde/Economic_Experiment_Vote_Selling/raw/master/abstract.txt)
 
