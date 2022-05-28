@@ -12,6 +12,7 @@ I am a NORDITA Fellow at the Nordita Institute and Stockholm University working 
 I am a member of the LIGO Scientific Collaboration (LSC) and the Australian research council centre for excellence for gravitational-wave discovery, OzGrav.
 
 # Recent News
+* 28th May 2022: I was awarded the 2021 Vice-Chancellor’s Commendation for Doctoral Thesis Excellence! One prize is awarded across the Science Faculty. Incredibly grateful to my supervisors, mentors and colleagues.
 * 6th May 2022: I was awarded the Robert Street Doctoral Prize for best PhD thesis at Monash!
 * 28th March 2022: _Linking the rates of neutron star binaries and short gamma-ray bursts_ accepted in Phys Review D. Check it out on the [arXiv](https://arxiv.org/abs/2201.08491).
 * 17th March 2022: Today, we released the alpha version of redback, a bayesian inference software package for electromagnetic transients. If you are interested in fitting and interpreting the observations of electromagnetic transients, check it out on [github](https://github.com/nikhil-sarin/redback) and consider contributing!
