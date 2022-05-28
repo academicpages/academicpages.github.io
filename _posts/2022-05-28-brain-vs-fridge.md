@@ -9,7 +9,11 @@ tags:
   - neuroscience
   - progress-studies
 ---
-The human brain is often described as "the most complex object in the universe" - justified by the number of synapses it contains or similar. But a glass of water contains lots of molecules and degrees of freedom as well.[^1] While the amount of relevant _computation_ a brain performs during its lifetime may be high,[^2] the amount of _information_ needed to describe it is upper-bounded by how much relevant data the fertilized egg it developed from contained, and how much flowed into it after conception. Even by computing standards of the 1990s, these are modest quantities - what's more, obtaining them is essentially a solved problem:
+The human brain is often described as "the most complex object in the universe" - justified by the number of synapses it contains or similar. But a glass of water contains lots of molecules and degrees of freedom as well.[^1] While the amount of relevant _computation_ a brain performs during its lifetime may be high,[^2] the amount of _information_ needed to describe it is upper-bounded by how much relevant data
+- was contained in the fertilized egg it developed from, and
+- flowed into it after conception.
+
+Even by computing standards of the 1990s, these are modest quantities - what's more, obtaining them is essentially a solved problem:
 ## How large is a brain's relevant genome?
 According to common wisdom, a fertilized egg - containing a human's biological _algorithm_[^3] - is mostly described by its genome.[^4] [With caveats](https://en.wikipedia.org/w/index.php?title=Human_Genome_Project&oldid=1084542142#State_of_completion), a reference human's DNA sequence had been determined by 2003[^9]. It is also believed that at most 10-15% of the genome encodes relevant information,[^5] corresponding to about **[75-115 megabytes](https://en.wikipedia.org/wiki/Human_genome#Information_content)** of uncompressed data.[^6] Of course, some of this (QUESTION: How much?) describes other body parts than the brain.[^7]
 ## How much data is a brain trained on?
