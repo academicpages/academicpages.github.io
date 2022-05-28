@@ -23,6 +23,7 @@ Neither are we bottlenecked by our fundamental physics knowledge: To get to a po
 
 The bottom line is that describing the human brain's algorithm, both before and after training, _can't be that complex_. The question is: How to understand and reproduce the algorithm, not in a thought experiment but in practice?
 
+## Footnotes
 [^1]: This problem is not just hypothetical: As of 2016, surrounding water molecules were a major expense in biochemical simulations according to what I heard. I don't know the current status (QUESTION).
 
 [^2]: See [Joseph Carlsmith's report](https://www.openphilanthropy.org/brain-computation-report) for a thorough attempt at estimation. The number of operations needed may be much higher or much lower than the number of spikes occuring in a natural brain. Furthermore, as they become more complex, artificial and natural computation systems tend to become bottle-necked by communication rather than computation - so the "number of operations required" may turn out to be irrelevant. TODO either elaborate, or remove this?
