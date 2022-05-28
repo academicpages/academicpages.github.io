@@ -39,7 +39,7 @@ Haojie Huang, **Dian Wang**, Robin Walters, Robert Platt
 Xupeng Zhu, **Dian Wang**, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt  
 *RSS 2022, New York City, New York, USA*  
 *ICRA 2022 Workshop on Scaling Robot Learning, Spotlight*  
-[(Webpage)](https://zxp-s-works.github.io/equivariant_grasp_site/)[(PDF)](https://arxiv.org/pdf/2202.09468.pdf)[(Video)](https://youtu.be/au59crsgiKw)[(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)
+[(Webpage)](https://zxp-s-works.github.io/equivariant_grasp_site/)[(PDF)](https://arxiv.org/pdf/2202.09468.pdf)[(Video)](https://youtu.be/0jaHpz3KQ7I)[(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)
 ` `  
 ` `  
 
