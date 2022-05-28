@@ -10,8 +10,6 @@ tags:
   - progress-studies
 ---
 # Is your brain more complicated than your fridge?
-> "If you wish to make an apple pie from scratch, you must first invent the universe." ― Carl Sagan, Cosmos
-
 The human brain is often described as "the most complex object in the universe" - justified by the number of synapses it contains or similar. But a glass of water contains lots of molecules and degrees of freedom as well.[^1] While the amount of relevant _computation_ a brain performs during its lifetime may be high,[^2] the amount of _information_ needed to describe it is upper-bounded by how much relevant data the fertilized egg it developed from contained, and how much flowed into it after conception. Even by computing standards of the 1990s, these are modest quantities - what's more, obtaining them is essentially a solved problem:
 ## How large is a brain's relevant genome?
 According to common wisdom, a fertilized egg - containing a human's biological _algorithm_[^3] - is mostly described by its genome,[^4] at most 10-15% of which encodes relevant information.[^5] This corresponds to about **[75-115 megabytes](https://en.wikipedia.org/wiki/Human_genome#Information_content)** of uncompressed data,[^6] some of which (QUESTION: How much?) describes other body parts than the brain.[^7]
