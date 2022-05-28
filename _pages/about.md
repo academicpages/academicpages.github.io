@@ -26,6 +26,9 @@ Updates
 <summary>2022</summary>
 <ul>
   <li>
+    21 May - Selected as a <a style="text-decoration:none" href="https://summerofcode.withgoogle.com/">Google Summer of Code</a> contributor at <a style="text-decoration:none" href="https://www.tensorflow.org/">Tensorflow</a> with Dr. Kevin P. Murphy. My proposal can be found <a style="text-decoration:none" href="https://summerofcode.withgoogle.com/proposals/details/kDIlco6v">here</a>.
+  </li>
+  <li>
     26 Apr - Our work "Samachar: Print News Media on Air Pollution in India" is accepted in <a style="text-decoration:none" href="https://compass.acm.org/">ACM COMPASS</a> 2022. More details are <a style="text-decoration:none" href="https://patel-zeel.github.io/publications/">here</a>.
   </li>
   <li>
