@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently an algorithm expert in Alimama Ads Tech at Alibaba Group. I received my Ph.D. degree in June 2021 from the Institute of Automation, Chinese Academy of Sciences (CASIA) and my B.Eng. degree in June 2016 from Wuhan University (WHU).  
+Hi! I am currently an algorithm expert in Alimama Tech at Alibaba Group. I received my Ph.D. degree in June 2021 from the Institute of Automation, Chinese Academy of Sciences (CASIA) and my B.Eng. degree in June 2016 from Wuhan University (WHU).  
 
 Research Interests
 ======
@@ -22,7 +22,7 @@ News
 * Apr. 2022: Three first-authored papers about calibration for ranking models and ad creative generation were accepted at SIGIR 2022 and NAACL 2022.  
 * Jan. 2022: A co-first authored paper about debiasing CVR estimation was accepted at WWW 2022.  
 * Aug. 2021: A first-authored paper about CVR estimation via AutoML was accepted at CIKM 2021.  
-* Jul. 2021: I started at Alimama Ads Tech.
+* Jul. 2021: I started at Alimama Tech.
 
 
 Experience and Education
