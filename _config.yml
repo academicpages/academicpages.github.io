@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "GCC"
 title_separator          : "-"
 name                     : &name "CHENGCHENG GUO"
-description              : &description "Slam engineer at NullMax"
+description              : &description "Slam engineer at NIO"
 url                      : https://candyguo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "candyguo/candyguo.github.io"
@@ -85,7 +85,7 @@ author:
   bio              : "I received the B.E. and M.E. degrees from Tongji University, Shanghai, China.
                       My research interests include visual simultaneous localization and mapping"
   location         : "Shanghai, CHINA"
-  employer         : "Nullmax"
+  employer         : "NIO"
   pubmed           : 
   googlescholar    : 
   email            : "candyguo_fly@163.com"

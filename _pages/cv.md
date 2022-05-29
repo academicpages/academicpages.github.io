@@ -16,14 +16,19 @@ Education
 
 Work experience
 ======
-* 2018.04 - 2019.06: HD-MAP Algorithm Engineer
+* 2017.08 - 2019.06: HD-MAP Algorithm Engineer
   * UISEE Technology
   * Duties included: 1. Automatic creation of HD-MAP for autonomous driving 
                      2. Connect autonomous driving system (Apollo) and simulation platform (Unreal)
 
-* 2019.06 - : Computer Vision Algorithm Engineer
+* 2019.06 - 2021.06: Computer Vision Algorithm Engineer
   * NullMax Technology
   * Duties included: 1. Autonomous car localization based on vslam && multi-sensor fusion
+
+* 2021.07 - NOW    : SLAM Engineer
+  * NIO Autonomous Driving
+  * Duties included: 1. Crowdsourced mapping (focus on cloud mapping part), i.e. map match, map aggregation, map diff
+                     2. Nearly real time crowdsource hdmap update
   
 Publications
 ======
