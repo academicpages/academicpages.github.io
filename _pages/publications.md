@@ -38,7 +38,7 @@ This paper develops semi-supervised, transfer learning methods to improve effici
 
 **Multisource Transfer Learning: Majority Rules**.   
 Guo, Z, **Han, L,** Cai, T.  
-We develop a novel methodology for multisource transfer learning, with applications high-dimensionanl regression, causal inference, and instrumental variable settings.
+We develop a novel methodology for multisource transfer learning, with applications in high-dimensional regression, causal inference, and multiple instrumental variable settings.
 
 **Principal Resampling for Causal Inference**.  
 Han S, **Han L,** Zubizarreta, J.  
