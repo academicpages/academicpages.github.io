@@ -11,19 +11,21 @@ redirect_from:
 
 On this page you can find a short academic CV. For more details, please find me on [LinkedIn](https://www.linkedin.com/in/annalatour/).
 
-<!--- You can find more details about my Diversity/Inclusion activities [here](http://www.annalatour.nl/diversity/). A list of publications and code can be found [here](http://www.annalatour.nl/code-publications/). --->
-
 ### CURRENT POSITION
 
-I am currently working as a PhD student at the [Leiden Institute of Advanced Computer Science](https://liacs.leidenuniv.nl/) (LIACS) of [Leiden University](https://www.universiteitleiden.nl/en), under supervision of [prof. dr. Joost Kok](http://liacs.leidenuniv.nl/~kokjn/) (promotor), [prof. dr. Holger Hoos](http://ada.liacs.nl/members/#Holger) (promotor) and [prof. dr. Siegfried Nijssen](https://www.info.ucl.ac.be/~snijssen/) (co-promotor / daily supervisor). I am also a visiting researcher at the [ICTEAM](https://uclouvain.be/en/research-institutes/icteam) of [Université catholique de Louvain](https://uclouvain.be/en/index.html).
+I am currently working as a Research Fellow in the [Meel group](https://meelgroup.github.io) at the [School of Computing (SoC)](https://www.comp.nus.edu.sg) of the National University of Singapore (NUS). I work on developing new solving techniques for maximum satisfiability (MaxSAT) problems, and for counting the number of solutions to a Boolean formula (model counting, or #SAT).
 
-The project I am hired on is called [PROFIDDS](http://liacs.leidenuniv.nl/~nijssensgr/profidds/) (PRObabilistic Features for Intelligent Declarative Data Science), and is financed by an NWO TOP Grant, awarded to Siegfried Nijssen. I started in January 2017. Our first project was on combining Probabilistic Logic Programming with Constraint Programming.
+### PHD
 
-**June-October** **2019**: Research visit to [prof. dr. Fahiem Bacchus](http://www.cs.toronto.edu/~fbacchus/) and his group at the [Knowledge Representation group](http://www.cs.toronto.edu/kr/) of the University of Toronto.
+I did my PhD  at the [Leiden Institute of Advanced Computer Science](https://liacs.leidenuniv.nl/) (LIACS) of [Leiden University](https://www.universiteitleiden.nl/en), under supervision of [prof. dr. Joost Kok](http://liacs.leidenuniv.nl/~kokjn/) (promotor), [prof. dr. Holger Hoos](http://ada.liacs.nl/members/#Holger) (promotor) and [ dr. Siegfried Nijssen](https://www.info.ucl.ac.be/~snijssen/) (co-promotor / daily advisor). During the entire period of my PhD, I was also a visiting researcher at the [ICTEAM](https://uclouvain.be/en/research-institutes/icteam) of [Université catholique de Louvain](https://uclouvain.be/en/index.html), where I spent the first year of my PhD (2017). I worked with  [prof. dr. Fahiem Bacchus](http://www.cs.toronto.edu/~fbacchus/) from the [Knowledge Representation group](http://www.cs.toronto.edu/kr/) at the University of Toronto, while I was a visiting researcher there from June to October of 2019.
+
+The project I was hired on is called [PROFIDDS](http://liacs.leidenuniv.nl/~nijssensgr/profidds/) (PRObabilistic Features for Intelligent Declarative Data Science), and was financed by an NWO TOP Grant, awarded to dr. Siegfried Nijssen.
+
+My dissertation, *Optimal decision-making under constraints and uncertainty*, was approved in March 2022. My defence is planned for September 2022.
 
 ### EDUCATION
 
-* MSc in Artificial Intelligence, Leiden University, 2016. *Cum laude*. I did a 42 ECTS research project with the [DTAI group](https://dtai.cs.kuleuven.be) of [KU Leuven](https://www.kuleuven.be/english/), under the supervision of the developers of [ProbLog](https://dtai.cs.kuleuven.be/problog/). The title of the resulting thesis was: *Incremental algorithms for solving stochastic constraint optimisation problems with probabilistic logic programming.*
+* MSc in Artificial Intelligence, Leiden University, 2016. *Cum laude*. I did a 42 ECTS research project with the [DTAI group](https://dtai.cs.kuleuven.be) of [KU Leuven](https://www.kuleuven.be/english/), under the supervision of the developers of [ProbLog](https://dtai.cs.kuleuven.be/problog/). The title of the resulting thesis was: [*Incremental algorithms for solving stochastic constraint optimisation problems with probabilistic logic programming.*](https://theses.liacs.nl/310)
 
 * Pre-master in Computer Science (60 ECTS of Bachelor CS courses), Leiden University, 2014. GPA: 9.2/10 (A+).
 
