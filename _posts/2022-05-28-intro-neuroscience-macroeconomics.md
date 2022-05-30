@@ -20,9 +20,9 @@ I want to review the literature and interview experts to learn about the _state 
 
 [As argued](/posts/2022/05/brain-vs-fridge), a description of an adult brain sufficient to reproduce human intelligence would probably take less than 300 megabytes of space - if one considers an adequate lossy compression of the genetic and environmental "input data" and discounts randomness, irrelevant data, and intermediate computations performed during development. The grand challenge of neuroscience is to obtain knowledge and understanding corresponding to that data.
 
-A "brute-force" solution would involve a _whole-cell model_ of a human fertilized egg, and the brain and body cells it develops into. This would be a description of all chemical reactions in a human cell, complete and accurate enough to simulate the cell's "algorithm".[^1] The state of the art in whole-cell modeling is quite some way from being able to simulate neurons and other cells making up complex animals[^10] - but crucially, I found in several places that obtaining and processing relevant data becomes exponentially cheaper over the years.
+A "brute-force" solution would involve a _whole-cell model_ of a human fertilized egg, and the brain and body cells it develops into. This would be a description of all chemical reactions in the cells, complete and accurate enough to simulate their "algorithm".[^1] The state of the art in whole-cell modeling is quite some way from being able to simulate neurons and other cells making up complex animals[^10] - but crucially, I found in several places that obtaining and processing relevant data becomes exponentially cheaper over the years.
 
-To create a whole-cell model of human cells, we'd be interested in the following questions:
+To create a whole-cell model of human cells, we're interested in the following questions:
 
 1. How do the cell's proteins fold?
 2. What chemical reactions are they involved in, and what are the reaction speeds?
@@ -30,7 +30,7 @@ To create a whole-cell model of human cells, we'd be interested in the following
 4. What's the "control logic" in each cell, determining when which proteins get expressed and activated?
 5. What chemical and electrical signals do cells exchange for communication?
 
-To understand how human _intelligence_ works in an adult brain, it would be sufficient to understand the effective behaviour of neurons and other human cells, i.e. answer roughly the following questions:
+To understand how human _intelligence_ works in an adult brain, it would suffice to understand the effective behaviour of neurons and other human cells, i.e. answer roughly the following questions:
 
 6. Cell differentation and morphogenesis: What types of cells (in particular, neurons) exist? How are they distributed in a brain?
 7. Arborization: How do neurons decide to "branch out" and connect to other neurons?
