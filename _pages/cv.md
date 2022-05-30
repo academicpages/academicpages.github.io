@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Economics, École Normale Supérieure (ENS) Paris-Saclay, Université Paris-Saclay, 2020-now
-* B.S. in Economics, Vietnam National University of Agriculture, 2014-2018
+* M.S. in Economics, École Normale Supérieure (ENS) Paris-Saclay, Université Paris-Saclay, now
+* B.S. in Economics, Vietnam National University of Agriculture, 2018
 
 Relevant working experience
 ======
