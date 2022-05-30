@@ -21,7 +21,7 @@ I did my PhD  at the [Leiden Institute of Advanced Computer Science](https://lia
 
 The project I was hired on is called [PROFIDDS](http://liacs.leidenuniv.nl/~nijssensgr/profidds/) (PRObabilistic Features for Intelligent Declarative Data Science), and was financed by an NWO TOP Grant, awarded to dr. Siegfried Nijssen.
 
-My dissertation, *Optimal decision-making under constraints and uncertainty*, was approved in March 2022. My defence is planned for September 2022.
+My dissertation, *Optimal decision-making under constraints and uncertainty*, was accepted in March 2022. My defence is planned for September 2022.
 
 ### EDUCATION
 
