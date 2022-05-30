@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm currently a master student at ENS Paris-Saclay, Université Paris-Saclay. Before coming ENS Paris-Saclay, I spent two years for working as research assistant and studying machine learning in Vietnam (after my undergraduate program).
+Hello, I'm currently a master student at ENS Paris-Saclay, Université Paris-Saclay. 
 
 
 **Contact me:**
