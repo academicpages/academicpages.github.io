@@ -20,9 +20,9 @@ I want to review the literature and interview experts to learn about the _state 
 
 [As argued](/posts/2022/05/brain-vs-fridge), a description of an adult brain sufficient to reproduce human intelligence would probably take less than 300 megabytes of space - if one considers an adequate lossy compression of the genetic and environmental "input data" and discounts randomness, irrelevant data, and intermediate computations performed during development. The grand challenge of neuroscience is to obtain knowledge and understanding corresponding to that data.
 
-A "brute-force" solution would involve a _whole-cell model_ of a human fertilized egg, and the brain and body cells it develops into. This would be a description of all chemical reactions in the cells, complete and accurate enough to simulate their "algorithm".[^1] The state of the art in whole-cell modeling is quite some way from being able to simulate neurons and other cells making up complex animals[^10] - but crucially, I found in several places that obtaining and processing relevant data becomes exponentially cheaper over the years.
+A "brute-force" solution would involve a _whole-cell model_ of human brain and body cells, starting with a fertilized egg. This would be a description of all chemical reactions in the cells, complete and accurate enough to simulate their "algorithm".[^1] The state of the art in whole-cell modeling is quite some way from that[^10] - but crucially, I found in several places that obtaining and processing relevant data becomes exponentially cheaper over the years.
 
-To create a whole-cell model of human cells, we're interested in the following questions:
+To create a whole-cell model, we're interested in the following questions:
 
 1. How do the cell's proteins fold?
 2. What chemical reactions are they involved in, and what are the reaction speeds?
