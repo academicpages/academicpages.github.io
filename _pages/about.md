@@ -14,4 +14,4 @@ Feel free to contact me at <a href="mailto:opk20@cam.ac.uk">opk20@cam.ac.uk</a>.
 
 Previously, I helped establish a machine learning team at Goldman Sachs in Hong Kong.
 
-During my MPhil, supervised by [Pascale Fung](http://www.ee.ust.hk/~pascale/), I was working on social signal processing. I also worked with [Genta Indra Winata](https://gentaiscool.github.io/) on a virtual therapist self-help platform. We modelled user affect state with deep learning methods to construct emotionally intelligent dialogue.
+During my MPhil, supervised by [Pascale Fung](http://www.ee.ust.hk/~pascale/), I worked on several projects related to affective computing. I also worked with [Genta Indra Winata](https://gentaiscool.github.io/) on a virtual therapist self-help platform. We modelled user affect state with deep learning methods to construct emotionally intelligent dialogue.
