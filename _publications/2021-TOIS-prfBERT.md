@@ -2,8 +2,8 @@
 title: "Pseudo Relevance Feedback with Deep Language Models and Dense Retrievers: Successes and Pitfalls"
 collection: publications
 permalink: /publication/arxiv2021prfBERT
-year: 2021
-venue: 'arxiv preprint'
+year: 2022
+venue: 'Transactions on Information Systems (TOIS)'
 authors: Hang Li, Ahmed Mourad, <strong>Shengyao Zhuang</strong>, Bevan Koopman, Guido Zuccon
 track: Journal paper
 ---
