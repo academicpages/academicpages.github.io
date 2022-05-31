@@ -30,17 +30,17 @@ To create a whole-cell model, we're interested in the following questions:
 4. What's the "control logic" in each cell, determining when which proteins get expressed and activated?
 5. What chemical and electrical signals do cells exchange for communication?
 
- To understand how human _intelligence_ works in an adult brain, it would suffice to understand the effective behaviour of neurons and other human cells, i.e. answer roughly the following questions:
+To understand how human _intelligence_ works in an adult brain, it would suffice to understand the effective behaviour of neurons and other human cells, i.e. answer roughly the following questions:
 
 6. Cell differentation and morphogenesis: What types of cells (in particular, neurons) exist? How are they distributed in a brain?
 7. Arborization: How do neurons decide to "branch out" and connect to other neurons?
 8. Activity and plasticity: Given a branched-out neuron, how does it respond and change its properties when exposed to electrical and chemical stimuli?
 
- Zooming out further, the question becomes:
+Zooming out further, the question becomes:
 
 9. Collective behaviour: Can we describe collections of neurons without describing each neuron individually? How to map specific abilities to brain regions?
 
- The most important - and, likely, most open-ended - question is:
+The most important - and, likely, most open-ended - question is:
 
 10. Design principles - what's the point of all these algorithms? Which parts of them are essential for intelligence, and which are artifacts of biology?
 
