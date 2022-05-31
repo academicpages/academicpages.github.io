@@ -1,7 +1,7 @@
 ---
 title: "Reinforcement Online Learning to Rank with Unbiased Reward Shaping"
 collection: publications
-permalink: /publication/arxiv2021ROLTR
+permalink: /publication/IRJ2022ROLTR
 year: 2022
 venue: 'Information Retrieval Journal (IRJ)'
 authors: <strong>Shengyao Zhuang</strong>, Zhihao Qiao, Guido Zuccon
