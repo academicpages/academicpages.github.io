@@ -76,9 +76,23 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Descriptive Statistics
+*  Applied Regression Analysis
+*  Design of Experiments
+*  Statistical Methods
+*  Intermediate Probability Theory
+*  Statistical Decision Theory
+*  Multivariate Analysis
+*  Reliability and Statistical Quality Control
+*  Theory of Estimation
+*  Statistical Inference
+*  Biostatistics
+*  Bayes Theory
+*  Longitudinal Data Analysis
+*  Linear Models I
+*  Linear Models II
+*  Bayesian Data Analysis
+  
   
 Service and leadership
 ======
