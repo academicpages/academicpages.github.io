@@ -53,14 +53,20 @@ Awards
 * 2021 Faculty Mentoring of Faculty Award, College of Liberal Arts and Sciences, University of Connecticut, May 2021.
 
 
-Skills
+Books
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Practical Nonparametric and Semiparametric Bayesian Statistics. Springer-Verlag Lecture Notes Series, Volume 133 (with P. Mu ̈ller and D. Sinha), 1999.
+* Generalized Linear Models: A Bayesian Perspective. Marcel-Dekker, Inc. (with S. K. Ghosh and B.K. Mallick), 2001.
+* A First Course for Linear Models. Chapman and Hall, CRC (with N. Ravis- hanker), 2002.
+* Handbook of Statistics Vol.25, ”Bayesian Thinking, Modeling and Computation”, Elsevier Science, Amsterdam (with C.R. Rao), 2005.
+* Bayesian Statistics and its Application. Proceedings of the International con- ference on Bayesian Statistics, Varanasi, India, eds. with U. Singh and S.K. Upadhyaya, 2006.
+* Essential Bayesian Models. November 2010. North Holland. (With C.R. Rao).
+* Bayesian Bioinformatics. Chapman & Hall CRC (with S. Ghosh and B.K. Mallick), 2010.
+* Frontiers of Statistical Decision Making and Bayesian Analysis. Springer (with M.-H. Chen, P. Mueller, D. Sun and K. Ye). 2010.
+* Current Trends in Bayesian Methodology with Applications, May 2015. CRC Press. ( With Satyanshu K. Upadhyay and Umesh Singh).
+* Extreme Value Modeling and Risk Analysis: Methods and Applications. January 2016. CRC Press. (With J. Yan).
+* A First Course for Linear Models. Chapman and Hall, CRC (with N. Ravishanker and Zhiyi Chi), Second edition, (2021).
+
 
 Publications
 ======
@@ -96,4 +102,30 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Representative of the Section of Bayesian Statistics to the American Statistical Association, 2002-2004.
+* Representative of the Institute of Mathematical Statistics to the American Math- ematical Society, 1998-2000.
+* Organizing committee member on the International Conference jointly sponsored by Bernoulli Society and Indian Statistical Institute, 1997-1998.
+* Member, Nominating Committee of the Institute of the Mathematical Statistics, 1997-1998.
+* Member, Publication Committee of the Institute of Mathematical Statistics, 1997- 2001.
+* Member, Program Committee, Joint Statistical Meetings, 1997-1998.
+* Member, Memorial Committee of the Institute of Mathematical Statistics, 1998 - 2000.
+* Member, Organizing Committee, International Society for Bayesian Statistics meeting at Vina del Mar, Chile, 2004.
+* Member, Committee on Selection of Editors of the Institute of Mathematical Statistics, 2003 - 2005. Chair during 2005.
+* Member, Archive and Historical Committee, American Statistical 
+Association, 2003 - 2009.
+* Chair, Advisory Committee, International Conference on Bayesian Statistics and its Applications, Varanasi, India, January 2005.
+* Co-Chair, Organizing Committee, International Conference on the Future in Sta- tistical Theory, Practice and Education, Hyderabad, India, December 2004.
+* Member, International Advisory Committee, International Conference on Statis- tics, Combinatorics and Related Areas, 2003.
+* Member NIH research panel on “Modeling and Applications in Biological Sys- tems”, 2004.
+* Member NIH research panel on “Clinical Proteomics”, 2005.
+* Member NIH research panel on “Bioinformatics”, 2005.
+* Member, Savage Award committee, International Society of Bayesian Analysis, 2005-2006.
+* Member, Fellow Selection Committee, Institute of Mathematical Statistics, 2007- 2009.
+* Member, Accreditation Implementation Committee of the American Statistical Association, 2010-2016.
+* COPSS Presidents’ Award Committee, 2010-2013.
+* Member, SBSS constitution committee, 2010.
+* Chair, Advisory Committee, International Conference on Bayesian Statistics and its Applications, Varanasi, India, January 2013.
+* International Advisory Board member of the first Latin American summer school in Bayesian Statistics, sponsored by ISBA, at University of Costa Rica, July 2013.
+* Advisory Committee Member, YSM in Indian Statistical Institute, 2018-.
+* Member, Foundation Award Committee, American Statistical Association, 2019- 2021.
+* Chair, ASA/Pfizer/UConn Distinguished Statistician’s selection committee.
