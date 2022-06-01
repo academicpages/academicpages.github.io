@@ -1,0 +1,29 @@
+---
+title: "How is population decline influenced by evolutionary mechanisms?"
+excerpt: ""
+permalink: /research/cons-gen
+collection: research
+---
+
+
+Broad: what can cause pops to get smaller? eco-evo interactions: 
+genetic drift, 
+community ecology (food disappears), 
+phylogenetic constraints + slow mutation rate, 
+selection
+co-evolution (Phythopthora)
+
+Use genetic tools to understand drivers of population decline.
+- eDNA to ID prey
+- genotyping individuals for inbreeding and Ne estimation
+- Nanopore MinION long-read sequencing of genomes and gene sequences 
+- comparative genomics to characterize evolution of key gene sequences involved in evolutionary arms races
+
+Study species of interest!!
+- penguins
+- phythopthora
+- pipefish
+
+Photos!
+
+
