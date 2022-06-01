@@ -11,6 +11,7 @@ authors:
 tags: []
 categories: []
 date: '1985-01-01'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 #paperurl: #'https://scholar.google.com/scholarhl=en&as_sdt=0%2C7&q=Truncation+of+shrinkage+estimators+of+normal+means+in+the+nonsymmetric+case.+++Multivariate+Analys#is+VI+%28PR+Krishnaiah%2C+ed.%29&btnG='
 lastmod: 2022-05-29T14:27:25-04:00
 featured: false
