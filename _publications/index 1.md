@@ -5,9 +5,9 @@ title: Truncation of shrinkage estimators of normal means in the nonsymmetric ca
   Multivariate Analysis VI (PR Krishnaiah, ed.)
 subtitle: ''
 summary: ''
-authors:'
+authors:
 - J Berger
-- DK Dey'
+- DK Dey
 tags: []
 categories: []
 date: '1985-01-01'
