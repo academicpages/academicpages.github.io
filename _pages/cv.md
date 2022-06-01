@@ -35,16 +35,24 @@ Work experience
 * Jan. 2008- University of Connecticut, Board of Trustees Distinguished Professor.
 * July 2008- Associate Director, Connecticut Institute of Clinical and Translational Sciences (CICATS).
 * October 2016- Virginia Tech, Social Data Analytics, Arlington, VA, Visiting Professor
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+Awards
+======
+* National Merit Scholarship from Government of India, August 1970 to August 1975.
+* Received awards in the form of books during undergraduate years at the Indian Statistical Institute.
+* David Ross Fellowships from July 1978 to December 1979 from Purdue University.
+* Research Excellence Award from the American Association of the University Professor, the University of Connecticut, 2004.
+* Research Excellence Award (Science) from the University of Connecticut Alumni Association, 2005.
+* Outstanding Alumni Award, Department of Statistics, Purdue University, 2007.
+* Board of Trustees Distinguished Professor Award, University of Connecticut, 2008.
+* Marth Award for Mentoring Graduate Students from the American Association of the University Professor, and the Graduate School, University of Connecticut, 2012.
+* Outstanding Statistician Award, Connecticut chapter of the American Statistical Association, 2014.
+* Distinguished Alumni Award, College of Science, Purdue University, April 2018.
+* Don Owen Award from American Statistical Association, San Antonio Chap- ter and Taylor and Francis Group for excellence in research, Contributions to Editorial activities, and Service to the Statistical Community, April, 2018.
+* Distinguished Service Award, International Indian Statistical Association, 2020.
+* 2021 Faculty Mentoring of Faculty Award, College of Liberal Arts and Sciences, University of Connecticut, May 2021.
+
+
 Skills
 ======
 * Skill 1
