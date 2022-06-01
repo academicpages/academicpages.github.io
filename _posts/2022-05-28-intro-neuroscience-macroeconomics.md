@@ -69,7 +69,7 @@ In total, I'd expect a fact-sheet of about 1.5 A4 page per item in section 2 - e
 
 I hope to have a partial report in 3 months, based on which I can hold a talk.
 ## 6. Acknowledgments
-So far, thanks in particular to Kynan Eng and Jonathan Karr for helpful feedback and references on the subject. 
+So far, thanks in particular to Kynan Eng, Jonathan Karr, and Lucia Purcaru for helpful feedback and references on the subject. 
 ## 7. Footnotes
 [^1]: See [this website](https://www.wholecell.org/), and the [list of models](https://www.wholecell.org/models/) therein, for more information - although it doesn't seem to have been updated since 2018.
 
