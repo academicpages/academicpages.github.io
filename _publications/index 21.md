@@ -1,16 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: tewstt Truncation of shrinkage estimators of normal means in the nonsymmetric case.
-  Multivariate Analysis VI (PR Krishnaiah, ed.)
+title: A Bathtub Hazard Model and an Application to System Warranty
 subtitle: ''
 summary: ''
 authors:
-- J Berger
-- DK Dey
+- Lloyd R Jaisingh
+- William J Kolarik
+- Dipak K Dey
 tags: []
 categories: []
-date: '1985-01-01'
+date: '1987-01-01'
 lastmod: 2022-05-29T14:27:25-04:00
 featured: false
 draft: false
@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-29T18:27:25.036871Z'
+publishDate: '2022-05-29T18:27:25.600792Z'
 publication_types:
-- '0'
+- '2'
 abstract: ''
-publication: '*North Holland, Amsterdam*'
+publication: '*Trans. Kv. Acad. Sci*'
 ---
