@@ -87,7 +87,7 @@ University of Canterbury provides a Code of Conduct for students and for staff, 
 
 The lab is dedicated to providing a harassment-free experience, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). Harassment of lab members will not be tolerated. Harassment can include making offensive comments verbally or using digital means (e.g., email, Facebook, Twitter), and can also include other problematic conduct such as stalking, inappropriate touching, and sabotaging work progress.
 
-If you experience Code of Conduct violations, contact Sarah immediately and she will help you navigate the appropriate next steps to take. If you would rather contact someone else, reach out to Tammy Steeves (PhD coordinator), Daniel Stouffer (masters' coordinator) or Elissa Cameron (4th year coordinator), or reach out to the [Equity and Diversity centre at UC](https://www.canterbury.ac.nz/support/equity/). Lab members asked to stop any harassing behaviour are expected to immediately comply.
+If you experience Code of Conduct violations, contact Sarah immediately and she will help you navigate the appropriate next steps to take. If you would rather contact someone else, reach out to Hazel Chapman (PhD coordinator), Daniel Stouffer (masters' coordinator) or Elissa Cameron (4th year coordinator), or reach out to the [Equity and Diversity centre at UC](https://www.canterbury.ac.nz/support/equity/). Lab members asked to stop any harassing behaviour are expected to immediately comply.
 
 ## Ethics 
 
