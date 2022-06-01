@@ -17,6 +17,15 @@ Email: wang dot dian at northeastern dot edu
 
 ## Publication
 
+![](images/bulletarm.png){: .align-right width="200px"}
+**BulletArm: An Open-Source Robotic Manipulation Benchmark and Learning Framework**  
+**Dian Wang\***, Colin Kohler\*, Xupeng Zhu, Mingxi Jia, Robert Platt  
+\* Equal Contribution  
+*Preprint*  
+[(PDF)](https://arxiv.org/pdf/2205.14292.pdf)[(Code)](https://github.com/ColinKohler/BulletArm)
+` `  
+` `  
+
 ![](images/rss22.png){: .align-right width="200px"}
 **On-Robot Policy Learning with O(2)-Equivariant SAC**  
 **Dian Wang**, Mingxi Jia, Xupeng Zhu, Robin Walters, Robert Platt  
