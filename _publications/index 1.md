@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '1985-01-01'
-citation: '- J Berger- DK Dey. &quot;Paper Title Number 1.&quot; <i>*North Holland, Amsterdam*</i>. 1(1).'
+citation: '- J Berger- DK Dey North Holland, Amsterdam'
 #paperurl:'https://scholar.google.com/scholarhl=en&as_sdt=0%2C7&q=Truncation+of+shrinkage+estimators+of+normal+means+in+the+nonsymmetric+case.+++Multivarie#+Analys#is+VI+%28PR+Krishnaiah%2C+ed.%29&btnG='
 lastmod: 2022-05-29T14:27:25-04:00
 featured: false
