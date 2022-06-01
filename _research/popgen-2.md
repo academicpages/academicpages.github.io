@@ -2,12 +2,25 @@
 title: "Are similar signatures of selection shared among populations and species?"
 collection: research
 permalink: /research/popgen
-excerpt: 'We use next-generation sequencing tools to distinguish between signatures of neutral and selective pressures. We are primarily interested in how spatially varying environments and selective pressures impact evolutionary processes. Most of the work to date has been done on the Gulf pipefish, but we are expanding our work to include other Syngnathids.'
+excerpt: 'We use next-generation sequencing tools to distinguish between signatures of neutral and selective pressures. We are primarily interested in how spatially varying environments and selective pressures impact evolutionary processes. Most of the work to date has been done on the Gulf pipefish, but we are currently working on a broad range of organisms, including pipefish, penguins, and Phytophthora.'
 ---
 
 Genomic data can be used to identify patterns of selection from the background patterns caused by neutral evolutionary processes (genetic drift, mutation, and recombination). Our lab uses these tools to ask questions about the relative importance of different types of selection, the impacts of spatial variation in environments, and to compare patterns of differentiation at the genomic level to differentiation at the phenotypic level. Our work on the Gulf pipefish is building a compelling that will help elucidate how different selection pressures impact the Gulf pipefish genome, and whether patterns of adaptation and sexual selection are repeatable across populations. 
 
-That being said, The general dynamics of local adaptation, population differentiation, and novel trait evolution are best understood if multiple evolutionary trajectories are compared. To that end, the lab is developing comparative population genomics and transcriptomics studies using other Syngnathid fishes.
+That being said, the general dynamics of local adaptation, population differentiation, and novel trait evolution are best understood if multiple evolutionary trajectories are compared. To that end, the lab is developing comparative population genomics and transcriptomics studies using other Syngnathid fishes.
+
+Also include penguins, 
+- white flippered penguins
+- differences across populations in drivers of decline
+
+phytopthora across strains and species,
+- RxLR sequence evolution
+- effectome evolution
+- interactions with different hosts
+
+other pipefish (not just Gulf pipefish)
+- S. nigra across NZ and Australia
+- linking traits and genotypes
 
 Some relevant papers from the lab include:
 
