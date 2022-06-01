@@ -10,8 +10,10 @@ tags:
   - neuroscience
 ---
 
-## 1. Idea
-I want to review the literature and interview experts to learn about the _state of_ and _speed of progress in_ understanding the human brain's functioning, on all scales - with the benchmark of being able to reproduce its abilities from scratch, by genetic engineering or otherwise. Instead of _what we know_ or learned recently - the focus of typical neuroscience textbooks and popular science articles - my central questions are _how much we need to learn_, _how much we already know_, and _how fast and predictably we are progressing_.  This will hopefully lead to a collection of Moore's law-like plots allowing predictions of how far we are from "reverse-engineering" the human brain, and understanding how it works and develops from a human genome.
+## 1. Introduction
+"We" - as in "human civilization" - understand ovens, microwaves, and airplanes well enough to construct them from scratch. When will we be able to say the same about human intelligence, as embodied by the brain - and how will we obtain the necessary understanding? A gut reaction to this question may be that attempting an answer is as pointless as reading tea leaves. But in many fields of technology, quantitative predictions of progress were possible decades in advance because of its quantifiable and consistent pace. The most famous example is Moore's law in computing.
+
+The central goal of this project is to obtain and gather corresponding data points for the various experimental and numerical methods related to understanding the human brain's functioning, on all scales (roughly enumerated in section 2) - with the benchmark of being able to reproduce its abilities from scratch, by genetic engineering or otherwise. This means that instead of focussing on _what we know_ or learned recently - the focus of typical neuroscience textbooks and popular science articles - my central questions (given in section 3) are _how much we need to learn_, _how much we already know_, and _how fast and predictably we are progressing_.  This will hopefully lead to a collection of Moore's law-like plots allowing predictions of how far we are from "reverse-engineering" the human brain, and understanding how it works and develops from a human genome.
 
 ## 2. How to understand the brain's algorithm?
 > "If you wish to make an apple pie from scratch, you must first invent the universe." ― Carl Sagan, Cosmos
