@@ -15,7 +15,7 @@ tags:
 
 The central goal of this project is to obtain and gather corresponding data points for the various experimental and numerical problems related to understanding the human brain's functioning, on all scales (roughly enumerated in section 2). This means that instead of focussing on _what we know_ or learned recently - as typical neuroscience textbooks and popular science articles do - my central questions (elaborated on in section 3) are _how much we need to learn_, _how much we already know_, and _how fast and predictably we are progressing_.  This will hopefully lead to a collection of Moore's law-like plots allowing predictions of how far we are from "reverse-engineering" the human brain, and understanding how it works and develops from a human genome.
 
-## 2. How to understand the brain's algorithm?
+## 2. Breaking down the problem: the brain's inner workings by scale
 > "If you wish to make an apple pie from scratch, you must first invent the universe." ― Carl Sagan, Cosmos
 
 > “There is a theory which states that if ever anyone discovers exactly what the Universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable. There is another theory which states that this has already happened.” ― Douglas Adams, The Restaurant at the End of the Universe
@@ -24,7 +24,7 @@ The central goal of this project is to obtain and gather corresponding data poin
 
 A "brute-force" solution would involve a _whole-cell model_ of human brain and body cells, starting with a fertilized egg. This would be a description of all chemical reactions in the cells, complete and accurate enough to simulate their "algorithm".[^1] The state of the art in whole-cell modeling is quite some way from that[^10] - but crucially, I found in several places that obtaining and processing relevant data becomes exponentially cheaper over the years.
 
-To create a whole-cell model, we're interested in the following questions:
+To create a whole-cell model, one is interested in the following questions:
 
 1. How do the cell's proteins fold?
 2. What chemical reactions are they involved in, and what are the reaction speeds?
