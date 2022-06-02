@@ -33,6 +33,8 @@ Education
   Advisor: Stephen Petersen<br>
   Thesis: Haul-out patterns of harbour seals in the Churchill River Estuary<br>
 
+---
+I gratefully acknowledge that the research highlighted on this CV has taken place on the territories of the Inuit Nunangat. I currently work and live on the traditional, ancestral, and unceded territories of the xʷməθkʷəy̓əm (Musqueam), Skwxwú7mesh (Squamish), and səl̓ilwətaɁɬ təməxʷ (Tsleil-Waututh) Nations.
 
 ---
 ![Seals are awesome!](/images/coverimg2.jpg "Seals")
