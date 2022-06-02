@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"# "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -81,13 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "Josephine Selvarani Ruth D"
-  avatar           : "profile.png"
+  avatar           : "ruth.png"
   bio              : "DST INSPIRE faculty fellow (01 Dec 2017- present)\n Robert Bosch Centre for Cyber Physical Systems"
   location         : "Indian Institute of Science,\n Bangalore, Karnataka"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=V7Yt7FAAAAAJ&hl=en"
-  email            : "djsruth@gmail.com, rjosephine@iisc.ac.in"
+  email            : "djsruth@gmail.com"
+  email            : "rjosephine@iisc.ac.in"
+  mobile           : "+91-9487256932"
   researchgate     :  
   uri              :
   bitbucket        :
