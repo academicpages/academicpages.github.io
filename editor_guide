@@ -6,6 +6,15 @@ _config.yml
 
 _data/navigation.yml
     The top bar.
+    main:
+      - title: "Publications"
+        url: /publications/
+
+      - title: "Project"
+        url: /project/     #文件在_portfolio文件夹下
+
+      - title: "Blog Posts"
+        url: /year-archive/
     
 _pages/about.md
     The main page (include name, about me, NEWS, publiction).
