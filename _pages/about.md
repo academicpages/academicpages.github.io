@@ -17,7 +17,9 @@ I'm a PhD student in the research groups of both Professor David Scanlon at Univ
 ### Recent Highlights
 I was delighted to be awarded a Silver Graduate Student Award at the MRS Spring 2022 conference in Hawaii 🎉 🏝
 
-<img width="300" src="files\Silver_GSA_Ad.png">
+
+<img align="left" width="300" src="files\Silver_GSA_Ad.png">
+<img align="right" width="300" src="files\MRS_GSA_Adidas.jpg">
 
 
 Our _Nature Photonics_ [article](https://www.nature.com/articles/s41566-021-00950-4) on breaking the world record for AgBiS₂ solar cells was featured on a number of [news sites](https://nature.altmetric.com/details/123045210/news) and has been selected as the 'Hero Image' for the March Issue! 🤩
@@ -42,5 +44,4 @@ Our _Materials Horizons_ and _Chemical Science_ articles [Hidden spontaneous pol
 <a href="https://doi.org/10.1039/D1SC03775G">
   <img align="right" width="375" src="files\Chem_Sci_Cover.png">
 </a>
-
 
