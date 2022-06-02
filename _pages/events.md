@@ -15,7 +15,7 @@ Workshops
 ## *Upcoming*
 
 
-## [Open Registration for the 2nd Annual Land DA Community Workshop: "New Directions in Land Data Assimilation"](https://aimesproject.org/lda_workshop_2022/)
+## [2nd Annual Land DA Community Workshop: "New Directions in Land Data Assimilation"](https://aimesproject.org/lda_workshop_2022/)
 ### 13-15 June 2022 | 10:00-13:00 EDT // 16:00-19:00 CEST
 ### Organizers†: Natasha MacBean (1), Jana Kolassa (2), Andy Fox (3), Tristan Quaife (4), Hannah Liddy (5)
 (1) Indiana University, (2) NASA GMAO, (3) Joint Center for Satellite Data Assimilation, (4) University of Reading, (5) Columbia University/NASA GISS
@@ -32,30 +32,7 @@ Opportunities to Contribute to the Program: With this workshop, we are seeking t
 
 *“Career Corner” Advertisements*: we will organize a virtual ‘career corner’ where we will advertise job postings and/or set up a virtual coffee table/meeting space to talk with candidates. Please share any opportunities with us by email at aimes@futureearth.org.
 
-### Deadlines:
-### Poster submissions: Monday, April 25th at 12:00 EDT
-### Breakout Group Proposals: Monday, April 25th at 12:00 EDT
-### Registration: Wednesday, June 1st at 12:00 EDT
-
-[Register Here](https://docs.google.com/forms/d/e/1FAIpQLScjikwX9Lp-cfW8l-HPCrrtgqlERTLwuGIzrUZhedKvwS1IRA/viewform)
-
-If anyone cannot access the Google form please contact us aimes@futureearth.org to register by email.
-
-## [2nd Annual Land DA Community Workshop: "New Directions in Land Data Assimilation" Call for Abstracts](https://aimesproject.org/lda_workshop2/)
-
-
-The AIMES Land Data Assimilation Working Group will hold its 2nd annual workshop ‘New Directions in Land Data Assimilation’ on 13-15 June 2022 from 10:00 – 13:00 EDT/16:00-19:00 CEST. The goals of the workshop build on the principles of the working group to: (1) foster knowledge exchange across all groups working in land DA and (2) build a community of practice and collaboration in land DA, particularly for addressing the technical challenges we face in implementing DA systems. The themes of the workshop were identified by the land DA community during the 2021 meeting on 'Tackling Technical Challenges in Land DA' and through feedback from a post-workshop survey.
-
-We now invite abstract submissions for oral or poster presentations that address one of the following main themes: 
-(1) Machine Learning in Land DA
-(2) Observation and Model Uncertainty
-(3) Ensemble DA methods
-(4) Crossover in Land DA challenges between Numerical Weather Prediction and Land Surface Modeling communities
- 
-We are seeking abstracts that put greater weight on addressing the technical challenges associated with developing land DA systems than answering the scientific questions that lie behind those technical developments, which is typically the focus of other professional meetings and conferences. Oral presentations will prioritize the themes identified above. However, we will also consider abstracts that address important topics beyond the designated themes.
-
-We are looking forward to continuing to build the land DA community and to seeing your abstracts! Email aimes(at)futureearth.org with any questions.
-### The deadline to submit your abstract is Friday, March 4, 2022. [Submit your abstracts here](https://docs.google.com/forms/d/e/1FAIpQLSevnECTNo586caKq1Y8mBW_So6v7s0ZZxFqptSmwbCgNDOZhA/viewform) 
+Registration is now closed, but if you would still care to join, please email aimes@futureearth.org to register by email.
 
 
 ## *Past*
