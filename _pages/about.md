@@ -19,9 +19,18 @@ I was delighted to be awarded a Silver Graduate Student Award at the MRS Spring 
 
 
 <img align="left" width="300" src="files\Silver_GSA_Ad.png">
-<img align="right" width="385" src="files\MRS_GSA_Adidas.jpg">  
-  
-  
+<img align="right" width="375" src="files\MRS_GSA_Adidas.jpg">  
+<br/><br/>  
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
   
   
   
