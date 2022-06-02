@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a PhD student in Natural Language Pocessing at the NLP lab of Bar Ilan University, supervised by Prof. Ido Dagan and Prof. Reut Tsarfaty.
-Previously I did a research internship at Google, obtained an MSc from the University of Edinburgh and a BA from the University of Zurich.
+Previously I did a research internship at Google, obtained an MSc from the University of Edinburgh and a BA from the University of Zurich. Currently, I'm interning at the [AI2 Mosaic team](https://mosaic.allenai.org/people) in Seattle.
 
 My research focuses on *discourse* phenomena and *pragmatics*. Often I use QA representations to capture propositions and once in a while I look at the modality of events.
 
@@ -18,6 +18,9 @@ I am co-organizing [the Second Workshop on Understanding Implicit and Underspeci
 Besides this I love going to the "cinemathèque" and on hikes with my friends. My Erdős number is 3.
 
 ### News
+* June 2022: Started my internship at [AI2 Mosaic](https://mosaic.allenai.org/people)
+* May 2022: Paper accepted at LREC 2022.
+* May 2022: Aynat presented our work on “Machine classification of modal meanings: An empirical study and some consequences” at [ELM2](https://www.elm-conference.net/)
 * December 2021: Will present a poster at the [Meaning in Context: Pragmatic Communication in Humans and Machines](https://mic-workshop.github.io) workshop at NeurIPS 2021.
 * November 2021: Got invited to give a talk at the University of Wolverhampton.
 * October 2021: Gave a talk at Cardiff University.
