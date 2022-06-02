@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Josephine Selvarani Ruth D"
 title_separator          : "-"
 name                     : &name "Josephine Selvarani Ruth D"
-description              : &description "DST INSPIRE faculty fellow (01 Dec 2017- present)\n Robert Bosch Centre for Cyber Physical Systems\n Indian Institute of Science, Bangalore-560012 Karnataka."
+description              : &description "DST INSPIRE faculty fellow, RBCCPS, IISc."
 url                      : https://djsruth.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "djsruth/djsruth.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Josephine Selvarani Ruth D"
   avatar           : "Ruth.png"
-  bio              : "DST INSPIRE faculty fellow (01 Dec 2017- present)\n Robert Bosch Centre for Cyber Physical Systems"
-  location         : "Indian Institute of Science,\n Bangalore, Karnataka"
+  bio              : "DST INSPIRE faculty fellow (01 Dec 2017- present)<\n> Robert Bosch Centre for Cyber Physical Systems"
+  location         : "Indian Institute of Science,<\n> Bangalore, Karnataka"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=V7Yt7FAAAAAJ&hl=en"
