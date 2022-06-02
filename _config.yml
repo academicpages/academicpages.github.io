@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Pan Lizhi"
 title_separator          : "-"
-name                     : &name "Pan Lizhi"
+name                     : &name " "
 description              : &description "Living to forget myself"
 url                      : https://panlizhi.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pan Lizhi"
-  avatar           : "bio-photo.jpg"
+  avatar           : "profile.png"
   bio              : "Living to forget myself"
   location         : "Beijing"
   employer         :
