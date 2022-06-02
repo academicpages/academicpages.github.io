@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Pan Lizhi"
 title_separator          : "-"
-name                     : &name " "
+name                     : &name ""
 description              : &description "Living to forget myself"
 url                      : https://panlizhi.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
