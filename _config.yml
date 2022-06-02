@@ -83,12 +83,12 @@ author:
   name             : "Josephine Selvarani Ruth D"
   avatar           : "profile.png"
   bio              : "DST INSPIRE faculty fellow (01 Dec 2017- present)\n Robert Bosch Centre for Cyber Physical Systems"
-  location         : "Indian Institute of Science, Bangalore-560012 Karnataka"
+  location         : "Indian Institute of Science,\n Bangalore, Karnataka"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=V7Yt7FAAAAAJ&hl=en"
+  email            : "djsruth@gmail.com, rjosephine@iisc.ac.in"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
