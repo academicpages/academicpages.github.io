@@ -1,0 +1,11 @@
+Guide： https://archive.is/3TPas#selection-3065.0-3065.11
+
+_config.yml
+    # Site Settings
+    # Site Author
+
+_data/navigation.yml
+    The top bar.
+    
+_pages/about.md
+    The main page (include name, about me, NEWS, publiction).
