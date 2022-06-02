@@ -17,6 +17,10 @@ author_profile: true
 
 # Publications
 
+### *QASem Parsing: Text-to-text Modeling of QA-based Semantics*
+Ayal Klein, Eran Hirsch, Ron Eliav, <ins>Valentina Pyatkin</ins>, Avi Caciularu, Ido Dagan.  
+[ArXiv](https://arxiv.org/pdf/2205.11413.pdf)
+
 ### *Draw Me a Flower: Grounding Formal Abstract Structures Stated in Informal Natural Language*
 Royi Lachmy, <ins>Valentina Pyatkin</ins>, Reut Tsarfaty.  
 [ArXiv](https://arxiv.org/pdf/2106.14321.pdf)
