@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pan Lizhi/ Homepage"
+title                    : "Pan Lizhi"
 title_separator          : "-"
 name                     : &name "Pan Lizhi"
-description              : &description "personal description"
+description              : &description "Living to forget myself"
 url                      : https://panlizhi.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "panlizhi/academicpages.github.io"
+repository               : "panlizhi.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pan Lizhi"
   avatar           : "profile.png"
-  bio              : "Happiness in corner"
+  bio              : "Living to forget myself"
   location         : "Beijing"
   employer         :
   pubmed           : 
