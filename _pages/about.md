@@ -31,13 +31,12 @@ I was delighted to be awarded a Silver Graduate Student Award at the MRS Spring 
 <br/><br/>
   
 As well as a Rising Star Award ⭐️ from _Materials Today Chemistry_, an eMRS Young Researcher Award and a Best Presentation Award at eMRS Spring 2022 🗣
-<img align="left" width="385" src="files\eMRS MTC Rising Star Award.png">  
-<img align="right" width="375" src="files\eMRS_Spring_2022_Best_Presentation_Award_Symposium_G.png">  
+<img align="left" width="375" src="files\eMRS MTC Rising Star Award.png">  
+<img align="right" width="385" src="files\eMRS_Spring_2022_Best_Presentation_Award_Symposium_G.png">  
 <br/><br/>  
 <br/><br/>
 <br/><br/>
 <br/><br/>
-<br/>
 
 Our _Nature Photonics_ [article](https://www.nature.com/articles/s41566-021-00950-4) on breaking the world record for AgBiS₂ solar cells was featured on a number of [news sites](https://nature.altmetric.com/details/123045210/news) and has been selected as the 'Hero Image' for the March Issue! 🤩
 
