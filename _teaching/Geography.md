@@ -4,7 +4,7 @@ collection: teaching
 type: "Grado"
 permalink:
 venue: "Facultad de Geografía e Historia, Universidad Complutense de Madrid"
-date: 2021-11-18
+date: 2022-01-18
 location: "Madrid, España"
 ---
 * Asignatura: Geografía de la Población (2021-2022)
