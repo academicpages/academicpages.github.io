@@ -108,10 +108,9 @@ I should realize that though they are a person, they are only acting in accordan
 
 ## My take
 
-The Stoic philosophy is heavily founded on its metaphysics.
-Because of this, I am not sure whether it's compatible with my own views and thus whether its arguments stand.
-
-In the end, I find that Aurelius's advice on how to live is practical and timeless, and I strive to embody portions of the Stoic attitude in my life.
+The Stoic philosophy is heavily founded on its metaphysics concerning nature, virtue, and determinism.
+Because of this, I am not sure whether it's compatible with the true nature of the world or my view of the world.
+However, I find that Aurelius's advice on how to live is practical and timeless, and I strive to embody portions of the Stoic attitude in my life.
 
 ## References
 
