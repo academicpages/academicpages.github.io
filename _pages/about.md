@@ -11,7 +11,7 @@ redirect_from:
 I'm an Applied Research Scientist at [Kaia Health GmbH, Munich, Germany](https://kaiahealth.com/). Before I was a Research Engineer at the  [Perceiving Systems Department](https://www.youtube.com/user/BlackAtBrown) of the [Max-Planck Institute for Intelligent Systems](https://www.is.mpg.de/) lead by [Michael Black](https://ps.is.tuebingen.mpg.de/person/black).
 
 My career interests primarily include machine learning for computer vision and computer graphics with the focus on 3D human and animal body in motion.
-The main source of data that I work with comes in theform of monocular videos, images,
+The main source of data that I work with comes in the form of monocular videos, images,
 and time-sequence marker trajectories captured by marker based optical motion capture systems.
 
 I have attended Tabriz Azad University, [Tabriz](https://www.youtube.com/watch?v=OWb1yP-KpMc), 
