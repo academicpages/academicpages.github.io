@@ -13,7 +13,7 @@ tags:
 ## 1. Introduction
 Understanding the human brain - to the point of being able to reproduce its abilities, as one could design and build a plane or chair - is hopefully a finite problem for civilization. I think that many aspects of that problem (see section 2 for my attempt at enumeration) can be quantified. Similarly, the performance of associated experimental methods can often be quantified and extrapolated, leading to equivalents of Moore's law in computing.
 
-I'd like to attempt just that - create a spreadsheet and accompanying notes discussing the questions in section 3 for the items in section 2. I'd like to do so by literature review and interviews with experts. This is different - and much simpler - than reviewing all the literature in neuroscience and microbiology: Neuroscience textbooks typically focus on _what scientists know_; academic and popular science articles make claims regarding _what was learned recently_.
+I'd like to attempt just that - create a spreadsheet and accompanying notes discussing the questions in section 3 for the items in section 2. I'd like to do so by literature review and interviews with experts. This is different - and much simpler - than reviewing all the literature in neuroscience and microbiology: The literature focuses on _what_ scientists know or learned recently, I'd like to focus on _how much_ they did, do, and need to know.
 
 Ideally, the gathered data could lead to a collection of Moore's law-like plots allowing predictions of how far we are from "reverse-engineering" the human brain, and understanding how it works and develops from a human genome in its environment.
 
