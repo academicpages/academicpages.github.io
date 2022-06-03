@@ -1,7 +1,7 @@
 ---
-title: 'Project: How are we getting along with reverse-engineering the brain?/Macroeconomic modeling of neuroscience'
-date: 2022-05-28
-permalink: /posts/2022/05/intro-neuroscience-macroeconomics/
+title: 'Project: Neuroscience under a quantitative progress studies perspective'
+date: 2022-06-03
+permalink: /posts/2022/06/intro-neuroscience-progress-studies/
 tags:
   - q-bio.nc
   - q-bio
@@ -11,9 +11,11 @@ tags:
 ---
 
 ## 1. Introduction
-"We" - as in "human civilization" - understand chairs, microwaves and airplanes well enough to construct them from scratch. When will we be able to say the same about human intelligence, as embodied by the brain - and how will we obtain the necessary understanding? A gut reaction to this question may be that attempting an answer is as pointless as reading tea leaves. But in many fields of technology, predictions of progress were possible decades in advance because of its quantifiable and consistent pace. The most famous example is Moore's law in computing.
+Understanding the human brain - to the point of being able to reproduce its abilities, as one could design and build a plane or chair - is hopefully a finite problem for civilization. I think that many aspects of that problem (see section 2 for my attempt at enumeration) can be quantified. Similarly, the performance of associated experimental methods can often be quantified and extrapolated, leading to equivalents of Moore's law in computing.
 
-The central goal of this project is to obtain and gather corresponding data points for the various experimental and numerical problems related to understanding the human brain's functioning, on all scales (roughly enumerated in section 2). This means that instead of focussing on _what we know_ or learned recently - as typical neuroscience textbooks and popular science articles do - my central questions (elaborated on in section 3) are _how much we need to learn_, _how much we already know_, and _how fast and predictably we are progressing_.  This will hopefully lead to a collection of Moore's law-like plots allowing predictions of how far we are from "reverse-engineering" the human brain, and understanding how it works and develops from a human genome in its environment.
+I'd like to attempt just that - create a spreadsheet and accompanying notes discussing the questions in section 3 for the items in section 2. I'd like to do so by literature review and interviews with experts. This is different - and much simpler - than reviewing all the literature in neuroscience and microbiology: Neuroscience textbooks typically focus on _what scientists know_; academic and popular science articles make claims regarding _what was learned recently_.
+
+Ideally, the gathered data could lead to a collection of Moore's law-like plots allowing predictions of how far we are from "reverse-engineering" the human brain, and understanding how it works and develops from a human genome in its environment.
 
 ## 2. Breaking down the problem: the brain's inner workings by scale
 > "If you wish to make an apple pie from scratch, you must first invent the universe." ― Carl Sagan, Cosmos
