@@ -20,7 +20,7 @@ These are the private thoughts of a Roman emperor, and I find it very insightful
 
 Here are my thoughts and the passages I noted while reading, from parts I-IV.
 
-I referenced the passages using the book/passage references in [0].
+I referenced the passages using the book/passage numbers in [0].
 Thanks to MIT's Internet Classics Archive [1] for providing the full text in digital form.
 
 **Note:** Part I is Aurelius's Grammy nomination speech - thanking everyone including his father, friends, and the gods.
