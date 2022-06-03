@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Race against the machine"
+    url: /projectgroup/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Slurry deposition printer"
+    url: /printer/    
 
-  - title: "Smart Watch"
-    url: /smartwatch/    
+  - title: "synchronizing humans and machines"
+    url: /NTUST-NUST/    
     
   - title: "Portfolio"
     url: /portfolio/
