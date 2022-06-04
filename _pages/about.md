@@ -23,7 +23,7 @@ My research interests are broadly defined at the intersection of Data Science, B
 
 # News
 
-- **June, 2022:** Will be giving a keynote speech at [ACM PETRA 2022](http://www.petrae.org/keynote.html). Also serving as the PETRA'22 Doctoral Consortium Chair. Looking forward to meeting students and conference attendees. 
+- **June, 2022:** Will be giving a keynote at [ACM PETRA 2022](http://www.petrae.org/keynote.html). Also serving as the PETRA'22 Doctoral Consortium Chair. Looking forward to meeting students and conference attendees. 
 - **April, 2022:** Thrilled to join the [NeurIPS 2022 Organizing Commitee](https://nips.cc/Conferences/2022/Committees) as an Expo co-Chair!
 - **March, 2022:** Gave a talk at the [Women in STEM Mentoring Seminars](https://www.w-stem.org/home). Slides are available [here](https://www.w-stem.org/resources). 
 - **February, 2022:** We are grateful to receive an [NSF EAGER CMMI-AM](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2208864&HistoricalAwards=false) grant!
