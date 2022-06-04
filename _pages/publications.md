@@ -5,12 +5,44 @@ permalink: /publications/
 author_profile: true
 ---
 
-Check <u><a href="https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ">my Google Scholar profile</a>.</u>
+For an updated list, please check <u><a href="https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ">my Google Scholar profile</a>.</u>
 
 
 # Papers
 
-- ***AnaXNet: Anatomy Aware Multi-label FindingClassification in Chest X-ray*** MICCAI 2021  
+- **Hard Negative Sampling Strategies for Contrastive Representation Learning**, arXiv preprint  
+Afrina Tabassum, Muntasir Wahed, Hoda Eldardiry, Ismini Lourentzou  
+[paper](https://arxiv.org/abs/2206.01197)
+
+- **Adversarial Contrastive Learning by Permuting Cluster Assignments**, arXiv preprint  
+Muntasir Wahed, Afrina Tabassum, Ismini Lourentzou  
+[paper](https://arxiv.org/abs/2204.10314)
+
+- **Drink bleach or do what now? Covid-HeRA: A Study of Risk-Informed Health Decision Making in the Presence of COVID-19 Misinformation**, AAAI ICWSM 2022 Datasets Track  
+Arkin Dharawat, Ismini Lourentzou, Alex Morales, ChengXiang Zhai  
+[paper](https://arxiv.org/pdf/2010.08743.pdf), [code](https://github.com/TIMAN-group/covid19_misinformation), [poster](https://uofi.app.box.com/v/CovidHeRAmisinformation)
+
+- **Toward a general unsupervised novelty detection framework in structural health monitoring** Computer‐Aided Civil and Infrastructure Engineering 2022 
+Mohammad Hesam Soleimani‐Babakamali,Reza Sepasdar, Kourosh Nasrollahzadeh, Ismini Lourentzou, and Rodrigo Sarlo  
+[paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12812)
+
+- **SAUCE: Truncated Sparse Document Signature Bit-Vectors for Fast Web-Scale Corpus Expansion** CIKM 2021 Applied Research Track  
+Muntasir Wahed, Daniel Gruhl, Alfredo Alba, Anna Lisa Gentile, Petar Ristoski, Chad Deluca, Steve Welch, Ismini Lourentzou  
+[paper](http://128.84.4.18/abs/2108.11948)
+
+- **Identifying False Human Papillomavirus (HPV) Vaccine Information and Corresponding Risk Perceptions From Twitter: Advanced Predictive Models** Journal of Medical Internet Research (JMIR) 2021
+Tre Tomaszewski, Alex Morales, Ismini Lourentzou, Rachel Caskey, Bing Liu, Alan Schwartz, Jessie Chin  
+[paper](https://www.jmir.org/2021/9/e30451/), [press coverage](https://www.eurekalert.org/news-releases/931671)
+
+- **Chest ImaGenome Dataset for Clinical Reasoning** NeurIPS 2021 Datasets and Benchmarks Track  
+Joy T. Wu, Nkechinyere N. Agu, Ismini Lourentzou, Arjun Sharma, Joseph A. Paguio, Jasper S. Yao, Edward C. Dee, William Mitchell, Satyananda Kashyap, Andrea Giovannini, Leo A. Celi, Mehdi Moradi  
+[paper](https://openreview.net/forum?id=H-d5634yVi)
+
+- **TriGORank: A Gene Ontology Enriched Learning-to-Rank Framework for Trigenic Fitness Prediction** IEEE BIBM 2021  
+Sahiti Labhishetty, Ismini Lourentzou, Michael Jeffrey Volk, Shekhar Mishra, Huimin Zhao, and Chengxiang Zhai  
+[paper](https://ieeexplore.ieee.org/abstract/document/9669503/)
+
+- **AnaXNet: Anatomy Aware Multi-label Finding Classification in Chest X-ray** MICCAI 2021  
 Nkechinyere N. Agu, Joy T. Wu, Hanqing Chao, Ismini Lourentzou, Arjun Sharma, Mehdi Moradi, Pingkun Yan, James Hendler  
 [paper](https://arxiv.org/pdf/2105.09937.pdf)
 
@@ -25,10 +57,6 @@ Ismini Lourentzou, Daniel Gruhl, Alfredo Alba, Anna Lisa Gentile, Petar Ristoski
 - **Creation and validation of a chest X-ray dataset with eye-tracking and report dictation for AI development** Nature Scientific Data 2021  
 Alexandros Karargyris, Kashyap Satyananda, Ismini Lourentzou, Joy T. Wu, Arjun Sharma, Matthew Tong, Shafiq Abedin, David Beymer, Vandana Mukherjee, Elizabeth A. Krupinski, Mehdi Moradi  
 [paper](https://www.nature.com/articles/s41597-021-00863-5), [code](https://github.com/cxr-eye-gaze/eye-gaze-dataset)
-
-- **Drink bleach or do what now? Covid-HeRA: A dataset for risk-informed health decision making in the presence of COVID19 misinformation**, NLP-COVID19 Workshop @ ACL 2020  
-Arkin Dharawat, Ismini Lourentzou, Alex Morales, ChengXiang Zhai  
-[paper](https://arxiv.org/pdf/2010.08743.pdf), [code](https://github.com/TIMAN-group/covid19_misinformation), [poster](https://uofi.app.box.com/v/CovidHeRAmisinformation)
 
 - **Biosystems Design by Machine Learning**, ACS Synthetic Biology 2020  
 Michael Jeffrey Volk, Ismini Lourentzou, Shekhar Mishra, Lam Tung Vo, Chengxiang Zhai, Huimin Zhao  
