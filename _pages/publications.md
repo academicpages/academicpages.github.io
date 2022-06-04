@@ -5,7 +5,7 @@ title: "Publications"
 author_profile: true
 ---
 
-## Radical Artifactualism.<br>*European Journal for Philosophy of Science*, forthcoming. (Link coming soon) <img align="right" src="https://gui-cogsci.github.io/images/epsa.jpg" width="130">
+## Radical Artifactualism.<br>*European Journal for Philosophy of Science*, forthcoming. ([Link](https://link.springer.com/article/10.1007/s13194-022-00462-0)) <img align="right" src="https://gui-cogsci.github.io/images/epsa.jpg" width="130">
 >  A powerful idea put forward in the recent philosophy of science literature is that scientific models are best understood as instruments, tools or, more generally, artifacts. This idea has thus far been developed in combination with the more traditional representational approach: accordingly, current artifactualist accounts treat models as representational tools. But artifactualism and representationalism are independent views, and adopting one does not require acceptance of the other. This paper argues that a leaner version of artifactualism, free of representationalist assumptions, is both desirable and viable. Taking seriously the idea that models are artifacts can help us philosophically to make sense of how and why scientific modeling works even without reference to representation.
 > 
 > KEYWORDS: scientific modeling; representation; tool use; material engagement; pragmatism
