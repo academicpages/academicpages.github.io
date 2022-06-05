@@ -1,0 +1,200 @@
+<html>
+<head>
+  <title>Digital Lab Notebook - Samuel Sledzieski</title>
+  <link rel="icon" 
+      type="image/png" 
+      href="img/favicon.ico">
+  <!-- Latest compiled and minified CSS
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+  <meta charset="utf-8" />
+</head>
+
+<style>
+
+  .link {
+  fill: none;
+  stroke: #666;
+  stroke-width: 1.5px;
+}
+
+  .node circle {
+    fill: #ccc;
+    stroke: #fff;
+    stroke-width: 1.5px;
+  }
+
+  text {
+    font: 10px sans-serif;
+    pointer-events: none;
+  }
+</style>
+
+<body>
+<div class="container-fluid">
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="./index.html">Samuel Sledzieski</a>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+            <li class = "nav-item">
+                <a class="nav-link" href="./index.html">Home</span></a>
+            </li>
+            <li class = "nav-item">
+                <a class="nav-link" href="./publications.html">Publications</a>
+            </li>
+            <li class = "nav-item"></li>
+                <a class="nav-link" href="./software.html">Software</a>
+            </li>
+            <li class = "nav-item active">
+                <a class="nav-link" href="./notebook.html">Lab Notebook</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="files/Samuel_Sledzieski_CV.pdf" target="_blank">CV</a>
+            </li>
+            </ul>
+        </div>
+    </nav>
+
+  <div class="d-flex justify-content-center" style="padding: 8px;">
+      <button class="btn-sm btn-primary" type="button" data-toggle="collapse" data-target="#openForScience" aria-expanded="false" aria-controls="openForScience">
+        #OpenForScience
+      </button>
+  </div>
+
+  <div class="card">
+    <div class="card-body collapse text-center" id="openForScience" style="width: 80%; font-size: 14px; margin: auto;">
+      I believe the scientific endeavor is best served by transparent and reproducible work. It is my goal to participate in open science and share not only outcomes but process.
+      My notebook documents thoughts, analyses, knowledge gains, roadblocks, detours, and products. My goal is to facilitate scientific advancement through the open sharing of data and analytical approaches. As with science, this notebook is a work in process, hopefully advancing with every iteration.
+      The notebook is platformed on GitHub and is directly linked to GitHub repositories that contain further details than will be presented in notebook posts. The notebook and repositories are dynamic real-time documents.
+    </div>
+  </div>
+
+  <div class="row container-fluid" id="viz">
+    <svg>
+    </svg>
+  </div>
+
+  <div class="row container-fluid">
+    <p>By <a href="https://github.com/samsledje/LabNotebook">Samuel Sledzieski</a>.
+    Powered by <a href="https://en.wikipedia.org/wiki/Markdown">Markdown</a>, <a href="https://d3js.org/">D3js</a>, and <a href="https://obsidian.md/">Obsidian</a>.
+    Thanks to <a href="http://bl.ocks.org/mbostock/2706022">Mike Bostock</a> for network rendering code.
+    Special thanks to <a href="http://putnamlab.com/resources">Hollie Putnam</a>.
+    </p>
+  </div>
+
+</div>
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+</body>
+  <footer>
+    <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <script>
+
+   d3.json("https://samsl.io/LabNotebook/graphFile.json", function(data) {
+
+    var transition_time = 100;
+    var forceDistance = 100;
+    var forceCharge = -350;
+
+    var nodes = data.nodes;
+    var links = data.links;
+
+    var width = screen.width;
+    var height = screen.height;
+    
+    var force = d3.layout.force()
+        .nodes(d3.values(nodes))
+        .links(links)
+        .size([width, height])
+        .linkDistance(forceDistance)
+        .charge(forceCharge)
+        .on("tick", tick)
+        .start();
+    
+    var svg = d3.select("svg")
+        .attr("width", width)
+        .attr("height", height)
+      //   .call(d3.behavior.zoom().on("zoom", function () {
+      //   svg.attr("transform", "translate(" + d3.event.translate + ")" + " scale(" + d3.event.scale + ")")
+      // }))
+      // .append("g")
+        ;
+    
+    var link = svg.selectAll(".link")
+        .data(force.links())
+      .enter().append("line")
+        .attr("class", "link");
+    
+    var node = svg.selectAll(".node")
+        .data(force.nodes())
+      .enter().append("g")
+        .attr("class", "node")
+        .on("mouseover", mouseover)
+        .on("mouseout", mouseout)
+        .on("click", function (d) {
+          if (d3.event.defaultPrevented) return;
+          window.location = d.url;
+        })
+        .call(force.drag);
+    
+    node.append("circle")
+        .attr("r", 8);
+    
+    node.append("text")
+        .attr("x", 12)
+        .attr("dy", ".35em")
+        .text(function(d) { return d.name; })
+        .style("font-size", 12);
+    
+    function tick() {
+      link
+          .attr("x1", function(d) { return d.source.x; })
+          .attr("y1", function(d) { return d.source.y; })
+          .attr("x2", function(d) { return d.target.x; })
+          .attr("y2", function(d) { return d.target.y; });
+    
+      node
+          .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+    }
+    
+    function mouseover() {
+      d3.select(this).select("circle").transition()
+          .duration(transition_time)
+          .attr("r", 12)
+          .style("fill","#4287f5")
+          ;
+      d3.select(this).select("text").transition()
+          .duration(0)
+          .text(function(d) { return d.full_name; })
+      d3.select(this).select("text").transition()
+          .duration(transition_time)
+          .style("font-size", 16)
+          .style("font-weight", "bold");
+    }
+    
+    function mouseout() {
+      d3.select(this).select("circle").transition()
+          .duration(transition_time)
+          .attr("r", 8)
+          .style("fill","#ccc");
+      d3.select(this).select("text").transition()
+          .duration(0)
+          .text(function(d) { return d.name; })
+      d3.select(this).select("text").transition()
+          .duration(transition_time)
+          .style("font-size", 12)
+          .style("font-weight", "normal");
+    }
+   });
+    
+    </script>
+  </footer>
+
+</html>
