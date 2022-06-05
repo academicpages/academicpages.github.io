@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pan Lizhi"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "Living to forget myself"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pan Lizhi"
+  name             : #"Pan Lizhi"
   avatar           : "myphoto1.jpg"
   bio              : "Living to forget myself"
   location         : "Beijing"
