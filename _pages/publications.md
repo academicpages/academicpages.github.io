@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 ## 2022
+
+* [Learning a Priority Ordering for Prioritized Planning in Multi-Agent Path Finding](https://taoanhuang.github.io/files/socs22a.pdf).                     
+    Shuyang Zhang, Jiaoyang Li, **Taoan Huang**, Sven Koenig and Bistra Dilkina.    
+    <i>Symposium on Combinatorial Search (**SoCS**)</i>, 2022.  
+
+
 * [Anytime Multi-Agent Path Finding via Machine Learning-Guided Large Neighborhood Search](https://taoanhuang.github.io/files/aaai22.pdf).                     
     **Taoan Huang**, Jiaoyang Li, Bistra Dilkina and Sven Koenig.    
     <i>AAAI Conference on Artificial Intelligence (**AAAI**)</i>, 2022.   
