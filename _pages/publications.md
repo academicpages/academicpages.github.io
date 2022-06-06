@@ -22,7 +22,7 @@ Muntasir Wahed, Afrina Tabassum, Ismini Lourentzou
 Arkin Dharawat, Ismini Lourentzou, Alex Morales, ChengXiang Zhai  
 [paper](https://arxiv.org/pdf/2010.08743.pdf), [code](https://github.com/TIMAN-group/covid19_misinformation), [poster](https://uofi.app.box.com/v/CovidHeRAmisinformation)
 
-- **Toward a general unsupervised novelty detection framework in structural health monitoring** Computer‐Aided Civil and Infrastructure Engineering 2022 
+- **Toward a general unsupervised novelty detection framework in structural health monitoring** Computer‐Aided Civil and Infrastructure Engineering 2022    
 Mohammad Hesam Soleimani‐Babakamali,Reza Sepasdar, Kourosh Nasrollahzadeh, Ismini Lourentzou, and Rodrigo Sarlo  
 [paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/mice.12812)
 
@@ -30,7 +30,7 @@ Mohammad Hesam Soleimani‐Babakamali,Reza Sepasdar, Kourosh Nasrollahzadeh, Ism
 Muntasir Wahed, Daniel Gruhl, Alfredo Alba, Anna Lisa Gentile, Petar Ristoski, Chad Deluca, Steve Welch, Ismini Lourentzou  
 [paper](http://128.84.4.18/abs/2108.11948)
 
-- **Identifying False Human Papillomavirus (HPV) Vaccine Information and Corresponding Risk Perceptions From Twitter: Advanced Predictive Models** Journal of Medical Internet Research (JMIR) 2021
+- **Identifying False Human Papillomavirus (HPV) Vaccine Information and Corresponding Risk Perceptions From Twitter: Advanced Predictive Models** Journal of Medical Internet Research (JMIR) 2021  
 Tre Tomaszewski, Alex Morales, Ismini Lourentzou, Rachel Caskey, Bing Liu, Alan Schwartz, Jessie Chin  
 [paper](https://www.jmir.org/2021/9/e30451/), [press coverage](https://www.eurekalert.org/news-releases/931671)
 
