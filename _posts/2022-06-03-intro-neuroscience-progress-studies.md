@@ -15,7 +15,7 @@ Understanding the human brain - to the point of being able to reproduce its abil
 
 I'd like to attempt just that systematically - create a spreadsheet and accompanying notes discussing the questions in section 3 for the items in section 2, giving numerical answers whenever possible. I'd like to do so by literature review and interviews with experts. This is different - and much simpler - than reviewing all the literature in neuroscience and microbiology: Most of the literature focuses on _what_ scientists know or learned recently, I'd like to focus on _how much_ they did, do, and need to know.
 
-Ideally, this would allow predictions of how far we are from "reverse-engineering" the human brain, and understanding how it works and develops from a human genome in its environment.
+Ideally, this would allow predictions of how far we are from "reverse-engineering" the human brain, and understanding how it works and develops from a human genome in its environment - and how we will most likely achieve that goal.
 
 ## 2. Breaking down the problem: the brain's inner workings by scale
 > "If you wish to make an apple pie from scratch, you must first invent the universe." ― Carl Sagan, Cosmos
@@ -53,11 +53,11 @@ Putting it all together, a _[whole-brain emulation](https://en.wikipedia.org/wik
 Just like Moore's law allowed to predict developments in IT decades in advance, similar laws concerning the items of this enumeration may allow predictions when, and how, humanity meets those subjects' grand challenges.[^27]
 ## 3. What questions to ask experts, and the literature?
 The basic questions I'd like to understand concerning all these levels are similar:
-1. How much data would we need to gather to "solve" the problem? How sure are we about this quantity?
-2. What experimental and computational methods exist, and how expensive is it to gather data with them? How fast - and predictably - do these improve? Can we draw a nice Moore's law-like graph showing exponentially declining costs per unit of information?
+1. How much data would we need to gather to "solve" the problem - i.e. create a quantitative model that, as part of a whole-brain emulation, would be accurate enough to reproduce human intelligence? How sure are we about this quantity?
+2. What experimental and computational data-gathering methods exist? How fast - and predictably - did and do they improve, in particular in terms of performance per USD? Can we draw a nice Moore's law-like graph showing exponentially declining costs per unit of information?
 3. What is the reason for that progress, i.e. what changed in the wider world of engineering that allowed the introduction of new methods? What are obstacles to further progress?
-4. How many people-hours and USD per year are devoted to the field? How did that develop historically and how is it projected to develop?
-5. How much compute is expected to suffice to simulate that level's effective behaviour so that one reproduces a biological brain's functions? How much is expected to be "essential for intelligence" - i.e. how much could be saved by changing higher-level organization?
+4. How many people-hours and USD per year are devoted to the field? As in 2., how did that develop historically and how is it projected to develop?
+5. How much compute is expected to be necessary in a simulation as in 1.? How much is expected to be an artefact of the biological substrate, as opposed to being "essential for intelligence"?
 6. Further remarks or complications?
 
 ## 4. The desired end-state, and how I'd like to get there
@@ -71,7 +71,7 @@ In total, I'd expect a fact-sheet of about 1.5 A4 page per item in section 2 - e
 
 I hope to have a partial report in 3 months, based on which I can hold a talk.
 ## 6. Acknowledgments
-So far, thanks in particular to Kynan Eng, Jonathan Karr, and Lucia Purcaru for helpful feedback and references on the subject. 
+So far, thanks in particular to Kynan Eng, Jonathan Karr, Lucia Purcaru, and Birses Debir for helpful feedback and references on the subject. 
 ## 7. Footnotes
 [^1]: See [this website](https://www.wholecell.org/), and the [list of models](https://www.wholecell.org/models/) therein, for more information - although it doesn't seem to have been updated since 2018.
 
