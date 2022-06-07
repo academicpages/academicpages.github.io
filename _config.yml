@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Josephine Selvarani Ruth D"
-  avatar           : "Ruth.png"
+  avatar           : "Ruth_sq.jpeg"
   bio              : "DST INSPIRE faculty fellow<br>(01 Dec 2017- present)<br>Robert Bosch Centre for Cyber Physical Systems"
   location         : "Indian Institute of Science,<br>Bangalore, Karnataka"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=V7Yt7FAAAAAJ&hl=en"
-  email1           : "djsruth@gmail.com"
-  email2           : "rjosephine@iisc.ac.in"
+  email           : "djsruth@gmail.com"
+  email           : "rjosephine@iisc.ac.in"
   mobile           : "+91-9487256932"
   researchgate     :  
   uri              :
