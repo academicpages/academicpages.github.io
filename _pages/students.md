@@ -44,6 +44,7 @@ Past graduate students under supervision in CSUF (partial list)
 - Parijat Das: graduate project supervisor, Spr’20
 - Pavan Kumar Koikur Sudhakar: graduate project supervisor, Spr’20
 - Priyanka Sharma: research volunteer Fall’19, Spr’19; graduate project supervisor, Spr’20
+Securing Smart Cities - Cameras in IoT Devices(https://www.youtube.com/watch?v=u5TM32x-03c)
 - Rahul Ganesh Sridhar: graduate project supervisor, Spr’20
 - Rohit Saha: graduate project supervisor, Spr’20
 - Saket Gonte: graduate project supervisor, Spr’20
