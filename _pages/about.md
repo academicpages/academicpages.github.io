@@ -17,7 +17,7 @@ I specifically focus on designing and building innovative mobile sensing systems
 Updates
 =======
 <ul>
-	<li> <b>[Mar 2022]</b> Our work on secure Android remote authorization to appear in Usenix Security 2022!
+	<li> <b>[Mar 2022]</b> Our work on secure Android remote authorization to appear in Usenix 2022!
 	</li>
 	<li> <b>[June 2021]</b> Received Bilsland Dissertation Fellowship Award 2021-2022!
 	</li>
@@ -39,7 +39,7 @@ Publications
 			<br/>
 		Abdullah Imran, <b>Habiba Farrukh</b>, Muhammad Ibrahim, Z. Berkay Celik, Antonio Bianchi
 			<br/>
-			Proceedings of the USENIX Security Symposium (Usenix SEC '22) <a href="/files/SARA.pdf">[Paper]</a>
+			Proceedings of the USENIX Symposium (Usenix SEC '22) <a href="/files/SARA.pdf">[Paper]</a>
 			<br/>
 	</li>
 </ul>
