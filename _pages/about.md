@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Ph.D. candidate of computer science at Purdue University working under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/). My research interests broadly lie in the area of mobile computing and mobile sensing.
-I specifically focus on designing and building innovative and secure mobile sensing systems through applying security, machine learning and computer vision algorithms. 
+I specifically focus on designing and building innovative mobile sensing systems through applying machine learning and computer vision algorithms. 
 <!-- Before coming to Purdue, I received my bachelor's degree from [LUMS School of Science and Engineering (SBASSE)](https://sbasse.lums.edu.pk/department/computer-science). -->
 
 
