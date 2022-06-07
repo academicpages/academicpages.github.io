@@ -35,7 +35,8 @@ Past graduate students under supervision in CSUF (partial list)
 - Bhagya Lakshmi Bodapati: graduate project supervisor, Spr’20
 - Darshan Yadav Lakkappa Swamy: graduate project supervisor, Spr’20
 - Girish Kumar Ramachandra: graduate project supervisor, Spr’20
-- Hasti Chitsazan: graduate project supervisor, Spr’20
+- Hasti Chitsazan: graduate project supervisor, Spr’20<br/>
+  [Securing Smart Cities - Cameras in IoT Devices Using Zymkey 4i](https://www.youtube.com/watch?v=u5TM32x-03c)
 - Jatin Bhore: graduate project supervisor, Spr’20
 - Karan Atulkumar Jasani: graduate project supervisor, Spr’20
 - Mounika Vancha: graduate project supervisor, Spr’20
