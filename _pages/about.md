@@ -32,7 +32,7 @@ I was delighted to be awarded a Silver Graduate Student Award at the MRS Spring 
   
 As well as a Rising Star Award ⭐️ from _Materials Today Chemistry_, an eMRS Young Researcher Award and a Best Presentation Award at eMRS Spring 2022 🗣 
 
-<img align="left" width="257" src="files\eMRS MTC Rising Star Award.png"><img align="centre" width="260" src="files\eMRS_Spring_2022_Best_Presentation_Award_Symposium_G.png"><img align="right" width="260" src="files\eMRS_Spring_2022_Best_Presentation_Award_Symposium_K.png">   
+<img align="left" width="257" src="files\eMRS MTC Rising Star Award.png"><img align="centre" width="255" src="files\eMRS_Spring_2022_Best_Presentation_Award_Symposium_G.png"><img align="right" width="255" src="files\eMRS_Spring_2022_Best_Presentation_Award_Symposium_K.png">   
 <br/><br/>  
 <br/><br/>
 <br/><br/>
