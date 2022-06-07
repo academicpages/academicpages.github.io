@@ -27,7 +27,7 @@ author_profile: true
 -	RSC Solid State Chemistry Group Travel Award.
 
 ## Presentation Prizes & Awards
--	Best Presentation Award at EMRS Spring 2022 – ‘Cation disorder engineering in AgBiS2’
+-	Best Presentation Award at EMRS Spring 2022 – ‘_Cation disorder engineering in AgBiS2_’. [Certificate](https://kavanase.github.io/files/eMRS_Spring_2022_Best_Presentation_Award_Symposium_K.png)
 -	Roy Prize for Best Graduate Student Oral Presentation at the RSC 40th Anniversary Solid State Chemistry Group (SSCG) Meeting, 2021 (£250), judged by the invited speakers.
 - Best Poster at TYC Conference 2020, King’s College London – ‘_Band Alignment of Antimony and Bismuth Silver-Bromide Double Perovskites_’.
 - Excellent Poster Prize at RSC Materials Chemistry Poster Symposium 2021 – ‘_Bandgap Lowering in Lead-Free Cs2Ag(SbxBi1-x)Br6 Double Perovskite Alloys_’. [Certificate](https://kavanase.github.io/files/RSC_Mat_Chem_Poster_Certificate.pdf)
