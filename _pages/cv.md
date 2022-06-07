@@ -52,6 +52,7 @@ Awards & Scholarships
 * Science and Engineering Summer Research Scholarship (UL40) (University of Limerick, 2016)
 * Summer Research Scholarship at the Paul Scherrer Institute (PSI, 2017)
 * Government of Ireland Postgraduate Research Scholarship (2017)
+* Bertram Broberg Memorial Medal (2021) - Awarded to the best PhD thesis in Mechanics across the Schools of Engineering, Mathematics & Statistics and Physics. 
 
 Publications
 ======

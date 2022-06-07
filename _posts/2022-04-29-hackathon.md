@@ -28,4 +28,4 @@ A dynamic coding notebook which on-the-fly calculated all the above operations w
 3. Loop through each grid point and assign the correct return period for that cell. The precipitation amount is compared to the 5,10,25,50 and 100 year return period precipitation thresholds.
 4. Plot the resulting return period for each cell. 
 
-The different ensemble members can then be interrogated by simply moving a slider. The dynamic coding notebook relies upon the performance of Julia and in particular the dynamic nature of Pluto notebooks. The source code can be accessed here: https://github.com/JakobDeutloff/ReturnPeriods/tree/main/visualisation 
+The different ensemble members can then be interrogated by simply moving a slider. The dynamic coding notebook relies upon the performance of Julia and in particular the dynamic nature of Pluto notebooks. The source code can be accessed [here](https://github.com/JakobDeutloff/ReturnPeriods/tree/main/visualisation).
