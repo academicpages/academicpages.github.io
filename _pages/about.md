@@ -35,7 +35,6 @@ As well as a Rising Star Award ⭐️ from _Materials Today Chemistry_, an eMRS 
 <img align="left" width="251" src="files\eMRS MTC Rising Star Award.png"><img align="centre" width="257" src="files\eMRS_Spring_2022_Best_Presentation_Award_Symposium_G.png"><img align="right" width="257" src="files\eMRS_Spring_2022_Best_Presentation_Award_Symposium_K.png">   
 <br/><br/>  
 <br/><br/>
-<br/><br/>
 
 Our _Nature Photonics_ [article](https://www.nature.com/articles/s41566-021-00950-4) on breaking the world record for AgBiS₂ solar cells was featured on a number of [news sites](https://nature.altmetric.com/details/123045210/news) and has been selected as the 'Hero Image' for the March Issue! 🤩
 
