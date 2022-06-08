@@ -10,11 +10,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Affiliations"
+    url: /affiliations/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Achievements"
+    url: /achievements/
     
   - title: "CV"
     url: /cv/
