@@ -51,15 +51,22 @@ Work experience
 ======
 * June 2021 - March 2022: Administrative Staff
   * Korea University, Sejong, Korea
-  * Duties included: Admission Data Analysis, General Administration
+  * Duties included: Admission Data Analysis, General Administration;
+  I worked as an administrative staff member of the admissions team at Korea University. I was in charge of data analysis regarding university admission, including processing of students' school record data (over 20,000 students per year) and computing the scores to be used for making decisions about admission. The data I processed included Korean students' scores and grades, their attendance, and teachers’ written evaluations of students’ performance. These types of data were interconnected and needed to be correlated with each segment of the decision-making process. As such, I wrote a comprehensive SAS code to handle the volume and processing of this information. I also managed a database using SQL and Oracle that I used to notify students about their admission results via the admissions team website. I also supported admissions interviews, practical tests, and written tests (mainly the math section). Finally, I presented information and consulting sessions in high schools and at regional admissions fairs.
+
+	
 
 * Apr 2021 - May 2021: Research Executive
   * Kantar Korea (Public Division), Seoul, Korea
-  * Duties included: Statistical Reports Writing, Data Analysis of National Panel Surveys
+  * Duties included: Statistical Reports Writing, Data Analysis of National Panel Surveys;
+  As a research executive at the Public Division of Kantar Korea, my job was to support data collection and analysis of client projects including public, social research, and national panel survey projects. These projects included public opinion polls conducted by the biggest press agency in South Korea (Korean Broadcasting System, KBS), national panel data managed by major institutions (National Youth Policy Institute, Korea Employment Information Service, Korea Broadcast Advertising Corp), and general surveys conducted at major universities. My role in conducting these surveys was to support survey design, sampling, data cleaning, data analysis, and report writing.![image](https://user-images.githubusercontent.com/103173667/172550335-12e104b4-dddb-417f-80e5-5f283e0aacb0.png)
+
   
 * Aug 2020 - May 2021: Admission Officer
   * Sungkyunkwan University, Seoul, Korea
-  * Duties included: Application Assessments, Admission Data Analysis
+  * Duties included: Application Assessments, Admission Data Analysis;
+  I trained for 120+ hours as an admissions officer, where I learned to evaluate students’ applications for admission and learned advanced statistical methods for university admissions data using R. I screened and conducted a qualitative evaluation through reviewing comprehensive school records of a large number of candidates. I was mainly in charge of flagging candidates’ applications for key words in written data that warranted further review. I analyzed admission results and survey responses with SPSS and R.provided statistical support in analyzing survey data gathered from teachers and admission officers for the research project. Finally, I planned and designed guide books meant to help students unfamiliar with the admissions process.![image](https://user-images.githubusercontent.com/103173667/172550372-7e91955c-5887-4a58-8caf-962f79301184.png)
+
 
 
 Certifications
