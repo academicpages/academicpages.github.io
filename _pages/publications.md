@@ -23,7 +23,7 @@ Gurugubelli VS, Fang H, Shikany JM, **Balkus SV**, Rumbut J, Ngo H, Wang H, Alli
 IEEE Internet of Things Journal (2021).  
 **Balkus SV**, Fang H, Rumbut R, Moormann A, Boyer E.  
 
-In Progress
+Submitted for Publication
 ---
 
 **Federated Fuzzy Clustering for Decentralized Longitudinal Dietary Data**  
