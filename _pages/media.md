@@ -1,14 +1,11 @@
 ---
 permalink: /media/
-title: "Media Appearances"
+title: "Selected Media Appearances"
 author_profile: true
 redirect_from:
   - /md/
   - /media.html
 ---
-
-Selected Media Appearances
-==========================
 
 1. CNN Chile (May 18th 2022): On the relevance of Finland joining NATO.
 
