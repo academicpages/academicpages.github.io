@@ -31,6 +31,7 @@ I am a postdoctoral research fellow in the Department of Biomedical Informatics 
 ## News 
 
 <ul style="width: auto; height: 300px; overflow: auto">
+   <li> <b>[June, 2022]</b>. Our paper is published in <a href="https://doi.org/10.1093/jamia/ocac089">JAMIA</a>! </li>
    <li> <b>[May, 2022]</b>. Dr. Liu presented in the AMIA Clninical Informatics Conference in Houston, TX! </li>
    <li> <b>[May, 2022]</b>. Dr. Liu successfully completed the Women in AMIA Leadership Program in Midway, UT! </li>
    <li> <b>[May, 2022]</b>. Dr. Liu was invited to give a talk in the <a href="https://amia.org/community/working-groups/clinical-information-systems">AMIA Clinical Informatics Systems Working Group</a>! </li>
