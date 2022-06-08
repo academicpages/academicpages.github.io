@@ -9,9 +9,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Affiliations"
-    url: /affiliations/
         
   - title: "Achievements"
     url: /achievements/
@@ -19,5 +16,3 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
