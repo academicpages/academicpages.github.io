@@ -4,7 +4,10 @@
 
 .masthead {
   position: relative;
-  border-bottom: 1px solid $border-color;
+  #background-image: url("/images/IMG_1262.jpg");
+  background-color: $info-color;
+  border-bottom: 1px solid $info-color-dark;
+  border-top: 1px solid $info-color-dark;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;

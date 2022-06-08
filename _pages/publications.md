@@ -26,11 +26,13 @@ IEEE Internet of Things Journal (2021).
 Submitted for Publication
 ---
 
-**Federated Fuzzy Clustering for Decentralized Longitudinal Dietary Data**  
+**Federated Fuzzy Clustering for Decentralized Longitudinal Behavioral Health Data**  
+submitted to IEEE Internet of Things Journal.  
 **Balkus SV**, Fang H, Wang H.  
 
-**Improving Short Text Classification With Augmented Data Using GPT-3**  
-*Balkus SV*, Yan D.  
+[**Improving Short Text Classification With Augmented Data Using GPT-3**](https://arxiv.org/abs/2205.10981)  
+submitted to Natural Language Engineering  
+**Balkus SV**, Yan D.  
 
 {% include base_path %}
 
