@@ -254,7 +254,7 @@ timezone:   America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_t
 
 
 # Plugins
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
