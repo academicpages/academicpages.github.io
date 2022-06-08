@@ -11,7 +11,10 @@ main:
     url: /resources/
 
   - title: "Talks"
-    url: /talks/   
+    url: /talks/
+
+  - title: "Media"
+    url: /media/   
   
   - title: "Blog"
     url: /year-archive/
