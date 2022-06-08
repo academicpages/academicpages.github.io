@@ -31,7 +31,7 @@ submitted to IEEE Internet of Things Journal.
 **Balkus SV**, Fang H, Wang H.  
 
 [**Improving Short Text Classification With Augmented Data Using GPT-3**](https://arxiv.org/abs/2205.10981)  
-submitted to Natural Language Engineering  
+submitted to Natural Language Engineering.  
 **Balkus SV**, Yan D.  
 
 {% include base_path %}
