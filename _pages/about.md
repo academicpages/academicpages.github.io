@@ -12,7 +12,7 @@ I am currently a Ph.D. student at the CSE Department, the HKUST, advised by [Pro
 - **Expressive Learning Models**
     - **Structure-Aware Models for Graph Data** \[GraLSP, AAAI'20; GraphSTONE, KDD'20; GraphMSE, AAAI'21; GSKN, WWW'21\]
     - **Temporal-Aware Models under Dynamic Data** \[EPNE, ECAI'20\]
-- **Effective Learning under the Lack of Data **
+- **Effective Learning under the Lack of Data**
     - **Transfer Learning** \[CrossTReS, KDD'22; MUSDAC, IJCAI'20\]
     - **Federated Learning** \[SecureBoost, IEEE Intel. Sys. 2021\]
 
