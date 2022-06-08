@@ -24,7 +24,7 @@ redirect_from:
 
 - Hector Bahamonde and Andrea Canales. "Electoral Risk and Vote Buying, Introducing Prospect Theory to the Experimental Study of Clientelism." Revise and Resubmit, *Electoral Studies*. <br/> [[Abstract]](https://github.com/hbahamonde/Economic_Experiment_Vote_Selling/raw/master/abstract.txt)
 
-- Hector Bahamonde and Outi Sarpila. "Physical Appearance and Elections: An Inequality Perspective." Submitted, *European Journal of Political Research*. <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Physical/main/abstract.txt)
+- Hector Bahamonde and Outi Sarpila. "Physical Appearance and Elections: An Inequality Perspective." Under review, *European Journal of Political Research*. <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Physical/main/abstract.txt)
 
 
 ## In Preparation
