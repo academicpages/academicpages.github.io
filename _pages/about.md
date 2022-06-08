@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a NORDITA Fellow at the Nordita Institute and Stockholm University working on several aspects of gravitational-wave multimessenger astrophysics and neutron stars more broadly. I did my PhD at Monash working under the supervision of Paul Lasky and Greg Ashton which was conferred in October 2021.
+I am a NORDITA Fellow at the Nordita Institute and Stockholm University working on several aspects of gravitational-wave multi-messenger astrophysics, neutron stars, and transients more broadly. I did my PhD at Monash working under the supervision of Paul Lasky and Greg Ashton which was conferred in October 2021.
 I am a member of the LIGO Scientific Collaboration (LSC) and the Australian research council centre for excellence for gravitational-wave discovery, OzGrav.
 
 # Recent News
-* 28th May 2022: I was awarded the 2021 Vice-Chancellor’s Commendation for Doctoral Thesis Excellence! One prize is awarded across the Science Faculty. Incredibly grateful to my supervisors, mentors and colleagues.
-* 10-20th May 2022: I visited the GSSI Institute in L'Aquila and later attending the PHAROS conference in Rome. Really enjoyed the first in person conference since the Pandemic. Nice to see lots of familiar faces!
+* June 3rd-June 12th: This week I am in California, visiting UC Berkeley.
+* 28th May 2022: I was awarded the 2021 Vice-Chancellor’s Commendation for Doctoral Thesis Excellence! One prize is awarded across the Science Faculty at Monash. Incredibly grateful to my supervisors, mentors and colleagues.
+* 10-20th May 2022: I visited the GSSI Institute in L'Aquila and later attended the PHAROS conference in Rome. Really enjoyed the first in person conference since the Pandemic. Nice to see lots of familiar faces!
 * 6th May 2022: I was awarded the Robert Street Doctoral Prize for best PhD thesis at Monash!
 * 28th March 2022: _Linking the rates of neutron star binaries and short gamma-ray bursts_ accepted in Phys Review D. Check it out on the [arXiv](https://arxiv.org/abs/2201.08491).
 * 17th March 2022: Today, we released the alpha version of redback, a bayesian inference software package for electromagnetic transients. If you are interested in fitting and interpreting the observations of electromagnetic transients, check it out on [github](https://github.com/nikhil-sarin/redback) and consider contributing!
