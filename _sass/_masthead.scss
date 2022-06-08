@@ -5,7 +5,7 @@
 .masthead {
   position: relative;
   border-bottom: 1px solid $border-color;
-  background-color : cornflowerblue;
+  background-color : $menu-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
