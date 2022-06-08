@@ -1,3 +1,4 @@
+
 # main links links
 main:
   - title: "Publications"
@@ -8,12 +9,15 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-
-#   - title: "Affiliations"
-#     url: /affiliations/
     
-#    - title: "Achievements"
-#     url: /achievements/
+  - title: "Portfolio"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
     
-   - title: "CV"
+  - title: "CV"
     url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
