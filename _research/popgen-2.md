@@ -2,6 +2,7 @@
 title: "Are similar signatures of selection shared among populations and species?"
 collection: research
 permalink: /research/popgen
+show_date: false
 excerpt: 'We use next-generation sequencing tools to distinguish between signatures of neutral and selective pressures. We are primarily interested in how spatially varying environments and selective pressures impact evolutionary processes. Most of the work to date has been done on the Gulf pipefish, but we are currently working on a broad range of organisms, including pipefish, penguins, and Phytophthora.'
 ---
 
