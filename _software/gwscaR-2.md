@@ -1,6 +1,7 @@
 ---
 title: "gwscaR"
 excerpt: "genome-wide selection components analysis in R"
+show_date: false
 collection: software
 permalink: /software/gwscaR
 ---
