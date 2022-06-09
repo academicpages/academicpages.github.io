@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 Multisensory Integration in Natural and Virtual Reality Walking Scenarios for Successful Ageing [SenseWalk] is a research project funded by [H.F.R.I.](https://www.elidek.gr)’s Research Projects to Support Faculty Members & Researchers.
-![this is elidek image] (https://www.elidek.gr/)
+
+![this is elidek image] (https://www.elidek.gr/wp-content/themes/elidek/images/elidek_logo.png)
 
 About the project
 ======
