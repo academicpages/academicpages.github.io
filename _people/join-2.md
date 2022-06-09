@@ -21,4 +21,4 @@ If you are currently at University of Canterbury and would like to work with me 
 My lab is inclusive, welcoming, and committed to advancing diversity; I welcome everyone regardless of their citizenship, ethnicity, color, socioeconomic background, gender identity, sexual orientation, religion, and age. I especially encourage members of historically underrepresented groups including (but not limited to) people of colour, women, veterans, and people from socioeconomically disadvantaged communities to inquire about opportunities and apply to join my group.
 
 
-For more information on pursuing a postgraduate degree at the University of Canterbury, please take a look at the [handbook](http://www.canterbury.ac.nz/science/schools-and-departments/biological-sciences/postgraduate-study/). 
+For more information on pursuing a postgraduate degree at the University of Canterbury, please take a look at the [handbook](http://www.canterbury.ac.nz/science/schools-and-departments/biological-sciences/postgraduate-study/).
