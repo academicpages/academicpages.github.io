@@ -2,6 +2,7 @@
 title: "What role does sexual selection play in shaping traits in natural populations?"
 excerpt: "Mating behaviors usually involve other non-behavioral traits and can be shaped by ecological and environmental factors. Therefore, behaviors often experience complex selection pressures, including strong sexual selection. The lab works on characterizing the interacting roles of morphological traits, mate quality, and environmental factors in mate choice and sexual selection. Focusing on sexual selection facilitates integrative studies that incorporate animal behavior, mating patterns, ecology, and population dynamics. We use both empirical and theoretical approaches to understand these complex dynamics."
 permalink: /research/sexual-selection
+show_date: false
 collection: research
 ---
 
