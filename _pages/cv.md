@@ -16,5 +16,4 @@ redirect_from:
 [Profile](https://www.mpifg.de/person/111589) at the homepage of the Max Planck Institute for the Study of Societies
 ======
 
-  <iframe src="http://dariatisch.github.io/files/CV_Tisch.pdf" width="150%" height="1000px"></iframe>
-
+<iframe src="https://drive.google.com/file/d/13QKkLNftn9pm2H0Ge3ZuHC1w7VSS3AkA/preview" width="640" height="480" allow="autoplay"></iframe>
