@@ -70,4 +70,21 @@ Co-first authorship is denoted by *.
   <li> <strong>Flanagan SP</strong>. 2017. Pipefish pairing. Biosphere Magazine. 23. <a title="biosphere-pipefish-pairing" href="https://sarahpflanagan.files.wordpress.com/2016/09/biosphere-pipefish-pairing.pdf" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">PDF (opens in a new tab)</a></li>
 
 </ol>
+
+
+# Theses
+
+<ol reversed>
+  
+  <li> van Eyndhoven, F. 2022. The role of the novel female ornament in the wide-bodied pipefish, Stigmatapora nigra. http://dx.doi.org/10.26021/12821 <a href="https://ir.canterbury.ac.nz/handle/10092/103722" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a> </li>
+    
+  <li> Howell, L. 2021. Detecting Antarctic and New Zealand vertebrates using environmental DNA (eDNA). http://dx.doi.org/10.26021/10882. <a href="https://ir.canterbury.ac.nz/handle/10092/101828" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a> </li>
+  
+  <li> Gerber, DA [co-supervised]. 2021. Associations between estuarine foundation species and their effect on biodiversity across latitudes and seasons. http://dx.doi.org/10.26021/11369 <a href="https://ir.canterbury.ac.nz/handle/10092/102320" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a> </li>
+    
+  <li> Pullen, M. 2021. The use of seagrass (Zostera muelleri) habitat types by seagrass communities in New Zealand. http://dx.doi.org/10.26021/11188. <a href="https://ir.canterbury.ac.nz/handle/10092/102132" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a> </li>
+
+
+</ol>
+
 <p style="text-align: center;"><em>***Please contact me if you require access to a PDF***</em></p>
