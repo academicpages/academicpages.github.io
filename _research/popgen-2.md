@@ -10,16 +10,13 @@ Genomic data can be used to identify patterns of selection from the background p
 
 That being said, the general dynamics of local adaptation, population differentiation, and novel trait evolution are best understood if multiple evolutionary trajectories are compared. To that end, the lab is developing comparative population genomics and transcriptomics studies using other Syngnathid fishes. Specifically, we have an ongoing project investigating the population genetics of <i>Stigmatopora nigra</i> across New Zealand. 
 
+These same genetic tools can be used to understand the drivers of population decline. We are pursuing this question in a large but declining population of kororā, the little blue penguins (<i>Eudyptula minor</i>) in the Banks Peninsula. This collaborative project with [Pohatu Penguins](https://www.pohatu.co.nz/) and local rūnanga is using a different approach to obtaining genetic data, though: using environmental DNA from faeces and soil to identify prey items and genotype birds at specific genetic markers. We also plan to use the portable long-read sequencer, the Nanopore MinION, to generate whole-genome sequence data from blood samples collected while microchipping birds.
 
-Also include penguins, 
-- white flippered penguins
-- differences across populations in drivers of decline
+<img src='/images/DSC_2221.JPG'>
 
-phytopthora across strains and species,
-- RxLR sequence evolution
-- effectome evolution
-- interactions with different hosts
+One really exciting and interesting aspect of the little blue penguin work is that the populations across New Zealand differ in their traits and their genetic clade (depending on your taxonomic preferences, which sub-species the populations belong to). In particular, in Banks Peninsula there is a specific morph called the white flippered penguin, which occurs only in a narrow range. We are working to understand how this trait evolved and the mechanisms allowing it to persist despite matings with the typical blue morph. 
 
+Finally, the lab is also collaborating with Claudia Meisrimler to investigate the evolution of pathogenicity across strains of the pathogentic oomycete <i>Phytophtora cinnamomi</i>. In this work, we are using nanopore MinION sequencing data to generate genome assemblies for strains of this pathogen that were obtained from different plant hosts -- including kauri, pine trees, and avocados. We intend to identify the evolutionary mechanisms impacting the large set of genes referred to the 'effectome', which allow the oomycete to attack plant cells, with a long-term goal of applying this knowledge to reduce the harm this pathogen can cause. This research is led by MSc student Alex Cox.
 
 
 Some relevant papers and theses from the lab include:
