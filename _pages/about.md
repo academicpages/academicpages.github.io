@@ -10,7 +10,7 @@ redirect_from:
 
 <b>About the lab</b>
 
-The Flanagan Lab in the School of Biological Sciences at the University of Canterbury in Christchurch is focused on understanding the evolution of complex, multivariate traits (especially sexually dimorphic traits), primarily relying on population and quantitative genetics, genomic datasets, simulation modeling. Our empirical work has mostly focused on pipefish and seahorses.
+The Flanagan Lab in the School of Biological Sciences at the University of Canterbury in Christchurch is focused on understanding the evolutionary mechanisms allowing variation in traits to be maintained within and among populations. Specifically, we are interested in understanding the evolution of sexually dimorphic traits (why are males and different in some species and not other closely related species?) and identifying mechanisms impacting fitness-related traits (what evolutionary mechanisms and which traits are involved in population declines?). We use a wide variety of tools to address these questions, including population genetics, comparative genomics, transcriptomics, animal behaviour, and simulation modeling. Our empirical work has mostly focused on pipefish and seahorses, but we are also studying kororā (little blue penguins) and pathogenic oomycetes.
 
 
 <b>Lab news</b>
