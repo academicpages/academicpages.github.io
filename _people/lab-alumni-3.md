@@ -7,6 +7,13 @@ collection: people
 
 ## Masters students at University of Canterbury
 
+
+### Fleur van Eyndhoven
+
+<img align="right" src='/images/fleurvaneyndhoven.jpg' width="40%" height="40%"> Fleur completed her Master of Science with Sarah in 2022,  looking at sexual selection in the wide-bodied pipefish, <i>Stigmatopora nigra</i>. She is interested in animal behaviour and how individuals interact with each other. 
+
+
+
 ### Micaela Pullen
 
 <img align="left" src='/images/MicaelaPullen.jpg' height='100' width='133'> Micaela completed her masters of science with Sarah in 2021, working on monitoring a population of pipefish that reside in seagrass beds in Duvauchelle Bay. More generally, she is interested in how organisms influence each other and the environment around them.
