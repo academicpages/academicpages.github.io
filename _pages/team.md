@@ -4,7 +4,7 @@ title: "Project Team"
 permalink: /Team/
 author_profile: true
 redirect_from:
-  - /resume
+  - /Project Team
 ---
 
 {% include base_path %}
