@@ -2,6 +2,7 @@
 title: "Join the lab"
 excerpt: "Find out how you can get involved!"
 collection: people
+show_date: false
 permalink: /people/join
 ---
 
