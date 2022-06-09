@@ -1,6 +1,7 @@
 ---
 title: "fsthet"
 excerpt: "Fst-heterozygosity smoothed quantiles"
+show_date: false
 collection: software
 permalink: /software/fsthet
 ---
