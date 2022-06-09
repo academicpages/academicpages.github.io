@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Lucas Monteiro Paes"
   avatar           : "profile.png"
-  bio              : "Applied mathematics PhD Student @ Harvard"
+  bio              : "Applied Mathematics PhD Student @ Harvard"
   location         : "Massachusetts, USA"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :  # "http://yourfullgooglescholarurl.com"
+  googlescholar    :  "https://scholar.google.com/citations?user=ruB-9hwAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
