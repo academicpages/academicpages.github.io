@@ -15,6 +15,14 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 <b>Lab news</b>
 
+June 2022: Sarah was spoke about the group's research (especially the research on kororā, the little blue penguins) on Radio New Zealand's Nights with Bryan Crump. [You can listen to the segment as a podcast if you missed it live!](https://www.rnz.co.nz/national/programmes/nights/audio/2018845123/native-species-and-climate-change)
+
+June 2022: Lucy Howell won the Best Poster Award at the New Zealand Birds Conference. Congratulations Lucy!
+
+June 2022: Didi Daley has joined the lab to start a MSc on the population genetics of wide-bodied pipefish!
+
+May 2022: The research team has received funding from the Brian Mason Trust to hire a summer student to work with the research team and our collaborators at Pohatu Penguins. UC students, reach out if you are interested!
+
 March 2022: Fleur van Eyndhoven submitted her MSc thesis. Congratulations, Fleur!
 
 February 2022: The research team has received funding from the University of Canterbury's Vision Mātauranga Fund and UC's Faculty of Science New Ideas Seed grant to support the collaborative research with Ōnuku Rūnanga and Pohatu Penguins, supporting Lucy Howell's PhD research.
