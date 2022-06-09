@@ -2,6 +2,7 @@
 layout: archive
 title: "People"
 permalink: /people/
+show_date: false
 author_profile: true
 ---
 
