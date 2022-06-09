@@ -193,6 +193,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: false
   # _research
   - scope:
       path: ""
@@ -202,14 +203,17 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      show_date: false
   # _software
   - scope:
       path: ""
       type: software
+      show_date: false
     values:
       layout: single
       author_profile: true
       share: true
+      show_date: false
   # _resources
   - scope:
       path: ""
@@ -218,6 +222,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      show_date: false
   # _publications
   - scope:
       path: ""
@@ -226,6 +231,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      show_date: false
   # _contact
   - scope:
       path: ""
@@ -234,6 +240,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      show_date: false
   # _people
   - scope:
       path: ""
@@ -242,6 +249,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      show_date: false
   # _openpositions
   - scope:
       path: ""
@@ -250,7 +258,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      
+      show_date: false
 
 # Sass/SCSS
 sass:
