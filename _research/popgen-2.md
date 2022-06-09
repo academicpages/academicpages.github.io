@@ -1,14 +1,15 @@
 ---
-title: "Are similar signatures of selection shared among populations and species?"
+title: "Do evolutionary mechanisms impact related populations and species in similar ways?"
 collection: research
 permalink: /research/popgen
 show_date: false
-excerpt: 'We use next-generation sequencing tools to distinguish between signatures of neutral and selective pressures. We are primarily interested in how spatially varying environments and selective pressures impact evolutionary processes. Most of the work to date has been done on the Gulf pipefish, but we are currently working on a broad range of organisms, including pipefish, penguins, and Phytophthora.'
+excerpt: 'We use a vareity of genetic tools to identify the primary evolutionary mechanisms impacting populations, including distinguishing between signatures of neutral and selective pressures. We are primarily interested in how spatially varying environments and selective pressures impact evolutionary processes. Most of the work to date has been done on the Gulf pipefish, but we are currently working on a broad range of organisms, including pipefish, penguins, and Phytophthora.'
 ---
 
-Genomic data can be used to identify patterns of selection from the background patterns caused by neutral evolutionary processes (genetic drift, mutation, and recombination). Our lab uses these tools to ask questions about the relative importance of different types of selection, the impacts of spatial variation in environments, and to compare patterns of differentiation at the genomic level to differentiation at the phenotypic level. Our work on the Gulf pipefish is building a compelling that will help elucidate how different selection pressures impact the Gulf pipefish genome, and whether patterns of adaptation and sexual selection are repeatable across populations. 
+Genomic data can be used to identify patterns of selection from the background patterns caused by other evolutionary processes (genetic drift, mutation, migration, recombination). Our lab uses these tools to ask questions about the relative importance of different types of selection, the impacts of spatial variation in environments, and to compare patterns of differentiation at the genomic level to differentiation at the phenotypic level. Our work on the Gulf pipefish is building a compelling that will help elucidate how different selection pressures impact the Gulf pipefish genome, and whether patterns of adaptation and sexual selection are repeatable across populations. 
 
-That being said, the general dynamics of local adaptation, population differentiation, and novel trait evolution are best understood if multiple evolutionary trajectories are compared. To that end, the lab is developing comparative population genomics and transcriptomics studies using other Syngnathid fishes.
+That being said, the general dynamics of local adaptation, population differentiation, and novel trait evolution are best understood if multiple evolutionary trajectories are compared. To that end, the lab is developing comparative population genomics and transcriptomics studies using other Syngnathid fishes. Specifically, we have an ongoing project investigating the population genetics of <i>Stigmatopora nigra</i> across New Zealand. 
+
 
 Also include penguins, 
 - white flippered penguins
@@ -19,11 +20,15 @@ phytopthora across strains and species,
 - effectome evolution
 - interactions with different hosts
 
-other pipefish (not just Gulf pipefish)
-- S. nigra across NZ and Australia
-- linking traits and genotypes
 
-Some relevant papers from the lab include:
+
+Some relevant papers and theses from the lab include:
+
+Howell LA, LaRue M, Flanagan SP (2021) Environmental DNA as a tool for monitoring Antarctic vertebrates. New Zealand Journal of Zoology. DOI: 10.1080/03014223.2021.1900299. <a href="https://doi.org/10.1080/03014223.2021.1900299" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://github.com/flanagan-lab/flanagan-lab.github.io/blob/master/pdfs/Howell%20et%20al%202021%20-%20environmental%20DNA%20as%20a%20monitoring%20tool.pdf" target="_blank" rel="noreferrer noopener" aria-label="PDF (opens in a new tab)" style="color: rgb(82, 173, 200)">PDF</a>, <a href="https://sarahpflanagan.wordpress.com/2021/06/23/edna-antarctica/" target="_blank" rel="noreferrer noopener" aria-label="my summary (opens in a new tab)" style="color: rgb(82, 173, 200)">my summary</a>
+
+ Flanagan SP, Rose E, Jones AG (2021) The population genomics of repeated freshwater colonizations by Gulf pipefish. Molecular Ecology. DOI: 10.1111/mec.15841 <a href="http://doi.org/10.1111/mec.15841" target="_blank" rel="noopener" style="color: rgb(82, 173, 200)">link to paper</a>, <a href="https://github.com/flanagan-lab/flanagan-lab.github.io/blob/master/pdfs/Flanagan%20et%20al%202021%20-%20fwsw%20ACCEPTED.pdf" target="_blank" rel="noreferrer noopener" aria-label="PDF (accepted version)" style="color: rgb(82, 173, 200)">PDF</a>
+
+Howell, L. 2021. Detecting Antarctic and New Zealand vertebrates using environmental DNA (eDNA). http://dx.doi.org/10.26021/10882. <a href="https://ir.canterbury.ac.nz/handle/10092/101828" target="_blank" rel="noopener noreferrer" style="color: rgb(82, 173, 200)">link</a>
 
 Jost L, Archer F, Flanagan SP, Gaggiotti O, Hoban S, Latch E. 2018. Differentiation measures for conservation genetics. Evolutionary Applications . 00:1-10. https://doi.org/10.1111/eva.12590. <a title="Jost_et_al-2018-Evolutionary_Applications" href="https://sarahpflanagan.files.wordpress.com/2018/02/jost_et_al-2018-evolutionary_applications.pdf" target="_blank" rel="noopener">pdf</a>, <a href="http://onlinelibrary.wiley.com/doi/10.1111/eva.12590/full" target="_blank" rel="noopener">link to paper</a>, <a href="https://sarahpflanagan.wordpress.com/2017/12/22/how-can-modern-genetic-tools-be-used-in-conservation-assessment-and-monitoring/" target="_blank" rel="noopener">my summary</a> 
 
