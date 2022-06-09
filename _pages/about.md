@@ -22,7 +22,7 @@ My research program focuses on relationships between individual behavioral strat
 
 More broadly, I am interested in how subsistence-based populations with limited market integration navigate increasing pressures from state-level influences and maintain or adapt long-standing components of their social, cultural, and economic livelihoods. My ultimate goals include developing more robust, generalizable theories of human behavior, social organization, and cultural change which are supported and tested through solid empirical foundations.
 
-[![alt text](/images/still2.001.jpeg)](https://www.youtube.com/watch?v=PKel6Dote6Y&ab_channel=ZachGarfield "IAST Research Fellow Introduction Video")
+[![alt text](/images/still2.001.jpeg)](https://www.youtube.com/watch?v=_5GMOjwTSAI&t=8s&ab_channel=IAST "IAST Research Fellow Introduction Video")
 
 
 Field research
