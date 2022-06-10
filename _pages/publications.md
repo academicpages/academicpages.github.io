@@ -18,7 +18,7 @@ author_profile: true
 **Journals**
  * <b>Semi-Supervised Medical Image Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
   <b>Xiangde Luo</b>, Guotai Wang, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Dimitris N. Metaxas, Shaoting Zhang <br>
-  <i>Medical Image Analysis<br>
+   <b>Medical Image Analysis</b>.<br>
   [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)]
     
  * <b>SCPM-Net: An Anchor-free 3D Lung Nodule Detection Network using Sphere Representation and Center Points Matching</b> <br> 
