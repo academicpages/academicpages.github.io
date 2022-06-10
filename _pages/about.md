@@ -17,7 +17,7 @@ The Flanagan Lab in the School of Biological Sciences at the University of Cante
 
 June 2022: Sarah was spoke about the group's research (especially the research on kororā, the little blue penguins) on Radio New Zealand's Nights with Bryan Crump. [You can listen to the segment as a podcast if you missed it live!](https://www.rnz.co.nz/national/programmes/nights/audio/2018845123/native-species-and-climate-change)
 
-June 2022: Lucy Howell won the Best Poster Award at the New Zealand Birds Conference. Congratulations Lucy!
+June 2022: Lucy Howell won the Best Poster Award at the New Zealand Birds Conference! You can view her poster [here](https://github.com/flanagan-lab/flanagan-lab.github.io/blob/493e683b96bfc95c83592f1f9d74d0c6e4cb9db0/pdfs/LHowell_OSNZ_poster(1).pdf).
 
 June 2022: Didi Daley has joined the lab to start a MSc on the population genetics of wide-bodied pipefish!
 
