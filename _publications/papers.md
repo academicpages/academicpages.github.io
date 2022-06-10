@@ -12,10 +12,11 @@ author_profile: true
 
 ### Under Submission
 * [Investigating the Locality of Neural Network Training Dynamics](https://arxiv.org/pdf/2111.01166.pdf) <br/> **Soham Dan\***, Phanideep Gampa and Anirbit Mukherjee\*. 
-* [Understanding Robust Generalization in Learning Regular Languages](https://arxiv.org/pdf/2202.09717.pdf) <br/> **Soham Dan**, Osbert Bastani and Dan Roth
+
 
 
 ### 2022
+* [Understanding Robust Generalization in Learning Regular Languages](https://arxiv.org/pdf/2202.09717.pdf) <br/> **Soham Dan**, Osbert Bastani and Dan Roth. **ICML** 2022
 * [Cross-modal Map Learning for Vision and Language Navigation](https://arxiv.org/pdf/2203.05137v1.pdf) <br/> Georgios Georgakis, Karl Schmeckpeper, Karan Wanchoo, **Soham Dan**, Eleni Miltsakaki, Dan Roth, and Kostas Daniilidis. **CVPR** 2022
 
 ### 2021
