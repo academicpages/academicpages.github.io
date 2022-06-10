@@ -9,8 +9,11 @@ main:
   - title: "Industry & Services"
     url: /services/    
   
-  - title: "Contact"
-    url: /contact/    
+  - title: "CV"
+    url: /files/yueyangzhong_cv.pdf    
+  
+  #- title: "Contact"
+  #  url: /contact/    
     
   #- title: "Talks"
   #  url: /talks/    
