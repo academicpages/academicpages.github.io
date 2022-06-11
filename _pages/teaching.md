@@ -9,7 +9,7 @@ author_profile: true
 
 > Seminar on Causal Inference    
     - <sub>Spring 2022 [Syllabus](http://henriqueveras.github.io/files/Syllabus-ECO500-Spring_2022.pdf)  
-    - Fall 2021
+    - Fall 2021 [Syllabus](http://henriqueveras.github.io/files/Syllabus-ECO500-Fall_2021.pdf)
 
 > Microeconomic Theory    
     - <sub>Spring 2022 [Syllabus](http://henriqueveras.github.io/files/ECO 220 Spring 2022 Syllabus.pdf)  
