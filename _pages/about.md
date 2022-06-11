@@ -15,6 +15,9 @@ I'm a PhD student in the research groups of both Professor David Scanlon at Univ
 
 
 ### Recent Highlights
+We were humbled to be featured in the Irish Times newspaper! 😊 🇮🇪 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Look 👀 Irish scientists in the UK featured in the <a href="https://twitter.com/IrishTimes?ref_src=twsrc%5Etfw">@IrishTimes</a> today! Proud day for <a href="https://twitter.com/UCLChemistry?ref_src=twsrc%5Etfw">@UCLChemistry</a> <a href="https://twitter.com/ImpMaterials?ref_src=twsrc%5Etfw">@ImpMaterials</a> And of course all 3 are <a href="https://twitter.com/TCD_Chemistry?ref_src=twsrc%5Etfw">@TCD_Chemistry</a> alums!<a href="https://t.co/6zo2Lp5GpG">https://t.co/6zo2Lp5GpG</a></p>&mdash; Gemma-Louise Davies (she/her) (@GemmaLouDavies) <a href="https://twitter.com/GemmaLouDavies/status/1534970336088838153?ref_src=twsrc%5Etfw">June 9, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 I was delighted to be awarded a Silver Graduate Student Award at the MRS Spring 2022 conference in Hawaii 🎉 🏝
 
 
