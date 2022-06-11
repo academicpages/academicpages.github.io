@@ -21,6 +21,10 @@ If you need CSS-related talks or workshops, please feel free to contact me direc
 
 [Click Here to See Data Visualization on Segregation for the AJS Article](https://yongjunzhang.shinyapps.io/schsegapp/).
 
+## Summer CSS Workshop
+
+I am teaching intro to css for NYU Shanghai this July. Check here for [a tentative syllabus](https://yongjunzhang.com/files/CSS_Intro_NYU_Shanghai_Syllabus.pdf). 
+
 ## Call for Papers
 
 I am co-editing an anual series on cohabitation and the evolving nature of intimate and family relationships with Dr. Sampson Blair for Contemporary Perspectives in Family Research. The deadline for initial submissions is September 30, 2022. [Please click here for more details.](https://yongjunzhang.com/files/CPFR-2022-Cohabitation-Call-for-Papers.pdf)
