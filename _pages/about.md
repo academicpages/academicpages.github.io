@@ -28,7 +28,5 @@ This paper has been **ACCEPTED** by ISBI 2022 on January 7, 2022 for presentatio
 [A WeChat Mini Program for Color Blinded People Cooperated with Tencent](https://github.com/CindyChow123/Multimedia_project_2021_spring)  
 [Code Contribution for the Open Source Project JsonPath](https://github.com/json-path/JsonPath/pull/694)  
 [Game Platform Website](https://github.com/CindyChow123/GameCenter_2020_fall_ooad)   
-To be released 👩‍💻:   
-Defocus Image Deblur Reading List
 ## Blogs
 [Remote Patient Monitoring Systems](https://cindychow123.github.io/posts/2022/01/rpm/)
