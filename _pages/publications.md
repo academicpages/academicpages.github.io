@@ -5,7 +5,7 @@ author_profile: true
 ---
 **Tech reports**  
  * <b> Deep learning-based accurate and robust delineation of primary gross tumor volumes of nasopharyngeal carcinoma on heterogeneous magnetic resonance imaging: a largescale and multi-center study</b> <br> 
- <b>Xiangde Luo</b>, Wenjun Liao, Yuan He, Fan Tang, Mengwan Wu, Yuanyuan Shen, Hui Huang, Tao Song, Kang Li, Shaoting Zhao, Guotai Wang
+ <b>Xiangde Luo</b>, Wenjun Liao, Yuan He, Fan Tang, Mengwan Wu, Yuanyuan Shen, Hui Huang, Tao Song, Kang Li, Shaoting Zhao, Guotai Wang<br> 
  <i>Submitted to International Journal of Radiation Oncology • Biology • Physics (Under Review) <br>
   [[paper]()][[code](https://github.com/Luoxd1996/RobustNPC)]
 
