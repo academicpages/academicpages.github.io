@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Southern University of Science and Technology, 2018 to present
+* B.S. in Southern University of Science and Technology, 2018 to 2022
 
 Work experience
 ======
@@ -22,7 +22,7 @@ Work experience
   Depth Estimation for Ophthalmic Surgeries (Jan 2021-May 2021)   
   Image Fusion for Multi-focus Surgical images co-supervised by Professor [Lihui Wang](https://dip-labs.com/team/wanglihui/en/) (June 2021-Dec 2021)   
   Surgical Workflow Recognition co-supervised by Professor [CHUI Chee Kong from NUS](https://blog.nus.edu.sg/mpecck/) (Dec 2021-Feb 2022)   
-  Single Image Defocus Deblurring (Feb 2022-Present) 👩‍💻   
+  Single Image Defocus Deblurring (Feb 2022-June 2022) 👩‍💻   
   * Supervisor: [Jiang Liu](https://www.sustech.edu.cn/zh/faculties/liujiang.html)
 
 * Software Engineer (Nov 2021-Feb 2022)
