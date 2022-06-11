@@ -8,10 +8,12 @@ author_profile: true
 ### Centre College
 
 > Seminar on Causal Inference    
-    - <sub>Fall 2021 [Syllabus](http://henriqueveras.github.io/files/Syllabus-ECO500-Fall_2021.pdf)
+    - <sub>Spring 2022 [Syllabus](http://henriqueveras.github.io/files/Syllabus-ECO500-Spring_2022.pdf)
+    - <sub>Fall 2021
 
 > Microeconomic Theory    
-    - <sub>Fall 2021 [Syllabus](http://henriqueveras.github.io/files/ECO 220 Fall 2021 Syllabus.pdf)
+    - <sub>Spring 2022 [Syllabus](http://henriqueveras.github.io/files/ECO 220 Spring 2022 Syllabus.pdf)
+    - <sub>Fall 2021
 
 ### Obelin College
 
