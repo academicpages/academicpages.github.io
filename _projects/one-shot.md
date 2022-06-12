@@ -14,5 +14,5 @@ collection: projects
 </div>
 
 new Dics({
-    container: document.querySelector('.b-dics')
+    container: one-shot.querySelector('.b-dics')
 });
