@@ -1,5 +1,5 @@
 ---
-title: "Black-grass Detection with Deep Neural Networks"
+title: "One-shot Photo Retouching"
 collection: projects
 ---
 
