@@ -14,10 +14,5 @@ collection: projects
 </div>
 
 new Dics({
-    container: document.querySelectorAll('.b-dics'),
-    linesOrientation: 'vertical',
-    textPosition: 'left',
-    arrayBackgroundColorText: ['#000000', '#FFFFFF'],
-    arrayColorText: ['#FFFFFF', '#000000'],
-    linesColor: 'rgb(0,0,0)'
+    container: document.querySelector('.b-dics')
 });
