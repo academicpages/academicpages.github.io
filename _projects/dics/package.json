@@ -1,0 +1,19 @@
+{
+  "name": "dics",
+  "version": "2.6.1",
+  "description": "Compare multiples images easily with this light Vanilla Javascript library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abelcabezaroman/definitive-image-comparison-slider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abelcabezaroman/definitive-image-comparison-slider/issues"
+  },
+  "homepage": "https://github.com/abelcabezaroman/definitive-image-comparison-slider#readme"
+}
