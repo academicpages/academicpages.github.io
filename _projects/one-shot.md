@@ -1,3 +1,8 @@
+---
+title: "Black-grass Detection with Deep Neural Networks"
+collection: projects
+---
+
 <link rel="stylesheet" href="dics.css">
 <script src="dics.js"></script>
 
