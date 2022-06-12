@@ -1,5 +1,7 @@
+<script src="https://unpkg.com/ptx-image-comparison@2.0.0/dist/ptx-image-comparison.js"></script>
 ---
 title: "One-shot Photo Retouching"
 collection: projects
 ---
+
 <ptx-image-comparison original="/images/17926.png" modified="/images/17926.png" divider-color="#000"></ptx-image-comparison>
