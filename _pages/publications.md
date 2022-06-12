@@ -38,7 +38,7 @@ author_profile: true
 **Conferences**
 * <b>Scribble-Supervised Medical Image Segmentation via Dual-Branch Network and Dynamically Mixed Pseudo Labels Supervision</b> <br> 
   <b>Xiangde Luo</b>, Minhao Hu, Wenjun Liao, Shuwei Zhai, Tao Song, Guotai Wang, Shaoting Zhang<br>
-  <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2022 (provisionally accepted, top 13% in 1825 submissions)</b>.<br>
+  <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2022 (early accepted, top 13% in 1825 submissions)</b>.<br>
  [[paper](https://arxiv.org/abs/2203.02106)][[code](https://github.com/HiLab-git/WSL4MIS)]
     
 * <b>Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer</b> <br> 
