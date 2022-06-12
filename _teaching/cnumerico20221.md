@@ -1,5 +1,5 @@
 ---
-title: "Cálculo Numérico"
+title: "Cálculo Numérico - DCETXXXX"
 collection: teaching
 type: "Curso de Matemática"
 permalink: /teaching/cnumerico20221
