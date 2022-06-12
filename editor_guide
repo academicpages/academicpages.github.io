@@ -1,4 +1,4 @@
-Guide： https://archive.is/3TPas#selection-3065.0-3065.11
+Official Guide： https://archive.is/3TPas#selection-3065.0-3065.11
 
 _config.yml
     # Site Settings
@@ -18,3 +18,6 @@ _data/navigation.yml
     
 _pages/about.md
     The main page (include name, about me, NEWS, publiction).
+    
+_includes/footer.html
+    This files incloud the foot line in main page.(powered by.........)
