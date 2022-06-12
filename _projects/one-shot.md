@@ -1,3 +1,8 @@
+---
+title: "Black-grass Detection with Deep Neural Networks"
+collection: projects
+---
+
 <script
   defer
   src="https://unpkg.com/img-comparison-slider@7/dist/index.js"
