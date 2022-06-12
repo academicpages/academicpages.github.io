@@ -3,16 +3,4 @@ title: "Black-grass Detection with Deep Neural Networks"
 collection: projects
 ---
 
-<script
-  defer
-  src="https://unpkg.com/img-comparison-slider@7/dist/index.js"
-></script>
-<link
-  rel="stylesheet"
-  href="https://unpkg.com/img-comparison-slider@7/dist/styles.css"
-/>
-
-<img-comparison-slider>
-  <img slot="first" src="images/17926.png" />
-  <img slot="second" src="images/17926.png" />
-</img-comparison-slider>
+<div style="position: relative; display:flex; flex-direction: column; height:530px; max-width:500px;"> <div style="text-align: center; height: 30px; align-self: center"> <span>created with </span><a style="text-decoration: none; color: black;" href="https://www.instarestoration.com/slider">InstaSlider</a> </div> <iframe style="position: relative" width="100%" height="100%" src="https://www.instarestoration.com/slider/embed/5afa1542-edf3-485b-b23b-51e94a646217?=background=white" frameborder="0" allow="accelerometer" allowfullscreen></iframe> </div>
