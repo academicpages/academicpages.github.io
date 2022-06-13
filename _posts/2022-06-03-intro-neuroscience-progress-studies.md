@@ -55,12 +55,15 @@ As a starting point, the questions I'd like to ask concerning all these levels a
 1. What's the necessary _quality_ (resolution, error rate etc.) and _quantity_ (gigabytes, number of graph edges...) of data needed to "solve" the problem - i.e. create a quantitative model that, as part of a whole-brain emulation, would be accurate enough to reproduce human intelligence? How sure are we about these?
 2. To what extent could data of lower quality and quantity be helpful? (e.g. using fMRI to determine brain areas involved in certain abilities, even though their resolution is far lower than a neuron-level recording)
 3. What experimental and computational data-gathering methods exist? How fast - and predictably - did and do they improve, in particular in terms of performance per USD? Can we draw a nice Moore's law-like graph showing exponentially declining costs per unit of information?
-4. What is the reason for that progress, i.e. what changed in the wider world of engineering that allowed the introduction of new methods? What are obstacles to further progress?
-5. How many people-hours and USD per year are devoted to the field? As in 3., how did that develop historically and how is it projected to develop?
-6. How much compute is expected to be necessary in a simulation as in 1.? How much is expected to be an artefact of the biological substrate, as opposed to being "essential for intelligence"?
-7. Further remarks or complications?
+4. What is the reason for that progress, i.e. what changed in the wider world of engineering that allowed the introduction of new methods? What are possibilities of and obstacles to further progress?
+5. Probability estimates for certain kinds of advances as in 4.?
+6. How many people-hours and USD per year are devoted to the field? As in 3., how did that develop historically and how is it projected to develop?
+7. How much compute is expected to be necessary in a simulation as in 1.? How much is expected to be an artefact of the biological substrate, as opposed to being "essential for intelligence"?
+8. Further remarks or complications?
 
-Just like Moore's law allowed to predict developments in IT decades in advance, similar laws concerning the items of the enumeration above may allow predictions when, and how, humanity meets those subjects' grand challenges.[^27] It is not likely that deriving these kinds of laws works smoothly, however - see the next section.
+Just like Moore's law allowed to predict developments in IT decades in advance, similar laws concerning the items of the enumeration above may allow predictions when, and how, humanity meets those subjects' grand challenges.[^27] Answers to question 4 could be turned into a "tech tree"/"tech directed acyclic graph" similar to what's on the last page of [this report on longevity research](https://foresight.org/wp-content/uploads/2021/10/Longevity-Technology.pdf). A [guesstimate](https://www.getguesstimate.com/) is a natural way to combine probability estimates.
+
+It is not likely that deriving these kinds of laws works smoothly, however - see the next section.
 ## 4. Problems
 > "All models are wrong, but some are useful" - George Box
 - Progress is often discontinuous, and come in unexpected ways that don't appear in such extrapolations. Part of the question is therefore to what extent these "laws" could be observed in the past, and how plausible it is that they extend into the future.
