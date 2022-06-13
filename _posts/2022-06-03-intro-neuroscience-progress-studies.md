@@ -69,7 +69,7 @@ Just like Moore's law allowed to predict developments in IT decades in advance, 
 
 So the output could never be as clean as the solution of a math exercise. But as in the quote above, a problem having no complete solution doesn't in principle imply that working on it is useless. I think _some_ reference that summarizes relevant information, _and makes its own limitations clear,_ is feasible.
 ## 4. The desired end-state, and how I'd like to get there
-Going back to the goal stated in section 1, I'd expect a fact-sheet of about 1.5 A4 page per item in section 2 - excluding item 10, which is too open-ended.
+Going back to the goal stated in section 1, I'd expect a fact-sheet of about 1.5 A4 page per item in section 2 - excluding item 10, which is too open-ended. As mentioned, making its own limitations clear should be a crucial part of both.
 
 I estimate that one can get there based on interviews with about 2-3 experts per item in section 2, plus preparing and following up by a literature review.
 
