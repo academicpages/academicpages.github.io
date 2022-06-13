@@ -30,7 +30,9 @@ Teaching
 
 * 2020-2022: KU Leuven
   * M2 Lectures: Neural Machine Translation ; Web search
-  * Theses supervisions: 6 bachelors students, 5 M2 students
+  * Theses supervisions:
+      * BSc students (Robbe Raymaekers, Wout Vossen, Wout Opsommer, Ruben Van Laer)
+      * MSc students (Ellen Schellekens,Emiel Coppieters, Tom Fierens, Maciej Leoniak)
 
 * 2019: University of Toulouse
   * Introduction to computer science
