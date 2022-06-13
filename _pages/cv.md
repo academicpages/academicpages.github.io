@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -14,6 +14,7 @@ Education
 * MSc. (Ingénieur) in Ecole Centrale Paris, 2015
 * MSc Universite de Paris IV-Sorbonne, 2016
 * Ph.D in Computer Science, University of Toulouse, 2020
+* CNU associate professor qualification, 2021
 
 Industry experience
 ======
