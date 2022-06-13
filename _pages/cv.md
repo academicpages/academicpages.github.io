@@ -11,10 +11,10 @@ redirect_from:
 
 Education and qualifications
 ======
-* MSc (Ingénieur) in Ecole Centrale Paris, 2015
-* MSc (Machine learning) Sorbonne Université - Paris VI, 2016
-* Ph.D in Computer Science, University of Toulouse, 2020
-* CNU associate professor qualification, 2021
+* 2015 MSc (Ingénieur) in Ecole Centrale Paris
+* 2016 MSc (Machine learning) Sorbonne Université - Paris VI
+* 2020 Ph.D in Computer Science, University of Toulouse
+* 2021 CNU associate professor qualification
 
 Industry experience
 ======
