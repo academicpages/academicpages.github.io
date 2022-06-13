@@ -20,10 +20,10 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
     Ruiqi Li, Liesbeth Allein, <b>Damien Sileo</b>, Marie-Francine Moens<br> 
     <i>Trends in Linguistics Studies and Monographs 2022</i><br></li>
 <li><b> <a href="https://arxiv.org/abs/2112.02721">NL-Augmenter: A Framework for Task-Sensitive Natural Language Augmentation, section B.33</a></b> <br> 
-    Kaustubh Dhole, <b>Damien Sileo</b>)<br> 
+    Kaustubh Dhole, <b>Damien Sileo</b><br> 
     <i>NAACL2022 Submission</i><br></li>
 <li><b> <a href="https://arxiv.org/abs/2206.04615">Beyond the Imitation Game: Quantifying and extrapolating the capabilities of language models</a></b> <br> 
-    Sohl-Dickstein, <b>Damien Sileo</b> et al.<br> 
+    Sohl-Dickstein, <b>Damien Sileo</b> et al. (large collaboration)<br> 
     <i>JMLR2022 submission</i><br></li>
 <li><b> <a href="https://static.sched.com/hosted_files/2021noaaaiworkshop/32/2021-09-14_3A_Sileo_NOAA-AI-Workshop.pdf">  Unsupervised pre-training of neural networks on satellite imagery improves food insecurity forecasting </a></b> <br> 
     <b>Damien Sileo</b>,  Wout Opsommer, Ruben Van Laer, Ruben Cartuyvels<br> 
