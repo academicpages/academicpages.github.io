@@ -30,7 +30,7 @@ Plano de Curso
 ======
 Disponível no sistema SAGRES.
 
-Julia
+Softwares para Download
 ======
 [Página do Julia (Download, documentação e tutoriais)](https://julialang.org/)
 [Visual Studio Code (Editor de texto)](https://code.visualstudio.com/)
