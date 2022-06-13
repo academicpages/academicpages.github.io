@@ -14,7 +14,7 @@
     <meta property="og:image:height" content="630">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://faziletgokbudak.github.io/one-shot">
-    <meta property="og:title" content="Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields">
+    <meta property="og:title" content="Patch-adaptive Transformation Blending for One-shot Photo Retouching">
     <meta property="og:description" content="Neural Radiance Fields (NeRF) is a popular view synthesis technique that represents a scene as a continuous volumetric function, parameterized by multilayer perceptrons that provide the volume density and view-dependent emitted radiance at each location. While NeRF-based techniques excel at representing fine geometric structures with smoothly varying view-dependent appearance, they often fail to accurately capture and reproduce the appearance of glossy surfaces. We address this limitation by introducing Ref-NeRF, which replaces NeRF's parameterization of view-dependent outgoing radiance with a representation of reflected radiance and structures this function using a collection of spatially-varying scene properties. We show that together with a regularizer on normal vectors, our model significantly improves the realism and accuracy of specular reflections. Furthermore, we show that our model's internal representation of outgoing radiance is interpretable and useful for scene editing.">
 
     <meta name="twitter:card" content="summary_large_image">
@@ -42,7 +42,7 @@
     <div class="container" id="header" style="text-align: center; margin: auto;">
         <div class="row" id="title-row" style="max-width: 100%; margin: 0 auto; display: inline-block">
             <h2 class="col-md-12 text-center" id="title">
-                <b>Ref-NeRF</b>: Patch-adaptive Transformation Blending <br> for One-shot Photo Retouching <br>
+                Patch-adaptive Transformation Blending <br> for One-shot Photo Retouching <br>
             </h2>
         </div>
     </div>
@@ -64,6 +64,12 @@
         <img-comparison-slider>
           <img slot="first" src="img/left_ex1_c.png" width="400" height="400" />
           <img slot="second" src="img/right_ex1_c.png" width="400" height="400" />
+        </img-comparison-slider>
+	 
+	
+        <img-comparison-slider>
+          <img slot="first" src="img/left_ex2_c.png" width="400" height="400" />
+          <img slot="second" src="img/right_ex2_c.png" width="400" height="400" />
         </img-comparison-slider>
 	 
 
