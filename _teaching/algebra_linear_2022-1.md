@@ -1,5 +1,5 @@
 ---
-title: "Álgebra Linear - DCETXXXX"
+title: "Álgebra Linear - DCET0728"
 collection: teaching
 type: "Curso de Engenharia Florestal"
 permalink: /teaching/alinear20221
@@ -12,7 +12,7 @@ Semestre 2022.1
 
 Ementa
 ======
-
+Matrizes e Sistemas de Equações Lineares. Espaço Vetorial, Subespaços, Bases e Dimensão. Aplicações Lineares e Matrizes. 
 
 Avaliação
 ======
