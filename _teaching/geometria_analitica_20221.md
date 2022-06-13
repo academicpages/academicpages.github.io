@@ -20,7 +20,9 @@ Serão consideradas para a avaliação uma prova escrita para cada uma das três
 
 Bibliografia
 ======
-1. xxxx
+1. Camargo, I. de, Boulos, P., Geometria Analítica: um tratamento vetorial, 3a Edição, Pearson, 2005.
+1. Lima, E. L., Geometria Analítica e Álgebra Linear, Coleção Matemática Universitária, IMPA, 2010.
+1. Santos, N. M dos, Vetores e Matrizes, Elementos de Matemática, IMPA, 1972.
 
 Plano de Curso
 ======
