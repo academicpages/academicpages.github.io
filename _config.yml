@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Damien Sileo"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Leuven"
+  location         : "Leuven (Flemish Belgium)"
   employer         : "KU Leuven"
   googlescholar    : "https://scholar.google.com/citations?user=SIJPeoYAAAAJ&hl=en"
   email            : "damien.sileo@kuleuven.be"
