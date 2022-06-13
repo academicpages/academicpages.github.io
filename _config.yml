@@ -82,7 +82,6 @@ analytics:
 author:
   name             : "Romain Fillon"
   avatar           : "https://github.com/RomainFillon/RomainFillon.github.io/images/profile.png"
-#  avatar           : <img src="./images/profile.png" alt="lasagna">
   bio              : "PhD candidate in Economics"
   location         : "Paris-Saclay (CIRED & PSAE)"
   employer         :
