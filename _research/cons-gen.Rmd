@@ -1,6 +1,6 @@
 ---
 title: "How is population decline influenced by evolutionary mechanisms?"
-excerpt: " The Flanagan Lab utilizes population genetics tools to improve our understanding of the genetic dynamics and factors that contribute to declining populations. The field of conservation genetics looks at the application of genetic/genomic data to inform and improve conservation efforts and the restoration of populations. Our lab is using a variety of molecular tools to investigate the evolutionary mechanisms impacting New Zealand populations of kororā, pipefish and vegetation impacted by dieback diesease "
+excerpt: " The Flanagan Lab utilizes population genetics tools to improve our understanding of the genetic dynamics and factors that contribute to declining populations. The field of conservation genetics looks at the application of genetic/genomic data to inform and improve conservation efforts and the restoration of populations. Our lab is using a variety of molecular tools to investigate the evolutionary mechanisms impacting New Zealand populations of kororā, pipefish and vegetation impacted by dieback disease "
 permalink: /research/cons-gen
 collection: research
 ---
