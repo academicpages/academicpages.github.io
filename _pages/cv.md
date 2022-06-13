@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* M.S. (Ingénieur) in Ecole Centrale Paris, 2015
-* M.S. Universite de Paris IV-Sorbonne, 2016
+* MSc. (Ingénieur) in Ecole Centrale Paris, 2015
+* MSc Universite de Paris IV-Sorbonne, 2016
 * Ph.D in Computer Science, University of Toulouse, 2020
 
 Industry experience
