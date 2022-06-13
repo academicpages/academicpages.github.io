@@ -26,21 +26,12 @@ Industry experience
   * Text recommendation, text classification
   
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+* 2010-2022: KU Leuven
+  * M2 Lectures: Neural Machine Translation ; Web search
+  * Theses supervisions: 6 bachelors students, 5 M2 students
+
+* 2019: University of Toulouse
+  * Introduction to computer science
