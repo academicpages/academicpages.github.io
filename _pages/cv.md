@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. (Ingénieur) in Ecole Centrale Paris, 2015
+* M.S. Universite de Paris IV-Sorbonne, 2016
+* Ph.D in Computer Science, University of Toulouse, 2020
 
-Work experience
+Industry experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-2020: CIFRE PhD researcher
+  * Synapse Développement
+  * Consulting and implementation (NLP models and chatbots)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015: Data Scientist
+  * Short Edition
+  * Text recommendation, text classification
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -54,6 +44,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
