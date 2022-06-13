@@ -17,10 +17,10 @@ I am a PhD candidate in Economics at Paris-Saclay University within [CIRED](http
 I work on climate change and I am particularly interested in climate tipping points and social preferences under risk and uncertainty.
 
 
-Feel free to contact me!
+Feel free to contact me : rfillon@protonmail.com !
 
 
 
 Work in progress 
 + "Climate policy, ethics and the uncertain fate of the Amazon rainforest", with T. Gasser (IIASA), C. Guivarch (CIRED) & P. Ciais (LSCE, Paris-Saclay University).
-+ "Optimal climate policy under tipping risk and temporal risk aversion", with C. Guivarch (CIRED) & N. Taconet (PIK).
++ "Optimal climate policy under tipping risk and temporal risk aversion", with C. Guivarch (CIRED) & N. Taconet (PIK). Draft available upon request!
