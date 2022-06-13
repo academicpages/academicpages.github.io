@@ -27,7 +27,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
     <i>JMLR2022 submission</i><br></li>
 <li><b> <a href="https://static.sched.com/hosted_files/2021noaaaiworkshop/32/2021-09-14_3A_Sileo_NOAA-AI-Workshop.pdf">  Unsupervised pre-training of neural networks on satellite imagery improves food insecurity forecasting </a></b> <br> 
     <b>Damien Sileo</b>,  Wout Opsommer, Ruben Van Laer, Ruben Cartuyvels<br> 
-    <i>3rd NOAA workshop on Leveraging AI in Environmental Sciences, présentation textit{highlight}</i><br></li>
+    <i>3rd NOAA workshop on Leveraging AI in Environmental Sciences</i><br></li>
 <li><b> <a href="https://aclanthology.org/2021.lantern-1.2.pdf">Visual Grounding Strategies for Text-Only Natural Language Processing</a></b> <br> 
     <b>Damien Sileo</b><br> 
     <i>The Third Workshop Beyond Vision and LANguage: inTEgrating Real-world kNowledge</i><br></li>
