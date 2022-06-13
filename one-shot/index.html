@@ -13,7 +13,7 @@
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://dorverbin.github.io/refnerf">
+    <meta property="og:url" content="https://faziletgokbudak.github.io/one-shot">
     <meta property="og:title" content="Ref-NeRF: Structured View-Dependent Appearance for Neural Radiance Fields">
     <meta property="og:description" content="Neural Radiance Fields (NeRF) is a popular view synthesis technique that represents a scene as a continuous volumetric function, parameterized by multilayer perceptrons that provide the volume density and view-dependent emitted radiance at each location. While NeRF-based techniques excel at representing fine geometric structures with smoothly varying view-dependent appearance, they often fail to accurately capture and reproduce the appearance of glossy surfaces. We address this limitation by introducing Ref-NeRF, which replaces NeRF's parameterization of view-dependent outgoing radiance with a representation of reflected radiance and structures this function using a collection of spatially-varying scene properties. We show that together with a regularizer on normal vectors, our model significantly improves the realism and accuracy of specular reflections. Furthermore, we show that our model's internal representation of outgoing radiance is interpretable and useful for scene editing.">
 
@@ -42,94 +42,30 @@
     <div class="container" id="header" style="text-align: center; margin: auto;">
         <div class="row" id="title-row" style="max-width: 100%; margin: 0 auto; display: inline-block">
             <h2 class="col-md-12 text-center" id="title">
-                <b>Ref-NeRF</b>: Structured View-Dependent <br> Appearance for Neural Radiance Fields<br>
-                <small>
-                    CVPR 2022 (Oral Presentation)
-                </small>
+                <b>Ref-NeRF</b>: Patch-adaptive Transformation Blending <br> for One-shot Photo Retouching <br>
             </h2>
-        </div>
-        <div class="row" id="author-row" style="margin:0 auto;">
-            <div class="col-md-12 text-center" style="display: table; margin:0 auto">
-                <table class="author-table" id="author-table">
-                    <tr>
-                        <td>
-                            <a style="text-decoration:none" href="https://scholar.harvard.edu/dorverbin/home">
-                              Dor Verbin
-                            </a>
-                            <br>Harvard University<br>Google Research
-                        </td>
-                        <td>
-                            <a style="text-decoration:none" href="https://phogzone.com/">
-                              Peter Hedman
-                            </a>
-                            <br>Google Research
-                        </td>
-                        <td>
-                            <a style="text-decoration:none" href="http://bmild.github.io/">
-                             Ben Mildenhall
-                            </a>
-                            <br>Google Research
-                        </td>
-                    </tr>
-                    <tr>
-                        <td>
-                            <a style="text-decoration:none" href="http://www.eecs.harvard.edu/~zickler/Main/HomePage">
-                                Todd Zickler
-                            </a>
-                            <br>Harvard University
-                        </td>
-                        <td>
-                            <a style="text-decoration:none" href="https://jonbarron.info/">
-                              Jonathan T. Barron
-                            </a>
-                            <br>Google Research
-                        </td>
-                        <td>
-                            <a style="text-decoration:none" href="https://pratulsrinivasan.github.io/">
-                              Pratul P. Srinivasan
-                            </a>
-                            <br>Google Research
-                        </td>
-                    </tr>
-                </table>
-            </div>
         </div>
     </div>
     <script>
         document.getElementById('author-row').style.maxWidth = document.getElementById("title-row").clientWidth + 'px';
     </script>
     <div class="container" id="main">
-        <div class="row">
-                <div class="col-md-4 col-md-offset-4 text-center">
-                    <ul class="nav nav-pills nav-justified">
-                        <li>
-                            <a href="https://arxiv.org/abs/2112.03907">
-                            <img src="./img/paper_image.jpg" height="90px">
-                                <h4><strong>Paper</strong></h4>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://youtu.be/qrdRH9irAlk">
-                            <img src="./img/youtube_icon.png" height="90px">
-                                <h4><strong>Video</strong></h4>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-        </div>
 
 
+        <script
+          defer
+          src="https://unpkg.com/img-comparison-slider@7/dist/index.js"
+        ></script>
+        <link
+          rel="stylesheet"
+          href="https://unpkg.com/img-comparison-slider@7/dist/styles.css"
+        />
 
-        <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-                <div class="video-compare-container" id="materialsDiv">
-                    <video class="video" id="materials" loop playsinline autoPlay muted src="video/materials_circle_mipnerf_ours.mp4" onplay="resizeAndPlay(this)"></video>
-                    
-                    <canvas height=0 class="videoMerge" id="materialsMerge"></canvas>
-                </div>
-			</div>
-        </div>
-
+        <img-comparison-slider>
+          <img slot="first" src="/images/17926.png" width="400" height="500" />
+          <img slot="second" src="/images/PT_makeup2_test5_256_with_var.png" width="400" height="500" />
+        </img-comparison-slider>
+	 
 
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
@@ -137,7 +73,7 @@
                     Abstract
                 </h3>
                 <p class="text-justify">
-Neural Radiance Fields (NeRF) is a popular view synthesis technique that represents a scene as a continuous volumetric function, parameterized by multilayer perceptrons that provide the volume density and view-dependent emitted radiance at each location. While NeRF-based techniques excel at representing fine geometric structures with smoothly varying view-dependent appearance, they often fail to accurately capture and reproduce the appearance of glossy surfaces. We address this limitation by introducing Ref-NeRF, which replaces NeRF's parameterization of view-dependent outgoing radiance with a representation of reflected radiance and structures this function using a collection of spatially-varying scene properties. We show that together with a regularizer on normal vectors, our model significantly improves the realism and accuracy of specular reflections. Furthermore, we show that our model's internal representation of outgoing radiance is interpretable and useful for scene editing.
+Photographers often put considerable effort into generating high-quality retouched photos with elaborate details. Retouching edits comprise a series of global adjustments and more intricate local edits, e.g., with a brush or local filters. Such edits adjust particular features, such as brightness, contrast, or texture statistics, of specific regions with similar characteristics. Photo retouching is, in general, a difficult task for novice users as it requires expert knowledge and advanced tools. In this paper, we introduce a learning-based technique to automatically retouch details of an input image based on a single pair of before and after example images. Our technique can provide detailed retouches without manual effort or a large dataset by learning a different map per frequency level. By decomposing before and after images into different frequency levels based on multiscale image analysis, we achieve a higher expressive power of the model. To further increase the capacity of our model, we blend multiple trainable transformation matrices with corresponding weights defined by a multilayer perceptron (MLP) block. Previous work shows that instead of predicting an edited image directly from an input image, learning a transformation is, in general, more efficient and easier. Therefore, our technique learns transformation matrices and computes their weighted sum to define maps. Since the weights are patch-adaptive thanks to the. MLP block, our map representation becomes spatially varying, hence captures retouching edits even in complex details.                </p>
                 </p>
             </div>
         </div>
