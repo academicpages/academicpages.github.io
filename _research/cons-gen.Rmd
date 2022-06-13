@@ -7,26 +7,57 @@ collection: research
 
 
 Broad: what can cause pops to get smaller? eco-evo interactions: 
-genetic drift, 
-community ecology (food disappears), 
-phylogenetic constraints + slow mutation rate, 
-selection
-co-evolution (Phythopthora)
+-genetic drift, 
+-community ecology (food disappears), 
+-phylogenetic constraints + slow mutation rate, 
+-selection
+-co-evolution (Phythopthora)
+-Study species of interest!!
+-- penguins
+-- phythopthora
+-- pipefish
+We are interested in investigating what causes populations to decline. Variation between isolated populations is influenced by  a number of mechanisms that drive evolution; for example the availability of prey species, introduction of disease, inbreeding depression and intraspecific phenotypic variation 
 
-Use genetic tools to understand drivers of population decline.
-- eDNA to ID prey
-- genotyping individuals for inbreeding and Ne estimation
-- Nanopore MinION long-read sequencing of genomes and gene sequences 
+Paragraph two - potential genetic drift? 
+-Using pop gen to establish baselines/understand drivers of decline
+-Assess inbreeding/ heterozygosity?
+-genotyping individuals for inbreeding and Effective pop size (Ne) estimation
+-phylogenetic constraints + slow mutation rate
 - comparative genomics to characterize evolution of key gene sequences involved in evolutionary arms races
+- genotyping individuals for inbreeding and Ne estimation
+--Pipefish across NZ
+--WF penguin morphotype
+-Effective population size 
+--Penguins - Lucy
+--Blood as a byproduct of pit tagging, assessing non/less invasive methods for collecting pop gen data
+--WF morphotype is there a risk of it being lost/why has it remained
+--Looking at LBP/WF pair chicks
+-- Nanopore MinION long-read sequencing of genomes and gene sequences 
+-Pipes - Didi
+--Models to establish distribution?
+--Using genetic analysis to compare population structure between pops, gene flow between pops/ drift
+--comparing phenotypic vs genotypic data - selection pressures. 
 
-Study species of interest!!
-- penguins
-- phythopthora
-- pipefish
+Paragraph 3 - Eco-evo interactions
+-Causation/drivers behind evo mechanisms
+-Community ecology (food disappears)
+--Penguin diet - Lucy
+--eDNA to ID prey
+--Assessing baselines for diet so we can assess future drivers of pop decline specific to the Pohatu Kororā population (penguin pops vary a lot; limited NZ data)
+--Diet variation across breeding season, before, during, after etc. 
+--Faecal metabarcoding (short-term data)
+--Stable isotope analysis (longer-term data)
+--Involving communities/Mana Whenua in the whole process (remote MinION protocols)
+
+Understanding causations factors such as disease is important for conserving the species they affect. The flanagan lab is currently focused on diet and disease as agents of decline. In collaboration with Mana Whenua, Pohatu Penguins and the LaRue and ConSERT labs we are utilizing long-read nanopore sequencing to assess the diet of the Pohatu population of kororā as a potential driver of local population decline. Using non-invasive fecal and molt feather samples to develop a baseline understanding of local diet, this project aims to facilitate community engagement in genetic sampling of local populations. Collaboration with the Banks Peninsula community will be further supported through the development of remote sequencing using the portable MinION device (Oxford nanopore technologies). In addition to diet in kororā populations, the Flanagan lab is interested in the coevolution of invasive diseases, specifically Phytophthora, and the vegetation they impact. In collaboration with Claudia Meisrimler, we are looking at Phytophthora cinnamomi, which causes dieback non-discriminantly across endemic and economically important flora and is a close relative to P. agathidicida; the source of Kauri dieback. Improving our understanding of the P. cinnamoni genome and how it co-evolves with valuable vegetation will allow for better informed management and conservation programmes aimed at tackling dieback diseases.
+
 
 Photos!
+-Cute penguin chick pic or photo of showing sample (Wendy and her faeces)
+-Sophie Phytophthora photo coming soon (though not Phytophthora cinnamomi)
 
 
 Some relevant papers include:
 
 Howell LA, LaRue M, Flanagan SP (2021) Environmental DNA as a tool for monitoring Antarctic vertebrates. New Zealand Journal of Zoology. DOI: 10.1080/03014223.2021.1900299.
+Does Claudia have relevant papers? (Alex?)
