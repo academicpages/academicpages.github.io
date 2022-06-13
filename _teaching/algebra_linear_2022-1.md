@@ -38,9 +38,6 @@ Datas das Provas
 
 Listas de Exercícios 
 ======
-* 
+* Lista 01 
 
 
-Slides das Aulas
-======
-1. 
