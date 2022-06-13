@@ -9,6 +9,9 @@ author_profile: true
   - Ragon WISE (Women in STEM Empowerment)
   - [U.S. Association for Computational Mechanics-Female Research Group (USACM-FRG)](https://frgusacm.org/)
 
+- Conference Reviewer:
+  - [BMES 2022 Annual meeting](https://www.bmes.org/annualmeeting), Oct 12-15, San Antonio, TX
+  
 - Journal Reviewer:
 
   - [Journal of Computational Physics](https://www.journals.elsevier.com/journal-of-computational-physics)
