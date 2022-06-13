@@ -9,4 +9,5 @@ redirect_from:
 ---
 
 I am a natural language processing resesearcher.
-I am interested in transfer learning, interpretability, and general-purpose NLP systems. I particularly like applications of NLP systems for recommendations, clinical predictions and discourse.
+I am interested in transfer learning, and general-purpose NLP systems that are intepretable, data efficient and energy efficient.
+I particularly like applications of NLP systems for recommendations, clinical predictions and discourse.
