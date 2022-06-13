@@ -120,22 +120,36 @@ Photographers often put considerable effort into generating high-quality retouch
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
                 <h3>
-                    Patch-adaptive Transformation Blending
+                    Transformation Blending
                 </h3>
                 <div class="text-justify">
-                    We explicitly model object roughness using the expected values of a set of spherical harmonics under a von Mises-Fisher distribution whose concentration parameter varies spatially:
-                </div>
-                <br>
-                <div class="text-center">
-                    <img src="./img/ide.png" width="50%">
-                </div>
-                <br>
-                <div class="text-justify">
-                    We call this <i>Integrated Directional Encoding</i>, and we show experimentally that it allows sharing the emittance functions between points with different roughnesses. It also enables scene editing after training. Theoretically, our encoding is stationary on the sphere, similar to the Euclidean stationarity of NeRF's positional encoding. <br><br>
-                </div>
+<!-- 			<i>Integrated Directional Encoding</i> -->
+		    A novel learning-based image mapping technique in patch space designed to capture highly detailed retouching styles. Inspired by artistic retouching pipelines, our approach provides accurate representations of intricate details while preserving the semantics of the input image. With the help of prior knowledge about artistic retouching pipelines, our map representation can generalize well to new images with different structures.                </div>
             </div>
         </div>
-
+		
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    Patch-adaptive Weights:
+                </h3>
+                <div class="text-justify">
+		    to tune transformations according to patch values and hence to achieve local adjustments. These weights are learned by small MLP blocks to blend transformation matrices. Our approach helps us mimic local edit tools of professionals, such as a brush tool or local filters.                </div>
+            </div>
+        </div>
+		
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                   Results with Ground truth filters
+                </h3>
+                <div class="video-compare-container">
+                    <video class="video" id="musclecar" loop playsinline autoPlay muted src="video/musclecar_mipnerf_ours.mp4" onplay="resizeAndPlay(this)"></video>
+                    <canvas height=0 class="videoMerge" id="musclecarMerge"></canvas>
+                </div>
+			</div>
+        </div>
+		
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
                 <h3>
