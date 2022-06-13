@@ -17,12 +17,10 @@ Education
 
 Industry experience
 ======
-* 2017-2020: CIFRE PhD researcher
-  * Synapse Développement
-  * Consulting and implementation (NLP models and chatbots)
+* 2017-2020: CIFRE PhD researcher @ Synapse Développement
+  * Consulting and technological transfer (NLP models and chatbots)
 
-* 2015: Data Scientist
-  * Short Edition
+* 2015: Data Scientist @  Short Edition
   * Text recommendation, text classification
   
 
