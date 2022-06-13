@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=SIJPeoYAAAAJ&hl=en).
+
+
 <ol>
 <li><b>[Zero-Shot Recommendations as Language Modeling](https://arxiv.org/abs/2112.04184)</b> <br> 
     <u>Damien Sileo</u>, Wout Vossen, Robbe Raymaekers<br> 
