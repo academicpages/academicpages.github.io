@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Romain Fillon"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : rfillon@protonmail.com 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "https://twitter.com/rofillon"
   vine             :
   weibo            :
   xing             :
@@ -192,32 +192,32 @@ collections:
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+ # - scope:
+ #     path: ""
+ #     type: posts
+ #   values:
+ #     layout: single
+ #     author_profile: true
+ #     read_time: true
+ #     comments: true
+ #     share: true
+ #     related: true
   # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+ # - scope:
+ #     path: ""
+ #     type: pages
+ #   values:
+ #     layout: single
+ #     author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+ # - scope:
+ #     path: ""
+ #     type: teaching
+ #   values:
+ #     layout: single
+ #     author_profile: true
+ #     share: true
+ #     comments: true
   # _publications
   - scope:
       path: ""
@@ -227,15 +227,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+ # # _portfolio
+ # - scope:
+ #     path: ""
+ #     type: portfolio
+ #   values:
+ #     layout: single
+ #     author_profile: true
+ #     share: true
+ #     comment: true
   # _talks
   - scope:
       path: ""
