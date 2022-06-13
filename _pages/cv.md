@@ -57,6 +57,7 @@ Organizing committee for safe and effective re-opening of campus during the COVI
 
 # Honors and Awards
 ---
+* Certificate of Distinction in Teaching, Harvard University, 2022
 * Rose Fellowship, 2022  
 * ASA Biopharmaceutical Section Scholarship Award, 2022  
 * NSF New Researcher Award (American Causal Inference Conference), 2022  
