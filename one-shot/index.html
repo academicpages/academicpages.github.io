@@ -61,6 +61,37 @@
 	  href="https://unpkg.com/img-comparison-slider@7/dist/styles.css"
 	/>
 
+	
+	
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+
+                
+                <table width="100%">
+                    <tr>
+                        <td align="left" valign="top" width="50%">
+				<img-comparison-slider>
+				  <img slot="first" src="img/left_ex1_c.png" width="400" height="400" />
+				  <img slot="second" src="img/right_ex1_c.png" width="400" height="400" />
+				</img-comparison-slider>                                
+                                <canvas height=0 class="videoMerge" id="water2Merge"></canvas>
+                        </td>
+                        <td align="left" valign="top" width="50%">
+				<img-comparison-slider>
+				  <img slot="first" src="img/left_ex2_1_c.png" width="400" height="400" />
+				  <img slot="second" src="img/right_ex2_1_c.png" width="400" height="400" />
+				</img-comparison-slider>                                
+                                <canvas height=0 class="videoMerge" id="water3Merge"></canvas>
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+        </div>
+
+<!-- 	    
+	    
+	 
 	<img-comparison-slider>
 	  <img slot="first" src="img/left_ex1_c.png" width="400" height="400" />
 	  <img slot="second" src="img/right_ex1_c.png" width="400" height="400" />
@@ -71,7 +102,7 @@
 	  <img slot="first" src="img/left_ex2_1_c.png" width="400" height="400" />
 	  <img slot="second" src="img/right_ex2_1_c.png" width="400" height="400" />
 	</img-comparison-slider>
-	 
+	  -->
 
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
@@ -89,39 +120,7 @@ Photographers often put considerable effort into generating high-quality retouch
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
                 <h3>
-                    Video
-                </h3>
-                <div class="text-center">
-                    <div style="position:relative;padding-top:56.25%;">
-                        <iframe src="https://youtube.com/embed/qrdRH9irAlk" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;"></iframe>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-                <h3>
-                    Reflection Direction Parameterization
-                </h3>
-                <div class="text-justify">
-                    Previous approaches directly input the camera's view direction into the MLP to predict outgoing radiance. We show that instead using the reflection of the view direction about the normal makes the emittance function significantly easier to learn and interpolate, greatly improving our results.
-                    
-                    <br><br>
-                    
-                </div>
-                <div class="text-center">
-                    <video id="refdir" width="40%" playsinline autoplay loop muted>
-                        <source src="video/reflection_animation.mp4" type="video/mp4" />
-                    </video>
-                </div>
-            </div>
-        </div>
-
-        <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-                <h3>
-                    Integrated Directional Encoding
+                    Patch-adaptive Transformation Blending
                 </h3>
                 <div class="text-justify">
                     We explicitly model object roughness using the expected values of a set of spherical harmonics under a von Mises-Fisher distribution whose concentration parameter varies spatially:
@@ -134,76 +133,19 @@ Photographers often put considerable effort into generating high-quality retouch
                 <div class="text-justify">
                     We call this <i>Integrated Directional Encoding</i>, and we show experimentally that it allows sharing the emittance functions between points with different roughnesses. It also enables scene editing after training. Theoretically, our encoding is stationary on the sphere, similar to the Euclidean stationarity of NeRF's positional encoding. <br><br>
                 </div>
-                <div class="text-center">
-                    <video id="ide" width="100%" playsinline autoplay controls loop muted>
-                        <source src="video/ide_animation.mp4" type="video/mp4" />
-                    </video>
-                </div>
             </div>
         </div>
 
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
                 <h3>
-                    Additional Synthetic Results
+                    Additional Results
                 </h3>
                 <div class="video-compare-container">
                     <video class="video" id="musclecar" loop playsinline autoPlay muted src="video/musclecar_mipnerf_ours.mp4" onplay="resizeAndPlay(this)"></video>
                     <canvas height=0 class="videoMerge" id="musclecarMerge"></canvas>
                 </div>
 			</div>
-        </div>
-
-        <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-                <h3>
-                    Results on Captured Scenes
-                </h3>
-                Our method also produces accurate renderings and surface normals from captured photographs:
-                <div class="video-compare-container" style="width: 100%">
-                    <video class="video" id="toycar" loop playsinline autoPlay muted src="video/toycar.mp4" onplay="resizeAndPlay(this)"></video>
-                    <canvas height=0 class="videoMerge" id="toycarMerge"></canvas>
-                </div>
-			</div>
-        </div>
-
-        <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-                <h3>
-                    Scene Editing
-                </h3>
-                <div class="text-justify">
-                    We show that our structured representation of the directional MLP allows for scene editing after training. Here we show that we can convincingly change material properties.
-                    <br>
-                    We can increase and decrease material roughness:
-                </div>
-
-                <div style="overflow: hidden;">
-                    <video id="editing-materials" width="100%" playsinline autoplay loop muted style="margin-top: -5%;">
-                        <source src="video/materials_rougher_smoother.mp4" type="video/mp4" />
-                    </video>
-                </div>
-
-                <div class="text-justify">
-                    We can also control the amounts of specular and diffuse colors, or change the diffuse color without affecting the specular reflections:
-                </div>
-                
-                <table width="100%">
-                    <tr>
-                        <td align="left" valign="top" width="50%">
-                            <video id="v2" width="100%" playsinline autoplay loop muted>
-                                <source src="video/car_color2.mp4" type="video/mp4" />
-                            </video>
-                        </td>
-                        <td align="left" valign="top" width="50%">
-                            <video id="v3" width="100%" playsinline autoplay loop muted>
-                                <source src="video/car_color3.mp4" type="video/mp4" />
-                            </video>
-                        </td>
-                    </tr>
-                </table>
-
-            </div>
         </div>
 
             
@@ -214,31 +156,7 @@ Photographers often put considerable effort into generating high-quality retouch
                 </h3>
                 <div class="form-group col-md-10 col-md-offset-1">
                     <textarea id="bibtex" class="form-control" readonly>
-@article{verbin2021refnerf,
-    title={{Ref-NeRF}: Structured View-Dependent Appearance for
-           Neural Radiance Fields},
-    author={Dor Verbin and Peter Hedman and Ben Mildenhall and
-            Todd Zickler and Jonathan T. Barron and Pratul P. Srinivasan},
-    journal={CVPR},
-    year={2022}
-}</textarea>
-                </div>
-            </div>
-        </div>
 
-        <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-                <h3>
-                    Acknowledgements
-                </h3>
-                <p class="text-justify">
-                We would like to thank Lior Yariv and Kai Zhang for helping us evaluate their methods, and Ricardo Martin-Brualla for helpful comments on our text. DV is supported by the National Science Foundation under Cooperative Agreement PHY-2019786 (an NSF AI Institute, <a href="http://iaifi.org">http://iaifi.org</a>)
-                    <br>
-                The website template was borrowed from <a href="http://mgharbi.com/">Michaël Gharbi</a>.
-                </p>
-            </div>
-        </div>
-    </div>
 
 
 </body></html>
