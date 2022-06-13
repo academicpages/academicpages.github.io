@@ -27,7 +27,7 @@ Industry experience
 Teaching
 ======
 
-* 2010-2022: KU Leuven
+* 2020-2022: KU Leuven
   * M2 Lectures: Neural Machine Translation ; Web search
   * Theses supervisions: 6 bachelors students, 5 M2 students
 
