@@ -13,7 +13,7 @@ Education
 ======
 * M.S. Statistics, the University of Chicago, 2021 - 2023 (expected)
 * M.S. Finance, Yonsei University (not completed), 2020 - 2021
-* B.B.A. Business Administration, Yonsei University
+* B.B.A. Business Administration, Yonsei University, 2014 - 2020
 
 Working Papers
 ======
@@ -66,3 +66,5 @@ Teaching Experience
   * Teaching Assistant, Financial Management, Global MBA (Spring 2021)
   * Teaching Assistant, Financial Management, Undergraduate (Fall 2020)
   * Residential and Teaching Assistant, Residential College Self-Directed Activity, Undergraduate (Fall 2015, Spring 2015)
+
+[PDF Version](https://github.com/ericsclee/ericsclee.github.io/blob/master/files/CV%20(overleaf).pdf)
