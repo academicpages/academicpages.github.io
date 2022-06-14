@@ -4,7 +4,7 @@ excerpt: "<img src='/images/ISE_s22_group_picture.jpg'>"
 collection: portfolio
 ---
 ### Research Goal
-Why do countries talk about each other's human rights practices? What rhetorical strategies do they use to shame others? How does the definition of human rights differ across countries, and what are the implications to the rule-based international order? Accurately describing country-to-country verbal interaction is the first step to answering these questions.
+Why do countries talk about each other's human rights practices? What rhetorical strategies do they use to shame others? How does the definition of human rights differ across countries, and what are its implications to the rule-based international order? Accurately describing country-to-country verbal interaction is the first step to answering these questions.
 
 ## Team
 ### Current Members
@@ -21,7 +21,7 @@ Why do countries talk about each other's human rights practices? What rhetorical
 * [Measuring Human Rights Shaming Intensity as a Multifaceted Interval Variable](https://j1wonkim.github.io/research/)
 
 ## Funding
-This research has been supported by Emory University's undergraduate reserach credit course (POLS399R) and [Computational Social Science Datathon](https://sites.google.com/view/css-workshop-datathon).
+This research has been supported by undergraduate reserach credit course (POLS399R) and [Graduate Research Grant](http://polisci.emory.edu/home/graduate/graduate-research-grant.html) from Emory Political Science Department and [Computational Social Science Datathon](https://sites.google.com/view/css-workshop-datathon).
 
 ## Acknowledgements
 I thank [Prodigy](https://prodi.gy/) for providing academic license.
