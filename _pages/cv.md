@@ -36,7 +36,7 @@ Publications
 * ‘A Comparative Study of Transfer Listing from KONEX to KOSDAQ with Other Listing Channels,’ 2022, with Byoungmoon Joe, Hyun-Han Shin and Yun Kyung Kim, Journal of CEO and Management Studies, https://doi.org/10.37674/CEOMS.25.1.12 (in Korean)
 
 * ‘ESG Ratings and Corporate Investment: Evidence from an External Financial Shock Caused by COVID-19 in Korea,’ 2021, with Kyooyoung Kwak. (in Korean)
-  * (_2nd Prize Winner, Korea Corporate Governance Service Student Paper Competition_)
+  * _2nd Prize Winner, Korea Corporate Governance Service Student Paper Competition_
 
 Research Experience
 ======
