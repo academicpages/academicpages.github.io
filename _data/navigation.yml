@@ -2,9 +2,3 @@
 main:   
   - title: "CV"
     url: /cv/
- 
-  - title: "Coursework"
-    url: /coursework/
-  
-  - title: "Teaching"
-    url: /teaching/
