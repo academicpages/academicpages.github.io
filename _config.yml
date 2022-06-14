@@ -189,7 +189,7 @@ collections:
     permalink: /:collection/:path/
   coursework:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -254,6 +254,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      comments: true
 
 # Sass/SCSS
 sass:
