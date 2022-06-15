@@ -24,7 +24,7 @@ author_profile: true
 
 ## Peer-Reviewed  International  Conference 
 ### As primary author
-{% for post in site.pubs_conf_primary reversed %}
+{% for post in site.pubsconfprimary reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
