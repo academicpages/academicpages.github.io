@@ -11,12 +11,23 @@ author_profile: true
 
 {% include base_path %}
 
-## Primary
-{% for post in site.pubsprimary reversed %}
+## As primary author
+{% for post in site.pubs_primary reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-## Other
-{% for post in site.publications reversed %}
+## Co-authored
+{% for post in site.pubs_coauth reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+## Peer-Reviewed  International  Conference 
+### As primary author
+{% for post in site.pubs_conf_primary reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+### Co-authored
+{% for post in site.pubs_conf_coauth reversed %}
   {% include archive-single.html %}
 {% endfor %}
