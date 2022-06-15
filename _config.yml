@@ -183,9 +183,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  pubsprimary:
-    output: true
-    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -223,7 +220,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _pubs_journal_primary
   - scope:
       path: ""
       type: publications
@@ -232,7 +229,25 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _pubsprimary
+  # _pubs_journal_coauth
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _pubs_conf_primary
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _pubs_conf_coauth
   - scope:
       path: ""
       type: publications
