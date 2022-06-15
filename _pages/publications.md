@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 ## Primary
-{% for post in site.teaching reversed %}
+{% for post in site.pubsprimary reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
