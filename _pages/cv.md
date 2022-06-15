@@ -15,7 +15,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Cognitive Neuroscience, University of California Irvine (present)
+* Ph.D in Cognitive Neuroscience, University of California Irvine, 2022
 * M.S. in Cognitive Neuroscience, University of California Irvine, 2020
 * M.A. in Geography, University of California Santa Barbara, 2019
 * B.S. in Psychology, South China Normal University, 2014
@@ -93,6 +93,8 @@ Select Conference Presentations
 
 <br>
 <b><big>Poster Presentations</big></b>
+
+* <b>Cheng, Y. </b>, Chrastil, E.R., Krichmar, J.. A Recurrent Neural Network Model of Travel Direction in Humans, Interdisciplinary Navigation Symposium (iNAV), Virtual. June, 2022. [[news](/posts/2022/06/blog-post-1/)]
 
 * <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Travel Direction as a Fundamental Component of Human Navigation, Harvard Women in Psychology’s Annual Trends in Psychology Summit (TiPS), Virtual. Nov., 2021. [[news](/posts/2021/11/blog-post-3/)]
 

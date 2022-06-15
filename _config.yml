@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "You (Lilian) Cheng"
 title_separator          : "-"
 name                     : &name "You (Lilian) Cheng"
-description              : &description "Ph.D. Candidate in Cognitive Neuroscience at UC Irvine"
+description              : &description "Ph.D. in Cognitive Neuroscience at UC Irvine"
 url                      : https://lilianyou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Lilianyou/lilianyou.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "You (Lilian) Cheng"
   avatar           : "lily_uci.png"
-  bio              : "Ph.D. candidate in Cognitive Neuroscience at UC Irvine"
+  bio              : "Ph.D. in Cognitive Neuroscience at UC Irvine"
   location         : "Irvine, CA, USA"
   employer         : 
   pubmed           :
