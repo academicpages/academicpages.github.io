@@ -1,311 +1,1265 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-# Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
-
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
-
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
 
 
-# Analytics
-analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.3.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Xiao Lei · 雷骁">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Xiao Lei&#39;s Homepage">
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://leixiao32229.github.io/">
+
+  
 
 
-# Site Author
-author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+
+    
+
+  
+
+  
+  
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono">
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.min.3dc842f729ac47f55d8205f1e3af6e1f.css">
+
+  
+
+  
+  
+    <script>
+      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+      ga('create', 'UA-140693064-1', 'auto');
+      
+      ga('require', 'eventTracker');
+      ga('require', 'outboundLinkTracker');
+      ga('require', 'urlChangeTracker');
+      ga('send', 'pageview');
+    </script>
+    <script async src="//www.google-analytics.com/analytics.js"></script>
+    
+    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
+    
+  
+  
+
+  
+  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Xiao Lei">
+  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Xiao Lei">
+  
+
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="https://leixiao32229.github.io/">
+
+  
+  
+  
+  
+    
+    
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Xiao Lei">
+  <meta property="og:url" content="https://leixiao32229.github.io/">
+  <meta property="og:title" content="Xiao Lei">
+  <meta property="og:description" content="Xiao Lei&#39;s Homepage"><meta property="og:image" content="https://leixiao32229.github.io/img/icon-192.png">
+  <meta property="og:locale" content="en-us">
+  
+  <meta property="og:updated_time" content="2016-04-27T00:00:00&#43;00:00">
+  
+
+  
+
+  
+
+  <title>Xiao Lei</title>
+
+</head>
+<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71" >
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
 
 
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-  - files
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
-  - gulpfile.js
-  - log
-  - node_modules
-  - package.json
-  - tmp
-  - vendor
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Xiao Lei</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav ml-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about" data-target="#about">
+            
+            <span>Home</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#research" data-target="#research">
+            
+            <span>Research</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#Honor" data-target="#Honor">
+            
+            <span>Awards</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#miscellaneous" data-target="#miscellaneous">
+            
+            <span>Miscellaneous</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact" data-target="#contact">
+            
+            <span>Contact</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/files/Xiao_Lei_CV.pdf">
+            
+            <span>CV</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+      
+
+        
+
+        
+
+        
+
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
 
 
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
+
+<span class="js-widget-page d-none"></span>
 
 
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
 
 
-# Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  
 
 
-# Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
-# Outputting
-permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+    
+    
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  <section id="about" class="home-section wg-about   " style="padding: 30px 0 0px 0;">
+    <div class="container">
+      
 
 
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
 
 
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
+  
+
+
+
+
+
+
+
+
+
+<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email person-address">
+  <div class="col-12 col-lg-4">
+    <div id="profile">
+
+      
+      
+      <img class="portrait" src="/authors/admin/avatar_hu68d4175b9e0cd161699dd8acdb3702cf_54389_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+      
+
+      <div class="portrait-title">
+        <h2 itemprop="name">Xiao Lei · 雷骁</h2>
+        <h3 itemprop="jobTitle">PhD Candidate</h3>
+
+        
+        <h6 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
+          <a href="https://ieor.columbia.edu/" target="_blank" itemprop="url" rel="noopener">
+          <span itemprop="name">Columbia University, IEOR</span>
+          </a>
+        </h6>
+        
+      </div>
+
+      <link itemprop="url" href="">
+
+      <ul class="network-icon" aria-hidden="true">
+        
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a itemprop="sameAs" href="/files/Xiao_Lei_CV.pdf" >
+            <i class="ai ai-cv big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+        <li>
+          <a itemprop="sameAs" href="mailto:xl2625@columbia.edu" >
+            <i class="fas fa-envelope big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a itemprop="sameAs" href="https://scholar.google.com/citations?hl=en&amp;user=Td_8_L8AAAAJ" target="_blank" rel="noopener">
+            <i class="ai ai-google-scholar big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a itemprop="sameAs" href="https://www.linkedin.com/in/xiao-lei-b22781a2/" target="_blank" rel="noopener">
+            <i class="fab fa-linkedin big-icon"></i>
+          </a>
+        </li>
+        
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a itemprop="sameAs" href="https://www.instagram.com/xiaolei_columbia/" target="_blank" rel="noopener">
+            <i class="fab fa-instagram big-icon"></i>
+          </a>
+        </li>
+        
+      </ul>
+
+    </div>
+  </div>
+  <div class="col-12 col-lg-8" itemprop="description">
+
+    
+    <h1>Biography</h1>
+
+    <p>Welcome to my site! I am a fourth-year PhD student of Operations Research at Columbia University. I&rsquo;m fortunate to be advised by Prof. <a href="http://www.columbia.edu/~ae2516/" target="_blank">Adam Elmachtoub</a>. I&rsquo;m joining <a href="https://www.hkubs.hku.hk/" target="_blank">HKU Business School</a> as an assistant professor in the fall. My research spans two major themes:</p>
+
+<ol>
+<li>Operations management in emerging digital markets, with a current focus on video games.</li>
+<li>Promoting responsible operations in <em>profit-driven</em> businesses.</li>
+</ol>
+
+<p>In the summer of 2020, I worked as a data scientist intern at <a href="https://www.activisionblizzard.com/" target="_blank">Activision Blizzard</a>.</p>
+
+
+    <div class="row">
+
+      
+      <div class="col-md-5">
+        <h3>Interests</h3>
+        <ul class="ul-interests">
+          
+          <li>Revenue Management</li>
+          
+          <li>Customer Choice Modeling</li>
+          
+          <li>Prescriptive Business Analytics</li>
+          
+          <li>Service Operations Management</li>
+          
+        </ul>
+      </div>
+      
+
+      
+      <div class="col-md-7">
+        <h3>Education</h3>
+        <ul class="ul-edu fa-ul">
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">PhD in Operations Research, 2022 (expected)</p>
+              <p class="institution">Columbia University</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">MSc in Operations Research, 2018</p>
+              <p class="institution">Columbia University</p>
+            </div>
+          </li>
+          
+          <li>
+            <i class="fa-li fas fa-graduation-cap"></i>
+            <div class="description">
+              <p class="course">BSc in Financial Engineering, 2016</p>
+              <p class="institution">University of International Business and Economics</p>
+            </div>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+    </div>
+  </div>
+</div>
+
+    </div>
+  </section>
+  
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+    
+    
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  <section id="research" class="home-section wg-blank   " style="padding: 50px 0 50px 0;">
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-12 col-lg-4 section-heading">
+      <h1>Research</h1>
+      
+    </div>
+    <div class="col-12 col-lg-8">
+      <p><b><font size='5'>Working Papers:</font></b>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></p>
+
+<!--
+matchmaking
+-->
+
+<div class="view-list-item" itemscope itemtype="http://schema.org/{{$microdata_type}}">
+  <i class="far fa-file-alt" aria-hidden="true"></i>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3928966" itemprop="url"><span itemprop="name">Matchmaking Strategies for Maximizing Player Engagement in Video Games</span></a><a ><span itemprop="name">, major revision at<i><b> Operations Research</b></i></span></a>
+<div class="article-metadata" itemprop="author">
+    with Mingliu Chen and Adam Elmachtoub.
+</div>
+  <font size="3">
+&bull; Accepted to The 23th ACM Conference on Economics and Computation (EC), 2022
+</div>
+
+<!--
+incentives 
+-->
+
+<div class="view-list-item" itemscope itemtype="http://schema.org/{{$microdata_type}}">
+  <i class="far fa-file-alt" aria-hidden="true"></i>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3709486" itemprop="url"><span itemprop="name">Herding, Learning and Incentives for Online Reviews.</span></a><a ><span itemprop="name">
+<div class="article-metadata" itemprop="author">
+    with Rajeev Kohli and Yeqing Zhou.
+  </div>
+</div>
+
+<p><br></p>
+
+<!--
+publication
+-->
+
+<p><b><font size='5'>Publications:</font></b>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></p>
+
+<!--
+publication
+-->
+
+<!--
+Fairness   
+-->
+
+<div class="view-list-item" itemscope itemtype="http://schema.org/{{$microdata_type}}">
+  <i class="far fa-file-alt" aria-hidden="true"></i>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3459289" itemprop="url"><span itemprop="name">Price Discrimination with Fairness Constraints</span></a><a ><span itemprop="name">, <i><b> Management Science</b>, forthcoming.</i></span></a>
+<div class="article-metadata" itemprop="author">
+    with Maxime Cohen and Adam Elmachtoub.
+  </div>
+    <font size="3">
+&bull; Oral presentation at The 4th Workshop on Mechanism Design for Social Good (MD4SG), 2020
+  </font>
+    <font size="3">
+<br> 
+&bull; Oral presentation at The 4th ACM Conference on Fairness, Accountability, and Transparency (FAccT), 2021
+  </font>
+</div>
+
+<!--
+Loot Box   
+-->
+
+<div class="view-list-item" itemscope itemtype="http://schema.org/{{$microdata_type}}">
+  <i class="far fa-file-alt" aria-hidden="true"></i>
+    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3430125" itemprop="url"><span itemprop="name">Loot Box Pricing and Design</span></a><a ><span itemprop="name">, <i><b>Management Science</b> </i> (2021).</span></a>
+<div class="article-metadata" itemprop="author">
+    with Ningyuan Chen, Adam Elmachtoub and Michael Hamilton.
+  </div>
+  <font size="3">
+ &bull; Third Prize, 2021 CSAMSE Best Paper Award.
+<br>
+&bull; Accepted to The 21th ACM Conference on Economics and Computation (EC), 2020 [<a href="https://youtu.be/47xP6_Iq0Us">Video</a>]
+<br> 
+&bull; Winner, 2019 IBM Best Student Paper Award in Service Science.
+<br>
+&bull; Invited to present at Federal Trade Commission (FTC) <a href="https://www.ftc.gov/news-events/events-calendar/inside-game-unlocking-consumer-issues-surrounding-loot-boxes">workshop</a>.
+<br>
+&bull; Media Converage: [<a href="https://www.pcgamer.com/loot-boxes-are-a-matter-of-life-or-death-for-problem-gamblers-says-researcher/">PC Gamer</a>] [<a href="https://techxplore.com/news/2019-12-loot-maximize-gaming-profits.html">Tech Xplore</a>] [<a href="https://www.gamersky.com/zl/201908/1213720.shtml">游民星空 (Mandarin)</a>]
+  </font>
+</div>
+
+<!--
+ccp   
+-->
+
+<div class="view-list-item" itemscope itemtype="http://schema.org/{{$microdata_type}}">
+  <i class="far fa-file-alt" aria-hidden="true"></i>
+    <a href="https://doi.org/10.1016/j.ejor.2019.09.003" itemprop="url"><span itemprop="name">Pricing of Reusable Resources under Ambiguous Distributions of Demand and Service Time with Emerging Applications</span></a><a ><span itemprop="name">, <i><b>European Journal of Operational Research </b></i>(2020).</span></a>
+<div class="article-metadata" itemprop="author">
+    with Vinh Xuan Doan and Siqian Shen.
+  </div>
+</div>
+
+<div class="view-list-item" itemscope itemtype="http://schema.org/{{$microdata_type}}">
+  <i class="far fa-file-alt" aria-hidden="true"></i>
+    <a href="https://link.springer.com/article/10.1057%2Fs41272-018-00164-4" itemprop="url"><span itemprop="name"> Dynamic Pricing and Learning with Competition: Insights from the Dynamic Pricing Challenge at the 2017 INFORMS RM & Pricing Conference</span></a><a ><span itemprop="name">, <i><b>Journal of Revenue and Pricing Management </b></i>(2019).</span></a>
+<div class="article-metadata" itemprop="author">
+    with Ruben van de Geer, Arnoud V. den Boer,Christopher Bayliss, Christine S. M. Currie, Andria Ellina, Malte Esders, Alwin Haensel, Kyle D. S. Maclean, Antonio Martinez-Sykora, Asbjørn Nilsen Riseth, Fredrik Ødegaard and Simos Zachariades.
+  </div>
+</div>
+
+<div class="view-list-item" itemscope itemtype="http://schema.org/{{$microdata_type}}">
+  <i class="far fa-file-alt" aria-hidden="true"></i>
+    <a href="https://www.sciencedirect.com/science/article/pii/S0305054817302290" itemprop="url"><span itemprop="name"> Stochastic Maximum Flow Interdiction Problems under Heterogeneous Risk Preferences</span></a><a ><span itemprop="name">, <i><b>Computers & Operations Research </b></i>(2018).</span></a>
+<div class="article-metadata" itemprop="author">
+    with Siqian Shen and Yongjia Song.
+  </div>
+</div>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+  
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+    
+    
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  <section id="Honor" class="home-section wg-blank   " style="padding: 70px 0 50px 0;">
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-12 col-lg-4 section-heading">
+      <h1>Honors &amp; Awards</h1>
+      
+    </div>
+    <div class="col-12 col-lg-8">
+      <p><strong>Third Prize, Chinese Scholars Association for Management Science and Engineering (CSAMSE) Best Paper Award, 2021</strong></p>
+
+<p><strong>Cheung-Kong Innovation Doctoral Fellowship (for Research in New Economy), 2021</strong></p>
+
+<p><strong>Columbia Deming Doctoral Fellowship (for Data-Driven Research), 2020</strong></p>
+
+<p><strong>First Place, IBM Best Student Paper Award (INFORMS Service Science), 2019</strong></p>
+
+<p><strong>Winner, Dynamic Pricing Challenge at INFORMS RM&amp;P Conference, 2017</strong></p>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+  
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+    
+    
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  <section id="miscellaneous" class="home-section wg-blank   " style="padding: 30px 0 50px 0;">
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-lg-12">
+      <h1>Miscellaneous</h1>
+      
+      
+
+<h5 id="travel">Travel:</h5>
+
+<p>I travel a lot, for conferences and for vacation. I enjoy and marvel at the fantastic cultures and fabulous sceneries around the world. Below is a footprint of myself.</p>
+
+<p><center>
+
+
+
+  
+
+<figure>
+
+<img src="/img/footprint.png" />
+
+
+</figure>
+</center></p>
+
+<h5 id="photography">Photography:</h5>
+
+<p>I&rsquo;m constantly studying and improving my photography skills. Below is a sample of my work from my <a href="https://www.instagram.com/xiaolei_columbia/" target="_blank">instagram</a> and <a href="https://500px.com/vcg-xiaolei322" target="_blank">500px</a>. They are from Angkor Wat in Cambodia, Quarry Bay in Hong Kong, and Kuangsi Waterfall in Laos.
+<center>
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="gallery">
+
+  
+  
+  
+  
+    
+    
+    
+    
+    
+  <a data-fancybox="gallery-gallery" href="/home/miscellaneous/gallery/1DSC02612.jpg" >
+  <img src="/home/miscellaneous/gallery/1DSC02612.jpg" alt="">
+  </a>
+  
+    
+    
+    
+    
+    
+  <a data-fancybox="gallery-gallery" href="/home/miscellaneous/gallery/2hk.jpg" >
+  <img src="/home/miscellaneous/gallery/2hk.jpg" alt="">
+  </a>
+  
+    
+    
+    
+    
+    
+  <a data-fancybox="gallery-gallery" href="/home/miscellaneous/gallery/3laos.jpg" >
+  <img src="/home/miscellaneous/gallery/3laos.jpg" alt="">
+  </a>
+  
+
+  
+</div>
+
+</center></p>
+
+<h5 id="r">R:</h5>
+
+<p>I&rsquo;m an intensive R user. As you may have noticed, the footprint is made by R. (Want to make it for yourself? Try <a href="/~xl2625/files/footprint.R">this code</a>.) Also, this site is made in <a href="https://www.rstudio.com/" target="_blank">RStudio</a>, with the <a href="https://sourcethemes.com/academic/" target="_blank">Academic Theme</a> by <a href="https://gohugo.io/" target="_blank">Hugo</a>.</p>
+
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+  
+
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+    
+    
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  <section id="contact" class="home-section wg-contact   " style="padding: 50px 0 50px 0;">
+    <div class="container">
+      
+
+
+
+
+<div class="row contact-widget">
+  <div class="col-12 col-lg-4 section-heading">
+    <h1>Contact &amp; Links</h1>
+    
+  </div>
+  <div class="col-12 col-lg-8">
+    
+
+    
+
+    <ul class="fa-ul" itemscope>
+
+      
+      <li>
+        <i class="fa-li fas fa-envelope fa-2x" aria-hidden="true"></i>
+        <span id="person-email" itemprop="email"><a href="mailto:xl2625@columbia.edu">xl2625@columbia.edu</a></span>
+      </li>
+      
+
+      
+
+      
+      <li>
+        <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
+        <span id="person-address" itemprop="address">Mudd 333, Columbia University, NY, 10025, USA</span>
+      </li>
+      
+
+      
+
+      
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <i class="fa-li ai ai-cv fa-2x" aria-hidden="true"></i>
+        <a href="/files/Xiao_Lei_CV.pdf" >Curriculum Vitae</a>
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <i class="fa-li ai ai-google-scholar fa-2x" aria-hidden="true"></i>
+        <a href="https://scholar.google.com/citations?hl=en&amp;user=Td_8_L8AAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <i class="fa-li fab fa-linkedin fa-2x" aria-hidden="true"></i>
+        <a href="https://www.linkedin.com/in/xiao-lei-b22781a2/" target="_blank" rel="noopener">Linkedin</a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <i class="fa-li fab fa-instagram fa-2x" aria-hidden="true"></i>
+        <a href="https://www.instagram.com/xiaolei_columbia/" target="_blank" rel="noopener">Instagram</a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <i class="fa-li fab fa-zhihu fa-2x" aria-hidden="true"></i>
+        <a href="https://www.zhihu.com/people/xray322/" target="_blank" rel="noopener">I have 40k+ followers on this Chinese community :)</a>
+      </li>
+      
+
+    </ul>
+
+    
+
+  </div>
+</div>
+
+    </div>
+  </section>
+  
+
+
+<div class="container">
+  <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+
+    © Xiao Lei 2019. Modified from the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" id="back_to_top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+</div>
+
+
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+    
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" integrity="sha256-aYTdUrn6Ow1DDgh5JTc3aDGnnju48y/1c8s1dgkYPQ8=" crossorigin="anonymous"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+
+    
+    
+
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/js/academic.min.c6fd6ac3a8e8115c6ec4cd7b873b4f1e.js"></script>
+
+  </body>
+</html>
+
+
