@@ -40,7 +40,7 @@ The bottom line is that describing the human brain's algorithm, both before and 
 
 [^6]: The DNA in a healthy human brain cell contains one sequence per biological parent, but the difference between these sequences is small - the difference between an individual genome and a reference fits into about [4 MB](https://en.wikipedia.org/w/index.php?title=Human_genome&oldid=1085728356#Information_content).
 
-[^7]: It seems plausible to me that a minimal, abstract algorithm reproducing human intelligence takes order of magnitude less space: LATER argue why exactly.
+[^7]: It seems plausible to me that a minimal, abstract algorithm reproducing human intelligence takes order of magnitude less space, (here)[/posts/2022/06/neuro-stochasticity/] is a list of reasons why.
 
 [^8]: A college student taking 32 courses over the course of their degree, each of which is based on a 500-page book containing 250 words per page, studies 4 000 000 words in total. The original [word gap](https://en.wikipedia.org/wiki/Word_gap) study resulted in 11.5 million words per year overheard by "an average child in a professional family", which would correspond to 290 million words over 25 years. A raw King James Bible, compressed with lzip, occupies 1.35 bytes/word of disk space. See [here](https://www.researchgate.net/post/Estimates_of_quantified_human_sensory_system_throughput10) for a discussion of raw sensory throughput.
 
