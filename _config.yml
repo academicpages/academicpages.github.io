@@ -220,7 +220,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _pubs_journal_primary
+  # _pubs-journal-primary
   - scope:
       path: ""
       type: publications
@@ -238,7 +238,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _pubs_conf_primary
+  # _pubsconfprimary
   - scope:
       path: ""
       type: publications
