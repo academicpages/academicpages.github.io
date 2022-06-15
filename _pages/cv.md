@@ -15,14 +15,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Cognitive Neuroscience, University of California Irvine, 2022
+* Ph.D in Cognitive Sciences with a Concentration in Cognitive Neuroscience, University of California Irvine, 2022
 * M.S. in Cognitive Neuroscience, University of California Irvine, 2020
 * M.A. in Geography, University of California Santa Barbara, 2019
 * B.S. in Psychology, South China Normal University, 2014
 
 
 
-<!--- Work experience
+Work experience
 ======
 * [Data Science Instructor](https://www.coursera.org/instructor/you-lilian-cheng) for Guided Projects, Coursera Inc.                              Aug. 2020 – Feb. 2022
 
@@ -32,9 +32,7 @@ Education
   
 * Teaching Assistant, [Neuromatch Academy Inc.](https://www.neuromatchacademy.org/)                              June 2020 – July 2020
   
-* Data Science Intern, [National Center for Ecological Analysis and Synthesis (NCEAS)](https://www.nceas.ucsb.edu/).                              June 2019 – Sept. 2019  --->
-
-
+* Data Science Intern, [National Center for Ecological Analysis and Synthesis (NCEAS)](https://www.nceas.ucsb.edu/).                              June 2019 – Sept. 2019
 
 
 Publications
