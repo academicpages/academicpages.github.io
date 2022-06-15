@@ -5,11 +5,11 @@ permalink: /call-papers/
 author_profile: true
 ---
 
-We are excited to announce the call for submissions for the Graduate Students in International Political Economy (GSIPE) workshop for Spring 2022! If you are interested in presenting your work at GSIPE this spring, please fill out [this form](https://forms.gle/US1u6Tex8fGuSEhD9) by Sunday, January 16th at 11:59 pm Eastern Time.
+We are excited to announce a call for submissions for the Graduate Students in International Political Economy (GSIPE) workshop for Fall 2022! If you are interested in presenting your work at GSIPE in the Fall, please fill out this **[form](https://docs.google.com/forms/d/e/1FAIpQLSf-8wKM5a17SS5Il7lH0wzkquD8HW_nNinxIT--uCbjEBYlZg/viewform) by Sunday, July 31st at 11:59pm Eastern Time.**
 
 [International political economy (IPE)](https://www.isanet.org/ISA/Sections/IPE) “seeks to advance knowledge of how political institutions, processes, and actors influence economic interactions, and conversely, how economic institutions, processes, and actors affect political interactions. IPE scholars examine the role of domestic drivers in shaping global politics as well as the influence of global drivers on domestic politics. Substantive issues this section focuses on international and regional regimes, private authority structures, welfare policies, social and environmental policies, monetary and exchange rate policies, global integration, international trade, international development and equity, international finance, multinational corporations, NGOs, and corporate social responsibility.''
 
-We are happy to consider submissions ranging from papers in early stages to well-developed manuscripts and anything in between. We are also happy to consider papers that use quantitative, qualitative, or mixed methods. For Spring 2022, we plan to continue meeting at 12-1 pm Eastern Time on Mondays.
+We welcome submissions in Political Science and Economics ranging from papers in early stages to well-developed manuscripts and anything in between. We encourage submissions for projects that use a wide array of methods, including quantitative, qualitative, and a mixed approach. For Fall 2022, we plan to continue meeting at 12-1pm Eastern Time on a day to be determined. The first workshop will take place in September, and the last one will occur in December.
 
 Our selection process is guided by the dual objectives of fostering an intellectually engaging workshop for attendees and correcting for systemic inequities in the discipline. Details on the selection process are outlined below. 
 
