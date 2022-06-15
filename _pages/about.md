@@ -19,7 +19,7 @@ We invite graduate students and faculty from Political Science and Economics wit
 
 - We welcome our [new team](https://gsipe-workshop.github.io/team/) for GSIPE, starting June 1st.
 
-- We are excited to announce a call for submissions for the **GSIPE workshops for fall 2022** The deadline for submissions is July 31st, at 11:59pm Eastern Time. More information [here](https://gsipe-workshop.github.io/call-papers/).
+- We are excited to announce a call for submissions for the **GSIPE workshops for fall 2022**. The deadline for submissions is July 31st, at 11:59pm Eastern Time. More information [here](https://gsipe-workshop.github.io/call-papers/).
 
 - Our activities for the Spring of 2022 have concluded. We thank all participants, moderators and presenters for helping us keep growing GSIPE. Our first events for fall of 2022 will begin in September. Stay tuned!
 
