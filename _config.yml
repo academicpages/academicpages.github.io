@@ -185,7 +185,7 @@ collections:
     permalink: /:collection/:path/
   pubs-journal-primary:
     output: true
-    permalink: /:collection/:path/
+    permalink: /publications/:path/
   pubsconfprimary:
     output: true
     permalink: /:collection/:path/
