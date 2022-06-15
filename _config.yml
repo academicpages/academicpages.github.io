@@ -183,6 +183,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  pubs-journal-primary:
+    output: true
+    permalink: /:collection/:path/
+  pubsconfprimary:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
