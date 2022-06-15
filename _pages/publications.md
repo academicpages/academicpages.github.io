@@ -13,7 +13,7 @@ author_profile: true
 
 ## Peer-Reviewed International Journal Publications 
 ### As primary author
-{% for post in site.pubs_journal_primary reversed %}
+{% for post in site.pubs-journal-primary reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
