@@ -11,13 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
-## As primary author
-{% for post in site.pubs_primary reversed %}
+## Peer-Reviewed International Journal Publications 
+### As primary author
+{% for post in site.primary reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-## Co-authored
-{% for post in site.pubs_coauth reversed %}
+### Co-authored
+{% for post in site.publications.primary reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
