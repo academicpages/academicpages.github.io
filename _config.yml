@@ -220,6 +220,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _primary
+  - scope:
+      path: "/publications"
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _pubs_journal_primary
   - scope:
       path: ""
