@@ -186,6 +186,9 @@ collections:
   pubs-journal-primary:
     output: true
     permalink: /publications/:path/
+  pubs_journal_coauth:
+    output: true
+    permalink: /:publications/:path/
   pubsconfprimary:
     output: true
     permalink: /:collection/:path/
