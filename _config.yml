@@ -192,6 +192,9 @@ collections:
   pubsconfprimary:
     output: true
     permalink: /:collection/:path/
+  pubs_conf_coauth:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -230,33 +233,6 @@ defaults:
       share: true
       comments: true
   # _pubs-journal-primary
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _pubs_journal_coauth
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _pubsconfprimary
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _pubs_conf_coauth
   - scope:
       path: ""
       type: publications
