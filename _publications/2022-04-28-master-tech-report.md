@@ -1,7 +1,7 @@
 ---
 title: "Persisting the AntidoteDB Cache: Design and Implementation of a Cache for a CRDT Datastore"
 collection: publications
-permalink: /publication/2022-04-28-master-tech-report
+permalink: /publications/2022-04-28-master-tech-report
 excerpt: 'This report presents the design and implementation of a caching, indexing and object checkpoint library for AntidoteDB. '
 date: 2022-01-28
 venue: 'HAL-Inria'

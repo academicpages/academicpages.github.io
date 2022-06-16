@@ -15,9 +15,15 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
-  {% include sidebar.html %}
+  {% if page.url == "/" or page.url == "/about" %}
+    {% include sidebar.html %}
+    <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+  {% endif %}
+  {% if page.url != "/" and page.url != "/about" %}
+    <article class="page_single" itemscope itemtype="http://schema.org/CreativeWork">
+  {% endif %}
 
-  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
