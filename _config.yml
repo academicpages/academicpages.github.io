@@ -82,10 +82,7 @@ analytics:
 author:
   name             : "Yong-Jin Liu"
   avatar           : "IMG_yongjin.jpg"
-  bio              : "Yong-Jin Liu is a tenured Full Professor with the Computer Science Department at Tsinghua University. He obtained his Ph.D. degree in 2004 from Hong Kong University of Science & Technology. His research interests include computational geometry, computer graphics, computer aided design and pattern analysis. <br><br>         &#21016;&#27704;&#36827;&#65292;&#28165;&#21326;&#22823;&#23398;&#35745;&#31639;&#26426;&#31995;&#38271;&#32856;&#25945;&#25480;&#65292;&#21338;&#22763;&#29983;&#23548;&#24072;&#65292;&#20154;&#26426;&#20132;&#20114;&#19982;&#23186;&#20307;&#38598;&#25104;&#30740;&#31350;&#25152;&#25152;&#38271;&#12290;&#22269;&#23478;&#26480;&#20986;&#38738;&#24180;&#22522;&#37329;&#33719;&#24471;&#32773;&#65288;2017&#65289;&#12289;&#22269;&#23478;&#20248;&#31168;&#38738;&#24180;&#22522;&#37329;&#33719;&#24471;&#32773;&#65288;2013&#65289;&#65292;&#20837;&#36873;&#25945;&#32946;&#37096;&#26032;&#19990;&#32426;&#20154;&#25165;&#35745;&#21010;&#65288;2011&#65289;&#12290;<br><br>
-                                <a class="awards-a" href="http://media.cs.tsinghua.edu.cn/" target="_blank">Institute of HCI and Media Integration</a><br> &#65288;&#20154;&#26426;&#20132;&#20114;&#19982;&#23186;&#20307;&#38598;&#25104;&#30740;&#31350;&#25152;&#65289;<br><br>
-                                <a class="awards-a" href="http://www.cs.tsinghua.edu.cn/" target="_blank">Department of Computer Science and Technology</a><br>  &#65288;&#35745;&#31639;&#26426;&#31185;&#23398;&#19982;&#25216;&#26415;&#31995;&#65289;<br><br>
-                                <a class="awards-a" href="http://www.tsinghua.edu.cn/" target="_blank">Tsinghua University</a><br> &#65288;&#28165;&#21326;&#22823;&#23398;&#65289;"
+  bio              : "Yong-Jin Liu is a tenured Full Professor with the Computer Science Department at Tsinghua University. He obtained his Ph.D. degree in 2004 from Hong Kong University of Science & Technology. His research interests include computational geometry, computer graphics, computer aided design and pattern analysis."
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
