@@ -1,0 +1,34 @@
+I"È<!-- _pages/publications.md -->
+<div class="publications">
+  <h2 class="year">2021</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">arXiv</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="mcinroe-ksl" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Learning Temporally-Consistent Representations for Data-Efficient Reinforcement Learning</div>
+          <!-- Author -->
+          <div class="author">McInroe, Trevor,&nbsp;Sch√§fer, Lukas,&nbsp;and Albrecht, Stefano V.
+          </div>
+
+          <!-- Journal/Book title and date -->
+          <div class="periodical">
+            <em></em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a href="/assets/pdf/mcinroe-ksl.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+
+</div>
+:ET
