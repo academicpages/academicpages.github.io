@@ -1,7 +1,6 @@
 ---
 title: "Patch-adaptive Transformation Blending for One-shot Retouching"
-<!-- permalink: /one-shot/index.html -->
-excerpt: 'This project introduces a novel photo retouching based on a single before-after example pair.'
-url: 'https://faziletgokbudak.github.io/one-shot/'
+excerpt: 'This project introduces a novel photo retouching based on a single before-after example pair. More details can be found [Project Website](https://faziletgokbudak.github.io/one-shot/)'
+
 collection: projects
 ---
