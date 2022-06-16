@@ -18,6 +18,7 @@ group :jekyll_plugins do
     gem 'webrick'
     gem 'github-pages'
     gem "jekyll-github-metadata"
+    gem 'faraday', '~> 0.17'
 end
 group :other_plugins do
     gem 'httparty'
