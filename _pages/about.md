@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Graphics & Geometric Computing Group | CS, Tsinghua Univ. Yong-Jin Liu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,67 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Yong-Jin Liu is a tenured Full Professor with the Computer Science Department at Tsinghua University. He obtained his Ph.D. degree in 2004 from Hong Kong University of Science & Technology. His research interests include computational geometry, computer graphics, computer aided design and pattern analysis. 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+&#21016;&#27704;&#36827;&#65292;&#28165;&#21326;&#22823;&#23398;&#35745;&#31639;&#26426;&#31995;&#38271;&#32856;&#25945;&#25480;&#65292;&#21338;&#22763;&#29983;&#23548;&#24072;&#65292;&#20154;&#26426;&#20132;&#20114;&#19982;&#23186;&#20307;&#38598;&#25104;&#30740;&#31350;&#25152;&#25152;&#38271;&#12290;&#22269;&#23478;&#26480;&#20986;&#38738;&#24180;&#22522;&#37329;&#33719;&#24471;&#32773;&#65288;2017&#65289;&#12289;&#22269;&#23478;&#20248;&#31168;&#38738;&#24180;&#22522;&#37329;&#33719;&#24471;&#32773;&#65288;2013&#65289;&#65292;&#20837;&#36873;&#25945;&#32946;&#37096;&#26032;&#19990;&#32426;&#20154;&#25165;&#35745;&#21010;&#65288;2011&#65289;&#12290;
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<a class="awards-a" href="http://media.cs.tsinghua.edu.cn/" target="_blank">Institute of HCI and Media Integration</a> &#65288;&#20154;&#26426;&#20132;&#20114;&#19982;&#23186;&#20307;&#38598;&#25104;&#30740;&#31350;&#25152;&#65289;
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<a class="awards-a" href="http://www.cs.tsinghua.edu.cn/" target="_blank">Department of Computer Science and Technology</a>&#65288;&#35745;&#31639;&#26426;&#31185;&#23398;&#19982;&#25216;&#26415;&#31995;&#65289;
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<a class="awards-a" href="http://www.tsinghua.edu.cn/" target="_blank">Tsinghua University</a>&#65288;&#28165;&#21326;&#22823;&#23398;&#65289;
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+# Contact Information
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<strong>Office:</strong> Room 3-530, Information Technology Building (FIT), Tsinghua University.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+<strong>Email:</strong> liuyongjin@tsinghua.edu.cn
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<strong>Homepage:</strong> <a href="https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm" target="_blank">Tsinghua Homepage</a>
+
+
+
+# Education & Working Experiences
+
+| 2006.1~present | Tsinghua University, Department of of Computer Science & Technology, Faculty member |
+| -------------- | ------------------------------------------------------------ |
+| 2004.1~2006.1  | <a href="http://www.ust.hk/eng/index.htm" target="_blank">Hong Kong University of Science & Technology</a>, <a href="http://www1.ielm.ust.hk/" target="_blank">Dept. of Industrial Engineering and Logistics Management</a>, Postdoc Research Associate |
+| 2000.1~2003.12 | <a href="http://www.ust.hk/eng/index.htm" target="_blank">Hong Kong University of Science & Technology</a>, <a href="http://www.mae.ust.hk/" target="_blank">Dept. of Mechanical and Aerospace Engineering</a>, Ph.D student |
+| 1998.9~1999.12 | <a href="http://www.ust.hk/eng/index.htm" target="_blank">Hong Kong University of Science & Technology</a>, <a href="http://www.mae.ust.hk/" target="_blank">Dept. of Mechanical and Aerospace Engineering</a>, M.Phil student |
+| 1994.9~1998.7  | <a href="http://www.tju.edu.cn/english/" target="_blank">Tianjin University</a>, Mechano-Electronic, Undergraduate |
+
+
+
+# Long term recruitment of PostDocs and Research Associates (details in <a href="https://mp.weixin.qq.com/s/YhQyc55osC_SMId2AiYzhQ">Chinese</a>)
+
+&#23454;&#39564;&#23460;&#38271;&#26399;&#25307;&#32856;&#21338;&#22763;&#21518;&#21644;&#31185;&#30740;&#21161;&#29702;&#65288;<a href="https://mp.weixin.qq.com/s/YhQyc55osC_SMId2AiYzhQ">&#35814;&#24773;&#35831;&#35265;</a>&#65289;
+
+
+
+# Research Interests
+
+- Computational Geometry
+- Computer Graphics
+- Computer Aided Design
+- Pattern Analysis
+
+
+
+# Teaching
+
+- Spring semester: <a href="http://cs.tsinghua.edu.cn/thu-cmu/curriculum/FoCG/course_index.html" target="_blank">Fundamentals of Computer Graphics</a>, 2011~present (Graduate, 80240593, in English, 16 weeks x 3 units/week x 45minutes/unit)
+- Fall semester: <a href="http://learn.tsinghua.edu.cn/" target="_blank">Computer Graphics</a>, 2007~present (Graduate, 60240073, in Chinese, 16 weeks x 3 units/week x 45minutes/unit)
+- Fall semester: <a href="http://learn.tsinghua.edu.cn/" target="_blank">Computer Aided Design</a>, 2006~present (Undergraduate, 00240013, in Chinese, 16 weeks x 3 units/week x 45minutes/unit)
+
+
+
+# Professional Membership
+
+- IEEE Senior Member
+- IEEE Computer Society Member
+- ACM Professional Member
+- ACM SIGGRAPH Member
+- Senior Member of China Computer Federation (CCF)
+- Deputy Secretary-General, <a href="http://cg.cs.tsinghua.edu.cn/gdc/" target="_blank">Geometric Design and Computing Committee</a> (GDC) of China Society for Industrial and Applied Mathematics (CSIAM)
