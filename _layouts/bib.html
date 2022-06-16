@@ -1,0 +1,160 @@
+---
+---
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr">
+        {%- if entry.abbr -%}
+          {%- if site.data.venues[entry.abbr] -%}
+          <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
+          {%- else -%}
+          <abbr class="badge">{{entry.abbr}}</abbr>
+          {%- endif -%}
+        {%- endif -%}
+        </div>
+
+        <!-- Entry bib key -->
+        <div id="{{entry.key}}" class="col-sm-8">
+        {% if entry.type == "thesis" -%}
+          {{reference}}
+        {%- else %}
+          <!-- Title -->
+          <div class="title">{{entry.title}}</div>
+          <!-- Author -->
+          <div class="author">
+          {%- for author in entry.author_array -%}
+            {%- assign author_is_self = false -%}
+            {%- if author.last == site.scholar.last_name%}
+              {%- if site.scholar.first_name contains author.first -%}
+                {%- assign author_is_self = true -%}
+              {%- endif -%}
+            {%- endif -%}
+            {%- assign coauthor_url = nil -%}
+            {%- if site.data.coauthors[author.last] -%}
+              {%- for coauthor in site.data.coauthors[author.last] -%}
+                {%- if coauthor.firstname contains author.first -%}
+                  {%- assign coauthor_url = coauthor.url -%}
+                  {%- break -%}
+                {%- endif -%}
+              {%- endfor -%}
+            {%- endif -%}
+            
+            {%- if forloop.length == 1 -%}
+              {%- if author_is_self %}
+                <em>{{author.last}}, {{author.first}}</em>
+              {%- else -%}
+                {{author.last}}, {{author.first}}
+              {%- endif -%}
+            {%- else -%}
+              {%- unless forloop.last -%}
+                {% if author_is_self %}
+                  <em>{{author.last}}, {{author.first}}</em>,&nbsp;
+                {%- else -%}
+                  {% if coauthor_url -%}
+                    <a href="{{coauthor_url}}">{{author.last}}, {{author.first}}</a>,&nbsp;
+                  {%- else -%}
+                    {{author.last}}, {{author.first}},&nbsp;
+                  {%- endif -%}
+                {%- endif -%}
+              {%- else -%}
+                {% if author_is_self -%}
+                  and <em>{{author.last}}, {{author.first}}</em>
+                {% else -%}
+                  {%- if coauthor_url -%}
+                    and <a href="{{coauthor_url}}">{{author.last}}, {{author.first}}</a>
+                  {% else -%}
+                    and {{author.last}}, {{author.first}}
+                  {%- endif -%}
+                {%- endif -%}
+              {%- endunless -%}
+            {%- endif -%}
+          {%- endfor %}
+          </div>
+
+          <!-- Journal/Book title and date -->
+          {% if entry.type == "article" -%}
+            {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
+          {%- elsif entry.type == "inproceedings" -%}
+            {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
+          {%- else -%}
+            {%- capture entrytype -%}{%- endcapture -%}
+          {%- endif -%}
+          {%- if entry.month -%}
+            {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
+          {%- endif -%}
+          {%- if entry.year -%}
+            {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
+          {%- endif -%}
+          {%- capture periodical -%}{{ entrytype }}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
+          <div class="periodical">
+            {{ periodical | strip }}
+          </div>
+        {%- endif %}
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          {%- if entry.abstract %}
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+          {%- endif %}
+          {%- if entry.arxiv %}
+            <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
+          {%- endif %}
+          {%- if entry.bibtex_show %}
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+          {%- endif %}
+          {%- if entry.html %}
+            <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          {%- endif %}
+          {%- if entry.pdf %}
+            {% if entry.pdf contains '://' -%}
+            <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            {%- else -%}
+            <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
+            {%- endif %}
+          {%- endif %}
+          {%- if entry.supp %}
+            {% if entry.supp contains '://' -%}
+            <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
+            {%- else -%}
+            <a href="{{ entry.supp | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
+            {%- endif %}
+          {%- endif %}
+          {%- if entry.blog %}
+            <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button">Blog</a>
+          {%- endif %}
+          {%- if entry.code %}
+            <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button">Code</a>
+          {%- endif %}
+          {%- if entry.poster %}
+            {% if entry.poster contains '://' -%}
+            <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
+            {%- else -%}
+            <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
+            {%- endif %}
+          {%- endif %}
+          {%- if entry.slides %}
+            {% if entry.slides contains '://' -%}
+            <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
+            {%- else -%}
+            <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
+            {%- endif %}
+          {%- endif %}
+          {%- if entry.website %}
+            <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+          {%- endif %}
+          </div>
+
+          {% if entry.abstract -%}
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>{{ entry.abstract }}</p>
+          </div>
+          {%- endif -%}
+
+          {% if entry.bibtex_show -%}
+          <!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
+          </div>
+          {%- endif %}
+        </div>
+      </div>

@@ -1,0 +1,126 @@
+/*******************************************************************************
+ * Style overrides for distill blog posts.
+ ******************************************************************************/
+
+d-byline {
+  border-top-color: var(--global-divider-color) !important;
+}
+
+d-byline h3 {
+  color: var(--global-text-color) !important;
+}
+
+d-byline a, d-article d-byline a {
+  color: var(--global-text-color) !important;
+  &:hover {
+    color: var(--global-hover-color) !important;
+  }
+}
+
+d-article {
+  border-top-color: var(--global-divider-color) !important;
+  a, p, h1, h2, h3, h4, h5, h6, li, table {
+    color: var(--global-text-color) !important;
+  }
+  a, h1, h2, hr, table, table th, table td {
+    border-bottom-color: var(--global-divider-color) !important;
+  }
+  a:hover {
+    border-bottom-color: var(--global-hover-color) !important;
+  }
+  b i {
+    display: inline;
+  }
+
+  d-contents {
+    align-self: start;
+    grid-column: 1 / 4;
+    grid-row: auto / span 4;
+    justify-self: end;
+    margin-top: 0em;
+    padding-left: 2em;
+    padding-right: 3em;
+    border-right: 1px solid var(--global-divider-color);
+    width: calc(max(70%, 300px));
+    margin-right: 0px;
+    margin-top:  0em;
+    display: grid;
+    grid-template-columns:
+      minmax(8px, 1fr) [toc] auto
+      minmax(8px, 1fr) [toc-line] 1px
+      minmax(32px, 2fr);
+
+    nav {
+      grid-column: toc;
+      a {
+        border-bottom: none !important;
+        &:hover {
+          border-bottom: 1px solid var(--global-text-color) !important;
+        }
+      }
+      h3 {
+        margin-top: 0;
+        margin-bottom: 1em;
+      }
+      div {
+        display: block;
+        outline: none;
+        margin-bottom: 0.8em;
+        color: rgba(0, 0, 0, 0.8);
+        font-weight: bold;
+      }
+      ul {
+        padding-left: 1em;
+        margin-top: 0;
+        margin-bottom: 6px;
+        list-style-type: none;
+        li {
+          margin-bottom: 0.25em;
+        }
+      }
+    }
+    .figcaption {
+      line-height: 1.4em;
+    }
+    toc-line {
+      border-right: 1px solid var(--global-divider-color);
+      grid-column: toc-line;
+    }
+  }
+
+  d-footnote {
+    scroll-margin-top: 66px;
+  }
+}
+
+d-appendix {
+  border-top-color: var(--global-divider-color) !important;
+  color: var(--global-distill-app-color) !important;
+  h3, li, span {
+    color: var(--global-distill-app-color) !important;
+  }
+  a, a.footnote-backlink {
+    color: var(--global-distill-app-color) !important;
+    &:hover {
+      color: var(--global-hover-color) !important;
+    }
+  }
+}
+
+@media (max-width: 1024px) {
+  d-article {
+    d-contents {
+      display: block;
+      grid-column-start: 2;
+      grid-column-end: -2;
+      padding-bottom: 0.5em;
+      margin-bottom: 1em;
+      padding-top: 0.5em;
+      width: 100%;
+      border: 1px solid var(--global-divider-color);
+      nav {
+        grid-column: none;
+      }
+    }
+  }
+}

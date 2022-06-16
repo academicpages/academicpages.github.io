@@ -1,14 +1,18 @@
 ---
-layout: archive
-title: "Research"
-permalink: /researchaaaa/
-author_profile: true
+layout: page
+permalink: /publications/
+title: publications
+description:
+years: [2021]
+nav: true
+nav_order: 2
 ---
+<!-- _pages/publications.md -->
+<div class="publications">
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f papers -q @*[year={{y}}]* %}
+{% endfor %}
 
-{% include base_path %}
-
-<div>
+</div>
