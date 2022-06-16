@@ -17,6 +17,7 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
     gem 'github-pages'
+    gem "jekyll-github-metadata"
 end
 group :other_plugins do
     gem 'httparty'

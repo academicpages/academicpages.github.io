@@ -167,6 +167,7 @@ plugins:
   - jekyll-twitter-plugin
   - jemoji
   - jekyll-gist
+  - jekyll-github-metadata
 
 # Sitemap settings
 defaults:
