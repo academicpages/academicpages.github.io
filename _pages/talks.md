@@ -17,5 +17,5 @@ ASA Boston Chapter Student Research Symposium on Statistics and Data Science, Ap
 AMS Joint Mathematics Meetings (JMM) Poster Session, April 2022  
 Pai N, **Balkus SV** and Zeng T.
 
-**Multi-Level Biosensor-based Epidemic Forecasting in Small Areas**
+**Multi-Level Biosensor-based Epidemic Forecasting in Small Areas**  
 ASA Joint Statistical Meetings, August 2021
