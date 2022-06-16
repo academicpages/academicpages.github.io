@@ -164,6 +164,7 @@ plugins:
   - jekyll-target-blank
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-gist
 
 # Sitemap settings
 defaults:
