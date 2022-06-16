@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yong-Jin Liu"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yong-Jin Liu"
+description              : &description "Yong-Jin Liu's personal home page"
+url                      : https://yongjinliu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "yongjinliu/yongjinliu.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -73,21 +73,24 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "false" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Yong-Jin Liu"
+  avatar           : "IMG_yongjin.jpg"
+  bio              : "Yong-Jin Liu is a tenured Full Professor with the Computer Science Department at Tsinghua University. He obtained his Ph.D. degree in 2004 from Hong Kong University of Science & Technology. His research interests include computational geometry, computer graphics, computer aided design and pattern analysis. <br><br>         &#21016;&#27704;&#36827;&#65292;&#28165;&#21326;&#22823;&#23398;&#35745;&#31639;&#26426;&#31995;&#38271;&#32856;&#25945;&#25480;&#65292;&#21338;&#22763;&#29983;&#23548;&#24072;&#65292;&#20154;&#26426;&#20132;&#20114;&#19982;&#23186;&#20307;&#38598;&#25104;&#30740;&#31350;&#25152;&#25152;&#38271;&#12290;&#22269;&#23478;&#26480;&#20986;&#38738;&#24180;&#22522;&#37329;&#33719;&#24471;&#32773;&#65288;2017&#65289;&#12289;&#22269;&#23478;&#20248;&#31168;&#38738;&#24180;&#22522;&#37329;&#33719;&#24471;&#32773;&#65288;2013&#65289;&#65292;&#20837;&#36873;&#25945;&#32946;&#37096;&#26032;&#19990;&#32426;&#20154;&#25165;&#35745;&#21010;&#65288;2011&#65289;&#12290;<br><br>
+                                <a class="awards-a" href="http://media.cs.tsinghua.edu.cn/" target="_blank">Institute of HCI and Media Integration</a><br> &#65288;&#20154;&#26426;&#20132;&#20114;&#19982;&#23186;&#20307;&#38598;&#25104;&#30740;&#31350;&#25152;&#65289;<br><br>
+                                <a class="awards-a" href="http://www.cs.tsinghua.edu.cn/" target="_blank">Department of Computer Science and Technology</a><br>  &#65288;&#35745;&#31639;&#26426;&#31185;&#23398;&#19982;&#25216;&#26415;&#31995;&#65289;<br><br>
+                                <a class="awards-a" href="http://www.tsinghua.edu.cn/" target="_blank">Tsinghua University</a><br> &#65288;&#28165;&#21326;&#22823;&#23398;&#65289;"
+  location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=GNDtwWQAAAAJ&hl=zh-CN&oi=ao"
+  email            : "liuyongjin@tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +99,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "yongjinliu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -255,7 +258,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
