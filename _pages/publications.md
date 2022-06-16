@@ -18,7 +18,7 @@ table, th, td {
 <td style="width:70%">
 <b> What is a meaningful representation of protein sequences? </b>
 <br>
-**Nicki Skafte Detlefsen**, Søren Hauberg, Wouter Boomsma
+<em>Nicki Skafte Detlefsen</em>, Søren Hauberg, Wouter Boomsma
 <br>
 In Nature Communications
 <br>
@@ -39,7 +39,7 @@ In Nature Communications
 <td style="width:70%">
 <b> TorchMetrics - Measuring Reproducibility in PyTorch </b>
 <br>
-**Nicki Skafte Detlefsen**, Jiri Borovec, Justus Schock, Ananya Harsh Jha, Teddy Koker, Luca Di Liello, Daniel Stanc,
+<em>Nicki Skafte Detlefsen</em>, Jiri Borovec, Justus Schock, Ananya Harsh Jha, Teddy Koker, Luca Di Liello, Daniel Stanc,
 Changsheng Quan, Maxim Grechkin, and William Falcon
 <br>
 In Journal of Open Source Software (JOSS)
@@ -61,7 +61,7 @@ In Journal of Open Source Software (JOSS)
 <td style="width:70%">
 <b> Developing and validating COVID‑19 adverse outcome risk prediction models from a bi‑national European cohort of 5594 patients </b>
 <br>
-Espen Jimenez-Solem, Tonny S Petersen, Christina Lioma, Christian Igel, Wouter Boomsma, Oswin Krause, Casper Hansen, Christian Hansen, Stephan Lorenzen, Raghavendra Selvan, Janne Petersen, Martin Erik Nyeland, Mikkel Zöllner Ankarfeldt, Gert Mehl Virenfeldt, Anne Helms Andreasen, Matilde Winther-Jensen, Mostafa Ghazi, **Nicki S. Detlefsen**, Andreas Lauritsen, Abraham Smith, Marleen de Bruijne, Bulat Ibragimov, Jens Petersen, Martin Lillholm, Jon Middleton, Stine Hasling Mogensen, Hans-Christian Thorsen-Meyer, Anders Perner, Maria Helleberg, Benjamin Skov Kaas-Hansen, Alexander Bonde, Akshay Pai, Mads Nielsen Martin Sillesen
+Espen Jimenez-Solem, Tonny S Petersen, Christina Lioma, Christian Igel, Wouter Boomsma, Oswin Krause, Casper Hansen, Christian Hansen, Stephan Lorenzen, Raghavendra Selvan, Janne Petersen, Martin Erik Nyeland, Mikkel Zöllner Ankarfeldt, Gert Mehl Virenfeldt, Anne Helms Andreasen, Matilde Winther-Jensen, Mostafa Ghazi, <em>Nicki Skafte Detlefsen</em>, Andreas Lauritsen, Abraham Smith, Marleen de Bruijne, Bulat Ibragimov, Jens Petersen, Martin Lillholm, Jon Middleton, Stine Hasling Mogensen, Hans-Christian Thorsen-Meyer, Anders Perner, Maria Helleberg, Benjamin Skov Kaas-Hansen, Alexander Bonde, Akshay Pai, Mads Nielsen Martin Sillesen
 <br>
 In Scientific Reports, Nature 2020
 <br>
@@ -80,7 +80,7 @@ In Scientific Reports, Nature 2020
 <td style="width:70%">
 <b> Lung Segmentation from Chest X-rays using Variational Data Imputation </b>
 <br>
-Raghavendra Selvan, Erik B. Dam, Nicki Skafte Detlefsen, Sofus Rischel, Kaining Sheng, Mads Nielsen, Akshay Pai
+Raghavendra Selvan, Erik B. Dam, <em>Nicki Skafte Detlefsen</em>, Sofus Rischel, Kaining Sheng, Mads Nielsen, Akshay Pai
 <br>
 In ICML Workshop on Learning from Missing Data (Artemiss) 2020
 <br>
@@ -101,7 +101,7 @@ In ICML Workshop on Learning from Missing Data (Artemiss) 2020
 <td style="width:70%">
 <b> Reliable training and estimation of variance networks </b>
 <br>
-Nicki Skafte Detlefsen, Martin Jørgensen, Søren Hauberg
+<em>Nicki Skafte Detlefsen</em>, Martin Jørgensen, Søren Hauberg
 <br>
 In Advances in Neural Information Processing Systems (Neurips) 2019
 <br>
@@ -120,7 +120,7 @@ In Advances in Neural Information Processing Systems (Neurips) 2019
 <td style="width:70%">
 <b> Explicit Disentanglement of Appearance and Perspective in Generative Models </b>
 <br>
-Nicki Skafte Detlefsen, Søren Hauberg
+<em>Nicki Skafte Detlefsen</em>, Søren Hauberg
 <br>
 In Advances in Neural Information Processing Systems (Neurips) 2019
 <br>
@@ -139,7 +139,7 @@ In Advances in Neural Information Processing Systems (Neurips) 2019
 <td style="width:70%">
 <b> Diffeomorphic Temporal Alignment Nets </b>
 <br>
-Ron Shapira Weber, Matan Eyal, Nicki Skafte Detlefsen, Oren Shriki, Oren Freifeld
+Ron Shapira Weber, Matan Eyal, <em>Nicki Skafte Detlefsen</em>, Oren Shriki, Oren Freifeld
 <br>
 In Advances in Neural Information Processing Systems (Neurips) 2019
 <br>
@@ -160,7 +160,7 @@ In Advances in Neural Information Processing Systems (Neurips) 2019
 <td style="width:70%">
 <b> Deep Diffeomorphic Transformer Networks </b>
 <br>
-Nicki Skafte Detlefsen, Søren Hauberg, Oren Freifeld
+<em>Nicki Skafte Detlefsen</em>, Søren Hauberg, Oren Freifeld
 <br>
 In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2018
 <br>
