@@ -52,18 +52,24 @@ Technical Expertise
 
 Publications
 ======
-  <ul>{% for post in site.pubs-journal-primary reversed %}
+  <ul>
+  
+  {% for post in site.pubs-journal-primary reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
+  
   {% for post in site.pubs_journal_coauth reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
+  
   {% for post in site.pubs_conf_primary reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
+  
   {% for post in site.pubs_conf_coauth reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
+  
 </ul>
   
 Talks
