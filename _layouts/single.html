@@ -31,23 +31,52 @@ layout: default
             <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
         {% if page.modified %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Modified:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
         {% endif %}
         
+        {% if page.authors %}
+			<p><b>{{ page.authors }}</b></p> 
+		{% endif %}
+        
         {% if page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+		  <p><b>{{ page.role }}</b></p>
+          <p> {{ page.type }}, {{ page.when }}, <i>{{ page.venue }}</i> </p>
         {% elsif page.venue and page.date %}
-          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p><i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}.
+		  
+		  {% if page.note %}
+			<i>({{ page.note }})</i>
+          {% endif %}</p>
+          
+          <p>
+          {% if page.acceptance %}
+			<b>{{ page.acceptance }}</b><br>
+          {% endif %}
+          
+          {% if page.rankCORE %}
+			<b>{{ page.rankCORE }}</b>&emsp;&emsp;
+          {% endif %}
+          
+          {% if page.rankSJR %}
+			<b>{{ page.rankSJR }}</b>&emsp;&emsp;
+          {% endif %}
+          
+          {% if page.rankGGS %}
+			<b>{{ page.rankGGS }}</b>
+          {% endif %}
+          </p>
+          
+          
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
         
              
-        {% if page.citation and page.paperurl %}
+        <!--{% if page.citation and page.paperurl %}
           <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
         {% elsif page.citation %}
           <p>Recommended citation: {{ page.citation }} </p>
-        {% endif %}
+        {% endif %}-->
     
         </header>
       {% endunless %}
@@ -56,7 +85,7 @@ layout: default
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
-
+      
       <footer class="page__meta">
         {% if site.data.ui-text[site.locale].meta_label %}
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
@@ -64,7 +93,7 @@ layout: default
         {% include page__taxonomy.html %}
       </footer>
 
-      {% if page.share %}{% include social-share.html %}{% endif %}
+      {% comment %}<!--{% if page.share %}{% include social-share.html %}{% endif %}-->{% endcomment %}
 
       {% include post_pagination.html %}
     </div>

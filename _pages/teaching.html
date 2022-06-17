@@ -7,6 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign writtenYear = 'None' %}
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+{% capture year %}{{ post.when | split: "Academic year: " }}{% endcapture %}
+{% capture year %}{{ year | split: "," | first}}{% endcapture %}
+{% if year != writtenYear %}
+<h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+{% capture writtenYear %}{{ year }}{% endcapture %}
+{% endif %}
+{% include archive-single-teaching.html %}
 {% endfor %}

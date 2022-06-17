@@ -5,6 +5,9 @@
 /*
    Default button
    ========================================================================== */
+.ai-3x {
+  vertical-align: middle;
+}
 
 .btn {
   /* default button */
@@ -150,4 +153,25 @@
   &--small {
     font-size: $type-size-7;
   }
+  &--research {
+  display: inline-block;
+  margin-bottom: 0.25em;
+  padding: 0.25em .5em;
+  color: $info-color;
+  text-align: left;
+  text-decoration: none !important;
+  font-weight: bold;
+  font-size: $type-size-6;
+  border: 1px solid;
+  border-color: $info-color;
+  border-radius: $border-radius;
+  cursor: pointer;
+  width: 10rem;
+
+  &:hover {
+    color: #fff;
+    background-color: $info-color !important;
+  }
 }
+}
+
