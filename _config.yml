@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Seng Pei Liew, Ph.D."
+title                    : "Seng Pei Liew"
 title_separator          : "-"
 name                     : &name "Seng Pei Liew"
 description              : &description "machine learning, physics"
@@ -109,21 +109,21 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "alberto_metelli"
+  twitter          : # "alberto_metelli"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        : 
-  academicpage     : "https://www.deib.polimi.it/eng/people/details/926910"
-  dblp			   : "https://dblp.org/pid/209/4941.html"
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57195947711"
-  semantic-scholar : "https://www.semanticscholar.org/author/24717227"
-  publons		   : "https://publons.com/researcher/3886166/alberto-maria-metelli/"
-  webofscience	   : "https://www.webofscience.com/wos/author/record/16575442"
-  acm			   : "https://dl.acm.org/profile/99659200718"
-  sciprofiles      : "https://sciprofiles.com/profile/albertomaria-metelli"
-  loop             : "https://loop.frontiersin.org/people/1541754/overview"
+  academicpage     : # "https://www.deib.polimi.it/eng/people/details/926910"
+  dblp			   : "https://dblp.org/pid/259/7221.html"
+  scopus           : # "https://www.scopus.com/authid/detail.uri?authorId=57195947711"
+  semantic-scholar : # "https://www.semanticscholar.org/author/24717227"
+  publons		   : # "https://publons.com/researcher/3886166/alberto-maria-metelli/"
+  webofscience	   : # "https://www.webofscience.com/wos/author/record/16575442"
+  acm			   : # "https://dl.acm.org/profile/99659200718"
+  sciprofiles      : # "https://sciprofiles.com/profile/albertomaria-metelli"
+  loop             : # "https://loop.frontiersin.org/people/1541754/overview"
 
 
 # Reading Files
