@@ -237,6 +237,19 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _notes
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: single
+      author_profile: true
+      imagealt: "No alternative text"
+      imageoffset: 0px
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 # Sass/SCSS
 sass:

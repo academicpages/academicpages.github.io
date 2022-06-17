@@ -9,6 +9,7 @@ imageoffset: "61%"
 imagecredit_id: '@hkmtqffr'
 imagecredit_name: 'Hikmat Gafarzada'
 tags:
+  - blog-post
   - fun
   - philosophy
 ---

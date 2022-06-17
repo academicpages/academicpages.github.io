@@ -9,6 +9,7 @@ imageoffset: "30%"
 imagecredit_id: '@genejeter'
 imagecredit_name: 'Gene Jeter'
 tags:
+  - blog-post
   - research
   - tooling
 ---
