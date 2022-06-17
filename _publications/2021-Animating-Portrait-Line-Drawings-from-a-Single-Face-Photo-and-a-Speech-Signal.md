@@ -5,12 +5,13 @@ permalink: /publication/2021-Animating-Portrait-Line-Drawings-from-a-Single-Face
 excerpt: 'abstract'
 date: 2022-08-08
 venue: 'SIGGRAPH'
-
+tags:
+  - Conference Publications
 ---
 
 [Download paper here](http://yongjinliu.github.io/files/2021-Animating-Portrait-Line-Drawings-from-a-Single-Face-Photo-and-a-Speech-Signal.pdf)
 
-
+[Download source code here]()
 
 Abstract: 
 
