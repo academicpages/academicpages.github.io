@@ -42,4 +42,4 @@ author_profile: true
 1.	"SMART bi-lateral pedal module, D Josephine Selvarani Ruth and K. Dhanalakshmi on 28th June 2017 at Chennai Patent Office, which has been allotted the serial No. 201741022616 of 28th June 2017. First examination report submitted in July 2020.
 
 ## Media Posts
-An article on “ Student from NIT-T showcase the innovation at Rastrapathi Bhaven “ for developing vehicular driving support system in which the project focusses on the safety by automatically responding to road threats when the driver is not aware by the use of a smart material, Shape Memory Alloy. Which appeared in Times of India dated 14 April 2015 (City News) and Dinamalar (Tamil newspaper) dated 15 March 2015.       
+1. An article on “ Student from NIT-T showcase the innovation at Rastrapathi Bhaven “ for developing vehicular driving support system in which the project focusses on the safety by automatically responding to road threats when the driver is not aware by the use of a smart material, Shape Memory Alloy. Which appeared in Times of India dated 14 April 2015 (City News) and Dinamalar (Tamil newspaper) dated 15 March 2015.       
