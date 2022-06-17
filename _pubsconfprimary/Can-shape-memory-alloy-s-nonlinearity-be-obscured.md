@@ -1,12 +1,11 @@
 ---
-title: "Can shape memory alloy's nonlinearity be obscured?"
+title: "Intelligent driving assistance system using shape memory alloy as variable impedance actuator"
 collection: publications
-permalink: /publication/Can-shape-memory-alloy-s-nonlinearity-be-obscured
+permalink: /publication/Intelligent-driving-assistance-system-using-shape-memory-alloy-as-variable-impedance-actuator
 excerpt: 
-date: 2017-07-01
-venue: 'Proceedings for the Seventh ISSS International Conference on Smart Materials Structures & Systems (ISSS)'
+date: March 2015
+venue: 'Proceedings of the 22nd International Symposium on Smart Structures and Materials & Nondestructive Evaluation and Health Monitoring SPIE - 15'
 paperurl: 
-citation: 'D. Josephine Selvarani Ruth et. al <sup>1/2</sup>,  "Can shape memory alloy's nonlinearity be obscured?", <i>Proceedings for the Seventh ISSS International Conference on Smart Materials Structures & Systems (ISSS 2017)</i>, July 5-7, 2017, IISc Bangalore.'
+citation: 'D. Josephine Selvarani Ruth et. al <sup>1/2</sup>,  "Intelligent driving assistance system using shape memory alloy as variable impedance actuator", <i>Proceedings of the 22nd International Symposium on Smart Structures and Materials & Nondestructive Evaluation and Health Monitoring SPIE - 15</i>, San Diego, California, 8-12 March 2015.'
 ---
 
-sgfd
