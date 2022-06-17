@@ -1,5 +1,5 @@
 ---
-title: "Can shape memory alloy's nonlinearity be obscured?"
+title: "Can shape memory alloys nonlinearity be obscured"
 collection: publications
 permalink: /publication/Can-shape-memory-alloy-s-nonlinearity-be-obscured
 excerpt: 
