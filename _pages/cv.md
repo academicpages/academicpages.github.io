@@ -11,40 +11,40 @@ redirect_from:
 
 Education and Experience
 ======
-* Working Experience (Aug 2016-Sep 2017)
+* __Working Experience (Aug 2016-Sep 2017)__
 
   Temporary teaching faculty (Aug 2015-Sep 2016), Department of Instrumentation and Control, National Institute of Technology, Tiruchirappalli-620015 Tamil Nadu
   
-* Doctor of Philosophy (Aug 2011-2015)
+* __Doctor of Philosophy (Aug 2011-2015)__
   * Instrumentation and Control Engineering Department,
   * National Institute of Technology, Tiruchirappalli, India
   
-  Thesis topic:  Realization of Shape Memory Alloy wire as a shared sensor and actuator for feedback and haptic control applications under the guidance of Dr. K Dhanalakshmi
+  **Thesis topic:**  Realization of Shape Memory Alloy wire as a shared sensor and actuator for feedback and haptic control applications under the guidance of Dr. K Dhanalakshmi
   
-* Master of Engineering - University First-9.84 (2009-2011)
+* __Master of Engineering - University First-9.84 (2009-2011)__
   * Control and Instrumentation, Electrical and Electronics Engineering,
   * Anna University, Coimbatore, India
   
-  Thesis topic:  Automation of Furnace control system by state flow control under the guidance of Dr.P. Harikrishnan
+  **Thesis topic**:  Automation of Furnace control system by state flow control under the guidance of Dr.P. Harikrishnan
   
-* Bachelor of Engineering - University Tenth-84% (2005-2009)
+* __Bachelor of Engineering - University Tenth-84% (2005-2009)__
   * Instrumentation and Control Engineering Department
   * under Anna University, Chennai  India
 
-  Thesis topic:  Voice Controlled Vehicle  under the guidance of Dr. Muthuraman
+  **Thesis topic**:  Voice Controlled Vehicle  under the guidance of Dr. Muthuraman
 
   
 Technical Expertise
 ======
-* Scientific Application Tools   
+* __Scientific Application Tools__   
 
   Matlab /Simulink, MSC ADAMS/Control, DASYLAB, VRML
   
-* Finite Element Analysis Tools 
+* __Finite Element Analysis Tools__
   
   ABAQUS, COMSOL Multiphysics
   
-* Specific modeling tools
+* __Specific modeling tools__
   * An interactive simulation between 
     * ABAQUS and MATLAB for optimization of sensor and actuator placement
     * MSC ADAMS/CONTROLS and MATLAB for modeling and control of the mechanical system in a closed-loop
@@ -52,25 +52,35 @@ Technical Expertise
 
 Publications
 ======
+## Peer-Reviewed International Journal Publications 
+### As primary author
   <ul>
-  
   {% for post in site.pubs-journal-primary reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
+  </ul>
   
+### Co-authored 
+  <ul>
   {% for post in site.pubs_journal_coauth reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
+  </ul>
   
+## Peer-Reviewed International Conference
+### As primary author
+  <ul>
   {% for post in site.pubs_conf_primary reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
+  </ul>
   
+### Co-authored 
+  <ul>
   {% for post in site.pubs_conf_coauth reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}
+  {% endfor %}</ul>
   
-</ul>
   
 Talks
 ======
@@ -84,6 +94,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Affiliations
+======
+* Member of **_Automatic Control & Dynamic Optimization Society (ACDOS)_**.
+* Member of the **_Institute of Electrical and Electronics Engineers_** (Mem. No: 92699721) 
+* Member of the **_Society of Photo-Optical Instrumentation Engineers_** (Id# 3647164)
+* Member of **_Institute of Smart Structures and Systems_**. 
+
+
 Awards and Achievements
 ======
 * Selected as an INAE Young Engineer Award 2020 and thereby nominated as an INAE Young Associate. 
