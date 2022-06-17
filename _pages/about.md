@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Graphics & Geometric Computing Group | CS, Tsinghua Univ. Yong-Jin Liu"
+title: "Graphics & Geometric Computing Group, CS, Tsinghua Univ. Yong-Jin Liu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
