@@ -13,10 +13,10 @@ To effectively conserve valuable species we need to both identify the environmen
 
 Photos!
 -Cute penguin chick pic or photo of showing sample (Wendy and her faeces)
--Sophie Phytophthora photo coming soon (though not Phytophthora cinnamomi)
-
+<img src="/images/P.Pluvialis.png">
+Phytophthora Sporangia. Credit Sophie Eccersall
 
 Some relevant papers include:
 
 Howell LA, LaRue M, Flanagan SP (2021) Environmental DNA as a tool for monitoring Antarctic vertebrates. New Zealand Journal of Zoology. DOI: 10.1080/03014223.2021.1900299.
-Does Claudia have relevant papers? (Alex?)
+
