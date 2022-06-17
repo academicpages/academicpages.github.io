@@ -1,7 +1,7 @@
 ---
 title: "Learning-Based Model Predictive Control for Improved Mobile Robot Path Following using Gaussian Processes and Feedback Linearization"
 collection: publications
-date: 2021-06-17
+date: 2022-06-17
 venue: 'xxx'
 ---
 
