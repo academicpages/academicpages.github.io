@@ -189,7 +189,7 @@ collections:
   pubs_journal_coauth:
     output: true
     permalink: /:publications/:path/
-  pubsconfprimary:
+  pubs_conf_primary:
     output: true
     permalink: /:collection/:path/
   pubs_conf_coauth:
