@@ -7,7 +7,7 @@ date: 2021-03-10
 venue: 'ICCV'
 tags:
   - Conference Publications
-paperurl: 'http://yongjinliu.github.io/files/2021-A-Confidence-based-Iterative-Solver-of-Depths-and-Surface-Normals-for-Deep-Multi-view-Stereo.pdf'
+paperurl: '[Paper](http://yongjinliu.github.io/files/2021-A-Confidence-based-Iterative-Solver-of-Depths-and-Surface-Normals-for-Deep-Multi-view-Stereo.pdf)'
 citation: 'Wang Zhao, Shaohui Liu, Yi Wei, Hengkai Guo, Yong-Jin Liu*. A Confidence-based Iterative Solver of Depths and Surface Normals for Deep Multi-view Stereo. IEEE International Conference on Computer Vision (ICCV 21), pages 6168-6177, 2021.
 '
 ---
