@@ -33,10 +33,10 @@ with Shawn Saeyeul Park
 
 Publications
 ======
-* ‘A Comparative Study of Transfer Listing from KONEX to KOSDAQ with Other Listing Channels,’ 2022, with Byoungmoon Joe, Hyun-Han Shin and Yun Kyung Kim, Journal of CEO and Management Studies, https://doi.org/10.37674/CEOMS.25.1.12 (in Korean)
+* ‘A Comparative Study of Transfer Listing from KONEX to KOSDAQ with Other Listing Channels,’ 2022, with Byoungmoon Joe, Hyun-Han Shin and Yun Kyung Kim, Journal of CEO and Management Studies, [https://doi.org/10.37674/CEOMS.25.1.12](https://doi.org/10.37674/CEOMS.25.1.12) (in Korean)
 
 * ‘ESG Ratings and Corporate Investment: Evidence from an External Financial Shock Caused by COVID-19 in Korea,’ 2021, with Kyooyoung Kwak. (in Korean)
-  * _2nd Prize Winner, Korea Corporate Governance Service Student Paper Competition_
+  * _2nd Place Winner, Korea Corporate Governance Service Student Paper Competition_ ([Link](http://www.cgs.or.kr/news/press_view.jsp?pp=6&skey=&svalue=&pg=1&no=190))
 
 Research Experience
 ======
@@ -50,7 +50,7 @@ Research Experience
 * Research Assistant, the University of Chicago Booth School of Business (Sept 2021 – Jan 2022)
   * Assisted Professor Anthony Lee Zhang’s research on the relationship between interest rates and Jeonse contracts in South Korea.
   * Performed a literature review of Korean papers dealing with Jeonse contracts.
-  * Link to resulting paper: https://anthonyleezhang.github.io/pdfs/jeonse.pdf
+  * [Link](https://anthonyleezhang.github.io/pdfs/jeonse.pdf) to resulting paper
 
 * Research Assistant, Yonsei University School of Business (Aug 2020 - Sept 2021)
   * Assisted Professor Hyun-Han Shin’s research on the performance of KONEX firms after transferring onto KOSDAQ (IPO underpricing, stock returns, etc.)
