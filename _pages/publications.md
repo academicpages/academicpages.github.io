@@ -15,8 +15,8 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 We develop a novel framework for estimating causal effects in federated data settings. Our method guarantees no negative transfer and adaptively combines information from multiple sites for optimal efficiency in the presence of heterogeneity.
 
 **[Privacy-preserving and Communication-efficient Causal Inference for Hospital Quality Measurement](https://arxiv.org/abs/2203.00768)**.  
+*2022 WNAR Best Oral Student Paper Presentation.*   
 **Han L,** Li Y, Niknam B, Zubizarreta J.  
-*2022 WNAR Best Oral Student Paper Presentation.* 
 We leverage federated multi-hospital data for hospital ranking and quality measurement purposes.
 
 **[On the Evaluation of Surrogate Markers in Real World Data Settings](https://arxiv.org/abs/2104.05513)**.    
