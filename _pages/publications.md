@@ -9,19 +9,21 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 
 ## Statistical Methods
 
-**[Federated Adaptive Causal Estimation (FACE) for Target Treatment Effects](https://arxiv.org/abs/2112.09313)**.  
+**[Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects](https://arxiv.org/abs/2112.09313)**.  
 *2022 ASA Young Investigator Award of the Section on Statistics in Epidemiology.*  
 **Han L,** Hou J, Cho K, Duan R, Cai T.  
 We develop a novel framework for estimating causal effects in federated data settings. Our method guarantees no negative transfer and adaptively combines information from multiple sites for optimal efficiency in the presence of heterogeneity.
+
+**[Privacy-preserving and Communication-efficient Causal Inference for Hospital Quality Measurement](https://arxiv.org/abs/2203.00768)**.  
+**Han L,** Li Y, Niknam B, Zubizarreta J.  
+*2022 WNAR Best Oral Student Paper Presentation.* 
+We leverage federated multi-hospital data for hospital ranking and quality measurement purposes.
 
 **[On the Evaluation of Surrogate Markers in Real World Data Settings](https://arxiv.org/abs/2104.05513)**.    
 *2021 John Van Ryzin Award and ENAR Distinguished Student Paper Award.*    
 **Han L,** Wang X, Cai T.  
 We provide doubly robust estimation and inference for the proportion of treatment effect on a true outcome that is explained by a surrogate marker in observational data settings.
 
-**[Privacy-preserving and Communication-efficient Causal Inference for Hospital Quality Measurement](https://arxiv.org/abs/2203.00768)**.  
-**Han L,** Li Y, Niknam B, Zubizarreta J.  
-We leverage federated multi-hospital data for hospital ranking and quality measurement purposes.
 
 **[Towards Optimal Use of Surrogate Markers to Improve Power](https://onlinelibrary.wiley.com/doi/10.1111/biom.13677)**.  
 Biometrics (2022).  
