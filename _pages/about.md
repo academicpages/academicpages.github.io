@@ -32,6 +32,10 @@ R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020)
 
 # Talks
 
+**The price of unfairness in linear bandits with biased feedback**, May 17th, 2022, workshop "Re-thinking High-dimensional Mathematical Statistics", Mathematisches Forschungsinstitut Oberwolfach, Oberwolfach.
+
+**The price of unfairness in linear bandits with biased feedback**, March 22, 2022, GT Celeste, Laboratoire de Mathématiques, Orsay.
+
 **An Introduction to Continuum-armed Bandits with extension to the finite setting**, Novembre 23rd, 2021, Institut für Mathematik, Potsdam.
 
 **Robust estimation in network with outliers and missing links**, Octobre 21st, MAD-STAT seminar, Toulouse School of Economics.
