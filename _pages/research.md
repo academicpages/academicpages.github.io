@@ -15,9 +15,6 @@ Children of Immigrants in Western Europe: Between Assimilation and Disadvantage]
 <b>[Black-White differences in intergenerational mobility in the US: evidence from heterogeneity in sibling correlation](http://mebucca.github.io/research/bw_sc)</b><br>
 <b>Mauricio Bucca</b>.
 
-<b>[Does skin color affect educational and labor market outcomes in the United States?](http://mebucca.github.io/research/skincolor)</b><br>
-<b>Mauricio Bucca</b>. 
-
 <b>[Educational assortative marriage and income inequality among Black and White families in the US, 1976-2017](http://mebucca.github.io/research/eam_us)</b><br>
 <b>Mauricio Bucca</b>. 
 
