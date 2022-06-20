@@ -38,31 +38,39 @@ redirect_from:
 ## Orientações
 
 #### Pós-graduação
-
-  * Ronaldo Cesar de Paiva
-    * Mestrado
-    * Efeitos ópticos em buracos negros além da relatividade geral
-    
+   
   * Tatiane de Paula Moraes
-    * Mestrado
-    * Ondas gravitacionais em modelos de gravitação massiva
-
+    * Mestrado (concluído)
+    * Analysis of the emission of gravitational waves by compact binaries during
+coalescence
+   
+  * Ronaldo Cesar de Paiva
+    * Mestrado (em andamento)
+    * Perturbações em soluções do tipo buraco negro obtidas por desacoplamento
+gravitacional
+    
+  * Andre Felipe Moraes Luiz Lucchini
+    * Mestrado (em andamento)
+    * Título a definir
+    
+  * Kelvin dos Santos Alves
+    * Mestrado (em andamento)
+    * Título a definir
+   
 #### Graduação
 
+  * Tatiane de Paula Moraes
+    * Iniciação Científica (concluído)
+    * Uma introdução à teoria de ondas gravitacionais
+
   * Andre Felipe Moraes Luiz Lucchini
-    * Iniciação Científica
+    * Iniciação Científica (concluído)
     * Ondas gravitacionais e perturbações de buracos negros
     
   * Kelvin dos Santos Alves
-    * Iniciação Científica
+    * Iniciação Científica (concluído)
     * Aspectos geométricos da física de buracos negros
-    
-#### Concluídas
- 
-  * Tatiane de Paula Moraes
-    * Iniciação Científica
-    * Uma introdução à teoria de ondas gravitacionais
-    
+
   * Lucas Duarte Queiroz 
-    * Iniciação Científica Jr.
+    * Iniciação Científica Jr. (concluído)
     * Aplicação de Espinores no Estudo de Movimentos Sacádicos do Olho Humano
