@@ -1,10 +1,11 @@
 ---
 title: "Black-grass Detection with Deep Neural Networks"
-excerpt: "<img src='/images/blackgrass.jpg'>"
+<!-- excerpt: "<img src='/images/blackgrass.jpg'>" -->
 collection: projects
 ---
 
 ### Introduction
+<img src='/images/blackgrass.jpg'>
 Blackgrass is a native annual grass weed that can be found all over the United Kingdom, but is most widespread in the cereal-growing areas of southern and eastern England. Blackgrass has become a major headache for many farmers due to its prevalence over autumn-sown arable crops and herbicide resistance. 
 The aim of the project is to develop a computer vision-based weed detection system that can reliably detect blackgrass in cereal crops. 
 
