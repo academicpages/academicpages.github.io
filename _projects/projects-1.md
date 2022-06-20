@@ -1,6 +1,6 @@
 ---
 title: "Blackgrass Detection with Deep Neural Networks"
-excerpt: "This project was carried out under [Ceres](https://www.ceresagritech.org/projects/autonomous-black-grass-detection/) funding. We met the final milestone of the project, in which our model trained with a novel dataset achieved more than 80% accuracy in blackgrass detection."
+excerpt: "This project was carried out under [Ceres](https://www.ceresagritech.org/projects/autonomous-black-grass-detection/) funding. We met the final milestone of the project, in which our model trained with a novel dataset achieved more than 80% accuracy in blackgrass detection.<br/>"
 
 collection: projects
 ---
