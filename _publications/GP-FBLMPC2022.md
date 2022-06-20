@@ -5,7 +5,7 @@ date: 2022-06-17
 venue: 'xxx'
 ---
 
-Submitted to Journal of Field Robotics on June 17, 2022. Manuscript # .
+Submitted to Journal of Field Robotics on June 17, 2022. Manuscript # ROB-22-0150.
 ## The submitted paper is available upon request. ##
 
 [[Videos]](https://youtu.be/tC09jJQ0OXM)
