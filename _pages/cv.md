@@ -60,11 +60,12 @@ Research Experience
 Teaching Experience
 =====
 * _The University of Chicago_
-  * Teaching Assistant, Finance and Machine Learning, UChicago Summer Pre-College (Summer 2022)
+  * Teaching Assistant, STAT13820 Data Science in Quantitative Finance and Risk Management, UChicago Summer Session High School Program (Summer 2022)
 
 * _Yonsei University_
-  * Teaching Assistant, Financial Management, Global MBA (Spring 2021)
-  * Teaching Assistant, Financial Management, Undergraduate (Fall 2020)
+  * Teaching Assistant, MBG6304 Financial Management, Global MBA (Spring 2021)
+  * Teaching Assistant, MBF6214 Corporate Finance, Financial MBA (Fall 2020)
+  * Teaching Assistant, BIZ2119 Financial Management, Undergraduate (Fall 2020)
   * Residential and Teaching Assistant, Residential College Self-Directed Activity, Undergraduate (Fall 2015, Spring 2015)
 
 [PDF Version](https://github.com/ericsclee/ericsclee.github.io/blob/master/files/CV%20(overleaf).pdf)
