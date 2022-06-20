@@ -22,9 +22,9 @@ Bibliografia
 ======
 1. Camargo, I. de, Boulos, P., Geometria Analítica: um tratamento vetorial, 3a Edição, Pearson, 2005.
 1. Lima, E. L., Geometria Analítica e Álgebra Linear, Coleção Matemática Universitária, IMPA, 2010.
+1. Santos, R. J., Matrizes, Vetores e Geometria Analítica, Imprensa Universitária da UFMG, 2013.
 1. Santos, N. M dos, Vetores e Matrizes, Elementos de Matemática, IMPA, 1972.
 1. Steinbruch, A., Winterle, P., Geometria Analítica, Pearson, 1995.
-1. 
 
 Plano de Curso
 ======
