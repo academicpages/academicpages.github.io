@@ -66,6 +66,6 @@ Teaching Experience
   * Teaching Assistant, MBG6304 Financial Management, Global MBA (Spring 2021)
   * Teaching Assistant, MBF6214 Corporate Finance, Financial MBA (Fall 2020)
   * Teaching Assistant, BIZ2119 Financial Management, Undergraduate (Fall 2020)
-  * Residential and Teaching Assistant, Residential College Self-Directed Activity, Undergraduate (Fall 2015, Spring 2015)
+  * Residential and Teaching Assistant, UCR1013 Residential College Self-Directed Activity, Undergraduate (Fall 2015, Spring 2015)
 
 [PDF Version](https://github.com/ericsclee/ericsclee.github.io/blob/master/files/CV%20(overleaf).pdf)
