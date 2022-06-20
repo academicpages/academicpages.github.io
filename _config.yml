@@ -188,7 +188,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   projects:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 
