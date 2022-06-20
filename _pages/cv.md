@@ -37,7 +37,7 @@ redirect_from:
 
 ## Orientações
 
-#### Pós-graduação
+**Pós-graduação**
    
   * Tatiane de Paula Moraes
     * Mestrado (concluído)
@@ -57,7 +57,7 @@ gravitacional
     * Mestrado (em andamento)
     * Título a definir
    
-#### Graduação
+**Graduação**
 
   * Tatiane de Paula Moraes
     * Iniciação Científica (concluído)
