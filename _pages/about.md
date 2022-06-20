@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Associate in the ECE Department at the University of Waterloo. We seek to combine the high-performance merits of data-driven approaches with the theoretical guarantees of stability and safety benefits of classical model-based control methods effectively and efficiently. Prior to joining the University of Waterloo, I was a Postdoctoral Fellow in the ECE Department at Queen’s University. I proposed a high-performance path following algorithm that combines Gaussian Processes (GP) and Feedback Linearization (FBL) with Model Predictive Control (FBLMPC) for ground mobile robots operating in off-road terrains, referred to as [GP-FBLMPC](http://jiewang.name/publications/GP-FBLMPC2021/). 
+I am a Research Associate in the ECE Department at the University of Waterloo. We seek to combine the high-performance merits of data-driven approaches with the theoretical guarantees of stability and safety benefits of classical model-based control methods effectively and efficiently. Prior to joining the University of Waterloo, I was a Postdoctoral Fellow in the ECE Department at Queen’s University. I proposed a high-performance path following algorithm that combines Gaussian Processes (GP) and Feedback Linearization (FBL) with Model Predictive Control (FBLMPC) for ground mobile robots operating in off-road terrains, referred to as [GP-FBLMPC](http://jiewang.name/publications/GP-FBLMPC2022/). 
 
 I received my PhD degree in Mechanical Engineering, specializing in robotics control, from the University of Calgary, Canada. The research focused on locomotion mode selection and motion planning of a leg-tracked [quadrupedal robot](http://jiewang.name/publications/arXiv2019/). After that, I worked as a Postdoc Fellow at the University of Calgary. I developed and implemented perception solutions for micro aerial vehicles including [visual SLAM](http://jiewang.name/publications/slam2019) and CNN-based multi-object detection and [tracking](http://jiewang.name/publications/rsmdpi2019). 
 
@@ -16,7 +16,7 @@ I received my PhD degree in Mechanical Engineering, specializing in robotics con
 
 **Recent News:**
 
-[Jun. 17, 2022](http://jiewang.name/publications/GP-FBLMPC2022/): Submitted our GP-FBLMPC algorithm [Paper](http://jiewang.name/publications/GP-FBLMPC2021/) to Journal of Field Robotics with a supplementary [video](https://www.youtube.com/watch?v=tC09jJQ0OXM). 
+[Jun. 17, 2022](http://jiewang.name/publications/GP-FBLMPC2022/): Submitted our GP-FBLMPC algorithm [Paper](http://jiewang.name/publications/GP-FBLMPC2022/) to Journal of Field Robotics with a supplementary [video](https://www.youtube.com/watch?v=tC09jJQ0OXM). 
 
 [Nov. 11, 2021](http://jiewang.name/publications/simulator2021/): A quantitative comparison of CoppeliaSim, Gazebo, MORSE, and Webots robot simulator [Paper](http://jiewang.name/publications/simulator2021/) was submitted. 
 
