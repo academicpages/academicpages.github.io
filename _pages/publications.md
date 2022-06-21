@@ -28,5 +28,5 @@ author_profile: true
 
 **Measuring Human Rights Shaming Intensity as a Multifaceted Interval Variable**
 
-  _Contact for the current status, 2022_
+  _Accepted to Present at 2023 ISA_
 
