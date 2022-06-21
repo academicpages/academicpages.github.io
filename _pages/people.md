@@ -510,7 +510,7 @@ redirect_from:
 <div class="students">
     <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_name">CHEN Weiwen 陈伟文</a></div>
+      <div class="member_name">CHEN Weiwen 陈伟文</div>
       <div class="member_intro" >2022，字节</div>
     </div>
   </div>
