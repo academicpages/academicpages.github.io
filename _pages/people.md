@@ -86,7 +86,7 @@ redirect_from:
     <div class="member_item col">
       <div class="member_pic_wrapper">
         <div class="member_pic" id="wangxiangfeng"></div>
-        <div class="member_name"><a href="https://mail-ecnu.cn/people/xfwang">WANG Xiangfeng 王祥丰</a> </div>
+        <div class="member_name"><a href="https://xfwang87.github.io/">WANG Xiangfeng 王祥丰</a> </div>
         <div class="member_pos">Associate Professor 副教授 </div>
         <div class="member_intro">Distributed Optimization, Multi-agent Learning, Trustworthy ML</div>
       </div>
@@ -411,27 +411,6 @@ redirect_from:
 <div class="students">
   <div class="member_item" >
     <div class="member_pic_wrapper" >
-      <div class="member_pic" id="chengweiwen"></div>
-      <div class="member_name"><a href="https://cww97.cn/">CHEN Weiwen 陈伟文</a></div>
-      <div class="member_intro" >强化学习与机器人</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="chenhongjun"></div>
-      <div class="member_name">CHEN Hongjun 陈宏俊</div>
-      <div class="member_intro" >群体路径规划</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="wutingyu"></div>
-      <div class="member_name">WU Tingyu 吴婷钰</div>
-      <div class="member_intro" >大规模MARL</div>
-    </div>
-  </div>
-  <div class="member_item" >
-    <div class="member_pic_wrapper" >
       <div class="member_pic" id="gaoshang"></div>
       <div class="member_name" ><a href="https://github.com/Felix2048">GAO Shang 高尚</a></div>
       <div class="member_intro" >视频结构化理解</div>
@@ -529,6 +508,24 @@ redirect_from:
 
 # Alumni
 <div class="students">
+    <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name">CHEN Weiwen 陈伟文</a></div>
+      <div class="member_intro" >2022，字节</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name">CHEN Hongjun 陈宏俊</div>
+      <div class="member_intro" >2022，深圳市大数据研究院</div>
+    </div>
+  </div>
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_name">WU Tingyu 吴婷钰</div>
+      <div class="member_intro" >2022，无锡移动</div>
+    </div>
+  </div>
   <div class="member_item" >
     <div class="member_pic_wrapper" >
       <div class="member_name" >WANG Wei 王伟</div>
