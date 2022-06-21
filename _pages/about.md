@@ -17,6 +17,8 @@ We invite graduate students and faculty from Political Science and Economics wit
 
 *News:* 
 
+- "Less Stress, More Confidence": Supporting Junior Scholars Online at the Graduate Student International Political Economy Workshop
+
 - We welcome our [new team](https://gsipe-workshop.github.io/team/) for GSIPE, starting June 1st.
 
 - We are excited to announce a call for submissions for the **GSIPE workshops for Fall 2022**. The deadline for submissions is July 31st, at 11:59pm Eastern Time. More information [here](https://gsipe-workshop.github.io/call-papers/).
