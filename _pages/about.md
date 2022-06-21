@@ -17,7 +17,7 @@ We invite graduate students and faculty from Political Science and Economics wit
 
 *News:* 
 
-- The past, present, and future about GSIPE: ["Less Stress, More Confidence": Supporting Junior Scholars Online at the Graduate Student International Political Economy Workshop](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/less-stress-more-confidence-supporting-junior-scholars-online-at-the-graduate-student-international-political-economy-workshop/A175F2AE8EC397F9EE967623D48B9BD5) by [Alexander Kirss](https://www.alexanderkirss.com/), [Paul Ilhak Ko](https://sites.google.com/view/paulko/home), and [Cleo O'Brien-Udry](https://cobrienudry.github.io/) is published in *PS: Political Science & Politics*.
+- The past, present, and future about GSIPE: ["Less Stress, More Confidence": Supporting Junior Scholars Online at the Graduate Student International Political Economy Workshop](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/less-stress-more-confidence-supporting-junior-scholars-online-at-the-graduate-student-international-political-economy-workshop/A175F2AE8EC397F9EE967623D48B9BD5) by our founders [Alexander Kirss](https://www.alexanderkirss.com/), [Paul Ilhak Ko](https://sites.google.com/view/paulko/home), and [Cleo O'Brien-Udry](https://cobrienudry.github.io/) is published in *PS: Political Science & Politics*.
 
 - We welcome our [new team](https://gsipe-workshop.github.io/team/) for GSIPE, starting June 1st.
 
