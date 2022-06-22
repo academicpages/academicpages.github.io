@@ -1,8 +1,7 @@
 ---
-title: Encoder-decoder models
 date: 2022-06-22
 tags:
-  - zettel
+  - stream
 ---
 
 Encoder decoder is a deep neural network architecture that consists of 2 components:

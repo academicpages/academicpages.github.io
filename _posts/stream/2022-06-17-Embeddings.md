@@ -2,7 +2,7 @@
 title: "Neural Network Embeddings"
 date: 2022-06-17
 tags:
-  - zettel
+  - stream
 ---
 
 
