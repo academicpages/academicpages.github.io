@@ -2,11 +2,8 @@
 title: "Neural Network Embeddings"
 date: 2022-06-17
 tags:
-  - stream
+  - zettel
 ---
-
-
-# Table of Contents
 
 
 Embeddings are used to map high-dimensional data to low-dimensional floating-point representation. This may improve the performance because it improves the representation of the input given to the model.
