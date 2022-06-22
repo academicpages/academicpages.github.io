@@ -1,9 +1,8 @@
 ---
 title: "Neural Network Embeddings"
-date: 
-layout: post
-categories: 
-tags: 
+date: 2022-06-17
+tags:
+  - zettel
 ---
 
 
