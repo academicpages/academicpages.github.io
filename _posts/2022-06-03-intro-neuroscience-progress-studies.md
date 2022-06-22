@@ -5,11 +5,11 @@ permalink: /posts/2022/06/intro-neuroscience-progress-studies/
 tags:
   - q-bio.nc
   - q-bio
-  - reversing-the-brain
+  - quantifying-neuroscience
   - progress-studies
   - neuroscience
 ---
-
+**Update** This project is now a collaboration with [Kevin Kermani Nejad](https://bristolcnu.github.io/people/RPC_kevin_nejad/index.html).
 ## 1. Introduction
 Understanding the human brain - to the point of being able to reproduce its abilities, as one could design and build a plane or chair - is hopefully a finite problem for civilization. I think that many aspects of that problem (see section 2 for my attempt at enumeration) can be quantified. Similarly, performance and progress of associated experimental methods can often be quantified and predicted, leading to equivalents of Moore's law famous from computing.
 
@@ -78,7 +78,7 @@ I estimate that one can get there based on interviews with about 2-3 experts per
 
 I hope to have a partial report in 2.5 months, based on which I can hold a talk.
 ## 6. Acknowledgments
-So far, thanks in particular to [Milan Cvitkovic](https://milan.cvitkovic.net/about/), Birses Debir, [Kynan Eng](https://www.kynaneng.com/), [Jonathan Karr](https://www.karrlab.org/people/karr/cv), [Kevin Kermani Nejad](https://bristolcnu.github.io/people/RPC_kevin_nejad/index.html) and Lucia Purcaru for helpful feedback, discussions and references on the subject and draft. 
+So far, thanks in particular to [Milan Cvitkovic](https://milan.cvitkovic.net/about/), Birses Debir, [Kynan Eng](https://www.kynaneng.com/), [Jonathan Karr](https://www.karrlab.org/people/karr/cv) and Lucia Purcaru for helpful feedback, discussions and references on the subject and draft. 
 ## 7. Footnotes
 [^1]: See [this website](https://www.wholecell.org/), and the [list of models](https://www.wholecell.org/models/) therein, for more information - although it doesn't seem to have been updated since 2018.
 
