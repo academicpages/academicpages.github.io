@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my page! 
 
-I am a Ph.D. student in Economics at **MIT**. My research interests lie in **public, labor, and organizational economics**, fields that I explore in the context of **lower-income countries**. I have been involved in research projects in Côte d'Ivoire, Ethiopia, Senegal, and Togo.
+I am a Ph.D. student in the Department of Economics at the Massachusetts Institute of Technology (**MIT**). My research interests lie in **public, labor, and organizational economics**, fields that I explore in the context of **lower-income countries**. I have been involved in research projects in Côte d'Ivoire, Ethiopia, Senegal, and Togo.
 
 If you're interested in talking about my work, or yours, get in touch!
 
