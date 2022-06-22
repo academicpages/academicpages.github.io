@@ -6,12 +6,17 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+This is my stream of consciousness, in which I make available useful notes and thoughts I have which didn't quick make it into blog format.
+
 {% capture written_year %}'None'{% endcapture %}
 {% for post in site.posts %}
+{% if post.tags contains "stream" %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
   {% include archive-single.html %}
+{% endif %}
 {% endfor %}

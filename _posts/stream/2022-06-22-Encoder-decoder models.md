@@ -1,4 +1,5 @@
 ---
+title: Encoder-decoder models
 date: 2022-06-22
 tags:
   - stream
