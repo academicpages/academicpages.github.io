@@ -11,10 +11,12 @@ To conserve endemic species in Aotearoa, we can utilise the field of population 
 
 Understanding causations factors such as disease is important for conserving the species they affect. The flanagan lab is currently focused on diet and disease as agents of decline. In collaboration with Mana Whenua, Pohatu Penguins and the LaRue and ConSERT labs we are utilizing long-read nanopore sequencing to assess the diet of the Pohatu population of kororā as a potential driver of local population decline. Using non-invasive fecal and molt feather samples to develop a baseline understanding of local diet, this project aims to facilitate community engagement in genetic sampling of local populations. Collaboration with the Banks Peninsula community will be further supported through the development of remote sequencing using the portable MinION device (Oxford nanopore technologies). In addition to diet in kororā populations, the Flanagan lab is interested in the coevolution of invasive diseases, specifically Phytophthora, and the vegetation they impact. In collaboration with Claudia Meisrimler, we are looking at Phytophthora cinnamomi, which causes dieback non-discriminantly across endemic and economically important flora and is a close relative to P. agathidicida; the source of Kauri dieback. Improving our understanding of the P. cinnamoni genome and how it co-evolves with valuable vegetation will allow for better informed management and conservation programmes aimed at tackling dieback diseases.
 
-Photos!
--Cute penguin chick pic or photo of showing sample (Wendy and her faeces)
+<img src="/images/E_minor_albosignata_chick.JPG">
+White flippered kororā chick in a nest box at Pohatu.
+
 <img src="/images/P.Pluvialis.png">
-Phytophthora Sporangia. Credit Sophie Eccersall
+Phytophthora Pluvialis. Credit Sophie Eccersall
+
 
 Some relevant papers include:
 
