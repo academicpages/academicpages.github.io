@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Ethan Landers"
-  avatar           : "https://github.com/ethanlanders/ethanlanders.github.io/blob/master/images/IMG_7993.jpg"
+  avatar           : "IMG_7993.jpg"
   bio              : "ODU Undergraduate Computer Science Student"
   location         : #"Location"
-  employer         :
+  employer         : "Old Dominion University"
   pubmed           : 
   googlescholar    : 
   email            : "eland007@odu.edu"
