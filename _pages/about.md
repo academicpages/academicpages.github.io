@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Chen, a Postdoctoral scholar in Mechanical Engineering at UC Berkeley. I am a member of the [Mechanical Systems Control Lab](https://msc.berkeley.edu) supervised by [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/). Prior to this, I obtained my PhD in Mechanical Engineering at UC Berkeley, and my bachelor degree in Mechanical Engineering from Hong Kong University of Science and Technology (HKUST). During my study in Berkeley, I have also spent time in [Honda Research Institute](http://usa.honda-ri.com) and [Waymo](https://waymo.com) as intern.
+Hi! I'm Chen, a Postdoctoral scholar in Mechanical Engineering at UC Berkeley. I am a member of the [Mechanical Systems Control Lab](https://msc.berkeley.edu) supervised by [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/). Prior to this, I obtained my PhD in Mechanical Engineering at UC Berkeley, and my bachelor degree in Mechanical Engineering from Hong Kong University of Science and Technology (HKUST). I have also spent time in [Honda Research Institute](http://usa.honda-ri.com) and [Waymo](https://waymo.com) as intern.
 
 The goal of my research is to develop trustworthy and safe intelligent autonomous systems interacting with humans (e.g., autonomous vehicles). I am interested in improving the transparency and robustness of learning-based autonomous systems, by incorporating domain knowledge and other techniques (e.g., model-based control, explainable AI) with deep learning models in a principled manner. Applications of my research include multi-agent trajectory prediction, interaction modeling, motion planning, and vehicle control. 
 
