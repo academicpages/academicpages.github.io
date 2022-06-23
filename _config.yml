@@ -83,7 +83,7 @@ author:
   name             : "Ethan Landers"
   avatar           : "IMG_7993"
   bio              : "Undergraduate Computer Science Student"
-  location         : "Location"
+  location         : #"Location"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -106,7 +106,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "ethanlanders_"
