@@ -22,7 +22,7 @@ News
 - 09/2021: [One paper](https://https://proceedings.neurips.cc/paper/2021/hash/47951a40efc0d2f7da8ff1ecbfde80f4-Abstract.html) on behavior prediction is accepted by NeurIPS 2021. 
 - 09/2021: [One paper](https://openreview.net/forum?id=ftOqDUeLPn3) on conservative offline RL is accepted by CoRL 2021.
 - 05/2021: Associate editor of IEEE Intelligent Transportation Systems Conference 2021.
-- 05/2021: Co-organizing [IROS MAIR2 Workshop on Multi-Agent Interaction and Relational Reasoning](https://iros.mair2.com)
+- 05/2021: Co-organizing [IROS MAIR2 Workshop on Multi-Agent Interaction and Relational Reasoning](https://iros.mair2.com).
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=242&t=tt&d=Q1yW8jptJkglt9B8P4pPlsyIvxsBTzAGl1DZEEGoTq0"></script>
 
