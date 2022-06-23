@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-
 I am an rising junior computer science undergraduate student at Old Dominion University.  I have been apart of a project called NASA@MyLibrary where I educate library audiences about STEM.  For the summer of 2022, I was accepted into a Research Experience for Undergraduate (REU) program at ODU where I research disinformation detection and analytics full time.  
 
 ODU CS REU Summer 2022
@@ -18,7 +16,7 @@ Like many other Jekyll-based GitHub Pages templates, academicpages makes you sep
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+NASA@MyLibrary
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
