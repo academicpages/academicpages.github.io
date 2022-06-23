@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ethan Landers / Academic Portfolio"
+title                    : "Ethan Landers @ ODU"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
