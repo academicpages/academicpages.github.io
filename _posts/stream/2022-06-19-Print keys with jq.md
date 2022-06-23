@@ -1,15 +1,16 @@
 ---
-title: Print item keys with jq
 date: 2022-06-19
 tags:
-  - stream
+- stream
+title: Print item keys with jq
 ---
 
-I sometimes want to know the names of the keys on the objects in a dataset stored in JSON format, but if the JSON file is very large, it can be slow+consume lots of memory to read the whole with e.g. Python. I can use `jq` to do that quickly:
-
+I can use `jq` to print the keys in an array of JSON objects quickly.
 ```bash
 jq '.[0] | keys[]' $filename
 ```
+
+I sometimes want to know the names of the keys on the objects in a dataset stored in JSON format, but if the JSON file is very large, it can be slow+consume lots of memory to read the whole with e.g. Python.
 
 For example, when I download a dataset in the following format:
 
