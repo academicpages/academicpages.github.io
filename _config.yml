@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ethan Landers"
-  avatar           : "IMG_7993.jpg"
+  avatar           : "images/IMG_7993.jpg"
   bio              : "Undergraduate Computer Science Student"
   location         : #"Location"
   employer         :
