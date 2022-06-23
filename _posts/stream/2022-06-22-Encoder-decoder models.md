@@ -2,7 +2,7 @@
 date: 2022-06-22
 tags:
 - stream
-title: Encoder-decoder models.md
+title: Encoder-decoder models
 ---
 
 Encoder decoder is a deep neural network architecture that consists of 2 components:
