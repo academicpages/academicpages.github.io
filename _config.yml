@@ -83,8 +83,8 @@ author:
   name             : "Ethan Landers"
   avatar           : "IMG_7993.jpg"
   bio              : "ODU Undergraduate Computer Science Student"
-  location         : #"Location"
-  employer         : "Old Dominion University"
+  location         : "Old Dominion University"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "eland007@odu.edu"
