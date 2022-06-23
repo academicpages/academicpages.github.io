@@ -17,10 +17,10 @@ For more information, please refer to my [CV](https://ChenTangMark.github.io/fil
 
 News 
 ======
-- 06/2022: [One paper](https://arxiv.org/abs/2205.11790) is accepted by RA-L.
+- 06/2022: [One paper](https://arxiv.org/abs/2205.11790) on hierarchical offline RL is accepted by RA-L.
 - 05/2022: Associate editor of IEEE Intelligent Transportation Systems Conference 2022.
-- 09/2021: [One paper](https://https://proceedings.neurips.cc/paper/2021/hash/47951a40efc0d2f7da8ff1ecbfde80f4-Abstract.html) is accepted by NeurIPS 2021. 
-- 09/2021: [One paper](https://openreview.net/forum?id=ftOqDUeLPn3) is accepted by CoRL 2021.
+- 09/2021: [One paper](https://https://proceedings.neurips.cc/paper/2021/hash/47951a40efc0d2f7da8ff1ecbfde80f4-Abstract.html) on behavior prediction is accepted by NeurIPS 2021. 
+- 09/2021: [One paper](https://openreview.net/forum?id=ftOqDUeLPn3) on conservative offline RL is accepted by CoRL 2021.
 - 05/2021: Associate editor of IEEE Intelligent Transportation Systems Conference 2021.
 - 05/2021: Co-organizing [IROS MAIR2 Workshop on Multi-Agent Interaction and Relational Reasoning](https://iros.mair2.com)
 
