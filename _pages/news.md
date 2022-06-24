@@ -7,7 +7,7 @@ Have a job you would like to share? Email us at landdacommunity@gmail.com!
 
 ### Jobs
 
-[Research Scientist Position in GEOS model development to understand High Mountain Asia Forecast Models at Goddard Space and Flight center, Greenbelt, Maryland] (https://gestar2.umbc.edu/jobs-at-gestar-ii/research-scientist-position-in-geos-model-development-to-understand-high-mountain-asia-forecast-models/) Application deadline: Rolling
+<a href="[url](https://gestar2.umbc.edu/jobs-at-gestar-ii/research-scientist-position-in-geos-model-development-to-understand-high-mountain-asia-forecast-models/)" target="_blank">Research Scientist Position in GEOS model development to understand High Mountain Asia Forecast Models at Goddard Space and Flight center, Greenbelt, Maryland</a> Application deadline: Rolling
 
 [Postdoctoral Scholar – Hydrology, Remote Sensing and Data Assimilation at the University of California, Berkeley, USA](https://aimesproject.org/wp-content/uploads/2022/06/Postdoctoral-Scholar-THP-2022.docx) Application deadline: Rolling
 
