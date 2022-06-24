@@ -16,4 +16,4 @@ For this program, I work alongside a PhD professor and graduate assistants on a 
 
 NASA@MyLibrary
 ======
-
+NASA@MyLibrary is an initiative to provide STEM learning opportunities for 60 libraries across the United States.  I was tasked to create an educational program, and what I created relates to the James Webb Space Telescope and coding in Python.  I had to coordinate with library hosts to create a joint ZOOM library program to educate audiences on these topics.
