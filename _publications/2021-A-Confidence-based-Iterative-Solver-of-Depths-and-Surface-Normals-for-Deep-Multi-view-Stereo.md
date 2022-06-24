@@ -20,5 +20,7 @@ Abstract: In this paper, we introduce a deep multi-view stereo (MVS) system that
 
 [Download source code here](https://github.com/thuzhaowang/idn-solver)
 
+[More information](https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_A_Confidence-Based_Iterative_Solver_of_Depths_and_Surface_Normals_for_ICCV_2021_paper.html)
+
 Recommended citation: Wang Zhao, Shaohui Liu, Yi Wei, Hengkai Guo, **Yong-Jin Liu***. A Confidence-based Iterative Solver of Depths and Surface Normals for Deep Multi-view Stereo. IEEE International Conference on Computer Vision (ICCV 21), pages 6168-6177, 2021.
 
