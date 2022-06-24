@@ -36,8 +36,8 @@ author_profile: true
 
 ## Conference Proceedings   
 
-
-+ **Sun, Y.**, Tang, J., Butler, A., Liu, C., Fang, Y. and Weng, C., "Interactive Similarity-Based Search of Clinical Trials". In **_International Medical Informatics Conference 2021 (MEDINFO 2021)_**, 2021. [pdf](https://yingchengsun.github.io/academic/files/TrialMatcher.pdf)   
++ Idnay, B., Fang, Y., **Sun, Y.**, Liu, H., Chen, Z., Schnall R. and Weng, C., "Criteria2Query: Combining Machine Efficiency and Human Intelligence to Define More Accurate and Feasible Clinical Research Cohorts" **_International Conference on Artificial Intelligence in Medicine(AIME 2022)_**, 2022   
++ **Sun, Y.**, Tang, J., Butler, A., Liu, C., Fang, Y. and Weng, C., "Interactive Similarity-Based Search of Clinical Trials", 290, pp.309-313. In **_International Medical Informatics Conference 2021 (MEDINFO 2021)_**, 2021. [pdf](https://yingchengsun.github.io/academic/files/TrialMatcher.pdf)   
 
 + Fang, Y., Kim, J., Idnay, B., Garcia, B., Castillo, C., **Sun, Y.**, Liu, H., Liu, C., Yuan, C., Weng C., "Participatory Design of a Clinical Trial Eligibility Criteria Simplification Method" In **_31st Medical Informatics Europe Conference (MIE 2021)_**, 2021
 
