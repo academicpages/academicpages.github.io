@@ -9,51 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
+[Download the full cv here](http://Jieyusz.github.io/files/zheng_cv.pdf)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Doctor of Philosophy in Neurobiology, California Institute of Technology, Expected in 2026
+* Master of Philosophy in Psychology and Education, University of Cambridge, 2019
+* Bachelor of Science in Biological Engineering, Cornell University, 2018
+* Bachelor of Engineering in Food Science and Engineering, Shanghai Jiao Tong University (SJTU),  2018
 
-Work experience
+Research experiences
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mice in Manhattan: efficient exploration and automated theory testing in a rapidly reconfigurable maze
+  * Dec. 2021 - Present
+  * Supervisor: Markus Meister, Biaggini Professor of Biological Sciences, Caltech
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mesolimbic Dopamine Signaling and Cognitive Flexibility
+  * Sep. 2019 - Feb. 2020
+  * Supervisor: Trevor Robbins, Professor of Cognitive Neuroscience, University of Cambridge
+
+* High Fat Diet and Alzheimer’s Disease-related Pathology
+  * Oct. 2016 - May 2018
+  * Supervisor: Chris Schaffer, Associate Professor of Meinig School of Biomedical Engineering, Cornell University
+
+* Ex vivo Imaging of Drosophila Olfactory System Development
+  * May - Aug. 2017
+  * Supervisor: Liqun Luo, Professor of Biology, Investigator of Howard Hughes Medical Institute, Stanford University
+
+* Functions of CXCL12 during Recovery from Ischemic Strokes in Mice
+  * Jan. - Oct. 2015
+  * Supervisor: Yongting Wang, Professor of Med-X Neuroscience and Engineering Centre, SJTU
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
