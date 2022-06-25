@@ -10,7 +10,7 @@ redirect_from:
 
 I am a 21 years old student fresh graduate with a Bachelor in Economics and Computer Science. Since September 2021 I am attending a MS in Data Science. I decided to do this experiment since I like coding and found an easy template to develop a simple page. You can find more information on my Github page, at the link on the left panel (follow button if you are using your phone). The repo is named after this website. <br>
 
-- 🛠 I’m working at [Santagostino Clinic](https://www.santagostino.it/it)
+- 🛠 I’m a visiting student at [BIDSA](https://bidsa.unibocconi.eu/), under the supervision of Professor Lucibello C. and Saglietti L.
 
 - 🌱 I’m currently learning **Machine Learning, Statistics, Mathematics**
 
