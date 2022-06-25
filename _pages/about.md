@@ -45,7 +45,7 @@ Publications
 
 Awards
 ======
-* 2020, Pollyanna Chu Yuet Wah Scholarship for Outstanding PhD Student, University of Chinese Academy of Sciences (UCAS)
+* 2020, Pollyanna Chu Scholarship for Outstanding PhD Student, University of Chinese Academy of Sciences (UCAS)
 * 2020, Pacemaker to Merit Student, CASIA
 * 2019, "Climbing" Second-Class Scholarship, CASIA
 * 2019, AAAI Student Scholarship, AAAI
