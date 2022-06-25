@@ -1,0 +1,17 @@
+If you use this code, please cite the following papers:
+
+Chun-Xu Xu, Yong-Jin Liu, Qian Sun, Jinyan Li, Ying He.
+Polyline-sourced geodesic Voronoi diagrams on triangle meshes.
+Computer Graphics Forum (special issue of Pacific Graphics 2014), Vol. 33, No. 7, 2014.
+
+Yong-Jin Liu (2013) 
+Exact geodesic metric in 2-manifold triangle meshes using edge-based data structures. 
+Computer-Aided Design, Vol. 45, No. 3, pp. 695-704, 2013. 
+
+Yong-Jin Liu, Kai Tang (2013) 
+The Complexity of Geodesic Voronoi Diagrams on Triangulated 2-Manifold Surfaces. 
+Information Processing Letters, Vol. 113, No. 4, pp. 132-136, 2013.
+
+Yong-Jin Liu, Zhan-Qing Chen, Kai Tang (2011) 
+Construction of iso-contours, bisectors and Voronoi diagrams on triangulated surfaces. 
+IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 33, No. 8, pp.1502-1517, 2011.

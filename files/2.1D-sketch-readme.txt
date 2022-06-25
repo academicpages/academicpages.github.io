@@ -1,0 +1,28 @@
+If you use this code, please cite the following paper:
+-------------------------------------------
+Cheng-Chi Yu, Yong-Jin Liu, Matt Tianfu Wu, Kai-Yun Li, Xiaolan Fu. 
+A global energy optimization framework for 2.1D sketch extraction from monocular images. 
+Graphical Models, Vol. 76, No. 5, pp. 507-521, 2014.
+-------------------------------------------
+
+
+Follow these steps to run our algorithm on Windows systems:
+
+
+[ Tested on Windows 7 with matlab-R2010]
+
+
+a. We assume that you have matlab installed successfully. 
+
+b. Open matlab and run demo.m to have an overview of our algorithm. 
+Run main.m if you'd like to gain results on the whole 2.1D sketch dataset. 
+
+c. If you run demo.m, you can see qualitative results and qualitative reslusts 
+in ./demo/results/function_energy, ./demo/results/qualitative_results and 
+./demo/results/quantitative_results.xlsx. 
+If you run main.m, you can see results in ./results/function_energy, 
+./results/qualitative_results and ./results/quantitative_results.xlsx.
+
+d. To add interactive operations, you can run interactive.m. 
+Results are also in ./results/function_energy, ./results/qualitative_results 
+and ./results/quantitative_results.xlsx.

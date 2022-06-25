@@ -1,0 +1,65 @@
+If you use this program in your research work, please cite the following papers:
+
+[1] Yong-Jin Liu, Zhan-Qing Chen, Kai Tang. 
+Construction of Iso-contours, Bisectors and Voronoi Diagrams on Triangulated Surfaces. 
+IEEE Transactions on Pattern Analysis and Machine Intelligence. Vol. 33, No. 8, pp. 1502-1517, 2011.
+
+[2] Yong-Jin Liu, Qian-Yi Zhou, Shi-Min Hu. 
+Handling degenerate cases in exact geodesic computation on triangle meshes. 
+The Visual Computer, 23(9-11): 661-668, 2007.
+
+===============================================================
+This program is distributed in the hope that it will be useful. It contains features 
+including geodesic line and voronoi diagram.
+
+This program is coded using Qt + OpenGL in visual studio 2010. Qt runtime libaray is 
+shipped with the program. You may need to install OpenGL and visual studio 2010 
+redistribution if your computer has not installed.
+
+
+--- References ---
+1. Basic operation
+  Rotate: left mouse button
+  Scale: wheel or Ctrl + left mouse button
+  Picking: pick vertex on the mesh with Shift key is pressed. Then click mouse right 
+button, select "Set as exact geodesic source" or "Set as exact geodesic Destination" 
+or "Set as Voronoi source", etc.
+
+2. Geodesic related
+  For geodesic line, you need to pick a vertex as source, then perform build distance 
+field. After built distance field, you can pick as vertex as destination, then build 
+geodesic line.
+  
+ For voronoi diagram, you need to pick several vertices as source(at least 2), then 
+perform build voronoi diagram.
+
+Notes:
+  All the operation releated with geodesic line and voronoi diagram are in geodesic 
+menu and popup menu. The function of items in those two menu can be easily infered 
+according to its name. 
+
+  This program only supports mesh with obj format. Please see the test data in the 
+package.
+
+--- Other ---
+For any general question about the use of this program, bugs, feature requests and 
+such, please contact liuyongjin@tsinghua.edu.cn or zhangjbzd@gmail.com.
+
+===============================================================
+More references in computational geometry and graph theory:
+
+[3] Wen-Qi Zhang, Yong-Jin Liu. 
+Approximating the Longest Paths in Grid Graphs. 
+Theoretical Computer Science, Vol. 412, No. 39, pp. 5340-5350, 2011.
+
+[4] Yong-Jin Liu, Wen-Qi Zhang, Kai Tang. 
+Some notes on maximal arc intersection of spherical polygons: its NP-hardness and approximation algorithms. 
+The Visual Computer, Vol. 26, No. 4, pp. 287-292, 2010.
+
+[5] Kai Tang, Yong-Jin Liu. 
+A geometric method for determining intersection relations between a movable convex object and a set of planar polygons. 
+IEEE Transactions on Robotics, Vol. 20, No. 4, pp. 636-650, 2004
+
+[6] Kai Tang, Yong-Jin Liu. 
+Maximal intersection of spherical polygons by an arc. 
+Computer-Aided Design, Vo. 35, No. 14, pp. 1269-1285, 2003
