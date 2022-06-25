@@ -1,7 +1,7 @@
 ---
 title: "Optogenetic Inhibition of Striatal GABAergic Neuronal Activity Improves Outcomes After Ischemic Brain Injury"
 collection: publications
-permalink: /publication/jiang_stroke_2017
+permalink: /publication/2017_jiang_stroke
 excerpt: 'After ischemic stroke, optogenetic inhibition of GABAergic neurons upregulated bFGF expression by endothelial cells and promoted neurobehavioral recovery, possibly orchestrated by astrocytes. Optogenetically inhibiting neuronal activity provides a novel approach to promote neurological recovery.'
 date: December 2017
 venue: 'Stroke'
