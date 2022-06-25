@@ -20,23 +20,23 @@ Education
 
 Research experiences
 ======
-* Mice in Manhattan: efficient exploration and automated theory testing in a rapidly reconfigurable maze
+* **Mice in Manhattan: Efficient Exploration and Automated Theory Testing in a Rapidly Reconfigurable Maze**
   * Dec. 2021 - Present
   * Supervisor: Markus Meister, Biaggini Professor of Biological Sciences, Caltech
 
-* Mesolimbic Dopamine Signaling and Cognitive Flexibility
+* **Mesolimbic Dopamine Signaling and Cognitive Flexibility**
   * Sep. 2019 - Feb. 2020
   * Supervisor: Trevor Robbins, Professor of Cognitive Neuroscience, University of Cambridge
 
-* High Fat Diet and Alzheimer’s Disease-related Pathology
+* **High Fat Diet and Alzheimer’s Disease-related Pathology**
   * Oct. 2016 - May 2018
   * Supervisor: Chris Schaffer, Associate Professor of Meinig School of Biomedical Engineering, Cornell University
 
-* Ex vivo Imaging of Drosophila Olfactory System Development
+* **Ex vivo Imaging of Drosophila Olfactory System Development**
   * May - Aug. 2017
   * Supervisor: Liqun Luo, Professor of Biology, Investigator of Howard Hughes Medical Institute, Stanford University
 
-* Functions of CXCL12 during Recovery from Ischemic Strokes in Mice
+* **Functions of CXCL12 during Recovery from Ischemic Strokes in Mice**
   * Jan. - Oct. 2015
   * Supervisor: Yongting Wang, Professor of Med-X Neuroscience and Engineering Centre, SJTU
 
@@ -46,7 +46,6 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
 
 Teaching
 ======
