@@ -22,12 +22,13 @@ Journal Publications
 Conference Publications
 ------
 
-* <b>Alexander Davydov</b>, Anton V. Proskurnikov, and Francesco Bullo. “Non-Euclidean Contractivity of Recurrent Neural Networks,” <i>American Control Conference</i>, Jun. 2022. [[URL](https://arxiv.org/abs/2110.08298)] <b>Best Student Paper Award Finalist</b>
+* <b>Alexander Davydov</b>, Anton V. Proskurnikov, and Francesco Bullo. “Non-Euclidean Contractivity of Recurrent Neural Networks,” <i>American Control Conference</i>, pp. 1527-1534, Jun. 2022. [[URL](https://arxiv.org/abs/2110.08298)] <b>Best Student Paper Award Finalist</b>
 
-* Saber Jafarpour<sup>*</sup>, Matthew Abate<sup>*</sup>, <b>Alexander Davydov</b><sup>*</sup>, Francesco Bullo, and Samuel Coogan. “Robustness Certificates for Implicit Neural Networks: A Mixed Monotone Contractive Approach,” <i>Learning for Dynamics and Control Conference</i>, Jun. 2021. [[URL](https://arxiv.org/abs/2112.05310)] <b>Oral Presentation</b>
+* Saber Jafarpour<sup>*</sup>, Matthew Abate<sup>*</sup>, <b>Alexander Davydov</b><sup>*</sup>, Francesco Bullo, and Samuel Coogan. “Robustness Certificates for Implicit Neural Networks: A Mixed Monotone Contractive Approach,” <i>Learning for Dynamics and Control Conference</i>, pp. 917-930, Jun. 2021. [[URL](https://arxiv.org/abs/2112.05310)] <b>Oral Presentation</b>
 
-* Saber Jafarpour<sup>*</sup>, <b>Alexander Davydov</b><sup>*</sup>, Anton V. Proskurnikov, and Francesco Bullo. “Robust Implicit Networks via Non-Euclidean Contractions,” <i>35th Conference on Neural Information Processing Systems</i>, Dec. 2021. [[URL](https://arxiv.org/abs/2106.03194)]
-* Francesco Bullo, Pedro Cisneros-Velarde, <b>Alexander Davydov</b>, and Saber Jafarpour. “From Contraction Theory to Fixed Point Algorithms on Riemannian and non-Euclidean Spaces,” <i>IEEE Conference on Decision and Control</i>, Dec. 2021. [[URL](https://arxiv.org/abs/2110.03623)] <b>(Invited Tutorial Paper)</b>
+* Saber Jafarpour<sup>*</sup>, <b>Alexander Davydov</b><sup>*</sup>, Anton V. Proskurnikov, and Francesco Bullo. “Robust Implicit Networks via Non-Euclidean Contractions,” <i>35th Conference on Neural Information Processing Systems</i>, Dec. 2021. [[URL](https://arxiv.org/abs/2106.03194)], [[OpenReview](https://openreview.net/forum?id=SwfsoPuGYku)]
+
+* Francesco Bullo, Pedro Cisneros-Velarde, <b>Alexander Davydov</b>, and Saber Jafarpour. “From Contraction Theory to Fixed Point Algorithms on Riemannian and non-Euclidean Spaces,” <i>IEEE Conference on Decision and Control</i>, pp. 2923-2928, Dec. 2021. [[DOI](https://doi.org/10.1109/CDC45484.2021.9682883)], [[URL](https://arxiv.org/abs/2110.03623)] <b>(Invited Tutorial Paper)</b>
 
 * <b>Alexander Davydov</b>, Derrick W. Yeo, and Yancy Diaz-Mercado. “Low-Mobility Atmospheric Sensing via Multi-Vehicle Adaptive Coverage Control,” <i>AIAA AVIATION 2020 FORUM</i>, Jun. 2020. [[DOI](https://doi.org/10.2514/6.2020-2821)]
 
