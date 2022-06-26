@@ -28,7 +28,7 @@ Internship experience
   
 * June 2019 - Oct 2019: Research Internship
   * SenseTime Research
-  * Job description: Automatic chest disease diagnosis in Chest-X Ray Image, and won the third place in [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/) challenge (Sep 19, 2019); supervised by <b>[Mr. Tao Song](https://scholar.google.co.uk/citations?user=Xzk31ssAAAAJ&hl=en)</b>.
+  * Job description: Chest disease diagnosis in X-Ray Image, and won the third place in [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/) challenge (Sep 19, 2019); worked with <b>[Mr. Tao Song](https://scholar.google.co.uk/citations?user=Xzk31ssAAAAJ&hl=en)</b>.
 
 Professional activities
 ======
