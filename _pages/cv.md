@@ -20,11 +20,11 @@ Internship experience
 ======
 * Jun. 2021 - Present: Research Internship
   *  [Shanghai AI Lab (Smart Healthcare Research Center)](https://www.shlab.org.cn).
-  *  Job description: Data-efficient learning for medical image analysis, working with <b>[Mr. Tao Song](https://scholar.google.co.uk/citations?user=Xzk31ssAAAAJ&hl=en)</b> again!
+  *  Job description: Data-efficient learning for medical image analysis, working with <b>[Mr. Tao Song](https://scholar.google.co.uk/citations?user=Xzk31ssAAAAJ&hl=en)</b>.
 
 * Jan. 2020 - June 2020: Research Internship
   * SenseTime Research
-  * Job description: Liver, lesion and vessels classification, segmentation and detection; supervised by <b>[Dr. Yinan Chen](https://www.linkedin.com/in/chen-joy-1680096a/?originalSubdomain=cn)</b>.
+  * Job description: Liver, lesion and vessels classification, segmentation and detection; worked with <b>Dr. Yinan Chen</b>.
   
 * June 2019 - Oct 2019: Research Internship
   * SenseTime Research
