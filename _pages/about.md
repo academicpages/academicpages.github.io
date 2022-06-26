@@ -9,11 +9,10 @@ redirect_from:
 ---
 <!-- # About me [[My CV_CN](https://github.com/Luoxd1996/Luoxd1996.github.io/blob/master/files/xiangdeluo_cv.pdf)] -->
 # About me
-* I am a 2-nd year Ph.D. student in the School of Mechanical and Electrical Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), advised by Prof. [Guotai Wang](https://scholar.google.co.uk/citations?user=Z2sFN4EAAAAJ&hl=en) and Prof. [Shaoting Zhang](https://scholar.google.co.uk/citations?user=oiBMWK4AAAAJ&hl=en). 
-* My research mainly focuses on the area of medical image analysis, particularly in data-efficient learning for medical image computing, such as semi-supervised learning, weakly-supervised learning and human-in-the-loop, as well as extending them for clinical applicable use.
-* I received my Bachelor Degree in the School of Mechanical and Electrical Engineering at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), on July 1, 2018.
+* I am a 3rd-year PhD student in the School of Mechanical and Electrical Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), co-advised by Prof. [Guotai Wang](https://scholar.google.co.uk/citations?user=Z2sFN4EAAAAJ&hl=en) and Prof. [Shaoting Zhang](https://scholar.google.co.uk/citations?user=oiBMWK4AAAAJ&hl=en). 
+* My research mainly focuses on medical image analysis, particularly in data-efficient learning for medical image computing, such as semi-supervised learning, weakly-supervised learning and human-in-the-loop, and extending them for practical clinical applications.
+* I received my Bachelor's Degree in the School of Mechanical and Electrical Engineering at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) on July 1, 2018.
 <!--* Now, I am seeking for a research internship position about medical image segmentation during 2021.06-2021.10, feel free to contact me! [[My CV](https://github.com/Luoxd1996/Luoxd1996.github.io/blob/master/files/xiangdeluo_cv.pdf)]-->
-
 
 # Recent News
 * Jun 10, 2022, Our paper <b>Semi-Supervised Medical Image Segmentation via Uncertainty Rectified Pyramid Consistency	</b> was accepted by <b>Medical Image Analysis</b>, thanks to all co-authors, [code](https://github.com/HiLab-git/SSL4MIS) and [paper](https://www.sciencedirect.com/science/article/pii/S1361841522001645#!) are available.
