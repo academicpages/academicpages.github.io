@@ -24,7 +24,7 @@ On my spare time, I love adventuring in the mountains, breathing fresh air and e
 - My desire of travelling and hiking led me to feel like an astronaut when climbing the Chachani Summit in Peru, 6000m in 2017.
 - My hatred towards programming turned to love when I got to learn to use it to apply mathematics, build data pipelines and analytically support energy trading at Orsted. 
 - I found myself on top of the podium at the Judo Danish Championship 2019.
-- I cannot stop initiationg and following long-term goals.
+- I cannot stop initiating and following long-term goals.
 
 
 ## Contact
