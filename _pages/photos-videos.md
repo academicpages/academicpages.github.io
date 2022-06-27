@@ -7,15 +7,36 @@ author_profile: true
 
 {% include base_path %}
 
-{% include image.html
-            img="files/1.jpg"
-            title="title for image"
-            caption="caption for image" %}
-
+## Parallel Jaw Grippers
 {% include image.html
             img="files/2.jpg"
-            title="title for image"
-            caption="caption for image" %}
+            title="Parallel Jaw Gripper"
+            caption="Parallel Jaw Gripper" %}
+            
+{% include youtube_embed.html id="jzOm7siP9l0" %}
+
+{% include youtube_embed.html id="dPAVy_2yOdk" %}
+
+## Tri Fingered Grippers
+            
+{% include image.html
+            img="files/1.jpg"
+            title="Trifingered Gripper"
+            caption="Trifingered Gripper" %}
+            
+{% include image.html
+            img="files/IMG_20181017_110328.jpg"
+            title="Trifingered Gripper"
+            caption="Trifingered Gripper empty" %}
+
+{% include image.html
+            img="files/IMG_20181017_110207.jpg"
+            title="Trifingered Gripper"
+            caption="Trifingered Gripper holding a Football" %}
+
+{% include youtube_embed.html id="mlQ4LSI5MOs" %}
+
+## 4 fingered flexible gripper
             
 {% include image.html
             img="files/3(a).jpg"
@@ -27,6 +48,14 @@ author_profile: true
             title="title for image"
             caption="caption for image" %}
 
+{% include youtube_embed.html id="Szkmeam_SMw" %}
+
+{% include youtube_embed.html id="aSEXwAbC0TU" %}
+
+{% include youtube_embed.html id="A6S6nmgaegk" %}
+
+## Humanoid Hand
+
 {% include image.html
             img="files/4(a).jpg"
             title="title for image"
@@ -37,32 +66,19 @@ author_profile: true
             title="title for image"
             caption="caption for image" %}
 
-{% include image.html
-            img="files/IMG_20181017_110207.jpg"
-            title="title for image"
-            caption="caption for image" %}
 
-{% include image.html
-            img="files/IMG_20181017_110328.jpg"
-            title="title for image"
-            caption="caption for image" %}
-
-{% include youtube_embed.html id="9jjx5QEoaAU" %}
+## iNature
 
 {% include youtube_embed.html id="bpeH-4ki2kQ" %}
 
-{% include youtube_embed.html id="A6S6nmgaegk" %}
+## Piezolectric materials
 
-{% include youtube_embed.html id="Szkmeam_SMw" %}
+{% include youtube_embed.html id="9jjx5QEoaAU" %}
 
-{% include youtube_embed.html id="GXXbfunLBGI" %}
+## Test Rig
 
 {% include youtube_embed.html id="aNFqqdCdRlk" %}
 
-{% include youtube_embed.html id="jzOm7siP9l0" %}
 
-{% include youtube_embed.html id="dPAVy_2yOdk" %}
-
-{% include youtube_embed.html id="aSEXwAbC0TU" %}
 
 
