@@ -40,13 +40,12 @@ author_profile: true
             
 {% include image.html
             img="files/3(a).jpg"
-            title="title for image"
-            caption="caption for image" %}
+            title="4 fingered flexible gripper" %}
 
 {% include image.html
             img="files/3(b).jpg"
-            title="title for image"
-            caption="caption for image" %}
+            title="4 fingered flexible gripper"
+            caption="4 fingered flexible gripper" %}
 
 {% include youtube_embed.html id="Szkmeam_SMw" %}
 
@@ -58,13 +57,12 @@ author_profile: true
 
 {% include image.html
             img="files/4(a).jpg"
-            title="title for image"
-            caption="caption for image" %}
+            title="Humanoid Hand" %}
 
 {% include image.html
             img="files/4(b).jpg"
-            title="title for image"
-            caption="caption for image" %}
+            title="Humanoid Hand"
+            caption="Humanoid Hand" %}
 
 
 ## iNature
