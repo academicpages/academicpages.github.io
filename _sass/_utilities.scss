@@ -23,16 +23,6 @@
   opacity: 0;
 }
 
-/* for images */
-.image-wrapper {
-    text-align: center;
-
-    .image-caption {
-        color: $grey-color;
-        margin-top: $spacing-unit / 3;
-    }
-}
-
 /* https://developer.yahoo.com/blogs/ydn/clip-hidden-content-better-accessibility-53456.html */
 
 .visually-hidden,
@@ -172,6 +162,15 @@ body:hover .visually-hidden button {
   @include breakpoint($large){
     margin-right: -1 * span(2.5 of 12) !important;
   }
+}
+
+.image-wrapper {
+    text-align: center;
+
+    .image-caption {
+        color: $grey-color;
+        margin-top: $spacing-unit / 3;
+    }
 }
 
 /*
