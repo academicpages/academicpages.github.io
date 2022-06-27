@@ -55,8 +55,6 @@ author_profile: true
 
 {% include youtube_embed.html id="Szkmeam_SMw" %}
 
-{% include youtube_embed.html id="mlQ4LSI5MOs" %}
-
 {% include youtube_embed.html id="GXXbfunLBGI" %}
 
 {% include youtube_embed.html id="aNFqqdCdRlk" %}
