@@ -13,13 +13,17 @@ I am Yusheng Su, a Ph.D. student in [THUNLP Lab](https://twitter.com/tsinghuanlp
 
 ## News
 * [Apr. 2022] Got two papers accepted at NAACL 2022. 
-* [Mar. 2022] Got one paper accepted at ACL 2022. 
-* [Aug. 2021] Got one paper accepted at IEEE/TASLP 2021. 
-* [Feb. 2021] Got one paper accepted at WWW 2021. 
-* [Aug. 2020] Got one paper accepted at EMNLP 2020.
+<font color="gray">* [Mar. 2022] Got one paper accepted at ACL 2022.</font>   
+<font color="gray">* [Aug. 2021] Got one paper accepted at IEEE/TASLP 2021.</font>  
+<font color="gray">* [Feb. 2021] Got one paper accepted at WWW 2021.</font> 
+<font color="gray">* [Aug. 2020] Got one paper accepted at EMNLP 2020.</font>
+
+<!-- <font color="gray"> </font> -->
 
 
 ## Professional Services
+* Program Committee Member: EMNLP 2022
+* Reviewer: ICML 2022
 * Reviewer: ACL Rolling 2022
 * Reviewer: ACL Rolling 2021
 * Reviewer: EMNLP/ACL/IEEE-TASLP 2021
