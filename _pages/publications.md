@@ -13,7 +13,7 @@ author_profile: true
 
 * R. Cont, P. Das. _Quadratic variation and quadratic roughness_. [To appear: Bernolli]( https://arxiv.org/abs/1907.03115 )
 
-* P. Das, T. Parthasarathy, G. Ravindran. _On Completely Mixed Stochastic Games_. [Arxiv](https://arxiv.org/abs/1703.04619)
+* P. Das, T. Parthasarathy, G. Ravindran. _On Completely Mixed Stochastic Games_. [To appear: Opetation research forum](https://arxiv.org/abs/1703.04619)
 
 * P. Das, S. Das, A. Lahiri. _Understanding Sea Ice Melting via Functional Data Analysis_. [Current Science](https://www.jstor.org/stable/26978320?seq=1)
 
