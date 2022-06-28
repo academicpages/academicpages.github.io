@@ -27,7 +27,7 @@ Email: [gsipe.planning@gmail.com](gsipe.planning@gmail.com)
 
 [Sojun Park (Princeton)](https://sites.google.com/view/sojunp/home)
 
-[RyuGyung (Rio) Park (UC Davis)](https://mesaedit.dss.ucdavis.edu/people/rio0721)
+[RyuGyung (Rio) Park (UC Davis)](https://riopark.weebly.com/ )
 
 [Pengshan Pan (Pittsburgh) ](https://www.cgm.pitt.edu/people/ant-25)
 
