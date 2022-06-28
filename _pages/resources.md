@@ -27,5 +27,5 @@ Journals
 
 Related website:
 
-[AI Conference Deadlines](https://aideadlin.es/?sub=ML)
+[AI Conference Deadlines](https://aideadlin.es/?sub=ML).   
 [Academic Countdown](http://uhh-lt.github.io/academic_countdown/)
