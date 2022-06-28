@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sung-Cheol Kim"
-  avatar           : "images/portrait_20220626.jpg"
+  avatar           : "portrait_20220626.jpg"
   bio              : "Biophysicist, Data Scientist, Computer Vision Researcher"
   location         : "New Jersey, USA"
   employer         : "PsychoGenics"
@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  research:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -212,7 +212,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: research
     values:
       layout: single
       author_profile: true

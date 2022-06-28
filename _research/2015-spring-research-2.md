@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+title: "Teaching experience 2"
+collection: research
+type: "Workshop"
+permalink: /research/2015-spring-teaching-1
 venue: "University 1, Department"
-date: 2014-01-01
+date: 2015-01-01
 location: "City, Country"
 ---
 
