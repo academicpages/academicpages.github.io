@@ -11,9 +11,8 @@ author_profile: true
 
 | Abbreviation| Due Date| Full Name |
 | :---        |:---      | :---     |
-| ASONAM 2022      | June 26 | The 2022 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining |
-| Paragraph   | Text        | And more      |
-
+| ASONAM(https://asonam.cpsc.ucalgary.ca/2022/)| June 26 | The 2022 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining |
+| BigData (http://bigdataieee.org/BigData2022/)  | Aug 20 | 2022 IEEE International Conference on Big Data |
 
 
 
