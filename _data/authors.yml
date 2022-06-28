@@ -1,18 +1,18 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Sung-Cheol Kim:
+  name             : "Sung-Cheol Kim"
+  avatar           : "portrait_20220626.jpg"
+  bio              : "Biophysicist, Data Scientist, Computer Vision Researcher"
+  location         : "New Jersey, USA"
+  employer         : "PsychoGenics"
+  email            : sungcheol.kim78@gmail.com
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-1656-7875"
+  googlescholar    : "https://scholar.google.com/citations?user=p2KYYIQAAAAJ&hl=en&authuser=2"
+  researchgate     : "https://www.researchgate.net/profile/Sung-Cheol-Kim-2"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/1jACTeids-UYuK/bibliography/public/"
+  linkedin         : "https://www.linkedin.com/in/sungcheolkim78/"
+  github           : "sungcheolkim78"
+  twitter          : "sungcheol_kim"
+  youtube          :
+  wikipedia        :
