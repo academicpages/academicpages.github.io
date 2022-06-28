@@ -59,9 +59,10 @@ To fix it, I changed my code in this way:
 +    
 +    def training_epoch_end(self, outputs):
 +        self.log_dict(self.train_metrics.compute(), on_step=False, on_epoch=True)
++        self.train_metrics.reset()
 ```
 
 This code explicitly calls `Metric.update()` and `Metric.compute()` to compute the metric how God intended it. Yeehaw.
 
-[^1] by default, but other reducers can be used
-[^2] [TorchMetrics in PyTorch Lightning — PyTorch-Metrics 0.9.1 documentation](https://torchmetrics.readthedocs.io/en/stable/pages/lightning.html?highlight=on_epoch#logging-torchmetrics)
+[^1]:  by default, but other reducers can be used
+[^2]:  [TorchMetrics in PyTorch Lightning — PyTorch-Metrics 0.9.1 documentation](https://torchmetrics.readthedocs.io/en/stable/pages/lightning.html?highlight=on_epoch#logging-torchmetrics)
