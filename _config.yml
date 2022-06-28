@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sung-Cheol Kim / Help Other!"
+title                    : "Sung-Cheol Kim / Help Others!"
 title_separator          : "-"
 name                     : &name "Sung-Cheol Kim"
 description              : &description "personal description"
@@ -85,34 +85,14 @@ author:
   bio              : "Biophysicist, Data Scientist, Computer Vision Researcher"
   location         : "New Jersey, USA"
   employer         : "PsychoGenics"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : sungcheol.kim78@gmail.com
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-1656-7875"
+  googlescholar    : "https://scholar.google.com/citations?user=p2KYYIQAAAAJ&hl=en&authuser=2"
+  researchgate     : "https://www.researchgate.net/profile/Sung-Cheol-Kim-2"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/1jACTeids-UYuK/bibliography/public/"
+  linkedin         : "https://www.linkedin.com/in/sungcheolkim78/"
   github           : "sungcheolkim78"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "sungcheol_kim"
-  vine             :
-  weibo            :
-  xing             :
   youtube          :
   wikipedia        :
 
@@ -179,9 +159,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
