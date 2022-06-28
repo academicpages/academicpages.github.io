@@ -12,11 +12,12 @@ I am Yusheng Su, a Ph.D. student in [THUNLP Lab](https://twitter.com/tsinghuanlp
 
 
 ## News
+* <b>Coming Soon!</b> [10:45 – 12:15, 11. July. 2022] Will share our work [[pdf]](https://arxiv.org/abs/2111.06719), on NAACL, Oral Session 1, 1D: Efficient Methods in NLP.
 * [Apr. 2022] Got two papers accepted at NAACL 2022. 
-<font color="gray">* [Mar. 2022] Got one paper accepted at ACL 2022.</font>   
-<font color="gray">* [Aug. 2021] Got one paper accepted at IEEE/TASLP 2021.</font>  
-<font color="gray">* [Feb. 2021] Got one paper accepted at WWW 2021.</font> 
-<font color="gray">* [Aug. 2020] Got one paper accepted at EMNLP 2020.</font>
+* [Mar. 2022] Got one paper accepted at ACL 2022. 
+* [Aug. 2021] Got one paper accepted at IEEE/TASLP 2021.
+* [Feb. 2021] Got one paper accepted at WWW 2021.
+* [Aug. 2020] Got one paper accepted at EMNLP 2020.
 
 <!-- <font color="gray"> </font> -->
 
