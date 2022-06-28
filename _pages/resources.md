@@ -25,7 +25,6 @@ Journals
 | [JBI](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics)  | 6.317 | Journal of Biomedical Informatics |
 | [IJMI](https://www.sciencedirect.com/journal/international-journal-of-medical-informatics)  | 4.046| International Journal of Medical Informatics  |
 
-Related website:
-
+__Related website__:
 [AI Conference Deadlines](https://aideadlin.es/?sub=ML).   
 [Academic Countdown](http://uhh-lt.github.io/academic_countdown/)
