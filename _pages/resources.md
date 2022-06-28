@@ -9,9 +9,9 @@ author_profile: true
 2022 Conferences 
 ======
 
-
-| :---        |:---      | :---     |
 | ASONAM 2022      | June 26 | The 2022 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining |
+| :---        |:---      | :---     |
+
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
 
