@@ -6,8 +6,8 @@
   position: relative;
   #background-image: url("/images/IMG_1262.jpg");
   background-color: $info-color;
-  border-bottom: 1px solid $info-color-dark;
-  border-top: 1px solid $info-color-dark;
+  border-bottom: 5px solid $light-cyan;
+  border-top: 5px solid $light-cyan;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
