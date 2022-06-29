@@ -10,6 +10,10 @@ tags:
   - neuroscience
 ---
 **Update** This project is now a collaboration with [Kevin Kermani Nejad](https://bristolcnu.github.io/people/RPC_kevin_nejad/index.html).
+Current material:
+- [Brain vs. fridge](/posts/2022/05/brain-vs-fridge)
+- [Neuroscience tech tree](/posts/2022/06/neuroscience-tech-tree/)
+
 ## 1. Introduction
 Understanding the human brain - to the point of being able to reproduce its abilities, as one could design and build a plane or chair - is hopefully a finite problem for civilization. I think that many aspects of that problem (see section 2 for my attempt at enumeration) can be quantified. Similarly, performance and progress of associated experimental methods can often be quantified and predicted, leading to equivalents of Moore's law famous from computing.
 
