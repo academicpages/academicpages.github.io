@@ -8,7 +8,6 @@ redirect_from:
   - about.html
 ---
 
-Who am I?
 ======
 I am currently a senior in Electrical & Electronics Engineering with a double major in Economics 
 at Koç University. My professional interests are in ```machine learning```, 
