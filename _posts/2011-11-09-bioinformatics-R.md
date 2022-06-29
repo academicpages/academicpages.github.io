@@ -1,10 +1,11 @@
 ---
-layout: post
 title: "How to plot length distribution of RNA-seq reads"
 date: 2018-11-09
-category: ["computer", "R", "genomics", "bioinformatics"]
-author: "Sung-Cheol Kim"
-
+tags: 
+  - computer
+  - R
+  - genomics
+  - bioinformatics
 ---
 
 # How to plot a length ditribution of RNA-seq reads?

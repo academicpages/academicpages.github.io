@@ -1,10 +1,9 @@
 ---
-layout: post
 title: "Systematic error of position detection"
 date: 2009-12-02
-category: ["science", "microscope"]
-author: "Sung-Cheol Kim"
-
+tags: 
+  - science
+  - microscope
 ---
 
 마이크로스코프 이미지에서 얻을수 있는 정보는 무엇인가? 1차적으로는 512×512 pixel에 담긴 빛의 양의 수치이다. 16bit에서는 0부터 2^16(=65536)까지의 숫자로 나타나고 14bit에서는 2^14까지 표현된다. 2차적으로는 보고자하는 물체의 위치와 모양을 알아낼수 있다. 사실 이 위치와 모양을 알아내는 것은 쉬운일이 아니다. 내가 알아내려고 하는 systematic error는 초기 1차적 정보에서 나올수도 있고 2차적 정보에서 나올수도 있다. 또한 0차적으로는 보고자하는 물체의 vibration으로 부터 나오기도 한다.

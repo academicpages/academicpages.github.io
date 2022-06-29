@@ -1,9 +1,9 @@
 ---
-layout: post
 title: "자주 하는 작업들"
 date: 2017-07-16
-category: ["computer", "productivity"]
-author: "Sung-Cheol Kim"
+tags: 
+  - computer
+  - productivity
 ---
 
 컴퓨터 앞에 앉아서 하는 일들을 잘 생각해 보자. 주로 문제 해결 과정인데, 그것을이 머리속에서 너무 한꺼번에 빠른 속도로 일어나므로 잘 정리하지 않으면 오히려 개선하기가 쉽지 않다. 그러므로 일어나는 일들을 분석하고 자주 하는 일들을 정리하면 생산성 향상을 이룰 수 있다.

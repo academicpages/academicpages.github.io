@@ -1,10 +1,10 @@
 ---
-layout: post
 title: "하루 한 문장 글쓰기"
 date: 2017-07-15
-category: ["productivity", "worldview", "computer"]
-author: "Sung-Cheol Kim"
-
+tags: 
+  - productivity
+  - worldview
+  - computer
 ---
 
 머리 속이 복잡하다. 이것 저것 할 일들도 많고 정리할 것들도 많아서 인 것 같다.

@@ -1,10 +1,11 @@
 ---
-layout: post
 title: "2D position detect method"
 date: 2009-12-03
-category: ["science", "computer", "microscope", "physics"]
-author: "Sung-Cheol Kim"
-
+tags: 
+  - science
+  - computer
+  - microscope
+  - physics
 ---
 
 어제 찬우랑 식사중에 이야기를 듣고서 좋은 아이디어가 생각이 났다. 결국 2D image상의 패턴에서 위치를 찾아내는 함수는 이상적인 function을 만들고 그것을 2D상에서 이리저리 굴려서 가장 실제 결과에 가까운 함수를 찾아내면 되는 것이다. 이 경우 위치뿐만이 아니라 radius의 관한 정보도 얻을수 있게 된다. 즉
