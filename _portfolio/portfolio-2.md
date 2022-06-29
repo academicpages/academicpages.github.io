@@ -1,6 +1,6 @@
 ---
 title: "Multi-rate Learned Image Compression"
-excerpt: "Re-implementation of 'Asymmetric Gained Deep Image Compression With Continuous Rate Adaptation' by Cui et al. (2021)"
+excerpt: "Re-implementation of 'Asymmetric Gained Deep Image Compression With Continuous Rate Adaptation' by Cui et al. (2021)."
 collection: portfolio
 ---
 
