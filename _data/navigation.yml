@@ -10,13 +10,16 @@ main:
     url: education/ 
     
   #- title: "Talks"
-  #  url: /talks/    
+  #  url: /talks/  
 
-  - title: "Teaching"
-    url: teaching/ 
+  - Work Experience
+    url: work/  
     
   - title: "Portfolio"
     url: portfolio/
+
+  - title: "Teaching"
+    url: teaching/ 
         
   #- title: "Blog Posts"
   #  url: /year-archive/
