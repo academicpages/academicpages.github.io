@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-06-27-flex-rate-icip2022
 excerpt: 'This work presents improvements and novel additions to the recent work on end-to-end optimized hierarchical bidirectional video compression to further advance the state of-the-art in learned video compression.'
 date: 2022-06-27
-venue: "IEEE International Conference on Image Processing (ICIP 2022)"
+venue: "IEEE International Conference on Image Processing (ICIP)"
 paperurl: 
 citation: 'Eren Cetin, M. Akin Yilmaz, A. Murat Tekalp. (2022). &quot;Flexible-Rate Learned Hierarchical Bi-Directional Video Compression With Motion Refinement and Frame-Level Bit Allocation.&quot; <i>IEEE International Conference on Image Processing (ICIP 2022)</i>.'
 ---
