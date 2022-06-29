@@ -13,6 +13,8 @@ You can find the replication files on [my OSF profile](https://osf.io/8sgp9).
 Peer reviewed journal articles
 ======
 
+Tisch, Daria, Tamara Gutfleisch (Forthcoming): Unequal but just? Experimental evidence on (gendered) distributive justice principles in parental financial gifts. Socio-Economic Review
+
 Kapelle, Nicole, Nutz, Theresa, Tisch, Daria, Schechtl, Manuel, Lersch, Philipp M. & Struffolino, Emanuela (Forthcoming): My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. European Journal of Population.
 
 
@@ -39,6 +41,22 @@ Other
 ======
 
 Tisch, Daria (2021) "[Perceptions of Gender Wealth Inequalities within the Family](https://kups.ub.uni-koeln.de/52697/)". Dissertation. 
+
+
+Work in progress
+======
+
+Urbina, Daniela R., Daria Tisch: Division of Housework and Perceptions of Fairness: What Justifies Unequal Housework Arrangements?
+
+
+Schechtl, Manuel, Daria Tisch: My Wealth, Our Taxes? Cross-National Experimental Evidence on Wealth Tax Preferences
+
+
+Tisch, Daria, Emma Ischinsky: Who are the German superrich? An analysis of Germany’s Largest Fortunes
+
+
+Tisch, Daria, Manuel Schechtl: Gender differences in parental wealth transfers and how the German tax system contributes to the gender wealth gap 
+
 
 
 
