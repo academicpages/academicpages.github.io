@@ -1,31 +1,31 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: publications/
 
   - title: "Research Experience"
-    url: /research/
+    url: research/
 
   - title: "Education"
-    url: /education/ 
+    url: education/ 
     
   #- title: "Talks"
   #  url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/ 
+    url: teaching/ 
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
 
-  - title: "Extracurriculat"
-    url: /extra/
+  - title: "Extracurricular"
+    url: extra/
     
   - title: "CV"
-    url: /cv/
+    url: cv/
     
   #- title: "Guide"
   #  url: /markdown/
