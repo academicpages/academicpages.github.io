@@ -16,7 +16,7 @@ Status: Chaotic draft, will hopefully become more coherent within the next 2 mon
 
 >The future is already there, it's just not widely distributed yet - attributed to William Gibson
 
-This is part of the "Neuroscience under a quantitative progress studies perspective" project with Kevin Kermani Nejad.
+This is part of the ["Neuroscience under a quantitative progress studies perspective"](https://qudent.github.io/posts/2022/06/intro-neuroscience-progress-studies/) project with Kevin Kermani Nejad.
 
 In the introduction, we attempted to classify what humanity would like to understand about nervous systems to "reverse-engineer" them. In this post, we attempt the same for possible scientific and engineering advances towards these goals. We try to validate this classification in section XY, where we consider how well past advances in the field would have fit into it.
 
@@ -71,6 +71,7 @@ Reverse problem/"writing": Not yet discussed
 * patch clamps
 * synthetic extracellular environment neurochemicals to understand cell's behavior
 * microscopes+cameras
+* calcium imaging (also for "nervous systems")
 
 ### 4. Nervous systems
 * neuroimaging methods: everything on [this list](https://en.wikipedia.org/w/index.php?title=Neuroimaging&oldid=1094904651#Brain-imaging_techniques). See [here](https://www.frontiersin.org/articles/10.3389/fncom.2013.00137/full) for a review (from 2013) of physical limits of the main methods of the time; according to Milan Cvitkovic, ultrasound methods became more important in the meantime.
