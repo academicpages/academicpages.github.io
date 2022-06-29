@@ -8,7 +8,7 @@ redirect_from:
   - about.html
 ---
 
-In a nutshell, I am currently a senior in Electrical & Electronics Engineering with a double major in Economics 
+In a nutshell, I am a senior in Electrical & Electronics Engineering with a double major in Economics 
 at Koç University. My professional interests are in ```machine learning```, 
 ```image/video processing```, ```computer vision```, and ```optimization```.
 
