@@ -16,7 +16,7 @@ Status: Chaotic draft, will hopefully become more coherent within the next 2 mon
 
 >The future is already there, it's just not widely distributed yet - attributed to William Gibson
 
-This is part of the ["Neuroscience under a quantitative progress studies perspective"](https://qudent.github.io/posts/2022/06/intro-neuroscience-progress-studies/) project with Kevin Kermani Nejad.
+This is part of the ["Neuroscience under a quantitative progress studies perspective"](https://qudent.github.io/posts/2022/06/intro-neuroscience-progress-studies/) project with Kevin Kermani Nejad. An inspiration is the Longevity tech tree in the last page of [this document](https://foresight.org/wp-content/uploads/2021/10/Longevity-Technology.pdf).
 
 In the introduction, we attempted to classify what humanity would like to understand about nervous systems to "reverse-engineer" them. In this post, we attempt the same for possible scientific and engineering advances towards these goals. We try to validate this classification in section XY, where we consider how well past advances in the field would have fit into it.
 
