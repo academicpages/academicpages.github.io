@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Flexible-Rate Bidirectional Video Compression with Motion Refinement"
+excerpt: "<br>A learned bidirectional video compression network proposed for Bachelor's Thesis<br/><img src='/images/bachelors_thesis_architecture.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Built a learned hierarchical bidirectional video compression model that utilizes motion predictions and allows achievement of multiple rate-distortion tradeoffs using single motion compression network with varying intra-frame coding networks.
+
+For further information, please refer to the [report](https://drive.google.com/file/d/1EPeK4Fpj-0r8shqzkSkJuaVayt2f4GvD/view?usp=sharing) I have prepared for my thesis.
+
+The code for the proposed network can be found in [Github](https://github.com/erenovic/Bidirectional-Video-Compression-with-Motion-Refinement).
