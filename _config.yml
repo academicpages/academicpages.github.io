@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ilias Giannakopoulos, PhD"
+title                    : "Ilias I. Giannakopoulos, PhD"
 title_separator          : "-"
-name                     : &name "Ilias Giannakopoulos"
-description              : &description "This is the personal website of Dr. Ilias Giannakopoulos"
+name                     : &name "Ilias I. Giannakopoulos"
+description              : &description "This is the personal website of Dr. Ilias I. Giannakopoulos"
 url                      : https://GiannakopoulosIlias.github.io # the base hostname & protocol for your site e.g. "https://GiannakopoulosIlias.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GiannakopoulosIlias/GiannakopoulosIlias.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ilias Giannakopoulos, PhD"
+  name             : "Ilias I. Giannakopoulos, PhD"
   avatar           : "profile_pic.jpg"
   bio              : "Postdoctoral Fellow, New York University Grossman School of Medicine"
   location         : "New York, NY, 10016"
