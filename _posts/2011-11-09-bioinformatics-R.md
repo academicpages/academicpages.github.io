@@ -8,8 +8,6 @@ tags:
   - bioinformatics
 ---
 
-# How to plot a length ditribution of RNA-seq reads?
-
 One of the basic steps in RNA-seq analysis is to plot a length ditribution. There are several ways of doing it.
 
 ## Using unix commands
