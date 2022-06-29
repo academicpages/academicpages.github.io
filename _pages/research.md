@@ -16,5 +16,5 @@ redirect_from:
 
 * <ins>06.2021 - 09.2021:</ins> Summer Research Assistant in KUIS AI Lab, Koç University
   * Studied style transfer and image manipulation with generative adversarial networks. 
-  * Worked on implementation of “Swapping Autoencoder for Deep Image Manipulation” by Park et al. (2020) and presented the work together with a demo.
+  * Worked on implementation of “Swapping Autoencoder for Deep Image Manipulation” by [Park et al. (2020)](https://arxiv.org/abs/2007.00653) and presented the work together with a demo.
   * Supervisor: [Aykut Erdem](https://aykuterdem.github.io/)
