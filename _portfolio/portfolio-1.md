@@ -1,6 +1,6 @@
 ---
 title: "Flexible-Rate Bidirectional Video Compression with Motion Refinement"
-excerpt: "A learned bidirectional video compression network proposed for my Bachelor's Thesis. <img src='/images/bachelors_thesis_architecture.png' alt='bidirectional video compression network architecture' width='600' height='700'>"
+excerpt: "A learned bidirectional video compression network proposed for my Bachelor's Thesis."
 collection: portfolio
 ---
 
