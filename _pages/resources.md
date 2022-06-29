@@ -20,7 +20,7 @@ author_profile: true
 
 | Abbreviation| Due Date| Full Name |
 | :---        |:---      | :---     |
-| [JAMIA]([https://academic.oup.com/jamia](https://academic.oup.com/jamia/pages/cfp-social-determinants))| December 5 | Social Determinants of Health (SDOH) Extraction through Natural Language Processing |
+| [JAMIA](https://academic.oup.com/jamia/pages/cfp-social-determinants)| December 5 | Social Determinants of Health (SDOH) Extraction through Natural Language Processing |
 
          
 Journals
