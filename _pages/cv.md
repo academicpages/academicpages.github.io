@@ -4,7 +4,7 @@ title: "CV"
 permalink: cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - https://docs.google.com/viewerng/viewer?url=https://github.com/erenovic/cetineren/raw/master/assets/Cetin-Eren-Resume.pdf
 ---
 
 {% include base_path %}
