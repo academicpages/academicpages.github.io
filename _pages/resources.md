@@ -15,6 +15,13 @@ author_profile: true
 | [BigData](http://bigdataieee.org/BigData2022/)  | __Aug 20__ | 2022 IEEE International Conference on Big Data |
 | [BIBM](https://ieeebibm.org/BIBM2022/)  | __Aug 21__| 2022 IEEE International Conference on Bioinformatics and Biomedicine (IEEE BIBM 2022) |
      
+2022 Special Issue
+======
+
+| Abbreviation| Due Date| Full Name |
+| :---        |:---      | :---     |
+| [JAMIA]([https://academic.oup.com/jamia](https://academic.oup.com/jamia/pages/cfp-social-determinants))| December 5 | Social Determinants of Health (SDOH) Extraction through Natural Language Processing |
+
          
 Journals
 ======
