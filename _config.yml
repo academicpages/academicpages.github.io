@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Eren Çetin"
-  avatar           : "profile.jpg"
+  avatar           : "images/profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
