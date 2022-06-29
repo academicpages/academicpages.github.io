@@ -10,17 +10,16 @@ redirect_from:
 {% include base_path %}
 
 * <b><ins>2017 - 2022:</ins></b> BSc. Electrical & Electronics Engineering, Koç University
-  * Research on learned image/video compression. Work accepted in [ICIP 2022](https://2022.ieeeicip.org/).
-  * Worked on image and video compression using recurrent and fully convolutional variational auto-encoders. My projects included our work on the design of a novel bidirectional frame compression network and several implementation of recent works in the literature using PyTorch machine learning framework.
-  * Supervisor: [Professor A. Murat Tekalp](http://home.ku.edu.tr/~mtekalp/)
-  * Research interests of Professor Tekalp captures a wide range of image/video processing 
-  applications including image/video super resolution, compression and restoration. With 
-  his vast research experience, Professor Tekalp helped me broaden my knowledge on above 
-  mentioned tasks and guided me through our research.
+  * My studies in EEE focused mostly on ```signal processing```, ```machine learning```, 
+  ```artificial intelligence``` and ```information theory```. After completing specialization 
+  courses with merit, I was awarded with track certificate of ```artificial intelligence```. 
+  * My thesis project on learned video compression was awarded with the second place after working 
+  under supervision of Professor Murat Tekalp.
+  * Graduated as the <b>salutatorian</b>, the <b>2<sup>nd</sup> top ranked student of the College of Engineering</b> and the <b>top ranking student of the EEE department</b>.
 
-* <b><ins>06.2021 - 09.2021:</ins></b> Summer Research Assistant in KUIS AI Lab, Koç University
-  * Studied style transfer and image manipulation with generative adversarial networks.
-  * Worked on implementation of “Swapping Autoencoder for Deep Image Manipulation” by [Park et al. (2020)](https://arxiv.org/abs/2007.00653) and presented the work together with a demo.
-  * Supervisor: [Professor Aykut Erdem](https://aykuterdem.github.io/)
-  * Professor Erdem conducts research on a diverse set of topics, ranging from image editing 
-  to visual saliency estimation, and to multimodal learning for integrated vision and language.
+* <b><ins>2017 - 2022:</ins></b> BA. Economics (Double Major), Koç University
+  * Having a keen interest in complex networks and game theory, I pursue a double major in Economics.
+  The specialization courses I have taken focused on ```financial markets```, ```game theory``` and 
+  ```information & contract theory```. I achieved my track certificate in ```financial engineering``` 
+  after completing required courses in the program.
+  * Graduated as the <b>salutatorian</b>, the <b>top ranked student of the College of Administrative Sciences and Economics</b> and the <b>top ranking student of the Economics department</b>.
