@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Eren Çetin"
   avatar           : "profile.png"
-  bio              : "Master's Student in ETH Zürich \\ 
+  bio              : "Master's Student in ETH Zürich \
                       Department of Information Technology and Electrical Engineering"
-  location         : "Location"
+  location         : "Zürich / Switzerland"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -238,13 +238,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #- scope:
+  #   path: ""
+  #    type: talks
+  #  values:
+  #    layout: talk
+  #    author_profile: true
+  #    share: true
 
 # Sass/SCSS
 sass:
