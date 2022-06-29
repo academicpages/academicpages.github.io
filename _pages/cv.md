@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://docs.google.com/viewerng/viewer?url=https://github.com/erenovic/cetineren/raw/master/assets/Cetin-Eren-Resume.pdf" width="500" height="375">
+Resume opens itself instead of showing this page!
