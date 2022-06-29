@@ -1,5 +1,5 @@
 ---
-permalink: about/
+permalink: /
 title: "Academic personal website of Eren Çetin"
 excerpt: "About me"
 author_profile: true
