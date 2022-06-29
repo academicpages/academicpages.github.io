@@ -1,10 +1,9 @@
 ---
-permalink: /
+permalink: about/
 title: "Academic personal website of Eren Çetin"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - about/
+redirect_from:
   - about.html
 ---
 
