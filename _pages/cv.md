@@ -33,6 +33,7 @@ Work experience
 
 Scholarships and Awards
 ======
+* Nomination as a top submission in the field of electromagnetic tissue properties mapping, for the abstract "A Novel Volume-Surface Integral Equation Formulation of Global Maxwell Tomography: Simulations and Experiments", by the ISMRM-EMTP study group.
 * Trainee (Educational) Stipend Award, in the ISMRM & SMRT Annual Meeting & Exhibition, 7-12 May 2022. Stipend for the abstract submission: "A Novel Volume-Surface Integral Equation Formulation of Global Maxwell Tomography: Simulations and Experiments". 
 * Trainee (Educational) Stipend Award, in the ISMRM Workshop on Ultra-High Field MR, 19-22 March 2022. Stipend for the abstract submission: "Hybrid volume-surface integral equation method for rapid electromagnetic simulations in ultra-high-field MRI".
 * Trainee (Educational) Stipend Award, in the ISMRM & SMRT Annual Meeting & Exhibition, 15-20 May 2021. Stipend for the abstract submission: "Decomposition of the incomplete volume-surface integral equation matrices for MR coil simulations".
