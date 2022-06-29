@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Education"
-permalink: education/
+title: "Research"
+permalink: research/
 author_profile: true
 redirect_from:
-  - edu/
+  - research/
 ---
 
 {% include base_path %}
