@@ -77,6 +77,16 @@ author_profile: true
 
 {% include youtube_embed.html id="aNFqqdCdRlk" %}
 
+## Kinesiology Controlled Robots
+
+{% include youtube_embed.html id="FOyrij1GudI" %}
+
+## SMA Based Inchworms
+
+{% include youtube_embed.html id="ZYL2UTRcegc" %}
+
+{% include youtube_embed.html id="4KhwSZk_vSY" %}
+
 
 
 
