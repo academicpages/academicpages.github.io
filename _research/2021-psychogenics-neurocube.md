@@ -9,3 +9,5 @@ location: "Paramus, NJ"
 ---
 
 The neurocube(C) is a prietary system developed in PsychoGenics visioning the automated vavarium. 
+
+The first project was the NeuroCube system, which generates the gait related features such as stride length, stride duration using the computer vision techniques. After that, I shifted the topic to the SmartCube system, which is the automated system that 
