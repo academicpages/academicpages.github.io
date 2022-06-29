@@ -2,6 +2,7 @@
 layout: archive
 title: "Research Experience"
 permalink: research/
+sitemap: true
 author_profile: true
 redirect_from:
 ---

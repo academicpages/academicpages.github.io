@@ -1,6 +1,7 @@
 ---
 permalink: /markdown/
 title: "Markdown"
+sitemap: false
 author_profile: true
 redirect_from: 
   - /md/

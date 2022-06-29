@@ -2,6 +2,7 @@
 permalink: /
 title: "Who am I?"
 excerpt: "About me"
+sitemap: true
 author_profile: true
 redirect_from:
   - about/
