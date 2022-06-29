@@ -12,7 +12,7 @@ Who am I?
 ======
 I am currently a senior in Electrical & Electronics Engineering with a double major in Economics 
 at Koç University. My professional interests are in <mark>machine learning</mark>, 
-<mark>image/video processing</mark>, <mark>computer vision</mark>, and <mark>optimization</mark>.
+```image/video processing```, <mark>computer vision</mark>, and <mark>optimization</mark>.
 <br><br>
 For most of my research and education, I had my hands dirty on frameworks, languages and tools 
 such as <mark>Python</mark>, <mark>MATLAB</mark>, <mark>PyTorch</mark>, <mark>C/C++</mark>, 
