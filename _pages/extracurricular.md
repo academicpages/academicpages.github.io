@@ -2,6 +2,7 @@
 layout: archive
 title: "Extracurricular"
 permalink: extra/
+sitemap: true
 author_profile: true
 redirect_from:
   - extracurricular/
