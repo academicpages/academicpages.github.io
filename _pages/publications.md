@@ -14,15 +14,20 @@ As a volunteer in [Economica](https://economica.pe/), I am in charge of designin
 
  This infographic seeks to explain what microfinance is and how microfinance institutions are constituted in the Peruvian market. After having made these terms clear, it was found that microfinance entities concentrate the highest penetration of microcredits to MYPES in the poorest sectors of our country (14.05%) in 2020, and instead the other financial companies traditional concentrated 3.79%, which demonstrates the fundamental role of MFIs in deepening and reducing poverty in the country.
 
-<a href="/images/microfinanzas.png" target="_blank">here</a>.
+<object data="/images/microfinanzas.png" type="application/pdf" width="500px" height="500px">
+    <embed src="//images/microfinanzas.png">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/images/CV_Riega_Esp.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 Also, here are some web articles I wrote in Spanish:
 
- * [La controversia de los COAR: una puerta para la discusión de la calidad del sistema educativo](https://economica.pe/la-controversia-de-los-coar-una-puerta-para-la-discusion-de-la-calidad-del-sistema-educativo/) - Revista Economica, (Nov 2020, Peru) 
+ * [¿Qué son los bienes públicos mundiales?](https://www.instagram.com/p/CZDRdVwL6nr/?igshid=NWRhNmQxMjQ=) - Revista Economica, (January 2022, Peru) 
+    <em>With Diana Casimiro</em>
  
-    This article points out some axes of debate with respect to the High Achievement Schools (COAR). The relevance of their existence is controversial insofar as it involves the component of equity in the quality of education, the cost that this strategy represents for the state and the mixed results it has on students. The discussion on whether or not this model should be followed highlights a precarious education system that we are all familiar with, but which, in times of crisis, is impossible to ignore and calls for a call for quality public education for all.
+   Here, we define global public goods as those whose benefits affect all citizens of the world. Given that it involves a large number of individuals, it is essential to guarantee the supply of this type of goods and the most appropriate institution to coordinate the supply of local and national public goods is the state government. Finally, as an example of the triumphs and limitations of international coordination, the ratification of the Paris Agreement is given as an example.
  
- * [Las licencias obligatorias de las vacunas y sus posibilidades en la pandemia del Covid-19](https://economica.pe/las-licencias-obligatorias-de-las-vacunas-y-sus-posibilidades-en-la-pandemia-del-covid-19/) - Revista Economica, (Feb 2021, Peru)
+ * [¿De donde vienen los dólares del Banco Central?](https://www.instagram.com/p/CYZ4bVrPgz7/?igshid=NWRhNmQxMjQ=) - Revista Economica, (January 2022, Peru)
  
     The vaccine supply crisis leads us to consider possible avenues for a solution. Among them, compulsory licensing presents a way to increase vaccine availability, but not without its corresponding challenges for the countries that implement it. Therefore, a review of what compulsory licensing is, what it entails, how it can help in this crisis, and how it can do so successfully, is undertaken. 
 
