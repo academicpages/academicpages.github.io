@@ -9,9 +9,6 @@ main:
   - title: "Education"
     url: education/ 
     
-  #- title: "Talks"
-  #  url: /talks/  
-
   - title: "Work Experience"
     url: work/  
     
@@ -20,9 +17,6 @@ main:
 
   - title: "Teaching"
     url: teaching/ 
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
 
   - title: "Extracurricular"
     url: extra/
@@ -32,3 +26,10 @@ main:
     
   #- title: "Guide"
   #  url: /markdown/
+
+  #- title: "Talks"
+  #  url: /talks/  
+     
+  #- title: "Blog Posts"
+  #  url: /year-archive/
+
