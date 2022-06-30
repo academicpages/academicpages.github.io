@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /publicationsandinfographics/
 author_profile: true
 ---
 
@@ -21,7 +21,7 @@ As a volunteer in [Economica](https://economica.pe/), I am in charge of designin
  
  * [¿De donde vienen los dólares del Banco Central?](https://www.instagram.com/p/CYZ4bVrPgz7/?igshid=NWRhNmQxMjQ=) - Revista Economica, (January 2022, Peru)
     <em>With Diana Casimiro</em>
-    
+
     In this infographic we explain that the dollars come out of an account called international reserves, which are collected through exchange operations carried out by the Central Bank through the Negotiation Table, the purchases and sales of foreign currency to the public sector, the purchase temporary foreign currency among other operations. These reserves are used to face unexpected capital outflows and reduce the volatility of the exchange rate. They are like a guarantee that we have to prevent the dollar from skyrocketing
 
 * [Monedas Digitales de los Bancos Centrales](https://www.instagram.com/p/CV35ALnLrQN/?igshid=NWRhNmQxMjQ=) - Revista Economica, (November 2022, Peru)
@@ -32,4 +32,3 @@ As a volunteer in [Economica](https://economica.pe/), I am in charge of designin
 As a pre-professional microfinance analysis intern at ([Superintendency of Banking, Insurance and Private Pension Fund Administrators (SBS)](https://www.sbs.gob.pe/)), I supported the creation of a Fintech document that seeks to describe this industry in the Peruvian market, as well as the perspective that the SBS has in relation to Fintech companies. This document is of vital importance, since the regulations for this type of company in the market are not very clear. This document will be published in the coming months.
 
  
-
