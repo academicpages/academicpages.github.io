@@ -11,12 +11,16 @@ redirect_from:
 I am Yusheng Su, a Ph.D. student in [THUNLP Lab](https://twitter.com/tsinghuanlp), the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am advised by [Prof. Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW). My research interests lie within the intersection of Natural Language Processing and Machine Learning. At the current stage, I am specifically interested in Pre-trained Language Models and Transfer Learning. <!--You can find my CV [here](/cv/).-->
 
 
-## News
-* <b>Coming Soon!</b> [11.07.2022] Will share our work: On Transferability of Prompt Tuning for Natural Language Processing [[pdf]](https://arxiv.org/abs/2111.06719) on NAACL.
-Time: 10:45 – 12:15
-Place: Elwha A
-Session: Efficient Methods in NLP
 
+## Coming Soon
+* Will share our work: On Transferability of Prompt Tuning for Natural Language Processing [[pdf]](https://arxiv.org/abs/2111.06719) on NAACL.
+* Time: July 10, 2022, 10:45 – 12:15 (UTC - 7:00)
+* Place: Elwha A, Hyatt Regency Seattle, Seattle, Washington, United States.  
+* Session: Efficient Methods in NLP
+
+
+## News
+* [Jul. 2022] Share our work [[pdf]](https://arxiv.org/abs/2111.06719) on NAACL Oral Session.
 * [Apr. 2022] Got two papers accepted at NAACL 2022. 
 * [Mar. 2022] Got one paper accepted at ACL 2022. 
 * [Aug. 2021] Got one paper accepted at IEEE/TASLP 2021.
