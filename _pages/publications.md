@@ -22,8 +22,6 @@ As a volunteer in [Economica](https://economica.pe/), I am in charge of designin
 
 <img src="/img/microfinanzas.png" />
 
-Also, here are some web articles I wrote in Spanish:
-
  * [¿Qué son los bienes públicos mundiales?](https://www.instagram.com/p/CZDRdVwL6nr/?igshid=NWRhNmQxMjQ=) - Revista Economica, (January 2022, Peru) 
     <em>With Diana Casimiro</em>
  
