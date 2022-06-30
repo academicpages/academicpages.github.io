@@ -29,11 +29,11 @@ You will find my repository [here](https://github.com/Angela-Coapaza/Causal_Infe
   Here we replicate an experiment on orthogonal learning in Julia. Then, we used the Double Lasso to test the convergence hypthesis,which is that poor countries will grow at higher rates than rich countries. Next, we prove the Neyman Orthogonality Condition and finally we created a tutorial about good and bad controls based on Cinelli et all 2022.
 * [5.Causal Tree ](https://github.com/Angela-Coapaza/Causal_Inference_and_Machine_Learning/tree/main/5.%20Bootstraping%20and%20Causal%20Tree)
 
- First, we go step by step through the construction of a Bootstrapping.Using the U.S. March Supplement of the Current Population Survey (CPS) in 2015 we illustrate how to predict an outcome variable Y in a high-dimensional setting, where the number of covariates is large in relation to the sample size . Aside from linear prediction rules, and Lasso regression, we also consider nonlinear prediction rules including tree-based methods. Finally, we explain how to build a tree regression and to prune a tree.
+    First, we go step by step through the construction of a Bootstrapping.Using the U.S. March Supplement of the Current Population Survey (CPS) in 2015 we illustrate how to predict an outcome variable Y in a high-dimensional setting, where the number of covariates is large in relation to the sample size . Aside from linear prediction rules, and Lasso regression, we also consider nonlinear prediction rules including tree-based methods. Finally, we explain how to build a tree regression and to prune a tree.
 
 * [6.Causal Forest & Debiased Machine Learning ](https://github.com/Angela-Coapaza/Causal_Inference_and_Machine_Learning/tree/main/6.%20Causal%20Forest%20and%20Debiased%20Machine%20Learning)
 
-  In this section we replicate the paper of Athey and Wager (2018) in python .
+    In this section we replicate the paper of Athey and Wager (2018) in python .
 
-It is important to mention that the replicated codes in R, Python and Julia were were made under a collaborative work with Ana Angulo and Andrea Ulloa.
+    It is important to mention that the replicated codes in R, Python and Julia were were made under a collaborative work with Ana Angulo and Andrea Ulloa.
 
