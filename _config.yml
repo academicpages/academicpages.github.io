@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Sung-Cheol Kim"
   avatar           : "portrait_20220626.jpg"
-  bio              : "Biophysicist, Data Scientist, Computer Vision Researcher"
+  bio              : "Biophysicist, Data Scientist, Computer Vision Researcher - Apply ML to challenging healthcare problems with physics knowlege!"
   location         : "New Jersey, USA"
   employer         : "PsychoGenics"
   email            : sungcheol.kim78@gmail.com
@@ -165,6 +165,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  mljourney:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -205,10 +208,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _mljourney
   - scope:
       path: ""
-      type: portfolio
+      type: mljourney
     values:
       layout: single
       author_profile: true

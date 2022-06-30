@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am Sr. Data Scientist at the [PsychoGenics](https://www.psychogenics.com/). I joined the data science team in 2020 and have been worked on various AI related projects for phenotying disease model and screening novel drugs using computer vision techniques on animal behavior. 
+I am Sr. Data Scientist at the [PsychoGenics](https://www.psychogenics.com/). I joined the data science team in 2020 and have been worked on AI projects for phenotying disease model and screening novel drugs using computer vision techniques on animal behavior. 
 
 My main research topic is to build a hardware/software system that can collect videos of rat behaviors and classify the subject automatically. 
+
+제 연구 주제를 보면 알 수 있듯이 현재의 많은 연구들은 물리, 생물물리, 공학, 통계학 등의 여러 분야의 주제와 연구 방법론들이 합쳐져서 이루어지고 있습니다. 이렇게 다양한 주제가 통합된 논문을 내는 것이 트렌드이긴 하지만, 한 사람이 이 모든 분야를 섭렵하고 주도적으로 논문을 쓰는 일은 거의 불가능에 가까운 일인 것 같습니다. 한 분야에서 오랫동안 연구를 한 후에 다른 분야로 옮겨가는 식으로 한가지 이상의 분야에 대해 깊이 있는 지식을 가진 분들도 있기는 하지만, 대부분의 연구자들은 자기들의 분야에 대한 지식들을 익히기에도 시간이 부족한 것이 현실입니다. 하지만 현재 해결해야 하는 많은 주제들은 여러가지 분야들이 합쳐저서 해결책을 찾아야 하기 때문에, 현재의 연구자들은 부족한 다른 분야의 지식을 보완하기 위해 다양한 분야의 연구자들이 함께 협동 연구를 진행하는 경우가 많이 있습니다. 저는 IBM T.J. Watson 연구소에서 일하면서 다양한 전공을 가진 사람들로 이루어진 팀에서 일하는 경험을 할 수 있었습니다. 생물학 전공자와 기계 공학 전공자, 그리고 응용 수학자, 저와 같은 물리학자가 한 팀이 되어서 암을 조기 진단할 수 있는 장치 및 기술을 개발하기 위해 노력했었습니다. 이 과정을 통해 다양한 분야에 대한 지식들을 빠르게 습득할 수 있었고, 무엇보다 이러한 지식들을 활용한 수치 계산 프로그램을 작성해 볼 기회를 얻었습니다. 덕분에 대부분의 제가 일저자인 논문들은 많은 코딩 자료과 수치 계산이 포함되어 있습니다. (논문이 어려워지는 것은 보너스로 얻는 효과입니다.)
+
+이러한 환경에서 여러 팀원들과 좋은 결과를 이끌어 내려면 어떠한 자질을 가지고 있어야 할까요? 저는 첫번째 덕목으로 늘 새로운 것을 배우려고 하는 `Fast Learner`가 중요하다고 생각합니다. 새로운 것을 배우는 것은 쉽지만은 않습니다. 자신이 가지고 있는 기존 지식과 방식을 내려놓고 새로운 방식을 시도해 봐야 하고 또한 그 초기에 나타나는 비효율과 늦은 속도를 인내해야 하기 때문입니다. 하지만, 새로운 기술에 도전하고 옛것을 내려 놓을 줄 안다면 지속적으로 협력 연구를 할 수 있는 기회를 얻게 될 것입니다. 또한 기존의 경험과 지식들이 다른 프로젝트에 영향을 미쳐서 전에 없던 새로운 기술과 관점을 제공할 수 있을 것입니다. 두번째 덕목으로는 사람과 사람간의 소통을 촉진하고 지식들을 잘 전달하는 `Bridge maker`가 되어야 한다고 생각합니다. 여기에는 대화의 기술이 중심이 되는데, 두 가지 방식이 있습니다. 첫번째 방법은 훌륭한 언어와 글로 다른 전공의 연구자에게 지속적으로 설명을 해주는 것입니다. 하지만, 저와 같이 영어가 모국어가 아닌 경우는 유창하고도 간결한 글로 핵심을 전달하는 것이 쉽지가 않습니다. 또한 영어가 모국어인 사람이라 할지라도 내용을 간결하고 중요하게 전달하는 것은 쉽지 않은 일입니다. 게다가 다양한 전공자가 있는 팀에서는 각자가 사용하는 전문 용어가 다르기 때문에 언어의 문제를 넘어서는 소통의 어려움이 있습니다. 두번째 방식은 과학의 공통 언어인 수식과 그래프를 이용한 비주얼 프리젠테이션 능력을 기르는 것입니다. 전달하고자 하는 핵심 내용을 간결한 표, 그래프, 수식을 통해 전달할 수 있다면, 다양한 팀에서 연구자 간의 다리를 놓는 역할을 할 수 있을 것입니다. 저는 물리학을 통해서 이러한 기술들에 대해 훈련할 수 있었고, IBM과 PsychoGenics와 같은 산업체에서 그 효과를 누릴 수 있었습니다. 
+
+![](/files/sungcheolkim_mindmap.png)
+
+제가 수행했던 연구 주제와 산업체에서의 경험에 대해 더 자세히 알기 원하시면, 위의 그림을 참고해 주세요. 또한 [Research](/research/) 항목에서 하나 하나에 대한 자세한 내용들을 찾아 볼 수 있습니다. 각각의 연구 주제들은 작게는 1년에서 길게는 2~3년동안의 연구 기간이 소요되었습니다. 하지만, 이 모든 연구들이 흥미롭고 과학발전에 유익했기에 끝까지 완수 할 수 있었습니다. 저와 같은 `Fast learner`가 되길 원하신다면, 시간을 내어서 읽어 보길 추천합니다. 
+
+이러한 경험들을 바탕으로 제가 하고 싶은 일은 산업체 연구소에서 
