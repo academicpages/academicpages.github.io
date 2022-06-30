@@ -13,10 +13,12 @@ I am Yusheng Su, a Ph.D. student in [THUNLP Lab](https://twitter.com/tsinghuanlp
 
 
 ## Coming Soon
-* Will share our work: On Transferability of Prompt Tuning for Natural Language Processing [[pdf]](https://arxiv.org/abs/2111.06719) on NAACL.
-* Time: July 10, 2022, 10:45 – 12:15 (UTC - 7:00)
-* Place: Elwha A, Hyatt Regency Seattle, Seattle, Washington, United States.  
-* Session: Efficient Methods in NLP
+
+
+Will share our work: On Transferability of Prompt Tuning for Natural Language Processing [[pdf]](https://arxiv.org/abs/2111.06719) on NAACL.
+Time: July 10, 2022, 10:45 – 12:15 (UTC - 7:00)
+Place: Elwha A, Hyatt Regency Seattle, Seattle, Washington, United States.  
+Session: Efficient Methods in NLP
 
 
 ## News
