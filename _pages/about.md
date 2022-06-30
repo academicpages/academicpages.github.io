@@ -13,6 +13,7 @@ Hi there! I am Fazilet, a second-year PhD student in Computer Science at the Uni
 
 * Our poster entitled “Patch-adaptive Transformation Blending for One-Shot Photo Retouching” has been accepted for poster presentation at [ICCP 2022](https://iccp2022.iccp-conference.org/), which is to be held in Caltech, Pasadena, August 1-3, 2022😊
 * I will be an Applied Scientist Intern at Amazon's computer vision research team in Berlin this summer (July, 2022)🥳
+* I gave a lecture on Convolutional Neural Networks at Women@CL GWML Introduction to Machine Learning Workshop, 19 June 2022🤓 
 
 <!-- develop efficient methods to enhance or manipulate images and expand their applications for 3D scene manipulations.
  -->
