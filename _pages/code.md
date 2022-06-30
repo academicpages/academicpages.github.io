@@ -1,9 +1,9 @@
 ---
-layout: posts
+layout: archive
 permalink: /code/
 title: "Causal Inference and ML Bookdown"
 author_profile: true
-header:
+
 ---
 
 ## Applied Statistics: Causal Inference in Economic Analysis and Machine Learning Methods
@@ -17,9 +17,9 @@ You will find my repository [here](https://github.com/Angela-Coapaza/Causal_Infe
 
 * [2. Partialling-Out using Lasso](https://github.com/Angela-Coapaza/Causal_Inference_and_Machine_Learning/tree/main/2.%20Partialling-Out%20using%20lasso)
 
-  Using the same data base from the March Supplement of the U.S. Current Population Survey, year 2015. The variable of interest Y is the hourly wage rate constructed as the ratio of the annual earnings to the total number of hours worked. In our analysis, we also focus on single (never married) workers. The use of the lasso for partialling-out the basic regressions shows us that the gender gap is of 12.14%, which is different from the 7% gap found in the basic regression using OLS. Probably because lasso supresses some of the regressors but not all of them, and because partialling out controls for the covariates in the both regressions. The use of the lasso for partialling-out the basic regressions shows us that the gender gap is of 11.40%, which is different from the 7% gap found int the basic regression using OLS but pretty similar to the 12% found on the basic regression model with partialling-out. Above the possible reasons already mentioned, in this flexible model we have more regressors but also controlled by the penalty value. We also add the definition and process of Data Splitting.
+  Using the same data base from the March Supplement of the U.S. Current Population Survey and select white non-hispanic individuals, aged 25 to 64 years, and working more than 35 hours per week during at least 50 weeks of the year, we are going  to construct the variable Y which is the hourly wage rate constructed as the ratio of the annual earnings to the total number of hours worked. Next, we use the lasso for partialling-out the basic regressions and we find that this mehod give us a different result compared to a basic OLS regression regarding the gender wage gap (12% versus 7% respectively). We also add the definition and process of Data Splitting. 
 
-* [3. Potential Outcomes and RCTs](https://github.com/stephyriega/ML_CI/tree/main/Potential%20Outcomes%20and%20RCTs)
+* [3. Potential Outcomes and RCTs](https://github.com/Angela-Coapaza/Causal_Inference_and_Machine_Learning/tree/main/3.%20RCT%20data%20with%20Precision%20Adjustment)
 
   In this lab, we analyze the Pennsylvania re-employment bonus experiment, which was previously studied in "Sequential testing of duration data: the case of the Pennsylvania ‘reemployment bonus’ experiment" (Bilias, 2000), among others. These experiments were conducted to test the incentive effects of alternative compensation schemes for unemployment insurance (UI). In these experiments, UI claimants were randomly assigned either to a control group or one of five treatment groups and we will focus on treatment group 2. Individuals in the treatment groups were offered a cash bonus if they found a job within some pre-specified period of time (qualification period), provided that the job was retained for a specified duration. The treatments differed in the level of the bonus, the length of the qualification period, and whether the bonus was declining over time in the qualification period. We run classical 2-sample approach, no adjustment (CL), Classical linear regression adjustment (CRA) and Interactive regression adjustment (IRA). IRA regression estimators delivers estimates that are slighly more efficient (lower standard errors) than the simple 2 mean estimator, but essentially all methods have very similar standard errors. From IRA results we also see that there is not any statistically detectable heterogeneity. Also, we explain what is multicollinearity as well as perfect and imperfect multicollinearity. 
 
