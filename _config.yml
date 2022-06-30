@@ -11,9 +11,9 @@ title                    : "Eren Çetin"
 title_separator          : "-"
 name                     : &name "Eren Çetin"
 description              : &description "Master's Student in ETH Zürich"
-url                      : https://erenovic.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cetineren.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "erenovic/erenovic.github.io"
+repository               : "erenovic/cetineren.com"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
