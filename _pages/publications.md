@@ -38,23 +38,23 @@ author_profile: true
 **Conferences**
 * <b>Scribble-Supervised Medical Image Segmentation via Dual-Branch Network and Dynamically Mixed Pseudo Labels Supervision</b> <br> 
   <b>Xiangde Luo</b>, Minhao Hu, Wenjun Liao, Shuwei Zhai, Tao Song, Guotai Wang, Shaoting Zhang<br>
-  <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2022 (early accepted, top 13% in 1825 submissions, **MICCAI2022 Student Travel Award**)</b>.<br>
+  <b>MICCAI2022 (early accepted, top 13% in 1825 submissions, **MICCAI2022 Student Travel Award**)</b>.<br>
    
  [[paper](https://arxiv.org/abs/2203.02106)][[code](https://github.com/HiLab-git/WSL4MIS)][[pdf](../files/DMPLS-MICCAI2022.pdf)]
     
 * <b>Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer</b> <br> 
   <b>Xiangde Luo</b>, Minhao Hu, Tao Song, Guotai Wang, Shaoting Zhang<br>
-  <i>Medical Imaging with Deep Learning</i>. <b>MIDL2022</b>.<br>
+  <b>MIDL2022</b>.<br>
   [[paper](https://openreview.net/pdf?id=KUmlnqHrAbE)][[code](https://github.com/HiLab-git/SSL4MIS)][[pdf](../files/CTbCT-MIDL2022.pdf)]
   
 * <b>Efficient Semi-Supervised Gross Target Volume of Nasopharyngeal Carcinoma Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Nianyong Chen, Guotai Wang, Shaoting Zhang<br>
-  <i>International Conference on Medical Image Computing and Computer-Assisted Intervention</i>. <b>MICCAI2021 (early accepted, top 13% in 1630 submissions)</b>.<br>
+  <b>MICCAI2021 (early accepted, top 13% in 1630 submissions)</b>.<br>
  [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)][[pdf](../files/URPC-MICCAI2021.pdf)]
    
 * <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> <br> 
   <b>Xiangde Luo</b>, Jieneng Chen, Tao Song, Guotai Wang<br>
-  <i>The Thirty-Fifth AAAI Conference on Artificial Intelligence</i>. <b>AAAI2021  (CCF A)</b>.<br>
+  <b>AAAI2021  (CCF A)</b>.<br>
  [[paper](https://arxiv.org/abs/2009.04448)][[code](https://github.com/HiLab-git/DTC)][[pdf](../files/DTC-AAAI2021.pdf)]
  
 <!-- * <b>Learning Euler's Elastica Model for Medical Image Segmentation</b> <br> 
