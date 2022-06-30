@@ -14,9 +14,8 @@ Volunteering
 ======
 Together with a group of colleagues, we ran as the board of directors of the ([PUCP economics student assembly](https://instagram.com/aee.pucp?igshid=NWRhNmQxMjQ=)) during the 2021-2 academic period. During this experience I served as director of the marketing area and was in charge of leading a group of economics students from PUCP, so that they can demonstrate their academic work in social networks.
 
+I was also a volunteer in the area of art and image in the  ([Economica](https://economica.pe/)) student organization for approximately one year. In said area In charge of collecting and preparing informative reports on the main press media, specifically those specialized in economics. I am currently a member of the area of research and publications, in which I dedicate myself to making weekly presentations on economic issues.
 
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 Getting started
 ======
