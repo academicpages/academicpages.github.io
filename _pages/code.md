@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "Codes"
 permalink: /code/
 title: "Causal Inference and ML Bookdown"
 author_profile: true
@@ -21,6 +22,8 @@ You will find my repository [here](https://github.com/Angela-Coapaza/Causal_Infe
 
 * [3. Potential Outcomes and RCTs](https://github.com/Angela-Coapaza/Causal_Inference_and_Machine_Learning/tree/main/3.%20RCT%20data%20with%20Precision%20Adjustment)
 
+  First, we 
+  
   In this lab, we analyze the Pennsylvania re-employment bonus experiment, which was previously studied in "Sequential testing of duration data: the case of the Pennsylvania ‘reemployment bonus’ experiment" (Bilias, 2000), among others. These experiments were conducted to test the incentive effects of alternative compensation schemes for unemployment insurance (UI). In these experiments, UI claimants were randomly assigned either to a control group or one of five treatment groups and we will focus on treatment group 2. Individuals in the treatment groups were offered a cash bonus if they found a job within some pre-specified period of time (qualification period), provided that the job was retained for a specified duration. The treatments differed in the level of the bonus, the length of the qualification period, and whether the bonus was declining over time in the qualification period. We run classical 2-sample approach, no adjustment (CL), Classical linear regression adjustment (CRA) and Interactive regression adjustment (IRA). IRA regression estimators delivers estimates that are slighly more efficient (lower standard errors) than the simple 2 mean estimator, but essentially all methods have very similar standard errors. From IRA results we also see that there is not any statistically detectable heterogeneity. Also, we explain what is multicollinearity as well as perfect and imperfect multicollinearity. 
 
 * [4.Double Lasso and Testing the Convergence Hypothesis](https://github.com/stephyriega/ML_CI/tree/main/Double%20Lasso%20-%20Testing%20the%20Convergence%20Hypothesis)
