@@ -38,7 +38,7 @@ author_profile: true
 **Conferences**
 * <b>Scribble-Supervised Medical Image Segmentation via Dual-Branch Network and Dynamically Mixed Pseudo Labels Supervision</b> <br> 
   <b>Xiangde Luo</b>, Minhao Hu, Wenjun Liao, Shuwei Zhai, Tao Song, Guotai Wang, Shaoting Zhang<br>
-  <b>MICCAI2022 (early accepted, top 13% in 1825 submissions, Student Travel Award)</b>.<br>
+  <b>MICCAI2022 (early accept, top 13% in 1825 submissions, MICCAI Student Travel Award)</b>.<br>
   [[paper](https://arxiv.org/abs/2203.02106)][[code](https://github.com/HiLab-git/WSL4MIS)][[pdf](../files/DMPLS-MICCAI2022.pdf)]
     
 * <b>Semi-Supervised Medical Image Segmentation via Cross Teaching between CNN and Transformer</b> <br> 
@@ -48,7 +48,7 @@ author_profile: true
   
 * <b>Efficient Semi-Supervised Gross Target Volume of Nasopharyngeal Carcinoma Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Nianyong Chen, Guotai Wang, Shaoting Zhang<br>
-  <b>MICCAI2021 (early accepted, top 13% in 1630 submissions)</b>.<br>
+  <b>MICCAI2021 (early accept, top 13% in 1630 submissions)</b>.<br>
  [[paper](https://arxiv.org/pdf/2012.07042.pdf)][[code](https://github.com/HiLab-git/SSL4MIS)][[pdf](../files/URPC-MICCAI2021.pdf)]
    
 * <b>Semi-supervised Medical Image Segmentation through Dual-task Consistency</b> <br> 
