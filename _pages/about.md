@@ -16,7 +16,7 @@ skill sets in facilitation, technical communication, and project management.
 ## Work history
 
 I work at [Biobot Analytics](https://www.biobot.io), where I lead the Epidemiology
-group in the Data Science Team. Our goal is to
+Group in the Data Science Team. Our goal is to
 connect wastewater-based data streams with public health
 actions. Biobot performs Covid-19 monitoring for places
 like [Boston, MA](https://www.mwra.com/biobot/biobotdata.htm). You can learn more
@@ -36,7 +36,7 @@ Grad](https://www.hsph.harvard.edu/yonatan-grad/), I co-designed a model used
 to inform the design of the National Basketball Association's "bubble"
 for the 2020 play-offs.
 
-Before COVID-19, I was Scientific Director at
+Before Covid-19, I was Scientific Director at
 [OpenBiome](http://www.openbiome.org), a non-profit stool bank based in
 Boston. OpenBiome provides material for fecal microbiota transplantation
 (FMT) for use in treating *C. difficile* infection and for research.
