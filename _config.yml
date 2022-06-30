@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Andrea Ulloa"
   avatar           : "andrea.png"
-  bio              : "Economics student of the ninth cycle of the Pontifical Catholic University of Peru (PUCP)"
+  bio              : "Economics student of the ninth cycle at Pontificia Universidad Católica del Perú (PUCP)"
   location         : "Lima, Perú"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
