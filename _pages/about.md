@@ -17,7 +17,7 @@ Together with a group of colleagues, we ran as the board of directors of the ([P
 I was also a volunteer in the area of art and image in the  ([Economica](https://economica.pe/)) student organization for approximately one year. In said area In charge of collecting and preparing informative reports on the main press media, specifically those specialized in economics. I am currently a member of the area of research and publications, in which I dedicate myself to making weekly presentations on economic issues.
 
 
-Getting started
+What do i do
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
@@ -26,7 +26,7 @@ Getting started
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
+What i do like to do
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
