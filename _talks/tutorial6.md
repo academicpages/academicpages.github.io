@@ -4,6 +4,6 @@ collection: talks
 type: "Presentation"
 permalink: /talks/tutorial6
 venue: "Radiology Research Forum and Vilcek Seminars in Biomedical Imaging"
-date: 2022-10-01
+date: 2021-10-01
 location: "New York, NY, USA"
 ---
