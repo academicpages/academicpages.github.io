@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 22 years student attending an MS in Data Science at Bocconi University. I graduated with a Bachelor in Economics and Computer Science. I decided to do this experiment since I like coding and found an easy template to develop a simple page. You can find more information on my Github page, at the link on the left panel (follow button if you are using your phone). The repo is named after this website. <br>
+I am a 22 years old student attending an MS in Data Science at Bocconi University. I graduated with a Bachelor in Economics and Computer Science. I decided to do this experiment since I like coding and found an easy template to develop a simple page. You can find more information on my Github page, at the link on the left panel (follow button if you are using your phone). The repo is named after this website. <br>
 
 - 🛠 I’m a visiting student at [BIDSA](https://bidsa.unibocconi.eu/), under the supervision of Professor Lucibello C. and Saglietti L.
 
