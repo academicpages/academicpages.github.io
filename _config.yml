@@ -82,39 +82,13 @@ analytics:
 author:
   name             : "Blaise Munyampirwa"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  bio              : "AI Engineer at ThirdAI"
+  employer         : "ThirdAI"
+  email            : "blaisemunyampirwa@gmail.com"
+  facebook         : "https://www.facebook.com/muhirwa.blaise/"
+  github           : "https://github.com/BlaiseMuhirwa"
+  linkedin         : "https://www.linkedin.com/in/blaise-munyampirwa-2a1673143/"
+  twitter          : "https://mobile.twitter.com/BlaiseMuhirwa51"
 
 
 # Reading Files
