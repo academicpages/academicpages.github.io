@@ -1,6 +1,6 @@
 ---
 title: "Bipartite Matching: Framework and Solutions"
-excerpt: "A path to the Hungarian Algorithm and beyond, June 2022 <br/><img src='/images/Triple_dim_acc_rej_123.png'>"
+excerpt: "A path to the Hungarian Algorithm and beyond, June 2022 <br/><img src='/images/perf_match.png'>"
 collection: portfolio
 ---
 To access the theoretical document, please click [here]([https://github.com/simonegiancola09/probit_bayesian_MCMC/blob/main/report.pdf](https://github.com/simonegiancola09/simonegiancola09.github.io/blob/master/files/Algorithms_Hungarian_chapters.pdf))
