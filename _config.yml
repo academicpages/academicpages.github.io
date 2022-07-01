@@ -84,7 +84,7 @@ author:
   avatar           : "profile_pic.jpg"
   bio              : "Postdoctoral Fellow, New York University Grossman School of Medicine"
   location         : "New York, NY, 10016"
-  employer         :
+  employer         : "https://cai2r.net/"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Giannakopoulos+II&cauthor_id=35110782"
   googlescholar    : "https://scholar.google.com/citations?user=6Zpd1esAAAAJ&hl=en"
   email            : "ilias.giannakopoulos@nyulangone.org"
