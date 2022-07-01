@@ -7,7 +7,7 @@ To access the theoretical document, please click [here](http://simonegiancola09.
 <br/>
 To access the presentation, please click [here](http://simonegiancola09.github.io/files/Algorithms_hungarian_presentation.pdf)
 
-Document with 70 pages of theory and a presentation in fullfillment of the course Algorithms@Bocconi. Final grade 30/30 
+Document with 70 pages of theory and a presentation in fullfillment of the course Algorithms@Bocconi. Expanded devolving time to the Visiting Student presentation. Final grade 30/30 
 
 ### Abstract
 In a scenario of tasks and agents that could perform them at a specified cost, the Assignment Problem aims to find the best pairs that attain an optimal cost. 
