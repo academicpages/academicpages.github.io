@@ -6,18 +6,18 @@ author_profile: true
 ---
 ## Working Papers
 1. C. Xu\*, T. Li\*, **C. Tang**, L. Sun, K. Keutzer, M. Tomizuka, A. Fathi, and W. Zhan, "PreTraM: Self-Supervised Pre-training via Connecting Trajectory and Map," under review for *European Conference on Computer Vision (ECCV)*, 2022
-1. **C. Tang**, W. Zhan, and M. Tomizuka, “Interventional behavior prediction: Avoiding overly confident anticipation in interactive prediction,” under review for *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022
-1. L. Sun\*, **C. Tang**\*, Y. Niu, E. Sachdeva, C. Choi, T. Misu, M. Tomizuka, and W. Zhan, “Domain knowledge driven pseudo labels for interpretable goal-conditioned interactive trajectory prediction,” under revision for *IEEE Robotics and Automation Letters (RA-L)*, 2022
 1. **C. Tang**, N. Srishankar, S. Martin and M. Tomizuka, "Grounded Relational Inference: Domain Knowledge-driven Explainable Autonomous Driving," under review for *IEEE Transactions on Intelligent Transportation System (T-ITS)*, 2022
 1. J. Chen, **C. Tang**, W. Zhan, and M. Tomizuka, “Interaction-and-uncertainty-aware joint decision making and trajectory planning for urban on-road autonomous driving,” *in preparation for journal submission*
 
 ## Journal
-1. J. Li, **C. Tang**, W. Zhan, and M. Tomizuka, “Hierarchical planning through goal-conditioned offline reinforcement learning,” to appear in *IEEE Robotics and Automation Letters (RA-L)*, 2022
+1. J. Li, **C. Tang**, W. Zhan, and M. Tomizuka, “Hierarchical planning through goal-conditioned offline reinforcement learning,” to appear in *IEEE Robotics and Automation Letters (RA-L)* and *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022
 1. **C. Tang**\*, Z. Xu\* and M. Tomizuka, "Disturbance-Observer-Based Tracking Controller for Neural Network Driving Policy Transfer," *IEEE Transactions on Intelligent Transportation Systems*, vol. 21, no. 9, pp. 3961-3972, Sept. 2020 
 1. Á. Cuenca, W. Zhan, J. Salt, J. Alcaina, **C. Tang** and M. Tomizuka, “A Remote Control Strategy for an Autonomous Vehicle with Slow Sensor Using Kalman Filtering and Dual-Rate Control,” *Sensors*, vol. 19, no. 13, p. 2983, Jul. 2019.
 1. X. Liu, **C. Tang**, X. Du, S. Xiong, S. Xi, Y. Liu, X. Shen, Q. Zheng, Z. Wang, Y. Wu, et al., “A Highly Sensitive Graphene Woven Fabric Strain Sensor for Wearable Wireless Musical Instruments,” *Materials Horizons*, vol. 4, no. 3, pp. 477–486, 2017
 
 ## Conference Proceedings
+1. L. Sun\*, **C. Tang**\*, Y. Niu, E. Sachdeva, C. Choi, T. Misu, M. Tomizuka, and W. Zhan, “Domain knowledge driven pseudo labels for interpretable goal-conditioned interactive trajectory prediction,” to appear in *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022
+1. **C. Tang**, W. Zhan, and M. Tomizuka, “Interventional behavior prediction: Avoiding overly confident anticipation in interactive prediction,” to appear in *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022
 1. **C. Tang**, W. Zhan and M. Tomizuka, "Exploring Social Posterior Collapse in Variational Autoencoder for Interaction Modeling," Conference on Neural Information Processing Systems (NeurIPS), 2021
 1. J. Li, **C. Tang**, M. Tomizuka and W. Zhan, "Dealing with the unkonw: Pessimistic Offline Reinforcement Learning," 5th Annual Conference on Robot Learning (CoRL), 2021
 1. J. M. Salt Ducaju, **C. Tang**, M. Tomizuka and C. -Y. Chan, "Application Specific System Identification for Model-Based Control in Self-Driving Cars," *2020 IEEE Intelligent Vehicles Symposium (IV)*, pp. 384-390, 2020
