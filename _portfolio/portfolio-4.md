@@ -3,10 +3,11 @@ title: "Bipartite Matching: Framework and Solutions"
 excerpt: "A path to the Hungarian Algorithm and beyond, June 2022 <br/><img src='/images/perf_match.png'>"
 collection: portfolio
 ---
-To access the theoretical document, please click [here]([https://github.com/simonegiancola09/probit_bayesian_MCMC/blob/main/report.pdf](https://github.com/simonegiancola09/simonegiancola09.github.io/blob/master/files/Algorithms_Hungarian_chapters.pdf))
-To access the presentation, please click [here]([https://github.com/simonegiancola09/probit_bayesian_MCMC](https://github.com/simonegiancola09/simonegiancola09.github.io/blob/master/files/Algorithms_hungarian_presentation.pdf))
+To access the theoretical document, please click [here](http://simonegiancola09.github.io/files/Algorithms_Hungarian_chapters.pdf)
+<br/>
+To access the presentation, please click [here](http://simonegiancola09.github.io/files/Algorithms_hungarian_presentation.pdf)
 
-Document with 70 pages of thery and a presentation in fullfillment of the course Algorithms@Bocconi. Final grade 30/30 
+Document with 70 pages of theory and a presentation in fullfillment of the course Algorithms@Bocconi. Final grade 30/30 
 
 ### Abstract
 In a scenario of tasks and agents that could perform them at a specified cost, the Assignment Problem aims to find the best pairs that attain an optimal cost. 
