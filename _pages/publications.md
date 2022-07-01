@@ -7,6 +7,10 @@ author_profile: true
 
 ### 2022
 
+- **VLDB 2022** CodexDB: generating code for processing SQL queries using GPT-3 Codex. _Immanuel Trummer_
+- **VLDB 2022** Black-box optimization of comparative data summaries via reinforcement learning. _Immanuel Trummer_
+- **VLDB 2022** From BERT to GPT-3 Codex: harnessing the potential of very large language models for data management. _Immanuel Trummer_
+- **VLDB 2022** UDO: universal database optimization using reinforcement learning. _Junxiong Wang, Immanuel Trummer, Debabrota Basu_.
 - **SIGMOD 2022** Demonstrating DB-BERT: a database tuning tool that "reads the manual". _Immanuel Trummer_.
 - **AAAI 2022** Procrastinated tree search: black-box optimization with delayed, noisy, and multi-fidelity feedback. _Junxiong Wang, Debabrota Basu, Immanuel Trummer_.
 - **SIGMOD 2022** DB-BERT: a database tuning tool that "reads the manual". _Immanuel Trummer_.
@@ -15,7 +19,6 @@ author_profile: true
 ### 2021
 
 - **TODS 2021 "Best of SIGMOD" Edition** SkinnerDB: regret-bounded query evaluation via reinforcement learning. _Immanuel Trummer, Junxiong Wang, Ziyun Wei et al._ 
-- **VLDB 2021** UDO: universal database optimization using reinforcement learning. _Junxiong Wang, Immanuel Trummer, Debabrota Basu_.
 - **VLDB 2021** The case for NLP-enhanced database tuning: towards tuning tools that read the manual. _Immanuel Trummer_.
 - **VLDB 2021** Robust voice querying with MUVE: optimally visualizing results of phonetically similar queries. _Ziyun Wei, Immanuel Trummer, Connor Anderson_.
 - **IEEE Data Engineering Bulletin** WebChecker: towards an infrastructure for efficient misinformation detection at Web scale. _Immanuel Trummer_.
