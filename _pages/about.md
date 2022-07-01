@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+- Two more papers accepted at VLDB'22 (CodexDB, BABOONS)!
+- Our tutorial on language models and their database applications accepted at VLDB'22!
 - Our paper and demo of "DB-BERT: the tuning tool that reads the manual" accepted at SIGMOD'22!
 - Our paper on "procrastinated tree search" accepted at AAAI'22!
 - Three papers accepted at VLDB'21 (UDO, NLP-enhanced DB tuning, MUVE)!
