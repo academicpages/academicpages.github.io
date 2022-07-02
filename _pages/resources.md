@@ -19,7 +19,9 @@ author_profile: true
 | [AAAI](https://aaai.org/Conferences/AAAI-23/)| __Aug 8__ | AAAI Conference on Artificial Intelligence |
 | [BigData](http://bigdataieee.org/BigData2022/)  | __Aug 20__ | IEEE International Conference on Big Data |
 | [BIBM](https://ieeebibm.org/BIBM2022/)  | __Aug 21__| IEEE International Conference on Bioinformatics and Biomedicine |
-
+| [AMIA Informatics Summit](https://amia.org/education-events/amia-2023-informatics-summit)  | __September 14__| AMIA Informatics Summit |
+| [AMIA Clinical Informatics Conference](https://amia.org/education-events)  | __November 30__| AMIA Clinical Informatics Conference |
+| [AMIA Annual Symposium](https://amia.org/education-events)  | __March 9__| AMIA Informatics Summit |
      
 2022 Special Issue
 ======
