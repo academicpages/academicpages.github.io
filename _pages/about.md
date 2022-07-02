@@ -27,7 +27,7 @@ Researching and implementing the optimization of Vector Commitment schemes in co
 <br/><br/>
 
 ## NY State Prison Demographic and COVID 19 Research
-*Correctional Association of New York*
+*Correctional Association of New York, January 2021-June 2021*
 
 Researching and visualizing the impact of the pandemic on NY State Prison populations as well as the demographic makeup of the incarcerated population statewide under [Evan Misshula](https://misshula.org/pages/academic.html) 
 
@@ -37,6 +37,11 @@ Researching and visualizing the impact of the pandemic on NY State Prison popula
 
 Researching the effects of gender and minority quotas on corporate boards to analyze compliance and determine whether
 the legislation yields benefits for senior-level management not directly affected by the quotas under [Bhargav Gopal](https://econ.columbia.edu/econpeople/bhargav-gopal/)
+
+## Machine Learning and Arctic Ice Dynamics 
+*Dartmouth College, June 2020-August 2020*
+
+Modeling and predicting arctic ice sheet properties by fitting Gaussian Processes on ice displacement data under Dr. Anne Gelb(https://math.dartmouth.edu/~annegelb/) and Dr. Matt Parno(https://www.linkedin.com/in/mparno/). 
 
 
 
