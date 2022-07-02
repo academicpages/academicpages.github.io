@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,10 +12,8 @@ redirect_from:
 Research
 ======
 
-**PhD, Computer Science**; Awesome University (MyTown)
-
-*Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+# Test
+## Test
 
  **Interpretable Machine Learning and Amazonian Deforestation** : Yale School of the Environment, January 2022-Present
 
