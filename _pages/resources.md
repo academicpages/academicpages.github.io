@@ -6,7 +6,7 @@ author_profile: true
 
 {% include base_path %}
 
-2022 CS Conferences 
+2022 Computer Science Conferences 
 ======
 
 | Abbreviation| Due Date| Full Name |
