@@ -57,7 +57,7 @@ Undergraduate Teaching Experience
 - Data Exploration and Analysis (S&DS 230) Undergrad TA *Spring 2021*
 - Ordinary and Partial Differential Equations (ENAS 194) Undergrad Peer Tutor *Spring 2021*
 - Probability Theory with Applications (S&DS 241) Undergrad TA *Fall 2020*
-- Topics in Physics (Stanford Summer Session) Teaching Assistant *Summer 2019*
-- Topics in Mathematics (Stanford University Summer Session) Teaching Assistant *Summer 2019*
+- Topics in Physics (Stanford Summer Session) TA *Summer 2019*
+- Topics in Mathematics (Stanford University Summer Session) TA *Summer 2019*
 
 
