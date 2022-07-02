@@ -14,9 +14,10 @@ author_profile: true
 | [CIKM](https://www.cikm2022.org/)  | __May 22__| ACM International Conference on Information and Knowledge Management |
 | [ACM-BCB](https://acm-bcb.org/)  | __May 22__| ACM Conference on Bioinformatics, Computational Biology, and Health Informatics |
 | [ICDM](https://icdm22.cse.usf.edu/index.html)  | __June 10__| IEEE International Conference on Data Mining |
+| [EMNLP](https://2022.emnlp.org/calls/main_conference_papers/)  | __June 17__| Conference on Empirical Methods in Natural Language Processing |
 | [ASONAM](https://asonam.cpsc.ucalgary.ca/2022/)| __June 26__ | IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining |
 | [AAAI](https://aaai.org/Conferences/AAAI-23/)| __Aug 8__ | AAAI Conference on Artificial Intelligence |
-| [BigData](http://bigdataieee.org/BigData2022/)  | __Aug 20__ | 2022 IEEE International Conference on Big Data |
+| [BigData](http://bigdataieee.org/BigData2022/)  | __Aug 20__ | IEEE International Conference on Big Data |
 | [BIBM](https://ieeebibm.org/BIBM2022/)  | __Aug 21__| IEEE International Conference on Bioinformatics and Biomedicine |
 
      
