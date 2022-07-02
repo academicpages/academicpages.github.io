@@ -53,11 +53,11 @@ Modeling and predicting arctic ice sheet properties by fitting Gaussian Processe
 
 Undergraduate Teaching
 ======
-- Probability Theory for Data Science (S&DS 240) Undergrad TA Fall 2021
-- Data Exploration and Analysis (S&DS 230) Undergrad TA Spring 2021
-- Ordinary and Partial Differential Equations (ENAS 194) Undergrad Peer Tutor Spring 2021
-- Probability Theory with Applications (S&DS 241) Undergrad TA Fall 2020
-- Physics Undergraduate Teaching Assistant (Stanford Summer Session) Summer 2019
-- Mathematics Teaching Assistant (Stanford University Summer Session) Summer 2019
+- Probability Theory for Data Science (S&DS 240) Undergrad TA *Fall 2021
+- Data Exploration and Analysis (S&DS 230) Undergrad TA *Spring 2021
+- Ordinary and Partial Differential Equations (ENAS 194) Undergrad Peer Tutor *Spring 2021
+- Probability Theory with Applications (S&DS 241) Undergrad TA *Fall 2020
+- Physics Undergraduate Teaching Assistant (Stanford Summer Session) *Summer 2019
+- Mathematics Teaching Assistant (Stanford University Summer Session) *Summer 2019
 
 
