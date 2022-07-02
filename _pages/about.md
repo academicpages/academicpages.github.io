@@ -12,6 +12,11 @@ redirect_from:
 Research
 ======
 
+**PhD, Computer Science**; Awesome University (MyTown)
+
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
+
 - **Interpretable Machine Learning and Amazonian Deforestation** : *Yale School of the Environment, January 2022-Present*
 
 Building interpretible machine learning models to understand and predict where deforestation occurs in the Brazilian Amazon under [Dr. Luke Sanford](https://lcsanford.github.io) and [Dr. Kathryn Baragwanath](https://kathrynbaragwanath.com)
