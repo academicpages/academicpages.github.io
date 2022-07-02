@@ -12,8 +12,6 @@ redirect_from:
 Research
 ======
 
-# Test
-
 ## Interpretable Machine Learning and Amazonian Deforestation
 *Yale School of the Environment, January 2022-Present*
 
