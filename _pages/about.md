@@ -28,7 +28,7 @@ Researching and implementing the optimization of Vector Commitment schemes in co
  *Columbia University, January 2021-June 2021*
 
 Researching the effects of gender and minority quotas on corporate boards to analyze compliance and determine whether
-the legislation yields benefits for senior-level management not directly affected by the quotas 
+the legislation yields benefits for senior-level management not directly affected by the quotas under [Bhargav Gopal](https://econ.columbia.edu/econpeople/bhargav-gopal/)
 
 
 
