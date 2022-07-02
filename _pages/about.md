@@ -24,10 +24,11 @@ Building interpretible machine learning models to understand and predict where d
 Researching and implementing the optimization of Vector Commitment schemes in collaboration with Ph.D. student Weijie Wang under [Dr. Babis Papamanthou](https://www.cs.yale.edu/homes/cpap/) 
 <br/><br/>
 
-##  
- *Yale Applied Cryptography Lab, January 2022-June 2022*
+## Effects of Gender Quotas on Corporate Boards  
+ *Columbia University, January 2021-June 2021*
 
-Researching and implementing the optimization of Vector Commitment schemes in collaboration with Ph.D. student Weijie Wang under [Dr. Babis Papamanthou](https://www.cs.yale.edu/homes/cpap/)
+Researching the effects of gender and minority quotas on corporate boards to analyze compliance and determine whether
+the legislation yields benefits for senior-level management not directly affected by the quotas 
 
 
 
