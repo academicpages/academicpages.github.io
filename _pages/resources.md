@@ -23,11 +23,11 @@ author_profile: true
 
 | Abbreviation| Due Date| Full Name |
 | :---        |:---      | :---     |
+| [AMIA Annual Symposium](https://amia.org/education-events)  | __March 9__| AMIA Informatics Summit |
 | [ACM-BCB](https://acm-bcb.org/)  | __May 22__| ACM Conference on Bioinformatics, Computational Biology, and Health Informatics |
 | [BIBM](https://ieeebibm.org/BIBM2022/)  | __Aug 21__| IEEE International Conference on Bioinformatics and Biomedicine |
 | [AMIA Informatics Summit](https://amia.org/education-events/amia-2023-informatics-summit)  | __September 14__| AMIA Informatics Summit |
 | [AMIA Clinical Informatics Conference](https://amia.org/education-events)  | __November 30__| AMIA Clinical Informatics Conference |
-| [AMIA Annual Symposium](https://amia.org/education-events)  | __March 9__| AMIA Informatics Summit |
      
 2022 Special Issue
 ======
