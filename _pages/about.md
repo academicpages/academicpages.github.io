@@ -35,21 +35,29 @@ Researching and implementing the optimization of Vector Commitment schemes in co
 *Correctional Association of New York, January 2021-June 2021*
 
 Researching and visualizing the impact of the pandemic on NY State Prison populations as well as the demographic makeup of the incarcerated population statewide under [Evan Misshula](https://misshula.org/pages/academic.html) 
-
+<br/><br/>
 
 ## Effects of Gender Quotas on Corporate Boards  
  *Columbia University, January 2021-June 2021*
 
 Researching the effects of gender and minority quotas on corporate boards to analyze compliance and determine whether
 the legislation yields benefits for senior-level management not directly affected by the quotas under [Bhargav Gopal](https://econ.columbia.edu/econpeople/bhargav-gopal/)
+<br/><br/>
 
 ## Machine Learning and Arctic Ice Dynamics 
 *Dartmouth College, June 2020-August 2020*
 
 Modeling and predicting arctic ice sheet properties by fitting Gaussian Processes on ice displacement data under [Dr. Anne Gelb](https://math.dartmouth.edu/~annegelb/) and [Dr. Matt Parno](https://www.linkedin.com/in/mparno/). 
-
+<br/><br/>
 
 
 Undergraduate Teaching
 ======
-- Probability Theory with Applications (S&DS 241) Undergrad TA
+- Probability Theory for Data Science (S&DS 240) Undergrad TA Fall 2021
+- Data Exploration and Analysis (S&DS 230) Undergrad TA Spring 2021
+- Ordinary and Partial Differential Equations (ENAS 194) Undergrad Peer Tutor Spring 2021
+- Probability Theory with Applications (S&DS 241) Undergrad TA Fall 2020
+- Physics Undergraduate Teaching Assistant (Stanford Summer Session) Summer 2019
+- Mathmatics Teaching Assistant (Stanford University Summer Session) Summer 2019
+
+
