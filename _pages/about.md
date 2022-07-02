@@ -50,3 +50,6 @@ Modeling and predicting arctic ice sheet properties by fitting Gaussian Processe
 
 
 
+Undergraduate Teaching
+======
+- Probability Theory with Applications (S&DS 241) Undergrad TA
