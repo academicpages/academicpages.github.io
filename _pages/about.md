@@ -11,8 +11,10 @@ redirect_from:
 
 Research
 ======
+
 **Research Assistant, Yale School of the Environment** *January 2022-Present*
-Building interpretible machine learning models to understand and predict where deforestation occurs in the Brazilian Amazon
+Building interpretible machine learning models to understand and predict where deforestation occurs in the Brazilian Amazon under [Dr. Luke Sanford](https://lcsanford.github.io) and [Dr. Kathryn Baragwanath](https://kathrynbaragwanath.com)
+
 **Research Assistant, Yale Applied Cryptography Lab** *January 2022-June 2022*
 Researching and implementing the optimization of Vector Commitment schemes 
 
