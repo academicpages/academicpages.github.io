@@ -46,7 +46,7 @@ the legislation yields benefits for senior-level management not directly affecte
 ## Machine Learning and Arctic Ice Dynamics 
 *Dartmouth College, June 2020-August 2020*
 
-Modeling and predicting arctic ice sheet properties by fitting Gaussian Processes on ice displacement data under Dr. Anne Gelb(https://math.dartmouth.edu/~annegelb/) and Dr. Matt Parno(https://www.linkedin.com/in/mparno/). 
+Modeling and predicting arctic ice sheet properties by fitting Gaussian Processes on ice displacement data under [Dr. Anne Gelb](https://math.dartmouth.edu/~annegelb/) and [Dr. Matt Parno](https://www.linkedin.com/in/mparno/). 
 
 
 
