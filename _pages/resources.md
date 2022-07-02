@@ -33,8 +33,8 @@ Journals
 
 | Abbreviation| IF| Full Name |
 | :---        |:---      | :---     |
-| [JAMIA](https://academic.oup.com/jamia)| 4.112 | The 2022 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining |
-| [JBI](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics)  | 6.317 | Journal of Biomedical Informatics |
+| [JAMIA](https://academic.oup.com/jamia)| 7.942 | The 2022 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining |
+| [JBI](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics)  | 8.000 | Journal of Biomedical Informatics |
 | [IJMI](https://www.sciencedirect.com/journal/international-journal-of-medical-informatics)  | 4.046| International Journal of Medical Informatics  |
 
 __Related website__:    
