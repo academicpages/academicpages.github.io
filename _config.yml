@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : yingchengsun (AT) gmail (DOT) com
+    email                : "md5"
   generatedFields:
     date:
       type               : "date"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VCxrWbsAAAAJ&hl=en"
-  email            :
+  email            : "yingchengsun (AT) gmail (DOT) com"
   researchgate     : "https://www.researchgate.net/profile/Yingcheng_Sun"
   uri              :
   bitbucket        :
