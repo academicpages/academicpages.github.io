@@ -58,6 +58,6 @@ Undergraduate Teaching
 - Ordinary and Partial Differential Equations (ENAS 194) Undergrad Peer Tutor Spring 2021
 - Probability Theory with Applications (S&DS 241) Undergrad TA Fall 2020
 - Physics Undergraduate Teaching Assistant (Stanford Summer Session) Summer 2019
-- Mathmatics Teaching Assistant (Stanford University Summer Session) Summer 2019
+- Mathematics Teaching Assistant (Stanford University Summer Session) Summer 2019
 
 
