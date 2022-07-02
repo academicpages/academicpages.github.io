@@ -51,7 +51,7 @@ Modeling and predicting arctic ice sheet properties by fitting Gaussian Processe
 <br/><br/>
 
 
-Undergraduate Teaching
+Undergraduate Teaching Experience
 ======
 - Probability Theory for Data Science (S&DS 240) Undergrad TA *Fall 2021*
 - Data Exploration and Analysis (S&DS 230) Undergrad TA *Spring 2021*
