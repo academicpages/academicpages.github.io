@@ -13,11 +13,11 @@ Research
 ======
 
 # Test
-## Test
 
- **Interpretable Machine Learning and Amazonian Deforestation** : Yale School of the Environment, January 2022-Present
+## Interpretable Machine Learning and Amazonian Deforestation
+*Yale School of the Environment, January 2022-Present*
 
-*Building interpretible machine learning models to understand and predict where deforestation occurs in the Brazilian Amazon under [Dr. Luke Sanford](https://lcsanford.github.io) and [Dr. Kathryn Baragwanath](https://kathrynbaragwanath.com)*
+Building interpretible machine learning models to understand and predict where deforestation occurs in the Brazilian Amazon under [Dr. Luke Sanford](https://lcsanford.github.io) and [Dr. Kathryn Baragwanath](https://kathrynbaragwanath.com)*
 
  **Vector Commitment Tradeoffs and Optimization** : *Yale Applied Cryptography Lab, January 2022-June 2022*
 
