@@ -1,6 +1,12 @@
 ---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
 layout: cv
-title: Isaac Newtons's CV
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
