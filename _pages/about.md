@@ -15,7 +15,7 @@ Research
 ## Topic Modeling with Non Negative Matrix Factorization and Knowledge Graphs
 *UCLA Department of Mathematics, June 2022-Present*
 
-Uncovering latent information in dataset from Los Angeles community partners with NMF and KGE
+Uncovering latent information in data from Los Angeles community partners with NMF and KGE
 <br/><br/>
 
 ## Interpretable Machine Learning and Amazonian Deforestation
