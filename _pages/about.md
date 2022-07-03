@@ -27,6 +27,10 @@ _(with Brais Álvarez Pereira, Adewusi Mendonça, Dayvikson Raiss Laval Tavares,
 Pre-registered at: <https://www.socialscienceregistry.org/trials/4740>
 
 **Labour Market Effects of Ethiopia's Social Safety Net**
+<details>
+  <summary>Abstract</summary>
+  <p> This  paper assesses how a large transfer programme combining public works and unconditional transfers to food-insecure households in rural Ethiopia affects local labour markets. Using  repeated cross-sections of the National Labour Force Survey, I show that the programme did not change employment rates or wages in this rural economy. Instead, I find that workers shifted from agricultural to non-agricultural self-employment. I complement this analysis using  data from the Ethiopian Socio-Economic surveys and find similar results.  These results are at odds with previous work due to the thinness of rural wage markets in Ethiopia.</p>
+</details>
 
 **[The Future in Mind: Aspirations and Future-Oriented Behaviour in Rural Ethiopia](https://mbrg.bsg.ox.ac.uk/mind-and-behaviour-projects/aspirations-and-forward-looking-behaviour-rural-ethiopia)** \
 _(with Tanguy Bernard, Stefan Dercon, Kate Orkin, Alemayehu Seyoum Taffesse)_ \
