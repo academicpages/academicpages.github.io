@@ -28,7 +28,7 @@ Pre-registered at: <https://www.socialscienceregistry.org/trials/4740>
 
 
 <details>
-  <summary>**Labour Market Effects of Ethiopia's Social Safety Net**</summary>
+  <summary><b>Labour Market Effects of Ethiopia's Social Safety Net</b></summary>
   <p> This  paper assesses how a large transfer programme combining public works and unconditional transfers to food-insecure households in rural Ethiopia affects local labour markets. Using  repeated cross-sections of the National Labour Force Survey, I show that the programme did not change employment rates or wages in this rural economy. Instead, I find that workers shifted from agricultural to non-agricultural self-employment. I complement this analysis using  data from the Ethiopian Socio-Economic surveys and find similar results.  These results are at odds with previous work due to the thinness of rural wage markets in Ethiopia.</p>
 </details>
 
