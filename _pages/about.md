@@ -17,6 +17,8 @@ My current research studies firm and household behaviour in low-income rural set
 
 I am also affiliated with the [Centre for the Study of African Economies](https://www.csae.ox.ac.uk/), the [Applied Microeconomics research group](https://www.economics.ox.ac.uk/applied-microeconomics-0), the [Mind and Behaviour Research Group](https://mbrg.bsg.ox.ac.uk/), and the [Bissau Economics Lab](https://bissaueconomicslab.weebly.com/).
 
+[Curriculum Vitae](https://giuschin.github.io/files/cv_gs.pdf)
+
 
 ## Work in progress 
 
@@ -42,4 +44,14 @@ Pre-registered at: <https://www.socialscienceregistry.org/trials/1483>
 * Core Econometrics and Microeconomics (Revision classes), Merton College, University of Oxford, 2022.
 * Prelims Economics (Revision classes), Merton College, University of Oxford, 2022.
 * Seminar Leader for Evidence in Public Policy, Blavatnik School of Government, University of Oxford, 2022.
+
+## Other writing
+
+* [Regularisation in Stata (before Stata 17)](https://www.csae.ox.ac.uk/files/coderscornerttweek7fmpdf) 
+* [Mediation analysis](https://www.csae.ox.ac.uk/files/coderscornerht20week6fmpdf)
+* [Alternative text editor for Stata](https://www.csae.ox.ac.uk/files/coderscornerht20week1fm0pdf)
+* [Parellel lists in Stata](https://www.csae.ox.ac.uk/files/coderscornerweek4fmpdf)
+* [Measuring time preferences](https://mbrg.bsg.ox.ac.uk/method/measuring-time-preferences-using-behavioural-tasks-monetary-rewards)
+* [A New Market Information System for Cashew Producers in Guinea-Bissau](https://pedl.cepr.org/sites/default/files/C19%206750%20PereiraSchaberSchinaia_new.pdf)
+
 
