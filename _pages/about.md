@@ -29,6 +29,7 @@ I am also affiliated with the [Applied Microeconomics research group](https://ww
   <p><i>Abstract:</i>  Does lack of information reduce the ability of producers to find the right time to sell their products? To answer this question, we ran a two-level cluster randomized control trial among 1988 cashew producers in 290 villages in Guinea-Bissau. Treated producers received weekly messages to their mobiles during the trading season in 2020. The messages provided up-to-date market news, farmgate prices, and gave marketing advice. We found that treated producers sold their cashews more frequently relative to the producers in other experimental groups, who tend to sell their cashews in a single transaction. Treated producers failed to earn higher prices, but earned more from all sales and barters, relative to the control group mean. We explore several mechanisms to understand our results. We find evidence that between-village spillovers can explain why we failed to detect an increase in average prices within treated villages. We found no evidence suggesting that treated producers changed their buyers, the location of their sales, had more bargaining power, better record keeping, or different attitudes towards risk. Given the low cost of our intervention, market information can be a cost-effective tool to increase producers' revenues.	</p>
 <a href="https://bissaueconomicslab.weebly.com/projects.html">Project website</a>; <a href="https://www.socialscienceregistry.org/trials/4740">Pre-analysis plan</a>; Draft available upon request.
 </details>
+<br>
 
 <details>
   <summary><b>Labour Market Effects of Ethiopia's Social Safety Net</b></summary>
@@ -36,6 +37,7 @@ I am also affiliated with the [Applied Microeconomics research group](https://ww
   <p><i>Abstract:</i>  This  paper assesses how a large transfer programme combining public works and unconditional transfers to food-insecure households in rural Ethiopia affects local labour markets. Using  repeated cross-sections of the National Labour Force Survey, I show that the programme did not change employment rates or wages in this rural economy. Instead, I find that workers shifted from agricultural to non-agricultural self-employment. I complement this analysis using  data from the Ethiopian Socio-Economic surveys and find similar results.  These results are at odds with previous work due to the thinness of rural wage markets in Ethiopia.</p>
 Draft available upon request.
 </details>
+<br>
 
 <details>
   <summary><b>The Future in Mind: Aspirations and Future-Oriented Behaviour in Rural Ethiopia</b><br>
