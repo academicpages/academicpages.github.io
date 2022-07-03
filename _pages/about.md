@@ -17,6 +17,7 @@ For more information, please refer to my [CV](https://ChenTangMark.github.io/fil
 
 News 
 ======
+- 07/2022: [One paper](https://arxiv.org/abs/2204.10435) on trajectory prediction pretraining is accepted by ECCV 2022. 
 - 06/2022: Selected for [DSCD Rising Stars Invited Talks](https://mecc2022.a2c2.org/events.html) at MECC 2022. 
 - 06/2022: Three papers are accepted by IROS 2022. 
 - 06/2022: [One paper](https://arxiv.org/abs/2205.11790) on hierarchical offline RL is accepted by RA-L.
