@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for visiting, this site is still under construction!
+Thanks for visiting!
 
 I am a PhD (DPhil) candidate at the [Department of Economics](https://www.economics.ox.ac.uk/) at the University of Oxford.
 
