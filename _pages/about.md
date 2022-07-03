@@ -27,8 +27,8 @@ I am also affiliated with the [Applied Microeconomics research group](https://ww
 <a href="https://bissaueconomicslab.weebly.com/projects.html">Project website</a>
 <br> <a href="https://www.socialscienceregistry.org/trials/4740">Pre-analysis plan</a>
 </details>
-_with Brais Álvarez Pereira, Adewusi Mendonça, Dayvikson Raiss Laval Tavares, Sebastian Schäber_
-
+<i>with Brais Álvarez Pereira, Adewusi Mendonça, Dayvikson Raiss Laval Tavares, Sebastian Schäber</i>
+<br>
 <details>
   <summary><b>Labour Market Effects of Ethiopia's Social Safety Net</b></summary>
   <p> This  paper assesses how a large transfer programme combining public works and unconditional transfers to food-insecure households in rural Ethiopia affects local labour markets. Using  repeated cross-sections of the National Labour Force Survey, I show that the programme did not change employment rates or wages in this rural economy. Instead, I find that workers shifted from agricultural to non-agricultural self-employment. I complement this analysis using  data from the Ethiopian Socio-Economic surveys and find similar results.  These results are at odds with previous work due to the thinness of rural wage markets in Ethiopia.</p>
@@ -41,7 +41,7 @@ _with Brais Álvarez Pereira, Adewusi Mendonça, Dayvikson Raiss Laval Tavares, 
 <a href="https://mbrg.bsg.ox.ac.uk/mind-and-behaviour-projects/aspirations-and-forward-looking-behaviour-rural-ethiopia">Project website</a>
 <br> <a href="https://www.socialscienceregistry.org/trials/1483">Pre-analysis plan</a>
 </details>
-_with Tanguy Bernard, Stefan Dercon, Kate Orkin, Alemayehu Seyoum Taffesse _
+<i>with Tanguy Bernard, Stefan Dercon, Kate Orkin, Alemayehu Seyoum Taffesse</i>
 
 ## Policy reports
 
