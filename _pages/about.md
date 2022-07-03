@@ -43,7 +43,7 @@ Pre-registered at: <https://www.socialscienceregistry.org/trials/1483>
 * Core Econometrics Tutorials, Merton College & Exeter College, University of Oxford, 2022.
 * Core Econometrics and Microeconomics (Revision classes), Merton College, University of Oxford, 2022.
 * Prelims Economics (Revision classes), Merton College, University of Oxford, 2022.
-* Seminar Leader for Evidence in Public Policy, Blavatnik School of Government, University of Oxford, 2022.
+* Seminar Leader for Evidence in Public Policy, Blavatnik School of Government, University of Oxford, 2021.
 
 ## Other writing
 
