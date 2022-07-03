@@ -52,6 +52,7 @@ Pre-registered at: <https://www.socialscienceregistry.org/trials/1483>
 * [Alternative text editor for Stata](https://www.csae.ox.ac.uk/files/coderscornerht20week1fm0pdf)
 * [Parellel lists in Stata](https://www.csae.ox.ac.uk/files/coderscornerweek4fmpdf)
 * [Measuring time preferences](https://mbrg.bsg.ox.ac.uk/method/measuring-time-preferences-using-behavioural-tasks-monetary-rewards)
-* [A New Market Information System for Cashew Producers in Guinea-Bissau](https://pedl.cepr.org/sites/default/files/C19%206750%20PereiraSchaberSchinaia_new.pdf)
+
+<!-- * [A new market information system for cashew producers in Guinea-Bissau](https://pedl.cepr.org/sites/default/files/C19%206750%20PereiraSchaberSchinaia_new.pdf) -->
 
 
