@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 ## Working Papers
-1. C. Xu\*, T. Li\*, **C. Tang**, L. Sun, K. Keutzer, M. Tomizuka, A. Fathi, and W. Zhan, "PreTraM: Self-Supervised Pre-training via Connecting Trajectory and Map," under review for *European Conference on Computer Vision (ECCV)*, 2022
 1. **C. Tang**, N. Srishankar, S. Martin and M. Tomizuka, "Grounded Relational Inference: Domain Knowledge-driven Explainable Autonomous Driving," under review for *IEEE Transactions on Intelligent Transportation System (T-ITS)*, 2022
 1. J. Chen, **C. Tang**, W. Zhan, and M. Tomizuka, “Interaction-and-uncertainty-aware joint decision making and trajectory planning for urban on-road autonomous driving,” *in preparation for journal submission*
 
@@ -16,6 +15,7 @@ author_profile: true
 1. X. Liu, **C. Tang**, X. Du, S. Xiong, S. Xi, Y. Liu, X. Shen, Q. Zheng, Z. Wang, Y. Wu, et al., “A Highly Sensitive Graphene Woven Fabric Strain Sensor for Wearable Wireless Musical Instruments,” *Materials Horizons*, vol. 4, no. 3, pp. 477–486, 2017
 
 ## Conference Proceedings
+1. C. Xu\*, T. Li\*, **C. Tang**, L. Sun, K. Keutzer, M. Tomizuka, A. Fathi, and W. Zhan, "PreTraM: Self-Supervised Pre-training via Connecting Trajectory and Map," *European Conference on Computer Vision (ECCV)*, 2022
 1. L. Sun\*, **C. Tang**\*, Y. Niu, E. Sachdeva, C. Choi, T. Misu, M. Tomizuka, and W. Zhan, “Domain knowledge driven pseudo labels for interpretable goal-conditioned interactive trajectory prediction,” to appear in *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022
 1. **C. Tang**, W. Zhan, and M. Tomizuka, “Interventional behavior prediction: Avoiding overly confident anticipation in interactive prediction,” to appear in *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022
 1. **C. Tang**, W. Zhan and M. Tomizuka, "Exploring Social Posterior Collapse in Variational Autoencoder for Interaction Modeling," Conference on Neural Information Processing Systems (NeurIPS), 2021
