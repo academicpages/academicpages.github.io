@@ -20,13 +20,13 @@ I am also affiliated with the [Centre for the Study of African Economies](https:
 
 ## Work in progress 
 
-"**[Impact of Market Information on Cashew Producers in Guinea-Bissau](https://bissaueconomicslab.weebly.com/projects.html)**"
+**[Impact of Market Information on Cashew Producers in Guinea-Bissau](https://bissaueconomicslab.weebly.com/projects.html)**
 _(with Brais Álvarez Pereira, Adewusi Mendonça, Dayvikson Raiss Laval Tavares, Sebastian Schäber)_
 Pre-registered at: https://www.socialscienceregistry.org/trials/4740
 
-"**Labour Market Effects of Ethiopia's Social Safety Net**"
+**Labour Market Effects of Ethiopia's Social Safety Net**
 
-"**[The Future in Mind: Aspirations and Future-Oriented Behaviour in Rural Ethiopia](https://mbrg.bsg.ox.ac.uk/mind-and-behaviour-projects/aspirations-and-forward-looking-behaviour-rural-ethiopia)**"
+**[The Future in Mind: Aspirations and Future-Oriented Behaviour in Rural Ethiopia](https://mbrg.bsg.ox.ac.uk/mind-and-behaviour-projects/aspirations-and-forward-looking-behaviour-rural-ethiopia)**
 _(with Tanguy Bernard, Stefan Dercon, Kate Orkin, Alemayehu Seyoum Taffesse)_
 Pre-registered at: https://www.socialscienceregistry.org/trials/1483
 
