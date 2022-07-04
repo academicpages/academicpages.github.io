@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Home"
-    url: /home/
+    url: /about/
 
   - title: "Projects"
     url: /projects/    
@@ -18,5 +18,5 @@ main:
 #   - title: "CV"
 #     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+#   - title: "Guide"
+#     url: /markdown/
