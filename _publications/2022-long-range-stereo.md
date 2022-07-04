@@ -2,7 +2,6 @@
 title: "Semantic Guided Long Range Stereo Depth Estimation for Safer Autonomous Vehicle Applications"
 collection: publications
 permalink: /publication/2022-long-range-stereo
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022-05-09
 venue: 'IEEE Transactions on Intelligent Transportation Systems'
 link: 'https://ieeexplore.ieee.org/abstract/document/9771067'
