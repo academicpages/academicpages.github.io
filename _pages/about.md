@@ -23,4 +23,4 @@ Previously, I have also worked in other areas such as
 * parachute and recovery system design for model rockets; 
 * sensor fusion using multiple RGB-D (Microsoft Kinects) cameras and an infrared camera for an industry project.
 
-I am truly passionate about acquiring new knowledge and delivering novel solutions developed from theoretical research to solve practical industrial problems. I also very much enjoy teaching &#128214;, doing research &#128187;, and drinking coffee &#9749;.
+I am truly passionate about acquiring new knowledge and delivering novel solutions developed from theoretical research to solve practical industrial problems. I also very much enjoy teaching&#128214;, doing research&#128187;, and drinking coffee&#9749;.
