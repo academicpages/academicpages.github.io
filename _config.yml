@@ -83,14 +83,14 @@ author:
   name             : "Felipe Parodi"
   avatar           : "parodi_headshot.png"
   bio              : "PhD Candidate interested in computational neuroethology"
-  location         : "Philadelphia"
+#   location         : "Philadelphia"
   employer         : "University of Pennsylvania"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "fparodi@pennmedicine.upenn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   github           : "felipe-parodi/"
   linkedin         : "https://www.linkedin.com/in/felipeparodi/"
-  orcid            : "http://orcid.org/yourorcidurl"
+#   orcid            : "http://orcid.org/yourorcidurl"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
 
 # Reading Files
