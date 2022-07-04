@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Ph.D. student in the Intelligent Automation Research Group at RMIT University, Australia, advised by Prof. Alireza Bab-Hadiashar, Prof. Reza Hoseinnezhad and Dr Ruwan Tennakoon. 
+Hello! I am a Ph.D. student in the [Intelligent Automation Research Group](https://www.rmit.edu.au/about/schools-colleges/engineering/research/research-groups/intelligent-automation-research-group) at RMIT University, Australia, advised by Prof. Alireza Bab-Hadiashar, Prof. Reza Hoseinnezhad and Dr Ruwan Tennakoon. 
 
-My PhD research focuses on the topic of machine learning (deep learning) and computer vision (stereo depth sensing) for autonomous robotic applications. In addition, I also have experience in the following topics/frameworks: 
+My Ph.D. research focuses on the topic of machine learning (deep learning) and computer vision (stereo depth sensing) for autonomous robotic applications. In addition, I also have experience in the following topics/frameworks: 
 * (ML) representation learning, domain adaptation and generalisation, Bayesian deep learning, information theory, generative modelling, and adversarial learning; 
 * (CV) stereo matching, semantic/panoptic segmentation, optical flow, image classification, object detection and localisation, and image synthesis;
 * PyTorch, TensorFlow, Python, Jupyter, Git.
