@@ -12,7 +12,7 @@ redirect_from:
 
 Short PDF
 ======
-**Download a PDF shorter version** [here](http://simonegiancola09.github.io/files/CV_academic_Simone_maria_giancola_English.pdf), feel free to use it with my personal authorization.
+**View a PDF version** [here](http://simonegiancola09.github.io/files/CV_academic_Simone_maria_giancola_English.pdf), feel free to use it with my personal authorization.
 Basic Information
 ======
 * I have placed additional information on this page, the one I use for applications is at the link above. 
