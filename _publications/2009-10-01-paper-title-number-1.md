@@ -1,9 +1,0 @@
----
-title: "State Transition for Statistical SLAM Using Planar Features in 3D Point Clouds"
-collection: publications
-permalink: /publication/2019-stss-slam-3dpc
-date: 2019-04-03
-venue: 'Sensors 19 (7)'
-paperurl: 'https://www.mdpi.com/1424-8220/19/7/1614#cite'
-citation: 'Gostar, A., Fu, C., Chuah, W., Hossain, M., Tennakoon, R., Bab-Hadiashar, A., & Hoseinnezhad, R. (2019). State Transition for Statistical SLAM Using Planar Features in 3D Point Clouds. Sensors, 19(7), 1614.'
----
