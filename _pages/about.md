@@ -11,11 +11,10 @@ redirect_from:
 Hello! My name is Shubham Krishna and I am a
 Machine Learning Engineer at [ML6](https://www.ml6.eu/). My everyday at ML6, looks like working on one of these topics:
 
-1) Building Dataflow Pipelines
-2) Putting Deep Learning Models into Production
-3) Training Deep Learning Models to solve problems like Name-Entity-Recognition, Image Classification and others.
-4) MLOps
-5) Writing Blogposts about things I learned
+1. Building Dataflow Pipelines
+2. Putting Deep Learning Models into Production and MLOps
+3. Training Deep Learning Models to solve problems like Name-Entity-Recognition, Image Classification and others.
+5. Writing Blogposts about things I learned
 
 I did my Masters in Machine Learning at the Department of Computer Science at [University of Tübingen](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/studies/studies-programs/machine-learning/). For my Master Thesis, I worked on Dealing with Label Noise in Semantic Segmentation using Semi-Supervised Learning at [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/), Rennigen, Germany. I also worked as a Research Assistant at [Bethge Lab](http://bethgelab.org/) with [Steffen Schneider](https://stes.io/) for better understanding of the behaviour of Deep Neural Networks. I worked on topics around Invariant Representation Learning [[Paper](https://preregister.science/papers_20neurips/57_paper.pdf)], Pruning Technqiues in Deep Neural Networks and Self-Superverised Learning.
 
