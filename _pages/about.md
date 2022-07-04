@@ -25,7 +25,7 @@ News
 
 [12-05-2022] I gave a talk on our [ICWSM 2022 paper](https://arxiv.org/abs/2203.16762) at the ANU's [AI, ML and Friends seminar](https://comp.anu.edu.au/ai-ml-friends/). The slides can be found [here](/files/ICWSM22_MappingTopicsTalk_Long.pdf).
 
-[16-03-2022] Our paper, [_Mapping Topics in 100,000 Real-life Moral Dilemmas_](https://arxiv.org/abs/2203.16762), is accepted to [ICWSM 2022](https://icwsm.org/2022/index.html/)!
+[16-03-2022] Our paper, [_Mapping Topics in 100,000 Real-life Moral Dilemmas_](https://arxiv.org/abs/2203.16762), is accepted to [ICWSM 2022](https://icwsm.org/2022/index.html/)! The code can be found [here](https://github.com/joshnguyen99/moral_dilemma_topics) and data [here](https://doi.org/10.5281/zenodo.6791835).
 
 [30-11-2021] I am honored to attend the [International School in Artificial Intelligence and its Applications in Computer Science](https://www.monash.edu/it/events/2021/international-school-in-artificial-intelligence-and-its-applications-in-computer-science-isaac) (ISAAC 2021) this december at [Monash University](https://www.monash.edu/).
 
