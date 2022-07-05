@@ -17,15 +17,16 @@ Education
 
 Professional Development
 ======
-* Clinical Pastoral Education, Wake Forest University Baptist Medical Center, 2013
+* Reserarch Data Management Library Academy Course, 2022
+Clinical Pastoral Education, Wake Forest University Baptist Medical Center, 2013
 * Five-Day Classroom Training, TEACCH Autism Program, University of North Carolina, Chapel Hill, NC, 2016
 
 Work experience
 ======
-* 2019-2020: Pastor
+* 2019-2022: Pastor
   * New Mount Vernon United Methodist Church, Winston Salem, NC
   * Duties included: Pastoral Care, Preaching
-  * Supervisor: Mike Bailey
+  * Supervisor: Dr. Samuel Moore
 
 * 2013-2019: Pastor
   * Mt. Carmel United Methodist Church, Stokesdale, NC
