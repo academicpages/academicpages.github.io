@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* MLIS University of North Carolina, Greensboro, 2022
+* MLIS, University of North Carolina, Greensboro, 2022
 * MDiv, Duke University, 2008
 * BS, Florida Southern College, 1998
 
