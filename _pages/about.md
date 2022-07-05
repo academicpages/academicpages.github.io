@@ -34,7 +34,7 @@ Working on data-driven algorithms to improve the performance of online advertisi
 
 **Education**  
 
-* **Sep. 2016 -- Jun. 2021.** Ph.D., Pattern Recognition and Intelligent System @ Institute of Automation, Chinese Academy of Sciences (CASIA).
+* **Sep. 2016 -- Jun. 2021.** Ph.D., Pattern Recognition and Intelligent Systems @ Institute of Automation, Chinese Academy of Sciences (CASIA).
 * **Sep. 2012 -- Jun. 2016.** B.Eng., Department of Automation (a.k.a. Control Science and Engineering) @ Wuhan University (WHU). Rank: 1st (Overall GPA 3.84 / 4.0, Major GPA 3.92 / 4.0).
 * **Sep. 2009 -- Jul. 2012.** Tianjin Nankai High School.  
 
@@ -68,4 +68,4 @@ Misc
 * I love playing football and table tennis. I am a Real Madrid fan, and my favorite athlete is LIU Shiwen. 
 
 
-_Last Update: Apr. 2022_
+_Last Updated: Apr. 2022_
