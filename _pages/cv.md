@@ -17,15 +17,20 @@ Education
 
 Professional Development
 ======
-* Reserarch Data Management Library Academy Course, 2022
-Clinical Pastoral Education, Wake Forest University Baptist Medical Center, 2013
+* Research Data Management Library Academy Course, 2022
 * Five-Day Classroom Training, TEACCH Autism Program, University of North Carolina, Chapel Hill, NC, 2016
+* Clinical Pastoral Education, Wake Forest University Baptist Medical Center, 2013
 
 Work experience
 ======
+* 2021-2022: Pastor
+  * Hickory Ridge United Methodist Church, Winston Salem, NC
+  * Duties include: Pastoral Care, Preaching
+  * Supervisor: Dr. Samuel Moore
+
 * 2019-2022: Pastor
   * New Mount Vernon United Methodist Church, Winston Salem, NC
-  * Duties included: Pastoral Care, Preaching
+  * Duties include: Pastoral Care, Preaching
   * Supervisor: Dr. Samuel Moore
 
 * 2013-2019: Pastor
