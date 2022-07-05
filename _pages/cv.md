@@ -17,9 +17,9 @@ Education
 
 Professional Development
 ======
-* Reserarch Data Management Library Academy Course, 2022
-Clinical Pastoral Education, Wake Forest University Baptist Medical Center, 2013
+* Research Data Management Library Academy Course, 2022
 * Five-Day Classroom Training, TEACCH Autism Program, University of North Carolina, Chapel Hill, NC, 2016
+* Clinical Pastoral Education, Wake Forest University Baptist Medical Center, 2013
 
 Work experience
 ======
