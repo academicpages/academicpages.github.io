@@ -35,13 +35,15 @@ I am co-hosting a Brownbag series with Professor Zeqi Qiu at Peking University f
 April 6, 2022, Conversation with Professor Chris Bail at Duke University, Director of Polarization Lab. [Click here for more info](https://yongjunzhang.com/files/smp.pdf). 
 
 ## New Paper Alert
+Xinguang Fan and Yongjun Zhang. 2022. "Just Virus or Politicized Virus? An Analysis of over 13 Million Global Web News of China on COVID-19." Chinese Sociological Review.
+
 Hao Lin, Pradeep Nalluri, Lantian Li, Yifan Sun, and Yongjun Zhang. 2022. "[Multiplex Anti-Asian Sentiment before and during the Pandemic: Introducing New Datasets from Twitter Mining](https://aclanthology.org/2022.wassa-1.2/)." 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis.
 
 Yongjun Zhang, Sienna Thorgusen, and Xinguang Fan. 2022. "[News Coverage of Social Protests in Global Society](https://doi.org/10.1177/00207152221085601)." International Journal of Comparative Sociology.
 
 Yongjun Zhang. 2021. "[Corporate Responses to COVID19: A Non-Market Strategy Approach](https://doi.org/10.1177/07311214211017587)." Sociological Perspectivies.
 
-Seguin, Charles, Chris Julien, and Yongjun Zhang. 2021. "[The stability of androgynous names: Dynamics of gendered naming practices in the United States 1880–2016.](http://www.charlieseguin.com/uploads/4/1/2/7/41271621/seguin_poetics_names_10-2020.pdf)" Poetics
+Charles Seguin, Chris Julien, and Yongjun Zhang. 2021. "[The stability of androgynous names: Dynamics of gendered naming practices in the United States 1880–2016.](http://www.charlieseguin.com/uploads/4/1/2/7/41271621/seguin_poetics_names_10-2020.pdf)" Poetics
 
 ## Working Paper
 Yongjun Zhang, Hao Lin, Yi Wang, and Xinguang Fan. 2022. ''[Friends and foes: Sinophobia was viral on Twitter during the early COVID-19 pandemic](https://yongjunzhang.com/files/Sinophobia_in_COVID19.pdf)."
