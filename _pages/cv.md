@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. Florida Southern College, 1996
-* M.Div. Duke Divinity School, 2004
-* MLIS University of North Carolina, Greensboro, 2022 (expected)
+* MLIS University of North Carolina, Greensboro, 2022
+* MDiv, Duke University, 2008
+* BS, Florida Southern College, 1998
 
 Professional Development
 ======
