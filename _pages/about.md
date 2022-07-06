@@ -24,6 +24,8 @@ I am always happy to discuss research-related topics. Just shoot me an email! :)
 
 News
 ======
+ - Jul. 2022: One paper got accepted to ECCV2022!
+ - Jun. 2022: I would be reviewing for NeurIPS2022.
  - Jan. 2022: Finished my internship @ Amazon!
  - Aug. 2021: Started as an applied scientist intern @ Amazon!
  - Jun. 2021: I would be reviewing for INNF+, NeurIPS2021, and ICLR2022.
