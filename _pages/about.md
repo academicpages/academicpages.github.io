@@ -34,6 +34,7 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 
 
 ## Professional Services
+* Reviewer: COLING 2022
 * Review Committee Member: EMNLP 2022
 * Reviewer: ICML 2022
 * Reviewer: ACL Rolling 2022
