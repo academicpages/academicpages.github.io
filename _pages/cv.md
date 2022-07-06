@@ -60,7 +60,7 @@ Research grant from the Government of Castile and Leon and the European Social F
 
 Rodero, E., Larrea, O., **Rodríguez-de-Dios, I**., Lucas, I. (2022). The Expressive Balance Effect: Perception and Physiological Responses of Prosody and Gestures. _Journal of Language and Social Psychology_. https://doi.org/10.1177%2F0261927X221078317
 
-Dalla-Pria, L. &amp; **Rodríguez-de-Dios, I.** (2022). CSR communication on social media: the impact of source and framing on message credibility, corporate reputation and WOM. _Corporate Communications: an International Journal, 27_. https://doi.org/10.1108/CCIJ-09-2021-0097
+Dalla-Pria, L. &amp; **Rodríguez-de-Dios, I.** (2022). CSR communication on social media: the impact of source and framing on message credibility, corporate reputation and WOM. _Corporate Communications: an International Journal, 27_(3), 543-557. https://doi.org/10.1108/CCIJ-09-2021-0097
 
 Rodero, E. &amp; **Rodríguez-de-Dios, I.** (2021). Competencias de comunicación oral en la educación primaria. _Profesional De La Información, 30_(6). https://doi.org/10.3145/epi.2021.nov.01
 
