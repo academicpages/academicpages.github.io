@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: false
 ---
 ## Preprints
+- [_Coherent orientations in symplectic field theory revisited_](https://arxiv.org/abs/2206.08443), *preprint* (2022)
+
 - [_Semi-global Kuranishi charts and the definition of contact homology_](https://arxiv.org/abs/1512.00580) (with K. Honda), *preprint* (2015)
 
 ## Publications
