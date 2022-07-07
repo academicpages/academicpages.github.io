@@ -27,7 +27,7 @@ These techniques are interrelated. A focus of the current version is on the micr
 
 This documents lives off interactions with experts and will be updated accordingly.
 
-## 1. Classification
+## 1. How can experimental methods improve?
 
 An experiment is an interaction with a physical system - by which we include a computer or other form of simulator. Assume that, in all cases, the system is supposed to represent something happening in an actual brain. There is variety in which processes we are trying to represent; for any choice, we may improve (by quality/accuracy and/or cost)
 1. transfer of data into the system,
