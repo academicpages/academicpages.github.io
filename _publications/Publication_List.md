@@ -1,3 +1,9 @@
+---
+title: "Publications"
+collection: publications
+date: 2015-10-01
+---
+
 ## Publications
 
 [3] Olson, C.I., **B.M. Geyman**, C. P. Thackray, D.P. Krabbenhoft, M.T. Tate, E.M. Sunderland, and C.T. Driscoll. (2022). “Mercury in soils of the conterminous United States: patterns and pools.” *Environmental Research Letters*, 17, 074030. https://doi.org/10.1088/1748-9326/ac79c2. \[**[PDF](https://bgeyman.github.io/bengeyman.github.io/files/Olson_et_al_2022_mercury_in_conterminous_US_soils.pdf)**\]
