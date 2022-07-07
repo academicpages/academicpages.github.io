@@ -9,8 +9,5 @@ paperurl: '[https://doi.org/10.1016/j.epsl.2019.115751]'
 
 citation: 'Geyman, B.M. and Ptacek, J.L., et al. (2019). &quot;Barium in deep-sea bamboo corals: Phase associations, barium stable isotopes, & prospects for paleoceanography.&quot; <i>Earth and Planetary Science Letters</i>. 525.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Geyman, B.M. and Ptacek, J.L., <i>et al.</i> (2019). "Barium in deep-sea bamboo corals: Phase associations, barium stable isotopes, & prospects for paleoceanography" <i>Earth and Planetary Science Letters</i>. 525. https://doi.org/10.1016/j.epsl.2019.115751
+[1] Geyman, B.M. and Ptacek, J.L., <i>et al.</i> (2019). "Barium in deep-sea bamboo corals: Phase associations, barium stable isotopes, & prospects for paleoceanography" <i>Earth and Planetary Science Letters</i>. 525. https://doi.org/10.1016/j.epsl.2019.115751
