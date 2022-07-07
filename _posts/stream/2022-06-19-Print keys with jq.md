@@ -2,6 +2,7 @@
 date: 2022-06-19
 tags:
 - stream
+- tools
 title: Print item keys with jq
 ---
 

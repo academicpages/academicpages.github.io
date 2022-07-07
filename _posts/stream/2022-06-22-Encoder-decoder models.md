@@ -2,6 +2,7 @@
 date: 2022-06-22
 tags:
 - stream
+- nn
 title: Encoder-decoder models
 ---
 

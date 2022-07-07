@@ -2,6 +2,7 @@
 date: 2022-06-27
 tags:
 - stream
+- nn
 title: Beware metric auto-reduce with PyTorch Lightning + TorchMetrics
 ---
 

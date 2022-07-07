@@ -2,6 +2,7 @@
 date: 2022-06-23
 tags:
 - stream
+- libs
 title: Print pandas Series as percent
 ---
 

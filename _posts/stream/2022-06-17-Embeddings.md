@@ -2,6 +2,7 @@
 date: 2022-06-17
 tags:
 - stream
+- nn
 title: Neural Network Embeddings
 ---
 
