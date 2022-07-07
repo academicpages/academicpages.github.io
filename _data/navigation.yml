@@ -12,5 +12,5 @@ main:
   - title: "Early Projects"
     url: /projects/
         
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/

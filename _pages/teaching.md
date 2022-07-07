@@ -5,6 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+![Me teaching students about equivalent circuits in PHYS 119 (Introductory Electromagnetism) as a teaching assistant my sophomore year at UNC Chapel Hill.](../images/teaching/meteaching119.png)
+
 ## Duke University
 *(Graduate Teaching Assistant)*
 
