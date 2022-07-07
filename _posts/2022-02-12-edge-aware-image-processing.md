@@ -15,7 +15,7 @@ these filters to an image is called convolution. 2D convolution in the spatial d
 input pixel and summed together to obtain the corresponding output pixel. 
 
 <p align="center">
-  <img src="/images/convolution.png" width="500"/><br/>
+  <img src="/images/convolution.png" width="100%" /><br/>
   <br/>Fig. 1: Visual illustration of 2D convolution [2]<br/>
 </p>
 
@@ -38,7 +38,7 @@ comes from the observation that image contents and complex manipulations are mor
 example of such piecewise smooth signals along with an example of domain transform application for edge-preserving filtering.
 
 <p align="center">
-  <img src="/images/domaintransform.png" width="500"/><br/>
+  <img src="/images/domaintransform.png" width="100%"/><br/>
   <br/>Fig. 2: 1D edge-preserving filtering using a piecewise linear function ct(u). (a) Input signal
 I. (b) ct(u). (c) Signal I plotted in the transformed domain (Ωw).
 Signal I filtered in Ωw with a 1D Gaussian (d) and plotted in Ω (e).[4]<br/>
@@ -54,7 +54,7 @@ A bilateral filter is a nonlinear operator that smoothes an image while retainin
 from the fact that it reduces the weights of nearby pixels whose values largely differ from the input pixel.
 
 <p align="center">
-  <br/><img src="/images/bf_eqn.png" width="500"/><br/>
+  <br/><img src="/images/bf_eqn.png" width="100%"/><br/>
   Eqn. 1: Bilateral filter definition for an image I, at position p [5]<br/>
 </p>
 Here, G<sub>σs</sub> is a Gaussian on the spatial distance and G<sub>σr</sub> a Gaussian on the pixel value difference. The output pixel is a weighted average where 
@@ -67,8 +67,8 @@ those on the other side so that the range variation in pixel values wouldn't smo
 </p>
 
 <p align="center">
-  <img src="/images/Before_SF.png" width="220" height="300" />
-  <img src="/images/BeforeAfter_BF.png" width="220" height="300" /> 
+  <img src="/images/Before_SF.png" width="49%" />
+  <img src="/images/BeforeAfter_BF.png" width="49%" /> 
 </p>
 
 <p align="center">
@@ -92,13 +92,13 @@ edge-preserving filtering due to the isotropic, spatially-invariant and smooth G
 laplacian filter benefits from local processing in which it modifies each coefficient of the pyramid levels separately which better allows the filter to distinguish edges from details.
 
 <p align="center">
-  <img src="/images/llf1D.png" width="700"/>
+  <img src="/images/llf1D.png" width="100%"/>
 </p>
 <p align="center">
   Fig 5. 1D local laplacian filter implementation. L<sub>0</sub> and L<sub>1</sub> represent the first two laplacian levels.[8]<br/>
 </p>
 <p align="center">
-  <img src="/images/llf_func.png" width="700"/>
+  <img src="/images/llf_func.png" width="100%"/>
 </p>
 <p align="center">
   Fig 6. A variety of pointwise functions r(i) applied to a local value g<sub>o</sub> to obtain the intermediate image.[8]<br/>
@@ -110,9 +110,9 @@ intermediate signal is rendered. Later, its Laplacian pyramid is built and its v
 distinguish intricate details (red curve) from strong edges (blue curve).
 
 <p align="center">
-  <img src="/images/face113.jpg" width="200" height="300" />
-  <img src="/images/BeforeAfter_test_LLF_a07_s_04.png" width="200" height="300" />
-  <img src="/images/BeforeAfter_test_LLF_a2_s_02.png" width="200" height="300"  /> 
+  <img src="/images/face113.jpg" width="33%" />
+  <img src="/images/BeforeAfter_test_LLF_a07_s_04.png" width="33%" />
+  <img src="/images/BeforeAfter_test_LLF_a2_s_02.png"  width="33%"/> 
 </p>
 
 <p align="center">
