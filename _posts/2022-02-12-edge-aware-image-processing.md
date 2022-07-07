@@ -15,7 +15,7 @@ these filters to an image is called convolution. 2D convolution in the spatial d
 input pixel and summed together to obtain the corresponding output pixel. 
 
 <p align="center">
-  <img src="/images/convolution.png" width="100%" /><br/>
+  <img src="/images/convolution.png" width="85%" /><br/>
   <br/>Fig. 1: Visual illustration of 2D convolution [2]<br/>
 </p>
 
@@ -110,9 +110,9 @@ intermediate signal is rendered. Later, its Laplacian pyramid is built and its v
 distinguish intricate details (red curve) from strong edges (blue curve).
 
 <p align="center">
-  <img src="/images/face113.jpg" width="33%" />
-  <img src="/images/BeforeAfter_test_LLF_a07_s_04.png" width="33%" />
-  <img src="/images/BeforeAfter_test_LLF_a2_s_02.png"  width="33%"/> 
+  <img src="/images/face113.jpg" width="32.5%" />
+  <img src="/images/BeforeAfter_test_LLF_a07_s_04.png" width="32.5%" />
+  <img src="/images/BeforeAfter_test_LLF_a2_s_02.png"  width="32.5%"/> 
 </p>
 
 <p align="center">
