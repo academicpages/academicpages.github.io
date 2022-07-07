@@ -23,7 +23,7 @@ redirect_from:
 - Juan Pablo Luna et al. (2011). "El Secreto de mi Exito: Parte II. Los Caminos a Vaparaiso en 2009." In: Revista de Ciencia Política 31.2, pp. 285-310. <br/> [[Paper]](https://scielo.conicyt.cl/pdf/revcipol/v31n2/art07.pdf)
 
 
-## Submitted, Under Review, Revise and Resubmit.
+[//]: # ## Submitted, Under Review, Revise and Resubmit.
 
 
 
