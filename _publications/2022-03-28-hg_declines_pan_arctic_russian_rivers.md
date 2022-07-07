@@ -1,1 +1,8 @@
+---
+
+collection: publications
+permalink: /publication/2022-03-28-hg_declines_pan_arctic_russian_rivers
+
+---
+
 [2] Zolkos, S., A.V. Zhulidov, T.Y. Gurtovaya, V.V. Gordeev, S. Berdnikov, N. Pavlova, E.A. Kalko, Y.A. Kuklina, D.A. Zhulidov, L.S. Kosmenko, A.I. Shiklomanov, A. Suslova, **B.M. Geyman**, C. P. Thackray, E.M. Sunderland, S.E. Tank, J.W. McClelland, R.G.M. Spencer, D.P. Krabbenhoft, R. Robarts, and R.M. Holmes (2022). “Multidecadal declines in particulate mercury and sediment export from Russian rivers in the pan-Arctic basin.” *Proceedings of the National Academy of Sciences*, 119, 14. https://doi.org/10.1073/pnas.2119857119
