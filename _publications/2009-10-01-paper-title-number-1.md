@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Citizens’ willingness to support new taxes for COVID-19 measures and the role of trust."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://onlinelibrary.wiley.com/doi/10.1111/polp.12404
+citation: 'Lachapelle, Erick., Thomas Bergeron, Richard Nadeau, Jean-François Daoust, Ruth Dassonneville, and Éric Bélanger. (2021). &quot;Paper Title Number 1.&quot; <i>Politics and Policy</i>. 43(9).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Pre-print available here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3801843)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Lachapelle, Erick., Thomas Bergeron, Richard Nadeau, Jean-François Daoust, Ruth Dassonneville, and Éric Bélanger. (2021). "Citizens’ willingness to support new taxes for COVID-19 measures and the role of trust.," <i>Politics and Policy</i>. 43(9).
