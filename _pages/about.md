@@ -53,6 +53,7 @@ Modeling and predicting arctic ice sheet properties by fitting Gaussian Processe
 
 Undergraduate Teaching Experience
 ======
+- Game Theory (CSYC 371) Undergrad TA *Fall 2022*
 - Probability Theory for Data Science (S&DS 240) Undergrad TA *Fall 2021*
 - Data Exploration and Analysis (S&DS 230) Undergrad TA *Spring 2021*
 - Ordinary and Partial Differential Equations (ENAS 194) Undergrad Peer Tutor *Spring 2021*
