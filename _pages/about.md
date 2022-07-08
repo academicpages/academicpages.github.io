@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student at the Laboratoire de Mathématiques d'Orsay. I work under the supervision of [Christophe Giraud](https://www.math.u-psud.fr/~giraud/) and [Olga Klopp](http://kloppolga.perso.math.cnrs.fr/) on bandit problems, and on network estimation.
-
 # News
    
-   I have taken a gap in my PhD from September 2020 to February 2021 to work with [Yannig Goude](https://www.imo.universite-paris-saclay.fr/~goude/about.html) and Gilles Stolzt on Adaptative Electric Load Forecasting, and Renewable Energy Production Forecasting.
-
+   I have defended my PhD on Stochastic Bandits and Link Prediction, under the supervision of [Christophe Giraud](https://www.math.u-psud.fr/~giraud/) and [Olga Klopp](http://kloppolga.perso.math.cnrs.fr/). Here you find the [manuscript](../thesis.pdf), the [slides](../slides.pdf) and the [video](https:/...) (in French). Many thanks to my reviewers Pierre Alquier and Alexandre Proutière, as well as to Émilie Kaufmann and Quentin Berthet for their participation in my jury, colourfully chaired by Vianney Perchet!
+   
+   
 # Papers, preprints, and software
 
 **The price of unfairness in linear bandits with biased feedback**, S. Gaucher, A. Carpentier, C. Giraud. [Preprint on Hall](https://hal.archives-ouvertes.fr/hal-03611628)
