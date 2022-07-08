@@ -9,8 +9,9 @@ main:
   - title: "Activities"
     url: /activities/    
     
-  - title: "Personal"
-    url: /personal/
+# comment out for now but include later for blogs + photography? or replace w education section?
+#   - title: "Personal"
+#     url: /personal/
         
   - title: "Contact"
     url: /contact/
