@@ -5,11 +5,20 @@ permalink: /research/
 author_profile: true
 ---
 <section>
-<b> Main Projects </b>
+  
+  <b> Main Projects </b>
+  <br>
+  1. Computational neurethological basis of primate touch: brief description with impact...
+  <br>
+  2. Neural correlates of natural social primate behavior: a state-of-the-art project combining wireless neurophysiology and deep learning-based computer vision to characterize the neural mechanisms underlying rhesus macaque social behavior. 
+  Colab with: <a href="https://scholar.google.co.uk/citations?user=0o2ZT8wAAAAJ&hl=en" target="_self">Camille Testard</a>, <a href="[https://scholar.google.co.uk/citations?user=0o2ZT8wAAAAJ&hl=en](https://scholar.google.com/citations?hl=en&user=xYsnAngAAAAJ&view_op=list_works&sortby=pubdate)" target="_self">Sebastien Tremblay</a>
+  
+<!--   
+  [Camille Testard](""), [Sebastien Tremblay]("")
+<br> -->
+3. [_MacSuite_]("https://felipe-parodi.github.io//macsuite/"): my passion project for bringing computational tools to primatologists within and beyond the lab
 <br>
-1. Computational neurethological basis of primate touch: brief description with impact...
-2. Neural correlates of natural social primate behavior: a state-of-the-art project combining wireless neurophysiology and deep learning-based computer vision to characterize the neural mechanisms underlying rhesus macaque social behavior. Colab with: [Camille Testard](https://scholar.google.co.uk/citations?user=0o2ZT8wAAAAJ&hl=en), [Sebastien Tremblay]([...](https://scholar.google.com/citations?hl=en&user=xYsnAngAAAAJ&view_op=list_works&sortby=pubdate))
-3. [_MacSuite_](https://felipe-parodi.github.io//macsuite/): my passion project for bringing computational tools to primatologists within and beyond the lab
+4. RL for animal behavior: RL agents can help us understand... i previously explored imitation learning using "expert" human gait data to teach agents to walk from scratch. the last 1/3 of my phd will be devoted to exploring the potential of IRL to model social primate behavior
 </section>
 <br>
 <section>
