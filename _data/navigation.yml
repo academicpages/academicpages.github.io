@@ -4,7 +4,7 @@ main:
     url: /about/
 
   - title: "Research"
-    url: /research/    
+    url: /research/    # add publications to this later
 
   - title: "Activities"
     url: /activities/    
@@ -12,6 +12,10 @@ main:
 # comment out for now but include later for blogs + photography? or replace w education section?
 #   - title: "Personal"
 #     url: /personal/
+
+# # collection of research papers i read and when
+#   - title: "KUWTL"
+#     url: /literature/  
         
   - title: "Contact"
     url: /contact/
