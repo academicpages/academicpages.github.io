@@ -4,7 +4,7 @@ title: "Awards and Honors"
 permalink: /awards/
 author_profile: true
 ---
-
+- [Mark and Lisa Schwartz AI/ML/Immunology Initiative Fellowship](https://ragoninstitute.org/get-involved/fellowships/), Ragon Institute \& MIT, 2022.
 - Traveling Award, The Rising Stars in Mechanical Engineering Workshop, MIT, 2021.
 - Corinna Borden Keen Research Fellowship, Brown University, 2019.
 - Traveling Award, The US National Congress on Computational Mechanics (USNCCM15), UT Austin, 2019.
