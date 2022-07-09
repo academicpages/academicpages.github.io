@@ -14,4 +14,4 @@ My research interests are: Regional development, Economic geography, Urban econo
 
 Currently, I am working as Economics Consultant at [Research Department-Inter American Development Bank](https://www.iadb.org/es/investigacion-y-datos/acerca-de){:target="_blank"} and Teaching Assistant at [Department of Economics-Universidad del Pacífico](https://www.up.edu.pe/carreras-postgrado-idiomas/departamentos-academicos/economia){:target="_blank"}.
 
-You can contact me at <a href="mailto:luis.palomino1390@gmail.com?">luis.palomino1390@gmail.com</a>
+You can contact me at <a href="mailto:luis.palomino@uconn.edu?">luis.palomino@uconn.edu</a>
