@@ -41,7 +41,7 @@ example of such piecewise smooth signals along with an example of domain transfo
   <img src="/images/domaintransform.png" width="100%"/><br/>
   <br/>Fig. 2: 1D edge-preserving filtering using a piecewise linear function ct(u). (a) Input signal
 I. (b) ct(u). (c) Signal I plotted in the transformed domain (Ωw).
-Signal I filtered in Ωw with a 1D Gaussian (d) and plotted in Ω (e).[4]<br/>
+Signal I filtered in Ωw with a 1D Gaussian (d) and plotted in Ω (e) [4].<br/>
 </p>
 
 Unlike spatially-invariant filters, edge-preserving filters can treat local image regions differently to preserve edges and apply more sophisticated
@@ -95,13 +95,13 @@ laplacian filter benefits from local processing in which it modifies each coeffi
   <img src="/images/llf1D.png" width="100%"/>
 </p>
 <p align="center">
-  Fig 5. 1D local laplacian filter implementation. L<sub>0</sub> and L<sub>1</sub> represent the first two laplacian levels.[8]<br/>
+  Fig 5. 1D local laplacian filter implementation. L<sub>0</sub> and L<sub>1</sub> represent the first two laplacian levels [8].<br/>
 </p>
 <p align="center">
   <img src="/images/llf_func.png" width="100%"/>
 </p>
 <p align="center">
-  Fig 6. A variety of pointwise functions r(i) applied to a local value g<sub>o</sub> to obtain the intermediate image.[8]<br/>
+  Fig 6. A variety of pointwise functions r(i) applied to a local value g<sub>o</sub> to obtain the intermediate image [8].<br/>
 </p>
 
 A local laplacian filter renders an intermediate signal I' for each pyramid coefficient (x<sub>o</sub> , l<sub>o</sub>), which is defined by the location and the pyramid level,
