@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I am Fazilet, a second-year PhD student in Computer Science at the University of Cambridge, working with Dr Cengiz Oztireli. My research interests lie in the intersection between machine Learning and image processing and also include computer graphics. During my PhD, I would like to develop techniques that can integrate artist-created models into learning-based algorithms to manipulate 3D scenes on the image level.
+Hi there! I am Fazilet, a second-year PhD student in Computer Science at the University of Cambridge, working with Dr Cengiz Oztireli. My research interests lie in the intersection between machine learning and image processing and also include computer graphics. During my PhD, I would like to develop techniques that can integrate artist-created models into learning-based algorithms to manipulate 3D scenes on the image level.
 
 ## News
 
