@@ -12,6 +12,7 @@ redirect_from:
    
    I have defended my PhD on Stochastic Bandits and Link Prediction, under the supervision of [Christophe Giraud](https://www.math.u-psud.fr/~giraud/) and [Olga Klopp](http://kloppolga.perso.math.cnrs.fr/). Here you find the [manuscript](../thesis.pdf), the [slides](../slides.pdf) and the [video](https:/...) (in French). Many thanks to my reviewers Pierre Alquier and Alexandre Proutière, as well as to Émilie Kaufmann and Quentin Berthet for their participation in my jury, colourfully chaired by Vianney Perchet!
    
+   I have since moved to San Francisco, and I am looking for a position as a research scientist.
    
 # Papers, preprints, and software
 
