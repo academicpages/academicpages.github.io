@@ -62,7 +62,7 @@ R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020)
 
 # Education
 
-* PhD, Laboratoire de Mathématiques d'Orsay, Université Paris-Saclay, Orsay, France, 2018-(2022)
+* PhD, Laboratoire de Mathématiques d'Orsay, Université Paris-Saclay, Orsay, France, 2018-2022.
 
 * Master 2 "Mathématiques de l'Aléatoire", Université Paris-Saclay, Orsay, France, 2017-2018.
 
