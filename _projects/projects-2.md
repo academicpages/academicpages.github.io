@@ -1,6 +1,6 @@
 ---
 title: "Image Super-resolution"
-excerpt: "Spatial Resolution Enhancement in Images with Linear and Learning-based Techniques<br/><img src='/images/SR_portfolio.png'/><br/> Figure: Original and Reconstructed Images (Scale Factor in order: 2, 3, 4)"
+excerpt: "Spatial Resolution Enhancement of Images with Linear and Learning-based Techniques<br/><img src='/images/SR_portfolio.png'/><br/> Figure: Original and Reconstructed Images (Scale Factor in order: 2, 3, 4)"
 collection: projects
 ---
 <!-- <br/> -->
