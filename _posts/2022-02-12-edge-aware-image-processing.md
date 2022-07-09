@@ -63,7 +63,7 @@ those on the other side so that the range variation in pixel values wouldn't smo
 
 <p align="center">
   <br/><img src="/images/bilateral_filtering.png" width="700"/><br/>
-  Fig 3. Bilateral filtering. The spatial and range kernels, f and g respectively, combine to preserve edges.[6]<br/>
+  Fig 3. Bilateral filtering. The spatial and range kernels, f and g respectively, combine to preserve edges [6].<br/>
 </p>
 
 <p align="center">
