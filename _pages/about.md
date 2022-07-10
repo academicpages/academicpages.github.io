@@ -16,8 +16,8 @@ In my spare time, I enjoy trying new recipes and hiking in the beautiful country
 
 # Links
 
-## Projects that I worked on in grad school: [https://mgp13.github.io/projects/](https://mgp13.github.io/projects/)
+* Projects that I worked on in grad school: [https://mgp13.github.io/projects/](https://mgp13.github.io/projects/)
 
-## Software: [https://mgp13.github.io/software/](https://mgp13.github.io/software/)
+* Software: [https://mgp13.github.io/software/](https://mgp13.github.io/software/)
 
-## My CV: [https://mgp13.github.io/cv/](https://mgp13.github.io/cv/)
+* My CV: [https://mgp13.github.io/cv/](https://mgp13.github.io/cv/)
