@@ -40,7 +40,7 @@ WikiPathways is a database of 2979 biological pathways across 31 species created
 
 ## BONITA: Boolean rules and pathway analysis on bulk omics data
 
-GitHub repositories: [BONITA - Python3]https://github.com/Thakar-Lab/BONITA-Python3, [BONITA - Python2]https://github.com/Thakar-Lab/BONITA
+GitHub repositories: [BONITA - Python3](https://github.com/Thakar-Lab/BONITA-Python3), [BONITA - Python2](https://github.com/Thakar-Lab/BONITA)
 
 #### Citation:
 
