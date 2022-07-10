@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Mukta G. Palshikar"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+### Github: [Thakar Lab](https://github.com/Thakar-Lab), [Mukta Palshikar](https://github.com/mgp13)
+
+### University of Rochester School of Medicine and Dentistry, 601 Elmwood Avenue, Rochester, NY - 14642
+
 
 Education
 ======
