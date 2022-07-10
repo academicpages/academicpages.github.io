@@ -8,20 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-This is Mukta's home on the web
+I am a fifth-year PhD candidate in the Biophysics PhD program at the University of Rochester, working in the [Juilee Thakar Lab](https://www.urmc.rochester.edu/labs/thakar.aspx). My graduate work focuses on algorithms which use multiomics data to model immune signaling networks in the contexts of health and disease. I expect to defend my thesis in December 2022.
 
-# Phinea domo sunto Orpheus
+In general, I am interested in computational network modeling approaches to study inflammatory and autoimmune disease. I enjoy contributing to open-source software packages that will be widely used by both wet & dry lab biologists. I also enjoy mentoring undergraduate students and teaching bioinformatics at the graduate level.
 
-## Cum pacis sive raptaturque fieri sub vidit
+In my spare time, I enjoy trying new recipes and hiking in the beautiful countryside of upstate New York.
 
-Lorem markdownum pone. Illa desinite undas, quae missa lacrimas accessit me
-hiems voce clauditur dilectae an annos, duraque.
+# Links
 
-> Unde adicis caelum. *Nostro glomerata pavetque* praesens plura, antiquo
-> obstrepuere undas. Suis femina omnia.
+## Projects that I worked on in grad school: [https://mgp13.github.io/projects/](https://mgp13.github.io/projects/)
 
-### Fieri tura veluti cetera
+## Software: [https://mgp13.github.io/software/](https://mgp13.github.io/software/)
 
-Ad prece lateantque utque in committere, cornum quodcumque tulit. His quid in
-clades data silentum in modo conceditur tendit, refert poma hunc; et. Videt
-quaeque picta. Claros tempore stellamque cohaesit hunc. Quae Troiae semper!
+## My CV: [https://mgp13.github.io/cv/](https://mgp13.github.io/cv/)
