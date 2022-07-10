@@ -14,8 +14,8 @@ main:
 #     url: /personal/
 
 # # collection of research papers i read and when
-#   - title: "KUWTL"
-#     url: /literature/  
+  - title: "KUWTL"
+    url: /literature/  
         
   - title: "Contact"
     url: /contact/
