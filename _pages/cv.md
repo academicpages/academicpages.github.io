@@ -45,7 +45,7 @@ Mouse B cell Migration in vitro by Disrupting a HIF1α- Dependent, O2 Sensing, M
 data. PLOS Computational Biology, 2019 Sep 3;15(9):e1007317 doi: 10.1371/journal.pcbi.1007317
 
 Teaching and Mentoring
-======
+====== 
 * ***Instructor (Spring 2021 & Spring 2022), University of Rochester:***
   - Introduction to Quantitative Biology. 400-level course on quantitative methods and bioinformatics for second-year graduate students at
   University of Rochester Medical Center.
