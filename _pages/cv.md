@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 * PhD, Biophysics, Structural and Computational Biology (Expected December 2022)
-  - University of Rochester Rochester, NY
+  - University of Rochester, NY
   - Advisor: Juilee Thakar, PhD
 * Master of Science, Biophysics (2020)
- - University of Rochester Rochester, NY
+  - University of Rochester, NY
 * Master of Science, Bioinformatics (2015 - 2017)
   - Savitribai Phule Pune University Pune, India
   - Advisor: Urmila Kulkarni-Kale, PhD & Mohan Kale, PhD
