@@ -23,7 +23,6 @@ Bibliografia
 1. Boldrini, J. L., Costa, S. I. R, Figueiredo, V. L., Wetzler, H. G., Álgebra Linear, 3a Edição, Editora Harbra, 1986.
 1. Leon, Steven J., Álgebra Linear com Aplicações, 4a Edição, LTC, 1998. 
 1. Lima, E. L., Geometria Analítica e Álgebra Linear, Coleção Matemática Universitária, IMPA, 2010.
-1. Lima, E. L., Álgebra Linear, Coleção Matemática Universitária, 3a Edição, 1988.
 1. Poole, D., Álgebra Linear, Thomson, 2004.
 1. Santos, N. M dos, Vetores e Matrizes, Elementos de Matemática, IMPA, 1972.
 
