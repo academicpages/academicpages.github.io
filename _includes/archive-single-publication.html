@@ -1,0 +1,36 @@
+{% include base_path %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    {% if post.collection == 'publications' %}
+      <div>
+        <b>{{ post.title }}</b>
+      </div>
+    {% endif %}
+
+    {% if post.collection == 'publications' and post.coauthors %}
+      <!--  Thanks to Mohammad Latifian for this snippet  -->
+      <div>
+            By
+            {% for ca in post.coauthors %}
+              {% if forloop.last %}and {% endif %}
+                {% if site.data.authors[ca] %}
+                    {% assign author = site.data.authors[ca] %}
+                    {% if author.uri %}
+                      <a href=" {{ author.uri }} ">{{ author.name }}</a>{% unless forloop.last or post.coauthors.size == 2 %}, {% endunless %}
+                    {% else %}
+                      {{ author.name }}{% unless forloop.last or post.coauthors.size == 2 %}, {% endunless %}
+                    {% endif %}
+                {% else %}
+                  {{ ca }}{% unless forloop.last or post.coauthors.size == 2 %}, {% endunless %}
+                {% endif %}
+            {% endfor %}
+      </div>
+    {% endif %}
+    {% if post.collection == 'publications' and post.short-venue and post.venue-url %}
+      <div>
+          In <a href=" {{ post.venue-url }}">{{ post.short-venue }}</a>: {{ post.venue }}
+      </div>
+    {% endif %}
+  </article>
+</div>
