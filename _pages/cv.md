@@ -28,9 +28,21 @@ Education
 * ***Bachelor of Science, Microbiology & Chemistry 2011 - 2014***
   - Savitribai Phule Pune University Pune, India
 
-Publications
+Publications and Conference Presentations
 ======
 
+* ***Palshikar, M.G.***, Palli, R., Tyrell, A., Maggirwar, S., Schifitto, G., Singh, M. V., & Thakar, J. (2022). Executable models of immune
+signaling pathways in HIV-1 associated atherosclerosis. medRxiv, 2022.2003.2007.22271522. doi: 10.1101/2022.03.07.22271522
+* ***Palshikar, M.G.***, Hilchey, S. P., Zand, M. S., & Thakar, J. (2022). WikiNetworks: translating manually created biological pathways for
+topological analysis. Bioinformatics, 38(3), 869-871. doi: 10.1093/bioinformatics/btab699
+* ***Palshikar, M.G.*** Executable models of pathways built using single-cell RNAseq data reveal immune cell heterogeneity in people
+living with HIV and atherosclerosis. Conference on Intelligent Systems for Molecular Biology, July 13-16, 2020. International Society
+for Computational Biology. 
+* Hilchey, S. P., ***Palshikar, M. G.***, Li, D., Garigen, J., Cipolla, V., Thakar, J., & Zand, M. S. Cyclosporine A Directly Affects Human and
+Mouse B cell Migration in vitro by Disrupting a HIF1α- Dependent, O2 Sensing, Molecular Switch. BMC Immunology. 2020 Mar
+18;21(1):13. doi: 10.1186/s12865-020-0342-8
+* Palli, R., ***Palshikar, M. G.***, & Thakar, J. (2019). Executable pathway analysis using ensemble discrete-state modeling for large-scale
+data. PLOS Computational Biology, 2019 Sep 3;15(9):e1007317 doi: 10.1371/journal.pcbi.1007317
 
 Teaching and Mentoring
 ======
