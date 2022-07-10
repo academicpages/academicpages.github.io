@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# title: "Executable models of immune signaling pathways in HIV-associated atherosclerosis"
+# "Executable models of immune signaling pathways in HIV-associated atherosclerosis"
 
 ## Citation: 
 'Palshikar, M.G., et al. Executable models of immune signaling pathways in HIV-associated atherosclerosis. medRxiv 2022:2022.2003.2007.22271522.'
