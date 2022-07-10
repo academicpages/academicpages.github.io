@@ -55,7 +55,7 @@ Schechtl, Manuel, Daria Tisch: My Wealth, Our Taxes? Cross-National Experimental
 Tisch, Daria, Emma Ischinsky: Who are the German superrich? An analysis of Germany’s Largest Fortunes
 
 
-Tisch, Daria, Manuel Schechtl: Gender differences in parental wealth transfers and how the German tax system contributes to the gender wealth gap 
+Tisch, Daria, Manuel Schechtl: [Gender differences in parental wealth transfers and how the German tax system contributes to the gender wealth gap] (https://keeper.mpdl.mpg.de/f/56f88c6b63664acd847c/)
 
 
 
