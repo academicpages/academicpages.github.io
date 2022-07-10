@@ -27,10 +27,6 @@ Publications
 ======
 
 
-Teaching
-======
-
-
 Teaching and Mentoring
 ======
 * Instructor (Spring 2021 & Spring 2022), University of Rochester:
@@ -51,6 +47,21 @@ Teaching and Mentoring
   omics data
   - Responsible for helping students design methods/algorithms and with coding in Python and R
   - Guided students in preparation and presentation of research findings
+
+Undergraduate Research Experience
+======
+
+* Detection of luxRI homologs in Aeromonas bacteria (Fall 2013)
+  - National Centre for Cell Science Pune, India
+  - Advisors: Kamlesh Jangid, PhD & Yogesh Shouche, PhD
+  - Project Description: Confirmed the presence of virulence-associated luxRI homologs in 27 environmental isolates of Aeromonas bacteria
+using PCR and a biosensor assay
+
+* Efficacy Testing of Disinfectants on MS2 Phage at Different Concentrations and Contact Times (Summer 2013)
+  - Tata Research Design and Development Centre (Process Engineering Lab) Pune, India
+  - Advisors: Chetan Malhotra, PhD & Rajshree Patil, PhD
+  - Project Description: Determined the minimum exposure times and concentrations at which candidate disinfectants are most effective
+against a model virus and hence most suitable for use in a low-cost water purification system under development in the lab
 
 Additional Experience and Achievements
 ======
