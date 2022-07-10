@@ -15,11 +15,11 @@ main:
   - title: "CV"
     url: /cv/  
     
-  - title: "Portfolios"
-    url: /portfolio/
+  - title: "Research"
+    url: /research/
         
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Art"
+    url: /art/
     
   
     
