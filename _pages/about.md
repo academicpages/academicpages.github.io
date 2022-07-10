@@ -10,7 +10,6 @@ redirect_from:
 
 This is Mukta's home on the web
 
-<!-- 
 A data-driven personal website
 ======
 
