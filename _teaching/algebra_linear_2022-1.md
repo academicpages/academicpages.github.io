@@ -32,12 +32,15 @@ Disponível no sistema SAGRES.
 
 Datas das Provas
 ======
-* Primeira prova: 
-* Segunda prova: 
-* Terceira prova: 
+* Primeira prova: 19/08/2022
+* Segunda prova:  30/09/2022
+* Terceira prova: 24/11/2022
+* Prova Final : ??/??/????
 
 Listas de Exercícios 
 ======
 * Lista 01 
 
-
+Notas de Aula
+=======
+1. Aula do dia DD/MM/AAAA

@@ -30,6 +30,14 @@ Plano de Curso
 ======
 Disponível no sistema SAGRES.
 
+Provas
+=======
+* Primeira Prova: 18/08/2022
+* Segunda Prova: 29/09/2022
+* Terceira Prova: 24/11/2022
+* Prova Final: 28/11/2022
+
+
 Softwares para Download
 ======
 [Página do Julia (Download, documentação e tutoriais)](https://julialang.org/)
