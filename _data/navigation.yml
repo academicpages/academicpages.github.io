@@ -6,22 +6,22 @@ main:
   - title: "Research"
     url: /research/    # add publications to this later
 
-  - title: "Activities"
-    url: /activities/    
+  - title: "MacSuite"
+    url: /macsuite/
+    
+#   - title: "Activities"
+#     url: /activities/    
     
 # comment out for now but include later for blogs + photography? or replace w education section?
 #   - title: "Personal"
 #     url: /personal/
 
 # # collection of research papers i read and when
-  - title: "KUWTL"
-    url: /literature/  
-        
+#   - title: "KUWTL"
+#     url: /literature/  
+     
   - title: "Contact"
     url: /contact/
     
 #   - title: "CV"
 #     url: /cv/
-    
-#   - title: "Guide"
-#     url: /markdown/
