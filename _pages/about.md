@@ -19,6 +19,8 @@ In 2020, I joined [Bosch Research](https://www.bosch.us/our-company/bosch-in-the
 
 News
 ======
+* [2022/07/10] &nbsp; Our paper "Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing" is accepted by ECCV 2022 as poster paper. The code will be released soon!
+* [2022/07/10] &nbsp; Our paper "Multi-domain Learning for Updating Face Anti-spoofing Models" is accepted by ECCV 2022 as oral paper. The code will be released soon!
 * [2022/05/10] &nbsp; Our paper "Spoof Trace Disentanglement for Generic Face Anti-Spoofing" is accepted by TPAMI. The code will be released soon!
 * [2021/06/18] &nbsp; I'm interviewed by IEEE Biometrics Council Newsletter [[link](http://ieee-biometrics.org/images/pdf/Vol38-Newsletter.pdf)].
 * [2021/06/18] &nbsp; I'm selected as CVPR 2021 Outstanding Reviewer.
@@ -89,9 +91,9 @@ ___
   <div class="column middle">&nbsp;</div>
   <div class="column right">
     <p>
-      <strong>PSCC-Net: Progressive spatio-channel correlation network for image manipulation detection and localization</strong><br/>
+      <strong>PSCC-Net: Progressive Spatio-Channel Correlation Network for Image Manipulation Detection and Localization</strong><br/>
       Xiaohong Liu, <u>Yaojie Liu</u>, Jun Chen, Xiaoming Liu<br/>
-      arXiv, 2021.<br/>
+      IEEE Transactions on Circuits and Systems for Video Technology, 2022.<br/>
       [<a href="https://arxiv.org/pdf/2103.10596.pdf">PDF</a>]
     </p>
   </div>
