@@ -20,7 +20,9 @@ Education
 * M.A. in Geography, University of California Santa Barbara, 2019
 * B.S. in Psychology, South China Normal University, 2014
 
-
+Academic position
+======
+* [Postdoctoral Research Fellow](https://www.coursera.org/instructor/you-lilian-cheng), [Massachussets General Hospital (MGH)](https://www.massgeneral.org/) & [Harvard Medical School (HMS)](https://hms.harvard.edu/departments/neurology)                              July. 2022 – present
 
 Work experience
 ======

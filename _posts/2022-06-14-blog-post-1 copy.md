@@ -1,0 +1,12 @@
+---
+title: "Join MGH&HMS as a Research Fellow and Become a REC Scholar at MADRC"
+collection: neuroscience
+date: 2022-07-01
+permalink: /posts/2022/07/blog-post-1/
+tags:
+  - neuroscience
+  - data science
+  - boston
+---
+
+Today, I joined the MIND Data Science as a postdoctoral research fellow working with Dr. Sudeshna Das. I hold joint appointments at Massachusetts General Hospital and Harvard Medical School. Another good news is that I was selected as a REC Scholar of the Massachusetts Alzheimer's Disease Research Center for the coming year with appoint also happen to start on July 1st. During the next year, I will work with my primary advisor Dr. Das and my secondary advisor Dr. Deborah Blacker to work on dementia research using computational methods and combined with epidemiology studies. I am really excited to work on projects that combine my neuroscience, geography, and data science backgrounds.
