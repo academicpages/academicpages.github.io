@@ -1,5 +1,5 @@
 ---
-title: "Geometria Analítica - DCET0091"
+title: "Geometria Analítica e Cálculo Vetorial- DCET0091"
 collection: teaching
 type: "Curso de Matemática"
 permalink: /teaching/geometria_analitica_20221
