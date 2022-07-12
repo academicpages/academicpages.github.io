@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* B.S. in Economics, Markets and Institution (Department of Economics), University of Bologna (Italy), September 2016-March 2020
+* M.S. in Economics and Management, Curriculum in Business and Administration, University of Bologna, Campus of Forlì (Italy), September 2020- March 2023
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
