@@ -16,7 +16,6 @@ redirect_from:
 {% include base_path %}
 ##  [***My CV***](http://mostafa-metwaly.github.io/files/Mostafa%20OthmanCV%202022.pdf)
 
-
 Education
 ======
 * B.S. in Mechatronics Engineering, Nile University, 2020
