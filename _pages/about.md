@@ -15,6 +15,7 @@ redirect_from:
 <!--* Now, I am seeking for a research internship position about medical image segmentation during 2021.06-2021.10, feel free to contact me! [[My CV](https://github.com/Luoxd1996/Luoxd1996.github.io/blob/master/files/xiangdeluo_cv.pdf)]-->
 
 # Recent News
+* July 12, 2022, Our project [SSL4MIS](https://github.com/HiLab-git/SSL4MIS) received the 1000th star, a great milestone for this project, keep going!!!
 * Jun 30, 2022, Our MICCAI2022 paper ([WSL4MIS](https://arxiv.org/pdf/2203.02106.pdf)) was selected to receive a **MICCAI2022 Student Travel Award**.
 * Jun 10, 2022, Our paper <b>Semi-Supervised Medical Image Segmentation via Uncertainty Rectified Pyramid Consistency	</b> was accepted by <b>Medical Image Analysis</b>, thanks to all co-authors, [code](https://github.com/HiLab-git/SSL4MIS) and [paper](https://www.sciencedirect.com/science/article/pii/S1361841522001645#!) are available.
 * May 5, 2022, Our paper <b>Scribble-Supervised Medical Image Segmentation via Dual-Branch Network and Dynamically Mixed Pseudo Labels Supervision</b> was provisionally accepted by <b>MICCAI2022</b> (top 13% in total 1825 submissions), thanks to all co-authors, [code](https://github.com/HiLab-git/WSL4MIS) and [paper](https://arxiv.org/pdf/2203.02106.pdf) are available.
