@@ -7,13 +7,24 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Giulio Camuffo"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : &name "Giulio Camuffo"
+description              : &description "Hi there! I am Giulio, a master’s degree student enrolled in the Business and Administration course at 
+                          University of Bologna (Italy), who is only missing the writing of his thesis before graduating (I expect to 
+                          graduate by March 2023 at the latest). My level of English is advanced (C1 certified) and my master's 
+                          degree was taught completely in English, the course being international. I have recently been an Erasmus+ Exchange Student at SGH, Warsaw School of Economics for the Winter Semester 2021/2022 (GPA 4.0/4.0).
+                          My main areas of interest and expertise relate Behavioral Economics, Entrepreneurship, Strategic Management,Performance Management, M&A, Corporate Governance, Business Strategy, Business Intelligence and Private Equity.
+                          As for my professional experience, I recently completed a two-month remote intensive internship (March-May 2022) as a Business Analyst for OESON, in which I applied what I learned in the Business Intelligence course, in terms of producing 
+                          complex measures with DAX language, creating interactive dashboards, cleaning and preprocessing of data, using R for hypothesis testing and correlation analysis, and ultimately received a Letter of 
+                          Recommendation from the CEO of the company for commitment and merit in all tasks performed in my domain.I have achieved such result studying throughout my master's degree (two years in September 2022) Power BI in the 
+                          Business Intelligence course (completed with honors) related to the use of DAX language (creation of complex measures, calculated columns, time intelligence) and interactive dashboards. However, my passion for the world of Data Analysis does not end in the software learned so far; in fact, 
+                          I am very eager to constantly continue to learn new tools to expand my analytical and technical knowledge, such as Tableau, SQL, and any other software that is necessary to learn for my professional career.
+                          In addition, in parallel with my studies and the Business Analyst studies, I am also having another part-time internship (March-September 2022) as Business Development Lead for The THRIVE Project. This is an Australian Non-profit and this role has let me apply 
+                          my knowledge built during my academic path in strategy and analytics, analyzing market dynamics and very different industries characteristics, with the aim of pointing out which are the best moves for a business to spread its vision and mission. But not only that. Working for an organization with such a 
+                          focus on environmental sustainability has also allowed me to play the role of a researcher."
+url                      : "https://giulio-camuffo.github.io" # the base hostname & protocol for your site e.g. "https://giulio-camuffo.github.io"
+repository               : "giulio-camuffo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -22,9 +33,6 @@ read_more                : "disabled" # if enabled, adds "Read more" links to ex
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
-  discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
@@ -49,27 +57,12 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
-
 # Social Sharing
 twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+  username               : "g_camuffo"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
+LinkedIn                 : "https://www.linkedin.com/in/giuliocamuffo/"
 
 # Analytics
 analytics:
@@ -77,44 +70,21 @@ analytics:
   google:
     tracking_id          :
 
-
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Giulio Camuffo"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Business Development Lead at THRIVE Project (AU) | Business Analyst at OESON (IN) | Exchange Student at SGH (PL) | MSc in BA at UNIBO (IT)"
+  location         : "Bologna, Italy"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  email            : "giulio.camuffo13@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Giulio-Camuffo-2"
+  github           : "giulio-camuffo"
+  linkedin         : "https://www.linkedin.com/in/giuliocamuffo/"
+  soundcloud       : "https://soundcloud.com/giulio-camuffo"
+  spotify          : "https://open.spotify.com/user/2147ostd2xil2uieljbmk6fri?si=a2e903450fd14aa0"
 
 
 # Reading Files
