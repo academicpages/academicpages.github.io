@@ -16,8 +16,8 @@ I received my PhD degree in Mechanical Engineering, specializing in robotics con
 
 **Recent News:**
 
-[Jun. 17, 2022](http://jiewang.name/publications/GP-FBLMPC2022/): Submitted our GP-FBLMPC algorithm [Paper](http://jiewang.name/publications/GP-FBLMPC2022/) to Journal of Field Robotics with a supplementary [video](https://www.youtube.com/watch?v=tC09jJQ0OXM). 
+[July. 04, 2022](http://jiewang.name/publications/simulator2022/): "How to pick a mobile robot simulator: A quantitative comparison of CoppeliaSim, Gazebo, MORSE and Webots with a focus on the accuracy of motion simulations" [Paper](https://doi.org/10.1016/j.simpat.2022.102629) was accepted. This is my first time to supervise graduate students publishing papers as a corresponding author!   
 
-[Nov. 11, 2021](http://jiewang.name/publications/simulator2021/): A quantitative comparison of CoppeliaSim, Gazebo, MORSE, and Webots robot simulator [Paper](http://jiewang.name/publications/simulator2021/) was submitted. 
+[Jun. 17, 2022](http://jiewang.name/publications/GP-FBLMPC2022/): Submitted our GP-FBLMPC algorithm [Paper](http://jiewang.name/publications/GP-FBLMPC2022/) to Journal of Field Robotics with a supplementary [video](https://www.youtube.com/watch?v=tC09jJQ0OXM). 
 
 [Apr. 04, 2020](http://jiewang.name/posts/2020/04/gpr/): An Intuitive Tutorial to [Gaussian Processes Regression](https://github.com/jwangjie/An-Intuitive-Tutorial-to-Gaussian-Processes-Regression) posted.
