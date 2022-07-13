@@ -11,7 +11,7 @@ The Zhang Computational Social Science Research Lab uses computational, statisti
 
 One project focuses on partisanship and polarization in Corporate America using administrative, social media, and earnings call big data.
 
-The second project uses population mobility data from Facebook and SafeGraph with voter records to track multiplex segregation in the U.S.
+The second project uses population mobility data from Facebook, SafeGraph, and Cuebiq with voter and consumer records to track multiplex segregation in the U.S.
 
 The third project focuses on polarization on social media by monitoring and detecting anti-AAPI hate speech and incident using billions of Tweets. 
 

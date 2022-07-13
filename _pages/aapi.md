@@ -60,15 +60,6 @@ The AAPI project is led by a research team from the Zhang Computational Social S
 </td>
 </tr>
 
-<tr>
-<td>
-<p align="left"><img align="left" width="500" height="500" src="https://yongjunzhang.com/images/xiaoran.jpeg"></p>
-</td>
-<td>
-<p align="left">Dr. Xiaoran Sun is an incoming assistant professor in the Department of Family Social Science, College of Education and Human Development, at University of Minnesota. Currently, she is a postdoctoral scholar at Stanford University, affiliated with the Department of Pediatrics and Department of Communication, and in the Stanford Data Science Scholars Program. She obtained her PhD degree in Human Development and Family Studies from the Pennsylvania State University in August 2019, with a graduate minor in Social Data Analytics. Her primary research interests focus on family systems, technology & cultural contexts, computational social science, and big data & machine learning. </p>
-</td>
-</tr>
-
 </table>
 
 
