@@ -10,16 +10,16 @@ redirect_from:
 
 * I am currently a third-year Ph.D. student in the [Department of Computer Science](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/), advised by [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). 
 
-* Previously, I received the M.S. degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) under supervision of [Prof. Chen Gong](http://staff.ustc.edu.cn/~cgong821/) and Prof. Zhengyuan Xu in optical wireless communication and networking center.
+* Previously, I received the M.S. degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) under supervision of [Prof. Chen Gong](http://staff.ustc.edu.cn/~cgong821/) and Prof. Zhengyuan Xu, and the B.S. degree from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/).
 
-* Previously, I received the B.S. degree from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/) majoring in Electronic Information Engineering.
-
-* My research interests lie in the broad area of trustworthy machine learning, particularly in fair and robust DNNs and GNNs. I am also interested in advertisement bid optimization.
+* My research interests lie in the broad area of trustworthy machine learning, particularly in fair and robust DNNs and GNNs.
 
 <br />
 
 News
 =====
+**Jun. 2022:** Invited talk from [AI-Time](http://www.aitime.cn/).
+
 **May. 2022:** Thrilled to start my summer internship at Visa Research, work with [Dr. Huiyuan Chen](https://usa.visa.com/about-visa/visa-research/huiyuan-chen.html) and [Dr. Hao Yang](https://usa.visa.com/about-visa/visa-research/hao-yang.html).
 
 **May. 2022:** Our paper on G-mixup is accepted by ICML 2022 (Long Presentation)!

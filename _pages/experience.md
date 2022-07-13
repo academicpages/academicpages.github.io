@@ -22,6 +22,30 @@ Experience
 -- Supervisor: Dr. Xia Hu\\
 -- Research topics: Truthworthy machine learning
 
+**Research Intern at Visa Research**, May. 2022 - Aug 2022 \\
+-- Supervisor: [Dr. Huiyuan Chen](https://usa.visa.com/about-visa/visa-research/huiyuan-chen.html) and [Dr. Hao Yang](https://usa.visa.com/about-visa/visa-research/hao-yang.html)\\
+-- Research topics: Graph Influence Function.
+
 **Research Intern at Samsung Research America Ads AI team, Remotely**, May. 2020 - Aug 2020 \\
 -- Supervisor: [Dr. Li Li](https://scholar.google.com/citations?user=FPcI7HkAAAAJ&hl=en) and [Dr. Rui Chen](https://scholar.google.com/citations?user=ngVttWUAAAAJ&hl=en)\\
 -- Research topics: Improving the performance of models deployed on the digital advertising platform via multi-task learning and hyperparameter tuning.
+
+Services
+=====
+Conference Reviewer: 
+* NeurIPS'22, ICML’22
+* ICLR’20, KDD’20, CIKM’20, WSDM’21 (External)
+
+Journal Reviewer: 
+* IEEE Transactions on Information Forensics and Security
+* Digital Signal Processing 
+* IEEE Communications Letter
+* IEEE Wireless Communications Letter
+* EURASIP Journal on Wireless Communications and Networking
+
+Student Volunteer: ICML'22
+
+Talk
+=====
+* Jun, 2022: I gave an invited talk on Fairness in Graph at Visa Research Intern Seminar.
+* Jun, 2022: I gave an invited talk at [AI-Time](http://www.aitime.cn/).
