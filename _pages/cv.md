@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Link](https://www.dropbox.com/s/mjov0dgs7ttv0dx/CV_Kim_website.pdf?dl=0)
+[Link](https://www.dropbox.com/s/2t01m60l61u8xmj/CV_Kim_academic_071322.pdf?dl=0)
