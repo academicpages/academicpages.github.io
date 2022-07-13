@@ -12,6 +12,6 @@ author_profile: true
 
 
 <h2>Email Address</h2>
-jiwon[dot]kim[at]Emory[dot]edu
+jiwon[dot]kim[at]emory[dot]edu
 
 
