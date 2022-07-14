@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hanxu Hu's Personal Page"
 title_separator          : "-"
 name                     : &name "Hanxu Hu"
-description              : &description "An Self-Motivated NLP Lover"
+description              : 
 url                      : https://hanxu-hu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Hanxu-Hu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "for fun"
   location         : "Edinburgh"
   employer         :
   googlescholar    : 
