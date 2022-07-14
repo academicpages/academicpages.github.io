@@ -22,6 +22,8 @@ You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.e
 
 News
 ======
+\[July 2022\] Recognized as an **Outstanding Reviewer** (Top 10%) of ICML 2022!
+
 \[June 2022\] Invited to serve as a Reviewer for the new **[LoG](https://logconference.org/)** Conference 2022! 
 
 \[May 2022\] CrossTReS is accepted at **KDD 2022**. Congratulations!
