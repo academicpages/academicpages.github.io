@@ -8,7 +8,7 @@ date: Winter 2022
 location: "Montréal, Qc, Ca"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching assistant for the class PHY2300 Introduction à la Physique Médicale à l'Université de Montréal during the winter semester 2022.
 
 Heading 1
 ======
