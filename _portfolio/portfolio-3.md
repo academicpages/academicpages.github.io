@@ -3,7 +3,7 @@ title: "Geometric Deep Learning course: Lecture Notes"
 excerpt: "taught by Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković, July 2022 <br/><img src='/images/CORA_dataset.png'>"
 collection: portfolio
 ---
-To access the document, please click [here](http://simonegiancola09.github.io/files/Algorithms_Hungarian_chapters.pdf)
+To access the document, please click [here](http://simonegiancola09.github.io/files/GDL_lecture_notes.pdf)
 <br/>
 
 150 pages of lecture notes for the fast evolving field of Geometric Deep Learning. Written to explore the topic and shape research interest under the suggestion of mentors from the Visiting Student initiative. The course, the slides and the book are available [here](https://geometricdeeplearning.com/lectures/)
