@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is a test line for my Beubak!
+This is a test line for my Beubak!<br>
 
+This is a test for a new commit.
