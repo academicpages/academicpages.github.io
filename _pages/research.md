@@ -16,8 +16,9 @@ title: ""
 
 # Book Chapter
 
-* “Food Insecurity, Price Volatility and Trade: A Panel Data Analysis in Developing Countries” (with Panchanan Das and Swayambhu Mukherjee), Indian Agriculture under Multilateral and Regional Trade Agreements - Competitiveness and Food Security, Sharma and Bathla (eds.), Bookwell, Delhi, 2017, 177-194. [Paper PDF](/files/pdf/Food Insecurity, Price Volatility, and Trade.pdf)
-
+* “Food Insecurity, Price Volatility and Trade: A Panel Data Analysis in Developing Countries” (with Panchanan Das and Swayambhu Mukherjee), Indian Agriculture under Multilateral and Regional Trade Agreements - Competitiveness and Food Security, Sharma and Bathla (eds.), CWS with Bookwell, Delhi, 2017, 177-194. 
+<!-- * [Paper PDF](/files/pdf/Food Insecurity, Price Volatility, and Trade.pdf)
+ -->
 # Other Papers
 
 * “Industrial Performance in West Bengal: Analysis of Technical Efficiency with ASI Data” (with Panchanan Das and Swayambhu Mukherjee), 2016 [Paper PDF](/files/pdf/Industrial Performance in West Bengal.pdf)
