@@ -33,11 +33,15 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
 * \[2020.12\] A paper accepted to [AAMAS 2021](https://aamas2021.soton.ac.uk/).
 * \[2020.12\] A [virtual talk](https://slideslive.com/38942858/learning-to-select-nodes-in-bounded-suboptimal-conflictbased-search-for-multiagent-path-finding) at [Learning Meets Combinatorial Algorithms Workshop at NeurIPS 2020](https://sites.google.com/view/lmca2020/home).
 * \[2020.12\] A paper accepted to [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
-* \[2020.11\] A virtual talk at INFORMS 2020 session "Machine Learning and Discrete Optimization".
-* \[2020.07\] A virtual talk at [2020 Harvard CRCS AI for Social Good Workshop](https://crcs.seas.harvard.edu/event/ai-social-good-workshop-2020).
 <details>
   <summary>Show more</summary>
   <ul>
+    <li>
+      [2020.11] A virtual talk at INFORMS 2020 session "Machine Learning and Discrete Optimization".
+    </li>
+    <li>
+      [2020.07] A virtual talk at [2020 Harvard CRCS AI for Social Good Workshop](https://crcs.seas.harvard.edu/event/ai-social-good-workshop-2020).
+    </li>
     <li>
       [2020.06] A [virtual talk](https://www.youtube.com/watch?v=Y0GbB7aEIaM) at [COMPASS 2020](https://acmcompass.org/day-4).
     </li>
