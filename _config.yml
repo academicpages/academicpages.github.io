@@ -13,7 +13,7 @@ name                     : &name "Hanxu Hu"
 description              : 
 url                      : https://hanxu-hu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://hanxu-hu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &Hashaw
 facebook:
   username               :
   app_id                 :
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hanxu-Hu"
+  name             : "Hanxu Hu"
   avatar           : "profile.png"
   bio              : "for fun"
   location         : "Edinburgh"
@@ -91,7 +91,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Hanxu-Hu"
+  github           : "https://github.com/Hanxu-Hu/"
   google_plus      :
   keybase          :
   instagram        :
@@ -103,7 +103,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://mobile.twitter.com/huhanxu1"
   vine             :
   weibo            :
   xing             :
