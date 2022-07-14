@@ -15,7 +15,7 @@ IEEE ICCE-Berlin 2022; IEEE BDS’20; IEEE ZINC’20&21; IEEE ICCE-Berlin’19; 
 
 Editorial Board
 ======
-- Energies, SCI-indexed(IF: 3.54), ISSN: 0360-5442, 2021
+- Energies, SCI-indexed (IF: 3.54), ISSN: 0360-5442, 2021
 - International Journal of Information and Communication Sciences (IJICS), ISSN Print:  2575-1700
 ISSN Online:  2575-1719, 2018 – 2020
 
