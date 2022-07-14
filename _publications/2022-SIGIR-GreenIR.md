@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/SIGIR2022GreenIR
 year: 2022
 venue: 'Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR ’22)'
-authors: Harry Scells, <strong>Shengyao Zhuang</strong>, Guido Zuccon
+authors: Harry Scells, <strong>Shengyao Zhuang</strong>, Guido Zuccon(<i class="fa fa-trophy" aria-hidden="true"> Best Paper Honorable Mention Award </i>)
 track: Perspective paper
 ---
 ---
