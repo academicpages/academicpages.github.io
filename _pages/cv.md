@@ -47,6 +47,7 @@ Membership
 ======
 - IEEE Blockchain Community
 - IEEE Cybersecurity Community
+- IEEE Computer Society Special Technical Community on Blockchain
 - IEEE Computer Society Technical Committee on Security and Privacy
 - IEEE Computer Society Technical Community on Smart Grid
 - IEEE Internet of Things Community
