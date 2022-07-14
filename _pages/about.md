@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-This is a test line.
+This is a test line for my Beubak!
 
