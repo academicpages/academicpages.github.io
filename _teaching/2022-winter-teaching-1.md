@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2022-winter-teaching
 venue: "Université de Montréal, Department of physics"
 date: Winter 2022
 location: "Montréal, Qc, Ca"
