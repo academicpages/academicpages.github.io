@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Physics, Mathematics and Modern Languages (Italian and German), Bishop's University, PQ, Canada, 2018
+* M.A. in Medieval Studies, Toronto University, On, Canada, 2019
+* Ph.D in Medical Physics under way, 2019-
 
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
+  * Bishop's University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
