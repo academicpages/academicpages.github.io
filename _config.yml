@@ -11,9 +11,9 @@ title                    : "Philippe the Medical Physicist / Site Title"
 title_separator          : "-"
 name                     : &name "Philippe the Medical Physicist"
 description              : &description "I am currently a graduate student (Ph.D.) in Medical Physics at the University of Montréal (UdeM). I am specialising in Nuclear Medicine and Image Processing."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://philippethemedicalphysicist.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "philippethemedicalphysicist.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
