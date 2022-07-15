@@ -85,7 +85,7 @@ author:
   bio              : "PHD student at Queen's University Kingston"
   location         : "Kingston, ON, Canada"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=Um2gtbcAAAAJ&hl"
   email            : “y.wu@queensu.ca”
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "aaronwool"
   google_plus      :
   keybase          :
   instagram        :
