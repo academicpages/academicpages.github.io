@@ -64,7 +64,7 @@ AI OPEN 2021. [[pdf]](https://www.sciencedirect.com/science/article/pii/S2666651
 
 * <b>CSS-LM: A Contrastive Framework for Semi-supervised Fine-tuning of Pre-trained Language Models</b>\
 *<b>Yusheng Su</b>, Xu Han, Yankai Lin, Zhengyan Zhang, Zhiyuan Liu, Peng Li, Maosong Sun*\
-WWW 2020 Workshop, IEEE/TASLP 2021. [[pdf]](https://arxiv.org/abs/2102.03752) [[code]](https://github.com/thunlp/CSS-LM) 
+WWW 2021 Workshop, IEEE/TASLP 2021. [[pdf]](https://arxiv.org/abs/2102.03752) [[code]](https://github.com/thunlp/CSS-LM) 
 
 * <b>CokeBERT: Contextual Knowledge Selection and Embedding Towards Enhanced Pre-Trained Language Models</b>\
 *<b>Yusheng Su</b>, Xu Han, Zhengyan Zhang, Peng Li, Zhiyuan Liu, Yankai Lin, Jie Zhou, Maosong Sun*\
