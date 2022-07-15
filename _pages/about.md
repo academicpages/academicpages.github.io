@@ -31,7 +31,7 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 </font> -->
 
 Got two papers ([Transferability of Prompt Tuning](https://aclanthology.org/2022.naacl-main.290/) and [Knowledge Inheritance](https://aclanthology.org/2022.naacl-main.288/)) accepted at NAACL 2022.\
-I will orally present our works at NAACL 2022 in person and look forward to meeting new/old friends in Seattle.
+I will orally present at NAACL 2022 in person and look forward to meeting new/old friends in Seattle.
 
 <!-- <font color="gray"> </font> -->
 
