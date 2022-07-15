@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in ECE, Queen's University at Kingston, ON Canada 
+* MASc in ECE, Queen's University at Kingston, ON Canada 2022
+* Meng in ECE, Queen's University at Kingston, ON Canada 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2015: Statistics Analysis Intern
+  * L'oreal China Research & Innovation Center, Shanghai, China
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Mechnic Engineer Intern
+  * Jabil, China
+
+* 2019-2020: AR Software Developer
+  * Kingston, ON Canada
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+* Python
+  * Pytorch
+* NVCC kernels
+* C++
 
 Publications
 ======
