@@ -29,7 +29,8 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 * [Aug. 2020] Got one paper accepted at EMNLP 2020. 
 </font> -->
 
-Got two papers ([Transferability of Prompt Tuning](https://aclanthology.org/2022.naacl-main.290/) and [Knowledge Inheritance](https://aclanthology.org/2022.naacl-main.288/)) accepted at NAACL 2022. Will orally present our works at NAACL 2022.\
+Got two papers ([Transferability of Prompt Tuning](https://aclanthology.org/2022.naacl-main.290/) and [Knowledge Inheritance](https://aclanthology.org/2022.naacl-main.288/)) accepted at NAACL 2022.\
+I will orally present our works at NAACL 2022 in person.\
 Looking forward to meeting new and old friends in Seattle.
 
 <!-- <font color="gray"> </font> -->
