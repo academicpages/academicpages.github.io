@@ -1,7 +1,7 @@
 ---
 title: "Quebec"
-excerpt: "<br/><img src='/images/Quebec.png'>"
+excerpt: "<br/><img src='/images/Quebec.jpg'>"
 collection: portfolio
 ---
 
-![Quebec](../images/Quebec.png)
+![Quebec](../images/Quebec.jpg)
