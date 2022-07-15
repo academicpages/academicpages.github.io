@@ -7,10 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Parallel Jaw Grippers
-{% highlight ruby %}
-puts 'Expanded message'
-{% endhighlight %}
+### [Grippers](/grippers/)
 
 {% include image.html
             img="files/2.jpg"
