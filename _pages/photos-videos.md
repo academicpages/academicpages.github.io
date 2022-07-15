@@ -8,6 +8,10 @@ author_profile: true
 {% include base_path %}
 
 ## Parallel Jaw Grippers
+{% highlight ruby %}
+puts 'Expanded message'
+{% endhighlight %}
+
 {% include image.html
             img="files/2.jpg"
             title="Parallel Jaw Gripper"
