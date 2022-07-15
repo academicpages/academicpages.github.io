@@ -16,7 +16,7 @@ I received my PhD degree in Mechanical Engineering, specializing in robotics con
 
 **Recent News:**
 
-[July. 04, 2022](http://jiewang.name/publications/simulator2022/): "How to pick a mobile robot simulator: A quantitative comparison of CoppeliaSim, Gazebo, MORSE and Webots with a focus on the accuracy of motion simulations" [Paper](https://doi.org/10.1016/j.simpat.2022.102629) was accepted. This is my first time to supervise graduate students publishing papers as a corresponding author!   
+[July. 04, 2022](http://jiewang.name/publications/simulator2022/): "How to pick a mobile robot simulator: A quantitative comparison of CoppeliaSim, Gazebo, MORSE and Webots with a focus on accuracy of motion" [Paper](https://doi.org/10.1016/j.simpat.2022.102629) was accepted. This is my first time to supervise graduate students publishing papers as a corresponding author!   
 
 [Jun. 17, 2022](http://jiewang.name/publications/GP-FBLMPC2022/): Submitted our GP-FBLMPC algorithm [Paper](http://jiewang.name/publications/GP-FBLMPC2022/) to Journal of Field Robotics with a supplementary [video](https://www.youtube.com/watch?v=tC09jJQ0OXM). 
 
