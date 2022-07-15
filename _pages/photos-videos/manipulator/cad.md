@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Flexible Grippers"
-permalink: /photos-videos/grippers/flexible/
+title: "2DoF CAD"
+permalink: /photos-videos/manipulator/cad/
 author_profile: true
 ---
 
