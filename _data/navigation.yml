@@ -9,6 +9,9 @@ main:
   - title: "Outreach"
     url: /outreach/    
 
+  - title: "Blog Posts and Tutorials"
+    url: /blog/
+
   - title: "Early Projects"
     url: /projects/
         
