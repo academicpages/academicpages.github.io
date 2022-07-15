@@ -1,5 +1,5 @@
 ---
-title: "ELEC 274 Computer Architecture "
+title: "ELEC 274 Computer Architecture Winter 22"
 collection: TA
 type: "Undergraduate course"
 permalink: /teaching/2022-winter-TA-ELEC-274-Computer-Architecture

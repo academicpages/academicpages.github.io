@@ -1,5 +1,5 @@
 ---
-title: "ELEC 280 Fundamentals of Electromagnetics"
+title: "ELEC 280 Fundamentals of Electromagnetics Summer 21"
 collection: TA
 type: "Undergraduate course"
 permalink: /teaching/2021-fall-TA-ELEC-280-Fundamentals-of-Electromagnetics
