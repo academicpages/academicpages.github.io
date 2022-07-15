@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### [Grippers](base_path/grippers/)
+### [Grippers](photos-videos/grippers/)
 
 {% include image.html
             img="files/2.jpg"
@@ -18,7 +18,7 @@ author_profile: true
 
 {% include youtube_embed.html id="dPAVy_2yOdk" %}
 
-## Tri Fingered Grippers
+### [Tri Fingered Grippers](/cv/)
             
 {% include image.html
             img="files/1.jpg"
