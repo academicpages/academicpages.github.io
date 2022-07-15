@@ -58,7 +58,7 @@ NAACL 2022 <b>Oral</b>. [[pdf]](https://aclanthology.org/2022.naacl-main.288/) [
 *Yujia Qin, Xiaozhi Wang, <b>Yusheng Su</b>, Yankai Lin, Ning Ding, Zhiyuan Liu, Juanzi Li, Lei Hou, Peng Li, Maosong Sun, Jie Zhou*\
 ACL 2022 Findings. [[pdf]](https://arxiv.org/abs/2110.07867) [[code]](https://github.com/thunlp/Intrinsic-Prompt-Tuning)
 
-* <b>CPM: A large-scale generative Chinese pre-trained language model</b>\
+* <b>CPM: A large-scale Generative Chinese Pre-trained Language Model</b>\
 *Zhengyan Zhang, Xu Han, Hao Zhou, Pei Ke, Yuxian Gu, Deming Ye, Yujia Qin, <b>Yusheng Su</b>, Haozhe Ji, Jian Guan, Fanchao Qi, Xiaozhi Wang, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun*\
 AI OPEN 2021. [[pdf]](https://www.sciencedirect.com/science/article/pii/S266665102100019X) [[code]](https://github.com/TsinghuaAI/CPM)
 
