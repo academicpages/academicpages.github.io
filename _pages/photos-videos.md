@@ -10,7 +10,7 @@ author_profile: true
 ## Grippers
 - [Tri-fingered](grippers/tri-fingered/)
 - [Parallel Jaw](grippers/parallel-jaw/)
-- [-Flexible](grippers/flexible/)
+- [Flexible](grippers/flexible/)
 
 ## Manipulator
 - 2dOD CAD
