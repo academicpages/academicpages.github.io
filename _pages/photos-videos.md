@@ -13,7 +13,7 @@ author_profile: true
 - [Flexible](grippers/flexible/)
 
 ## Manipulator
-- [2dOD CAD](manipulator/cad/)
+- [2DoF CAD](manipulator/cad/)
 - [Manipulator picking with Solenoid](manipulator/picking-solenoid/)
 - [Manipulator picking brick](manipulator/picking-brick/)
 - [Manipulator on Drone](manipulator/drone/)
