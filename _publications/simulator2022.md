@@ -1,5 +1,5 @@
 ---
-title: "How to pick a mobile robot simulator: A quantitative comparison of CoppeliaSim, Gazebo, MORSE and Webots with a focus on the accuracy of motion simulations"
+title: "How to pick a mobile robot simulator: A quantitative comparison of CoppeliaSim, Gazebo, MORSE and Webots with a focus on accuracy of motion"
 collection: publications
 date: 2022-07-08
 venue: 'Simulation Modelling Practice and Theory'
