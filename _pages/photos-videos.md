@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### [Grippers](/grippers/)
+### [Grippers]({{ base_path }}/grippers/)
 
 {% include image.html
             img="files/2.jpg"
