@@ -41,7 +41,7 @@ I will orally present our works at NAACL 2022 in person and look forward to meet
 ## Publications
 
 * <b>On Transferability of Prompt Tuning for Natural Language Processing</b>\
-*<b>Yusheng Su</b>, Xiaozhi Wang, Yujia Qin, Chi-Min Chan, Yankai Lin, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou*\ 
+*<b>Yusheng Su</b>, Xiaozhi Wang, Yujia Qin, Chi-Min Chan, Yankai Lin, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou*\
 NAACL 2022 <b>Oral</b>. [[pdf]](https://aclanthology.org/2022.naacl-main.290/) [[code]](https://github.com/thunlp/Prompt-Transferability)
 
 
@@ -54,11 +54,11 @@ NAACL 2022 <b>Oral</b>. [[pdf]](https://aclanthology.org/2022.naacl-main.288/) [
 ACL 2022 Findings. [[pdf]](https://arxiv.org/abs/2110.07867) [[code]](https://github.com/thunlp/Intrinsic-Prompt-Tuning)
 
 * <b>CPM: A large-scale generative Chinese pre-trained language model</b>\
-*Zhengyan Zhang, Xu Han, Hao Zhou, Pei Ke, Yuxian Gu, Deming Ye, Yujia Qin, <b>Yusheng Su</b>, Haozhe Ji, Jian Guan, Fanchao Qi, Xiaozhi Wang, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun*\ 
+*Zhengyan Zhang, Xu Han, Hao Zhou, Pei Ke, Yuxian Gu, Deming Ye, Yujia Qin, <b>Yusheng Su</b>, Haozhe Ji, Jian Guan, Fanchao Qi, Xiaozhi Wang, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun*\
 AI OPEN 2021. [[pdf]](https://www.sciencedirect.com/science/article/pii/S266665102100019X) [[code]](https://github.com/TsinghuaAI/CPM)
 
 * <b>CSS-LM: A Contrastive Framework for Semi-supervised Fine-tuning of Pre-trained Language Models</b>\
-*<b>Yusheng Su</b>, Xu Han, Yankai Lin, Zhengyan Zhang, Zhiyuan Liu, Peng Li, Maosong Sun*
+*<b>Yusheng Su</b>, Xu Han, Yankai Lin, Zhengyan Zhang, Zhiyuan Liu, Peng Li, Maosong Sun*\
 WWW 2020 Workshop, IEEE/TASLP 2021. [[pdf]](https://arxiv.org/abs/2102.03752) [[code]](https://github.com/thunlp/CSS-LM) 
 
 * <b>CokeBERT: Contextual Knowledge Selection and Embedding towards Enhanced Pre-Trained Language Models</b>\
