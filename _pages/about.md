@@ -11,4 +11,4 @@ redirect_from:
 This is a test line for my Beubak!<br>
 
 This is a test for a new commit.<br>
-One more commit.
+One more commit
