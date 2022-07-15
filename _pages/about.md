@@ -40,8 +40,8 @@ I will orally present our works at NAACL 2022 in person and look forward to meet
 
 ## Publications
 
-* <b>On Transferability of Prompt Tuning for Natural Language Processing</b>\ 
-*<b>*Yusheng Su*</b>, Xiaozhi Wang, Yujia Qin, Chi-Min Chan, Yankai Lin, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou.*\ 
+* <b>On Transferability of Prompt Tuning for Natural Language Processing</b>\\ 
+*<b>Yusheng Su</b>, Xiaozhi Wang, Yujia Qin, Chi-Min Chan, Yankai Lin, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou.*\ 
 NAACL 2022 <b>Oral</b>. [[pdf]](https://aclanthology.org/2022.naacl-main.290/) [[code]](https://github.com/thunlp/Prompt-Transferability)
 
 * <b>Knowledge Inheritance for Pre-trained Language Models</b>\ 
