@@ -16,8 +16,6 @@ author_profile: true
             title="4 fingered flexible gripper"
             caption="4 fingered flexible gripper" %}
 
-{% include youtube_embed.html id="Szkmeam_SMw" %}
-
 {% include youtube_embed.html id="aSEXwAbC0TU" %}
 
 {% include youtube_embed.html id="A6S6nmgaegk" %}
