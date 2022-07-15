@@ -13,22 +13,21 @@ author_profile: true
 - [Flexible](grippers/flexible/)
 
 ## Manipulator
-- 2dOD CAD
-- Manipulator picking with Solenoid
-- Manipulator picking brick
-- Manipulator on Drone
+- [2dOD CAD](manipulator/cad/)
+- [Manipulator picking with Solenoid](manipulator/picking-solenoid/)
+- [Manipulator picking brick](manipulator/picking-brick/)
+- [Manipulator on Drone](manipulator/drone/)
 
-## Leap Motion Control
+## [Leap Motion Control](leap/)
 
 ## Shape Memory Alloy
-- Inchworm - 1
-- Inshworm - 2
-- iNature
-- Sensing in Gripper
-- Shared Sensing and Actuation
+- [Inchworm](sma/inchworm/)
+- [iNature](sma/inature/)
+- [Sensing in Gripper](sma/sensing/)
+- [Shared Sensing and Actuation](sma/shared-sensing-and-actuation/)
 
 ## Piezoelectric
-- Self Sensing and Actuation
+- [Self Sensing and Actuation](piezoelectric/self-sensing-and-actuation/)
 
 
 
