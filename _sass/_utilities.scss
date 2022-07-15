@@ -167,6 +167,9 @@ body:hover .visually-hidden button {
 .image-wrapper {
     text-align: center;
     max-width: 25vw;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 
     .image-caption {
         color: $dark-gray;
