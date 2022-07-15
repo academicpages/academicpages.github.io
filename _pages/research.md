@@ -20,5 +20,6 @@ title: ""
 
 # Other Papers
 
-* “Industrial Performance in West Bengal: Analysis of Technical Efficiency with ASI Data” (with Panchanan Das and Swayambhu Mukherjee), 2016 [Paper PDF](/files/pdf/Industrial Performance in West Bengal.pdf)
+* “Industrial Performance in West Bengal: Analysis of Technical Efficiency with ASI Data” (with Panchanan Das and Swayambhu Mukherjee), 2016 
+<!-- * [Paper PDF](/files/pdf/Industrial Performance in West Bengal.pdf) -->
 
