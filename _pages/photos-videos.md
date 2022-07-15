@@ -18,7 +18,7 @@ author_profile: true
 
 {% include youtube_embed.html id="dPAVy_2yOdk" %}
 
-### [Tri Fingered Grippers](/cv/)
+### [Tri Fingered Grippers](cv/)
             
 {% include image.html
             img="files/1.jpg"
