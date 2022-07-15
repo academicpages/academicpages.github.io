@@ -1,20 +1,26 @@
 ---
 layout: archive
 title: "Grippers"
-permalink: /photos-videos/grippers/
+permalink: /photos-videos/grippers/tri-fingered/
 author_profile: true
 ---
 
 {% include base_path %}
 
-### [Grippers](photos-videos/grippers/)
+{% include image.html
+            img="files/1.jpg"
+            title="Trifingered Gripper"
+            caption="Trifingered Gripper" %}
+            
+{% include image.html
+            img="files/IMG_20181017_110328.jpg"
+            title="Trifingered Gripper"
+            caption="Trifingered Gripper empty" %}
 
 {% include image.html
-            img="files/2.jpg"
-            title="Parallel Jaw Gripper"
-            caption="Parallel Jaw Gripper" %}
-            
-{% include youtube_embed.html id="jzOm7siP9l0" %}
+            img="files/IMG_20181017_110207.jpg"
+            title="Trifingered Gripper"
+            caption="Trifingered Gripper holding a Football" %}
 
-{% include youtube_embed.html id="dPAVy_2yOdk" %}
+{% include youtube_embed.html id="mlQ4LSI5MOs" %}
 
