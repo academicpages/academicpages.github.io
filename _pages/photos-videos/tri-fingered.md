@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Grippers"
+title: "Tri-fingered Grippers"
 permalink: /photos-videos/grippers/tri-fingered/
 author_profile: true
 ---
