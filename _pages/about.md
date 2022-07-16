@@ -23,6 +23,7 @@ My research interests center on interpretable machine learning and natural langu
 *Email:* peter@cs.unc.edu
 
 ## News
+* 2022 - Serving as an Area Chair for EMNLP 2022 in the Interpretability, Interactivity and Analysis of Models for NLP track
 * 2022 - Started summer internship at Google Research! Supervised by [Asma Ghandeharioun](https://web.media.mit.edu/~asma_gh/) and [Been Kim](https://beenkim.github.io/)
 * 2022 - Invited talk at the University of Oxford on Explainable Machine Learning in NLP
 * 2022 - Paper accepted to ACL 2022 Workshop on [Natural Language Supervision](https://sites.google.com/princeton.edu/nl-supervision)! "When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data" [[pdf]](https://peterbhase.github.io/files/when-expl-help-LNLS-ACL2022.pdf) [[code]](https://github.com/peterbhase/ExplanationRoles)
