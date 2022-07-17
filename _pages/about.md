@@ -12,19 +12,10 @@ Hello! I am a 2nd year PhD candidate at the MIT Kavli Institute for Astrophysics
 
 Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-* X-ray Nuclear Transients - Probing the Spectral Evolution
- - X-ray Evolution of a Relativistic Outflow and X-ray Corona in the Extreme Changing-Look AGN 1ES 1927+654
- - 
+* X-ray Evolution of a Relativistic Outflow and X-ray Corona in the Extreme Changing-Look AGN 1ES 1927+654
+1ES 1927+654 is an AGN like no other. This system underwent a "changing-look" event in 2018, where broad emission lines appeared in its optical spectrum (see [Trakhtenbrot+19](https://ui.adsabs.harvard.edu/abs/2019ApJ...883...94T/abstract)). However, the peculiarities of 1ES 1927+654 are most prominent in the X-ray part of the spectrum--1ES 1927+654 is the first known AGN where we've witnessed the destruction of the X-ray corona and the disappearance of the ubiquitous power law component of the X-ray spectrum (see [Ricci+20](https://ui.adsabs.harvard.edu/abs/2020ApJ...898L...1R/abstract)). This unique X-ray behavior prompted a massive X-ray follow-up campaign, including over 500 NICER observations and 7 simultaneous XMM-Newton/NuSTAR observations. We analyzed the X-ray spectral evolution over the entire outburst, and found that the X-ray spectrum returned to its pre-outburst state is just 3 years! In addition, we provided a new physical model for a mysterious, broad 1 keV line that was extremely prominent in the early X-ray spectra. This model, called xillverTDE, is a thermal reflection model for a single-temperature blackbody irradiating spectrum. We are now working to aply this same model to other super-Eddington accretors that show fast outflow features in their X-ray spectra.
 * Evolution of AGN Feedback in High-Redshift Galaxy Clusters
- #- Evidence for AGN-Regulated Cooling in Clusters at $z \sim 1.4$: A Multi-Wavelength View of SPT-CL J0607-4448
-* High Resolution Spectroscopy of Nearby AGN - Probing the Extent of X-ray Emitting Gas
- #- Probing the Extent of Fe K$\alpha$ Emission in Nearby Active Galactic Nuclei Using Multi-Order Analysis of Chandra High Energy Transmission Grating Data
+* High Resolution Spectroscopy of Nearby AGN 
 
 Site-wide configuration
 ------
