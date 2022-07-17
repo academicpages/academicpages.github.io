@@ -84,12 +84,12 @@ author:
   avatar           : "masterson.JPG"
   bio              : "2nd Year PhD Candidate @ MIT Kavli Institute for Astrophysics and Space Research"
   location         : "Cambridge, MA"
-  employer         : "https://space.mit.edu/people/masterson-megan/"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.sk/citations?user=tKilmRQAAAAJ&hl=en&oi=ao"
   email            : "mmasters@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://space.mit.edu/people/masterson-megan/"
   bitbucket        :
   codepen          :
   dribbble         :
