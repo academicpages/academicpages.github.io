@@ -15,12 +15,12 @@
   height: auto;
   /* sticky footer fix end */
   margin-top: 3em;
-  color: #000000;
+  color: $lighter-gray;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  background-color: $lighter-gray;
+  background-color: #000000;
   border-top: 1px solid $light-gray;
 
   footer {
