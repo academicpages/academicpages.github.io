@@ -9,14 +9,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
-    url: /cv/
+    url: https://memasterson.github.io/files/Masterson_CV_July2022.pdf
     
   - title: "Guide"
     url: /markdown/
