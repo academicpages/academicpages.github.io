@@ -9,11 +9,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Teaching & Outreach"
     url: /teaching/    
     
   - title: "CV"
     url: https://memasterson.github.io/files/Masterson_CV_July2022.pdf
-    
-  - title: "Guide"
-    url: /markdown/
