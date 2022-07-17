@@ -43,4 +43,4 @@ Listas de Exercícios
 
 Notas de Aula
 =======
-1. Aula do dia DD/MM/AAAA
+1. [Aulas do dia 14 e 15 de Julho de 2022](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/AL_aulas_01_02.pdf)
