@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -84,9 +84,9 @@ author:
   avatar           : "masterson.JPG"
   bio              : "2nd Year PhD Candidate @ MIT Kavli Institute for Astrophysics and Space Research"
   location         : "Cambridge, MA"
-  employer         :
+  employer         : "https://space.mit.edu/people/masterson-megan/"
   pubmed           : 
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.sk/citations?user=tKilmRQAAAAJ&hl=en&oi=ao"
   email            : "mmasters@mit.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
