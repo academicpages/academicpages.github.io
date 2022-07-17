@@ -1,5 +1,5 @@
 ---
-title: "Evolution of a Relativistic Outflow and the X-ray Corona in the Extreme Changing-Look AGN 1ES 1927+654"
+title: "Evolution of a Relativistic Outflow and X-ray Corona in the Extreme Changing-Look AGN 1ES 1927+654"
 collection: publications
 permalink: /publication/1ES_paper
 excerpt: ''
