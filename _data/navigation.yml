@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Home"
+    url: "home"
+
   - title: "Research"
     url: /research/
 
@@ -9,8 +12,8 @@ main:
   - title: "CV"
     url: /cv/    
     
-  - title: "Blogs"
-    url: /blogs/
+  - title: "Contact"
+    url: /contact/
  
   - title: "中文"
     url: /chinese/
