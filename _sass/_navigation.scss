@@ -84,7 +84,7 @@
       text-align: center;
       text-decoration: none;
       color: mix(#fff, $gray, 25%);
-      border: 1px solid $light-gray;
+      border: 5px solid $light-gray;
       border-radius: 0;
 
       &:hover {
@@ -132,7 +132,7 @@
     text-align: center;
     text-decoration: none;
     color: mix(#fff, $gray, 50%);
-    border: 1px solid $light-gray;
+    border: 5px solid $light-gray;
     border-radius: $border-radius;
 
     &:hover {
