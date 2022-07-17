@@ -1,7 +1,7 @@
 ---
 title: "Evolution of a Relativistic Outflow and the X-ray Corona and in the Extreme Changing-Look AGN 1ES 1927+654"
 collection: talks
-type: "Talk"
+type: "Contributed Talk"
 permalink: /talks/HEAD19
 venue: "High Energy Astrophysics Division Meeting"
 date: 2022-03-15
