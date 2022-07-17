@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hello! I am a 2nd year PhD candidate at the MIT Kavli Institute for Astrophysics and Space Research. I work with Prof. Erin Kara on extragralactic X-ray transients like Tidal Disruption Events (TDEs) and changing-look AGN. These events are particularly exciting to me because we can use them to study extreme accretion phenomena and learn about supermassive black holes that are usually dormant and hard to study! I work with a variety of observatories to study the evolution of these objects during their outbursts, including X-ray observatories like NICER, XMM-Newton, NuSTAR, and Swift.
 
 A data-driven personal website
 ======
