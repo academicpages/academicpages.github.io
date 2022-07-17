@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a 2nd year PhD candidate at the MIT Kavli Institute for Astrophysics and Space Research. I work with Prof. Erin Kara on extragralactic X-ray transients like Tidal Disruption Events (TDEs) and changing-look AGN. These events are particularly exciting to me because we can use them to study extreme accretion phenomena and learn about supermassive black holes that are usually dormant and hard to study! I work with a variety of observatories to study the evolution of these objects during their outbursts, including X-ray observatories like NICER, XMM-Newton, NuSTAR, and Swift.
+Hello! I am a 2nd year PhD candidate at the MIT Kavli Institute for Astrophysics and Space Research. I work with Prof. Erin Kara on extragralactic X-ray transients like Tidal Disruption Events (TDEs) and changing-look AGN. These events are particularly exciting to me because we can use them to study extreme accretion phenomena and learn about supermassive black holes that are usually dormant and hard to study! I work with a variety of observatories to study the evolution of these objects during their outbursts, including X-ray observatories like NICER, XMM-Newton, NuSTAR, and Swift. In addition to X-ray transients, I also have broad interests in high-energy astrophysics and have also worked on high resolution X-ray spectroscopy of nearby AGN and the evolution of AGN feedback in high-redshift galaxy clusters. 
 
-A data-driven personal website
+Research Interests
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -18,12 +18,13 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Getting started
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* X-ray Nuclear Transients - Probing the Spectral Evolution
+ - X-ray Evolution of a Relativistic Outflow and X-ray Corona in the Extreme Changing-Look AGN 1ES 1927+654
+ - 
+* Evolution of AGN Feedback in High-Redshift Galaxy Clusters
+ #- Evidence for AGN-Regulated Cooling in Clusters at $z \sim 1.4$: A Multi-Wavelength View of SPT-CL J0607-4448
+* High Resolution Spectroscopy of Nearby AGN - Probing the Extent of X-ray Emitting Gas
+ #- Probing the Extent of Fe K$\alpha$ Emission in Nearby Active Galactic Nuclei Using Multi-Order Analysis of Chandra High Energy Transmission Grating Data
 
 Site-wide configuration
 ------
