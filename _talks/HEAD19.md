@@ -3,7 +3,7 @@ title: "Evolution of a Relativistic Outflow and the X-ray Corona and in the Extr
 collection: talks
 type: "Talk"
 permalink: /talks/head2022_talk
-venue: "High Energy Astrophysics Division Meeting 19 (March 2022)"
+venue: "High Energy Astrophysics Division Meeting"
 date: 2022-03-15
 location: "Pittsburgh, Pennsylvania"
 ---
