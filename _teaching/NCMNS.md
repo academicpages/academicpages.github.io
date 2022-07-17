@@ -1,0 +1,11 @@
+---
+title: "Public Outreach Volunteer at NCMNS"
+collection: teaching
+type: "Astronomy Public Outreach Volunteer"
+permalink: /teaching/2014-spring-teaching-1
+venue: "North Carolina Museum of Natural Sciences"
+date: Summer 2017 & Summer 2019
+location: "Raleigh, NC"
+---
+
+During the summers of 2017 and 2019, I was a public outreach volunteer in the Astronomy and Astrophysics Department at the North Carolina Museum of Natural Sciences. While there, I developed and regularly ran a "cart program", where I would teach museum guests about dark matter using visual aids and 3D printed, hands-on tools. I also ran weekly solar observing sessions and supervised a local high school student in the development of another cart program and solar observing. 
