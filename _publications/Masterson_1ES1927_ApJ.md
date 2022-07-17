@@ -8,3 +8,7 @@ venue: 'ApJ'
 paperurl: 'https://ui.adsabs.harvard.edu/abs/2022arXiv220605140M/abstract'
 citation: 'Masterson, M., Kara, E., Ricci, C., et al. (2022). <i>accepted for publication in ApJ</i>. '
 ---
+
+<p align="center">
+  <img alt="1ES_schematic" src="/images/1ES_schematic_dark.png" width="100%">
+</p>
