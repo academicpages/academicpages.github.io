@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in ECE, Queen's University at Kingston, ON Canada 
-* MASc in ECE, Queen's University at Kingston, ON Canada 2022
-* Meng in ECE, Queen's University at Kingston, ON Canada 2019
+* Ph.D in ECE, Queen's University at Kingston, ON, Canada, -
+* MASc in ECE, Queen's University at Kingston, ON, Canada, 2022
+* Meng in ECE, Queen's University at Kingston, ON, Canada, 2019
+* Bachelor, Nanjing Forestry University, Nanjing, China, 2017
 
 Work experience
 ======
@@ -55,4 +56,4 @@ TAs
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
