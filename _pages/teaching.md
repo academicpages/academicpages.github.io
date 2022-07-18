@@ -3,11 +3,11 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+
+---
 <!-- redirect_from: 
   - teaching/
   - /teaching.md -->
----
-
 # Teaching Experience
 - Spring 2022, CIS 522, Deep Learning for Data Science, Univ of Penn
 - Fall 2021, BIOL 446, Statistics for Biologists, Univ of Penn
