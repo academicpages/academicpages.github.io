@@ -13,4 +13,6 @@ I am a PHD student at RCVLab, ECE, Queen's University at Kingston. I am currentl
 
 Research News:
 ===
-My first paper got oral acceptence to ECCV 2022.
+[RCVPose](https://github.com/aaronWool/rcvpose) has been launched on Github.
+
+[My first paper](https://aaronwool.github.io/publication/rcvpose) got oral acceptence to ECCV 2022.
