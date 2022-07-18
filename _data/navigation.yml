@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Home"
-    url: /about/
+    url: about/
 
   - title: "Research"
-    url: /research/    # add publications to this later
+    url: research/    # add publications to this later
 
   - title: "MacSuite"
-    url: /macsuite/
+    url: macsuite/
     
 #   - title: "Activities"
 #     url: /activities/    
@@ -21,7 +21,7 @@ main:
 #     url: /literature/  
      
   - title: "Contact"
-    url: /contact/
+    url: contact/
     
 #   - title: "CV"
 #     url: /cv/
