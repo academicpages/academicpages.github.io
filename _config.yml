@@ -309,3 +309,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
