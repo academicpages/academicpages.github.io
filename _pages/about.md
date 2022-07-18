@@ -4,7 +4,7 @@ title: "What's this about?"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
+  - about/
   - /about.html
 ---
 Welcome! My name is Felipe and I'm  a PhD Candidate in the Neuroscience Graduate Group at Penn. I study the neural and kinematic basis of social grooming in primates under the co-tutelage of Michael Platt and Konrad Kording. With the Kording lab, I spend most of my time thinking about novel computer vision applications for primatology. With the Platt lab, I combine tools from CV with wireless neurophysiology to model social behavior. In addition, I'm interested in deep reinforcement learning, and how we might build RL agents to study social behavior beyond the lab. If you have similar interests or simply want to chat, please reach out!
