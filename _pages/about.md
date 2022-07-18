@@ -15,7 +15,7 @@ My Ph.D. research focuses on the topic of <b>machine learning (ML)</b> and <b>co
 * [CV] stereo matching and depth estimation, semantic/panoptic segmentation, optical flow, image classification, object detection and localisation, and image synthesis;
 * [Tool] PyTorch, TensorFlow, Python, Jupyter, Git.
 
-I am also currently working as a <b>tutor</b> and <b>lab demonstrator</b> for the Machine Learning subject at RMIT University, in 2021 and 2022. Formerly, I have also worked as a <b>lab demonstrator</b> and <b>teaching assistant</b> for two other subjects: Digital Fundamental and Introduction to Mechatronics. 
+I am also currently working as a <b>tutor</b> and <b>lab demonstrator</b> for the Machine Learning and Deep Learning at RMIT University, in 2021 and 2022. Formerly, I have also worked as a <b>lab demonstrator</b> and <b>teaching assistant</b> for two other subjects: Digital Fundamental and Introduction to Mechatronics. 
 
 Previously, I have also worked in other areas such as 
 * simultaneous localisation and mapping (SLAM) as my final year project for my bachelor's degree; 
