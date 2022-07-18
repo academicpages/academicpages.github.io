@@ -44,6 +44,21 @@ Tisch, Daria (2021) "[Perceptions of Gender Wealth Inequalities within the Famil
 
 
 
+Work in progress
+======
+
+Urbina, Daniela R., Daria Tisch: Division of Housework and Perceptions of Fairness: What Justifies Unequal Housework Arrangements?
+
+
+Schechtl, Manuel, Daria Tisch: My Wealth, Our Taxes? Cross-National Experimental Evidence on Wealth Tax Preferences
+
+
+Tisch, Daria, Emma Ischinsky: The role of the family in Germany’s Largest Fortunes
+
+
+Tisch, Daria, Manuel Schechtl: Gender differences in parental wealth transfers and how the German tax system contributes to the gender wealth ga[p](https://keeper.mpdl.mpg.de/f/56f88c6b63664acd847c/)
+
+
 
 
 
