@@ -18,7 +18,10 @@ main:
 
 # # collection of research papers i read and when
 #   - title: "KUWTL"
-#     url: /literature/  
+#     url: /literature/
+
+  - title: "Teaching"
+    url: teaching/
      
   - title: "Contact"
     url: contact/
