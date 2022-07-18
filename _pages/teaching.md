@@ -1,13 +1,12 @@
 ---
-permalink: /
+layout: archive
 title: "Teaching"
-excerpt: "teaching"
+permalink: /teaching/
 author_profile: true
 redirect_from: 
   - teaching/
   - /teaching.md
 ---
-
 
 # Teaching Experience
 - Spring 2022, CIS 522, Deep Learning for Data Science, Univ of Penn
