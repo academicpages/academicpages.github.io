@@ -4,7 +4,7 @@ collection: teaching
 type: "Astronomy Public Outreach Volunteer"
 permalink: /teaching/NCMNS
 venue: "North Carolina Museum of Natural Sciences"
-date: Summer 2017 & Summer 2019
+date: 2017
 location: "Raleigh, NC"
 ---
 
