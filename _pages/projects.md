@@ -16,19 +16,3 @@ A small group of families or individuals, with fortunes amounting to at least hu
 German Inheritance and Gift Tax Data
 ======
 I just started a larger project based on the German inheritance and gift tax data. In a first subproject I will study gender inequality in gifts and inheritances.
-
-
-
-Work in progress
-======
-
-Urbina, Daniela R., Daria Tisch: Division of Housework and Perceptions of Fairness: What Justifies Unequal Housework Arrangements?
-
-
-Schechtl, Manuel, Daria Tisch: My Wealth, Our Taxes? Cross-National Experimental Evidence on Wealth Tax Preferences
-
-
-Tisch, Daria, Emma Ischinsky: The role of the family in Germany’s Largest Fortunes
-
-
-Tisch, Daria, Manuel Schechtl: Gender differences in parental wealth transfers and how the German tax system contributes to the gender wealth ga[p](https://keeper.mpdl.mpg.de/f/56f88c6b63664acd847c/)
