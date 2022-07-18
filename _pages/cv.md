@@ -22,7 +22,7 @@ Awards
 * [SIGIR 2021 Top10 authors (unofficial)](https://groups.cs.umass.edu/zamani/2021/04/29/sigir-2021-stats/): Based on normalized full paper count [ Rank #3 ]
 * [2021 DIGIX GLOBAL AI CHALLENGE](https://developer.huawei.com/consumer/en/activity/digixActivity/digixWinnersDetail/201621219634131423): 
 Search rankings in multimodal and multilingual contexts. [ <b>Champion</b><span role="image" aria-label="🥇" style="font-family:&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;,NotoColorEmoji,&quot;Noto Color Emoji&quot;,&quot;Segoe UI Symbol&quot;,&quot;Android Emoji&quot;,EmojiSymbols;line-height:1em;font-size:1em">🥇</span> ]
-* [SIGIR 2022] [ <i class="fa fa-trophy" aria-hidden="true"> Best Paper Honorable Mention Award </i> ]
+* [SIGIR 2022](https://sigir.org/sigir2022/program/best-paper-awards/) [ <i class="fa fa-trophy" aria-hidden="true"> Best Paper Honorable Mention Award </i> ]
 
 
 Teaching
