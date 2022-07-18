@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Aaditya Prasad"
   avatar           : "profile.png"
-  bio              : "Data Science Masters Student @ UCSD and Graduate Researcher at the Salk Institute for Biological Studies"
-  location         : "La Jolla"
-  employer         : "The Salk Institute for Biological Studies"
+  bio              : "Data Science Masters Student @ UCSD"
+  location         : #"La Jolla"
+  employer         : "[Salk Institute](https://www.salk.edu)"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "aaprasad@ucsd.edu"
