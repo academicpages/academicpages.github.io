@@ -11,23 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Bioinformatics, University of California, San Diego, 2019-2022
+* M.S. in Data Science w/ Specialization in Computational Neuroscience, University of California, San Diego, 2022-2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* November 2021-Present: Research Assistant
+  * Talmo Lab, Salk Institute for Biological Studies
+<!--   * Duties included: Tagging issues -->
+  * Supervisor: Professor Talmo Pereira
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* October 2020-Present: Undergraduate Research Assistant
+  * Manor Lab, Salk Institute for Biological Studies
+<!--   * Duties included: Merging pull requests -->
+  * Supervisor: Professor Uri Manor
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -46,7 +45,7 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -56,4 +55,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* May 2020 - May 2021: Academic Relations Chair
+  * Undergraduate Bioinformatics Club @ UCSD
+* May 2021-May 2022: Vice President, External
+  * Undergraduate Bioinformatics Club @ UCSD
