@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Teaching"
-<!-- excerpt: "About me" -->
+excerpt: "teaching"
 author_profile: true
 redirect_from: 
   - teaching/
