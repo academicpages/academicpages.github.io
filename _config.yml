@@ -109,7 +109,11 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
+<<<<<<< HEAD
   twitter          : "rexhere1"
+=======
+  twitter          : 
+>>>>>>> parent of 04becac (Update _config.yml)
   vine             :
   weibo            : 
   xing             :
