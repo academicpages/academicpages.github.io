@@ -83,14 +83,14 @@ author:
   name             : "Felipe Parodi"
   avatar           : "parodi_headshot.png"
 #   talk about other stuff and use bio for research-related
-  bio              : "PhD Candidate studying the neural basis of social grooming"
+  bio              : "Interested in neuroscience, machine learning, and animal behavior."
 #   location         : "Philadelphia"
   employer         : "University of Pennsylvania"
   googlescholar    : "https://scholar.google.com/citations?user=kqW-zA0A5dAC&hl=en"
 #   email            : "fparodi@pennmedicine.upenn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   github           : "felipe-parodi/"
-  linkedin         : "https://www.linkedin.com/in/felipeparodi/"
+  linkedin         : "felipeparodi/"
 #   orcid            : "http://orcid.org/yourorcidurl"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
 
