@@ -5,9 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Yangzheng Wu"
@@ -180,16 +177,16 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:path/
   portfolio:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:path/
   talks:
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -255,7 +252,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title
+permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: America/Toronto # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
