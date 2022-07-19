@@ -20,12 +20,10 @@ Education
 * M.A. in Geography, University of California Santa Barbara, 2019
 * B.S. in Psychology, South China Normal University, 2014
 
-Academic position
+Work experience
 ======
 * Postdoctoral Research Fellow, [Massachussets General Hospital (MGH)](https://www.massgeneral.org/) & [Harvard Medical School (HMS)](https://hms.harvard.edu/departments/neurology)                              July. 2022 – present
 
-Work experience
-======
 * [Data Science Instructor](https://www.coursera.org/instructor/you-lilian-cheng) for Guided Projects, Coursera Inc.                              Aug. 2020 – Feb. 2022
 
 * Machine Learning Research Intern, [Max Planck Institute for Software System](https://www.mpi-sws.org/).                              Aug. 2021 – Oct. 2021
