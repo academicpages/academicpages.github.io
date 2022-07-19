@@ -18,13 +18,15 @@ Work experience
 ======
 * November 2021-Present: Research Assistant
   * Talmo Lab, Salk Institute for Biological Studies
-<!--   * Duties included: Tagging issues -->
   * Supervisor: Professor Talmo Pereira
 
 * October 2020-Present: Undergraduate Research Assistant
   * Manor Lab, Salk Institute for Biological Studies
-<!--   * Duties included: Merging pull requests -->
   * Supervisor: Professor Uri Manor
+  
+* June 2021-September 2022: Undergraduate Research Assistant
+  * Mesirov Lab, Moore Cancer Center
+  * Supervisors: Alex Wenzel, Professor Jill Mesirov
   
 <!-- Skills
 ======
