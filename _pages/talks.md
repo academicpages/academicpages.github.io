@@ -17,6 +17,8 @@ Human Navigation
 Direction
 -----------
 
+* <b>Cheng, Y. </b>, Chrastil, E.R., Krichmar, J.. A Recurrent Neural Network Model of Travel Direction in Humans, Women in Machine Learning (WiML) Un-Workshop, International Conference on Machine Learning (ICML), Virtual. July, 2022. [[news](/posts/2022/07/blog-post-2/)]
+
 * <b>Cheng, Y. </b>, Chrastil, E.R., Krichmar, J.. A Recurrent Neural Network Model of Travel Direction in Humans, Interdisciplinary Navigation Symposium (iNAV), Virtual. June, 2022. [[news](/posts/2022/06/blog-post-1/)]
 
 * <b>Cheng, Y.</b>, Chrastil, E.R..  Sex Differences in Head Direction Signals When Learning a Complex Environment. Neuromatch Conference 4.0 Flash Talk, Virtual, Dec., 2021. [[news]](https://lilianyou.github.io/posts/2021/12/blog-post-1/)[[video](https://www.youtube.com/watch?v=fgzp-sRqbmQ&t=12s)]

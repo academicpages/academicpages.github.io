@@ -94,6 +94,8 @@ Select Conference Presentations
 <br>
 <b><big>Poster Presentations</big></b>
 
+* <b>Cheng, Y. </b>, Chrastil, E.R., Krichmar, J.. A Recurrent Neural Network Model of Travel Direction in Humans, Women in Machine Learning (WiML) Un-Workshop, International Conference on Machine Learning (ICML), Virtual. July, 2022. [[news](/posts/2022/07/blog-post-2/)]
+
 * <b>Cheng, Y. </b>, Chrastil, E.R., Krichmar, J.. A Recurrent Neural Network Model of Travel Direction in Humans, Interdisciplinary Navigation Symposium (iNAV), Virtual. June, 2022. [[news](/posts/2022/06/blog-post-1/)]
 
 * <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Travel Direction as a Fundamental Component of Human Navigation, Harvard Women in Psychology’s Annual Trends in Psychology Summit (TiPS), Virtual. Nov., 2021. [[news](/posts/2021/11/blog-post-3/)]
