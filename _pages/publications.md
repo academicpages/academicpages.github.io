@@ -7,9 +7,10 @@ author_profile: true
 
 ### 2022
 
-- **VLDB 2022** CodexDB: generating code for processing SQL queries using GPT-3 Codex. _Immanuel Trummer_
-- **VLDB 2022** Black-box optimization of comparative data summaries via reinforcement learning. _Immanuel Trummer_
-- **VLDB 2022** From BERT to GPT-3 Codex: harnessing the potential of very large language models for data management. _Immanuel Trummer_
+- **VLDB 2022, PhD Workshop** Building learned federated query optimizers. _Victor Giannakouris, Immanuel Trummer_.
+- **VLDB 2022** CodexDB: generating code for processing SQL queries using GPT-3 Codex. _Immanuel Trummer_.
+- **VLDB 2022** Black-box optimization of comparative data summaries via reinforcement learning. _Immanuel Trummer_.
+- **VLDB 2022** From BERT to GPT-3 Codex: harnessing the potential of very large language models for data management. _Immanuel Trummer_.
 - **VLDB 2022** UDO: universal database optimization using reinforcement learning. _Junxiong Wang, Immanuel Trummer, Debabrota Basu_.
 - **SIGMOD 2022** Demonstrating DB-BERT: a database tuning tool that "reads the manual". _Immanuel Trummer_.
 - **AAAI 2022** Procrastinated tree search: black-box optimization with delayed, noisy, and multi-fidelity feedback. _Junxiong Wang, Debabrota Basu, Immanuel Trummer_.
