@@ -24,7 +24,9 @@ My PhD thesis is focused on analysis of concurrency in modern data-intensive pro
 
 I was previously a research intern at [Microsoft](https://www.microsoft.com/en-us/research/), working on a neurosymbolic synthesis technique using [GPT-3](https://en.m.wikipedia.org/wiki/GPT-3) natural language model. My work was supervised by Dr. [Mohammad Raza](https://www.microsoft.com/en-us/research/people/moraza/) and Dr. [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/).
 
-
+<span style="color:red">
+  ** I will join the University of Texas at Austin this Fall as a post-doctoral fellow to do research on neurosymbolic learning techniques in the domain of autonomous robotics.**
+</span>
 
 ## Publications
 <ul>
