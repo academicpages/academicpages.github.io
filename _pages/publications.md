@@ -13,7 +13,7 @@ You can find the replication files on [my OSF profile](https://osf.io/8sgp9).
 Peer reviewed journal articles
 ======
 
-Tisch, Daria, Tamara Gutfleisch (2022): Unequal but just? Experimental evidence on (gendered) distributive justice principles in parental financial gifts. Socio-Economic Review, online first, [doi.org/10.1093/ser/mwac041](href="https://doi.org/10.1093/ser/mwac041")
+Tisch, Daria, Tamara Gutfleisch (2022): Unequal but just? Experimental evidence on (gendered) distributive justice principles in parental financial gifts. Socio-Economic Review, online first, [doi.org/10.1093/ser/mwac041](https://doi.org/10.1093/ser/mwac041)
 
 Kapelle, Nicole, Nutz, Theresa, Tisch, Daria, Schechtl, Manuel, Lersch, Philipp M. & Struffolino, Emanuela (Forthcoming): My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. European Journal of Population.
 
