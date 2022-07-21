@@ -15,4 +15,4 @@ redirect_from:
 
 Recent news
 ===========
-TBA
+- Invited talk by Prof. Xuejin Li at Zhejiang University (November 24, 2021) 
