@@ -44,3 +44,6 @@ Softwares para Download
 
 [Visual Studio Code (Editor de texto)](https://code.visualstudio.com/)
 
+Video aulas sobre o Julia
+======
+[Tutorial básico](https://youtu.be/Gmm5voUQaHw)
