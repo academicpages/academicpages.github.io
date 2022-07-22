@@ -1,5 +1,5 @@
 ---
-title: "Assuring Students' Readiness for Cognitively Demanding Tasks"
+title: 'Assuring Students%apos; Readiness for Cognitively Demanding Tasks'
 collection: publications
 permalink: /publication/2021-01-01-Assuring-Students-Readiness-for-Cognitively-Demanding-Tasks
 date: 2021-01-01
