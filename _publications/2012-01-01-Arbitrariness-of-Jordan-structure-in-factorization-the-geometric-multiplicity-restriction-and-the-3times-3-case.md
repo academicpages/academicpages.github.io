@@ -10,4 +10,4 @@ citation: 'C. Johnson, **D. Lewis**,  &amp; Y. Zhang. Arbitrariness of Jordan st
 ### Abstract
 It is known that a nonsingular, nonscalar, n-by-n complex matrix A may be factored as A = BC, in which the spectra of B and C are arbitrary, subject to det(A) = det(B)det(C). It has been shown that when two matrices have eigenvalues of high geometric multiplicity, this restricts the possible Jordan structure of the third. We demonstrate a previously unknown restriction on the Jordan structures of B and C. Furthermore, we show that this generalized geometric multiplicity restriction implies the already known geometric multiplicity restriction, show that the new more restrictive condition is not sufficient in general but is sufficient in a situation that we identify.
 
-[Read in journal](http://www.google.com/url?q=http%3A%2F%2Fwww.worldscientific.com%2Fdoi%2Fabs%2F10.1142%2FS1793557112500180&sa=D&sntz=1&usg=AOvVaw2WixYKyhBEy8-EyfEhQOJo) 
+[Read in journal](https://doi.org/10.1142/S1793557112500180)
