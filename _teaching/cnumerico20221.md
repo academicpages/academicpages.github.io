@@ -37,6 +37,9 @@ Provas
 * Terceira Prova: 24/11/2022
 * Prova Final: 28/11/2022
 
+Aulas
+======
+* [Aula 01 - Aritmética de Ponto Flutuante](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_aula01.pdf)
 
 Softwares para Download
 ======
