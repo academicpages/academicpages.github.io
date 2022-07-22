@@ -1,5 +1,5 @@
 ---
-title: "Arbitrariness of Jordan structure in factorization: the geometric multiplicity restriction and the $3\times 3$ case"
+title: "Arbitrariness of Jordan structure in factorization: the geometric multiplicity restriction and the 3&#215;3 case"
 collection: publications
 permalink: /publication/2012-01-01-Arbitrariness-of-Jordan-structure-in-factorization-the-geometric-multiplicity-restriction-and-the-3times-3-case
 date: 2012-01-01
