@@ -1,10 +1,10 @@
 ---
-title: "Impacts of Standards-Based Grading on Students Mindset and Test Anxiety"
+title: "Impacts of Standards-Based Grading on Students&apos; Mindset and Test Anxiety"
 collection: publications
 permalink: /publication/2022-01-01-Impacts-of-Standards-Based-Grading-on-Students-Mindset-and-Test-Anxiety
 date: 2022-01-01
 venue: 'Journal of Scholarship of Teaching and Learning'
-citation: '__D. Lewis__, Impacts of Standards-Based Grading on Students Mindset and Test Anxiety. _Journal of Scholarship of Teaching and Learning_ 22, no. 2 (2022), 67-77.'
+citation: '__D. Lewis__, Impacts of Standards-Based Grading on Students&apos; Mindset and Test Anxiety. _Journal of Scholarship of Teaching and Learning_ 22, no. 2 (2022), 67-77.'
 ---
 
 ### Abstract
