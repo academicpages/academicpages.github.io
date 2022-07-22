@@ -44,7 +44,7 @@ Publications
   
 Talks
 ======
-  <ul>{% assign sorted = site.talks | reverse %}{% for post in sorted %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
