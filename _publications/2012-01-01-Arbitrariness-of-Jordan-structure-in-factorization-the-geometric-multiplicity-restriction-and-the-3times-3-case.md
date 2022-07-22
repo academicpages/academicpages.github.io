@@ -1,9 +1,12 @@
 ---
-title: "Arbitrariness of Jordan structure in factorization: the geometric multiplicity restriction and the 3$times$ 3 case"
+title: "Arbitrariness of Jordan structure in factorization: the geometric multiplicity restriction and the $3\times 3$ case"
 collection: publications
 permalink: /publication/2012-01-01-Arbitrariness-of-Jordan-structure-in-factorization-the-geometric-multiplicity-restriction-and-the-3times-3-case
 date: 2012-01-01
 venue: 'Asian-European Journal of Mathematics'
-citation: ' Charles Johnson,  {\bf D} {\bf Lewis},  Yulin Zhang, &quot;Arbitrariness of Jordan structure in factorization: the geometric multiplicity restriction and the 3$times$ 3 case.&quot; Asian-European Journal of Mathematics, 2012.'
+citation: ' C. Johnson,  **D. Lewis**,  &amp; Y. Zhang. Arbitrariness of Jordan structure in factorization: the geometric multiplicity restriction and the $3\times 3$ case. *Asian-European Journal of Mathematics*, 5, no. 2 (2012), 1250018.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Arbitrariness+of+Jordan+structure+in+factorization:+the+geometric+multiplicity+restriction+and+the+3$times$+3+case){:target="_blank"} for full citation
+###Abstract
+It is known that a nonsingular, nonscalar, n-by-n complex matrix A may be factored as A = BC, in which the spectra of B and C are arbitrary, subject to det(A) = det(B)det(C). It has been shown that when two matrices have eigenvalues of high geometric multiplicity, this restricts the possible Jordan structure of the third. We demonstrate a previously unknown restriction on the Jordan structures of B and C. Furthermore, we show that this generalized geometric multiplicity restriction implies the already known geometric multiplicity restriction, show that the new more restrictive condition is not sufficient in general but is sufficient in a situation that we identify.
+#####
+[Journal](http://www.google.com/url?q=http%3A%2F%2Fwww.worldscientific.com%2Fdoi%2Fabs%2F10.1142%2FS1793557112500180&sa=D&sntz=1&usg=AOvVaw2WixYKyhBEy8-EyfEhQOJo) 
