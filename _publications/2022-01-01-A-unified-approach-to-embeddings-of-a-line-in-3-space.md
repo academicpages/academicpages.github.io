@@ -5,8 +5,12 @@ permalink: /publication/2022-01-01-A-unified-approach-to-embeddings-of-a-line-in
 excerpt: 'arXiv:2203.08178'
 date: 2022-01-01
 venue: 'Submitted'
-citation: ' {\bf D} {\bf Lewis}, &quot;A unified approach to embeddings of a line in 3-space.&quot; Submitted, 2022.'
+citation: '__D. Lewis__, A unified approach to embeddings of a line in 3-space. arXiv:2203.08178 (2022).'
 ---
-arXiv:2203.08178
 
-Use [Google Scholar](https://scholar.google.com/scholar?q=A+unified+approach+to+embeddings+of+a+line+in+3+space){:target="_blank"} for full citation
+###Abstract
+While the general question of whether every closed embedding of an affine line in affine $3$-space can be rectified remains open, there have been several partial results proved by several different means. We provide a new approach, namely constructing (strongly) residual coordinates, that allows us to give new proofs of all known partial results, and in particular generalize the results of Bhatwadekar-Roy and Kuroda on embeddings of the form $(t^n,t^m,t^l+t)$.
+
+
+[Read on arXiv](https://arxiv.org/abs/2203.08178)
+
