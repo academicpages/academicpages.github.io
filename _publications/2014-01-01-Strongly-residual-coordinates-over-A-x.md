@@ -1,5 +1,5 @@
 ---
-title: "Impacts of Standards-Based Grading on Students&apos; Mindset and Test Anxiety"
+title: "Strongly residual coordinates over $A[x]$"
 collection: publications
 permalink: /publication/2014-Strongly-residual-coordinates-over-A-x
 date: 2014-01-01
