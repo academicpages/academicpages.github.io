@@ -5,6 +5,7 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
+  - /about.html
 ---
 
 Welcome to our page! The London AI for Source Code group is an active research hub with researchers and academics interested in all applications of AI on source code. Our meetup interests include but are not limited to:
