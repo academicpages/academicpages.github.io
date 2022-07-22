@@ -4,6 +4,8 @@ collection: publications
 permalink: /publication/2021-01-01-Assuring-Students-Readiness-for-Cognitively-Demanding-Tasks
 date: 2021-01-01
 venue: 'Reflections'
-citation: ' Christopher Parrish,  {\bf D} {\bf Lewis},  Stephanie Moye, &quot;Assuring Students&amp;apos; Readiness for Cognitively Demanding Tasks.&quot; Reflections, 2021.'
+citation: 'C. Parrish,  __D. Lewis__, S. Moye, Assuring Students' Readiness for Cognitively Demanding Tasks. _Reflections_, 14, no.2 (2021), 1-12.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Assuring+Students&#x27;+Readiness+for+Cognitively+Demanding+Tasks){:target="_blank"} for full citation
+
+
+[Read in journal](https://www.gctm.org/reflections)

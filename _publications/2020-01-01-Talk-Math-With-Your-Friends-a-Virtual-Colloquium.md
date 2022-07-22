@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2020-01-01-Talk-Math-With-Your-Friends-a-Virtual-Colloquium
 date: 2020-01-01
 venue: 'MAA Focus'
-citation: ' Steven Clontz,  {T.J.} Hitchman,  Brian Katz,  {\bf D} {\bf Lewis},  Kate Owens, &quot;Talk Math With Your Friends, a Virtual Colloquium.&quot; MAA Focus, 2020.'
+citation: ' S. Clontz,  T.J. Hitchman,  B. Katz,  __D. Lewis__, &amp; Kate Owens, Talk Math With Your Friends, a Virtual Colloquium. _MAA Focus_, 40, no. 4 (2020), 10-11.'
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Talk+Math+With+Your+Friends,+a+Virtual+Colloquium){:target="_blank"} for full citation
+
+[Read in Journal](http://digitaleditions.walsworthprintgroup.com/publication/?m=7656&i=669168&p=10)
