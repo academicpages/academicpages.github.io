@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Data Analysis, Activism, Advocacy, and Applied Mathematics Network"
 collection: projects
 permalink: /projects/DAAAAMN
 date: 2022-06-01

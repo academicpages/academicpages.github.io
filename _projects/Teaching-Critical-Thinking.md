@@ -10,6 +10,8 @@ Critical thinking (CT) and logical reasoning (LR) skills are important for stude
 
 <!--end-excerpt-->
 
+I served on the advisory board for this NSF-funded project.
+
 [Project Website](https://sites.google.com/view/teaching-logical-reasoning/)
 
 

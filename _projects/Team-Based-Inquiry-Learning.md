@@ -10,6 +10,8 @@ Team-Based Inquiry Learning (TBIL) is an active learning pedagogy designed to br
 
 <!--end-excerpt-->
 
+I am the lead PI on this project.
+
 [Project Website](https://sites.google.com/southalabama.edu/tbil)
 
 ##### NSF Award Abstract
