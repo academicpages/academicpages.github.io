@@ -9,3 +9,5 @@ redirect_from:
 
 This is the about page.
 
+[CV](files/drewlewis_cv.pdf)
+
