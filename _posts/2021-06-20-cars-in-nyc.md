@@ -55,9 +55,9 @@ The plots and regression results above show that across neighborhoods with a sim
 
 When controlled for the rate of poverty and household size, *a 10% increase in public transit use in a neighborhood is associated with a 9% drop in car ownership*.
 
-Intrigued by the modest negative correlation of the poverty rate with car ownership in a neighborhood but the near lack of correlation between the median household income and car ownership rate, I decided to investigate it further. The scatter plot of median household income vs car ownership rate offers some clues: high-income neighborhoods, especially in Manhattan and Brooklyn, have a lower rate of car ownership than the linear regressor would predict. This appears to be because a large fraction of the people in those neighborhoods commute by transit or walk.
-
 ![Car ownership vs income](/images/cars_in_nyc/income-regression.png)
+
+Intrigued by the modest negative correlation of the poverty rate with car ownership in a neighborhood but the near lack of correlation between the median household income and car ownership rate, I decided to investigate it further. The scatter plot of median household income vs car ownership rate offers some clues: high-income neighborhoods, especially in Manhattan and Brooklyn, have a lower rate of car ownership than the linear regressor would predict. This appears to be because a large fraction of the people in those neighborhoods commute by transit or walk. The correlation between median household income and car ownership jumps up to 0.31 when all Manhattan neighborhoods are removed.
 
 Next, I estimate the average household income for car-owning households and non-car-owning households separately using ACS Public Use Microdata Sample files. [Public Use Microdata Sample](https://www.census.gov/programs-surveys/acs/microdata.html) can be used to estimate variables (e.g. household income) on statistical geographic areas called Public Use Microdata Areas (PUMAs) conditioned on other variables (e.g. car ownership). PUMAs are larger than zip codes and are made of Census tracts -- New York City is divided into 55 PUMAs. 
 
