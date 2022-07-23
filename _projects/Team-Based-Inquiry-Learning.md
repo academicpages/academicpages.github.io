@@ -8,6 +8,7 @@ date: 2020-10-01
 ##### Description
 Team-Based Inquiry Learning is an active learning pedagogy designed to bring inquiry into lower division mathematics courses via Team-Based Learning. 
 
+
 [Project Website](https://sites.google.com/southalabama.edu/tbil)
 
 ##### NSF Award Abstract
