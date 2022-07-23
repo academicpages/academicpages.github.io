@@ -6,8 +6,7 @@ date: 2020-10-01
 excerpt_separator: <!--end-excerpt-->
 ---
 
-##### Description
-Team-Based Inquiry Learning is an active learning pedagogy designed to bring inquiry into lower division mathematics courses via Team-Based Learning. 
+Team-Based Inquiry Learning (TBIL) is an active learning pedagogy designed to bring inquiry into lower division mathematics courses via Team-Based Learning. This NSF-funded project seeks to train other mathematicians in the TBIL pedgagogy and study their implementation at various institutions.
 
 <!--end-excerpt-->
 
