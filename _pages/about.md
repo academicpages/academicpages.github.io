@@ -12,6 +12,4 @@ I am Luis Palomino, I am a Peruvian economist from the [Universidad Nacional May
 
 My research interests are: Regional development, Economic geography, Urban economics, Economic history, Human capital, Experimental economics, Mechanisms design.
 
-Currently, I am working as Economics Consultant at [Research Department-Inter American Development Bank](https://www.iadb.org/es/investigacion-y-datos/acerca-de){:target="_blank"} and Teaching Assistant at [Department of Economics-Universidad del Pacífico](https://www.up.edu.pe/carreras-postgrado-idiomas/departamentos-academicos/economia){:target="_blank"}.
-
 You can contact me at <a href="mailto:luis.palomino@uconn.edu?">luis.palomino@uconn.edu</a>
