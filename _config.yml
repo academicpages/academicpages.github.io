@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sandeep N Menon"
   avatar           : "myphoto.jpg"
-  bio              : "Deep Learning Research at Deepen AI  | ex-Microsoft"
+  bio              : "MS CS at NYU Courant | Deep Learning Research at Deepen AI  | ex-Microsoft"
   location         : "Hyderabad, India"
   employer         : 
   pubmed           : 
@@ -91,6 +91,7 @@ author:
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://oneortworesearchdigest.blogspot.com/"
   cv_link          : https://sandeepnmenon.github.io/files/Sandeep_Menon_CV.pdf
+  resume_link      : https://sandeepnmenon.github.io/files/Sandeep_Menon_Deedy_CV.pdf
   bitbucket        :
   codepen          :
   dribbble         :

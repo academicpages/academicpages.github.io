@@ -31,6 +31,9 @@
       {% if author.cv_link %}
         <li><a href="{{ author.cv_link }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].cv_label | default: "Curriculum Vitae" }}</a></li>
       {% endif %}
+      {% if author.resume_link %}
+        <li><a href="{{ author.resume_link }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].resume_label | default: "Resume" }}</a></li>
+      {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-newspaper" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Blog" }}</a></li>
       {% endif %}
