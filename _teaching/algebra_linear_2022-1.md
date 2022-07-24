@@ -40,6 +40,7 @@ Datas das Provas
 Listas de Exercícios 
 ======
 * Exercícios da seção 1.2 do livro texto.
+* Exercícios da seção 1.3 do livro texto.
 
 Notas de Aula
 =======
