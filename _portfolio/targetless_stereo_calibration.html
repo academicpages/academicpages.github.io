@@ -1,0 +1,30 @@
+---
+title: "Targetless Stereo Camera Calibration"
+excerpt: "Stereo camera calibration using natural scenes and hence avoiding the use of calibration targets like chessboard, charuco board etc <br/><img src='/images/stereo-calibration.png'>"
+collection: portfolio
+---
+
+<p>
+    In any system with multiple sensors, unless the sensors are calibrated, the output from the sensors cannot be combined or fused to produce more meaningful data. Cameras are no exception.
+    For example, the portrait mode photography in our smartphone cameras using multiple cameras. Just like our eyes look at the same object from two different angles (two of our eyes), two cameras rigidly mounted can look at an object and estimate
+    how far away the object is from the camera. This is called stereo vision. This application of estimating the depth is only possible if the two cameras are calibrated.
+</p>
+
+<p>
+    Stereo calibration gives you the extrinsics, i.e. transformation matrices between cameras. Once you get the extrinsic, you can geometrically calculate the 3D coordinates of the points in the scene.
+    To get the extrinsics, we need to find the image coordinates of the same object in the two camera images. This is called stereo matching. These matched coordinates are then used to calculate the extrinsics using <a href="https://en.wikipedia.org/wiki/Epipolar_geometry">epipolar geometry</a>.
+    This is an excellent <a href="https://www.youtube.com/watch?v=cLeF-KNHgwU">video</a> by Prof. Cyrill Stachniss.
+</p>
+
+<p>
+    Stereo matching can be done using targets like chessboards, charuco boards etc. Since the dimensions and properties of the targets are known, this information can be used to calibrate the cameras. 
+    <img src="https://i.ytimg.com/vi/z9g0CsEjGA8/maxresdefault.jpg">  However, based on the camera installation and the scene, using a target is cumbersome and sometimes even dangerous.
+    Instead, if we can use natural scenes like a city road, parking garage or even the insides of an ordinary room, it'd be highly useful. We can extract feature points from these natural scenes and match the similar to get the stereo matching across different cameras. Once the matching is computed, the extrinsics can be calculated using epipolar geometry, much like the target based calibration.
+</p>
+
+<p>
+    The challenge is extracting and matching the feature points accurately from natural scenes. Since target-based methods have pre-determined properties, algorithms can be fine-tuned and optimized to achieve the matching. However targetless methods have to deal with a wide range of natural scenes and hence the algorithms have to be robust enough.
+    The OpenCV library has a few feature <a href="https://docs.opencv.org/3.4/db/d27/tutorial_py_table_of_contents_feature2d.html">extractors</a> and <a href="https://docs.opencv.org/4.x/dc/dc3/tutorial_py_matcher.html">matchers</a> that are widely used. 
+    <img src='/images/stereo-calibration.png'>
+    With the advent of neural network models, there are now neural network models that do the same feature extraction and matching. These new neural models perform far better if trained of good datasets.
+</p>
