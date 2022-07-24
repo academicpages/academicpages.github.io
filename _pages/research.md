@@ -4,7 +4,7 @@ title: ""
 ---
 # Working Papers
 
-* “Optimal Network-Based Targeting for Technology Adoption in Developing Countries” (Job Market Paper) [Paper PDF](/files/pdf/Optimal Network Based Targeting for Technology Adoption in Developing Countries.pdf), [Long Slides](/files/pdf/jmp_slides_l.pdf), [Short Slides](/files/pdf/jmp_slides_s.pdf)
+* “Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption” (Job Market Paper) [Paper PDF](/files/pdf/Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption.pdf), [Long Slides](/files/pdf/jmp_slides_l.pdf), [Short Slides](/files/pdf/jmp_slides_s.pdf)
 * “The Role of Experience in Learning for Index Insurance Products: Evidence from Rural Kenya” [Paper PDF](/files/pdf/The Role of Experience in Learning for Index Insurance.pdf)
 
 # Work in Progress
