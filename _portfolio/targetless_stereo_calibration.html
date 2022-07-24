@@ -28,3 +28,14 @@ collection: portfolio
     <img src='/images/stereo-calibration.png'>
     With the advent of neural network models, there are now neural network models that do the same feature extraction and matching. These new neural models perform far better if trained of good datasets.
 </p>
+
+<p>
+    The extrinsics of a setup can be split into two parts: a rotation matrix and a translation vector.
+    An issue with the targetless approach is that since there is no mapping from the real-world dimension to image space (unlike target, where dimensions are known in real-world space), the distance between the two cameras (translation vector) cannot be scaled.
+    To solve this we can manually measure the distance between the cameras and use that value to scale the translation vector. But this comes with its own problems such as measurement errors as the translation vector is the vector between the camera focus points. Since they are imaginary points, a simple scale measure between the physical camera sensors will have an error.
+    However, if the error threshold of the your application is not in the millimeters, then the translation vector can be scaled this way.
+</p>
+<p>
+    Nevertheless, I am still exploring what can be done to solve this scaling issue. A naive approach is to have a pre-determined set of anchor-points that would be extraced by the targetless feature extractors. Then the distance between the anchor points in the real world can be used to scale the baseline distance between the cameras.
+    However, this does not make the flow fully targetless.
+</p>

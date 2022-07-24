@@ -1,5 +1,5 @@
 ---
-title: "Point cloud semantic segmentation for improving annotation efficiency"
+title: "Point cloud segmentation for improving annotation efficiency"
 excerpt: "Point cloud semantic segmentation neural network models for improving annotation efficiency
 <br/><img src='/images/semantic segmentation.jpg'>"
 collection: portfolio
