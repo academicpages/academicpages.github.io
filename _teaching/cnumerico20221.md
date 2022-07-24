@@ -39,7 +39,7 @@ Provas
 
 Listas de Exercícios
 ========
-1. [Lista](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_lista_01.md)
+
 
 Aulas
 ======
