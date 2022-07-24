@@ -11,3 +11,4 @@ redirect_from:
 
 
 <embed src="{{ site.baseurl }}/files/Sandeep_Menon_CV.pdf" width="600" height="700" type='application/pdf'>
+<!-- <embed src="{{ site.baseurl }}/files/Sandeep_Menon_Deedy_CV.pdf" width="600" height="700" type='application/pdf'> -->
