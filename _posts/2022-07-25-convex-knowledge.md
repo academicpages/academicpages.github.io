@@ -40,15 +40,15 @@ The basic plan is as follows:
 
    with $K_1,K_2\in\mathbb{K}$.
 
-   Now suppose we have given $K\in\mathbb{K}$ and some utility function $f\colon D\times C\to\mathbb{R}^+ \cup \\\{0\\\}$. So the learner outputs some $c\in C$, and depending on the ground truth $d\in D$, it gets some utility $f(c,d)$. A special case is computing single- or multi-valued functions (the utility is $1$ if the chosen $c$ was acceptable for $d$, $0$ otherwise). The vector $\overrightarrow{f(c,\cdot)}$ represents the utilities the learner would obtain if it always chooses $c$; we can consider it as a member of $\mathbb{K}$ as above. Then the claim that the learner can obtain a combination of expected utilities $\vec{q}\in(\mathbb{R}^+\cup\\\{0\\\})^D$ for the various ground truths corresponds to the existence of $K_c$ for $c\in C$ such that
+   Now suppose we have given $K\in\mathbb{K}$ and some utility function $f\colon D\times R\to\mathbb{R}^+ \cup \\\{0\\\}$. So the learner outputs some $r\in R$, and depending on the ground truth $d\in D$, it gets some utility $f(r,d)$. A special case is computing single- or multi-valued functions (the utility is $1$ if the chosen $r$ was acceptable for $d$, $0$ otherwise). The vector $\overrightarrow{f(r,\cdot)}$ represents the utilities the learner would obtain if it always chose $r$; we can consider it as a member of $\mathbb{K}$ as above. Then the claim that the learner can obtain a combination of expected utilities $\vec{q}\in(\mathbb{R}^+\cup\\\{0\\\})^D$ for the various ground truths corresponds to the existence of $K_r$ for $r\in R$ such that
 
-   $\vec{q}\leq \sum_{c\in C} K_c \overrightarrow{f(c,\cdot)}, \sum_{c\in C} K_c\leq K$.
+   $\vec{q}\leq \sum_{r\in R} K_r \overrightarrow{f(r,\cdot)}, \sum_{r\in R} K_r\leq K$.
 
    In particular, function evaluation that should succeed with probability at least $1-\epsilon$ for all $d\in D$ corresponds to $\vec{q}=(1-\epsilon)\mathbf{1}$.
 
    We can chain multiple steps of choosing experiments, starting from complete ignorance, and obtain a convex optimization problem. In terms of symbols, this looks completely analogous to the semidefinite program in Barnum-Saks-Szegedy, equations 9-13 [here](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.1101&rep=rep1&type=pdf).
 
-8. Our $+$ and $0$ yield a commutative monoid, i.e. we can add and have a neutral element, but can't yet subtract. A [_Grothendieck group construction_](https://en.wikipedia.org/w/index.php?title=Grothendieck_group&oldid=1091622036)[^26] allows us to turn this monoid into a commutative group. We obtain an $\mathbb{R}$-algebra, which is also a vector space. Our original set of "physical" states of knowledge is still a convex subset of that vector space. So if we find or truncate to a finite basis, we can hopefully do convex optimization and duality over it.
+8. Our $+$ and $0$ yield a commutative monoid, i.e. we can add and have a neutral element, but can't yet subtract. A [_Grothendieck group construction_](https://en.wikipedia.org/w/index.php?title=Grothendieck_group&oldid=1091622036)[^26] allows us to turn this monoid into a commutative group. We obtain an $\mathbb{R}$-algebra, which is also a vector space.[^27] Our original set of "physical" states of knowledge is still a convex subset of that vector space. So if we find or truncate to a finite basis, we can hopefully do convex optimization and duality over it.
 9. Together, addition and multiplication allows us to define formal power series of knowledge. For example, suppose our learner observes the stars with a telescope without making any choices. In an infinitesimal time $\Delta t\to 0$, it observes a supernova with probability $r \Delta t$, generating experimental data $A\in \mathbb{K}$. Otherwise, it observes nothing. If $K(t)$ is the state of knowledge over time, we obtain
 
    $K(t+\Delta t)\to ((1-r \Delta t)\mathbf{1}+r\Delta t A) K(t).$
@@ -73,33 +73,26 @@ TODO: I am sure there are more standard terminologies to describe the appropriat
 
 Consider a (for now, classical) environment described by a state $d\in D.$ An agent (call it "learner", as it doesn't influence the environment) has previously performed some sorts of "experiments" on the environment and stored the (probabilistic) results as a state of its internal memory $x\in X$. The learner knows the basic "rules of physics" yielding a (rectangular) matrix of conditional probabilities $C=(p(x\mid d))\_{x\in X,d\in D}\in\mathbb{R}^{X\times D}$, but doesn't a priori know $d$. We do _not_ require that the conditional probabilities sum to $1$, but do require that they're nonnegative. I'll call such a matrix _conditional probability matrix_ (CPM).
 
-$C$ is sufficient to describe the "knowledge" the learner gathers about the environment for any $d\in D$. For example, if the learner's ultimate goal is to calculate some function $f\colon D\to C$, it does (and has to do) so by applying some probabilistic process $X\to C$, with some other transition matrix $R=(p(c\mid x))\_{c\in C,x\in X}$. Then the appropriate matrix entries of $RC$ contain the probabilities $\sum\_{d\in D} p(c=f(d)\mid d)p(d)$ denotes the "success probability" of that procedure for a given $d\in D$.
+$C$ is sufficient to describe the "knowledge" the learner gathers about the environment for any $d\in D$. For example, if the learner's ultimate goal is to calculate some function $f\colon D\to R$, it does (and has to do) so by applying some probabilistic process $X\to R$, with some transition matrix $R=(p(r\mid x))\_{r\in R,x\in X}$. Then the appropriate matrix entries of $RC$ contain the probabilities $p(r=f(d)\mid d)$, the success probabilities of that procedure for given $d\in D$.
 
 ### Preorder on transition matrices by transformability
-On the set of CPMs, $\leq$ as discussed in the sketch is a _preorder_ - it fulfills
-- transitivity: $M_1\leq M_2$ and $M_2\leq M_3$ implies $M_1\leq M_3$, and
-- reflexivity: $M_1\leq M_1$.
+On the set of CPMs, $\leq$ as discussed in the sketch is a _preorder_ - for any $C,C_1,C_2,C_3$, it fulfills
+- transitivity: $C_1\leq C_2$ and $C_2\leq C_3$ implies $C_1\leq C_3$, and
+- reflexivity: $C\leq C$.
 
 ### $\leq$ isn't a partial order yet
-But $\leq$ is _not_ a partial order, as it does not fulfill symmetry: $M_1\leq M_2$ and $M_2\leq M_1$ does not necessarily imply $M_1= M_2$. Two counterexamples:
-  - Permuting the rows of a conditional probability matrix $M$, corresponding to changing the labeling of $x\in X$,
+But $\leq$ is _not_ a partial order, as it does not fulfill symmetry: $C_1\leq C_2$ and $C_2\leq C_1$ does not necessarily imply $C_1=C_2$. Two counterexamples:
+   - Permuting the rows of a conditional probability matrix $M$, corresponding to changing the labeling of $x\in X$,
    - Reversing the operation of replacing some $x\in X$ with one of two additional states $x_1$, $x_2$ with probability $1/2$ each.
 
-Intuitively, this means that, to describe the "state of knowledge" of the learner, $M$ contains superfluous information. We will check that the condition $M_1\leq M_2\wedge M_2\leq M_1$ is necessary and sufficient for the "states of knowledge" associated with two CPMs to be the same by the following argument:
+Intuitively, this means that, to describe the "state of knowledge" of the learner, the CPMs contain superfluous information. We **define our set of _states of knowledge (SOKs)_** $\mathbb{K}$ as a mathematical object by modding out this condition as an equivalence relation $\sim$, where $C_1\sim C_2$ iff $C_1\leq C_2 \wedge C_2\leq C_1$, and define $\mathbb{K}:=T/\sim$, i.e. the set of equivalence classes under this equivalence relation. We will now argue that $K_1= K_2\in \mathbb{R}$ iff these "states of knowledge" should philosophically be considered equivalent:
 
-
-
-Philosophically, given any $Mexperimental data to be had with $M_1$ can also be had with $M_2$, then $M_1\leq M_2$. If the sets of obtainable results are
-
-So we **define our _state of knowledge_** as a mathematical object by modding out this condition as an equivalence relation $\sim$, where $M_1\sim M_2$ iff $M_1\leq M_2 \wedge M_2\leq M_1$, and define $K:=T/\sim$, i.e. $K$ as the set of equivalence classes under this equivalence relation.
+It is clear that  $K_1=K_2$ implies they should be considered equivalent. Conversely, suppose that two CPMs $C_1,C_2$ should be considered equivalent. This means that, given $C_2$, the learner can solve all tasks it could solve when given $C_1$ and vice versa. In particular, it can emit a probability distribution corresponding to $C_1$. But this means that $C_1\leq C_2$. Similarly, $C_2\leq C_1$ as well, so $C_1$ and $C_2$ are in the same equivalence class.
 
 By standard math, for $K_1, K_2\in \mathbb{K}$, $K_1\leq K_2$ is independent of the choice of representative, and $\leq$ is a partial order on $\mathbb{K}$.
 
-I claim that this "states of knowledge" definition is better-suited, in particular
-### Adding and multiplying states of knowledge
-We define addition and scalar multiplication operations on states of knowledge. We can easily verify they behave well with the equivalence relation.
-- We define a representative of $K_1+K_2$ by taking a direct sum of the columns of representatives of $K_1$ and $K_2$.
-- For $p\in \mathbb{R}^+\cup\\\{0\\\}$, we define a representative of $p K_1$ by multiplying the matrix entries by $p$.
+### Convexity of states of knowledge
+We define addition and scalar multiplication operations on states of knowledge as in step 4 of the sketch. We can easily verify they behave well with the equivalence relation.
 
 A convex combination $p K_1+(1-p)K_2$ now corresponds to a SOK in which, before performing the experiments leading up to some state of knowledge, the learner had randomly decided to perform a procedure leading to $K_1$ with probability $p$, and a procedure leading to $K_2$ with probability $1-p$ (and stored the choice it made). So our definition of addition brings us one step closer to being able to use convex optimization to optimize over states of knowledge:
 - When $K_1$ and $K_2$ are feasible in some scheme, their convex combinations are feasible as well,
@@ -128,3 +121,4 @@ Any $\mathbb{R}$-algebra is an $\mathbb{R}$-vector space, but the dimension of t
 [^6]: In the quantum case, this would correspond to Hadamard products of Gram matrices and tensor products of state collections.
 [^17]: Apparently, [this Oberwolfach seminar](https://homepages.cwi.nl/~monique/ow-seminar-sdp/) contains a lecture on infinite-dimensional semidefinite optimization.
 [^26]: I looked into Wikipedia to read that this has his name from a specific case "which resulted in the development of [K-theory](https://en.wikipedia.org/w/index.php?title=K-theory&oldid=1072713370)". What's written there looks formally quite similar to what I do here, though I don't understand it in detail. So maybe one can call these thoughts "K-theory on the space of probabilistic transformations?"
+[^27]: To fulfill the vector space axiom that $\alpha X + \beta X=(\alpha+\beta)X$, we needed the modding out operation that took us from CPMs to SOKs.
