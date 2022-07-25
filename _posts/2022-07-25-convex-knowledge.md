@@ -114,7 +114,7 @@ We can also define multiplication on $\mathbb{K}\_\pm$. Keeping in mind that $(K
 Any $\mathbb{R}$-algebra is an $\mathbb{R}$-vector space, but the dimension of the space will probably be infinite in general. Textbook convex optimization is done in Euclidean space (i.e. $\mathbb{R}^n$ with $n$ finite);[^17] we can truncate our space to a finite basis, and for a given finite set of possible experiments taking values in a finite set, we should be able to find a basis that covers any given finite number of observations. But I don't fully understand whether/to what extent the nice ideas of duality and similar would still work in our situation.
 
 ## Footnotes
-[^2]: Point 10.2 of the basic plan hints at mixed quantum states, but I don't want to swear that this works because I didn't check the details so far.
+[^2]: Point 10.2 of the sketch hints at mixed quantum states, but I don't want to swear that this works because I didn't check the details so far.
 [^3]: Allowing transition probabilities that sum to less than 1 - i.e. allowing to lose probability mass - won't change the equivalence relation/classes, but is helpful for describing the output condition of a query algorithm later.
 [^4]: We could have exchanged the order of steps $2$ and $3$.
 [^5]: I.e. the vectors which are $1$ on $d$ resp. $d'\in D'$, and $0$ everywhere else.
