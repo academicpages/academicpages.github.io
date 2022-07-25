@@ -38,14 +38,14 @@ News
 Journal paper
 ------
 1. **Canqi Yao**, Shibo Chen, and Zaiyue Yang. "Online Distributed Routing Problem of Electric Vehicles." IEEE Transactions on Intelligent Transportation Systems, 2022.[[link]](https://ieeexplore.ieee.org/document/9713755)
-2. **Canqi Yao**, Shibo Chen, and Zaiyue Yang. "Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm." IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 7, pp. 8184-8193, July 2022, doi: 10.1109/TITS.2021.3076601. [[link]](https://ieeexplore.ieee.org/document/9430759)
+2. **Canqi Yao**, Shibo Chen, and Zaiyue Yang. "Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm." IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 7, pp. 8184-8193, July 2022. [[link]](https://ieeexplore.ieee.org/document/9430759)
 
 
 
 Conference paper
 ------
 1. **Canqi Yao**, Shibo Chen, Mauro Salazar, and Zaiyue Yang.“Incentive-aware Electric Vehicle Routing Problem: a Bi-level Model and a Joint Solution Algorithm” The 2022 American Control Conference (ACC) [[link]](https://arxiv.org/abs/2110.06441)[[slides]](https://drive.google.com/file/d/1Zbs_XFauiDLkBt2a0Hcx1b3zB8M22Tvj/view?usp=sharing)[[video]](https://youtu.be/WDccOxZAuag).
-2. **Canqi Yao**, Shibo Chen, and Zaiyue Yang."Evacuation Problem Under the Nuclear Leakage Accident." 2021 40th Chinese Control Conference (CCC), 2021, pp. 1703-1708, doi: 10.23919/CCC52363.2021.9549934.[[link]](https://ieeexplore.ieee.org/document/9549934)[[poster]](https://drive.google.com/file/d/1wSui_pT8jHNKOOIKA6uj6N5EAo1MJcAJ/view?usp=sharing)
+2. **Canqi Yao**, Shibo Chen, and Zaiyue Yang."Evacuation Problem Under the Nuclear Leakage Accident." 2021 40th Chinese Control Conference (CCC), 2021, pp. 1703-1708.[[link]](https://ieeexplore.ieee.org/document/9549934)[[poster]](https://drive.google.com/file/d/1wSui_pT8jHNKOOIKA6uj6N5EAo1MJcAJ/view?usp=sharing)
 
 
 
