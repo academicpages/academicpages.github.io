@@ -38,7 +38,7 @@ The basic plan is as follows:
 
    Now suppose we have given $K\in\mathbb{K}$ and some utility function $f\colon D\times C\to\mathbb{R}^+ \cup \{0\}$. So the learner outputs some $c\in C$, and depending on the ground truth $d\in D$, it gets some utility $f(c,d)$. A special case is computing single- or multi-valued functions (the utility is $1$ if the chosen $c$ was acceptable for $d$, $0$ otherwise). $\overrightarrow{f(c,\cdot)}\in\mathbb{K}$ represents the utilities the learner would obtain if it always chooses $c$. Then the claim that the learner can obtain expected utilities $\vec{q}\in(\mathbb{R}^+\cup\{0\})^D$ corresponds to the existence of $K_c$ for $c\in C$ such that
 
-   $vec{q}\leq \sum_{c\in C} K_c \overrightarrow{f(c,\cdot)}, \sum_{c\in C} K_c\leq K$.
+   $\vec{q}\leq \sum_{c\in C} K_c \overrightarrow{f(c,\cdot)}, \sum_{c\in C} K_c\leq K$.
 
    In particular, function evaluation that should succeed with probability at least $1-\epsilon$ for all $d\in D$ corresponds to $\vec{q}=(1-\epsilon)\mathbf{1}$.
 
