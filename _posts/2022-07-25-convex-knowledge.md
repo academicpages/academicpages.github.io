@@ -83,7 +83,7 @@ On the set of CPMs, $\leq$ as discussed in the sketch is a _preorder_ - for any 
 ### $\leq$ isn't a partial order yet
 But $\leq$ is _not_ a partial order, as it does not fulfill symmetry: $C_1\leq C_2$ and $C_2\leq C_1$ does not necessarily imply $C_1=C_2$. Two counterexamples:
    - Permuting the rows of a conditional probability matrix $M$, corresponding to changing the labeling of $x\in X$,
-   - Reversing the operation of replacing some $x\in X$ with one of two additional states $x_1$, $x_2$ with probability $1/2$ each.
+   - Replacing some $x\in X$ with one of two additional states $x_1$, $x_2$ with probability $1/2$ each.
 
 Intuitively, this means that, to describe the "state of knowledge" of the learner, the CPMs contain superfluous information. We **define our set of _states of knowledge (SOKs)_** $\mathbb{K}$ as a mathematical object by modding out this condition as an equivalence relation $\sim$, where $C_1\sim C_2$ iff $C_1\leq C_2 \wedge C_2\leq C_1$, and define $\mathbb{K}:=T/\sim$, i.e. the set of equivalence classes under this equivalence relation. We will now argue that $K_1= K_2\in \mathbb{R}$ iff these "states of knowledge" should philosophically be considered equivalent:
 
