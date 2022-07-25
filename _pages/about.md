@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Applied Mathematics Ph.D. student in the School of Engineering and Applied Sciences (SEAS) at [Harvard University](https://www.seas.harvard.edu).
+I am a second year Applied Mathematics Ph.D. student in the School of Engineering and Applied Sciences (SEAS) at [Harvard University](https://www.seas.harvard.edu) working with Prof. [Flavio Calmon](http://people.seas.harvard.edu/~flavio/#contact).  
 
 ### Recent announcements
 <span style="color: FireBrick"> 
