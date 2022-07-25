@@ -85,7 +85,7 @@ But $\leq$ is _not_ a partial order, as it does not fulfill symmetry: $M_1\leq M
 
 Intuitively, this means that, to describe the "state of knowledge" of the learner, $M$ contains superfluous information. We can confirm that the condition $M_1\leq M_2\wedge M_2\leq M_1$ is necessary and sufficient for the "states of knowledge" associated with two CPMs to be the same.
 
-So we **define our _state of knowledge_** as a mathematical object by modding out this condition as an equivalence relation: We let $M_1\sim M_2:\Harr M_1\leq M_2 \wedge M_2\leq M_1$, and define $K:=T/\~$, i.e. $K$ as the set of equivalence classes under this equivalence relation.
+So we **define our _state of knowledge_** as a mathematical object by modding out this condition as an equivalence relation $\sim$, where $M_1\sim M_2$ iff $M_1\leq M_2 \wedge M_2\leq M_1$, and define $K:=T/\~$, i.e. $K$ as the set of equivalence classes under this equivalence relation.
 
 By standard math, for $K_1, K_2\in \mathbb{K}$, $K_1\leq K_2$ is independent of the choice of representative, and $\leq$ is a partial order on $\mathbb{K}$.
 
@@ -115,7 +115,7 @@ $(\mathbb{K},+)$ forms a commutative _monoid_: There is a neutral element $0\in 
 
 For our monoid $(\mathbb{K},+)$, we call elements of the resulting set $\mathbb{K}_\pm$ _quasistates of knowledge_. The point of our exercise is that these form a real vector space, if we define scalar multiplication in the natural way ($\alpha (K_1,K_2):=(\alpha K_1, \alpha K_2)$ for $\alpha\geq 0$, and $\alpha K:=(-\alpha) (-K)$ for $\alpha<0$).
 
-We can also define multiplication on $\mathbb{K}_\pm$. Keeping in mind that $(K_1,K_2)$ is to be interpreted as $K_1-K_2$, our definition is $(K_1,K_2)(K_3,K_4):=(K_1K_3+K_2K_4,K_2K_3+K_1K_4)$. We arrive at a commutative $\mathbb{R}$-algebra $\mathbb{K}_\pm$, with the "physical" SOKs $\mathbb{K}\subset\mathbb{K}_\pm$ a convex subset of $\mathbb{K}_\pm$.
+We can also define multiplication on $\mathbb{K}\_\pm$. Keeping in mind that $(K_1,K_2)$ is to be interpreted as $K_1-K_2$, our definition is $(K_1,K_2)(K_3,K_4):=(K_1K_3+K_2K_4,K_2K_3+K_1K_4)$. We arrive at a commutative $\mathbb{R}$-algebra $\mathbb{K}\_\pm$, with the "physical" SOKs $\mathbb{K}\subset\mathbb{K}\_\pm$ a convex subset of $\mathbb{K}\_\pm$.
 
 Any $\mathbb{R}$-algebra is an $\mathbb{R}$-vector space, but the dimension of the space will probably be infinite in general. Textbook convex optimization is done in Euclidean space (i.e. $\mathbb{R}^n$ with $n$ finite);[^17] we can truncate our space to a finite basis, for a given finite set of possible experiments taking values in a finite set, we should be able to find a basis that covers any given finite number of observations. I don't understand whether/how the nice ideas of duality and similar would still work in our situation.
 
