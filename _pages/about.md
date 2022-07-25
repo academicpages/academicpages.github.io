@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Jiwon ("g-1") Kim is a Ph.D. student at Emory University's Political Science Department. She leads the [Interstate Shaming Events (ISE) data project](https://j1wonkim.github.io/portfolio/ise/) and works with [the Oppression-Resistance Lab](https://oppression-resistance-lab.squarespace.com/) at Emory.
+Jiwon ("g-1") Kim is a Ph.D. student at Emory University's Political Science Department. She leads the [International Shaming Events (ISE) data project](https://j1wonkim.github.io/portfolio/ise/) and works with [the Oppression-Resistance Lab](https://oppression-resistance-lab.squarespace.com/) at Emory.
 
 Jiwon studies the role of human rights and environmental norms at different levels of international politics. Her dissertation addresses human rights rhetoric as diplomatic strategy, and develops novel measurement of state shaming intensity. Her works use natural language processing (NLP), network analysis, and survey experiment. 
  
