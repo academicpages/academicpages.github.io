@@ -3,7 +3,7 @@ title: "Support-Free Volume Printing by Multi-Axis Motion"
 collection: publications
 permalink: /publication/2018-Support-Free-Volume-Printing-by-Multi-Axis-Motion
 excerpt: ''
-date: 201
+date: 2018-07-30
 venue: 'ACM Transactions on Graphics'
 tags:
   - Journal Publications

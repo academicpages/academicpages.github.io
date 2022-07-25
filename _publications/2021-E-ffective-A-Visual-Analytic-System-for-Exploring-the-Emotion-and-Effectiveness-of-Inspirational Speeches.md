@@ -3,7 +3,7 @@ title: "E-ffective: A Visual Analytic System for Exploring the Emotion and Effec
 collection: publications
 permalink: /publication/2021-E-ffective-A-Visual-Analytic-System-for-Exploring-the-Emotion-and-Effectiveness-of-Inspirational Speeches
 excerpt: ''
-date: 2021-30-09
+date: 2021-09-30
 venue: ' IEEE Transactions on Visualization and Computer Graphics'
 tags:
   - Journal Publications

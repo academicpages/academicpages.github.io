@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2016-Manifold-Differential-Evolution-(MDE)-A-Global-Optimization-Method-for-Geodesic-Centroidal-Voronoi-Tessellations-on-Meshes
 excerpt: ''
 date: 2016-12-05
-venue: ''
+venue: 'ACM Transactions on Graphics'
 tags:
   - Journal Publications
 citation: 'Yong-Jin Liu, Chun-Xu Xu, Ran Yi, Dian Fan, Ying He (2016) Manifold Differential Evolution (MDE): A Global Optimization Method for Geodesic Centroidal Voronoi Tessellations on Meshes. ACM Transactions on Graphics (SIGGRAPH ASIA 2016), Vol. 35, No. 6, Article No. 243, 2016.'
