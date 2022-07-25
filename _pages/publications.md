@@ -100,4 +100,4 @@ redirect_from:
 </table>
 
 ---
-*I gratefully acknowledge that the research highlighted in these publications has taken place on the territories of the Inuit Nunangat. I currently work and live on the traditional, ancestral, and unceded territories of the xʷməθkʷəy̓əm (Musqueam), Skwxwú7mesh (Squamish), and səl̓ilwətaɁɬ təməxʷ (Tsleil-Waututh) Nations.*
+*I gratefully acknowledge that the research highlighted in these publications has taken place on the territories of the Inuit Nunangat.*
