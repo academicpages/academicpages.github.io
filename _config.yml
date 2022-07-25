@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-theme                    : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes"
+theme                    : "jekyll-theme-cayman"
+remote_theme             : "pages-themes/cayman@v0.2.0"
 locale                   : "en-US"
 title                    : "Aakash Nain"
 title_separator          : "-"
@@ -267,6 +267,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-remote-theme
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
