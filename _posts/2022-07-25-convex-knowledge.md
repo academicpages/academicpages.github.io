@@ -34,13 +34,13 @@ The basic plan is as follows:
 
    $K_1+K_2\leq K$.
 
-   Now suppose the experiments generate additional data that individually corresponds to SOKs $E_1,E_2\in \mathbb{K}$. Then the feasible states of knowledge after the next experiments are given by 
+   Now suppose the experiments generate additional data that individually corresponds to SOKs $E_1,E_2\in \mathbb{K}$. Then the feasible states of knowledge after one more experiment are given by
 
    $\\\{E_1 K_1 + E_2 K_2 \mid K_1 + K_2 \leq K\\\}$
 
    with $K_1,K_2\in\mathbb{K}$.
 
-   Now suppose we have given $K\in\mathbb{K}$ and some utility function $f\colon D\times C\to\mathbb{R}^+ \cup \\\{0\\\}$. So the learner outputs some $c\in C$, and depending on the ground truth $d\in D$, it gets some utility $f(c,d)$. A special case is computing single- or multi-valued functions (the utility is $1$ if the chosen $c$ was acceptable for $d$, $0$ otherwise). $\overrightarrow{f(c,\cdot)}\in\mathbb{K}$ represents the utilities the learner would obtain if it always chooses $c$. Then the claim that the learner can obtain expected utilities $\vec{q}\in(\mathbb{R}^+\cup\\\{0\\\})^D$ corresponds to the existence of $K_c$ for $c\in C$ such that
+   Now suppose we have given $K\in\mathbb{K}$ and some utility function $f\colon D\times C\to\mathbb{R}^+ \cup \\\{0\\\}$. So the learner outputs some $c\in C$, and depending on the ground truth $d\in D$, it gets some utility $f(c,d)$. A special case is computing single- or multi-valued functions (the utility is $1$ if the chosen $c$ was acceptable for $d$, $0$ otherwise). The vector $\overrightarrow{f(c,\cdot)}$ represents the utilities the learner would obtain if it always chooses $c$; we can consider it as a member of $\mathbb{K}$ as above. Then the claim that the learner can obtain a combination of expected utilities $\vec{q}\in(\mathbb{R}^+\cup\\\{0\\\})^D$ for the various ground truths corresponds to the existence of $K_c$ for $c\in C$ such that
 
    $\vec{q}\leq \sum_{c\in C} K_c \overrightarrow{f(c,\cdot)}, \sum_{c\in C} K_c\leq K$.
 
@@ -59,19 +59,19 @@ The basic plan is as follows:
 
    which is to be interpreted as the appropriate formal infinite power series. In fact, writing
 
-   $K(t)=\exp(-rt)\exp(Art)K(0)=\sum^\infty_{k=0} \frac{\exp(-rt) r^k}{k!} A^k K(0)$
+   $K(t)=\exp(-rt)\exp(Art)K(0)=\sum^\infty_{k=0} \frac{\exp(-rt) (rt)^k}{k!} A^k K(0)$
 
    shows that the amount of knowledge obtained follows a Poisson distribution. Note that these equations contain minus signs, so our Grothendieck construction was probably helpful.
 
 10. We discussed classical probability theory so far. But I think this works for both pure and mixed quantum theory as well, though I haven't thoroughly worked through the details and don't want to make a definite claim - it would be really nice to get an adversary method for faulty query algorithms though:
-	1. For pure quantum theory, the CPMs correspond to collections of wavefunctions for $d\in D$, and the $\subseteq$ operation corresponds to applying unitaries and projectors. Then the convex space _should_ be equivalent to the space of Gram matrices (of complex vectors), and the Grothendieck construction should yield the space of Hermitian matrices. In this equivalence, addition and multiplication correspond to elementwise addition and multiplication of these Gram matrices. (Note that, when going from collections of states to Gram matrices, direct sums turn into sums and tensor products turn into elementwise products).
-	2. We represent mixed quantum theory using purifications: The analogue of the CPMs are pure quantum vectors including a subsystem representing the environment, and the equivalence relation includes modding out local operations on the environment.
+	1. For pure quantum theory, the CPMs correspond to collections of wavefunctions for $d\in D$, and the $\leq$ relation corresponds to applying unitaries and projectors. Then the convex space _should_ be equivalent to the space of Gram matrices (of complex vectors), and the Grothendieck construction should yield the space of Hermitian matrices. In this equivalence, addition and multiplication correspond to elementwise addition and multiplication of these Gram matrices. (Note that, when going from collections of states to Gram matrices, direct sums turn into sums and tensor products turn into elementwise products).
+	2. We represent mixed quantum theory using purifications: The analogue of the CPMs are pure quantum vectors including a subsystem representing the environment, and the equivalence relation we mod out over includes local operations on the environment.
 
 ## More details
 ### The set-up
 TODO: I am sure there are more standard terminologies to describe the appropriate notions, what are they?
 
-Consider a (for now, classical) environment described by a state $d\in D$. An agent (call it "learner", as it doesn't influence the environment) has previously performed some sorts of "experiments" on the environment and stored the (probabilistic) results as a state of its internal memory $x\in X$. The learner knows the basic "rules of physics" yielding a (rectangular) matrix of conditional probabilities $M=(p(x\mid d))\_{x\in X,d\in D}\in\mathbb{R}^{X\times D}$, but doesn't a priori know $d$. $M$'s columns are probability vectors, i.e. vectors of nonnegative reals summing to $1$. I'll call such a matrix _transition matrix_.[^8]
+Consider a (for now, classical) environment described by a state $d\in D$. An agent (call it "learner", as it doesn't influence the environment) has previously performed some sorts of "experiments" on the environment and stored the (probabilistic) results as a state of its internal memory $x\in X$. The learner knows the basic "rules of physics" yielding a (rectangular) matrix of conditional probabilities $C=(p(x\mid d))\_{x\in X,d\in D}\in\mathbb{R}^{X\times D}$, but doesn't a priori know $d$. We do _not_ require that the conditional probabilities sum to $1$, but do require that they're nonnegative. I'll call such a matrix _conditional probability matrix_ (CPM).
 
 $M$ is sufficient to describe the "knowledge" the learner gathers about the environment for any $d\in D$. For example, if the learner's ultimate goal is to calculate some function $f\colon D\to C$, it does (and has to do) so by applying some probabilistic process $X\to C$, with some other transition matrix $R=(p(c\mid c))\_{c\in C,x\in X}$. Then the appropriate matrix entries of $RM$ contain the probabilities $\sum\_{d\in D} p(c=f(d)\mid d)p(d)$ denotes the "success probability" of that procedure for a given $d\in D$.
 
@@ -89,7 +89,7 @@ But $\leq$ is _not_ a partial order, as it does not fulfill symmetry: $M_1\leq M
 
 Intuitively, this means that, to describe the "state of knowledge" of the learner, $M$ contains superfluous information. We can confirm that the condition $M_1\leq M_2\wedge M_2\leq M_1$ is necessary and sufficient for the "states of knowledge" associated with two CPMs to be the same.
 
-So we **define our _state of knowledge_** as a mathematical object by modding out this condition as an equivalence relation $\sim$, where $M_1\sim M_2$ iff $M_1\leq M_2 \wedge M_2\leq M_1$, and define $K:=T/\~$, i.e. $K$ as the set of equivalence classes under this equivalence relation.
+So we **define our _state of knowledge_** as a mathematical object by modding out this condition as an equivalence relation $\sim$, where $M_1\sim M_2$ iff $M_1\leq M_2 \wedge M_2\leq M_1$, and define $K:=T/\sim$, i.e. $K$ as the set of equivalence classes under this equivalence relation.
 
 By standard math, for $K_1, K_2\in \mathbb{K}$, $K_1\leq K_2$ is independent of the choice of representative, and $\leq$ is a partial order on $\mathbb{K}$.
 
@@ -105,23 +105,18 @@ A convex combination $p K_1+(1-p)K_2$ now corresponds to a SOK in which, before 
 
 Note that if we just took convex combinations of our original CPMs, that wouldn't be true. For example, for $X=D$, each permutation matrix corresponds to maximal knowledge of the system, but randomly mixing these corresponds to a state of complete ignorance.
 
-Finally, we define a notion of multiplying states of knowledge _with each other_ as well:
-
-- $K_1K_2$ corresponds to the learner having stored the knowledge $K_1$ and $K_2$ in separate registers: We define a representative of $K_1K_2$ from representatives of $K_1, K_2$ by TODO
-
-We can easily verify that this fulfills distributivity.
 ### The Grothendieck group
 $(\mathbb{K},+)$ forms a commutative _monoid_: There is a neutral element $0\in \mathbb{K}$, represented by any all-$0$ matrix, and addition is associative and commutative. We can turn this into a group, i.e. add enough elements for there to be inverses, by a [_Grothendieck group construction_](https://en.wikipedia.org/w/index.php?title=Grothendieck_group&oldid=1091622036).[^26]
 
 - We are given a commutative monoid $(M,+)$,
-- We define the group by $M_\pm:=M\times M/\sim$, where $\langle(m_1,m_2)\sim(m_3,m_4)$ iff $m_1+m_4=m_2+m_3\rangle$. In words, a tuple $(m_1,m_2)$ is to be interpreted as the group element $m_1-m_2$, and we can determine equivalence of two group elements $m_1-m_2=m_3-m_4$ by checking $m_1+m_4=m_3+m_2$.
+- We define the group by $M_\pm:=M\times M/\sim$, where $(m_1,m_2)\sim(m_3,m_4)$ iff $m_1+m_4=m_2+m_3$. In words, a tuple $(m_1,m_2)$ is to be interpreted as the group element $m_1-m_2$, and we can determine equivalence of two group elements $m_1-m_2, m_3-m_4$ by checking whethere $m_1+m_4=m_3+m_2$.
 - We define $(m_1,m_2)+(m_3,m_4):=(m_1+m_3,m_2+m_4)$, and the inverse of an element $M$ represented by $(m_1,m_2)$ is denoted by $-M$ and represented by $(m_2,m_1)$.
 
-For our monoid $(\mathbb{K},+)$, we call elements of the resulting set $\mathbb{K}_\pm$ _quasistates of knowledge_. The point of our exercise is that these form a real vector space, if we define scalar multiplication in the natural way ($\alpha (K_1,K_2):=(\alpha K_1, \alpha K_2)$ for $\alpha\geq 0$, and $\alpha K:=(-\alpha) (-K)$ for $\alpha<0$).
+For our monoid $(\mathbb{K},+)$, we call elements of the resulting set $\mathbb{K}_\pm$ _quasistates of knowledge_. The point of our exercise is that these form a vector space over $\mathbb{R}$, if we define scalar multiplication in the natural way ($\alpha (K_1,K_2):=(\alpha K_1, \alpha K_2)$ for $\alpha\geq 0$, and $\alpha K:=(-\alpha) (-K)$ for $\alpha<0$).
 
 We can also define multiplication on $\mathbb{K}\_\pm$. Keeping in mind that $(K_1,K_2)$ is to be interpreted as $K_1-K_2$, our definition is $(K_1,K_2)(K_3,K_4):=(K_1K_3+K_2K_4,K_2K_3+K_1K_4)$. We arrive at a commutative $\mathbb{R}$-algebra $\mathbb{K}\_\pm$, with the "physical" SOKs $\mathbb{K}\subset\mathbb{K}\_\pm$ a convex subset of $\mathbb{K}\_\pm$.
 
-Any $\mathbb{R}$-algebra is an $\mathbb{R}$-vector space, but the dimension of the space will probably be infinite in general. Textbook convex optimization is done in Euclidean space (i.e. $\mathbb{R}^n$ with $n$ finite);[^17] we can truncate our space to a finite basis, for a given finite set of possible experiments taking values in a finite set, we should be able to find a basis that covers any given finite number of observations. I don't understand whether/how the nice ideas of duality and similar would still work in our situation.
+Any $\mathbb{R}$-algebra is an $\mathbb{R}$-vector space, but the dimension of the space will probably be infinite in general. Textbook convex optimization is done in Euclidean space (i.e. $\mathbb{R}^n$ with $n$ finite);[^17] we can truncate our space to a finite basis, and for a given finite set of possible experiments taking values in a finite set, we should be able to find a basis that covers any given finite number of observations. But I don't fully understand whether/to what extent the nice ideas of duality and similar would still work in our situation.
 
 ## Footnotes
 [^2]: Point 10.2 of the basic plan hints at mixed quantum states, but I don't want to swear that this works because I didn't check the details so far.
@@ -129,6 +124,5 @@ Any $\mathbb{R}$-algebra is an $\mathbb{R}$-vector space, but the dimension of t
 [^4]: We could have exchanged the order of steps $2$ and $3$.
 [^5]: I.e. the vectors which are $1$ on $d$ resp. $d'\in D'$, and $0$ everywhere else.
 [^6]: In the quantum case, this would correspond to Hadamard products of Gram matrices and tensor products of state collections.
-[^8]: Even though the literature usually requires these matrices to be square.
 [^17]: Apparently, [this Oberwolfach seminar](https://homepages.cwi.nl/~monique/ow-seminar-sdp/) contains a lecture on infinite-dimensional semidefinite optimization.
-[^26]: I looked into Wikipedia to read that this has his name from a specific case "which resulted in the development of [K theory](https://en.wikipedia.org/w/index.php?title=K-theory&oldid=1072713370)". What's written there looks formally quite similar to what I do here, though I don't understand it in detail. So maybe one can call these thoughts "K-theory on the space of probabilistic transformations?"
+[^26]: I looked into Wikipedia to read that this has his name from a specific case "which resulted in the development of [K-theory](https://en.wikipedia.org/w/index.php?title=K-theory&oldid=1072713370)". What's written there looks formally quite similar to what I do here, though I don't understand it in detail. So maybe one can call these thoughts "K-theory on the space of probabilistic transformations?"
