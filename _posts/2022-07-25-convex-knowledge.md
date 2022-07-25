@@ -47,17 +47,17 @@ The basic plan is as follows:
 7. Our $+$ and $0$ yield a commutative monoid, i.e. we can add and have a neutral element, but can't yet subtract. A [_Grothendieck group construction_](https://en.wikipedia.org/w/index.php?title=Grothendieck_group&oldid=1091622036)[^26] allows us to turn this monoid into a commutative group. We obtain an $\mathbb{R}$-algebra, which is also a vector space. Our original set of "physical" states of knowledge is still a convex subset of that vector space. So if we find or truncate to a finite basis, we can hopefully do convex optimization and duality over it.
 8. Together, addition and multiplication allows us to define formal power series of knowledge. For example, suppose our learner observes the stars with a telescope without making any choices. In an infinitesimal time $\Delta t\to 0$, it observes a supernova with probability $r \Delta t$, generating experimental data $A\in \mathbb{K}$. Otherwise, it observes nothing. If $K(t)$ is the state of knowledge over time, we obtain
 
-$K(t+\Delta t)\to ((1-r \Delta t)\mathbf{1}+r\Delta t A) K(t)=(\mathbf{1}+r\Delta t (A-\mathbf{1})) K(t)$.
+   $K(t+\Delta t)\to ((1-r \Delta t)\mathbf{1}+r\Delta t A) K(t)=(\mathbf{1}+r\Delta t (A-\mathbf{1})) K(t)$.
 
-This is solved by
+   This is solved by
 
-$K(t)=\exp((A-\mathbf{1})rt) K(0)$,
+   $K(t)=\exp((A-\mathbf{1})rt) K(0)$,
 
-which is to be interpreted as the appropriate formal infinite power series. In fact, writing
+   which is to be interpreted as the appropriate formal infinite power series. In fact, writing
 
-$K(t)=\exp(-rt)\exp(Art)K(0)=\sum^\infty_{k=0} \frac{\exp(-rt) r^k}{k!} A^k K(0)$
+   $K(t)=\exp(-rt)\exp(Art)K(0)=\sum^\infty_{k=0} \frac{\exp(-rt) r^k}{k!} A^k K(0)$
 
-shows that the amount of knowledge obtained follows a Poisson distribution.
+   shows that the amount of knowledge obtained follows a Poisson distribution.
 
 9. We discussed classical probability theory so far. But I think this works for both pure and mixed quantum theory as well, though I haven't thoroughly worked through the details and don't want to make a definite claim - it would be really nice to get an adversary method for faulty query algorithms though:
 	1. For pure quantum theory, the CPMs correspond to collections of wavefunctions for $d\in D$, and the $\subseteq$ operation corresponds to applying unitaries and projectors. Then the convex space _should_ be equivalent to the space of Gram matrices (of complex vectors), and the Grothendieck construction should yield the space of Hermitian matrices. In this equivalence, addition and multiplication correspond to elementwise addition and multiplication of these Gram matrices. (Note that, when going from collections of states to Gram matrices, direct sums turn into sums and tensor products turn into elementwise products).
