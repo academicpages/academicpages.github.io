@@ -11,7 +11,7 @@ redirect_from:
 I am a second year Applied Mathematics Ph.D. student in the School of Engineering and Applied Sciences (SEAS) at [Harvard University](https://www.seas.harvard.edu).
 
 ### News
-<span style="color: DarkRed"> 
+<span style="color: FireBrick"> 
 July 2022 - I received the [Fundação Estudar](https://www.estudar.org.br) Leadership Fellowship. 
 </span> \
 <span style="font-size:15px"> 
