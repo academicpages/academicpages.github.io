@@ -3,17 +3,14 @@ title: 'A learners possible states of knowledge as a convex subset of an \mathbb
 date: 2022-07-25
 permalink: /posts/2022/07/convex-knowledge/
 tags:
-  - cs.cc
   - cs.ml
+  - cs.cc
   - quant-ph
 ---
-
-A learner's possible states of knowledge as a convex subset of an $\mathbb{R}$-algebra via a Grothendieck construction
-----
-
+## Motivation
 (Note: The next paragraph gives motivation from research on quantum query algorithms, but one shouldn't need to know anything about quantum physics or query algorithms to follow the rest of this post.)
 
-A great thing about quantum physics and quantum query algorithms that allowed developments like [Barnum-Saks-Szegedy 2003](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.1101&rep=rep1&type=pdf) -- and arguably the [adversary bound - query algorithm duality](https://www.cs.umd.edu/~amchilds/qa/qa.pdf), in particular when developed like [here](https://github.com/qudent/RhoPaths) -- is that we have a _convex_ description of the current "state of knowledge" of a quantum query computer, namely the Gram matrix of the states for different inputs at a given time. This means that the Gram matrices
+A great thing about quantum physics and quantum query algorithms that allowed developments like [Barnum-Saks-Szegedy 2003](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.1101&rep=rep1&type=pdf) - and arguably the [adversary bound - query algorithm duality](https://www.cs.umd.edu/~amchilds/qa/qa.pdf), in particular when developed like [here](https://github.com/qudent/RhoPaths) - is that we have a _convex_ description of the current "state of knowledge" of a quantum query computer, namely the Gram matrix of the states for different inputs at a given time. This means that the Gram matrices
  - form a convex subset of a real vector space (for normed states, the complex positive semidefinite matrices with all-$1$ diagonal as a subset of the space of Hermitian matrices),
  - are necessary and sufficient to describe the quantum computer's state of knowledge,
  - if two Gram matrices are attainable by some procedures, their convex combinations are attainable as well, and
@@ -22,9 +19,12 @@ A great thing about quantum physics and quantum query algorithms that allowed de
 This allows using the powerful methods of [convex optimization and convex
 duality](https://web.stanford.edu/~boyd/cvxbook/) (to be more precise, [semidefinite programming](https://en.wikipedia.org/w/index.php?title=Semidefinite_programming&oldid=1092453332)) to obtain lower bounds and query algorithms.
 
-The aim of this note is to find such a description for classical agents/learners.[^2] In contrast to the classical case, our development doesn't give great bounds on the dimension of the vector space. The basic plan is as follows:
-1. We start with a naive description of states of knowledge as collections/matrices of conditional probabilities $p(\mathrm{internal~memory~state}\mid\mathrm{environmental~ground~truth})\geq 0$; for now, we drop the requirement that the conditional probabilities sum to $1$ for any possible ground truth. We call these CPMs (conditional probability matrices); we consider all possible sets of internal memory states at once (i.e. don't fix the number of rows). Denote the set of possible ground truths by $D$.
-2. For CPMs $C_1,C_2$, we write that $C_1\leq C_2$ iff the agent/learner can transform $C_2$ into $C_1$ by a probabilistic transformation without any interaction with the environment. Input and output dimensions are not necessarily equal, and transition probabilities must sum to **at most** $1$[^3]. Clearly, this means that $C_1$ corresponds to "at most as much knowledge" as $C_2$.
+The aim of this note is to find such a description for classical agents/learners.[^2] In contrast to the classical case, our development doesn't give great bounds on the dimension of the vector space.
+
+## Sketch of the construction
+The basic plan is as follows:
+1. We start with a naive description of states of knowledge as collections/matrices of conditional probabilities p(internal memory state|environmental ground truth)≥0; for now, we drop the requirement that the conditional probabilities sum to $1$ for any possible ground truth. We call these CPMs (conditional probability matrices); we consider all possible sets of internal memory states at once (i.e. don't fix the number of rows). Denote the set of possible ground truths by $D$.
+2. For CPMs $C_1,C_2$, we write that $C_1\leq C_2$ iff the agent/learner can transform $C_2$ into $C_1$ by a probabilistic transformation without any interaction with the environment. Input and output dimensions are not necessarily equal, and transition probabilities must sum to **at most** $1$.[^3] Clearly, this means that $C_1$ corresponds to "at most as much knowledge" as $C_2$.
 3. We say $C_1$ and $C_2$ are equivalent iff $C_1\leq C_2$ and $C_2\leq C_1$. We define the set of **states of knowledge** (SOK), $\mathbb{K}$, by modding out this equivalence relation from the set of CPMs. Mathematically, $\leq$ was a preorder on the CPMs and becomes a partial order on $\mathbb{K}$.
 3. On $\mathbb{K}$, we define multiplication with a nonnegative scalar elementwise, and addition by a **direct sum** of the matrices making up the summands (i.e. taking a disjoint union of the internal memory states, and collecting the conditional probabilities). We check this behaves well with the equivalence relation. With these definitions, $\mathbb{K}$ is a convex set that conforms to the same intuitions as listed for Gram matrices above.[^4]
 4. We also define multiplication of two collections by considering the learner to have access to uncorrelated information representing the factors: If the factors are represented by probability collections $p_1(a\mid D)$ and $p_2(b\mid D)$ for members of sets of internal memory states $a \in A$, $b \in B$, respectively, the product is represented by a CPMs with the Kronecker product $A\times B$ as internal memory state, and $p((a,b)\mid D)=p_1(a\in E)p_2(b\in D)$ for $(a,b)\in A\times B$. Besides behaving well with the equivalence relation, it's also commutative on the SOKs.[^6]
@@ -45,9 +45,9 @@ In particular, function evaluation that should succeed with probability at least
 In terms of symbols, this looks completely analogous to the semidefinite program in Barnum-Saks-Szegedy, equations 9-13 [here](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.1101&rep=rep1&type=pdf).
 
 7. Our $+$ and $0$ yield a commutative monoid, i.e. we can add and have a neutral element, but can't yet subtract. A [_Grothendieck group construction_](https://en.wikipedia.org/w/index.php?title=Grothendieck_group&oldid=1091622036)[^26] allows us to turn this monoid into a commutative group. We obtain an $\mathbb{R}$-algebra, which is also a vector space. Our original set of "physical" states of knowledge is still a convex subset of that vector space. So if we find or truncate to a finite basis, we can hopefully do convex optimization and duality over it.
-8. $+$ and $*$ allows us to define formal power series of knowledge. For example, suppose our learner observes the stars with a telescope without making any choices. In an infinitesimal time $\Delta t\to 0$, it observes a supernova with probability $r \Delta t$, generating experimental data $A\in \mathbb{K}$. Otherwise, it observes nothing. If $K(t)$ is the state of knowledge over time, we obtain
+8. Together, addition and multiplication allows us to define formal power series of knowledge. For example, suppose our learner observes the stars with a telescope without making any choices. In an infinitesimal time $\Delta t\to 0$, it observes a supernova with probability $r \Delta t$, generating experimental data $A\in \mathbb{K}$. Otherwise, it observes nothing. If $K(t)$ is the state of knowledge over time, we obtain
 
-$K(t+Delta t)\to ((1-r \Delta t)\mathbf{1}+r\Delta t A) K(t)=(\mathbf{1}+r\Delta t (A-\mathbf{1})) K(t)$.
+$K(t+\Delta t)\to ((1-r \Delta t)\mathbf{1}+r\Delta t A) K(t)=(\mathbf{1}+r\Delta t (A-\mathbf{1})) K(t)$.
 
 This is solved by
 
@@ -59,25 +59,26 @@ $K(t)=\exp(-rt)\exp(Art)K(0)=\sum^\infty_{k=0} \frac{\exp(-rt) r^k}{k!} A^k K(0)
 
 shows that the amount of knowledge obtained follows a Poisson distribution.
 
-9. We discussed classical probability theory so far. But I think this works for both pure and mixed quantum theory as well, though I haven't thoroughly worked through the details and don't want to make a definite claim -- it would be really nice to get an adversary method for faulty query algorithms though:
+9. We discussed classical probability theory so far. But I think this works for both pure and mixed quantum theory as well, though I haven't thoroughly worked through the details and don't want to make a definite claim - it would be really nice to get an adversary method for faulty query algorithms though:
 	1. For pure quantum theory, the CPMs correspond to collections of wavefunctions for $d\in D$, and the $\subseteq$ operation corresponds to applying unitaries and projectors. Then the convex space _should_ be equivalent to the space of Gram matrices (of complex vectors), and the Grothendieck construction should yield the space of Hermitian matrices. In this equivalence, addition and multiplication correspond to elementwise addition and multiplication of these Gram matrices. (Note that, when going from collections of states to Gram matrices, direct sums turn into sums and tensor products turn into elementwise products).
 	2. We represent mixed quantum theory using purifications: The analogue of the CPMs are pure quantum vectors including a subsystem representing the environment, and the equivalence relation includes modding out local operations on the environment.
 
-## The set-up
+## More details
+### The set-up
 TODO: I am sure there are more standard terminologies to describe the appropriate notions, what are they?
 
 Consider a (for now, classical) environment described by a state $d\in D$. An agent (call it "learner", as it doesn't influence the environment) has previously performed some sorts of "experiments" on the environment and stored the (probabilistic) results as a state of its internal memory $x\in X$. The learner knows the basic "rules of physics" yielding a (rectangular) matrix of conditional probabilities $M=(p(x\mid d))_{x\in X,d\in D}\in\mathbb{R}^{X\times D}$, but doesn't a priori know $d$. $M$'s columns are probability vectors, i.e. vectors of nonnegative reals summing to $1$. I'll call such a matrix _transition matrix_.[^8]
 
 $M$ is sufficient to describe the "knowledge" the learner gathers about the environment for any $d\in D$. For example, if the learner's ultimate goal is to calculate some function $f\colon D\to C$, it does (and has to do) so by applying some probabilistic process $X\to C$, with some other transition matrix $R=(p(c\mid c))_{c\in C,x\in X}$. Then the appropriate matrix entries of $RM$ contain the probabilities $\sum_{d\in D} p(c=f(d)\mid d)p(d)$ denotes the "success probability" of that procedure for a given $d\in D$.
 
-## Preorder on transition matrices by transformability
+### Preorder on transition matrices by transformability
 We say $M'\leq M$ if $M'=AM$ for a transition matrix $A$ - in words, if the learner could obtain $M'$ from $M$ without any interaction with the environment, just by performing some operation on its internal memory. Of course, this means that the state of knowledge $M$ is "at least as good as" the state of knowledge $M'$.
 
-On the set of CPMs, $\leq$ is a _preorder_ -- it fulfills
+On the set of CPMs, $\leq$ is a _preorder_ - it fulfills
 - transitivity: $M_1\leq M_2$ and $M_2\leq M_3$ implies $M_1\leq M_3$, and
 - reflexivity: $M_1\leq M_1$.
 
-## From transition matrices to states of knowledge by an equivalence relation.
+### From transition matrices to states of knowledge by an equivalence relation.
 But $\leq$ is _not_ a partial order, as it does not fulfill symmetry: $M_1\leq M_2$ and $M_2\leq M_1$ does not necessarily imply $M_1= M_2$. Two counterexamples:
   - Permuting the rows of a conditional probability matrix $M$, corresponding to changing the labeling of $x\in X$,
    - Reversing the operation of replacing some $x\in X$ with one of two additional states $x_1$, $x_2$ with probability $1/2$ each.
@@ -89,7 +90,7 @@ So we **define our _state of knowledge_** as a mathematical object by modding ou
 By standard math, for $K_1, K_2\in \mathbb{K}$, $K_1\leq K_2$ is independent of the choice of representative, and $\leq$ is a partial order on $\mathbb{K}$.
 
 I claim that this "states of knowledge" definition is better-suited, in particular
-## Adding and multiplying states of knowledge
+### Adding and multiplying states of knowledge
 We define addition and scalar multiplication operations on states of knowledge. We can easily verify they behave well with the equivalence relation.
 - We define a representative of $K_1+K_2$ by taking a direct sum of the columns of representatives of $K_1$ and $K_2$.
 - For $p\in \mathbb{R}^+\cup\{0\}$, we define a representative of $p K_1$ by multiplying the matrix entries by $p$.
@@ -105,8 +106,8 @@ Finally, we define a notion of multiplying states of knowledge _with each other_
 - $K_1K_2$ corresponds to the learner having stored the knowledge $K_1$ and $K_2$ in separate registers: We define a representative of $K_1K_2$ from representatives of $K_1, K_2$ by TODO
 
 We can easily verify that this fulfills distributivity.
-## The Grothendieck group
-$(\mathbb{K},+)$ forms a commutative _monoid_: There is a neutral element $0\in \mathbb{K}$, represented by any all-$0$ matrix, and addition is associative and commutative. We can turn this into a group, i.e. add enough elements for there to be inverses, by a _Grothendieck group construction_(https://en.wikipedia.org/w/index.php?title=Grothendieck_group&oldid=1091622036).[^26]
+### The Grothendieck group
+$(\mathbb{K},+)$ forms a commutative _monoid_: There is a neutral element $0\in \mathbb{K}$, represented by any all-$0$ matrix, and addition is associative and commutative. We can turn this into a group, i.e. add enough elements for there to be inverses, by a [_Grothendieck group construction_](https://en.wikipedia.org/w/index.php?title=Grothendieck_group&oldid=1091622036).[^26]
 
 - We are given a commutative monoid $(M,+)$,
 - We define the group by $M_\pm:=M\times M/\langle(m_1,m_2)\~(m_3,m_4):\hArr m_1+m_4=m_2+m_3\rangle$. In words, a tuple $(m_1,m_2)$ is to be interpreted as the group element $m_1-m_2$, and we can determine equivalence of two group elements $m_1-m_2=m_3-m_4$ by checking $m_1+m_4=m_3+m_2$.
