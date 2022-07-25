@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Applied Mathematics PhD student in the School of Engineering and Applied Sciences (SEAS) at Harvard University.
+I am a second year Applied Mathematics PhD student in the School of Engineering and Applied Sciences (SEAS) at [Harvard University](https://www.seas.harvard.edu).
 
