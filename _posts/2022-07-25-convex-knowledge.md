@@ -1,5 +1,5 @@
 ---
-title: 'A learner's possible states of knowledge as a convex subset of an \mathbb{R}-algebra via a Grothendieck construction'
+title: 'A learners possible states of knowledge as a convex subset of an \mathbb{R}-algebra via a Grothendieck construction'
 date: 2022-07-25
 permalink: /posts/2022/07/convex-knowledge/
 tags:
@@ -9,7 +9,7 @@ tags:
 ---
 
 A learner's possible states of knowledge as a convex subset of an $\mathbb{R}$-algebra via a Grothendieck construction
----
+----
 
 (Note: The next paragraph gives motivation from research on quantum query algorithms, but one shouldn't need to know anything about quantum physics or query algorithms to follow the rest of this post.)
 
