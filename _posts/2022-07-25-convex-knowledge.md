@@ -34,7 +34,7 @@ The basic plan is as follows:
 
    $K_1+K_2\leq K$.
 
-   Now suppose the experiments generate additional data that individually corresponds to SOKs $E_1,E_2\in \mathbb{K}$. Then the feasible states of knowledge after one more experiment are given by
+   Now suppose the experiments generate additional data that individually correspond to SOKs $E_1,E_2\in \mathbb{K}$. Then the feasible states of knowledge after one more experiment are given by
 
    $\\\{E_1 K_1 + E_2 K_2 \mid K_1 + K_2 \leq K\\\}$
 
@@ -46,12 +46,12 @@ The basic plan is as follows:
 
    In particular, function evaluation that should succeed with probability at least $1-\epsilon$ for all $d\in D$ corresponds to $\vec{q}=(1-\epsilon)\mathbf{1}$.
 
-   In terms of symbols, this looks completely analogous to the semidefinite program in Barnum-Saks-Szegedy, equations 9-13 [here](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.1101&rep=rep1&type=pdf).
+   We can chain multiple steps of choosing experiments, starting from complete ignorance, and obtain a convex optimization problem. In terms of symbols, this looks completely analogous to the semidefinite program in Barnum-Saks-Szegedy, equations 9-13 [here](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.1101&rep=rep1&type=pdf).
 
 8. Our $+$ and $0$ yield a commutative monoid, i.e. we can add and have a neutral element, but can't yet subtract. A [_Grothendieck group construction_](https://en.wikipedia.org/w/index.php?title=Grothendieck_group&oldid=1091622036)[^26] allows us to turn this monoid into a commutative group. We obtain an $\mathbb{R}$-algebra, which is also a vector space. Our original set of "physical" states of knowledge is still a convex subset of that vector space. So if we find or truncate to a finite basis, we can hopefully do convex optimization and duality over it.
 9. Together, addition and multiplication allows us to define formal power series of knowledge. For example, suppose our learner observes the stars with a telescope without making any choices. In an infinitesimal time $\Delta t\to 0$, it observes a supernova with probability $r \Delta t$, generating experimental data $A\in \mathbb{K}$. Otherwise, it observes nothing. If $K(t)$ is the state of knowledge over time, we obtain
 
-   $K(t+\Delta t)\to ((1-r \Delta t)\mathbf{1}+r\Delta t A) K(t)$.
+   $K(t+\Delta t)\to ((1-r \Delta t)\mathbf{1}+r\Delta t A) K(t).$
 
    This is solved by
 
@@ -71,23 +71,25 @@ The basic plan is as follows:
 ### The set-up
 TODO: I am sure there are more standard terminologies to describe the appropriate notions, what are they?
 
-Consider a (for now, classical) environment described by a state $d\in D$. An agent (call it "learner", as it doesn't influence the environment) has previously performed some sorts of "experiments" on the environment and stored the (probabilistic) results as a state of its internal memory $x\in X$. The learner knows the basic "rules of physics" yielding a (rectangular) matrix of conditional probabilities $C=(p(x\mid d))\_{x\in X,d\in D}\in\mathbb{R}^{X\times D}$, but doesn't a priori know $d$. We do _not_ require that the conditional probabilities sum to $1$, but do require that they're nonnegative. I'll call such a matrix _conditional probability matrix_ (CPM).
+Consider a (for now, classical) environment described by a state $d\in D.$ An agent (call it "learner", as it doesn't influence the environment) has previously performed some sorts of "experiments" on the environment and stored the (probabilistic) results as a state of its internal memory $x\in X$. The learner knows the basic "rules of physics" yielding a (rectangular) matrix of conditional probabilities $C=(p(x\mid d))\_{x\in X,d\in D}\in\mathbb{R}^{X\times D}$, but doesn't a priori know $d$. We do _not_ require that the conditional probabilities sum to $1$, but do require that they're nonnegative. I'll call such a matrix _conditional probability matrix_ (CPM).
 
-$M$ is sufficient to describe the "knowledge" the learner gathers about the environment for any $d\in D$. For example, if the learner's ultimate goal is to calculate some function $f\colon D\to C$, it does (and has to do) so by applying some probabilistic process $X\to C$, with some other transition matrix $R=(p(c\mid c))\_{c\in C,x\in X}$. Then the appropriate matrix entries of $RM$ contain the probabilities $\sum\_{d\in D} p(c=f(d)\mid d)p(d)$ denotes the "success probability" of that procedure for a given $d\in D$.
+$C$ is sufficient to describe the "knowledge" the learner gathers about the environment for any $d\in D$. For example, if the learner's ultimate goal is to calculate some function $f\colon D\to C$, it does (and has to do) so by applying some probabilistic process $X\to C$, with some other transition matrix $R=(p(c\mid x))\_{c\in C,x\in X}$. Then the appropriate matrix entries of $RC$ contain the probabilities $\sum\_{d\in D} p(c=f(d)\mid d)p(d)$ denotes the "success probability" of that procedure for a given $d\in D$.
 
 ### Preorder on transition matrices by transformability
-We say $M'\leq M$ if $M'=AM$ for a transition matrix $A$ - in words, if the learner could obtain $M'$ from $M$ without any interaction with the environment, just by performing some operation on its internal memory. Of course, this means that the state of knowledge $M$ is "at least as good as" the state of knowledge $M'$.
-
-On the set of CPMs, $\leq$ is a _preorder_ - it fulfills
+On the set of CPMs, $\leq$ as discussed in the sketch is a _preorder_ - it fulfills
 - transitivity: $M_1\leq M_2$ and $M_2\leq M_3$ implies $M_1\leq M_3$, and
 - reflexivity: $M_1\leq M_1$.
 
-### From transition matrices to states of knowledge by an equivalence relation.
+### $\leq$ isn't a partial order yet
 But $\leq$ is _not_ a partial order, as it does not fulfill symmetry: $M_1\leq M_2$ and $M_2\leq M_1$ does not necessarily imply $M_1= M_2$. Two counterexamples:
   - Permuting the rows of a conditional probability matrix $M$, corresponding to changing the labeling of $x\in X$,
    - Reversing the operation of replacing some $x\in X$ with one of two additional states $x_1$, $x_2$ with probability $1/2$ each.
 
-Intuitively, this means that, to describe the "state of knowledge" of the learner, $M$ contains superfluous information. We can confirm that the condition $M_1\leq M_2\wedge M_2\leq M_1$ is necessary and sufficient for the "states of knowledge" associated with two CPMs to be the same.
+Intuitively, this means that, to describe the "state of knowledge" of the learner, $M$ contains superfluous information. We will check that the condition $M_1\leq M_2\wedge M_2\leq M_1$ is necessary and sufficient for the "states of knowledge" associated with two CPMs to be the same by the following argument:
+
+
+
+Philosophically, given any $Mexperimental data to be had with $M_1$ can also be had with $M_2$, then $M_1\leq M_2$. If the sets of obtainable results are
 
 So we **define our _state of knowledge_** as a mathematical object by modding out this condition as an equivalence relation $\sim$, where $M_1\sim M_2$ iff $M_1\leq M_2 \wedge M_2\leq M_1$, and define $K:=T/\sim$, i.e. $K$ as the set of equivalence classes under this equivalence relation.
 
