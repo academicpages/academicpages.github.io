@@ -30,11 +30,15 @@ The basic plan is as follows:
 5. We also define multiplication of two collections by considering the learner to have access to uncorrelated information representing the factors: If the factors are represented by CPMs over internal memory states $a \in A$, $b \in B$, the product is represented by a CPM over the Kronecker product $A\times B$, with the joint probabilities products of the factor probabilities $p((a,b)\mid D)=p(a\mid D)p(b\mid D)$ for $(a,b)\in A\times B$. Besides behaving well with the equivalence relation, it's also commutative on the SOKs.[^6]
 
 6. A vector of nonnegative numbers $\vec{p}\in (\mathbb{R}^+\cup\{0\})^D$ is represented in $\mathbb{K}$ by a CPM with only one internal memory state. $0$, $1$ and $d\in D$, $D'\subseteq D$ are treated as the all-$0$, all-$1$, and indicator function vectors[^5]. Then in the equivalence classes, $\mathbf{0},\mathbf{1}\in\mathbb{K}$ are neutral w.r.t. addition and multiplication; they correspond to a state of $0$ probability and a state of zero knowledge. We also define $\Omega\in\mathbb{K}$ as the state of complete knowledge.
-7. For an example, suppose the learner is in a SOK $K\in\mathbb{K}$ and should make a binary decision which of two experiments to perform next. When performed from scratch, these would generate results $E_1$, $E_2\in \mathbb{K}$. Then the feasible states of knowledge after the next experiments are given by 
+7. For an example, suppose the learner is in a SOK $K\in\mathbb{K}$ and should make a binary decision which of two experiments to perform next. So it will perform some probabilistic procedure and save the result in an additional register $R'$ with possible states $1$, $2$. Then the memory states where $R'=1$, and the memory states where $R'=2$, form (non-normalized) SOKs individually that sum to a state obtainable from $K$:
+
+   $K_1+K_2\leq K$.
+
+   Now suppose the experiments generate additional data that individually corresponds to SOKs $E_1,E_2\in \mathbb{K}$. Then the feasible states of knowledge after the next experiments are given by 
 
    $\\\{E_1 K_1 + E_2 K_2 \mid K_1 + K_2 \leq K\\\}$
 
-   with $K_1,K_2\in\mathbb{K}$. Internal processing of $K$ corresponds to writing the decision into an additional register taking values in $\{1,2\}$ - the first thing is $K_1$, the second $K_2$. After the experiment, we independently get additional data for either decision, which corresponds to multiplying by $E_1$ and $E_2$, respectively.
+   with $K_1,K_2\in\mathbb{K}$.
 
    Now suppose we have given $K\in\mathbb{K}$ and some utility function $f\colon D\times C\to\mathbb{R}^+ \cup \{0\}$. So the learner outputs some $c\in C$, and depending on the ground truth $d\in D$, it gets some utility $f(c,d)$. A special case is computing single- or multi-valued functions (the utility is $1$ if the chosen $c$ was acceptable for $d$, $0$ otherwise). $\overrightarrow{f(c,\cdot)}\in\mathbb{K}$ represents the utilities the learner would obtain if it always chooses $c$. Then the claim that the learner can obtain expected utilities $\vec{q}\in(\mathbb{R}^+\cup\{0\})^D$ corresponds to the existence of $K_c$ for $c\in C$ such that
 
