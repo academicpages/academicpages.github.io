@@ -101,13 +101,13 @@ A convex combination $p K_1+(1-p)K_2$ now corresponds to a SOK in which, before 
 Note that if we just took convex combinations of our original CPMs, that wouldn't be true. For example, for $X=D$, each permutation matrix corresponds to maximal knowledge of the system, but randomly mixing these corresponds to a state of complete ignorance.
 
 ### The Grothendieck group
-$(\mathbb{K},+)$ forms a commutative _monoid_: There is a neutral element $0\in \mathbb{K}$, represented by any all-$0$ matrix, and addition is associative and commutative. We can turn this into a group, i.e. add enough elements for there to be inverses, by a [_Grothendieck group construction_](https://en.wikipedia.org/w/index.php?title=Grothendieck_group&oldid=1091622036).[^26]
+$(\mathbb{K},+)$ forms a commutative _monoid_: There is a neutral element $0\in \mathbb{K}$, represented by any all-$0$ matrix, and addition is associative and commutative. We can turn this into a group, i.e. add enough elements for there to be inverses, by a [_Grothendieck group construction_](https://en.wikipedia.org/w/index.php?title=Grothendieck_group&oldid=1091622036).[^26] This works as follows:
 
-- We are given a commutative monoid $(M,+)$,
-- We define the group by $M_\pm:=M\times M/\sim$, where $(m_1,m_2)\sim(m_3,m_4)$ iff $m_1+m_4=m_2+m_3$. In words, a tuple $(m_1,m_2)$ is to be interpreted as the group element $m_1-m_2$, and we can determine equivalence of two group elements $m_1-m_2, m_3-m_4$ by checking whethere $m_1+m_4=m_3+m_2$.
-- We define $(m_1,m_2)+(m_3,m_4):=(m_1+m_3,m_2+m_4)$, and the inverse of an element $M$ represented by $(m_1,m_2)$ is denoted by $-M$ and represented by $(m_2,m_1)$.
+1. We are given a commutative monoid $(M,+)$,
+2. We define the group by $M_\pm:=M\times M/\sim$, where $(m_1,m_2)\sim(m_3,m_4)$ iff $m_1+m_4=m_2+m_3$. In words, a tuple $(m_1,m_2)$ is to be interpreted as the group element $m_1-m_2$, and we can determine equivalence of two group elements $m_1-m_2, m_3-m_4$ by checking whether $m_1+m_4=m_3+m_2$.
+3. We define $(m_1,m_2)+(m_3,m_4):=(m_1+m_3,m_2+m_4)$, and the inverse of an element $M$ represented by $(m_1,m_2)$ is denoted by $-M$ and represented by $(m_2,m_1)$.
 
-For our monoid $(\mathbb{K},+)$, we call elements of the resulting set $\mathbb{K}_\pm$ _quasistates of knowledge_. The point of our exercise is that these form a vector space over $\mathbb{R}$, if we define scalar multiplication in the natural way ($\alpha (K_1,K_2):=(\alpha K_1, \alpha K_2)$ for $\alpha\geq 0$, and $\alpha K:=(-\alpha) (-K)$ for $\alpha<0$).
+For our monoid $(\mathbb{K},+)$, we call elements of the resulting set $\mathbb{K}_\pm$ _quasistates of knowledge_. The point of our exercise is that these form a vector space over $\mathbb{R}$, if we define scalar multiplication in the natural way ($\alpha (K_1,K_2):=(\alpha K_1, \alpha K_2)$ for $\alpha\geq 0$, and $\alpha K:=(-\alpha) (-K)$ for $\alpha<0$).[^27]
 
 We can also define multiplication on $\mathbb{K}\_\pm$. Keeping in mind that $(K_1,K_2)$ is to be interpreted as $K_1-K_2$, our definition is $(K_1,K_2)(K_3,K_4):=(K_1K_3+K_2K_4,K_2K_3+K_1K_4)$. We arrive at a commutative $\mathbb{R}$-algebra $\mathbb{K}\_\pm$, with the "physical" SOKs $\mathbb{K}\subset\mathbb{K}\_\pm$ a convex subset of $\mathbb{K}\_\pm$.
 
