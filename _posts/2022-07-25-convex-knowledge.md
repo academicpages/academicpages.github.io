@@ -19,7 +19,7 @@ A great thing about quantum physics and quantum query algorithms that allowed de
 This allows using the powerful methods of [convex optimization and convex
 duality](https://web.stanford.edu/~boyd/cvxbook/) (to be more precise, [semidefinite programming](https://en.wikipedia.org/w/index.php?title=Semidefinite_programming&oldid=1092453332)) to obtain lower bounds and query algorithms.
 
-The aim of this note is to find such a description for classical agents/learners.[^2] In contrast to the classical case, our development doesn't give great bounds on the dimension of the vector space.
+The aim of this note is to find such a description for classical agents/learners.[^2] In contrast to the quantum case, our development doesn't give great bounds on the dimension of the vector space.
 
 ## Sketch of the construction
 The basic plan is as follows:
