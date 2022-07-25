@@ -37,7 +37,7 @@ author_profile: true
         - Grade homework assignments
         - Hold tutorial sessions on 1) MATLAB and 2) Introduction to vectors
         - Proctor mid-term and final exams
-- Teaching Assistant, ENGN0040 Dynamics and Vibrations, Spring 2018
+- Teaching Assistant, [ENGN0040 Dynamics and Vibrations](https://www.brown.edu/Departments/Engineering/Courses/En4/), Spring 2018
     - Instructor: Prof. Allan Bower and Prof. Jimmy Xu
     - Description: A broad introduction to Newtonian dynamics of particles and rigid bodies with applications to engineering design. Concepts include kinematics and dynamics of particles and rigid bodies; conservation laws; vibrations of single degree of freedom systems; and use of MATLAB to solve equations of motion and optimize engineering designs. Examples of applications are taken from all engineering disciplines. Lectures, recitation, and team design projects, including use of Brown Design Workshop. Prerequisite: ENGN 0030.
     - Responsibility:
