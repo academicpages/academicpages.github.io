@@ -51,7 +51,7 @@ The basic plan is as follows:
 8. Our $+$ and $0$ yield a commutative monoid, i.e. we can add and have a neutral element, but can't yet subtract. A [_Grothendieck group construction_](https://en.wikipedia.org/w/index.php?title=Grothendieck_group&oldid=1091622036)[^26] allows us to turn this monoid into a commutative group. We obtain an $\mathbb{R}$-algebra, which is also a vector space. Our original set of "physical" states of knowledge is still a convex subset of that vector space. So if we find or truncate to a finite basis, we can hopefully do convex optimization and duality over it.
 9. Together, addition and multiplication allows us to define formal power series of knowledge. For example, suppose our learner observes the stars with a telescope without making any choices. In an infinitesimal time $\Delta t\to 0$, it observes a supernova with probability $r \Delta t$, generating experimental data $A\in \mathbb{K}$. Otherwise, it observes nothing. If $K(t)$ is the state of knowledge over time, we obtain
 
-   $K(t+\Delta t)\to ((1-r \Delta t)\mathbf{1}+r\Delta t A) K(t)=(\mathbf{1}+r\Delta t (A-\mathbf{1})) K(t)$.
+   $K(t+\Delta t)\to ((1-r \Delta t)\mathbf{1}+r\Delta t A) K(t)$.
 
    This is solved by
 
