@@ -8,7 +8,7 @@ permalink: /research/
 
 ## Research
 
-**Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs**  
+**VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**  
 Zhuofan Ying, Peter Hase, Mohit Bansal  
 *Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2206.11212.pdf) [[code]](https://github.com/zfying/visfis)
 
