@@ -8,9 +8,17 @@ permalink: /research/
 
 ## Research
 
+**Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs**  
+Zhuofan Ying, Peter Hase, Mohit Bansal
+*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2206.11212.pdf) [[code]](https://github.com/zfying/visfis)
+
 **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data**  
 Peter Hase, Mohit Bansal  
 *ACL 2022 Workshop on Natural Language Supervision.* [[pdf v2]](https://peterbhase.github.io/files/when-expl-help-LNLS-ACL2022.pdf) [[pdf v1]](https://arxiv.org/pdf/2102.02201.pdf) [[code]](https://github.com/peterbhase/ExplanationRoles)
+
+**GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models**  
+Archiki Prasad, Peter Hase, Xiang Zhou, Mohit Bansal  
+Preprint on arXiv. [[pdf]](https://arxiv.org/pdf/2203.07281.pdf) [[code]](https://github.com/archiki/GrIPS)
 
 **Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs**  
 Peter Hase, Mona Diab, Asli Celikyilmaz, Xian Li, Zornitsa Kozareva, Veselin Stoyanov, Mohit Bansal, Srinivasan Iyer  
