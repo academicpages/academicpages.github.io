@@ -15,4 +15,4 @@ redirect_from:
 
 Recent news
 ===========
-- Invited talk by Prof. Xuejin Li at Zhejiang University (November 24, 2021) 
+- Yixiang gave an invited talk at [Institue of Fluid Engineering](http://www.zjufluid.org/) hosted by Prof. Xuejin Li  (November 24, 2021. Zhejiang University) 
