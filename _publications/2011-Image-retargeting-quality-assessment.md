@@ -3,7 +3,7 @@ title: "Image retargeting quality assessment"
 collection: publications
 permalink: /publication/2011-Image-retargeting-quality-assessment
 excerpt: ''
-date: 2011-28-04
+date: 2011-04-28
 venue: 'Computer Graphics Forum'
 tags:
   - Journal Publications
