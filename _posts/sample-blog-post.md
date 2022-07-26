@@ -1,7 +1,7 @@
 ---
 title: 'Sample Blog post'
 date: 2022-07-26
-permalink: /posts/2022/07/sample-blog-post/
+permalink: /posts/2022/07/sample-blog-post.md/
 tags:
   - cool posts
   - category1
