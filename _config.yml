@@ -19,7 +19,7 @@ repository               : "aakashkumarnain.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false # Set true for future scheduled blog posts
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Aakash Nain"
   avatar           : "profile.png"
-  bio              : "Senior Data Scientist, TensorFlow-addons maintainer, Google Developers Expert in Machine Learning, JAX GDE"
+  bio              : "Senior Data Scientist, TensorFlow-addons maintainer, Google Developers Expert"
   location         : "New Delhi"
   employer         :
   pubmed           : 
