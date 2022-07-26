@@ -18,7 +18,7 @@ them. I love Python, and that's my primary language to work with. You can find s
 
 I try to remain updated with the latest research as much as possible. Not only do I read a lot of research papers, but I also annotate them to make them 
 simpler to understand. You can visit the [annotated research papers](https://github.com/AakashKumarNain/annotated_research_papers) repo to check out
-all the papers I have annotated to date. You can star it if you are interested in learning about the latest research in the field of Machine Learning and
+all the papers I have annotated to date. You can star that repo if you are interested in learning about the latest research in the field of Machine Learning and
 Deep Learning.
 
 Things I love to discuss:
