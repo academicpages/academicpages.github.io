@@ -32,7 +32,7 @@ The basic plan is as follows:
 6. A vector of nonnegative numbers $\vec{p}\in (\mathbb{R}^+\cup\\\{0\\\})^D$ is represented in $\mathbb{K}$ by a CPM with only one internal memory state. $0$, $1$ and $d\in D$, $D'\subseteq D$ are treated as the all-$0$, all-$1$, and indicator function vectors[^5]. Then in the equivalence classes, $\mathbf{0},\mathbf{1}\in\mathbb{K}$ are neutral w.r.t. addition and multiplication; they correspond to a state of $0$ probability and a state of zero knowledge. We also define $\Omega\in\mathbb{K}$ as the state of complete knowledge.
 7. For an example, suppose the learner is in a SOK $K\in\mathbb{K}$ and should make a binary decision which of two experiments to perform next. So it will perform some probabilistic procedure and save the result in an additional register $R'$ with possible states $1$, $2$. Then the memory states where $R'=1$, and the memory states where $R'=2$, form (non-normalized) SOKs individually that sum to a state obtainable from $K$:
 
-   $K_1+K_2\leq K$.
+   $K_1+K_2\leq K.$
 
    Now suppose the experiments generate additional data that individually correspond to SOKs $E_1,E_2\in \mathbb{K}$. Then the feasible states of knowledge after one more experiment are given by
 
@@ -48,17 +48,17 @@ The basic plan is as follows:
 
    We can chain multiple steps of choosing experiments, starting from complete ignorance, and obtain a convex optimization problem: Suppose we have a (finite for now) set $Q$ of possible experiments, each yielding data $E_q$ for $q\in Q$, and an initial SOK $K^0\in\mathbb{K}$. After $T$ steps, a target SOK $\mathbb{K}^T\in\mathbb{K}$ is achievable iff we can find $K^t_q\in\mathbb{K}$ for $0\leq t<T$, $q\in Q$ such that
 
-   $\sum_{q\in Q} K^0_q = K_0$
+   $\sum_{q\in Q} K^0_q = K_0,$
 
-   $\sum_\{q\in Q\} K^t_q=\sum_\{q\in Q\} K^\{t-1\}_q E_q$ for $1\leq t \leq T-1$
+   $\sum_\{q\in Q\} K^t_q=\sum_\{q\in Q\} K^\{t-1\}_q E_q$ for $1\leq t \leq T-1,$
 
-   $K^T = \sum_\{q\in Q\} K^\{T-1\}_q E_q$.
+   $K^T = \sum_\{q\in Q\} K^\{T-1\}_q E_q.$.
 
    In terms of symbols, this looks completely analogous to the semidefinite program in Barnum-Saks-Szegedy, equations 9-11 [here](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.1101&rep=rep1&type=pdf). The equations for the output conditions, equations 12-13, are equivalent to our output conditions as well.
 
    If such an assignment exists, we can also take a time-average of all the $K^t_q$. Calling these $\overline{K}_q$, we find from adding the equations above that
 
-   $K_0 + T \sum_{q\in Q} \overline{K}_q E_q= K_T + T\sum_{q\in Q}\overline{K}_q$.
+   $K_0 + T \sum_{q\in Q} \overline{K}_q E_q= K_T + T\sum_{q\in Q}\overline{K}_q.$
 
    In quantum query complexity, the requirement that such $\overline{K}_q\in\mathbb{K}$ need to exist for SOKs to be transformable in a given number of experiments yields the _adversary bound_. There, one can apply convex duality to the situation: Feasible solutions of the dual problems yield proofs that given SOKs _aren't_ transformable in a certain number of steps, effectively lower bounds for the complexity of solving that problem.
 
