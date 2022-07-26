@@ -48,17 +48,17 @@ The basic plan is as follows:
 
    We can chain multiple steps of choosing experiments, starting from complete ignorance, and obtain a convex optimization problem: Suppose we have a (finite for now) set $Q$ of possible experiments, each yielding data $E_q$ for $q\in Q$, and an initial SOK $K^0\in\mathbb{K}$. After $T$ steps, a target SOK $\mathbb{K}^T\in\mathbb{K}$ is achievable iff we can find $K^t_q\in\mathbb{K}$ for $0\leq t<T$, $q\in Q$ such that
 
-   $\sum_{q\in Q} K^0_q = K_0,$
+   $\sum_{q\in Q} K^0_q \leq K_0,$
 
-   $\sum_\{q\in Q\} K^t_q=\sum_\{q\in Q\} K^\{t-1\}_q E_q$ for $1\leq t \leq T-1,$
+   $\sum_\{q\in Q\} K^t_q\leq\sum_\{q\in Q\} K^\{t-1\}_q E_q$ for $1\leq t \leq T-1,$
 
-   $K^T = \sum_\{q\in Q\} K^\{T-1\}_q E_q.$.
+   $K^T \leq \sum_\{q\in Q\} K^\{T-1\}_q E_q.$.
 
-   In terms of symbols, this looks completely analogous to the semidefinite program in Barnum-Saks-Szegedy, equations 9-11 [here](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.1101&rep=rep1&type=pdf). The equations for the output conditions, equations 12-13, are equivalent to our output conditions as well.
+   In terms of symbols, this looks analogous to the semidefinite program in Barnum-Saks-Szegedy, equations 9-11 [here](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.1101&rep=rep1&type=pdf). The output conditions, relations 12-13, are equivalent to our output conditions as well.
 
-   If such an assignment exists, we can also take a time-average of all the $K^t_q$. Calling these $\overline{K}_q$, we find from adding the equations above that
+   If such an assignment exists, we can also take a time-average of all the $K^t_q$. Calling these $\overline{K}_q$, we find from adding the inequalities above that
 
-   $K_0 + T \sum_{q\in Q} \overline{K}_q E_q= K_T + T\sum_{q\in Q}\overline{K}_q.$
+   $K_T + T\sum_{q\in Q}\overline{K}_q\leq K_0 + T \sum_{q\in Q} \overline{K}_q E_q$
 
    In quantum query complexity, the requirement that such $\overline{K}_q\in\mathbb{K}$ need to exist for SOKs to be transformable in a given number of experiments yields the _adversary bound_. There, one can apply convex duality to the situation: Feasible solutions of the dual problems yield proofs that given SOKs _aren't_ transformable in a certain number of steps, effectively lower bounds for the complexity of solving that problem.
 
