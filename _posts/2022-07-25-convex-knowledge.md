@@ -7,19 +7,25 @@ tags:
   - cs.cc
   - quant-ph
 ---
-## Motivation
+Consider a learner in a (for now, classical) environment described by a ground truth $d\in D.$ The learner wants to find out something about the environment (e.g. output some function $f(d)$ with low error probability for any $d$). It can't influence $d$ (therefore I don't call it "agent"), but may have a choice of which "experiment" to perform in any step, each yielding probabilistic information $p(\mathrm{result}|d)$. Our basic question is about finding good strategies to achieve such a goal - or proving lower bounds on the required number of steps for some problems.
+
+As in any optimization problem, it would be nice to have a _convex_ description of the possible strategies and intermediate "states of knowledge", i.e. one such that the acceptable strategies and intermediate states
+ 1. form a convex subset of a real vector space,
+ 2. the states are necessary and sufficient to describe the computer's state of knowledge,
+ 3. if two states of knowledge are attainable by the learner, their convex combinations are attainable as well, and
+ 4. if two states allow solving some problem, their convex combinations allow solving that problem as well.
+
+This would allow using the powerful methods of [convex optimization and convex
+duality](https://web.stanford.edu/~boyd/cvxbook/) (to be more precise, [semidefinite programming](https://en.wikipedia.org/w/index.php?title=Semidefinite_programming&oldid=1092453332)) to obtain lower bounds and algorithms.
+
+But a naive description by conditional probability matrices doesn't fulfill the fourth property. For example, if the learner's internal state was some permutation of the environment's state, each individual state would correspond to complete knowledge, but randomly mixing them yields a state of complete ignorance.
+
+The aim of this note is to find a convex description for classical agents/learners.[^2] In contrast to the quantum case, our development doesn't give great bounds on the dimension of the vector space.
+
+## Motivation from quantum query complexity
 (Note: The next paragraph gives motivation from research on quantum query algorithms, but one shouldn't need to know anything about quantum physics or query algorithms to follow the rest of this post.)
 
-A great thing about quantum physics and quantum query algorithms that allowed developments like [Barnum-Saks-Szegedy 2003](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.1101&rep=rep1&type=pdf) - and arguably the [adversary bound - query algorithm duality](https://www.cs.umd.edu/~amchilds/qa/qa.pdf), in particular when developed like [here](https://github.com/qudent/RhoPaths) - is that we have a _convex_ description of the current "state of knowledge" of a quantum query computer about its environment, namely the Gram matrix of the states for different inputs at a given time. This means that the Gram matrices
- - form a convex subset of a real vector space (for normed quantum states, the complex positive semidefinite matrices with all-$1$ diagonal as a subset of the space of Hermitian matrices),
- - are necessary and sufficient to describe the quantum computer's state of knowledge,
- - if two Gram matrices are attainable by some procedures, their convex combinations are attainable as well, and
- - if two Gram matrices allow solving some problem (e.g. computing a function with a certain maximal error probability), their convex combinations allow solving that problem as well.
-
-This allows using the powerful methods of [convex optimization and convex
-duality](https://web.stanford.edu/~boyd/cvxbook/) (to be more precise, [semidefinite programming](https://en.wikipedia.org/w/index.php?title=Semidefinite_programming&oldid=1092453332)) to obtain lower bounds and query algorithms.
-
-The aim of this note is to find such a description for classical agents/learners.[^2] In contrast to the quantum case, our development doesn't give great bounds on the dimension of the vector space.
+A great thing about the quantum analogue of this problem (_quantum query algorithms_) is that such a description exists there, namely the Gram matrix of the states for different inputs at a given time. This means that the Gram matrices. This allowed developments like [Barnum-Saks-Szegedy 2003](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.1101&rep=rep1&type=pdf) - and arguably the [adversary bound - query algorithm duality](https://www.cs.umd.edu/~amchilds/qa/qa.pdf), in particular when developed like [here](https://github.com/qudent/RhoPaths).
 
 ## Sketch of the construction
 The basic plan is as follows:
@@ -98,12 +104,10 @@ The basic plan is as follows:
 	2. We represent mixed quantum theory using purifications: The analogue of the CPMs are pure quantum vectors including a subsystem representing the environment, and the equivalence relation we mod out over includes local operations on the environment.
 
 ## More details
-### The set-up
-TODO: I am sure there are more standard terminologies to describe the appropriate notions, what are they?
+### The set-up/CPMs
+Suppose the learner has stored its previous (probabilistic) knowledge as a state of its internal memory $x\in X$. Consider the _conditional probability matrix_ (CPM) $C=(p(x\mid d))\_{x\in X,d\in D}\in\mathbb{R}^{X\times D}$. Then $C$ is sufficient (but, as we'll see, not necessary) to describe the "knowledge" the learner gathers about the environment for any $d\in D$. For example, if the learner's ultimate goal is to calculate some function $f\colon D\to R$, it does (and has to do) so by applying some probabilistic process $X\to R$, with some transition matrix $T=(p(r\mid x))\_{r\in R,x\in X}$. The appropriate matrix entries of $TC$ contain the probabilities $p(r=f(d)\mid d)$, the success probabilities of that procedure for given $d\in D$.
 
-Consider a (for now, classical) environment described by a state $d\in D.$ An agent (call it "learner", as it doesn't influence the environment) has previously performed some sorts of "experiments" on the environment and stored the (probabilistic) results as a state of its internal memory $x\in X$. The learner knows the basic "rules of physics" yielding a (rectangular) matrix of conditional probabilities $C=(p(x\mid d))\_{x\in X,d\in D}\in\mathbb{R}^{X\times D}$, but doesn't a priori know $d$. We do _not_ require that the conditional probabilities sum to $1$, but do require that they're nonnegative. I'll call such a matrix _conditional probability matrix_ (CPM).
-
-$C$ is sufficient to describe the "knowledge" the learner gathers about the environment for any $d\in D$. For example, if the learner's ultimate goal is to calculate some function $f\colon D\to R$, it does (and has to do) so by applying some probabilistic process $X\to R$, with some transition matrix $T=(p(r\mid x))\_{r\in R,x\in X}$. Then the appropriate matrix entries of $TC$ contain the probabilities $p(r=f(d)\mid d)$, the success probabilities of that procedure for given $d\in D$.
+We formally _don't_ require that the conditional probabilities sum to $1$, but do require that they're nonnegative. If the conditional probabilities sum to $<1$ for some $d\in D$, we can interpret this as a learner that has given up on a problem by a certain time, with some probability.
 
 ### Preorder on transition matrices by transformability
 On the set of CPMs, $\leq$ as discussed in the sketch is a _preorder_ - for any $C,C_1,C_2,C_3$, it fulfills
@@ -128,7 +132,7 @@ A convex combination $p K_1+(1-p)K_2$ now corresponds to a SOK in which, before 
 - When $K_1$ and $K_2$ are feasible in some scheme, their convex combinations are feasible as well,
 - and when $K_1$ and $K_2$ are both individually acceptable for some task (i.e. yield a low enough achievable failure probability), their convex combinations are jointly acceptable as well (as one can achieve the appropriate convex mixtures of failure probabilities).
 
-Note that if we just took convex combinations of our original CPMs, that wouldn't be true. For example, for $X=D$, each permutation matrix corresponds to maximal knowledge of the system, but randomly mixing these corresponds to a state of complete ignorance.
+As mentioned in the introduction, if we just took convex combinations of our original CPMs, that wouldn't be true.
 
 ### The Grothendieck group
 $(\mathbb{K},+)$ forms a commutative _monoid_: There is a neutral element $0\in \mathbb{K}$, represented by any all-$0$ matrix, and addition is associative and commutative. We can turn this into a group, i.e. add enough elements for there to be inverses, by a [_Grothendieck group construction_](https://en.wikipedia.org/w/index.php?title=Grothendieck_group&oldid=1091622036).[^26] This works as follows:
