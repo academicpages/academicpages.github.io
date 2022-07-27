@@ -53,48 +53,64 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+/* ADAPTED FROM AIR SKIN: SKINS/_AIR.SCSS */
+/* changed original variable definitions below to use '!default' so that these
+   definitions would override them */
+$background-color: #eeeeee !default;
+//$text-color: #222831 !default;
+$text-color: $darker-gray !default;
+$muted-text-color: #393e46 !default;
+$primary-color: #0092ca !default;
+$border-color: mix(#fff, #393e46, 75%) !default;
+$footer-background-color: $primary-color !default;
+$link-color: #517fa4 !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+/* END OF AIR SKIN ADAPTATION */
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$body-color                 : #fff !default;
+$background-color           : #fff !default;
+$code-background-color      : #fafafa !default;
+$code-background-color-dark : $light-gray !default;
+$text-color                 : $dark-gray !default;
+$border-color               : $lighter-gray !default;
+
+$primary-color              : #7a8288 !default;
+$success-color              : #62c462 !default;
+$warning-color              : #f89406 !default;
+$danger-color               : #ee5f5b !default;
+$info-color                 : #52adc8 !default;
 
 /* brands */
-$behance-color              : #1769FF;
-$dribbble-color             : #ea4c89;
-$facebook-color             : #3b5998;
-$flickr-color               : #ff0084;
-$foursquare-color           : #0072b1;
-$github-color               : #171516;
-$google-plus-color          : #dd4b39;
-$instagram-color            : #517fa4;
-$lastfm-color               : #d51007;
-$linkedin-color             : #007bb6;
-$pinterest-color            : #cb2027;
-$rss-color                  : #fa9b39;
-$soundcloud-color           : #ff3300;
-$stackoverflow-color        : #fe7a15;
-$tumblr-color               : #32506d;
-$twitter-color              : #55acee;
-$vimeo-color                : #1ab7ea;
-$vine-color                 : #00bf8f;
-$youtube-color              : #bb0000;
-$xing-color                 : #006567;
+$behance-color              : #1769FF !default;
+$dribbble-color             : #ea4c89 !default;
+$facebook-color             : #3b5998 !default;
+$flickr-color               : #ff0084 !default;
+$foursquare-color           : #0072b1 !default;
+$github-color               : #171516 !default;
+$google-plus-color          : #dd4b39 !default;
+$instagram-color            : #517fa4 !default;
+$lastfm-color               : #d51007 !default;
+$linkedin-color             : #007bb6 !default;
+$pinterest-color            : #cb2027 !default;
+$rss-color                  : #fa9b39 !default;
+$soundcloud-color           : #ff3300 !default;
+$stackoverflow-color        : #fe7a15 !default;
+$tumblr-color               : #32506d !default;
+$twitter-color              : #55acee !default;
+$vimeo-color                : #1ab7ea !default;
+$vine-color                 : #00bf8f !default;
+$youtube-color              : #bb0000 !default;
+$xing-color                 : #006567 !default;
 
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : $info-color !default;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color        : $primary-color !default;
+$masthead-link-color-hover  : mix(#000, $primary-color, 25%) !default;
 
 
 /*
