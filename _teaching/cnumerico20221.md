@@ -43,7 +43,11 @@ Listas de Exercícios
 
 Aulas
 ======
-* [Aula 01 - Aritmética de Ponto Flutuante](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_aula01.pdf)
+* [Aula 1 - Aritmética de Ponto Flutuante](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_aula01.pdf)
+
+* [Aula 2 - Aritmética de Ponto Flutuante](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_aula02.pdf)
+
+
 
 Softwares para Download
 ======
