@@ -70,7 +70,7 @@ The basic plan is as follows:
 
    for any natural number $N>0$, $j\in \{0,\ldots,N-1\}$. By the discussion above, these are just the inequalities we need to show that we can transform
 
-   $K_0 + \frac{1}{N}\sum\_{q\in Q}\overline{K}\_q}\rightarrow K_T + \frac{1}{N}\sum\_{q\in Q}\overline{K}\_q}$
+   $K_0 + \frac{1}{N}\sum\_{q\in Q}\overline{K}\_q\rightarrow K_T + \frac{1}{N}\sum\_{q\in Q}\overline{K}\_q$
 
    in $N$ experiments, for any $N$. As we let $N\to \infty$, this roughly shows that we are "almost" able to transform $K_0$ to $K_T$ with this construction. This is an analogue of the universal algorithm dual of the adversary bound, in the way developed [here](https://github.com/qudent/RhoPaths).
 
