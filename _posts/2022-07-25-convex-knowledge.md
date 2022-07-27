@@ -60,7 +60,7 @@ The basic plan is as follows:
 
    If such an assignment exists, we can also take a time-average of all the $K^t_q$. Calling these $\overline{K}_q$, we find from adding the inequalities above that
 
-   $K_T + T\sum_{q\in Q}\overline{K}_q\leq K_0 + T \sum_{q\in Q} \overline{K}_q E_q$
+   $K_T + T\sum\_{q\in Q}\overline{K}\_q\leq K\_0 + T \sum\_{q\in Q} \overline{K}\_q E\_q$
 
    In quantum query complexity, the requirement that such $\overline{K}_q\in\mathbb{K}$ need to exist for SOKs to be transformable in a given number of experiments yields the _adversary bound_. There, one can apply convex duality to the situation: Feasible solutions of the dual problems yield proofs that given SOKs _aren't_ transformable in a certain number of steps, effectively lower bounds for the complexity of solving that problem.
 
