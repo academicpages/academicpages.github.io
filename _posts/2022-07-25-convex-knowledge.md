@@ -54,17 +54,29 @@ The basic plan is as follows:
 
    $\sum_{q\in Q} K^t_q\leq\sum_{q\in Q} K^{t-1}_q E_q$ for $1\leq t \leq T-1,$
 
-   $K^T \leq \sum_{q\in Q} K^\{T-1}_q E_q.$
+   $K^T \leq \sum_{q\in Q} K^{T-1}_q E_q.$
 
    In terms of symbols, this looks analogous to the semidefinite program in Barnum-Saks-Szegedy, equations 9-11 [here](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.1101&rep=rep1&type=pdf). The output conditions (the condition that a SOK allows computing some function with a given maximal error), relations 12-13 in that paper, are equivalent to our output conditions as well.
 
    If such an assignment exists, we can also take a time-average of all the $K^t_q$. Calling these $\overline{K}_q$, we find from adding the inequalities above that
 
-   $K_T + T\sum\_{q\in Q}\overline{K}\_q\leq K\_0 + T \sum\_{q\in Q} \overline{K}\_q E\_q$
+   $K^T + \sum\_{q\in Q}\overline{K}\_q\leq K^0 + \sum\_{q\in Q} \overline{K}\_q E\_q.$
 
    In quantum query complexity, the requirement that such $\overline{K}_q\in\mathbb{K}$ need to exist for SOKs to be transformable in a given number of experiments yields the _adversary bound_. There, one can apply convex duality to the situation: Feasible solutions of the dual problems yield proofs that given SOKs _aren't_ transformable in a certain number of steps, effectively lower bounds for the complexity of solving that problem.
 
-   Assume now that
+   Assume now that we have found such a collection of $\overline{K}\_q\in\mathbb{K}$ that fulfill the above inequality for some $T$. Furthermore, assume the algorithm has the option to "do no experiment" as well, i.e. let $\mathbf{1}$ be in the choices of experiments. Then we can "almost solve" the problem of converting $K_0$ to $K_T$ by following a "straight-line path" of intermediate states: The inequality for the $\overline{K}_q$ implies the inequality
+
+   $\frac{K^0 (N-(j+1)) + K^T (j+1)}{N}\mathbf{1} + \frac{1}{N}\sum\_{q\in Q}\overline{K}\_q \leq \frac{K^0 (N-j) + K^T j}{N}\mathbf{1} + \frac{1}{N}\sum\_{q\in Q} \overline{K}\_q E\_q$
+
+   for any natural number $N>0$, $j\in \{0,\ldots,N-1\}$. By the discussion above, these are just the inequalities we need to show that we can transform
+
+   $\frac{K_0 + \frac{1}{N}\sum\_{q\in Q}\overline{K}\_q}\rightarrow \frac{K_T + \frac{1}{N}\sum\_{q\in Q}\overline{K}\_q}$
+
+   in $N$ experiments, for any $N$. As we let $N\to \infty$, this roughly shows that we are "almost" able to transform $K_0$ to $K_T$ with this construction. This is an analogue of the universal algorithm dual of the adversary bound, in the way developed [here](https://github.com/qudent/RhoPaths).
+
+   Things to work on:
+   1. In the quantum case, one can show a concrete bound on how wrong this algorithm would be for some $N$ when applied to some initial state (rather than the shifted initial state) - basically, by a triangle inequality. One can also do this in an ad-hoc way in the classical case. But I don't have a good way to formalize/abstract this in this algebra right now.
+   2. It is also weird that this construction needs the algorithm's ability to do nothing. In the classical case, if an algorithm decides it needs to do nothing, it can just decide to do the next internal processing step instead. I don't know if this is possible coherently in the quantum case, however. It would be nice to be able to put this construction into the formalism.
 
 8. Our $+$ and $0$ yield a commutative monoid, i.e. we can add and have a neutral element, but can't yet subtract. A [_Grothendieck group construction_](https://en.wikipedia.org/w/index.php?title=Grothendieck_group&oldid=1091622036)[^26] allows us to turn this monoid into a commutative group. We obtain an $\mathbb{R}$-algebra, which is also a vector space.[^27] Our original set of "physical" states of knowledge is still a convex subset of that vector space. So if we find or truncate to a finite basis, we can hopefully do convex optimization and duality over it.
 9. Together, addition and multiplication allows us to define formal power series of knowledge. For example, suppose our learner observes the stars with a telescope without making any choices. In an infinitesimal time $\Delta t\to 0$, it observes a supernova with probability $r \Delta t$, generating experimental data $A\in \mathbb{K}$. Otherwise, it observes nothing. If $K(t)$ is the state of knowledge over time, we obtain
