@@ -19,6 +19,7 @@ In 2020, I joined [Bosch Research](https://www.bosch.us/our-company/bosch-in-the
 
 News
 ======
+* [2022/07/27] &nbsp; I will serve as an Area Chair for BMVC 2022.
 * [2022/07/10] &nbsp; Our paper "Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing" is accepted by ECCV 2022 as poster paper. The code will be released soon!
 * [2022/07/10] &nbsp; Our paper "Multi-domain Learning for Updating Face Anti-spoofing Models" is accepted by ECCV 2022 as oral paper. The code will be released soon!
 * [2022/05/10] &nbsp; Our paper "Spoof Trace Disentanglement for Generic Face Anti-Spoofing" is accepted by TPAMI. The code will be released soon!
