@@ -72,7 +72,7 @@ The basic plan is as follows:
 
    $K_0 + \frac{1}{N}\sum\_{q\in Q}\overline{K}\_q\rightarrow K_T + \frac{1}{N}\sum\_{q\in Q}\overline{K}\_q$
 
-   in $N$ experiments, for any $N$. As we let $N\to \infty$, this roughly shows that we are "almost" able to transform $K_0$ to $K_T$ with this construction. This is an analogue of the universal algorithm dual of the adversary bound, in the way developed [here](https://github.com/qudent/RhoPaths).
+   in $N$ experiments, for any $N$, where the intermediate states are convex mixtures of the initial and the final state. As we let $N\to \infty$, this roughly shows that we are "almost" able to transform $K_0$ to $K_T$ with this construction. This is an analogue of the universal algorithm dual of the adversary bound, in the way developed [here](https://github.com/qudent/RhoPaths).
 
    Things to think about:
    1. In the quantum case, one can show a concrete bound on how wrong this algorithm would be for some $N$ when applied to some initial state (rather than the shifted initial state) - basically, by a triangle inequality. One can also do this in an ad-hoc way in the classical case. But I don't have a good way to formalize/abstract this in this algebra right now.
