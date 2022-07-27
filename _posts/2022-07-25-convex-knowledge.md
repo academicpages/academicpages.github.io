@@ -23,9 +23,9 @@ But a naive description by conditional probability matrices doesn't fulfill the 
 The aim of this note is to find a convex description for classical agents/learners.[^2] In contrast to the quantum case, our development doesn't give great bounds on the dimension of the vector space.
 
 ## Motivation from quantum query complexity
-(Note: The next paragraph gives motivation from research on quantum query algorithms, but one shouldn't need to know anything about quantum physics or query algorithms to follow the rest of this post.)
+(Note: One shouldn't need to know anything about quantum physics or query algorithms to follow the rest of this post.)
 
-A great thing about the quantum analogue of this problem (_quantum query algorithms_) is that such a description exists there, namely the Gram matrix of the states for different inputs at a given time. This means that the Gram matrices. This allowed developments like [Barnum-Saks-Szegedy 2003](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.1101&rep=rep1&type=pdf) - and arguably the [adversary bound - query algorithm duality](https://www.cs.umd.edu/~amchilds/qa/qa.pdf), in particular when developed like [here](https://github.com/qudent/RhoPaths).
+A great thing about the quantum analogue of this problem (_quantum query algorithms_) is that such a description exists there, namely the Gram matrix of the states for different inputs at a given time. This allowed developments like [Barnum-Saks-Szegedy 2003](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.1101&rep=rep1&type=pdf) - and arguably the [adversary bound - query algorithm duality](https://www.cs.umd.edu/~amchilds/qa/qa.pdf), in particular when developed like [here](https://github.com/qudent/RhoPaths).
 
 ## Sketch of the construction
 The basic plan is as follows:
