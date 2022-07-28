@@ -59,4 +59,4 @@ Invited Talks
 Professional Service
 ======
 
-Reviewer: IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Circuits and Systems for Video Technology
+Reviewer: IEEE TNNLS, IEEE TCSVT
