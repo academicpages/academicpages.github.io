@@ -14,6 +14,7 @@ Education
 * Ph.D in ECE, Queen's University at Kingston, ON, Canada, -
 * MASc in ECE, Queen's University at Kingston, ON, Canada, 2022
 * Meng in ECE, Queen's University at Kingston, ON, Canada, 2019
+* Summer School, Imperial College London, UK, 2014
 * Bachelor, Nanjing Forestry University, Nanjing, China, 2017
 
 Work experience
