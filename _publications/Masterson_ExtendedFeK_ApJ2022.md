@@ -5,7 +5,7 @@ permalink: /publication/ExtendedFeK_paper
 excerpt: ''
 date: 2022-07-21
 venue: 'ApJ'
-paperurl: '[https://ui.adsabs.harvard.edu/abs/2022arXiv220605140M/abstract](https://ui.adsabs.harvard.edu/abs/2022arXiv220710686M/abstract)'
+paperurl: 'https://ui.adsabs.harvard.edu/abs/2022arXiv220710686M/abstract'
 citation: 'Masterson, M. & Reynolds, C.S. (2022). <i>accepted for publication in ApJ</i>. '
 ---
 
