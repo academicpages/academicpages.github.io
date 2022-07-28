@@ -7,6 +7,10 @@ tags:
   - cs.cc
   - quant-ph
 ---
+## Abstract
+I develop a convex description of a classical (or quantum) learner's state of knowledge, which allows using convex optimization and duality on problems related to it.
+
+## Introduction
 Consider a learner in a (for now, classical) environment described by a ground truth $d\in D.$ The learner wants to find out something about the environment (e.g. output some function $f(d)$ with low error probability for any $d$). It can't influence $d$ (therefore I don't call it "agent"), but may have a choice of which "experiment" to perform in any step, each yielding probabilistic information $p(\mathrm{result}|d)$. Our basic question is about finding good strategies to achieve such a goal - or proving lower bounds on the required number of steps for some problems.
 
 As in any optimization problem, it would be nice to have a _convex_ description of the possible strategies and intermediate "states of knowledge", i.e. one such that the acceptable strategies and intermediate states
