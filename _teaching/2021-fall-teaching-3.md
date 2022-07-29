@@ -8,5 +8,4 @@ date: 2021-09-01
 location: "Kingston, ON, Canada"
 ---
 
-<iframe   src="https://www.ece.queensu.ca/undergraduate/courses/elec-474.html" width="480" height="640"   frameborder="1/0"  name="elec280"     scrolling="auto">   
-</iframe>
+Course Web Page: https://www.ece.queensu.ca/undergraduate/courses/elec-474
