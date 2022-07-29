@@ -2,9 +2,11 @@
 title: "ELEC 280 Fundamentals of Electromagnetics Summer 21"
 collection: TA
 type: "Undergraduate course"
-permalink: https://www.ece.queensu.ca/undergraduate/courses/elec-280.html
+permalink: /teaching/elec280-summer-21
 venue: "Queen's University, ECE"
 date: 2021-05-01
 location: "Kingston, ON, Canada"
 ---
 
+<iframe   src="https://www.ece.queensu.ca/undergraduate/courses/elec-280.html" width="480" height="640"   frameborder="1/0"  name="elec280"     scrolling="auto">   
+</iframe>
