@@ -65,6 +65,13 @@ redirect_from:
 - Howard P. Stabler Prize in Physics, Williams College (2010)
 - Barry M. Goldwater Scholarship (2009)
 
+## White papers
+
+- M Santiago, **SW Olesen**. Pathogen biomarkers in wastewater, stool, and
+  urine: an informal literature survey. [Biobot Analytics](http://biobot.io/wp-content/uploads/2022/05/2022-04-28-Pathogen-lit-survey-combined.pdf) (Apr 2022).
+- A Young, **SW Olesen**. Interpreting Covid-19 wastewater data from buildings. [Biobot Analytics](http://biobot.io/wp-content/uploads/2022/04/Brief-Interpreting-Covid-19-wastewater-data-from-buildings-1.pdf) (May 2022).
+- **SW Olesen**. Effective concentration: a future-proof approach to characterizing pathogen concentrations in wastewater. [Biobot Analytics](http://biobot.io/wp-content/uploads/2022/02/2022-01-White-paper-Effective-concentration.pdf) (Feb 2022).
+
 ## Publications
 
 {% for pub in site.data.publications %}
