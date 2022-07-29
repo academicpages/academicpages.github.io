@@ -13,6 +13,8 @@ location: "United States"
 <b><big> Project Mentor, Neuromatch Academy - Computational Neuroscience </big></b><br> <b> July 2022 – Aug. 2022 </b>
 * Mentored 10 graduate students in conducting projects related to fMRI data analyses and computational modeling, including experimental design, data analyses, academic writing, and giving presentations.
 
+<br>
+
 <b><big> Cascading Mentorship Program Group Leader, UCI </big></b><br> <b> Summer 2021 – June 2022 </b>
 * Provided research mentorship to 6 Ph.D. students, including making individual development plans, writing academic papers, applying for funding, giving conference presentations, etc.
 
