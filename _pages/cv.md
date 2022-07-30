@@ -58,22 +58,27 @@ Colorado State University
 Publications
 ======
 
-(See here)[https://jkboualavong.github.io/publications/]
-
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications limit:2 %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+[More here](https://jkboualavong.github.io/publications/)
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+
+  <ul>{% for post in site.talks limit:2 %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
+[More here](https://jkboualavong.github.io/talks/)
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+
+  <ul>{% for post in site.teaching limit:1 %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+[More here](https://jkboualavong.github.io/teaching/)
 
