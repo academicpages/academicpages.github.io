@@ -1,4 +1,6 @@
 _site/
 
+*.Rproj.user
+*.Rhistory
+*.ztr-directory
 .Rproj.user
-.Rhistory

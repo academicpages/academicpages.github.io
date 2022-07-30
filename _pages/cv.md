@@ -22,7 +22,7 @@ Work experience
 Pennsylvania State University
 --------------
 
-* 07/2019: Science U: Water Heroes
+07/2019: Science U: Water Heroes
 
 University of Strathclyde
 --------------
@@ -57,6 +57,9 @@ Colorado State University
 
 Publications
 ======
+
+(See here)[https://jkboualavong.github.io/publications/]
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
