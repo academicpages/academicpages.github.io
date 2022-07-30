@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yixin Liu (刘奕鑫)"
+title                    : "Yixin Liu"
 title_separator          : "-"
 name                     : &name "Yixin Liu"
 description              : &description "personal description"
