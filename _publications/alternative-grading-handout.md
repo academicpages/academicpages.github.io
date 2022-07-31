@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/alternative-grading-handout
 date: 2021-12-31
 venue: 'Unpublished'
-citation: '__D. Lewis__, _Alternative Grading_.
+citation: '__D. Lewis__, _Alternative Grading_.'
 ---
 
 Two page handout summarizing commonalities and distinctions among the most popular varieties of alternative grading. Licenced under CC-BY-SA-4.0
