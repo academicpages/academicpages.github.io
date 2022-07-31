@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Filipp Fiocchio"
+title: Filippo Fiocchi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
