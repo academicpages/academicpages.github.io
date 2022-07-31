@@ -23,6 +23,7 @@ My research interests are broadly defined at the intersection of Data Science, B
 
 # News
 
+- **August, 2022:** Thank you to  Commonwealth Cyber Initiative (CCI) for funding our proposal on ML-based automated code repair. Looking foward to working with PI Daphne Yao and Co-PI Bimal Viswanath.
 - **June, 2022:** Will be giving a keynote at [ACM PETRA 2022](http://www.petrae.org/keynote.html). Also serving as the PETRA'22 Doctoral Consortium Chair. Looking forward to meeting students and conference attendees. 
 - **April, 2022:** Thrilled to join the [NeurIPS 2022 Organizing Commitee](https://nips.cc/Conferences/2022/Committees) as an Expo co-Chair!
 - **March, 2022:** Gave a talk at the [Women in STEM Mentoring Seminars](https://www.w-stem.org/home). Slides are available [here](https://www.w-stem.org/resources). 
