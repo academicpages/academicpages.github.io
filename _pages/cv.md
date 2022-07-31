@@ -43,8 +43,8 @@ Research Experience
 * Research Assistant, the University of Chicago Booth School of Business (Sept 2021 – Current)
   * Assisted Professor Emanuele Colonnelli on multiple research projects.
   * Created surveys and randomized investor profiles to implement a modified approach in Kessler, Low, and Sullivan (2019).
-  * Conducted literature reviews of development finance institutions (DFIs) and Bartik instruments, and suggested identification strategies for the impact of DFIs.
-  * Devised Python program to transform pilot survey results to data sets.
+  * Conducted literature review and devised identification strategies for the impact of VC activities in emerging markets.
+  * Constructed Python program to transform pilot survey results to data sets.
   * Collected and merged different data sets for Brazilian firms.
 
 * Research Assistant, the University of Chicago Booth School of Business (Sept 2021 – Jan 2022)
