@@ -24,13 +24,11 @@ Awards
 
 Work experience
 ======
-* July 2022-Current: Research Assistant
-  * University Bologna
+* July 2022-Current: Research Assistant, University Bologna
   * Duties included: Comparing approaches to estimate the number of clusters for K-quantiles clustering.
   * Supervisor: Christian Hennig
 
-* Summer 2021: Data Scientist
-  * MindIT
+* Summer 2021: Data Scientist, MindIT
   * Duties included: •	Conducting data analysis and causal inference on retailer data using Python
   
 
