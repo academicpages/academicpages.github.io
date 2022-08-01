@@ -3,7 +3,7 @@ title: "Cascade Keypoint Voting for Point Cloud Based 6DoF Pose Estimation"
 collection: publications
 permalink: /publication/ckvpose
 excerpt: 'pending...'
-date: 2022-10-23
+date: 2022-09-12
 venue: '3DV 2022'
 paperurl: 'pending...'
 citation: 'Yangzheng Wu, Alireza Javaheri, Mohsen Zand and Michael Greenspan.
