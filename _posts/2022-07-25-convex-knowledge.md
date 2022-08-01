@@ -7,8 +7,22 @@ tags:
   - cs.cc
   - quant-ph
 ---
+(major rewrite+updates ongoing, old version [here](https://github.com/qudent/qudent.github.io/blob/935968fec7d4e89e7953f460d1c2b1093bf0da6b/_posts/2022-07-25-convex-knowledge.md))
 ## Abstract
-I develop a convex description of a classical (or quantum) learner's state of knowledge, which allows using convex optimization and duality on problems related to it.
+I develop a convex description of a classical (or quantum) learner's or agent's state of knowledge and environmental state, which allows using convex optimization and duality on problems related to it.
+
+(Remark: This note does discuss the quantum case, but if you overread the references to QM, you should still be able to follow the classical part).
+## Setup
+## Sets
+Consider an agent within its environment, with some internal memory and 
+1. In the classical case, we describe the situation by a probability matrix $(p_{dw})$,
+
+## Transformation, equivalence relations
+
+## Operations
+The basic plan is as follows:
+1. We start with a naive description of states of knowledge [of an agent about its environment] as collections/matrices of conditional probabilities p(internal memory state|environmental ground truth)≥0; for now, we drop the requirement that the conditional probabilities sum to $1$ for any possible ground truth. We call these CPMs (conditional probability matrices); we consider all possible sets of internal memory states at once (i.e. don't fix the number of rows). The set of possible ground truths is fixed; we denote it by $D$.
+
 
 ## Introduction
 Consider a learner in a (for now, classical) environment described by a ground truth $d\in D.$ The learner wants to find out something about the environment (e.g. output some function $f(d)$ with low error probability for any $d$). It can't influence $d$ (therefore I don't call it "agent"), but may have a choice of which "experiment" to perform in any step, each yielding probabilistic information $p(\mathrm{result}|d)$. Our basic question is about finding good strategies to achieve such a goal - or proving lower bounds on the required number of steps for some problems.
@@ -31,9 +45,7 @@ The aim of this note is to find a convex description for classical agents/learne
 
 A great thing about the quantum analogue of this problem (_quantum query algorithms_) is that such a description exists there, namely the Gram matrix of the states for different inputs at a given time. This allowed developments like [Barnum-Saks-Szegedy 2003](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.113.1101&rep=rep1&type=pdf) - and arguably the [adversary bound - query algorithm duality](https://www.cs.umd.edu/~amchilds/qa/qa.pdf), in particular when developed like [here](https://github.com/qudent/RhoPaths).
 
-## Sketch of the construction
-The basic plan is as follows:
-1. We start with a naive description of states of knowledge [of an agent about its environment] as collections/matrices of conditional probabilities p(internal memory state|environmental ground truth)≥0; for now, we drop the requirement that the conditional probabilities sum to $1$ for any possible ground truth. We call these CPMs (conditional probability matrices); we consider all possible sets of internal memory states at once (i.e. don't fix the number of rows). The set of possible ground truths is fixed; we denote it by $D$.
+
 2. For CPMs $C_1,C_2$, we write that $C_1\leq C_2$ iff the agent/learner can transform $C_2$ into $C_1$ by a probabilistic transformation without any interaction with the environment. Input and output dimensions are not necessarily equal, and transition probabilities must sum to **at most** $1$.[^3] Clearly, this means that $C_1$ corresponds to "at most as much knowledge" as $C_2$.
 3. We say $C_1$ and $C_2$ are equivalent iff $C_1\leq C_2$ and $C_2\leq C_1$. We define the set of **states of knowledge** (SOKs), $\mathbb{K}$, by modding out this equivalence relation from the set of CPMs. Mathematically, $\leq$ was a preorder on the CPMs and becomes a partial order on $\mathbb{K}$.
 4. On $\mathbb{K}$, we define multiplication with a nonnegative scalar elementwise, and addition by a **direct sum** of the matrices making up the summands (i.e. taking a disjoint union of the internal memory states, and collecting the conditional probabilities). We can check this behaves well with the equivalence relation. We can also check that addition behaves well with our notion of $\leq$, i.e. $K_1\leq K_2$ iff $K_1+K_3\leq K_2+K_3$. Mathematically, we arrive at a structure called an "[ordered semigroup](https://en.wikipedia.org/w/index.php?title=Ordered_semigroup&oldid=978175111)", which we will turn into an ordered group in step 8. With these definitions, $\mathbb{K}$ is a convex set to which the same intuitions as listed for Gram matrices above apply.[^4]
