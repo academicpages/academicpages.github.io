@@ -17,7 +17,7 @@ author_profile: true
 
 ## Working Papers
 
-> [**Do Bigger Legislatures Lead to Bigger Government? Evidence from a Brazilian Municipal Council Reform**](http://henriqueveras.github.io/files/2021_Municipal_Councils.pdf) *Under Review*   
+> [**Do Bigger Legislatures Lead to Bigger Government? Evidence from a Brazilian Municipal Council Reform**](http://henriqueveras.github.io/files/2021_Municipal_Councils.pdf) *Revise & Resubmit*   
 With Evan Kresch, Rodrigo Schneider, and Mark Walker
 
 > [**Early-Life Exposure to Malaria and Adult Mortality: Evidence from the Brazilian Eradication Campaign**](https://drive.google.com/file/d/1dIZK5thBKYu-IsduU5E65SdG_z4sQW8h/view?usp=sharing)  
