@@ -11,13 +11,20 @@ tags:
 ## Abstract
 I develop a convex description of a classical (or quantum) learner's or agent's state of knowledge and environmental state, which allows using convex optimization and duality on problems related to it.
 
-(Remark: This note does discuss the quantum case, but if you overread the references to QM, you should still be able to follow the classical part).
+(Remark: This note does discuss the quantum case, but if you overread the references to quantum physics, you should still be able to follow the classical part).
 ## Setup
 ## Sets
-Consider an agent within its environment, with some internal memory and 
-1. In the classical case, we describe the situation by a probability matrix $(p_{dw})$,
+Consider an agent within an environment described by $e\in E$, with some internal memory state $m\in M$.
+1. In the classical case, we describe the situation by a probability matrix $(p_{em})_{(e,m)\in E\times M}\in(\mathbb{R}^+)^{E\times M}$, where $\mathbb{R}^+$ denotes the set of **nonnegative** real numbers,
+2. in the quantum case without decoherence, we have a bipartite quantum state $(\phi_{em})_{(e,m)\in E\times M}\in\mathbb{C}^{E\times M}$, and
+3. we model the quantum case with decoherence by adding an additional subsystem $D$ into which the state is supposed to have decohered, and and consider a pure quantum state $(\phi_{dem})_{(d,e,m)\in D\times E\times M}\in\mathbb{C}^{D\times E\times M}$ again.[^1]
 
-## Transformation, equivalence relations
+For a fixed $E$, we obtain and denote sets of possible situations
+1. $\mathcal{S'}\_{\mathrm{class}}=\{(M,P)\mid |M|<\infty, P\in(\mathbb{R}^+)^{E\times M}\}$,
+2. $\mathcal{S'}\_{\mathrm{quant}}=\{(M,\Psi)\mid |M|<\infty, \Psi\in\mathbb{C}^{E\times M}\}$,
+3. $\mathcal{S'}\_{\mathrm{decoh}}=\{(D,M,\Psi)\mid |D|<\infty, |M|<\infty, \Psi\in\mathbb{C}^{D\times E\times M}\}$.
+
+## Transformation and equivalence relations
 
 ## Operations
 The basic plan is as follows:
@@ -165,6 +172,8 @@ We can also define multiplication on $\mathbb{K}\_\pm$. Keeping in mind that $(K
 Any $\mathbb{R}$-algebra is an $\mathbb{R}$-vector space, but the dimension of the space will probably be infinite in general. Textbook convex optimization is done in Euclidean space (i.e. $\mathbb{R}^n$ with $n$ finite);[^17] we can truncate our space to a finite basis, and for a given finite set of possible experiments taking values in a finite set, we should be able to find a basis that covers any given finite number of observations. But I don't fully understand whether/to what extent the nice ideas of duality and similar would still work in our situation.
 
 ## Footnotes
+[^1]: We could have defined it by density operators as well, but it seems to me that the formalism introduced later won't easily work that way anymore.
+
 [^2]: Point 10.2 of the sketch hints at mixed quantum states, but I don't want to swear that this works because I didn't check the details so far.
 [^3]: Allowing transition probabilities that sum to less than 1 - i.e. allowing to lose probability mass - won't change the equivalence relation/classes, but is helpful for describing the output condition of a query algorithm later.
 [^4]: We could have exchanged the order of steps $2$ and $3$.
