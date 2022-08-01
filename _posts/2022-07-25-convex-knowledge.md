@@ -7,22 +7,26 @@ tags:
   - cs.cc
   - quant-ph
 ---
-(major rewrite+updates ongoing, old version [here](https://github.com/qudent/qudent.github.io/blob/935968fec7d4e89e7953f460d1c2b1093bf0da6b/_posts/2022-07-25-convex-knowledge.md))
+(major rewrite+updates ongoing, old version [here](https://github.com/qudent/qudent.github.io/blob/935968fec7d4e89e7953f460d1c2b1093bf0da6b/_posts/2022-07-25-convex-knowledge.md)). The old version is more verbose/philosophical, in this one, I try to be more on-point.
 ## Abstract
-I develop a convex description of a classical (or quantum) learner's or agent's state of knowledge and environmental state, which allows using convex optimization and duality on problems related to it.
+I develop a convex description of a classical or quantum learner's or agent's state of knowledge and environmental state, which would allow using convex optimization and duality on problems related to optimal learning or actions if one restricted to finite-dimensional vector spaces.
 
-(Remark: This note does discuss the quantum case, but if you overread the references to quantum physics, you should still be able to follow the classical part).
-## Setup
+(Remark: If you don't know quantum physics, you should be able to follow the non-quantum part if you skip the references to that).
 ## Sets
 Consider an agent within an environment described by $e\in E$, with some internal memory state $m\in M$.
 1. In the classical case, we describe the situation by a probability matrix $(p_{em})_{(e,m)\in E\times M}\in(\mathbb{R}^+)^{E\times M}$, where $\mathbb{R}^+$ denotes the set of **nonnegative** real numbers,
 2. in the quantum case without decoherence, we have a bipartite quantum state $(\phi_{em})_{(e,m)\in E\times M}\in\mathbb{C}^{E\times M}$, and
 3. we model the quantum case with decoherence by adding an additional subsystem $D$ into which the state is supposed to have decohered, and and consider a pure quantum state $(\phi_{dem})_{(d,e,m)\in D\times E\times M}\in\mathbb{C}^{D\times E\times M}$ again.[^1]
 
-For a fixed $E$, we obtain and denote sets of possible situations
-1. $\mathcal{S'}\_{\mathrm{class}}=\{(M,P)\mid |M|<\infty, P\in(\mathbb{R}^+)^{E\times M}\}$,
-2. $\mathcal{S'}\_{\mathrm{quant}}=\{(M,\Psi)\mid |M|<\infty, \Psi\in\mathbb{C}^{E\times M}\}$,
-3. $\mathcal{S'}\_{\mathrm{decoh}}=\{(D,M,\Psi)\mid |D|<\infty, |M|<\infty, \Psi\in\mathbb{C}^{D\times E\times M}\}$.
+For a fixed $E$, we denote and define sets of possible situations
+1. $\mathcal{S'}\_{\mathrm{class}}=\left\{(M,P)\mid |M|<\infty, P\in(\mathbb{R}^+)^{E\times M}\right\}$,
+2. $\mathcal{S'}\_{\mathrm{quant}}=\left\{(M,\Psi)\mid |M|<\infty, \Psi\in\mathbb{C}^{E\times M}\right\}$,
+3. $\mathcal{S'}\_{\mathrm{decoh}}=\left\{(D,M,\Psi)\mid |D|<\infty, |M|<\infty, \Psi\in\mathbb{C}^{D\times E\times M}\right\}$.
+
+In other words, we do not fix $M$ and $D$ (or limit their sizes), but consider them part of the description. Furthermore, we don't force the classical probability distributions or quantum states to be normalized.
+
+We define addition and multiplication on $M$ as follows:
+1. $\mathcal{S'}\_{\mathrm{class}}=$
 
 ## Transformation and equivalence relations
 
