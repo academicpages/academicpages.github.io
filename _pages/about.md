@@ -10,8 +10,8 @@ redirect_from:
 
 I am a Data Scientist with 5+ years of experience in the industry. Currently, I am working as a **Senior Data Scientist** at [H2O.ai](https://h2o.ai/).
 I am one of the maintainers of the **[TensorFlow-addons](https://www.tensorflow.org/addons)** package. I am also a **Google Developers Expert** in Machine
-Learning, and the **first [JAX](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) GDE**. I am an active [Keras](https://keras.io) contributor.
-I have created the following code examples:
+Learning, and the **first [JAX](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) GDE**. I am an active [Keras](https://keras.io) contributor,
+and I have contributed the following code examples:
 
 1. [OCR model for reading captchas](https://keras.io/examples/vision/captcha_ocr/)
 2. [Handwriting recognition](https://keras.io/examples/vision/handwriting_recognition/)
