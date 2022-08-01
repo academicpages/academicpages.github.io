@@ -69,10 +69,10 @@ transfer surplus Department of Defense property to “federal and state
 agencies for use in counter-drug activities” and this was expanded to
 the 1033 program in 1997 (see
 [here](https://web.archive.org/web/20141202031945/http://www.dispositionservices.dla.mil/leso/pages/1033programfaqs.aspx#q1#q1)
-for details). The program was [suspended by Obama in
-2014](https://www.usatoday.com/story/news/politics/2015/05/18/obama-police-military-equipment-sales-new-jersey/27521793/)
-before being [restored by Trump in
-2017](https://www.nytimes.com/2017/08/28/us/politics/trump-police-military-surplus-equipment.html).
+for details). The program was [suspended by Obama
+in 2014](https://www.usatoday.com/story/news/politics/2015/05/18/obama-police-military-equipment-sales-new-jersey/27521793/)
+before being [restored by Trump
+in 2017](https://www.nytimes.com/2017/08/28/us/politics/trump-police-military-surplus-equipment.html).
 
 The [Marshall Project](https://www.themarshallproject.org/) has an
 [online
@@ -109,7 +109,7 @@ plot marks the suspension of the 1033 program from 2014 to 2017. While
 some states like Connecticut and New Mexico demonstrate a freeze in
 transfers during this period, others like Tennessee and New Jersey
 continued to receive multiple vehicles. To date, the state that has
-received the most MRAPs is Texas with a whopping 118 vehicles.
+received the most MRAPs is Texas with a whopping 119 vehicles.
 
 # Thinking about the future
 
