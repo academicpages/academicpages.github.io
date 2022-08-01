@@ -8,5 +8,5 @@ date: 2022-01-01
 location: "Kingston, ON, Canada"
 ---
 
-Course Web Page: https://www.ece.queensu.ca/undergraduate/courses/elec-274.html
+Course Web Page: [ELEC274](https://www.ece.queensu.ca/undergraduate/courses/elec-274.html)
 

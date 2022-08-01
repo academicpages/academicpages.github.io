@@ -1,5 +1,5 @@
 ---
-title: "ELEC 274 Computer Architecture Winter 21"
+title: ["ELEC 274 Computer Architecture Winter 21"](https://www.ece.queensu.ca/undergraduate/courses/elec-274.html)
 collection: TA
 type: "Undergraduate course"
 permalink: /teaching/elec274-winter-21
