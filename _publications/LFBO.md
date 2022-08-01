@@ -7,7 +7,7 @@ date: 2022-5-20
 citation: 'Jiaming Song*, <b>Lantao Yu</b>* (equal contribution), Willie Neiswanger, Stefano Ermon.
 <i>The 39th International Conference on Machine Learning</i>. <b>ICML 2022</b>. <b> <span style="color:red">(Long Oral, Top 2.2%)</span> </b>' 
 ---
-[[PDF]](https://arxiv.org/pdf/2206.13035.pdf) [[Website]](https://lfbo-ml.github.io/) [[Code]](https://github.com/lfbo-ml/lfbo)
+[[PDF]](https://arxiv.org/pdf/2206.13035.pdf) [[Website]](https://lfbo-ml.github.io/) [[Code]](https://github.com/lfbo-ml/lfbo) [[Poster]](https://lantaoyu.github.io/files/icml2022-lfbo-poster.pdf)
 
 
 ## Abstract
