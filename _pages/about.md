@@ -17,6 +17,7 @@ For more information, please refer to my [CV](https://ChenTangMark.github.io/fil
 
 News 
 ======
+- 07/2022: We are organizing the [workshop on Progress and Challenges in Building Trustworthy Embodied AI](https://sites.google.com/berkeley.edu/trustworthy-embodied-ai/home) at NeurIPS 2022! Check it out if you are interested in participating the workshop or submitting your latest research on trustworthy AI!
 - 07/2022: [One paper](https://arxiv.org/abs/2204.10435) on trajectory prediction pretraining is accepted by ECCV 2022. 
 - 06/2022: Selected for [DSCD Rising Stars Invited Talks](https://mecc2022.a2c2.org/events.html) at MECC 2022. 
 - 06/2022: Three papers are accepted by IROS 2022. 
