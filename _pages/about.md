@@ -10,7 +10,14 @@ redirect_from:
 
 I am a Data Scientist with 5+ years of experience in the industry. Currently, I am working as a **Senior Data Scientist** at [H2O.ai](https://h2o.ai/).
 I am one of the maintainers of the **[TensorFlow-addons](https://www.tensorflow.org/addons)** package. I am also a **Google Developers Expert** in Machine
-Learning, and the **first [JAX](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) GDE**. 
+Learning, and the **first [JAX](https://jax.readthedocs.io/en/latest/notebooks/quickstart.html) GDE**. I am an active [Keras](https://keras.io) contributor.
+I have created the following code examples:
+
+1. [OCR model for reading captchas](https://keras.io/examples/vision/captcha_ocr/)
+2. [Handwriting recognition](https://keras.io/examples/vision/handwriting_recognition/)
+3. [Image captioning](https://keras.io/examples/vision/image_captioning/)
+4. [WGAN-GP](https://keras.io/examples/generative/wgan_gp/)
+5. [CycleGAN](https://keras.io/examples/generative/cyclegan/)
 
 In terms of work, my knowledge in the field of Data Science and Machine Learning spans in **T-shape**. Though I have worked in multiple domains, Computer
 Vision with Deep Learning is my favorite field to work with. I love simplifying Data Science and Machine Learning concepts, especially the maths behind
