@@ -8,4 +8,4 @@ date: 2021-05-01
 location: "Kingston, ON, Canada"
 ---
 
-Course Web Page: https://www.ece.queensu.ca/undergraduate/courses/elec-280.html
+Course Web Page: [ELEC280](https://www.ece.queensu.ca/undergraduate/courses/elec-280.html)
