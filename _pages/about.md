@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently a postdoctoral fellow (working with Prof. Junhui Wang) in Department of Statistics, Chinese University of Hong Kong. Before that, I was a postdoctoral fellow at City University of Hong Kong from August 2021 to July 2022. I received Ph.D. degree in Statistics (supervised by Prof. Zhiliang Ying) from Shanghai Center for Mathematical Sciences, Fudan University in July 2016, and B.S. degree in Mathematics from Fudan University. My research interests include statistical machine learning and its applications in network analysis, computation and statistical theory for high dimensional latent variable model, etc. 
+I am currently a postdoctoral fellow (working with Prof. Junhui Wang) in Department of Statistics, Chinese University of Hong Kong. Before that, I was a postdoctoral fellow at City University of Hong Kong from August 2021 to July 2022. I received Ph.D. degree in Statistics (supervised by Prof. Zhiliang Ying) from Shanghai Center for Mathematical Sciences, Fudan University in July 2021, and B.S. degree in Mathematics from Fudan University. My research interests include statistical machine learning and its applications in network analysis, computation and statistical theory for high dimensional latent variable model, etc. 
 
 
 A data-driven personal website
