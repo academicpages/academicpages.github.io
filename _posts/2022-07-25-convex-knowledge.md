@@ -8,27 +8,54 @@ tags:
   - quant-ph
 ---
 (major rewrite+updates ongoing, old version [here](https://github.com/qudent/qudent.github.io/blob/935968fec7d4e89e7953f460d1c2b1093bf0da6b/_posts/2022-07-25-convex-knowledge.md)). The old version is more verbose/philosophical, in this one, I try to be more on-point.
-## Abstract
+## 1. Abstract
 I develop a convex description of a classical or quantum learner's or agent's state of knowledge and environmental state, which would allow using convex optimization and duality on problems related to optimal learning or actions if one restricted to finite-dimensional vector spaces.
 
 (Remark: If you don't know quantum physics, you should be able to follow the non-quantum part if you skip the references to that).
-## Sets
+
+## 2. Sets
 Consider an agent within an environment described by $e\in E$, with some internal memory state $m\in M.$
 1. In the classical case, we describe the situation by a probability matrix $(p_{em})_{(e,m)\in E\times M}\in(\mathbb{R}^+)^{E\times M}$, where $\mathbb{R}^+$ denotes the set of **nonnegative** real numbers,
 2. in the quantum case without decoherence, we have a bipartite quantum state $(\phi_{em})_{(e,m)\in E\times M}\in\mathbb{C}^{E\times M}$, and
 3. we model the quantum case with decoherence by adding an additional subsystem $D$ into which the state is supposed to have decohered, and and consider a pure quantum state $(\phi_{dem})_{(d,e,m)\in D\times E\times M}\in\mathbb{C}^{D\times E\times M}$ again.[^1]
 
+We will develop these concrete situations and then try to find an axiomatic approach that allows us to reproduce our conclusions.
+
 For a fixed $E$, we denote and define sets of possible situations
-1. $\mathcal{S'}\_{\mathrm{class}}=\left\{(M,P)\mid |M|<\infty, P\in(\mathbb{R}^+)^{E\times M}\right\}$,
-2. $\mathcal{S'}\_{\mathrm{quant}}=\left\{(M,\Psi)\mid |M|<\infty, \Psi\in\mathbb{C}^{E\times M}\right\}$,
-3. $\mathcal{S'}\_{\mathrm{decoh}}=\left\{(D,M,\Psi)\mid |D|<\infty, |M|<\infty, \Psi\in\mathbb{C}^{D\times E\times M}\right\}.$
+1. $\mathcal{S'}\_{\mathrm{class}}:=\left\{(M,P)\mid |M|<\infty, P\in(\mathbb{R}^+)^{E\times M}\right\}$,
+2. $\mathcal{S'}\_{\mathrm{quant}}:=\left\{(M,\Psi)\mid |M|<\infty, \Psi\in\mathbb{C}^{E\times M}\right\}$,
+3. $\mathcal{S'}\_{\mathrm{decoh}}:=\left\{(D,M,\Psi)\mid |D|<\infty, |M|<\infty, \Psi\in\mathbb{C}^{D\times E\times M}\right\}.$
 
 In other words, we do not fix $M$ and $D$ (or limit their sizes), but consider them part of the description. Furthermore, we don't force the classical probability distributions or quantum states to be normalized. We write $\mathcal{S'}$ in developments that apply to any of $\left\{\mathcal{S'}\_{\mathrm{class}},\mathcal{S'}\_{\mathrm{quant}},\mathcal{S'}\_{\mathrm{decoh}}\right}.$
 
-We define $\mathcal{S'}^\pm=\mathcal{S'}\times\mathcal{S'}.$ I will denote a tuple $(S'_1,S'_2)\in\mathcal{S'}^\pm$ by $S'_1-S'_2$; accordingly, you should interpret it as a difference between $S'_2$ and $S'_1.$
+We define $\mathcal{S'}^\pm:=\mathcal{S'}\times\mathcal{S'}$ (for classical, coherent-quantum, or decohering-quantum states). I will denote a tuple $(S'_1,S'_2)\in\mathcal{S'}^\pm$ by $S'_1-S'_2$; accordingly, you should interpret it as a difference between $S'_2$ and $S'_1.$
+
+Both $\mathcal{S'}$ and $\mathcal{S'}^\pm$ overcount states - in other words, there are states of knowledge and differences between them that should be considered equivalent (e.g. because the agent can transform them without interacting with the environment), but are distinct elements of these sets. We will introduce appropriate equivalence relations in section 5, but first define some more structure on the sets.
+
+## 3. Special elements
+With $\vec{p}\in(\mathbb{R}^+)^E$ to be interpreted as a vector of prior probabilities over $E$, we define $\vec{p}\in\mathcal{S'}$ in the natural ways - as states in which the computer has only one possible internal state:
+1. In $\mathcal{S'}\_{\mathrm{class}}$, $\vec{p}:=(\{0\},\vec{p})$,
+2. In $\mathcal{S'}\_{\mathrm{quant}}$, $\vec{p}:=(\{0\},(\sqrt{p_e})_{(e,0)\in E\times \{0\}})$,
+3. In $\mathcal{S'}\_{\mathrm{decoh}}$, $\vec{p}:=(E,\{0\},(\delta_{d,e} \sqrt{p_e})_{(d,e,0)\in E\times E\times \{0\}}).$[^2]
+In the coherent quantum case, we take the square root to replace probabilities by amplitude. In the decoherent quantum case, we additionally set $D=E$ and use a Kronecker delta, enforcing a decoherent probabilistic mixture of initial states. This means that $\vec{p}\in\mathcal{S'}\_{\mathrm{quant}}$ is **not** the same thing as $\vec{p}\in\mathcal{S'}\_{\mathrm{decoh}}.$
+
+
+ is represented in $\mathbb{K}$ by a CPM with only one internal memory state. $0$, $1$ and $d\in D$, $D'\subseteq D$ are treated as the all-$0$, all-$1$, and indicator function vectors.[^5]
+We have distinguished elements $0\in\mathcal{S'}$.
 
 We define addition and multiplication on $M$ as follows:
 1. $\mathcal{S'}\_{\mathrm{class}}=$
+
+1. s' def definitiv
+
+4. s'->s'\pm
+
+1.5. remark: too many states now, but first define ops, then equivalence classes
+
+2. ops on s' sinnvoll als 2. schritt, 
+
+3. s'-> s, dann gleich "ops funktionieren immer noch"
+5. s_pm'->s_pm
 
 ## Transformation and equivalence relations
 
@@ -51,7 +78,7 @@ duality](https://web.stanford.edu/~boyd/cvxbook/) (to be more precise, [semidefi
 
 But a naive description by conditional probability matrices doesn't fulfill the fourth property. For example, if the learner's internal state was some permutation of the environment's state, each individual state would correspond to complete knowledge, but randomly mixing them yields a state of complete ignorance.
 
-The aim of this note is to find a convex description for classical agents/learners.[^2] In contrast to the quantum case, our development doesn't give great bounds on the dimension of the vector space.
+The aim of this note is to find a convex description for classical agents/learners. In contrast to the quantum case, our development doesn't give great bounds on the dimension of the vector space.
 
 ## Motivation from quantum query complexity
 (Note: One shouldn't need to know anything about quantum physics or query algorithms to follow the rest of this post.)
@@ -64,7 +91,8 @@ A great thing about the quantum analogue of this problem (_quantum query algorit
 4. On $\mathbb{K}$, we define multiplication with a nonnegative scalar elementwise, and addition by a **direct sum** of the matrices making up the summands (i.e. taking a disjoint union of the internal memory states, and collecting the conditional probabilities). We can check this behaves well with the equivalence relation. We can also check that addition behaves well with our notion of $\leq$, i.e. $K_1\leq K_2$ iff $K_1+K_3\leq K_2+K_3.$ Mathematically, we arrive at a structure called an "[ordered semigroup](https://en.wikipedia.org/w/index.php?title=Ordered_semigroup&oldid=978175111)", which we will turn into an ordered group in step 8. With these definitions, $\mathbb{K}$ is a convex set to which the same intuitions as listed for Gram matrices above apply.[^4]
 5. We also define multiplication of two collections by considering the learner to have access to uncorrelated information representing the factors: If the factors are represented by CPMs over internal memory states $a \in A$, $b \in B$, the product is represented by a CPM over the Kronecker product $A\times B$, with the joint probabilities products of the factor probabilities $p((a,b)\mid D)=p(a\mid D)p(b\mid D)$ for $(a,b)\in A\times B.$ Besides behaving well with the equivalence relation, it's also commutative on the SOKs.[^6]
 
-6. A vector of nonnegative numbers $\vec{p}\in (\mathbb{R}^+\cup\\\{0\\\})^D$ is represented in $\mathbb{K}$ by a CPM with only one internal memory state. $0$, $1$ and $d\in D$, $D'\subseteq D$ are treated as the all-$0$, all-$1$, and indicator function vectors[^5]. Then in the equivalence classes, $\mathbf{0},\mathbf{1}\in\mathbb{K}$ are neutral w.r.t. addition and multiplication; they correspond to a state of $0$ probability and a state of zero knowledge. We also define $\Omega\in\mathbb{K}$ as the state of complete knowledge.
+
+Then in the equivalence classes, $\mathbf{0},\mathbf{1}\in\mathbb{K}$ are neutral w.r.t. addition and multiplication; they correspond to a state of $0$ probability and a state of zero knowledge. We also define $\Omega\in\mathbb{K}$ as the state of complete knowledge.
 7. (Note: You can skip reading this item at any time and proceed to the next one.)
 
    For an example, suppose the learner is in a SOK $K\in\mathbb{K}$ and should make a binary decision which of two experiments to perform next. So it will perform some probabilistic procedure and save the result in an additional register $R'$ with possible states $1$, $2.$ Then the memory states where $R'=1$, and the memory states where $R'=2$, form (non-normalized) SOKs individually that sum to a state obtainable from $K$:
@@ -179,8 +207,7 @@ Any $\mathbb{R}$-algebra is an $\mathbb{R}$-vector space, but the dimension of t
 
 ## Footnotes
 [^1]: We could have defined it by density operators as well, but it seems to me that the formalism introduced later won't easily work that way anymore.
-
-[^2]: Point 10.2 of the sketch hints at mixed quantum states, but I don't want to swear that this works because I didn't check the details so far.
+[^2]: With $\delta_{d,e}$ denoting the Kronecker delta, i.e. $\delta_{d,e}=1$ if $d=e$ and $0$ otherwise.
 [^3]: Allowing transition probabilities that sum to less than 1 - i.e. allowing to lose probability mass - won't change the equivalence relation/classes, but is helpful for describing the output condition of a query algorithm later.
 [^4]: We could have exchanged the order of steps $2$ and $3.$
 [^5]: I.e. the vectors which are $1$ on $d$ resp. $d'\in D'$, and $0$ everywhere else.
