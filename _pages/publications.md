@@ -27,7 +27,7 @@ Zixuan Xu\*, **Penghui Wei**\*, Weimin Zhang, Shaoguo Liu, Liang Wang, Bo Zheng 
 
 * **AdaSparse: Learning Adaptively Sparse Structures for Multi-Domain Click-Through Rate Prediction**  
 Xuanhua Yang, Xiaoyu Peng, **Penghui Wei**†, Shaoguo Liu†, Liang Wang, Bo Zheng (†: Co-corresponding authors)    
-arXiv preprint arXiv:2206.13108  
+**CIKM ’22** (short): Proceedings of the 31st ACM International Conference on Information and Knowledge Management. Hybrid Conference, Hosted in Atlanta, Georgia, USA, October 17-21, 2022.  
   
 * **AutoHERI: Automated Hierarchical Representation Integration for Post-Click Conversion Rate Estimation**  
 **Penghui Wei**, Weimin Zhang, Zixuan Xu, Shaoguo Liu, Kuang-chih Lee, Bo Zheng  
