@@ -19,3 +19,5 @@ Cada grupo deve encaminhar um texto, em formato pdf, com os experimentos (gráfi
 
 Implementar o Método de Newton para determinar o(s) ponto(s) crítico(s) de uma função $f:\mathbb{R}^n \to \mathbb{R}$.
 
+Fazer vários exemplos. Para cada exemplo, apresentar comentários, tabelas e gráficos evidenciando as características observadas. Faça testes com chutes próximos e distantes do ponto crítico. Fazer um gráfico mostrando as curvas de nível de $f:\mathbb{R}^2 \to \mathbb{R}$ e os pontos $x_k \in \mathbb{R}^2$ se aproximando do ponto crítico $x^* \in \mathbb{R}^2$.
+
