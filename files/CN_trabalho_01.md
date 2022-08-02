@@ -19,7 +19,7 @@ Cada grupo deve encaminhar um texto, em formato pdf, com os experimentos (gráfi
 
 * Grupo 01 - Método da Falsa Posição
 * Grupo 02 - Método da Secante
-* Grupo 03 - Método Quociente-Diferença
+* Grupo 03 - Método Quociente-Diferença (Para funções polinomiais)
 
 ## Para o grupo 04
 
