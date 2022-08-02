@@ -14,3 +14,8 @@ Cada grupo deve encaminhar um texto, em formato pdf, com os experimentos (gráfi
 
 * Grupo X1 - Método da Falsa Posição
 * Grupo X2 - Método Quociente-Diferença
+
+## Para o grupo X3
+
+Implementar o Método de Newton para determinar o(s) ponto(s) crítico(s) de uma função $f:\mathbb{R}^n \to \mathbb{R}$.
+
