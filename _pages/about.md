@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am a research scientist at Google Research. My research is on CV/ML, with particular interests in security of face biometric systems (e.g., face anti-spoofing, digital manipulation attack, adversarial attack), 3D face modeling, face representation & analysis, XAI, image systhesis, and multi-model modeling.
+I am a research scientist at Google Research. My research is on CV/ML, with particular interests in biometric security, face modeling & analysis, XAI, image systhesis, and multi-model modeling.
 
 I got my Ph.D. at [Michigan State University](http://www.cse.msu.edu/), where I was fortunate to work with [Prof. Xiaoming Liu](http://www.cse.msu.edu/~liuxm/index2.html) at [Computer Vision Lab (CVLAB)](http://cvlab.cse.msu.edu/). I got my M.S. from [Ohio State Univeristy](https://www.osu.edu/) and B.E. from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). 
 During 2015-2016, I worked in [Computational Biology and Cognitive Science Lab (CBCSL)](http://cbcsl.ece.ohio-state.edu/) advised by [Prof. Aleix Martinez](http://www2.ece.ohio-state.edu/~martinez/). 
