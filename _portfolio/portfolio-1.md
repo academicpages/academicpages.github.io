@@ -1,7 +1,6 @@
 ---
-title: "Design and fabrication of a portable ElectroCardioGraph (ECG) controlled by Arduino and signal processing for heartbeat detection."
-excerpt: "This project is an approach to the design and production process of an electromedical device such as an analog electrocardiograph which, communicated with an Arduino development board, allows the
-acquisition and processing of an electrocardiogram signal.<br/><img src='/images/ecg.png'>"
+title: "Design and fabrication of a portable ElectroCardioGraph(ECG) controlled by Arduino and signal processing for heartbeat detection."
+excerpt: "This project was a prototype of ECG, using a AT-Mega (Arduino) processor and performing the acquisition and signal processing of an ECG signal.<br/><img src='/images/ecg.png'>"
 collection: portfolio
 ---
 
