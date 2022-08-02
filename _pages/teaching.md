@@ -20,11 +20,13 @@ author_profile: true
 
 ### Project Supervision
 As well as of course working with colleagues in both my research groups on several projects and lending my knowledge and expertise where possible, I am directly supervising a PhD student, and am co-supervising 5 other PhD research projects for novice students.
-I have supervised many Masters' (MSci and MSc) and summer student research projects, a large proportion of which have led to significant research outputs suitable for publication, as well as prizes and awards in recognition of research excellence.
+I have supervised many Masters' (MSci and MSc) and summer student research projects, many of which have led to research publications, as well as prizes and awards in recognition of research excellence.
 
 These include:
 - _Spontaneous symmetry breaking by point defects in crystalline hosts. How to identify them?_ <!-- Irea; MKWS -->
   - Mosquera-Lois, I.; Kavanagh, S. R. In Search of Hidden Defects. _**Matter**_ 2021, 4 (8), 2602–2605. https://doi.org/10.1016/j.matt.2021.06.003.
+  - Mosquera-Lois,‡ I.; Kavanagh,‡ S. R.; Walsh, A.; Scanlon, D. O. Identifying the ground state structures of point defects in solids. _**Under Review**_
+  - https://github.com/SMTG-UCL/ShakeNBreak
   - Further manuscripts in preparation
 - _Theoretical Study of Metal Chalcogenide Alloys for Solar Cell Applications_ <!-- Helen; Sb2(S/Se)3 Alloys -->
   - Manuscript in preparation
@@ -39,6 +41,8 @@ These include:
 
 
 Some quotes from Phd, MSc & undergraduate students I have supervised are:
+> Seán has been an extraordinary mentor during my MSc project. He framed the significance of our research project in the field, and designed a concise, feasible and exciting plan to tackle it. Beyond being approachable and supportive, he provided insightful explanations and interesting ideas for new research avenues, as well as the opportunity to write a perspective about our project.  By providing invaluable feedback and discussions, he helped me gain confidence to become more independent in my research. <!-- Irea -->
+
 > Seán has been an invaluable supervisor during the first year of my PhD and has gone above and beyond in his support of my development. He has created in-depth resources clearly explaining the methods used by our group and many fruitful discussions have helped me to get to grips with the new material. Seán has helped me gain enough confidence to work more independently and start to steer the direction of my project myself, while still providing me with support when required. <!-- Adair -->
 
 > Seán supervised me during my master's research project and was very helpful and always approachable. He explained complex topics in a succinct, easy to understand way. Seán was very organised and helped guide me through the project with regards to what the next steps of the project would be. He had excellent problem solving skills and would help me fix any issues that would arise by solving them in a logical way and communicated this extremely well as the project was carried out remotely. <!-- Helen -->
