@@ -1,6 +1,6 @@
 # I Trabalho de Cálculo Numérico 
 
-## Grupo 01
+## Grupo XX
 
 Estudar o Método da Falsa Posição. Implementar um algoritmo para analisar o seu desempenho computacional. Comparar com o Método da Bissecção e com o Método de Newton.
 
