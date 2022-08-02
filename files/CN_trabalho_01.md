@@ -1,7 +1,7 @@
 # I Trabalho de Cálculo Numérico 
 
 
-Estudar o método atribuído a cada grupo. Implementar um algoritmo para analisar o seu desempenho computacional. Comparar com o Método da Bissecção e com o Método de Newton.
+Estudar o método atribuído a cada grupo. Implementar um algoritmo para analisar o seu desempenho computacional. Comparar com o Método da Bissecção e com o Método de Newton na resolução de uma equação do tipo $f(x) = 0$.
 
 ## Comparação entre os métodos
 
