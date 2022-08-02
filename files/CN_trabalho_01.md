@@ -5,7 +5,7 @@ Atenção: os trabalhos devem ser enviados por email (mbortoloti@uesb.edu.br). T
 O envio do trabalho deve ser efetuado até o dia 03/09/2022
 
 
-## Para os grupos X1, X2 e X3
+## Para os grupos 01, 02 e 03
 
 Estudar o método atribuído a cada grupo. Implementar um algoritmo para analisar o seu desempenho computacional. Comparar com o Método da Bissecção e com o Método de Newton na resolução de uma equação do tipo $f(x) = 0$.
 
@@ -17,15 +17,15 @@ Cada grupo deve encaminhar um texto, em formato pdf, com os experimentos (gráfi
 
 #### Tema para cada Grupo
 
-* Grupo X1 - Método da Falsa Posição
-* Grupo X2 - Método da Secante
-* Grupo X3 - Método Quociente-Diferença
+* Grupo 01 - Método da Falsa Posição
+* Grupo 02 - Método da Secante
+* Grupo 03 - Método Quociente-Diferença
 
-## Para o grupo X4
+## Para o grupo 04
 
 Implementar o Método de Newton para determinar o(s) ponto(s) crítico(s) de uma função $f:\mathbb{R}^n \to \mathbb{R}$.
 
 Fazer vários exemplos. Para cada exemplo, apresentar comentários, tabelas e gráficos evidenciando as características observadas. Faça testes com chutes próximos e distantes do ponto crítico. Fazer um gráfico mostrando as curvas de nível de $f:\mathbb{R}^2 \to \mathbb{R}$ e os pontos $x_k \in \mathbb{R}^2$ se aproximando do ponto crítico $x^* \in \mathbb{R}^2$.
 
-## Para o grupo X5
+## Para o grupo 05
 Implementar o Método de Newton para resolver um sistema de equações não lineares.  Para cada exemplo, apresentar comentários, tabelas e gráficos evidenciando as características observadas.
