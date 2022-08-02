@@ -1,6 +1,6 @@
 # I Trabalho de Cálculo Numérico 
 
-Atenção: os trabalhos devem ser enviados por email (mbortoloti@uesb.edu.br). Todos os códigos utilizados também devem ser enviados nesse mesmo email.
+Atenção: os trabalhos devem ser enviados por email (mbortoloti@uesb.edu.br). Todos os códigos utilizados também devem ser enviados nesse mesmo email (enviar um único email contendo o arquivo pdf e os códigos).
 
 O envio do trabalho deve ser efetuado até o dia 03/09/2022
 
