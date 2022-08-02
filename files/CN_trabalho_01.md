@@ -1,5 +1,6 @@
 # I Trabalho de Cálculo Numérico 
 
+Para os grupos X1 e X2
 
 Estudar o método atribuído a cada grupo. Implementar um algoritmo para analisar o seu desempenho computacional. Comparar com o Método da Bissecção e com o Método de Newton na resolução de uma equação do tipo $f(x) = 0$.
 
@@ -11,5 +12,5 @@ Cada grupo deve encaminhar um texto, em formato pdf, com os experimentos (gráfi
 
 ### Tema para cada Grupo
 
-* Grupo XX - Método da Falsa Posição
-* Grupo XX - Método Quociente-Diferença
+* Grupo X1 - Método da Falsa Posição
+* Grupo X2 - Método Quociente-Diferença
