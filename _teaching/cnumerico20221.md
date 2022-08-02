@@ -49,7 +49,7 @@ Aulas
 
 Trabalhos
 =======
-* [Trabalho 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_trabalho_01.pdf)
+* [Trabalho 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_trabalho_01.md)
 
 Softwares para Download
 ======
