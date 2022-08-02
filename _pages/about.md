@@ -19,6 +19,7 @@ During my Ph.D., my research interests were in natural language processing and s
 
 News
 ======
+* Aug. 2022: A paper about multi-domain ranking was accepted at CIKM 2022.  
 * Apr. 2022: Three first-authored papers about calibration for ranking models and ad creative generation were accepted at SIGIR 2022 and NAACL 2022.  
 * Jan. 2022: A co-first authored paper about debiasing CVR estimation was accepted at WWW 2022.  
 * Aug. 2021: A first-authored paper about CVR estimation via AutoML was accepted at CIKM 2021.  
@@ -68,4 +69,4 @@ Misc
 * I love playing football and table tennis. I am a Real Madrid fan, and my favorite athlete is LIU Shiwen. 
 
 
-_Last Updated: Apr. 2022_
+_Last Updated: Aug. 2022_
