@@ -47,7 +47,9 @@ Aulas
 
 * [Aula 2 - Aritmética de Ponto Flutuante](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_aula02.pdf)
 
-
+Trabalhos
+=======
+* [Trabalho 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_trabalho_01.pdf)
 
 Softwares para Download
 ======
