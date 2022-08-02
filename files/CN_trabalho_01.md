@@ -1,5 +1,10 @@
 # I Trabalho de Cálculo Numérico 
 
+Atenção: os trabalhos devem ser enviados por email (mbortoloti@uesb.edu.br). Todos os códigos utilizados também devem ser enviados nesse mesmo email.
+
+O envio do trabalho deve ser efetuado até o dia 03/09/2022
+
+
 ## Para os grupos X1, X2 e X3
 
 Estudar o método atribuído a cada grupo. Implementar um algoritmo para analisar o seu desempenho computacional. Comparar com o Método da Bissecção e com o Método de Newton na resolução de uma equação do tipo $f(x) = 0$.
