@@ -1,7 +1,7 @@
 ---
 layout: default2
 title: ""
-permalink: /activities/gt2022spring
+permalink: /activities/gt2022fall
 author_profile: false
 ---
 
