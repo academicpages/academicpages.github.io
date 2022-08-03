@@ -22,7 +22,7 @@ author_profile: true
 ## Conference Papers
 <b>[G-Mixup: Graph  Augmentation  for  Graph Classification](https://arxiv.org/abs/2202.07179)
 </b><br>Xiaotian Han, <b>Zhimeng Jiang</b>, Ninghao Liu, and Xia Hu. <br>
-International Conference on Machine Learning (**ICML**), 2022 (**Long Presentation**, 118/5630=2.1% acceptance rate)
+International Conference on Machine Learning (**ICML**), 2022 (**Outstanding Paper Award**)
 
 <b>[An Information Fusion Approach to Learning with Instance-Dependent Label Noise](??)
 </b><br><b>Zhimeng Jiang</b>, Kaixiong Zhou, Zirui Liu, Li Li, Rui Chen, Soo-Hyun Choi, and Xia Hu.  <br>
