@@ -9,15 +9,13 @@ redirect_from:
 
 Welcome to Pengyu Cheng's homepage!
 
-I am a senior researcher at Tencent Interactive Entertainment Group. Currently, I am devoting my passion to applying cutting-edge NLP techniques to game scenarios, especially for Metaverse construction! 
-
-My NLP research interests focus on controllable text generation and interpretable natural language understanding. I also have a broad interest in probabilistic machine learning methods.
-
-We are hiring NLP researchers and interns globally! If you are curious or enthusiastic about applying deep learning into the virtual gaming world, contact me at `pengyucheng@tencent.com`.
+I am currently a researcher at Tencent AI Lab. My research interests focus on controllable text generation and interpretable natural language understanding. I also have a broad interest in probabilistic machine learning methods.
 
 I received my Ph.D. degree from the Department of Electric and Computer Engineering at Duke University in 2021. My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/). I graduated with my B.S. degree from the Department of Mathematical Sciences at Tsinghua University in 2017. 
 
 ### Timeline:
+
+- [2022/08/02] Began serving as a PC for ICLR 2023 and AAAI 2023.
 
 - [2022/03/31] Began serving as a PC for NeurIPS 2022.
 
