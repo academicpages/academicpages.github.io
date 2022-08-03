@@ -9,9 +9,8 @@ Why do countries talk about each other's human rights practices? What rhetorical
 ## Team
 ### Current Members
 * Jiwon Kim (PI)
-* [Anika Kapur](https://j1wonkim.github.io/anika/) (Jan 2022-current, coder)
+* Onew Choi (Aug 2022-current, lab manager)
 * [Celline Kim](https://j1wonkim.github.io/celline/) (Jan 2022-current, coder)
-* [Karina Nehra](https://j1wonkim.github.io/karina/) (Jan 2022-current, coder)
 * [Taoshu Ren](https://j1wonkim.github.io/taoshu/) (Feb 2022-current, coder)
 
 <br/><img src='/images/ISE_picture_4.jpg'>{: width="600" }
@@ -30,7 +29,8 @@ I thank [Prodigy](https://prodi.gy/) for providing academic license for this pro
 * Sarah Qadir (2020 Fall)
 * Joanne Choi (2021 Spring)
 * Sandy Gonzalez (2021 Spring) 
-
+* [Anika Kapur](https://j1wonkim.github.io/anika/) (Jan - Jul 2022, coder)
+* [Karina Nehra](https://j1wonkim.github.io/karina/) (Jan - Jul 2022, coder)
 
 
 
