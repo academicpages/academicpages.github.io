@@ -15,7 +15,7 @@ Para comparar os métodos acima descritos, o grupo deve definir um problema mode
 
 Cada grupo deve encaminhar um texto, em formato pdf, com os experimentos (gráficos, tabelas, outros) e com a análise dos resultados, comentando o que fora observado em cada experimento.
 
-#### Tema para cada Grupo
+#### Temas para os Grupos 01, 02 e 03
 
 * Grupo 01 - Método da Falsa Posição
 * Grupo 02 - Método da Secante
