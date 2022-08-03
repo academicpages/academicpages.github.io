@@ -65,6 +65,7 @@ Xupeng Zhu, **Dian Wang**, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt
 **Equivariant Q Learning in Spatial Action Spaces**  
 **Dian Wang**, Robin Walters, Xupeng Zhu, Robert Platt  
 *CoRL 2021, London, UK*  
+*RSS 2022 Workshop on Scaling Robot Learning, Spotlight*  
 [(Webpage)](https://pointw.github.io/equi_q_page/)[(PDF)](https://arxiv.org/pdf/2110.15443.pdf)[(OpenReview)](https://openreview.net/forum?id=IScz42A3iCI)[(Poster)](https://openreview.net/attachment?id=IScz42A3iCI&name=poster)[(Video)](https://www.youtube.com/watch?v=GtdpvjLHc_Q)[(Talk)](https://iclr.cc/virtual/2022/spotlight/6799)[(Code)](https://github.com/pointW/equi_q_corl21)
 ` `  
 ` `  
