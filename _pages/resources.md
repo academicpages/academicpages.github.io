@@ -1,13 +1,8 @@
 ---
-title: "Resources for Students"
+title: "Appointments"
 permalink: /resources/
 author_profile: true
 ---
-
----
-
-Appointments
-============
 
 If you need to see me, make an appointment using the links below.
 

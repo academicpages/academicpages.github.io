@@ -1,13 +1,11 @@
 ---
-title: "Publications"
+title: "Peer-Reviewed Articles"
 permalink: /research/
 author_profile: true
 redirect_from:
   - /md/
   - /research.html
 ---
-
-## Peer-Reviewed Articles
 
 - Hector Bahamonde and Andrea Canales. "Electoral Risk and Vote Buying, Introducing Prospect Theory to the Experimental Study of Clientelism." Accepted, *Electoral Studies*. <br/> [[Paper]](https://github.com/hbahamonde/Economic_Experiment_Vote_Selling/raw/master/Vote_Selling_Bahamonde_Canales_Paper.pdf)
 

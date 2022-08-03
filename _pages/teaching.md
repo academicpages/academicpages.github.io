@@ -9,8 +9,6 @@ redirect_from:
 
 
 
----
-
 ## Current
 
 - Quantitative Methods (MA students, Spring 2022): OLS.  <a href="https://github.com/hbahamonde/OLS/raw/master/Bahamonde_OLS.pdf"><i class='fa fa-book fa'></i></a>
