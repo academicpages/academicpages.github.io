@@ -1,7 +1,7 @@
 ---
 title: 'newpost2'
 date: 2021-10-02
-permalink: /posts/2021/10/what-is-anova/
+permalink: /posts/2021/10/post2/
 tags:
   - statistics
   - analysis
