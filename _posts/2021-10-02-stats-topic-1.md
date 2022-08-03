@@ -1,5 +1,5 @@
 ---
-title: 'Cool Stats Post'
+title: 'What is Analysis of Variance (ANOVA)?'
 date: 2021-10-02
 permalink: /posts/2021/10/what-is-anova/
 tags:
