@@ -15,4 +15,5 @@ redirect_from:
 
 Recent news
 ===========
-- Yixiang gave an invited talk at [Institue of Fluid Engineering](http://www.zjufluid.org/) hosted by Prof. Xuejin Li  (November 24, 2021. Zhejiang University) 
+- (August 3, 2022) Yixiang gave an invited talk at [Complex Fluids and Soft Matter (CFSM) Seminar Series](https://cecas.clemson.edu/zhenli/cfsm/), Clemson University.
+- (November 24, 2021) Yixiang gave an invited talk at [Institue of Fluid Engineering](http://www.zjufluid.org/) hosted by Prof. Xuejin Li, Zhejiang University.
