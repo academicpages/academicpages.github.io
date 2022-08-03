@@ -12,8 +12,7 @@ author_profile: true
 <b>[FMP: Toward Fair Graph Message Passing against Topology Bias](https://arxiv.org/abs/2202.04187)
 </b><br><b>Zhimeng Jiang</b>, Xiaotian Han, Chao Fan, Zirui Liu, Zou Na, Ali Mostafavi and Xia Hu.
 
-<b>[BED: A Real-Time Object Detection System for Edge Devices.](https://arxiv.org/abs/2202.07503)
-</b><br>Guanchu Wang\*, Zaid Pervaiz Bhat\*, <b>Zhimeng Jiang\*</b>, Yi-Wei Chen\*, Daochen Zha\*, Alfredo Costilla Reyes*, Afshin Niktash, Gorkem Ulkar, Erman Okman, Xia Hu
+
 
 
 <!-- <b>[You Only Debias Once: Towards Flexible Accuracy-Fairness Trade-offs](??)
@@ -36,6 +35,10 @@ International Conference on Learning Representations (**ICLR**), 2022
 <b>[Geometric Graph Representation Learning via Maximizing Rate Reduction](??)
 </b><br>Xiaotian Han, <b>Zhimeng Jiang</b>, Ninghao Liu, Qingquan Song, Jundong Li, and Xia Hu. <br>
 The Web Conference (formerly **WWW**), 2022.
+
+<b>[BED: A Real-Time Object Detection System for Edge Devices.](https://arxiv.org/abs/2202.07503)
+</b><br>Guanchu Wang\*, Zaid Pervaiz Bhat\*, <b>Zhimeng Jiang\*</b>, Yi-Wei Chen\*, Daochen Zha\*, Alfredo Costilla Reyes*, Afshin Niktash, Gorkem Ulkar, Erman Okman, Xia Hu. <br>
+ACM International Conference on Information and Knowledge Management (CIKM), 2022 (demo)
 
 ## Paper related to Optical Wireless Communication
 <b>[On the Achievable Rate and Capacity of a Sample-Based Practical Photon-Counting Receiver](https://ieeexplore.ieee.org/abstract/document/9452170)
