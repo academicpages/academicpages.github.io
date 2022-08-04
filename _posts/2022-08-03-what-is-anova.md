@@ -28,9 +28,7 @@ random chance.
 
 ANOVA works by attributing variability in the response variable to
 
-Consider the overall (total) sum of squares:
-
-$$\\textrm{SST} = \\sum\_{i=1}^{k}\\sum\_{j=1}^{n\_i}(y\_{ij}-\\bar{\\bar{y}})^2.$$
+Consider the overall (total) sum of squares $\textrm{SST} = \sum_{i=1}^{k}\sum_{j=1}^{n_i}(y_{ij}-\bar{\bar{y}})^2.$
 
 It can be shown that the total sum of squares (SST) can be partitioned
 as follows:
