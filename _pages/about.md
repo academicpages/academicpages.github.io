@@ -13,7 +13,7 @@ I am a PHD student supervised by [Michael Greenspan](https://www.ece.queensu.ca/
 
 Research News:
 ===
-[CKVPose](https://aaronwool.github.io/publication/ckvpose) accepted as a poster to 3DV 2022.
+[RCVPose3D](https://aaronwool.github.io/publication/ckvpose) accepted as a poster to 3DV 2022.
 
 [RCVPose](https://github.com/aaronWool/rcvpose) has been launched on Github.
 
