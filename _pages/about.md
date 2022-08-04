@@ -12,7 +12,7 @@ redirect_from:
 My name is Philippe Laporte. I am a Ph.D. student at the University of Montréal (Canada).<br>
 I currently do research in Nuclear Medicine, 
 where I try to improve segmentation techniques for dynamical PET images in a preclinical context.<br><br>
-Starting to work with polyglot v.24<br><br>
+Starting to work with polyglot v.25<br><br>
 
 {% for lang in site.languages %}
     {% if lang == site.default_lang %}
@@ -43,9 +43,9 @@ fr{{ page.url }}<br>
 {% for lang in site.languages %}
     {% if lang == site.default_lang %}
       {{ lang }}
-      <a href=" {{ page.url }}">{{ lang }}</a>
+      <a href="{{ page.url }}">{{ lang }}</a>
     {% else %}
       {{ lang }}
-      <a href=" {{ lang }}{{ page.url }}">{{ lang }}</a>
+      <a href="{{ lang }}{{ page.url }}">{{ lang }}</a>
     {% endif %}
 {% endfor %}
