@@ -52,8 +52,6 @@ for all observations corresponding to group *i*.
 
 So, we have SST = SSB + SSW.
 
-## What does this mean?
-
 Each of the partitioned sums of squares can be viewed in the following
 way:
 
