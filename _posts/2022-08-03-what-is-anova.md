@@ -8,6 +8,8 @@ tags:
   - categorical variables
 ---
 
+This post gives a brief introduction to the basics of analysis of variance and how it works.
+
 # What is Analysis of Variance (ANOVA)?
 
 Analysis of variance (ANOVA) is a popular statistical method developed
