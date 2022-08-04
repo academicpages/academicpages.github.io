@@ -1,5 +1,5 @@
 ---
-title: 'What is Analysis of Variance (ANOVA)?'
+title: 'An Introduction to Analysis of Variance (ANOVA)?'
 date: 2022-08-03
 permalink: /posts/2022/08/what-is-anova/
 tags:
@@ -8,7 +8,7 @@ tags:
   - categorical variables
 ---
 
-This post gives a brief introduction to the basics of analysis of variance and how it works.
+This post gives a brief introduction to the basics of analysis of variance and how it works. A discussion of sums of squares is provided in addition to an overview of the oneway analysis of variance model.
 
 # What is Analysis of Variance (ANOVA)?
 
