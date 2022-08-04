@@ -26,7 +26,7 @@ random chance.
 
 ## What are Sums of Squares?
 
-ANOVA works by determining if variability in the response variable $y$ is due to significant differences between treatment groups or random chance. We can measure variability in the response variable by computing the *sum of squares*. Simply put, the *sum of squares* is a measure of distance between each observed response $y_{ij}$ and the overall mean of all observations $\bar{\bar{y}}$.
+ANOVA works by determining if variability in the response variable $y$ is due to significant differences between treatment groups or random chance. We can measure variability in the response variable by computing the *sum of squares*. Simply put, the sum of squares is a measure of distance between each observed response $y_{ij}$ and the overall mean of all observations $\bar{\bar{y}}$.
 
 Consider the overall (total) sum of squares $\textrm{SST} = \sum_{i=1}^{k}\sum_{j=1}^{n_i}(y_{ij}-\bar{\bar{y}})^2.$
 
