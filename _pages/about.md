@@ -28,10 +28,10 @@ Starting to work with polyglot v.16<br><br>
 <a href=" {{ page.url }}"> en </a> <br>
 <a href=" {{site.repository}}/"> en </a><br>
 
-[En]( {{site.repository}}/about/)
-[Fr]( {{site.repository}}/_pages/fr/about/)
-[Fr]( {{site.repository}}/_pages/fr/about/)
-[Fr](/_pages/fr/about/)
+[En]( {{site.repository}}/about/)<br>
+[Fr]( {{site.repository}}/_pages/fr/about/)<br>
+[Fr]( {{site.repository}}/_pages/fr/about/)<br>
+[Fr](/_pages/fr/about/)<br>
 
 {% for lang in site.languages %}
     {% if lang == site.default_lang %}
