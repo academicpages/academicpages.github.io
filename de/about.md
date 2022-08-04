@@ -1,7 +1,7 @@
 ---
 title: "About me"
 excerpt: "About me"
-name: about
+link: about
 author_profile: true
 lang: de
 redirect_from:
