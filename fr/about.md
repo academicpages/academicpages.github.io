@@ -10,24 +10,8 @@ Mon nom est Philippe Laporte et ceci est un test
 
 {% for lang in site.languages %}
     {% if lang == site.default_lang %}
-{{ lang }} (Default)
+[{{lang}} (Default)]({{lang}}{{page.url}})
     {% else %}
-{{ lang }}
-    {% endif %}
-{% endfor %}
-
-{{ page.url }}
-{{site.repository}}
-
-<a href=" {{ page.url }}"> en </a> <br>
-<a href=" {{site.repository}}/"> en </a><br>
-
-[En]( {{site.repository}}/about/)
-
-{% for lang in site.languages %}
-    {% if lang == site.default_lang %}
-      <a href=" {{ page.url }}">{{ lang }}</a>
-    {% else %}
-      <a href="/{{ lang }}{{ page.url }}">{{ lang }}</a>
+[{{lang}}]({{lang}}{{page.url}})
     {% endif %}
 {% endfor %}
