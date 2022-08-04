@@ -15,11 +15,12 @@ Mon nom est Philippe Laporte et ceci est un test
 {% endfor %}
 
 {{ page.url }}
+{{site.repository}}
 
 <a href=" {{ page.url }}"> en </a> <br>
 <a href=" {{site.repository}}/"> en </a><br>
 
-[En]({{site.repository}}/about/)
+[En]( {{site.repository}}/about/)
 
 {% for lang in site.languages %}
     {% if lang == site.default_lang %}
