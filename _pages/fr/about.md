@@ -14,7 +14,6 @@ Mon nom est Philippe Laporte et ceci est un test
     {% endif %}
 {% endfor %}
 
-
 {{ page.url }}
 
 {% for lang in site.languages %}
