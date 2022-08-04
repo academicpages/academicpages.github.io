@@ -3,9 +3,9 @@
 
 {% for lang in site.languages %}
     {% if lang == site.default_lang %}
-[{{lang}} (Default)]({{lang}}{{page.url}})
+<a href="{{lang}}{{page.url}}">{{lang}} (Default)</a>
     {% else %}
-[{{lang}}]({{lang}}{{page.url}})
+<a href="{{lang}}{{page.url}}">{{lang}}</a>
     {% endif %}
 {% endfor %}
 <!-- end custom footer snippets -->
