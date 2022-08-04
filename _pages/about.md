@@ -24,9 +24,9 @@ Starting to work with polyglot v.20<br><br>
 
 {{ page.url }}<br>
 {{site.repository}}<br>
-{{ site.repository}}<br>
+{{ site.repository }}<br>
 {{site.website_name}}<br>
-{{ site.website_name}}<br>
+{{ site.website_name }}<br>
 
 <a href=" {{ page.url }}"> en </a> <br>
 <a href=" {{site.repository}}/"> en </a><br>
