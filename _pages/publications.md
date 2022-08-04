@@ -10,7 +10,9 @@ author_profile: true
   
 ## Ongoing Research
 1. Kolukuluri K, Shin J.K, Subramanian C, Swaminathan S, Role of Background Risk and Social Health Insurance in
-Informal Credit Markets, (Under Review: Economic Modelling)[Access draft here](<object data="../files/arisan-draft.pdf" width="1000" height="1000" type='application/pdf'></object>)
+Informal Credit Markets, (Under Review: Economic Modelling)
+(<a href="../files/arisan-draft.pdf" target="_blank">Access draft here.</a>)
+<!--<object data="../files/arisan-draft.pdf" width="1000" height="1000" type='application/pdf'></object>-->
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
