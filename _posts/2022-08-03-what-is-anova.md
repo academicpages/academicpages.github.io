@@ -26,8 +26,10 @@ random chance.
 
 ## Oneway ANOVA Model and Assumptions
 
+Let's consider the simplest ANOVA model: the oneway ANOVA. In "oneway" ANOVA, we have a single "treatment" with $i = 1,\ldots,k$ levels. Each treatment has $n_i$ subjects, and each subject is assigned to exactly one treatment group. The notation for the model is included below.
+
 $$
-y_{ij} = \theta_i + \epsilon_{ij}, i = 1,\ldots, k, \textrm{ and } j = 1,\ldots,n_i,
+y_{ij} = \theta_i + \epsilon_{ij}, \qquad i = 1,\ldots, k, \textrm{ and } j = 1,\ldots,n_i,
 $$
 
 where $y_{ij}$ denotes the observed response for subject $j$ within treatment $i$, $\theta_i$ is the mean of the response for treatment $i$, and $\epsilon_{ij}$ is random error for each subject and treatment.
