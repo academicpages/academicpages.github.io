@@ -65,4 +65,4 @@ way:
     respective group (variability left over after adjusting for group).
 
 [1] See <https://en.wikipedia.org/wiki/Ronald_Fisher> to learn more
-about Fisher
+about Fisher.
