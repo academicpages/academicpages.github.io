@@ -2,10 +2,14 @@
 <a href="sitemap/">Sitemap</a>
 
 {% for lang in site.languages %}
-    {% if lang == site.default_lang %}
-<a href="{{lang}}{{page.url}}">{{lang}} (Default)</a>
-    {% else %}
+    {% if lang == site.active_lang %}
+{{lang}}
+    {% else }
+        {% if lang == site.default_lang %}
+<a href="{{page.url}}">{{lang}} (Default)</a>
+        {% else %}
 <a href="{{lang}}{{page.url}}">{{lang}}</a>
+        {% endif %}
     {% endif %}
 {% endfor %}
 <!-- end custom footer snippets -->
