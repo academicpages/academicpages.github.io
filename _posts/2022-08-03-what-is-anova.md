@@ -1,5 +1,5 @@
 ---
-title: 'An Introduction to Analysis of Variance (ANOVA)?'
+title: 'An Introduction to Analysis of Variance (ANOVA)'
 date: 2022-08-03
 permalink: /posts/2022/08/what-is-anova/
 tags:
