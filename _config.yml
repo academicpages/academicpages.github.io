@@ -316,7 +316,7 @@ theme: jekyll-theme-cayman
 # For polyglot part
 languages: ["en","fr"]
 default_lang: "en"
-exclude_from_localization: ["assets/css", "assets/img"]
+exclude_from_localization: ["images"]
 parallel_localization: true
 
 sass:
