@@ -1,6 +1,6 @@
 ---
 title: 'What is Analysis of Variance (ANOVA)?'
-date: 2021-08-03
+date: 2022-08-03
 permalink: /posts/2022/08/what-is-anova/
 tags:
   - statistics
