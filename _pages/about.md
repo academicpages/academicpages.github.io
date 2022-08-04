@@ -35,9 +35,9 @@ Starting to work with polyglot v.22<br><br>
 [Fr]( {{site.repository}}/_pages/fr/about/)<br>
 [Fr]( {{site.website_name}}/_pages/fr/about/)<br>
 [Fr](/fr/about/)<br>
-[Fr](/fr/about/)<br>
+[Fr](fr/about/)<br>
 [Fr]( /fr/about/)<br>
-[Fr]( /fr/about/)<br>
+[Fr]( fr/about/)<br>
 
 {% for lang in site.languages %}
     {% if lang == site.default_lang %}
