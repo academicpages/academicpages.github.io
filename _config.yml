@@ -318,6 +318,7 @@ languages: ["en","fr"]
 default_lang: "en"
 exclude_from_localization: ["images"]
 parallel_localization: true
+lang_from_path: true
 
 sass:
   sourcemap: never
