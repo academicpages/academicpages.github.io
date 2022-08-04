@@ -21,8 +21,16 @@ provided certain assumptions (discussed below) are satisfied.
 Generally speaking, ANOVA is used to determine if there are meaningful
 differences in the means means of a response variable across various
 “treatment” groups. At its core, ANOVA is done by determining if the
-variability among various groups unlikely to occur solely because of
+variability among various groups is unlikely to occur solely because of
 random chance.
+
+## Oneway ANOVA Model and Assumptions
+
+$$
+y_{ij} = \theta_i + \epsilon_{ij}, i = 1,\ldots, k, \textrm{ and } j = 1,\ldots,n_i,
+$$
+
+where $y_{ij}$ denotes the observed response for subject $j$ within treatment $i$, $\theta_i$ is the mean of the response for treatment $i$, and $\epsilon_{ij}$ is random error for each subject and treatment.
 
 ## What are Sums of Squares?
 
@@ -53,8 +61,8 @@ where $\bar{y}_{i.}$ denotes the mean of the response variable ($y$) for all obs
 
 So, we have $\textrm{SST} = \textrm{SSB} + \textrm{SSW}$.
 
-Each of the partitioned sums of squares can be viewed in the following way:
+Each of the sums of squares can be viewed in the following way:
 
-* SST measures the total variability from each individual response to the overall mean of the responses (across all groups).
+* SST is a measure of the total variability from each individual response to the overall mean of the responses (across all groups).
 * SSB is a measure of variability in the average response from group to group ("between" groups).
 * SSW is a measure of the variability for each response within its respective group (variability left over after adjusting for group).
