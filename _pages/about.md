@@ -12,7 +12,7 @@ redirect_from:
 My name is Philippe Laporte. I am a Ph.D. student at the University of Montréal (Canada).<br>
 I currently do research in Nuclear Medicine, 
 where I try to improve segmentation techniques for dynamical PET images in a preclinical context.<br><br>
-Starting to work with polyglot v.22<br><br>
+Starting to work with polyglot v.24<br><br>
 
 {% for lang in site.languages %}
     {% if lang == site.default_lang %}
@@ -23,10 +23,7 @@ Starting to work with polyglot v.22<br><br>
 {% endfor %}
 
 {{ page.url }}<br>
-{{site.repository}}<br>
-{{ site.repository }}<br>
-{{site.website_name}}<br>
-{{ site.website_name }}<br>
+fr{{ page.url }}<br>
 
 <a href=" {{ page.url }}"> en </a> <br>
 <a href=" {{site.repository}}/"> en </a><br>
@@ -34,15 +31,21 @@ Starting to work with polyglot v.22<br><br>
 [En]( {{site.repository}}/about/)<br>
 [Fr]( {{site.repository}}/_pages/fr/about/)<br>
 [Fr]( {{site.website_name}}/_pages/fr/about/)<br>
+
 [Fr](/fr/about/)<br>
 [Fr](fr/about/)<br>
+
 [Fr]( /fr/about/)<br>
 [Fr]( fr/about/)<br>
 
+[Fr](fr{{page.url}})<br>
+
 {% for lang in site.languages %}
     {% if lang == site.default_lang %}
+      {{ lang }}
       <a href=" {{ page.url }}">{{ lang }}</a>
     {% else %}
-      <a href="/{{ lang }}{{ page.url }}">{{ lang }}</a>
+      {{ lang }}
+      <a href=" {{ lang }}{{ page.url }}">{{ lang }}</a>
     {% endif %}
 {% endfor %}
