@@ -34,7 +34,9 @@ It can be shown that the total sum of squares (SST) can be partitioned
 as follows:
 
 $$
+\begin{align*}
 \textrm{SST} = \sum_{i=1}^{k}\sum_{j=1}^{n_i}(y_{ij}-\bar{\bar{y}})^2 = \sum_{i=1}^{k}n_i(\bar{y}_{i.}-\bar{\bar{y}})^2 + \sum_{i=1}^{k}\sum_{j=1}^{n_i}(y_{ij}-\bar{y}_{i.})^2,
+\end{align*}
 $$
 
 where we define the sums of squares on the right side of the equality as
@@ -42,7 +44,9 @@ the sum of squares between groups (SSB), and sum of squares within
 groups (SSW), respectively. Specifically, we have
 
 $$
+\begin{align*}
 \textrm{SSB} = \sum_{i=1}^{k}n_i(\bar{y}_{i.}-\bar{\bar{y}})^2 \quad \textrm{and} \quad \textrm{SSW} = \sum_{i=1}^{n}(y_{ij}-\bar{y}_{i.})^2,
+\end{align*}
 $$
 
 where $\bar{y}_{i.}$ denotes the mean of the response variable ($y$) for all observations corresponding to group $i$.
