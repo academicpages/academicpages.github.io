@@ -316,7 +316,7 @@ theme: jekyll-theme-cayman
 
 # For polyglot part
 #Languages from ISO-639-1 list
-languages: ["en","fr","de"]
+languages: ["en","fr","de","la"]
 default_lang: "en"
 exclude_from_localization: ["images"]
 parallel_localization: true
