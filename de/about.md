@@ -6,7 +6,7 @@ lang: de
 redirect_from:
   - /de/
 ---
-Mon nom est Philippe Laporte et ceci est un test
+Ich heiße Philippe Laporte und das ist ein Test.
 
 {% for lang in site.languages %}
     {% if lang == site.default_lang %}
