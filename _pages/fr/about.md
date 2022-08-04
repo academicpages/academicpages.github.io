@@ -16,10 +16,10 @@ Mon nom est Philippe Laporte et ceci est un test
 
 {{ page.url }}
 
-<a href=" {{ page.url }}"> en </a>
-<a href=" /"> en </a>
+<a href=" {{ page.url }}"> en </a> <br>
+<a href=" /"> en </a><br>
 
-[En](/)
+[En](/about/)
 
 {% for lang in site.languages %}
     {% if lang == site.default_lang %}
