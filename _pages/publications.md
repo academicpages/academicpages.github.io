@@ -9,7 +9,8 @@ author_profile: true
 2. Kalyan Kolukuluri, 2021, Healthcare utilization and outcomes for insured dependent children: evidence from Indonesia, _Empirical Economics_, [DOI:10.1007/s00181-021-02146-9](https://doi.org/10.1007/s00181-021-02146-9).
   
 ## Ongoing Research
-
+1. Kolukuluri K, Shin J.K, Subramanian C, Swaminathan S, Role of Background Risk and Social Health Insurance in
+Informal Credit Markets, (Under Review: Economic Modelling)[Access draft here](<object data="../files/arisan-draft.pdf" width="1000" height="1000" type='application/pdf'></object>)
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
