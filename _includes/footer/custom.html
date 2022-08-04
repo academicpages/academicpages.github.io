@@ -4,7 +4,7 @@
 {% for lang in site.languages %}
     {% if lang == site.active_lang %}
 {{lang}}
-    {% else }
+    {% else %}
         {% if lang == site.default_lang %}
 <a href="{{page.url}}">{{lang}} (Default)</a>
         {% else %}
