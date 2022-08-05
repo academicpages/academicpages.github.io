@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Philippe the future Medical Physicist / My Personal Website"
+title                    : "Philippe the future Medical Physicist 1/ My Personal Website"
 title_separator          : "-"
-name                     : &name "Philippe the future Medical Physicist"
+name                     : &name "Philippe the future Medical Physicist 1"
 description              : &description "I am currently a graduate student (Ph.D.) in Medical Physics at the University of Montréal (UdeM). I am specialising in Nuclear Medicine and Image Processing."
 url                      : https://argilfea.github.io/philippethemedicalphysicist.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
