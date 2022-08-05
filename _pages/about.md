@@ -14,4 +14,6 @@ I currently do research in Nuclear Medicine,
 where I try to improve segmentation techniques for dynamical PET images in a preclinical context.<br><br>
 
 {{page.lang}}<br>
-{{site.data.l10n.title}}
+{{site.data.l10n.title}}<br>
+{{site.data.en.l10n.title}}<br>
+{{site.data.fr.l10n.title}}<br>
