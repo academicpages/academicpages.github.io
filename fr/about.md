@@ -2,7 +2,6 @@
 title: "About me"
 excerpt: "About me"
 author_profile: true
-link: fr
 name: about
 redirect_from:
   - /fr/
