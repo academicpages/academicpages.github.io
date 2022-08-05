@@ -6,7 +6,7 @@
         {% if lang == site.default_lang %}
 <a href="/{{site.website_name}}{{page.link}}">{{lang}} (Default)</a>
         {% else %}
-<a href="/{{site.website_name}}/{{lang}}/{{page.link}}">{{lang}}</a>
+<a href="/{{site.website_name}}/{{lang}}/{{page.dir | slice:4,1000}}">{{lang}}</a>
         {% endif %}
     {% endif %}
 {% endfor %}
