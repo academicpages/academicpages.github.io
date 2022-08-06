@@ -16,12 +16,10 @@ where I try to improve segmentation techniques for dynamical PET images in a pre
 {{page.lang}}<br>
 {{site.data.l10n.title}}<br>
 {{site.data.en.l10n.title}}<br>
-{{site.data.en.l10n[title]}}<br>
 {{site.data.fr.l10n.title}}<br>
 {{site.data.{{page.lang}}.l10n.title}}<br>
 {{site.date|append:page.lang|append:"}}<br>
-{{site.data[{{page.lang}}]}}<br>
-{{ site.data[{{page.lang}}].l10n.title }}<br>
-{{ site.data[{{page.lang}}]l10n.title }}<br>
-{{ site.data.[{{page.lang}}].l10n.title }}<br>
-{{ site.data.[{{page.lang}}][l10n][title] }}<br>
+{{site.data[page.lang]}}<br>
+{{ site.data[page.lang].l10n.title }}<br>
+{{ site.data[page.lang]l10n.title }}<br>
+{{ site.data.[page.lang].l10n.title }}<br>
