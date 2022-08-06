@@ -10,5 +10,3 @@ citation: 'Galeote, G. (2019). Biohackers & cyborgs: la revolución tecnológica
 The progress in human enhancement technology is a key factor in the human history. Its main development is leaded by biohacker communities that drives this technological revolution with projects worthy of science fiction
 
 [Download paper here](http://ggche.github.io/files/ciborg2.pdf)
-
-Recommended citation: Galeote, G. (2019). Biohackers & cyborgs: la revolución tecnológica de nuestro tiempo. Telos, vol. 110, pp. 97-101.

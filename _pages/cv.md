@@ -19,8 +19,8 @@ Work experience
 ======
 
 * Feb. 2020 - Present:  System Applications Engineer, Analog Devices Inc.
-  * Firmware development on RTOS mbed OS.
   * Design and development of tests for Firmware verification for a Medical Device.
+  * Firmware development on RTOS mbed OS.
   * Electronics Schematics and layout analysis.
   * Build and maintain hardware test benches for automated firmware verification using pytest framework.
   * Execute, analyze, report, and track reports on Jenkins.
@@ -45,45 +45,20 @@ Work experience
   * Design of RF electromagnetic wireless power transfer system on HFSS and EAGLE. 
   * Fabrication of flexible and stretchable circuits on Dupont Pyralux AP8535R. Use of automatic PCB printing with Voltera Machine and developed protocols of use.
 
-
-  
-
-
-
   
 Skills
 ======
-* Coding
-  * **Python**
-  * **C/C++**
-  * Matlab
-  * VHDL
-  * Verilog
-  * PHP
-* CAD
-  * Eagle
-  * Altium
-  * Kicad
-  * SolidWorks
-  * AutoCAD.
-* Electronics
-  * SMT
-  * Wire-Bonding
-  * Flip chip
-  * STM32
-  * Raspberry Pi, Arduino
-  * ARM
-  * Flexible and stretchable electronics
-* Others
-  * Latex
-  * Adobe Premiere, Illustrator, Pro.
-* Language
-  * Spanish (Native)
-  * English
-  * German
-  * Korean
-  * French
-  
+| Coding | CAD | Electronics | Language | Others | 
+|:--------|:-------:|--------:|
+| **Python**   | Eagle   | SMT   | Spanish   | Latex   |
+| **C/C++**   | Altium   | Flip chip (BGA)   | English   | Adobe Premiere, Illustrator, Pro.   |
+| Matlab   | Kicad   | ARM   | German   | cell3   |
+| VHDL   | SolidWorks   | Raspberry Pi, Arduino   | Korean   | cell3   |
+| Verilog   | AutoCAD   | STM32   | French   | cell3   |
+| VHDL   |    | cell6   | RTOS   |    |
+|-----------------------------|
+
+
 Publications
 ======
   <ul>{% for post in site.publications %}

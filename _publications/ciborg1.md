@@ -11,5 +11,3 @@ citation: 'Galeote, G. (2018). Ciborg: Analisis actual y futuras consecuencias. 
 Philosophical analysis of the biohackers communities and the social implications on the human enhancement technologies and regulation.
 
 [Download paper here](http://ggche.github.io/files/ciborg1.pdf)
-
-Recommended citation: Galeote, G. (2018). Ciborg: Analisis actual y futuras consecuencias. Ariel-Revista de filosofía, 22, 23-29..
