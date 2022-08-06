@@ -4,7 +4,7 @@
 
 {% include seo.html %}
 
-<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}/{{ page.lang }}/{% else %}{{ base_path }}/{{ page.lang }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.data[page.lang].l10n.title }} Feed">
+<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.data[page.lang].l10n.title }} Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
