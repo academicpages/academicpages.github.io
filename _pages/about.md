@@ -19,4 +19,4 @@ News
 
 **2022/05/13** - I presented a poster of our current work on the Manhattan Maze at the Chen Institute Retreat. The [project](https://neuroscience.caltech.edu/documents/21454/Guimaraes_Abstract_r2022.pdf) is in collaboration with [Rogério Guimarães](http://twitter.com/rogerioagjr), and advised by Prof. Pietro Perona and Prof. Markus Meister.
 
-**2022/02/09** - I was elected as the Academic co-chair of the Neurotechers, club for graduate students in neuroscience at Caltech. Together with [Laura luebbert](http://twitter.com/NeuroLuebbert), I will host the famous "fireside chats" (also called "Ask Me Anything") that invite faculty members in neuroscience to talk to graduate students at Caltech. 
+**2022/02/09** - I was elected as the Academic co-chair of the Neurotechers, club for graduate students in neuroscience at Caltech. Together with [Laura Luebbert](http://twitter.com/NeuroLuebbert), I will host the famous "fireside chats" (also called "Ask Me Anything") that invite faculty members in neuroscience to talk to graduate students at Caltech. 
