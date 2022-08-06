@@ -1,11 +1,11 @@
 <!-- start custom footer snippets -->
-Polyglot v. 55<br>
+Polyglot v. 56<br>
 {% for lang in site.languages %}
     {% if lang == page.lang %}
 {{lang}}
     {% else %}
         {% if lang == site.default_lang %}
-<a href="/{{site.website_name}}{{page.link}}">{{lang}} (Default)</a>
+<a href="/{{site.website_name}}{{page.link}}">{{lang}}</a>
         {% else %}
             {% if page.lang == "en" %}
 <a href="/{{site.website_name}}/{{lang}}/{{page.dir | slice:1,1000}}">{{lang}}</a>
