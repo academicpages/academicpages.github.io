@@ -1,77 +1,125 @@
-# Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+[![GitHub Repo stars](https://img.shields.io/github/stars/mshuber1981/github-react-portfolio-template?color=%2361dbfb&style=for-the-badge&logo=github)](https://github.com/mshuber1981/github-react-portfolio-template/stargazers/) [![GitHub Repo Forks](https://img.shields.io/github/forks/mshuber1981/github-react-portfolio-template?color=%2361dbfb&style=for-the-badge&logo=github&label=Forks)](https://github.com/mshuber1981/github-react-portfolio-template/network/members)
 
-:star: Star me on GitHub — it helps!
+# A React Portfolio Template for GitHub
 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajaprerak.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+A performant, accessible, progressive React portfolio template that uses the [GitHub REST API](https://docs.github.com/en/free-pro-team@latest/rest).
 
-### Website Preview
-#### Home Page
-<img src="website_images/HomePage.gif" width="900">
+Add your GitHub username once and all of your info will automatically be updated. Deploy to GitHub pages in a few simple steps.
 
+[Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 
-#### About Page
-<img src="website_images/AboutPage.png" width="900">
+![Page Speed](/README_images/speed.png)
 
+### <a href="https://mshuber1981.github.io/github-react-portfolio-template/#/">LIVE DEMO</a>
 
-#### Projects Page
-<img src="website_images/ProjectPage.png" width="900">
-  
+![Project Preview](/README_images/preview.png)
 
+## Getting Started
 
-:star: Star me on GitHub — it helps!
+1. [Create a repository from this template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template)
+1. [Clone your repostiory](https://developers.google.com/speed/pagespeed/insights/)
+1. Make sure [Node](https://nodejs.org/en/) is installed
+1. Open your project and install the dependencies
 
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3\
-⚡️ Typing animation using `Typed.js`\
-⚡️ Easy to modify
+   - ```bash
+     npm install
+     ```
 
-## Installation & Deployment 📦
-- Clone the repository and modify the content of <b>index.html</b> 
-- Add or remove images from `assets/img/` directory as per your requirement.
-- Update the info of `projects` folder according to your need
-- Use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create your own website.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
+1. Navigate to the src directory and open data.js
+1. Add your GitHub username ([data.js](https://github.com/mshuber1981/github-react-portfolio-template/blob/0133fcc02ab048fefcf73825d02385ffe27c3721/src/data.js#L23) lines 23-27)
 
-## Sections 📚
-✔️ About\
-✔️ Interests\
-✔️ Education\
-✔️ Online Certification\
-✔️ Experience\
-✔️ Projects \
-✔️ Skills \
-✔️ Resume\
-✔️ Contact Info
+   - ```javascript
+     /* START HERE
+      ************************************************************** 
+      Add your GitHub username (string - "YourUsername") below.
+     */
+     export const githubUsername = "Your GitHub username here";
+     ```
 
+1. Start the development server to view the results
 
+   - ```bash
+     npm start
+     ```
 
-## Tools Used 🛠️
-* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
+## Updating the Projects section
 
-## Contributing 💡
-#### Step 1
+![Projects Preview](/README_images/projects.png)
 
-- **Option 1**
-    - 🍴 Fork this repo!
+1. Follow the instructions to update the filteredProjects array ([data.js](https://github.com/mshuber1981/github-react-portfolio-template/blob/0133fcc02ab048fefcf73825d02385ffe27c3721/src/data.js#L94) lines 94-98)
 
-- **Option 2**
-    - 👯 Clone this repo to your local machine.
+   - ```javascript
+     /* Projects
+      ************************************************************** 
+      List the repo names (string - "your-repo-name") you want to include (they will be sorted alphabetically). If empty, only the first 3 will be included.
+     */
+     export const filteredProjects = ["example-1", "example-2", "example-3"];
+     ```
 
+1. Import the projects images you want to use ([data.js](https://github.com/mshuber1981/github-react-portfolio-template/blob/0133fcc02ab048fefcf73825d02385ffe27c3721/src/data.js#L13) lines 13-14) or the default image will be applied
 
-#### Step 2
+   - ```javascript
+     // Projects Images (add your images to the images directory and import below)
+     import Logo from "./images/logo.svg";
+     ```
 
-- **Build your code** 🔨🔨🔨
+1. Follow the instructions to update the projectData array ([data.js](https://github.com/mshuber1981/github-react-portfolio-template/blob/0133fcc02ab048fefcf73825d02385ffe27c3721/src/data.js#L100) lines 100-106)
 
-#### Step 3
+   - ```javascript
+     // Replace the defualt GitHub image for matching repos below (images imported above - lines 13-14)
+     export const projectCardImages = [
+       {
+         name: "example-1",
+         image: Logo,
+       },
+     ];
+     ```
 
-- 🔃 Create a new pull request.
+## Updating the Contact section
+
+![Contact Preview](/README_images/contact.png)
+
+1. The contact form uses [Formspree](https://formspree.io/), create an account and add your endpoint URL ([data.js](https://github.com/mshuber1981/github-react-portfolio-template/blob/0133fcc02ab048fefcf73825d02385ffe27c3721/src/data.js#L108) lines 108-113)
+
+   - ```javascript
+     /* Contact Info
+      ************************************************************** 
+      Add your formspree endpoint below.
+      https://formspree.io/
+     */
+     export const formspreeUrl = "https://formspree.io/f/YourEndpoint";
+     ```
+
+## Deploy
+
+A helpful guide for Create React App deployments with GitHub Pages can be found [here](https://create-react-app.dev/docs/deployment#github-pages).
+
+1. Update the homepage value ([package.json](https://github.com/mshuber1981/github-react-portfolio-template/blob/0133fcc02ab048fefcf73825d02385ffe27c3721/package.json#L3) line 3)
+
+   - ```javascript
+     "homepage": "https://YourUsername.github.io/your-app/",
+     ```
+
+1. Run the deploy command
+
+   - ```bash
+     npm run deploy
+     ```
+
+## Customization Options
+
+Checkout the [Wiki](https://github.com/mshuber1981/github-react-portfolio-template/wiki) for additional customization options:
+
+- [Updating the Hero images](https://github.com/mshuber1981/github-react-portfolio-template/wiki/Updating-the-Hero-images)
+- [Add a custom Blog icon](https://github.com/mshuber1981/github-react-portfolio-template/wiki/Updating-the-Hero-images#add-a-custom-blog-icon)
+- [Updating the About Me section](https://github.com/mshuber1981/github-react-portfolio-template/wiki/Updating-the-About-Me-section)
+- [Updating the Skills section](https://github.com/mshuber1981/github-react-portfolio-template/wiki/Updating-the-Skills-section)
+- [Add a link to your resume](https://github.com/mshuber1981/github-react-portfolio-template/wiki/Updating-the-Skills-section#add-a-link-to-your-resume)
+
+<br />
+
+[Back to top :top:](#a-react-portfolio-template-for-github)
 
 ## License
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
+[MIT](https://choosealicense.com/licenses/mit/)
