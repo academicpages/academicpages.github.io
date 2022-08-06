@@ -6,9 +6,16 @@ author_profile: true
 ---
 ## Conferences
 
-* Procheta Sen, **Sourav Saha**, Debasis Ganguly, Manisha Verma, Dwaipayan Roy, Measuring and Comparing the Consistency of IR Models for Query Pairs with Similar and Different Information Needs, CIKM 2022. (**Accepted**)
+* **Measuring and Comparing the Consistency of IR Models for Query Pairs with Similar and Different Information Needs.** <br>
+ Procheta Sen, **Sourav Saha**, Debasis Ganguly, Manisha Verma, Dwaipayan Roy <br>
+ <em>In International Conference on Information and Knowledge Management, CIKM 2022. (**Accepted**) </em>
 
-* **Sourav Saha**, Mandar Mitra, Dwaipayan Roy, On Modifying Evaluation Measures to Deal with Ties in Ranked Lists, JCDL 2022. (**Accepted**) [(Paper)](https://dl.acm.org/doi/10.1145/3529372.3533291) 
+* **On Modifying Evaluation Measures to Deal with Ties in Ranked Lists.** <br>
+ **Sourav Saha**, Mandar Mitra, Dwaipayan Roy <br> 
+ <em>In ACM/IEEE Joint Conference on Digital Libraries, JCDL 2022. (**Accepted**) 
+  [(Paper)](https://dl.acm.org/doi/10.1145/3529372.3533291) </em> 
 
-* Dwaipayan Roy, **Sourav Saha**, Mandar Mitra, Bihan Sen, Debasis Ganguly, I-REX: A Lucene Plugin for EXplainable IR, CIKM 2019, pp:2949--2952. 
-[(Paper)](https://dl.acm.org/doi/10.1145/3357384.3357859)[(Demo)](https://youtu.be/UkFjH6AG3d0)
+* **I-REX: A Lucene Plugin for EXplainable IR.** <br>
+  Dwaipayan Roy, **Sourav Saha**, Mandar Mitra, Bihan Sen, Debasis Ganguly <br>
+  <em>In International Conference on Information and Knowledge Management, CIKM 2019. pp:2949--2952. 
+[(Paper)](https://dl.acm.org/doi/10.1145/3357384.3357859)[(Demo)](https://youtu.be/UkFjH6AG3d0) </em>
