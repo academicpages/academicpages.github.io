@@ -8,6 +8,8 @@ redirect_from:
   - /about/
   - /about.html
   - /_pages/about/
+  - /_pages/about/
+  - /en/
 ---
 My name is Philippe Laporte. I am a Ph.D. student at the University of Montréal (Canada).<br>
 I currently do research in Nuclear Medicine, 
