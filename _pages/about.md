@@ -15,13 +15,4 @@ My name is Philippe Laporte. I am a Ph.D. student at the University of Montréal
 I currently do research in Nuclear Medicine, 
 where I try to improve segmentation techniques for dynamical PET images in a preclinical context.<br><br>
 
-{{page.lang}}<br>
-{{site.data.l10n.title}}<br>
-{{site.data.en.l10n.title}}<br>
-{{site.data.fr.l10n.title}}<br>
-{{site.data.{{page.lang}}.l10n.title}}<br>
-
-{{site.data[page.lang]}}<br>
-{{ site.data[page.lang].l10n.title }}<br>
-{{ site.data[page.lang]l10n.title }}<br>
-{{ site.data.[page.lang].l10n.title }}<br>
+This website is under construction. Caveat mirator!
