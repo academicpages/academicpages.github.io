@@ -48,9 +48,7 @@ Work experience
   
 Skills
 ======
-| Coding | CAD | Electronics | Language | Others |
-
-| a   | b   | c   | d   | e |
+| Coding   | Design   | Electronics   | Language   | Others |
 | **Python**   | Eagle   | SMT   | Spanish   | Latex |
 | **C/C++**   | Altium   | Flip chip (BGA)   | English   | Adobe Premiere, Illustrator, Pro. |
 | Matlab   | Kicad   | ARM   | German   | cell3 |
