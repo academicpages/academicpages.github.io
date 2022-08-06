@@ -1,0 +1,21 @@
+// Shared Container API
+// ====================
+
+// Container Output
+// ----------------
+// - [$width]         : <length>
+// - [$justify]       : left | center | right
+// - [$math]          : fluid | static
+@mixin container-output(
+  $width,
+  $justify: auto auto,
+  $property: max-width
+) {
+  $output: (
+    #{$property}: $width or 100%,
+    margin-left: nth($justify, 1),
+    margin-right: nth($justify, 2),
+  );
+
+  @include output($output);
+}
