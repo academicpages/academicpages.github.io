@@ -8,6 +8,16 @@ redirect_from:
   - /home.html
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XQNNHHYQ5D"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XQNNHHYQ5D');
+</script>
+
 Welcome to my website!
 
 I am a Ph.D. candidate in the [Department of Economics](https://www.mcgill.ca/economics/) at [McGill University](https://www.mcgill.ca/). I expect to graduate in 2023. My research interests are in the areas of Development Economics, Information Economics, and Applied Microeconomics.
