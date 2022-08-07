@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Filippo Fiocchi"
+title                    : 'Filippo Fiocchi'
 title_separator          : "-"
 name                     : &name "Filippo Fiocchi"
 description              : &description "personal description"
