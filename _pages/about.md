@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm currently a master student at ENS Paris-Saclay, Université Paris-Saclay. 
+Hello, I'm currently a master student at Université Paris-Saclay. 
 
 
 **Contact me:**
