@@ -317,3 +317,11 @@ theme: jekyll-theme-midnight
 
 # Google Analytics
 google_analytics: UA-226087802-1
+
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  google:
+    measurement_id          : G-XQNNHHYQ5D
+    anonymize_ip         : # true, false (default)
+
