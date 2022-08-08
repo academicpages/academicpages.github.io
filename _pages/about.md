@@ -13,7 +13,9 @@ Hello! I am a Research Economist at the Latin America and Caribbean department o
 Primary research fields: public economics and development economics.
 
 Education:
+
 Ph.D. in Economics from Brown University, 2022.
+
 M.A. and B.S. in Economics from UNLP, Argentina.
 
 <!-- ---
