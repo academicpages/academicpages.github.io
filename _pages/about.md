@@ -9,7 +9,7 @@ redirect_from:
 published: true
 ---
 
-I am a PhD student in Computer Science in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu). I am working in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/), advised by Professor [Robert Platt](http://www.ccs.neu.edu/home/rplatt/).
+I am a PhD candidate in Computer Science in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu). I am working in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/), advised by Professor [Robert Platt](http://www.ccs.neu.edu/home/rplatt/).
 
 I received my Bachelor's degree in Computer Science in [Sichuan University](http://www.scu.edu.cn), Chengdu, China.
 
