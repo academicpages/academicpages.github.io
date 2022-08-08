@@ -1,4 +1,5 @@
 <!-- start custom footer snippets -->
+{{page.dir}}<br>
 {% for lang in site.languages %}
     {% if lang == page.lang %}
 {{lang}}
@@ -15,5 +16,5 @@
     {% endif %}
 {% endfor %}
 <br>
-<a href="sitemap/">Sitemap</a><br>
+<a href="/{{site.website_name}}/sitemap/">Sitemap</a><br>
 <!-- end custom footer snippets -->
