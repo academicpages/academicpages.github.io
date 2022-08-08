@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a PhD candidate in Economics at Brown University.
+Hello! I am a Research Economist at the Latin America and Caribbean department of The World Bank. 
 
-I am on the job market in 2021-22.
+Primary research fields: public economics and development economics.
 
-Primary Research Fields: public economics and development economics.
+Education:
+Ph.D. in Economics from Brown University, 2022.
+M.A. and B.S. in Economics from UNLP, Argentina.
 
 <!-- ---
 permalink: /
