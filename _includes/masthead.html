@@ -16,6 +16,7 @@
             {% if page.lang != 'en' %}
               {% assign link.url = "/" | append: page.lang |append: link.url %}
             {% endif %}
+            {{page.lang}} {{link.url}}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
