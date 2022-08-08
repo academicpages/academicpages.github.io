@@ -102,6 +102,9 @@ Ondrej Biza, **Dian Wang**, Robert Platt, Jan-Willem van de Meent, Lawson LS Won
 ` `  
 ` `  
 
+## Service
+Reviewer: CoRL2022, RAL2022, T-RO2022, ICRA2022, IROS2021, ICRA2019
+
 ## Education
 + (2020-Present) PhD student, Computer Science, Northeastern University, Boston, USA
 + (2017-2019) M.S, Computer Science, Northeastern University, Boston, USA
