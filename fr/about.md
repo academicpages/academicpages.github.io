@@ -1,7 +1,7 @@
 ---
-permalink: /fr
-title: "About me"
-excerpt: "About me"
+permalink: /fr/about/
+title: "Qui suis-je"
+excerpt: "Qui suis-je"
 author_profile: true
 name: about
 lang: fr
