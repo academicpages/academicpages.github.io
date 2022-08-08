@@ -13,7 +13,7 @@ redirect_from:
 <img src="/resources/pic1.jpg" alt="me"  style="width:386px;height:330;;border:0;">
 </a>
 
-I am a <b>Senior Researcher</b> at the [INVEST Research Flagship Center](https://invest.utu.fi) of the University of Turku, Finland. I also serve as <b>Research Director</b> of the [INVEST-Hub](https://www.utu.fi/en/investhub) about experimental research and interventions, and <b>Adjunct Researcher</b> at the [Foundational Research on Data](https://imfd.cl/en/acerca-de-nuestro-instituto/), Chile.
+I am a <b>Senior Researcher</b> at the [INVEST Research Flagship Center](https://invest.utu.fi) of the University of Turku, Finland. I also serve as the <b>Research Director</b> of the [INVEST-Hub](https://www.utu.fi/en/investhub) about experimental research and interventions, as an <b>Adjunct Researcher</b> at the [Foundational Research on Data](https://imfd.cl/en/investigador/hector-bahamonde/), Chile, and as an <b>Associate Editor</b> of the [*Social Science*](https://www.springer.com/journal/43545/) journal (Springer)
 
 <p class="lead"> Before joining University of Turku, I was an Assistant Professor (tenure-track) at Universidad de O'Higgins (Chile). Previously, I had served one year as a post-doctoral fellow at Tulane University (New Orleans, LA, U.S.). I received my PhD in Political Science from Rutgers University (New Brunswick, NJ, U.S.) in the spring of 2017.</p>
 
