@@ -1,7 +1,7 @@
 ---
 title: "First and second-order relativistic corrections to the two and higher-dimensional isotropic harmonic oscillator obeying the spinless Salpeter equation"
 collection: publications
-permalink: /publication/2018-02-10-Edery_Laporte_Quantum
+permalink: /fr/publication/2018-02-10-Edery_Laporte_Quantum
 excerpt: "Cet article est à propos de corrections à l'oscillateur harmonique quantique"
 date: 2018-02-10
 venue: 'Journal of Physics Communication'

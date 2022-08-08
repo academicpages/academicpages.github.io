@@ -1,7 +1,7 @@
 ---
 title: "Evaluation of the high affinity [<sup>18</sup>F]fluoropyridine-candesartan in rats for PET imaging of renal AT<sub>1</sub> receptors"
 collection: publications
-permalink: /publication/2021-01-20-F18-Fluoropyridine-Candesartan
+permalink: /fr/publication/2021-01-20-F18-Fluoropyridine-Candesartan
 excerpt: "Cet article est à propos d'aspects de pharmacocinétique"
 date: 2021-01-20
 venue: 'Nuclear Medicine and Biology'
