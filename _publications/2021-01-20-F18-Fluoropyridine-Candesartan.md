@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of the high affinity [<sup>18</sup>F]fluoropyridine-candesartan in rats for PET imaging of renal AT1 receptors"
+title: "Evaluation of the high affinity [<sup>18</sup>F]fluoropyridine-candesartan in rats for PET imaging of renal AT<sub>1</sub> receptors"
 collection: publications
 permalink: /publication/2021-01-20-F18-Fluoropyridine-Candesartan
 excerpt: 'This paper is about pharmacokinetic for a renal hypertension drug'
@@ -7,8 +7,8 @@ date: 2021-01-20
 venue: 'Nuclear Medicine and Biology'
 lang: en
 paperurl: 'http://academicpages.github.io/files/http://academicpages.github.io/files/F18.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Diaz, A et al.<i>Evaluation of the high affinity [<sup>18</sup>F]fluoropyridine-candesartan in rats for PET imaging of renal AT<sub>1</sub> receptors</i>. Nuclear Medicine and Biology 96-97 (2021).'
 ---
-This paper is about pharmacokinetic for a renal hypertension drug.
+This paper is about pharmacokinetic for a renal hypertension drug.<br>
 
 [Download paper here](http://academicpages.github.io/files/F18.pdf)
