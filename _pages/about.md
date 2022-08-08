@@ -1,34 +1,34 @@
 ---
 permalink: /
-title: "ABOUT ME"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My name is Kia Rahmani and I am a PhD candidate of computer science at Purdue University. 
-I am a member of the [programming languages group](https://purpl.cs.purdue.edu/), 
-working under the supervision of 
-Professor [Suresh Jagannathan](https://www.cs.purdue.edu/homes/suresh/) 
-and 
-Professor [Benjamin Delaware](https://www.cs.purdue.edu/homes/bendy/).
+My name is Kia Rahmani and I am a postdoctoral fellow at the [computer science department](https://www.cs.utexas.edu/) of the [University of Texas at Austin](https://www.utexas.edu/). I am a member of the [Autonomous Mobile Robotics Laboratory](https://amrl.cs.utexas.edu/), where I am supervised by Prof. [Işil Dillig](https://www.cs.utexas.edu/~isil/) and Prof. [Joydeep Biswas](https://www.joydeepb.com/). My main research interests are symbolic analysis and synthesis of neural-powered programs, specifically designed for learning advanced long-term autonomy in mobile robotic fleets. 
 
+Prior to joining University of Texas, I obtained my PhD from [Purude University](https://www.cs.purdue.edu/) under the supervision of Prof. [S. Jagannathan](https://www.cs.purdue.edu/homes/suresh/) and Prof. [B. Delaware](https://www.cs.purdue.edu/homes/bendy/). I also did an internship with [Microsoft](https://www.microsoft.com/en-us/research/) where I developed a new neurosymbolic synthesis technique using [GPT-3](https://en.m.wikipedia.org/wiki/GPT-3) natural language model, under the supervision of Dr. [S. Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/) and Dr. [M. Raza](https://www.microsoft.com/en-us/research/people/moraza/).
 
-
-My PhD thesis is focused on analysis of concurrency in modern data-intensive programs. More broadly, I am interested in all mathematical methods for modeling, analysis and verification of (classical or quantum) computer programs. 
-
-
-
-
-I was previously a research intern at [Microsoft](https://www.microsoft.com/en-us/research/), working on a neurosymbolic synthesis technique using [GPT-3](https://en.m.wikipedia.org/wiki/GPT-3) natural language model. My work was supervised by Dr. [Mohammad Raza](https://www.microsoft.com/en-us/research/people/moraza/) and Dr. [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/).
-
-<span style="color:red">
-  ** I will join the University of Texas at Austin this Fall as a post-doctoral fellow to do research on neurosymbolic learning techniques in the domain of autonomous robotics.**
-</span>
+Outsude academia, I am very passionate about martial arts, and specifically, I spend time learning and practicing [Brazilian Jiu Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu) style of self-defense.
 
 ## Publications
+<ul>
+    <li> Symbolic Analysis of Weak Concurrency Semantics in Modern Database Programs
+    <br />
+    <font size="3">
+      (<b>Kia Rahmani</b>)
+    </font> 
+    <br /> 
+    <font size="2">
+       <a href="https://doi.org/10.25394/PGS.20398725.v1"> 
+      [PhD Thesis, Purdue University, August 2022]</a>
+      <a href="/files/defense.pdf"> [Slides] </a>
+    </font>
+    </li>
+</ul>
 <ul>
     <li>Multi-modal Program Inference: a Marriage of Pre-trained Language Models and Component-based Synthesis
     <br />
