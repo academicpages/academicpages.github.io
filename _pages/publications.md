@@ -9,6 +9,10 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 
 ## Statistical Methods
 
+**[Sensitivity Analyses of Clinical Trial Designs: Selecting Scenarios and Summarizing Operating Characteristics](https://arxiv.org/pdf/2208.03887.pdf)**.  
+**Han L,** Arfe A, Trippa L.  
+This paper develops a principled approach for sensitivity analyses of design parameters in the evaluation of competing trial designs.
+
 **[Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects](https://arxiv.org/abs/2112.09313)**.  
 *2022 ASA Young Investigator Award of the Section on Statistics in Epidemiology.*  
 **Han L,** Hou J, Cho K, Duan R, Cai T.  
@@ -30,9 +34,6 @@ Biometrics (2022).
 Wang X, Parast L, **Han L,** Tian L, Cai T.  
 We propose a novel calibrated model fusion approach to optimally combine multiple surrogate markers to improve power.
 
-**Representative and Optimal Sensitivity Analysis (ROSA) for Clinical Trials**.  
-**Han L,** Arfe A, Trippa L.  
-This paper develops a principled approach for sensitivity analysis of design parameters in the evaluation of competing trial designs.
 
 **Doubly Robust Semi-supervised Estimation of Survival**.    
 **Han L,** Hou J, Cai T.  
