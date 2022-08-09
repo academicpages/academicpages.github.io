@@ -8,7 +8,7 @@ author_profile: true
 Coming soon! Stay tuned!
 
 
-<!Meetings are scheduled on Mondays at noon US eastern time, unless otherwise noted. The Zoom address will be made available to participants ahead of each meeting. 
+<!---Meetings are scheduled on Mondays at noon US eastern time, unless otherwise noted. The Zoom address will be made available to participants ahead of each meeting. 
 
 **February 7th: Ebad Ebadi (GWU), "*Adapting to Sanctions: Evidence from Firm Response and Market Reallocation in Iran.*"**
 <br />
