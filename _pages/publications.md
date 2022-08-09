@@ -28,11 +28,11 @@ author_profile: true
 
 1. H. Li, **Y. Deng**, K. Sampani, S. Cai, ZG.. Li, J. Sun, G. Karniadakis, [Computational investigation of blood cell transport in retinal microaneurysms](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009728). *PLOS Computational Biology*, 18(1), e1009728, 2022.
 
-1. **Y. Deng**<sup>\*</sup>, L. Lu<sup>\*</sup>, L. Aponte, A. M. Angelidi, V. Novak, G. Karniadakis, C. S. Mantzoros. [Deep transfer learning and data augmentation improve glucose levels prediction in type 2 diabetes patients](https://doi.org/10.1038/s41746-021-00480-x). *npj Digital Medicine*, 4, 109, 2021.
+1. **Y. Deng**<sup>\*</sup>, L. Lu<sup>\*</sup>, L. Aponte, A. M. Angelidi, V. Novak, G. Karniadakis, C. S. Mantzoros. [Deep transfer learning and data augmentation improve glucose levels prediction in type 2 diabetes patients](https://doi.org/10.1038/s41746-021-00480-x). *npj Digital Medicine*, 4, 109, 2021. [[code](https://github.com/yixiangD/AccurateBG)]
 
 1. E. Javadi, **Y. Deng**, G. Karniadakis, S. Jamali, [In silico biophysics and hemorheology of blood hyperviscosity syndrome](https://www.sciencedirect.com/science/article/abs/pii/S0006349521004422). *Biophysical Journal*, 120(13):2723-33, 2021.
 
-1. A. Yazdani<sup>\*</sup>, **Y. Deng**<sup>\*</sup>, H. Li<sup>\*</sup>, E. Javadi, Z. Li, S. Jamali, J. Humphrey, C. Mantzoros, G. Karniadakis, [Integration of blood cell mechanics and platelet adhesive dynamics with coagulation cascade: application to normal and diabetic blood](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2020.0834). *Journal of Royal Society Interface*, 18(175), 20200834, 2021
+1. A. Yazdani<sup>\*</sup>, **Y. Deng**<sup>\*</sup>, H. Li<sup>\*</sup>, E. Javadi, Z. Li, S. Jamali, J. Humphrey, C. Mantzoros, G. Karniadakis, [Integration of blood cell mechanics and platelet adhesive dynamics with coagulation cascade: application to normal and diabetic blood](https://royalsocietypublishing.org/doi/full/10.1098/rsif.2020.0834). *Journal of Royal Society Interface*, 18(175), 20200834, 2021. [[code](https://github.com/yixiangD/coagulation_cascade)]
 
 1. **Y. Deng**, G. Lin, X. Yang, [Multifidelity data fusion via gradient-Enhanced gaussian process regression](https://global-sci.org/intro/article_detail/cicp/18397.html). *Communications in Computational Physics*, 28(5), 1812--1837, 2020.
 
