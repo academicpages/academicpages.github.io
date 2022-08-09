@@ -5,7 +5,7 @@ permalink: /call-papers/
 author_profile: true
 ---
 
-We are excited to announce a call for submissions for the Graduate Students in International Political Economy (GSIPE) workshop for Fall 2022! If you are interested in presenting your work at GSIPE in the Fall, please fill out this **[form](https://docs.google.com/forms/d/e/1FAIpQLSf-8wKM5a17SS5Il7lH0wzkquD8HW_nNinxIT--uCbjEBYlZg/viewform) by Sunday, July 31st at 11:59pm Eastern Time.**
+Thanks to all who submitted an abstract for our Fall workshops! Decisions will be sent out soon.
 
 [International political economy (IPE)](https://www.isanet.org/ISA/Sections/IPE) “seeks to advance knowledge of how political institutions, processes, and actors influence economic interactions, and conversely, how economic institutions, processes, and actors affect political interactions. IPE scholars examine the role of domestic drivers in shaping global politics as well as the influence of global drivers on domestic politics. Substantive issues this section focuses on international and regional regimes, private authority structures, welfare policies, social and environmental policies, monetary and exchange rate policies, global integration, international trade, international development and equity, international finance, multinational corporations, NGOs, and corporate social responsibility.''
 
