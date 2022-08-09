@@ -1,12 +1,14 @@
 ---
 layout: archive
-title: "Schedule Spring 2022"
+title: "Schedule Fall 2023"
 permalink: /schedule/
 author_profile: true
 ---
 
+Coming soon! Stay tuned!
 
-Meetings are scheduled on Mondays at noon US eastern time, unless otherwise noted. The Zoom address will be made available to participants ahead of each meeting. 
+
+<!Meetings are scheduled on Mondays at noon US eastern time, unless otherwise noted. The Zoom address will be made available to participants ahead of each meeting. 
 
 **February 7th: Ebad Ebadi (GWU), "*Adapting to Sanctions: Evidence from Firm Response and Market Reallocation in Iran.*"**
 <br />
@@ -71,5 +73,5 @@ Meetings are scheduled on Mondays at noon US eastern time, unless otherwise note
 **May 9th: Pengshan Pan (Pittsburgh), "*Foreign Mining Investment, Labor Market and Local Distrust: Evidence from Kyrgyzstan Kumtor Gold Mine.*"**
 <br />
 *Moderator:* Tanja Schweinberger (University of Geneva).
-
+--->
 
