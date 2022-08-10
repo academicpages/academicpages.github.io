@@ -1,4 +1,12 @@
-# about
+---
+permalink: /
+title: "About"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 ![三方向云纹干涉仪](/images/三方向云纹干涉仪.JPG "三方向云纹干涉仪")
 
 ![moire](/images/x.gif "moire_x")
