@@ -30,6 +30,7 @@ News
 * [2020/09/28] &nbsp; The slides of IJCB'20 Face Anti-Spoofing and Manipulation Detection Tutorial can be download here [[1](https://yaojieliu.github.io/files/IJCB2020-Session1.pdf), [2](https://yaojieliu.github.io/files/IJCB2020-Session2.pdf), [3](https://yaojieliu.github.io/files/IJCB2020-Session3.pdf)].
 * [2020/07/02] &nbsp; One paper is accepted in ECCV 2020.
 * [2020/02/24] &nbsp; One paper is accepted in CVPR 2020.
+
 <!--
 * [2020/01/15] &nbsp; I give a talk at Sichuan University.
 * [2020/01/14] &nbsp; I give a talk at University of Electronic Science and Technology of China.
