@@ -9,14 +9,13 @@ The most up-to-date list of my publications can be found on my [Google Scholar p
 
 ## Conference publications
 
-1. <span style="color:blue">**[ESA '22]**</span> Arghya Bhattacharya, Abiyaz Chowdhury, **Helen
-    Xu**, Rathish Das, Rezaul A. Chowdhury, Rob Johnson, Rishab Nithyanand, and
-  Michael A. Bender. "When Are Cache-Oblivious Algorithms Cache Adaptive? A
-  Case Study of Matrix Multiplication and Sorting." In European Symposium on Algorithms, 2022.
-[button url="http://www.google.com"]
-<button name="button" onclick="http://www.google.com">Click me</button>
-[Click me](http://www.google.com){: .btn}
-2. test
+1. <span style="color:blue">**[ESA '22]**</span> *When Are Cache-Oblivious Algorithms Cache Adaptive? A Case Study of Matrix Multiplication and Sorting* 
+Arghya Bhattacharya, Abiyaz Chowdhury, **Helen Xu**, Rathish Das, Rezaul A. Chowdhury, Rob Johnson, Rishab Nithyanand, and Michael A. Bender. 
+European Symposium on Algorithms (ESA), 2022.
+1. <span style="color:blue">**[ACDA '21]**</span> *Multidimensional  Included and Excluded Sums*
+**Helen Xu, Sean Fraser, and Charles E. Leiserson.
+SIAM Conference on Applied and Computational Discrete Algorithms (ACDA),  2021.
+[SIAM](https://epubs.siam.org/doi/10.1137/1.9781611976830.17){: .btn} [arXiv](https://arxiv.org/abs/2106.00124){: .btn}
 
 ## Peer-reviewed short publications
 
