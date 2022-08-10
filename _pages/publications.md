@@ -22,6 +22,21 @@ Prashant Pandey, Brian Wheatman, **Helen Xu**, and Aydın Buluç.
 ACM International Conference on Management of Data (SIGMOD), 2021.     
 [ACM](https://dl.acm.org/doi/10.1145/3448016.3457313){: .btn}
 
+1. <span style="color:blue">**[ALENEX '21]**</span> *A Parallel
+  Packed Memory Array to Store Dynamic Graphs.* 
+Brian Wheatman and **Helen Xu**.     
+SIAM Symposium on
+  Algorithm Engineering and Experiments (ALENEX), 2021.      
+
+[SIAM](https://epubs.siam.org/doi/10.1137/1.9781611976472.3){: .btn}
+
+1. <span style="color:blue">**[APOCS '21]**</span> *Beyond Worst-case Analysis of Multicore Caching
+  Strategies.*       
+(in alphabetical order) Shahin Kamali and **Helen Xu**.     
+SIAM Symposium on Algorithmic Principles of Computer Systems (APOCS), 2021.     
+
+[SIAM](https://epubs.siam.org/doi/abs/10.1137/1.9781611976489.1){: .btn} [arXiv (full version)](https://arxiv.org/abs/2011.02046)
+
 ## Peer-reviewed short publications
 
 
