@@ -33,7 +33,7 @@ In general, I am very interested in __computational statistics__ and __machine l
 
 
 ## Talk/Presentation
-*   Incoming Talk at topic-contributed sessions of _[Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2022/)_, August 2022, USA.
+*   Talk at topic-contributed sessions of _[Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2022/)_, August 2022, USA.
 *   Talk at _[SIAM Conference on Uncertainty Quantification](https://siam.org/conferences/cm/conference/uq22)_, April 2022, USA.
 *   Poster at _[AI UK 2022](https://www.turing.ac.uk/ai-uk)_, March 2022, UK.
 *   Poster at _[Statistics at Bristol: FRY](https://web-eur.cvent.com/event/a5a8878f-5ff8-457d-ad63-09fc66f9afd2/websitePage:645d57e4-75eb-4769-b2c0-f201a0bfc6ce?RefId=HIMR&rp=00000000-0000-0000-0000-000000000000)_, September 2021, UK. 
