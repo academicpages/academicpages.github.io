@@ -15,9 +15,9 @@ My research interests include parallel computing, cache-efficient algorithms, an
 I graduated with my [PhD in Computer Science](https://credentials.mit.edu/certificate/bce7086eacde5e259b95a31ef69cd6ad) from the [Supertech group](http://supertech.mit.edu/) at [MIT](http://web.mit.edu/) [CSAIL](https://www.csail.mit.edu/) in 2022, where I was fortunate to be advised by [Prof. Charles E. Leiserson](http://people.csail.mit.edu/cel/).
 My PhD thesis was on "[The Locality-First Strategy for Developing Efficient Multicore Algorithms](https://hdl.handle.net/1721.1/143200)."
 
-Here is a recent copy of my [CV](https://itshelenxu.github.io/files/CV.pdf).
+Here is a recent copy of my [CV](https://itshelenxu.github.io/files/CV.pdf) (updated 8-10-2022).
 
-Please don't hesistate to reach out if you'd like to hear more about my work/start a new collaboration/spend a summer with me at Berkeley Lab! The best way to contact me is via email.
+I am always looking for new collaborators and students! Please don't hesistate to reach out if you'd like to hear more about my work, start a new collaboration, or spend a summer with me at Berkeley Lab! The best way to contact me is via [email](hjxu@lbl.gov).
 
 ## News
 
@@ -30,3 +30,5 @@ Please don't hesistate to reach out if you'd like to hear more about my work/sta
 <span style="color:blue">**[Feb. '22]**</span> I completed my Ph.D. and am moving to Berkeley Lab as a Postdoctoral Scholar!
 
 ## Selected Publications
+
+TODO: fillin
