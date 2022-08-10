@@ -21,4 +21,6 @@ Please don't hesistate to reach out if you'd like to hear more about my work/sta
 
 ## News
 
+<span style="color:blue">[Aug. '22]</span> I am attending the [Argonne Training Program on Extreme-Scale Computing](https://extremecomputingtraining.anl.gov/)!
+
 ## Selected Publications
