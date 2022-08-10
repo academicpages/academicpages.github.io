@@ -26,18 +26,19 @@ ACM International Conference on Management of Data (SIGMOD), 2021.
   Packed Memory Array to Store Dynamic Graphs.* 
 Brian Wheatman and **Helen Xu**.     
 SIAM Symposium on
-  Algorithm Engineering and Experiments (ALENEX), 2021.      
-
+  Algorithm Engineering and Experiments (ALENEX), 2021.     
 [SIAM](https://epubs.siam.org/doi/10.1137/1.9781611976472.3){: .btn}
 
 1. <span style="color:blue">**[APOCS '21]**</span> *Beyond Worst-case Analysis of Multicore Caching
   Strategies.*       
 (in alphabetical order) Shahin Kamali and **Helen Xu**.     
 SIAM Symposium on Algorithmic Principles of Computer Systems (APOCS), 2021.     
-
-[SIAM](https://epubs.siam.org/doi/abs/10.1137/1.9781611976489.1){: .btn} [arXiv (full version)](https://arxiv.org/abs/2011.02046)
+[SIAM](https://epubs.siam.org/doi/abs/10.1137/1.9781611976489.1){: .btn} [arXiv (full version)](https://arxiv.org/abs/2011.02046){: .btn}
 
 ## Peer-reviewed short publications
 
-
+1. <span style="color:blue">**[HPEC '20]**</span> *Work-Efficient Parallel Algorithms for Accurate Floating-Point Prefix Sums.*       
+Sean Fraser, **Helen Xu**, and Charles E. Leiserson.      
+IEEE High Performance Extreme Computing Conference (HPEC), 2020.      
+[IEEE](https://ieeexplore.ieee.org/document/9286240){: .btn} [pdf](https://people.csail.mit.edu/hjxu/papers/prefix-hpec.pdf){: .btn}
 
