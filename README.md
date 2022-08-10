@@ -1,5 +1,6 @@
-© 2022 Keming Zhang. Powered by Jekyll & AcademicPages, a fork of Minimal Mistakes.
+This is my own personal website at [zhangkmsjtu.github.io](https://zhangkmsjtu.github.io/), which uses [this repository](https://github.com/academicpages/academicpages.github.io). 
 
-### Note: Fork [this repository](https://github.com/academicpages/academicpages.github.io) 
+© 2022 Keming Zhang. 
 
+### Note: v1.0.0
 
