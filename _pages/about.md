@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![三方向云纹干涉仪](/images/三方向云纹干涉仪.JPG "三方向云纹干涉仪")
+![三方向云纹干涉仪-w550](/images/三方向云纹干涉仪.JPG "三方向云纹干涉仪")
 
 ![moire](/images/x.gif "moire_x")
 ![moire](/images/xy.gif "moire_xy")
