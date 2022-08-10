@@ -16,6 +16,7 @@ I am a postdoctoral research fellow in the Department of Biomedical Informatics 
 * B.S., Computer Science and Mathematics, Magna Cum Laude with Honors, Univeristy of Arizona, 2015.1 - 2017.5
 
 ## Selected Awards/Honors
+* NIH NLM K99/R00 Pathway to Independence Award, 2022
 * American Association of University Women International Fellow, 2022
 * Google Cloud Research Innovator, 2022
 * National Cancer Institute’s Multilevel Intervention Training Institute Fellow, 2022
@@ -31,7 +32,9 @@ I am a postdoctoral research fellow in the Department of Biomedical Informatics 
 ## News 
 
 <ul style="width: auto; height: 300px; overflow: auto">
-   <li> <b>[June, 2022]</b>. Our poster is accepted in <a href="https://amia.org/education-events/amia-2022-annual-symposium">AMIA 2022 Annual Symposium</a>! </li>
+  <li> <b>[August, 2022]</b>. Dr. Liu received a NIH NLM K99/R00 Pathway to Independence Award!!! She will continue her research in optimizing clinical decision support alerts using explainable artificial intelligence (XAI). </li> 
+  <li> <b>[July, 2022]</b>. Dr. Liu presented in the Center for Precision Medicine at Vanderbilt University! </li> 
+  <li> <b>[June, 2022]</b>. Our poster is accepted in <a href="https://amia.org/education-events/amia-2022-annual-symposium">AMIA 2022 Annual Symposium</a>! </li>
   <li> <b>[June, 2022]</b>. Dr. Liu graudated from NCI Multilevel Intervention Training Institute (MLTI)! </li>
    <li> <b>[June, 2022]</b>. Our paper is published in <a href="https://doi.org/10.1093/jamia/ocac089">JAMIA</a>! </li>
    <li> <b>[May, 2022]</b>. Dr. Liu presented in the AMIA Clninical Informatics Conference in Houston, TX! </li>
