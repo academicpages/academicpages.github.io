@@ -21,10 +21,12 @@ Please don't hesistate to reach out if you'd like to hear more about my work/sta
 
 ## News
 
-<span style="color:blue">**[Aug. '22]**</span> I am attending the [Argonne Training Program on Extreme-Scale Computing](https://extremecomputingtraining.anl.gov/)!
+<span style="color:blue">**[Aug. '22]**</span> I am attending the [Argonne Training Program on Extreme-Scale Computing](https://extremecomputingtraining.anl.gov/) from July 31 - August 12th.
 
-<span style="color:blue">**[Jun. '22]**</span> Our paper "When Are Cache-Oblivious Algorithms Cache Adaptive? A Case Study of Matrix Multiplication and Sorting" has been accepted to ESA '22!
+<span style="color:blue">**[Jun. '22]**</span> Our paper "When Are Cache-Oblivious Algorithms Cache Adaptive? A Case Study of Matrix Multiplication and Sorting" has been accepted to ESA '22.
 
-<span style="color:blue">**[Feb. '22]**</span> I graduted and am moving to Berkeley Lab for my postdoc. Thanks to everyone who helped me along the way!
+<span style="color:blue">**[Apr. '22]**</span> I am honored to be selected as the 2022 [Grace Hopper Fellow in Computing Sciences](https://cs.lbl.gov/careers/computing-fellowships/hopper-fellowship/) at Berkeley Lab!
+
+<span style="color:blue">**[Feb. '22]**</span> I completed my Ph.D. and am moving to Berkeley Lab as a Postdoctoral Scholar!
 
 ## Selected Publications
