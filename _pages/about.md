@@ -30,6 +30,7 @@ News
 * [2020/09/28] &nbsp; The slides of IJCB'20 Face Anti-Spoofing and Manipulation Detection Tutorial can be download here [[1](https://yaojieliu.github.io/files/IJCB2020-Session1.pdf), [2](https://yaojieliu.github.io/files/IJCB2020-Session2.pdf), [3](https://yaojieliu.github.io/files/IJCB2020-Session3.pdf)].
 * [2020/07/02] &nbsp; One paper is accepted in ECCV 2020.
 * [2020/02/24] &nbsp; One paper is accepted in CVPR 2020.
+<!--
 * [2020/01/15] &nbsp; I give a talk at Sichuan University.
 * [2020/01/14] &nbsp; I give a talk at University of Electronic Science and Technology of China.
 * [2019/09/24] &nbsp; The slides of BTAS 2019 Face Anti-Spoofing Tutorial can be download here [[1](https://drive.google.com/open?id=1A_4pMeOJbnWE4leAfK8v7w9Bb1RnUxRq), [2](https://drive.google.com/open?id=12-R-xE4gksWWUnq1nRIus6VKQnScRBiR), [3](https://drive.google.com/open?id=1B_mFgTH5wRw9eY0L6kGFR0h8Hgib5gwi)].
@@ -41,7 +42,7 @@ News
 * [2019/04/05] &nbsp; One CVPR'19 paper about zero-shot face anti-spoofing is on arXiv.
 * [2019/03/22] &nbsp; Submit one paper to ICCV 2019.
 * [2019/03/05] &nbsp; SiW Database has been distributed to >300 research groups.
-
+--> 
 
 <br/>
 
@@ -68,6 +69,26 @@ Research Highlights
 
 Research
 ======
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="https://yaojieliu.github.io/images/mdl_fas.jpeg?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Multi-domain Learning for Updating Face Anti-spoofing Models</strong><br/>
+      Xiao Guo, <u>Yaojie Liu</u>, Anil Jain, Xiaoming Liu<br/>
+      European Conference on Computer Vision (ECCV'22), 2022.<br/>
+      [<a href="http://cvlab.cse.msu.edu/pdfs/guo_liu_jain_liu_eccv2022.pdf">PDF</a>]
+      [<a href="http://cvlab.cse.msu.edu/pdfs/guo_liu_jain_liu_eccv2022_supp.pdf">Supp</a>]
+      [<a href="https://github.com/CHELSEA234/Multi-domain-learning-FAS">Code</a>]
+    </p>
+  </div>
+</div>
+
+___
+
 <div class="row">
   <div class="column left">
     <img align="left" width="100%" src="https://yaojieliu.github.io/images/vit.png?raw=true">  
@@ -77,7 +98,7 @@ Research
     <p>
       <strong>Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing</strong><br/>
       Hsin-Ping Huang, Deqing Sun, <u>Yaojie Liu</u>, Wen-Sheng Chu, Taihong Xiao, Jinwei Yuan, Hartwig Adam, Ming-Hsuan Yang<br/>
-      arXiv, 2022.<br/>
+      European Conference on Computer Vision (ECCV'22), 2022.<br/>
       [<a href="https://arxiv.org/pdf/2203.12175.pdf">PDF</a>]
     </p>
   </div>
