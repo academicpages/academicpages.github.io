@@ -12,8 +12,5 @@ main:
   - title: "Teaching and Service"
     url: /teaching/
 
-  - title: "Service"
-    url: /service/
-
   - title: "Extracurricular"
     url: /extra/
