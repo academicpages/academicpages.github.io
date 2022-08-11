@@ -1,13 +1,15 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
 <script>
-    let helenURL = window.location.origin + '/images/helen.jpeg';
-    let secondURL = window.location.origin + '/images/claire.png';
-    $('.profile_image_switch').hover(function () { // Mouse entered
-        $('.profile_image_switch').html(`<img src="${secondURL}" alt="A Short Hike">`);
-    }, function () { // Mouse left
-        $('.profile_image_switch').html(`<img src="${helenURL}" alt="Helen Xu">`);
-    })
+    $(document).ready(function () {
+        let helenURL = window.location.origin + '/images/helen.jpeg';
+        let secondURL = window.location.origin + '/images/claire.png';
+        $('.profile_image_switch').hover(function () { // Mouse entered
+            $('.profile_image_switch').html(`<img src="${secondURL}" alt="A Short Hike">`);
+        }, function () { // Mouse left
+            $('.profile_image_switch').html(`<img src="${helenURL}" alt="Helen Xu">`);
+        })
+    });
 </script>
 
 {% include analytics.html %}
