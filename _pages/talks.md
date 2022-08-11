@@ -13,7 +13,7 @@ Lawrence Berkeley National Lab, 2022.
 
 *Multidimensional Included and Excluded Sums.*      
 SIAM Conference on Applied and Computational Discrete Algorithms (ACDA),  2021.      
-<span style="color:red">**[Finalist for best student presentation]**</span>      
+<span style="color:red">**Finalist for best student presentation**</span>      
 [slides](https://itshelenxu.github.io/files/slides/exsums-acda-21.pdf){: .btn} [video](https://www.dropbox.com/s/3f48y1hrgchlhih/acda21.mp4?dl=0){: .btn}
 
 *Beyond Worst-case Analysis of Multicore Caching Strategies.*       
