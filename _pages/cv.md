@@ -28,4 +28,4 @@ Work experience
 
 * 2019.10-date : Lecturer, Associate professor
   * Shanghai University for Science and Technology
-  * Duties included: Undergraduate course teaching (Theoretical Mechanics, Mechanics of Materials, Engineering Mechanics, etc.), Moire Interferometer, Grating preparation, DIC (digital image correlation), etc.
+  * Duties included: Undergraduate and graduate course teaching (Theoretical Mechanics, Mechanics of Materials, Engineering Mechanics, Finite Element Method, Caculation Method, etc.), Moire Interferometer, Grating preparation, DIC (digital image correlation), etc.
