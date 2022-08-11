@@ -8,7 +8,7 @@ author_profile: true
 ## Teaching
 
 - Courses
-  - **[Performance Engineering of Software Systems,**(https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)** MIT: Fall 2018, 2017.      
+  - **[Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)**, MIT: Fall 2018, 2017.      
   - **Foundations of Computer Science,** Stony Brook University: Fall 2014, Spring 2015.
 
 - Qualifications
