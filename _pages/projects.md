@@ -22,5 +22,6 @@ I just started a larger project based on the German inheritance and gift tax dat
 
 In a first subproject we will examine the gender gap in parental gifts and inheritances. Prior research has documented significant gender wealth inequalities in most countries around the world. However, less is known about how the family through intergenerational transfers in combination with institutional factors such as the tax system shape the gender wealth gap. To examine gender differences in parental transfers, we look at the distribution of inheritances and gifts by gender and asset type. We then examine if women and men benefit differently from tax exemptions resulting in a gender gap in the effective tax rate. Preliminary analyses indicate that the gender gift gap is much larger than the gender inheritance gap. Furthermore, preliminary analyses indicate that the German inheritance and gift tax system contributes to gender wealth inequality.
 
-<iframe src="/files/output4d_gepr.pdf" scrolling="no"  height="750" width="100%"  style="border:none;"></iframe>
+
+<iframe src="/files/effective_tax.png" scrolling="no"  height="750" width="100%"  style="border:none;"></iframe>
 
