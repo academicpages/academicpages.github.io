@@ -19,7 +19,7 @@ During my Ph.D., I was lucky to spend time at [NVIDIA Research](https://www.nvid
 
 Here is a recent copy of my [CV](https://itshelenxu.github.io/files/CV.pdf) (updated 8-10-2022).
 
-I am always looking for new collaborators. Please don't hesistate to reach out if you'd like to hear more about my work, start a new collaboration, or spend a summer with me at Berkeley Lab! The best way to contact me is via [email](hjxu@lbl.gov).
+I am always looking for new collaborators. Please don't hesistate to reach out if you'd like to hear more about my work, start a new collaboration, or spend a summer with me at Berkeley Lab! The best way to contact me is via <a href = "mailto: hjxu@lbl.gov">email</a>.
 
 ## News
 
