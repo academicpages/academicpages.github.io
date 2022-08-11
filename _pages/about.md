@@ -17,7 +17,7 @@ My PhD thesis was on "[The Locality-First Strategy for Developing Efficient Mult
 
 Here is a recent copy of my [CV](https://itshelenxu.github.io/files/CV.pdf) (updated 8-10-2022).
 
-I am always looking for new collaborators and students! Please don't hesistate to reach out if you'd like to hear more about my work, start a new collaboration, or spend a summer with me at Berkeley Lab! The best way to contact me is via [email](hjxu@lbl.gov).
+I am always looking for new collaborators and students. Please don't hesistate to reach out if you'd like to hear more about my work, start a new collaboration, or spend a summer with me at Berkeley Lab! The best way to contact me is via [email](hjxu@lbl.gov).
 
 ## News
 
@@ -28,7 +28,3 @@ I am always looking for new collaborators and students! Please don't hesistate t
 <span style="color:blue">**[Apr. '22]**</span> I am honored to be selected as the 2022 [Grace Hopper Fellow in Computing Sciences](https://cs.lbl.gov/careers/computing-fellowships/hopper-fellowship/) at Berkeley Lab!
 
 <span style="color:blue">**[Feb. '22]**</span> I completed my Ph.D. and am moving to Berkeley Lab as a Postdoctoral Scholar!
-
-## Selected Publications
-
-TODO: fillin

@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-The most up-to-date list of my publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=ZcguQt4AAAAJ&hl=en).
+Publications are listed in reverse chronological order. The most up-to-date list of my publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=ZcguQt4AAAAJ&hl=en).
 
 ## Conference publications
 
@@ -16,7 +16,7 @@ Arghya Bhattacharya, Abiyaz Chowdhury, **Helen Xu**, Rathish Das, Rezaul A. Chow
 1. <span style="color:blue">**[ACDA '21]**</span> *Multidimensional  Included and Excluded Sums.*      
 **Helen Xu**, Sean Fraser, and Charles E. Leiserson.      
 SIAM Conference on Applied and Computational Discrete Algorithms (ACDA),  2021.     
-<span style="color:red">**Finalist for best student presentation.**</span>
+<span style="color:red">**Finalist for best student presentation.**</span>     
 [pdf](https://itshelenxu.github.io/files/papers/exsums-full.pdf){: .btn} [SIAM](https://epubs.siam.org/doi/10.1137/1.9781611976830.17){: .btn} [arXiv](https://arxiv.org/abs/2106.00124){: .btn} 
 
 1. <span style="color:blue">**[SIGMOD '21]**</span> *Terrace: A Hierarchical Graph Container for Skewed Dynamic Graphs.*     
@@ -60,7 +60,7 @@ IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2018.
 (in alphabetical order) Michael A. Bender, Martin Farach-Colton, Rob Johnson, Simon Mauras, Tyler
  Mayer, Cynthia Phillips, and **Helen Xu**.       
 ACM Symposium on Principles of Database Systems (PODS), 2017.     
-[pdf](https://itshelenxu.github.io/files/papers/wosl-pods-17.pdf){: .btn} [ACM](https://dl.acm.org/doi/10.1145/3034786.3056117)
+[pdf](https://itshelenxu.github.io/files/papers/wosl-pods-17.pdf){: .btn} [ACM](https://dl.acm.org/doi/10.1145/3034786.3056117){: .btn}
 
 ## Peer-reviewed short publications
 
