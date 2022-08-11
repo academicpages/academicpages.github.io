@@ -1,14 +1,14 @@
 ---
 title: "Other publications"
 collection: publications
-permalink: 
+permalink:  
 excerpt: 'others'
-date: 
-venue: ''
+date:  
+venue: ' '
 paperurl: 'https://www.researchgate.net/profile/Keming-Zhang-2'
-citation: ''
+citation: ' '
 ---
-
+  
 
 [ResearchGate](https://www.researchgate.net/profile/Keming-Zhang-2)
 
