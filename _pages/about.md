@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am the 2022 Grace Hopper Postdoctoral Fellow in Computing Science at Lawrence Berkeley National Laboratories. I am thankful to be hosted by [Dr. Aydın Buluç](https://people.eecs.berkeley.edu/~aydin/) in the [PASSION lab](https://passion.lbl.gov/).
+I am the 2022 Grace Hopper Postdoctoral Fellow in Computing Science at [Lawrence Berkeley National Laboratories](https://cs.lbl.gov/). I am thankful to be hosted by [Dr. Aydın Buluç](https://people.eecs.berkeley.edu/~aydin/) in the [PASSION lab](https://passion.lbl.gov/).
 
 My research interests include parallel computing, cache-efficient algorithms, and performance engineering.
 
