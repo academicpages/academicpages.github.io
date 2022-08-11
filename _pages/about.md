@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am the 2022 Grace Hopper Postdoctoral Fellow in Computing Science at [Lawrence Berkeley National Laboratories](https://cs.lbl.gov/). I am thankful to be hosted by [Dr. Aydın Buluç](https://people.eecs.berkeley.edu/~aydin/) in the [PASSION lab](https://passion.lbl.gov/).
+I am the 2022 [Grace Hopper Postdoctoral Fellow](https://cs.lbl.gov/careers/computing-fellowships/hopper-fellowship/) in Computing Sciences at [Lawrence Berkeley National Laboratories](https://cs.lbl.gov/). I am thankful to be hosted by [Dr. Aydın Buluç](https://people.eecs.berkeley.edu/~aydin/) in the [PASSION lab](https://passion.lbl.gov/).
 
 My research interests include parallel computing, cache-efficient algorithms, and performance engineering.
 
@@ -27,6 +27,6 @@ I am always looking for new collaborators. Please don't hesistate to reach out i
 
 <span style="color:blue">**[Jun. '22]**</span> Our paper "When Are Cache-Oblivious Algorithms Cache Adaptive? A Case Study of Matrix Multiplication and Sorting" has been accepted to ESA '22.
 
-<span style="color:blue">**[Apr. '22]**</span> I am honored to be selected as the 2022 [Grace Hopper Fellow in Computing Sciences](https://cs.lbl.gov/careers/computing-fellowships/hopper-fellowship/) at Berkeley Lab!
+<span style="color:blue">**[Apr. '22]**</span> I am honored to be selected as the 2022 Grace Hopper Fellow in Computing Sciences at Berkeley Lab!
 
 <span style="color:blue">**[Feb. '22]**</span> I completed my Ph.D. and am moving to Berkeley Lab as a Postdoctoral Scholar!
