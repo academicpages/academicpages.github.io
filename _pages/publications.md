@@ -42,19 +42,19 @@ SIAM Symposium on Algorithmic Principles of Computer Systems (APOCS), 2021.
 1. <span style="color:blue">**[HPEC '20]**</span> *Work-Efficient Parallel Algorithms for Accurate Floating-Point Prefix Sums.*       
 Sean Fraser, **Helen Xu**, and Charles E. Leiserson.      
 IEEE High Performance Extreme Computing Conference (HPEC), 2020.      
-[pdf](https://people.csail.mit.edu/hjxu/papers/prefix-hpec.pdf){: .btn} [IEEE](https://ieeexplore.ieee.org/document/9286240){: .btn}
+[pdf](https://itshelenxu.github.io/files/papers/prefix-hpec.pdf){: .btn} [IEEE](https://ieeexplore.ieee.org/document/9286240){: .btn}
 
 1. <span style="color:blue">**[SPAA '20]**</span> *Brief Announcement: Multicore Paging Algorithms Cannot Be Competitive.*     
 (in alphabetical order) Shahin Kamali and **Helen Xu**.     
-ACM Symposium on Parallelism in Algorithms and Architectures, 2020.
+ACM Symposium on Parallelism in Algorithms and Architectures, 2020.      
 [pdf](https://itshelenxu.github.io/files/papers/paging-spaa-20.pdf){: .btn} [ACM](https://dl.acm.org/doi/10.1145/3350755.3400270){: .btn}
 
 1. <span style="color:blue">**[ICONS '19]**</span> *Dynamic Programming with Spiking Neural Computing*        
 (in alphabetical order) James Aimone, Ojas Parekh, Cynthia Phillips, Ali Pinar, William Severa, and **Helen Xu**.     
 ACM International Conference on Neuromorphic Systems (ICONS), 2019.
-[pdf](https://people.csail.mit.edu/hjxu/papers/nga-dp.pdf) [ACM](https://dl.acm.org/doi/10.1145/3354265.3354285)
+[pdf](https://itshelenxu.github.io/files/papers/nga-dp.pdf){: .btn} [ACM](https://dl.acm.org/doi/10.1145/3354265.3354285){: .btn}
 
 1. <span style="color:blue">**[HPEC '18]**</span> *Packed Compressed Sparse Row: A Dynamic Graph Representation*        
 Brian Wheatman and **Helen Xu**.      
 IEEE High Performance Extreme Computing Conference (HPEC), 2018.      
-[pdf](https://people.csail.mit.edu/hjxu/papers/pcsr.pdf){: .btn} [IEEE](https://ieeexplore.ieee.org/abstract/document/8547566){: .btn}
+[pdf](https://itshelenxu.github.io/files/papers/pcsr.pdf){: .btn} [IEEE](https://ieeexplore.ieee.org/abstract/document/8547566){: .btn}
