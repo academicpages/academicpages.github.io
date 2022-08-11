@@ -1,4 +1,16 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<script>
+    let helenURL = window.location.origin + '/images/helen.jpeg';
+    let secondURL = window.location.origin + '/images/shorthike.jpeg';
+    $('.profile_image_switch').hover(function () { // Mouse entered
+        $('.profile_image_switch').html(`<img src="${secondURL}" alt="Helen Xu">`);
+        console.log('entered')
+    }, function () { // Mouse left
+        console.log('left')
+        $('.profile_image_switch').html(`<img src="${helenURL}" alt="Helen Xu">`);
+    })
+</script>
+
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
