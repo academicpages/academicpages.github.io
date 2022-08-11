@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Teaching and Service"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
 
 ## Teaching
 
-- Courses
+- Courses assisted
   - **[Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)**, MIT: Fall 2018, 2017.      
   - **Foundations of Computer Science,** Stony Brook University: Fall 2014, Spring 2015.
 
@@ -17,8 +17,8 @@ author_profile: true
 ## Student advising
 
 - Ph.D.
-  - **Brian Wheatman** (MIT/JHU/LBNL), since Fall 2018.
-  - **Arghya Bhattacharya** (Stony Brook University), since Spring 2020.
+  - **[Brian Wheatman](https://brianwheatman.com/)** (MIT/JHU), hosted at LBL in Summer 2022.
+  - **[Arghya Bhattacharya](https://www3.cs.stonybrook.edu/~argbhattacha/)** (Stony Brook University), since Spring 2020.
 
 - M.Eng.
   - **Amanda Li** (MIT, expected Feb. 2023), "Efficient Dynamic Graph Processing via Data Structure Design."
@@ -39,5 +39,5 @@ author_profile: true
   (2021, 2020), EuroPar (2020), SOSA (2020), SODA (2019, 2018), ESA (2019, 2022)
 
 ## Other
-- From 2018-2021, I served as a peer coach in the [MIT EECS Communication Lab](https://mitcommlab.mit.edu/eecs/).
+- From 2018-2021, I served as a Communication Fellow providing peer coaching in the [MIT EECS Communication Lab](https://mitcommlab.mit.edu/eecs/).
 - In 2017, I served as co-president of [MIT Graduate Women of Course 6 (GW6)](http://gw6.scripts.mit.edu/).
