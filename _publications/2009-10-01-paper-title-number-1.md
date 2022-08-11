@@ -2,9 +2,9 @@
 title: "Phase extraction algorithm considering high-order harmonics in fringe image processing"
 collection: publications
 permalink: /publication/2015-06-01-paper-title-number-1
-excerpt: 'Phase extraction algorithm considering high-order harmonics in fringe image processing'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'fringe image processing'
+date: 2015-06-01
+venue: 'Applied optics 54(16)'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'K Zhang, J Yao, J Chen, H Miao - Applied optics, 2015.'
 ---
@@ -12,4 +12,4 @@ A phase calculation method using discrete Fourier series (DFS) is proposed to el
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: K Zhang, J Yao, J Chen, H Miao - Applied optics, 2015.
+
