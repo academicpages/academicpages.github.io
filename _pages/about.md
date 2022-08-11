@@ -80,7 +80,7 @@ Research
     <p>
       <strong>Multi-domain Learning for Updating Face Anti-spoofing Models</strong><br/>
       Xiao Guo, <u>Yaojie Liu</u>, Anil Jain, Xiaoming Liu<br/>
-      European Conference on Computer Vision (ECCV'22), 2022.<br/>
+      European Conference on Computer Vision (ECCV'22), 2022. (<font color="red">Oral</font>)<br/>
       [<a href="http://cvlab.cse.msu.edu/pdfs/guo_liu_jain_liu_eccv2022.pdf">PDF</a>]
       [<a href="http://cvlab.cse.msu.edu/pdfs/guo_liu_jain_liu_eccv2022_supp.pdf">Supp</a>]
       [<a href="https://github.com/CHELSEA234/Multi-domain-learning-FAS">Code</a>]
