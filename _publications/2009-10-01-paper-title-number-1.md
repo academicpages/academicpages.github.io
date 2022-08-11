@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Phase extraction algorithm considering high-order harmonics in fringe image processing"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2015-06-01-paper-title-number-1
+excerpt: 'Phase extraction algorithm considering high-order harmonics in fringe image processing'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'K Zhang, J Yao, J Chen, H Miao - Applied optics, 2015.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+A phase calculation method using discrete Fourier series (DFS) is proposed to eliminate the effects of nonsinusoidal characteristics. In this method, the fundamental coefficients are extracted from continuous N samples in one cycle by DFS, with which four images with π/2 intervals are reconstructed, and then more accurate phase distribution can be further obtained. This method is applicable for improving the precision of the traditional phase-shifting algorithm. Its effectiveness and accuracy are verified by computer simulations and moiré fringe and projecting fringe experiments with about 85% of the phase error reduced compared with a four-step phase-shifting algorithm, about 70% reduction compared with a 16-step phase-shifting algorithm.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: K Zhang, J Yao, J Chen, H Miao - Applied optics, 2015.
