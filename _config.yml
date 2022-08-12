@@ -72,7 +72,7 @@ author:
   location         : "Columbus, OH"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : 
+  googlescholar    : https://scholar.google.com/citations?user=Njlax-MAAAAJ&hl=en
   email            : morin.42@osu.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : http://glenn.osu.edu/phd-students/morin/
