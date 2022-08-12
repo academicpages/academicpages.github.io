@@ -2,7 +2,7 @@
 title: "Phase extraction algorithm considering high-order harmonics in fringe image processing"
 collection: publications
 permalink: /publication/2015-06-01-paper-title-number-1
-excerpt: 'fringe image processing'
+excerpt: ' '
 date: 2015-06-01
 venue: 'Applied optics 54(16)'
 paperurl: 'https://opg.optica.org/ao/abstract.cfm?uri=ao-54-16-4989'
