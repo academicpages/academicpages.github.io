@@ -27,7 +27,7 @@ Education
 
 Work experience
 ======
-* Co-founder and Software Developer (Sept, 2019 - Aug, 2021)
+* Co-founder and Software Developer (Aug, 2020 - Aug, 2021)
   * Co-founded Aarogya LLC, a non-profit health-tech social enterprise creating India’s first medicine  redistribution  platform,  enabling  low-income  patients  to  access  essential  medicines  atextremely  affordable  prices  while  preventing  wastage  of  medicines  lying  unused  in  warehousing inventories.
 
 * Research Assistant (May, 2019- May, 2020)
