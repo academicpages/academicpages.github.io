@@ -86,7 +86,7 @@ author:
   location         : "Shanghai"
   employer         :
   pubmed           : false # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : false # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://www.researchgate.net/profile/Keming-Zhang-2"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Keming-Zhang-2"
   uri              :
