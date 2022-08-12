@@ -32,7 +32,7 @@ Disponível no sistema SAGRES.
 
 Datas das Provas
 ======
-* Primeira prova: 19/08/2022
+* Primeira prova: 26/08/2022
 * Segunda prova:  30/09/2022
 * Terceira prova: 24/11/2022
 * Prova Final : ??/??/????
@@ -44,5 +44,10 @@ Listas de Exercícios
 
 Notas de Aula
 =======
-1. [Aulas do dia 14 e 15 de Julho de 2022](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/AL_aulas_01_02.pdf)
-1. [Aulas do dia 21 e 22 de Julho de 2022](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/AL_aulas_03_04.pdf)
+1. [Notas 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/AL_aulas_01_02.pdf)
+1. [Notas 02 ](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/AL_aulas_03_04.pdf)
+1. [Notas 03](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/AL_notas_03.pdf)
+1. [Notas 03](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/AL_notas_04.pdf)
+
+
+
