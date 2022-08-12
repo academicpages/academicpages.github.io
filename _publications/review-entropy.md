@@ -1,5 +1,5 @@
 ---
-title: "Do Noisy Customer Reviews Discourage Platform Sellers? Empirical Analysis of an Online Solar Marketplace"
+title: "Do noisy customer reviews discourage platform sellers? Empirical analysis of an online solar marketplace"
 collection: publications
 permalink: /publication/review-entropy
 excerpt: "We study an online solar marketplace with active installers and observe that dispersions in customer reviews of installers and their competitors have a
