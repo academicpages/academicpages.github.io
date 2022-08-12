@@ -10,7 +10,7 @@ author_profile: true
   - [U.S. Association for Computational Mechanics-Female Research Group (USACM-FRG)](https://frgusacm.org/)
 
 - Conference Reviewer:
-  - [BMES 2022 Annual meeting](https://www.bmes.org/annualmeeting), Oct 12-15, San Antonio, TX
+  - [BMES 2022 Annual meeting](https://www.bmes.org/annualmeeting), Oct 12-15, 2022. San Antonio, TX.
   
 - Journal Reviewer:
 
