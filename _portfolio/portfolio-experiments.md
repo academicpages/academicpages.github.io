@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item - fringe patterns"
+title: "Portfolio-experiments"
 excerpt: "Fringe patterns <br/><img src='/images/DSCP.jpg'>"
 collection: portfolio
 ---
