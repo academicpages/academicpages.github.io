@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/review-entropy
 excerpt: "We study an online solar marketplace with active installers and observe that dispersions in customer reviews of installers and their competitors have a
 non-monotonic impact on the number of proposals offered by the installers. Besides, the number of matches exhibits a non-monotonic relationship with dispersion in customer reviews of installers."
-date: 2020-08-04
+date: 2022-08-09
 venue: "SSRN"
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3645605'
 citation:
