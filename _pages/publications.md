@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.researchgate %}
-  You can also find my articles on <u><a href="{{site.author.researchgate}}">my ResearchGate profile</a>.</u>
+  You can also find my articles on <a href="{{site.author.researchgate}}">my ResearchGate profile</a>.
 {% endif %}
 
 {% include base_path %}
