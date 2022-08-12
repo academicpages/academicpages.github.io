@@ -2,7 +2,7 @@
 title: "Numerical and experimental investigation of thickness effect on residual stress measurement"
 collection: publications
 permalink: /publication/2016-09-21-paper-title-number-3
-excerpt: 'the effect of thickness on residual stress measurements'
+excerpt: ' '
 date: 2016-09-21
 venue: 'Materials Science and Technology 32(14)'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/02670836.2016.1157283'

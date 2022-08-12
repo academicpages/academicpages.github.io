@@ -2,7 +2,7 @@
 title: "Residual stress release characteristics of hole-drilling determined by in-plane three-directional optical interference moiré"
 collection: publications
 permalink: /publication/2018-12-15-paper-title-number-2
-excerpt: 'Residual stress release characteristics of hole-drilling'
+excerpt: ' '
 date: 2018-12-15
 venue: 'Journal of Modern Optics 65(21)'
 paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/09500340.2018.1506519'
