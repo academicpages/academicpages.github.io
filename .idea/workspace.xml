@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04b5fc45-a160-4214-99ba-4bd8a5d774ac" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2005-01-01-template.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2007-03-01-talk.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2007-11-20-talk.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2015-07-26-talk.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2015-08-15-talk.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2017-07-16-Participate.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2018-06-11-talk.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2018-06-26-talk.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2018-07-31-Participate.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2018-10-09-Participate.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2018-10-19-talk.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2018-11-01-Participate.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2021-04-23-talk.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2021-08-01-talk.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2022-04-02-talk.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2022-08-19-talk.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/talkmap.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/.Rhistory" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/ECPR-Hamburg 18.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/ECPR-Oslo.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/ECREA-Lugano.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/aoir2017.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/bollfoundation.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/brusselsdgcomm.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/closingconference.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/democracydialogue.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/epsa.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/euroacademia.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/europaforum.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/hildesheim.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/ic2s2.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/internetgovernance.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/lorenzo-normale.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/mediaflows.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/nordmedia.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/openEUdebate.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/pomlab.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/sodertorns big data.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/sundsvall.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/symposiumlse.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/turkeyaccesion.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/uaces1.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/unitedwestand.md" afterPath="" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="talkmap.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_talks/talkmap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding>
+                <element signature="e#426#437#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="65" />
+    <option name="width" value="1279" />
+    <option name="height" value="696" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zhangkmsjtu.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhangkmsjtu.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhangkmsjtu.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhangkmsjtu.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_talks" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.talkmap">
+    <configuration name="talkmap" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_talks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="zhangkmsjtu.github.io" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_talks/talkmap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.talkmap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04b5fc45-a160-4214-99ba-4bd8a5d774ac" name="Default" comment="" />
+      <created>1660404125561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660404125561</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="65" width="1279" height="696" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25788197" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32807016" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982457" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3736842" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_talks/talkmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#426#437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_talks/talkmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding>
+            <element signature="e#426#437#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
