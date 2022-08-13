@@ -1,22 +1,22 @@
 # main links links
 main:
+  # - title: "Talks"
+  #   url: /talks/    
+#
+  # - title: "Teaching"
+  #   url: /teaching/    
+#    
+  - title: "Blog"
+    url: /year-archive/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Projects"
+    url: /projects/
     
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /files/AlbertRockG-CV-2022.pdf
+#    
+#  - title: "Guide"
+#    url: /markdown/
