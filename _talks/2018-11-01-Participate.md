@@ -1,5 +1,5 @@
 ---
-title: "Space Optical Instruments"
+title: "Conference on Space Optical Instruments"
 collection: talks
 type: "Participate"
 permalink: /talks/2018-11-01

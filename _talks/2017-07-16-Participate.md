@@ -1,5 +1,5 @@
 ---
-title: "Precision measurement"
+title: "Conference on Precision measurement"
 collection: talks
 type: "Participate"
 permalink: /talks/2017-07-16

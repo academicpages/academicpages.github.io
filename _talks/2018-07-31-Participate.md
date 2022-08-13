@@ -1,5 +1,5 @@
 ---
-title: "Hyperspectral"
+title: "Conference on Hyperspectral"
 collection: talks
 type: "Participate"
 permalink: /talks/2018-07-31

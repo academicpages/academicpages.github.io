@@ -1,5 +1,5 @@
 ---
-title: "grating"
+title: "Conference on grating"
 collection: talks
 type: "Participate"
 permalink: /talks/2018-10-09
