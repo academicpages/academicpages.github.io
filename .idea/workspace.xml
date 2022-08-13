@@ -1,51 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="04b5fc45-a160-4214-99ba-4bd8a5d774ac" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2005-01-01-template.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2007-03-01-talk.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2007-11-20-talk.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2015-07-26-talk.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2015-08-15-talk.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2017-07-16-Participate.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2018-06-11-talk.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2018-06-26-talk.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2018-07-31-Participate.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2018-10-09-Participate.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2018-10-19-talk.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2018-11-01-Participate.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2021-04-23-talk.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2021-08-01-talk.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2022-04-02-talk.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/2022-08-19-talk.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks-1/talkmap.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/.Rhistory" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/ECPR-Hamburg 18.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/ECPR-Oslo.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/ECREA-Lugano.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/aoir2017.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/bollfoundation.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/brusselsdgcomm.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/closingconference.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/democracydialogue.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/epsa.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/euroacademia.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/europaforum.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/hildesheim.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/ic2s2.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/internetgovernance.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/lorenzo-normale.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/mediaflows.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/nordmedia.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/openEUdebate.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/pomlab.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/sodertorns big data.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/sundsvall.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/symposiumlse.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/turkeyaccesion.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/uaces1.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_talks/unitedwestand.md" afterPath="" />
-    </list>
+    <list default="true" id="04b5fc45-a160-4214-99ba-4bd8a5d774ac" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,20 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="talkmap.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_talks/talkmap.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-              <folding>
-                <element signature="e#426#437#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -94,23 +37,23 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="zhangkmsjtu.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhangkmsjtu.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="zhangkmsjtu.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="zhangkmsjtu.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_talks" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.5.2 (/usr/bin/python3.5) &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,7 +111,7 @@
   <component name="ToolWindowManager">
     <frame x="65" y="65" width="1279" height="696" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25788197" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.261924" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32807016" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -201,17 +144,27 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#426#437#0" expanded="true" />
+            <element signature="e#426#437#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_talks/talkmap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#426#437#0" expanded="true" />
+            <element signature="e#426#437#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_talks/talkmap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="e#426#437#0" expanded="false" />
           </folding>
         </state>
       </provider>
