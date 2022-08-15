@@ -10,7 +10,7 @@ redirect_from:
 
 Biography
 ------
-I am a PhD student with Department of Mehcanical and Energy Engineering at Southern University of Science and Technology (SUSTech), and work with [Prof. Zaiyue Yang](http://faculty.sustech.edu.cn/yangzy3/en/), [Prof. Shibo Chen](https://faculty.sustech.edu.cn/chensb/en/). From the January 2022 to the July 2022, I am a visting PhD student in the Control Systems Technology group, Department of Mechanical Engineering at Eindhoven University of Technology (TU/e), and work with [Prof. Mauro Salazar](https://scholar.google.ch/citations?user=0Z9zTYwAAAAJ&hl=en). I obtained my BEng in Electrical Engineering from Changsha University of Science and Technology under the supervision of [Prof. Yuanyuan Wang](https://www.csust.edu.cn/dq/info/1083/4065.htm).
+I am a PhD student with Department of Mehcanical and Energy Engineering at Southern University of Science and Technology (SUSTech), and work with [Prof. Zaiyue Yang](http://faculty.sustech.edu.cn/yangzy3/en/), [Prof. Shibo Chen](https://faculty.sustech.edu.cn/chensb/en/). From the January 2022 to the July 2022, I visited the Control Systems Technology group, Department of Mechanical Engineering at Eindhoven University of Technology (TU/e), and worked with [Prof. Mauro Salazar](https://scholar.google.ch/citations?user=0Z9zTYwAAAAJ&hl=en). I obtained my BEng in Electrical Engineering from Changsha University of Science and Technology under the supervision of [Prof. Yuanyuan Wang](https://www.csust.edu.cn/dq/info/1083/4065.htm).
 
 Research Interest
 ------
