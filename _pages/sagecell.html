@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Code Cell</title>
+    <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+    <script>
+    var languages = ["octave","sage", "gap", "gp", "maxima", "python", "r", "singular"];
+    // Grab requested default language
+    if (window.location.hash) {
+        var hash = window.location.hash.substring(1).toLowerCase(); // Puts hash in variable, and removes the # character
+        if (languages.includes(hash)) {
+            languages = [hash].concat(languages);
+        }
+    }
+    // Make any div with class 'compute' a Sage cell
+    sagecell.makeSagecell({inputLocation: 'div.compute', languages: languages, evalButtonText: 'Evaluate'});
+    </script>
+    <style>
+        body {
+            font-family: sans-serif;
+        }
+        a {
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+
+  </head>
+  <body>
+
+
+    <div class="compute"><script type="text/x-sage"></script></div>
+
+  </body>
+</html>
