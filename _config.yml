@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nicholas Konz"
+title                    : "Nick Konz"
 title_separator          : "-"
-name                     : &name "Nicholas Konz"
+name                     : &name "Nick Konz"
 description              : &description "Ph.D. student (machine learning) at Duke University"
 url                      : https://nickk124.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nicholas Konz"
+  name             : "Nick Konz"
   avatar           : "profile.png"
   bio              : "Machine learning Ph.D. student at Duke University."
   location         : "Durham, North Carolina"
