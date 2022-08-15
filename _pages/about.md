@@ -53,8 +53,8 @@ Conference paper
 
 Submitted Manuscripts
 ------
-1. **Canqi Yao**, Shibo Chen, Mauro Salazar, and Zaiyue Yang.“Electric Vehicle Routing Problem with Spatio-temporal Varying Electricity Price and Incentive-aware Customers”  IEEE Transactions on Smart Grid under review. 
-2. **Canqi Yao**, Shibo Chen, and Zaiyue Yang. "Vehicle Routing Problem with Flexible Time Window: A Bi-level Approach." IEEE Transactions on Intelligent Transportation Systems under review.
+1. **Canqi Yao**, Shibo Chen, Mauro Salazar, and Zaiyue Yang.“Electric Vehicle Routing Problem with Spatio-temporal Varying Electricity Price and Incentive-aware Customers”  IEEE Transactions on Intelligent Transportation Systems under review. 
+2. **Canqi Yao**, Shibo Chen, and Zaiyue Yang. "Vehicle Routing Problem with Flexible Time Window: A Bi-level Approach." IEEE Internet of Things Journal under review.
 
 
 
