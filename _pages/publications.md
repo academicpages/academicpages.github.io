@@ -7,7 +7,8 @@ author_profile: true
 
 ## 2022
 
-* [Deadline-Aware Multi-Agent Tour Planning](https://hsi-workshop.github.io/hsi-2022-camera-ready/Deadline-Aware_Multi-Agent_Tour_Planning.pdf).               **Taoan Huang**, Vikas Shivashankar, Michael Caldara, Joseph Durham, Jiaoyang Li, Bistra Dilkina, Sven Koenig.
+* [Deadline-Aware Multi-Agent Tour Planning](https://hsi-workshop.github.io/hsi-2022-camera-ready/Deadline-Aware_Multi-Agent_Tour_Planning.pdf).
+    **Taoan Huang**, Vikas Shivashankar, Michael Caldara, Joseph Durham, Jiaoyang Li, Bistra Dilkina, Sven Koenig.
     <i> The 2nd International Workshop on Heuristic Search in Industry in conjunction with IJCAI-ECAI</i>, 2022.
     
 
