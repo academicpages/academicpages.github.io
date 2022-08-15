@@ -15,5 +15,4 @@ author_profile: true
 ## Talks
 
 ### What actually *is* Artificial Intelligence, and how does it relate to astronomy?
-
-For [ERIRA 2022](https://nickk124.github.io/outreach/) ASTRO-X
+*For [ERIRA 2022](https://nickk124.github.io/outreach/) ASTRO-X*
