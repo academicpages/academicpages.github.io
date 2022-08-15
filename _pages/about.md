@@ -21,6 +21,7 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
 [CV](https://taoanhuang.github.io/files/TaoanHuangCV.pdf)
 
 ## News
+* \[2022.07\] I presented my work with Amazon Robotics on Deadline Aware Multi-Agent Tour Planning at HSI Workshop 2022 (in conjunction with IJCAI-ECAI 2022).
 * \[2022.04\] My research on Enhancing Seismic Resilient Water Pipe Network is selected for oral presentation at the Fourteenth Annual Annenberg Graduate Fellowship Research and Creative Project Symposium. Only six submissions were selected!
 * \[2022.03\] I passed the Qualification Exam and now I am a Ph.D. candidate!
 * \[2021.12\] Our paper on ML-guided large neighborhood search for MAPF is accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
