@@ -39,7 +39,7 @@ Provas
 
 Listas de Exercícios
 ========
-
+* [Lista Julia](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_listaJulia.pdf)
 
 Aulas
 ======
