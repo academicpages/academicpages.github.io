@@ -11,7 +11,7 @@ redirect_from:
 
 # ACADEMIC POSITIONS
 ===========
-### Postdoctoral Researcher 2020-
+### Postdoctoral Researcher 2020-2022
 Department of Communication
 Pompeu Fabra University, Spain
 ### Lecturer 2019-2020
