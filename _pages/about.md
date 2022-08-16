@@ -36,6 +36,10 @@ Research Interests
 
 News
 ======
+[Aug. 2022] Paper accepted at IPIN, 2022.
+Work with Valentin Radu, "Leveraging Transfer Learning for Robust Multimodal Positioning Systems based on Smartphone Multisensory Data".
+See you in Beijing, China.
+
 [May. 2022] I joined the UCL Interaction Centre (UCLIC) for my PhD adventure!
 
 [Apr. 2022] Paper accepted at MobiUK 2022.
