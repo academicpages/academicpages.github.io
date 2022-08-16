@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter @iamslambert
+  username               : &twitter "@iamslambert"
 facebook:
   username               :
   app_id                 :
