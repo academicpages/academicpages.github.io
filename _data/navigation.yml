@@ -17,5 +17,6 @@ main:
 
   - title: "Fun"
     url: /fun/ 
-  # - title: "CV"
-  #   url: /cv/
+
+  - title: "Resume"
+    url: 'https://nickk124.github.io/files/resume.pdf'
