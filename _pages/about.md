@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to Pengyu Cheng's homepage!
 
-I am currently a researcher at Tencent AI Lab. My research interests focus on controllable text generation and interpretable natural language understanding. I also have a broad interest in probabilistic machine learning methods.
+I am currently a senior researcher at Tencent AI Lab, primely working on dialogue systems and controllable text generation. I also have a broad interest in probabilistic machine learning methods.
 
 I received my Ph.D. degree from the Department of Electric and Computer Engineering at Duke University in 2021. My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/). I graduated with my B.S. degree from the Department of Mathematical Sciences at Tsinghua University in 2017. 
 
