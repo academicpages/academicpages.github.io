@@ -88,7 +88,7 @@ Piñeiro-Naval, V., Igartua, J. J. &amp; **Rodríguez-de-Dios, I.** (2015) La in
 # PUBLICATIONS: Book Chapters
 ===========
 
-Rodero, E., **Rodríguez-de-Dios, I.** , de-la-Mota, C., y Lopera, M. (2021)._ &quot;_Cómo hablar a las personas con Alzheimer. Estrategias para mejorar la comunicación entre cuidadores y pacientes&quot; en C. Sánchez (Ed.). _Comunicar en pandemia. De las fake news a la sostenibilidad._ McGraw Hill.
+Rodero, E., **Rodríguez-de-Dios, I.** , de-la-Mota, C., y Lopera, M. (2021). &quot;Cómo hablar a las personas con Alzheimer. Estrategias para mejorar la comunicación entre cuidadores y pacientes&quot; en C. Sánchez (Ed.). _Comunicar en pandemia. De las fake news a la sostenibilidad._ McGraw Hill.
 
 Girbal González, E., Pérez Sabadell, M., Ponce Capdeville, B., **Rodríguez-de-Dios, I.** , &amp; Rodero, E. (2022). La responsabilidad social corporativa en la publicidad de las marcas comerciales durante la pandemia del COVID-19. In _La nueva era comunicativa_. Thomson Reuters-Aranzadi.
 
