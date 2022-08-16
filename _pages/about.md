@@ -57,7 +57,7 @@ Xupeng Zhu, **Dian Wang**, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt
 **Dian Wang**, Robin Walters, Robert Platt  
 *ICLR 2022, Virtual,* ***Spotlight***  
 <span style="color:DarkGray"><em>ICRA 2022 Workshop on Scaling Robot Learning, Spotlight</em></span>  
-[(Webpage)](https://pointw.github.io/equi_rl_page/)[(PDF)](https://arxiv.org/pdf/2203.04439.pdf)[(OpenReview)](https://openreview.net/forum?id=7F9cOhdvfk_)[(Video)](https://youtu.be/8Ocwv2nnSKI)[(Code)](https://github.com/pointW/equi_rl)
+[(Webpage)](https://pointw.github.io/equi_rl_page/)[(PDF)](https://arxiv.org/pdf/2203.04439.pdf)[(OpenReview)](https://openreview.net/forum?id=7F9cOhdvfk_)[(Video)](https://youtu.be/8Ocwv2nnSKI)[(Talk)](https://iclr.cc/virtual/2022/spotlight/6799)[(Code)](https://github.com/pointW/equi_rl)
 ` `  
 ` `  
 
@@ -66,7 +66,7 @@ Xupeng Zhu, **Dian Wang**, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt
 **Dian Wang**, Robin Walters, Xupeng Zhu, Robert Platt  
 *CoRL 2021, London, UK*  
 <span style="color:DarkGray"><em>RSS 2022 Workshop on Scaling Robot Learning, Spotlight</em></span>  
-[(Webpage)](https://pointw.github.io/equi_q_page/)[(PDF)](https://arxiv.org/pdf/2110.15443.pdf)[(OpenReview)](https://openreview.net/forum?id=IScz42A3iCI)[(Poster)](https://openreview.net/attachment?id=IScz42A3iCI&name=poster)[(Video)](https://www.youtube.com/watch?v=GtdpvjLHc_Q)[(Talk)](https://iclr.cc/virtual/2022/spotlight/6799)[(Code)](https://github.com/pointW/equi_q_corl21)
+[(Webpage)](https://pointw.github.io/equi_q_page/)[(PDF)](https://arxiv.org/pdf/2110.15443.pdf)[(OpenReview)](https://openreview.net/forum?id=IScz42A3iCI)[(Poster)](https://openreview.net/attachment?id=IScz42A3iCI&name=poster)[(Video)](https://www.youtube.com/watch?v=GtdpvjLHc_Q)[(Code)](https://github.com/pointW/equi_q_corl21)
 ` `  
 ` `  
 
