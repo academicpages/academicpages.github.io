@@ -18,6 +18,6 @@ I graduated from the [University of North Carolina at Chapel Hill](https://www.u
 
 Teaching is also important to me, and I have been an educator in physics, math and astronomy [in the academic setting](https://nickk124.github.io/teaching/) and [beyond](https://nickk124.github.io/outreach/). I have also worked on many [side projects](https://nickk124.github.io/projects/) that have captured my interest. 
 
-See [here](https://nickk124.github.io/files/resume.pdf) for my updated resume.
+See my resume [here](https://nickk124.github.io/files/resume.pdf) (updated August 2022).
 
 In my free time I play the guitar and french horn, practice jiu-jitsu and yoga, cook, and read.
