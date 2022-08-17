@@ -21,4 +21,4 @@ For my research I use various methods and data (survey data, experimental data, 
 
 I work in the [Research Group on Wealth and Social Inequality](https://www.mpifg.de/research/wealth-and-social-inequality) at the [Max Planck Institute for the Study of Societies in Cologne, Germany](https://mpifg.de).
 
-google-site-verification: google37feadaab61cd50d.html
+
