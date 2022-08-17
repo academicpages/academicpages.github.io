@@ -6,7 +6,6 @@ author_profile: true
 ---
 ## Working Papers
 1. **C. Tang**, N. Srishankar, S. Martin and M. Tomizuka, "Grounded Relational Inference: Domain Knowledge-driven Explainable Autonomous Driving," under review for *IEEE Transactions on Intelligent Transportation System (T-ITS)*, 2022
-1. J. Chen, **C. Tang**, W. Zhan, and M. Tomizuka, “Interaction-and-uncertainty-aware joint decision making and trajectory planning for urban on-road autonomous driving,” *in preparation for journal submission*
 
 ## Journal
 1. J. Li, **C. Tang**, W. Zhan, and M. Tomizuka, “Hierarchical planning through goal-conditioned offline reinforcement learning,” *IEEE Robotics and Automation Letters (RA-L)* and *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022
