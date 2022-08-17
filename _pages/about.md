@@ -17,15 +17,17 @@ Professional character and personality
 I have taken the 16-personalities-test many times. The test results are sometimes ESFJ-A and sometimes ESTJ-A. Often, I am likely to motivate myself and my collaborators to explore and answer a new research question rather than attempt to fit the question into a preconceived mold.
 I am open-minded and pragmatic about any professional issues. I'm able to communicate and cooperate with people of different personalities efficiently.
 
-Research area
+Research Topics
 ======
-My research interests mainly lie in **Data Science applied to healthcare**, including data mining, machine learning, operation research and optimization algorithms. <br>
-Indeed, my works focus on **interpretable** analysis of those areas and building scalable and effective **Data Driven** models for them, from theoretical algorithms to practical applications.
+My research interests mainly lie in **Healthcare System Operation and Optimization**. The research methodology mainly comes from the following disciplines: operation research, optimization, machine learning, and data mining. <br>
+Indeed, my works focus on **interpretable** analysis of those areas and building transparent, scalable, and effective **Data Driven** models for them, from theoretical algorithms to practical applications.
 For all that, however, I prefer to be a problem solver rather than a skilled programmer or a data cruncher.
 
-Keywords 
+**keywords**: Human-Centered Automation, Healthcare System Operation and Optimization (i.e., Smart Healthcare, and Healthcare 4.0). In addition, I'm also interested in Manufacturing System Operation and Optimization (i.e., industry 4.0). 
+
+Research methodology
 ======
-Data-Driven Decision Making, Data-Driven Optimization, Data Intelligence, Data Science, Machine Learning, Data Mining and Knowledge Discovery, Operation Research, Optimization, Statistics, Probabilty theory.
+Data-driven approches, operation research, optimization, machine learning, data mining and knowledge discovery, statistics, probabilty theory.
 
 Academic Services
 ------
