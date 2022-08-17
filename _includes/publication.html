@@ -15,14 +15,13 @@
 <div class="{{ include.type | default: "list" }}__item">
 	<article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-		<h2 class="archive__item-title" itemprop="headline">
+		<p class="archive__item-title" itemprop="headline" style style="line-height: 150%" >
 			{% if post.link %}
 			<a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
 			{% endif %}
-		</h2>
+		</p>
 
-		<p>{{ post.authors | markdownify }} </p>
-		<p><i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }} </p>
+		<p style style="line-height: 150%; margin-top: 0px" >{{ post.authors | markdownify | remove: "<p>" | remove: "</p>" | strip_newlines}}, <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }} </p>
 
 	</article>
 </div>
