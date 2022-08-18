@@ -41,6 +41,12 @@ Listas de Exercícios
 ======
 * Exercícios da seção 1.2 do livro texto.
 * Exercícios da seção 1.3 do livro texto.
+* Exercícios da seção 1.4 do livro texto.
+* Exercícios das páginas 45 e 46  do livro texto.
+* Exercícios da seção 2.2 do livro texto.
+* Exercícios 1-20 da seção 2.3 do livro texto.
+
+
 
 Notas de Aula
 =======
