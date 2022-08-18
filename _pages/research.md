@@ -6,7 +6,7 @@ excerpt: "Research"
 author_profile: true
 ---
 
-<h3> MOB-ML </h3>
+<h3> Molecular orbital based machine learning (MOB-ML) </h3>
 
 The basic elements of chemistry are atoms and electrons, whose behavior is governed by quantum mechanics.
 Based on the principles of the quantum mechanics, quantum chemistry methods offers a way to calculate the properties of molecules.
@@ -33,11 +33,11 @@ References:
 
 [6] Cheng, L., **Sun, J.**, Emiliano Deustua, J., Bhethanabotla, V. C., & Miller III, T. F. (2022). Molecular-orbital-based Machine Learning for Open-shell and Multi-reference Systems with Kernel Addition Gaussian Process Regression. arXiv e-prints, arXiv-2207.
 
-<h3> RPMD </h3>
+<h3> Ring-polymer molecular dynamics (RPMD) </h3>
 
 Classical molecular dynamics methods have already shown to be successful for modeling large chemical and biological systems.
 However, for light atoms like hydrogen and its isotopes, nuclear quantum effect is non-negligible and cannot be captured by these classical methods.
-Ring-polymer molcular dynamics is a semi-classical quantum dynamics method to approximately describe the nuclear quantum effect.
+Ring-polymer molcular dynamics (RPMD) is a semi-classical quantum dynamics method to approximately describe the nuclear quantum effect.
 
 In a recent work, we introduced a generalized class of thermalized RPMD integrators and studied their equilibrium accuracy, convergence rate, stability and dimensionality-freedom from a theoreical aspect of view. We confirmed that the "BCOCB" type integrator over all other known integrators in this class.
 
