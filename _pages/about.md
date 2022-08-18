@@ -24,3 +24,5 @@ redirect_from:
 	- Three-dimensional topography measurement
 	- Hole drilling method
 	- Finite element method
+
+> 科学需要想象 想象来自阅读
