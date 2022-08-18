@@ -12,8 +12,8 @@ redirect_from:
 Education and qualifications
 ======
 * 2021: Associate professor qualification, CNU section 7
-* 2020: Ph.D in Computer Science, University of Toulouse
-* 2016: MSc (Machine learning) Sorbonne Université - Paris VI
+* 2020: PhD (Computer Science), University of Toulouse
+* 2016: MSc (Machine learning), Sorbonne Université - Paris VI
 * 2015: MSc (Ingénieur), Ecole Centrale Paris
 
 Industry experience
@@ -24,15 +24,14 @@ Industry experience
 * 2015: Data Scientist @Short Edition
   * Text recommendation, text classification
   
-
 Teaching
 ======
 
 * 2020-2022: KU Leuven
   * M2 Lectures: Neural Machine Translation ; Web search
   * Theses supervisions:
-      * BSc students (Robbe Raymaekers, Wout Vossen, Wout Opsommer, Ruben Van Laer)
       * MSc students (Ellen Schellekens, Emiel Coppieters, Tom Fierens, Maciej Leoniak)
+      * BSc students (Robbe Raymaekers, Wout Vossen, Wout Opsommer, Ruben Van Laer)
 
 * 2019: University of Toulouse
-  * Introduction to computer science
+  * L1 tutorials: Programming and algorithms
