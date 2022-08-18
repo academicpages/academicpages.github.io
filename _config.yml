@@ -73,9 +73,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "custom" #"google-universal"  false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : G-8G5KTSGLSJ
+    tracking_id          : 
 
 
 # Site Author
