@@ -21,7 +21,7 @@ Research Topics
 My research interests mainly lie in **Healthcare System Operation and Optimization**. The research methodology mainly comes from the following disciplines: operation research, optimization, machine learning, and data mining. <br>
 Indeed, my works focus on **interpretable** analysis of a specific problem of healthcare systems and building transparent, scalable, and effective **Data Driven** models for them, from theoretical algorithms to practical applications.
 
-**keywords**: Human-Centered Automation, Healthcare System Operation and Optimization (i.e., Smart Healthcare, and Healthcare 4.0). In addition, I'm also interested in Manufacturing System Operation and Optimization (i.e., industry 4.0). 
+**keywords**: Healthcare Automation, Healthcare System Operation and Optimization (i.e., Smart Healthcare, and Healthcare 4.0). In addition, I'm also interested in Manufacturing System Operation and Optimization (i.e., industry 4.0). 
 
 Research methodology
 ======
