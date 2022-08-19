@@ -46,6 +46,7 @@ I am a postdoctoral research fellow in the Department of Biomedical Informatics 
 
 
 ## Service and Committees
+* Area Chair, Women in Machine Learning (WiML) Workshop, NeurIPS, 2022
 * Senior Program Committee member, IEEE International Conference on Healthcare Informatics (ICHI), 2022
 * Program Committee member, IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2022, 2021
 * Committee member, Women in AMIA (Awards and Leadership, Pathways), 2022
