@@ -32,6 +32,7 @@ I am a postdoctoral research fellow in the Department of Biomedical Informatics 
 ## News 
 
 <ul style="width: auto; height: 300px; overflow: auto">
+  <li> <b>[August, 2022]</b>. Dr. Liu was invited to be an Area Chair for Women in Machine Learning (WiML) Workshop @NeurIPS 2022. </li> 
   <li> <b>[August, 2022]</b>. Dr. Liu received a NIH NLM K99/R00 Pathway to Independence Award!!! She will continue her research in optimizing clinical decision support alerts using explainable artificial intelligence (XAI). </li> 
   <li> <b>[July, 2022]</b>. Dr. Liu presented in the Center for Precision Medicine at Vanderbilt University! </li> 
   <li> <b>[June, 2022]</b>. Our poster is accepted in <a href="https://amia.org/education-events/amia-2022-annual-symposium">AMIA 2022 Annual Symposium</a>! </li>
