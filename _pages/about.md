@@ -38,6 +38,7 @@ Email: wang dot dian at northeastern dot edu
 **Equivariant Transporter Network**  
 Haojie Huang, **Dian Wang**, Robin Walters, Robert Platt  
 *RSS 2022, New York City, New York, USA*  
+<span style="color:DarkGray"><em>RLDM 2022</em></span>  
 <span style="color:DarkGray"><em>ICRA 2022 Workshop on Scaling Robot Learning, <strong>Bext Paper Award Finalist</strong></em></span>  
 [(Webpage)](https://haojhuang.github.io/etp_page/)[(PDF)](https://arxiv.org/pdf/2202.09400.pdf)[(Code)](https://github.com/HaojHuang/Equivariant-Transporter-Net)
 ` `  
