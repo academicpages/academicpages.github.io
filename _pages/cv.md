@@ -66,7 +66,7 @@ Organizing committee for safe and effective re-opening of campus during the COVI
 * ASA Young Investigator Award, Section on Statistics in Epidemiology, 2022  
 * New England Statistics Symposium Student Poster Award, 2021  
 * ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop Student Poster Award, 2021
-* John Van Ryzin Award and ENAR Distinguished Student Paper Award, 2021   
+* John Van Ryzin Award, Top ENAR Distinguished Student Paper Award, 2021   
 * Certificate of Distinction in Teaching, Harvard T.H. Chan School of Public Health, 2021 
 * China Hands 25 Under 25 Leaders in US-China Relations, 2019
 * University of Cambridge Distinction and Top Thesis, 2018
