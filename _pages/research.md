@@ -21,14 +21,12 @@ redirect_from:
 - Juan Pablo Luna et al. (2011). "El Secreto de mi Exito: Parte II. Los Caminos a Vaparaiso en 2009." In: Revista de Ciencia Política 31.2, pp. 285-310. <br/> [[Paper]](https://scielo.conicyt.cl/pdf/revcipol/v31n2/art07.pdf)
 
 
-[//]: # ## Submitted, Under Review, Revise and Resubmit.
-
-
-
-## In Preparation
+## Submitted, Under Review, Revise and Resubmit.
 
 - Hector Bahamonde and Outi Sarpila. "Physical Appearance and Elections: An Inequality Perspective." <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Physical/main/abstract.txt)
 
+
+## In Preparation
 
 - Hector Bahamonde, Heikki Kaupi, Igor Kovac and Wilma Nissila. "Not Just Guns or Butter, but What Came First—Guns or Butter? Introducing GVAR to International Relations." <br/> [[Abstract]](https://github.com/hbahamonde/Bahamonde_Kovac/raw/master/abstract.txt)
 
