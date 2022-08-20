@@ -10,11 +10,11 @@ redirect_from:
 
 My name is Kia Rahmani and I am a postdoctoral fellow at the [computer science department](https://www.cs.utexas.edu/) of the [University of Texas at Austin](https://www.utexas.edu/). I am a member of the [Autonomous Mobile Robotics Laboratory](https://amrl.cs.utexas.edu/), where I am supervised by Prof. [Işil Dillig](https://www.cs.utexas.edu/~isil/) and Prof. [Joydeep Biswas](https://www.joydeepb.com/). My main research interests are symbolic analysis and synthesis of neural-powered programs, specifically designed for learning robust long-term autonomy in mobile robotic fleets. 
 
-Prior to joining University of Texas, I obtained my PhD from [Purude University](https://www.cs.purdue.edu/) under the supervision of Prof. [S. Jagannathan](https://www.cs.purdue.edu/homes/suresh/) and Prof. [B. Delaware](https://www.cs.purdue.edu/homes/bendy/). I also did an internship with [Microsoft](https://www.microsoft.com/en-us/research/) where I developed a new neurosymbolic synthesis technique using [GPT-3](https://en.m.wikipedia.org/wiki/GPT-3) natural language model, under the supervision of Dr. [S. Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/) and Dr. [M. Raza](https://www.microsoft.com/en-us/research/people/moraza/).
+Prior to joining University of Texas, I obtained my PhD from [Purdue University](https://www.cs.purdue.edu/) under the supervision of Prof. [S. Jagannathan](https://www.cs.purdue.edu/homes/suresh/) and Prof. [B. Delaware](https://www.cs.purdue.edu/homes/bendy/). I also did an internship with [Microsoft](https://www.microsoft.com/en-us/research/) where I developed a new neurosymbolic synthesis technique using [GPT-3](https://en.m.wikipedia.org/wiki/GPT-3) natural language model, under the supervision of Dr. [S. Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/) and Dr. [M. Raza](https://www.microsoft.com/en-us/research/people/moraza/).
 
 Outside academia, I am very passionate about martial arts, and specifically, I spend time studying and training [Brazilian Jiu Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu) style of self-defense.
 
-## Service
+## Academic Service
 <ul> <li> 
   2021: <a href="https://aiplans.github.io/"> AIPLANS @NeurIPS </a>
   </li> </ul>
