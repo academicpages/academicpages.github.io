@@ -1,11 +1,11 @@
 ---
 title: "Multi-view fusion based moving target tracking using IR-UWB devices"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-08-20-Multi-view-fusion-based-moving-target-tracking-using-IR-UWB-devices
 excerpt: 'In this paper, we propose a moving target tracking method using IR-UWB signals on the basis of understanding the composition of the received signal spectrum in multipath environments.'
 date: 2022-08-20
 venue: 'Journal of Software(accepted)'
-paperurl: ''
+paperurl: 'http://'
 citation: 'Weiyan Chen, Fusang Zhang, **Junjie Liu** and Daqing Zhang. Multi-view fusion based moving target tracking using IR-UWB devices. Journal of Software(accepted)'
 ---
 
