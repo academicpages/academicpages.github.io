@@ -18,11 +18,11 @@ Jointly supported by [Mitacs globalink research internship](https://www.mitacs.c
 
 ## Paper accepted by the Journal of Software, August, 2022
 
-Our paper ["Multi-view fusion based moving target tracking using IR-UWB devices"]() is accepted by the (Journal of Software)[http://www.jos.org.cn/josen/home].
+Our paper ["Multi-view fusion based moving target tracking using IR-UWB devices"]() is accepted by the [Journal of Software](http://www.jos.org.cn/josen/home).
 
 ## Start my Mitacs globalink research internship at UBC, July 25, 2022
 
-I am doing my Mitacs globalink research internship at UBC under the supervision of [Prof. Matei Ripeanu](https://people.ece.ubc.ca/matei/).
+I am doing my Mitacs globalink research internship at **UBC** under the supervision of [Prof. Matei Ripeanu](https://people.ece.ubc.ca/matei/).
 
 Our research topics are approximation algorithms and dynamic-only algorithms in dynamic graph processing. 
 
@@ -32,10 +32,10 @@ I have been selected for a 2022 [Mitacs Globalink Research Internship](https://w
 
 I have been matched with the following project: <br>
 Project Title: Massive-scale Graph Processing <br>
-Professor Name: Matei Ripeanu <br>
-Host University: University of British Columbia – Vancouver
+Professor Name: **Matei Ripeanu** <br>
+Host University: **University of British Columbia – Vancouver**
 
 ## Won the Best Paper Award of the 16th National Ubiquitous Computing Conference (PCC 2020), October 18, 2020
 
-Our paper "Multi-view fusion based moving target tracking using IR-UWB devices"(基于IR-UWB的多视角融合动态目标追踪 in Chinese) was accepted and awarded **the best paper award** by [the 16th National Conference on Ubiquitous Computing (PCC 2020)](https://hhme.ccf.org.cn/history/2020/index.html)
+Our paper **"Multi-view fusion based moving target tracking using IR-UWB devices"**(基于IR-UWB的多视角融合动态目标追踪 in Chinese) was accepted and awarded the **best paper award** by [the 16th National Conference on Ubiquitous Computing (PCC 2020)](https://hhme.ccf.org.cn/history/2020/index.html)
 
