@@ -14,8 +14,7 @@ I was born in Hawaii, grew up in Massachusetts, and currently reside in Columbus
 
 [Click here to schedule a meeting with me.](https://outlook.office.com/bookwithme/user/199dcecab714464cb2ffcb754d11ee93@buckeyemail.osu.edu?anonymous&ep=plink)
 
-This is one of my favorite photos of my Dad and I from when we rode from Rhode Island to Acadia National Park: 
-![](/images/motopic.jpg)
+
 
 
 
