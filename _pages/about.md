@@ -16,6 +16,10 @@ Jointly supported by [Mitacs globalink research internship](https://www.mitacs.c
 
 # NEWS
 
+## Paper is on the way
+
+Our paper ["Scalable Realtime Physically-Based Animation on Mobile Platforms"]() is on the way.
+
 ## Paper accepted by the Journal of Software, August, 2022
 
 Our paper ["Multi-view fusion based moving target tracking using IR-UWB devices"]() is accepted by the [Journal of Software](http://www.jos.org.cn/josen/home).
