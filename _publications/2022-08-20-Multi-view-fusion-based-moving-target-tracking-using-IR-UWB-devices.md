@@ -6,7 +6,7 @@ excerpt: 'In this paper, we propose a moving target tracking method using IR-UWB
 date: 2022-08-20
 venue: 'Journal of Software(accepted)'
 paperurl: 'http://'
-citation: 'Weiyan Chen, Fusang Zhang, **Junjie Liu** and Daqing Zhang. Multi-view fusion based moving target tracking using IR-UWB devices. Journal of Software(accepted)'
+citation: 'Weiyan Chen, Fusang Zhang, <b>Junjie Liu<\b> and Daqing Zhang. Multi-view fusion based moving target tracking using IR-UWB devices. Journal of Software(accepted)'
 ---
 
 ## Abstract
