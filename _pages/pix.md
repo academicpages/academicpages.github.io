@@ -3,8 +3,28 @@ permalink: /pix/
 title: "Pictures"
 ---
 
-Here are some pictures. 
 
+
+Maui 2022:
+![](/images/maui.jpg)
+
+Greece 2021:
+![](/images/greece.jpg)
+
+Munich 2021:
+![](/images/munich.jpg)
+
+Go bucks:
+![](/images/bucks.jpg)
+
+Biggest bonfire I've ever seen:
+![](/images/fire.jpg)
+
+Mammouth Cave 2021:
+![](/images/cave.jpg)
+
+Cape Cod 2021:
+![](/images/cape.jpg)
 
 Kikko 2020:
 ![](/images/kikko2.jpg)
