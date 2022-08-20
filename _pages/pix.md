@@ -19,16 +19,16 @@ My Dad and I rode from Rhode Island to Acadia National Park 2020:
 ![](/images/motopic.jpg)
 
 Night hike 2019:
-![](/images/hike.JPG)
+![](/images/hike.jpg)
 
 I love to go clamming 2019:
-![](/images/clam.JPG)
+![](/images/clam.jpg)
 
 Fly fishing in The Blue Mountains 2019:
-![](/images/fly.JPG)
+![](/images/fly.jpg)
 
 Denver Art Museum (2019):
-![](/images/denver.JPG)
+![](/images/denver.jpg)
 
 Baby kikko:
 ![](/images/kikko1.JPG)
@@ -46,7 +46,7 @@ Mauna Kea Summit:
 ![](/images/kea.JPG)
 
 Big island 2018:
-![](/images/big.JPG)
+![](/images/big.PNG)
 
 Amanda photographs some lava going into the ocean on the big island 2018:
 ![](/images/lava.JPG)
