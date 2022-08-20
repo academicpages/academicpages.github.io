@@ -47,7 +47,7 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 
 * <b>On Transferability of Prompt Tuning for Natural Language Processing</b>\
 *<b>Yusheng Su</b>, Xiaozhi Wang, Yujia Qin, Chi-Min Chan, Yankai Lin, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou*\
-NAACL 2022 <b>Oral</b>. [[pdf]](https://aclanthology.org/2022.naacl-main.290/) [[code]](https://github.com/thunlp/Prompt-Transferability)
+NAACL 2022 <b>Oral</b>. [[pdf]](https://aclanthology.org/2022.naacl-main.290/) [[code]](https://github.com/thunlp/Prompt-Transferability) [[video]](https://www.youtube.com/channel/UCHd0jyn1p8fhvNXSktD_1Eg)
 
 
 * <b>Knowledge Inheritance for Pre-trained Language Models</b>\
