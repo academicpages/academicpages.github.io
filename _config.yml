@@ -68,7 +68,7 @@ analytics:
 author:
   name             : "Blain Morin"
   avatar           : "profile.png"
-  bio              : "PhD Student in Public Policy and Management at the John Glenn College at The Ohio State University"
+  bio              : "PhD Candidate in Public Policy and Management at the John Glenn College at The Ohio State University"
   location         : "Columbus, OH"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -89,7 +89,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : blainmorin
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-3686-9085"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -171,6 +171,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  pix:
     output: true
     permalink: /:collection/:path/
 
