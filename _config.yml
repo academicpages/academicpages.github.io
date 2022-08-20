@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Junjie Liu (Chunkit Lau)" # "Your Name / Site Title"
+title                    : "Liu, Junjie(Chunkit Lau)" # "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Junjie Liu" # "Your Name"
 description              : &description "personal description"
