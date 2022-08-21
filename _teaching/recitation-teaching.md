@@ -2,7 +2,7 @@
 title: "ASU Teaching Assistant Positions"
 collection: teaching
 type: "Class"
-permalink: /teaching/2022-spring-teaching
+permalink: /teaching/recitation-teaching
 venue: "Arizona State University"
 location: "Tempe, AZ, USA"
 ---
