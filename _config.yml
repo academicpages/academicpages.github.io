@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Purba Das"
-description              : &description "PhD student, University of Oxford"
+description              : &description "Byrne Research Assistant Professor of Mathematics at the University of Michigan"
 url                      : https://daspurba.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "daspurba/daspurba.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Purba Das"
   avatar           : "purba1.png"
-  bio              : "PhD student, University of Oxford"
-  location         : "Oxford, UK"
+  bio              : "Byrne Research Assistant Professor of Mathematics at the University of Michigan"
+  location         : "Office: 1833, East Hall, Mathematics department, University of Michigan"
   date             : "date modified Mar 2022"
   employer         :
   pubmed           : 
