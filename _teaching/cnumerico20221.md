@@ -32,7 +32,7 @@ Disponível no sistema SAGRES.
 
 Provas
 =======
-* Primeira Prova: 25/08/2022
+* Primeira Prova: 29/08/2022
 * Segunda Prova: 29/09/2022
 * Terceira Prova: 24/11/2022
 * Prova Final: 28/11/2022
