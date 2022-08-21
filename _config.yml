@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message', 'date']
+  allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -88,7 +88,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "das@maths.ox.ac.uk"
+  email            : "purbadas@umich.edu"
   researchgate     : "https://www.researchgate.net/profile/Purba-Das-2"
   uri              :
   bitbucket        :
