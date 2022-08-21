@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home Purba"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Purba Das"
 description              : &description "Byrne Research Assistant Professor of Mathematics at the University of Michigan"
