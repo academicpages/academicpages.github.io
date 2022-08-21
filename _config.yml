@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Purba Das"
 title_separator          : "-"
 name                     : &name "Purba Das"
 description              : &description "Byrne Research Assistant Professor of Mathematics at the University of Michigan"
 url                      : https://daspurba.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "Last modified: Aug 2022" # the subpath of your site, e.g. "/blog"
 repository               : "daspurba/daspurba.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -85,13 +85,13 @@ author:
   bio              : "Byrne Research Assistant Professor of Mathematics at the University of Michigan"
   location         : "Office: 1833, East Hall"
   location         : "Mathematics department, University of Michigan"
-  date             : "date modified Mar 2022"
+  date             : 
   employer         :
   pubmed           : 
   googlescholar    : 
   email            : "purbadas@umich.edu"
   researchgate     : "https://www.researchgate.net/profile/Purba-Das-2"
-  uri              :"date modified Mar 2022"
+  uri              :
   bitbucket        :
   codepen          :
   dribbble         :
