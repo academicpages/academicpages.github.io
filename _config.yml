@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Home Purba"
 title_separator          : "-"
 name                     : &name "Purba Das"
 description              : &description "Byrne Research Assistant Professor of Mathematics at the University of Michigan"
@@ -84,8 +84,6 @@ author:
   avatar           : "purba1.png"
   bio              : "Byrne Research Assistant Professor of Mathematics at the University of Michigan"
   location         : "Office: 1833, East Hall"
-  location         : "Mathematics department, University of Michigan"
-  date             : 
   employer         :
   pubmed           : 
   googlescholar    : 
