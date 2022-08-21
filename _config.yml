@@ -7,12 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Purba Das"
 title_separator          : "-"
 name                     : &name "Purba Das"
 description              : &description "Byrne Research Assistant Professor of Mathematics at the University of Michigan"
 url                      : https://daspurba.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "Last modified: Aug 2022" # the subpath of your site, e.g. "/blog"
+baseurl                  : ""# the subpath of your site, e.g. "/blog"
 repository               : "daspurba/daspurba.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
