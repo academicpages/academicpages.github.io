@@ -21,17 +21,13 @@ Due to these developments, MOB-ML has already shown great performance compared w
 
 References:
 
-[1] Welborn, M., Cheng, L., & Miller III, T. F. (2018). Transferability in machine learning for electronic structure via the molecular orbital basis. Journal of chemical theory and computation, 14(9), 4772-4779.
+[1] Husch, T., **Sun, J.**, Cheng, L., Lee, S. J., & Miller III, T. F. (2021). Improved accuracy and transferability of molecular-orbital-based machine learning: Organics, transition-metal complexes, non-covalent interactions, and transition states. The Journal of Chemical Physics, 154(6), 064108.
 
-[2] Cheng, L., Welborn, M., Christensen, A. S., & Miller III, T. F. (2019). A universal density matrix functional from molecular orbital-based machine learning: Transferability across organic molecules. The Journal of chemical physics, 150(13), 131103.
+[2] **Sun, J.**, Cheng, L., & Miller III, T. F. (2021). Molecular Energy Learning Using Alternative Blackbox Matrix-Matrix Multiplication Algorithm for Exact Gaussian Process. arXiv preprint arXiv:2109.09817.
 
-[3] Husch, T., **Sun, J.**, Cheng, L., Lee, S. J., & Miller III, T. F. (2021). Improved accuracy and transferability of molecular-orbital-based machine learning: Organics, transition-metal complexes, non-covalent interactions, and transition states. The Journal of Chemical Physics, 154(6), 064108.
+[3] **Sun, J.**, Cheng, L., & Miller III, T. F. (2022). Molecular Dipole Moment Learning via Rotationally Equivariant Gaussian Process Regression with Derivatives in Molecular-orbital-based Machine Learning. arXiv preprint arXiv:2205.15510.
 
-[4] **Sun, J.**, Cheng, L., & Miller III, T. F. (2021). Molecular Energy Learning Using Alternative Blackbox Matrix-Matrix Multiplication Algorithm for Exact Gaussian Process. arXiv preprint arXiv:2109.09817.
-
-[5] **Sun, J.**, Cheng, L., & Miller III, T. F. (2022). Molecular Dipole Moment Learning via Rotationally Equivariant Gaussian Process Regression with Derivatives in Molecular-orbital-based Machine Learning. arXiv preprint arXiv:2205.15510.
-
-[6] Cheng, L., **Sun, J.**, Emiliano Deustua, J., Bhethanabotla, V. C., & Miller III, T. F. (2022). Molecular-orbital-based Machine Learning for Open-shell and Multi-reference Systems with Kernel Addition Gaussian Process Regression. arXiv e-prints, arXiv-2207.
+[4] Cheng, L., **Sun, J.**, Emiliano Deustua, J., Bhethanabotla, V. C., & Miller III, T. F. (2022). Molecular-orbital-based Machine Learning for Open-shell and Multi-reference Systems with Kernel Addition Gaussian Process Regression. arXiv e-prints, arXiv-2207.
 
 <h3> Ring-polymer molecular dynamics (RPMD) </h3>
 
@@ -39,11 +35,13 @@ Classical molecular dynamics methods have already shown to be successful for mod
 However, for light atoms like hydrogen and its isotopes, nuclear quantum effect is non-negligible and cannot be captured by these classical methods.
 Ring-polymer molcular dynamics (RPMD) is a semi-classical quantum dynamics method to approximately describe the nuclear quantum effect.
 
-In a recent work, we introduced a generalized class of thermalized RPMD integrators and studied their equilibrium accuracy, convergence rate, stability and dimensionality-freedom from a theoreical aspect of view. We confirmed that the "BCOCB" type integrator over all other known integrators in this class.
+In a recent work, we introduced a generalized class of thermalized RPMD integrators and studied their equilibrium accuracy, convergence rate, stability and dimensionality-freedom from a theoreical aspect of view. We confirmed that the "BCOCB" type integrator over all other known integrators in this class. We also apply this integrator to calculate bimolecular rate cofficients in the OH+CH<sub>4</sub> reaction and achieve excellent agreement with experimental data.
 
 References:
 
-[1] Rosa-Raíces, J. L., **Sun, J.**, Bou-Rabee, N., & Miller III, T. F. (2021). A generalized class of strongly stable and dimension-free T-RPMD integrators. The Journal of chemical physics, 154(2), 024106.
+[1] Rosa-Raíces, J. L.<sup>\*</sup>, **Sun, J.**<sup>\*</sup>, Bou-Rabee, N., & Miller III, T. F. (2021). A generalized class of strongly stable and dimension-free T-RPMD integrators. The Journal of chemical physics, 154(2), 024106.
+
+[2] Gui, X., Fan, W., **Sun, J.**, & Li, Y. (2022). New Stable and Fast Ring-Polymer Molecular Dynamics for Calculating Bimolecular Rate Coefficients with Example of OH+ CH_4. arXiv preprint arXiv:2205.09331.
 
 <h3> Electron-phonon interaction </h3>
 
