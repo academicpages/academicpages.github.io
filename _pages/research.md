@@ -54,4 +54,4 @@ Our finding reconciles a long-standing discrepancy regarding the strength of int
 
 References:
 
-[1] Cheng, P. S., Sun, **J., Sun**, S. N., Choi, A. Y., & Minnich, A. J. (2022). High-field transport and hot electron noise in GaAs from first principles: role of two-phonon scattering. arXiv preprint arXiv:2201.11912.
+[1] Cheng, P. S., **Sun, J.**, Sun, S. N., Choi, A. Y., & Minnich, A. J. (2022). High-field transport and hot electron noise in GaAs from first principles: role of two-phonon scattering. arXiv preprint arXiv:2201.11912.
