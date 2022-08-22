@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : ""
   location         : "London, UK"
-  employer         :
+  employer         : #"http://www.jasonmcewen.org/authors/alicja-polanska/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=fokSJbwAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Alicja-Polanska"
   uri              :
   bitbucket        :
   codepen          :
