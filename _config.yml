@@ -52,7 +52,7 @@ atom_feed:
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-alexa_site_verification  :
+#alexa_site_verification  : Amazon retired Alexa May 1, 2022
 yandex_site_verification :
 
 # Social Sharing
