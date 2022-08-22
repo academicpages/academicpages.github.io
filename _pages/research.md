@@ -41,7 +41,7 @@ References:
 
 [1] Rosa-Raíces, J. L.<sup>\*</sup>, **Sun, J.**<sup>\*</sup>, Bou-Rabee, N., & Miller III, T. F. (2021). A generalized class of strongly stable and dimension-free T-RPMD integrators. The Journal of chemical physics, 154(2), 024106.
 
-[2] Gui, X., Fan, W., **Sun, J.**, & Li, Y. (2022). New Stable and Fast Ring-Polymer Molecular Dynamics for Calculating Bimolecular Rate Coefficients with Example of OH+ CH_4. arXiv preprint arXiv:2205.09331.
+[2] Gui, X., Fan, W., **Sun, J.**, & Li, Y. (2022). New Stable and Fast Ring-Polymer Molecular Dynamics for Calculating Bimolecular Rate Coefficients with Example of OH+CH<sub>4</sub>. arXiv preprint arXiv:2205.09331.
 
 <h3> Electron-phonon interaction </h3>
 
