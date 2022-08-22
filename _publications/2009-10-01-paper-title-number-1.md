@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Solitary states in adaptive nonlocal oscillator networks"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: ''
+date: 2020
+venue: 'The European Physical Journal Special Topics'
+paperurl: 'https://link.springer.com/article/10.1140/epjst/e2020-900253-0'
+citation: 'Berner, R., Polanska, A., Schöll, E. et al. Solitary states in adaptive nonlocal oscillator networks. Eur. Phys. J. Spec. Top. 229, 2183–2203 (2020)'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this article, we analyze a nonlocal ring network of adaptively coupled phase oscillators. We observe a variety of frequency-synchronized states such as phase-locked, multicluster and solitary states. For an important subclass of the phase-locked solutions, the rotating waves, we provide a rigorous stability analysis. This analysis shows a strong dependence of their stability on the coupling structure and the wavenumber which is a remarkable difference to an all-to-all coupled network. Despite the fact that solitary states have been observed in a plethora of dynamical systems, the mechanisms behind their emergence were largely unaddressed in the literature. Here, we show how solitary states emerge due to the adaptive feature of the network and classify several bifurcation scenarios in which these states are created and stabilized.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://link.springer.com/article/10.1140/epjst/e2020-900253-0)
