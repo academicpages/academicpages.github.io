@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSci Physics with Theoretical Physics, Imperial College London, 2021
+ First Class Honours
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021/10-2022/08 Project collaborator at Yale Breast Medical Oncology Group
+ * Project on ways of measuring immune repertoire diversity
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Research Placement at Imperial College London Astrophysics Group
+  * Project on distance to the Large Magellanic Cloud and its implications for the Hubble Constant
+
+* Summer 2019: Research Placement at TU Berlin Nonlinear Dynamics and Control and Applied Dynamical Systems Groups
+ * Project on complex dynamics in nonlocal rings of adaptively coupled phase oscillators
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+• Probability and statistics• Bayesian estimation and inference• Markov Chain Monte Carlo methods• Quantitative analysis and data visualisation• Numerical simulations• Python: NumPy, SciPy, Matplotlib, emcee• Julia: project on the dynamics of adaptive networks of coupled phase oscillators• R: ggplot2, tidyverse, reshape, stats, immunarch• Object-oriented programming: computing laboratory; project on modelling hard-sphere gas behaviour in Python• Machine learning• Strong verbal and written skills: manuscript, literature reviews, reports, presentations• Teamwork: group projects• Languages: Polish (Native), English (Fluent), Spanish (Intermediate), German (Basic)
+
+Awards and Accomplishments
+======
+• International Research Opportunities (IROP) Award at Imperial College• DAAD RISE Germany Scholarship• 2018, 2019 Imperial College Department of Physics Dean’s List: total year results in the top 10 percent of the cohort
 
 Publications
 ======
@@ -42,18 +39,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
