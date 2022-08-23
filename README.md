@@ -47,11 +47,11 @@ See below for example entry:
 
 | pub_date   | title                                                                                             | venue                          | excerpt            | citation                                                                                                                                                        | url_slug | paper_url                                                |
 |------------|---------------------------------------------------------------------------------------------------|--------------------------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------|
-| 27/05/2020 | Using genetics to prioritize diagnoses for rheumatology outpatients with   inflammatory arthritis | Science Translational Medicine | short summary here | Knevel, R. (2020). "Using genetics to prioritize diagnoses for   rheumatology outpatients with inflammatory arthritis" <i>Science   Translational Medicine</i>. | gprob    | https://www.science.org/doi/10.1126/scitranslmed.aay1548 |
+| 2020-05-27 | Using genetics to prioritize diagnoses for rheumatology outpatients with   inflammatory arthritis | Science Translational Medicine | short summary here | Knevel, R. (2020). "Using genetics to prioritize diagnoses for   rheumatology outpatients with inflammatory arthritis" <i>Science   Translational Medicine</i>. | gprob    | https://www.science.org/doi/10.1126/scitranslmed.aay1548 |
 
 The easiest way to alter the .tsv file is using MS Excel, as a normal text editor messes up on the tabs a bit.
 
-N.B. avoid any symbols in the short summary as UTF-8 encoding will be enforced!
+N.B. avoid any symbols in the short summary as UTF-8 encoding will be enforced! (I use Notepad++ to convert to ANSI)
 
 After altering the publications.tsv one should run the ~/markdown_generator/publications.py script to convert the new information to a proper entry.
 
@@ -76,7 +76,7 @@ See below for example entry:
 
 The easiest way to alter the .tsv file is using MS Excel, as a normal text editor messes up on the tabs a bit.
 
-N.B. avoid any symbols in the short summary as UTF-8 encoding will be enforced!
+N.B. avoid any symbols in the short summary as UTF-8 encoding will be enforced! (I use Notepad++ to convert to ANSI)
 
 After altering the talks.tsv one should run the ~/markdown_generator/talks.py script to convert the new information to a proper entry.
 
