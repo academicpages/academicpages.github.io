@@ -24,9 +24,9 @@ redirect_from:
 
 **Outliers Detection in Networks with Missing Links**, S. Gaucher, O. Klopp, G. Robin (2021). [Computational Statistics and Data Analysis](https://www.sciencedirect.com/science/article/pii/S0167947321001420).[Preprint on Arxiv](https://arxiv.org/abs/1911.13122)
 
-<!--**Optimality of variational inference for stochastic block model with missing links**, S. Gaucher. [NeuRIPS 2021](https://papers.nips.cc/paper/2021/file/a5e308070bd6dd3cc56283f2313522de-Paper.pdf)-->
-
 **Maximum Likelihood Estimation of Sparse Networks with Missing Observations**, S. Gaucher, O. Klopp (2021). [Journal of Statistical Planning and Inference](https://www.sciencedirect.com/science/article/abs/pii/S0378375821000422), [Preprint on HAL](https://hal.archives-ouvertes.fr/hal-02050003)
+
+**Variational Inference for Stochastic Block Model with Missing Links**, S. Gaucher, O. Klopp (2021). [NeuRIPS 2021](https://papers.nips.cc/paper/2021/file/a5e308070bd6dd3cc56283f2313522de-Paper.pdf)
 
 R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020). S Gaucher, G. Robin. The package allows to robustly estimate probabilities of connections in the presence of missing observations and outlier nodes, while detecting those outlier nodes.
 
