@@ -24,7 +24,7 @@ Wealth and Partners’ Life Satisfaction“. European Sociological Review (37,
 
 
 Tisch, Daria, Philipp Lersch (2021) „Distributive Justice in Marriage: Experimen-
-tal Evidence on Beliefs about Fair Savings Arrangements“. Journal of Marriage and Family (83, 2) 516-533,  [doi.org/10.1111/jomf.12694](href="https://doi.org/10.1111/jomf.12694).
+tal Evidence on Beliefs about Fair Savings Arrangements“. Journal of Marriage and Family (83, 2) 516-533,  [doi.org/10.1111/jomf.12694](https://doi.org/10.1111/jomf.12694).
 
 
 Lutter, Mark, Karlijn Roex, Daria Tisch (2020) „Anomie or imitation? The
