@@ -130,6 +130,20 @@
 
 }
 
+.aboutlink {
+  width : 200px;
+  height : 200px;
+  border-radius: 25px;
+  cursor : pointer;
+  float : left;
+  margin-left : 15px;
+  margin-top : 15px;
+  margin-right : 15px;
+  margin-bottom: 15px;
+  transition: all .2s ease-in-out;
+}
+
+
 .biopic {
   width : 150px;
   height : 150px;
