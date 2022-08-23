@@ -16,11 +16,11 @@ redirect_from:
    
 # Papers, preprints, and software
 
-**The price of unfairness in linear bandits with biased feedback**, S. Gaucher, A. Carpentier, C. Giraud. [Preprint on Hall](https://hal.archives-ouvertes.fr/hal-03611628)
+**The price of unfairness in linear bandits with biased feedback** (2022), S. Gaucher, A. Carpentier, C. Giraud. [Preprint on Hall](https://hal.archives-ouvertes.fr/hal-03611628)
 
-**Hierarchical transfer learning with applications for electricity load forecasting**, A. Antoniadis, S. Gaucher, Y. Goude. [Preprint on HAL](https://hal.archives-ouvertes.fr/hal-03429702)
+**Hierarchical transfer learning with applications for electricity load forecasting** (2021), A. Antoniadis, S. Gaucher, Y. Goude. [Preprint on HAL](https://hal.archives-ouvertes.fr/hal-03429702)
 
-**Finite Continuum-Armed Bandits**, S. Gaucher. [NeuRIPS 2020](https://proceedings.neurips.cc/paper/2020/file/20c86a628232a67e7bd46f76fba7ce12-Paper.pdf), [Short Presentation](https://slideslive.com/s/solenne-gaucher-43495), [Poster](../FCAB.pdf)
+**Finite Continuum-Armed Bandits** (2020), S. Gaucher. [NeuRIPS 2020](https://proceedings.neurips.cc/paper/2020/file/20c86a628232a67e7bd46f76fba7ce12-Paper.pdf), [Short Presentation](https://slideslive.com/s/solenne-gaucher-43495), [Poster](../FCAB.pdf)
 
 **Outliers Detection in Networks with Missing Links**, S. Gaucher, O. Klopp, G. Robin (2021). [Computational Statistics and Data Analysis](https://www.sciencedirect.com/science/article/pii/S0167947321001420).[Preprint on Arxiv](https://arxiv.org/abs/1911.13122)
 
