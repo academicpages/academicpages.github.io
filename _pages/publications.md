@@ -10,7 +10,7 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 
 # Conference Papers
 ## 2022
-* **Selective Cross-City Transfer Learning for Traffic Prediction via Source City Region Re-Weighting** \[[pdf](https://kl4805.github.io/files/KDD22.pdf)\]\[[code](https://github.com/KL4805/CrossTReS)\]<br>
+* **Selective Cross-City Transfer Learning for Traffic Prediction via Source City Region Re-Weighting** \[[pdf](https://kl4805.github.io/files/KDD22.pdf)\]\[[code](https://github.com/KL4805/CrossTReS)\]\[[slides](https://kl4805.github.io/files/final_kdd22.pdf)\]<br>
 **Yilun Jin**, Kai Chen, Qiang Yang. <br> To appear in *the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2022
 
 ## 2021
