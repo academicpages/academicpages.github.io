@@ -12,8 +12,7 @@ redirect_from:
 Education
 ======
 * MSci Physics with Theoretical Physics, Imperial College London, 2021, First Class Honours
-
-MSci project on Simulating Materials at Constant Pressure Using Homogeneous Coordinates
+  *MSci project on Simulating Materials at Constant Pressure Using Homogeneous Coordinates
 
 Work experience
 ======
