@@ -38,6 +38,10 @@ Work experience
 Publications
 ======
 
+* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Evidence for a travel direction signal in humans that is independent of head direction. [[preprint](https://www.biorxiv.org/content/10.1101/2022.08.22.504860v1)]
+
+* <b>Cheng, Y.</b>. Dissertation: Travel Direction as a Fundamental Component of Human Navigation: Integrating Psychophysics, Neuroimaging, and Computational Modeling Approaches https://escholarship.org/uc/item/9jg79944
+
 * <b>Cheng, Y.</b>., & Chrastil, L. (2021, November 30). From Individual Cognitive Maps to a Collective Cognitive Map: Prescriptive Guidelines and Measurement of Factors that Could Distort the Mapping Process. https://doi.org/10.31234/osf.io/7ygk2 [[pdf](https://lilianyou.github.io/files/2021_collective_navigation_preprint_Cheng.pdf)]
 
 * Chrastil, E. R., <b>Cheng, Y.</b>.  Central Coordination and Integration of Diverse Information to Form a Single Map.  In R. D. Montello & K. M. Curtin (Eds.), Collective Spatial Cognition:  A Research Agenda.  Routledge (Taylor and Francis).  (in press)
