@@ -36,12 +36,15 @@ Lutter, Mark, Daria Tisch, Jens Beckert (2018) „Social Explanations of Lottery
 Play: New Evidence Based on National Survey Data“, Journal of Gambling
 Studies (34) 1185–1203, [doi.org/10.1007/s10899-018-9748-0](https://doi.org/10.1007/s10899-018-9748-0).
 
+Data
+======
+
+Tisch, Daria, Tamara Gutfleisch (2022): Gerechtigkeitsprinzipien bei elterlichen Schenkungen. Scientific Use File. Datendokumentation. [doi.org/10.7802/2431](https://doi.org/10.7802/2431).
 
 Other
 ======
 
 Tisch, Daria (2021) "[Perceptions of Gender Wealth Inequalities within the Family](https://kups.ub.uni-koeln.de/52697/)". Dissertation. 
-
 
 
 Work in progress
