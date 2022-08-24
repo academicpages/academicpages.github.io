@@ -13,6 +13,8 @@ Education
 ======
 * MSci Physics with Theoretical Physics, Imperial College London, 2021, First Class Honours
 
+MSci project on Simulating Materials at Constant Pressure Using Homogeneous Coordinates
+
 Work experience
 ======
 * 2021/10-2022/08 Project collaborator at Yale Breast Medical Oncology Group
@@ -26,11 +28,25 @@ Work experience
   
 Skills
 ======
-* Probability and statistics* Bayesian estimation and inference* Markov Chain Monte Carlo methods* Quantitative analysis and data visualisation* Numerical simulations* Python: NumPy, SciPy, Matplotlib, emcee* Julia: project on the dynamics of adaptive networks of coupled phase oscillators* R: ggplot2, tidyverse, reshape, stats, immunarch* Object-oriented programming: computing laboratory; project on modelling hard-sphere gas behaviour in Python* Machine learning* Strong verbal and written skills: manuscripts, literature reviews, reports, presentations* Teamwork: group projects* Languages: Polish (Native), English (Fluent), Spanish (Intermediate), German (Basic)
+* Probability and statistics
+* Bayesian estimation and inference
+* Markov Chain Monte Carlo methods
+* Quantitative analysis and data visualisation
+* Numerical simulations
+* Python: NumPy, SciPy, Matplotlib, emcee
+* Julia: project on the dynamics of adaptive networks of coupled phase oscillators
+* R: ggplot2, tidyverse, reshape, stats, immunarch
+* Object-oriented programming: computing laboratory; project on modelling hard-sphere gas behaviour in Python
+* Machine learning
+* Strong verbal and written skills: manuscripts, literature reviews, reports, presentations
+* Teamwork: group projects
+* Languages: Polish (Native), English (Fluent), Spanish (Intermediate), German (Basic)
 
 Awards and Accomplishments
 ======
-* International Research Opportunities (IROP) Award at Imperial College* DAAD RISE Germany Scholarship* 2018, 2019 Imperial College Department of Physics Dean’s List: total year results in the top 10 percent of the cohort
+* International Research Opportunities (IROP) Award at Imperial College
+* DAAD RISE Germany Scholarship
+* 2018, 2019 Imperial College Department of Physics Dean’s List: total year results in the top 10 percent of the cohort
 
 Publications
 ======
