@@ -22,7 +22,8 @@ My research interests are broadly defined at the intersection of Data Science, B
 
 # News
 
-- **August, 2022:** Excited to receive new DARPA funding!
+- **August, 2022:** Co-organizing the first-ever NeurIPS 2022 [Gaze Meets ML](https://gaze-meets-ml.github.io/gaze_ml_2022/) workshop. 
+- **August, 2022:** Excited to receive new DARPA KMASS funding!
 - **July, 2022:** Thank you to  Commonwealth Cyber Initiative (CCI) for funding our proposal on ML-based automated code repair. Looking foward to working with PI Daphne Yao and Co-PI Bimal Viswanath.
 - **June, 2022:** Will be giving a keynote at [ACM PETRA 2022](http://www.petrae.org/keynote.html). Also serving as the PETRA'22 Doctoral Consortium Chair. Looking forward to meeting students and conference attendees. 
 - **April, 2022:** Thrilled to join the [NeurIPS 2022 Organizing Commitee](https://nips.cc/Conferences/2022/Committees) as an Expo co-Chair!
