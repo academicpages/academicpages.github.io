@@ -1,7 +1,7 @@
 ---
 title: "A Novel Source-Filter Stochastic Model for Voice Production"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/voice
 excerpt: ''
 date: 2021-01-01
 venue: 'Journal of the Voice'
