@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-01-01
 venue: 'Journal of the Voice'
 paperurl: ''
-citation: 'Edson Cataldo, Lucas Monteiro Paes, and Christian Soize.'
+Authors: 'Edson Cataldo, Lucas Monteiro Paes, and Christian Soize.'
 ---
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S089219972030429X)
