@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Applied Mathematics Ph.D. student in the School of Engineering and Applied Sciences (SEAS) at [Harvard University](https://www.seas.harvard.edu), working with Prof. [Flavio Calmon](http://people.seas.harvard.edu/~flavio/#). My main research interests are fairness, information theory, and machine learning applications for the social good. Before joining Harvard, I received an M.s. in Computational Mathematics and Modelling from Instituto de Matemática Pura e Aplicada ([IMPA](https://impa.br/en_US/)) in Brazil. You can find my CV with a complete list of publications [here](https://drive.google.com/file/d/1Z0AaWf8GAbnr3_dJpNpaBEi9YeDHmfPm/view?usp=sharing).
+I am a second-year Applied Mathematics Ph.D. student in the School of Engineering and Applied Sciences (SEAS) at [Harvard University](https://www.seas.harvard.edu), working with Prof. [Flavio Calmon](http://people.seas.harvard.edu/~flavio/#). My main research interests are fairness, information theory, and machine learning applications for the social good. Before joining Harvard, I received an M.s. in Computational Mathematics and Modelling from Instituto de Matemática Pura e Aplicada ([IMPA](https://impa.br/en_US/)) in Brazil. You can find my CV with a list of all my publications [here](https://drive.google.com/file/d/1Z0AaWf8GAbnr3_dJpNpaBEi9YeDHmfPm/view?usp=sharing).
 
 ## Recent announcements
 <span style="color: FireBrick"> 
