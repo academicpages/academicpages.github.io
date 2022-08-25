@@ -49,7 +49,7 @@ See below for example entry:
 |------------|---------------------------------------------------------------------------------------------------|--------------------------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|----------------------------------------------------------|
 | 2020-05-27 | Using genetics to prioritize diagnoses for rheumatology outpatients with   inflammatory arthritis | Science Translational Medicine | short summary here | Knevel, R. (2020). "Using genetics to prioritize diagnoses for   rheumatology outpatients with inflammatory arthritis" <i>Science   Translational Medicine</i>. | gprob    | https://www.science.org/doi/10.1126/scitranslmed.aay1548 |
 
-The easiest way to alter the .tsv file is using MS Excel, as a normal text editor messes up on the tabs a bit.
+The easiest way to alter the .tsv file is using a text editor that can visualise tabs (such as Notepad++)
 
 N.B. avoid any symbols in the short summary as UTF-8 encoding will be enforced! (I use Notepad++ to convert to ANSI)
 
@@ -74,7 +74,7 @@ See below for example entry:
 |------------------------------------|------|----------|------------|------------|---------------------|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | EULAR 2022 Abstract EHR Clustering | Talk | talk-1   | EULAR 2022 | 01/06/2022 | Copenhagen, Denmark | http://exampleurl.com | Poster presentation of the work performed by Tjardo Maarseveen on the   clustering of Rheumatoid Arthritis patients using baseline EHR data |
 
-The easiest way to alter the .tsv file is using MS Excel, as a normal text editor messes up on the tabs a bit.
+The easiest way to alter the .tsv file is using a text editor that can visualise tabs (such as Notepad++)
 
 N.B. avoid any symbols in the short summary as UTF-8 encoding will be enforced! (I use Notepad++ to convert to ANSI)
 
