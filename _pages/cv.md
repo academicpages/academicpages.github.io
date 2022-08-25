@@ -32,5 +32,5 @@ Publications
 Service
 ======
 * Reviewer:
-  * Journals: Information Fusion, Neuralcomputing, Affective Computing, TCVST
-  * Conferences: ICLR, NIPS
+  * Journals: Information Fusion, Neuralcomputing, Affective Computing, TCVST, TITS
+  * Conferences: ICLR 2022, NIPS 2022
