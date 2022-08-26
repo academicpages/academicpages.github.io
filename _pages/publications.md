@@ -5,12 +5,21 @@ title: "Publications"
 author_profile: true
 ---
 
+## Bilingualism is always cognitively advantageous, but this doesn’t mean what you think it means.<br>*Frontiers in Psychology: Language Sciences*, 2022. ([Link](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.867166/full)) <img align="right" src="https://gui-cogsci.github.io/images/frontierspsychology.png" width="130">
+>  For decades now a research question has firmly established itself as a staple of psychological and neuroscientific investigations on language, namely the question of whether and how bilingualism is cognitively beneficial, detrimental or neutral. As more and more studies appear every year, it seems as though the research question itself is firmly grounded and can be answered if only we use the right experimental manipulations and subject the data to the right analysis methods and interpretive lens. In this paper we propose that, rather than merely improving prior methods in the pursuit of evidence in one direction or another, we would do well to carefully consider whether the research question itself is as firmly grounded as it might appear to be. We identify two bodies of research that suggest the research question to be highly problematic. In particular, drawing from work in sociolinguistics and in embodied cognitive science, we argue that the research question of whether bilingualism is cognitively advantageous or not is based on problematic assumptions about language and cognition. Once these assumptions are addressed head on, a straightforward answer to the question arises, but the question itself comes to seem to be a poor starting point for research. After examining why this is so, we conclude by exploring some implications for future research.
+> 
+> KEYWORDS: bilingualism; multilingualism; language ideologies; sociolinguistics; communities of practice; information processing; embodied cognition; ecological psychology
+>
+>> Sanches de Oliveira, G. and Bullock Oliveira, M. (2022) Bilingualism is always cognitively advantageous, but this doesn’t mean what you think it means. *Front. Psychol.* 13:867166. doi: 10.3389/fpsyg.2022.867166
+
+<br><br>
+
 ## Radical Artifactualism.<br>*European Journal for Philosophy of Science*, 2022. ([Link](https://link.springer.com/article/10.1007/s13194-022-00462-0)) <img align="right" src="https://gui-cogsci.github.io/images/epsa.jpg" width="130">
 >  A powerful idea put forward in the recent philosophy of science literature is that scientific models are best understood as instruments, tools or, more generally, artifacts. This idea has thus far been developed in combination with the more traditional representational approach: accordingly, current artifactualist accounts treat models as representational tools. But artifactualism and representationalism are independent views, and adopting one does not require acceptance of the other. This paper argues that a leaner version of artifactualism, free of representationalist assumptions, is both desirable and viable. Taking seriously the idea that models are artifacts can help us philosophically to make sense of how and why scientific modeling works even without reference to representation.
 > 
 > KEYWORDS: scientific modeling; representation; tool use; material engagement; pragmatism
 >
->> Sanches de Oliveira, G. (forthcoming)  Radical Artifactualism. *European Journal for Philosophy of Science*.
+>> Sanches de Oliveira, G. (2022)  Radical Artifactualism. *European Journal for Philosophy of Science*.
 
 <br><br>
 
