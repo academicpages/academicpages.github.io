@@ -51,13 +51,20 @@ Press releases can be found on [the website of Leiden University](https://www.un
 
 ### SERVICE
 
-#### PROGRAM COMMITTEE MEMBER
-
-  - AAAI 2021 (awarded with an Outstanding Reviewer Award)
-
 #### CO-ORGANISER
 
-  - BNAIC/BENELEARN 2020 (sponsor chair, social chair)
+  - [BNAIC/BENELEARN 2020](https://bnaic.liacs.leidenuniv.nl) (sponsor chair, social chair)
+
+#### PROGRAM COMMITTEE MEMBER
+
+  - [NeurIPS 2022](https://nips.cc)
+  - [AAAI 2021](https://aaai.org/Conferences/AAAI-21/) (awarded with an Outstanding Reviewer Award)
+
+#### REVIEWER
+
+  - [ACM TOSEM 2022](https://dl.acm.org/journal/tosem) 
+
+
 
 ### OTHER THINGS YOU MIGHT KNOW ME FROM
 
