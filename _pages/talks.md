@@ -16,7 +16,6 @@ List of peer-reviewed talks (enumerated) and invited talks or other conference c
 
 (78) **"The Lab as a Behavior Setting: Steps Toward Reflexivity in Ecological Psychology."** Workshop _Being Where: Revisiting Behavior Setting Theory_. Roskilde University, in Denmark (April 25-26, 2022)
 
-
 <br>
 
 ### 2021
@@ -34,12 +33,14 @@ List of peer-reviewed talks (enumerated) and invited talks or other conference c
 (72) **"Explanatory Diversity in Embodied Cognitive Science: Taking Situation Seriously Motivates Pluralism."**   Workshop on the Methodology of Situated Cognition Research. University of Kassel, Germany (March 3-4, 2021)  [online]
 
 -  **"Embodied Cognition and Nonlinear Dynamics: Theory, Methods, and Applications."**  Colloquium series, Institut für Psychologie und Arbeitswissenschaft. Technische Universität Berlin, Germany (January 13, 2021)  [online]
+
 <br>
 
 
 ### 2020
 
 (71) **"Radical Embodiment and the Relation Between Individual and Joint Action:  A Level-Neutral Approach."**   42nd Annual Meeting of the Cognitive Science Society. Virtual Meeting (July 29 - August 1, 2020)
+
 <br>
 
 
