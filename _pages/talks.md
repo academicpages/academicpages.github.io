@@ -12,8 +12,6 @@ List of peer-reviewed talks (enumerated) and invited talks or other conference c
 
 ### 2022
 
-(80) **"Radical Embodiment and the Relation Between Individual and Joint Action: A Level-Neutral Approach."** TRACE (Transdisciplinary Research Association on Cognition and Embodiment) Workshop on Attention and Action. University of Würzburg, in Germany (June 24-25, 2022)
-
 (79) **"Habit, Development and Epistemic Agency: On Becoming a Scientist."** Workshop _Rethinking Conscious Agency: The Architecture of Skilled Action_. Universitat de Barcelona, in Spain (April 28-29, 2022)
 
 (78) **"The Lab as a Behavior Setting: Steps Toward Reflexivity in Ecological Psychology."** Workshop _Being Where: Revisiting Behavior Setting Theory_. Roskilde University, in Denmark (April 25-26, 2022)
