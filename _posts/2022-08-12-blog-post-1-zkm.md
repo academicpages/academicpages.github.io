@@ -4,7 +4,7 @@ date: 2022-08-12
 permalink: /posts/2022/08/blog-post-1/
 tags:
   - cool posts
-  - category1
+  - markdown
   - category2
 ---
 
