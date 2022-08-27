@@ -7,12 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate at Monash University, supervised by [Prof. Shirui Pan](https://shiruipan.github.io/), [Dr. Daokun Zhang](https://research.monash.edu/en/persons/daokun-zhang), and [A/Prof. Vincent Lee](https://research.monash.edu/en/persons/vincent-lee). I obtained my B.S. degree and M.S. degree from Beihang University in 2017 and 2020, respectively. 
-
-My research interests are in graph representation learning and graph neural networks, with a special focus on unsupervised and weak-supervised scenarios.
+I am a Ph.D. candidate at Monash University, supervised by [Prof. Shirui Pan](https://shiruipan.github.io/), [Dr. Daokun Zhang](https://research.monash.edu/en/persons/daokun-zhang), and [A/Prof. Vincent Lee](https://research.monash.edu/en/persons/vincent-lee). I obtained my B.S. degree and M.S. degree from Beihang University in 2017 and 2020, respectively. My research interests are in graph representation learning and graph neural networks, with a special focus on unsupervised and weak-supervised scenarios. I am a recipient of the Google Ph.D. Fellowship in 2022.
 
 News
 ------
+* 2022/08: I am honoured to receive the [Google Ph.D. Fellowship](https://research.google/outreach/phd-fellowship) in 2022.
 * 2022/05: Our survey on [graph self-supervised learning](https://arxiv.org/pdf/2103.00111.pdf) has been accepted by IEEE TKDE.
 * 2022/01: Our paper on [unsupervised graph structure learning](https://arxiv.org/pdf/2201.06367.pdf) has been accepted by WWW 2022.
 * 2021/11: Our paper on [dynamic graph anomaly detection](https://arxiv.org/pdf/2106.09876.pdf) has been accepted by IEEE TKDE.
