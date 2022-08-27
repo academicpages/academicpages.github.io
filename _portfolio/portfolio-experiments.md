@@ -1,6 +1,6 @@
 ---
 title: "Portfolio-experiments"
-excerpt: "Fringe patterns <br/><img src='/images/DSCP.jpg'>"
+excerpt: "Fringe patterns <br/><img src='/images/DSCP.jpg' width='60%'>"
 collection: portfolio
 ---
 
