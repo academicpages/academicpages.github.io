@@ -1,6 +1,6 @@
 ---
 title: "Portfolio-students"
-excerpt: "All students <br/><img src='/images/downstair.gif'> <br/><img src='/images/2493466.jpg' width=50%>"
+excerpt: "All students <br/><img src='/images/downstair.gif'> <br/><img src='/images/2493466.jpg' width='50%'>"
 collection: portfolio
 ---
 
