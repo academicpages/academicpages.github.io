@@ -78,12 +78,15 @@ Markdown可以使用以下几种字体：
 # 脚注
 脚注是对文字的补充说明。Markdown脚注的格式如下：  
 ```
-这是一段文字，演示如何创建脚注[^USST]
-[^USST]：上海理工大学 -- University of Shanghai for Science and Technology
+- 上标：30^th^
+- 下标：H~2~O
+- 脚注：Content [^1]
+[^1]:Hi 这里是一个注脚，会自动拉到最后面排版
 ```  
 
 显示效果如下：  
 
-这是一段文字，演示如何创建脚注[^USST]  
-[^USST]：上海理工大学 -- University of Shanghai for Science and Technology
-
+- 上标：30^th^
+- 下标：H~2~O
+- 脚注：Content [^1]  
+[^1]:Hi 这里是一个注脚，会自动拉到最后面排版
