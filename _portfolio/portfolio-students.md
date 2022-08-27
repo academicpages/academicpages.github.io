@@ -1,6 +1,6 @@
 ---
 title: "Portfolio-students"
-excerpt: "All students <br/><img src='/images/downstair.gif'> <br/><img src='/images/2493466.jpg' width='50%'>"
+excerpt: "To my students: 难走的路才有好风景！ <br/><img src='/images/downstair.gif'> <br/><img src='/images/2493466.jpg' width='50%'>"
 collection: portfolio
 ---
 
