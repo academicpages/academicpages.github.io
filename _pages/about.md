@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <br/>
-I am Luis Palomino, I am a Peruvian economist from the [Universidad Nacional Mayor de San Marcos (UNMSM)](https://www.unmsm.edu.pe/la-universidad/historia#linea/){:target="_blank"} and an Incoming MA Student at [El Instituto](https://elin.uconn.edu/){:target="_blank"}-[University of Connecticut](https://uconn.edu/){:target="_blank"}. I will apply to obtain a PhD in Economics in any program of high prestige to develop an academic career.
+I am Luis Palomino a Peruvian economist and MA Student at [El Instituto](https://elin.uconn.edu/){:target="_blank"}-[University of Connecticut](https://uconn.edu/){:target="_blank"}. I will apply to obtain a PhD in Economics in any program of high prestige to develop an academic career.
 
 My research interests are: Regional development, Economic geography, Urban economics, Economic history, Human capital, Experimental economics, Mechanisms design.
 
