@@ -14,6 +14,7 @@ Research
 
 ### Interpreting Neural Network Concept Discovery with Non Negative Matrix Factorization
 *NYU, August 2022*
+
 Applying NMF with Convolutional Neural Networks for interpretability with applications to medical diagnoses, particularly novel diseases such as monkeypox
 
 ### Topic Modeling with Non Negative Matrix Factorization and Knowledge Graphs
