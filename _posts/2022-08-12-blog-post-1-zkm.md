@@ -1,11 +1,11 @@
 ---
 title: 'Markdown 标题语法'
 date: 2022-08-12
-permalink: /posts/2022/08/blog-post-1-zkm/
+permalink: /posts/2022/08/markdown-1-zkm/
 tags:
   - cool posts
   - markdown
-  - category2
+  - 标题
 ---
 
 要创建标题，请在单词或短语前面添加井号 (#) 。# 的数量代表了标题的级别。例如，添加三个 # 表示创建一个三级标题(例如：### My Header)。 
