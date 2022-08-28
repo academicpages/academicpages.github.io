@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Hafez Ghaemi"
   avatar           : "headshot.jpg"
-  bio              : "Master's Student at Polytechnic Uiversity of Turin, Italy"
-  location         : "Turin, Italy"
+  bio              : 
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JCLX6oYAAAAJ&hl=en"
