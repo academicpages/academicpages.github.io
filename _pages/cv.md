@@ -11,49 +11,57 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Electrical & Electronics Engineering (Honour), 2014
+* M.Eng. in Information Technology, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep. 2021 - Present: Research Assistant & Software Engineer
+  * The University of Melbourne
+  * Duties included: developing digital agriculture solutions for animal such as face ID recognition and welfare monitoring system for cattle.
+  * Supervisor: Associate Professor Sigfredo Fuentes
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan. 2021 - May. 2022: Senior Research Engineer
+  * Trusting Social
+  * Duties included: developed & deployed computer vision models to empower banking digital onboarding with trust identity solutions such as OCR for ID card info extraction and AI-based fraud detection, which have been supporting millions of customers over 50+ financial institutions.
+  * Supervisor: Dr Hung T. Vu
+
+* Mar. 2020 - Jun. 2020: Research Intern
+  * Melbourne Data Analytics Platform
+  * Duties included: Collaborated with multidisciplinary researchers to develop software solutions for research projects in natural language processing, computer vision and interactive web-based applications for data analytics.
+  * Supervisor: Zaher Joukhadar
   
+* Jul. 2014 - Dec. 2018: Research & Development Engineer
+  * Toshiba Energy Systems & Solutions Corporation
+  * Duties included: Designed turbine control systems with ML-based features for thermal power plants, including project management, customer training and onsite commissioning support.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Managerial: agile/conventional project management, interpersonal communication, problem-solving, teamwork
+* Technical:
+  * Language: Python, Java, JavaScript, R, SQL
+  * Machine Learning: Scikit-learn, PyTorch, TensorFlow2
+  * Web: ReactJS, Flask, Django
+  * Cloud: Nectar research, Microsoft Azure, Google Cloud Platform
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
