@@ -7,6 +7,7 @@ author_profile: true
 
 
 # Teaching Experience
+- **CS5824@VT** Advanced Machine Learning, Fall 2022
 - **[CS5604@VT](/CS5604F21)** Information Storage and Retrieval, Fall 2021
 - **[CS6604@VT](/cs6604SP21)** Data Challenges in Machine Learning, Spring 2021
 - **CS410@UIUC Text Information Systems**, Head TA for Fall 2018, Spring+Fall 2017 and TA, Fall 2016 
@@ -21,7 +22,7 @@ author_profile: true
 - Technical reviewer of the book: Data Visualization with D3.js Cookbook, **Packt Publishing**, August - September 2013
 - Former career in the banking sector @ **National Bank of Greece S.A.**, February 2004 - August 2013	 
 
-# Awards
+<!-- # Awards
 - **Travel Award** for [ISWC 2019](https://iswc2019.semanticweb.org), Auckland, New Zealand
 - **Outstanding Teaching Assistant Award** - CS Department @ UIUC, Spring 2018
 - **Travel Award** for [ICWSM 2019](https://www.icwsm.org/2019), Munich, Germany
@@ -46,3 +47,4 @@ Project: *Multi-resolution drill-down with clustering and sampling* [[video](htt
 - [IPL](http://ipl.cs.aueb.gr) at ImageClef 2013 - AMIA Medical Task
 **2nd place** in Textual Ad-hoc image-based retrieval 
 **5th place** in Visual Ad-hoc image-based retrieval
+-->
