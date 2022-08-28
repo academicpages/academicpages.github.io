@@ -11,9 +11,16 @@ Hi there! I am Fazilet, a second-year PhD student in Computer Science at the Uni
 
 ## News
 
-* Our poster entitled “Patch-adaptive Transformation Blending for One-Shot Photo Retouching” has been accepted for poster presentation at [ICCP 2022](https://iccp2022.iccp-conference.org/), which is to be held in Caltech, Pasadena, August 1-3, 2022😊
-* I will be an Applied Scientist Intern at Amazon's computer vision research team in Berlin this summer (July, 2022)🥳
+* I presented our poster entitled “Patch-adaptive Transformation Blending for One-Shot Photo Retouching” at [ICCP 2022](https://iccp2022.iccp-conference.org/), which was held in Caltech, Pasadena, August 1-3, 2022😊
+* I an interning as an Applied Scientist Intern at Amazon's computer vision research team in Berlin🥳
 * I gave a lecture on Convolutional Neural Networks at Women@CL GWML Introduction to Machine Learning Workshop, 19 June 2022🤓 
+
+Welcome to my website!
+
+<p align="center">
+  <img src="/images/IMG_2853.JPG" width="75%" /><br/>
+  <br/>Fig. 1: My highlights from ICCP 2022 <br/>
+</p>
 
 <!-- develop efficient methods to enhance or manipulate images and expand their applications for 3D scene manipulations.
  -->
@@ -47,4 +54,3 @@ In addition to my research experiences, I also worked as a freelance software en
 
 <!-- I am a female electronics engineer from Turkey, who don't really like being addressed as Mr Gokbudak! Except for Turkey, I lived in Germany for around seven months as a summer school and exchange student. Also, I studied my master's in the UK at the University of Edinburgh. You can find my educational experiences about these countries in [Blog Posts](https://faziletgokbudak.github.io/year-archive/).
  -->
-Welcome to my website!
