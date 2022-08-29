@@ -47,7 +47,7 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 
 * <b>On Transferability of Prompt Tuning for Natural Language Processing</b>\
 *<b>Yusheng Su</b>, Xiaozhi Wang, Yujia Qin, Chi-Min Chan, Yankai Lin, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou*\
-NAACL 2022 <b>Oral</b>. [[pdf]](https://aclanthology.org/2022.naacl-main.290/) [[code]](https://github.com/thunlp/Prompt-Transferability) [[BibTex]](https://aclanthology.org/2022.naacl-main.290.bib) [[PPT]](https://drive.google.com/file/d/1RLI08NtF28ZK8Cutdsr0yLOcOc_anFCW/view?usp=sharing) [[video]](https://www.youtube.com/watch?v=KVgmtgMQ3ig)
+NAACL 2022 <b>Oral</b>. [[pdf]](https://aclanthology.org/2022.naacl-main.290/) [[code]](https://github.com/thunlp/Prompt-Transferability) [[BibTex]](https://aclanthology.org/2022.naacl-main.290.bib) [[slide]](https://drive.google.com/file/d/1RLI08NtF28ZK8Cutdsr0yLOcOc_anFCW/view?usp=sharing) [[video]](https://www.youtube.com/watch?v=KVgmtgMQ3ig)
 
 
 * <b>Knowledge Inheritance for Pre-trained Language Models</b>\
@@ -64,7 +64,7 @@ AI OPEN 2021. [[pdf]](https://www.sciencedirect.com/science/article/pii/S2666651
 
 * <b>CSS-LM: A Contrastive Framework for Semi-supervised Fine-tuning of Pre-trained Language Models</b>\
 *<b>Yusheng Su</b>, Xu Han, Yankai Lin, Zhengyan Zhang, Zhiyuan Liu, Peng Li, Maosong Sun*\
-WWW 2021 Workshop, IEEE/TASLP 2021. [[pdf]](https://arxiv.org/abs/2102.03752) [[code]](https://github.com/thunlp/CSS-LM) 
+[WWW 2021 Workshop](https://www.aminer.cn/ssl_www2021), IEEE/TASLP 2021. [[pdf]](https://arxiv.org/abs/2102.03752) [[code]](https://github.com/thunlp/CSS-LM) [[slide]](https://drive.google.com/file/d/1TqAnFYL5CBwWhrDamB83akqQniVd2B9o/view?usp=sharing)
 
 * <b>CokeBERT: Contextual Knowledge Selection and Embedding Towards Enhanced Pre-Trained Language Models</b>\
 *<b>Yusheng Su</b>, Xu Han, Zhengyan Zhang, Peng Li, Zhiyuan Liu, Yankai Lin, Jie Zhou, Maosong Sun*\
