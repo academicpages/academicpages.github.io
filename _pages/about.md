@@ -37,7 +37,7 @@ April 6, 2022, Conversation with Professor Chris Bail at Duke University, Direct
 ## New Paper Alert
 Yongjun Zhang and Jennifer Heerwig. 2022. "[Gender, Race, and Intersectionality in Campaign Cash to the U.S. Congress, 1990-2014.](https://journals.sagepub.com/doi/full/10.1177/23780231221121063)" Socius.
 
-Xinguang Fan and Yongjun Zhang. 2022. "Just Virus or Politicized Virus? An Analysis of over 13 Million Global Web News of China on COVID-19." Chinese Sociological Review. DOI:10.1080/21620555.2022.2116308
+Xinguang Fan and Yongjun Zhang. 2022. "[Just Virus or Politicized Virus? An Analysis of over 13 Million Global Web News of China on COVID-19.](https://www.tandfonline.com/eprint/9WWTWZKT55HISQFFQVQU/full?target=10.1080/21620555.2022.2116308)" Chinese Sociological Review.
 
 Hao Lin, Pradeep Nalluri, Lantian Li, Yifan Sun, and Yongjun Zhang. 2022. "[Multiplex Anti-Asian Sentiment before and during the Pandemic: Introducing New Datasets from Twitter Mining](https://aclanthology.org/2022.wassa-1.2/)." 12th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis.
 
