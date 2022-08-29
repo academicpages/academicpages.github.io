@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Carla Rowold"
   avatar           : "profile.png"
-  bio              : "Researcher in gender life course inequalities"
+  bio              : "Research on gender inequalities over the life course "
   location         : "Oxford | Berlin"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "carla.rowold[at]nuffield.ox.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
