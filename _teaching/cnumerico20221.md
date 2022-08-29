@@ -43,9 +43,12 @@ Listas de Exercícios
 
 Aulas
 ======
-* [Aula 1 - Aritmética de Ponto Flutuante](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_aula01.pdf)
+* [Aritmética de Ponto Flutuante](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_aula01.pdf)
 
-* [Aula 2 - Aritmética de Ponto Flutuante](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_aula02.pdf)
+* [Aritmética de Ponto Flutuante](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_aula02.pdf)
+
+* [Ordem de Convergência](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/ordem_convergencia.pdf)
+
 
 Trabalhos
 =======
