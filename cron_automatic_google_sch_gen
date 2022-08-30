@@ -1,0 +1,48 @@
+Last login: Tue Aug 30 09:46:08 on console
+hectorbahamonde@Hectors-iMac ~ % crontab -e
+crontab: no crontab for hectorbahamonde - using an empty one
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 * * * * cd ~/Users/hectorbahamonde/hbahamonde.github.io && Rscript gscholar.R
+
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+
