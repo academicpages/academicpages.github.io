@@ -29,15 +29,14 @@ p = ggplot(cit,aes(x=year,y=cites))+
 # p
 
 ggsave(
-  "google_citations.pdf",
+  "google_citations.jpg",
   plot = last_plot(),
   path = "/Users/hectorbahamonde/Dropbox/",
   scale = 1,
-  device = "pdf",
+  device = "jpg",
   width = 800,
   height = 300,
   units = c("px"),
   dpi = 100
 )
 
-dev.off()

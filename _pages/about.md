@@ -25,7 +25,7 @@ I am a <b>Senior Researcher</b> at the [INVEST Research Flagship Center](https:/
 [Download my CV here](http://github.com/hbahamonde/Job_Market/raw/master/Bahamonde_CV.pdf)
 
 
-<iframe src="https://www.dropbox.com/s/zqkp47esiq7bulr/google_citations.pdf" height="480px" width="640px" allowfullscreen></iframe>
+<iframe src="https://www.dropbox.com/s/tsncbwidicgyfh9/google_citations.jpg" height="480px" width="640px" allowfullscreen></iframe>
 
 
 <!---
