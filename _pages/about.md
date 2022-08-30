@@ -27,6 +27,11 @@ I am a <b>Senior Researcher</b> at the [INVEST Research Flagship Center](https:/
 
 <img src="https://www.dropbox.com/s/hlroz3qjeyrwmta/scholar_citations.png?raw=1" alt="gscholar"  style="width:800px;height:600;;border:0;">
 
+MAILTO=""
+0 0 * * * /usr/local/bin/Rscript -e 'source("/Users/hectorbahamonde/hbahamonde.github.io/gscholar.R")'
+
+
+
 <!---
 Job Market
 ==========

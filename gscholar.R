@@ -1,3 +1,5 @@
+#!/usr/local/bin/Rscript
+
 # load packages
 if (!require("pacman")) install.packages("pacman"); library(pacman) 
 p_load(scholar,ggplot2,scales)
