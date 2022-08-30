@@ -9,7 +9,7 @@ p = ggplot(cit,aes(x=year,y=cites))+
   geom_bar(stat='identity')+
   theme_bw()+
   xlab('Year')+
-  ylab('Cites') +
+  ylab('Citations') +
   scale_y_continuous(labels = number_format(accuracy = 1), breaks = round(seq(min(cit$cites), max(cit$cites), by = 1),1)) +
   scale_x_continuous(breaks = round(seq(min(cit$year), max(cit$year), by = 1),1)) +
   annotate('text',label=format(Sys.time(), "%Y-%m-%d"),x=-Inf,y=Inf,vjust=1.5,hjust=-0.05,size=3,colour='gray')  + 
@@ -24,19 +24,10 @@ p = ggplot(cit,aes(x=year,y=cites))+
         #axis.line = element_line(colour = "black"),
         panel.border = element_rect(colour = "black", fill=NA, size=1)
   ) +
-  ggtitle("Google Scholar Cites")
+  ggtitle("Google Scholar Citations (updated daily)")
   
 # p
 
-ggsave(
-  "google_citations.jpg",
-  plot = last_plot(),
-  path = "/Users/hectorbahamonde/Dropbox/",
-  scale = 1,
-  device = "jpg",
-  width = 800,
-  height = 300,
-  units = c("px"),
-  dpi = 100
-)
-
+png("/Users/hectorbahamonde/Dropbox/scholar_citations.png",width=2200,height=1000,res=250)
+print(p)
+dev.off()
