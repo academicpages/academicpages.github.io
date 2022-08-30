@@ -12,6 +12,9 @@ I am a NORDITA Fellow at the Nordita Institute and Stockholm University working 
 I am a member of the LIGO Scientific Collaboration (LSC) and the Australian Research Council Centre of Excellence for gravitational-wave discovery, OzGrav.
 
 # Recent News
+* July 12-August 26th: Back in Melbourne, Australia. I gave seminars at Monash, University of Melbourne, Swinburne University; and received the Vice Chancellor's prize for thesis excellence in person!
+* July 6th-11: Back in Stockholm after a productive US trip, attending the ZTF-DES Supernova meeting. 
+* June 26th-July 5th: I spent the week in New York, giving three talks, two at the Flatiron Institute and a THEA Seminar at Columbia University
 * June 12th-June 26th: I am now in Aspen, attending a workshop on next generation gravitational-wave instruments!
 * June 4th: My paper with Paul Lasky on _Multimessenger astronomy with a kHz-band gravitational-wave observatory_ was announced as an Editor's Pick from the Journal's Featured Article Collection.
 * June 3rd-June 12th: This week I am in California, visiting UC Berkeley.
