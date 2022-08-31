@@ -7,13 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Research Interests
+======
+Interpretable Machine Learning
 
 
-Research
+Recent Work
 ======
 
 ### Interpreting Neural Network Concept Discovery with Non Negative Matrix Factorization
-*NYU, August 2022*
+*August 2022*
 
 Applying NMF with Convolutional Neural Networks for interpretability with applications to medical diagnoses, particularly novel diseases such as monkeypox
 
