@@ -1,0 +1,15 @@
+---
+title: "BalanceProofs: Maintainable Vector Commitments with Fast Aggregation"
+collection: publications
+permalink: /publication/2022-07-01-balanceproofs
+excerpt: 'Vector commitment scheme that is maintainable (i.e., supporting sublinear updates) while also supporting fast proof aggregation and verification'
+date: 2022-10-01
+venue: 'Journal 1'
+paperurl: 'https://eprint.iacr.org/2022/864.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+---
+This paper is about the number 1. The number 2 is left for future work.
+
+[Download paper here](https://eprint.iacr.org/2022/864.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
