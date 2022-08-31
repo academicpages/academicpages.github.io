@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Research Economist at the Latin America and Caribbean department of The World Bank. 
+Hello!
 
-Primary research fields: public economics and development economics.
+I am a Research Economist at the [Latin America and Caribbean department](https://www.worldbank.org/en/region/lac/brief/lac-chief-economist) of The World Bank. 
+
+Primary research fields: public finance and development.
 
 Education:
 
