@@ -1,6 +1,6 @@
 ---
 title: 'Jupyter notebook ªÊÕº10∑÷÷”…œ ÷'
-date: 2022-08-31
+date: 2022-08-30
 permalink: /posts/2022/08/jupyter-1-zkm/
 tags:
   - cool posts
