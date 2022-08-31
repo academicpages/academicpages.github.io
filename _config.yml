@@ -87,7 +87,7 @@ author:
   employer         : # "Brown University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "pablo_garriga@brown.edu"
+  email            : "pgarriga@worldbank.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "pgarriga"
+  twitter          : "pgarriga"
   vine             :
   weibo            :
   xing             :
