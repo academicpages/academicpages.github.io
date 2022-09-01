@@ -42,7 +42,7 @@ plt.plot(x,y,'g-',linewidth=2)
 
 
     
-![png](./images/jupyter-images/output_5_1.png)
+![png](/images/jupyter-images/output_5_1.png)
     
 
 
@@ -61,7 +61,7 @@ plt.plot(x,y,'g-',linewidth=2,marker='v',markerfacecolor='black',markeredgecolor
 
 
     
-![png](./images/jupyter-images/output_6_1.png)
+![png](/images/jupyter-images/output_6_1.png)
     
 
 
@@ -83,7 +83,7 @@ ax1.tick_params(axis='both', direction='in', color='b', \
 
 
     
-![png](./images/jupyter-images/output_7_0.png)
+![png](/images/jupyter-images/output_7_0.png)
     
 
 
@@ -105,7 +105,7 @@ plt.legend(loc='best')
 
 
     
-![png](./images/jupyter-images/output_8_1.png)
+![png](/images/jupyter-images/output_8_1.png)
     
 
 
@@ -131,7 +131,7 @@ ax[1].set_xlim([0,10])
 
 
     
-![png](./images/jupyter-images/output_9_1.png)
+![png](/images/jupyter-images/output_9_1.png)
     
 
 
@@ -151,7 +151,7 @@ ax.set_yscale('log')
 
 
     
-![png](./images/jupyter-images/output_11_0.png)
+![png](/images/jupyter-images/output_11_0.png)
     
 
 
@@ -175,5 +175,5 @@ plt.savefig('./Big Title.png')
 
 
     
-![png](./images/jupyter-images/output_12_0.png)
+![png](/images/jupyter-images/output_12_0.png)
     
