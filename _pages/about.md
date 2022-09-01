@@ -20,11 +20,6 @@ I am a computer vision fanatic and like the researches that could directly be ap
  <br/>
 
 
-.card.text-white.bg-secondary.my-5.py-4.text-center
-    .card-body
-        p.text-white.m-0
-            | This call to action card is a great place to showcase some important information or display a clever tagline!
-                        
 
 Research
 ======
