@@ -10,11 +10,12 @@ redirect_from:
 
 # News
    
-   I have defended my PhD on Stochastic Bandits and Link Prediction, under the supervision of [Christophe Giraud](https://www.math.u-psud.fr/~giraud/) and [Olga Klopp](http://kloppolga.perso.math.cnrs.fr/). Here you can find the [manuscript](../thesis.pdf), the [slides](../slides.pdf) and the [video](https:/solenne-soutenance.mp4) (in French). Many thanks to my reviewers Pierre Alquier and Alexandre Proutière, as well as to Émilie Kaufmann and Quentin Berthet for their participation in my jury, colourfully chaired by Vianney Perchet!
+   I have defended my PhD on Stochastic Bandits and Link Prediction, under the supervision of [Christophe Giraud](https://www.math.u-psud.fr/~giraud/) and [Olga Klopp](http://kloppolga.perso.math.cnrs.fr/). Here you can find the [manuscript](../thesis.pdf) and the [slides](../slides.pdf). Many thanks to my reviewers Pierre Alquier and Alexandre Proutière, as well as to Émilie Kaufmann and Quentin Berthet for their participation in my jury, colourfully chaired by Vianney Perchet!
    
    I have since moved to San Francisco, and I am looking for a position as research scientist.
    
 # Papers, preprints, and software
+**Contributions to stochastic bandits and link prediction problems** S. Gaucher. [PhD dissertation](../thesis.pdf)
 
 **The price of unfairness in linear bandits with biased feedback** (2022), S. Gaucher, A. Carpentier, C. Giraud. [Preprint on Hall](https://hal.archives-ouvertes.fr/hal-03611628)
 
