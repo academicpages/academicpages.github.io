@@ -8,7 +8,7 @@ tags:
   - drawing
 ---
 
-
+![jupyter-notebook](/images/jupyter-images/jupyter-notebook.PNG)
 # import
 
 
