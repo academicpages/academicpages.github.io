@@ -59,4 +59,4 @@ Invited Talks
 Professional Service
 ======
 
-Reviewer: IEEE TNNLS, IEEE TCSVT
+Reviewer: IEEE TIP, IEEE TNNLS, IEEE TCSVT
