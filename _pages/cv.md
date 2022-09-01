@@ -61,7 +61,7 @@ Research grant from the Government of Castile and Leon and the European Social F
 # PUBLICATIONS: Journal articles
 ===========
 
-Durántez-Stolle, P., Martínez-Sanz, R., &amp; **Rodríguez-de-Dios, I**. (2022). Effects of narrative-persuasive frames on Twitter regarding blood donation: pride versus empathy and people versus numbers. _Profesional de la información, 31_(4). https://doi.org/10.3145/epi.2022.jul.15
+Durántez-Stolle, P., Martínez-Sanz, R., &amp; **Rodríguez-de-Dios, I**. (2022). Effects of narrative-persuasive frames on Twitter regarding blood donation: pride versus empathy and people versus numbers. _Profesional de la Información, 31_(4). https://doi.org/10.3145/epi.2022.jul.15
 
 Rodero, E., Larrea, O., **Rodríguez-de-Dios, I**., Lucas, I. (2022). The Expressive Balance Effect: Perception and Physiological Responses of Prosody and Gestures. _Journal of Language and Social Psychology_. https://doi.org/10.1177%2F0261927X221078317
 
