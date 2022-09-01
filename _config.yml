@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Isabel Rodríguez de Dios"
 title_separator          : "-"
 name                     : &name "Isabel Rodríguez de Dios"
-description              : &description "Postdoctoral researcher at Universitat Pompeu Fabra"
+description              : &description "Assistant Professor at University of Salamanca"
 url                      : https://isabelrodriguezdedios.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "isabelrodriguezdedios/isabelrodriguezdedios.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Isabel Rodríguez de Dios"
   avatar           : "ird-208x300.jpg"
-  bio              : "Postdoctoral researcher at Universitat Pompeu Fabra"
-  location         : "Barcelona, España"
-  employer         : "Universitat Pompeu Fabra"
+  bio              : "Assistant Professor at University of Salamanca"
+  location         : "Salamanca, España"
+  employer         : "University of Salamanca"
   pubmed           :
   googlescholar    : "https://scholar.google.es/citations?user=LhLGbWkAAAAJ&hl=es&oi=ao"
-  email            : "isabel.rodriguez@upf.edu"
+  email            : "isabelrd@usal.es"
   researchgate     : "https://www.researchgate.net/profile/Isabel_Rodriguez_De_Dios"
   uri              :
   bitbucket        :
