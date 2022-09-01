@@ -11,6 +11,9 @@ redirect_from:
 
 # ACADEMIC POSITIONS
 ===========
+### Assistant Professor 2022-
+Department of Sociology and Communication
+University of Salamanca, Spain
 ### Postdoctoral Researcher 2020-2022
 Department of Communication
 Pompeu Fabra University, Spain
@@ -196,6 +199,8 @@ Work team member
 
 # TEACHING
 ===========
+### Supervisor _Master&#39;s Thesis Dissertations_ 2021
+(2 students) MSc Strategic Communication and Public Relations, Pompeu Fabra University
 ### Lecturer _Advanced Data Analyses_ 2022
 (_Análisis Avanzado de Datos_).
 MSc Communication Research, Pompeu Fabra University
