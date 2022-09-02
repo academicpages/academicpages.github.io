@@ -68,6 +68,8 @@ R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020)
 
 # Education
 
+[Curriculum Vitae](../CV.pdf)
+
 * PhD, Laboratoire de Mathématiques d'Orsay, Université Paris-Saclay, Orsay, France, 2018-2022.
 
 * Master 2 "Mathématiques de l'Aléatoire", Université Paris-Saclay, Orsay, France, 2017-2018.
@@ -78,4 +80,4 @@ R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020)
 
 * Baccalauréat Franco-Allemand, option scientifique, Lycée Franco-Allemand, Buc, France, 2012.
 
-[Curriculum Vitae](../CV.pdf)
+
