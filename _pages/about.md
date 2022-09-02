@@ -15,7 +15,8 @@ redirect_from:
    I have since moved to San Francisco.
    
 # Papers, preprints, and software
-**Contributions to stochastic bandits and link prediction problems** S. Gaucher. [PhD dissertation](../thesis.pdf)
+
+**Fair learning with Wasserstein barycenters for non-decomposable performance measures** (2022) S. Gaucher, N. Schreuder, E. Chzhen [Preprint on Arxiv](https://arxiv.org/abs/2209.00427)
 
 **The price of unfairness in linear bandits with biased feedback** (2022), S. Gaucher, A. Carpentier, C. Giraud. [Preprint on Hall](https://hal.archives-ouvertes.fr/hal-03611628)
 
@@ -52,6 +53,10 @@ R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020)
 **Maximum Likelihood Estimation of Sparse Networks with Missing Observations**, April 5. 2019, Huitièmes Rencontres des Jeunes Statisticiens, Hyères.
 
 **Estimation of Sparse Networks**, October 25. 2018, Network Days II, Orsay.
+
+# PhD dissertation
+
+[**Contributions to stochastic bandits and link prediction problems**](../thesis.pdf) (2022) S. Gaucher
 
 # Teaching 
 
