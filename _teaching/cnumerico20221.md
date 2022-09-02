@@ -49,6 +49,8 @@ Aulas
 
 * [Ordem de Convergência](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/ordem_convergencia.pdf)
 
+* [Interpolação - Introdução](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/interpolacao_intro.pdf)
+
 
 Trabalhos
 =======
