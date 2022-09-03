@@ -21,7 +21,19 @@ Work experience
   * DAMO acadamy, Alibaba Group
   * Research Direction: Multimodal Learning in NLP
   * Mentor: Zhen Hai, Lidong Bing
-  
+
+Service
+======
+* Reviewer:
+  * Journals
+    * Information Fusion
+    * Neuralcomputing
+    * Affective Computing
+    * IEEE Transactions on Computer-Aided Design OF Integrated Circuits and Systems (TCVST)
+    * IEEE Transactions on Intelligent Transportation Systems (T-ITS)
+  * Conferences
+    * ICLR 2022
+    * NeurIPS 2022
 
 Publications
 ======
@@ -29,8 +41,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service
-======
-* Reviewer:
-  * Journals: Information Fusion, Neuralcomputing, Affective Computing, TCVST, TITS
-  * Conferences: ICLR 2022, NIPS 2022
+
