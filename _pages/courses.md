@@ -19,6 +19,7 @@ IISC Bangalore
   - Advanced Deep Learning
   - Optimization in Machine Learning and Data Science
   - Stochastic Models and Applications
+  - Speech Information Processing
 
 IIT Bombay (Relevant)
 ======
