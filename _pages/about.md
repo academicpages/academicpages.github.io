@@ -58,7 +58,7 @@ Draft available upon request.
 
 ## Posts on coding and methods
 
-* [An Introduction to Dynamic Discrete Choice Models --- Estimating the Rust (1987) Bus Engine Replacement Model](https://github.com/shihangh/ddc_rust) with [Shihang Hou](https://www.shihanghou.com/home)
+* [An Introduction to Dynamic Discrete Choice Models: Estimating the Rust (1987) Bus Engine Replacement Model in Matlab](https://github.com/shihangh/ddc_rust) with [Shihang Hou](https://www.shihanghou.com/home)
 * [Regularisation in Stata (before Stata 17)](https://www.csae.ox.ac.uk/files/coderscornerttweek7fmpdf) 
 * [Mediation analysis](https://www.csae.ox.ac.uk/files/coderscornerht20week6fmpdf)
 * [Alternative text editor for Stata](https://www.csae.ox.ac.uk/files/coderscornerht20week1fm0pdf)
