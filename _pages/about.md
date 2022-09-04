@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
    
-I joined the Department of Biomedical Informatics at [Columbia University](https://www.columbia.edu/) as a postdoctoral research scientist in January 2020 under the supervision of Prof. [Chunhua Weng](https://people.dbmi.columbia.edu/~chw7007/). I received my Ph.D. degree in Computer Science from [Case Western Reserve University](https://case.edu/) in 2019 under the supervision of Prof. [Kenneth Loparo](https://case.edu/datascience/node/131) and received my M.E. degree my B.E. degree in Software Engineering from [Xidian University](https://en.xidian.edu.cn/), Xi'an, China. 
+I am an assistant professor in the [Department of Computer Science at University of North Carolina Greensboro] (https://compsci.uncg.edu/faculty/yingcheng-sun/). I was a a postdoctoral research scientist in the Department of Biomedical Informatics at [Columbia University](https://www.columbia.edu/) under the supervision of Prof. [Chunhua Weng](https://people.dbmi.columbia.edu/~chw7007/). I received my Ph.D. degree in Computer Science from [Case Western Reserve University](https://case.edu/) under the supervision of Prof. [Kenneth Loparo](https://case.edu/datascience/node/131) and received my M.E. degree my B.E. degree in Software Engineering from [Xidian University], Xi'an, China. 
 
 Research    
 ======
@@ -17,6 +17,8 @@ My research interests include Information Retrieval, Machine Learning and Softwa
 
 News    
 ======
+<span style="color:red">[8.2022]</span> I have joined the department of Computer Science at University of North Carolina Greensboro this fall!
+
 <span style="color:red">[3.2022]</span> Our paper "Combining Human and Machine Intelligence for Clinical Trial Eligibility Querying" was accepted by JAMIA directly without any revision!   
 
 <span style="color:red">[9.2021]</span> Our paper is accepted by the International Journal of Medical Informatics (IJMI) (IF:3.21)! 
@@ -26,19 +28,4 @@ News
 <span style="color:red">[7.2021]</span> Our paper is accepted by the Applied Clinical Informatics (ACI) (IF: 2.405)!   
 
 <span style="color:red">[4.2021]</span> Two papers got accepted by the Journal of Biomedical Informatics (JBI) (IF: 3.526)!   
-
-<span style="color:red">[12.2020]</span> Our paper was accepted by AMIA 2021 Virtual Informatics Summit!    
-
-<span style="color:red">[12.2020]</span> I will serve as the TPC member for The Seventh International Conference on Big Data, Small Data, Linked Data and Open Data (ALLDATA) 2021!<br />
-
- <span style="color:red">[11.2020]</span> Our paper was accepted by Journal of the American Medical Informatics Association(JAMIA) (IF: 4.112)!    
-
- <span style="color:red">[10.2020]</span> I will serve as the TPC member for Journal of Biomedical Informatics (JBI) (IF: 3.526)!    
-
- <span style="color:red">[7.2020]</span> Our paper was accepted by Scientific Data (IF: 5.541)! 
-
-<span style="color:red">[5.2020]</span> Our work was reported by Eurekalert, Medical Press and DBMI in Columbia University!
-
- <span style="color:red">[4.2020]</span> Our paper was accepted by Journal of Biomedical Informatics (JBI) (IF: 3.526)!  
-
   
