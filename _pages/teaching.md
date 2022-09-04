@@ -6,6 +6,11 @@ author_profile: true
 ---    
 
 
+## Lecturer 
+
++ **Big Data and Machine Learning**, Fall 2022   
+    CSC 410, University of North Carolina at Greensboro 
+
 ## Teaching Assistant
 
 + **Algorithms**, Spring 2017   
