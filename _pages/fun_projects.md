@@ -9,8 +9,11 @@ I'm also a world-class [Screeps](https://screeps.com/) (MMO sandbox game for pro
 
 My github repo for this game is [here](https://github.com/SUSYUSTC/screeps-ts) and free for non-commerial usage. Here are some record screenshots.
 
-<img src="images/screeps_site.png">
+<img src="/images/screeps_site.png"
+     width="400" >
 
-<img src="images/screeps.png">
+<img src="/images/screeps.png"
+     width="400" >
 
-<img src="images/screeps1.png">
+<img src="/images/screeps1.png"
+     width="400" >
