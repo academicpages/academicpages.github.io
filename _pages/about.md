@@ -10,4 +10,4 @@ redirect_from:
 
 Wei Han (Henry, 韩炜 in Chinese) is currently a second-year PhD candidate in [DeCLare Lab](https://declare-lab.net/), ISTD, SUTD, advised by Prof. [Soujanya Poria](https://sporia.info/). Before joining SUTD, he obtained a M.Phill Degree in Electronic and Computer Engineering in The Hong Kong University of Science and Technology (HKUST) in 2020.
 
-His research interests include multimdoal learning, information retrieval and few-shot learning (semi-supervised learning) in Natural Language Processing. For more information, you can check this [CV](https://Clement25.github.io/files/CV__Keep_Updating_.pdf).
+His research interests include multimdoal learning, information retrieval and few-shot learning (semi-supervised learning) in Natural Language Processing. For more information, you can check this [CV](https://Clement25.github.io/files/cv_latest.pdf).
