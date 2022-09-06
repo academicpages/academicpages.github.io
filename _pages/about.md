@@ -16,7 +16,7 @@ Outside academia, I am very passionate about martial arts, and specifically, I s
 
 ## Academic Service
 <ul> <li> 
-  2021: <a href="https://aiplans.github.io/"> AIPLANS @NeurIPS </a>
+  2021: Reviewer for <a href="https://aiplans.github.io/"> AIPLANS workshop at NeurIPS 2021 </a>
   </li> </ul>
 
 ## Publications
