@@ -7,6 +7,8 @@ Have a job you would like to share? Email us at landdacommunity@gmail.com!
 
 ### Jobs
 
+[Research Assistant/Postdoctoral Position in Arctic data assimilation at the University of Alaska Fairbanks] (https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=29ee31bb-d8c5-4350-a136-327f9d9a68bc&ccId=19000101_000001&jobId=444218&lang=en_US&source=EN) Application dealine: October 10, 2022
+
 [Postdoctoral Scholar Position in carbon cycle of mountainous regions of the Western U.S. at University of Utah, Salt Lake City, Utah](https://utah.peopleadmin.com/postings/135290) Application deadline: Rolling
 
 [Research Scientist Position in GEOS model development to understand High Mountain Asia Forecast Models at Goddard Space and Flight center, Greenbelt, Maryland](https://gestar2.umbc.edu/jobs-at-gestar-ii/research-scientist-position-in-geos-model-development-to-understand-high-mountain-asia-forecast-models/) Application deadline: Rolling
