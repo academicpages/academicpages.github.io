@@ -22,7 +22,7 @@ author_profile: true
 1. P. Kaplonek<sup>\*</sup>, **Y. Deng**<sup>\*</sup>, J. Lee, H. Zar, D. Zavadska, M. Johnson, D. A. Lauffenburger, D. Goldblatt, G. Alter. [Hybrid immunity expands the functional humoral footprint of both mRNA and vector-based SARS-CoV-2 vaccines](https://www.medrxiv.org/content/10.1101/2022.06.28.22276786v1). *medRxiv*, 2022.
 
 ## Journal Papers
-1. Q. Zhang, K. Sampani, M. Xu, S. Cai, **Y. Deng**, H. Li, J. K. Sun, G. Karniadakis. [AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images](https://tvst.arvojournals.org/article.aspx?articleid=2783552). *Translational Vision Science \& Technology*, 11(8), 7-7, 2022
+1. Q. Zhang, K. Sampani, M. Xu, S. Cai, **Y. Deng**, H. Li, J. K. Sun, G. Karniadakis. [AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images](https://tvst.arvojournals.org/article.aspx?articleid=2783552). *Translational Vision Science & Technology*, 11(8), 7-7, 2022
 
 1. H. Li<sup>\*</sup>, **Y. Deng**<sup>\*</sup>, Z. Li, A. D. Gallastegi, C. S. Mantzoros, G. H. Frydman, G. Karniadakis. [Multi-physics and multiscale modeling of microthrombosis in COVID-19](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009892). *PLOS Computational Biology*, 18(3), e1009892, 2022
 
