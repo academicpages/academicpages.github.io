@@ -1,5 +1,5 @@
 
-Welcome to my website! I am a PhD candidate in Economics at HKUST Business School. Please see my CV here: [CV](https://github.com/zhenghua-QI/zhenghuaqi.github.io/cv.pdf)
+Welcome to my website! I am a PhD candidate in Economics at HKUST Business School. Please see my CV here: [CV](https://github.com/zhenghua-QI/zhenghuaqi.github.io/Curriculum Vitae_30AUG.pdf) (Aug, 2022)
 
 My research focuses on macroeconomics and expectation formation.
 
