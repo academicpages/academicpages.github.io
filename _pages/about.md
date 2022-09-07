@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate of computer science at Purdue University working under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/). My research interests broadly lie in the area of mobile computing and mobile sensing.
-I specifically focus on designing and building innovative mobile sensing systems through applying machine learning and computer vision algorithms. 
+I am a Ph.D. candidate of computer science at Purdue University working under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/). My research interests broadly lie in the area of mobile computing and mobile security.
+I specifically focus on designing and building innovative and secure mobile sensing systems through applying security, machine learning and computer vision algorithms. 
 <!-- Before coming to Purdue, I received my bachelor's degree from [LUMS School of Science and Engineering (SBASSE)](https://sbasse.lums.edu.pk/department/computer-science). -->
 
 
@@ -17,7 +17,7 @@ I specifically focus on designing and building innovative mobile sensing systems
 Updates
 =======
 <ul>
-	<li> <b>[Mar 2022]</b> Our work on secure Android remote authorization to appear in Usenix 2022!
+	<li> <b>[Mar 2022]</b> Our work on secure Android remote authorization to appear in Usenix Security 2022!
 	</li>
 	<li> <b>[June 2021]</b> Received Bilsland Dissertation Fellowship Award 2021-2022!
 	</li>
@@ -39,7 +39,7 @@ Publications
 			<br/>
 		Abdullah Imran, <b>Habiba Farrukh</b>, Muhammad Ibrahim, Z. Berkay Celik, Antonio Bianchi
 			<br/>
-			Proceedings of the USENIX Symposium (Usenix SEC '22) <a href="/files/SARA.pdf">[Paper]</a>
+			Proceedings of the USENIX Security Symposium (Usenix SEC '22) <a href="/files/SARA.pdf">[Paper]</a>
 			<br/>
 	</li>
 </ul>
@@ -105,6 +105,16 @@ Professional Activity
 <ul>
 	<li>
 		Program Committee Member, ACM S<sup>3</sup> Workshop (co-located with MobiCom), 2021
+	</li>
+</ul>
+<ul>
+	<li>
+		Reviewer
+		<ul>
+			<li>
+				Transactions on Sensor Networks (TOSN), 2022
+			</li>
+		</ul>
 	</li>
 </ul>
 <ul>
