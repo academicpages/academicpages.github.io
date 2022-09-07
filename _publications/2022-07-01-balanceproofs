@@ -8,8 +8,15 @@ venue: 'Journal 1'
 paperurl: 'https://eprint.iacr.org/2022/864.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper introduced Balanceproofs, the first vector commitment scheme that is maintainable (i.e., supporting sublinear updates) while also supporting fast proof aggregation and verification. BalanceProofs improves the aggregation time and aggregation verification time of the only known maintainable and aggregatable vector commitment scheme, [HyperProofs] (https://eprint.iacr.org/2021/599).Fast verification of aggregated proofs is particularly useful for applications such as stateless cryptocurrencies (and was a major bottleneck for Hyperproofs), where an aggregated proof of balances is produced once but must be verified multiple times and by a large number of nodes.  
 
 [Download paper here](https://eprint.iacr.org/2022/864.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+@misc{cryptoeprint:2022/864,
+      author = {Weijie Wang and Annie Ulichney and Charalampos Papamanthou},
+      title = {BalanceProofs: Maintainable Vector Commitments with Fast Aggregation},
+      howpublished = {Cryptology ePrint Archive, Paper 2022/864},
+      year = {2022},
+      note = {\url{https://eprint.iacr.org/2022/864}},
+      url = {https://eprint.iacr.org/2022/864}
+}
