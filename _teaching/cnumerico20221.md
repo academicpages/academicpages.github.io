@@ -68,4 +68,3 @@ Video aulas sobre o Julia
 
 Notebooks
 ======
-[Interpolação Polinomial](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/interpolacao.ipynb)
