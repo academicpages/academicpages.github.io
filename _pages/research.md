@@ -50,6 +50,6 @@ Collaborators: [Colin Conwell](https://colinconwell.github.io) and [George Alvar
 Collaborators: [Hrag Pailian](https://www.hragpailian.com) and [George Alvarez](https://scorsese.wjh.harvard.edu/George/)
 
 * Doshi, F., Pailian, H., & Alvarez, G. A. (2020). *Using Deep Convolutional Neural Networks to Examine the Role of Representational Similarity in Visual Working Memory*. Journal of Vision, 20(11), 149-149.[link](https://jov.arvojournals.org/article.aspx?articleid=2771225)
-
-{% include youtubePlayer.html id="TLvh2EuWP4s" description="Poster Presentation at VSS, 2020" %}
-Also check out Hrag's talk [here](https://www.youtube.com/watch?v=WYJMv55Z8-0&feature=emb_logo)!
+<br />Also check out Hrag's talk [here](https://www.youtube.com/watch?v=WYJMv55Z8-0&feature=emb_logo)!
+<br />Poster walkthrough presented at Vision Sciences Society 2020 Conference:
+{% include youtubePlayer.html id="TLvh2EuWP4s" %}
