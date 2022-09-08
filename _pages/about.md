@@ -104,5 +104,5 @@ ArXiv. [[pdf]](https://arxiv.org/abs/2203.06904)
 * Advised by Jing-Han Wang.
 
 ### Microsoft. (Taiwan) 07.2015 - 07.2016
-* Development Intern
+* Research and Development Intern
 * Advised by [Kuang-Chao Yeh](https://www.linkedin.com/in/kuang-chao-yeh/) and [Gordon Chang](https://www.linkedin.com/in/gordonwinnow).
