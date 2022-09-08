@@ -11,10 +11,11 @@ redirect_from:
 Hello! Welcome to my pages. I am a first-year doctoral student at Aalto University. I am working on an interdisciplinary project in the [LeTech (Learning + Technology)](https://research.cs.aalto.fi/LeTech/) research group, which combines knowledge in computing education, and my interest in AI and ML. 
 
 ## Recent news 
+> Our [paper] "Speeding Up Automated Assessment of Programming Exercises" has been published in UKICER.
 
-> I will take part in the [Nordic Probabilistic AI School](https://probabilistic.ai/) in June
+> I toke part in the [Nordic Probabilistic AI School](https://probabilistic.ai/) in June. 
 
-> Our paper: "Exploring How Students Solve Open-ended Assignments: A Study of SQL Injection Attempts in a Cybersecurity Course" has been accepted for publication at [ITiCSE](https://iticse.acm.org/2022/)! It will be available in July. 
+> Our paper: "Exploring How Students Solve Open-ended Assignments: A Study of SQL Injection Attempts in a Cybersecurity Course" has been accepted for publication at [ITiCSE](https://iticse.acm.org/2022/)! It is now available. 
 
 > I presented online our [paper](https://koutche.me/publications/14_02_2022_Methodological_Considerations/): "Methodological Considerations for Predicting at Risk Students" at ACE22. 
 
