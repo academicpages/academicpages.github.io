@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zijian Wan"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Zijian Wan"
-description              : &description "PhD student at UC Santa Barbara"
-url                      : https://www.zijianwan.info # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zijian-wan/zijian-wan.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zijian Wan"
-  avatar           : "MA_Graduation-2022.jpg"
-  bio              : "PhD student at UC Santa Barbara, emphasis on movement analysis and machine/deep learning"
-  location         : "Santa Barbara, CA"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=vLywcvcAAAAJ&hl=en"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  example: "https://www.researchgate.net/profile/Zijian-Wan"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/zijian-wan"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
