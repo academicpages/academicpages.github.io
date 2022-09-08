@@ -9,12 +9,15 @@ author_profile: true
 
 
 * Machine Learning:
-  * Python
+  * PyTorch
+  * Keras & TensorFlow
   * Scikit-Learn
-  * Keras
   * Gensim
   * NumPy
   * Scrapy
+  * Pretraining - Fine-tuning
+  * Large Language Mdels: BERT, BART, Transformer and T5
+  * Graph Neural Network
 
 * Software Develpoment:
   * Java
