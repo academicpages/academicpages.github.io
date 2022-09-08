@@ -11,10 +11,10 @@ Collaborators: [Talia Konkle](http://konklab.fas.harvard.edu/)
 
 * Doshi, F.R., Konkle, T. (2022) Visual object topographic motifs emerge from self-organization of a unified representational space. bioRxiv, in press, doi:10.1101/2022.09.06.506403. [link](https://www.biorxiv.org/content/10.1101/2022.09.06.506403v1)
 
-* Doshi, F., & Konkle, T. (2021). *Organizational motifs of cortical responses to objects emerge in topographic projections of deep neural networks*. Journal of Vision, 21(9), 2226-2226. [link](https://jov.arvojournals.org/article.aspx?articleid=2777459)
+* Doshi, F., & Konkle, T. (2021). *Organizational motifs of cortical responses to objects emerge in topographic projections of deep neural networks*. Journal of Vision, 21(9), 2226-2226. [link](https://jov.arvojournals.org/article.aspx?articleid=2777459) [talk at the Vision Sciences Society 2021 Conference](https://www.youtube.com/watch?v=zZvrIuoxU6Y)
 
 
-Here's a [talk](https://www.youtube.com/watch?v=zZvrIuoxU6Y) on this project, presented at the Vision Sciences Society 2021 Conference
+<!-- Here's a [talk](https://www.youtube.com/watch?v=zZvrIuoxU6Y) on this project, presented at the Vision Sciences Society 2021 Conference -->
 <img src="https://feziodoshi.github.io/images/research_topography_0.gif" alt="drawing" style="width:60%;height: auto;display: block;margin-left: auto;margin-right: auto"/>
 <div style="display: flex;">
 <img src="https://feziodoshi.github.io/images/research_topography_1.png" alt="drawing" style="width:60%;height: auto;flex: 33.33%;padding: 5px;"/>
