@@ -19,6 +19,14 @@ In my research, I am exploring the nature of visual representations underlying m
 <img src="https://feziodoshi.github.io/images/cover_cortical_topographies.png" alt="drawing" style="width:70%;height: auto;display: block;margin-left: auto;margin-right: auto; border: 3px solid black;"/>
 
 ### My talk on *mechanisms of contour integration* in humans and machines presented at Vision Sciences Society 2022 Conference:
-<div style="display: block;margin-left: auto;margin-right: auto;">
+<!-- <div style="display: block;margin-left: auto;margin-right: auto;">
 {% include youtubePlayer.html id="PsmZAMGeV6A" %}
-</div>
+</div> -->
+
+<!-- <div>
+<iframe width="200" height="200" 
+src="https://www.youtube.com/watch?v=PsmZAMGeV6A" 
+frameborder="0" allowfullscreen></iframe>
+</div> -->
+
+<iframe style="display: block; margin: auto;" width="560" height="315" src="https://www.youtube.com/watch?v=PsmZAMGeV6A" frameborder="0" allowfullscreen></iframe>
