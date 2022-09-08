@@ -10,8 +10,5 @@ redirect_from:
 
 I am a second year Ph.D. in Computer Science at Georgia Institute of Technology.
 
-My research area is <a href="https://medium.com/@Kamel773/deep-learning-for-source-code-c1d652ab49fe">Deep Learning for Source Code</a>. More specifically, I applied Deep Learning into Program Analysis to help software developers to write a good software.
+My research area is <a href="https://medium.com/@Kamel773/deep-learning-for-source-code-c1d652ab49fe">Deep Learning for Source Code</a>. More specifically, My research focus on finding algorithms that extract less and higher quality data, from extremely large dataset, to train deep leanring algorithms on source code for code understanding tasks.
 
-I apply Deep Learning to develops tools and techniques to improve software in real
-world systems. Currently my goal is to bring the Deep Learning techniques into
-software testing to build intelligent tools to automatically detect the vulnerability in source code.
