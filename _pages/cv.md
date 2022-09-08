@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Geographic Information Science, Wuhan University, 2020
+  * Exchange program: Geographic Information Science and Cartography, University of California, Santa Barbara, Fall 2019 
+* M.A. in Geography, University of California, Santa Barbara, 2022
+* Ph.D in Geography, University of California, Santa Barbara, 2025 (expected)
 
 Work experience
 ======
