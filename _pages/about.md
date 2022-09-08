@@ -10,5 +10,5 @@ redirect_from:
 
 I am a second year Ph.D. in Computer Science at Georgia Institute of Technology.
 
-My research area is <a href="https://medium.com/@Kamel773/deep-learning-for-source-code-c1d652ab49fe">Deep Learning for Source Code</a>. More specifically, My research focus on finding algorithms that extract less and higher quality data, from extremely large dataset, to train deep leanring algorithms on source code for code understanding tasks.
+My research area is <a href="https://medium.com/@Kamel773/deep-learning-for-source-code-c1d652ab49fe">Deep Learning for Source Code</a>. More specifically, my research focus on finding algorithms that extract <p>less and higher quality data</p>, from extremely large dataset, to train deep leanring algorithms on source code for code understanding tasks. Training on <p>less, but better<p/> data achieve higher performance.
 
