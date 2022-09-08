@@ -16,7 +16,7 @@ author_profile: true
   * NumPy
   * Scrapy
   * Pretraining - Fine-tuning
-  * Large Language Mdels: BERT, BART, Transformer and T5
+  * Large Language Mdels: BERT, BART, Transformers and T5
   * Graph Neural Network
 
 * Software Develpoment:
