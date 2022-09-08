@@ -18,15 +18,21 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Teaching Assistant
+  * UC Santa Barbara
+    * Oct 2020 - Dec 2020: GEOG 176A - INTRO GEOG INF SYS
+    * Jan 2021 - Mar 2021: GEOG 176B - TECHNICAL GIS
+    * Mar 2021 - Jun 2021: GEOG 176C - GIS APPLICATIONS
+    * Aug 2021 - Sep 2021: GEOG 176A - INTRO GEOG INF SYS
+    * Sep 2021 - Dec 2021: GEOG 176A - INTRO GEOG INF SYS
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Student Researcher
+  * UC Santa Barbara
+    * Jan 2022 - Jul 2022
+
+* Teaching Associate (Instructor)
+  * UC Santa Barbara
+    Aug 2022 - Sep 2022: GEOG 176A - INTRO GEOG INF SYS
   
 Skills
 ======
