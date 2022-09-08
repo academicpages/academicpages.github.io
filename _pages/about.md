@@ -13,7 +13,8 @@ Hi! I am a PhD student in the Dept. of Psychology at Harvard University, advised
 In my research, I am exploring the nature of visual representations underlying mid-level vision by trying to characterize the tuning and spatial topographies of proto-object representations, and the kinds of mechanisms that can operate over it. To this end, I combine computational models of vision, behavioral psychophysics, and neuroimaging data to gain deeper insights into the emergent neural and behavioral signatures of a hierarchical visual processor.
 
 
-### Checkout my work on modelling [cortical topographies](https://www.biorxiv.org/content/10.1101/2022.09.06.506403v1):
+### Checkout my work on modelling Cortical topographies:
+[Link](https://www.biorxiv.org/content/10.1101/2022.09.06.506403v1) to paper
 <img src="https://feziodoshi.github.io/images/cover_cortical_topographies.png" alt="drawing" style="width:100%;"/>
 
 ### My talk on mechanisms of contour integration in humans and machines presented at Vision Sciences Society 2022 Conference:

@@ -23,12 +23,16 @@ Human-like signatures of contour integration in deep neural networks
 
 
 
-## A computational account of topography in the occipitotemporal cortex: 
+## A computational account of pressures that guide topography in the occipitotemporal cortex: 
 Collaborators: [Talia Konkle](http://konklab.fas.harvard.edu/)
+
+* Doshi, F.R., Konkle, T. (2022) Visual object topographic motifs emerge from self-organization of a unified representational space. bioRxiv, in press, doi:10.1101/2022.09.06.506403. [link](https://www.biorxiv.org/content/10.1101/2022.09.06.506403v1)
+
+* Doshi, F., & Konkle, T. (2021). *Organizational motifs of cortical responses to objects emerge in topographic projections of deep neural networks*. Journal of Vision, 21(9), 2226-2226. [link](https://jov.arvojournals.org/article.aspx?articleid=2777459)
+
 
 Here's a [talk](https://www.youtube.com/watch?v=zZvrIuoxU6Y) on this project, presented at the Vision Sciences Society 2021 Conference
 
-* Doshi, F., & Konkle, T. (2021). *Organizational motifs of cortical responses to objects emerge in topographic projections of deep neural networks*. Journal of Vision, 21(9), 2226-2226. [link](https://jov.arvojournals.org/article.aspx?articleid=2777459)
 
 <img src="https://feziodoshi.github.io/images/topography_0.png" alt="drawing" style="width:100%;"/>
 <img src="https://feziodoshi.github.io/images/topography_1.png" alt="drawing"/>
