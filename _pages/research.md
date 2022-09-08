@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /publications
 ---
-## A computational account of pressures that guide topography in the occipitotemporal cortex: 
+## A computational account of topography in the occipitotemporal cortex via domain-general pressures: 
 Collaborators: [Talia Konkle](http://konklab.fas.harvard.edu/)
 
 * Doshi, F.R., Konkle, T. (2022) *Visual object topographic motifs emerge from self-organization of a unified representational space.* bioRxiv, in press, doi:10.1101/2022.09.06.506403. [link](https://www.biorxiv.org/content/10.1101/2022.09.06.506403v1)
