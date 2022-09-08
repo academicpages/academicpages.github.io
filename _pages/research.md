@@ -43,7 +43,8 @@ Collaborators: [Colin Conwell](https://colinconwell.github.io) and [George Alvar
 * Conwell, C., Doshi, F., Alvarez, G.A.(2019). *Human-Like Judgments of Stability Emerge from Purely Perceptual Features: Evidence from Supervised and Unsupervised Deep Neural Networks.* In Proceedings of the 3rd Conference on Cognitive Computational Neuroscience (CCN), 2019. [pdf](https://ccneuro.org/2019/proceedings/0000605.pdf)
 
 <!-- ![Interpolations in Latent Space](https://feziodoshi.github.io/images/transformations.gif) -->
-{% include image_yolo.html url="https://feziodoshi.github.io/images/transformations_2.gif" description="Interpolations in pixel space vs the latent space of an adversarial variational autoencoder" %}
+<!-- {% include image_yolo.html url="https://feziodoshi.github.io/images/transformations_2.gif" description="Interpolations in pixel space vs the latent space of an adversarial variational autoencoder" %} -->
+<img src="https://feziodoshi.github.io/images/transformations_2.gif" alt="drawing" style="width:40%;height: auto;display: block;margin-left: auto;margin-right: auto; border: 2px solid gray;"/>
 
 ## What representations explain capacity limits in visual working memory?
 Collaborators: [Hrag Pailian](https://www.hragpailian.com) and [George Alvarez](https://scorsese.wjh.harvard.edu/George/)
