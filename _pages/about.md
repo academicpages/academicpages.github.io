@@ -14,7 +14,7 @@ In my research, I am exploring the nature of visual representations underlying m
 
 
 ### Check out my work on modeling *cortical topographies*:
-[Link](https://www.biorxiv.org/content/10.1101/2022.09.06.506403v1) to paper
+[Link] to [paper](https://www.biorxiv.org/content/10.1101/2022.09.06.506403v1) and [tweet-thread](https://twitter.com/fenildoshi009/status/1567956934971768832?s=20&t=Dno1tBXnH3oVA13gnZeoRw)
 
 <img src="https://feziodoshi.github.io/images/cover_cortical_topographies.png" alt="drawing" style="width:70%;height: auto;display: block;margin-left: auto;margin-right: auto; border: 3px solid black;"/>
 
