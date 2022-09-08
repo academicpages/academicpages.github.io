@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Annie Ulichney"
   avatar           : "profile.png"
-  bio              : "Applied Mathematics & Mechanical Engineering at Yale University"
-  location         : "Los Angeles, New Haven"
-  employer         :
+  bio              : "Applied Mathematics & Mechanical Engineering"
+  location         : "New Haven, CT"
+  employer         : "@ Yale University"
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
