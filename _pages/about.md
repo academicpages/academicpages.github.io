@@ -15,7 +15,7 @@ In my research, I am exploring the nature of visual representations underlying m
 
 ### Checkout my work on modelling Cortical topographies:
 [Link](https://www.biorxiv.org/content/10.1101/2022.09.06.506403v1) to paper
-<img src="https://feziodoshi.github.io/images/cover_cortical_topographies.png" alt="drawing" style="width:100%;"/>
+<img src="https://feziodoshi.github.io/images/cover_cortical_topographies.png" alt="drawing" style="width:80%;"/>
 
 ### My talk on mechanisms of contour integration in humans and machines presented at Vision Sciences Society 2022 Conference:
 {% include youtubePlayer.html id="PsmZAMGeV6A" %}
