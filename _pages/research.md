@@ -26,11 +26,16 @@ Collaborators: [Talia Konkle](http://konklab.fas.harvard.edu/) and [George Alvar
 
 Human-like signatures of contour integration in deep neural networks
 * Doshi, F., Konkle, T., & Alvarez, G.A. (2021). *Human-like signatures of contour integration in deep neural networks*. Talk presented at the Vision Sciences Society 2022 Conference
-
+<!-- 
 <img src="https://feziodoshi.github.io/images/contour_integration_3.png" alt="drawing" style="width:100%;"/>
+<img src="https://feziodoshi.github.io/images/contour_integration_1.png" alt="drawing" style="width:60%;height:60%;display: block;margin-left: auto;margin-right: auto"/> -->
+
+<div style="display: flex;">
+<img src="https://feziodoshi.github.io/images/contour_integration_3.png" alt="drawing" style="width:60%;height: auto;flex: 33.33%;padding: 5px;"/>
+<img src="https://feziodoshi.github.io/images/contour_integration_1.png" alt="drawing" style="width:60%;height: auto;flex: 33.33%;padding: 5px;"/>
+</div>
 
 
-<img src="https://feziodoshi.github.io/images/contour_integration_1.png" alt="drawing" style="width:60%;height:60%;display: block;margin-left: auto;margin-right: auto"/>
 
 ## Does human vision directly leverage perceptual features as optimal proxies for intuitive physical reasoning?
 
