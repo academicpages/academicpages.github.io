@@ -1,5 +1,5 @@
 ---
-title: "Speeding Up Automated Assessment of Programming Exercises"
+title: 'Speeding Up Automated Assessment of Programming Exercises'
 collection: publications
 permalink: 
 excerpt: 'In this paper, we present an approach for reducing the computational ressources needed to assess students solutions to programming assignments.'
