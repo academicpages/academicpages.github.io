@@ -16,10 +16,11 @@ In my research, I am exploring the nature of visual representations underlying m
 ### Checkout my work on modelling Cortical topographies:
 [Link](https://www.biorxiv.org/content/10.1101/2022.09.06.506403v1) to paper
 
-<img src="https://feziodoshi.github.io/images/cover_cortical_topographies.png" alt="drawing" style="width:40%;border: 5px solid black;"/>
+<img src="https://feziodoshi.github.io/images/cover_cortical_topographies.png" alt="drawing" style="width:50%;border: 5px solid black;"/>
 
 ### My talk on mechanisms of contour integration in humans and machines presented at Vision Sciences Society 2022 Conference:
 {% include youtubePlayer.html id="PsmZAMGeV6A" %}
+
 
 <!-- I combine computational models of vision, behavioral psychophysics, and neuroimaging data to probe how emergent properties of a hierarchical visual processor both support and limit complex cognition. -->
 

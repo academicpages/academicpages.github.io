@@ -32,11 +32,6 @@ Collaborators: [Talia Konkle](http://konklab.fas.harvard.edu/)
 
 
 Here's a [talk](https://www.youtube.com/watch?v=zZvrIuoxU6Y) on this project, presented at the Vision Sciences Society 2021 Conference
-
-<!-- <img src="https://feziodoshi.github.io/images/topography_0.png" alt="drawing" style="width:100%;"/>
-<img src="https://feziodoshi.github.io/images/topography_1.png" alt="drawing"/> -->
-
-
 <img src="https://feziodoshi.github.io/images/research_topography_0.gif" alt="drawing" style="width:60%;height: auto;display: block;margin-left: auto;margin-right: auto"/>
 <div style="display: flex;">
 <img src="https://feziodoshi.github.io/images/research_topography_1.png" alt="drawing" style="width:60%;height: auto;flex: 33.33%;padding: 5px;"/>
