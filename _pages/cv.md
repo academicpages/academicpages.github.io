@@ -20,11 +20,11 @@ Work experience
 ======
 * Teaching Assistant
   * UC Santa Barbara
-    * Oct 2020 - Dec 2020: GEOG 176A - INTRO GEOG INF SYS
-    * Jan 2021 - Mar 2021: GEOG 176B - TECHNICAL GIS
-    * Mar 2021 - Jun 2021: GEOG 176C - GIS APPLICATIONS
-    * Aug 2021 - Sep 2021: GEOG 176A - INTRO GEOG INF SYS
-    * Sep 2021 - Dec 2021: GEOG 176A - INTRO GEOG INF SYS
+    * Fall 2022: Geog176A - Intro. Geog. Inf. Sys.
+    * Summer Session B 2021: Geog176A - Intro. Geog. Inf. Sys.
+    * Spring 2021: Geog176C - GIS Applications
+    * Winter 2021: Geog176B - Technical GIS
+    * Fall 2020: Geog176A - Intro. Geog. Inf. Sys.
 
 * Graduate Student Researcher
   * UC Santa Barbara
@@ -32,7 +32,7 @@ Work experience
 
 * Teaching Associate (Instructor)
   * UC Santa Barbara
-    Aug 2022 - Sep 2022: GEOG 176A - INTRO GEOG INF SYS
+    Summer Session B 2022: Geog176A - Intro. Geog. Inf. Sys.
   
 Skills
 ======
@@ -61,6 +61,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* 2022-present: Reviewer of *Journal of Spatial Information Science*
+* 2022-present: Reviewer of *Scientific Reports*
+* 2021-present: Reviewer of *Geographical Analysis*
+* 2017-2018: Vice Minister of WHU Youth Volunteer Association
+* 2016-2017: Member of WHU Youth Volunteer Association
