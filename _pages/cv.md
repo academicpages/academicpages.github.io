@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Geography, University of California, Santa Barbara, 2025 (expected)
+* M.A. in Geography, University of California, Santa Barbara, 2022
 * B.S. in Geographic Information Science, Wuhan University, 2020
   * Exchange program: Geographic Information Science and Cartography, University of California, Santa Barbara, Fall 2019 
-* M.A. in Geography, University of California, Santa Barbara, 2022
-* Ph.D in Geography, University of California, Santa Barbara, 2025 (expected)
 
 Work experience
 ======
@@ -31,14 +31,14 @@ Work experience
 * Teaching Associate (Instructor)
   * Summer Session B 2022: Geog176A - Intro. Geog. Inf. Sys., UC Santa Barbara
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
