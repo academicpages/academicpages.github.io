@@ -19,20 +19,17 @@ Education
 Work experience
 ======
 * Teaching Assistant
-  * UC Santa Barbara
-    * Fall 2022: Geog176A - Intro. Geog. Inf. Sys.
-    * Summer Session B 2021: Geog176A - Intro. Geog. Inf. Sys.
-    * Spring 2021: Geog176C - GIS Applications
-    * Winter 2021: Geog176B - Technical GIS
-    * Fall 2020: Geog176A - Intro. Geog. Inf. Sys.
+  * Fall 2022: Geog176A - Intro. Geog. Inf. Sys., UC Santa Barbara
+  * Summer Session B 2021: Geog176A - Intro. Geog. Inf. Sys., UC Santa Barbara
+  * Spring 2021: Geog176C - GIS Applications, UC Santa Barbara
+  * Winter 2021: Geog176B - Technical GIS, UC Santa Barbara
+  * Fall 2020: Geog176A - Intro. Geog. Inf. Sys., UC Santa Barbara   
 
 * Graduate Student Researcher
-  * UC Santa Barbara
-    * Jan 2022 - Jul 2022
+  * Jan 2022 - Jul 2022: Department of Geography, UC Santa Barbara
 
 * Teaching Associate (Instructor)
-  * UC Santa Barbara
-    Summer Session B 2022: Geog176A - Intro. Geog. Inf. Sys.
+  * Summer Session B 2022: Geog176A - Intro. Geog. Inf. Sys., UC Santa Barbara
   
 Skills
 ======
