@@ -15,7 +15,8 @@ My research interests lie within the intersection of Natural Language Processing
 
 <!--You can find my CV [here](/cv/).-->
 
-
+## On The Job Market
+I'm on the job market, looking for Post-doc and industrial research positions, starting in 2023 Autumn.
 
 <!-- ## Coming Soon
 Will share our work: [On Transferability of Prompt Tuning for Natural Language Processing](https://arxiv.org/abs/2111.06719)<br>
@@ -27,8 +28,6 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 
 ## News
 <!-- 
-* [Jul. 2022] Share our work [[pdf]](https://arxiv.org/abs/2111.06719) on NAACL Oral Session. 
-* [Apr. 2022] Got two papers accepted at NAACL 2022. 
 * [Mar. 2022] Got one paper accepted at ACL 2022. 
 * [Aug. 2021] Got one paper accepted at IEEE/TASLP 2021. 
 * [Feb. 2021] Got one paper accepted at WWW 2021. 
@@ -78,6 +77,13 @@ EMNLP 2020 Findings, AI OPEN 2021. [[pdf]](https://arxiv.org/abs/2009.13964) [[p
 * <b>Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models</b>\
 *Ning Ding, Yujia Qin, Guang Yang, Fuchao Wei, Zonghan Yang, <b>Yusheng Su</b>, Shengding Hu, Yulin Chen, Chi-Min Chan, Weize Chen, Jing Yi, Weilin Zhao, Xiaozhi Wang, Zhiyuan Liu, Hai-Tao Zheng, Jianfei Chen, Yang Liu, Jie Tang, Juanzi Li, Maosong Sun.*\
 ArXiv. [[pdf]](https://arxiv.org/abs/2203.06904)
+
+
+
+## Talks
+* [Sep. 2022] Invited Talk (on-line) @ [SAP](https://www.sap.com/index.html) Headquarter, Germany
+* [Jul. 2022] Oral Talk (in persion) @ NAACL 2022, [[slide]](https://drive.google.com/file/d/1OSmU3s7DOv-Gux5JcjuY0w79MzRRJuiA/view?usp=sharing) [[video]](https://www.youtube.com/watch?v=KVgmtgMQ3ig)
+* [Apr. 2021] Spotlight Talks (on-line) @ WWW 2021 (Self-Supervised Learning Workshop)
 
 
 
