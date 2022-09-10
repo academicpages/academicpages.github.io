@@ -22,24 +22,32 @@ My current research often considers problems related to *Randomized Numerical Li
 Prior to starting my PhD, I carried out research in the field of Health Informatics, working with researchers at Regenstrief Institute.  While doing so, I asked (and partially answered) questions related to the deployment of machine learning in healthcare.  This was an excellent experience, as it emphasized the systems-level challenges (e.g. data privacy, bureaucratic inertia, formatting standards) to effectively using the algorithms we develop to solve end-use problems.  
 
 
-(**) Denotes alphabetical author order
+
+![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) - Denotes alphabetical author order
 
 ##### Under Review/In Preparation
 
 * [Sublinear Time Eigenvalue Approximation via Random Sampling](https://arxiv.org/abs/2109.07647)\
 Under Review\
-(**) _Rajarshi Bhattacharjee, Gregory Dexter, Petros Drineas, Cameron Musco, and Archan Ray_
+![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) _Rajarshi Bhattacharjee, Gregory Dexter, Petros Drineas, Cameron Musco, and Archan Ray_
 
-
-* Faster Randomized Interior Point Methods for Tall/Wide Linear Programs\
+* Improved Feature Extraction for High-Dimensional Generalized Linear Models via
+Sketching\
 Under Review\
-_Agniva Chowhdury, **Gregory Dexter**, Palma London, Haim Avron, and Petros Drineas_
+_**Gregory Dexter**, Jawad Raheel, Rajiv Khanna, and Petros Drineas_
+
+
 
 
 ##### Published/Accepted
 
+* Faster Randomized Interior Point Methods for Tall/Wide Linear Programs\
+To Appear in JMLR\
+_Agniva Chowhdury, **Gregory Dexter**, Palma London, Haim Avron, and Petros Drineas_
+
+
 * [On the Convergence of Inexact Predictor-Corrector Methods for Linear Programming](https://arxiv.org/pdf/2202.01756.pdf)\
-To Appear at ICML 2022, **Selected for long presentation (2% acceptance rate)**\
+ICML 2022, **Selected for long presentation (2% acceptance rate)**\
 _**Gregory Dexter**, Agniva Chowhdury, Haim Avron, and Petros Drineas_
 
 
@@ -48,7 +56,7 @@ NeurIPS 2021\
 _**Gregory Dexter**, Kevin Bello, and Jean Honorio_
 
 * [Randomized linear algebra approaches to estimate the von neumann entropy of density matrices](https://arxiv.org/abs/1801.01072)\
-IEEE transactions on information theory (2020)\
+IEEE Transactions on Information Theory (2020)\
 _Eugenia-Maria Kontopoulou, **Gregory Dexter**, Wojciech Szpankowski, Ananth Grama, and Petros Drineas_
 
 ### Health Informatics Research
