@@ -12,7 +12,8 @@ I'm a Ph.D. student in the Department of Computer Science，University of Miami,
 Publications
 ======
 [Adversarial robustness study of convolutional neural network for lumbar disk shape reconstruction from MR images](https://arxiv.org/abs/2102.02885)\\
-Jiasong Chen, Linchen Qian, Timur Urakov, Weiyong Gu, Liang Liang\
+<span style="font-size:4mm;">Jiasong Chen, Linchen Qian, Timur Urakov, Weiyong Gu, Liang Liang </span> <br>
+
 
 [CQ-VAE: Coordinate quantized VAE for uncertainty estimation with application to disk shape analysis from lumbar spine MRI images](https://arxiv.org/abs/2010.08713)\\
 Linchen Qian, Jiasong Chen, Timur Urakov, Weiyong Gu, Liang Liang\
