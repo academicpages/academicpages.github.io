@@ -17,7 +17,7 @@ Publications
 [CQ-VAE: Coordinate quantized VAE for uncertainty estimation with application to disk shape analysis from lumbar spine MRI images](https://arxiv.org/ftp/arxiv/papers/2010/2010.08713.pdf)<br>
 <span style="font-size:4mm;">Linchen Qian, Jiasong Chen, Timur Urakov, Weiyong Gu, Liang Liang </span> <br>
 
-[An Algorithm for Out-Of-Distribution Attack to Neural Network Encoder]([https://arxiv.org/abs/2009.08016](https://arxiv.org/pdf/2009.08016.pdf))<br>
+[An Algorithm for Out-Of-Distribution Attack to Neural Network Encoder](https://arxiv.org/abs/2009.08016](https://arxiv.org/pdf/2009.08016.pdf)<br>
 <span style="font-size:4mm;">Liang Liang, Linhai Ma, Linchen Qian, Jiasong Chen </span> <br>
 
 
