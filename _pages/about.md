@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D. student in the Department of Computer Science，University of Miami, advised by Prof.[Liang Liang](https://liangbright.wordpress.com/). My current research interests includes machine learning, adversarial robustness and biomedical image analysis.
+I'm a Ph.D. student in the Department of Computer Science，University of Miami, advised by Prof.[Liang Liang](https://liangbright.wordpress.com/). My current research interests include machine learning, adversarial robustness and biomedical image analysis.
 
 Publications
 ======
