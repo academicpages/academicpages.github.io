@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiasong Chen's Homepage"
+title                    : "Jiasong Chen"
 title_separator          : "-"
 name                     : &name "Jiasong Chen"
 description              : &description "PhD Student at University of Miami"
