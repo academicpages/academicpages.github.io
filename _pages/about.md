@@ -20,8 +20,16 @@ Email: wang dot dian at northeastern dot edu
 ![](images/rss22.png){: .align-right width="200px"}
 **On-Robot Learning With Equivariant Models**  
 **Dian Wang**, Mingxi Jia, Xupeng Zhu, Robin Walters, Robert Platt  
-*Preprint*  
-[(Webpage)](https://pointw.github.io/equi_robot_page/)[(PDF)](https://arxiv.org/pdf/2203.04923.pdf)[(Video)](https://www.youtube.com/watch?v=HDYoOXMojkY)
+*CoRL 2022, Auckland, New Zealand*  
+[(Webpage)](https://pointw.github.io/equi_robot_page/)[(PDF)](https://arxiv.org/pdf/2203.04923.pdf)[(OpenReview)](https://openreview.net/forum?id=K8W6ObPZQyh)[(Video)](https://www.youtube.com/watch?v=HDYoOXMojkY)
+` `  
+` `  
+
+![](images/hai_corl22.png){: .align-right width="200px"}
+**Leveraging Fully Observable Policies for Learning under Partial Observability**  
+Hai Huu Nguyen, Andrea Baisero, **Dian Wang**, Christopher Amato, Robert Platt  
+*CoRL 2022, Auckland, New Zealand*  
+[(OpenReview)](https://openreview.net/forum?id=pn-HOPBioUE)
 ` `  
 ` `  
 
