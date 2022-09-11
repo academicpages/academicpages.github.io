@@ -8,5 +8,5 @@ date: 2022-09-01
 location: "Kingston, ON, Canada"
 ---
 
-Course Web Page: [APSC143](https://www.ece.queensu.ca/undergraduate/courses/elec-274.html)
+Course Web Page: [APSC143](https://calendar.engineering.queensu.ca/preview_course_nopop.php?catoid=7&coid=4144)
 
