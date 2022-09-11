@@ -1,5 +1,5 @@
 ---
-title: "APSC 143 Introduction to Computer Programming for Engineers F22"
+title: "APSC 143 Introduction to Computer Programming for Engineers Fall 22"
 collection: TA
 type: "Undergraduate course"
 permalink: /teaching/apsc143-fall-22
