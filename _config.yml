@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :
   google:
     tracking_id          :
 
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Eric Bond"
   avatar           : "Eric-Bond.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Portland, OR"
-  employer         : "Galois, Inc"
+  bio              : "Lead Research Scientist - Formal Methods/Applied Math"
+  location         : "Seattle, WA"
+  employer         : "Two Six Technologies"
   pubmed           : 
   googlescholar    : 
-  email            : "bond15@purdue.edu"
+  email            : "bond.eric.23@gmail.com"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "EricBond10"
   vine             :
   weibo            :
   xing             :
@@ -192,16 +192,16 @@ collections:
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  #- scope:
+  #    path: ""
+  #    type: posts
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    read_time: true
+  #    comments: true
+  #    share: true
+  #    related: true
   # _pages
   - scope:
       path: ""
@@ -284,12 +284,12 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+#category_archive:
+#  type: liquid
+#  path: /categories/
+#tag_archive:
+#  type: liquid
+#  path: /tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
