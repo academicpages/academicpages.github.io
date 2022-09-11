@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD candidate in the Biophysics PhD program at the University of Rochester, working in the [Juilee Thakar Lab](https://www.urmc.rochester.edu/labs/thakar.aspx). My graduate work focuses on algorithms which use multiomics data to model immune signaling networks in the contexts of health and disease. I expect to defend my thesis in December 2022.
+I am a sixth-year PhD candidate in the Biophysics PhD program at the University of Rochester, working in the [Juilee Thakar Lab](https://www.urmc.rochester.edu/labs/thakar.aspx). My graduate work focuses on algorithms which use multiomics data to model immune signaling networks in the contexts of health and disease. I will defend my thesis in December 2022.
 
 In general, I am interested in computational network modeling approaches to study inflammatory and autoimmune disease. I enjoy contributing to open-source software packages that will be widely used by both wet & dry lab biologists. I also enjoy mentoring undergraduate students and teaching bioinformatics at the graduate level.
 
