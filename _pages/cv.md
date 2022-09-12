@@ -14,7 +14,7 @@ redirect_from:
 ### Current Address: [Biophysics, Structural & Computational Biology PhD Program](https://www.urmc.rochester.edu/education/graduate/phd/biophysics/faculty-students/students.aspx) at University of Rochester School of Medicine and Dentistry
 <br>
 
-Education
+<span style="color:#154360">Education</span>
 ======
 * **PhD, Biophysics, Structural and Computational Biology (Expected December 2022)**
   - University of Rochester, NY
@@ -28,7 +28,7 @@ Education
 * **Bachelor of Science, Microbiology & Chemistry 2011 - 2014**
   - Savitribai Phule Pune University Pune, India
 
-Publications and Conference Presentations
+<span style="color:#154360">Publications and Conference Presentations</span>
 ======
 
 Published
@@ -50,7 +50,7 @@ Conference Presentations
 * ***Palshikar, M.G.*** WikiNetworks: translating manually created biological pathways for topological analysis. Computational Modeling in Biology Network (COMBINE), October 11-15, 2021.
 * ***Palshikar, M.G.*** Executable models of pathways built using single-cell RNAseq data reveal immune cell heterogeneity in people living with HIV and atherosclerosis. Conference on Intelligent Systems for Molecular Biology, July 13-16, 2020. International Society for Computational Biology.
 
-Teaching and Mentoring
+<span style="color:#154360">Teaching and Mentoring</span>
 ======
 * ***Instructor (Spring 2021 & Spring 2022), University of Rochester:***
   - Introduction to Quantitative Biology. 400-level course on quantitative methods and bioinformatics for second-year graduate students at
@@ -71,7 +71,7 @@ Teaching and Mentoring
   - Responsible for helping students design methods/algorithms and teaching coding in Python and R
   - Guided students in preparation and presentation of research findings
 
-Undergraduate Research Experience
+<span style="color:#154360">Undergraduate Research Experience</span>
 ======
 * ***Detection of luxRI homologs in Aeromonas bacteria (Fall 2013)***
   - National Centre for Cell Science Pune, India
@@ -84,7 +84,7 @@ using PCR and a biosensor assay
   - Project Description: Determined the minimum exposure times and concentrations at which candidate disinfectants are most effective
 against a model virus and hence most suitable for use in a low-cost water purification system under development in the lab
 
-Additional Experience and Achievements
+<span style="color:#154360">Additional Experience and Achievements</span>
 ======
 * ***In-House Talks and Seminars at University of Rochester:***
   - Executable models of pathways built using single-cell RNA-seq data Seminar in Biophysics (University of Rochester
