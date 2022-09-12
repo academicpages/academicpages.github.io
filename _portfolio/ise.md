@@ -19,7 +19,7 @@ Why do countries talk about each other's human rights practices? What rhetorical
 * [How to Measure the Strength of Human Rights Shaming: A Methodological Framework](https://j1wonkim.github.io/research/)
 
 ## Funding
-This research has been supported by undergraduate reserach credit course (POLS399R) and [Graduate Research Grant](http://polisci.emory.edu/home/graduate/graduate-research-grant.html) from Emory Political Science Department and [Computational Social Science Datathon](https://sites.google.com/view/css-workshop-datathon).
+This research has been supported by undergraduate reserach credit course (POLS399R), [Graduate Research Grant](http://polisci.emory.edu/home/graduate/graduate-research-grant.html) from Emory Political Science Department, and [Computational Social Science Datathon](https://sites.google.com/view/css-workshop-datathon).
 
 ## Acknowledgements
 I thank [Prodigy](https://prodi.gy/) for providing academic license for this project.
