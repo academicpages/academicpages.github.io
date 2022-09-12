@@ -107,7 +107,7 @@ accomplishment in graduate study
 <span style="color:#154360">Technical Skills</span>
 ======
 
-* ***Programming and Scripting Languages}***
+* ***Programming and Scripting Languages***
   - **Programming Languages**: Python, R, C, Perl.
   - **Markup languages**: LaTeX, Markdown.
   - **Scripting**: SLURM, bash scripting.
