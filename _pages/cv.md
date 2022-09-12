@@ -33,16 +33,16 @@ redirect_from:
 
 Published
 ------
-* **Palshikar, M. G.**; Palli, R.;  Tyrell, A.;  Maggirwar, S.;  Schifitto, G.;  Singh, M. V.; Thakar, J., Executable models of immune signaling pathways in HIV-associated atherosclerosis. Npj Systems Biology and Applications 2022, *Accepted*
-* Hilchey, S. P.&ast;;  **Palshikar, M. G.&ast;**;  Mendelson, E. S.;  Shen, S.;  Rasam, S.;  Emo, J. A.;  Qu, J.;  Thakar, J.; Zand, M. S., Cyclosporine A Modulates LSP1 Protein Levels in Human B Cells to Attenuate B Cell Migration at Low O<sub>2</sub> Levels. Life (Basel) 2022, 12 (8). *&ast;Contributed equally*
-* **Palshikar, M. G.**;  Hilchey, S. P.;  Zand, M. S.; Thakar, J., WikiNetworks: translating manually created biological pathways for topological analysis. Bioinformatics 2022, 38 (3), 869-871.
-* Hilchey, S. P.;  **Palshikar, M. G.**;  Emo, J. A.;  Li, D.;  Garigen, J.;  Wang, J.;  Mendelson, E. S.;  Cipolla, V.;  Thakar, J.; Zand, M. S., Cyclosporine A Directly Affects Human and Mouse B cell Migration in vitro by Disrupting a HIF1α- Dependent, O<sub>2</sub> Sensing, Molecular Switch. BMC Immunology 2020, 21 (1), 1-18.
-* Palli, R.;  **Palshikar, M. G.**; Thakar, J., Executable pathway analysis using ensemble discrete-state modeling for large-scale data. PLoS Computational Biology 2019, 15 (9), e1007317.
+* **Palshikar, M. G.**; Palli, R.; Tyrell, A.; Maggirwar, S.; Schifitto, G.; Singh, M. V.; Thakar, J., Executable models of immune signaling pathways in HIV-associated atherosclerosis. Npj Systems Biology and Applications 2022, *Accepted*
+* Hilchey, S. P.<span>&#42;</span>; **Palshikar, M. G.<span>&#42;</span>**; Mendelson, E. S.; Shen, S.; Rasam, S.; Emo, J. A.; Qu, J.; Thakar, J.; Zand, M. S., Cyclosporine A Modulates LSP1 Protein Levels in Human B Cells to Attenuate B Cell Migration at Low O<sub>2</sub> Levels. Life (Basel) 2022, 12 (8). *<span>&#42;</span>Contributed equally*
+* **Palshikar, M. G.**; Hilchey, S. P.; Zand, M. S.; Thakar, J., WikiNetworks: translating manually created biological pathways for topological analysis. Bioinformatics 2022, 38 (3), 869-871.
+* Hilchey, S. P.; **Palshikar, M. G.**; Emo, J. A.; Li, D.; Garigen, J.; Wang, J.; Mendelson, E. S.; Cipolla, V.; Thakar, J.; Zand, M. S., Cyclosporine A Directly Affects Human and Mouse B cell Migration in vitro by Disrupting a HIF1α- Dependent, O<sub>2</sub> Sensing, Molecular Switch. BMC Immunology 2020, 21 (1), 1-18.
+* Palli, R.; **Palshikar, M. G.**; Thakar, J., Executable pathway analysis using ensemble discrete-state modeling for large-scale data. PLoS Computational Biology 2019, 15 (9), e1007317.
 
 In preparation
 ------
 * ***Palshikar, M. G.***; Min, X.; Crystal, A.; Meng, J.; Hilchey, S. P.; Zand, M.; Thakar, J., Executable network models of integrated multi-omics data. In preparation 2022.
-* Kassis, G.&ast; ***Palshikar, M. G.&ast;***; Thakar, J., Modeling disease-specific B cell phenotypes using executable network models. In preparation 2022. *&ast;Contributed equally*
+* Kassis, G.<span>&#42;</span>; ***Palshikar, M. G.<span>&#42;</span>***; Thakar, J., Modeling disease-specific B cell phenotypes using executable network models. In preparation 2022. *&ast;Contributed equally*
 * Benoodt, L; ***Palshikar, M. G.***; Palli, R.; Thakar, J., Mining and application of functionally related gene-set networks using single-cell RNAseq. In preparation 2022.
 
 Conference Presentations
