@@ -48,6 +48,7 @@ In preparation
 
 Conference Presentations
 ------
+* ***Palshikar, M.G.*** Executable models of pathways built using single-cell RNAseq data reveal immune signaling dysregulations in people living with HIV and atherosclerosis American Society for Microbiology (ASM) Eastern New York Fall Symposium, October 1, 2021. American Society for Microbiology (ASM).
 * ***Palshikar, M.G.*** WikiNetworks: translating manually created biological pathways for topological analysis. Computational Modeling in Biology Network (COMBINE), October 11-15, 2021.
 * ***Palshikar, M.G.*** Executable models of pathways built using single-cell RNAseq data reveal immune cell heterogeneity in people living with HIV and atherosclerosis. Conference on Intelligent Systems for Molecular Biology, July 13-16, 2020. International Society for Computational Biology.
 
