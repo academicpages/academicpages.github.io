@@ -13,7 +13,6 @@ redirect_from:
 ### Publications: [Google Scholar](https://scholar.google.com/citations?hl=en&user=wKCY16IAAAAJ&view_op=list_works&sortby=pubdate), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=mukta+palshikar)
 ### Current Address: [Biophysics, Structural & Computational Biology PhD Program](https://www.urmc.rochester.edu/education/graduate/phd/biophysics/faculty-students/students.aspx) at University of Rochester School of Medicine and Dentistry
 <br>
-
 <span style="color:#154360">Education</span>
 ======
 * **PhD, Biophysics, Structural and Computational Biology (Expected December 2022)**
