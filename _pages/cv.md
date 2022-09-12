@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -58,14 +58,6 @@ the legislation yields benefits for senior-level management not directly affecte
 Modeling and predicting arctic ice sheet properties by fitting Gaussian Processes on ice displacement data under [Dr. Anne Gelb](https://math.dartmouth.edu/~annegelb/) and [Dr. Matt Parno](https://www.linkedin.com/in/mparno/). 
 <br/><br/>
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -84,6 +76,4 @@ Teaching
   - Topics in Physics (Stanford University Summer Session) TA *Summer 2019*
   - Topics in Mathematics (Stanford University Summer Session) TA *Summer 2019*
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
