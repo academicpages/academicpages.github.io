@@ -14,7 +14,7 @@ redirect_from:
 ### Current Address: [Biophysics, Structural & Computational Biology PhD Program](https://www.urmc.rochester.edu/education/graduate/phd/biophysics/faculty-students/students.aspx) at University of Rochester School of Medicine and Dentistry
 <br>
 
-Education
+<span style="color:blue">Education</span>
 ======
 * ***PhD, Biophysics, Structural and Computational Biology (Expected December 2022)***
   - University of Rochester, NY
