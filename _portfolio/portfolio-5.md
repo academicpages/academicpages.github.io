@@ -4,7 +4,8 @@ excerpt: "Markov Chain Monte Carlo Sampling from a Probit GLM, December 2021 <br
 collection: portfolio
 ---
 To access the report only, please click [here](http://simonegiancola09.github.io/files/bayesian_MCMC_analysis.pdf)
-<br->
+
+
 To access the repository, please click [here](https://github.com/simonegiancola09/probit_bayesian_MCMC)
 
 
