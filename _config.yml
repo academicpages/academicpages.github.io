@@ -86,7 +86,7 @@ author:
   location         : # "New Haven, CT"
   employer         : "Yale University"
   pubmed           : 
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=GKFtqToAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
