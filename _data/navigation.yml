@@ -25,4 +25,4 @@ main:
     url: /books/
     
   - title: "GSoC 22"
-   url: /_posts/gsoc22.md
+   url: /gsoc/gsoc22.md
