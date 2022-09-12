@@ -29,7 +29,6 @@ Education
 
 Publications and Conference Presentations
 ======
-* ***Palshikar, M.G.*** Executable models of pathways built using single-cell RNAseq data reveal immune cell heterogeneity in people living with HIV and atherosclerosis. Conference on Intelligent Systems for Molecular Biology, July 13-16, 2020. International Society for Computational Biology. [Abstract](https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/sysmodcosi)
 
 Published
 ------
@@ -49,6 +48,9 @@ In preparation
 
 Conference Presentations
 ------
+
+* ***Palshikar, M.G.*** WikiNetworks: translating manually created biological pathways for topological analysis. Computational Modeling in Biology Network (COMBINE), October 11-15, 2021.
+* ***Palshikar, M.G.*** Executable models of pathways built using single-cell RNAseq data reveal immune cell heterogeneity in people living with HIV and atherosclerosis. Conference on Intelligent Systems for Molecular Biology, July 13-16, 2020. International Society for Computational Biology.
 
 Teaching and Mentoring
 ======
