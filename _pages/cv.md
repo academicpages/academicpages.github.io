@@ -91,22 +91,28 @@ against a model virus and hence most suitable for use in a low-cost water purifi
 <span style="color:#154360">Additional Experience and Achievements</span>
 ======
 
-* ***In-House Talks and Seminars at University of Rochester:***
-  - Executable models of pathways built using single-cell RNA-seq data Seminar in Biophysics (University of Rochester
-Department of Biochemistry and Biophysics), March 10 2020.
-  - Single-cell RNA-seq Analysis Reveals Immune Cell Heterogeneity in People with HIV and Atherosclerosis Seminar in
-Biophysics (University of Rochester Department of Biochemistry and Biophysics), April 23 2019.
-* ***In-House Poster Presentations at University of Rochester:***
-  - Interview Weekend Poster Session (February 8, 2020).
-  - Goergen Institute of Data Science Research Help From Goergen Students (January 24, 2020)
-  - Center for Aids Research World AIDS Day Scientific Symposium (December 3, 2019)
-  - Biophysics, Structural and Computational Biology Retreat (October 10, 2019)
-  - Undergraduate Research Fair (University of Rochester) (April 19 2019)
+* ***In-House Talks and Poster Presentations at University of Rochester:***
+  - Executable models of pathways built using single-cell RNA-seq data. Seminar in Biophysics (University of Rochester Department of Biochemistry and Biophysics), given annually 2019-2022
+  - Interview Weekend Poster Session (Poster, February 8, 2020).
+  - Goergen Institute of Data Science Research Help From Goergen Students (Poster, January 24, 2020)
+  - Center for Aids Research World AIDS Day Scientific Symposium (Poster, December 3, 2019)
+  - Biophysics, Structural and Computational Biology Retreat (Poster, October 10, 2019)
+  - Undergraduate Research Fair (University of Rochester) (Poster, April 19 2019)
 * ***Honors and Awards:***
-  - Fall 2017: Graduate Alumni Fellowship Award, University of Rochester School of Medicine and Dentistry
-Awarded to an incoming graduate student in the School of Medicine and Dentistry with promise for exceptional
+  - Fall 2017: Graduate Alumni Fellowship Award, University of Rochester School of Medicine and Dentistry. Awarded to an incoming graduate student in the School of Medicine and Dentistry with promise for exceptional
 accomplishment in graduate study
-  - 2017: Prof. Kolaskar Gold Medal, Savitribai Phule Pune University, India
-Awarded to the student ranked first in the M.Sc. Bioinformatics program
-  - 2015 - 2017: G.N. Ramachandran Fellowship, Bioinformatics Centre, Savitribai Phule Pune University, India
-Awarded to the top five students in the M.Sc. Bioinformatics program
+  - 2017: Prof. Kolaskar Gold Medal, Savitribai Phule Pune University, India. Awarded to the student ranked first in the M.Sc. Bioinformatics program
+  - 2015 - 2017: G.N. Ramachandran Fellowship, Bioinformatics Centre, Savitribai Phule Pune University, India. Awarded to the top five students in the M.Sc. Bioinformatics program
+
+<span style="color:#154360">Technical Skills</span>
+======
+
+* ***Programming and Scripting Languages}***
+  - **Programming Languages**: Python, R, C, Perl.
+  - **Markup languages**: LaTeX, Markdown.
+  - **Scripting**: SLURM, bash scripting.
+  - **Libraries**: fluent in Scikit-Learn, Numpy, Pandas, Jupyter, and standard graph theory, visualization, statistical and bioinformatics packages in Python and R, with some exposure to Tensorflow
+  - Some exposure to Java, C++, PHP, Octave, OMP, HTML.
+* ***Software Development***
+  - Extensive experience in developing and maintaining open-source Python packages on **GitHub** and on the **Python Package Index**.
+  - Responsible for writing and maintaining in-house R data analysis scripts across multiple projects.
