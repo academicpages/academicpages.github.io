@@ -12,9 +12,10 @@ redirect_from:
 ### GitHub: [Mukta Palshikar](https://github.com/mgp13), [Thakar Lab](https://github.com/Thakar-Lab)
 ### Publications: [Google Scholar](https://scholar.google.com/citations?hl=en&user=wKCY16IAAAAJ&view_op=list_works&sortby=pubdate), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=mukta+palshikar)
 ### Current Address: [Biophysics, Structural & Computational Biology PhD Program](https://www.urmc.rochester.edu/education/graduate/phd/biophysics/faculty-students/students.aspx) at University of Rochester School of Medicine and Dentistry
-<br>
+
 <span style="color:#154360">Education</span>
 ======
+
 * **PhD, Biophysics, Structural and Computational Biology (Expected December 2022)**
   - University of Rochester, NY
   - Advisor: Juilee Thakar, PhD
@@ -51,6 +52,7 @@ Conference Presentations
 
 <span style="color:#154360">Teaching and Mentoring</span>
 ======
+
 * ***Instructor (Spring 2021 & Spring 2022), University of Rochester:***
   - Introduction to Quantitative Biology. 400-level course on quantitative methods and bioinformatics for second-year graduate students at
   University of Rochester Medical Center.
@@ -72,6 +74,7 @@ Conference Presentations
 
 <span style="color:#154360">Undergraduate Research Experience</span>
 ======
+
 * ***Detection of luxRI homologs in Aeromonas bacteria (Fall 2013)***
   - National Centre for Cell Science Pune, India
   - Advisors: Kamlesh Jangid, PhD & Yogesh Shouche, PhD
@@ -85,6 +88,7 @@ against a model virus and hence most suitable for use in a low-cost water purifi
 
 <span style="color:#154360">Additional Experience and Achievements</span>
 ======
+
 * ***In-House Talks and Seminars at University of Rochester:***
   - Executable models of pathways built using single-cell RNA-seq data Seminar in Biophysics (University of Rochester
 Department of Biochemistry and Biophysics), March 10 2020.
