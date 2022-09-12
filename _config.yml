@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Cindy Pang"
-  avatar           : "profile.png"
+  avatar           : "/images/cindy_pic.png"
   bio              : "Undergraduate Research Assistant at Carolina Population Center"
   location         : "Chapel Hill, North Carolina"
   employer         :
