@@ -9,7 +9,6 @@ Why do countries talk about each other's human rights practices? What rhetorical
 ## Team
 ### Current Members
 * Jiwon Kim (PI)
-* Onew Choi (Aug 2022-current, lab manager and coder)
 * [Celline Kim](https://j1wonkim.github.io/celline/) (Jan 2022-current, coder)
 * [Taoshu Ren](https://j1wonkim.github.io/taoshu/) (Feb 2022-current, coder)
 
