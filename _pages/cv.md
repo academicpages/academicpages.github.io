@@ -11,7 +11,7 @@ redirect_from:
 
 #### GitHub: [Thakar Lab](https://github.com/Thakar-Lab), [Mukta Palshikar](https://github.com/mgp13)
 #### Publications: [Google Scholar](https://scholar.google.com/citations?hl=en&user=wKCY16IAAAAJ&view_op=list_works&sortby=pubdate), [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=mukta+palshikar)
-#### Current Address: [Biophysics, Structural & Computational Biology PhD Program](https://www.urmc.rochester.edu/education/graduate/phd/biophysics/faculty-students/students.aspx) at University of Rochester School of Medicine and Dentistry
+#### Current Address: [Biophysics, Structural & Computational Biology PhD Program](https://www.urmc.rochester.edu/education/graduate/phd/biophysics/faculty-students/students.aspx) at University of Rochester School of Medicine and Dentistry\\
 
 Education
 ======
