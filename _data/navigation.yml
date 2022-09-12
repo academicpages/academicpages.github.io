@@ -23,6 +23,3 @@ main:
     
   - title: "Articles"
     url: /books/
-    
-  - title: "GSoC 22"
-    url: /gsoc/gsoc22.md
