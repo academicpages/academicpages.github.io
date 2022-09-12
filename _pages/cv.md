@@ -34,7 +34,6 @@ Publications and Conference Presentations
 
 Published
 ------
-
 * ***Palshikar, M. G.***; Palli, R.;  Tyrell, A.;  Maggirwar, S.;  Schifitto, G.;  Singh, M. V.; Thakar, J., Executable models of immune signaling pathways in HIV-associated atherosclerosis. Npj Systems Biology and Applications 2022, *Accepted*
 * Hilchey, S. P.&ast;  ***Palshikar, M. G.&ast;***;  Mendelson, E. S.;  Shen, S.;  Rasam, S.;  Emo, J. A.;  Qu, J.;  Thakar, J.; Zand, M. S., Cyclosporine A Modulates LSP1 Protein Levels in Human B Cells to Attenuate B Cell Migration at Low O<sub>2</sub> Levels. Life (Basel) 2022, 12 (8). *&ast;Contributed equally*
 * **Palshikar, M. G.**;  Hilchey, S. P.;  Zand, M. S.; Thakar, J., WikiNetworks: translating manually created biological pathways for topological analysis. Bioinformatics 2022, 38 (3), 869-871.
@@ -43,20 +42,17 @@ Published
 
 In preparation
 ------
-
 * ***Palshikar, M. G.***; Min, X.; Crystal, A.; Meng, J.; Hilchey, S. P.; Zand, M.; Thakar, J., Executable network models of integrated multi-omics data. In preparation 2022.
 * Kassis, G.&ast; ***Palshikar, M. G.&ast***; Thakar, J., Modeling disease-specific B cell phenotypes using executable network models. In preparation 2022. *&ast;Contributed equally*
 * Benoodt, L; ***Palshikar, M. G.***; Palli, R.; Thakar, J., Mining and application of functionally related gene-set networks using single-cell RNAseq. In preparation 2022.
 
 Conference Presentations
 ------
-
 * ***Palshikar, M.G.*** WikiNetworks: translating manually created biological pathways for topological analysis. Computational Modeling in Biology Network (COMBINE), October 11-15, 2021.
 * ***Palshikar, M.G.*** Executable models of pathways built using single-cell RNAseq data reveal immune cell heterogeneity in people living with HIV and atherosclerosis. Conference on Intelligent Systems for Molecular Biology, July 13-16, 2020. International Society for Computational Biology.
 
 Teaching and Mentoring
 ======
-
 * ***Instructor (Spring 2021 & Spring 2022), University of Rochester:***
   - Introduction to Quantitative Biology. 400-level course on quantitative methods and bioinformatics for second-year graduate students at
   University of Rochester Medical Center.
@@ -78,13 +74,11 @@ Teaching and Mentoring
 
 Undergraduate Research Experience
 ======
-
 * ***Detection of luxRI homologs in Aeromonas bacteria (Fall 2013)***
   - National Centre for Cell Science Pune, India
   - Advisors: Kamlesh Jangid, PhD & Yogesh Shouche, PhD
   - Project Description: Confirmed the presence of virulence-associated luxRI homologs in 27 environmental isolates of Aeromonas bacteria
 using PCR and a biosensor assay
-
 * ***Efficacy Testing of Disinfectants on MS2 Phage at Different Concentrations and Contact Times (Summer 2013)***
   - Tata Research Design and Development Centre (Process Engineering Lab) Pune, India
   - Advisors: Chetan Malhotra, PhD & Rajshree Patil, PhD
@@ -93,7 +87,6 @@ against a model virus and hence most suitable for use in a low-cost water purifi
 
 Additional Experience and Achievements
 ======
-
 * ***In-House Talks and Seminars at University of Rochester:***
   - Executable models of pathways built using single-cell RNA-seq data Seminar in Biophysics (University of Rochester
 Department of Biochemistry and Biophysics), March 10 2020.
