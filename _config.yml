@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Kunyang Lin"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Guangzhou"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -134,7 +134,7 @@ exclude:
   - Gemfile
   - Gruntfile.js
   - LICENSE
-  - README
+#   - README
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
