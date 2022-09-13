@@ -96,7 +96,7 @@ Select Conference Presentations
 <br>
 <b><big>Poster Presentations</big></b>
 
-* <b>Cheng, Y. </b>, Chrastil, E.R., Krichmar, J.. A Recurrent Neural Network Model of Travel Direction in Humans, Women in Machine Learning (WiML) Un-Workshop, International Conference on Machine Learning (ICML), Virtual. July, 2022. [[news](/posts/2022/07/blog-post-2/)]
+* <b>Cheng, Y. </b>, Chrastil, E.R., Krichmar, J.. A Recurrent Neural Network Model of Travel Direction in Humans, Women in Machine Learning (WiML) Un-Workshop, International Conference on Machine Learning (ICML), Virtual. July, 2022. [[news](/posts/2022/07/blog-post-2/)]  [[video](https://slideslive.com/38987407/a-recurrent-neural-network-model-of-travel-direction-in-humans)]
 
 * <b>Cheng, Y. </b>, Chrastil, E.R., Krichmar, J.. A Recurrent Neural Network Model of Travel Direction in Humans, Interdisciplinary Navigation Symposium (iNAV), Virtual. June, 2022. [[news](/posts/2022/06/blog-post-1/)]
 
