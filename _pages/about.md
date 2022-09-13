@@ -50,6 +50,8 @@ Yongjun Zhang. 2021. "[Corporate Responses to COVID19: A Non-Market Strategy App
 Charles Seguin, Chris Julien, and Yongjun Zhang. 2021. "[The stability of androgynous names: Dynamics of gendered naming practices in the United States 1880–2016.](http://www.charlieseguin.com/uploads/4/1/2/7/41271621/seguin_poetics_names_10-2020.pdf)" Poetics
 
 ## Working Paper
+Yongjun Zhang, Sijia Liu, Yi Wang, and Xinguang Fan. 2022. ''[Detecting Fake News on Twitter in the Chinese Language Community](https://yongjunzhang.com/files/Fake_News.pdf)."
+
 Yongjun Zhang, Hao Lin, Yi Wang, and Xinguang Fan. 2022. ''[Friends and foes: Sinophobia was viral on Twitter during the early COVID-19 pandemic](https://yongjunzhang.com/files/Sinophobia_in_COVID19.pdf)."
 
 Yongjun Zhang. 2021. "[Using Population Mobility to Measure Racial Residential Segregation in the U.S. Metro Areas](https://osf.io/pvbxw/)." 
