@@ -120,8 +120,9 @@ author:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+#   - _pages
   - files
+  - README
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -134,7 +135,7 @@ exclude:
   - Gemfile
   - Gruntfile.js
   - LICENSE
-  - README
+#   - README
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
