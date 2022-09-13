@@ -15,6 +15,8 @@ redirect_from:
 
 Recent news
 ===========
-- (Oct. 12-15, 2022) Yixiang will serve as the co-chair for the session: Biosensors, Implantable Sensors and Devices II at [BMES2022](https://www.bmes.org/annualmeeting), San Antonio, TX.
+- (Oct. 12-15, 2022) Yixiang will serve as the co-chair for the following two sessions at [BMES2022](https://www.bmes.org/annualmeeting), San Antonio, TX.
+   - Biosensors, Implantable Sensors and Devices II 
+   - Other Mechanics
 - (Aug. 3, 2022) Yixiang gave an invited talk at [Complex Fluids and Soft Matter (CFSM) Seminar Series](https://cecas.clemson.edu/zhenli/cfsm/), Clemson University.
 - (Nov. 24, 2021) Yixiang gave an invited talk at [Institue of Fluid Engineering](http://www.zjufluid.org/) hosted by Prof. Xuejin Li, Zhejiang University.
