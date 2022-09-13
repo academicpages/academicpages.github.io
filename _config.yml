@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Angadh Nanjangud"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Angadh Nanjangud"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Angu"
-  avatar           : "MyPhoto"
-  bio              : "Space Engineer and Informathematician"
+  avatar           : "MyPhoto.jpeg"
+  bio              : "Space Roboticist"
   location         : "London, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
