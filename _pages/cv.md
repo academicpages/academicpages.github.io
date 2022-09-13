@@ -11,7 +11,7 @@ redirect_from:
 
 <br> 
 
-Click here for a [full CV](http://lilianyou.github.io/files/You_Cheng_CV_July_18_2022.pdf) <!--- (or a shorter [Resume](http://lilianyou.github.io/files/You_Cheng_Resume.pdf)). --->
+<!--- Click here for a [full CV](http://lilianyou.github.io/files/You_Cheng_CV_July_18_2022.pdf) (or a shorter [Resume](http://lilianyou.github.io/files/You_Cheng_Resume.pdf)). --->
 
 Education
 ======
@@ -42,11 +42,11 @@ Publications
 
 * <b>Cheng, Y.</b>. Dissertation: Travel Direction as a Fundamental Component of Human Navigation: Integrating Psychophysics, Neuroimaging, and Computational Modeling Approaches [https://escholarship.org/uc/item/9jg79944](https://escholarship.org/uc/item/9jg79944)
 
+* 't Hart, B. M., Adeyemi, A., Akrami, A., Alicea, B., Alonso-Andres, A., … Cheng, Y., … Vishne, G. (2022). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. The Journal of Open Source Education, 5(49), 118. [[preprint](https://osf.io/9fp4v/)] [[pdf](https://lilianyou.github.io/files/2022_neuromatch_jose.pdf)]
+
 * <b>Cheng, Y.</b>., & Chrastil, L. (2021, November 30). From Individual Cognitive Maps to a Collective Cognitive Map: Prescriptive Guidelines and Measurement of Factors that Could Distort the Mapping Process. https://doi.org/10.31234/osf.io/7ygk2 [[pdf](https://lilianyou.github.io/files/2021_collective_navigation_preprint_Cheng.pdf)]
 
 * Chrastil, E. R., <b>Cheng, Y.</b>.  Central Coordination and Integration of Diverse Information to Form a Single Map.  In R. D. Montello & K. M. Curtin (Eds.), Collective Spatial Cognition:  A Research Agenda.  Routledge (Taylor and Francis).  (in press)
-
-* 't Hart, B. M., Achakulvisut, T., Blohm, G., Kording, K., Peters, M. A. K., Akrami, A., … Cheng, Y., … Hyafil, A. (2021, February 15). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. https://doi.org/10.31219/osf.io/9fp4v [[pdf](https://lilianyou.github.io/files/2021_neuromatch_preprint.pdf)]
 
 * <b>Cheng, Y.</b>, Hegarty, M., & Chrastil, E. R. (2020). Telling right from right: the influence of handedness in the mental rotation of hands. Cognitive Research: Principles and Implications, 5, 1-18. [[pdf](http://lilianyou.github.io/files/2020-Cheng.pdf)]
   
