@@ -4,8 +4,8 @@ title: "Contact"
 author_profile: true
 ---
 
-* Office: 124A Wilkeson Quad. University at Buffalo, Buffalo, NY 14261
+* Office: New East Building, CB #3140, 223 E Cameron Ave, Chapel Hill, NC 27599-3140
 
-* Email: yeum@buffalo.edu
+* Email: youngeum@unc.edu
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1749.3898959700127!2d-78.7846970172541!3d43.00882456864512!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d37369d828d277%3A0xd31695b976dd5f22!2sWilkeson%20Quadrangle%20-%20University%20at%20Buffalo!5e1!3m2!1sen!2sus!4v1655877150762!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/place/Department+of+City+and+Regional+Planning/@35.9126799,-79.0508077,19z/data=!3m1!4b1!4m5!3m4!1s0x89acc2e9d2f63239:0xa4d41035fcc903b3!8m2!3d35.9126161!4d-79.0504238" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
