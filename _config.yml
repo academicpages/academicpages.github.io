@@ -83,7 +83,7 @@ author:
   name             : "You (Lilian) Cheng"
   avatar           : "lily_uci.png"
   bio              : "Research Fellow at Massachusetts General Hospital & Harvard Medical School"
-  location         : "Irvine, CA, USA"
+  location         : "Cambridge, MA, USA"
   employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=LnggShgAAAAJ&hl=en"
@@ -109,7 +109,7 @@ author:
   researchgate     : "https://www.researchgate.net/profile/You-Cheng-2"
   publons          : "https://publons.com/researcher/4121110/you-cheng"
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "@Lily_You_Cheng" #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
@@ -258,7 +258,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
