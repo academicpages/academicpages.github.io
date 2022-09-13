@@ -28,14 +28,6 @@
   Racial/ethnic disparities in antibiotic use and healthcare utilization,
   2016/2018. *medRxiv* (2021).'
   doi: 10.1101/2021.12.09.21266965
-- citation: 'SM Kissler, JR Fauver, C Mack, **SW Olesen**, C Tai, KY Shiue, CC
-  Kalinich, S Jednak, IM Ott, CBF Vogels, J Wohlgemuth, J Weisberger, J
-  DiFiori, DJ Anderson, J Mancell, DD Ho, ND Grubaugh, YG Grad. Viral dynamics
-  of acute SARS-CoV-2 infection and applications to diagnostic and public
-  health strategies. *PLOS Biology* (2021).'
-  doi: 10.1371/journal.pbio.3001333
-  pmid: 34252080
-  pmcid: PMC8297933
 - citation: 'N Sharara, N Endo, C Duvallet, N Ghaeli, M Matus, J Heussner, **SW
   Olesen**, EJ Alm, PR Chai, TB Erickson. Wastewater network infrastructure in
   public health: Applications and learnings from the COVID-19 pandemic. *PLOS
@@ -43,16 +35,6 @@
   doi: 10.1371/journal.pgph.0000061
   pmid: 34927170
   pmcid: PMC8682811
-- citation: '**SW Olesen**. The impact of mass drug administration of
-  antibiotics on antimicrobial resistance within and between communities.
-  (2021).'
-  pdf: /files/papers/Olesen-MDA-AMR.pdf
-- citation: 'C Duvallet, F Wu, KA McElroy, M Imakaev, N Endo, A Xiao, J Zhang,
-  R Floyd-O’Sullivan, MM Powell, SMendola, ST Wilson, F Cruz, T Melman, CL
-  Sathyanarayana, **SW Olesen**, TB Erickson, N Ghaeli, P Chai, E Alm, M Matus.
-  Nationwide trends in COVID-19 cases and SARS-CoV-2 wastewater concentrations
-  in the United States.  *medRxiv* (2021).'
-  doi: 10.1101/2021.09.08.21263283
 - citation: '**SW Olesen**. Interpreting building-level Covid-19 wastewater
   monitoring data. *figshare* (2021).'
   doi: 10.6084/m9.figshare.16587068
@@ -66,7 +48,7 @@
 - citation: 'DS Sun, SM Kissler, S Kanjilal, **SW Olesen**, M Lipsitch, YH
   Grad. Large variation in the association between seasonal antibiotic use and
   resistance across multiple bacterial species and antibiotic classes.
-  *medRxiv*.'
+  *medRxiv* (2021).'
   doi: 10.1101/2020.12.21.20248670
 - citation: 'SM Kissler, JR Fauver, C Mack, **SW Olesen**, C Tai, KY Shiue, CC
   Kalinich, S Jednak, IM Ott, CBF Vogels, J Wohlgemuth, J Weisberger, J
@@ -75,6 +57,7 @@
   health strategies. *PLOS Biology* (2021).'
   doi: 10.1371/journal.pbio.3001333
   pmid: 34252080
+  pmcid: PMC8297933
 - citation: 'J Chen, A Zaman, B Ramakrishna, **SW Olesen**. Stool banking for
   fecal microbiota transplantation: methods and operations at a large stool
   bank. *Front Cell Infect Microbiol* (2021).'
