@@ -15,7 +15,7 @@ Before that, I completed a PhD in applied mathematics at Centre Borelli, ENS Par
 
 Prior to my thesis, I obtained a master in mathematics, computer vision and machine learning (MVA) at ENS Paris-Saclay.
 
-You can learn more about me, like the fact that I skateboard and climb ;), on my [CV](http://batistelb.github.io/files/cv-new.pdf).
+You can learn more about me, like the fact that I skateboarding and climbing ;-), on my [CV](http://batistelb.github.io/files/cv-new.pdf).
 
 ### Research interests
 
