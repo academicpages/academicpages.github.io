@@ -17,6 +17,9 @@ main:
     
   - title: "CV"
     url: /Angadh_CV.pdf
+
+  - title: "Dynamics Textbook"
+    url: /ComputationalDynamics/kinematics/introduction.html
     
     #- title: "Guide"
     #url: /markdown/
