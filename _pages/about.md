@@ -21,9 +21,13 @@ If you need CSS-related talks or workshops, please feel free to contact me direc
 
 [Click Here to See Data Visualization on Segregation for the AJS Article](https://yongjunzhang.shinyapps.io/schsegapp/).
 
+## Incoming Students
+
+If you are interested in working with me at Stony Brook, feel free to apply for our program. You can also check this amazing [IACS graduate fellowship](https://iacs.stonybrook.edu/opportunities/fellowships/Graduate-Fellowships). 
+
 ## Summer CSS Workshop
 
-I am teaching intro to css for NYU Shanghai this July. Check here for [the syllabus](https://yongjunzhang.com/files/CSS_Intro_NYU_Shanghai_Syllabus.pdf). 
+I am teaching intro to css for NYU Shanghai. Check here for [the syllabus](https://yongjunzhang.com/files/CSS_Intro_NYU_Shanghai_Syllabus.pdf). 
 
 ## Call for Papers
 
