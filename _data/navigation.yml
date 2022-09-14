@@ -1,25 +1,25 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://angadhn.github.io/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: https://angadhn.github.io/talks/    
 
     #- title: "Teaching"
     #url: /teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: https://angadhn.github.io/portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Writing"
+    url: https://publish.obsidian.md/angadhnotesblog #https://angadhn.github.io/year-archive/
     
   - title: "CV"
-    url: /Angadh_CV.pdf
+    url: https://angadhn.github.io/Angadh_CV.pdf
 
   - title: "Dynamics Textbook"
-    url: /ComputationalDynamics/kinematics/introduction.html
+    url: https://angadhn.github.io/ComputationalDynamics/kinematics/introduction.html
     
     #- title: "Guide"
     #url: /markdown/
