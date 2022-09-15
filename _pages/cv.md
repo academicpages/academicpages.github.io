@@ -21,19 +21,23 @@ Publications
 
 Presentations 
 ======
-* 2021 : Oral presentation at NNF Symposium 2021 on "Local Landscape and Outlook Regarding Solutions to Antimicrobial Resistance Challenges".
-* 2021 : Poster presentation at the 6th Annual Danish Bioinformatics Conference
-* 2021 : Oral presentation at VEO Symposium 2021
+* 2022: Oral presentation at DTU Microbe Initiative Conference 2022 titled "Large-scale analysis of 214K metagenomes for antimicrobial resistance surveillance".
+* 2022 : Poster presentation at ISME18.
+* 2022 : Poster presentation at ASM Microbe 2022. 
+* 2021 : Oral presentation at NNF Symposium 2021 on "Local Landscape and Outlook Regarding Solutions to Antimicrobial Resistance Challenges" titled "Global distribution of AMR gene variants in 214,095 metagenomic samples".
+* 2021 : Poster presentation at the 6th Annual Danish Bioinformatics Conference.
+* 2021 : Oral presentation at VEO Symposium 2021 titled "Using publicly available metagenomes to describe the distribution of *mcr* gene variants".
 * 2020 : Oral presentation at the ASM Conference on Rapid Applied Microbial Next-Generation Sequencing and Bioinformatic Pipelines.
 * 2020 : Poster presentation at the Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies virtual conference.
 
 Teaching & Supervision
 ======
+* 2022 : Lecture for students at University of Vic on "Fighting antimicrobial resistance with genomic surveillance".
 * 2022 : Lecture on Inferring Correlations with Compositional Data in the master course <a href="https://kurser.dtu.dk/course/23257" target="_blank">Compositional Data Analysis with Applications in Genomics</a>
 * 2021 : Lecture on Compositional Data Analysis in Metagenomics in the master couse <a href="https://kurser.dtu.dk/course/23260"> 23260 Applied methods in metagenomics</a>
-* 2021: Teaching Assistant in the master course <a href="https://kurser.dtu.dk/course/23257" target="_blank">Compositional Data Analysis with Applications in Genomics</a>
-* 2021: Co-supervision of Master thesis project focusing on autmoating the discovery of novel AMR gene variants in sewage samples. 
-* 2020: Co-supervision of Bachelor thesis project on the topic of distribution and propagation of AMR genes in historical metagenomic data.
+* 2021 : Teaching Assistant in the master course <a href="https://kurser.dtu.dk/course/23257" target="_blank">Compositional Data Analysis with Applications in Genomics</a>
+* 2021 : Co-supervision of Master thesis project focusing on autmoating the discovery of novel AMR gene variants in sewage samples. 
+* 2020 : Co-supervision of Bachelor thesis project on the topic of distribution and propagation of AMR genes in historical metagenomic data.
 
 Skills
 ======
@@ -50,7 +54,7 @@ Work experience
 
 Projects
 ======
-* <a href="https://github.com/hmmartiny/Predicting-Gene-Expression" target="_blank">Deep protein representations enable recombinant protein expression</a> (2019-2021): Originally my Master thesis project, where the goal was to predict recombinant gene expression using deep learning methods. After I finished in 2019, we wrote the findings into a <a href="https://www.biorxiv.org/content/10.1101/2021.05.13.443426v1.full#fn-1" target="_blank">paper that is currently out on bioRxiv</a>.
+* <a href="https://github.com/hmmartiny/Predicting-Gene-Expression" target="_blank">Deep protein representations enable recombinant protein expression</a> (2019-2021): Originally my Master thesis project, where the goal was to predict recombinant gene expression using deep learning methods. After I finished in 2019, we wrote the findings into a <a href="https://www.sciencedirect.com/science/article/pii/S1476927121001663" target="_blank">paper that has been published in Computational Biology and Chemistry</a>.
 * <a href="https://github.com/mari756h/The_unemployed_cells" targeT="_blank">The Language of Life</a> (2018-2019): applying deep learning methods to predict amino acids in protein sequences. Project originally started as part of the course <a href="https://kurser.dtu.dk/course/02456" target="_blank">02456 Deep Learning</a> at DTU. Applied Word2Vec and CNNs to protein sequence data.
 * <a href="http://2018.igem.org/Team:DTU-Denmark">iGEM 2018: Hyphae Hackers, DTU Biobuilders.</a> Participiated in 2018 as part of the team at Technical University of Denmark. The project investigated how we can use mycelium from fungi as building materials, where I personally worked on <a href="http://2018.igem.org/Team:DTU-Denmark/GrowthModelling" targeT="_blank">modelling of hyphal growth</a>, and was part of the design team for the webpage.
 * <a href="https://github.com/hmmartiny/Microbesoft" targeT="_blank">Microbesoft</a> (2018): a command-line tool to visualize alignment files. The project built as part of participiating in Copenhacks 2018, a hackathon held in Copenhagen for students, where our team won 2nd place.
