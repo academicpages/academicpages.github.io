@@ -20,7 +20,7 @@ title: ""
 
 # Work in Progress
 
-* “Beliefs about Uncertain Technologies: Experimental Evidence from a Coordination Game in Peru” (with Jim Engle-Warnick, Javier Escobal, and Sonia Laszlo)
+* “The Role of Active Discussion in Learning about Uncertain Technologies” (with Jim Engle-Warnick, Javier Escobal, and Sonia Laszlo)
 * “Microinsurance for the Poor: Long-Term Follow Up” (with Matthieu Chemin)
 * “Assessing the Impact of Judicial Independence in Developing Countries: Evidence from Rural Bangladesh” (with Matthieu Chemin)
 
