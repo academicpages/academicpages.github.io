@@ -33,7 +33,7 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 * [Feb. 2021] Got one paper accepted at WWW 2021. 
 * [Aug. 2020] Got one paper accepted at EMNLP 2020. 
 </font> -->
-* [Sep. 2022] Invited Talk (on-line) @ [SAP](https://www.sap.com/index.html) Headquarter, Germany
+* [Sep. 2022] Invited Talk (on-line) @ [SAP](https://www.sap.com/products/artificial-intelligence.html) Headquarter, Germany
 * [Jul. 2022] I will attend [NAACL 2022](https://2022.naacl.org/) in person to orally present our works and look forward to meeting new/old friends in Seattle.
 * [Apr. 2022] [Transferability of Prompt Tuning](https://aclanthology.org/2022.naacl-main.290/) and [Knowledge Inheritance](https://aclanthology.org/2022.naacl-main.288/) are accepted to [NAACL 2022](https://2022.naacl.org/).
 
@@ -81,7 +81,7 @@ ArXiv. [[pdf]](https://arxiv.org/abs/2203.06904)
 
 
 ## Talks
-* [Sep. 2022] Invited Talk (on-line) @ [SAP](https://www.sap.com/index.html) Headquarter, Germany
+* [Sep. 2022] Invited Talk (on-line) @ [SAP](https://www.sap.com/products/artificial-intelligence.html) Headquarter, Germany
 * [Jul. 2022] Oral Talk (in persion) @ NAACL 2022, [[slide]](https://drive.google.com/file/d/1OSmU3s7DOv-Gux5JcjuY0w79MzRRJuiA/view?usp=sharing) [[video]](https://www.youtube.com/watch?v=KVgmtgMQ3ig)
 * [Apr. 2021] Spotlight Talks (on-line) @ WWW 2021 (Self-Supervised Learning Workshop)
 
