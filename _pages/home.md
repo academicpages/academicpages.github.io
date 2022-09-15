@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: Avra
 permalink: /
 excerpt: "Avratanu Biswas"
 author_profile: true
