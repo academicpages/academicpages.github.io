@@ -8,13 +8,13 @@ main:
     url: https://solennegaucher.github.io/#talks
     
    - title: "PhD dissertaition"
-    url: ../thesis.pdf
+    url: https://solennegaucher.github.io/files/thesis.pdf
     
    - title: "Education"
     url: https://solennegaucher.github.io/#education
     
     - title: "CV"
-    url: ../CV.pdf
+    url: https://solennegaucher.github.io/files/CV.pdf
     
  # - title: "Portfolio"
   #  url: /portfolio/
