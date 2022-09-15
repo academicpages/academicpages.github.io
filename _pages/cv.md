@@ -11,7 +11,7 @@ redirect_from:
 
 Download
 ======
-Download resume [here](http://artemisp.github.io/files/CV.pdf)
+Download resume [here](http://artemisp.github.io/files/resume.pdf)
 <!-- and the abridged resume [here](http://artemisp.github.io/files/resume.pdf) -->
 
 
