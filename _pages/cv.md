@@ -101,7 +101,3 @@ Leadership and Activities
   * Led an end-to-end application development project aimed to automate networking and scheduling for the symposium.
   * Managed team of 3 developers with bi-weekly Agile sprints to build the Android application.
   * Designed and built core backend, UI, and testing infrastructure.
-<!-- * Artificial Intelligence Journal Club (Jan - Aug, 2018)
-  * Led an end-to-end application development project aimed to automate networking and scheduling for the symposium.
-  * Managed team of 3 developers with bi-weekly Agile sprints to build the Android application.
-  * Designed and built core backend, UI, and testing infrastructure. -->
