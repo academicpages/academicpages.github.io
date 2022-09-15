@@ -3,7 +3,7 @@ permalink: /pix/
 title: "Pictures"
 ---
 
-Here are some random photos of travels, goings on, and cats:
+## Here are some random photos of travels, goings on, and cats:
 
 Kikko is just gorgeous 2022:
 ![](/images/kikko2022.jpg)
