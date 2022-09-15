@@ -8,7 +8,7 @@ main:
     url: https://solennegaucher.github.io/#talks
     
    - title: "PhD dissertaition"
-    url: https://solennegaucher.github.io/#phd-dissertation
+    url: ../thesis.pdf
     
    - title: "Education"
     url: https://solennegaucher.github.io/#education
