@@ -91,12 +91,8 @@ Leadership and Activities
 
 * Alexa Taskbot Challenge: Team Co-Lead (Aug, 2021-May, 2022)
   * Co-Lead University of Pennsylvania's Team for the Alexa Taskbot Challenge. We implemented a live Alexa Skill that guides users through tasks and recipes. Our team was one of the five finalists!
-<!-- * Scavenger Hunt Robot: HRI Team  (Aug - Dec, 2019)
-  * Built a HRI system that incorporates voice commands and a scratch-like interface for the operation of a robot performing tasks specified at the UT Austin Scavenger Hunt competition.  -->
 * Mind, Intelligence, Research, and Analysis (MIRA) Group  (May, 2018 - Aug, 2019)
   * Graduate philosophy research and training group focused on issues in philosophy of mind and language, cognitive science, and epistemology led by Professor Lisa Miracchi.
-<!-- * Women in Computer Science (WiCS) (Jan - May 2019)
-  * Acted as a mentor to freshman female computer science majors.   -->
 * Ivy League Undergraduate Research Symposium (Jan - Aug, 2018)
   * Led an end-to-end application development project aimed to automate networking and scheduling for the symposium.
   * Managed team of 3 developers with bi-weekly Agile sprints to build the Android application.
