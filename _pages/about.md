@@ -18,9 +18,9 @@ redirect_from:
 
 **Fair learning with Wasserstein barycenters for non-decomposable performance measures** (2022) S. Gaucher, N. Schreuder, E. Chzhen [Preprint on Arxiv](https://arxiv.org/abs/2209.00427)
 
-**The price of unfairness in linear bandits with biased feedback** (2022), S. Gaucher, A. Carpentier, C. Giraud. To appear in NeurIPs 2022, [preprint on Hall](https://hal.archives-ouvertes.fr/hal-03611628)
+**The price of unfairness in linear bandits with biased feedback** (2022), S. Gaucher, A. Carpentier, C. Giraud. To appear in NeurIPS 2022, [preprint on Hall](https://hal.archives-ouvertes.fr/hal-03611628)
 
-**Hierarchical transfer learning with applications for electricity load forecasting** (2021), A. Antoniadis, S. Gaucher, Y. Goude. [Preprint on HAL](https://hal.archives-ouvertes.fr/hal-03429702)
+**Hierarchical transfer learning with applicatSions for electricity load forecasting** (2021), A. Antoniadis, S. Gaucher, Y. Goude. [Preprint on HAL](https://hal.archives-ouvertes.fr/hal-03429702)
 
 **Finite Continuum-Armed Bandits** (2020), S. Gaucher. [NeuRIPS 2020](https://proceedings.neurips.cc/paper/2020/file/20c86a628232a67e7bd46f76fba7ce12-Paper.pdf), [Short Presentation](https://slideslive.com/s/solenne-gaucher-43495), [Poster](../FCAB.pdf)
 
