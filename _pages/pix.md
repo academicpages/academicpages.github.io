@@ -3,7 +3,10 @@ permalink: /pix/
 title: "Pictures"
 ---
 
+Here are some random photos of travels, goings on, and cats:
 
+Kikko is just gorgeous 2022:
+![](/images/kikko2022.jpg)
 
 Maui 2022:
 ![](/images/maui.jpg)
@@ -17,7 +20,7 @@ Munich 2021:
 Go bucks:
 ![](/images/bucks.jpg)
 
-Biggest bonfire I've ever seen:
+Biggest bonfire I've ever seen 2021:
 ![](/images/fire.jpg)
 
 Mammouth Cave 2021:
@@ -38,7 +41,7 @@ Me fishing from the campsite 2020:
 My Dad and I rode from Rhode Island to Acadia National Park 2020: 
 ![](/images/motopic.jpg)
 
-Night hike 2019:
+Winter Night hike 2019:
 ![](/images/hike.jpg)
 
 I love to go clamming 2019:
@@ -50,7 +53,7 @@ Fly fishing in The Blue Mountains 2019:
 Denver Art Museum (2019):
 ![](/images/denver.jpg)
 
-Baby kikko:
+Baby kikko 2019:
 ![](/images/kikko1.JPG)
 
 Maine 2018:
@@ -89,7 +92,7 @@ Getting towed in the lake:
 Oahu 2017:
 ![](/images/oahu2017.JPG)
 
-Amanda and I when we were quite a bit younger:
+Amanda and I:
 ![](/images/wed.jpg)
 
 My friend Chris and I tried to bike from Columbus to Cincinatti in 2016:
