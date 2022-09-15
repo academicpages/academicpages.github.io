@@ -13,6 +13,9 @@ main:
    - title: "Education"
     url: https://solennegaucher.github.io/#education
     
+    - title: "CV"
+    url: ../thesis.pdf
+    
  # - title: "Portfolio"
   #  url: /portfolio/
         
