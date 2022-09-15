@@ -21,8 +21,8 @@ Another curious being, who is interested in science, politics and happenings in 
 <br/>
 <hr width="50%" />
 ## Updates
-- ✨ Our scientific paper on open-source python package, [Stmol](https://github.com/napoles-uach/stmol) has been accepted. Find out more [here](https://www.frontiersin.org/articles/10.3389/fmolb.2022.990846/full?utm_source=F-NTF&utm_medium=EMLX&utm_campaign=PRD_FEOPS_20170000_ARTICLE)
-- ✨ [Stspeckmol](https://github.com/avrabyt/st-speckmol)python package - A Streamlit Component for creating Speck molecular structures within Streamlit Web app.Try out the demo app [here](https://avrabyt-specklit-app-ne6j5t.streamlitapp.com)🚀
+- Our scientific paper on open-source python package, [Stmol](https://github.com/napoles-uach/stmol) has been accepted. Find out more [here](https://www.frontiersin.org/articles/10.3389/fmolb.2022.990846/full?utm_source=F-NTF&utm_medium=EMLX&utm_campaign=PRD_FEOPS_20170000_ARTICLE)✨ 
+- [Stspeckmol](https://github.com/avrabyt/st-speckmol) python package - A Streamlit Component for creating Speck molecular structures within Streamlit Web app.Try out the demo app [here](https://avrabyt-specklit-app-ne6j5t.streamlitapp.com)🚀
 - 🔨 Pre-release of [cats-and-codes](https://avratanubiswas.github.io/cats-and-codes/)✨ 🚀
 - Would you like to search for scientific keywords and obiatin it's related analytics from publications to authors? Here's link to one of my [*code for fun*](https://avratanubiswas.github.io/cats-and-codes/) project, a web-app, called [PubLit](https://share.streamlit.io/avratanubiswas/publit/main/publit.py) 🚀
 - Mar 2022: Two of my co-authored articles got accepted in [Plant Physiology](https://academic.oup.com/plphys) journal!🎉(details in the [Publications](https://avratanubiswas.github.io/publications/) page).
