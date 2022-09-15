@@ -237,7 +237,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      permalink: /:title
   # _teaching
   - scope:
       path: ""
