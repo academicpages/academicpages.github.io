@@ -136,6 +136,8 @@ author_profile: false
 </ul>
 
 **_More blog posts will be updated soonish. Happy to host more, therefore feel free to write to me if you are interested. Also the website development is in progress, so don't hesistate to report any bug [here](https://github.com/academicpages/academicpages.github.io/pull/915)_**
+
+**_Find more data science and web-development related videos on my [youtube channel](https://www.youtube.com/c/Avra_b/videos)_**
 <section class="page__share">
   {% if site.data.ui-text[site.locale].share_on_label %}
     <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "Share on" }}</h4>
