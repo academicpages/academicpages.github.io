@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Cats & Codes"
-permalink: //cats-and-codes/
+permalink: /cats-and-codes/
 author_profile: false
 --- 
 <!-- Displaying categories -->
