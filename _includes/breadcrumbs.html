@@ -31,7 +31,7 @@
       {% else %}
         {% assign i = i | plus: 1 %}
         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-          <a href="{{ base_path }}{{ crumb | downcase | replace: '%20', '-' | prepend: path_type | prepend: crumb_path }}" itemprop="item"><span itemprop="name">{{ crumb | replace: '-', ' ' | replace: '%20', ' ' | capitalize }}</span></a>
+          <a href="{{ base_path }}{{ crumb | downcase | replace: '%20', '-' | prepend: path_type | prepend: crumb_path | append: '/'}}" itemprop="item"><span itemprop="name">{{ crumb | replace: '-', ' ' | replace: '%20', ' ' | capitalize }}</span></a>
           <meta itemprop="position" content="{{ i }}" />
         </li>
         <span class="sep">{{ site.data.ui-text[site.locale].breadcrumb_separator | default: "/" }}</span>
