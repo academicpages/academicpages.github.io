@@ -5,6 +5,9 @@ main:
 
   - title: "Talks"
     url: https://solennegaucher.github.io/#talks
+  
+  - title: "CV"
+    url: https://solennegaucher.github.io/CV.pdf
     
  # - title: "Portfolio"
   #  url: /portfolio/
