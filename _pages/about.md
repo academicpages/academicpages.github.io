@@ -15,7 +15,7 @@ Feel free to reach out to me, if you have any inquries!
 You can also check out <a href="/cv/" targeT="_blank">my CV here</a>.
 
 Publications:
-{% for post in site.publications %} {% include archive-single-cv.html %} {% endfor %}
+{% for post in site.publications reversed %} {% include archive-single-cv.html %} {% endfor %}
 
 In case you came looking for the documentation on the 214K metagenomic data collection, which we shared on Zenodo, go here:
 https://hmmartiny.github.io/mARG/
