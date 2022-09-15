@@ -27,7 +27,7 @@
         <span class="sep">{{ site.data.ui-text[site.locale].breadcrumb_separator | default: "/" }}</span>
       {% endif %}
       {% if forloop.last %}
-        <li class="current">{{ page.title | append "/ }}</li>
+        <li class="current">{{ page.title | append "/" }}</li>
       {% else %}
         {% assign i = i | plus: 1 %}
         <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
