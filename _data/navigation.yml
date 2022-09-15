@@ -1,20 +1,13 @@
 # main links links
 main:
-
   - title: "Papers"
     url: https://solennegaucher.github.io/#papers
 
   - title: "Talks"
     url: https://solennegaucher.github.io/#talks
     
-   - title: "PhD dissertaition"
-    url: https://solennegaucher.github.io/thesis.pdf
-    
    - title: "Education"
     url: https://solennegaucher.github.io/#education
-    
-    - title: "CV"
-    url: https://solennegaucher.github.io/CV.pdf
     
  # - title: "Portfolio"
   #  url: /portfolio/
