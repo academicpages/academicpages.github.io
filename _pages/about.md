@@ -54,21 +54,7 @@ R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020)
 
 **Estimation of Sparse Networks**, October 25. 2018, Network Days II, Orsay.
 
-# PhD dissertation
-
-[**Contributions to stochastic bandits and link prediction problems**](../thesis.pdf) (2022) S. Gaucher
-
-# Teaching 
-
-**Rappels de Statistiques Mathématiques**, Master Spécialisé, ENSAE, 2018-2019. [Link](https://sites.google.com/site/vincentcottet/2-teaching) to the page of the course.
-
-**Introduction to Machine Learning**, 2nd year students, ENSAE, 2019-2020. [Link](https://www.ensae.fr/courses/statistique-1/) to the page of the course.
-
-**Statistiques 1**, 2nd year students, ENSAE, 2018-2020. [Link](https://www.ensae.fr/courses/introduction-au-machine-learning/) to the page of the course.
-
 # Education
-
-[Curriculum Vitae](../CV.pdf)
 
 * PhD, Laboratoire de Mathématiques d'Orsay, Université Paris-Saclay, Orsay, France, 2018-2022.
 
@@ -79,5 +65,13 @@ R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020)
 * Classe Préparatoire aux Grandes Écoles, Lycée Hoche, Versailles, France, 2012-2014.
 
 * Baccalauréat Franco-Allemand, option scientifique, Lycée Franco-Allemand, Buc, France, 2012.
+
+# Past teaching 
+
+**Rappels de Statistiques Mathématiques**, Master Spécialisé, ENSAE, 2018-2019. [Link](https://sites.google.com/site/vincentcottet/2-teaching) to the page of the course.
+
+**Introduction to Machine Learning**, 2nd year students, ENSAE, 2019-2020. [Link](https://www.ensae.fr/courses/statistique-1/) to the page of the course.
+
+**Statistiques 1**, 2nd year students, ENSAE, 2018-2020. [Link](https://www.ensae.fr/courses/introduction-au-machine-learning/) to the page of the course.
 
 
