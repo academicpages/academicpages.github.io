@@ -79,6 +79,8 @@ EMNLP 2020 Findings, AI OPEN 2021. [[pdf]](https://arxiv.org/abs/2009.13964) [[p
 ArXiv. [[pdf]](https://arxiv.org/abs/2203.06904)
 
 
+## Teaching
+* [Jul. 2022] Tsinghu University - NLP Big Model Course (Summer) [link](https://www.bilibili.com/video/BV1UG411p7zv?p=1&unique_k=OwC3PgP)
 
 ## Talks
 * [Sep. 2022] Invited Talk (on-line) @ [SAP](https://www.sap.com/products/artificial-intelligence.html) Headquarter, Germany
