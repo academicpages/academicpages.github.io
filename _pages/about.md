@@ -11,7 +11,7 @@ redirect_from:
 I am Yusheng Su, a Ph.D. student in [THUNLP Lab](https://twitter.com/tsinghuanlp), the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am advised by [Prof. Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW). 
 
 
-My research interests lie within the intersection of Natural Language Processing and Machine Learning. At the current stage, I am particularly studying how to effectively and efficiently adapt pre-trained language models (PLMs) to complex downstream tasks. To achieve these goals, I specifically focus on knowledge-guided methods, transfer learning, in-context learning, and parameter-efficient tuning.
+My research interests lie within the intersection of Natural Language Processing and Machine Learning, particularly in pre-trained language models (PLMs). At the current stage, I am particularly studying how to effectively and efficiently adapt PLMs to complex downstream tasks. To achieve these goals, I specifically focus on knowledge-guided methods, transfer learning, in-context learning, and parameter-efficient tuning.
 
 <!--You can find my CV [here](/cv/).-->
 
