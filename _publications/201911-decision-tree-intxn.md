@@ -2,7 +2,7 @@
 title: "Decision tree model for extracting road intersection feature from vehicle trajectory data"
 collection: publications
 permalink: /publication/201911-decision-tree-intxn
-excerpt: 'Crowd sourcing vehicle trajectory data imply the latest road network information. Therefore, studies on the extraction of road features from trajectory data provide the opportunity for efficient construction and renewal of road datasets. Since a road network is composed of road intersections and road segments, the extraction of road intersections plays an important role in road network generation. Due to the lack of accurate mechanisms for intersection extraction, problems such as omission and distortion of road intersections occur frequently. A method is proposed to identify and extract road intersections from vehicle trajectory data. Firstly, it is analyzed that the differences in shape and kinetic features between trajectories from intersection areas and non-intersection areas. Secondly, the decision tree method is employed to construct a trajectory segment classification model, which enables the extraction of lane-changing segments in intersection areas with the support of trajectory division model using a sliding window strategy. Thirdly, a method that based on Hausdorff distance is designed to cluster trajectory segments in intersection areas, and intersection structures are obtained by extracting the central lines of the trajectory segment clusters. Experiments on real-life trajectory datasets were implemented and results showed the effectiveness of the proposed method.'
+excerpt: ''
 date: 2019-11-01
 venue: 'Acta Geodaetica et Cartographica Sinica'
 paperurl: 'http://xb.chinasmp.com/EN/10.11947/j.AGCS.2019.20190011'
