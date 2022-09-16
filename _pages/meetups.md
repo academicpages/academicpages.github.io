@@ -12,7 +12,7 @@ Upcoming events
 
 | Date | Title | Speaker | Zoom | Add to Google Calendar | RSVP | Content |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| September 28, 2022<br>Wednesday, 4:00 PM (UK) | **Security Implications of Large Language Model Code Assistants** | [Brendan Dolan-Gavitt](https://moyix.net/) | [Zoom](https://us06web.zoom.us/j/85930986330?pwd=VEZrZmp0QWxEZzZFb1hOaXJybTZkZz09) | [Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=cXRzMzJocmlpZ2FhN2M0aGFmaDJtNmNzc3Mga29uc3RhbnRpbmFAYmxvb3AuYWk&tmsrc=konstantina%40bloop.ai) | [lu.ma](https://lu.ma/vi5w46ng) | [Slides](t.b.a.) [Video](t.b.a.) |
+| September 28, 2022<br>Wednesday, 4:00 PM (UK) | **Security Implications of Large Language Model Code Assistants** | [Brendan Dolan-Gavitt](https://moyix.net/) | [Zoom](https://us06web.zoom.us/j/85930986330?pwd=VEZrZmp0QWxEZzZFb1hOaXJybTZkZz09) | [Calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=cXRzMzJocmlpZ2FhN2M0aGFmaDJtNmNzc3Mga29uc3RhbnRpbmFAYmxvb3AuYWk&tmsrc=konstantina%40bloop.ai) | [lu.ma](https://lu.ma/vi5w46ng) | t.b.a. |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 <br>
