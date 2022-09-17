@@ -27,7 +27,7 @@ Using reconstructions of the gravitational lensing of the Cosmic Microwave Bakcg
 see [here](https://gerrfarr.github.io/publication/Axion_kSZ) for associated publication
 
 ### Determining H0 without reference to the sound horizon
-There are three publications associated with this work. Two by lead by [Oliver Philcox](https://oliverphilcox.github.io/) ([Paper I](https://gerrfarr.github.io/publication/H0_wo_sound_horizon_I) and [Paper III](https://gerrfarr.github.io/publication/H0_wo_sound_horizon_III)) and one led by myself ([Paper II](https://gerrfarr.github.io/publication/H0_wo_sound_horizon_II)). 
+There are three publications associated with this work. Two led by [Oliver Philcox](https://oliverphilcox.github.io/) ([Paper I](https://gerrfarr.github.io/publication/H0_wo_sound_horizon_I) and [Paper III](https://gerrfarr.github.io/publication/H0_wo_sound_horizon_III)) and one led by myself ([Paper II](https://gerrfarr.github.io/publication/H0_wo_sound_horizon_II)). 
 
 ### Confirming point source flux callibration for multiple groundbased microwave experiments
 see [here](https://gerrfarr.github.io/publication/ACT_ALMA_Planck_point_sources) for associated publication
