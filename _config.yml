@@ -86,9 +86,9 @@ author:
   location         : "Cambridge, United Kingdom"
   employer         :
   pubmed           : 
-  googlescholar    : https://scholar.google.com/citations?user=JeUYYOUAAAAJ&hl=en&oi=ao
+  googlescholar    : "https://scholar.google.com/citations?user=JeUYYOUAAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     : 
+  researchgate     : "https://www.researchgate.net/profile/Gerrit_Farren"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : gerrfarr
+  github           : "gerrfarr"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : https://orcid.org/0000-0001-5704-1127
+  orcid            : "https://orcid.org/0000-0001-5704-1127"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "farren_gerrit"
   vine             :
   weibo            :
   xing             :
