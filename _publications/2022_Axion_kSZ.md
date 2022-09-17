@@ -1,5 +1,5 @@
 ---
-title: "Probing ultra-light axion dark matter with the kinetic SZ effect (in preparation)"
+title: "Probing ultra-light axion dark matter with the kinetic SZ effect"
 collection: publications
 permalink: /publication/Axion_kSZ
 date: 2022-03-01

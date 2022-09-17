@@ -1,5 +1,5 @@
 ---
-title: "Determining the Hubble Constant without the Sound Horizon: Measurements from Galaxy Surveys"
+title: "Determining the Hubble Constant without the Sound Horizon: A 3.6\% constraint on the Hubble rate from Galaxy Surveys, CMB Lensing and Supernovae"
 collection: publications
 permalink: /publication/H0_wo_sound_horizon_III
 date: 2021-01-29
