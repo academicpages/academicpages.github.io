@@ -39,7 +39,7 @@ News
 Journal paper
 ------
 1. **Canqi Yao**, Shibo Chen, and Zaiyue Yang, "Online Distributed Routing Problem of Electric Vehicles," in IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 9, pp. 16330-16341, Sept. 2022.[[link]](https://ieeexplore.ieee.org/document/9713755)
-2. **Canqi Yao**, Shibo Chen, and Zaiyue Yang, "Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm." IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 7, pp. 8184-8193, July 2022. [[link]](https://ieeexplore.ieee.org/document/9430759)
+2. **Canqi Yao**, Shibo Chen, and Zaiyue Yang, "Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm." in IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 7, pp. 8184-8193, July 2022. [[link]](https://ieeexplore.ieee.org/document/9430759)
 
 
 
