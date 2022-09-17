@@ -15,7 +15,8 @@ My research interestes lie (mainly) in the field of theoretical cosmology. In pa
 # Current Projects
 ---
 
-### Measuring using cross-correlation of ACT lensing with the unWISE galaxy survey
+### Testing structure formation using cross-correlation of ACT lensing with the unWISE galaxy survey
+Using reconstructions of the gravitational lensing of the Cosmic Microwave Bakcground (CMB) from observations made with the Atacama Cosmology Telescope (ACT) and surveys of the galaxy distributions from the unWISE survey we probe the amplitude of structure growth in the universe.
 
 
 # Past Projects 
