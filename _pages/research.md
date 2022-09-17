@@ -15,9 +15,18 @@ My research interestes lie (mainly) in the field of theoretical cosmology. In pa
 # Current Projects
 ---
 
-### Probing ultra-light axions with the kinetic Sunyaev-Zeldovich effect
+### Measuring using cross-correlation of ACT lensing with the unWISE galaxy survey
 
-### Determining H0 without reference to the sound horizon 
 
-### Measuring <img src="https://render.githubusercontent.com/render/math?math=\sigma_8"> using cross-correlation of ACT lensing with the unWISE galaxy survey
+# Past Projects 
+---
+
+### Probing ultra-light axions with the kinetic Sunyaev-Zeldovich effect 
+see [here](https://gerrfarr.github.io/publication/Axion_kSZ) for associated publication
+
+### Determining H0 without reference to the sound horizon
+There are three publications associated with this work. Two by lead by [Oliver Philcox](https://oliverphilcox.github.io/) ([Paper I](https://gerrfarr.github.io/publication/H0_wo_sound_horizon_I) and [Paper III](https://gerrfarr.github.io/publication/H0_wo_sound_horizon_III)) and one led by my ([Paper II](https://gerrfarr.github.io/publication/H0_wo_sound_horizon_I)). 
+
+### Confirming point source flux callibration for multiple groundbased microwave experiments
+see [here](https://gerrfarr.github.io/publication/ACT_ALMA_Planck_point_sources) for associated publication
 

@@ -1,5 +1,5 @@
 ---
-title: "Confirming the Calibration of ALMA Using Planck Observations (accepted to ApJS)"
+title: "Confirming the Calibration of ALMA Using Planck Observations"
 collection: publications
 permalink: /publication/ACT_ALMA_Planck_point_sources
 date: 2021-09-01
