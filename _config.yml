@@ -86,9 +86,9 @@ author:
   location         : "Cambridge, United Kingdom"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=JeUYYOUAAAAJ&hl=en&oi=ao"
+  googlescholar    : https://scholar.google.com/citations?user=JeUYYOUAAAAJ&hl=en&oi=ao
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Gerrit_Farren"
+  researchgate     : https://www.researchgate.net/profile/Gerrit_Farren
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "gerrfarr"
+  github           : gerrfarr
   google_plus      :
   keybase          :
   instagram        :
