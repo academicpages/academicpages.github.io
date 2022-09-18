@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 <table width="100%" border="0" align="left" cellpadding="10" cellspacing="0" rowspan="26">
-<tbody><tr class="txt">
+<tbody>
+      <tr class="txt">
       <td width="20%" valign="top">
             <img src="https://yongjinliu.github.io/images/IMG_lvlu.jpg" width="113" height="139">
       </td>
@@ -168,20 +169,25 @@ redirect_from:
       <td width="80%" valign="top">              叶子鹏，2017级直博生，本科：清华大学</td>
       </tr>
       <tr class="txt">
+      <td width="20%" valign="top">
+            <img src="https://yongjinliu.github.io/images/IMG_zhangshu.jpg" width="113" height="139">
+      </td>
+      <td width="80%" valign="top">              张澍，研究助理（2020-2022），本科：济南大学，硕士：中国科学院心理研究所。（现在德国Max Planck Institute for Biological Cybernetics从事视觉心理物理学方向博士生）</td>
+      </tr>
+      <tr class="txt">
+      <td width="20%" valign="top">
+            <img src="images/IMG_quche.jpg" width="113" height="139">
+      </td>
+      <td width="80%" valign="top">              屈澈，访问学者（2021-2022），本科&amp;博士：复旦大学</td>
+      </tr>
+      <tr class="txt">
             <td width="20%" valign="top">
                   工作或在读：
                   <b></b>
                   <b></b>
             </td>
       <td width="80%" valign="top"> 
-            温玉辉，刘心阁，周超，张澍，刘舫，刘淮松，韩义恒，赵旺，舒叶芷，夏萌霏，杨培，孙亚男，詹昊哲，孙志尧，樊若雨，林裕鸿
+            温玉辉，刘心阁，周超，刘舫，刘淮松，韩义恒，赵旺，舒叶芷，夏萌霏，杨培，孙亚男，詹昊哲，孙志尧，樊若雨，林裕鸿，胡钰彬，嵇文麒，刘梓熙，吕天，叶盛，刘妮琦，何雨泽
       </td>
       </tr>
-      <tr class="txt">
-            <td width="20%" valign="top">
-                  &nbsp;
-            </td>
-      <td width="80%" valign="top"> &nbsp; </td>
-      </tr>
-            
 </tbody></table>
