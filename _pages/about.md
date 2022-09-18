@@ -40,6 +40,8 @@ April 6, 2022, Conversation with Professor Chris Bail at Duke University, Direct
 
 November 10, 2022, Conversation with Visiting Professor Esteban Moro at MIT Media Lab. Sponsored by IACS at Stony Brook University.
 
+November 4, 2022, Conversation with Assitant Professor Rebecca Johnson at Georgetown McCourt School of Public Policy. Sponsored by Sociology at Stony Brook University.
+
 ## New Paper Alert
 Yongjun Zhang and Jennifer Heerwig. 2022. "[Gender, Race, and Intersectionality in Campaign Cash to the U.S. Congress, 1990-2014.](https://journals.sagepub.com/doi/full/10.1177/23780231221121063)" Socius.
 
