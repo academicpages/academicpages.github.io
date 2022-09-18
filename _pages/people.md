@@ -22,11 +22,11 @@ redirect_from:
       <tr class="txt">
       <td width="20%" valign="top">
             <table border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr><td><img src="imgs/photo_corner_1.gif"></td><td background="imgs/photo_back_top.gif"></td><td><img src="imgs/photo_corner_2.gif"></td></tr>
-            <tr><td background="imgs/photo_back_left.gif"></td>
+            <tbody><tr><td><img src="https://yongjinliu.github.io/imgs/photo_corner_1.gif"></td><td background="https://yongjinliu.github.io/imgs/photo_back_top.gif"></td><td><img src="https://yongjinliu.github.io/imgs/photo_corner_2.gif"></td></tr>
+            <tr><td background="https://yongjinliu.github.io/imgs/photo_back_left.gif"></td>
             <!-- Place your image here: --><td><img src="https://yongjinliu.github.io/images/IMG_Samuel_Gmehlin.jpg" width="113" height="139"></td>
-            <td background="imgs/photo_back_right.gif"></td></tr>
-            <tr><td><img src="imgs/photo_corner_4.gif"></td><td background="imgs/photo_back_bottom.gif"></td><td><img src="imgs/photo_corner_3.gif"></td></tr>
+            <td background="https://yongjinliu.github.io/imgs/photo_back_right.gif"></td></tr>
+            <tr><td><img src="https://yongjinliu.github.io/imgs/photo_corner_4.gif"></td><td background="https://yongjinliu.github.io/imgs/photo_back_bottom.gif"></td><td><img src="https://yongjinliu.github.io/imgs/photo_corner_3.gif"></td></tr>
             </tbody></table>
       </td>
       <td width="80%" valign="top">
@@ -35,11 +35,11 @@ redirect_from:
       <tr class="txt">
       <td width="20%" valign="top">
             <table border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr><td><img src="imgs/photo_corner_1.gif"></td><td background="imgs/photo_back_top.gif"></td><td><img src="imgs/photo_corner_2.gif"></td></tr>
-            <tr><td background="imgs/photo_back_left.gif"></td>
-            <!-- Place your image here: --><td><img src="images/IMG_luoxi.jpg" width="113" height="139"></td>
-            <td background="imgs/photo_back_right.gif"></td></tr>
-            <tr><td><img src="imgs/photo_corner_4.gif"></td><td background="imgs/photo_back_bottom.gif"></td><td><img src="imgs/photo_corner_3.gif"></td></tr>
+            <tbody><tr><td><img src="https://yongjinliu.github.io/imgs/photo_corner_1.gif"></td><td background="https://yongjinliu.github.io/imgs/photo_back_top.gif"></td><td><img src="https://yongjinliu.github.io/imgs/photo_corner_2.gif"></td></tr>
+            <tr><td background="https://yongjinliu.github.io/imgs/photo_back_left.gif"></td>
+            <!-- Place your image here: --><td><img src="https://yongjinliu.github.io/images/IMG_luoxi.jpg" width="83" height="139"></td>
+            <td background="https://yongjinliu.github.io/imgs/photo_back_right.gif"></td></tr>
+            <tr><td><img src="https://yongjinliu.github.io/imgs/photo_corner_4.gif"></td><td background="https://yongjinliu.github.io/imgs/photo_back_bottom.gif"></td><td><img src="https://yongjinliu.github.io/imgs/photo_corner_3.gif"></td></tr>
             </tbody></table>
       </td>
       <td width="80%" valign="top">
@@ -48,27 +48,21 @@ redirect_from:
       <tr class="txt">
       <td width="20%" valign="top">
             <table border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr><td><img src="imgs/photo_corner_1.gif"></td><td background="imgs/photo_back_top.gif"></td><td><img src="imgs/photo_corner_2.gif"></td></tr>
-            <tr><td background="imgs/photo_back_left.gif"></td>
-            <!-- Place your image here: --><td><img src="images/IMG_zhangjunbin.jpg" width="113" height="139"></td>
-            <td background="imgs/photo_back_right.gif"></td></tr>
-            <tr><td><img src="imgs/photo_corner_4.gif"></td><td background="imgs/photo_back_bottom.gif"></td><td><img src="imgs/photo_corner_3.gif"></td></tr>
+            <tbody><tr><td><img src="https://yongjinliu.github.io/images/photo_corner_1.gif"></td><td background="https://yongjinliu.github.io/images/photo_back_top.gif"></td><td><img src="https://yongjinliu.github.io/images/photo_corner_2.gif"></td></tr>
+            <tr><td background="https://yongjinliu.github.io/images/photo_back_left.gif"></td>
+            <!-- Place your image here: --><td><img src="https://yongjinliu.github.io/images/IMG_zhangjunbin.jpg" width="83" height="139"></td>
+            <td background="https://yongjinliu.github.io/images/photo_back_right.gif"></td></tr>
+            <tr><td><img src="https://yongjinliu.github.io/images/photo_corner_4.gif"></td><td background="https://yongjinliu.github.io/images/photo_back_bottom.gif"></td><td><img src="https://yongjinliu.github.io/images/photo_corner_3.gif"></td></tr>
             </tbody></table>
       </td>
       <td width="80%" valign="top">
      张俊彬 (<a href="https://www.linkedin.com/in/junbin-zhang-053b6297" target="_blank">webpage</a>)，2010级硕士生，本科：浙江大学</td>                  
       </tr>
       <tr class="txt">
-      <td width="20%" valign="top">
-            <table border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr><td><img src="imgs/photo_corner_1.gif"></td><td background="imgs/photo_back_top.gif"></td><td><img src="imgs/photo_corner_2.gif"></td></tr>
-            <tr><td background="imgs/photo_back_left.gif"></td>
-            <!-- Place your image here: --><td><img src="images/IMG_guowenjing.jpg" width="113" height="139"></td>
-            <td background="imgs/photo_back_right.gif"></td></tr>
-            <tr><td><img src="imgs/photo_corner_4.gif"></td><td background="imgs/photo_back_bottom.gif"></td><td><img src="imgs/photo_corner_3.gif"></td></tr>
-            </tbody></table>
+      <td width="15%" valign="top">
+            <img src="https://yongjinliu.github.io/images/photo_corner_4.gifimages/IMG_guowenjing.jpg" width="113" height="139">
       </td>
-      <td width="80%" valign="top">
+      <td width="85%" valign="top">
      郭文静 (<a href="https://www.linkedin.com/in/wenjing-%E9%83%AD%E6%96%87%E9%9D%99-55360936" target="_blank">webpage</a>)，2010级硕士生，本科：青海大学</td>                  
       </tr>
       <tr class="txt">
