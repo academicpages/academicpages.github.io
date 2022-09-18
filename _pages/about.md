@@ -21,4 +21,4 @@ Rahul is an avid soccer (European football) follower and an ardent fan of Manche
 Favorite Quotes:
 - *There is no greater power in heaven or on earth than the commitment to a dream* ~ Dr. A. P. J. Abdul Kalam
 - *It is better to learn wisdom late than never to learn it at all* ~ Sherlock Holmes
-- *Great knowledge often comes from the humbles of origins* ~ John Edensor Littlewood 
+- *Great knowledge often comes from the humblest of origins* ~ John Edensor Littlewood 
