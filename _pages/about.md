@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year Ph.D. student at the University of Melbourne, working under the supervision of [Dr. Sarah Erfani](https://people.eng.unimelb.edu.au/smonazam/) and [Prof. Christopher Leckie](https://cis.unimelb.edu.au/people/staff.php?person_ID=6335). Mesmerized by generative models, I try to formulate various problems through the lens of generative modeling and bring that statistical perspective to them. In this area, I have an expertise with
+I am a final year Ph.D. student at the University of Melbourne, working under the supervision of [Dr. Sarah Erfani](https://people.eng.unimelb.edu.au/smonazam/) and [Prof. Christopher Leckie](https://cis.unimelb.edu.au/people/staff.php?person_ID=6335). Mesmerized by generative models, I try to formulate various problems through the lens of generative modeling and bring that statistical perspective to them. In this area, I have an expertise with
 * Normalizing Flows
 * Generative Adversarial Networks (GAN)
 * Probabilistic Diffusion Models (Score Matching)
@@ -24,6 +24,8 @@ I am always happy to discuss research-related topics. Just shoot me an email! :)
 
 News
 ======
+ - Sep. 2022: One paper got accepted to ACCV2022!
+ - Aug. 2022: I would be reviewing for ICLR2023, AISTATS2023, and ACCV 2022.
  - Jul. 2022: One paper got accepted to ECCV2022!
  - Jun. 2022: I would be reviewing for NeurIPS2022.
  - Jan. 2022: Finished my internship @ Amazon!
