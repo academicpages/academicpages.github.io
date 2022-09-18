@@ -7,7 +7,7 @@ O envio do trabalho deve ser efetuado até o dia 30/09/2022
 
 ## Para os grupos 01, 02, 03, 04 e 05
 
-Estudar o método atribuído e compará-lo com o método da interpolação polinomial apresentado em sala de aula. Atenção, deve ser apresentado um texto sobre o método estudado. Este texto deve conter uma introdução do método, o algoritmo, comentários sobre o algoritmo, propriedades matemáticas.
+Estudar o método atribuído e compará-lo com o método da interpolação polinomial apresentado em sala de aula. Atenção, deve ser apresentado um texto sobre o método estudado. Este texto deve conter uma introdução do método, o algoritmo, comentários sobre o algoritmo, propriedades matemáticas e as referências utilizadas.
 
 ### Temas para os grupos
 
