@@ -56,6 +56,11 @@ Trabalhos
 =======
 * [Trabalho 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_trabalho_01.md)
 
+* [Trabalho 02](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_trabalho_02.md)
+
+
+
+
 Softwares para Download
 ======
 [Página do Julia (Download, documentação e tutoriais)](https://julialang.org/)
