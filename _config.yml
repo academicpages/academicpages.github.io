@@ -155,6 +155,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Conversion
 markdown: kramdown
+theme: architect
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
