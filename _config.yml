@@ -7,6 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
+remote_theme: pages-themes/minimal@v0.2.0
 title                    : "Ozlem Tuncel"
 title_separator          : "-"
 name                     : &name "Ozlem Tuncel"
@@ -265,6 +266,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
