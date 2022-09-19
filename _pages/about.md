@@ -68,7 +68,7 @@ Yong-Jin Liu is a tenured Full Professor with the Computer Science Department at
 
 - IEEE Senior Member
 - IEEE Computer Society Member
-- ACM Professional Member
+- ACM Senior Member
 - ACM SIGGRAPH Member
 - Senior Member of China Computer Federation (CCF)
 - Deputy Secretary-General, <a href="http://cg.cs.tsinghua.edu.cn/gdc/" target="_blank">Geometric Design and Computing Committee</a> (GDC) of China Society for Industrial and Applied Mathematics (CSIAM)
