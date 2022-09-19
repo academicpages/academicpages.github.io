@@ -19,6 +19,6 @@ Rahul's research interests lie at the intersection of Optimization and Machine L
 Rahul is an avid soccer (European football) follower and an ardent fan of Manchester United and the Argentina National Team. He is an urban photographer, mostly interested in urban architecture and street photography. In his free time, Rahul enjoys cooking and playing video games, especially FIFA. 
 
 Favorite Quotes:
-- *There is no greater power in heaven or on earth than the commitment to a dream* ~ Dr. A. P. J. Abdul Kalam
+- *There is no greater power in heaven or on earth than the commitment to a dream* ~ A. P. J. Abdul Kalam
 - *It is better to learn wisdom late than never to learn it at all* ~ Sherlock Holmes
 - *Great knowledge often comes from the humblest of origins* ~ John Edensor Littlewood 
