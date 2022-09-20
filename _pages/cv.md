@@ -15,8 +15,8 @@ Education
 Work experience
 ======
 * Ramón y Cajal fellow
- * Universitat de Barcelona
- * 2023-2027
+  * Universitat de Barcelona
+  * 2023-2027
 
 * Post-Doc researcher - JIN grant 'Representación retorica e influencia de los grupos organizados en la definición del debate público y en la actividad legislativa' RTI2018-100861-J-I00
   * Universitat de Barcelona
