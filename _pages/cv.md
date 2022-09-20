@@ -62,7 +62,9 @@ Modeling and predicting arctic ice sheet properties by fitting Gaussian Processe
 Publications
 ======
   [Population-Based Hierarchical Non-negative Matrix Factorization for Survey Data](https://arxiv.org/abs/2209.04968)
+  
   [Automatic Infectious Disease Classification Analysis with Concept Discovery](https://arxiv.org/abs/2209.02415)
+  
   [BalanceProofs: Maintainable Vector Commitments with Fast Aggregation](https://eprint.iacr.org/2022/864)
   
   
