@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "In search for common ground: The dynamics of interest groups and party narratives"
+excerpt: "Interest group organisations express the concerns and demands of their constituents and their particular understandings of policy issues on a daily basis in the public domain. Some of these narratives forge policy definitions which are shared by political elites to different extents. This paper studies to what extent political parties share the policy narratives used by interest group organizations focusing on the spaces and contexts of policy definition. Data from press releases of the 30 most salient interest groups, unions, and social movement organizations and the five main Spanish-speaking parties in Spain between 2008 and 2021 provide empirical evidence for large-scale analysis of policy rhetoric. Results show that interactions between groups and parties in parliamentary and government venues as well as in street protest have a very limited effect in explaining the use of interest group rhetoric by parties. Semantic similarity varies in different contexts, by party ideology, government status, interest group type and issue salience. These findings have a normative significance in terms of the representation function of interest groups and speaks to the potential inequalities in access to the policy process. They also shed light on the processes of policy change through the formation of political ideas and policy definition.<br/><img src='/images/cgp500x300.png'>"
 collection: portfolio
 ---
 
