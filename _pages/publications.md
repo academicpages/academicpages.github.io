@@ -16,13 +16,51 @@ table, th, td {
 <table>
 <tr>
 <td style="width:70%">
+<b> Laplacian Autoencoders for Learning Stochastic Representations </b>
+<br>
+Marco Miani, Frederik Warburg, Pablo Moreno-Muñoz, <em>Nicke Skafte Detlefsen</em>, Søren Hauberg
+<br>
+In Advances in Neural Information Processing Systems (Neurips) 2022
+<br>
+<a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2022_laplacian.pdf">PDF</a>
+</td>
+<td style="width:30%">
+<p align="center">
+<img src="../images/2022_laplacian.PNG" width="300" title="hover text">
+</p>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width:70%">
+<b> Is an encoder within reach? </b>
+<br>
+Helene Hauschultz, Rasmus Berg Palm. Pablo Moreno-Muños, <em>Nicki Skafte Detlefsen</em>, Andrew Allan du Plessis, Søren Hauberg
+<br>
+arXiv, 2022.
+<br>
+<a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2022_reach.pdf">PDF</a>
+</td>
+<td style="width:30%">
+<p align="center">
+<img src="../images/2022_reach.PNG" width="300" title="hover text">
+</p>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width:70%">
 <b> What is a meaningful representation of protein sequences? </b>
 <br>
 <em>Nicki Skafte Detlefsen</em>, Søren Hauberg, Wouter Boomsma
 <br>
-In Nature Communications
+In Nature Communications, 2022
 <br>
-<a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2022_protein.pdf">PDF</a>
+<a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2022_proteins.pdf">PDF</a>
 </td>
 <td style="width:30%">
 <p align="center">
@@ -42,7 +80,7 @@ In Nature Communications
 <em>Nicki Skafte Detlefsen</em>, Jiri Borovec, Justus Schock, Ananya Harsh Jha, Teddy Koker, Luca Di Liello, Daniel Stanc,
 Changsheng Quan, Maxim Grechkin, and William Falcon
 <br>
-In Journal of Open Source Software (JOSS)
+In Journal of Open Source Software (JOSS), 2021
 <br>
 <a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2021_torchmetrics.pdf">PDF</a>
 </td>
