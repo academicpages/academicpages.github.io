@@ -1,7 +1,7 @@
 ---
 title: 'Clear Goals'
 date: 2022-09-20
-permalink: /posts/2022/9/20/
+permalink: /posts/2022/9/blog-post-1/
 tags:
   - goals
   - essentialism
