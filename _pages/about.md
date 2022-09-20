@@ -12,7 +12,8 @@ I am Luca Silva, a first year Phd student in Statistics and computer science at 
 Research Interests
 =======
 * Statistical Machine Learning
-* Generative Models
+* Protein Inverse Folding
 * Variance Reduction Methods
+* Geometric Deep Learning
 
 
