@@ -5,10 +5,8 @@ permalink: /contact/
 author_profile: true
 ---
 
-Paulstraße 3, 50676 Köln
+Via dei Roccettini 9,
 
-Germany
-
-+49 221 2767-342
+I-50014 San Domenico di Fiesole (FI) - Italy
 
 [luuk.schmitz@eui.eu](mailto:luuk.schmitz@eui.eu)
