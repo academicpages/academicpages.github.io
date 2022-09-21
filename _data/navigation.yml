@@ -1,7 +1,7 @@
 # main links links
 main:
-  #- title: "Publications"
-  #  url: https://angadhn.github.io/publications/
+  - title: "Publications"
+    url: https://angadhn.github.io/publications/
 
     #- title: "Talks"
     #url: https://angadhn.github.io/talks/    
