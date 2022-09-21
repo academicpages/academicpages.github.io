@@ -9,17 +9,17 @@ author_profile: true
  <i>Submitted to Radiation and Oncology (Under Review), 1057 patients with MRI from 5 hospitals are enrolled in this study.<br>
   [[paper]()][[code](https://github.com/Luoxd1996/RobustNPC)]
 
- * <b>WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image</b> <br> 
-  <b>Xiangde Luo</b>, Wenjun Liao, Jianghong Xiao, Jieneng Chen, Tao Song, Xiaofan Zhang, Kang Li, Dimitris N. Metaxas, Guotai Wang, Shaoting Zhang<br>
-  <i>Submitted to Medical Image Analysis (Under Major Revision). <br>
-  [[paper](https://arxiv.org/pdf/2111.02403.pdf)][[code](https://github.com/HiLab-git/WORD)][[dataset](https://drive.google.com/file/d/1HcRo3WARRXa_iBdFpo_4Z2s3z7PMzLlL/view)]
-      
  * <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b> <br> 
   Zhongyu Li, Chaoqun Li, <b>Xiangde Luo</b>, Yitian Zhou, Jihua Zhu, Cunbao Xu, Meng Yang, Yenan Wu, Yifeng Chen <br> 
   <i>Submitted to IEEE Transaction on Medical Imaging (Under Major Revision, the first three authors contributed equally.) <br>
   [[paper](https://luoxd1996.github.io/)][[code](https://luoxd1996.github.io/)]
     
 **Journals**
+ * <b>WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image</b> <br> 
+  <b>Xiangde Luo</b>, Wenjun Liao, Jianghong Xiao, Jieneng Chen, Tao Song, Xiaofan Zhang, Kang Li, Dimitris N. Metaxas, Guotai Wang, Shaoting Zhang<br>
+  <i>Medical Image Analysis (Accepted). <br>
+  [[paper](https://arxiv.org/pdf/2111.02403.pdf)][[code](https://github.com/HiLab-git/WORD)][[dataset](https://drive.google.com/file/d/1HcRo3WARRXa_iBdFpo_4Z2s3z7PMzLlL/view)]
+   
  * <b>Semi-Supervised Medical Image Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
   <b>Xiangde Luo</b>, Guotai Wang, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Dimitris N. Metaxas, Shaoting Zhang <br>
    <b>Medical Image Analysis, 80 (2022): 102517. (2022 IF 13.828)</b>.<br>
