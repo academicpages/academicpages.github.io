@@ -38,6 +38,8 @@ Work experience
 Publications
 ======
 
+* <b>Cheng, Y.</b>, He, C., Hegarty, M., & Chrastil, E. R. (2022). Who Believes They Are Good Navigators? A Machine Learning Pipeline Highlights the Impact of Gender, Commuting Time, and Education. Machine Learning with Applications. (accepted)
+
 * <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Evidence for a travel direction signal in humans that is independent of head direction. [[preprint](https://www.biorxiv.org/content/10.1101/2022.08.22.504860v1)]
 
 * <b>Cheng, Y.</b>. Dissertation: Travel Direction as a Fundamental Component of Human Navigation: Integrating Psychophysics, Neuroimaging, and Computational Modeling Approaches [https://escholarship.org/uc/item/9jg79944](https://escholarship.org/uc/item/9jg79944)
