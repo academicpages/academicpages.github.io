@@ -17,7 +17,7 @@ I specifically focus on designing and building innovative and secure mobile sens
 Updates
 =======
 <ul>
-	<li> <b>[Mar 2022]</b> Our work on secure Android remote authorization to appear in Usenix Security 2022!
+	<li> <b>[Mar 2022]</b> Our work on secure Android remote authorization to appear in USENIX Security 2022!
 	</li>
 	<li> <b>[June 2021]</b> Received Bilsland Dissertation Fellowship Award 2021-2022!
 	</li>
@@ -104,12 +104,17 @@ Professional Activity
 ==============
 <ul>
 	<li>
-		Program Committee Member, ACM S<sup>3</sup> Workshop (co-located with MobiCom), 2021
+		<b>Program Committee Member</b>
+		<ul>
+			<li>
+				ACM S<sup>3</sup> Workshop (co-located with MobiCom), 2021
+			</li>
+		</ul>
 	</li>
 </ul>
 <ul>
 	<li>
-		Reviewer
+		<b>Reviewer</b>
 		<ul>
 			<li>
 				Transactions on Sensor Networks (TOSN), 2022
@@ -119,13 +124,19 @@ Professional Activity
 </ul>
 <ul>
 	<li>
-		External Reviewer
+		<b>External Reviewer</b>
 		<ul>
 			<li>
 				Annual Computer Security Applications Conference (ACSAC), 2021
 			</li>
 			<li>
 				Network and Distributed System Security (NDSS), 2021
+			</li>
+			<li>
+				USENIX Security, 2022
+			</li>
+			<li>
+				Network and Distributed System Security (NDSS), 2023
 			</li>
 		</ul>
 	</li>
