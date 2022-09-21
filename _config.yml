@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Sherry Sarkar"
-  avatar           : "me.png"
+  avatar           : "profile.png"
   bio              : "Algorithms, Combinatorics, and Optimization (ACO) PhD Student at Carnegie Mellon"
   location         : "Pittsburgh, PA"
   employer         :
-  pubmed           : 
-  googlescholar    : 
+  pubmed           :
+  googlescholar    :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
