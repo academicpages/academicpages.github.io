@@ -44,7 +44,7 @@ Publications
 
 * <b>Cheng, Y.</b>. Dissertation: Travel Direction as a Fundamental Component of Human Navigation: Integrating Psychophysics, Neuroimaging, and Computational Modeling Approaches [https://escholarship.org/uc/item/9jg79944](https://escholarship.org/uc/item/9jg79944)
 
-* 't Hart, B. M., Adeyemi, A., Akrami, A., Alicea, B., Alonso-Andres, A., … Cheng, Y., … Vishne, G. (2022). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. The Journal of Open Source Education, 5(49), 118. [[preprint](https://osf.io/9fp4v/)] [[pdf](https://lilianyou.github.io/files/2022_neuromatch_jose.pdf)]
+* 't Hart, B. M., Adeyemi, A., Akrami, A., Alicea, B., Alonso-Andres, A., … <b>Cheng, Y.<b>, … Vishne, G. (2022). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. The Journal of Open Source Education, 5(49), 118. [[preprint](https://osf.io/9fp4v/)] [[pdf](https://lilianyou.github.io/files/2022_neuromatch_jose.pdf)]
 
 * <b>Cheng, Y.</b>., & Chrastil, L. (2021, November 30). From Individual Cognitive Maps to a Collective Cognitive Map: Prescriptive Guidelines and Measurement of Factors that Could Distort the Mapping Process. https://doi.org/10.31234/osf.io/7ygk2 [[pdf](https://lilianyou.github.io/files/2021_collective_navigation_preprint_Cheng.pdf)]
 
