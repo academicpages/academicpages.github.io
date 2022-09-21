@@ -15,7 +15,7 @@ redirect_from:
 <!--* Now, I am seeking for a research internship position about medical image segmentation during 2021.06-2021.10, feel free to contact me! [[My CV](https://github.com/Luoxd1996/Luoxd1996.github.io/blob/master/files/xiangdeluo_cv.pdf)]-->
 
 # Recent News
-* Sep. 20, 2022, Our paper <b>WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image</b> was accepted by <b>Medical Image Analysis</b>, thanks to all co-authors, [dataset](https://github.com/HiLab-git/WORD) and [paper]([https://www.sciencedirect.com/science/article/pii/S1361841522001645#!](https://arxiv.org/pdf/2111.02403.pdf)) are available.
+* Sep. 20, 2022, Our paper <b>WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image</b> was accepted by <b>Medical Image Analysis</b>, thanks to all co-authors, [dataset](https://github.com/HiLab-git/WORD) and [paper](https://arxiv.org/pdf/2111.02403.pdf) are available.
 * July 12, 2022, Our project [SSL4MIS](https://github.com/HiLab-git/SSL4MIS) received the 1000th star, a milestone moment for us; keep going!!!
 * Jun 30, 2022, Our MICCAI2022 paper ([WSL4MIS](https://arxiv.org/pdf/2203.02106.pdf)) was selected to receive a [**MICCAI2022 Student Travel Award**](https://conferences.miccai.org/2022/en/MICCAI-2022-STUDENT-TRAVEL-AWARDS.html).
 * Jun 10, 2022, Our paper <b>Semi-Supervised Medical Image Segmentation via Uncertainty Rectified Pyramid Consistency	</b> was accepted by <b>Medical Image Analysis</b>, thanks to all co-authors, [code](https://github.com/HiLab-git/SSL4MIS) and [paper](https://www.sciencedirect.com/science/article/pii/S1361841522001645#!) are available.
