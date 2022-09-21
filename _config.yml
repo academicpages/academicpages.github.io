@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jose Antunes-Neto / Jose Antunes-Neto"
+title                    : "Jose Antunes-Neto"
 title_separator          : "-"
 name                     : &name "Jose Parreiras Antunes Neto"
 description              : &description "Finance Ph.D Student at Kellogg School of Management"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Finance Ph.D Student"
   location         : "Evanston. IL"
-  employer         : "Kellogg School of Management"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "jose.neto@kellogg.northwestern.edu"
