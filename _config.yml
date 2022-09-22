@@ -7,23 +7,20 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Prerana Khatiwada"
+title                    : "Dr. Test Account"
 title_separator          : "-"
-name                     : &name "Prerana Khatiwada"
-description              : &description "My personal website to share my academic profile and research contributions.
-url                      : "https://preranakh.github.io" # the base hostname & protocol for your site e.g. "https://preranakh.github.io"
-baseurl                  : "https://preranakh.github.io"
-repository               : "https://github.com/Preranakh/Preranakh.github.io"
+name                     : &name "Dr. Test Account"
+description              : &description "Research scientist at Test University"
+url                      : https://getorg-testacct.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "getorg-testacct.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : "disqus"
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : Prerana Khatiwada
+    shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -50,89 +47,68 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification: 'qgX-LJLtkvIk5WkHJP5FSa31RN98a1WhAjPK8w8JPxE' # change to your verification string
+google_site_verification : 
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-google_analytics:
-  id: 'UA-160976128-1'          # Fill with your Google Analytics ID
-  pv:
-    # The Google Analytics pageviews switch.
-    # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
-    enabled: false
-    # the next options only valid when `google_analytics.pv` is enabled.
-    proxy_url: ''
-    proxy_endpoint: ''
-    cache: false  # pv data local cache, good for the users from GFW area.
-
-toc: true
-
 # Social Sharing
 twitter:
-  username               : &twitter preranak
+  username               : &twitter 
 facebook:
-  username               :Prerana.khatiwada1
+  username               : 
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  name: Ayush Kumar Shah  # it will shows as the copyright owner in Footer
-  email: ayush.kumar.shah@gmail.com             # change to your email address
-  links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/preranak      # change to your twitter homepage
-    - https://github.com/Preranakh       # change to your github homepage
-    # Uncomment below to add more social links
-    - https://www.facebook.com/Prerana.khatiwada1/
-    - https://www.linkedin.com/in/preranak21/
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
 
 
 # Analytics
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : 
 
 
 # Site Author
 author:
-  name             : "Prerana Khatiwada"
-  avatar           : "profile.jpeg"
-  bio              : "Computer Science Ph.D. Student"
-  location         : "Newark, Delaware"
-  employer         :
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "preranak@udel.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  name             : "Dr. Test Account"
+  avatar           : "profile.png"
+  bio              : "Research scientist at Test University, expert in all things test and account related"
+  location         : "Test, California"
+  employer         : 
+  googlescholar    : "http://scholar.google.com/this-is-a-test"
+  email            : 
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
-  github           : "Preranakh"
+  github           : "getorg-testacct"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : 
   lastfm           :
-  linkedin         : "preranak21"
+  linkedin         :
+  orcid            : "http://orcid.org/testaccount"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "preranak"
+  twitter          : "testaccount-this-is-fake"
   vine             :
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : 
 
 
 # Reading Files
@@ -147,23 +123,22 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
   - Capfile
+  - CHANGELOG
+  - config
   - Gemfile
   - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
   - gulpfile.js
+  - LICENSE
   - log
   - node_modules
   - package.json
+  - Rakefile
+  - README
   - tmp
-  - vendor
 keep_files:
   - .git
   - .svn
@@ -220,7 +195,6 @@ defaults:
       comments: true
       share: true
       related: true
-      toc: true
   # _pages
   - scope:
       path: ""
@@ -263,22 +237,22 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+
 # Outputting
-# permalink: /:categories/:title/
-permalink: /:year/:month/:title/
+permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -303,7 +277,6 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
-
 category_archive:
   type: liquid
   path: /categories/
