@@ -7,9 +7,9 @@ author_profile: true
 
 **Highlighted publications**
 
-{% if author.pubmed %}
-  You can also find our articles on <u><a href="{{author.pubmed}}">PubMed</a>.</u>
-{% endif %}
+
+You can also find our articles on <u><a href="{{author.pubmed}}">PubMed</a>.</u>
+
 
 {% include base_path %}
 
