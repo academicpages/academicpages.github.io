@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
-{% for project in site.projects %}
-  {% capture year %}{{ project.date | date: '%Y' }}{% endcapture %}
+{% for post in site.posts %}
+  {% capture year %}{{ posts.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
