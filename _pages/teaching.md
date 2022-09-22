@@ -28,9 +28,11 @@ These include:
   - Mosquera-Lois,‡ I.; Kavanagh,‡ S. R.; Walsh, A.; Scanlon, D. O. Identifying the ground state structures of point defects in solids. _**Under Review**_
   - https://github.com/SMTG-UCL/ShakeNBreak
   - Further manuscripts in preparation
-- _Theoretical Study of Metal Chalcogenide Alloys for Solar Cell Applications_ <!-- Helen; Sb2(S/Se)3 Alloys -->
+- _Efficient structure searching for point defects in semiconductors_ <!-- Bodoo; SnB -->
+  - MSc student Bodoo Batnaran was awarded the Nyholm Prize for best performance in Inorganic Chemistry for this project, congratulations Bodoo! 🎉
+- _Theoretical study of metal chalcogenide alloys for solar cell applications_ <!-- Helen; Sb2(S/Se)3 Alloys -->
   - Manuscript in preparation
-  - MSci Student Helen Spong was awarded the Neil Sharp Prize for best performance in Theoretical/Computational Chemistry with this research project – a fantastic achievement given the large number of world-class computational research groups in the UCL Chemistry Department.
+  - MSci student Helen Spong was awarded the Neil Sharp Prize for best performance in Theoretical/Computational Chemistry with this research project – a fantastic achievement given the large number of world-class computational research groups in the UCL Chemistry Department!
 - _A computational re-evaluation of elemental solar absorber materials_ <!-- Alp; Se for PV -->
   - Manuscript in preparation
 - _Emerging Cu-based earth-abundant photovoltaic absorber materials_ <!-- Bodoo and Adair; Cu2SiSe3 for PV -->
@@ -38,6 +40,7 @@ These include:
 - _Computational Analysis of Novel Inorganic Materials for Photovoltaic Applications_ <!-- Stan -->
 - _An investigation into CsSnI3 as an alternative to lead-based perovskite photovoltaics_ <!-- Daniel -->
 - _A computational re-evaluation of crystal structure assignments for vacancy-ordered quadruple perovskites_ <!-- Yinan... -->
+- ...
 
 
 Some quotes from Phd, MSc & undergraduate students I have supervised are:
