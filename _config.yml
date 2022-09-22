@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "God of Technology"
+title                    : "Enrique Lopez"
 title_separator          : "-"
 name                     : &name "Enrique Lopez"
-description              : &description "fighting entropy"
+description              : &description "Academic Website for Enrique Lopez"
 url                      : "https://enriquelopezcode.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "enriquelopezcode/enriquelopezcode.github.io"
@@ -175,10 +175,10 @@ kramdown:
 
 # Collections
 collections:
+
   projects:
     output: true
     permalink: /:collection/:path/
-    
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -195,6 +195,18 @@ collections:
 
 # Defaults
 defaults:
+ # _projects
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      
   # _posts
   - scope:
       path: ""
