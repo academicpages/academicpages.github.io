@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Best Man ever"
+title: "Enrique Lopez - MIT"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
