@@ -11,9 +11,9 @@ title                    : "Prerana Khatiwada"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://Preranakh.github.io # the base hostname & protocol for your site e.g. "Preranakh.github.io"
+url                      : "https://Preranakh.github.io" # the base hostname & protocol for your site e.g. "Preranakh.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Preranakh/Preranakh.github.io"
+repository               : "https://github.com/Preranakh/Preranakh.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
