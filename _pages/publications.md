@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>[Generalizing Bayesian Optimization with Decision-theoretic Entropies](http://lantaoyu.com/publications/EHIG)</b> <br> 
+Willie Neiswanger<b>\*</b>, <b>Lantao Yu</b><b>\*</b> (equal contribution), Shengjia Zhao, Chenlin Meng, Stefano Ermon.
+<i>The 36th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2022</b>.
+
 <b>[A General Recipe for Likelihood-free Bayesian Optimization](http://lantaoyu.com/publications/LFBO)</b> <br> 
 Jiaming Song<b>\*</b>, <b>Lantao Yu</b><b>\*</b> (equal contribution), Willie Neiswanger, Stefano Ermon.
 <i>The 39th International Conference on Machine Learning</i>. <b>ICML 2022</b>. <b><span style="color:red">(Long Oral, Top 2.2%)</span></b>
