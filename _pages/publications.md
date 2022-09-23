@@ -9,7 +9,7 @@ author_profile: true
 - X. Fu, B. He, **Xiangfeng Wang** and X. Yuan, Block-wise Alternating Direction Method of Multipliers with Gaussian Back Substitution for Multiple-block Convex Programming. *Splitting Algorithms, Modern Operator Theory, and Applications*, 2019.
 
 ## Accepted Paper List
-- - **Junjie Sheng**, **Xiangfeng Wang**, **Bo Jin**, **Wenhao Li**, J. Yan, T.-H. Chang, J. Wang and **Hongyuan Zha**, Learning Structured Communication for Multi-agent Reinforcement Learning. *Autonomous Agents and Multi-Agent Systems*, accepted 2022.
+- **Junjie Sheng**, **Xiangfeng Wang**, **Bo Jin**, **Wenhao Li**, J. Yan, T.-H. Chang, J. Wang and **Hongyuan Zha**, Learning Structured Communication for Multi-agent Reinforcement Learning. *Autonomous Agents and Multi-Agent Systems*, accepted 2022.
 - **Wenhao Li**, **Xiangfeng Wang**, **Bo Jin**, D. Luo and **Hongyuan Zha**, Structured Cooperative Reinforcement Learning with Time-varying Composite Action Space. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, accepted, 2021.
 
 ## 2022
