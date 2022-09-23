@@ -11,9 +11,9 @@ title                    : "Abiola Oyebanjo"
 title_separator          : "-"
 name                     : &name "Abiola Oyebanjo"
 description              : &description "personal description"
-url                      : https://abiola.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://flavia-leite.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "abiola.github.io"
+repository               : "flavia-leite.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abiola Oyebanjo"
+  name             : "Flávia Leite"
   avatar           : "oyebanjo.png"
-  bio              : PhD Student, Humboldt University <a color=black; href="https://www.hu-berlin.de/en">Department of Sociology</a>
-  location         : "Berlin, Germany"
+  bio              : PhD Student, Humboldt University <a color=black; href="https://ced.berkeley.edu">Department of Sociology</a>
+  location         : "Berlin, Germnay"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/oyebanjoabiola"
+  linkedin         : "www.linkedin.com/in/flávia-leite-9a064539"
   orcid            : 
   pinterest        :
   soundcloud       :
