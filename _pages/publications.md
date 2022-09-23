@@ -18,7 +18,7 @@ author_profile: true
  * <b>WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jianghong Xiao, Jieneng Chen, Tao Song, Xiaofan Zhang, Kang Li, Dimitris N. Metaxas, Guotai Wang, Shaoting Zhang<br>
   <i><b>Medical Image Analysis (Accepted)</b>. <br>
-  [[paper](https://arxiv.org/pdf/2111.02403.pdf)][[code](https://github.com/HiLab-git/WORD)][[dataset](https://drive.google.com/file/d/1HcRo3WARRXa_iBdFpo_4Z2s3z7PMzLlL/view)]
+  [[paper](https://arxiv.org/pdf/2111.02403.pdf)][[code](https://github.com/HiLab-git/WORD)][[pdf](../files/WORD-MedIA2022.pdf)][[dataset](https://drive.google.com/file/d/1HcRo3WARRXa_iBdFpo_4Z2s3z7PMzLlL/view)]
    
  * <b>Semi-Supervised Medical Image Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
   <b>Xiangde Luo</b>, Guotai Wang, Wenjun Liao, Jieneng Chen, Tao Song, Yinan Chen, Shichuang Zhang, Dimitris N. Metaxas, Shaoting Zhang <br>
