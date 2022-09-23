@@ -176,9 +176,6 @@ kramdown:
 # Collections
 collections:
 
-  projects:
-    output: true
-    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -195,17 +192,6 @@ collections:
 
 # Defaults
 defaults:
- # _projects
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
       
   # _posts
   - scope:
