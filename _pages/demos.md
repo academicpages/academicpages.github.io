@@ -23,5 +23,5 @@ Our another paper [*Learning to Schedule Multi-NUMA Virtual Machines via Reinfor
 * SchedVis (Visulization): it provides the visualization of schedlueing dynamics on many metrics.
 
 **References**
-- Junjie Sheng, Shengliang Cai, Haochuan Cui, Wenhao Li, Yun Hua, Bo Jin, Wenli Zhou, Yiqiu Hu, Lei Zhu, Qian Peng, Hongyuan Zha and Xiangfeng Wang, VMAgent: Scheduling Simulator for Reinforcement Learning. arXiv preprint arXiv:2112.04785, 2021.
+- **Junjie Sheng**, **Shengliang Cai**, **Haochuan Cui**, **Wenhao Li**, **Yun Hua**, **Bo Jin**, W. Zhou, Y. Hu, L. Zhu, Q. Peng, **Hongyuan Zha** and **Xiangfeng Wang**, VMAgent: A Practical Virtual Machine Scheduling Platform. *IJCAI-Demos*, 2022. (**The [VMAgent](https://github.com/mail-ecnu/VMAgent) Simulator**)
 - Junjie Sheng, Yiqiu Hu, Wenli Zhou, Lei Zhu, Bo Jin, Jun Wang and Xiangfeng Wang, Learning to Schedule Multi-NUMA Virtual Machines via Reinforcement Learning, Pattern Recognition, 121, 2022, pp.108254.
