@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Flávia Leite"
+title                    : "Abiola Oyebanjo"
 title_separator          : "-"
-name                     : &name "Flávia Leite"
+name                     : &name "Abiola Oyebanjo"
 description              : &description "personal description"
 url                      : https://flavia-leite.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "flavia-leite.github.io"
+repository               : "abiola.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Flávia Leite"
-  avatar           : "Flavia_leite.png"
-  bio              : PhD Student, UC Berkeley <a color=black; href="https://ced.berkeley.edu">Department of City and Regional Planning</a>
-  location         : "Berkeley, CA"
+  avatar           : "oyebanjo.png"
+  bio              : PhD Student, Humboldt University <a color=black; href="https://www.hu-berlin.de">Department of Sociology</a>
+  location         : "Berlin, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : flavia_leite@berkeley.edu
+  email            : oyebanjoabiola@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "flavia-leite"
+  github           : "abiola1864"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/flávia-leite-9a064539"
+  linkedin         : "www.linkedin.com/in/oyebanjoabiola"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "leiteflavia1"
+  twitter          : "abiola1864"
   vine             :
   weibo            :
   xing             :
