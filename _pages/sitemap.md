@@ -20,11 +20,6 @@ A list of all the posts and pages found on the site. For you robots out there is
 {% endfor %}
 
 
-<h2>Projects</h2>
-{% for projects in site.projects %}
-  {% include archive-single.html %}
-{% endfor %}
-
 {% capture written_label %}'None'{% endcapture %}
 
 {% for collection in site.collections %}
