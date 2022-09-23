@@ -46,7 +46,6 @@ author_profile: true
   <img src="/images/projects/kasike-logo.png">
   <img src="/images/projects/cosic-logo.jpg" style="width: 125px; height: 100%; padding: 0px">
   <img src="/images/projects/mininglamp-logo.png" style="background: #0e56a0; margin: 10px; height: 80px">
-  <img src="/images/projects/baowu-logo.jpg" style="padding: 0px; margin: 30px">
   <img src="/images/projects/huawei-logo.png" style="padding: 20px">
   <img src="/images/projects/cerc-logo.jpg">
   <img src="/images/projects/zhijiang.png" style="padding: 0px; margin: 20px">
