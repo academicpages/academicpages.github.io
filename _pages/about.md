@@ -14,7 +14,6 @@ Abiola Oyebanjo is the Executive Director of the [Empowerment for Local People F
 ## Research Interest
 My  work is mainly inspired by the works of Ann Swinder, Pierre Bourdieu, Adepoju Aderanti, Thomas F. Pettigrew, David Card, Alan Krueger,  Matthijs Kalmijn, Alejandro Portes, John H. Goldthorpe, George J. Borjas,  David McKenzie, Chris Woodruff, Dean Karlan and Christopher Udry among others. These authors often examine the interwoven relationship between  **cultural orientation ** and return to  **human capital**.  My doctoral dissertation mainly discusses lower  **returns to education for educated returnees** who signal “foreignness” when seeking their first jobs and that the nature of the bifurcation existing within job roles they apply to reduces a recruiter’s intention to select them. The questions I aim to answer include (1) Are educated returnees able to apply foreign-earned skills and knowledge in their home country? (2) Can we estimate the effect of  **reintegration** programs? (3) Do returnees have a different disposition based on their motivation for return or migration? (4) Does the nature of return migration change the skill composition of the home country (5) Can we further estimate the effect of other cultural capital used by returnees and whether it plays a role in their labour market integration? 
 
-I hope to integrate quantitative/computational methods with qualitative methods to answer these questions.
 
 ## Recent and ongoing projects
 **Old But Not Late**: The Age-of-Arrival Effect on Wage gap of African Immigrants in the US.
