@@ -13,7 +13,7 @@ author_profile: true
 -	_Materials Today Chemistry_ Rising Star Award 2022 [Certificate](https://kavanase.github.io/files/eMRS MTC Rising Star Award.png)
 -	eMRS Young Researcher Award 2022 [Certificate](https://kavanase.github.io/files/eMRS_Spring_2022_Best_Presentation_Award_Symposium_G.png)
 -	Catlow Prize for best Computational PhD student in the UCL Chemistry department 2022 (in the 3rd year of my PhD) [Certificate](https://kavanase.github.io/files/UCL_Chemistry_Catlow_Prize.jpg)
--	MRS Graduate Student Award (Silver) 2022 [Social Media Card](https://kavanase.github.io/files/Silver_GSA_Ad.png)
+-	MRS Graduate Student Award (Silver) 2022 [Social Media Card](https://kavanase.github.io/files/Silver_GSA_Ad.png)  [Certificate](https://kavanase.github.io/files/MRS_Silver_GSA_Certificate_2022.pdf)
 - eMRS Graduate Student Award 2021, Symposium F: "Earth-abundant next generation materials for solar energy” in recognition of outstanding research performance (Paper: '_Hidden spontaneous polarisation in the chalcohalide photovoltaic absorber Sn2SbS2I3_'). [Certificate](https://kavanase.github.io/files/EMRS_2021_GSA_dipl_F_Sn2SbS2I3.pdf)
 - eMRS Graduate Student Award 2021, Symposium A: “Materials for energy applications” in recognition of outstanding research performance (Paper: '_Rapid Recombination by Cadmium Vacancies in CdTe_'). [Certificate](https://kavanase.github.io/files/EMRS_2021_GSA_dipl_A_V_Cd.pdf)
 - Shortlisted for the International Conference on Defects in Semiconductors (ICDS) 2021 [Corbett Prize](https://en.wikipedia.org/wiki/International_Conference_on_Defects_in_Semiconductors#Corbett_Prize) (typically awarded to Associate Professors).
