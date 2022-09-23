@@ -125,11 +125,6 @@ redirect_from:
         <div class="member_intro">Machine Learning</div>
       </div>
     </div>
-  </div>
-</div>
-
-<div class="faculties contrainer">
-  <div class="row">
     <div class="member_item col">
       <div class="member_pic_wrapper">
         <div class="member_pic" id="liwenhao"></div>
@@ -405,12 +400,41 @@ redirect_from:
     background-position: center;
   }
   #chenhaoqing{
-    background: url(../images/people/students/chenhaoqing.png);
+    background: url(../images/people/students/chenhaoqing.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
   }
-
+  #huangyifei{
+    background: url(../images/people/students/huangyifei.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #linyanqiu{
+    background: url(../images/people/students/linyanqiu.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #huangyiwen{
+    background: url(../images/people/students/huangyiwen.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #heyuchen{
+    background: url(../images/people/students/heyuchen.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  #wujiehao{
+    background: url(../images/people/students/wujiehao.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
 </style>
 
 
