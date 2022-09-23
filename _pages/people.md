@@ -128,6 +128,19 @@ redirect_from:
   </div>
 </div>
 
+<div class="faculties contrainer">
+  <div class="row">
+    <div class="member_item col">
+      <div class="member_pic_wrapper">
+        <div class="member_pic" id="liwenhao"></div>
+        <div class="member_name">LI Wenhao 李文浩 </div>
+        <div class="member_pos">Postdoc 博士后 </div>
+        <div class="member_intro">MARL</div>
+      </div>
+    </div>
+  </div>
+</div>
+
 ---
 ---
 
@@ -192,13 +205,6 @@ redirect_from:
 </style>
 
 <div class="students">
-  <div class="member_item col_quarter" >
-    <div class="member_pic_wrapper" >
-      <div class="member_pic" id="liwenhao"></div>
-      <div class="member_name" ><a href="https://www.zhihu.com/people/lee-40-50-50/posts">LI Wenhao 李文浩 </a></div>
-      <div class="member_intro" >MARL</div>
-    </div>
-  </div>
   <div class="member_item col_quarter" >
     <div class="member_pic_wrapper" >
       <div class="member_pic" id="shengjunjie"></div>
@@ -499,6 +505,45 @@ redirect_from:
     </div>
   </div>
 
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_pic" id="wujiehao"></div>
+      <div class="member_name">WU Jiehao 吴介豪</div>
+      <div class="member_intro" >  </div>
+    </div>
+  </div>
+  
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_pic" id="heyuchen"></div>
+      <div class="member_name">HE Yuchen 何宇辰</div>
+      <div class="member_intro" >  </div>
+    </div>
+  </div>
+
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_pic" id="huangyiwen"></div>
+      <div class="member_name">HUANG Yiwen 黄熠文</div>
+      <div class="member_intro" >  </div>
+    </div>
+  </div>
+  
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_pic" id="linyanqiu"></div>
+      <div class="member_name">LIN Yanqiu 林燕秋</div>
+      <div class="member_intro" >L2ODE</div>
+    </div>
+  </div>
+
+  <div class="member_item" >
+    <div class="member_pic_wrapper" >
+      <div class="member_pic" id="huangyifei"></div>
+      <div class="member_name">HUANG Yifei 黄逸飞</div>
+      <div class="member_intro" >  </div>
+    </div>
+  </div>
 
 
 </div>
