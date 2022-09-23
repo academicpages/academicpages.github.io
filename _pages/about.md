@@ -22,6 +22,7 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
 
 ## News
 * \[2022.07\] I presented my work with Amazon Robotics on [Deadline Aware Multi-Agent Tour Planning](https://hsi-workshop.github.io/hsi-2022-camera-ready/Deadline-Aware_Multi-Agent_Tour_Planning.pdf) at [HSI Workshop 2022 (in conjunction with IJCAI-ECAI 2022)](https://hsi-workshop.github.io/program.html).
+* \[2022.05\] Undergrad student Shuyang Zhang, that I co-advised with [Jiaoyang Li](https://jiaoyangli.me/), won the USC Outstanding CS Undergraduate Research Award. We published a paper at SoCS-22 on learning priority orders for agents in path planning. 
 * \[2022.04\] My research on Enhancing Seismic Resilient Water Pipe Network is selected for oral presentation at the Fourteenth Annual Annenberg Graduate Fellowship Research and Creative Project Symposium. Only six submissions were selected!
 * \[2022.03\] I passed the Qualification Exam and now I am a Ph.D. candidate!
 * \[2021.12\] Our paper on ML-guided large neighborhood search for MAPF is accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
