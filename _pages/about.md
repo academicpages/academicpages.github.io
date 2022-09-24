@@ -75,6 +75,10 @@ Yongjun Zhang. Oct 2021. ["Using Population Mobility Data to Measure Racial Segr
 
 Yongjun Zhang. Sept 24, 2021. "Using Relational Data from Facebook and SafeGraph to Measure Racial Segregation." Department of Physchology, Stony Brook University.
 
+## Watch Youtube Self-Introduction
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTZ8iv2r8P0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Social Media
 
 <a class="twitter-timeline" data-width="500" href="https://twitter.com/DrJoshZhang?ref_src=twsrc%5Etfw">Tweets by DrJoshZhang</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
