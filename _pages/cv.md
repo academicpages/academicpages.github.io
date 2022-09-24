@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Mathematical Engineering, Universidad Complutense, Madrid, Spain, 2016-2020
+* B.S. Mathematical Engineering, University of Southampton, Southampton, UK, 2018
+* MSc. Applied and Industrial Mathematics: Data Science, École National Supérieure
+d'Informatique et de Mathématiques appliquées (Ensimag), Grenoble, France, 2020
+* Ph.D in Signal and Image Processing, 2025 (expected)
 
 Work experience
 ======
