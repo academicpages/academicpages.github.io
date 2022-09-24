@@ -23,13 +23,13 @@ Prior to starting my PhD, I carried out research in the field of Health Informat
 
 
 
-:small_orange_diamond: - Denotes alphabetical author order
+🔸 - Denotes alphabetical author order
 
 ##### Under Review/In Preparation
 
 * [Sublinear Time Eigenvalue Approximation via Random Sampling](https://arxiv.org/pdf/2109.07647)\
 Under Review\
-:small_orange_diamond: _Rajarshi Bhattacharjee, Gregory Dexter, Petros Drineas, Cameron Musco, and Archan Ray_
+🔸 _Rajarshi Bhattacharjee, Gregory Dexter, Petros Drineas, Cameron Musco, and Archan Ray_
 
 * Improved Feature Extraction for High-Dimensional Generalized Linear Models via
 Sketching\
