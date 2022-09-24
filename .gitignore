@@ -1,2 +1,5 @@
 _site/
 
+.bundle/config
+vendor
+Gemfile.lock
