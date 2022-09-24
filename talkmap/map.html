@@ -20,15 +20,15 @@
     	<div id="map"></div>
     	<span>Mouse over a cluster to see the bounds of its children and click a cluster to zoom to those bounds</span>
     	<script type="text/javascript">
-    		var tiles = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
+    		var tiles = L.tileLayer('https://cartodb-basemaps-a.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png', {
               maxZoom: 18,
-              attribution: 'Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012'
+              attribution: 'Tiles &copy; Carto &mdash; Source: Carto'
                     }),
     			latlng = L.latLng(30, 10);
     		var map = L.map('map', {center: latlng, zoom: 0.7, layers: [tiles]});
     		var markers = L.markerClusterGroup({
     			showCoverageOnHover: false,
-    			maxClusterRadius: 80
+    			maxClusterRadius: 30
     			});
     		for (var i = 0; i < addressPoints.length; i++) {
     			var a = addressPoints[i];
