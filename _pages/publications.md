@@ -19,17 +19,17 @@ author_profile: true
  
 My current research often considers problems related to *Randomized Numerical Linear Algebra* (RandNLA).  This area can be regarded as a fusion between more theoretically oriented fields, such as random matrix theory and matrix perturbation theory, with the more practice-oriented field of numerical linear algebra.  This area thoroughly captures my goal of studying practical theory.  I spend my time learning about mathematically elegant results, such as establishing [matrix concentration inequalities](https://arxiv.org/pdf/1501.01571.pdf) via the matrix Laplace transform, and then use the consequences of these results to develop new approaches to ubiquitous computational problems, such as linear optimization.
 
-Prior to starting my PhD, I carried out research in the field of Health Informatics, working with researchers at Regenstrief Institute.  While doing so, I asked (and partially answered) questions related to the deployment of machine learning in healthcare.  This was an excellent experience, as it emphasized the systems-level challenges (e.g. data privacy, bureaucratic inertia, formatting standards) to effectively using the algorithms we develop to solve end-use problems.  
+Prior to starting my PhD, I carried out research in the field of Health Informatics, working with researchers at Regenstrief Institute.  While doing so, I asked (and partially answered) questions related to the deployment of machine learning in healthcare.  This was an excellent experience, as it emphasized the systems-level challenges (e.g. data privacy, bureaucratic inertia, formatting standards) to effectively using the algorithms we develop to solve end-use problems.   
 
 
 
-![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) - Denotes alphabetical author order
+:small_orange_diamond: - Denotes alphabetical author order
 
 ##### Under Review/In Preparation
 
-* [Sublinear Time Eigenvalue Approximation via Random Sampling](https://arxiv.org/abs/2109.07647)\
+* [Sublinear Time Eigenvalue Approximation via Random Sampling](https://arxiv.org/pdf/2109.07647)\
 Under Review\
-![#1589F0](https://via.placeholder.com/15/1589F0/1589F0.png) _Rajarshi Bhattacharjee, Gregory Dexter, Petros Drineas, Cameron Musco, and Archan Ray_
+:small_orange_diamond: _Rajarshi Bhattacharjee, Gregory Dexter, Petros Drineas, Cameron Musco, and Archan Ray_
 
 * Improved Feature Extraction for High-Dimensional Generalized Linear Models via
 Sketching\
@@ -41,7 +41,7 @@ _**Gregory Dexter**, Jawad Raheel, Rajiv Khanna, and Petros Drineas_
 
 ##### Published/Accepted
 
-* Faster Randomized Interior Point Methods for Tall/Wide Linear Programs\
+* [Faster Randomized Interior Point Methods for Tall/Wide Linear Programs](https://arxiv.org/pdf/2209.08722.pdf)\
 To Appear in JMLR\
 _Agniva Chowhdury, **Gregory Dexter**, Palma London, Haim Avron, and Petros Drineas_
 
@@ -51,11 +51,11 @@ ICML 2022, **Selected for long presentation (2% acceptance rate)**\
 _**Gregory Dexter**, Agniva Chowhdury, Haim Avron, and Petros Drineas_
 
 
-* [Inverse Reinforcement Learning in a Continuous State Space with Formal Guarantees](https://arxiv.org/abs/2102.07937)\
+* [Inverse Reinforcement Learning in a Continuous State Space with Formal Guarantees](https://arxiv.org/pdf/2102.07937.pdf)\
 NeurIPS 2021\
 _**Gregory Dexter**, Kevin Bello, and Jean Honorio_
 
-* [Randomized linear algebra approaches to estimate the von neumann entropy of density matrices](https://arxiv.org/abs/1801.01072)\
+* [Randomized linear algebra approaches to estimate the von neumann entropy of density matrices](https://arxiv.org/pdf/1801.01072)\
 IEEE Transactions on Information Theory (2020)\
 _Eugenia-Maria Kontopoulou, **Gregory Dexter**, Wojciech Szpankowski, Ananth Grama, and Petros Drineas_
 
