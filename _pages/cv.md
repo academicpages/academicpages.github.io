@@ -26,10 +26,11 @@ Service
 ======
 * Reviewer:
   * Journals
+    * IEEE Transactions on Pattern Analysis and Machine Inteeligence (TPAMI)
+    * IEEE Transactions on Computer-Aided Design OF Integrated Circuits and Systems (TCVST)
     * Information Fusion
     * Neuralcomputing
     * Affective Computing
-    * IEEE Transactions on Computer-Aided Design OF Integrated Circuits and Systems (TCVST)
     * IEEE Transactions on Intelligent Transportation Systems (T-ITS)
   * Conferences
     * ICLR 2022
