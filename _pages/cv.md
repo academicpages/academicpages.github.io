@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* 2022/09-present Doctoral researcher at UCL's Centre for Doctoral Training in Data Intensive Science working with the AstroInfo group at Mullard Space Science Laboratory
+* 2022/09-present PhD student at UCL's Centre for Doctoral Training in Data Intensive Science working with the AstroInfo group at Mullard Space Science Laboratory
 
 * 2021/10-2022/08 Project collaborator at Yale Breast Medical Oncology Group
   * Project on ways of measuring immune repertoire diversity
