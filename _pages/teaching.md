@@ -13,7 +13,7 @@ Syllabus is [**<u>here</u>**](https://github.com/assamidanov/econ_590/blob/ba254
 ## Machine Learning in Asset Pricing - Teaching Assistant
 Graduate course, _Claremont Graduate University_, Fall 2021
 <br>
-Gave lecture on the application of Long-Term Short-Term Memory in Asset Pricing. Link for lecture and python exercise: [<u>https://github.com/assamidanov/ML-for-Asset-Pricing</u>](https://github.com/assamidanov/ML-for-Asset-Pricing).
+Gave lecture on the application of Long-Term Short-Term Memory(LSTM) in Asset Pricing. Link for lecture and python exercise: [<u>https://github.com/assamidanov/ML-for-Asset-Pricing</u>](https://github.com/assamidanov/ML-for-Asset-Pricing).
 
 ## Causal Inference and Research Design - Teaching Assistant
 _Remote Student Exchange Course for students from low and middle-income countries_, Summer 2021
