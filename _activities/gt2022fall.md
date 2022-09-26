@@ -13,7 +13,7 @@ author_profile: false
  | Thu, 2022-09-08 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-09-15 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-09-22 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
- | Thu, 2022-09-29 | 1:30pm - 2:30pm | Ruobing Zhang |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
+ | Thu, 2022-09-29 | 1:30pm - 2:30pm | Ruobing Zhang | Metric geometry of hyperkähler four-manifolds | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-10-06 | 1:30pm - 2:30pm | Vinicius G. B. Ramos |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-10-13 | 1:30pm - 2:30pm | Kristen Hendricks |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-10-20 | 1:30pm - 2:30pm | Daniel Stern |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
@@ -31,6 +31,9 @@ author_profile: false
 
 ## Abstracts
 
+* Ruobing Zhang
+  * This talk focuses on the recent resolution of the following three well-known conjectures in the field.
+    * Any volume collapsed limit of unit-diameter K3 metrics is isometrically classified as: the quotient of a flat 3D torus by an involution, a singular special Kähler metric on the topological 2-sphere, or the unit interval.
+    * Any complete non-compact hyperkähler 4-manifold with quadratically integrable curvature, must have a classified model end.
+    * Any gravitational instanton can be compactified to an open dense subset of a compact algebraic surface.
 
-* Kristen Hendricks
-  * abstracts
