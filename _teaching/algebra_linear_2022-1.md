@@ -55,6 +55,7 @@ Notas de Aula
 1. [Notas 03](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/AL_notas_03.pdf)
 1. [Notas 04](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/AL_notas_04.pdf)
 1. [Notas 05](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/AL_notas_05.pdf)
+1. [Notas 06](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/AL_notas_06.pdf)
 
 
 
