@@ -11,18 +11,22 @@ redirect_from:
 
 Education
 ======
-* MSci Physics with Theoretical Physics, Imperial College London, 2021, First Class Honours
+* PhD in Data Intensive Science, University College London, 2022-2027
+
+* MSci Physics with Theoretical Physics, Imperial College London, 2017-2021, First Class Honours
   * MSci project on Simulating Materials at Constant Pressure Using Homogeneous Coordinates
 
 Work experience
 ======
+* 2022/09-present Doctoral researcher at UCL's Centre for Doctoral Training in Data Intensive Science working with the AstroInfo group at Mullard Space Science Laboratory
+
 * 2021/10-2022/08 Project collaborator at Yale Breast Medical Oncology Group
   * Project on ways of measuring immune repertoire diversity
 
-* 2020/06-09 Research Placement at Imperial College London Astrophysics Group
+* 2020/06-09 Research placement at Imperial College London Astrophysics Group
   * Project on distance to the Large Magellanic Cloud and its implications for the Hubble Constant
 
-* 2019/06-09 Research Placement at TU Berlin Nonlinear Dynamics and Control and Applied Dynamical Systems Groups
+* 2019/06-09 Research placement at TU Berlin Nonlinear Dynamics and Control and Applied Dynamical Systems Groups
   * Project on complex dynamics in nonlocal rings of adaptively coupled phase oscillators
   
 Skills

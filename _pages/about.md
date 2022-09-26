@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-MSci Physics with Theoretical Physics graduate from Imperial College London. Experience in astrostatistics, computational biology, adaptive networks and molecular dynamics simulations.  Enthusiastic about applying the methods of data science to a variety of research fields, technology and finance.
+I'm a doctoral researcher at UCL's Centre for Doctoral Training in Data Intensive Science working with the AstroInfo group at the Mullard Space Science Laboratory.
+
+My previous research experience includes cosmology and astrostatistics, computational biology, adaptive networks and molecular dynamics simulations. I am enthusiastic about applying the methods of data science to a variety of research fields, technology and finance.
