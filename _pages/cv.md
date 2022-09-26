@@ -16,12 +16,15 @@ Education
 
 Work experience
 ======
+
+* Summer 2022: Data Scientist Intern
+  * Discover
+
 * Summer 2021: Statistician Intern
   * Sanofi Pasteur
 
 
-* Spring 2020 - Fall 2021: Research Assistant
-  * University of Minnesota-Twin Cities
+
   
 
 Publications
