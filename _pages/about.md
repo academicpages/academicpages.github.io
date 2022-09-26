@@ -21,6 +21,8 @@ If you need CSS-related talks or workshops, please feel free to contact me direc
 
 [Click Here to See Data Visualization on Segregation for the AJS Article](https://yongjunzhang.shinyapps.io/schsegapp/).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTZ8iv2r8P0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Incoming Students
 
 If you are interested in working with me at Stony Brook, feel free to apply for our program. You can also check this amazing [IACS graduate fellowship](https://iacs.stonybrook.edu/opportunities/fellowships/Graduate-Fellowships). 
@@ -74,10 +76,6 @@ Yongjun Zhang. Oct 2021. ["Residential Segregation in U.S. Metro Areas: Using Fa
 Yongjun Zhang. Oct 2021. ["Using Population Mobility Data to Measure Racial Segregation in the U.S." IACS, Stony Brook University](https://calendar.stonybrook.edu/site/iacs/event/stride-con-2021/).
 
 Yongjun Zhang. Sept 24, 2021. "Using Relational Data from Facebook and SafeGraph to Measure Racial Segregation." Department of Physchology, Stony Brook University.
-
-## Watch Youtube Self-Introduction
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTZ8iv2r8P0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Social Media
 
