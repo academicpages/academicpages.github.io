@@ -11,4 +11,4 @@ redirect_from:
 
 If file does not load below, click [THIS LINK](https://assamidanov.github.io/files/anuar_cv_updated_Oct_2022.pdf) to download.
 
-<embed src="{{ site.baseurl }}/files/anuar_cv_updated_Oct_2022.pdf" width="650" height="800" type='application/pdf'>
+<embed src="{{ site.url }}/files/anuar_cv_updated_Oct_2022.pdf" width="650" height="800" type='application/pdf'>
