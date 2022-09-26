@@ -24,6 +24,8 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/92651
 
 ## [News](#news) 
 
+ 📢 **July 9, 2022**: Our paper "An Empirical Study on Numerical Bugs in Deep Learning Programs" was accepted by ASE 2022 NIER track. Congratulations to Gan!
+ 
  📢 **June 18, 2021**: Our TOSEM paper "Practical Accuracy Estimation for Efficient Deep Neural Network Testing" was accepted as a Journal-First paper for presentation at FSE 2021. Thanks for the recognition! 
 
  📢 **May 20, 2021**: Our paper "Exposing Numerical Bugs in Deep Learning via Gradient Back-propagation" was accepted by ESEC/FSE 2021. 
@@ -39,6 +41,8 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/92651
  **March 26, 2020**: Our research paper "Practical Accuracy Estimation for Efficient Deep Neural Network Testing" was accepted by TOSEM. 
 
 ## [Publications](#publications)
+
+<p class="small" style="font-size:16px"><span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">[ASE-NIER'22]</span> <strong>An Empirical Study on Numerical Bugs in Deep Learning Programs.</strong> <span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;"></span><br> Gan Wang, Zan Wang, Junjie Chen*, Xiang Chen, <strong>Ming Yan</strong> <br> In: <i>The 37th IEEE/ACM International Conference on Automated Software Engineering, NIER track</i>, October 10-14, 2022, pages to appear, Oakland Center, Michigan, USA </font><br></p>
 
 <p class="small" style="font-size:16px"><span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">[FSE'21]</span> <strong>Exposing Numerical Bugs in Deep Learning via Gradient Back-propagation.</strong> <span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">(CCF-A)</span><br> <strong>Ming Yan</strong>, Junjie Chen*, Xiangyu Zhang, Lin Tan, Gan Wang, Zan Wang<br> In: <i>The 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering</i>, August 23-28, 2021, 627-638, Athens, Greece<br> <font color="red" style="font-style:bold"><strong>ACM SIGSOFT Distinguished Paper Award Nominee</strong> </font><br></p>
 
@@ -68,4 +72,3 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/92651
 - 2020: Innovation Scholarship, College of Intelligence and Computing, Tianjin University
 - 2020: ACM SIGSOFT Distinguished Paper Award
 - 2018: Outstanding Graduate Students, Tianjin University (bachelor's degree)
-
