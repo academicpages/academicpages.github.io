@@ -8,12 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student advised by [Prof. Guoliang Fan](https://ceat.okstate.edu/ece/faculty/guoliang-fan.html) in the [School of Electrical & Computer Engineering](https://ceat.okstate.edu/ece/)of the Oklahoma State University (OSU). Before studying at OSU, I worked as a software testing engineer in China for seven years.I got my bachelor's degrees (2005-2009) from XI'AN Jiaotong University.
+I am a fourth-year Ph.D. student advised by [Prof. Guoliang Fan](https://ceat.okstate.edu/ece/faculty/guoliang-fan.html) in the [School of Electrical & Computer Engineering](https://ceat.okstate.edu/ece/)of the Oklahoma State University (OSU). Before studying at OSU, I worked as a software testing engineer in China for seven years.
 
 Research Interests
 ======
-My research focus on advanced data analytics-based quality assurance for smart manufacturing from different perspectives, which invovles the general areal of machine learning, blockchain, and sensor fusion.
+My research focus on indoor localization and navigation from room layouts and image outer corners (IOCs), which invloves camera pose estimation with an optimized Perspective-n-Lines (PnL) method, deep learning, data fusion. 
 
-Data quality assurance: Propose a blockchain-enabled framework to prevent malicious cyber-physical attacks occuring on important data (stream data) and files (G-code).
-Design quality assurance: Develop an autoencoder-based feature extraction method for smart machine parameter selection.
-Process quality assurance: Incorporate LSTM-autoencoder, augmented time regularized genetative adversarial network (ATR-GAN), knowledge distillation (ongoing) to enhance the in-situ monitoring performance.
+* Indoor localization: Proposed a new method, PnL-IOC, based on the traditional PnL methods and introducing room layouts and IOCs.
+* Indoor cammera pose estimation: Propose a probabilistic Perspective-n-Lines layer for indoor camera pose estimation by using room layouts and IOCs.
+* Indoor navigation: Propose a data fusion method, which can fusion indoor image data and room layout and IOCs to implement navigation.  
+ 
+
+
+Education
+======
+**Oklahoma State University**
+**Ph.D.** major in Electrical and Computer Engineering (Aug. 2019 - Present)
+**Monroe College**
+**Master** of Computer Science (Apr. 2017 - Aug 2019)
+**Xi'an Jiaotong University**
+**B.Eng.** in Mechanical Engineering (Aug. 2005 - Jun. 2009)
