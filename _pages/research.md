@@ -9,6 +9,8 @@ My research lies at the intersection between international and comparative polit
 
 [Planning for a Post-Neoliberal Age? The Political Economy of EU Industrial Policy](https://www.luukschmitz.com/research/post-neoliberal)
 
-[Saying the Quiet Part Out Loud? How Businessess and States Exert Power](https://www.luukschmitz.com/research/quiet-noisy)
+[Twin Transitions, Twin Imaginaries? The Political Economy of Green and Digital Transitions](https://www.luukschmitz.com/research/twin)
+
+#[Between Quiet and Noisy Politics](https://www.luukschmitz.com/research/quiet-noisy)
 
 [The Politics of EU External Policy](https://www.luukschmitz.com/research/eu-external)
