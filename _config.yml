@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiaowei Chen / Personal Website"
 title_separator          : "-"
 name                     : &name "Xiaowei Chen"
-description              : &description "personal description"
+description              : &description "Research Assistant at Oklahoma State University"
 url                      : https://xiaoweichenosu.github.io/xiaowei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xiaoweichenosu.github.io/xiaowei.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Xiaowei Chen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research Assistant at Oklahoma State University, expert in first person vision and wearable computig"
+  location         : "Stillwater, Oklahoma"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=R8Kp9tkAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
