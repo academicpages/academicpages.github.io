@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xiaowei Chen"
   avatar           : "profile.png"
-  bio              : "Research Assistant   Expert in first person vision and wearable computig"
+  bio              : "Research Assistant    First person vision    Wearable computig"
   location         : "Stillwater, Oklahoma"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=R8Kp9tkAAAAJ&hl=en"
-  email            :
+  email            : "xchen8897@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/xiaowei-chen-a4642b244/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
