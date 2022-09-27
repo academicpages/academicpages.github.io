@@ -59,7 +59,7 @@ Schechtl, Manuel, Daria Tisch: My Wealth, Our Taxes? Cross-National Experimental
 Tisch, Daria, Emma Ischinsky: The role of the family in Germany’s Largest Fortunes
 
 
-Tisch, Daria, Manuel Schechtl: [Gender differences in parental wealth transfers](https://dariatisch.github.io/presentation_gender_transfer_gap) and how the German tax system contributes to the gender wealth ga[p](https://keeper.mpdl.mpg.de/f/56f88c6b63664acd847c/)
+Tisch, Daria, Manuel Schechtl: [Gender differences in parental wealth transfers](https://dariatisch.github.io/presentation_gender_transfer_gap) and how the German tax system contributes to the gender wealth ga[p](https://keeper.mpdl.mpg.de/f/a87fa3caf8e740dcadb6/)
 
 
 
