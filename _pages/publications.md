@@ -18,4 +18,6 @@ author_profile: true
 
 (With [Donato Di Carlo](https://www.mpifg.de/person/110112/2733)) Collaborative Advantage in a Geopolitical World: How the European Commission fosters Innovation in the Single Market. 
 
-(With [Timur Ergen](https://tergen.org/)) The political role of industrial policy in green energy transitions. 
+(With [Timur Ergen](https://tergen.org/)) Free Markets à la Carte? Infrastructural Power in the European Green New Deal. 
+
+(With Johanna Breuer) 30 Years on: Revisiting the European Bargain.
