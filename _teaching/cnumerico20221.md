@@ -51,6 +51,8 @@ Aulas
 
 * [Interpolação - Introdução](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/interpolacao_intro.pdf)
 
+* [Método dos Mínimos Quadrados](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/mmq.pdf)
+
 * [Integração - Regra do Trapézio](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/trapezio.pdf)
 
 * [Integração - Regra de Simpson](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/simpson.pdf)
