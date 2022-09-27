@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xiaowei Chen / Personal Website"
+title                    : "Xiaowei Chen (陈小维)"
 title_separator          : "-"
 name                     : &name "Xiaowei Chen"
 description              : &description "Research Assistant at Oklahoma State University"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiaowei Chen"
   avatar           : "profile.png"
-  bio              : "Research Assistant at Oklahoma State University, expert in first person vision and wearable computig"
+  bio              : "Research Assistant   Expert in first person vision and wearable computig"
   location         : "Stillwater, Oklahoma"
   employer         :
   pubmed           : 
