@@ -11,9 +11,9 @@ title                    : "Xiaowei Chen (陈小维)"
 title_separator          : "-"
 name                     : &name "Xiaowei Chen"
 description              : &description "Research Assistant at Oklahoma State University"
-url                      : https://xiaoweichenosu.github.io/xiaowei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xiaoweichenosu.github.io/X # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xiaoweichenosu.github.io/xiaowei.github.io"
+repository               : "xiaoweichenosu.github.io/X"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
