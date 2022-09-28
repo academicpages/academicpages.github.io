@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student advised by [Prof. Guoliang Fan](https://ceat.okstate.edu/ece/faculty/guoliang-fan.html) in the [School of Electrical & Computer Engineering](https://ceat.okstate.edu/ece/)of the Oklahoma State University (OSU). Before studying at OSU, I worked as a software testing engineer in China for seven years.
+I am a fourth-year Ph.D. student advised by [Prof. Guoliang Fan](https://ceat.okstate.edu/ece/faculty/guoliang-fan.html) in the [School of Electrical & Computer Engineering](https://ceat.okstate.edu/ece/) of the Oklahoma State University (OSU). Before studying at OSU, I worked as a software testing engineer in China for seven years.
 
 Research Interests
 ======
@@ -22,9 +22,9 @@ My research focus on indoor localization and navigation from room layouts and im
 
 Education
 ======
-**Oklahoma State University**
+* **Oklahoma State University**
 **Ph.D.** major in Electrical and Computer Engineering (Aug. 2019 - Present)
-**Monroe College**
+* **Monroe College**
 **Master** of Computer Science (Apr. 2017 - Aug 2019)
-**Xi'an Jiaotong University**
+* **Xi'an Jiaotong University**
 **B.Eng.** in Mechanical Engineering (Aug. 2005 - Jun. 2009)
