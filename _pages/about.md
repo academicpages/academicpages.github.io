@@ -12,7 +12,7 @@ My name is Kia Rahmani and I am a postdoctoral fellow at the [computer science d
 
 Prior to joining University of Texas, I obtained my PhD from [Purdue University](https://www.cs.purdue.edu/) under the supervision of Prof. [S. Jagannathan](https://www.cs.purdue.edu/homes/suresh/) and Prof. [B. Delaware](https://www.cs.purdue.edu/homes/bendy/). I also did an internship with [Microsoft](https://www.microsoft.com/en-us/research/) where I developed a new neurosymbolic synthesis technique using [GPT-3](https://en.m.wikipedia.org/wiki/GPT-3) natural language model, under the supervision of Dr. [S. Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/) and Dr. [M. Raza](https://www.microsoft.com/en-us/research/people/moraza/).
 
-Outside academia, I am very passionate about martial arts, and specifically, I spend time studying and training [Brazilian Jiu Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu) system of grappling.
+Outside academia, I am very passionate about martial arts, and specifically, I spend time studying and training [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu) system of grappling.
 
 ## Academic Service
 <ul> <li> 
