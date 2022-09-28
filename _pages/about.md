@@ -38,11 +38,9 @@ I am a fourth-year PhD student studying policy analysis at the O'Neill School of
 
 ### Service
 - Health Policy Workshop, Student Coordinator, 8/2020 - present  
-- O'Neill PhD Student Association President, 2021 - present  
-- Undergraduate Honors Thesis healthcare panel chair, 4/29/2022  
+- O'Neill PhD Student Association Board Member, 2020 - present  
+- Undergraduate Honors Thesis Advising and healthcare panel chair, 4/29/2022  
 - Economics Advisory Board member, Utah Valley University, 2021 - present  
-- Program Advisory Committee member, MPA at Brookline College, 2022  
-- Association of O'Neill PhD Students Board member, 2020 - 2021  
   
 ### Fellowships
 - Rumsfeld Foundation Fellow, 2019 - 2021  
