@@ -17,16 +17,15 @@ Education
 
 Publications
 ======
-{% for post in site.publications reversed %} {% include archive-single-cv.html %} {% endfor %}
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Presentations 
 ======
-<!-- * 2022: Oral presentation at DTU Microbe Initiative Conference 2022 titled "Large-scale analysis of 214K metagenomes for antimicrobial resistance surveillance".
-* 2021 : Oral presentation at NNF Symposium 2021 on "Local Landscape and Outlook Regarding Solutions to Antimicrobial Resistance Challenges" titled "Global distribution of AMR gene variants in 214,095 metagenomic samples".
-* 2021 : Oral presentation at VEO Symposium 2021 titled "Using publicly available metagenomes to describe the distribution of *mcr* gene variants".
-* 2020 : Oral presentation at the ASM Conference on Rapid Applied Microbial Next-Generation Sequencing and Bioinformatic Pipelines. -->
-  
-{% for post in site.talks reversed %} {% include archive-single-talk.html %} {% endfor %}
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
 
 
 Poster presentations
