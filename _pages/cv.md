@@ -27,15 +27,6 @@ Presentations
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-
-Poster presentations
-======
-* 2022 : Poster presentation at ISME18.
-* 2022 : Poster presentation at ASM Microbe 2022. 
-* 2021 : Poster presentation at the 6th Annual Danish Bioinformatics Conference.
-* 2020 : Poster presentation at the Antimicrobial Resistance – Genomes, Big Data and Emerging Technologies virtual conference.
-
-
 Teaching & Supervision
 ======
 * 2022 : Lecture for students at University of Vic on "Fighting antimicrobial resistance with genomic surveillance".
