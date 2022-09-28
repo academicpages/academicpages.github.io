@@ -1,6 +1,6 @@
 ---
 title: "Development and long-term cycles in Peru, 1700-2020"
-excerpt: "(With Bruno Seminario & Vanessa Berrocal)."
+excerpt: "(With Bruno Seminario & Vanessa Berrocal)"
 collection: research
 ---
 

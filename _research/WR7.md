@@ -1,6 +1,6 @@
 ---
 title: "Evolution of the economic space in Peru since 1795"
-excerpt: "(With Bruno Seminario & María Alejandra Zegarra)."
+excerpt: "(With Bruno Seminario & María Alejandra Zegarra)"
 collection: research
 ---
 
