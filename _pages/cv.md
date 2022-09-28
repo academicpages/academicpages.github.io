@@ -24,7 +24,7 @@ Publications
 Presentations 
 ======
   <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single-talk-cv.html reversed%}
   {% endfor %}</ul>
 
 Teaching & Supervision
