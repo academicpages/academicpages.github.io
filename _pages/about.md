@@ -22,9 +22,9 @@ My research focus on indoor localization and navigation from room layouts and im
 
 Education
 ======
-* **Oklahoma State University**<br /> 
+**Oklahoma State University**<br /> 
 **Ph.D.** major in Electrical and Computer Engineering (Aug. 2019 - Present)<br /> 
-* **Monroe College**<br /> 
+**Monroe College**<br /> 
 **Master** of Computer Science (Apr. 2017 - Aug 2019)<br /> 
-* **Xi'an Jiaotong University**<br /> 
+**Xi'an Jiaotong University**<br /> 
 **B.Eng.** in Mechanical Engineering (Aug. 2005 - Jun. 2009)
