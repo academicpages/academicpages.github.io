@@ -85,7 +85,7 @@ author:
   bio              : "Hi there! I'm a PhD student in Statistics at UBC. [This page is still under developing. :]"
   location         : "Vancouver, BC, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : 
   email            : "jiaping.liu@stat.ubc.ca"
   researchgate     :  
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jiaping9"
   orcid            : 
   pinterest        :
   soundcloud       :
