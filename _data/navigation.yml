@@ -13,10 +13,7 @@ main:
     url: /tutoring/
     
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /posts/
    
   - title: "Other activities"
     url: /activities/
-    
-  - title: "Guide"
-    url: /markdown/
