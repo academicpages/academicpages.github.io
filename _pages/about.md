@@ -22,7 +22,7 @@ News
 
 **Sep. 2022:** Invited to serve as a PC member of LOG 2022 and SDM 2023.
 
-**Sep. 2022:** Thrilled to receive the Student Travel Grant Award, Computer Science and Engineering, Texas A&M University, 2022.
+**Sep. 2022:** Thrilled to receive Student Travel Grant Award, Computer Science and Engineering, Texas A&M University, 2022.
 
 **Aug. 2022:** Our real-time object detection based on MAX78000 is accepted by CIKM 2022 (demo).
 
