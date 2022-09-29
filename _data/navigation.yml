@@ -5,6 +5,9 @@ main:
 
   - title: "Resume"
     url: /files/resume.pdf    
+    
+   - title: "CV"
+    url: /files/resume.pdf 
 
   - title: "Teaching"
     url: /teaching/    
@@ -15,8 +18,5 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /files/resume.pdf 
-    
-  - title: "Guide"
-    url: /markdown/
+#   - title: "Guide"
+#     url: /markdown/
