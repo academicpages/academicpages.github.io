@@ -2,7 +2,7 @@
 title: "TAing: STAT 306"
 collection: teaching assistant
 type: "Undergraduate course"
-permalink: /teaching/2022-winter-term-1
+permalink: /ta-ing/2022-winter-term-1
 venue: "UBC, STATS"
 date: 2022-09
 location: "Vancouver, CA"
