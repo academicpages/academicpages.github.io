@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "瓶子(Olivia) / Home"
+title                    : "瓶子 Olivia / Home"
 title_separator          : "-"
 name                     : &name "Olivia"
 description              : &description "personal description"
