@@ -199,7 +199,9 @@ Work team member
 
 # TEACHING
 ===========
-### Supervisor _Master&#39;s Thesis Dissertations_ 2021
+### Lecturer _Communication Research Methods_ 2022-2023
+(_Métodos de Investigación en Comunicación_). Bachelor in Audiovisual Communication and Creation, University of Salamanca
+### Supervisor _Master&#39;s Thesis Dissertations_ 2022
 (2 students) MSc Strategic Communication and Public Relations, Pompeu Fabra University
 ### Lecturer _Advanced Data Analyses_ 2022
 (_Análisis Avanzado de Datos_).
