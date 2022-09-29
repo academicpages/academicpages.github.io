@@ -2,21 +2,21 @@
 main:
   - title: "Publications"
     url: /publications/
+  
+  - title: "News"
+    url: /news/
 
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Tutoring"
+    url: /tutoring/
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
+   
+  - title: "Other activities"
+    url: /activities/
     
   - title: "Guide"
     url: /markdown/
