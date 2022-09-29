@@ -15,7 +15,8 @@ author_profile: false
  | Thu, 2022-09-22 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-09-29 | 2:00pm - 3:00pm | Ruobing Zhang | Metric geometry of hyperkähler four-manifolds | Vincent 215 | 
  | Thu, 2022-10-06 | 1:30pm - 2:30pm | Vinicius G. B. Ramos |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
- | Thu, 2022-10-13 | 1:30pm - 2:30pm | Kristen Hendricks |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
+ | Thu, 2022-10-13 | 1:30pm - 2:30pm | Kristen Hendricks | Title: Rank inequalities for the Heegaard Floer homology of branched covers
+ | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-10-20 | 1:30pm - 2:30pm | Daniel Stern |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-10-27 | 1:30pm - 2:30pm | Ao Sun |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-11-03 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
@@ -36,4 +37,7 @@ author_profile: false
     * Any volume collapsed limit of unit-diameter K3 metrics is isometrically classified as: the quotient of a flat 3D torus by an involution, a singular special Kähler metric on the topological 2-sphere, or the unit interval.
     * Any complete non-compact hyperkähler 4-manifold with quadratically integrable curvature, must have a classified model end.
     * Any gravitational instanton can be compactified to an open dense subset of a compact algebraic surface.
+* Kristen Hendricks
+  * Abstract: We discuss the history of applying localization results in equivariant Lagrangian Floer homology to Heegaard Floer homology to obtain rank inequalities for various versions of the Heegaard Floer homology of branched double covers. We then use recent refinements on the symplectic side to establish an inequality between the dimensions of the Heegaard Floer homologies of any double cover between three-manifolds branched along a nulhomologous link. We discuss the relationship with the L-space conjecture and (time permitting) mention some other topological applications. This is joint work with R. Lipshitz and T. Lidman.
+
 
