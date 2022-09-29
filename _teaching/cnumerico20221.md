@@ -81,4 +81,4 @@ Notebooks
 ======
 * [Interpolação Polinomial](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/interpolacaoPoly.ipynb)
 
-* [Regra do Trapézio](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/integracao_trapezio.ipynb)
+* [Integração: Regra do Trapézio e Regra de Simpson](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/integracao.ipynb)
