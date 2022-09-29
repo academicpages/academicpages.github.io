@@ -7,13 +7,13 @@ author_profile: false
 
 ## Differential geometry and symplectic topology seminar (Fall 2022)
 
-| date | time | speaker | title | zoom link 
+| date | time | speaker | title | location 
 | -- | -- | ---- | -------- | ----- 
 | Thu, 2022-09-01 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-09-08 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-09-15 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-09-22 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
- | Thu, 2022-09-29 | 1:30pm - 2:30pm | Ruobing Zhang | Metric geometry of hyperkähler four-manifolds | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
+ | Thu, 2022-09-29 | 2:00pm - 3:00pm | Ruobing Zhang | Metric geometry of hyperkähler four-manifolds | Vincent 215 | 
  | Thu, 2022-10-06 | 1:30pm - 2:30pm | Vinicius G. B. Ramos |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-10-13 | 1:30pm - 2:30pm | Kristen Hendricks |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-10-20 | 1:30pm - 2:30pm | Daniel Stern |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
