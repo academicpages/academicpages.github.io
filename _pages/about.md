@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a third-year Ph.D. student in the [Department of Computer Science](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/), advised by [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). 
+* I am currently a fourth-year Ph.D. student in the [Department of Computer Science](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/), advised by [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). 
 
 * Previously, I received the M.S. degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) under supervision of [Prof. Chen Gong](http://staff.ustc.edu.cn/~cgong821/) and Prof. Zhengyuan Xu, and the B.S. degree from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/).
 
