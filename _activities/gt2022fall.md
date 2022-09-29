@@ -37,6 +37,7 @@ author_profile: false
     * Any volume collapsed limit of unit-diameter K3 metrics is isometrically classified as: the quotient of a flat 3D torus by an involution, a singular special Kähler metric on the topological 2-sphere, or the unit interval.
     * Any complete non-compact hyperkähler 4-manifold with quadratically integrable curvature, must have a classified model end.
     * Any gravitational instanton can be compactified to an open dense subset of a compact algebraic surface.
+
 * Kristen Hendricks
   * Abstract: We discuss the history of applying localization results in equivariant Lagrangian Floer homology to Heegaard Floer homology to obtain rank inequalities for various versions of the Heegaard Floer homology of branched double covers. We then use recent refinements on the symplectic side to establish an inequality between the dimensions of the Heegaard Floer homologies of any double cover between three-manifolds branched along a nulhomologous link. We discuss the relationship with the L-space conjecture and (time permitting) mention some other topological applications. This is joint work with R. Lipshitz and T. Lidman.
 
