@@ -7,9 +7,8 @@ collection: portfolio
 Introduction
 ===
 
-[paper](http://remyjkim.github.io/files/Survey_Exploration_RL.pdf)
-
-Introduction: 
+[the survey paper in pdf](http://remyjkim.github.io/files/Survey_Exploration_RL.pdf)
+ 
 Exploration versus exploitation is a critical topic in reinforcement learning.
 Although the ultimate goal of RL problems is to maximize the expected reward of the policy, committing to solutions too early on without enough exploration has significant opportunity costs.
 Modern RL algorithms such as Lillicrap et al.(2016), Schulman et al.(2015), Schulman et al.(2017) that optimize for the best returns can achieve good exploitation quite efficiently, while exploration remains more like an open topic.
