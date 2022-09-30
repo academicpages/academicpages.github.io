@@ -32,3 +32,12 @@ Another line of my research on interpretability studies interpretable driving po
 <font size=3> 2. <b>C. Tang</b><sup>*</sup>, Z. Xu<sup>*</sup>, and M. Tomizuka, "Disturbance-Observer-Based Tracking Controller for Neural Network Driving Policy Transfer," <em>IEEE Transactions on Intelligent Transportation Systems</em>, 2020 </font><br>
 <font size=3> 3. J. Li, <b>C. Tang</b>, W. Zhan, and M. Tomizuka, “Hierarchical planning through goal-conditioned offline reinforcement learning,” <em>IEEE Robotics and Automation Letters (RA-L)</em> and <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2022 </font><br></p>
  
+## Improving Robustness of Autonomous Driving Models
+<p><b>Related Publications:</b><br>
+<font size=3> 1. Z. Xu<sup>*</sup>, <b>C. Tang</b><sup>*</sup>, and M. Tomizuka, “Zero-shot Deep Reinforcement Learning Driving Policy Transfer for Autonomous Vehicles based on Robust Control,” <em>IEEE International Conference on Intelligent Transportation Systems (ITSC)</em>, 2018 </font><br>
+<font size=3> 2. <b>C. Tang</b><sup>*</sup>, Z. Xu<sup>*</sup>, and M. Tomizuka, "Disturbance-Observer-Based Tracking Controller for Neural Network Driving Policy Transfer," <em>IEEE Transactions on Intelligent Transportation Systems</em>, 2020 </font><br>
+<font size=3> 3. J. Li, <b>C. Tang</b>, W. Zhan, and M. Tomizuka, "Dealing with the unkonw: Pessimistic Offline Reinforcement Learning," <em>5th Annual Conference on Robot Learning (CoRL)</em>, 2022 </font><br>
+<font size=3> 4. J. Li, <b>C. Tang</b>, W. Zhan, and M. Tomizuka, “Hierarchical planning through goal-conditioned offline reinforcement learning,” <em>IEEE Robotics and Automation Letters (RA-L)</em> and <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2022 </font><br>
+<font size=3> 5. <b>C. Tang</b>, W. Zhan and M. Tomizuka, "Exploring Social Posterior Collapse in Variational Autoencoder for Interaction Modeling," <em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2021</font><br>
+<font size=3> 6. C. Xu<sup>*</sup>, T. Li<sup>*</sup>, <b>C. Tang</b><sup>*</sup>, L. Sun, K. Keutzer, M. Tomizuka, A. Fathi, and W. Zhan, "PreTraM: Self-Supervised Pre-training via Connecting Trajectory and Map," <em>European Conference on Computer Vision (ECCV)</em>, 2022 </font><br></p>
+ 
