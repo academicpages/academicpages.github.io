@@ -2,7 +2,7 @@
 title: "Survey of Deep Exploration"
 date: 2022-09-05
 # excerpt: ""
-collection: project
+collection: projects
 ---
 
 Introduction
