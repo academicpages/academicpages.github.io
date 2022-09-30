@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "Gurugram, India"
+title                    : "Dhruv's Webpage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Dhruv Rathee"
+description              : &description "Senior at GGSIPU"
+url                      : https://dhruvrathee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "dhruvrathee.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,42 +80,43 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  name             : "Dhruv Rathee"
+  avatar           : "me.jpg"
+  bio              : "Research Intern at IITH & JU"
+  location         : "Hyderabad, India"
+  employer         : "Indian Institute of Technology Hyderabad & Jadavpur University"
+ # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=P6GgDCcAAAAJ&hl=en"
+  email            : dhruvrathee06@gmail.com
+  researchgate     : "https://www.researchgate.net/profile/Dhruv-Rathee-2/research"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
-  github           : "academicpages"
+  github           : "12-crypto"
   google_plus      :
   keybase          :
-  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/dhruv-rathee-67580b1b0/"
+  orcid            : "https://orcid.org/0000-0003-4843-3967"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
   youtube          :
+  #scopus           : "https://www.scopus.com/results/authorNamesList.uri?sort=count-f&src=al&affilName=Jaypee+institute+of+information+technology&sid=321baae451cfac7404211cb061d32ffa&sot=al&sdt=al&sl=95&s=AUTHLASTNAME%28Bhagat%29+AND+AUTHFIRST%28Lalit%29+AND+AFFIL%28Jaypee+institute+of+information+technology%29&st1=Bhagat&st2=Lalit&orcidId=&selectionPageSearch=anl&reselectAuthor=false&activeFlag=true&showDocument=false&resultsPerPage=20&offset=1&jtp=false&currentPage=1&previousSelectionCount=0&tooManySelections=false&previousResultCount=0&authSubject=LFSC&authSubject=HLSC&authSubject=PHSC&authSubject=SOSC&exactAuthorSearch=false&showFullList=false&authorPreferredName=&origin=searchauthorfreelookup&affiliationId=&txGid=c41e7a15c56326c8f00bfdfffe0d7e67"
   wikipedia        :
-
+  instagram        : "dhruvrathee_06"
+  
 
 # Reading Files
 include:
@@ -181,12 +182,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+ # portfolio:
+  #  output: true
+   # permalink: /:collection/:path/
+#  talks:
+ #   output: true
+  #  permalink: /:collection/:path/
 
 
 # Defaults
@@ -244,7 +245,8 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+      
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass

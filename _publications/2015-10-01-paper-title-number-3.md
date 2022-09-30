@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Image Correction and Identification of Ishihara Test Imagesfor Color Blind Individual"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Color blindness is when someone is unable to see color in a normal way or make out the differences in certain colors. The color-sensitive cells in our eyes react differently to various wavelengths of light giving our brain the information needed to create the ‘perceived’ color in our vision. There is no way to rectify the cells. In other words, color blind people cannot be treated. This paper uses image processing techniques to make Ishihara Test (test for color deficiency) images visible to partially and totally color blind people. Authors have targeted the following types of dichromatic color blindness—deuteranopia, protanopia, tritanopia and also monochromatic color blindness. All of this is achieved by applying various state-of-the-art image processing and mathematical operations in the image pixels to allow the user to ‘perceive’ the color as it was intended. To give a kind of proof of concept of the image processing for complete color blindness, a machine learning model has been implemented and trained on the widely known MNIST dataset.'
+date: 25 May 2021
+venue: 'Springer'
+paperurl: 'https://doi.org/10.1007/978-981-16-0733-2_70'
+citation: 'Bansal H.,Bhagat L., Mittal S., Tiwari A. (2021) Image Correction and Identification of Ishihara Test Imagesfor Color Blind Individual. Proceedings of Second International Conferenceon Computing, Communications, and Cyber-Security. Lecture Notes in Networks and Systems, vol 203. Springer, Singapore.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Color blindness is when someone is unable to see color in a normal way or make out the differences in certain colors. The color-sensitive cells in our eyes react differently to various wavelengths of light giving our brain the information needed to create the ‘perceived’ color in our vision. There is no way to rectify the cells. In other words, color blind people cannot be treated. This paper uses image processing techniques to make Ishihara Test (test for color deficiency) images visible to partially and totally color blind people. Authors have targeted the following types of dichromatic color blindness—deuteranopia, protanopia, tritanopia and also monochromatic color blindness. All of this is achieved by applying various state-of-the-art image processing and mathematical operations in the image pixels to allow the user to ‘perceive’ the color as it was intended. To give a kind of proof of concept of the image processing for complete color blindness, a machine learning model has been implemented and trained on the widely known MNIST dataset.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Link](https://doi.org/10.1007/978-981-16-0733-2_70)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
