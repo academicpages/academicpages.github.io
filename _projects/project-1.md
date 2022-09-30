@@ -1,7 +1,7 @@
 ---
 title: "Survey of Deep Exploration"
 date: 2022-09-05
-# excerpt: ""
+excerpt: "A paper on Deep Exploration Research Literature"
 collection: projects
 ---
 
