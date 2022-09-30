@@ -14,6 +14,6 @@ RL researches on exploration has been centered around Atari-games and control pr
 
 
 These are the tasks from openGym Mujoco suite that were used for this experiment.
-![fetchPush task : ](http://remyjkim.github.io/images/fetchPush.png)
-![fetchPushandpick task : ](http://remyjkim.github.io/images/fetchPushandpick.png)
-![fetchSlide task : ](http://remyjkim.github.io/images/fetchSlide.png)
+![fetchPush task : ](http://remyjkim.github.io/images/fetchPush.png =100x)
+![fetchPushandpick task : ](http://remyjkim.github.io/images/fetchPushandpick.png =100x)
+![fetchSlide task : ](http://remyjkim.github.io/images/fetchSlide.png =100x)
