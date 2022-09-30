@@ -7,10 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a first-year master's student at the University of Pennsylvania's Computer and Information Science program. I'm a interested in how structures relate to dynamic systems.  
-I have interest in Web3, Reinforcement Learning, Good Decision-making and how the humanity's giant "capitalism" experiment/structure relates to the innately dynamic nature of humans.
+I'm a first-year master's student at the University of Pennsylvania's Computer and Information Science program. I'm a interested in Web3, reinforcement learning(especially the "exploration vs exploitation" problem), mechanisms of great decision-making and how the humanity's giant "capitalism" experiment/structure relates to the dynamic nature of humans.
 
-Thanks for taking your time to get to know me better. 
+I did my undergraduate at Seoul National University in Electrical/Computer Engineering and Business Administration. There, I was fortunate to have been advised by Prof. Minhwan Oh and Prof. Taesup Moon.
+
+Thanks for taking your time to getting to know me better. 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
