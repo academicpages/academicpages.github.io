@@ -14,7 +14,7 @@ I'm still in search of **indomitable structural changes in the world** and **the
 
 I did my undergraduate studies at Seoul National University in Electrical/Computer Engineering and Business Administration. There, I was fortunate to have been advised by [Prof. Minhwan Oh](http://www.columbia.edu/~mo2499/) and [Prof. Taesup Moon](https://mindlab-skku.github.io/people/pi/).
 
-<img src="http://remyjkim.github.io/images/metaai_brain_world_rl.jpeg"  width="70%" height="70%">
+<img src="http://remyjkim.github.io/images/metaai_brain_world_rl.png"  width="70%" height="70%">
 
 I'm also interested in the neuroscience around habit formation. Some good places to start are: [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299/ref=sr_1_1?keywords=atomic+habits&qid=1664552398&qu=eyJxc2MiOiIyLjU4IiwicXNhIjoiMi4zMSIsInFzcCI6IjIuMzcifQ%3D%3D&s=books&sprefix=atomic+h%2Cstripbooks%2C71&sr=1-1), [Good Habits, Bad Habits: The Science of Making Positive Changes That Stick](https://www.amazon.com/Good-Habits-Bad/dp/1509864768/ref=asc_df_1509864768/?tag=hyprod-20&linkCode=df0&hvadid=532655309268&hvpos=&hvnetw=g&hvrand=10229139822059692167&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9007324&hvtargid=pla-937078451185&psc=1) and [On Task: How Our Brain Gets Things Done](https://www.amazon.com/Task-Brain-Gets-Things-Done/dp/0691234701/ref=sr_1_1?crid=KL3Y372BHZOB&keywords=On+Task%3A+How+Our+Brain+Gets+Things+Done&qid=1664552351&qu=eyJxc2MiOiIxLjk2IiwicXNhIjoiMS44NCIsInFzcCI6IjEuNTkifQ%3D%3D&s=books&sprefix=on+task+how+our+brain+gets+things+done%2Cstripbooks%2C54&sr=1-1) 
 
