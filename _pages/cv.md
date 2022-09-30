@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download resume here](http://academicpages.github.io/files/Remy_Kim.pdf)
+[Download resume here](http://remyjkim.github.io/files/Remy_Kim.pdf)
 
 <!-- Education
 ======
