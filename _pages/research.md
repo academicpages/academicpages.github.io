@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My ultimate research goal is to develop <em>trustworthy autonomous agents interacting with humans</em>. My current research focuses on designing <em> explainable autonomous driving systems</em>, where the decision-making process of autonomous vehicles is <em>tractable</em> and <em>transparent</em> for humans. Such a transparent system is a prerequisite for building trust between humans and autonomous vehicles. My research efforts towards this goal mainly lie in the following aspects:
+My ultimate research goal is to develop <em>trustworthy autonomous agents interacting with humans</em>. My current research mainly focus on designing <em> explainable autonomous driving systems</em>, where the decision-making process of autonomous vehicles is <em>tractable</em> and <em>transparent</em> for humans. Such a transparent system is a prerequisite for building trust between humans and autonomous vehicles. My research efforts towards this goal mainly lie in the following aspects:
 
 ## Diagnosing Black-box Deep-Learning Functional Modules
 <img src="/images/nips.png" width="300" style="float: left; margin-right: 1em; margin-top: 0.5em; margin-bottom: 0.8em">
