@@ -1,15 +1,18 @@
 ---
 permalink: /
-title: "Remy's home: \nHow I got here, and Where I'm heading"
+title: "Remy's home: 
+How I got here, and Where I'm heading"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I'm a first-year master's student at the University of Pennsylvania's Computer and Information Science program. I'm a interested in Web3, reinforcement learning(especially the "exploration vs exploitation" problem), mechanisms of great decision-making and how the humanity's giant "capitalism" experiment/structure relates to the dynamic nature of humans.
+I'm a first-year master's student at the University of Pennsylvania's Computer and Information Science program. I'm a interested in **Web3, reinforcement learning**(especially the "exploration vs exploitation" problem), **mechanisms of great decision-making** and **how the humanity's giant "capitalism" experiment/structure relates to the dynamic nature of humans**.
 
 I did my undergraduate at Seoul National University in Electrical/Computer Engineering and Business Administration. There, I was fortunate to have been advised by Prof. Minhwan Oh and Prof. Taesup Moon.
+
+**Favorite Books:** [Antifragile: Things that gain from order](https://www.amazon.com/Antifragile-Nassim-Nicholas-Taleb-audiobook/dp/B00A2ZIZYQ/ref=sr_1_1?keywords=antifragile+by+nassim+taleb&qid=1664508252&qu=eyJxc2MiOiIyLjE5IiwicXNhIjoiMS44NCIsInFzcCI6IjEuODkifQ%3D%3D&s=audible&sprefix=antifra%2Caudible%2C55&sr=1-1)(and the whole Incerto series), [How Not to be Wrong](https://www.amazon.com/How-Not-to-Be-Wrong-audiobook/dp/B00KO83PMS/ref=sr_1_1?crid=NHWQNV9MNRNB&keywords=how+not+to+be+wrong&qid=1664508305&qu=eyJxc2MiOiIyLjEyIiwicXNhIjoiMS42MiIsInFzcCI6IjEuODUifQ%3D%3D&s=books&sprefix=how+not+to+be+wrong%2Cstripbooks%2C49&sr=1-1), [Narrative and Numbers](https://www.amazon.com/Narrative-Numbers-Business-Columbia-Publishing/dp/0231180489/ref=sr_1_1?keywords=narrative+and+numbers+by+aswath+damodaran&qid=1664508342&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=audible&sprefix=narrative+and+numbers%2Caudible%2C63&sr=1-1-catcorr), [Principles: Life and Work](https://www.amazon.com/Principles-Ray-Dalio-audiobook/dp/B074B2CZJG/ref=sr_1_1?keywords=principles+by+ray+dalio&qid=1664508211&qu=eyJxc2MiOiIyLjUzIiwicXNhIjoiMS45NiIsInFzcCI6IjIuMTIifQ%3D%3D&sprefix=principles%2Caps%2C115&sr=8-1)
 
 Thanks for taking your time to getting to know me better. 
 

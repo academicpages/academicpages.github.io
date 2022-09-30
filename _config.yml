@@ -82,7 +82,11 @@ analytics:
 author:
   name             : "Remy (Jongkook) Kim"
   avatar           : "profile.png"
-  bio              : "In search of \ngood questions, \npowerful flywheels, \ntrusting friends \n(and maybe some meaning of life?)"
+  bio              : "In search of \
+  good questions, \
+  powerful flywheels, \
+  trusting friends \
+  (and maybe some meaning of life?)"
   location         : "Philadelphia, PA"
   employer         :
   pubmed           : 
