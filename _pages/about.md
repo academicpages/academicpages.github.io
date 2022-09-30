@@ -21,7 +21,7 @@ redirect_from:
 
 Recent News
 ======
-* Started my PhD at **Cambridge Center for AI in Medicine (CCAIM), University of Cambridge**. [03.10.2022]
+* Started my PhD at **Cambridge Centre for AI in Medicine (CCAIM), University of Cambridge**. [03.10.2022]
 * Joined **BenevolentAI**, a research company focused on applying AI to the drug discovery problem as Machine Learning Engineer, where I will be working on NLP alongside an amazing team of researchers, engineers and bioinformaticians.  [02.12.2019]
 * Gave a talk on **Learning to cooperate with Multi-Agent Reinforcement Learning** on ML in PL conference. University of Warsaw. [23.11.2019]
 * Received **Best Talk - People's choice award** for my talk on **"Learning to cooperate - the emergence of sustainable resource management among artificial intelligence agents"** at Science: Polish Perspectives (SPP) conference. Cambridge 2019. [09.11.2019]
