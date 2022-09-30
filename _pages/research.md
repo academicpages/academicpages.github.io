@@ -32,7 +32,9 @@ Another line of my research on interpretability studies interpretable driving po
 <font size=3> 2. <b>C. Tang</b><sup>*</sup>, Z. Xu<sup>*</sup>, and M. Tomizuka, "Disturbance-Observer-Based Tracking Controller for Neural Network Driving Policy Transfer," <em>IEEE Transactions on Intelligent Transportation Systems</em>, 2020 </font><br>
 <font size=3> 3. J. Li, <b>C. Tang</b>, W. Zhan, and M. Tomizuka, “Hierarchical planning through goal-conditioned offline reinforcement learning,” <em>IEEE Robotics and Automation Letters (RA-L)</em> and <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2022 </font><br></p>
  
-## Improving Robustness of Autonomous Driving Models
+## Improve Robustness of Learning-based Methods 
+In addition to transparency, some of my prior works listed above also improve the robustness of behavior prediction models and policy networks. For behavior prediction, one crucial aspect is designing the model architecture and training scheme to induce a generalizable scene representation (e.g., map, social context). For policy networks, one crucial aspect is dealing with external disturbances and modeling discrepancies. Please find a list of related publications below. 
+
 <p><b>Related Publications:</b><br>
 <font size=3> 1. Z. Xu<sup>*</sup>, <b>C. Tang</b><sup>*</sup>, and M. Tomizuka, “Zero-shot Deep Reinforcement Learning Driving Policy Transfer for Autonomous Vehicles based on Robust Control,” <em>IEEE International Conference on Intelligent Transportation Systems (ITSC)</em>, 2018 </font><br>
 <font size=3> 2. <b>C. Tang</b><sup>*</sup>, Z. Xu<sup>*</sup>, and M. Tomizuka, "Disturbance-Observer-Based Tracking Controller for Neural Network Driving Policy Transfer," <em>IEEE Transactions on Intelligent Transportation Systems</em>, 2020 </font><br>
