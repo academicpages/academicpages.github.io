@@ -1,6 +1,6 @@
 ---
 title: "Survey of Deep Exploration"
-excerpt: ""
+excerpt: "http://remyjkim.github.io/images/fetchPush.png"
 collection: portfolio
 ---
 
