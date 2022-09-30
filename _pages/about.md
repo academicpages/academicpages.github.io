@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a first-year master's student at the University of Pennsylvania's Computer and Information Science program. I'm a interested in **Web3, reinforcement learning**(especially the "exploration vs exploitation" problem), **mechanisms of great decision-making** and **how the humanity's giant "capitalism" experiment/structure relates to the dynamic nature of humans**.
+I'm a first-year master's student at the University of Pennsylvania's Computer and Information Science program. I'm interested in **Tokenization changing how we "interact" with ownership, the "exploration vs exploitation" problem in reinforcement learning**, **mechanisms of great decision-making** and **how the humanity's giant "capitalism" experiment/structure relates to the dynamic nature of humans**.
 
 I did my undergraduate at Seoul National University in Electrical/Computer Engineering and Business Administration. There, I was fortunate to have been advised by [Prof. Minhwan Oh](http://www.columbia.edu/~mo2499/) and [Prof. Taesup Moon](https://mindlab-skku.github.io/people/pi/).
 
