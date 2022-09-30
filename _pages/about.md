@@ -10,7 +10,7 @@ redirect_from:
 ---
 I'm a first-year master's student at the University of Pennsylvania's Computer and Information Science program. I'm interested in **Tokenization changing how we "interact" with ownership, the "exploration vs exploitation" problem in reinforcement learning**, **mechanisms of great decision-making** and **how the humanity's giant "capitalism" experiment/structure relates to the dynamic nature of humans**.
 
-I'm still in search of indomitable structural changes in the world and the tools to refine those into exponential growth opportunities. The above list are my current list of those tools I deem valuable.
+I'm still in search of **indomitable structural changes in the world** and **the tools to refine those into exponential growth opportunities**. The above list are those tools that I deem as such.
 
 I did my undergraduate studies at Seoul National University in Electrical/Computer Engineering and Business Administration. There, I was fortunate to have been advised by [Prof. Minhwan Oh](http://www.columbia.edu/~mo2499/) and [Prof. Taesup Moon](https://mindlab-skku.github.io/people/pi/).
 
