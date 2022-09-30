@@ -1,6 +1,6 @@
 ---
-title: "Survey of Deep Exploration"
-excerpt: "http://remyjkim.github.io/images/fetchPush.png"
+title: "(DRL) MUSIC with Tsallis Entropy"
+# excerpt: "http://remyjkim.github.io/images/fetchPush.png"
 collection: portfolio
 ---
 

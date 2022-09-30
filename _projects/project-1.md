@@ -1,11 +1,14 @@
 ---
 title: "Survey of Deep Exploration"
 excerpt: ""
-collection: portfolio
+collection: project
 ---
 
 Introduction
 ===
+
+![Summary of approaches in RL based on whether we want to model the value, policy, or the environment.(Image source: reproduced from David Silver's RL course lecture 1.)](http://remyjkim.github.io/images/RL_algorithm_categorization.png)
+
 
 [the survey paper in pdf](http://remyjkim.github.io/files/Survey_Exploration_RL.pdf)
  
