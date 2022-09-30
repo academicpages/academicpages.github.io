@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Remy Jongkook Kim"
+title                    : "Forever Forward"
 title_separator          : "-"
-name                     : &name "Remy Jongkook Kim"
-description              : &description "In search of good questions, powerful flywheels, trusting friends (and maybe some meaning of life?) "
+name                     : &name "Remy (Jongkook) Kim"
+description              : &description ""
 url                      : https://remyjkim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "remyjkim/remyjkim.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Remy Jongkook Kim"
   avatar           : "profile.png"
-  bio              : "Establish that something is possible, then probability will occur"
+  bio              : "In search of good questions, powerful flywheels, trusting friends (and maybe some meaning of life?)"
   location         : "Philadelphia, PA"
   employer         :
   pubmed           : ""
