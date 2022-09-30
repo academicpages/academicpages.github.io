@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Remy Jongkook Kim / Good Questions and Actions"
+title                    : "Remy Jongkook Kim"
 title_separator          : "-"
 name                     : &name "Remy Jongkook Kim"
 description              : &description "In search of good questions, powerful flywheels, trusting friends (and maybe some meaning of life?) "
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter remyfromshower
+  username               : &twitter "remyfromshower"
 facebook:
   username               :
   app_id                 :
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jongkook Kim"
+  name             : "Remy Jongkook Kim"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Establish that something is possible, then probability will occur"
   location         : "Philadelphia, PA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : ""
+  googlescholar    : ""
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -99,11 +99,11 @@ author:
   github           : "remyjkim"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "goodquestionkim"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
