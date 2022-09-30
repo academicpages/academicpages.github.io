@@ -1,5 +1,6 @@
 ---
 title: "(DRL) MUSIC with Tsallis Entropy"
+date: 2022-09-10
 # excerpt: "http://remyjkim.github.io/images/fetchPush.png"
 collection: portfolio
 ---
