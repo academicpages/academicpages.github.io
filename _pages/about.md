@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Remy Kim's home: How I got here, and Where I'm heading"
+title: "Remy's home: \\How I got here, and Where I'm heading"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
