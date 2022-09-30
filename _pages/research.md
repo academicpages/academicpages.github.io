@@ -13,7 +13,7 @@ Deep neural networks achieve state-of-the-art performance in multiple core auton
 
 <p><b>Related Publications:</b><br>
 <font size=3> 1. <b>C. Tang</b>, W. Zhan and M. Tomizuka, "Exploring Social Posterior Collapse in Variational Autoencoder for Interaction Modeling," <em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2021</font><br>
-<font size=3> 2. <b>C. Tang</b>, W. Zhan, and M. Tomizuka, “Interventional behavior prediction: Avoiding overly confident anticipation in interactive prediction,” <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2022</font>
+<font size=3> 2. <b>C. Tang</b>, W. Zhan, and M. Tomizuka, “Interventional behavior prediction: Avoiding overly confident anticipation in interactive prediction,” <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>, 2022</font></p>
 
 ## Designing Domain-Knowledge-Driven Interpretable Prediction Models
 <img src="/images/gri.png" width="300" style="float: left; margin-right: 1em; margin-top: 0.5em; margin-bottom: 0.8em">
