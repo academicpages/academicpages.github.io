@@ -83,8 +83,8 @@ author:
   name             : "Maciek Wiatrak"
   avatar           : "profile.png"
   bio              : "Machine Learning Engineer at BenevolentAI"
-  location         : "London, United Kingdom"
-  employer         : "BenevolentAI"
+  location         : "Cambridge, United Kingdom"
+  employer         : "CCAIM, University of Cambridge"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=4zfHPGMAAAAJ&hl=en"
   email            : "macwiatrak@gmail.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/mwiatrak/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
