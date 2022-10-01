@@ -19,7 +19,8 @@ While at Baylor, I have had the opportunity to work on a variety of different pr
 
 * Assisted in the development of a multi-day data science workshop for professionals in the water/wastewater treatment industry.
 * Worked as a statistical consultant studying and applying various statistical methods to help clients understand their data on a case-by-case basis.
-* Currently am doing research on improving multivariate statistical methods for fault detection in complex processes.
+
+Currently, I am doing research on improving multivariate statistical methods for fault detection in complex processes with specific applications in potable water reuse.
 
 
 Research Interests
@@ -27,9 +28,7 @@ Research Interests
 
 * Multivariate statistics
 * Time series
-* Spatial statistics
-* Data science
-* Bayesian methods
+* Machine learning/Data science
 
 [comment]: <> (For more info)
 [comment]: <> (------)
