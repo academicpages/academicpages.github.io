@@ -18,7 +18,7 @@ redirect_from:
 
 News
 =====
-**Oct. 2022:** Thrilled to start my summer internship at Amazon Search (A9.com) [QU team](https://amazonsearchqu.github.io/).
+**Oct. 2022:** Thrilled to start my internship at Amazon Search (A9.com) [QU team](https://amazonsearchqu.github.io/).
 
 **Sep. 2022:** Invited to serve as a PC member of LOG 2022 and SDM 2023.
 
