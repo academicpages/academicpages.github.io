@@ -28,7 +28,7 @@ Research Interests
 
 * Multivariate statistics
 * Time series
-* Machine learning/Data science
+* Machine learning
 
 [comment]: <> (For more info)
 [comment]: <> (------)
