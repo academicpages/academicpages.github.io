@@ -18,16 +18,18 @@ While at BYU, I worked as an undergraduate research assistant for a year working
 While at Baylor, I have had the opportunity to work on a variety of different projects that have helped me develop my skills as a statistician and data scientist. As part of my duties as a graduate assistant at Baylor, I:
 
 * Assisted in the development of a multi-day data science workshop for professionals in the water/wastewater treatment industry.
-* Currently work as a statistical consultant studying and applying various statistical methods to help clients understand their data on a case-by-case basis.
+* Worked as a statistical consultant studying and applying various statistical methods to help clients understand their data on a case-by-case basis.
+* Currently am doing research on improving multivariate statistical methods for fault detection in complex processes.
 
 
 Research Interests
 ======
 
-* Bayesian methods
+* Multivariate statistics
 * Time series
 * Spatial statistics
 * Data science
+* Bayesian methods
 
 [comment]: <> (For more info)
 [comment]: <> (------)
