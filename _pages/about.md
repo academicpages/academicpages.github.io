@@ -19,18 +19,19 @@ the computational and statistical efficiency of learning methods, and the extent
 **Contact**: (username id) akk002 at ucsd dot edu
 
 # Recent News
-1. Attending the Deep Learning Theory workshop at Simons, Berkeley.
+1. Attended the Deep Learning Theory workshop at Simons, Berkeley.
 1. Attended a summer school on Discrete Mathematics at Charles University, Prague (CZK).
 
 # Publications and Preprints
 
 1. <b> Convergence of Nearest Neighbor Selective Classification </b> <br>
 **Akash Kumar**, Sanjoy Dasgupta<br>
-Preprint coming soon.
+<i>In submission.
 
 2. <b> Robust Empirical Risk Minimization with Tolerance </b> <br>
 Robi Bhattacharjee, Kamalika Chaudhuri, Max Hopkins, **Akash Kumar**, Hantao Yu (alphabetical order)<br>
-To appear in AdvML Frontiers @ ICML 2022
+<i> In submission.
+</i> <br>A preliminary version appeared in AdvML Frontiers @ ICML 2022<br>
 
 3. <b> Teaching via Best-Case Counterexamples
 in the Learning-with-Equivalence-Queries Paradigm </b> <br>
