@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-View CV [here](http://trgrimm.github.io/files/CV_Draft.pdf).
+View CV [here](http://trgrimm.github.io/files/cv.pdf).
