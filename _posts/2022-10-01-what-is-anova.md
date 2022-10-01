@@ -1,7 +1,7 @@
 ---
 title: 'An Introduction to Analysis of Variance (ANOVA)'
-date: 2022-08-03
-permalink: /posts/2022/08/what-is-anova/
+date: 2022-10-01
+permalink: /posts/2022/10/what-is-anova/
 tags:
   - statistics
   - analysis of variance
@@ -40,7 +40,16 @@ In order to make valid inferences using ANOVA, there are some assumptions regard
 * Normality - the residuals are normally distributed
 * Equal variance - the variance is (approximately) the same across treatment groups (also called homoscedasticity)
 
-A simple example of a oneway ANOVA would be an experiment to determine the effect of various
+Once we've checked these assumptions and have determined that they are not violated, we can safely draw conclusions using ANOVA results. If any of these assumptions is violated, we must either make adjustments before using ANOVA or we must use a different method altogether.
+
+A basic example and walkthrough of a oneway ANOVA analysis can be found [here](https://trgrimm.github.io/posts/2022/08/what-is-anova/). For the interested reader, additional technical details about how ANOVA works are included below.
+
+<br>
+<br>
+<br>
+<br>
+
+# Additional Technical Details
 
 ## What are Sums of Squares?
 
