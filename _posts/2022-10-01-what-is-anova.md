@@ -8,7 +8,7 @@ tags:
   - categorical variables
 ---
 
-This post gives a brief introduction to the basics of analysis of variance and how it works. An overview of the oneway analysis of variance model is provided along with additional details regarding sums of squares. A simple example of analysis of variance can be found [here](https://trgrimm.github.io/posts/2022/08/what-is-anova/).
+This post gives a brief introduction to the basics of analysis of variance and how it works. An overview of the oneway analysis of variance model is provided along with additional details regarding sums of squares. A simple example of analysis of variance can be found [here](https://trgrimm.github.io/posts/2022/10/what-is-anova/).
 
 # What is Analysis of Variance (ANOVA)?
 
@@ -19,7 +19,7 @@ science. In fact, ANOVA is easily applied to data from any field
 provided certain assumptions (discussed below) are satisfied.
 
 Generally speaking, ANOVA is used to determine if there are meaningful
-differences in the means means of a response variable across various
+differences in the means of a response variable across various
 “treatment” groups. At its core, ANOVA is done by determining if the
 variability among various groups is unlikely to occur solely because of
 random chance.
@@ -42,7 +42,7 @@ In order to make valid inferences using ANOVA, there are some assumptions regard
 
 Once we've checked these assumptions and have determined that they are not violated, we can safely draw conclusions using ANOVA results. If any of these assumptions is violated, we must either make adjustments before using ANOVA or we must use a different method altogether.
 
-A basic example and walkthrough of a oneway ANOVA analysis can be found [here](https://trgrimm.github.io/posts/2022/08/what-is-anova/). For the interested reader, additional technical details about how ANOVA works are included below.
+A basic example and walkthrough of a oneway ANOVA analysis can be found [here](https://trgrimm.github.io/posts/2022/10/what-is-anova/). For the interested reader, additional technical details about how ANOVA works are included below.
 
 <br>
 <br>
