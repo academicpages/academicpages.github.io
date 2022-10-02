@@ -15,7 +15,7 @@ redirect_from:
 </p>
 
 * I am a PhD student at [Cambridge Centre for AI in Medicine (CCAIM), University of Cambridge](https://ccaim.cam.ac.uk/), where I am supervised by [Prof. Andres Floto](http://www.med.cam.ac.uk/floto/), [Dr Sarah Teichmann](https://www.sanger.ac.uk/person/teichmann-sarah/) and [Prof. Mihaela van der Schaar](https://www.vanderschaar-lab.com/prof-mihaela-van-der-schaar/).
-* My research interests lie broadly at the intersection of machine learning anb biology. I leverage ML methods to better understand causes of diseases using and integrating various data sources and modalities.
+* My research interests lie broadly at the intersection of machine learning and biology. I leverage ML methods to better understand causes of diseases using and integrating various data sources and modalities.
 * Previously I spent almost three years as a Machine Learning Engineer and squad lead at BenevolentAI, a pharma company leveraging AI for drug discovery, where I still work on some cutting edge part-time projects. While at BenevolentAI I had the opportunity to work on various ML projects with an amazing and diverse group of people, including biologists, chemists, software engineers and AI Scientists.
 * I received my Bachelor's degree from [University College London (UCL)](https://www.ucl.ac.uk/) where I have graduated with a first class honours BASc degree with distinction (Dean's List), majoring in computer science. My dissertation focused on Multi-Agent Reinforcement Learning in sequential social dilemmas and was advised by Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/) and Dr [Manuela Dal Borgo](https://www.classics.cam.ac.uk/directory/dr-manuela-dal-borgo).
 
