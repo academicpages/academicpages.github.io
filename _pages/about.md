@@ -19,6 +19,7 @@ In 2020, I joined [Bosch Research](https://www.bosch.us/our-company/bosch-in-the
 
 News
 ======
+* [2022/10/03] &nbsp; One paper is accepted in BMVC 2022.
 * [2022/07/27] &nbsp; I will serve as an Area Chair for BMVC 2022.
 * [2022/07/10] &nbsp; Our paper "Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing" is accepted by ECCV 2022 as poster paper. The code will be released soon!
 * [2022/07/10] &nbsp; Our paper "Multi-domain Learning for Updating Face Anti-spoofing Models" is accepted by ECCV 2022 as oral paper. The code will be released soon!
@@ -70,6 +71,22 @@ Research Highlights
 
 Research
 ======
+
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="https://yaojieliu.github.io/images/BMVC_2022_teaser.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Blind Removal of Facial Foreign Shadows</strong><br/>
+      <u>Yaojie Liu</u>, Andrew Hou, Xinyu Huang, Liu Ren, Xiaoming Liu<br/>
+      British Machine Vision Conference (BMVC'22), 2022. <br/>
+    </p>
+  </div>
+</div>
+
+___
 
 <div class="row">
   <div class="column left">
