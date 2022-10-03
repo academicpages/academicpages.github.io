@@ -15,10 +15,10 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
   
-  # will be projects
+  # will be Research Projects
   - title: "CV"
     url: /cv/
   
-  # will be expereinces
+  # will be Work Expereinces
   - title: "Guide"
     url: /markdown/
