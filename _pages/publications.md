@@ -36,23 +36,6 @@ __
 
 * **Youngwoo Oh** and Wooyeol Choi*, "Performance Analysis of Noise Filter Based on Software-Defined Radio Testbed", Spring Conference of Korea Institute of Smart Media, Gwangju, Republic of Korea, May 22-23, 2020.
 
-
-## Programs ©
-__
-* "사물 인터넷(IoT) 멀티 센서 기반의 공유 서비스 프로그램", 조선대 산학협력단, 21.12.29. (등록 완료, C-2022-008305)
-
-* "BWMS 데이터전송을 위한 멀티 홉 릴레이 네트워크 테스트베드 프로그램", 조선대 산학협력단, 21.12.27. (등록 완료, C-2022-001887)
-
-* "다중 홉 릴레이 네트워크 테스트베드 프로그램", 조선대 산학협력단, 20.09.16. (등록 완료, C-2020-031710)
-
-
-## Patents ©
-__
-* 최우열, **오영우**, "다중 홉 릴레이 네트워크에서 데이터 패킷 전송 경로를 제어하는 장치 및 방법", 10-2021-0060683, 21.05.11. (출원)
-
-* 전광명, 류인철, 김누리, 임채준, **오영우**, 전찬준, 최우열, "축산귀표인식장치, 및 그 장치가 탑재되는 스마트시스템", 10-2021-0167685, 2021.11.29. (출원)
-
-
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
