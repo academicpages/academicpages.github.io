@@ -32,6 +32,7 @@ the computational and statistical efficiency of learning methods, and the extent
 Robi Bhattacharjee, Kamalika Chaudhuri, Max Hopkins, **Akash Kumar**, Hantao Yu (alphabetical order)<br>
 <i> In submission.
 </i> <br>A preliminary version appeared in AdvML Frontiers @ ICML 2022<br>
+[[ArXiv 2022](https://arxiv.org/abs/2008.09660)]
 
 3. <b> Teaching via Best-Case Counterexamples
 in the Learning-with-Equivalence-Queries Paradigm </b> <br>
