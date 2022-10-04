@@ -80,7 +80,7 @@ Research
   <div class="column right">
     <p>
       <strong>Blind Removal of Facial Foreign Shadows</strong><br/>
-      <u>Yaojie Liu</u>, Andrew Hou, Xinyu Huang, Liu Ren, Xiaoming Liu<br/>
+      <u>Yaojie Liu*</u>, Andrew Hou*, Xinyu Huang, Liu Ren, Xiaoming Liu<br/>
       British Machine Vision Conference (BMVC'22), 2022. <br/>
     </p>
   </div>
