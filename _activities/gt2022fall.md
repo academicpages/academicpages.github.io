@@ -16,7 +16,7 @@ author_profile: false
  | Thu, 2022-09-29 | 2:00pm - 3:00pm | Ruobing Zhang | Metric geometry of hyperkähler four-manifolds | Vincent 215 | 
  | Thu, 2022-10-06 | 1:30pm - 2:30pm | Vinicius G. B. Ramos | The Toda lattice, billiards and the Viterbo conjecture | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-10-13 | 1:30pm - 2:30pm | Kristen Hendricks | Rank inequalities for the Heegaard Floer homology of branched covers| [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
- | Thu, 2022-10-20 | 1:30pm - 2:30pm | Daniel Stern |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
+ | Thu, 2022-10-20 | 1:30pm - 2:30pm | Daniel Stern | Existence of harmonic maps in higher dimensions and applications | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-10-27 | 1:30pm - 2:30pm | Ao Sun |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-11-03 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-11-10 | 1:30pm - 2:30pm | Nick Edelen |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
@@ -43,3 +43,7 @@ author_profile: false
 * Vinicius G. B. Ramos
   * The Toda lattice, billiards and the Viterbo conjecture
 Abstract: The Toda lattice is one of the earliest examples of non-linear completely integrable systems. Under a large deformation, the Hamiltonian flow can be seen to converge to a billiard flow in a simplex. In the 1970s, action-angle coordinates were computed for the standard system using a non-canonical transformation and some spectral theory. In this talk, I will explain how to adapt these coordinates to the situation to a large deformation and how this leads to new examples of symplectomorphisms of Lagrangian products with toric domains. In particular, we find a sequence of Lagrangian products whose symplectic systolic ratio is one and we prove that they are symplectomorphic to balls. This is joint work with Y. Ostrover and D. Sepe.
+
+* Daniel Stern
+  * I'll discuss recent progress on the existence theory for harmonic maps on higher-dimensional manifolds, giving harmonic maps of optimal regularity from manifolds of dimension n>2 to every non-aspherical closed manifold containing no stable minimal two-spheres. As an application, we'll see that every manifold carries a canonical family of sphere-valued harmonic maps, which (for n<6) stabilize at a solution of a spectral isoperimetric problem generalizing the conformal maximization of Laplace eigenvalues on surfaces. Based on joint work with Mikhail Karpukhin.
+
