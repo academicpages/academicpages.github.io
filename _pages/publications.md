@@ -14,7 +14,7 @@ author_profile: true
 {% endfor %}
 
 **Work in progress** \\
-(With [Timo Seidl](https://www.timoseidl.com/)) Protecting, Transforming, and Projecting the Single Market: Open Strategic Autonomy and Digital Sovereignty in the EU’s Trade and Digital Policies.
+(With [Timo Seidl](https://www.timoseidl.com/)) Polanyi and List meet in Brussels. Two Versions of Digital Sovereignty and the Future of EU Digital Policymaking.
 
 (With [Donato Di Carlo](https://www.mpifg.de/person/110112/2733)) Collaborative Advantage in a Geopolitical World: How the European Commission fosters Innovation in the Single Market. 
 
