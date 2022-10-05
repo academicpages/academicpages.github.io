@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science and Engineering, Chosun University, 2022
-* M.S. in Computer Science and Engineering, GitHub University, 2023
+* M.S. in Computer Science and Engineering, Chosun University, 2023
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
