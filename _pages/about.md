@@ -12,10 +12,10 @@ I am a fourth-year Ph.D. student advised by [Prof. Guoliang Fan](https://ceat.ok
 
 Research Interests
 ======
-My research focus on indoor localization and navigation from room layouts and image outer corners (IOCs), which invloves camera pose estimation with an optimized Perspective-n-Lines (PnL) method, deep learning, data fusion. 
+My research focus on indoor localization and navigation by camera pose estimation from room layouts and image outer corners (IOCs), which invloves camera pose estimation with an optimized Perspective-n-Lines (PnL) method, deep learning, data fusion. 
 
-* Indoor localization: Proposed a new method, PnL-IOC, based on the traditional PnL methods and introducing room layouts and IOCs.
-* Indoor cammera pose estimation: Propose a probabilistic Perspective-n-Lines layer for indoor camera pose estimation by using room layouts and IOCs.
+* Indoor localization by geometric method: Propose a new method, PnL-IOC, based on the traditional PnL methods and introducing room layouts and IOCs.
+* Indoor localization by deep learning: Propose a probabilistic Perspective-n-Lines layer for indoor camera pose estimation by using room layouts and IOCs.
 * Indoor navigation: Propose a data fusion method, which can fusion indoor image data and room layout and IOCs to implement navigation.  
  
 
