@@ -5,23 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-I am a fourth-year Ph.D. student advised by [Prof. Guoliang Fan](https://ceat.okstate.edu/ece/faculty/guoliang-fan.html) in the [School of Electrical & Computer Engineering](https://ceat.okstate.edu/ece/) of the Oklahoma State University (OSU). Before studying at OSU, I worked as a software testing engineer in China for seven years.
+**Journal Publication**
+**Chen X**, Fan G. Indoor Camera Pose Estimation from Room Layouts and Image Outer Corners. 2022. Submitted to [IEEE Transactions on Multimedia](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046), under revision.
+Roberts E, Fan G, **Chen X**. In-Lab Development of a Mobile Interface for Cognitive Assistive Technology to Support Instrumental Activities of Daily Living in Dementia Homecare. Journal of Aging and Environment. 2021 Dec 17:1-5.[link](https://www.tandfonline.com/doi/full/10.1080/26892618.2021.2001710)
 
-Research Interests
-======
-My research focus on indoor localization and navigation by camera pose estimation from room layouts and image outer corners (IOCs), which invloves camera pose estimation with an optimized Perspective-n-Lines (PnL) method, deep learning, data fusion. 
 
-* Indoor localization by geometric method: Propose a new method, PnL-IOC, based on the traditional PnL methods and introducing room layouts and IOCs.
-* Indoor localization by deep learning: Propose a probabilistic Perspective-n-Lines layer for indoor camera pose estimation by using room layouts and IOCs.
-* Indoor navigation: Propose a data fusion method, which can fusion indoor image data and room layout and IOCs to implement navigation.  
- 
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Conference Publication**
+Chen X, Fan G. Egocentric Indoor Localization From Coplanar Two-Line Room Layouts. InProceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (pp. 1549-1559). [link](https://openaccess.thecvf.com/content/CVPR2022W/Ego4D-EPIC/html/Chen_Egocentric_Indoor_Localization_From_Coplanar_Two-Line_Room_Layouts_CVPRW_2022_paper.html)
+Chen X, Fan G. Egocentric Indoor Localization from Room Layouts and Image Outer Corners. InProceedings of the IEEE/CVF International Conference on Computer Vision 2021 (pp. 3456-3465). [link](https://openaccess.thecvf.com/content/ICCV2021W/EPIC/html/Chen_Egocentric_Indoor_Localization_From_Room_Layouts_and_Image_Outer_Corners_ICCVW_2021_paper.html)
