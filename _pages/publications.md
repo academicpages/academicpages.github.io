@@ -35,10 +35,3 @@ recent successes, the process of training GANs remains challenging [...]
 
 **Wiatrak, M.**, Albrecht, S.V., Nystrom, A.\
 In arXiv, 2020.
-
-
-[//]: # ({% for post in site.publications reversed %})
-
-[//]: # (  {% include archive-single.html %})
-
-[//]: # ({% endfor %})
