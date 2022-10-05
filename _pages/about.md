@@ -21,8 +21,8 @@ the computational and statistical efficiency of learning methods, and the extent
 <i> I'm looking for a research/engineer position for summer internship 2023. Please consider my [CV](https://akashkumar-d.github.io/files/Cvforhomepage.pdf).</i>
 
 # Recent News
-1. Attended the Deep Learning Theory workshop at Simons Institute, UC Berkeley.
-1. Attended a summer school on Discrete Mathematics at Charles University, Prague (CZK).
+1. [Aug, 2022] Attended the [Deep learning theory workshop](https://simons.berkeley.edu/workshops/deep-learning-theory-workshop) at Simons Institute, UC Berkeley.
+1. [July, 2022] Attended a summer school on Discrete Mathematics at Charles University, Prague (CZK).
 
 # Publications and Preprints
 
