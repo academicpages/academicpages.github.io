@@ -1,11 +1,11 @@
 # main links links
 main:
-  title: "Publications"
+  - title: "Publications"
     url: /publications/
 
-  title: "Resume"
+  - title: "Resume"
     url: /files/resume.pdf    
     
-  title: "CV"
+  - title: "CV"
     url: /files/resume.pdf 
 
