@@ -13,7 +13,7 @@ See the talk [here](../files/AI_talk_astroX.pdf). For [ERIRA 2022](https://nickk
 ## Posters
 
 ### The Intrinsic Manifolds of Radiological Images and Their Role in Deep Learning
-See my poster for MICCAI 2022 [here](https://github.com/nickk124/MICCAI22_poster/blob/52c75fb93369b5c43f4aedfd5e73131a082e1657/poster.pdf) (paper [here](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_65)).
+See my poster for MICCAI 2022 [here](https://github.com/nickk124/MICCAI22_poster/blob/52c75fb93369b5c43f4aedfd5e73131a082e1657/poster.pdf) (open access preprint [here](https://arxiv.org/abs/2207.02797) and published paper [here](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_65)).
 - *Won Judges' Choice Award at the Duke University Pratt School of Engineering Poster Session (Fall 2022).*
 
 ## Tutorials
