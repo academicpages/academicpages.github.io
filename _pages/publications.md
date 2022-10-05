@@ -11,5 +11,5 @@ Roberts E, Fan G, **Chen X**. In-Lab Development of a Mobile Interface for Cogni
 
 
 **Conference Publication**<br /> 
-Chen X, Fan G. Egocentric Indoor Localization From Coplanar Two-Line Room Layouts. InProceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (pp. 1549-1559). [link](https://openaccess.thecvf.com/content/CVPR2022W/Ego4D-EPIC/html/Chen_Egocentric_Indoor_Localization_From_Coplanar_Two-Line_Room_Layouts_CVPRW_2022_paper.html)<br /> 
-Chen X, Fan G. Egocentric Indoor Localization from Room Layouts and Image Outer Corners. InProceedings of the IEEE/CVF International Conference on Computer Vision 2021 (pp. 3456-3465). [link](https://openaccess.thecvf.com/content/ICCV2021W/EPIC/html/Chen_Egocentric_Indoor_Localization_From_Room_Layouts_and_Image_Outer_Corners_ICCVW_2021_paper.html)<br /> 
+**Chen X**, Fan G. Egocentric Indoor Localization From Coplanar Two-Line Room Layouts. InProceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (pp. 1549-1559). [link](https://openaccess.thecvf.com/content/CVPR2022W/Ego4D-EPIC/html/Chen_Egocentric_Indoor_Localization_From_Coplanar_Two-Line_Room_Layouts_CVPRW_2022_paper.html)<br /> 
+**Chen X**, Fan G. Egocentric Indoor Localization from Room Layouts and Image Outer Corners. InProceedings of the IEEE/CVF International Conference on Computer Vision 2021 (pp. 3456-3465). [link](https://openaccess.thecvf.com/content/ICCV2021W/EPIC/html/Chen_Egocentric_Indoor_Localization_From_Room_Layouts_and_Image_Outer_Corners_ICCVW_2021_paper.html)<br /> 
