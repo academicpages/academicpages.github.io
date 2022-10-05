@@ -18,6 +18,8 @@ the computational and statistical efficiency of learning methods, and the extent
 
 **Contact**: (username id) akk002 at ucsd dot edu
 
+<i> I'm looking for summer internship 2023. Please consider my [CV](https://](https://akashkumar-d.github.io/files/Cvforhomepage.pdf))</i>
+
 # Recent News
 1. Attended the Deep Learning Theory workshop at Simons Institute, UC Berkeley.
 1. Attended a summer school on Discrete Mathematics at Charles University, Prague (CZK).
@@ -46,7 +48,11 @@ in the Learning-with-Equivalence-Queries Paradigm </b> <br>
 </i> <br> [[ArXiv 2021](https://arxiv.org/pdf/2010.14043.pdf)], [[Proc 2021](http://proceedings.mlr.press/v130/kumar21a.html)]<br>
 
 5. <b> Average-case Complexity of Teaching Convex Polytopes via Halfspace Queries </b> <br>
-**Akash Kumar**, [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html), [Yisong Yue](http://www.yisongyue.com/), [Yuxin Chen](https://yuxinchen.org/).<br> [[ArXiv 2020](https://arxiv.org/abs/2006.14677)]
+**Akash Kumar**, [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html), [Yisong Yue](http://www.yisongyue.com/), [Yuxin Chen](https://yuxinchen.org/).<br> 
+[[ArXiv 2020](https://arxiv.org/abs/2006.14677)]</br>
+<i>Rejected from ICML 2021 with 6 [reviews](https://akashkumar-d.github.io/files/ICML'21.pdf)</i></br>
+<i>Rejected from NeurlPS 2020 with 4 [reviews](https://akashkumar-d.github.io/files/NeurIPS'20.pdf)</i>
+
 
 6. <b> Deletion to Induced Matching </b> <br>
 **Akash Kumar**, [Mithilesh Kumar](https://anantvigyan.com/aboutme.html).<br> 
