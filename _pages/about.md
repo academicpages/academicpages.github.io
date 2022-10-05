@@ -18,7 +18,7 @@ the computational and statistical efficiency of learning methods, and the extent
 
 **Contact**: (username id) akk002 at ucsd dot edu
 
-<i> I'm looking for summer internship 2023. Please consider my [CV](https://akashkumar-d.github.io/files/Cvforhomepage.pdf).</i>
+<i> I'm looking for a research/engineer position for summer internship 2023. Please consider my [CV](https://akashkumar-d.github.io/files/Cvforhomepage.pdf).</i>
 
 # Recent News
 1. Attended the Deep Learning Theory workshop at Simons Institute, UC Berkeley.
