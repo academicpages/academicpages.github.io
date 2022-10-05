@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=a9rXidMAAAAJ&hl=en
 
+  - title: "Talks and Tutorials"
+    url: /blog/
+
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Outreach"
     url: /outreach/    
-
-  - title: "Talks and Tutorials"
-    url: /blog/
 
   - title: "Early Projects"
     url: /projects/
