@@ -10,7 +10,7 @@ redirect_from:
 
 <p align="center">
 
-  <img src="https://macwiatrak.github.io/files/profile_in_mountains.png" alt="Photo" style="width: 450px;"/> 
+  <img src="https://macwiatrak.github.io/files/profile_pic_buni_jezerce.HEIC" alt="Photo" style="width: 450px;"/> 
 
 </p>
 
