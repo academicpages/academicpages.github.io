@@ -118,7 +118,7 @@ Professional Activity
 		<b>Program Committee Member</b>
 		<ul>
 			<li>
-				Usenix Security, 2023
+				USENIX Security, 2023
 			</li>
 			<li>
 				ACM S<sup>3</sup> Workshop (co-located with MobiCom), 2021
