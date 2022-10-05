@@ -57,6 +57,8 @@ Aulas
 
 * [Integração - Regra de Simpson](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/simpson.pdf)
 
+* [Integração - Quadratura Gaussiana](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/qgauss.pdf)
+
 
 Trabalhos
 =======
