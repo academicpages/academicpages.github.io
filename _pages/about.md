@@ -36,7 +36,7 @@ Updates
 Publications
 ============
 <ul>
-	<li><b>Evasion Attacks on Smart Home Physical Event Verification and Defenses.</b>
+	<li><b>Evasion Attacks on Smart Home Physical Event Verification and Defenses</b>
 			<br/>
 		Muslum Ozgur Ozmen, Ruoyu Song, <b>Habiba Farrukh</b>, Z. Berkay Celik
 			<br/>
@@ -152,8 +152,6 @@ Professional Activity
 			<li>
 				Network and Distributed System Security (NDSS), 2021
 			</li>
-			
-			
 		</ul>
 	</li>
 </ul>
