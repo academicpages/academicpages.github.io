@@ -17,6 +17,8 @@ I specifically focus on designing and building innovative and secure mobile sens
 Updates
 =======
 <ul>
+	<li> <b>[Oct 2022]</b> Our paper about evasion attacks on physical event verification systems to appear in NDSS 2023!
+	</li>
 	<li> <b>[Mar 2022]</b> Our work on secure Android remote authorization to appear in USENIX Security 2022!
 	</li>
 	<li> <b>[June 2021]</b> Received Bilsland Dissertation Fellowship Award 2021-2022!
@@ -33,6 +35,15 @@ Updates
 
 Publications
 ============
+<ul>
+	<li><b>Evasion Attacks on Smart Home Physical Event Verification and Defenses.</b>
+			<br/>
+		Muslum Ozgur Ozmen, Ruoyu Song, <b>Habiba Farrukh</b>, Z. Berkay Celik
+			<br/>
+			Network and Distributed System Security Symposium (NDSS '23)
+			<br/>
+	</li>
+</ul>
 
 <ul>
 	<li><b>SARA: Secure Android Remote Authorization</b>
@@ -107,6 +118,7 @@ Professional Activity
 		<b>Program Committee Member</b>
 		<ul>
 			<li>
+				Usenix Security, 2023
 				ACM S<sup>3</sup> Workshop (co-located with MobiCom), 2021
 			</li>
 		</ul>
@@ -127,17 +139,19 @@ Professional Activity
 		<b>External Reviewer</b>
 		<ul>
 			<li>
-				Annual Computer Security Applications Conference (ACSAC), 2021
-			</li>
-			<li>
-				Network and Distributed System Security (NDSS), 2021
+				Network and Distributed System Security (NDSS), 2023
 			</li>
 			<li>
 				USENIX Security, 2022
 			</li>
 			<li>
-				Network and Distributed System Security (NDSS), 2023
+				Annual Computer Security Applications Conference (ACSAC), 2021
 			</li>
+			<li>
+				Network and Distributed System Security (NDSS), 2021
+			</li>
+			
+			
 		</ul>
 	</li>
 </ul>
