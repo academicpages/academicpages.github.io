@@ -14,4 +14,4 @@ His research interests include multimdoal learning, semi-supervised learning, me
 
 
 ## News
-<span style="color:red"> [22/10/06] </span> Two papers are accpeted to EMNLP and findings of EMNLP 2022!
+<span style="color:red"> **[22/10/06]** </span> Two papers are accpeted to EMNLP and findings of EMNLP 2022!
