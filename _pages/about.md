@@ -19,7 +19,7 @@ In 2020, I joined [Bosch Research](https://www.bosch.us/our-company/bosch-in-the
 
 News
 ======
-* [2022/10/03] &nbsp; I proudly serve [Face Unlock on Pixel 7/7 Pro](https://blog.google/products/pixel/pixel-7-pixel-7-pro/)!
+* [2022/10/06] &nbsp; I proudly serve [Face Unlock on Pixel 7/7 Pro](https://blog.google/products/pixel/pixel-7-pixel-7-pro/)!
 * [2022/10/03] &nbsp; One paper is accepted in BMVC 2022.
 * [2022/07/27] &nbsp; I will serve as an Area Chair for BMVC 2022.
 * [2022/07/10] &nbsp; Our paper "Adaptive Transformers for Robust Few-shot Cross-domain Face Anti-spoofing" is accepted by ECCV 2022 as poster paper. The code will be released soon!
