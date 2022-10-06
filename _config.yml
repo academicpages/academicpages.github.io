@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Win Khaing"
   avatar           : "profile.png"
-  bio              : "I am a medical doctor, a clinical epidemiologist, and a public health specialist. I received a medical degree from the University of Medicine, Mandalay in 2002, a Master of Medical Science in Public Health (with distinction in Biostatistics) from the University of Medicine, Mandalay in 2007, a Ph.D. in Clinical Epidemiology from the Faculty of Medicine, Ramathibodi Hospital, the Mahidol University of Thailand in 2017 (with a full scholarship from the Mahidol-Norway Capacity Building Initiative for ASEAN (CBIA)), and a Diploma in Medical Education from the University of Public Health, Yangon in 2019."
+  bio              : "I am a medical doctor, a clinical epidemiologist, and a public health specialist. I am also a founder of MEBM."
   location         : "Thailand"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Khaing%20W%5BAuthor%5D"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/dr.winkhaing"
+  facebook         : "dr.winkhaing"
   foursquare       :
   github           : "winkhaing"
   google_plus      :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/drwinkhaing/"
+  linkedin         : "drwinkhaing"
   orcid            : "http://orcid.org/0000-0003-1636-1807"
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/c/MEBMCARE4u"
+  youtube          : "UCP2wWpN_EPdi5dMP7qSDCMQ"
   wikipedia        :
 
 
