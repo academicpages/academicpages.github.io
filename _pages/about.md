@@ -10,6 +10,8 @@ redirect_from:
 
 I am a Full Professor of Information Systems Engineering at the Department of [Industrial Engineering and Management](https://www.iim.ftn.uns.ac.rs/) of the [Faculty of Technical Sciences](http://ftn.uns.ac.rs), [University of Novi Sad](http://www.uns.ac.rs/), Serbia.
 
+Since March 18th, 2021 I have been dedicating most of my time and effort to developing and heading [The Artificial Intelligence Research and Development Institute of Serbia](http://www.ivi.ac.rs/).
+
 Since July 2019, I have transitioned into the role of Ambassador for [Tandemlaunch](http://www.tandemlaunch.com), a unique startup foundry based in Montreal, Canada. If you would like to start a deep tech startup, let me know. 
 
 Since April 3rd, 2019 I am also an [NVIDIA Deep Learning Institute](https://www.nvidia.com/en-us/deep-learning-ai/education/) University Ambassador. If you would like me to organize a free Deep Learning training workshop at your university or conference, let me know. 
