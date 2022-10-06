@@ -1,9 +1,9 @@
 ---
 title: "Long-term noise interferometry analysis in the northeast Pacific Ocean"
 collection: publications
-permalink: /publication/1/10/2022-paper-1
+permalink: /publication/1/10/22-paper-1
 excerpt: 'Long-term noise interferometry analysis is conducted over six_years of data using two hydrophones on the Ocean Observatories Initiative Cabled Array. The two hydrophones are separated by 3.2_km and are bottom-mounted at 1500_m. We demonstrate the ability of ambient noise interferometry to reliably detect multi-path arrivals in the deep ocean from bottom-mounted hydrophones. An analysis of the multi-path arrival peak emergence is presented, as well as long-term trends of the signal-to-noise ratio of the arrival peaks. Last, we show that long-term ambient noise interferometry provides the opportunity for monitoring directional, coherent ambient sound such as the fin whale chorus.'
-date: 1/10/2022
+date: 1/10/22
 venue: 'Journal of the Acoustical Society of America'
 citation: 'Ragland, J., Abadi, S., and Sabra, K. (2022). Long-term noise interferometry analysis in the northeast Pacific Ocean, The Journal of the Acoustical Society of America, 151, 194-204. doi:10.1121/10.0009232'
 ---
