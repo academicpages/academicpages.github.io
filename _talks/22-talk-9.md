@@ -1,0 +1,11 @@
+---
+title: "Overview of ambient noise research and outreach with OOI hydrophones"
+collection: talks
+type: "Poster"
+permalink: /talks/12/1/22-talk-9
+venue: "American Geophysical Union"
+date: 12/1/22
+location: "Chicago, IL"
+---
+
+The ocean observatories initiative has eleven hydrophones that constantly record ambient sound throughout the north-east Pacific Ocean. Nine of the hydrophones are mounted on the seafloor and two of the hydrophones are suspended in the sound fixing and ranging channel. Six of the hydrophones record broadband ambient sound with a sampling rate of 64 kHz. Five of the hydrophones record low frequency ambient sound with a sampling rate of 200 Hz. In this talk, an overview of research and outreach conducted by the Ocean Data Lab at the University of Washington that utilizes this acoustic data will be presented. Some of the research topics that will be presented include trends in ambient sound and using ambient noise interferometry to estimate the Green&apos;s function between two hydrophones. For the trends in ambient sound, data from 9 of the hydrophones over six years is visualized, analyzed, and compared to previous results. Data recorded by two low-frequency hydrophones has successfully been used to estimate the Green&apos;s function between the two hydrophones by measuring the coherence of the ambient sound. Additionally, data of opportunity has been used to experimentally explore the emergence of the Green&apos;s function for bottom mounted hydrophones in the north-east pacific. Lastly, an online, interactive data explorer for the low frequency hydrophones will be presented. This data explorer provides the opportunity for the public to view and explore the low frequency acoustic data measured and provided by the Ocean Observatories Initiative. [work supported by ONR]
