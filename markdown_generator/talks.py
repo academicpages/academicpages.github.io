@@ -12,6 +12,15 @@
 import pandas as pd
 import os
 
+import os
+
+# Remove existing md files
+fbase = '../_talks/'
+files = os.listdir(fbase)
+
+for file in files:
+    fn = fbase + file
+    os.system(f'rm {fn}')
 
 # ## Data format
 # 

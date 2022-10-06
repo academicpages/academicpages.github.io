@@ -24,7 +24,15 @@
 # In[2]:
 
 import pandas as pd
+import os
 
+# Remove existing md files
+fbase = '../_publications/'
+files = os.listdir(fbase)
+
+for file in files:
+    fn = fbase + file
+    os.system(f'rm {fn}')
 
 # ## Import TSV
 # 
