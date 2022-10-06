@@ -1,0 +1,11 @@
+---
+title: "Long-term noise interferometry analysis in the northeast Pacific Ocean"
+collection: talks
+type: "Talk"
+permalink: /talks/4/1/21-talk-1
+venue: "Acoustical Society of America"
+---
+
+[More information here](https://asa.scitation.org/doi/abs/10.1121/10.0004609)
+
+Noise interferometry is the method of passively estimating acoustic propagation using ambient sound. It has been used for long-term ocean monitoring applications such as tomography, thermometry, and measuring flow velocity. Using noise interferometry, the time domain Greene&apos;s function (TDGF) between two locations can be estimated. In this talk, we use 6 years (2015-2020) of acoustic data recorded by two hydrophones in the northeast Pacific Ocean to analyze the long-term TDGF. The hydrophones are deployed at the Cabled Array which is maintained by the Ocean Observatories Initiative (OOI). They are separated by 3.2 km, located on the ocean floor at a depth of 1500 m, and have a sampling rate of 200 Hz. We calculate the signal-to-noise ratio (SNR) of the TDGF estimate for different propagation paths and study how it varies for different average times, local shipping densities, and oceanographic variables such as sound speed. [Work supported by ONR.]
