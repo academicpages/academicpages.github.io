@@ -8,5 +8,4 @@ paperurl:
 codeurl: 
 citation: ''
 stars: 
-<!-- <a class="github-button" href="https://github.com/declare-lab/Multimodal-Infomax" data-icon="octicon-star" data-show-count="true" aria-label="Star declare-lab/Multimodal-Infomax on GitHub">Star</a> -->
 ---
