@@ -13,6 +13,7 @@
         url('../fonts/academicons.svg?v=1.8.0#academicons') format('svg');
     font-weight: normal;
     font-style: normal;
+    font-type: Serif;
 }
 .ai {
 	display:inline-block;
