@@ -25,5 +25,4 @@ I enjoy hiking, playing basketball and football during my free time.
 - Oct. 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <span style="color:blue">**Honored to receive the 2022 IEEE TCHPC Student Travel Award for SC'22 conference.**</span>
 - Aug. 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One paper accepted at SC'22 conference on accelerating ML-based micro-architecture simulation.
 - Sep. 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One paper accepted at EuroSys'23 conference on temporal graph random walk.
-- Jul. 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One paper accepted at SIGMETRIC'22 conference on ML-based architecture simulation. A great\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      collaboration with Brookhaven National Lab.
+- Jul. 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One paper accepted at SIGMETRIC'22 conference on ML-based architecture simulation. A great collaboration with Brookhaven National Lab.
