@@ -14,3 +14,16 @@ You can see my publications in the `publication` tab or at [google scholar](http
 The theme of my research is **system for machine learning and machine learning for system**.  
 
 I enjoy hiking, playing basketball and football during my free time.   
+
+
+[[CV]](/files/cv.pdf)
+
+
+#### Recent News!!!
+---
+
+Oct. 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Honored to receive the 2022 IEEE TCHPC Student Travel Award for SC'22 conference.\
+Aug. 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One paper accepted at SC'22 conference on accelerating ML-based micro-architecture simulation.\
+Sep. 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One paper accepted at EuroSys'23 conference on temporal graph random walk.\
+Jul. 2022&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One paper accepted at SIGMETRIC'22 conference on ML-based architecture simulation. A great\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      collaboration with Brookhaven National Lab.
