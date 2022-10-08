@@ -1,6 +1,6 @@
 ---
 title: "Extractive industries, inequality and welfare in developing countries: Mining industry in Peru"
-excerpt: "With Gonzalo Delgado, Álvaro Paredes & <a href="https://brunoseminario.up.edu.pe/" target="_blank">Bruno Seminario</a>"
+excerpt: "With Gonzalo Delgado, Álvaro Paredes & <br/> [Bruno Seminario](https://brunoseminario.up.edu.pe/){:target="_blank"}"
 collection: research
 ---
 
