@@ -8,20 +8,28 @@ redirect_from:
   - /about.html
 ---
 
- I am a third year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu) at Carnegie Mellon University, advised by [Prof. Jeff Schneider](https://www.cs.cmu.edu/~schneide/). My research interests broadly include reinforcement learning and bayesian optimization. My current research involves developing active decision making algorithms in multi-agent systems for robotics search and tracking applications under realistic sensing, communication and resource considerations while modeling motion and detection uncertainty. 
+ I am a fourth year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu) at Carnegie Mellon University, advised by [Prof. Jeff Schneider](https://www.cs.cmu.edu/~schneide/). My research interests broadly include reinforcement learning and bayesian optimization. My current research involves developing active decision making algorithms in multi-agent systems for robotics search and tracking applications under realistic sensing, communication and resource considerations. <!--while modeling motion and detection uncertainty. -->
+ 
+Recently, I enjoyed working on [reinforcement learning for mechanism design](https://www.salesforceairesearch.com/projects/the-ai-economist) as a research intern at Salesforce.  
 
 Previously, I graduated from the [Indian Institute of Technology Kharagpur](http://www.iitkgp.ac.in) with a combined Bachelors (Hons.) and Masters Dual Degree in Computer Science and Engineering. I was advised by [Prof. Pabitra Mitra](https://cse.iitkgp.ac.in/~pabitra/) for my undergraduate thesis.
 
-Publications and Manuscripts
+Preprints
 ====
 
+**Multi-Agent Active Search using Detection and Location Uncertainty**\
+Arundhati Banerjee, Ramina Ghods, Jeff Schneider, 2022. | [arxiv](https://arxiv.org/abs/2203.04524)
+
 **Cost Aware Asynchronous Multi-Agent Active Search**\
-Arundhati Banerjee, Ramina Ghods, Jeff Schneider\
-*In Submission*, 2021.
+Arundhati Banerjee, Ramina Ghods, Jeff Schneider, 2021.  | [arxiv](https://arxiv.org/abs/2210.02259)
+
+
+Publications 
+====
 
 **Decentralized Multi-Agent Active Search for Sparse Signals**\
 Ramina Ghods, Arundhati Banerjee, Jeff Schneider\
-UAI 2021. | [arxiv](https://arxiv.org/abs/2006.14718)
+UAI 2021. | [paper](https://proceedings.mlr.press/v161/ghods21a.html)
 
 **Artificial neural network for identification of short-lived particles in the CBM experiment**\
 Arundhati Banerjee, Ivan Kisel, Maksym Zyzak\
@@ -45,6 +53,10 @@ Ramina Ghods, Arundhati Banerjee, William Durkin and Jeff Schneider\
 
 Teaching
 ====
+
+**Scalability in Machine Learning (10-745)**\
+*Teaching Assistant*\
+Carnegie Mellon University, Spring 2022
 
 **Introduction to Machine Learning (10-701)**\
 *Teaching Assistant*\
