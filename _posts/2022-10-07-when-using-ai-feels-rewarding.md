@@ -4,7 +4,11 @@ mathjax: true
 comments: true
 ---
 
-The conventional wisdom is that artificial intelligence will be another step towards efficiency via homogenizing and streamlining modes of production by removing the human element where economically feasible. I completely disagree. After the past two years of engaging with AI-powered tools for manipulating code and information, I've found that the benefits to productivity--and more importantly, the *delight*--arise only after developing what feels like a close *personal relationship* with the model. If this sounds silly, let me explain further.
+The conventional wisdom is that artificial intelligence will be another step towards efficiency via homogenizing and streamlining production, removing the human element where economically feasible.
+
+I completely disagree with this sentiment. 
+
+After the past two years of engaging with AI-powered tools for manipulating code and information, I've found that the benefits to productivity--and more importantly, the *delight*--arise only after developing what feels like a close *relationship* with the model. If this sounds silly, let me explain further.
 
 When I'm asked about my working style, I'll flatly admit that I sling a lot of mud at any moving target and that I'm really not much of a thinker. I love physics and statistics, but the *joy* that I derive from these subjects isn't necessarily from uncovering any fundamental truths (though they are nice) but rather because both of these disciplines give their practitioners enormously powerful tools. For physics, one example would be the least-action principle and accompanying Euler-Lagrange equation. For statistics, I mean Markov chain Monte Carlo in the context of numerical integration. 
 
@@ -18,7 +22,7 @@ There is definitely hard work involved in using AI tooling. Prompt engineering i
 
 I will say that I find this kind of problem solving to be a blessed relief from scanning StackOverflow posts. Developing software with CoPilot makes programming feel a lot more like blue sky science than ever before. I've lost count of the number of times that I've thought to myself "...it would be crazy if this worked, but what the hell?" and pulled something totally workable out of CoPilot's LLM. Testing, in particular, is 900% more fun when you aren't responsible for every single keystroke. If you made me explain to someone else how to work it, I wouldn't know what to say. It really seems to take some experience and personal curiosity to figure out how to bend AI to your aims. Obviously, with perfect knowledge of the idiosyncrasies of the training corpora, one could probably design optimal prompts in a formulaic way.
 
- I am hopeful that our use of AI goes down a different road - one that favors those who are willing to expend the effort to *learn from experience* and use them to solve conventional goals with 100x efficiency. In this same vein, I also hope that AI thus becomes a powerful agent to help level the balance of power between small and large, whether it is in commerce or science; that plucky, scrappy, and creative can hold their ground against wealthy, bloated, and derivative.
+ I am hopeful that our use of AI goes down a different road - one that favors those who are willing to expend the effort to *learn from experience* and use them to solve conventional goals with 100x efficiency. I also want to believe that the types of people that will be most empowered by artificial intelligence--the curious and inquisitive--will also be those who are best positioned to solve big problems in a thoughtful, empathetic way. In this same vein, I also hope that AI thus becomes a powerful agent to help level the balance of power between small and large, whether it is in commerce or science; that plucky, scrappy, and creative can hold their ground against wealthy, bloated, and derivative.
 
 
 
