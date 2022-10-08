@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF of my CV is available [here](http://larrylehan.github.io/files/LarryHan_CV (12).pdf)
+A PDF of my CV is available [here](http://larrylehan.github.io/files/LarryHan_CV (20).pdf)
 
 <!-- <embed src="http://larrylehan.github.io/files/LarryHan_CV.pdf" width="650" height="1800" type='application/pdf'> -->
 
@@ -20,8 +20,8 @@ A PDF of my CV is available [here](http://larrylehan.github.io/files/LarryHan_CV
 **Harvard University**  
 PhD in Biostatistics, 2018-2023 (expected)  
 AM in Biostatistics, 2020  
-Dissertation Advisors: [Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/), [Lorenzo Trippa](https://www.hsph.harvard.edu/lorenzo-trippa/)  
-Dissertation Committee: [Rui Duan,](https://sites.google.com/view/ruiduan/home?authuser=0) [Sebastian Schneeweiss](https://www.hsph.harvard.edu/sebastian-schneeweiss/)
+Dissertation Advisor: [Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/)     
+Dissertation Committee: [Rui Duan,](https://sites.google.com/view/ruiduan/home?authuser=0) [Lorenzo Trippa,](https://www.hsph.harvard.edu/lorenzo-trippa/)   [Sebastian Schneeweiss](https://www.hsph.harvard.edu/sebastian-schneeweiss/)
 
 **University of Cambridge**  
 MPhil in Operations Management, 2018  
