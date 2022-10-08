@@ -1,5 +1,5 @@
 ---
-title: When using AI feels rewarding (artisan, not factory)
+title: When using AI feels rewarding
 mathjax: true
 comments: true
 ---
