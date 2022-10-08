@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Christopher Krapu"
   avatar           : "profile.jpg"
-  bio              : "Applied graphical modeling for engineering & environment"
-  location         : "Knoxville, TN"
+  bio              : "Bayesian by necessity, optimist by choice"
+  location         :
   employer         :
   pubmed           :
   googlescholar    :
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Christopher-Krapu"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
