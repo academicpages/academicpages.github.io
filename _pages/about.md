@@ -15,6 +15,10 @@ at the [SerVal Group](https://wwwen.uni.lu/snt/research/serval)
 -- Interdisciplinary Centre for Security, Reliability and Trust, 
 at the 
 [University of Luxembourg](https://wwwen.uni.lu), Luxembourg. 
+He is also an incoming faculty (Lecturer/Asst. Professor of Software Engineering) 
+at the Computer Science Department of 
+[Royal Holloway University of London (RHUL)](https://www.royalholloway.ac.uk/), UK. 
+
 
 Professional Experience
 -----------------------
