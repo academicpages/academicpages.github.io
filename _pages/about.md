@@ -9,8 +9,7 @@ redirect_from:
 ---
 Research Interests
 ======
-My current interests lie in statistical machine learning and computational data science with an emphasis on explainability and responsibility. I am most interested in applying these concepts to data that is closely related to people and the environment.
-
+My current interests lie in statistical machine learning and computational data science with an emphasis on explainability and responsibility. I am most interested in applying these tools to model, better-understand, and improve environmental and social systems.
 
 Current and Recent Projects
 ======
