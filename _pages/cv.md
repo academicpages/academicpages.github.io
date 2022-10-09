@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Downloadable CV](files/Campolongo_CV_Autumn_2022.pdf)
+[Downloadable CV](https://egrace479.github.io/files/Campolongo_CV_Autumn_2022.pdf)
 
 {% include base_path %}
 
