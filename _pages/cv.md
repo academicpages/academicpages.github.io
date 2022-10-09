@@ -22,12 +22,12 @@ Education
 
 Research Experience (for more details, see full CV PDF)
 ======
-*Asymmetric Cloning to Eavesdrop on BB84 Protocol: 				      
+
+* Asymmetric Cloning to Eavesdrop on BB84 Protocol: 				      
 	* QuForce Innovation Fellow, (Mentor Alex Khan, April - August 2022)
 		* 1st Place Demo 
 		* Worked with another mathematician and a physicist to determine the theoretical optimal strategy for asymmetric cloning on a quantum channel (minimizing disturbance while maximizing information gain). 
 		* Compared theoretical expectation to the experimental results from implementation of asymmetric phase-covariant cloning on IonQ’s 11-qubit quantum computer (utilizing the Qiskit SDK).
-
 	* Independent Researcher, Continuing QuForce Project (August - Present 2022)
 		* Expanding our experimental investigation into the trade-off between information gain and detection when eavesdropping on quantum key distribution.
 		* Exploring the impact of noise on our base fidelity rates through implementation on IonQ using Native Gates directly.
