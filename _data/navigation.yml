@@ -7,5 +7,6 @@ main:
     url: /blog-posts/
     
   - title: "CV"
-    url: /cv/
+    url: /files/cv.pdf # direct link to pdf of cv
+    #url: /cv/
     
