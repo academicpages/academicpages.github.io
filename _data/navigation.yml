@@ -11,9 +11,7 @@ main:
   - title: "Awards"
     url: /awards/
 
-  - title: "CV"
-    url: /files/sulixin.pdf
-
+ 
 
   # - title: "Teaching"
   #   url: /teaching/
