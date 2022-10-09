@@ -20,10 +20,10 @@ Education
 	* Advisor: Krystal Taylor
 
 
-Research Experience (for more details, see full CV PDF)
+Research Experience
 ======
 
-* Asymmetric Cloning to Eavesdrop on BB84 Protocol: 				      
+* __Asymmetric Cloning to Eavesdrop on BB84 Protocol:__ 			      
 	* QuForce Innovation Fellow, (Mentor Alex Khan, April - August 2022)
 		* 1st Place Demo 
 		* Worked with another mathematician and a physicist to determine the theoretical optimal strategy for asymmetric cloning on a quantum channel (minimizing disturbance while maximizing information gain). 
@@ -32,18 +32,18 @@ Research Experience (for more details, see full CV PDF)
 		* Expanding our experimental investigation into the trade-off between information gain and detection when eavesdropping on quantum key distribution.
 		* Exploring the impact of noise on our base fidelity rates through implementation on IonQ using Native Gates directly.
 
-* Ph.D. Thesis Project: Lattice Points Close to the Heisenberg Norm, OSU (September 2017 - May 2022)
+* __Ph.D. Thesis Project: Lattice Points Close to the Heisenberg Norm,__ OSU (September 2017 - May 2022)
 	* Worked with my advisor, Dr. Krystal Taylor, to answer questions at the intersection of harmonic analysis, number theory, and geometric measure theory.
 	* Adapted technique used by Iosevich and Taylor (2011) to count lattice points on and near smooth surfaces to instead count lattice points on and near surfaces with vanishing curvature.
 	* Removed the non-vanishing Gaussian curvature condition for similarly homogeneous objects defined by norms. The limitation lies in the decay of the Fourier transform of the surface measure.
 	* Leveraged the geometry of Heisenberg norm balls to attain results despite vanishing curvature. This work is generalizable to similar objects (those with less homogenous dilations along one axis).
 	* Utilized method to estimate the number of lattice points in and near the intersection of two surfaces (described by the same or different norms).
 
-* Intern, Continuing Fall Project: Topological Data Analysis Applied to Football, Mined XAI (December 2021 - January 2022)
+* __Intern, Continuing Fall Project: Topological Data Analysis Applied to Football,__ Mined XAI (December 2021 - January 2022)
 	  * Analyzed remaining play-types: engineered predictive features for punts to cluster into different strategies with UMAP and HDBSCAN. Clustered on the 1-skeleton of alpha complexes for initial kickoff positions.
 	* We expanded the SciPy Voronoi class to include points at infinity and compute Voronoi distance, then further extended this to an alpha complex class which constructs the 1-skeleton of an alpha complex.
 
-* The Erdős Institute Boot Camp:
+* __The Erdős Institute Boot Camp:__
 	* Topological Data Analysis Applied to Football (September - December 2021)
 		* A Fall 2021 Top Project
 		* Collaborated with two mathematicians and a research scientist on the NFL Big Data Bowl 2022 Kaggle Challenge.
@@ -53,14 +53,16 @@ Research Experience (for more details, see full CV PDF)
 	* Predicting COVID Spread (September - December 2020)
 		* Partnered with physics Ph.D. student to study COVID-19 spread at the county level in the United States as of December 2020 utilizing Random Forest and Nearest Neighbors Predictors (implemented in Python).
 		* Compared responses to the pandemic across states by considering factors such as mask use, poverty levels, median age of the population, and population density in each county.
+		
+* See [CV PDF](https://egrace479.github.io/files/Campolongo_CV_Autumn_2022.pdf) for more research and professional experience.
   
 Skills
 ======
-* Data Analytics and Machine Learning: Python (Pandas, NumPy, Scikit-learn, Matplotlib), Ayasdi (TDA).
-* Computer Languages: Python, LaTeX, Java, basic Elm and Bash programming.
-* Tools/Platforms: Jupyter Notebook, GitHub, Microsoft Office Suite, iWork, Zoom, Linux, Macs, and PCs.
-* Foreign Languages: Functionally proficient in Spanish and Italian. Arabic (beginner), French (reading).
-* Public Speaking: Twelve years of theatre performance and training, including Off-Broadway.
+* _Data Analytics and Machine Learning:_ Python (Pandas, NumPy, Scikit-learn, Matplotlib), Ayasdi (TDA).
+* _Computer Languages:_ Python, LaTeX, Java, basic Elm and Bash programming.
+* _Tools/Platforms:_ Jupyter Notebook, GitHub, Microsoft Office Suite, iWork, Zoom, Linux, Macs, and PCs.
+* _Foreign Languages:_ Functionally proficient in Spanish and Italian. Arabic (beginner), French (reading).
+* _Public Speaking:_ Twelve years of theatre performance and training, including Off-Broadway.
 
 Publications
 ======
@@ -85,58 +87,58 @@ Conferences
   
 Service and leadership
 ======								
-* SIAM, OSU Chapter Math Modeling Contest Judge	 (November 2017, 2018, and 2019)
+* __SIAM, OSU Chapter Math Modeling Contest Judge__	 (November 2017, 2018, and 2019)
 	* Graded undergraduate teams’ reports based on the merits of their mathematical models, analysis of their results, thoroughness of their conclusions, and the overall creativity and readability of their solutions.
 
-* Association for Women in Mathematics, OSU Chapter 
-	* President (Academic Year 2021 - 2022)
+* __Association for Women in Mathematics, OSU Chapter__ 
+	* _President_ (Academic Year 2021 - 2022)
 		* Created new chapter website with pages to highlight resources and opportunities for undergrads through post-docs.
-	* Vice President (Academic Year 2020-2021)
-	* Outreach Chair (Academic Year 2019-2020)
+	* _Vice President_ (Academic Year 2020-2021)
+	* _Outreach Chair_ (Academic Year 2019-2020)
 
-* OSU Math Department Peer Mentor (Academic Years 2016-2018 and 2019-2021)
+* __OSU Math Department Peer Mentor__ (Academic Years 2016-2018 and 2019-2021)
 
 
 Research and Performance Awards									 
 =====
-* Research Projects
+* __Research Projects__
 	* 1st Place: QuForce Demo Day (2022)
 	* Top Project: Erdős Institute Fall Boot Camp (2021)
 	
-* The Ohio State University
+* __The Ohio State University__
 	* Graduate Associate Performance Award (2021)
 	* Rhodus Graduate Fellowship (Autumn 2018 and 2019)
 	* Math Department Fellowship (2016)
 	* University Fellowship (2015)
 
-* New York University Gallatin
+* __New York University__ 
 	* Honors on Senior Thesis Project: Linguistics and Mathematics in Cryptology
 	* Founder’s Day Award 
 	* Dean’s List
 	* National Merit Scholarship
 
-  Teaching
+ Teaching
 ======
 
-* Teaching Assistant for The Erdős Institute Boot Camp (May, September - December 2022)
+* __Teaching Assistant for The Erdős Institute Boot Camp__ (May, September - December 2022)
 	* Assisted students during group problem sessions, answering questions regarding technical and theoretical practices.
 	* Ensured groups progressed at a reasonable rate, providing hints as necessary.
 
-* Teaching Associate at BAMM: Beyond the Classroom Summer Camp, OSU (June 2021)			  
+* __Teaching Associate at BAMM: Beyond the Classroom Summer Camp,__ OSU (June 2021)			  
 	* Evaluated middle and high school students’ submissions as they discovered the math behind magic tricks.
 	* Assisted students in Zoom help sessions and led afternoon discussions.
 
-* Recitation Instructor, Tutor, and Grader, OSU (August 2016 - May 2022)						  
+* __Recitation Instructor, Tutor, and Grader,__ OSU (August 2016 - May 2022)						  
 	* Graded Intro Analysis I & II, Analysis Overview, honors and regular sections of Foundations of Higher Mathematics (proof writing course), and Linear Algebra.
 	* Contributed to creation of content for college pre-calculus Ximera textbook.
 	* Taught recitation sections of Calculus I.
 	* Tutored Calculus I & II, Calculus for Engineers, Business Calculus, and College Algebra.
 
-* Tutoring Undergraduate Level (September 2013 - May 2014)
+* __Tutoring Undergraduate Level__ (September 2013 - May 2014)
 	* Tutored college student in discrete mathematics, linear algebra, and programming (C++). 
 	* Two to three days a week in three-hour sessions.
 
-* Junior Faculty at HCSSiM, Hampshire College (June - August 2012)								
+* __Junior Faculty at HCSSiM, Hampshire College__ (June - August 2012)								
 	* Taught algebraic topics such as modular arithmetic and basic group theory in first main course; taught lessons on fractals and random walks (eg., absorbing Markov chains) in chaos theory course. 
 	* Taught two ``minis" (seven day, hour-long) on cryptology: pen and paper ciphers, then modern cryptology. 
 	* Gave an hour-long, program-wide lecture on cracking the Enigma. 
