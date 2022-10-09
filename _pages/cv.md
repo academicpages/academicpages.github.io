@@ -66,9 +66,9 @@ Skills
 
 Publications
 ======
-* Lattice Point Counting through Fractal Geometry and Stationary Phase for Surfaces with Vanishing Curvature ([Dissertation](http://rave.ohiolink.edu/etdc/view?acc_num=osu1658269573881902)).
-* Lattice Points Close to the Heisenberg Spheres, with K. Taylor, OSU ([arXiv](https://doi.org/10.48550/arXiv.2205.02163)).
-* A Tutorial on Topological Data Analysis for Big Data Analytics, with T. Bihl, AFRL (Preprint).
+* _Lattice Point Counting through Fractal Geometry and Stationary Phase for Surfaces with Vanishing Curvature_ ([Dissertation](http://rave.ohiolink.edu/etdc/view?acc_num=osu1658269573881902)).
+* _Lattice Points Close to the Heisenberg Spheres_, with K. Taylor, OSU ([arXiv](https://doi.org/10.48550/arXiv.2205.02163)).
+* _A Tutorial on Topological Data Analysis for Big Data Analytics_, with T. Bihl, AFRL (Preprint).
   
 Conferences
 ======
