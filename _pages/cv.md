@@ -20,17 +20,39 @@ Education
 	* Advisor: Krystal Taylor
 
 
-%Work experience
-%======
-%* Summer 2015: Research Assistant
-%  * Github University
-%  * Duties included: Tagging issues
-%  * Supervisor: Professor Git
-%
-%* Fall 2015: Research Assistant
-%  * Github University
-%  * Duties included: Merging pull requests
-%  * Supervisor: Professor Hub
+Research Experience (for more details, see full CV PDF)
+======
+*Asymmetric Cloning to Eavesdrop on BB84 Protocol: 				      
+	* QuForce Innovation Fellow, (Mentor Alex Khan, April - August 2022)
+		* 1st Place Demo 
+		* Worked with another mathematician and a physicist to determine the theoretical optimal strategy for asymmetric cloning on a quantum channel (minimizing disturbance while maximizing information gain). 
+		* Compared theoretical expectation to the experimental results from implementation of asymmetric phase-covariant cloning on IonQ’s 11-qubit quantum computer (utilizing the Qiskit SDK).
+
+	* Independent Researcher, Continuing QuForce Project (August - Present 2022)
+		* Expanding our experimental investigation into the trade-off between information gain and detection when eavesdropping on quantum key distribution.
+		* Exploring the impact of noise on our base fidelity rates through implementation on IonQ using Native Gates directly.
+
+* Ph.D. Thesis Project: Lattice Points Close to the Heisenberg Norm, OSU (September 2017 - May 2022)
+	* Worked with my advisor, Dr. Krystal Taylor, to answer questions at the intersection of harmonic analysis, number theory, and geometric measure theory.
+	* Adapted technique used by Iosevich and Taylor (2011) to count lattice points on and near smooth surfaces to instead count lattice points on and near surfaces with vanishing curvature.
+	* Removed the non-vanishing Gaussian curvature condition for similarly homogeneous objects defined by norms. The limitation lies in the decay of the Fourier transform of the surface measure.
+	* Leveraged the geometry of Heisenberg norm balls to attain results despite vanishing curvature. This work is generalizable to similar objects (those with less homogenous dilations along one axis).
+	* Utilized method to estimate the number of lattice points in and near the intersection of two surfaces (described by the same or different norms).
+
+* Intern, Continuing Fall Project: Topological Data Analysis Applied to Football, Mined XAI (December 2021 - January 2022)
+	  * Analyzed remaining play-types: engineered predictive features for punts to cluster into different strategies with UMAP and HDBSCAN. Clustered on the 1-skeleton of alpha complexes for initial kickoff positions.
+	* We expanded the SciPy Voronoi class to include points at infinity and compute Voronoi distance, then further extended this to an alpha complex class which constructs the 1-skeleton of an alpha complex.
+
+* The Erdős Institute Boot Camp:
+	* Topological Data Analysis Applied to Football (September - December 2021)
+		* A Fall 2021 Top Project
+		* Collaborated with two mathematicians and a research scientist on the NFL Big Data Bowl 2022 Kaggle Challenge.
+		* Engineered predictive features by play-type to cluster into different strategies with UMAP and HDBSCAN.
+		* Applied predictive modeling to each cluster to create a new metric for special teams play. 
+
+	* Predicting COVID Spread (September - December 2020)
+		* Partnered with physics Ph.D. student to study COVID-19 spread at the county level in the United States as of December 2020 utilizing Random Forest and Nearest Neighbors Predictors (implemented in Python).
+		* Compared responses to the pandemic across states by considering factors such as mask use, poverty levels, median age of the population, and population density in each county.
   
 Skills
 ======
@@ -45,7 +67,6 @@ Publications
 * Lattice Point Counting through Fractal Geometry and Stationary Phase for Surfaces with Vanishing Curvature ([Dissertation](http://rave.ohiolink.edu/etdc/view?acc_num=osu1658269573881902)).
 * Lattice Points Close to the Heisenberg Spheres, with K. Taylor, OSU ([arXiv](https://doi.org/10.48550/arXiv.2205.02163)).
 * A Tutorial on Topological Data Analysis for Big Data Analytics, with T. Bihl, AFRL (Preprint).
-
   
 Conferences
 ======
@@ -62,7 +83,39 @@ Conferences
 * INFORMS Symposium Presentation: Big Data Analysis with Topological Data Analysis (October 2018).
 
   
-Teaching
+Service and leadership
+======								
+* SIAM, OSU Chapter Math Modeling Contest Judge	 (November 2017, 2018, and 2019)
+	* Graded undergraduate teams’ reports based on the merits of their mathematical models, analysis of their results, thoroughness of their conclusions, and the overall creativity and readability of their solutions.
+
+* Association for Women in Mathematics, OSU Chapter 
+	* President (Academic Year 2021 - 2022)
+		* Created new chapter website with pages to highlight resources and opportunities for undergrads through post-docs.
+	* Vice President (Academic Year 2020-2021)
+	* Outreach Chair (Academic Year 2019-2020)
+
+* OSU Math Department Peer Mentor (Academic Years 2016-2018 and 2019-2021)
+
+
+Research and Performance Awards									 
+=====
+* Research Projects
+	* 1st Place: QuForce Demo Day (2022)
+	* Top Project: Erdős Institute Fall Boot Camp (2021)
+	
+* The Ohio State University
+	* Graduate Associate Performance Award (2021)
+	* Rhodus Graduate Fellowship (Autumn 2018 and 2019)
+	* Math Department Fellowship (2016)
+	* University Fellowship (2015)
+
+* New York University Gallatin
+	* Honors on Senior Thesis Project: Linguistics and Mathematics in Cryptology
+	* Founder’s Day Award 
+	* Dean’s List
+	* National Merit Scholarship
+
+  Teaching
 ======
 
 * Teaching Assistant for The Erdős Institute Boot Camp (May, September - December 2022)
@@ -89,35 +142,5 @@ Teaching
 	* Gave an hour-long, program-wide lecture on cracking the Enigma. 
 	* Assisted students with assigned problems and course material during daily three-hour problem sessions.
 
-Research and Performance Awards									 
-=====
-* Research Projects
-	* 1st Place: QuForce Demo Day (2022)
-	* Top Project: Erdős Institute Fall Boot Camp (2021)
-	
-* The Ohio State University
-	* Graduate Associate Performance Award (2021)
-	* Rhodus Graduate Fellowship (Autumn 2018 and 2019)
-	* Math Department Fellowship (2016)
-	* University Fellowship (2015)
 
-* New York University Gallatin
-	* Honors on Senior Thesis Project: Linguistics and Mathematics in Cryptology
-	* Founder’s Day Award 
-	* Dean’s List
-	* National Merit Scholarship
-
-  
-Service and leadership
-======								
-* SIAM, OSU Chapter Math Modeling Contest Judge	 (November 2017, 2018, and 2019)
-	* Graded undergraduate teams’ reports based on the merits of their mathematical models, analysis of their results, thoroughness of their conclusions, and the overall creativity and readability of their solutions.
-
-* Association for Women in Mathematics, OSU Chapter 
-	* President (Academic Year 2021 - 2022)
-		* Created new chapter website with pages to highlight resources and opportunities for undergrads through post-docs.
-	* Vice President (Academic Year 2020-2021)
-	* Outreach Chair (Academic Year 2019-2020)
-
-* OSU Math Department Peer Mentor (Academic Years 2016-2018 and 2019-2021)
 
