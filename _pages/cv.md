@@ -24,11 +24,11 @@ Research Experience
 ======
 
 * __Asymmetric Cloning to Eavesdrop on BB84 Protocol:__ 			      
-	* QuForce Innovation Fellow, (Mentor Alex Khan, April - August 2022)
+	* **_QuForce Innovation Fellow,_** (Mentor Alex Khan, April - August 2022)
 		* 1st Place Demo 
 		* Worked with another mathematician and a physicist to determine the theoretical optimal strategy for asymmetric cloning on a quantum channel (minimizing disturbance while maximizing information gain). 
 		* Compared theoretical expectation to the experimental results from implementation of asymmetric phase-covariant cloning on IonQ’s 11-qubit quantum computer (utilizing the Qiskit SDK).
-	* Independent Researcher, Continuing QuForce Project (August - Present 2022)
+	* **_Independent Researcher, Continuing QuForce Project**_ (August - Present 2022)
 		* Expanding our experimental investigation into the trade-off between information gain and detection when eavesdropping on quantum key distribution.
 		* Exploring the impact of noise on our base fidelity rates through implementation on IonQ using Native Gates directly.
 
@@ -44,13 +44,13 @@ Research Experience
 	* We expanded the SciPy Voronoi class to include points at infinity and compute Voronoi distance, then further extended this to an alpha complex class which constructs the 1-skeleton of an alpha complex.
 
 * __The Erdős Institute Boot Camp:__
-	* Topological Data Analysis Applied to Football (September - December 2021)
+	* **_Topological Data Analysis Applied to Football**_ (September - December 2021)
 		* A Fall 2021 Top Project
 		* Collaborated with two mathematicians and a research scientist on the NFL Big Data Bowl 2022 Kaggle Challenge.
 		* Engineered predictive features by play-type to cluster into different strategies with UMAP and HDBSCAN.
 		* Applied predictive modeling to each cluster to create a new metric for special teams play. 
 
-	* Predicting COVID Spread (September - December 2020)
+	* **_Predicting COVID Spread**_ (September - December 2020)
 		* Partnered with physics Ph.D. student to study COVID-19 spread at the county level in the United States as of December 2020 utilizing Random Forest and Nearest Neighbors Predictors (implemented in Python).
 		* Compared responses to the pandemic across states by considering factors such as mask use, poverty levels, median age of the population, and population density in each county.
 		
