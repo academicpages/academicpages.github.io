@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Downloadable CV]()
+[Downloadable CV](files/Campolongo_CV_Autumn_2022.pdf)
 
 {% include base_path %}
 
