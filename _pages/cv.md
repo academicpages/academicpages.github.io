@@ -40,8 +40,7 @@ Research Experience
 	* Utilized method to estimate the number of lattice points in and near the intersection of two surfaces (described by the same or different norms).
 
 * __Intern, Continuing Fall Project: Topological Data Analysis Applied to Football,__ Mined XAI (December 2021 - January 2022) 
-
-	  * Analyzed remaining play-types: engineered predictive features for punts to cluster into different strategies with UMAP and HDBSCAN. Clustered on the 1-skeleton of alpha complexes for initial kickoff positions.
+	* Analyzed remaining play-types: engineered predictive features for punts to cluster into different strategies with UMAP and HDBSCAN. Clustered on the 1-skeleton of alpha complexes for initial kickoff positions.
 	* We expanded the SciPy Voronoi class to include points at infinity and compute Voronoi distance, then further extended this to an alpha complex class which constructs the 1-skeleton of an alpha complex.
 
 * __The Erdős Institute Boot Camp:__
