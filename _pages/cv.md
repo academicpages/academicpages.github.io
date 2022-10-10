@@ -53,7 +53,23 @@ Research Experience
 	* **_Predicting COVID Spread_** (September - December 2020)
 		* Partnered with physics Ph.D. student to study COVID-19 spread at the county level in the United States as of December 2020 utilizing Random Forest and Nearest Neighbors Predictors (implemented in Python).
 		* Compared responses to the pandemic across states by considering factors such as mask use, poverty levels, median age of the population, and population density in each county.
-		
+
+* __Graduate Researcher at Autonomy Technology Research Center,__ Wright State University (May - August 2018)
+	* Collaborated with Dr. Trevor Bihl from Air Force Research Lab (AFRL) on an applied math problem in Detecting and Analyzing Anomalies with Topological Data Analysis.
+	* Improved community understanding of how topological data analysis (TDA) could be used for detecting and analyzing anomalies in large data sets—specifically those describing visual data.
+	* Compared the efficacy of analyzing the MNIST dataset through TDA to an analysis with diffusion maps by running topological models through the Ayasdi platform and applying diffusion maps in MATLAB.
+
+* __Elm Encryption/Decryption Program,__  (January - May 2018)
+	* Using the Elm programming language, developed a program to encrypt and decrypt messages in the ADFGVX cipher used by the Germans in World War I.
+	* Extended this program to implement the alterations to the cipher I developed in my undergraduate thesis.
+	* Inspired to use Elm and guided in learning to implement Elm code by Dr. Jim Carlson.
+	
+* __Undergraduate Thesis Project: Linguistics and Mathematics in Cryptology,__ NYU (January - April 2014)
+	* Researched the effect on linguistic structures of various crypto-systems and techniques surveyed in previous study, The Evolution of Cryptology (listed below). 
+	* Performed a comprehensive analysis--mathematical and linguistic--of both an original field cipher from World War I (the ADFGVX cipher) and my modified version. 
+	* Focused on the mathematical representations of the ciphers' attributes and their effects on the linguistic structure of the plaintext message as compared to the patterns and structures evident after encryption.
+	* Culminated in a 49-page analytical paper proposing meaningful alterations to the cipher, which were further supported by cryptanalytic techniques attempted against them and distinct differences in the patterns of original and encrypted messages.	
+	
 * See [CV PDF](https://egrace479.github.io/files/Campolongo_CV_Autumn_2022.pdf) for more research and professional experience.
   
 Skills
