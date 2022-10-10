@@ -31,6 +31,7 @@ Research Experience
 		* Expanding our experimental investigation into the trade-off between information gain and detection when eavesdropping on quantum key distribution.
 		* Exploring the impact of noise on our base fidelity rates through implementation on IonQ using Native Gates directly.
 
+
 * __Ph.D. Thesis Project: Lattice Points Close to the Heisenberg Norm,__ OSU (September 2017 - May 2022)
 	* Worked with my advisor, Dr. Krystal Taylor, to answer questions at the intersection of harmonic analysis, number theory, and geometric measure theory.
 	* Adapted technique used by Iosevich and Taylor (2011) to count lattice points on and near smooth surfaces to instead count lattice points on and near surfaces with vanishing curvature.
@@ -38,10 +39,11 @@ Research Experience
 	* Leveraged the geometry of Heisenberg norm balls to attain results despite vanishing curvature. This work is generalizable to similar objects (those with less homogenous dilations along one axis).
 	* Utilized method to estimate the number of lattice points in and near the intersection of two surfaces (described by the same or different norms).
 
-* __Intern, Continuing Fall Project: Topological Data Analysis Applied to Football,__ Mined XAI (December 2021 - January 2022) 
-	
+
+* __Intern, Continuing Fall Project: Topological Data Analysis Applied to Football,__ Mined XAI (December 2021 - January 2022) 	
 	* Analyzed remaining play-types: engineered predictive features for punts to cluster into different strategies with UMAP and HDBSCAN. Clustered on the 1-skeleton of alpha complexes for initial kickoff positions.
 	* We expanded the SciPy Voronoi class to include points at infinity and compute Voronoi distance, then further extended this to an alpha complex class which constructs the 1-skeleton of an alpha complex.
+
 
 * __The Erdős Institute Boot Camp:__
 	* **_Topological Data Analysis Applied to Football_** (September - December 2021)
@@ -54,15 +56,18 @@ Research Experience
 		* Partnered with physics Ph.D. student to study COVID-19 spread at the county level in the United States as of December 2020 utilizing Random Forest and Nearest Neighbors Predictors (implemented in Python).
 		* Compared responses to the pandemic across states by considering factors such as mask use, poverty levels, median age of the population, and population density in each county.
 
+
 * __Graduate Researcher at Autonomy Technology Research Center,__ Wright State University (May - August 2018)
 	* Collaborated with Dr. Trevor Bihl from Air Force Research Lab (AFRL) on an applied math problem in Detecting and Analyzing Anomalies with Topological Data Analysis.
 	* Improved community understanding of how topological data analysis (TDA) could be used for detecting and analyzing anomalies in large data sets—specifically those describing visual data.
 	* Compared the efficacy of analyzing the MNIST dataset through TDA to an analysis with diffusion maps by running topological models through the Ayasdi platform and applying diffusion maps in MATLAB.
 
+
 * __Elm Encryption/Decryption Program,__  (January - May 2018)
 	* Using the Elm programming language, developed a program to encrypt and decrypt messages in the ADFGVX cipher used by the Germans in World War I.
 	* Extended this program to implement the alterations to the cipher I developed in my undergraduate thesis.
 	* Inspired to use Elm and guided in learning to implement Elm code by Dr. Jim Carlson.
+	
 	
 * __Undergraduate Thesis Project: Linguistics and Mathematics in Cryptology,__ NYU (January - April 2014)
 	* Researched the effect on linguistic structures of various crypto-systems and techniques surveyed in previous study, The Evolution of Cryptology (listed below). 
@@ -70,7 +75,9 @@ Research Experience
 	* Focused on the mathematical representations of the ciphers' attributes and their effects on the linguistic structure of the plaintext message as compared to the patterns and structures evident after encryption.
 	* Culminated in a 49-page analytical paper proposing meaningful alterations to the cipher, which were further supported by cryptanalytic techniques attempted against them and distinct differences in the patterns of original and encrypted messages.	
 	
+	
 * See [CV PDF](https://egrace479.github.io/files/Campolongo_CV_Autumn_2022.pdf) for more research and professional experience.
+  
   
 Skills
 ======
@@ -80,11 +87,13 @@ Skills
 * _Foreign Languages:_ Functionally proficient in Spanish and Italian. Arabic (beginner), French (reading).
 * _Public Speaking:_ Twelve years of theatre performance and training, including Off-Broadway.
 
+
 Publications
 ======
 * _Lattice Point Counting through Fractal Geometry and Stationary Phase for Surfaces with Vanishing Curvature_ ([Dissertation](http://rave.ohiolink.edu/etdc/view?acc_num=osu1658269573881902)).
 * _Lattice Points Close to the Heisenberg Spheres_, with K. Taylor, OSU ([arXiv](https://doi.org/10.48550/arXiv.2205.02163)).
 * _A Tutorial on Topological Data Analysis for Big Data Analytics_, with T. Bihl, AFRL (Preprint).
+  
   
 Conferences
 ======
