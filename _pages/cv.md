@@ -11,49 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Engineering Degree in Electrical and Computer Engineering, ENSEA, France, 2021
+* M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, 2022
+* Ph.D in Electrical and Computer Engineering, Virginia Tech, 2026 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Software Engineering Intern
+  * Sonatronics
+  * Duties included: Development of drivers and software for ultrasonic solder falt dedtection.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2020: Research Intern
+  * Imperial College London, IPC Lab
+  * Duties included: Research on applying Deep-RL to power allocation in wireless communication.
+  * Supervisor: Dr. Deniz Gunduz
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Summer and Fall 2021: Research Intern
+  * Virginia Tech, Wireless@VT Lab
+  * Duties included: Research on the emergence of communication in multi-agent reinforcement learning systems.
+  * Supervisor: Dr. Walid Saad
