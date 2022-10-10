@@ -9,6 +9,8 @@ redirect_from:
 
 ## Contact Information
 
-The best way to reach me is at my email: campolongo.479 'at' gmail.com.
+The best way to reach me is at my email: e.campolongo.479 'at' gmail.com.
+
+
 I am also on the QuForce Slack.
 
