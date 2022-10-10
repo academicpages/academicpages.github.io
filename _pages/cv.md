@@ -56,8 +56,8 @@ Working Papers
 
 Other activities
 ======
-* 2008-Current: Basketball player and team captain of Leone XIII since 2019.
-	* 2018-2019: Won the "Promozione" championship, accessing "Serie D" league for the first time in 15 years for Leone XII
+* 2008-Current: Basketball player and team captain of Leone XIII since 2019
+	* 2018-2019: Won the "Promozione" championship, accessing "Serie D" league for the first time in 15 years for Leone XIII
 	* 2021-2022: Won the "Serie D" championship, accessing "Serie C" league for the first time in teams' history
 
 
