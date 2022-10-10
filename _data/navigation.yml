@@ -15,8 +15,8 @@ main:
   - title: "Early Projects"
     url: /projects/
 
+  - title: "Resume & CV"
+    url: /cv/
+
   - title: "Fun"
     url: /fun/ 
-
-  - title: "Resume"
-    url: 'https://nickk124.github.io/files/resume.pdf'
