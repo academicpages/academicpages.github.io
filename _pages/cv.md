@@ -13,12 +13,11 @@ redirect_from:
 
 Education
 ======
-* B.A. in "The Language of Mathematics", New York University Gallatin School of Individualized Study, 2014
-* M.S. in Mathematics, The Ohio State University, 2017
 * Ph.D in Mathematics, The Ohio State University, 2022
 	* Thesis: [Lattice Point Counting through Fractal Geometry and Stationary Phase for Surfaces with Vanishing Curvature](http://rave.ohiolink.edu/etdc/view?acc_num=osu1658269573881902)
 	* Advisor: Krystal Taylor
-
+* M.S. in Mathematics, The Ohio State University, 2017
+* B.A. in "The Language of Mathematics", New York University Gallatin School of Individualized Study, 2014
 
 Research Experience
 ======
