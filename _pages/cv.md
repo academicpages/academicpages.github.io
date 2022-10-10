@@ -149,9 +149,11 @@ Research and Performance Awards
 	* Assisted students during group problem sessions, answering questions regarding technical and theoretical practices.
 	* Ensured groups progressed at a reasonable rate, providing hints as necessary.
 
+
 * __Teaching Associate at BAMM: Beyond the Classroom Summer Camp,__ OSU (June 2021)			  
 	* Evaluated middle and high school students’ submissions as they discovered the math behind magic tricks.
 	* Assisted students in Zoom help sessions and led afternoon discussions.
+
 
 * __Recitation Instructor, Tutor, and Grader,__ OSU (August 2016 - May 2022)						  
 	* Graded Intro Analysis I & II, Analysis Overview, honors and regular sections of Foundations of Higher Mathematics (proof writing course), and Linear Algebra.
@@ -159,9 +161,11 @@ Research and Performance Awards
 	* Taught recitation sections of Calculus I.
 	* Tutored Calculus I & II, Calculus for Engineers, Business Calculus, and College Algebra.
 
+
 * __Tutoring Undergraduate Level__ (September 2013 - May 2014)
 	* Tutored college student in discrete mathematics, linear algebra, and programming (C++). 
 	* Two to three days a week in three-hour sessions.
+
 
 * __Junior Faculty at HCSSiM, Hampshire College__ (June - August 2012)								
 	* Taught algebraic topics such as modular arithmetic and basic group theory in first main course; taught lessons on fractals and random walks (eg., absorbing Markov chains) in chaos theory course. 
