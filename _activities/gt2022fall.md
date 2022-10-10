@@ -15,7 +15,7 @@ author_profile: false
  | Thu, 2022-09-22 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-09-29 | 2:00pm - 3:00pm | Ruobing Zhang | Metric geometry of hyperkähler four-manifolds | Vincent 215 | 
  | Thu, 2022-10-06 | 1:30pm - 2:30pm | Vinicius G. B. Ramos | The Toda lattice, billiards and the Viterbo conjecture | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
- | Thu, 2022-10-13 | 1:30pm - 2:30pm | Kristen Hendricks | Rank inequalities for the Heegaard Floer homology of branched covers| [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
+ | Thu, 2022-10-13 | 1:30pm - 2:30pm | Kristen Hendricks | Rank inequalities for the Heegaard Floer homology of branched covers| Vincent 215 | 
  | Thu, 2022-10-20 | 1:30pm - 2:30pm | Daniel Stern | Existence of harmonic maps in higher dimensions and applications | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-10-27 | 1:30pm - 2:30pm | Ao Sun |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-11-03 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
