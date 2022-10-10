@@ -52,6 +52,13 @@ Languages
 
 Working Papers
 ======
-* Bayesian cross validation and importance sampling, joint with G. Zanella
+* Robust leave-one-out cross-validation for high-dimensional Bayesian models, joint with G. Zanella
+
+Other activities
+======
+* 2008-Current: Basketball player and team captain of Leone XIII since 2019.
+	* 2018-2019: Won the "Promozione" championship, accessing "Serie D" league for the first time in 15 years for Leone XII
+	* 2021-2022: Won the "Serie D" championship, accessing "Serie C" league for the first time in teams' history
+
 
 
