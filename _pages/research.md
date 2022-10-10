@@ -3,8 +3,8 @@ permalink: /research/
 title: "Research Interests"
 ---
 
-{% include base_path %}
-{% include toc %}
+%{% include base_path %}
+%{% include toc %}
 
 ## Research Interests
 
