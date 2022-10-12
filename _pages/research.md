@@ -6,11 +6,11 @@ author_profile: true
 header:
   og_image: "research/ecdf.png"
 ---
-<h1>DARWIN -- Delaware Advanced Research Workforce and Innovation Network<h1>
-<img src="" alt="Italian Trulli">
+<h1>DARWIN -- Delaware Advanced Research Workforce and Innovation Network</h1>
+<img src="../images/research/DARWIN.jpg" alt="DARWIN">
 
 DARWIN is a compute and storage resource supporting computational and data-intensive research at the University of Delaware and in the Delaware Region. DARWIN is funded by an NSF MRI (Major Research Instrumentation) grant.
-For more information, see the
+For more information, see the <a href="https://dsi.udel.edu/core/computational-resources/darwin">DARWIN project page</a>
 
 In a new avenue of research, I leverage social media data to explore
 participation in extremist movements across multiple contexts, gaining insight
