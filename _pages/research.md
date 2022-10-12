@@ -37,6 +37,7 @@ We are creating HPC benchmarks that are representative of real-world application
 
 <h3>Cetus Source-to-Source Compiler Infrastructure</h3>
 <img src="../images/research/cetus.png" alt="cetus">
+ 
  Cetus is a compiler and transformation infrastructure for transforming C source code. The original purpose of Cetus was for automatic parallelization - translation of C code into C code annotated with OpenMP directives. Many other uses of the translator have emerged, such as the translation of OpenMP programs into CUDA and MPI. Cetus is being maintained as a community infrastructure and has been used for many projects worldwide (see the list of publications on the Cetus web page).
 The Cetus project is a collaboration with Purdue University. NSF awards:
 <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=0707931">0707931</a>
@@ -44,7 +45,8 @@ The Cetus project is a collaboration with Purdue University. NSF awards:
 
 <a href="https://sites.udel.edu/cetus-cid/">Cetus Website</a>
 
-<b>Research Staff: </b> <a href="https://akshayud.me">Akshay Bhosale</a>, Parinaz Barakhshan, Jan Sher Khan, Hao Wang  <b>Collaborators: </b> <a href="https://engineering.purdue.edu/~smidkiff/">Samuel Midkiff</a>, Milind Kulkarni.
+<b>Research Staff: </b> <a href="https://akshayud.me">Akshay Bhosale</a>, Parinaz Barakhshan, Jan Sher Khan, Hao Wang  
+<b>Collaborators: </b> <a href="https://engineering.purdue.edu/~smidkiff/">Samuel Midkiff</a>, Milind Kulkarni.
 
 
 
