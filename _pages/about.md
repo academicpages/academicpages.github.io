@@ -29,7 +29,7 @@ Email: wang dot dian at northeastern dot edu
 **Leveraging Fully Observable Policies for Learning under Partial Observability**  
 Hai Huu Nguyen, Andrea Baisero, **Dian Wang**, Christopher Amato, Robert Platt  
 *CoRL 2022, Auckland, New Zealand*  
-[(OpenReview)](https://openreview.net/forum?id=pn-HOPBioUE)
+[(Webpage)](https://sites.google.com/view/cosil-corl22)[(PDF)](https://openreview.net/pdf?id=pn-HOPBioUE)[(OpenReview)](https://openreview.net/forum?id=pn-HOPBioUE)[(Video)](https://www.youtube.com/watch?v=qSm08Q8BlbU)[(Code)](https://github.com/hai-h-nguyen/cosil-corl22)
 ` `  
 ` `  
 
