@@ -82,15 +82,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Rudolf Eigenmann"
   avatar           : "profile.png"
-  bio              : "Data Scientist"
+  bio              : "Professor"
   location         :
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
+  orcid            : 
+  googlescholar    : "https://scholar.google.com/citations?user=pM3DuC0AAAAJ&hl=en"
+  email            : "eigenman@udel.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,20 +99,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : 
+  gitlab           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jayrobwilliams"
+  linkedin         : 
   pinterest        :
   soundcloud       :
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
   steam            :
   tumblr           :
-  twitter          : "jayrobw"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
