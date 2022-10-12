@@ -7,7 +7,8 @@ header:
   og_image: "research/ecdf.png"
 ---
 <h3>DARWIN -- Delaware Advanced Research Workforce and Innovation Network</h3>
-<img src="../images/research/DARWIN.jpg" alt="DARWIN">
+<img src="../images/research/DARWIN.jpg" width="200" 
+     height="200" alt="DARWIN">
 
 DARWIN is a compute and storage resource supporting computational and data-intensive research at the University of Delaware and in the Delaware Region. DARWIN is funded by an NSF MRI (Major Research Instrumentation) grant.
 For more information, see the <a href="https://dsi.udel.edu/core/computational-resources/darwin">DARWIN project page</a>
@@ -19,7 +20,8 @@ into the early stages of radicalization.
 ---------------------------------------------------------------------------------------------------
 <h3>The Xpert Network --A Peer Network for the exchange of computational best practices and support environments</h3>
 
-<img src="../images/research/xpert.png" alt="xpert">
+<img src="../images/research/xpert.png" width="200" 
+     height="200" alt="xpert">
 Through a series of online and face-to-face meetings we are aiming to create synergy among teams that assist researchers in developing, optimizing, and running computational and data-intensive applications. We also connect developers of tools that help accomplish these tasks. We welcome participation from large, national projects as well as from individuals that assist computational researchers or develop supporting environments.
 For more information, see the <a href="https://sites.udel.edu/xpert-cdi/">project page</a>
 <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1833846">NSF Award Page</a>
@@ -28,7 +30,8 @@ For more information, see the <a href="https://sites.udel.edu/xpert-cdi/">projec
 ----------------------------------------------------------------------------------------------------
 <h3>Real-Application Benchmarks for High-Performance Computing</h3>
 
-<img src="../images/research/spec30logo.jpg" alt="spec30">
+<img src="../images/research/spec30logo.jpg" width="200" 
+     height="200" alt="spec30">
 
 We are creating HPC benchmarks that are representative of real-world applications. This is a collaboration with the Standard Performance Evaluation Corporation, <a href="http://spec.org">SPEC</a> and Indiana University. <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1842623">NSF award page</a>. <a href="https://www.udel.edu/udaily/2020/june/sunita-chandrasekaran-rudi-eigenmann-supercomputer-benchmarks/">News release</a>
 
@@ -36,7 +39,8 @@ We are creating HPC benchmarks that are representative of real-world application
 
 
 <h3>Cetus Source-to-Source Compiler Infrastructure</h3>
-<img src="../images/research/cetus.png" alt="cetus">
+<img src="../images/research/cetus.png" width="200" 
+     height="200" alt="cetus">
  
  Cetus is a compiler and transformation infrastructure for transforming C source code. The original purpose of Cetus was for automatic parallelization - translation of C code into C code annotated with OpenMP directives. Many other uses of the translator have emerged, such as the translation of OpenMP programs into CUDA and MPI. Cetus is being maintained as a community infrastructure and has been used for many projects worldwide (see the list of publications on the Cetus web page).
 The Cetus project is a collaboration with Purdue University. NSF awards:
