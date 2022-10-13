@@ -13,8 +13,8 @@ Etienne Boursier, Flore Sentenac, Vianney Perchet. NeurIPS 2021 (spotlight)
 Nathan Noiry, Flore Sentenac, Vianney Perchet. NeurIPS 2021
 
 
-[Pure Exploration and Regret Minimization in Matching Bandits](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=10348)<br/>
-Flore Sentenac, Jialin Yi, Clément Calauzènes, Vianney Perchet, Milan Vojnovic. ICML 2021
+[Pure Exploration and Regret Minimization in Matching Bandits](/files/Matching_bandits_ICML_talk.pdf)<br/>
+ICML 2021, online
 
 
 [Online Matching in Bipartite Graphs](/files/Matching_s_quentiel_dans_les_graphes_al_atoires(2).pdf) <br/>
