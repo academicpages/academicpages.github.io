@@ -28,7 +28,7 @@ In LREC 2022.
 [PDF]([https://aclanthology.org/2022.lrec-1.231.pdf])
 
 ### *Draw Me a Flower: Grounding Formal Abstract Structures Stated in Informal Natural Language*
-Royi Lachmy, <ins>Valentina Pyatkin</ins>, Reut Tsarfaty.
+Royi Lachmy, <ins>Valentina Pyatkin</ins>, Avshalom Manevich, Reut Tsarfaty.
 In TACL.
 [ArXiv](https://arxiv.org/pdf/2106.14321.pdf)
 
