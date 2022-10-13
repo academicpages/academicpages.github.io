@@ -18,11 +18,18 @@ author_profile: true
 # Publications
 
 ### *QASem Parsing: Text-to-text Modeling of QA-based Semantics*
-Ayal Klein, Eran Hirsch, Ron Eliav, <ins>Valentina Pyatkin</ins>, Avi Caciularu, Ido Dagan.  
+Ayal Klein, Eran Hirsch, Ron Eliav, <ins>Valentina Pyatkin</ins>, Avi Caciularu, Ido Dagan.
+In EMNLP 2022.
 [ArXiv](https://arxiv.org/pdf/2205.11413.pdf)
 
+### *Design Choices in Crowdsourcing Discourse Relation Annotations: The Effect of Worker Selection and Training*
+Merel C.J. Schoman, <ins>Valentina Pyatkin</ins>, Frances Yung, Ido Dagan, Reut Tsarfaty, Vera Demberg.
+In LREC 2022.
+[PDF]([https://aclanthology.org/2022.lrec-1.231.pdf])
+
 ### *Draw Me a Flower: Grounding Formal Abstract Structures Stated in Informal Natural Language*
-Royi Lachmy, <ins>Valentina Pyatkin</ins>, Reut Tsarfaty.  
+Royi Lachmy, <ins>Valentina Pyatkin</ins>, Reut Tsarfaty.
+In TACL.
 [ArXiv](https://arxiv.org/pdf/2106.14321.pdf)
 
 ### *Asking It All: Generating Contextualized Questions for any Semantic Role*
@@ -33,7 +40,7 @@ In EMNLP 2021.
 ### *The Possible, the Plausible, and the Desirable: Event-Based Modality Detection for Language Processing*
 <ins>Valentina Pyatkin</ins>\*, Shoval Sadde\*, Aynat Rubinstein, Paul Portner, Reut Tsarfaty.  
 In ACL 2021.  
-[ArXiv](http://arxiv.org/abs/2106.08037)
+[PDF]([http://arxiv.org/abs/2106.08037](https://aclanthology.org/2021.acl-long.77.pdf))
 
 ### *QADiscourse - Discourse Relations as QA Pairs: Representation, Crowdsourcing and Baselines*
 <ins>Valentina Pyatkin</ins>, Ayal Klein, Reut Tsarfaty, Ido Dagan.  
