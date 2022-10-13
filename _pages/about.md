@@ -21,7 +21,7 @@ News
 ======
 
 
-I am thrilled to announce that I have been named one of the [Fondation L'Oreal-UNESCO 2022 French Young Talents] (https://www.fondationloreal.com/our-programs-women-science-national-and-regional-young-talents-programs/french-young-talents)!
+I am thrilled to announce that I have been named one of the [Fondation L'Oreal-UNESCO 2022 French Young Talents] (https://www.fondationloreal.com/our-programs-women-science-national-and-regional-young-talents-programs/french-young-talents/)!
 
 It is award I am proud to share with thirty-four fellow scientists and which highlights just how crucial it is to have women in science to build the world of tomorrow.
 
