@@ -22,3 +22,5 @@ Flore Sentenac, Jialin Yi, Clément Calauzènes, Vianney Perchet, Milan Vojnovic
 [Robust Estimation of Discrete Distributions under Local Differential Privacy](https://arxiv.org/abs/2202.06825) <br/>
 Julien Chhor, Flore Sentenac. February 2022
  
+[Static Scheduling with Predictions Learned through Efficient Exploration](https://arxiv.org/abs/2205.15695) <br/>
+Hugo Richard, Flore Sentenac, Corentin Odic, Mathieu Molina, Vianney Perchet. May 2022
