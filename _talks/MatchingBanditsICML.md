@@ -4,7 +4,7 @@ collection: talks
 type: "Conference proceedings talk"
 permalink: /files/Matching_bandits_ICML_talk
 venue: "ICML 2021"
-date: 2021-07-01
+date: July
 location: "online"
 ---
 
