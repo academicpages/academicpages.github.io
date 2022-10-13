@@ -6,12 +6,22 @@ author_profile: true
 ---
 
 
-[Decentralized Learning in Online Queuing Systems](https://arxiv.org/abs/2106.04228) <br/>
-Etienne Boursier, Flore Sentenac, Vianney Perchet. NeurIPS 2021 (spotlight)
+[Decentralized Learning in Online Queuing Systems](/files/Queuing_Neurips_talk.pdf) <br/>
+Seminar, DeepMind London 2022
 
-[Online Matching in Sparse Random Graphs: Non-Asymptotic Performances of Greedy Algorithm](https://arxiv.org/abs/2107.00995) <br/>
-Nathan Noiry, Flore Sentenac, Vianney Perchet. NeurIPS 2021
+[Bandits Algorithms](/files/Bandits_AMAZON_talk.pdf) <br/>
+Seminar, Amazon London, 2022
 
+[Online Matching in Random Bipartite Graphs](/files/Online_Matching_INRIA_talk.pdf)<br/>
+Seminar, INRIA Paris, 2022
+
+
+[Robust Estimation of Discrete Distributions under Local Differential Privacy](/files/Private_and_Robust_CREST_talk.pdf) <br/>
+Statistics Seminar, CREST, 2022, Palaiseau
+ 
+
+[Decentralized Learning in Online Queuing Systems](/files/Queuing_Neurips_talk.pdf) <br/>
+NeurIPS and NeurIPS Paris 2021, online and Paris
 
 [Pure Exploration and Regret Minimization in Matching Bandits](/files/Matching_bandits_ICML_talk.pdf)<br/>
 ICML 2021, online
