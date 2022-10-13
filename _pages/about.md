@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student at CREST, under the supervision of [Vianney Perchet](https://vianney.ai/), since September 2020. My PhD title is "Online Matching in Random Graphs". I am interested in statistics and learning theory, and more specifically in online learning and algorithms. My current topics of research are Online Matching and Multi-Armed bandits.
+I am a PhD student at CREST, under the supervision of [Vianney Perchet](https://vianney.ai/), since September 2020. My PhD title is "Online Matching in Random Graphs". I am interested in online learning and algorithms. My current topics of research are Online Matching and Multi-Armed bandits.
 
 
 
