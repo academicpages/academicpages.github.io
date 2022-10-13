@@ -4,6 +4,6 @@ collection: talks
 type: "Seminar"
 permalink: /files/Online_Matching_INRIA_talk
 venue: "Inria Paris 2022"
-date: 2021-07-01
+date: June
 location: "Paris"
 ---
