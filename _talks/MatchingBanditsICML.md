@@ -1,9 +1,10 @@
 ---
-title:[Pure Exploration and Regret Minimisation in Matching Bandits] (/files/Matching_bandits_ICML_talk.pdf)
+title: "Pure Exploration and Regret Minimisation in Matching Bandits"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /files/Matching_bandits_ICML_talk
+link: /files/Matching_bandits_ICML_talk.pdf
+permalink: /talks/2022-10-04-GF
 venue: "ICML 2021"
-date: July
+date: 2021-07-01
 location: "online"
 ---
