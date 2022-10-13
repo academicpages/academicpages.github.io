@@ -90,6 +90,7 @@ Piñeiro-Naval, V., Igartua, J. J. &amp; **Rodríguez-de-Dios, I.** (2015) La in
 
 # PUBLICATIONS: Book Chapters
 ===========
+
 Girbal González, E., Pérez Sabadell, M., Ponce Capdeville, B., **Rodríguez-de-Dios, I.** , &amp; Rodero, E. (2022). La responsabilidad social corporativa en la publicidad de las marcas comerciales durante la pandemia del COVID-19. In _La nueva era comunicativa_. Thomson Reuters-Aranzadi.
 
 Larrea, O., **Rodríguez-de-Dios, I.** , Vinyals-Mirabent, S., &amp; Rodero, E. (2022). &quot;Las referencias de COVID en anuncios marcan la diferencia. Las actitudes de los consumidores hacia los anuncios y el compromiso de las marcas mejoran cuando se conectan con la pandemia&quot. In _Comunicación y pluralidad en un contexto divergente_. Dykinson
