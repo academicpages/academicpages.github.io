@@ -90,10 +90,11 @@ Piñeiro-Naval, V., Igartua, J. J. &amp; **Rodríguez-de-Dios, I.** (2015) La in
 
 # PUBLICATIONS: Book Chapters
 ===========
+Girbal González, E., Pérez Sabadell, M., Ponce Capdeville, B., **Rodríguez-de-Dios, I.** , &amp; Rodero, E. (2022). La responsabilidad social corporativa en la publicidad de las marcas comerciales durante la pandemia del COVID-19. In _La nueva era comunicativa_. Thomson Reuters-Aranzadi.
+
+Larrea, O., **Rodríguez-de-Dios, I.** , Vinyals-Mirabent, S., &amp; Rodero, E. (2022). &quot;Las referencias de COVID en anuncios marcan la diferencia. Las actitudes de los consumidores hacia los anuncios y el compromiso de las marcas mejoran cuando se conectan con la pandemia&quot. In _Comunicación y pluralidad en un contexto divergente_. Dykinson
 
 Rodero, E., **Rodríguez-de-Dios, I.** , de-la-Mota, C., y Lopera, M. (2021). &quot;Cómo hablar a las personas con Alzheimer. Estrategias para mejorar la comunicación entre cuidadores y pacientes&quot; en C. Sánchez (Ed.). _Comunicar en pandemia. De las fake news a la sostenibilidad._ McGraw Hill.
-
-Girbal González, E., Pérez Sabadell, M., Ponce Capdeville, B., **Rodríguez-de-Dios, I.** , &amp; Rodero, E. (2022). La responsabilidad social corporativa en la publicidad de las marcas comerciales durante la pandemia del COVID-19. In _La nueva era comunicativa_. Thomson Reuters-Aranzadi.
 
 **Rodríguez de Dios, I.** , Igartua, J. J., &amp; Vázquez-González, A. (2016). Development and Validation of a Digital Literacy Scale for Teenagers. In F. J. García-Peñalvo (Ed.), _Proceedings TEEM&#39;16. Fourth International Conference on Technological Ecosystems for Enhancing Multiculturality_ (pp. 1067-1072). Nueva York: Association for Computing Machinery (ACM). doi:10.1145/3012430.3012648
 
