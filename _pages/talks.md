@@ -17,6 +17,6 @@ Nathan Noiry, Flore Sentenac, Vianney Perchet. NeurIPS 2021
 Flore Sentenac, Jialin Yi, Clément Calauzènes, Vianney Perchet, Milan Vojnovic. ICML 2021
 
 
-[Robust Estimation of Discrete Distributions under Local Differential Privacy](https://arxiv.org/abs/2202.06825) <br/>
-Julien Chhor, Flore Sentenac. February 2022
+[Online Matching in Bipartite Graphs](/files/Matching_s_quentiel_dans_les_graphes_al_atoires(2).pdf) <br/>
+Statistics-Econometrics-Machine Learning Seminar, CREST 2021, Palaiseau
  
