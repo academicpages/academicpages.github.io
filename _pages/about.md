@@ -18,8 +18,11 @@ I am co-organizing [the Second Workshop on Understanding Implicit and Underspeci
 Besides this I love going to the "cinemathèque" and on hikes with my friends. My Erdős number is 3.
 
 ### News
+* October 2022: [Paper](https://arxiv.org/pdf/2205.11413.pdf) accepted at EMNLP 2022.
+* September 2022: [Paper](https://arxiv.org/pdf/2106.14321.pdf) accepted to TACL.
+* July 2022: Co-organized the UnImplicit workshop at NAACL-2022.
 * June 2022: Started my internship at [AI2 Mosaic](https://mosaic.allenai.org/people)
-* May 2022: Paper accepted at LREC 2022.
+* May 2022: [Paper]([https://arxiv.org/pdf/2109.04832.pdf](https://aclanthology.org/2022.lrec-1.231.pdf)) accepted at LREC 2022.
 * May 2022: Aynat presented our work on “Machine classification of modal meanings: An empirical study and some consequences” at [ELM2](https://www.elm-conference.net/)
 * December 2021: Will present a poster at the [Meaning in Context: Pragmatic Communication in Humans and Machines](https://mic-workshop.github.io) workshop at NeurIPS 2021.
 * November 2021: Got invited to give a talk at the University of Wolverhampton.
