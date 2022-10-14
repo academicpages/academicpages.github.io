@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 2"
+title: "Graduate teaching assistant"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Tutorial lead"
+permalink: /teaching/gta-kings
+venue: "King's College London"
+date: 2021
+location: "London, UK"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Numerical and Computational Methods
+https://www.kcl.ac.uk/abroad/module-options/module?id=35152ab8-4fd4-42b3-abd3-a901a92aad5a
 ======
 
-Heading 2
+Probability and Statistics II
 ======
 
-Heading 3
+Calculus I, II
 ======
+
+
