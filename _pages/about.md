@@ -43,6 +43,7 @@ In general, I am very interested in __computational statistics__ and __machine l
 
 
 ## Selected Award
+* Chinese Government Award for Outstanding Self-financed Students Abroad (2021), 2022.
 * Best Student Paper Award from the Section on Bayesian Statistical Science of the American Statistical Association, 2022.
 * Silver Medal for Best poster at the conference Bristol: FRY, 2021.
 * The Alan Turing Institute Enrichment Award, 2021.
