@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Planted Matching Problems on Random Hypergraphs"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2022-planted-matching-on-hypergraphs
+excerpt: 'We consider the problem of recovering a planted matching on random hypergraphs. A first-order phase transition from partial to full recovery of the hidden structure is found, varying the signal-to-noise ratio.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'preprint'
+paperurl: 'https://arxiv.org/abs/2209.03423'
+citation: 'Adomaityte, Urte and Toshniwal, Anshul and Sicuro, Gabriele and Zdeborová, Lenka (2022). &quot;Planted matching problems on random hypergraphs.&quot; <i>preprint 1</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We consider the problem of recovering a planted matching on random hypergraphs. A first-order phase transition from partial to full recovery of the hidden structure is found, varying the signal-to-noise ratio.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/abs/2209.03423)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+'Adomaityte, Urte and Toshniwal, Anshul and Sicuro, Gabriele and Zdeborová, Lenka (2022). &quot;Planted matching problems on random hypergraphs.&quot; <i>preprint 1</i>.'
