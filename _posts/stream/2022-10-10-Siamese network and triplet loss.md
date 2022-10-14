@@ -6,7 +6,11 @@ tags:
 title: Siamese network and triplet loss
 ---
 
-Define distance as the norm between the two encodings: $d(x_i, x_j) = ||f(x_i) - f(x_j)||^2$.
+Siamese network is an architecture which runs two networks with shared weights (effectively runs the same network twice) on two different inputs simultaneously.
+It is commonly trained with a contrastive loss such as triplet loss in order to draw together the representations of similar inputs and push apart the representations of contrasting inputs.
+
+Define distance as the norm between the two encodings:
+$$d(x_i, x_j) = ||f(x_i) - f(x_j)||^2$$
 
 Goal: learn parameters so that
 - $x_i, x_j$ are the same person -> $d(x_i, x_j)$ is small
@@ -21,4 +25,5 @@ How to train? Triplet loss
 	- $d(A, P) - d(A, N) \leq 0$
 	- This can be satisfied trivially with $d(*) = 0$.
 	- To prevent trivial solution, require the difference larger than a margin. $d(A, P) - d(A, N) + \alpha \leq 0$.
-	- End up with Triplet loss $\mathcal L(A, P, N) = max(d(A, P) - d(A, N) + \alpha, 0)$
+
+End up with Triplet loss $\mathcal L(A, P, N) = max(d(A, P) - d(A, N) + \alpha, 0)$.
