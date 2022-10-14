@@ -6,9 +6,9 @@ excerpt: 'We consider the problem of recovering a planted matching on random hyp
 date: 2022-09-07
 venue: 'preprint'
 paperurl: 'https://arxiv.org/abs/2209.03423'
-citation: 'Adomaityte, Urte and Toshniwal, Anshul and Sicuro, Gabriele and Zdeborová, Lenka (2022). &quot;Planted matching problems on random hypergraphs.&quot; <i>preprint</i>.'
+citation: 'Adomaityte, U. and Toshniwal, A. and Sicuro, G. and Zdeborová, L. (2022). &quot;Planted matching problems on random hypergraphs.&quot; <i>preprint</i>.'
 ---
 
 [Download paper here](https://arxiv.org/pdf/2209.03423.pdf)
 
-'Adomaityte, Urte and Toshniwal, Anshul and Sicuro, Gabriele and Zdeborová, Lenka (2022). &quot;Planted matching problems on random hypergraphs.&quot; <i>preprint</i>.
+'Adomaityte, U. and Toshniwal, A. and Sicuro, G. and Zdeborová, L. (2022). &quot;Planted matching problems on random hypergraphs.&quot; <i>preprint</i>.
