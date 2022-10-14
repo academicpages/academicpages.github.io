@@ -19,7 +19,7 @@ In general, I am very interested in __computational statistics__ and __machine l
 
 
 ## Academic Activities
-   * This year, I am an [Enrichment student](https://www.turing.ac.uk/news/turing-welcomes-next-generation-data-enthusiasts-academic-institutions-across-uk) at [The Alan Turing Institute](https://www.turing.ac.uk).
+   * [Enrichment student](https://www.turing.ac.uk/news/turing-welcomes-next-generation-data-enthusiasts-academic-institutions-across-uk) at [The Alan Turing Institute](https://www.turing.ac.uk) 2021-2022.
    *  Organiser of 2022 [Statistics in Data-Centric Engineering (S-DCE)](https://sites.google.com/view/dce-reading-group) Seminars at The Alan Turing Institute.
 
 
