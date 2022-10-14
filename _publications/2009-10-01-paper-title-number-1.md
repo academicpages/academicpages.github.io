@@ -9,6 +9,4 @@ paperurl: 'https://arxiv.org/abs/2209.03423'
 citation: 'Adomaityte, U. and Toshniwal, A. and Sicuro, G. and Zdeborová, L. (2022). &quot;Planted matching problems on random hypergraphs.&quot; <i>preprint</i>.'
 ---
 
-[Download paper here](https://arxiv.org/pdf/2209.03423.pdf)
-
-'Adomaityte, U. and Toshniwal, A. and Sicuro, G. and Zdeborová, L. (2022). &quot;Planted matching problems on random hypergraphs.&quot; <i>preprint</i>.
+[PDF](https://arxiv.org/pdf/2209.03423.pdf)
