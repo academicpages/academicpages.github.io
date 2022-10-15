@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shobhit Saheb Dey"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Shobhit Saheb Dey"
-description              : &description "Physics-IIT Kharagpur"
-url                      : https://shobhit-dey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shobhit-dey/shobhit-dey.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,18 +80,41 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shobhit Saheb Dey"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Kharagpur"
-  googlescholar    : "https://scholar.google.com/citations?user=YobIH6AAAAAJ&hl=en&oi=sra"
-  email            : "shobhitsahebdey@iitkgp.ac.in"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  github           : "shobhitdey"
-  linkedin         : "https://www.linkedin.com/in/shobhitsahebdey"
-  orcid            : "https://orcid.org/0000-0001-5882-9282"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "academicpages"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-
+  steam            :
+  tumblr           :
+  twitter          : "replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
