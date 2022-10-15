@@ -1,13 +1,34 @@
-<!DOCTYPE html>
-<html>
-  {% include head.html %}
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+    {% if jekyll.environment == 'production' %}    
+    {% include analytics.html %}
+    {% endif %}
+  </head>
+
   <body>
-    {% include header.html %}
-    <article class="group">
-      {{ content }}
-    </article>
-    {% include print-footer.html %}
-    {% include footer.html %}
+
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
   </body>
 </html>
-
