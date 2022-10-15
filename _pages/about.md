@@ -1,6 +1,6 @@
 ---
 permalink: /
-author_profile: true
+author_profile: false
 title: About Angu
 redirect_from: 
   - /about/
