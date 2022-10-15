@@ -120,7 +120,7 @@ If you need a full-width image or figure, another custom liquid tag is available
 ```{{ "{% fullwidth 'assets/img/napoleons-march.png' 'Napoleon's March *(Edward Tufte’s English translation)*' "}} %}```
 
 Yields this:
-
+gi
 
 ### Main Column Figures
 
