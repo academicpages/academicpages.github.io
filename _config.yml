@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Mihir Shrivastava"
 title_separator          : "-"
 name                     : &name "Mihir Shrivastava"
 description              : &description "Physics IIT Kharagpur"
@@ -80,41 +80,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Mihir Shrivastava"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
+  bio              : "Physics IIT Kharagpur"
+  location         : "Kharagpur, India"
+  employer         : 
+  googlescholar    : "https://scholar.google.com/citations?user=jV2UcJIAAAAJ&hl=en"
+  email            : "mihirshriv@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Mihir-Shrivastava"
+  github           : "MihirShrivastav"
+  linkedin         : "https://www.linkedin.com/in/mihir-shrivastava-a2a1b7191/"
+  orcid            : "https://orcid.org/0000-0002-6767-139X"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
