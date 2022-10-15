@@ -310,3 +310,11 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+post:
+  template: _post.txt
+  extension: md
+page:
+  template: _page.txt
+  extension: md
+
