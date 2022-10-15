@@ -1,5 +1,5 @@
 ---
-title: "Research on the Construction and Interactive Feedback of the Exhibition-hall with the Introduction of Intelligent Virtual Agent"
+title: "Research on the Construction and Interactive Feedback of the Exhibition-hall with the Introduction of Intelligent Virtual Agent(引入智能虚拟讲解员的云展厅构建与交互反馈研究)"
 collection: publications
 permalink: /publication/2022-Research-on-the-Construction-and-Interactive-Feedback-of-the-Exhibition-hall-with-the-Introduction-of-Intelligent-Virtual-Agent
 excerpt: ''
@@ -7,7 +7,7 @@ date: 2022-09-28
 venue: 'Journal of Software'
 tags:
   - Domestic Journal Papers
-citation: 'Fang Liu, Tian Lv, Xinge Liu, Sheng Ye, Rui Guo, Lie Zhang, Cuixia Ma, Qingwei Wang, Yong-Jin Liu*.  Research on the Construction and Interactive Feedback of the Exhibition-hall with the Introduction of Intelligent Virtual Agent. Journal of Software, in Chinese, 2022.'
+citation: 'Fang Liu, Tian Lv, Xinge Liu, Sheng Ye, Rui Guo, Lie Zhang, Cuixia Ma, Qingwei Wang, Yong-Jin Liu*.  Research on the Construction and Interactive Feedback of the Exhibition-hall with the Introduction of Intelligent Virtual Agent(引入智能虚拟讲解员的云展厅构建与交互反馈研究). Journal of Software, in Chinese, 2022.'
 ---
 
 
@@ -18,5 +18,5 @@ Abstract: The Olympic heritage is the precious wealth of the world. The integrat
 
 [Download paper here](http://yongjinliu.github.io/files/2022-Research-on-the-Construction-and-Interactive-Feedback-of-the-Exhibition-hall-with-the-Introduction-of-Intelligent-Virtual-Agent.pdf)
 
-Recommended citation: Fang Liu, Tian Lv, Xinge Liu, Sheng Ye, Rui Guo, Lie Zhang, Cuixia Ma, Qingwei Wang, **Yong-Jin Liu***.  Research on the Construction and Interactive Feedback of the Exhibition-hall with the Introduction of Intelligent Virtual Agent. Journal of Software, in Chinese, 2022.
+Recommended citation: Fang Liu, Tian Lv, Xinge Liu, Sheng Ye, Rui Guo, Lie Zhang, Cuixia Ma, Qingwei Wang, **Yong-Jin Liu***.  Research on the Construction and Interactive Feedback of the Exhibition-hall with the Introduction of Intelligent Virtual Agent(引入智能虚拟讲解员的云展厅构建与交互反馈研究). Journal of Software, in Chinese, 2022.
 

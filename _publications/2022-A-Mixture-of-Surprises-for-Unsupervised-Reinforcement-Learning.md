@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2022-A-Mixture-of-Surprises-for-Unsupervised-Reinforcement-Learning
 excerpt: ''
 date: 2022-11-29
-venue: 'neurIPS'
+venue: 'NeurIPS'
 tags:
   - Conference Publications
-citation: 'Andrew Zhao, Matthieu Gaetan Lin, Yangguang Li, Yong-Jin Liu*, Gao Huang*. A Mixture of Surprises for Unsupervised Reinforcement Learning. Neural Information Processing Systems (neurIPS) 2022, https://doi.org/10.48550/arXiv.2210.06702'
+citation: 'Andrew Zhao, Matthieu Gaetan Lin, Yangguang Li, Yong-Jin Liu*, Gao Huang*. A Mixture of Surprises for Unsupervised Reinforcement Learning. Neural Information Processing Systems (NeurIPS) 2022, https://doi.org/10.48550/arXiv.2210.06702'
 ---
 
 
@@ -22,5 +22,5 @@ Abstract: Unsupervised reinforcement learning aims at learning a generalist poli
 
 [More information](https://doi.org/10.1145/3503161.3551583)
 
-Recommended citation: Andrew Zhao, Matthieu Gaetan Lin, Yangguang Li, **Yong-Jin Liu\***, Gao Huang\*. A Mixture of Surprises for Unsupervised Reinforcement Learning. Neural Information Processing Systems (neurIPS) 2022, https://doi.org/10.48550/arXiv.2210.06702
+Recommended citation: Andrew Zhao, Matthieu Gaetan Lin, Yangguang Li, **Yong-Jin Liu\***, Gao Huang\*. A Mixture of Surprises for Unsupervised Reinforcement Learning. Neural Information Processing Systems (NeurIPS) 2022, https://doi.org/10.48550/arXiv.2210.06702
 
