@@ -8,7 +8,7 @@ redirect_from:
   - /about.html  
 ---
 
-My name is Z. Sun, a 4th year PhD student at UCL. I am lucky to be supervised by Prof. [F-X Briol](https://fxbriol.github.io) and Prof. [J-H Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). My research is funded by EPSRC and UCL jointly. 
+My name is Z. Sun, a 4th year PhD student at UCL. I am lucky to be supervised by Prof. [F-X Briol](https://fxbriol.github.io) and Prof. [J-H Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). My research is mainly funded by EPSRC and UCL jointly; and partially by The Alan Turing Institute. 
 
 
 
