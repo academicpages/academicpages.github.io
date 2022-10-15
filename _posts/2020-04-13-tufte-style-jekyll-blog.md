@@ -1,11 +1,9 @@
 ---
+layout: post
 title:  "Tufte-style Jekyll blog"
 date:   2020-04-13
 permalink: /posts/tuftePostTest
-tags:
-  - cool posts
-  - category1
-  - category2
+tags: jekyll css
 ---
 
 
