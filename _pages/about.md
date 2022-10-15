@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year student of the Integrated M.Sc course in Physics at IIT Kharagpur. As a physics student, I have always been passionate to study systems that are beautifully complex, presenting a challenge to first model it down to fundamentals that it often hides, then taking different routes upwards to either study or control different phenomena occuring in the system. In this spirit, I have been actively exploring the different interfaces of condensed matter physics, optics and quantum devices also because I aim to be unbound from being in just one physics or technological domain. 
+I am a final year student of the Integrated M.Sc course in Physics at IIT Kharagpur. As a physics student, I have always been passionate to study systems that are beautifully complex, presenting a challenge to first model it down to fundamentals that it often hides, then taking different routes upwards to either study or control different phenomena occuring in the system. With this spirit in the form of an algorithm at hand, I have been actively exploring the different interfaces of condensed matter physics, optics and quantum devices, also because I aim to be unbound from being in any single domain in physics or technology. 
 
 A data-driven personal website
 ======
