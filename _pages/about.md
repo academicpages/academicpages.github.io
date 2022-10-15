@@ -10,7 +10,7 @@ redirect_from:
 
 I am a final year student of the Integrated M.Sc course in Physics at IIT Kharagpur. As a physics student, I have always been passionate to study systems that are beautifully complex, presenting a challenge to first model it down to fundamentals that it often hides, then taking different routes upwards to either study or control different phenomena occuring in the system. With this spirit in the form of an algorithm at hand, I have been actively exploring the different interfaces of condensed matter physics, optics and quantum devices, also because I aim to be unbound from being in any single domain in physics. 
 
-Being a student of a basic sciences in an institute filled with a majority of engineering departments, I was forturnate to be trained in the rigorous theoretical and experimental methods to understand an infinite class of systems but at the same time was also exposed to various technological avenues like robotics, electronics and machine learning which I have seen to share a biderectional channel of skill transfer with physics research.
+Being a student of basic sciences in an institute filled with a majority of engineering departments, I was forturnate to be trained in the rigorous analytical and experimental methods to understand an infinite class of systems but at the same time was also exposed to various technological avenues like robotics, electronics and machine learning which I have seen sharing a biderectional channel of skill-transfer with physics research.
 
 A data-driven personal website
 ======
