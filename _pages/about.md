@@ -24,7 +24,7 @@ My research interests are broadly defined at the intersection of Machine Learnin
 # News
 
 - **Oct, 2022:** Excited to receive an [Amazon-VT faculty research award](https://www.amazon.science/latest-news/amazon-and-virginia-tech-announce-inaugural-fellowship-and-faculty-research-award-recipients) to work on Embodied AI research!
-- **Oct, 2022:** Attending the [INFORMS'22 Annual Meeting](https://meetings.informs.org/wordpress/indianapolis2022/) and presenting our privacy-preserving data sharing work.
+- **Oct, 2022:** Attending [INFORMS'22](https://meetings.informs.org/wordpress/indianapolis2022/) and presenting our privacy-preserving data sharing work.
 - **Oct, 2022:** Will be giving a talk on self-supervised machine learning at the [VT Statistics Colloquium](https://www.stat.vt.edu/about/colloquium-schedule.html). 
 - **August, 2022:** Co-organizing the first-ever NeurIPS 2022 [Gaze Meets ML](https://gaze-meets-ml.github.io/gaze_ml_2022/) workshop. 
 - **August, 2022:** Excited to receive new DARPA KMASS funding!
