@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a final year student of the Integrated M.Sc course in Physics at IIT Kharagpur. As a student, I have always been passionate about systems that are beautifully complex, presenting a challenge to first model them down to fundamentals, that are often hidden, then taking different routes upwards to study or even control the different phenomena that occur. With this spirit in the form of an algorithm at hand, I have been actively exploring the different interfaces of <b>condensed matter physics, optics</b> and <b>quantum devices</b>. 
+
+Being a student of basic sciences in an institute filled with a majority of engineering departments, I was forturnate to be trained in the rigorous analytical and experimental methods to understand nature but at the same time also being exposed to various technological avenues like robotics, electronics and machine learning which I have seen sharing a bidirectional transfer of techniques with physics research. Not only have I experienced this in literally all my projects but this exposure has also helped me shape my interests within physics. 
+
+Apart from all these so called nerdy stuff, I sometimes spend some time playing guitar or editing travel videos.
 
 A data-driven personal website
 ======
