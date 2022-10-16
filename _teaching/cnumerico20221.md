@@ -59,6 +59,11 @@ Aulas
 
 * [Integração - Quadratura Gaussiana](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/qgauss.pdf)
 
+* [Eliminação de Gauss I](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/aula14.pdf)
+
+* [Eliminação de Gauss II](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/aula15.pdf)
+
+
 
 Trabalhos
 =======
