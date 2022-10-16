@@ -146,6 +146,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - UploadToGithub.Rakefile
 keep_files:
   - .git
   - .svn
