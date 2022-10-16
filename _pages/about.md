@@ -12,6 +12,8 @@ I am a final year student of the Integrated M.Sc course in Physics at IIT Kharag
 
 Being a student of basic sciences in an institute filled with a majority of engineering departments, I was forturnate to be trained in the rigorous analytical and experimental methods to understand nature but at the same time also being exposed to various technological avenues like robotics, electronics and machine learning which I have seen sharing a bidirectional transfer of techniques with physics research. Not only have I experienced this in literally all my projects but this exposure has also helped me shape my interests within physics. 
 
+Apart from all these so called nerdy stuff, I sometimes spend some time playing guitar or editing travel videos.
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
