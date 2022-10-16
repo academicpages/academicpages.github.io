@@ -1,7 +1,7 @@
 ---
 title: "Keypoint Cascade Voting for Point Cloud Based 6DoF Pose Estimation"
 collection: publications
-permalink: /publication/ckvpose
+permalink: /publication/rcvpose3d
 excerpt: 'We propose a novel keypoint voting 6DoF object 
 pose estimation method, 
 which takes
