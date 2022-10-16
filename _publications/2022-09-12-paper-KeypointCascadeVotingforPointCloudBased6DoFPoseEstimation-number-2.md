@@ -1,5 +1,5 @@
 ---
-title: "Cascade Keypoint Voting for Point Cloud Based 6DoF Pose Estimation"
+title: "Keypoint Cascade Voting for Point Cloud Based 6DoF Pose Estimation"
 collection: publications
 permalink: /publication/ckvpose
 excerpt: 'We propose a novel keypoint voting 6DoF object 
