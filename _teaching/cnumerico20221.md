@@ -86,3 +86,5 @@ Notebooks
 * [Integração: Regra do Trapézio e Regra de Simpson](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/integracao.ipynb)
 
 * [Integração: Quadratura Gaussiana](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/integracao_gaussiana.ipynb)
+
+* [Eliminação de Gauss](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/eliminacao.ipynb)
