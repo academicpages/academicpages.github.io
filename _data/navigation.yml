@@ -1,17 +1,22 @@
 # main links links
 main:
-  - title: "Research Projects"
+  - title: "Publications"
     url: /articles/
 
-  - title: "Term Projects"
-    url: /term_projects/    
-
-  - title: "Robotics"
-    url: /robotics/    
+  - title: "Talks"
+    url: /talks/    
     
-  - title: "Extra Curriculars"
-    url: /extra_curriculars/
+  - title: "Expressions"
+    url: /expressions/
+
+  - title: "Teaching"
+    url: /teaching/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
     
   - title: "CV"
     url: /cv/
   
+  - title: "Contact"
+    url: /contact/
