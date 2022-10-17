@@ -33,7 +33,9 @@ Robust Lane Detection through Self Pre-training with Masked Sequential Autoencod
 
 ---
 #title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "mask 1<br/><img src='/images/mask.jpg'>"
+excerpt: "normal_result number 2<br/><img src='/images/normal_result1.jpg'>"
+excerpt: "challenge_result number 3<br/><img src='/images/challenge_result1.jpg'>"
 collection: portfolio
 ---
 
@@ -66,4 +68,4 @@ Air pollutant concentration prediction based on LSTM-CNN	         Sept.2021- Oct
 * Considering regional coordinated prediction of weather using LSTM-CNN to mine the temporal and spatial characteristics of pollutants between multiple sites
 * Test comparing LSTM and LSTM-CNN, and the prediction results with different hyperparameters
 * Delivery: Participated in The 18th China Post-Graduate Mathematical Contest in Modeling, won the 3rd prize
-   
+    
