@@ -12,20 +12,19 @@ redirect_from:
 Education
 ======
 * B.E. College of Traffic and Transportation, Lanzhou Jiaotong University, 2020
+  * Overall GPA: 3.62/4.0 (15/107)
 * M.E. College of Traffic and Transportation, Lanzhou Jiaotong University, 2023
+  * Overall GPA: 3.47/4.0 (15/290)
 
-Work experience
+Organization activities & Volunteering
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * School Basketball Team | Captain	Sept.2016-Jan.2019
+Responsible for helping the coach to organize and manage the daily basketball practice 
+Assist coaches in basketball tournaments and lead teams in basketball tournaments
+  * School Taekwondo Club | Teaching department | Coach	Sept.2016-Jun.2018
+Organize daily taekwondo training for club members
+Organize and plan activities, and lead the performance team in the evening show
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Programming Languages:
@@ -57,4 +56,4 @@ Assist coaches in basketball tournaments and lead teams in basketball tournament
 * School Taekwondo Club | Teaching department | Coach	Sept.2016-Jun.2018
 Organize daily taekwondo training for club members
 Organize and plan activities, and lead the performance team in the evening show
-  
+   
