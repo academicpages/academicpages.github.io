@@ -14,8 +14,10 @@ Intelligent quality detection of lane rendering data	         Aug.2022- Sept.202
 * Adjusted the pre-trained models for fine-tuning the image classification task
 * Developed the pipeline for abnormal image detection to identify defected lane rendering image
 * Delivery: An implementation report and participated in the HUAWEI 2022 Global AI Challenge
+ 
 ---
 title: "Portfolio item number 1"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
+ 
