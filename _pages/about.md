@@ -16,6 +16,7 @@ Presently I am working in the areas of OCT Volume registration methods and robot
 
 I have expreience working with wide range of industries ranging from start-ups ([WiSig](http://5g.iith.ac.in/)[x5G Testbed IITH](https://wisig.com/)) to one of the leading MNC's ([Oracle](https://www.oracle.com/in/)). I was also fortunate to do a winter internship in [DRDO](https://www.drdo.gov.in/), a national institute for defence research and development. 
 
+
 I have participated in multiple competetions and challenges. Some of my major achievements being :
 1. IEEE SP Cup (first runner up)
 2. Flipkart Grid 3 Hackathon (Finalist)
