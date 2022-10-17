@@ -5,17 +5,19 @@ permalink: /Rewards/
 author_profile: true
 ---
 
-Journal Publications
-======
-* Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss. IEEE Transactions on Intelligent Transportation Systems. Co-First author (rank 1st)[Under Review].
-* Research on Coordination Relationship between Development of Rural Roads and Industrial Structure of Agriculture. Comprehensive Transport. Corresponding author (rank 2nd) [Accepted].
 
-Conference Publications
-======
-* Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss. The Transportation Research Board (TRB) 102nd Annual Meeting. Co-First author [Accepted].
-* Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning. The 23rd COTA International Conference of Transportation Professionals (CICTP2023). (rank 3rd) [Submitted]
-* The Highway Region Boundary Based on Multi-Environmental Factors. The 23rd COTA International Conference of Transportation Professionals (CICTP2023). First author [Submitted]
 
-Patent
-======
-* Robust lane detection method through self pre-training with masked sequential auto-encoders and fine-tuning with customised PolyLoss (2022). E.U. Patent Application No. OCT-22-060. [Submitted].
+| Rank             | Year   |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| [John Doe](#)    | 2016   | “Huawei Cup” The 18th China Post-Graduate Mathematical Contest in Modeling                          |
+| [Jane Doe](#)    | 2019   | 2020-2021 The Second Prize School Scholarship                          |
+| [Doe Doe](#)     | 2022   | Lanzhou Jiaotong University 52nd Sports Competition Basketball Competition                          |
+| [Doe Doe](#)     | 2022   | 2018 Certificate Authority Cup International Mathematical Contest in Modeling                          |
+| [Doe Doe](#)     | 2022   | The 5th CUBA Chinese University Basketball Tournament (Gansu)                          |
+| [Doe Doe](#)     | 2022   | 2017-2018 The Second Prize School Scholarship                          |
+| [Doe Doe](#)     | 2022   | “Longren cup” The 5th Lanzhou University Taekwondo Invitational Tournament                          |
+| [Doe Doe](#)     | 2022   | 2018 Higher Education Cup National Student Mathematical Modeling Competition (Gansu)                          |
+| [Doe Doe](#)     | 2022   | 2016-2017 The Second Prize School Scholarship                          |
+| [Doe Doe](#)     | 2022   | “Longren cup” The 4th Gansu University Taekwondo Invitational Tournament                          |
+| [Doe Doe](#)     | 2022   | The 4th CUBA Chinese University Basketball Tournament (Gansu)                          |
+| [Doe Doe](#)     | 2022   | “Longren cup” The 3rd Lanzhou University Taekwondo Invitational                          |
