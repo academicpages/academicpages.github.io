@@ -1,13 +1,36 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am senior undergrad at [IIT Hyderabad]('https://iith.ac.in/) pursuing B.Tech(Hons) in the Department of Electrical Engineering.
 
+
+I am a person passionate about technology and interested in solving problems and challenges. I am a persistent learner of different things and a collaborative team player in diverse projects. I have worked in varied areas including hardware design, applications of machine learning in RADAR technology, Speech and Image processing, software analytics etc. Inclined towards the Communication and Signal processing, I have inculcated strong mathematical skills and keen interest in applied statistics and machine learning which helped me apply my domain knowledge in other interdisciplinary areas. I try to maintain a rich balance between my academia and applied research in industry.
+
+Presently I am working in the areas of OCT Volume registration methods and robot vision for BIPED robot. Apart from the research, I am also one the associate developer for creating a collaborating platform for [GPAI](https://gpai.ai/).
+
+I have expreience working with wide range of industries ranging from start-ups ([WiSig](http://5g.iith.ac.in/)[x5G Testbed IITH](https://wisig.com/)) to one of the leading MNC's ([Oracle](https://www.oracle.com/in/)). I was also fortunate to do a winter internship in [DRDO](https://www.drdo.gov.in/), a national institute for defence research and development. 
+
+I have participated in multiple competetions and challenges. Some of my major achievements being :
+1. IEEE SP Cup (first runner up)
+2. Flipkart Grid 3 Hackathon (Finalist)
+
+I have held multiple positions of responsibilities during my college tenure, some of them being:
+1. Co-ordinator for a scitech club called Elektronica.
+2. Sponsorship Co-ordinator for Elan & nVision, annual fest of IITH.
+
+
+In my free time, I binge movies and TV shows, listen to music or play badminton. 
+
+
+
+
+<!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -47,4 +70,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
