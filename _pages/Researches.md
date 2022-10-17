@@ -15,11 +15,6 @@ Intelligent quality detection of lane rendering data	         Aug.2022- Sept.202
 * Developed the pipeline for abnormal image detection to identify defected lane rendering image
 * Delivery: An implementation report and participated in the HUAWEI 2022 Global AI Challenge
     
----
-#title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
----
 
 Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders	         Sept.2021- Aug.2022
 ======
@@ -32,9 +27,12 @@ Robust Lane Detection through Self Pre-training with Masked Sequential Autoencod
 * Delivery: A research paper titled Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss
 
 ---
-"mask 1<br/><img src='/images/mask.jpg'>"
-"normal_result number 2<br/><img src='/images/normal_result1.jpg'>"
-"challenge_result number 3<br/><img src='/images/challenge_result1.jpg'>"
+<br/><img src='/images/mask.jpg'>
+Figure.1 Visualization of the reconstructing results in the pre-training phase. The first row shows images with 50% of the patches masked. The second row shows the reconstructed images after pre-training. The third row shows the original images.
+<br/><img src='/images/normal_result1.jpg'>
+Figure.2 Lane detecion results obtained by SCNN_UNet_ConvLSTM_PL** on tvtLANE testset #1 (normal) without post-processing.
+<br/><img src='/images/challenge_result1.jpg'>
+Figure.3 Lane detecion results obtained by SCNN_UNet_ConvLSTM_PL** on tvtLANE testset #2 (challenging) without post-processing.
 
 ---
 
@@ -49,6 +47,13 @@ Lanzhou Jiaotong University | Research Assistant
 * Established a road traffic and ecological risk evaluation index system for ecological function areas
 * Determined the scope of the environmental impact of the highway is 600 meters using remote sensing datas
 * Delivery: Completed a research report, and prepared a project proposal for the National Natural Science Foundation of China
+---
+<br/><img src='/images/1.jpg'>
+Figure.4 Time series data (NDVI) using Landsat8 remote sensing images.
+<br/><img src='/images/4.png'>
+Figure.5 Correlation analysis between NDVI value and meteorology indexes.
+
+---
 
 Research on the mechanism of the rural roads on the revitalization of rural industries in Gansu Province	         Sep.2020 - Aug.2021
 ======
@@ -67,4 +72,4 @@ Air pollutant concentration prediction based on LSTM-CNN	         Sept.2021- Oct
 * Considering regional coordinated prediction of weather using LSTM-CNN to mine the temporal and spatial characteristics of pollutants between multiple sites
 * Test comparing LSTM and LSTM-CNN, and the prediction results with different hyperparameters
 * Delivery: Participated in The 18th China Post-Graduate Mathematical Contest in Modeling, won the 3rd prize
-     
+      
