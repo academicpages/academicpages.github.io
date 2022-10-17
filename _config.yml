@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Akshay Krishnan"
 title_separator          : "-"
 name                     : &name "Akshay Krishnan"
-description              : &description "Computer Vision Engineer, Waymo"
+description              : &description "PhD Student, Georgia Tech"
 url                      : https://akshay-krishnan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "akshay-krishnan/akshay-krishnan.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Akshay Krishnan"
   avatar           : "akshay_photo.png"
-  bio              : "Computer Vision Engineer, Waymo"
-  location         : "Seattle, WA"
+  bio              : "PhD Student, Georgia Tech"
+  location         : "Atlanta, GA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=vHqNiLkAAAAJ&hl=en"
