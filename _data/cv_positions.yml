@@ -1,23 +1,16 @@
 - title: Research Assistant
-  date: Aug 2020 - Aug 2021
+  date: Aug 2020 - Present
   organization: Iowa State University, Program Analysis Lab
   location: Ames, IA
   text: |
     <ul>
-    <li>Contributing author, “Validating static warnings via testing code fragments” (ISSTA 2021, top conference).</li>
-    <li>Collaborated with CERT group @ Carnegie-Mellon Software Engineering Institute.</li>
-    <li>Created a toolkit for dynamic analysis and code generation (pal-tools) for use in experiments.</li>
-    <li>Acquired and maintained bug benchmarks for use in experiments.</li>
-    </ul>
-
-- title: Teaching Assistant
-  date: Jan 2020 - May 2020
-  organization: "Iowa State University, COM S 227: Object-oriented Programming (Java)"
-  location: Ames, IA
-  text: |
-    <ul>
-    <li>Instructed and mentored 30 students in weekly labs and office hours.</li>
-    <li>Volunteered to create a GUI visualization for Conway's Game of Life to increase student engagement (link).</li>
+    <li>Conducted novel research resulting in 2 first-author conference papers in submission to ICSE23 and ICLR23.</li>
+    <li>ICSE23: an empirical study of capabilities, data, and interpretation for deep learning-based vulnerability detection.</li>
+    <li>ICLR23: a dataflow analysis-guided graph learning framework and embedding technique for vulnerability detection.</li>
+    <li>Contributing author, “Validating static warnings via testing code fragments” (accepted ISSTA 2021, top conference).</li>
+    <li>Collaborated with CERT lab @ Carnegie-Mellon University and ARiSE lab @ Columbia University.</li>
+    <li>Improved experiment iteration time by building tools for static analysis (tree-climber) and dynamic analysis and code generation (pal-tools).</li>
+    <li>Enabled collaboration on experiments by acquiring and maintaining bug benchmarks for use in experiments.</li>
     </ul>
 
 - title: Software Developer Intern
@@ -26,10 +19,20 @@
   location: Ames, IA
   text: |
     <ul>
-    <li>Fall 2021: Responsible for adding GIS capability for address geolocation and remote sensing imagery.</li>
-    <li>Summer 2020: Developed full-farm integration with John Deere data platform (link).</li>
-    <li>Summer 2019: Implemented modern reactive satellite mapping interface with Javascript/Vue.</li>
-    <li>Summer 2018: Maintained domain-specific fertilizer prescription language using Antlr parser generator.</li>
+    <li>Fall 2021: Democratized public datasets by adding GIS capability for geolocation and remote sensing.</li>
+    <li>Summer 2020: Widened customer reach by <a href="https://www.agleader.com/blog/ag-leader-expands-full-farm-data-solution-by-connecting-operations-running-mixed-fleets/">integrating AgFiniti with John Deere data platform</a>.</li>
+    <li>Summer 2019: Improved UX by modernizing satellite mapping interface with Javascript/Vue.</li>
+    <li>Summer 2018: Enabled agronomic analysis by maintaining a domain-specific language using Antlr.</li>
+    </ul>
+
+- title: Teaching Assistant
+  date: Jan 2020 - May 2020
+  organization: "Iowa State University, COM S 227: Object-oriented Programming (Java)"
+  location: Ames, IA
+  text: |
+    <ul>
+    <li>Instructed 30 students in weekly labs and office hours.</li>
+    <li>Volunteered to create a <a href="https://github.com/bstee615/gol-gui">GUI visualization for Conway's Game of Life (gol-gui)</a> to increase student engagement.</li>
     </ul>
 
 - title: Freelance Software Developer
@@ -39,5 +42,4 @@
   text: |
     <ul>
     <li>Collaborated with 2 other developers to create Amazon product listing web app using C#, ASP.NET Core, SQL Server, and Azure cloud services.</li>
-    <li>Developed custom shipping manifest processing utility with Python.</li>
     </ul>

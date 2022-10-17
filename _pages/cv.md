@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Ph.D. student seeking machine learning internship.
+Ph.D. student seeking machine learning research internship.
+<br>
 Research interests are the intersection of machine learning and software engineering.
-Experience in deep learning, machine learning, data scraping, program analysis, and software development.
+<br>
+Experience in deep learning, machine learning, program analysis, software development.
 
 
 # Education
@@ -37,12 +39,17 @@ Experience in deep learning, machine learning, data scraping, program analysis, 
 </ul>
 
 
-# Selected Projects
-* [cfactor](https://github.com/bstee615/cfactor): Scalable, policy-driven refactoring for C programs (Python/srcML)
-* [animal](https://github.com/animal-cognitive/AnimalAI-Olympics/tree/feature/whole-cache-agent)-cognitive: Deep reinforcement learning models with embodied animal cognition (PyTorch/rllib)
-* [rarl](https://github.com/bstee615/rarl): Reproduction of “Robust Adversarial Reinforcement Learning” (PyTorch/stable-baselines)
-* [pal-tools](https://github.com/bstee615/pal-tools): Dynamic analysis and code generation, using Intel Pin (C++) and LLVM (Python)
-* [precise-interrupts](https://github.com/isu-cpre581-pangolin/gem5/tree/sleepy): Reproducing a historical interrupt handling paper in ARM architecture, using gem5 (C++)
+# My Projects
+
+## Primary developer
+* [cfactor](https://github.com/bstee615/cfactor): Scalable, policy-driven refactoring for C programs (Python/srcML).
+* [tree-climber](https://github.com/bstee615/tree-climber): Scalable program analysis tools for C built on tree-sitter (Python).
+* [pal-tools](https://github.com/bstee615/pal-tools): Dynamic analysis and code generation, using Intel Pin (C++) and LLVM (Python).
+* [rarl](https://github.com/bstee615/rarl): Reproduction of <a href="https://doi.org/10.48550/arXiv.1703.02702">Robust Adversarial Reinforcement Learning (Pinto et al. 2017)</a> (PyTorch/stable-baselines).
+
+## Team project
+* [animal-cognitive](https://github.com/animal-cognitive/AnimalAI-Olympics/tree/feature/whole-cache-agent): Deep reinforcement learning models with embodied animal cognition (PyTorch/rllib).
+* [precise-interrupts](https://github.com/isu-cpre581-pangolin/gem5/tree/sleepy): Reproducing a historical interrupt handling paper in ARM architecture (C++/gem5).
 
 
 # Technical Skills
