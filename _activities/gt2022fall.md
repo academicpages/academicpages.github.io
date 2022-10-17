@@ -17,7 +17,7 @@ author_profile: false
  | Thu, 2022-10-06 | 1:30pm - 2:30pm | Vinicius G. B. Ramos | The Toda lattice, billiards and the Viterbo conjecture | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-10-13 | 1:30pm - 2:30pm | Kristen Hendricks | Rank inequalities for the Heegaard Floer homology of branched covers| Vincent 215 | 
  | Thu, 2022-10-20 | 1:30pm - 2:30pm | Daniel Stern | Existence of harmonic maps in higher dimensions and applications | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
- | Thu, 2022-10-27 | 1:30pm - 2:30pm | Ao Sun |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
+ | Thu, 2022-10-27 | 1:30pm - 2:30pm | Ao Sun | Generic Mean Curvature Flow with Cylindrical Singularities | Vincent 215 | 
  | Thu, 2022-11-03 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-11-10 | 1:30pm - 2:30pm | Nick Edelen |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-11-17 | 1:30pm - 2:30pm | Beomjun Choi |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
@@ -45,4 +45,7 @@ author_profile: false
 
 * Daniel Stern
   * I'll discuss recent progress on the existence theory for harmonic maps on higher-dimensional manifolds, giving harmonic maps of optimal regularity from manifolds of dimension n>2 to every non-aspherical closed manifold containing no stable minimal two-spheres. As an application, we'll see that every manifold carries a canonical family of sphere-valued harmonic maps, which (for n<6) stabilize at a solution of a spectral isoperimetric problem generalizing the conformal maximization of Laplace eigenvalues on surfaces. Based on joint work with Mikhail Karpukhin.
+
+* Ao Sun
+  * We study the local and global dynamics of mean curvature flow with cylindrical singularities. We find the most generic dynamic behavior of such singularities, and show that the singularities with the most generic dynamic behavior are robust. We also show that the most generic singularities are isolated and type-I. Among applications, we prove that the singular set structure of the generic mean convex mean curvature flow has certain patterns, and the level set flow starting from a generic mean convex hypersurface has low regularity. This is joint work with Jinxin Xue (Tsinghua University).
 
