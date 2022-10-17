@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. College of Traffic and Transportation, Lanzhou Jiaotong University, 2020
+* M.E. College of Traffic and Transportation, Lanzhou Jiaotong University, 2023
 
 Work experience
 ======
@@ -29,31 +28,33 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+* Programming Languages:
+  * Python
+  * C/C++
+  * C#
+* Machine Learning:
+  * CNN
+  * LSTM
+  * AutoEncoder
+  * Masked Image Modeling
+  * PyTorch
+  * Transformer
+  * U-Net
+* Software:
+  * PyCharm/SpyderSkill 3
+  * ArcGIS/ENVI
+  * ENVI
+  * Vissim
+  * Revit/Auto CAD
+  * ADAM
+  * SPSS
+ 
+ORGANIZATION ACTIVITIES & VOLUNTEERING 
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* School Basketball Team | Captain	Sept.2016-Jan.2019
+Responsible for helping the coach to organize and manage the daily basketball practice 
+Assist coaches in basketball tournaments and lead teams in basketball tournaments
+* School Taekwondo Club | Teaching department | Coach	Sept.2016-Jun.2018
+Organize daily taekwondo training for club members
+Organize and plan activities, and lead the performance team in the evening show
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
