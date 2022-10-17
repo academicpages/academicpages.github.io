@@ -7,7 +7,7 @@ author_profile: true
 
 Coursera
 ======
-| Course                                | Greads   |                            Links                                               |
+| Course                                | Greads   | Links                                                                          |
 | ------------------------------------- | -------- | ------------------------------------------------------------------------------ |
 | Machine Learning                      | 96.02%   | [Online course certificate](https://www.coursera.org/account/accomplishments/verify/83H2AXHA3U36?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)                          |
 | Convolutional Neural Networks         | 97.50%   | [Online course certificate](https://www.coursera.org/account/accomplishments/verify/72XGNRQWHXDQ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)                          |
@@ -39,4 +39,4 @@ Courses in undergraduate
 * Large Scale Database Development (A)
 * Engineering Mechanics (A)
 * Organization of Railroad Cargo Transportation (A)
-    
+  
