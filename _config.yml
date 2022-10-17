@@ -260,10 +260,10 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  # _Resherchs
+  # _Researches
   - scope:
       path: ""
-      type: Resherchs
+      type: Researches
     values:
       layout: single
       author_profile: true
