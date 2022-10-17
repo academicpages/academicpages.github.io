@@ -47,6 +47,7 @@ Lanzhou Jiaotong University | Research Assistant
 * Established a road traffic and ecological risk evaluation index system for ecological function areas
 * Determined the scope of the environmental impact of the highway is 600 meters using remote sensing datas
 * Delivery: Completed a research report, and prepared a project proposal for the National Natural Science Foundation of China
+
 ---
 <br/><img src='/images/1.jpg'>
 Figure.4 Time series data (NDVI) using Landsat8 remote sensing images.
@@ -72,4 +73,4 @@ Air pollutant concentration prediction based on LSTM-CNN	         Sept.2021- Oct
 * Considering regional coordinated prediction of weather using LSTM-CNN to mine the temporal and spatial characteristics of pollutants between multiple sites
 * Test comparing LSTM and LSTM-CNN, and the prediction results with different hyperparameters
 * Delivery: Participated in The 18th China Post-Graduate Mathematical Contest in Modeling, won the 3rd prize
-      
+       
