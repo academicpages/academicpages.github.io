@@ -5,17 +5,17 @@ permalink: /Researches/
 author_profile: true
 ---
 
-Journal Publications
+Intelligent quality detection of lane rendering data	         Aug.2022- Sept.2022 
 ======
-* Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss. IEEE Transactions on Intelligent Transportation Systems. Co-First author (rank 1st)[Under Review].
-* Research on Coordination Relationship between Development of Rural Roads and Industrial Structure of Agriculture. Comprehensive Transport. Corresponding author (rank 2nd) [Accepted].
-
-Conference Publications
-======
-* Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss. The Transportation Research Board (TRB) 102nd Annual Meeting. Co-First author [Accepted].
-* Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning. The 23rd COTA International Conference of Transportation Professionals (CICTP2023). (rank 3rd) [Submitted]
-* The Highway Region Boundary Based on Multi-Environmental Factors. The 23rd COTA International Conference of Transportation Professionals (CICTP2023). First author [Submitted]
-
-Patent
-======
-* Robust lane detection method through self pre-training with masked sequential auto-encoders and fine-tuning with customised PolyLoss (2022). E.U. Patent Application No. OCT-22-060. [Submitted].
+* Objective: To efficiently detect whether there are defects in the rendered generated map data for navigation
+* Implemented pre-training with Masked Image Modeling using three hybrid CNN-LSTM neural network models
+* Build the pre-training pipeline for the image recovery task and carried out the pre-training
+* Tested different numbers of continuous sequence image inputs with different pre-training models
+* Adjusted the pre-trained models for fine-tuning the image classification task
+* Developed the pipeline for abnormal image detection to identify defected lane rendering image
+* Delivery: An implementation report and participated in the HUAWEI 2022 Global AI Challenge
+---
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
