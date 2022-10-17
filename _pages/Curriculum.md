@@ -16,16 +16,27 @@ Coursera
 | Neural Networks and Deep Learning     | 95.60%   | [Online course certificate](https://www.coursera.org/account/accomplishments/verify/2AT55WYQ8ESD?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)                           |
 | Improving Deep Neural Networks     | 98.66%   | [Online course certificate](https://www.coursera.org/account/accomplishments/verify/G2XERTWHZ2TB?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)                           |
 
-
 Courses in postgraduate
 ======
-* Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss. The Transportation Research Board (TRB) 102nd Annual Meeting. Co-First author [Accepted].
-* Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning. The 23rd COTA International Conference of Transportation Professionals (CICTP2023). (rank 3rd) [Submitted]
-* The Highway Region Boundary Based on Multi-Environmental Factors. The 23rd COTA International Conference of Transportation Professionals (CICTP2023). First author [Submitted]
-
+* Operations Research Modeling and Algorithms (A)
+* Traffic Engineering Theory (A)
+* Numerical Computation Method (A)
+* Urban Transportation Network Analysis (A)
+* Traffic Demand Management and Impact Analysis(B)
+* Theory and design of metaheuristic algorithms (A)
+* Traffic Prediction and Evaluation (B)
+* Optimization Theory (B)
 
 Courses in undergraduate
 ======
-* Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss. The Transportation Research Board (TRB) 102nd Annual Meeting. Co-First author [Accepted].
-* Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning. The 23rd COTA International Conference of Transportation Professionals (CICTP2023). (rank 3rd) [Submitted]
-* The Highway Region Boundary Based on Multi-Environmental Factors. The 23rd COTA International Conference of Transportation Professionals (CICTP2023). First author [Submitted]
+* Operations Research (A)
+* Linear Algebra (A)
+* Probability and Mathematical Statistics(A)
+* C/C++ Programming (A)
+* Object Oriented Programming (C#) (A)
+* Traffic Engineering (A)
+* Basics of Railroad Traffic Organization (A
+* Large Scale Database Development (A)
+* Engineering Mechanics (A)
+* Organization of Railroad Cargo Transportation (A)
+
