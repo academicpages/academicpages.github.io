@@ -32,11 +32,10 @@ Robust Lane Detection through Self Pre-training with Masked Sequential Autoencod
 * Delivery: A research paper titled Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss
 
 ---
-#title: "Portfolio item number 1"
-excerpt: "mask 1<br/><img src='/images/mask.jpg'>"
-excerpt: "normal_result number 2<br/><img src='/images/normal_result1.jpg'>"
-excerpt: "challenge_result number 3<br/><img src='/images/challenge_result1.jpg'>"
-collection: portfolio
+"mask 1<br/><img src='/images/mask.jpg'>"
+"normal_result number 2<br/><img src='/images/normal_result1.jpg'>"
+"challenge_result number 3<br/><img src='/images/challenge_result1.jpg'>"
+
 ---
 
 Research on ecological risk assessment and traffic carrying capacity of road areas in ecological function zones	         Sep.2021 - Sep.2022
