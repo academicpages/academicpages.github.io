@@ -18,10 +18,10 @@ Education
 
 Organization activities & Volunteering
 ======
-  * School Basketball Team | Captain	Sept.2016-Jan.2019
+  * School Basketball Team, Captain,	Sept.2016-Jan.2019
     * Responsible for helping the coach to organize and manage the daily basketball practice 
     * Assist coaches in basketball tournaments and lead teams in basketball tournaments
-  * School Taekwondo Club | Teaching department | Coach	Sept.2016-Jun.2018
+  * School Taekwondo Club, Teaching department, Coach, Sept.2016-Jun.2018
     * Organize daily taekwondo training for club members
     * Organize and plan activities, and lead the performance team in the evening show
 
