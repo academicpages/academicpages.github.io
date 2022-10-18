@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
+## SUMMATION
+* International Journal papers : 2
+
+* International Conference papers : 2
+
+* Domain Journal papers : 1
+
+* Domain Conference papers : 9
+
+
 ## International Journals
 __
 * **Youngwoo Oh** and Wooyeol Choi*, "Multi-Objective Deep Reinforcement Learning-Based Power Allocation Method for Optimization Trade-off in Massive MIMO Networks,. **(working)**
