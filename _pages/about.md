@@ -18,7 +18,7 @@ redirect_from:
 
 News
 =====
-**Oct. 2022:** Our demo paper BED won [Outstanding Demo Paper Award](https://www.cikm2022.org/best-paper) in CIKM 2022. [Video](https://www.youtube.com/watch?v=0tY31_cECCA) [Talk](https://files.atypon.com/acm/61117c16dd998b4450dcd4910c590fa5) [Paper](https://arxiv.org/abs/2202.07503) [Slide](https://guanchuwang.github.io/home/CIKM%20slide.pdf) [Code](https://github.com/datamllab/BED_main)
+**Oct. 2022:** Our demo paper BED won [Outstanding Demo Paper Award](https://www.cikm2022.org/best-paper) in CIKM 2022. [[Video]](https://www.youtube.com/watch?v=0tY31_cECCA) [[Talk]](https://files.atypon.com/acm/61117c16dd998b4450dcd4910c590fa5) [[Paper]](https://arxiv.org/abs/2202.07503) [[Slide]](https://guanchuwang.github.io/home/CIKM%20slide.pdf) [[Code]](https://github.com/datamllab/BED_main)
 
 **Oct. 2022:** Thrilled to start my internship at Amazon Search (A9.com) [QU team](https://amazonsearchqu.github.io/).
 
