@@ -14,6 +14,8 @@ The goal of my research is to develop trustworthy and safe intelligent autonomou
 
 For more information, please refer to my [CV](https://ChenTangMark.github.io/files/Chen_Tang_Resume.pdf). Please feel free to contact me for research discussion and collaboration! 
 
+**I am on the 2022-2023 academic job market.**
+
 
 News 
 ======
