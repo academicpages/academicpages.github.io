@@ -19,11 +19,6 @@ Intelligent quality detection of lane rendering data	        |Aug.2022- Sept.202
 Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders	        |Sept.2021- Aug.2022
 ======
 * Objective: To develop robust lane detection neural network model that can tackle challenging scenes
-* Proposes a pipeline consisting of self pre-training with masked sequential autoencoders and fine-tuning with customized PolyLoss for the end-to-end neural network models to do lane detection using multi-continuous image frames
-* Adopted masked image modelling with masked sequential autoencoders to pre-train the hybrid CNN-RNN models with Mean Square Error (MSE) loss to transform the image reconstruction task into a minimization problem
-* Customized a PolyLoss for the fine-tuning per-pixel segmentation task to further improve the accuracy
-* The developed model can make full use of the valuable features and aggregate contextual information
-* Tested and verified the proposed pipeline using hybrid CNN-RNN models and obtained state-of-the-art performance
 * Delivery: A research paper titled Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss
 
 ---
@@ -73,4 +68,4 @@ Air pollutant concentration prediction based on LSTM-CNN	        |Sept.2021- Oct
 * Considering regional coordinated prediction of weather using LSTM-CNN to mine the temporal and spatial characteristics of pollutants between multiple sites
 * Test comparing LSTM and LSTM-CNN, and the prediction results with different hyperparameters
 * Delivery: Participated in The 18th China Post-Graduate Mathematical Contest in Modeling, won the 3rd prize
-        
+         
