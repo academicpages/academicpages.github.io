@@ -12,12 +12,7 @@ header:
 
 We develop and implement decentralized behaviors for multi-agent robot teams to play the game of "Capture the Flag". The game is representative of practical applications where robots are deployed for either protecting or capturing a resource in security applications. 
 
-<iframe
-    src="https://youtu.be/Htr4ztOg4CY"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+<iframe src="https://youtube.com/embed/Htr4ztOg4CY" frameborder="0"> </iframe>
 
 <br/>
 
