@@ -1,5 +1,14 @@
 # main links links
 main:
+
+  # will be Research Projects
+  - title: "CV"
+    url: /cv/
+  
+  # will be Work Expereinces
+  - title: "Guide"
+    url: /markdown/
+    
   - title: "Publications"
     url: /publications/
 
@@ -14,11 +23,3 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-  
-  # will be Research Projects
-  - title: "CV"
-    url: /cv/
-  
-  # will be Work Expereinces
-  - title: "Guide"
-    url: /markdown/
