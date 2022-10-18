@@ -8,5 +8,5 @@ redirect_from:
 
 
 
-<iframe src="https://drive.google.com/file/d/12kZiuIcClkEu3mrTHpQQdApk2KCjwBlp/view?usp=sharing" width="100%" height="720"></iframe>
+<iframe src="https://drive.google.com/file/d/12kZiuIcClkEu3mrTHpQQdApk2KCjwBlp/preview" width="100%" height="720"></iframe>
 
