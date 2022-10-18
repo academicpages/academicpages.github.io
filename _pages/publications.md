@@ -5,13 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-## SUMMATION
+## Summation of papers
 * International Journal papers : 2
-
 * International Conference papers : 2
-
 * Domain Journal papers : 1
-
 * Domain Conference papers : 9
 
 
