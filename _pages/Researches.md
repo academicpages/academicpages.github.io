@@ -3,9 +3,10 @@ layout: archive
 title: "Researches"
 permalink: /Researches/
 author_profile: true
+
 ---
 
-Intelligent quality detection of lane rendering data	        |Aug.2022- Sept.2022 
+Intelligent quality detection of lane rendering data,Aug.2022- Sept.2022 
 ======
 * Objective: To efficiently detect whether there are defects in the rendered generated map data for navigation
 * Implemented pre-training with Masked Image Modeling using three hybrid CNN-LSTM neural network models
@@ -16,9 +17,10 @@ Intelligent quality detection of lane rendering data	        |Aug.2022- Sept.202
 * Delivery: An implementation report and participated in the HUAWEI 2022 Global AI Challenge
     
 
-Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders	        |Sept.2021- Aug.2022
+Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders,Sept.2021- Aug.2022
 ======
 * Objective: To develop robust lane detection neural network model that can tackle challenging scenes
+
 * Delivery: A research paper titled Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss
 
 ---
@@ -31,7 +33,7 @@ Figure.3 Lane detecion results obtained by SCNN_UNet_ConvLSTM_PL** on tvtLANE te
 
 ---
 
-Research on ecological risk assessment and traffic carrying capacity of road areas in ecological function zones	        |Sep.2021 - Sep.2022
+Research on ecological risk assessment and traffic carrying capacity of road areas in ecological function zones,Sep.2021 - Sep.2022
 ======
 Lanzhou Jiaotong University | Research Assistant
 
@@ -51,7 +53,7 @@ Figure.5 Correlation analysis between NDVI value and meteorology indexes.
 
 ---
 
-Research on the mechanism of the rural roads on the revitalization of rural industries in Gansu Province	        |Sep.2020 - Aug.2021
+Research on the mechanism of the rural roads on the revitalization of rural industries in Gansu Province,Sep.2020 - Aug.2021
 ======
 Lanzhou Jiaotong University | Research Assistant
 * Objective: To investigate the impact of rural roads on the industry in rural areas, taking rural roads as the main research object, revealing the mechanism of the role of the rural roads in the revitalization of the industry
@@ -60,7 +62,7 @@ Lanzhou Jiaotong University | Research Assistant
 * It is concluded that rural roads and agricultural industries in the study area are in a high degree of coupling, and county roads are developed in a point-axis pattern.
 * Delivery: Completed a research report, and a research paper titled Research on Coordination Relationship between Development of Rural Roads and Industrial Structure of Agriculture
 
-Air pollutant concentration prediction based on LSTM-CNN	        |Sept.2021- Oct.2021
+Air pollutant concentration prediction based on LSTM-CNN,Sept.2021- Oct.2021
 ======
 * Objective: To accurate weather forecasting, a second forecast is made based on the first forecast to improve forecast accuracy
 * The influence of meteorological conditions on the distribution of pollutant concentrations was studied using the pearson correlation coefficient method in combination with heat maps
@@ -68,4 +70,4 @@ Air pollutant concentration prediction based on LSTM-CNN	        |Sept.2021- Oct
 * Considering regional coordinated prediction of weather using LSTM-CNN to mine the temporal and spatial characteristics of pollutants between multiple sites
 * Test comparing LSTM and LSTM-CNN, and the prediction results with different hyperparameters
 * Delivery: Participated in The 18th China Post-Graduate Mathematical Contest in Modeling, won the 3rd prize
-    
+      
