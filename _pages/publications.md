@@ -7,11 +7,15 @@ author_profile: true
 
 ## International Journals
 __
+* **Youngwoo Oh** and Wooyeol Choi*, "Multi-Objective Deep Reinforcement Learning-Based Power Allocation Method for Optimization Trade-off in Massive MIMO Networks,. **(working)**
+
 * Yonggang Kim, Gyungmin Kim, **Youngwoo Oh**, and Wooyeol Choi*, "Transmission Delay-Based Uplink Multi-User Scheduling in IEEE 802.11ax Networks", Applied Sciences, vol. 11, no. 19, article no. 9196, October. 2021. (IF: 2.679 / JCR 2020)
 
 
 ## International Conferences
 __
+* **Youngwoo Oh** and Wooyeol Choi*, "Real Time Localization System based on Deep Reinforcement Learning for Livestock Tracking",  2023 IEEE International Conference on Computer Communications, Newyork, United States, Mar. 17-20, 2023. **(working)**
+
 * **Youngwoo Oh** and Wooyeol Choi*, "Deep Reinforcement Learning-Based Power Allocation in Multi-Cell Massive MIMO",  International Conference on Maritime IT Convergence, Jeju, Republic of Korea, Sep. 22-23, 2022.
 
 
@@ -22,6 +26,10 @@ __
 
 ## Domain Conferences (In Korea)
 __
+* **Youngwoo Oh**, Bumsu Kim and Wooyeol Choi*, "Design and Implementation of Medical-ICT Convergence Healthcare-based Application",. **(working)**
+
+* **Youngwoo Oh**, Hyeju Han, Minsu Park and Wooyeol Choi*, "Design and Implementation of Indoor Positioning System for Livestock Tracking",. **(working)**
+
 * **Youngwoo Oh** and Wooyeol Choi*, "An Actor-Critic Deep Reinforcement Learning-Based Antenna Selection for MIMO Systems",  Summer Conference of Korea Information and Communications Society, Jeju, Republic of Korea, June. 22-24, 2022.
 
 * **Youngwoo Oh** and Wooyeol Choi*, "Design and Performance Analysis of Automatic Modulation Classification Using Convolutional Neural Network", Korea Artificial Intelligence Conference, Jeju, Republic of Korea, September. 29 - October. 01, 2021.
