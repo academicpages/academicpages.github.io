@@ -11,6 +11,11 @@ redirect_from:
 
 <br> 
 
+Dementia
+======
+
+* Tyagi T., Magdamo C., <b>Cheng, Y. </b>, West M., Noori A., Liu X., Serrano-Pozo A., Hyman B., Mukerji S., Westover M.B., Blacker D., Das S.. Deep Learning Natural Language Processing to Detect Cognitive Impairment in Charts from Electronic Health Records. MGH Annual Clinical Research Day, Virtual. Oct., 2022. <b>Team Science - Honorable Mention</b>
+
 Human Navigation
 ======
 

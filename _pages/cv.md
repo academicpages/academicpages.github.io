@@ -98,6 +98,8 @@ Select Conference Presentations
 <br>
 <b><big>Poster Presentations</big></b>
 
+* Tyagi T., Magdamo C., <b>Cheng, Y. </b>, West M., Noori A., Liu X., Serrano-Pozo A., Hyman B., Mukerji S., Westover M.B., Blacker D., Das S.. Deep Learning Natural Language Processing to Detect Cognitive Impairment in Charts from Electronic Health Records. MGH Annual Clinical Research Day, Virtual. Oct., 2022. <b>Team Science - Honorable Mention</b>
+
 * <b>Cheng, Y. </b>, Chrastil, E.R., Krichmar, J.. A Recurrent Neural Network Model of Travel Direction in Humans, Women in Machine Learning (WiML) Un-Workshop, International Conference on Machine Learning (ICML), Virtual. July, 2022. [[news](/posts/2022/07/blog-post-2/)] [[video](https://slideslive.com/38987407/a-recurrent-neural-network-model-of-travel-direction-in-humans)]
 
 * <b>Cheng, Y. </b>, Chrastil, E.R., Krichmar, J.. A Recurrent Neural Network Model of Travel Direction in Humans, Interdisciplinary Navigation Symposium (iNAV), Virtual. June, 2022. [[news](/posts/2022/06/blog-post-1/)]
