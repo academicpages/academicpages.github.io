@@ -38,7 +38,7 @@ Work experience
 Publications
 ======
 
-* <b>Cheng, Y. *</b>, He, C. *, Hegarty, M., & Chrastil, E. R. (2022). Who Believes They Are Good Navigators? A Machine Learning Pipeline Highlights the Impact of Gender, Commuting Time, and Education. Machine Learning with Applications. *denotes equal authorship (accepted)
+* <b>Cheng, Y. *</b>, He, C. *, Hegarty, M., & Chrastil, E. R. (2022). Who Believes They Are Good Navigators? A Machine Learning Pipeline Highlights the Impact of Gender, Commuting Time, and Education. Machine Learning with Applications, 100419. *denotes equal authorship [[pdf](https://lilianyou.github.io/files/2022_self_report_MLWA_Cheng.pdf)]
 
 * <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Evidence for a travel direction signal in humans that is independent of head direction. [[preprint](https://www.biorxiv.org/content/10.1101/2022.08.22.504860v1)]
 
