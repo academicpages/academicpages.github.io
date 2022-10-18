@@ -118,6 +118,9 @@
       {% if author.scopus %}
         <li><a href="{{ author.scopus }}"><i class="ai ai-scopus" aria-hidden="true"></i> Scopus</a></li>
       {% endif %}
+      {% if author.wos %}
+        <li><a href="{{ author.wos }}"><i class="ai ai-publons" aria-hidden="true"></i> Web of Science</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
