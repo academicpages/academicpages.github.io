@@ -15,5 +15,5 @@ bundle exec jekyll server --livereload
 
 # reference
 https://github.com/academicpages/academicpages.github.io
-
+https://jekyllrb.com
 
