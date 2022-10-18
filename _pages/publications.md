@@ -38,7 +38,7 @@ The Web Conference (formerly **WWW**), 2022.
 
 <b>[BED: A Real-Time Object Detection System for Edge Devices.](https://arxiv.org/abs/2202.07503)
 </b><br>Guanchu Wang\*, Zaid Pervaiz Bhat\*, <b>Zhimeng Jiang\*</b>, Yi-Wei Chen\*, Daochen Zha\*, Alfredo Costilla Reyes*, Afshin Niktash, Gorkem Ulkar, Erman Okman, Xia Hu. <br>
-ACM International Conference on Information and Knowledge Management (CIKM), 2022 (demo)
+ACM International Conference on Information and Knowledge Management (CIKM), 2022 (demo) (**Best Demo Paper Award**)
 
 ## Paper related to Optical Wireless Communication
 <b>[On the Achievable Rate and Capacity of a Sample-Based Practical Photon-Counting Receiver](https://ieeexplore.ieee.org/abstract/document/9452170)
