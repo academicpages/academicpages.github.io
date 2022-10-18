@@ -31,7 +31,7 @@
 
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
-    font-family: $sans-serif-narrow;
+    font-family: $sans-serif;
   }
 
   h3, h4 {
@@ -39,7 +39,7 @@
   }
 
   p, li {
-    font-family: $sans-serif;
+    font-family: $sans-font;
     font-size: $type-size-6;
     line-height: 1.5;
   }
@@ -117,7 +117,7 @@
   }
 }
 .sidebar .author__name {
-  font-family: $sans-serif;
+  font-family: $sans-font;
   font-size: $type-size-5;
 }
 
