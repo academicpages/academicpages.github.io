@@ -32,8 +32,10 @@ as well as being competitive with RGB plus point cloud
 methods.'
 date: 2022-09-12
 venue: '3DV'
-paperurl: 'pending...'
+paperurl: 'https://arxiv.org/abs/2210.08123'
 citation: 'Yangzheng Wu, Alireza Javaheri, Mohsen Zand and Michael Greenspan.
 Cascade Keypoint Voting for Point Cloud Based 6DoF Pose Estimation, 3DV 2022.'
 ---
 
+
+[paper](https://arxiv.org/abs/2210.08123) [code](https://github.com/aaronWool/rcvpose3d) [video](https://youtu.be/LMZODZN4NAU)

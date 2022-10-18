@@ -12,4 +12,4 @@ Vote from the center: 6 dof pose estimation in rgb-d images by radial
 keypoint voting, ECCV 2022.'
 ---
 
-[Download paper here](https://arxiv.org/abs/2104.02527)
+[paper](https://arxiv.org/abs/2104.02527) [code](https://github.com/aaronWool/rcvpose) [video](https://youtu.be/x5I1qUWVwi0)
