@@ -38,6 +38,13 @@ author_profile: true
 |=============================|
 | Foot1   | Foot2   | Foot3   |
 
+
+## Publication Summary
+| **International Journal** | **International Conference** | **Domain Journal** | **Domain Conference** |
+|:-------------------------:|:----------------------------:|:------------------:|:---------------------:|
+|           **2**           |             **2**            |        **1**       |         **9**         |
+
+
 ## International Journals
 ---
 * <span style = "color:red">**Youngwoo Oh**</span> and Wooyeol Choi, “Multi-Objective Deep Reinforcement Learning-Based Power Allocation Method for Optimization Trade-off in Massive MIMO Networks,. (working)
