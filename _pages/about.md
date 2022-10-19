@@ -11,7 +11,7 @@ I am a Ph.D. candidate at Monash University, supervised by [Prof. Shirui Pan](ht
 
 News
 ------
-* 2022/01: Our paper on [graph out-of-distribution detection]() has been accepted by WSDM 2023.
+* 2022/10: Our paper on [graph out-of-distribution detection]() has been accepted by WSDM 2023.
 * 2022/08: I am honoured to receive the [Google Ph.D. Fellowship](https://research.google/outreach/phd-fellowship) in 2022.
 * 2022/05: Our survey on [graph self-supervised learning](https://arxiv.org/pdf/2103.00111.pdf) has been accepted by IEEE TKDE.
 * 2022/01: Our paper on [unsupervised graph structure learning](https://arxiv.org/pdf/2201.06367.pdf) has been accepted by WWW 2022.
