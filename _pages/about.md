@@ -16,7 +16,7 @@ My research interests lie within the intersection of Natural Language Processing
 <!--You can find my CV [here](/cv/).-->
 
 ## On The Job Market
-I'm on the job market, looking for Post-doc and industrial research positions, starting in 2023 Autumn.
+I'm on the job market, looking for Post-doc and industrial research positions (in North America), starting in 2023 Autumn.
 
 <!-- ## Coming Soon
 Will share our work: [On Transferability of Prompt Tuning for Natural Language Processing](https://arxiv.org/abs/2111.06719)<br>
