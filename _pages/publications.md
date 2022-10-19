@@ -6,29 +6,13 @@ author_profile: true
 ---
 
 
-### Summary Table
----
-| Header1 | Header2 | Header3 | Header4 |
-|:--------|:-------:|:-------:| -------:|
-| cell1   | cell2   | cell3   | cell4   |
-| cell5   | cell6   | cell7   | cell8   |
-|---------------------------------------|
-| cell1   | cell2   | cell3   | cell4   |
-| cell5   | cell6   | cell7   | cell8   |
-|=======================================|
-| Foot1   | Foot2   | Foot3   | Foot4   |
-
-### Table 1
-
-| Entry            | Item   |                                                              |
+<!-- | Entry            | Item   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
 | [John Doe](#)    | 2016   | Description of the item in the list                          |
 | [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| [Doe Doe](#)     | 2022   | Description of the item in the list                          | -->
 
-### Table 2
-
-| Header1 | Header2 | Header3 |
+<!-- | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
@@ -36,13 +20,20 @@ author_profile: true
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
 |=============================|
-| Foot1   | Foot2   | Foot3   |
+| Foot1   | Foot2   | Foot3   | -->
 
 
 ## Publication Summary
-| **International Journal** | **International Conference** | **Domain Journal** | **Domain Conference** |
-|:-------------------------:|:----------------------------:|:------------------:|:---------------------:|
-|           **2**           |             **2**            |        **1**       |         **9**         |
+
+| International Journal | International Conference | Domain Journal | Domain Conference |
+|:---------------------:|:------------------------:|:--------------:|:-----------------:|
+|           2           |             2            |        1       |         9         |
+
+|  Affiliation              |  Year       |  Number of published papers  |
+| :-----------------------: | :---------: | :--------------------------: |
+| [Smart Networking Lab](#) | 2022        | 4                            |
+| [Smart Networking Lab](#) | 2021        | 5                            |
+| [Smart Networking Lab](#) | 2020        | 3                            |
 
 
 ## International Journals
