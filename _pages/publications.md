@@ -10,13 +10,13 @@ author_profile: true
 ---
 | Header1 | Header2 | Header3 | Header4 |
 |:--------|:-------:|:-------:| -------:|
-| cell1   | cell2   | cell3   | cell3   |
-| cell4   | cell5   | cell6   | cell3   |
+| cell1   | cell2   | cell3   | cell4   |
+| cell5   | cell6   | cell7   | cell8   |
 |---------------------------------------|
-| cell1   | cell2   | cell3   | cell3   |
-| cell4   | cell5   | cell6   | cell3   |
+| cell1   | cell2   | cell3   | cell4   |
+| cell5   | cell6   | cell7   | cell8   |
 |=======================================|
-| Foot1   | Foot2   | Foot3   | Foot3   |
+| Foot1   | Foot2   | Foot3   | Foot4   |
 
 
 ## International Journals
