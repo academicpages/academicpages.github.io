@@ -5,33 +5,41 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Summation of papers
-* International Journal papers : 2
-* International Conference papers : 2
-* Domain Journal papers : 1
-* Domain Conference papers : 9
+
+### Summary Table
+---
+| Header1 | Header2 | Header3 | Header4 |
+|:--------|:-------:|:-------:| -------:|
+| cell1   | cell2   | cell3   | cell3   |
+| cell4   | cell5   | cell6   | cell3   |
+|---------------------------------------|
+| cell1   | cell2   | cell3   | cell3   |
+| cell4   | cell5   | cell6   | cell3   |
+|=======================================|
+| Foot1   | Foot2   | Foot3   | Foot3   |
 
 
 ## International Journals
+---
 * **Youngwoo Oh** and Wooyeol Choi, “Multi-Objective Deep Reinforcement Learning-Based Power Allocation Method for Optimization Trade-off in Massive MIMO Networks,. (working)
 
 * Yonggang Kim, Gyungmin Kim, **Youngwoo Oh**, and Wooyeol Choi*, "Transmission Delay-Based Uplink Multi-User Scheduling in IEEE 802.11ax Networks", *Applied Sciences*, vol. 11, no. 19, article no. 9196, October. 2021. (IF: 2.679 / JCR 2020)
 
 
 ## International Conferences
-__
+---
 * **Youngwoo Oh** and Wooyeol Choi*, “Real Time Localization System based on Deep Reinforcement Learning for Livestock Tracking”, *2023 IEEE International Conference on Computer Communications*, Newyork, USA, Mar. 17-20, 2023. (working)
 
 * **Youngwoo Oh** and Wooyeol Choi*, "Deep Reinforcement Learning-Based Power Allocation in Multi-Cell Massive MIMO",  *International Conference on Maritime IT Convergence*, Jeju, Republic of Korea, Sep. 22-23, 2022.
 
 
 ## Domain Journals (In Korea)
-__
+---
 * **Youngwoo Oh** and Wooyeol Choi*, "Design and Implementation of TDMA-Based Multi-hop Relay Network with Adaptive Equalizer for Inter-Symbol Interference Compensation", *The Journal of Korea Information and Communications Society*, vol. 46, no. 6, Jun. 2021.
 
 
 ## Domain Conferences (In Korea)
-__
+---
 * **Youngwoo Oh**, Bumsu Kim and Wooyeol Choi*, “Design and Implementation of Medical-ICT Convergence Healthcare-based Application”,. (working)
 
 * **Youngwoo Oh**, Hyeju Han, Minsu Park, Kwang Myung Jeon, Leem Chaejun and Wooyeol Choi*, “IoT Based Real-Time Livestock Tracking System”,. (working)
