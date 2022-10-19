@@ -23,11 +23,11 @@ Robust Lane Detection through Self Pre-training with Masked Sequential Autoencod
 
 ---
 <br/><img src='/images/mask.jpg'>
-Figure.1 Visualization of the reconstructing results in the pre-training phase. The first row shows images with 50% of the patches masked. The second row shows the reconstructed images after pre-training. The third row shows the original images.
+Figure.1 
 <br/><img src='/images/normal_result1.jpg'>
-Figure.2 Lane detecion results obtained by SCNN_UNet_ConvLSTM_PL** on tvtLANE testset #1 (normal) without post-processing.
+Figure.2 
 <br/><img src='/images/challenge_result1.jpg'>
-Figure.3 Lane detecion results obtained by SCNN_UNet_ConvLSTM_PL** on tvtLANE testset #2 (challenging) without post-processing.
+Figure.3 
 
 ---
 
@@ -68,4 +68,4 @@ Air pollutant concentration prediction based on LSTM-CNN,Sept.2021- Oct.2021
 * Considering regional coordinated prediction of weather using LSTM-CNN to mine the temporal and spatial characteristics of pollutants between multiple sites
 * Test comparing LSTM and LSTM-CNN, and the prediction results with different hyperparameters
 * Delivery: Participated in The 18th China Post-Graduate Mathematical Contest in Modeling, won the 3rd prize
-            
+             
