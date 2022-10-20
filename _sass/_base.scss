@@ -8,22 +8,12 @@ html {
 }
 
 body {
-	width: 95%;
-       margin-left: auto;
-       margin-right: auto;
-       padding-left: .5%;
-       font-family: $body-font;
-       line-height: 1.5;
-       color: $text-color;
-       counter-reset: sidenote-counter;
-	/*
   margin: 0;
   padding: 0;
   padding-bottom: 9em;
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
-  */
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -64,29 +54,6 @@ h6 {
   font-size: $type-size-6;
 }
 */
-
-// --------- Typography stuff -----------//
-// added rational line height and margins ala http://webtypography.net/intro/
-
-h1 { font-weight: 400;
-     margin-top: 1.568rem;
-     margin-bottom: 1.568rem;
-     font-size: 2.5rem;
-     line-height: 0.784; }
-
-h2 { font-style: italic;
-     font-weight: 400;
-     margin-top: 1.866666666666667rem;
-     margin-bottom: 0;
-     font-size: 2.1rem;
-     line-height: 0.933333333333333; }
-
-h3 { font-style: italic;
-     font-weight: 400;
-     font-size: 1.8rem;
-     margin-top: 2.1777777777777778rem;
-     margin-bottom: 0;
-     line-height: 1.08888888888889; }
 
 small, .small {
   font-size: $type-size-6;
@@ -211,8 +178,8 @@ li ol {
    Media and embeds
    ========================================================================== */
 
-/* Academic Pages setup for: Figures, images and figure captions */
-/*
+/* Figures and images */
+
 figure {
   display: -webkit-box;
   display: flex;
@@ -267,6 +234,8 @@ figure {
   }
 }
 
+/* Figure captions */
+
 figcaption {
   margin-bottom: 0.5em;
   color: mix(#fff, $text-color, 25%);
@@ -286,161 +255,16 @@ figcaption {
     }
   }
 }
-*/
 
 
-
-/*****************************************************************************/
-/*
-/* Figure Handling as per Tufte Jekyll blog theme 
-/* source: 
-/*   [1] tufte-jekyll by Clay Hanson ( https://github.com/clayh53/tufte-jekyll )
-/*
-/*****************************************************************************/
-/* Basic Layout stuff --*/
-article { position: relative;
-          padding: 1
-
-          rem 0rem 2.5rem 0rem; } // reduced top and bottom padding by 50%
-
-section { padding-top: 1rem;
-          padding-bottom: 1rem; }
-
-ul,ol { width: 45%;
-     -webkit-padding-start: 5%;
-     -webkit-padding-end: 5%;
-     list-style-type: none; }
-
-//li { padding: 0.5em 0; } //vertical padding on list items screws up vertical rhythym
-
-figure, figure img.maincolumn { max-width: 55%;
-         -webkit-margin-start: 0;
-         -webkit-margin-end: 0;
-         margin-bottom: 3em; }
-
-figcaption { float: right;
-             clear: right;
-             margin-right: -50%;
-             margin-top: 0;
-             margin-bottom: 0;
-             font-size: 1.0rem;
-             line-height: 1.6;
-             vertical-align: baseline;
-             position: relative;
-             max-width: 40%; }
-
-figure.fullwidth figcaption { float: left; margin-right: 0%; margin-left: 33%; max-width: 100%; }
-
-img { max-width: 100%; }
-
-.sidenote, .marginnote { float: right;
-                         clear: right;
-                         margin-right: -60%;
-                         width: 50%;
-                         margin-top: 0;
-                         margin-bottom: 1.96rem;
-                         font-size: 0.8rem;
-                         line-height: 1.96; //changed to bring line heights into rational pattern
-                         vertical-align: baseline;
-                         position: relative; }
-
-
-li .sidenote, li .marginnote{ margin-right: -80%; } //added to allow for the fact that lists are indented and marginnotes and sidenotes push to right
-
-blockquote .sidenote, blockquote .marginnote { margin-right: -79% }
-
-.sidenote-number { counter-increment: sidenote-counter; }
-
-.sidenote-number:after, .sidenote:before { content: counter(sidenote-counter) " ";
-                                           font-family: et-bembo-roman-old-style;
-                                           color: $contrast-color; //added color
-                                           position: relative;
-                                           vertical-align: baseline; }
-
-.sidenote-number:after { content: counter(sidenote-counter);
-                         font-size: 1rem;
-                         top: -0.5rem;
-                         left: 0.1rem; }
-
-.sidenote:before { content: counter(sidenote-counter) ".\000a0"; // this is unicode for a non-breaking space
-                   color: $contrast-color;
-                   top: 0rem; } //removed superscripting for numerical reference in sidenote
-
-p, footer, div.table-wrapper,  .MJXc-display, .MathJax { width: 75%; }
-
-div.table-wrapper, table { overflow-x: auto; } //changed all overflow values to 'auto' so scroll bars appear only as needed
-
-@media screen and (max-width: 760px) { p, footer { width: 90%; }
-                                       pre code { width: 87.5%; }
-                                       ul { width: 85%; }
-                                       figure { max-width: 90%; }
-                                       figcaption, figure.fullwidth figcaption { margin-right: 0%;
-                                                                                 max-width: none; }
-                                       blockquote p, blockquote footer, div.epigraph > blockquote > footer,.MJXc-display {  width: 80%;
-                                                                          padding-left: 5%;
-                                                                          padding-right: 5%;
-                                                                        }}
-
-.marginnote code, .sidenote code { font-size: 1rem; } //more .code class removal
-
-pre { width: 52.5%; //, pre code, p pre code are both selectors in tufte.css - they have been removed here to fix alignment issues
-           padding-left: 2.5%;
-           overflow-x: auto; }
-
-.fullwidth, li.listing div{ max-width: 90%; }
-
-.full-width { .sidenote, .sidenote-number, .marginnote { display: none; } }
-
-span.newthought { font-variant: small-caps;
-                  font-size: 1.2em;
-                  letter-spacing: 0.05rem; }
-
-input.margin-toggle { display: none; }
-
-label.sidenote-number { display: inline; }
-
-label.margin-toggle:not(.sidenote-number) { display: none; }
-
-@media (max-width: 760px) { label.margin-toggle:not(.sidenote-number) { display: inline; color: $contrast-color; }
-                            .sidenote, .marginnote { display: none; }
-                            .margin-toggle:checked + .sidenote,
-                            .margin-toggle:checked + .marginnote { display: block;
-                                                                   float: left;
-                                                                   left: 1rem;
-                                                                   clear: both;
-                                                                   width: 95%;
-                                                                   margin: 1rem 2.5%;
-                                                                   vertical-align: baseline;
-                                                                   position: relative; }
-                            label { cursor: pointer; }
-                            pre, pre code, p code, p pre code { width: 90%;
-                                       padding: 0; }
-                            .table-caption { display: block;
-                                             float: right;
-                                             clear: both;
-                                             width: 98%;
-                                             margin-top: 1rem;
-                                             margin-bottom: 0.5rem;
-                                             margin-left: 1%;
-                                             margin-right: 1%;
-                                             vertical-align: baseline;
-                                             position: relative; }
-                            div.table-wrapper, table, table.booktabs { width: 85%; }
-                            div.table-wrapper { border-right: 1px solid #efefef; }
-                            img { max-width: 100%; } 
-                            figcaption.maincolumn-figure, figure.fullwidth figcaption { float:none; text-align: center;}
-                            figure.fullwidth figcaption { margin-left: 0; }
-                          }
-/*--- End of Basic Layout stuff from tufte.css ---*/
-
-/* Academic Pages: Fix IE9 SVG bug */
+/* Fix IE9 SVG bug */
 
 svg:not(:root) {
   overflow: hidden;
 }
 
 
-/* Academic Pages setup for: 
+/*
    Navigation lists
    ========================================================================== */
 
@@ -483,7 +307,7 @@ nav {
   }
 }
 
-/* Academic Pages setup for:
+/*
    Global animation transition
    ========================================================================== */
 
@@ -491,3 +315,4 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
