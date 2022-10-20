@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "William Bennett"
 title_separator          : "-"
 name                     : &name "William Bennett"
-description              : &description "Ph.D. candidate in Economics at the University of Houston."
+description              : &description "Economist"
 url                      : https://williambennettecon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "williambennettecon.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "William Bennett"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate in Economics at the University of Houston."
+  bio              : "Economist"
   location         : "Houston, Texas, US"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
+  pubmed           :
+  googlescholar    :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/testaccount"
+  linkedin         : "https://www.linkedin.com/in/william-bennett-b65a05178/"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "testaccount-this-is-fake"
+  twitter          :
   vine             :
   weibo            :
   xing             :
