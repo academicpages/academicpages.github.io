@@ -24,7 +24,7 @@ My name is Jingwu Tang(唐静吾). I am a senior-year undergrad at Turing Class,
 + Chinese Mathematical Olympiad (CMO), Silver Medal, 2017
 
 # More About Me
-I love many kinds of sports, including baskketball, badminton, jogging and outdoor biking, yet I'm not good at all of them. I'm a big fan of Steph Curry and Golden State Warriors.
+I love many kinds of sports, including basketball, badminton, jogging (also some track events) and outdoor biking, yet I'm not good at all of them. I'm a big fan of Steph Curry and Golden State Warriors.
 
 I love reading, especially books about social science and history.
 
