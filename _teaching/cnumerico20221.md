@@ -63,6 +63,7 @@ Aulas
 
 * [Eliminação de Gauss II](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/aula15.pdf)
 
+* [Condicionamento de um Sistema](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/aula16.pdf)
 
 
 Trabalhos
