@@ -23,6 +23,15 @@ Updates
 <summary>2022</summary>
 <ul>
   <li>
+  19 Oct - Serving as a reviewer for AISTATS 2023.
+  </li>
+  <li>
+  14 Oct - Two workshop papers got accepted at <a style="text-decoration:none" href="https://gp-seminar-series.github.io/neurips-2022/">a Neurips 2023 workshop</a>.
+  </li>
+  <li>
+  27 Jun - Received registration grant for <a style="text-decoration:none" href="https://gpss.cc/gpss22/program">GPSS 2022</a>.
+  </li>
+  <li>
     21 May - Selected as a <a style="text-decoration:none" href="https://summerofcode.withgoogle.com/">Google Summer of Code</a> contributor at <a style="text-decoration:none" href="https://www.tensorflow.org/">Tensorflow</a> with Dr. Kevin P. Murphy. My proposal can be found <a style="text-decoration:none" href="https://summerofcode.withgoogle.com/proposals/details/kDIlco6v">here</a>.
   </li>
   <li>
@@ -32,7 +41,7 @@ Updates
     28 Feb - Joined as a reviewer at <a style="text-decoration:none" href="http://rescience.github.io/">The ReScience C journal</a>
   </li>
   <li>
-    3 Feb - Received Registraion Grant for AAAI22
+    3 Feb - Received registraion grant for AAAI22
   </li>
   <li>
     7 Jan - Shortlisted to participate in Google Research Week 2022
