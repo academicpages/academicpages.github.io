@@ -8,12 +8,22 @@ html {
 }
 
 body {
+	width: 87.5%;
+       margin-left: auto;
+       margin-right: auto;
+       padding-left: 12.5%;
+       font-family: $body-font;
+       line-height: 1.5;
+       color: $text-color;
+       counter-reset: sidenote-counter;
+	/*
   margin: 0;
   padding: 0;
   padding-bottom: 9em;
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
+  */
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -21,6 +31,7 @@ body {
   }
 }
 
+/*
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
@@ -52,6 +63,30 @@ h5 {
 h6 {
   font-size: $type-size-6;
 }
+*/
+
+// --------- Typography stuff -----------//
+// added rational line height and margins ala http://webtypography.net/intro/
+
+h1 { font-weight: 400;
+     margin-top: 1.568rem;
+     margin-bottom: 1.568rem;
+     font-size: 2.5rem;
+     line-height: 0.784; }
+
+h2 { font-style: italic;
+     font-weight: 400;
+     margin-top: 1.866666666666667rem;
+     margin-bottom: 0;
+     font-size: 2.1rem;
+     line-height: 0.933333333333333; }
+
+h3 { font-style: italic;
+     font-weight: 400;
+     font-size: 1.8rem;
+     margin-top: 2.1777777777777778rem;
+     margin-bottom: 0;
+     line-height: 1.08888888888889; }
 
 small, .small {
   font-size: $type-size-6;
