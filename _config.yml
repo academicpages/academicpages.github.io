@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "William Bennett"
 title_separator          : "-"
-name                     : #name "William Bennett"
-description              : #description "Economist"
-url                      : https://williambennettecon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "William Bennett"
+description              : &description "Economist"
+url                      : https://williambennettecon.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "williambennettecon.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
