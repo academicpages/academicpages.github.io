@@ -16,7 +16,7 @@ title: ""
 # Working Papers
 
 * “Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption” (Job Market Paper) [Paper PDF](/files/pdf/Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption.pdf), [Long Slides](/files/pdf/jmp_slides_l.pdf), [Short Slides](/files/pdf/jmp_slides_s.pdf)
-* “The Role of Experience in Learning for Index Insurance Products: Evidence from Rural Kenya”, submitted. [Paper PDF](/files/pdf/The Role of Experience in Learning for Index Insurance.pdf)
+* “The Role of Experience in Learning for Index Insurance Products: Evidence from Rural Kenya”, Under Review. [Paper PDF](/files/pdf/The Role of Experience in Learning for Index Insurance.pdf)
 
 # Work in Progress
 
