@@ -10,9 +10,9 @@ author_profile: true
 
 ## 2022
 
-* Uncertainty Disentanglement with Non-stationary Heteroscedastic Gaussian Processes for Active Learning. **Zeel B Patel**, Nipun Batra, Kevin Murphy. In NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems 2023
+* Uncertainty Disentanglement with Non-stationary Heteroscedastic Gaussian Processes for Active Learning. **Zeel B Patel**, Nipun Batra, Kevin Murphy. In NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems 2022
 
-* Challenges in Gaussian Processes for Non Intrusive Load Monitoring. Aadesh Desai, Gautam Vashishtha, **Zeel B Patel**, Nipun Batra. In NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems 2023
+* Challenges in Gaussian Processes for Non Intrusive Load Monitoring. Aadesh Desai, Gautam Vashishtha, **Zeel B Patel**, Nipun Batra. In NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems 2022
 
 * Samachar: Print News Media on Air Pollution in India. Karm Patel, Rishiraj Adhikary, **Zeel B Patel**, Nipun Batra, and Sarath Guttikunda. In ACM SIGCAS Computing and Sustainable Societies (COMPASS ’22)
 
