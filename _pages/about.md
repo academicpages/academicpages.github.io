@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-{% newthought 'I am a Lecturer in Spacecraft Engineering'%} at Queen Mary University of London in the UK. Previously, I was fortunate to spend a year at the DARTS Lab, researching computational multibody robot dynamics
+{% newthought 'I am a Lecturer in Spacecraft Engineering'%} at Queen Mary University of London in the UK
+{% sidenote 'One' '[My QMUL page](https://www.sems.qmul.ac.uk/staff/a.nanjangud)' %}.
+Previously, I was fortunate to spend a year at the DARTS Lab, researching computational multibody robot dynamics
  under [Dr. Abhi Jain](https://www-robotics.jpl.nasa.gov/who-we-are/people/abhinandan_jain/), at the NASA Jet Propulsion Laboratory.
  This led up to a postdocotoral appointment at the
 [Surrey Space Centre](https://www.surrey.ac.uk/surrey-space-centre) based within the University of Surrey- here, I worked with [SSTL](https://www.sstl.co.uk) and Airbus to develop missions, architectures, and technology
