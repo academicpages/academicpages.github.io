@@ -94,3 +94,5 @@ Notebooks
 * [Integração: Quadratura Gaussiana](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/integracao_gaussiana.ipynb)
 
 * [Eliminação de Gauss](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/eliminacao.ipynb)
+
+* [Mal-condicionamento de uma Matriz](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/eliminacao-mal-condicionamento.ipynb)
