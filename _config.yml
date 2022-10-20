@@ -29,7 +29,7 @@ repository               : #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g.
 
 # Build settings
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
