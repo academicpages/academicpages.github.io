@@ -1,7 +1,7 @@
 /* ==========================================================================
    TABLES
    ========================================================================== */
-
+/*
 table {
   margin-bottom: 1em;
   width: 100%;
@@ -36,3 +36,53 @@ td {
 tr, td, th {
   vertical-align: middle;
 }
+*/
+
+/*-- Table styling section - For Tufte-Jekyll, booktabs style is default for Markdown tables  --*/
+
+table, table.booktabs { width: auto;  //making booktabs style tables the unstyled default in case someone uses Markdown styling
+                 //margin: 0 auto;
+                 border-spacing: 0px;
+                 border-top: 2px solid $border-color;
+                 border-bottom: 2px solid $border-color; }
+
+.booktabs th, th { border-bottom: 1px solid $border-color;
+               padding: 0.65ex 0.5em 0.4ex 0.5em;
+               font-weight: normal;
+               //text-align: center; 
+               }
+
+th, td{ font-size: 1.2rem;
+        line-height: 1.71428571;  }
+
+.booktabs th.cmid, th { border-bottom: 1px solid lighten($border-color, 25%); }
+
+.booktabs th.nocmid { border-bottom: none; }
+
+.booktabs tbody tr:first-child td,  tr:first-child td { padding-top: 0.65ex; } /* add space between thead row and tbody */
+
+.booktabs td, td {  padding-left: 0.5em;
+                    padding-right: 0.5em;
+                    text-align: left; }            
+
+.booktabs caption, caption { font-size: 90%;
+                    text-align: left;
+                    width: auto;
+                    margin-left: auto;
+                    margin-right: auto;
+                    margin-top: 1ex;
+                    caption-side: top; }
+
+.booktabs tbody tr, .booktabs thead tr th.l, .booktabs td.l { text-align: left !important; }
+.booktabs tbody tr, .booktabs thead tr th.c, .booktabs td.c { text-align: center !important; }
+.booktabs tbody tr, .booktabs thead tr th.r, .booktabs td.r { text-align: right !important; }
+
+.table-caption { float:right;
+                 clear:right;
+                 margin-right: -60%;
+                 width: 50%;
+                 margin-top: 0;
+                 margin-bottom: 0;
+                 font-size: 1.0rem;
+                 line-height: 1.96; }
+/* -- End of Table Styling section - For Tufte-Jekyll, booktabs style is default for Markdown tables --*/
