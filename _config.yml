@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "William Bennett"
 title_separator          : "-"
-name                     : &name "William Bennett"
-description              : &description "Economist"
+name                     : #name "William Bennett"
+description              : #description "Economist"
 url                      : https://williambennettecon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "williambennettecon.github.io"
@@ -175,10 +175,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  research:
     output: true
     permalink: /:collection/:path/
-  research:
+  teaching:
     output: true
     permalink: /:collection/:path/
 
@@ -191,19 +191,19 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _research
   - scope:
       path: ""
-      type: teaching
+      type: research
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _research
+  # _teaching
   - scope:
       path: ""
-      type: research
+      type: teaching
     values:
       layout: single
       author_profile: true
