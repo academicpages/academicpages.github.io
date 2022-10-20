@@ -26,7 +26,7 @@ Updates
   19 Oct - Serving as a reviewer for AISTATS 2023.
   </li>
   <li>
-  14 Oct - Two workshop papers got accepted at <a style="text-decoration:none" href="https://gp-seminar-series.github.io/neurips-2022/">a Neurips 2023 workshop</a>.
+  14 Oct - Two workshop papers got accepted at <a style="text-decoration:none" href="https://gp-seminar-series.github.io/neurips-2022/">a Neurips 2022 workshop</a>.
   </li>
   <li>
   27 Jun - Received registration grant for <a style="text-decoration:none" href="https://gpss.cc/gpss22/program">GPSS 2022</a>.
