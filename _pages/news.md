@@ -6,6 +6,7 @@ title: "News and Opportunities"
 Have a job you would like to share? Email us at landdacommunity@gmail.com!
 
 ### Jobs
+[Postdoctoral Researcher in Satellite-Based Snow Estimation at KU Leuven, Belgium](https://www.kuleuven.be/personeel/jobsite/jobs/60163633) Application deadline: 21 November 2022
 
 [Post-doctoral fellowship in building and evaluating new forward operators in a global land data assimilation system at CNRM, France](https://aimesproject.org/wp-content/uploads/2022/10/PostDoc_CNRM-LDAS-Monde-2023-03.pdf) Application deadline: 28 October 2022
 
