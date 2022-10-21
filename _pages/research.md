@@ -17,5 +17,4 @@ Recommended citation: Atici, F.M. and Bennett, W.R. (2021) 'A study on discrete 
 Works in Progress
 =
 
-This paper is about the number 2.
-[Download paper here](http://academicpages.github.io/files/Bennett_2022.pdf)
+[Predicting Forecaster Inattention](http://academicpages.github.io/files/Bennett_2022.pdf)
