@@ -12,7 +12,7 @@ title                    : "Arash Sarshar"
 title_separator          : "-"
 name                     : &name "Arash Sarshar"
 description              : &description "personal description"
-url                      : https://sarshar.dev # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://elswit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
