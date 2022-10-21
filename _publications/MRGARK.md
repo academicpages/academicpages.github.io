@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/MRGARK
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
+venue: 'SIAM Journal on Scientific Computing'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://epubs.siam.org/doi/abs/10.1137/18M1182875'
 citation: 'Arash Sarshar, Steven Roberts, Adrian Sandu, Design of high-order decoupled multirate GARK
 schemes, SIAM Journal on Scientific Computing, Vol. 41, No. 2, PP A816-A847.'
 ---
