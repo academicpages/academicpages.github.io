@@ -7,6 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Short curriculum vitae
+[Short curriculum vitae](http://williambennettecon.github.io/files/Bennett_CV_short.pdf)
 
-Long curriculum vitae
+[Long curriculum vitae](http://williambennettecon.github.io/files/Bennett_CV_long.pdf)
