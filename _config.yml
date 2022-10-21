@@ -181,7 +181,10 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-
+  cv:
+    output: true
+    permalink: /:collection/:path/
+    
 # Defaults
 defaults:
   # _pages
@@ -209,7 +212,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
-
+  # _cv
+  - scope:
+      path: ""
+      type: cv
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
