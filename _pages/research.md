@@ -7,11 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+Published Papers
+=
+
 This paper is about the number 1.
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://academicpages.github.io/files/Atici_Bennett_2021.pdf)
+Recommended citation: Atici, F.M. and Bennett, W.R. (2021) 'A study on discrete Ponzi Scheme model through Sturm-Liouville theory', Int. J. Dynamical Systems and Differential Equations, Vol. 11, Nos. 3/4, pp. 227-240.
+
+Works in Progress
+=
 
 This paper is about the number 2.
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (20015). "Paper Title Number 2." <i>Journal 1</i>. 1(1).
+[Download paper here](http://academicpages.github.io/files/Bennett_2022.pdf)
