@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-## University of Houston
+University of Houston
+--
 
 ### Instructor
 
@@ -26,7 +27,8 @@ Undergraduate Classes
 - Money and Banking (Fall 2020, Spring 2021)
 - Principles of Macroeconomics (Fall 2020, Spring 2021)
 
-## Western Kentucky University
+Western Kentucky University
+--
 
 ### Teaching Assistant
 
