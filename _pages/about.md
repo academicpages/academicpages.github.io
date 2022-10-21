@@ -31,12 +31,11 @@ Research
 <img src="https://www.dropbox.com/s/hlroz3qjeyrwmta/scholar_citations.png?raw=1" alt="gscholar"  style="width:800px;height:600;;border:0;">
 
 
-<!---
-Job Market
+
+Upcoming Talks
 ==========
 
-Now I am on the job market looking to begin in the fall term of the 2018 academic year.
--->
+- Southern Political Science Association Meeting (SPSA): January 11-14, 2023: St. Petersburg, FL, US.
 
 <!---
 

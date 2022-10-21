@@ -123,5 +123,10 @@ var addressPoints = [
   [
     "Turku, Finland", // 2021 (INVEST Research Seminar, Zoom)
     60.4489235638133, 22.293786371517424
-  ]
+  ],
+    //  Tradewinds Island Resort, st petersburg miami, SPSA 2023
+  [
+    "St. Petersburg, FL, US",
+    -82.744045, 27.729150
+  ],
 ];
