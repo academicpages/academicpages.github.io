@@ -7,8 +7,7 @@ date: 2009-10-01
 venue: 'SIAM Journal on Scientific Computing'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://epubs.siam.org/doi/abs/10.1137/18M1182875'
-citation: 'Arash Sarshar, Steven Roberts, Adrian Sandu, Design of high-order decoupled multirate GARK
-schemes, SIAM Journal on Scientific Computing, Vol. 41, No. 2, PP A816-A847.'
+excerpt: 'multirate integration, generalized additive Runge--Kutta schemes'
 ---
 
 Multirate time integration methods apply different step sizes to resolve different components of the system based on the local activity levels. This local selection of step sizes allows increased computational efficiency while achieving the desired solution accuracy. While the multirate idea is elegant and has been around for decades, multirate methods are not yet widely used in applications. This is due, in part, to the difficulties raised by the construction of high order multirate schemes.
