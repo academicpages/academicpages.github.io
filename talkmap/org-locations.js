@@ -127,6 +127,6 @@ var addressPoints = [
     //  Tradewinds Island Resort, st petersburg miami, SPSA 2023
   [
     "St. Petersburg, FL, US",
-    -82.744045, 27.729150
+    27.729150, -82.744045
   ],
 ];
