@@ -34,7 +34,7 @@ Provas
 =======
 * Primeira Prova: 29/08/2022
 * Segunda Prova: 29/09/2022
-* Terceira Prova: 24/11/2022 [Sobre a III Prova](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/sobre_aP3.md)
+* Terceira Prova: 24/11/2022 [Sobre a III Prova](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/sobre_a_P3.md)
 * Prova Final: 28/11/2022
 
 Listas de Exercícios
