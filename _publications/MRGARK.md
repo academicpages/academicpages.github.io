@@ -2,7 +2,7 @@
 title: "Design of high-order decoupled multirate GARK schemes"
 collection: publications
 permalink: /publication/MRGARK
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 
 date: 2009-10-01
 venue: 'SIAM Journal on Scientific Computing'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
