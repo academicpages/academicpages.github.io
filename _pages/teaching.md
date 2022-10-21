@@ -7,17 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-University of Houston
---
+## University of Houston
 
-Instructor
----
+### Instructor
 
 Undergraduate Classes
 - TBA (Summer 2023)
 
-Teaching Assistant
----
+### Teaching Assistant
 
 Graduate Classes
 - Econometrics II (Fall 2022)
@@ -29,11 +26,9 @@ Undergraduate Classes
 - Money and Banking (Fall 2020, Spring 2021)
 - Principles of Macroeconomics (Fall 2020, Spring 2021)
 
-Western Kentucky University
---
+## Western Kentucky University
 
-Teaching Assistant
----
+### Teaching Assistant
 
 Undergraduate Classes
 - Principles of Microeconomics (Fall 2019, Spring 2020)
