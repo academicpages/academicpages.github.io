@@ -140,6 +140,44 @@ analytics:
     tracking_id          :
 
 
+# Site Author
+author:
+  name             : "Arash Sarshar"
+  avatar           : "prof-pic.jpeg"
+  bio              : "PhD Computer Science and Applications"
+  location         : "Blacksburg"
+  employer         : "Virginia Tech"
+  pubmed           : "https://arxiv.org/search/?searchtype=author&query=Sarshar%2C+A"
+  googlescholar    : "https://scholar.google.com/citations?user=hqZ5XrUAAAAJ"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "elswit"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : "https://orcid.org/0000-0002-6633-8915"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : 
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
 
 # Reading Files
 include:
