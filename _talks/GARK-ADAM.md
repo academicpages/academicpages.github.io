@@ -10,4 +10,4 @@ location: "Ontario, CA"
 
 This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
 
-https://sci-cmps.cms.ok.ubc.ca/wp-content/uploads/sites/132/2022/06/schedule-overview_TUESDAY-colour.pdf
+ [https://sci-cmps.cms.ok.ubc.ca/wp-content/uploads/sites/132/2022/06/schedule-overview_TUESDAY-colour.pdf](Program)
