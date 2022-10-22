@@ -11,15 +11,20 @@ author_profile: true
 |:---------------------:|:------------------------:|:--------------:|:-----------------:|
 |           2           |             2            |        1       |         9         |
 
-<!-- |  Affiliation              |  Year       |  Number of published papers  |
+|  Affiliation              |  Year       |  Number of published papers  |
 | :-----------------------: | :---------: | :--------------------------: |
 | [Smart Networking Lab](#) | 2022        | 4                            |
 | [Smart Networking Lab](#) | 2021        | 5                            |
-| [Smart Networking Lab](#) | 2020        | 3                            | -->
+| [Smart Networking Lab](#) | 2020        | 3                            |
 
 
 ## International Journals
 ---
+* **[test symbol](#)**
+* [**test symbol**](#)
+
+
+
 * <span style = "color:red">**Youngwoo Oh**</span> and Wooyeol Choi, “Multi-Objective Deep Reinforcement Learning-Based Power Allocation Method for Optimization Trade-off in Massive MIMO Networks,. (working)
 
 * Yonggang Kim, Gyungmin Kim, <span style = "color:red">**Youngwoo Oh**</span>, and Wooyeol Choi, "Transmission Delay-Based Uplink Multi-User Scheduling in IEEE 802.11ax Networks", *Applied Sciences*, vol. 11, no. 19, article no. 9196, October. 2021. (IF: 2.679 / JCR 2020)
