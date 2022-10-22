@@ -14,6 +14,7 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
+  counter-reset: sidenote-counter;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */

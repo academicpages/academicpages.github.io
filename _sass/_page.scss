@@ -430,6 +430,27 @@ h3 { font-style: italic;
      margin-bottom: 0;
      line-height: 1.08888888888889; }
 
+/* Chapter Epigraphs */
+div.epigraph { margin: 3.5636rem 0; }
+
+div.epigraph > blockquote { margin-top: 3rem;
+                            margin-bottom: 3rem;
+                             }
+
+div.epigraph > blockquote, div.epigraph > blockquote > p { font-style: italic; }
+
+div.epigraph > blockquote > footer {  font-style: normal;
+                                      width: 45%;
+                                      padding-left: 2.5%;
+                                      padding-right: 2.5%;
+                                      padding-top: 0;
+                                      margin-top: 0.4455rem;
+                                      margin-bottom: 3.1182rem }
+
+div.epigraph > blockquote > footer > cite { font-style: italic; }
+
+/* end chapter epigraphs styles */
+
 /* Basic Layout stuff --*/
 article { position: relative;
           padding: 1
