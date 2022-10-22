@@ -151,7 +151,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=hqZ5XrUAAAAJ"
   email            : "sarshar@vt.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://arxiv.org/search/?searchtype=author&query=Sarshar%2C+A"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -374,8 +374,4 @@ compress_html:
   ignore:
     envs: development
 
-#theme: jekyll-theme-minimal
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "dark
-
-" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+theme: jekyll-theme-minimal
