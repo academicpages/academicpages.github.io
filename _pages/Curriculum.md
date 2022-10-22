@@ -27,7 +27,7 @@ Courses in postgraduate
 * Traffic Demand Management and Impact Analysis(B)
 * Theory and design of metaheuristic algorithms (A)
 * Traffic Prediction and Evaluation (B)
-* Optimization Theory (B)
+* Optimization Theory (A)
 
 Courses in undergraduate
 ======
@@ -41,4 +41,7 @@ Courses in undergraduate
 * Large Scale Database Development (A)
 * Engineering Mechanics (A)
 * Organization of Railroad Cargo Transportation (A)
-   
+* Urban Rail Transit Planning and Design (A)
+* Traffic Engineering (A)
+* Urban Rail Operations and Management (B)
+  
