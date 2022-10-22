@@ -20,7 +20,7 @@ author_profile: true
 
 ## International Journals
 ---
-* [**Youngwoo Oh**](#) and Wooyeol Choi, “Multi-Objective Deep Reinforcement Learning-Based Power Allocation Method for Optimization Trade-off in Massive MIMO Networks,. (working)
+* [**Youngwoo Oh**](#) and Wooyeol Choi, “Multi-Objective Deep Reinforcement Learning-based Power Allocation Method for Tradeoff Optimization in Massive MIMO Systems,. (working)
 
 * Yonggang Kim, Gyungmin Kim, [**Youngwoo Oh**](#), and Wooyeol Choi, "Transmission Delay-Based Uplink Multi-User Scheduling in IEEE 802.11ax Networks", *Applied Sciences*, vol. 11, no. 19, article no. 9196, October. 2021. (IF: 2.679 / JCR 2020)
 
