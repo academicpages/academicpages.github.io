@@ -1,7 +1,7 @@
 ---
 title: "On Time-stepping Methods for Gradient-flow Optimization"
 collection: talks
-type: "talk"
+type: "Talk"
 permalink: /talks/GARK-ADAM
 venue: "The Canadian Applied and Industrial Mathematics Society /SCMAI 2022"
 date: 2022-03-01
