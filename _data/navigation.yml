@@ -6,8 +6,10 @@ main:
     url: /cv/
   
   # will be Work Expereinces
-  - title: "Guide"
-    url: /markdown/
+  - title : "Projects"
+    url : /projects/
+  # - title: "Guide"
+  #   url: /markdown/
     
   - title: "Publications"
     url: /publications/

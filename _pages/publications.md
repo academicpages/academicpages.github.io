@@ -32,12 +32,12 @@ author_profile: true
 * [**Youngwoo Oh**](#) and Wooyeol Choi, "Deep Reinforcement Learning-Based Power Allocation in Multi-Cell Massive MIMO",  *International Conference on Maritime IT Convergence*, Jeju, Republic of Korea, Sep. 22-23, 2022.
 
 
-## Domain Journals (In Korea)
+## Domain Journals
 ---
 * [**Youngwoo Oh**](#) and Wooyeol Choi, "Design and Implementation of TDMA-Based Multi-hop Relay Network with Adaptive Equalizer for Inter-Symbol Interference Compensation", *The Journal of Korea Information and Communications Society*, vol. 46, no. 6, Jun. 2021.
 
 
-## Domain Conferences (In Korea)
+## Domain Conferences
 ---
 * [**Youngwoo Oh**](#), Bumsu Kim and Wooyeol Choi, “Design and Implementation of Medical-ICT Convergence Healthcare-based Application”,. (working)
 

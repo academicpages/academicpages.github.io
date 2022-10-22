@@ -1,13 +1,37 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+# permalink: /markdown/
+# title: "Markdown"
+# author_profile: true
+# redirect_from: 
+#   - /md/
+#   - /markdown.html
+permalink: /projects/
+title: "Projects"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /projects.html
 ---
 
-## Locations of key files/directories
+
+## Projects
+
+| Institution   | Research project                                                                                  | Participation period    | Participation rate |
+|:-------------:|:-------------------------------------------------------------------------------------------------:|:-----------------------:|:------------------:|
+| *KIMST*       | [**Wireless communication technology for BWMS data transmission**](#)                             | 2020.04.01 - 2021.12.31 | 60                 |
+| *IITP*        | [**SW-centered university support project**](#)                                                   | 2021.03.01 - 2021.11.30 | 30                 |
+| *NRF*         | [**Deep-learing based beamforming protocol for full-duplex C-RAN**](#)                            | 2021.03.01 - 2022.02.28 | 20                 |
+| *NRF*         | [**Federated deep reinforcement learning-based resouce allocation for flying ad-hoc network**](#) | 2021.10.01 - 2022.02.28 | 80                 |
+| *IITP*        | [**SW-centered university support project**](#)                                                   | 2022.03.01 - 2022.12.31 | 38.88              | 
+| *NRF*         | [**Federated deep reinforcement learning-based resouce allocation for flying ad-hoc network**](#) | 2022.03.01 - 2023.02.28 | 50                 |
+| *NRF*         | [**BK21 FOUR - IT convergence in hyper-connected society based on AI**](#)                        | 2022.03.01 - 2023.02.28 | 0                  |
+| *IITP*        | [**Chosun university - NHN academy**](#)                                                          | 2022.09.01 - 2022.12.31 | 29                 |
+| *TIPA*        | [**Development of XR-based multi-user training platform for clinical pratice training**](#)       | 2022.09.01 - 2022.12.31 | 27.77              |
+
+
+
+
+<!-- ## Locations of key files/directories
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
@@ -199,4 +223,4 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 
 ### Variable Tag
 
-This allows you to denote <var>variables</var>.
+This allows you to denote <var>variables</var>. -->
