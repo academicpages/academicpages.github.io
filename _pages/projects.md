@@ -14,7 +14,7 @@ redirect_from:
 ---
 
 
-## Projects
+## Official participation projects
 
 | Institution   | Research project                                                                                  | Participation period    | Participation rate |
 |:-------------:|:-------------------------------------------------------------------------------------------------:|:-----------------------:|:------------------:|
@@ -29,6 +29,14 @@ redirect_from:
 | *TIPA*        | [**Development of XR-based multi-user training platform for clinical pratice training**](#)       | 2022.09.01 - 2022.12.31 | 27.77              |
 
 
+## Unofficial participation projects
+
+| Institution          | Research project                                                                           | Participation period    | Participation rate |
+|:--------------------:|:------------------------------------------------------------------------------------------:|:-----------------------:|:------------------:|
+| *Encored P&P (Inc.)* | [**Development of prepaid electricity trading application for developing countries**](#)   | 2020.08.01 - 2020.09.31 | 100                |
+| *Intflow (Inc.)*     | [**Development of deep learning-based non-contact temperature measurement system**](#)     | 2020.11.01 - 2021.01.30 | 100                |
+| *Intflow (Inc.)*     | [**Development of IoT-based real-time localization system for livestock tracking**](#)     | 2021.04.01 - 2022.09.28 | 100                |
+| *KAIST*              | [**Development of medical-ICT convergence healthcare-based applications**](#)              | 2021.08.01 - 2022.10.10 | 100                |
 
 
 <!-- ## Locations of key files/directories
