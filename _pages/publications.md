@@ -11,11 +11,11 @@ author_profile: true
 |:---------------------:|:------------------------:|:--------------:|:-----------------:|
 |           2           |             2            |        1       |         9         |
 
-|  Affiliation              |  Year       |  Number of published papers  |
+<!-- |  Affiliation              |  Year       |  Number of published papers  |
 | :-----------------------: | :---------: | :--------------------------: |
 | [Smart Networking Lab](#) | 2022        | 4                            |
 | [Smart Networking Lab](#) | 2021        | 5                            |
-| [Smart Networking Lab](#) | 2020        | 3                            |
+| [Smart Networking Lab](#) | 2020        | 3                            | -->
 
 
 ## International Journals
