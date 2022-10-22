@@ -17,7 +17,7 @@ Undergraduate Classes
 
 ### Teaching Assistant
 
-Graduate Classes
+Ph.D. Classes
 - Econometrics II (Fall 2022)
 - Microeconomic Theory II (Spring 2022)
 - Macroeconomic Theory I (Fall 2021)
