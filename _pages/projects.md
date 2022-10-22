@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /projects/
 title: "Projects"
 author_profile: true
@@ -12,7 +13,7 @@ redirect_from:
 
 | Institution | Research project                                                                              | Participation period    | Participation rate |
 |:-----------:|:---------------------------------------------------------------------------------------------:|:-----------------------:|:------------------:|
-| KIMST       | [Wireless communication technology for BWMS data transmission](#)                             | 2020.04.01 - 2021.12.31 | 60                 |
+| KIMST       | [Wireless communication technology for BWMS data transmission](#)                             | 2020.04.01 - 2020.12.31 | 60                 |
 | IITP        | [SW-centered university support project](#)                                                   | 2021.03.01 - 2021.11.30 | 30                 |
 | NRF         | [Deep-learing based beamforming protocol for full-duplex C-RAN](#)                            | 2021.03.01 - 2022.02.28 | 20                 |
 | NRF         | [Federated deep reinforcement learning-based resouce allocation for flying ad-hoc network](#) | 2021.10.01 - 2022.02.28 | 80                 |
