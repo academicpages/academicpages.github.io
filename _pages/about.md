@@ -15,6 +15,6 @@ Because of a strong interest in machine learning and deep learning, my current r
 My graduate thesis is a study of the environmental impact of highway regions using multi-source heterogeneous data (remote sensing imagery, weather station monitoring data, research collected soil data, air pollutant data, noise data, traffic volume data, etc.) and calculating the traffic capacity of highways under environmental constraints.
  
 ---
-<br/><img src='/images/Polyloss11_normal.avi'>
+<img src/><img src='/images/Polyloss11_normal.avi'>
 
 ---
