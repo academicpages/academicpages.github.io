@@ -34,7 +34,7 @@ redirect_from:
 | KAIST (Univ.)      | [Development of medical-ICT convergence healthcare-based applications](#)              | 2021.08.01 - 2022.10.10 | 100                |
 
 
-## Software copyright
+## Software copyrights
 
 | Institution        | Registered program                                                                     | Participation number    | Participation rate |
 |:------------------:|:--------------------------------------------------------------------------------------:|:-----------------------:|:------------------:|
