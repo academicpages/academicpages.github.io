@@ -121,6 +121,9 @@ Professional Activity
 				USENIX Security, 2023
 			</li>
 			<li>
+				ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec), 2023
+			</li>
+			<li>
 				ACM S<sup>3</sup> Workshop (co-located with MobiCom), 2021
 			</li>
 		</ul>
