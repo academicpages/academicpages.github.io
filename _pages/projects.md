@@ -12,7 +12,7 @@ redirect_from:
 ## Participation projects (official)
 
 | Institution | Research project                                                                              | Participation period    | Participation rate |
-|:-----------:|:---------------------------------------------------------------------------------------------:|:-----------------------:|:------------------:|
+|:-----------:|:--------------------------------------------------------------------------------------------- |:-----------------------:|:------------------:|
 | KIMST       | [Wireless communication technology for BWMS data transmission](#)                             | 2020.04.01 - 2020.12.31 | 60                 |
 | IITP        | [SW-centered university support project](#)                                                   | 2021.03.01 - 2021.11.30 | 30                 |
 | NRF         | [Deep-learing based beamforming protocol for full-duplex C-RAN](#)                            | 2021.03.01 - 2022.02.28 | 20                 |
@@ -27,7 +27,7 @@ redirect_from:
 ## Participation projects (unofficial)
 
 | Institution        | Research project                                                                       | Participation period    | Participation rate |
-|:------------------:|:--------------------------------------------------------------------------------------:|:-----------------------:|:------------------:|
+|:------------------:|:-------------------------------------------------------------------------------------- |:-----------------------:|:------------------:|
 | Encored P&P (Inc.) | [Development of prepaid electricity trading application for developing countries](#)   | 2020.08.01 - 2020.09.31 | 100                |
 | Intflow (Inc.)     | [Development of deep learning-based non-contact temperature measurement system](#)     | 2020.11.01 - 2021.01.30 | 100                |
 | Intflow (Inc.)     | [Development of IoT-based real-time localization system for livestock tracking](#)     | 2021.04.01 - 2022.09.28 | 100                |
@@ -37,7 +37,7 @@ redirect_from:
 ## Software copyrights
 
 | Institution        | Registered program                                                                     | Participation number    | Participation rate |
-|:------------------:|:--------------------------------------------------------------------------------------:|:-----------------------:|:------------------:|
+|:------------------:|:-------------------------------------------------------------------------------------- |:-----------------------:|:------------------:|
 | Chosun (Univ.)     | [Internet of Things(IoT) multi-sensor-based sharing service program](#)                | C-2022-008305           | 100                |
 | Chosun (Univ.)     | [Multi-hop relay network testbed program for BWMS data transmission](#)                | C-2022-001887           | 100                |
 | Chosun (Univ.)     | [Multi-hop relay network testbed program in LabVIEW](#)                                | C-2020-031710           | 100                |
@@ -46,6 +46,6 @@ redirect_from:
 ## Patents
 
 | Institution        | Registered patents                                                                     | Participation number    | Participation rate |
-|:------------------:|:--------------------------------------------------------------------------------------:|:-----------------------:|:------------------:|
+|:------------------:|:-------------------------------------------------------------------------------------- |:-----------------------:|:------------------:|
 | Intflow (Inc.)     | [Livestock ear tag recognition device and smart system equipped with the device](#)    | 10-2021-0167685         | 0                  |
 | Chosun (Univ.)     | [Method for controlling data packet transmission path in multi-hop relay network](#)   | 10-2021-0060683         | 100                |
