@@ -22,7 +22,7 @@ redirect_from:
 | NRF         | [BK21 FOUR - IT convergence in hyper-connected society based on AI](#)                        | 2022.03.01 - 2023.02.28 | 0                  |
 | IITP        | [Chosun university - NHN academy](#)                                                          | 2022.09.01 - 2022.12.31 | 29                 |
 | TIPA        | [Development of XR-based multi-user training platform for clinical pratice training](#)       | 2022.09.01 - 2022.12.31 | 27.77              |
----
+
 
 ## Unofficial participation projects
 
@@ -32,7 +32,7 @@ redirect_from:
 | Intflow (Inc.)     | [Development of deep learning-based non-contact temperature measurement system](#)     | 2020.11.01 - 2021.01.30 | 100                |
 | Intflow (Inc.)     | [Development of IoT-based real-time localization system for livestock tracking](#)     | 2021.04.01 - 2022.09.28 | 100                |
 | KAIST              | [Development of medical-ICT convergence healthcare-based applications](#)              | 2021.08.01 - 2022.10.10 | 100                |
----
+
 
 ## Software copyright
 
@@ -41,7 +41,7 @@ redirect_from:
 | Chosun university  | [Internet of Things(IoT) multi-sensor-based sharing service program](#)                | C-2022-008305           | 100                |
 | Chosun university  | [Multi-hop relay network testbed program for BWMS data transmission](#)                | C-2022-001887           | 100                |
 | Chosun university  | [Multi-hop relay network testbed program in LabVIEW](#)                                | C-2020-031710           | 100                |
----
+
 
 ## Patents
 
@@ -49,7 +49,7 @@ redirect_from:
 |:------------------:|:--------------------------------------------------------------------------------------------------:|:-----------------------:|:------------------:|
 | Intflow (Inc.)     | [Livestock ear tag recognition device and smart system equipped with the device](#)                | 10-2021-0167685         | Null               |
 | Chosun university  | [Apparatus and method for controlling data packet transmission path in multi-hop relay network](#) | 10-2021-0060683         | 100                |
----
+
 
 <!-- ## Locations of key files/directories
 
