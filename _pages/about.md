@@ -16,7 +16,8 @@ My graduate thesis is a study of the environmental impact of highway regions usi
 
 ---
 <img src='/images/movie3.gif'>
+
 The results of <var>Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders</var> in video.
 
 ---
-  
+   
