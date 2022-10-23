@@ -14,8 +14,8 @@ Because of a strong interest in machine learning and deep learning, my current r
 
 ---
 <img src='/images/movie3.gif'>
-<br/>The results of <var>**Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders**</var> in video.
+<br/>The results of **<var>Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders</var>** in video.
 
 ---
 My graduate thesis is a study of the environmental impact of highway regions using multi-source heterogeneous data (remote sensing imagery, weather station monitoring data, research collected soil data, air pollutant data, noise data, traffic volume data, etc.) and calculating the traffic capacity of highways under environmental constraints.
-  
+   
