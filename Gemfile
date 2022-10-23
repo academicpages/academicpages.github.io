@@ -23,6 +23,7 @@ gem "jekyll-gist"
 gem "jekyll-redirect-from"
 gem "kramdown-parser-gfm"
 gem "webrick"
+gem 'faraday-retry'
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
