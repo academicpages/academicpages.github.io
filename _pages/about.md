@@ -11,3 +11,9 @@ header:
 ---
 
 This website is under development. Come back soon to see the finished thing!
+
+```
+What do code blocks look like?
+```
+
+## And some different headings??
