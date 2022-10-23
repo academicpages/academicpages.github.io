@@ -14,6 +14,9 @@ I am a computer science and engineering MS student at [Chosun](https://sites.goo
 
 Part of my role at university is being a **Researching Assistant** for the **Deep reinforcement learning**, **Massive MIMO**, **Resouce allocation** areas. Outside of university, I am also a **software developement tutor** teaching middle school students a wide range of application development and python programming. My other passions include music, design, and making technical [Blog](https://young-it-time.tistory.com/) and [YouTube](https://www.youtube.com/channel/UCZI9JfPn_Nk6HVkl2aAj4xA).
 
+폰트 테스트  
+폰트 테스트  
+
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website

@@ -31,24 +31,24 @@ redirect_from:
 | Encored P&P (Inc.) | [Development of prepaid electricity trading application for developing countries](#)   | 2020.08.01 - 2020.09.31 | 100                |
 | Intflow (Inc.)     | [Development of deep learning-based non-contact temperature measurement system](#)     | 2020.11.01 - 2021.01.30 | 100                |
 | Intflow (Inc.)     | [Development of IoT-based real-time localization system for livestock tracking](#)     | 2021.04.01 - 2022.09.28 | 100                |
-| KAIST              | [Development of medical-ICT convergence healthcare-based applications](#)              | 2021.08.01 - 2022.10.10 | 100                |
+| KAIST (Univ.)      | [Development of medical-ICT convergence healthcare-based applications](#)              | 2021.08.01 - 2022.10.10 | 100                |
 
 
 ## Software copyright
 
 | Institution        | Registered program                                                                     | Participation number    | Participation rate |
 |:------------------:|:--------------------------------------------------------------------------------------:|:-----------------------:|:------------------:|
-| Chosun university  | [Internet of Things(IoT) multi-sensor-based sharing service program](#)                | C-2022-008305           | 100                |
-| Chosun university  | [Multi-hop relay network testbed program for BWMS data transmission](#)                | C-2022-001887           | 100                |
-| Chosun university  | [Multi-hop relay network testbed program in LabVIEW](#)                                | C-2020-031710           | 100                |
+| Chosun (Univ.)     | [Internet of Things(IoT) multi-sensor-based sharing service program](#)                | C-2022-008305           | 100                |
+| Chosun (Univ.)     | [Multi-hop relay network testbed program for BWMS data transmission](#)                | C-2022-001887           | 100                |
+| Chosun (Univ.)     | [Multi-hop relay network testbed program in LabVIEW](#)                                | C-2020-031710           | 100                |
 
 
 ## Patents
 
-| Institution        | Registered patents                                                                                 | Participation number    | Participation rate |
-|:------------------:|:--------------------------------------------------------------------------------------------------:|:-----------------------:|:------------------:|
-| Intflow (Inc.)     | [Livestock ear tag recognition device and smart system equipped with the device](#)                | 10-2021-0167685         | Null               |
-| Chosun university  | [Apparatus and method for controlling data packet transmission path in multi-hop relay network](#) | 10-2021-0060683         | 100                |
+| Institution     | Registered patents                                                                                 | Participation number    | Participation rate |
+|:---------------:|:--------------------------------------------------------------------------------------------------:|:-----------------------:|:------------------:|
+| Intflow (Inc.)  | [Livestock ear tag recognition device and smart system equipped with the device](#)                | 10-2021-0167685         | Null               |
+| Chosun (Univ.)  | [Apparatus and method for controlling data packet transmission path in multi-hop relay network](#) | 10-2021-0060683         | 100                |
 
 
 <!-- ## Locations of key files/directories
