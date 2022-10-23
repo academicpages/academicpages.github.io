@@ -45,10 +45,10 @@ redirect_from:
 
 ## Patents
 
-| Institution     | Registered patents                                                                                 | Participation number    | Participation rate |
-|:---------------:|:--------------------------------------------------------------------------------------------------:|:-----------------------:|:------------------:|
-| Intflow (Inc.)  | [Livestock ear tag recognition device and smart system equipped with the device](#)                | 10-2021-0167685         | Null               |
-| Chosun (Univ.)  | [Apparatus and method for controlling data packet transmission path in multi-hop relay network](#) | 10-2021-0060683         | 100                |
+| Institution        | Registered patents                                                                     | Participation number    | Participation rate |
+|:------------------:|:--------------------------------------------------------------------------------------:|:-----------------------:|:------------------:|
+| Intflow (Inc.)     | [Livestock ear tag recognition device and smart system equipped with the device](#)    | 10-2021-0167685         | Null               |
+| Chosun (Univ.)     | [Method for controlling data packet transmission path in multi-hop relay network](#)   | 10-2021-0060683         | 100                |
 
 
 <!-- ## Locations of key files/directories
