@@ -36,7 +36,7 @@ redirect_from:
 
 ## Software copyrights
 
-| Institution        | Registered program                                                                     | Participation number    | Participation rate |
+| Institution        | Registered program                                                                     | Registered number       | Participation rate |
 |:------------------:|:-------------------------------------------------------------------------------------- |:-----------------------:|:------------------:|
 | Chosun (Univ.)     | [Internet of Things(IoT) multi-sensor-based sharing service program](#)                | C-2022-008305           | 100                |
 | Chosun (Univ.)     | [Multi-hop relay network testbed program for BWMS data transmission](#)                | C-2022-001887           | 100                |
@@ -45,7 +45,7 @@ redirect_from:
 
 ## Patents
 
-| Institution        | Registered patents                                                                     | Participation number    | Participation rate |
+| Institution        | Registered patents                                                                     | Registered number       | Participation rate |
 |:------------------:|:-------------------------------------------------------------------------------------- |:-----------------------:|:------------------:|
 | Intflow (Inc.)     | [Livestock ear tag recognition device and smart system equipped with the device](#)    | 10-2021-0167685         | 0                  |
 | Chosun (Univ.)     | [Method for controlling data packet transmission path in multi-hop relay network](#)   | 10-2021-0060683         | 100                |
