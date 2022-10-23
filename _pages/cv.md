@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,20 +10,20 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+---
 * B.S. in Computer Science and Engineering, Chosun University, 2022
 * M.S. in Computer Science and Engineering, Chosun University, 2023
 
 
 Master thesis
-======
+---
 * Title : *null*
 * Supervisors : *null*
 * Abstract : *null*
 
 
 Research interests
-======
+---
 * Massive MIMO
 * Deep Learning
 * Resouce Allocation
@@ -32,7 +32,7 @@ Research interests
 
 
 Work experience
-======
+---
 * Research work
   * Industry-University R&D and International Project Participating Graduated Student Researcher. (Mar. 2022 - Aug. 2023)
   * Industry-University R&D and International Project Participating Undergraduated Student Researcher. (Apr. 2021 - Nov. 2021)
@@ -58,7 +58,7 @@ Work experience
   
 
 Skills
-======
+---
 * Computing and programming skills
   * Implementation of real-time program based on IoT and ICT equipment (RTLS, ICT Application)
   * Implementation of wireless communication testbed based on SDR (Relay network, MIMO)
