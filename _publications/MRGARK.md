@@ -1,5 +1,5 @@
 ---
-title: "Design of high-order decoupled multirate GARK schemes"
+title: "Design of s"
 collection: publications
 permalink: /publication/MRGARK
 excerpt: 
