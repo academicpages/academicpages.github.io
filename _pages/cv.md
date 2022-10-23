@@ -63,7 +63,7 @@ Skills
   * Implementation of real-time program based on IoT and ICT equipment (RTLS, ICT Application)
   * Implementation of wireless communication testbed based on SDR (Relay network, MIMO)
   * Mastery of various programming languages (LabVIEW, Matlab, Python, Java)
-  * Conducting deep learning-based solution research (Power allocation, Antennas selection, Automatic modulation classification)
+  * Conducting deep learning-based solution research (Resource allocation)
 * Communication and collaboration skills
   * English communication skills through lab life with global members for 4 years (Post doc., Ph.D, MS, BS)
   * Participated in collaborative projects between undergraduate, or Ph.D. students
