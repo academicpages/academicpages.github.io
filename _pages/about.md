@@ -11,9 +11,6 @@ redirect_from:
 About
 ------
 
-폰트 테스트  
-폰트 테스트  
-
 I am a computer science and engineering MS student at [Chosun](https://sites.google.com/view/smart-networking/member) specializing in **next-generation wireless networks** with a keen interest in using **deep reinforcement learning** to optimize massive MIMO systems. My research is focused on applying deep reinforcement learning techniques to wireless **resource allocation** problems.
 
 Part of my role at university is being a **Researching Assistant** for the **Deep reinforcement learning**, **Massive MIMO**, **Resouce allocation** areas. Outside of university, I am also a **software developement tutor** teaching middle school students a wide range of application development and python programming. My other passions include music, design, and making technical [Blog](https://young-it-time.tistory.com/) and [YouTube](https://www.youtube.com/channel/UCZI9JfPn_Nk6HVkl2aAj4xA).

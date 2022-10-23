@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-## Official participation projects
+## Participation projects (official)
 
 | Institution | Research project                                                                              | Participation period    | Participation rate |
 |:-----------:|:---------------------------------------------------------------------------------------------:|:-----------------------:|:------------------:|
@@ -24,7 +24,7 @@ redirect_from:
 | TIPA        | [Development of XR-based multi-user training platform for clinical pratice training](#)       | 2022.09.01 - 2022.12.31 | 27.77              |
 
 
-## Unofficial participation projects
+## Participation projects (unofficial)
 
 | Institution        | Research project                                                                       | Participation period    | Participation rate |
 |:------------------:|:--------------------------------------------------------------------------------------:|:-----------------------:|:------------------:|
