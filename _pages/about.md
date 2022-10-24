@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Wenlin Han is currently a tenured associate professor, with the Department of Computer Science, California State University, Fullerton, USA. Her research interests include Cybersecurity, Applied Cryptography used in IoT, CPS, Blockchain and other latest applications. 
+Wenlin Han is currently an associate professor (with early tenure and promotion), with the Department of Computer Science, California State University, Fullerton, USA. Her research interests include Cybersecurity, Applied Cryptography used in IoT, CPS, Blockchain and other latest applications. 
 
 More
 ======
