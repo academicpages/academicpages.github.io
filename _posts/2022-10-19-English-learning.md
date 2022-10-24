@@ -24,9 +24,9 @@ Improve your pronunciation if your pronunciation let the listener confused and t
 But you're still identified as a non-native speaker, and most importantly, your tone and pronunciation sound strange for native speakers. Try to mimic the way how the native speaker speaks, especially for their tone and pronunciation. Remember, there is no standard English in the world, it's fine you got your unique accent which is not a barrier for the native sparker to understand you.
 
 
- ## how to remember words?
- - remrmber the spelling and prounciation togther.
- - try to remember the main emotion of the words(This is useful in reading). eg, use remarkable or incredible to mean good, try to replace some words like remarkable into good, you may relazied that this action will not change the main point for each sentence.  \
+## how to remember words?
+- remrmber the spelling and prounciation togther.
+- try to remember the main emotion of the words(This is useful in reading). eg, use remarkable or incredible to mean good, try to replace some words like remarkable into good, you may relazied that this action will not change the main point for each sentence.  
 
 
 
