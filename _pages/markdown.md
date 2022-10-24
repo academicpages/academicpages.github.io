@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /contact.html
 ---
-
+*contact
 Institute for Manufacturing, 
 Alan Reece Builing,
 17 Charles Babbage Road,
