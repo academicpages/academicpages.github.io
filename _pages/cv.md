@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+=====
+* Bachelor in Computer Science, Jinling Institute of Technology, 2005 -- 2009
+* M.S. in Jekyll, GitHub University, 2009 -- 2012
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
