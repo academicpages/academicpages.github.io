@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Liming Xu, Ph.D."
   avatar           : "profile.png"
-  bio              : "Research Associate at <a href='https://www.ifm.eng.cam.ac.uk/research/supply-chain-ai-lab/'>Supply Chain AI Lab (SCAIL)</a>"
+  bio              : "Research Associate at <a href='https://www.ifm.eng.cam.ac.uk/research/supply-chain-ai-lab/'>Supply Chain AI Lab (SCAIL)</a>, <a href='https://www.ifm.eng.cam.ac.uk/'>Institute for Manufacturing</a>, Departmemnt of Engineering, University of Cambridge"
   location         : "Cambridge, UK"
-  employer         : "<a href='https://www.ifm.eng.cam.ac.uk/'>Institute for Manufacturing</a>, Departmemnt of Engineering, University of Cambridge"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ViVHl54AAAAJ&hl=en"
   email            :
