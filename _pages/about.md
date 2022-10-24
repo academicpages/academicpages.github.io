@@ -30,7 +30,7 @@ She has served as an editor, PC member or reviewer for various international con
 
 She was rewarded as Outstanding Reviewer by International Journal of Electrical Power & Energy Systems, which is a journal ranked #4 in Power Engineering by Google Scholar. 
 
-She has been devoting herself into building a broader impact for women in Diversity, Equity and Inclusion.
+She has been devoting herself into building a broader impact for minorities in Diversity, Equity and Inclusion.
 
 Research Interests
 ======
