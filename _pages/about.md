@@ -16,6 +16,8 @@ She is a voting member of IEEE Blockchain Standard.
 
 She is a receipient of Unity & Meta Create with VR Award.
 
+Chinese name: 韩文琳
+
 More
 ======
 She has been publishing papers in very competitive venues with three papers ranked as the top 1% most-cited articles published in Computer Science. 
