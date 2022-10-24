@@ -85,10 +85,10 @@ author:
   bio              : "Contribute to the development of transportation"
   location         : "Chengdu, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "ruohanli373@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : #"https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
