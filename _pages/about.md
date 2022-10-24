@@ -14,7 +14,7 @@ She is the director of [Tuffyverse Lab](https://tuffyverse.com/tuffyverse-lab), 
 
 She is a voting member of IEEE Blockchain Standard.
 
-She is a receipient of Unity & Meta Build with VR Award.
+She is a receipient of Unity & Meta Create with VR Award.
 
 More
 ======
