@@ -10,7 +10,7 @@ redirect_from:
 
 Wenlin Han is currently an associate professor (with early tenure and promotion), with the Department of Computer Science, California State University, Fullerton, USA. 
 
-She is the director of Tuffyverse Lab, a multi-disciplinary research team. 
+She is the director of Tuffyverse Lab(https://tuffyverse.com/tuffyverse-lab), a multi-disciplinary research team. 
 
 She is a voting member of IEEE Blockchain Standard.
 
