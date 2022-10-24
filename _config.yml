@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Laura South"
-  avatar           : "profile-square.jpg"
+  avatar           : "laura-south-424x424jpg"
   bio              : "PhD candidate and accessibility researcher at Northeastern University"
   location         : "Boston, MA"
   employer         : "Northeastern University"
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=yRTXb80AAAAJ&hl=en"
   email            : "south.l@northeastern.edu"
-  researchgate     : 
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      :
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0003-4444-6314"
