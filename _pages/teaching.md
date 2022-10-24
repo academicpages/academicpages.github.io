@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-Primary Instructor (Michigan): MATH 423- Mathematics of finance.
+Primary Instructor (Michigan): MATH 423- Mathematics of finance, Math 526/Stat 526 Discrete stochastic process.
 
 Tutor (Oxford):  B8.1 Probability, Measure and Martingales, B8.2 Continuous Martingales and Stochastic Calculus, Part C (MCF) Stochastic calculus, Part C (MCF) Optimisation.
 
