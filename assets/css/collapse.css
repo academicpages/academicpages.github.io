@@ -1,5 +1,5 @@
 .container {
-    width:100%;
+    width:80%;
     border:1px solid #d3d3d3;
 }
 .container div {
@@ -14,3 +14,4 @@
 .container .content {
     display: none;
     padding : 5px;
+}
