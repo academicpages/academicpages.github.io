@@ -32,13 +32,6 @@ She was rewarded as Outstanding Reviewer by International Journal of Electrical 
 
 She has been devoting herself into building a broader impact for women in information security profession.
 
-Education
-======
-* Ph.D in Computer Science, The University of Alabama, USA, 2017
-* M.S. in Computer Science, The University of Alabama, USA, 2014
-* M.S. in Computer Science, Central China Normal University, China, 2005
-* B.S. in Computer Science, Central China Normal University, China, 2002
-
 Research Interests
 ======
 Her research interests include Cybersecurity, Applied Cryptography used in IoT, CPS, Blockchain and other latest applications. 
@@ -60,6 +53,13 @@ Students, faculty and staff who are Crypto advocate are welcomed to join us!
 Site: [https://tuffyverse.com/blockchain-club](https://tuffyverse.com/blockchain-club) 
 
 Discord: [https://discord.gg/x9wZEXXFE6](https://discord.gg/x9wZEXXFE6)
+
+Education
+======
+* Ph.D in Computer Science, The University of Alabama, USA, 2017
+* M.S. in Computer Science, The University of Alabama, USA, 2014
+* M.S. in Computer Science, Central China Normal University, China, 2005
+* B.S. in Computer Science, Central China Normal University, China, 2002
 
 [Blog Posts](https://wenlinhan.github.io/year-archive/)
 ======
