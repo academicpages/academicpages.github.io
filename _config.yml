@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate at LSU"
   location         : "Baton Rouge, LA, US"
-  employer         : "https://faculty.lsu.edu/trmg/people.php"
+  employer         : #"https://faculty.lsu.edu/trmg/people.php"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
