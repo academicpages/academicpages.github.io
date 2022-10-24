@@ -6,5 +6,9 @@ redirect_from:
   - /md/
   - /contact.html
 ---
-* E-mail: lx249 [at] cam.ac.uk
+Institute for Manufacturing, 
+Alan Reece Builing,
+17 Charles Babbage Road,
+Cmabridge CB3 0FS, United Kingdom,
+E-mail: lx249 [at] cam.ac.uk
 
