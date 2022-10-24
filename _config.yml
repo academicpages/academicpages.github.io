@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhang Yinger"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Zhang Yinger"
 description              : &description "personal description"
 url                      : https://zhangyingerjelly.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Zhang Yinger"
   avatar           : "profile.jpg"
-  bio              : "a PhD student in Zhejiang University,China"
+  bio              : "PhD student in Zhejiang University,China"
   location         : "Zhejiang, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "hzzhangyinger@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "zhangyingerjelly"
   google_plus      :
   keybase          :
   instagram        :
