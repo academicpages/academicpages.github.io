@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Wenlin Han is currently a tenured associate professor, with the Department of Computer Science, California State University, Fullerton, USA. Her research interests include Cybersecurity, Applied Cryptography used in IoT, CPS, Blockchain and other latest applications. She has been publishing papers in very competitive venues with three papers ranked as the top 1% most-cited articles published in Computer Science. One paper was ranked #9 by Google Scholar among all Computer Security & Cryptography articles in 2016. One paper was rewarded Best Paper Runner-up Award. She has served as an editor, PC member or reviewer for various international conferences and journals including IEEE Tran. on Information Forensics & Security, IEEE INFOCOM, Information Science, etc. She was rewarded as Outstanding Reviewer by International Journal of Electrical Power & Energy Systems, which is a journal ranked #4 in Power Engineering by Google Scholar. She has been devoting herself into building a broader impact for women in information security profession.
+Wenlin Han is currently a tenured associate professor, with the Department of Computer Science, California State University, Fullerton, USA. Her research interests include Cybersecurity, Applied Cryptography used in IoT, CPS, Blockchain and other latest applications. 
+
+More
+======
+She is a voting member of IEEE Blockchain Standard. 
+
+She has been publishing papers in very competitive venues with three papers ranked as the top 1% most-cited articles published in Computer Science. One paper was ranked #9 by Google Scholar among all Computer Security & Cryptography articles in 2016. One paper was rewarded Best Paper Runner-up Award. She has served as an editor, PC member or reviewer for various international conferences and journals including IEEE Tran. on Information Forensics & Security, IEEE INFOCOM, Information Science, etc. She was rewarded as Outstanding Reviewer by International Journal of Electrical Power & Energy Systems, which is a journal ranked #4 in Power Engineering by Google Scholar. She has been devoting herself into building a broader impact for women in information security profession.
 
 Education
 ======
