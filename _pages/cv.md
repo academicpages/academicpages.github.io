@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+=====
+* Bachelor in Computer Science, Jinling Institute of Technology, China, 2005 -- 2009
+* MPhil in Computer Science, Hohai University, China, 2009 -- 2012
+* Ph.D in Computer Science and Digital Economoy, University of Nottingham, UK, 2013 -- 2019
 
-Work experience
+Academic experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -53,7 +53,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
