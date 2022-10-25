@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 Meta-Learning for Multi-Modal Cross-lingual Transfer<br>
-<strong>Master Thesis</strong><br>
+**[<strong>Master Thesis</strong>](https://hanxuhu.github.io/files/Hanxu_dissertation.pdf)**
 (Related conference paper is under review)
 
 Improving User Controlled Table-To-Text Generation Robustness<br>
