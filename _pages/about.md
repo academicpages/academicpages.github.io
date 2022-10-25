@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science Master student in The University of Edinburgh currently, my research interest is NLP, especially Multi-Modal learning and Data-to-text generation. Before that, I recieved Bachelor degree in Nanjing University of Science and Technology, major in Control & Measurement
+I am a Research Intern in [Yue Zhang](https://frcchang.github.io)'s Group in Westlake University currently. Previously, I was a CS Master in The University of Edinburgh, and my master thesis is supervised by Prof. [Frank Keller](https://homepages.inf.ed.ac.uk/keller/). Before that, I recieved Bachelor degree in Nanjing University of Science and Technology, major in Control & Measurement. My research interest is NLP, especially Multi-Modal learning and Data-to-text generation.
 
 
 
