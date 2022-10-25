@@ -2,7 +2,7 @@
 
 Atenção: os trabalhos devem ser enviados por email (mbortoloti@uesb.edu.br). Todos os códigos utilizados também devem ser enviados nesse mesmo email (enviar um único email contendo o arquivo pdf e os códigos).
 
-O envio do trabalho deve ser efetuado até o dia 03/11/2022
+O envio do trabalho deve ser efetuado até o dia 10/11/2022
 
 
 ## Para os grupos 01, 02, 03, 04 e 05
@@ -11,10 +11,10 @@ Os grupos deverão estudar o método proposto para solução de um sistema linea
 
 ### Temas para os grupos
 
-* Grupo 1 - Fatoração LU com estratégia de pivoteamento parcial
-* Grupo 2 - Fatoração de Cholesky
-* Grupo 3 - 
-* Grupo 4 - 
-* Grupo 5 - 
+* Grupo 1 - Fatoração LU com estratégia de pivoteamento total
+* Grupo 2 - Fatoração LDL
+* Grupo 3 - Fatoração de Cholesky
+* Grupo 4 - Método de Gauss-Seidel
+* Grupo 5 - Método da Sobre-relaxação
 
 Façam vários experimentos numéricos. Enviar por email um único arquivo pdf com o texto. Enviar tambem todos os códigos utilizados nesse mesmo email.
