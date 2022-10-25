@@ -5,8 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 Meta-Learning for Multi-Modal Cross-lingual Transfer<br>
-**[<strong>Master Thesis</strong>](https://hanxuhu.github.io/files/Hanxu_dissertation.pdf)**
-(Related conference paper is under review)
+**[<strong>Master Thesis</strong>](https://hanxuhu.github.io/files/Hanxu_dissertation.pdf)** <br>
+
+Meta-Learning for Multi-Modal Cross-lingual Transfer
+Hanxu Hu and Frank Keller
+Under Review
 
 Improving User Controlled Table-To-Text Generation Robustness<br>
 <strong>Hanxu Hu</strong>, Zhongyi Yu, Yunqing Liu and Laura Perez-Beltrachini<br>
