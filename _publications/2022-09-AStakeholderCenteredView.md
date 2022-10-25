@@ -3,7 +3,7 @@ title: "A Stakeholder-Centered View on Fairness in Music Recommender Systems"
 collection: publications
 permalink: /publication/2022-09-AStakeholderCenteredView
 # excerpt: ''
-date: 2022
+date: 2022-09-01
 venue: 'Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR `22). New York, NY, USA: Association for Computing Machinery, 3498.'
 paperurl: 'https://arxiv.org/pdf/2209.06126.pdf'
 citation: 'Dinnissen, K. & Bauer, C. (2022). A Stakeholder-Centered View on Fairness in Music Recommender Systems. In <i>Proceedings of the 5th FAccTRec Workshop on Responsible Recommendation (FAccTRec `22) co-located with the 16th ACM Conference on Recommender Systems (RecSys `22).</i> New York, NY, USA: Association for Computing Machinery. https://arxiv.org/pdf/2209.06126.pdf'

@@ -3,7 +3,7 @@ title: "Improving Fairness and Transparency for Artists in Music Recommender Sys
 collection: publications
 permalink: /publication/2022-07-ImprovingFairnessandTransparency
 # excerpt: ''
-date: 2022
+date: 2022-07-01
 venue: 'Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR `22). New York, NY, USA: Association for Computing Machinery, 3498.'
 paperurl: 'https://doi.org/10.1145/3477495.3531681'
 citation: 'Dinnissen, K. (2022). Improving Fairness and Transparency for Artists in Music Recommender Systems. In <i>Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR `22)</i>. New York, NY, USA: Association for Computing Machinery, 3498. https://doi.org/10.1145/3477495.3531681'
