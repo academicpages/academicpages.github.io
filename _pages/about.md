@@ -12,6 +12,8 @@ I am a Research Intern in [Yue Zhang](https://frcchang.github.io)'s Group in Wes
 
 My research interest is NLP, especially Multi-Modal learning and Data-to-text generation.<br>
 
+You can view my CV [here](https://hanxuhu.github.io/files/CV_Hanxu.pdf).<br>
+
 Publications
 ------
 Meta-Learning for Multi-Modal Cross-lingual Transfer<br>
