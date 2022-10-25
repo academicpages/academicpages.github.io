@@ -44,7 +44,22 @@ Work experience
 * Oct 2014 - Mar 2015: Intern
   * Appen, Australia
   * Analyzing, evaluating and improving AppenText, a crowdsourcing-driven translation platform.
+
+Service and leadership
+======
+* RecSys 2022: On-site Student Volunteer
+* RecSys 2021: Virtual Student Volunteer
+* Nov 2021 - Jan 2022: Co-lead preparation committee ICS PhD Council
+* Jan 2020 - Aug 2021: Secretary of Textkernel Works Council
   
+Languages
+======
+* Dutch: Native
+* English: Business fluent
+* German: Intermediate
+* French: Beginner
+* Mandarin Chinese: Beginner
+
 Skills
 ======
 * Programming
@@ -73,14 +88,6 @@ Skills
   * Scrum
   * Agile
 
-Languages
-======
-* Dutch: Native
-* English: Business fluent
-* German: Intermediate
-* French: Beginner
-* Mandarin Chinese: Beginner
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -98,10 +105,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* RecSys 2022: On-site Student Volunteer
-* RecSys 2021: Virtual Student Volunteer
-* Nov 2021 - Jan 2022: Co-lead preparation committee ICS PhD Council
-* Jan 2020 - Aug 2021: Secretary of Textkernel Works Council
