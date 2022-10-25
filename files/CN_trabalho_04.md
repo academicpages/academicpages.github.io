@@ -7,7 +7,7 @@ O envio do trabalho deve ser efetuado até o dia 10/11/2022
 
 ## Para os grupos 01, 02, 03, 04 e 05
 
-Os grupos deverão estudar o método proposto para solução de um sistema linear e fazer comparações com o Método da Eliminação de Gauss com pivoteamento parcial. Essa comparação deverá levar em conta o tempo utilizado para obter a solução por cada método e compará-los, assim como erros de aritmética de ponto flutuante. Podem ser utilizadas tabelas para comparar cada método. Faça testes envolvendo matrizes de diferentes ordens e mal-condicionadas ou não. As matrizes podem ser geradas por meio do comando "rand(n,n)", mas certifique-se de tomar as mesmas matrizes quando for comparar métodos distintos.
+Os grupos deverão estudar o método proposto para solução de um sistema linear e fazer comparações com o Método da Eliminação de Gauss com pivoteamento parcial. Essa comparação deverá levar em conta o tempo utilizado para obter a solução por cada método e compará-los, assim como erros de aritmética de ponto flutuante. Podem ser utilizadas tabelas e/ou gráficos para comparar os métodos. Faça testes envolvendo matrizes de diferentes ordens, mal-condicionadas ou não, diagonal dominante ou não. As matrizes podem ser geradas por meio do comando "rand(n,n)", mas certifique-se de tomar as mesmas matrizes quando for comparar métodos distintos. 
 
 ### Temas para os grupos
 
