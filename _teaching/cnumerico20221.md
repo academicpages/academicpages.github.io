@@ -96,3 +96,5 @@ Notebooks
 * [Eliminação de Gauss](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/eliminacao.ipynb)
 
 * [Mal-condicionamento de uma Matriz](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/eliminacao-mal-condicionamento.ipynb)
+
+* [Método de Jacobi](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/gauss_jacobi2.ipynb)
