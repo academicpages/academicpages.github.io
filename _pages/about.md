@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: This is a general introduction of myself
+title: Hanxu Hu
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,20 +15,20 @@ My research interest is NLP, especially Multi-Modal learning and Data-to-text ge
 Publications
 ------
 Meta-Learning for Multi-Modal Cross-lingual Transfer<br>
-**[<strong>Master Thesis</strong>](https://hanxuhu.github.io/files/Hanxu_dissertation.pdf)** <br>
+**[*Master Thesis*](https://hanxuhu.github.io/files/Hanxu_dissertation.pdf)** <br>
 
 Meta-Learning for Multi-Modal Cross-lingual Transfer<br>
 <strong>Hanxu Hu</strong> and Frank Keller<br>
-Under Review<br>
+*Under Review*<br>
 
 Improving User Controlled Table-To-Text Generation Robustness<br>
 <strong>Hanxu Hu</strong>, Zhongyi Yu, Yunqing Liu and Laura Perez-Beltrachini<br>
-Under Review<br>
+*Under Review*<br>
 (<strong>MLP IBM Prize</strong> for related project)
 
 A Channel Mix Method for Fine-Grained Cross-Modal Retrieval<br>
 Yang Shen, Xuhao Sun, Xiu-Shen Wei, <strong>Hanxu Hu</strong> and Zhipeng Chen<br>
-in ICME 2022
+in *ICME 2022*
 
 Experience
 ------
