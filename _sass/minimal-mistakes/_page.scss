@@ -587,26 +587,6 @@ body {
 // --------- Typography stuff -----------//
 // added rational line height and margins ala http://webtypography.net/intro/
 
-h1 { font-weight: 400;
-     margin-top: 1.568rem;
-     margin-bottom: 1.568rem;
-     font-size: 2.5rem;
-     line-height: 0.784; }
-
-h2 { font-style: italic;
-     font-weight: 400;
-     margin-top: 1.866666666666667rem;
-     margin-bottom: 0;
-     font-size: 2.1rem;
-     line-height: 0.933333333333333; }
-
-h3 { font-style: italic;
-     font-weight: 400;
-     font-size: 1.8rem;
-     margin-top: 2.1777777777777778rem;
-     margin-bottom: 0;
-     line-height: 1.08888888888889; }
-
 /* Chapter Epigraphs */
 div.epigraph { margin: 3.5636rem 0; }
 
@@ -629,14 +609,24 @@ div.epigraph > blockquote > footer > cite { font-style: italic; }
 /* end chapter epigraphs styles */
 
 /* Basic Layout stuff --*/
+/*
 article { position: relative;
           padding: 1
 
           rem 0rem 2.5rem 0rem; } // reduced top and bottom padding by 50%
+*/
 
+/*
 section { padding-top: 1rem;
           padding-bottom: 1rem; }
+*/
 
+/*
+ul,ol { width: 45%;
+     -webkit-padding-start: 5%;
+     -webkit-padding-end: 5%;
+     list-style-type: none; }
+*/
 //li { padding: 0.5em 0; } //vertical padding on list items screws up vertical rhythym
 
 figure, figure img.maincolumn { max-width: 55%;
