@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+TuffyVerse
+======
+The following a short video intro. about TuffyVerse presented in CSUF ECS research day 2022.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ag58_WH4s-A?start=5493" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Scholarly presentations
 ======
 IEEE NFSP'12; WASA’16; ICAI'18; IEEE ICCE’19; IEEE ICII’19, etc.
