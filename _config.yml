@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pietro Belloni"
   avatar           : "pic_belloni.jpg"
-  bio              : "PhD Student, Department of Statistical Sciences, University of Padua, Italy"
+  bio              : "PhD Student <br> Department of Statistical Sciences <br> University of Padua"
   location         : "Padua, Italy"
   employer         :
   pubmed           : 
@@ -101,8 +101,8 @@ author:
   keybase          :
   instagram        :
   impactstory      :
-  lastfm           : "https://www.linkedin.com/in/pietrobelloni/"
-  linkedin         :
+  lastfm           :
+  linkedin         : "https://www.linkedin.com/in/pietrobelloni/"
   orcid            : "https://orcid.org/0000-0002-8279-5876"
   pinterest        :
   soundcloud       :
@@ -261,14 +261,14 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 plugins:
   - jekyll-paginate
-  #- jekyll-sitemap
+  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  #- jekyll-sitemap
+  - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
