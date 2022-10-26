@@ -1,0 +1,97 @@
+/* ==========================================================================
+   BUTTONS
+   ========================================================================== */
+
+/*
+   Default button
+   ========================================================================== */
+
+.btn {
+  /* default */
+  display: inline-block;
+  margin-bottom: 0.25em;
+  padding: 0.5em 1em;
+  font-family: $sans-serif;
+  font-size: $type-size-6;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  border-width: 0;
+  border-radius: $border-radius;
+  cursor: pointer;
+
+  .icon {
+    margin-right: 0.5em;
+  }
+
+  .icon + .hidden {
+    margin-left: -0.5em; /* override for hidden text*/
+  }
+
+  /* button colors */
+  $buttoncolors:
+  (primary, $primary-color),
+  (inverse, #fff),
+  (light-outline, transparent),
+  (success, $success-color),
+  (warning, $warning-color),
+  (danger, $danger-color),
+  (info, $info-color),
+  (facebook, $facebook-color),
+  (twitter, $twitter-color),
+  (linkedin, $linkedin-color);
+
+  @each $buttoncolor, $color in $buttoncolors {
+    &--#{$buttoncolor} {
+      @include yiq-contrasted($color);
+      @if ($buttoncolor == inverse) {
+        border: 1px solid $border-color;
+      }
+      @if ($buttoncolor == light-outline) {
+        border: 1px solid #fff;
+      }
+
+      &:visited {
+        @include yiq-contrasted($color);
+      }
+
+      &:hover {
+        @include yiq-contrasted(mix(#000, $color, 20%));
+      }
+    }
+  }
+
+  /* fills width of parent container */
+  &--block {
+    display: block;
+    width: 100%;
+
+    + .btn--block {
+      margin-top: 0.25em;
+    }
+  }
+
+  /* disabled */
+  &--disabled {
+    pointer-events: none;
+    cursor: not-allowed;
+    filter: alpha(opacity=65);
+    box-shadow: none;
+    opacity: 0.65;
+  }
+
+  /* extra large button */
+  &--x-large {
+    font-size: $type-size-4;
+  }
+
+  /* large button */
+  &--large {
+    font-size: $type-size-5;
+  }
+
+  /* small button */
+  &--small {
+    font-size: $type-size-7;
+  }
+}

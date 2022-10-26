@@ -1,6 +1,5 @@
 {% if site.comments.discourse.server %}
-{% include base_path %}
-{% capture canonical %}{{ base_path }}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
+{% capture canonical %}{% if site.permalink contains '.html' %}{{ page.url | absolute_url }}{% else %}{{ page.url | absolute_url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
 <script type="text/javascript">
     DiscourseEmbed = { discourseUrl: '//{{ site.comments.discourse.server }}/',
                        discourseEmbedUrl: '{{ canonical }}' };
@@ -10,5 +9,5 @@
      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
    })();
 </script>
-<noscript>Please enable JavaScript to view the comments powered by [Discourse](http://forum.beta-europe.org/c/beta/website).</a></noscript>
+<noscript>Please enable JavaScript to view the comments powered by <a href="https://www.discourse.org/">Discourse.</a></noscript>
 {% endif %}

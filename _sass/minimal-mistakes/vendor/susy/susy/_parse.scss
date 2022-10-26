@@ -1,0 +1,163 @@
+/// Shorthand Syntax Parser
+/// =======================
+/// The syntax parser converts [shorthand syntax][short]
+/// into a map of settings that can be compared/merged with
+/// other config maps and global setting.
+///
+/// [short]: b-api.html
+///
+/// @group x-parser
+
+
+
+// Parse
+// -----
+/// The `parse` function provides all the syntax-sugar in Susy,
+/// converting user shorthand
+/// into a usable map of keys and values
+/// that can be normalized and passed to Su.
+///
+/// @group x-parser
+/// @see $susy
+///
+/// @param {list} $shorthand -
+///   Shorthand expression to define the width of the span,
+///   optionally containing:
+///   - a count, length, or column-list span;
+///   - `at $n`, `first`, or `last` location on asymmetrical grids;
+///   - `narrow`, `wide`, or `wider` for optionally spreading
+///     across adjacent gutters;
+///   - `of $n <spread>` for available grid columns
+///     and spread of the container
+///     (span counts like `of 6` are only valid
+///     in the context of symmetrical grids);
+///   - and `set-gutters $n` to override global gutter settings
+/// @param {bool} $context-only [false] -
+///   Allow the parser to ignore span and span-spread values,
+///   only parsing context and container-spread.
+///   This makes it possible to accept spanless values,
+///   like the `gutters()` syntax.
+///   When parsing context-only,
+///   the `of` indicator is optional.
+///
+/// @return {map} -
+///   Map of span and grid settings
+///   parsed from shorthand input –
+///   including all the properties available globally –
+///   `columns`, `gutters`, `spread`, `container-spread` –
+///   along with the span-specific properties
+///   `span`, and `location`.
+///
+/// @throw
+///   when a shorthand value is not recognized
+@function susy-parse(
+  $shorthand,
+  $context-only: false
+) {
+  $parse-error: 'Unknown shorthand property:';
+  $options: (
+    'first': 'location',
+    'last': 'location',
+    'alpha': 'location',
+    'omega': 'location',
+    'narrow': 'spread',
+    'wide': 'spread',
+    'wider': 'spread',
+  );
+
+  $return: ();
+  $span: null;
+  $columns: null;
+
+  $of: null;
+  $next: false;
+
+  // Allow context-only shorthand, without span
+  @if ($context-only) and (not index($shorthand, 'of')) {
+    @if su-valid-columns($shorthand, 'fail-silent') {
+      $shorthand: 'of' $shorthand;
+    } @else {
+      $shorthand: join('of', $shorthand);
+    }
+  }
+
+  // loop through the shorthand list
+  @for $i from 1 through length($shorthand) {
+    $item: nth($shorthand, $i);
+    $type: type-of($item);
+    $error: false;
+    $details: '[#{$type}] `#{$item}`';
+
+    // if we know what's supposed to be coming next…
+    @if $next {
+
+      // Add to the return map
+      $return: map-merge($return, ($next: $item));
+
+      // Reset next to `false`
+      $next: false;
+
+    } @else { // If we don't know what's supposed to be coming…
+
+      // Keywords…
+      @if ($type == 'string') {
+        // Check the map for keywords…
+        @if map-has-key($options, $item) {
+          $setting: map-get($options, $item);
+
+          // Spread could be on the span or the container…
+          @if ($setting == 'spread') and ($of) {
+            $return: map-merge($return, ('container-spread': $item));
+          } @else {
+            $return: map-merge($return, ($setting: $item));
+          }
+
+        } @else if ($item == 'all') {
+          // `All` is a span shortcut
+          $span: 'all';
+        } @else if ($item == 'at') {
+          // Some keywords setup what's next…
+          $next: 'location';
+        } @else if ($item == 'set-gutters') {
+          $next: 'gutters';
+        } @else if ($item == 'of') {
+          $of: true;
+        } @else {
+          $error: true;
+        }
+
+      } @else if ($type == 'number') or ($type == 'list') { // Numbers & lists…
+
+        @if not ($span or $of) {
+          // We don't have a span, and we're not expecting context…
+          $span: $item;
+        } @else if ($of) and (not $columns) {
+          // We are expecting context…
+          $columns: $item;
+        } @else {
+          $error: true;
+        }
+
+      } @else {
+        $error: true;
+      }
+    }
+
+    @if $error {
+      @return _susy-error('#{$parse-error} #{$details}', 'susy-parse');
+    }
+  }
+
+  // If we have span, merge it in
+  @if $span {
+    $return: map-merge($return, ('span': $span));
+  }
+
+  // If we have columns, merge them in
+  @if $columns {
+    $return: map-merge($return, ('columns': $columns));
+  }
+
+  // Return the map of settings…
+  @return $return;
+}

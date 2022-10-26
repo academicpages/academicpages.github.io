@@ -1,0 +1,167 @@
+// Sass Utilities
+// ==============
+// - Susy Error Output Override [variable]
+// - Susy Error [function]
+
+
+
+// Susy Error Output Override
+// --------------------------
+/// Turn off error output for testing
+/// @group x-utility
+/// @access private
+$_susy-error-output-override: false !default;
+
+
+
+// Susy Error
+// ----------
+/// Optionally return error messages without failing,
+/// as a way to test error cases
+///
+/// @group x-utility
+/// @access private
+///
+/// @param {string} $message -
+///   A useful error message, explaining the problem
+/// @param {string} $source -
+///   The original source of the error for debugging
+/// @param {bool} $override [$_susy-error-output-override] -
+///   Optionally return the error rather than failing
+/// @return {string} -
+///   Combined error with source and message
+/// @throws When `$override == true`
+@function _susy-error(
+  $message,
+  $source,
+  $override: $_susy-error-output-override
+) {
+  @if $override {
+    @return 'ERROR [#{$source}] #{$message}';
+  }
+
+  @error '[#{$source}] #{$message}';
+}
+
+
+// Su Is Comparable
+// ----------------
+/// Check that the units in a grid are comparable
+///
+/// @group x-validation
+/// @access private
+///
+/// @param {numbers} $lengths… -
+///   Arglist of all the number values to compare
+///   (columns, gutters, span, etc)
+///
+/// @return {'fluid' | 'static' | false} -
+///   The type of span (fluid or static) when units match,
+///   or `false` for mismatched units
+@function _su-is-comparable(
+  $lengths...
+) {
+  $first: nth($lengths, 1);
+
+  @if (length($lengths) == 1) {
+    @return if(unitless($first), 'fluid', 'static');
+  }
+
+  @for $i from 2 through length($lengths) {
+    $comp: nth($lengths, $i);
+
+    $fail: not comparable($first, $comp);
+    $fail: $fail or (unitless($first) and not unitless($comp));
+    $fail: $fail or (unitless($comp) and not unitless($first));
+
+    @if $fail {
+      @return false;
+    }
+  }
+
+  @return if(unitless($first), 'fluid', 'static');
+}
+
+
+// Su Map Add Units
+// ----------------
+/// The calc features use a map of units and values
+/// to compile the proper algorythm.
+/// This function adds a new value to any comparable existing unit/value,
+/// or adds a new unit/value pair to the map
+///
+/// @group x-utility
+/// @access private
+///
+/// @param {map} $map -
+///   A map of unit/value pairs, e.g. ('px': 120px)
+/// @param {length} $value -
+///   A new length to be added to the map
+/// @return {map} -
+///   The updated map, with new value added
+///
+/// @example scss -
+///   $map: (0px: 120px);
+///   $map: _su-map-add-units($map, 1in); // add a comparable unit
+///   $map: _su-map-add-units($map, 3vw); // add a new unit
+///
+///   @each $units, $value in $map {
+///     /* #{$units}: #{$value} */
+///   }
+@function _su-map-add-units(
+  $map,
+  $value
+) {
+  $unit: $value * 0;
+  $has: map-get($map, $unit) or 0;
+
+  @if ($has == 0) {
+    @each $try, $could in $map {
+      $match: comparable($try, $value);
+      $unit: if($match, $try, $unit);
+      $has: if($match, $could, $has);
+    }
+  }
+
+  @return map-merge($map, ($unit: $has + $value));
+}
+
+
+// Susy Flatten
+// ------------
+/// Flatten a multidimensional list
+///
+/// @group x-utility
+/// @access private
+///
+/// @param {list} $list -
+///   The list to be flattened
+/// @return {list} -
+///   The flattened list
+///
+/// @example scss -
+///   $list: 120px (30em 30em) 120px;
+///   /* #{_susy-flatten($list)} */
+@function _susy-flatten(
+  $list
+) {
+  $flat: ();
+
+  // Don't iterate over maps
+  @if (type-of($list) == 'map') {
+    @return $list;
+  }
+
+  // Iterate over lists (or single items)
+  @each $item in $list {
+    @if (type-of($item) == 'list') {
+      $item: _susy-flatten($item);
+      $flat: join($flat, $item);
+    } @else {
+      $flat: append($flat, $item);
+    }
+  }
+
+  // Return flattened list
+  @return $flat;
+}

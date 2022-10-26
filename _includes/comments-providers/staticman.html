@@ -1,13 +1,11 @@
 {% if site.repository and site.staticman.branch %}
   <script>
     (function ($) {
-    var $comments = $('.js-comments');
-
     $('#new_comment').submit(function () {
       var form = this;
 
       $(form).addClass('disabled');
-      $('#comment-form-submit').html('<i class="fa fa-spinner fa-spin fa-fw"></i> {{ site.data.ui-text[site.locale].loading_label | default: "Loading..." }}');
+      $('#comment-form-submit').html('<i class="fas fa-spinner fa-spin fa-fw"></i> {{ site.data.ui-text[site.locale].loading_label | default: "Loading..." }}');
 
       $.ajax({
         type: $(this).attr('method'),

@@ -1,0 +1,191 @@
+/// Syntax Utilities for Extending Susy
+/// ===================================
+/// There are many steps involved
+/// when translating between the Susy syntax layer,
+/// and the Su core math.
+/// That entire process can be condensed with these two functions.
+/// For anyone that wants to access the full power of Susy,
+/// and build their own plugins, functions, or mixins –
+/// this is the primary API for compiling user input,
+/// and accessing the core math.
+///
+/// This is the same technique we use internally,
+/// to keep our API layer simple and light-weight.
+/// Every function accepts two arguments,
+/// a "shorthand" description of the span or context,
+/// and an optional settings-map to override global defaults.
+///
+/// - Use `susy-compile()` to parse, merge, and normalize
+///   all the user settings into a single map.
+/// - Then use `su-call()` to call one of the core math functions,
+///   with whatever data is needed for that function.
+///
+/// @group plugin-utils
+/// @see susy-compile
+/// @see su-call
+///
+/// @example scss - Susy API `gutter` function
+///   @function susy-gutter(
+///     $context: susy-get('columns'),
+///     $config: ()
+///   ) {
+///     // compile and normalize all user arguments and global settings
+///     $context: susy-compile($context, $config, 'context-only');
+///     // call `su-gutter` with the appropriate data
+///     @return su-call('su-gutter', $context);
+///   }
+///
+/// @example scss - Sample `span` mixin for floated grids
+///   @mixin span(
+///     $span,
+///     $config: ()
+///   ) {
+///     $context: susy-compile($span, $config);
+///     width: su-call('su-span', $context);
+///
+///     @if index($span, 'last') {
+///       float: right;
+///     } @else {
+///       float: left;
+///       margin-right: su-call('su-gutter', $context);
+///     }
+///   }
+
+
+
+// Compile
+// -------
+/// Susy's syntax layer has various moving parts,
+/// with syntax-parsing for the grid/span shorthand,
+/// and normalization for each of the resulting values.
+/// The compile function rolls this all together
+/// in a single call –
+/// for quick access from our internal API functions,
+/// or any additional functions and mixins you add to your project.
+/// Pass user input and configuration maps to the compiler,
+/// and it will hand back a map of values ready for Su.
+/// Combine this with the `su-call` function
+/// to quickly parse, normalize, and process grid calculations.
+///
+/// @group plugin-utils
+/// @see su-call
+///
+/// @param {list | map} $shorthand -
+///   Shorthand expression to define the width of the span,
+///   optionally containing:
+///   - a count, length, or column-list span;
+///   - `at $n`, `first`, or `last` location on asymmetrical grids;
+///   - `narrow`, `wide`, or `wider` for optionally spreading
+///     across adjacent gutters;
+///   - `of $n <spread>` for available grid columns
+///     and spread of the container
+///     (span counts like `of 6` are only valid
+///     in the context of symmetrical grids);
+///   - and `set-gutters $n` to override global gutter settings
+/// @param {map} $config [null] -
+///   Optional map of Susy grid configuration settings
+/// @param {bool} $context-only [false] -
+///   Allow the parser to ignore span and span-spread values,
+///   only parsing context and container-spread
+///
+/// @return {map} -
+///   Parsed and normalized map of settings,
+///   based on global and local configuration,
+///   alongwith shorthad adjustments.
+///
+/// @example scss -
+///   $user-input: 3 wide of susy-repeat(6, 120px) set-gutters 10px;
+///   $grid-data: susy-compile($user-input, $susy);
+///
+///   @each $key, $value in $grid-data {
+///     /* #{$key}: #{$value}, */
+///   }
+@function susy-compile(
+  $short,
+  $config: null,
+  $context-only: false
+) {
+  // Get and normalize config
+  $config: if($config, susy-settings($config), susy-settings());
+  $normal-config: susy-normalize($config);
+
+  // Parse and normalize shorthand
+  @if (type-of($short) != 'map') and (length($short) > 0) {
+    $short: susy-parse($short, $context-only);
+  }
+
+  $normal-short: susy-normalize($short, $normal-config);
+
+  // Merge and return
+  @return map-merge($normal-config, $normal-short);
+}
+
+
+
+// Call
+// ----
+/// The Susy parsing and normalization process
+/// results in a map of configuration settings,
+/// much like the global `$susy` settings map.
+/// In order to pass that information along to Su math functions,
+/// the proper values have to be picked out,
+/// and converted to arguments.
+///
+/// The `su-call` function streamlines that process,
+/// weeding out the unnecessary data,
+/// and passing the rest along to Su in the proper format.
+/// Combine this with `susy-compile` to quickly parse,
+/// normalize, and process grid calculations.
+///
+/// @group plugin-utils
+///
+/// @require su-span
+/// @require su-gutter
+/// @require su-slice
+/// @see susy-compile
+///
+/// @param {'su-span' | 'su-gutter' | 'su-slice'} $name -
+///   Name of the Su math function to call.
+/// @param {map} $config -
+///   Parsed and normalized map of Susy configuration settings
+///   to use for math-function arguments.
+///
+/// @return {*} -
+///   Results of the function being called.
+///
+/// @example scss -
+///   $user-input: 3 wide of susy-repeat(6, 120px) set-gutters 10px;
+///   $grid-data: susy-compile($user-input, $susy);
+///
+///   .su-span {
+///     width: su-call('su-span', $grid-data);
+///   }
+@function su-call(
+  $name,
+  $config
+) {
+  $grid-function-args: (
+    'su-span': ('span', 'columns', 'gutters', 'spread', 'container-spread', 'location'),
+    'su-gutter': ('columns', 'gutters', 'container-spread'),
+    'su-slice': ('span', 'columns', 'location'),
+  );
+
+  $args: map-get($grid-function-args, $name);
+
+  @if not $args {
+    $options: 'Try one of these: #{map-keys($grid-function-args)}';
+    @return _susy-error(
+      '#{$name} is not a public Su function. #{$options}',
+      'su-call');
+  }
+
+  $call: if(function-exists('get-function'), get-function($name), $name);
+  $output: ();
+
+  @each $arg in $args {
+    $value: map-get($config, $arg);
+    $output: if($value, map-merge($output, ($arg: $value)), $output);
+  }
+
+  @return call($call, $output...);
+}
