@@ -56,7 +56,7 @@
 
   p,
   li {
-    font-family: $sans-serif;
+    font-family: $body-font;
     font-size: $type-size-6;
     line-height: 1.5;
   }
@@ -173,7 +173,7 @@
   }
 }
 .sidebar .author__name {
-  font-family: $sans-serif;
+  font-family: $sans-font;
   font-size: $type-size-5;
 }
 
