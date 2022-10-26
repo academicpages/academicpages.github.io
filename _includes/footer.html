@@ -1,24 +1,38 @@
-{% include base_path %}
-
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-    {% if site.twitter.username %}
-      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fab fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
-    {% endif %}
-    {% if site.facebook.username %}
-      <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fab fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
-    {% endif %}
-    {% if site.author.github %}
-      <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
-    {% if site.author.bitbucket %}
-      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-    {% endif %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-  </ul>
-</div>
-
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="2299">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    li.li1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9}
+    span.s1 {font-kerning: none}
+    span.s2 {-webkit-text-stroke: 0px #000000}
+    span.s3 {text-decoration: underline ; font-kerning: none; color: #0000e9}
+    span.s4 {text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9}
+    ul.ul1 {list-style-type: disc}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">{% include base_path %}</span></p>
+<ul class="ul1">
+  <li class="li1"><span class="s2">&lt;</span><span class="s1">{% if site.data.ui-text[site.locale].follow_label %}&gt;</span></li>
+  <li class="li1"><span class="s2"><b></b></span><span class="s1">&lt;<b>{{ site.data.ui-text[site.locale].follow_label }}&gt;</b></span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">{% endif %} {% if site.twitter.username %}</span></li>
+  <li class="li2"><span class="s2"><a href="https://twitter.com/%7B%7B%20site.twitter.username%20%7D%7D"><span class="s3">Twitter</span></a></span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">{% endif %} {% if site.facebook.username %}</span></li>
+  <li class="li2"><span class="s2"><a href="https://facebook.com/%7B%7B%20site.facebook.username%20%7D%7D"><span class="s3">Facebook</span></a></span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">{% endif %} {% if site.author.github %}</span></li>
+  <li class="li2"><span class="s2"><a href="http://github.com/%7B%7B%20site.author.github%20%7D%7D"><span class="s3">GitHub</span></a></span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">{% endif %} {% if site.author.bitbucket %}</span></li>
+  <li class="li2"><span class="s2"><a href="http://bitbucket.org/%7B%7B%20site.author.bitbucket%20%7D%7D"><span class="s3">Bitbucket</span></a></span></li>
+  <li class="li1"><span class="s2"></span><span class="s1">{% endif %}</span></li>
+  <li class="li2"><span class="s2"><a href="file:///Users/pbelloni/Documents/GitHub/pietrobelloni.github.io/_includes/%7B%25%20if%20site.atom_feed.path%20%25%7D%7B%7B%20site.atom_feed.path%20%7D%7D%7B%25%20else%20%25%7D%7B%7B%20base_path%20%7D%7D/feed.xml%7B%25%20endif%20%25%7D"><span class="s3">{{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</span></a></span></li>
+</ul>
+<p class="p1"><span class="s1">© {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com/"><span class="s4">Jekyll</span></a> &amp; <a href="https://github.com/academicpages/academicpages.github.io"><span class="s4">AcademicPages</span></a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/"><span class="s4">Minimal Mistakes</span></a>.</span></p>
+</body>
+</html>
