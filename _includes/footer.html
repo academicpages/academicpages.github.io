@@ -8,31 +8,11 @@
   <meta name="CocoaVersion" content="2299">
   <style type="text/css">
     p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    li.li1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    li.li2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9}
     span.s1 {font-kerning: none}
-    span.s2 {-webkit-text-stroke: 0px #000000}
-    span.s3 {text-decoration: underline ; font-kerning: none; color: #0000e9}
-    span.s4 {text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9}
-    ul.ul1 {list-style-type: disc}
+    span.s2 {text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9}
   </style>
 </head>
 <body>
-<p class="p1"><span class="s1">{% include base_path %}</span></p>
-<ul class="ul1">
-  <li class="li1"><span class="s2">&lt;</span><span class="s1">{% if site.data.ui-text[site.locale].follow_label %}&gt;</span></li>
-  <li class="li1"><span class="s2"><b></b></span><span class="s1">&lt;<b>{{ site.data.ui-text[site.locale].follow_label }}&gt;</b></span></li>
-  <li class="li1"><span class="s2"></span><span class="s1">{% endif %} {% if site.twitter.username %}</span></li>
-  <li class="li2"><span class="s2"><a href="https://twitter.com/%7B%7B%20site.twitter.username%20%7D%7D"><span class="s3">Twitter</span></a></span></li>
-  <li class="li1"><span class="s2"></span><span class="s1">{% endif %} {% if site.facebook.username %}</span></li>
-  <li class="li2"><span class="s2"><a href="https://facebook.com/%7B%7B%20site.facebook.username%20%7D%7D"><span class="s3">Facebook</span></a></span></li>
-  <li class="li1"><span class="s2"></span><span class="s1">{% endif %} {% if site.author.github %}</span></li>
-  <li class="li2"><span class="s2"><a href="http://github.com/%7B%7B%20site.author.github%20%7D%7D"><span class="s3">GitHub</span></a></span></li>
-  <li class="li1"><span class="s2"></span><span class="s1">{% endif %} {% if site.author.bitbucket %}</span></li>
-  <li class="li2"><span class="s2"><a href="http://bitbucket.org/%7B%7B%20site.author.bitbucket%20%7D%7D"><span class="s3">Bitbucket</span></a></span></li>
-  <li class="li1"><span class="s2"></span><span class="s1">{% endif %}</span></li>
-  <li class="li2"><span class="s2"><a href="file:///Users/pbelloni/Documents/GitHub/pietrobelloni.github.io/_includes/%7B%25%20if%20site.atom_feed.path%20%25%7D%7B%7B%20site.atom_feed.path%20%7D%7D%7B%25%20else%20%25%7D%7B%7B%20base_path%20%7D%7D/feed.xml%7B%25%20endif%20%25%7D"><span class="s3">{{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</span></a></span></li>
-</ul>
-<p class="p1"><span class="s1">© {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com/"><span class="s4">Jekyll</span></a> &amp; <a href="https://github.com/academicpages/academicpages.github.io"><span class="s4">AcademicPages</span></a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/"><span class="s4">Minimal Mistakes</span></a>.</span></p>
+<p class="p1"><span class="s1">© {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com/"><span class="s2">Jekyll</span></a> &amp; <a href="https://github.com/academicpages/academicpages.github.io"><span class="s2">AcademicPages</span></a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/"><span class="s2">Minimal Mistakes</span></a>.</span></p>
 </body>
 </html>
