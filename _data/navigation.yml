@@ -9,7 +9,7 @@ main:
   - title: "Rewards"
     url: /Rewards/
 
-  - title: "Researches"
+  - title: "Projects"
     url: /Researches/
 #- title: "Resherchs"
 #    url: /Resherchs/    
@@ -28,4 +28,4 @@ main:
     
 #  - title: "Guide"
 #    url: /markdown/
- 
+  
