@@ -1,7 +1,6 @@
 ---
 permalink: /
 author_profile: true
-title: About Me
 redirect_from: 
   - /about/
   - /about.html
