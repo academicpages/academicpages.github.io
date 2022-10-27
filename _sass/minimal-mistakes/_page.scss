@@ -689,7 +689,7 @@ div.table-wrapper, table { overflow-x: auto; } //changed all overflow values to 
 
 @media screen and (max-width: 760px) { p, footer { width: 90%; }
                                        pre code { width: 87.5%; }
-                                       ul { width: 85%; }
+                                       //ul { width: 85%; } // Commened this cos it really bugs the alignment of the follow button in my iPhone 12 Pro Max
                                        figure { max-width: 90%; }
                                        figcaption, figure.fullwidth figcaption { margin-right: 0%;
                                                                                  max-width: none; }
