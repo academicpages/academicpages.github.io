@@ -17,7 +17,7 @@ author_profile: true
 **Journals**
  * <b>WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jianghong Xiao, Jieneng Chen, Tao Song, Xiaofan Zhang, Kang Li, Dimitris N. Metaxas, Guotai Wang, Shaoting Zhang<br>
-  <i><b>Medical Image Analysis, 82 (2022): 102642. (2022 IF 13.828)</b>. <br>
+  <b>Medical Image Analysis, 82 (2022): 102642. (2022 IF 13.828)</b>.<br>
   [[paper](https://www.sciencedirect.com/science/article/pii/S1361841522002705)][[code](https://github.com/HiLab-git/WORD)][[pdf](../files/WORD-MedIA2022.pdf)][[dataset](https://drive.google.com/file/d/1HcRo3WARRXa_iBdFpo_4Z2s3z7PMzLlL/view)]
    
  * <b>Semi-Supervised Medical Image Segmentation via Uncertainty Rectified Pyramid Consistency</b> <br> 
@@ -32,7 +32,7 @@ author_profile: true
   
  * <b>MIDeepSeg: Minimally Interactive Segmentation of Unseen Objects from Medical Images Using Deep Learning</b> <br> 
  <b>Xiangde Luo</b>, Guotai Wang, Tao Song, Jingyang Zhang, Michael Aertsen, Jan Deprest, Sebastien Ourselin, Tom Vercauteren, Shaoting Zhang<br>
- <b>Medical Image Analysis, 72 (2021): 102102. (2021 IF 8.545) </b>.<br>
+ <b>Medical Image Analysis, 72 (2021): 102102. (2021 IF 8.545)</b>.<br>
  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841521001481)][[code](https://github.com/Luoxd1996/MIDeepSeg)][[pdf](../files/MIDeepSeg-MedIA2021.pdf)][[demo](https://www.youtube.com/watch?v=eq-tqlJnckE)]
    
 **Conferences**
