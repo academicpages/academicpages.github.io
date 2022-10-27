@@ -45,6 +45,10 @@ Listas de Exercícios
 * Exercícios das páginas 45 e 46  do livro texto.
 * Exercícios da seção 2.2 do livro texto.
 * Exercícios 1-20 da seção 2.3 do livro texto.
+* Exercícios da seção 3.6 do livro texto.
+* Exercícios da seção 6.5 do livro texto.
+* Exercícios da seção 6.6 do livro texto.
+
 
 
 
