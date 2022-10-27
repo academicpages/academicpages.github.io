@@ -11,35 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD, Computer Science and Applications, Virginia Tech, 2020
+* MSc, Electrical and Computer engineering, Ferdowsi University, 2012
+* BSc, Electrical and Computer engineering, Shahid Beheshti University 2008
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021-2022 : Postdoctoral Associate, Virginia Tech
+    * Physics-informed machine learning for forward and inverse problems. 
+* 2019: Internship, Toyota Racing Development
+    * Predictive models based on CFD simulations.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -58,7 +42,27 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Skills
+======
+* Data analytics: 
+    * Python: (NumPy, SciPy, Scikit-learn, Tensorflow, PyTorch, Pandas, StatsModels)
+    * R (tidyverse, tidycensus)
+* Simulation, forward and inverse problems and sensitivity analysis:
+    * Matlab (Optimization, Symbolic, Deep learning, PDE)
+* High performance computing: C(OpenMP, MPI)
+* Algebra: Mathematica
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Peer Reviews:
+    * SIAM Journal on Scientific Computing (SISC) ISSN: 10957197”
+    * “International Journal of Computer Mathematics ISSN: 1029-0265”
+    * “Computing and Visualization in Science ISSN: 1432-9360”
+    * “Geo-scientific Model Development (GMD)” (Impact factor: 5.1)
+    * “International Journal for Numerical Methods in Engineering”(Impact factor: 2.7)
+    * “Journal of Applied Numerical Mathematics (APNUM)”
+    * “Journal of Computational and Applied Mathematics(JCAM)”
+    * “International Journal of Applied Mechanics (IJAM)”
+* Organization: 
+    * Mini-symposium organizer for “2021 SIAM Conference on Computational Science and Engineering” [MS35](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=69955)  / [MS92](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=69956)
