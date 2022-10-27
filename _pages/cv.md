@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-<a href= "https://cobrienudry.github.io/files/O_Brien_UdryCleo_11_02_21.pdf">CV</a>
+<a href= "https://cobrienudry.github.io/files/O_Brien_UdryCleo_10_24_22.pdf">CV</a>
