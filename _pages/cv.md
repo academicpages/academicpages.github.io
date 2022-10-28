@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * PhD, Computer Science and Applications, Virginia Tech, 2020

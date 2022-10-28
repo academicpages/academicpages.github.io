@@ -75,8 +75,8 @@ author:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
-read_more                : 'disabled' # if enabled, adds "Read more" links to excerpts
+future                   : false
+read_more                : disabled # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -143,9 +143,9 @@ analytics:
 author:
   name             : "Arash Sarshar"
   avatar           : "profile.png"
-  bio              : "PhD Computer Science and Applications"
-  location         : "Blacksburg"
-  employer         : "Virginia Tech"
+  bio              : "PhD Computer Science and Applications, Virginia Tech "
+  location         : 
+  employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=hqZ5XrUAAAAJ"
   email            : "sarshar@vt.edu"
@@ -163,7 +163,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "arashsarshar"
   orcid            : "https://orcid.org/0000-0002-6633-8915"
   pinterest        :
   soundcloud       :
