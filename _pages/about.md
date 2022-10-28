@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Hanxu Hu
+title: About me
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Research Intern in [Yue Zhang](https://frcchang.github.io)'s Group in Westlake University currently. Previously, I was a CS Master in The University of Edinburgh, and my master thesis is supervised by Prof. [Frank Keller](https://homepages.inf.ed.ac.uk/keller/). Before that, I recieved Bachelor degree in Nanjing University of Science and Technology, major in Control & Measurement.<br>
 
-My research interest is NLP, especially Multi-Modal learning and Data-to-text generation.<br>
+My research interest is NLP, especially controllable text generation and multi-modality.<br>
 
 You can view my CV [here](https://hanxuhu.github.io/files/CV_Hanxu.pdf).<br>
 
