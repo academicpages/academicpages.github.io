@@ -585,6 +585,10 @@ body {
 /*   [1] tufte-jekyll by Clay Hanson ( https://github.com/clayh53/tufte-jekyll )
 /*
 /*****************************************************************************/
+// Mathjax fonts need TLC
+.mjx-math{
+  font-size: 1rem;
+}
 // --------- Typography stuff -----------//
 // added rational line height and margins ala http://webtypography.net/intro/
 
