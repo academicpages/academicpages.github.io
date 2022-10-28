@@ -15,8 +15,10 @@ Conference Publications
 * Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss. <var>The Transportation Research Board (TRB) 102nd Annual Meeting</var>.  **Co-First author [Accepted].**
 * Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning. <var>The 23rd COTA International Conference of Transportation Professionals (CICTP2023)</var>. (rank 3rd) [Submitted]
 * The Highway Region Boundary Based on Multi-Environmental Factors. <var>The 23rd COTA International Conference of Transportation Professionals (CICTP2023)</var>. **First author**[Submitted]
+* Analysis and Prediction of Pollutant Emission Characteristics of Highway Road Areas in Key Ecological Function Zones. <var>The 23rd COTA International Conference of Transportation Professionals (CICTP2023)</var>. (rank 3rd)[Submitted]
+* Analysis of noise pollution characteristics of highway road area. <var>The 23rd COTA International Conference of Transportation Professionals (CICTP2023)</var>. (rank 3rd)[Submitted]
 
 Patent
 ======
 * Robust lane detection method through self pre-training with masked sequential auto-encoders and fine-tuning with customised PolyLoss (2022). E.U. Patent Application No. OCT-22-060. [Submitted].
-  
+   
