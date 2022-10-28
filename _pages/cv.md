@@ -18,18 +18,17 @@ Education
 Working Papers
 ======
 * ‘Dividend Taxes, Corporate Choice, and Investment: Evidence from 2015 Tax Cut in South Korea,’
-with Shawn Saeyeul Park (_Submitted to Pacific-Basin Finance Journal_)
+with Shawn Saeyeul Park (_Revise and Resubmit, Pacific-Basin Finance Journal_)
   * South Korean firms were given the choice of opting into a dividend tax cut treatment.
   * Firms expected to receive the tax cuts experienced positive stock return.
   * The treated firms increased investments, which adheres to the old view of dividend taxes.
   * The treated firms also experienced a significant decrease in cost of capital.
 
-* ‘Pre-IPO Market Trading and IPO Performance,’, with Hyun-Han Shin and Byoungmoon Joe
-(_Revise and Resubmit, Journal of Corporate Finance_)
+* ‘Pre-IPO Market Trading and IPO Performance,’, with Jiyoon Lee and Hyun-Han Shin
   * Non-listed firms in Korea can choose to trade on a pre-IPO market (pre-market).
   * Companies that traded on pre-IPO markets are less underpriced at the time of IPO.
-  * Such firms also show a superior performance in terms of stock returns.
-  * The results suggest that pre-IPO markets are resolving information asymmetry.
+  * Firms that traded on pre-markets demonstrate less return volatility _ex post_ for about 50 days.
+  * The results are robust to a matching procedure.
 
 Publications
 ======
@@ -68,4 +67,4 @@ Teaching Experience
   * Teaching Assistant, BIZ2119 Financial Management, Undergraduate (Fall 2020)
   * Residential and Teaching Assistant, UCR1013 Residential College Self-Directed Activity, Undergraduate (Fall 2015, Spring 2015)
 
-[PDF Version](https://github.com/ericsclee/ericsclee.github.io/blob/master/files/CV_220620.pdf)
+[PDF Version](https://ericsclee.github.io/CV_220620.pdf)
