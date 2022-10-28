@@ -282,8 +282,8 @@ defaults:
       classes: wide
       read_time: true
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
       mathjax: false
   # _pages
   - scope:
