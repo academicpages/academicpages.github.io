@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * M.Eng. College of Traffic and Transportation, Lanzhou Jiaotong University, 2023
-  * Overall GPA: 3.62/4.0 (15/107)
+  * Overall GPA: 3.62/4.0 
 * B.Eng. College of Traffic and Transportation, Lanzhou Jiaotong University, 2020
   * Overall GPA: 3.47/4.0 (15/290)
 
@@ -47,4 +47,4 @@ Skills
   * Revit/Auto CAD
   * ADAM
   * SPSS
-     
+      
