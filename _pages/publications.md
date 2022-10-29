@@ -10,8 +10,6 @@ author_profile: true
 | International Journal | International Conference | Domain Journal | Domain Conference |
 |:---------------------:|:------------------------:|:--------------:|:-----------------:|
 |           4           |             3            |        1       |         9         |
-|:-------------------------------------------------------------------------------------:|
-|                                        [**17**](#)                                    |
 
 ## International Journals
 ---
