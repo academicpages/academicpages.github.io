@@ -15,6 +15,7 @@ About
 
 연구실에서 저의 역할은 심층 강화학습, 대규모 MIMO, 소프트웨어 정의 라디오, 자원 할당 영역에 대한 연구 조교를 담당하고 있으며, 비공식적으로 IoT 및 ICT 시스템 개발 및 연구를 수행하고 있습니다. 대외적으로 나주에 위치한 세지중학교에서 기초 프로그래밍을 주제로 소프트웨어 개발 강사로 5개월 간 근무한 경험이 있습니다. 저의 동기부여는 음악, 디자인 그리고 저의 개발 및 연구 경험을 정리하고 공유할 수 있는 [기술 블로그](https://young-it-time.tistory.com/)와 [소프트웨어 정의 라디오 데모 채널](https://www.youtube.com/channel/UCZI9JfPn_Nk6HVkl2aAj4xA)을 운영하는 것입니다.
 
+
 <!-- I am a computer science and engineering MS student at Chosun University's Department of [Smart Networking Lab](https://sites.google.com/view/smart-networking/member) specializing in next-generation wireless networks with a keen interest in using deep reinforcement learning to optimize massive MIMO systems. My research is focused on applying deep reinforcement learning techniques to wireless resource allocation problems.
 
 Part of my role at university is being a Researching Assistant for the Deep reinforcement learning, Massive MIMO, and Resouce allocation areas. Outside of university, I also have experience as a software development tutor teaching middle school students a wide range of basic programming at Seji middle school for 5 months. My other motivations include music, design, and making [technical Blog](https://young-it-time.tistory.com/) and [SDR demo channel](https://www.youtube.com/channel/UCZI9JfPn_Nk6HVkl2aAj4xA). -->
