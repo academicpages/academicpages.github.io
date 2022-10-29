@@ -9,29 +9,26 @@ author_profile: true
 
 | International Journal | International Conference | Domain Journal | Domain Conference |
 |:---------------------:|:------------------------:|:--------------:|:-----------------:|
-|           2           |             2            |        1       |         9         |
-
-<!-- |  Affiliation              |  Year       |  Number of published papers  |
-| :-----------------------: | :---------: | :--------------------------: |
-| [Smart Networking Lab](#) | 2022        | 4                            |
-| [Smart Networking Lab](#) | 2021        | 5                            |
-| [Smart Networking Lab](#) | 2020        | 3                            | -->
-
+|           4           |             3            |        1       |         9         |
+|:-------------------------------------------------------------------------------------:|
+|                                        [**17**](#)                                    |
 
 ## International Journals
 ---
-* [**Youngwoo Oh**](#) and Wooyeol Choi, “Federated Multi-Agent Reinforcement Learning-based Joint Antenna Selection and Power Allocation for Cell-free Massive MIMO",. (working)
+* [**Youngwoo Oh**](#) and Wooyeol Choi, “Federated Multi-Agent Reinforcement Learning-based Joint Antenna Selection and Power Allocation for Cell-free Massive MIMO",. (now working)
 
-* [**Youngwoo Oh**](#), Islam Helmy, and Wooyeol Choi, “Joint Channel Estimation and Automatic Modulation Classification for Massive MIMO via Deep Learning",. (working)
+* [**Youngwoo Oh**](#), Islam Helmy, and Wooyeol Choi, “Joint Channel Estimation and Automatic Modulation Classification for Massive MIMO via Deep Learning",. (now working)
 
-* [**Youngwoo Oh**](#) and Wooyeol Choi, “Multi-Objective Deep Reinforcement Learning-based Power Allocation Method for Tradeoff Optimization in Massive MIMO Systems",. (working)
+* [**Youngwoo Oh**](#) and Wooyeol Choi, “Multi-Objective Deep Reinforcement Learning-based Power Allocation Method for Tradeoff Optimization in Massive MIMO Systems",. (now working)
 
 * Yonggang Kim, Gyungmin Kim, [**Youngwoo Oh**](#), and Wooyeol Choi, "Transmission Delay-Based Uplink Multi-User Scheduling in IEEE 802.11ax Networks", *Applied Sciences*, vol. 11, no. 19, article no. 9196, October. 2021. (IF: 2.679 / JCR 2020)
 
 
 ## International Conferences
 ---
-* [**Youngwoo Oh**](#) and Wooyeol Choi, “Real Time Localization System based on Deep Reinforcement Learning for Livestock Tracking”, *2023 IEEE International Conference on Computer Communications*, Newyork, USA, Mar. 17-20, 2023. (working)
+* [**Youngwoo Oh**](#), Islam Helmy, and Wooyeol Choi, “Capsule Neural Network-based Joint Channel Estimation and Automatic Modulation Classification for Massive MIMO Systems”, *2023 IEEE International Conference on Computer Communications*, Newyork, USA, Mar. 17-20, 2023. (now working)
+
+* [**Youngwoo Oh**](#) and Wooyeol Choi, “Real Time Localization System based on Deep Reinforcement Learning for Livestock Tracking”, *2023 IEEE International Conference on Computer Communications*, Newyork, USA, Mar. 17-20, 2023. (now working)
 
 * [**Youngwoo Oh**](#) and Wooyeol Choi, "Deep Reinforcement Learning-Based Power Allocation in Multi-Cell Massive MIMO",  *International Conference on Maritime IT Convergence*, Jeju, Republic of Korea, Sep. 22-23, 2022.
 
@@ -43,9 +40,9 @@ author_profile: true
 
 ## Domain Conferences
 ---
-* [**Youngwoo Oh**](#), Bumsu Kim and Wooyeol Choi, “Design and Implementation of Medical-ICT Convergence Healthcare-based Application”,. (working)
+* [**Youngwoo Oh**](#), Bumsu Kim and Wooyeol Choi, “Design and Implementation of Medical-ICT Convergence Healthcare-based Application”,. (now working)
 
-* [**Youngwoo Oh**](#), Hyeju Han, Minsu Park, Kwang Myung Jeon, Leem Chaejun and Wooyeol Choi, “IoT Based Real-Time Livestock Tracking System”,. (working)
+* [**Youngwoo Oh**](#), Hyeju Han, Minsu Park, Kwang Myung Jeon, Leem Chaejun and Wooyeol Choi, “IoT Based Real-Time Livestock Tracking System”,. (now working)
 
 * [**Youngwoo Oh**](#) and Wooyeol Choi, "An Actor-Critic Deep Reinforcement Learning-Based Antenna Selection for MIMO Systems", *Summer Conference of Korea Information and Communications Society*, Jeju, Republic of Korea, June. 22-24, 2022.
 
