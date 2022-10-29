@@ -1,19 +1,18 @@
 # main links links
 main:
 
-  # will be Research Projects
-  - title: "CV"
-    url: /cv/
-  
-  # will be Work Expereinces
-  - title : "Projects"
-    url : /projects/
-  # - title: "Guide"
-  #   url: /markdown/
-    
   - title: "Publications"
     url: /publications/
 
+  - title : "Projects"
+    url : /projects/
+
+  - title: "CV"
+    url: /cv/
+  
+  # - title: "Guide"
+  #   url: /markdown/
+    
   # - title: "Talks"
   #   url: /talks/    
 
