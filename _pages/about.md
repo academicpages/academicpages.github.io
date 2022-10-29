@@ -8,21 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral associate in the department of [computer science and applications](cs.vt.edu) at Virginia Tech.  My research focus is on science-guided machine learning, numerical methods for multi-physics simulations, and quantitative social science.
+I am a post-doctoral associate in the [Computer Science Department](https://cs.vt.edu) at Virginia Tech.  My research focus is on science-guided machine learning, numerical methods for multi-physics simulations, and high performance I have also interested in quantitative social science research.
 
+My PhD work was centered around efficient numerical methods for initial value problems. Most of that work has been [published](/publications) in SIAM, Elsevier and Springer journals and [presented](/talks) to the scientific computing community. 
 
-Research Interests
-======
-1.  **Scientific Machine learning**
-  * Data driven models, System identification, Neural and deep learning for physics-informed applications.
-1. **Numerical methods for forward and inverse problems**
-  * Ensemble learning, Bayesian inference, and Numerical optimization methods with applied for model order reduction, PDE-Constrained optimization and inverse problems
-1. **Quantitative Social science research**
-  * Exploratory and explanatory data analysis for chronic disease prevention intervention
-  * Quantitative social research at the intersection of online learning and Gerontology 
-1. **Time-stepping methods for PDEs**
-  * High-order time discretizations for multi-physics systems. Implicit-Explicit, variable time-stepping
-and error control strategies. Parallel and Jacobian-free methods Advanced methods for fluid
-simulations, DAEs and stiff problems
-
-
+As a post-doc I work with graduate students in [Computational Science Lab at VT](http://csl.cs.vt.edu) on various physics-informed machine learning projects. Some of the active projects involve deep neural surrogate models for forward and inverse problems, uncertainty quantification for _physics-informed neural networks (PINNs)_ and solving optimal control using PINNs. 
