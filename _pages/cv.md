@@ -15,7 +15,6 @@ redirect_from:
 * 석사, 조선대학교 컴퓨터공학과 (2023 예정)
 * Ph.D., Computer Science and Engineering, Rice university, USA (expect)
 
-
 <!-- Master thesis
 ---
 * Title : *null*
