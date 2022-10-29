@@ -13,20 +13,20 @@ author_profile: true
 
 ## International Journals
 ---
-* [**Youngwoo Oh**](#) and Wooyeol Choi, “Federated Multi-Agent Reinforcement Learning-based Joint Antenna Selection and Power Allocation for Cell-free Massive MIMO",. (now working)
+* [**Youngwoo Oh**](#) and Wooyeol Choi, “Federated Multi-Agent Reinforcement Learning-based Joint Antenna Selection and Power Allocation for Cell-free Massive MIMO",.
 
-* [**Youngwoo Oh**](#), Islam Helmy, and Wooyeol Choi, “Joint Channel Estimation and Automatic Modulation Classification for Massive MIMO via Deep Learning",. (now working)
+* [**Youngwoo Oh**](#), Islam Helmy, and Wooyeol Choi, “Joint Channel Estimation and Automatic Modulation Classification for Massive MIMO via Deep Learning",.
 
-* [**Youngwoo Oh**](#) and Wooyeol Choi, “Multi-Objective Deep Reinforcement Learning-based Power Allocation Method for Tradeoff Optimization in Massive MIMO Systems",. (now working)
+* [**Youngwoo Oh**](#) and Wooyeol Choi, “Multi-Objective Deep Reinforcement Learning-based Power Allocation Method for Tradeoff Optimization in Massive MIMO Systems",.
 
 * Yonggang Kim, Gyungmin Kim, [**Youngwoo Oh**](#), and Wooyeol Choi, "Transmission Delay-Based Uplink Multi-User Scheduling in IEEE 802.11ax Networks", *Applied Sciences*, vol. 11, no. 19, article no. 9196, October. 2021. (IF: 2.679 / JCR 2020)
 
 
 ## International Conferences
 ---
-* [**Youngwoo Oh**](#), Islam Helmy, and Wooyeol Choi, “Capsule Neural Network-based Joint Channel Estimation and Automatic Modulation Classification for Massive MIMO Systems”, *2023 IEEE International Conference on Computer Communications*, Newyork, USA, Mar. 17-20, 2023. (now working)
+* [**Youngwoo Oh**](#), Islam Helmy, and Wooyeol Choi, “Capsule Neural Network-based Joint Channel Estimation and Automatic Modulation Classification for Massive MIMO Systems”, *2023 IEEE International Conference on Computer Communications*, Newyork, USA, Mar. 17-20, 2023.
 
-* [**Youngwoo Oh**](#) and Wooyeol Choi, “Real Time Localization System based on Deep Reinforcement Learning for Livestock Tracking”, *2023 IEEE International Conference on Computer Communications*, Newyork, USA, Mar. 17-20, 2023. (now working)
+* [**Youngwoo Oh**](#) and Wooyeol Choi, “Real Time Localization System based on Deep Reinforcement Learning for Livestock Tracking”, *2023 IEEE International Conference on Computer Communications*, Newyork, USA, Mar. 17-20, 2023.
 
 * [**Youngwoo Oh**](#) and Wooyeol Choi, "Deep Reinforcement Learning-Based Power Allocation in Multi-Cell Massive MIMO",  *International Conference on Maritime IT Convergence*, Jeju, Republic of Korea, Sep. 22-23, 2022.
 
@@ -39,10 +39,10 @@ author_profile: true
 
 ## Domain Conferences
 ---
-* **오영우**, 김범수, 최우열, “의료-ICT 융합 헬스케어 기반 모바일 애플리케이션 설계 및 구현”,. (구현완료...작업중...)
+* **오영우**, 김범수, 최우열, “의료-ICT 융합 헬스케어 기반 모바일 애플리케이션 설계 및 구현”,.
 <!-- * [**Youngwoo Oh**](#), Bumsu Kim and Wooyeol Choi, “Design and Implementation of Medical-ICT Convergence Healthcare-based Application”,. (now working) -->
 
-* **오영우**, 한혜주, 박민수, 전광명, 임채준, 최우열, “Internet of Things(IoT) 기반 실시간 실내 위치 추정 시스템 설계 및 구현”,. (구현완료...작업중...)
+* **오영우**, 한혜주, 박민수, 전광명, 임채준, 최우열, “Internet of Things(IoT) 기반 실시간 실내 위치 추정 시스템 설계 및 구현”,.
 <!-- * [**Youngwoo Oh**](#), Hyeju Han, Minsu Park, Kwang Myung Jeon, Leem Chaejun and Wooyeol Choi, “IoT Based Real-Time Livestock Tracking System”,. (now working) -->
 
 * **오영우**, 최우열, "MIMO 시스템을 위한 Actor-Critic 심층강화학습 기반 안테나 선택 기법", *한국통신학회 하계종합학술대회*, 2022.06.22 - 24.
