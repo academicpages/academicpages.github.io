@@ -12,14 +12,14 @@ redirect_from:
 Education
 ---
 * B.S. in Computer Science and Engineering, Chosun University, 2022
-* M.S. in Computer Science and Engineering, Chosun University, 2023
+* M.S. in Computer Science and Engineering, Chosun University, 2023 (expected)
 
 
-Master thesis
+<!-- Master thesis
 ---
 * Title : *null*
 * Supervisors : *null*
-* Abstract : *null*
+* Abstract : *null* -->
 
 
 Research interests
@@ -34,41 +34,40 @@ Research interests
 Work experience
 ---
 * Research work
-  * Industry-University R&D and International Project Participating Graduated Student Researcher. (Mar. 2022 - Aug. 2023)
-  * Industry-University R&D and International Project Participating Undergraduated Student Researcher. (Apr. 2021 - Nov. 2021)
-  * Industry-University R&D and International Project Participating Undergraduated Student Researcher. (Apr. 2020 - Nov. 2020)
-  * Undergraduate researcher at Smart Networking Lab in Chosun University. (Sep. 2019 - Feb. 2022)
+  * 산학연 연구개발 및 국제 프로젝트 참여 연구원 (2022.03 - 2022.08)
+  * 산학연 연구개발 및 국제 프로젝트 참여 학부 연구원 (2021.04 - 2021.11)
+  * 산학연 연구개발 및 국제 프로젝트 참여 학부 연구원 (2020.04 - 2020.11)
+  * 조선대학교 스마트네트워킹 연구실 학부 연구원 (2019.09 - 2022.02)
 
 * Development and personal work
-  * Development of Multiple Access Wireless Technology in AR/VR medical clinical program, HT CORE. (Oct.2022 - Dec.2022)
-  * Participated as a Presenter in The 14th Workshop on Convergent and Smart Media System (CSMS). (Sep. 16-18, 2022)
-  * Participated as a Mentor in The Student Mentor/Mentee Program at Chosun University. (Sep.2022 - Dec.2022)
-  * Development of Application for Healthcare Purposes Based on Multi-Sensors, KAIST. (Aug.2022 - Oct.2022)
-  * Participated as an assistant in the NHN backend developer training course, NHN. (Aug.2022 - Feb.2023)
-  * Development of  Real-Time Location System (RTLS) Framework, Intflow (Inc). (Apr. 21 - Aug. 2022)
-  * Participated in Gwangju/Jeonnam University Student AI Idea Contest, GJ RIP. (Award of Excellence, Mar. 18-25, 2022)
-  * Participated in The 2021 Chosun University IT Festival. (Award of Silver, Nov. 26, 2021)
-  * Development of Application for  MG electricity payment terminal, Encored P&P (Inc). (Oct. 18-31, 2021)​
-  * Participated as a Mentee in The Student Mentor/Mentee Program at Chosun University. (Sep.2021 - Dec.2021)
-  * The Team Leader of Capstone Designs 1, and 2 Group Projects in The IoT Track. (Mar.2021 - Dec.2021)
-  * Experiment & Verification Assistant, Intflow (Inc). (Dec. 2020-Feb. 2021)​
-  * SW Education Instructor at Seji Middle School in Naju, Korea. (Mar. 2020 – Jul. 2020)
-  * Regional Development Convergence Contest in Mokpo, Korea. (Grand Prize Award, Jan. 29-31, 2020)​
-  * Participated in SW Education Instructor Training Course, supported by KEPCO-KDN, Chosun University. (Nov. 11-21, 2019)​
+  * AR/VR 의료 임상 프로그램을 위한 다중 접속 무선 기술 개발, HT CORE(inc.). (2022.10 - 2022.12)
+  <!-- * 조선대학교 학생멘토/멘티 프로그램 참여. (2022.09 - 2022.12) -->
+  * RF430FRL15xH NFC 기반 Medical-ICT 융합 모바일 애플리케이션 설계 및 개발, KAIST(univ.). (2022.08 - 2022.10)
+  * 조선대-NHN 아카데미 백엔드 과정 수업 조교. (2022.08 - 2023.02)
+  * 다중 게이트웨이 및 비컨을 활용한 실시간 위치 추정 시스템 설계 및 구현, Intflow(inc.). (2022.04 - 2022.08)
+  * 광주/전남 학생 AI 아이디어 공모전, GJ RIP. (우수상, 2022.03.18 - 25)
+  * 조선대학교 2021 IT 페스티벌. (은상, 2021.11.26)
+  * 개발도상국을 위한 전력 선불 거래 전용 모바일 애플리케이션 설계 및 구현, Encored P&P(inc.). (Oct. 18-31, 2021)​
+  <!-- * 조선대학교 학생멘토/멘티 프로그램 참여. (2021.09 - 2021.12) -->
+  * 딥러닝 기반 비접촉 발열 측정 시스템 실험 및 검증 지원, Intflow(inc.). (2020.12 - 2021.02)
+  * 소프트웨어 교육 강사, 나주 세지중학교. (2020.03 - 2020.07)
+  * 지역 개발 융합대회, 대학교 산학협력단 연합. (최우수상, 2020.01.29 - 31)
+  * 소프트웨어 강사 양성 과정 참여, 조선대학교 - 한전 KDN. (2019.11.11-21)
   
 
 Skills
 ---
-* Computing and programming skills
-  * Implementation of real-time program based on IoT and ICT equipment (RTLS, ICT Application)
-  * Implementation of wireless communication testbed based on SDR (Relay network, MIMO)
-  * Mastery of various programming languages (LabVIEW, Matlab, Python, Java)
-  * Conducting deep learning-based solution research (Resource allocation)
-* Communication and collaboration skills
-  * English communication skills through lab life with global members for 4 years (Post doc., Ph.D, MS, BS)
-  * Participated in collaborative projects between undergraduate, or Ph.D. students
-  * Managements of capstone projects and collaborative projects
-* Visualization and presentation skills
-  * Oral presentations at various conferences such as workshops
-  * Received the Best Paper Award at The Korean Institute of Communications and Information Sciences
-  * Submission of a lot of proposals and preparation of funding documents
+* 프로그래밍
+  * RTLS 및 IoT, ICT와 같은 실시간 프로그램 구현 능력
+  * 소프트웨어 정의 라디오 기반 MIMO, 다중 홉 릴레이 네트워크 구현 능력
+  * 다양한 프로그래밍 플랫폼 및 언어 활용 능력 (LabVIEW, Matlab, Python, Java, Oracle, SQLite, Flask, etc..)
+  * 딥러닝 기반의 문제 접근 및 해결 능력
+
+* 협업 및 의사소통
+  * 4년 간 글로벌 멤버로 구성된 연구실에서의 활동 및 협업 프로젝트 진행
+  * 학부연구생 및 박사과정 학생들과의 다수 협업 프로젝트 참여 및 관리 경험
+  * IoT 캡스톤 프로젝트 및 여러 프로젝트 수행 간 팀장 역할을 수행하였으며, 다수의 수상 이력
+
+* 발표 및 시각화
+  * 워크샵, 학술대회, 세미나 등의 발표 활동 다수 진행
+  * 교수님들과의 다수의 사업 및 연구 제안서 작업을 통한 문서화 및 시각화 능력
