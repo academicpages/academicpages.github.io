@@ -11,9 +11,9 @@ redirect_from:
 
 교육
 ---
-* 학부, 조선대학교 컴퓨터공학과 (2022)
+* 학사, 조선대학교 컴퓨터공학과 (2022)
 * 석사, 조선대학교 컴퓨터공학과 (2023 예정)
-* Ph.D, Computer and Science, Rice university, Texas, USA (expect)
+* Ph.D., Computer Science and Engineering, Rice university, USA (expect)
 
 
 <!-- Master thesis
