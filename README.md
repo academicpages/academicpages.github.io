@@ -50,4 +50,5 @@ To support this, all changes to the underlying code appear as a closed issue wit
 Credit and acknowledgment
 ### 
 
-The template was modified using instructions and code from [jayrobwilliams](https://jayrobwilliams.github.io/) and [DrSGBhat](DrSGBhat.github.io)
+This template was modified using instructions and code from [jayrobwilliams](https://jayrobwilliams.github.io/), [DrSGBhat](https://DrSGBhat.github.io), and [anebz](
+https://anebz.github.io). My gratitude towards them and all the [academicpages](https://academicpages.github.io) community.
