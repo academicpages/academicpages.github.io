@@ -10,7 +10,7 @@
  *  </div>
  */
 
-@mixin notice($notice-color) {
+ @mixin notice($notice-color) {
   margin: 2em 0 !important;  /* override*/
   padding: 1em;
   font-family: $global-font-family;
