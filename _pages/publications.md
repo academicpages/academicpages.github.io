@@ -30,7 +30,7 @@ author_profile: true
 ## International Journals
 ---
 * [**Youngwoo Oh**](#) and Wooyeol Choi, “Federated Multi-Agent Reinforcement Learning-based Joint Antenna Selection and Power Allocation for Cell-free Massive MIMO",.
-[this](#Buttons){: .btn--research}
+
 * [**Youngwoo Oh**](#), Islam Helmy, and Wooyeol Choi, “Joint Channel Estimation and Automatic Modulation Classification for Massive MIMO via Deep Learning",.
 
 * [**Youngwoo Oh**](#) and Wooyeol Choi, “Multi-Objective Deep Reinforcement Learning-based Power Allocation Method for Tradeoff Optimization in Massive MIMO Systems",.
