@@ -11,6 +11,22 @@ author_profile: true
 |:---------------------:|:------------------------:|:--------------:|:-----------------:|
 |           4           |             3            |        1       |         9         |
 
+
+
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<sup>*</sup> Equal authorship
+
+
+
 ## International Journals
 ---
 * [**Youngwoo Oh**](#) and Wooyeol Choi, “Federated Multi-Agent Reinforcement Learning-based Joint Antenna Selection and Power Allocation for Cell-free Massive MIMO",.
