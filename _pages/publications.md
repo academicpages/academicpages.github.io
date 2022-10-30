@@ -5,14 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- ## Summary
-
-| International Journal | International Conference | Domain Journal | Domain Conference |
-|:---------------------:|:------------------------:|:--------------:|:-----------------:|
-|           4           |             3            |        1       |         9         | -->
-
-
-
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -22,6 +14,14 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+
+<!-- ## Summary
+
+| International Journal | International Conference | Domain Journal | Domain Conference |
+|:---------------------:|:------------------------:|:--------------:|:-----------------:|
+|           4           |             3            |        1       |         9         | -->
 
 
 <!-- ## International Journals
