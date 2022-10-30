@@ -24,7 +24,7 @@ author_profile: true
 {% endfor %}
 
 
-## International Journals
+<!-- ## International Journals
 ---
 * [**Youngwoo Oh**](#) and Wooyeol Choi, “Federated Multi-Agent Reinforcement Learning-based Joint Antenna Selection and Power Allocation for Cell-free Massive MIMO",.
 
@@ -76,7 +76,7 @@ author_profile: true
 * **오영우**, 김준수, 박시웅, 최우열, "소프트웨어 정의 라디오 테스트베드 기반 다중 홉 릴레이 네트워크 설계", *대한전자공학회 하계학술대회*, 2020.08.19 - 21.​
 <!-- * [**Youngwoo Oh**](#), Junsu Kim, Siwoong Park, and Wooyeol Choi, "Design and Implementation of Multi-hop Relay Network Based on Software-Defined Radio Testbed", *Summer Annual Conference of IEIE*, Jeju, Republic of Korea, August. 19-21, 2020.​ -->
 
-* **오영우**, 최우열, "소프트웨어 정의 라디오 테스트베드 기반 노이즈 필터 성능 분석", *한국스마트미디어학회 춘계학술대회*, 2020.05.22 - 23.
+* **오영우**, 최우열, "소프트웨어 정의 라디오 테스트베드 기반 노이즈 필터 성능 분석", *한국스마트미디어학회 춘계학술대회*, 2020.05.22 - 23. -->
 <!-- * [**Youngwoo Oh**](#) and Wooyeol Choi, "Performance Analysis of Noise Filter Based on Software-Defined Radio Testbed", *Spring Conference of Korea Institute of Smart Media*, Gwangju, Republic of Korea, May 22-23, 2020. -->
 
 <!-- {% if author.googlescholar %}
