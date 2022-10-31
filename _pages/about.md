@@ -17,7 +17,7 @@ Email: wang dot dian at northeastern dot edu
 
 ## Publication
 
-![](images/haojie_icra23.png){: .align-right width="200px"}
+![](images/mingxi_icra23.png){: .align-right width="200px"}
 **SEIL: Simulation-augmented Equivariant Imitation Learning**  
 Mingxi Jia\*, **Dian Wang\***, Guanang Su, David Klee, Xupeng Zhu, Robin Walters, Robert Platt  
 \* Equal Contribution  
