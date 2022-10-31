@@ -17,6 +17,23 @@ Email: wang dot dian at northeastern dot edu
 
 ## Publication
 
+![](images/haojie_icra23.png){: .align-right width="200px"}
+**SEIL: Simulation-augmented Equivariant Imitation Learning**  
+Mingxi Jia\*, **Dian Wang\***, Guanang Su, David Klee, Xupeng Zhu, Robin Walters, Robert Platt  
+\* Equal Contribution  
+*Preprint*  
+[(Webpage)](https://saulbatman.github.io/project/seil/)
+` `  
+` `  
+
+![](images/haojie_icra23.png){: .align-right width="200px"}
+**Edge Grasp Network: Graph-Based SE(3)-invariant Approach to Grasp Detection**  
+Haojie Huang, **Dian Wang**, Xupeng Zhu, Robin Walters, Robert Platt  
+*Preprint*  
+[(Webpage)](https://haojhuang.github.io/edge_grasp_page/)
+` `  
+` `  
+
 ![](images/rss22.png){: .align-right width="200px"}
 **On-Robot Learning With Equivariant Models**  
 **Dian Wang**, Mingxi Jia, Xupeng Zhu, Robin Walters, Robert Platt  
