@@ -101,7 +101,7 @@ author:
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  lastfm           : "erickmartins"
   linkedin         :
   orcid            : "http://orcid.org/0000-0002-7545-3675"
   pinterest        :
@@ -115,6 +115,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  mastodon         : "https://idlethumbs.social/@ratamero"
+  cohost           : "https://cohost.org/ratamero"
 
 
 # Reading Files
