@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<img src="/images/moher.jpeg"/>
+
 blablabla
 
 {% if author.googlescholar %}
