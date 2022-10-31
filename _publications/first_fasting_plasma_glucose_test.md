@@ -3,7 +3,7 @@ title: "Can the first fasting plasma glucose test in pregnancy predict subsequen
 collection: publications
 permalink:
 excerpt: ''
-date: 2021-04-11
+date: 2022-04-11
 venue: 'International Journal of Endocrinology'
 paperurl: 'https://doi.org/10.1155/2022/9633664'
 citation: 'S. Burlina, M. G. Dalfrà, P. Belloni, S. Ottanelli, F. Mecacci, G. Mello, A. Lapolla. Can the First Fasting Plasma Glucose Test in Pregnancy Predict Subsequent Gestational Complications? International Journal of Endocrinology (2022).'
