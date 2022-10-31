@@ -11,4 +11,4 @@ redirect_from:
 
 You can find my curriculum vitae [here](https://kl4805.github.io/files/Curriculum_Vitae.pdf). 
 
-(Latest Update July 2022)
+(Latest Update October 2022)
