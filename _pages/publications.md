@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 <img src="/images/moher.jpg"/>
-
-blablabla
+Cliffs of Moher, September 2019 (pic by me).
 
 {% if author.googlescholar %} You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u> {% endif %}
 
