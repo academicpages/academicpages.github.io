@@ -1,5 +1,5 @@
 ---
-title: "Staging Cancer Through Text Mining of Pathology Records"
+title: "Staging cancer through text mining of pathology records"
 collection: publications
 permalink:
 excerpt: ''
