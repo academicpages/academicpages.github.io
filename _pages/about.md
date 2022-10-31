@@ -22,6 +22,8 @@ You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.e
 
 News
 ======
+\[October 2022\] Recognized as a **Top Reviewer** of NeurIPS 2022!
+
 \[July 2022\] Invited to serve as Reviewer (Program Committee Member) for **AAAI 2023** and **ICLR 2023**. 
 
 \[July 2022\] Recognized as an **Outstanding Reviewer** (Top 10%) of ICML 2022!
