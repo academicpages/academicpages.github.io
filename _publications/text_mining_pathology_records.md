@@ -2,7 +2,7 @@
 title: "Staging Cancer Through Text Mining of Pathology Records"
 collection: publications
 permalink: /publication/text_mining_pathology_records
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2020-11-29
 venue: 'Studies in Classification, Data Analysis, and Knowledge Organization'
 paperurl: 'https://doi.org/10.1007/978-3-030-51222-4_4'
