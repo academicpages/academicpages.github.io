@@ -1,16 +1,15 @@
 ---
-title: "Staging Cancer Through Text Mining of Pathology Records"
+title: "Paper Title Number 1"
 collection: publications
-permalink: /publication/text_mining_pathology_records
-excerpt: ''
-date: 2020-11-26
-venue: 'Studies in Classification, Data Analysis, and Knowledge Organization'
-paperurl: ''
-citation: P. Belloni, G. Boccuzzo, S. Guzzinati, I. Italiano, C. R. Rossi, M. Rugge, M. Zorzi. Staging Cancer Through Text Mining of Pathology Records. In: Mariani P., Zenga M. (eds) Studies in Classification, Data Analysis, and Knowledge Organization. Springer, Cham (2019).
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-# 
-# Staging Cancer Through Text Mining of Pathology Records
-# 
-# [P. Belloni]{.underline}, G. Boccuzzo, S. Guzzinati, I. Italiano, C. R. Rossi, M. Rugge, M. Zorzi. **Staging Cancer Through Text Mining of Pathology Records**. In: Mariani P., Zenga M. (eds) *Studies in Classification, Data Analysis, and Knowledge Organization*. Springer, Cham (2019).
-# 
-# Abstract: Valuable information is stored in a healthcare record system and over 40% of it is estimated to be unstructured in the form of free clinical text. A collection of pathology records is provided by the Veneto Cancer Registry: these medical records refer to cases of melanoma and contain free text, in particular, the diagnosis. The aim of this research is to extract from the free text the size of the primary tumor, the involvement of lymph nodes, the presence of metastasis, and the cancer stage of the tumor. This goal is achieved with text mining techniques based on a supervised statistical approach. Since the procedure of information extraction from a free text can be traced back to a statistical classification problem, we apply several machine learning models in order to extract the variables mentioned above from the text. A gold standard for these variables is available: the clinical records have already been assessed case-by-case by an expert. The most efficient of the estimated models is the gradient boosting. Despite the good performance of gradient boosting, the classification error is not low enough to allow this kind of text mining procedures to be used in a Cancer Registry as it is proposed.
+This paper is about the number 1. The number 2 is left for future work.
+
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
