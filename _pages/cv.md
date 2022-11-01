@@ -56,8 +56,8 @@ by me).
 
 # Skills
 
--   **Professional**
-    **Theoretical** and applied statistics (focused on clinical data
+-   **Professional**\
+    Theoretical and applied statistics (focused on clinical data
     analysis), Data Mining & Machine Learning, Epidemiology, Text Mining
     & Sentiment Analysis, Survival Analysis, Time Series, Bayesian
     Analysis.
@@ -73,3 +73,8 @@ by me).
     Machine learning libraries: **Keras**, **TensorFlow**, **Thorch**
     (*basic skills*)\
     Version control: **GitHub** (*usual user*)
+
+-   **Languages\
+    Italian**: mother tongue\
+    **English**: fluent (Listening: C1; Reading: C1; Speaking: C1;
+    Writing: B2)
