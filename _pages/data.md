@@ -1,6 +1,7 @@
 ---
 permalink: /data/
 title: "Data"
+excerpt: "datasets that I find relevant to climate science"
 author_profile: true
 
 ---
