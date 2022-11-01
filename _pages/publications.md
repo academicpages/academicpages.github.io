@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Publications
+Manuscripts
 ======
 1. **Wang, S.**, Ummenhofer, C.C., Oppo, D., (2022) Freshwater contributions to decadal variability of the Indonesian Throughflow (in prep)
 2. Zhou, Y., McManus, J. F., Jacobel, A. W., Costa, K. M., **Wang, S.**, & Caraveo, B. A. (2021). Enhanced iceberg discharge in the western North Atlantic during all Heinrich events of the last glaciation. Earth and Planetary Science Letters, 564, 116910. [Reprint](https://www.sciencedirect.com/science/article/abs/pii/S0012821X21001692)
