@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Working Paper
+
+
+* [SurCo: Learning Linear Surrogates For Combinatorial Nonlinear Optimization Problems](https://arxiv.org/pdf/2210.12547.pdf).                     
+   Aaron Ferber, **Taoan Huang**, Daochen Zha, Martin Schubert, Benoit Steiner, Bistra Dilkina, Yuandong Tian.    
+
 ## 2022
 
 * [Deadline-Aware Multi-Agent Tour Planning](https://hsi-workshop.github.io/hsi-2022-camera-ready/Deadline-Aware_Multi-Agent_Tour_Planning.pdf).                     
