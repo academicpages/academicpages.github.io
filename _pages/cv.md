@@ -66,4 +66,10 @@ by me).
     **R**: data wrangling, statistical modeling, data mining & machine
     learning, package development, data visualization (*advanced
     skills*)\
-    **Python**, **SAS**: statistical modeling (*basic skills*)
+    **Python**, **SAS**: statistical modeling (*basic skills*)\
+    **MS Office Suite** (*advanced user*)\
+    **Latex**, **Markdown**: documents creation and editing (*proficient
+    skills*)\
+    Machine learning libraries: **Keras**, **TensorFlow**, **Thorch**
+    (*basic skills*)\
+    Version control: **GitHub** (*usual user*)
