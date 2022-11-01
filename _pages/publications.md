@@ -3,14 +3,13 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+This is a page not in the menu. You can use markdown in this page.
 
-{% include base_path %}
+Heading 1
+======
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Heading 2
+======
