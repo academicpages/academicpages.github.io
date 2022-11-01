@@ -11,7 +11,7 @@ redirect_from:
 I am a PhD student in Natural Language Pocessing at the NLP lab of Bar Ilan University, supervised by Prof. Ido Dagan and Prof. Reut Tsarfaty.
 Previously I did a research internship at Google, obtained an MSc from the University of Edinburgh and a BA from the University of Zurich. Currently, I'm interning at the [AI2 Mosaic team](https://mosaic.allenai.org/people) in Seattle.
 
-My research focuses on *discourse* phenomena and *pragmatics*. Often I use QA representations to capture propositions and once in a while I look at the modality of events.
+My research focuses on *discourse* phenomena and *pragmatics*. My main interest currently lies in question generation. I also often use QA representations to capture propositions and once in a while I look at the modality of events.
 
 I am co-organizing [the Second Workshop on Understanding Implicit and Underspecified Language](https://unimplicit2022.github.io/), collocated with NAACL-2022 in Seattle.
 
