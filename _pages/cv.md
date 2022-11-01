@@ -5,55 +5,26 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+-   **10/2019 - 01/2023 (expected), University of Padua (Italy)**
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+    [PhD student]{.underline} in Statistics. Research topic: statistical
+    methods for pharmacoepidemiology (supervisor: Prof. G. Boccuzzo,
+    co-supervisor: Prof. N. Tatonetti).
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+-   **02/2022 - 08/2022, Columbia University (New York, USA)**
+
+    [Visiting period]{.underline} at the Department of Biomedical
+    Informatics, [Tatonetti's lab](https://tatonettilab.org/).
+
+-   **10/2016 - 03/2019, University of Padua (Italy)**
+    [Master's Degree]{.underline} in Statistical Sciences. Advanced
+    skills in theoretical and applied statistics and data science.
