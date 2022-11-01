@@ -17,6 +17,10 @@ author_profile: true
 
 # Publications
 
+
+### *Just-DREAM-about-it: Figurative Language Understanding with DREAM-FLUTE.*
+Gu, Yuling, Yao Fu, <ins>Valentina Pyatkin</ins>, Ian H. Magnusson, Bhavana Dalvi and Peter Clark. In Proceedings of the Workshop on Figurative Language Processing at EMNLP 2022.
+
 ### *QASem Parsing: Text-to-text Modeling of QA-based Semantics*
 Ayal Klein, Eran Hirsch, Ron Eliav, <ins>Valentina Pyatkin</ins>, Avi Caciularu, Ido Dagan.
 In EMNLP 2022.
