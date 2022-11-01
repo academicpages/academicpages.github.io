@@ -18,6 +18,7 @@ I am co-organizing [the Second Workshop on Understanding Implicit and Underspeci
 Besides this I love going to the "cinemathèque" and on hikes with my friends. My Erdős number is 3.
 
 ### News
+* November 2022: AI2 Hackathon [Paper](https://arxiv.org/pdf/2210.16407.pdf) accepted at Workshop on Figurative Language Processing at EMNLP 2022.
 * October 2022: [Paper](https://arxiv.org/pdf/2205.11413.pdf) accepted at EMNLP 2022.
 * September 2022: [Paper](https://arxiv.org/pdf/2106.14321.pdf) accepted to TACL.
 * July 2022: Co-organized the UnImplicit workshop at NAACL-2022.
