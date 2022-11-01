@@ -18,16 +18,12 @@ Education
 Research Experience
 ======
 * Woods Hole Oceanographic Institution (2019-Present)
-  * Graduate Research Assistant
   * Advisors: Caroline Ummenhofer, Delia Oppo
 * Columbia University, Lamont Doherty Earth Observatory (2017-2019)
-  * Research Assistant
   * Advisors: Jerry McManus, Robert Anderson
 * L'Oreal Research and Development (2017)
-  * Research Intern
   * Advisor: Heather Lee
 * Columbia University, Department of Earth and Environmental Engineering (2015-2016)
-  * Undergraduate Research Assistant
   * Advisor: Irina Chernyshova
   
 Teaching Experience
