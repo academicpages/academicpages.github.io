@@ -12,8 +12,8 @@ editor_options:
 
 {% include base_path %}
 
-<img src="/images/bigsur.jpeg"/>
-Big Sur, California - August 2022 (pic by me).
+<img src="/images/bigsur.jpeg"/> Big Sur, California - August 2022 (pic
+by me).
 
 # Education
 
@@ -53,3 +53,17 @@ Big Sur, California - August 2022 (pic by me).
     **Statistician fellow** at the Diabetology Department. Research
     project 'Statistical Evaluations of the Diabetes Screening'
     (supervisor: Prof. A. Lapolla).
+
+# Skills
+
+-   **Professional\
+    **Theoretical and applied statistics (focused on clinical data
+    analysis), Data Mining & Machine Learning, Epidemiology, Text Mining
+    & Sentiment Analysis, Survival Analysis, Time Series, Bayesian
+    Analysis.
+
+-   **Program languages and softwares**\
+    **R**: data wrangling, statistical modeling, data mining & machine
+    learning, package development, data visualization (*advanced
+    skills*)\
+    **Python**, **SAS**: statistical modeling (*basic skills*)
