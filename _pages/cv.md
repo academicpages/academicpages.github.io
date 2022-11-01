@@ -48,5 +48,5 @@ editor_options:
 
 -   **11/2018 - 01/2019, Regional Healthcare System, Padua (Italy)**\
     **Statistician fellow** at the Diabetology Department. Research
-    project "Statistical Evaluations of the Diabetes Screening""
+    project 'Statistical Evaluations of the Diabetes Screening'
     (supervisor: Prof. A. Lapolla).
