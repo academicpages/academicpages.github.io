@@ -12,6 +12,9 @@ editor_options:
 
 {% include base_path %}
 
+<img src="/images/bigsur.jpeg"/>
+Big Sur, California - August 2022 (pic by me).
+
 # Education
 
 -   **10/2019 - 01/2023 (expected), University of Padua (Italy)\
