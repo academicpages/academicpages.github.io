@@ -65,6 +65,7 @@ Aulas
 
 * [Condicionamento de um Sistema](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/aula16.pdf)
 
+* [Método de Taylor de Ordem q](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/aula21.pdf)
 
 Trabalhos
 =======
@@ -100,3 +101,5 @@ Notebooks
 * [Mal-condicionamento de uma Matriz](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/eliminacao-mal-condicionamento.ipynb)
 
 * [Método de Jacobi](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/gauss_jacobi2.ipynb)
+
+* [Método de Taylor de ordem q](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/taylor_q.ipynb)
