@@ -56,8 +56,8 @@ by me).
 
 # Skills
 
--   **Professional\
-    **Theoretical and applied statistics (focused on clinical data
+-   **Professional**
+    **Theoretical** and applied statistics (focused on clinical data
     analysis), Data Mining & Machine Learning, Epidemiology, Text Mining
     & Sentiment Analysis, Survival Analysis, Time Series, Bayesian
     Analysis.
