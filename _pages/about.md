@@ -74,9 +74,9 @@ I am an alcoholist, I like the following types of alcohol.
 
 - Whiskey. For single malts, I like **Talisker and Lagavulin**. For blended, **Johnnie Walker Double Black** is worth a try. 
 
-- Bourbon. I have only tried **Maker's Mark** and I found it charming.
+- Bourbon. I have only tried **Maker's Mark** and I found it charming. Recently I tried **Wild Turkey 101**. I found it more straight and less mild than Maker's Mark, but still interesting. 
 
-- Gin. The taste of Gin is a highly personalized matter. I enjoy **The Botanists**. 
+- Gin. The taste of Gin is a highly personalized matter. I would recommend **the Botanists** and **Monkey 47**. 
 
 An image demonstrating genres of single malt scotch is [here](http://kl4805.github.io/files/Whiskey.jpeg).
 
