@@ -22,7 +22,7 @@ Email: wang dot dian at northeastern dot edu
 Mingxi Jia\*, **Dian Wang\***, Guanang Su, David Klee, Xupeng Zhu, Robin Walters, Robert Platt  
 \* Equal Contribution  
 *Preprint*  
-[(Webpage)](https://saulbatman.github.io/project/seil/)
+[(Webpage)](https://saulbatman.github.io/project/seil/)[(PDF)](https://arxiv.org/pdf/2211.00194.pdf)[(Video)](https://www.youtube.com/watch?v=UHUmq-cOMh4)
 ` `  
 ` `  
 
