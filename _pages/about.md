@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-{%Wenlin Han%} is currently an associate professor (with early tenure and promotion), with [the Department of Computer Science, California State University, Fullerton, USA.](https://www.fullerton.edu/ecs/cs/faculty/) 
+Wenlin Han is currently an associate professor (with early tenure and promotion), with [the Department of Computer Science, California State University, Fullerton, USA.](https://www.fullerton.edu/ecs/cs/faculty/) 
 
 She is the director of [Tuffyverse Lab](https://tuffyverse.com/tuffyverse-lab), a multi-disciplinary research team on Metaverse.
 
@@ -16,7 +16,7 @@ She is a voting member of IEEE Blockchain Standard.
 
 She is a receipient of Unity & Meta Create with VR Award.
 
-Chinese name: {%韩文琳%}
+Chinese name: 韩文琳
 
 More
 ======
