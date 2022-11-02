@@ -8,16 +8,18 @@
   <meta name="CocoaVersion" content="2299">
   <style type="text/css">
     p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
-    p.p2 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000}
+    p.p3 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9}
+    p.p4 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
     span.s1 {font-kerning: none}
     span.s2 {text-decoration: underline ; font-kerning: none}
   </style>
 </head>
 <body>
-<p class="p1"><span class="s1">--- layout: archive title: "Talks and presentations"<span class="Apple-converted-space"> </span></span></p>
-<p class="p1"><span class="s1">permalink: /talks/ author_profile: true --- {% if site.talkmap_link == true %}</span></p>
-<p class="p1"><span class="s1">&lt;img src="/images/dolomites.jpeg"/&gt; Dolomites, Italy - October 2022 (pic by me).</span></p>
-<p class="p2"><span class="s2"><a href="file:///talkmap.html">See a map of all the places I've given a talk!</a></span></p>
-<p class="p1"><span class="s1">{% endif %} {% for post in site.talks reversed %} {% include archive-single-talk.html %} {% endfor %}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">--- layout: archive title: "Talks and presentations" permalink: /talks/ author_profile: true ---</span></p>
+<p class="p2"><span class="s1">&lt;img src="/images/dolomites.jpeg"/&gt; Dolomites, Italy - October 2022 (pic by me).</span></p>
+<p class="p1"><span class="s1">{% if site.talkmap_link == true %}</span></p>
+<p class="p3"><span class="s2"><a href="file:///talkmap.html">See a map of all the places I've given a talk!</a></span></p>
+<p class="p4"><span class="s1">{% endif %} {% for post in site.talks reversed %} {% include archive-single-talk.html %} {% endfor %}<span class="Apple-converted-space"> </span></span></p>
 </body>
 </html>
