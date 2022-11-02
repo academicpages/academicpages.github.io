@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Photography portfolio"
+excerpt: "<br/><img src='/images/portfolio/screenshot_adlns.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project is a personal portfolio with my photography. 
+It is built with Hugo and hosted on Netlify. 
+
+The theme is based on [Bootstrapious](http://bootstrapious.com/) theme by Kishan B. 
+
+The theme is modified to fit my needs and licensed under the [MIT license](https://opensource.org/licenses/MIT), you can check the [original theme license](https://bootstrapious.com/p/creative-portfolio). 
