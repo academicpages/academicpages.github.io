@@ -10,7 +10,7 @@ author_profile: true
 ## Duke University
 *(Graduate Teaching Assistant)*
 
-- ECE 685D: Introduction to Deep Learning (Upcoming, Fall 2022)
+- ECE 685D: Introduction to Deep Learning (Fall 2022)
   - Professor Vahid Tarokh
 
 ## The University of North Carolina at Chapel Hill
