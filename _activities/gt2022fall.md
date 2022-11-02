@@ -19,7 +19,8 @@ author_profile: false
  | Thu, 2022-10-20 | 1:30pm - 2:30pm | Daniel Stern | Existence of harmonic maps in higher dimensions and applications | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-10-27 | 1:30pm - 2:30pm | Ao Sun | Generic Mean Curvature Flow with Cylindrical Singularities | Vincent 215 | 
  | Thu, 2022-11-03 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
- | Thu, 2022-11-10 | 1:30pm - 2:30pm | Nick Edelen |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
+ | Thu, 2022-11-10 | 1:30pm - 2:30pm | Nick Edelen | A strong maximum principle for minimizers of the one-phase Bernoulli problem
+ | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-11-17 | 1:30pm - 2:30pm | Beomjun Choi |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-11-24 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-12-01 | 1:30pm - 2:30pm | Matthew Stoffregen |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
@@ -49,3 +50,5 @@ author_profile: false
 * Ao Sun
   * We study the local and global dynamics of mean curvature flow with cylindrical singularities. We find the most generic dynamic behavior of such singularities, and show that the singularities with the most generic dynamic behavior are robust. We also show that the most generic singularities are isolated and type-I. Among applications, we prove that the singular set structure of the generic mean convex mean curvature flow has certain patterns, and the level set flow starting from a generic mean convex hypersurface has low regularity. This is joint work with Jinxin Xue (Tsinghua University).
 
+* Nick Edelen
+  * We prove a strong maximum principle for minimizers of the one-phase Alt-Caffarelli functional. We use this to construct a Hardt-Simon-type foliation associated to any 1-homogenous global minimizer.
