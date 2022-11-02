@@ -9,7 +9,8 @@
 locale                   : "en-US"
 title                    : "Dr. Wenlin Han's Personal Website"
 title_separator          : "-"
-name                     : &name "Wenlin Han" &name "韩文琳"
+name                     : &name "Wenlin Han" 
+name                     : &name "韩文琳"
 description              : &description "Computer Scientist, Crypto, Metaverse, CyberSecurity"
 url                      : https://wenlinhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +82,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Wenlin Han" "韩文琳"
+  name             : "Wenlin Han" 
+  name             : "韩文琳"
   avatar           : "profile.jpg"
   bio              : "Director, TuffyVerse Lab"
   location         : "Fullerton, CA, USA"
