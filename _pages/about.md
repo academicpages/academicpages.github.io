@@ -16,7 +16,7 @@ She is a voting member of IEEE Blockchain Standard.
 
 She is a receipient of Unity & Meta Create with VR Award.
 
-中文名 韩文琳
+中文名: 韩文琳
 
 More
 ======
