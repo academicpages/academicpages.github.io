@@ -13,3 +13,6 @@ This project is a personal project to learn how to use NLP for question answerin
 
 It is a web app built with Streamlit, the aim of this project is to extract information from a text and to find the relevant context to answer a question.
 <img src='/images/portfolio/NLP_streamlit.png'>
+
+#### References
+[1] Jurafsky, D. & Martin, J.H. [Speech and Language Processing (2000)](https://web.stanford.edu/~jurafsky/slp3/), Prentice Hall.  
