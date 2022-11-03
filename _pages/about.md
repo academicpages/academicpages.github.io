@@ -22,3 +22,7 @@ Oct, 2022.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;I become a Postdoc at MBZUAI.
 
 Oct. 2022.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Our paper entitled as *Graph neural pre-training for recommendation with side information* is accepted by ACM TOIS (CCF A).
 
+Mar. 2022.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled as *An MLP-based Algorithm for Efficient Contrastive Graph Recommendations
+* is accepted by ACM SIGIR (CCF A).
+
+
