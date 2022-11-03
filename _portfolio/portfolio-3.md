@@ -1,6 +1,6 @@
 ---
 title: "NLP project"
-excerpt: "<br/>This project features the usage of NLP for question answering <img src='/images/portfolio/NLP_wordcloud.png' alt="NLP_wordcloud" width="50%" height="50%">"
+excerpt: "<br/>This project features the usage of NLP for question answering <img src='/images/portfolio/NLP_wordcloud.png' width='70%' height='70%'>"
 collection: portfolio
 ---
 

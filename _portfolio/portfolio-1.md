@@ -1,8 +1,11 @@
 ---
 title: "Chatbot portfolio"
-excerpt: "<br/>End of study project with a chatbot built with Rasa <img src='/images/portfolio/chatbot_architecture.png' width='50%' height='50%'>"
+excerpt: "<br/>End of study project with a chatbot built with Rasa <img src='/images/portfolio/chatbot_architecture.png' width='70%' height='70%'>"
 collection: portfolio
 ---
+
+**Watch out!** WIP
+{: .notice}
 
 This project is my end of study project @CentraleSupélec for the French presidential election of 2022.   
 It is a political chatbot built with [Rasa](https://rasa.com/) the image is dockerized and deployed on a VM.  
