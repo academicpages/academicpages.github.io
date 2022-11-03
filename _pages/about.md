@@ -18,7 +18,7 @@ I am one of the cofounders and main contributors of the [Beta-Recsys](https://be
 
 ### News
 
-Oct, 2022.          I become a Postdoc at MBZUAI.
+Oct, 2022.&nbsp; &nbsp;I become a Postdoc at MBZUAI.
 
-Oct. 2022.          Our paper entitled as *Graph neural pre-training for recommendation with side information* is accepted by ACM TOIS (CCF A).
+Oct. 2022.&nbsp; &nbsp;Our paper entitled as *Graph neural pre-training for recommendation with side information* is accepted by ACM TOIS (CCF A).
 
