@@ -130,7 +130,10 @@ Ondrej Biza, **Dian Wang**, Robert Platt, Jan-Willem van de Meent, Lawson LS Won
 ` `  
 
 ## Service
-Reviewer: CoRL2022, RAL2022, T-RO2022, ICRA2022, IROS2021, ICRA2019
+Reviewer: ICRA2023, CoRL2022, RAL2022, T-RO2022, ICRA2022, IROS2021, ICRA2019
+
+## CV
+Please see my CV [here](/files/Dian_Wang_CV.pdf).
 
 ## Education
 + (2020-Present) PhD student, Computer Science, Northeastern University, Boston, USA
