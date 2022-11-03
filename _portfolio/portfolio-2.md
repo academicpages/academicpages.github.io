@@ -1,5 +1,5 @@
 ---
-title: "Photography portfolio"
+title: "Photography portfolio built with Hugo"
 excerpt: "<br/>This project is a personal portfolio with my photography built with Hugo and deployed with Netlify. It showcases my passion for photography and illustrates some of my past travels. <img src='/images/portfolio/ADlns_screenshot.png' width='70%' height='70%'>"
 collection: portfolio
 ---
