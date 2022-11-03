@@ -15,8 +15,13 @@ skill sets in facilitation, technical communication, and project management.
 
 ## Work history
 
-I work at [Biobot Analytics](https://www.biobot.io), where I lead the Epidemiology
-Group in the Data Science Team. Our goal is to
+Starting in December 2022, I will be at the US CDC's new [Center for
+Forecasting and Outbreak
+Analytics](https://www.cdc.gov/forecast-outbreak-analysis/index.html) via a
+contractor position with [Leidos](https://www.leidos.com/).
+
+During 2021--2022, I was at [Biobot Analytics](https://www.biobot.io),
+where I built the Epidemiology Group. The goal of that team is to
 connect wastewater-based data streams with public health
 actions. Biobot performs Covid-19 monitoring for places
 like [Boston, MA](https://www.mwra.com/biobot/biobotdata.htm). You can learn more
