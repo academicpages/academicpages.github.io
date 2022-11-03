@@ -1,8 +1,9 @@
 ---
 title: "Gender Pension Gaps—a Problem in Many European Countries"
 collection: research note
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Research note on Gender Pension Gaps across Europe with and without consiering Gender Coverage Gaps.'
+permalink: /publication/2010-10-01-paper-gendercoveragegap
+excerpt: '<i>With Anna Hammerschmid<i>:'
+'Research note on Gender Pension Gaps across Europe with and without consiering Gender Coverage Gaps.'
 date: 2019-05-01
 venue: 'DIW Weekly Report'
 paperurl: 'https://www.econstor.eu/bitstream/10419/197981/1/dwr-19-16-3.pdf'
