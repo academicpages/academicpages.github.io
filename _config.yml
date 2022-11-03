@@ -12,11 +12,11 @@
 
 
 # Site Settings
-locale                   : "en-BE"
+locale                   : "en-FR"
 title                    : "Dr. Damien Sileo"
 title_separator          : "-"
 name                     : &name "Dr Damien Sileo"
-description              : &description "Natural Language Processing Researcher @KU Leuven"
+description              : &description "Natural Language Processing Researcher @Inria"
 url                      : https://sileod.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sileod.github.io"
@@ -88,10 +88,10 @@ analytics:
 author:
   name             : "Damien Sileo"
   avatar           : "profile.png"
-  location         : "Leuven (Flemish Belgium)"
-  employer         : "Katholieke Universiteit Leuven"
+  location         : "Lille"
+  employer         : "Inria Centre at the University of Lille"
   googlescholar    : "https://scholar.google.com/citations?user=SIJPeoYAAAAJ&hl=en"
-  email            : "damien.sileo@kuleuven.be"
+  email            : "damien.sileo@inria.fr"
   github           : "sileod"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   orcid            : "https://orcid.org/0000-0002-3274-291X"
