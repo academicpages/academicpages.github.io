@@ -12,5 +12,5 @@ I am a Postdoctoral researcher at MBZUAI working with Dr. [Shangsong Liang](http
 
 I used to be a PhD student of [Terrier team](http://terrierteam.dcs.gla.ac.uk/index.html), supervised by Prof. [Iadh Ounis](http://www.dcs.gla.ac.uk/~ounis/) and Prof. [Craig Macdonald](https://www.gla.ac.uk/schools/computing/staff/craigmacdonald/#).
 
-I am one of the cofounders and main contributors of the Beta-Recsys project, an open source project for Building, Evaluating and Tuning Automated Recommender Systems ([Link](https://beta-recsys.readthedocs.io/en/latest/)).
+I am one of the cofounders and main contributors of the [Beta-Recsys](https://beta-recsys.readthedocs.io/en/latest/) project, an open source project for Building, Evaluating and Tuning Automated Recommender Systems.
 
