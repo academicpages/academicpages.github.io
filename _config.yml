@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "Glasgow"
-title                    : "Homepage"
+title                    : "Homepage of Siwei"
 title_separator          : "-"
 name                     : &name "Siwei Liu"
-description              : &description "personal description"
-url                      : "https://tedsiweiliu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Postdoctoral researcher of MBZUAI"
+url                      : "https://siweiliu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "siwei-personalpage.github.io"
 teaser                   :  "self_pic.pdf"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Siwei Liu"
   avatar           : "selfie.png"
-  bio              : "PhD student in CS, University of Glasgow"
-  location         : "Glasgow"
+  bio              : "Postdoctoral researcher of MBZUAI"
+  location         : "Abu Dhabi"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=8gO4UDIAAAAJ"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "TedSIWEILIU"
   google_plus      :
   keybase          :
   instagram        :
