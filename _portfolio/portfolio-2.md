@@ -1,6 +1,6 @@
 ---
 title: "Photography portfolio"
-excerpt: "<br/>This project is a personal portfolio with my photography built with Hugo and deployed with Netlify <img src='/images/portfolio/screenshot_adlns.png'>"
+excerpt: "<br/>This project is a personal portfolio with my photography built with Hugo and deployed with Netlify <img src='/images/portfolio/ADlns_screenshot.png'>"
 collection: portfolio
 ---
 
