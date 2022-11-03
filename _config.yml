@@ -10,7 +10,7 @@ locale                   : "en-EN"
 title                    : "Ariane Dlns"
 title_separator          : "-"
 name                     : &name "Ariane Dlns"
-description              : &description "Final year student @CentraleSupelec"
+description              : &description "Data Scientist @ BCG Gamma | Centrale Paris | ESSEC "
 url                      : https://arianedlns.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ArianeDlns/https://arianedlns.github.io/"
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Ariane Dlns"
   avatar           : "profile.png"
-  bio              : "Data Scientist @ BCG Gamma | Centrale Paris | ESSEC "
+  bio              : "Data Scientist @ BCG Gamma  Centrale Paris | ESSEC "
   location         : "Paris Saclay University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "arianedlns@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : #https://arianedlns.fr/portfolio/
   bitbucket        :
   codepen          :
   dribbble         :
