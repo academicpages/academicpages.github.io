@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 1"
+title: "Quantifying the High-Frequency Trading “Arms Race”"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://academic.oup.com/qje/article/137/1/493/6368348
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
