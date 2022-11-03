@@ -16,48 +16,117 @@ I received my Bachelor's degree in Computer Science in [Sichuan University](http
 Email: wang dot dian at northeastern dot edu
 
 ## Publication
+<style>
+.button {
+  background-color: white;
+}
+.button-4 {
+  appearance: none;
+  background-color: #FAFBFC;
+  border: 1px solid rgba(27, 31, 35, 0.15);
+  border-radius: 6px;
+  box-shadow: rgba(27, 31, 35, 0.04) 0 1px 0, rgba(255, 255, 255, 0.25) 0 1px 0 inset;
+  box-sizing: border-box;
+  color: #24292E;
+  cursor: pointer;
+  display: inline-block;
+  font-family: -apple-system, system-ui, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+  list-style: none;
+  padding: 4px 8px;
+  position: relative;
+  transition: background-color 0.2s cubic-bezier(0.3, 0, 0.5, 1);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+  white-space: nowrap;
+  word-wrap: break-word;
+}
+
+.button-4:hover {
+  background-color: #F3F4F6;
+  text-decoration: none;
+  transition-duration: 0.1s;
+}
+
+.button-4:disabled {
+  background-color: #FAFBFC;
+  border-color: rgba(27, 31, 35, 0.15);
+  color: #959DA5;
+  cursor: default;
+}
+
+.button-4:active {
+  background-color: #EDEFF2;
+  box-shadow: rgba(225, 228, 232, 0.2) 0 1px 0 inset;
+  transition: none 0s;
+}
+
+.button-4:focus {
+  outline: 1px transparent;
+}
+
+.button-4:before {
+  display: none;
+}
+
+.button-4:-webkit-details-marker {
+  display: none;
+}
+</style>
+
 
 ![](images/mingxi_icra23.png){: .align-right width="200px"}
 **SEIL: Simulation-augmented Equivariant Imitation Learning**  
 Mingxi Jia\*, **Dian Wang\***, Guanang Su, David Klee, Xupeng Zhu, Robin Walters, Robert Platt  
 \* Equal Contribution  
 *Preprint*  
-[(Webpage)](https://saulbatman.github.io/project/seil/)[(PDF)](https://arxiv.org/pdf/2211.00194.pdf)[(Video)](https://www.youtube.com/watch?v=UHUmq-cOMh4)
-` `  
-` `  
+<button class="button-4" onclick="window.open('https://saulbatman.github.io/project/seil/','_blank')">Webpage</button>
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2211.00194.pdf','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://www.youtube.com/watch?v=UHUmq-cOMh4','_blank')">Video</button>
+<br>
 
 ![](images/haojie_icra23.png){: .align-right width="200px"}
 **Edge Grasp Network: Graph-Based SE(3)-invariant Approach to Grasp Detection**  
 Haojie Huang, **Dian Wang**, Xupeng Zhu, Robin Walters, Robert Platt  
 *Preprint*  
-[(Webpage)](https://haojhuang.github.io/edge_grasp_page/)
-` `  
-` `  
+<button class="button-4" onclick="window.open('https://haojhuang.github.io/edge_grasp_page/','_blank')">Webpage</button>
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2211.00191.pdf','_blank')">PDF</button>
+<br>
 
 ![](images/rss22.png){: .align-right width="200px"}
 **On-Robot Learning With Equivariant Models**  
 **Dian Wang**, Mingxi Jia, Xupeng Zhu, Robin Walters, Robert Platt  
 *CoRL 2022, Auckland, New Zealand*  
-[(Webpage)](https://pointw.github.io/equi_robot_page/)[(PDF)](https://arxiv.org/pdf/2203.04923.pdf)[(OpenReview)](https://openreview.net/forum?id=K8W6ObPZQyh)[(Video)](https://www.youtube.com/watch?v=HDYoOXMojkY)
-` `  
-` `  
+<button class="button-4" onclick="window.open('https://pointw.github.io/equi_robot_page/','_blank')">Webpage</button>
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2203.04923.pdf','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://openreview.net/forum?id=K8W6ObPZQyh','_blank')">OpenReview</button>
+<button class="button-4" onclick="window.open('https://www.youtube.com/watch?v=HDYoOXMojkY','_blank')">Video</button>
+<button class="button-4" onclick="window.open('https://github.com/pointW/equi_rl','_blank')">Code</button>
+<br>
 
 ![](images/hai_corl22.png){: .align-right width="200px"}
 **Leveraging Fully Observable Policies for Learning under Partial Observability**  
 Hai Huu Nguyen, Andrea Baisero, **Dian Wang**, Christopher Amato, Robert Platt  
 *CoRL 2022, Auckland, New Zealand*  
-[(Webpage)](https://sites.google.com/view/cosil-corl22)[(PDF)](https://openreview.net/pdf?id=pn-HOPBioUE)[(OpenReview)](https://openreview.net/forum?id=pn-HOPBioUE)[(Video)](https://www.youtube.com/watch?v=qSm08Q8BlbU)[(Code)](https://github.com/hai-h-nguyen/cosil-corl22)
-` `  
-` `  
+<button class="button-4" onclick="window.open('https://sites.google.com/view/cosil-corl22','_blank')">Webpage</button>
+<button class="button-4" onclick="window.open('https://openreview.net/pdf?id=pn-HOPBioUE','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://openreview.net/forum?id=pn-HOPBioUE','_blank')">OpenReview</button>
+<button class="button-4" onclick="window.open('https://www.youtube.com/watch?v=qSm08Q8BlbU','_blank')">Video</button>
+<button class="button-4" onclick="window.open('https://github.com/hai-h-nguyen/cosil-corl22','_blank')">Code</button>
+<br>
 
 ![](images/bulletarm.png){: .align-right width="200px"}
 **BulletArm: An Open-Source Robotic Manipulation Benchmark and Learning Framework**  
 **Dian Wang\***, Colin Kohler\*, Xupeng Zhu, Mingxi Jia, Robert Platt  
 \* Equal Contribution  
 *ISRR 2022, Geneva, Switzerland*  
-[(PDF)](https://arxiv.org/pdf/2205.14292.pdf)[(Code)](https://github.com/ColinKohler/BulletArm)
-` `  
-` `  
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2205.14292.pdf','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://github.com/ColinKohler/BulletArm','_blank')">Code</button>
+<br>
 
 ![](images/equi_transporter.png){: .align-right width="200px"}
 **Equivariant Transporter Network**  
@@ -65,18 +134,21 @@ Haojie Huang, **Dian Wang**, Robin Walters, Robert Platt
 *RSS 2022, New York City, New York, USA*  
 <span style="color:DarkGray"><em>RLDM 2022</em></span>  
 <span style="color:DarkGray"><em>ICRA 2022 Workshop on Scaling Robot Learning, <strong>Best Paper Award Finalist</strong></em></span>  
-[(Webpage)](https://haojhuang.github.io/etp_page/)[(PDF)](https://arxiv.org/pdf/2202.09400.pdf)[(Code)](https://github.com/HaojHuang/Equivariant-Transporter-Net)
-` `  
-` `  
+<button class="button-4" onclick="window.open('https://haojhuang.github.io/etp_page/','_blank')">Webpage</button>
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2202.09400.pdf','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://github.com/HaojHuang/Equivariant-Transporter-Net','_blank')">Code</button>
+<br>
 
 ![](images/rss_grasp.jpeg){: .align-right width="200px"}
 **Sample Efficient Grasp Learning Using Equivariant Models**  
 Xupeng Zhu, **Dian Wang**, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt  
 *RSS 2022, New York City, New York, USA*  
 <span style="color:DarkGray"><em>ICRA 2022 Workshop on Scaling Robot Learning, Spotlight</em></span>  
-[(Webpage)](https://zxp-s-works.github.io/equivariant_grasp_site/)[(PDF)](https://arxiv.org/pdf/2202.09468.pdf)[(Video)](https://youtu.be/0jaHpz3KQ7I)[(Code)](https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning)
-` `  
-` `  
+<button class="button-4" onclick="window.open('https://zxp-s-works.github.io/equivariant_grasp_site/','_blank')">Webpage</button>
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2202.09468.pdf','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://youtu.be/0jaHpz3KQ7I','_blank')">Video</button>
+<button class="button-4" onclick="window.open('https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning','_blank')">Code</button>
+<br>
 
 ![](images/iclr22_sac.png){: .align-right width="200px"}
 **SO(2)-Equivariant Reinforcement Learning**  
@@ -84,50 +156,61 @@ Xupeng Zhu, **Dian Wang**, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt
 *ICLR 2022, Virtual,* ***Spotlight***  
 <span style="color:DarkGray"><em>RLDM 2022</em></span>  
 <span style="color:DarkGray"><em>ICRA 2022 Workshop on Scaling Robot Learning, Spotlight</em></span>  
-[(Webpage)](https://pointw.github.io/equi_rl_page/)[(PDF)](https://arxiv.org/pdf/2203.04439.pdf)[(OpenReview)](https://openreview.net/forum?id=7F9cOhdvfk_)[(Video)](https://youtu.be/8Ocwv2nnSKI)[(Talk)](https://iclr.cc/virtual/2022/spotlight/6799)[(Code)](https://github.com/pointW/equi_rl)
-` `  
-` `  
+<button class="button-4" onclick="window.open('https://pointw.github.io/equi_rl_page/','_blank')">Webpage</button>
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2203.04439.pdf','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://openreview.net/forum?id=7F9cOhdvfk_','_blank')">OpenReview</button>
+<button class="button-4" onclick="window.open('https://youtu.be/8Ocwv2nnSKI','_blank')">Video</button>
+<button class="button-4" onclick="window.open('https://iclr.cc/virtual/2022/spotlight/6799','_blank')">Talk</button>
+<button class="button-4" onclick="window.open('https://github.com/pointW/equi_rl','_blank')">Code</button>
+<br>
 
 ![](images/corl21.png){: .align-right width="200px"}
 **Equivariant Q Learning in Spatial Action Spaces**  
 **Dian Wang**, Robin Walters, Xupeng Zhu, Robert Platt  
 *CoRL 2021, London, UK*  
 <span style="color:DarkGray"><em>RSS 2022 Workshop on Scaling Robot Learning, Spotlight</em></span>  
-[(Webpage)](https://pointw.github.io/equi_q_page/)[(PDF)](https://arxiv.org/pdf/2110.15443.pdf)[(OpenReview)](https://openreview.net/forum?id=IScz42A3iCI)[(Poster)](https://openreview.net/attachment?id=IScz42A3iCI&name=poster)[(Video)](https://www.youtube.com/watch?v=GtdpvjLHc_Q)[(Code)](https://github.com/pointW/equi_q_corl21)
-` `  
-` `  
+<button class="button-4" onclick="window.open('https://pointw.github.io/equi_q_page/','_blank')">Webpage</button>
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2110.15443.pdf','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://openreview.net/forum?id=IScz42A3iCI','_blank')">OpenReview</button>
+<button class="button-4" onclick="window.open('https://openreview.net/attachment?id=IScz42A3iCI&name=poster','_blank')">Poster</button>
+<button class="button-4" onclick="window.open('https://www.youtube.com/watch?v=GtdpvjLHc_Q','_blank')">Video</button>
+<button class="button-4" onclick="window.open('https://github.com/pointW/equi_q_corl21','_blank')">Code</button>
+<br>
 
 ![](images/Paladyn21.png){: .align-right width="200px"}
 **Design Guidelines for Human-Robot Interaction with Assistive Robot Manipulation Systems**  
 Alexander Wilkinson, Michael Gonzales, Patrick Hoey, David Kontak, **Dian Wang**, Noah Torname, Sam Laderoute, Zhao Han, Jordan Allspaw, Robert Platt, Holly Yanco  
 *Paladyn 2021*  
-[(Paper)](https://www.degruyter.com/document/doi/10.1515/pjbr-2021-0023/html)
-` `  
-` `  
+<button class="button-4" onclick="window.open('https://www.degruyter.com/document/doi/10.1515/pjbr-2021-0023/html','_blank')">Paper</button>
+<br>
 
 ![](images/aamas21.png){: .align-right width="200px"}
 **Action Priors for Large Action Spaces in Robotics**  
 Ondrej Biza, **Dian Wang**, Robert Platt, Jan-Willem van de Meent, Lawson LS Wong  
 *AAMAS 2021, London, UK*  
-[(PDF)](https://arxiv.org/pdf/2101.04178.pdf)[(Code)](https://github.com/ondrejba/action_priors)
-` `  
-` `  
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2101.04178.pdf','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://github.com/ondrejba/action_priors','_blank')">Code</button>
+<br>
 
 ![](images/asrse3.png){: .align-right width="200px"}
 **Policy learning in SE (3) action spaces**  
 **Dian Wang**, Colin Kohler, Robert Platt  
 *CoRL 2020, Boston, Massachusetts, USA*  
-[(Webpage)](https://pointw.github.io/asrse3-page/)[(PDF)](https://arxiv.org/pdf/2010.02798.pdf)[(Video)](https://youtu.be/FiHoIF1oLZs)[(Talk)](https://youtu.be/W0UQMntqaog)[(Code)](https://github.com/pointW/asrse3_corl20)
-` `  
-` `  
+<button class="button-4" onclick="window.open('https://pointw.github.io/asrse3-page/','_blank')">Webpage</button>
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2010.02798.pdf','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://youtu.be/FiHoIF1oLZs','_blank')">Video</button>
+<button class="button-4" onclick="window.open('https://youtu.be/W0UQMntqaog','_blank')">Talk</button>
+<button class="button-4" onclick="window.open('https://github.com/pointW/asrse3_corl20','_blank')">Code</button>
+<br>
 
 ![](images/scooter.png){: .align-right width="200px"}
 **Towards Assistive Robotic Pick and Place in Open World Environments**  
 **Dian Wang**, Colin Kohler, Andreas ten Pas, Alexander Wilkinson, Maozhi Liu, Holly Yanco, Robert Platt  
 *ISRR 2019, Hanoi, Vietnam*  
-[(Webpage)](https://pointw.github.io/scooter-page/)[(PDF)](https://arxiv.org/pdf/1809.09541.pdf)[(Video)](https://www.youtube.com/watch?v=ZimZlsJTaTU)
-` `  
-` `  
+<button class="button-4" onclick="window.open('https://pointw.github.io/scooter-page/','_blank')">Webpage</button>
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/1809.09541.pdf','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://www.youtube.com/watch?v=ZimZlsJTaTU','_blank')">Video</button>
+<br>
 
 ## Service
 Reviewer: ICRA2023, CoRL2022, RAL2022, T-RO2022, ICRA2022, IROS2021, ICRA2019
