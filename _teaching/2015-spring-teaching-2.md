@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "CSUF, Computer Science"
-date: since 2019
+date: since 2017
 location: "Fullerton, CA"
 ---
 Mainly talk about Solidity programming, NFTs, Defi. Students will get free TuffyToken upon course completion!
