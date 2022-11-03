@@ -1,6 +1,6 @@
 ---
 title: "Chatbot portfolio"
-excerpt: "<br/>End of study project with a chatbot built with Rasa <img src='/images/portfolio/chatbot_architecture.png'>"
+excerpt: "<br/>End of study project with a chatbot built with Rasa <img src='/images/portfolio/chatbot_architecture.png'> width="50%" height="50%""
 collection: portfolio
 ---
 
