@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 **How Experienced Designers of Enterprise Applications Engage AI as a Design Material**  
-Nur Yildirim, Alex Kass, Teresa Tung, Connor Upton, Donnacha Costello, Robert Giusti, Sinem Lacin, Sara Lovic, James O’Neill, Rudi O’Reilly Meehan, Eoin Ó Loideáin, Azzurra Pini, Medb Corcoran, Jeremiah Hayes, Diarmuid Cahalane, Gaurav Shivhare, Luigi Castoro, Giovanni Caruso, Changhoon Oh, James McCann, Jodi Forlizzi, John Zimmerman.<br>
-*CHI 2022.* [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3491102.3517491)
+Nur Yildirim, Alex Kass, Teresa Tung, Connor Upton, Donnacha Costello, Robert Giusti, Sinem Lacin, Sara Lovic, James O’Neill, Rudi O’Reilly Meehan, Eoin Ó Loideáin, Azzurra Pini, Medb Corcoran, Jeremiah Hayes, Diarmuid Cahalane, Gaurav Shivhare, Luigi Castoro, Giovanni Caruso, Changhoon Oh, James McCann, Jodi Forlizzi, John Zimmerman.  
+*CHI 2022.* [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3491102.3517491){:target="_blank"}
 
-**Technical Feasibility, Financial Viability, and Clinician Acceptance: On the many challenges to AI in Clinical Practice**
-Nur Yildirim, John Zimmerman, Sarah Preum.<br>
-*AAAI Fall '21 Symposium.* [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3491102.3517491)
+**Technical Feasibility, Financial Viability, and Clinician Acceptance: On the many challenges to AI in Clinical Practice**  
+Nur Yildirim, John Zimmerman, Sarah Preum.  
+*AAAI Fall '21 Symposium.* [[pdf]](http://star.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-3068/short5.pdf){:target="_blank"}
