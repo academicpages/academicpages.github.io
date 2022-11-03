@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ariane Dlns"
   avatar           : "profile.png"
-  bio              : "Final year student @CentraleSupelec, pursuing a Master's Degree in Machine Learning"
+  bio              : "Data Scientist @ BCG Gamma | Centrale Paris | ESSEC "
   location         : "Paris Saclay University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "arianedlns@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/ariane-dalens/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
