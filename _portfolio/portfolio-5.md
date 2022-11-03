@@ -1,6 +1,6 @@
 ---
 title: "Multi-agent simulation made with mesa"
-excerpt: "<br/>This project is a multi-agent simulation of the prey and predator game <br/> <img src='/images/portfolio/mesa_prey_predator.png' width='70%' height='70%'>"
+excerpt: "<br/>This project is a multi-agent simulation of the prey and predator game based on the [mesa](https://mesa.readthedocs.io/en/stable/) example that we can find in this [repository](https://github.com/projectmesa/mesa/tree/main/examples/wolf_sheep). Equilibrium is based on the equations of the [Lotka-Volterra model](https://en.wikipedia.org/wiki/Lotka%E2%80%93Volterra_equations). <br> <img src='/images/portfolio/mesa_prey_predator.png' width='70%' height='70%'>"
 collection: portfolio
 ---
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)

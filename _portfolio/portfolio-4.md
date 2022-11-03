@@ -1,6 +1,6 @@
 ---
 title: "Linear optimization usecase using OR-Tools"
-excerpt: "<br/>This project was a usecase of OR-Tools for carbon footprint optimization <br/> <img src='/images/portfolio/OrTools_streamlit.png' width='70%' height='70%'>"
+excerpt: "<br/>This project was a usecase of [OR-Tools](https://developers.google.com/optimization/) for carbon footprint optimization of a fleet of trucks, implementation is in python and the web app is built with [Streamlit](https://streamlit.io/). <br> <img src='/images/portfolio/OrTools_streamlit.png' width='70%' height='70%'>"
 collection: portfolio
 ---
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
@@ -13,6 +13,7 @@ collection: portfolio
 This project was a usecase of [OR-Tools](https://developers.google.com/optimization/) for optimization. Goal was to optimize the routes of a fleet of trucks to minimize the distance traveled and the carbon footprint. 
 
 Implementation is in python and the web app is built with [Streamlit](https://streamlit.io/).
+Code is hosted on [GitHub](https://github.com/ArianeDlns/DS_EDC_3). 
 
 <p align=center>
 <img src='/images/portfolio/OrTools_streamlit.png' width='70%' height='70%'>

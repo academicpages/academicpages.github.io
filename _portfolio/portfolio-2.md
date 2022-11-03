@@ -1,6 +1,6 @@
 ---
 title: "Photography portfolio built with Hugo"
-excerpt: "<br/>This project is a personal portfolio with my photography built with Hugo and deployed with Netlify. It showcases my passion for photography and illustrates some of my past travels. <br/> <img src='/images/portfolio/ADlns_screenshot.png' width='70%' height='70%'>"
+excerpt: "<br/>This project is a personal portfolio with my photography built with Hugo and deployed with Netlify. It showcases my passion for photography and illustrates some of my past travels. <br> <img src='/images/portfolio/ADlns_screenshot.png' width='70%' height='70%'>"
 collection: portfolio
 ---
 [![Open in Visual Studio Code](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://github.dev/ArianeDlns/portfolio/tree/main)

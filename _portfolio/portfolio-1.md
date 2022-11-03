@@ -1,6 +1,6 @@
 ---
 title: "Chatbot with Rasa for French presidential elections"
-excerpt: "<br/>End of study project with a chatbot built with [Rasa](https://rasa.com/) for the French presidential election of 2022. The chatbot is able to answer questions about the candidates, the election, and the voting process. <br/> <img src='/images/portfolio/chatbot_architecture.png' width='70%' height='70%'>"
+excerpt: "<br/>End of study project with a chatbot built with [Rasa](https://rasa.com/) for the French presidential election of 2022. The chatbot is able to answer questions about the candidates, the election, and the voting process. <br> <img src='/images/portfolio/chatbot_architecture.png' width='70%' height='70%'>"
 collection: portfolio
 ---
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) 
