@@ -7,7 +7,7 @@ redirect_from:
   - /research.html
 ---
 
-- Hector Bahamonde and Andrea Canales (2022). "Electoral Risk and Vote Buying, Introducing Prospect Theory to the Experimental Study of Clientelism." In: Electoral Studies 80, pp. 102497. <br/> [[Paper]](https://doi.org/10.1016/j.electstud.2022.102497)
+- Hector Bahamonde and Andrea Canales (2022). "Electoral Risk and Vote Buying, Introducing Prospect Theory to the Experimental Study of Clientelism." In: Electoral Studies 80. December, pp. 102497. <br/> [[Paper]](https://doi.org/10.1016/j.electstud.2022.102497)
 
 
 -  Hector Bahamonde (2022). "Still for Sale: The Micro-Dynamics of Vote Selling in the United States, Evidence from a List Experiment." In: Acta Politica 57.1, pp. 73-95. <br/> [[Paper]](https://doi.org/10.1057/s41269-020-00174-4) [[Data]](https://github.com/hbahamonde/Replication_Materials/tree/master/AP_2020)
