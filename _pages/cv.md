@@ -18,26 +18,23 @@ Education
 Work experience
 ======
 * Summer 2020: Research Placement, University of Reading
-  * **"Investigating the representation of sting jets in high-resolution climate simulations"**
+  * *"Investigating the representation of sting jets in high-resolution climate simulations"*
   * Skills: Analysing large climate model datasets on JASMIN (super-data cluster)
   * Supervisors: Dr Oscar Martínez-Alvarado and Dr Reinhard Schiemann 
 * Summer 2022: Internship, Geographical Association, Sheffield
   * Skills: Education policy, outreach and science communication
   * GeogPod: ["High-altitude weather balloons and marine-terminating glaciers"](https://geogpod.podbean.com/e/episode-56-ryan-ing-high-altitude-weather-balloons-and-marine-terminating-glaciers/) 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
 * Computing
   * Python
-        * Google Earth Engine Python API
-        * **xarray, cartopy, iris, matplotlib, etc**
+   * Google Earth Engine Python API
+   * *(xarray, cartopy, iris, matplotlib, etc)*
   * Linux-based high performance computers (e.g. JASMIN)
   * LaTeX
-*  
+
 
 
