@@ -11,16 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc in Meteorology and Climate, University of Reading, 2018-2021
+* MSc (Res) in Polar and Alpine Change, University of Sheffield, 2021-2022
+* Ph.D in Atmospheric and Environmental Sciences, University of Edinburgh, 2022-present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Research Placement, University of Reading
+  * **"Investigating the representation of sting jets in high-resolution climate simulations"**
+  * Skills: Analysing large climate model datasets on JASMIN (super-data cluster)
+  * Supervisors: Dr Oscar Martínez-Alvarado and Dr Reinhard Schiemann 
+* Summer 2022: Internship, Geographical Association, Sheffield
+  * Skills: Education policy, outreach and science communication
+  * GeogPod: ["High-altitude weather balloons and marine-terminating glaciers"](https://geogpod.podbean.com/e/episode-56-ryan-ing-high-altitude-weather-balloons-and-marine-terminating-glaciers/) 
 
 * Fall 2015: Research Assistant
   * Github University
@@ -29,31 +32,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computing
+  * Python
+        * Google Earth Engine Python API
+        * **xarray, cartopy, iris, matplotlib, etc**
+  * Linux-based high performance computers (e.g. JASMIN)
+  * LaTeX
+*  
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
