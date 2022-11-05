@@ -48,6 +48,7 @@ Listas de Exercícios
 * Exercícios da seção 3.6 do livro texto.
 * Exercícios da seção 6.5 do livro texto.
 * Exercícios da seção 6.6 do livro texto.
+* [Exercícios Sala de Aula 03 e 04 de Novembro](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/lista4.pdf)
 
 
 
