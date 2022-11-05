@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi! My name is Ting Chen and I'm an incoming Master's student at Columbia University, studying Computer Science. I'm broadly interested in Bayesian and nonparametric statistics as well as their applications in deep learning and natural language processing methods.
+Hi! My name is Ting Chen and I'm a Master's student at Columbia University, studying Computer Science. I'm broadly interested in Bayesian and nonparametric statistics as well as their applications in deep learning and natural language processing methods.
