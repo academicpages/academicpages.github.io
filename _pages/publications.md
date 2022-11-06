@@ -13,7 +13,7 @@ Manuscripts
 3. Pavia, F. J., **Wang, S.**, Middleton, J., Murray, R. W., & Anderson, R. F. (2021). Trace Metal Evidence for Deglacial Ventilation of the Abyssal Pacific and Southern Oceans. Paleoceanography and Paleoclimatology, 36(9), e2021PA004226. [Reprint](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021PA004226)
 
 
-Conference Proceedings
+Presentations
 ======
 
 1. **Wang, S.**, Ummenhofer, C.C., Murty, S.A., Nguyen, H.T.T., Buckley, B. (2022) Drivers of Decadal Rainfall Variability in Mainland Southeast Asia: Insights from Tree-Ring Reconstructions and the Last Millennium Ensemble, *AGU Fall Meeting*, PP42C-06 
