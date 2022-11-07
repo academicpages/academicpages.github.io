@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * BSc in Mathematics, Imperial College London, 2019
-* MSs in Mathematical Sciences, Oxford University, 2020
+* MSc in Mathematical Sciences, Oxford University, 2020
 * ME in Computational Science and Engineering, Harvard University, 2022.
 
 Work experience
