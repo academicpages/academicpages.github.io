@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Perovskite nanomaterials as optical and electrochemical senosrs"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+permalink: /publication/2020-06-03-paper-title-number-2
+
+date: 2010-06-03
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://doi.org/10.1039/D0QI00306A'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+
+[Download paper here](https://pubs.rsc.org/en/content/articlelanding/2020/QI/D0QI00306A)
 
 Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
