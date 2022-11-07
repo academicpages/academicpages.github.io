@@ -11,41 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. (Licence), Economics & econometrics, Univ. Paris I, Paris, FR -- 2011
+* M.Sc., Public Policy and Development, Paris School of Economics, Paris, FR -- 2014
+* Graduate Diploma, Social sciences & economics, Ecole normale supérieure, Paris, FR -- 2015
+* Ph.D., Economics, Paris School of Economics, Paris, FR -- 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019-present: Senior economist
+  * Institut des politiques publiques
+  * Paris, FR
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2018: Junior economist
+  * Institut des politiques publiques
+  * Paris, FR
+
+* 2015: Field coordinator
+  * World Bank & Paris School of Economics
+  * Cap Haïtien, Saint-Raphaël, Haïti
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages spoken: French, English, German, Mandarin, Spanish.
+* Languages written: R, STATA, Python, LaTeX.
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.research %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
@@ -54,6 +47,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Referee
 ======
-* Currently signed in to 43 different slack teams
+* Journal of Development Economics
+* World Development
+* China Economic Review
