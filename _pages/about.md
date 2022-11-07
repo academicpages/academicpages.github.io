@@ -78,12 +78,19 @@ Email: wang dot dian at northeastern dot edu
 }
 </style>
 
+![](images/iclr23.png){: .align-right width="200px"}
+**The Surprising Effectiveness of Equivariant Models in Domains with Latent Symmetry**  
+**Dian Wang**, Jung Yeon Park, Neel Sortur, Lawson L.S. Wong, Robin Walters, Robert Platt  
+\* Equal Contribution  
+*Under Review*  
+<button class="button-4" onclick="window.open('https://openreview.net/pdf?id=P4MUGRM4Acu','_blank')">PDF</button>
+<br>
 
 ![](images/mingxi_icra23.png){: .align-right width="200px"}
 **SEIL: Simulation-augmented Equivariant Imitation Learning**  
 Mingxi Jia\*, **Dian Wang\***, Guanang Su, David Klee, Xupeng Zhu, Robin Walters, Robert Platt  
 \* Equal Contribution  
-*Preprint*  
+*Under Review*  
 <button class="button-4" onclick="window.open('https://saulbatman.github.io/project/seil/','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2211.00194.pdf','_blank')">PDF</button>
 <button class="button-4" onclick="window.open('https://www.youtube.com/watch?v=UHUmq-cOMh4','_blank')">Video</button>
@@ -92,7 +99,7 @@ Mingxi Jia\*, **Dian Wang\***, Guanang Su, David Klee, Xupeng Zhu, Robin Walters
 ![](images/haojie_icra23.png){: .align-right width="200px"}
 **Edge Grasp Network: Graph-Based SE(3)-invariant Approach to Grasp Detection**  
 Haojie Huang, **Dian Wang**, Xupeng Zhu, Robin Walters, Robert Platt  
-*Preprint*  
+*Under Review*  
 <button class="button-4" onclick="window.open('https://haojhuang.github.io/edge_grasp_page/','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2211.00191.pdf','_blank')">PDF</button>
 <br>
