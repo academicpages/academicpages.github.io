@@ -111,7 +111,11 @@ Conferences
 
   
 Service and leadership
-======								
+======			
+* __Project Mentor for The Erdős Institute Boot Camp__ (October - December 2022)
+	* Advising participants in four project groups on the data science lifecycle for their projects.
+	* Acting as a sounding-board for their ideas and general resource to help them succeed.
+					
 * __SIAM, OSU Chapter Math Modeling Contest Judge__	 (November 2017, 2018, and 2019)
 	* Graded undergraduate teams’ reports based on the merits of their mathematical models, analysis of their results, thoroughness of their conclusions, and the overall creativity and readability of their solutions.
 
