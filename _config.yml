@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Elizabeth G. Campolongo, Ph.D."
   avatar           : "bio-photo-2022.jpg"
-  bio              : #"Your biography for the left-hand sidebar"
+  bio              : "Mathematician and Data Scientist" #"Your biography for the left-hand sidebar"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
