@@ -13,6 +13,8 @@ author_profile: true
 Journal Publications
 ------
 
+* Saber Jafarpour, <b>Alexander Davydov</b>, and Francesco Bullo. “Non-Euclidean Contraction Theory for Monotone and Positive Systems,” <i>IEEE Transactions on Automatic Control</i>, Nov. 2022. [[URL](https://arxiv.org/abs/2104.01321)] <b>To Appear</b>
+
 * <b>Alexander Davydov</b>, Saber Jafarpour, and Francesco Bullo. “Non-Euclidean Contraction Theory for Robust Nonlinear Stability,” <i>IEEE Transactions on Automatic Control</i>, Jun. 2022. [[DOI](https://doi.org/10.1109/TAC.2022.3183966)], [[URL](https://arxiv.org/abs/2103.12263)] <b>To Appear</b>
 
 * <b>Alexander Davydov</b>, Phillip Rivera-Ortiz, and Yancy Diaz-Mercado. “Pursuer Coordination in Multi-Player Reach-Avoid Games through Control Barrier Functions,” <i>IEEE Control Systems Letters</i>, vol. 5, no. 6, pp. 1910-1915, Dec. 2020. [[DOI](https://doi.org/10.1109/LCSYS.2020.3044549)]
@@ -43,8 +45,6 @@ Preprints and Publications Under Review
 * <b>Alexander Davydov</b>, Anton V. Proskurnikov, and Francesco Bullo. “Non-Euclidean Contraction Analysis of Continuous-Time Neural Networks,” <i>IEEE Transactions on Automatic Control</i>, September 2022. <b>Submitted</b>
 
 * Anton V. Proskurnikov, <b>Alexander Davydov</b>, and Francesco Bullo. “The Yakubovich S-Lemma Revisited: Stability and Contractivity in Non-Euclidean Norms,” <i>SIAM Journal on Control and Optimization</i>, July 2022. [[URL](https://arxiv.org/abs/2207.14579)] <b>Submitted</b>
-
-* Saber Jafarpour, <b>Alexander Davydov</b>, and Francesco Bullo. “Non-Euclidean Contraction Theory for Monotone and Positive Systems,” <i>IEEE Transactions on Automatic Control</i>, Apr. 2021. [[URL](https://arxiv.org/abs/2104.01321)] <b>Submitted</b>
 
 
 <sup>*</sup> -- These authors contributed equally
