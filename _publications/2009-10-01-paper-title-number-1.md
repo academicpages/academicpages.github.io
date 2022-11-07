@@ -16,5 +16,7 @@ The Machine Learning and the Physical Sciences workshop aims to provide an infor
 
 ![Branched Flows](https://github.com/RaphaelPellegrin/raphaelpellegrin.github.io/blob/master/images/webistePINNs.jpeg)
 
+![Branched Flows](https://github.com/RaphaelPellegrin/raphaelpellegrin.github.io/blob/master/images/webistePINNs.jpg)
+
 ![image-center](https://github.com/RaphaelPellegrin/raphaelpellegrin.github.io/blob/master/images/webistePINNs.jpeg){: .align-center}
 
