@@ -5,6 +5,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+###################################################################################
+# Automatic domain forwarind http://FIVEYOUNGWOO.github.io to https://ohyoungwoo.com/
+###################################################################################
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Youngwoo Oh"
@@ -88,7 +92,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.co.kr/citations?user=1sIHm5AAAAAJ&hl=ko #"http://yourfullgooglescholarurl.com"
   email            : "snlyoungwoo@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Youngwoo-Oh" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
