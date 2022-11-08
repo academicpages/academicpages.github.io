@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* [CV in PDF](https://github.com/RuohanLixyf/RuohanLixyf.github.io/blob/824f9bafdd6e371402c4047c96e5a132e2e07bf1/files/CV_Ruohan%20Li.pdf)
+* [CV in PDF](files/CV_Ruohan Li.pdf)
 
 Education
 ======
