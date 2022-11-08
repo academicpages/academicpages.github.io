@@ -17,5 +17,5 @@ Because of a strong interest in machine learning and deep learning, my current r
 <img src='/images/movie3.gif'>
 <br/>The results in video of **<var>Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders</var>**.
        
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=m&d=t3RFq-d0ZvyNcMOXmNGt6JTnByrbHW0lSUzD_8Yfss4&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=2079b7&w=250&t=m&d=t3RFq-d0ZvyNcMOXmNGt6JTnByrbHW0lSUzD_8Yfss4&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=8c8080'></script>
  
