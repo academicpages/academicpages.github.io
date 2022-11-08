@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Writing"
+  - title: "Notes"
     url: https://theinformationspace.angadhn.com/ #https://publish.obsidian.md/angadhnotesblog
     #url: https://www.theinformationspace.angadhn.com
     #https://publish.obsidian.md/angadhnotesblog #https://angadhn.github.io/year-archive/
@@ -8,8 +8,8 @@ main:
   - title: "CV"
     url: https://angadhn.github.io/Angadh_CV.pdf
 
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Blog Posts"
+#    url: /year-archive/
 
   - title: "Dynamics Textbook"
     url: https://angadhn.github.io/ComputationalDynamics/kinematics/introduction.html
