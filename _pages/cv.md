@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* [CV in PDF](CV_Ruohan Li.pdf)
+* [CV in PDF](http://smart.lab.mcgill.ca/CV_Ruohan Li.pdf)
 
 Education
 ======
