@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* [CV in PDF](files/CV_Ruohan Li.pdf)
+<a href="files/CV_Ruohan Li.pdf" download>Download CV.pdf</a>
 
 Education
 ======
