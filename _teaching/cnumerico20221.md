@@ -67,6 +67,8 @@ Aulas
 
 * [Método de Taylor de Ordem q](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/aula21.pdf)
 
+* [Método de Runge-Kutta de segunda ordem](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/aula24.pdf)
+
 Trabalhos
 =======
 * [Trabalho 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_trabalho_01.md)
