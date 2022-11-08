@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Rewards"
+title: "Awards"
 permalink: /Rewards/
 author_profile: true
 ---
@@ -21,3 +21,4 @@ author_profile: true
 | 1st     | 2017   | “Longren cup” The 4th Gansu University Taekwondo Invitational Tournament                          |
 | 2nd     | 2017   | The 4th CUBA Chinese University Basketball Tournament (Gansu)                          |
 | 1st     | 2016   | “Longren cup” The 3rd Lanzhou University Taekwondo Invitational                          |
+ 
