@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+* [CV in PDF](CV_Ruohan Li.pdf)
+
 Education
 ======
 * M.Eng. College of Traffic and Transportation, Lanzhou Jiaotong University, 2023
