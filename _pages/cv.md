@@ -13,7 +13,7 @@ redirect_from:
 ---
 * 학사, 조선대학교 컴퓨터공학과 (2022.02)
 * 석사, 조선대학교 컴퓨터공학과 (2023.08 예정)
-* Ph.D in Computer Science and Engineering, Rice university (expected)
+<!-- * Ph.D in Computer Science and Engineering, Rice university (expected) -->
 
 <!-- Master thesis
 ---
@@ -27,7 +27,7 @@ redirect_from:
 * Massive MIMO
 * Deep learning
 * Resouce allocation
-* IoT, ICT
+* IoT, ICT system
 * Software-defined ratio (SDR)
 
 
@@ -38,6 +38,7 @@ redirect_from:
   * 산학연 연구개발 및 국제 프로젝트 참여 학부 연구원 (2021.04 - 2021.11)
   * 산학연 연구개발 및 국제 프로젝트 참여 학부 연구원 (2020.04 - 2020.11)
   * 조선대학교 스마트네트워킹 연구실 학부 연구원 (2019.09 - 2022.02)
+
 
 * **개발 관련 및 기타 이력**
   * AR/VR 의료 임상 프로그램을 위한 다중 접속 무선 기술 개발, HT CORE (2022.10 - 2022.12)
@@ -57,16 +58,17 @@ redirect_from:
 ---
 * **프로그래밍 능력**
   * IoT, ICT 하드웨어를 활용한 실시간 프로그램 구현 능력
-  * 소프트웨어 정의 라디오 기반 MIMO, 다중 홉 릴레이 네트워크 구현 능력
+  * 소프트웨어 정의 라디오 기반 MIMO, 다중 홉 릴레이 네트워크 프로그래밍 경험
   * 다양한 프로그래밍 플랫폼 및 언어 활용 능력 (LabVIEW, Matlab, Python, Java, Oracle, Flask, etc..)
   * 딥러닝 기반의 문제 접근 및 해결 능력
+
 
 * **협업 및 의사소통 능력**
   * 4년 간 글로벌 멤버로 구성된 연구실에서의 활동 및 협업 프로젝트 진행
   * 학부연구생 및 박사과정 학생들과의 다수 협업 프로젝트 참여 및 관리
   * IoT 캡스톤 프로젝트 및 여러 프로젝트 수행 간 팀장 역할을 수행, 다수의 수상 이력
 
+
 * **발표 및 시각화 능력**
   * 워크샵, 학술대회, 세미나 등의 발표 활동 다수 진행
   * 다수의 사업 및 연구 제안서 작업을 통한 문서화, 시각화 능력
-  * 패스트캠퍼스 "데이터통신" 과목 출판 서적 집필 참여
