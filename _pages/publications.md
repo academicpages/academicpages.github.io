@@ -55,12 +55,12 @@ IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2021. (<span sty
 
 * Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning \[[PDF](https://arxiv.org/pdf/2103.00113.pdf)\] \[[Code](https://github.com/yixinliu233/CoLA)\]  
 **Yixin Liu**, Zhao Li, Shirui Pan, Chen Gong, Chuan Zhou, George Karypis.  
-IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2021. (<span style="color:red">*IF: 14.255*</span>)
+IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2021. (<span style="color:red">*Core A\*, IF: 14.255*</span>)
 
 * Cyclic Label Propagation for Graph Semi-supervised Learning \[[PDF](https://link.springer.com/article/10.1007/s11280-021-00906-2)\]  
 Zhao Li, **Yixin Liu**, Zhen Zhang, Shirui Pan, Jianliang Gao, and Jiajun Bu.  
-World Wide Web (**WWWJ**), 2021. (<span style="color:red">*IF: 2.716*</span>)
+World Wide Web (**WWWJ**), 2021. (<span style="color:red">*Core A, IF: 2.716*</span>)
 
 * MRD-NETS: Multi-Scale Residual Networks with Dilated Convolutions for Classification and Clustering Analysis of Spacecraft Electrical Signal \[[PDF](https://ieeexplore.ieee.org/document/8876602)\]  
 **Yixin Liu**, Ke Li, Yuxiang Zhang, and Shimin Song.  
-IEEE ACCESS, 2019. (<span style="color:red">*IF: 3.476*</span>)
+IEEE Access, 2019. (<span style="color:red">*IF: 3.476*</span>)
