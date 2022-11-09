@@ -67,4 +67,4 @@ Teaching Experience
   * Teaching Assistant, BIZ2119 Financial Management, Undergraduate (Fall 2020)
   * Residential and Teaching Assistant, UCR1013 Residential College Self-Directed Activity, Undergraduate (Fall 2015, Spring 2015)
 
-<a href="https://ericsclee.github.io/files/CV_221024.pdf" target="_blank">PDF Version</a>
+<a href="https://ericsclee.github.io/files/CV_221108.pdf" target="_blank">PDF Version</a>
