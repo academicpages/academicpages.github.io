@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website!
 
-I am a current Master's student studying statistics at the University of Chicago. I am also working as a research assistant for [Professor Emanuele Colonnelli](https://emanuelecolonnelli.com/) and [Professor Thomas Rauter](https://thomas-rauter.com/) at the Booth School of Business. I was previously a RA for [Professor Hyun-Han Shin](https://ysb.yonsei.ac.kr/faculty.asp?mid=n02&sOpt=&uid=32) and a TA for [Professor Saeyeul Park](https://ysb.yonsei.ac.kr/faculty.asp?mid=n02&sOpt=&uid=118) at Yonsei University. I will be applying to PhD programs in finance for admissions in Fall 2023.
+I am a current Master's student studying statistics at the University of Chicago. I am also working as a research assistant for [Professor Emanuele Colonnelli](https://emanuelecolonnelli.com/) and [Professor Thomas Rauter](https://thomas-rauter.com/) at the Booth School of Business. I was previously an RA for [Professor Anthony Zhang](https://anthonyleezhang.github.io/), an RA for [Professor Hyun-Han Shin](https://ysb.yonsei.ac.kr/faculty.asp?mid=n02&sOpt=&uid=32) and a TA for [Professor Saeyeul Park](https://ysb.yonsei.ac.kr/faculty.asp?mid=n02&sOpt=&uid=118) at Yonsei University. I will be applying to PhD programs in finance for admissions in Fall 2023.
 
 I have been interested in finance research since I was an undergraduate student at Yonsei University. My research interests revolve around the role of information in corporate decisions and investment activities. Here is a list of questions that I find intriguing:
 - Do dividend payments signal insider information to outside investors? If so, how does it impact investors' behavior? If not, why do some firms choose to pay dividends while others do not?
