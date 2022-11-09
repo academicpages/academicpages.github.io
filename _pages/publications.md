@@ -37,7 +37,7 @@ The Web Conference (**WWW**), 2022. (<span style="color:red">*CORE A\*, 17.7% ac
 
 * ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning \[[PDF](https://dl.acm.org/doi/10.1145/3459637.3482057)\] \[[Code](https://github.com/GRAND-Lab/ANEMONE)\]  
 Ming Jin, **Yixin Liu**, Yu Zheng, Lianhua Chi, Yuan-Fang Li, and Shirui Pan.  
-International Conference on Information and Knowledge Management (**CIKM**), 2021. (<span style="color:red">CORE A, *28.3% acceptance rate*</span>)
+International Conference on Information and Knowledge Management (**CIKM**), 2021. (<span style="color:red">*CORE A, *28.3% acceptance rate*</span>)
 
 ## Journal
 -----
