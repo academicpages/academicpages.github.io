@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  mastodon         : <a rel="me" href="https://mapstodon.space/@rtalaverag">Mastodon</a>
+  mastodon         : "https://mapstodon.space/@rtalaverag"
   twitter          : "rtalaverag"
   vine             :
   weibo            :
