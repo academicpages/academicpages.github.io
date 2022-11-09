@@ -61,7 +61,7 @@ Tisch, Daria, Emma Ischinsky: The role of the family in Germany’s Largest Fort
 
 Tisch, Daria: [Preservation of large fortunes over multiple generations](https://dariatisch.github.io/presentation_potsdam): How do political and family networks relate to wealth preservation in Germany?
 
-Tisch, Daria, Manuel Schechtl: [Gender differences in parental wealth transfers](https://dariatisch.github.io/presentation_gender_transfer_gap) and how the German tax system contributes to the gender wealth gap
+Tisch, Daria, Manuel Schechtl: Gender differences in parental wealth transfers and how the German tax system contributes to the gender wealth gap  <!--  [Gender differences in parental wealth transfers](https://dariatisch.github.io/presentation_gender_transfer_gap)  -->
 
 
 
