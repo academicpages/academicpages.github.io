@@ -82,11 +82,12 @@ analytics:
 author:
   name             : "Seung Chul (Eric) Lee"
   avatar           : "photo.jpg"
-  bio              : "Hi, I am a graduate student interested in finance research. I hope to move onto a PhD program in finance or accounting."
+  bio              : "Hi, I am a graduate student interested in finance research. I will be applying to PhD programs for admissions in Fall 2023."
   location         : "Chicago, IL"
   employer         :
   pubmed           : 
   googlescholar    : 
+  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=5385406"    
   email            : "ericsclee@uchicago.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
