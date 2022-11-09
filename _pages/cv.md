@@ -31,11 +31,11 @@ with Shawn Saeyeul Park (_Revise and Resubmit, Pacific-Basin Finance Journal_)
   * The results are robust to a matching procedure.
 
 * ‘ESG Ratings and Corporate Investment: Evidence from an External Financial Shock Caused by COVID-19 in Korea,’ 2021, with Kyooyoung Kwak. (in Korean)
-  * _2nd Place Winner, Korea Corporate Governance Service Student Paper Competition_ (<a href="http://www.cgs.or.kr/news/press_view.jsp?pp=6&skey=&svalue=&pg=1&no=190", target="_blank">Link</a>)
+  * _2nd Place Winner, Korea Corporate Governance Service Student Paper Competition_ (<a href="http://www.cgs.or.kr/news/press_view.jsp?pp=6&skey=&svalue=&pg=1&no=190" target="_blank">Link</a>)
 
 Publications
 ======
-* ‘A Comparative Study of Transfer Listing from KONEX to KOSDAQ with Other Listing Channels,’ 2022, with Byoungmoon Joe, Hyun-Han Shin and Yun Kyung Kim, Journal of CEO and Management Studies, <a href="https://doi.org/10.37674/CEOMS.25.1.12", target="_blank">https://doi.org/10.37674/CEOMS.25.1.12</a>. (in Korean)
+* ‘A Comparative Study of Transfer Listing from KONEX to KOSDAQ with Other Listing Channels,’ 2022, with Byoungmoon Joe, Hyun-Han Shin and Yun Kyung Kim, Journal of CEO and Management Studies, <a href="https://doi.org/10.37674/CEOMS.25.1.12" target="_blank">https://doi.org/10.37674/CEOMS.25.1.12</a>. (in Korean)
 
 Research Experience
 ======
@@ -49,7 +49,7 @@ Research Experience
 * Research Assistant, the University of Chicago Booth School of Business (Sept 2021 – Jan 2022)
   * Assisted Professor Anthony Lee Zhang’s research on the relationship between interest rates and Jeonse contracts in South Korea.
   * Performed a literature review of Korean papers dealing with Jeonse contracts.
-  * <a href="https://anthonyleezhang.github.io/pdfs/jeonse.pdf", target="_blank">Link</a> to resulting paper
+  * <a href="https://anthonyleezhang.github.io/pdfs/jeonse.pdf" target="_blank">Link</a> to resulting paper
 
 * Research Assistant, Yonsei University School of Business (Aug 2020 - Sept 2021)
   * Assisted Professor Hyun-Han Shin’s research on the performance of KONEX firms after transferring onto KOSDAQ (IPO underpricing, stock returns, etc.)
@@ -67,4 +67,4 @@ Teaching Experience
   * Teaching Assistant, BIZ2119 Financial Management, Undergraduate (Fall 2020)
   * Residential and Teaching Assistant, UCR1013 Residential College Self-Directed Activity, Undergraduate (Fall 2015, Spring 2015)
 
-<a href="https://ericsclee.github.io/files/CV_221024.pdf", target="_blank">PDF Version</a>
+<a href="https://ericsclee.github.io/files/CV_221024.pdf" target="_blank">PDF Version</a>
