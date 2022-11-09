@@ -36,31 +36,31 @@ ACM International Conference on Web Search and Data Mining (**WSDM**), 2023. (<s
 The Web Conference (**WWW**), 2022. (<span style="color:red">*17.7% acceptance rate*</span>)
 
 * ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning \[[PDF](https://dl.acm.org/doi/10.1145/3459637.3482057)\] \[[Code](https://github.com/GRAND-Lab/ANEMONE)\]  
-Ming Jin, **Yixin Liu**, Yu Zheng, Lianhua Chi, Yuan-Fang Li, and Shirui Pan. 
+Ming Jin, **Yixin Liu**, Yu Zheng, Lianhua Chi, Yuan-Fang Li, and Shirui Pan.  
 International Conference on Information and Knowledge Management (**CIKM**), 2021. (<span style="color:red">*28.3% acceptance rate*</span>)
 
 ## Journal
 -----
 * Graph Self-Supervised Learning: A Survey \[[PDF](https://arxiv.org/pdf/2103.00111.pdf)\]  
-**Yixin Liu**, Ming Jin, Shirui Pan, Chuan Zhou, Yu Zheng, Feng Xia, Philip S. Yu.
+**Yixin Liu**, Ming Jin, Shirui Pan, Chuan Zhou, Yu Zheng, Feng Xia, Philip S. Yu.  
 IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2022. (<span style="color:red">*IF: 9.235*</span>)
 
 * Anomaly Detection in Dynamic Graphs via Transformer \[[PDF](https://arxiv.org/pdf/2106.09876.pdf)\] \[[Code](https://github.com/yixinliu233/TADDY_pytorch)\]  
-**Yixin Liu**, Shirui Pan, Yu Guang Wang, Fei Xiong, Liang Wang, Qingfeng Chen, Vincent CS Lee.
+**Yixin Liu**, Shirui Pan, Yu Guang Wang, Fei Xiong, Liang Wang, Qingfeng Chen, Vincent CS Lee.  
 IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2021. (<span style="color:red">*IF: 9.235*</span>)
 
 * Generative and Contrastive Self-Supervised Learning for Graph Anomaly Detection \[[PDF](https://ieeexplore.ieee.org/document/9568697)\] \[[Code](https://github.com/yixinliu233/SL-GAD)\]  
-Yu Zheng, Ming Jin, **Yixin Liu**, Lianhua Chi, Khoa T Phan, and Yi-Ping Phoebe Chen.
+Yu Zheng, Ming Jin, **Yixin Liu**, Lianhua Chi, Khoa T Phan, and Yi-Ping Phoebe Chen.  
 IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2021. (<span style="color:red">*IF: 9.235*</span>)
 
 * Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning \[[PDF](https://arxiv.org/pdf/2103.00113.pdf)\] \[[Code](https://github.com/yixinliu233/CoLA)\]  
-**Yixin Liu**, Zhao Li, Shirui Pan, Chen Gong, Chuan Zhou, George Karypis.
+**Yixin Liu**, Zhao Li, Shirui Pan, Chen Gong, Chuan Zhou, George Karypis.  
 IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2021. (<span style="color:red">*IF: 14.255*</span>)
 
 * Cyclic Label Propagation for Graph Semi-supervised Learning \[[PDF](https://link.springer.com/article/10.1007/s11280-021-00906-2)\]  
-Zhao Li, **Yixin Liu**, Zhen Zhang, Shirui Pan, Jianliang Gao, and Jiajun Bu.
+Zhao Li, **Yixin Liu**, Zhen Zhang, Shirui Pan, Jianliang Gao, and Jiajun Bu.  
 World Wide Web (**WWWJ**), 2021. (<span style="color:red">*IF: 2.716*</span>)
 
 * MRD-NETS: Multi-Scale Residual Networks with Dilated Convolutions for Classification and Clustering Analysis of Spacecraft Electrical Signal \[[PDF](https://ieeexplore.ieee.org/document/8876602)\]  
-**Yixin Liu**, Ke Li, Yuxiang Zhang, and Shimin Song.
+**Yixin Liu**, Ke Li, Yuxiang Zhang, and Shimin Song.  
 IEEE ACCESS, 2019. (<span style="color:red">*IF: 3.476*</span>)
