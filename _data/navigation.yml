@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Resume/CV/Coursework"
+    url: /cv/
+
   - title: "Publications"
     url: https://scholar.google.com/citations?user=a9rXidMAAAAJ&hl=en
 
@@ -14,9 +17,6 @@ main:
 
   - title: "Early Projects"
     url: /projects/
-
-  - title: "Resume & CV"
-    url: /cv/
 
   - title: "Fun"
     url: /fun/ 
