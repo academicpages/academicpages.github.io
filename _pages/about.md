@@ -18,7 +18,7 @@ I am one of the cofounders and main contributors of the [Beta-Recsys](https://be
 
 ### News
 
-Nov, 2022.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; I gave a talk on **Graph Neural Networks** at [UN Big Data Hackathon 2022](https://unstats.un.org/bigdata/events/2022/hackathon/). The powerpoint is available [here](./_talks/UN_CEB_Talk_sim.pptx).
+Nov, 2022.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; I gave a talk on **Graph Neural Networks** at [UN Big Data Hackathon 2022](https://unstats.un.org/bigdata/events/2022/hackathon/). The powerpoint is available [here](./UN_CEB_Talk_sim.pptx).
 
 Oct, 2022.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;I become a Postdoc at MBZUAI.
 
