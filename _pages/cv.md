@@ -30,17 +30,17 @@ with Shawn Saeyeul Park (_Revise and Resubmit, Pacific-Basin Finance Journal_)
   * Firms that traded on pre-markets demonstrate less return volatility _ex post_ for about 50 days.
   * The results are robust to a matching procedure.
 
+* ‘ESG Ratings and Corporate Investment: Evidence from an External Financial Shock Caused by COVID-19 in Korea,’ 2021, with Kyooyoung Kwak. (in Korean)
+  * _2nd Place Winner, Korea Corporate Governance Service Student Paper Competition_ (<a href="http://www.cgs.or.kr/news/press_view.jsp?pp=6&skey=&svalue=&pg=1&no=190", target="_blank">Link</a>)
+
 Publications
 ======
-* ‘A Comparative Study of Transfer Listing from KONEX to KOSDAQ with Other Listing Channels,’ 2022, with Byoungmoon Joe, Hyun-Han Shin and Yun Kyung Kim, Journal of CEO and Management Studies, [https://doi.org/10.37674/CEOMS.25.1.12](https://doi.org/10.37674/CEOMS.25.1.12) (in Korean)
-
-* ‘ESG Ratings and Corporate Investment: Evidence from an External Financial Shock Caused by COVID-19 in Korea,’ 2021, with Kyooyoung Kwak. (in Korean)
-  * _2nd Place Winner, Korea Corporate Governance Service Student Paper Competition_ ([Link](http://www.cgs.or.kr/news/press_view.jsp?pp=6&skey=&svalue=&pg=1&no=190))
+* ‘A Comparative Study of Transfer Listing from KONEX to KOSDAQ with Other Listing Channels,’ 2022, with Byoungmoon Joe, Hyun-Han Shin and Yun Kyung Kim, Journal of CEO and Management Studies, <a href="https://doi.org/10.37674/CEOMS.25.1.12", target="_blank">https://doi.org/10.37674/CEOMS.25.1.12</a>. (in Korean)
 
 Research Experience
 ======
-* Research Assistant, the University of Chicago Booth School of Business (Sept 2021 – Current)
-  * Assisted Professor Emanuele Colonnelli on multiple research projects.
+* Research Assistant, the University of Chicago Booth School of Business (Sept 2021 – Oct 2022)
+  * Assisted Professor Emanuele Colonnelli and Professor Thomas Rauter on multiple research projects.
   * Created surveys and randomized investor profiles to implement a modified approach in Kessler, Low, and Sullivan (2019).
   * Conducted literature review and devised identification strategies for the impact of VC activities in emerging markets.
   * Constructed Python program to transform pilot survey results to data sets.
@@ -49,7 +49,7 @@ Research Experience
 * Research Assistant, the University of Chicago Booth School of Business (Sept 2021 – Jan 2022)
   * Assisted Professor Anthony Lee Zhang’s research on the relationship between interest rates and Jeonse contracts in South Korea.
   * Performed a literature review of Korean papers dealing with Jeonse contracts.
-  * [Link](https://anthonyleezhang.github.io/pdfs/jeonse.pdf) to resulting paper
+  * <a href="https://anthonyleezhang.github.io/pdfs/jeonse.pdf", target="_blank">Link</a> to resulting paper
 
 * Research Assistant, Yonsei University School of Business (Aug 2020 - Sept 2021)
   * Assisted Professor Hyun-Han Shin’s research on the performance of KONEX firms after transferring onto KOSDAQ (IPO underpricing, stock returns, etc.)
@@ -67,4 +67,4 @@ Teaching Experience
   * Teaching Assistant, BIZ2119 Financial Management, Undergraduate (Fall 2020)
   * Residential and Teaching Assistant, UCR1013 Residential College Self-Directed Activity, Undergraduate (Fall 2015, Spring 2015)
 
-[PDF Version](https://ericsclee.github.io/files/CV_221024.pdf)
+<a href="https://ericsclee.github.io/files/CV_221024.pdf", target="_blank">PDF Version</a>
