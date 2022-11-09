@@ -17,7 +17,7 @@ Education
 
 Working Papers
 ======
-* ‘Dividend Taxes, Corporate Choice, and Investment: Evidence from 2015 Tax Cut in South Korea,’
+* ‘Dividend Taxes, Corporate Choice, and Investment: Evidence from 2015 Tax Cut in South Korea,’ (<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4180284" target="_blank">SSRN</a>)
 with Shawn Saeyeul Park (_Revise and Resubmit, Pacific-Basin Finance Journal_)
   * South Korean firms were given the choice of opting into a dividend tax cut treatment.
   * Firms expected to receive the tax cuts experienced positive stock return.
