@@ -39,6 +39,8 @@ As an interdisciplinary non-profit scientific organization, OVRP is focused on 
 
 <img align="center" style="padding: 20px; right:100x;" src="/images/hamar_cow.jpg" width="750"/>
 
+<a rel="me" href="https://fediscience.org/@zhgarfield">Mastodon</a>
+
 Scientific philosophy
 ------
 * I value quantitative multidisciplinary approaches in the human sciences, built upon sound theoretical foundation. I am a proponent of open science and the coupling of confirmatory and exploratory analyses. 
