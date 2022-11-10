@@ -39,7 +39,7 @@ Datas das Provas
 
 Listas de Exercícios 
 ======
-* Lista de exercícios para ser entregue, via email em arquivo pdf, até o dia 21/11/2022.
+* [Lista de exercícios para ser entregue, via email em arquivo pdf, até o dia 21/11/2022](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/GACV_lista_exercicios.md)
 
 
 Notas de Aulas
