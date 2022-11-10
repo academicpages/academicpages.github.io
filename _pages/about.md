@@ -39,7 +39,7 @@ As an interdisciplinary non-profit scientific organization, OVRP is focused on 
 
 <img align="center" style="padding: 20px; right:100x;" src="/images/hamar_cow.jpg" width="750"/>
 
-<font color="white"><a rel="me" href="https://fediscience.org/@zhgarfield">Mastodon</a></font> 
+<a rel="me" href="https://fediscience.org/@zhgarfield">Mastodon</a><
 
 Scientific philosophy
 ------
