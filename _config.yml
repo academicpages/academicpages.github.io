@@ -68,7 +68,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: <a rel="me" href="https://fediscience.org/@zhgarfield">Mastodon</a>
 
 
 # Analytics
