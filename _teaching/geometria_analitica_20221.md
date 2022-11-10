@@ -39,7 +39,7 @@ Datas das Provas
 
 Listas de Exercícios 
 ======
-* 
+* Lista de exercícios para ser entregue, via email em arquivo pdf, até o dia 21/11/2022.
 
 
 Notas de Aulas
