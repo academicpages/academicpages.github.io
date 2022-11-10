@@ -14,7 +14,7 @@ My graduate thesis is a study of the environmental impact of highway regions usi
 
 Because of a strong interest in machine learning and deep learning, my current research centers on the area of deep learning, automated driving, and transportation big data. I have participated in Coursera's [Machine Learning](https://www.coursera.org/learn/machine-learning?) and [Deep Learning](https://www.coursera.org/specializations/deep-learning) courses since Aug.2021 and obtained the Online course certificate. Meanwhile, I learned about lane detection and studied the application of self pre-training with masked sequential autoencoders, submitted a paper with this research(August.2022). I participated in [HUAWEI 2022 Global AI Challenge](https://developer.huawei.com/consumer/cn/activity/starAI2022/algo/) to study intelligent quality detection of lane rendering data with further understanding of anomaly detection.
  
-<img src='/images/movie3.gif'>
+<center><img src='/images/movie3.gif'></center>
 <br/>The results in video of **<var>Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders</var>**.
        
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=108aa3&w=500&t=m&d=t3RFq-d0ZvyNcMOXmNGt6JTnByrbHW0lSUzD_8Yfss4&co=ffffff&cmn=2bcb0e'></script>
