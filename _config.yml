@@ -88,7 +88,6 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=k5NnEvgAAAAJ&hl=en"
   email            : "zachary.garfield@iast.fr"
-  mastodon         : "@zhgarfield@fediscience.org"
   researchgate     : "https://www.researchgate.net/profile/Zachary_Garfield"
   uri              :
   bitbucket        :
@@ -116,7 +115,7 @@ author:
   xing             :
   youtube          : "https://www.youtube.com/channel/UCVZIKjcvAabkrnTcYjuz3NA?view_as=subscriber"
   wikipedia        :
-
+  mastodon         : "@zhgarfield@fediscience.org"
 
 # Reading Files
 include:
