@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-# Discrimination and Constraints: Evidence from The Voice (Job Market Paper)
+# Discrimination: Evidence from The Voice (Job Market Paper)
 
 ## Abstract
 
