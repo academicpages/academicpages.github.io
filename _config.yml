@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "KMA Solaiman"
-  avatar           : "profile.png"
+  avatar           : "salvi-profile-pic.jpeg" # "profile.png"    # it's image uploaded to /images/
   bio              : "Computer Scientist"
   location         :
   employer         :
