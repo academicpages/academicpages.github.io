@@ -13,15 +13,22 @@ author_profile: true
 
 <h2>JOURNAL, CONFERENCE, AND WORKSHOP PAPERS <!--AND DEMONSTRATIONS (PEER-REVIEWED)--></h2> 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.website-separation-category == "c1" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
-<h2>POSTERS AND SYMPOSIUMS and UNPUBLISHED WORKS</h2> 
-{% for post in site.nonPeerReviewedPublications reversed %}
-  {% include archive-single.html %}
+<h2>POSTERS AND SYMPOSIUMS AND UNPUBLISHED WORKS</h2> 
+{% for post in site.publications reversed %}
+  {% if post.website-separation-category == "c2" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
+
 
 <h2>UNDERGRADUATE RESEARCH</h2> 
-{% for post in site.miscPublications reversed %}
-  {% include archive-single.html %}
+{% for post in site.publications reversed %}
+  {% if post.website-separation-category == "c3" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}

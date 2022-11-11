@@ -1,15 +1,15 @@
 ---
 title: "Surveillance Video Querying With A Human-in-the-Loop"
-collection: publications 
-permalink: /publications/journal-and-conference-and-workshop/survq
-# date: 2020-06-08
+collection: publications
+permalink: /publications/symposiums-posters/WesJem
+date: 2020-06-08
 year: 2020
 venue: 'HILDA@SIGMOD'
-venue-type: 'Workshop'
+venue-type: 'Symposium'
 research-category: 'Feature Extraction'
-website-separation-category: 'c1'
+website-separation-category: 'c2'
 paperurl: 'https://hilda.io/2020/proceedings/HILDA2020_paper6.pdf' #'https://www.cs.purdue.edu/homes/bb/2020-fall-cs590bb/docs/vp/surveillance_video_querying_paper.pdf'
-# link: 'https://doi.org/10.1093/isq/sqaa009'
+link: 'https://doi.org/10.1093/isq/sqaa009'
 # code: 'https://doi.org/10.7910/DVN/BEKPWV'
 authors: 'Michael Stonebraker, Bharat Bhargava, Michael Cafarella, Zachary Collins, Jenna McClellan, Aaron Sipser, Tao Sun, Alina Nesen, <b>KMA Solaiman</b>, Ganapathy Mani, Kevin Kochpatcharin, Pelin Angin, and James MacDonald'
 citation: 'M. Stonebraker et al., “Surveillance video querying with a
