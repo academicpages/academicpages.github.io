@@ -85,7 +85,7 @@ author:
   bio              : "PhD Student at Michigan State University Educational Psychology & Educational Technology"
   location         : "East Lansing, MI"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com" # Change to Semantic Scholar
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -106,10 +106,11 @@ author:
   orcid            : "http://orcid.org/0000-0003-2705-8563"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "annedrewhu"
+  mastodon         : "@annedrewhu@hci.social"
   vine             :
   weibo            :
   xing             :
