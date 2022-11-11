@@ -26,15 +26,23 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if post.collection == 'publications' %}            <!-- adding for publications -->
-        {{ title }}                                         <!-- adding for publications -->
+    <h3 class="archive__item-title" itemprop="headline">
+      <!-- adding for publications -->
+      {% if post.collection == 'publications' %}            
+        {{ title }}                                         
       {% elsif post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-    </h2>
+    </h3>
+
+    <!-- change header to h3 if want post.collection == 'publications' to have smaller size only -->
+    <!-- <h3 class="archive__item-title" itemprop="headline">
+      {% if post.collection == 'publications' %}            
+        {{ title }}   
+      {% endif %}
+    </h3> -->
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -53,13 +61,37 @@
         </blockquote>
         </details>
       {% endif %}
-      
-      <!-- citation and icon code -->
+      {% if post.venue-type %}
+        <button>{{ post.venue-type }}</button>
+      {% endif %}
+      {% if post.research-category %}
+        <button>{{ post.research-category }}</button>
+      {% endif %}
+
+      <!-- citation and icon codes -->
+      <!-- 
+      # poster
+      # pdf
+      # dataset
+      # slide
+      # talk/ video
+      # source code  
+      # award -->
       <p>
-      {% if post.citation %}
+      <!-- {% if post.citation %}
         {{ post.citation }}
+      {% endif %} -->
+      {% if post.authors %}
+        <i>{{ post.authors }}</i>
       {% endif %}
       <br>
+      {% if post.venue %}
+        <b><i style="color:blue">{{ post.venue }}</i></b>
+      {% endif %}
+      {% if post.year %}
+        <b><i style="color:blue">{{ post.year }}</i></b>
+      {% endif %}
+      <!-- <br> --> &nbsp;
       {% if post.link %}            
         <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
       {% endif %}
