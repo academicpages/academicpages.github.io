@@ -41,7 +41,7 @@ Listas de Exercícios
 ======
 * [Lista de exercícios para ser entregue, via email em arquivo pdf, até o dia 21/11/2022](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/GACV_lista_exercicios.md)
 
-
+* [Lista de Exercícios - Coordenadas Polares](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/GACV_lista04.pdf)
 Notas de Aulas
 ======
 1. 
