@@ -73,11 +73,11 @@ social:
 
 # Analytics
 analytics:
-  provider               : #"goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
+  provider               : "goatcounter" # false (default), "google", "google-universal", "custom", "goatcounter"
   google:
     tracking_id          : 
   goatcounter:
-    code		 : #jayrobwilliams
+    code		 : ksolaiman #jayrobwilliams
 
 
 # Site Author
@@ -96,21 +96,21 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : "https://www.flickr.com/photos/amaturesalvi/"
   facebook         :
   foursquare       :
   github           : "ksolaiman"
   gitlab           : "ksolaima"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "salvisolaiman"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "kmasolaiman"
   mastodon         : #"fosstodon.org/@jayrobw"
   pinterest        :
   soundcloud       :
-  stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
+  stackoverflow    : "https://stackoverflow.com/users/2647161/solaiman-salvi"
   steam            :
   tumblr           :
   twitter          : 
