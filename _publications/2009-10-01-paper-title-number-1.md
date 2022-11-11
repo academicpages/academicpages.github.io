@@ -4,12 +4,12 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'ICVGIP, 2022'
+paperurl: 'https://events.iitgn.ac.in/2022/icvgip/accepted_papers.html)'
+citation: 'Chanda Grover, Indra Deep Mastan. Debayan Gupta (2022). &quot;Paper Title Number 1.&quot; <i>ICVGIP, 2022</i>. 1(1). ContextCLIP: Contextual Alignment of Image-Text pairs on CLIP visual representations.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://drive.google.com/file/d/1iMxrjVp2EfqCN2c2F6aG8h8lKPRNZlMb/view?usp=share_link)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Chanda Grover, Indra Deep Mastan, Debayan Gupta (2022). "Paper Title Number 1." <i>ICVGIP, 2022</i>. 1(1) ContextCLIP: Contextual Alignment of Image-Text pairs on CLIP visual representations.
