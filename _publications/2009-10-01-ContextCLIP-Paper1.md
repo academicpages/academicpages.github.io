@@ -1,9 +1,9 @@
 ---
 title: "Paper Title Number 1"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publications
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: Oct 24, 2022
 venue: 'ICVGIP, 2022'
 paperurl: 'https://events.iitgn.ac.in/2022/icvgip/accepted_papers.html)'
 citation: 'Chanda Grover, Indra Deep Mastan. Debayan Gupta (2022). &quot;Paper Title Number 1.&quot; <i>ICVGIP, 2022</i>. 1(1). ContextCLIP: Contextual Alignment of Image-Text pairs on CLIP visual representations.'
