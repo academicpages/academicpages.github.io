@@ -86,7 +86,7 @@ author:
   location         : "East Lansing, MI"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com" # Change to Semantic Scholar
+  googlescholar    : #"http://yourfullgooglescholarurl.com" # Change to Semantic Scholar
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,12 +109,12 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "annedrewhu"
   vine             :
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : 
 
 
 # Reading Files
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Detroit # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
