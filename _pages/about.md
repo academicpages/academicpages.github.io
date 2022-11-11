@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi. I am a Ph.D. student in the [Computer Science Department](https://www.ashoka.edu.in/page/computer-science-10) at [Ashoka University](https://www.ashoka.edu.in/). I am working under the supervision of [Professor Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) and co-supervision of [Dr. Indra Deep Mastan](http://indradeepmastan.com/contact/) in the area of Machine Learning for Computer Vision . I started my research career under the guidance of [Dr. Dinesh Garg](https://scholar.google.co.in/citations?user=YrU_ZDkAAAAJ&hl=en) and   [Dr. Ravi Kothari](https://scholar.google.co.in/citations?user=u9oZXVkAAAAJ&hl=en). I am broadly interested in transforming knowledge from one aspect to other with machine learning deep learning methods.
+Hi. I am a Ph.D. student in the [Computer Science Department](https://www.ashoka.edu.in/page/computer-science-10) at [Ashoka University](https://www.ashoka.edu.in/). I am working under the supervision of [Professor Debayan Gupta](https://www.ashoka.edu.in/profile/debayan-gupta/) and co-supervision of [Dr. Indra Deep Mastan](http://indradeepmastan.com/contact/) in the area of Machine Learning for Computer Vision . I started my research career under the guidance of [Dr. Dinesh Garg](https://scholar.google.co.in/citations?user=YrU_ZDkAAAAJ&hl=en) and [Dr. Ravi Kothari](https://scholar.google.co.in/citations?user=u9oZXVkAAAAJ&hl=en). I am broadly interested in transforming knowledge from one aspect to other with machine learning deep learning methods.
 
 ### Research Interests: Generative Models, Transfer Learning, Multimodal Learning.
 
