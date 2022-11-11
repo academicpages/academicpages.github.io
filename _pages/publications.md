@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications
+permalink: /publications/2022-11-24-ContextCLIP-Paper1
 author_profile: true
 redirect_from:
   - /publications
