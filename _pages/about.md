@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anne Drew Hu researches K-12 CS education, specifically the social impact of computing"
+title: "(Under construction!) Research on teaching the social impact of computing in K-12"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<a rel="me" href="https://hci.social/@annedrewhu">Mastodon verification link</a>
+I'm a PhD student advised by [Aman Yadav](https://www.amanyadav.org/) and a member of the [Justice, Education, and Technology (JET) Lab](https://msujet.org/).
+
+<a rel="me" href="https://hci.social/@annedrewhu">Mastodon verification link ☑</a>
