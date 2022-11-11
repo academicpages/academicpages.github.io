@@ -346,7 +346,7 @@ button {
     padding: 0;
     width: 90px;
     height: 110px;
-    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    //-webkit-tap-highlight-color: rgba(0,0,0,0);
     &:active {
       margin-top: -54px;
     }
