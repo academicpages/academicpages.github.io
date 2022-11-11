@@ -83,10 +83,11 @@ author:
   name             : "Anne Drew Hu (they/them)"
   avatar           : "annedrew_square.jpg"
   bio              : "PhD Student at MSU Educational Psychology & Educational Technology"
-  location         : "East Lansing, MI"
+  location         : "East Lansing, MI & Seattle, WA"
   employer         :
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com" # Change to Semantic Scholar
+  semanticscholar  : "https://www.semanticscholar.org/author/Anne-Drew-Hu/2155666889"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

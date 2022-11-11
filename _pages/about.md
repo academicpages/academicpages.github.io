@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "(Under construction!) I research teaching the social impact of computing in K-12!"
+title: "(🚧Under construction!🚧) I research teaching the social impact of computing in K-12!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
