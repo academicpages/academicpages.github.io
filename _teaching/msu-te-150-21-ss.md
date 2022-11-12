@@ -1,11 +1,12 @@
 ---
-title: "TE 150: Reflections on Learning"
+title: "TE 150 (Spring, 2021): Reflections on Learning"
 collection: teaching
 type: 'Instructor of record'
 permalink: /teaching/msu-te-150
 venue: "Michigan State University"
-date: 2020-09-01
+date: 2021-01-01
 location:
+academic_term: "Spring, 2021"
 ---
 
 I've been the instructor of record for this course three semesters, so far: Fall 2020, Spring 2021, and Fall 2022.
