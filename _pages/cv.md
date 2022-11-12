@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 # Education
-* B.S. in Computer Science @ University of Washington, Seattle, 2020
-* B.A. in Education, Communities, and Organizations @ University of Washington, Seattle, 2020
-* Ph.D in Educational Psychology & Educational Technology @ Michigan State University, 2024 (expected)
+* B.A. in [Education, Communities, and Organizations](https://education.uw.edu/programs/undergraduate/eco) @ University of Washington, Seattle, 2020
+* B.S. in [Computer Science](https://www.cs.washington.edu/academics/ugrad) @ University of Washington, Seattle, 2020
+* Ph.D in [Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/) @ Michigan State University, 2024 (expected)
 
 # Publications
   <ul>{% for post in site.publications reversed %}
