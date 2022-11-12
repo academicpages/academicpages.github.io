@@ -20,7 +20,7 @@ author_profile: false
  | Thu, 2022-10-27 | 1:30pm - 2:30pm | Ao Sun | Generic Mean Curvature Flow with Cylindrical Singularities | Vincent 215 | 
  | Thu, 2022-11-03 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-11-10 | 1:30pm - 2:30pm | Nick Edelen | A strong maximum principle for minimizers of the one-phase Bernoulli problem| [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
- | Thu, 2022-11-17 | 1:30pm - 2:30pm | Beomjun Choi |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
+ | Thu, 2022-11-17 | 1:30pm - 2:30pm | Beomjun Choi | Liouville theorem for surfaces translating by powers of Gauss curvature | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-11-24 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-12-01 | 1:30pm - 2:30pm | Matthew Stoffregen |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-12-08 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
@@ -51,3 +51,7 @@ author_profile: false
 
 * Nick Edelen
   * We prove a strong maximum principle for minimizers of the one-phase Alt-Caffarelli functional. We use this to construct a Hardt-Simon-type foliation associated to any 1-homogenous global minimizer.
+
+* Beomjun Choi
+  * We classify the entire solutions to degenerate Monge-Ampere equations $\det D^2u = (1+|Du|^2)^\beta$ on $\mathbb{R}^2$ for all $\beta<0$. The graphs of such solutions are the translating solitons to the flows by sub-affine-critical powers of Gauss curvature. In view of the Legendre transformation, this classifies the entire solutions to $\det D^2v = (1+|x|^2)^{-\beta}$ as well.
+  * For the affine-critical-case $\det D^2u =1$, the celebrated result by Jorgens, Calabi and Pogorelov shows every solution must be a convex paraboloid and hence the level sets are homothetic ellipses. In our case, the level sets of given solution converge to a circle or a curve with $k$-fold symmetry for some $k>2$. These curves are closed shrinking curves to the curve shortening flows, classified by B. Andrews in 2003. Then we study the moduli space of solutions for each prescribed asymptotics. This is a joint work with K. Choi and S. Kim.
