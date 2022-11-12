@@ -1,7 +1,7 @@
 ---
 title: "Minimal Parameter Clustering of Complex Shape Dataset with High Dimensional Dataset Compatibility"
 collection: publications 
-permalink: /publications/ug-misc/
+permalink: /publications/ug-misc/thesis
 # date: 2020-06-08
 year: 2014
 venue: 'Undergraduate Thesis Poster Presentation'

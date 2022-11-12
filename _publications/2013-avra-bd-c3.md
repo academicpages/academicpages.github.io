@@ -1,7 +1,7 @@
 ---
 title: "AVRA Bangladesh collection, analysis & visualization of road accident data in Bangladesh"
 collection: publications 
-permalink: /publications/ug-misc/
+permalink: /publications/ug-misc/avra-bd
 # date: 2020-06-08
 year: 2013
 venue: 'ICIEV'
