@@ -5,7 +5,6 @@ type: "Talk"
 permalink: /talks/2022-practicum-brownbag
 venue: "MSU EPET Brown Bag"
 date: 2022-09-26
-location: "San Francisco, California"
 link: '/files/2022-practicum-brownbag.pdf'
 ---
 
