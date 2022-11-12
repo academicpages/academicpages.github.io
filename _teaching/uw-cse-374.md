@@ -2,7 +2,7 @@
 title: "CSE 374: Intermediate Programming Concepts and Tools"
 collection: teaching
 type: 'Instructor of record'
-permalink: /teaching/
+permalink: /teaching/uw-cse-374
 venue: "University of Washington"
 date: 2020-06-22
 location: "Seattle"
