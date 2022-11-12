@@ -1,5 +1,5 @@
 ---
-title: "CSE 333 (Winter, 2020): Systems Programming"
+title: "CSE 333: Systems Programming"
 collection: teaching
 type: "TA"
 permalink: /teaching/uw-cse-333

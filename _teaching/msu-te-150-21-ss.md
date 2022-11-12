@@ -1,5 +1,5 @@
 ---
-title: "TE 150 (Spring, 2021): Reflections on Learning"
+title: "TE 150: Reflections on Learning"
 collection: teaching
 type: 'Instructor of record'
 permalink: /teaching/msu-te-150

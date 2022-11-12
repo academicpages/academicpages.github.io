@@ -1,5 +1,5 @@
 ---
-title: "CSE 351 (Autumn, 2019): The Hardware/Software Interface"
+title: "CSE 351: The Hardware/Software Interface"
 collection: teaching
 type: "TA"
 permalink: /teaching/uw-cse-351
