@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/ug-misc/thesis
 # date: 2020-06-08
 year: 2014
-venue: 'Undergraduate Thesis Poster Presentation'
+venue: 'BUET Undergraduate Thesis Poster Presentation'
 venue-type: 'Poster'
 research-category: 'Unsupervised Learning'
 website-separation-category: 'c3'
