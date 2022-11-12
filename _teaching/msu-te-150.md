@@ -4,6 +4,6 @@ collection: teaching
 type: 
 permalink: /teaching/
 venue: "Michigan State University"
-#date: 2020-09-01
+date: 2020-09-01
 location:
 ---
