@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "(🚧Under construction!🚧)"
+title: "(🚧Under construction!🚧) About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
