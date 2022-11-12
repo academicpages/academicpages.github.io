@@ -11,14 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>JOURNAL, CONFERENCE, AND WORKSHOP PAPERS <!--AND DEMONSTRATIONS (PEER-REVIEWED)--></h2> 
+<h2 style="color:#7700DD">JOURNAL, CONFERENCE, AND WORKSHOP PAPERS <!--AND DEMONSTRATIONS (PEER-REVIEWED)--></h2> 
 {% for post in site.publications reversed %}
   {% if post.website-separation-category == "c1" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-<h2>POSTERS AND SYMPOSIUMS <!--AND UNPUBLISHED WORKS--></h2> 
+<h2 style="color:#7700DD">POSTERS AND SYMPOSIUMS <!--AND UNPUBLISHED WORKS--></h2> 
 {% for post in site.publications reversed %}
   {% if post.website-separation-category == "c2" %}
     {% include archive-single.html %}
@@ -26,7 +26,7 @@ author_profile: true
 {% endfor %}
 
 
-<h2>UNDERGRADUATE RESEARCH</h2> 
+<h2 style="color:#7700DD">UNDERGRADUATE RESEARCH</h2> 
 {% for post in site.publications reversed %}
   {% if post.website-separation-category == "c3" %}
     {% include archive-single.html %}
