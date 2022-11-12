@@ -86,7 +86,7 @@ author:
   location         : "East Lansing, MI & Seattle, WA"
   employer         :
   pubmed           : 
-  googlescholar    : #"http://yourfullgooglescholarurl.com" # Change to Semantic Scholar
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   semanticscholar  : "https://www.semanticscholar.org/author/Anne-Drew-Hu/2155666889"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
