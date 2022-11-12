@@ -5,7 +5,7 @@ permalink: /publication/2019-tracing-assessment
 excerpt: "Part of my undergrad research in [Amy Ko's Lab](https://faculty.washington.edu/ajko)"
 date: 2019-11-21
 venue: 'Koli Calling'
-paperurl: 'http://academicpages.github.io/files/3364510.3364525.pdf'
+paperurl: '/files/3364510.3364525.pdf'
 citation: 'Nelson, G.L., <u><b>Hu, A.D.</b></u>, Xie, B., & Ko, A.J. (2019). Towards validity for a formative assessment for language-specific program tracing skills. <i>Proceedings of the 19th Koli Calling International Conference on Computing Education Research</i>.'
 ---
 
