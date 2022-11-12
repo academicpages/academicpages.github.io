@@ -2,7 +2,7 @@
 title: "PyBioNetFit and the Biological Property Specification Language "
 collection: publications
 permalink: /publication/2019-PyBioNetFit
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'I worked on this project as an undergrad, applying skills from compilers in a computational biology context.'
 date: 2019-03-18
 venue: 'iScience'
 paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6744527/pdf/main.pdf'
