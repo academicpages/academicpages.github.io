@@ -5,13 +5,13 @@ title: "Teaching"
 
 ### Purdue University (2016-22)
 - [CS 59000BB: Situation Awareness, Adversarial ML, and Explainable AI](https://www.cs.purdue.edu/homes/bb/2020-fall-cs590bb/),  Fall 2020 <br>
-Guest lectured on <i>situational knowledge and multimodal information retrieval</i>.
-<!-- Taught the basic cellular network architecture, and different sub protocols, such as, authentication and key agreement, registration, paging, and deregistration procedure. Also demonstrated different attacks and defenses in cellular networks. -->
+Guest lectured on <i>situational knowledge, knowledge graphs, and multimodal information retrieval</i>. Talked about cross correlation learning, metric learning, decoder-encoder networks, and attention networks. Taught about video feature extraction with YOLO, text feature extraction, graph embedding techniques, and graph matching. Also demonstrated a multimodal retrieval system with text, image, and video modalities.
+- [CS54300: Intro. To Simulation & Modeling Of Computer Systems](https://sites.google.com/site/kmasolaiman/courses/spring2019/cs543), Spring 2019 (Assistant) <br>
+Developed solutions to five programming assignments throughout the semester while working closely with the instructor. Programming assignments were designed for single server queue, tandem queue, and mutli-server queue.
 
 - Graduate Teaching Assistant
     - CS18000: Problem Solving and Object Oriented Programming; Fall 2016-17
     - CS25100: Data Structures; Spring 2017, Spring 2018 - Fall 2018
-    - [CS54300: Introduction To Simulation & Modeling Of Computer Systems](https://sites.google.com/site/kmasolaiman/courses/spring2019/cs543); Spring 2019
     - [CS44800: Introduction To Relational Database Systems](https://www.cs.purdue.edu/homes/bb/cs448f19/); Fall 2019
     - [CS53600: Data Communication and Computer Networks](https://gitlab.com/purdue-cs536/fall-2022/public); Fall 2022
 
