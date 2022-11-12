@@ -6,7 +6,7 @@ excerpt: "Formative assessments can have positive effects on learning, but few e
 date: 2019-11-21
 venue: 'Koli Calling'
 paperurl: 'http://academicpages.github.io/files/3364510.3364525.pdf'
-citation: 'Nelson, G.L., Hu, A.D., Xie, B., & Ko, A.J. (2019). Towards validity for a formative assessment for language-specific program tracing skills. <i>Proceedings of the 19th Koli Calling International Conference on Computing Education Research</i>.'
+citation: 'Nelson, G.L., <b>Hu, A.D.</b>, Xie, B., & Ko, A.J. (2019). Towards validity for a formative assessment for language-specific program tracing skills. <i>Proceedings of the 19th Koli Calling International Conference on Computing Education Research</i>.'
 ---
 
 Template
