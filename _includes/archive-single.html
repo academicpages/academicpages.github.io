@@ -28,8 +28,8 @@
 
     <h3 class="archive__item-title" itemprop="headline">
       <!-- adding for publications -->
-      {% if post.collection == 'publications' %}            
-        {{ title }}                                         
+      <!-- {% if post.collection == 'publications' %}            
+        {{ title }}                                          -->
       {% elsif post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
@@ -52,6 +52,20 @@
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'publications' %}
       <!-- <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
+      {% if post.title %}            
+        <h3 class="archive__item-title" itemprop="headline"> 
+          {{ title }}  
+          <!-- <br> -->
+          &nbsp;
+          <!-- Venue and Type -->
+          {% if post.venue-type %}
+            <button>{{ post.venue-type }}</button>
+          {% endif %}
+          {% if post.research-category %}
+            <button>{{ post.research-category }}</button>
+          {% endif %}
+        </h3> 
+      {% endif %}   
       {% if post.abstract %}
         <details><summary>Abstract</summary>
         <blockquote>
@@ -60,12 +74,6 @@
         </p>
         </blockquote>
         </details>
-      {% endif %}
-      {% if post.venue-type %}
-        <button>{{ post.venue-type }}</button>
-      {% endif %}
-      {% if post.research-category %}
-        <button>{{ post.research-category }}</button>
       {% endif %}
 
       <!-- citation and icon codes -->
@@ -77,7 +85,7 @@
       # talk/ video
       # source code  
       # award -->
-      <p>
+      <!-- <p> -->
       <!-- {% if post.citation %}
         {{ post.citation }}
       {% endif %} -->
@@ -104,7 +112,7 @@
       {% if post.github %}
         <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
       {% endif %}
-      </p>
+      <!-- </p> -->
     {% elsif post.collection == 'posts' and post.date %}
       <p class="page__date"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     {% endif %}

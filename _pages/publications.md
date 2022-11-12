@@ -18,7 +18,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h2>POSTERS AND SYMPOSIUMS AND UNPUBLISHED WORKS</h2> 
+<h2>POSTERS AND SYMPOSIUMS <!--AND UNPUBLISHED WORKS--></h2> 
 {% for post in site.publications reversed %}
   {% if post.website-separation-category == "c2" %}
     {% include archive-single.html %}
