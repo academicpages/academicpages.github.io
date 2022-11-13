@@ -27,12 +27,19 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% elsif post.paperurl %}
-        <a href="{{ post.paperurl }}">{{ title }}</a>
+      {% if post.inpress %}
+        {% assign is_inpress = "<i>(in press)</i>" %}
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        {% assign is_inpress = "" %}
+      {% endif %}
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ is_inpress }}{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% elsif post.paperurl %}
+        <a href="{{ post.paperurl }}">{{ is_inpress }}{{ title }}</a>
+      {% else %}
+        <!-- The permalink is confusing and not really helpful -->
+        <!--a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a-->
+        {{ title }}
       {% endif %}
     </h2>
     
