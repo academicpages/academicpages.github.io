@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 * **BSc in Meteorology and Climate**, University of Reading, 2018-2021
+  * *"Investigating the representation of sting jets in high-resolution climate simulations"*
 * **MSc (Res) in Polar and Alpine Change**, University of Sheffield, 2021-2022
+  * *"Modelling the Future Changes in Surface Mass Balance of the Juneau Icefield under RCP8.5 emissions scenario"*
 * **Ph.D in Atmospheric and Environmental Sciences**, University of Edinburgh, 2022-present
 
 Work experience
@@ -30,15 +32,16 @@ Work experience
 
 Skills
 ======
-* Python
+* 5 years experience working with Python
   * Google Earth Engine Python API
   * *(xarray, cartopy, iris, matplotlib, etc)*
-* Linux-based high performance computers (e.g. JASMIN) 
+* 3 years experience working with Linux-based high performance computers (e.g. JASMIN) 
   * Experience in writing job scripts in bash
   * Experience with using schedulers such as SLURM and SGE
 * LaTeX
 * Git, Github and version control [https://github.com/ry-ing](https://github.com/ry-ing)
 * QGIS
+* R
 
 
 
