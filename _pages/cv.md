@@ -13,9 +13,13 @@ Education
 ======
 * **BSc in Meteorology and Climate**, University of Reading, 2018-2021
   * *"Investigating the representation of sting jets in high-resolution climate simulations"*
+  * Supervisors: Dr Oscar Martínez-Alvarado and Dr Reinhard Schiemann 
 * **MSc (Res) in Polar and Alpine Change**, University of Sheffield, 2021-2022
   * *"Modelling the Future Changes in Surface Mass Balance of the Juneau Icefield under RCP8.5 emissions scenario"*
+  * Supervisors: Dr Jeremy Ely and Dr Julie Jones
 * **Ph.D in Atmospheric and Environmental Sciences**, University of Edinburgh, 2022-present
+  * *"Investigating the influence of meltwater runoff and near-terminus subglacial hydrology on the dynamics of Greenland’s marine-terminating glacier margins"* ]
+  * Supervisors: Professor Peter Nienow, Dr Anna Hogg, Dr Encarni Medina-Lopez, Dr Andrew Sole and Dr Benjamin Davidson
 
 Work experience
 ======
