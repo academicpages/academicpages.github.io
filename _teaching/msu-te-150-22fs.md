@@ -11,6 +11,5 @@ academic_term: "Fall, 2022"
 
 I taught two special topic classes this semester:
 
-<!--Need to upload the PDFs to these lessons-->
 * Asset-based teaching in the context of English Language Learners
 * The school to prison pipeline
