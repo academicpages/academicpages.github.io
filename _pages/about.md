@@ -16,7 +16,8 @@ My research interests lie within the intersection of Natural Language Processing
 <!--You can find my CV [here](/cv/).-->
 
 ## On The Job Market
-I'm on the job market, looking for Post-doc and industrial research positions (in North America), starting in 2023 Autumn.
+I'm on the job market, looking for Post-doc and industrial research positions, starting in 2023 Autumn.
+<!-- (in North America) -->
 
 <!-- ## Coming Soon
 Will share our work: [On Transferability of Prompt Tuning for Natural Language Processing](https://arxiv.org/abs/2111.06719)<br>
@@ -78,9 +79,10 @@ EMNLP 2020 Findings, AI OPEN 2021. [[pdf]](https://arxiv.org/abs/2009.13964) [[p
 *Ning Ding, Yujia Qin, Guang Yang, Fuchao Wei, Zonghan Yang, <b>Yusheng Su</b>, Shengding Hu, Yulin Chen, Chi-Min Chan, Weize Chen, Jing Yi, Weilin Zhao, Xiaozhi Wang, Zhiyuan Liu, Hai-Tao Zheng, Jianfei Chen, Yang Liu, Jie Tang, Juanzi Li, Maosong Sun.*\
 ArXiv. [[pdf]](https://arxiv.org/abs/2203.06904)
 
-
+<!--
 ## Teaching
 * [Jul. 2022] Tsinghu University - NLP Big Model Course (Summer) [link](https://www.bilibili.com/video/BV1UG411p7zv?p=1&unique_k=OwC3PgP)
+-->
 
 ## Talks
 * [Sep. 2022] Invited Talk (on-line) @ [SAP](https://www.sap.com/products/artificial-intelligence.html) Headquarter, Germany
