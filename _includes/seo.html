@@ -104,7 +104,7 @@
 {% if site.og_image %}
   <script type="application/ld+json">
     {
-      "@context": "http://schema.org",
+      "@context": "https://schema.org",
       "@type": "Organization",
       "url": {{ seo_url | jsonify }},
       "logo": {{ site.og_image | prepend: "/images/" | prepend: base_path | jsonify }}
@@ -115,7 +115,7 @@
 {% if site.social %}
   <script type="application/ld+json">
     {
-      "@context" : "http://schema.org",
+      "@context" : "https://schema.org",
       "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
       "name" : "{{ site.social.name | default: site.name }}",
       "url" : {{ seo_url | jsonify }},
