@@ -26,15 +26,18 @@ Work experience
   * GeogPod: ["High-altitude weather balloons and marine-terminating glaciers"](https://geogpod.podbean.com/e/episode-56-ryan-ing-high-altitude-weather-balloons-and-marine-terminating-glaciers/) 
 
 
-  
+
 Skills
 ======
-* Computing
-  * Python
-   * Google Earth Engine Python API
-   * *(xarray, cartopy, iris, matplotlib, etc)*
-  * Linux-based high performance computers (e.g. JASMIN)
-  * LaTeX
+* Python
+  * Google Earth Engine Python API
+  * *(xarray, cartopy, iris, matplotlib, etc)*
+* Linux-based high performance computers (e.g. JASMIN) 
+  * Experience in writing job scripts in bash
+  * Experience with using schedulers such as SLURM and SGE
+* LaTeX
+* Git, Github and version control (https://github.com/ry-ing
+* QGIS
 
 
 
