@@ -1,9 +1,14 @@
 ---
 title: "Surface Energy Balance"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/SEB_kanl_hourly.png'>"
+excerpt: "<br/><img src='/images/SEB_kanl_hourly.png'>"
 collection: portfolio
 ---
+This figure was created for a fieldwork report for my master’s degree. It displays the modeled surface energy balance from [COSIPY[]()](https://cryo-tools.org/tools/cosipy/) which was forced by PROMICE automatic weather station data. It shows the different components that contribute to the available melt energy at the glacier surface, which change dramatically over the study period. 
 
-As part of my research masters at the University of Sheffield, I had the oppurtunity to go on fieldwork to Russell Glacier in west Greenland. This fieldwork involved collecting various measurements of the proglacial river hydrology, surface melt and on-ice GPS locations, culminating in a research report.
-
-To aid in the analysis of the meteorological conditions during the study period I modelled the surface energy balance utilising measurements from an automatic weather station and the [COSIPY model](https://cryo-tools.org/tools/cosipy/). This provided insights into how daily weather variability affects the individual contributions of the surface energy budget.
+![](/images/SEB_kanl_hourly.png)
+*Figure 1: (a) The SEB at KAN-L AWS modelled by COSIPY, where SW_net, LW_net, H, LE, QR and QG are
+defined as positive when they transfer heat to the ice surface. The air temperature, wind speed at 3 m and the total
+available melt energy are also shown.(b) The resultant individual mass components from LE and relative humidity.
+Despite a negative LE cooling the surface, it leads to a negative mass change due to evaporation and sublimation
+processes. (c) The total hourly rainfall from the nearest grid point to KAN-L from the ERA5T data. Also shown
+is the total daily surface melt calculated by the COSIPY model.*
