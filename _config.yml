@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
-facebook:
-  username               :
+  xavierjimenez_               : &twitter
+LinkedIn:
+  xavijimenez               :
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -102,11 +102,11 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/xavijimenez/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-7227-9392"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://stackoverflow.com/users/9100441/xavier-jiménez-albán
   steam            :
   tumblr           :
   twitter          : "xavierjimenez_"
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -185,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 

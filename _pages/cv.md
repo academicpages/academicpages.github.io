@@ -28,14 +28,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
 * Programming Languages
   * Python
   * R
   * SAS
   * SQL
   * Julia
-* Skill 3
 
 Publications
 ======
