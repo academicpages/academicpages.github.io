@@ -12,16 +12,16 @@ redirect_from:
 [pdf version available here](http://WeiCheng14159.github.io/files/resume/resume.pdf)
 
 ## Education
-* B.S. in Computer Engineering, The University of Hong Kong, 2018
+* B.E. in Computer Engineering, University of Hong Kong, 2018
 * M.S. in Computer Science and Information Engineering, National Cheng Kung University, 2022
 
 ## Research experiences
 * Feb 2021 - Now: Research Assistant, [Institute of Information Science, Academia Sinica](https://www.iis.sinica.edu.tw/)
   * Supervisor: [Prof. Yuan-Hao Chang](https://www.iis.sinica.edu.tw/~johnson/)
   * Graph processing on dual-addressing memory [ICCAD'22]
-* Sep 2020 - Jun 2022: Research Assistant, [Computer Architecture & IC Design Lab, NCKU ](http://caid.csie.ncku.edu.tw/index.php)
+* Sep 2020 - Jun 2022: Research Assistant, [Computer Architecture & IC Design Lab, NCKU](http://caid.csie.ncku.edu.tw/index.php)
   * Supervisor: [Prof. Ing-Chao Lin](http://caid.csie.ncku.edu.tw/index.php?e=home.professor)
-  * CNN accelerator with CLIP-Q network quantization on FPGA [TCAD-I'22]
+  * CNN accelerator with CLIP-Q network quantization on FPGA [TCAS-I]
 * Summer 2016: Intership, [TCL Corporate Research (HK) Co., Ltd](https://www.linkedin.com/company/tcl-corporate-research-hk-co-ltd/)
   * Assist researchers on Structure from Motion, SLAM algorithms
 
@@ -42,6 +42,8 @@ redirect_from:
   {% endfor %}</ul>
 
 ## Honors & Awards
+* 2022: IEEE Tainan Section Best Master Thesis Award
+  * Thesis Title: A Dual-Addressing Graph Processing Accelerator with Vertex Coalescing
 * 2014 - 2018: HKU Foundation Scholarship for International Students (240k HKD in total)
 * 2016 - 2017: Reaching Out Award scholarship from HKSAR gov.
 * 2018: IEEE (Hong Kong) Final Year Project Merit Award
@@ -56,13 +58,13 @@ redirect_from:
   * Github: [https://github.com/WeiCheng14159/VSD_CNN_accelerator](https://github.com/WeiCheng14159/VSD_CNN_accelerator)
 * Contribute to ria-jit (an open source RISC-V to x86 binary translator)
   * Find and fix a divide by zero bug with RISC-V compliance tests.
-  * Details: [https://hackmd.io/x6qVjoU1RE-yjjgviKEVBQ](https://hackmd.io/x6qVjoU1RE-yjjgviKEVBQ)
+  * Details: [https://hackmd.io/@WeiCheng14159/BJuwQJy_s](https://hackmd.io/@WeiCheng14159/BJuwQJy_s)
 * Contribute to srv32 (an open source 3-stage pipeline RV32IM core)
   * Verify and contribute RV32C instructions to the existing implementation.
-  * Details: [https://hackmd.io/2WC89qPcSimKqCY4LxYoRA](https://hackmd.io/2WC89qPcSimKqCY4LxYoRA)
+  * Details: [https://hackmd.io/@WeiCheng14159/ryh1iJ1_o](https://hackmd.io/@WeiCheng14159/ryh1iJ1_o)
 
 ## Other Experiences
-* Cell-based Digital IC tapeout, [Taiwan Semiconductor Research Institute](https://www.tsri.org.tw/main.jsp)
+* Cell-based Digital IC tapeout, [Taiwan Semiconductor Research Institute](https://www.tsri.org.tw/en/index.jsp)
   * Participate in the design, tapeout, and verification of an UMC 0.18 um process digital IC
 * Service as the class representative for CE major students in academic year 2015-2016, 2017-2018
 
