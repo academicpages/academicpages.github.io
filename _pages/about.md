@@ -7,15 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-E7DTD2MX6X"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-E7DTD2MX6X');
-</script>
 
 I (Chinese: 张勇军[audio](https://yongjunzhang.com/files/name.m4a)) am a computational social scientist studying politics, organizations, social movements, and inequality. I received my Sociology PhD in 2020 from the University of Arizona. I am currently working as an Assistant Professor of [Sociology](https://www.stonybrook.edu/commcms/sociology//people/faculty/Zhang.php) and [Institute for Advanced Computational Science](https://iacs.stonybrook.edu/) at Stony Brook University. I am also a research affiliate at New York University.
 
@@ -92,3 +83,13 @@ Yongjun Zhang. Sept 24, 2021. "Using Relational Data from Facebook and SafeGraph
 ## Social Media
 
 <a class="twitter-timeline" data-width="500" href="https://twitter.com/DrJoshZhang?ref_src=twsrc%5Etfw">Tweets by DrJoshZhang</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E7DTD2MX6X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-E7DTD2MX6X');
+</script>
