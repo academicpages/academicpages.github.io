@@ -53,17 +53,10 @@
     {% elsif post.collection == 'publications' %}
       <!-- <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
       {% if post.title %}            
-        <h3 class="archive__item-title" itemprop="headline"> 
-          {{ title }}  
+        <h3 class="archive__item-title" itemprop="headline">  <!-- underlining when hovering was happening bcoz of archive__item-title class in _archive.scss, deleting is same  --> 
+          {{ title }} 
           <!-- <br> -->
-          &nbsp;
-          <!-- Venue and Type -->
-          {% if post.venue-type %}
-            <button>{{ post.venue-type }}</button>
-          {% endif %}
-          {% if post.research-category %}
-            <button>{{ post.research-category }}</button>
-          {% endif %}
+          <!-- &nbsp; -->
         </h3> 
       {% endif %}   
       {% if post.abstract %}
@@ -100,6 +93,14 @@
         <b><i style="color:dodgerblue">{{ post.year }}</i></b>
       {% endif %}
       <!-- <br> --> &nbsp;
+      <!-- Venue and Type -->
+      {% if post.venue-type %}
+        <button class="btn">{{ post.venue-type }}</button>
+      {% endif %}
+      {% if post.research-category %}
+        <button class="btn">{{ post.research-category }}</button>
+      {% endif %}
+      &nbsp;
       {% if post.link %}            
         <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
       {% endif %}
@@ -114,7 +115,7 @@
       {% endif %}
       {% if post.video %}
         <a href="{{ post.video }}"><i class="fas fa-fw fa-video"  aria-hidden="true"></i></a>
-      {% endif %}
+      {% endif %} 
       <!-- </p> -->
     {% elsif post.collection == 'posts' and post.date %}
       <p class="page__date"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
