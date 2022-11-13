@@ -159,7 +159,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+excerpt_separator: "---end excerpt---" # Changing this so I can display more than just the first P
 incremental: false
 
 

@@ -13,3 +13,5 @@ I taught two special topic classes this semester:
 
 * Asset-based teaching in the context of English Language Learners
 * The school to prison pipeline
+
+---end excerpt---
