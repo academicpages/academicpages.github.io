@@ -32,16 +32,16 @@ Work experience
 
 Skills
 ======
-* 5 years experience working with Python
+* 5 years experience working with **Python**
   * Google Earth Engine Python API
   * *(xarray, cartopy, iris, matplotlib, etc)*
-* 3 years experience working with Linux-based high performance computers (e.g. JASMIN) 
+* 3 years experience working with **Linux-based high performance computers** (e.g. JASMIN) 
   * Experience in writing job scripts in bash
   * Experience with using schedulers such as SLURM and SGE
-* LaTeX
-* Git, Github and version control [https://github.com/ry-ing](https://github.com/ry-ing)
-* QGIS
-* R
+* **LaTeX**
+* **Git**, **Github** and version control [https://github.com/ry-ing](https://github.com/ry-ing)
+* **QGIS**
+* **R**
 
 
 
