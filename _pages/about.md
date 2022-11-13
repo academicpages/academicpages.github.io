@@ -13,7 +13,7 @@ During my Ph.D., I have worked closely with [Prof. Michael Stonebraker](https://
 <!-- the A.M. Turing Award recipient Michael Stonebraker. -->
 I earned my M.Sc. in Computer Science from Purdue University and my B.Sc. in [Computer Science & Engineering](https://cse.buet.ac.bd/) from [Bangladesh University of Engineering & Technology (BUET)](https://www.buet.ac.bd/web/#/) ([B.Sc. Dissertation](/files/publications/ug-thesis-2014.pdf)). 
 I also served as a faculty member at Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/cse)) and United International University ([UIU](https://www.uiu.ac.bd/)).
-<!-- I obtained my Ph.D. from the College of Information and Computer Sciences (CICS), University of Massachusetts, Amherst under the supervision of Prof. Alexandra Meliou (Ph.D. Dissertation). -->
+<!-- Update when you get phd like this: I obtained my Ph.D. from the College of Information and Computer Sciences (CICS), University of Massachusetts, Amherst under the supervision of Prof. Alexandra Meliou (Ph.D. Dissertation). -->
 
 My research interests revolve around heterogeneous data management in general, 
 <!-- and multimodal information retrieval in particular.  -->
@@ -26,10 +26,3 @@ I am interested in designing mechanisms for identifying patterns and novelties i
 
 
 > **Open To Work:** Being close to finishing up my Ph.D., I am excited for my next adventure. I am looking for post doctoral or faculty positions. Please feel free to [reach out](mailto:ksolaima@purdue.edu) to me!
-
-
-
-
-<!-- Job Williams -->
-<!-- Welcome! I am a data scientist applying machine learning tools and causal inference techniques to remote sensing data. I am also an affiliated researcher with the Data-driven Analysis of Peace Project and a research collaborator with the Research on International Policy Implementation Lab.
-I earned my Ph.D in Political Science from the University of North Carolina at Chapel Hill and my B.A. in Political Science from Haverford College. My academic work has been published or is forthcoming in International Studies Quarterly, Conflict Management and Peace Science, Political Science Research and Methods, and PS: Political Science & Politics, among other outlets. This research explores the causes and consequences of political violence using a broad variety of methods such as latent variable models, geospatial analysis, and big data. While primarily focused on civil conflict, it also examines contentious political phenomena including terrorism and economic statecraft, and develops new measures of institutions in international relations. I have teaching experience in both quantitative methodology and international relations, and am a certified instructor with The Carpentries. -->
