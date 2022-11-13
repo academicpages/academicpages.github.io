@@ -103,17 +103,17 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/xavijimenez/"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-7227-9392"
+  orcid            : # "https://orcid.org/my-orcid?orcid=0000-0002-7227-9392"
   pinterest        :
   soundcloud       :
-  stackoverflow    : https://stackoverflow.com/users/9100441/xavier-jiménez-albán
+  stackoverflow    : "https://stackoverflow.com/users/9100441/xavier-jiménez-albán"
   steam            :
   tumblr           :
-  twitter          : "xavierjimenez_"
+  twitter          : # "xavierjimenez_"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/@xavierjimenez"
   wikipedia        :
 
 
