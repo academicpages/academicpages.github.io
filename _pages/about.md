@@ -8,4 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a SENSE CDT PhD student in the School of Geosciences. My project focuses on using remote sensing to investigate the influence of meltwater and subglacial hydrology on the dynamics of Greenland’s marine-terminating glaciers.  My primary supervisor is Professor Peter Nienow, I am also co-supervised by Dr Anna Hogg, Dr Encarni Medina-Lopez, Dr Andrew Sole and Dr Benjamin Davidson.
+Hello! I am a SENSE PhD student based in the School of Geosciences at the University of Edinburgh. My project aims to utilise remote sensing to improve our understanding of the various atmospheric and oceanic forcings affecting the dynamics of Greenland's marine terminating glaciers. Part of this will include novel machine learning of surface fjord temperatures and salinity using Sentinel-2. 
+
+I am supervised by Professor Peter Nienow, Dr Anna Hogg, Dr Encarni Medina-Lopez, Dr Andrew Sole and Dr Benjamin Davidson. My PhD is part of the NERC and UK Space Agency funded Centre for Doctoral Training "SENSE": the Centre for Satellite Data in Environmental Science.
+
+
+![](image.png)
