@@ -4,8 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Working Papers
-1. **C. Tang**, N. Srishankar, S. Martin and M. Tomizuka, "Grounded Relational Inference: Domain Knowledge-driven Explainable Autonomous Driving," under review for *IEEE Transactions on Intelligent Transportation System (T-ITS)*, 2022
+## Under Review 
+1. **C. Tang**, N. Srishankar, S. Martin and M. Tomizuka, "Grounded Relational Inference: Domain Knowledge-driven Explainable Autonomous Driving," under review for *IEEE Transactions on Intelligent Transportation System (T-ITS)*
+2. C. Hao, **C. Tang**, E. Bergkvist, C. Weaver, L. Sun, W. Zhan, and M. Tomizuka, “Outracing human racers with model-based autonomous racing,” under review for *IEEE Transactions on Intelligent Vehicles (T-IV)*
+3. S. Shaoshu, C. Hao, C. Weaver, **C. Tang**, W. Zhan, and M. Tomizuka, “Double-iterative gaussian process regression for modeling error compensation in autonomous racing,” under review for *22nd IFAC World Congress 2023*
 
 ## Journal
 1. J. Li, **C. Tang**, W. Zhan, and M. Tomizuka, “Hierarchical planning through goal-conditioned offline reinforcement learning,” *IEEE Robotics and Automation Letters (RA-L)* and *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022
