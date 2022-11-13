@@ -22,7 +22,7 @@ Work experience
   * Skills: Analysing large climate model datasets on JASMIN (super-data cluster)
   * Supervisors: Dr Oscar Martínez-Alvarado and Dr Reinhard Schiemann 
   
-* **Summer 2022: Internship, [https://www.geography.org.uk/](Geographical Association), Sheffield**
+* **Summer 2022: Internship, [Geographical Association](https://www.geography.org.uk/), Sheffield**
   * Skills: Education policy, outreach and science communication
   * GeogPod: ["High-altitude weather balloons and marine-terminating glaciers"](https://geogpod.podbean.com/e/episode-56-ryan-ing-high-altitude-weather-balloons-and-marine-terminating-glaciers/) 
 
