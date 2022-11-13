@@ -7,6 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-E7DTD2MX6X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-E7DTD2MX6X');
+</script>
+
 I (Chinese: 张勇军[audio](https://yongjunzhang.com/files/name.m4a)) am a computational social scientist studying politics, organizations, social movements, and inequality. I received my Sociology PhD in 2020 from the University of Arizona. I am currently working as an Assistant Professor of [Sociology](https://www.stonybrook.edu/commcms/sociology//people/faculty/Zhang.php) and [Institute for Advanced Computational Science](https://iacs.stonybrook.edu/) at Stony Brook University. I am also a research affiliate at New York University.
 
 I combine statistical, network, and computational methods with large-scale datasets to study social, political, and organizational behavior. My past work focuses on the interplay between social movements and social or political changes in the U.S. and the globe. These studies have been published in [Journal of Marriage and Family](https://yongjunzhang.com/files/jomf.12419.pdf), [Demography](https://doi.org/10.1007/s13524-017-0632-9), [Poetics](https://doi.org/10.1016/j.poetic.2018.05.001), [International Journal of Comparative Sociology](https://doi.org/10.1177/0020715219837752), [American Journal of Sociology](https://yongjunzhang.com/files/Fiel-Zhang-2019_AJS.pdf), and [PLoS One](https://yongjunzhang.com/files/pone.pdf). I have won the 2020 James Coleman Award from Sociology of Education Section at American Sociological Association and the 2021 SIM Best Paper Submission at Academy of Management. 
