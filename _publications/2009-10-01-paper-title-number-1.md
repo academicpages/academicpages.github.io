@@ -14,9 +14,4 @@ paperurl: https://raphaelpellegrin.github.io/files/paper1.pdf
 
 ![Branched Flows](https://raphaelpellegrin.github.io/images/webistePINNs.png)
 
-![Branched Flows](https://raphaelpellegrin.github.io/images/webistePINNs.jpeg)
-
-![Branched Flows](https://raphaelpellegrin.github.io/images/webistePINNs.jpg)
-
-![image-center](https://raphaelpellegrin.github.io/images/webistePINNs.jpeg){: .align-center}
 
