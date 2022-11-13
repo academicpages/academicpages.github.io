@@ -84,12 +84,4 @@ Yongjun Zhang. Sept 24, 2021. "Using Relational Data from Facebook and SafeGraph
 
 <a class="twitter-timeline" data-width="500" href="https://twitter.com/DrJoshZhang?ref_src=twsrc%5Etfw">Tweets by DrJoshZhang</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-E7DTD2MX6X"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-E7DTD2MX6X');
-</script>
