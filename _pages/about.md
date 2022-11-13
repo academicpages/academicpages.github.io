@@ -16,11 +16,6 @@ Previously, I obtained a BSc in Mathematics at Imperial College London and a MSc
 
 ![Branched Flows](https://raphaelpellegrin.github.io/images/Burger.png)
 
-<center>
-<video width="512" height="384" controls>
-  <source type="video/mp4" src="https://raphaelpellegrin.github.io/images/lines.mp4">
-</video>
- </center>
 
 
 
