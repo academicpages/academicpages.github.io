@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
 I am a research scientist at Google Research. My research is on CV/ML, with particular interests in biometrics, face, XAI, image systhesis, multi-model modeling, and mobile vision.
 
 I got my Ph.D. at [Michigan State University](http://www.cse.msu.edu/), where I was fortunate to work with [Prof. Xiaoming Liu](http://www.cse.msu.edu/~liuxm/index2.html) at [Computer Vision Lab (CVLAB)](http://cvlab.cse.msu.edu/). I got my M.S. from [Ohio State Univeristy](https://www.osu.edu/) and B.E. from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). 
