@@ -26,12 +26,11 @@ News
 * [2021/06/18] &nbsp; I'm interviewed by IEEE Biometrics Council Newsletter [[link](http://ieee-biometrics.org/images/pdf/Vol38-Newsletter.pdf)].
 * [2021/06/18] &nbsp; I'm selected as CVPR 2021 Outstanding Reviewer.
 * [2021/02/06] &nbsp; I receive 20-21 Outstanding Graduate Student Award at the College of Engineering [[link](https://www.egr.msu.edu/graduate/outstanding-graduate-student-awards)].
+<!--
 * [2020/10/25] &nbsp; I'm selected as ECCV 2020 Outstanding Reviewer.
 * [2020/09/28] &nbsp; The slides of IJCB'20 Face Anti-Spoofing and Manipulation Detection Tutorial can be download here [[1](https://yaojieliu.github.io/files/IJCB2020-Session1.pdf), [2](https://yaojieliu.github.io/files/IJCB2020-Session2.pdf), [3](https://yaojieliu.github.io/files/IJCB2020-Session3.pdf)].
 * [2020/07/02] &nbsp; One paper is accepted in ECCV 2020.
 * [2020/02/24] &nbsp; One paper is accepted in CVPR 2020.
-
-<!--
 * [2022/10/06] &nbsp; I proudly serve [Face Unlock on Pixel 7/7 Pro](https://blog.google/products/pixel/pixel-7-pixel-7-pro/)!
 * [2020/01/15] &nbsp; I give a talk at Sichuan University.
 * [2020/01/14] &nbsp; I give a talk at University of Electronic Science and Technology of China.
@@ -334,10 +333,10 @@ ___
 
 Personal
 ======
-I've been snowboarding since 2014 and training Brazilian Jiu-jitsu (柔術) since 2013.<br/>
+I do snowboarding since 2014 and training Brazilian Jiu-jitsu since 2013.<br/>
 I also love traveling, climbing, hiking and many other outdoor activities.<br/>
 I cook hometown food when I'm homesick.<br/>
-I have a beagle and her name is Bagel.<br/>
+I have a 3-year-old-but-still-a-puppy beagle and her name is Bagel.<br/>
 <img src="https://yaojieliu.github.io/images/bagel.jpg?raw=true" alt="Photo" style="width: 60%;" align="center"/>
 
 [Fun about CV/ML](https://yaojieliu.github.io/fun)
