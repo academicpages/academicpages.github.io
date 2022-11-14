@@ -17,41 +17,22 @@ Education
 
 Professional Development
 ======
-* Research Data Management Library Academy Course, 2022
-* Five-Day Classroom Training, TEACCH Autism Program, University of North Carolina, Chapel Hill, NC, 2016
+* TEACCH Program, University of North Carolina, Chapel Hill, NC, 2016
 * Clinical Pastoral Education, Wake Forest University Baptist Medical Center, 2013
 
 Work experience
 ======
-* 2021-2022: Pastor
-  * Hickory Ridge United Methodist Church, Winston Salem, NC
-  * Duties include: Pastoral Care, Preaching
-  * Supervisor: Dr. Samuel Moore
-
-* 2019-2022: Pastor
-  * New Mount Vernon United Methodist Church, Winston Salem, NC
-  * Duties include: Pastoral Care, Preaching
-  * Supervisor: Dr. Samuel Moore
-
-* 2013-2019: Pastor
-  * Mt. Carmel United Methodist Church, Stokesdale, NC
-  * Duties included: Pastoral Care, Preaching
-  * Supervisor: Bev Coppley
-
-* 2008-2015: Pastor
-    * Mt. Zion United Methodist Church, Stokesdale, NC
-    * Duties included: Pastoral Care, Preaching
-    * Supervisor: Dr. Nancy Rankin
+* 2008-Present: Pastor
+  * Western North Carolina Conference, The United Methodist Church. Currently serving in Winston Salem, NC.
+  * Pastoral and administrative leadership in United Methodist congregations
 
 * 2000-2004: Network Manager
     * Haines City High School, Haines City, FL
-    * Duties included: Training Faculty, Tech Support
-    * Supervisor: Dr. Duane Collins
+    * Trained teachers, managed network, provided technology support
 
 * 2000-2004: Technology Teacher
     * Auburndale High School, Auburndale, FL
-    * Duties included: Classroom Instruction, Tech Support
-    * Supervisor: James Partain
+    * Classroom instruction, technology support
 
 Skills
 ======
