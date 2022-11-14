@@ -43,7 +43,7 @@ Scientific philosophy
 ------
 * I value quantitative multidisciplinary approaches in the human sciences, built upon sound theoretical foundation. I am a proponent of open science and the coupling of confirmatory and exploratory analyses. 
 
-* The opportunity to collect observational, empirical, and ethnographic data from culturally diverse, subsistence-based populations is rapidly diminishing and should therefore be a top priority of the social sciences. 
+* The opportunity to collect observational, empirical, and ethnographic data from culturally diverse, subsistence-based populations is rapidly diminishing and should be a priority of the social sciences. 
 
 * Anthropologists are uniquely situated to be meaningful allies as rural, minority ethnic populations navigate their changing worlds.
 
