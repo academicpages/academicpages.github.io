@@ -4,8 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* P. Das. _Pathwise Dubins-Schwarz theorem_. [Working paper](2022)
 
-* R. Cont, P. Das. _Measuring roughness of signals_. [Working paper]()
+* R. Cont, P. Das. _Measuring roughness of signals_. [Working paper](2022)
 
 * R. Cont, P. Das. _Rough Volatility: fact or artifact?_. [Arxiv](https://arxiv.org/abs/2203.13820)
 
