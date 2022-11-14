@@ -12,17 +12,17 @@ Hi! I am currently an algorithm expert in Alimama Tech at Alibaba Group. I recei
 
 Research Interests
 ======
-My research interests are in computational advertising and information retrieval, and broader interests include transfer learning, text generation, federated learning and their applications in advertising, recommendation and search.  
+My research interests are in computational advertising and information retrieval, and broader interests include transfer learning, text generation, federated learning and their applications in advertising, recommendation and search.   
 
-During my Ph.D., my research interests were in natural language processing and social media analytics, especially opinion mining and opinionated/argumentative text generation in low-resource (e.g., cross-domain transfer, learning with noisy labels and sequence generation with few paired data), multi-task, multi-modal and adversarial attack scenarios.       
+During my Ph.D., my research interests were in natural language processing and social media analytics, especially *opinion mining and opinionated/argumentative text generation* in low-resource (e.g., cross-domain transfer, learning with noisy labels and sequence generation with few paired data), multi-task, multi-modal and adversarial attack scenarios.       
 
 
 News
 ======
-* Aug. 2022: A co-corresponding authored paper about multi-domain ranking was accepted at CIKM 2022.  
-* Apr. 2022: Three first-authored papers about calibration for ranking models and ad creative generation were accepted at SIGIR 2022 and NAACL 2022.  
-* Jan. 2022: A co-first authored paper about debiasing CVR estimation was accepted at WWW 2022.  
-* Aug. 2021: A first-authored paper about multi-task ranking was accepted at CIKM 2021.  
+* Aug. 2022: A co-corresponding authored paper about *multi-domain ranking* was accepted at CIKM 2022.  
+* Apr. 2022: Three first-authored papers about *calibration for ranking* and *ad creative generation* were accepted at SIGIR 2022 and NAACL 2022.  
+* Jan. 2022: A co-first authored paper about *debiasing for ranking* was accepted at WWW 2022.  
+* Aug. 2021: A first-authored paper about *multi-task ranking* was accepted at CIKM 2021.  
 * Jul. 2021: I started at Alimama Tech.
 
 
