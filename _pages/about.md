@@ -316,7 +316,7 @@ ___
 
 Personal
 ======
-I do snowboarding since 2014 and training Brazilian Jiu-jitsu since 2013.<br/>
+I do snowboarding since 2014 and Brazilian Jiu-jitsu since 2013.<br/>
 I also love traveling, climbing, hiking and many other outdoor activities.<br/>
 I cook hometown food when I'm homesick.<br/>
 I have a 3-year-old-but-still-a-puppy beagle and her name is Bagel.<br/>
