@@ -12,4 +12,5 @@ I am an assistant professor in the [differential geometry group](https://cse.umn
 
 My research interests include Symplectic Geometry and Contact Geometry.
 
-Here is a more detailed [CV]().
+<!-- Here is a more detailed [CV]().
+ -->
