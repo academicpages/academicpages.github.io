@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Charles Koutcheme (Ph.D Student)"
+title                    : "Charles Koutcheme"
 title_separator          : "-"
 name                     : &name "Charles Koutcheme"
 description              : &description "Doctoral student working on applications of source code modelling for computing education."
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Charlie"
   avatar           : "Aalto-Talent-Expo-20221161.JPG"
-  bio              : "Ph.D Student"
+  bio              : "Doctoral researcher"
   location         : "Espoo, Finland"
   employer         : "Aalto University"
   pubmed           : 
