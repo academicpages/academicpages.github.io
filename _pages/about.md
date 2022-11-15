@@ -12,13 +12,13 @@ Hello! Welcome to my pages. I am a first-year doctoral student at Aalto Universi
 
 ## Recent news 
 
-> I am taking part in [Koli](https://www.kolicalling.fi/), where I am going to present a poster summarizing my research proposal. 
+> I am taking part in [Koli](https://www.kolicalling.fi/), where I am going to present a poster summarizing my proposal for providing automatic programming feedback. 
 
 > Our [paper](https://dl.acm.org/doi/abs/10.1145/3555009.3555013) "Speeding Up Automated Assessment of Programming Exercises" has been published in UKICER.
 
 > I toke part in the [Nordic Probabilistic AI School](https://probabilistic.ai/) in June. 
 
-> Our paper: "Exploring How Students Solve Open-ended Assignments: A Study of SQL Injection Attempts in a Cybersecurity Course" has been accepted for publication at [ITiCSE](https://iticse.acm.org/2022/)! It is now available. 
+> Our [paper](https://dl.acm.org/doi/10.1145/3502718.3524748): "Exploring How Students Solve Open-ended Assignments: A Study of SQL Injection Attempts in a Cybersecurity Course" has been accepted for publication at [ITiCSE](https://iticse.acm.org/2022/)! It is now available. 
 
 > I presented online our [paper](https://dl.acm.org/doi/abs/10.1145/3511861.3511873): "Methodological Considerations for Predicting at Risk Students" at ACE22. 
 
