@@ -50,20 +50,22 @@ Tisch, Daria (2021) "[Perceptions of Gender Wealth Inequalities within the Famil
 Work in progress
 ======
 
-Urbina, Daniela R., Daria Tisch: Division of Housework and Perceptions of Fairness: What Justifies Unequal Housework Arrangements?
+[Urbina, Daniela R.](https://www.danielaurbina.com/), Daria Tisch: Division of Housework and Perceptions of Fairness: What Justifies Unequal Housework Arrangements?
 
 
-Schechtl, Manuel, Daria Tisch: My Wealth, Our Taxes? Cross-National Experimental Evidence on Wealth Tax Preferences
+[Schechtl, Manuel](https://schechtl.github.io/), Daria Tisch: My Wealth, Our Taxes? Cross-National Experimental Evidence on Wealth Tax Preferences
 
 
-Tisch, Daria, Emma Ischinsky: The role of the family in Germany’s Largest Fortunes 2019
+Tisch, Daria, [Emma Ischinsky](https://www.mpifg.de/person/114263/2721): The role of the family in Germany’s Largest Fortunes 2019
 
 
-Tisch, Daria: [Preservation of large fortunes over multiple generations](https://dariatisch.github.io/presentation_potsdam): How do political and family networks relate to wealth preservation in Germany?
-
-Tisch, Daria, Manuel Schechtl: Gender differences in parental wealth transfers and how the German tax system contributes to the gender wealth gap  <!--  [Gender differences in parental wealth transfers](https://dariatisch.github.io/presentation_gender_transfer_gap)  -->
+Tisch, Daria: [Preservation of large fortunes over multiple generations](https://dariatisch.github.io/presentation_potsdam): How do elite family networks relate to wealth preservation in Germany?
 
 
+Tisch, Daria, [Manuel Schechtl](https://schechtl.github.io/): Gender differences in parental wealth transfers and how the German tax system contributes to the gender wealth gap  <!--  [Gender differences in parental wealth transfers](https://dariatisch.github.io/presentation_gender_transfer_gap)  -->
+
+
+[Schechtl, Manuel](https://schechtl.github.io/), Daria Tisch, [Nhat An Trinh](https://natrinh.github.io/): Distributive Principles in Intergenerational Transfers by Asset Type
 
 
 
