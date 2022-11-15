@@ -18,9 +18,9 @@ and the full CV [here](http://artemisp.github.io/files/CV_v4.pdf)
 Education
 ======
 
-* Ph.D in Computer and Information Science, University of Pennsylvania, 2021-2025 (expected)
+* Ph.D in Computer and Information Science, University of Pennsylvania, 2021-present
   * Research Interests: Natural Language Processing, Computer Vision
-  * Advisors: Chris Calllison-Burch, Mark Yatskar
+  * Advisors: Mark Yatskar, Chris Callison-Burch
 * MSE in Computer and Information Science, University of Pennsylvania, 2018-2020
   * Thesis Title: Metaphor and Entailment: Looking at Metaphors Through the Lense of Textual Entailment
   * Advisor: Mitch Marcus
