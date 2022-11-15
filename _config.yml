@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Erkao Bao (he, him, his)"
+name                     : &name "Erkao Bao"
 description              : &description "personal description"
 url                      : https://erkaobao.github.io/math # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Erkao Bao"
+  name             : "Erkao Bao (he, him, his)"
   avatar           : "profile.png"
   bio              : 
   location         : "206 Church St SE, Minneapolis, MN 55455"
