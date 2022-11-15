@@ -12,6 +12,8 @@ Hello! Welcome to my pages. I am a first-year doctoral student at Aalto Universi
 
 ## Recent news 
 
+> I am taking part in [Koli](https://www.kolicalling.fi/), where I am going to present a poster summarizing my research proposal. 
+
 > Our [paper](https://dl.acm.org/doi/abs/10.1145/3555009.3555013) "Speeding Up Automated Assessment of Programming Exercises" has been published in UKICER.
 
 > I toke part in the [Nordic Probabilistic AI School](https://probabilistic.ai/) in June. 
