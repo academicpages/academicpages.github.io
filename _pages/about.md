@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Great to have you here!
+What a time to live in! (or did we ever get to choose?)
 -----
 
 I'm a first-year master's student at the University of Pennsylvania's Computer and Information Science program. I'm interested in **Tokenization changing how we "interact" with ownership, the "exploration vs exploitation" problem in reinforcement learning**, **mechanisms of great decision-making** and **how the humanity's giant "capitalism" experiment/structure relates to the dynamic nature of humans**.
