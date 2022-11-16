@@ -18,6 +18,11 @@ author_profile: true
   - [Extreme Mechanics Letter](https://www.sciencedirect.com/journal/extreme-mechanics-letters)
   - [Discrete and Continuous Dynamical Systems](https://www.aimsciences.org/journal/1937-1632)
   - [Tissue and Cell](https://www.sciencedirect.com/journal/tissue-and-cell)
+  - [Applied Mathematics and Mechanics (English Edition)](https://www.springer.com/journal/10483)
   - [Micromachines](https://www.mdpi.com/journal/micromachines)
   - [Brain Sciences](https://www.mdpi.com/journal/brainsci)
   - [Journal of Clinical Science](https://www.mdpi.com/journal/jcm)
+  
+- Book Reviewer:
+
+  - An Expert’s Quick Guide to Diabetes Mellitus by [Elsevier](https://www.elsevier.com)
