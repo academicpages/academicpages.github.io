@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Natural Language Pocessing at the NLP lab of Bar Ilan University, supervised by Prof. Ido Dagan and Prof. Reut Tsarfaty.
-Previously I did a research internship at Google, obtained an MSc from the University of Edinburgh and a BA from the University of Zurich. Currently, I'm interning at the [AI2 Mosaic team](https://mosaic.allenai.org/people) in Seattle.
+I am a PhD student in Natural Language Pocessing at the NLP lab of Bar Ilan University, supervised by Prof. Ido Dagan and Prof. Reut Tsarfaty. I am also currently a visiting PhD student at [UW NLP](https://nlp.washington.edu) at the University of Washington.
+This summer I had the pleasure of interning at the [AI2 Mosaic team](https://mosaic.allenai.org/people) in Seattle.
+Previously I did a research internship at Google, obtained an MSc from the University of Edinburgh and a BA from the University of Zurich. 
 
 My research focuses on *discourse* phenomena and *pragmatics*. My main interest currently lies in question generation. I also often use QA representations to capture propositions and once in a while I look at the modality of events.
 
-I am co-organizing [the Second Workshop on Understanding Implicit and Underspecified Language](https://unimplicit2022.github.io/), collocated with NAACL-2022 in Seattle.
+I also co-organized [the Second Workshop on Understanding Implicit and Underspecified Language](https://unimplicit2022.github.io/), collocated with NAACL-2022 in Seattle.
 
 Besides this I love going to the "cinemathèque" and on hikes with my friends. My Erdős number is 3.
 
