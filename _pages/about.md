@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I am a doctoral researcher (i.e., Ph.D student) in the computer science department at Aalto University. I am working on an interdisciplinary project in the [LeTech (Learning + Technology)](https://research.cs.aalto.fi/LeTech/) research group. This project combines knowledge in computing education and artificial inteligence.
+Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I am a doctoral researcher (i.e., PhD student) in the computer science department at Aalto University. I am working on an interdisciplinary project in the [LeTech (Learning + Technology)](https://research.cs.aalto.fi/LeTech/) research group. This project combines knowledge in computing education and artificial intelligence.
 
 ## Recent news 
 
@@ -25,14 +25,14 @@ Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I
 
 ## My background and my research
 
-I believe improving education is one of the best ways to impact society positively, and I am convinced that artificial inteligence hold great promise for that purpose.
+I believe improving education is one of the best ways to impact society positively, and I am convinced that artificial intelligence holds great promise for that purpose.
 
-I obtained a Master's degree in Computer Science in November 2021, with a focus on Inteligent Systems (i.e., Artificial Inteligence and Machine Learning). 
+I obtained a Master's degree in Computer Science in November 2021, with a focus on intelligent systems (i.e., artificial intelligence and machine learning). 
 
-I initially came to Aalto to work on my master's thesis for the [LeTech (Learning + Technology)](https://research.cs.aalto.fi/LeTech/) research group. In my [thesis](https://aaltodoc.aalto.fi/handle/123456789/109393), I leveraged data mining methods to study how students learn in online courses, and I trained machine learning models to investigate whether the discovered learning behaviors can predict which students would drop out. My research confirmed, among other things, that struggling with programming assignments is one of the main factors for dropping out of a course, highlighting once again the importance of supporting students when they learn how to program. However, from my personal experience as a teaching assistant in programming courses, I know that it is difficult for educational teams to help each student, especially for large classes. 
+I initially came to Aalto to work on my master's thesis for the [LeTech (Learning + Technology)](https://research.cs.aalto.fi/LeTech/) research group. In my [thesis](https://aaltodoc.aalto.fi/handle/123456789/109393), I leveraged data mining methods to study how students learn in online courses, and I trained machine learning models to investigate whether the discovered learning behaviours can predict which students would drop out. My research confirmed, among other things, that struggling with programming assignments is one of the main factors for dropping out of a course, highlighting once again the importance of supporting students when they learn how to program. However, from my experience as a teaching assistant in programming courses, I know that it is difficult for educational teams to help each student, especially for large classes. 
 
 ### My doctoral thesis
 
-My doctoral dissertation aims to address the previous problem. The main goal is to develop machine learning methods that can provide feedback highlighting and addressing issues in students solutions. More specifically, we are creating tools to help students who struggle with programming projects and assignments. In a way, we try to support teaching assistants.  Interestingly, to develop efficient methods, we often inspire ourselves on how teaching assistants (TAs) help students. For instance, we study how different TAs in a programming course assist students by, for example, giving hints to the students and nudging them toward the correct way to solve the problem. This is a complex problem that beyond the technical difficulties, involves teaching knowledge. Moreover, continuing the work of my master's thesis, I am also particularly interested in understanding how students learn programming concepts. 
+My doctoral dissertation aims to address the previous problem. The main goal is to develop machine learning methods that can provide feedback highlighting and addressing issues in students solutions. More specifically, we are creating tools to help students who struggle with programming projects and assignments. In a way, we try to support teaching assistants. To develop efficient methods, we often inspire ourselves on how teaching assistants (TAs) help students. For instance, we study how different TAs in a programming course assist students by, for example, giving hints to the students and nudging them toward the correct way to solve the problem. This is a complex problem that beyond the technical difficulties, involves teaching knowledge. Moreover, continuing the work of my master's thesis, I am also particularly interested in understanding how students learn programming concepts. 
 
-I am sharing the progress of my work as well as my thoughts on AI in education on a separate [blog site](https://koutcheme.notion.site/koutche-me-3dec2dfd50564f1aaaf0f1a4d7da80e7). See you there. 
+I am sharing the progress of my work as well as my thoughts on the potentials of AI in education on a separate [blog site](https://koutcheme.notion.site/koutche-me-3dec2dfd50564f1aaaf0f1a4d7da80e7). See you there. 
