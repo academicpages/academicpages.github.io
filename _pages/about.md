@@ -17,6 +17,8 @@ I specifically focus on designing and building innovative and secure mobile sens
 Updates
 =======
 <ul>
+	<li> <b>[Nov 2022]</b> Our work on secure group pairing of heterogeneous IoT device is conditionally accepted to IEEE S&P 2023!
+	</li>
 	<li> <b>[Oct 2022]</b> Our paper about evasion attacks on physical event verification systems to appear in NDSS 2023!
 	</li>
 	<li> <b>[Mar 2022]</b> Our work on secure Android remote authorization to appear in USENIX Security 2022!
@@ -36,11 +38,21 @@ Updates
 Publications
 ============
 <ul>
+	<li><b>One Key to Rule Them All: Secure Group Pairing for Heterogeneous IoT Devices</b>
+			<br/>
+			<b>Habiba Farrukh</b>^*^, Muslum Ozgur Ozmen^*^, Faik Kerem Ors, Z. Berkay Celik
+			<br/>
+			To appear in IEEE Security and Privacy (S&P '23)
+			<br/>
+	</li>
+</ul>
+
+<ul>
 	<li><b>Evasion Attacks on Smart Home Physical Event Verification and Defenses</b>
 			<br/>
 		Muslum Ozgur Ozmen, Ruoyu Song, <b>Habiba Farrukh</b>, Z. Berkay Celik
 			<br/>
-			Network and Distributed System Security Symposium (NDSS '23)
+			To appear in Network and Distributed System Security Symposium (NDSS '23)
 			<br/>
 	</li>
 </ul>
@@ -118,7 +130,7 @@ Professional Activity
 		<b>Program Committee Member</b>
 		<ul>
 			<li>
-				USENIX Security, 2023
+				USENIX Security Symposium, 2023
 			</li>
 			<li>
 				ACM Conference on Security and Privacy in Wireless and Mobile Networks (WiSec), 2023
