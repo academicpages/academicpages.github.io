@@ -40,7 +40,7 @@ Publications
 <ul>
 	<li><b>One Key to Rule Them All: Secure Group Pairing for Heterogeneous IoT Devices</b>
 			<br/>
-			<b>Habiba Farrukh</b>^*^, Muslum Ozgur Ozmen^*^, Faik Kerem Ors, Z. Berkay Celik
+			<b>Habiba Farrukh</b>^*, Muslum Ozgur Ozmen^*, Faik Kerem Ors, Z. Berkay Celik
 			<br/>
 			To appear in IEEE Security and Privacy (S&P '23)
 			<br/>
