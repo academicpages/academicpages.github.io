@@ -13,7 +13,7 @@ Download
 ======
 
 Download resume [here](http://artemisp.github.io/files/resume_v4.pdf)
-and the full CV [here](http://artemisp.github.io/files/CV_v4.pdf)
+and the full CV [here](http://artemisp.github.io/files/CV_v6.pdf)
 
 Education
 ======
