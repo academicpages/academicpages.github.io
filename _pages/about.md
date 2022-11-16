@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I am a doctoral researcher (i.e., Ph.D student) at Aalto University, in the computer science department. I am working on an interdisciplinary project in the [LeTech (Learning + Technology)](https://research.cs.aalto.fi/LeTech/) research group. This project combines knowledge in computing education and my interest in artificial inteligence, in particular, my background in machine learning.
+Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I am a doctoral researcher (i.e., Ph.D student) in the computer science department at Aalto University. I am working on an interdisciplinary project in the [LeTech (Learning + Technology)](https://research.cs.aalto.fi/LeTech/) research group. This project combines knowledge in computing education and artificial inteligence.
 
 ## Recent news 
 
