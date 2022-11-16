@@ -28,5 +28,5 @@ Conferences and Workshops
 ### - Stay tuned for updates about the 3rd annual Land DA Community Workshop in 2023
 
 ## *Past*
-- [2nd Annual Land DA Community Workshop: "New Directions in Land Data Assimilation"](https://aimesproject.org/lda_workshop_2022/)
-- [1st Annual Land DA Community Workshop: "Tackling Technical Challenges in Land Data Assimilation" (June 2021)](https://aimesproject.org/lda_workshop/)
+- [2nd Annual Land DA Community 2022 Workshop: "New Directions in Land Data Assimilation"](https://aimesproject.org/lda_workshop_2022/)
+- [1st Annual Land DA Community 2021 Workshop: "Tackling Technical Challenges in Land Data Assimilation"](https://aimesproject.org/lda_workshop/)
