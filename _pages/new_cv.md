@@ -8,8 +8,8 @@ redirect_from:
 
 <style>
 iframe {
-    height: 100vh;
-    width: 100vw;
+    height: 80vh;
+    width: 80vw;
 }
 </style>
 
