@@ -42,7 +42,7 @@ Skills
   * Transformer
   * U-Net
 * Software:
-  * PyCharm/SpyderSkill 3
+  * PyCharm/Spyder
   * ArcGIS/ENVI
   * ENVI
   * Vissim
