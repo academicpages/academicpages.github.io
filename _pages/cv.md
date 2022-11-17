@@ -15,7 +15,13 @@ Education
 
 Work experience
 ======
-* Research Assistant (Sep 2019-Present)
+* Research Assistant (Aug 2022-Present)
+  * School of Design, Southern University of Science and Technology
+  * Projects participated:  
+  Unity Development for Novel Menu Interactions on mixed reality platforms such as HoloLens2, Oculus   
+  Unity Development for Novel Keyboard Interactions on mixed reality platforms such as HoloLens2, Oculus  
+  * Supervisor: [Luo Tao](https://designschool.sustech.edu.cn/cn/academics/faculty/378.html)
+* Research Assistant (Sep 2019-June 2022)
   * Southern University of Science and Technology
   * Projects participated:   
   Axial Length Estimation (Sep 2020-Dec 2020)   
