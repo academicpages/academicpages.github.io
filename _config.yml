@@ -102,11 +102,11 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 
+  linkedin         : "https://www.linkedin.com/in/sankranti-joshi/"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://stackoverflow.com/users/13786866/sunny1401
   steam            :
   tumblr           :
   twitter          :
@@ -122,6 +122,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

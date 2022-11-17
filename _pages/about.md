@@ -8,6 +8,8 @@ redirect_from:
 title: "Hi, I'm Sunny"
 ---
 
+{% include base_path %}
+
 I'm a machine learning engineer working at [Informa](https://www.informamarkets.com/en/home.html) on Dynamic Pricing problems. 
 
 I am also working on computer vision project focussing on scene understanding using few-shot learning. To see some examples of things I have worked on, have a look at my [CV](/cv), and [projects](/projects) pages.
