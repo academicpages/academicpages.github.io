@@ -18,7 +18,7 @@ Before 2022, I was an undergraduate student at Southern University of Science an
 
 # Recent Activities
 ## Interships
-From August 2022 to present, I am working as a research assistant for Professor.Luo Tao at SUSTECH's [School of Design](https://designschool.sustech.edu.cn/cn), mainly responsible for Unity MR development and [IxDL](http://ixdlanguage.org/) survey.
+From August 2022 to present, I am working as a research assistant for Professor.[Luo Tao](https://designschool.sustech.edu.cn/cn/academics/faculty/378.html) at SUSTECH's [School of Design](https://designschool.sustech.edu.cn/cn), mainly responsible for Unity MR development and [IxDL](http://ixdlanguage.org/) survey.
 
 From March 2022 to June 2022, I worked as a front-end engineer for a start-up named 未界科技(Weijie Technology). This company aims to strengthen the industry of [Murder Mystery Game](https://en.wikipedia.org/wiki/Murder_mystery_game) with computer technology.  
 
