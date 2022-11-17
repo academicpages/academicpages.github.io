@@ -12,8 +12,8 @@ redirect_from:
 Download
 ======
 
-Download resume [here](http://artemisp.github.io/files/resume_v5.pdf)
-and the full CV [here](http://artemisp.github.io/files/CV_v6.pdf)
+Download resume [here](http://artemisp.github.io/files/resume_v6.pdf)
+and the full CV [here](http://artemisp.github.io/files/CV_v7.pdf)
 
 Education
 ======
