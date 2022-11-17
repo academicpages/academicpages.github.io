@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Hi, I'm Sunny"
-excerpt: "About me"
 author_profile: true
+excerpt: "About me"
+# header: "/images/canvas.jpg"
 redirect_from: 
   - /about/
   - /about.html
+title: "Hi, I'm Sunny"
 ---
 
 I'm a machine learning engineer working at [Informa](https://www.informamarkets.com/en/home.html) on Dynamic Pricing problems. 
