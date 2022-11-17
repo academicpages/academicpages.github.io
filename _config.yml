@@ -11,9 +11,9 @@ title                    : "Sankranti Joshi (Sunny)"
 title_separator          : "-"
 name                     : &name "Sunny"
 description              : &description "Sankranti Joshi's personal website"
-url                      : https://sankrantijoshi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sunny1401.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sunny1401/sankrantijoshi.github.io"
+repository               : "sunny1401/sunny1401.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Sunny Joshi"
-  avatar           : "profile.png"
+  avatar           : "profile_img.png"
   bio              : "Senior Machine Learning Engineer"
   location         : "London"
   employer         : "Informa"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "sankrantijoshi@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            :
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
