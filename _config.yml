@@ -210,10 +210,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _cv
   - scope:
       path: ""
-      type: teaching
+      type: cv
     values:
       layout: single
       author_profile: true
@@ -237,14 +237,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
