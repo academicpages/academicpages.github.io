@@ -2,7 +2,6 @@
 permalink: /
 author_profile: true
 excerpt: "About me"
-# header: "/images/canvas.jpg"
 redirect_from: 
   - /about/
   - /about.html
