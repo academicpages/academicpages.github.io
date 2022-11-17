@@ -6,7 +6,14 @@ redirect_from:
   - /resume
 ---
 
+<style>
+iframe {
+    height: 100vh;
+    width: 100vw;
+}
+</style>
 
 
-<iframe src="https://drive.google.com/file/d/12kZiuIcClkEu3mrTHpQQdApk2KCjwBlp/preview" width="100%" height="100vh"></iframe>
+
+<iframe src="https://drive.google.com/file/d/12kZiuIcClkEu3mrTHpQQdApk2KCjwBlp/preview"></iframe>
 
