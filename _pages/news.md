@@ -16,9 +16,9 @@ Have a job you would like to share? Email us at landdacommunity@gmail.com!
 
 [Postdoctoral Postion: Terrestrial Carbon Cycle Forecasting at Boston University, USA](https://www.us-ocb.org/wp-content/uploads/sites/43/2022/02/postdoc_Boston_2022.pdf) Application deadline: Rolling
 
-PAST[Post-doctoral fellowship in building and evaluating new forward operators in a global land data assimilation system at CNRM, France](https://aimesproject.org/wp-content/uploads/2022/10/PostDoc_CNRM-LDAS-Monde-2023-03.pdf) Application deadline: 28 October 2022
+PAST [Post-doctoral fellowship in building and evaluating new forward operators in a global land data assimilation system at CNRM, France](https://aimesproject.org/wp-content/uploads/2022/10/PostDoc_CNRM-LDAS-Monde-2023-03.pdf) Application deadline: 28 October 2022
 
-PAST[Research Assistant/Postdoctoral Position in Arctic data assimilation at the University of Alaska Fairbanks](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=29ee31bb-d8c5-4350-a136-327f9d9a68bc&ccId=19000101_000001&jobId=444218&lang=en_US&source=EN) Application deadline: 10 October 2022
+PAST [Research Assistant/Postdoctoral Position in Arctic data assimilation at the University of Alaska Fairbanks](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=29ee31bb-d8c5-4350-a136-327f9d9a68bc&ccId=19000101_000001&jobId=444218&lang=en_US&source=EN) Application deadline: 10 October 2022
 
 PAST [Senior Researcher or Researcher (land ecosystem climate impacts: modelling)](https://www.valtiolle.fi/en-US/vacancy?id=31-151-2022) Application deadline: 06/13/22
 
