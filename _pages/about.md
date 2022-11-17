@@ -14,7 +14,7 @@ She is the director of [TuffyVerse Lab](https://tuffyverse.com/tuffyverse-lab), 
 
 She is a voting member of IEEE Blockchain Standard.
 
-She is a receipient of Unity & Meta Create with VR Award.
+She is a receipient of Unity & Meta Grant Award.
 
 中文名: 韩文琳
 
