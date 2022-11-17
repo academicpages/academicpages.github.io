@@ -16,6 +16,8 @@ I hold a B.S. in Statistics from Hunan University (2016) and an M.S. in Statisti
 
 <span>**News!**</span>
 
+*11/22*: I will attend GROUP 22/23 in person in Hilton Head Island, South Carolina!
+
 *02/22*: Our paper "Nudge for Reflective Mind: Understanding How Accessing Peer Concept Mapping and Commenting Affects Reflection of High-stakes Information" has been conditionally accepted by CHI LBW! See you soon at CHI this year!
 
 *11/21*: Our paper "Combating Sampling Bias: A Self-Training Method in Credit Risk Models" has been accepted by IAAI 2022 and will be presented in Feb 2022!
