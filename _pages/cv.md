@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Sunny's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -47,9 +47,10 @@ Research Internships
 * **Indian Institute of Technology, Mumbai - Transportation Systems Lab**
 * September 2014 - May 2015: Project Research Assistant
   * Responsible for:
-    1. Developing computational framework for collection of real-time transport data and storage of that data in Linked-Open data format using RDF
+    1. Developing computational framework for collection of real-time transport data and storage of that data in Linked-Open data format using RDF. [Paper Link](https://trid.trb.org/view/1438224) 
     2. Developed web-app based Dashboard to represent the current activities and visualization of collected data. 
   Supervised by: [Dr. Nagendra R. Velaga](https://www.civil.iitb.ac.in/~velaga/)
+
 
 Certifications
 ======
