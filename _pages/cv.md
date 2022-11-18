@@ -14,8 +14,11 @@ redirect_from:
 Personal Data
 ======
 Place and Date of Birth: Itabirito, Brazil | April 3rd 1996
+
 Address: 2211 Campus Drive, Room 4470, Evanston, IL, 60208
+
 Phone: [+1 (224) 296-9363](tel:+12242969363)
+
 Email: [jose.neto@kellogg.northwestern.edu](mailto:jose.neto@kellogg.northwestern.edu)
 
 Education
@@ -31,6 +34,9 @@ Research Experience
   
 Computer Skills
 ======
-* R
-* Python
-* LaTeX
+<div>
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-plain.svg">
+<img align="center" alt="Latex" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg">
+<img align="center" alt="Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+</div>
