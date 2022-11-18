@@ -13,3 +13,8 @@ I am a second year Ph.D. student in [Management Science/ Operations Research](ht
 I am interested in studying the interplay of Economics and Computer Science and enjoy looking at the real world problems using a mathematical lens. In particular, I am interested in Game Theory, Online Algorithms and Online Learning.
 
 I completed my undergraduate degree in Computer Engineering at Sharif University of Technology, Iran. Before Coming to Chicago I did a master's in Finance & Economics at London School of Economics, UK.
+
+# Publications
+
+  * ## Primal Dual
+  * Dual
