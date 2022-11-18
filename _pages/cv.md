@@ -9,51 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
+**Download CV [here](https://github.com/joseparreiras/personal-cv/blob/master/cv.pdf)**
+
+Personal Data
+======
+Place and Date of Birth: Itabirito, Brazil | April 3rd 1996
+Address: 2211 Campus Drive, Room 4470, Evanston, IL, 60208
+Phone: [+1 (224) 296-9363](tel:+12242969363)
+Email: [jose.neto@kellogg.northwestern.edu](mailto:jose.neto@kellogg.northwestern.edu)
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Finance, Kellogg School of Management, 2026 (expected)
+* M.S. in Economics, Getulio Vargas Foundation, 2019
+* B.A. in Economics, IBMeC, 2017
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant at Brazilian Federation of Banks (FEBRABAN), 2017-2018
+* Research Assistant at B3 S.A. - Brasil, Bolsa, Balcão, 2018-2019
   
-Skills
+Computer Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* R
+* Python
+* LaTeX
