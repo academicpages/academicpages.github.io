@@ -16,5 +16,9 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
 
 # Publications
 
-  * ## Primal Dual
-  * Dual
+  * ### Online Resource Allocation with Buyback: Optimal Algorithms via Primal-Dual
+    * Working Paper
+    * With Yiding Feng and Rad Niazadeh
+  * ### Circuit Imbalance Measures and Linear Programming
+    * Surveys in Combinatorics 2022
+    * With Bento Natura and László Végh
