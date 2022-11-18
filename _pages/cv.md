@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Download CV [here](github.com/joseparreiras/personal-cv/cv.pdf)**
+**Download CV [here](https://github.com/joseparreiras/personal-cv/blob/master/cv.pdf)**
 
 Personal Data
 ======
