@@ -14,6 +14,13 @@ I am interested in studying the interplay of Economics and Computer Science and 
 
 I completed my undergraduate degree in Computer Engineering at Sharif University of Technology, Iran. Before joining Booth, I did a master's in [Finance & Economics](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2023/MSc-Finance-and-Economics) at London School of Economics, UK.
 
+# Ongoing Work
+
+  * ### Bayesian Online Allocation with Buyback
+    * With Rad Niazadeh
+  * ### Information Design in the Principal-Agent problem
+    * With René Caldentey and Ennio Stacchetti
+
 # Publications
 
   * ### [Online Resource Allocation with Buyback: Optimal Algorithms via Primal-Dual](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4245468)
