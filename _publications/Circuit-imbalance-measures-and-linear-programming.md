@@ -1,9 +1,7 @@
 ---
 title: "Circuit imbalance measures and linear programming"
 collection: publications
-permalink: /publication/Circuit-imbalance-measures-and-linear-programming
+permalink: 'https://arxiv.org/pdf/2108.03616.pdf'
 excerpt: 'With Bento Natura, László A Végh'
-date: 2021-05-01
 venue: 'Surveys in Combinatorics 2022'
-paperurl: 'https://arxiv.org/pdf/2108.03616.pdf'
 ---
