@@ -83,7 +83,7 @@ Email: wang dot dian at northeastern dot edu
 **Dian Wang**, Jung Yeon Park, Neel Sortur, Lawson L.S. Wong, Robin Walters, Robert Platt  
 \* Equal Contribution  
 *Under Review*  
-<button class="button-4" onclick="window.open('https://openreview.net/pdf?id=P4MUGRM4Acu','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://arxiv.org/abs/2211.09231','_blank')">PDF</button>
 <br>
 
 ![](images/mingxi_icra23.png){: .align-right width="200px"}
