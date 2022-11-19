@@ -11,7 +11,9 @@ I am a Ph.D. candidate at Monash University, supervised by [Prof. Shirui Pan](ht
 
 News
 ------
-* 2022/10: Our paper on [graph out-of-distribution detection]() has been accepted by WSDM 2023.
+* 2022/11: Our paper on [graph representation learning]() has been accepted by AAAI 2023.
+* 2022/11: Our paper on [graph federated learning]() has been accepted by AAAI 2023.
+* 2022/10: Our paper on [graph out-of-distribution detection](https://arxiv.org/pdf/2211.04208.pdf) has been accepted by WSDM 2023.
 * 2022/08: I am honoured to receive the [Google Ph.D. Fellowship](https://research.google/outreach/phd-fellowship) in 2022.
 * 2022/05: Our survey on [graph self-supervised learning](https://arxiv.org/pdf/2103.00111.pdf) has been accepted by IEEE TKDE.
 * 2022/01: Our paper on [unsupervised graph structure learning](https://arxiv.org/pdf/2201.06367.pdf) has been accepted by WWW 2022.
@@ -34,6 +36,8 @@ th {
 
 | | |
 |---- | --- |
+|<img src="/images/goodd.png" width="400"> | Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating \[[PDF]()\] \[[Code]()\]<br>**Yixin Liu**, Yizhen Zheng, Daokun Zhang, Vincent CS Lee, Shirui Pan. <br>AAAI Conference on Artificial Intelligence (AAAI), 2023.|
+|<img src="/images/goodd.png" width="400"> | Federated Learning on Non-IID Graphs via Structural Knowledge Sharing \[[PDF]()\] \[[Code]()\]<br>Yue Tan*, **Yixin Liu* **, Guodong Long, Jing Jiang, Qinghua Lu, Chengqi Zhang. <br>AAAI Conference on Artificial Intelligence (AAAI), 2023.|
 |<img src="/images/goodd.png" width="400"> | GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection \[[PDF](https://arxiv.org/pdf/2211.04208.pdf)\] \[[Code](https://github.com/yixinliu233/G-OOD-D)\]<br>**Yixin Liu**, Kaize Ding, Huan Liu, Shirui Pan. <br>ACM International Conference on Web Search and Data Mining (WSDM), 2023.|
 |<img src="/images/ssl_survey.png" width="400"> | Graph Self-Supervised Learning: A Survey \[[PDF](https://arxiv.org/pdf/2103.00111.pdf)\] <br>**Yixin Liu**, Ming Jin, Shirui Pan, Chuan Zhou, Yu Zheng, Feng Xia, Philip S. Yu. <br>IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022.|
 |<img src="/images/sublime.png" width="400"> | Towards Unsupervised Deep Graph Structure Learning \[[PDF](https://arxiv.org/pdf/2201.06367.pdf)\] \[[Code](https://github.com/yixinliu233/SUBLIME)\]<br>**Yixin Liu**, Yu Zheng, Daokun Zhang, Hongxu Chen, Hao Peng, Shirui Pan.<br>The Web Conference (WWW), 2022.|
