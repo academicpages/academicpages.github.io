@@ -10,16 +10,26 @@ redirect_from:
 
 Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I am a doctoral researcher (i.e., PhD student) in the computer science department at Aalto University. I am working on an interdisciplinary project in the [LeTech (Learning + Technology)](https://research.cs.aalto.fi/LeTech/) research group. This project combines knowledge in computing education and artificial intelligence.
 
-## Recent news 
+## News 
 
+> ***17 November 2022***
+> 
 > I am taking part in [Koli](https://www.kolicalling.fi/), where I am going to present a poster summarizing my proposal for providing automatic programming feedback. 
 
+> ***01 September 2022***
+> 
 > Our [paper](https://dl.acm.org/doi/abs/10.1145/3555009.3555013) "Speeding Up Automated Assessment of Programming Exercises" has been published in UKICER.
 
+> ***18 June 2022***
+> 
 > I toke part in the [Nordic Probabilistic AI School](https://probabilistic.ai/) in June. 
 
+> ***07 July 2022***
+> 
 > Our [paper](https://dl.acm.org/doi/10.1145/3502718.3524748): "Exploring How Students Solve Open-ended Assignments: A Study of SQL Injection Attempts in a Cybersecurity Course" has been accepted for publication at [ITiCSE](https://iticse.acm.org/2022/)! It is now available. 
 
+> ***14 February 2022***
+> 
 > I presented online our [paper](https://dl.acm.org/doi/abs/10.1145/3511861.3511873): "Methodological Considerations for Predicting at Risk Students" at ACE22. 
 
 
