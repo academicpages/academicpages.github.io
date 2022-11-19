@@ -9,6 +9,7 @@ author_profile: true
 
 | Rank             | Year   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
+| 1st    | 2022   | 2021-2022 The First Prize School Scholarship                          |
 | 3nd    | 2021   | “Huawei Cup” The 18th China Post-Graduate Mathematical Contest in Modeling                          |
 | 2nd    | 2021   | 2020-2021 The Second Prize School Scholarship                          |
 | 1st     | 2021   | Lanzhou Jiaotong University 52nd Sports Competition Basketball Competition                          |
@@ -21,4 +22,4 @@ author_profile: true
 | 1st     | 2017   | “Longren cup” The 4th Gansu University Taekwondo Invitational Tournament                          |
 | 2nd     | 2017   | The 4th CUBA Chinese University Basketball Tournament (Gansu)                          |
 | 1st     | 2016   | “Longren cup” The 3rd Lanzhou University Taekwondo Invitational                          |
- 
+  
