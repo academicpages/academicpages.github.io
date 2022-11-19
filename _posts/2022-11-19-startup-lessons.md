@@ -1,7 +1,7 @@
 ---
 title:  "Early startup employee lessons learned, part 1: affecting change"
 permalink: /posts/2022/11/early-startup-employee-change
-date: 2022-11-16
+date: 2022-11-19
 ---
 
 The past two years have been a wild ride.
@@ -20,12 +20,12 @@ Googling "[early employee startup](https://www.google.com/search?q=early+employe
 If emotional management is mentioned at all, it's as an aside: "oh, being an early employee is an emotional rollercoaster so make sure you're ready to handle it. But also think of all the potential career growth!"
 *How* to handle the journey isn't discussed - and there's even fewer resources if you don't subscribe to the "work your ass off overtime, make your startup job your whole life" mentality.
 
-If you're an early employee at a startup struggling to figure out how to scale with your company while maintaining your sanity and work-life balance, or if you're already so burned out that you *can't* keep hustling but you also don't want to quit just yet, there doesn't seem to be much out there for you.
-(If there is, *please* point me to it!!)
-That was me three years ago when I joined a startup as the fifth person on the team, naive and excited to have an outsized impact on an exciting woman-led company doing amazing work.
+Three years ago when I joined a startup as the fifth person on the team, I was naive and excited to have an outsized impact on an exciting woman-led company doing amazing work.
 And, of course, intrigued by the opportunity to superboost my career growth.
-
 But I now understand that I went into my job completely uninformed, swayed by all of the "joining a startup as an early employee is hard, but <1000 word blog post about all the ways it can be amazing for your career>" rhetoric.
+As things got really hard as we scaled and went through deep growing pains, it hit home for me how little I'd known about what I was sighing up for. 
+And I found that if you're an early employee at a startup struggling to figure out how to scale with your company while maintaining your sanity and work-life balance, or if you're already so burned out that you *can't* keep hustling but you also don't want to quit just yet, there doesn't seem to be much out there for you.
+(If there is, *please* point me to it!!)
 So I wanted to write down some of the lessons I've learned.
 
 I'll caveat all of this with the requisite disclaimer that these are my personal experiences, and that things that work for me may not work for you.
@@ -38,7 +38,7 @@ I'll also touch on coping strategies for the roller coaster, things I've learned
 
 Keep your arms and legs inside the ride at all times, folks - it's gonna be bumpy!
 
-# Founders hold the power to changing company culture
+## You're an employee, not a founder
 
 Building organizations is not something that humans have figured out yet. 
 Unless you have exceptional founders (and even if you do), organizational and systemic failures will abound as your company grows.
@@ -63,7 +63,7 @@ If I'd known going into my job that "shaping the culture" is just as much of a g
 ## Focus on your sphere of influence
 
 Being an early employee at a growing startup puts you at a really interesting nexus of influence.
-On the one hand, your opinions have more weight than the average employee because of your long tenure and broad historical context.
+On the one hand, your opinions have more weight than the average employee because of your long tenure and broad context.
 On the other hand, folks with more seniority and different expertises are being hired above and around you, increasing the number of layers between you and the founders.
 So making change goes from requiring just swiveling your chair to chat with the CEO sitting next to you to navigating a burgeoning hierarchy strategically and diplomatically.
 For the first 6-12 months of our hypergrowth, I really struggled with this - I felt like I was wailing into the void about all the things that were wrong and that we needed to change, to no effect.
@@ -98,21 +98,22 @@ My favorite grassroots effort that's led to company-wide adoption is the data sc
 And our document was initially inspired by the simple existence of the software team's onboarding document.
 Our team also hosted a key cross-team training, which has become the model for inspiring other teams to think about formalizing their own cross-team interactions.
 
-## Making change beyond your sphere
+## Influencing teams outside your sphere
 
-Additionally, when it comes to other teams that I'm not explicitly on, I've learned that making change is **all about personal relationships**.
-Even if you're not on a given team, having strong relationships with key individual can puts them in your sphere of influence.
+When it comes to other teams that I'm not explicitly on, I've learned that making change is **all about personal relationships**.
+Even if you're not on a given team, having strong relationships with key individual can put them in your sphere of influence.
 And if they then have influence over their team, then you can indirectly have influence through them.
-Before we had distinctive teams, my influence came from my close relationships with folks who had started around the same time as me, as well as my technical colleagues in software and data.
-And even now that we've grown to 100 employees with siloed teams, those relationships still carry the most impact and are the primary - and sometimes only - way I can influence other teams.
+Before we had siloed teams, my closest relationships were with folks who had started around the same time as me and my technical colleagues in software and data.
+Now that we've grown to 100 employees with siloed teams, those relationships still carry the most impact and are the primary - and sometimes only - way I can influence other teams.
 
-A concrete example is our culture around async communication: I'm a big fan of frequent public communication in slack channels, and of sharing unfinished work early and often.
+A concrete example of how I've learned to adapt my influence is our culture around async communication: I'm a big proponent of frequent public communication in slack channels, and of sharing unfinished work early and often.
+(In fact, there's a :surfacing: slackmoji made just for me!)
 Other teams at my company have a different culture, and that used to frustrate me so much.
 But I'm not in their team meetings, I'm not involved in hiring, and I don't get a say in the culture they're building - so it's pointless to get upset or try to change it, when it's so far outside my sphere of influence.
 All I can do is slowly nudge folks in the direction of transparency through one on one conversations.
-Over time, other teams have started making slack channels where they discuss their work publicly and open agenda notes that anyone can use for async updates.
+Over time, other teams have started making slack channels where they discuss their work publicly and open agenda notes that anyone can look to for async updates.
 It's been a slow process and very much a team effort, but I like to think that my one on one conversations have contributed slightly to that cultural change. 
-On my team, in contrast - I explicitly ask about communication in interviews, collaboration is one of our team values, and we force folks to share unfinished work as part of onboarding.
+On my team, in contrast, I explicitly ask about communication in interviews, collaboration is one of our team values, and we force folks to share unfinished work as part of onboarding.
 As a consequence, the data science team is one of the most open and collaborative at our company.
 But that's because the data science team is as much in my sphere of influence as you can get - in fact, I helped write our team values and design our onboarding!
 

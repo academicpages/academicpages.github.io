@@ -1,3 +1,15 @@
+# Running jekyll serve via docker
+
+```
+docker run --rm \
+  --volume="$PWD:/srv/jekyll:Z" \
+  --publish 4000:4000 \
+  jekyll/jekyll \
+  jekyll serve
+```
+
+[More info](https://github.com/envygeeks/jekyll-docker/blob/master/README.md)
+
 # Notes for me
 
 **Info about which pages to edit** is in `_pages/markdown.md`
