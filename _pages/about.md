@@ -18,7 +18,7 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
 
   * ### Bayesian Online Allocation with Buyback
     * With Rad Niazadeh
-  * ### Information Design in the Principal-Agent problem
+  * ### Dynamic Information Design in the Principal-Agent problem
     * With René Caldentey and Ennio Stacchetti
 
 # Publications
