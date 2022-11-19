@@ -28,7 +28,7 @@ Yu Zheng, Ming Jin, **Yixin Liu**, Lianhua Chi, Khoa T Phan, Shirui Pan, and Yi-
 ## Conference
 -----
 * Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating \[[PDF]()\] \[[Code]()\]  
-**Yixin Liu**, Yizhen Zheng, Daokun Zhang, Vincent CS Lee, Shirui Pan.
+**Yixin Liu**, Yizhen Zheng, Daokun Zhang, Vincent CS Lee, Shirui Pan.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (<span style="color:red">*CORE A\*, 19.5% acceptance rate*</span>)
 
 * Federated Learning on Non-IID Graphs via Structural Knowledge Sharing \[[PDF]()\] \[[Code]()\]  
