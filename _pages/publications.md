@@ -27,6 +27,14 @@ Yu Zheng, Ming Jin, **Yixin Liu**, Lianhua Chi, Khoa T Phan, Shirui Pan, and Yi-
 
 ## Conference
 -----
+* Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating \[[PDF]()\] \[[Code]()\]  
+**Yixin Liu**, Yizhen Zheng, Daokun Zhang, Vincent CS Lee, Shirui Pan.
+AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (<span style="color:red">*CORE A\*, 19.5% acceptance rate*</span>)
+
+* Federated Learning on Non-IID Graphs via Structural Knowledge Sharing \[[PDF]()\] \[[Code]()\]  
+Yue Tan, **Yixin Liu**, Guodong Long, Jing Jiang, Qinghua Lu, Chengqi Zhang.  
+AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (<span style="color:red">*CORE A\*, 19.5% acceptance rate*</span>)
+
 * GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection \[[PDF](https://arxiv.org/pdf/2211.04208.pdf)\] \[[Code](https://github.com/yixinliu233/G-OOD-D)\]  
 **Yixin Liu**, Kaize Ding, Huan Liu, Shirui Pan.  
 ACM International Conference on Web Search and Data Mining (**WSDM**), 2023. (<span style="color:red">*CORE A\*, 17.8% acceptance rate*</span>)
