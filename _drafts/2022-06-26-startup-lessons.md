@@ -60,7 +60,7 @@ I joined my startup in part because I was really excited to help shape the type 
 When I realized that I wasn't going to be able to exert influence on company-wide organizational culture, I really struggled.
 If I'd known going into my job that "shaping the culture" is just as much of a gamble as "cash out big when we go public," I think I would have struggled a lot less.
 
-# Focus on your sphere of influence
+## Focus on your sphere of influence
 
 Being an early employee at a growing startup puts you at a really interesting nexus of influence.
 On the one hand, your opinions have more weight than the average employee because of your long tenure and broad historical context.
@@ -83,9 +83,24 @@ In contrast, our data science team is well within my sphere of influence.
 Because of that, it was very easy for me to substantially shape our team's culture, despite growing to almost 20 people.
 In fact, our transparent, collaborative, and positive culture is my proudest professional achievement so far. :D
 
+## Change starts at home
+
+So does that make changing things outside your sphere of influence a mostly hopeless endeavor?
+Well, yes and no - you probably can't change big things directly, but you aren't powerless to influence your organization.
+That's because **grassroots efforts can lead to organizational impact**.
+Even though you can't change how the whole organization works, doing something really well within your own little world can resonate more broadly.
+It's possible that other teams will become ready to tackle an issue that you've already solved, and come to you for inspiration or advice.
+Alternatively, folks may notice aspects of your team functioning better than theirs, and reach out to learn how.
+It can be less satisfying than directly wielding influence because you have to wait for other teams to be ready and in many cases to reach out, but that's fine if it's the best you can do.
+You can't force anyone to change who isn't ready to, or convince anyone to listen to you who doesn't want to.
+
+My favorite grassroots effort that's led to company-wide adoption is the data science team's onboarding document, which has become the template for other teams' onboarding. 
+And our document was initially inspired by the simple existence of the software team's onboarding document.
+Our team also hosted a key cross-team training, which has become the model for inspiring other teams to think about formalizing their own cross-team interactions.
+
 ## Making change beyond your sphere
 
-When it comes to other teams that I'm not explicitly on, I've learned that making change is **all about personal relationships**.
+Additionally, when it comes to other teams that I'm not explicitly on, I've learned that making change is **all about personal relationships**.
 Even if you're not on a given team, having strong relationships with key individual can puts them in your sphere of influence.
 And if they then have influence over their team, then you can indirectly have influence through them.
 Before we had distinctive teams, my influence came from my close relationships with folks who had started around the same time as me, as well as my technical colleagues in software and data.
@@ -101,22 +116,7 @@ On my team, in contrast - I explicitly ask about communication in interviews, co
 As a consequence, the data science team is one of the most open and collaborative at our company.
 But that's because the data science team is as much in my sphere of influence as you can get - in fact, I helped write our team values and design our onboarding!
 
-## Change starts at home
-
-So does that make changing things outside your sphere of influence a hopeless endeavor?
-Well, yes and no - you probably can't change big things directly, but you aren't powerless to influence your organization.
-That's because **grassroots efforts can lead to organizational impact**.
-Even though you can't change how the whole organization works, doing something really well within your own little world can resonate more broadly.
-It's possible that other teams will become ready to tackle an issue that you've already solved, and come to you for inspiration or advice.
-Alternatively, folks may notice aspects of your team functioning better than theirs, and reach out to learn how.
-It can be less satisfying than directly wielding influence because you have to wait for other teams to be ready and in many cases to reach out, but that's fine if it's the best you can do.
-You can't force anyone to change who isn't ready to, or convince anyone to listen to you who doesn't want to.
-
-My favorite grassroots effort that's led to company-wide adoption is the data science team's onboarding document, which has become the template for other teams' onboarding. 
-And our document was initially inspired by the simple existence of the software team's onboarding document.
-Our team also hosted a key cross-team training, which has become the model for inspiring other teams to think about formalizing their own cross-team interactions.
-
-# Focus on the timing
+## Timing is everything
 
 Finally, **timing is everything** when it comes to making change in a growing organization.
 Just because you have all the best ideas for how to grow a team or take your product to market doesn't mean anything if the timing isn't right.
