@@ -60,6 +60,12 @@ You might also be surprised - this might be the best job they've ever had!
 In any case, sharing horror stories helps provide important perspective that while, yes, what you're dealing with is difficult, it could likely be worse. 
 And if you like enough other aspects of your job, then I found that this made it much easier to deal with the hard stuff.
 
+One strategy I've picked up which has helped me deal with situations where I'm frustrated about something that's out of my control is to **focus on the baby step, not the toddler step**.
+When something happens and I get grumpy because that thing could have been done so much better, instead of focusing on how it could be better (which is how things would be, if we were a toddler company), I try to focus instead of the fact that the thing was done at all (which is the first "baby" step we're at).
+For example, if the communication of an important announcement is botched, rather than focusing on how poor the communication was, I try to reframe and emphasize that the announcement was communicated _at all_!
+Communicating _well_ is the toddler step; communicating _at all_ is the baby step I'm celebrating instead.
+
+
 # Avoiding burnout
 
 Burnout is real. 

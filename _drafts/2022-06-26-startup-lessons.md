@@ -5,18 +5,18 @@ date: 2022-11-16
 ---
 
 The past two years have been a wild ride.
-The startup I work for went from 5 employees to over 100, one small contract to a multi-million dollar contract with the CDC, a handful of locations to hundreds across all 50 states, one product to over 10, and one customer report per month to hundreds per day - it's been a lot!
+The startup I work for went from 5 employees to over 100, one small customer to a multi-million dollar contract with the CDC, one product to over 10, and one customer report per month to hundreds per day - it's been a lot!
 
 And I've learned a lot, but most of it has come the hard way.
 The past two years have been among the most difficult in my life - yes, a large part of it was the pandemic and the acute experience of our public health systems failing us, but a large part of it was also work.
 In order to support our company's growth, a *lot* was put on my shoulders - getting out from under that weight, and learning to function in the new company we've become, has been a huge challenge.
 
-Now that I'm in a good spot and able to reflect on the past two years, I've realized that there aren't a whole lot of resources out there to support *early employees* on their startup journeys.
-If you're a founder, there are many fellowships, accelerators, and communities that you can participate in that'll teach you the nuts and bolts of founding a company *and also* give you a peek into the emotional rollercoaster you're lining up for.
+Now that I'm in a good spot and able to reflect on the past two years, I've realized that there aren't a whole lot of resources out there to support **early employees** on their startup journeys.
+If you're a founder, there are fellowships, accelerators, and communities that you can participate in that'll teach you the nuts and bolts of founding a company *and also* give you a peek into the emotional rollercoaster you're lining up for.
 These networks provide you with a community of peers you can reach out to for support, and perhaps even equip you with some strategies to navigate the founder journey and make it less draining.
 
 But I haven't seen similar resources targeted for early employees and their experiences.
-Googling "early employee startup" brings up a handful of blog posts, but they're primarily focused on strategies to maximize  work output and on the gamble of joining an early startup to superboost your career growth.
+Googling "[early employee startup](https://www.google.com/search?q=early+employee+startup)" brings up a handful of blog posts, but they're primarily focused on strategies to maximize  work output and how joining an early startup is a great way to superboost your career growth.
 If emotional management is mentioned at all, it's as an aside: "oh, being an early employee is an emotional rollercoaster so make sure you're ready to handle it. But also think of all the potential career growth!"
 *How* to handle the journey isn't discussed - and there's even fewer resources if you don't subscribe to the "work your ass off overtime, make your startup job your whole life" mentality.
 
@@ -25,8 +25,8 @@ If you're an early employee at a startup struggling to figure out how to scale w
 That was me three years ago when I joined a startup as the fifth person on the team, naive and excited to have an outsized impact on an exciting woman-led company doing amazing work.
 And, of course, intrigued by the opportunity to superboost my career growth.
 
-But I now understand that I went into my job completely uninformed, completely swayed by all of the "joining a startup as an early employee is hard, but <1000 word blog post about all the ways it can be amazing for your career>" rhetoric.
-So I wanted to write down some of the lessons I've learned along the way.
+But I now understand that I went into my job completely uninformed, swayed by all of the "joining a startup as an early employee is hard, but <1000 word blog post about all the ways it can be amazing for your career>" rhetoric.
+So I wanted to write down some of the lessons I've learned.
 
 I'll caveat all of this with the requisite disclaimer that these are my personal experiences, and that things that work for me may not work for you.
 Even within my own company, each early employee has taken a unique path, and likely learned different things from their journeys.
@@ -38,9 +38,10 @@ I'll also touch on coping strategies for the roller coaster, things I've learned
 
 Keep your arms and legs inside the ride at all times, folks - it's gonna be bumpy!
 
-# Part 1: Changing the organizational culture
+# Founders hold the power to changing company culture
 
-Building organizations is not something that humans have figured out yet. Unless you have exceptional founders (and even if you do), organizational and systemic failures will abound as your company grows.
+Building organizations is not something that humans have figured out yet. 
+Unless you have exceptional founders (and even if you do), organizational and systemic failures will abound as your company grows.
 This is especially true if you're experiencing hyper growth - there's just no way to grow that fast without dropping _some_ balls related to company health. 
 My company's dropped balls with respect to organizational health and culture hit me especially hard.
 
@@ -59,48 +60,48 @@ I joined my startup in part because I was really excited to help shape the type 
 When I realized that I wasn't going to be able to exert influence on company-wide organizational culture, I really struggled.
 If I'd known going into my job that "shaping the culture" is just as much of a gamble as "cash out big when we go public," I think I would have struggled a lot less.
 
-One strategy I've picked up which has helped me deal with situations where I'm frustrated about something that's out of my control is to **focus on the baby step, not the toddler step**.
-When something happens and I get grumpy because that thing could have been done so much better, instead of focusing on how it could be better (which is how things would be, if we were a toddler company), I try to focus instead of the fact that the thing was done at all (which is the first "baby" step we're at).
-For example, if the communication of an important announcement is botched, rather than focusing on how poor the communication was, I try to reframe and emphasize that the announcement was communicated _at all_!
-Communicating _well_ is the toddler step; communicating _at all_ is the baby step I'm celebrating instead.
-
 # Focus on your sphere of influence
 
 Being an early employee at a growing startup puts you at a really interesting nexus of influence.
-On the one hand, your opinions have more weight than the average employee because of your long tenure and broad context.
-On the other hand, folks with more seniority and different expertise are being hired above and around you, and there start to be more and more layers between you and the founders.
-So making change goes from requiring just swiveling your chair to chat with the CEO sitting next to you to needing strategy and diplomacy.
+On the one hand, your opinions have more weight than the average employee because of your long tenure and broad historical context.
+On the other hand, folks with more seniority and different expertises are being hired above and around you, increasing the number of layers between you and the founders.
+So making change goes from requiring just swiveling your chair to chat with the CEO sitting next to you to navigating a burgeoning hierarchy strategically and diplomatically.
 For the first 6-12 months of our hypergrowth, I really struggled with this - I felt like I was wailing into the void about all the things that were wrong and that we needed to change, to no effect.
 But as we've grown our team and hired some colleagues who are much more skilled diplomats than I am, I've picked up a couple of strategies to make change effectively in a growing organization.
 
 Most importantly, **the change you make must begin within your sphere of influence** - the people and teams over whom you have influence, and not the ones outside your reach.
-As an early employee, your sphere of influence was the whole company.
-But as you've grown, it's changed - likely now it's just your team and maybe also the team adjacent to yours, plus a few additional colleagues who you have strong relationships with.
+As an early employee, your sphere of influence is often the whole company.
+But as the company grows, that changes - it becomes just your team and maybe also the team adjacent to yours, plus a few additional colleagues who you have strong relationships with.
 It can be painful to see this dynamic and feel like your sphere of influence is shrinking - but it's not!
-Yes, you've gone from having influence over 100% of the company to, say, 20% - which is a large number becoming smaller.
-But actually, it's more likely that you've gone from having influence over 5 people to 25 - a 5x increase!
+Yes, you may go from having influence over 100% of the company to, say, 20% - which is a large number becoming smaller.
+But actually, it's highly likely that your sphere of influence goes 5 people to 25 - a 5x increase!
 
 That's what happened to me - in the early phases of our hypergrowth I maintained my influence over the majority of our growing company because I was handling so many aspects of our day-to-day operations.
 The founders were the first to leave my sphere of influence, as they focused on capitalizing on this moment to supercharge our company's growth.
 As we grew, I had opinions on how our non-technical teams were growing, our market strategy, and so much more that I couldn't do anything about - they were all things which I had no authority over and more importantly, were all under the purview of people outside my sphere of influence.
-In contrast, our data science team is well within my sphere of influence and as a consequence it was relatively effortless for me to contribute substantially to shaping its culture, despite growing to almost 20 people.
+In contrast, our data science team is well within my sphere of influence.
+Because of that, it was very easy for me to substantially shape our team's culture, despite growing to almost 20 people.
 In fact, our transparent, collaborative, and positive culture is my proudest professional achievement so far. :D
+
+## Making change beyond your sphere
 
 When it comes to other teams that I'm not explicitly on, I've learned that making change is **all about personal relationships**.
 Even if you're not on a given team, having strong relationships with key individual can puts them in your sphere of influence.
-And if they then have influence over their team, then you can indirectly have influence through that relationship.
+And if they then have influence over their team, then you can indirectly have influence through them.
 Before we had distinctive teams, my influence came from my close relationships with folks who had started around the same time as me, as well as my technical colleagues in software and data.
 And even now that we've grown to 100 employees with siloed teams, those relationships still carry the most impact and are the primary - and sometimes only - way I can influence other teams.
 
 A concrete example is our culture around async communication: I'm a big fan of frequent public communication in slack channels, and of sharing unfinished work early and often.
-Other teams at my company have a different culture, and that used to frustrate me to no end.
+Other teams at my company have a different culture, and that used to frustrate me so much.
 But I'm not in their team meetings, I'm not involved in hiring, and I don't get a say in the culture they're building - so it's pointless to get upset or try to change it, when it's so far outside my sphere of influence.
 All I can do is slowly nudge folks in the direction of transparency through one on one conversations.
-On my team, in contrast - I explicitly ask about communication in interviews, collaboration is one of our team values (which I helped write), and we force folks to share unfinished work as part of onboarding (which I helped design).
+Over time, other teams have started making slack channels where they discuss their work publicly and open agenda notes that anyone can use for async updates.
+It's been a slow process and very much a team effort, but I like to think that my one on one conversations have contributed slightly to that cultural change. 
+On my team, in contrast - I explicitly ask about communication in interviews, collaboration is one of our team values, and we force folks to share unfinished work as part of onboarding.
 As a consequence, the data science team is one of the most open and collaborative at our company.
-But the only reason I was able to instill this value so strongly in our culture is because the team has always been squarely within my sphere of influence.
+But that's because the data science team is as much in my sphere of influence as you can get - in fact, I helped write our team values and design our onboarding!
 
-## Making change beyond your sphere
+## Change starts at home
 
 So does that make changing things outside your sphere of influence a hopeless endeavor?
 Well, yes and no - you probably can't change big things directly, but you aren't powerless to influence your organization.
