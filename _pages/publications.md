@@ -69,6 +69,7 @@ IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2021. (<s
 Zhao Li, **Yixin Liu**, Zhen Zhang, Shirui Pan, Jianliang Gao, and Jiajun Bu.  
 World Wide Web (**WWWJ**), 2021. (<span style="color:red">*CORE A, IF: 2.716*</span>)
 
+<!--
 * MRD-NETS: Multi-Scale Residual Networks with Dilated Convolutions for Classification and Clustering Analysis of Spacecraft Electrical Signal \[[PDF](https://ieeexplore.ieee.org/document/8876602)\]  
 **Yixin Liu**, Ke Li, Yuxiang Zhang, and Shimin Song.  
-IEEE Access, 2019. (<span style="color:red">*IF: 3.476*</span>)
+IEEE Access, 2019. (<span style="color:red">*IF: 3.476*</span>)-->
