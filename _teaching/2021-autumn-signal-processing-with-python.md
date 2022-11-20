@@ -8,4 +8,4 @@ date: 2021-09-01
 location: "Saint Etienne, France"
 ---
 
-Master 1, [Master’s Degree in Science and Executive Engineering](https://www.mines-stetienne.fr/en/academic/icm-masters-degree-in-science-and-executive-engineering/), TA, 2020/2021, 15h.
+Master 1, [Master’s Degree in Science and Executive Engineering](https://www.mines-stetienne.fr/en/academic/icm-masters-degree-in-science-and-executive-engineering/), TA, 2020/2021, 18h.
