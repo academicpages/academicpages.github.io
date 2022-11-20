@@ -37,6 +37,8 @@
         <a href="{{ post.link }}">{{ title }}</a>
       {% elsif post.paperurl %}
         <a href="{{ post.paperurl }}">{{ title }}</a>
+      {% elsif post.permalink %}
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% else %}
         <!-- The permalink is confusing and not really helpful -->
         <!--a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a-->
