@@ -14,7 +14,7 @@ Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I
 
 > ***17 November 2022***
 > 
-> I am taking part in [Koli](https://www.kolicalling.fi/), where I am going to present a [poster](Koli-2022-poster.pdf) summarizing my proposal for providing automatic programming feedback using large language models. 
+> I am taking part in [Koli](https://www.kolicalling.fi/), where I am going to present a [poster]([Koli-2022-poster.pdf](https://koutche.me/files/Koli-2022-poster.pdf)) illustrating my proposal for providing automatic programming feedback using open large language models. 
 
 > ***01 September 2022***
 > 
