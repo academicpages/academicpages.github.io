@@ -8,4 +8,4 @@ date: 2021-10-01
 location: "Saint Etienne, France"
 ---
 
-Master 1, [Master’s Degree in Health Management & Data Intelligence](https://msc-health-data-intelligence.com/en), TA, 2020/2021, 20h.
+Master 1, [Master’s Degree in Health Management & Data Intelligence](https://msc-health-data-intelligence.com/en), TA, 2020/2021, 24h.
