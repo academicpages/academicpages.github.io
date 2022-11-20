@@ -9,4 +9,5 @@ link: "https://courses.cs.washington.edu/courses/cse351/19au/"
 academic_term: "Autumn, 2019"
 guest_lecture: "Buffer overflow"
 ---
-<!--Need to upload Buffer overflow slides-->
+
+I taught a guest lecture on [buffer overflow](https://courses.cs.washington.edu/courses/cse351/19au/lectures/15/CSE351-L15-buffoverflow_19au-ink.pdf) in addition to TA'ing.
