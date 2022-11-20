@@ -27,21 +27,30 @@
       </div>
     {% endif %}
     <h3 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
+      {% if post.link and post.permalink %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% elsif post.paperurl %}
         <a href="{{ post.paperurl }}">{{ title }}</a>
       {% elsif post.inpress %}
         <i>(in press)</i> {{ title }}
-      {% else %}
+      {% elseif post.permalink %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      {% else %}
+        {{ title }}
       {% endif %}
     </h3>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.citation %}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
+
     {% if post.academic_term %}<p class="page__meta">{{ post.type }}, {{ post.academic_term }} @ {{ post.venue }}</p>{% endif %}
+    {% if post.citation %}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
+    
+    {% if post.excerpt and site.read_more != 'enabled' %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% elsif post.excerpt and site.read_more == 'enabled' %}
+      <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    {% endif %}
     </li>
  </article>
 </div>
