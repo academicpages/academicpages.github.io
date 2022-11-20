@@ -37,6 +37,8 @@
         <a href="{{ post.link }}">{{ title }}</a>
       {% elsif post.paperurl %}
         <a href="{{ post.paperurl }}">{{ title }}</a>
+      {% elsif post.inpress %}
+        <i>(in press)</i> {{ title }}
       {% elsif post.permalink %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% else %}
