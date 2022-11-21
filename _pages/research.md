@@ -8,7 +8,7 @@ author_profile: true
 
 ## Working Papers
 
-[Discrimination and Constraints: Evidence from The Voice (Job Market Paper)](https://assamidanov.github.io/files/Discrimination_Job_Market_Paper.pdf) <br>
+**[Discrimination and Constraints: Evidence from The Voice (Job Market Paper)](https://assamidanov.github.io/files/Discrimination_Job_Market_Paper.pdf)** <br>
 Updated: November 2022 
 
 >Gender discrimination in the hiring process is one significant factor contributing to labor market disparities. However, there is little evidence on the extent to which gender bias by hiring managers is responsible
@@ -22,7 +22,7 @@ heterogeneity from team gender composition, order of performance, and failure ra
  findings of offer a new perspective to enrich past research on gender discrimination, shedding light on the
 instances of gender bias variation by the gender of the decision maker and team gender composition.
 
-[Revisiting Unilateral Divorce, Health, and Crime](https://assamidanov.github.io/files/Divorce_Coauthorship_Paper.pdf) <br>
+**[Revisiting Unilateral Divorce, Health, and Crime](https://assamidanov.github.io/files/Divorce_Coauthorship_Paper.pdf)** <br>
 with Muhammad Salman Khalid and Morgan Stockham <br>
 Updated: May 2022  
 
