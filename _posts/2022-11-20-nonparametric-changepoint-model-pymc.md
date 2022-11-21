@@ -5,12 +5,9 @@ mathjax: true
 comments: true
 ---
 
-# Changepoint models
-
 Identifying structural breaks in data is an important problem to folks that frequently work with time series data. Some examples of how people have dealt with the problem of a single changepoint can be found [here](https://cscherrer.github.io/post/bayesian-changepoint/) and [here](https://mc-stan.org/docs/2_23/stan-users-guide/change-point-section.html). 
 
 Generally, the setup looks like this: we have some data $X_t$ indexed by a discrete time coordinate $t \in \{1,...,T\}$ and a parametric submodel linking the distribution of $X$ to another quantity $\mu_t$ which depends on the temporal coordinate. For the simple case of a linear Gaussian model with a single change point, we have
-
 
 $$a_1, a_2 \sim N(0, \sigma^2_\mu)$$
 
