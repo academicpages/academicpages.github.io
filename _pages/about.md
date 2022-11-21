@@ -12,7 +12,7 @@ I am a Ph.D. candidate at Monash University, supervised by [Prof. Shirui Pan](ht
 News
 ------
 * 2022/11: Our paper on [graph representation learning]() has been accepted by AAAI 2023.
-* 2022/11: Our paper on [graph federated learning]() has been accepted by AAAI 2023.
+* 2022/11: Our paper on [federated graph learning]() has been accepted by AAAI 2023.
 * 2022/10: Our paper on [graph out-of-distribution detection](https://arxiv.org/pdf/2211.04208.pdf) has been accepted by WSDM 2023.
 * 2022/08: I am honoured to receive the [Google Ph.D. Fellowship](https://research.google/outreach/phd-fellowship) in 2022.
 * 2022/05: Our survey on [graph self-supervised learning](https://arxiv.org/pdf/2103.00111.pdf) has been accepted by IEEE TKDE.
