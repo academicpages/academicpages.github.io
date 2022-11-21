@@ -16,6 +16,7 @@ Courses that I served as a Teaching Assistant since I joined Kellogg:
 Prof. Torben Andersen
 Spring 2022 ([Course Link](https://www6.kellogg.northwestern.edu/CourseCatalog/coursecatalog/coursedetail?coursecatalogid=206653))
 
+---
 # MBA Courses
 
 ## FINC 450: Capital Markets
@@ -38,6 +39,7 @@ Winter 2023 ([Course Link](https://www6.kellogg.northwestern.edu/CourseCatalog/c
 Prof. Scott Baker
 Spring 2023 ([Course Link](https://www6.kellogg.northwestern.edu/CourseCatalog/coursecatalog/coursedetail?coursecatalogid=495))
 
+---
 # Undergraduate Courses
 
 ## KELLG_FE-312: Investments
