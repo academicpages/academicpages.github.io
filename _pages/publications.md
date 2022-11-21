@@ -28,6 +28,10 @@ Zixuan Xu\*, **Penghui Wei**\*, Weimin Zhang, Shaoguo Liu, Liang Wang, Bo Zheng 
 * **AdaSparse: Learning Adaptively Sparse Structures for Multi-Domain Click-Through Rate Prediction**  
 Xuanhua Yang, Xiaoyu Peng, **Penghui Wei**†, Shaoguo Liu†, Liang Wang, Bo Zheng (†: Co-corresponding authors)    
 **CIKM ’22** (short): Proceedings of the 31st ACM International Conference on Information and Knowledge Management. Hybrid Conference, Hosted in Atlanta, Georgia, USA, October 17-21, 2022.  
+
+* **Correlative Preference Transfer with Hierarchical Hypergraph Transfer for Multi-Domain Recommendation**  
+Zixuan Xu\*, **Penghui Wei**\*, Shaoguo Liu, Liang Wang, Bo Zheng (\*: Equal contribution)  
+arXiv preprint arXiv:2211.xxxxx.    
   
 * **AutoHERI: Automated Hierarchical Representation Integration for Post-Click Conversion Rate Estimation**  
 **Penghui Wei**, Weimin Zhang, Zixuan Xu, Shaoguo Liu, Kuang-chih Lee, Bo Zheng  
@@ -63,7 +67,7 @@ Jiahao Zhao, **Penghui Wei**, Wenji Mao
 
 * **A Knowledge Enhanced Learning and Semantic Composition Model for Multi-Claim Fact Checking**  
 Shuai Wang, **Penghui Wei**, Jiahao Zhao, Wenji Mao  
-arXiv preprint arXiv:2104.13046  
+arXiv preprint arXiv:2104.13046.  
 
 * **Knowledge Structure driven Prototype Learning and Verification for Fact Checking**  
 Shuai Wang, Wenji Mao, **Penghui Wei**, Daniel Zeng  
