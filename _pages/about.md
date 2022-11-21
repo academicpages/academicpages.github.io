@@ -13,6 +13,11 @@ My current interests lie in statistical machine learning and computational data 
 
 Current and Recent Projects
 ======
+### Algorithmic Analysis of Predictive Policing Algorithms
+*Yale Computer Science Department, September 2022-Present*
+
+Investigating impacts of algorithmic policing on city communities
+
 ### Interpretable Machine Learning and Amazonian Deforestation
 *Yale School of the Environment, January 2022-Present*
 
@@ -24,10 +29,10 @@ Building interpretable machine learning models to understand and predict where d
 
 Applying NMF with Convolutional Neural Networks for interpretability with applications to medical diagnoses, particularly novel diseases such as monkeypox
 
-### Topic Modeling with Non Negative Matrix Factorization and Knowledge Graphs
+### Non Negative Matrix Factorization for Interpretable Population Analysis
 *UCLA Department of Mathematics, June 2022-August 2022*
 
-Uncovering latent information in data from Los Angeles community partners with NMF and KGE
+Uncovering latent information in data from Los Angeles community partners with Hierarchical NMF
 <br/><br/>
 
 
