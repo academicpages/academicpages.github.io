@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Taeju Park"
-  avatar           : #"TaejuPark.png"
+  avatar           : "TaejuPark.png"
   bio              : "Full-stack / DevOps"
   location         : MN, United States
   employer         :
