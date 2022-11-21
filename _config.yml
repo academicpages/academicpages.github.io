@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "banner.png"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Taeju Park"
 description              : &description "Computer Science Graduate"
