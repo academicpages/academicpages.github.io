@@ -15,9 +15,6 @@ I am a third-year Doctoral student in Economics at Claremont Graduate University
 I have been working as a Data Research Intern at 211 LA for the last two years. I have built recommendation systems
 for 211 dispatchers by using Deep Learning and Machine Learning models in Pytorch and Sklearn(Python). I have also been involved in the project of evaluating recommender bot by using A/B testing techniques.
 
-[Curriculum Vitae](https://assamidanov.github.io/files/anuar_cv.pdf)
-
-
 ### About this website
 Powered by [Jekyll](http://jekyllrb.com). Theme by [AcademicPages](https://github.com/academicpages/academicpages.github.io), a fork of [Minimal Mistakes](https://mademistakes.com/work/minimal-mistakes-jekyll-theme/). Hosted on [GitHub Pages](https://pages.github.com/).
 
