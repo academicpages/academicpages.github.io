@@ -9,7 +9,7 @@ redirect_from:
 
 ## Working Papers
 
-[Discrimination and Constraints: Evidence from The Voice (Job Market Paper)](https://assamidanov.github.io/files/Discrimination_Job_Market_Paper.pdf)
+[Discrimination and Constraints: Evidence from The Voice (Job Market Paper)](https://assamidanov.github.io/files/Discrimination_Job_Market_Paper.pdf) <br>
 Updated: November 2022 
 
 >Gender discrimination in the hiring process is one significant factor contributing to the poor labor market. However, there is little evidence on the extent to which gender bias by hiring managers is responsible for these disparities. In this paper, I exploit a unique dataset of blind auditions of The Voice television show as an experiment to identify own gender bias in the selection process. The first televised stage audition, in which four noteworthy recording artists are coaches, listens to the contestants “blindly”  (chairs facing away from the stage) to avoid seeing the contestant. Using a difference-in-differences estimation strategy, a coach (hiring person) is demonstrably exogenous with respect to the artist's gender, I find find that artists are 4.5 percentage points (11 percent) more likely to be selected when they are the recipients of an opposite-gender coach. I also utilize the machine-learning approach in Athey et al. (2018) to include heterogeneity from team gender composition, order of performance, and failure rates of the coaches. The findings offer a new perspective to enrich past research on gender discrimination, shedding light on the instances of gender bias variation by the gender of the decision maker and team gender composition.
