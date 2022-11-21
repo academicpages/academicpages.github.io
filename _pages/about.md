@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "IN PROGRESS"
+title: "Personal Blog Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,4 +9,3 @@ redirect_from:
 ---
 
 
-=====
