@@ -11,7 +11,7 @@ redirect_from:
 
 # Education
 
-* Ph.D. in [Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/) @ Michigan State University, 2024 (expected)
+* Ph.D. in [Educational Psychology & Educational Technology](https://education.msu.edu/cepse/epet/) @ Michigan State University, 2025 (expected)
 * B.A. in [Education, Communities, and Organizations](https://education.uw.edu/programs/undergraduate/eco) @ University of Washington, Seattle, 2020
 * B.S. in [Computer Science](https://www.cs.washington.edu/academics/ugrad) @ University of Washington, Seattle, 2020
 
