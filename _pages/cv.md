@@ -7,4 +7,5 @@ redirect_from:
   - /resume
 ---
 
-Click [THIS LINK](https://assamidanov.github.io/files/anuar_cv_updated_Oct_2022.pdf) to download.
+[Curriculum Vitae](https://assamidanov.github.io/files/Anuar_cv.pdf)
+[Resume](https://assamidanov.github.io/files/anuar_resume.pdf)
