@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/teaching_assistant
 venue: "Kellogg School of Management"
-date: 2020-
+date: 2020-01-01
 location: "Evanston, IL"
 ---
 
