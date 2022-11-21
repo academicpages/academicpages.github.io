@@ -29,7 +29,7 @@ Zixuan Xu\*, **Penghui Wei**\*, Weimin Zhang, Shaoguo Liu, Liang Wang, Bo Zheng 
 Xuanhua Yang, Xiaoyu Peng, **Penghui Wei**†, Shaoguo Liu†, Liang Wang, Bo Zheng (†: Co-corresponding authors)    
 **CIKM ’22** (short): Proceedings of the 31st ACM International Conference on Information and Knowledge Management. Hybrid Conference, Hosted in Atlanta, Georgia, USA, October 17-21, 2022.  
 
-* **Correlative Preference Transfer with Hierarchical Hypergraph Transfer for Multi-Domain Recommendation**  
+* **Correlative Preference Transfer with Hierarchical Hypergraph Network for Multi-Domain Recommendation**  
 Zixuan Xu\*, **Penghui Wei**\*, Shaoguo Liu, Liang Wang, Bo Zheng (\*: Equal contribution)  
 arXiv preprint arXiv:2211.xxxxx.    
   
