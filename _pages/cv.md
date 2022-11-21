@@ -11,16 +11,6 @@ redirect_from:
 
 **Download CV [here](https://github.com/joseparreiras/personal-cv/blob/master/cv.pdf)**
 
-Personal Data
-======
-Place and Date of Birth: Itabirito, Brazil | April 3rd 1996
-
-Address: 2211 Campus Drive, Room 4470, Evanston, IL, 60208
-
-Phone: [+1 (224) 296-9363](tel:+12242969363)
-
-Email: [jose.neto@kellogg.northwestern.edu](mailto:jose.neto@kellogg.northwestern.edu)
-
 Education
 ======
 * Ph.D in Finance, Kellogg School of Management, 2026 (expected)
