@@ -12,7 +12,7 @@ author_profile: true
 
 - ECE 685D: Introduction to Deep Learning (Fall 2022)
   - Roles: lecturing, interactive section leading, office hours, assignment and exam creation, grading.
-  - Projects led: Anomaly Detection, Self-Supervised Learning, Uncertainty Estimation
+  - Projects led: Anomaly Detection, Self-Supervised Learning, Uncertainty Estimation.
   - Under Professor Vahid Tarokh
 
 ## The University of North Carolina at Chapel Hill
