@@ -45,6 +45,8 @@ I have presented / will be presenting at...
 
 #### Latin American Studies Association (LASA)
 
+- Vancouver, Canada: 2023. Panel: Democracy and Political Attitudes in Latin America (full panel organizer).
+
 - San Francisco, CA: 2022. Panel: The Politics of Corruption and Anti-Corruption.
 
 - Barcelona, Spain: 2018. Panel: Building and Eroding State Capacity.

@@ -37,6 +37,8 @@ Upcoming Talks
 
 - Southern Political Science Association Meeting (SPSA): January 11-14, 2023: St. Petersburg, FL, US.
 
+- Latin American Studies Association Meeting (LASA): May 24-27, 2023: Vancouver, Canada.
+
 <!---
 
 Dissertation

@@ -12,10 +12,13 @@ var addressPoints = [
   ],
   // LASA
   [
+    "Vancouver, CA", // LASA 2023 (Canada)
+    49.28912777573468, -123.11687059483036
+  ],
+  [
     "San Francisco, USA", // LASA 2022 (Zoom!)
     37.764191276852294, -122.44087471538701
   ],
-  // LASA
   [
     "Barcelona, Spain", // LASA 2018 (Centre de Convencions Internacional de Barcelona)
     41.409584,
