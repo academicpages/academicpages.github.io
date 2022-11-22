@@ -5,6 +5,9 @@ title: "Pictures"
 
 ## Here are some random photos of travels, goings on, and cats:
 
+DC for APPAM 2022:
+![](/images/dc.jpg)
+
 Kikko is just gorgeous 2022:
 ![](/images/kikko2022.jpg)
 
