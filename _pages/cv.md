@@ -63,9 +63,6 @@ Select Conference Presentations
 
 * <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Evidence for a distributed head direction and travel trajectory system in the human brain during active navigation, Society for Neuroscience, San Diego. Nov., 2022. [[news](/posts/2022/11/blog-post-1/)]
 
-* Starrett Ambrose M., <b>Cheng, Y. </b>, Davis, R., Tranquada-Torres, B., Chrastil, E.R.. Domain generality and
-specificity across egocentric and allocentric distance ratings, Society for Neuroscience, San Diego. Nov., 2022.
-
 * <b>Cheng, Y.</b>, Chrastil, E.R..  Sex Differences in Head Direction Signals When Learning a Complex Environment. Neuromatch Conference 4.0 Flash Talk, Virtual, Dec., 2021. [[news]](/posts/2021/12/blog-post-1/) [[video](https://www.youtube.com/watch?v=fgzp-sRqbmQ&t=12s)]
 
 * <b>Cheng, Y. </b>. Head Direction Signals in the Human Brain When Exploring in a Complex Environment, UCI Cognitive Sciences Colloquium Flash Talk.  Dec., 2021.
@@ -102,6 +99,9 @@ specificity across egocentric and allocentric distance ratings, Society for Neur
 
 <br>
 <b><big>Poster Presentations</big></b>
+
+* Starrett Ambrose M., <b>Cheng, Y. </b>, Davis, R., Tranquada-Torres, B., Chrastil, E.R.. Domain generality and
+specificity across egocentric and allocentric distance ratings, Society for Neuroscience, San Diego. Nov., 2022.
 
 * Tyagi T., Magdamo C., <b>Cheng, Y. </b>, West M., Noori A., Liu X., Serrano-Pozo A., Hyman B., Mukerji S., Westover M.B., Blacker D., Das S.. Deep Learning Natural Language Processing to Detect Cognitive Impairment in Charts from Electronic Health Records. MGH Annual Clinical Research Day, Virtual. Oct., 2022. <b>Team Science - Honorable Mention</b>
 
