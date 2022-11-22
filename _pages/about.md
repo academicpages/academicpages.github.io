@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "mountain fence"
-excerpt: "mountain fence"
+title: 
+excerpt: 
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,10 +10,6 @@ header:
   image: mountain_fence.jpg
 ---
 
-This website is under development. Come back soon to see the finished thing!
+Hi, I'm John Ragland. I'm a PhD student in electrical engineering at the University of Washington.
 
-```
-What do code blocks look like?
-```
-
-## And some different headings??
+My research is focused on exploring what information we can learn about the ocean using just ambient sound.

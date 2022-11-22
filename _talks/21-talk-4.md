@@ -2,9 +2,9 @@
 title: "Ship detection from passive underwater acoustic recordings using machine learning"
 collection: talks
 type: "Talk"
-permalink: /talks/2021-11-01-talk-4
+permalink: /talks/11/1/21-talk-4
 venue: "Acoustical Society of America"
-date: 2021-11-01
+date: 11/1/21
 location: "Seattle, WA"
 ---
 
