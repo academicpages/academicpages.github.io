@@ -19,12 +19,11 @@ author_profile: true
 * P. Das, S. Das, A. Lahiri. _Understanding Sea Ice Melting via Functional Data Analysis_. [Current Science](https://www.jstor.org/stable/26978320?seq=1)
 
  ---
- Thesis
+Thesis: 
+------
  
- ---
- 
- *Purba Das _Roughness properties of paths and signals_. [Dphil Thesis](https://ora.ox.ac.uk/objects/uuid:d652aa3a-b4b7-4578-880a-b7bb4c2f31b0)
-
+ * Purba Das _Roughness properties of paths and signals_. [Dphil Thesis--University of Oxford 2022](https://ora.ox.ac.uk/objects/uuid:d652aa3a-b4b7-4578-880a-b7bb4c2f31b0)
+ * Purba Das _On completely mixed stochastic games _. [Masters Thesis-- Chennai mathematical institute 2018](https://drive.google.com/file/d/1-havnL4d1vtkf1CF13YGShW6MQ2wO5pa/view?usp=share_link)
  
  
  
