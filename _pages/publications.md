@@ -18,7 +18,7 @@ author_profile: true
 
 * P. Das, S. Das, A. Lahiri. _Understanding Sea Ice Melting via Functional Data Analysis_. [Current Science](https://www.jstor.org/stable/26978320?seq=1)
 
- ---
+------
 Thesis: 
 ------
  
