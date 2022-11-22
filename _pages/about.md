@@ -113,7 +113,7 @@ Haojie Huang, **Dian Wang**, Xupeng Zhu, Robin Walters, Robert Platt
 <button class="button-4" onclick="window.open('https://pointw.github.io/equi_robot_page/','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2203.04923.pdf','_blank')">PDF</button>
 <button class="button-4" onclick="window.open('https://openreview.net/forum?id=K8W6ObPZQyh','_blank')">OpenReview</button>
-<button class="button-4" onclick="window.open('https://www.youtube.com/watch?v=HDYoOXMojkY','_blank')">Video</button>
+<button class="button-4" onclick="window.open('https://www.youtube.com/watch?v=NEUDTVXlKeg','_blank')">Video</button>
 <button class="button-4" onclick="window.open('https://github.com/pointW/equi_rl','_blank')">Code</button>
 <br>
 
