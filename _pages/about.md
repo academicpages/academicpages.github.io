@@ -12,7 +12,7 @@ My name is Jingwu Tang (唐静吾). I am a senior-year undergrad at Turing Class
 
 # Publications
 + **A Context-Integrated Transformer-Based Neural Network for Auction Design**. <br>Zhijian Duan, Jingwu Tang, Yutong Yin, Zhe Feng, Xiang Yan, Manzil Zaheer, and Xiaotie Deng. ***ICML-22***. [arXiv](https://arxiv.org/abs/2201.12489).
-+ **Differentially Private Synthetic Data via Zeroth-order Optimization**. (alphabetical order) <br>Terrance Liu Jingwu Tang, Giuseppe Vietri, Zhiwei Steven Wu. ***Submitted to PPAI workshop, 2023. The full version will be submitted to ICML-23***.
++ **Differentially Private Synthetic Data via Zeroth-order Optimization**. <br>Terrance Liu Jingwu Tang, Giuseppe Vietri, Zhiwei Steven Wu. (alphabetical order)  ***Submitted to PPAI (AAAI workshop), 2023. The full version will be submitted to ICML-23***.
 
 # Teaching
 + 2021 Fall: CS 33400 Discrete Mathematics and Structures, PKU (TA)
