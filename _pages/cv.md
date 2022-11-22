@@ -61,6 +61,11 @@ Select Conference Presentations
 ======
 <b><big>Oral Presentations</big></b>
 
+* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Evidence for a distributed head direction and travel trajectory system in the human brain during active navigation, Society for Neuroscience, San Diego. Nov., 2022. [[news](/posts/2022/11/blog-post-1/)]
+
+* Starrett Ambrose M., <b>Cheng, Y. </b>, Davis, R., Tranquada-Torres, B., Chrastil, E.R.. Domain generality and
+specificity across egocentric and allocentric distance ratings, Society for Neuroscience, San Diego. Nov., 2022.
+
 * <b>Cheng, Y.</b>, Chrastil, E.R..  Sex Differences in Head Direction Signals When Learning a Complex Environment. Neuromatch Conference 4.0 Flash Talk, Virtual, Dec., 2021. [[news]](/posts/2021/12/blog-post-1/) [[video](https://www.youtube.com/watch?v=fgzp-sRqbmQ&t=12s)]
 
 * <b>Cheng, Y. </b>. Head Direction Signals in the Human Brain When Exploring in a Complex Environment, UCI Cognitive Sciences Colloquium Flash Talk.  Dec., 2021.
