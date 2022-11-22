@@ -11,30 +11,39 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, Auburn University 2019
+* M.S. in Electrical Engineering, Auburn University 2020
+* PhD in Electrical Engineering, University of Washington (2025)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Relevant Work experience
+========================
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Teaching Assistant, May 2019 - May 2020
+  * Auburn University
+  * Undergraduate Signals and Systems
+  * Designed and wrote undergraduate lab for signals and systems and was the lead T.A. for the class for two semesters.
+
+* Graduate Researcher, June 2020 - **present**
+  * University of Washington
+  * Explore information that can be learned about the ocean using ambient sound recorded by OOI hydrophones
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer Intern, June 2022 - September 2022
+  * Applied Research in Acoustics
+  * Used deep learning to investigate effects of using tidal forcing in HYCOM simulation
+
+
+Experience with
+===============
+* larger than memory datasets
+* geo-spatial data
+* distributed computing with dask
+* xarray
+* python
+* pytorch
+* machine learning / deep learning
+* digital signal and image processing
+* probability and random processes
+
 
 Publications
 ======
@@ -54,6 +63,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

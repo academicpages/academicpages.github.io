@@ -2,9 +2,9 @@
 title: "Estimating ocean variables using ambient noise interferometry"
 collection: talks
 type: "Talk"
-permalink: /talks/2021-11-01-talk-2
+permalink: /talks/11/1/21-talk-2
 venue: "Acoustical Society of America"
-date: 2021-11-01
+date: 11/1/21
 location: "Seattle, WA"
 ---
 
