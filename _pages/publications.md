@@ -31,7 +31,7 @@ Xuanhua Yang, Xiaoyu Peng, **Penghui Wei**†, Shaoguo Liu†, Liang Wang, Bo Zh
 
 * **Correlative Preference Transfer with Hierarchical Hypergraph Network for Multi-Domain Recommendation**  
 Zixuan Xu\*, **Penghui Wei**\*, Shaoguo Liu, Liang Wang, Bo Zheng (\*: Equal contribution)  
-arXiv preprint arXiv:2211.xxxxx.    
+arXiv preprint arXiv:2211.11191.    
   
 * **AutoHERI: Automated Hierarchical Representation Integration for Post-Click Conversion Rate Estimation**  
 **Penghui Wei**, Weimin Zhang, Zixuan Xu, Shaoguo Liu, Kuang-chih Lee, Bo Zheng  
