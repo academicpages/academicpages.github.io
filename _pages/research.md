@@ -4,14 +4,29 @@ title: "Research"
 ---
 
 
-I have had the opportunity to work on a number of interesting research projects during my Ph.D. My research combines system design, signal processing, computer vision, and machine learning methods to investigate security and privacy threats on emerging computing platforms and then proposes methods for securing modern mobile and IoT devices and protecting users’ privacy. My research has shown multiple new privacy leakages resulting from sensor data available on mobile devices, introduced secure and usable authentication mechanisms for mobile users and IoT devices, proposed usable authorization protocols for mobile developers, demonstrated attacks and defenses against IoT anomaly detection systems, and built secure communication system between humans and cameras through mobile devices. Here is a summary of some of my efforts.
+I have had the opportunity to work on a number of interesting research projects during my Ph.D. My research combines system design, signal processing, computer vision, and machine learning methods to investigate security and privacy threats on emerging computing platforms and then proposes methods for securing modern mobile and IoT devices and protecting users’ privacy. 
 
+<!---
+My research has shown multiple new privacy leakages resulting from sensor data available on mobile devices, introduced secure and usable authentication mechanisms for mobile users and IoT devices, proposed usable authorization protocols for mobile developers, demonstrated attacks and defenses against IoT anomaly detection systems, and built secure communication system between humans and cameras through mobile devices. Here is a summary of some of my efforts.
+
+--->
+
+Enabling Usable Authentication on Commodity Mobile and IoT Devices
+==================================================================
+
+I developed two systems, <a href='/files/FaceRevelio.pdf'>FaceRevelio</a> and IoTCupid to enable reliable and secure user and device authentication to protect users’ private information (e.g., contacts, messages, credit card details) on commodity mobile and allow secure communication between IoT devices.
+
+ <a href='/files/FaceRevelio.pdf'>FaceRevelio</a> is a novel liveness detection system that protects facial authentication mechanisms on commodity smartphones from spoofing attacks, without requiring effort from the users or any external hardware. It leverages the smartphone screen as a light source and illuminates different portions of the screen with random lighting patterns for a short duration (∼1 second) to simulate multiple lighting conditions. The reflection of the light from the screen is recorded and then used to extract stereo images of the face and its 3D surface through a photometric stereo technique. The reconstructed 3D surface differentiates a real human face from its 2D counterpart and defends against spoofing attacks. This work was presented at MobiCom 2020.
+ 
+More recently, I developed, IoTCupid, a new secure, and usable decentralized group pairing system for IoT devices with heterogeneous sensing modalities. My work demonstrates that two devices can use the time interval between the subsequent occurrences of a commonly observed event type (e.g., coffee-machine-on events sensed by the microphone and power meter) as proof of co-presence and use them as evidence to establish a symmetric key. IoTCupid proposes a novel group key establishment protocol that enables dynamic group generation among devices and is resilient to man-in-the-middle, offline brute force and denial of key exchange attacks. This work was recently accepted to IEEE S&P and will be available online soon.
+ 
+ 
 
 Identifying Privacy Risks in Commodity Mobile Devices
 =====================================================
 My research presents three novel permissionless sensor-based side-channels on mobile devices and shows that leakages through these channels seriously threaten users’ privacy.
 
-First, I demonstrated that modern stylus pencils, a popular accessory used to write, draw, and make selections on smartphones and tablets, have embedded magnets that trigger fluctuations in on-device magnetometer readings when a user interacts with the device using the pencil. I specifically focused on Apple Pencil and developed <a href='/files/S3.pdf'>S3</a> attack to show that a benign malicious app running in the background on a target user’s device can infer what the user is writing from the fluctuations in the permissionless magnetometer sensor’s data. This attack has practical significance as it does not rely on information about the pencil tip position, since iOS does not allow third-party apps running in the background to access this information. To account for the extensive changes in pencil's position and orientation while a user is writing, through the interplay of signal processing, computer vision, and machine learning techniques, I designed a novel 6-dimensional particle filter-based tracking algorithm to track the pencil’s tip movement using the magnetic field data to identify users’ writing. Through a comprehensive user study, I demonstrated that S3 stealthily infers letters, numbers, shapes, words, and sentences while a user is interacting with the pencil. This work was presented at UbiComp 2021.
+First, I demonstrated that modern stylus pencils, a popular accessory used to write, draw, and make selections on smartphones and tablets, have embedded magnets that trigger fluctuations in on-device magnetometer readings when a user interacts with the device using the pencil. I specifically focused on Apple Pencil and developed <a href='/files/S3.pdf'>S3</a> attack to show that a benign malicious app running in the background on a target user’s device can infer what the user is writing from the fluctuations in the permissionless magnetometer sensor’s data. This attack has practical significance as it does not rely on information about the pencil tip position, since iOS does not allow third-party apps running in the background to access this information. To account for the extensive changes in pencil's position and orientation while a user is writing, through the interplay of signal processing, computer vision, and machine learning techniques, I designed a novel tracking algorithm to track the pencil’s tip movement using the magnetic field data to identify users’ writing. Through a comprehensive user study, I demonstrated that S3 stealthily infers letters, numbers, shapes, words, and sentences while a user is interacting with the pencil. This work was presented at UbiComp 2021.
 
 Following S3, my collaborators and I presented a second attack, iStelan, a new side-channel that reveals users’ touch events from permissionless magnetometer sensor data. We exploit the revealed touch event patterns to fingerprint the type of app a user is using, and model touch events to identify users’ touch event types performed on different apps. This work will appear at PoPETs 2023.
 
@@ -20,8 +35,7 @@ In a more recent work, I developed LocIn attack to show that apps’ access to 3
 
 
 
-Enabling Usable Authentication on Commodity Mobile and IoT Devices
-==================================================================
+
 
 
 
