@@ -83,7 +83,9 @@ Email: wang dot dian at northeastern dot edu
 **Dian Wang**, Jung Yeon Park, Neel Sortur, Lawson L.S. Wong, Robin Walters\*, Robert Platt\*  
 \* Equal Advising  
 *Under Review*  
+<button class="button-4" onclick="window.open('https://pointw.github.io/extrinsic_page/','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2211.09231.pdf','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://www.youtube.com/watch?v=US4uWndGx9I','_blank')">Video</button>
 <br>
 
 ![](images/mingxi_icra23.png){: .align-right width="200px"}
