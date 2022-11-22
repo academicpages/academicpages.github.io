@@ -12,4 +12,4 @@ header:
 
 Hi, I'm John Ragland. I'm a PhD student in electrical engineering at the University of Washington.
 
-My research is focused on exploring what information we can learn about the ocean using just ambient sound.
+My research is focused on exploring what information we can learn about the ocean using ambient sound.
