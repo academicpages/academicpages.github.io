@@ -80,8 +80,8 @@ Email: wang dot dian at northeastern dot edu
 
 ![](images/iclr23.png){: .align-right width="200px"}
 **The Surprising Effectiveness of Equivariant Models in Domains with Latent Symmetry**  
-**Dian Wang**, Jung Yeon Park, Neel Sortur, Lawson L.S. Wong, Robin Walters, Robert Platt  
-\* Equal Contribution  
+**Dian Wang**, Jung Yeon Park, Neel Sortur, Lawson L.S. Wong, Robin Walters\*, Robert Platt\*  
+\* Equal Advising  
 *Under Review*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2211.09231.pdf','_blank')">PDF</button>
 <br>
