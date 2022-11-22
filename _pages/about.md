@@ -12,6 +12,8 @@ I am a NORDITA Fellow at the Nordita Institute and Stockholm University working 
 I am a member of the LIGO Scientific Collaboration (LSC) and the Australian Research Council Centre of Excellence for gravitational-wave discovery, OzGrav.
 
 # Recent News
+* November 22nd: I am advertising masters projects at Stockholm University, if you are interested in applying please contact me.
+* November 22nd: _Missed opportunities: GRB 211211A and the case for continual gravitational-wave coverage with a single observatory._ accepted in MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2210.14938)
 * October 26th: _Missed opportunities: GRB 211211A and the case for continual gravitational-wave coverage with a single observatory._ submitted to MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2210.14938)
 * October 14th: I gave an invited seminar at the Center for Gravitation, Cosmology & Astrophysics
 University of Wisconsin–Milwaukee. 
