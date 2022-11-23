@@ -9,8 +9,8 @@ tags:
   - Python
 ---
 
-<b>#1290
-<font color='yellow'>Find the sums of binary in the linked list.</font>
+# #1290
+## <font color='green'>**Find the sums of binary in the linked list.**</font>
 
 ```python
 # Definition for singly-linked list.
@@ -20,7 +20,7 @@ class ListNode:
          self.next = next
 ```
 
-<u>Assume there are a linked list given that contains binary numbers.</u>
+## <u>Assume there are a linked list given that contains binary numbers.</u>
 
 ```python
 class Solution:
@@ -34,4 +34,4 @@ class Solution:
         return sums
 ```
 
-It was a good time to learn how to handle the linked list in Python from this problem.
+## It was a good time to learn how to handle the linked list in Python from this problem.
