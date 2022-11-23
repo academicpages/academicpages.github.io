@@ -18,6 +18,7 @@ I enjoy discussing controvical topics, for example, does traditional Chinese med
 
 # my value(belief)
 > free feel to let me know if you have the same value as me or not, I also encourage you to share your value to me.
+
 - I never doubt myself.
 
 - I believe there is no talent.
@@ -34,5 +35,5 @@ it's a serect!
 
 # My dream
 
-pace & love
-build a stystem to make a efficent world
+- pace & love
+- build a stystem to make a efficent world
