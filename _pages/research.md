@@ -11,8 +11,8 @@ My research has shown multiple new privacy leakages resulting from sensor data a
 
 --->
 
-Enabling Usable Authentication on Commodity Mobile and IoT Devices
-==================================================================
+###Enabling Usable Authentication on Commodity Mobile and IoT Devices
+
 
 I developed two systems, <a href='/files/FaceRevelio.pdf'>FaceRevelio</a> and IoTCupid to enable reliable and secure user and device authentication to protect users’ private information (e.g., contacts, messages, credit card details) on commodity mobile and allow secure communication between IoT devices.
 
@@ -22,8 +22,8 @@ More recently, I developed, IoTCupid, a new secure, and usable decentralized gro
  
  
 
-Identifying Privacy Risks in Commodity Mobile Devices
-=====================================================
+###Identifying Privacy Risks in Commodity Mobile Devices
+
 My research presents three novel permissionless sensor-based side-channels on mobile devices and shows that leakages through these channels seriously threaten users’ privacy.
 
 First, I demonstrated that modern stylus pencils, a popular accessory used to write, draw, and make selections on smartphones and tablets, have embedded magnets that trigger fluctuations in on-device magnetometer readings when a user interacts with the device using the pencil. I specifically focused on Apple Pencil and developed <a href='/files/S3.pdf'>S3</a> attack to show that a benign malicious app running in the background on a target user’s device can infer what the user is writing from the fluctuations in the permissionless magnetometer sensor’s data. This attack has practical significance as it does not rely on information about the pencil tip position, since iOS does not allow third-party apps running in the background to access this information. To account for the extensive changes in pencil's position and orientation while a user is writing, through the interplay of signal processing, computer vision, and machine learning techniques, I designed a novel tracking algorithm to track the pencil’s tip movement using the magnetic field data to identify users’ writing. Through a comprehensive user study, I demonstrated that S3 stealthily infers letters, numbers, shapes, words, and sentences while a user is interacting with the pencil. This work was presented at UbiComp 2021.
