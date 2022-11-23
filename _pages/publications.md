@@ -29,45 +29,45 @@ Yu Zheng, Ming Jin, **Yixin Liu**, Lianhua Chi, Khoa T Phan, Shirui Pan, and Yi-
 -----
 * Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating \[[PDF]()\] \[[Code]()\]  
 **Yixin Liu**, Yizhen Zheng, Daokun Zhang, Vincent CS Lee, Shirui Pan.  
-AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (<span style="color:red">*CORE A\*, 19.5% acceptance rate*</span>)
+AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (<span style="color:black">*CORE A\*, 19.5% acceptance rate*</span>)
 
 * Federated Learning on Non-IID Graphs via Structural Knowledge Sharing \[[PDF]()\] \[[Code]()\]  
-Yue Tan, **Yixin Liu**, Guodong Long, Jing Jiang, Qinghua Lu, Chengqi Zhang.  
-AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (<span style="color:red">*CORE A\*, 19.5% acceptance rate*</span>)
+Yue Tan\*, **Yixin Liu**\*, Guodong Long, Jing Jiang, Qinghua Lu, Chengqi Zhang.  
+AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (<span style="color:black">*CORE A\*, 19.5% acceptance rate*</span>)
 
 * GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection \[[PDF](https://arxiv.org/pdf/2211.04208.pdf)\] \[[Code](https://github.com/yixinliu233/G-OOD-D)\]  
 **Yixin Liu**, Kaize Ding, Huan Liu, Shirui Pan.  
-ACM International Conference on Web Search and Data Mining (**WSDM**), 2023. (<span style="color:red">*CORE A\*, 17.8% acceptance rate*</span>)
+ACM International Conference on Web Search and Data Mining (**WSDM**), 2023. (<span style="color:black">*CORE A\*, 17.8% acceptance rate*</span>)
 
 * Towards unsupervised deep graph structure learning \[[PDF](https://arxiv.org/pdf/2201.06367.pdf)\] \[[Code](https://github.com/yixinliu233/SUBLIME)\]  
 **Yixin Liu**, Yu Zheng, Daokun Zhang, Hongxu Chen, Hao Peng, Shirui Pan.  
-The Web Conference (**WWW**), 2022. (<span style="color:red">*CORE A\*, 17.7% acceptance rate*</span>)
+The Web Conference (**WWW**), 2022. (<span style="color:black">*CORE A\*, 17.7% acceptance rate*</span>)
 
 * ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning \[[PDF](https://dl.acm.org/doi/10.1145/3459637.3482057)\] \[[Code](https://github.com/GRAND-Lab/ANEMONE)\]  
 Ming Jin, **Yixin Liu**, Yu Zheng, Lianhua Chi, Yuan-Fang Li, and Shirui Pan.  
-ACM International Conference on Information and Knowledge Management (**CIKM**), 2021. (<span style="color:red">*CORE A, 28.3% acceptance rate*</span>)
+ACM International Conference on Information and Knowledge Management (**CIKM**), 2021. (<span style="color:black">*CORE A, 28.3% acceptance rate*</span>)
 
 ## Journal
 -----
 * Graph Self-Supervised Learning: A Survey \[[PDF](https://arxiv.org/pdf/2103.00111.pdf)\]  
 **Yixin Liu**, Ming Jin, Shirui Pan, Chuan Zhou, Yu Zheng, Feng Xia, Philip S. Yu.  
-IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2022. (<span style="color:red">*CORE A\*, IF: 9.235*</span>)
+IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2022. (<span style="color:black">*CORE A\*, IF: 9.235*</span>)
 
 * Anomaly Detection in Dynamic Graphs via Transformer \[[PDF](https://arxiv.org/pdf/2106.09876.pdf)\] \[[Code](https://github.com/yixinliu233/TADDY_pytorch)\]  
 **Yixin Liu**, Shirui Pan, Yu Guang Wang, Fei Xiong, Liang Wang, Qingfeng Chen, Vincent CS Lee.  
-IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2021. (<span style="color:red">*CORE A\*, IF: 9.235*</span>)
+IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2021. (<span style="color:black">*CORE A\*, IF: 9.235*</span>)
 
 * Generative and Contrastive Self-Supervised Learning for Graph Anomaly Detection \[[PDF](https://ieeexplore.ieee.org/document/9568697)\] \[[Code](https://github.com/yixinliu233/SL-GAD)\]  
 Yu Zheng, Ming Jin, **Yixin Liu**, Lianhua Chi, Khoa T Phan, and Yi-Ping Phoebe Chen.  
-IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2021. (<span style="color:red">*CORE A\*, IF: 9.235*</span>)
+IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2021. (<span style="color:black">*CORE A\*, IF: 9.235*</span>)
 
 * Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning \[[PDF](https://arxiv.org/pdf/2103.00113.pdf)\] \[[Code](https://github.com/yixinliu233/CoLA)\]  
 **Yixin Liu**, Zhao Li, Shirui Pan, Chen Gong, Chuan Zhou, George Karypis.  
-IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2021. (<span style="color:red">*CORE A\*, IF: 14.255*</span>)
+IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2021. (<span style="color:black">*CORE A\*, IF: 14.255*</span>)
 
 * Cyclic Label Propagation for Graph Semi-supervised Learning \[[PDF](https://link.springer.com/article/10.1007/s11280-021-00906-2)\]  
 Zhao Li, **Yixin Liu**, Zhen Zhang, Shirui Pan, Jianliang Gao, and Jiajun Bu.  
-World Wide Web (**WWWJ**), 2021. (<span style="color:red">*CORE A, IF: 2.716*</span>)
+World Wide Web (**WWWJ**), 2021. (<span style="color:black">*CORE A, IF: 2.716*</span>)
 
 <!--
 * MRD-NETS: Multi-Scale Residual Networks with Dilated Convolutions for Classification and Clustering Analysis of Spacecraft Electrical Signal \[[PDF](https://ieeexplore.ieee.org/document/8876602)\]  
