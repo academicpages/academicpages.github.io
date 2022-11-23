@@ -9,8 +9,8 @@ tags:
   - Python
 ---
 
-# #1290
-## <font color='green'>**Find the sums of binary in the linked list.**</font>
+
+# <b><font color='green'>Find the sums of binary in the linked list.</font></b>
 
 ```python
 # Definition for singly-linked list.
