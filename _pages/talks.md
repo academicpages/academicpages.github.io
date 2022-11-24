@@ -5,11 +5,13 @@ permalink: /talks/
 author_profile: true
 ---
 
+[Bandit Algorithms](/files/Assises_des_mathematiques_talk.pdf) <br/>
+Assises des mathématiques, Paris 2022
 
 [Decentralized Learning in Online Queuing Systems](/files/Queuing_Neurips_talk.pdf) <br/>
 Seminar, DeepMind London 2022
 
-[Bandits Algorithms](/files/Bandits_AMAZON_talk.pdf) <br/>
+[Bandit Algorithms](/files/Bandits_AMAZON_talk.pdf) <br/>
 Seminar, Amazon London, 2022
 
 [Online Matching in Random Bipartite Graphs](/files/Online_Matching_INRIA_talk.pdf)<br/>
