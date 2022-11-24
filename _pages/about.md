@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+- Our paper on parallelizing adaptive query processing accepted at VLDB'23!
 - Our paper on federated query optimizers accepted at the VLDB'22 PhD workshop!
 - Two more papers accepted at VLDB'22 (CodexDB, BABOONS)!
 - Our tutorial on language models and their database applications accepted at VLDB'22!
