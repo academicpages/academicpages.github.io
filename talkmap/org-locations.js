@@ -57,6 +57,12 @@ var addressPoints = [
     41.880646,
     -87.627422
   ],
+    // MPSA
+  [
+    "Chicago, USA", // MPSA: 2023 (Palmer House)
+    41.880646,
+    -87.627422
+  ],
   // Others
   [
     "Santiago, Chile", // ACCP
