@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2023
+
+- **VLDB 2023** SkinnerMT: parallelizing for efficiency and robustness in adaptive query processing on multicore platforms. _Ziyun Wei, Immanuel Trummer_.
+
 ### 2022
 
 - **VLDB 2022, PhD Workshop** Building learned federated query optimizers. _Victor Giannakouris, Immanuel Trummer_.
