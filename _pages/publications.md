@@ -31,7 +31,7 @@ Yu Zheng, Ming Jin, **Yixin Liu**, Lianhua Chi, Khoa T Phan, Shirui Pan, and Yi-
 **Yixin Liu**, Yizhen Zheng, Daokun Zhang, Vincent CS Lee, Shirui Pan.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (<span style="color:black">*CORE A\*, 19.5% acceptance rate*</span>)
 
-* Federated Learning on Non-IID Graphs via Structural Knowledge Sharing \[[PDF]()\] \[[Code]()\]  
+* Federated Learning on Non-IID Graphs via Structural Knowledge Sharing \[[PDF](https://arxiv.org/pdf/2211.13009.pdf)\] \[[Code](https://github.com/yuetan031/FedStar)\]  
 Yue Tan\*, **Yixin Liu**\*, Guodong Long, Jing Jiang, Qinghua Lu, Chengqi Zhang.  
 AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (<span style="color:black">*CORE A\*, 19.5% acceptance rate*</span>)
 
