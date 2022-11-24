@@ -1,5 +1,5 @@
 ---
-title: "TA for Accelerated Physics II (PHYS 2802)"
+title: "Grader for Accelerated Physics II (PHYS 2802)"
 collection: teaching
 type: "Department of Physics"
 permalink: /teaching/accelerated_physics
