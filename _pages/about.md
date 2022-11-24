@@ -18,7 +18,7 @@ Hi there! I am Fazilet, a second-year PhD student in Computer Science at the Uni
 Welcome to my website!
 
 <p align="center">
-  <img src="/images/IMG_2853.JPG" width="75%" /><br/>
+  <img src="/images/official_pp.jpeg" width="75%" /><br/>
   <br/>Fig. 1: Highlights from my California trip for ICCP 2022 <br/>
 </p>
 
