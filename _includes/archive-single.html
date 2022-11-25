@@ -26,15 +26,15 @@
       </div>
     {% endif %}
     
-    <p class="page__date" style="color:rgb(16, 16, 63); font: size 4px;"> <time datetime="{{ post.date | default: '1900-01-01' | date_to_xmlschema }}" style="color:rgb(16, 16, 63); font: size 6px;">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-    <p class="ui-text" itemprop="headline"> 
+    <small class="page__date" style="color:rgb(16, 16, 63); font: size 4px;"> <time datetime="{{ post.date | default: '1900-01-01' | date_to_xmlschema }}" style="color:rgb(16, 16, 63); font: size 6px;">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></small>
+    <strong class="ui-text" itemprop="headline"> 
       <!-- archive__item-title -->
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-    </p>
+    </strong>
     
     <!-- {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
