@@ -13,11 +13,11 @@ News
 ------
 * 2022/11: Our paper on [graph representation learning]() has been accepted by AAAI 2023.
 * 2022/11: Our paper on [federated graph learning](https://arxiv.org/pdf/2211.13009.pdf) has been accepted by AAAI 2023.
-* 2022/10: Our paper on [graph out-of-distribution detection](https://arxiv.org/pdf/2211.04208.pdf) has been accepted by WSDM 2023.
+* 2022/10: Our paper on [graph OOD detection](https://arxiv.org/pdf/2211.04208.pdf) has been accepted by WSDM 2023.
 * 2022/08: I am honoured to receive the [Google Ph.D. Fellowship](https://research.google/outreach/phd-fellowship) in 2022.
 * 2022/05: Our survey on [graph self-supervised learning](https://arxiv.org/pdf/2103.00111.pdf) has been accepted by IEEE TKDE.
-* 2022/01: Our paper on [unsupervised graph structure learning](https://arxiv.org/pdf/2201.06367.pdf) has been accepted by WWW 2022.
-* 2021/11: Our paper on [dynamic graph anomaly detection](https://arxiv.org/pdf/2106.09876.pdf) has been accepted by IEEE TKDE.
+* 2022/01: Our paper on [graph structure learning](https://arxiv.org/pdf/2201.06367.pdf) has been accepted by WWW 2022.
+* 2021/11: Our paper on [dynamic graph](https://arxiv.org/pdf/2106.09876.pdf) has been accepted by IEEE TKDE.
 * 2021/10: Our paper on [graph anomaly detection](https://arxiv.org/pdf/2108.09896.pdf) has been accepted by IEEE TKDE.
 * 2021/08: Our paper on [graph anomaly detection](https://shiruipan.github.io/publication/cikm-21-jin/cikm-21-jin.pdf) has been accepted by CIKM 2021. 
 * 2021/06: Our paper on [label propagation](https://link.springer.com/content/pdf/10.1007/s11280-021-00906-2.pdf) has been accepted by World Wide Web. 
