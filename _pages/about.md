@@ -10,7 +10,7 @@ redirect_from:
 What a time to live in! (or did we ever get to choose?)
 -----
 
-I'm a first-year master's student at the University of Pennsylvania's Computer and Information Science program. ('j' in the middle stands for Jongkook, my original Korean name.) I'm interested in **Tokenization changing how we "interact" with ownership, the "exploration vs exploitation" problem in reinforcement learning**, **mechanisms of great decision-making** and **how the humanity's giant "capitalism" experiment/structure relates to the dynamic nature of humans**.
+I'm a first-year master's student at the University of Pennsylvania's Computer and Information Science program. (Jongkook is my original Korean name.) I'm interested in **Tokenization changing how we "interact" with ownership, the "exploration vs exploitation" problem in reinforcement learning**, **mechanisms of great decision-making** and **how the humanity's giant "capitalism" experiment/structure relates to the dynamic nature of humans**.
 
 I'm still in search of **indomitable structural changes in the world** and **the tools to refine those into exponential growth opportunities**. The above list are those tools that I deem as such.
 

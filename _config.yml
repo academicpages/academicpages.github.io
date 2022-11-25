@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "remyfromshower"
+  username               : &twitter "stochastic_remy"
 facebook:
   username               :
   app_id                 :
@@ -113,7 +113,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "remyfromshower"
+  twitter          : "stochastic_remy"
   vine             :
   weibo            :
   xing             :

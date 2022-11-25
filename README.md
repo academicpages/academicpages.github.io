@@ -1,9 +1,11 @@
 # Notes for navigation
 - look into _includes/archive-single.html for post list seetings
+- _data/navigation
+- _config.yml
+- pages/year_archive.html, pages/category-archive.html
 - 
 
 #TODOs
-- [ ] Change settings and directories for post list
 - [ ] Change resume 
 - [ ] Change intro page comments
 - [ ] Create new sections for paper reviews/studies, life thoughts and initial ideas

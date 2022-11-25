@@ -8,14 +8,15 @@ main:
 
   # - title: "Teaching"
     # url: /teaching/    
-    
+
+  - title: "Blog"
+    # url: /blog/
+    url: /blog_by_cat/
+
   - title: "Projects"
     url: /projects/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "Resume"
+
+  - title: "Bio/Files"
     url: /files/RemyKim_Resume_q.pdf
     
   # - title: "Guide"
