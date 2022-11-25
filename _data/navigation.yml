@@ -11,7 +11,7 @@ main:
 
   - title: "Blog"
     # url: /blog/
-    url: /blog_by_cat/
+    url: /blog/
 
   - title: "Projects"
     url: /projects/

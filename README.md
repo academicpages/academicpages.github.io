@@ -3,7 +3,7 @@
 - _data/navigation
 - _config.yml
 - pages/year_archive.html, pages/category-archive.html
-- 
+- pages/markdown.md for md grammars
 
 #TODOs
 - [ ] Change resume 
