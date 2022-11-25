@@ -13,7 +13,7 @@ tags:
   - Endeavors and ambitions
 ---
 
-Last three days' been wonderful. I express my deepest gratitude to the Tae family for inviting me over during the Thanksgiving.
+These last three days were wonderful. I express my deepest gratitude to the Tae family for inviting me over during the Thanksgiving.
 
 Living abroad, thinking about various aspects of life.
 

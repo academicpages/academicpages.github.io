@@ -4,6 +4,7 @@
 - _config.yml
 - pages/year_archive.html, pages/category-archive.html
 - pages/markdown.md for md grammars
+- sidebars are in _layouts/archive
 
 #TODOs
 - [ ] Change resume 
