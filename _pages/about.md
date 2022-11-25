@@ -27,12 +27,12 @@ Building interpretable machine learning models to understand and predict where d
 ### Interpreting Neural Network Concept Discovery with Non Negative Matrix Factorization
 *August 2022*
 
-Applying NMF with Convolutional Neural Networks for interpretability with applications to medical diagnoses, particularly novel diseases such as monkeypox
+Applying NMF with Convolutional Neural Networks for interpretability with applications to medical diagnoses, particularly novel diseases such as monkeypox under [Dr. Elena Sizikova](https://esizikova.github.io)
 
 ### Non Negative Matrix Factorization for Interpretable Population Analysis
 *UCLA Department of Mathematics, June 2022-August 2022*
 
-Uncovering latent information in data from Los Angeles community partners with Hierarchical NMF
+Uncovering latent information in data from Los Angeles community partners with Hierarchical NMF under [Dr. Deanna Needell](https://www.math.ucla.edu/~deanna/index.html)
 <br/><br/>
 
 
