@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Climate mobilities | Lisa Thalheimer, PhD (Oxon)"
 title_separator          : "-"
-name                     : &name "Dr. Lisa Thalheimer"
+name                     : &name "Dr Lisa Thalheimer"
 description              : &description "personal description"
 url                      : https://lisathalheimer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
