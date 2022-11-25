@@ -2,6 +2,7 @@
 title: 'Family and Health'
 date: 2022-11-25
 permalink: /posts/2022/006_family_health
+url: /posts/2022/006_family_health
 tags:
   - goals
   - family
