@@ -26,7 +26,7 @@
       </div>
     {% endif %}
     
-    <p class="page__date" style="color:rgb(16, 16, 63); font: size 4px;"> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+    <p class="page__date" style="color:rgb(16, 16, 63); font: size 4px;"> <time datetime="{{ post.date | default: '1900-01-01' | date_to_xmlschema }}" style="color:rgb(16, 16, 63); font: size 6px;">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     <p class="ui-text" itemprop="headline"> 
       <!-- archive__item-title -->
       {% if post.link %}
