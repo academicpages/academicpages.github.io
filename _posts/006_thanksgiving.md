@@ -15,13 +15,17 @@ Last three days' been wonderful. I express my deepest gratitude to the Tae famil
 Living abroad, thinking about various aspects of life.
 
 Christian
-- 
+- How thoughtful of him to invite me over
 
 Ethan
-- 
+- Charleston and his new venture
+- What ambitions he has
+- President superlatives story
+- His character
 
 William
-- 
+- Finance Career
+- How appreciative of life and family he was.
 
 Steve
 - Cooking
