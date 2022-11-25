@@ -17,12 +17,12 @@ I'm still in search of **indomitable structural changes in the world** and **the
 I did my undergraduate studies at Seoul National University in Electrical/Computer Engineering and Business Administration. There, I was fortunate to have been advised by [Prof. Minhwan Oh](http://www.columbia.edu/~mo2499/) and [Prof. Taesup Moon](https://mindlab-skku.github.io/people/pi/).
 
 <!-- <center><img src="http://remyjkim.github.io/images/metaai_brain_world_rl.png"  width="40%"></center> -->
-<figure>
+<!-- <figure>
   <img
   src="http://remyjkim.github.io/images/metaai_brain_world_rl.png"
   alt="World model of the our brain in RL Framework" style="clear: left; height: 65%; width: 65%; margin-right: 1em; margin-top: 1em;">
   <figcaption><a href="https://openreview.net/pdf?id=BZ5a1r-kVsf"> A Path Towards Autonomous Machine Intelligence</a></figcaption>
-</figure>
+</figure> -->
 <!-- ![github pages themes.png](http://remyjkim.github.io/images/metaai_brain_world_rl.png){: style="float: right;  -->
 <!-- height: 65%; width: 65%; margin-left: 1em; margin-top: 2em;"}{:class="img-responsive"} -->
 <!-- (Source: Yann Lecun's paper - [A Path Towards Autonomous Machine Intelligence](https://openreview.net/pdf?id=BZ5a1r-kVsf)) -->
