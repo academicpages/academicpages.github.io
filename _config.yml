@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Climate mobilities  |  Dr. Lisa Thalheimer"
+title                    : "Climate mobilities | Lisa Thalheimer, PhD (Oxon)"
 title_separator          : "-"
-name                     : &name "Lisa Thalheimer"
+name                     : &name "Dr. Lisa Thalheimer"
 description              : &description "personal description"
 url                      : https://lisathalheimer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Lisa Thalheimer"
   avatar           : "Lisa Thalheimer_profile.jpg"
-  bio              : "Modelling Climate Mobilities <br /> Systemic Risk"
-  location         : "Oxford, UK"
+  bio              : "Modelling Climate Migration <br /> Extreme Event Attribution <br /> Forecast-based Financing"
+  location         : "Bonn, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0nAv_MEAAAAJ&hl=de"
