@@ -94,6 +94,7 @@ author:
   uri              :
   bitbucket        : "latower"
   codepen          :
+  dblp             : "https://dblp.org/pid/204/8189.html"
   dribbble         :
   flickr           :
   facebook         :
@@ -101,6 +102,7 @@ author:
   github           : "latower"
   google_plus      :
   keybase          :
+  mastodon         : "https://mathstodon.xyz@anna"
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
