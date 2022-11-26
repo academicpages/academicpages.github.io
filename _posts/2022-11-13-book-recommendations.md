@@ -21,7 +21,6 @@ I distributed them randomly among my advisors, committee members, and paranimphs
 It seems that by now, all the books that I had to send overseas have arrived at their destinations, and I wanted to share a bit about which books I picked and why.
 
 [![img caption test](/images/2022/IMG_5288_1024x768.jpg)](/images/2022/IMG_5288.jpg "Image shows seven books on a dusty pink table cloth. The books are: Lab Girl - A story of trees, science and love, by Hope Jahren; The Immortal Life of Henrietta Lacks, by Rebecca Skloot; Circe, by Madeline Miller; Superior - The Return of Race Science, by Angela Saini; The Guilty Feminist - From our noble goals to our worst hypocrisies, by Deborah Frances-White; Ten Steps to Nanette, by Hannah Gadsby; and Inferior - The True Power of Women and the Science that Shows it, by Angela Saini.")
-<!-- {{< caption >}}More caption test -->
 
 ### [The Guilty Feminist](https://www.goodreads.com/book/show/39703115-the-guilty-feminist), by Deborah Frances-White
 
