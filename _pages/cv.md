@@ -1,3 +1,5 @@
+[resume.pdf](https://ph504.github.io/files/resume.pdf)
+<!--
 ---
 layout: archive
 title: "CV"
@@ -57,3 +59,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
