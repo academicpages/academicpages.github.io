@@ -11,19 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Mathematics, Mechanical Engineering, Yale University, 2022 (expected)
+* B.S. in Applied Mathematics, Mechanical Engineering, Yale University, Graduating December 2022
 
 Research Experience
 ======
 ### Interpreting Neural Network Concept Discovery with Non Negative Matrix Factorization
 *August 2022*
 
-Applying NMF with Convolutional Neural Networks for interpretability with applications to medical diagnoses, particularly novel diseases such as monkeypox
+Applying NMF with Convolutional Neural Networks for interpretability with applications to medical diagnoses, particularly novel diseases such as monkeypox under [Dr. Elena Sizikova](https://esizikova.github.io)
+<br/><br/>
 
-### Topic Modeling with Non Negative Matrix Factorization and Knowledge Graphs
+### Latent Population Feature Discovery with Hierarchical Non Negative Matrix Factorization
 *UCLA Department of Mathematics, June 2022-Present*
 
-Uncovering latent information in data from Los Angeles community partners with NMF and KGE
+Uncovering latent information in data from Los Angeles community partners with Hierarchical Non Negative Matrix Factorization under [Dr. Deanna Needell](https://www.math.ucla.edu/~deanna/)
 <br/><br/>
 
 ### Interpretable Machine Learning and Amazonian Deforestation
