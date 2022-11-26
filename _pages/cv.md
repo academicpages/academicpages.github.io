@@ -1,5 +1,4 @@
 [resume.pdf](https://ph504.github.io/files/resume.pdf)
-<!--
 ---
 layout: archive
 title: "CV"
@@ -10,7 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<!--
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
