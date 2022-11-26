@@ -1,4 +1,3 @@
-[resume.pdf](https://ph504.github.io/files/resume.pdf)
 ---
 layout: archive
 title: "CV"
