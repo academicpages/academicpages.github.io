@@ -27,7 +27,7 @@ import re
 # Build a .bib file from the individual bib entries in files/bib:
 from pathlib import Path
 parentdir = str(Path(os.getcwd()).parent.absolute())
-with open("proceedings.bib", "w") as procfile, open("pubs.bib", "w") as pubsfile:
+with open("proceedings.bib", "w") as procfile, open("pubs.bib", "w") as pubsfile, open ("dissertation.bib", "w") as dissertationfile:
     for bib_file in os.listdir(parentdir + '/files/bib'):
         with open(parentdir + '/files/bib/' + bib_file, 'r') as bf:
             lines = bf.readlines()
@@ -35,6 +35,8 @@ with open("proceedings.bib", "w") as procfile, open("pubs.bib", "w") as pubsfile
                 procfile.writelines(lines)
             elif lines[0].strip().startswith('@article'):
                 pubsfile.writelines(lines)
+            elif lines[0].strip().startswith('@phdthesis'):
+                dissertationfile.writelines(lines)
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
@@ -55,7 +57,15 @@ publist = {
         "venue-pretext" : "",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"}
-    } 
+    },
+    "dissertation":{
+        "file": "dissertation.bib",
+        "authorkey": "author",
+        "venuekey" : "school",
+        "venue-pretext" : "",
+        "collection" : {"name":"publications",
+                        "permalink":"/publication/"}
+    }
 }
 
 html_escape_table = {
