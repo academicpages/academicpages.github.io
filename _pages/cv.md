@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 My [resume.pdf](https://ph504.github.io/files/resume.pdf)
+
 <!--
 Education
 ======
