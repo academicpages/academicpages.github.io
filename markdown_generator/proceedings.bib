@@ -1,17 +1,18 @@
-@inproceedings{LatEtAl19a,
-  author    = {A. L. D. Latour and
+@inproceedings{LatEtAl19b,
+  author    = {A.L.D. Latour and
                B. Babaki and
                S. Nijssen},
-  title     = {Stochastic Constraint Propagation for Mining Probabilistic Networks},
-  booktitle = {Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI 2019)},
-  pages     = {1137--1145},
-  publisher = {ijcai.org},
+  title     = {Stochastic Constraint Propagation for Mining Probabilistic Networks (extended abstract)},
+  booktitle = {Proceedings of the 31st Benelux Conference on Artificial Intelligence (BNAIC 2019) and the 28th Belgian Dutch Conference on Machine Learning (Benelearn 2019)},
+  series    = {{CEUR} Workshop Proceedings},
+  volume    = {2491},
+  publisher = {CEUR-WS.org},
   year      = {2019},
-  abstract  = {A number of data mining problems on probabilistic networks can be modeled as Stochastic Constraint Optimization and Satisfaction Problems, i.e., problems that involve objectives or constraints with a stochastic component. Earlier methods for solving these problems used Ordered Binary Decision Diagrams (OBDDs) to represent constraints on probability distributions, which were decomposed into sets of smaller constraints and solved by Constraint Programming (CP) or Mixed Integer Programming (MIP) solvers. For the specific case of monotonic distributions, we propose an alternative method: a new propagator for a global OBDD-based constraint. We show that this propagator is (sub-)linear in the size of the OBDD, and maintains domain consistency. We experimentally evaluate the effectiveness of this global constraint in comparison to existing decomposition-based approaches, and show how this propagator can be used in combination with another data mining specific constraint present in CP systems. As test cases we use problems from the data mining literature.},
-  keywords  = {Global Constraints, Exact Probabilistic Inference, Combinatorial Search and Optimisation, Uncertainty in AI},
-} 
+  abstract  = {A number of data mining problems on probabilistic networks can be modelled as Stochastic Constraint Optimisation and Satisfaction Problems, i.e., problems that involve objectives or constraints with a stochastic component. Earlier methods for solving these problems used Ordered Binary Decision Diagrams (OBDDs) to represent constraints on probability distributions, which were decomposed into sets of smaller constraints and solved by Constraint Programming (CP) or Mixed Integer Programming (MIP) solvers. For the specific case of monotonic distributions, we propose an alternative method: a new propagator for a global OBDD-based constraint. We show that this propagator is efficient and maintains domain consistency. We experimentally evaluate this global constraint in comparison to existing decomposition-based approaches. As test cases we use problems from the data mining literature.},
+  keywords  = {Constraint Programming, Constraint Optimisation, Stochastic Constraint Optimisation, Combinatorial Optimisation, Global Constraints, Ordered Binary Decision Diagrams.}
+}
 @inproceedings{LatEtAl17,
-  author    = {A. L. D. Latour and
+  author    = {A.L.D. Latour and
                B. Babaki and
                A. Dries and
                A. Kimmig and
@@ -27,8 +28,16 @@
   abstract  = {We show that a number of problems in Artificial Intelligence can be seen as Stochastic Constraint Optimization Problems (SCOPs): problems that have both a stochastic and a constraint optimization component. We argue that these problems can be modeled in a new language, SC-ProbLog, that combines a generic Probabilistic Logic Programming (PLP) language, ProbLog, with stochastic constraint optimization. We propose a toolchain for effectively solving these SC-ProbLog programs, which consists of two stages. In the first stage, decision diagrams are compiled for the underlying distributions. These diagrams are converted into models that are solved using Mixed Integer Programming or Constraint Programming solvers in the second stage. We show that, to yield linear constraints, decision diagrams need to be compiled in a specific form. We introduce a new method for compiling small Sentential Decision Diagrams in this form. We evaluate the effectiveness of several variations of this toolchain on test cases in viral marketing and bioinformatics.},
   keywords = {Viral Marketing, Toolchain, Ordered Binary Decision Diagrams, Sentential Decision Diagrams, Weighted Model Counting, ProbLog}
 } 
+@inproceedings{FokEtAl19,
+    author = {D. Fokkinga and A.L.D. Latour and M. Anastacio and S. Nijssen and H. Hoos},
+    title = "Programming a Stochastic Constraint Optimisation Algorithm, by Optimisation",
+    booktitle = "Workshop Data Science meets Optimisation (DSO), held in conjunction with IJCAI 2019",
+    year = "2019",
+    month = "aug",
+    abstract = "Stochastic Constraint Optimisation Problems (SCOPs), such as the viral marketing problem and transmission grid reliability problem, arise in fields such as industry, governance and science. The recently proposed Stochastic Constraint Probabilistic Prolog (SC-ProbLog) language makes it possible to model and solve such SCOPs. Solving SCOPs exactly is NP-hard, and to solve real-world problems, exact SCOP solving methods must employ highly optimised heuristics. We propose to follow the principle of Programming by Optimisation (PbO): we expose the design choices of a recently proposed SCOP solving method and optimise these using Automated Algorithm Configuration (AAC). For a set of viral marketing problems, our optimised SCOP solver runs up to 26 times faster and solves almost two thirds of the instances that could not be solved within a cutoff time of ten minutes, by an expert-chosen default configuration of the solver. For a set of transmission grid reliability problems, the optimised configuration solves ten percent more instances overall, and solves some instances up to ten times faster."
+} 
 @inproceedings{RooEtAl20,
-    author = {J. G. Rook and A. L. D. Latour and S. Nijssen and H. H. Hoos},
+    author = "J.G. Rook and A.L.D. Latour and S. Nijssen and H.H. Hoos",
     title = "Better Caching for Better Model Counting (extended abstract)",
     booktitle = "International Workshop on Model Counting (MCW), held in conjunction with SAT 2020",
     year = "2020",
@@ -37,39 +46,8 @@
     keywords  = "machine learning, algorithm configuration, programming by optimisation, model counting", 
     tags = "machine learning, algorithm configuration, programming by optimisation, model counting",
 }
-@inproceedings{FokEtAl19,
-    author = {D. Fokkinga and A. L. D. Latour and M. Anastacio and S. Nijssen and H. Hoos},
-    title = "Programming a Stochastic Constraint Optimisation Algorithm, by Optimisation",
-    booktitle = "Workshop Data Science meets Optimisation (DSO), held in conjunction with IJCAI 2019",
-    year = "2019",
-    month = "aug",
-    abstract = "Stochastic Constraint Optimisation Problems (SCOPs), such as the viral marketing problem and transmission grid reliability problem, arise in fields such as industry, governance and science. The recently proposed Stochastic Constraint Probabilistic Prolog (SC-ProbLog) language makes it possible to model and solve such SCOPs. Solving SCOPs exactly is NP-hard, and to solve real-world problems, exact SCOP solving methods must employ highly optimised heuristics. We propose to follow the principle of Programming by Optimisation (PbO): we expose the design choices of a recently proposed SCOP solving method and optimise these using Automated Algorithm Configuration (AAC). For a set of viral marketing problems, our optimised SCOP solver runs up to 26 times faster and solves almost two thirds of the instances that could not be solved within a cutoff time of ten minutes, by an expert-chosen default configuration of the solver. For a set of transmission grid reliability problems, the optimised configuration solves ten percent more instances overall, and solves some instances up to ten times faster."
-} 
-@inproceedings{LatEtAl19b,
-  author    = {A. L. D. Latour and
-               B. Babaki and
-               S. Nijssen},
-  title     = {Stochastic Constraint Propagation for Mining Probabilistic Networks (extended abstract)},
-  booktitle = {Proceedings of the 31st Benelux Conference on Artificial Intelligence (BNAIC 2019) and the 28th Belgian Dutch Conference on Machine Learning (Benelearn 2019)},
-  series    = {{CEUR} Workshop Proceedings},
-  volume    = {2491},
-  publisher = {CEUR-WS.org},
-  year      = {2019},
-  abstract  = {A number of data mining problems on probabilistic networks can be modelled as Stochastic Constraint Optimisation and Satisfaction Problems, i.e., problems that involve objectives or constraints with a stochastic component. Earlier methods for solving these problems used Ordered Binary Decision Diagrams (OBDDs) to represent constraints on probability distributions, which were decomposed into sets of smaller constraints and solved by Constraint Programming (CP) or Mixed Integer Programming (MIP) solvers. For the specific case of monotonic distributions, we propose an alternative method: a new propagator for a global OBDD-based constraint. We show that this propagator is efficient and maintains domain consistency. We experimentally evaluate this global constraint in comparison to existing decomposition-based approaches. As test cases we use problems from the data mining literature.},
-  keywords  = {Constraint Programming, Constraint Optimisation, Stochastic Constraint Optimisation, Combinatorial Optimisation, Global Constraints, Ordered Binary Decision Diagrams.}
-}
-@inproceedings{LatEtAl20,
-  title="Stochastic Constraint Optimisation with Applications in Network Analysis (extended abstract)",
-  author={A. L. D. Latour and B. Babaki and D. Fokkinga and M. Anastacio and H. H. Hoos and S. Nijssen},
-  booktitle="International Workshop on Model Counting (MCW), held in conjunction with SAT 2020",
-  year="2020",
-  month="jul",
-  abstract="Stochastic Constraint (optimisation) Problems (SCPs) are problems that combine weighted model counting (WMC) with constraint satisfaction and optimisation. We present an extensive study of methods for exactly solving SCPs in network analysis, where the underlying probability distributions have a monotonic property. These methods use knowledge compilation to address the model counting problem; subsequently, either a constraint programming (CP) solver or mixed integer programming (MIP) solver is used to solve the overall SCP. To configure the space of parameters of these approaches, we propose to use the framework of programming by optimisation. The result shows that a CP-based pipeline obtains the best performance.",
-  keywords = "constraint optimisation, weighted model counting, probabilistic inference, network analysis, reasoning under uncertainty",
-  tags = "constraint optimisation, weighted model counting, probabilistic inference, network analysis, reasoning under uncertainty",
-}
 @inproceedings{LatEtAl18,
-  author    = {A. L. D. Latour and
+  author    = {A.L.D. Latour and
                B. Babaki and
                S. Nijssen},
   title     = {Stochastic Constraint Optimization using Propagation on Ordered Binary Decision Diagrams},
@@ -77,11 +55,41 @@
   month     = {jul},
   year      = {2018}
 } 
+@inproceedings{LatEtAl22b,
+    author = {Latour, A.L.D. and Babaki, B. and Fokkinga, D. and Anastacio, M. and Hoos, H.H. and Nijssen, S.},
+    title = "Stochastic Constraint Optimisation with Applications in Network Analysis (extended abstract)",
+    booktitle = "Workshop on Counting and Sampling 2022, in conjunction with FLoC 2022 and SAT 2022",
+    year = "2022",
+    month = "aug",
+    tags = "constraint optimisation, weighted model counting, probabilistic inference, network analysis, reasoning under uncertainty"
+}
 @inproceedings{RooEtAl21,
-    author = {J. G. Rook and A. L. D. Latour and S. Nijssen and H. H. Hoos},
+    author = "J.G. Rook and A.L.D. Latour and S. Nijssen and H.H. Hoos",
     title = "Caching in Model Counters: A Journey through Space and Time (extended abstract)",
     booktitle = "Workshop on Counting and Sampling, held in conjunction with SAT 2021",
     year = "2021",
     month = "jul",
     keywords = "machine learning, algorithm configuration, programming by optimisation, model counting",
+}
+@inproceedings{LatEtAl19a,
+  author    = {A.L.D. Latour and
+               B. Babaki and
+               S. Nijssen},
+  title     = {Stochastic Constraint Propagation for Mining Probabilistic Networks},
+  booktitle = {Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI 2019)},
+  pages     = {1137--1145},
+  publisher = {ijcai.org},
+  year      = {2019},
+  abstract  = {A number of data mining problems on probabilistic networks can be modeled as Stochastic Constraint Optimization and Satisfaction Problems, i.e., problems that involve objectives or constraints with a stochastic component. Earlier methods for solving these problems used Ordered Binary Decision Diagrams (OBDDs) to represent constraints on probability distributions, which were decomposed into sets of smaller constraints and solved by Constraint Programming (CP) or Mixed Integer Programming (MIP) solvers. For the specific case of monotonic distributions, we propose an alternative method: a new propagator for a global OBDD-based constraint. We show that this propagator is (sub-)linear in the size of the OBDD, and maintains domain consistency. We experimentally evaluate the effectiveness of this global constraint in comparison to existing decomposition-based approaches, and show how this propagator can be used in combination with another data mining specific constraint present in CP systems. As test cases we use problems from the data mining literature.},
+  keywords  = {Global Constraints, Exact Probabilistic Inference, Combinatorial Search and Optimisation, Uncertainty in AI},
+} 
+@inproceedings{LatEtAl20,
+  title="Stochastic Constraint Optimisation with Applications in Network Analysis (extended abstract)",
+  author="A.L.D. Latour and B. Babaki and D. Fokkinga and M. Anastacio and H.H. Hoos and S. Nijssen",
+  booktitle="International Workshop on Model Counting (MCW), held in conjunction with SAT 2020",
+  year="2020",
+  month="jul",
+  abstract="Stochastic Constraint (optimisation) Problems (SCPs) are problems that combine weighted model counting (WMC) with constraint satisfaction and optimisation. We present an extensive study of methods for exactly solving SCPs in network analysis, where the underlying probability distributions have a monotonic property. These methods use knowledge compilation to address the model counting problem; subsequently, either a constraint programming (CP) solver or mixed integer programming (MIP) solver is used to solve the overall SCP. To configure the space of parameters of these approaches, we propose to use the framework of programming by optimisation. The result shows that a CP-based pipeline obtains the best performance.",
+  keywords = "constraint optimisation, weighted model counting, probabilistic inference, network analysis, reasoning under uncertainty",
+  tags = "constraint optimisation, weighted model counting, probabilistic inference, network analysis, reasoning under uncertainty",
 }
