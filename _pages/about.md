@@ -8,6 +8,20 @@ redirect_from:
   - /about.html
 ---
 
+## Summary
+---
+Hi, I graduated from Shahid Beheshti University with a bsc. degree in computer engineering in summer 2022📚.
+I have a keen interest in Robotics, Reinforcement Learning, Machine Learning, Deep Learning, Computer Vision, Image Processing, Signal Processing.
+I have worked with mechanical arms, mobile robots, experienced various problems and enjoyed solving them in my internship and my bachelor thesis. since physical systems are too expensive to work with, I focused on developing my robotic projects with the powerful Webots robot simulator, I used this simulator in all my robotics related projects.
+while learning, I'm sharing my knowledge with awesome freshman students at Shahid Beheshti university, hope they achieve only success and fortune in their lives.
+
+## The origins of my motivation towards choosing robotics field
+In Highschool I really was into physics and mathematics, and I really considered these fields with all reasonable passion within my choices, Although the fascination that I can create my own virtual world and control it the way I want really made me choose computer engineering. and I got into robotics because of my passion for physics and mathematics and computer science so this field can promise me a future with shared problems in all three of them combined. Robots are the nearest field that bridges the physical world and the virtual computational world which makes me appreciate even the simplest tasks that mankind does day to day and inspire me to develope robots that are either close to the human behavior or robots that are helpful and useful to different problems of human activities.
+
+## My aspiration in life and my ULTIMATE goal
+It would be a dream to have robots with developed cognition that make them have desires and feelings and be curious. In other words make us wonder what will really happen if creatures with characteristics that are almost unique to the humanity will downgrade human spieces or will raise attention to other spieces which at the end, will be treated differently with this knowledge. hope I can live enough to find the answer to my ultimate question about life.
+
+<!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -48,3 +62,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
