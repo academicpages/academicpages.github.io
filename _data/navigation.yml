@@ -12,6 +12,14 @@ main:
   - title: "Teaching"
     url: /teaching/    
         
+  
+  - title: "Experience"
+    url: /experience/ 
+    
+  
+  - title: "Education"
+    url: /education/ 
+    
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
