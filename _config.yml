@@ -318,3 +318,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+minimal_mistakes_skin: "dark" 
