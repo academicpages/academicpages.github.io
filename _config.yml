@@ -319,4 +319,4 @@ compress_html:
   ignore:
     envs: development
 
-minimal_mistakes_skin: "dark" 
+# minimal_mistakes_skin: "dark" 
