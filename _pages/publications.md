@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-No publications yet. Please checkout the [projects](/ph504.github.io/_pages/projects.md ) page.
+No publications yet. Please checkout the [projects](https://ph504.github.io/projects/) page.
 
 <!-- 
 {% if author.googlescholar %}
