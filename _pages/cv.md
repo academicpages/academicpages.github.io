@@ -30,7 +30,7 @@ Organization activities & Volunteering
 Skills
 ======
 * Programming Languages:
-  * Python
+  * Python/PyTorch
   * C/C++
   * C#
 * Machine Learning:
@@ -38,7 +38,6 @@ Skills
   * LSTM
   * AutoEncoder
   * Masked Image Modeling
-  * PyTorch
   * Transformer
   * U-Net
 * Software:
