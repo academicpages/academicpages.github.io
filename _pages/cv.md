@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My [resume.pdf](https://ph504.github.io/files/resume.pdf)
+My [resume.pdf](https://raw.githubusercontent.com/ph504/ap-resume/main/resume.pdf)
 
 <!--
 Education
