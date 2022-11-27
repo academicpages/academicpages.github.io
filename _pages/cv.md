@@ -43,7 +43,7 @@ Skills
   * U-Net
 * Software:
   * PyCharm/Spyder
-  * ArcGIS/ENVI
+  * ArcGIS
   * ENVI
   * Vissim
   * Revit/Auto CAD
