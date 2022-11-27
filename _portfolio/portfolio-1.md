@@ -19,7 +19,7 @@ from the work of an arbitrary printer. For this purpose, evolutionary algorithms
 results were drawn in the Webots simulation environment by the irb4600 robotic arm. We studied our suggested methods in this project, and the pros and cons of each method have been examined. There are several methods used
 in previous works; The most basic method is probably printers which draw line by line. There are also robots which
 can draw a tree or a plant, But cannot necessarily draw a given reference photo. The advantage of our algorithm is that
-it allows us to draw any desired shape by the robot without prior training and the need for large data i.e. the trarjectory with respect to time (video data). This generalized
+it allows us to draw any desired shape by the robot without prior training and the need for large data i.e. the trajectory with respect to time (video data). This generalized
 work will also be a step towards the direction of designing designer robots.
 
 read more about the project: [report[FA].pdf]()
