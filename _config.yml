@@ -239,7 +239,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  _projects
+  # _projects
   - scope:
       path: ""
       type: projects
