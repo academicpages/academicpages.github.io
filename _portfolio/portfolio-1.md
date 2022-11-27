@@ -1,6 +1,8 @@
 ---
 title: "Bachelor Thesis Project"
-excerpt: "<br/><img src='/images/bachelor.png'>"
+excerpt: "Supervisor: Professor Armin Salimi-Badr <br/>
+Referee: Professor Yaser Shekofteh <br/>
+Summer 2022<br/><img src='/images/bachelor.png'>"
 collection: portfolio
 ---
 
