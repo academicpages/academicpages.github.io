@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Projects"
-    url: /projects/
+  - title: "Portfolio"
+    url: /portfolio/
 
 #   - title: "Talks"
 #     url: /talks/    
@@ -13,12 +13,12 @@ main:
     url: /teaching/    
         
   
-  - title: "Experience"
-    url: /experience/ 
+  # - title: "Experience"
+  #   url: /experience/ 
     
   
-  - title: "Education"
-    url: /education/ 
+  # - title: "Education"
+  #   url: /education/ 
     
 #   - title: "Blog Posts"
 #     url: /year-archive/
