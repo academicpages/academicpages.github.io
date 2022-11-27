@@ -16,5 +16,4 @@ Rahul received his M.Sc. by Research in Innovation and M.Sc. in Business Analyti
 
 Rahul's research interests lie at the intersection of Optimization and Machine Learning, Nonlinear Optimization, and Sequential Decision Analytics.
 
-Rahul is an avid soccer (European football) follower and an ardent fan of Manchester United and the Argentina National Team. In addition, he is an urban photographer, mostly interested in urban architecture and street photography. In his spare time, Rahul enjoys cooking and playing video games.
-
+Rahul is an avid soccer (European football) follower and an ardent fan of Manchester United and the Argentina National Team. In addition, he is an urban photographer, mostly interested in urban architecture and street photography.
