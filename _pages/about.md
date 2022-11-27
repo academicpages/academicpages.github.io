@@ -14,7 +14,7 @@ I have a keen interest in Robotics, Reinforcement Learning, Machine Learning, De
 I have worked with mechanical arms, mobile robots, experienced various problems and enjoyed solving them in my internship and my bachelor thesis. Since physical systems are too expensive to work with, I developed all of my robotic projects with the focus on using the powerful Webots robot simulator, I used this simulator in all my robotics related projects.
 while learning, I'm sharing my knowledge with awesome freshman students at Shahid Beheshti university, hope they achieve only success and fortune in their lives.
 
-## Origins of my enthusiasm for robotics
+## Origins of my passion for robotics
 In Highschool I really enjoyed learning astrophysics, quantom physics, classical mechanics and mathematics, and I really considered these fields as my choices for the major selection toward university entrance, Although the fascination that I can create my own virtual world and control it however I want, really made me choose computer engineering major. it felt really godlike with infinite possibilities to be creative. and I got into robotics because of my passion for physics and mathematics and computer science so this field can promise me a future with shared problems in all three of them combined. Robots are the nearest system that bridges the physical world and the virtual computational world which makes me appreciate even the simplest tasks that mankind does day to day and inspire me to develope robots that are either close to the human behavior or robots that can aid different problems of human activities.
 
 ## My aspiration in life and my ultimate goal
