@@ -3,7 +3,7 @@ title: "Instructor, Introduction to Robotics Workshop"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "Shahid Beheshti University, Computer Science and Engineering Department, Robotics Laboratory"
 date: 2022-09-01    
 location: "City, Country"
 ---
