@@ -8,4 +8,4 @@ date: 2022-09-01
 location: "Tehran, Iran"
 ---
 
-In this course, I was responsible for teaching, pilotting, designing problems, etc.
+In this course, I was responsible for teaching, pilotting, designing problems, and etc.

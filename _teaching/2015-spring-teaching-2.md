@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Instructor, Introduction to Robotics Workshop"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
@@ -8,13 +8,8 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This was a workshop, which included mini-projects related to Webots simulator, Image Processing, Python programming, artificial intelligence, and RoboCup soccer simulator 2D. the students enrolled were mostly freshman but there were some enthusiasts from sophmores and juniors.
 
-Heading 1
-======
+Later the students who showed eagerness were recommended to the departments laboratory and applied as prospective members under professor Armin Salimi-Badr's supervision.
 
-Heading 2
-======
-
-Heading 3
-======
+some of the course materials were included in the [lab's github page](https://github.com/cserobotic/workshop-summer-2022).
