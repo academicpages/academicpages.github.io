@@ -25,6 +25,11 @@ On my spare time, I love adventuring in the mountains, breathing fresh air and e
 3. On a professional and personal levels, I cannot stop initiating and following long-term goals.
 
 
+## News
+
+2022 November. PV fault detection workshop at **DATASUN 2022**: <a href="https://github.com/AlexandreHugoMathieu/pvfault_detection">link</a>
+2022 September. One  poster accepted **Eurosun 2022**: <a href="https://www.researchgate.net/publication/365776464_FAILURE_RISK_ANALYSIS_OF_PHOTOVOLTAIC_SYSTEMS_BASED_ON_LITERATURE_REVIEW">Failure Risk Analysis of Photovoltaic Systems Based On Literature Review</a>
+
 ## Contact
 
 I am always happy to discuss new projects and collaborations.
