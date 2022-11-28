@@ -65,6 +65,7 @@ facebook:
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
+
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
@@ -74,9 +75,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "G-3LMY19BK60"
+    measurement_id       : "G-KZLJVPK8T4"
 
 
 # Site Author
