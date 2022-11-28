@@ -8,13 +8,16 @@ author_profile: true
 
 *Note: Please reach out to me over e-mail for PDFs not attchaed here/broken links*
 
+## 2023
+* Deep Gaussian Processes for Air Quality Inference. Aadesh Desai, Eshan Gujarathi, Saagar Parikh, Sachin Yadav, **Zeel Patel**, Nipun Batra. In CODS-COMAD 2023 Young Researchers Symposium track.
+
 ## 2022
 
-* Uncertainty Disentanglement with Non-stationary Heteroscedastic Gaussian Processes for Active Learning. **Zeel B Patel**, Nipun Batra, Kevin Murphy. In NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems 2022
+* Uncertainty Disentanglement with Non-stationary Heteroscedastic Gaussian Processes for Active Learning. **Zeel B Patel**, Nipun Batra, Kevin Murphy. In NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems 2022 [[arXiv](https://arxiv.org/abs/2210.10964)]
 
-* Challenges in Gaussian Processes for Non Intrusive Load Monitoring. Aadesh Desai, Gautam Vashishtha, **Zeel B Patel**, Nipun Batra. In NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems 2022
+* Challenges in Gaussian Processes for Non Intrusive Load Monitoring. Aadesh Desai, Gautam Vashishtha, **Zeel B Patel**, Nipun Batra. In NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems 2022 [[arXiv](https://arxiv.org/abs/2211.13018)]
 
-* Samachar: Print News Media on Air Pollution in India. Karm Patel, Rishiraj Adhikary, **Zeel B Patel**, Nipun Batra, and Sarath Guttikunda. In ACM SIGCAS Computing and Sustainable Societies (COMPASS ’22)
+* Samachar: Print News Media on Air Pollution in India. Karm Patel, Rishiraj Adhikary, **Zeel B Patel**, Nipun Batra, and Sarath Guttikunda. In ACM SIGCAS Computing and Sustainable Societies (COMPASS ’22) [[Publisher Link](https://dl.acm.org/doi/abs/10.1145/3530190.3534812)]
 
 * Accurate and Scalable Gaussian Processes for Fine-grained Air Quality Inference. **Zeel B Patel**, Palak Purohit, Harsh Patel, Shivam Sahni, and Nipun Batra. AAAI 2022, Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22) (CORE A* with 15% acceptance rate) [[PDF](https://nipunbatra.github.io/papers/2022/aaai_22_air.pdf)] [[GitHub](https://github.com/patel-zeel/AAAI22)]
 
