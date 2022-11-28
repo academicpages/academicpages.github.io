@@ -19,7 +19,7 @@ The rest of this site is currently under construction. Soon to be included are a
 For the meantime, here's my [CV](files/CV - Steven Ngo v2-1.pdf).
 
 Papers:
-[Research work from USC ISI, summer 2022](files/REUNS_2022_Paper_Ready__CHIMPS-1.pdf).
+[Research work from USC ISI, summer 2022](files/REUNS_2022_Paper_Ready__CHIMPS_-1.pdf).
 [Research work from CPSLO, summer 2020](files/Software_Security_Analysis_on_Internet_of_Things_Applications.pdf).
 
 
