@@ -10,13 +10,17 @@ redirect_from:
 
 Introduction
 ------
-Hi there! I'm Steven Ngo, software engineering undergrad senior with a minor in psychology at Cal Poly San Luis Obispo. As of fall quarter '22, I am a teaching assistant for CSC321 (Intro to Computer Security) and a research assistant for Dr. Ayaan Kazerouni. With Dr. Kazerouni, we are working on a method of providing targeted mutation testing recommendations of which mutators should be focused on when test case suites have met particular coverage metrics. I am also continuing my research with Dr. Dave DeAngelis and Dr. Luis Garcia at USC Info Sciences Institute, where we are working on modeling human operators' decision-making in safety-critical industrial control systems.
+Hi there! I'm Steven Ngo, software engineering undergrad senior with a minor in psychology at Cal Poly San Luis Obispo (CPSLO). As of fall quarter '22, I am a teaching assistant for CSC321 (Intro to Computer Security) and a research assistant for Dr. Ayaan Kazerouni. With Dr. Kazerouni, we are working on a method of providing targeted mutation testing recommendations of which mutators should be focused on when test case suites have met particular coverage metrics. I am also continuing my research with Dr. Dave DeAngelis and Dr. Luis Garcia at USC Info Sciences Institute (USC ISI), where we are working on modeling human operators' decision-making in safety-critical industrial control systems.
 
 I'm currently applying to computer science Ph.D's and other similar programs with the intent of studying research problems at the intersection of software engineering and software security. I am open to all research experiences, particularly in areas of software engineering and software security, as I explore which topics best align with my personal motivations and background before I choose to specialize. I am also interested in computer security education and security capture-the-flag events!
 
 The rest of this site is currently under construction. Soon to be included are a more-detailed CV and project explanations, work and writing samples, and a page for CTFs and write-ups.
 
 For the meantime, here's my [CV](files/CV - Steven Ngo v2-1.pdf).
+
+Papers:
+[Research work from USC ISI, summer 2022](files/REUNS_2022_Paper_Ready__CHIMPS-1.pdf).
+[Research work from CPSLO, summer 2020](files/Software_Security_Analysis_on_Internet_of_Things_Applications.pdf).
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
