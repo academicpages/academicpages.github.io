@@ -14,6 +14,6 @@ the source codes for this competition are available [here](https://github.com/ph
 
 ### The Best Bachelor Thesis Project (Nominee)
 The committee for reviewing the best bachelor thesis projects, requested all students above 18/20 score to submit their presentations to [aparat.com](https://aparat.com).
-The presentation is accessible in this [link](https://www.aparat.com/v/iJ2We) (presentation's language is in Farsi).
+The presentation is accessible in this ![link](https://www.aparat.com/v/iJ2We) (presentation's language is in Farsi).
 
 You can learn more about the project [here](/_portfolio/portfolio-1.md)
