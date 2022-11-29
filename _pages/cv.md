@@ -19,6 +19,26 @@ James Bowie High School, Austin, TX (2009)
 
 ***
 
+# Professional Experience
+
+**Biobot Analytics** (2019-present)  
+_Founding Staff Data Scientist (Nov 2022 - present)  
+Founding Technical Lead, Data Science (Dec 2021 - Nov 2022)  
+Senior Data Scientist (Mar 2021 - Dec 2021)  
+Data scientist (Jul 2019 - Mar 2021)_  
+
+As an early employee of Biobot Analytics, I've worn many hats and done many things:
+
+- **Data science**: Analyze SARS-CoV-2 and opioid data from thousands of wastewater samples to gain public health insight (pandas, geopandas, scikit learn, scipy). Build data visualizations to communicate data concisely (matplotlib, seaborn, geopandas, altair). Work with other data scientists to build and launch data science features that make wastewater data more interpretable and actionable.
+- **Technical leadership**: Define data science priorities and lead a team of internal data scientists, consultants, and academic collaborators to build statistical models to interpret SARS-CoV-2 and opioid metabolite concentrations in sewage. Work with company leadership to develop Biobot's data science strategy and roadmap.
+- **Science communication & customer success**: Communicate Biobot's science through customer webinars, blog posts, and academic publications. Support customer success team to answer customers' technical questions.
+- **People management & team building**: manage teams of 1-2 junior data engineers, 3-4 senior data scientists, and 2-3 junior data analysts. Establish consistent and successful hiring processes, and build the data science organization from 1 person to over 15 across three subteams. Establish & foster a positive and collaborative working culture.
+- **Data engineering**: Design and build data processing pipelines (Python, snakemake, bash, Jenkins) to convert lab results into customer pdf reports. Collaborate with senior software engineers to migrate legacy pipelines to cloud-hosted infrastructure (AWS, lambda).
+- **Technical architecture and design**: Design, build, and manage Biobot's database and processes (Airtable, zapier) supporting all company needs related to ordering, customer metadata, laboratory, and data management. Work with software engineering, product, and project management teams to migrate legacy systems to scalable and cloud-based technologies (AWS, postgres, APIs).  Write technical specifications and requirements documents for a variety of data science and software projects.
+- **Project and program management**: Coordinate high-visibility, high-impact projects that touch many departments within Biobot. Lead internal technical workstreams and serve as an external technical point person for large federal contracts.
+
+***
+
 # Research experience
 
 **Alm lab**, Massachusetts Institute of Technology (2014-2019)   
@@ -52,6 +72,14 @@ See [publications](/publications/) page.
 # Presentations
 
 ## Oral presentations
+
+Oct. 2022 - [MIT Microbiome Club](https://microbiome.mit.edu/for-students/microbiome-club/) Industry Seminar.
+
+Mar. 2022 - "Supporting a nationwide Covid-19 wastewater monitoring program." WEF Public Health and Water Conference, Wastewater Disease Surveillance Summit.
+
+June 2021 - [Boston Society of Civil Engineers](https://www.bsces.org/about/special-funds/john-r-freeman-fund-167) 2021 Freeman Lecture.
+
+May 2021 - "Wastewater analysis to understand community consumption of opioids." [EAPCCT](https://www.eapcct.org/) 2021: Toxicology 2.0.
 
 Aug. 2019 - "24-hour multi-omics analysis of residential sewage reflects human activity and informs public health." American Chemical Society National Meeting. Wastewater-Based Epidemiology: Opportunities, Challenges & Applications to Public Health & Safety.
 
