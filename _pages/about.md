@@ -19,7 +19,7 @@ If you're interested in talking about my work, or yours, get in touch!
 
 - [Measuring Relative Poverty through Peer Rankings: Evidence from Côte d’Ivoire](https://www.dropbox.com/s/06pnrsgweknlfcn/PeerRanking_CI.pdf?dl=0) (with Pascaline Dupas, Marcel Fafchamps)
 
-- Adoption and Impacts of Digital Payment Technologies: Evidence from Informal Transit
+- [Technology Adoption, Informal Contracts and Development: Evidence from digitizing payments in the Senegalese taxi industry](https://pedl.cepr.org/content/adoption-and-impacts-digital-payment-technologies-evidence-informal-transit-0)
 
 - Transaction Costs, Liquidity Constraints, and Barriers to Electricity Access: Evidence from Prepaid Solar Metering Subsidy in Togo (with Paul Brimble, Axel Eizmendi Larrinaga, and Toni Oki)
 
