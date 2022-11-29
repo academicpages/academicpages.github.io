@@ -15,6 +15,7 @@ Peer reviewed journal articles
 
 Tisch, Daria, Tamara Gutfleisch (2022): Unequal but just? Experimental evidence on (gendered) distributive justice principles in parental financial gifts. Socio-Economic Review, online first, [doi.org/10.1093/ser/mwac041](https://doi.org/10.1093/ser/mwac041)
 
+
 Kapelle, Nicole, Nutz, Theresa, Tisch, Daria, Schechtl, Manuel, Lersch, Philipp M. & Struffolino, Emanuela (2022): My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. European Journal of Population, online first,  [doi.org/10.1007/s10680-022-09630-7](https://doi.org/10.1007/s10680-022-09630-7) 
 
 
@@ -53,13 +54,13 @@ Work in progress
 [Urbina, Daniela R.](https://www.danielaurbina.com/), Daria Tisch: Division of Housework and Perceptions of Fairness: What Justifies Unequal Housework Arrangements?
 
 
-[Schechtl, Manuel](https://schechtl.github.io/), Daria Tisch: My Wealth, Our Taxes? Cross-National Experimental Evidence on Wealth Tax Preferences
+[Schechtl, Manuel](https://schechtl.github.io/), Daria Tisch: Tax Principles, Policy Feedback, and Self-Interest: Cross-National Experimental Evidence on Wealth Tax Preferences
 
 
-Tisch, Daria, [Emma Ischinsky](https://www.mpifg.de/person/114263/2721): The role of the family in Germany’s Largest Fortunes 2019
+Tisch, Daria, [Emma Ischinsky](https://www.mpifg.de/person/114263/2721): Top wealth and its origins. An analysis of Germany’s Largest Fortunes 2019
 
 
-Tisch, Daria: [Preservation of large fortunes over multiple generations](https://dariatisch.github.io/presentation_potsdam): How do elite family networks relate to wealth preservation in Germany?
+Tisch, Daria: Preservation of large fortunes over multiple generations in Germany <!--  (https://dariatisch.github.io/presentation_potsdam) -->: How do elite family networks relate to wealth preservation in Germany?
 
 
 Tisch, Daria, [Manuel Schechtl](https://schechtl.github.io/): Gender differences in parental wealth transfers and how the German tax system contributes to the gender wealth gap  <!--  [Gender differences in parental wealth transfers](https://dariatisch.github.io/presentation_gender_transfer_gap)  -->
