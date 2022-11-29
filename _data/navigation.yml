@@ -6,9 +6,6 @@ main:
   # - title: "Research"
   #   url: /research/
 
-  - title: "Publications"
-    url: /publications/
-
 #  - title: "Talks"
 #    url: /talks/
 
@@ -24,8 +21,11 @@ main:
 #  - title: "Guide"
 #    url: /markdown/
 
-  # - title: "Career"
-  #   url: /career/
+  - title: "Career"
+    url: /career/
+
+  - title: "Publications"
+    url: /publications/
 
 #  - title: "Road trip"
 #    url: /travel/
