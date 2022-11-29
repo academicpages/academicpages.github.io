@@ -107,8 +107,6 @@ Mar. 2018 - "Meta-analysis of gut microbiome studies identifies disease-specific
 
 Jan. 2018 - "Meta-analysis of gut microbiome studies identifies disease-specific and shared responses." [Pacific Symposium on Biocomputing](https://psb.stanford.edu/). [pdf](/files/2017-10-10.be_retreat_poster.pdf)
 
-Feb. 2016 - "Empirical signatures of compositional stability in the gut microbiome." Statistical and Algorithmic Challenges in Microbiome Data Analysis Workshop, MIT Center for Informatics and Therapeutics and The Simons Center for Data Analysis. [pdf](/files/2016-02-25.predictingOTUs.scda_workshop_poster.pdf)
-
 ***
 
 # Leadership and service

@@ -4,38 +4,44 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-
-
 ## Academic publications
+
+Check out my [Google Scholar profile](https://scholar.google.com/citations?user=sXD-7J4AAAAJ) for a full list of my publications.
+
+A highlighted subset are listed below - these are papers I played a large role in or am otherwise proud to have as part of my portfolio.
+
+**Claire Duvallet**, Fuqing Wu, Kyle A. McElroy, Maxim Imakaev ... Eric J. Alm, and Mariana Matus.    
+"Nationwide Trends in COVID-19 Cases and SARS-CoV-2 RNA Wastewater Concentrations in the United States."     
+_ACS ES&T Water_ (2022). doi: [10.1021/acsestwater.1c00434](https://doi.org/10.1021/acsestwater.1c00434)
+
+Amy Xiao ... **Claire Duvallet** ... Janelle Thompson, and Eric J Alm.   
+"Metrics to relate COVID-19 wastewater data to clinical testing dynamics."   
+_Water research_ (2022). doi: [10.1016/j.watres.2022.118070](https://doi.org/10.1016/j.watres.2022.118070)
+
+Scott W Olesen, Maxim Imakaev, and **Claire Duvallet**.    
+"Making waves: Defining the lead time of wastewater-based epidemiology for COVID-19."    
+_Water Research_ (2021). doi: [10.1016/j.watres.2021.117433](https://doi.org/10.1016/j.watres.2021.117433)
+
+Wei Lin Lee ... **Claire Duvallet** ... Mariana Matus, Janelle Thompson, and Eric J Alm.    
+"Quantitative SARS-CoV-2 alpha variant B. 1.1. 7 tracking in wastewater by allele-specific RT-qPCR."         
+_Environmental Science & Technology Letters_ (2021). doi: [10.1021/acs.estlett.1c00375](https://doi.org/10.1021/acs.estlett.1c00375)
+
+Jill S McClary-Gutierrez ... **Claire Duvallet** ... Alexandria B Boehm, Rolf U Halden, Kyle Bibby, Jeseth Delgado Vela.    
+"Standardizing data reporting in the research community to enhance the utility of open data for SARS-CoV-2 wastewater surveillance."    
+_Environmental Science: Water Research & Technology_ (2021). doi: [10.1039/D1EW00235J](https://doi.org/10.1039/D1EW00235J)
 
 **Claire Duvallet**, Bryan D Hayes, Timothy B Erickson, Peter R Chai, Mariana Matus.   
 "Mapping community opioid exposure through wastewater-based epidemiology as a
 means to engage pharmacies in harm reduction efforts."   
 _Preventing Chronic Disease_ (2020). doi: [10.5888/pcd17.200053](http://dx.doi.org/10.5888/pcd17.200053)   
 
-Fuqing Wu, Amy Xiao, Jianbo Zhang, ... **Claire Duvallet** ... Eric J Alm.    
-"SARS-CoV-2 titers in wastewater foreshadow dynamics and clinical presentation of new COVID-19 cases."    
-_medRxiv_ (2020). doi: [10.1101/2020.06.15.20117747v2](https://www.medrxiv.org/content/10.1101/2020.06.15.20117747v2)
-
-Fuqing Wu, Amy Xiao, Jianbo Zhang, Xiaoqiong Gu, Wei Lin Lee, Kathryn Kauffman, William Hanage, Mariana Matus, Newsha Ghaeli, Noriko Endo, **Claire Duvallet**, Katya Moniz, Timothy Erickson, Peter Chai, Janelle Thompson, Eric Alm.    
+Fuqing Wu, Amy Xiao, Jianbo Zhang, ... **Claire Duvallet** ... Janelle Thompson, and Eric Alm.    
 "SARS-CoV-2 titers in wastewater are higher than expected from clinically confirmed cases."   
 _mSystems_ (2020). doi: [10.1128/mSystems.00614-20](https://msystems.asm.org/content/5/4/e00614-20)
 
 **Claire Duvallet**.     
 "Data detectives, self-love, and humility: a research parasite's perspective."    
 _GigaScience_ (2020). doi: [10.1093/gigascience/giz148](https://doi.org/10.1093/gigascience/giz148).   
-
-Noriko Endo, Newsha Ghaeli, **Claire Duvallet**, Katelyn Foppe, Timothy B Erickson, Mariana Matus, Peter R Chai.   
-"Rapid Assessment of Opioid Exposure and Treatment in Cities Through Robotic Collection and Chemical Analysis of Wastewater."     
-_Journal of Medical Toxicology_ (2020) doi: [10.1007/s13181-019-00756-5](https://doi.org/10.1007/s13181-019-00756-5).   
-
-Ethan D Evans, **Claire Duvallet**, Nathaniel D Chu, Michael K Oberst, Michael A Murphy, Isaac Rockafellow, David Sontag, Eric J Alm.   
-"Predicting human health from biofluid-based metabolomics using machine learning."   
-_medRxiv_ (2020) doi: [10.1101/2020.01.29.20019471](https://doi.org/10.1101/2020.01.29.20019471).
 
 Mariana Matus, **Claire Duvallet**, Newsha Ghaeli, Melissa Kido Soule, Krista Longnecker, Ilana Brito, Carlo Ratti, Elizabeth B. Kujawinski, Eric Alm.   
 "Untargeted detection of human health and activity markers in residential wastewater through microbiome sequencing and metabolomics."    
@@ -46,10 +52,6 @@ _bioRxiv_ (2019) doi: [10.1101/728022](https://doi.org/10.1101/728022).
 _PLoS ONE_ (2019) doi: [10.1371/journal.pone.0222881](https://doi.org/10.1371/journal.pone.0222881).     
 Associated github: [cduvallet/donor-selection](https://github.com/cduvallet/donor-selection/)
 
-Evan Bolyen, Jai Ram Rideout, Matthew R. Dillon, Nicholas A. Bokulich ... **Claire Duvallet** ... Rob Knight, Greg Caporaso.     
-"Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2."      
-_Nature Biotechnology_ (2019). doi: [10.1038/s41587-019-0209-9](https://doi.org/10.1038/s41587-019-0209-9).
-
 Chengzhen Dai, **Claire Duvallet**, An Ni Zhang, Mariana Matus, Newsha Ghaeli, Shinkyu Park, Noriko Endo, Siavash Isazadeh, Kazi Jamil, Carlo Ratti, and Eric Alm.    
 "Multi-site sampling and risk prioritization reveals the public health relevance of antibiotic resistance genes found in sewage environments."      
 _bioRxiv_ (2019). doi: [10.1101/562496](https://doi.org/10.1101/562496).
@@ -59,20 +61,17 @@ _bioRxiv_ (2019). doi: [10.1101/562496](https://doi.org/10.1101/562496).
 _PLOS ONE_ (2019). doi: [10.1371/journal.pone.0216453](https://doi.org/10.1371/journal.pone.0216453).    
 Associated github: [cduvallet/aspiration-analysis-public](https://github.com/cduvallet/aspiration-analysis-public)
 
-Keegan Korthauer\*, Patrick K Kimes\*, **Claire Duvallet**^, Alejandro Reyes^, Ayshwarya Subramanian^, Mingxiang Teng, Chinmay Shukla, Eric J Alm, and Stephanie C Hicks.     
+Keegan Korthauer, Patrick K Kimes, **Claire Duvallet**, Alejandro Reyes, Ayshwarya Subramanian, Mingxiang Teng, Chinmay Shukla, Eric J Alm, and Stephanie C Hicks.     
 "A practical guide to methods controlling false discoveries in computational biology."     
 _Genome Biology_ (2019). doi: [10.1186/s13059-019-1716-1](https://doi.org/10.1186/s13059-019-1716-1).    
 Associated github: [pkimes/benchmark-fdr](https://github.com/pkimes/benchmark-fdr)
-
-Thomas Gurry, HST Microbiome Consortium, Sean M Gibbons, Sean M Kearney, Ashwin Ananthakrishnan, Xiaofang Jiang, **Claire Duvallet**, Zain Kassam, and Eric J Alm.      
-"Predictability and persistence of prebiotic dietary supplementation in a healthy human cohort."       
-_Scientific Reports_ (2018) 8(1): 12699. doi: [10.1038/s41598-018-30783-1](https://doi.org/10.1038/s41598-018-30783-1)
 
 Sean M. Gibbons, **Claire Duvallet**, and Eric J. Alm.      
 "Correcting for batch effects in case-control microbiome studies."       
 _PLoS Computational Biology_ (2018) 14(4): e1006102. doi: [10.1371/journal.pone.0176335](https://doi.org/10.1371/journal.pcbi.1006102)
 
-**Claire Duvallet**. "Meta-analysis generates and prioritizes hypotheses for translational microbiome research."        
+**Claire Duvallet**.  
+"Meta-analysis generates and prioritizes hypotheses for translational microbiome research."        
 _Microbial Biotechnology_ (2018). doi: [10.1111/1751-7915.13047](https://doi.org/10.1111/1751-7915.13047)
 
 **Claire Duvallet**, Sean M. Gibbons, Thomas Gurry, Rafael A. Irizarry, and Eric J. Alm.       
