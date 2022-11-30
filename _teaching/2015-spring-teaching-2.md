@@ -10,6 +10,6 @@ location: "City, Country"
 
 This was a workshop, which included mini-projects related to Webots simulator, Image Processing, Python programming, artificial intelligence, and RoboCup soccer simulator 2D. the students enrolled were mostly freshman but there were some enthusiasts from sophmores and juniors.
 
-Later the students who showed eagerness were recommended to the departments laboratory and applied as prospective members under professor Armin Salimi-Badr's supervision.
+Later the students who showed eagerness were recommended to the department laboratory and applied as prospective members under professor Armin Salimi-Badr's supervision.
 
-some of the course materials were included in the [lab's github page](https://github.com/cserobotic/workshop-summer-2022).
+Some of the course materials were included in the [lab's github page](https://github.com/cserobotic/workshop-summer-2022).
