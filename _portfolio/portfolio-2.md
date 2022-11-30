@@ -1,6 +1,6 @@
 ---
 title: "Internship Project"
-excerpt: "organization: Shahid Beheshti University, Department of Computer Science and Engineering, Robotics Laboratory<br/>summer 2021<br/>SBU omni-directional control<br/>"
+excerpt: "Organization: Shahid Beheshti University, Department of Computer Science and Engineering, Robotics Laboratory<br/>Supervisor: Professor Armin Salimi-Badr<br/>summer 2021<br/>SBU omni-directional control<br/>"
 collection: portfolio
 ---
 
