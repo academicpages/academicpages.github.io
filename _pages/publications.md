@@ -4,6 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
+<b>[Offline Imitation Learning with Suboptimal Demonstrations via Relaxed Distribution Matching](http://lantaoyu.com/publications/RelaxDICE)</b> <br> 
+<b>Lantao Yu</b><b>\*</b>, Tianhe Yu<b>\*</b> (equal contribution), Jiaming Song, Willie Neiswanger, Stefano Ermon.
+<i>The 37th AAAI conference on Artificial Intelligence</i>. <b>AAAI 2023</b>.
+
 <b>[Generalizing Bayesian Optimization with Decision-theoretic Entropies](http://lantaoyu.com/publications/EHIG)</b> <br> 
 Willie Neiswanger<b>\*</b>, <b>Lantao Yu</b><b>\*</b> (equal contribution), Shengjia Zhao, Chenlin Meng, Stefano Ermon.
 <i>The 36th Conference on Neural Information Processing Systems</i>. <b>NeurIPS 2022</b>.
