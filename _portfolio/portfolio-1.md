@@ -24,7 +24,7 @@ can draw a tree or a plant, But cannot necessarily draw a given reference photo.
 it allows us to draw any desired shape by the robot without prior training and the need for large data i.e. the trajectory with respect to time (video data). This generalized
 work will also be a step towards the direction of designing designer robots.
 
-read more about the project: [report[FA].pdf](https://raw.githubusercontent.com/ph504/ph504.github.io/master/files/1401-09-06.pdf)
+read more about the project: (in Persian)[report[FA].pdf](https://raw.githubusercontent.com/ph504/ph504.github.io/master/files/1401-09-06.pdf)
 
 [source code](https://github.com/ph504/usb_omni_bot)
 
