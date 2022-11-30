@@ -11,16 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2021 - 2024 The University of Manchester 
+  BSc Psychology (Hons)
+  * Grade:75% (rank 8/434 of the cohort)
+  * Relevant modules: Researdh Methods and Statistics (89), Introduction to Cognition (82), Brain and Behavior (79), Sensation and Perception (77)
 
-Work experience
+
+Research experience
 ======
-* Summer 2015: Research Assistant
+* 2022 10 - Present: Interpersonal Emotion Regulation in Cross-Culture Clinical Groups
+  Supervisors: Dr. Belén López-Pérez, University of Manchester
+  * 
+
+* 2022 07 - Present: Prevention of Morbidity in Sickle Cell Disease: phase II (POMS 2b) Group
+  Supervisors: Dr. Anna Hood, University of Manchester; Prof. Fenella Kirkham, UCL Great Ormond Street Institute of Child Health
   * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  *
 
 * Fall 2015: Research Assistant
   * Github University
