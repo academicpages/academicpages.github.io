@@ -15,6 +15,5 @@ The challenge in this project was that sonar sensors cone have a blind area and 
 
 Although these were all good solutions and totally feasible in an efficient way, the approach at the end was not reorganize any of the existing sensors at all and instead using the motion control to rotate the whole body of the robot in order to make the detection of the corners possible. The downsides of this solution was energy inefficiency and performance decrease, not to mention, the motors decay will increase due to the fact that there are so many sudden change in the direction and motors torque. Of course we considered smoothing out the sharpness with low level control and we did, but at the end, it didn't make much of a difference. So we advised the mechanical engineers to reconsider their sensor configurations and consider this analysis and the available options. The benefits of this approach is definitely reducing the cost required for adding more hardware with the trade-off of having energy wasted and eventually broken motors in a matter time.
 
-read more about the project: (in Persian) [report[FA].pdf](https://raw.githubusercontent.com/ph504/ph504.github.io/master/files/internship-1400-08-03.pdf)
-
-[source code](https://github.com/ph504/ABB_handwriter)
+read more about the project: (in Persian) [[report[FA].pdf]](https://raw.githubusercontent.com/ph504/ph504.github.io/master/files/internship-1400-08-03.pdf)
+| [[source code]](https://github.com/ph504/ABB_handwriter)
