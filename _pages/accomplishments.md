@@ -12,6 +12,6 @@ In this competition we used the webots simulator to develope the e-puck robot fo
 
 ## The Best Bachelor Thesis Project (Nominee)
 The committee for reviewing the best bachelor thesis projects, requested all students above 18/20 score to submit their presentations to [aparat.com](https://aparat.com).
-The presentation is accessible in this ![link](https://www.aparat.com/v/iJ2We) (presentation language is in Persian).
+The presentation is accessible in this [link](https://www.aparat.com/v/iJ2We) (presentation language is in Persian).
 
 You can learn more about the project [here](/_portfolio/portfolio-1.md)
