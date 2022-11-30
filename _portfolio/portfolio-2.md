@@ -1,6 +1,6 @@
 ---
-title: "Internship project"
-excerpt: "organization:Shahid Beheshti University, Department of Computer Science and Engineering, Robotics Laboratory<br/>summer 2021<br/>SBU omni-directional control<br/>"
+title: "Internship Project"
+excerpt: "organization: Shahid Beheshti University, Department of Computer Science and Engineering, Robotics Laboratory<br/>summer 2021<br/>SBU omni-directional control<br/>"
 collection: portfolio
 ---
 
