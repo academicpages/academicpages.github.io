@@ -29,9 +29,7 @@ Research experience
   *
 
 * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * 
   
 Skills
 ======
