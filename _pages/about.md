@@ -21,8 +21,8 @@ News
 ======
 * Nov. 2022: Our new preprint about *multi-domain retrieval* is out.  
 * Aug. 2022: A co-corresponding authored paper about *multi-domain ranking* was accepted at CIKM 2022.  
-* Apr. 2022: Three first-authored papers about *calibration for ranking* and *ad creative generation* were accepted at SIGIR 2022 and NAACL 2022.  
-* Jan. 2022: A co-first authored paper about *debiasing for ranking* was accepted at WWW 2022.  
+* Apr. 2022: Three first-authored papers about *calibrated ranking* and *ad creative generation* were accepted at SIGIR 2022 and NAACL 2022.  
+* Jan. 2022: A co-first authored paper about *debiased ranking* was accepted at WWW 2022.  
 * Aug. 2021: A first-authored paper about *multi-task ranking* was accepted at CIKM 2021.  
 * Jul. 2021: I started at Alimama Tech.
 
