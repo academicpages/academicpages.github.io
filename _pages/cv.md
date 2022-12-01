@@ -158,7 +158,7 @@ Piñeiro, V., **Rodríguez, I.** , Igartua, J.J. (2014) _La Comunicación del Pa
 # Invited Presentations
 ===========
 
-**Rodríguez, I.** (2022). Sesión paralela 1: Tecnología y sociedad. Forum 360 Observatorio Social de la Fundación La Caixa, Barcelona (Spain), 28 November 2022.
+**Rodríguez-de-Dios, I.** (2022). Sesión paralela 1: Tecnología y sociedad. Forum 360 Observatorio Social de la Fundación La Caixa, Barcelona (Spain), 28 November 2022.
 
 # RESEARCH VISITS
 ============
