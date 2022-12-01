@@ -1,0 +1,33 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js" style="height: 100%;position: relative;">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body style="height: 100%;position: relative;">
+	<div id="body_container" style="min-height: 100vh; display: block; position: relative; padding-bottom: 100px;">
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
+
+    {{ content }}
+
+    </script>
+
+    <div class="page__footer" style="position: absolute; bottom: 0; width: 100%;">
+      <footer>
+        {% comment %}{% include footer/custom.html %}{% endcomment %}
+        {% include footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+    </div>
+  </body>
+</html>

@@ -1,0 +1,71 @@
+---
+layout: single
+title: "Publications"
+permalink: /paper.html
+author_profile: true
+---
+
+{% include base_path %}
+
+
+<style>
+.pub div {
+	font-size: 1em !important;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+}
+.pub pre {
+	margin:0px;
+	border:0px;
+}
+.collapse {
+    display: none;
+}
+.collapse.in {
+    display: block;
+}
+.collapsing {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+  -webkit-transition-property: height, visibility;
+  transition-property: height, visibility;
+  -webkit-transition-duration: 0.35s;
+  transition-duration: 0.35s;
+  -webkit-transition-timing-function: ease;
+  transition-timing-function: ease;
+}
+pre, .pub .note {
+    display: block;
+	font-family: Monaco,Consolas,"Lucida Console",monospace;
+    padding: 9.5px;
+    margin: 0 0 10px;
+    font-size: 13px;
+    line-height: 1.42857143;
+    color: #333;
+    word-break: break-all;
+    word-wrap: break-word;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+</style>
+
+<div class="pub">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<h1>Publications</h1>
+{% assign last_year = 0 %}
+{% for entry in site.data.publications %}
+	{% if entry.year != last_year %}
+		{% if last_year != 0 %}</ul>{% endif %}
+		<h3>{{ entry.year }}</h3><ul>
+		{% assign last_year = entry.year %}
+	{% endif %}
+	{% include publications_item.html %}
+{% endfor %}
+</ul>
+
+</div>

@@ -1,0 +1,50 @@
+---
+layout: single
+title: "Team"
+permalink: /people.html
+author_profile: true
+---
+
+{% include base_path %}
+
+<h1>PhD Students</h1>
+
+<h2>Current</h2>
+
+
+{% for entry in site.data.people %}
+{% if entry.type == "PhD Candidate" %}
+<li>{{ entry.name }} ({{ entry.where }})</li>
+{% endif %}
+{% endfor %}
+
+
+<!--h2>Visiting</h2>
+{% for entry in site.data.people %}
+{% if entry.type == "Visiting PhD Students" %}
+<li>{{ entry.name }} ({{ entry.where }})</li>
+{% endif %}
+{% endfor %}
+-->
+
+<h3>I also work closely with</h3>
+{% for entry in site.data.people %}
+{% if entry.type == "Collaborating PhD Students" %}
+<li>{{ entry.name }} ({{ entry.where }})</li>
+{% endif %}
+{% endfor %}
+
+<h2>Former PhDs and Alumni</h2>
+{% for entry in site.data.people %}
+{% if entry.type == "Former PhD Students" %}
+<li>{{ entry.name }} ({{ entry.where }})</li>
+{% endif %}
+{% endfor %}
+
+<br>
+<br>
+
+<h1>MSc Students</h1>
+I supervise multiple master theses (at any time). <br>
+See <a href="/education.html#MSc_supervision"><b>here</b></a> for the list of completed master theses I have supervised. <br>
+My research has a strong hands-on style - a lot of the thesis projects are carried out together with societal or industrial partners. 

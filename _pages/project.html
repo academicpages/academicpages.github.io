@@ -1,0 +1,39 @@
+---
+title: "Research"
+permalink: /project.html
+author_profile: true
+---
+
+{% include base_path %}
+
+<h1>Research</h1>
+
+<!--h3><i>"Building trustworthy AI with people in the loop”</i></h3-->
+My research “Human-Centered AI” aims to develop human-centered computing methods and tools for building trustworthy AI. Tackling the trustworthiness issue of AI requires new methodologies to address both the epistemic and ethical challenges: what the machine needs to know and what purpose it should serve. My proposition is humans in the loop, that is, including humans as computational agents to be an essential component of the computational system. This includes involving humans as part of the AI system for explaining, diagnosing, and enhancing machine learning models, and as part of the hybrid human-AI
+decision making pipeline that calls on people at run-time to align machine behaviors with human values. 
+<br>
+<br>
+As contributions, my research develops principled approaches and practical tools for 
+<li>Human-enhanced data management: data <a href="/project.html/#OpenCrowd">creation</a>, <a href="/project.html/#Scalpel-CD">cleaning</a>, and <a href="/project.html/#Perspective">debiasing</a>;</li>
+<li>Human-centered machine learning: model <a href="/project.html/#SECA">explanation</a> and <a href="/project.html/#ARCH">debugging</a>;</li>
+<li>Value-sensitive assessment: systemic <a href="/project.html/#ValuableML">evaluation</a> and <a href="/project.html/#ContiLearn">improvement</a>.</li>
+<br>
+
+My research methodology is both empirical and theoretical, with primary activities characterized by the design, implementation, and analysis of human studies, computational algorithms, and human-in-the-loop systems. I particularly value the collaboration with scientists from other disciplines and experts from various application domains, together with whom my <a href="people">research team</a> develop usable tools to make real-world impacts. 
+
+<!--I am passionate about making AI more "knowledgeable" and consider human intelligence as an indispensable means to understanding the knowns and unknowns of intelligent machines, through human interpretation of machine behavior and human creation of domain knowledge. I also consider computational algorithms as a vital tool to assist humans in knowledge reasoning at scale, under uncertainty. My research methodology is therefore both empirical and theoretical, with primary activities characterized by the design, implementation, and analysis of human studies, computational algorithms, and human-in-the-loop systems.-->
+
+
+<br/>
+<br/>
+<h1>Projects</h1>
+{% for data_col in site.data.projects %}
+<h3><a id="{{ data_col.id }}">{{ data_col.name }}</a></h3>
+{{ data_col.description }}
+<!--h3>Publications</h3-->
+<br/>
+<br/>
+{% for entry in data_col.publication %}
+<li><a href="{{ entry.url }}">{{ entry.work }}</a></li>
+{% endfor %}
+{% endfor %}

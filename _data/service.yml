@@ -1,0 +1,54 @@
+- role: (Senior) Program Committee
+  data:
+  - name: "The Web Conference (WWW): 2023, 2022, 2021, 2018"
+  - name: "AAAI Conference on Human Computation and Crowdsourcing (HCOMP): 2022, 2019, 2018"
+  - name: "AAAI Conference on Artificial Intelligence (AAAI): 2023, 2022, 2021, 2020"
+  - name: "AAAI Conference on Web and Social Media (ICWSM): 2020, 2019, 2018"
+  - name: "International Joint Conference on Artificial Intelligence (IJCAI): 2020"
+  - name: "Annual Conference of the Association for Computational Linguistics (ACL): 2022, 2021, 2020"
+  - name: "Empirical Methods in Natural Language Processing (EMNLP): 2022, 2020"
+  - name: "North American Chapter of the Association for Computational Linguistics (NAACL): 2021"
+  - name: "International Conference on Computational Linguistics (COLING): 2022, 2020"
+  - name: "ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR): 2022, 2021, 2020"
+  - name: "ACM International Conference on Web Search and Data Mining (WSDM): 2023, 2022, 2021"
+  - name: "ACM Conference on Information and Knowledge Management (CIKM): 2021, 2020"
+  - name: "ACM SIGIR Conference on Human Information Interaction and Retrieval (CHIIR): 2021, 2020, 2019"
+  - name: "ACM Conference on User Modeling, Adaptation and Personalization (UMAP): 2022, 2021"
+  - name: "ACM International Conference on Intelligent User Interfaces (IUI): 2022, 2021, 2020, 2019, 2018"
+  - name: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD): 2022, 2021"
+  - name: "Automated Knowledge Base Construction (AKBC): 2020, 2019"
+  - name: "Extended Semantic Web Conference (ESWC): 2019"
+  - name: "ACM Conference on Web Science (WebSci): 2021, 2020"
+  - name: "ACM Conference on Hypertext and Social Media (HT): 2021, 2020, 2019"
+  - name: "ACM SIGAPP Symposium On Applied Computing (SAC): 2021, 2020, 2019, 2018"
+  - name: "International Conference on Social Informatics (SocInfo): 2020, 2019"
+  - name: "Crowd Science Workshop at Neurips: 2020"
+  - name: "International Workshop on Augmenting Intelligence with Humans-in-the-Loop (HumL): 2018"
+  - name: "Recommendation and Advertising in Online Social Networks (READNet): 2019"
+- role: Journal Editor
+  data:
+  - name: "Journal of Human Computation (JHC)"
+  - name: "Human-Centered AI: Crowd Computing at Frontiers in AI & BigData"
+- role: Journal Referee
+  data:
+  - name: "International Journal of Human-Computer Studies (IJHCS)"
+  - name: "IEEE Transactions on Knowledge and Data Engineering (TKDE)"
+  - name: "ACM Transactions on Information Systems (TOIS)"
+  - name: "ACM Transactions on the Web (TWeb)"
+  - name: "ACM Transactions on Interactive Intelligent Systems (TiiS)"
+  - name: "IEEE Transactions on Big Data (TBD)"
+  - name: "Information Systems (IS)"
+  - name: "Collective Intelligence (CI)"
+  - name: "Journal of Web Science (JWS)"
+  - name: "Journal of Web Engineering (JWE)"
+  - name: "Computer Networks (ComNet)"
+  - name: "Electronic Commerce Research and Applications (ECRA)"
+  - name: "Ethics and Information Technology"
+- role: Mentor at Doctorial Consortium
+  data:
+  - name: "AAAI Conference on Human Computation and Crowdsourcing (HCOMP): 2020"
+- role: Session Chair
+  data:
+  - name: "User Modeling, Interaction and Experience on the Web at WWW 2018"
+  - name: "Retrieval and Knowledge Graphs at CIKM 2020"
+  - name: "Crowdsourcing & Human Computation at CIKM 2021"

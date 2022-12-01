@@ -1,0 +1,107 @@
+- title: "Philosophy Grounded Explainable AI"
+  student: Shreyan Biswas
+  url: 
+  year: 2022
+  note: 
+
+- title: "Declarative Image Generation"
+  student: Anitej Palakodeti
+  url: 
+  year: 2022
+  note: 
+
+- title: "Debugging Machine Learning on Time-series Data"
+  student: Meng Zheng
+  url: 
+  year: 2022
+  note: 
+
+- title: "Maximizing the utility of Machine Learning models with rejection"
+  student: Philippe Lammerts
+  url: 
+  year: 2022
+  note: 
+
+- title: "Chatbot processing customer complaints for KWR"
+  student: Quentin Lee
+  url: 
+  year: 2022
+  note: In collaboration with <b>KWR, Water Research Institute</b>.
+
+- title: "Human-Centered NLP for Anomaly Detection in Financial Data"
+  student: Dina Chen
+  url: 
+  year: 2022
+  note: In collaboration with <b>ING</b>.
+
+- title: "Safeguarding Machine Vision in Cities: Know What Your Machine Shouldn’t Know"
+  student: Xinyue Chen
+  url: 
+  year: 2022
+  note: In collaboration with <b>AMS, Amsterdam Institute for Metropolitan Solutions</b>.
+
+- title: "Bridging the Gap Between Language Models and Knowledge Bases"
+  student: Siwei Wang
+  url: 
+  year: 2022
+  note: In collaboration with <b>KB, the National Library of The Netherlands</b>.
+
+- title: "Detecting Data Drift with and for High-Confidence Errors"
+  student: Wenhui Wang
+  url: 
+  year: 2022
+  note: In collaboration with <b>ILT, Ministry of Water and Infrastructure Management</b>.
+
+- title: "Benchmarking Causal Question Answering"
+  student: Zhen Wang
+  url: 
+  year: 2022
+  note: 
+
+- title: "A Human-In-the-Loop System for Interpreting Image Recognition Models"
+  student: Bart Ziengs
+  url: http://resolver.tudelft.nl/uuid:6ebbdf05-e37d-45b9-b0ad-1844c9d7f298
+  year: 2022
+  note: 
+
+- title: "Characterizing and Mitigating High-confidence Errors with Humans In the Loop"
+  student: Pavel Hoogland
+  url: http://resolver.tudelft.nl/uuid:8a15ebd2-5668-48f1-9cb5-d681b6b37fad
+  year: 2021
+  note: In collaboration with <b>ILT, Ministry of Water and Infrastructure Management</b>.
+
+- title: "An Agent-based Opinion Dynamics Model with a Language Model-based Belief System: Bridging Language and Opinion Modeling"
+  student: Django E.R. Beek
+  url: http://resolver.tudelft.nl/uuid:32c08ec9-d59e-4a86-8f95-9186a8a9d4d7
+  year: 2021
+  note: 
+
+- title: "One Step Ahead: A Weakly-­supervised Approach to Training Robust Machine Learning Models for Transaction Monitoring"
+  student: D.J. van der Werf
+  url: http://resolver.tudelft.nl/uuid:eaa90348-066b-46f1-910f-3ea781ed6083
+  year: 2021
+  note: In collaboration with <b>Bunq</b>.
+
+- title: "Characterizing AI Weaknesses in Detecting Personal Data from Images by Crowds"
+  student: Ashay Somai
+  url: http://resolver.tudelft.nl/uuid:f28d8d32-d7ab-4008-bb61-6ddb2158bf4c
+  year: 2021
+  note: 
+
+- title: "LightDigit: Embedded Deep Learning Empowered Fingertip Air-Writing with Ambient Light"
+  student: Hao Liu
+  url: https://repository.tudelft.nl/islandora/object/uuid%3Aafc5471f-c2a3-4ecf-b15e-6edf43a9d22b
+  year: 2021
+  note: 
+
+- title: "RACE:GP – a Generic Approach to Automatically Creating and Evaluating Hybrid Recommender Systems"
+  student: Arjo van Ramshorst
+  url: https://repository.tudelft.nl/islandora/object/uuid%3Ab76d0d13-2c7e-4af2-811a-8f298942a532
+  year: 2021
+  note: 
+
+- title: "Clustering Small and Medium Sized Dutch Enterprises Using Hybrid Intelligence"
+  student: Shipra Sharma
+  url: https://repository.tudelft.nl/islandora/object/uuid%3Ab519e029-4ef1-4a37-8fe2-261ade879085
+  year: 2021
+  note: In collaboration with <b>Exact</b>.

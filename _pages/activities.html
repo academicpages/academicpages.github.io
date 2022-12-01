@@ -1,0 +1,29 @@
+---
+layout: single
+title: "Activities"
+permalink: /activities.html
+author_profile: true
+---
+
+{% include base_path %}
+<h1>Recent Talks</h1>
+{% for data_col in site.data.talks %}
+<b>"{{ data_col.title }}"</b>
+    {% for entry in data_col.data %}
+	<li>{{ entry.name }} </li>
+	{% endfor %}
+	<br>
+{% endfor %}
+
+<br>
+
+<h1>Community Services</h1>
+<!-- I actively search the research communities. The workload often exceeds my limit so lately I have started to say more and more 'no' to invitations. 
+-->
+
+{% for data_col in site.data.service %}
+	<h3>{{ data_col.role }}</h3>
+	{% for entry in data_col.data %}
+		<li>{{ entry.name }} </li>
+	{% endfor %}
+{% endfor %}

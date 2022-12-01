@@ -1,0 +1,108 @@
+- id: arous2021www
+  authors: Ines Arous, Jie Yang, Mourad Khayati, and Philippe Cudré-Mauroux
+  url: pdf/arous2021www.pdf
+  venue: The Web Conference (WWW)
+  year: 2021
+  type: "full research paper"
+  highlight:
+  title: "Peer Grading the Peer Reviews: A Dual-Role Approach for Lightening Scholarly Paper Review Processes"
+  bib: |
+    @inproceedings{arous2020www,
+      title={Peer Grading the Peer Reviews: A Dual-Role Approach for Lightening Scholarly Paper Review Processes},
+      author={Arous, Ines and Yang, Jie and Khayati, Mourad and Cudr{\'e}-Mauroux, Philippe},
+      booktitle={The World Wide Web Conference},
+      pages={1916--1927},
+      year={2021},
+      organization={ACM}
+    }
+
+- id: arous2021aaai
+  authors: Ines Arous, Ljiljana Dolamic, Jie Yang, Akansha Bhardwaj, Giuseppe Cuccu, and Philippe Cudré-Mauroux
+  url: pdf/arous2021aaai.pdf
+  venue: AAAI Conference on Artificial Intelligence (AAAI)
+  year: 2021
+  type: "full research paper"
+  highlight:
+  title: " MARTA: Leveraging Human Rationales for Explainable Text Classification"
+  bib: |
+    @inproceedings{arous2021aaai,
+      title={MARTA: Leveraging Human Rationales for Explainable Text Classification},
+      author={Arous, Ines and Dolamic, Ljiljana and Yang, Jie and Bhardwaj, Akansha and Cuccu, Giuseppe and Cudr{\'e}-Mauroux, Philippe},
+      booktitle={Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence},
+      pages={5868--5876},
+      year={2021},
+      organization={AAAI}
+    }
+
+- id: mkh2021vldb
+  authors: Mourad Khayati, Ines Arous, Zakhar Tymchenko, and Philippe Cudré-Mauroux
+  url: pdf/mkh2021vldb.pdf
+  venue: Proceedings of the VLDB Endowment (VLDB)
+  year: 2021
+  type: "full research paper"
+  highlight:
+  title: "ORBITS: Online Recovery of Missing Blocks in Multiple Time Series Streams"
+  bib: |
+    @inproceedings{khayati2021vldb,
+      author = {Khayati, Mourad and Arous, Ines and Tymchenko, Zakhar and Cudr{\'{e}}{-}Mauroux, Philippe},
+      title = {ORBITS: Online Recovery of Missing Blocks in Multiple Time Series Streams},
+      booktitle = {Proceedings of the VLDB Endowment},
+      volume = {14},
+      number = {3},
+      year = {2021},
+    }
+
+- id: arous2020www
+  authors: Ines Arous, Jie Yang, Mourad Khayati, and Philippe Cudré-Mauroux
+  url: pdf/arous2020www.pdf
+  venue: The Web Conference (WWW)
+  year: 2020
+  type: "full research paper"
+  highlight:
+  title: "OpenCrowd: A Human-AI Collaborative Approach for Finding Social Influencers via Open-Ended Answers Aggregation"
+  bib: |
+    @inproceedings{arous2020www,
+      title={OpenCrowd: A Human-AI Collaborative Approach for Finding Social Influencers via Open-Ended Answers Aggregation},
+      author={Arous, Ines and Yang, Jie and Khayati, Mourad and Cudr{\'e}-Mauroux, Philippe},
+      booktitle={The World Wide Web Conference},
+      pages={1851--1862},
+      year={2020},
+      organization={ACM}
+    }
+
+- id: arous2020bigdata
+  authors: Zeno Bardelli, Ines Arous, Philippe Cudré-Mauroux, Ljiljana Dolamic
+  url: pdf/arous2020bigdata.pdf
+  venue: The IEEE International Conference on Big Data (Big Data)
+  year: 2020
+  type: "Workshop paper"
+  highlight:
+  title: "SwissFinder: Identifying Swiss Websites from Unstructured Content"
+  bib: |
+    @inproceedings{bardelli2020swissfinder,
+      title={SwissFinder: Identifying Swiss Websites from Unstructured Content},
+      author={Bardelli, Zeno and Arous, Ines and Cudr{\'e}-Mauroux, Philippe and Dolamic, Ljiljana},
+      booktitle={2020 IEEE International Conference on Big Data (Big Data)},
+      pages={5630--5632},
+      year={2020},
+      organization={IEEE}
+    }
+
+- id: arous2019icde
+  authors: Ines Arous, Mourad Khayati, Philippe Cudré-Mauroux, Ying Zhang, Martin Kersten, and Svetlin Stalinlov
+  url: pdf/arous2020www.pdf
+  venue: The IEEE International Conference on Data Engineering (ICDE)
+  year: 2019
+  type: "Demo paper"
+  highlight:
+  title: "RecovDB: Accurate and Efficient Missing Blocks Recovery for Large Time Series"
+  bib: |
+    @inproceedings{arous2019icde,
+      title = {RecovDB: accurate and efficient missing blocks recovery for large time series},
+      author = {Arous, Ines and Khayati, Mourad and Cudr{\'e}-Mauroux, Philippe and Zhang, Ying and Kersten, Martin and Stalinlov, Svetlin},
+      booktitle = {Proceedings of the IEEE International Conference on Data Engineering (ICDE 2019). Demo Track},
+      year = {2019},
+      organization={IEEE}
+    }
+
+

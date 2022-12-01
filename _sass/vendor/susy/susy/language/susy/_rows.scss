@@ -1,0 +1,138 @@
+// Row Start & End
+// ===============
+
+// Break
+// -----
+// Apply to any element that should force a line break.
+@mixin break {
+  @include output((clear: both));
+}
+
+
+// NoBreak
+// -------
+// Cancel the break() effect, e.g. when using media queries.
+@mixin nobreak {
+  @include output((clear: none));
+}
+
+
+// Full
+// ----
+// - [$context]: <layout shorthand>
+@mixin full(
+  $context: $susy
+) {
+  $inspect : $context;
+  @include susy-inspect(full, $inspect);
+  @include span(full of parse-grid($context) break);
+}
+
+
+// First
+// -----
+// - [$context]: <settings>
+@mixin first(
+  $context: $susy
+) {
+  $inspect  : $context;
+  $context  : parse-grid($context);
+  $flow     : susy-get(flow, $context);
+
+  @include susy-inspect(first, $inspect);
+  @if not(is-split($context)) {
+    @include float-first($flow);
+  }
+}
+
+@mixin alpha(
+  $context: $susy
+) {
+  @include first($context);
+}
+
+
+// Last
+// ----
+// - [$context]: <settings>
+@mixin last(
+  $context: $susy
+) {
+  $inspect  : $context;
+  $context  : parse-grid($context);
+
+  @include susy-inspect(last, $inspect);
+
+  $output: (
+    flow: susy-get(flow, $context),
+    last-flow: susy-get(last-flow, $context),
+    margin: if(is-split($context), null, 0),
+  );
+
+  @include float-last($output...);
+}
+
+@mixin omega(
+  $context: $susy
+) {
+  @include last($context);
+}
+
+
+// Get Edge
+// --------
+// Calculate edge value based on location, if possible
+@function get-edge(
+  $span
+) {
+  $span       : parse-span($span);
+  $edge       : susy-get(edge, $span);
+
+  @if not($edge) {
+    $count: susy-count(susy-get(columns, $span));
+    $location: susy-get(location, $span);
+    $n: susy-get(span, $span);
+
+    $number: if(type-of($location) == number, true, false);
+    $index: if($number and unitless($location), true, false);
+
+    @if $n == $count {
+      $edge: full;
+    } @else if $location and $n and $index {
+      @if $location == 1 {
+        $edge: if($n == $count, full, first);
+      } @else if $location + $n - 1 == $count {
+        $edge: last;
+      }
+    }
+  }
+
+  @if $edge == alpha or $edge == omega {
+    $edge: if($edge == alpha, first, last);
+  }
+
+  @return $edge;
+}
+
+
+// Get Location
+// ------------
+// Calculate location value based on edge, if possible
+@function get-location(
+  $span
+) {
+  $span       : parse-span($span);
+  $location   : susy-get(location, $span);
+  $edge       : get-edge($span);
+  $n          : susy-get(span, $span);
+
+  @if $edge and not($location) and type-of($n) == number and unitless($n) {
+    @if $edge == first {
+      $location: 1;
+    } @else if $edge == last {
+      $location: susy-count(susy-get(columns, $span)) - $n + 1;
+    }
+  }
+
+  @return $location
+}

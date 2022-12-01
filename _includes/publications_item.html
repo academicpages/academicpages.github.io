@@ -1,0 +1,9 @@
+	<li id="{{ entry.id | replace: '/', '' | replace: ':', '' }}">
+		[<a href="javascript:void(0);" data-target="#bib{{ entry.id | replace: '/', '' | replace: ':', '' }}" data-toggle="collapse">bib</a>]
+		{% if entry.authors %} {{ entry.authors }}. {% endif %}
+		<a href="{{ entry.url }}">{{ entry.title }}.</a>
+		{% if entry.venue %} In <i>{{ entry.venue }}.</i> {% endif %}
+		{% if entry.authors or authors.venue %} <br> {% endif %}
+		{% if entry.highlight %}<p class="note"><b>{{ entry.highlight }}</b></p>{% endif %}
+		<div id="bib{{ entry.id | replace: '/', '' | replace: ':', '' }}" class="collapse"><pre class="verbatim">{{ entry.bib }}</pre></div>
+	</li>

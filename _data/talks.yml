@@ -1,0 +1,23 @@
+- title: "Human-In-the-Loop AI: Building Robust AI With People"
+  data:
+  - name: <a href="https://bhcc2022.org">BHCC</a>, October 2022
+- title: "ARCH: Know What Your Machine Doesn't Know"
+  data:
+  - name: <a href="https://www.um.edu.mo">U. Macau</a>, September 2022
+  - name: <a href="https://www.bloomberg.com/europe">Bloomberg</a>, June 2022
+  - name: <a href="http://vis.cse.ust.hk">VisLab</a>, HKUST, June 2022
+  - name: <a href="https://exascale.info">eXascale Infolab</a>, May 2022
+  - name: <a href="https://www.wis.ewi.tudelft.nl/dbml2022">DBML@ICDE</a>, May 2022
+  - name: <a href="https://www.ictopen.nl">ICT.OPEN</a>, April 2022
+  - name: <a href="https://www.booking.com">Booking.com</a>, November 2021
+  - name: <a href="https://cmsa.fas.harvard.edu/interdisciplinary-science-seminar/">CMSA</a>, Harvard, October 2021
+  - name: <a href="https://www.tudelft.nl/aitech">AiTech</a>, TU Delft, May 2021
+  - name: <a href="https://www.ilent.nl/">ILT</a>, Ministry of Infrastructure and Water Management, May 2021
+- title: "Integrating Human Computation with Machine Learning"
+  data:
+  - name: <a href="https://wikimediafoundation.org">Wikimedia Foundation</a>, May 2020
+  - name: <a href="https://www.amazon.com/alexa-shopping-hub/">Alexa Shopping</a>, Amazon, June 2019
+- title: "Debugging Noisy Training Data of Machine Learning Systems"
+  data:
+  - name: <a href="https://aws.amazon.com/sagemaker/">Sagemaker</a>, Amazon, September 2019
+  - name: <a href="https://www.amazon.com/alexa-shopping-hub/">Alexa Shopping</a>, Amazon, April 2019

@@ -1,0 +1,35 @@
+- name: Integrating Human Computation and Machine Learing
+  goal: improving machine learning by integrating with crowd answers generation
+  data:
+  - work: Bayesian model training framework with humans in the loop (WWW2020)
+    url: pdf/arous2020www.pdf
+  - work: Structured probabilistic end-to-end learning from crowds (IJCAI2020)
+    url: 
+  - work: Human-AI loop approaches for social event detection (AAAI2020)
+  - work: Learning from targeted crowds - an application in Alexa (WWW2018)
+- name: Learning from Small, Sparse, and Noisy Data
+  goal: bootstrapping machine learning from training data of limited amount and quality
+  data:
+  - work: Web-to-Voice transfer for voice recommendation (SIGIR2020)
+  - work: Training data augmentation for medical effects detection (EMNLP2019)
+  - work: Debugging noisy training data for language tasks (WWW2019)
+  - work: Deep active learning for link prediction in knowledge graphs (WWW2019)
+- name: Crowd Knowledge Creation Acceleration
+  goal: understanding and accelerating crowd knowledge creation processes
+  data:
+  - work: Understanding worker communities in microtask markets (HCOMP2018)
+  - work: Modeling task clarity in crowdsourcing (HyperText2017)
+  - work: Modeling task complexity in crowdsourcing (HCOMP2016)
+  - work: Harnessing engagement for knowledge creation acceleration (UMAP2015)
+  - work: Asking the right question in collaborative Q&A systems (HyperText2014)
+  - work: Characterising expert behaviour in collaborative Q&A systems (UMAP2014)
+- name: Recommendation with Side Information
+  goal: Improving recommendation by exploiting auxiliary features of users or items
+  data:
+  - work: Hypergraph embedding for location prediction (WWW2019)
+  - work: Recurrent knowledge graph embedding for recommendation (RecSys2018)
+  - work: Interacting attention-gated recurrent networks for recommendation (CIKM2017)
+  - work: Exploiting horizontal dimensions of feature hierarchies (AAAI2017)
+  - work: Multi-level representation learning for personalized ranking (IJCAI2017)
+  - work: Learning hierarchical feature influence for recommendation (RecSys2016)
+

@@ -1,0 +1,28 @@
+---
+layout: single
+title: "Education"
+permalink: /education.html
+author_profile: true
+---
+
+{% include base_path %}
+<h1>Teaching</h1>
+
+{% for data_col in site.data.teaching %}
+{% for entry in data_col.data %}
+<h3><a href="{{ entry.url }}">{{ entry.name }}</a></h3>
+<b>{{entry.time}} of the {{data_col.year}} semester</b> <br>
+{{ entry.description }}
+{% endfor %}
+{% endfor %}
+
+<br>
+<br>
+
+<h1 id="MSc_supervision">Master Theses</h1>
+
+{% for entry in site.data.supervision %}
+<li>[{{ entry.year }}] <i>{{ entry.student }}</i>. 
+<a href="{{ entry.url }}">{{ entry.title }}</a>. {{ entry.note }}</li>
+{% endfor %}
+</ul>
