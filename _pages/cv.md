@@ -155,6 +155,10 @@ Igartua, J. J., **Rodríguez, I.** , Marañon, F. &amp; Arranz, L. (2014) _Facto
 
 Piñeiro, V., **Rodríguez, I.** , Igartua, J.J. (2014) _La Comunicación del Patrimonio a través de la World Wide Web. Una panorámica basada en el análisis de contenido de sedes municipales_. Paper presented at the IX Congreso Internacional AR&amp;PA 2014 &quot;Sociedad y Patrimonio&quot;, Valladolid (Spain), 13-15 November 2014.
 
+# Invited Presentations
+===========
+
+**Rodríguez, I.** (2022). Sesión paralela 1: Tecnología y sociedad. Forum 360 Observatorio Social de la Fundación La Caixa, Barcelona (Spain), 28 November 2022.
 
 # RESEARCH VISITS
 ============
