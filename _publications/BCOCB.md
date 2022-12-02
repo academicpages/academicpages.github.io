@@ -6,6 +6,6 @@ link: 'https://doi.org/10.1063/5.0036954'
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-12-07
 authors: Jorge L. Rosa-Raíces<sup>\*</sup>, **Jiace Sun**<sup>\*</sup>, Nawaf Bou-Rabee, and Thomas F. Miller III
-venue: 'Journal of Chemical Physics'
+venue: 'The Journal of chemical physics, 154, 024106'
 paperurl: 'https://doi.org/10.1063/5.0036954'
 ---

@@ -21,13 +21,17 @@ Due to these developments, MOB-ML has already shown great performance compared w
 
 References:
 
-[1] Husch, T., **Sun, J.**, Cheng, L., Lee, S. J., & Miller III, T. F. (2021). Improved accuracy and transferability of molecular-orbital-based machine learning: Organics, transition-metal complexes, non-covalent interactions, and transition states. The Journal of Chemical Physics, 154(6), 064108.
+[1] Husch, T., **Sun, J.**, Cheng, L., Lee, S. J., & Miller III, T. F. (2021). Improved accuracy and transferability of molecular-orbital-based machine learning: Organics, transition-metal complexes, non-covalent interactions, and transition states. _The Journal of Chemical Physics_, 154, 064108.
 
 [2] **Sun, J.**, Cheng, L., & Miller III, T. F. (2021). Molecular Energy Learning Using Alternative Blackbox Matrix-Matrix Multiplication Algorithm for Exact Gaussian Process. arXiv preprint arXiv:2109.09817.
 
-[3] **Sun, J.**, Cheng, L., & Miller III, T. F. (2022). Molecular Dipole Moment Learning via Rotationally Equivariant Gaussian Process Regression with Derivatives in Molecular-orbital-based Machine Learning. arXiv preprint arXiv:2205.15510.
+[3] Cheng, L., **Sun, J.** & Miller III, T.F. (2022). Accurate Molecular-Orbital-Based Machine Learning Energies via Unsupervised Clustering of Chemical Space. _Journal of Chemical Theory and Computation_, 18, 8, 4826–4835.
 
-[4] Cheng, L., **Sun, J.**, Emiliano Deustua, J., Bhethanabotla, V. C., & Miller III, T. F. (2022). Molecular-orbital-based Machine Learning for Open-shell and Multi-reference Systems with Kernel Addition Gaussian Process Regression. arXiv e-prints, arXiv-2207.
+[4] **Sun, J.**, Cheng, L., & Miller III, T. F. (2022). Molecular Dipole Moment Learning via Rotationally Equivariant Gaussian Process Regression with Derivatives in Molecular-orbital-based Machine Learning. _The Journal of Chemical Physics_, 157, 104109.
+
+[5] Cheng, L., **Sun, J.**, Emiliano Deustua, J., Bhethanabotla, V. C., & Miller III, T. F. (2022). Molecular-orbital-based Machine Learning for Open-shell and Multi-reference Systems with Kernel Addition Gaussian Process Regression. _The Journal of Chemical Physics_, 157, 154105.
+
+[6] Lu, F., Cheng, L., DiRisio, R.J., Finney, J.M., Boyer, M.A., Moonkaen, P., **Sun, J.**, Lee, S.J., Deustua, J.E., Miller III, T.F. and McCoy, A.B. (2022). Fast near ab initio potential energy surfaces using machine learning. _The Journal of Physical Chemistry A_, 126(25), 4013-4024.
 
 <h3> Ring-polymer molecular dynamics (RPMD) </h3>
 
@@ -39,9 +43,9 @@ In a recent work, we introduced a generalized class of thermalized RPMD integrat
 
 References:
 
-[1] Rosa-Raíces, J. L.<sup>\*</sup>, **Sun, J.**<sup>\*</sup>, Bou-Rabee, N., & Miller III, T. F. (2021). A generalized class of strongly stable and dimension-free T-RPMD integrators. The Journal of chemical physics, 154(2), 024106.
+[1] Rosa-Raíces, J. L.<sup>\*</sup>, **Sun, J.**<sup>\*</sup>, Bou-Rabee, N., & Miller III, T. F. (2021). A generalized class of strongly stable and dimension-free T-RPMD integrators. _The Journal of chemical physics_, 154, 024106.
 
-[2] Gui, X., Fan, W., **Sun, J.**, & Li, Y. (2022). New Stable and Fast Ring-Polymer Molecular Dynamics for Calculating Bimolecular Rate Coefficients with Example of OH+CH<sub>4</sub>. arXiv preprint arXiv:2205.09331.
+[2] Gui, X., Fan, W., **Sun, J.**, & Li, Y. (2022). New Stable and Fast Ring-Polymer Molecular Dynamics for Calculating Bimolecular Rate Coefficients with Example of OH+CH<sub>4</sub>. _Journal of Chemical Theory and Computation_, 18, 9, 5203–5212.
 
 <h3> Electron-phonon interaction </h3>
 
@@ -49,9 +53,23 @@ High electric field electron transport is of fundamental interest and practical 
 In fact, the theoretical description of electron transport requires accurate calculation of electron-phonon interaction.
 However, due to the high computational cost, the multi-phonon processes are usually neglected in the elctron-phonon interaction calculation.
 
-In a recent work, we studied high-field transport properties in GaAs by including on-shell two phonon scattering process.
-Our finding reconciles a long-standing discrepancy regarding the strength of intervalley scattering in GaAs as inferred from transport and optical studies.
+In the recent works, we studied high-field transport properties in GaAs by including two-phonon scattering processes.
+Our findings reconcile a long-standing discrepancy regarding the strength of intervalley scattering in GaAs as inferred from transport and optical studies.
+
 
 References:
 
 [1] Cheng, P. S., **Sun, J.**, Sun, S. N., Choi, A. Y., & Minnich, A. J. (2022). High-field transport and hot electron noise in GaAs from first principles: role of two-phonon scattering. arXiv preprint arXiv:2201.11912.
+
+[2] (Will be on arxiv soon) **Sun, J.**, Minnich, A. J. (2022). Transport and noise of of hot electrons in GaAs using an ab-initio-based analytical model of two-phonon polar optical phonon scattering. 
+
+<h3> Quantum simulation </h3>
+
+Classical quantum simulations is a useful tool to facilitate the design, simulation and analysis of quantum algorithms in the Noisy Intermediate-Scale Quantum (NISQ) era.
+Recently we developed _TensorCircuit_ as the next generation of quantum circuit simulators with support for automatic differentiation, just-in-time compiling, hardware acceleration, and vectorized parallelism.
+_TensorCircuit_ is built on top of modern machine learning frameworks and is machine learning backend agnostic. It is specifically suitable for highly efficient simulations of quantum-classical hybrid paradigm and variational quantum algorithms.
+
+
+References:
+
+[1] Zhang, S.X., Allcock, J., Wan, Z.Q., Liu, S., **Sun, J.**, Yu, H., Yang, X.H., Qiu, J., Ye, Z., Chen, Y.Q. and Lee, C.K. (2022). TensorCircuit: a Quantum Software Framework for the NISQ Era. arXiv preprint arXiv:2205.10091.
