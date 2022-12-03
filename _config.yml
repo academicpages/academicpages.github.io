@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ehsan Ahmad / Ehsan Ahmad"
+title                    : "Ehsan Ahmad"
 title_separator          : "-"
 name                     : &name "Ehsan Ahmad"
 description              : &description "Assistant Professor at College of Computing and Informatics, Saudi Electronic University, KSA."
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Ehsan Ahmad"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
