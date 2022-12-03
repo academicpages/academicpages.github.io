@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Ehsan Ahmad"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  avatar           : "Dr. Ehsan Ahmad.png"
+  bio              : "Assistant Professor at Saudi Electronic University, College of Computing and Informatics"
+  location         : "Jeddah"
+  employer         :  
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=goKczKcAAAAJ&hl=en&oi=ao"
+  email            :  "e.ahmad@seu.edu.sa & ehsan.ahmad@gmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Ehsan-Ahmad-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ehah"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-8593-2824"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@ehsanhmd"
   vine             :
   weibo            :
   xing             :
