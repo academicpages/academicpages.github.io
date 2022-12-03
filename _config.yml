@@ -13,9 +13,9 @@
 
 # Site Settings
 locale                   : "en-FR"
-title                    : "Dr. Damien Sileo"
+title                    : "Damien Sileo - NLP Researcher"
 title_separator          : "-"
-name                     : &name "Dr Damien Sileo"
+name                     : &name "Damien Sileo - NLP Researcher"
 description              : &description "Natural Language Processing Researcher @Inria"
 url                      : https://sileod.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -88,7 +88,7 @@ analytics:
 author:
   name             : "Damien Sileo"
   avatar           : "profile.png"
-  location         : "Lille"
+  location         : "Lille (France)"
   employer         : "Inria Centre at the University of Lille"
   googlescholar    : "https://scholar.google.com/citations?user=SIJPeoYAAAAJ&hl=en"
   email            : "damien.sileo@inria.fr"
