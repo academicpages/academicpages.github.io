@@ -1,5 +1,5 @@
 ---
-title: "Patch-adaptive Transformation Blending for One-shot Retouching"
+title: "One-shot Detail Retouching with Patch Space Neural Field based Transformation Blending"
 excerpt: "<img src='/images/architecture.png'><br/>This project introduces a novel photo retouching technique based on a single before-after example pair."
 collection: projects
 ---
@@ -93,7 +93,7 @@ collection: projects
                     </tr>
 		</table>
 		<div class="text-justify">
-			Our technique learns different retouching styles from a single example before-after image pair, which can be found in Additional Results (Left: Top row, Right: Bottom row). 
+			Photo retouching is a difficult task for novice users as it requires expert knowledge and advanced tools. Photographers often spend a great deal of time generating high-quality retouched photos with intricate details. In this paper, we introduce a one- shot learning based technique to automatically retouch details of an input image based on just a single pair of before and after example images. Our approach provides accurate and generalizable detail edit transfer to new images. We achieve these by proposing a new representation for image to image maps. Specifically, we propose neural field based transformation blending in the patch space for defining patch to patch transformations for each frequency band. This parametrization of the map with anchor transformations and associated weights, and spatio-spectral localized patches, allows us to capture details well while staying generalizable. We evaluate our technique both on known ground truth filtes and artist retouching edits. Our method accurately transfers complex detail retouching edits.
 		</div>
 
             </div>
