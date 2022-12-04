@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/fall-2022-busi403-ta
 venue: "UNC Kenan-Flagler Business School"
-date: 2022
+date: 2022-08-19
 location: "Chapel Hill, NC"
 ---
 
