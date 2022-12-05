@@ -20,13 +20,14 @@ My research interests are broadly defined at the intersection of Machine Learnin
 
 # News
 
+- **Dec, 2022:** Thank you to the Commonwealth Cyber Initiative (CCI) for new funding on secure and trustworthy Human-AI collaboration! 
 - **Nov, 2022:** Gave a talk on multimodal explainable AI models for clinical reasoning ([slides](https://github.com/Isminoula/isminoula.github.io/blob/master/files/CriticalCareDataAnalysisSummit2022.pdf)) at the [Critical Care Data Analysis Summit and Tarragona Datathon 2022](https://www.datathontarragona.com/summit.html).
 - **Oct, 2022:** Excited to receive an [Amazon-VT faculty research award](https://www.amazon.science/latest-news/amazon-and-virginia-tech-announce-inaugural-fellowship-and-faculty-research-award-recipients) to work on Embodied AI research!
 - **Oct, 2022:** Attending [INFORMS'22](https://meetings.informs.org/wordpress/indianapolis2022/) and presenting our privacy-preserving data sharing work.
 - **Oct, 2022:** Will be giving a talk on self-supervised machine learning at the [VT Statistics Colloquium](https://www.stat.vt.edu/about/colloquium-schedule.html). 
 - **August, 2022:** Co-organizing the first-ever [NeurIPS 2022 Gaze Meets ML](https://gaze-meets-ml.github.io/gaze_ml_2022/) workshop. 
 - **August, 2022:** Excited to receive new DARPA KMASS funding!
-- **July, 2022:** Thank you to  Commonwealth Cyber Initiative (CCI) for funding our proposal on ML-based automated code repair. Looking foward to working with PI Daphne Yao and Co-PI Bimal Viswanath.
+- **July, 2022:** Thank you to the Commonwealth Cyber Initiative (CCI) for funding our proposal on ML-based automated code repair. Looking foward to working with PI Daphne Yao and Co-PI Bimal Viswanath.
 - **June, 2022:** Will be giving a keynote at [ACM PETRA 2022](http://www.petrae.org/keynote.html). Also serving as the PETRA'22 Doctoral Consortium Chair. Looking forward to meeting students and conference attendees. 
 - **April, 2022:** Thrilled to join the [NeurIPS 2022 Organizing Commitee](https://nips.cc/Conferences/2022/Committees) as an Expo co-Chair!
 - **March, 2022:** Gave a talk at the [Women in STEM Mentoring Seminars](https://www.w-stem.org/home). Slides are available [here](https://www.w-stem.org/resources). 
