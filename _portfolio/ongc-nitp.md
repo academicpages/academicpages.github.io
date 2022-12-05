@@ -1,8 +1,7 @@
+
 ---
 title: "ONGC Scholar"
 excerpt: "Awarded the ONGC Scholarship at NIT Patna (2012-13)"
-<!-- <br/><img src='/images/500x300.png'> -->
-date: 2012
 collection: portfolio
 ---
 Awarded the ONGC Scholarship for being the highest GPA holder (9.34/10) in the [Dept. of Electrical Engineering](https://www.nitp.ac.in/ee/) at 
