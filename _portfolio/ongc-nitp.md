@@ -1,4 +1,3 @@
-
 ---
 title: "ONGC Scholar"
 excerpt: "Awarded the ONGC Scholarship at NIT Patna (2012-13)"
