@@ -6,6 +6,10 @@ collection: portfolio
 ### Research Goal
 Why do countries talk about each other's human rights practices? What rhetorical strategies do they use to shame others? How does the definition of human rights differ across countries, and what are its implications to the rule-based international order? Accurately describing country-to-country verbal interaction is the first step to answering these questions.
 
+### News
+* Data collection for US shaming is finished.
+* If you are interested in working with us in Spring 2023, please email Jiwon.
+
 ## Team
 ### Current Members
 * Jiwon Kim (PI)
