@@ -31,7 +31,7 @@ I have presented / will be presenting at...
 
 #### Midwest Political Science Association (MPSA)
 
-- Chicago, IL: 2023. Panel: TBA.
+- Chicago, IL: 2023. Panel: Factors Influencing Voting Behavior.
 - Chicago, IL: 2020. Panel: Experiments for Improving Democratic Institutions. Canceled (COVID19).
 - Chicago, IL: 2018. JSS Session: Comparative Political Economy. [declined]
 - Chicago, IL: 2017. JSS Session: Political Economy of Development and Regime Change.
