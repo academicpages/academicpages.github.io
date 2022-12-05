@@ -15,7 +15,7 @@ skill sets in facilitation, technical communication, and project management.
 
 ## Work history
 
-Starting in December 2022, I will be at the US CDC's new [Center for
+Starting December 2022, I joined the US CDC's new [Center for
 Forecasting and Outbreak
 Analytics](https://www.cdc.gov/forecast-outbreak-analysis/index.html) via a
 contractor position with [Leidos](https://www.leidos.com/).
