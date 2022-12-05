@@ -8,11 +8,12 @@ date: 2022
 location: "Chapel Hill, NC"
 ---
 Teaching Assistant (TA) for BUSI 403.
-<!-- Heading 1
+
+Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-====== -->
+======
