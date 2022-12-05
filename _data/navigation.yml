@@ -6,20 +6,17 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#   - title: "Teaching"
+#     url: /teaching/    
 
-  - title: "Awards"
-    url: /portfolio/
+#   - title: "Awards"
+#     url: /portfolio/
         
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
-#   - title: "CV"
-#     url: "/RRoy.pdf"
-
-- title: "CV"
-    url: /cv/
+  - title: "CV"
+    url: "/RRoy.pdf"
     
 #   - title: "Guide"
 #     url: /markdown/
