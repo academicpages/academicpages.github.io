@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Henrique Veras"
   avatar           : "bio-photo-3.jpeg"
-  bio              : "Visiting Assistant Professor of Economics"
-  location         : "Department of Economics and Finance"
-  employer         : "Centre College"
+  bio              : "Assistant Professor of Economics"
+  location         : "Department of Economics"
+  employer         : "Forward College"
   googlescholar    : "https://scholar.google.com/citations?user=BCjAeIQAAAAJ&hl=en"
-  email            : "henrique.veras@centre.edu"
+  email            : "henrique.veras@forward-college.eu"
   researchgate     :  # example: "https://www.researchgate.net/profile/Henrique-Veras-De-Paiva-Fonseca"
   uri              :
   bitbucket        :
