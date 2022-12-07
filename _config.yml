@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Dr. Zhibin Lei"
   avatar           : "zhibinlei-photoid-497x641.jpg"
-  bio              : "PhD supervised by Prof. J. Huw Davies at Cardiff University."
+  bio              : "Geodynamicist using numerical methods to understand the interaction between the convective mantle and the overlying lithosphere."
   location         : "Cardiff, Wales, UK"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=J2loSlUAAAAJ"
-  email            : "leiz2@cf.ac.uk"
+  email            : "leiz2@cardiff.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
