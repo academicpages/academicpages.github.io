@@ -21,7 +21,7 @@ author_profile: true
 [(Paper)](https://dl.acm.org/doi/10.1145/3357384.3357859)[(Demo)](https://youtu.be/UkFjH6AG3d0) </em>
 
 
-## Unpublished Manuscripts
+## Unpublished Manuscript(s)
 
 * **LiCQA: A Lightweight Complex Question Answering System.** <br>
  **Sourav Saha**, Dwaipayan Roy, Mandar Mitra   <br>
