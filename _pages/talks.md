@@ -24,8 +24,7 @@ Direction
 
 * <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Evidence for a distributed head direction and travel trajectory system in the human brain during active navigation, Society for Neuroscience, San Diego. Nov., 2022. [[news](/posts/2022/11/blog-post-1/)]
 
-* Starrett Ambrose M., <b>Cheng, Y. </b>, Davis, R., Tranquada-Torres, B., Chrastil, E.R.. Domain generality and
-specificity across egocentric and allocentric distance ratings, Society for Neuroscience, San Diego. Nov., 2022.
+* Starrett Ambrose M., <b>Cheng, Y. </b>, Davis, R., Tranquada-Torres, B., Chrastil, E.R.. Domain generality and specificity across egocentric and allocentric distance ratings, Society for Neuroscience, San Diego. Nov., 2022.
 
 * <b>Cheng, Y. </b>, Chrastil, E.R., Krichmar, J.. A Recurrent Neural Network Model of Travel Direction in Humans, Women in Machine Learning (WiML) Un-Workshop, International Conference on Machine Learning (ICML), Virtual. July, 2022. [[news](/posts/2022/07/blog-post-2/)][[video](https://slideslive.com/38987407/a-recurrent-neural-network-model-of-travel-direction-in-humans)]
 
