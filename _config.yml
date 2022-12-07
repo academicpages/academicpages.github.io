@@ -58,6 +58,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
+mastodon:
+  username               : &mastodon
 facebook:
   username               :
   app_id                 :
