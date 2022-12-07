@@ -38,7 +38,7 @@ Work experience
 Publications
 ======
 
-* <b>Cheng, Y. *</b>, He, C. *, Hegarty, M., & Chrastil, E. R. (2022). Who Believes They Are Good Navigators? A Machine Learning Pipeline Highlights the Impact of Gender, Commuting Time, and Education. Machine Learning with Applications, 100419. *denotes equal authorship [[pdf](https://lilianyou.github.io/files/2022_self_report_MLWA_Cheng.pdf)]
+* <b>Cheng, Y. *</b>, He, C. *, Hegarty, M., & Chrastil, E. R. (2022). Who Believes They Are Good Navigators? A Machine Learning Pipeline Highlights the Impact of Gender, Commuting Time, and Education. Machine Learning with Applications, 100419. *denotes equal authorship [[pdf](https://lilianyou.github.io/files/2022_self_report_MLWA_Cheng.pdf)] <b>Editor's Choice Articles</b>
 
 * <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Evidence for a travel direction signal in humans that is independent of head direction. [[preprint](https://www.biorxiv.org/content/10.1101/2022.08.22.504860v1)]
 
@@ -100,8 +100,7 @@ Select Conference Presentations
 <br>
 <b><big>Poster Presentations</big></b>
 
-* Starrett Ambrose M., <b>Cheng, Y. </b>, Davis, R., Tranquada-Torres, B., Chrastil, E.R.. Domain generality and
-specificity across egocentric and allocentric distance ratings, Society for Neuroscience, San Diego. Nov., 2022.
+* Starrett Ambrose M., <b>Cheng, Y. </b>, Davis, R., Tranquada-Torres, B., Chrastil, E.R.. Domain generality and specificity across egocentric and allocentric distance ratings, Society for Neuroscience, San Diego. Nov., 2022.
 
 * Tyagi T., Magdamo C., <b>Cheng, Y. </b>, West M., Noori A., Liu X., Serrano-Pozo A., Hyman B., Mukerji S., Westover M.B., Blacker D., Das S.. Deep Learning Natural Language Processing to Detect Cognitive Impairment in Charts from Electronic Health Records. MGH Annual Clinical Research Day, Virtual. Oct., 2022. <b>Team Science - Honorable Mention</b>
 
