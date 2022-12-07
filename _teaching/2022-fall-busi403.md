@@ -4,8 +4,8 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2022-fall-busi403
 venue: "UNC Kenan-Flagler Business School"
-date: 2022-08-15
+date: 2022
 location: "Chapel Hill, NC"
 ---
 
-Teaching Assistant (TA) for BUSI 403 (Operations Management) in Fall 2022.
+Teaching Assistant (TA) for the undergraduate course in Operations Management (BUSI 403) during Fall 2022.
