@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an Assistant Professor of Computer Science at Virginia Tech, where I lead the Perception and LANguage (PLAN) Lab. I am also a member of the [Sanghani Center for Artificial Intelligence and Discovery Analytics](https://sanghani.cs.vt.edu/), and an affiliate faculty member of the [National Security Institute](https://nationalsecurity.vt.edu) and the [Center for Advanced Innovation in Agriculture](https://caia.cals.vt.edu/).
+I am an Assistant Professor of Computer Science at Virginia Tech, where I lead the [Perception and LANguage (PLAN) Lab](https://plan-lab.github.io/). I am also a member of the [Sanghani Center for Artificial Intelligence and Discovery Analytics](https://sanghani.cs.vt.edu/), and an affiliate faculty member of the [National Security Institute](https://nationalsecurity.vt.edu) and the [Center for Advanced Innovation in Agriculture](https://caia.cals.vt.edu/).
 
 Prior to VT, I spent a year as research scientist (Research Staff Member) at IBM Almaden Research Center, working on Machine Learning, Natural Language Processing  and Information Retrieval problems. I obtained my Ph.D. from the [Computer Science Department](http://cs.illinois.edu), [University of Illinois at Urbana - Champaign](http://illinois.edu), under the supervision of Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu), [Text Information Management and Analysis Group (TIMAN)](http://sifaka.cs.uiuc.edu/ir). I was selected as an [EECS Rising Star](https://publish.illinois.edu/rising-stars/) participant in 2019.
 
