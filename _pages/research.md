@@ -12,6 +12,10 @@ permalink: /research/
 Swarnadeep Saha, Peter Hase, Nazneen Rajani, Mohit Bansal  
 *EMNLP 2022.* [[pdf]](https://arxiv.org/pdf/2211.07517.pdf) [[code]](https://github.com/swarnaHub/ExplanationHardness)
 
+**Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees**  
+Swarnadeep Saha, Shiyue Zhang, Peter Hase, Mohit Bansal  
+*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2209.10492.pdf) [[code]](https://github.com/swarnaHub/SummarizationPrograms)
+
 **VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**  
 Zhuofan Ying,* Peter Hase,* Mohit Bansal  
 *NeurIPS 2022.* [[pdf]](https://arxiv.org/pdf/2206.11212.pdf) [[code]](https://github.com/zfying/visfis)
