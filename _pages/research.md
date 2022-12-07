@@ -8,9 +8,13 @@ permalink: /research/
 
 ## Research
 
+**Are Hard Examples also Harder to Explain? A Study with Human and Model-Generated Explanations**  
+Swarnadeep Saha, Peter Hase, Nazneen Rajani, Mohit Bansal  
+*EMNLP 2022.* [[pdf]](https://arxiv.org/pdf/2211.07517.pdf) [[code]](https://github.com/swarnaHub/ExplanationHardness)
+
 **VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**  
-Zhuofan Ying, Peter Hase, Mohit Bansal  
-*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2206.11212.pdf) [[code]](https://github.com/zfying/visfis)
+Zhuofan Ying,* Peter Hase,* Mohit Bansal  
+*NeurIPS 2022.* [[pdf]](https://arxiv.org/pdf/2206.11212.pdf) [[code]](https://github.com/zfying/visfis)
 
 **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data**  
 Peter Hase, Mohit Bansal  
@@ -49,7 +53,7 @@ Peter Hase, Chaofan Chen, Oscar Li, Cynthia Rudin
 *AAAI-HCOMP 2019.* [[pdf]](https://arxiv.org/pdf/1906.10651.pdf) [[code]](https://github.com/peterbhase/interpretable-image)  
 
 **Shall I Compare Thee to a Machine-Written Sonnet? An Approach to Algorithmic Sonnet Generation**  
-John Benhardt, Peter Hase, Liuyi Zhu, Cynthia Rudin  
+John Benhardt,* Peter Hase,* Liuyi Zhu,* Cynthia Rudin  
 *Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/1811.05067.pdf) [[code]](https://github.com/peterbhase/poetry-generation)  
 
 
