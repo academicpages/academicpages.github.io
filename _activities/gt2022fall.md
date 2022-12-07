@@ -24,7 +24,7 @@ author_profile: false
  | Thu, 2022-11-24 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-12-01 | 1:30pm - 2:30pm | Matthew Stoffregen |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-12-08 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
- | Thu, 2022-12-15 | 1:30pm - 2:30pm | Siyuan Lu |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
+ | Thu, 2022-12-15 | 1:30pm - 2:30pm | Siyuan Lu | On the regularity of Lagrangian phase equation | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-12-22 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
  | Thu, 2022-12-29 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
 
@@ -55,3 +55,7 @@ author_profile: false
 * Beomjun Choi
   * We classify the entire solutions to degenerate Monge-Ampere equations $\det D^2u = (1+|Du|^2)^\beta$ on $\mathbb{R}^2$ for all $\beta<0$. The graphs of such solutions are the translating solitons to the flows by sub-affine-critical powers of Gauss curvature. In view of the Legendre transformation, this classifies the entire solutions to $\det D^2v = (1+|x|^2)^{-\beta}$ as well.
   * For the affine-critical-case $\det D^2u =1$, the celebrated result by Jorgens, Calabi and Pogorelov shows every solution must be a convex paraboloid and hence the level sets are homothetic ellipses. In our case, the level sets of given solution converge to a circle or a curve with $k$-fold symmetry for some $k>2$. These curves are closed shrinking curves to the curve shortening flows, classified by B. Andrews in 2003. Then we study the moduli space of solutions for each prescribed asymptotics. This is a joint work with K. Choi and S. Kim.
+
+* Siyuan Lu
+  * In this talk, I will first introduce the background and motivation for the study of Lagrangian phase equation. I will then discuss my recent work on the regularity of Lagrangian phase equation. In the second part, I will discuss some open problems relating to Lagrangian phase equation.
+
