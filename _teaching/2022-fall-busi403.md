@@ -8,4 +8,4 @@ date: 2022
 location: "Chapel Hill, NC"
 ---
 
-Teaching Assistant (TA) for the undergraduate course in Operations Management (BUSI 403) during Fall 2022.
+Teaching Assistant (TA) for Operations Management (BUSI 403), an undergraduate course, during Fall 2022.
