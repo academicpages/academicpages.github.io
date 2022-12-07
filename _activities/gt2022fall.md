@@ -53,7 +53,7 @@ author_profile: false
   * We prove a strong maximum principle for minimizers of the one-phase Alt-Caffarelli functional. We use this to construct a Hardt-Simon-type foliation associated to any 1-homogenous global minimizer.
 
 * Beomjun Choi
-  * We classify the entire solutions to degenerate Monge-Ampere equations $\det D^2u = (1+|Du|^2)^\beta$ on $\mathbb{R}^2$ for all $\beta<0$. The graphs of such solutions are the translating solitons to the flows by sub-affine-critical powers of Gauss curvature. In view of the Legendre transformation, this classifies the entire solutions to $\det D^2v = (1+|x|^2)^{-\beta}$ as well.
+  * We classify the entire solutions to degenerate Monge-Ampere equations $\det D^2u = (1+\|Du\|^2)^\beta$ on $\mathbb{R}^2$ for all $\beta<0$. The graphs of such solutions are the translating solitons to the flows by sub-affine-critical powers of Gauss curvature. In view of the Legendre transformation, this classifies the entire solutions to $\det D^2v = (1+\|x\|^2)^{-\beta}$ as well.
   * For the affine-critical-case $\det D^2u =1$, the celebrated result by Jorgens, Calabi and Pogorelov shows every solution must be a convex paraboloid and hence the level sets are homothetic ellipses. In our case, the level sets of given solution converge to a circle or a curve with $k$-fold symmetry for some $k>2$. These curves are closed shrinking curves to the curve shortening flows, classified by B. Andrews in 2003. Then we study the moduli space of solutions for each prescribed asymptotics. This is a joint work with K. Choi and S. Kim.
 
 * Matthew Stoffregen
