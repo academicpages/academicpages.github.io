@@ -21,7 +21,7 @@ My research interests are broadly defined at the intersection of Machine Learnin
 # News
 
 - **Dec, 2022:** Thank you to the Commonwealth Cyber Initiative (CCI) for the new funding! 
-- **Nov, 2022:** Gave a talk on multimodal explainable AI models for clinical reasoning ([slides](https://github.com/Isminoula/isminoula.github.io/blob/master/files/CriticalCareDataAnalysisSummit2022.pdf)) at the [Critical Care Data Analysis Summit and Tarragona Datathon 2022](https://www.datathontarragona.com/summit.html).
+- **Nov, 2022:** Gave a talk on multimodal explainable AI models for clinical reasoning ([slides](https://isminoula.github.io/files/CriticalCareDataAnalysisSummit2022.pdf)) at the [Critical Care Data Analysis Summit and Tarragona Datathon 2022](https://www.datathontarragona.com/summit.html).
 - **Oct, 2022:** Excited to receive an [Amazon-VT faculty research award](https://www.amazon.science/latest-news/amazon-and-virginia-tech-announce-inaugural-fellowship-and-faculty-research-award-recipients) to work on Embodied AI research!
 - **Oct, 2022:** Attending [INFORMS'22](https://meetings.informs.org/wordpress/indianapolis2022/) and presenting our privacy-preserving data sharing work.
 - **Oct, 2022:** Will be giving a talk on self-supervised machine learning at the [VT Statistics Colloquium](https://www.stat.vt.edu/about/colloquium-schedule.html). 
