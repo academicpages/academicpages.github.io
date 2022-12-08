@@ -4,6 +4,7 @@ title: "Awards and Honors"
 permalink: /awards/
 author_profile: true
 ---
+- Traveling Award, [4th Annual Immune Modulation and Engineering Symposium](https://drexel.edu/biomed/research-and-design/overview/IMES2022/), Drexel University, 2022.
 - [Mark and Lisa Schwartz AI/ML/Immunology Initiative Fellowship](https://ragoninstitute.org/get-involved/fellowships/), Ragon Institute & MIT, 2022.
 - Traveling Award, [The Rising Stars in Mechanical Engineering Workshop](https://risingstarsme.mit.edu/), MIT, 2021.
 - Corinna Borden Keen Research Fellowship, Brown University, 2019.
