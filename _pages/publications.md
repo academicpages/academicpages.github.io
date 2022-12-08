@@ -20,7 +20,7 @@ author_profile: true
 
 ## Preprints
 1. P. Kaplonek<sup>\*</sup>, **Y. Deng**<sup>\*</sup>, J. Lee, H. Zar, D. Zavadska, M. Johnson, D. A. Lauffenburger, D. Goldblatt, G. Alter. [Hybrid immunity expands the functional humoral footprint of both mRNA and vector-based SARS-CoV-2 vaccines](https://www.medrxiv.org/content/10.1101/2022.06.28.22276786v1). *medRxiv*, 2022.
-2. **Y. Deng**<sup>\*</sup>, K. Arao, C. Mantzoros, G. Karniadakis. [Patient-specific deep offline artificial pancreas for blood glucose regulation in type 1 diabetes](https://www.biorxiv.org/content/10.1101/2022.10.21.513303v1.abstract) *bioRxiv*, 2022.
+2. **Y. Deng**, K. Arao, C. Mantzoros, G. Karniadakis. [Patient-specific deep offline artificial pancreas for blood glucose regulation in type 1 diabetes](https://www.biorxiv.org/content/10.1101/2022.10.21.513303v1.abstract) *bioRxiv*, 2022.
 
 ## Journal Papers
 1. Q. Zhang, K. Sampani, M. Xu, S. Cai, **Y. Deng**, H. Li, J. K. Sun, G. Karniadakis. [AOSLO-net: A deep learning-based method for automatic segmentation of retinal microaneurysms from adaptive optics scanning laser ophthalmoscope images](https://tvst.arvojournals.org/article.aspx?articleid=2783552). *Translational Vision Science & Technology*, 11(8), 7-7, 2022
