@@ -13,10 +13,10 @@ Journal Publications
 Conference Publications
 ======
 * Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss. <var>The Transportation Research Board (TRB) 102nd Annual Meeting</var>.  **Co-First author [Accepted].**
-* Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning. <var>The 23rd COTA International Conference of Transportation Professionals (CICTP2023)</var>. (rank 3rd) [Awaiting Decision]
-* The Highway Region Boundary Based on Multi-Environmental Factors. <var>The 23rd COTA International Conference of Transportation Professionals (CICTP2023)</var>. **First author**[Awaiting Decision]
-* Analysis and Prediction of Pollutant Emission Characteristics of Highway Road Areas in Key Ecological Function Zones. <var>The 23rd COTA International Conference of Transportation Professionals (CICTP2023)</var>. (rank 3rd)[Awaiting Decision]
-* Analysis of noise pollution characteristics of highway road area. <var>The 23rd COTA International Conference of Transportation Professionals (CICTP2023)</var>. (rank 3rd)[Awaiting Decision]
+* Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning. <var>The 23rd COTA International Conference of Transportation Professionals (CICTP2023)</var>. (rank 3rd) [Accepted in 9 Dec. 2022]
+* The Highway Region Boundary Based on Multi-Environmental Factors. <var>The 23rd COTA International Conference of Transportation Professionals (CICTP2023)</var>. **First author**[Accepted in 9 Dec. 2022]
+* Analysis and Prediction of Pollutant Emission Characteristics of Highway Road Areas in Key Ecological Function Zones. <var>The 23rd COTA International Conference of Transportation Professionals (CICTP2023)</var>. (rank 3rd)[Accepted in 9 Dec. 2022]
+* Analysis of noise pollution characteristics of highway road area. <var>The 23rd COTA International Conference of Transportation Professionals (CICTP2023)</var>. (rank 3rd)[Accepted in 9 Dec. 2022]
 
 Patent
 ======
