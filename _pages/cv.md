@@ -160,14 +160,19 @@ Piñeiro, V., **Rodríguez, I.** , Igartua, J.J. (2014) _La Comunicación del Pa
 
 **Rodríguez-de-Dios, I.** (2022). Sesión paralela 1: Tecnología y sociedad. Forum 360 Observatorio Social de la Fundación La Caixa, Barcelona (Spain), 28 November 2022.
 
+**Rodríguez-de-Dios, I.** (2022). Adolescencia entre dispositivos digitales: Investigación y pánico moral. Escuela de Comunicación de la Universidad del Azuay, Cuenca (Ecuador), 25 April 2022.
+
+
 # RESEARCH VISITS
 ============
 ### Research stay at the Antwerp Social Lab 2022
 Antwerp Social Lab and MIOS (Media & ICT in Organisations and Society) research group, University of Antwerp (Belgium)
 25/04/2022 – 30/06/2022
+
 ### Research stay at the Institute for Media Studies 2018
 KU Leuven (Katholieke Universiteit Leuven, Belgium)
 12/02/2018 – 18/05/2018
+
 ### Research stay at the Center for research on Children, Adolescents and the Media 2017
 Amsterdam School of Communication Research (ASCoR), University of Amsterdam (The Netherlands)
 27/02/2017 – 30/06/2017
