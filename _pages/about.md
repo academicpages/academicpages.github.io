@@ -6,10 +6,12 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
+  - /now/
+  - /now.html
 ---
 {% include base_path %}
 
-I am an undergraduate at UCSD with hopes to pursue a role in SWE. I am double majoring in Math-Computer Science and Cognitive Science and enjoy learning about philosophy. I recently joined [The Computing for Social Good Lab at UCSD](https://melsherief.eng.ucsd.edu/research) where I am researching mental burnout and problem gambling on social media using NLP.
+I am an undergraduate at UC San Diego with hopes to pursue a role in SWE. I am double majoring in Math and Computer Science and minoring in Classical Studies. I am a member of [The Computing for Social Good Lab at UCSD](https://melsherief.eng.ucsd.edu/research) where I am researching mental burnout and problem gambling on social media using NLP.
 
 I am currently looking for a 2023 internship positions as a software engineer. Please check my [resume](https://godsped.com/cv) for links to my past experiences.
 
