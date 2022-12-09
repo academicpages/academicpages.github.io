@@ -18,6 +18,10 @@ I enjoy hiking, playing basketball and football during my free time.
 
 [[CV]](/files/cv.pdf)
 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=concept-inversion&label=Profile%20views&color=0e75b6&style=plastic" alt="concept-inversion" /> 
+</p>
+
 
 ### Recent News!!!
 ---
