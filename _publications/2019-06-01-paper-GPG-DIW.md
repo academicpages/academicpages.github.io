@@ -2,7 +2,7 @@
 title: "Gender pension gaps in Europe are more explicitly associated with labor markets than with pension systems"
 collection: publications
 permalink: /publication/2019-06-paper-GPG-DIW
-excerpt: <i>With Anna Hammerschmid<i>:'
+excerpt: '<i>With Anna Hammerschmid<i>:
 'Country-level analysis on the association between the Gender Pension Gap with i) gendered labour market inequalities and ii) characteristics of the pension systems'
 date: 2019-06-01
 venue: 'DIW Economic Bulletin'

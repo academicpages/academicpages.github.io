@@ -2,8 +2,8 @@
 title: "Gender Gaps in Pensions and Health: Germany, France, and Denmark"
 collection: publications
 permalink: /publication/2017-10-01-gaps-pension-health
-excerpt: '<i>With Peter Haan & Anna Hammerschmid<i>:'
-'Revealing similar cross-cpuntry patterns in gender gaps in pension income & mental health in Denmark, France & Germany'
+excerpt: '<i>With Peter Haan & Anna Hammerschmid<i>:
+Revealing similar cross-cpuntry patterns in gender gaps in pension income & mental health in Denmark, France & Germany'
 date: 2017-10-01
 venue: 'DIW Economic Bulletin'
 paperurl: 'https://www.diw.de/documents/publikationen/73/diw_01.c.567701.de/diw_econ_bull_2017-43-3.pdf'
