@@ -24,8 +24,10 @@ Robust Lane Detection through Self Pre-training with Masked Sequential Autoencod
 ---
 <br/><img src='/images/mask.jpg'>
 Figure.1 
+
 <br/><img src='/images/normal_result1.jpg'>
 Figure.2 
+
 <br/><img src='/images/challenge_result1.jpg'>
 Figure.3 
 
