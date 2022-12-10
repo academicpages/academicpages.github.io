@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Mehrab"
+title                    : "About Ranak"
 title_separator          : "-"
-name                     : &name "Mehrab Tanjim"
+name                     : &name "Ranak Roy Chowdhury"
 description              : &description "personal description"
-url                      : https://mehrab-tanjim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ranakroychowdhury.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mehrab-tanjim.github.io"
+repository               : "ranakroychowdhury.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mehrab Tanjim"
+  name             : "Ranak Roy Chowdhury"
   avatar           : "profile.png"
   bio              : "PhD Candidate at University of California, San Diego"
-  location         : "La Jolla, California"
+  location         : "La Jolla, California, United States"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=IPr2JZYAAAAJ&hl=en"
-  email            : "mehrabtanjim@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=kVPqPVUAAAAJ&hl=en&oi=ao"
+  email            : "rrchowdh@eng.ucsd.edu"
+  researchgate     : "https://www.researchgate.net/profile/Ranak-Roy-Chowdhury"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Mehrab-Tanjim"
+  github           : "ranakroychowdhury"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         : "mehrab-tanjim"
-  orcid            : 
+  linkedin         : "https://www.linkedin.com/in/ranakroychowdhury/"
+  orcid            : "https://orcid.org/0000-0002-8705-7485"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
