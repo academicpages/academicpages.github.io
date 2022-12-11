@@ -28,3 +28,7 @@ during Covid19. Plan to submit to CSCW 2024.
 
 Maggie Mengqing Zhang, **Xingjian Zhang**. “Pictures tell a thousand words”: using computer vision to explore trolls’ visual
 strategies. CVSS 2022 Workshop. Plan to submit to CHI 2023 Late Breaking Work.
+
+Project: Graph Visualization on Music App [Video](https://www.youtube.com/watch?v=gTI0JKvbVX8)
+
+Project: Creative particle simulation using Clion, Cinder [Video](https://www.youtube.com/watch?v=3d94nCH5cv0&t=1s)
