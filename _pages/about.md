@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Hi, welcome to my website!"
-excerpt: "About me"
+title: "Welcome to my website!"
+excerpt: "Owen"
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,7 +19,7 @@ I am primarily curious about how social technologies form people's persona and s
 2. Implementing tools and proposing suggestions to enhance the representation of minorities
 3. Investigating ways to improve work efficiency and transform the future of work.
 
-Currently, I am searching for HCI PhD positions 2023 Fall.
+**Currently, I am searching for HCI PhD positions 2023 Fall.**
 
 
 About my name
