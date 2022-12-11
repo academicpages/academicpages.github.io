@@ -10,13 +10,16 @@ redirect_from:
 
 I am Owen Xingjian Zhang, a senior undergrad student studying CS & Math in [University of Illinois, Urbana-Champaign](https://cs.illinois.edu/). Currently, I am interested in Social Computing and Human Computer Interaction(HCI), working under the supervision of [Prof. Karrie Karahalios](https://cs.illinois.edu/about/people/faculty/kkarahal) at Social Space Lab, [Prof. Brian Bailey](https://cs.illinois.edu/about/people/faculty/bpbailey) at Orchid Lab, and [Prof. Andrés Monroy-Hernández](https://www.andresmh.com/) at Princeton HCI. Before coming to US, I studied in [The Hong Kong Polytechnic Univeristy](https://www.polyu.edu.hk/en/) and I was born in Guiyang, China.
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
+
+
 Research Interest
 ======
 I am primarily curious about how social technologies form people's persona and shape their behaviors, how they can enhance the representation of minorities, and how they can improve teamwork efficiency. Specifically, I am interested in 
 1. Studying people's behavior as they experience different online social signals
 2. Implementing tools and proposing suggestions to enhance the representation of minorities
 3. Investigating ways to improve work efficiency and transform the future of work.
-Currently, I am searching for PhD positions
+Currently, I am searching for HCI PhD positions 2023 Fall.
+
 
 About my name
 ======
@@ -34,9 +37,11 @@ Example: The full sentence:
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Check status by going to the repository settings, in the "GitHub pages" section -->
 
-Site-wide configuration
+
+
+<!-- Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
