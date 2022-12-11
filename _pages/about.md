@@ -15,7 +15,12 @@ I spent several wonderful summers working as an Applied Scientist II intern at A
 
 <h2>Research Interests</h2>
 
-My current research focus is on crafting robust and data-efficient learning algorithms for Human-Centric AI, like human activity recognition, healthcare analytics (PPG, ECG, EEG, IMU, clinical/medical data) and speech processing. To learn more about my project, please feel free to take a look at my [projects](https://ranakroychowdhury.github.io/#projects) and relevant [publications](https://ranakroychowdhury.github.io/#publications)!
+I'm broadly interested in Data Mining Applications in Human-Centric AI:
+- Human Motion Understanding
+- Health Analytics
+- Speech Processing
+
+Most of my research projects focus on self-supervised learning to developing data-efficient and robust algorithms from sensor-based time-series (PPG, ECG, EEG, IMU, clinical/medical data). To learn more about my projects, please feel free to look into my [projects](https://ranakroychowdhury.github.io/#projects) and relevant [publications](https://ranakroychowdhury.github.io/#publications)!
 
 
 
