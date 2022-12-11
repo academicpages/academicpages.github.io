@@ -1,6 +1,6 @@
 ---
-title: "UIST 2022"
-excerpt: "Pictures taken in Bend, OR<br/><img src='/images/y1.jpg'><img src='/images/y2.jpg'><img src='/images/y3.jpg'>"
+title: "Yellowstone"
+excerpt: "Pictures taken in Yellowstone National Park, 2022 Summer<br/><img src='/images/y1.jpg'><img src='/images/y2.jpg'><img src='/images/y3.jpg'>"
 collection: portfolio
 ---
 

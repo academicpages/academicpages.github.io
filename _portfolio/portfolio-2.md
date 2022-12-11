@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "UIST 2022"
+excerpt: "Pictures taken in Bend, OR, 2022 Fall<br/><img src='/images/u1.jpg'><img src='/images/u2.jpg'><img src='/images/u3.jpg'>"
 collection: portfolio
 ---
 

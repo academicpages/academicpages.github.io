@@ -18,6 +18,7 @@ I am primarily curious about how social technologies form people's persona and s
 1. Studying people's behavior as they experience different online social signals
 2. Implementing tools and proposing suggestions to enhance the representation of minorities
 3. Investigating ways to improve work efficiency and transform the future of work.
+
 Currently, I am searching for HCI PhD positions 2023 Fall.
 
 
