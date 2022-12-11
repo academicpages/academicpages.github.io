@@ -8,11 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Ranak Roy Chowdhury, a PhD Student (4th year) in Computer Science with a specialization in Artificial Intelligence and Machine Learning at the University of California, San Diego (UCSD). My advisors are [Professor Rajesh K. Gupta](http://mesl.ucsd.edu/gupta/) and [Professor Jingbo Shang](https://shangjingbo1226.github.io/). My current research focus is on crafting robust and data-efficient learning algorithms for speech, sensory, and healthcare applications. To learn more about my project, please feel free to take a look at my [projects](https://ranakroychowdhury.github.io/#projects) and relevant [publications](https://ranakroychowdhury.github.io/#publications)!
+I’m a PhD Student (4th year) at UCSD Computer Science with a specialization in Data Mining, advised by [Professor Jingbo Shang](https://shangjingbo1226.github.io/) and Professor Rajesh K. Gupta](http://mesl.ucsd.edu/gupta/). I am grateful to Qualcomm and Halıcıoğlu Data Science Institute for their fellowship to support my research.
 
-After joining UCSD, I had the opportunity to work as an Applied Scientist II intern at Amazon Web Services' Speech Science Group (Summer 2022), a Data Science Intern at Nokia Bells Labs (Summer 2021) and a Software Development Engineer Intern at Amazon Web Services' Redshift Group. I am grateful to Qualcomm and Halıcıoğlu Data Science Institute for their fellowship to fund and support my research.
+I spent several wonderful summers working as an Applied Scientist II intern at Amazon Web Services Speech Science Group, a Data Science Intern at Nokia Bells Labs, and a Software Development Engineer Intern at Amazon Web Services Redshift Group. 
 
-<!-- Before joining UCSD, I was a Research Assistant working with [Dr. Muhammad Abdullah Adnan](https://sites.google.com/site/abdullahadnan/) at Bangladesh University of Engineering and Technology, where I completed my Bachelor's in Computer Science. There I spent a wonderful time developing streaming dimensionality reduction algorithms. -->
+
+<h2>Research Interests</h2>
+
+My current research focus is on crafting robust and data-efficient learning algorithms for Human-Centric AI, like human activity recognition, healthcare analytics (PPG, ECG, EEG, IMU, clinical/medical data) and speech processing. To learn more about my project, please feel free to take a look at my [projects](https://ranakroychowdhury.github.io/#projects) and relevant [publications](https://ranakroychowdhury.github.io/#publications)!
+
+
+
 
 <h1>Latest News</h1>
 
