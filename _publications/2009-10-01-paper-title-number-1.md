@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2022-10
 venue: 'Journal 1'
 paperurl: 'http://arxiv.org/abs/2209.09190'
-citation: 'Luca Silva, Giacomo Zanella(2022). &quot;Robust leave-one-out cross-validation for high-dimensional Bayesian.'%&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Luca Silva, Giacomo Zanella(2022).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
