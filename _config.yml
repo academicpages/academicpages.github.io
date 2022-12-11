@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Owen Xingjian Zhang"
-  avatar           : "profile.png"
-  bio              : "Senior undergrad in UIUC, CS & Math major"
+  avatar           : "/profile.png"
+  bio              : "Senior undergrad in UIUC"
   location         : "Urbana, IL"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Qk9lDtYAAAAJ&hl=en"
   email            : "xz90@illinois.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
