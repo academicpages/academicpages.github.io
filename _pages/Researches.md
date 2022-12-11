@@ -22,6 +22,7 @@ Robust Lane Detection through Self Pre-training with Masked Sequential Autoencod
 * Delivery: A research paper titled Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss
 
 ---
+<div align=center>
 <br/><img src='/images/mask.jpg'>
 Figure.1 
 
@@ -30,7 +31,7 @@ Figure.2
 
 <br/><img src='/images/challenge_result1.jpg'>
 Figure.3 
-
+</div>
 ---
 
 Research on ecological risk assessment and traffic carrying capacity of road areas in ecological function zones,Sep.2021 - Sep.2022
@@ -46,11 +47,12 @@ Lanzhou Jiaotong University | Research Assistant
 * Delivery: Completed a research report, and prepared a project proposal for the National Natural Science Foundation of China
 
 ---
+<div align=center>
 <br/><img src='/images/1.jpg'>
 Figure.4 Time series data (NDVI) using Landsat8 remote sensing images.
 <br/><img src='/images/4.png'>
 Figure.5 Correlation analysis between NDVI value and meteorology indexes.
-
+</div>
 ---
 
 Research on the mechanism of the rural roads on the revitalization of rural industries in Gansu Province,Sep.2020 - Aug.2021
