@@ -12,6 +12,6 @@ author_profile: true
 {{include archive-single.html}}
 
 {%for post in site.publications reversed%}
-  {{post}}
+  
 {%endfor%}
 
