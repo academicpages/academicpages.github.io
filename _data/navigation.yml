@@ -2,7 +2,7 @@
 main:
   - title: "CV"
     url: /cv/
-    
+
   - title: "Projects"
     url: /projects/
 
@@ -12,11 +12,11 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
   - title: "Photos"
-    url: /photos/
+    url: /portfolio/
+        
+  # - title: "Photos"
+  #   url: /photos/
     
 
     

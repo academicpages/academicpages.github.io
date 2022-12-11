@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Owen's Website"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Owen Xingjian Zhang"
 description              : &description "personal description"
