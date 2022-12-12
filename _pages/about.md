@@ -35,7 +35,7 @@ Will be attending AAAI '23 at Washington D.C. from Feb 7 - 14, 2023. Come and sa
 
 [June 2022] Joined Amazon Web Services (AWS) AI as an Applied Scientist II Intern at the Speech Science Group.
 
-[June 2022] Received my Master's degree in Computer Science (specialization in Machine Learning) from UCSD!
+[June 2022] Received my Master's degree in CS (specialization in AI & ML) from UCSD!
 
 [June 2022] Presented my Research Exam on [Learning Across Irregular and Asynchronous Time Series](https://drive.google.com/file/d/1AK1edhKizIZRbj3evpcFlPt_l40r4HLL/view?usp=sharing).
 
@@ -57,9 +57,9 @@ Will be attending AAAI '23 at Washington D.C. from Feb 7 - 14, 2023. Come and sa
 
 [February 2019] [Real Time Principal Component Analysis](https://ieeexplore.ieee.org/document/8731514) has been accepted to ICDE '19.
 
-[October 2018] Received my Bachelor's degree in Computer Science and Engineering (specialization in Artificial Intelligence and Machine Learning) from BUET!
+[October 2018] Received my Bachelor's degree in CSE (specialization in AI & ML) from BUET!
 
-[October 2018] Defended my Thesis on [Real Time Principal Component Analysis](https://drive.google.com/file/d/1ffzSaEF7o3vuWtz9dVNXdd9EcZWUaqny/view?usp=sharing).
+[October 2018] Defended my thesis on [Real Time Principal Component Analysis](https://drive.google.com/file/d/1ffzSaEF7o3vuWtz9dVNXdd9EcZWUaqny/view?usp=sharing)!
 
 
 
