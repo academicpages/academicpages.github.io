@@ -37,7 +37,7 @@ Will be attending AAAI '23 at Washington D.C. from Feb 7 - 14, 2023. Come and sa
 
 [June 2022] Received my Master's degree in CS (specialization in AI & ML) from UCSD!
 
-[June 2022] Presented my Research Exam on <a href="https://drive.google.com/file/d/1AK1edhKizIZRbj3evpcFlPt_l40r4HLL/view?usp=sharing" target="_blank">Learning Across Irregular and Asynchronous Time Series</a>.
+[June 2022] Presented my Research Exam on <a href="https://drive.google.com/file/d/1-mcb_nuEN8jZE4I5gXwLXdudRiLj_8Sz/view?usp=sharing" target="_blank">Learning Across Irregular and Asynchronous Time Series</a>.
 
 [May 2022] <a href="https://dl.acm.org/doi/10.1145/3534678.3539329" target="_blank">TARNet: Task-Aware Reconstruction for Time-Series Transformer</a> has been accepted to KDD '22.
 
@@ -61,7 +61,7 @@ Will be attending AAAI '23 at Washington D.C. from Feb 7 - 14, 2023. Come and sa
 
 [October 2018] Received my Bachelor's degree in CSE (specialization in AI & ML) from BUET!
 
-[October 2018] Defended my thesis on <a href="https://drive.google.com/file/d/1ffzSaEF7o3vuWtz9dVNXdd9EcZWUaqny/view?usp=sharing" target="_blank">Real Time Principal Component Analysis</a>!
+[October 2018] Defended my thesis on <a href="https://drive.google.com/file/d/16Sy0VkMstIVt5NQkrUiRKDICIG7rbLDM/view?usp=sharing" target="_blank">Real Time Principal Component Analysis</a>!
 
 -->
 
@@ -312,18 +312,29 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   
   <p>
     <b>PrimeNet: Pre-training for Irregular Multivariate Time-Series</b>
-    <br>Ranak Roy Chowdhury, Jiacheng Li, Xiyuan Zhang, Dezhi Hong, Jingbo Shang, Rajesh K. Gupta
+    <br><em>Ranak Roy Chowdhury</em>, Jiacheng Li, Xiyuan Zhang, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang
     <br>AAAI Conference on Artificial Intelligence (AAAI), 2023
     <br><a href="https://github.com/ranakroychowdhury/PrimeNet" target="_blank">code</a>
   </p>
   
   <p>
-    <b></b>
-    <br>Ranak Roy Chowdhury, Jiacheng Li, Xiyuan Zhang, Dezhi Hong, Jingbo Shang, Rajesh K. Gupta
-    <br>AAAI Conference on Artificial Intelligence (AAAI), 2023
+    <b>ESC-GAN: Extending Spatial Coverage of Physical Sensors</b>
+    <br>Xiyuan Zhang, <em>Ranak Roy Chowdhury</em>, Jingbo Shang, Rajesh Gupta, Dezhi Hong
+    <br>Web Search and Data Mining (WSDM), 2022
+    <br><a href="https://dl.acm.org/doi/abs/10.1145/3488560.3498461" target="_blank">paper</a> | 
+        <a href="https://github.com/xiyuanzh/ESC-GAN" target="_blank">code</a> | 
+        <a href="https://drive.google.com/file/d/1M37W1tHasqmc5pyuc6I7pdBzPVwzWOvW/view?usp=sharing" target="_blank">poster</a> |         
+        <a href="https://drive.google.com/file/d/1_AcKGJ2cpn548K81HEegvyED2eQHI5iu/view?usp=sharing" target="_blank">presentation</a>
+  </p>
+  
+  <p>
+    <b>TARNet: Task-Aware Reconstruction for Time-Series Transformer</b>
+    <br><em>Ranak Roy Chowdhury</em>, Xiyuan Zhang, Jingbo Shang, Rajesh K. Gupta, Dezhi Hong
+    <br> SIGKDD Conference On Knowledge Discovery and Data Mining (KDD), 2022
     <br><a href="https://dl.acm.org/doi/10.1145/3534678.3539329" target="_blank">paper</a> | 
         <a href="https://github.com/ranakroychowdhury/TARNet" target="_blank">code</a> | 
-        <a href="https://github.com/ranakroychowdhury/ranakroychowdhury.github.io/tree/master/files/kdd2022_tarnet_poster.pdf" target="_blank">poster</a> |         <a href="https://github.com/ranakroychowdhury/ranakroychowdhury.github.io/tree/master/files/kdd2022_tarnet_presentation.pdf"                                  target="_blank">presentation</a>
+        <a href="https://drive.google.com/file/d/13XrHTsPf6bhXiue0h1SunMhjYCtYRtLI/view?usp=sharing" target="_blank">poster</a> |         
+        <a href="https://drive.google.com/file/d/1APhSv_TxToGm-oHLz6TqA_0FQXqLjZCL/view?usp=sharing" target="_blank">presentation</a>
   </p>
 
 </div>
