@@ -25,21 +25,20 @@ layout: default
   </div>
 </div>
 <script>
-  let input = document.getElementById("search__input");
-  let btn = document.getElementById("search__btn");
-
-  btn.onclick=function(){
-    let s = input.value.toLowerCase()
-    let list = document.getElementsByClassName("list__item")
-    for(let i=0;i<list.length;i++){
-        let item = list[i]
-        let childr = [...item.firstChild.children]
-        let filtered = childr.filter(p=>p.innerHTML.toLowerCase().search(s) != -1)
-        if(filtered.length>0){
-            item.removeAttribute("hidden")
-        }else{
-            item.setAttribute("hidden",true)
-        }
-    }
+let input = document.getElementById("search__input");
+let btn = document.getElementById("search__btn");
+btn.onclick=function(){
+  let s = input.value.toLowerCase();
+  let list = document.getElementsByClassName("list__item");
+  for(let i=0;i<list.length;i++){
+      let item = list[i];
+      let childr = [...item.firstChild.children];
+      let filtered = childr.filter(p=>p.innerHTML.toLowerCase().search(s) != -1);
+      if(filtered.length>0){
+          item.removeAttribute("hidden");
+      }else{
+          item.setAttribute("hidden",true);
+      }
   }
+}
 </script>
