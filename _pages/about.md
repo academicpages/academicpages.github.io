@@ -27,19 +27,19 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 <h1>Latest News</h1>
 
-Will be attending AAAI at Washington D.C. from Feb 7 - 14, 2023. Come and say hi!
+Will be attending AAAI '23 at Washington D.C. from Feb 7 - 14, 2023. Come and say hi!
 
-[November 2022] "PrimeNet: Pre-Training for Irregular Multivariate Time Series" has been accepted at AAAI '23.
+[November 2022] "PrimeNet: Pre-Training for Irregular Multivariate Time Series" has been accepted to AAAI '23.
 
-[August 2022] Won the [Qualcomm Innovation Fellowship 2023](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america) for our proposal on "Robust Machine Learning in IoT Devices" (One of the 19 winners among 132 participants across North America).
+[August 2022] Won the [Qualcomm Innovation Fellowship 2023](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america) for our proposal on "Robust Machine Learning in IoT Devices".
 
 [August 2022] Presented my paper [TARNet: Task-Aware Reconstruction for Time-Series Transformer](https://dl.acm.org/doi/10.1145/3534678.3539329) at KDD '22 .
 
-[December 2021] Finalist in Adobe Fellowship Program'22.
+[June 2022] Joined Amazon Web Services (AWS) AI as an Applied Scientist II Intern at the Speech Science Group.
 
-[September 2021] Submitted my PhD thesis proposal, I am a PhD candidate now!
+[June 2022] Presented my Research Exam on [Learning Across Irregular and Asynchronous Time Series](https://drive.google.com/file/d/1AK1edhKizIZRbj3evpcFlPt_l40r4HLL/view?usp=sharing).
 
-[July 2021] Joint work with Adobe "Generating and Controlling Diversity in Image Search" has been accepted to WACV'22.
+[May 2022] [TARNet: Task-Aware Reconstruction for Time-Series Transformer](https://dl.acm.org/doi/10.1145/3534678.3539329) has been accepted to KDD'22.
 
 [June 2021] Joined Adobe GILL team as a Computer Vision, Imaging, and Video Intern.
 
