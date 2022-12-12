@@ -330,11 +330,36 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <p>
     <b>TARNet: Task-Aware Reconstruction for Time-Series Transformer</b>
     <br><em>Ranak Roy Chowdhury</em>, Xiyuan Zhang, Jingbo Shang, Rajesh K. Gupta, Dezhi Hong
-    <br> SIGKDD Conference On Knowledge Discovery and Data Mining (KDD), 2022
+    <br>SIGKDD Conference On Knowledge Discovery and Data Mining (KDD), 2022
     <br><a href="https://dl.acm.org/doi/10.1145/3534678.3539329" target="_blank">paper</a> | 
         <a href="https://github.com/ranakroychowdhury/TARNet" target="_blank">code</a> | 
         <a href="https://drive.google.com/file/d/13XrHTsPf6bhXiue0h1SunMhjYCtYRtLI/view?usp=sharing" target="_blank">poster</a> |         
         <a href="https://drive.google.com/file/d/1APhSv_TxToGm-oHLz6TqA_0FQXqLjZCL/view?usp=sharing" target="_blank">presentation</a>
+  </p>
+  
+  <p>
+    <b>UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification</b>
+    <br>Shuheng Li, <em>Ranak Roy Chowdhury</em>, Jingbo Shang, Rajesh K. Gupta, Dezhi Hong
+    <br>Conference on Embedded Networked Sensor Systems (SenSys), 2021
+    <br><a href="https://dl.acm.org/doi/abs/10.1145/3485730.3485942" target="_blank">paper</a> | 
+        <a href="https://github.com/Shuheng-Li/UniTS-Sensory-Time-Series-Classification" target="_blank">code</a> |        
+        <a href="https://drive.google.com/file/d/1MCIS23MGLbOy0Wlhu2dZy_9U7FExa_9m/view?usp=sharing" target="_blank">presentation</a>
+  </p>
+  
+  <p>
+    <b>Real-Time Principal Component Analysis</b>
+    <br><em>Ranak Roy Chowdhury</em>, Muhammad Abdullah Adnan, Rajesh K. Gupta
+    <br>Transactions on Data Science (TDS), Volume 1, Issue 2
+    <br><a href="https://dl.acm.org/doi/10.1145/3374750" target="_blank">paper</a>
+  </p>
+  
+  <p>
+    <b>Real-Time Principal Component Analysis</b>
+    <br><em>Ranak Roy Chowdhury</em>, Muhammad Abdullah Adnan, Rajesh K. Gupta
+    <br>International Conference on Data Engineering (ICDE), 2019
+    <br><a href="https://ieeexplore.ieee.org/document/8731514" target="_blank">paper</a> | 
+        <a href="https://drive.google.com/file/d/1ZQQJShafy8qpFDXrQLBY6ZYQwKFDjG_M/view?usp=sharing" target="_blank">poster</a> |        
+        <a href="https://drive.google.com/file/d/1gOqrRIKggmPr0Uz3UTrXs9j_3KQhE5QA/view?usp=sharing" target="_blank">presentation</a>
   </p>
 
 </div>
