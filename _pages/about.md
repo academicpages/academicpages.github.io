@@ -311,10 +311,19 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <div>
   
   <p>
-    <b>sSketch: A scalable sketching technique for PCA in the cloud</b>.
-    <br>Md Mehrab Tanjim, Muhammad Abdullah Adnan
-    <br>Web Search & Data Mining (WSDM), 2018
-    <br><a href="https://dl.acm.org/doi/abs/10.1145/3159652.3159736">pdf</a> | <a href="https://github.com/Mehrab-Tanjim/sSketch">code</a>
+    <b>PrimeNet: Pre-training for Irregular Multivariate Time-Series</b>
+    <br>Ranak Roy Chowdhury, Jiacheng Li, Xiyuan Zhang, Dezhi Hong, Jingbo Shang, Rajesh K. Gupta
+    <br>AAAI Conference on Artificial Intelligence (AAAI), 2023
+    <br><a href="https://github.com/ranakroychowdhury/PrimeNet" target="_blank">code</a>
+  </p>
+  
+  <p>
+    <b></b>
+    <br>Ranak Roy Chowdhury, Jiacheng Li, Xiyuan Zhang, Dezhi Hong, Jingbo Shang, Rajesh K. Gupta
+    <br>AAAI Conference on Artificial Intelligence (AAAI), 2023
+    <br><a href="https://dl.acm.org/doi/10.1145/3534678.3539329" target="_blank">paper</a> | 
+        <a href="https://github.com/ranakroychowdhury/TARNet" target="_blank">code</a> | 
+        <a href="https://github.com/ranakroychowdhury/ranakroychowdhury.github.io/tree/master/files/kdd2022_tarnet_poster.pdf" target="_blank">poster</a> |         <a href="https://github.com/ranakroychowdhury/ranakroychowdhury.github.io/tree/master/files/kdd2022_tarnet_presentation.pdf"                                  target="_blank">presentation</a>
   </p>
 
 </div>
