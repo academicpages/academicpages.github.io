@@ -363,18 +363,21 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   </p>
   
   <p>
-    <b>Enhancing Human Activity Recognition via Label Name Modeling [<em>under submission</em>]</b>
+    <b>Enhancing Human Activity Recognition via Label Name Modeling</b>
     <br>Xiyuan Zhang, <em>Ranak Roy Chowdhury</em>, Dezhi Hong, Rajesh Gupta, Jingbo Shang
+    <br><em>[under submission]</em>
   </p>
   
   <p>
-    <b>RIoT: Towards Robust Learning for Internet-of-Things [<em>under submission</em>]</b>
+    <b>RIoT: Towards Robust Learning for Internet-of-Things</b>
     <br><em>Ranak Roy Chowdhury</em>, Dezhi Hong, Rajesh Gupta, Jingbo Shang
+    <br><em>[under submission]</em>
   </p>
   
   <p>
-    <b>Towards Diverse and Coherent Augmentation for Time-Series Forecasting [<em>under submission</em>]</b>
+    <b>Towards Diverse and Coherent Augmentation for Time-Series Forecasting</b>
     <br>Xiyuan Zhang, <em>Ranak Roy Chowdhury</em>, Dezhi Hong, Rajesh Gupta, Jingbo Shang
+    <br><em>[under submission]</em>
   </p>
 
 </div>
