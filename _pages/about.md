@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a PhD Student (4th year) at UCSD Computer Science with a specialization in Data Mining, advised by [Professor Jingbo Shang](https://shangjingbo1226.github.io/) and Professor Rajesh K. Gupta](http://mesl.ucsd.edu/gupta/). I am grateful to Qualcomm and Halıcıoğlu Data Science Institute for their fellowship to support my research.
+I’m a PhD Student (4th year) at UCSD Computer Science with a specialization in Data Mining, advised by [Professor Jingbo Shang](https://shangjingbo1226.github.io/) and [Professor Rajesh K. Gupta](http://mesl.ucsd.edu/gupta/). I am grateful to Qualcomm and Halıcıoğlu Data Science Institute for their fellowship to support my research.
 
 I spent several wonderful summers working as an Applied Scientist II intern at Amazon Web Services Speech Science Group, a Data Science Intern at Nokia Bells Labs, and a Software Development Engineer Intern at Amazon Web Services Redshift Group. 
 
