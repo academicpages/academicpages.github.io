@@ -10,7 +10,7 @@ redirect_from:
 
 I’m a PhD Student (4th year) at UCSD Computer Science with a specialization in Data Mining, advised by [Professor Jingbo Shang](https://shangjingbo1226.github.io/) and [Professor Rajesh K. Gupta](http://mesl.ucsd.edu/gupta/). I am grateful to Qualcomm and Halıcıoğlu Data Science Institute for their fellowship to support my research.
 
-I spent several wonderful summers working as an Applied Scientist II intern at Amazon Web Services Speech Science Group, a Data Science Intern at Nokia Bells Labs, and a Software Development Engineer Intern at Amazon Web Services Redshift Group. 
+I spent several wonderful summers working as an Applied Scientist II Intern at AWS AI, a Data Science Intern at Nokia Bells Labs, and a Software Development Engineer Intern at AWS Redshift. 
 
 
 <h2>Research Interests</h2>
@@ -31,21 +31,29 @@ Will be attending AAAI '23 at Washington D.C. from Feb 7 - 14, 2023. Come and sa
 
 [November 2022] "PrimeNet: Pre-Training for Irregular Multivariate Time Series" has been accepted to AAAI '23.
 
-[August 2022] Won the [Qualcomm Innovation Fellowship 2023](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america) for our proposal on "Robust Machine Learning in IoT Devices".
-
-[August 2022] Presented my paper [TARNet: Task-Aware Reconstruction for Time-Series Transformer](https://dl.acm.org/doi/10.1145/3534678.3539329) at KDD '22 .
+[August 2022] Won the [Qualcomm Innovation Fellowship 2023](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america) for our proposal on "Robust Machine Learning in IoT Devices"!
 
 [June 2022] Joined Amazon Web Services (AWS) AI as an Applied Scientist II Intern at the Speech Science Group.
 
+[June 2022] Received my Master's degree in Computer Science (specialization in Machine Learning) from UCSD!
+
 [June 2022] Presented my Research Exam on [Learning Across Irregular and Asynchronous Time Series](https://drive.google.com/file/d/1AK1edhKizIZRbj3evpcFlPt_l40r4HLL/view?usp=sharing).
 
-[May 2022] [TARNet: Task-Aware Reconstruction for Time-Series Transformer](https://dl.acm.org/doi/10.1145/3534678.3539329) has been accepted to KDD'22.
+[May 2022] [TARNet: Task-Aware Reconstruction for Time-Series Transformer](https://dl.acm.org/doi/10.1145/3534678.3539329) has been accepted to KDD '22.
 
-[June 2021] Joined Adobe GILL team as a Computer Vision, Imaging, and Video Intern.
+[October 2021] [ESC-GAN: Extending Spatial Coverage of Physical Sensors](https://dl.acm.org/doi/abs/10.1145/3488560.3498461) has been accepted to WSDM '22.
 
-[March 2021] Received my Master's degree in CS (specialization in Machine Learning) from UCSD!
+[September 2021] [UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification](https://dl.acm.org/doi/10.1145/3485730.3485942) has been accepted to SenSys '21. 
 
-[January 2021] Joint work with BUET "Fast, scalable and geo-distributed PCA for big data analytics" has been accepted to Information Systems'21. 
+[June 2021] Joined Nokia Bell Labs as a Data Science Intern at the Statistics and Data Science Group.
+
+[June 2020] Joined Amazon Web Services (AWS) Redshift as a Software Development Engineer Intern.
+
+[November 2019] [Real Time Principal Component Analysis](https://dl.acm.org/doi/10.1145/3374750) has been accepted to ACM Transactions on Data Science.
+
+[June 2019] Won the [Halıcıoğlu Data Science Institute Graduate Prize Fellowship Award](https://hdsi-web.sdsc.edu/2019/07/)!
+
+
 
 
 <div id="projects">
