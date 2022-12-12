@@ -20,7 +20,7 @@ I'm broadly interested in Data Mining Applications in Human-Centric AI:
 - Health Analytics
 - Speech Processing
 
-Most of my research projects focus on self-supervised learning to developing data-efficient and robust algorithms from sensor-based time-series (PPG, ECG, EEG, IMU, clinical/medical data). To learn more about my projects, please feel free to look into my [projects](https://ranakroychowdhury.github.io/#projects) and relevant [publications](https://ranakroychowdhury.github.io/#publications)!
+Most of my research projects focus on self-supervised learning to developing data-efficient and robust algorithms from sensor-based time-series (PPG, ECG, EEG, IMU, clinical/medical data, wearable sensors). To learn more about my projects, please feel free to look into my [projects](https://ranakroychowdhury.github.io/#projects) and relevant [publications](https://ranakroychowdhury.github.io/#publications)!
 
 
 
