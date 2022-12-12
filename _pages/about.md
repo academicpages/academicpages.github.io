@@ -45,6 +45,8 @@ Will be attending AAAI '23 at Washington D.C. from Feb 7 - 14, 2023. Come and sa
 
 [September 2021] [UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification](https://dl.acm.org/doi/10.1145/3485730.3485942) has been accepted to SenSys '21. 
 
+<!--
+
 [June 2021] Joined Nokia Bell Labs as a Data Science Intern at the Statistics and Data Science Group.
 
 [June 2020] Joined Amazon Web Services (AWS) Redshift as a Software Development Engineer Intern.
@@ -60,6 +62,8 @@ Will be attending AAAI '23 at Washington D.C. from Feb 7 - 14, 2023. Come and sa
 [October 2018] Received my Bachelor's degree in CSE (specialization in AI & ML) from BUET!
 
 [October 2018] Defended my thesis on [Real Time Principal Component Analysis](https://drive.google.com/file/d/1ffzSaEF7o3vuWtz9dVNXdd9EcZWUaqny/view?usp=sharing)!
+
+-->
 
 
 
