@@ -335,6 +335,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
         <a href="https://github.com/ranakroychowdhury/TARNet" target="_blank">code</a> | 
         <a href="https://drive.google.com/file/d/13XrHTsPf6bhXiue0h1SunMhjYCtYRtLI/view?usp=sharing" target="_blank">poster</a> |         
         <a href="https://drive.google.com/file/d/1APhSv_TxToGm-oHLz6TqA_0FQXqLjZCL/view?usp=sharing" target="_blank">presentation</a>
+    <br><em>Awarded Travel Grant</em>
   </p>
   
   <p>
@@ -360,6 +361,24 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
     <br><a href="https://ieeexplore.ieee.org/document/8731514" target="_blank">paper</a> | 
         <a href="https://drive.google.com/file/d/1ZQQJShafy8qpFDXrQLBY6ZYQwKFDjG_M/view?usp=sharing" target="_blank">poster</a> |        
         <a href="https://drive.google.com/file/d/1gOqrRIKggmPr0Uz3UTrXs9j_3KQhE5QA/view?usp=sharing" target="_blank">presentation</a>
+  </p>
+  
+  <p>
+    <b>Enhancing Human Activity Recognition via Label Name Modeling</b>
+    <br>Xiyuan Zhang, <em>Ranak Roy Chowdhury</em>, Dezhi Hong, Rajesh Gupta, Jingbo Shang
+    <br><em>under submission</em>
+  </p>
+  
+  <p>
+    <b>RIoT: Towards Robust Learning for Internet-of-Things</b>
+    <br><em>Ranak Roy Chowdhury</em>, Dezhi Hong, Rajesh Gupta, Jingbo Shang
+    <br><em>under submission</em>
+  </p>
+  
+  <p>
+    <b>Towards Diverse and Coherent Augmentation for Time-Series Forecasting</b>
+    <br>Xiyuan Zhang, <em>Ranak Roy Chowdhury</em>, Dezhi Hong, Rajesh Gupta, Jingbo Shang
+    <br><em>under submission</em>
   </p>
 
 </div>
