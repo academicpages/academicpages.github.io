@@ -25,18 +25,16 @@ layout: default
   </div>
 </div>
 <script>
-  console.log("loaded script")
-  input = document.getElementById("search__input")
-  btn = document.getElementById("search__btn")
+  const input = document.getElementById("search__input")
+  const btn = document.getElementById("search__btn")
 
   btn.onclick=function(){
-    console.log("click search")
-    s = input.value.toLowerCase()
-    list = document.getElementsByClassName("list__item")
+    let s = input.value.toLowerCase()
+    let list = document.getElementsByClassName("list__item")
     for(let i=0;i<list.length;i++){
-        item = list[i]
-        childr = [...item.firstChild.children]
-        filtered = childr.filter(p=>p.innerHTML.toLowerCase().search(s) != -1)
+        let item = list[i]
+        let childr = [...item.firstChild.children]
+        let filtered = childr.filter(p=>p.innerHTML.toLowerCase().search(s) != -1)
         if(filtered.length>0){
             item.removeAttribute("hidden")
         }else{
