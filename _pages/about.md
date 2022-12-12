@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a PhD Student (4th year) at UCSD Computer Science with a specialization in Data Mining, advised by <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a>................$$$$$............ [Professor Jingbo Shang](https://shangjingbo1226.github.io/) and [Professor Rajesh K. Gupta](http://mesl.ucsd.edu/gupta/). I am grateful to Qualcomm and Halıcıoğlu Data Science Institute for their fellowship to support my research.
+I’m a PhD Student (4th year) at UCSD Computer Science with a specialization in Data Mining, advised by <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a> and <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a>. I am grateful to Qualcomm and Halıcıoğlu Data Science Institute for their fellowship to support my research.
 
 I spent several wonderful summers working as an Applied Scientist II Intern at AWS AI, a Data Science Intern at Bell Labs, and a Software Development Engineer Intern at AWS Redshift. 
 
@@ -31,19 +31,19 @@ Will be attending AAAI '23 at Washington D.C. from Feb 7 - 14, 2023. Come and sa
 
 [November 2022] "PrimeNet: Pre-Training for Irregular Multivariate Time Series" has been accepted to AAAI '23.
 
-[August 2022] Won the [Qualcomm Innovation Fellowship 2023](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america) for our proposal on "Robust Machine Learning in IoT Devices"!
+[August 2022] Won the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm Innovation Fellowship 2023</a> for our proposal on "Robust Machine Learning in IoT Devices"!
 
 [June 2022] Joined Amazon Web Services (AWS) AI as an Applied Scientist II Intern at the Speech Science Group.
 
 [June 2022] Received my Master's degree in CS (specialization in AI & ML) from UCSD!
 
-[June 2022] Presented my Research Exam on [Learning Across Irregular and Asynchronous Time Series](https://drive.google.com/file/d/1AK1edhKizIZRbj3evpcFlPt_l40r4HLL/view?usp=sharing).
+[June 2022] Presented my Research Exam on <a href="https://drive.google.com/file/d/1AK1edhKizIZRbj3evpcFlPt_l40r4HLL/view?usp=sharing" target="_blank">Learning Across Irregular and Asynchronous Time Series</a>.
 
-[May 2022] [TARNet: Task-Aware Reconstruction for Time-Series Transformer](https://dl.acm.org/doi/10.1145/3534678.3539329) has been accepted to KDD '22.
+[May 2022] <a href="https://dl.acm.org/doi/10.1145/3534678.3539329" target="_blank">TARNet: Task-Aware Reconstruction for Time-Series Transformer</a> has been accepted to KDD '22.
 
-[October 2021] [ESC-GAN: Extending Spatial Coverage of Physical Sensors](https://dl.acm.org/doi/abs/10.1145/3488560.3498461) has been accepted to WSDM '22.
+[October 2021] <a href="https://dl.acm.org/doi/abs/10.1145/3488560.3498461" target="_blank">ESC-GAN: Extending Spatial Coverage of Physical Sensors</a> has been accepted to WSDM '22.
 
-[September 2021] [UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification](https://dl.acm.org/doi/10.1145/3485730.3485942) has been accepted to SenSys '21. 
+[September 2021] <a href="https://dl.acm.org/doi/10.1145/3485730.3485942" target="_blank">UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification</a> has been accepted to SenSys '21. 
 
 <!--
 
@@ -51,17 +51,17 @@ Will be attending AAAI '23 at Washington D.C. from Feb 7 - 14, 2023. Come and sa
 
 [June 2020] Joined Amazon Web Services (AWS) Redshift as a Software Development Engineer Intern.
 
-[November 2019] [Real Time Principal Component Analysis](https://dl.acm.org/doi/10.1145/3374750) has been accepted to ACM Transactions on Data Science.
+[November 2019] <a href="https://dl.acm.org/doi/10.1145/3374750" target="_blank">Real Time Principal Component Analysis</a> has been accepted to ACM Transactions on Data Science.
 
 [August 2019] Attended The Cornell, Maryland, Max Planck Pre-doctoral Research School 2019 at Saarbrücken, Germany.
 
-[June 2019] Won the [Halıcıoğlu Data Science Institute Graduate Prize Fellowship Award](https://hdsi-web.sdsc.edu/2019/07/)!
+[June 2019] Won the <a href="https://hdsi-web.sdsc.edu/2019/07/" target="_blank">Halıcıoğlu Data Science Institute Graduate Prize Fellowship Award</a>!
 
-[February 2019] [Real Time Principal Component Analysis](https://ieeexplore.ieee.org/document/8731514) has been accepted to ICDE '19.
+[February 2019] <a href="https://ieeexplore.ieee.org/document/8731514" target="_blank">Real Time Principal Component Analysis</a> has been accepted to ICDE '19.
 
 [October 2018] Received my Bachelor's degree in CSE (specialization in AI & ML) from BUET!
 
-[October 2018] Defended my thesis on [Real Time Principal Component Analysis](https://drive.google.com/file/d/1ffzSaEF7o3vuWtz9dVNXdd9EcZWUaqny/view?usp=sharing)!
+[October 2018] Defended my thesis on <a href="https://drive.google.com/file/d/1ffzSaEF7o3vuWtz9dVNXdd9EcZWUaqny/view?usp=sharing" target="_blank">Real Time Principal Component Analysis</a>!
 
 -->
 
