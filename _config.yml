@@ -4,14 +4,14 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
-
+#https://mike31860.github.io/rudolfEigenmann.github.io/
 # Site Settings
 locale                   : "en-US"
 title                    : "Rudolf Eigenmann"
 title_separator          : "-"
 name                     : &name "Rudolf Eigenmann"
 description              : &description "Professor Electrical and Computer Engineering"
-url                      : https://mike31860.github.io/rudolfEigenmann.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mike31860.github.io/rudolfEigenmann.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mike31860.github.io/rudolfEigenmann.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
