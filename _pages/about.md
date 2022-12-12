@@ -27,13 +27,13 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 <h1>Latest News</h1>
 
-[September 2022] Joined The Home Depot Online Data Science team as a Data Science Intern (part-time, co-op program).
+Will be attending AAAI at Washington D.C. from Feb 7 - 14, 2023. Come and say hi!
 
-[September 2022] Joint work with Adobe "Discovering and Mitigating Biases in CLIP-based Text-to-Image Generation" accepted as a post at Responsible Computer Vision at ECCV'22.
+[November 2022] "PrimeNet: Pre-Training for Irregular Multivariate Time Series" has been accepted at AAAI '23.
 
-[August 2022] Joint work with Adobe "Debiasing Image-to-Image Translation Models" accepted in BMVC'22.
+[August 2022] Won the [Qualcomm Innovation Fellowship 2023](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america) for our proposal on "Robust Machine Learning in IoT Devices" (One of the 19 winners among 132 participants across North America).
 
-[June 2022] Joined Adobe REAL team as a Research Scientist Intern.
+[August 2022] Presented my paper [TARNet: Task-Aware Reconstruction for Time-Series Transformer](https://dl.acm.org/doi/10.1145/3534678.3539329) at KDD '22 .
 
 [December 2021] Finalist in Adobe Fellowship Program'22.
 
