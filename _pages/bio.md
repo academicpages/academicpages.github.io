@@ -17,6 +17,7 @@ redirect_from:
 * Ph.D in Economics, University of Illinois at Urbana-Champaign, 2019
 
 ## Positions
- * Centre College - Visiting Assistant Professor of Economics, 2021-
+ * Forward College - Assistant Professor of Economics, 2022-
+ * Centre College - Visiting Assistant Professor of Economics, 2021-2022
  * Oberlin College - Visiting Assistant Professor of Economics, 2019-2021
 
