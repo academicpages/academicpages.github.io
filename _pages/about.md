@@ -330,12 +330,11 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <p>
     <b>TARNet: Task-Aware Reconstruction for Time-Series Transformer</b>
     <br><em>Ranak Roy Chowdhury</em>, Xiyuan Zhang, Jingbo Shang, Rajesh K. Gupta, Dezhi Hong
-    <br>SIGKDD Conference On Knowledge Discovery and Data Mining (KDD), 2022
+    <br>SIGKDD Conference On Knowledge Discovery and Data Mining (KDD), 2022. [<em> Awarded Travel Grant</em>]
     <br><a href="https://dl.acm.org/doi/10.1145/3534678.3539329" target="_blank">paper</a> | 
         <a href="https://github.com/ranakroychowdhury/TARNet" target="_blank">code</a> | 
         <a href="https://drive.google.com/file/d/13XrHTsPf6bhXiue0h1SunMhjYCtYRtLI/view?usp=sharing" target="_blank">poster</a> |         
         <a href="https://drive.google.com/file/d/1APhSv_TxToGm-oHLz6TqA_0FQXqLjZCL/view?usp=sharing" target="_blank">presentation</a>
-    <br><em>Awarded Travel Grant</em>
   </p>
   
   <p>
