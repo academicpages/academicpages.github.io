@@ -51,7 +51,15 @@ Will be attending AAAI '23 at Washington D.C. from Feb 7 - 14, 2023. Come and sa
 
 [November 2019] [Real Time Principal Component Analysis](https://dl.acm.org/doi/10.1145/3374750) has been accepted to ACM Transactions on Data Science.
 
+[August 2019] Attended The Cornell, Maryland, Max Planck Pre-doctoral Research School 2019 at Saarbrücken, Germany.
+
 [June 2019] Won the [Halıcıoğlu Data Science Institute Graduate Prize Fellowship Award](https://hdsi-web.sdsc.edu/2019/07/)!
+
+[February 2019] [Real Time Principal Component Analysis](https://ieeexplore.ieee.org/document/8731514) has been accepted to ICDE '19.
+
+[October 2018] Received my Bachelor's degree in Computer Science and Engineering (specialization in Artificial Intelligence and Machine Learning) from BUET!
+
+[October 2018] Defended my Thesis on [Real Time Principal Component Analysis](https://drive.google.com/file/d/1ffzSaEF7o3vuWtz9dVNXdd9EcZWUaqny/view?usp=sharing).
 
 
 
