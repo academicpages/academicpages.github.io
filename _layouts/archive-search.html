@@ -19,16 +19,18 @@ layout: default
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
       <input id="search__input" class="page__title" placeholder="Search publication">
-      <button id="search__btn" class="page__title"></button>
+      <button id="search__btn" class="page__title">Search</button>
     {% endunless %}
     {{ content }}
   </div>
 </div>
 <script>
+  console.log("loaded script")
   input = document.getElementById("search__input")
   btn = document.getElementById("search__btn")
-  
+
   btn.onclick=function(){
+    console.log("click search")
     s = input.value.toLowerCase()
     list = document.getElementsByClassName("list__item")
     for(let i=0;i<list.length;i++){
