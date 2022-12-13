@@ -308,7 +308,7 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>Self-Supervised Accent Robust Speech Representation Learning</b>
+    <b>Accent Robust Speech Pre-Training</b>
     <br>Built a pre-trained model for accent-robust speech representation that improves performance on several downstream tasks, like <b>Speech Recognition by 20.4%</b> and <b>Speaker Verification by 6.3%</b>, across <b>12 minority accents</b> with few minutes of training data.
     </p>
   </div>
