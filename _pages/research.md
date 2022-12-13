@@ -37,6 +37,16 @@ More recently, I developed, IoTCupid, a new secure, and usable decentralized gro
 
 First, I developed <a href='/files/S3.pdf'>S3</a> attack to demonstrate that modern stylus pencils, a popular accessory used to write, draw, and make selections on smartphones and tablets, have embedded magnets that trigger fluctuations in on-device magnetometer readings when a user interacts with the device using the pencil. I specifically focused on Apple Pencil and showed that a benign malicious app running in the background on a target user’s device can infer what the user is writing from the fluctuations in the permissionless magnetometer sensor’s data. To account for the extensive changes in pencil's position and orientation while a user is writing, through the interplay of signal processing, computer vision, and machine learning techniques, I designed a novel tracking algorithm to track the pencil’s tip movement using the magnetic field data to identify users’ writing. This work was presented at UbiComp 2021.
 
+ <p align="center">
+ <a href='https://youtu.be/W3cb42cPugI'><img src="/files/s3_teaser.png"
+     alt="S3 - Teaser Video"
+     style="display:block;
+        margin-left: auto;
+        margin-right: auto;" /></a>
+ <br>
+ <em>UbiComp 2021 - S3 Presentation</em>
+ </p>
+
 Following S3, my collaborators and I presented a second attack, iStelan, a new side-channel that reveals users’ touch events from permissionless magnetometer sensor data. We exploit the revealed touch event patterns to fingerprint the type of app a user is using, and model touch events to identify users’ touch event types performed on different apps. This work will appear at PoPETs 2023.
 
 In a more recent work, I developed LocIn attack to show that apps’ access to 3D spatial maps collected by mixed reality devices (e.g., HoloLens, iPad Pro with LiDAR) allows adversaries to infer users’ indoor environment, i.e., semantic location, without explicit user permission or any prior knowledge about the user. I introduced a new multi-task learning representation for location inference that unifies the geometric and contextual patterns embedded in the spatial map to infer a user’s location. I evaluated LocIn on three popular MR devices and showed that it can accurately infer a user’s location and is robust against varying size and sparsity of the spatial maps. This work is currently under submission at a top-tier security venue.
