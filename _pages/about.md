@@ -404,7 +404,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 	
 
 <div id="awards">
-<h1>Awards</h1>
+<h1>Honors and Awards</h1>
 	
 <div>
 	
