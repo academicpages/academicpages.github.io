@@ -18,7 +18,6 @@ Current and Recent Projects
 
 Investigating impacts of algorithmic policing on city communities
 
-![image](https://github.com/aulichney/aulichney.github.io/blob/master/images/deforestation.png){: style="float: left"}
 
 ### Interpretable Machine Learning and Amazonian Deforestation
 
