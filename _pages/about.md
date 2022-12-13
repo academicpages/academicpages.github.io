@@ -309,7 +309,7 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
   <div class="archive__proj__right">
     <p>
     <b>Self-Supervised Accent Robust Speech Representation Learning</b>
-    <br>Built a pre-trained model for accent-robust speech representation that improves performance on several downstream tasks, like Speech Recognition by 20.4% and Speaker Verification by 6.3%, across 12 minority accents with few minutes of training data.
+    <br>Built a pre-trained model for accent-robust speech representation that improves performance on several downstream tasks, like <b>Speech Recognition by 20.4%</b> and <b>Speaker Verification by 6.3%</b>, across <b>12 minority accents</b> with few minutes of training data.
     </p>
   </div>
   <div class="archive__proj__left">
@@ -321,14 +321,31 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
 
 	
 <h2>Nokia Bell Labs</h2>
-<em>Data Science Intern</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jun 2022 - Aug 2022
+<em>Data Science Intern</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jun 2021 - Aug 2021
 
- 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
     <b>Automated Ticket Resolution from Semi-Structured Log Data</b>
-    <br>
+    <br>Developed an ML pipeline to automate ticket resolution by conducting data cleaning, preprocessing, and visualization on time-series semi-structured system-level log corpus, followed by statistical feature extraction and classification.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+     <div>
+        <img src="https://mehrab-tanjim.github.io/images/digitor.gif"> 
+    </div>
+  </div>
+</div>
+
+	
+<h2>Amazon Web Services</h2>
+<em>Software Development Engineer Intern</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jun 2020 - Sep 2020
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b></b>
+    <br>Built a SHAP-based ML Explainability tool for AWS Redshift ML, facilitating users to write SQL queries to introspect model predictions, improving execution speed by 2x and reducing memory footprint by 90% over existing workflow in AWS Sagemaker.
     </p>
   </div>
   <div class="archive__proj__left">
@@ -338,23 +355,7 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
   </div>
 </div>
 	
-<h2>Amazon Web Services</h2>
-<em>Applied Scientist II Intern </em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jun 2022 - Sep 2022
 
- 
-<div class="archive__proj__row">
-  <div class="archive__proj__right">
-    <p>
-    <b>Self-Supervised Accent Robust Speech Representation Learning</b>
-    <br>Built a pre-trained model for accent-robust speech representation that improves performance on several downstream tasks, like Speech Recognition by 20.4% and Speaker Verification by 6.3%, across 12 minority accents with few minutes of training data.
-    </p>
-  </div>
-  <div class="archive__proj__left">
-     <div>
-        <img src="https://mehrab-tanjim.github.io/images/digitor.gif"> 
-    </div>
-  </div>
-</div>
 </div>
 
 
