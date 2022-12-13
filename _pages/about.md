@@ -314,14 +314,14 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
   </div>
   <div class="archive__proj__left">
      <div>
-        <img src="https://mehrab-tanjim.github.io/images/digitor.gif"> 
+        <img src="https://ranakroychowdhury.github.io/images/aws.png"> 
     </div>
   </div>
 </div>
 
 	
 <h2>Nokia Bell Labs</h2>
-<em>Data Science Intern</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jun 2021 - Aug 2021
+<em>Data Science Intern</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jun 2021 - Aug 2021
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -332,25 +332,29 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
   </div>
   <div class="archive__proj__left">
      <div>
-        <img src="https://mehrab-tanjim.github.io/images/digitor.gif"> 
+        <img src="https://ranakroychowdhury.github.io/images/bell_labs.png"> 
     </div>
   </div>
 </div>
 
 	
 <h2>Amazon Web Services</h2>
-<em>Software Development Engineer Intern</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jun 2020 - Sep 2020
+<em>Software Development Engineer Intern</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jun 2020 - Sep 2020
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b></b>
+    <b>Model Explainability from SQL Surface for Redshift ML</b>
     <br>Built a SHAP-based ML Explainability tool for AWS Redshift ML, facilitating users to write SQL queries to introspect model predictions, improving execution speed by 2x and reducing memory footprint by 90% over existing workflow in AWS Sagemaker.
+    <br><a href="https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-redshift-ml-preview/" target="_blank">Preview</a> | 
+    <a href="https://aws.amazon.com/about-aws/whats-new/2021/05/aws-announces-general-availability-of-amazon-redshift-ml/" target="_blank">Press Release</a> | 
+    <a href="https://aws.amazon.com/blogs/aws/amazon-redshift-ml-is-now-generally-available-use-sql-to-create-machine-learning-models-and-make-predictions-from-your-data/" target="_blank">Blog</a> |
+    <a href="https://docs.aws.amazon.com/redshift/latest/dg/machine_learning.html" target="_blank">Documentation</a>
     </p>
   </div>
   <div class="archive__proj__left">
      <div>
-        <img src="https://mehrab-tanjim.github.io/images/digitor.gif"> 
+        <img src="https://ranakroychowdhury.github.io/images/aws.png"> 
     </div>
   </div>
 </div>
