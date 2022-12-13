@@ -345,7 +345,7 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
   <div class="archive__proj__right">
     <p>
     <b>Model Explainability from SQL Surface for Redshift ML</b>
-    <br>Built a SHAP-based ML Explainability tool for AWS Redshift ML, facilitating users to write SQL queries to introspect model predictions, improving <b>execution speed by 2x</b> and reducing <b>memory footprint by 90%</b> over existing workflow in AWS Sagemaker.
+    <br>Built a SHAP-based Explainability tool for AWS Redshift ML, enabling users to write SQL queries to introspect model predictions. Improved <b>execution speed by 2x</b> and reduced <b>memory footprint by 90%</b> over existing workflow in AWS Sagemaker.
     <br><a href="https://aws.amazon.com/about-aws/whats-new/2020/12/aws-announces-amazon-redshift-ml-preview/" target="_blank">Preview</a> | 
     <a href="https://aws.amazon.com/about-aws/whats-new/2021/05/aws-announces-general-availability-of-amazon-redshift-ml/" target="_blank">Press Release</a> | 
     <a href="https://aws.amazon.com/blogs/aws/amazon-redshift-ml-is-now-generally-available-use-sql-to-create-machine-learning-models-and-make-predictions-from-your-data/" target="_blank">Blog</a> |
