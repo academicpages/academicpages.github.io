@@ -18,8 +18,8 @@ My research has shown multiple new privacy leakages resulting from sensor data a
  <a href='/files/FaceRevelio.pdf'>FaceRevelio</a> is a novel liveness detection system that protects facial authentication mechanisms on commodity smartphones from spoofing attacks, without requiring effort from the users or any external hardware. It leverages the smartphone screen as a light source and illuminates different portions of the screen with random lighting patterns for a short duration (∼1 second) to simulate multiple lighting conditions. The reflection of the light from the screen is recorded and then used to extract stereo images of the face and its 3D surface through a photometric stereo technique. The reconstructed 3D surface differentiates a real human face from its 2D counterpart and defends against spoofing attacks. This work was presented at MobiCom 2020.
  
  <figure>
- <a href='https://youtu.be/zGlbclBXQ8Y'><img src="files/facerevelio_teaser.png"
-     alt="acRevelio - Teaser Video"
+ <a href='https://youtu.be/zGlbclBXQ8Y'><img src="/files/facerevelio_teaser.png"
+     alt="FaceRevelio - Teaser Video"
      style="float: left; margin-right: 10px;" /></a>
  <figcaption>MobiCom2020 - FaceRevelio: A Face Liveness Detection System for Smartphones with Single Front Camera</figcaption>
  </figure>
