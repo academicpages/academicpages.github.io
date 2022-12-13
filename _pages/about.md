@@ -303,7 +303,7 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
 
 
 <h2>Amazon Web Services</h2>
-<em>Applied Scientist II Intern</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jun 2022 - Sep 2022
+<em>Applied Scientist II Intern</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jun 2022 - Sep 2022
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -314,14 +314,14 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
   </div>
   <div class="archive__proj__left">
      <div>
-        <img src="https://ranakroychowdhury.github.io/images/aws.png"> 
+        <img src="https://ranakroychowdhury.github.io/images/aws.png", width="500"> 
     </div>
   </div>
 </div>
 
 	
 <h2>Nokia Bell Labs</h2>
-<em>Data Science Intern</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jun 2021 - Aug 2021
+<em>Data Science Intern</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jun 2021 - Aug 2021
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -354,7 +354,7 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
   </div>
   <div class="archive__proj__left">
      <div>
-        <img src="https://ranakroychowdhury.github.io/images/aws.png"> 
+        <img src="https://ranakroychowdhury.github.io/images/aws.png", width="500"> 
     </div>
   </div>
 </div>
