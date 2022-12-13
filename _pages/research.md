@@ -20,7 +20,9 @@ My research has shown multiple new privacy leakages resulting from sensor data a
  <figure>
  <a href='https://youtu.be/zGlbclBXQ8Y'><img src="/files/facerevelio_teaser.png"
      alt="FaceRevelio - Teaser Video"
-     style="float: center" /></a>
+     style="display:block;
+        margin-left: auto;
+        margin-right: auto;" /></a>
  <figcaption>MobiCom2020 - FaceRevelio: A Face Liveness Detection System for Smartphones with Single Front Camera</figcaption>
  </figure>
  
