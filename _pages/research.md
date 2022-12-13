@@ -23,7 +23,7 @@ My research has shown multiple new privacy leakages resulting from sensor data a
      style="display:block;
         margin-left: auto;
         margin-right: auto;" /></a>
- <figcaption>MobiCom2020 - FaceRevelio: A Face Liveness Detection System for Smartphones with Single Front Camera</figcaption>
+ <figcaption>MobiCom 2020 - FaceRevelio Teaser Video</figcaption>
  </figure>
  
 More recently, I developed, IoTCupid, a new secure, and usable decentralized group pairing system for IoT devices with heterogeneous sensing modalities. My work demonstrates that two devices can use the time interval between the subsequent occurrences of a commonly observed event type (e.g., coffee-machine-on events sensed by the microphone and power meter) as proof of co-presence and use them as evidence to establish a symmetric key. IoTCupid proposes a novel group key establishment protocol that enables dynamic group generation among devices and is resilient to man-in-the-middle, offline brute force and denial of key exchange attacks. This work was recently accepted to IEEE S&P and will be available online soon.
