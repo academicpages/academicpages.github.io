@@ -1,15 +1,14 @@
 ---
-title: "Robust leave-one-out cross-validation for high-dimensional Bayesian"
+title: "Robust leave-one-out cross-validation for high-dimensional Bayesian models"
 collection: publications
 permalink: /publication/2022-10-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper treats just conditionaly independent models. More general frameworks are left for future works.'
 date: 2022-10-02
-venue: 'Journal 1'
+venue: 'Hopefully JASA'
 paperurl: 'http://arxiv.org/abs/2209.09190'
-citation: 'Luca Silva, Giacomo Zanella(2022).'
+citation: 'Silva, Zanella(2022).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/Mixture_IS.pdf)
 
-%Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Silva, Zanella (2022). "Robust leave-one-out cross-validation for high-dimensional Bayesian models". <i>Hopefully JASA</i>.
