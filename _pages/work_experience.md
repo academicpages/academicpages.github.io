@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-======
 - **University of California, San Diego**, La Jolla, CA,  Nov 2019 - Present
   * Assistant Professor, CSE & HDSI
 - **Two Sigma Investments LP**, New York City, NY,  Jun - Aug 2018
