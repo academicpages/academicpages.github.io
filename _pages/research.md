@@ -3,6 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 
+<style>body {text-align: justify}</style>
 
 I have had the opportunity to work on a number of interesting research projects during my Ph.D. My research combines system design, signal processing, computer vision, and machine learning methods to investigate security and privacy threats on emerging computing platforms and then proposes methods for securing modern mobile and IoT devices and protecting users’ privacy. Here is a summary of some of my research efforts
 
