@@ -12,6 +12,15 @@ main:
   - title: "Publications"
     url: /#publications
     
+  - title: "Education"
+    url: /#education
+    
+  - title: "Awards"
+    url: /#awards
+    
+  - title: "Skills"
+    url: /#skills
+    
 #   - title: "Teaching"
 #     url: /teaching/    
   
