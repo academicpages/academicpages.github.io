@@ -71,17 +71,6 @@ Will be attending AAAI '23 at Washington D.C. from Feb 7 - 14, 2023. Come and sa
 <h1>Work Experience</h1>
   
 <div>
-======
-- **University of California, San Diego**, La Jolla, CA,  Nov 2019 - Present
-  * Assistant Professor, CSE & HDSI
-- **Two Sigma Investments LP**, New York City, NY,  Jun - Aug 2018
-  * Quantitative Research Intern
-- **Google Research**, New York City, NY, May - Aug 2017
-  * Research Intern at Structure Data Team
-- **Google**, New York City, NY, May - Aug 2016
-  * Software Engineering Intern at Local Quality Search Team
-- **Microsoft Research Asia**, Beijing, China, Aug 2013 - Feb 2014
-  * Research Intern at Urban Computing Group
 	
 </div>
 
