@@ -18,7 +18,10 @@ Current and Recent Projects
 
 Investigating impacts of algorithmic policing on city communities
 
+![image](https://github.com/aulichney/aulichney.github.io/blob/master/images/deforestation.png){: style="float: left"}
+
 ### Interpretable Machine Learning and Amazonian Deforestation
+
 *Yale School of the Environment, January 2022-Present*
 
 Building interpretable machine learning models to understand and predict where deforestation occurs in the Brazilian Amazon under [Dr. Luke Sanford](https://lcsanford.github.io) and [Dr. Kathryn Baragwanath](https://kathrynbaragwanath.com)
