@@ -11,7 +11,7 @@ My research has shown multiple new privacy leakages resulting from sensor data a
 
 --->
 
-## Enabling Usable Authentication on Commodity Mobile and IoT Devices [ACM MobiCom'20, IEEE S&P'23]
+## Enabling Usable Authentication on Commodity Mobile and IoT Devices ####[ACM MobiCom'20, IEEE S&P'23]
 
 <b>I developed two systems, <a href='/files/FaceRevelio.pdf'>FaceRevelio</a> and IoTCupid to enable reliable and secure user and device authentication to protect users’ private information (e.g., contacts, messages, credit card details) on commodity mobile and allow secure communication between IoT devices.</b>
 
