@@ -7,8 +7,9 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
 
-Work Experience
+
 ======
 - **University of California, San Diego**, La Jolla, CA,  Nov 2019 - Present
   * Assistant Professor, CSE & HDSI
