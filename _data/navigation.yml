@@ -3,6 +3,9 @@ main:
   #- title: "Talks"
   #  url: /talks/    
   
+  - title: "Work Experience"
+    url: /#work_experience/
+    
   - title: "Projects"
     url: /#projects
     
