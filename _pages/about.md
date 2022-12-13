@@ -15,7 +15,7 @@ redirect_from:
 
 Recent news
 ===========
-- (Dec. 7, 2022) Yixiang will present a poster at [4th Annual Immune Modulation and Engineering Symposium](https://drexel.edu/biomed/research-and-design/overview/IMES2022/), Drexel University.
+- (Dec. 7, 2022) Yixiang presented a poster at [4th Annual Immune Modulation and Engineering Symposium](https://drexel.edu/biomed/research-and-design/overview/IMES2022/), Drexel University.
 - (Oct. 12-15, 2022) Yixiang served as the co-chair for the following two sessions at [BMES2022](https://www.bmes.org/annualmeeting), San Antonio, TX.
    - Biosensors, Implantable Sensors and Devices II 
    - Other Mechanics
