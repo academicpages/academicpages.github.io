@@ -17,7 +17,7 @@ I specifically focus on designing and building innovative and secure mobile sens
 Updates
 =======
 <ul>
-	<li> <b>[Nov 2022]</b> Our work on secure group pairing of heterogeneous IoT devices is conditionally accepted to IEEE S&P 2023!
+	<li> <b>[Nov 2022]</b> Our work on secure group pairing of heterogeneous IoT devices is accepted to IEEE S&P 2023!
 	</li>
 	<li> <b>[Oct 2022]</b> Our paper about evasion attacks on physical event verification systems to appear in NDSS 2023!
 	</li>
