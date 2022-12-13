@@ -4,7 +4,7 @@ main:
   #  url: /talks/    
   
   - title: "Work Experience"
-    url: /#work_experience
+    url: /work_experience
     
   - title: "Projects"
     url: /#projects
