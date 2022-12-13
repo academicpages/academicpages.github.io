@@ -70,17 +70,18 @@ Will be attending AAAI '23 at Washington D.C. from Feb 7 - 14, 2023. Come and sa
 <div id="work_experience">
 <h1>Work Experience</h1>
   
----
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
----
-
-This is a description of a teaching experience. You can use markdown like any other post.
+<div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0", style="font-size:24.0pt;">Amazon Web Services (AWS)</h3>
+                            <div class="subheading mb-3", style="font-size:20.0pt;">Software Development Engineer Intern</div>
+                            <div>As a Software Development Engineer with an expertise in Machine Learning (ML), I built an ML Model Introspection and Explanation Framework from the SQL surface for Amazon Redshift. This will benefit database users and data analysts familiar with SQL but with little or no prior experience in ML and its related framework to leverage ML services by writing SQL queries. Loaded data from database tables in Redshift and used trained Neo-compiled model from S3 to compute and store SHAP Feature Importance values. This improved the execution speed of the new workflow by <b>2x</b> and reduced its memory footprint by <b>90%</b> over the existing workflow that uses Amazon Sagemaker.</div>
+							<br>
+							<div class="subheading mb-3">Project Details: <a href="https://aws.amazon.com/redshift/features/redshift-ml/" target="_blank" style="color:purple;">Preview</a>, <a href="https://aws.amazon.com/blogs/big-data/create-train-and-deploy-machine-learning-models-in-amazon-redshift-using-sql-with-amazon-redshift-ml/" target="_blank" style="color:purple;">Blog</a>, <a href="https://docs.aws.amazon.com/redshift/latest/dg/machine_learning.html" target="_blank" style="color:purple;">Documentation</a></div>
+							<div class="subheading mb-3">Tech Stack: C, C++, Python, SQL, PostgreSQL</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="subheading mb-0">June 2020 - September 2020</span></div>
+						<!--<div class="flex-shrink-0"><span class="text-gray">September 2019 - June 2024</span></div>-->
+                    </div>
 
   
   
