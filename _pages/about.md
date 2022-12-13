@@ -303,12 +303,12 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
 
 
 <h2>Amazon Web Services</h2>
-<em>Applied Scientist II Intern </em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jun 2022 - Sep 2022
+<em>Applied Scientist II Intern</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jun 2022 - Sep 2022
 
- 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
+    <b>Self-Supervised Accent Robust Speech Representation Learning</b>
     <br>Built a pre-trained model for accent-robust speech representation that improves performance on several downstream tasks, like Speech Recognition by 20.4% and Speaker Verification by 6.3%, across 12 minority accents with few minutes of training data.
     </p>
   </div>
@@ -319,7 +319,42 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
   </div>
 </div>
 
+	
+<h2>Nokia Bell Labs</h2>
+<em>Data Science Intern</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jun 2022 - Aug 2022
 
+ 
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>Automated Ticket Resolution from Semi-Structured Log Data</b>
+    <br>
+    </p>
+  </div>
+  <div class="archive__proj__left">
+     <div>
+        <img src="https://mehrab-tanjim.github.io/images/digitor.gif"> 
+    </div>
+  </div>
+</div>
+	
+<h2>Amazon Web Services</h2>
+<em>Applied Scientist II Intern </em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jun 2022 - Sep 2022
+
+ 
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>Self-Supervised Accent Robust Speech Representation Learning</b>
+    <br>Built a pre-trained model for accent-robust speech representation that improves performance on several downstream tasks, like Speech Recognition by 20.4% and Speaker Verification by 6.3%, across 12 minority accents with few minutes of training data.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+     <div>
+        <img src="https://mehrab-tanjim.github.io/images/digitor.gif"> 
+    </div>
+  </div>
+</div>
 </div>
 
 
@@ -338,14 +373,14 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <div>
   <p>
   <b>PrimeNet: Pre-training for Irregular Multivariate Time-Series</b>
-  <br><em>Ranak Roy Chowdhury</em>, Jiacheng Li, Xiyuan Zhang, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang
+  <br><b>Ranak Roy Chowdhury</b>, Jiacheng Li, Xiyuan Zhang, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang
   <br>AAAI Conference on Artificial Intelligence (AAAI), 2023
   <br><a href="https://github.com/ranakroychowdhury/PrimeNet" target="_blank">code</a>
   </p>
   
   <p>
   <b>ESC-GAN: Extending Spatial Coverage of Physical Sensors</b>
-  <br>Xiyuan Zhang, <em>Ranak Roy Chowdhury</em>, Jingbo Shang, Rajesh Gupta, Dezhi Hong
+  <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Jingbo Shang, Rajesh Gupta, Dezhi Hong
   <br>Web Search and Data Mining (WSDM), 2022
   <br><a href="https://dl.acm.org/doi/abs/10.1145/3488560.3498461" target="_blank">paper</a> | 
   <a href="https://github.com/xiyuanzh/ESC-GAN" target="_blank">code</a> | 
@@ -355,8 +390,8 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   
   <p>
   <b>TARNet: Task-Aware Reconstruction for Time-Series Transformer</b>
-  <br><em>Ranak Roy Chowdhury</em>, Xiyuan Zhang, Jingbo Shang, Rajesh K. Gupta, Dezhi Hong
-  <br>SIGKDD Conference On Knowledge Discovery and Data Mining (KDD), 2022. [<em>Travel Grant</em>]
+  <br><b>Ranak Roy Chowdhury</b>, Xiyuan Zhang, Jingbo Shang, Rajesh K. Gupta, Dezhi Hong
+  <br>SIGKDD Conference On Knowledge Discovery and Data Mining (KDD), 2022. [Travel Grant]
   <br><a href="https://dl.acm.org/doi/10.1145/3534678.3539329" target="_blank">paper</a> | 
   <a href="https://github.com/ranakroychowdhury/TARNet" target="_blank">code</a> | 
   <a href="https://drive.google.com/file/d/13XrHTsPf6bhXiue0h1SunMhjYCtYRtLI/view?usp=sharing" target="_blank">poster</a> |         
@@ -365,7 +400,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   
   <p>
   <b>UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification</b>
-  <br>Shuheng Li, <em>Ranak Roy Chowdhury</em>, Jingbo Shang, Rajesh K. Gupta, Dezhi Hong
+  <br>Shuheng Li, <b>Ranak Roy Chowdhury</b>, Jingbo Shang, Rajesh K. Gupta, Dezhi Hong
   <br>Conference on Embedded Networked Sensor Systems (SenSys), 2021
   <br><a href="https://dl.acm.org/doi/abs/10.1145/3485730.3485942" target="_blank">paper</a> | 
   <a href="https://github.com/Shuheng-Li/UniTS-Sensory-Time-Series-Classification" target="_blank">code</a> |        
@@ -374,14 +409,14 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   
   <p>
   <b>Real-Time Principal Component Analysis</b>
-  <br><em>Ranak Roy Chowdhury</em>, Muhammad Abdullah Adnan, Rajesh K. Gupta
+  <br><b>Ranak Roy Chowdhury</b>, Muhammad Abdullah Adnan, Rajesh K. Gupta
   <br>Transactions on Data Science (TDS), Volume 1, Issue 2
   <br><a href="https://dl.acm.org/doi/10.1145/3374750" target="_blank">paper</a>
   </p>
   
   <p>
   <b>Real-Time Principal Component Analysis</b>
-  <br><em>Ranak Roy Chowdhury</em>, Muhammad Abdullah Adnan, Rajesh K. Gupta
+  <br><b>Ranak Roy Chowdhury</b>, Muhammad Abdullah Adnan, Rajesh K. Gupta
   <br>International Conference on Data Engineering (ICDE), 2019
   <br><a href="https://ieeexplore.ieee.org/document/8731514" target="_blank">paper</a> | 
   <a href="https://drive.google.com/file/d/1ZQQJShafy8qpFDXrQLBY6ZYQwKFDjG_M/view?usp=sharing" target="_blank">poster</a> |        
@@ -390,19 +425,19 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   
   <p>
   <b>Enhancing Human Activity Recognition via Label Name Modeling</b>
-  <br>Xiyuan Zhang, <em>Ranak Roy Chowdhury</em>, Dezhi Hong, Rajesh Gupta, Jingbo Shang
+  <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Dezhi Hong, Rajesh Gupta, Jingbo Shang
   <br><em>[under submission]</em>
   </p>
   
   <p>
   <b>RIoT: Towards Robust Learning for Internet-of-Things</b>
-  <br><em>Ranak Roy Chowdhury</em>, Dezhi Hong, Rajesh Gupta, Jingbo Shang
+  <br><b>Ranak Roy Chowdhury</b>, Dezhi Hong, Rajesh Gupta, Jingbo Shang
   <br><em>[under submission]</em>
   </p>
   
   <p>
   <b>Towards Diverse and Coherent Augmentation for Time-Series Forecasting</b>
-  <br>Xiyuan Zhang, <em>Ranak Roy Chowdhury</em>, Dezhi Hong, Rajesh Gupta, Jingbo Shang
+  <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Dezhi Hong, Rajesh Gupta, Jingbo Shang
   <br><em>[under submission]</em>
   </p>
 
