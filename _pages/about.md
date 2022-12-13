@@ -322,12 +322,12 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
  
   
 <div>
-	<p>
-		<b>PrimeNet: Pre-training for Irregular Multivariate Time-Series</b>
-		<br><em>Ranak Roy Chowdhury</em>, Jiacheng Li, Xiyuan Zhang, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang
-		<br>AAAI Conference on Artificial Intelligence (AAAI), 2023
-		<br><a href="https://github.com/ranakroychowdhury/PrimeNet" target="_blank">code</a>
-	</p>
+  <p>
+  <b>PrimeNet: Pre-training for Irregular Multivariate Time-Series</b>
+  <br><em>Ranak Roy Chowdhury</em>, Jiacheng Li, Xiyuan Zhang, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang
+  <br>AAAI Conference on Artificial Intelligence (AAAI), 2023
+  <br><a href="https://github.com/ranakroychowdhury/PrimeNet" target="_blank">code</a>
+  </p>
   
 	<p>
 		<b>ESC-GAN: Extending Spatial Coverage of Physical Sensors</b>
