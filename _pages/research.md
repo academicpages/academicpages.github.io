@@ -11,11 +11,13 @@ My research has shown multiple new privacy leakages resulting from sensor data a
 
 --->
 
-## Enabling Usable Authentication on Commodity Mobile and IoT Devices ####[ACM MobiCom'20, IEEE S&P'23]
+## Enabling Usable Authentication on Commodity Mobile and IoT Devices [MobiCom'20, S&P'23]
 
+<div style="text-align: justify">
 <b>I developed two systems, <a href='/files/FaceRevelio.pdf'>FaceRevelio</a> and IoTCupid to enable reliable and secure user and device authentication to protect users’ private information (e.g., contacts, messages, credit card details) on commodity mobile and allow secure communication between IoT devices.</b>
 
  <a href='/files/FaceRevelio.pdf'>FaceRevelio</a> is a novel liveness detection system that protects facial authentication mechanisms on commodity smartphones from spoofing attacks, without requiring effort from the users or any external hardware. It leverages the smartphone screen as a light source and illuminates different portions of the screen with random lighting patterns for a short duration (∼1 second) to simulate multiple lighting conditions. The reflection of the light from the screen is recorded and then used to extract stereo images of the face and its 3D surface through a photometric stereo technique. The reconstructed 3D surface differentiates a real human face from its 2D counterpart and defends against spoofing attacks. This work was presented at MobiCom 2020.
+</div>
  
  <p align="center">
  <a href='https://youtu.be/zGlbclBXQ8Y'><img src="/files/facerevelio_teaser.png"
@@ -31,7 +33,7 @@ More recently, I developed, IoTCupid, a new secure, and usable decentralized gro
  
 <b>Impact: </b> My work on liveness detection has gained recognition from both academia and industry, and a patent has been approved for it. Our work on IoT device pairing has encouraged the integration of secure and usable pairing mechanisms in emerging decentralized IoT systems such as Thread/OpenThread. To this end, the tools and algorithms I have developed allow developers to implement effective systems for improving users’ security and privacy. 
 
-## Identifying Privacy Risks in Commodity Mobile Devices [ACM UbiComp'21, PoPETs'23]
+## Identifying Privacy Risks in Commodity Mobile Devices [UbiComp'21, PoPETs'23]
 
 <b>My research presents three novel permissionless sensor-based side-channels on mobile devices and shows that leakages through these channels seriously threaten users’ privacy.</b>
 
@@ -66,7 +68,7 @@ I specifically focused on online hate and harassment against refugees, a vast po
 Within the context of smartphone access control, my collaborators and I explored the security and usability of Android’s authorization APIs and showed that existing mobile app developers rarely use them correctly to implement secure authorization since using them requires extensive cryptography expertise. To this end, we developed <a href=/files/SARA.pdf>SARA</a>, a secure android remote authorization library to allow developers to integrate secure authorization into their apps easily. We designed and conducted a user study with Android developers to evaluate the usability and practicality of SARA compared to the existing Android APIs and demonstrated that developers could quickly implement secure remote authorization with a few lines of code using SARA. In the spirit of open science, and to ensure our work benefits the entire Android community, we have publicly released SARA <a href='https://github.com/purseclab/SARA-Secure-Android-Remote-Authorization'>[SARA GitHub]</a>. This work led to a collaboration with Google’s Android Security team, and a proposal based on our findings was funded by Google’s ASPIRE Research Award, where I am the lead graduate student mentoring 4 Ph.D. and 1 undergraduate students.
 
 
-## Human-Camera Communication [ACM MobiSys'18, InfoCom'20]
+## Human-Camera Communication [MobiSys'18, InfoCom'20]
 In my research, I have also investigated how surveillance cameras can digitally associate people in public spaces with their smartphones without knowing the phones’ IP/MAC addresses to enable widespread applications ranging from security surveillance to business intelligence while protecting users’ privacy. We introduced a new communication system between cameras (server) and humans (client) that leverages a person’s context features (e.g., walking velocity, WiFi signal strength around them) as its address. I developed a context feature extraction and selection algorithm that extracts features, from camera videos and users’ smartphone sensor data, capable of distinguishing a specific person from a group of people in the camera view. Through this, a public camera can broadcast a message with a target user’s context address which is only accepted by a user’s phone if its context address matches the phone’s sensor data.
 
 
