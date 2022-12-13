@@ -17,7 +17,12 @@ My research has shown multiple new privacy leakages resulting from sensor data a
 
  <a href='/files/FaceRevelio.pdf'>FaceRevelio</a> is a novel liveness detection system that protects facial authentication mechanisms on commodity smartphones from spoofing attacks, without requiring effort from the users or any external hardware. It leverages the smartphone screen as a light source and illuminates different portions of the screen with random lighting patterns for a short duration (∼1 second) to simulate multiple lighting conditions. The reflection of the light from the screen is recorded and then used to extract stereo images of the face and its 3D surface through a photometric stereo technique. The reconstructed 3D surface differentiates a real human face from its 2D counterpart and defends against spoofing attacks. This work was presented at MobiCom 2020.
  
- [![FacRevelio - Teaser Video](https://youtu.be/zGlbclBXQ8Y)](https://youtu.be/zGlbclBXQ8Y "MobiCom2020 - FaceRevelio: A Face Liveness Detection System for Smartphones with Single Front Camera")
+ <figure>
+ <a href='https://youtu.be/zGlbclBXQ8Y'><img src="files/facerevelio_teaser.png"
+     alt="acRevelio - Teaser Video"
+     style="float: left; margin-right: 10px;" /></a>
+ <figcaption>MobiCom2020 - FaceRevelio: A Face Liveness Detection System for Smartphones with Single Front Camera</figcaption>
+ </figure>
  
 More recently, I developed, IoTCupid, a new secure, and usable decentralized group pairing system for IoT devices with heterogeneous sensing modalities. My work demonstrates that two devices can use the time interval between the subsequent occurrences of a commonly observed event type (e.g., coffee-machine-on events sensed by the microphone and power meter) as proof of co-presence and use them as evidence to establish a symmetric key. IoTCupid proposes a novel group key establishment protocol that enables dynamic group generation among devices and is resilient to man-in-the-middle, offline brute force and denial of key exchange attacks. This work was recently accepted to IEEE S&P and will be available online soon.
  
