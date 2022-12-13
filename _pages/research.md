@@ -47,9 +47,9 @@ References:
 
 [2] Gui, X., Fan, W., **Sun, J.**, & Li, Y. (2022). New Stable and Fast Ring-Polymer Molecular Dynamics for Calculating Bimolecular Rate Coefficients with Example of OH+CH<sub>4</sub>. _Journal of Chemical Theory and Computation_, 18, 9, 5203–5212.
 
-<h3> Electron-phonon interaction </h3>
+<h3> Electron transport in semiconductors </h3>
 
-High electric field electron transport is of fundamental interest and practical importance in semiconductors.
+High-electric-field electron transport is of fundamental interest and practical importance in semiconductors.
 In fact, the theoretical description of electron transport requires accurate calculation of electron-phonon interaction.
 However, due to the high computational cost, the multi-phonon processes are usually neglected in the elctron-phonon interaction calculation.
 
@@ -59,7 +59,7 @@ Our findings reconcile a long-standing discrepancy regarding the strength of int
 
 References:
 
-[1] Cheng, P. S., **Sun, J.**, Sun, S. N., Choi, A. Y., & Minnich, A. J. (2022). High-field transport and hot electron noise in GaAs from first principles: role of two-phonon scattering. arXiv preprint arXiv:2201.11912.
+[1] Cheng, P. S., **Sun, J.**, Sun, S. N., Choi, A. Y., & Minnich, A. J. (2022). High-field transport and hot electron noise in GaAs from first principles: role of two-phonon scattering. _Physical Review B_, 106, 245201.
 
 [2] (Will be on arxiv soon) **Sun, J.**, Minnich, A. J. (2022). Transport and noise of of hot electrons in GaAs using an ab-initio-based analytical model of two-phonon polar optical phonon scattering. 
 
