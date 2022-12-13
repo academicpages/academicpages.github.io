@@ -70,12 +70,17 @@ Will be attending AAAI '23 at Washington D.C. from Feb 7 - 14, 2023. Come and sa
 <div id="work_experience">
 <h1>Work Experience</h1>
   
-KNOWLEDGE GRAPHS
-As some KGs, such as WordNet and ConceptNet, are often very large with much irrelevant knowledge, a task-specific KG is often constructed by knowledge extraction and integration. To extract relevant knowledge, the task-specific data such as the class names are matched with KG entities either using some existing associations (e.g., ImageNet classes are matched with WordNet entities [Deng et al., 2009]) or by some mapping methods such as string matching. With the constructed KG, the class semantic vectors can then be learned by a KG embedding method which can be either GNN variants such as GCN by [Wang et al., 2018], Relational GCN by [Roy et al., 2020] and Attentive GCN by [Geng et al., 2020], or translation based or factorization based KG embedding models such as TransE and DistMult. See [Wang et al., ] for a survey on KG embedding.
+---
+title: "Teaching experience 2"
+collection: teaching
+type: "Workshop"
+permalink: /teaching/2015-spring-teaching-1
+venue: "University 1, Department"
+date: 2015-01-01
+location: "City, Country"
+---
 
-KG is more expressive than both text and attribute. Besides the relational graph, a KG can represent and incorporate the text and attribute external knowledge as well.
-
-On the other hand, KGs with suitable knowledge are not always available for a new real word ZSL task. Although many public KGs such as ConceptNet and WordNet are very large, their contents are still incomplete and biased with a limited coverage for some specific domains. Thus extracting, matching and curating knowledge from external resources and the task itself becomes a key challenge for KG-based ZSL.
+This is a description of a teaching experience. You can use markdown like any other post.
 
   
   
@@ -312,7 +317,7 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
 
 
 <div id="publications">
-<h2>Publications</h2>
+<h1>Publications</h1>
 
 <div>
 For latest publications, please visit <u><a href="https://scholar.google.com/citations?user=kVPqPVUAAAAJ&hl=en&oi=ao" target="_blank">my Google Scholar profile</a>.</u>
