@@ -314,7 +314,7 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
   </div>
   <div class="archive__proj__left">
      <div>
-        <img src="https://ranakroychowdhury.github.io/images/aws.png", width="500"> 
+        <img src="https://ranakroychowdhury.github.io/images/aws.png", width="300"> 
     </div>
   </div>
 </div>
