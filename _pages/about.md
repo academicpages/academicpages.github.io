@@ -339,7 +339,7 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
 
 	
 <h2>Amazon Web Services</h2>
-<p style="font-size:24px;"><em>Software Development Engineer Intern</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jun 2020 - Sep 2020</p>
+<p style="font-size:21px;"><em>Software Development Engineer Intern</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jun 2020 - Sep 2020</p>
 
 
 <div class="archive__proj__row">
