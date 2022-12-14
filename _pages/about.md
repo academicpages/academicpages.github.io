@@ -455,8 +455,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 
 <div id="education">
 <h1>Education</h1>
-	
-<div>
+
 
 <div>
 	<p style="font-size:22px;"><b>Ph.D.</b> in <b>Computer Science</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sep 2019 - Present</em></p>
@@ -477,7 +476,6 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
         <img src="https://ranakroychowdhury.github.io/images/ucsd.png""> 
     </div>
   </div>
-</div>
 </div>
 
 
@@ -501,9 +499,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
     </div>
   </div>
 </div>
-</div>
 	
-</div>
 	
 	
 
