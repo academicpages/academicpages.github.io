@@ -320,8 +320,8 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
 </div>
 
 	
-<h2>Nokia Bell Labs</h2>
-<em>Data Science Intern</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jun 2021 - Aug 2021
+<div>
+<p style="font-size:21px;"><b>Data Science Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2021 - Sep 2021</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -336,10 +336,11 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
     </div>
   </div>
 </div>
+</div>
 
-	
+
+<div>
 <p style="font-size:21px;"><b>Software Development Engineer Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2020 - Sep 2020</em></p>
-
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -357,6 +358,7 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
         <img src="https://ranakroychowdhury.github.io/images/aws.jpg"> 
     </div>
   </div>
+</div>
 </div>
 	
 
