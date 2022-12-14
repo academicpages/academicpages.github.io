@@ -15,3 +15,5 @@ excerpt: 'Soil moisture is a vital climatic variable driving environmental and b
 date: 2020-12-11
 venue: 'AGU 2020'
 paperurl: 'https://doi.org/10.1002/essoar.10509512.1'
+
+---
