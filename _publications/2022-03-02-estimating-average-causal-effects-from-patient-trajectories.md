@@ -3,7 +3,7 @@ title: "Estimating Average Causal Effects from Patient Trajectories"
 collection: publications
 authors: 'D. Frauen, T. Hatt, V. Melnychuk, S. Feuerriegel'
 date: 2022-03-02
-excerpt: "![ct](/images/ct.png){: style='float: left; width: 350px'} We propose DeepACE: the first end-to-end neural network for estimating time-varying average causal effects using observational data. DeepACE builds upon the iterative G-computation formula to address time-varying
+excerpt: "![deepace](/images/deepace.png){: style='float: left; width: 350px'} We propose DeepACE: the first end-to-end neural network for estimating time-varying average causal effects using observational data. DeepACE builds upon the iterative G-computation formula to address time-varying
 confounding. We develop a novel sequential targeting procedure which ensures that DeepACE provides a doubly robust and asymptotically efficient estimator. We perform an extensive series of computational experiments using state-of-the-art models for time-varying ACE estimation, establishing that DeepACE achieves a superior performance. We further demonstrate that DeepACE
 generates important findings based on a medical case study for patients suffering from low back pain."
 venue: 'ArXiv preprint'
