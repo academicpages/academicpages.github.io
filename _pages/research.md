@@ -37,6 +37,10 @@ With Diogo Baerlocher and Marcelo Eduardo Alves Silva.
 *Revista de Economia Agrícola*, 2010 , 57(2), 81-98.  
 With Ecio de Farias Costa and Leonardo Ferraz Xavier. 
 
+> [**The Unemployment-Inflation Trade-off: An Analysis of Transversality Conditions Applied to the Taylor Rule**](https://editorarevistas.mackenzie.br/index.php/rem/article/view/3600)
+*Revista de Economia Mackenzie*, 2011, 9(2).
+With T. Farias, F.R. de Moura, J. Júnior, and A. Melo.
+
 > [**Agricultural Production Efficiency in The São Francisco Valley Region, Brazil:  score measurement and correlation factor analysis.**](http://www.iea.sp.gov.br/ftpiea/publicacoes/rea/rea3-2-16.pdf)   
 *Revista de Economia Agrícola*, 2016 , 63(2), 35-52.   
 With Ecio de Farias Costa, Emanoel de Souza Barros, and Leonardo Ferraz Xavier.
