@@ -461,7 +461,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
     <p>
      <ul>
   	<li>Specialization: Data Mining</li>
-  	<li>Advisors: <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a></li>, <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a></li>
+  	<li>Advisors: <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a>, <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a></li>
 	<li>Thesis: Data-Efficient Learning from Time Series</li>
      </ul> 
     </p>
@@ -475,7 +475,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
      <p style="font-size:20px;"><b>Ph.D.</b> in Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2019 - Mar 2022</p>
      <ul>
   	<li>Specialization: Artificial Intelligence and Machine Learning</li>
-  	<li>Advisors: <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a></li>, <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a></li>
+  	<li>Advisors: <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a>, <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a></li>
 	<li>Thesis: Learning Across Irregular and Asynchronous Time Series [<a href="https://drive.google.com/file/d/1-mcb_nuEN8jZE4I5gXwLXdudRiLj_8Sz/view?usp=sharing" target="_blank">thesis</a> | <a href="https://drive.google.com/file/d/18cw8hkPw5Z2YseDbG9raf2kyEyELoxbF/view?usp=sharing" target="_blank">presentation</a>]</li>
      </ul> 
     </p>
