@@ -8,6 +8,7 @@ venue: 'AGU 2020'
 paperurl: 'https://doi.org/10.1002/essoar.10509512.1'
 
 ---
+---
 title: "Toward High-Resolution Soil Moisture Monitoring over India by Combining Remote Sensing Products with Land Surface Models"
 collection: publications
 permalink: publications/Toward High-Resolution Soil Moisture Monitoring over India by Combining Remote Sensing Products with Land Surface Models
