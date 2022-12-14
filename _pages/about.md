@@ -71,6 +71,8 @@ Will be attending AAAI '23 at Washington D.C. from Feb 7 - 14, 2023. Come and sa
 <div id="projects">
 <h1>Projects</h1>
 
+<!--
+
 <h2>Debiasing Generative Models</h2>
 
 <div class="archive__proj__row">
@@ -294,7 +296,7 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
 
   
 </div>
-
+-->
 
 
 
@@ -498,7 +500,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
    <ul>
     <li><b>Qualcomm Innovation Fellowship 2022</b> for our proposal on "Robust Machine Learning in IoT Devices". <em>One of the 19 winners among 132 participants across North America</em>. [<a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">News</a>]</li>
   
-   <li><b>Halıcıoglu Data Science Institute Graduate Fellowship 2019</b> in recognition of my research accomplishments to fund data science research. <em>One of the 10 winners among 3906 applicants</em>. [<a href="https://hdsi-web.sdsc.edu/2019/07/" target="_blank">News</a>]</li>
+   <li><b>Halıcıoglu Data Science Institute Graduate Fellowship 2019</b> to fund investigations in data science, in recognition of my research accomplishments. <em>One of the 10 winners among 3906 applicants</em>. [<a href="https://hdsi-web.sdsc.edu/2019/07/" target="_blank">News</a>]</li>
 	   
    <li><b>Research Fellowship</b> awarded by Department of CSE, UCSD to support graduate studies.</li>
     
