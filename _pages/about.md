@@ -504,7 +504,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
     
    <li>Selected to participate at <b>The Cornell, Maryland, Max Planck Pre-doctoral Research School 2019, Saarbrucken, Germany</b>. [<a href="https://cmmrs2019.mpi-sws.org/" target="_blank">News</a>]</li>
 
-   <li><b>Dean's List</b> and <b>University Merit Scholarship</b> awarded by Department of CSE, BUET, in recognition of excellent undergraduate academic performance.<li>
+   <li><b>Dean's List</b> and <b>University Merit Scholarship</b> awarded by Department of CSE, BUET, in recognition of excellent undergraduate academic performance.</li>
   
    </ul>
   </p>
