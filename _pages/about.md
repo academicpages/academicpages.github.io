@@ -489,7 +489,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   	<li>Specialization: Artificial Intelligence and Machine Learning</li>
   	<li>Advisor: <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a></li>
   	<li>Co-advisor: <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a></li>
-	<li>Thesis: <\li>
+	<li>Thesis: </li>
      </ul> 
     </p>
   </div>
