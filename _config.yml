@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Valentyn Melnychuk"
+  name             : "Valentyn Melnychuk 🇺🇦"
   avatar           : "profile.png"
   bio              : "PhD Candidate at LMU Munich"
   location         : "Munich, Germany"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=EMExrOMAAAAJ&hl=en"
-  email            : "valik.melnichuk@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Valentyn_Melnychuk"
-  uri              : "https://www.ai.bwl.uni-muenchen.de/team/research_team/valentyn_melnychuk/index.html"
+  email            : "melnychuk@lmu.de"
+  researchgate     : 
+  uri              : "https://www.ai.bwl.uni-muenchen.de/personen/mitarbeiter/valentyn_melnychuk/index.html"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/valentyn-melnychuk/"
+  linkedin         : "valentyn-melnychuk"
   orcid            : "https://orcid.org/0000-0002-2401-6803"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "valik_melnychuk"
   vine             :
   weibo            :
   xing             :
