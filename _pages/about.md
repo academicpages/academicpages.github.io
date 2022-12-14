@@ -10,7 +10,7 @@ gallery:
   - url: aboutMe/rudi.jpg
     image_path: aboutMe/rudi.jpg
     alt: "Rudolf"
-    title: "Rudolf"  
+    title: "Rudolf" 
 ---
 
 {% include gallery %}
