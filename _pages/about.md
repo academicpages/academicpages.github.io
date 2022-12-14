@@ -303,7 +303,7 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
 
 
 <div>
-<p style="font-size:22px;"><b>Applied Scientist II Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2022 - Sep 2022</em></p>
+<p style="font-size:22px;"><b>Applied Scientist II Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2022 - Sep 2022</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -322,7 +322,7 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
 
 	
 <div>
-<p style="font-size:22px;"><b>Data Science Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2021 - Sep 2021</em></p>
+<p style="font-size:22px;"><b>Data Science Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2021 - Sep 2021</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -467,7 +467,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   	<li>Specialization: Data Mining</li>
   	<li>Advisor: <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a></li>
   	<li>Co-advisor: <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a></li>
-	<li>Thesis: Data-Efficient Learning from Time Series<\li>
+	<li>Thesis: Data-Efficient Learning from Time Series</li>
      </ul> 
     </p>
   </div>
