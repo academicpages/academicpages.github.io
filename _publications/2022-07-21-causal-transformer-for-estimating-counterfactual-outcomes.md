@@ -3,8 +3,8 @@ title: "Causal Transformer for Estimating Counterfactual Outcomes"
 collection: publications
 authors: 'V. Melnychuk, D. Frauen, S. Feuerriegel'
 date: 2022-07-21
-excerpt: "![anomalies](/images/anomalies.png){: style='float: left; width: 350px'} We propose a new end-to-end model for estimating counterfactual outcomes over time: the Causal Transformer (CT). To the best of our knowledge, this is the first transformer tailored to causal inference. We develop a custom training procedure for our CT based on a novel counterfactual domain confusion (CDC) loss. We use synthetic and real-world data to demonstrate that our CT achieves state-of-the-art performance. We further achieve this both for one- and multi-step-ahead predictions."
-venue: 'ICML 2022'
+excerpt: "![ct](/images/ct.png){: style='float: left; width: 350px'} We propose a new end-to-end model for estimating counterfactual outcomes over time: the Causal Transformer (CT). To the best of our knowledge, this is the first transformer tailored to causal inference. We develop a custom training procedure for our CT based on a novel counterfactual domain confusion (CDC) loss. We use synthetic and real-world data to demonstrate that our CT achieves state-of-the-art performance. We further achieve this both for one- and multi-step-ahead predictions."
+venue: 'ICML'
 paperurl: 'https://arxiv.org/abs/2204.07258'
 ---
 
