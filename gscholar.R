@@ -30,6 +30,7 @@ p = ggplot(cit,aes(x=year,y=cites))+
   
 # p
 
-png("/Users/hectorbahamonde/Dropbox/scholar_citations.png",width=2200,height=1000,res=250)
+png("/Users/hectorbahamonde/Library/CloudStorage/Dropbox/scholar_citations.png",width=2200,height=1000,res=250)
 print(p)
 dev.off()
+# https://www.dropbox.com/s/hlroz3qjeyrwmta/scholar_citations.png?dl=0
