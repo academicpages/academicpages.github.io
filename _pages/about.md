@@ -500,7 +500,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   
    <li><b>Halıcıoglu Data Science Institute Graduate Fellowship 2019</b> in recognition of my research accomplishments to fund data science research. <em>One of the 10 winners among 3906 applicants</em>. [<a href="https://hdsi-web.sdsc.edu/2019/07/" target="_blank">News</a>]</li>
 	   
-   <li><b>Research Fellowship</b> awarded by Department of CSE, UCSD to support my graduate studies.</li>
+   <li><b>Research Fellowship</b> awarded by Department of CSE, UCSD to support graduate studies.</li>
     
    <li>Selected to participate at <b>The Cornell, Maryland, Max Planck Pre-doctoral Research School 2019, Saarbrucken, Germany</b>. [<a href="https://cmmrs2019.mpi-sws.org/" target="_blank">News</a>]</li>
 
