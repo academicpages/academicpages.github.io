@@ -303,7 +303,7 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
 
 
 <div>
-<p style="font-size:22px;"><b>Applied Scientist II Intern</b></p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p style="font-size:18px;"><em>Jun 2022 - Sep 2022</em></p>
+<p style="font-size:22px;"><b>Applied Scientist II Intern</b></p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2022 - Sep 2022</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -322,7 +322,7 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
 
 	
 <div>
-<p style="font-size:21px;"><b>Data Science Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2021 - Sep 2021</em></p>
+<p style="font-size:22px;"><b>Data Science Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2021 - Sep 2021</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -341,7 +341,7 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
 
 
 <div>
-<p style="font-size:21px;"><b>Software Development Engineer Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2020 - Sep 2020</em></p>
+<p style="font-size:22px;"><b>Software Development Engineer Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2020 - Sep 2020</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -381,14 +381,14 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <div>
   <p>
   <b>PrimeNet: Pre-training for Irregular Multivariate Time-Series</b>
-  <br><b>Ranak Roy Chowdhury</b>, Jiacheng Li, Xiyuan Zhang, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang
+  <br><b>Ranak Roy Chowdhury</b>, Jiacheng Li, Xiyuan Zhang, Dezhi Hong, Rajesh Gupta, Jingbo Shang
   <br>AAAI Conference on Artificial Intelligence (AAAI), 2023
   <br><a href="https://github.com/ranakroychowdhury/PrimeNet" target="_blank">code</a>
   </p>
   
   <p>
   <b>ESC-GAN: Extending Spatial Coverage of Physical Sensors</b>
-  <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Jingbo Shang, Rajesh Gupta, Dezhi Hong
+  <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Jingbo Shang, Rajesh K. Gupta, Dezhi Hong
   <br>Web Search and Data Mining (WSDM), 2022
   <br><a href="https://dl.acm.org/doi/abs/10.1145/3488560.3498461" target="_blank">paper</a> | 
   <a href="https://github.com/xiyuanzh/ESC-GAN" target="_blank">code</a> | 
@@ -433,19 +433,19 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   
   <p>
   <b>Enhancing Human Activity Recognition via Label Name Modeling</b>
-  <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Dezhi Hong, Rajesh Gupta, Jingbo Shang
+  <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang
   <br><em>[under submission]</em>
   </p>
   
   <p>
   <b>RIoT: Towards Robust Learning for Internet-of-Things</b>
-  <br><b>Ranak Roy Chowdhury</b>, Dezhi Hong, Rajesh Gupta, Jingbo Shang
+  <br><b>Ranak Roy Chowdhury</b>, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang
   <br><em>[under submission]</em>
   </p>
   
   <p>
   <b>Towards Diverse and Coherent Augmentation for Time-Series Forecasting</b>
-  <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Dezhi Hong, Rajesh Gupta, Jingbo Shang
+  <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang
   <br><em>[under submission]</em>
   </p>
 
