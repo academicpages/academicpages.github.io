@@ -510,7 +510,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
      <ul>
   	<li>Major: Artificial Intelligence and Machine Learning</li>
   	<li>Advisor: <a href="https://sites.google.com/site/abdullahadnan/" target="_blank">Muhammad Abdullah Adnan</a></li>
-	<li>Thesis:  [<a href="https://drive.google.com/file/d/16Sy0VkMstIVt5NQkrUiRKDICIG7rbLDM/view?usp=sharing" target="_blank">thesis</a> | <a href="https://drive.google.com/file/d/1Kmki36q8a7tt7ezMgguHpMMWD-YG0Z9D/view?usp=sharing" target="_blank">presentation</a> | <a href="https://drive.google.com/file/d/1CnlzZ7umnejnuF_O7GmTTLymSFwpgsKJ/view?usp=sharing" target="_blank">poster</a>]</li>
+	<li>Thesis: Real Time Principal Component Analysis [<a href="https://drive.google.com/file/d/16Sy0VkMstIVt5NQkrUiRKDICIG7rbLDM/view?usp=sharing" target="_blank">thesis</a> | <a href="https://drive.google.com/file/d/1Kmki36q8a7tt7ezMgguHpMMWD-YG0Z9D/view?usp=sharing" target="_blank">presentation</a> | <a href="https://drive.google.com/file/d/1CnlzZ7umnejnuF_O7GmTTLymSFwpgsKJ/view?usp=sharing" target="_blank">poster</a>]</li>
      </ul> 
     </p>
   </div>
