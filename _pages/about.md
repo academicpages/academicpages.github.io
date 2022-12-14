@@ -302,8 +302,8 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
 <h1>Work Experience</h1>
 
 
-<h2>Amazon Web Services</h2>
-<em>Applied Scientist II Intern</em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jun 2022 - Sep 2022
+<div>
+<p style="font-size:21px;"><b>Applied Scientist II Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2022 - Sep 2022</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -318,10 +318,11 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
     </div>
   </div>
 </div>
+</div>
 
 	
 <div>
-<p style="font-size:21px;"><b>Data Science Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2021 - Sep 2021</em></p>
+<p style="font-size:21px;"><b>Data Science Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2021 - Sep 2021</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
