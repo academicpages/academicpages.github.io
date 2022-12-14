@@ -2,8 +2,8 @@
 permalink: /student/
 title: "Student"
 gallery:
-  - url: software/students.jpg
-    image_path: software/students.png
+  - url: student/students.jpg
+    image_path: student/students.jpg
     alt: "Students"
     title: "Students"
 header:
