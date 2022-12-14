@@ -6,8 +6,7 @@ gallery:
     image_path: student/students.jpg
     alt: "Students"
     title: "Students"
-    width: "200"
-    height: "200"  
+     {: height="36px" width="36px"}
 header:
   og_image: "software/spatial_weighting.png"
 ---
