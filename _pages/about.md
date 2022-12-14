@@ -303,7 +303,7 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
 
 
 <div>
-<p style="font-size:22px;"><b>Applied Scientist II Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2022 - Sep 2022</em></p>
+<p style="font-size:20px;"><b>Applied Scientist II Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2022 - Sep 2022</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -322,7 +322,7 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
 
 	
 <div>
-<p style="font-size:22px;"><b>Data Science Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2021 - Sep 2021</em></p>
+<p style="font-size:20px;"><b>Data Science Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2021 - Sep 2021</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -341,7 +341,7 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
 
 
 <div>
-<p style="font-size:22px;"><b>Software Development Engineer Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2020 - Sep 2020</em></p>
+<p style="font-size:20px;"><b>Software Development Engineer Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2020 - Sep 2020</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -458,7 +458,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 
 
 <div>
-	<p style="font-size:22px;"><b>Ph.D.</b> in <b>Computer Science</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sep 2019 - Present</em></p>
+	<p style="font-size:20px;"><b>Ph.D.</b> in <b>Computer Science</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sep 2019 - Present</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -473,14 +473,14 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   </div>
   <div class="archive__proj__left">
      <div>
-        <img src="https://ranakroychowdhury.github.io/images/ucsd.png""> 
+        <img src="https://ranakroychowdhury.github.io/images/ucsd.png"> 
     </div>
   </div>
 </div>
 
 
 <div>
-	<p style="font-size:22px;"><b>MS</b> in <b>Computer Science</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sep 2019 - Jun 2022</em></p>
+	<p style="font-size:20px;"><b>MS</b> in <b>Computer Science</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Sep 2019 - Jun 2022</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -489,18 +489,37 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   	<li>Specialization: Artificial Intelligence and Machine Learning</li>
   	<li>Advisor: <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a></li>
   	<li>Co-advisor: <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a></li>
-	<li>Thesis: </li>
+	<li>Thesis: Learning Across Irregular and Asynchronous Time Series [<a href="https://drive.google.com/file/d/1-mcb_nuEN8jZE4I5gXwLXdudRiLj_8Sz/view?usp=sharing" target="_blank">thesis</a> | <a href="https://drive.google.com/file/d/18cw8hkPw5Z2YseDbG9raf2kyEyELoxbF/view?usp=sharing" target="_blank">presentation</a>]</li>
      </ul> 
     </p>
   </div>
   <div class="archive__proj__left">
      <div>
-        <img src="https://ranakroychowdhury.github.io/images/buet.png""> 
+        <img src="https://ranakroychowdhury.github.io/images/ucsd.png"> 
     </div>
   </div>
 </div>
 	
-	
+
+<div>
+	<p style="font-size:20px;"><b>BSc</b> in <b>Computer Science and Engineering</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jul 2014 - Oct 2018</em></p>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+     <ul>
+  	<li>Major: Artificial Intelligence and Machine Learning</li>
+  	<li>Advisor: <a href="https://sites.google.com/site/abdullahadnan/" target="_blank">Muhammad Abdullah Adnan</a></li>
+	<li>Thesis:  [<a href="https://drive.google.com/file/d/16Sy0VkMstIVt5NQkrUiRKDICIG7rbLDM/view?usp=sharing" target="_blank">thesis</a> | <a href="https://drive.google.com/file/d/1Kmki36q8a7tt7ezMgguHpMMWD-YG0Z9D/view?usp=sharing" target="_blank">presentation</a> | <a href="https://drive.google.com/file/d/1CnlzZ7umnejnuF_O7GmTTLymSFwpgsKJ/view?usp=sharing" target="_blank">poster</a>]</li>
+     </ul> 
+    </p>
+  </div>
+  <div class="archive__proj__left">
+     <div>
+        <img src="https://ranakroychowdhury.github.io/images/buet.png"> 
+    </div>
+  </div>
+</div>
 	
 
 <div id="awards">
