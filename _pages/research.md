@@ -56,10 +56,10 @@ The Cetus project is a collaboration with Purdue University. NSF awards:
 
 <nbsp>
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 {% assign ordered_pages = site.research | sort:"order_number" %}
 
 {% for post in ordered_pages %}
   {% include archive-single.html type="grid" %}
-{% endfor %}
+{% endfor %} -->
