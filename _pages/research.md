@@ -42,7 +42,7 @@ With Ecio de Farias Costa and Leonardo Ferraz Xavier.
 With T. Farias, F.R. de Moura, J. Júnior, and A. Melo.
 
 > [**Agricultural Production Efficiency in The São Francisco Valley Region, Brazil:  score measurement and correlation factor analysis.**](http://www.iea.sp.gov.br/ftpiea/publicacoes/rea/rea3-2-16.pdf)   
-*Revista de Economia Agrícola*, 2016 , 63(2), 35-52.   
+*Revista de Economia Agrícola*, 2016 , 63(2), 35-52.
 With Ecio de Farias Costa, Emanoel de Souza Barros, and Leonardo Ferraz Xavier.
 
 ## Selected Work in Progress
