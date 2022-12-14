@@ -457,7 +457,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <h1>Education</h1>
 
   <h2>University of California San Diego</h2>
-  <em>Ph.D.</em> in Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2019 - Present
+  <em>Ph.D.</em> in Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2019 - Present
     <p>
      <ul>
   	<li>Specialization: Data Mining</li>
@@ -467,7 +467,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
     </p>
 
   <h2>University of California San Diego</h2>
-  <em>M.S.</em> in Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2019 - Mar 2022
+  <em>M.S.</em> in Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2019 - Mar 2022
     <p>
      <ul>
   	<li>Specialization: Artificial Intelligence and Machine Learning</li>
@@ -476,8 +476,8 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
      </ul> 
     </p>
  
-  <h2>University of California San Diego</h2>
-  <em>B.Sc.</em> in Computer Science and Engineering &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jul 2014 - Oct 2018
+  <h2>Bangladesh University of Engineering and Technology</h2>
+  <em>B.Sc.</em> in Computer Science and Engineering &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jul 2014 - Oct 2018
     <p>
      <ul>
   	<li>Major: Artificial Intelligence and Machine Learning</li>
