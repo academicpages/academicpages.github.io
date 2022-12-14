@@ -303,7 +303,7 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
 
 
 <div>
-<p style="font-size:21px;"><b>Applied Scientist II Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2022 - Sep 2022</em></p>
+<p style="font-size:22px;"><b>Applied Scientist II Intern</b></p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <p style="font-size:18px;"><em>Jun 2022 - Sep 2022</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -322,7 +322,7 @@ performance) using sketching technique. <br> Tech Stack: Java, Scala, Spark
 
 	
 <div>
-<p style="font-size:21px;"><b>Data Science Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2021 - Sep 2021</em></p>
+<p style="font-size:21px;"><b>Data Science Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2021 - Sep 2021</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
