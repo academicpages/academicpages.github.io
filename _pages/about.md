@@ -472,7 +472,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-     <p style="font-size:20px;"><b>Ph.D.</b> in Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2019 - Mar 2022</p>
+     <p style="font-size:20px;"><b>MS</b> in Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2019 - Mar 2022</p>
      <ul>
   	<li>Specialization: Artificial Intelligence and Machine Learning</li>
   	<li>Advisors: <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a>, <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a></li>
