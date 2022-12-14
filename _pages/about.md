@@ -457,7 +457,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <h1>Education</h1>
 
   <h2>University of California San Diego</h2>
-  <p><em>Ph.D.</em> in Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2019 - Present</p>
+  <em>Ph.D.</em> in Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2019 - Present
     <p>
      <ul>
   	<li>Specialization: Data Mining</li>
@@ -466,33 +466,18 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
      </ul> 
     </p>
 
-
-
-
-<div class="archive__proj__row">
-  <div class="archive__proj__right">
+  <h2>University of California San Diego</h2>
+  <em>Ph.D.</em> in Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2019 - Present
     <p>
-     <p style="font-size:20px;"><b>MS</b> in Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2019 - Mar 2022</p>
      <ul>
   	<li>Specialization: Artificial Intelligence and Machine Learning</li>
   	<li>Advisors: <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a>, <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a></li>
 	<li>Thesis: Learning Across Irregular and Asynchronous Time Series [<a href="https://drive.google.com/file/d/1-mcb_nuEN8jZE4I5gXwLXdudRiLj_8Sz/view?usp=sharing" target="_blank">thesis</a> | <a href="https://drive.google.com/file/d/18cw8hkPw5Z2YseDbG9raf2kyEyELoxbF/view?usp=sharing" target="_blank">presentation</a>]</li>
      </ul> 
     </p>
-  </div>
-  <div class="archive__proj__left">
-     <div>
-        <img src="https://ranakroychowdhury.github.io/images/ucsd.png"> 
-    </div>
-  </div>
-</div>
-	
-
-<div>
-	<p style="font-size:20px;"><b>BSc</b> in <b>Computer Science and Engineering</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jul 2014 - Oct 2018</em></p>
-
-<div class="archive__proj__row">
-  <div class="archive__proj__right">
+ 
+  <h2>University of California San Diego</h2>
+  <em>Ph.D.</em> in Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2019 - Present
     <p>
      <ul>
   	<li>Major: Artificial Intelligence and Machine Learning</li>
@@ -500,13 +485,9 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 	<li>Thesis: Real Time Principal Component Analysis [<a href="https://drive.google.com/file/d/16Sy0VkMstIVt5NQkrUiRKDICIG7rbLDM/view?usp=sharing" target="_blank">thesis</a> | <a href="https://drive.google.com/file/d/1Kmki36q8a7tt7ezMgguHpMMWD-YG0Z9D/view?usp=sharing" target="_blank">presentation</a> | <a href="https://drive.google.com/file/d/1CnlzZ7umnejnuF_O7GmTTLymSFwpgsKJ/view?usp=sharing" target="_blank">poster</a>]</li>
      </ul> 
     </p>
-  </div>
-  <div class="archive__proj__left">
-     <div>
-        <img src="https://ranakroychowdhury.github.io/images/buet.png"> 
-    </div>
-  </div>
-</div>
+ 
+ </div>
+	
 	
 
 <div id="awards">
