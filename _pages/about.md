@@ -474,7 +474,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   </div>
   <div class="archive__proj__left">
      <div>
-        <img src=""> 
+        <img src="https://ranakroychowdhury.github.io/images/ucsd.png""> 
     </div>
   </div>
 </div>
@@ -497,7 +497,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   </div>
   <div class="archive__proj__left">
      <div>
-        <img src=""> 
+        <img src="https://ranakroychowdhury.github.io/images/buet.png""> 
     </div>
   </div>
 </div>
