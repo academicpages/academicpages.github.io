@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ADCS2022NeuralTypo
 year: 2022
 venue: 'Proceedings of the 26th Australasian Document Computing Symposium (ADCS ’22)'
-authors: <strong>Shengyao Zhuang</strong>, Xinyu Mao, Guido Zuccon
+authors: <strong>Shengyao Zhuang</strong>, Xinyu Mao, Guido Zuccon (<i class="fa fa-trophy" aria-hidden="true"> Best Paper Award </i>)
 track: Short paper
 ---
 ---
