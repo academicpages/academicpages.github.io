@@ -43,7 +43,7 @@ Work experience
 ======
 * Microsoft, Beijing, STCA group
   * Research Intern
-  * May 2022 - Current
+  * May 2022 - Nov 2022
   
 * The University of Queensland
   * Casual Research Assistant
