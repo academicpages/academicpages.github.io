@@ -1,5 +1,5 @@
 ---
-title: "Quantitative Methods"
+title: "Quantitative Methods and Mathematical Thinking"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
