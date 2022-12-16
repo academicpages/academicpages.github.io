@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Approaches to Knowledge"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "UCL, Arts and Sciences"
+date: 2022
+location: "London, UK"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Led two weekly seminars as part of the Approaches to Knowledge: Introduction to Interdisciplinarity undergraduate course. This included weekly lesson plans, student support and marking student assignments.
