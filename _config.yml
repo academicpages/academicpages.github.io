@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ranakroychowdhury"
+  github           : "ranakroychowdhury" target="_blank"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
   linkedin         : "ranakroychowdhury/"
-  orcid            : "https://orcid.org/0000-0002-8705-7485"
+  orcid            : # "https://orcid.org/0000-0002-8705-7485"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
