@@ -1,14 +1,13 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+type: "Causal Inference with R"
+permalink: /teaching/2019-spring-teaching-1
 venue: "University 1, Department"
-date: 2014-01-01
+date: 2019-01-01
 location: "City, Country"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+Taught descriptive and casual inference with R in Lagos and Abuja to young PhD students and academic lecturers. Its a Free Learnign Series about over 40 students attended 
 
 Heading 1
 ======
