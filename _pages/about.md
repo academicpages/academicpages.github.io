@@ -29,7 +29,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 Will be attending AAAI '23 at Washington D.C. from Feb 7 - 14, 2023. Come and say hi!
 
-[November 2022] "PrimeNet: Pre-Training for Irregular Multivariate Time Series" has been accepted to AAAI '23.
+[November 2022] <a href="https://github.com/ranakroychowdhury/PrimeNet" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a> has been accepted to AAAI '23.
 
 [August 2022] Won the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm Innovation Fellowship 2023</a> for our proposal on "Robust Machine Learning in IoT Devices"!
 
