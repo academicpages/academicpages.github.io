@@ -12,6 +12,7 @@ I am a Ph.D. candidate in [Computer Science at University of Southern California
 
 In 2019, I received my B.E. in computer science from [Yao Class](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University.
 
+In May-December 2022, I was a research scientist intern at [FAIR, Meta AI](https://ai.facebook.com/). 
 In Summer 2021, I was a research scientist intern at Amazon Robotics.
 In Spring 2018, I was a research intern at Carneige Mellon University advised by Professor [Fei Fang](https://feifang.info/).
 In Summer 2018, I was a research intern at The University of Hong Kong advised by Professor [Zhiyi Huang](https://i.cs.hku.hk/~zhiyi/).
@@ -21,7 +22,7 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
 [CV](https://taoanhuang.github.io/files/TaoanHuangCV.pdf)
 
 ## News
-* \[2022.08\] I started a new position as a student researcher at [FAIR at Meta AI](https://ai.facebook.com/).
+* \[2022.08\] I started a new position as a student researcher at [FAIR, Meta AI](https://ai.facebook.com/).
 * \[2022.07\] I presented my work with Amazon Robotics on [Deadline Aware Multi-Agent Tour Planning](https://hsi-workshop.github.io/hsi-2022-camera-ready/Deadline-Aware_Multi-Agent_Tour_Planning.pdf) at [HSI Workshop 2022 (in conjunction with IJCAI-ECAI 2022)](https://hsi-workshop.github.io/program.html).
 * \[2022.05\] Undergrad student Shuyang Zhang, that I co-advised with [Jiaoyang Li](https://jiaoyangli.me/), won the USC Outstanding CS Undergraduate Research Award. We published a paper at SoCS-22 on learning priority orders for agents in path planning. 
 * \[2022.04\] My research on Enhancing Seismic Resilient Water Pipe Network is selected for oral presentation at the Fourteenth Annual Annenberg Graduate Fellowship Research and Creative Project Symposium. Only six submissions were selected!
