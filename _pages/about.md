@@ -71,6 +71,208 @@ Will be attending AAAI '23 at Washington D.C. from Feb 7 - 14, 2023. Come and sa
 <div id="projects">
 <h1>Projects</h1>
 
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://github.com/ranakroychowdhury/PrimeNet" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a></b>
+    <br>Crafted a self-supervised pretraining method for irregular, asynchronous time-series through sampling density-aware contrastive learning and time-sensitive data reconstruction techniques, improving few-shot downstream performance.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/primenet.png"> 
+    </div>
+  </div>
+</div>
+  
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://dl.acm.org/doi/10.1145/3534678.3539329" target="_blank">TARNet: Task-Aware Reconstruction for Time-Series Transformer</a></b>
+    <br>Developed a self-supervised task-aware data reconstruction technique that uses end-task knowledge to customize the learned representation to boost end task performance, <b>improving time-series classification</b> by <b>2.7%</b>.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/tarnet.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://dl.acm.org/doi/abs/10.1145/3488560.3498461" target="_blank">ESC-GAN: Extending Spatial Coverage of Physical Sensors</a></b>
+    <br>Devised a globally-attentive multiscale Super-Resolution GAN that uses irregularly spaced sparse data to generate high-resolution spatiotemporal data for regions with no physical sensors, <b>reducing reconstruction loss by 3.7%</b>.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/escgan.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://dl.acm.org/doi/abs/10.1145/3485730.3485942" target="_blank">UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification</a></b>
+    <br>Innovated a Fourier-transform (FT) inspired weight initialization and learnable Short-Time FT layer redesign to integrate time and frequency domain information, <b>improving F1 score</b> for sensory time-series classification by <b>2.3%</b>.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/units.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>SemanticHAR: Enhancing Human Activity Recognition via Label Name Modeling</b>
+    <br>Built an encoder-decoder architecture to model label name semantics that harnesses the shared sub-structure of label names to distill knowledge across classes, <b>improving accuracy</b> of human activity recognition tasks by <b>1.7%</b>.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/semanticHAR.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>RIoT: Towards Robust Learning for Internet-of-Things</b>
+    <br>Built a comprehensive evaluation strategy and a model-agnostic training framework to facilitate robustness of machine learning models to missing feature sets in time-series data, achieving a <b>22% improvement</b> in <b>robustness</b>.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/riot.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>SPA: Spectrum-Preserving Augmentation for Time-Series Forecasting</b>
+    <br> Crafted a time-series data augmentation strategy that incorporates both time- and frequency-domain knowledge through mix-up and Empirical Mode Decomposition, respectively, <b>improving time-series forecasting</b> by <b>10.7%</b>.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/spa.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://github.com/ranakroychowdhury/https://drive.google.com/file/d/1uPpRJZOu-skpLsXmv_fCwRiKdxODPRlZ/view?usp=sharing" target="_blank">Generating Rationale in Visual Question Answering</a></b>
+    <br>Developed a model that generates a rationale behind selecting a multiple choice answer in visual question answering. Trained a joint visual-linguistic model to build multimodal image- and text-representation and a GPT-2 model to generate text.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/vcr.png"> 
+    </div>
+  </div>
+</div>
+
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>Accent Robust Speech Pre-Training</b>
+    <br>Built a pre-trained model for accent-robust speech representation that improves performance on several downstream tasks, like <b>Speech Recognition</b> by <b>20.4%</b> and <b>Speaker Verification</b> by <b>6.3%</b>, across <b>12 minority accents</b> with few minutes of data.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/mars.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>Automated Ticket Resolution from Semi-Structured Log Data</b>
+    <br>Developed an ML pipeline to automate ticket resolution by conducting data cleaning, preprocessing, and visualization on time-series semi-structured system-level log corpus, followed by statistical feature extraction and classification.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/automated_ticket_resolution.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>Model Explainability from SQL Surface for Redshift ML</b>
+    <br>Built a SHAP-based Explainability tool for AWS Redshift ML, enabling users to write SQL queries to introspect model predictions. <b>Improved execution speed</b> by <b>2x</b> and <b>reduced memory footprint</b> by <b>90%</b> over existing workflow in AWS Sagemaker. 
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/explainable_ai.png"> 
+    </div>
+  </div>
+</div>
+
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://dl.acm.org/doi/10.1145/3374750" target="_blank">Real-Time Principal Component Analysis</a></b>
+    <br> Innovated a novel algorithm for dimensionality reduction on streaming data that learns a robust, noise-resilient eigenspace representation using a simple, fast heuristic, achieving <b>Bhattacharyya Distance</b> of <b>over 0.90</b>.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/rpca_theory.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>Extracting Real-Time Insights from Stock Market and Twitter</b>
+    <br>Built and deployed a web application, based on Real Time PCA, to generate real-time analytics on streaming data fetched from Twitter, Google Search Trends, Bangladeshi Online News Portals and Dhaka Stock Exchange.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/rpca_application.png"> 
+    </div>
+  </div>
+</div>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b><a href="https://github.com/ranakroychowdhury/Multimodal-Deep-Learning-based-Stock-Price-Prediction" target="_blank">Stock Price Forecasting from Historical Prices and News Trends</a></b>
+    <br> Devised a multi-modal model to forecast stock prices based on historical prices and latest news trends. Used an LSTM to model the stock prices, Word2Vec to represent news headlines and an MLP to concatenate the features.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+    <div>
+        <img  src="https://ranakroychowdhury.github.io/images/stock_price_forecasting.png"> 
+    </div>
+  </div>
+</div>
+
+</div>
+	
+	
+	
 <!--
 
 <h2>Debiasing Generative Models</h2>
@@ -518,5 +720,6 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <h1>Skills</h1>
 	
 <div>
-	
+	Python, C, C++, Java, Matlab, SQL, PostgreSQL, Linux, Git, PyTorch, Keras, Tensorflow, NumPy, pandas, SciPy,
+Matplotlib, Seaborn, scikit-learn, statsmodels, sktime, tslearn, torchdyn, Pillow, OpenCV, NLTK, CoreNLP, Gensim, spaCy.
 </div>
