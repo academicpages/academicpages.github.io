@@ -172,7 +172,7 @@ Will be attending AAAI '23 at Washington D.C. from Feb 7 - 14, 2023. Come and sa
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b><a href="https://github.com/ranakroychowdhury/https://drive.google.com/file/d/1uPpRJZOu-skpLsXmv_fCwRiKdxODPRlZ/view?usp=sharing" target="_blank">Generating Rationale in Visual Question Answering</a></b>
+    <b><a href="https://drive.google.com/file/d/1uPpRJZOu-skpLsXmv_fCwRiKdxODPRlZ/view?usp=sharing" target="_blank">Generating Rationale in Visual Question Answering</a></b>
     <br>Developed a model that generates a rationale behind selecting a multiple choice answer in visual question answering. Trained a joint visual-linguistic model to build multimodal image- and text-representation and a GPT-2 model to generate text.
     </p>
   </div>
