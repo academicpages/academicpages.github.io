@@ -12,8 +12,8 @@ I am a Ph.D. candidate in [Computer Science at University of Southern California
 
 In 2019, I received my B.E. in computer science from [Yao Class](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University.
 
-In May-December 2022, I was a research scientist intern at [FAIR, Meta AI](https://ai.facebook.com/). 
-In Summer 2021, I was a research scientist intern at Amazon Robotics.
+In May-December 2022, I was a research scientist intern at [FAIR, Meta AI](https://ai.facebook.com/), where I worked closely with [Benoit Steiner](http://bsteiner.info/) and [Yuandong Tian](https://yuandong-tian.com/). 
+In Summer 2021, I was a research scientist intern at Amazon Robotics where I worked with [Vikss Shivashankar](https://sites.google.com/site/vikshiv1987/).
 In Spring 2018, I was a research intern at Carneige Mellon University advised by Professor [Fei Fang](https://feifang.info/).
 In Summer 2018, I was a research intern at The University of Hong Kong advised by Professor [Zhiyi Huang](https://i.cs.hku.hk/~zhiyi/).
 
