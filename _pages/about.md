@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Ranak's Homepage!"
+title: "Welcome to Kelly's Homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -91,7 +91,7 @@ Will be attending AAAI '23 at Washington D.C. from Feb 7 - 14, 2023. Come and sa
 
 	
 <div>
-<p style="font-size:20px;"><b>Data Science Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2021 - Sep 2021</em></p>
+<p style="font-size:20px;"><b>Data Science Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2021 - Sep 2021</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -110,7 +110,7 @@ Will be attending AAAI '23 at Washington D.C. from Feb 7 - 14, 2023. Come and sa
 
 
 <div>
-<p style="font-size:20px;"><b>Software Development Engineer Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2020 - Sep 2020</em></p>
+<p style="font-size:20px;"><b>Software Development Engineer Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2020 - Sep 2020</em></p>
 
 <div class="archive__proj__row">
   <div class="archive__proj__right">
@@ -440,7 +440,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
     </p>
 
   <h2>University of California San Diego</h2>
-  <em>M.S.</em> in Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2019 - Mar 2022
+  <em>M.S.</em> in Computer Science &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sep 2019 - Mar 2022
     <p>
      <ul>
   	<li>Specialization: Artificial Intelligence and Machine Learning</li>
@@ -450,7 +450,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
     </p>
  
   <h2>Bangladesh University of Engineering and Technology</h2>
-  <em>B.Sc.</em> in Computer Science and Engineering &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jul 2014 - Oct 2018
+  <em>B.Sc.</em> in Computer Science and Engineering &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jul 2014 - Oct 2018
     <p>
      <ul>
   	<li>Major: Artificial Intelligence and Machine Learning</li>
