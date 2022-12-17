@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Kelly's Homepage!"
+title: "Welcome to Ranak's Homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
