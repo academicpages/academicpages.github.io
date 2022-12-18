@@ -3,7 +3,7 @@ title: "Teaching experience 1"
 collection: teaching
 type: "Causal Inference with R"
 permalink: /teaching/2019-spring-teaching-1
-venue: "University 1, Department"
+venue: "Free Learning Series, Lagos & Abuja"
 date: 2019-01-01
 location: "City, Country"
 ---
