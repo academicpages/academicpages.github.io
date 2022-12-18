@@ -14,11 +14,6 @@ Prior to joining University of Texas, I obtained my PhD from [Purdue University]
 
 Outside academia, I am very passionate about martial arts, and specifically, I spend time studying and training [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu) system of grappling.
 
-## Academic Service
-<ul> <li> 
-  2021: Reviewer for <a href="https://aiplans.github.io/"> AIPLANS workshop at NeurIPS 2021 </a>
-  </li> </ul>
-
 ## Publications
 <ul>
     <li> Symbolic Analysis of Weak Concurrency Semantics in Modern Database Programs
@@ -115,6 +110,8 @@ Outside academia, I am very passionate about martial arts, and specifically, I s
    </ul>
       
 
-
-
+## Academic Service
+<ul> <li> 
+  2021: Reviewer for <a href="https://aiplans.github.io/"> AIPLANS workshop at NeurIPS 2021 </a>
+  </li> </ul>
 
