@@ -6,6 +6,9 @@ main:
   - title: "Publications"
     url: /publications/
     
+  - title: "Experience"
+    url: /experience/
+    
   - title: "Articles"
     url: /articles/
 
@@ -14,6 +17,9 @@ main:
 
   - title: "CV"
     url: /cv/
+ 
+  - title: "Contact"
+    url: /contact/
     
   - title: "Teaching"
     url: /teaching/    
