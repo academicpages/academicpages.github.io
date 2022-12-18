@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "a2f51dc4e90aa279",
+    "type": "split",
+    "children": [
+      {
+        "id": "a31d7ba3025c339c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e071ca50cb63f8b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/006_paper_lvr.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ac8f392454269ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "24c555252c47763b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21388f025c32b0b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "90dc0d884b1a160b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cbb917127246892e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4f915fd3e262ea6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "792f5bb3980b0c05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51d4dae0e49a1efc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/006_paper_lvr.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e413c27f06c463a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/006_paper_lvr.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7dc797a72c68f180",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e77ab77a61c96fe3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/006_paper_lvr.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e071ca50cb63f8b2",
+  "lastOpenFiles": [
+    "_posts/2022-09-22-002_brain_and_body.md"
+  ]
+}

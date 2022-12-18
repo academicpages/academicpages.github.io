@@ -1,0 +1,19 @@
+[
+  "file-explorer",
+  "global-search",
+  "switcher",
+  "graph",
+  "backlink",
+  "outgoing-link",
+  "tag-pane",
+  "page-preview",
+  "daily-notes",
+  "templates",
+  "note-composer",
+  "command-palette",
+  "editor-status",
+  "starred",
+  "outline",
+  "word-count",
+  "file-recovery"
+]

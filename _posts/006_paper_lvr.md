@@ -27,3 +27,4 @@ $$\ell(P) \triangleq -\frac{\sigma^2P^2}{2}V''(P)$$
 <!-- <center><img src="https://i.imgur.com/Q3okiVX.jpg" width= 30%></center> -->
 <!-- ![excelsior_ny_bw](/assets/excelsior_ny_bw.jpeg) -->
 
+![[venn-with-loops-small.png]]

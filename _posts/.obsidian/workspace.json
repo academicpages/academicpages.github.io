@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "ae75bdcc26e9a276",
+    "type": "split",
+    "children": [
+      {
+        "id": "f05fdf320cffaaf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cc2362fede652b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-09-20-001_linear_clear_focus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dfa490da94e8f8ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "b32c5c8e317c1c40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88b8b8b23e56fa90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b11713c1bbb3c5bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "063c5f2015740ca1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3d61fc8fcb4b9f59",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb90df5f45175358",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62db8bbcd8bfb59b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022-09-20-001_linear_clear_focus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5daeafc33dd24ce8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022-09-20-001_linear_clear_focus.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "520c8227ce748c10",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "97f0abb0fad43b96",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022-09-20-001_linear_clear_focus.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8cc2362fede652b0",
+  "lastOpenFiles": [
+    "2022-09-22-002_brain_and_body.md",
+    "venn-with-loops-small.png",
+    "003_fear.md",
+    "004_evolution_towards_antifragility.md",
+    "006_paper_lvr.md",
+    "007_thanksgiving.md",
+    "005_automated_market_marking.md",
+    "2022-09-20-001_linear_clear_focus.md"
+  ]
+}
