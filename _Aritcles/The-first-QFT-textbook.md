@@ -1,6 +1,6 @@
 ---
 title: "The first QFT texbook"
-collection: articles
+collection: Articles
 permalink: /articles/The-first-QFT-texbook
 excerpt: 'This articles is written to introduce my first QFT textbook:'Quantum Field Theory Lectures of Sidney Coleman'.'
 date: 2022-08-07
