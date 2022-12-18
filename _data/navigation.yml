@@ -10,25 +10,10 @@ main:
     url: /experience/
     
   - title: "Articles"
-    url: /articles/
-
-  - title: "Talks"
-    url: /talks/    
+    url: /articles/   
 
   - title: "CV"
     url: /cv/
  
   - title: "Contact"
     url: /contact/
-    
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "Guide"
-    url: /markdown/
