@@ -1,2 +1,8 @@
-This page is under construction.
+---
+layout: archive
+title: "Experiences"
+permalink: /experiences/
+author_profile: true
+---
 
+This page is under construction.
