@@ -18,6 +18,7 @@ In 2020, I joined [Bosch Research](https://www.bosch.us/our-company/bosch-in-the
 
 News
 ======
+* [2022/12/19] &nbsp; I’m proud to ship Google's Face Unlock on Pixel 7 / Pixel 7 Pro.
 * [2022/10/25] &nbsp; I’m selected as ECCV 2022 Outstanding Reviewer.
 * [2022/10/03] &nbsp; One paper is accepted in BMVC 2022.
 * [2022/07/27] &nbsp; I will serve as an Area Chair for BMVC 2022.
