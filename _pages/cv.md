@@ -32,4 +32,4 @@ redirect_from:
   
 # Awards and Honors
 * [Husky 100](https://www.washington.edu/husky100/year/2020/#name=andrew-hu), University of Washington (2020)
-* [Summer Research Fellowship](https://education.msu.edu/resources/academic-student-affairs/summer-research-fellowships/), Michigan State University (2022)
+* [Summer Research Fellowship](https://education.msu.edu/resources/academic-student-affairs/summer-research-fellowships/), Michigan State University (2022, 2023)
