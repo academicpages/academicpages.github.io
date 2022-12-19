@@ -11,9 +11,9 @@ redirect_from:
 About Me
 ======
 
-I am a second year PhD student in Statistics at Baylor University. I graduated in 2021 from Brigham Young University with a B.S. in Statistical Science and a minor in mathematics.
+I am a second year PhD student in Statistics at Baylor University. I graduated in 2021 from Brigham Young University with a B.S. in Statistical Science and a minor in mathematics, and I received my M.S. in Statistics from Baylor in December, 2022.
 
-While at BYU, I worked as an undergraduate research assistant for a year working on Bayesian models to estimate elemental profiles and contributions of various potential pollution sources across the intermountain west. This project resulted in my first co-authored [paper](https://trgrimm.github.io/publications/), which has been submitted for publication and is currently under review.
+While at BYU, I worked as an undergraduate research assistant for a year working on Bayesian models to estimate elemental profiles and contributions of various potential pollution sources across the intermountain west. This project resulted in my first co-authored [publication](https://trgrimm.github.io/publications/).
 
 While at Baylor, I have had the opportunity to work on a variety of different projects that have helped me develop my skills as a statistician and data scientist. As part of my duties as a graduate assistant at Baylor, I:
 
