@@ -1,0 +1,48 @@
+---
+title: "Dzidzilalich or dᶻidᶻəlal̕ič?: a case study of recognizing indigenous place names"
+date: 2022-12-19
+permalink: /posts/dᶻidᶻəlal̕ič
+tags:
+  - indigenous
+  - lushootseed
+---
+
+# Dzidzilalich or dᶻidᶻəlal̕ič?: a case study of recognizing indigenous place names
+
+The Seattle City mayor and council recently [announced their intent to add an honorary name](https://harrell.seattle.gov/2022/12/14/mayor-harrell-council-president-juarez-propose-honorary-name-dzidzilalich-for-alaskan-way-and-elliott-way-elevating-coast-salish-tribal-history-and-culture/) to two streets along the waterfront based on the indigenous name for the area roughly around what is now Seattle. This name, dᶻidᶻəlal̕ič, comes from the name for the Duwamish village at what is now the Seattle waterfront in the [Lushootseed language](https://en.wikipedia.org/wiki/Lushootseed) (See also [1](https://www.puyalluptriballanguage.org/), [2](https://tulaliplushootseed.com/)). However, Seattle chose to use a historical spelling of the name "dzidzilalich," which is no longer the most accurate spelling in Lushootseed. This name has not been used in teaching materials for Lushootseed since the modern Lushootseed alphabet was created in the 1970s.
+
+The central question in choosing between the two spellings is this: **Do the benefits of increasing awareness of indigenous place names among people who can't read Lushootseed outweigh the harms of improper spelling?**
+
+![Mock up of the sign saying Alaskan Way on top with "Dzidzilalich" below](https://waterfrontseattle.blob.core.windows.net/media/Default/images/2022_1208_WFS_Alaskan_Renaming_Dzidzilalich_rect-2.png){:height=200px}
+Credit: [Waterfront Seattle](https://waterfrontseattle.org/dzidzilalich)
+
+The City of Seattle, to their credit, chose this spelling in consultation with the Suquamish and Muckleshoot tribes. Before the Lushootseed alphabet was standardized, this was considered the correct spelling, so it has been spelled this way in historical documents. However, using this historical spelling in the modern day prioritizes the values of settlers who prefer the non-threatening nature of the anglicized spelling over the values of Lushootseed speakers who spell this name correctly. As for clarity of reading the street sign, the official name will stay the same. Anyone who has trouble reading the honorary name is free to use the official name labeled in green like every other street sign.
+
+![Map of Lushootseed's historic area. "Lushootseed covers an area stretching from Olympia in the South to the Skagit Valley in the North"](https://i0.wp.com/tulaliplushootseed.com/wp-content/uploads/2016/12/Lushootseed_map.gif?ssl=1)
+Credit: [Tulalip Tribe](https://tulaliplushootseed.com/about-dx%ca%b7l%c9%99sucid-lushootseed/)
+
+The elder [taqʷšəbluʔ](https://en.wikipedia.org/wiki/Vi_Hilbert) (Vi Hilbert), who paved the way for the modern Lushootseed revitalization efforts, believed that it was "less respectful" to not use the modern Lushootseed alphabet. She wrote [a letter](https://depts.washington.edu/lutteach/?p=52) in 2007 criticizing a book which chose not to use the Lushootseed alphabet.
+
+>Lushootseed... is so rich that when it was first written down, the 26 letters of the English alphabet could not catch its 46 sounds... [The modern Lushootseed alphabet] is a tight woven basket that will hold all the sounds of Lushootseed.
+
+> Scholars use this alphabet.  Serious publishers use it.  Local tribes use it. Dr. Thrush does not.  It hurts my heart~mind that Dr. Thrush has followed his collaborator Dr. Nile Thompson in ignoring the two published dictionaries of our language (by this same press) and instead used in their Atlas of Indigenous Seattle something less respectful, from the days of the typewriter, of all this work, technical and tribal, that has come before them.  Such a basket must be returned for further work.
+>
+> My Board wants me to send a word of caution out to those, who with the best of hearts, would want to find the names of our special places and honor the First People with the information that is found at the end of this book. Honor the First People by using the names as our scholarly ancestors and we write them.  You can find this information more accurately in the Dr. T.T. Waterman place names revised and restudied by myself, Dr. Jay Miller, and Zalmai Zahir, one of the volumes published by Lushootseed Press to share our cherished traditions.
+
+Of course, many of the place names we use today which are endonymic (based on indigenous names) would not be considered proper spelling today, either. Seattle is named after the Duwamish Chief Seattle, whose name would be better represented as siʔaɬ. People would have a harder time pronouncing that, not only because the belted L letter (ɬ) is an unfamiliar character, but because the [sound it represents](https://en.wikipedia.org/wiki/Voiceless_dental_and_alveolar_lateral_fricatives) is not present in English. We can also consider the names of tribes like Snohomish, whose modern pronunciations is significantly different from when they first encountered pastəd (English speaking white settlers). Shifts in consonants over a hundred years changed "m" and "n" into "b" and "d", so the modern name for the Snohomish people is [sduhubš](https://tulaliplushootseed.com/encyclopedia/sduhubs/).
+
+So, should we change the names of Seattle and Snohomish county? No, I'm not arguing for that. The difference is that those spellings and pronunciations are well established, not only among settlers and settler descendents, but among indigenous communities as well. Here, we have an opportunity to start over with one place name at a time. And who knows, maybe in the future we may be like New Zealand and [insist on the indigenous names as well](https://en.wikipedia.org/wiki/Aotearoa).
+
+The benefits of this anglicization may also be overstated. One Twitter user pointed out that they can't even properly pronounce the anglicized title without assistance. I would take that as a reason to avoid the anglicization and just go with the correct spelling, since most people will need to listen to a recording (which has already been provided by the Muckleshoot Tribe) to properly pronounce it anyway.
+
+We can also look to our neighbors in Canada, to see that they often use the native alphabet in their indigenous place names that were renamed relatively recently. The comparison is particularly apt because although first nations there do not speak Lushootseed, many indigenous languages are also in the Coast Salish family and share similar sounds and alphabet. Take the [Sen̓áḵw development](https://senakw.com/) near downtown Vancouver, managed by the Squamish Nation (project started in 2020). Or [ȽÁU,WELṈEW̱/John Dean Provincial Park](https://bcparks.ca/explore/parkpgs/john_dean/) in Saanich, BC (renamed 2019).
+
+How will people be able to type the name of the street without a Lushootseed keyboard? The Lushootseed alphabet today is encoded in digital text through Unicode, the text format that allows us to type characters from any language on Earth. Many search engines have tools that look for similar characters, so you could type "c" instead of "č" or "kw" instead of "kʷ." I was able to find "Sen̓áḵw Development" just fine on Google Maps by typing in "senakw." However, installing a Lushootseed keyboard on both desktop and mobile devices is easy with the open-source tool [Keyman](https://keyman.com/keyboards/lushootseed) and they also have an [online keyboard](https://keyman.com/keyboards/lushootseed) for locked-down devices.
+
+![Screenshot of Google Maps showing Sen̓áḵw appearing for the search "senakw"](https://annedrewhu.com/images/SenakwGoogleMaps.png)
+
+Do the benefits of "Dzidzilalich" outweigh the harms? I don't think so, but I also understand that the harms are small. Ultimately, recognizing indigenous place names is a good start in decolonizing Seattle. But it feels bittersweet when the authentic spelling gets swept under the rug in favor of the anglicized version.
+
+Remember, we can use this as an opportunity to *learn*! When we see a spelling that we're not familiar with, we can take that as an invitation to learn how to pronounce it. It can be really fun to learn how to pronounce letters like ɬ, ʔ, and ƛ̕! That attention to authenticity is paying respect to a language that colonialism tried to kill.
+
+huyəxʷ čəd (I am finished)
