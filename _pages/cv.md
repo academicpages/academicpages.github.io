@@ -20,7 +20,7 @@ Internship experience
 ======
 * Jun. 2021 - Present: Research Internship
   *  [Shanghai AI Lab (Smart Healthcare Research Center)](https://www.shlab.org.cn).
-  *  Job description: Data-efficient learning for medical image analysis, working with <b>[Dr. Tao Song](https://scholar.google.com/citations?user=Xzk31ssAAAAJ&hl=en)</b> and <b>[Prof. Xiaofan Zhang](https://scholar.google.com/citations?user=30e95fEAAAAJ&hl=en)</b>.
+  *  Job description: Data-efficient learning for medical image analysis, working with <b>[Prof. Xiaofan Zhang](https://scholar.google.com/citations?user=30e95fEAAAAJ&hl=en)</b>.
 
 * Jan. 2020 - June 2020: Research Internship
   * SenseTime Research
