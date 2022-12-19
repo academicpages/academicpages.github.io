@@ -28,7 +28,7 @@ Research
 <p class="lead"> My research is either forthcoming, or has been published in Electoral Studies, the European Journal of Political Economy, Acta Politica, Journal of Politics in Latin America, Regional Science, Policy and Practice and Revista de Ciencia Politica.</p>
 
 
-<img src="https://www.dropbox.com/s/hlroz3qjeyrwmta/scholar_citations.png?dl=0" alt="gscholar"  style="width:800px;height:600;;border:0;">
+<img src="https://www.dropbox.com/pri/get/scholar_citations.png?_subject_uid=3215644&w=AACNdn5iG-2MsJhPZDOQtXeD7wVD3HCySpJanC_2UFWzBg" alt="gscholar"  style="width:800px;height:600;;border:0;">
 
 
 
