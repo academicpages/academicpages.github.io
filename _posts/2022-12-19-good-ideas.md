@@ -1,6 +1,6 @@
 ---
 title:  "On good ideas"
-date:   2022-10-21 09:46:04
+date:   2022-12-21 09:46:04
 ---
 
 - At their essence, ideas fall in the space between good and bad ideas; note here that I say that ideas can fall in a range of the binary classification system.
