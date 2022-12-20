@@ -8,13 +8,13 @@ author_profile: true
 
 * R. Cont, P. Das. _Measuring roughness of signals_. [Working paper 2022]()
 
-* R. Cont, P. Das. _Rough Volatility: fact or artifact?_. [Arxiv](https://arxiv.org/abs/2203.13820)
+* R. Cont, P. Das. _Rough Volatility: Fact or Artefact?_. [Ssrn](https://ssrn.com/abstract=4065951 )
 
 * R. Cont, P. Das. _Quadratic variation along refining partitions: Constructions and examples_. [Journal of Mathematical Analysis and Applications](https://www.sciencedirect.com/science/article/pii/S0022247X22001871) 
 
-* R. Cont, P. Das. _Quadratic variation and quadratic roughness_. [To appear: Bernolli]( https://arxiv.org/abs/1907.03115 )
+* R. Cont, P. Das. _Quadratic variation and quadratic roughness_. [Bernoulli 29 (1) 496 - 522, February 2023](https://projecteuclid.org/journals/bernoulli/volume-29/issue-1/Quadratic-variation-and-quadratic-roughness/10.3150/22-BEJ1466.full )
 
-* P. Das, T. Parthasarathy, G. Ravindran. _On Completely Mixed Stochastic Games_. [To appear: Opetation research forum](https://arxiv.org/abs/1703.04619)
+* P. Das, T. Parthasarathy, G. Ravindran. _On Completely Mixed Stochastic Games_. [Operations Research Forum volume 3, Article number: 57 (2022)](https://link.springer.com/article/10.1007/s43069-022-00150-y#:~:text=A%20stochastic%20game%20is%20said,played%20with%20strictly%20positive%20probabilities.)
 
 * P. Das, S. Das, A. Lahiri. _Understanding Sea Ice Melting via Functional Data Analysis_. [Current Science](https://www.jstor.org/stable/26978320?seq=1)
 
