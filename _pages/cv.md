@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-------
+## Education
+
 Miranda House, University of Delhi, India, Bachelor of Science, Physics (Honours)
 :   October, 2020 - current
 :   Major: Physics ; Minor: Mathematics
