@@ -9,6 +9,12 @@ author_profile: true
 
 ## Indonesian Throughflow Variability
 
+The Indonesian Throughflow (ITF) is a low-latitude oceanic pathway that connects the tropical Pacific and Indian Oceans.
+
 ## Southeast Asia Rainfall Extremes
 
-## Paleoceanography 
+Throughout the last millennium, Mainland Southeast Asia (MSEA) experienced decade-long persistent drought and pluvial periods. 
+
+## Glacial Terminations
+
+During the Quaternary period (2.6 Ma to present), Earth's climate transitioned between cold periods with expansive Northern Hemisphere ice-sheets (glacial ) and warmer intervals when these ice-sheets retreated (interglacial). 
