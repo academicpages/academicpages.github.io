@@ -3,9 +3,6 @@ main:
   - title: "Research"
     url: /research/ 
     
-  - title: "Data"
-    url: /data/
-    
   - title: "Outreach"
     url: /outreach/  
 
