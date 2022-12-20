@@ -15,7 +15,7 @@ I am a third year undergraduate at Miranda House, University of Delhi, India. I 
 
 
 
-#**Markdown generator**
+
 #How to edit your site's GitHub repository
 #------
 
