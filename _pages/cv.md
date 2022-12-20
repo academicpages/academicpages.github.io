@@ -11,6 +11,6 @@ redirect_from:
 
 {% include base_path %}
 
-<sub>[Download CV (English)](https://drive.google.com/file/d/11F1vRxe1MT3IdGYGKChGHL9lgbslO8cH/view?usp=sharing)<sub>
+<sub>[Download CV (English)](https://github.com/abiola1864/resume/raw/main/Abiola__Oyebanjo_CV.pdf)<sub>
   
   
