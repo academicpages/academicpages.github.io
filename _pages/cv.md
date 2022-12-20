@@ -28,12 +28,12 @@ Research Experience
   
 Teaching Experience
 ======
-* Joint Program Network (Summer 2022)
+* Joint Program Network (MIT, Summer 2022)
   * Delivered a class lecture
-* Introduction to Climate Science (Spring 2020)
+* Introduction to Climate Science (MIT, Spring 2020)
   * Graduate Teaching Assistant
-* General Chemistry Lab (Spring 2018)
-  * Undergradaute Teaching Assistant
+* General Chemistry Lab (Columbia University, Spring 2018)
+  * Undergraduate Teaching Assistant
 
 Service and Leadership
 ======
