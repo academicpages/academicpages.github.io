@@ -10,7 +10,7 @@ redirect_from:
 
 
 <img align="right" src="https://assamidanov.github.io/images/profile_photo.jpeg" alt="Photo" style="width: 210px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
-I am a third-year Doctoral student in Economics at Claremont Graduate University (CGU) and a member of the [Computational Justice Lab](https://www.http://computationaljusticelab.org/). My primary research interest is applied microeconomics; however, my other interests include causal inference and applications of machine learning methods for causal inference.
+I am a Doctoral student in Economics at Claremont Graduate University (CGU) and a member of the [Computational Justice Lab](https://www.http://computationaljusticelab.org/). My primary research interest is applied microeconomics; however, my other interests include causal inference and applications of machine learning methods for causal inference.
 
 I have been working as a Data Research Intern at 211 LA for the last two years. I have built recommendation systems
 for 211 dispatchers by using Deep Learning and Machine Learning models in Pytorch and Sklearn(Python). I have also been involved in the project of evaluating recommender bot by using A/B testing techniques.
