@@ -10,7 +10,7 @@ author_profile: true
 
 * R. Cont, P. Das. _Rough Volatility: Fact or Artefact?_. [Ssrn](https://ssrn.com/abstract=4065951 )
 
-* R. Cont, P. Das. _Quadratic variation along refining partitions: Constructions and examples_. [Journal of Mathematical Analysis and Applications](https://www.sciencedirect.com/science/article/pii/S0022247X22001871) 
+* R. Cont, P. Das. _Quadratic variation along refining partitions: Constructions and examples_. [Journal of Mathematical Analysis and Applications - Volume 512, 126173](https://www.sciencedirect.com/science/article/pii/S0022247X22001871) 
 
 * R. Cont, P. Das. _Quadratic variation and quadratic roughness_. [Bernoulli 29 (1) 496 - 522, February 2023](https://projecteuclid.org/journals/bernoulli/volume-29/issue-1/Quadratic-variation-and-quadratic-roughness/10.3150/22-BEJ1466.full )
 
@@ -18,7 +18,7 @@ author_profile: true
 
 * P. Das, S. Das, A. Lahiri. _Understanding Sea Ice Melting via Functional Data Analysis_. [Current Science](https://www.jstor.org/stable/26978320?seq=1)
 
----
+
 Thesis: 
 ---
  
