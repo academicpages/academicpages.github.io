@@ -10,50 +10,29 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+------
+* Miranda House, University of Delhi, India, Bachelor of Science, Physics (Honours)
+: October, 2020 - current
+: Major: Physics ; Minor: Mathematics
+: Cumulative Grade Point Average: 9/10
+* Bharat Bharti Senior Secondary School, Kullu, Himachal Pradesh, Indi
+* Our Lady of the Snows High School, Kullu, Himachal Pradesh, India
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+------
+* Technical Languages
+: C++, Python, SCILab/MATLAB, Mathematica, Shell Scripting, C, Java 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Technical Software
+* Languages
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Leadership
+------
+* Vidyut, The Physics Society, Miranda House, University of Delhi, India
+: President
+
+Campus Activities
+----
+* Member, Robotics Society, Miranda House, University of Delhi
+* Member, Women’s Development Cell, Miranda House, University of Delhi
+* Queer Collective [Creative Team], Miranda House, University of Delhi 
