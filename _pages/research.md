@@ -17,4 +17,4 @@ Throughout the last millennium, Mainland Southeast Asia (MSEA) experienced decad
 
 ## Glacial Terminations
 
-During the Quaternary period (2.6 Ma to present), Earth's climate transitioned between cold periods with expansive Northern Hemisphere ice-sheets (glacial ) and warmer intervals when these ice-sheets retreated (interglacial). 
+During the Quaternary period (2.6 Ma to present), Earth's climate transitioned between glacial periods with expansive Northern Hemisphere ice-sheets and warmer interglacial intervals when these ice-sheets retreated. 
