@@ -5,7 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
-* Selected for <var>Dr. B.R. Ambedkar National Merit Award Scheme 2020</var> merit award with 3rd position (Awarded to dalit students (belonging from marginalised communities) in India for their outstanding performance in senior secondary examinations) 
+* Selected for <var>Dr. B.R. Ambedkar National Merit Award Scheme 2020</var> merit award with 3rd position (Awarded to Dalit students (belonging from marginalised communities) in India for their outstanding performance in senior secondary examinations) 
 
 * <var>Summer Undergraduate Research Fellowship (SURF) 2022</var> at California Institute of Technology, Pasadena, California, U.S.A. 
 
