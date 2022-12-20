@@ -15,7 +15,9 @@ Miranda House, University of Delhi, India, Bachelor of Science, Physics (Honours
 :   October, 2020 - current
 :   Major: Physics ; Minor: Mathematics
 :   Cumulative Grade Point Average: 9/10
-Bharat Bharti Senior Secondary School, Kullu, Himachal Pradesh, Indi
+
+Bharat Bharti Senior Secondary School, Kullu, Himachal Pradesh, India
+
 Our Lady of the Snows High School, Kullu, Himachal Pradesh, India
 
 Skills
