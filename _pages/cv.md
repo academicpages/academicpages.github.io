@@ -9,36 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
 
-<h3>Miranda House, University of Delhi, India, Bachelor of Science, Physics (Honours)</h3><br>
-<var> <font size="-1">October, 2020 - current,</font></var><br>
-:   <var>Major: Physics ; Minor: Mathematics</var>
-:   <var>Cumulative Grade Point Average: 9/10</var>
+Education
+-------
+Miranda House, University of Delhi, India, Bachelor of Science, Physics (Honours)><br>
+<var> <font size="-1">October, 2020 - current</font></var><br>
+<var><font size="-1">Major: Physics ; Minor: Mathematics</font></var>
+<var><font size="-1">Cumulative Grade Point Average: 9/10</font></var>
 
 Bharat Bharti Senior Secondary School, Kullu, Himachal Pradesh, India
-:   <var>April, 2018 - April, 2020</var>
-:   <var>Subjects studied: Physics, Chemistry, Mathematics, Computer Science, English</var>
-:   <var>Percentage: 98.00 % (Himachal Pradesh Board of School Education)</var>
+<var><font size="-1">April, 2018 - April, 2020</font></var>
+<var><font size="-1">Subjects studied: Physics, Chemistry, Mathematics, Computer Science, English</font></var>
+<var><font size="-1">Percentage: 98.00 % (Himachal Pradesh Board of School Education)</font></var>
 
 Our Lady of the Snows High School, Kullu, Himachal Pradesh, India
-:   <var>February, 2005 - March, 2018</var>
-:   <var>Subjects studied: Physics, Chemistry, Mathematics, Biology, Computer Science, History and Civics, Geography, English (Grammar and literature), Hindi.</var>
-:   <var>Percentage: 92.06% (Council for Indian School Certificate Examinations)</var>
+<var><font size="-1">February, 2005 - March, 2018</var></font>
+<var><font size="-1">Subjects studied: Physics, Chemistry, Mathematics, Biology, Computer Science, History and Civics, Geography, English (Grammar and literature), Hindi.</var></font>
+<var><font size="-1">Percentage: 92.06% (Council for Indian School Certificate Examinations)</var></font>
 
-## Skills
-
+Skills
+------
 Technical Languages
-:   C++, Python, SCILab/MATLAB, Mathematica, Shell Scripting, C, Java, LaTeX 
+<var><font size="-1">C++, Python, SCILab/MATLAB, Mathematica, Shell Scripting, C, Java, LaTeX</var></font>
 
 Technical Software
-:   XSPEC, High Energy Astrophysics Software (HEASoft), Chandra Interactive Analysis of Observations (CIAO), Bayesian Estimation of Hardness Ratios (BEHR), Arduino, Canva, Microsoft Excel (Google Sheets).
+<var><font size="-1">XSPEC, High Energy Astrophysics Software (HEASoft), Chandra Interactive Analysis of Observations (CIAO), Bayesian Estimation of Hardness Ratios (BEHR), Arduino, Canva, Microsoft Excel (Google Sheets).</var></font>
 
 Languages
-:   Fluent English; Fluent Hindi
+<var><font size="-1">Fluent English; Fluent Hindi</var></font>
 
-## Leadership
-
+Leadership
+------
 Vidyut, The Physics Society, Miranda House, University of Delhi, India
 ### President
 May, 2021 - June, 2022<br>
@@ -51,8 +52,8 @@ May, 2021 - June, 2022<br>
 * Webinars were organised to expose students to different research fields in physics. 
 * A departmental fest "VOLT" was organised wherein a poster presentation, paper presentation, circuit designing competition and a seminar was held. 
 
-## Campus Activities
-
+Campus Activities
+-------
 ### Member, Robotics Society, Miranda House, University of Delhi
 December 2020- Present
 Undertaken a 2 month project titled "Passcode Pin Lock System" under the supervision of Robsoc. We used tinkercad to simulate an arduino based model of the system.
