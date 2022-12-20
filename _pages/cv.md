@@ -12,7 +12,7 @@ redirect_from:
 # Education
 
 <h3>Miranda House, University of Delhi, India, Bachelor of Science, Physics (Honours)</h3><br>
-<var> <font size="-1">October, 2020 - current,/font></var><br>
+<var> <font size="-1">October, 2020 - current,</font></var><br>
 :   <var>Major: Physics ; Minor: Mathematics</var>
 :   <var>Cumulative Grade Point Average: 9/10</var>
 
