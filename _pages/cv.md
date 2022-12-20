@@ -11,6 +11,8 @@ redirect_from:
 
 {% include base_path %}
 
-<sub>[Download CV (English)](https://github.com/abiola1864/resume/raw/main/Abiola__Oyebanjo_CV.pdf)<sub>
+<sub>[Download CV (English)](https://github.com/abiola1864/abiola1864.github.io/raw/master/files/Abiola__Oyebanjo_CV.pdf)<sub>
+  
+  
   
   
