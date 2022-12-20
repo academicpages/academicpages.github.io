@@ -218,28 +218,28 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _awards
+  # _portfolio
   - scope:
       path: ""
-      type: awards
+      type: portfolio
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _research
+  # _teaching
   - scope:
       path: ""
-      type: research
+      type: teaching
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _outreach
+  # _talks
   - scope:
       path: ""
-      type: outreach
+      type: talks
     values:
       layout: talk
       author_profile: true
