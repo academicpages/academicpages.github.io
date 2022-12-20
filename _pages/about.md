@@ -12,10 +12,3 @@ redirect_from:
 About Me
 ------
 I am a third year undergraduate at Miranda House, University of Delhi, India. I am an astrophysics enthusiast and I love to explore the interdisciplinary aspects of physics. Apart from physics I like discussing on social issues, dancing, traveling, writing and journaling. 
-
-
-
-
-#How to edit your site's GitHub repository
-#------
-
