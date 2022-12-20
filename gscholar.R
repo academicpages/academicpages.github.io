@@ -1,4 +1,5 @@
-#!/usr/local/bin/Rscript
+#install.packages("ggplot2")
+#library(ggplot2)
 
 # load packages
 if (!require("pacman")) install.packages("pacman"); library(pacman) 
@@ -30,7 +31,7 @@ p = ggplot(cit,aes(x=year,y=cites))+
   
 # p
 
-png("/Users/hectorbahamonde/Library/CloudStorage/Dropbox/scholar_citations.png",width=2200,height=1000,res=250)
+png("/Users/hectorbahamonde/Seafile/gscholar/scholar_citations.png",width=2200,height=1000,res=250)
 print(p)
 dev.off()
 # https://www.dropbox.com/s/hlroz3qjeyrwmta/scholar_citations.png?dl=0
