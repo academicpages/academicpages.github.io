@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here is [my documented CV]("gauri patti cv 2022.11.18.pdf")<br>
+Here is [my documented CV]["https://drive.google.com/file/d/10jjPDFScWNQqOa1bvvY4vcUJoZEHKm2k/view?usp=sharing"]<br>
                                            
 Education
 ------
