@@ -17,7 +17,9 @@ Education
 
 Work experience
 ======
-* **May – Nov. 2022: BCG GAMMA - Visiting Data Scientist**
+* **Jan. 2022 – present: BCG GAMMA - Data Scientist**
+
+* **May – Dec. 2022: BCG GAMMA - Visiting Data Scientist**
   * Development of an *Advanced Analytics* pilot for a luxury brand aiming at personalizing the multi touchpoint customer experience
   * Implemented a  *demand planning pipeline* for a pharmaceutical company with 6+ time series models showing a 10% increase in forecast accuracy
 
