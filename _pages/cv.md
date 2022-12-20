@@ -11,7 +11,7 @@ redirect_from:
 
 
 Education
--------
+------
 Miranda House, University of Delhi, India, Bachelor of Science, Physics (Honours)<br>
 <var> <font size="-1">October, 2020 - current</font></var><br>
 <var><font size="-1">Major: Physics; Minor: Mathematics</font></var><br>
@@ -52,7 +52,7 @@ Leadership
 * <font size="-1">A departmental fest "VOLT" was organised wherein a poster presentation, paper presentation, circuit designing competition and a seminar was held.</font> 
 
 Campus Activities
--------
+------
 ### Member, Robotics Society, Miranda House, University of Delhi
 <var><font size="-1">December 2020- Present</font><br></var>
 <var><font size="-1">Undertaken a 2 month project titled "Passcode Pin Lock System" under the supervision of Robsoc. We used tinkercad to simulate an arduino based model of the system.</font></var><br>
