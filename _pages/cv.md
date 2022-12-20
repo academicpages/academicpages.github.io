@@ -41,8 +41,8 @@ Languages<br>
 Leadership
 ------
 <var>President</var>, Vidyut, The Physics Society, Miranda House, University of Delhi, India<br>
-<font size="-1">May, 2021 - June, 2022</font><br>
-<font size="-1"><var>Activities organised:</var> The most period of the tenure was during the time of the second COVID 19 wave in India and most of the activities were held in an online mode in order to indulge students in various activities.</font><br>
+<font size="-1">May, 2021 - June, 2022</font>; 
+<font size="-1"><var>Activities organised:</var> The most period of the tenure was during the time of the second COVID 19 wave in India and most of the activities were held in an online mode in order to indulge students in various activities.</font>
 * <font size="-1">To help the students, the team organised counseling sessions with seniors on prospective choices we can make for subjects that are electives.</font> 
 * <font size="-1">A career counseling series 'What Next?' was organised wherein alumni of the Physics Department were asked to address the students on various career trajectories they took after their bachelors.</font>
 * <font size="-1">Discussion session series to discuss on various intriguing questions were initiated in order to inculcate peer learning amongst the students.</font>
