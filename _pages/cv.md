@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-
+Here is [my documented CV]("gauri patti cv 2022.11.18.pdf")<br>
+                                           
 Education
 ------
 Miranda House, University of Delhi, India, Bachelor of Science, Physics (Honours)<br>
@@ -27,17 +28,6 @@ Our Lady of the Snows High School, Kullu, Himachal Pradesh, India<br>
 <var><font size="-1">Subjects studied: Physics, Chemistry, Mathematics, Biology, Computer Science, History and Civics, Geography, English (Grammar and literature), Hindi.</font></var><br>
 <var><font size="-1">Percentage: 92.06% (Council for Indian School Certificate Examinations)</font></var><br>
 
-Skills
-------
-Technical Languages<br>
-<var><font size="-1">C++, Python, SCILab/MATLAB, Mathematica, Shell Scripting, C, Java, LaTeX</font></var>
-
-Technical Software<br>
-<var><font size="-1">XSPEC, High Energy Astrophysics Software (HEASoft), Chandra Interactive Analysis of Observations (CIAO), Bayesian Estimation of Hardness Ratios (BEHR), Arduino, Canva, Microsoft Excel (Google Sheets).</font></var>
-
-Languages<br>
-<var><font size="-1">Fluent English; Fluent Hindi</font></var>
-
 Leadership
 ------
 <var>President</var>, Vidyut, The Physics Society, Miranda House, University of Delhi, India<br>
@@ -51,12 +41,3 @@ Leadership
 * <font size="-1">Webinars were organised to expose students to different research fields in physics.</font> 
 * <font size="-1">A departmental fest "VOLT" was organised wherein a poster presentation, paper presentation, circuit designing competition and a seminar was held.</font> 
 
-Campus Activities
-------
-### Member, Robotics Society, Miranda House, University of Delhi
-<var><font size="-1">December 2020- Present</font><br></var>
-<var><font size="-1">Undertaken a 2 month project titled "Passcode Pin Lock System" under the supervision of Robsoc. We used tinkercad to simulate an arduino based model of the system.</font></var><br>
-### Member, Women’s Development Cell, Miranda House, University of Delhi
-<var><font size="-1">June 2021-Present</font></var>
-### Queer Collective [Creative Team], Miranda House, University of Delhi 
-<var><font size="-1">December 2020- Present</font></var>
