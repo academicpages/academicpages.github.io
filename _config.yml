@@ -83,12 +83,12 @@ author:
   name             : "Rodrigo"
   avatar           : "profile.png"
   bio              : "Broadly interested in Brain Science"
-  location         : "Location"
+  location         : "Paris"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Rodrigo-Cofre-2"
+  researchgate  "https://www.researchgate.net/profile/Rodrigo-Cofre-2"
   uri              :
   bitbucket        :
   codepen          :
