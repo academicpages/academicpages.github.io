@@ -1,5 +1,5 @@
 ---
-
+permalink: /
 title: "Ting-Feng Lin"
 excerpt: "About me"
 author_profile: true
