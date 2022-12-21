@@ -1,3 +1,34 @@
+<style>
+  /* Add a consistent color scheme */
+  body {
+    color: #333;
+    background-color: #fff;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    color: #333;
+  }
+  a {
+    color: #6ab344;
+  }
+  a:hover {
+    color: #82b74b;
+  }
+
+  /* Use responsive design */
+  @media (max-width: 600px) {
+    /* Make the headings and contact information smaller on small screens */
+    h1 {
+      font-size: 2em;
+    }
+    h2 {
+      font-size: 1.5em;
+    }
+    ul {
+      font-size: 0.8em;
+    }
+  }
+</style>
+
 # John Doe
 
 ## Contact Information
@@ -10,6 +41,8 @@
 ## Research Interests
 
 My research interests lie at the intersection of machine learning and natural language processing. I am particularly interested in developing algorithms for improved language understanding and generation, with a focus on low-resource settings.
+
+![An image of a computer and a person working together](images/collaboration.jpg)
 
 ## Education
 
@@ -29,10 +62,13 @@ My research interests lie at the intersection of machine learning and natural la
 
 ## Projects
 
-- Automated Medical Record Annotation (2020-present)
-  - Lead researcher on a project to develop a machine learning model for automating the annotation of medical records
-- Image Classification (2019)
-  - Worked as a member of a team to develop a machine learning model for image classification as part of a summer internship at Company ABC
+### Automated Medical Record Annotation
+
+Lead researcher on a project to develop a machine learning model for automating the annotation of medical records.
+
+### Image Classification
+
+Worked as a member of a team to develop a machine learning model for image classification as part of a summer internship at Company ABC.
 
 ## Teaching
 
