@@ -11,7 +11,7 @@ author_profile: true
 * [SurCo: Learning Linear Surrogates For Combinatorial Nonlinear Optimization Problems](https://arxiv.org/pdf/2210.12547.pdf).                     
    Aaron Ferber, **Taoan Huang**, Daochen Zha, Martin Schubert, Benoit Steiner, Bistra Dilkina, Yuandong Tian.  
    
-* [Local Branching Relaxation Heuristics for Integer Linear Programs](taoanhuang.github.io).                     
+* [Local Branching Relaxation Heuristics for Integer Linear Programs](https://arxiv.org/pdf/2212.08183.pdf).                     
     **Taoan Huang**, Aaron Ferber, Yuandong Tian, Bistra Dilkina, Benoit Steiner.  
 
 ## 2022
