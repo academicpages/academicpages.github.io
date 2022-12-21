@@ -14,15 +14,3 @@ My first formal research training took place when I was a master’s student in 
 After my master’s study, I pursued my Ph.D. in the oculomotor laboratory of [Melody Ying-Yu Huang](https://zfin.org/action/profile/view/ZDB-LAB-160602-1) at the University Hospital of Zurich ([Neuroscience Center of Zurich](https://www.neuroscience.uzh.ch/en.html), UZH and ETH Zurich), where I discovered and characterized an adaptive oculomotor behavior in larval zebrafish. The adaption mechanism serves as an experience-dependent calibration for both external and inherent oculomotor disequilibrium in zebrafish. By collaborating with Drs. Maurice Chacron at McGill University and Kathleen Cullen at Johns Hopkins University, we developed a mathematical model, namely set-point adaptation, to explain the empirical phenomena. Together, pronounced inherent disequilibrium and compensatory set-point adaptation are powerful models for studying developmental instability and sensorimotor calibration in vertebrates. Beyond our animal studies, we also linked foveal hypoplasia to excessive set-point adaptation in humans, which provides a new insight into infantile nystagmus syndrome and may resolve a decade-long debate about its etiology. On the basis of this work, I received a two-year institutional scholarship sponsored by IPR Energy Group’s Dr. Dabbous Foundation to cover my salary, and was awarded a grant as the first author and main researcher from the Betty and David Koetser Foundation for Brain Research.
 
 Based on my training with K+ channel biophysics and my research experience in sensorimotor calibration, I moved on to my postdoctoral research in investigating sensory adjustment (i.e., tactile receptive field plasticity) via synaptic and intrinsic plasticity in mouse cerebellar Purkinje cells. From in vitro studies, we know that intrinsic plasticity in Purkinje cells specifies the change of intrinsic excitability by regulating Ca2+ activated K+ (SK2) channels. To test cerebellar plasticity in awake animals, I developed an animal genetic engineering protocol, two-photon microscopy platform combined with an in-vivo electrophysiological/tactile stimulator, and custom-made image analysis software all from scratch. With the support of my preliminary results, Dr. [Christian Hansel](http://www.hansellab-uchicago.com/) received an NIH R01 award. My work is the first to demonstrate receptive field plasticity of Purkinje cells via both synaptic and intrinsic mechanisms in intact, awake mice. This study was presented at the Society for Neuroscience 2022 conference with support from the SfN Trainee Professional Development Award.
-
-
-# A data-driven personal website
-# ======
-# the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of  charge.
-
-
-# **Markdown generator**
-
-# Example: editing a markdown file for a talk
-# ![Editing a markdown file for a talk](/images/editing-talk.png)
-
