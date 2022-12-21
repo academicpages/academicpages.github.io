@@ -11,7 +11,7 @@ title                    : "Alexandre MATHIEU"
 title_separator          : "-"
 name                     : &name "MATHIEU"
 description              : &description "Alexandre MATHIEU"
-keyword                  :"phd,solar,bipv,guarantee,pv,photovoltaic,"
+keywords                 : "phd,solar,bipv,guarantee,pv,photovoltaic,failure,modeling"
 url                      : https://alexandrehugomathieu.github.io/alexandremathieu.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AlexandreHugoMathieu/alexandremathieu.github.io"
