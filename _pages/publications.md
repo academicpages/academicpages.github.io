@@ -17,6 +17,9 @@ author_profile: true
 
 # Publications
 
+### *Reinforced Clarification Question Generation with Defeasibility Rewards for Disambiguating Social and Moral Situations*
+<ins>Valentina Pyatkin</ins>, Jena D. Hwang, Vivek Srikumar, Ximing Lu, Liwei Jiang, Yejin Choi and Chandra Bhagavatula. Preprint.
+[ArXiv](https://arxiv.org/pdf/2212.10409.pdf)
 
 ### *Just-DREAM-about-it: Figurative Language Understanding with DREAM-FLUTE.*
 Gu, Yuling, Yao Fu, <ins>Valentina Pyatkin</ins>, Ian H. Magnusson, Bhavana Dalvi and Peter Clark. In Proceedings of the Workshop on Figurative Language Processing at EMNLP 2022.
