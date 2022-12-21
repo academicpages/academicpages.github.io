@@ -25,8 +25,8 @@ Updates
 	</li>
 	<li> <b>[June 2021]</b> Received Bilsland Dissertation Fellowship Award 2021-2022!
 	</li>
-	<li> <b>[May 2021]</b> Preprint of our work on unifying distillation with personalized federated learning is available!
-	</li>
+<!-- 	<li> <b>[May 2021]</b> Preprint of our work on unifying distillation with personalized federated learning is available! -->
+<!-- 	</li> -->
 	<li> <b>[Mar 2021]</b> Our paper about side-channel attacks on stylus pencils is accepted to IMWUT-UbiComp 2021!
 	</li>
 	<li> <b>[Sep 2020]</b> Our work on secure face liveness detection on commodity smartphones to appear in MobiCom 2020!
