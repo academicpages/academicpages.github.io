@@ -6,10 +6,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-
+---
 [CV](https://drive.google.com/file/d/1wPsGIdhGPTzao9tjaeOibYhgvG0w3zLN/view?usp=sharing)
 ===
----
+
 My first formal research training took place when I was a master’s student in the laboratory of Dr. [Chih-Yung Tang](http://physiology.mc.ntu.edu.tw/En/Faculty/Faculty?id=38&openid=2) at National Taiwan University where I investigated biophysical properties of voltage-gated K+ channels (Eag and Erg) by applying both molecular and electrophysiological techniques. Specifically, I identified a previously unknown function of the N terminus in voltage-dependent inactivation that plays an important role in the cardiac delayed rectifier K+ current and in regulating the intrinsic electrophysiological property of several neuron types. This experience gave me a glimpse of neuroscience that made me determined to turn my ambition into a profession. 
 
 After my master’s study, I pursued my Ph.D. in the oculomotor laboratory of [Melody Ying-Yu Huang](https://zfin.org/action/profile/view/ZDB-LAB-160602-1) at the University Hospital of Zurich ([Neuroscience Center of Zurich](https://www.neuroscience.uzh.ch/en.html), UZH and ETH Zurich), where I discovered and characterized an adaptive oculomotor behavior in larval zebrafish. The adaption mechanism serves as an experience-dependent calibration for both external and inherent oculomotor disequilibrium in zebrafish. By collaborating with Drs. Maurice Chacron at McGill University and Kathleen Cullen at Johns Hopkins University, we developed a mathematical model, namely set-point adaptation, to explain the empirical phenomena. Together, pronounced inherent disequilibrium and compensatory set-point adaptation are powerful models for studying developmental instability and sensorimotor calibration in vertebrates. Beyond our animal studies, we also linked foveal hypoplasia to excessive set-point adaptation in humans, which provides a new insight into infantile nystagmus syndrome and may resolve a decade-long debate about its etiology. On the basis of this work, I received a two-year institutional scholarship sponsored by IPR Energy Group’s Dr. Dabbous Foundation to cover my salary, and was awarded a grant as the first author and main researcher from the Betty and David Koetser Foundation for Brain Research.
