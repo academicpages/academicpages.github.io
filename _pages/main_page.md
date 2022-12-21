@@ -1,34 +1,3 @@
-<style>
-  /* Add a consistent color scheme */
-  body {
-    color: #333;
-    background-color: #fff;
-  }
-  h1, h2, h3, h4, h5, h6 {
-    color: #333;
-  }
-  a {
-    color: #6ab344;
-  }
-  a:hover {
-    color: #82b74b;
-  }
-
-  /* Use responsive design */
-  @media (max-width: 600px) {
-    /* Make the headings and contact information smaller on small screens */
-    h1 {
-      font-size: 2em;
-    }
-    h2 {
-      font-size: 1.5em;
-    }
-    ul {
-      font-size: 0.8em;
-    }
-  }
-</style>
-
 # John Doe
 
 ## Contact Information
