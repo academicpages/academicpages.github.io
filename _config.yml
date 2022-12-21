@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Ting's research"
 title_separator          : "-"
 name                     : &name "Ting-Feng Lin"
 description              : &description "Ting-Feng Lin's personal description"
