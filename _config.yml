@@ -12,8 +12,8 @@ title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : "https://rcofre.github.io/"
-baseurl                  : "https://rcofre.github.io/" # the subpath of your site, e.g. "/blog"
-repository               : "rcofre.github.io/"
+baseurl                  : #"https://rcofre.github.io/" # the subpath of your site, e.g. "/blog"
+repository               : #"rcofre.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -104,7 +104,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-7498-7122"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
