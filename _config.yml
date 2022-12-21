@@ -86,8 +86,7 @@ author:
   location         : "Paris"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :
-"https://scholar.google.fr/citations?user=jbbZoRcAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.fr/citations?user=jbbZoRcAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Rodrigo-Cofre-2"
   uri              :
