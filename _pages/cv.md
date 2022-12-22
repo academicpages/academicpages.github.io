@@ -14,7 +14,7 @@ Education
 * B.S. in Mathematical Engineering, PUC Chile, 2009
 * B.S. in Aesthetics, PUC Chile, 2009
 * M.S. Computational Biology and Biomedicine, Ecole Polytechnique Universitaire de Nice Sophia Antipolis, France , 2010 to 2011
-* Ph.D in Sciences, Specialty: Control, Signal and Image Processing, University of  Nice- Sophia-Antipolis, 2014
+* Ph.D in Sciences, Specialty: Control, Signal and Image Processing, University of  Nice- Sophia-Antipolis, 2014. Supervisor: Bruno Cessac
 
 
 Work experience
