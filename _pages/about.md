@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-**Ting-Feng Lin [CV](https://drive.google.com/file/d/1wPsGIdhGPTzao9tjaeOibYhgvG0w3zLN/view?usp=sharing)** 
+Ting-Feng Lin [CV](https://drive.google.com/file/d/1wPsGIdhGPTzao9tjaeOibYhgvG0w3zLN/view?usp=sharing)
+=
 
 tingfenglin.ac@gmail.com
 
 +1-312-874-3565
 
 
-- **Education**
+Education
+=
 
 2015 - 2019 **PhD**, Neuroscience center Zurich (ZNZ), University of Zurich and ETH Zurich, Switzerland
 
