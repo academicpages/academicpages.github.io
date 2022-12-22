@@ -8,22 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Ting-Feng Lin [CV](https://drive.google.com/file/d/1wPsGIdhGPTzao9tjaeOibYhgvG0w3zLN/view?usp=sharing)
+Education [(CV)](https://drive.google.com/file/d/1wPsGIdhGPTzao9tjaeOibYhgvG0w3zLN/view?usp=sharing)
 =
 
-tingfenglin.ac@gmail.com
 
-+1-312-874-3565
+2019 **PhD**, Neuroscience center Zurich (ZNZ), University of Zurich and ETH Zurich, Switzerland
 
+2014 **MS**, National Taiwan University, Taiwan
 
-Education
-=
-
-2015 - 2019 **PhD**, Neuroscience center Zurich (ZNZ), University of Zurich and ETH Zurich, Switzerland
-
-2010 – 2014 **MS**, National Taiwan University, Taiwan
-
-2016 - 2010 **BS**, China Medical University, Taiwan
+2010 **BS**, China Medical University, Taiwan
 
 Bio
 =
