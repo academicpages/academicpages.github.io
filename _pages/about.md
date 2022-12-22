@@ -41,7 +41,7 @@ Chang Gung University, Taiwan
 
 
 Bio
-==
+=
 
 My first formal research training took place when I was a master’s student in the laboratory of Dr. [Chih-Yung Tang](http://physiology.mc.ntu.edu.tw/En/Faculty/Faculty?id=38&openid=2) at National Taiwan University where I investigated biophysical properties of voltage-gated K+ channels (Eag and Erg) by applying both molecular and electrophysiological techniques. Specifically, I identified a previously unknown function of the N terminus in voltage-dependent inactivation that plays an important role in the cardiac delayed rectifier K+ current and in regulating the intrinsic electrophysiological property of several neuron types. This experience gave me a glimpse of neuroscience that made me determined to turn my ambition into a profession. 
 
