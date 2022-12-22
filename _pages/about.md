@@ -11,9 +11,13 @@ redirect_from:
 Education [(CV)](https://drive.google.com/file/d/1wPsGIdhGPTzao9tjaeOibYhgvG0w3zLN/view?usp=sharing)
 ==
 2015-2019	PhD, Neuroscience
+
             Neuroscience center Zurich (ZNZ), University of Zurich and ETH Zurich, Switzerland
+	    
             Dr. Melody Ying-Yu Huang’s lab,
+	    
             University Hospital of Zurich, Switzerland
+	    
 2010 – 2014	Master of Science, Physiology
             Prof. Chih-Yung Tang’s lab,
             National Taiwan University, Taiwan
