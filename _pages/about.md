@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-(/images/AVG_011_006_093_OUT_MotCor.jpg)
+![purkinje cell](/images/AVG_011_006_093_OUT_MotCor.jpg)
 
 Education [(CV)](https://drive.google.com/file/d/1wPsGIdhGPTzao9tjaeOibYhgvG0w3zLN/view?usp=sharing)
 =
