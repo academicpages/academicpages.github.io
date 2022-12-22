@@ -184,6 +184,9 @@ collections:
   others:
     output: true
     permalink: /:collection/:path/
+  collaborators:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
