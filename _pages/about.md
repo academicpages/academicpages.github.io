@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Editing a markdown file for a talk](/images/AVG_011_006_093_OUT_MotCor.jpg)
+(/images/AVG_011_006_093_OUT_MotCor.jpg)
 
 Education [(CV)](https://drive.google.com/file/d/1wPsGIdhGPTzao9tjaeOibYhgvG0w3zLN/view?usp=sharing)
 =
