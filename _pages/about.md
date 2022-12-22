@@ -10,7 +10,7 @@ redirect_from:
 
 Education [(CV)](https://drive.google.com/file/d/1wPsGIdhGPTzao9tjaeOibYhgvG0w3zLN/view?usp=sharing)
 ==
-2015-2019		PhD, Neuroscience
+2015-2019	PhD, Neuroscience
             Neuroscience center Zurich (ZNZ), University of Zurich and ETH Zurich, Switzerland
             Dr. Melody Ying-Yu Huang’s lab,
             University Hospital of Zurich, Switzerland
