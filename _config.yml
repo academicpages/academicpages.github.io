@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Website"
 title_separator          : "-"
-name                     : &name "Your name"
+name                     : &name "rcofre"
 description              : &description "personal description"
 url                      : #"rcofre.github.io/"
 baseurl                  : #"/rcofre.github.io/" # the subpath of your site, e.g. "/blog"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rcofre.github.io"
+  github           : "rcofre"
   google_plus      :
   keybase          :
   instagram        :
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  others:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _others
   - scope:
       path: ""
-      type: portfolio
+      type: others
     values:
       layout: single
       author_profile: true
