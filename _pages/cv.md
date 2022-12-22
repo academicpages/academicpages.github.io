@@ -11,21 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematical Engineering, PUC Chile, 2009
+* B.S. in Aesthetics, PUC Chile, 2009
+* M.S. Computational Biology and Biomedicine, Ecole Polytechnique Universitaire de Nice Sophia Antipolis, France , 2010 to 2011
+* Ph.D in Sciences, Specialty: Control, Signal and Image Processing, University of  Nice- Sophia-Antipolis, 2014
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Scientific Collaborator (Postdoc) From February 2015 to June 2017
+  * Department of Theoretical Physics, University of Geneva 
+  * Supervisor: Jean-Pierre Eckmann
+
+* Joint Professor at CIMFAV
+  * Faculty of Engineering, University of Valparaiso
+  
+* Postdoc BRICON project, From June 2021
+  * Institute of Neuroscience (NeuroPSI), Paris-Saclay University, CNRS, Gif-sur-Yvette
+  * Supervisor: Alain Destexhev
+
   
 Skills
 ======
