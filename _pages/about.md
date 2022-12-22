@@ -7,41 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
-[CV](https://drive.google.com/file/d/1wPsGIdhGPTzao9tjaeOibYhgvG0w3zLN/view?usp=sharing)
 
-Education 
-=====
+**Ting-Feng Lin [CV](https://drive.google.com/file/d/1wPsGIdhGPTzao9tjaeOibYhgvG0w3zLN/view?usp=sharing)** 
 
-2015-2019 PhD, Neuroscience
+tingfenglin.ac@gmail.com
 
-               Neuroscience center Zurich (ZNZ), University of Zurich and ETH Zurich, Switzerland
-	       
-               Dr. Melody Ying-Yu Huang’s lab,
-	    
-            University Hospital of Zurich, Switzerland
-	    
-2010 – 2014	Master of Science, Physiology
-            Prof. Chih-Yung Tang’s lab,
-            National Taiwan University, Taiwan
-2016-2010		Bachelor of Science, Sports Medicine
-            China Medical University, Taiwan
++1-312-874-3565
 
-•	Work Experience
-2019-present	Postdoc scholar
-Prof. Christian Hansel’s lab,
-University of Chicago, USA
-Project: Intrinsic and synaptic potentiation contribute to receptive field plasticity in Purkinje cells of the mouse cerebellum
-2022			Journal guest editor
-			Journal of Visualized Experiments
-			Methods Collection: Image Acquisition in Zebrafish Model
-2015			Research assistant
-Prof. Yi-Chuan Cheng’s lab,
-Chang Gung University, Taiwan
-2014-2015		Military service—science fair advisor
-			Checheng Elementary School, Taiwan
-2013-2014		Research assistant
-			National Taiwan University, Taiwan
 
+- **Education**
+
+2015 - 2019 **PhD**, Neuroscience center Zurich (ZNZ), University of Zurich and ETH Zurich, Switzerland
+
+2010 – 2014 **MS**, National Taiwan University, Taiwan
+
+2016 - 2010 **BS**, China Medical University, Taiwan
 
 Bio
 =
