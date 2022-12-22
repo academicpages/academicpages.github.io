@@ -13,9 +13,10 @@ Education
 =====
 
 2015-2019 PhD, Neuroscience
+
                Neuroscience center Zurich (ZNZ), University of Zurich and ETH Zurich, Switzerland
-	    
-            Dr. Melody Ying-Yu Huang’s lab,
+	       
+               Dr. Melody Ying-Yu Huang’s lab,
 	    
             University Hospital of Zurich, Switzerland
 	    
