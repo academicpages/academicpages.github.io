@@ -12,10 +12,8 @@ Education [(CV)](https://drive.google.com/file/d/1wPsGIdhGPTzao9tjaeOibYhgvG0w3z
 =
 
 
-2019 **PhD**, Neuroscience center Zurich (ZNZ), University of Zurich and ETH Zurich, Switzerland
-
-2014 **MS**, National Taiwan University, Taiwan
-
+2019 **PhD**, Neuroscience center Zurich (ZNZ), University of Zurich and ETH Zurich, Switzerland<br>
+2014 **MS**, National Taiwan University, Taiwan<br>
 2010 **BS**, China Medical University, Taiwan
 
 Bio
