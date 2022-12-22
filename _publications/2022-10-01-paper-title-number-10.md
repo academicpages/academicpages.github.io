@@ -11,6 +11,5 @@ venue: 'Entropy 23(155)'
 
 [Download paper here](https://www.mdpi.com/1099-4300/23/2/155)
 
-#Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
-
-
+Abstract:
+We establish a general linear response relation for spiking neuronal networks, based on chains with unbounded memory. This relation allow us to predict the influence of a weak amplitude time dependent external stimuli on spatio-temporal spike correlations, from the spontaneous statistics (without stimulus) in a general context where the memory in spike dynamics can extend arbitrarily far in the past. Using this approach, we show how the linear response is explicitly related to the collective effect of the stimuli, intrinsic neuronal dynamics, and network connectivity on spike train statistics. We illustrate our results with numerical simulations performed over a discrete time integrate and fire model.

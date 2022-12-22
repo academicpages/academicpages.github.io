@@ -11,6 +11,5 @@ venue: 'Entropy 21(10), 1009'
 
 [Download paper here](https://www.mdpi.com/1099-4300/21/10/1009)
 
-#Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
-
-
+Abstract:
+Despite their differences, biological systems at different spatial scales tend to exhibit common organizational patterns. Unfortunately, these commonalities are often hard to grasp due to the highly specialized nature of modern science and the parcelled terminology employed by various scientific sub-disciplines. To explore these common organizational features, this paper provides a comparative study of diverse applications of the maximum entropy principle, which has found many uses at different biological spatial scales ranging from amino acids up to societies. By presenting these studies under a common approach and language, this paper aims to establish a unified view over these seemingly highly heterogeneous scenarios.

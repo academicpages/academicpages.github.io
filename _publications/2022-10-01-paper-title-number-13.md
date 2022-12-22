@@ -11,6 +11,5 @@ venue: 'Brain Sci. 10(9), 626'
 
 [Download paper here](https://www.mdpi.com/2076-3425/10/9/626)
 
-#Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
-
-
+Abstract:
+The scope of human consciousness includes states departing from what most of us experience as ordinary wakefulness. These altered states of consciousness constitute a prime opportunity to study how global changes in brain activity relate to different varieties of subjective experience. We consider the problem of explaining how global signatures of altered consciousness arise from the interplay between large-scale connectivity and local dynamical rules that can be traced to known properties of neural tissue. For this purpose, we advocate a research program aimed at bridging the gap between bottom-up generative models of whole-brain activity and the top-down signatures proposed by theories of consciousness. Throughout this paper, we define altered states of consciousness, discuss relevant signatures of consciousness observed in brain activity, and introduce whole-brain models to explore the biophysics of altered consciousness from the bottom-up. We discuss the potential of our proposal in view of the current state of the art, give specific examples of how this research agenda might play out, and emphasize how a systematic investigation of altered states of consciousness via bottom-up modeling may help us better understand the biophysical, informational, and dynamical underpinnings of consciousness.

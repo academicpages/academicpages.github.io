@@ -11,6 +11,5 @@ venue: 'Nature Reviews Neuroscience, 1-2'
 
 [Download paper here](https://www.nature.com/articles/s41583-022-00646-w)
 
-#Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
-
-
+Abstract:
+In their timely Review, Váša and Mišić provide an insightful review of the range of null models available for hypothesis testing in network neuroscience (Váša, F. & Mišić, B. Null models in network neuroscience. Nat. Rev. Neurosci. 23, 493–504 (2022). A central part of their Review is dedicated to generative models, understood as models for the processes that lead (brain) networks to exhibit the organization that they do. Here, we wish to draw attention to a distinct but complementary kind of generative model that can be used to embody and then test null hypotheses in network neuroscience: namely, dynamical models of mechanisms. In these models, brain network structure (and, increasingly, additional aspects such as regional heterogeneity) gives rise to the ebb and flow of brain activity and functional connectivity that unfold over time.

@@ -11,6 +11,5 @@ venue: 'PLoS Comput Biol 17(2): e1008737'
 
 [Download paper here](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008737)
 
-#Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
-
-
+Abstract:
+Segregation and integration are two fundamental principles of brain structural and functional organization. Neuroimaging studies have shown that the brain transits between different functionally segregated and integrated states, and neuromodulatory systems have been proposed as key to facilitate these transitions. Although whole-brain computational models have reproduced this neuromodulatory effect, the role of local inhibitory circuits and their cholinergic modulation has not been studied. In this article, we consider a Jansen & Rit whole-brain model in a network interconnected using a human connectome, and study the influence of the cholinergic and noradrenergic neuromodulatory systems on the segregation/integration balance. In our model, we introduce a local inhibitory feedback as a plausible biophysical mechanism that enables the integration of whole-brain activity, and that interacts with the other neuromodulatory influences to facilitate the transition between different functional segregation/integration regimes in the brain.
