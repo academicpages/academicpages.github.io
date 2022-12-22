@@ -30,17 +30,8 @@ Work experience
   
 * Postdoc BRICON project, From June 2021
   * Institute of Neuroscience (NeuroPSI), Paris-Saclay University, CNRS, Gif-sur-Yvette
-  * Supervisor: Alain Destexhev
+  * Supervisor: Alain Destexhe
 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -60,6 +51,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
