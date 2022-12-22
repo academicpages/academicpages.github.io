@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "PhD Candidate - Harvard University / MIT"
-  avatar           : "profile.png"
+  avatar           : "ny_pic_resize2.png"
   bio              : "Cognitive neuroscientist interested in the relationship between brain structure and function. Also interested in exploring the neural correlates of reading abiility, disability, and intervention."
   location         : "Cambridge, MA"
   employer         :
@@ -103,6 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
+  mastodon         : "@smeisler@mastodon.online"
   orcid            : "http://orcid.org/0000-0002-8888-1572"
   pinterest        :
   soundcloud       :
