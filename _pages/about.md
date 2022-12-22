@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 [CV](https://drive.google.com/file/d/1wPsGIdhGPTzao9tjaeOibYhgvG0w3zLN/view?usp=sharing)
+
 Education 
 =====
+
 2015-2019 PhD, Neuroscience
                Neuroscience center Zurich (ZNZ), University of Zurich and ETH Zurich, Switzerland
 	    
