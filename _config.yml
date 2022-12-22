@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Website"
 title_separator          : "-"
-name                     : &name "Rodrigo Cofré"
+name                     : &name "Your name"
 description              : &description "personal description"
-url                      : "rcofre.github.io/"
+url                      : #"rcofre.github.io/"
 baseurl                  : #"/rcofre.github.io/" # the subpath of your site, e.g. "/blog"
 repository               : #"rcofre.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/rodrigo-cofre-2a41821b9/"
+  linkedin         : "https://www.linkedin.com/in/rodrigo-cofre-2a41821b9"
   orcid            : "https://orcid.org/0000-0002-7498-7122"
   pinterest        :
   soundcloud       :
