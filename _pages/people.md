@@ -184,6 +184,12 @@ redirect_from:
             <td width="80%" valign="top">              屈澈，访问学者（2021-2022），本科&amp;博士：复旦大学</td>
             </tr>
             <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_duxing.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">              杜星，行政助理（2019-2022），本科&amp;硕士：法国昂热大学</td>
+            </tr>
+            <tr class="txt">
                   <td width="20%" valign="middle" align="middle">
                         工作或在读：
                         <b></b>
