@@ -85,7 +85,7 @@ author:
   bio              : "Broadly interested in Brain Science"
   location         : "Paris"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Cofr%C3%A9%20R&cauthor_id=36464098"
   googlescholar    : "https://scholar.google.fr/citations?user=jbbZoRcAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Rodrigo-Cofre-2"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-7498-7122"
+  orcid            : "https://orcid.org/0000-0002-7498-7122"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
