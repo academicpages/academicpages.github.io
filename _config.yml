@@ -236,6 +236,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _collaborators
+  - scope:
+      path: ""
+      type: collaborators
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
