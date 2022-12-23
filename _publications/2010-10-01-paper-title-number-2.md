@@ -6,7 +6,7 @@ excerpt: 'The machine learning algorithms can predict the events based on the tr
 date: September 5-7, 2022
 venue: '2022 Fourth International Conference on Blockchain Computing and Applications (BCCA)'
 paperurl: 'https://ieeexplore.ieee.org/document/9922480'
-<!-- citation: 'Syed Badruddoja, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).' -->
+citation: 'Syed Badruddoja, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 

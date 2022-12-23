@@ -6,7 +6,7 @@ excerpt: 'Deep learning techniques can predict cognitive intelligence from large
 date: September 5-7, 2022
 venue: '2022 Fourth International Conference on Blockchain Computing and Applications (BCCA)'
 paperurl: 'https://www.researchgate.net/profile/Abiola-Salau-2/publication/365107055_Making_Blockchain_Validators_Honest/links/6366fc8354eb5f547ca90757/Making-Blockchain-Validators-Honest.pdf?origin=publicationDetail&_rtd=eyJjb250ZW50SW50ZW50Ijoic2ltaWxhciJ9'
-<!-- citation: 'Syed Badruddoja, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).' -->
+citation: 'Syed Badruddoja, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
