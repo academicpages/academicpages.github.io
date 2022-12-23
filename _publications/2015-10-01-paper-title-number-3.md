@@ -2,7 +2,7 @@
 title: "Smarter Contracts to Predict using Deep-Learning Algorithms"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-3
-excerpt: 'Deep learning techniques can predict cognitive intelligence from large datasets involving complex computations with activation functions. However, the prediction output needs verification for trust and reliability.Moreover, these algorithms suffer from the model's provenance to keep track of model updates and developments. Blockchain smart contracts provide a trustable ledger with consensus based decisions that assure integrity and verifiability. In addition, the immutability feature of blockchain also supports the provenance of data that can help deep learning algorithms.'
+excerpt: ''
 date: 2022-09-05
 venue: '2022 Fourth International Conference on Blockchain Computing and Applications (BCCA)'
 paperurl: 'https://ieeexplore.ieee.org/document/9922240'
