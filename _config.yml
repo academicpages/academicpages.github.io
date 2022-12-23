@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "John Giorgi"
 title_separator          : "-"
 name                     : &name "John Giorgi"
-description              : &description "Computer science Ph.D. student at the University of Toronto"
+description              : &description "Computer science Ph.D. student at the University of Toronto."
 url                      : https://johngiorgi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "johngiorgi/johngiorgi.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "John Giorgi"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Computer science Ph.D. student at the University of Toronto. Interested in all things ML/AI/NLP."
+  location         : "Toronto, Canada"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.ca/citations?user=TNFEhK4AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "johngiorgi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/john-giorgi/"
+  orcid            : "https://orcid.org/0000-0001-9621-5046"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "johnmgiorgi"
   vine             :
   weibo            :
   xing             :
