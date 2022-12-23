@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Diversity"
+#title: "Diversity"
 permalink: /diversity/
 author_profile: true
 redirect_from:
