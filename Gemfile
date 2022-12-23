@@ -14,7 +14,9 @@ gem "github-pages", group: :jekyll_plugins
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
-# gem "jekyll"
+# NOTE: This was required to get the site to build locally on MacOS
+# See: https://github.com/academicpages/academicpages.github.io/issues/1032#issuecomment-1271084019
+gem "jekyll", "3.9.0"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
