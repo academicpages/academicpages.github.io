@@ -22,6 +22,10 @@ Experience
 -- Supervisor: Dr. Xia Hu\\
 -- Research topics: Truthworthy machine learning
 
+**Applied Scientist Intern at Amazon Search**, Oct. 2022 - Jan. 2022 \\
+-- Supervisor: [Dr. Xianfeng Tang](https://www.tangxianfeng.net/), [Dr. Haoming Jiang](https://hmjianggatech.github.io/), and [Jingfeng Yang](https://jingfengyang.github.io/)\\
+-- Research topics: Environmental Friendly Query-Based Recommender System.
+
 **Research Intern at Visa Research**, May. 2022 - Aug 2022 \\
 -- Supervisor: [Dr. Huiyuan Chen](https://usa.visa.com/about-visa/visa-research/huiyuan-chen.html) and [Dr. Hao Yang](https://usa.visa.com/about-visa/visa-research/hao-yang.html)\\
 -- Research topics: Graph Influence Function.
@@ -33,10 +37,12 @@ Experience
 Services
 =====
 Conference Reviewer: 
-* NeurIPS'22, ICML’22, WACV'23, AAAI'23
+* NeurIPS'22, ICML’22, LOG'22, WACV'23, AAAI'23, SDM'23, KDD'23
 * ICLR’20, KDD’20, CIKM’20, WSDM’21 (External)
 
 Journal Reviewer: 
+* ACM Transactions on Intelligent Systems and Technology
+* Data Mining and Knowledge Discovery
 * IEEE Transactions on Information Forensics and Security
 * Digital Signal Processing 
 * IEEE Communications Letter
