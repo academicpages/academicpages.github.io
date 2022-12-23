@@ -18,11 +18,15 @@ redirect_from:
 
 I am a fourth-year PhD student in the [UNC-NLP](https://nlp.cs.unc.edu/) lab at the University of North Carolina at Chapel Hill, where I am advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My work at UNC is supported by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/) and previously by a [Royster Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/membership.html). Before this, I graduated with a bachelor's degree from Duke University, where my thesis advisor was [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). At Duke I was supported by a [Trinity Scholarship](https://www.ousf.duke.edu/page/Trin). 
 
-My research interests center on interpretable machine learning and natural language processing. I am particularly interested in techniques for explaining model behavior and aligning ML systems with human values. I see language models as a good object of study since we lack complete explanations for their behavior and human language provides a rich means of interaction with models. I am broadly interested in topics related to AI Safety; besides interpretable ML I have worked on methods for improving models via human explanations, providing recourses to people adversely affected by ML models, and making pretrained language models more truthful. In all of these areas, I find work on clarifying concepts and developing strong evaluation procedures especially valuable. 
+My research interests center on interpretable machine learning and natural language processing. I am particularly interested in techniques for explaining model behavior and aligning ML systems with human values. I see language models as a good object of study since we lack complete explanations for their behavior and human language provides a rich means of interaction with models. I am broadly interested in topics related to AI Safety; besides interpretable ML I have worked on methods for supervising model reasoning via explanations, providing recourses to people adversely affected by ML models, and editing language models to be more truthful. In all of these areas, I find work on clarifying concepts and developing strong evaluation procedures especially valuable. 
 
 *Email:* peter@cs.unc.edu
 
 ## News
+* 2022 - Serving as an Area Chair for ACL 2023 in the Interpretability and Analysis of Models for NLP track  
+* 2022 - Serving as an Area Chair for the AAAI 2023 Workshop on Representation learning for Responsible Human-Centric AI
+* 2022 - Work accepted to EMNLP 2022: "Are Hard Examples also Harder to Explain? A Study with Human and Model-Generated Explanations" [[pdf]](https://arxiv.org/pdf/2211.07517.pdf)  
+* 2022 - Work accepted to NeurIPS 2022: "VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives" [[pdf]](https://arxiv.org/pdf/2206.11212.pdf)  
 * 2022 - Serving as an Area Chair for EMNLP 2022 in the Interpretability, Interactivity and Analysis of Models for NLP track
 * 2022 - Started summer internship at Google Research! Supervised by [Asma Ghandeharioun](https://web.media.mit.edu/~asma_gh/) and [Been Kim](https://beenkim.github.io/)
 * 2022 - Invited talk at the University of Oxford on Explainable Machine Learning in NLP
