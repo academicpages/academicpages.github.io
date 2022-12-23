@@ -6,7 +6,7 @@ excerpt: 'Linear regression algorithms capture information from previous experie
 date: 2022-07-05
 venue: 'EAI BlockTEA 2022 - 2nd EAI International Conference on Blockchain Technology and Emerging Applications'
 #paperurl: 'https://ieeexplore.ieee.org/document/9922027'
-#citation: 'Syed Badruddoja, You. (2009). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'S. Badruddoja, R. Dantu, Y. He, M. Thompson, A. Salau and K. Upadhyay, "Making Smart Contracts Predict and Scale," 2022 Fourth International Conference on Blockchain Computing and Applications (BCCA), 2022, pp. 127-134, doi: 10.1109/BCCA55292.2022.9922480.'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
