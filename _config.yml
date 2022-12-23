@@ -236,6 +236,24 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _diversity
+  - scope:
+      path: ""
+      type: diversity
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
