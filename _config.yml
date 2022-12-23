@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Syed Badruddoja"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Syed Badruddoja"
 description              : &description "Ph.D Candidate in Computer Science & Engineering"
