@@ -60,7 +60,7 @@ Under review, 2022
 Under review, 2022
 
 <b>[Retiring ∆DP: New Distribution-Level Metrics for Demographic Parity.](??)
-</b><br>Xiaotian Han\*, <b>Zhimeng Jiang</b>\*, Hongye Jin, Zirui Liu, Na Zou, Qifan Wang, Xia Hu <br>
+</b><br>Xiaotian Han\*, <b>Zhimeng Jiang\*</b>, Hongye Jin, Zirui Liu, Na Zou, Qifan Wang, Xia Hu <br>
 Under review, 2022
 
 <b>[Do We Really Achieve Fairness with Explicit Sensitive Atrributes?](??)
