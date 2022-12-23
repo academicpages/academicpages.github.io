@@ -18,6 +18,10 @@
   {% assign venue_searchterms = include.venue_search | downcase | split: ";" %}
 {% endif %}
 
+{% if include.venue_seach_exclude %}
+  {% assign venue_searchterms_exclude = include.venue_search_exclude | downcase | split: ";" %}
+{% endif %}
+
 {% if include.author %}
   {% assign authors = include.author | downcase | split: ";" %}
 {% endif %}
@@ -72,6 +76,18 @@
     {% assign is_venue_search = true %}
   {% endif %}
   
+  {% if include.venue_search_exclue %}
+    {% assign venue = citation.Publication | downcase %}
+    {% assign is_venue_search_exclude = true %}
+    {% for term in venue_searchterms_exclude %}
+      {% if venue contains term %}
+        {% assign is_venue_search_exlude = false %}
+      {% endif %}
+    {% endfor %}
+  {% else %}
+    {% assign is_venue_search_exclude = true %}
+  {% endif %}
+  
   {% if include.author %}
     {% capture citation_Authors %}
       {% for element in citation %}
@@ -91,7 +107,7 @@
     {% assign is_author = true %}
   {% endif %}
 
-  {% if is_venue and is_year and is_search and is_author and is_venue_search %}
+  {% if is_venue and is_year and is_search and is_author and is_venue_search and is_venue_search_exclude %}
     {% capture citation_Authors %}
       {% for element in citation %}
         {% if forloop.first %}
