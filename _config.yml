@@ -84,7 +84,7 @@ author:
   avatar           : "https://gravatar.com/avatar/a23f77747ba192086c176e8b97f64a49?s=400&d=robohash&r=x"
   bio              : "Cognitive neuroscientist interested in the relationship between brain structure and function. Also interested in exploring the neural correlates of reading abiility, disability, and intervention."
   location         : "Cambridge, MA"
-  employer         :
+  employer         : "Harvard Medical School / MIT"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=steven+meisler"
   googlescholar    : "https://scholar.google.com/citations?user=0lB9-GcAAAAJ&hl=en&authuser=1"
   email            : "smeisler@g.harvard.edu"
@@ -257,7 +257,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
