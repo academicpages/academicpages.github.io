@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download detailed CV Here ](https://ieeexplore.ieee.org/abstract/document/9461148)
+
 Education
 ======
 * B.S. in Electronics and Telecommunication & Engineering, Independent University of Bangladesh, 2010

@@ -26,7 +26,7 @@ author_profile: true
 * Talk at 3MT Thesis Competition, Organizer: Toulouse Graduate School,  Institute: University of North Texas
 Mode: Face-to-face , Location: Denton, Texas , Year: 2022
 
-* Invited Talk at the Grad School Preview, Organizer: Graduate Student Council | Institute: University of North Texas, Mode: Online , Year: 2021
+* Invited Talk at the Grad School Preview, Organizer: Graduate Student Council, Institute: University of North Texas, Mode: Online , Year: 2021
 
 * Presentation on Network Analysis with Wireshark Packet Capture Software, Organization: Cybersecurity Club, Institute: University of North Texas, Mode: Face-to-face, Location: Denton, Texas , Year: 2021
 
