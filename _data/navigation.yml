@@ -18,6 +18,12 @@ main:
   - title: "Certifications"
     url: /certifications/
 
+  - title: "Honors & Awards"
+    url: /awards/
+
+  - title: "Projects"
+    url: /projects/
+
   - title: "CV"
     url: /cv/
 
