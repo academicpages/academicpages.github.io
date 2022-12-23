@@ -86,9 +86,9 @@ author:
   location         : "Denton, Texas"
   employer         : University of North Texas
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=Ayf5PM0AAAAJ&hl=en&oi=ao"
+  googlescholar    : https://scholar.google.com/citations?user=Ayf5PM0AAAAJ&hl=en&oi=ao
   email            : syedbadruddoja@my.unt.edu
-  researchgate     : "https://www.researchgate.net/profile/Syed_Badruddoja?ev=hdr_xprf"
+  researchgate     : https://www.researchgate.net/profile/Syed_Badruddoja?ev=hdr_xprf
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/syber2020"
+  github           : https://github.com/syber2020
   google_plus      :
   keybase          :
   instagram        :
