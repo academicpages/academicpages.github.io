@@ -2,7 +2,7 @@
 title: "Smarter Contracts to Predict using Deep-Learning Algorithms"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-3
-excerpt: 'Deep Learning algorithm'
+excerpt: 'Deep learning techniques can predict cognitive intelligence from large datasets involving complex computations with activation functions. However, the prediction output needs verification for trust and reliability.'
 date: 2022-09-05
 venue: '2022 Fourth International Conference on Blockchain Computing and Applications (BCCA)'
 paperurl: 'https://ieeexplore.ieee.org/document/9922240'
