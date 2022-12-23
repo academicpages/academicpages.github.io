@@ -6,6 +6,10 @@
   {% assign venues = include.venue | downcase | split: ";" %}
 {% endif %}
 
+{% if include.venue_exclude %}
+  {% assign venues_exclude = include.venue_exclude | downcase | split: ";" %}
+{% endif %}
+
 {% if include.year %}
   {% assign years = include.year | split: ";" %}
 {% endif %}
@@ -37,6 +41,17 @@
       {% assign is_venue = true %}
     {% else %}
       {% assign is_venue = false %}
+    {% endif %}
+  {% else %}
+    {% assign is_venue = true %}
+  {% endif %}
+  
+  {% if include.venue_exclude %}
+    {% assign publication = citation.Publication | downcase %}
+    {% if venues_exclude contains publication %}
+      {% assign is_venue = false %}
+    {% else %}
+      {% assign is_venue = true %}
     {% endif %}
   {% else %}
     {% assign is_venue = true %}
