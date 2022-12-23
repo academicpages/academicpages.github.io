@@ -187,6 +187,15 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
+  diversity:
+    output: true
+    permalink: /:collection/:path/
+  certification:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
