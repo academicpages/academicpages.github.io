@@ -1,15 +1,14 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate and Graduate course"
+type: Undergraduate and Graduate Course"
 #permalink: /teaching/2014-spring-teaching-1
-venue: "University of North Texas, Department of Computer Science & Engineering"
-start date: 2018-08-20
-end date: "Current job"
+venue: "Department of Computer Science & Engineering, University of North Texas"
 location: "Denton, Texas"
+duration: "August 2018 - Present"
 ---
 
-## Courses.
+## Courses
 
 * Introduction to Computer Security
 
