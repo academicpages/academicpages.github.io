@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download detailed CV Here ](https://ieeexplore.ieee.org/abstract/document/9461148)
+[Download detailed CV Here ](https://drive.google.com/file/d/1pDKWZtfSooh4fzbQffUZQlWOb7oQeSWC/view?usp=share_link)
 
 Education
 ======

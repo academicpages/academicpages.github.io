@@ -37,7 +37,6 @@ author_profile: true
 
 
 *	A. Salau, R. Dantu, K. Morozov, K. Upadhyay, S. Badruddoja, “Towards a Threat Model and Security Analysis for Data Cooperatives”, Proceedings of the 19th International Conference on Security and Cryptography,{SECRYPT} 2022, Lisbon, Portugal, July 11-13, 2022,pp. 707—713,2022, doi: 10.5220/0011328700003283
-
 [Link](https://www.researchgate.net/publication/362010983_Towards_a_Threat_Model_and_Security_Analysis_for_Data_Cooperatives)
 
 *	A. Salau, R. Dantu, K. Morozov, K. Upadhyay, S. Badruddoja, “Multi-tier reputation for data cooperative”, The Third International Conference on Mathematical Research for Blockchain Economy (MARBLE 2022). url : https://www.marble-conference.org/ marble2022-sessions
