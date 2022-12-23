@@ -1,6 +1,6 @@
 ---
 layout: archive
-#title: "Diversity"
+title: "Diversity, Equity, Inclusivity and Accessibility Statement"
 permalink: /diversity/
 author_profile: true
 redirect_from:

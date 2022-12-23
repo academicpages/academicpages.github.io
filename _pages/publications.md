@@ -34,7 +34,7 @@ author_profile: true
 
 *	A. Salau, R. Dantu, K. Upadhyay, S. Badruddoja, , “Data Cooperatives for Trusted News Sharing in Social Media”, 2nd International Conference on Blockchain Technology and Emerging Applications “(EAI BlockTEA 2022).  https://blocktea.eai-conferences.org/2022/ accepted-papers/
 
-### Link will be available soon
+
 
 *	A. Salau, R. Dantu, K. Morozov, K. Upadhyay, S. Badruddoja, “Towards a Threat Model and Security Analysis for Data Cooperatives”, Proceedings of the 19th International Conference on Security and Cryptography,{SECRYPT} 2022, Lisbon, Portugal, July 11-13, 2022,pp. 707—713,2022, doi: 10.5220/0011328700003283
 
@@ -42,7 +42,7 @@ author_profile: true
 
 *	A. Salau, R. Dantu, K. Morozov, K. Upadhyay, S. Badruddoja, “Multi-tier reputation for data cooperative”, The Third International Conference on Mathematical Research for Blockchain Economy (MARBLE 2022). url : https://www.marble-conference.org/ marble2022-sessions
 
-### Link will be available soon
+
 ## 2021
 
 *	K. Upadhyay, R. Dantu, Y. He, A. Salau and S. Badruddoja, “Make Consumers Happy by Defuzzifying the Service Level Agreements”, 2021 Third IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications (TPS-ISA), 2021, pp. 98-105, doi: 10.1109/TPSISA52974.2021.00011.

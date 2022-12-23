@@ -1,13 +1,13 @@
 ---
 layout: archive
-#title: "Research"
+title: "Research Statement"
 permalink: /research/
 author_profile: true
 redirect_from:
   - /research
 ---
 
-## Research Summary
+## Summary
 I work on securing artificial intelligence (AI) algorithms through blockchain networks to address model poisoning attacks. Machine learning algorithms are prone to data manipulation that breaks the integrity of predictions. Moreover, a central system has a single point of failure and is easily compromised. Blockchain provides provenance, integrity, decentralized, consensus-based, and fault-tolerant architecture to create trusted transactions. However, smart contracts in blockchain fail to calculate fixed-point computations limiting the plausibility of predictions through cognitive algorithms in the blockchain. I investigate the limitations of smart contracts that restrict learning capabilities in the blockchain. Moreover, I have developed a mathematical model to predict classes using machine learning algorithms. The numerical methods developed in my work arm smart contracts to estimate the likelihood of events or classes using machine learning and deep learning algorithms. Moreover, I analyzed the performance of the blockchain network to provide cognitive intelligence. I would like to extend my work further to secure AI algorithms. Moreover, my prime research interests are in computer security, distributed systems, computer networks, network security, artificial intelligence, machine learning, deep learning, blockchain, smart contracts, and consensus mechanisms. I am also open to any research related to cybersecurity and AI to produce a state-of-the-art solution.
 
 ## Research Plan
