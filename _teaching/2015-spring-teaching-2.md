@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Fellow"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University of North Texas, Department of Computer Science & Engineering"
+start date: 2019-06-01
+end date: 2019-07-30
+Course: "Operating System Design"
+location: "Denton, Texas"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## Responsibilities
+* Prepare course curriculum, assignments, schedules, exams, and quizzes
 
-Heading 1
-======
+* Teach theoretical concepts to students and engage them in collaborative assignments
 
-Heading 2
-======
+* Grade assignments, projects, exams, and quizzes to evaluate the learning outcome
 
-Heading 3
-======
+* Assist students in solving theoretical and practical assignments

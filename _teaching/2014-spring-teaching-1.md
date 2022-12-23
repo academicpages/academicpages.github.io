@@ -1,20 +1,34 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate and Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of North Texas, Department of Computer Science & Engineering"
+start date: 2018-08-20
+end date: "Current job"
+location: "Denton, Texas"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## Courses.
 
-Heading 1
-======
+* Introduction to Computer Security
 
-Heading 2
-======
+* Applications of Cryptography
 
-Heading 3
-======
+* Operating Systems Design
+
+* Computer Networks
+
+* Computer Forensics
+
+* Systems Programming
+
+## Responsibilities:
+
+* Teach theoretical concepts to students and assist them in solving assignments
+
+* Assist instructors to grade, teach and organize courses
+
+* Assist instructors for preparing rubrics and answer keys to the solutions
+
+* Prepare lab manuals and test labs with hands-on implementation for verification
