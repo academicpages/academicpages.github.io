@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   # bio              : "Your biography for the left-hand sidebar"
   location         : "Denton, Texas"
-  # employer         : University of North Texas
+  employer         : University of North Texas
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Ayf5PM0AAAAJ&hl=en&oi=ao"
-  email            :
+  email            : syedbadruddoja@my.unt.edu
   researchgate     : "https://www.researchgate.net/profile/Syed_Badruddoja?ev=hdr_xprf"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/syedbadruddoja/
   orcid            :
   pinterest        :
   soundcloud       :
