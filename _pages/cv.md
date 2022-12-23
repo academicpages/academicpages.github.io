@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-[Download detailed CV Here ](https://drive.google.com/file/d/1pDKWZtfSooh4fzbQffUZQlWOb7oQeSWC/view?usp=share_link)
+[Download detailed CV](https://drive.google.com/file/d/1pDKWZtfSooh4fzbQffUZQlWOb7oQeSWC/view?usp=share_link)
 
 Education
 ======
-* B.S. in Electronics and Telecommunication & Engineering, Independent University of Bangladesh, 2010
-* Ph.D in Computer Science & Engineering, University of North Texas, July 2023 (expected)
+* Ph.D in Computer Science and Engineering, University of North Texas, July 2023 (expected)
+* B.Sc. in Electronics and Telecommunication Engineering, Independent University of Bangladesh, 2010
+
 
 Work experience
 ======
