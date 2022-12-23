@@ -22,7 +22,7 @@ Experience
 -- Supervisor: Dr. Xia Hu\\
 -- Research topics: Truthworthy machine learning
 
-**Applied Scientist Intern at Amazon Search**, Oct. 2022 - Jan. 2022 \\
+**Applied Scientist Intern at Amazon Search**, Oct. 2022 - Jan. 2023 \\
 -- Supervisor: [Dr. Xianfeng Tang](https://www.tangxianfeng.net/), [Dr. Haoming Jiang](https://hmjianggatech.github.io/), and [Jingfeng Yang](https://jingfengyang.github.io/)\\
 -- Research topics: Environmental Friendly Query-Based Recommender System.
 
