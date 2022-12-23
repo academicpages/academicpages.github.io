@@ -6,7 +6,7 @@ excerpt: 'Blockchain technology develops static smart contracts for decentralize
 date: 2021-05-05
 venue: '2021 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9461148'
-citation: 'Syed Badruddoja, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+#citation: 'Syed Badruddoja, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
