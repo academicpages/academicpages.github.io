@@ -281,6 +281,14 @@ defaults:
       author_profile: true
       share: true
 
+  - scope:
+      path: ""
+      type: awards
+    values:
+      layout: awards
+      author_profile: true
+      share: true
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
