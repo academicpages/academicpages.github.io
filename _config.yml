@@ -193,7 +193,7 @@ collections:
   diversity:
     output: true
     permalink: /:collection/:path/
-  certification:
+  certifications:
     output: true
     permalink: /:collection/:path/
 
@@ -249,6 +249,15 @@ defaults:
   - scope:
       path: ""
       type: diversity
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _certifications
+  - scope:
+      path: ""
+      type: certifications
     values:
       layout: single
       author_profile: true
