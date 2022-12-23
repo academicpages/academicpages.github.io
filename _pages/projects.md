@@ -20,8 +20,8 @@ In the direction of machine learning, I have studied deep equilibrium networks (
 
 <ul>
   <li>Well-posedness of DEQs and Lipschitz Constants [[URL](https://arxiv.org/abs/2106.03194)]</li>
-  <li>Training of Robust DEQs [[URL](https://arxiv.org/abs/2204.00187)]</li>
-  <li>Verification of DEQs using Mixed Monotonicity [[URL](https://arxiv.org/abs/2112.05310)]</li>
+  <li>Training of Robust DEQs [[URL] (https://arxiv.org/abs/2204.00187)]</li>
+  <li>Verification of DEQs using Mixed Monotonicity [[URL] (https://arxiv.org/abs/2112.05310)]</li>
 </ul>
 
 ***
