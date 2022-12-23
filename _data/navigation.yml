@@ -6,17 +6,17 @@ main:
   - title: "Talks"
     url: /talks/
 
-  - title: "Teaching Experience & Statement"
+  - title: "Teaching"
     url: /teaching/
 
   - title: "Research Statement"
-    url: /cv/
+    url: /research/
 
   - title: "Diversity Statement"
-    url: /cv/
+    url: /diversity/
 
   - title: "Certification"
-    url: /cv/
+    url: /certification/
 
   - title: "CV"
     url: /cv/
