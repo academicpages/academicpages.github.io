@@ -42,7 +42,16 @@ Publications
 			<br/>
 		<b>Habiba Farrukh</b><sup>*</sup>, Muslum Ozgur Ozmen<sup>*</sup>, Faik Kerem Ors, Z. Berkay Celik
 			<br/>
-			To appear in IEEE Security and Privacy (S&P '23)
+			IEEE Security and Privacy (S&P '23)
+			<br/>
+	</li>
+</ul>
+<ul>
+	<li><b>iStelan: Disclosing Sensitive User Information by Mobile Magnetometer from Finger Touches</b>
+			<br/>
+		Reham Mohamed, <b>Habiba Farrukh</b>, He Wang, Yidong Lu, and Z. Berkay Celik
+			<br/>
+			Privacy Enhancing Technologies (PoPETS '23)
 			<br/>
 	</li>
 </ul>
@@ -52,7 +61,7 @@ Publications
 			<br/>
 		Muslum Ozgur Ozmen, Ruoyu Song, <b>Habiba Farrukh</b>, Z. Berkay Celik
 			<br/>
-			To appear in Network and Distributed System Security Symposium (NDSS '23)
+			Network and Distributed System Security Symposium (NDSS '23)
 			<br/>
 	</li>
 </ul>
