@@ -39,3 +39,5 @@ Publication
 Contact
 ------
 hsiang [at] wustl.edu
+
+<meta name="msvalidate.01" content="619F55E66C970BF300463F3F1D981ED8" />
