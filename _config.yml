@@ -10,14 +10,14 @@ locale                   : "en-US"
 title                    : "Steven L. Meisler"
 title_separator          : "-"
 name                     : &name "Steven Meisler"
-description              : &description "personal description"
+description              : &description "Steven Meisler's Personal Webste"
 url                      : https://smeisler.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smeisler/smeisler.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false # originally true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
