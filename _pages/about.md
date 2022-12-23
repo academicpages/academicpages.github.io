@@ -49,7 +49,7 @@ Publications
 <ul>
 	<li><b>iStelan: Disclosing Sensitive User Information by Mobile Magnetometer from Finger Touches</b>
 			<br/>
-		Reham Mohamed, <b>Habiba Farrukh</b>, He Wang, Yidong Lu, and Z. Berkay Celik
+		Reham Mohamed, <b>Habiba Farrukh</b>, He Wang, Yidong Lu, Z. Berkay Celik
 			<br/>
 			Privacy Enhancing Technologies (PoPETS '23)
 			<br/>
