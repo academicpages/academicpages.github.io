@@ -9,11 +9,11 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Research Statement"
-    url: /research/
+  # - title: "Research Statement"
+  #   url: /research/
 
-  - title: "Diversity Statement"
-    url: /diversity/
+  # - title: "Diversity Statement"
+  #   url: /diversity/
 
   - title: "Certifications"
     url: /certifications/

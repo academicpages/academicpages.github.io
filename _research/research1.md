@@ -1,6 +1,10 @@
 ---
+layout: archive
 title: "Research Summary"
-collection: research
+permalink: /research/
+author_profile: true
+redirect_from:
+  - /research
 #permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Blockchain technology develops static smart contracts for decentralized business transactions, lacks dynamic decision-making capabilities that limit the possibilities of ever-increasing demands of modern business applications. Artificial intelligence, a computational prediction platform provides intelligent predictions, actions, and recognition that lacks the ability to hold on to the integrity of the prediction result and requires the help of external authorities to secure the system. Blockchain-based AI prediction can cover the gaps of individual technologies and can mutually benefit from one another to develop a decentralized machine learning architecture that promises to yield better security, automation, and dynamism of the application. This paper proposes a Naive Bayes prediction algorithm to perform prediction with inside blockchain smart contracts that promises to open up more opportunities in the field of Blockchain-AI decentralized applications.'
 
