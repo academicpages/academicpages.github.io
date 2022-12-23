@@ -7,6 +7,5 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 Last updated: November 28th, 2022
-<a href="files/StevenMeisler_CV.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<embed src="https://smeisler.github.io/files/StevenMeisler_CV.pdf" type="application/pdf" />
