@@ -83,9 +83,9 @@ author:
   name             : "Rodrigo Cofré"
   avatar           : "profile.png"
   bio              : "Scientist"
-  location         : "Paris"
+  location         : "Paris, France"
   employer         :
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Cofr%C3%A9%20R&cauthor_id=36464098"
+  pubmed           : # "https://pubmed.ncbi.nlm.nih.gov/?term=Cofr%C3%A9%20R&cauthor_id=36464098"
   googlescholar    : "https://scholar.google.fr/citations?user=jbbZoRcAAAAJ&hl=en"
   email            : "rodrigocofre@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Rodrigo-Cofre-2"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "rodrigo-cofre-2a41821b9"
-  orcid            : "https://orcid.org/0000-0002-7498-7122"
+  orcid            : # "https://orcid.org/0000-0002-7498-7122"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

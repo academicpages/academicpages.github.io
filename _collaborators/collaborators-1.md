@@ -4,9 +4,9 @@ collection: collaborators
 permalink: /collaborators/
 ---
 
-Collaborators:
+# List of collaborators:
 
--Bruno Cessac
+-[Bruno Cessac](https://team.inria.fr/biovision/bruno-cessac/)
 
 -Cesar Maldonado
 
