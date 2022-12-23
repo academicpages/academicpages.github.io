@@ -6,7 +6,7 @@ excerpt: 'The machine learning algorithms can predict the events based on the tr
 date: 2022-09-05
 venue: '2022 Fourth International Conference on Blockchain Computing and Applications (BCCA)'
 paperurl: 'https://ieeexplore.ieee.org/document/9922480'
-citation: 'S. Badruddoja, R. Dantu, Y. He, M. Thompson, A. Salau and K. Upadhyay, "Making Smart Contracts Predict and Scale," 2022 Fourth International Conference on Blockchain Computing and Applications (BCCA), 2022, pp. 127-134, doi: 10.1109/BCCA55292.2022.9922480.'
+#citation: 'S. Badruddoja, R. Dantu, Y. He, M. Thompson, A. Salau and K. Upadhyay, "Making Smart Contracts Predict and Scale," 2022 Fourth International Conference on Blockchain Computing and Applications (BCCA), 2022, pp. 127-134, doi: 10.1109/BCCA55292.2022.9922480.'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 

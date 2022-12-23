@@ -9,8 +9,14 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Research Statement"
+    url: /cv/
+
+  - title: "Diversity Statement"
+    url: /cv/
+
+  - title: "Certification"
+    url: /cv/
 
   - title: "CV"
     url: /cv/
