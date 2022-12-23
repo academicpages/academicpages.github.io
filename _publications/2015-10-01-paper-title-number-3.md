@@ -2,7 +2,7 @@
 title: "Smarter Contracts to Predict using Deep-Learning Algorithms"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-3
-excerpt: ''
+excerpt: 'Deep Learning algorithm'
 date: 2022-09-05
 venue: '2022 Fourth International Conference on Blockchain Computing and Applications (BCCA)'
 paperurl: 'https://ieeexplore.ieee.org/document/9922240'
