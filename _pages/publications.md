@@ -53,6 +53,7 @@ author_profile: true
 [Link](https://www.researchgate.net/publication/359969863_Can't_Understand_SLAs_Use_the_Smart_Contract)
 *	S. Badruddoja, R. Dantu, Y. He, K. Upadhyay and M. Thompson, “Making Smart Contracts Smarter,” 2021 IEEE International Conference on Blockchain and Cryptocurrency (ICBC), 2021, pp. 1-3, doi: 10.1109/ICBC51069.2021.9461148.
 [Link](https://www.researchgate.net/publication/352730718_Making_Smart_Contracts_Smarter)
+
 ## 2020
 
 *	K. Upadhyay, R. Dantu, Z. Zaccagni and S. Badruddoja, "Is Your Legal Contract Ambiguous? Convert to a Smart Legal Contract," 2020 IEEE International Conference on Blockchain (Blockchain), 2020, pp. 273-280, doi: 10.1109/Blockchain50366.2020.00041.
