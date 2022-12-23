@@ -189,21 +189,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  proceedings:
-    output: true
-    permalink: /:collection/:path/
-  chapters:
-    output: true
-    permalink: /:collection/:path/
-  miscellany:
-    output: true
-    permalink: /:collection/:path/
-  resources:
-    output: true
-    permalink: /:collection/:path/
-  recent:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
