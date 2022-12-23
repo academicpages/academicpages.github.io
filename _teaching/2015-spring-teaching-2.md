@@ -2,7 +2,7 @@
 title: "Teaching Fellow"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+#permalink: /teaching/2014-spring-teaching-1
 venue: "University of North Texas, Department of Computer Science & Engineering"
 start date: 2019-06-01
 end date: 2019-07-30
