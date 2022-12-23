@@ -1,3 +1,7 @@
+---
+title: "Diversity Statement"
+collection: diversity
+
 ## Significance of Diversity, Equity, Inclusion & Accessibility
 Diversity, equity, inclusion and accessibility (DEIA) are integral to achieving academic excellence at the University of Texas at El Paso, as stated on the University's website. My commitment to diversity, equity, inclusion and accessibility aligns well with this philosophy. I believe that the academic environment can be unwelcoming, unfair, and inequitable because of not fitting into gender schema and ethnicity. Moreover, such settings restrict intellectual engagement and decrease productivity. Therefore, I am committed to making a difference in ensuring everyone is given opportunities to excel in their scholarly activities.  
 
