@@ -15,13 +15,13 @@ On this page you can find a short academic CV. For more details, please find me 
 
 I am currently working as a Research Fellow in the [Meel group](https://meelgroup.github.io) at the [School of Computing (SoC)](https://www.comp.nus.edu.sg) of the National University of Singapore (NUS). I work on developing new solving techniques for maximum satisfiability (MaxSAT) problems, and for counting the number of solutions to a Boolean formula (model counting, or #SAT).
 
-### PHD
+### Doctorate
 
-I did my PhD  at the [Leiden Institute of Advanced Computer Science](https://liacs.leidenuniv.nl/) (LIACS) of [Leiden University](https://www.universiteitleiden.nl/en), under supervision of [prof. dr. Joost Kok](http://liacs.leidenuniv.nl/~kokjn/) (promotor), [prof. dr. Holger Hoos](http://ada.liacs.nl/members/#Holger) (promotor) and [ dr. Siegfried Nijssen](https://www.info.ucl.ac.be/~snijssen/) (co-promotor / daily advisor). During the entire period of my PhD, I was also a visiting researcher at the [ICTEAM](https://uclouvain.be/en/research-institutes/icteam) of [Université catholique de Louvain](https://uclouvain.be/en/index.html), where I spent the first year of my PhD (2017). I worked with  [prof. dr. Fahiem Bacchus](http://www.cs.toronto.edu/~fbacchus/) from the [Knowledge Representation group](http://www.cs.toronto.edu/kr/) at the University of Toronto, while I was a visiting researcher there from June to October of 2019.
+I did my doctorate at the [Leiden Institute of Advanced Computer Science](https://liacs.leidenuniv.nl/) (LIACS) of [Leiden University](https://www.universiteitleiden.nl/en), under supervision of [prof. dr. Joost Kok](http://liacs.leidenuniv.nl/~kokjn/) (promotor), [prof. dr. Holger Hoos](http://ada.liacs.nl/members/#Holger) (promotor) and [ dr. Siegfried Nijssen](https://www.info.ucl.ac.be/~snijssen/) (co-promotor / daily advisor). During the entire period as a doctorate student, I was also a visiting researcher at the [ICTEAM](https://uclouvain.be/en/research-institutes/icteam) of [Université catholique de Louvain](https://uclouvain.be/en/index.html), where I spent the first year of my PhD (2017). I worked with  [prof. dr. Fahiem Bacchus](http://www.cs.toronto.edu/~fbacchus/) from the [Knowledge Representation group](http://www.cs.toronto.edu/kr/) at the University of Toronto, while I was a visiting researcher there from June to October of 2019.
 
 The project I was hired on is called [PROFIDDS](http://liacs.leidenuniv.nl/~nijssensgr/profidds/) (PRObabilistic Features for Intelligent Declarative Data Science), and was financed by an NWO TOP Grant, awarded to dr. Siegfried Nijssen.
 
-My dissertation, *Optimal decision-making under constraints and uncertainty*, was accepted in March 2022. My defence is planned for September 2022.
+My dissertation, *Optimal decision-making under constraints and uncertainty*, was accepted in March 2022. I defended it on 13 September 2022 and received my doctorate degree on that day.
 
 ### EDUCATION
 
@@ -57,6 +57,7 @@ Press releases can be found on [the website of Leiden University](https://www.un
 
 #### PROGRAM COMMITTEE MEMBER
 
+  - [AAAI 2023](https://aaai.org/Conferences/AAAI-23/) 
   - [NeurIPS 2022](https://nips.cc)
   - [AAAI 2021](https://aaai.org/Conferences/AAAI-21/) (awarded with an Outstanding Reviewer Award)
 
