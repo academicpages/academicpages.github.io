@@ -59,8 +59,8 @@ yandex_site_verification :
 twitter:
   username               : StevenMeisler
 mastodon:
-  username               : smeisler
-  instance               : mastodon.online
+- username: smeisler
+  instance: mastodon.online
 facebook:
   username               :
   app_id                 :
