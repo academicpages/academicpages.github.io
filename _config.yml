@@ -57,7 +57,10 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : StevenMeisler
+mastodon:
+  username               : smeisler
+  instance               : mastodon.online
 facebook:
   username               :
   app_id                 :
@@ -86,7 +89,7 @@ author:
   location         : "Cambridge, MA"
   employer         : "Harvard Medical School / MIT"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=steven+meisler"
-  googlescholar    : "https://scholar.google.com/citations?user=0lB9-GcAAAAJ&hl=en&authuser=1"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=0lB9-GcAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"
   email            : "smeisler@g.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/Steven-Meisler"
   uri              :
