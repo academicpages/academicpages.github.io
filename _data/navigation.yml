@@ -2,6 +2,9 @@
 main:
   - title: "Home"
     url: /about/
+         
+  - title: "News and Updates"
+    url: /year-archive/
 
   - title: "Publications"
     url: /publications/
@@ -20,7 +23,3 @@ main:
 
   - title: "Music"
     url: /music/
-        
-  - title: "News and Updates"
-    url: /year-archive/
-    
