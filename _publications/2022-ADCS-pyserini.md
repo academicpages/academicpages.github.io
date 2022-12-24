@@ -5,6 +5,7 @@ permalink: /publication/ADCS2022Pyserini
 year: 2022
 venue: 'Proceedings of the 26th Australasian Document Computing Symposium (ADCS ’22)'
 authors: Hang Li, <strong>Shengyao Zhuang</strong>, Xueguang Ma, Jimmy Lin, Guido Zuccon
+track: Demo paper
 ---
 ---
 
