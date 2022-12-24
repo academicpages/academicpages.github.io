@@ -49,6 +49,7 @@ Coverage control aims to address the problem of resource allocation within a dom
 <ul>
   <li>Sparsity Structure and Sufficient Condition for Optimality [<a href="https://ieeexplore.ieee.org/abstract/document/8732381">DOI</a>] </li>
   <li>Equivalence with Leader-Follower Consensus [Link to-be added]</li>
+  <li>1D Robustness Guarantees and Application to Reach-Avoid Games [<a href="https://ieeexplore.ieee.org/abstract/document/9293027">DOI</a>] </li>
   <li>Low-Mobility Atmospheric Sensing [<a href="https://doi.org/10.2514/6.2020-2821">DOI</a>] </li>
 </ul> 
     
