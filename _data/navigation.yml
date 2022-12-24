@@ -15,9 +15,12 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Software"
+    url: /music/
+
   - title: "Music"
     url: /music/
         
-  - title: "Blog Posts"
+  - title: "News and Updates
     url: /year-archive/
     
