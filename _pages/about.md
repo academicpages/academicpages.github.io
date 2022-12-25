@@ -22,7 +22,7 @@ You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.e
 
 News
 ======
-\[December 2022\] Invited to serve on the Program Committee for **KDD 2023**. 
+\[December 2022\] Invited to serve on the Program Committee for **KDD 2023** and **ICML 2023**. 
 
 \[December 2022\] **SecureBoost** received the **2021 Best Paper Award** for IEEE Intelligent Systems. Congratulations!
 
