@@ -56,7 +56,16 @@ The AAPI project is led by a research team from the Zhang Computational Social S
 <p align="left"><img align="left" width="500" height="500" src="https://yongjunzhang.com/images/lantian.jpeg"></p>
 </td>
 <td>
-<p align="left">Lantian Li is a Ph.D. candidate in Sociology at Northwestern University. Her research focuses on the political economy of global health and biomedicine. She has published in World Development, Qualitative Research, Asian Journal of Law and Society, Frontiers in Sociology, and Journal of Chinese Governance. Her work has been funded by the Association for Asian Studies, the Chiang Ching-kuo Foundation, the China Times Cultural Foundation, and the Buffett Institute for Global Affairs. </p>
+<p align="left">Lantian Li recently obtained her Ph.D. in Sociology at Northwestern University. Her research focuses on the political economy of global health and biomedicine. She has published in World Development, Qualitative Research, Asian Journal of Law and Society, Frontiers in Sociology, and Journal of Chinese Governance. Her work has been funded by the Association for Asian Studies, the Chiang Ching-kuo Foundation, the China Times Cultural Foundation, and the Buffett Institute for Global Affairs. </p>
+</td>
+</tr>
+
+<tr>
+<td>
+<p align="left"><img align="left" width="500" height="500" src="https://yongjunzhang.com/images/ellen.jpeg"></p>
+</td>
+<td>
+<p align="left">Ellen Sun is a high school student at Ward Melville High School. She is an active participant in student government and community service. She has also participated in sports such as cheerleading and track. </p>
 </td>
 </tr>
 
