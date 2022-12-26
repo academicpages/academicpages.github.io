@@ -9,7 +9,7 @@ redirect_from:
 
 ## Published
 
-Heiner, M., **Grimm, T.**, Smith, H., Leavitt, S., Christensen, W., Carling, G., St. Clair, L. (2022+), “Multivariate Receptor Modeling with Widely Dispersed Lichens as Bioindicators of Air Quality”, *Environmetrics*.
+Heiner, M., **Grimm, T.**, Smith, H., Leavitt, S. D., Christensen, W. F., Carling, G. T., & St. Clair, L. L. (2022). Multivariate receptor modeling with widely dispersed Lichens as bioindicators of air quality. *Environmetrics*, e2785. http://doi.org/10.1002/env.2785
 
 ## In Preparation
 
