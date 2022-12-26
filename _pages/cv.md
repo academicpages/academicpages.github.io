@@ -63,3 +63,31 @@ Talks
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
+
+Graduate Coursework
+======
+(Computer Science)
+10-701: Machine Learning
+10-605: Machine Learning with Large Datasets
+11-685: Introduction to Deep Learning
+36-700: Probability and Mathematical Statistics
+15-388: Practical Data Science
+17-681: Java for Application Programmers
+17-683: Data Structures for Application Programmers
+11-601: Coding Boot Camp
+17-637: Web Application Development
+17-514: Principles of Software System Construction
+
+(Materials Science)
+27-709: Engineering Biomaterials
+27-766: Diffusion in Materials
+27-788: Defects in Materials
+27-796: Structure of Materials
+27-797: Bounding of Materials
+27-798: Thermodynamics I
+27-799: Thermodynamics II
+09-860: Computational Chemistry
+27-727: Mechanical Behavior in Extreme Enviroments
+27-765: Additive Manufacturing Laboratory
+27-719: Computational Thermodynamics
+27-731: Texture, Microstructure & Anisotropy
