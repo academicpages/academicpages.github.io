@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year Ph.D. student in the Department of Materials Science and Engineering at Carnegine Mellon University. I work at the intersectio  of materials science and machine learning. My expected graduation date is May 2023. Currently, I am actively looking for machine learning engineer (MLE) and data scientist (DS) positions.
+I am a final year Ph.D. student in the Department of Materials Science and Engineering at Carnegine Mellon University. I work at the intersection of materials science and machine learning. My expected graduation date is May 2023. Currently, I am actively looking for machine learning engineer (MLE) and data scientist (DS) positions.
 
 Current Research Interests
 ------
 * Synchrotron x-ray imaging of laser-matter characterization for failure analysis and quality control
 * Automation and machine learning for image analysis
+* Materials informatics
