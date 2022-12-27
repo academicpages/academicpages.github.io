@@ -11,20 +11,20 @@ redirect_from:
 
 Education
 ======
-* MBA & M.S. in Information Systems, University of Maryland, 2022
-* B.S., National Tsing Hua University, 2014
+* <div>MBA & M.S. in Information Systems, University of Maryland<div style = 'float: right;'>Sep 2020 - Jun 2022</div></div>
+* <div>B.S., National Tsing Hua University<div style = 'float: right;'>Sep 2010 - Jun 2014</div></div>
 
 
 Work experience
 ======
 * Wistron                 
-  <div>Project Manager<div style = 'float: right'>Jan 2023 - Present</div></div>
-  <p align='left'>Data Scientist <p>                <p align='right'>Oct 2022 - Dec 2022<p>
+  <div>Project Manager<div style = 'float: right;'>Jan 2023 - Present</div></div>
+  <div>Data Scientist<div style = 'float: right;'>Oct 2022 - Dec 2022</div></div>
 
 * Pegatron                 
-   <p align='left'>Factory Project Manager<p>          <p align='right'>May 2018 - Mar 2020<p>
+   <div>Factory Project Manager<div style = 'float: right;'>May 2018 - Mar 2020</div></div>
 
 * International Taoyuan Airport                 
-   <p align='left'>Substitute Military Service<p>      <p align='right'>Sep 2016 - Oct 2017<p>
+   <div>Substitute Military Service<div style = 'float: right;'>Sep 2016 - Sep 2017</div></div>
 
 
