@@ -18,13 +18,13 @@ Education
 Work experience
 ======
 * Wistron                 
-  Project Manager                Jan 2023 - Present
-  Data Scientist                 Oct 2022 - Dec 2022
+  <p align='left'>Project Manager<p>                <p align='right'>Jan 2023 - Present<p>
+  <p align='left'>Data Scientist <p>                <p align='right'>Oct 2022 - Dec 2022<p>
 
 * Pegatron                 
-  Factory Project Manager        May 2018 - Mar 2020
+   <p align='left'>Factory Project Manager<p>          <p align='right'>May 2018 - Mar 2020<p>
 
 * International Taoyuan Airport                 
-  Substitute Military Service    Sep 2016 - Oct 2017
+   <p align='left'>Substitute Military Service<p>      <p align='right'>Sep 2016 - Oct 2017<p>
 
 
