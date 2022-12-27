@@ -142,7 +142,7 @@ Professional Activity
 		<b>Organizing Committee</b>
 		<ul>
 			<li>
-				IEEE/ACM Internet of Safe Things (Safe Things), 2023, Publicity Chair
+				IEEE/ACM Internet of Safe Things (SafeThings), 2023, Publicity Chair
 			</li>
 		</ul>
 	</li>
