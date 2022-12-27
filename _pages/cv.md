@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Wistron                 
-  <p align='left'>Project Manager<p>                <p align='right'>Jan 2023 - Present<p>
+  <div>Project Manager<div style = 'right'>Jan 2023 - Present</div></div>
   <p align='left'>Data Scientist <p>                <p align='right'>Oct 2022 - Dec 2022<p>
 
 * Pegatron                 
