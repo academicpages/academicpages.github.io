@@ -1,6 +1,6 @@
 ---
 title: "Old Veteran Reflect The Past"
-excerpt: "Old Veteran Reflect The Past<br/><img src='/old_veteran_reflection_the_past.png'>"
+excerpt: "Old Veteran Reflect The Past<br/><img src='/images/old_veteran_reflection_the_past.png'>"
 collection: portfolio
 ---
 
