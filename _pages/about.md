@@ -32,4 +32,4 @@ National Tsing Hua University:
 
 For more info
 ------
-More info about my background can be found in [LinkedIn](https://www.linkedin.com/in/lch99310/).
+More info about my background can be found in [LinkedIn](https://www.linkedin.com/in/lch99310/). More pictures can be found in [My Shutterstock](https://www.shutterstock.com/zh-Hant/g/Yginger+Lee/sets)
