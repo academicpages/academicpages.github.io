@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "李崇豪 LCH's page"
 title_separator          : "-"
-name                     : &name "Chung-Hao Lee"
+name                     : &name "李崇豪 Chung-Hao Lee"
 description              : &description "PM @ Wistron"
 url                      : https://lch99310.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
