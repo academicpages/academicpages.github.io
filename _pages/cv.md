@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* <div>MBA & M.S. in Information Systems, University of Maryland<div style = 'float: right;'>Sep 2020 - Jun 2022</div></div>
-* <div>B.S., National Tsing Hua University<div style = 'float: right;'>Sep 2010 - Jun 2014</div></div>
+* <div>MBA & M.S. in Information Systems, University of Maryland (GPA: 3.5)<div style = 'float: right;'>Sep 2020 - Jun 2022</div></div>
+* <div>B.S., National Tsing Hua University (GPA: 3.6)<div style = 'float: right;'>Sep 2010 - Jun 2014</div></div>
 
 
 Work experience
