@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "John Giorgi"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "John Giorgi"
 description              : &description "Computer science Ph.D. student at the University of Toronto."
