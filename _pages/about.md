@@ -15,14 +15,17 @@ Achievements
 University of Maryland:
 * Smith Fellow scholarship, Recipient
 * UMD Outstanding Graduate Student Award, 2022, Nomination
-* Impact Consulting Fellowship, Summer 2021, 1st Place
+* Impact Consulting Fellowship, Summer 2021, **1st Place**
 * ISM Global Case Competition, January 2022
 * UMD Info Challenge, March 2022
 * Bitcamp, April 2022
-* GRAD, April 2022, 2nd Place
+* Graduate Research Appreciation Day, April 2022, **2nd Place**
 * UMD Smith Analytics Consortium Deloitte datathon, May 2022
-* ISA Datathon, May 2022, 3rd Place
+* UMD IS & Hearst Communications, Inc. Competition, May 2022, **3rd Place**
 * Selected as VP for Smith Masters Supply Chain Management Association & APICS Management
+
+Substitute Millatary Service:
+* Honorably discharged, summa cum laude and received a certificate of merit from the Ministry of the Interior (Taiwan).
 
 National Tsing Hua University:
 * Dean's list, Recipient
