@@ -1,16 +1,46 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications ([Google Scholar](https://scholar.google.com/citations?user=qtqjDKcAAAAJ&hl=en))"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Preprint
+* <b>Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks</b>.<br>
+<b>Bai Guangji*</b>, Ling Chen*, Zhao Liang
+<i>ArXiv</i>.<br>
 
-{% include base_path %}
+* <b>Distributed Graph Neural Network Training with Periodic Stale Representation Synchronization.<br>
+Zheng Chai*, <b>Guangji Bai*</b>, Liang Zhao, Yue Cheng.
+<i>ArXiv.<br>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+
+## 2023
+* <b>Saliency-Augmented Memory Completion for Continual Learning</b>.<br>
+<b>Bai Guangji</b>, Ling Chen, Gao Yuyang, Zhao Liang
+<i>SIAM International Conference on Data Mining (SDM 2023)</i>.<br>
+
+* <b>Sign-Regularized Multi-Task Learning</b>.<br>
+<b>Guangji Bai*</b>, Johnny Torres*, Junxiang Wang, Liang Zhao, Carmen Vaca, Cristina Abad.
+<i>SIAM International Conference on Data Mining (SDM 2023).<br>
+
+* <b>Dynamic Activation of Clients and Parameters for Federated Learning over Heterogeneous Graphs</b>.<br>
+Zishan Gu, Ke Zhang, <b>Guangji Bai</b>, Liang Chen, Liang Zhao, Carl Yang.
+<i>The 39th IEEE International Conference on Data Engineering (ICDE 2023)</i>.<br>
+
+
+## 2022
+* <b>Deep Spatial Domain Generalization</b>.<br>
+Dazhou Yu*, <b>Guangji Bai*</b>, Yun Li, Liang Zhao.
+<i>The 22nd IEEE International Conference on Data Mining (ICDM 2022)</i>.<br>
+
+* <b>RES: A Robust Framework for Guiding Visual Explanation.<br>
+<b>Yuyang Gao, Tong Steven Sun, <b>Guangji Bai</b>, Siyi Gu, Sungsoo Ray Hong, Liang Zhao.
+<i>The 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2022)</i>.<br>
+
+* <b>Saliency-Regularized Deep Multi-Task Learning.<br>
+<b>Guangji Bai</b>, Liang Zhao.
+<i>The 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2022)</i>.<br>
+
+
