@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprint
 * <b>Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks</b>.<br>
-<b>Bai Guangji*</b>, Ling Chen*, Zhao Liang
+<b>Guangji Bai*</b>, Chen Ling*, Liang Zhao.
 <i>ArXiv</i>.<br>
 
 * <b>Distributed Graph Neural Network Training with Periodic Stale Representation Synchronization.<br>
@@ -18,7 +18,7 @@ Zheng Chai*, <b>Guangji Bai*</b>, Liang Zhao, Yue Cheng.
 
 ## 2023
 * <b>Saliency-Augmented Memory Completion for Continual Learning</b>.<br>
-<b>Bai Guangji</b>, Ling Chen, Gao Yuyang, Zhao Liang
+<b>Guangji Bai</b>, Chen Ling, Yuyang Gao, Liang Zhao.
 <i>SIAM International Conference on Data Mining (SDM 2023)</i>.<br>
 
 * <b>Sign-Regularized Multi-Task Learning</b>.<br>
