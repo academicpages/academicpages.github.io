@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Publications ([Google Scholar](https://scholar.google.com/citations?user=qtqjDKcAAAAJ&hl=en))"
 permalink: /publications/
 author_profile: true
@@ -12,7 +11,7 @@ author_profile: true
 
 * <b>Distributed Graph Neural Network Training with Periodic Stale Representation Synchronization.<br>
 Zheng Chai*, <b>Guangji Bai*</b>, Liang Zhao, Yue Cheng.
-<i>ArXiv.<br>
+<i>ArXiv</i>.<br>
 
 
 
