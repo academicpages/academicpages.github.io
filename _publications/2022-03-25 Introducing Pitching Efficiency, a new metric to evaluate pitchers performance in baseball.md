@@ -1,7 +1,8 @@
+
 ---
 title: "Introducing Pitching Efficiency, a new metric to evaluate pitchers' performance in baseball"
 collection: publications
-permalink: /publication/2022-03-25 Introducing Pitching Efficiency, a new metric to evaluate pitchers' performance in baseball.md
+permalink: /publication/2022-03-25 Introducing Pitching Efficiency a new metric to evaluate pitchers performance in baseball
 excerpt: ''
 date: 2022-03-25
 venue: '李崇豪 LCH's page'
