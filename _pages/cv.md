@@ -1,6 +1,6 @@
 ---
-layout: archive
-title: "CV"
+#layout: archive
+#title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, Fudan University, 2014-2018
+* M.S. in Statistics, The George Washington University, 2018-2020
+* Ph.D in Computer Science, Emory University, 2020-2025 (expected)
 
 Work experience
 ======
@@ -36,17 +36,14 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Courses
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
   
 Teaching
 ======
@@ -54,6 +51,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Services
 ======
 * Currently signed in to 43 different slack teams
