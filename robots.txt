@@ -1,4 +1,0 @@
-Sitemap: https://ksolaiman.github.io/sitemap.xml
-
-User-agent: *
-Disallow:
