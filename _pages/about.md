@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am now a PM managing AI/ML projects at Wistron. I received MBA and Master's in Information Systems dual degrees from University of Maryland, College Park and Bachelor's degree at National Tsing Hua University. I am also a photographer who loves to record beauty of daily life.
+I am now a PM managing AI/ML projects at Wistron. I received MBA and Master's in Information Systems dual degrees from University of Maryland, College Park and Bachelor's degree at National Tsing Hua University. I am interested in data science, manufacturing, baseball analytics, and synthetic biology. I am also a photographer who loves to record beauty of daily life.
 
 Achievements
 ======
 University of Maryland:
 * Smith Fellow scholarship, Recipient
-* UMD Outstanding Graduate Student Award, 2022, Nomination
+* **UMD Outstanding Graduate Student Award, 2022, Nomination**
 * Impact Consulting Fellowship, Summer 2021, **1st Place**
 * ISM Global Case Competition, January 2022
 * UMD Info Challenge, March 2022
