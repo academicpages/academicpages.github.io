@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Guangji Bai"
-  avatar           : "small.png"
+  avatar           : "https://github.com/BaiTheBest/BaiTheBest.github.io/blob/master/images/bai.png"
   bio              : "Ph.D. Student in Machine Learning"
   location         : "Atlanta, GA"
   employer         :
