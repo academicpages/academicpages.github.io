@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a third-year Ph.D. student at the Deparment of Compuete Science, Emory University, where I am fornuate to be advised by Dr. [Liang Zhao](https://cs.emory.edu/~lzhao41/). Previously, I received my master's degree in Statistics from the George Washiington University in 2020. I received my bachelor's degree in Mathematics from the [School of Mathematical Science, Fudan University](https://math.fudan.edu.cn/) in Shanghai, China. 
+Welcome! I am currently a third-year Ph.D. student at the Deparment of Compuete Science, Emory University, where I am fornuate to be advised by Dr. [Liang Zhao](https://cs.emory.edu/~lzhao41/). Previously, I received my master's degree in Statistics from the George Washiington University in 2020. I received my bachelor's degree in Mathematics from the [School of Mathematical Science, Fudan University](https://math.fudan.edu.cn/) in Shanghai, China. 
 
 Research
 ======
