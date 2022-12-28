@@ -9,12 +9,10 @@ author_profile: true
 <b>Guangji Bai*</b>, Chen Ling*, Liang Zhao.
 <i>ArXiv</i>.<br>
 
-* <b>Distributed Graph Neural Network Training with Periodic Stale Representation Synchronization.<br>
+* <b>Distributed Graph Neural Network Training with Periodic Stale Representation Synchronization</b>.<br>
 Zheng Chai*, <b>Guangji Bai*</b>, Liang Zhao, Yue Cheng.
-<i>ArXiv</i>.<br>
-
-
-
+<i>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</i>.<br>
+  
 ## 2023
 * <b>Saliency-Augmented Memory Completion for Continual Learning</b>.<br>
 <b>Guangji Bai</b>, Chen Ling, Yuyang Gao, Liang Zhao.
@@ -22,7 +20,7 @@ Zheng Chai*, <b>Guangji Bai*</b>, Liang Zhao, Yue Cheng.
 
 * <b>Sign-Regularized Multi-Task Learning</b>.<br>
 <b>Guangji Bai*</b>, Johnny Torres*, Junxiang Wang, Liang Zhao, Carmen Vaca, Cristina Abad.
-<i>SIAM International Conference on Data Mining (SDM 2023).<br>
+<i>SIAM International Conference on Data Mining (SDM 2023)</i>.<br>
 
 * <b>Dynamic Activation of Clients and Parameters for Federated Learning over Heterogeneous Graphs</b>.<br>
 Zishan Gu, Ke Zhang, <b>Guangji Bai</b>, Liang Chen, Liang Zhao, Carl Yang.
@@ -34,11 +32,11 @@ Zishan Gu, Ke Zhang, <b>Guangji Bai</b>, Liang Chen, Liang Zhao, Carl Yang.
 Dazhou Yu*, <b>Guangji Bai*</b>, Yun Li, Liang Zhao.
 <i>The 22nd IEEE International Conference on Data Mining (ICDM 2022)</i>.<br>
 
-* <b>RES: A Robust Framework for Guiding Visual Explanation.<br>
+* <b>RES: A Robust Framework for Guiding Visual Explanation</b>.<br>
 <b>Yuyang Gao, Tong Steven Sun, <b>Guangji Bai</b>, Siyi Gu, Sungsoo Ray Hong, Liang Zhao.
 <i>The 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2022)</i>.<br>
 
-* <b>Saliency-Regularized Deep Multi-Task Learning.<br>
+* <b>Saliency-Regularized Deep Multi-Task Learning</b>.<br>
 <b>Guangji Bai</b>, Liang Zhao.
 <i>The 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2022)</i>.<br>
 
