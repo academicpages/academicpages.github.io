@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guangji Bai"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Guangji Bai"
 description              : &description "personal description"
