@@ -27,7 +27,7 @@ Peer-reviewed publications.
 __John Giorgi__, Luca Soldaini, Bo Wang, Gary Bader, Kyle Lo, Lucy Lu Wang, Arman Cohan. _arXiv_ (2022) [💻 [code](https://github.com/allenai/open-mds)]
 
 ↪ [A sequence-to-sequence approach for document-level relation extraction](https://aclanthology.org/2022.bionlp-1.2/),
-__John Giorgi__, Gary Bader, Bo Wang. _BioNLP@ACL_ (2022) [💻 [code](https://github.com/johngiorgi/seq2rel) | 🎥 [video](https://aclanthology.org/2022.bionlp-1.2.mp4) | 🛝 [slides](https://docs.google.com/presentation/d/1eJ3uFakfjSFmuMrYiA-PtMY5QFhm8kRSykFkkxw_6LM/edit?usp=sharing)]
+__John Giorgi__, Gary Bader, Bo Wang. _BioNLP@ACL_ (2022) [💻 [code](https://github.com/johngiorgi/seq2rel) | ⚙️ [demo](https://share.streamlit.io/johngiorgi/seq2rel/main/demo.py) | 🎥 [video](https://aclanthology.org/2022.bionlp-1.2.mp4) | 🛝 [slides](https://docs.google.com/presentation/d/1eJ3uFakfjSFmuMrYiA-PtMY5QFhm8kRSykFkkxw_6LM/edit?usp=sharing)]
 
 ↪ [DeCLUTR: Deep Contrastive Learning for Unsupervised Textual Representations](https://aclanthology.org/2021.acl-long.72/),
 __John Giorgi__, Osvald Nitski, Bo Wang, Gary Bader. _ACL-IJCNLP_ (2021) [💻 [code](https://github.com/JohnGiorgi/DeCLUTR) | 🪧 [poster](https://drive.google.com/file/d/17PfPPMJEn_v1VmvhMtu65TY1blf0_LjA/view?usp=sharing) | 🎥 [video](https://aclanthology.org/2021.acl-long.72.mp4) | 🛝 [slides](https://docs.google.com/presentation/d/1Xm5HiGIyRTb28aw-VnCM12mUyZCSl0tZR1W-UyAW6AQ/edit?usp=sharing)]
