@@ -33,7 +33,7 @@ Dazhou Yu*, <b>Guangji Bai*</b>, Yun Li, Liang Zhao.
 <i>The 22nd IEEE International Conference on Data Mining (ICDM 2022)</i>.<br>
 
 * <b>RES: A Robust Framework for Guiding Visual Explanation</b>.<br>
-<b>Yuyang Gao, Tong Steven Sun, <b>Guangji Bai</b>, Siyi Gu, Sungsoo Ray Hong, Liang Zhao.
+Yuyang Gao, Tong Steven Sun, <b>Guangji Bai</b>, Siyi Gu, Sungsoo Ray Hong, Liang Zhao.
 <i>The 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2022)</i>.<br>
 
 * <b>Saliency-Regularized Deep Multi-Task Learning</b>.<br>
