@@ -6,7 +6,7 @@ author_profile: true
 
 ## Preprint
 * <b>Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks</b>.<br>
-<b>Guangji Bai*</b>, Chen Ling*, Liang Zhao.
+<b>Guangji Bai</b>, Chen Ling*, Liang Zhao.
 <i>ArXiv. Under review</i>.<br>
 
 * <b>Distributed Graph Neural Network Training with Periodic Stale Representation Synchronization</b>.<br>
@@ -19,7 +19,7 @@ Zheng Chai*, <b>Guangji Bai*</b>, Liang Zhao, Yue Cheng.
 <i>SIAM International Conference on Data Mining (SDM 2023)</i>.<br>
 
 * <b>Sign-Regularized Multi-Task Learning</b>.<br>
-<b>Guangji Bai*</b>, Johnny Torres*, Junxiang Wang, Liang Zhao, Carmen Vaca, Cristina Abad.
+<b>Guangji Bai</b>, Johnny Torres*, Junxiang Wang, Liang Zhao, Carmen Vaca, Cristina Abad.
 <i>SIAM International Conference on Data Mining (SDM 2023)</i>.<br>
 
 * <b>Dynamic Activation of Clients and Parameters for Federated Learning over Heterogeneous Graphs</b>.<br>
