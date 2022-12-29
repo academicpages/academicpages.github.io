@@ -5,13 +5,12 @@ permalink: /teaching/
 author_profile: true
 ---
 
-2019-2020 Academic Year:   
-2020, Spring, Digital Image Processing (undergraduate).
+Digital Image Processing (undergraduate),    
+2020 Spring, 2021 Spring, 2022 Spring, 2023 Spring.    
 
-2020-2021 Acamedic Year:   
-2020, Autumn, Computer Graphics (undergraduate).    
-2021, Spring, Digitial Image Processing (undergraduate)
+Computer Graphics (undergraduate),   
+2020 Autumn, 2021 Autumn, 2022 Autumn.    
 
-2021-2022 Acamedic Year:  
-2021, Autumn, Discrete Mathematics (undergraduate).  
+Discrete Mathematics (undergraduate),        
+2021 Autumn.    
 
