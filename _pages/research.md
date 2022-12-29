@@ -9,7 +9,7 @@ author_profile: true
 
 ## Indonesian Throughflow
 
-The Indonesian Throughflow (ITF) is a series of ocean passageways by which tropical Pacific waters flow into the Indian Ocean. Because of the large magnitude of waters that flows through the ITF (15 Sv on average), it plays an important role in Indo-Pacific heat and freshwater distribution as well as regional climate. I utilize earth system models of varying complexity as well as marine sediment archives from the Indonesian Seas to understand the long-term variability of the ITF (on decadal-centennial timescales) through key passageways such as the Makassar Strait.
+The Indonesian Throughflow (ITF) is a series of ocean passageways by which tropical Pacific waters flow into the Indian Ocean. Because of the large magnitude of waters that flows through the ITF (15 Sv on average), it is critical to constraining Indo-Pacific heat and freshwater distribution as well as regional climate. I utilize earth system models of varying complexity as well as marine sediment archives from the Indonesian Seas to understand the long-term variability of the ITF (on decadal-centennial timescales) through key passageways such as the Makassar Strait.
 
 ## Southeast Asia Rainfall Extremes
 
@@ -17,4 +17,4 @@ Throughout the last millennium (1000 CE to present), Southeast Asia experienced 
 
 ## Glacial Termination
 
-During the last 21 thousand years, Earth's climate naturally transitioned between a glacial period with expansive Northern Hemisphere ice-sheets into a warmer interglacial period as those ice-sheets retreated. Understanding how the global oceans played a role in this ice-age termination will be important for understanding ocean variability in a warming climate. My past research in this area focused on geochemical analysis of marine sediment cores from the Southern Ocean, tropical Atlantic, and subpolar North Atlantic. I analyzed the elemental and isotopic composition of the marine sediments as well as the microfossils within the sediments (foraminifera), which led to important insights into ocean circulation and heat-uptake changes during this deglacial period.
+During the last 21 thousand years, Earth's climate naturally transitioned between a glacial period with expansive Northern Hemisphere ice-sheets into a warmer interglacial period as those ice-sheets retreated. Understanding how the global oceans contributed to this ice-age termination will be important for understanding ocean variability in a warming climate. My past research in this area focused on geochemical analysis of marine sediment cores from the Southern Ocean, tropical Atlantic, and subpolar North Atlantic. I analyzed the elemental and isotopic composition of the marine sediments as well as the microfossils within the sediments (foraminifera), which led to important insights into ocean circulation and heat-uptake changes during this deglacial period.
