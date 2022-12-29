@@ -13,9 +13,9 @@ I am a lecturer in the [College of Information Science and Engineering](https://
 
 My research interests include computer vision, machine learning and image processing, mainly focusing on
 * image/video stitching
-* image alignment
 * image manipulation
-* texture synthesis
+* view synthesis
+* multi-view stereo
 
 
 Here is my [CV](https://tlliao.github.io/files/cv_ltl.pdf) (updated in Mar. 2022) and [contact information](#contact information).
