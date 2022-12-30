@@ -47,9 +47,9 @@ Parallel to contraction theory is the theory of monotone operators, which is clo
 Coverage control aims to address the problem of resource allocation within a domain of interest. For arbitrary domains and regions of interest, finding globally optimal resource allocation configurations is an NP-hard problem. My work has focused on using tools from computational geometry and network systems theory to give sufficient conditions on the optimality of a configuration of agents. Additionally, I am interested in the robustness of different coverage control strategies. One application that I have focused on is the deployment of a team of lower-mobility aerial vehicles to persistently measure wind data in a wind farm for better characterization of wind turbine wakes. 
 
 <ul>
-  <li>Sparsity Structure and Sufficient Condition for Optimality [<a href="https://ieeexplore.ieee.org/abstract/document/8732381">DOI</a>] </li>
+  <li>Sparsity Structure and Sufficient Condition for Optimality [<a href="https://davydovalexander.github.io/files/AD-YDM19.pdf">PDF</a>] </li>
   <li>Equivalence with Leader-Follower Consensus [Link to-be added]</li>
-  <li>1D Robustness Guarantees and Application to Reach-Avoid Games [<a href="https://ieeexplore.ieee.org/abstract/document/9293027">DOI</a>] </li>
+  <li>1D Robustness Guarantees and Application to Reach-Avoid Games [<a href="https://davydovalexander.github.io/files/AD-PRO-YDM20.pdf">PDF</a>] </li>
   <li>Low-Mobility Atmospheric Sensing [<a href="https://doi.org/10.2514/6.2020-2821">DOI</a>] </li>
 </ul> 
     
