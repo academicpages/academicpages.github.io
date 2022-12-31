@@ -25,4 +25,18 @@ multimodal information retrieval, natural language processing, and video feature
 I am interested in designing mechanisms for identifying patterns and novelties in heterogeneous data sources towards better understanding of the data, focusing on the explanability of the models to better use them for situational awareness. 
 
 
-> **Open To Work:** Being close to finishing up my Ph.D., I am excited for my next adventure. I am looking for post doctoral or faculty positions. Please feel free to [reach out](mailto:ksolaima@purdue.edu) to me!
+> **Open To Work:** <span style="color:blue">**I am on the job market for post doctoral and faculty positions! [\[CV\]](/files/pdf/Solaiman_CV_Spring23.pdf) [\[Teaching Statement\]](/files/pdf/Teaching_Statement___AVP.pdf) <br> Please feel free to reach out at [ksolaima@purdue.edu](mailto:ksolaima@purdue.edu).**</span>
+
+
+## Education
+- **Purdue University**
+  - Ph.D. in Computer Science, 2023 (expected)
+  - Advisor: Prof. [Bharat Bhargava](https://www.cs.purdue.edu/homes/bb/)
+  - M.Sc. in Computer Science, 2022
+- **Bangladesh University of Engineering & Technology (BUET)**
+  - B.Sc. in Computer Science and Engineering (Artifical Intelligence), 2014
+  - Advisor: Prof. [Md. Monirul Islam](https://cse.buet.ac.bd/faculty/facdetail.php?id=mdmonirulislam)
+  - Thesis: **Minimal Parameter Clustering of Complex Shaped & Different Sized Dataset with Noise & Outlier Handling ([MPCACS](/files/publications/ug-thesis-2014.pdf))**
+  
+<!-- Thesis Title: From Entity-Centric to Event-Centric Multimodal Knowledge Acquisition
+  Thesis Committee: Shih-Fu Chang, Kyunghyun Cho, Jiawei Han, Chengxiang Zhai  -->
