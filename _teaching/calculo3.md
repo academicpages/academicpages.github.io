@@ -1,14 +1,14 @@
 ---
-title: "Geometria Analítica e Cálculo Vetorial- DCET0091"
+title: "Cálculo III- DCETXXX"
 collection: teaching
 type: "Curso de Matemática"
-permalink: /teaching/geometria_analitica_20221
+permalink: /teaching/calculo3
 venue: "DCET, UESB"
-date: 2022-07-11
+date: 2023-02-01
 location: "Vitória da Conquista-Ba, Brasil"
 ---
 
-Semestre 2022.1
+Semestre 2023.1
 
 Ementa
 ======
