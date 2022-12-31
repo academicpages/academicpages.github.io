@@ -12,7 +12,7 @@ Developed solutions to five programming assignments throughout the semester whil
 - Graduate Teaching Assistant
     - CS18000: Problem Solving and Object Oriented Programming; Fall 2016-17
     - CS25100: Data Structures; Spring 2017, Spring 2018 - Fall 2018
-    - [CS44800: Introduction To Relational Database Systems](https://www.cs.purdue.edu/homes/bb/cs448f19/); Fall 2019
+    - CS44800: Introduction To Relational Database Systems; [Fall 2019](https://www.cs.purdue.edu/homes/bb/cs448f19/), [Spring 2023](https://www.cs.purdue.edu/homes/bb/cs448s23/index.html)
     - [CS53600: Data Communication and Computer Networks](https://gitlab.com/purdue-cs536/fall-2022/public); Fall 2022
 
 ### 2014-16
