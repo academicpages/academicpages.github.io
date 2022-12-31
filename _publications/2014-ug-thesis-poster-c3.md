@@ -9,7 +9,7 @@ venue-type: 'Poster'
 research-category: 'Unsupervised Learning'
 website-separation-category: 'c3'
 paperurl: '/files/publications/thesis-poster-2014.pdf'
-# link: 'https://ieeexplore.ieee.org/abstract/document/6572632'
+link: 'http://dx.doi.org/10.13140/RG.2.2.27359.94881' 
 # talk/ video:
 # code: 'https://doi.org/10.7910/DVN/BEKPWV'
 award: 'https://cse.buet.ac.bd/news/news.php?newsid=93'       # ranklist
