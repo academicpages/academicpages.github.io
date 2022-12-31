@@ -20,6 +20,9 @@ Serão consideradas para a avaliação uma prova escrita para cada uma das três
 
 Bibliografia
 ======
+1. Guidorizzi, H. L., Um Curso de Cálculo, Volume 2, 5a Edição, LTC, 2002.
+1. Guidorizzi, H. L., Um Curso de Cálculo, Volume 3, 5a Edição, LTC, 2002.
+1. Guidorizzi, H. L., Um Curso de Cálculo, Volume 4, 5a Edição, LTC, 2002.
 1. Stewart, James. Cálculo, Volume II, 5a Edição, Thomson, 2006
 
 Plano de Curso
