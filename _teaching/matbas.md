@@ -22,6 +22,8 @@ Bibliografia
 ======
 1. Boldrini, J. L., Costa, S. I. R, Figueiredo, V. L., Wetzler, H. G., Álgebra Linear, 3a Edição, Editora Harbra, 1986.
 1. Santos, N. M dos, Vetores e Matrizes, Elementos de Matemática, IMPA, 1972.
+1. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Logaritmos, Vol 2. Editora Atual, 1995.
+1. Iezzi, G., Fundamentos de Matemática Elementar: Logaritmos, Vol 3. Editora Atual, 1977.
 
 Plano de Curso
 ======
