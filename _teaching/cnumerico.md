@@ -1,14 +1,14 @@
 ---
-title: "Cálculo Numérico - DCET0082"
+title: "Cálculo Numérico - DCETXXXX"
 collection: teaching
-type: "Curso de Matemática"
+type: "Curso de Física"
 permalink: /teaching/cnumerico20221
 venue: "UESB, DCET"
 date: 2022-07-11
 location: "Vitória da Conquista-Ba, Brasil"
 ---
 
-Semestre 2022.1
+Semestre 2022.2
 
 Ementa
 ======

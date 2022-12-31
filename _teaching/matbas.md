@@ -1,14 +1,14 @@
 ---
-title: "Álgebra Linear - DCET0728"
+title: "Matemática Básica - DCETxxxX"
 collection: teaching
-type: "Curso de Engenharia Florestal"
-permalink: /teaching/alinear20221
+type: "Curso de Agronomia"
+permalink: /teaching/matbas
 venue: "DCET, UESB"
 date: 2022-07-11
 location: "Vitória da Conquista-Ba, Brasil"
 ---
 
-Semestre 2022.1
+Semestre 2023.1
 
 Ementa
 ======

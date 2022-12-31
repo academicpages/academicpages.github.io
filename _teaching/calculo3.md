@@ -1,7 +1,7 @@
 ---
 title: "Cálculo III- DCETXXX"
 collection: teaching
-type: "Curso de Matemática"
+type: "Curso de Física"
 permalink: /teaching/calculo3
 venue: "DCET, UESB"
 date: 2023-02-01
