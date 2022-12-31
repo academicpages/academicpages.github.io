@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Im professor of Mathematics at the Universidade Estadual do Sudoeste da Bahia. My research topic is Continuous Optmization. Precisely, I have been interested in the study of optimization methods on Riemannian manifolds.
+I am professor of Mathematics at the Universidade Estadual do Sudoeste da Bahia. My research topic is Continuous Optmization. Precisely, I have been interested in the study of optimization methods on Riemannian manifolds.
 
 
