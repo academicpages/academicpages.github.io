@@ -12,7 +12,7 @@ Semestre 2023.1
 
 Ementa
 ======
-Matrizes e Sistemas de Equações Lineares. Espaço Vetorial, Subespaços, Bases e Dimensão. Aplicações Lineares e Matrizes. 
+Logaritmos. Funções circulares. Geometria Euclidiana: área e volumes. Geometria Analítica: Distância e área. Álgebra Linear: Matrizes, Determinantes, Sistema Lineares.  
 
 Avaliação
 ======
@@ -21,9 +21,6 @@ Serão consideradas para a avaliação uma prova escrita para cada uma das três
 Bibliografia
 ======
 1. Boldrini, J. L., Costa, S. I. R, Figueiredo, V. L., Wetzler, H. G., Álgebra Linear, 3a Edição, Editora Harbra, 1986.
-1. Leon, Steven J., Álgebra Linear com Aplicações, 4a Edição, LTC, 1998. 
-1. Lima, E. L., Geometria Analítica e Álgebra Linear, Coleção Matemática Universitária, IMPA, 2010.
-1. Poole, D., Álgebra Linear, Thomson, 2004.
 1. Santos, N. M dos, Vetores e Matrizes, Elementos de Matemática, IMPA, 1972.
 
 Plano de Curso
@@ -32,37 +29,16 @@ Disponível no sistema SAGRES.
 
 Datas das Provas
 ======
-* Primeira prova: 26/08/2022
-* Segunda prova:  30/09/2022
-* Terceira prova: 24/11/2022
-* Prova Final : ??/??/????
+* Primeira prova: 
+* Segunda prova:  
+* Terceira prova: 
+* Prova Final : 
 
 Listas de Exercícios 
 ======
-* Exercícios da seção 1.2 do livro texto.
-* Exercícios da seção 1.3 do livro texto.
-* Exercícios da seção 1.4 do livro texto.
-* Exercícios das páginas 45 e 46  do livro texto.
-* Exercícios da seção 2.2 do livro texto.
-* Exercícios 1-20 da seção 2.3 do livro texto.
-* Exercícios da seção 3.6 do livro texto.
-* Exercícios da seção 6.5 do livro texto.
-* Exercícios da seção 6.6 do livro texto.
-* [Exercícios Sala de Aula 03 e 04 de Novembro](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/lista4.pdf)
-
 
 
 
 Notas de Aula
 =======
 1. [Notas 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/AL_aulas_01_02.pdf)
-1. [Notas 02 ](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/AL_aulas_03_04.pdf)
-1. [Notas 03](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/AL_notas_03.pdf)
-1. [Notas 04](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/AL_notas_04.pdf)
-1. [Notas 05](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/AL_notas_05.pdf)
-1. [Notas 06](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/AL_notas_06.pdf)
-1. [Notas 07](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/AL_notas_07.pdf)
-
-
-
- 

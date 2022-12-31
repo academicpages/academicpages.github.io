@@ -1,5 +1,5 @@
 ---
-title: "Cálculo III- DCETXXX"
+title: "Cálculo III- DCET0113"
 collection: teaching
 type: "Curso de Física"
 permalink: /teaching/calculo3
@@ -8,11 +8,11 @@ date: 2023-02-01
 location: "Vitória da Conquista-Ba, Brasil"
 ---
 
-Semestre 2023.1
+Semestre 2022.2
 
 Ementa
 ======
-Vetores no plano e no espaço. Operações com vetores. Equações Vetorial e Analítica da reta no espaço. Equações Vetorial e Analítica no plano. Coordenadas polares. Cônicas e Quádricas. 
+Sequências e séries. Fórmula de Taylor. Funções de várias variáveis. Derivados Parciais. Integrais Múltiplos e Aplicações. 
 
 Avaliação
 ======
@@ -20,11 +20,7 @@ Serão consideradas para a avaliação uma prova escrita para cada uma das três
 
 Bibliografia
 ======
-1. Camargo, I. de, Boulos, P., Geometria Analítica: um tratamento vetorial, 3a Edição, Pearson, 2005.
-1. Lima, E. L., Geometria Analítica e Álgebra Linear, Coleção Matemática Universitária, IMPA, 2010.
-1. Santos, R. J., Matrizes, Vetores e Geometria Analítica, Imprensa Universitária da UFMG, 2013.
-1. Santos, N. M dos, Vetores e Matrizes, Elementos de Matemática, IMPA, 1972.
-1. Steinbruch, A., Winterle, P., Geometria Analítica, Pearson, 1995.
+1. Stewart, James. Cálculo, Volume II, 5a Edição, Thomson, 2006
 
 Plano de Curso
 ======
@@ -32,13 +28,12 @@ Disponível no sistema SAGRES.
 
 Datas das Provas
 ======
-* Primeira prova: 25/08/2022
-* Segunda prova:  29/09/2022
-* Terceira prova:  24/11/2022
-* Prova FInal : 29/11/2022
+* Primeira prova: 
+* Segunda prova:  
+* Terceira prova: 
+* Prova FInal : 
 
 Listas de Exercícios 
 ======
-* [Lista de exercícios para ser entregue, via email em arquivo pdf, até o dia 21/11/2022](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/GACV_lista_exercicios.md)
+* [Lista 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/GACV_lista_exercicios.md)
 
-* [Lista de Exercícios - Coordenadas Polares](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/GACV_lista04.pdf)

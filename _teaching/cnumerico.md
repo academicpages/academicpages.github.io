@@ -1,10 +1,10 @@
 ---
-title: "Cálculo Numérico - DCETXXXX"
+title: "Cálculo Numérico - DCET0305"
 collection: teaching
 type: "Curso de Física"
 permalink: /teaching/cnumerico20221
 venue: "UESB, DCET"
-date: 2022-07-11
+date: 2023-03-01
 location: "Vitória da Conquista-Ba, Brasil"
 ---
 
@@ -12,7 +12,7 @@ Semestre 2022.2
 
 Ementa
 ======
-Noções básicas sobre erros. Resolução de sistemas lineares. Zeros de funções. Interpolação. Integração numérica. Métodos numéricos para resolução de equações diferenciais. 
+Influência dos erros no cálculo aproximado. Aproximação de funções. Resolução numérica de equações e de sistemas de equações lineares. Integração Numérica. Diferenciação Numérica. 
 
 Avaliação
 ======
@@ -32,54 +32,14 @@ Disponível no sistema SAGRES.
 
 Provas
 =======
-* Primeira Prova: 29/08/2022
-* Segunda Prova: 29/09/2022
-* Terceira Prova: 24/11/2022 [Sobre a III Prova](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/sobre_a_P3.md)
-* Prova Final: 28/11/2022
+* Primeira Prova: 
+* Segunda Prova: 
+* Terceira Prova: 
+* Prova Final: 
 
 Listas de Exercícios
 ========
-* [Lista Julia](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_listaJulia.pdf)
-
-Aulas
-======
-* [Aritmética de Ponto Flutuante](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_aula01.pdf)
-
-* [Aritmética de Ponto Flutuante](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_aula02.pdf)
-
-* [Ordem de Convergência](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/ordem_convergencia.pdf)
-
-* [Interpolação - Introdução](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/interpolacao_intro.pdf)
-
-* [Método dos Mínimos Quadrados](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/mmq.pdf)
-
-* [Integração - Regra do Trapézio](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/trapezio.pdf)
-
-* [Integração - Regra de Simpson](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/simpson.pdf)
-
-* [Integração - Quadratura Gaussiana](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/qgauss.pdf)
-
-* [Eliminação de Gauss I](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/aula14.pdf)
-
-* [Eliminação de Gauss II](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/aula15.pdf)
-
-* [Condicionamento de um Sistema](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/aula16.pdf)
-
-* [Método de Taylor de Ordem q](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/aula21.pdf)
-
-* [Método de Runge-Kutta de segunda ordem](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/aula24.pdf)
-
-Trabalhos
-=======
-* [Trabalho 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_trabalho_01.md)
-
-* [Trabalho 02](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_trabalho_02.md)
-
-* [Trabalho 03](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_trabalho_03.md)
-
-* [Trabalho 04](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_trabalho_04.md)
-
-* [Trabalho 05](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_trabalho_05.md)
+* [Lista 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_listaJulia.pdf)
 
 
 Softwares para Download
@@ -92,18 +52,3 @@ Video aulas sobre o Julia
 ======
 [Tutorial básico](https://youtu.be/Gmm5voUQaHw)
 
-Notebooks
-======
-* [Interpolação Polinomial](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/interpolacaoPoly.ipynb)
-
-* [Integração: Regra do Trapézio e Regra de Simpson](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/integracao.ipynb)
-
-* [Integração: Quadratura Gaussiana](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/integracao_gaussiana.ipynb)
-
-* [Eliminação de Gauss](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/eliminacao.ipynb)
-
-* [Mal-condicionamento de uma Matriz](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/eliminacao-mal-condicionamento.ipynb)
-
-* [Método de Jacobi](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/gauss_jacobi2.ipynb)
-
-* [Método de Taylor de ordem q](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/taylor_q.ipynb)
