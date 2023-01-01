@@ -11,42 +11,46 @@ author_profile: true
 
 {% include base_path %}
 
-<h1>International Journals   &darr;</h1>
+<h1><span style="background-color:#E8E8E8;">International Journals              </span></h1>
+------
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'international_journal' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+------
 
 <br>
-------------------
 <br>
-<h1>Domestic Journals   &darr;</h1>
+<h1><span style="background-color:#E8E8E8;">Domestic Journals                   </span></h1>
+------
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'domestic_journal' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+------
 
 <br>
-------------------
 <br>
-<h1>International Conferences   &darr;</h1>
+<h1><span style="background-color:#E8E8E8;">International Conferences           </span></h1>
+------
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'international_conference' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+------
 
 <br>
-------------------
 <br>
-<h1>Domestic Conferences   &darr;</h1>
+<h1><span style="background-color:#E8E8E8;">Domestic Conferences                </span></h1>
+------
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'domestic_conference' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
-
+------
 <br>
 <sup>*</sup> Equal authorship
