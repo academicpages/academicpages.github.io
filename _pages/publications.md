@@ -13,7 +13,7 @@ author_profile: true
 
 <h2>International Journals</h2>
 {% for post in site.publications reversed %}
-  {% if post.pubtype == 'internation_journal' %}
+  {% if post.pubtype == 'international_journal' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
