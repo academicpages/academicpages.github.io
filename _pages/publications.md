@@ -1,7 +1,23 @@
 ---
+# layout: archive
+# title: "Publications"
+# permalink: /publications/
+
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "International Journal"
+permalink: /publications/internation_journal/
+
+title: "Domestic Journal"
+permalink: /publications/domestic_journal/
+
+title: "International Conference"
+permalink: /publications/international_conference/
+
+title: "Domestic Conference"
+permalink: /publications/domestic_conference/
+
+title: "Workshop"
+permalink: /publications/workshop/
 author_profile: true
 ---
 
