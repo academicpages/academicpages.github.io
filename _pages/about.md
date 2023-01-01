@@ -61,13 +61,19 @@ Yongjun Zhang. 2021. "[Corporate Responses to COVID19: A Non-Market Strategy App
 Charles Seguin, Chris Julien, and Yongjun Zhang. 2021. "[The stability of androgynous names: Dynamics of gendered naming practices in the United States 1880–2016.](http://www.charlieseguin.com/uploads/4/1/2/7/41271621/seguin_poetics_names_10-2020.pdf)" Poetics
 
 ## Working Paper
+Yongjun Zhang and Siwei Cheng. 2023. "Multiplex Spatial Segregation of Asian American Voters in New York City."
+
+Yongjun Zhang, Siwei Cheng, Zhi Li, and Wenhao Jiang. 2023. "Estimating experienced partisan segregation in urban activity space using large-scale GPS data." 
+
+Yongjun Zhang and Siwei Cheng. 2023. "[Mobility-based Segregation in U.S. Metropolitan Areas](https://yongjunzhang.com/files/nb_seg.pdf)."
+
+Yongjun Zhang and Jennifer Heerwig. 2023. "Gender, Race, and Intersectionality in the Political Donations of America's Corporate Elite".
+
 Yongjun Zhang, Sijia Liu, Yi Wang, and Xinguang Fan. 2022. ''[Detecting Fake News on Twitter in the Chinese Language Community](https://yongjunzhang.com/files/Fake_News.pdf)."
 
 Yongjun Zhang, Hao Lin, Yi Wang, and Xinguang Fan. 2022. ''[Friends and foes: Sinophobia was viral on Twitter during the early COVID-19 pandemic](https://yongjunzhang.com/files/Sinophobia_in_COVID19.pdf)."
 
 Yongjun Zhang. 2021. "[Using Population Mobility to Measure Racial Residential Segregation in the U.S. Metro Areas](https://osf.io/pvbxw/)." 
-
-Yongjun Zhang and Jennifer Heerwig. 2022. "Gender, Race, and Intersectionality in the Political Donations of America's Corporate Elite".
 
 ## Talks
 Yongjun Zhang. March 2022. "Gender, Race, and Intersectionality in the Political Donations of America's Corporate Elite". European University Institute. with Dr. Jennifer Heerwig.
