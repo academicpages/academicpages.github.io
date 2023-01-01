@@ -39,11 +39,4 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<span style = "color: #0084DB">Workshop Presentations</span></h1>
-{% for post in site.publications reversed %}
-  {% if post.pubtype == 'workshop' %}
-      {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
 <sup>*</sup> Equal authorship
