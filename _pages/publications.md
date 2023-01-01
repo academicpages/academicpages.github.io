@@ -1,10 +1,10 @@
 ---
 # layout: archive
-# title: "Publications"
+title: "Publications"
 # permalink: /publications/
 
 layout: archive
-title: "International Journal"
+# title: "International Journal"
 permalink: /publications/internation_journal/
 
 title: "Domestic Journal"
