@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h1><span style = "color: #52ABC8">*International Journals</span></h1>
+<h1>__International Journals__ &darr;</h1>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'international_journal' %}
       {% include archive-single.html %}
@@ -19,7 +19,9 @@ author_profile: true
 {% endfor %}
 
 <br>
-<h1><span style = "color: #52ABC8">*Domestic Journals</span></h1>
+---
+<br>
+<h1>__Domestic Journals__ &darr;</h1>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'domestic_journal' %}
       {% include archive-single.html %}
@@ -27,7 +29,9 @@ author_profile: true
 {% endfor %}
 
 <br>
-<h1><span style = "color: #52ABC8">*International Conference Papers</span></h1>
+---
+<br>
+<h1>__International Conferences__ &darr;</h1>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'international_conference' %}
       {% include archive-single.html %}
@@ -35,7 +39,9 @@ author_profile: true
 {% endfor %}
 
 <br>
-<h1><span style = "color: #52ABC8">*Domestic Conference Papers</span></h1>
+---
+<br>
+<h1>__Domestic Conferences__ &darr;</h1>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'domestic_conference' %}
       {% include archive-single.html %}
