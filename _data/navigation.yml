@@ -3,8 +3,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "CTFs"
-    url: /ctf/    
+  - title: "About Me"
+    url: /aboutme/    
 
 #   - title: "Teaching"
 #     url: /teaching/    
