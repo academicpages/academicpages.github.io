@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CTF Record"
-permalink: /ctf/
+title: "About Me"
+permalink: /aboutme/
 ---
 
 Under active development!
