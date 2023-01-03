@@ -1,5 +1,5 @@
 ---
-title: "Molecular-orbital-based Machine Learning for Open-shell and Multi-reference Systems with Kernel Addition Gaussian Process Regression"
+title: "Molecular-orbital-based machine learning for open-shell and multi-reference systems with kernel addition Gaussian process regression."
 collection: publications
 #permalink: /publication/husch2021improved
 link: 'https://aip.scitation.org/doi/full/10.1063/5.0110886'

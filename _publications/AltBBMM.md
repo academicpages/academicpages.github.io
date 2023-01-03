@@ -1,5 +1,5 @@
 ---
-title: "Molecular Energy Learning Using Alternative Blackbox Matrix-Matrix Multiplication Algorithm for Exact Gaussian Process"
+title: "Molecular energy learning using alternative blackbox matrix-matrix multiplication algorithm for exact Gaussian process"
 collection: publications
 #permalink: /publication/husch2021improved
 link: 'https://arxiv.org/pdf/2109.09817.pdf'

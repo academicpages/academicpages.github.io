@@ -1,5 +1,5 @@
 ---
-title: "Fast Near Ab Initio Potential Energy Surfaces Using Machine Learning"
+title: "Fast near ab initio potential energy surfaces using machine learning"
 collection: publications
 #permalink: /publication/husch2021improved
 link: 'https://pubs.acs.org/doi/full/10.1021/acs.jpca.2c02243'

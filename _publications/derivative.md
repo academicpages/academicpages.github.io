@@ -1,5 +1,5 @@
 ---
-title: "Molecular Dipole Moment Learning via Rotationally Equivariant Gaussian Process Regression with Derivatives in Molecular-orbital-based Machine Learning"
+title: "Molecular dipole moment learning via rotationally equivariant Gaussian process regression with derivatives in molecular-orbital-based machine learning"
 collection: publications
 #permalink: /publication/husch2021improved
 link: 'https://aip.scitation.org/doi/10.1063/5.0101280'

@@ -1,5 +1,5 @@
 ---
-title: "New Stable and Fast Ring-Polymer Molecular Dynamics for Calculating Bimolecular Rate Coefficients with Example of OH+CH<sub>4</sub>"
+title: "New stable and fast ring-polymer molecular dynamics for calculating bimolecular rate coefficients with example of OH+CH<sub>4</sub>"
 collection: publications
 #permalink: /publication/husch2021improved
 link: 'https://pubs.acs.org/doi/10.1021/acs.jctc.2c00522'

@@ -1,5 +1,5 @@
 ---
-title: "Accurate Molecular-Orbital-Based Machine Learning Energies via Unsupervised Clustering of Chemical Space"
+title: "Accurate molecular-orbital-based machine learning energies via unsupervised clustering of chemical space"
 collection: publications
 #permalink: /publication/husch2021improved
 link: 'https://pubs.acs.org/doi/10.1021/acs.jctc.2c00396'

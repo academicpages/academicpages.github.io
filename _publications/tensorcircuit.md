@@ -1,5 +1,5 @@
 ---
-title: "TensorCircuit: a Quantum Software Framework for the NISQ Era"
+title: "TensorCircuit: a quantum software framework for the NISQ era"
 collection: publications
 #permalink: /publication/husch2021improved
 link: 'https://arxiv.org/abs/2205.10091'

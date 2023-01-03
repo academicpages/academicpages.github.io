@@ -1,5 +1,5 @@
 ---
-title: "Regulation of Electronic Structure of Graphene Nanoribbon by Tuning Long-Range Dopant--Dopant Coupling at Distance of Tens of Nanometers"
+title: "Regulation of electronic structure of graphene nanoribbon by tuning long-range dopant–dopant coupling at distance of tens of nanometers"
 collection: publications
 #permalink: /publication/sun2020regulation
 link: 'https://doi.org/10.1021/acs.jpclett.0c01839'
