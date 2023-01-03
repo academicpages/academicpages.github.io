@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am now a PM managing AI/ML projects at Wistron. I received MBA and Master's in Information Systems dual degrees from University of Maryland, College Park and Bachelor's degree at National Tsing Hua University. I am interested in data science, manufacturing, baseball analytics, and synthetic biology. I am also a photographer who loves to record beauty of daily life.
+I am now a PM managing AI/ML projects at Wistron. I received MBA and Master's in Information Systems dual degrees from University of Maryland, College Park and Bachelor's degree at National Tsing Hua University. I am interested in data science, manufacturing, baseball analytics, history, geopolitics and synthetic biology. I am also a photographer who loves to record beauty of daily life.
 
 Achievements
 ======
-University of Maryland:
+University of Maryland, College Park:
 * Smith Fellow scholarship, Recipient
 * **UMD Outstanding Graduate Student Award, 2022, Nomination**
 * Impact Consulting Fellowship, Summer 2021, **1st Place**
@@ -25,10 +25,13 @@ University of Maryland:
 * Selected as VP for Smith Masters Supply Chain Management Association & APICS Management
 
 Substitute Millatary Service:
-* Honorably discharged, summa cum laude and received a certificate of merit from the Ministry of the Interior (Taiwan).
+* Honorably discharged, **summa cum laude**
+* Received a certificate of merit from the Ministry of the Interior (Taiwan).
 
 National Tsing Hua University:
-* Dean's list, Recipient
+* Dean's list, 2012 Spring, Recipient
+* Dean's list, 2011 Fall, Recipient
+* Dean's list, 2011 Spring, Recipient
 
 For more info
 ------
