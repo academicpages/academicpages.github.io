@@ -16,10 +16,12 @@ I am generally interested in **designing efficient, generalizable, and explainab
 
 Recent News
 ======
-1. Coming soon
+Coming soon
 
-Awards
+Services and Awards
 ======
+* PC member for AISTATS 2023, NeurIPS 2022
+* Reviewer for KDD 2022, ICML 2022, ICLR 2022, ICDM 2022, AAAI 2021
 * 2022 CIKM student travel award
 * 2022 KDD student travel award
 
