@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a PM managing AI/ML projects at Wistron. I received MBA and Master's in Information Systems dual degrees from University of Maryland, College Park and Bachelor's degree at National Tsing Hua University. I am interested in data science, manufacturing, baseball analytics, history, geopolitics and synthetic biology. I am also a photographer who loves to record beauty of daily life.
+I am now a PM managing AI/ML projects at Wistron. I received MBA and Master's in Information Systems dual degrees from University of Maryland, College Park and Bachelor's degree at National Tsing Hua University. I am interested in areas such as data science, manufacturing, baseball analytics, history, geopolitics and synthetic biology. I am also a photographer who loves to record beauty of daily life.
 
 Achievements
 ======
