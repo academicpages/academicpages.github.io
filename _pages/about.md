@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "LCH - About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 I am now a PM managing AI/ML projects at Wistron. I received MBA and Master's in Information Systems dual degrees from University of Maryland, College Park and Bachelor's degree at National Tsing Hua University. Prior to University of Maryland, I was a Factory Project Manager at Pegatron, the largest OEM / ODM in Asia. 
 
-I am interested in areas such as data science, manufacturing, baseball analytics, history, geopolitics and synthetic biology. I am also a photographer who loves to record beauty of daily life.
+I am interested in areas such as Machine Learning, Data Science, Manufacturing, Supply Chain Management, Baseball Analytics, History, Geopolitics and Synthetic Biology. I am also a photographer who loves to record beauty of daily life.
 
 Achievements
 ======
