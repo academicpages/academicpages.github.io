@@ -105,7 +105,8 @@
         <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
       {% endif %}
       {% if post.paperurl %}       
-        <a rel="canonical" href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+        <!-- <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a> -->
+        <a rel="canonical" href="{{ base_path }}{{ post.paperurl | replace:'index.html','' }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
         <!-- <a rel="canonical" href="http://yourdomain.com{{ page.url | replace:'index.html','' }}" /> -->
       {% endif %}
       {% if post.code %}
