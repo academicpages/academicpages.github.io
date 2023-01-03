@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rachael Phillips - Data Expert"
+title                    : "Rachael Phillips"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rachael Phillips"
   avatar           : "Snapchat-541433501.jpg"
-  bio              : "Data - It's What I Do!"
+  bio              : "Everywhere, I haven't been there yet, but it's on my LIST!"
   location         : "Northern CA"
   employer         : "Microsoft"
   pubmed           : 
