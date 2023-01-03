@@ -1,19 +1,19 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant Geneva"
 collection: teaching
-type: "Workshop"
+type: "teaching"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Geneva, Department of Theoretical Physics"
+date: 2017-01-01
+location: "Geneva, Switzerland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Methodes Mathematiques pour Physiciens (TD), Methodes Mathematiques de la mecanique classique (TD), Universite de Geneve 2015-2016-2017.
 
 Heading 1
 ======
 
-Heading 2
+Algo 2
 ======
 
 Heading 3
