@@ -1,6 +1,6 @@
 {% include base_path %}
 
-<div class="page__footer-follow">
+<!--<li><div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
@@ -16,9 +16,9 @@
     {% endif %}
     {% if site.author.bitbucket %}
       <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-    {% endif %}
+    {% endif %}-->
     <!--<li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>-->
-  </ul>
-</div>
+<!--  </ul> -->
+<!-- </div> -->
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. </div>
