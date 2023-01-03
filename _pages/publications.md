@@ -52,5 +52,16 @@ author_profile: true
   {% endif %}
 {% endfor %}
 ------
+
+<br>
+<br>
+<h1>Workshops & Academics</h1>
+------
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'workshop_academic' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+------
 <br>
 <sup>*</sup> Equal authorship
