@@ -30,7 +30,7 @@ Zishan Gu, Ke Zhang, <b>Guangji Bai</b>, Liang Chen, Liang Zhao, Carl Yang.<br>
 ## 2022
 * <b>Deep Spatial Domain Generalization</b>.<br>
 Dazhou Yu, <b>Guangji Bai*</b>, Yun Li, Liang Zhao.<br>
-<i>The 22nd IEEE International Conference on Data Mining (Short, ICDM 2022)</i>.<br>
+<i>The 22nd IEEE International Conference on Data Mining (ICDM 2022)</i>.<br>
 
 * <b>RES: A Robust Framework for Guiding Visual Explanation</b>.<br>
 Yuyang Gao, Tong Steven Sun, <b>Guangji Bai</b>, Siyi Gu, Sungsoo Ray Hong, Liang Zhao.<br>
