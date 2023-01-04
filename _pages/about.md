@@ -14,6 +14,9 @@ I am interested in areas such as Machine Learning, Data Science, Manufacturing, 
 
 Achievements
 ======
+Wistron Corporation:
+* Scrum Master Certification, 2023
+
 University of Maryland, College Park:
 * Smith Fellow scholarship, Recipient
 * **UMD Outstanding Graduate Student Award, 2022, Nomination**
