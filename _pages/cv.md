@@ -11,10 +11,15 @@ redirect_from:
 
 # ACADEMIC POSITIONS
 ===========
-### Assistant Professor 2022-
+### Research Fellow 2023-
+Ramon y Cajal Research Fellowship
+Department of Sociology and Communication
+University of Salamanca, Spain
+### Assistant Professor 2022-2022
 Department of Sociology and Communication
 University of Salamanca, Spain
 ### Postdoctoral Researcher 2020-2022
+Juan de la Cierva - Formación Fellowship
 Department of Communication
 Pompeu Fabra University, Spain
 ### Lecturer 2019-2020
@@ -46,6 +51,9 @@ University of Valladolid, Spain
 
 # RESEARCH grants and FELLOWSHIPS
 ===========
+### Research Fellow: Ramon y Cajal
+Research grant from the Spanish State Research Agency
+01/01/2023 – 
 ### Research grant &quot;la Caixa&quot; Foundation 2022
 Flash Call in Social Sciences 2021 – Technology and society
 Project &quot;Does social media use impact adolescents&#39; well-being state or the opposite? A longitudinal study on social media, loneliness, and personality traits
