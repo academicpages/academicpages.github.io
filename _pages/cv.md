@@ -27,8 +27,8 @@ Work experience
 * **American International Group:** 
 * April 2021 - August 2022: Senior Associate I, Data Science
   * Responsible for:
-    1. Work in the data engineering team to setup and develop data driven pipelines (ML and general)
-    2. Developing and owning the ML+Ops library for Commercial Real Estate models
+    1. Work in the data engineering team to develop data driven pipelines (ML and general)
+    2. Working towards developing ML+Ops library for Commercial Real Estate models
     3. Working with ML scientists to put developed models in production
 * June 2019 - April 2021: Machine Learning Engineer
   * Responsible for:
