@@ -14,7 +14,7 @@ I am interested in areas such as Machine Learning, Data Science, Manufacturing, 
 
 Achievements
 ======
-Wistron Corporation:
+Wistron:
 * Scrum Master Certification, 2023
 
 University of Maryland, College Park:
