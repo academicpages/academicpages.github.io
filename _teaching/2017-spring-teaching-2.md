@@ -1,5 +1,5 @@
 ---
-title: "Teaching assistant "
+title: "Teaching assistant Geneva "
 collection: teaching
 type: "Graduate Courses"
 permalink: /teaching/2017-spring-teaching-1

@@ -1,8 +1,8 @@
 ---
-title: "Teaching assistant"
+title: "Teaching assistant Chili"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2004-spring-teaching-1
 venue: "PUC Chile, Mathematics"
 date: 2004-01-01
 location: "Santiago, Chili"
