@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * May - Aug 2022: Machine Learning Engineering Intern
-  * Moveworks, Inc.
+  * [Moveworks, Inc](https://www.moveworks.com/).
   * Mountain view, CA
   * Conversational AI team
 
@@ -33,7 +33,7 @@ Skills
   * Languages: Python, Java, MATLAB, SQL, HTML, CSS, JavaScript
   * Frameworks and libraries: Git, PyTorch, OpenCV, Scikit-learn, PySpark, Databricks, AWS, MySQL, React, Django, Dash, LaTex, VSCode
 * Materials Characterization
-  * OM, SEM, EBSD, XRD
+  * OM, SEM, EBSD, XRD, CT
   * Synchrotron x-ray imaging and diffraction
 * Mechanical Testing:
   * Vickers hrdness, nanoindentation
@@ -48,12 +48,12 @@ Skills
   {% endfor %}</ul>
    -->
    
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+   -->
 <!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
