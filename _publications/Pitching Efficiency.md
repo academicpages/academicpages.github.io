@@ -1,5 +1,5 @@
 ---
-title: "Introducing Pitching Efficiency, a new metric to evaluate pitchers' performance in baseball"
+title: 'Introducing Pitching Efficiency, a new metric to evaluate pitchers' performance in baseball'
 collection: publications
 permalink: /publication/Introducing Pitching Efficiency, a new metric to evaluate pitchers' performance in baseball
 excerpt: ''
