@@ -12,7 +12,7 @@ Upcoming events
 
 | Date | Title | Speaker | Zoom | Add to Google Calendar | RSVP | Content |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| t.b.a. |
+| Jan 17, 2023<br>Tuesday, 3:00 PM (UK) | **Thinking Like a Developer? Comparing the Attention of Humans with Neural Models of Code** | [Michael Pradel](https://software-lab.org/people/Michael_Pradel.html) | [Zoom](https://us06web.zoom.us/j/89367613528?pwd=NDJHQWFQcURWNmJwOUQveTJiTUtuUT09) | [Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MWk5bGJmNmRjMWs3cTRibzhldHNsZ2tnaHIga29uc3RhbnRpbmFAYmxvb3AuYWk&tmsrc=konstantina%40bloop.ai) | [lu.ma](https://lu.ma/vi5w46ng) | t.b.a. |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 <br>
