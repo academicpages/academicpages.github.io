@@ -8,35 +8,37 @@ permalink: /collaborators/
 
 -[Bruno Cessac](https://team.inria.fr/biovision/bruno-cessac/)
 
--Cesar Maldonado
+-[Fernando Rosas](https://www.researchgate.net/profile/Fernando-Rosas-3)
 
--Fernando Rosas
+-[Pedro Mediano](https://pmediano.gitlab.io/)
 
--Pedro Mediano
+-[Andrea Luppi](https://scholar.google.com/citations?user=oHHFZY4AAAAJ&hl=en)
 
--Andrea Luppi
+-[Cesar Maldonado](https://sites.google.com/view/cesarmaldonado/home)
 
--Joana Cabral
+-[Joana Cabral](https://sites.google.com/site/cvjoanacabral/)
 
--Gustavo Deco
+-[Gustavo Deco](https://www.upf.edu/web/cns/gustavo)
 
--Alain Destexhe
+-[Alain Destexhe](https://neuropsi.cnrs.fr/annuaire/alain-destexhe/)
 
--Yonatan Perl-Sanz
+-[Yonatan Perl-Sanz](https://scholar.google.com/citations?user=pIveN8AAAAAJ&hl=es)
 
--Enzo Tagliazzuchi
+-[Enzo Tagliazzuchi](https://www.cocucolab.org/)
 
--Ruben Herzog
+-[Ruben Herzog](https://scholar.google.com/citations?user=GDW5LSsAAAAJ&hl=es)
 
--Marilyn Gatica
+-[Marilyn Gatica](https://www.researchgate.net/profile/Marilyn-Gatica-2)
 
--Carlos Coronel
+-[Jesus Cortes](https://jesuscortes.info/)
 
--Patricio Orio
+-[Carlos Coronel](https://www.researchgate.net/profile/Carlos-Coronel-Oliveros-2)
 
--Maria Jose Escobar
+-[Patricio Orio](https://www.researchgate.net/profile/Patricio-Orio)
 
--Adrian Palacios
+-[Maria Jose Escobar](http://www.profesores.elo.utfsm.cl/~mjescobar/)
+
+-[Adrian Palacios](https://cinv.uv.cl/en/members/apalacios/)
 
 
 
