@@ -14,10 +14,6 @@ Research
 ======
 I am generally interested in **designing efficient, generalizable, and explainable learning algorithms with theoretical guarantee**. Specifically, my current research topics include but not limited to 1. Designing various learning strategies for more advanced and human-like AI, such as multi-task learning (MTL), continual learning, and domain generalization (DG). 2. Developing large-scale optimization algorithms with better scalability and performance, such as distributed parallel training for Graph Neural Networks (GNNs) and gradient free optimization via e.g., alternating direction method of multipliers (ADMM), etc.
 
-Recent News
-======
-Coming soon
-
 Services and Awards
 ======
 * PC member for AISTATS 2023, NeurIPS 2022
