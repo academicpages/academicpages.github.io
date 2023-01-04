@@ -86,8 +86,8 @@ analytics:
 author:
   name             : "KMA Solaiman"
   avatar           : "salvi-profile-pic.jpeg" # "profile.png"    # it's image uploaded to /images/
-  bio              : "Computer Scientist"
-  location         :
+  bio              : PhD Candidate in Computer Science at Purdue University #"Computer Scientist"
+  location         : West Lafayette, Indiana
   employer         :
   cv               : "/files/pdf/Solaiman_CV_Spring23.pdf"
   pubmed           :
@@ -207,6 +207,7 @@ defaults:
       comments: true
       share: true
       related: true
+      sitemap: false
   # _pages
   - scope:
       path: ""
@@ -241,6 +242,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
+      sitemap: false
   # _talks
   - scope:
       path: ""
@@ -249,6 +251,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      sitemap: false
 
 # Sass/SCSS
 sass:
