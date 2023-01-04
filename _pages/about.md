@@ -14,5 +14,5 @@ My research focuses on adolescents and social media, narrative persuasion, and m
 
 
 
-<B><FONT COLOR="red">I am on maternity leave since mid January 2023 </B>
+<B style="color:rgb(205, 92, 92)">I am on maternity leave since mid January 2023 </B>
 <br>
