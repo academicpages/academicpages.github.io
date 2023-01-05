@@ -32,6 +32,8 @@ If you are interested in working with me at Stony Brook, feel free to apply for 
 
 I am teaching intro to css for NYU Shanghai. Check here for [the syllabus](https://yongjunzhang.com/files/CSS_Intro_NYU_Shanghai_Syllabus.pdf). 
 
+I am also organizing the 2023 NYU Shanghai site for Summer Institute of Computational Social Science (SICSS).
+
 ## Call for Papers
 
 I am co-editing an anual series on cohabitation and the evolving nature of intimate and family relationships with Dr. Sampson Blair for Contemporary Perspectives in Family Research. The deadline for initial submissions is September 30, 2022. [Please click here for more details.](https://yongjunzhang.com/files/CPFR-2022-Cohabitation-Call-for-Papers.pdf)
