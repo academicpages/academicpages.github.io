@@ -207,7 +207,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
   # _vlogs
   - scope:
       path: ""
@@ -216,7 +215,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
   # _presentations
   - scope:
       path: ""
@@ -225,13 +223,12 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
   # _blogposts
   - scope:
       path: ""
-      type: talks
+      type: blogposts
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
   # _youtubevideos
@@ -242,7 +239,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
   # _resume
   - scope:
       path: ""

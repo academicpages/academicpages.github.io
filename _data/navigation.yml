@@ -3,13 +3,13 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Vlog"
-    url: /vlog/    
+  - title: "Video Logs"
+    url: /vlogs/    
 
   - title: "Presentations"
     url: /presentations/    
     
-  - title: "Posts"
+  - title: "Blog Posts"
     url: /blogposts/
         
   - title: "YouTube Videos"
