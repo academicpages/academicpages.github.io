@@ -41,10 +41,9 @@ I'd love to talk about anything! Feel free to suggest a time that works [here](h
 - 💾 people who do proper backups
 - 🪄 the magic when things just work
 - 🪐 intellectualizing at night
-- 📰 current favorite [Wikipedia article](https://en.wikipedia.org/wiki/Offensive_programming)
+- 📰 current favorite [Wikipedia article](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_economics)
 - 🦍 current favorite [game](https://store.steampowered.com/app/1533390/Gorilla_Tag/)
-- 🔥 current favorite [movie](https://en.wikipedia.org/wiki/Heat_(1995_film))
-
+- 🔥 current favorite [movie](https://en.wikipedia.org/wiki/Avatar:_The_Way_of_Water)
 
 ## For more info
 
