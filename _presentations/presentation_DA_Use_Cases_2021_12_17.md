@@ -1,6 +1,6 @@
 ---
 title: "Lambda and Kappa Architectures"
-collection: teaching
+collection: presentations
 type: "Microsoft PowerPoint"
 date: 2021-12-17
 venue: "Data Architecture"

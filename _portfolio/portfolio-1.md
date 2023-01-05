@@ -1,6 +1,6 @@
 ---
 title: "Organizing Images in Windows Using Python"
-collection: portfolio
+collection: blogposts
 date: 2022-01-07
 ---
 

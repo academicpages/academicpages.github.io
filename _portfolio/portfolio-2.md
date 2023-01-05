@@ -1,6 +1,6 @@
 ---
 title: "Fuzzy Matching using the RecordLinkage Module in Python"
-collection: portfolio
+collection: blogposts
 date: 2022-01-15
 ---
 

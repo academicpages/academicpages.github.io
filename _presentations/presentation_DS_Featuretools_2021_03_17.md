@@ -1,6 +1,6 @@
 ---
 title: "Featuretools"
-collection: teaching
+collection: presentations
 type: "Microsoft PowerPoint"
 date: 2021-03-07
 venue: "Data Science"

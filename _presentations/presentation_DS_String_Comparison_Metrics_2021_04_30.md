@@ -1,6 +1,6 @@
 ---
 title: "String Comparison Metrics"
-collection: teaching
+collection: presentations
 type: "Microsoft PowerPoint"
 date: 2021-04-30
 venue: "Data Science"

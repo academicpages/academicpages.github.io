@@ -1,6 +1,6 @@
 ---
 title: "Feature Engineering"
-collection: teaching
+collection: presentations
 type: "Microsoft PowerPoint"
 date: 2021-04-09
 venue: "Data Science"
