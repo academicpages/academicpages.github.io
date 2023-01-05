@@ -229,12 +229,11 @@ defaults:
   # _blogposts
   - scope:
       path: ""
-      type: blogposts
+      type: talks
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
-      comment: true
   # _youtubevideos
   - scope:
       path: ""
