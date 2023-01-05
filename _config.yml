@@ -121,7 +121,10 @@ author:
 include:
   - .htaccess
   - _pages
-  - files
+  - "*.pdf"
+  - "papers/*.pdf"
+  - "portfolio/papers/*.pdf"
+  - "portfolio/*.pdf"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -129,23 +132,22 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
   - Capfile
+  - CHANGELOG
+  - config
   - Gemfile
   - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
   - gulpfile.js
+  - LICENSE
   - log
   - node_modules
   - package.json
+  - Rakefile
+  - README
   - tmp
-  - vendor
 keep_files:
   - .git
   - .svn
@@ -221,8 +223,10 @@ defaults:
       type: presentations
     values:
       layout: single
+      read_time: false
       author_profile: true
       share: true
+      comments: false
   # _blogposts
   - scope:
       path: ""
@@ -259,11 +263,12 @@ permalink: /:categories/:title/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
-plugins:
+gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jemoji
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
@@ -290,6 +295,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+article_archive:
+  type: liquid
+  path: /articles/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
