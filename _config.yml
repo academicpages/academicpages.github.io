@@ -213,9 +213,10 @@ defaults:
       path: ""
       type: vlogs
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comments: true
   # _presentations
   - scope:
       path: ""
@@ -241,6 +242,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      share: true
+      comments: true
   # _resume
   - scope:
       path: ""
