@@ -247,6 +247,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _vlogs
+  - scope:
+      path: ""
+      type: vlogs
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
