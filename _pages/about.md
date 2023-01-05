@@ -1,11 +1,11 @@
 ---
 permalink: /
 title: "About"
-excerpt: "About me"
-author_profile: true
+excerpt: "About Me"
 redirect_from: 
   - /about/
   - /about.html
+author_profile: true
 ---
 
 Hello! I am Rachael Phillips, a Senior Consultant for Microsoft Consulting Services in the Azure Cloud and Artificial Intelligence realm based in Northern California! I am a Data and Analytics Consultant by training with a masters in Mathematics from San Francisco State University. My research, teaching and tutoring experience, and service to my clients are founded off the idea that data is a tool to build up and improve our personal lives, our business lives and everything in between! 
