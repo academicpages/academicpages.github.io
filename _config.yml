@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  presentations:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -190,6 +190,7 @@ collections:
   vlogs:
     output: true
     permalink: /:collection/:path/
+  
 
 
 # Defaults
@@ -212,10 +213,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _presentations
   - scope:
       path: ""
-      type: teaching
+      type: presentations
     values:
       layout: single
       author_profile: true
