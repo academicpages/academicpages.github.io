@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Biochemistry, Claremont McKenna College, 2016
+* Ph.D in Immune Systems Biology, Stanford University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2016 - Jan 2017: Research Assistant
+  * MiRagen Therapeutics
+  * Duties included: 
+    - Screening New Candidate miRNA therapeutics
+    - Developing an cell-culture based immunogenicity assay
+  * Supervisor: Corrie Gallant-Behm and Joseph Piper
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2020 - Present: Research Associate / Consultant
+  * Longitude Capital
+  * Duties included: 
+    - Due diligence on life science tools companies
+    - Distillation broad sectors of science (Genomics, Proteomics, Enzyme Engineering) into clear investment theses
+  * Supervisor: Brian Liu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* High-Throughput Sequencing
+  - Illumina
+  - PacBio
+  - Library design and preparation
+* Single-Cell Genomics
+  * Droplet-Based Single Cell (e.g. 10X Genomics
+  * Smart-Seq2
+  * Computational Pipelines and applications of Machine Learning to these data
+* Human Sample Processing
+  * Isolating single cell suspensions from various organs: Spleen, Vertebral Body, Lymph Node, Blood
+  * Flow Cytometry and Cell Sorting
 
 Publications
 ======
@@ -56,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* FAST (Future Advancers of Science and Technology)
