@@ -10,10 +10,10 @@ main:
     url: /presentations/    
     
   - title: "Posts"
-    url: /portfolio/
+    url: /blogposts/
         
   - title: "YouTube Videos"
-    url: /year-archive/
+    url: /youtubevideos/
     
   - title: "Resume"
-    url: /cv/
+    url: /resume/

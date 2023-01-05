@@ -175,53 +175,30 @@ kramdown:
 
 # Collections
 collections:
-  presentations:
-    output: true
-    permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
   vlogs:
     output: true
     permalink: /:collection/:path/
+  presentations:
+    output: true
+    permalink: /:collection/:path/
+  blogposts:
+    output: true
+    permalink: /:collection/:path/
+  youtubevideos:
+    output: true
+    permalink: /:collection/:path/
+  resume:
+    output: true
+    permalink: /:collection/:path/
+  
   
 
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _presentations
-  - scope:
-      path: ""
-      type: presentations
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -231,23 +208,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
   # _vlogs
   - scope:
       path: ""
@@ -256,19 +216,49 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _presentations
+  - scope:
+      path: ""
+      type: presentations
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _blogposts
+  - scope:
+      path: ""
+      type: blogposts
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _youtubevideos
+  - scope:
+      path: ""
+      type: youtubevideos
+    values:
+      layout: single
+      author_profile: true
+  # _resume
+  - scope:
+      path: ""
+      type: resume
+    values:
+      layout: single
+      author_profile: true
 
 # Sass/SCSS
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 
 # Plugins
 plugins:
