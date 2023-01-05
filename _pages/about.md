@@ -32,7 +32,7 @@ If you are interested in working with me at Stony Brook, feel free to apply for 
 
 I am teaching intro to css for NYU Shanghai. Check here for [the syllabus](https://yongjunzhang.com/files/CSS_Intro_NYU_Shanghai_Syllabus.pdf). 
 
-I am also organizing the 2023 NYU Shanghai site for Summer Institute of Computational Social Science (SICSS).
+I am also organizing the 2023 NYU Shanghai site for Summer Institute of Computational Social Science (SICSS) with Dr. Xiaogang Wu and Dr. Yongren Shi.
 
 ## Call for Papers
 
