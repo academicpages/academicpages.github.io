@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "YouTube Videos"
+permalink: /youtubevideos/
 author_profile: true
 ---
 
