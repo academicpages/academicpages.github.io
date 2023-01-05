@@ -34,7 +34,7 @@ Skills
 * Deep Learning
   * Tensorflow, Keras, OpenCV
 * Graphics
-  * Unity, OpenGL, Blender
+  * Unity, Blender, OpenGL
 
 Publications
 ======
