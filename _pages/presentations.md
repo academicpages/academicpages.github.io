@@ -13,6 +13,3 @@ author_profile: true
 | [Featuretools](#) | 2021-03-07 | This is a presentation that reviews how to use the featuretools module in Python. | [here](https://github.com/rachaelph/rachaelph.github.io/tree/master/files/21-03-07-DS06_Feature_Tools_Rachael.pptx) |
 
 {% include base_path %}
-{% for post in site.pages %}
-{% include archive-single.html %}
-{% endfor %}
