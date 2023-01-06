@@ -5,6 +5,8 @@ permalink: /presentations/
 author_profile: true
 ---
 
+Below is a table of Microsoft PowerPoint Presentations, the date in which I created them, their description and the link to that presentation. 
+
 | Presentation Name            |     Date     |                              Description                                | Link |
 | ---------------------------  | ------------ | ----------------------------------------------------------------------- | ---- |
 | [String Comparison Metrics](#) | 2021-04-30 | This is a presentation that demonstrates multiple string comparison metrics for text comparison methodologies. | [here](https://github.com/rachaelph/rachaelph.github.io/tree/master/files/21-04-30-DS13_String_Comparison_Metrics_Rachael.pptx) |
