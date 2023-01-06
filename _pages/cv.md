@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.A. in Biochemistry, Claremont McKenna College, 2016
-* Ph.D in Immune Systems Biology, Stanford University, 2023 (expected)
+* Ph.D in Chemical and  Systems Biology, Stanford University, 2023 (expected)
 
 Work experience
 ======
@@ -65,3 +65,10 @@ Teaching
 Service and leadership
 ======
 * FAST (Future Advancers of Science and Technology)
+  * Guided 6 students from in extended scientific investigations based on their personal interests.
+  * Focused the broad curiousity about biology from high school students into a tangible, tractable, and scientifc pursuit
+  * Example Project a student Completed: Can the sweetness of a watermelon be predicted by its outward appearance?
+* Stanford Advance Summer Institute
+  * Developed workshops on important aspects of the transition to graduate school from undergraduate
+  * Presented these workshops to incoming graduate students
+  * Worked with invited faculty to ensure guest workshops ran efficiently and smoothly*
