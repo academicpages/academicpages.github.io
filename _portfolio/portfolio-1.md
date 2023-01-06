@@ -1,6 +1,6 @@
 ---
-title: "Tabula Sapiens"
-excerpt: "The Tabula Sapiens consortium generated a multi-organ, single-cell transcriptomic atlas of humans. This atlas will be a reference for researchers attempting to understand the molecular basis of diseases  1<br/><img src='/images/tabula_sapiens_cover.jpg'>"
+title: "Advancing Single Cell Genomics towards Better Molecular Medicine"
+excerpt: "I was a key part of the Tabula Sapiens Consortium. We generated a multi-organ, single-cell transcriptomic atlas of humans. This atlas will be a reference for researchers attempting to understand the molecular basis of diseases \n <br/><img src='/images/reduced_ts_figure.png'>"
 collection: portfolio
 ---
 
