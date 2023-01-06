@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Relating gene expression profiling and copy number changes with different sub-types of breast cancer"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2016-05-05
+venue: 'San Francisco State University Library'
+paperurl: 'http://rachaelph.github.io/images/thesis.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Throughout the lifespan of the human body, trillions of cell divisions occur. Every time a cell divides, a regulatory process can fail causing alterations to the DNA. These alterations can cause diseases that include different types of cancer. Our work focuses on different sub-types of breast cancer such as Luminal A, Luminal B, Basal (Triple Negative), and HER2; molecular classifications that have been found through biological discovery. In our study, we focus on two different data sets: copy number changes and gene expression profiling. This data helps detect important changes in the breast cancer tissue. We apply methods such as persistent homology and correlation to confirm with Chin et al. the regions where copy number aberrations are affecting the expression of certain genes.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](http://rachaelph.github.io/images/thesis.pdf)
