@@ -8,7 +8,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
   {% endif %}
   
-  The list below is compiled from my Google Scholar profile (as of December 23rd, 2022) using [google-scholar-for-github-pages](https://github.com/cmccomb/google-scholar-for-github-pages). Please note that author lists are cut-off after the 10th author due to how Google Scholar exports author lists. Please refer to the Google Scholar links for full citations. If you would like PDFs of any of these papers, please reach out!
+  The list below is compiled from my Google Scholar profile (as of January 6th, 2023) using [google-scholar-for-github-pages](https://github.com/cmccomb/google-scholar-for-github-pages). Please note that author lists are cut-off after the 10th author due to how Google Scholar exports author lists. Please refer to the Google Scholar links for full citations. If you would like PDFs of any of these papers, please reach out!
   
 ### Submitted Preprints
 {% include publications link=true venue_search="rxiv" %}
