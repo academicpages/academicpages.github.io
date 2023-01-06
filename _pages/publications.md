@@ -18,7 +18,7 @@ author_profile: true
 
 
 ## Conference Papers
-<b>[Risk-Aware Reinforcement Learning Based Bid Optimization](??)
+<b>[Adaptive Risk-Aware Bidding with Budget Constraint in Display Advertising](https://arxiv.org/pdf/2212.12533.pdf)
 </b><br><b>Zhimeng Jiang</b>, Kaixiong Zhou, Mi Zhang, Rui Chen, Xia Hu, and Soo-Hyun Choi. <br> 
 AAAI Conference on Artificial Intelligence (AAAI) @ AI for Web Advertising Workshop, 2023.
 
