@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-## This is Michael Swift's Personal Website
+## Currently
 
-I am a PhD Candidate in the Chemical and System Biology Department at Stanford. I am doing my thesis research the laboratory of Stephen Quake.
+I am a PhD Candidate in the Chemical and System Biology Department at Stanford, working on my thesis in the laboratory of Stephen Quake.
+
+I am particularly interested in understanding the dynamics of the immune system and the application of this knowledge towards creating better cell-based therapies.
+
+
+## Previously
+
+I studied Biochemistry at Claremont McKenna College. My first interest in biological research was sparked by Mary Hatcher-Skeers and  Bryan Thines who co-taught an integrated Biology and Chemistry course. I then had the great pleasure of working performing my undergraduate research with Babak Sanii. We worked on understanding the biophysical properties of supported lipid bilayers, with the broad goal of developing bio-compatible sensors and devices. 
