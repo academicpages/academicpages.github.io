@@ -12,16 +12,20 @@
     {% else %}
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
     {% endif %} -->
+
     <model-viewer
     alt="Neil Armstrong's Spacesuit from the Smithsonian Digitization Programs Office and National Air and Space Museum" 
-    src="assets/models/mattia.glb" 
+    src="/assets/models/mattia.glb" 
     ar 
     shadow-intensity="0" 
     disable-pan auto-rotate
     camera-controls
     rotation-per-second = "30deg"
-    exposure="3">
-    </model-viewer>
+    exposure="3"
+    style="width: 200px;"
+    >
+  </model-viewer>
+
   </div>
 
   <div class="author__content">
