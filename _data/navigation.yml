@@ -2,6 +2,7 @@
 main:
   - title: "Publications"
     url: https://scholar.google.com/citations?user=P-7ICrQAAAAJ&hl=en
+    hrefTargetBlank: true
 
   - title: "Talks"
     url: /talks/    
@@ -14,6 +15,7 @@ main:
     
   - title: "CV"
     url: https://kavanase.github.io/files/Sean_Kavanagh_Academic_CV.pdf
+    hrefTargetBlank: true
     
   - title: "Links"
     url: /links/
