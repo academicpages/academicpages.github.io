@@ -15,6 +15,6 @@ I was born in Santiago, Chile. I lived there until 2015, when I started my grad 
 
 I have taught seminars on antitrust and law and economics in Chile and Italy, and Econ 154 (Law and Economics) at the Stanford Department of Economics.
 
-Besides academia, my passions are soccer, hiking, and song-writing.
+Besides academia, my passions are soccer, hiking, music, and songwriting.
 
 Here you will find information about my studies, work experience, publications, and works in progress. Please, don't hesitate to reach out. My contact information is on the left panel.
