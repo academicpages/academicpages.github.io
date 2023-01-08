@@ -4,17 +4,17 @@ permalink: /publications/
 author_profile: true
 ---
 **Tech reports**  
- * <b> Deep learning-based accurate and robust delineation of primary gross tumor volumes of nasopharyngeal carcinoma on heterogeneous magnetic resonance imaging: a large-scale and multi-center study</b> <br> 
- <b>Xiangde Luo</b>, Wenjun Liao, Yuan He, Fan Tang, Mengwan Wu, Yuanyuan Shen, Hui Huang, Tao Song, Kang Li, Shichuan Zhang, Shaoting Zhang, Guotai Wang<br> 
- <i>Submitted to **Radiation and Oncology** (Under Minor Revision), 1057 patients with MRI from 5 hospitals are enrolled in this study.<br>
-  [[paper]()][[code](https://github.com/Luoxd1996/RobustNPC)]
-
  * <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b> <br> 
   Zhongyu Li, Chaoqun Li, <b>Xiangde Luo</b>, Yitian Zhou, Jihua Zhu, Cunbao Xu, Meng Yang, Yenan Wu, Yifeng Chen <br> 
   <i>Submitted to **IEEE Transaction on Medical Imaging** (Under Major Revision, the first three authors contributed equally.) <br>
   [[paper](https://luoxd1996.github.io/)][[code](https://luoxd1996.github.io/)]
     
 **Journals**
+ * <b> Deep learning-based accurate and robust delineation of primary gross tumor volumes of nasopharyngeal carcinoma on heterogeneous magnetic resonance imaging: a large-scale and multi-center study</b> <br> 
+ <b>Xiangde Luo</b>, Wenjun Liao, Yuan He, Fan Tang, Mengwan Wu, Yuanyuan Shen, Hui Huang, Tao Song, Kang Li, Shichuan Zhang, Shaoting Zhang, Guotai Wang<br> 
+ <i>Accepted to **Radiation and Oncology**, 1057 patients with MRI from 5 hospitals are enrolled in this study.<br>
+  [[paper]()][[code](https://github.com/Luoxd1996/RobustNPC)]
+
  * <b>WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jianghong Xiao, Jieneng Chen, Tao Song, Xiaofan Zhang, Kang Li, Dimitris N. Metaxas, Guotai Wang, Shaoting Zhang<br>
   <b>Medical Image Analysis, 82 (2022): 102642. (2022 IF 13.828)</b>.<br>
