@@ -105,6 +105,7 @@ Referee
 * 2021- European Journal of Law and Economics, Springer Science & Business
 * 2020- Journal of Antitrust Enforcement, Oxford University Press
 
+
 Grants
 =====
 * 2023. Stanford Institute for Economic Policy Research (SIEPR), George P. Shultz Dissertation Fellowship ($3,000).
