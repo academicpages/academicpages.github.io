@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Omar Vasquez Duque"
   avatar           : "OVDpict.png"
-  bio              : "Academic Fellow, Stanford Law School.
-  Expert in Antitrust, Business Regulation, and Empirical Legal Studies."
+  bio              : "Academic Fellow, Stanford Law School. Expert in Antitrust, Business Regulation, and Empirical Legal Studies."
   location         : "San Francisco, CA"
   employer         : Stanford University
   pubmed           :
@@ -110,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
