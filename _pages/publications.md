@@ -12,4 +12,14 @@ author_profile: true
 Articles in peer-reviewed journals
 -----
 
-* Aug 2022. Active Choice vs. Inertia? An Exploratory Analysis of the Choice-Screen Applied in the European Antitrust Case. *Journal of Competition Law & Economics*. Available [here](https://academic-oup-com.stanford.idm.oclc.org/jcle/advance-article-abstract/doi/10.1093/joclec/nhac009/6672805?redirectedFrom=fulltext&login=true). 
+* Aug 2022. Active Choice vs. Inertia? An Exploratory Analysis of the Choice-Screen Applied in the European Antitrust Case. *Journal of Competition Law & Economics*. Available [here](https://academic-oup-com.stanford.idm.oclc.org/jcle/advance-article-abstract/doi/10.1093/joclec/nhac009/6672805?redirectedFrom=fulltext&login=true).
+
+* Feb 2021. Omar Vásquez Duque & Jörg Hoffmann. Can Data Exploitation be Properly Addressed by Competition Law? A Note of Caution, February 2021, *Concurrences* N° 1-2021, Art. N° 98791, pp. 75-82. Available [here](https://www.concurrences.com/en/review/issues/no-1-2021/droit-et-economie/98791).
+
+* Dec 2020. No Alarms and Many Surprises: Salience as a Basis for Excessive Pricing Intervention in an Antitrust Context. *Journal of Competition Law & Economics*. Volume 16, Issue 4. Available [here](https://academic-oup-com.stanford.idm.oclc.org/jcle/article-abstract/16/4/552/5862149?redirectedFrom=fulltext).
+
+Articles in law reviews
+-----
+* Spring 2022. High and Dry: A Note on the Enforcement of Prohibition (with Lawrence M. Friedman), *UMKC Law Review*, V. 90.4. Spring Issue. Available [here](https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/umkc90&section=38&casa_token=hg01JrKw2NYAAAAA:I840awWZGihDVLGXe3KZwR02BismeT-EVRo_J859wu31axiUau3RzYI1GU3RT5eqU1TkWwYIUA)
+
+* Summer 2021. Buyer Beware: An Exploratory Assessment of the New Chilean Food Labeling Model. *Hastings International and Comparative Law Review*. V.44, 2. Summer Issue: 144-165. Available [here](https://repository.uchastings.edu/hastings_international_comparative_law_review/vol44/iss2/4/).
