@@ -12,4 +12,4 @@ author_profile: true
 Articles in peer-reviewed journals
 -----
 
-* 2022. Active Choice vs. Inertia? An Exploratory Analysis of the Choice-Screen Applied in the European Antitrust Case. *Journal of Competition Law & Economics*. Available [here](https://academic-oup-com.stanford.idm.oclc.org/jcle/advance-article-abstract/doi/10.1093/joclec/nhac009/6672805?redirectedFrom=fulltext&login=true). 
+* Aug 2022. Active Choice vs. Inertia? An Exploratory Analysis of the Choice-Screen Applied in the European Antitrust Case. *Journal of Competition Law & Economics*. Available [here](https://academic-oup-com.stanford.idm.oclc.org/jcle/advance-article-abstract/doi/10.1093/joclec/nhac009/6672805?redirectedFrom=fulltext&login=true). 
