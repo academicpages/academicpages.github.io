@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Education
-======
+-----
 * J.S.D. Stanford Law School, 2023
 * M.A. Economics. Stanford University, 2022 (GPA: 3.86)
 * J.S.M. Stanford Law School, 2018 (*full honors*)
@@ -16,7 +16,7 @@ Education
 * LL.B. University of Chile, 2013 (*summa cum laude*)
 
 Work experience
-======
+-----
 
 * 2020 -. Instructor and teaching assistant
   * Stanford university
@@ -39,7 +39,7 @@ Work experience
 
 
 Skills
-======
+-----
 * Data analysis
   * R Studio
   * Stata
@@ -51,7 +51,7 @@ Skills
 
 
 Publications
-======
+-----
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -59,7 +59,7 @@ Publications
 
 
 Talks
-======
+-----
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
@@ -67,19 +67,19 @@ Talks
 
 
 Teaching
-======
+-----
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Editor
-=====
+-----
 * 2018-2021. Stanford Journal of Law, Business & Finance (SJLBF). Executive submissions editor
 * 2015-2016. Harvard Law and Policy Review and Harvard Business Law Review. Junior editor
 * 2012-2015. Revista de Derecho Económico. Editor
 
 Referee
-=====
+-----
 * 2022- Journal of Competition Law and Economics, Oxford University Press
 * 2021- European Journal of Law and Economics, Springer Science & Business
 * 2020- Journal of Antitrust Enforcement, Oxford University Press
