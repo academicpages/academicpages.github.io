@@ -20,6 +20,10 @@ Education
 Work experience
 ======
 
+* 2020 -. Instructor and teaching assistant
+  * Stanford university
+  * Law and Economics, Law and Psychology (details in teaching section)
+
 * July 2016 – Aug. 2017: Competition expert
   * Organization for Economic Cooperation and Development (OECD). DAF Competition Division
   * Competition assessment of the pharmaceutical sector in Mexico. Study on behavioral switching costs in financial markets
