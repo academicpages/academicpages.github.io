@@ -108,7 +108,7 @@ Referee
 
 Grants
 =====
-* 2023. Stanford Institute for Economic Policy Research (SIEPR), George P. Shultz Dissertation Fellowship (\\$3,000)
+
 * 2022. Stanford Law School. Recipient, Fellowship in Law and Economics, John M. Olin Program in Law and Economics (\\$6,500), and Recipient Summer Research Fellowship, John M. Olin Program in Law and Economics (\\$8,000)
 * 2021. Stanford Institute for Economic Policy Research (SIEPR), George P. Shultz Dissertation Fellowship (\\$2,000)
 * 2021-2022. Stanford University. Lieberman Fellowship. Award for students who “have already demonstrated outstanding accomplishments, as well as the potential for leadership roles within the academic community and promising careers in university teaching and research.”
