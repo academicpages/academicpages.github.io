@@ -22,9 +22,9 @@ Articles in peer-reviewed journals
 
 * Oct 2017. The Costs of Loyalty: On Loyalty Rewards and Consumer Welfare. *Economic Analysis of Law Review*, V. 8, 2: 409-445. Available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3058504)
 
-* Sept 2017. ¿Qué tan efectiva y eficiente es la protección de los consumidores? (¿How Effective and Efficient is Consumer Protection?) Revista de Derecho Económico No. 77: 77-86. Available [here](https://revistaderechoeconomico.uchile.cl/index.php/RDE/article/view/47375/49418)
+* Sept 2017. ¿Qué tan efectiva y eficiente es la protección de los consumidores? (¿How Effective and Efficient is Consumer Protection?) *Revista de Derecho Económico* No. 77: 77-86. Available [here](https://revistaderechoeconomico.uchile.cl/index.php/RDE/article/view/47375/49418)
 
-* July 2015. Algunas reflexiones en torno a la indemnización de daños anticompetitivos, sus fines y eficacia anticompetitivos (Reflections on the Aims and Efficacy of Antitrust Torts). Available [here](https://revistas.uchile.cl/index.php/RDH/article/view/48416/51021)
+* July 2015. Algunas reflexiones en torno a la indemnización de daños anticompetitivos, sus fines y eficacia anticompetitivos (Reflections on the Aims and Efficacy of Antitrust Torts). *Derecho y Humanidades* Available [here](https://revistas.uchile.cl/index.php/RDH/article/view/48416/51021)
 
 Articles in law reviews
 -----
@@ -39,4 +39,4 @@ Books
 
 * Summer 2022. Nuevo Régimen de Libre Competencia (New System of Competition Law). Editorial Rubicon. Santiago, Chile. Co-author and co-editor with Professor Domingo Valdés Prieto.
 * Spring 2017. Análisis Económico del Derecho: Una mirada a su desarrollo reciente (Economic Analysis of Law: A Review of Recent Developments). Santiago, Chile. Editorial Rubicon. Foreword by Professor Oren Bar-Gill.
-* Spring 2014. Nuevas Tendencias del Moderno Derecho Económico. (New Tendencies in Modern Economic Law) Co-author and co-editor with Domingo Valdés Prieto. Santiago, Chile. Thomson Reuters. 
+* Spring 2014. Nuevas Tendencias del Moderno Derecho Económico. (New Tendencies in Modern Economic Law) Co-author and co-editor with Domingo Valdés Prieto. Santiago, Chile. Thomson Reuters.
