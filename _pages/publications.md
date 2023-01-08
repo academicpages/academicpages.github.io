@@ -9,8 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+Articles in peer-reviewed journals
+-----
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* 2022. Active Choice vs. Inertia? An Exploratory Analysis of the Choice-Screen Applied in the European Antitrust Case. *Journal of Competition Law & Economics*. Available [here](https://academic-oup-com.stanford.idm.oclc.org/jcle/advance-article-abstract/doi/10.1093/joclec/nhac009/6672805?redirectedFrom=fulltext&login=true). 
