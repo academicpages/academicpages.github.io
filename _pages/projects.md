@@ -13,7 +13,7 @@ redirect_from:
 Computer Vision
 ======
 * [Facial Keypoint Recognition](https://github.com/sunny1401/experiments_cv_nlp/blob/master/src/cv/pytorch/models/use_cases/):
-    Comparison between OpenCV Cascade Classifiers, Vanilla CNN variant, ResNET
+    - Comparison between OpenCV Cascade Classifiers, Vanilla CNN variant, ResNET
     - Git update in progress
 * [Automatic Caption Generation]():
     - Comparision between CNN-encoder-LSTM-decoder, Transformer and CLIP

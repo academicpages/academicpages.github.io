@@ -56,7 +56,7 @@ Certifications
 ======
 * TO DO
 
-[Projects](/portfolio.html)
+[Projects](/projects)
   
 Skills
 ======
