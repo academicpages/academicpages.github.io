@@ -22,8 +22,21 @@ Articles in peer-reviewed journals
 
 * Oct 2017. The Costs of Loyalty: On Loyalty Rewards and Consumer Welfare. *Economic Analysis of Law Review*, V. 8, 2: 409-445. Available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3058504)
 
+* Sept 2017. ¿Qué tan efectiva y eficiente es la protección de los consumidores? (¿How Effective and Efficient is Consumer Protection?) Revista de Derecho Económico No. 77: 77-86. Available [here](https://revistaderechoeconomico.uchile.cl/index.php/RDE/article/view/47375/49418)
+
+* July 2015. Algunas reflexiones en torno a la indemnización de daños anticompetitivos, sus fines y eficacia anticompetitivos (Reflections on the Aims and Efficacy of Antitrust Torts). Available [here](https://revistas.uchile.cl/index.php/RDH/article/view/48416/51021)
+
 Articles in law reviews
 -----
 * Spring 2022. High and Dry: A Note on the Enforcement of Prohibition (with Lawrence M. Friedman), *UMKC Law Review*, V. 90.4. Spring Issue. Available [here](https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/umkc90&section=38&casa_token=hg01JrKw2NYAAAAA:I840awWZGihDVLGXe3KZwR02BismeT-EVRo_J859wu31axiUau3RzYI1GU3RT5eqU1TkWwYIUA)
 
 * Summer 2021. Buyer Beware: An Exploratory Assessment of the New Chilean Food Labeling Model. *Hastings International and Comparative Law Review*. V.44, 2. Summer Issue: 144-165. Available [here](https://repository.uchastings.edu/hastings_international_comparative_law_review/vol44/iss2/4/).
+
+Books
+----
+
+* Spring 2021. Una Introducción al Análisis Económico del Derecho (An Introduction to the Economic Analysis of Law). Valencia, Spain. Tirant lo Blanch. Foreword by Professor A. Mitchell Polinsky. Review by Professor Florencia Marotta-Wurgler. Available [here](https://editorial.tirant.com/cl/ebook/una-introduccion-al-analisis-economico-del-derecho-omar-vasquez-duque-9788413783000)
+
+* Summer 2022. Nuevo Régimen de Libre Competencia (New System of Competition Law). Editorial Rubicon. Santiago, Chile. Co-author and co-editor with Professor Domingo Valdés Prieto.
+* Spring 2017. Análisis Económico del Derecho: Una mirada a su desarrollo reciente (Economic Analysis of Law: A Review of Recent Developments). Santiago, Chile. Editorial Rubicon. Foreword by Professor Oren Bar-Gill.
+* Spring 2014. Nuevas Tendencias del Moderno Derecho Económico. (New Tendencies in Modern Economic Law) Co-author and co-editor with Domingo Valdés Prieto. Santiago, Chile. Thomson Reuters. 

@@ -36,7 +36,11 @@ Work experience
 * Apr. 2010 – Mar. 2011: Research assistant
   * Center for Competition Law and Regulation (RegCom). University of Chile Law School
 
-
+Referee
+-----
+* 2022- Journal of Competition Law and Economics, Oxford University Press
+* 2021- European Journal of Law and Economics, Springer Science & Business
+* 2020- Journal of Antitrust Enforcement, Oxford University Press
 
 Skills
 -----
@@ -77,9 +81,3 @@ Editor
 * 2018-2021. Stanford Journal of Law, Business & Finance (SJLBF). Executive submissions editor
 * 2015-2016. Harvard Law and Policy Review and Harvard Business Law Review. Junior editor
 * 2012-2015. Revista de Derecho Económico. Editor
-
-Referee
------
-* 2022- Journal of Competition Law and Economics, Oxford University Press
-* 2021- European Journal of Law and Economics, Springer Science & Business
-* 2020- Journal of Antitrust Enforcement, Oxford University Press
