@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-# {% include base_path %}
-
 Education
 ======
 * J.S.D. Stanford Law School, 2023
