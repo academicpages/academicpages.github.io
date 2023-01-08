@@ -4,7 +4,7 @@ title: "projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
-  - /portfolio
+  - /portfolio/
   - /portfolio.html
 ---
 
