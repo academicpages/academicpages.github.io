@@ -9,9 +9,6 @@ author_profile: true
 * Winter 2023. Stanford Institute for Economic Policy Research (SIEPR),
 George P. Shultz Dissertation Fellowship ($3,000)
 
-* Spring 2022. Recipient Summer Research Fellowship,
-John M. Olin Program in Law and Economics ($8,000)
-
 * Spring 2022. Stanford Law School. Recipient, Fellowship in Law and Economics,
  John M. Olin Program in Law and Economics ($6,500)
 
