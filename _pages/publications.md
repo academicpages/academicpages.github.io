@@ -18,6 +18,10 @@ Articles in peer-reviewed journals
 
 * Dec 2020. No Alarms and Many Surprises: Salience as a Basis for Excessive Pricing Intervention in an Antitrust Context. *Journal of Competition Law & Economics*. Volume 16, Issue 4. Available [here](https://academic-oup-com.stanford.idm.oclc.org/jcle/article-abstract/16/4/552/5862149?redirectedFrom=fulltext).
 
+* Oct 2018. 2018. Why do Most People Follow the Default Matrimonial Property Regime in Chile? *Economic Analysis of Law Review*, 2018 V. 9, 2: 232-258.  Available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3059056).
+
+* Oct 2017. The Costs of Loyalty: On Loyalty Rewards and Consumer Welfare. *Economic Analysis of Law Review*, V. 8, 2: 409-445. Available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3058504)
+
 Articles in law reviews
 -----
 * Spring 2022. High and Dry: A Note on the Enforcement of Prohibition (with Lawrence M. Friedman), *UMKC Law Review*, V. 90.4. Spring Issue. Available [here](https://heinonline.org/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/umkc90&section=38&casa_token=hg01JrKw2NYAAAAA:I840awWZGihDVLGXe3KZwR02BismeT-EVRo_J859wu31axiUau3RzYI1GU3RT5eqU1TkWwYIUA)
