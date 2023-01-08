@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /portfolio/
   - /portfolio.html
+  - /projects
 ---
 
 {% include base_path %}
