@@ -1,8 +1,8 @@
 ---
 title: "Insurance charge estimation based on regression analysis"
-collection: teaching
+collection: projects
 type: "MA3518 Applied statistics"
-permalink: /teaching/LinearRegression
+permalink: /projects/LinearRegression
 venue: "City University of Hong Kong, Department of Mathematics"
 date: 2022-12-04
 location: "Hong Kong, China"

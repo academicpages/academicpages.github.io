@@ -1,8 +1,8 @@
 ---
 title: "Transfer Strategy Optimization for Premier League Clubs"
-collection: teaching
+collection: projects
 type: "GE2324 Data visualization"
-permalink: /teaching/DataVisualization
+permalink: /projects/DataVisualization
 venue: "City University of Hong Kong, Department of Computer Science"
 date: 2022-4-03
 location: "Hong Kong, China"

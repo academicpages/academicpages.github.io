@@ -7,7 +7,7 @@ main:
     url: /talks/    
 
   - title: "Projects" #TEACHING section is replaced by PROJECTS
-    url: /teaching/    
+    url: /projects/
     
   - title: "Portfolio"
     url: /portfolio/
