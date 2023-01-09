@@ -11,4 +11,6 @@ Nymphaea caerulea is a valuable freshwater aquatic plant, not only because of it
 
 [arXiv link](https://arxiv.org/abs/2203.14201)
 
+[NTHU library link](http://etd.lib.nctu.edu.tw/cgi-bin/gs32/hugsweb.cgi?o=dnthucdr&s=GH02103080521.id)
+
 [Download paper here](https://lch99310.github.io/files/Cryopreservation%20of%20seeds%20of%20blue%20waterlily%20-Nymphaea%20caerulea-%20using%20glutathione%20adding%20plant%20vitrification%20solution%2C%20PVS%2B.pdf)
