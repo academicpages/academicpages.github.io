@@ -37,6 +37,10 @@ Date: 2022-02-06
 
 This medium article explains how I was able to pay off $62,000 dollars in a year and tips I have for others that want to do the same. This article can be found [here] (https://medium.com/@adventure-with-rachael/how-i-paid-off-62k-of-debt-in-a-year-18c47cb9dd4d)
 
+Date: 2022-01-15
+
+This is where you can find a Medium article about how I deleted my only copy of my personal photos from an external hard drive and used Python to reorganize the recovered images. The link for this article can be found [here](https://rachael-phillips-data-expert.medium.com/fuzzy-matching-using-the-recordlinkage-module-in-python-bc14483582a3)
+
 **Organizing Images in Windows Using Python**
 
 Date: 2022-01-07
@@ -44,10 +48,6 @@ Date: 2022-01-07
 This is where you can find a Medium article about how I deleted my only copy of my personal photos from an external hard drive and used Python to reorganize the recovered images. The link for this article can be found [here](https://rachael-phillips-data-expert.medium.com/organizing-images-in-windows-using-python-42c3e8645a2f)
 
 **Fuzzy Matching using the RecordLinkage Module in Python**
-
-Date: 2022-01-15
-
-This is where you can find a Medium article about how I deleted my only copy of my personal photos from an external hard drive and used Python to reorganize the recovered images. The link for this article can be found [here](https://rachael-phillips-data-expert.medium.com/fuzzy-matching-using-the-recordlinkage-module-in-python-bc14483582a3)
 
 ---
 
