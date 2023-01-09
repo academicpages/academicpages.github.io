@@ -68,7 +68,7 @@ Under review, 2022
 Under review, 2022
 
 <b>[DIVISION: Memory Efficient Training via Dual Activation Precision.](??)
-</b><br>Guanchu Wang, Zirui Liu, <b>Zhimeng Jiang</b>, Ninghao Liu, na Zou, Xia Hu <br>
+</b><br>Guanchu Wang, Zirui Liu, <b>Zhimeng Jiang</b>, Ninghao Liu, Na Zou, Xia Hu <br>
 Under review, 2022
 
 <b>[Learning Fair Graph Representations via Automated Data Augmentations.](??)
@@ -87,13 +87,13 @@ Under review, 2022
 </b><br>Han Xu, Menghai Pan, <b>Zhimeng Jiang</b>, Huiyuan Chen, Xiaoting Li, Jiliang Tang, Mahashweta Das, Hao Yang. <br>
 Under review, 2022
 
-<b>[Towards Mitigating Dimensional Collapse of Representations in Collaborative Filtering.](??)
+<!-- <b>[Towards Mitigating Dimensional Collapse of Representations in Collaborative Filtering.](??)
 </b><br>Huiyuan Chen, Mahashweta Das, Vivian Lai, <b>Zhimeng Jiang</b>, Hongye Jin, Xia Hu, Chin-Chia Michael Yeh, Yan Zheng, Hao Yang. <br>
 Under review, 2022
 
 <b>[Probabilistic Masked Attention Networks for Next-item Recommendation.](??)
 </b><br>Huiyuan Chen, Kaixiong Zhou, Xiaoting Li, Menghai Pan, <b>Zhimeng Jiang</b>, Michael Yeh, Yan Zheng, Xia Hu, Hao Yang. <br>
-Under review, 2022
+Under review, 2022 -->
 
 <b>[Fair Contrastive Learning by Clamped Mutual Information Maximization.](??)
 </b><br>Qizhang Feng, <b>Zhimeng Jiang</b>, Na Zou, Xia Hu. <br>
