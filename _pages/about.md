@@ -23,8 +23,8 @@ optimization theory.
 
 Awards
 ======
-2021
-------
+**2021**
+
 -Bronze metal in the 46th ICPC Asia Regional Contest, Jinan site 2021
 
 -Dean's List in 2021/2022 academic year
