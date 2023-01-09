@@ -6,7 +6,7 @@ title: Research
 ### Working Papers
 
 ---
-**[Firms as Tax Collectors](https://pablogarriga.github.io/files/garriga_jmp.pdf)** JMP  
+**[Firms as Tax Collectors](https://pablogarriga.github.io/files/garriga_jmp.pdf)** *Revise & Resubmit at Journal of Public Economics*  
 (with Darío Tortarolo) 
 - Winner of the [2022 ITAX PhD Student Award](https://www.iipf.org/itaxaward.html)
 - Presentations: [2021 NBER Business Taxation in a Federal System](https://www.nber.org/conferences/business-taxation-federal-system-fall-2021), [6th Zurich PF Conference](https://www.econ.uzh.ch/dam/jcr:c4ffd510-e423-45db-bf6f-a0c4a465bf8b/Program%20CED_2021.pdf), [56th AAEP meeting](https://aaep.org.ar/reuniones-anuales-aaep/lvi-reunion-anual-buenos-aires/), [19th Midwest International Economic Development Conference](https://sites.google.com/a/umn.edu/miedc/), [78th IIPF Confernce](https://www.iipf.org/congress2022.htm), NTA 115th Annual Conference
