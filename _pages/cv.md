@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* British Advanced Level, Hangzhou Foreign Languages School, 2019-2022 (4.0 GPA)
+* B.S. in Mathematics and Computer Science, University of California San Diego, 2022-2026(expected) (4.0 GPA)
 
 Work experience
 ======
@@ -48,9 +47,9 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Courses
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.courses %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
