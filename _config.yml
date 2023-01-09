@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "LI Xiaoyang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "LI Xiaoyang"
+description              : &description "Department of Computer Science, City University of Hong Kong"
 url                      : https://AharenDaisuki.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AharenDaisuki/AharenDaisuki.github.io"
