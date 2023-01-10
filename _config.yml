@@ -261,7 +261,7 @@ defaults:
       share: true
       comments: true
 
-    - scope:
+  - scope:
       path: ""
       type: projects
     values:
