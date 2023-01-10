@@ -31,7 +31,7 @@ University of Maryland, College Park:
 
 Substitute Millatary Service:
 * Honorably discharged, **summa cum laude**
-* Received a certificate of merit from the Ministry of the Interior (Taiwan).
+* Received a [certificate of merit from the Ministry of the Interior (Taiwan)](https://github.com/lch99310/lch99310.github.io/blob/gh_pages/_achievements/certificate%20of%20merit%20from%20the%20Ministry%20of%20the%20Interior.pdf).
 
 National Tsing Hua University:
 * Dean's list, 2012 Spring, Recipient
