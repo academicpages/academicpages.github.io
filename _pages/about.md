@@ -16,7 +16,7 @@ redirect_from:
 
 I am Ming Yan, a SE Ph.D. candidate at [College of Intelligence and Computing, Tianjin University](http://cic.tju.edu.cn/english/home.htm), supervised by Prof. [Junjie Chen](https://sites.google.com/site/junjiechen08). I received my master‘s degree in 2021 and bachelor's degree in 2018 both from Tianjin University supervised by Prof. [Zan Wang](https://tjusail.github.io/people/wangzan.html). My research interests lie primarily in **DL system quality assurance** and **software testing**. 
 
-Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/9646531/Ming_s_Resume.pdf).<br>
+Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/10378488/Ming_s_Resume.pdf).<br>
 
 <p class="small" style="font-size:16px">
 <font face="Times New Roman" style="font-style:italic">Email: yanming[at]tju[DOT]edu[DOT]cn</font> <br> <font face="Times New Roman" style="font-style:italic">Address:  Building #55,  College of Intelligence and Computing, Tianjin University Beiyangyuan Campus, No. 135 Yaguan Road, Jinnan District, Tianjin, 300350</font>
@@ -43,8 +43,6 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/96465
  **March 26, 2020**: Our research paper "Practical Accuracy Estimation for Efficient Deep Neural Network Testing" was accepted by TOSEM. 
 
 ## [Publications](#publications)
-
-ICSE '22: Proceedings of the 44th International Conference on Software Engineering
 
 <p class="small" style="font-size:16px"><span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">[ICSE-SEIP'23]</span> <strong>Achieving Last-Mile Functional Coverage in Testing Chip Design Software Implementations.</strong> <span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;"></span><br> <strong>Ming Yan</strong>, Junjie Chen*, Hangyu Mao, Jiajun Jiang, Jianye Hao, Xingjian Li, Zhao Tian, Zhichao Chen, Dong Li, Zhangkong Xian, Yanwei Guo, Wulong Liu, Bin Wang, Yuefeng Sun, Yongshun Cui <br> In: <i>The The 45th International Conference on Software Engineering, SEIP track</i>, May 14-20, 2023, pages to appear, Melbourne Convention and Exhibition Centre, Melbourne, Australia. <br></p>
 
