@@ -1,11 +1,6 @@
 <!-- You must include this JavaScript file -->
 <script src="https://assets.crowd.aws/crowd-html-elements.js"> </script>
-<script>
-function biggger(){
-      $('.img').css("width":"150%");
-      $('.img').css("height":"150%");
-}
-</script>
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 <!-- For the full list of available Crowd HTML Elements and their input/output documentation,
       please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/sms-ui-template-reference.html -->
@@ -44,7 +39,8 @@ p {
 <crowd-form answer-format="flatten-objects">
     <p>
       <strong>Instructions: </strong> <br>
-      Given the description and the set of 10 images below, select the image that is best described by the description.
+      Given the description and the set of 10 images below, select the image that is best described by the description. <br>
+      Click on the images to display them in full size.
     </p>
     </div>
 
@@ -59,19 +55,29 @@ p {
 
     <div class="row">
         <div class="column">
-            <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img0.jpg" style="max-width: 100%; max-height: 250px" onClick="bigger();" />
+            <div class="w3-container">
+                <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img0.jpg" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+            </div>
         </div>
         <div class="column">
-            <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img1.jpg" style="max-width: 100%; max-height: 250px" />
+            <div class="w3-container">
+                <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img1.jpg" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+            </div>
         </div>
         <div class="column">
-            <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img2.jpg" style="max-width: 100%; max-height: 250px" />
+            <div class="w3-container">
+                <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img2.jpg" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+            </div>
         </div>
         <div class="column">
-            <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img3.jpg" style="max-width: 100%; max-height: 250px" />
+            <div class="w3-container">
+                <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img3.jpg" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+            </div>
         </div>
         <div class="column">
-            <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img4.jpg" style="max-width: 100%; max-height: 250px" />
+            <div class="w3-container">
+                <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img4.jpg" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+            </div>
         </div>
     </div>
     
@@ -95,19 +101,29 @@ p {
     <br>
     <div class="row">
         <div class="column">
-            <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img5.jpg" style="max-width: 100%; max-height: 250px" />
+            <div class="w3-container">
+                <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img5.jpg" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+            </div>
         </div>
         <div class="column">
-            <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img6.jpg" style="max-width: 100%; max-height: 250px" />
+            <div class="w3-container">
+                <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img6.jpg" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+            </div>
         </div>
         <div class="column">
-            <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img7.jpg" style="max-width: 100%; max-height: 250px" />
+            <div class="w3-container">
+                <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img7.jpg" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+            </div>
         </div>
         <div class="column">
-            <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img8.jpg" style="max-width: 100%; max-height: 250px" />
+            <div class="w3-container">
+                <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img8.jpg" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+            </div>
         </div>
         <div class="column">
-            <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img9.jpg" style="max-width: 100%; max-height: 250px" />
+            <div class="w3-container">
+                <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img9.jpg" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+            </div>
         </div>
     </div>    
     
@@ -151,3 +167,17 @@ p {
     </select>
   </div>
 </crowd-form>
+
+<div id="modal01" class="w3-modal" onclick="this.style.display='none'">
+  <span class="w3-button w3-hover-red w3-xlarge w3-display-topright">&times;</span>
+  <div class="w3-modal-content w3-animate-zoom">
+    <img id="img01" style="width:100%">
+  </div>
+</div>
+
+<script>
+function onClick(element) {
+  document.getElementById("img01").src = element.src;
+  document.getElementById("modal01").style.display = "block";
+}
+</script>
