@@ -6,8 +6,8 @@ main:
   - title: "Teaching"
     url: /teaching/
         
-  - title: "Talks"
-    url: /talks/       
+  # - title: "Talks"
+  #   url: /talks/       
   # - title: "Portfolio"
   #   url: /portfolio/
         
@@ -20,3 +20,5 @@ main:
   - title: "CV"
     url: /files/HC-CV.pdf
     
+  - title: "News"
+    url: /news/
