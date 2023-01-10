@@ -1,5 +1,11 @@
 <!-- You must include this JavaScript file -->
-<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+<script src="https://assets.crowd.aws/crowd-html-elements.js"> </script>
+<script>
+function biggger(){
+      $('.img').css("width":"150%");
+      $('.img').css("height":"150%");
+}
+</script>
 
 <!-- For the full list of available Crowd HTML Elements and their input/output documentation,
       please refer to https://docs.aws.amazon.com/sagemaker/latest/dg/sms-ui-template-reference.html -->
@@ -13,10 +19,19 @@
 .row {
   display: flex;
   padding: 10px;
+  margin-right: 60px;
+  margin-left: 60px;
 }
 
 .row_no_pad {
   display: flex;
+  margin-right: 60px;
+  margin-left: 60px;
+}
+
+p {
+  margin-right: 60px;
+  margin-left: 60px;
 }
 
 /* Create three equal columns that sits next to each other */
@@ -27,18 +42,15 @@
 
 </style>
 <crowd-form answer-format="flatten-objects">
-    <div class="row">
     <p>
       <strong>Instructions: </strong> <br>
-      Given the description and the set of 10 images below, select the image that is best described by the description.<br>
+      Given the description and the set of 10 images below, select the image that is best described by the description.
     </p>
     </div>
-    
-    <div class="row">
+
     <p><strong>Description: </strong> <br>
-      A person in color writing at a desk with a blue pen.<br>
+      A person in color writing at a desk with a blue pen.
     </p>
-    </div>
     
     <!-- Your image file URLs will be substituted for the "image_url" variable below 
           when you publish a batch with a CSV input file containing multiple image file URLs.
@@ -47,7 +59,7 @@
 
     <div class="row">
         <div class="column">
-            <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img0.jpg" style="max-width: 100%; max-height: 250px" />
+            <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img0.jpg" style="max-width: 100%; max-height: 250px" onClick="bigger();" />
         </div>
         <div class="column">
             <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img1.jpg" style="max-width: 100%; max-height: 250px" />
@@ -80,7 +92,7 @@
             <b><center><big> 5 </big></center></b>
         </div>
     </div>
-    
+    <br>
     <div class="row">
         <div class="column">
             <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img5.jpg" style="max-width: 100%; max-height: 250px" />
