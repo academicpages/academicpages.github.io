@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: jadenvc.github.io/publications/
+    url: publications/
 
   - title: "Projects"
     url: /talks/    
