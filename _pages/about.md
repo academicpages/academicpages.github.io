@@ -24,6 +24,8 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/96465
 
 ## [News](#news) 
 
+ 📢 **Dec 22, 2022**: Our paper "Achieving Last-Mile Functional Coverage in Testing Chip Design Software Implementations" was accepted by ICSE 2023 SEIP track. This work was done during my internship at *Noah's Ark Lab* (Beijing). Thanks for the recognition! 
+
  📢 **July 9, 2022**: Our paper "An Empirical Study on Numerical Bugs in Deep Learning Programs" was accepted by ASE 2022 NIER track. Congratulations to Gan!
  
  📢 **June 18, 2021**: Our TOSEM paper "Practical Accuracy Estimation for Efficient Deep Neural Network Testing" was accepted as a Journal-First paper for presentation at FSE 2021. Thanks for the recognition! 
@@ -41,6 +43,10 @@ Find my CV [here](https://github.com/yanming-cn/yanming-cn.github.io/files/96465
  **March 26, 2020**: Our research paper "Practical Accuracy Estimation for Efficient Deep Neural Network Testing" was accepted by TOSEM. 
 
 ## [Publications](#publications)
+
+ICSE '22: Proceedings of the 44th International Conference on Software Engineering
+
+<p class="small" style="font-size:16px"><span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">[ICSE-SEIP'23]</span> <strong>Achieving Last-Mile Functional Coverage in Testing Chip Design Software Implementations.</strong> <span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;"></span><br> <strong>Ming Yan</strong>, Junjie Chen*, Hangyu Mao, Jiajun Jiang, Jianye Hao, Xingjian Li, Zhao Tian, Zhichao Chen, Dong Li, Zhangkong Xian, Yanwei Guo, Wulong Liu, Bin Wang, Yuefeng Sun, Yongshun Cui <br> In: <i>The The 45th International Conference on Software Engineering, SEIP track</i>, May 14-20, 2023, pages to appear, Melbourne Convention and Exhibition Centre, Melbourne, Australia. <br></p>
 
 <p class="small" style="font-size:16px"><span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;">[ASE-NIER'22]</span> <strong>An Empirical Study on Numerical Bugs in Deep Learning Programs.</strong> <span style="color: #0b5394;  font-family: 'Georgia'; font-size: 11.5pt; vertical-align: baseline;"></span><br> Gan Wang, Zan Wang, Junjie Chen*, Xiang Chen, <strong>Ming Yan</strong> <br> In: <i>The 37th IEEE/ACM International Conference on Automated Software Engineering, NIER track</i>, October 10-14, 2022, pages to appear, Oakland Center, Michigan, USA <br></p>
 
