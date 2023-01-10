@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Selected Publications"
     url: /publications/
 
   - title: "Teaching"
@@ -16,9 +16,10 @@ main:
     
   - title: "Projects"
     url: /projects/
+
+  - title: "News"
+    url: /news/
     
   - title: "CV"
     url: /files/HC-CV.pdf
     
-  - title: "News"
-    url: /news/
