@@ -17,7 +17,7 @@ During 2015-2016, I worked in [Computational Biology and Cognitive Science Lab (
 In 2019 summer, I worked with [Dr. Barry Theobald](https://scholar.google.com/citations?user=DNrQd3IAAAAJ&hl=en) as a research intern at [Apple](https://jobs.apple.com/en-us/details/200105314/ai-research-machine-learning-researcher).
 In 2020, I joined [Bosch Research](https://www.bosch.us/our-company/bosch-in-the-usa/sunnyvale/) as a summer intern, working with [Dr. Xinyu Huang](https://scholar.google.com/citations?user=cL4bNBwAAAAJ&hl=en) and [Dr. Liu Ren](https://sites.google.com/site/liurenshomepage/).
 --> 
-
+<br/>
 News
 ======
 * [2022/12/19] &nbsp; I’m proud to ship Google's Face Unlock on Pixel 7 / Pixel 7 Pro.
