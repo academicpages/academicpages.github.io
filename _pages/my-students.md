@@ -26,7 +26,7 @@ My research interests include:
 For more information, see the <a href="https://sites.udel.edu/parinazb/">Personal Web Site</a>
 
 <b>Research Topic: iCetus, An Interactive Parallelizing Compiler</b>
-<img src="../images/my-students/Parinaz/pimage.jpg" width="200" height="200" alt="DARWIN">
+<img src="../images/my-students/Parinaz/pimage.png" width="200" height="200" alt="">
 
 <b>Project Description: </b> Today’s computers are all multicore. In a modern shared-memory architecture, parallelization techniques enable us to utilize multiple processors simultaneously and improve the performance of an application by converting sequential code into multi-threaded and/or vectorized code. 
 
@@ -36,7 +36,7 @@ Our goal is to develop a tool that allows users with varying skill sets to apply
 
 ---------------------------------------------------------------------------------------------------
 <h2>Akshay Bhosale</h2>
-<img src="../images/my-students/Akshay/Akshay.jpg" width="200" 
+<img src="../images/my-students/Akshay/Akshay.png" width="200" 
      height="200" alt="Akshay">
 
 I am currently working towards my PhD at the University of Delaware in Newark,DE . My major is Computer Engineering.My Undergrad major was Electronics Engineering. I have completed coursework in a variety of areas ranging from web application security, computer architecture, secure software design to parallel programming, compilers , ML and cryptography. This page will give you a comprehensive overview of all my work.
@@ -56,11 +56,36 @@ Other subjects/research areas of interest
 
 For more information, see the <a href="https://subscripted-subscript.akshayud.me/>Personal Web Site</a>
 <b>Research Topic: Subscripted subscript patterns</b>
-<img src="../images/Akshay/pakshay.jpg" width="200" height="200" alt="Akshay">
+<img src="../images/Akshay/pakshay.png" width="200" height="200" alt="Akshay">
 
 <b>Project Description: </b> A number of scientific applications comprise of loops wherein an array is subscripted by another array - a[b[i]]. With write references to the host array (array ‘a’) within a loop, current compile-time techniques are incapable of detecting such loops as parallelizable. If left unparallelized, these loops can in-turn prevent the performance obtained through automatic parallelization, matching that of the hand parallelized version. Hence, Subscripted subscript analysis is the next big challenge in Automatic Parallelization.
 ----------------------------------------------------------------------------------------------------
 
+<h2>Miguel Rosas</h2>
+<img src="../images/my-students/MiguelR/MiguelR.png" width="200" 
+     height="200" alt="MiguelR">
+
+I am a 24 years old P.hd student from the department of Computer Engineering at the University of Delaware. I am  from Cali-Colombia  and am an alumni from the Community College Initiative program  2017-2018 at Houston Community College. Also, I am a community leader with a solid professional and academic background in human rights and Software Engineering. Throughout my work at the Universidad ICESI in COlombia, I have contributed to original concepts for  software engineering, and machine learning methodologies. Right now, I am part of the National Science Foundation-supported project designed to expand access to artificial intelligence, led by The Ohio State University. Last but not least, I have  been awarded with several scholarships by the national and international industry, such as One Young World 2021 sponsored by Pfizer company, the summer internship program 2021, Global Rights Connection2021 sponsored by EQUITAS in Canada, where I obtained the social award for my  project called "I have a Dream 2021", The Youth Ambassador Program 2020 sponsored by the Department of State and among others."
+
+Principal Research Interests
+
+    Automatic Parallelization
+    Software Development
+    Artificial Intelligence
+    Parallel programming paradigms
+    Compile-time analysis and transformation techniques
+
+Other subjects/research areas of interest
+
+    Human Rights
+    Diplomacy
+
+
+For more information, see the <a href="https://subscripted-subscript.akshayud.me/>Personal Web Site</a>
+<b>Research Topic: Artificial Intelligence in Compilers</b>
+<img src="../images/my-students/MiguelR/pimage.jpeg" width="200" height="200" alt="AI">
+
+<b>Project Description: </b>
 
 
 <nbsp>
