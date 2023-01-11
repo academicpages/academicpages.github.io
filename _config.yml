@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Martin Kesternich"
 title_separator          : "-"
-name                     : &name "Martin Kesternich"
+name                     : "Martin Kesternich"
 description              : &description "personal description"
 url                      : https://martinkesternich.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
