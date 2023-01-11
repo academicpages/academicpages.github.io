@@ -26,6 +26,7 @@ My research interests include:
 For more information, see the <a href="https://sites.udel.edu/parinazb/">Personal Web Site</a>
 
 <b>Research Topic: iCetus, An Interactive Parallelizing Compiler</b>
+<br>
 <img src="../images/my-students/Parinaz/pimage.png" width="200" height="200" alt="">
 
 <b>Project Description: </b> Today’s computers are all multicore. In a modern shared-memory architecture, parallelization techniques enable us to utilize multiple processors simultaneously and improve the performance of an application by converting sequential code into multi-threaded and/or vectorized code. 
@@ -54,8 +55,9 @@ Other subjects/research areas of interest
     Computer Systems Architecture
 
 
-For more information, see the <a href="https://subscripted-subscript.akshayud.me/>Personal Web Site</a>
+For more information, see the <a href="https://subscripted-subscript.akshayud.me/">Personal Web Site</a>
 <b>Research Topic: Subscripted subscript patterns</b>
+<br>
 <img src="../images/Akshay/pakshay.png" width="200" height="200" alt="Akshay">
 
 <b>Project Description: </b> A number of scientific applications comprise of loops wherein an array is subscripted by another array - a[b[i]]. With write references to the host array (array ‘a’) within a loop, current compile-time techniques are incapable of detecting such loops as parallelizable. If left unparallelized, these loops can in-turn prevent the performance obtained through automatic parallelization, matching that of the hand parallelized version. Hence, Subscripted subscript analysis is the next big challenge in Automatic Parallelization.
@@ -81,8 +83,9 @@ Other subjects/research areas of interest
     Diplomacy
 
 
-For more information, see the <a href="https://subscripted-subscript.akshayud.me/>Personal Web Site</a>
+For more information, see the <a href="https://subscripted-subscript.akshayud.me"/>Personal Web Site</a>
 <b>Research Topic: Artificial Intelligence in Compilers</b>
+<br>
 <img src="../images/my-students/MiguelR/pimage.jpeg" width="200" height="200" alt="AI">
 
 <b>Project Description: </b>
