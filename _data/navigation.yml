@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: https://jadenvc.github.io/publications/
 
-  - title: "Projects"
+  - title: "Fieldwork"
     url: /talks/    
 
-#   - title: "Teaching"
+#   - title: "Tutorials"
 #     url: /teaching/    
     
-#   - title: "Portfolio"
-#     url: /portfolio/
+  - title: "Projects"
+    url: /portfolio/
         
 #   - title: "Blog Posts"
 #     url: /year-archive/
