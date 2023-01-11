@@ -6,16 +6,16 @@ author_profile: true
 header:
   og_image: "research/ecdf.png"
 ---
-<h2>Parinaz Barakhshan</h2>
-<img style="float:left" src="../images/my-students/Parinaz/parinaz.jpg" width="100" 
-     height="100" alt="Parinaz">
+
 
 <section>
 		<div >
 			<div >
 				<h3>Parinaz Barakhshan</h3>
                     <div style="float:right">
-				     <img src="http://cdn3.whatculture.com/wp-content/uploads/2015/10/f5S3dvUb.jpg">
+				     <img style="float:left" src="../images/my-students/Parinaz/parinaz.jpg" width="100" 
+     height="100" alt="Parinaz">
+
 			     </div>
 				<div style="float:left" >
 					I am a third-year Ph.D. candidate and Research Assistant at the University of Delaware, Department of Electrical and Computer Engineering.
@@ -42,8 +42,8 @@ header:
 				
 			     </div>
                </div>	
-		<div>
-	</section>     
+	     </div>
+</section>     
 
 
 
