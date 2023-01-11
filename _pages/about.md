@@ -10,6 +10,8 @@ redirect_from:
 
 I am a research scientist at Google Research. My research is on CV/ML, with particular interests in biometrics, face, XAI, image systhesis, multi-model modeling, and mobile vision. I got my Ph.D. at [Michigan State University](http://www.cse.msu.edu/), where I was fortunate to work with [Prof. Xiaoming Liu](http://www.cse.msu.edu/~liuxm/index2.html) at [Computer Vision Lab (CVLAB)](http://cvlab.cse.msu.edu/). I got my M.S. from [Ohio State Univeristy](https://www.osu.edu/) and B.E. from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). 
 
+<font color="red">I'm looking for a motivated PhD student in CV/ML to work with me as a Research Intern at Google Research in Summer 2023. Potential topics include domain generalization, unsupervised learning, transfer learning, and their application to low-level vision. Feel free to contact me if you are interested.</font>
+
 <!--
 During 2015-2016, I worked in [Computational Biology and Cognitive Science Lab (CBCSL)](http://cbcsl.ece.ohio-state.edu/) advised by [Prof. Aleix Martinez](http://www2.ece.ohio-state.edu/~martinez/). 
 In 2019 summer, I worked with [Dr. Barry Theobald](https://scholar.google.com/citations?user=DNrQd3IAAAAJ&hl=en) as a research intern at [Apple](https://jobs.apple.com/en-us/details/200105314/ai-research-machine-learning-researcher).
