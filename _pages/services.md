@@ -17,6 +17,7 @@ author_profile: true
 
 Conference PC Member/Reviewer
 ----
+* PC Member, [International Joint Conference on Artificial Intelligence (IJCAI) 2023](https://ijcai-23.org)
 * PC Member, [AAAI Conference on Artificial Intelligence (AAAI) 2023](https://aaai.org/Conferences/AAAI-23/)
 * PC Member, [IEEE International Conference on Data Mining (ICDM) 2022](https://icdm22.cse.usf.edu/)
 * PC Member, [IEEE International Conference on Advanced Learning Technologies (ICALT) 2022](https://tc.computer.org/tclt/icalt-2022/)
