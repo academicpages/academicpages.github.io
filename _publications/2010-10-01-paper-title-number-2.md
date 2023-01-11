@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Tail Control Enhances Gliding in Arboreal Lizards: An Integrative Study Using a 3D Geometric Model and Numerical Simulation: Complimentary/Contributed Paper"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+excerpt: ''
+date: 2021
+venue: 'Integrative and Comparative Biology'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Jaden Clark, Christopher Clark, Timothy E Higham. (2021). &quot;Tail Control Enhances Gliding in Arboreal Lizards: An Integrative Study Using a 3D Geometric Model and Numerical Simulation.&quot; <i>Integrative and Comparative Biology</i>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Download paper here](https://academic.oup.com/icb/article/61/2/579/6278350)
