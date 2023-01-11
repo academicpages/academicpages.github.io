@@ -1,21 +1,37 @@
 ---
 layout: archive
-title: "My-Students"
+title: "Students and research"
 permalink: /my-students/
 author_profile: true
 header:
   og_image: "research/ecdf.png"
 ---
-<h3>DARWIN -- Delaware Advanced Research Workforce and Innovation Network</h3>
-<img src="../images/research/DARWIN.jpg" width="300" 
-     height="300" alt="DARWIN">
+<h2>Parinaz Barakhshan</h2>
+<img src="../images/my-students/Parinaz/parinaz.jpg" width="300" 
+     height="300" alt="Parinaz">
 
-DARWIN is a compute and storage resource supporting computational and data-intensive research at the University of Delaware and in the Delaware Region. DARWIN is funded by an NSF MRI (Major Research Instrumentation) grant.
-For more information, see the <a href="https://dsi.udel.edu/core/computational-resources/darwin">DARWIN project page</a>
+I am a third-year Ph.D. candidate and Research Assistant at the University of Delaware, Department of Electrical and Computer Engineering.
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+I have always loved learning, growing, developing, and challenging myself to contribute to something significant. The whole point of learning more is to be able to make a difference in the world. My purpose is to help the world run better.
+
+My research interests include:
+
+        optimizing compilers,
+        programming methodologies,
+        source-to-source Translators,
+        performance evaluation for HPC,
+        best practices and tools in computational and data-intensive research,
+        using ML, deep learning, and NLP to solve problems that cannot be solved in traditional ways.
+
+For more information, see the <a href="https://sites.udel.edu/parinazb/">Personal Web Site</a>
+<b>Research Topic: iCetus, An Interactive Parallelizing Compiler</b>
+<img src="../images/my-students/Parinaz/pimage.jpg" width="300" 
+     height="300" alt="Parinaz">
+
+<b>Project Description: </b> Today’s computers are all multicore. In a modern shared-memory architecture, parallelization techniques enable us to utilize multiple processors simultaneously and improve the performance of an application by converting sequential code into multi-threaded and/or vectorized code. 
+
+Our goal is to develop a tool that allows users with varying skill sets to apply parallelization techniques interactively. While the tool can parallelize the code/ parts of the code in a fully automatic format for Non-expert users,  Power users can finely steer the optimization process through the tool menus to obtain an optimized version of the code.
+
 
 ---------------------------------------------------------------------------------------------------
 <h3>The Xpert Network --A Peer Network for the exchange of computational best practices and support environments</h3>
