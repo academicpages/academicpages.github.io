@@ -12,40 +12,40 @@ header:
 
 <section>
 		<div >
-			<div style="float:left" >
-				<h3>Deadpool Fans Petition 'SNL' for Superhero to Host</h3>
-				<p>
-					Deadpool fans want its superhero to host Saturday Night Live — Deadpool, that is, not Ryan Reynolds. Fans of the Merc With a Mouth, who led the Marvel film to a history-making debut at the box office, have launched a Change.org petition calling for the antihero to host an upcoming episode of the NBC sketch comedy show. "We've all seen the trailers, the magazine covers, the viral videos, and the billboards by now, so what's left for Deadpool (Ryan Reynolds) to do?" creator Andrew Stege asks in the petition, which is directed to SNL, creator Lorne Michaels, parent.
-				</p>
-			</div>
-			<div style="float:right">
-				<img src="http://cdn3.whatculture.com/wp-content/uploads/2015/10/f5S3dvUb.jpg">
-			</div>
-			<div class="clear"></div>
+			<div >
+				<h3>Parinaz Barakhshan</h3>
+                    <div style="float:right">
+				     <img src="http://cdn3.whatculture.com/wp-content/uploads/2015/10/f5S3dvUb.jpg">
+			     </div>
+				<div style="float:left" >
+					I am a third-year Ph.D. candidate and Research Assistant at the University of Delaware, Department of Electrical and Computer Engineering.
+
+                         I have always loved learning, growing, developing, and challenging myself to contribute to something significant. The whole point of learning more is to be able to make a difference in the world. My purpose is to help the world run better.
+
+                         My research interests include:
+
+                              optimizing compilers,
+                              programming methodologies,
+                              source-to-source Translators,
+                              performance evaluation for HPC,
+                              best practices and tools in computational and data-intensive research,
+                              using ML, deep learning, and NLP to solve problems that cannot be solved in traditional ways.
+
+                         For more information, see the <a href="https://sites.udel.edu/parinazb/">Personal Web Site</a>
+                         <b>Research Topic: iCetus, An Interactive Parallelizing Compiler</b>
+                         <img src="../images/my-students/Parinaz/pimage.jpg" width="300" 
+                              height="300" alt="Parinaz">
+
+                         <b>Project Description: </b> Today’s computers are all multicore. In a modern shared-memory architecture, parallelization techniques enable us to utilize multiple processors simultaneously and improve the performance of an application by converting sequential code into multi-threaded and/or vectorized code. 
+
+                         Our goal is to develop a tool that allows users with varying skill sets to apply parallelization techniques interactively. While the tool can parallelize the code/ parts of the code in a fully automatic format for Non-expert users,  Power users can finely steer the optimization process through the tool menus to obtain an optimized version of the code.
+				
+			     </div>
+               </div>	
 		<div>
 	</section>     
 
-I am a third-year Ph.D. candidate and Research Assistant at the University of Delaware, Department of Electrical and Computer Engineering.
 
-I have always loved learning, growing, developing, and challenging myself to contribute to something significant. The whole point of learning more is to be able to make a difference in the world. My purpose is to help the world run better.
-
-My research interests include:
-
-        optimizing compilers,
-        programming methodologies,
-        source-to-source Translators,
-        performance evaluation for HPC,
-        best practices and tools in computational and data-intensive research,
-        using ML, deep learning, and NLP to solve problems that cannot be solved in traditional ways.
-
-For more information, see the <a href="https://sites.udel.edu/parinazb/">Personal Web Site</a>
-<b>Research Topic: iCetus, An Interactive Parallelizing Compiler</b>
-<img src="../images/my-students/Parinaz/pimage.jpg" width="300" 
-     height="300" alt="Parinaz">
-
-<b>Project Description: </b> Today’s computers are all multicore. In a modern shared-memory architecture, parallelization techniques enable us to utilize multiple processors simultaneously and improve the performance of an application by converting sequential code into multi-threaded and/or vectorized code. 
-
-Our goal is to develop a tool that allows users with varying skill sets to apply parallelization techniques interactively. While the tool can parallelize the code/ parts of the code in a fully automatic format for Non-expert users,  Power users can finely steer the optimization process through the tool menus to obtain an optimized version of the code.
 
 
 ---------------------------------------------------------------------------------------------------
