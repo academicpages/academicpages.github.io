@@ -2,7 +2,7 @@
 title: "Santa Elena Bay, Costa Rica"
 collection: talks
 type: "Fieldwork"
-permalink: /talks/talk-4
+permalink: /talks/talk-5
 venue: "University of Costa Rica"
 date: 2022-07-15
 location: "Santa Elena Bay, Costa Rica"
