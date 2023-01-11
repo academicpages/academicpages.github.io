@@ -7,8 +7,8 @@ header:
   og_image: "research/ecdf.png"
 ---
 <h2>Parinaz Barakhshan</h2>
-<img src="../images/my-students/Parinaz/parinaz.jpg" width="300" 
-     height="300" alt="Parinaz">
+<img style="float:left" src="../images/my-students/Parinaz/parinaz.jpg" width="100" 
+     height="100" alt="Parinaz">
 
 I am a third-year Ph.D. candidate and Research Assistant at the University of Delaware, Department of Electrical and Computer Engineering.
 
