@@ -18,6 +18,7 @@ In 2019 summer, I worked with [Dr. Barry Theobald](https://scholar.google.com/ci
 In 2020, I joined [Bosch Research](https://www.bosch.us/our-company/bosch-in-the-usa/sunnyvale/) as a summer intern, working with [Dr. Xinyu Huang](https://scholar.google.com/citations?user=cL4bNBwAAAAJ&hl=en) and [Dr. Liu Ren](https://sites.google.com/site/liurenshomepage/).
 --> 
 <br/>
+
 News
 ======
 * [2022/12/19] &nbsp; I’m proud to ship Google's Face Unlock on Pixel 7 / Pixel 7 Pro.
