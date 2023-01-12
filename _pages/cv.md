@@ -15,6 +15,7 @@ author_profile: true
 - Advanced Topics in Deep Learning (ECE 590-07)
 - Introduction to Deep Learning (ECE 685D)
 - Engineering Deep Neural Networks (ECE 590-02/ECE 661)
+- Probabilistic Machine Learning (ECE 682D)
 - Vector Space Methods (ECE 586)
 
 ### UNC Chapel Hill (Undergraduate)
