@@ -8,6 +8,10 @@ permalink: /research/
 
 ## Research
 
+**Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models**  
+Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun  
+*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2301.04213.pdf) [[code]](https://github.com/google/belief-localization)
+
 **Are Hard Examples also Harder to Explain? A Study with Human and Model-Generated Explanations**  
 Swarnadeep Saha, Peter Hase, Nazneen Rajani, Mohit Bansal  
 *EMNLP 2022.* [[pdf]](https://arxiv.org/pdf/2211.07517.pdf) [[code]](https://github.com/swarnaHub/ExplanationHardness)
