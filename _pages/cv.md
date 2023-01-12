@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-If the embedded PDF below does not load, you can #<u><a href="https://github.com/glma11/glma.github.io/tree/master/files/CV_Guoliang_Ma.pdf">download it here.</a></u>
+If the embedded PDF below does not load, you can #<u><a href="https://github.com/glma11/glma11.github.io/tree/master/files/CV_Guoliang_Ma.pdf">download it here.</a></u>
 <br/>
 
-<embed src="https://github.com/glma11/glma.github.io/tree/master/files/CV_Guoliang_Ma.pdf" type="application/pdf" width="100%" />
+<embed src="https://github.com/glma11/glma11.github.io/tree/master/files/CV_Guoliang_Ma.pdf" type="application/pdf" width="100%" />
