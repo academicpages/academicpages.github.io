@@ -12,11 +12,11 @@ author_profile: true
 Articles in peer-reviewed journals
 -----
 
-* Aug 2022. Active Choice vs. Inertia? An Exploratory Analysis of the Choice-Screen Applied in the European Antitrust Case. *Journal of Competition Law & Economics*. Available [here](https://academic-oup-com.stanford.idm.oclc.org/jcle/advance-article-abstract/doi/10.1093/joclec/nhac009/6672805?redirectedFrom=fulltext&login=true).
+* Aug 2022. Active Choice vs. Inertia? An Exploratory Analysis of the Choice-Screen Applied in the European Antitrust Case. *Journal of Competition Law & Economics*. Available [here](https://academic-oup-com.stanford.idm.oclc.org/jcle/advance-article-abstract/doi/10.1093/joclec/nhac009/6672805?redirectedFrom=fulltext&login=true). Also available on [SSRN][http://ssrn.com/abstract=3766468].
 
 * Feb 2021. Omar Vásquez Duque & Jörg Hoffmann. Can Data Exploitation be Properly Addressed by Competition Law? A Note of Caution, February 2021, *Concurrences* N° 1-2021, Art. N° 98791, pp. 75-82. Available [here](https://www.concurrences.com/en/review/issues/no-1-2021/droit-et-economie/98791).
 
-* Dec 2020. No Alarms and Many Surprises: Salience as a Basis for Excessive Pricing Intervention in an Antitrust Context. *Journal of Competition Law & Economics*. Volume 16, Issue 4. Available [here](https://academic-oup-com.stanford.idm.oclc.org/jcle/article-abstract/16/4/552/5862149?redirectedFrom=fulltext).
+* Dec 2020. No Alarms and Many Surprises: Salience as a Basis for Excessive Pricing Intervention in an Antitrust Context. *Journal of Competition Law & Economics*. Volume 16, Issue 4. Available [here](https://academic-oup-com.stanford.idm.oclc.org/jcle/article-abstract/16/4/552/5862149?redirectedFrom=fulltext) (open access). 
 
 * Oct 2018. 2018. Why do Most People Follow the Default Matrimonial Property Regime in Chile? *Economic Analysis of Law Review*, 2018 V. 9, 2: 232-258.  Available [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3059056).
 
@@ -40,3 +40,6 @@ Books
 * Summer 2022. Nuevo Régimen de Libre Competencia (New System of Competition Law). Editorial Rubicon. Santiago, Chile. Co-author and co-editor with Professor Domingo Valdés Prieto.
 * Spring 2017. Análisis Económico del Derecho: Una mirada a su desarrollo reciente (Economic Analysis of Law: A Review of Recent Developments). Santiago, Chile. Editorial Rubicon. Foreword by Professor Oren Bar-Gill.
 * Spring 2014. Nuevas Tendencias del Moderno Derecho Económico. (New Tendencies in Modern Economic Law) Co-author and co-editor with Domingo Valdés Prieto. Santiago, Chile. Thomson Reuters.
+
+
+[http://ssrn.com/abstract=3766468]: http://ssrn.com/abstract=3766468
