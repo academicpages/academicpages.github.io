@@ -23,8 +23,8 @@ My research interests center on interpretable machine learning and natural langu
 *Email:* peter@cs.unc.edu
 
 ## News
-* 2023 - New paper out! Does Localization Inform Editing? Surprising Differences in
-Causality-Based Localization vs. Knowledge Editing in Language Models [[pdf]](https://arxiv.org/pdf/2301.04213.pdf) [[code]](https://github.com/google/belief-localization)  
+* 2023 - New paper out! "Does Localization Inform Editing? Surprising Differences in
+Causality-Based Localization vs. Knowledge Editing in Language Models" [[pdf]](https://arxiv.org/pdf/2301.04213.pdf) [[code]](https://github.com/google/belief-localization)  
 * 2022 - Serving as an Area Chair for ACL 2023 in the Interpretability and Analysis of Models for NLP track  
 * 2022 - Serving as an Area Chair for the AAAI 2023 Workshop on Representation learning for Responsible Human-Centric AI
 * 2022 - Work accepted to EMNLP 2022: "Are Hard Examples also Harder to Explain? A Study with Human and Model-Generated Explanations" [[pdf]](https://arxiv.org/pdf/2211.07517.pdf)  
