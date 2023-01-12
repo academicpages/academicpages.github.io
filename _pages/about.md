@@ -48,7 +48,7 @@ November 10, 2022, Conversation with Visiting Professor Esteban Moro at MIT Medi
 November 4, 2022, Conversation with Assitant Professor Rebecca Johnson at Georgetown McCourt School of Public Policy. Sponsored by Sociology at Stony Brook University.
 
 ## New Paper Alert
-Charles Seguin, Thomas Maher, Yongjun Zhang. 2022. A Seat at the Table: A New Dataset of Social Movement Organization Representation Before Congress during the 20th Century. Socius.
+Charles Seguin, Thomas Maher, Yongjun Zhang. 2023. [A Seat at the Table: A New Dataset of Social Movement Organization Representation Before Congress during the 20th Century](https://t.co/wkTU2sQDlo). Socius.
 
 Yongjun Zhang and Jennifer Heerwig. 2022. "[Gender, Race, and Intersectionality in Campaign Cash to the U.S. Congress, 1990-2014.](https://journals.sagepub.com/doi/full/10.1177/23780231221121063)" Socius.
 
@@ -63,13 +63,13 @@ Yongjun Zhang. 2021. "[Corporate Responses to COVID19: A Non-Market Strategy App
 Charles Seguin, Chris Julien, and Yongjun Zhang. 2021. "[The stability of androgynous names: Dynamics of gendered naming practices in the United States 1880–2016.](http://www.charlieseguin.com/uploads/4/1/2/7/41271621/seguin_poetics_names_10-2020.pdf)" Poetics
 
 ## Working Paper
-Yongjun Zhang and Siwei Cheng. 2023. "Multiplex Spatial Segregation of Asian American Voters in New York City."
+Yongjun Zhang and Siwei Cheng. 2023. "[Multiplex Spatial Segregation of Asian American Voters in New York City]()."
 
-Yongjun Zhang, Siwei Cheng, Zhi Li, and Wenhao Jiang. 2023. "Estimating experienced partisan segregation in urban activity space using large-scale GPS data." 
+Yongjun Zhang, Siwei Cheng, Zhi Li, and Wenhao Jiang. 2023. "[Estimating experienced partisan segregation in activity space using large-scale GPS data]()." 
 
 Yongjun Zhang and Siwei Cheng. 2023. "[Mobility-based Segregation in U.S. Metropolitan Areas](https://yongjunzhang.com/files/nb_seg.pdf)."
 
-Yongjun Zhang and Jennifer Heerwig. 2023. "Gender, Race, and Intersectionality in the Political Donations of America's Corporate Elite".
+Yongjun Zhang and Jennifer Heerwig. 2023. "[Gender, Race, and Intersectionality in the Political Donations of America's Corporate Elite]()".
 
 Yongjun Zhang, Sijia Liu, Yi Wang, and Xinguang Fan. 2022. ''[Detecting Fake News on Twitter in the Chinese Language Community](https://yongjunzhang.com/files/Fake_News.pdf)."
 
