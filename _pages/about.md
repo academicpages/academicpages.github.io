@@ -12,8 +12,3 @@ I am a third year PhD student in the field of Artificial Intelligence at Imperia
 
 
 
-<div align="center">
-
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=Rf1ryS6iLrYXOyO4YtOvAIZ4cABKozJ9VuDmpCCSeJw"></script>
-
-</div>
