@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yusheng Su"
 title_separator          : "-"
 name                     : &name "Yusheng Su"
-description              : &description "NLP researcher, Ph.D. student at Tsinghua University."
+description              : &description "NLP researcher, Ph.D, at Tsinghua University."
 url                      : https://yushengsu-thu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yushengsu-thu.github.io"
@@ -27,7 +27,7 @@ comments:
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
-    appid                :
+    appid                : 
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/yusheng-su/"
-  orcid            : "https://orcid.org/0000-0001-9509-9573"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -116,7 +116,7 @@ author:
   youtube          :
   wikipedia        :
   Semantic Scholar : "https://www.semanticscholar.org/author/Yusheng-Su/48576745"
-  dblp             : "https://dblp.org/pid/275/3665"
+  dblp             : 
 
 
 # Reading Files
