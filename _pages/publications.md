@@ -19,7 +19,7 @@ author_profile: true
 > 
 > KEYWORDS: scientific modeling; representation; tool use; material engagement; pragmatism
 >
->> Sanches de Oliveira, G. (2022)  Radical Artifactualism. *European Journal for Philosophy of Science*.
+>> Sanches de Oliveira, G. (2022)  Radical Artifactualism. *European Journal for Philosophy of Science*, 12(2), 1-33. DOI: 10.1007/s13194-022-00462-0
 
 <br><br>
 
