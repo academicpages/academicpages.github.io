@@ -12,6 +12,8 @@ You can find the replication files on [my OSF profile](https://osf.io/8sgp9).
 
 Peer reviewed journal articles
 ======
+Schechtl, Manuel, Daria Tisch (2023): Tax Principles, Policy Feedback, and Self-Interest: Cross-National Experimental Evidence on Wealth Tax Preferences. Socio-Economic Review (Accepted)
+
 
 Tisch, Daria, Tamara Gutfleisch (2022): Unequal but just? Experimental evidence on (gendered) distributive justice principles in parental financial gifts. Socio-Economic Review, online first, [doi.org/10.1093/ser/mwac041](https://doi.org/10.1093/ser/mwac041)
 
@@ -52,9 +54,6 @@ Work in progress
 ======
 
 [Urbina, Daniela R.](https://www.danielaurbina.com/), Daria Tisch: Division of Housework and Perceptions of Fairness: What Justifies Unequal Housework Arrangements?
-
-
-[Schechtl, Manuel](https://schechtl.github.io/), Daria Tisch: Tax Principles, Policy Feedback, and Self-Interest: Cross-National Experimental Evidence on Wealth Tax Preferences
 
 
 Tisch, Daria, [Emma Ischinsky](https://www.mpifg.de/person/114263/2721): Top wealth and its origins. An analysis of Germany’s Largest Fortunes 2019
