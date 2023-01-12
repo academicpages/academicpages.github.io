@@ -24,9 +24,18 @@
   margin-left: 60px;
 }
 
+.row_no_pad_no_margin {
+  display: flex;
+  align-content: start;
+}
+
 p {
   margin-right: 60px;
   margin-left: 60px;
+}
+
+p_no_margin {
+  align-content: start;
 }
 
 /* Create three equal columns that sits next to each other */
@@ -35,18 +44,61 @@ p {
   padding: 4px;
 }
 
+.column_half {
+  flex: 50%;
+  padding: 4px;
+  align-content: start;
+  margin-right: 60px;
+  margin-left: 60px;
+}
+
 </style>
 <crowd-form answer-format="flatten-objects">
     <p>
       <strong>Instructions: </strong> <br>
-      Given the description and the set of 10 images below, select the image that is best described by the description. <br>
+      Given the description and the set of 10 images below, <br>
+      1. Score the fluency of the description. <br>
+      2. Select the image that is best described by the description. <br> <br>
       Click on the images to display them in full size.
     </p>
     </div>
-
-    <p><strong>Description: </strong> <br>
-      A person in color writing at a desk with a blue pen.
-    </p>
+    
+    <div class="row_no_pad_no_margin">
+        <div class="column_half">
+            <p_no_margin>
+                <strong>Description: </strong> <br>
+                    A person in color writing at a desk with a blue pen.
+            </p_no_margin>
+        </div>
+        <div class="column_half">
+            <p_no_margin>
+                1. How fluent is this description?
+            </p_no_margin>
+            <p>
+            <div>
+                <input type="radio" id="5" name="fluency" value="5" required>
+                <label for="5"><strong>5</strong>: Fluent</label>
+            </div>
+            <div>
+                <input type="radio" id="5" name="fluency" value="4">
+                <label for="4"><strong>4</strong></label>
+            </div>
+            <div>
+                <input type="radio" id="3" name="fluency" value="3">
+                <label for="3"><strong>3</strong>: Slightly ungramatical or unnatural, but understandable</label>
+            </div>
+            <div>
+                <input type="radio" id="2" name="fluency" value="2">
+                <label for="2"><strong>2</strong></label>
+            </div>
+            <div>
+                <input type="radio" id="1" name="fluency" value="1">
+                <label for="1"><strong>1</strong>: Totally ungramatical or unnatural</label>
+            </div>
+            </p>
+        </div>
+    </div> 
+    
     
     <!-- Your image file URLs will be substituted for the "image_url" variable below 
           when you publish a batch with a CSV input file containing multiple image file URLs.
