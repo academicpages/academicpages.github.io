@@ -14,11 +14,11 @@ I am Yusheng Su, a Ph.D. student in [THUNLP Lab](https://twitter.com/tsinghuanlp
 
 My research interests are exploring the mechanism (theory) and operation (practice) of large-scale pre-trained models (LLMs) to make them effective and efficient when deployed in real applications. For example:
 
-Parameter-Efficient Tuning. Adapting LLMs to downstream tasks incurs a huge computational burden. How can we adapt LLMs to downstream tasks efficiently (with less computational burden)? Driving LLMs with minimal parameters (parameter-efficient tuning) is worth exploring.
+<b>Parameter-Efficient Tuning.</b> Adapting LLMs to downstream tasks incurs a huge computational burden. How can we adapt LLMs to downstream tasks efficiently (with less computational burden)? Driving LLMs with minimal parameters (parameter-efficient tuning) is worth exploring.
 
-Human-Like Cognitive Abilities. Adapting LLMs to downstream tasks requires task-specific manually annotated data, which needs manual effort involving labeling. How can we acquire task-specific knowledge effectively (without manual effort)? Equipping PLMs with human-like cognitive abilities to leverage open-world information is a promising direction.
+<b>Human-Like Cognitive Abilities.</b> Adapting LLMs to downstream tasks requires task-specific manually annotated data, which needs manual effort involving labeling. How can we acquire task-specific knowledge effectively (without manual effort)? Equipping PLMs with human-like cognitive abilities to leverage open-world information is a promising direction.
 
-AI4Science. How many human-like capabilities LLMs learn in the pre-training stage remains unknown. To further understand, we develop tools to explore and conduct a series of analyses.
+<b>AI4Science.</b> How many human-like capabilities LLMs learn in the pre-training stage remains unknown. To further understand, we develop tools to explore and conduct a series of analyses.
 
 
 
@@ -45,7 +45,7 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 * [Feb. 2021] Got one paper accepted at WWW 2021. 
 * [Aug. 2020] Got one paper accepted at EMNLP 2020. 
 </font> -->
-* [Sep. 2022] Invited Talk (on-line) @ [SAP](https://www.sap.com/products/artificial-intelligence.html) Headquarter, Germany
+* [Sep. 2022] Invited Talk (on-line) @ [SAP - AI Research](https://www.sap.com/products/artificial-intelligence.html) Headquarter, Germany
 * [Jul. 2022] I will attend [NAACL 2022](https://2022.naacl.org/) in person to orally present our works and look forward to meeting new/old friends in Seattle.
 * [Apr. 2022] [Transferability of Prompt Tuning](https://aclanthology.org/2022.naacl-main.290/) and [Knowledge Inheritance](https://aclanthology.org/2022.naacl-main.288/) are accepted to [NAACL 2022](https://2022.naacl.org/).
 
@@ -96,7 +96,7 @@ ArXiv. [[pdf]](https://arxiv.org/abs/2203.06904)
 -->
 
 ## Talks
-* [Sep. 2022] Invited Talk (on-line) @ [SAP](https://www.sap.com/products/artificial-intelligence.html) Headquarter, Germany
+* [Sep. 2022] Invited Talk (on-line) @ [SAP - AI Research](https://www.sap.com/products/artificial-intelligence.html) Headquarter, Germany
 * [Jul. 2022] Oral Talk (in persion) @ NAACL 2022, [[slide]](https://drive.google.com/file/d/1OSmU3s7DOv-Gux5JcjuY0w79MzRRJuiA/view?usp=sharing) [[video]](https://www.youtube.com/watch?v=KVgmtgMQ3ig)
 * [Apr. 2021] Spotlight Talks (on-line) @ WWW 2021 (Self-Supervised Learning Workshop)
 
