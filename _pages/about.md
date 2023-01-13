@@ -13,3 +13,6 @@ redirect_from:
 I am a Ph.D. candidate in statistics at [Iowa State University](https://www.iastate.edu/). Prior to [Iowa State](https://www.iastate.edu/), I received my bachelor in statistics from the [Department of Statistics](https://www.fdsm.fudan.edu.cn/en/Statistics.aspx) from [Fudan University](https://www.fudan.edu.cn/en/) in China.
 
 In my research, I strive to help foster an understanding of the financial world from the data perspective. I incorporate quantitative analysis of financial data with advanced statistical tools in economic models. I examine economic asset pricing models through the behavior of the most basic economic unit, firms. I also exploit the conditional distributional information by aggregating quantiles that locally characterize the motion of returns. I also develop methods that answer questions in causal inference when the treatment assignment is [nonignorable](https://en.wikipedia.org/wiki/Ignorability).
+
+For more information, please contact me at:
+glma [at] iastate [dot] edu
