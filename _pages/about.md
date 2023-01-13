@@ -1,23 +1,19 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Dr. Zhibin lei"
+excerpt: "Dr. Zhibin lei"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Dr. Zhibin lei
---
-I use numerical methods to understand geodynamic processes within the solid Earth across different temporal and spatial scales. I have built subduction frameworks to understand the tectonic and rheological origin of extensional structures, e.g., rifting, opening, and spreading seafloor, developed within the overriding plate. [These numerical models](https://zhibinlei.github.io/research/) investigate - but are not restricted to - the role of high trench retreat rate, multiple slab subduction (dual inward dipping subduction), and inherited lateral lithospheric heterogeneities, in governing the strain localisation (plate weakening processes) that occur within the overriding plate during subduction. A synoptic summary of these findings can be found in my [PhD thesis](https://orca.cardiff.ac.uk/id/eprint/152759/1/2022leizphd.pdf) (Figure 6.2).
+I use numerical methods to understand geodynamic processes within the solid Earth across different temporal and spatial scales. I have built subduction frameworks to understand the tectonic and rheological origin of extensional structures, e.g., rifting, opening, and spreading seafloor, developed within the overriding plate. These numerical models (presented in the '[Research](https://zhibinlei.github.io/research/)' page) investigate - but are not restricted to - the role of high trench retreat rate, multiple slab subduction (dual inward dipping subduction), and inherited lateral lithospheric heterogeneities, in governing the strain localisation (plate weakening processes) that occur within the overriding plate during subduction. A synoptic summary of these findings can be found in my [PhD thesis](https://orca.cardiff.ac.uk/id/eprint/152759/1/2022leizphd.pdf) (Figure 6.2).
 
 The computational modelling framework is built with [Fluidity](https://github.com/FluidityProject/fluidity) (Davies et al., 2011; Kramer et al., 2021, 2012), an open-source, finite-element, control-volume code with adaptive mesh. The temperature and mantle flow velocity is modelled by solving the coupled incompressible Stokes and energy equations in the Boussinesq approximation using Fluidity.
 
 data analysis & visualisation: Paraview; Python; 
 
 keywords: geodynamics; mantle convection; subduction; rheology; plate deformation; dual inward dipping subduction; strain accumulation; strain localisation; new plate boundary; rifting; spreading; mid-ocean ridge; extension; subduction; back-arc basin; back-arc extension; basal drag; non-Newtonian rheology; dominant deformation mechanism; thermal mechanical model; 
-
 
 
 Research interests
