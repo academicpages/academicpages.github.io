@@ -6,11 +6,10 @@ excerpt: 'This paper details the utilization of a Software Defined Radio to crea
 date: 2022-7-13
 venue: 
 paperurl: 'https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1067&context=elec_senior'
-citation: 'Arroyo, Nick; Benedicto, Brian; and <u>Ikehara, Tyler</u>, "Cost Efficient Radio Telescope" (2022). Electrical and Computer Engineering Senior Theses. 68.
-https://scholarcommons.scu.edu/elec_senior/68'
+citation: 'Arroyo, Nick; Benedicto, Brian; and <u>Ikehara, Tyler</u>, "Cost Efficient Radio Telescope" (2022). Electrical and Computer Engineering Senior Theses. 68.'
 ---
-This paper details the utilization of a Software Defined Radio to create a cost efficient Hydrogen Line radio telescope
+#This paper details the utilization of a Software Defined Radio to create a cost efficient Hydrogen Line radio telescope
 
-[Download paper here](https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1067&context=elec_senior)
+#[Download paper here](https://scholarcommons.scu.edu/cgi/viewcontent.cgi?article=1067&context=elec_senior)
 
-Recommended citation: Arroyo, Nick; Benedicto, Brian; and <u>Ikehara, Tyler</u>, "Cost Efficient Radio Telescope" (2022). Electrical and Computer Engineering Senior Theses. 68. https://scholarcommons.scu.edu/elec_senior/68
+#Recommended citation: Arroyo, Nick; Benedicto, Brian; and <u>Ikehara, Tyler</u>, "Cost Efficient Radio Telescope" (2022). Electrical and Computer Engineering Senior Theses. 68. https://scholarcommons.scu.edu/elec_senior/68
