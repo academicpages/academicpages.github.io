@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-- Li, X., Liu, Z., Xu, Q., Jiang, Z., **Ma, G.** (2017) "[Optimal Policy Mechanism Design for Cross-Sector and Multi-Stage Pollution Control with a Bilevel Model: Application to SO2 Emission in China](https://link.springer.com/article/10.1007/s10666-016-9533-3)." Environmental Modeling & Assessment.
+- Li, X., Liu, Z., Xu, Q., Jiang, Z., **Ma, G.\* ** (2017) "[Optimal Policy Mechanism Design for Cross-Sector and Multi-Stage Pollution Control with a Bilevel Model: Application to SO2 Emission in China](https://link.springer.com/article/10.1007/s10666-016-9533-3)." Environmental Modeling & Assessment.
 
 ## Working Papers
 
