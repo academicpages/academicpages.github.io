@@ -15,3 +15,6 @@ author_profile: true
 - Li, H., **Ma, G.**, Yu, C. "Cross-Sectional Analysis of Conditional Stock Returns: Quantile Regression with Machine Learning."
 - **Ma, G.**, Yu, C. "A Semiparametric Causal Estimator with Nonignorability."
 - Chen, Z., Li, H., **Ma, G.**, Yu, C. "Portfolio Construction Using Predicted Extreme Stock Returns in the Cross Section: Classification Task with Machine Learning."
+
+---
+*corresponding author
