@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Research"
 author_profile: true
 ---
 
