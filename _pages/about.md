@@ -10,7 +10,7 @@ redirect_from:
 
 A data-driven personal website
 ======
-I am a Ph.D. candidate in statistics at Iowa State University. Prior to Iowa State, I received my bachelor in statistics from the [Department of Statistics](https://www.fdsm.fudan.edu.cn/en/Statistics.aspx) from [Fudan University](https://www.fudan.edu.cn/en/) in China.
+I am a Ph.D. candidate in statistics at [Iowa State University](https://www.iastate.edu/). Prior to Iowa State, I received my bachelor in statistics from the [Department of Statistics](https://www.fdsm.fudan.edu.cn/en/Statistics.aspx) from [Fudan University](https://www.fudan.edu.cn/en/) in China.
 
 For more info
 ------
