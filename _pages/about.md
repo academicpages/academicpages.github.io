@@ -24,7 +24,6 @@ My name is Jingwu Tang (唐静吾). I am a senior-year undergrad at Turing Class
 # Awards
 + Merit Student 2020
 + John Hopcroft Scholarship 2021, 2022
-+ Scholarship of Peking University 2020
 + Chinese Mathematical Olympiad (CMO), Silver Medal, 2017
 
 # More About Me
