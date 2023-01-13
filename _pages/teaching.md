@@ -9,8 +9,10 @@ author_profile: true
 ## University of California Berkeley 
 ### Spring 2023
 - Data 8: Foundations of Data Science (uGSI)
+
 ### Fall 2022
 - Data 8: Foundations of Data Science (Tutor)
+
 ### Summer 2022
 - Data 8: Foundations of Data Science (Tutor)
 
