@@ -1,13 +1,3 @@
----
-title: 'An Introduction to Analysis of Variance (ANOVA)'
-date: 2022-10-01
-permalink: /posts/2022/10/what-is-anova/
-tags:
-  - statistics
-  - analysis of variance
-  - categorical variables
----
-
 This post gives a brief introduction to the basics of analysis of variance and how it works. An overview of the oneway analysis of variance model is provided along with additional details regarding sums of squares. A simple example of analysis of variance can be found [here](https://trgrimm.github.io/posts/2022/10/what-is-anova/).
 
 # What is Analysis of Variance (ANOVA)?
@@ -85,3 +75,17 @@ Each of the sums of squares can be viewed in the following way:
 * SST is a measure of the total variability from each individual response to the overall mean of the responses (across all groups).
 * SSB is a measure of variability in the average response from group to group ("between" groups).
 * SSW is a measure of the variability for each response within its respective group (variability left over after adjusting for group).
+
+## How are Sums of Squares Used?
+
+The classical ANOVA hypothesis is that all $\theta_i$ are equal. In other words, the treatments are all the same.
+
+Consider MSB, the mean of the between sum of squares (computed as $\text{SSB}/(k-1)$), and MSW, the mean of the within sum of squares (computed as $\text{SSW}/(n-k)$. Due to assumptions described above, it can be shown that the ratio MSB/MSW is distributed as a $\chi^2$ random variable with $k-1$ and $n-k$ degrees of freedom, where $n$ refers to the overall sample size.
+
+So, we have
+
+$$
+\frac{\text{MSW}}{\text{MSB}} \sim \chi^2_{k-1,n-k},
+$$
+
+which allows us to test the classical ANOVA hypothesis. See [this](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing) for more information about hypothesis testing.
