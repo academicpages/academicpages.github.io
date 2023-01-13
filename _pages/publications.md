@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Publications
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- Li, X., Liu, Z., Xu, Q., Jiang, Z., **Ma, G.** [Optimal Policy Mechanism Design for Cross-Sector and Multi-Stage Pollution Control with a Bilevel Model: Application to SO2 Emission in China](https://link.springer.com/article/10.1007/s10666-016-9533-3)
