@@ -11,11 +11,16 @@ and [DBLP](https://dblp.org/pid/200/2864.html).
 Selected Journal Papers
 ------------------------
 
+* **"Towards Backdoor Attacks and Defense in Robust Machine Learning Models."**
+**Soremekun, Ezekiel**\*, Sakshi Udeshi\*, and  Sudipta Chattopadhyay. 
+Computers & Security, Elsevier, 2023. \* equal contribution.
+[preprint](https://arxiv.org/pdf/2003.00865.pdf)
+
+
 * **"Mutation Testing in Evolving Systems: Studying the relevance of mutants to code evolution."**
 Ojdanic, Milos, **Ezekiel Soremekun**, Renzo Degiovanni, Mike Papadakis, Yves Le Traon.
 ACM Transactions on Software Engineering and Methodology (TOSEM) 2022.
 [preprint](https://arxiv.org/pdf/2112.14566)
-
 
 * **"Astraea: Grammar-based fairness testing."** 
 **Soremekun, Ezekiel**\*, Sakshi Udeshi\*, and Sudipta Chattopadhyay. 
@@ -37,6 +42,10 @@ IEEE Transactions on Software Engineering (2020)
 
 Selected Conference Papers
 --------------------------
+
+* **"Evaluating the Impact of Experimental Assumptions in Automated Fault Localization."**
+**Soremekun, Ezekiel**, Lukas Kirschner, Marcel Böhme, and Mike Papadakis.
+2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE), 2023. 
 
 * **"GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses."**
 Ma, Wei, Mengjie Zhao, **Ezekiel Soremekun**, Qiang Hu, Jie Zhang, Mike Papadakis, Maxime Cordy, Xiaofei Xie, and Yves Le Traon.
@@ -78,14 +87,11 @@ In 2017 32nd IEEE/ACM International Conference on Automated Software Engineering
 Papers Under Review
 -------------------
 
-* **"Aegis: Exposing backdoors in robust machine learning models."**
-**Soremekun, Ezekiel**\*, Sakshi Udeshi\*, and  Sudipta Chattopadhyay. 
-ACM Transactions on Software Engineering and Methodology (TOSEM) 2022. (Major Revision). \* equal contribution.
-[preprint](https://arxiv.org/pdf/2003.00865.pdf)
-
-* **"Repairing Inputs via Synthesis."**
+* **"Input Repair via Synthesis and Lightweight Error Feedback."** 
 Kirschner, Lukas, Rahul Gopinath, **Ezekiel Soremekun**, and Andreas Zeller. 
-ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering  ESEC/FSE 2022. (Under Review)
+arXiv preprint arXiv:2208.08235 (2022).
+[preprint](https://arxiv.org/pdf/2208.08235)
+(Under Review)
 
 * **"Software Fairness: An Analysis and Survey."**
 **Soremekun, Ezekiel**, Mike Papadakis, Maxime Cordy, and Yves Le Traon.
