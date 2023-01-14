@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Dr. Zhibin lei"
-excerpt: "Dr. Zhibin lei"
+title: "Dr. Zhibin Lei"
+excerpt: "Dr. Zhibin Lei"
 author_profile: true
 redirect_from: 
   - /about/
