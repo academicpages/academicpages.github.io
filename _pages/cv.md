@@ -162,15 +162,15 @@ Skills
 ======
 
 * Languages
-  * Java, Powershell, Bash
+  * Java, Powershell, Bash, Python
 * Languages I am Excited to Learn
-  * Python, C++, SQL
+  * Rust
 * Frameworks and Libraries I am Eager to Learn
-  * Spring, Hibernate, .NET Core, Node.js, Vue.js, React
+  * React, TailwindCSS, Starlite (Akin to FastAPI)
 * Tools
-  * Git, Linux, Docker, AWS/GCP/Azure, Jira, Active Directory, Group Policy, VMWare vSphere
+  * Git, Linux, Docker, AWS/GCP/Azure, Jira, Active Directory, Group Policy, VMWare vSphere, LXD/LXC
 * Tools I am Excited to Learn
-  * Gradle, Maven, JWT, CI/CD, Kubernetes, Container Orchestration, Jenkins, Ansible, Chef, Puppet
+  * Gradle, Maven, JWT, CI/CD, Kubernetes, Container Orchestration, Jenkins,
 
 Projects
 ========
