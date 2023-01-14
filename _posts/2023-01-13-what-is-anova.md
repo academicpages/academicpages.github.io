@@ -95,7 +95,7 @@ Consider MSB, the mean of the between sum of squares (computed as $\text{SSB}/(k
 So, we have
 
 $$
-\frac{\text{MSW}}{\text{MSB}} \sim \chi^2_{k-1,n-k},
+\frac{\text{MSB}}{\text{MSW}} \sim \chi^2_{k-1,n-k},
 $$
 
 which allows us to test the classical ANOVA hypothesis. See [this](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing) for more information about hypothesis testing.
