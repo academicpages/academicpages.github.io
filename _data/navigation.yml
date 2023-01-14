@@ -10,7 +10,7 @@ main:
   #  url: /teaching/    
     
   - title: "CV"
-    url: https://drive.google.com/file/d/1AWgSdGJ30wf2JUZTZZdZ7HXvNXoOKhc9/view?usp=sharing
+    <a href="luukschmitz.github.io/my-website/_pages/CV_LS.pdf" target="_blank">PDF.</a>
     
   - title: "Contact"
     url: /contact/
