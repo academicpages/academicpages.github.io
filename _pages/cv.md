@@ -26,6 +26,7 @@ Service
 ======
 * Reviewer:
   * Journals
+    * Journal of Machine Learning Research (JMLR)  
     * IEEE Transactions on Pattern Analysis and Machine Inteeligence (TPAMI)
     * IEEE Transactions on Computer-Aided Design OF Integrated Circuits and Systems (TCVST)
     * Information Fusion
