@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jacob Coffee"
   avatar           : "profile.jpg"
-  bio              : "Senior Linux Systems Administrator - Retail DevOps. Student of Computer Science specializing in AI, Cloud Computing, and Automation."
+  bio              : "Senior Linux Systems Administrator - Retail DevOps. Student of Computer Science specializing in Distributed Systems, Cloud Computing, and Automation."
   location         : "Birmingham, AL"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Sciptr"
+  twitter          : "_scriptr"
   vine             :
   weibo            :
   xing             :
