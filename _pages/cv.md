@@ -19,7 +19,7 @@ Education
 Relevant Experience
 ===================
 
-* Senior Linux System Administrator - Retail DevOps & Hardware
+* Senior Linux System Administrator - Retail DevOps & Hardware @ *O'Reilly Auto Parts*
 
   - Linux Systems administration of multiple petabyte-scale storage systems and computational infrastructure at scale
   - Responsible for maintaining live production systems
@@ -30,25 +30,24 @@ Relevant Experience
     code reviews, source control, testing, build and release engineering
     processes with focus on automation and end to end traceability.
   - View more about the [tech and skills I use daily here](https://www.linkedin.com/in/jacobcoffee).
-* IT Specialist - IT Infrastructure & Business Continuity - Mar 2018 - Present
+* IT Specialist - IT Infrastructure & Business Continuity - Mar 2018 - Present @ *Labcorp*
 
-  * *Labcorp*
-    * Duties included: Windows & Linux Systems Administration, Network Administration, Tier 2 End User Support for 6 States & Puerto Rico, Project Management, and Task Automation.
-    * Azure and Active Directory Management, Group Policy (GPO) Configuration, O365 Administration
-* Systems Architect - May 2018 - Present
+  * Duties included: Windows & Linux Systems Administration, Network Administration, Tier 2 End User Support for 6 States & Puerto Rico, Project Management, and Task Automation.
+  * Azure and Active Directory Management, Group Policy (GPO) Configuration, O365 Administration
+* Systems Architect - May 2018 - Present @ *Homelab*
 
-  * *Homelab*
-    * Built, automated, and mainted production-level systems solely for the purpose of learning and enjoying the technology
-    * Systems include:
-      * VMWare suite (vSphere including ESXi, vRealize)
-        * Other virtualization/hypervisor solutions used include Proxmox, Citrix, Hyper-V, and SUSE Harvester.
-      * Docker
-      * Linux Servers running Ubuntu, RHEL (CentOS), Rocky Linux.
-      * Automation using Ansible, Rancher, and Kubernetes (k3s).
-      * Windows Servers performing ADFS, ADDS, DNS, DHCP, Group Policy, Azure AD sync, SCCM, and more.
-      * Hardware that includes Cisco Switches, Ubiquiti switches and routers, and Dell and HP servers.
-      * Networking providing RADIUS, Remote User VPN, VLANs, firewall, and IDS/IPS services.
-      * Currently learning/improving on Ansible, Kubernetes, SCCM, and Python.
+  * Built, automated, and mainted production-level systems solely for the purpose of learning and enjoying the technology
+  * Systems include:
+    * VMWare suite (vSphere including ESXi, vRealize)
+      * Other virtualization/hypervisor solutions used include Proxmox, Citrix, Hyper-V, and SUSE Harvester.
+    * Other virtualization/hypervisor solutions used include Proxmox, Citrix, Hyper-V, and SUSE Harvester.
+    * Docker
+    * Linux Servers running Ubuntu, RHEL (CentOS), Rocky Linux.
+    * Automation using Ansible, Rancher, and Kubernetes (k3s).
+    * Windows Servers performing ADFS, ADDS, DNS, DHCP, Group Policy, Azure AD sync, SCCM, and more.
+    * Hardware that includes Cisco Switches, Ubiquiti switches and routers, and Dell and HP servers.
+    * Networking providing RADIUS, Remote User VPN, VLANs, firewall, and IDS/IPS services.
+    * Currently learning/improving on Ansible, Kubernetes, SCCM, and Python.
 
 Skills
 ======
