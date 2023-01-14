@@ -15,12 +15,8 @@ My research interests include the application of online optimization, pricing, r
 
 Education
 ======
-* **Ph.D in Operations Research**, 2026
+* **Ph.D in Operations Research**, 2026 \n Massachusetts Institute of Technology
 
-Massachusetts Institute of Technology
+* **B.S. in Mathematics**, 2020 \n University of Chile
 
-* **B.S. in Mathematics**, 2020
-University of Chile
-
-* **M.S. in Operation Management**, 2022
-University of Chile
+* **M.S. in Operation Management**, 2022 \n University of Chile
