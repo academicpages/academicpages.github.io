@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Benjamín Barrientos"
 title_separator          : "-"
-name                     : &name "Benjamin Barrientos"
+name                     : &name "Benjamín Barrientos"
 description              : &description "I am a PhD Student in MIT Operations Research Center currently advised by Daniel Freund. I hold a Bachelor's degree in Engineering with a minor in Mathematics from the University of Chile, as well as a Master's degree in Operations Management from the same university. I also have work experience in three different companies: LVA Indices, VTR, and the Center for Mathematical Modeling, where I worked on research and development of models, primarily in the area of price prediction and market behavior. I also have additional experience as a teaching assistant at the University of Chile, where I provided tutoring and instruction on various mathematical subjects. I have technical skills in Excel, Python, R, SQL and MATLAB, and I am proficient in English and Spanish."
 url                      : https://bbarrientosf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

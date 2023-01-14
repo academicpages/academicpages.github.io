@@ -11,7 +11,7 @@ I am a PhD Student in MIT Operations Research Center currently advised by [Danie
 
 Research Interests
 ======
-My research interests include the application of online optimization, pricing, revenue management, stochastic processes and game theory in Operations Research and Management Science to improve decision making efficiency and effectiveness.
+My research interests include the applications of online optimization, pricing, revenue management, stochastic processes and game theory in operations research and revenue management to improve decision making efficiency and effectiveness.
 
 Education
 ======
