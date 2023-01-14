@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,12 +15,12 @@ My research interests include the application of online optimization, pricing, r
 
 Education
 ======
-* **PhD in Operations Research**, 2026
+* **Ph.D in Operations Research**, 2026
 
 Massachusetts Institute of Technology
 
-* **Bachelor in Mathematics**, 2020
+* **B.S. in Mathematics**, 2020
 University of Chile
 
-* **Ms in Operation Management**, 2022
+* **M.S. in Operation Management**, 2022
 University of Chile
