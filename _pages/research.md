@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research"
-permalink: /research/
+permalink: https://alais-martinbaillon.github.io/research
 author_profile: true
 ---
 
