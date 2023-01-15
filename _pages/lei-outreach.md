@@ -1,13 +1,15 @@
 ---
-permalink: /outreach
+permalink: /outreach/
+title: "Outreach"
+excerpt: "Outreach"
 author_profile: true
 redirect_from: 
   - /outreach/
   - /outreach.html
 ---
 
-EGU_GD blog editor
---
+<h3>EGU_GD blog editor</h3>
+
 I am part of the EGU geodynamics (EGU_GD) early career scientists team as a blog editor. In brief, EGU_GD coordinates the scientific programme and related activities 
 on all aspects of geodynamic processes in the lithosphere, mantle, and core of the Earth and the terrestrial planets. 
 The division also promotes scientific interchange and dissemination of activities carried out by its members. 
