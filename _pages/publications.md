@@ -1,16 +1,20 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Publications
 
-{% include base_path %}
+- Li, X., Liu, Z., Xu, Q., Jiang, Z., __Ma, G.*__ (2017) "[Optimal Policy Mechanism Design for Cross-Sector and Multi-Stage Pollution Control with a Bilevel Model: Application to SO2 Emission in China](https://link.springer.com/article/10.1007/s10666-016-9533-3)." Environmental Modeling & Assessment.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Working Papers
+
+- Li, E. X., **Ma, G.**, Wang, S., Yu, C. "[Fundamental Anomalies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783526)."
+- Li, H., **Ma, G.**, Yu, C. "Cross-Sectional Analysis of Conditional Stock Returns: Quantile Regression with Machine Learning."
+- **Ma, G.**, Yu, C. "A Semiparametric Causal Estimator with Nonignorability."
+- Chen, Z., Li, H., **Ma, G.**, Yu, C. "Portfolio Construction Using Predicted Extreme Stock Returns in the Cross Section: Classification Task with Machine Learning."
+
+---
+*corresponding author
