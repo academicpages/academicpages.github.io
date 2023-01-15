@@ -25,7 +25,7 @@ multimodal information retrieval, natural language processing, and video feature
 I am interested in designing mechanisms for identifying patterns and novelties in heterogeneous data sources towards better understanding of the data, focusing on the explanability of the models to better use them for situational awareness. 
 
 
-> **Open To Work:** <span style="color:blue">**I am on the job market for post doctoral and faculty positions! [\[CV\]](/files/pdf/Solaiman_CV_Spring23.pdf) [\[Teaching Statement\]](/files/pdf/Teaching_Statement___AVP.pdf) [\[Diversity Statement\]](/files/pdf/Diversity_Statement.pdf) <br> Please feel free to reach out at [ksolaima@purdue.edu](mailto:ksolaima@purdue.edu).**</span>
+> **Open To Work:** <span style="color:blue">**I am on the job market for post doctoral and faculty positions! [\[CV\]](/files/pdf/Solaiman_CV_Spring23.pdf) [\[Teaching Statement\]](/files/pdf/Teaching_Statement.pdf) [\[Diversity Statement\]](/files/pdf/Diversity_Statement.pdf) <br> Please feel free to reach out at [ksolaima@purdue.edu](mailto:ksolaima@purdue.edu).**</span>
 
 
 ## Education
