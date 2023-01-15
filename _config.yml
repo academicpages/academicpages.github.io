@@ -33,7 +33,7 @@ comments:
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
+  commitMessage          : ""
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Yuta Nakamura"
   avatar           : "profile.png"
   bio              : "Biomedical natural language processing (NLP) Ph.D. student & Diagnostic radiologist at the University of Tokyo Hospital"
   location         : "Tokyo, Japan"
