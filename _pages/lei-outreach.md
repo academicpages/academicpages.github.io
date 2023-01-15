@@ -1,8 +1,11 @@
 ---
-layout: archive
+permalink: /outreach
 title: ""
-permalink: /outreach/
+excerpt: ""
 author_profile: true
+redirect_from: 
+  - /outreach/
+  - /outreach.html
 ---
 
 EGU_GD blog editor
