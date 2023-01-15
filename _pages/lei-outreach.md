@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Outreach"
-excerpt: "Outreach"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /outreach/
@@ -25,7 +25,6 @@ GD community. The EGU_GD blog post has run for over 5 years so far. And it has o
 on average per year. Here are some our most recent pulished [EGU_GD blogs](https://blogs.egu.eu/divisions/gd/).
 
 If you are interested in contributing to the EGU_GD blog post to either highlight any GD news, or promote any exciting GD research output, 
-feel free to contact me by [email](mailto:leiz2@cardiff.ac.uk) with the topic of "Authorship application for EGU_GD blog posts". I will create for you an author page, which has 
-been demonsted below, to list all your contribution to the EGU_GD blog posts. Look forward to hearing from you!
+feel free to contact me by [email](mailto:leiz2@cardiff.ac.uk) with the topic of "Authorship application for EGU_GD blog posts". I will create for you an author page, which is demonsted as an example below, to list all your contribution to the EGU_GD blog posts. Look forward to hearing from you!
 
 ![image](https://user-images.githubusercontent.com/119984116/212542753-9f0fd7a3-2a79-48a7-b76b-4562d0e81923.png)
