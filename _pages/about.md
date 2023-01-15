@@ -15,13 +15,14 @@ Research interests
 --
 As introduced in the '[Research](https://zhibinlei.github.io/research/)' page, I have built some thermal-mechanical subduction frameworks. In the long run, I am interested in incorporating melting, and its role in creating magmatism in the mantle wedge, altering the rheology during migration, promoting magma intrusion upwards into the overlying lithosphere. Besides, I am also interested in investigating the driving mechanism of intraplate volcanism, especially in the NE Asia.
 
-In my research, I enjoy working across disciplines, linking geophysical, geochemical, rheological and geological processes with geodynamic models, as well as carrying insights into their impact in/on climate change, minning formation, occurance/break-out of geohazards and ecosystem transfermation. Most of my research is hypothesis driven, often combining collabration with researchers from other disciplines. Any discussion on the research output and potentional collabrations are welcome via '[email](mailto:leiz2@cardiff.ac.uk)'. 
+In my research, I enjoy working across disciplines, linking geophysical, geochemical, rheological and geological processes with geodynamic models, as well as carrying insights into their impact in/on climate change, minning formation, occurance/break-out of geohazards and ecosystem transfermation. Most of my research is hypothesis driven, often combining collabration with researchers from other disciplines. Any discussion on the research output and potentional collabrations are welcome via [email](mailto:leiz2@cardiff.ac.uk). 
 
 Outreach
 --
-I am part of the EGU [geodynamics blog](https://blogs.egu.eu/divisions/gd/) team as an editor. You can find all my edited blogs at https://blogs.egu.eu/divisions/gd/author/lei/.
+I am part of the EGU [geodynamics blog](https://blogs.egu.eu/divisions/gd/) team as an editor. You can find all my edited blogs at https://blogs.egu.eu/divisions/gd/author/lei/. Please refer to the '[Outreach](https://zhibinlei.github.io/outreach/)' page or [my EGU_GD blog post page](https://blogs.egu.eu/divisions/gd/author/lei/) for details.
 
 Awards
 --
 [EGU Outstanding Presentation Award 2021](https://www.egu.eu/awards-medals/ospp-award/2021/zhibin-lei/)
-Virtual Outstanding Student and PhD candidate Presentation (vOSPP) Awards at the EGU General Assembly 2021, Geodynamics division
+
+The Virtual Outstanding Student and PhD candidate Presentation (vOSPP) Award at the EGU General Assembly, Geodynamics division (May 2021) for the presentation of 'Impact of trench retreat rate on initiating focused back-arc extension within a mobile overriding plate'.
