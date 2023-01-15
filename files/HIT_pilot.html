@@ -41,7 +41,7 @@ p_no_margin {
 /* Create three equal columns that sits next to each other */
 .column {
   flex: 20%;
-  padding: 4px;
+  padding: 0px;
 }
 
 .column_half {
@@ -53,86 +53,24 @@ p_no_margin {
 }
 
 </style>
-<crowd-form answer-format="flatten-objects">
+
+<crowd-form>
     <p>
       <strong>Instructions: </strong> <br>
       Given the description and the set of 10 images below, <br>
-      1. Score the fluency of the description. <br>
-      2. Select the image that is best described by the description. <br> <br>
-      Click on the images to display them in full size.
+      1. Select the image that is best described by the description. <br>
+      2. Score the fluency of the description. <br> <br>
+      Click on the images to display them in full size. <br> <br>
+      <strong>Description: </strong> <br> ${caption}
     </p>
-    </div>
-    
-    <div class="row_no_pad_no_margin">
-        <div class="column_half">
-            <p_no_margin>
-                <strong>Description: </strong> <br>
-                    A person in color writing at a desk with a blue pen.
-            </p_no_margin>
-        </div>
-        <div class="column_half">
-            <p_no_margin>
-                1. How fluent is this description?
-            </p_no_margin>
-            <p>
-            <div>
-                <input type="radio" id="5" name="fluency" value="5" required>
-                <label for="5"><strong>5</strong>: Fluent</label>
-            </div>
-            <div>
-                <input type="radio" id="5" name="fluency" value="4">
-                <label for="4"><strong>4</strong></label>
-            </div>
-            <div>
-                <input type="radio" id="3" name="fluency" value="3">
-                <label for="3"><strong>3</strong>: Slightly ungramatical or unnatural, but understandable</label>
-            </div>
-            <div>
-                <input type="radio" id="2" name="fluency" value="2">
-                <label for="2"><strong>2</strong></label>
-            </div>
-            <div>
-                <input type="radio" id="1" name="fluency" value="1">
-                <label for="1"><strong>1</strong>: Totally ungramatical or unnatural</label>
-            </div>
-            </p>
-        </div>
-    </div> 
     
     
     <!-- Your image file URLs will be substituted for the "image_url" variable below 
           when you publish a batch with a CSV input file containing multiple image file URLs.
           To preview the element with an example image, try setting the src attribute to
           "https://s3.amazonaws.com/cv-demo-images/basketball-outdoor.jpg" -->
-
-    <div class="row">
-        <div class="column">
-            <div class="w3-container">
-                <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img0.jpg" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
-            </div>
-        </div>
-        <div class="column">
-            <div class="w3-container">
-                <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img1.jpg" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
-            </div>
-        </div>
-        <div class="column">
-            <div class="w3-container">
-                <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img2.jpg" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
-            </div>
-        </div>
-        <div class="column">
-            <div class="w3-container">
-                <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img3.jpg" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
-            </div>
-        </div>
-        <div class="column">
-            <div class="w3-container">
-                <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img4.jpg" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
-            </div>
-        </div>
-    </div>
     
+    <p><strong>Images: </strong></p>
     <div class="row_no_pad">
         <div class="column">
             <b><center><big> 1 </big></center></b>
@@ -150,35 +88,34 @@ p_no_margin {
             <b><center><big> 5 </big></center></b>
         </div>
     </div>
-    <br>
     <div class="row">
         <div class="column">
             <div class="w3-container">
-                <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img5.jpg" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+                <img src="${image_url1}" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
             </div>
         </div>
         <div class="column">
             <div class="w3-container">
-                <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img6.jpg" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+                <img src="${image_url2}" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
             </div>
         </div>
         <div class="column">
             <div class="w3-container">
-                <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img7.jpg" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+                <img src="${image_url3}" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
             </div>
         </div>
         <div class="column">
             <div class="w3-container">
-                <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img8.jpg" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+                <img src="${image_url4}" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
             </div>
         </div>
         <div class="column">
             <div class="w3-container">
-                <img src="https://imagecodetestdevpilot.s3.us-east-2.amazonaws.com/imagecode_images_test/open-images-1679_29fd4eed473ea3aa/img9.jpg" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+                <img src="${image_url5}" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
             </div>
         </div>
-    </div>    
-    
+    </div>
+    <br>
     <div class="row_no_pad">
         <div class="column">
             <b><center><big> 6 </big></center></b>
@@ -195,29 +132,96 @@ p_no_margin {
         <div class="column">
             <b><center><big> 10 </big></center></b>
         </div>
-    </div>
+    </div> 
+    <div class="row">
+        <div class="column">
+            <div class="w3-container">
+                <img src="${image_url6}" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+            </div>
+        </div>
+        <div class="column">
+            <div class="w3-container">
+                <img src="${image_url7}" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+            </div>
+        </div>
+        <div class="column">
+            <div class="w3-container">
+                <img src="${image_url8}" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+            </div>
+        </div>
+        <div class="column">
+            <div class="w3-container">
+                <img src="${image_url9}" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+            </div>
+        </div>
+        <div class="column">
+            <div class="w3-container">
+                <img src="${image_url10}" style="width:100%;cursor:pointer" onclick="onClick(this)" class="w3-hover-opacity">
+            </div>
+        </div>
+    </div>    
+    <br>
 
     <!--<crowd-input label="Word/phrase 1" max-length="25" name="tag1" required></crowd-input>
     <crowd-input label="Word/phrase 2" max-length="25" name="tag2" required></crowd-input>
     <crowd-input label="Word/phrase 3" max-length="25" name="tag3" required></crowd-input> -->
     
-    <div class="row">
-    <h3>Select an option</h3>
+    <div class="row_no_pad">
+        1. Which image is best described by the description? <br>
+    </div>
+    <div class="row_no_pad">
+        Select an option <br>
+        <div class="w3-container">
+        <select name="select an image" required>
+          <option value="">(Please select)</option>
+          <option>1</option>
+          <option>2</option>
+          <option>3</option>
+          <option>4</option>
+          <option>5</option>
+          <option>6</option>
+          <option>7</option>
+          <option>8</option>
+          <option>9</option>
+          <option>10</option>
+        </select>
+        </div>
+    </div>
+    <br> <br>
+    <div class="row_no_pad">
+        2. How fluent is the description?
+    </div>
+    <div class="row_no_pad">
+        <div>
+            <input type="radio" id="5" name="fluency" value="5" required>
+            <label for="5"><strong>5</strong>: Fluent</label>
+        </div>
+    </div>
+    <div class="row_no_pad">
+        <div>
+            <input type="radio" id="4" name="fluency" value="4">
+            <label for="4"><strong>4</strong></label>
+        </div>
+    </div>
+    <div class="row_no_pad">
+        <div>
+            <input type="radio" id="3" name="fluency" value="3">
+            <label for="3"><strong>3</strong>: Slightly ungramatical or unnatural, but understandable</label>
+        </div>
+    </div>
+    <div class="row_no_pad">
+        <div>
+            <input type="radio" id="2" name="fluency" value="2">
+            <label for="2"><strong>2</strong></label>
+        </div>
+    </div>
+    <div class="row_no_pad">
+        <div>
+            <input type="radio" id="1" name="fluency" value="1">
+            <label for="1"><strong>1</strong>: Totally ungramatical or unnatural</label>
+        </div>
+    </div>
     
-    <select name="select an image" style="font-size: large" required>
-      <option value="">(Please select)</option>
-      <option>1</option>
-      <option>2</option>
-      <option>3</option>
-      <option>4</option>
-      <option>5</option>
-      <option>6</option>
-      <option>7</option>
-      <option>8</option>
-      <option>9</option>
-      <option>10</option>
-    </select>
-  </div>
 </crowd-form>
 
 <div id="modal01" class="w3-modal" onclick="this.style.display='none'">
