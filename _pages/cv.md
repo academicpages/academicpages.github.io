@@ -61,7 +61,7 @@ Skills
 * Tools
   * Git, Linux, Docker, AWS/GCP/Azure, Atlassian Stack, Active Directory, Group Policy, VMWare stack, Ansible, LXD/LXC
 * Tools I am Excited to Learn
-  *CI/CD (Jenkins, Travis/CircleCI), Kubernetes, Container Orchestration, Jenkins
+  * CI/CD (Jenkins, Travis/CircleCI), Kubernetes, Container Orchestration, Jenkins
 
 Projects
 ========
