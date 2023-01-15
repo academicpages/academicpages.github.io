@@ -1,8 +1,10 @@
 ---
-layout: archive
-title: "Output"
 permalink: /output/
+excerpt: ""
 author_profile: true
+redirect_from: 
+  - /output/
+  - /output.html
 ---
 
 {% if author.googlescholar %}
