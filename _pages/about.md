@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Postdoctoral Fellow at the University of Copenhagen. My research interests are Macroeconomics, Monetary economics, and Firm Dynamics. 
+I'm a Postdoctoral Fellow at the University of Copenhagen. My research interests are Macroeconomics, Monetary Economics, and Firm Dynamics. 
 
 <!-- ====== -->
 
