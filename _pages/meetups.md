@@ -22,7 +22,7 @@ Past events
 
 | Date | Title | Speaker | RSVP | Content |
 | :---: | :---: | :---: | :---: | :---: |
-| September 28, 2022<br>Wednesday, 4:00 PM (UK) | **Security Implications of Large Language Model Code Assistants** | [Brendan Dolan-Gavitt](https://moyix.net/) | [Slides](/files/2022_9_28_brendan_dolan_gavitt.pdf) [Video](https://www.youtube.com/watch?v=FG1r6KiqBBM) |
+| September 28, 2022<br>Wednesday, 4:00 PM (UK) | **Security Implications of Large Language Model Code Assistants** | [Brendan Dolan-Gavitt](https://moyix.net/) | [lu.ma](https://lu.ma/vi5w46ng) | [Slides](/files/2022_9_28_brendan_dolan_gavitt.pdf) [Video](https://www.youtube.com/watch?v=FG1r6KiqBBM) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | July 7, 2022<br>Thursday, 5:00 PM (UK) | **A Systematic Evaluation of Large Language Models of Code** | [Vincent Hellendoorn](http://vhellendoorn.github.io/) | [lu.ma](https://lu.ma/k21b6ro2) | [Slides](/files/2022_7_7_vincent_hellendoorn.pdf) [Video](https://www.youtube.com/watch?v=Oj_G_BMC6vU) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
