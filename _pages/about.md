@@ -68,6 +68,7 @@ Yongjun Zhang and Siwei Cheng. 2023. "[Multiplex Spatial Segregation of Asian Am
 Yongjun Zhang, Siwei Cheng, Zhi Li, and Wenhao Jiang. 2023. "[Estimating experienced partisan segregation in activity space using large-scale GPS data](https://yongjunzhang.com/files/eps.pdf)." 
 
 Yongjun Zhang and Siwei Cheng. 2023. "[Mobility-based Segregation in U.S. Metropolitan Areas](https://yongjunzhang.com/files/nb_seg.pdf)."
+
 Yongjun Zhang and Jennifer Heerwig. 2023. "[Gender, Race, and Intersectionality in the Political Donations of America's Corporate Elite]()".
 
 Yongjun Zhang, Sijia Liu, Yi Wang, and Xinguang Fan. 2022. ''[Detecting Fake News on Twitter in the Chinese Language Community](https://yongjunzhang.com/files/Fake_News.pdf)."
