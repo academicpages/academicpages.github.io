@@ -1,0 +1,24 @@
+---
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+## Single-sided subduction (SSS): High trench retreat rate & back-arc extension
+
+Models can self-consistently generate a variety of trench retreat rate and induce different extent of extension within a homogeneous and mobile overriding plate.
+This is achieved by verying merely the age/thickness of the subducting slab and overriding plate under a well-constrained rheology setup.
+
+![dualsp-dominant deformation_mechanism](/images/zhibinlei-dualsp-dominant deformation_mechanism.png)
+
+## Dual inward dipping subduction (DIDS) & progressive weakening within the overriding plate
+
+Fixed boundary condition & united upwelling mantle flow can induce progressive weakening within the overriding plate
+
+<div class="image-group">
+  ![zhibinlei-adaptive_mesh-example.gif](/images/zhibinlei-adaptive_mesh-example.gif){width=500px}
+  ![dualsp-dominant deformation_mechanism.png](/images/zhibinlei-dualsp-dominant deformation_mechanism.png){width=500px}
+  ![zhibinlei-dualsp-fixed trench + single sp.png](/images/zhibinlei-dualsp-fixed trench + single sp.png){width=500px}
+</div>
+
+## Inherited lateral lithospheric heterogeneities & localisation of plate weakening
