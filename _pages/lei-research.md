@@ -15,10 +15,21 @@ This is achieved by verying merely the age/thickness of the subducting slab and 
 
 Fixed boundary condition & united upwelling mantle flow can induce progressive weakening within the overriding plate
 
+![zhibinlei-adaptive_mesh-example.gif](/images/zhibinlei-adaptive_mesh-example.gif){width=500px}
+
+![dualsp-dominant deformation_mechanism.png](/images/zhibinlei-dualsp-dominant deformation_mechanism.png){width=500px}
+
+![zhibinlei-dualsp-fixed trench + single sp.png](/images/zhibinlei-dualsp-fixed trench + single sp.png){width=500px}
+
 <div class="image-group">
   ![zhibinlei-adaptive_mesh-example.gif](/images/zhibinlei-adaptive_mesh-example.gif){width=500px}
   ![dualsp-dominant deformation_mechanism.png](/images/zhibinlei-dualsp-dominant deformation_mechanism.png){width=500px}
   ![zhibinlei-dualsp-fixed trench + single sp.png](/images/zhibinlei-dualsp-fixed trench + single sp.png){width=500px}
 </div>
+
+.image-group {
+  display: flex;
+  align-items: center;
+}
 
 ## Inherited lateral lithospheric heterogeneities & localisation of plate weakening
