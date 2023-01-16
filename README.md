@@ -1,5 +1,5 @@
 This is Dr. Zhibin Lei's [academic profile page](zhibinlei.github.io)
-, which is built adapted from "[https://github.com/academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io)" by Stuart Geiger. 
+, which is adapted from "[https://github.com/academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io)" by Stuart Geiger. 
 
 Dr. Zhibin Lei is a geodynamicist who use numerical and analytical methods to understand the interaction between different spheres of the solid Earth, and its impact in reforming the tectonic frameworks & inducing variable deformation patterns observed at the Earth's surface.
 
