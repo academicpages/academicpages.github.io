@@ -15,12 +15,10 @@ This is achieved by verying merely the age/thickness of the subducting slab and 
 
 Fixed boundary condition & united upwelling mantle flow can induce progressive weakening within the overriding plate
 
-:-------------------------:|:-------------------------:
-![zhibinlei-dualsp-model_setup.png](/images/zhibinlei-dualsp-model_setup.png)  |  ![zhibinlei-adaptive_mesh-example.gif](/images/zhibinlei-adaptive_mesh-example.gif)
+![zhibinlei-dualsp-model_setup.png](/images/zhibinlei-dualsp-model_setup.png | width=50%)
+![zhibinlei-adaptive_mesh-example.gif](/images/zhibinlei-adaptive_mesh-example.gif  | width=50%)
 
-![zhibinlei-adaptive_mesh-example.gif](/images/zhibinlei-adaptive_mesh-example.gif)
-
-![dualsp-dominant deformation_mechanism.png](/images/zhibinlei-dualsp-dominant deformation_mechanism.png)
+![dualsp-dominant deformation_mechanism.png](/images/zhibinlei-dualsp-dominant deformation_mechanism.png  | width=50%)
 
 ![zhibinlei-dualsp-fixed trench + single sp.png](/images/zhibinlei-dualsp-fixed trench + single sp.png)
 
