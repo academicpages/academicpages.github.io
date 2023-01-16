@@ -9,7 +9,7 @@ redirect_from:
 ## 1) A computational account of topography in the occipitotemporal cortex via domain-general pressures: 
 Collaborators: [Talia Konkle](http://konklab.fas.harvard.edu/)
 
-* Doshi, F.R., Konkle, T. (2022) *Visual object topographic motifs emerge from self-organization of a unified representational space.* bioRxiv, in press, doi:10.1101/2022.09.06.506403. [link to paper](https://www.biorxiv.org/content/10.1101/2022.09.06.506403v1)
+* Doshi, F.R., Konkle, T. (2022) *Cortical topographic motifs emerge in a self-organized map of object space.* bioRxiv, in press, doi:10.1101/2022.09.06.506403. [link to paper](https://www.biorxiv.org/content/10.1101/2022.09.06.506403v2)
 
 * Doshi, F., & Konkle, T. (2021). *Organizational motifs of cortical responses to objects emerge in topographic projections of deep neural networks*. Journal of Vision, 21(9), 2226-2226. [link](https://jov.arvojournals.org/article.aspx?articleid=2777459) 
 <br />[talk at the Vision Sciences Society 2021 Conference](https://www.youtube.com/watch?v=zZvrIuoxU6Y)
