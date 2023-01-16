@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maura Hegarty / Academic Pag"
+title                    : "Maura Hegarty / Academic Page"
 title_separator          : "-"
 name                     : &name "Maura Hegarty"
 description              : &description "personal description"
