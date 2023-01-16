@@ -1,5 +1,5 @@
 ---
-permalink: /outreach/
+permalink: /outreach
 title: "Outreach"
 excerpt: "Outreach"
 author_profile: true
