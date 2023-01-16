@@ -15,21 +15,17 @@ This is achieved by verying merely the age/thickness of the subducting slab and 
 
 Fixed boundary condition & united upwelling mantle flow can induce progressive weakening within the overriding plate
 
-![zhibinlei-adaptive_mesh-example.gif](/images/zhibinlei-adaptive_mesh-example.gif){width=500px}
+![zhibinlei-adaptive_mesh-example.gif](/images/zhibinlei-adaptive_mesh-example.gif =300px)
 
-![dualsp-dominant deformation_mechanism.png](/images/zhibinlei-dualsp-dominant deformation_mechanism.png){width=500px}
+![dualsp-dominant deformation_mechanism.png](/images/zhibinlei-dualsp-dominant deformation_mechanism.png  =400px)
 
-![zhibinlei-dualsp-fixed trench + single sp.png](/images/zhibinlei-dualsp-fixed trench + single sp.png){width=500px}
+![zhibinlei-dualsp-fixed trench + single sp.png](/images/zhibinlei-dualsp-fixed trench + single sp.png)
 
-<div class="image-group">
-  ![zhibinlei-adaptive_mesh-example.gif](/images/zhibinlei-adaptive_mesh-example.gif){width=500px}
-  ![dualsp-dominant deformation_mechanism.png](/images/zhibinlei-dualsp-dominant deformation_mechanism.png){width=500px}
-  ![zhibinlei-dualsp-fixed trench + single sp.png](/images/zhibinlei-dualsp-fixed trench + single sp.png){width=500px}
-</div>
+![zhibinlei-adaptive_mesh-example.gif](/images/zhibinlei-adaptive_mesh-example.gif =250x250)
 
-.image-group {
-  display: flex;
-  align-items: center;
-}
+![dualsp-dominant deformation_mechanism.png](/images/zhibinlei-dualsp-dominant deformation_mechanism.png =250x250)
+
+![zhibinlei-dualsp-fixed trench + single sp.png](/images/zhibinlei-dualsp-fixed trench + single sp.png =250x250)
+
 
 ## Inherited lateral lithospheric heterogeneities & localisation of plate weakening
