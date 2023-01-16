@@ -1,18 +1,14 @@
 ---
-permalink: /output/
-excerpt: ""
+permalink: /output
+title: "Output"
+excerpt: "Output"
 author_profile: true
 redirect_from: 
   - /output/
   - /output.html
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## 2022
+* **Lei, Z.** (2022). Numerical investigation of the influence of subduction on deformation within the overriding plate. PhD Thesis, Cardiff University. [https://orca.cardiff.ac.uk/id/eprint/152759](https://orca.cardiff.ac.uk/id/eprint/152759)
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Wang, J., Gleeson, M., Smith, W. D., Ma, L., **Lei, Z.**, Shi, G., & Chen, L. (2022). The factors controlling along-arc and across-arc variations of primitive arc magma compositions: A global perspective. Frontiers in Earth Science, 10, 1055255. [https://doi.org/10.3389/feart.2022.1055255](https://doi.org/10.3389/feart.2022.1055255)
