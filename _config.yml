@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Maura Hegarty / Academic Website"
+title                    : "Maura Hegarty / Academic Page"
 title_separator          : "-"
 name                     : &name "Maura Hegarty"
-description              : &description "Graduate Student at MIT"
+description              : &description "ORC Student at MIT"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Maura Hegarty"
   avatar           : "profile.png"
-  bio              : "Graduate Student at MIT"
+  bio              : "My name is Maura, and I am a first-year operations research student at MIT."
   location         : "Cambridge, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
