@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Suchetha Cooray- About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a currently graduate student in the galaxy evolution group (Ω Lab) at Nagoya University, Japan. I am also a Reseach Fellow (DC1) at the Japan Society for the Promotion of Science.
+My recent interests include applying advanced statistical (including machine learning) techniques to astrophysical and cosmological problems with the hope of understanding deeply hidden realities in the Universe.
+
+I am a theoretical astrophysicist trying to understand the multi-scale physics of galaxies by combining sim- ulations and observations with machine learning. Galaxy formation theory will require a thorough understanding of parsec-scale physics like star formation, kiloparsec-scale galaxy evolution physics, and megaparsec-scale cosmological dark matter halo formation physics. I have focused on solving inverse problems in astrophysics with applications in imaging surveys and Faraday tomography during my master's degree. During my doctoral studies, I have shifted the focus to machine learning techniques to understand galaxy evolution and formation.
+
+Contact
+========
+Division of Particle and Astrophysical Science, Nagoya University, 
+Furo-cho, Chikusa-ku, Nagoya 464–8602, Japan
+Email: cooray(AT)nagoya-u.jp* 
+*replace "(AT)" with "@"
+
+<!-- Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=5&user=r8HVLvEAAAAJ
+Researchgate: https://www.researchgate.net/profile/Suchetha_Cooray
+Github: https://github.com/suchethac
+Linkedin: https://www.linkedin.com/in/suchethacooray/ -->
+Omega Lab: https://sites.google.com/site/omegalabnagoya/home
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -47,4 +65,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
