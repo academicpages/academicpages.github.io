@@ -1,11 +1,8 @@
 ---
-permalink: /output
+layout: archive
 title: "Output"
-excerpt: "Output"
+permalink: /output
 author_profile: true
-redirect_from: 
-  - /output/
-  - /output.html
 ---
 
 ## 2022
