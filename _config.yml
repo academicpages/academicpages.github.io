@@ -11,7 +11,7 @@ title                    : "Dongmiao Zhang"
 title_separator          : "-"
 name                     : &name "Dongmiao Zhang"
 description              : &description "Marie Curie research fellow and PhD candidate at Utrecht University"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dongmiaozh.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dongmiaozh/dongmiaozh.github.io
 "
