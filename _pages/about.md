@@ -15,8 +15,8 @@ I am a theoretical astrophysicist trying to understand the multi-scale physics o
 
 Contact
 ========
-Division of Particle and Astrophysical Science, Nagoya University, 
-Furo-cho, Chikusa-ku, Nagoya 464–8602, Japan
+Division of Particle and Astrophysical Science, Nagoya University, \\
+Furo-cho, Chikusa-ku, Nagoya 464–8602, Japan\\
 Email: cooray(AT)nagoya-u.jp* 
 *replace "(AT)" with "@"
 
