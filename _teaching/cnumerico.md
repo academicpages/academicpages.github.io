@@ -24,6 +24,7 @@ Bibliografia
 1. Burden, Richard L. e Faires, J. Douglas, Análise Numérica, Cengage Learning, 2008.
 1. Franco, N. B., Cálculo Numérico, Pearson, 2006.
 1. Ruggiero, Márcia A. Gomes e Lopes, Vera Lúcia da R., Cálculo Numérico: Aspectos Teóricos e Computacionais, 2a Ed., Pearson Education, 1996.
+1. Scherer, C., Métodos Computacionais da Física. 2a Edição. Livraria da Física. 2010.
 1. Sperandio, D., Mendes, J. T., Monken e Silva, L. H., Cálculo Numérico: Características matemáticas e computacionais dos métodos numéricos, Pearson, 2003.
 
 Plano de Curso
