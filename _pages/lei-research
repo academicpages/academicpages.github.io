@@ -9,14 +9,3 @@ author_profile: true
 Models can self-consistently generate a variety of trench retreat rate and induce different extent of extension within a homogeneous and mobile overriding plate.
 This is achieved by verying merely the age/thickness of the subducting slab and overriding plate under a well-constrained rheology setup.
 
-![dualsp-dominant deformation_mechanism](/images/zhibinlei-dualsp-dominant deformation_mechanism.png)
-
-## Dual inward dipping subduction (DIDS) & progressive weakening within the overriding plate
-
-Fixed boundary condition & united upwelling mantle flow can induce progressive weakening within the overriding plate
-
-![zhibinlei-adaptive_mesh-example.gif](/images/zhibinlei-adaptive_mesh-example.gif)
-
-![dualsp-dominant deformation_mechanism](/images/zhibinlei-dualsp-dominant deformation_mechanism.png)
-
-## Inherited lateral lithospheric heterogeneities & localisation of plate weakening 
