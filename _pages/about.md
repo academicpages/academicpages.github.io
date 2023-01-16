@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Suchetha Cooray- About Me"
+title: "Suchetha Cooray - About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,6 +16,7 @@ I am a theoretical astrophysicist trying to understand the multi-scale physics o
 Contact
 ========
 Division of Particle and Astrophysical Science, Nagoya University, \\
+
 Furo-cho, Chikusa-ku, Nagoya 464–8602, Japan\\
 Email: cooray(AT)nagoya-u.jp* 
 *replace "(AT)" with "@"
