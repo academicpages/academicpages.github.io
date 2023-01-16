@@ -1,7 +1,6 @@
 ---
-layout: archive
 title: "Output"
-permalink: /output
+permalink: /output/
 author_profile: true
 ---
 
