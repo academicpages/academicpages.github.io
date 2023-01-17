@@ -12,7 +12,7 @@ Upcoming events
 
 | Date | Title | Speaker | RSVP | Content |
 | :---: | :---: | :---: | :---: | :---: |
-| Jan 17, 2023<br>Tuesday, 3:00 PM (UK) | **Thinking Like a Developer? Comparing the Attention of Humans with Neural Models of Code** | [Michael Pradel](https://software-lab.org/people/Michael_Pradel.html) | [lu.ma](https://lu.ma/vi5w46ng) | t.b.a. |
+| Jan 17, 2023<br>Tuesday, 3:00 PM (UK) | **Thinking Like a Developer? Comparing the Attention of Humans with Neural Models of Code** | [Michael Pradel](https://software-lab.org/people/Michael_Pradel.html) | [lu.ma](https://lu.ma/us1o8niz?tk=1D6y50) | t.b.a. |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 <br>
