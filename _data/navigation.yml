@@ -28,4 +28,4 @@ main:
 
   - title: "Posts"
     url: /posts/
-    exclude: false
+    exclude: true
