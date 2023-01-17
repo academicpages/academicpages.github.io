@@ -5,7 +5,52 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Helllo!
+**NASA/ADS** list can be accessed [here.](
+https://www.google.com/url?q=https%3A%2F%2Fui.adsabs.harvard.edu%2Fsearch%2Ffilter_author_facet_hier_fq_author%3DAND%26filter_author_facet_hier_fq_author%3Dauthor_facet_hier%253A%25220%252FCooray%252C%2520S%2522%26fq%3D%257B!type%253Daqp%2520v%253D%2524fq_author%257D%26fq_author%3D%28author_facet_hier%253A%25220%252FCooray%252C%2520S%2522%29%26q%3Dauthor%253A%2522Cooray%252C%2520Suchetha%2522%26sort%3Ddate%2520desc%252C%2520bibcode%2520desc%26p_%3D0&sa=D&sntz=1&usg=AOvVaw1EFqEit_78D6sCAPNS-WXs)
+
+# First-authored papers
+
+**Cooray, S.**; Takeuchi, T. T.; Kashino, D.; Yoshida, S. A.; Ma, H.;
+Kono, K. T.; *\"Galaxy Manifold: Characterizing and understanding
+galaxies with two parameters\"*, MNRAS, submitted
+([arxiv:2210.05862](https://arxiv.org/abs/2210.05862))
+
+**Cooray, S.**; Takeuchi, T. T.; Ideguchi, S.; Akahori, T.; Miyashita,
+Y.; Takahashi, K.; *\"Wavelets and sparsity for Faraday tomography\"*,
+PASJ, accepted for publication
+([arxiv:2112.01444](https://arxiv.org/abs/2112.01444))
+
+**Cooray, S.**; Takeuchi, T. T.; Akahori, T.; Miyashita, Y.; Ideguchi,
+S.; Takahashi, K.; Ichiki, K.; *\"An Iterative Reconstruction Algorithm
+for Faraday Tomography\"*, MNRAS, 2021, 500, 4, 5129
+
+**Cooray, S.**; Takeuchi, T. T.; Yoda, M.; Sorai, K, *\"A Method for
+Unmasking Incomplete Astronomical Signals: Application to CO Multi-line
+Imaging of Nearby Galaxies Project\"*, 2020, PASJ, 72, 4, 61
+
+
+# Co-authored papers
+
+
+Takeuchi, T. T.; Yoshida, S. A.; Cortese, L.; Wong, O. I.; Cartinella,
+B.; **Cooray, S.**; *\"Estimation of the Star Formation Rate of Galaxies
+with Radio Continuum Obtained with Murchison Widefield Array\"*,
+submitted ([arxiv:2204.00831](https://arxiv.org/abs/2204.00831))
+
+Takeuchi, T. T.; Yata, K.; Aoshima, M.; Ishii, A.; Kono, K. T.;
+Nakanishi, K.; Egashira, K.; **Cooray, S.**; Kohno, K.; *\"High
+Dimensional Statistical Analysis and its Application to ALMA Map of NGC
+253\"*, submitted ([arxiv:2203.04535](https://arxiv.org/abs/2203.04535))
+
+Kono, K. T.; Takeuchi, T. T.; **Cooray, S.**; Nishizawa, A. J.;
+Murakami, K.; *\"A study on the Baryon Acoustic Oscillation with
+Topological Data Analysis\"*, submitted
+([arxiv:2006.02905](https://arxiv.org/abs/2006.02905))
+
+Sorai, K.; \... ; **Cooray, S.**; et. al. , *\"CO Multi-line Imaging of
+Nearby Galaxies (COMING). IV. Overview of the project\"*, 2019, PASJ,
+71, 1, S14
+
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -16,129 +61,3 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-
-**22/12/21**Rironkon Symposium 2022 - Fukushima, Japan: *\"Generative
-Modeling for Galaxy Star Formation Histories\"*
-
-**22/12/12**Observational Cosmology Workshop 2022 - Tokyo, Japan: *\"A
-Data-driven Model of Galaxy Star Formation Histories\"*
-
-**22/10/05**Data Science in Astronomy 2022 - Tokyo, Japan:
-*\"Dimensionality Reduction to Understand Galaxies\"*
-
-**22/09/22**9th East Asian Numerical Astrophysics Meeting - Okinawa,
-Japan: *\"Disentangling galaxy star formation histories\"*
-
-**22/09/15**Autumn Annual Meeting of Astronomical Society of Japan -
-Niigata, Japan: *\"Disentangling the connection between present-day
-galaxies and their star formation histories\"*
-
-**22/09/14**Autumn Annual Meeting of Astronomical Society of Japan -
-Niigata, Japan: *\"Application of machine learning in Faraday
-tomography\"*
-
-**22/03/03**Spring Annual Meeting of Astronomical Society of Japan -
-Online: *\"Reconstructing Galaxy Star Formation History with Present-day
-Galaxy Manifold\"*
-
-**22/03/02**Spring Annual Meeting of Astronomical Society of Japan -
-Online: *\"Wavelets and sparsity for solving the inverse problem in
-Faraday tomography\"*
-
-**22/02/16**First Stars and First Galaxies Workshop 2021 - Tokyo &
-Online: *\"Time Evolution on the Galaxy Manifold\"*
-
-**22/02/08**Galaxy Evolution Workshop 2021 - Tokyo & Online: *\"Galaxy
-Manifold: A Unification of Observed Galaxy Properties\"*
-
-**21/12/11**Sri Lanka Students' Association in Japan Annual Research
-Conference - Online: *\"Unmasking the unseen\"*
-
-**21/12/02**Galactic Star Formation 2021 - Online: *\"Understanding
-Galaxy Evolution through Machine Learning\"*
-
-**21/09/15**Autumn Annual Meeting of Astronomical Society of Japan -
-Online: *\"Understanding Galaxy Evolution through Machine Learning\"*
-
-**21/03/19**SKA Science Conference, "A precursor view of the SKA Sky" -
-Online: *\"An Iterative Reconstruction Algorithm for Faraday
-Tomography\"*
-
-**21/03/18**Spring Annual Meeting of Astronomical Society of Japan -
-Online: *\"Understanding Galaxy Evolution through Machine Learning\"*
-
-**21/02/05**Galaxy Evolution Workshop 2020 - Online: *\"Understanding
-Galaxy Evolution through Machine Learning\"*
-
-**20/12/01**Science at Low Frequencies VII (SALF VII) - Online: *\"An
-Iterative Reconstruction Algorithm for Faraday Tomography\"*
-
-**20/11/18**First Stars and First Galaxies Workshop 2020 - Sendai,
-Japan: *\"Understanding Galaxy Evolution through Machine Learning\"*
-
-**20/11/09**ADASS XXX - Online: *\"An Iterative Reconstruction Algorithm
-for Faraday Tomography\"*
-
-**20/09/14**The Physical Society of Japan, Autumn Meeting 2020 - Online:
-*\"An Iterative Reconstruction Algorithm for Faraday Tomography\"*
-
-**20/09/09**Autumn Annual Meeting of Astronomical Society of Japan -
-Online: *\"Understanding Galaxy Evolution through Machine Learning\"*
-
-**20/06/09**SAZERAC 2020 - Online: *\"Understanding Galaxy Evolution
-through Machine Learning\"*
-
-**20/03/17**Spring Annual Meeting of Astronomical Society of Japan -
-Tsukuba, Japan: *\"Understanding Galaxy Evolution through Machine
-Learning\"*
-
-**19/11/21**SKA-Japan science workshop \"Cosmic Magnetism\" 2019 -
-National Observatory of Japan, Mitaka, Japan: *\"A Reconstruction Method
-for Faraday Tomography in SKA Cosmic Magnetism\"*
-
-**19/11/12**First Stars and Galaxies Workshop - Nagoya University,
-Nagoya, Japan: *\"Understanding Galaxy Evolution through Machine
-Learning\"*
-
-**19/09/13**Autumn Annual Meeting of Astronomical Society of Japan -
-Kumamoto University, Kumamoto, Japan: *\"A Method for Reconstruction of
-Masked Pixels: Application in CO Multi-line Imaging of Nearby Galaxies
-(COMING)\"*
-
-**19/09/05**SKA-Japan Symposium 2019 - National Observatory of Japan,
-Mitaka, Japan: *\"A Reconstruction Method for Faraday Tomography in SKA
-Cosmic Magnetism\"*
-
-**19/05/29**Data Science Methods in Astronomy 2019 - Institute of
-Statistics and Mathematics, Tachikawa, Japan: *\"Data Reconstruction
-Methods in Astrophysics and Cosmology\"*
-
-**18/12/09**Sri Lanka Students' Association in Japan Annual Research
-Conference - Tokyo, Japan: *\"Reconstruction of Masked Astronomical
-Images\"*
-
-**18/12/04**Science at Low Frequencies V (SALF V) - Nagoya, Japan:
-*\"Reconstruction of Masked Images in Radio Observations: Application in
-CO Multi-line Imaging of Nearby Galaxies Project as Nobeyama Radio
-Observatory\"*
-
-**18/11/05**The 8th KIAS Workshop on Cosmology and Structure Formation -
-Seoul, South Korea: *\"An Iterative Data Reconstruction Method for
-Incomplete Measurements in All-Sky Surveys\"*
-
-**18/09/19**Autumn Annual Meeting of Astronomical Society of Japan -
-Himeji, Japan: *\"An Iterative Data Reconstruction Method for Incomplete
-Measurements in All-Sky Surveys\"*
-
-**18/06/06**5th Galaxy Evolution Workshop - Ehime, Japan: *\"An
-Iterative Data Reconstruction Method for Incomplete Measurements in
-All-Sky Surveys\"*
-
-**17/12/10**Sri Lanka Students' Association in Japan Annual Research
-Conference - Tokyo, Japan: *\"Large Scale Mapping of the Nearby Universe
-with Data from Large Galaxy Surveys\"*
-
-**17/06/18**International Conference on Asian Studies - Ottawa, Canada
-*\"Large Scale Mapping of the Nearby Universe with Data from Large
-Galaxy Surveys\"*
-
