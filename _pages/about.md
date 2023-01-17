@@ -15,9 +15,9 @@ My research interests are exploring the mechanism (theory) and operation (practi
 
 * <b>Parameter-Efficient Tuning.</b> Adapting LLMs to downstream tasks incurs a huge computational burden. How can we adapt LLMs to downstream tasks efficiently (with less computational burden)? Driving LLMs with minimal parameters (parameter-efficient tuning) is worth exploring.
 
-* <b>Human-Like Cognitive Abilities.</b> Adapting LLMs to downstream tasks requires task-specific manually annotated data, which needs manual effort involving labeling. How can we acquire task-specific knowledge effectively (without manual effort)? Equipping PLMs with human-like cognitive abilities to leverage open-world information is a promising direction.
+* <b>Human-Like Cognitive Abilities.</b> Adapting LLMs to downstream tasks requires task-specific manually annotated data, which needs manual effort involving labeling. How can we acquire task-specific knowledge effectively (without manual effort)? Equipping LLMs with human-like cognitive abilities to leverage open-world information is a promising direction.
 
-<!--<b>AI4Science.</b> How many human-like capabilities PLMs learn in the pre-training stage remains unknown. To further understand, we develop tools to explore and conduct a series of analyses.-->
+<!--<b>AI4Science.</b> How many human-like capabilities LLMs learn in the pre-training stage remains unknown. To further understand, we develop tools to explore and conduct a series of analyses.-->
 
 
 
@@ -110,7 +110,7 @@ ArXiv. [[pdf]](https://arxiv.org/abs/2203.06904)
 * Reviewer: ACL Rolling 2021
 * Reviewer: EMNLP/ACL/IEEE-TASLP 2021
 -->
-Reviewer: COLING, EMNLP, ACL, ICML, IJCAI
+Reviewer (Since 2021): ACL, EMNLP, COLING, ICLR, ICML, IJCAI
 
 
 
