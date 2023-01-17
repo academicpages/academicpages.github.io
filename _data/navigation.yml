@@ -20,8 +20,12 @@ main:
 
   - title: "Cats-&-Codes"
     url: /cats-and-codes/
-    exclude: false
+    exclude: true
   
   - title: "Gallery"
     url: /gallery/  
     exclude: true
+
+  - title: "Posts"
+    url: /posts/
+    exclude: false
