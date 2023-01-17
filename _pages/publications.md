@@ -6,14 +6,14 @@ author_profile: true
 **Tech reports**  
  * <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b> <br> 
   Zhongyu Li, Chaoqun Li, <b>Xiangde Luo</b>, Yitian Zhou, Jihua Zhu, Cunbao Xu, Meng Yang, Yenan Wu, Yifeng Chen <br> 
-  <i>Submitted to **IEEE Transaction on Medical Imaging** (Under Major Revision, the first three authors contributed equally.) <br>
+  <i>Submitted to **IEEE Transaction on Medical Imaging** (Under Minor Revision, the first three authors contributed equally.) <br>
   [[paper](https://luoxd1996.github.io/)][[code](https://luoxd1996.github.io/)]
     
 **Journals**
  * <b> Deep learning-based accurate and robust delineation of primary gross tumor volumes of nasopharyngeal carcinoma on heterogeneous magnetic resonance imaging: a large-scale and multi-center study</b> <br> 
  <b>Xiangde Luo</b>, Wenjun Liao, Yuan He, Fan Tang, Mengwan Wu, Yuanyuan Shen, Hui Huang, Tao Song, Kang Li, Shichuan Zhang, Shaoting Zhang, Guotai Wang<br> 
  <i>**Radiation and Oncology, Accepted (2023). (2022 IF 6.901).**<br>
-  [[paper]()][[code](https://github.com/Luoxd1996/RobustNPC)]
+  [[paper](https://www.sciencedirect.com/science/article/pii/S016781402300018X)][[code](https://github.com/Luoxd1996/RobustNPC)]
 
  * <b>WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jianghong Xiao, Jieneng Chen, Tao Song, Xiaofan Zhang, Kang Li, Dimitris N. Metaxas, Guotai Wang, Shaoting Zhang<br>
