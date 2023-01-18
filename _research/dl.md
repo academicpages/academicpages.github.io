@@ -29,7 +29,7 @@ For the semantic segmentation part in the two-stage approach we created a keyhol
 <br/>
 
 <figure>
-    <img src='/images/segmentation-inference.png' class="center"> 
+    <img src='/images/new-segmentation-inference.png' class="center"> 
     <figcaption> Segmentation results from test data on different materials and processing conditions.</figcaption>
 </figure>
 
