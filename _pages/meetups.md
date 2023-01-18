@@ -10,17 +10,18 @@ author_profile: true
 Upcoming events
 ====
 
-| Date | Title | Speaker | RSVP | Content |
-| :---: | :---: | :---: | :---: | :---: |
-| Jan 17, 2023<br>Tuesday, 3:00 PM (UK) | **Thinking Like a Developer? Comparing the Attention of Humans with Neural Models of Code** | [Michael Pradel](https://software-lab.org/people/Michael_Pradel.html) | [lu.ma](https://lu.ma/us1o8niz?tk=1D6y50) | t.b.a. |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-
+[comment]: <> (| Date | Title | Speaker | RSVP | Content |)
+[comment]: <> (| :---: | :---: | :---: | :---: | :---: |)
+[comment]: <> (| :---: | :---: | :---: | :---: | :---: | :---: | :---: |)
+t.b.a.
 <br>
 
 Past events
 ====
 
 | Date | Title | Speaker | RSVP | Content |
+| :---: | :---: | :---: | :---: | :---: |
+| Jan 17, 2023<br>Tuesday, 3:00 PM (UK) | **Thinking Like a Developer? Comparing the Attention of Humans with Neural Models of Code** | [Michael Pradel](https://software-lab.org/people/Michael_Pradel.html) | [lu.ma](https://lu.ma/us1o8niz?tk=1D6y50) | [Slides](/files/2023_17_1_michael_pradel.pdf) [Video](https://www.youtube.com/watch?v=XKGV4JnQZJk&t=164s)  |
 | :---: | :---: | :---: | :---: | :---: |
 | September 28, 2022<br>Wednesday, 4:00 PM (UK) | **Security Implications of Large Language Model Code Assistants** | [Brendan Dolan-Gavitt](https://moyix.net/) | [lu.ma](https://lu.ma/vi5w46ng) | [Slides](/files/2022_9_28_brendan_dolan_gavitt.pdf) [Video](https://www.youtube.com/watch?v=FG1r6KiqBBM) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
