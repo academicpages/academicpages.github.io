@@ -1,0 +1,1753 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.313">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>eda_quality</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { color: #008000; } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { color: #008000; font-weight: bold; } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+</style>
+
+
+<script src="eda_quality_files/libs/clipboard/clipboard.min.js"></script>
+<script src="eda_quality_files/libs/quarto-html/quarto.js"></script>
+<script src="eda_quality_files/libs/quarto-html/popper.min.js"></script>
+<script src="eda_quality_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="eda_quality_files/libs/quarto-html/anchor.min.js"></script>
+<link href="eda_quality_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="eda_quality_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="eda_quality_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="eda_quality_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="eda_quality_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.6/require.min.js" integrity="sha512-c3Nl8+7g4LMSTdrm621y7kf9v3SDPnhxLNhcjFJbKECVnmZHTdo+IRO05sNLTH/D3vA6u1X32ehoLC7WFVdheg==" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
+<script src="https://unpkg.com/@jupyter-widgets/html-manager@*/dist/embed-amd.js" crossorigin="anonymous"></script>
+
+
+</head>
+
+<body class="fullcontent">
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+
+<main class="content" id="quarto-document-content">
+
+
+
+<section id="sample-quality-check---durham-police-department-arrest-reports" class="level1">
+<h1><strong>Sample Quality Check - Durham Police Department Arrest Reports</strong></h1>
+<section id="introduction" class="level3">
+<h3 class="anchored" data-anchor-id="introduction">Introduction</h3>
+<p><font color="#FF0000"><em>TBD</em></font><br><br> This document contains sample code and instructions on how to evaluate the conditions of data once it is in a table format based on factors such as accuracy, completeness, consistency, reliability and whether it’s up to date. - <strong>Quality metrics</strong>: - Completenes % (Counts &amp; proportions of NAs) - Which NAs are relevant? Which should we try to impute or delete entirely? - Consistency (Value Counts, search for typos) - How to fix inconsistent categorical values? - Reliability (Perceived vs.&nbsp;Self reported, which values should be consistent?) - Currency (Dates, how old is too old?) - <strong>Summary statistics</strong>: - Mean, min, max for continuous variables, crosstabs for discrete - Cross-comparison counts for discrete categorical variables - <strong>Distributions</strong>: - Histograms for continuous variables - Crosstabs, barplots for discrete categoricals variables</p>
+</section>
+<section id="step-1-load-the-data" class="level3">
+<h3 class="anchored" data-anchor-id="step-1-load-the-data"><strong>Step #1:</strong> Load the data</h3>
+<div class="cell" data-execution_count="5">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Load that data in table format:</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="co"># https://www.practicaldatascience.org/html/pandas_series.html offers a quick tutorial on how to use the Pandas library if you are not familiar.</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="co"># The most common table data format is csv (comma separated values).</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Other common functions you may use to load the data are: pd.read_excel, pd.read_stata.</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="cf">try</span>:</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>    <span class="im">import</span> piplite</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>    <span class="cf">await</span> piplite.install([<span class="st">'ipywidgets'</span>])</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="cf">except</span> <span class="pp">ImportError</span>:</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>    <span class="cf">pass</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> ipywidgets <span class="im">as</span> widgets</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> io</span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>pd.set_option(<span class="st">"display.max_columns"</span>, <span class="dv">500</span>)</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>pd.set_option(<span class="st">"display.max_rows"</span>, <span class="dv">500</span>)</span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a>uploader <span class="op">=</span> widgets.FileUpload()</span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>display(uploader)</span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<script type="application/vnd.jupyter.widget-view+json">
+{"model_id":"ac0957696c734645bc9bb1bd68ed741d","version_major":2,"version_minor":0}
+</script>
+</div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>uploaded_file <span class="op">=</span> uploader.value[<span class="dv">0</span>]</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>pd.read_csv(io.BytesIO(uploaded_file.content),index_col<span class="op">=</span>[<span class="dv">0</span>])</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-execution_count="21">
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="co"># Take a first look:</span></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>pd.set_option(<span class="st">"display.max_rows"</span>, <span class="va">None</span>)</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>numRows <span class="op">=</span> widgets.Dropdown(</span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>    options<span class="op">=</span>[<span class="st">'5'</span>, <span class="st">'10'</span>, <span class="st">'15'</span>, <span class="st">'20'</span>],</span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>    value<span class="op">=</span><span class="st">'5'</span>,</span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>    description<span class="op">=</span><span class="st">'Number:'</span>,</span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>    disabled<span class="op">=</span><span class="va">False</span>,</span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">"Select the number of rows you would like to preview"</span>)</span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a>display(numRows)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>Select the number of rows you would like to preview</code></pre>
+</div>
+<div class="cell-output cell-output-display">
+<script type="application/vnd.jupyter.widget-view+json">
+{"model_id":"bfe9b7ce26f041c5840a06c27a30eaca","version_major":2,"version_minor":0}
+</script>
+</div>
+</div>
+<div class="cell" data-execution_count="20">
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>arrests.sample(<span class="bu">int</span>(numRows.value))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="20">
+
+<div>
+
+<table class="dataframe table table-sm table-striped">
+  <thead>
+    <tr>
+      <th></th>
+      <th>agencyname</th>
+      <th>datetimeofarrest</th>
+      <th>file</th>
+      <th>arrestnumber</th>
+      <th>scars_tattoes_bodymarkings_etc</th>
+      <th>age</th>
+      <th>race</th>
+      <th>sex</th>
+      <th>citizenship</th>
+      <th>skintone</th>
+      <th>height</th>
+      <th>weight</th>
+      <th>haircolor</th>
+      <th>eyecolor</th>
+      <th>armed</th>
+      <th>typeofarrest</th>
+      <th>placeofarrest</th>
+      <th>page_num</th>
+      <th>charges</th>
+      <th>charge_type</th>
+      <th>charge_counts</th>
+      <th>charge_IBRcode</th>
+      <th>charge_statutenumber</th>
+      <th>charge_warrantdate</th>
+      <th>chargenum</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>1085</th>
+      <td>Durham Police Department</td>
+      <td>05/25/2022  07:24</td>
+      <td>00 Raw Data/data/arrests0003110.pdf</td>
+      <td>330704</td>
+      <td>TATT UPPR ARM;  TATT UPPL ARM</td>
+      <td>39</td>
+      <td>B</td>
+      <td>M</td>
+      <td>US</td>
+      <td>Medium</td>
+      <td>5'09</td>
+      <td>170.0</td>
+      <td>Black</td>
+      <td>Brown</td>
+      <td>UNARMED</td>
+      <td>ON VIEW</td>
+      <td>2109 N ROXBORO ST, DURHAM</td>
+      <td>0.0</td>
+      <td>Driving While Impaired</td>
+      <td>Misd</td>
+      <td>1.0</td>
+      <td>90D</td>
+      <td>20-138.1</td>
+      <td>05/25/2022</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>10724</th>
+      <td>Durham Police Department</td>
+      <td>01/21/2019  02:59</td>
+      <td>00 Raw Data/data/arrests0006762.pdf</td>
+      <td>308889</td>
+      <td>SCAR LEFT FOREARM;  SCAR LEFT ABDOMEN</td>
+      <td>35</td>
+      <td>B</td>
+      <td>M</td>
+      <td>US</td>
+      <td>Dark</td>
+      <td>5'10</td>
+      <td>200.0</td>
+      <td>Black</td>
+      <td>Brown</td>
+      <td>UNARMED</td>
+      <td>TAKEN INTO CUSTODY</td>
+      <td>4310 S MIAMI BLVD, DURHAM</td>
+      <td>0.0</td>
+      <td>Larceny (felony)</td>
+      <td>Fel</td>
+      <td>1.0</td>
+      <td>23H</td>
+      <td>14-72(A) F</td>
+      <td>12/20/2018</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>18621</th>
+      <td>Durham Police Department</td>
+      <td>03/01/2022  20:52</td>
+      <td>00 Raw Data/data/arrests0001990.pdf</td>
+      <td>329460</td>
+      <td>NaN</td>
+      <td>54</td>
+      <td>W</td>
+      <td>M</td>
+      <td>EL</td>
+      <td>NaN</td>
+      <td>5'04</td>
+      <td>NaN</td>
+      <td>Black</td>
+      <td>Brown</td>
+      <td>UNARMED</td>
+      <td>ON VIEW</td>
+      <td>1199 E GEER ST/EASTVIEW ST, DURHAM</td>
+      <td>0.0</td>
+      <td>Driving While Impaired</td>
+      <td>Misd</td>
+      <td>1.0</td>
+      <td>90D</td>
+      <td>20-138.1</td>
+      <td>03/01/2022</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>14880</th>
+      <td>Durham Police Department</td>
+      <td>04/07/2022  10:28</td>
+      <td>00 Raw Data/data/arrests0002781.pdf</td>
+      <td>329992</td>
+      <td>NaN</td>
+      <td>56</td>
+      <td>B</td>
+      <td>F</td>
+      <td>US</td>
+      <td>Medium</td>
+      <td>5'05</td>
+      <td>153.0</td>
+      <td>Black</td>
+      <td>Brown</td>
+      <td>UNARMED</td>
+      <td>TAKEN INTO CUSTODY</td>
+      <td>219 S MANGUM ST, DURHAM</td>
+      <td>1.0</td>
+      <td>Obtaining Property By False Pretenses</td>
+      <td>Fel</td>
+      <td>1.0</td>
+      <td>26A</td>
+      <td>14-100</td>
+      <td>06/11/2020</td>
+      <td>17</td>
+    </tr>
+    <tr>
+      <th>3204</th>
+      <td>Durham Police Department</td>
+      <td>09/17/2021  12:32</td>
+      <td>00 Raw Data/data/arrests0001865.pdf</td>
+      <td>326155</td>
+      <td>TATT UPPR ARM;  TATT UPPL ARM</td>
+      <td>60</td>
+      <td>W</td>
+      <td>M</td>
+      <td>US</td>
+      <td>Light</td>
+      <td>5'09</td>
+      <td>160.0</td>
+      <td>Brown</td>
+      <td>Brown</td>
+      <td>UNARMED</td>
+      <td>ON VIEW</td>
+      <td>999 N GUTHRIE AVE/FISKE ST, DURHAM</td>
+      <td>0.0</td>
+      <td>Possession Of Drug Paraphernalia</td>
+      <td>Misd</td>
+      <td>1.0</td>
+      <td>35B</td>
+      <td>90-113.22</td>
+      <td>09/17/2021</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>15039</th>
+      <td>Durham Police Department</td>
+      <td>04/07/2022  10:28</td>
+      <td>00 Raw Data/data/arrests0002781.pdf</td>
+      <td>329992</td>
+      <td>NaN</td>
+      <td>56</td>
+      <td>B</td>
+      <td>F</td>
+      <td>US</td>
+      <td>Medium</td>
+      <td>5'05</td>
+      <td>153.0</td>
+      <td>Black</td>
+      <td>Brown</td>
+      <td>UNARMED</td>
+      <td>TAKEN INTO CUSTODY</td>
+      <td>219 S MANGUM ST, DURHAM</td>
+      <td>2.0</td>
+      <td>Forgery Or Possess CounterfeitInstruments</td>
+      <td>Fel</td>
+      <td>1.0</td>
+      <td>250</td>
+      <td>14-119(A)</td>
+      <td>06/11/2020</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <th>3083</th>
+      <td>Durham Police Department</td>
+      <td>02/19/2021  21:57</td>
+      <td>00 Raw Data/data/arrests0005269.pdf</td>
+      <td>322147</td>
+      <td>NaN</td>
+      <td>56</td>
+      <td>B</td>
+      <td>M</td>
+      <td>US</td>
+      <td>Dark</td>
+      <td>5'06</td>
+      <td>185.0</td>
+      <td>Black</td>
+      <td>Brown</td>
+      <td>UNARMED</td>
+      <td>SUMMONED/CITED</td>
+      <td>1525 GLENN SCHOOL RD, DURHAM</td>
+      <td>0.0</td>
+      <td>Larceny (misdemeanor)</td>
+      <td>Misd</td>
+      <td>1.0</td>
+      <td>23H</td>
+      <td>14-72(A) M</td>
+      <td>02/19/2021</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>27312</th>
+      <td>Durham Police Department</td>
+      <td>12/05/2018  21:42</td>
+      <td>00 Raw Data/data/arrests0007240.pdf</td>
+      <td>308068</td>
+      <td>NaN</td>
+      <td>29</td>
+      <td>B</td>
+      <td>F</td>
+      <td>US</td>
+      <td>Light</td>
+      <td>5'03</td>
+      <td>98.0</td>
+      <td>Brown</td>
+      <td>Brown</td>
+      <td>UNARMED</td>
+      <td>ON VIEW</td>
+      <td>2918 ROCHELLE ST - A4, DURHAM</td>
+      <td>0.0</td>
+      <td>Simple Assault &amp; Battery Or Affray</td>
+      <td>Misd</td>
+      <td>1.0</td>
+      <td>13B</td>
+      <td>14-33(A)</td>
+      <td>12/05/2018</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>6614</th>
+      <td>Durham Police Department</td>
+      <td>10/14/2020  15:49</td>
+      <td>00 Raw Data/missing/arrests0001467.pdf</td>
+      <td>320379</td>
+      <td>NaN</td>
+      <td>22</td>
+      <td>B</td>
+      <td>M</td>
+      <td>US</td>
+      <td>Dark</td>
+      <td>6'03</td>
+      <td>120.0</td>
+      <td>Black</td>
+      <td>Brown</td>
+      <td>UNARMED</td>
+      <td>TAKEN INTO CUSTODY</td>
+      <td>3019 E WEAVER ST, DURHAM</td>
+      <td>0.0</td>
+      <td>Fail To Appear-release Order</td>
+      <td>Misd</td>
+      <td>1.0</td>
+      <td>90Z</td>
+      <td>15A-305(B)(2)</td>
+      <td>10/13/2020</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>5851</th>
+      <td>Durham Police Department</td>
+      <td>09/09/2020  16:06</td>
+      <td>00 Raw Data/missing/arrests0001468.pdf</td>
+      <td>319872</td>
+      <td>SCAR LEFT HAND</td>
+      <td>54</td>
+      <td>B</td>
+      <td>M</td>
+      <td>US</td>
+      <td>Dark</td>
+      <td>6'03</td>
+      <td>180.0</td>
+      <td>Black</td>
+      <td>Brown</td>
+      <td>UNARMED</td>
+      <td>SUMMONED/CITED</td>
+      <td>1525 GLENN SCHOOL RD, DURHAM</td>
+      <td>0.0</td>
+      <td>Trespass (second Degree)</td>
+      <td>Misd</td>
+      <td>1.0</td>
+      <td>90J</td>
+      <td>14-159.13</td>
+      <td>09/09/2020</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>11193</th>
+      <td>Durham Police Department</td>
+      <td>11/25/2019  16:43</td>
+      <td>00 Raw Data/data/arrests0011406.pdf</td>
+      <td>315385</td>
+      <td>NaN</td>
+      <td>22</td>
+      <td>B</td>
+      <td>M</td>
+      <td>US</td>
+      <td>Medium</td>
+      <td>5'07</td>
+      <td>130.0</td>
+      <td>Black</td>
+      <td>Brown</td>
+      <td>UNARMED</td>
+      <td>TAKEN INTO CUSTODY</td>
+      <td>219 S MANGUM ST, DURHAM</td>
+      <td>1.0</td>
+      <td>Obtaining Property By False Pretenses</td>
+      <td>Fel</td>
+      <td>1.0</td>
+      <td>26A</td>
+      <td>14-100</td>
+      <td>11/15/2019</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <th>7203</th>
+      <td>Durham Police Department</td>
+      <td>03/28/2022  09:13</td>
+      <td>00 Raw Data/data/arrests0003095.pdf</td>
+      <td>329858</td>
+      <td>NaN</td>
+      <td>36</td>
+      <td>W</td>
+      <td>M</td>
+      <td>US</td>
+      <td>Fair</td>
+      <td>5'07</td>
+      <td>140.0</td>
+      <td>Black</td>
+      <td>Brown</td>
+      <td>UNARMED</td>
+      <td>SUMMONED/CITED</td>
+      <td>3454 HILLSBOROUGH RD - 308, DURHAM</td>
+      <td>0.0</td>
+      <td>Trespass (second Degree)</td>
+      <td>Misd</td>
+      <td>1.0</td>
+      <td>90J</td>
+      <td>14-159.13</td>
+      <td>03/28/2022</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>20264</th>
+      <td>Durham Police Department</td>
+      <td>05/01/2021  22:29</td>
+      <td>00 Raw Data/data/arrests0006183.pdf</td>
+      <td>324170</td>
+      <td>NaN</td>
+      <td>35</td>
+      <td>W</td>
+      <td>M</td>
+      <td>HD</td>
+      <td>Olive</td>
+      <td>5'05</td>
+      <td>200.0</td>
+      <td>Black</td>
+      <td>Brown</td>
+      <td>UNARMED</td>
+      <td>ON VIEW</td>
+      <td>1099 S ROXBORO ST/E ENTERPRISE ST, DURHAM</td>
+      <td>0.0</td>
+      <td>Drive While License Revoked Not Impaired RevBased</td>
+      <td>Misd</td>
+      <td>1.0</td>
+      <td>9914</td>
+      <td>20-28(A)</td>
+      <td>05/01/2021</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <th>19039</th>
+      <td>Durham Police Department</td>
+      <td>01/19/2019  10:44</td>
+      <td>00 Raw Data/data/arrests0006802.pdf</td>
+      <td>308869</td>
+      <td>TATT UPP  CHEST / GISELLE</td>
+      <td>22</td>
+      <td>B</td>
+      <td>F</td>
+      <td>US</td>
+      <td>Medium</td>
+      <td>5'02</td>
+      <td>128.0</td>
+      <td>Brown</td>
+      <td>Brown</td>
+      <td>UNARMED</td>
+      <td>TAKEN INTO CUSTODY</td>
+      <td>219 S MANGUM ST, DURHAM</td>
+      <td>0.0</td>
+      <td>Obtaining Property By False Pretenses</td>
+      <td>Fel</td>
+      <td>1.0</td>
+      <td>26A</td>
+      <td>14-100</td>
+      <td>08/15/2018</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <th>2910</th>
+      <td>Durham Police Department</td>
+      <td>11/27/2021  09:07</td>
+      <td>00 Raw Data/data/arrests0000689.pdf</td>
+      <td>327202</td>
+      <td>TATT RIGH SHO</td>
+      <td>39</td>
+      <td>B</td>
+      <td>M</td>
+      <td>US</td>
+      <td>Medium</td>
+      <td>5'11</td>
+      <td>185.0</td>
+      <td>Black</td>
+      <td>Brown</td>
+      <td>HANDGUN</td>
+      <td>ON VIEW</td>
+      <td>100 GRANDVIEW FOREST DR, DURHAM</td>
+      <td>0.0</td>
+      <td>Possessing Stolen Goods</td>
+      <td>Fel</td>
+      <td>1.0</td>
+      <td>280</td>
+      <td>14-71.1</td>
+      <td>11/27/2021</td>
+      <td>4</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+<section id="step-2-which-type-of-data-do-we-have" class="level3">
+<h3 class="anchored" data-anchor-id="step-2-which-type-of-data-do-we-have"><strong>Step #2:</strong> Which type of data do we have?</h3>
+<p>Typically, police records inform of interactions between the police and a civilian. The first step in measuring the quality of your dataset is finding out which type of data you have. As you understand the types of fields you have, define the unit of observation. Think of what does one row in your table represent.<br> In this example, one row is one police charge. However, there is a hiwerarchy. All charge to the same person on one police interaction are under the same “case” which is identifiable by an “arrest number”. Keep in mind this hierarchy is important to understand how police interacts with individual people.</p>
+<div class="cell" data-execution_count="85">
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Check the names of the columns and verify agains the provided Metadata document which information is relevant to analysis you may wish to perform</span></span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>arrests.columns</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="85">
+<pre><code>Index(['agencyname', 'datetimeofarrest', 'file', 'arrestnumber',
+       'scars_tattoes_bodymarkings_etc', 'age', 'race', 'sex', 'citizenship',
+       'skintone', 'height', 'weight', 'haircolor', 'eyecolor', 'armed',
+       'typeofarrest', 'placeofarrest', 'page_num', 'charges', 'charge_type',
+       'charge_counts', 'charge_IBRcode', 'charge_statutenumber',
+       'charge_warrantdate', 'chargenum'],
+      dtype='object')</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="86">
+<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Look for unique identifiers to find the level of granularity of your data:</span></span>
+<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a><span class="co"># If there are no unique columns are</span></span>
+<span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a>arrests[</span>
+<span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a>    <span class="st">"arrestnumber"</span></span>
+<span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a>].is_unique  <span class="co"># for example: arrest number is not unique for each offense, but it is unique for a case</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="86">
+<pre><code>False</code></pre>
+</div>
+</div>
+</section>
+<section id="step-3-measure-data-quality-completeness-currency-reliability-consistency" class="level3">
+<h3 class="anchored" data-anchor-id="step-3-measure-data-quality-completeness-currency-reliability-consistency"><strong>Step #3:</strong> Measure data quality (completeness, currency, reliability &amp; consistency)</h3>
+<p>The completeness of fields in your dataset will determine if you can conduct conclusive analysis. For example, one column <em>“scars_tattoes_bodymarkings_etc”</em> has missing values in most rows. In this example, there are 2 posibilities: (1) This information is often forgotten or impossible to collect by the police. (2) A missing value means there absence of visible “scars, tattoes or bodymarkings”.<br> In any case, this column is probably not an important feature to study racial and gender biases, so we can ignore or drop it from the dataset.</p>
+<div class="cell" data-execution_count="87">
+<div class="sourceCode cell-code" id="cb10"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Measure data completeness and data types:</span></span>
+<span id="cb10-2"><a href="#cb10-2" aria-hidden="true" tabindex="-1"></a><span class="kw">def</span> missing_zero_values_table(df):</span>
+<span id="cb10-3"><a href="#cb10-3" aria-hidden="true" tabindex="-1"></a>    zero_val <span class="op">=</span> (df <span class="op">==</span> <span class="fl">0.00</span>).astype(<span class="bu">int</span>).<span class="bu">sum</span>(axis<span class="op">=</span><span class="dv">0</span>)</span>
+<span id="cb10-4"><a href="#cb10-4" aria-hidden="true" tabindex="-1"></a>    mis_val <span class="op">=</span> df.isnull().<span class="bu">sum</span>()</span>
+<span id="cb10-5"><a href="#cb10-5" aria-hidden="true" tabindex="-1"></a>    mis_val_percent <span class="op">=</span> <span class="dv">100</span> <span class="op">*</span> df.isnull().<span class="bu">sum</span>() <span class="op">/</span> <span class="bu">len</span>(df)</span>
+<span id="cb10-6"><a href="#cb10-6" aria-hidden="true" tabindex="-1"></a>    mz_table <span class="op">=</span> pd.concat([zero_val, mis_val, mis_val_percent], axis<span class="op">=</span><span class="dv">1</span>)</span>
+<span id="cb10-7"><a href="#cb10-7" aria-hidden="true" tabindex="-1"></a>    mz_table <span class="op">=</span> mz_table.rename(</span>
+<span id="cb10-8"><a href="#cb10-8" aria-hidden="true" tabindex="-1"></a>        columns<span class="op">=</span>{<span class="dv">0</span>: <span class="st">"Zero Values"</span>, <span class="dv">1</span>: <span class="st">"Missing Values"</span>, <span class="dv">2</span>: <span class="st">"</span><span class="sc">% o</span><span class="st">f Total Values"</span>}</span>
+<span id="cb10-9"><a href="#cb10-9" aria-hidden="true" tabindex="-1"></a>    )</span>
+<span id="cb10-10"><a href="#cb10-10" aria-hidden="true" tabindex="-1"></a>    mz_table[<span class="st">"Total Zero Missing Values"</span>] <span class="op">=</span> (</span>
+<span id="cb10-11"><a href="#cb10-11" aria-hidden="true" tabindex="-1"></a>        mz_table[<span class="st">"Zero Values"</span>] <span class="op">+</span> mz_table[<span class="st">"Missing Values"</span>]</span>
+<span id="cb10-12"><a href="#cb10-12" aria-hidden="true" tabindex="-1"></a>    )</span>
+<span id="cb10-13"><a href="#cb10-13" aria-hidden="true" tabindex="-1"></a>    mz_table[<span class="st">"% Total Zero Missing Values"</span>] <span class="op">=</span> (</span>
+<span id="cb10-14"><a href="#cb10-14" aria-hidden="true" tabindex="-1"></a>        <span class="dv">100</span> <span class="op">*</span> mz_table[<span class="st">"Total Zero Missing Values"</span>] <span class="op">/</span> <span class="bu">len</span>(df)</span>
+<span id="cb10-15"><a href="#cb10-15" aria-hidden="true" tabindex="-1"></a>    )</span>
+<span id="cb10-16"><a href="#cb10-16" aria-hidden="true" tabindex="-1"></a>    mz_table[<span class="st">"Data Type"</span>] <span class="op">=</span> df.dtypes</span>
+<span id="cb10-17"><a href="#cb10-17" aria-hidden="true" tabindex="-1"></a>    mz_table <span class="op">=</span> (</span>
+<span id="cb10-18"><a href="#cb10-18" aria-hidden="true" tabindex="-1"></a>        mz_table[mz_table.iloc[:, <span class="dv">1</span>] <span class="op">!=</span> <span class="dv">0</span>]</span>
+<span id="cb10-19"><a href="#cb10-19" aria-hidden="true" tabindex="-1"></a>        .sort_values(<span class="st">"</span><span class="sc">% o</span><span class="st">f Total Values"</span>, ascending<span class="op">=</span><span class="va">False</span>)</span>
+<span id="cb10-20"><a href="#cb10-20" aria-hidden="true" tabindex="-1"></a>        .<span class="bu">round</span>(<span class="dv">1</span>)</span>
+<span id="cb10-21"><a href="#cb10-21" aria-hidden="true" tabindex="-1"></a>    )</span>
+<span id="cb10-22"><a href="#cb10-22" aria-hidden="true" tabindex="-1"></a>    <span class="bu">print</span>(</span>
+<span id="cb10-23"><a href="#cb10-23" aria-hidden="true" tabindex="-1"></a>        <span class="st">"Your selected dataframe has "</span></span>
+<span id="cb10-24"><a href="#cb10-24" aria-hidden="true" tabindex="-1"></a>        <span class="op">+</span> <span class="bu">str</span>(df.shape[<span class="dv">1</span>])</span>
+<span id="cb10-25"><a href="#cb10-25" aria-hidden="true" tabindex="-1"></a>        <span class="op">+</span> <span class="st">" columns and "</span></span>
+<span id="cb10-26"><a href="#cb10-26" aria-hidden="true" tabindex="-1"></a>        <span class="op">+</span> <span class="bu">str</span>(df.shape[<span class="dv">0</span>])</span>
+<span id="cb10-27"><a href="#cb10-27" aria-hidden="true" tabindex="-1"></a>        <span class="op">+</span> <span class="st">" Rows.</span><span class="ch">\n</span><span class="st">"</span></span>
+<span id="cb10-28"><a href="#cb10-28" aria-hidden="true" tabindex="-1"></a>        <span class="st">"There are "</span> <span class="op">+</span> <span class="bu">str</span>(mz_table.shape[<span class="dv">0</span>]) <span class="op">+</span> <span class="st">" columns that have missing values."</span></span>
+<span id="cb10-29"><a href="#cb10-29" aria-hidden="true" tabindex="-1"></a>    )</span>
+<span id="cb10-30"><a href="#cb10-30" aria-hidden="true" tabindex="-1"></a>    <span class="co">#         mz_table.to_excel('D:/sampledata/missing_and_zero_values.xlsx', freeze_panes=(1,0), index = False)</span></span>
+<span id="cb10-31"><a href="#cb10-31" aria-hidden="true" tabindex="-1"></a>    <span class="cf">return</span> mz_table</span>
+<span id="cb10-32"><a href="#cb10-32" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-33"><a href="#cb10-33" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb10-34"><a href="#cb10-34" aria-hidden="true" tabindex="-1"></a>missing_zero_values_table(arrests)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>Your selected dataframe has 25 columns and 27526 Rows.
+There are 7 columns that have missing values.</code></pre>
+</div>
+<div class="cell-output cell-output-display" data-execution_count="87">
+
+<div>
+
+<table class="dataframe table table-sm table-striped">
+  <thead>
+    <tr>
+      <th></th>
+      <th>Zero Values</th>
+      <th>Missing Values</th>
+      <th>% of Total Values</th>
+      <th>Total Zero Missing Values</th>
+      <th>% Total Zero Missing Values</th>
+      <th>Data Type</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>scars_tattoes_bodymarkings_etc</th>
+      <td>0</td>
+      <td>16049</td>
+      <td>58.3</td>
+      <td>16049</td>
+      <td>58.3</td>
+      <td>object</td>
+    </tr>
+    <tr>
+      <th>skintone</th>
+      <td>0</td>
+      <td>2285</td>
+      <td>8.3</td>
+      <td>2285</td>
+      <td>8.3</td>
+      <td>object</td>
+    </tr>
+    <tr>
+      <th>weight</th>
+      <td>0</td>
+      <td>2158</td>
+      <td>7.8</td>
+      <td>2158</td>
+      <td>7.8</td>
+      <td>float64</td>
+    </tr>
+    <tr>
+      <th>citizenship</th>
+      <td>0</td>
+      <td>914</td>
+      <td>3.3</td>
+      <td>914</td>
+      <td>3.3</td>
+      <td>object</td>
+    </tr>
+    <tr>
+      <th>eyecolor</th>
+      <td>0</td>
+      <td>827</td>
+      <td>3.0</td>
+      <td>827</td>
+      <td>3.0</td>
+      <td>object</td>
+    </tr>
+    <tr>
+      <th>haircolor</th>
+      <td>0</td>
+      <td>690</td>
+      <td>2.5</td>
+      <td>690</td>
+      <td>2.5</td>
+      <td>object</td>
+    </tr>
+    <tr>
+      <th>armed</th>
+      <td>0</td>
+      <td>26</td>
+      <td>0.1</td>
+      <td>26</td>
+      <td>0.1</td>
+      <td>object</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="cell" data-execution_count="88">
+<div class="sourceCode cell-code" id="cb12"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Fix data types:</span></span>
+<span id="cb12-2"><a href="#cb12-2" aria-hidden="true" tabindex="-1"></a><span class="co"># For example, change date columns to "datetime" type:</span></span>
+<span id="cb12-3"><a href="#cb12-3" aria-hidden="true" tabindex="-1"></a>arrests[<span class="st">"datetimeofarrest"</span>] <span class="op">=</span> pd.to_datetime(</span>
+<span id="cb12-4"><a href="#cb12-4" aria-hidden="true" tabindex="-1"></a>    arrests[<span class="st">"datetimeofarrest"</span>], infer_datetime_format<span class="op">=</span><span class="va">True</span></span>
+<span id="cb12-5"><a href="#cb12-5" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb12-6"><a href="#cb12-6" aria-hidden="true" tabindex="-1"></a>arrests[<span class="st">"year"</span>] <span class="op">=</span> arrests[<span class="st">"datetimeofarrest"</span>].dt.strftime(<span class="st">"%Y"</span>)</span>
+<span id="cb12-7"><a href="#cb12-7" aria-hidden="true" tabindex="-1"></a>arrests.sample(<span class="dv">5</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="88">
+
+<div>
+
+<table class="dataframe table table-sm table-striped">
+  <thead>
+    <tr>
+      <th></th>
+      <th>agencyname</th>
+      <th>datetimeofarrest</th>
+      <th>file</th>
+      <th>arrestnumber</th>
+      <th>scars_tattoes_bodymarkings_etc</th>
+      <th>age</th>
+      <th>race</th>
+      <th>sex</th>
+      <th>citizenship</th>
+      <th>skintone</th>
+      <th>height</th>
+      <th>weight</th>
+      <th>haircolor</th>
+      <th>eyecolor</th>
+      <th>armed</th>
+      <th>typeofarrest</th>
+      <th>placeofarrest</th>
+      <th>page_num</th>
+      <th>charges</th>
+      <th>charge_type</th>
+      <th>charge_counts</th>
+      <th>charge_IBRcode</th>
+      <th>charge_statutenumber</th>
+      <th>charge_warrantdate</th>
+      <th>chargenum</th>
+      <th>year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>24829</th>
+      <td>Durham Police Department</td>
+      <td>2022-01-15 01:20:00</td>
+      <td>00 Raw Data/data/arrests0000008.pdf</td>
+      <td>327760</td>
+      <td>NaN</td>
+      <td>32</td>
+      <td>W</td>
+      <td>F</td>
+      <td>US</td>
+      <td>Light</td>
+      <td>5'06</td>
+      <td>170.0</td>
+      <td>Brown</td>
+      <td>Brown</td>
+      <td>UNARMED</td>
+      <td>ON VIEW</td>
+      <td>3105 TOWER BLVD - 207, DURHAM</td>
+      <td>0.0</td>
+      <td>Simple Assault &amp; Battery Or Affray</td>
+      <td>Misd</td>
+      <td>1.0</td>
+      <td>13B</td>
+      <td>14-33(A)</td>
+      <td>01/15/2022</td>
+      <td>1</td>
+      <td>2022</td>
+    </tr>
+    <tr>
+      <th>26821</th>
+      <td>Durham Police Department</td>
+      <td>2021-12-27 03:08:00</td>
+      <td>00 Raw Data/data/arrests0000277.pdf</td>
+      <td>327548</td>
+      <td>NaN</td>
+      <td>54</td>
+      <td>B</td>
+      <td>F</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>5'03</td>
+      <td>160.0</td>
+      <td>NaN</td>
+      <td>NaN</td>
+      <td>UNARMED</td>
+      <td>SUMMONED/CITED</td>
+      <td>720 S LASALLE ST, DURHAM</td>
+      <td>0.0</td>
+      <td>Driving While Impaired</td>
+      <td>Misd</td>
+      <td>1.0</td>
+      <td>90D</td>
+      <td>20-138.1</td>
+      <td>12/27/2021</td>
+      <td>2</td>
+      <td>2021</td>
+    </tr>
+    <tr>
+      <th>21739</th>
+      <td>Durham Police Department</td>
+      <td>2020-06-10 08:42:00</td>
+      <td>00 Raw Data/data/arrests0012266.pdf</td>
+      <td>318683</td>
+      <td>NaN</td>
+      <td>55</td>
+      <td>W</td>
+      <td>M</td>
+      <td>XX</td>
+      <td>Olive</td>
+      <td>5'05</td>
+      <td>140.0</td>
+      <td>Black</td>
+      <td>Brown</td>
+      <td>UNARMED</td>
+      <td>TAKEN INTO CUSTODY</td>
+      <td>1399 HOLLOWAY ST/PARK AVE, DURHAM</td>
+      <td>0.0</td>
+      <td>Uttering A Forged Instrument</td>
+      <td>Fel</td>
+      <td>1.0</td>
+      <td>250</td>
+      <td>14-120</td>
+      <td>08/31/2018</td>
+      <td>2</td>
+      <td>2020</td>
+    </tr>
+    <tr>
+      <th>17403</th>
+      <td>Durham Police Department</td>
+      <td>2020-05-12 11:54:00</td>
+      <td>00 Raw Data/data/arrests0011573.pdf</td>
+      <td>318218</td>
+      <td>TATT LEFT HAND / "T MONEY"</td>
+      <td>25</td>
+      <td>B</td>
+      <td>M</td>
+      <td>US</td>
+      <td>Dark</td>
+      <td>5'08</td>
+      <td>150.0</td>
+      <td>Black</td>
+      <td>Brown</td>
+      <td>UNARMED</td>
+      <td>TAKEN INTO CUSTODY</td>
+      <td>219 S MANGUM ST, DURHAM</td>
+      <td>0.0</td>
+      <td>True Bill Of Indictment</td>
+      <td>Fel</td>
+      <td>1.0</td>
+      <td>90Z</td>
+      <td>15A-305(B)(1)</td>
+      <td>03/17/2020</td>
+      <td>1</td>
+      <td>2020</td>
+    </tr>
+    <tr>
+      <th>14333</th>
+      <td>Durham Police Department</td>
+      <td>2018-11-11 13:20:00</td>
+      <td>00 Raw Data/data/arrests0007688.pdf</td>
+      <td>307647</td>
+      <td>NaN</td>
+      <td>38</td>
+      <td>B</td>
+      <td>F</td>
+      <td>US</td>
+      <td>Medium</td>
+      <td>5'06</td>
+      <td>140.0</td>
+      <td>Black</td>
+      <td>Brown</td>
+      <td>UNARMED</td>
+      <td>TAKEN INTO CUSTODY</td>
+      <td>917 LIBERTY ST, DURHAM</td>
+      <td>0.0</td>
+      <td>Possession Of Drug Paraphernalia</td>
+      <td>Misd</td>
+      <td>1.0</td>
+      <td>35B</td>
+      <td>90-113.22</td>
+      <td>09/11/2018</td>
+      <td>1</td>
+      <td>2018</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="cell" data-execution_count="89">
+<div class="sourceCode cell-code" id="cb13"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Another way to check for missing values is looking at trends</span></span>
+<span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a><span class="co"># Lets look at # of cases:</span></span>
+<span id="cb13-3"><a href="#cb13-3" aria-hidden="true" tabindex="-1"></a>arrests[<span class="st">"case_counts"</span>] <span class="op">=</span> <span class="dv">1</span></span>
+<span id="cb13-4"><a href="#cb13-4" aria-hidden="true" tabindex="-1"></a>cases <span class="op">=</span> arrests[[<span class="st">"case_counts"</span>, <span class="st">"year"</span>]].groupby(by<span class="op">=</span>[<span class="st">"year"</span>]).<span class="bu">sum</span>().reset_index()</span>
+<span id="cb13-5"><a href="#cb13-5" aria-hidden="true" tabindex="-1"></a><span class="co"># cases.year.value_counts().plot(kind= 'bar',figsize=(16,8), title="Count of offenses per year")</span></span>
+<span id="cb13-6"><a href="#cb13-6" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(arrests[<span class="st">'datetimeofarrest'</span>].describe(datetime_is_numeric<span class="op">=</span><span class="va">True</span>))</span>
+<span id="cb13-7"><a href="#cb13-7" aria-hidden="true" tabindex="-1"></a>cases.plot(kind<span class="op">=</span><span class="st">"bar"</span>, figsize<span class="op">=</span>(<span class="dv">16</span>, <span class="dv">8</span>), title<span class="op">=</span><span class="st">"Count of Cases per year"</span>, x<span class="op">=</span><span class="st">"year"</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>count                            27526
+mean     2020-08-22 22:00:17.993896704
+min                2018-10-01 07:47:00
+25%                2019-09-13 04:48:30
+50%                2020-07-26 13:37:00
+75%                2021-08-16 22:52:00
+max                2022-05-31 22:36:00
+Name: datetimeofarrest, dtype: object</code></pre>
+</div>
+<div class="cell-output cell-output-display" data-execution_count="89">
+<pre><code>&lt;AxesSubplot:title={'center':'Count of Cases per year'}, xlabel='year'&gt;</code></pre>
+</div>
+<div class="cell-output cell-output-display">
+<p><img src="eda_quality_files/figure-html/cell-10-output-3.png" class="img-fluid"></p>
+</div>
+</div>
+<p><strong>Note:</strong> <em>Data collection for this data set started with cases from Octobe 2018, the most recent case is from the last day of May in 2022. With this information we can say there are no unexpected trends in the count of cases per year.</em> <br> Categorical values can be checked for correctness based on how consistent are categories.</p>
+<div class="cell" data-execution_count="90">
+<div class="sourceCode cell-code" id="cb16"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a><span class="co"># To check for consistency of categorical values, use ".value_counts()" in each categorical column</span></span>
+<span id="cb16-2"><a href="#cb16-2" aria-hidden="true" tabindex="-1"></a><span class="co"># Think of the possible categories of that column and if there are possible typos, change the type</span></span>
+<span id="cb16-3"><a href="#cb16-3" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">"</span><span class="ch">\n</span><span class="st">Skin Tone:"</span>)</span>
+<span id="cb16-4"><a href="#cb16-4" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(arrests[<span class="st">'skintone'</span>].value_counts())</span>
+<span id="cb16-5"><a href="#cb16-5" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">"</span><span class="ch">\n</span><span class="st">Race:"</span>)</span>
+<span id="cb16-6"><a href="#cb16-6" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(arrests[<span class="st">'race'</span>].value_counts())</span>
+<span id="cb16-7"><a href="#cb16-7" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">"</span><span class="ch">\n</span><span class="st">Type of Arrest:"</span>)</span>
+<span id="cb16-8"><a href="#cb16-8" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(arrests[<span class="st">'typeofarrest'</span>].value_counts())</span>
+<span id="cb16-9"><a href="#cb16-9" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="st">"</span><span class="ch">\n</span><span class="st">Charge Type:"</span>)</span>
+<span id="cb16-10"><a href="#cb16-10" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(arrests[<span class="st">'charge_type'</span>].value_counts())</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>
+Skin Tone:
+Medium     11707
+Dark        5937
+Light       3508
+Fair        2257
+Black       1017
+Olive        755
+Other         32
+Unknown       16
+Ruddy          9
+Albino         2
+Yellow         1
+Name: skintone, dtype: int64
+
+Race:
+B    21381
+W     5942
+A       99
+U       53
+I       51
+Name: race, dtype: int64
+
+Type of Arrest:
+TAKEN INTO CUSTODY    13216
+ON VIEW               10964
+SUMMONED/CITED         3346
+Name: typeofarrest, dtype: int64
+
+Charge Type:
+Misd    18715
+Fel      8809
+I           1
+2           1
+Name: charge_type, dtype: int64</code></pre>
+</div>
+</div>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb18"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb18-1"><a href="#cb18-1" aria-hidden="true" tabindex="-1"></a><span class="co"># For practical purposes, we can combine skin tones "fair" and "light", we can also get rid of Yellow since there is only one. Ruddy?</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<div class="cell" data-execution_count="91">
+<div class="sourceCode cell-code" id="cb19"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb19-1"><a href="#cb19-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Lets examine the non-conforming categories in the "charge_type" column:</span></span>
+<span id="cb19-2"><a href="#cb19-2" aria-hidden="true" tabindex="-1"></a>arrests.loc[arrests[<span class="st">'charge_type'</span>]<span class="op">==</span><span class="st">'I'</span>]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="91">
+
+<div>
+
+<table class="dataframe table table-sm table-striped">
+  <thead>
+    <tr>
+      <th></th>
+      <th>agencyname</th>
+      <th>datetimeofarrest</th>
+      <th>file</th>
+      <th>arrestnumber</th>
+      <th>scars_tattoes_bodymarkings_etc</th>
+      <th>age</th>
+      <th>race</th>
+      <th>sex</th>
+      <th>citizenship</th>
+      <th>skintone</th>
+      <th>height</th>
+      <th>weight</th>
+      <th>haircolor</th>
+      <th>eyecolor</th>
+      <th>armed</th>
+      <th>typeofarrest</th>
+      <th>placeofarrest</th>
+      <th>page_num</th>
+      <th>charges</th>
+      <th>charge_type</th>
+      <th>charge_counts</th>
+      <th>charge_IBRcode</th>
+      <th>charge_statutenumber</th>
+      <th>charge_warrantdate</th>
+      <th>chargenum</th>
+      <th>year</th>
+      <th>case_counts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>6444</th>
+      <td>Durham Police Department</td>
+      <td>2022-03-27 13:23:00</td>
+      <td>00 Raw Data/data/arrests0003131.pdf</td>
+      <td>329847</td>
+      <td>NaN</td>
+      <td>19</td>
+      <td>B</td>
+      <td>M</td>
+      <td>US</td>
+      <td>Dark</td>
+      <td>5'05</td>
+      <td>135.0</td>
+      <td>Black</td>
+      <td>Brown</td>
+      <td>UNARMED</td>
+      <td>TAKEN INTO CUSTODY</td>
+      <td>3643 N ROXBORO ST, DURHAM</td>
+      <td>0.0</td>
+      <td>Speeding - Failure To Reduce To Avoid Accident</td>
+      <td>I</td>
+      <td>1.0</td>
+      <td>9914</td>
+      <td>20-141(M)</td>
+      <td>03/27/2022</td>
+      <td>3</td>
+      <td>2022</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="cell" data-execution_count="98">
+<div class="sourceCode cell-code" id="cb20"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb20-1"><a href="#cb20-1" aria-hidden="true" tabindex="-1"></a><span class="co"># One option is to look at which type of charge is often given to the charge in question</span></span>
+<span id="cb20-2"><a href="#cb20-2" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(arrests.loc[arrests[<span class="st">'charges'</span>]<span class="op">==</span><span class="st">'Speeding - Failure To Reduce To Avoid Accident'</span>, <span class="st">'charge_type'</span>].value_counts())</span>
+<span id="cb20-3"><a href="#cb20-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb20-4"><a href="#cb20-4" aria-hidden="true" tabindex="-1"></a><span class="co">#Here we can see that this charge is always a misdemeanor, except for that one potential typo. To fix it, use:</span></span>
+<span id="cb20-5"><a href="#cb20-5" aria-hidden="true" tabindex="-1"></a>arrests.loc[arrests[<span class="st">'charge_type'</span>]<span class="op">==</span><span class="st">'I'</span>, <span class="st">'charge_type'</span>]<span class="op">=</span><span class="st">'Misd'</span></span>
+<span id="cb20-6"><a href="#cb20-6" aria-hidden="true" tabindex="-1"></a>arrests.loc[arrests[<span class="st">'charge_type'</span>]<span class="op">==</span><span class="st">'2'</span>, <span class="st">'charge_type'</span>]<span class="op">=</span><span class="st">'Misd'</span> </span>
+<span id="cb20-7"><a href="#cb20-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb20-8"><a href="#cb20-8" aria-hidden="true" tabindex="-1"></a><span class="co"># Done! (do the same for the other potential typo)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>Misd    18
+Name: charge_type, dtype: int64</code></pre>
+</div>
+</div>
+<p><font color="#FF0000"><em>Write about considerations regarding preceived vs.&nbsp;actual demographics, add maybe thresholds… <br>(How old is too old?, how incomplete is too incomplete? )</em></font><br><br></p>
+</section>
+<section id="step-4-compute-summary-statistics" class="level3">
+<h3 class="anchored" data-anchor-id="step-4-compute-summary-statistics"><strong>Step #4:</strong> Compute Summary Statistics</h3>
+<p>Numerical fields can be summarized using quantiles, mean and median.<br> Categorical fields can be summarized using tables.<br></p>
+<div class="cell" data-execution_count="93">
+<div class="sourceCode cell-code" id="cb22"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb22-1"><a href="#cb22-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Numerical Variables</span></span>
+<span id="cb22-2"><a href="#cb22-2" aria-hidden="true" tabindex="-1"></a>arrests[<span class="st">'age'</span>].describe() </span>
+<span id="cb22-3"><a href="#cb22-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb22-4"><a href="#cb22-4" aria-hidden="true" tabindex="-1"></a><span class="co"># the mean age of the arrested population between October 2018 and June 2022 is 34 years. </span></span>
+<span id="cb22-5"><a href="#cb22-5" aria-hidden="true" tabindex="-1"></a><span class="co"># Age max value is 92 and the minimum is 0. Lets investigate the 0 age rows</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="93">
+<pre><code>count    27526.000000
+mean        34.193817
+std         11.901175
+min          0.000000
+25%         25.000000
+50%         31.000000
+75%         42.000000
+max         92.000000
+Name: age, dtype: float64</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="94">
+<div class="sourceCode cell-code" id="cb24"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb24-1"><a href="#cb24-1" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(<span class="bu">len</span>(arrests.loc[arrests[<span class="st">'age'</span>]<span class="op">==</span><span class="dv">0</span>]))</span>
+<span id="cb24-2"><a href="#cb24-2" aria-hidden="true" tabindex="-1"></a>arrests.loc[arrests[<span class="st">'age'</span>]<span class="op">&lt;</span><span class="dv">18</span>] <span class="co"># these could be typos. </span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>6</code></pre>
+</div>
+<div class="cell-output cell-output-display" data-execution_count="94">
+
+<div>
+
+<table class="dataframe table table-sm table-striped">
+  <thead>
+    <tr>
+      <th></th>
+      <th>agencyname</th>
+      <th>datetimeofarrest</th>
+      <th>file</th>
+      <th>arrestnumber</th>
+      <th>scars_tattoes_bodymarkings_etc</th>
+      <th>age</th>
+      <th>race</th>
+      <th>sex</th>
+      <th>citizenship</th>
+      <th>skintone</th>
+      <th>height</th>
+      <th>weight</th>
+      <th>haircolor</th>
+      <th>eyecolor</th>
+      <th>armed</th>
+      <th>typeofarrest</th>
+      <th>placeofarrest</th>
+      <th>page_num</th>
+      <th>charges</th>
+      <th>charge_type</th>
+      <th>charge_counts</th>
+      <th>charge_IBRcode</th>
+      <th>charge_statutenumber</th>
+      <th>charge_warrantdate</th>
+      <th>chargenum</th>
+      <th>year</th>
+      <th>case_counts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>5657</th>
+      <td>Durham Police Department</td>
+      <td>2021-09-22 22:13:00</td>
+      <td>00 Raw Data/data/arrests0001774.pdf</td>
+      <td>326227</td>
+      <td>TATT ALL  NECK / BABY BOY;  TATT      NECK; PI...</td>
+      <td>0</td>
+      <td>B</td>
+      <td>M</td>
+      <td>US</td>
+      <td>Medium</td>
+      <td>5'08</td>
+      <td>155.0</td>
+      <td>Black</td>
+      <td>Brown</td>
+      <td>UNARMED</td>
+      <td>TAKEN INTO CUSTODY</td>
+      <td>4815 S SINGING WOODS PL, DURHAM</td>
+      <td>0.0</td>
+      <td>Assault On Female</td>
+      <td>Misd</td>
+      <td>1.0</td>
+      <td>13B</td>
+      <td>14-33(C2)</td>
+      <td>09/20/2021</td>
+      <td>1</td>
+      <td>2021</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>6243</th>
+      <td>Durham Police Department</td>
+      <td>2020-04-30 16:00:00</td>
+      <td>00 Raw Data/data/arrests0013640.pdf</td>
+      <td>318045</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>B</td>
+      <td>F</td>
+      <td>US</td>
+      <td>Unknown</td>
+      <td>5'06</td>
+      <td>140.0</td>
+      <td>Unknown/Bald</td>
+      <td>Unknown</td>
+      <td>UNARMED</td>
+      <td>ON VIEW</td>
+      <td>3825 S ROXBORO ST, DURHAM</td>
+      <td>0.0</td>
+      <td>Larceny (misdemeanor)</td>
+      <td>Misd</td>
+      <td>1.0</td>
+      <td>23H</td>
+      <td>14-72(A) M</td>
+      <td>04/30/2020</td>
+      <td>1</td>
+      <td>2020</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>6244</th>
+      <td>Durham Police Department</td>
+      <td>2020-04-30 16:00:00</td>
+      <td>00 Raw Data/data/arrests0013640.pdf</td>
+      <td>318045</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>B</td>
+      <td>F</td>
+      <td>US</td>
+      <td>Unknown</td>
+      <td>5'06</td>
+      <td>140.0</td>
+      <td>Unknown/Bald</td>
+      <td>Unknown</td>
+      <td>UNARMED</td>
+      <td>ON VIEW</td>
+      <td>3825 S ROXBORO ST, DURHAM</td>
+      <td>0.0</td>
+      <td>Resist Delay Obstruct Public Officer</td>
+      <td>Misd</td>
+      <td>1.0</td>
+      <td>90Z</td>
+      <td>14-223</td>
+      <td>04/30/2020</td>
+      <td>2</td>
+      <td>2020</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>6245</th>
+      <td>Durham Police Department</td>
+      <td>2020-05-13 03:06:00</td>
+      <td>00 Raw Data/data/arrests0011418.pdf</td>
+      <td>318227</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>B</td>
+      <td>F</td>
+      <td>US</td>
+      <td>Unknown</td>
+      <td>5'06</td>
+      <td>140.0</td>
+      <td>Unknown/Bald</td>
+      <td>Unknown</td>
+      <td>UNARMED</td>
+      <td>ON VIEW</td>
+      <td>1002 N ALSTON AVE, DURHAM</td>
+      <td>0.0</td>
+      <td>Possessing Stolen Goods</td>
+      <td>Fel</td>
+      <td>1.0</td>
+      <td>280</td>
+      <td>14-71.1</td>
+      <td>05/13/2020</td>
+      <td>1</td>
+      <td>2020</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>20258</th>
+      <td>Durham Police Department</td>
+      <td>2022-02-17 15:08:00</td>
+      <td>00 Raw Data/data/arrests0004535.pdf</td>
+      <td>328253</td>
+      <td>NaN</td>
+      <td>0</td>
+      <td>W</td>
+      <td>M</td>
+      <td>HD</td>
+      <td>Medium</td>
+      <td>5'08</td>
+      <td>200.0</td>
+      <td>Black</td>
+      <td>Brown</td>
+      <td>UNARMED</td>
+      <td>ON VIEW</td>
+      <td>1525 GLENN SCHOOL RD, DURHAM</td>
+      <td>0.0</td>
+      <td>Shoplifting</td>
+      <td>Misd</td>
+      <td>1.0</td>
+      <td>23C</td>
+      <td>14-72.1</td>
+      <td>02/17/2022</td>
+      <td>1</td>
+      <td>2022</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <th>26980</th>
+      <td>Durham Police Department</td>
+      <td>2020-02-27 14:44:00</td>
+      <td>00 Raw Data/data/arrests0009112.pdf</td>
+      <td>317336</td>
+      <td>TATT RIGH CHEST / EMPTY FIVE POINT STAR; TATT ...</td>
+      <td>0</td>
+      <td>B</td>
+      <td>M</td>
+      <td>US</td>
+      <td>Medium</td>
+      <td>6'00</td>
+      <td>175.0</td>
+      <td>Black</td>
+      <td>Brown</td>
+      <td>UNARMED</td>
+      <td>TAKEN INTO CUSTODY</td>
+      <td>322 JUNCTION RD, DURHAM</td>
+      <td>0.0</td>
+      <td>Warrant Service For Other Jurisdiction</td>
+      <td>Misd</td>
+      <td>1.0</td>
+      <td>9910</td>
+      <td>WARR</td>
+      <td>02/26/2020</td>
+      <td>1</td>
+      <td>2020</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+<p>Missing values can be imputed using the mean age or just dropped from the dataset if there are not that many. In this case, there are only 6 rows with an age value that is less than 18.</p>
+<div class="cell" data-execution_count="95">
+<div class="sourceCode cell-code" id="cb26"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb26-1"><a href="#cb26-1" aria-hidden="true" tabindex="-1"></a>arrests[<span class="st">'charge_counts'</span>].describe()</span>
+<span id="cb26-2"><a href="#cb26-2" aria-hidden="true" tabindex="-1"></a><span class="co"># The charge counts tells how many charges were made in one arrest instance or case. The mean, max and min values seem reasonable.</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="95">
+<pre><code>count    27526.000000
+mean         1.076546
+std          0.526283
+min          1.000000
+25%          1.000000
+50%          1.000000
+75%          1.000000
+max         19.000000
+Name: charge_counts, dtype: float64</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="104">
+<div class="sourceCode cell-code" id="cb28"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Categorical Variables: First, we may want to look at overall counts of offenses for each categorical variable of interest</span></span>
+<span id="cb28-2"><a href="#cb28-2" aria-hidden="true" tabindex="-1"></a><span class="co"># In this example, we will use race and sex as our categorical variable of interests</span></span>
+<span id="cb28-3"><a href="#cb28-3" aria-hidden="true" tabindex="-1"></a>arrests[<span class="st">'race'</span>].value_counts()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="104">
+<pre><code>B    21381
+W     5942
+A       99
+U       53
+I       51
+Name: race, dtype: int64</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="105">
+<div class="sourceCode cell-code" id="cb30"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb30-1"><a href="#cb30-1" aria-hidden="true" tabindex="-1"></a>arrests[<span class="st">'sex'</span>].value_counts()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="105">
+<pre><code>M    21318
+F     6208
+Name: sex, dtype: int64</code></pre>
+</div>
+</div>
+<div class="cell" data-execution_count="101">
+<div class="sourceCode cell-code" id="cb32"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb32-1"><a href="#cb32-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Categorical Variables: We want to see how these variables relate to race and gender</span></span>
+<span id="cb32-2"><a href="#cb32-2" aria-hidden="true" tabindex="-1"></a>pd.crosstab(index<span class="op">=</span>arrests[<span class="st">'charge_type'</span>], columns<span class="op">=</span>arrests[<span class="st">'race'</span>])</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="101">
+
+<div>
+
+<table class="dataframe table table-sm table-striped">
+  <thead>
+    <tr>
+      <th>race</th>
+      <th>A</th>
+      <th>B</th>
+      <th>I</th>
+      <th>U</th>
+      <th>W</th>
+    </tr>
+    <tr>
+      <th>charge_type</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Fel</th>
+      <td>26</td>
+      <td>7241</td>
+      <td>17</td>
+      <td>7</td>
+      <td>1518</td>
+    </tr>
+    <tr>
+      <th>Misd</th>
+      <td>73</td>
+      <td>14140</td>
+      <td>34</td>
+      <td>46</td>
+      <td>4424</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="cell" data-execution_count="102">
+<div class="sourceCode cell-code" id="cb33"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb33-1"><a href="#cb33-1" aria-hidden="true" tabindex="-1"></a>pd.crosstab(index<span class="op">=</span>arrests[<span class="st">'charge_type'</span>], columns<span class="op">=</span>arrests[<span class="st">'sex'</span>])</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="102">
+
+<div>
+
+<table class="dataframe table table-sm table-striped">
+  <thead>
+    <tr>
+      <th>sex</th>
+      <th>F</th>
+      <th>M</th>
+    </tr>
+    <tr>
+      <th>charge_type</th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Fel</th>
+      <td>1948</td>
+      <td>6861</td>
+    </tr>
+    <tr>
+      <th>Misd</th>
+      <td>4260</td>
+      <td>14457</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="cell" data-execution_count="109">
+<div class="sourceCode cell-code" id="cb34"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb34-1"><a href="#cb34-1" aria-hidden="true" tabindex="-1"></a>pd.crosstab(index<span class="op">=</span>arrests[<span class="st">'charge_type'</span>], columns<span class="op">=</span>arrests[<span class="st">'skintone'</span>])</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display" data-execution_count="109">
+
+<div>
+
+<table class="dataframe table table-sm table-striped">
+  <thead>
+    <tr>
+      <th>skintone</th>
+      <th>Albino</th>
+      <th>Black</th>
+      <th>Dark</th>
+      <th>Fair</th>
+      <th>Light</th>
+      <th>Medium</th>
+      <th>Olive</th>
+      <th>Other</th>
+      <th>Ruddy</th>
+      <th>Unknown</th>
+      <th>Yellow</th>
+    </tr>
+    <tr>
+      <th>charge_type</th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Fel</th>
+      <td>0</td>
+      <td>313</td>
+      <td>1817</td>
+      <td>638</td>
+      <td>1040</td>
+      <td>4205</td>
+      <td>159</td>
+      <td>13</td>
+      <td>2</td>
+      <td>3</td>
+      <td>0</td>
+    </tr>
+    <tr>
+      <th>Misd</th>
+      <td>2</td>
+      <td>704</td>
+      <td>4120</td>
+      <td>1619</td>
+      <td>2468</td>
+      <td>7502</td>
+      <td>596</td>
+      <td>19</td>
+      <td>7</td>
+      <td>13</td>
+      <td>1</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+<p>We can go be even more specific in our comparisons: <strong>How much more often are specific combinations of sex and gender getting a more severe charge (felony vs.&nbsp;misdemeanor) for <em>the same exact charge</em>?</strong></p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb35"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb35-1"><a href="#cb35-1" aria-hidden="true" tabindex="-1"></a><span class="co"># For practicality in this example and because the population of Durham is less diverse, we will reduce our dataset to only black and white defendants</span></span>
+<span id="cb35-2"><a href="#cb35-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb35-3"><a href="#cb35-3" aria-hidden="true" tabindex="-1"></a><span class="co"># Create a sex-race interacton field</span></span>
+<span id="cb35-4"><a href="#cb35-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb35-5"><a href="#cb35-5" aria-hidden="true" tabindex="-1"></a><span class="co"># Find a specific charge that can be both felony and misdemeanor</span></span>
+<span id="cb35-6"><a href="#cb35-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb35-7"><a href="#cb35-7" aria-hidden="true" tabindex="-1"></a><span class="co"># Look at the difference (this of course ignorse prior record, which may explain the difference)</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</section>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
