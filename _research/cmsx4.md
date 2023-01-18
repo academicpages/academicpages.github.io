@@ -12,7 +12,7 @@ High weld speeds and low powers minimize the amount of stray grains and maximize
 <br/>
 
 <figure>
-    <img src='/images/cmsx4-ebsd.png' class="center"> 
+    <img src='/images/cmsx4_ebsd.png' class="center"> 
     <figcaption> Crystal orientations in solidified melt pools processed by various laser power and velocity conditions. </figcaption>
 </figure>
 
