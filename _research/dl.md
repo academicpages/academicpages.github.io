@@ -1,7 +1,7 @@
 ---
 title: "Deep Learning Approaches for real-time laser sorption prediction"
 excerpt: "The quantification of the amount of absorbed light is essential for understanding laser-material interactions and melt pool dynamics in order to minimize defects in additively manufactured metal components. The geometry of a vapor depression, also known as a keyhole, in melt pools formed during laser melting is closely related to laser absorptivity. This relationship has been observed by the state-of-the-art in situ high speed synchrotron x-ray visualization and integrating sphere radiometry. These two techniques create a temporally resolved dataset consisting of keyhole images and the corresponding laser absorptivity. It is then possible to use deep learning techniques to predict absorption for keyhole x-ray images, reducing dependence on costly direct experimental measurements and multi-physics modeling. <br/><img src='/images/abs-dataset.png'>"
-permalink: /research/dl-absorption
+permalink: /research/dl-absorption/
 date: 2023-01-17
 collection: research
 ---
