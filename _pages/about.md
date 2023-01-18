@@ -10,9 +10,9 @@ redirect_from:
 
 ## Currently
 
-I am a PhD Candidate in the Chemical and System Biology Department at Stanford. I am  working on my thesis in the laboratory of Stephen Quake. We aim to develop new technological approaches that solve fundamental and medical problems of interest. 
+I am a PhD Candidate in the Chemical and System Biology Department at Stanford. I am  working on my thesis in the laboratory of Stephen Quake. We aim to develop new technological approaches that solve problems of scientific and medical interest. 
 
-I am particularly interested in understanding the dynamics of the immune system and the application of this knowledge towards creating better cell-based therapies.
+I am particularly interested in understanding the dynamics of the immune system and working towards creating better cell-based therapies.
 
 
 ## Previously
