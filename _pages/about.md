@@ -17,15 +17,16 @@ Previously, I graduated from the [Indian Institute of Technology Kharagpur](http
 Preprints
 ====
 
-**Multi-Agent Active Search using Detection and Location Uncertainty**\
-Arundhati Banerjee, Ramina Ghods, Jeff Schneider, 2022. | [arxiv](https://arxiv.org/abs/2203.04524)
-
 **Cost Aware Asynchronous Multi-Agent Active Search**\
 Arundhati Banerjee, Ramina Ghods, Jeff Schneider, 2021.  | [arxiv](https://arxiv.org/abs/2210.02259)
 
 
 Publications 
 ====
+
+**Multi-Agent Active Search using Detection and Location Uncertainty**\
+Arundhati Banerjee, Ramina Ghods, Jeff Schneider\
+ICRA 2023. | [arxiv](https://arxiv.org/abs/2203.04524)
 
 **Decentralized Multi-Agent Active Search for Sparse Signals**\
 Ramina Ghods, Arundhati Banerjee, Jeff Schneider\
