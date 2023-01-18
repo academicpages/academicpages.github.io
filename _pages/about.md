@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- I am a fourth year PhD student in the [Machine Learning Department](https://www.ml.cmu.edu) at Carnegie Mellon University, advised by [Prof. Jeff Schneider](https://www.cs.cmu.edu/~schneide/). My research interests broadly include reinforcement learning and bayesian optimization. My current research involves developing active decision making algorithms in multi-agent systems for robotics search and tracking applications under realistic sensing, communication and resource considerations. <!--while modeling motion and detection uncertainty. -->
+ I am a PhD student in the [Machine Learning Department](https://www.ml.cmu.edu) at Carnegie Mellon University, advised by [Prof. Jeff Schneider](https://www.cs.cmu.edu/~schneide/). My research interests broadly include reinforcement learning and sequential decision making. My current research involves developing active decision making algorithms in multi-agent systems for robotics search and tracking applications under realistic sensing, communication and resource considerations. <!--while modeling motion and detection uncertainty. -->
  
 Recently, I enjoyed working on [reinforcement learning for mechanism design](https://www.salesforceairesearch.com/projects/the-ai-economist) as a research intern at Salesforce.  
 
@@ -62,6 +62,13 @@ Carnegie Mellon University, Spring 2022
 **Introduction to Machine Learning (10-701)**\
 *Teaching Assistant*\
 Carnegie Mellon University, Spring 2021
+
+Service
+====
+
+Reviewer for ICLR 2023, ICRA 2023
+
+Mentored students as part of the CMU Undergrad AI Mentoring Program 2021, 2022
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
