@@ -16,8 +16,10 @@ Galaxies through Dimensionality Reduction\"*
 **21/10/12** NECO Collaboration Teletalk - Online: *\"Observing
 Magnetism with Faraday Tomography\"*
 
+\\
+\\
 
-# Conference & Workshop talks
+## Conference & Workshop talks
 
 **22/12/21** Rironkon Symposium 2022 - Fukushima, Japan: *\"Generative
 Modeling for Galaxy Star Formation Histories\"*
