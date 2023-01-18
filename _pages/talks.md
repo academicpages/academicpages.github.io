@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-# Invited Talks
+## Invited Talks
 
 **22/12/13** IPMU Astro Lunch Seminar - Tokyo: *\"Machine Learning-based
 Approach to Understanding Galaxies\"*
@@ -16,8 +16,8 @@ Galaxies through Dimensionality Reduction\"*
 **21/10/12** NECO Collaboration Teletalk - Online: *\"Observing
 Magnetism with Faraday Tomography\"*
 
-\\
-\\
+
+
 
 ## Conference & Workshop talks
 
