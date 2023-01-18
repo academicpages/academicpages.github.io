@@ -19,11 +19,16 @@ Education
 Awards
 ======
 * [ICTIR 2021](https://ictir2021.org/awards/) [ <i class="fa fa-trophy" aria-hidden="true"> Best Student Paper Award </i> ]
-* [SIGIR 2021 Top10 authors (unofficial)](https://groups.cs.umass.edu/zamani/2021/04/29/sigir-2021-stats/): Based on normalized full paper count [ Rank #3 ]
-* [2021 DIGIX GLOBAL AI CHALLENGE](https://developer.huawei.com/consumer/en/activity/digixActivity/digixWinnersDetail/201621219634131423): 
-Search rankings in multimodal and multilingual contexts. [ <b>Champion</b><span role="image" aria-label="🥇" style="font-family:&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;,NotoColorEmoji,&quot;Noto Color Emoji&quot;,&quot;Segoe UI Symbol&quot;,&quot;Android Emoji&quot;,EmojiSymbols;line-height:1em;font-size:1em">🥇</span> ]
+  * Effective and Privacy-preserving Federated Online Learning to Rank
+* [SIGIR 2021 Top10 authors (unofficial)](https://groups.cs.umass.edu/zamani/2021/04/29/sigir-2021-stats/) [ Rank #3 ]
+  * Based on normalized full paper count.
+* [2021 DIGIX GLOBAL AI CHALLENGE](https://developer.huawei.com/consumer/en/activity/digixActivity/digixWinnersDetail/201621219634131423) [ <b>Champion</b><span role="image" aria-label="🥇" style="font-family:&quot;Apple Color Emoji&quot;,&quot;Segoe UI Emoji&quot;,NotoColorEmoji,&quot;Noto Color Emoji&quot;,&quot;Segoe UI Symbol&quot;,&quot;Android Emoji&quot;,EmojiSymbols;line-height:1em;font-size:1em">🥇</span> ]
+  * Search rankings in multimodal and multilingual contexts. 
+  * Team leader, US$30,000 prize. 
 * [SIGIR 2022](https://sigir.org/sigir2022/program/best-paper-awards/) [ <i class="fa fa-trophy" aria-hidden="true"> Best Paper Honorable Mention Award </i> ]
+  * Reduce, Reuse, Recycle: Green Information Retrieval Researchs
 * [ADCS 2022](http://adcs-conference.org/2022/index.html) [ <i class="fa fa-trophy" aria-hidden="true"> Best Paper Award </i> ]
+  * Robustness of Neural Rankers to Typos: A Comparative Study
 
 
 Teaching
