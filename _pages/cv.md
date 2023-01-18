@@ -76,7 +76,9 @@ Graduate Coursework
 17-683: Data Structures for Application Programmers\
 11-601: Coding Boot Camp\
 17-637: Web Application Development\
-17-514: Principles of Software System Construction
+17-514: Principles of Software System Construction\
+17-645: Machine Learning in Production (Spring 2023)\
+16-824: Visual Learning and Recognition (Spring 2023)
 
 (Materials Science)\
 27-709: Engineering Biomaterials\
