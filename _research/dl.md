@@ -12,8 +12,8 @@ The quantification of the amount of absorbed light is essential for understandin
 <br />
 
 <figure>
-    <img src='/images/experiment_setup.png' class="center"> 
-    <figcaption> Schematic of combined integrating sphere and high-speed synchrotron x-ray imaging setup at 32-ID-B at the Advanced Photon Source (APS) at Argonne National Laboratory. Figure was adapted from my collaborator Brian Simonds' paper entitled [The causal relationship between melt pool geometry and energy absorption measured in real time during laser-based manufacturing] (https://www.sciencedirect.com/science/article/abs/pii/S2352940721001141)
+    <img src='/images/new_exp_setup.png' class="center"> 
+    <figcaption> Schematic of combined integrating sphere and high-speed synchrotron x-ray imaging setup at 32-ID-B at the Advanced Photon Source (APS) at Argonne National Laboratory. Figure was adapted from my collaborator Brian Simonds' paper entitled *The causal relationship between melt pool geometry and energy absorption measured in real time during laser-based manufacturing*.
     </figcaption>
 </figure>
 
