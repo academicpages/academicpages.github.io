@@ -1,11 +1,12 @@
 ---
+layout: archive
 permalink: /research/
 title: "Research"
 excerpt: "Research"
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
+# redirect_from: 
+#   - /research/
+#   - /research.html
 ---
 
 ### This page is under construction. Please go to this [site](https://sites.google.com/view/suchethac)
