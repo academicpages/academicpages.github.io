@@ -1,6 +1,6 @@
 ---
 title: "Mitigating stray grains in laser-melting of CMSX-4 single crystal superalloy"
-excerpt: "High weld speeds and low powers minimize the amount of stray grains and maximize the epitaxial single crystal growth in traditional laser welding process. We extends the analytical solidification modeling applied in welding to laser melting with conditions representative of laser powder bed fusion (LPBF) additive manufacturing (AM) process. LPBF features higher laser powers and lower scanning speeds compared with welding which shows a potential to further decrease the amount of stray grains and therefore print single crystal components. <br/><img src='/images/cmsx4_ebsd.png'>"
+excerpt: "High weld speeds and low powers minimize the amount of stray grains and maximize the epitaxial single crystal growth in traditional laser welding process. We extends the analytical solidification modeling applied in welding to laser melting with conditions representative of laser powder bed fusion (LPBF) additive manufacturing (AM) process. LPBF features higher laser powers and lower scanning speeds compared with welding which shows a potential to further decrease the amount of stray grains and therefore print single crystal components. <br/><img src='/images/new_cmsx4_ebsd.png'>"
 permalink: /research/cmsx4/
 date: 2022-12-23
 collection: research
