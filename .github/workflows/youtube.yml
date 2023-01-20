@@ -1,9 +1,6 @@
 name: YouTube Playlist
 on:
-  schedule:
-    # Runs every hour, on the hour
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    workflow_dispatch:
 
 jobs:
   update-readme-with-youtube:
