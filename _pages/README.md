@@ -4,6 +4,7 @@ title: "Posts"
 permalink: /README/
 author_profile: false
 --- 
+{% include base_path %}
 
 # 📑 [Blog posts](https://medium.com/@avra42)
 <!-- BLOG-POST-LIST:START -->
