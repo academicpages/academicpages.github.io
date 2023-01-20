@@ -27,5 +27,5 @@ main:
     exclude: true
 
   - title: "Posts"
-    url: /README/
+    url: /posts/
     exclude: false
