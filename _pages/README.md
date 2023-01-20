@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Posts"
-permalink: /README/
+permalink: /posts/
 author_profile: false
 --- 
 {% include base_path %}
