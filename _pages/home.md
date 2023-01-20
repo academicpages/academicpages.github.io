@@ -6,7 +6,7 @@ author_profile: true
 marp: false
 ---
 <h1> Hi, I'm Avra. </h1>
-Another curious being, who is interested in science, politics and happenings in the world. You can expect me to update here with my on-going [research](https://avratanubiswas.github.io/research/) works and also blog posts, in different topics from sevral open-source enthusiasts who are interested to share their writings in this small but growing space called [cats-and-codes](https://avratanubiswas.github.io/cats-and-codes/). Happy to connect with you!
+Another curious being, who is interested in science, politics and happenings in the world. You can expect me to update here with my on-going [research](https://avratanubiswas.github.io/research/) works and also [blog posts](https://avratanubiswas.github.io/posts/). Happy to connect with you!
 
 
 <div style="width:50%;">
@@ -15,7 +15,7 @@ Another curious being, who is interested in science, politics and happenings in 
   </div> 
   <div style="float:right;border: 2px solid MistyRose;text-align:center;width:49%;border-radius:10px; padding:5px; background: MistyRose;">
   
-  <a href="https://avratanubiswas.github.io/cats-and-codes/" style="color:black">Blog Posts</a>
+  <a href="https://avratanubiswas.github.io/posts/" style="color:black">Blog Posts</a>
   </div>
 </div>
 <br/>
