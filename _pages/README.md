@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Posts"
-permalink: /posts/
+permalink: /README/
 author_profile: false
 --- 
 
