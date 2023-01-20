@@ -29,10 +29,9 @@ If you need CSS-related talks or workshops, please feel free to contact me direc
 If you are interested in working with me at Stony Brook, feel free to apply for our program. You can also check this amazing [IACS graduate fellowship](https://iacs.stonybrook.edu/opportunities/fellowships/Graduate-Fellowships). 
 
 ## Summer CSS Workshop
+I am organizing the 2023 NYU Shanghai site for Summer Institute of Computational Social Science (SICSS) with Dr. Xiaogang Wu and Dr. Yongren Shi. [APPLY HERE](https://sicss.io/2023/nyu-shanghai/)
 
 I am teaching intro to css for NYU Shanghai. Check here for [the syllabus](https://yongjunzhang.com/files/CSS_Intro_NYU_Shanghai_Syllabus.pdf). 
-
-I am also organizing the 2023 NYU Shanghai site for Summer Institute of Computational Social Science (SICSS) with Dr. Xiaogang Wu and Dr. Yongren Shi.
 
 ## Call for Papers
 
