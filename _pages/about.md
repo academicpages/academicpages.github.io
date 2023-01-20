@@ -12,7 +12,8 @@ I am Yusheng Su, a fourth-year Ph.D. at the [THUNLP Lab](https://twitter.com/tsi
 
 ## Research
 <!--My research interests are in the theory and practice of building machine learning systems that remain reliable when deployed in real application contexts. For example:-->
-My research interests are exploring the mechanism (theory) and operation (practice) of <b>large-scale pre-trained models (LLMs)</b> to make them efficient and effective when deployed in real applications. For example:
+
+My research interests are exploring the mechanism (theory) and operation (practice) of <b>large-scale pre-trained models (LLMs)</b> for efficient and effective deployment in real-world applications. Two potential directions that I focus on are:
 
 * <b>Parameter-Efficient Tuning.</b> Adapting LLMs to downstream tasks incurs a huge computational burden. How can we adapt LLMs to downstream tasks efficiently (with less computational burden)? Driving LLMs with minimal parameters (parameter-efficient tuning) is worth exploring.
 
