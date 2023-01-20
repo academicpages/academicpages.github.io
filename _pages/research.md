@@ -72,4 +72,4 @@ _TensorCircuit_ is built on top of modern machine learning frameworks and is mac
 
 References:
 
-[1] Zhang, S.X., Allcock, J., Wan, Z.Q., Liu, S., **Sun, J.**, Yu, H., Yang, X.H., Qiu, J., Ye, Z., Chen, Y.Q. and Lee, C.K. (2022). TensorCircuit: a Quantum Software Framework for the NISQ Era. arXiv preprint arXiv:2205.10091.
+[1] Zhang, S.X., Allcock, J., Wan, Z.Q., Liu, S., **Sun, J.**, Yu, H., Yang, X.H., Qiu, J., Ye, Z., Chen, Y.Q. and Lee, C.K. (2022). TensorCircuit: a Quantum Software Framework for the NISQ Era. Accepted by _Quantum_.
