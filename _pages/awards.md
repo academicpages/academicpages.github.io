@@ -10,16 +10,17 @@ author_profile: true
 
 
 ## Research Excellence Awards
-- Materials Reserch Society (MRS) Future Leader [Certificate](https://kavanase.github.io/files/MRS Future Leader Photocard.png)
 -	_Materials Today Chemistry_ Rising Star Award 2022 [Certificate](https://kavanase.github.io/files/eMRS MTC Rising Star Award.png)
--	eMRS Young Researcher Award 2022 [Certificate](https://kavanase.github.io/files/eMRS_Spring_2022_Best_Presentation_Award_Symposium_G.png)
--	Catlow Prize for best Computational PhD student in the UCL Chemistry department 2022 (in the 3rd year of my PhD) [Certificate](https://kavanase.github.io/files/UCL_Chemistry_Catlow_Prize.jpg)
+- Materials Reserch Society (MRS) Future Leader [Certificate](https://kavanase.github.io/files/MRS Future Leader Photocard.png)
+-	European Materials Research Society (eMRS) Young Researcher Award 2022 [Certificate](https://kavanase.github.io/files/eMRS_Spring_2022_Best_Presentation_Award_Symposium_G.png)
+-	Ramsay Medal for Best Chemistry PhD student in UCL & Catlow Prize for Best Computational PhD student in UCL Chemistry 2022 (in the 3rd year of my PhD) [Certificate](https://kavanase.github.io/files/UCL_Chemistry_Catlow_Prize.jpg)
 -	MRS Graduate Student Award (Silver) 2022 [Social Media Card](https://kavanase.github.io/files/Silver_GSA_Ad.png)  [Certificate](https://kavanase.github.io/files/MRS_Silver_GSA_Certificate_2022.pdf)
 - eMRS Graduate Student Award 2021, Symposium F: "Earth-abundant next generation materials for solar energy” in recognition of outstanding research performance (Paper: '_Hidden spontaneous polarisation in the chalcohalide photovoltaic absorber Sn2SbS2I3_'). [Certificate](https://kavanase.github.io/files/EMRS_2021_GSA_dipl_F_Sn2SbS2I3.pdf)
 - eMRS Graduate Student Award 2021, Symposium A: “Materials for energy applications” in recognition of outstanding research performance (Paper: '_Rapid Recombination by Cadmium Vacancies in CdTe_'). [Certificate](https://kavanase.github.io/files/EMRS_2021_GSA_dipl_A_V_Cd.pdf)
 - Shortlisted for the International Conference on Defects in Semiconductors (ICDS) 2021 [Corbett Prize](https://en.wikipedia.org/wiki/International_Conference_on_Defects_in_Semiconductors#Corbett_Prize) (typically awarded to Associate Professors).
 
 ## Travel Awards & Grants
+- UCL-McGill-JSPS Core-to-core research collaboration grant (£3k) to visit Prof. Yu Kumagai in Tohoku University (October – November 2022), to extend our [defect structure-searching work](https://shakenbreak.readthedocs.io/en/latest/).
 - Max Planck Travel Award (€1k) for a research stay with Prof. Christoph Freysoldt at Max-Planck-Institut für Eisenforschung (MPIE), Germany. [Certificate](https://kavanase.github.io/files/MPIE_Travel_Award_Certificate.jpg)
 - Thomas Young Centre (TYC) Junior Research Fellowship (JRF), 2021 (£1k).
 - École Polytechnique Fédérale Lausanne (EPFL) SeeFuturePV Young Scientist Travel Grant 2021.
@@ -29,8 +30,9 @@ author_profile: true
 -	RSC Solid State Chemistry Group Travel Award.
 
 ## Presentation Prizes & Awards
+- Roy Prize for Best Graduate Student Oral Presentation at the RSC 40th Anniversary Solid State Chemistry Group (SSCG) Meeting, 2021 (£250), judged by the invited speakers.
+- Excellent Talk Prize at MRS Fall 2022 – '_Impact of Cation Disorder in ABZ2 Solar Absorbers_'.
 -	Best Presentation Award at EMRS Spring 2022 – ‘_Cation disorder engineering in AgBiS2_’. [Certificate](https://kavanase.github.io/files/eMRS_Spring_2022_Best_Presentation_Award_Symposium_K.png)
--	Roy Prize for Best Graduate Student Oral Presentation at the RSC 40th Anniversary Solid State Chemistry Group (SSCG) Meeting, 2021 (£250), judged by the invited speakers.
 - Excellent Talk Prize at MRS Fall 2020 – ‘_Enhanced Optical Absorption via Mixed-Valent Doping of Vacancy-Ordered A3B2X9 Triple Perovskites_’. [Certificate](https://kavanase.github.io/files/MRS_Fall_2020_Excellent_Talk_Award.pdf)
 - Excellent Talk Prize at SCI Materials for Energy Technology 2021 – ‘_Rapid Recombination by Cadmium Vacancies in CdTe_’.
 - Best Poster at TYC Conference 2020, King’s College London – ‘_Band Alignment of Antimony and Bismuth Silver-Bromide Double Perovskites_’.
