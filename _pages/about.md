@@ -22,11 +22,11 @@ My current projects include:
 * **Scaffolding Fair ML Practice:** How can we support cross-functional collaboration in AI teams around fairness efforts? (w/ [Ken Holstein](https://www.thecoalalab.com/kenholstein){:target="_blank"} and [Micheal Madaio](http://michaelmadaio.com/){:target="_blank"})
 
 ## News
-* January 2023 - Serving as an Associate Chair for DIS 2023
+* January 2023 - Paper from my Google PAIR research internship is accepted to CHI 2023! "Investigating How Practitioners Use Human-AI Guidelines: A Case Study on the People + AI Guidebook" (Preprint will be available soon)
+* January 2023 - Served as an Associate Chair for CHI 2023 in the Design track
 * November 2022 - I passed my PhD thesis proposal and I am officially a PhD candidate!
-* October 2022 - Invited talk at the Microsoft Research Summit Workshop on Metaphors for Human-AI Interaction
+* October 2022 - Invited talk at the Microsoft Research Summit Workshop on Metaphors for Human-AI Interaction 
 * August 2022 - Invited talk at Google on Envisioning Human-Centered AI Products
-* June 2022 - Serving as an Associate Chair for CHI 2023 in the Design track
 * June 2022 - Started summer internship at Google Research! Hosted by [Fernanda Viegas](http://www.fernandaviegas.com/){:target="_blank"} and [Mahima Pushkarna](https://mahimapushkarna.com/){:target="_blank"}
 * February 2022 - Serving as an Associate Chair for DIS 2022
 * January 2022 - Paper accepted to CHI 2022! "How Experienced Designers of Enterprise Applications Engage AI as a Design Material" [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3491102.3517491)
