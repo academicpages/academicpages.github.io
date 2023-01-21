@@ -36,7 +36,7 @@ author_profile: true
 - Excellent Talk Prize at MRS Fall 2020 – ‘_Enhanced Optical Absorption via Mixed-Valent Doping of Vacancy-Ordered A$_3$B$_2$X$_9$ Triple Perovskites_’. [Certificate](https://kavanase.github.io/files/MRS_Fall_2020_Excellent_Talk_Award.pdf)
 - Excellent Talk Prize at SCI Materials for Energy Technology 2021 – ‘_Rapid Recombination by Cadmium Vacancies in CdTe_’.
 - Best Poster at TYC Conference 2020, King’s College London – ‘_Band Alignment of Antimony and Bismuth Silver-Bromide Double Perovskites_’.
-- Excellent Poster Prize at RSC Materials Chemistry Poster Symposium 2021 – ‘_Bandgap Lowering in Lead-Free Cs$_2$Ag(Sb$_x$Bi$_1_-_x$)Br$_6$ Double Perovskite Alloys_’. [Certificate](https://kavanase.github.io/files/RSC_Mat_Chem_Poster_Certificate.pdf)
+- Excellent Poster Prize at RSC Materials Chemistry Poster Symposium 2021 – ‘_Bandgap Lowering in Lead-Free Cs$_2$Ag(Sb/Bi)Br$_6$ Double Perovskite Alloys_’. [Certificate](https://kavanase.github.io/files/RSC_Mat_Chem_Poster_Certificate.pdf)
 - Best Poster Prize at UCL Chemistry PhD Poster Session (2021) – ‘_Hidden spontaneous polarisation in the chalcohalide photovoltaic absorber Sn$_2$SbS$_2$I$_3$_’. [Certificate](https://kavanase.github.io/files/UCL_Chem_2nd_Yr_Poster_Prize.pdf)
 
 
