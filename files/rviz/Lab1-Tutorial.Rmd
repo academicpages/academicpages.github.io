@@ -2,7 +2,7 @@
 title: "Lab1-System Setup Tutorial"
 author: "Yongjun Zhang, Ph.D."
 institute: "Department of Sociology and IACS, Stony Brook Unversity"
-date: '`r Sys.Date()`'
+date: '2023-01-20'
 output:
   rmdformats::readthedown:
     highlight: pygments
