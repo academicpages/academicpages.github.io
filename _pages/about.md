@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Marcus Torres and I am a PhD Student in Political Science at the [Universidade Federal de Pernambuco](https://www.ufpe.br/politica). Also, I am a [BITSS Catalyst](https://www.bitss.org/people/marcus-torres/). My research interests are bureaucracy, non state actors, public resource allocation and political elites.
+Hello, my name is Marcus Torres and I am a PhD Student in Political Science at the [Universidade Federal de Pernambuco](https://www.ufpe.br/politica). I was a Oxford Recognised Student and a MaxPo Fellow. Also, I am a [BITSS Catalyst](https://www.bitss.org/people/marcus-torres/). My research interests are bureaucracy, non state actors, public resource allocation and political elites.
 
 My PhD dissertation project is about Political Dynasties and federal transferences in Brazil. My objective is to analyze whether local political dynasties affect discretionary federal transferences to municipalities. To do so, I have come up with a way to data-mine politicians' official documents to get precise information about dynasty formation, expansion, and perpetuation.
 
