@@ -29,6 +29,6 @@ You can find the recorded versions of my talks on my [YouTube channel](https://w
 
 - ‘_Band Alignment of Antimony and Bismuth Silver-Bromide Double Perovskites_’ **(Poster)** @ NanoGe Online Conference: Beyond Lead Halide Perovskites; TYC Conference 2020, King’s College London **_(Best Poster Prize)_**; **(Talk)** @ NanoGe ComPer 2020
 
-- ‘_Bandgap Lowering in Lead-Free Cs$_2$Ag(Sb$_x$Bi$_{1-x}$)Br$_6$ Double Perovskite Alloys_’ **(Talk)** @ RSC Solid-State Chemistry ECR Conference; NanoGe Fall 2020 **(Poster)** @ NanoGe HOPV 2020; **(Flash Talk)** MRS Fall 2020; RSC Materials Chemistry Poster Symposium **(Excellent Poster Prize)**
+- ‘_Bandgap Lowering in Lead-Free Cs$_2$Ag(Sb$_x$Bi$_1$$_-$$_x$$)Br$_6$ Double Perovskite Alloys_’ **(Talk)** @ RSC Solid-State Chemistry ECR Conference; NanoGe Fall 2020 **(Poster)** @ NanoGe HOPV 2020; **(Flash Talk)** MRS Fall 2020; RSC Materials Chemistry Poster Symposium **(Excellent Poster Prize)**
 
 - ‘_Solvent Engineered Synthesis of Layered SnO Nanoparticles for High-Performance Anodes_’ **(Flash Talk)** @ MRS Fall 2020
