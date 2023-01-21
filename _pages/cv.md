@@ -11,7 +11,7 @@ redirect_from:
 
 Education and qualifications
 ======
-* 2021: Associate professor qualification, CNU section 7
+* 2021: French lecturer qualification, CNU section 7
 * 2020: PhD (Computer Science), University of Toulouse
 * 2016: MSc (Machine learning), Sorbonne Université - Paris VI
 * 2015: MSc (Ingénieur), Ecole Centrale Paris
