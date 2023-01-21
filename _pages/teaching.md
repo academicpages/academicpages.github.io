@@ -6,10 +6,11 @@ author_profile: true
 ---
 
 ## Community Contributions / Outreach
+- My tutorial lectures (with [Dr. Joe Willis](https://scholar.google.com/citations?user=DXJhvE0AAAAJ&hl=en&oi=ao)) on my [YouTube channel](https://www.youtube.com/c/SeánRKavanagh) <i class="fab fa-fw fa-youtube" aria-hidden="true"></i> have received >10,000 views, as well as several thousand downloads of the slides/posters on my [SpeakerDeck](https://speakerdeck.com/kavanase).
 - I have peer reviewed for the _Journal of the American Chemical Society_ (JACS), _Physical Review Applied_, _Journal of Physical Chemistry Letters_ (JPCL), _Applied Physics Letters_ (APL), _Matter_, _Computational Physics Communications_ and the _Journal of Electroceramics_ (JECR).
 - Active member of the UCL MAPS (Mathematical & Physical Sciences) Early-Career Research committee, supporting the wellbeing, professional development and career progress of early career researchers in UCL.
 - Session chair (in-person) for the MRS Fall 2021 Solid-State Chemistry of New Materials (CH02) Symposium, MRS Fall 2022 Halide Perovskite Materials (EN02) Symposium and Networking Facilitator at the RSC International Conference on Materials Chemistry (MC15).
-- Developer of several open-access community computational chemistry tools; including [ShakeNBreak](https://shakenbreak.readthedocs.io/en/latest/), [`vaspup2.0`](https://github.com/kavanase/vaspup2.0), [`doped`](https://github.com/SMTG-UCL/doped), (co-developer) [`sumo`](https://github.com/SMTG-UCL/sumo), [`CarrierCapture.jl`](https://github.com/WMD-group/CarrierCapture.jl) and contributions to many others.
+- Developer of several open-access community computational chemistry tools; including [`ShakeNBreak`](https://shakenbreak.readthedocs.io/en/latest/), [`vaspup2.0`](https://github.com/kavanase/vaspup2.0), [`doped`](https://github.com/SMTG-UCL/doped), (co-developer) [`sumo`](https://github.com/SMTG-UCL/sumo), [`CarrierCapture.jl`](https://github.com/WMD-group/CarrierCapture.jl) and contributions to many others.
 - '_[I’m an Engineer, Get me Out of Here](https://imanengineer.org.uk/)!_' schools outreach activity, funded by UKRI, bp and Cavendish Nuclear
 - Lead tester of VASP (most widely-used computational materials science code worldwide) for [Archer2](https://www.archer2.ac.uk/) (UK National Supercomputer), and research consultant for procurement of UCL HPC & GPU upgrades 2021/2022 (>£1 million).
 
