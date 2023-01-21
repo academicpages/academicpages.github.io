@@ -8,7 +8,7 @@ author_profile: true
 Check out [my Google Scholar](https://scholar.google.com/citations?user=1KjMCfQAAAAJ&hl=en){:target="_blank"} for a full list.
 
 **Investigating How Practitioners Use Human-AI Guidelines: A Case Study on the People + AI Guidebook**  
-Nur Yildirim, Mahima Pushkarna, Nitesh Goyal, Martin Wattenberg, Fernanda Viégas.
+Nur Yildirim, Mahima Pushkarna, Nitesh Goyal, Martin Wattenberg, Fernanda Viégas.  
 *CHI 2023 (to appear).* [preprint will be available soon]
 
 **How Experienced Designers of Enterprise Applications Engage AI as a Design Material**  
