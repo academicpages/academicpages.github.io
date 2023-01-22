@@ -8,6 +8,7 @@ author_profile: false
 
 
 ### Latest Blog Posts [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@avra42)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/Avra_b)
 
 <!-- BLOG-POST-LIST:START -->
 - [Is ChatGPT PRO &lpar;Paid Version&rpar; worth the $42 monthly? @OpenAI’s API as cheaper alternatives &amp; more …](https://www.youtube.com/watch?v=ZLdXkU5nncE)
@@ -16,12 +17,6 @@ author_profile: false
 - [Using chatGPT to build a Machine Learning Web App in Python!](https://www.youtube.com/watch?v=LgdMhDqj77c)
 - [How I coded this Data Science Web App using ChatGPT from scratch! &lpar;Holiday coding sessions 🎄&rpar;](https://www.youtube.com/watch?v=wzpl_txHtUQ)
 <!-- BLOG-POST-LIST:END -->
-
-### Latest YouTube Videos [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/Avra_b)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCDMP6ATYKNXMvn2ok1gfM7Q?style=plastic)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDMP6ATYKNXMvn2ok1gfM7Q?style=plastic)
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
 
 
 ----------
