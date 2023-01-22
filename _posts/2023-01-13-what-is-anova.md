@@ -90,12 +90,12 @@ Each of the sums of squares can be viewed in the following way:
 
 The classical ANOVA hypothesis is that all $\theta_i$ are equal. In other words, the treatments are all the same.
 
-Consider MSB, the mean of the between sum of squares (computed as $\text{SSB}/(k-1)$), and MSW, the mean of the within sum of squares (computed as $\text{SSW}/(n-k)$. Due to assumptions described above, it can be shown that the ratio MSB/MSW is distributed as a $\chi^2$ random variable with $k-1$ and $n-k$ degrees of freedom, where $n$ refers to the overall sample size.
+Consider MSB, the mean of the between sum of squares (computed as $\text{SSB}/(k-1)$), and MSW, the mean of the within sum of squares (computed as $\text{SSW}/(n-k)$. Due to assumptions described above, it can be shown that the ratio MSB/MSW is distributed as an $F$ random variable with $k-1$ and $n-k$ degrees of freedom, where $n$ refers to the overall sample size.
 
 So, we have
 
 $$
-\frac{\text{MSB}}{\text{MSW}} \sim \chi^2_{k-1,n-k},
+\frac{\text{MSB}}{\text{MSW}} \sim F_{k-1,n-k},
 $$
 
 which allows us to test the classical ANOVA hypothesis. See [this](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing) for more information about hypothesis testing.
