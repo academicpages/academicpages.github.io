@@ -7,11 +7,7 @@
       {% if site.minimal_mistakes_skin2 %}
       <span class="togglefa"><i class="fa fa-toggle-on" aria-hidden="true" onclick="node1=document.getElementById('theme_source');node2=document.getElementById('theme_source_2');if(node1.getAttribute('rel')=='stylesheet'){node1.setAttribute('rel', 'stylesheet alternate'); node2.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'dark');}else{node2.setAttribute('rel', 'stylesheet alternate'); node1.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'light');} return false;"></i></span>
       {% endif %}
-      <style>
-        .togglefa{
-          float: right;
-        }
-      </style>  
+ 
         <button><div class="navicon"></div></button> 
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
@@ -50,3 +46,8 @@
          background-color: #212121;
 </style>
 
+<style>
+  .togglefa{
+    float: right;
+  }
+</style> 
