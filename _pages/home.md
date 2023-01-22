@@ -8,6 +8,17 @@ marp: false
 <h1> Hi, I'm Avra. </h1>
 Another curious being, who is interested in science, politics and happenings in the world. You can expect me to update here with my on-going [research](https://avratanubiswas.github.io/research/) works and also [blog posts](https://avratanubiswas.github.io/posts/). Happy to connect with you!
 
+{% if site.minimal_mistakes_skin2 %}
+              <span class="togglefa"><i class="fa fa-toggle-on" aria-hidden="true" onclick="node1=document.getElementById('theme_source');node2=document.getElementById('theme_source_2');if(node1.getAttribute('rel')=='stylesheet'){node1.setAttribute('rel', 'stylesheet alternate'); node2.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'dark');}else{node2.setAttribute('rel', 'stylesheet alternate'); node1.setAttribute('rel', 'stylesheet');sessionStorage.setItem('theme', 'light');} return false;"></i></span>
+{% endif %}
+<style>
+  .togglefa{
+    display: inline-block;
+    float: right;
+    color: white;
+  }
+</style>
+
 
 <div style="width:50%;">
   <div style="float:left; border: 2px solid AliceBlue;text-align:center;width:49%;border-radius:10px; padding:5px; background: AliceBlue;">
