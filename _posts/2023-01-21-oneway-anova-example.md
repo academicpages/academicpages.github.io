@@ -241,8 +241,6 @@ increases across the groups, so does the tooth length.
       ggtitle("Boxplots for Each Dosage Level")
 
 ![image](https://user-images.githubusercontent.com/70607091/213942730-10c2fba8-cc7f-4727-a861-66e18b5919fe.png)
-
-<img src="tooth_boxplots.png" alt="Side-by-side boxplots of tooth length for each Vitamin C dosage level of the guinea pigs corresponding to the orange juice (OJ) supplement group."  />
 <p class="caption">
 Side-by-side boxplots of tooth length for each Vitamin C dosage level of
 the guinea pigs corresponding to the orange juice (OJ) supplement group.
@@ -299,7 +297,5 @@ different growth than the 1 mg/day group.
       ylab("Difference") +
       ggtitle("Pairwise Comparisons for Each Dosage Level")
 
-![image](https://user-images.githubusercontent.com/70607091/213942772-c20dc9b5-dd0f-4040-87ab-be9f6a9c3736.png)
-
-![image](tooth_tukey.png)
+![](https://user-images.githubusercontent.com/70607091/213942772-c20dc9b5-dd0f-4040-87ab-be9f6a9c3736.png)
 
