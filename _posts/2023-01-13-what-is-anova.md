@@ -42,7 +42,7 @@ In order to make valid inferences using ANOVA, there are some assumptions regard
 
 Once we've checked these assumptions and have determined that they are not violated, we can safely draw conclusions using ANOVA results. If any of these assumptions is violated, we must either make adjustments before using ANOVA or we must use a different method altogether.
 
-A basic example and walkthrough of a oneway ANOVA analysis can be found [here](https://trgrimm.github.io/posts/2022/10/what-is-anova/). For the interested reader, additional technical details about how ANOVA works are included below.
+A basic example and walkthrough of a oneway ANOVA analysis can be found [here](https://trgrimm.github.io/posts/2023/01/oneway-anova-example/). For the interested reader, additional technical details about how ANOVA works are included below.
 
 <br>
 <br>
