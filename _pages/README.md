@@ -16,3 +16,8 @@ author_profile: false
 - [ChatGPT helped me to built this Data Science Web App using Streamlit-Python](https://medium.com/@avra42/chatgpt-build-this-data-science-web-app-using-streamlit-python-25acca3cecd4?source=rss-bf79cad6afa1------2)
 - [Build Your Own Chatbot  with openAI GPT-3 and Streamlit](https://medium.com/@avra42/build-your-own-chatbot-with-openai-gpt-3-and-streamlit-6f1330876846?source=rss-bf79cad6afa1------2)
 <!-- BLOG-POST-LIST:END -->
+
+
+----------
+<a class="twitter-timeline" data-width="600" data-height="1000" data-dnt="true" data-theme="light" href="https://twitter.com/Avra_b?ref_src=twsrc%5Etfw">Tweets by Avra_b</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script>
+<a href="https://twitter.com/Avra_b?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="true">Follow @Avra_b</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
