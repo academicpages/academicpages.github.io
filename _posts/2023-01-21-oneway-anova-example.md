@@ -46,7 +46,7 @@ $$
 growth_{ij} = dose_i + \epsilon_{ij}, \qquad i = 1,\ldots, 3, \textrm{ and } j = 1,\ldots,10,
 $$
 
-where $y$ is the measured odontoblast length ($growth$), $i$ denotes the dosage level ($dose$: 0.5, 1, or 2 mg/day), and $j$ denotes the number of guinea pigs per group, which is 10 (for a total of 30 across the 3 levels of `dose`).
+where $y$ is the measured odontoblast length (*growth*), *i* denotes the dosage level (*dose*: 0.5, 1, or 2 mg/day), and *j* denotes the number of guinea pigs per group, which is 10 (for a total of 30 across the 3 levels of `dose`).
 
 Simply put, our goal is to determine if the level of tooth growth in
 guinea pigs is different between groups with different Vitamin C dosage
