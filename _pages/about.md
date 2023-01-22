@@ -16,11 +16,11 @@ Hi there! I am Fazilet, a second-year PhD student in Computer Science at the Uni
 * Gave a lecture on Convolutional Neural Networks at Women@CL GWML Introduction to Machine Learning Workshop, 19 June 2022🤓 
 
 Welcome to my website!
-
+<!-- 
 <p align="center">
   <img src="/images/IMG_2853.JPG" width="75%" /><br/>
   <br/>Fig. 1: Highlights from my California trip for ICCP 2022 <br/>
-</p>
+</p> -->
 
 <!-- develop efficient methods to enhance or manipulate images and expand their applications for 3D scene manipulations.
  -->
