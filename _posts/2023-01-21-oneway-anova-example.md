@@ -231,6 +231,7 @@ looks like across each of the dosage levels (), we can look at the
 side-by-side boxplots created below. We see that as the Vitamin C dose
 increases across the groups, so does the tooth length.
 
+
     ToothGrowth |> 
       filter(supp == 'OJ') |> 
       ggplot(aes(dose, len)) +
@@ -238,6 +239,8 @@ increases across the groups, so does the tooth length.
       xlab("Vitamin C Dose (mg/day)") +
       ylab("Tooth Length") +
       ggtitle("Boxplots for Each Dosage Level")
+
+![image](https://user-images.githubusercontent.com/70607091/213942730-10c2fba8-cc7f-4727-a861-66e18b5919fe.png)
 
 <img src="tooth_boxplots.png" alt="Side-by-side boxplots of tooth length for each Vitamin C dosage level of the guinea pigs corresponding to the orange juice (OJ) supplement group."  />
 <p class="caption">
