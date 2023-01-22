@@ -8,7 +8,7 @@ tags:
   - categorical variables
 ---
 
-This post provides a simple example of a oneway ANOVA using the \verb|ToothGrowth| dataset in \verb|R|. More detailed information about the oneway ANOVA model and how it works can be found [here](https://trgrimm.github.io/posts/2023/01/what-is-anova/).
+This post provides a simple example of a oneway ANOVA using the `ToothGrowth` dataset in `R`. More detailed information about the oneway ANOVA model and how it works can be found [here](https://trgrimm.github.io/posts/2023/01/what-is-anova/).
 
 # Tooth Growth Example
 
