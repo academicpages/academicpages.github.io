@@ -299,5 +299,7 @@ different growth than the 1 mg/day group.
       ylab("Difference") +
       ggtitle("Pairwise Comparisons for Each Dosage Level")
 
-![](tooth_tukey.png)
+![image](https://user-images.githubusercontent.com/70607091/213942772-c20dc9b5-dd0f-4040-87ab-be9f6a9c3736.png)
+
+![image](tooth_tukey.png)
 
