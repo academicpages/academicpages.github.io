@@ -15,7 +15,7 @@ This post provides a simple example of a oneway ANOVA using the `ToothGrowth` da
 A simple example of a oneway ANOVA would be an experiment to determine
 the effect of various levels of a treatment on a response variable of
 interest for some population. For this analysis, I will be using the
-`ToothGrowth` dataset. This dataset is a part of base and can be seen by
+`ToothGrowth` dataset. This dataset is a part of base `R` and can be seen by
 simply typing `ToothGrowth` into the console window. Below is the
 description of this dataset provided by typing `?ToothGrowth`:
 
@@ -74,7 +74,7 @@ plotting and analysis.
 Now, let’s look at a few random rows of the dataset to make sure
 everything is loaded in properly. The `gt` package gives us a nice way
 to make tables in RMarkdown that are more visually appealing than raw
-output, and from the `dplyr` package (part of the `tidyverse`) lets us
+output, and `slice_sample()` from the `dplyr` package (part of the `tidyverse`) lets us
 easily select 10 random rows from the dataset to view. In this analysis,
 we only consider data corresponding to guinea pigs that were not
 assigned to the orange juice supplement group. However, the table below
@@ -223,8 +223,8 @@ OJ
 </tbody>
 </table>
 
-To get an idea of what the response variable (denoting tooth length)
-looks like across each of the dosage levels (), we can look at the
+To get an idea of what the response variable `len` (denoting tooth length)
+looks like across each of the dosage levels (`dose`), we can look at the
 side-by-side boxplots created below. We see that as the Vitamin C dose
 increases across the groups, so does the tooth length.
 
@@ -249,7 +249,7 @@ In order to make any statements regarding the effect of Vitamin C dosage
 levels on guinea pig tooth growth, we must determine whether or not the
 results observed in this dataset are plausible simply by random chance.
 This is where ANOVA comes into play. The code below shows how to fit a
-simple oneway ANOVA model using the function in .
+simple oneway ANOVA model using the `aov()` function in `R`.
 
     OJ_data <- ToothGrowth |> filter(supp == 'OJ')
     tooth_model <- aov(len ~ dose, data = OJ_data)
@@ -261,7 +261,7 @@ simple oneway ANOVA model using the function in .
     ## ---
     ## Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 
-From the summary output above, we see that is a significant explanatory
+From the summary output above, we see that `dose` is a significant explanatory
 variable. Specifically, performing an *F* test results in a significant
 (&lt; 0.05) p-value, indicating we can reject the null hypothesis in
 favor of the alternative hypothesis. Recall that the null hypothesis is
@@ -271,11 +271,11 @@ difference between the means of at least one pair of dosage levels.
 
 In order to determine which dosage levels are significantly different
 from one another, we can use a Tukey’s honest significant differences,
-as computed by the function in .
+as computed by the `TukeyHSD()` function in `R`.
 
     tukey <- TukeyHSD(tooth_model)
 
-Using the function results in values that can be seen in the plot below.
+Using the `TukeyHSD()` function results in values that can be seen in the plot below.
 Any comparison that is completely above or below a difference of 0
 indicates a significant difference between that pair of dosage levels.
 From the plot below, we can see that both the 1 and 2 mg/day vitamin C
