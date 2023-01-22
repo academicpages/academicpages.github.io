@@ -13,25 +13,6 @@ My research work primarily explores on monitoring excitation energy transfer and
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQP3LTDbq3CT8Lj2sJcy7_8CMHmO4XipnY4VINiPpYlRh9Aghbt7mhKq9Cv3qFsnA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-<details markdown=1><summary markdown="span"><b>Click to know more </b></summary>
-
-- Research background
-- Methodologies used
-- Critical findings
-
-*will be updated*
-
-</details>
-
-<div style="width:50%;">
-  <div style="float:left; border: 2px solid AliceBlue;text-align:center;width:49%;border-radius:10px; padding:5px; background: AliceBlue;">
-  <a href="https://avratanubiswas.github.io/publications/" style="color:black">Publications</a>
-  </div> 
-  <div style="float:right;border: 2px solid MistyRose;text-align:center;width:49%;border-radius:10px; padding:5px; background: MistyRose;">
-  
-  <a href="https://avratanubiswas.github.io/cv/" style="color:black">CV</a>
-  </div>
-</div>
 
 
 
