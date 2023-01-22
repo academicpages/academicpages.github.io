@@ -29,18 +29,22 @@ Recall that the [oneway ANOVA
 model](https://trgrimm.github.io/posts/2023/01/what-is-anova/) is given
 by the following:
 
-*y*<sub>*i**j*</sub> = *θ*<sub>*i*</sub> + *ϵ*<sub>*i**j*</sub>,   *i* = 1, …, *k*,  and *j* = 1, …, *n*<sub>*i*</sub>,
+$$
+y_{ij} = \theta_i + \epsilon_{ij}, \qquad i = 1,\ldots, k, \textrm{ and } j = 1,\ldots,n_i,
+$$
 
-where *y*<sub>*i**j*</sub> denotes the observed response for subject *j*
-within treatment *i*, *θ*<sub>*i*</sub> is the mean of the response for
-treatment *i*, and *ϵ*<sub>*i**j*</sub> is random error for each subject
+where $y_{ij}$ denotes the observed response for subject *j*
+within treatment *i*, $\theta_i$ is the mean of the response for
+treatment *i*, and $\epsilon_{ij}$ is random error for each subject
 and treatment.
 
 For our guinea pig application, we only consider guinea pigs that
 receive different doses of vitamin C via orange juice, which results the
 following oneway ANOVA model:
 
-*g**r**o**w**t**h*<sub>*i**j*</sub> = *d**o**s**e*<sub>*i*</sub> + *ϵ*<sub>*i**j*</sub>,   *i* = 1, …, 3,  and *j* = 1, …, 10,
+$$
+growth_{ij} = dose_i + \epsilon_{ij}, \qquad i = 1,\ldots, 3, \textrm{ and } j = 1,\ldots,10,
+$$
 
 where *y* is the measured odontoblast length (*g**r**o**w**t**h*), *i*
 denotes the dosage level (*d**o**s**e*: 0.5, 1, or 2 mg/day), and *j*
