@@ -17,6 +17,12 @@ author_profile: false
 - [Build Your Own Chatbot  with openAI GPT-3 and Streamlit](https://medium.com/@avra42/build-your-own-chatbot-with-openai-gpt-3-and-streamlit-6f1330876846?source=rss-bf79cad6afa1------2)
 <!-- BLOG-POST-LIST:END -->
 
+### Latest YouTube Videos [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/Avra_b)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCDMP6ATYKNXMvn2ok1gfM7Q?style=plastic)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDMP6ATYKNXMvn2ok1gfM7Q?style=plastic)
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 
 ----------
 <a class="twitter-timeline" data-width="600" data-height="1000" data-dnt="true" data-theme="light" href="https://twitter.com/Avra_b?ref_src=twsrc%5Etfw">Tweets by Avra_b</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" ></script>
