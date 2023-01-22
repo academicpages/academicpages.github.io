@@ -239,6 +239,8 @@ Side-by-side boxplots of tooth length for each Vitamin C dosage level of
 the guinea pigs corresponding to the orange juice (OJ) supplement group.
 </p>
 
+## ANOVA Analysis
+
 In order to make any statements regarding the effect of Vitamin C dosage
 levels on guinea pig tooth growth, we must determine whether or not the
 results observed in this dataset are plausible simply by random chance.
