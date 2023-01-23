@@ -591,9 +591,9 @@ body {
 
 @media screen and (min-width: 1000px){ html{ font-size: 14px;} }
 
-@media screen and (min-width: 1100px){ html{ font-size: 15px; } }
+@media screen and (min-width: 1100px){ html{ font-size: 17px; } }
 
-@media screen and (min-width: 1200px){ html{ font-size: 16px; } }
+@media screen and (min-width: 1200px){ html{ font-size: 17px; } }
 
 @media screen and (min-width: 1300px){ html{ font-size: 17px; } }
 
@@ -668,7 +668,7 @@ img { max-width: 100%; }
 
 .sidenote, .marginnote { float: right;
                          clear: right;
-                         margin-right: -20%;
+                         margin-right: -60%;
                          width: 50%;
                          margin-top: 0;
                          margin-bottom: 1.96rem;
