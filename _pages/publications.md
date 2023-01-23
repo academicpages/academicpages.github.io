@@ -18,7 +18,7 @@ author_profile: true
 
 
 ## Conference Papers
-<b>[Learning Fair Graph Representations via Automated Data Augmentations.](??)
+<b>[Learning Fair Graph Representations via Automated Data Augmentations.](https://openreview.net/forum?id=1_OGWcP1s9w&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions))
 </b><br>Hongyi Ling, <b>Zhimeng Jiang</b>, Youzhi Luo, Shuiwang Ji, Na Zou <br>
 International Conference on Learning Representations (**ICLR Spotlight**), 2023.
 
