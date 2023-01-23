@@ -278,7 +278,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       classes: wide
       read_time: true
       comments: # true
