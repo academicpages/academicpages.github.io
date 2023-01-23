@@ -62,7 +62,7 @@ Yongjun Zhang. 2021. "[Corporate Responses to COVID19: A Non-Market Strategy App
 Charles Seguin, Chris Julien, and Yongjun Zhang. 2021. "[The stability of androgynous names: Dynamics of gendered naming practices in the United States 1880–2016.](http://www.charlieseguin.com/uploads/4/1/2/7/41271621/seguin_poetics_names_10-2020.pdf)" Poetics
 
 ## Working Paper
-Yongjun Zhang and Siwei Cheng. 2023. "[Multiplex Spatial Segregation of Asian American Voters in New York City]()."
+Yongjun Zhang. 2023. "[Multiplex Spatial Segregation of Asian American Voters in New York City]()."
 
 Yongjun Zhang, Siwei Cheng, Zhi Li, and Wenhao Jiang. 2023. "[Estimating experienced partisan segregation in activity space using large-scale GPS data](https://yongjunzhang.com/files/eps.pdf)." 
 
