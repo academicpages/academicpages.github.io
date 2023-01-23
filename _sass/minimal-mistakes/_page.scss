@@ -585,6 +585,18 @@ body {
 /*   [1] tufte-jekyll by Clay Hanson ( https://github.com/clayh53/tufte-jekyll )
 /*
 /*****************************************************************************/
+@media screen and (min-width: 800px){ html{ font-size: 12px;} }
+
+@media screen and (min-width: 900px){ html{ font-size: 13px;} }
+
+@media screen and (min-width: 1000px){ html{ font-size: 14px;} }
+
+@media screen and (min-width: 1100px){ html{ font-size: 15px; } }
+
+@media screen and (min-width: 1200px){ html{ font-size: 16px; } }
+
+@media screen and (min-width: 1300px){ html{ font-size: 17px; } }
+
 // Mathjax fonts need TLC
 .mjx-math{
   font-size: 1rem;
