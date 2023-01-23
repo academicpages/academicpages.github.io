@@ -188,6 +188,10 @@ Amsterdam School of Communication Research (ASCoR), University of Amsterdam (The
 
 # PARTICIPATION IN RESEARCH PROJECTS
 ============
+### Transitional characters in entertainment-education narratives designed to reduce prejudice against immigrants: Attributes, boundary conditions and explanatory mechanisms (TRANCHAR) 2022-2026
+Research project funded by Spanish Ministry of Science and Innovation (PID2021-122655NB-I00)
+Principal investigator: Dr. Juan José Igartua
+Research team member
 ### LGBTI+ representation in Spanish serial fiction and its effectiveness in reducing prejudices due to sexual orientation and gender identity (LGBTI+SCREENS). 2020-2024
 _(Representación LGBTI+ en la ficción seriada española y eficacia en la reducción de prejuicios por orientación sexual e identidad de género (LGBTIQ+ PANTALLAS)._ 
 Research project funded by Spanish Ministry of Science and Innovation (PID2019-110351RB-I00)
