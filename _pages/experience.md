@@ -37,7 +37,7 @@ Experience
 Services
 =====
 Conference Reviewer: 
-* NeurIPS'22, ICML’22, LOG'22, WACV'23, AAAI'23, SDM'23, KDD'23
+* NeurIPS'22, ICML’22-23, IJCAI'23, LOG'22, WACV'23, AAAI'23, SDM'23, KDD'23
 * ICLR’20, KDD’20, CIKM’20, WSDM’21 (External)
 
 Journal Reviewer: 

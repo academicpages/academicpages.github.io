@@ -18,6 +18,8 @@ redirect_from:
 
 News
 =====
+**Jan. 2023:** One paper is accepted by ICLR 2023 (Spotlight)
+
 **Dec. 2022:** Invited to serve as a PC member of KDD 2023, ICML 2023, and IJCAI 2023.
 
  **Dec. 2022:** Our paper on Real-Time Bidding is accepted by AAAI 2023 AI for Web Advertising Workshop.

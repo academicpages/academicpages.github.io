@@ -18,6 +18,10 @@ author_profile: true
 
 
 ## Conference Papers
+<b>[Learning Fair Graph Representations via Automated Data Augmentations.](??)
+</b><br>Hongyi Ling, <b>Zhimeng Jiang</b>, Youzhi Luo, Shuiwang Ji, Na Zou <br>
+International Conference on Learning Representations (**ICLR Spotlight**), 2023.
+
 <b>[Adaptive Risk-Aware Bidding with Budget Constraint in Display Advertising](https://arxiv.org/pdf/2212.12533.pdf)
 </b><br><b>Zhimeng Jiang</b>, Kaixiong Zhou, Mi Zhang, Rui Chen, Xia Hu, and Soo-Hyun Choi. <br> 
 AAAI Conference on Artificial Intelligence (AAAI) @ AI for Web Advertising Workshop, 2023.
@@ -69,10 +73,6 @@ Under review, 2022
 
 <b>[DIVISION: Memory Efficient Training via Dual Activation Precision.](??)
 </b><br>Guanchu Wang, Zirui Liu, <b>Zhimeng Jiang</b>, Ninghao Liu, Na Zou, Xia Hu <br>
-Under review, 2022
-
-<b>[Learning Fair Graph Representations via Automated Data Augmentations.](??)
-</b><br>Hongyi Ling, <b>Zhimeng Jiang</b>, Youzhi Luo, Shuiwang Ji, Na Zou <br>
 Under review, 2022
 
 <b>[Graph Mixup with Soft Alignments.](??)
