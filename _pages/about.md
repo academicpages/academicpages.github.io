@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I am Fazilet, a second-year PhD student in Computer Science at the University of Cambridge, working with Dr Cengiz Oztireli. My research interests lie in the intersection between machine learning and image processing and also include computer graphics. During my PhD, I would like to develop techniques that can integrate artist-created models into learning-based algorithms to manipulate 3D scenes on the image level.
+Hi there! I am a PhD student in Computer Science at the University of Cambridge, working with Dr Cengiz Oztireli. My research interests lie in the intersection between machine learning and image processing and also include computer graphics. During my PhD, I would like to develop techniques that can integrate artist-created models into learning-based algorithms to manipulate 3D scenes on the image level.
 
 ## News
 
+* Completed my internship as an Applied Scientist Intern at Amazon's computer vision research team in Berlin🥳
 * Presented our poster entitled “Patch-adaptive Transformation Blending for One-Shot Photo Retouching” at [ICCP 2022](https://iccp2022.iccp-conference.org/), which was held in Caltech, Pasadena, August 1-3, 2022😊
-* Currently interning as an Applied Scientist Intern at Amazon's computer vision research team in Berlin🥳
 * Gave a lecture on Convolutional Neural Networks at Women@CL GWML Introduction to Machine Learning Workshop, 19 June 2022🤓 
 
 Welcome to my website!
