@@ -4,6 +4,12 @@
  * Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE)
 */
 
+// Used this from the reply here: https://github.com/mmistakes/minimal-mistakes/issues/1322#issuecomment-521386064
+article.page {
+    float: left;
+    width: 100%;
+}
+
 /* Tufte Features using jekyll-tufte*/
 //@import "minimal-mistakes/tables";
 @import "minimal-mistakes/fonts";
