@@ -8,6 +8,7 @@ search: false
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// AN Notes: https://github.com/NaanProphet/tripodvideoninja/commit/d9905c1f71ac57597b20073c95c50807e45f57a5
 /* hack to fill the left-hand-side when there is no author */
  .wide_post article.page {
      float: left;
