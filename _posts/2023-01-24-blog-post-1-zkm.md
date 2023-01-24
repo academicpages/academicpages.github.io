@@ -13,6 +13,9 @@ tags:
 ![png](/images/structurelight/structurelight-ideal.png)  
  图1 理想双目测距模型  
 
+![png](/images/structurelight/structurelight-ideal.png)|
+:--------:|
+ 图1 理想双目测距模型|
 
 ### (2)实际的双目测距模型
 ![png](/images/structurelight/structurelight-real.png)  
