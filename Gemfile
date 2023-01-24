@@ -32,3 +32,6 @@ gem 'tzinfo'
 gem 'tzinfo-data'
 # https://github.com/jekyll/jekyll/issues/8523#issue-774747339
 gem "webrick"
+
+# To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
+gem "faraday-retry"
