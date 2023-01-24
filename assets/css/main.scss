@@ -7,3 +7,18 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* hack to fill the left-hand-side when there is no author */
+ .wide_post article.page {
+     float: left;
+     width: 100%;
+ }
+
+ /* push the TOC out to the right just a little*/
+ .sidebar__right {
+ 	padding-left: 5%;
+ }
+ .layout--single {
+ 	margin-left: 10%;
+ 	margin-right: 10%;
+ }

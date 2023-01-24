@@ -279,7 +279,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      classes: wide
+      classes: wide_post
       read_time: true
       comments: # true
       share: false
