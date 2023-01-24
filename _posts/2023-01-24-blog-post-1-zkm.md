@@ -16,12 +16,14 @@ tags:
  图1 理想双目测距模型|
 
 ### (2)实际的双目测距模型
+
 ![png](/images/structurelight/structurelight-real.png)|
 :--------:|
  图2 实际双目测距模型|
 
 
 ### (3)双目匹配-极线约束
+
 ![png](/images/structurelight/极线约束.png)|
 :--------:|
 图3 极线约束|
