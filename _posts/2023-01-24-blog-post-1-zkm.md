@@ -9,27 +9,26 @@ tags:
   - 结构光
 ---
 
-### 理想的双目测距模型
-|![png](/images/structurelight/structurelight-ideal.png)|
-| -------------------|
-| 图1 理想双目测距模型  |
+### (1)理想的双目测距模型
+![png](/images/structurelight/structurelight-ideal.png)
+ 图1 理想双目测距模型  
 
 
-### 实际的双目测距模型
-|![png](/images/structurelight/structurelight-real.png)|
-| -------------------|
-| 图2 实际双目测距模型  |
+### (2)实际的双目测距模型
+![png](/images/structurelight/structurelight-real.png)
+ 图2 实际双目测距模型  
 
 
-### 双目匹配-极线约束
-|![png](/images/structurelight/极线约束.png)|
-| -------------------|
-| 图3 极线约束  |
+### (3)双目匹配-极线约束
+![png](/images/structurelight/极线约束.png)
+图3 极线约束  
 
 
-|![png](/images/structurelight/立体校正.png)|
-| -------------------|
-| 图4 立体校正  |
+![png](/images/structurelight/立体校正.png)
+ 图4 立体校正  
 
-### 基于视差的深度计算公式
+### (4)基于视差的深度计算公式
 ![png](/images/structurelight/视差深度公式.png)
+
+|123|1|
+|---|
