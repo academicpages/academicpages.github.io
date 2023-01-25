@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : #"monelli [at] mpa-garching.mpg.de"
+  email            : "monelli [at] mpa-garching.mpg.de"
   researchgate     : #"https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
