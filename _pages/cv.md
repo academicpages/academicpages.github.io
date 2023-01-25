@@ -12,11 +12,11 @@ author_profile: true
 
 ### Duke University (Graduate)
 
-- Advanced Topics in Deep Learning (ECE 590-07)
-- Introduction to Deep Learning (ECE 685D)
-- Engineering Deep Neural Networks (ECE 590-02/ECE 661)
-- Probabilistic Machine Learning (ECE 682D)
-- Vector Space Methods (ECE 586)
+- Advanced Topics in Deep Learning (ECE 590-07, Prof. Vahid Tarokh)
+- Introduction to Deep Learning (ECE 685D, Prof. Vahid Tarokh)
+- Engineering Deep Neural Networks (ECE 590-02/ECE 661, Prof. Yiran Chen)
+- Probabilistic Machine Learning (ECE 682D, Prof. Eric Laber)
+- Vector Space Methods (ECE 586, Prof. Henry Pfister)
 
 ### UNC Chapel Hill (Undergraduate)
 
