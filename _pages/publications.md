@@ -18,6 +18,10 @@ author_profile: true
 
 
 ## Conference Papers
+<b>[Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs.](??)
+</b><br>Junnan Dong, Qinggang Zhang, Xiao Huang, Keyu Duan, Qiaoyu Tan, <b>Zhimeng Jiang</b>. <br>
+The Web Conference (formerly WWW), 2023.
+
 <b>[Learning Fair Graph Representations via Automated Data Augmentations.](https://openreview.net/forum?id=1_OGWcP1s9w&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions))
 </b><br>Hongyi Ling, <b>Zhimeng Jiang</b>, Youzhi Luo, Shuiwang Ji, Na Zou <br>
 International Conference on Learning Representations (**ICLR Spotlight**), 2023.
@@ -77,10 +81,6 @@ Under review, 2022
 
 <b>[Graph Mixup with Soft Alignments.](??)
 </b><br>Hongyi Ling, <b>Zhimeng Jiang</b>, Meng Liu, Shuiwang Ji, Na Zou. <br>
-Under review, 2022
-
-<b>[Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs.](??)
-</b><br>Junnan Dong, Qinggang Zhang, Xiao Huang, Keyu Duan, Qiaoyu Tan, <b>Zhimeng Jiang</b>. <br>
 Under review, 2022
 
 <b>[Towards Generating Adversarial Examples on Mixed-type Data.](??)
