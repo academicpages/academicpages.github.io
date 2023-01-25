@@ -9,6 +9,10 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+* **Correlative Preference Transfer with Hierarchical Hypergraph Network for Multi-Domain Recommendation**  
+Zixuan Xu\*, **Penghui Wei**\*, Shaoguo Liu, Liang Wang, Bo Zheng (\*: Equal contribution)  
+**WWW ’23** (long): Proceedings of the Web Conference 2023 (to appear).   
+
 * **CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning**  
 **Penghui Wei**, Xuanhua Yang, Shaoguo Liu, Liang Wang, Bo Zheng  
 **NAACL ’22** (Industry Track, **Oral**): Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics. Seattle, Washington, USA, July 10--15, 2022.   
@@ -27,11 +31,7 @@ Zixuan Xu\*, **Penghui Wei**\*, Weimin Zhang, Shaoguo Liu, Liang Wang, Bo Zheng 
 
 * **AdaSparse: Learning Adaptively Sparse Structures for Multi-Domain Click-Through Rate Prediction**  
 Xuanhua Yang, Xiaoyu Peng, **Penghui Wei**†, Shaoguo Liu†, Liang Wang, Bo Zheng (†: Co-corresponding authors)    
-**CIKM ’22** (short): Proceedings of the 31st ACM International Conference on Information and Knowledge Management. Hybrid Conference, Hosted in Atlanta, Georgia, USA, October 17-21, 2022.  
-
-* **Correlative Preference Transfer with Hierarchical Hypergraph Network for Multi-Domain Recommendation**  
-Zixuan Xu\*, **Penghui Wei**\*, Shaoguo Liu, Liang Wang, Bo Zheng (\*: Equal contribution)  
-arXiv preprint arXiv:2211.11191.    
+**CIKM ’22** (short): Proceedings of the 31st ACM International Conference on Information and Knowledge Management. Hybrid Conference, Hosted in Atlanta, Georgia, USA, October 17-21, 2022.   
   
 * **AutoHERI: Automated Hierarchical Representation Integration for Post-Click Conversion Rate Estimation**  
 **Penghui Wei**, Weimin Zhang, Zixuan Xu, Shaoguo Liu, Kuang-chih Lee, Bo Zheng  
