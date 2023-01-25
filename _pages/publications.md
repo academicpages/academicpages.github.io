@@ -14,7 +14,7 @@ author_profile: true
 ## 2023
 
 * [Local Branching Relaxation Heuristics for Integer Linear Programs](https://arxiv.org/pdf/2212.08183.pdf).                     
-    **Taoan Huang**, Aaron Ferber, Yuandong Tian, Bistra Dilkina, Benoit Steiner.
+    **Taoan Huang**, Aaron Ferber, Yuandong Tian, Bistra Dilkina, Benoit Steiner.    
     <i>The 20th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (**CPAIOR**)</i>, 2023. 
 
 ## 2022
