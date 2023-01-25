@@ -12,9 +12,28 @@ Bio
 <p style="text-align:justify; text-justify:inter-ideograph;">
 Shaolei Zhang is currently working toward the Ph.D. degree in Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS). He received the B.S. degree from Beijing University of Posts and Telecommunications in 2020. His research interests include nature language processing, machine translation and simultaneous translation. He has published 11 papers on the international conferences, and won the first place in the streaming transcription track of AutoSimTrans 2021.
 </p>
-
 News
 ======
+
+Publications
+======
+
+- **Shaolei Zhang**, Yang Feng. Information-Transport-based Policy for Simultaneous Translation. *EMNLP 2022*. [[PDF](https://arxiv.org/pdf/2210.12357.pdf)] [[code](https://github.com/ictnlp/ITST)]
+- **Shaolei Zhang**, Shoutao Guo, Yang Feng. Wait-info Policy: Balancing Source and Target at Information Level for Simultaneous Machine Translation. *EMNLP 2022 findings*. [[PDF](https://arxiv.org/pdf/2210.11220.pdf)] [[code](https://github.com/ictnlp/Wait-info)]
+- Shoutao Guo, **Shaolei Zhang**, Yang Feng. Turning Fixed to Adaptive: Integrating Post-Evaluation into Simultaneous Machine Translation. *EMNLP 2022 findings*. [[PDF](https://arxiv.org/pdf/2210.11900.pdf)] [[code](https://github.com/ictnlp/PED-SiMT)]
+
+- **Shaolei Zhang**, Yang Feng. Modeling Dual Read/Write Paths for Simultaneous Machine Translation. *ACL 2022*. [[PDF](https://aclanthology.org/2022.acl-long.176.pdf)] [[Code](https://github.com/ictnlp/Dual-Path)]
+- **Shaolei Zhang**, Yang Feng. Reducing Position Bias in Simultaneous Machine Translation with Length-Aware Framework. *ACL 2022*. [[PDF](https://aclanthology.org/2022.acl-long.467.pdf)]
+- **Shaolei Zhang**, Yang Feng. Gaussian Multi-head Attention for Simultaneous Machine Translation. *ACL 2022 findings*. [[PDF](https://aclanthology.org/2022.findings-acl.238.pdf)] [[Code](https://github.com/ictnlp/GMA)]
+- **Shaolei Zhang**, Yang Feng. Universal Simultaneous Machine Translation with Mixture-of-Experts Wait-k Policy. *EMNLP 2021*. [[PDF](https://aclanthology.org/2021.emnlp-main.581.pdf)] [[Code](https://github.com/ictnlp/MoE-Waitk)]
+- **Shaolei Zhang**, Yang Feng. Modeling Concentrated Cross-Attention for Neural Machine Translation with Gaussian Mixture Model. *EMNLP 2021 findings*. [[PDF](https://aclanthology.org/2021.findings-emnlp.121.pdf)] 
+- **Shaolei Zhang**, Yang Feng. ICT’s System for AutoSimTrans 2021: Robust Char-Level Simultaneous Translation. *AutoSimTrans@NAACL 2021*. [[PDF](https://aclanthology.org/2021.autosimtrans-1.1.pdf)]
+- **Shaolei Zhang**, Yang Feng, Liangyou Li. Future-Guided Incremental Transformer for Simultaneous Translation. *AAAI 2021*. [[PDF](https://arxiv.org/pdf/2012.12465.pdf)]
+
+
+
+
+
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
