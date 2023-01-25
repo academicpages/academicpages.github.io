@@ -11,7 +11,7 @@ author_profile: true
 
 * **Correlative Preference Transfer with Hierarchical Hypergraph Network for Multi-Domain Recommendation**  
 Zixuan Xu\*, **Penghui Wei**\*, Shaoguo Liu, Liang Wang, Bo Zheng (\*: Equal contribution)  
-**WWW ’23** (long): Proceedings of the Web Conference 2023 (to appear).   
+**WWW ’23** (long): Proceedings of the Web Conference 2023 (to appear). Austin, Texas, USA, April 30 -- May 4, 2023.   
 
 * **CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning**  
 **Penghui Wei**, Xuanhua Yang, Shaoguo Liu, Liang Wang, Bo Zheng  
