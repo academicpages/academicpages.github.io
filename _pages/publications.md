@@ -46,6 +46,7 @@ Selected Conference Papers
 * **"Evaluating the Impact of Experimental Assumptions in Automated Fault Localization."**
 **Soremekun, Ezekiel**, Lukas Kirschner, Marcel Böhme, and Mike Papadakis.
 2023 IEEE/ACM 45th International Conference on Software Engineering (ICSE), 2023. 
+[preprint](https://drive.google.com/file/d/1Q0lqaZtoC_rKP41RxyWshaNU-z9x49Wa/view?usp=sharing)
 
 * **"GraphCode2Vec: Generic Code Embedding via Lexical and Program Dependence Analyses."**
 Ma, Wei, Mengjie Zhao, **Ezekiel Soremekun**, Qiang Hu, Jie Zhang, Mike Papadakis, Maxime Cordy, Xiaofei Xie, and Yves Le Traon.
