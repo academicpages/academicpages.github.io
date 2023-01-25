@@ -12,7 +12,7 @@ author_profile: true
 Articles in peer-reviewed journals
 -----
 
-* Aug 2022. Active Choice vs. Inertia? An Exploratory Analysis of the Choice-Screen Applied in the European Antitrust Case. *Journal of Competition Law & Economics*. Available [here](https://academic-oup-com.stanford.idm.oclc.org/jcle/advance-article-abstract/doi/10.1093/joclec/nhac009/6672805?redirectedFrom=fulltext&login=true). Also available on [SSRN][http://ssrn.com/abstract=3766468].
+* Aug 2022. Active Choice vs. Inertia? An Exploratory Analysis of the Choice-Screen Applied in the European Antitrust Case. *Journal of Competition Law & Economics*. Available [here](https://academic.oup.com/jcle/advance-article-abstract/doi/10.1093/joclec/nhac009/6672805?redirectedFrom=fulltext&login=false). Also available on [SSRN][http://ssrn.com/abstract=3766468].
 
 * Feb 2021. Omar Vásquez Duque & Jörg Hoffmann. Can Data Exploitation be Properly Addressed by Competition Law? A Note of Caution, February 2021, *Concurrences* N° 1-2021, Art. N° 98791, pp. 75-82. Available [here](https://www.concurrences.com/en/review/issues/no-1-2021/droit-et-economie/98791).
 
