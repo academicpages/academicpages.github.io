@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "about me"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-missing text
+I am a PhD student at the Max Planck Institute for Astrophysics (Garching, Germany) supervised by Eiichiro Komatsu.
