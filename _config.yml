@@ -80,11 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shaolei Zhang 张绍磊"
+  name             : "Shaolei Zhang | 张绍磊"
   avatar           : "profile.png"
-  bio              : "Natural Language Processing Group
-  Key Laboratory of Intelligent Information Processing
-  Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS)"
+  bio              : "Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS)"
   location         : "Beijing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
