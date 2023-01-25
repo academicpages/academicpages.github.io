@@ -13,7 +13,7 @@ author_profile: true
  * <b> Deep learning-based accurate and robust delineation of primary gross tumor volumes of nasopharyngeal carcinoma on heterogeneous magnetic resonance imaging: a large-scale and multi-center study</b> <br> 
  <b>Xiangde Luo</b>, Wenjun Liao, Yuan He, Fan Tang, Mengwan Wu, Yuanyuan Shen, Hui Huang, Tao Song, Kang Li, Shichuan Zhang, Shaoting Zhang, Guotai Wang<br> 
  <b>Radiation and Oncology, 180 (2023): 109480. (2022 IF 6.901)</b>.<br>
-  [[paper](https://www.sciencedirect.com/science/article/pii/S016781402300018X)][[code](https://github.com/Luoxd1996/RobustNPC)]
+  [[paper](https://www.sciencedirect.com/science/article/pii/S016781402300018X)][[code](https://github.com/Luoxd1996/RobustNPC)][[pdf](../files/RobustNPC-GreenJournal2023.pdf)]
 
  * <b>WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image</b> <br> 
   <b>Xiangde Luo</b>, Wenjun Liao, Jianghong Xiao, Jieneng Chen, Tao Song, Xiaofan Zhang, Kang Li, Dimitris N. Metaxas, Guotai Wang, Shaoting Zhang<br>
