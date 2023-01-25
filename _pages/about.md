@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-
+Bio
+======
 <p style="text-align:justify; text-justify:inter-ideograph;">
 Shaolei Zhang is currently working toward the Ph.D. degree in Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS). He received the B.S. degree from Beijing University of Posts and Telecommunications in 2020. His research interests include nature language processing, machine translation and simultaneous translation. He has published 11 papers on the international conferences, and won the first place in the streaming transcription track of AutoSimTrans 2021.
 </p>
