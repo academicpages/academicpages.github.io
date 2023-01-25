@@ -19,7 +19,7 @@ During my Ph.D., my research interests were in natural language processing and s
 
 News
 ======
-* Nov. 2022: Our new preprint about *multi-domain retrieval* is out.  
+* Jan. 2023: A co-first authored paper about *multi-domain retrieval* was accepted at WWW 2023.  
 * Aug. 2022: A co-corresponding authored paper about *multi-domain ranking* was accepted at CIKM 2022.  
 * Apr. 2022: Three first-authored papers about *calibrated ranking* and *ad creative generation* were accepted at SIGIR 2022 and NAACL 2022.  
 * Jan. 2022: A co-first authored paper about *debiased ranking* was accepted at WWW 2022.  
