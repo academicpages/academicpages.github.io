@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://yawenliu-ece.github.io/yawenliu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yawenliu-ece/yawenliu.github.io"
-teaser                   : "YawenL.jpg"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Yawen Liu"
-  avatar           : "YawenL.jpg"
+  avatar           : "YawenL.png"
   bio              : "First-year PhD student"
   location         : "Pittsburgh, PA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DU9jlOUAAAAJ&hl=en"
   email            : "yawenl@andrew.cmu.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0003-2038-9968"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
@@ -181,15 +181,27 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  researchproject:
+  portfolio:
     output: true
     permalink: /:collection/:path/
-  contact:
+  talks:
     output: true
     permalink: /:collection/:path/
 
+
 # Defaults
 defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
@@ -211,19 +223,9 @@ defaults:
       path: ""
       type: researchproject
     values:
-      layout: single
+      layout: researchproject
       author_profile: true
       share: true
-      comments: true
-  # _contact
-  - scope:
-      path: ""
-      type: contact
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
 
 # Sass/SCSS
 sass:

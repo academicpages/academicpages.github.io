@@ -11,48 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, University of Southern California, 2022
+* B.S. in Applied and Computational Mathematics, University of Southern California, 2022
+* PhD student in Electrical and Computer Engineering, Carnegie Mellon University, 2027 (expected)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Department of Electrical and Computer Engiasmneering, USC Los Angeles, CA
+#### Researcher, under the supervision of Prof. Bhaskar Krishnamachari Aug. 2021–May 2022
+* Undertake a two-semester research project on a localization system with single channel with omnidirectional microphones utilizing 3D printed stencils, as part of my undergraduate thesis. 
   
+### ACME Lab, USC Los Angeles, CA
+#### Research Assistant to Prof. Constantine Sideris May 2021–Mar. 2022
+* Simulate a three-axis localization system by evaluating the EM field of a wireless smart pill PCB received from a set of 3-dimensional coils as a part of a biosensing project. 
+
+### HaRVI Lab and Viterbi Summer 2020 Research Program, USC Los Angeles, CA
+#### Research Assistant to Prof. Heather Culbertson May 2020–Present
+* Participate in a research project on haptic interactions and related applications in VR.
+* Develop quantitative algorithms to analyze correlation of sound and vibration signals captured from acceleration sensors and microphones in tool-surface interactions.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Technical Skills: 
+Programming in C++, MATLAB, Java, Python, Assembly Language, Verilog, and Elementary Proficiency in C and R, HFSS, MATLAB, LTSpice, Cadence, Modelsim
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  
   
 Service and leadership
 ======
