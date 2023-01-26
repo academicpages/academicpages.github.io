@@ -17,9 +17,9 @@ Shaolei Zhang is currently working toward the Ph.D. degree in the Key Laboratory
 News
 ======
 
-- [ ] [2023.01.21]	**One paper** is accepted by ICLR 2023 (spotlight).
-- [ ] [2022.10.06]	**Three papers** are accepted by EMNLP 2022.
-- [ ] [2022.02.24]	**Three papers** are accepted by ACL 2022.
+[2023.01.21]	**One paper** is accepted by ICLR 2023 (spotlight).
+[2022.10.06]	**Three papers** are accepted by EMNLP 2022.
+[2022.02.24]	**Three papers** are accepted by ACL 2022.
 
 ------
 
