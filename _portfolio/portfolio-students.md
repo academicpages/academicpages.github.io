@@ -11,7 +11,7 @@ collection: portfolio
 
 |俞聪|明士凯|石鹏|
 |:-------:|:-----------:|:-------------:|
-|![俞聪](/images/俞聪.png "俞聪")|![明士凯](/images/bio-photo-2.jpg "明士凯")|![石鹏](/images/bio-photo-2.jpg "石鹏")|
+|![俞聪](/images/students/yucong.png "俞聪")|![明士凯](/images/bio-photo-2.jpg "明士凯")|![石鹏](/images/bio-photo-2.jpg "石鹏")|
 
 article1:  
 article2:  
