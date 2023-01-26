@@ -9,7 +9,7 @@ author_profile: false
 
 ## Publications
 
-- [_Semi-global Kuranishi charts and the definition of contact homology_](https://arxiv.org/abs/1512.00580) (with K. Honda), *Advances in Mathematics* (2023) accepted
+- [_Semi-global Kuranishi charts and the definition of contact homology_](https://arxiv.org/abs/1512.00580) (with K. Honda), *Advances in Mathematics*,   Volume 414, (2023)
 
 - [_Immersed Lagrangian Floer cohomology via pearly trajectories_](https://arxiv.org/abs/1907.03072) (with G. Alston), *Journal of Geometry and Physics* (2021) 169
 
