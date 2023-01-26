@@ -1,5 +1,5 @@
 ---
-title: "Matemática Básica - DCETxxxX"
+title: "Matemática Básica - DCET0100"
 collection: teaching
 type: "Curso de Agronomia"
 permalink: /teaching/matbas
@@ -8,7 +8,7 @@ date: 2022-07-11
 location: "Vitória da Conquista-Ba, Brasil"
 ---
 
-Semestre 2023.1
+Semestre 2022.2
 
 Ementa
 ======
