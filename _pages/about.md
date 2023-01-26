@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-Shaolei Zhang is currently working toward the Ph.D. degree in the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS). He received his bachelor's degree from Beijing University of Posts and Telecommunications in 2020, majoring in computer science and technology. His research interests include nature language processing, machine translation and simultaneous translation. He has published 11 papers on the international conferences, and won the first place in the streaming transcription track of AutoSimTrans 2021.
+Shaolei Zhang is currently working toward his Ph.D. degree in the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS). He received his bachelor's degree from Beijing University of Posts and Telecommunications in 2020, majoring in computer science and technology. His research interests include nature language processing, machine translation and simultaneous translation. He has published 11 papers on the international conferences, and won the first place in the streaming transcription track of AutoSimTrans 2021.
 </p>
 
 ------
@@ -17,9 +17,9 @@ Shaolei Zhang is currently working toward the Ph.D. degree in the Key Laboratory
 News
 ======
 
-[2023.01.21]	**One paper** is accepted by ICLR 2023 (spotlight).
-[2022.10.06]	**Three papers** are accepted by EMNLP 2022.
-[2022.02.24]	**Three papers** are accepted by ACL 2022.
+- [2023.01.21]	**One paper** is accepted by ICLR 2023 (spotlight).
+- [2022.10.06]	**Three papers** are accepted by EMNLP 2022.
+- [2022.02.24]	**Three papers** are accepted by ACL 2022.
 
 ------
 
