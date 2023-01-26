@@ -15,7 +15,6 @@ During 2015-2016, I worked in [Computational Biology and Cognitive Science Lab (
 In 2019 summer, I worked with [Dr. Barry Theobald](https://scholar.google.com/citations?user=DNrQd3IAAAAJ&hl=en) as a research intern at [Apple](https://jobs.apple.com/en-us/details/200105314/ai-research-machine-learning-researcher).
 In 2020, I joined [Bosch Research](https://www.bosch.us/our-company/bosch-in-the-usa/sunnyvale/) as a summer intern, working with [Dr. Xinyu Huang](https://scholar.google.com/citations?user=cL4bNBwAAAAJ&hl=en) and [Dr. Liu Ren](https://sites.google.com/site/liurenshomepage/).
 --> 
-<br/>
 
 News
 ======
@@ -66,6 +65,10 @@ Research
       <strong>Blind Removal of Facial Foreign Shadows</strong><br/>
       <u>Yaojie Liu*</u>, Andrew Hou*, Xinyu Huang, Liu Ren, Xiaoming Liu<br/>
       British Machine Vision Conference (BMVC'22), 2022. <br/>
+      [<a href="http://cvlab.cse.msu.edu/pdfs/Liu_Hou_Huang_Ren_Liu_BMVC2022.pdf">PDF</a>]
+      [<a href="https://andrewhou1.github.io/SFW_video_BMVC2022_all.mp4">Demo</a>]
+      [<a href="https://andrewhou1.github.io/0088_video.mp4">Demo</a>]
+      [<a href="https://github.com/andrewhou1/BlindShadowRemoval">Code</a>]
     </p>
   </div>
 </div>
