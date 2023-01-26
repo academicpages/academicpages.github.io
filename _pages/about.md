@@ -9,12 +9,19 @@ redirect_from:
 ---
 
 <p style="text-align:justify; text-justify:inter-ideograph;">
-Shaolei Zhang is currently working toward the Ph.D. degree in Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS). He received the B.S. degree from Beijing University of Posts and Telecommunications in 2020. His research interests include nature language processing, machine translation and simultaneous translation. He has published 11 papers on the international conferences, and won the first place in the streaming transcription track of AutoSimTrans 2021.
+Shaolei Zhang is currently working toward the Ph.D. degree in the Key Laboratory of Intelligent Information Processing, Institute of Computing Technology, Chinese Academy of Sciences (ICT/CAS). He received his bachelor's degree from Beijing University of Posts and Telecommunications in 2020, majoring in computer science and technology. His research interests include nature language processing, machine translation and simultaneous translation. He has published 11 papers on the international conferences, and won the first place in the streaming transcription track of AutoSimTrans 2021.
 </p>
 
+------
 
 News
 ======
+
+- [ ] [2023.01.21]	**One paper** is accepted by ICLR 2023 (spotlight).
+- [ ] [2022.10.06]	**Three papers** are accepted by EMNLP 2022.
+- [ ] [2022.02.24]	**Three papers** are accepted by ACL 2022.
+
+------
 
 Publications
 ======
@@ -28,7 +35,14 @@ Publications
 - **Shaolei Zhang**, Yang Feng. Modeling Concentrated Cross-Attention for Neural Machine Translation with Gaussian Mixture Model. *EMNLP 2021 findings*. [[PDF](https://aclanthology.org/2021.findings-emnlp.121.pdf)] 
 - **Shaolei Zhang**, Yang Feng. ICT’s System for AutoSimTrans 2021: Robust Char-Level Simultaneous Translation. *AutoSimTrans@NAACL 2021*. [[PDF](https://aclanthology.org/2021.autosimtrans-1.1.pdf)]
 - **Shaolei Zhang**, Yang Feng, Liangyou Li. Future-Guided Incremental Transformer for Simultaneous Translation. *AAAI 2021*. [[PDF](https://arxiv.org/pdf/2012.12465.pdf)]
+- **Shaolei Zhang**, Gang Lu, Kai Shuang. Opinion Knowledge Injection Network for Aspect Extraction. *ICONIP 2019*. [[PDF](https://link.springer.com/chapter/10.1007/978-3-030-36711-4_56)]
 
+------
 
-
-
+Award
+======
+- [2022]	National scholarship (国家奖学金)
+- [2021]	First place in the streaming transcription track of AutoSimTrans 2021
+- [2020]	Beijing outstanding graduate (北京市优秀毕业生)
+- [2018]	Beijing merit student (北京市三好学生)
+- [2017]	National scholarship (国家奖学金)
