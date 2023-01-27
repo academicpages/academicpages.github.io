@@ -12,12 +12,12 @@ author_profile: false
 | Thu, 2023-01-19 | 1:30pm - 2:30pm |                |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 | Thu, 2023-01-26 | 1:30pm - 2:30pm |                |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 | Thu, 2023-02-02 | 1:30pm - 2:30pm |                |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
-| Thu, 2023-02-09 | 1:30pm - 2:30pm | Shaoyun Bai    |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
+| Thu, 2023-02-09 | 1:30pm - 2:30pm |                |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 | Thu, 2023-02-16 | 1:30pm - 2:30pm | Li-Sheng Tseng |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 | Thu, 2023-02-23 | 1:30pm - 2:30pm |                |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 | Thu, 2023-03-02 | 1:30pm - 2:30pm |                |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 | Thu, 2023-03-09 | 1:30pm - 2:30pm | spring break   |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
-| Thu, 2023-03-16 | 1:30pm - 2:30pm |                |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
+| Thu, 2023-03-16 | 1:30pm - 2:30pm | Shaoyun Bai    |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 | Thu, 2023-03-23 | 1:30pm - 2:30pm |                |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 | Thu, 2023-03-30 | 1:30pm - 2:30pm |                |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 | Thu, 2023-04-06 | 1:30pm - 2:30pm |                |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
