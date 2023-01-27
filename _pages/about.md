@@ -44,6 +44,7 @@ In general, I am very interested in __computational statistics__ and __machine l
 
 ## Selected Award
 * Best Student Paper Award from the Section on Bayesian Statistical Science of the American Statistical Association, 2022.
+* Costas Goutis Prize, Dept. of Stats., UCL
 * Silver Medal for Best poster at the conference Bristol: FRY, 2021.
 * The Alan Turing Institute Enrichment Award, 2021.
 * EPSRC PhD Scholarship, 2019-2023.
