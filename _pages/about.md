@@ -10,7 +10,7 @@ redirect_from:
 
 # News
 
-   Our Paper **Fair learning with Wasserstein barycenters for non-decomposable performance measures** has been accepted at AISTATS!
+   Our paper **Fair learning with Wasserstein barycenters for non-decomposable performance measures** has been accepted at AISTATS!
    
    I have will be working as a postdoc at INRIA with [Frederic Chazal](https://geometrica.saclay.inria.fr/team/Fred.Chazal/) until August 2023. I have received a Hadamard postdoc fellowship to work with [Vianney Perchet](https://vianney.ai/) starting September 2023.
    
