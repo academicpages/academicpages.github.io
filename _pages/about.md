@@ -13,7 +13,7 @@ redirect_from:
 ![moire](/images/xy.gif "moire_xy")
 ![moire](/images/y.gif "moire_y")
 
-# Research Interests:
+# Research Interests （招生方向）:
 
 - Modern Optical Measurement Methods
 	- Digital image correlation (DIC)
