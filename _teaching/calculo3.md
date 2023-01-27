@@ -23,6 +23,7 @@ Bibliografia
 1. Guidorizzi, H. L., Um Curso de Cálculo, Volume 2, 5a Edição, LTC, 2002.
 1. Guidorizzi, H. L., Um Curso de Cálculo, Volume 3, 5a Edição, LTC, 2002.
 1. Guidorizzi, H. L., Um Curso de Cálculo, Volume 4, 5a Edição, LTC, 2002.
+1. Leithold, L., O Cálculo com Geometria Analítica, Volume 2, 3a Edição, Editora Harbra, 1994.
 1. Stewart, James. Cálculo, Volume II, 5a Edição, Thomson, 2006
 
 Plano de Curso
@@ -31,10 +32,10 @@ Disponível no sistema SAGRES.
 
 Datas das Provas
 ======
-* Primeira prova: 
-* Segunda prova:  
-* Terceira prova: 
-* Prova FInal : 
+* Primeira prova: 13/03/2023
+* Segunda prova: 24/04/2023
+* Terceira prova: 12/06/2023
+* Prova Final :  16/06/2023
 
 Listas de Exercícios 
 ======
