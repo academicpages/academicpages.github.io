@@ -12,7 +12,7 @@ Semestre 2022.2
 
 Ementa
 ======
-Sequências e séries. Fórmula de Taylor. Funções de várias variáveis. Derivadas Parciais. Integrais Múltiplos e Aplicações. 
+Sequências e séries. Fórmula de Taylor. Funções de várias variáveis. Derivadas Parciais. Integrais Múltiplas e Aplicações. 
 
 Avaliação
 ======
