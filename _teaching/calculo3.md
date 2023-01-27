@@ -25,6 +25,7 @@ Bibliografia
 1. Guidorizzi, H. L., Um Curso de Cálculo, Volume 4, 5a Edição, LTC, 2002.
 1. Leithold, L., O Cálculo com Geometria Analítica, Volume 2, 3a Edição, Editora Harbra, 1994.
 1. Stewart, James. Cálculo, Volume II, 5a Edição, Thomson, 2006
+1. Thomas, G. B., Cálculo, Volume 2, 11a Edição, Pearson Education, 2009.
 
 Plano de Curso
 ======
