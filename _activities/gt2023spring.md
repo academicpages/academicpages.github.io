@@ -18,10 +18,10 @@ author_profile: false
 | Thu, 2023-03-02 | 1:30pm - 2:30pm |                |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 | Thu, 2023-03-09 | 1:30pm - 2:30pm | spring break   |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 | Thu, 2023-03-16 | 1:30pm - 2:30pm | Shaoyun Bai    |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
-| Thu, 2023-03-23 | 1:30pm - 2:30pm |                |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
+| Thu, 2023-03-23 | 1:30pm - 2:30pm | Chris Wendl    |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 | Thu, 2023-03-30 | 1:30pm - 2:30pm |                |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 | Thu, 2023-04-06 | 1:30pm - 2:30pm |                |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
-| Thu, 2023-04-13 | 1:30pm - 2:30pm |                |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
+| Thu, 2023-04-13 | 1:30pm - 2:30pm |  Yuan Yao      |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 | Thu, 2023-04-20 | 1:30pm - 2:30pm |                |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 | Thu, 2023-04-27 | 1:30pm - 2:30pm |                |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 | Thu, 2023-05-04 | 1:30pm - 2:30pm |                |       | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
