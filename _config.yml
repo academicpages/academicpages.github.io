@@ -7,6 +7,7 @@
 
 #logo
 logo: "/assets/images/husky.jpg"
+theme: minimal-mistakes-jekyll
 
 # Site Settings
 locale                   : "en-US"
