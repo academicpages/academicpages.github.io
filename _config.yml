@@ -60,7 +60,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "https://twitter.com/tiendat99323486"
 facebook:
   username               :
   app_id                 :
