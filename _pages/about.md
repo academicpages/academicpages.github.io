@@ -60,7 +60,6 @@ In general, I am very interested in __computational statistics__ and __machine l
 
 
 
- 
 
 
 <a href="https://clustrmaps.com/site/1bg2c" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=a&t=n&d=C4byDrEvOWlkQBPck4uhnEYVbsB_VEy0fAJC1qmic1s&co=ffffff&ct=808080" /></a>
