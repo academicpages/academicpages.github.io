@@ -9,16 +9,16 @@ redirect_from:
 ---
 
 # News
+
+   Our Paper **Fair learning with Wasserstein barycenters for non-decomposable performance measures** has been accepted at AISTATS!
    
-   I have defended my PhD on Stochastic Bandits and Link Prediction, under the supervision of [Christophe Giraud](https://www.math.u-psud.fr/~giraud/) and [Olga Klopp](http://kloppolga.perso.math.cnrs.fr/). Here you can find the [manuscript](../thesis.pdf) and the [slides](../slides.pdf). Many thanks to my reviewers Pierre Alquier and Alexandre Proutiere, as well as to Émilie Kaufmann and Quentin Berthet for their participation in my jury, colourfully chaired by Vianney Perchet!
-   
-   I have since moved to San Francisco.
+   I have will be working as a postdoc at INRIA with [Frederic Chazal](https://geometrica.saclay.inria.fr/team/Fred.Chazal/) until August 2023. I have received a Hadamard postdoc fellowship to work with [Vianney Perchet](https://vianney.ai/) starting September 2023.
    
 # Papers, preprints, and software
 
-**Fair learning with Wasserstein barycenters for non-decomposable performance measures** (2022) S. Gaucher, N. Schreuder, E. Chzhen [Preprint on Arxiv](https://arxiv.org/abs/2209.00427)
+**Fair learning with Wasserstein barycenters for non-decomposable performance measures** (2022) S. Gaucher, N. Schreuder, E. Chzhen. To appear in AISTATS 2023. [Preprint on Arxiv](https://arxiv.org/abs/2209.00427)
 
-**The price of unfairness in linear bandits with biased feedback** (2022), S. Gaucher, A. Carpentier, C. Giraud. To appear in NeurIPS 2022. [Preprint on Hall](https://hal.archives-ouvertes.fr/hal-03611628) [Short Presentation]([https://slideslive.com/s/solenne-gaucher-43495])
+**The price of unfairness in linear bandits with biased feedback** (2022), S. Gaucher, A. Carpentier, C. Giraud. NeurIPS 2022. [Preprint on Hall](https://hal.archives-ouvertes.fr/hal-03611628) [Short Presentation]([https://slideslive.com/s/solenne-gaucher-43495])
 
 **Hierarchical transfer learning with applications for electricity load forecasting** (2021), A. Antoniadis, S. Gaucher, Y. Goude. [Preprint on HAL](https://hal.archives-ouvertes.fr/hal-03429702)
 
