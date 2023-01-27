@@ -11,8 +11,9 @@ redirect_from:
 My name is Jingwu Tang (唐静吾). I am a senior-year undergrad at Turing Class, Peking University. I am fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). During Fall 2021, I am pleased to have worked closely with [Zhe Feng](https://zfengharvard.github.io/) at Google Research. From Summer 2022, I am fortunate to work with Prof. [Steven Wu](https://zstevenwu.com/) at CMU. My research interest broadly lies in differential privacy, algorithmic game theory and machine learning. Most recently, I've been thinking about how to design better mechanisms through machine learning approaches.
 
 # Publications
-+ **A Context-Integrated Transformer-Based Neural Network for Auction Design**. <br>Zhijian Duan, Jingwu Tang, Yutong Yin, Zhe Feng, Xiang Yan, Manzil Zaheer, and Xiaotie Deng. ***ICML-22***. [arXiv](https://arxiv.org/abs/2201.12489).
-+ **Differentially Private Synthetic Data via Zeroth-order Optimization**. <br>Jingwu Tang, Terrance Liu, Giuseppe Vietri, Zhiwei Steven Wu. ***PPAI (AAAI workshop), 2023. The full version will be submitted to ICML-23***.
++ **A Context-Integrated Transformer-Based Neural Network for Auction Design**. <br>Zhijian Duan, Jingwu Tang, Yutong Yin, Zhe Feng, Xiang Yan, Manzil Zaheer, and Xiaotie Deng. ***ICML, 2022***. [arXiv](https://arxiv.org/abs/2201.12489).
++ **Differentially Private Synthetic Data via Zeroth-order Optimization**. <br>Jingwu Tang, Terrance Liu, Giuseppe Vietri, Zhiwei Steven Wu. ***PPAI (AAAI workshop), 2023.
++ **Generating Private Synthetic Data with Genetic Algorithms**. <br>Terrance Liu*, Jingwu Tang*, Giuseppe Vietri*, Zhiwei Steven Wu. ***Submitted to ICML, 2023.*** Final version of the PPAI paper.
 
 # Service
 + Reviewer: PPAI 2023 (workshop of AAAI)
