@@ -16,3 +16,4 @@ Google Developer Badges
 Microsoft Certification
 ======
 ![AI-900](../images/ai-900.png)
+[Link](https://www.credly.com/badges/7cbc2eb1-b47b-43b1-937d-9493f898a4cd/linked_in)
