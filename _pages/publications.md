@@ -12,7 +12,7 @@ Zheng Chai, <b>Guangji Bai*</b>, Liang Zhao, Yue Cheng.<br>
 ## 2023
 * <b>Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks</b>.<br>
 <b>Guangji Bai</b>, Chen Ling*, Liang Zhao.<br>
-<i>The Eleventh International Conference on Learning Representations (ICLR 2023, Oral Top 5%)</i>.<br>
+<i>The Eleventh International Conference on Learning Representations (ICLR 2023, Oral)</i>.<br>
 
 * <b>Saliency-Augmented Memory Completion for Continual Learning</b>.<br>
 <b>Guangji Bai</b>, Chen Ling, Yuyang Gao, Liang Zhao.<br>
