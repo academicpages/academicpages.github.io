@@ -5,15 +5,15 @@ author_profile: true
 ---
 
 ## Preprint
-* <b>Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks</b>.<br>
-<b>Guangji Bai</b>, Chen Ling*, Liang Zhao.<br>
-<i>ArXiv. Under review</i>.<br>
-
 * <b>Distributed Graph Neural Network Training with Periodic Stale Representation Synchronization</b>.<br>
 Zheng Chai, <b>Guangji Bai*</b>, Liang Zhao, Yue Cheng.<br>
 <i>ArXiv. Under review</i>.<br>
   
 ## 2023
+* <b>Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks</b>.<br>
+<b>Guangji Bai</b>, Chen Ling*, Liang Zhao.<br>
+<i>The Eleventh International Conference on Learning Representations (ICLR 2023, Oral Top 5%)</i>.<br>
+
 * <b>Saliency-Augmented Memory Completion for Continual Learning</b>.<br>
 <b>Guangji Bai</b>, Chen Ling, Yuyang Gao, Liang Zhao.<br>
 <i>SIAM International Conference on Data Mining (SDM 2023)</i>.<br>
