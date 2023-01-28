@@ -22,7 +22,7 @@ My current projects include:
 * **Scaffolding Fair ML Practice:** How can we support cross-functional collaboration in AI teams around fairness efforts? (w/ [Ken Holstein](https://www.thecoalalab.com/kenholstein){:target="_blank"} and [Micheal Madaio](http://michaelmadaio.com/){:target="_blank"})
 
 ## News
-* January 2023 - Paper from my Google PAIR research internship is accepted to CHI 2023! "Investigating How Practitioners Use Human-AI Guidelines: A Case Study on the People + AI Guidebook" (Preprint will be available soon)
+* January 2023 - Paper from my Google PAIR research internship is accepted to CHI 2023! "Investigating How Practitioners Use Human-AI Guidelines: A Case Study on the People + AI Guidebook" [[preprint]](https://www.researchgate.net/publication/367510244_Investigating_How_Practitioners_Use_Human-AI_Guidelines_A_Case_Study_on_the_People_AI_Guidebook)
 * January 2023 - Served as an Associate Chair for CHI 2023 in the Design track
 * November 2022 - I passed my PhD thesis proposal and I am officially a PhD candidate!
 * October 2022 - Invited talk at the Microsoft Research Summit Workshop on Metaphors for Human-AI Interaction 
