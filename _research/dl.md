@@ -25,10 +25,9 @@ In this work, we developed two pipelines for energy absorption prediction: one-s
 
 <figure>
     <img src='/images/dl_pipelines.png' class="center"> 
-    <figcaption> Schematic of the proposed two ML pipelines to predict laser absorption for x-ray keyhole images. The one on top use CNN to extract features automatically and the one at the bottom use engineered geometric keyhole features.
+    <figcaption> Schematic of the proposed two ML pipelines to predict laser absorption for x-ray keyhole images. The one on top uses CNN to extract features automatically and the one at the bottom uses engineered geometric keyhole features.
     </figcaption>
 </figure>
-
 
 <div style="text-align: justify">
 For the semantic segmentation part in the two-stage approach we created a keyhole segmentation dataset with ground truth masks from four different metallic materials and both stationary and scanning laser conditions to cover large sample space, and experimented with different segmentation models to evaluate the effectiveness to pretrained weights learned on ImageNet and to achieve automatic, robust and accurate keyhole segmentaions. We also compare the two different absorption prediction pipelines in terms of accuracy, interpretability and generalizability on unseen materials.
