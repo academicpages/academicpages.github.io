@@ -12,14 +12,14 @@ Publications
 
 Working Papers
 ---
+Populism, Promises, and Aid Withdrawal: The Case of 'Kosova e Re' (<a href= "https://cobrienudry.github.io/files/aid_withdrawal_parties.pdf">draft</a>)
+
+Whose aid? Credit-attribution for foreign aid amongst ethnic minorities (<a href="https://cobrienudry.github.io/files/ethnic_minority_aidApr2022.pdf">draft</a>)
 
 Aid, Blame, and Backlash: The Political Economy of Unpopular Aid (<a href= "https://cobrienudry.github.io/files/obrien-udry_aid_blame_backlash.pdf">draft</a>)
 
 Innovation and Interdependence: The Case of Gene-Editing Technology (with Tyler Pratt) (<a href= "https://cobrienudry.github.io/files/Genes_Jan2022.pdf">draft</a>)
 
-International status: concept meets measurement (with Lauren Ferry) (<a href= "https://cobrienudry.github.io/files/Status_011222.pdf">draft</a>) 
+The possibilities and limits of international status: evidence from foreign aid and public opinion (with Lauren Ferry) (<a href= "https://cobrienudry.github.io/files/Status_Jan2023.pdf">Under Review</a>) 
 
-Populism, Promises, and Aid Withdrawal: The Case of 'Kosova e Re' (<a href= "https://cobrienudry.github.io/files/aid_withdrawal_parties.pdf">draft</a>)
-
-Whose aid? Credit-attribution for foreign aid amongst ethnic minorities (<a href="https://cobrienudry.github.io/files/ethnic_minority_aidApr2022.pdf">draft</a>)
 
