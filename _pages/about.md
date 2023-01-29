@@ -199,7 +199,7 @@ Will be attending AAAI '23 at Washington D.C. from Feb 7 - 14, 2023. Come and sa
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b>SemanticHAR: Enhancing Human Activity Recognition via Label Name Modeling</b>
+    <b><a href="https://arxiv.org/pdf/2301.03462.pdf" target="_blank">Modeling Label Semantics Improves Activity Recognition</a></b>
     <br>Built an encoder-decoder architecture to model label name semantics that harnesses the shared sub-structure of label names to distill knowledge across classes, <b>improving accuracy</b> of human activity recognition tasks by <b>1.7%</b>.
     </p>
   </div>
@@ -405,9 +405,9 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   </p>
   
   <p>
-  <b>Enhancing Human Activity Recognition via Label Name Modeling</b>
+  <b>Modeling Label Semantics Improves Activity Recognition</b>
   <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang
-  <br><em>[under submission]</em>
+  <br><a href="https://arxiv.org/pdf/2301.03462.pdf" target="_blank">paper</a>
   </p>
   
   <p>
