@@ -15,7 +15,9 @@ I received my Ph.D. degree from the Department of Electric and Computer Engineer
 
 ### Selected Publication:
 
-<div class="table">
+
+
+<div markdown="0" class="table">
         <tr>
 		<td> Preprint 2022 </td>
 		<td> <image src="https://github.com/Linear95/linear95.github.io/blob/master/images/Fig_RLM.png"  width = 256px height = 144px> </td>
