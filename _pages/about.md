@@ -15,34 +15,13 @@ I received my Ph.D. degree from the Department of Electric and Computer Engineer
 
 ### Selected Publication:
 
+|| | | |
+|:-----|-----|:-------|:-----|
+|Preprint 2022|<image src="https://github.com/Linear95/linear95.github.io/blob/master/images/Fig_RLM.png"  width ="256" height = "144">| [Replacing Language Model for Style Transfer](https://arxiv.org/pdf/2211.07343.pdf)|**P. Cheng**, R. Li|
+|ICLR 2021| <image src="https://github.com/Linear95/linear95.github.io/blob/master/images/fig_FairFIL.png"  width="256" height="144"> |[FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w)|**P. Cheng**\*, W. Hao\*, S. Yuan, S. Si, L. Carin|
+|ICLR 2021| <image src="https://github.com/Linear95/linear95.github.io/blob/master/images/fig_IDEVC.png"  width="256" height="144"> | [Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning](https://openreview.net/forum?id=TgSVWXw22FQ)| S. Yuan\*, **P. Cheng**\*, R. Zhang, W. Hao, Z. Gan, L. Carin|
+|ICML 2020| <image src="https://github.com/Linear95/linear95.github.io/blob/master/images/fig_CLUB.png"  width="256" height="144">|[CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information](https://arxiv.org/abs/2006.12013)|**P. Cheng**, W. Hao, S. Dai, J. Liu, Z. Gan, L. Carin|
 
-
-<table>
-        <tr>
-		<td> Preprint 2022 </td>
-		<td> <image src="https://github.com/Linear95/linear95.github.io/blob/master/images/Fig_RLM.png"  width ="256" height = "144"> </td>
-		<td> <a href="https://arxiv.org/pdf/2211.07343.pdf"> Replacing Language Model for Style Transfer </a> </td>
-		<td> <b>P. Cheng</b>, R. Li </td>
-	</tr>
-	<tr>
-		<td> ICLR 2021 </td>
-		<td> <image src="https://github.com/Linear95/linear95.github.io/blob/master/images/fig_FairFIL.png"  width="256" height="144"> </td>
-		<td> <a href="https://openreview.net/forum?id=N6JECD-PI5w"> FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders </a> </td>
-		<td> <b>P. Cheng</b>*, W. Hao*, S. Yuan, S. Si, L. Carin </td>
-	</tr>
-	<tr>
-		<td> ICLR 2021 </td>
-		<td> <image src="https://github.com/Linear95/linear95.github.io/blob/master/images/fig_IDEVC.png"  width="256" height="144"> </td> 
-		<td> <a href="https://openreview.net/forum?id=TgSVWXw22FQ"> Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning </a> </td>
-		<td> S. Yuan*, <b>P. Cheng</b>*, R. Zhang, W. Hao, Z. Gan, L. Carin </td>
-	</tr>
-	<tr>
-		<td> ICML 2020 </td>
-		<td> <image src="https://github.com/Linear95/linear95.github.io/blob/master/images/fig_CLUB.png"  width="256" height="144"> </td> 
-		<td> <a href="https://arxiv.org/abs/2006.12013"> CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information </a> </td>
-		<td> <b>P. Cheng</b>, W. Hao, S. Dai, J. Liu, Z. Gan, and L. Carin </td>
-	</tr>
-</table>
 			
 
 ### Timeline:
