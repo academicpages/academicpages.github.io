@@ -15,7 +15,7 @@ I received my Ph.D. degree from the Department of Electric and Computer Engineer
 
 ### Selected Publication:
 
-<table>
+<div class="table">
         <tr>
 		<td> Preprint 2022 </td>
 		<td> <image src="https://github.com/Linear95/linear95.github.io/blob/master/images/Fig_RLM.png"  width = 256px height = 144px> </td>
@@ -40,7 +40,7 @@ I received my Ph.D. degree from the Department of Electric and Computer Engineer
 		<td> <a href="https://arxiv.org/abs/2006.12013"> CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information </a> </td>
 		<td> <b>P. Cheng</b>, W. Hao, S. Dai, J. Liu, Z. Gan, and L. Carin </td>
 	</tr>
-</table>
+</div>
 			
 
 ### Timeline:
