@@ -11,20 +11,21 @@ redirect_from:
 ---
 {% include base_path %}
 
-I am an undergraduate at UC San Diego with hopes to pursue a role in SWE. I am double majoring in Math and Computer Science and minoring in Classical Studies. I am a member of [The Computing for Social Good Lab at UCSD](https://melsherief.eng.ucsd.edu/research) where I am researching mental burnout and problem gambling on social media using NLP.
+I am an undergraduate at UC San Diego with hopes to pursue a role in SWE. I am double majoring in Math and Computer Science and minoring in Classical Studies. I am a member of [The Computing for Social Good Lab at UCSD](https://melsherief.eng.ucsd.edu/research) where I am researching mental burnout and problem gambling on social media using NLP. Outside of class, you will find me at the [Triton Unmanned Aerial Systems](https://tuas.ucsd.edu/) club working working as a jack-of-all-trades and on 3D path planning for our autonomous plane. This year I have been mentoring [FIRST Robotics Team 812](https://www.themidnightmechanics.com/) where I hope to inspire high schoolers with a "sense of wonder" through hands on experience.
 
-I am currently looking for a 2023 internship positions as a software engineer. Please check my [resume](https://godsped.com/cv) for links to my past experiences.
+I am looking forward to joining Viasat this summer as a software engineering intern. Please check my [resume](https://godsped.com/cv) for links to my past experiences.
 
 ## Interests
 
 I am interested in investigating the applications machine learning techniques and its intersection with various fields, particularly NLP. I see computers' knowledge of human language as the next big interface for humans to utilize computing power more naturally. I look forward to computers gaining a semantic understanding of language.
+
 I am also passionate about the application of simulation in developing robust systems. I am currently looking into using Unity simulations to accelerate software development on aerial vehicles. Simulations can be integrated into automated testing pipelines and used for human sanity-check verification during rapid development cycles.
 
 ## About Me
 
 👋 Hey, I'm Samir, but you can call me Samir.
 
-My recent covid hobby has been an Among Us addiction. I also have been going through my backlog of things I've been meaning to do (like giving this site a little love 🫀). If you have any recommendations, I enjoy discovering new music and seeing all the interesting genres people come up with.
+My recent covid hobby has been an Among Us addiction. I also have been going through my backlog of things I've been meaning to do (like giving this site a little love 🫀). If you have any recommendations, I enjoy discovering new music and seeing all the interesting genres people come up with. Despite my true love being software and me being wholly incompetent at the physical engineering disciplines, I enjoy fiddling around with hardware. Being a student consumes a lot of my time, but I hope to spend more time working on physical projects in the future.
 
 I'd love to talk about anything! Feel free to suggest a time that works [here](https://calendly.com/samir0/30min) 🕰.
 
