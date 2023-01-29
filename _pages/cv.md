@@ -19,7 +19,7 @@ Work experience
 ======
 * May - Aug 2022: Machine Learning Engineering Intern
   * [Moveworks, Inc](https://www.moveworks.com/).
-  * Mountain view, CA
+  * Mountain View, CA
   * Conversational AI team
 
 * Jan 2020 - May 2023: Graduate Student Researcher
@@ -69,16 +69,16 @@ Graduate Coursework
 (Computer Science)\
 10-701: Machine Learning\
 10-605: Machine Learning with Large Datasets\
-11-685: Introduction to Deep Learning\
+11-685: [Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/S23/index.html)\
 36-700: Probability and Mathematical Statistics\
-15-388: Practical Data Science\
+15-388: [Practical Data Science](http://www.datasciencecourse.org/)\
 17-681: Java for Application Programmers\
 17-683: Data Structures for Application Programmers\
 11-601: Coding Boot Camp\
 17-637: Web Application Development\
-17-514: Principles of Software System Construction\
-17-645: Machine Learning in Production (Spring 2023)\
-16-824: Visual Learning and Recognition (Spring 2023)
+17-514: [Principles of Software System Construction](https://cmu-17-214.github.io/f2022/)\
+17-645: [Machine Learning in Production (Spring 2023)](https://mlip-cmu.github.io/s2023/)\
+16-824: [Visual Learning and Recognition (Spring 2023))](https://visual-learning.cs.cmu.edu/)
 
 (Materials Science)\
 27-709: Engineering Biomaterials\
