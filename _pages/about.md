@@ -11,9 +11,40 @@ Welcome to Pengyu Cheng's homepage!
 
 I am currently a senior researcher at Tencent AI Lab, primely working on dialogue systems and controllable text generation. I also have a broad interest in probabilistic machine learning methods.
 
-I received my Ph.D. degree from the Department of Electric and Computer Engineering at Duke University in 2021. My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/). I graduated with my B.S. degree from the Department of Mathematical Sciences at Tsinghua University in 2017. 
+I received my Ph.D. degree from the Department of Electric and Computer Engineering at Duke University in 2021. My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/). I graduated with my B.S. degree from the Department of Mathematical Sciences at Tsinghua University in 2017.
+
+### Selected Publication:
+
+<table>
+        <tr>
+		<td> Preprint 2022 </td>
+		<td> image src="https://github.com/Linear95/linear95.github.io/blob/master/images/Fig_RLM.png"  width = 256px height = 144px </td>
+		<td> [Replacing Language Model for Style Transfer](https://arxiv.org/pdf/2211.07343.pdf) </td>
+		<td> **P. Cheng**, R. Li </td>
+	</tr>
+	<tr>
+		<td> ICLR 2021 </td>
+		<td> image src="https://github.com/Linear95/linear95.github.io/blob/master/images/fig_FairFIL.png"  width = 256px height = 144px </td>
+		<td> [FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w) </td>
+		<td> **P. Cheng**\*, W. Hao\*, S. Yuan, S. Si, L. Carin </td>
+	</tr>
+	<tr>
+		<td> ICLR 2021 </td>
+		<td> image src="https://github.com/Linear95/linear95.github.io/blob/master/images/fig_IDEVC.png"  width = 256px height = 144px </td> 
+		<td> [Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning](https://openreview.net/forum?id=TgSVWXw22FQ) </td>
+		<td> S. Yuan\*, **P. Cheng**\*, R. Zhang, W. Hao, Z. Gan, L. Carin </td>
+	</tr>
+	<tr>
+		<td> ICML 2020 </td>
+		<td> image src="https://github.com/Linear95/linear95.github.io/blob/master/images/fig_CLUB.png"  width = 256px height = 144px </td> 
+		<td> [CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information](https://arxiv.org/abs/2006.12013) </td>
+		<td> **P. Cheng**, W. Hao, S. Dai, J. Liu, Z. Gan, and L. Carin </td>
+	</tr>
+</table>
+			
 
 ### Timeline:
+- [2023/01/21] Two papers got accepted at AISTATS 2023.
 
 - [2022/08/02] Began serving as a PC for ICLR 2023 and AAAI 2023.
 

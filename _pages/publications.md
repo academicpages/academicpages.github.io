@@ -5,14 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
+### Preprints:
+
+1. **P. Cheng**, R. Li, [Replacing Language Model for Style Transfer](https://arxiv.org/pdf/2211.07343.pdf), 2022
+
+### Conference Papers:
+
+15. K. Bai\*, **P. Cheng**\*, W. Hao, and L. Carin, [Estimating Total Correlation with Mutual Information Estimators](https://openreview.net/forum?id=UsDZut_p2LG), Artificial Intelligence and Statistics Conference (AISTATS), 2023
+
+14. R. Wang, **P.cheng**, R. Henao, Mitigating Gender Bias for Text Generation via Mutual Information Minimization, Artificial Intelligence and Statistics Conference (AISTATS), 2023
+
 13. S. Luo, **P. Cheng**, S. Yu, [Semi-constraint Optimal Transport for Entity Alignment with Dangling Cases
 ](https://arxiv.org/abs/2203.05744), Findings of the Association for Computational Linguistics, 2022
 
 12. **P. Cheng**\*, W. Hao\*, S. Yuan, S. Si, L. Carin, [FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w), International Conference on Learning Representations (ICLR), 2021
 
 11. S. Yuan\*, **P. Cheng**\*, R. Zhang, W. Hao, Z. Gan, and L. Carin, [Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning](https://openreview.net/forum?id=TgSVWXw22FQ), International Conference on Learning Representations (ICLR), 2021
-
-10. **P. Cheng**, W. Hao, and L. Carin, [Estimating Total Correlation with Mutual Information Bounds](https://openreview.net/forum?id=UsDZut_p2LG), Neural Information Processing Systems (NeurIPS) Workshop, 2020
 
 9. **P. Cheng**, W. Hao, S. Dai, J. Liu, Z. Gan, and L. Carin, [CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information](https://arxiv.org/abs/2006.12013), International Conference on Machine Learning (ICML), 2020
 
@@ -28,5 +36,5 @@ author_profile: true
 
 3. C. Liu, J. Zhuo, **P. Cheng**, R. Zhang, J. Zhu, and L. Carin, [Understand and Accelerate Particle-based Variational Inference](http://people.ee.duke.edu/~lcarin/AWGF.pdf), International Conference on Machine Learning (ICML), 2019
 
-2. **P. Cheng**, C. Liu, C. Li, D. Shen, H. Ricardo, and L. Carin, [Straight-Through Estimator as Projected Wasserstein Gradient Flow](http://bayesiandeeplearning.org/2018/papers/53.pdf), Neural Information Processing Systems (NeurIPS) Workshop, 2018 <span style="color: red;">Spotlight</span>
+2. **P. Cheng**, C. Liu, C. Li, D. Shen, R. Henao, and L. Carin, [Straight-Through Estimator as Projected Wasserstein Gradient Flow](http://bayesiandeeplearning.org/2018/papers/53.pdf), Neural Information Processing Systems (NeurIPS) Workshop, 2018 <span style="color: red;">Spotlight</span>
 
