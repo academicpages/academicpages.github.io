@@ -11,12 +11,12 @@ author_profile: true
 
 ### Conference Papers:
 
-15. K. Bai\*, **P. Cheng**\*, W. Hao, and L. Carin, [Estimating Total Correlation with Mutual Information Estimators](https://openreview.net/forum?id=UsDZut_p2LG), Artificial Intelligence and Statistics Conference (AISTATS), 2023
+15. K. Bai\*, **P. Cheng**\*, W. Hao, R. Henao, and L. Carin, [Estimating Total Correlation with Mutual Information Estimators](https://openreview.net/forum?id=UsDZut_p2LG), Artificial Intelligence and Statistics Conference (AISTATS), 2023
 
 14. R. Wang, **P.cheng**, R. Henao, Mitigating Gender Bias for Text Generation via Mutual Information Minimization, Artificial Intelligence and Statistics Conference (AISTATS), 2023
 
 13. S. Luo, **P. Cheng**, S. Yu, [Semi-constraint Optimal Transport for Entity Alignment with Dangling Cases
-](https://arxiv.org/abs/2203.05744), Findings of the Association for Computational Linguistics, 2022
+](https://arxiv.org/abs/2203.05744), Findings of the Association for Computational Linguistics (ACL), 2022
 
 12. **P. Cheng**\*, W. Hao\*, S. Yuan, S. Si, L. Carin, [FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w), International Conference on Learning Representations (ICLR), 2021
 
