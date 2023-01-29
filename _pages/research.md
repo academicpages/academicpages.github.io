@@ -12,9 +12,9 @@ Publications
 
 Working Papers
 ---
-Populism, Promises, and Aid Withdrawal: The Case of 'Kosova e Re' (<a href= "https://cobrienudry.github.io/files/aid_withdrawal_parties.pdf">draft</a>)
+Aid withdrawal: theory and evidence from international climate policy (<a href= "https://cobrienudry.github.io/files/aid_withdrawal_Dec2022.pdf">draft</a>)
 
-Whose aid? Credit-attribution for foreign aid amongst ethnic minorities (<a href="https://cobrienudry.github.io/files/ethnic_minority_aidApr2022.pdf">draft</a>)
+Whose aid? Credit-attribution for foreign aid amongst ethnic minorities (<a href="https://cobrienudry.github.io/files/ethnic_minority_aid_Sept2022.pdf">draft</a>)
 
 Aid, Blame, and Backlash: The Political Economy of Unpopular Aid (<a href= "https://cobrienudry.github.io/files/obrien-udry_aid_blame_backlash.pdf">draft</a>)
 
