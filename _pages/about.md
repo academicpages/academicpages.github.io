@@ -17,10 +17,10 @@ I received my Ph.D. degree from the Department of Electric and Computer Engineer
 
 || | | |
 |:-----|-----|:-------|:-----|
-|Preprint 2022|<image src="https://github.com/Linear95/linear95.github.io/blob/master/images/Fig_RLM.png"  width ="256" height = "144">| [Replacing Language Model for Style Transfer](https://arxiv.org/pdf/2211.07343.pdf)|**P. Cheng**, R. Li|
-|ICLR 2021| <image src="https://github.com/Linear95/linear95.github.io/blob/master/images/fig_FairFIL.png"  width="256" height="144"> |[FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w)|**P. Cheng**\*, W. Hao\*, S. Yuan, S. Si, L. Carin|
-|ICLR 2021| <image src="https://github.com/Linear95/linear95.github.io/blob/master/images/fig_IDEVC.png"  width="256" height="144"> | [Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning](https://openreview.net/forum?id=TgSVWXw22FQ)| S. Yuan\*, **P. Cheng**\*, R. Zhang, W. Hao, Z. Gan, L. Carin|
-|ICML 2020| <image src="https://github.com/Linear95/linear95.github.io/blob/master/images/fig_CLUB.png"  width="256" height="144">|[CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information](https://arxiv.org/abs/2006.12013)|**P. Cheng**, W. Hao, S. Dai, J. Liu, Z. Gan, L. Carin|
+|Preprint 2022|<image src="/images/Fig_RLM.png"  width ="256" height = "144">| [Replacing Language Model for Style Transfer](https://arxiv.org/pdf/2211.07343.pdf)|**P. Cheng**, R. Li|
+|ICLR 2021| <image src="/images/fig_FairFIL.png"  width="256" height="144"> |[FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w)|**P. Cheng**\*, W. Hao\*, S. Yuan, S. Si, L. Carin|
+|ICLR 2021| <image src="/images/fig_IDEVC.png"  width="256" height="144"> | [Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning](https://openreview.net/forum?id=TgSVWXw22FQ)| S. Yuan\*, **P. Cheng**\*, R. Zhang, W. Hao, Z. Gan, L. Carin|
+|ICML 2020| <image src="/images/fig_CLUB.png"  width="256" height="144">|[CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information](https://arxiv.org/abs/2006.12013)|**P. Cheng**, W. Hao, S. Dai, J. Liu, Z. Gan, L. Carin|
 
 			
 
