@@ -13,18 +13,18 @@ I am currently a senior researcher at Tencent AI Lab, primely working on dialogu
 
 I received my Ph.D. degree from the Department of Electric and Computer Engineering at Duke University in 2021. My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/). I graduated with my B.S. degree from the Department of Mathematical Sciences at Tsinghua University in 2017.
 
-### Selected Publications:
+## Selected Publications:
 
-|| | | |
-|:-----|-----|:-------|:-----|
-|Preprint 2022|<image src="/images/Fig_RLM.png"  width ="256" height = "144">| [Replacing Language Model for Style Transfer](https://arxiv.org/pdf/2211.07343.pdf)|**P. Cheng**, R. Li|
-|ICLR 2021| <image src="/images/fig_FairFIL.png"  width="256" height="144"> |[FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w)|**P. Cheng**\*, W. Hao\*, S. Yuan, S. Si, L. Carin|
-|ICLR 2021| <image src="/images/fig_IDEVC.png"  width="256" height="144"> | [Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning](https://openreview.net/forum?id=TgSVWXw22FQ)| S. Yuan\*, **P. Cheng**\*, R. Zhang, W. Hao, Z. Gan, L. Carin|
-|ICML 2020| <image src="/images/fig_CLUB.png"  width="256" height="144">|[CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information](https://arxiv.org/abs/2006.12013)|**P. Cheng**, W. Hao, S. Dai, J. Liu, Z. Gan, L. Carin|
+| | | | |
+|-----:|-----|:-------|:-----|
+|Preprint 2022|<image src="/images/Fig_RLM.png"  width ="320" height = "180">| [Replacing Language Model for Style Transfer](https://arxiv.org/pdf/2211.07343.pdf)|**P. Cheng**, R. Li|
+|ICLR 2021| <image src="/images/fig_FairFIL.png"  width="320" height="180"> |[FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w)|**P. Cheng**\*, W. Hao\*, S. Yuan, S. Si, L. Carin|
+|ICLR 2021| <image src="/images/fig_IDEVC.png"  width="320" height="180"> | [Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning](https://openreview.net/forum?id=TgSVWXw22FQ)| S. Yuan\*, **P. Cheng**\*, R. Zhang, W. Hao, Z. Gan, L. Carin|
+|ICML 2020| <image src="/images/fig_CLUB.png"  width="320" height="180">|[CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information](https://arxiv.org/abs/2006.12013)|**P. Cheng**, W. Hao, S. Dai, J. Liu, Z. Gan, L. Carin|
 
 			
 
-### Timeline:
+## Timeline:
 - [2023/01/21] Two papers got accepted at AISTATS 2023.
 
 - [2022/08/02] Began serving as a PC for ICLR 2023 and AAAI 2023.
