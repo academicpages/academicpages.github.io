@@ -17,10 +17,10 @@ I received my Ph.D. degree from the Department of Electric and Computer Engineer
 
 | | | | | |
 |-----:|-----|:-------|:-----|----|
-|Preprint|<image src="/images/Fig_RLM.png"  width ="320" height = "180">| [Replacing Language Model for Style Transfer](https://arxiv.org/pdf/2211.07343.pdf)|**P. Cheng**, R. Li|2022|
-|ICLR| <image src="/images/fig_FairFIL.png"  width="320" height="180"> |[FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w)|**P. Cheng**\*, W. Hao\*, S. Yuan, S. Si, L. Carin|2021|
-|ICLR| <image src="/images/fig_IDEVC.png"  width="320" height="180"> | [Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning](https://openreview.net/forum?id=TgSVWXw22FQ)| S. Yuan\*, **P. Cheng**\*, R. Zhang, W. Hao, Z. Gan, L. Carin|2021|
-|ICML| <image src="/images/fig_CLUB.png"  width="320" height="180">|[CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information](https://arxiv.org/abs/2006.12013)|**P. Cheng**, W. Hao, S. Dai, J. Liu, Z. Gan, L. Carin|2020|
+|Preprint|<image src="/images/Fig_RLM.png"  width ="400" height = "225">| [Replacing Language Model for Style Transfer](https://arxiv.org/pdf/2211.07343.pdf)|**P. Cheng**, R. Li|2022|
+|ICLR| <image src="/images/fig_FairFIL.png"  width="400" height="225"> |[FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w)|**P. Cheng**\*, W. Hao\*, S. Yuan, S. Si, L. Carin|2021|
+|ICLR| <image src="/images/fig_IDEVC.png"  width="400" height="225"> | [Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning](https://openreview.net/forum?id=TgSVWXw22FQ)| S. Yuan\*, **P. Cheng**\*, R. Zhang, W. Hao, Z. Gan, L. Carin|2021|
+|ICML| <image src="/images/fig_CLUB.png"  width="400" height="225">|[CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information](https://arxiv.org/abs/2006.12013)|**P. Cheng**, W. Hao, S. Dai, J. Liu, Z. Gan, L. Carin|2020|
 
 			
 
