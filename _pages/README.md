@@ -12,11 +12,11 @@ author_profile: false
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/Avra_b)
 
 <!-- BLOG-POST-LIST:START -->
+- [Automate GitHub Readme.md file to Streamlit web App](https://medium.com/@avra42/automate-github-readme-md-file-to-streamlit-web-app-348eead2eff8?source=rss-bf79cad6afa1------2)
 - [Is ChatGPT PRO Worth the $42 Monthly Price Tag?](https://medium.com/@avra42/is-chatgpt-pro-worth-the-42-monthly-price-tag-68214c64c211?source=rss-bf79cad6afa1------2)
 - [Tweet like a pro: ChatGPT3 generated Web App uses openAI GPT-3 to create personalized tweets](https://medium.com/@avra42/tweet-like-a-pro-chatgpt3-generated-web-app-uses-openai-gpt-3-to-create-personalized-tweets-38aac8737c4?source=rss-bf79cad6afa1------2)
 - [Enhancing AgGrid table with Image Display in Streamlit Apps](https://medium.com/the-streamlit-teacher/enhancing-aggrid-table-with-image-display-in-streamlit-apps-425b6e989d5b?source=rss-bf79cad6afa1------2)
 - [ChatGPT helped me to built this Data Science Web App using Streamlit-Python](https://medium.com/@avra42/chatgpt-build-this-data-science-web-app-using-streamlit-python-25acca3cecd4?source=rss-bf79cad6afa1------2)
-- [Build Your Own Chatbot  with openAI GPT-3 and Streamlit](https://medium.com/@avra42/build-your-own-chatbot-with-openai-gpt-3-and-streamlit-6f1330876846?source=rss-bf79cad6afa1------2)
 <!-- BLOG-POST-LIST:END -->
 
 
