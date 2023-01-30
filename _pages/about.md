@@ -13,11 +13,15 @@ I am Yusheng Su, a fourth-year Ph.D. at the [THUNLP Lab](https://twitter.com/tsi
 ## Research
 <!--My research interests are in the theory and practice of building machine learning systems that remain reliable when deployed in real application contexts. For example:-->
 
-My research explores the mechanism (theory) and operation (practice) of <b>large-scale pre-trained models (LLMs)</b> for efficient and effective deployment in real-world applications. To achieve these goals, I focus on two directions:
+My research explores the mechanism (theory) and operation (practice) of <b>large-scale pre-trained models (LLMs)</b> to efficiently and effectively adapt to real-world applications.To achieve these goals, I focus on two directions:
+
+<!--for efficient and effective deployment in real-world applications. To achieve these goals, I focus on two directions:-->
 
 * <b>Parameter-Efficient Tuning.</b> Adapting LLMs to downstream tasks incurs a huge computational burden. How can we adapt LLMs to downstream tasks efficiently (with less computational burden)? <!--Driving LLMs with minimal parameters (parameter-efficient tuning) is worth exploring.-->
 
-* <b>Knowledge Acquisition From Multi-modal Data.</b> Adapting LLMs to downstream tasks requires training on task-specific manually annotated data, which needs manual effort involving labeling. How can we equip LLMs with the ability to actively acquire task-specific knowledge from the open world (without manual effort)?
+* <b>Knowledge Acquisition From Multi-Modal Data.</b> Adapting LLMs to downstream tasks requires training on task-specific manually annotated data, which needs manual effort involving labeling. How can we equip LLMs with the ability to actively acquire task-specific knowledge from  in the open world (without manual effort)?
+
+multi-modal
 
 <!--Human-Like Cognitive Abilities and Human-computer interaction are the furthure direction that I want to explore-->
 
