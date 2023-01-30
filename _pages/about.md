@@ -15,9 +15,14 @@ I am Yusheng Su, a fourth-year Ph.D. at the [THUNLP Lab](https://twitter.com/tsi
 
 My research explores the mechanism (theory) and operation (practice) of <b>large-scale pre-trained models (LLMs)</b> for efficient and effective deployment in real-world applications. To achieve these goals, I focus on two directions:
 
-* <b>Parameter-Efficient Tuning.</b> Adapting LLMs to downstream tasks incurs a huge computational burden. How can we adapt LLMs to downstream tasks efficiently (with less computational burden)? Driving LLMs with minimal parameters (parameter-efficient tuning) is worth exploring.
+* <b>Parameter-Efficient Tuning.</b> Adapting LLMs to downstream tasks incurs a huge computational burden. How can we adapt LLMs to downstream tasks efficiently (with less computational burden)? <!--Driving LLMs with minimal parameters (parameter-efficient tuning) is worth exploring.-->
 
-* <b>Human-Like Cognitive Abilities.</b> Adapting LLMs to downstream tasks requires task-specific manually annotated data, which needs manual effort involving labeling. How can we acquire task-specific knowledge effectively (without manual effort)? Equipping LLMs with human-like cognitive abilities to leverage open-world information is a promising direction.
+* <b>Knowledge Acquisition From Multi-modal Data.</b> Adapting LLMs to downstream tasks requires training on task-specific manually annotated data, which needs manual effort involving labeling. How can we equip LLMs with the ability to actively acquire task-specific knowledge from the open world (without manual effort)?
+
+<!--Human-Like Cognitive Abilities and Human-computer interaction are the furthure direction that I want to explore-->
+
+
+<!--<b>* <b>Human-Like Cognitive Abilities.</b> Adapting LLMs to downstream tasks requires training on task-specific manually annotated data, which needs manual effort involving labeling. How can we acquire task-specific knowledge effectively (without manual effort)? Equipping LLMs with human-like cognitive abilities to leverage open-world information is a promising direction.-->
 
 <!--<b>AI4Science.</b> How many human-like capabilities LLMs learn in the pre-training stage remains unknown. To further understand, we develop tools to explore and conduct a series of analyses.-->
 
