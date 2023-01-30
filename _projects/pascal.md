@@ -1,7 +1,15 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "Probabilistic Algorithms for Scalable and Computable Approaches to Learning (PASCAL)"
+excerpt: "Turnig AI Fellowship <br/><img src='/images/code.jpg'>"
+collection: projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+We are living in an unprecedented age where vast quantities of our personal data are continually recorded and analysed, for example, our travel patterns, shopping habits and fitness routines. Our daily lives are now tied into this evolving loop of data collection, leading to data-based automated decisions, that can make recommendations and optimise our routines. There is tremendous economic and societal value in understanding this deluge of unstructured disparate data streams. A key challenge in Artificial Intelligence (AI) research is to extract meaningful value from these data sources to make decisions that can be trusted and understood to improve society. 
+
+The PASCAL research programme is focused on developing an end-to-end framework, from data to decisions, that naturally accounts for data uncertainty and provides transparent and interpretable decision-making tools. The algorithms developed throughout this research project will be generally-applicable in a wide range of application domains and appropriate for modern computer hardware infrastructure. All of the research and associated algorithms will be widely available through high-quality open-source software that will ensure the widest possible uptake of this research within the international AI research community.
+
+PASCAL will focus on two primary applications areas: cybersecurity and transportation, which will stimulate and motivate this research and ensure wide-spread impact within these sectors. To drive through the impact and uptake of this research within these sectors, we will work closely with committed strategic partners, GCHQ, the Heilbronn Institute of Mathematical Research, Transport Research Laboratory, the University of Washington and the Alan Turing Institute.
+
+Cybersecurity - The proliferation of computers and mobile technology over the last few decades has led to an exponential increase in recorded data. Much of this data is personally, economically and nationally sensitive and protecting it is a key priority for any government or large organisation. Threats to data security exist on a global scale and identifying potential threats requires cybersecurity experts to evaluate and extract critical intelligence from complex and evolving data sources. In order to model and understand the intricate patterns between these data sources requires complex mathematical models. The PASCAL programme will develop new algorithms that maintain the richness of these mathematical models and use them to provide interpretable and transparent decision recommendations. 
+
+Autonomous vehicles (AV) - The transition to AVs will be the most significant global change in transportation for the past century. The economic benefit and successful implementation of this technology within the UK requires a thorough understanding of the risks posed by driverless vehicles and what new procedures are required to ensure human safety. Through PASCAL, we will develop a framework to artificially-generate realistic traffic scenarios to test AVs under a wide range of road conditions and create criteria to safely accredit AV vehicles in the UK.
