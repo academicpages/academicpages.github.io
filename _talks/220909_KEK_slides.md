@@ -4,6 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/220909_KEK_slides
 venue: "CMB group meeting"
-date: 2012-03-01
+date: 2022-09-09
 location: "KEK, Japan"
 ---
