@@ -11,7 +11,7 @@ collection: portfolio
 
 |俞聪|明士凯|石鹏|
 |:-------:|:-----------:|:-------------:|
-|![俞聪](/images/students/俞聪.jpg "俞聪")|![明士凯](/images/bio-photo-2.jpg "明士凯")|![石鹏](/images/bio-photo-2.jpg "石鹏")|
+|![俞聪](/images/students/俞聪.jpg "俞聪")|![明士凯](/images/students/明士凯.jpg "明士凯")|![石鹏](/images/students/石鹏.jpg "石鹏")|
 
 article1:  
 article2:  
@@ -21,7 +21,7 @@ article3:
 
 |于帝伟| 曹宇|
 |:-----------:|:----------:|
-|![于帝伟](/images/bio-photo-2.jpg "于帝伟")| ![曹宇](/images/bio-photo-2.jpg "曹宇")|
+|![于帝伟](/images/students/于帝伟.jpg "于帝伟")| ![曹宇](/images/students/曹宇.jpg "曹宇")|
 
 article1:  
 article2:  
