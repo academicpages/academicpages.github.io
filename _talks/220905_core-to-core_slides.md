@@ -8,4 +8,4 @@ date: 2022-09-05
 location: "Kavli IPMU, Japan"
 ---
 
-Slides available [here](http://martamonelli.github.io/files/22_09_05_core-to-core_slides.pdf)
+Slides available [here](http://martamonelli.github.io/files/22-09-05_core-to-core_slides.pdf)
