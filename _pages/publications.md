@@ -35,7 +35,7 @@ author_profile: true
 3. C. Liu, J. Zhuo, **P. Cheng**, R. Zhang, J. Zhu, and L. Carin, [Understand and Accelerate Particle-based Variational Inference](http://people.ee.duke.edu/~lcarin/AWGF.pdf), International Conference on Machine Learning (ICML), 2019
 
 
-## Workshop Papers
+## Workshop Papers:
 
 15. **P. Cheng**, W. Hao, and L. Carin, [Estimating Total Correlation with Mutual Information Bounds](https://openreview.net/forum?id=UsDZut_p2LG), Neural Information Processing Systems (NeurIPS) Workshop, 2020
 
