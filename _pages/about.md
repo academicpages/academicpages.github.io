@@ -21,7 +21,6 @@ My research explores the mechanism (theory) and operation (practice) of <b>large
 
 * <b>Knowledge Acquisition From Multi-Modal Data.</b> Adapting LLMs to downstream tasks requires training on task-specific manually annotated data, which needs manual effort involving labeling. How can we equip LLMs with the ability to actively acquire task-specific knowledge from  in the open world (without manual effort)?
 
-multi-modal
 
 <!--Human-Like Cognitive Abilities and Human-computer interaction are the furthure direction that I want to explore-->
 
