@@ -4,6 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/221212_Tenerife_slides
 venue: "Galactic science and CMB foregrounds Workshop"
-date: 2012-03-01
+date: 2022-12-12
 location: "Tenerife, Spain"
 ---
