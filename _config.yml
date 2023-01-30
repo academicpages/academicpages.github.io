@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sierra Sparks"
-  avatar           : "profile.png"
+  avatar           : "/images/IMG_4802.jpg"
   bio              : "Biomedical Engineering PhD Student at the University of Oxford. Investigating the intersection of pupillometry and neurodegeneration. EDI Advocate."
   location         : "Oxford, United Kingdom"
   employer         :
