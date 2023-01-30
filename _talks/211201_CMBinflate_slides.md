@@ -8,4 +8,4 @@ date: 2021-12-01
 location: "online"
 ---
 
-<embed src="{{ site.baseurl }}/files/21_12_01_CMBinflate_slides.pdf" width="600" height="700" type='application/pdf'>
+[Slides available here](http://academicpages.github.io/files/21_12_01_CMBinflate_slides.pdf)
