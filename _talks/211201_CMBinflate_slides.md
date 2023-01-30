@@ -8,4 +8,4 @@ date: 2021-12-01
 location: "online"
 ---
 
-Slides available [here](http://martamonelli.github.io/files/21_12_01_CMBinflate_slides.pdf)
+Slides available [here](http://martamonelli.github.io/files/21-12-01_CMBinflate_slides.pdf)
