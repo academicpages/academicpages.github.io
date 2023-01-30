@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Master of Science, Computer Science"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+type: "Arizona State University"
+# permalink: /teaching/2014-spring-teaching-1
+venue: "August 2022 - (Expected)May 2024"
 date: 2014-01-01
-location: "City, Country"
+location: "Tempe, Arizona"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+Coursework : Data Mining, Data visualization, Knowledge Representation and Reasoning, Cloud Computing, Foundation of Algorithm,  Software Requirements and Specifications.
 
 Heading 1
 ======

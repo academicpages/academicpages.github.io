@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Bachelor of Engineering, Information Technology"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Pune Institute of Computer Technology"
+# permalink: /teaching/2015-spring-teaching-1
+venue: "August 2016 - May 2020"
+date: 2020-05-01
+location: "Pune, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Coursework: Data Structures, Operating System, Machine Learning and Algorithm, Distributed Computing System, Computer Networks, Data Science and Big Data Analytics.
 
 Heading 1
 ======
