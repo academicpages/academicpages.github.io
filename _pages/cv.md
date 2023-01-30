@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Univeristy of Crete, 2014
+* M.S. in Theoretical Physics, Univeristy of Crete, 2016
+* M.S. in Mathematics, Washington State University, 2020
+* Ph.D. in Statistics, University of Edinburgh, (expected) 2024
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2022: Research Placement @IndigoAI
+  * Build transformer models for sequence classification
+  * Compare two approaches for sequence classifiction 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-2022: Tutoring @University of Edinburgh, WSU
+  * Tutor for: Statistics, Computational Statistics, Linear Algebra
   
 Skills
 ======
