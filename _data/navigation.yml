@@ -1,4 +1,5 @@
 # main links links
+# potentially add EDI, Rowing, and Music
 main:
   - title: "Publications"
     url: /publications/
@@ -18,5 +19,4 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+
