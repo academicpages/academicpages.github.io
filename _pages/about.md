@@ -15,7 +15,7 @@ I received my Ph.D. degree from the Department of Electric and Computer Engineer
 
 ## Selected Publications:
 
-| | | | |
+| | | | | |
 |-----:|-----|:-------|:-----|----|
 |Preprint|<image src="/images/Fig_RLM.png"  width ="320" height = "180">| [Replacing Language Model for Style Transfer](https://arxiv.org/pdf/2211.07343.pdf)|**P. Cheng**, R. Li|2022|
 |ICLR| <image src="/images/fig_FairFIL.png"  width="320" height="180"> |[FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w)|**P. Cheng**\*, W. Hao\*, S. Yuan, S. Si, L. Carin|2021|
