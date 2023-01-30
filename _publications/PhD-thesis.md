@@ -6,6 +6,6 @@ permalink: /publication/PhD-thesis
 date: 2021-1-29
 excerpt: ''
 pubtype: 'thesis'
-venue: ''
+venue: '2021'
 author: 'B. Le Bars'
 ---
