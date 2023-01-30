@@ -11,5 +11,6 @@ Just another curious being, deeply interested in the fields of science, politics
 
 Please note that this website is currently under development. While there may not be much to see at this time, rest assured that updates and improvements are on the way. For any inquiries, please do not hesitate to contact me through my other available channels.
 
+
 <script data-goatcounter="https://avrab.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
