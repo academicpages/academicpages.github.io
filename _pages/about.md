@@ -13,11 +13,13 @@ I am Yusheng Su, a fourth-year Ph.D. at the [THUNLP Lab](https://twitter.com/tsi
 ## Research
 <!--My research interests are in the theory and practice of building machine learning systems that remain reliable when deployed in real application contexts. For example:-->
 
-My research spans the areas of natural language processing and machine learning. In particular, I aspire to develop general intelligent systems (<b>pre-trained foundation models</b>) that have human-like cognitive capacities (e.g., understanding, reasoning, etc) and efficiently adapt them to specific tasks. To achieve these goals, I focus on the following directions:
 
-* <b>General-purpose models.</b> Building pre-trained foundation models that can actively access to various data sources (e.g., knowledge bases, web pages, textual documents, etc) and acquire knowledge to improve the abilities of understanding, reasoning, etc. 
+My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that have human-like cognitive capacities (e.g., understanding, reasoning, etc) and solve real-world problems efficiently. Toward this goal, my work spans across:
 
-* <b>Efficient paradigms.</b> Developing theory, tools, and algorithms to efficiently adapt <b>large-scale</b> pre-trained foundation models to downstream tasks (e.g., parameter-efficient tuning methods, in-context learning, etc.).
+* <b>General-purpose models.</b> Building pre-trained foundation models that can actively access to various data sources (e.g., knowledge bases, web pages, textual documents, etc) and acquire knowledge to improve the abilities of understanding, reasoning, etc. ([CokeBERT](https://arxiv.org/abs/2009.13964), [CSS-LM](https://arxiv.org/abs/2102.03752))
+
+* <b>Efficient paradigms.</b> Developing theory, tools, and algorithms to efficiently adapt <b>large-scale</b> pre-trained foundation models to downstream tasks (e.g., parameter-efficient tuning methods, in-context learning, etc.). ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Delta Tuning](https://arxiv.org/abs/2203.06904))
+
 
 <!--
 My research spans the areas of natural language processing and machine learning. At the current stage, I am particularly interested in <b>large-scale pre-trained models (LLMs)</b>. My research aims to build more general LLMs and develop efficient paradigms for them to deploy in real-world applications.
