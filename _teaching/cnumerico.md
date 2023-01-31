@@ -31,11 +31,11 @@ Plano de Curso
 ======
 Disponível no sistema SAGRES.
 
-Provas
+Avaliação
 =======
-* Primeira Prova: 
-* Segunda Prova: 
-* Terceira Prova: 
+* Prova (unidade I): 
+* Trabalhos (Unidade II): 
+* Trabalhos (Undiade III): 
 * Prova Final: 
 
 Listas de Exercícios
