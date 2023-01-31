@@ -23,7 +23,7 @@ redirect_from:
 
 ## Submitted, Under Review, Revise and Resubmit.
 
-- Hector Bahamonde and Outi Sarpila. "Physical Appearance and Elections: An Inequality Perspective." Revise and Resubmit, Political Psychology. <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Physical/main/abstract.txt)
+- Hector Bahamonde and Outi Sarpila. "Physical Appearance and Elections: An Inequality Perspective." Revise and Resubmit, Political Psychology. <br/> [[Abstract]](https://raw.githubusercontent.com/hbahamonde/Physical/main/abstract.txt) [[Paper]](https://github.com/hbahamonde/Physical/raw/main/Bahamonde_Sarpila.pdf)
 
 
 ## In Preparation
