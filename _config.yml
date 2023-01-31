@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mahdi Ghaznavi"
 title_separator          : "-"
 name                     : &name "Mahdi Ghaznavi"
-description              : &description "personal description"
+description              : &description "M.Sc. student in AI & Robotics"
 url                      : https://mahdighaznavi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mahdighaznavi/mahdighaznavi.github.io"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Mahdi Ghaznavi"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "M.Sc. student in AI & Robotics"
-  location         :
+  location         : "Sharif University of Technology, Tehran"
   employer         :
   pubmed           :
   googlescholar    :
-  email            :
+  email            : "ghaznavi.mahdi@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : ""
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "mahdi-ghaznavi-4521311a6"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "MahdiGhaznavi78"
   vine             :
   weibo            :
   xing             :
