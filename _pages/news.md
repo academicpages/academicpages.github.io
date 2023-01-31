@@ -6,8 +6,6 @@ title: "News and Opportunities"
 Have a job you would like to share? Email us at landdacommunity@gmail.com!
 
 ### Jobs
-[Postdoctoral Scholar Position in Hydrology, Land-Atmosphere Interaction, Seasonal to Subseasonal Predictions, and Irrigation Processes at UC Berkeley, USA](https://nature.berkeley.edu/girottolab/) Application deadline: 24 January 2023
-
 [Postdoctoral Scholar Position in carbon cycle of mountainous regions of the Western U.S. at University of Utah, Salt Lake City, Utah](https://utah.peopleadmin.com/postings/135290) Application deadline: Rolling
 
 [Research Scientist Position in GEOS model development to understand High Mountain Asia Forecast Models at Goddard Space and Flight center, Greenbelt, Maryland](https://gestar2.umbc.edu/jobs-at-gestar-ii/research-scientist-position-in-geos-model-development-to-understand-high-mountain-asia-forecast-models/) Application deadline: Rolling
@@ -15,6 +13,8 @@ Have a job you would like to share? Email us at landdacommunity@gmail.com!
 [Postdoctoral Scholar – Hydrology, Remote Sensing and Data Assimilation at the University of California, Berkeley, USA](https://aimesproject.org/wp-content/uploads/2022/06/Postdoctoral-Scholar-THP-2022.docx) Application deadline: Rolling
 
 [Postdoctoral Postion: Terrestrial Carbon Cycle Forecasting at Boston University, USA](https://www.us-ocb.org/wp-content/uploads/sites/43/2022/02/postdoc_Boston_2022.pdf) Application deadline: Rolling
+
+PAST [Postdoctoral Scholar Position in Hydrology, Land-Atmosphere Interaction, Seasonal to Subseasonal Predictions, and Irrigation Processes at UC Berkeley, USA](https://nature.berkeley.edu/girottolab/) Application deadline: 24 January 2023
 
 PAST [Postdoctoral Researcher in Satellite-Based Snow Estimation at KU Leuven, Belgium](https://www.kuleuven.be/personeel/jobsite/jobs/60163633) Application deadline: 21 November 2022
 
