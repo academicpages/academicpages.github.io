@@ -13,7 +13,7 @@ I am Yusheng Su, a fourth-year Ph.D. at the [THUNLP Lab](https://twitter.com/tsi
 ## Research
 <!--My research interests are in the theory and practice of building machine learning systems that remain reliable when deployed in real application contexts. For example:-->
 
-My research spans the areas of natural language processing and machine learning. In particular, I aspire to develop intelligent systems (pre-trained foundation models) that have human-like cognitive capacities (e.g., understanding, reasoning, etc) and efficiently adapt them to tasks. To achieve these goals, I focus on the following directions:
+My research spans the areas of natural language processing and machine learning. In particular, I aspire to develop intelligent systems (pre-trained foundation models) that have human-like cognitive capacities (e.g., understanding, reasoning, etc) and efficiently generalize to new tasks. To achieve these goals, I focus on the following directions:
 
 * <b>General-purpose models.</b> Building pre-trained foundation models that can actively access to various data sources (e.g., knowledge bases, web pages, textual documents, etc) and acquire knowledge to improve the abilities of understanding, reasoning, etc. 
 
