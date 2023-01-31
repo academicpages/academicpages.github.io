@@ -13,7 +13,7 @@ I am Yusheng Su, a fourth-year Ph.D. at the [THUNLP Lab](https://twitter.com/tsi
 ## Research
 <!--My research interests are in the theory and practice of building machine learning systems that remain reliable when deployed in real application contexts. For example:-->
 
-My research spans the areas of natural language processing and machine learning. At the current stage, I am particularly interested in <b>large-scale pre-trained models (LLMs)</b>. My research aims to build more general LLMs and develope efficient paradigms to manipulate them toward real-world applications.
+My research spans the areas of natural language processing and machine learning. At the current stage, I am particularly interested in <b>large-scale pre-trained models (LLMs)</b>. My research aims to build more general LLMs and develope efficient paradigms for LLMs toward real-world applications.
 
 * <b>General LLMs.</b> Building LLMs that can interact with humans and actively access to various data sources (e.g., knowledge bases, web pages, textual documents, etc ) and acquire knowledge to accomplish new tasks.
 
