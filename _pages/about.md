@@ -17,7 +17,7 @@ My research spans the areas of natural language processing and machine learning.
 
 * <b>General-purpose models.</b> Building pre-trained foundation models that can actively access to various data sources (e.g., knowledge bases, web pages, textual documents, etc) and acquire knowledge to improve the abilities of understanding, reasoning, etc. 
 
-* <b>Efficient paradigms.</b> Developing theory, tools, and algorithms to efficiently adapt <b>large-scale</b> pre-trained foundation models downstream tasks (e.g., parameter-efficient tuning methods, in-context learning, etc.).
+* <b>Efficient paradigms.</b> Developing theory, tools, and algorithms to efficiently adapt <b>large-scale</b> pre-trained foundation models to downstream tasks (e.g., parameter-efficient tuning methods, in-context learning, etc.).
 
 <!--
 My research spans the areas of natural language processing and machine learning. At the current stage, I am particularly interested in <b>large-scale pre-trained models (LLMs)</b>. My research aims to build more general LLMs and develop efficient paradigms for them to deploy in real-world applications.
