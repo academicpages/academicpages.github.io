@@ -6,9 +6,50 @@ author_profile: true
 header:
   og_image: "research/ecdf.png"
 ---
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.grid-container {
+  display: grid;
+  column-gap: 50px;
+  grid-template-columns: auto auto;
+  background-color: #2196F3;
+  padding: 10px;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<h1>The column-gap Property</h1>
+
+<p>Use the <em>column-gap</em> property to adjust the space between the columns:</p>
+
+<div class="grid-container">
+  <div class="grid-item">1</div>
+  <div class="grid-item">2</div>
+  <div class="grid-item">3</div>  
+  <div class="grid-item">4</div>
+  <div class="grid-item">5</div>
+  <div class="grid-item">6</div>  
+  <div class="grid-item">7</div>
+  <div class="grid-item">8</div>
+  <div class="grid-item">9</div>  
+</div>
+
+</body>
+</html>
 <h2>Parinaz Barakhshan</h2>
 <div>
-  <p align="center">
+  <div>
     <p style="float:left">
       <img  src="../images/my-students/Parinaz/parinaz.jpg" width="200"  height="200" alt="parinaz">
     </p>
@@ -19,20 +60,20 @@ header:
         I have always loved learning, growing, developing, and challenging myself to contribute to something significant. The whole point of learning more is to be able to make a difference in the world. My purpose is to help the world run better.
       </p>
     </p>
-  </p>
+  </div>
 
+  <div >
+      My research interests include:
 
-My research interests include:
+              optimizing compilers,
+              programming methodologies,
+              source-to-source Translators,
+              performance evaluation for HPC,
+              best practices and tools in computational and data-intensive research,
+              using ML, deep learning, and NLP to solve problems that cannot be solved in traditional ways.
 
-        optimizing compilers,
-        programming methodologies,
-        source-to-source Translators,
-        performance evaluation for HPC,
-        best practices and tools in computational and data-intensive research,
-        using ML, deep learning, and NLP to solve problems that cannot be solved in traditional ways.
-
-For more information, see the <a href="https://sites.udel.edu/parinazb/">Personal Web Site</a>
-
+      For more information, see the <a href="https://sites.udel.edu/parinazb/">Personal Web Site</a>
+  </div>
 <b>Research Topic: iCetus, An Interactive Parallelizing Compiler</b>
 <br>
 <img src="../images/my-students/Parinaz/pimage.png" width="200" height="200" alt="">
