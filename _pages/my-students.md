@@ -7,36 +7,39 @@ header:
   og_image: "research/ecdf.png"
 ---
 <h2>Parinaz Barakhshan</h2>
-
 <p align="center">
-  <p align="left">
-    <img align="left" src="../images/my-students/Parinaz/parinaz.jpg" width="200"  height="200" alt="parinaz">
-  </p>
-  <p align="right">
-    <p align="left">
+  <p align="center">
+    <p style="float:left">
+      <img  src="../images/my-students/Parinaz/parinaz.jpg" width="200"  height="200" alt="parinaz">
+    </p>
+    <p float= "right" align="right">
+      <p align="left" padding= "10px">
         I am a third-year Ph.D. candidate and Research Assistant at the University of Delaware, Department of Electrical and Computer Engineering.
 
         I have always loved learning, growing, developing, and challenging myself to contribute to something significant. The whole point of learning more is to be able to make a difference in the world. My purpose is to help the world run better.
+      </p>
     </p>
   </p>
-</p>
 
 
+My research interests include:
 
+        optimizing compilers,
+        programming methodologies,
+        source-to-source Translators,
+        performance evaluation for HPC,
+        best practices and tools in computational and data-intensive research,
+        using ML, deep learning, and NLP to solve problems that cannot be solved in traditional ways.
 
+For more information, see the <a href="https://sites.udel.edu/parinazb/">Personal Web Site</a>
 
+<b>Research Topic: iCetus, An Interactive Parallelizing Compiler</b>
+<br>
+<img src="../images/my-students/Parinaz/pimage.png" width="200" height="200" alt="">
 
+<b>Project Description: </b> Today’s computers are all multicore. In a modern shared-memory architecture, parallelization techniques enable us to utilize multiple processors simultaneously and improve the performance of an application by converting sequential code into multi-threaded and/or vectorized code. 
 
-
-
-
-
-
-
-
-
-
-
+Our goal is to develop a tool that allows users with varying skill sets to apply parallelization techniques interactively. While the tool can parallelize the code/ parts of the code in a fully automatic format for Non-expert users,  Power users can finely steer the optimization process through the tool menus to obtain an optimized version of the code.
 
 
 
@@ -98,7 +101,7 @@ I am a 24 years old P.hd student from the department of Computer Engineering at 
 
 <b>Project Description: </b>
 
-
+</p>
 <nbsp>
 
 <!-- {% include base_path %}
