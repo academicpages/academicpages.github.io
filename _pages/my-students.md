@@ -7,13 +7,13 @@ header:
   og_image: "research/ecdf.png"
 ---
 <h2>Parinaz Barakhshan</h2>
-<p align="center">
+<div>
   <p align="center">
     <p style="float:left">
       <img  src="../images/my-students/Parinaz/parinaz.jpg" width="200"  height="200" alt="parinaz">
     </p>
     <p float= "right" align="right">
-      <p align="left" padding= "10px">
+      <p align="left" style="padding:10px" >
         I am a third-year Ph.D. candidate and Research Assistant at the University of Delaware, Department of Electrical and Computer Engineering.
 
         I have always loved learning, growing, developing, and challenging myself to contribute to something significant. The whole point of learning more is to be able to make a difference in the world. My purpose is to help the world run better.
@@ -101,7 +101,7 @@ I am a 24 years old P.hd student from the department of Computer Engineering at 
 
 <b>Project Description: </b>
 
-</p>
+</div>
 <nbsp>
 
 <!-- {% include base_path %}
