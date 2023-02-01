@@ -1,41 +1,37 @@
 ---
-title: '一图理解CMake工作流程'
-date: 2023-02-01
-permalink: /posts/2023/02/cmake-1-zkm/
+title: '双目立体匹配基本原理'
+date: 2023-01-24
+permalink: /posts/2023/01/structurelight-1-zkm/
 tags:
-  - cmake
-  - vs
-  - c++
+  - structurelight
+  - 双目视觉
+  - 3D重建
+  - 结构光
 ---
 
-### CMake工作流程图  
+### (1)理想的双目测距模型
 
-![png](/images/posts/map-cmake.png)
+![png](/images/structurelight/structurelight-ideal.png)|
+:--------:|
+ 图1 理想双目测距模型|
 
-官方在线文档：<https://cmake.org/documentation/>
+### (2)实际的双目测距模型
 
-
-### CMake跨平台工作
-![png](/images/posts/map-cmake2.png)
-
-[CMake软件构建实战](https://youtu.be/dIs7TFBDbIw?list=PLyzWS70eCgMGAqbbeSAu4UfXZFJ532QHa)
-
-
-### 最小案例
-
-1. CMakeLists.txt  
-        CMAKE_MINIMUM_REQUIRED(VERSION 1.18.0)
-        PROJECT(hellocmake)
-        AUX_SOURCE_DIRECTORY(. SRC_LIST)
-        ADD_EXECUTABLE(hellocmake ${SRC_LIST})
+![png](/images/structurelight/structurelight-real.png)|
+:--------:|
+ 图2 实际双目测距模型|
 
 
-2. hellocmake.cpp  
-        # include `<iostream>`
-        using namespace std;
+### (3)双目匹配-极线约束
 
-        int main()
-        {
-          cout<<"hellocmake!<<endl;
-          return 0;
-        }
+![png](/images/structurelight/极线约束.png)|
+:--------:|
+图3 极线约束|
+
+
+![png](/images/structurelight/立体校正.png)|
+:--------:|
+ 图4 立体校正|
+
+### (4)基于视差的深度计算公式  
+![png](/images/structurelight/视差深度公式.png)  
