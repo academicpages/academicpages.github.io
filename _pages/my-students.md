@@ -159,10 +159,15 @@ Our goal is to develop a tool that allows users with varying skill sets to apply
   </div>
   <div class="grid-item">
   	<p align="left" >
-        I am a 24 years old P.hd student from the department of Computer Engineering at the University of Delaware. I am  from Cali-Colombia  and am an alumni from the Community College Initiative program  2017-2018 at Houston Community College. Also, I am a community leader with a solid professional and academic background in human rights and Software Engineering. Throughout my work at the Universidad ICESI in Colombia, I have contributed to original concepts for  software engineering, and machine learning methodologies. Right now, I am part of the National Science Foundation-supported project designed to expand access to artificial intelligence, led by The Ohio State University. Last but not least, I have  been awarded with several scholarships by the national and international industry, such as One Young World 2021 sponsored by Pfizer company, the summer internship program 2021, Global Rights Connection2021 sponsored by EQUITAS in Canada, where I obtained the social award for my  project called "I have a Dream 2021", The Youth Ambassador Program 2020 sponsored by the Department of State and among others."
+        I am a 24 years old P.hd student from the department of Computer Engineering at the University of Delaware. I am  from Cali-Colombia  and am an alumni from the Community College Initiative program  2017-2018 at Houston Community College. Also, I am a community leader with a solid professional and academic background in human rights and Software Engineering. Throughout my work at the Universidad ICESI in Colombia, I have contributed to original concepts for  software engineering, and machine learning methodologies. Right now, I am part of the National Science Foundation-supported project designed to expand access to artificial intelligence, led by The Ohio State University. 
       </p>
   
   </div>
+</div>
+<div class="grid-container">
+ <div class="grid-item">
+Last but not least, I have  been awarded with several scholarships by the national and international industry, such as One Young World 2021 sponsored by Pfizer company, the summer internship program 2021, Global Rights Connection2021 sponsored by EQUITAS in Canada, where I obtained the social award for my  project called "I have a Dream 2021", The Youth Ambassador Program 2020 sponsored by the Department of State and among others."
+ </div>
 </div>
 
 <div class="grid-container2">
@@ -192,7 +197,7 @@ Our goal is to develop a tool that allows users with varying skill sets to apply
   <h2>Research Topic: Artificial Intelligence in Compiler</h2>
 <div class="grid-container2">
 	<div class="grid-item">
-    	<img src="../images/my-students/MiguelR/MiguelR.png" width="400" height="400" alt="Akshay">
+    	<img src="../images/my-students/MiguelR/pimage.png" width="400" height="400" alt="Akshay">
     </div>
     <div class="grid-item">
     <b>Project Description: </b> Achieving high performance on today’s proces-
