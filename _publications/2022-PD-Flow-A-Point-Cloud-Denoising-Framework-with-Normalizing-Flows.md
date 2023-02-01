@@ -7,7 +7,7 @@ date: 2022-10-28
 venue: 'ECCV'
 tags:
   - Conference Publications
-citation: 'Aihua Mao, Zihui Du, Yu-hui Wen*, Jun Xuan, Yong-Jin Liu*. PD-Flow: A Point Cloud Denoising Framework with Normalizing Flows. European conference on computer vision (ECCV) 2022.'
+citation: 'Aihua Mao, Zihui Du, Yu-hui Wen*, Jun Xuan, Yong-Jin Liu*. PD-Flow: A Point Cloud Denoising Framework with Normalizing Flows. Computer Vision–ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23–27, 2022, Proceedings, Part III. Cham: Springer Nature Switzerland, 2022: 398-415.'
 ---
 
 
@@ -20,4 +20,4 @@ Abstract: Point cloud denoising aims to restore clean point clouds from raw obse
 
 [More information](https://doi.org/10.48550/arXiv.2203.05940)
 
-Recommended citation: Aihua Mao, Zihui Du, Yu-hui Wen\*, Jun Xuan, **Yong-Jin Liu\***. PD-Flow: A Point Cloud Denoising Framework with Normalizing Flows. European conference on computer vision (ECCV) 2022.
+Recommended citation: Aihua Mao, Zihui Du, Yu-hui Wen\*, Jun Xuan, **Yong-Jin Liu\***. PD-Flow: A Point Cloud Denoising Framework with Normalizing Flows. Computer Vision–ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23–27, 2022, Proceedings, Part III. Cham: Springer Nature Switzerland, 2022: 398-415.

@@ -10,6 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
+* The first prize of Higher Education Teaching Achievement Award of China Society of Image and Graphics in 2022. (2022年度中国图象图形学学会高等教育教学成果奖一等奖，完成人：刘永进、毛爱华、陈俊龙、余旻婧、易冉)
 * Wu wenjun AI Award: the Second-Class Natural Science Award (&#21556;&#25991;&#20426;&#20154;&#24037;&#26234;&#33021;&#31185;&#23398;&#25216;&#26415;&#22870;&#33258;&#28982;&#31185;&#23398;&#20108;&#31561;&#22870;&#65292;&#25490;&#21517;&#31532;&#19968;), Chinese Association for Artificial Intelligence (CAAI), 2021.
 * 2021 Excellent Doctoral Thesis Supervisor Award of Beijing Society of Image and Graphics. (2021&#24180;&#24230;&#21271;&#20140;&#22270;&#35937;&#22270;&#24418;&#23398;&#23398;&#20250;&#20248;&#31168;&#21338;&#22763;&#35770;&#25991;&#23548;&#24072;&#22870;)
 * 2021 Hot paper award, Science China (Series F: Information Sciences). (&#12298;&#20013;&#22269;&#31185;&#23398;&#65306;&#20449;&#24687;&#31185;&#23398;&#12299;2021&#24180;&#24230;&#28909;&#28857;&#35770;&#25991;&#22870;)
