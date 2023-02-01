@@ -7,7 +7,21 @@ header:
   og_image: "research/ecdf.png"
 ---
 <h2>Parinaz Barakhshan</h2>
-<img src="../images/my-students/Parinaz/parinaz.jpg" width="200" 
+
+<p align="center">
+  <p align="left">
+    <img align="left" src="../images/my-students/Parinaz/parinaz.jpg" width="200"  height="200" alt="parinaz">
+  </p>
+  <p align="right">
+    I am a third-year Ph.D. candidate and Research Assistant at the University of Delaware, Department of Electrical and Computer Engineering.
+
+    I have always loved learning, growing, developing, and challenging myself to contribute to something significant. The whole point of learning more is to be able to make a difference in the world. My purpose is to help the world run better.
+  </p>
+</p>
+
+
+
+<img align="left" src="../images/my-students/Parinaz/parinaz.jpg" width="200" 
      height="200" alt="parinaz">
 
 I am a third-year Ph.D. candidate and Research Assistant at the University of Delaware, Department of Electrical and Computer Engineering.
@@ -72,7 +86,7 @@ For more information, see the <a href="https://subscripted-subscript.akshayud.me
 
 I am a 24 years old P.hd student from the department of Computer Engineering at the University of Delaware. I am  from Cali-Colombia  and am an alumni from the Community College Initiative program  2017-2018 at Houston Community College. Also, I am a community leader with a solid professional and academic background in human rights and Software Engineering. Throughout my work at the Universidad ICESI in COlombia, I have contributed to original concepts for  software engineering, and machine learning methodologies. Right now, I am part of the National Science Foundation-supported project designed to expand access to artificial intelligence, led by The Ohio State University. Last but not least, I have  been awarded with several scholarships by the national and international industry, such as One Young World 2021 sponsored by Pfizer company, the summer internship program 2021, Global Rights Connection2021 sponsored by EQUITAS in Canada, where I obtained the social award for my  project called "I have a Dream 2021", The Youth Ambassador Program 2020 sponsored by the Department of State and among others."
 
-Principal Research Interests
+<b>Principal Research Interests</b>
 
     Automatic Parallelization
     Software Development
@@ -80,16 +94,16 @@ Principal Research Interests
     Parallel programming paradigms
     Compile-time analysis and transformation techniques
 
-Other subjects/research areas of interest
+<b>Other subjects/research areas of interest</b>
 
     Human Rights
     Diplomacy
 
 
-For more information, see the <a href="https://subscripted-subscript.akshayud.me"/>Personal Web Site</a>
+
 <b>Research Topic: Artificial Intelligence in Compilers</b>
 <br>
-<img src="../images/my-students/MiguelR/pimage.jpeg" width="200" height="200" alt="AI">
+<img src="../images/my-students/MiguelR/pimage.jpeg" width="400" height="400" alt="AI">
 
 <b>Project Description: </b>
 
