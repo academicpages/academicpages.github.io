@@ -209,12 +209,55 @@ sors relies on the different compiler optimizations. Determining what optimizati
 
 </div>
 
+<h2>Miguel Torres</h2>
+
+<div class="grid-container">
+  <div class="grid-item">
+  	 <img  src="../images/my-students/MiguelT/MiguelT.jpeg" width="300"  height="300" alt="Akshay">
+  </div>
+  <div class="grid-item">
+  	<p align="left" >
+        I am a 23 years old Master student from the department of Computer Engineering at the University of Delaware. I am  from Cali-Colombia, and I graduated from the University ICESI as a Software Systems Engineering. Throughout my work at the Universidad ICESI in Colombia, I have contributed to original concepts for  software engineering, and Software Development. I worked in Avantica in Colombia developing software and managing projects for almost 2 years. 
+      </p>
+  
+  </div>
+</div>
 
 
+<div class="grid-container2">
+ <div class="grid-item">
+  	<p align="left" >
+      My research interests include:
+	</p>
+  <ul>
+        <li>Automatic Parallelization</li>
+        <li>Software Development</li>
+        <li>Software Engineering</li>
+        <li>Parallel programming paradigms</li>
+        <li>Compile-time analysis and transformation techniques</li>
+	</ul>
+    <p align="left" >
+     Other subjects/research areas of interest:
+	</p>
+  <ul>
+        <li>Science</li>
+        <li>Space Exploration</li>
+	</ul>
+    
+  
+  </div>
 
+ <h2>Research Topic: Tiling</h2>
+<div class="grid-container2">
+	<div class="grid-item">
+    	<img src="../images/my-students/MiguelT/pMiguel.png" width="400" height="400" alt="Akshay">
+    </div>
+    <div class="grid-item">
+    <b>Project Description: </b> Loop blocking (tiling) is a well-known compiler optimization that helps improve cache performance by dividing the loop iteration space into smaller blocks (tiles); reuse of array elements within each tile is maximized by ensuring that the working set for the tile fits into the data cache. 
+    </div>
+    
 
-
-
+</div>
 
 
 
