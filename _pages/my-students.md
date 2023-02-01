@@ -197,7 +197,7 @@ Last but not least, I have  been awarded with several scholarships by the nation
   <h2>Research Topic: Artificial Intelligence in Compiler</h2>
 <div class="grid-container2">
 	<div class="grid-item">
-    	<img src="../images/my-students/MiguelR/pimage.png" width="400" height="400" alt="Akshay">
+    	<img src="../images/my-students/MiguelR/pimage.jpeg" width="400" height="400" alt="Akshay">
     </div>
     <div class="grid-item">
     <b>Project Description: </b> Achieving high performance on today’s proces-
@@ -214,8 +214,7 @@ sors relies on the different compiler optimizations. Determining what optimizati
 
 
 
-</body>
-</html>
+
 
 
 
