@@ -41,11 +41,17 @@ header:
   </div>
   <div class="grid-item">
   	<p align="left" >
-        I'm always looking for good graduate students who eventually become research assistants in my group. While I may not have immediate funding awailable for new research assistants, I am always writing new research proposals that budget such positions; if the proposals get funded, new positions become available. In the past, all graduate students who joined our research group with the right background and worked hard, eventually obtained funding in this way. Initially, they may have been self-supported, or they obtained funding through a fellowship, teaching assistantship or job outside the Electrical and Computer Engineering department.
+        I'm always looking for good graduate students who eventually become research assistants in my group. While I may not have immediate funding awailable for new research assistants, I am always writing new research proposals that budget such positions; if the proposals get funded, new positions become available. 
       </p>
   
   </div>
 </div>
+<div class="grid-container">
+ <div class="grid-item">
+In the past, all graduate students who joined our research group with the right background and worked hard, eventually obtained funding in this way. Initially, they may have been self-supported, or they obtained funding through a fellowship, teaching assistantship or job outside the Electrical and Computer Engineering department.
+ </div>
+</div>
+
 <div class="grid-container">
  <div class="grid-item">
  What is the right background: The right background matters. I have observed that students do well who have true interest in our projects and who have programming skills. To gauge true interest, please look at  [the research page](https://mike31860.github.io/rudolfEigenmann.github.io/research/) and read some of the relevant papers. When you contact me (which you are welcome to) please indicate the specific projects and/or papers that are closest to your current interest.
