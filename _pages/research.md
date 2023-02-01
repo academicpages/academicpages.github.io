@@ -12,13 +12,21 @@ permalink: /research/
 Peter Hase, Mohit Bansal, Been Kim, Asma Ghandeharioun  
 *Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2301.04213.pdf) [[code]](https://github.com/google/belief-localization)
 
+**Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees**  
+Swarnadeep Saha, Shiyue Zhang, Peter Hase, Mohit Bansal  
+*ICLR 2023.* [[pdf]](https://arxiv.org/pdf/2209.10492.pdf) [[code]](https://github.com/swarnaHub/SummarizationPrograms)
+
+**GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models**  
+Archiki Prasad, Peter Hase, Xiang Zhou, Mohit Bansal  
+*EACL 2023.* [[pdf]](https://arxiv.org/pdf/2203.07281.pdf) [[code]](https://github.com/archiki/GrIPS)
+
+**Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs**  
+Peter Hase, Mona Diab, Asli Celikyilmaz, Xian Li, Zornitsa Kozareva, Veselin Stoyanov, Mohit Bansal, Srinivasan Iyer  
+*EACL 2023.* [[pdf]](https://arxiv.org/pdf/2111.13654.pdf) [[code]](https://github.com/peterbhase/SLAG-Belief-Updating)
+
 **Are Hard Examples also Harder to Explain? A Study with Human and Model-Generated Explanations**  
 Swarnadeep Saha, Peter Hase, Nazneen Rajani, Mohit Bansal  
 *EMNLP 2022.* [[pdf]](https://arxiv.org/pdf/2211.07517.pdf) [[code]](https://github.com/swarnaHub/ExplanationHardness)
-
-**Summarization Programs: Interpretable Abstractive Summarization with Neural Modular Trees**  
-Swarnadeep Saha, Shiyue Zhang, Peter Hase, Mohit Bansal  
-*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2209.10492.pdf) [[code]](https://github.com/swarnaHub/SummarizationPrograms)
 
 **VisFIS: Visual Feature Importance Supervision with Right-for-the-Right-Reason Objectives**  
 Zhuofan Ying,* Peter Hase,* Mohit Bansal  
@@ -27,14 +35,6 @@ Zhuofan Ying,* Peter Hase,* Mohit Bansal
 **When Can Models Learn From Explanations? A Formal Framework for Understanding the Roles of Explanation Data**  
 Peter Hase, Mohit Bansal  
 *ACL 2022 Workshop on Natural Language Supervision.* [[pdf v2]](https://peterbhase.github.io/files/when-expl-help-LNLS-ACL2022.pdf) [[pdf v1]](https://arxiv.org/pdf/2102.02201.pdf) [[code]](https://github.com/peterbhase/ExplanationRoles)
-
-**GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models**  
-Archiki Prasad, Peter Hase, Xiang Zhou, Mohit Bansal  
-*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2203.07281.pdf) [[code]](https://github.com/archiki/GrIPS)
-
-**Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs**  
-Peter Hase, Mona Diab, Asli Celikyilmaz, Xian Li, Zornitsa Kozareva, Veselin Stoyanov, Mohit Bansal, Srinivasan Iyer  
-*Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2111.13654.pdf) [[code]](https://github.com/peterbhase/SLAG-Belief-Updating)
 
 **Low-Cost Algorithmic Recourse for Users With Uncertain Cost Functions**  
 Prateek Yadav, Peter Hase, Mohit Bansal  
