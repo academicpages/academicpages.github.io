@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "chromeAutofillStatesData",
+  "version": "2020.11.02.164946",
+  "imageName": "image.squash",
+  "squash": true,
+  "fsType": "squashfs",
+  "isRemovable": false
+}

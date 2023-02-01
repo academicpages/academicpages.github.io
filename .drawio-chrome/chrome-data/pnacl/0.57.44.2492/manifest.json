@@ -1,0 +1,23 @@
+{
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+  "description": "Portable Native Client Translator Multi-CRX",
+  "name": "PNaCl Translator Multi-CRX",
+  "manifest_version": 2,
+  "minimum_chrome_version": "30.0.0.0",
+  "version": "0.57.44.2492",
+  "platforms": [
+    {
+      "nacl_arch": "x86-32",
+      "sub_package_path": "_platform_specific/x86_32/"
+    },
+    {
+      "nacl_arch": "x86-64",
+      "sub_package_path": "_platform_specific/x86_64/"
+    },
+    {
+      "nacl_arch": "arm",
+      "sub_package_path": "_platform_specific/arm/"
+    }
+  ]
+}

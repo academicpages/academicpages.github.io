@@ -1,0 +1,13 @@
+{
+    "COMMENT": [
+        "This file serves as a template for the resource info description used by ", 
+        "the NaCl Chrome plugin.  It is kept in the NaCl repository to prevent ", 
+        "hard-coding of NaCl-specific information inside the Chrome repository."
+    ], 
+    "abi-version": 1, 
+    "pnacl-arch": "x86-64", 
+    "pnacl-ld-name": "ld.nexe", 
+    "pnacl-llc-name": "pnacl-llc.nexe", 
+    "pnacl-sz-name": "pnacl-sz.nexe", 
+    "pnacl-version": "5dfe030a71ca66e72c5719ef5034c2ed24706c43"
+}

@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "First Party Sets",
+  "version": "2022.02.15.01",
+  "imageName": "image.squash",
+  "squash": true,
+  "fsType": "squashfs",
+  "isRemovable": false
+}

@@ -1,0 +1,1 @@
+{"net":{"http_server_properties":{"servers":[{"alternative_service":[{"advertised_alpns":["h3"],"expiration":"13322283290629313","port":443,"protocol_str":"quic"}],"anonymization":[],"server":"https://accounts.google.com","supports_spdy":true}],"version":5},"network_qualities":{"CAISABiAgICA+P////8B":"4G"}}}
