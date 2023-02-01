@@ -13,11 +13,28 @@ header:
     <img align="left" src="../images/my-students/Parinaz/parinaz.jpg" width="200"  height="200" alt="parinaz">
   </p>
   <p align="right">
-    I am a third-year Ph.D. candidate and Research Assistant at the University of Delaware, Department of Electrical and Computer Engineering.
+    <p align="left">
+        I am a third-year Ph.D. candidate and Research Assistant at the University of Delaware, Department of Electrical and Computer Engineering.
 
-    I have always loved learning, growing, developing, and challenging myself to contribute to something significant. The whole point of learning more is to be able to make a difference in the world. My purpose is to help the world run better.
+        I have always loved learning, growing, developing, and challenging myself to contribute to something significant. The whole point of learning more is to be able to make a difference in the world. My purpose is to help the world run better.
+    </p>
   </p>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
