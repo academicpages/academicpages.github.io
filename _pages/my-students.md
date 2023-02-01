@@ -6,47 +6,96 @@ author_profile: true
 header:
   og_image: "research/ecdf.png"
 ---
-<!DOCTYPE html>
+
+
 <html>
 <head>
 <style>
 .grid-container {
   display: grid;
-  column-gap: 50px;
+  column-gap: 10px;
   grid-template-columns: auto auto;
-  background-color: #2196F3;
+  padding: 10px;
+}
+.grid-container2 {
+  display: grid;
+  column-gap: 10px;
+  grid-template-columns: auto;
   padding: 10px;
 }
 
 .grid-item {
-  background-color: rgba(255, 255, 255, 0.8);
-  border: 1px solid rgba(0, 0, 0, 0.8);
-  padding: 20px;
-  font-size: 30px;
-  text-align: center;
+
+ 
+  padding: 10px;
+  font-size: 18px;
+  text-align: left;
 }
 </style>
 </head>
 <body>
 
-<h1>The column-gap Property</h1>
-
-<p>Use the <em>column-gap</em> property to adjust the space between the columns:</p>
+<h2>Parinaz Barakhshan</h2>
 
 <div class="grid-container">
-  <div class="grid-item">1</div>
-  <div class="grid-item">2</div>
-  <div class="grid-item">3</div>  
-  <div class="grid-item">4</div>
-  <div class="grid-item">5</div>
-  <div class="grid-item">6</div>  
-  <div class="grid-item">7</div>
-  <div class="grid-item">8</div>
-  <div class="grid-item">9</div>  
+  <div class="grid-item">
+  	 <img  src="https://mike31860.github.io/rudolfEigenmann.github.io/images/my-students/Parinaz/parinaz.jpg" width="300"  height="300" alt="parinaz">
+  </div>
+  <div class="grid-item">
+  	<p align="left" >
+        I am a third-year Ph.D. candidate and Research Assistant at the University of Delaware, Department of Electrical and Computer Engineering.
+
+        I have always loved learning, growing, developing, and challenging myself to contribute to something significant. The whole point of learning more is to be able to make a difference in the world. My purpose is to help the world run better.
+      </p>
+  
+  </div>
 </div>
+
+<div class="grid-container2">
+ <div class="grid-item">
+  	<p align="left" >
+      My research interests include:
+	</p>
+  <ul>
+        <li>Optimizing compilers</li>
+        <li>Programming methodologies</li>
+        <li>Source-to-source Translators</li>
+        <li>performance evaluation for HPC</li>
+        <li>best practices and tools in computational and data-intensive research, using ML, deep learning, and NLP to solve problems that cannot be solved in traditional ways</li>
+	</ul>
+  <p align="left" >
+      For more information, see the <a href="https://sites.udel.edu/parinazb/">Personal Web Site</a>
+	</p>
+  </div>
+
+
+</div>
+<h2>Research Topic: iCetus, An Interactive Parallelizing Compiler</h2>
+<div class="grid-container">
+	<div class="grid-item">
+    	<img src="https://mike31860.github.io/rudolfEigenmann.github.io/images/my-students/Parinaz/pimage.png" width="200" height="200" alt="">
+    </div>
+    <div class="grid-item">
+    <b>Project Description: </b> Today’s computers are all multicore. In a modern shared-memory architecture, parallelization techniques enable us to utilize multiple processors simultaneously and improve the performance of an application by converting sequential code into multi-threaded and/or vectorized code. 
+
+Our goal is to develop a tool that allows users with varying skill sets to apply parallelization techniques interactively. 
+    
+    
+    </div>
+    
+
+</div>
+
+<div class="grid-container">
+ <div class="grid-item">
+ While the tool can parallelize the code/ parts of the code in a fully automatic format for Non-expert users,  Power users can finely steer the optimization process through the tool menus to obtain an optimized version of the code.
+ </div>
+</div>
+
 
 </body>
 </html>
+
 <h2>Parinaz Barakhshan</h2>
 <div>
   <div>
