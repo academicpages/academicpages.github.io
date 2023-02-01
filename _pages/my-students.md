@@ -8,7 +8,7 @@ header:
 ---
 
 
-<html>
+
 <head>
 <style>
 .grid-container {
@@ -33,13 +33,13 @@ header:
 }
 </style>
 </head>
-<body>
+
 
 <h2>Parinaz Barakhshan</h2>
 
 <div class="grid-container">
   <div class="grid-item">
-  	 <img  src="https://mike31860.github.io/rudolfEigenmann.github.io/images/my-students/Parinaz/parinaz.jpg" width="200"  height="200" alt="parinaz">
+  	 <img  src="../images/my-students/Parinaz/parinaz.jpg" width="200"  height="200" alt="parinaz">
   </div>
   <div class="grid-item">
   	<p align="left" >
@@ -76,7 +76,7 @@ header:
 <h2>Research Topic: iCetus, An Interactive Parallelizing Compiler</h2>
 <div class="grid-container">
 	<div class="grid-item">
-    	<img src="https://mike31860.github.io/rudolfEigenmann.github.io/images/my-students/Parinaz/pimage.png" width="200" height="200" alt="">
+    	<img src="../images/my-students/Parinaz/pimage.png" width="200" height="200" alt="">
     </div>
     <div class="grid-item">
     <b>Project Description: </b> Today’s computers are all multicore. In a modern shared-memory architecture, parallelization techniques enable us to utilize multiple processors simultaneously and improve the performance of an application by converting sequential code into multi-threaded and/or vectorized code. 
