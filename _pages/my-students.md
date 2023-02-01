@@ -39,7 +39,7 @@ header:
 
 <div class="grid-container">
   <div class="grid-item">
-  	 <img  src="https://mike31860.github.io/rudolfEigenmann.github.io/images/my-students/Parinaz/parinaz.jpg" width="150"  height="150" alt="parinaz">
+  	 <img  src="https://mike31860.github.io/rudolfEigenmann.github.io/images/my-students/Parinaz/parinaz.jpg" width="200"  height="200" alt="parinaz">
   </div>
   <div class="grid-item">
   	<p align="left" >
