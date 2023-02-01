@@ -16,7 +16,7 @@ See my [Google Scholar page](https://scholar.google.com/citations?user=a9rXidMAA
 
 I graduated from the [University of North Carolina at Chapel Hill](https://www.unc.edu/) in 2020 with degrees in Astrophysics and Mathematics, where my research with [Prof. Daniel Reichart](https://www.danreichart.com/) focused on the development of statistical techniques for astronomical data applications.
 
-Teaching is also important to me, and I have been an educator in physics, math and astronomy [in the academic setting](https://nickk124.github.io/teaching/) and [beyond](https://nickk124.github.io/outreach/). I have also worked on many [side projects](https://nickk124.github.io/projects/) that have captured my interest. 
+Teaching is also important to me, and I have been an educator in machine learning, physics, math and astronomy [in the academic setting](https://nickk124.github.io/teaching/) and [beyond](https://nickk124.github.io/outreach/). I have also worked on many [side projects](https://nickk124.github.io/projects/) that have captured my interest. 
 
 See my resume, full CV, and coursework [here](https://nickk124.github.io/cv/).
 
