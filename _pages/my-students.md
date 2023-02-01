@@ -96,43 +96,68 @@ Our goal is to develop a tool that allows users with varying skill sets to apply
 </div>
 
 
+<h2>Akshay Bhosale</h2>
+
+<div class="grid-container">
+  <div class="grid-item">
+  	 <img  src="../images/my-students/Akshay/Akshay.png" width="300"  height="300" alt="Akshay">
+  </div>
+  <div class="grid-item">
+  	<p align="left" >
+        I am currently working towards my PhD at the University of Delaware in Newark,DE . My major is Computer Engineering.My Undergrad major was Electronics Engineering. I have completed coursework in a variety of areas ranging from web application security, computer architecture, secure software design to parallel programming, compilers , ML and cryptography. This page will give you a comprehensive overview of all my work.
+      </p>
+  
+  </div>
+</div>
+
+<div class="grid-container2">
+ <div class="grid-item">
+  	<p align="left" >
+      My research interests include:
+	</p>
+  <ul>
+        <li>Automatic Parallelization</li>
+        <li>Multi-Level Intermediate Representation (MLIR)</li>
+        <li>Source to Source Translators</li>
+        <li>Parallel programming paradigms</li>
+        <li>Compile-time analysis and transformation techniques</li>
+	</ul>
+    <p align="left" >
+      My research interests include:
+	</p>
+  <ul>
+        <li>Machine Learning</li>
+        <li>Computer Systems Architecture</li>
+	</ul>
+    
+    
+    
+  <p align="left" >
+     For more information, see the <a href="https://subscripted-subscript.akshayud.me/">Personal Web Site</a>
+	</p>
+  </div>
+
+<h2>Research Topic: Subscripted subscript patterns</h2>
+<div class="grid-container">
+	<div class="grid-item">
+    	<img src="../images/my-students/Akshay/pakshay.png" width="400" height="400" alt="Akshay">
+    </div>
+    <div class="grid-item">
+    <b>Project Description: </b> A number of scientific applications comprise of loops wherein an array is subscripted by another array - a[b[i]]. With write references to the host array (array ‘a’) within a loop, current compile-time techniques are incapable of detecting such loops as parallelizable. If left unparallelized, these loops can in-turn prevent the performance obtained through automatic parallelization, matching that of the hand parallelized version. Hence, Subscripted subscript analysis is the next big challenge in Automatic Parallelization.
+   
+    
+    </div>
+    
+
+</div>
+
+
+
+
+
+
 </body>
 </html>
-
-<h2>Parinaz Barakhshan</h2>
-<div>
-  <div>
-    <p style="float:left">
-      <img  src="../images/my-students/Parinaz/parinaz.jpg" width="200"  height="200" alt="parinaz">
-    </p>
-    <p float= "right" align="right">
-      <p align="left" style="padding:10px" >
-        I am a third-year Ph.D. candidate and Research Assistant at the University of Delaware, Department of Electrical and Computer Engineering.
-
-        I have always loved learning, growing, developing, and challenging myself to contribute to something significant. The whole point of learning more is to be able to make a difference in the world. My purpose is to help the world run better.
-      </p>
-    </p>
-  </div>
-
-  <div >
-      My research interests include:
-
-              optimizing compilers,
-              programming methodologies,
-              source-to-source Translators,
-              performance evaluation for HPC,
-              best practices and tools in computational and data-intensive research,
-              using ML, deep learning, and NLP to solve problems that cannot be solved in traditional ways.
-
-      For more information, see the <a href="https://sites.udel.edu/parinazb/">Personal Web Site</a>
-  </div>
-<b>Research Topic: iCetus, An Interactive Parallelizing Compiler</b>
-<br>
-<img src="../images/my-students/Parinaz/pimage.png" width="200" height="200" alt="">
-
-<b>Project Description: </b> Today’s computers are all multicore. In a modern shared-memory architecture, parallelization techniques enable us to utilize multiple processors simultaneously and improve the performance of an application by converting sequential code into multi-threaded and/or vectorized code. 
-
-Our goal is to develop a tool that allows users with varying skill sets to apply parallelization techniques interactively. While the tool can parallelize the code/ parts of the code in a fully automatic format for Non-expert users,  Power users can finely steer the optimization process through the tool menus to obtain an optimized version of the code.
 
 
 
