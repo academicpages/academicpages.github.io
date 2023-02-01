@@ -54,7 +54,7 @@ In the past, all graduate students who joined our research group with the right 
 
 <div class="grid-container">
  <div class="grid-item">
- What is the right background: The right background matters. I have observed that students do well who have true interest in our projects and who have programming skills. To gauge true interest, please look at  [the research page](https://mike31860.github.io/rudolfEigenmann.github.io/research/) and read some of the relevant papers. When you contact me (which you are welcome to) please indicate the specific projects and/or papers that are closest to your current interest.
+ What is the right background: The right background matters. I have observed that students do well who have true interest in our projects and who have programming skills. To gauge true interest, please look at <a href="https://mike31860.github.io/rudolfEigenmann.github.io/research/">Projects</a>  and read some of the relevant papers. When you contact me (which you are welcome to) please indicate the specific projects and/or papers that are closest to your current interest.
  </div>
 </div>
 
