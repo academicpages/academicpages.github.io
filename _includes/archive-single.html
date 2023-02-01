@@ -50,15 +50,49 @@
 
     {% if post.collection == 'teaching' %}
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+    <!--  -->
+    <!-- starting publication style -->
+    <!--  -->
     {% elsif post.collection == 'publications' %}
+    <li>
       <!-- <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
       {% if post.title %}            
-        <h3 class="archive__item-title" itemprop="headline">  <!-- underlining when hovering was happening bcoz of archive__item-title class in _archive.scss, deleting is same  --> 
+        <!-- <h3 class="archive__item-title" itemprop="headline">   -->
+        <!-- underlining when hovering was happening bcoz of archive__item-title class in _archive.scss, deleting is same  --> 
+        <b>
           {{ title }} 
-          <!-- <br> -->
-          <!-- &nbsp; -->
-        </h3> 
+
+          <!-- conference url / arxiv url (No, not adding arxiv url) -->
+          {% if post.link %}
+            <!-- <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> -->
+            [<a href="{{ post.link }}">URL</a>]
+          {% endif %}
+
+          <!-- replacing paperurl to pdf -->
+          <!-- {% if post.paperurl %}       
+            <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+          {% endif %} -->
+          {% if post.pdf %}       
+            [<a href="{{ post.pdf }}">PDF</a>]
+          {% endif %}
+
+          <!-- Code and Github is same thing, will fix later if adding on any paper -->
+          {% if post.code %}
+            <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
+          {% endif %}
+          {% if post.github %}
+            <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+          {% endif %}
+
+          <!-- {% if post.video %}
+            <a href="{{ post.video }}"><i class="fas fa-fw fa-video"  aria-hidden="true"></i></a>
+          {% endif %}  -->
+          {% if post.video %}       
+            [<a href="{{ post.video }}">Video</a>]
+          {% endif %}
+        </b> 
       {% endif %}   
+
       {% if post.abstract %}
         <details><summary>Abstract</summary>
         <blockquote>
@@ -82,41 +116,40 @@
       <!-- {% if post.citation %}
         {{ post.citation }}
       {% endif %} -->
+      
+      <br>
       {% if post.authors %}
-        <i>{{ post.authors }}</i>
+        <!-- <i>{{ post.authors }}</i> -->
+        {{ post.authors }}
       {% endif %}
       <br>
       {% if post.venue %}
-        <b><i style="color:dodgerblue">{{ post.venue }}</i></b>
+        <!-- <b><i style="color:rgb(1, 14, 26)">{{ post.venue }}</i></b> -->
+        <!-- <b style="color:rgb(1, 14, 26)">{{ post.venue }} {{ post.year }}</b> -->
+        <b>{{ post.venue }} {{ post.year }}</b>
       {% endif %}
-      {% if post.year %}
-        <b><i style="color:dodgerblue">{{ post.year }}</i></b>
-      {% endif %}
-      <!-- <br> --> &nbsp;
-      <!-- Venue and Type -->
-      {% if post.venue-type %}
-        <button class="btn">{{ post.venue-type }}</button>
-      {% endif %}
-      {% if post.research-category %}
-        <button class="btn">{{ post.research-category }}</button>
-      {% endif %}
-      &nbsp;
-      {% if post.link %}            
-        <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.paperurl %}       
-        <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.code %}
-        <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.github %}
-        <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
-      {% endif %}
-      {% if post.video %}
-        <a href="{{ post.video }}"><i class="fas fa-fw fa-video"  aria-hidden="true"></i></a>
-      {% endif %} 
+      <!-- {% if post.year %}
+        <b><i style="color:rgb(1, 14, 26)">{{ post.year }}</i></b>
+      {% endif %} -->
+      <!-- <br> --> 
+
+      <!-- &nbsp; -->
+      <span class="author">
+        <!-- Venue and Type -->
+        {% if post.venue-type %}
+          <button class="btn--small">{{ post.venue-type }}</button>
+        {% endif %}
+        {% if post.research-category %}
+          <button class="btn--small">{{ post.research-category }}</button>
+        {% endif %}
+      </span>
+      <!-- &nbsp; -->
+
+      <!-- <span class="author">The Author</span> -->
+
+
       <!-- </p> -->
+    </li>
     {% elsif post.collection == 'posts' and post.date %}
       <p class="page__date"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     {% endif %}
