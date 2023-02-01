@@ -61,7 +61,7 @@ Awards
 
 Services
 =====
-* Program Committee Member or Reviewer: ACL Rolling Review, ACL (2023, 2021), EMNLP (2022, 2021), Artificial Intelligence, AAAI (2021, 2020), IJCAI (2023, 2022, 2021, 2020, 2019).  
+* Program Committee Member or Reviewer: ACL Rolling Review, ACL (2023, 2021), EMNLP (2022, 2021), AIJ, TNNLS, AAAI (2021, 2020), IJCAI (2023, 2022, 2021, 2020, 2019).  
 
 Misc
 ======
