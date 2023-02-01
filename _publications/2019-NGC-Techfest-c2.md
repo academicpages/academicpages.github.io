@@ -8,10 +8,13 @@ venue: 'NGC TechFest'
 venue-type: 'Poster'
 research-category: 'Multimodal Information Retrieval'
 website-separation-category: 'c2'
-paperurl: '/files/publications/tech-fest-poster-2019.pdf' 
+pdf: '/files/publications/tech-fest-poster-2019.pdf' 
+
 link: 'http://dx.doi.org/10.13140/RG.2.2.16612.04484'
+
 # code: 'https://doi.org/10.7910/DVN/BEKPWV'
-authors: '<b>KMA Solaiman</b> and Bharat Bhargava'
+
+authors: '<b><u>KMA Solaiman</u></b> and Bharat Bhargava'
 citation: 'KMA Solaiman and Bharat Bhargava, “Multi-modal Information Retrieval via Joint Embedding,” in NGC Techfest 2019.'
 # poster
 # pdf
