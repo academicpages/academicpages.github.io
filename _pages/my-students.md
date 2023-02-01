@@ -56,13 +56,16 @@ Other subjects/research areas of interest
 
 
 For more information, see the <a href="https://subscripted-subscript.akshayud.me/">Personal Web Site</a>
+<br>
 <b>Research Topic: Subscripted subscript patterns</b>
 <br>
-<img src="../images/my-students/Akshay/pakshay.png" width="200" height="200" alt="Akshay">
-
+<img src="../images/my-students/Akshay/pakshay.png" width="400" height="400" alt="Akshay">
+<br>
 <b>Project Description: </b> A number of scientific applications comprise of loops wherein an array is subscripted by another array - a[b[i]]. With write references to the host array (array ‘a’) within a loop, current compile-time techniques are incapable of detecting such loops as parallelizable. If left unparallelized, these loops can in-turn prevent the performance obtained through automatic parallelization, matching that of the hand parallelized version. Hence, Subscripted subscript analysis is the next big challenge in Automatic Parallelization.
-----------------------------------------------------------------------------------------------------
 
+
+
+---------------------------------------------------------------------------------------------------
 <h2>Miguel Rosas</h2>
 <img src="../images/my-students/MiguelR/MiguelR.png" width="200" 
      height="200" alt="MiguelR">
