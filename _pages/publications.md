@@ -24,7 +24,7 @@ author_profile: true
 <br><br>
 
 
-## Pragmatism.<br>*The Palgrave Encyclopedia of the Possible*, 2022. ([Link](https://link.springer.com/referenceworkentry/10.1007/978-3-319-98390-5_241-1)) <img align="right" src="https://gui-cogsci.github.io/images/palgrave-encyclopedia.png" width="130">
+## Pragmatism.<br>*The Palgrave Encyclopedia of the Possible*, 2022. ([Link](http://gui.embody.group/files/2022-pragmatism-encyclopedia.pdf)) <img align="right" src="https://gui-cogsci.github.io/images/palgrave-encyclopedia.png" width="130">
 >  Pragmatism is a school of thought popularized in the beginning of the twentieth century by American psychologist and philosopher William James. Although most widely known (and criticized) for its theory of truth, pragmatism is a far broader position, connecting to issues in psychology, education, ethics, religion, and politics. This entry gives an overview of pragmatism particularly as developed by James. It begins by describing pragmatism’s historical development and presenting the pragmatist contribution to philosophical debates about truth. From this, the entry moves to discussing pragmatism’s broader significance, and it does so by highlighting how pragmatism’s emphasis on practical effects relates to cognitive and existential possibilities: Our habits both limit and enable the range of behaviors available to us, but they can also be worked on so as to bring us closer to better possibilities, including possibilities for our own personal development and for making life more meaningful, as well as possibilities for how we approach life in society.
 > 
 > KEYWORDS: American pragmatism; William James; Practical effects; Truth; Development; Habit; Cognition; Meaning; Pluralism
