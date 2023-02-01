@@ -138,12 +138,64 @@ Our goal is to develop a tool that allows users with varying skill sets to apply
   </div>
 
 <h2>Research Topic: Subscripted subscript patterns</h2>
-<div class="grid-container">
+<div class="grid-container2">
 	<div class="grid-item">
     	<img src="../images/my-students/Akshay/pakshay.png" width="400" height="400" alt="Akshay">
     </div>
     <div class="grid-item">
     <b>Project Description: </b> A number of scientific applications comprise of loops wherein an array is subscripted by another array - a[b[i]]. With write references to the host array (array ‘a’) within a loop, current compile-time techniques are incapable of detecting such loops as parallelizable. If left unparallelized, these loops can in-turn prevent the performance obtained through automatic parallelization, matching that of the hand parallelized version. Hence, Subscripted subscript analysis is the next big challenge in Automatic Parallelization.
+   
+    
+    </div>
+    
+
+</div>
+
+<h2>Miguel Rosas</h2>
+
+<div class="grid-container">
+  <div class="grid-item">
+  	 <img  src="../images/my-students/MiguelR/MiguelR.png" width="300"  height="300" alt="Akshay">
+  </div>
+  <div class="grid-item">
+  	<p align="left" >
+        I am a 24 years old P.hd student from the department of Computer Engineering at the University of Delaware. I am  from Cali-Colombia  and am an alumni from the Community College Initiative program  2017-2018 at Houston Community College. Also, I am a community leader with a solid professional and academic background in human rights and Software Engineering. Throughout my work at the Universidad ICESI in Colombia, I have contributed to original concepts for  software engineering, and machine learning methodologies. Right now, I am part of the National Science Foundation-supported project designed to expand access to artificial intelligence, led by The Ohio State University. Last but not least, I have  been awarded with several scholarships by the national and international industry, such as One Young World 2021 sponsored by Pfizer company, the summer internship program 2021, Global Rights Connection2021 sponsored by EQUITAS in Canada, where I obtained the social award for my  project called "I have a Dream 2021", The Youth Ambassador Program 2020 sponsored by the Department of State and among others."
+      </p>
+  
+  </div>
+</div>
+
+<div class="grid-container2">
+ <div class="grid-item">
+  	<p align="left" >
+      My research interests include:
+	</p>
+  <ul>
+        <li>Automatic Parallelization</li>
+        <li>Software Development</li>
+        <li>Artificial Intelligence</li>
+        <li>Parallel programming paradigms</li>
+        <li>Compile-time analysis and transformation techniques</li>
+	</ul>
+    <p align="left" >
+     Other subjects/research areas of interest:
+	</p>
+  <ul>
+        <li>Human Rights</li>
+        <li>Diplomacy</li>
+	</ul>
+    
+  
+  </div>
+    
+  <h2>Research Topic: Artificial Intelligence in Compiler</h2>
+<div class="grid-container2">
+	<div class="grid-item">
+    	<img src="../images/my-students/Akshay/pakshay.png" width="400" height="400" alt="Akshay">
+    </div>
+    <div class="grid-item">
+    <b>Project Description: </b> Achieving high performance on today’s proces-
+sors relies on the different compiler optimizations. Determining what optimizations to apply and where depends on the program and the target platform. Additionally, the different set of optimizations will create a huge optimization space, where each of the optimizations can provide good performance individually, and when combined they could increase or degrade performance. In other words, choosing the best set of optimizations will maximize the performance of a target application
    
     
     </div>
