@@ -34,12 +34,13 @@ I am interested in designing mechanisms for identifying patterns and novelties i
 
 
 ## Education
-- **Purdue University**
-  - Ph.D. in Computer Science, 2023 (expected)
+- **Ph.D. in Computer Science**
+  - Purdue University, July 2023 <!--(expected)-->
   - Advisor: Prof. [Bharat Bhargava](https://www.cs.purdue.edu/homes/bb/)
-  - M.Sc. in Computer Science, 2022
-- **Bangladesh University of Engineering & Technology (BUET)**
-  - B.Sc. in Computer Science and Engineering (Artifical Intelligence), 2014
+- **M.Sc. in Computer Science**
+  - Purdue University, Dec 2022
+- **B.Sc. in Computer Science and Engineering (Artifical Intelligence)**
+  - Bangladesh University of Engineering & Technology (BUET), 2014
   - Advisor: Prof. [Md. Monirul Islam](https://cse.buet.ac.bd/faculty/facdetail.php?id=mdmonirulislam)
   - Thesis: **Minimal Parameter Clustering of Complex Shaped & Different Sized Dataset with Noise & Outlier Handling ([MPCACS](/files/publications/ug-thesis-2014.pdf))**
   
