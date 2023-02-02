@@ -38,10 +38,14 @@ Avaliação
 * Trabalhos (Undiade III): 
 * Prova Final: 
 
+Slides das Aulas
+========
+* [01/02/2023](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/Calculo_Numerico_01.ipynb)
+
 Notebooks Jupyter
 ========
 
-* [Aula do dia 01/02/2023](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/Calculo_Numerico_01.ipynb)
+* [01/02/2023](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/Calculo_Numerico_01.ipynb)
 
 Listas de Exercícios
 ========
