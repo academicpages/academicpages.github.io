@@ -40,7 +40,7 @@ Avaliação
 
 Slides das Aulas
 ========
-* [Aula 00](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/Calculo_Numerico_01.ipynb) [Aula 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/Calculo_Numerico_01.ipynb)
+* [Aula 00](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_aula00.pdf) [Aula 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_aula01.pdf)
  
 Notebooks Jupyter
 ========
