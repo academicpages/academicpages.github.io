@@ -16,9 +16,9 @@ I am Yusheng Su, a fourth-year Ph.D. at the [THUNLP Lab](https://twitter.com/tsi
 
 My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that has human-like cognitive capacities (e.g., understanding, reasoning, etc) and can generalize to various real-world applications efficiently. Toward this goal, my work spans across:
 
-* <b>General-purpose models.</b> Building pre-trained foundation models that can actively access to various data sources (e.g., knowledge bases, web pages, textual documents, etc) and acquire knowledge to improve the abilities of understanding, reasoning, etc. ([CokeBERT](https://arxiv.org/abs/2009.13964), [CSS-LM](https://arxiv.org/abs/2102.03752))
+* <b>General-purpose models.</b> Building pre-trained foundation models that can actively access to various data sources (e.g., knowledge bases, web pages, textual documents, etc) and acquire knowledge to improve the abilities of understanding, reasoning, etc. ([CokeBERT](https://arxiv.org/abs/2009.13964), [CSS-LM](https://arxiv.org/abs/2102.03752), [CPM](https://www.sciencedirect.com/science/article/pii/S266665102100019X))
 
-* <b>Efficient paradigms.</b> Developing theory, tools, and algorithms to efficiently adapt <b>large-scale</b> pre-trained foundation models to downstream tasks (e.g., parameter-efficient tuning methods, in-context learning, etc.). ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Delta Tuning](https://arxiv.org/abs/2203.06904))
+* <b>Computational efficiency methods.</b> Developing theory, tools, and algorithms to efficiently adapt <b>large-scale</b> pre-trained foundation models to downstream tasks (e.g., parameter-efficient tuning methods, in-context learning, etc.). ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Delta Tuning](https://arxiv.org/abs/2203.06904))
 
 
 <!--
