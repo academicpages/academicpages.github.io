@@ -41,7 +41,13 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>{{ post.authors }}.
+            {% if post.venue %}
+              Accepted at <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+            {% else %}
+              <i>ArXiv preprint</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+            {% endif %}
+          </p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
@@ -56,9 +62,18 @@
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
-    {% elsif post.paperurl %}
-      <p>Download from <a href=" {{ post.paperurl }} ">ArXiv</a></p>
     {% endif %}
+    <p>
+      {% if post.arxiv %}
+        <a href=" {{ post.arxiv }} ">ArXiv</a>
+      {% endif %}
+      {% if post.paperurl %}
+        | <a href=" {{ post.paperurl }} ">PDF</a>
+      {% endif %}
+      {% if post.code %}
+        | <a href=" {{ post.code }} ">Code</a>
+      {% endif %}
+    </p>
 
   </article>
 </div>
