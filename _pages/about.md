@@ -26,11 +26,11 @@ I am interested in designing mechanisms for identifying patterns and novelties i
 
 
 <!-- **Open To Work:**  -->
-> <span style="color:blue"> **I am on the job market for post doctoral and teaching faculty positions!** </span>
+> <span style="color:blue"> **I am looking for post doctoral and teaching faculty positions!** </span>
 <br>
 <i class="fas fa-fw fa-download" aria-hidden="true"></i> <b> Download my [\[CV\]](/files/pdf/Solaiman_CV_Spring23.pdf) [\[Teaching Statement\]](/files/pdf/Teaching_Statement.pdf) [\[Diversity Statement\]](/files/pdf/Diversity_Statement.pdf) </b>
 <br> 
-<i class="fas fa-fw fa-envelope" aria-hidden="true"></i> <b>Please feel free to reach out at [ksolaima@purdue.edu](mailto:ksolaima@purdue.edu).</b>
+<i class="fas fa-fw fa-envelope" aria-hidden="true"></i> <b>Please feel free to drop me an email at [ksolaima@purdue.edu](mailto:ksolaima@purdue.edu).</b>
 
 
 ## Education
