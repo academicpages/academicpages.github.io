@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "KMA Solaiman"
-  avatar           : "salvi-profile-pic.jpeg" # "profile.png"    # it's image uploaded to /images/
+  avatar           : "solaiman-profile-pic.jpeg" # "profile.png"    # it's image uploaded to /images/
   bio              : PhD Candidate in Computer Science at Purdue University #"Computer Scientist"
   location         : West Lafayette, Indiana
   employer         :

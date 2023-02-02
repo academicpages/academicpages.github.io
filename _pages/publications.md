@@ -11,7 +11,7 @@ author_profile: true
  <!-- <button class="btn--warning"> You can also find my publications on <a href="{{ author.googlescholar }}">Google Scholar</a>. </button>  -->
  > <b>You can also find my publications on <a href="{{ site.author.googlescholar }}">Google Scholar</a>. 
  <br> 
- (* denotes equal contribution)</b>
+ (* denotes equal contribution)
 {% endif %}
 <!-- <h2>(* denotes equal contribution) </h2>  -->
 
@@ -21,6 +21,7 @@ author_profile: true
 {% endif %} -->
 
 <ol class="leftpad" reversed>
+<!-- <span class="author"> <button class="btn--small">Venue Type</button> <button class="btn--small">Research Area</button> </span> -->
 
 <h2 style="color:#7700DD"> 2021 - 2023 </h2>
 <!-- <h3 style="color:#7700DD">JOURNAL, CONFERENCE, AND WORKSHOP PAPERS </h3>  -->
