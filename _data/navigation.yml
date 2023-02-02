@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "News"
+    url: /news/
+
   # - title: "Research"
   #   url: /research/
 
@@ -19,7 +22,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/pdf/Solaiman_CV_Spring23.pdf #/cv/
     
   # - title: "Guide"
   #   url: /markdown/
