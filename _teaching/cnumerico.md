@@ -49,7 +49,7 @@ Notebooks Jupyter
 
 Listas de Exercícios
 ========
-* [Lista 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_listaJulia.pdf)
+* [Lista 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_lista01.pdf)
 
 
 Softwares para Download
