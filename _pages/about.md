@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yusheng Su, a fourth-year Ph.D. at the [THUNLP Lab](https://twitter.com/tsinghuanlp), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am advised by Prof. [Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW).
+I am Yusheng Su, a fourth-year Ph.D. at the [THUNLP Lab](https://twitter.com/tsinghuanlp), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am advised by Prof. [Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW). My [CV] (https://www.dropbox.com/s/teasf8a71rqo3z4/Yusheng_Su_Resume_2023_01_13.pdf?dl=0)
 
 ## Research
 <!--My research interests are in the theory and practice of building machine learning systems that remain reliable when deployed in real application contexts. For example:-->
