@@ -48,13 +48,15 @@ Qt路径设置如下图：
 ![png](/images/posts/QTVersion2.png)  
 
 
-五. 创建VS2019 QT GUI项目
+五. 创建VS2019 QT GUI项目  
+------
 Qt路径设置后，再新建Qt程序，如下图，可以选择GUI程序和控制台程序，例如我创建的是GUI项目
 ![png](/images/posts/VS2019QT.png)  
 ![png](/images/posts/VS2019QT2.png)  
 
 
 六. 用VS Qt 开发的项目结果
+------
 ![png](/images/posts/VS2019QT3.png)  
 
 
