@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## [My resume (1 page)](../files/resume.pdf)
 
-## [Full CV](../files/cv.pdf)
+## [Full CV](../files/cv_full.pdf)
 
 ## Relevant Coursework Completed
 
