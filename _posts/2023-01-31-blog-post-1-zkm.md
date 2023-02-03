@@ -33,7 +33,7 @@ ADD_EXECUTABLE(hellocmake ${SRC_LIST})
 
 2. CMakeLists.txt  
 ```  
-#include <iostream>
+
 using namespace std;
 
 int main()
