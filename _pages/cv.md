@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering, Thai Nguyen University of Technology, Vietnam, 2015
+* M.S. in Mechanical Engineering, Sejong University, South Korea, 2019
+* Ph.D in Mechanical Engineering, University of Connecticut, USA, 2026 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August, 2022 - Now: Research Assistant
+  * University of Connecticut
+  * Duties included: Topology Optimization, Triply Periodic Minimal Surface, Surrogate Models
+  * Supervisor: Professor Julian Norato
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2015: Lecturer 
+  * Thai Nguyen University of Technology
+  * Duties included: Teaching 
+  * Supervisor: Professor Khoa Ngo Nhu
   
 Skills
 ======
