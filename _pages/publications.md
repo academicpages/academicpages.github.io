@@ -12,7 +12,7 @@ You can find the replication files on [my OSF profile](https://osf.io/8sgp9).
 
 Peer reviewed journal articles
 ======
-Schechtl, Manuel, Daria Tisch (2023): Tax Principles, Policy Feedback, and Self-Interest: Cross-National Experimental Evidence on Wealth Tax Preferences. Socio-Economic Review (Accepted)
+Schechtl, Manuel, Daria Tisch (2023): Tax Principles, Policy Feedback, and Self-Interest: Cross-National Experimental Evidence on Wealth Tax Preferences. Socio-Economic Review [doi.org/10.1093/ser/mwac071](https://doi.org/10.1093/ser/mwac071)
 
 
 Tisch, Daria, Tamara Gutfleisch (2022): Unequal but just? Experimental evidence on (gendered) distributive justice principles in parental financial gifts. Socio-Economic Review, online first, [doi.org/10.1093/ser/mwac041](https://doi.org/10.1093/ser/mwac041)
@@ -43,6 +43,8 @@ Data
 ======
 
 Tisch, Daria, Tamara Gutfleisch (2022): Gerechtigkeitsprinzipien bei elterlichen Schenkungen. Scientific Use File. Datendokumentation. [doi.org/10.7802/2431](https://doi.org/10.7802/2431).
+
+Schechtl, Manuel, Daria Tisch (2023): Tax Principles, Policy Feedback, and Self- Interest: Cross-National Experimental Evidence on Wealth Tax Preferences. Replication package including data,  [doi: 10.17605/OSF.IO/QU9ZA](https://osf.io/qu9za/).
 
 Other
 ======
