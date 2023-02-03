@@ -14,6 +14,5 @@ I believe in the data-driven automation and human-computer cooperation – they 
 
 My research interests include  
 - Causal Machine Learning 
-- Causal Representation Learning
 - Causal Inference
 - Probabilistic Modelling
