@@ -6,7 +6,7 @@ permalink: /datasets/resultatselection
 date: 2023-02-02
 ---
 
-Dataset on all Belgium elections since 1840's up to the district level available on the Le Service public fédéral Intérieur website.
+Dataset on all Belgium elections since 1840's up to the district level available on the Le Service public fédéral Intérieur website. The data was collected using the Selenium framework and is available in CSV format in the Github repository.
 
 ![Github Follow](https://img.shields.io/github/followers/joseparreiras?style=social)
 ![Github Stars](https://img.shields.io/github/stars/joseparreiras/resultatselection?style=social)

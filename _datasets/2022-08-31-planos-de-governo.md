@@ -2,11 +2,11 @@
 title: "Planos de Governo"
 collection: datasets
 type: "Open Data"
-permalink: /datasets/planos_de_governo
+permalink: /datasets/planos-de-governo
 date: 2022-08-31
 ---
 
-Análise dos planos de governo dos candidatos a presidência nas eleicões brasileiras de 2022.
+Análise dos planos de governo dos candidatos a presidência nas eleicões brasileiras de 2022. Os arquivos foram coletados do website de cada candidato e analisados com a biblioteca textract.
 
 ![Github Follow](https://img.shields.io/github/followers/joseparreiras?style=social)
 ![Github Stars](https://img.shields.io/github/stars/joseparreiras/planos_de_governo?style=social)
