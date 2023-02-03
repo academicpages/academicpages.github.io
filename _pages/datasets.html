@@ -1,0 +1,13 @@
+---
+title: "Data"
+permalink: /datasets/
+author_profile: true
+---
+
+Datasets I have collected and are available online:
+
+{% include base_path %}
+
+{% for post in site.datasets reversed %}
+  {% include archive-single.html %}
+{% endfor %}
