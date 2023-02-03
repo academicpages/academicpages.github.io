@@ -1,5 +1,5 @@
 ---
-title: "Presentation at Causality Discussion Group"
+title: "Disscussing ICML2022 paper, 'Causal Transformer for Estimating Counterfactual Outcomes'"
 collection: talks
 type: "Presentation"
 venue: "Causality Discussion Group"
