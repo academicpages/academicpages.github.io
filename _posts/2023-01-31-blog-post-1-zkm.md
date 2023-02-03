@@ -31,15 +31,3 @@ PROJECT(hellocmake)
 AUX_SOURCE_DIRECTORY(. SRC_LIST)
 ADD_EXECUTABLE(hellocmake ${SRC_LIST})
 ```
-最小cpp
->hellocmake.cpp:  
-```
-#include <iostream>
-using namespace std;
-
-int main()
-{
-cout<<"hellocmake!<<endl;
-return 0;
-}
-``` 
