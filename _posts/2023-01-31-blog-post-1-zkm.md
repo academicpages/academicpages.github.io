@@ -32,7 +32,7 @@ ADD_EXECUTABLE(hellocmake ${SRC_LIST})
 ```
 
 >hellocmake.cpp:  
-```
+````
 #include <iostream>
 using namespace std;
 
@@ -41,4 +41,4 @@ int main()
 cout<<"hellocmake!<<endl;
 return 0;
 }
-``` 
+```` 
