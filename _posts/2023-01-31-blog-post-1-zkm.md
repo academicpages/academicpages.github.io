@@ -24,7 +24,7 @@ tags:
 ### 最小案例
 
 1. CMakeLists.txt  
-```
+```  
 CMAKE_MINIMUM_REQUIRED(VERSION 1.18.0)
 PROJECT(hellocmake)
 AUX_SOURCE_DIRECTORY(. SRC_LIST)
@@ -33,7 +33,7 @@ ADD_EXECUTABLE(hellocmake ${SRC_LIST})
 
 
 2. hellocmake.cpp  
-```
+```  
 #include <iostream>
 using namespace std;
 
@@ -42,4 +42,4 @@ int main()
 cout<<"hellocmake!<<endl;
 return 0;
 }
-```
+```  
