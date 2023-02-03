@@ -4,9 +4,9 @@
   location: Ames, IA
   text: |
     <ul>
-    <li>First author, “An Empirical Study of Deep Learning Models for Vulnerability Detection” (accepted <bf>ICSE 2023</bf>).</li>
+    <li>First author, “An Empirical Study of Deep Learning Models for Vulnerability Detection” (<b>accepted ICSE 2023</b>).</li>
     <li>First author, “DeepDFA: Dataow Analysis-Guided Ecient Graph Learning for Vulnerability Detection.” (Preprint).</li>
-    <li>Contributing author, “Validating static warnings via testing code fragments” (accepted <bf>ISSTA 2021</bf>).</li>
+    <li>Contributing author, “Validating static warnings via testing code fragments” (<b>accepted ISSTA 2021</b>).</li>
     <li>Conducted novel research resulting in 2 rst-author conference papers in submission to ICSE23 and ICLR23.</li>
     <li>Collaborated with CERT lab @ Carnegie-Mellon University and ARiSE lab at Columbia University.</li>
     <li>Improved experiment iteration time by building tools for static analysis (<a href="https://github.com/bstee615/tree-climber">tree-climber</a>) and dynamic analysis and code generation (<a href="https://github.com/bstee615/pal-tools">pal-tools</a>).</li>
