@@ -24,10 +24,21 @@ tags:
 ### 最小案例
 
 最小CMakeLists
->CMakeLists.txt:  
-```  
-CMAKE_MINIMUM_REQUIRED(VERSION 1.18.0)
-PROJECT(hellocmake)
-AUX_SOURCE_DIRECTORY(. SRC_LIST)
-ADD_EXECUTABLE(hellocmake ${SRC_LIST})
-```
+>CMakeLists.txt:
+
+    CMAKE_MINIMUM_REQUIRED(VERSION 1.18.0)
+    PROJECT(hellocmake)
+    AUX_SOURCE_DIRECTORY(. SRC_LIST)
+    ADD_EXECUTABLE(hellocmake ${SRC_LIST})
+
+最小cpp
+>hellocmake.cpp:
+
+    #include <iostream>
+    using namespace std;
+
+    int main()
+    {
+      cout<<"hello, cmake!"<<endl;
+      return 0;
+    }
