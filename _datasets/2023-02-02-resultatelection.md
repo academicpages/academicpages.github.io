@@ -6,6 +6,7 @@ permalink: /datasets/resultatselection
 date: 2023-02-02
 ---
 
+Dataset on all Belgium elections since 1840's up to the district level available on the Le Service public fédéral Intérieur website.
 
 ![Github Follow](https://img.shields.io/github/followers/joseparreiras?style=social)
 ![Github Stars](https://img.shields.io/github/stars/joseparreiras/resultatselection?style=social)
@@ -19,7 +20,6 @@ date: 2023-02-02
 ![Size](https://img.shields.io/github/repo-size/joseparreiras/resultatselection)
 ![Last Commit](https://img.shields.io/github/last-commit/joseparreiras/resultatselection)
 
-Dataset on all Belgium elections since 1840's up to the district level available on the Le Service public fédéral Intérieur website.
 
 
 <a href="https://github.com/joseparreiras/resultatselection" target="_blank"><img src="https://img.shields.io/badge/repository-000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
