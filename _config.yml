@@ -85,9 +85,9 @@ author:
   bio              : "PhD student in PolyU"
   location         : "Hong Kong, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=x8cAD_EAAAAJ"
-  email            : "2491681602@qq.com"
+  email            : "liuyunqing98@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
