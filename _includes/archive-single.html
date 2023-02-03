@@ -79,6 +79,12 @@
       {% if post.code %}
         | <a href=" {{ post.code }} ">Code</a>
       {% endif %}
+      {% if post.slides %}
+        | <a href=" {{ post.slides }} ">Slides</a>
+      {% endif %}
+      {% if post.poster %}
+        | <a href=" {{ post.poster }} ">Poster</a>
+      {% endif %}
     </p>
 
   </article>
