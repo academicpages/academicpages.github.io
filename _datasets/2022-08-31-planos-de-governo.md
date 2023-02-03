@@ -3,7 +3,7 @@ title: "Planos de Governo"
 collection: datasets
 type: "Open Data"
 permalink: /datasets/planos_de_governo
-date: 2020-09-21
+date: 2022-08-31
 ---
 
 ![Github Follow](https://img.shields.io/github/followers/joseparreiras?style=social)
