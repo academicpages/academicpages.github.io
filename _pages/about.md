@@ -12,8 +12,8 @@ I am a PhD candidate at the Institute of AI in Management, LMU Munich. I do caus
 
 I believe in the data-driven automation and human-computer cooperation – they should become the main booster of sustainable development and inclusive society.
 
-My research interests include 
-- Causal Inference 
+My research interests include  
 - Causal Machine Learning 
 - Causal Representation Learning
+- Causal Inference
 - Probabilistic Modelling
