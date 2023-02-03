@@ -31,8 +31,19 @@ AUX_SOURCE_DIRECTORY(. SRC_LIST)
 ADD_EXECUTABLE(hellocmake ${SRC_LIST})
 ```
 
+2. CMakeLists.txt  
+```  
+#include <iostream>
+using namespace std;
 
-2. hellocmake.cpp  
+int main()
+{
+cout<<"hellocmake!<<endl;
+return 0;
+}
+```
+
+3. hellocmake.cpp  
 ```  
 
 #include <iostream>
