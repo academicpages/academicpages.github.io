@@ -14,6 +14,19 @@ redirect_from:
 * M.S. in Data Science, Ludwig Maximilian University of Munich, 2018 - 2021
 * B.S. in System Analysis, National Technical University of Ukraine ”Igor Sikorsky Kyiv Polytechnic Institute”, 2014 - 2018
 
+## Publications
+<ul>{% for post in site.publications reversed %}
+{% include archive-single-cv.html %}
+{% endfor %}</ul>
+  
+## Talks
+<ul>{% for post in site.talks reversed %}
+{% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
+## Reviewing
+* Reviewer for [AISTATS 2023](http://www.aistats.org/aistats2023/)
+
 ## Work experience
 * Research Assistant, Fraunhofer Institute for Integrated Circuits IIS (Munich, Germany), 2019 - 2021
 * Intern Data Scientist, Beehiveor Academy and R&D Labs (Kyiv, Ukraine), 2018

@@ -36,7 +36,12 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
+    {{ post.authors }}.
+    {% if post.venue %}
+      Accepted at <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+    {% else %}
+      <i>ArXiv preprint</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+    {% endif %}
     </li>
  </article>
 </div>
