@@ -17,7 +17,7 @@ author_profile: true
 
 * Deadline-Aware Multi-Agent Tour Planning.                     
     **Taoan Huang**, Vikas Shivashankar, Michael Caldara, Joseph Durham, Jiaoyang Li, Bistra Dilkina and Sven Koenig.    
-    <i>The 33rd International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, 2023 (in print).
+    <i>The 33rd International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, 2023 (in print).        
     [Another version](https://hsi-workshop.github.io/hsi-2022-camera-ready/Deadline-Aware_Multi-Agent_Tour_Planning.pdf) appeared at <i>the 2nd International Workshop on Heuristic Search in Industry in conjunction with IJCAI-ECAI</i>, 2022.  
 
 * [Local Branching Relaxation Heuristics for Integer Linear Programs](https://arxiv.org/pdf/2212.08183.pdf).                     
@@ -40,7 +40,7 @@ author_profile: true
 ## 2021  
 * [Learning to Select Nodes for Bounded-Suboptimal Conflict-Based Search for Multi-Agent Path Finding](https://taoanhuang.github.io/files/aamas21b.pdf).                     
     **Taoan Huang**, Bistra Dilkina and Sven Koenig.    
-    <i>International Joint Conference on Autonomous Agents and Mult-Agent Systems (**AAMAS**)</i>, 2021        
+    <i>International Joint Conference on Autonomous Agents and Mult-Agent Systems (**AAMAS**)</i>, 2021.        
     
 
 * [Learning to Resolve Conflicts for Multi-Agent Path Finding with Conflict-Based Search](https://taoanhuang.github.io/files/aaai21c.pdf).         
@@ -61,13 +61,13 @@ author_profile: true
 
 * [Green Security Game with Community Engagement](https://taoanhuang.github.io/files/aamas20.pdf).                     
     **Taoan Huang**, Weiran Shen, David Zeng, Tianyu Gu, Rohit Singh and Fei Fang.        
-    <i>International Joint Conference on Autonomous Agents and Mult-Agent Systems (**AAMAS**)</i>, 2020        
+    <i>International Joint Conference on Autonomous Agents and Mult-Agent Systems (**AAMAS**)</i>, 2020.        
     
 ## 2019
 
 
 * [Dynamic Trip-Vehicle Dispatch with Scheduled and On-Demand Requests](https://taoanhuang.github.io/files/uai19.pdf).                     
     **Taoan Huang**, Bohui Fang, Xiaohui Bei and Fei Fang.        
-    <i>Conference on Uncertainty in Artificial Intelligence (**UAI**)</i>, 2019        
+    <i>Conference on Uncertainty in Artificial Intelligence (**UAI**)</i>, 2019.        
     A [short version](https://taoanhuang.github.io/files/aamas19EA.pdf) appeared at <i>International Joint Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, 2019. 
     
