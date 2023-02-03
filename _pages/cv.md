@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* PhD. in Causal Machine Learning, Ludwig Maximilian University of Munich, 2021 - Present
+* PhD. in Computer Science, Ludwig Maximilian University of Munich, 2021 - Present
 * M.S. in Data Science, Ludwig Maximilian University of Munich, 2018 - 2021
 * B.S. in System Analysis, National Technical University of Ukraine ”Igor Sikorsky Kyiv Polytechnic Institute”, 2014 - 2018
 
