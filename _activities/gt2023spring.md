@@ -9,9 +9,6 @@ author_profile: false
 
 | date            | time            | speaker        | title                             | zoom link                                                              |
 | --------------- | --------------- | -------------- | --------------------------------- | ---------------------------------------------------------------------- |
-| Thu, 2023-01-19 | 1:30pm - 2:30pm |                |                                   | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
-| Thu, 2023-01-26 | 1:30pm - 2:30pm |                |                                   | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
-| Thu, 2023-02-02 | 1:30pm - 2:30pm |                |                                   | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 | Thu, 2023-02-09 | 1:30pm - 2:30pm |                |                                   | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 | Thu, 2023-02-16 | 1:30pm - 2:30pm | Li-Sheng Tseng | A Cone Story for Smooth Manifolds |	Vincent 215 |
 | Thu, 2023-02-23 | 1:30pm - 2:30pm | Ke Zhu         |                                   | Vincent 215 |
