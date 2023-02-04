@@ -1,4 +1,6 @@
 [![build](https://github.com/JacobCoffee/scriptr.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/JacobCoffee/scriptr.github.io/actions/workflows/pages/pages-build-deployment)
+[![license](https://badgen.net/badge/license/MIT/blue)](https://badgen.net/badge/license/MIT/blue)
+[![resume](https://badgen.net/badge/resume/view/orange)](https://github.com/JacobCoffee/scriptr.github.io/blob/master/files/resume.pdf)
 
 # Script.dev - My personal website repository
 
