@@ -1,7 +1,7 @@
 ---
 title: 'Markdown 标题语法'
 date: 2022-08-12
-permalink: /posts/2022/08/markdown-1-zkm/
+permalink: /posts/2022/0812/markdown-1-zkm/
 tags:
   - cool posts
   - markdown

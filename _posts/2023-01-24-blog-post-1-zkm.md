@@ -1,7 +1,7 @@
 ---
 title: '双目立体匹配基本原理'
 date: 2023-01-24
-permalink: /posts/2023/01/structurelight-1-zkm/
+permalink: /posts/2023/0124/structurelight-1-zkm/
 tags:
   - structurelight
   - 双目视觉

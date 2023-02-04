@@ -1,7 +1,7 @@
 ---
 title: 'Markdown列表语法'
 date: 2022-08-27
-permalink: /posts/2022/08/markdown-5-zkm/
+permalink: /posts/2022/0827/markdown-5-zkm/
 tags:
   - cool posts
   - markdown

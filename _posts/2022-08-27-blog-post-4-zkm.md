@@ -1,7 +1,7 @@
 ---
 title: 'Markdown代码语法'
 date: 2022-08-27
-permalink: /posts/2022/08/markdown-6-zkm/
+permalink: /posts/2022/0827/markdown-6-zkm/
 tags:
   - cool posts
   - markdown

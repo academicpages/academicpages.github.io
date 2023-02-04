@@ -1,7 +1,7 @@
 ---
 title: 'Jupyter绘图-10分钟速成'
 date: 2022-08-30
-permalink: /posts/2022/08/jupyter-1-zkm/
+permalink: /posts/2022/0830/jupyter-1-zkm/
 tags:
   - cool posts
   - jupyter

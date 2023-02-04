@@ -1,7 +1,7 @@
 ---
 title: 'VS2019 Qt开发环境搭建'
 date: 2023-02-01
-permalink: /posts/2023/02/blog-post-1-name/
+permalink: /posts/2023/0201/blog-post-1-name/
 tags:
   - VS
   - Qt

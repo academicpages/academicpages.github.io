@@ -1,7 +1,7 @@
 ---
 title: 'Markdown段落格式'
 date: 2022-08-26
-permalink: /posts/2022/08/markdown-2-zkm/
+permalink: /posts/2022/0826/markdown-2-zkm/
 tags:
   - cool posts
   - markdown

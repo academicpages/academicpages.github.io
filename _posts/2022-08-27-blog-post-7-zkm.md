@@ -1,7 +1,7 @@
 ---
 title: 'Markdown图片语法'
 date: 2022-08-27
-permalink: /posts/2022/08/markdown-7-zkm/
+permalink: /posts/2022/0827/markdown-7-zkm/
 tags:
   - cool posts
   - markdown

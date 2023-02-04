@@ -1,7 +1,7 @@
 ---
 title: '一图理解CMake工作流程'
 date: 2023-01-31
-permalink: /posts/2023/01/cmake-1-zkm/
+permalink: /posts/2023/0131/cmake-1-zkm/
 tags:
   - cmake
   - vs

@@ -1,7 +1,7 @@
 ---
 title: 'Markdwon转义字符语法'
 date: 2022-08-27
-permalink: /posts/2022/08/markdown-8-zkm/
+permalink: /posts/2022/0827/markdown-8-zkm/
 tags:
   - cool posts
   - markdown

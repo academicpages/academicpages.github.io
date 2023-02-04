@@ -1,7 +1,7 @@
 ---
 title: 'Markdown分割线语法'
 date: 2022-08-27
-permalink: /posts/2022/08/markdwon-7-zkm/
+permalink: /posts/2022/0827/markdwon-7-zkm/
 tags:
   - cool posts
   - markdown

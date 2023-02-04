@@ -1,7 +1,7 @@
 ---
 title: 'Matlab相机标定'
 date: 2023-02-03
-permalink: /posts/2023/02/blog-post-1-zkm/
+permalink: /posts/2023/0203/blog-post-1-zkm/
 tags:
   - Matlab标定相机
   - 标定板

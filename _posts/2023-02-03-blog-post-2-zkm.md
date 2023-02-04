@@ -1,7 +1,7 @@
 ---
 title: 'opencv调用matlab标定参数'
 date: 2023-02-03
-permalink: /posts/2023/02/blog-post-2-zkm/
+permalink: /posts/2023/0203/blog-post-2-zkm/
 tags:
   - 标定
   - Matlab标定相机
