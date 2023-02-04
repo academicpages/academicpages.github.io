@@ -9,9 +9,10 @@ tags:
   - 外参
 ---
 
-四大坐标系：像素坐标系、图像坐标系、相机坐标系和世界坐标系  
-从世界坐标系到像素坐标系（不考虑畸变）的转换关系：  
+**四大坐标系**：像素坐标系、图像坐标系、相机坐标系和世界坐标系  
 ![png](/images/posts/Coordinate-System.png)   
+
+从世界坐标系到像素坐标系（不考虑畸变）的转换关系：  
 ![png](/images/posts/Coordinate-System-juzheng.png)   
  
 相机内参
