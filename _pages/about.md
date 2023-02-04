@@ -95,7 +95,7 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 
 * <b>Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models</b>\
 *Ning Ding, Yujia Qin, Guang Yang, Fuchao Wei, Zonghan Yang, <b>Yusheng Su</b>, Shengding Hu, Yulin Chen, Chi-Min Chan, Weize Chen, Jing Yi, Weilin Zhao, Xiaozhi Wang, Zhiyuan Liu, Hai-Tao Zheng, Jianfei Chen, Yang Liu, Jie Tang, Juanzi Li, Maosong Sun.*\
-Accepted (in Principle) Nature Machine Intelligence 2023. [[pdf]](https://arxiv.org/abs/2203.06904) [[code]](https://github.com/thunlp/OpenDelta)
+Nature Machine Intelligence 2023. [[pdf]](https://arxiv.org/abs/2203.06904) [[code]](https://github.com/thunlp/OpenDelta)
 
 * <b>On Transferability of Prompt Tuning for Natural Language Processing</b>\
 *<b>Yusheng Su</b>, Xiaozhi Wang, Yujia Qin, Chi-Min Chan, Yankai Lin, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou*\
