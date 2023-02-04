@@ -93,14 +93,17 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 
 ## Publications
 
+* <b>Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models</b>\
+*Ning Ding, Yujia Qin, Guang Yang, Fuchao Wei, Zonghan Yang, <b>Yusheng Su</b>, Shengding Hu, Yulin Chen, Chi-Min Chan, Weize Chen, Jing Yi, Weilin Zhao, Xiaozhi Wang, Zhiyuan Liu, Hai-Tao Zheng, Jianfei Chen, Yang Liu, Jie Tang, Juanzi Li, Maosong Sun.*\
+Accepted (in Principle) Nature Machine Intelligence 2023. [[pdf]](https://arxiv.org/abs/2203.06904) [[code]](https://github.com/thunlp/OpenDelta)
+
 * <b>On Transferability of Prompt Tuning for Natural Language Processing</b>\
 *<b>Yusheng Su</b>, Xiaozhi Wang, Yujia Qin, Chi-Min Chan, Yankai Lin, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou*\
-NAACL 2022 <b>Oral</b>. [[pdf]](https://aclanthology.org/2022.naacl-main.290/) [[code]](https://github.com/thunlp/Prompt-Transferability) [[BibTex]](https://aclanthology.org/2022.naacl-main.290.bib) [[slide]](https://drive.google.com/file/d/1OSmU3s7DOv-Gux5JcjuY0w79MzRRJuiA/view?usp=sharing) [[video]](https://www.youtube.com/watch?v=KVgmtgMQ3ig)
-
+NAACL 2022 (<b>Oral</b>). [[pdf]](https://aclanthology.org/2022.naacl-main.290/) [[code]](https://github.com/thunlp/Prompt-Transferability) [[BibTex]](https://aclanthology.org/2022.naacl-main.290.bib) [[slide]](https://drive.google.com/file/d/1OSmU3s7DOv-Gux5JcjuY0w79MzRRJuiA/view?usp=sharing) [[video]](https://www.youtube.com/watch?v=KVgmtgMQ3ig)
 
 * <b>Knowledge Inheritance for Pre-trained Language Models</b>\
 *Yujia Qin, Yankai Lin, Jing Yi, Jiajie Zhang, Xu Han, Zhengyan Zhang, <b>Yusheng Su</b>, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou*\
-NAACL 2022 <b>Oral</b>. [[pdf]](https://aclanthology.org/2022.naacl-main.288/) [[code]](https://github.com/thunlp/Knowledge-Inheritance)
+NAACL 2022 (<b>Oral</b>). [[pdf]](https://aclanthology.org/2022.naacl-main.288/) [[code]](https://github.com/thunlp/Knowledge-Inheritance)
 
 * <b>Exploring Low-dimensional Intrinsic Task Subspace via Prompt Tuning</b>\
 *Yujia Qin, Xiaozhi Wang, <b>Yusheng Su</b>, Yankai Lin, Ning Ding, Zhiyuan Liu, Juanzi Li, Lei Hou, Peng Li, Maosong Sun, Jie Zhou*\
