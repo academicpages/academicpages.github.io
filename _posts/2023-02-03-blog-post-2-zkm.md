@@ -8,7 +8,7 @@ tags:
   - camera calibrate
 ---
 
-OpenCV中查看标定的结果，直接上代码。
+OpenCV中查看matlab标定的结果，直接上代码。
 
 ```C++
 #include "opencv2/opencv.hpp"
@@ -72,5 +72,7 @@ int main()
 ![png](/images/posts/calibration-image.png)   
 
 >为什么选2系数而不是3系数。因为。。。。。。。
-下面是三系数的修正结果，惨不忍睹啊。
+下面是三系数的修正结果，惨不忍睹啊。  
 ![png](/images/posts/calibration3-image.png)   
+
+>原文链接：https://blog.csdn.net/Loser__Wang/article/details/51811347
