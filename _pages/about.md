@@ -39,7 +39,7 @@ In general, I am very interested in __computational statistics__ and __machine l
 *   Poster at _[Statistics at Bristol: FRY](https://web-eur.cvent.com/event/a5a8878f-5ff8-457d-ad63-09fc66f9afd2/websitePage:645d57e4-75eb-4769-b2c0-f201a0bfc6ce?RefId=HIMR&rp=00000000-0000-0000-0000-000000000000)_, September 2021, UK. 
 *   Talk at _[International Conference on Monte Carlo Methods and Applications]()_ (Special Session on Stein's method), August 2021, German.
 *   Poster at _[International Conference on Artificial Intelligence and Statistics]()_, April 2021, USA.
-*   Talk at _[Data-Centric Engineering Seminars]()_ @ [The Alan Turing Institue]()_, March 2021, UK.
+*   Talk at _[Data-Centric Engineering Seminars]()_ @ [The Alan Turing Institue](), March 2021, UK.
 
 
 ## Selected Award
