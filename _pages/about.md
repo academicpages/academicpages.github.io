@@ -16,9 +16,7 @@ I am Yusheng Su, a fourth-year Ph.D. at the [THUNLP Lab](https://twitter.com/tsi
 
 <!--My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that has human-like cognitive capacities (e.g., understanding, reasoning, etc) and can generalize to various real-world applications efficiently. Toward this goal, my work spans across:-->
 
-My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that can <b>sufficiently learn</b> human-like cognitive capacities (e.g., understanding, reasoning, etc.), <b>efficiently adapt</b> to various tasks, and remain <b>reliable when deployed</b> in real applications.
-
-Toward this goal, my work spans across:
+My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that can <b>sufficiently learn</b> human-like cognitive capacities (e.g., understanding, reasoning, etc.), <b>efficiently adapt</b> to various tasks, and remain <b>reliable when deployed</b> in real applications. Toward this goal, my work spans across:
 
 * <b>General-purpose model.</b> Building pre-trained foundation models that can actively access to various data sources (e.g., knowledge bases, web pages, textual documents, etc) and acquire knowledge to improve the abilities of understanding, reasoning, etc. ([CokeBERT](https://arxiv.org/abs/2009.13964), [CSS-LM](https://arxiv.org/abs/2102.03752), [CPM](https://www.sciencedirect.com/science/article/pii/S266665102100019X))
 
@@ -82,6 +80,7 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 * [Feb. 2021] Got one paper accepted at WWW 2021. 
 * [Aug. 2020] Got one paper accepted at EMNLP 2020. 
 </font> -->
+* [Jan. 2023] [A survey of parameter-efficient methds](https://arxiv.org/abs/2203.06904) was accepted by [Natural Machine Intelligence](https://www.nature.com/natmachintell/).
 * [Sep. 2022] Invited Talk (on-line) @ [SAP - AI Research](https://www.sap.com/products/artificial-intelligence.html), Headquarter, Germany
 * [Jul. 2022] I will attend [NAACL 2022](https://2022.naacl.org/) in person to orally present our works and look forward to meeting new/old friends in Seattle.
 * [Apr. 2022] [Transferability of Prompt Tuning](https://aclanthology.org/2022.naacl-main.290/) and [Knowledge Inheritance](https://aclanthology.org/2022.naacl-main.288/) are accepted to [NAACL 2022](https://2022.naacl.org/).
@@ -127,7 +126,7 @@ EMNLP 2020 Findings, AI OPEN 2021. [[pdf]](https://arxiv.org/abs/2009.13964) [[p
 ## Under Review or Preprint Version <!-- Submitted for Publications-->
 
 * <b>Human Emotion Knowledge Representation Emerges in Large Language Model and Supports Discrete Emotion Inference</b>\
-*Ming Li<sup><big>*</big></sup>, <b>Yusheng Su</b><sup><big>*</big></sup>, Xiuyuan Huang, Jiali Chen, Huadong Wang, Yujia Qin, Xiaozhi Wang, Dan Zhang, Zhiyuan Liu, Maosong Sun.* ( <sup><big>*</big></sup> equal contribution)\
+*Ming Li<sup><big>*</big></sup>, <b>Yusheng Su</b><sup><big>*</big></sup>, Xiuyuan Huang, Jiali Chen, Huadong Wang, Yujia Qin, Xiaozhi Wang, Dan Zhang, Zhiyuan Liu, Maosong Sun.* ( &nbsp <sup><big>*</big></sup> equal contribution)\
 (Submitted to Nature Human Behaviour). [[pdf]](https://www.dropbox.com/s/xh212z6zywzhcx6/Natural_Emotion_knowledge_representation_in_large-scale_pre-trained_language_models_and_its_support_for_discrete_emotion_inference_new.pdf?dl=0) [[code]](https://github.com/thunlp/OpenNeuron) <small>(Refactoring - User friendly toolkit coming soon)</small>
 
 <!--
