@@ -24,7 +24,7 @@ Toward this goal, my work spans across:
 
 * <b>Computational efficiency method.</b> Developing theory, tools, and algorithms to efficiently adapt <b>large-scale</b> pre-trained foundation models to downstream tasks (e.g., prompt tuning methods, in-context learning, etc.). ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Delta Tuning](https://arxiv.org/abs/2203.06904))
 
-* <b>AI alignment.</b> Designing methods to understand the capacities of contemporary foundation models and regularize them to perform tasks in accordance with human's real intentions. ([[Model Emotion]](https://www.dropbox.com/s/xh212z6zywzhcx6/Natural_Emotion_knowledge_representation_in_large-scale_pre-trained_language_models_and_its_support_for_discrete_emotion_inference_new.pdf?dl=0))
+* <b>AI alignment.</b> Designing methods to understand the capacities of contemporary foundation models and regularize them to perform tasks in accordance with human's real intentions. ([Model Emotion](https://www.dropbox.com/s/xh212z6zywzhcx6/Natural_Emotion_knowledge_representation_in_large-scale_pre-trained_language_models_and_its_support_for_discrete_emotion_inference_new.pdf?dl=0))
 
 <!--
 My research spans the areas of natural language processing and machine learning. At the current stage, I am particularly interested in <b>large-scale pre-trained models (LLMs)</b>. My research aims to build more general LLMs and develop efficient paradigms for them to deploy in real-world applications.
