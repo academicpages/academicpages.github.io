@@ -16,7 +16,7 @@ I am Yusheng Su, a fourth-year Ph.D. at the [THUNLP Lab](https://twitter.com/tsi
 
 <!--My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that has human-like cognitive capacities (e.g., understanding, reasoning, etc) and can generalize to various real-world applications efficiently. Toward this goal, my work spans across:-->
 
-My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that can <b>sufficiently learn</b> human-like cognitive capacities (e.g., understanding, reasoning, etc), <b>efficiently adapt</b> to various task, and remain <b>reliable when deployed</b> in real applications.
+My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that can <b>sufficiently learn</b> human-like cognitive capacities (e.g., understanding, reasoning, etc.), <b>efficiently adapt</b> to various tasks, and remain <b>reliable when deployed</b> in real applications.
 
 Toward this goal, my work spans across:
 
