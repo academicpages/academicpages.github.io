@@ -128,7 +128,7 @@ EMNLP 2020 Findings, AI OPEN 2021. [[pdf]](https://arxiv.org/abs/2009.13964) [[p
 
 * <b>Human Emotion Knowledge Representation Emerges in Large Language Model and Supports Discrete Emotion Inference</b>\
 *Ming Li<sup><big>*</big></sup>, <b>Yusheng Su</b><sup><big>*</big></sup>, Xiuyuan Huang, Jiali Chen, Huadong Wang, Yujia Qin, Xiaozhi Wang, Dan Zhang, Zhiyuan Liu, Maosong Sun.*\ (<sup><big>*</big></sup>equal contribution)
-(Submitted to Nature Human Behaviour). [[pdf]](https://www.dropbox.com/s/xh212z6zywzhcx6/Natural_Emotion_knowledge_representation_in_large-scale_pre-trained_language_models_and_its_support_for_discrete_emotion_inference_new.pdf?dl=0) [[code]](https://github.com/thunlp/OpenNeuron)(Refactoring - User friendly toolkit coming soon)
+(Submitted to Nature Human Behaviour). [[pdf]](https://www.dropbox.com/s/xh212z6zywzhcx6/Natural_Emotion_knowledge_representation_in_large-scale_pre-trained_language_models_and_its_support_for_discrete_emotion_inference_new.pdf?dl=0) [[code]](https://github.com/thunlp/OpenNeuron) <tiny>(Refactoring - User friendly toolkit coming soon)</tiny>
 
 <!--
 ## Teaching
