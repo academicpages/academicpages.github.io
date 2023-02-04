@@ -126,9 +126,9 @@ EMNLP 2020 Findings, AI OPEN 2021. [[pdf]](https://arxiv.org/abs/2009.13964) [[p
 
 ## Under Review or Preprint Version <!-- Submitted for Publications-->
 
-* <b>Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models</b>\
-*Ning Ding, Yujia Qin, Guang Yang, Fuchao Wei, Zonghan Yang, <b>Yusheng Su</b>, Shengding Hu, Yulin Chen, Chi-Min Chan, Weize Chen, Jing Yi, Weilin Zhao, Xiaozhi Wang, Zhiyuan Liu, Hai-Tao Zheng, Jianfei Chen, Yang Liu, Jie Tang, Juanzi Li, Maosong Sun.*\
-Accepted (in Principle) Nature Machine Intelligence 2023. [[pdf]](https://arxiv.org/abs/2203.06904)
+* <b>Human Emotion Knowledge Representation Emerges in Large Language Model and Supports Discrete Emotion Inference</b>\
+*Ming Li<sup>*</sup>, <b>Yusheng Su</b><sup>*</sup>, Xiuyuan Huang, Jiali Chen, Huadong Wang, Yujia Qin, Xiaozhi Wang, Dan Zhang, Zhiyuan\\Liu, Maosong Sun.*\
+(Submitted to Nature Human Behaviour). [[pdf]](https://www.dropbox.com/s/xh212z6zywzhcx6/Natural_Emotion_knowledge_representation_in_large-scale_pre-trained_language_models_and_its_support_for_discrete_emotion_inference_new.pdf?dl=0) [[code]](https://github.com/thunlp/OpenNeuron)(Refactoring - User friendly toolkit coming soon)
 
 <!--
 ## Teaching
