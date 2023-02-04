@@ -33,13 +33,13 @@ In general, I am very interested in __computational statistics__ and __machine l
 
 
 ## Talk/Presentation
-*   Talk at topic-contributed sessions of _[Joint Statistical Meetings](https://ww2.amstat.org/meetings/jsm/2022/)_, August 2022, USA.
-*   Talk at _[SIAM Conference on Uncertainty Quantification](https://siam.org/conferences/cm/conference/uq22)_, April 2022, USA.
-*   Poster at _[AI UK 2022](https://www.turing.ac.uk/ai-uk)_, March 2022, UK.
+*   Talk at topic-contributed sessions of _[Joint Statistical Meetings]_, August 2022, USA.
+*   Talk at _[SIAM Conference on Uncertainty Quantification]_, April 2022, USA.
+*   Poster at _[AI UK 2022]_, March 2022, UK.
 *   Poster at _[Statistics at Bristol: FRY](https://web-eur.cvent.com/event/a5a8878f-5ff8-457d-ad63-09fc66f9afd2/websitePage:645d57e4-75eb-4769-b2c0-f201a0bfc6ce?RefId=HIMR&rp=00000000-0000-0000-0000-000000000000)_, September 2021, UK. 
-*   Talk at _[International Conference on Monte Carlo Methods and Applications](https://www.uni-mannheim.de/mcm-2021/)_ (Special Session on Stein's method), August 2021, German.
-*   Poster at _[International Conference on Artificial Intelligence and Statistics](https://aistats.org/aistats2021/)_, April 2021, USA.
-*   Talk at _[Data-Centric Engineering Seminars](https://sites.google.com/view/dce-reading-group/home) @ [The Alan Turing Institue](https://www.turing.ac.uk)_, March 2021, UK.
+*   Talk at _[International Conference on Monte Carlo Methods and Applications]_ (Special Session on Stein's method), August 2021, German.
+*   Poster at _[International Conference on Artificial Intelligence and Statistics]_, April 2021, USA.
+*   Talk at _[Data-Centric Engineering Seminars] @ [The Alan Turing Institue]_, March 2021, UK.
 
 
 ## Selected Award
