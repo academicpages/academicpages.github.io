@@ -1,3 +1,5 @@
+[![build](https://github.com/JacobCoffee/scriptr.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/JacobCoffee/scriptr.github.io/actions/workflows/pages/pages-build-deployment)
+
 # Script.dev - My personal website repository
 
 ### Built via Github Pages
