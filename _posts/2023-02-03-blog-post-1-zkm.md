@@ -50,5 +50,5 @@ figure, imshow(J);
 TangentialDistortion对应p1，p2。
 IntrinsicMatrix对应内参，注意这个和OpenCV中是转置的关系，注意不要搞错。
 ![png](/images/posts/para-matlab.png)  
-对应
+对应  
 ![png](/images/posts/para-opencv.png)  
