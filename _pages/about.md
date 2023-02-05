@@ -471,7 +471,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
    <ul>
     <li><b>Qualcomm Innovation Fellowship 2022</b> for our proposal on "Robust Machine Learning in IoT Devices". <em>One of the 19 winners among 132 participants across North America</em>. [<a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">News</a>]</li>
   
-   <li>Recipient of Travel Award: <b>AAAI 2023, KDD 2022</b>
+   <li>Recipient of Travel Award: <b>AAAI 2023, KDD 2022</b></li>
 		   
    <li><b>Halıcıoglu Data Science Institute Graduate Fellowship 2019</b> to fund investigations in data science, in recognition of my research accomplishments. <em>One of the 10 winners among 3906 applicants</em>. [<a href="https://hdsi-web.sdsc.edu/2019/07/" target="_blank">News</a>]</li>
 	   
