@@ -20,7 +20,7 @@ My research spans the areas of natural language processing and machine learning.
 
 * <b>General-purpose model.</b> Building pre-trained foundation models that can actively access to various data sources (e.g., knowledge bases, web pages, textual documents, etc) and acquire knowledge to improve the abilities of understanding, reasoning, etc. ([CokeBERT](https://arxiv.org/abs/2009.13964), [CSS-LM](https://arxiv.org/abs/2102.03752), [CPM](https://www.sciencedirect.com/science/article/pii/S266665102100019X))
 
-* <b>Computational efficiency method.</b> Developing theory, tools, and algorithms to efficiently manipulate large-scale pre-trained foundation models toward downstream tasks (e.g., prompt tuning methods, in-context learning, etc.). ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Delta Tuning](https://arxiv.org/abs/2203.06904))
+* <b>Computational efficiency method.</b> Developing theory, tools, and algorithms to efficiently manipulate large-scale pre-trained foundation models toward downstream tasks (e.g., prompt tuning methods, in-context learning, etc.). ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Delta Tuning Survey](https://arxiv.org/abs/2203.06904))
 
 * <b>AI alignment.</b> Designing methods to understand the emerging human-like capacities of contemporary foundation models and ensure the models perform tasks in accordance with human's real intentions. ([Model Emotion](https://www.dropbox.com/s/xh212z6zywzhcx6/Natural_Emotion_knowledge_representation_in_large-scale_pre-trained_language_models_and_its_support_for_discrete_emotion_inference_new.pdf?dl=0))
 
