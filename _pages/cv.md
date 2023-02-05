@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<embed src="https://jxliao6.github.io/files/Jingxian Liao CV 01_2023.pdf" type="application/pdf" width="600px" height="500px" />
+<!-- Education
 ======
 
 * Ph.D in Computer Science with HCI, University of California, Davis (Sep 2018 - )
@@ -75,3 +76,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+ -->
