@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=-MHJUbwAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "{{ site.baseurl }}/files/Jingxian Liao CV 01_2023.pdf"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jingxian-liao/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2474-4851"
   pinterest        :
   soundcloud       :
