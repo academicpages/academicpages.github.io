@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Resume, CV, and Coursework"
+title: "CV and Coursework"
 permalink: /cv/
 author_profile: true
 ---
-## [My resume (1 page)](../files/resume.pdf)
-
-## [Full CV](../files/cv_full.pdf)
+## [My CV](../files/cv_public.pdf)
 
 ## Relevant Coursework Completed
 
