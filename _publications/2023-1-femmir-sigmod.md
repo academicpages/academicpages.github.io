@@ -14,7 +14,7 @@ pdf: '/files/publications/sigmod-femmir-2023.pdf'
 
 # link: 'http://dx.doi.org/10.13140/RG.2.2.14853.63204'
 
-version1link: 'https://www.techrxiv.org/articles/preprint/Feature_Centric_Multi-modal_Information_Retrieval_in_Open_World_Environment_FemmIR_/21990284'
+versionlink: 'https://www.techrxiv.org/articles/preprint/Feature_Centric_Multi-modal_Information_Retrieval_in_Open_World_Environment_FemmIR_/21990284'
 
 # code: 'https://doi.org/10.7910/DVN/BEKPWV'
 

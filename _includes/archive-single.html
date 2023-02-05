@@ -76,6 +76,11 @@
             [<a href="{{ post.pdf }}">PDF</a>]
           {% endif %}
 
+          {% if post.versionlink %}
+            <!-- <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> -->
+            [<a href="{{ post.versionlink }}">Previous Version</a>]
+          {% endif %}
+
           <!-- Code and Github is same thing, will fix later if adding on any paper -->
           {% if post.code %}
             <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
