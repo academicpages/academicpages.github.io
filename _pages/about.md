@@ -7,8 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+```{r df-drop-ok, class.source="bg-success"}
 
 *01/23*: I'm in the job market for industry positions, such as Applied scientist, Data scientist, User experience researcher, etc. I design and build systems that facilitate the consumption of online educational resources for general users and support human-AI interactions for end-users. Please reach out if you know of any opportunities!
+
+```
 
 I am a PhD candidate in Computer Science at University of California, Davis, working with Professor [Hao-Chuan Wang](http://www.haochuanwang.info/). My research area is Human-Computer Interaction (HCI) and Data Science (DS), with a focus on social collaboration, including peer production, peer support, collaborative consumption, online informal learning, and social computing. My studies use social interaction mechanisms and human-centered AI approaches to understand and facilitate general online users to forage, evaluate, and apply knowledge online individually and in group.
 
