@@ -122,7 +122,6 @@ EMNLP 2020 Findings, AI OPEN 2021. [[pdf]](https://arxiv.org/abs/2009.13964) [[p
 
 
 
-
 ## Under Review or Preprint Version <!-- Submitted for Publications-->
 
 * <b>Human Emotion Knowledge Representation Emerges in Large Language Model and Supports Discrete Emotion Inference</b>\
@@ -168,3 +167,9 @@ Reviewer (Since 2021): ACL, NAACL, AACL, ACL Roling, EMNLP, COLING, ICLR, ICML, 
 ### Microsoft. (Taiwan) 07.2015 - 07.2016
 * Research and Development Intern
 * Advised by [Kuang-Chao Yeh](https://www.linkedin.com/in/kuang-chao-yeh/) and [Gordon Chang](https://www.linkedin.com/in/gordonwinnow).
+
+## Pre-doctoral Student Mentoring
+* [Chi-Min Chan](https://scholar.google.com/citations?user=5U4P54wAAAAJ&oi=ao): Tsinghua University (BS->) [Topic: Computational Efficiency Method]
+* Jiali Cheng: University of North Carolina (MS->PhD) [Topic: Computational Efficiency Method]
+* Yu Xia: Peking University (MS->) [Topic: AI alignment]
+* Xiuyuan Huang: University of Science and Technology Beijing (BS->) [Topic: AI alignment]
