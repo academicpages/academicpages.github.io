@@ -5,6 +5,12 @@ title: "Pictures"
 
 ## Here are some random photos of travels, goings on, and cats:
 
+Amanda, my wife!:
+![](/images/wife.jpg)
+
+Return to the Sandbar 2023:
+![](/images/sandbar2.jpg)
+
 Kikko staying warm 2022:
 ![](/images/catfire.jpg)
 
