@@ -23,7 +23,7 @@ References:
 
 [1] Husch, T., **Sun, J.**, Cheng, L., Lee, S. J., & Miller III, T. F. (2021). Improved accuracy and transferability of molecular-orbital-based machine learning: Organics, transition-metal complexes, non-covalent interactions, and transition states. _The Journal of Chemical Physics_, 154, 064108.
 
-[2] **Sun, J.**, Cheng, L., & Miller III, T. F. (2021). Molecular Energy Learning Using Alternative Blackbox Matrix-Matrix Multiplication Algorithm for Exact Gaussian Process. arXiv preprint arXiv:2109.09817.
+[2] **Sun, J.**, Cheng, L., & Miller III, T. F. (2021). Molecular Energy Learning Using Alternative Blackbox Matrix-Matrix Multiplication Algorithm for Exact Gaussian Process. _NeurIPS 2021 AI for Science Workshop_.
 
 [3] Cheng, L., **Sun, J.** & Miller III, T.F. (2022). Accurate Molecular-Orbital-Based Machine Learning Energies via Unsupervised Clustering of Chemical Space. _Journal of Chemical Theory and Computation_, 18, 8, 4826–4835.
 
@@ -61,7 +61,7 @@ References:
 
 [1] Cheng, P. S., **Sun, J.**, Sun, S. N., Choi, A. Y., & Minnich, A. J. (2022). High-field transport and hot electron noise in GaAs from first principles: role of two-phonon scattering. _Physical Review B_, 106, 245201.
 
-[2] (Will be on arxiv soon) **Sun, J.**, Minnich, A. J. (2022). Transport and noise of of hot electrons in GaAs using an ab-initio-based analytical model of two-phonon polar optical phonon scattering. 
+[2] **Sun, J.**, Minnich, A. J. (2023). Transport and noise of of hot electrons in GaAs using an ab-initio-based analytical model of two-phonon polar optical phonon scattering. _arXiv_ 2302.01480.
 
 <h3> Quantum simulation </h3>
 
@@ -72,4 +72,4 @@ _TensorCircuit_ is built on top of modern machine learning frameworks and is mac
 
 References:
 
-[1] Zhang, S.X., Allcock, J., Wan, Z.Q., Liu, S., **Sun, J.**, Yu, H., Yang, X.H., Qiu, J., Ye, Z., Chen, Y.Q. and Lee, C.K. (2022). TensorCircuit: a Quantum Software Framework for the NISQ Era. Accepted by _Quantum_.
+[1] Zhang, S.X., Allcock, J., Wan, Z.Q., Liu, S., **Sun, J.**, Yu, H., Yang, X.H., Qiu, J., Ye, Z., Chen, Y.Q. and Lee, C.K. (2022). TensorCircuit: a Quantum Software Framework for the NISQ Era. _Quantum_, 7, 912.
