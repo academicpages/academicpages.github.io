@@ -61,7 +61,7 @@ References:
 
 [1] Cheng, P. S., **Sun, J.**, Sun, S. N., Choi, A. Y., & Minnich, A. J. (2022). High-field transport and hot electron noise in GaAs from first principles: role of two-phonon scattering. _Physical Review B_, 106, 245201.
 
-[2] **Sun, J.**, Minnich, A. J. (2023). Transport and noise of of hot electrons in GaAs using an ab-initio-based analytical model of two-phonon polar optical phonon scattering. _arXiv_ 2302.01480.
+[2] **Sun, J.**, Minnich, A. J. (2023). Transport and noise of hot electrons in GaAs using a semi-analytical model of two-phonon polar optical phonon scattering.. _arXiv_ 2302.01480.
 
 <h3> Quantum simulation </h3>
 
