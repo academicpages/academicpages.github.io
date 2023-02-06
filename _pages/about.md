@@ -129,7 +129,7 @@ EMNLP 2020 Findings, AI OPEN 2021. [[pdf]](https://arxiv.org/abs/2009.13964) [[p
 (Submitted to Nature Human Behaviour). [[pdf]](https://www.dropbox.com/s/ewoeg93q2xurgjf/Natural_Emotion_knowledge_representation_in_large-scale_pre-trained_language_models_and_its_support_for_discrete_emotion_inference_new_2023_02_05.pdf?dl=0) [[code]](https://github.com/thunlp/OpenNeuron) <small>(Refactoring - User friendly toolkit coming soon)</small>
 
 * <b>Removing Backdoors in Pre-trained Models by Regularized Continual Pre-training</b>\
-*Biru Zhu, Ganqu Cui, Yangyi Chen, Yujia Qin, Yusheng Su, Lifan Yuan, Chong Fu, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu.*\
+*Biru Zhu, Ganqu Cui, Yangyi Chen, Yujia Qin, <b>Yusheng Su</b>, Lifan Yuan, Chong Fu, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu.*\
 (Submitted to TACL). [[pdf]](https://www.dropbox.com/s/0yuudhokyyomkup/Removing_Backdoors_in_Pre-trained_Models_by_Regularized_Continual_Pretraining.pdf?dl=0) 
 
 
