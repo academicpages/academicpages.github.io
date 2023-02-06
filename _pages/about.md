@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a first-year Ph.D. student in [Computer Science](https://www.polyu.edu.hk/comp/) at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/), where I'm advised by [Dr. Wenqi Fan](https://wenqifan03.github.io/) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). Currently, I'm working on GNNs as well as their applications in Drug Discovery.
+Hi! I am a first-year Ph.D. student in [department of computing](https://www.polyu.edu.hk/comp/)(COMP) at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/)(PolyU), where I'm advised by [Dr. Wenqi Fan](https://wenqifan03.github.io/) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). Currently, I'm working on GNNs as well as their applications in Drug Discovery.
 
 Education
 ======
@@ -50,3 +50,14 @@ For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
  -->
+ 
+ 
+Publication
+------
++ [**Late-Stage Photoredox \(C–H\) Amidation of \(N\)-Unprotected Indole Derivatives: Access to \(N\)-(Indol-2-yl)amides**](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609)
+ <br>Yue Weng, Bo Ding, \textbf{Yunqing Liu}, Chunlan Song, Lo-Ying Chan, and Chien-Wei Chiang*
+ <br>_Organic Letters_, **2021**, _23_(7), 2710-2714, [DOI: 10.1021/acs.orglett.1c00609](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609)
+ 
++ [**Selective Photoredox Trifluoromethylation of Tryptophan-Containing Peptides**](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572)
+<br>Bo Ding, Yue Weng, **Yunqing Liu**, Chunlan Song, Le Yin, Jiafan Yuan, Yanrui Ren, Aiwen Lei*, Chien-Wei Chiang*
+<br>_European Journal of Organic Chemistry_, **2019**, _46_(12), 7596-7605, [DIO:10.1002/ejoc.201901572](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572)
