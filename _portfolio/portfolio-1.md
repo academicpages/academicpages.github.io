@@ -1,4 +1,2 @@
----
-title: "Writing sample 1"
-collection: portfolio
----
+layout: forward
+target: https://pmirza.com/files/memo.pdf
