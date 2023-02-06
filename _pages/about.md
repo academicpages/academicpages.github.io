@@ -17,7 +17,7 @@ Education
 + BEng, Computer Science and Technology, Wuhan University, 2016.09 - 2020.06, <br>Advisor: Dr. Huajun Liu
 + BSc, Chemistry, Wuhan University, 2016.09 - 2020.06,  <br>Advisor: Dr. Chien-Wei Chiang, Prof. Aiwen Lei
 
-Getting started
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
@@ -49,3 +49,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ -->
