@@ -11,3 +11,7 @@ author_profile: true
 
 [Writing Sample 3](3.pdf)
 
+[Writing Sample 4](4.pdf)
+
+[Writing Sample 5](5.pdf)
+
