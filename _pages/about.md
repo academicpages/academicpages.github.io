@@ -55,7 +55,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
 Publication
 ------
 + [**Late-Stage Photoredox C–H Amidation of N-Unprotected Indole Derivatives: Access to N-(Indol-2-yl)amides**](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609)
- <br>Yue Weng, Bo Ding, \textbf{Yunqing Liu}, Chunlan Song, Lo-Ying Chan, and Chien-Wei Chiang*
+ <br>Yue Weng, Bo Ding, **Yunqing Liu**, Chunlan Song, Lo-Ying Chan, and Chien-Wei Chiang*
  <br>_Organic Letters_, **2021**, _23_(7), 2710-2714, [DOI: 10.1021/acs.orglett.1c00609](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609)
  
 + [**Selective Photoredox Trifluoromethylation of Tryptophan-Containing Peptides**](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572)
