@@ -25,43 +25,23 @@ Work experience
 
 * AmeriCorps – California Superior Court:
   * JusticeCorps Legal Assistant (05/2018-07/2019 – San Diego, CA)
-        Aided individuals coming to court without an attorney who were trying to resolve crucial legal matters
-affecting their family, housing, personal safety, and financial stability.
+        Aided individuals coming to court without an attorney who were trying to resolve crucial legal matters affecting their family, housing, personal safety, and financial stability.
         Educated litigants on their legal options and potential outcomes by providing impartial assistance.
-        Spent, on average, forty-five minutes to one hour working with each litigant to record testimony, correct
-filing errors, make clear the judicial process, answer any questions, etc.
-         Shadowed a California Superior Court judge daily, which included reviewing case documents prior to
-hearings, observing courtroom proceedings, one-on-one mentorship, and general legal assistance.
-        Assisted court staff with regular office duties such as answering phone calls, making copies, as well as
-filing and running completed paperwork to judges.
+        Spent, on average, forty-five minutes to one hour working with each litigant to record testimony, correct filing errors, make clear the judicial process, answer any questions, etc.
+         Shadowed a California Superior Court judge daily, which included reviewing case documents prior to hearings, observing courtroom proceedings, one-on-one mentorship, and general legal assistance.
+        Assisted court staff with regular office duties such as answering phone calls, making copies, as well as filing and running completed paperwork to judges.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Bilingual in English and Armenian
+* Certification in Advanced Legal Research (Thomson Reuters – 09/2021)
+* Legal assistant/clerk experience
+  
+Awards and Affiliations
+======
+* UCSD Provost Honors (Eight-time recipient) 
+* The Federalist Society member
+* Sigma Nu Fraternity (Administrative Relations Chairman) alumni
+* Homenetmen Glendale Ararat Chapter volunteer – Basketball Coach
+  
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
