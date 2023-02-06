@@ -169,7 +169,7 @@ Reviewer (Since 2021): ACL, NAACL, AACL, ACL Roling, EMNLP, COLING, ICLR, ICML, 
 * Advised by [Kuang-Chao Yeh](https://www.linkedin.com/in/kuang-chao-yeh/) and [Gordon Chang](https://www.linkedin.com/in/gordonwinnow).
 
 ## Pre-doctoral Student Mentoring
-* (Since 2021-) [Chi-Min Chan](https://scholar.google.com/citations?user=5U4P54wAAAAJ&oi=ao): Tsinghua University (BS->) [Topic: Computational Efficiency Method]
-* (Since 2022-) Jiali Cheng: University of North Carolina (MS->PhD) [Topic: Computational Efficiency Method]
-* (Since 2022-) Yu Xia: Peking University (MS->) [Topic: AI alignment]
-* (Since 2022-) Xiuyuan Huang: University of Science and Technology Beijing (BS->) [Topic: AI alignment]
+* (Since 2021-) [Chi-Min Chan](https://scholar.google.com/citations?user=5U4P54wAAAAJ&oi=ao): Tsinghua University (BS->) <!--[Topic: Computational Efficiency Method]-->
+* (Since 2022-) Jiali Cheng: University of North Carolina (MS->PhD)  <!--[Topic: Computational Efficiency Method]-->
+* (Since 2022-) Yu Xia: Peking University (MS->)  <!--[Topic: AI alignment]-->
+* (Since 2022-) Xiuyuan Huang: University of Science and Technology Beijing (BS->) <!--[Topic: AI alignment]-->
