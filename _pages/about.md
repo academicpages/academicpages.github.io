@@ -13,13 +13,13 @@ This is the front page of a website that is powered by the [academicpages templa
 Education
 ======
 + Ph.D student, Computing, Hong Kong Polytechnic University, 2023.01 - Now, 
-  Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/)
+  \ Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/)
 + MSc, Computer Science, University of Edinburgh, Edinbrugh, 2021.09 - 2022.11, 
-  Advisor: [Dr. Elizabeth Polgreen](https://polgreen.github.io/)
-+ BEng, Computer Science and Technology, Wuhan University, 2016.09 - 2020.06,
-  Advisor: Dr. Huajun Liu
+  \ Advisor: [Dr. Elizabeth Polgreen](https://polgreen.github.io/)
++ BEng, Computer Science and Technology, Wuhan University, 2016.09 - 2020.06,  
+  \ Advisor: Dr. Huajun Liu
 + BSc, Chemistry, Wuhan University, 2016.09 - 2020.06, 
-  Advisor: Dr. Chien-Wei Chiang, Prof. Aiwen Lei
+  \ Advisor: Dr. Chien-Wei Chiang, Prof. Aiwen Lei
 
 Getting started
 ======
