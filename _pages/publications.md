@@ -48,4 +48,5 @@ Preprints and Publications Under Review
 * Anton V. Proskurnikov, <b>Alexander Davydov</b>, and Francesco Bullo. “The Yakubovich S-Lemma Revisited: Stability and Contractivity in Non-Euclidean Norms,” <i>SIAM Journal on Control and Optimization</i>, July 2022. [[URL](https://arxiv.org/abs/2207.14579)] <b>Submitted</b>
 
 
+
 <sup>*</sup> -- These authors contributed equally
