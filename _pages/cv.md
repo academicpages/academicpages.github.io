@@ -25,7 +25,7 @@ redirect_from:
 {% endfor %}</ul>
 
 ## Reviewing
-* Reviewer for [AISTATS 2023](http://www.aistats.org/aistats2023/)
+* [AISTATS 2023](http://www.aistats.org/aistats2023/) (top reviewer)
 
 ## Work experience
 * Research Assistant, Fraunhofer Institute for Integrated Circuits IIS (Munich, Germany), 2019 - 2021
