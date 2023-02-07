@@ -4,7 +4,7 @@ collection: teaching
 type: "Curso de Agronomia"
 permalink: /teaching/matbas
 venue: "DCET, UESB"
-date: 2022-07-11
+date: 2023-02-07
 location: "Vitória da Conquista-Ba, Brasil"
 ---
 
