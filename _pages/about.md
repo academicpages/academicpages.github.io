@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yusheng Su, a fourth-year Ph.D. at the [THUNLP Lab](https://twitter.com/tsinghuanlp), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am advised by Prof. [Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW). I'm on the job market. [[Google Schlar]](https://scholar.google.com/citations?user=xwy6Va4AAAAJ) [[CV]](https://www.dropbox.com/s/svc6y9xwremjtts/Yusheng_Su_Resume_2023_2_6.pdf?dl=0)
+I am Yusheng Su, a fourth-year Ph.D. at the [THUNLP Lab](https://twitter.com/tsinghuanlp), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am advised by Prof. [Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW). I'm on the job market. [[Google Schlar]](https://scholar.google.com/citations?user=xwy6Va4AAAAJ) [[CV]](https://www.dropbox.com/s/t5r9smtc07y0dw6/Yusheng_Su_Resume_2023_2_7.pdf?dl=0)
 
 ## Research
 <!--My research interests are in the theory and practice of building machine learning systems that remain reliable when deployed in real application contexts. For example:-->
@@ -62,7 +62,7 @@ My research spans the areas of natural language processing and machine learning.
 <!--You can find my CV [here](/cv/).-->
 
 ## On The Job Market
-I'm on the job market, looking for Post-doc and industrial research positions, starting in 2023 Autumn. [[Google Schlar]](https://scholar.google.com/citations?user=xwy6Va4AAAAJ) [[CV]](https://www.dropbox.com/s/svc6y9xwremjtts/Yusheng_Su_Resume_2023_2_6.pdf?dl=0)
+I'm on the job market, looking for Post-doc and industrial research positions, starting in 2023 Autumn. [[Google Schlar]](https://scholar.google.com/citations?user=xwy6Va4AAAAJ) [[CV]](https://www.dropbox.com/s/t5r9smtc07y0dw6/Yusheng_Su_Resume_2023_2_7.pdf?dl=0)
 <!-- (in North America) -->
 
 <!-- ## Coming Soon
