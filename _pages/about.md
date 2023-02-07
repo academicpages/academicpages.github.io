@@ -16,7 +16,7 @@ Research Interest
 + Graph Neural Networks (GNNs)
 + Natural Language Processing (NLP) 
  
-Publication
+Publications
 ======
 + [**Generative Diffusion Models on Graphs: Methods and Applications**](https://arxiv.org/abs/2302.02591)
   <br> Wenqi Fan, Chengyi Liu, **Yunqing Liu**, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li
