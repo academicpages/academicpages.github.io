@@ -66,7 +66,7 @@ Publication
   <br> _arXiv_, [arXiv:2302.02591](https://arxiv.org/abs/2302.02591)
 + **Improving User Controlled Table-To-Text Generation Robustness**
   <br> Hanxu Hu, **Yunqing Liu**, Zhongyi Yu and Laura Perez-Beltrachini
-  <br> _EACL_ 2023 (Findings)
+  <br> _EACL_ **2023** (Findings)
 + [**Late-Stage Photoredox C–H Amidation of N-Unprotected Indole Derivatives: Access to N-(Indol-2-yl)amides**](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609)
  <br>Yue Weng, Bo Ding, **Yunqing Liu**, Chunlan Song, Lo-Ying Chan, and Chien-Wei Chiang*
  <br>_Organic Letters_, **2021**, _23_(7), 2710-2714, [DOI: 10.1021/acs.orglett.1c00609](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609)
