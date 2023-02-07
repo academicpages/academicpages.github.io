@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /awards
 ---
-
+![](/images/polyu_logo.jpg)
 + [PolyU Research Postgraduate Scholarship (PRPgS)](https://www.polyu.edu.hk/comp/study/research-postgraduate-programme/phd-and-mphil-in-computing/), 2023
 + IBM Third Prize for the Best Project in Machine Learning Practical (Third place out of 53 teams)，2022.06
 + Excellent graduate, 2020.06
