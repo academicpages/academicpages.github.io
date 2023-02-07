@@ -16,18 +16,7 @@ Research Interest
 + Graph Neural Networks (GNNs)
 + Natural Language Processing (NLP)
 
-Education
-======
 
-
-
-+ <img decoding="async" src="/images/polyu_logo.png" width="5%"> Ph.D student, Computing, Hong Kong Polytechnic University, 2023.01 - Now, <br>Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/), [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
-  
-
-+ <img decoding="async" src="/images/uoe_log.png" width="5%">  MSc, Computer Science, University of Edinburgh, 2021.09 - 2022.11, <br>Advisor: [Dr. Elizabeth Polgreen](https://polgreen.github.io/)
-
-+ <img decoding="async" src="/images/whu_logo.png" width="5%"> BEng, Computer Science and Technology, Wuhan University, 2016.09 - 2020.06, <br>Advisor: Dr. Huajun Liu
-+ <img decoding="async" src="/images/whu_logo.png" width="5%"> BSc, Chemistry, Wuhan University, 2016.09 - 2020.06, <br>Advisor: Dr. Chien-Wei Chiang, Prof. Aiwen Lei
 
 <!-- Getting started
 ======
@@ -79,6 +68,19 @@ Publication
 + [**Selective Photoredox Trifluoromethylation of Tryptophan-Containing Peptides**](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572)
 <br>Bo Ding, Yue Weng, **Yunqing Liu**, Chunlan Song, Le Yin, Jiafan Yuan, Yanrui Ren, Aiwen Lei*, Chien-Wei Chiang*
 <br>_European Journal of Organic Chemistry_, **2019**, _46_(12), 7596-7605, [DIO:10.1002/ejoc.201901572](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572)
+
+Education
+======
+
+
+
++ <img decoding="async" src="/images/polyu_logo.png" width="5%"> Ph.D student, Computing, Hong Kong Polytechnic University, 2023.01 - Now, <br>Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/), [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
+  
+
++ <img decoding="async" src="/images/uoe_log.png" width="5%">  MSc, Computer Science, University of Edinburgh, 2021.09 - 2022.11, <br>Advisor: [Dr. Elizabeth Polgreen](https://polgreen.github.io/)
+
++ <img decoding="async" src="/images/whu_logo.png" width="5%"> BEng, Computer Science and Technology, Wuhan University, 2016.09 - 2020.06, <br>Advisor: Dr. Huajun Liu
++ <img decoding="async" src="/images/whu_logo.png" width="5%"> BSc, Chemistry, Wuhan University, 2016.09 - 2020.06, <br>Advisor: Dr. Chien-Wei Chiang, Prof. Aiwen Lei
 
 
 Working Experience
