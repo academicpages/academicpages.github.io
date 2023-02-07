@@ -22,8 +22,13 @@ Bibliografia
 ======
 1. Boldrini, J. L., Costa, S. I. R, Figueiredo, V. L., Wetzler, H. G., Álgebra Linear, 3a Edição, Editora Harbra, 1986.
 1. Santos, N. M dos, Vetores e Matrizes, Elementos de Matemática, IMPA, 1972.
+1. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Conjuntos e Funções, Vol 1. Editora Atual, 1995.
 1. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Logaritmos, Vol 2. Editora Atual, 1995.
-1. Iezzi, G., Fundamentos de Matemática Elementar: Logaritmos, Vol 3. Editora Atual, 1977.
+1. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Trigonometria, Vol 3. Editora Atual, 1995.
+1. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Sequências, Matrizes, Determinantes e Sistemas Lineares. Vol 4. Editora Atual, 1995.
+1. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Geometria Analítica, Vol 7. Editora Atual, 1995.
+1. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Geometria Plana, Vol 9. Editora Atual, 1995.
+
 
 Plano de Curso
 ======
