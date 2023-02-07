@@ -21,7 +21,7 @@ In general, I am very interested in __computational statistics__ and __machine l
 ## Academic Activities
    * PhD researcher at The Alan Turing Institute 2021-2022.
    *  Organiser of 2022 [Statistics in Data-Centric Engineering (S-DCE)]() Seminars at The Alan Turing Institute.
-   *  Program Committee Member/Reviewer: NeurIPS, AISTATS, UAI.
+
 
 
 
