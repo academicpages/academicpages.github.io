@@ -87,4 +87,4 @@ Working Experience
  
  Contact with me
  ------
- Welcome to contact with me via email [yunqing617.liu@connect.polyu.hk](yunqing617.liu@connect.polyu.hk)
+ Welcome to contact with me via email yunqing617.liu@connect.polyu.hk
