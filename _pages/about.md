@@ -17,5 +17,7 @@ I possess a strong skill set in materials science, statistics, machine learning 
 Research Interests
 ------
 * Synchrotron x-ray imaging of laser-matter characterization for failure analysis and quality control
-* Automation and machine learning for image analysis
 * Applied deep learning and data science
+* Automation and machine learning for image analysis
+* Self-supervised learning in computer vision
+
