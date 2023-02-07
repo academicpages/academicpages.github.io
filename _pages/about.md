@@ -19,9 +19,9 @@ Research Interest
 Education
 ======
 
-<img decoding="async" src="/images/polyu_logo.png" width="10%">
 
-+ Ph.D student, Computing, Hong Kong Polytechnic University, 2023.01 - Now, <br>Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/), [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
+
++  <img decoding="async" src="/images/polyu_logo.png" width="10%">  Ph.D student, Computing, Hong Kong Polytechnic University, 2023.01 - Now, <br>Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/), [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
 
 <img decoding="async" src="/images/uoe_log.png" width="10%">
 
