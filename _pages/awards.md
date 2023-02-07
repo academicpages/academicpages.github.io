@@ -23,3 +23,5 @@ redirect_from:
 + Asia and Pacific Mathmatical Contst in Modeling Second Prize, 2018.11
 + Second Class Student Sholarship, 2017 - 2018
 + Outstanding New Student Scholarship, 2016
+
+
