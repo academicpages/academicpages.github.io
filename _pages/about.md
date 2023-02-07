@@ -18,7 +18,7 @@ Research Interest
 
 Education
 ======
-+ ![](https://github.com/LiuYunqing/LiuYunqing.github.io/blob/master/images/PolyU%20Logo_630x630.jpg){:height="20%" width="20%"}Ph.D student, Computing, Hong Kong Polytechnic University, 2023.01 - Now, <br>Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/), [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
++ <img src="[/Users/liuyunqing/Library/Application Support/typora-user-images/image-20221213131134778.png](https://github.com/LiuYunqing/LiuYunqing.github.io/blob/master/images/PolyU%20Logo_630x630.jpg)" alt="image-20221213131134778" style="zoom:30%;" />Ph.D student, Computing, Hong Kong Polytechnic University, 2023.01 - Now, <br>Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/), [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
 + MSc, Computer Science, University of Edinburgh, Edinbrugh, 2021.09 - 2022.11, <br>Advisor: [Dr. Elizabeth Polgreen](https://polgreen.github.io/)
 + BEng, Computer Science and Technology, Wuhan University, 2016.09 - 2020.06, <br>Advisor: Dr. Huajun Liu
 + BSc, Chemistry, Wuhan University, 2016.09 - 2020.06,  <br>Advisor: Dr. Chien-Wei Chiang, Prof. Aiwen Lei
