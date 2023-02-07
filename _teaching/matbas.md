@@ -43,9 +43,5 @@ Datas das Provas
 
 Listas de Exercícios 
 ======
-
-
-
-Notas de Aula
-=======
-1. [Notas 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/AL_aulas_01_02.pdf)
+1. Fazer os exercícios do capítulo V do livro do Iezzi, volume 1.
+1. [Lista 01 ( complementar à anterior)](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/matbas/lista01.pdf)
