@@ -19,11 +19,11 @@ Research Interest
 Education
 ======
 
+<img decoding="async" src="/images/polyu_logo.png" width="10%">  
 
++  Ph.D student, Computing, Hong Kong Polytechnic University, 2023.01 - Now, <br>Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/), [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
 
-+  <img decoding="async" src="/images/polyu_logo.png" width="10%">  Ph.D student, Computing, Hong Kong Polytechnic University, 2023.01 - Now, <br>Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/), [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
-
-<img decoding="async" src="/images/uoe_log.png" width="10%">
+<img decoding="async" src="/images/uoe_log.png" width="10%">  
 
 + MSc, Computer Science, University of Edinburgh, Edinbrugh, 2021.09 - 2022.11, <br>Advisor: [Dr. Elizabeth Polgreen](https://polgreen.github.io/)
 
