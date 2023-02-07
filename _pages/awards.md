@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /awards
 ---
-<img decoding="async" src="/images/polyu_logo.jpg" width="10%">
+<img decoding="async" src="/images/polyu_logo.png" width="10%">
 
 + [PolyU Research Postgraduate Scholarship (PRPgS)](https://www.polyu.edu.hk/comp/study/research-postgraduate-programme/phd-and-mphil-in-computing/), 2023
 
