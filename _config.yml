@@ -61,10 +61,10 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : aranyacecon
-facebook:
-  username               : aranyacecon
-  app_id                 :
-  publisher              :
+# facebook:
+#   username               : aranyacecon
+#   app_id                 :
+#   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -90,19 +90,19 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "aranyacecon"
+#   facebook         : "aranyacecon"
   foursquare       :
   github           : "aranyac"
   google_plus      :
   keybase          :
-  instagram        : "aranyacecon"
+#   instagram        : "aranyacecon"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "aranyacecon"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : 16597488/aranya # http://stackoverflow.com/users/123456/username
+#   stackoverflow    : 16597488/aranya # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          : "aranyacecon"
