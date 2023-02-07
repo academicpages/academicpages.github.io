@@ -25,7 +25,7 @@ Education
   <br>Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/), [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
   
 
-+ MSc, Computer Science, University of Edinburgh, Edinbrugh, 2021.09 - 2022.11, <img decoding="async" src="/images/uoe_log.png" width="10%">  
++ MSc, Computer Science, University of Edinburgh, 2021.09 - 2022.11, <img decoding="async" src="/images/uoe_log.png" width="10%">  
  <br>Advisor: [Dr. Elizabeth Polgreen](https://polgreen.github.io/)
 
 + BEng, Computer Science and Technology, Wuhan University, 2016.09 - 2020.06, <img decoding="async" src="/images/whu_logo.png" width="10%">
