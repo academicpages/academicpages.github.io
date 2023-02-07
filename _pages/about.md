@@ -67,3 +67,11 @@ Publication
 + [**Selective Photoredox Trifluoromethylation of Tryptophan-Containing Peptides**](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572)
 <br>Bo Ding, Yue Weng, **Yunqing Liu**, Chunlan Song, Le Yin, Jiafan Yuan, Yanrui Ren, Aiwen Lei*, Chien-Wei Chiang*
 <br>_European Journal of Organic Chemistry_, **2019**, _46_(12), 7596-7605, [DIO:10.1002/ejoc.201901572](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572)
+
+
+Working Experience
+------
++ Research Assistant, Hong Kong Polytechnic University, Hong Kong, 2022.10 - 2023.01
+ <br>Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
++ Research Assistant, State Key Laboratory of Computer Science([SKLCS](http://lcs.ios.ac.cn/)), Institute of Software, Chinese Academy of Sciences, Beijing, 2020.12 - 2021.05
+ <br>Advisor: Dr. Zhendong Lei and [Prof. Shaowei Cai](http://lcs.ios.ac.cn/~caisw/)
