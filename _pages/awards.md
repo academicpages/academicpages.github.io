@@ -6,12 +6,8 @@ author_profile: true
 redirect_from:
   - /awards
 ---
-<!-- <img decoding="async" src="/images/polyu_logo.png" width="10%"> -->
 + [PolyU Research Postgraduate Scholarship (PRPgS)](https://www.polyu.edu.hk/comp/study/research-postgraduate-programme/phd-and-mphil-in-computing/), 2023
-<!-- 
-<img decoding="async" src="/images/uoe_log.png" width="10%"> -->
 + IBM Third Prize for the Best Project in Machine Learning Practical (Third place out of 53 teams)，2022.06
-<!-- <img decoding="async" src="/images/whu_logo.png" width="10%"> -->
 + Excellent graduate, 2020.06
 + Outsranding Student, 2017 - 2020
 + First Class Student Scholarship, 2019
