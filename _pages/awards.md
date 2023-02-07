@@ -7,5 +7,3 @@ redirect_from:
   - /awards
 ---
 
-Awards
-======
