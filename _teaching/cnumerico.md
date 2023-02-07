@@ -41,7 +41,7 @@ Avaliação
 Slides das Aulas
 ========
 * [Aula 00](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_aula00.pdf) [Aula 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_aula01.pdf)
-* [Aula 02](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_aula00.pdf) [Aula 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/aula02.pdf)
+[Aula 02](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/aula02.pdf)
  
 Notebooks Jupyter
 ========
