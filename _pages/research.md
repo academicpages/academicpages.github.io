@@ -20,17 +20,17 @@ title: ""
 
 # Work in Progress
 
-* “The Role of Active Discussion in Learning about Uncertain Technologies” (with Jim Engle-Warnick, Javier Escobal, and Sonia Laszlo)
-* “Microinsurance for the Poor: Long-Term Follow Up” (with Matthieu Chemin)
-* “Assessing the Impact of Judicial Independence in Developing Countries: Evidence from Rural Bangladesh” (with Matthieu Chemin)
+* “The Role of Active Discussion in Learning about Uncertain Technologies” (with [Jim Engle-Warnick](https://www.mcgill.ca/economics/jim-engle-warnick), [Javier Escobal](https://www.grade.org.pe/en/investigadores/personal/jescobal/), and [Sonia Laszlo](https://sites.google.com/site/sonialaszlo))
+* “Microinsurance for the Poor: Long-Term Follow Up” (with [Matthieu Chemin](https://www.matthieuchemin.com/))
+* “Assessing the Impact of Judicial Independence in Developing Countries: Evidence from Rural Bangladesh” (with [Matthieu Chemin](https://www.matthieuchemin.com/))
 
 
 # Book Chapter
 
-* “Food Insecurity, Price Volatility and Trade: A Panel Data Analysis in Developing Countries” (with Panchanan Das and Swayambhu Mukherjee), published as Chapter 10 in *Indian Agriculture under Multilateral and Regional Trade Agreements - Competitiveness and Food Security*, Sharma and Bathla (eds.), CWS in association with Bookwell, Delhi, 2017, 177-194. [Book Link](https://www.academia.edu/44089071/Indian_Agriculture_Under_Multilateral_and_Regional_Trade_Agreements_Competitiveness_and_Food_Security)
+* “Food Insecurity, Price Volatility and Trade: A Panel Data Analysis in Developing Countries” (with [Panchanan Das](http://www.econcaluniv.ac.in/FacultyProfile.aspx?FI=13) and Swayambhu Mukherjee), published as Chapter 10 in *Indian Agriculture under Multilateral and Regional Trade Agreements - Competitiveness and Food Security*, Sharma and Bathla (eds.), CWS in association with Bookwell, Delhi, 2017, 177-194. [Book Link](https://www.academia.edu/44089071/Indian_Agriculture_Under_Multilateral_and_Regional_Trade_Agreements_Competitiveness_and_Food_Security)
 
 # Other Papers
 
-* “Industrial Performance in West Bengal: Analysis of Technical Efficiency with ASI Data” (with Panchanan Das and Swayambhu Mukherjee), 2016 
+* “Industrial Performance in West Bengal: Analysis of Technical Efficiency with ASI Data” (with [Panchanan Das](http://www.econcaluniv.ac.in/FacultyProfile.aspx?FI=13) and Swayambhu Mukherjee), 2016 
 <!-- * [Paper PDF](/files/pdf/Industrial Performance in West Bengal.pdf) -->
 
