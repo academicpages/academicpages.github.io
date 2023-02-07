@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a first-year Ph.D. student in [department of computing](https://www.polyu.edu.hk/comp/)(COMP) at [Hong Kong Polytechnic University](https://www.polyu.edu.hk/)(PolyU), where I'm advised by [Dr. Wenqi Fan](https://wenqifan03.github.io/) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/). Currently, I'm working on GNNs as well as their applications in Drug Discovery.
+I am currently a Ph.D. student of the [Department of Computing](https://www.polyu.edu.hk/comp/) (COMP), [Hong Kong Polytechinic University](https://www.polyu.edu.hk/) (PolyU). Before joining the PolyU, I received my Master degree of Computer Science from University of Edinburgh, under the supervision of [Dr. Elizabeth Polgreen](https://polgreen.github.io/). In 2020, I got my bachelor degrees from Wuhan University. I am a self-motivated person and have strong passion for scientific research. Currently, my research interest lies in Drug Discovery, Graph Neural Networks, and Natural Language Processing. I am always welcoming collaborating from solid partners.
+
+Research Interest
+======
++ Drug Discovery
++ Graph Neural Networks (GNNs)
++ Natural Language Processing (NLP)
 
 Education
 ======
@@ -53,7 +59,7 @@ More info about configuring academicpages can be found in [the guide](https://ac
  
  
 Publication
-------
+======
 + [**Generative Diffusion Models on Graphs: Methods and Applications**](https://arxiv.org/abs/2302.02591)
   <br> Wenqi Fan, Chengyi Liu, **Yunqing Liu**, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li
   <br> _arXiv_, [arXiv:2302.02591](https://arxiv.org/abs/2302.02591)
@@ -70,7 +76,7 @@ Publication
 
 
 Working Experience
-------
+======
 + Research Assistant, Department of Computing, Hong Kong Polytechnic University, Hong Kong 
  <br>2022.10 - 2023.01
  <br>Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
