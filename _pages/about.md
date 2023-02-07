@@ -21,7 +21,10 @@ Education
 
 
 
-+ Ph.D student, Computing, Hong Kong Polytechnic University, 2023.01 - Now, <img decoding="async" src="/images/polyu_logo.png" width="10%">   <br>Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/), [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
++ Ph.D student, Computing, Hong Kong Polytechnic University, 2023.01 - Now,
+  <br>Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/), [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
+  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img decoding="async" src="/images/polyu_logo.png" width="10%">   
 
 
 
