@@ -45,3 +45,4 @@ Listas de Exercícios
 ======
 1. Fazer os exercícios do capítulo V do livro do Iezzi, volume 1.
 1. [Lista 01 ( complementar à anterior)](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/matbas/lista01.pdf)
+1. Estudar e fazer os exercícios dos capítulos II e III do livro do Iezzi, volume 1. 
