@@ -5,12 +5,8 @@ permalink: /services/
 author_profile: true
 ---
 - Outreach:
-
   - Ragon WISE Committee (Women in STEM Empowerment)
   - [U.S. Association for Computational Mechanics-Female Research Group (USACM-FRG)](https://frgusacm.org/)
-
-- Guest editor:
-  - Special Issue "Mathematical Modeling and Computer Simulation in Computational Biology and Bioinformatics" of [Mathematics](https://www.mdpi.com/journal/mathematics)
 
 - Conference session co-chair:
   - [BMES 2022 Annual meeting](https://www.bmes.org/annualmeeting)
