@@ -85,7 +85,9 @@ Email: wang dot dian at northeastern dot edu
 *ICLR 2023, Kigali, Rwanda,* ***Spotlight***  
 <button class="button-4" onclick="window.open('https://pointw.github.io/extrinsic_page/','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2211.09231.pdf','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://openreview.net/forum?id=P4MUGRM4Acu','_blank')">OpenReview</button>
 <button class="button-4" onclick="window.open('https://www.youtube.com/watch?v=US4uWndGx9I','_blank')">Video</button>
+<button class="button-4" onclick="window.open('https://github.com/pointW/extrinsic_equi','_blank')">Code</button>
 <br>
 
 ![](images/mingxi_icra23.png){: .align-right width="200px"}
