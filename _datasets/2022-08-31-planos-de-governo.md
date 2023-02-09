@@ -6,13 +6,14 @@ permalink: /datasets/planos-de-governo
 date: 2022-08-31
 ---
 
+
 Análise dos planos de governo dos candidatos a presidência nas eleicões brasileiras de 2022. Os arquivos foram coletados do website de cada candidato e analisados com a biblioteca textract.
+
 
 ![Github Follow](https://img.shields.io/github/followers/joseparreiras?style=social)
 ![Github Stars](https://img.shields.io/github/stars/joseparreiras/planos_de_governo?style=social)
 ![Github Watch](https://img.shields.io/github/watchers/joseparreiras/planos_de_governo?style=social)
 ![Github Forks](https://img.shields.io/github/forks/joseparreiras/planos_de_governo?style=social)
-
 
 ![Language](https://img.shields.io/github/languages/top/joseparreiras/planos_de_governo)
 ![Module](https://img.shields.io/badge/module-textract-green)
