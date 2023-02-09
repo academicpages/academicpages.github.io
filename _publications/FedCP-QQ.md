@@ -6,6 +6,6 @@ permalink: /publication/federated-cp
 date: 2023-2-9
 excerpt: ''
 pubtype: 'preprint'
-venue: 
+venue: ''
 author: 'P. Humbert, B. Le Bars, A. Bellet, and S. Arlot'
 ---
