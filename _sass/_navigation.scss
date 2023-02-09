@@ -71,7 +71,7 @@
 
   li {
     display: block;
-    float: left;
+    float: right;
     margin-left: -1px;
 
     a {
@@ -124,7 +124,7 @@
   &--pager {
     display: block;
     padding: 1em 2em;
-    float: left;
+    float: right;
     width: 50%;
     font-family: $sans-serif;
     font-size: $type-size-5;
