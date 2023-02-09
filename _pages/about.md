@@ -10,6 +10,7 @@ redirect_from:
 
 Hi! I am currently an algorithm expert in Alimama Tech at Alibaba Group. I received my Ph.D. degree in June 2021 from the Institute of Automation, Chinese Academy of Sciences (CASIA) and my B.Eng. degree in June 2016 from Wuhan University (WHU).  
 
+
 Research Interests
 ======
 My research interests are in computational advertising and information retrieval, and broader interests include transfer learning, text generation, federated learning and their applications in advertising, recommendation and search.   
@@ -18,7 +19,8 @@ During my Ph.D., my research interests were in natural language processing and s
 
 
 News
-======
+=====
+* Feb. 2023: We are hiring research interns. Feel free to send your CV to me if you are interested in working with us. 
 * Jan. 2023: A co-first authored paper about *multi-domain retrieval* was accepted at WWW 2023.  
 * Aug. 2022: A co-corresponding authored paper about *multi-domain ranking* was accepted at CIKM 2022.  
 * Apr. 2022: Three first-authored papers about *calibrated ranking* and *ad creative generation* were accepted at SIGIR 2022 and NAACL 2022.  
@@ -70,4 +72,4 @@ Misc
 * I love playing football and table tennis. I am a Real Madrid fan, and my favorite athlete is LIU Shiwen. 
 
 
-_Last Updated: Jan. 2023_
+_Last Updated: Feb. 2023_
