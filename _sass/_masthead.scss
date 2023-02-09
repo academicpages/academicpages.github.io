@@ -45,10 +45,11 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  padding-left: 1.5em;
+  // padding-left: 1.5em;
 
   &--lg {
-    padding-right: 2em;
+    padding-left: 1.5em;
+    // padding-right: 2em;
     font-weight: 700;
   }
 }
