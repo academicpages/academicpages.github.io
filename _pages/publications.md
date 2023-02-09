@@ -13,6 +13,14 @@ author_profile: true
 Zixuan Xu\*, **Penghui Wei**\*, Shaoguo Liu, Liang Wang, Bo Zheng (\*: Equal contribution)  
 **WWW ’23** (long): Proceedings of the Web Conference 2023 (to appear). Austin, Texas, USA, April 30 -- May 4, 2023.   
 
+* **Hybrid Contrastive Contraints for Multi-Scenario Ad Ranking**  
+Shanlei Mu, **Penghui Wei**, Wayne Xin Zhao, Shaoguo Liu, Liang Wang, Bo Zheng  
+arXiv preprint arXiv:2302.02636.     
+
+* **RLTP: Reinforcement Learning to Pace for Delayed Impression Modeling in Preloaded Ads**  
+**Penghui Wei**, Yongqiang Chen, Shaoguo Liu, Liang Wang, Bo Zheng  
+arXiv preprint arXiv:2302.02592.     
+
 * **CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning**  
 **Penghui Wei**, Xuanhua Yang, Shaoguo Liu, Liang Wang, Bo Zheng  
 **NAACL ’22** (Industry Track, **Oral**): Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics. Seattle, Washington, USA, July 10--15, 2022.   
