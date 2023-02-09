@@ -19,6 +19,7 @@ My research interests are broadly defined at the intersection of Machine Learnin
 
 
 # News
+- **Feb, 2022:** Excited to serve as Area Chair (AC) for ACL'23 and MICCAI'23, and as Medical Computer Vision Section Editor for the PLOS Digital Health Journal.
 - **Jan, 2022:** Talk at STR: Robust Visual Understanding with Limited Supervision.
 - **Dec, 2022:** Thank you to the Commonwealth Cyber Initiative (CCI) for the new funding! 
 - **Nov, 2022:** Gave a talk on multimodal explainable AI models for clinical reasoning ([slides](https://isminoula.github.io/files/CriticalCareDataAnalysisSummit2022.pdf)) at the [Critical Care Data Analysis Summit and Tarragona Datathon 2022](https://www.datathontarragona.com/summit.html).
