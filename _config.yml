@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Khiem Le                                        "
+title                    : "Le Huy Khiem                                        "
 title_separator          : "-"
 name                     : &name ""
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Khiem Le"
+  name             : "Le Huy Khiem"
   avatar           : "khiem.png"
   bio              : "I’m an Artificial Intelligence Enthusiast"
   location         : 

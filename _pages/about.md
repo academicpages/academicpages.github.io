@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Khiem Le"
+title: "Le Huy Khiem"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
