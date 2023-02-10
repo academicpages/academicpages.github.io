@@ -13,7 +13,7 @@ redirect_from:
 Education
 =
 
-2019 **PhD**, Neuroscience center Zurich (ZNZ), University of Zurich and ETH Zurich, Switzerland<br>
+2019 **PhD**, Neuroscience Center Zurich (ZNZ), University of Zurich and ETH Zurich, Switzerland<br>
 2014 **MS**, National Taiwan University, Taiwan<br>
 2010 **BS**, China Medical University, Taiwan
 
