@@ -30,15 +30,15 @@ After I completed my Ph.D. degree, I moved on to my postdoctoral research with D
 Publication
 =
 
-**Lin TF**\*, Mohammadi M, Cullen KE, Chacron MJ, Huang MY\*. Optokinetic set-point adaptation functions as an internal dynamic calibration mechanism for oculomotor disequilibrium. *iScience*. 2022 <a href="https://www.cell.com/action/showPdf?pii=S2589-0042%2822%2901607-8" style="color: black;">link</a>
+**Lin TF**\*, Mohammadi M, Cullen KE, Chacron MJ, Huang MY\*. Optokinetic set-point adaptation functions as an internal dynamic calibration mechanism for oculomotor disequilibrium. *iScience*. 2022. <a href="https://www.cell.com/action/showPdf?pii=S2589-0042%2822%2901607-8" style="color: black;">link</a>
 
 
-**Lin TF**, Mohammadi M, Fathalla AM, Pul D, Lüthi D, Romano F, Straumann D, Cullen KE, Chacron MJ, Huang MY\*. Negative optokinetic afternystagmus in larval zebrafish demonstrates set-point adaptation. *Sci Rep*. 2019
+**Lin TF**, Mohammadi M, Fathalla AM, Pul D, Lüthi D, Romano F, Straumann D, Cullen KE, Chacron MJ, Huang MY\*. Negative optokinetic afternystagmus in larval zebrafish demonstrates set-point adaptation. *Sci Rep*. 2019. <a href="https://www.nature.com/articles/s41598-019-55457-4.pdf" style="color: black;">link</a>
 
-**Lin TF**, Gerth-Kahlert C, Hanson JVM, Straumann D, Huang MY\*. Spontaneous nystagmus in the dark in an infantile nystagmus patient may represent negative optokinetic afternystagmus. *Front Neurol*. 2018.
+**Lin TF**, Gerth-Kahlert C, Hanson JVM, Straumann D, Huang MY\*. Spontaneous nystagmus in the dark in an infantile nystagmus patient may represent negative optokinetic afternystagmus. *Front Neurol*. 2018. <a href="https://www.readcube.com/articles/10.3389/fneur.2018.00151" style="color: black;">link</a>
 
-Hsu PH, Chiu YC, **Lin TF**, Jeng CJ\*. Ca2+-binding protein centrin 4 is a novel binding partner of rat Eag1 K+ channels. *FEBS Open Bio*. 2016.
+Hsu PH, Chiu YC, **Lin TF**, Jeng CJ\*. Ca2+-binding protein centrin 4 is a novel binding partner of rat Eag1 K+ channels. *FEBS Open Bio*. 2016. <a href="https://www.cell.com/action/showPdf?pii=S2589-0042%2822%2901607-8" style="color: black;">link</a>
 
-**Lin TF**, Jow GM, Fang HY, Fu SJ, Wu HH, Chiu MM, Jeng CJ\*. The eag domain regulates the voltage-dependent inactivation of rat eag1 k+ channels. *PLoS One*. 2014.
+**Lin TF**, Jow GM, Fang HY, Fu SJ, Wu HH, Chiu MM, Jeng CJ\*. The eag domain regulates the voltage-dependent inactivation of rat eag1 k+ channels. *PLoS One*. 2014. <a href="https://www.cell.com/action/showPdf?pii=S2589-0042%2822%2901607-8" style="color: black;">link</a>
 
-**Lin TF**, Lin IW, Chen SC, Wu HH, Yang CS, Fang HY, Chiu MM, Jeng CJ\*. The subfamily-specific assembly of Eag and Erg K+ channels is determined by both the amino and the carboxyl recognition domains. *J Biol Chem*. 2014.
+**Lin TF**, Lin IW, Chen SC, Wu HH, Yang CS, Fang HY, Chiu MM, Jeng CJ\*. The subfamily-specific assembly of Eag and Erg K+ channels is determined by both the amino and the carboxyl recognition domains. *J Biol Chem*. 2014. <a href="https://www.cell.com/action/showPdf?pii=S2589-0042%2822%2901607-8" style="color: black;">link</a>
