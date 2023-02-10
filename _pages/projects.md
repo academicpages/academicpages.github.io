@@ -5,4 +5,6 @@ permalink: side-projects/
 author_profile: true
 ---
 
-<iframe src="https://huggingface.co/spaces/lhkhiem28/COVID-19-Control-Helper" width="100%"></iframe>
+**COVID-19 Named Entity Recognition For Vietnamese**<br />
+This is an easy-to-use interface built in Gradio for demonstrating a NER system that identifies COVID-19 related named entities in Vietnamese<br />
+<iframe src="https://huggingface.co/spaces/lhkhiem28/COVID-19-Control-Helper" width="60%"></iframe>
