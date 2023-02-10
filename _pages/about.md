@@ -37,8 +37,8 @@ Publication
 
 **Lin TF**, Gerth-Kahlert C, Hanson JVM, Straumann D, Huang MY\*. Spontaneous nystagmus in the dark in an infantile nystagmus patient may represent negative optokinetic afternystagmus. *Front Neurol*. 2018. <a href="https://www.readcube.com/articles/10.3389/fneur.2018.00151" style="color: black;">link</a>
 
-Hsu PH, Chiu YC, **Lin TF**, Jeng CJ\*. Ca2+-binding protein centrin 4 is a novel binding partner of rat Eag1 K+ channels. *FEBS Open Bio*. 2016. <a href="https://www.cell.com/action/showPdf?pii=S2589-0042%2822%2901607-8" style="color: black;">link</a>
+Hsu PH, Chiu YC, **Lin TF**, Jeng CJ\*. Ca2+-binding protein centrin 4 is a novel binding partner of rat Eag1 K+ channels. *FEBS Open Bio*. 2016. <a href="https://febs.onlinelibrary.wiley.com/doi/epdf/10.1002/2211-5463.12045" style="color: black;">link</a>
 
-**Lin TF**, Jow GM, Fang HY, Fu SJ, Wu HH, Chiu MM, Jeng CJ\*. The eag domain regulates the voltage-dependent inactivation of rat eag1 k+ channels. *PLoS One*. 2014. <a href="https://www.cell.com/action/showPdf?pii=S2589-0042%2822%2901607-8" style="color: black;">link</a>
+**Lin TF**, Jow GM, Fang HY, Fu SJ, Wu HH, Chiu MM, Jeng CJ\*. The eag domain regulates the voltage-dependent inactivation of rat eag1 k+ channels. *PLoS One*. 2014. <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0110423&type=printable" style="color: black;">link</a>
 
-**Lin TF**, Lin IW, Chen SC, Wu HH, Yang CS, Fang HY, Chiu MM, Jeng CJ\*. The subfamily-specific assembly of Eag and Erg K+ channels is determined by both the amino and the carboxyl recognition domains. *J Biol Chem*. 2014. <a href="https://www.cell.com/action/showPdf?pii=S2589-0042%2822%2901607-8" style="color: black;">link</a>
+**Lin TF**, Lin IW, Chen SC, Wu HH, Yang CS, Fang HY, Chiu MM, Jeng CJ\*. The subfamily-specific assembly of Eag and Erg K+ channels is determined by both the amino and the carboxyl recognition domains. *J Biol Chem*. 2014. <a href="https://www.jbc.org/action/showPdf?pii=S0021-9258%2820%2933085-4" style="color: black;">link</a>
