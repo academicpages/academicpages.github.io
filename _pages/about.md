@@ -30,7 +30,7 @@ After I completed my Ph.D. degree, I moved on to my postdoctoral research with D
 Publication
 =
 
-**Lin TF***, Mohammadi M, Cullen KE, Chacron MJ, Huang MY*. Optokinetic set-point adaptation functions as an internal dynamic calibration mechanism for oculomotor disequilibrium. *iScience*. 2022
+**Lin TF**\*, Mohammadi M, Cullen KE, Chacron MJ, Huang MY\*. Optokinetic set-point adaptation functions as an internal dynamic calibration mechanism for oculomotor disequilibrium. *iScience*. 2022
 
 **Lin TF**, Mohammadi M, Fathalla AM, Pul D, Lüthi D, Romano F, Straumann D, Cullen KE, Chacron MJ, Huang MY. Negative optokinetic afternystagmus in larval zebrafish demonstrates set-point adaptation. *Sci Rep*. 2019
 
