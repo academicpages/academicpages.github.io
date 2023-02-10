@@ -15,7 +15,7 @@ author_profile: true
 
 * **10/2020 - 09/2021 · 1 yr**<br />
 **Research Intern - Medical Imaging Department, Vingroup Big Data Institute**<br />
-At the end of 2020, I joined the Vingroup Big Data Institute (VinBigData) as a Research Intern in Medical Imaging Department. Here, I contributed to MRI-based Brain Tumor Detection and Anomaly Detection in Chest Radiographs projects. 
+At the end of 2020, I joined the Vingroup Big Data Institute (VinBigData) as a Research Intern in Medical Imaging Department. Here, I contributed to MRI-based Brain Tumor Detection and Anomaly Detection in Chest Radiographs projects, addressing the problem of Multiple Annotations. 
 
 * **01/2020 - 09/2020 · 9 mos**<br />
 **Fresher - AISIA Research Lab, HCMUS**<br />
