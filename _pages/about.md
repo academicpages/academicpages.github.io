@@ -26,3 +26,19 @@ My first formal research training took place when I was a master’s student in 
 After my master’s study, I pursued my Ph.D. in the oculomotor laboratory of [Melody Ying-Yu Huang](https://zfin.org/action/profile/view/ZDB-LAB-160602-1) at the University Hospital of Zurich ([Neuroscience Center of Zurich](https://www.neuroscience.uzh.ch/en.html), UZH and ETH Zurich), where I discovered and characterized an adaptive oculomotor behavior in larval zebrafish. The adaption mechanism serves as an experience-dependent calibration for both external and inherent oculomotor disequilibrium in zebrafish. By collaborating with Drs. Maurice Chacron at McGill University and Kathleen Cullen at Johns Hopkins University, we developed a mathematical model, namely set-point adaptation, to explain the empirical phenomena. Together, pronounced inherent disequilibrium and compensatory set-point adaptation are powerful models for studying developmental instability and sensorimotor calibration in vertebrates. Beyond our animal studies, we also linked foveal hypoplasia to excessive set-point adaptation in humans, which provides a new insight into infantile nystagmus syndrome and may resolve a decade-long debate about its etiology. On the basis of this work, I received a two-year institutional scholarship sponsored by IPR Energy Group’s Dr. Dabbous Foundation to cover my salary, and was awarded a grant as the first author and main researcher from the Betty and David Koetser Foundation for Brain Research.
 
 After I completed my Ph.D. degree, I moved on to my postdoctoral research with Dr. [Christian Hansel](http://www.hansellab-uchicago.com/) at University of Chicago. Based on my training with K+ channel biophysics and my research experience in sensorimotor calibration, I pursued my postdoctoral research in investigating sensory adjustment (i.e., tactile receptive field plasticity) via synaptic and intrinsic plasticity in mouse cerebellar Purkinje cells. From in vitro studies, we know that intrinsic plasticity in Purkinje cells specifies the change of intrinsic excitability by regulating Ca2+ activated K+ (SK2) channels. To test cerebellar plasticity in awake animals, I developed an animal genetic engineering protocol, two-photon microscopy platform combined with an in-vivo electrophysiological/tactile stimulator, and custom-made image analysis software all from scratch. My work is the first to demonstrate receptive field plasticity of Purkinje cells via both synaptic and intrinsic mechanisms in intact, awake mice. This study was presented at the Society for Neuroscience 2022 conference with support from the SfN Trainee Professional Development Award.
+
+Publication
+=
+
+**Lin TF***, Mohammadi M, Cullen KE, Chacron MJ, Huang MY. Optokinetic set-point adaptation functions as an internal dynamic calibration mechanism for oculomotor disequilibrium. iScience. 2022
+
+**Lin TF***, Mohammadi M, Fathalla AM, Pul D, Lüthi D, Romano F, Straumann D, Cullen KE, Chacron MJ, Huang MY. Negative optokinetic afternystagmus in larval zebrafish demonstrates set-point adaptation. Sci Rep. 2019
+
+**Lin TF***, Gerth-Kahlert C, Hanson JVM, Straumann D, Huang MY. Spontaneous nystagmus in the dark in an infantile nystagmus patient may represent negative optokinetic afternystagmus. Front Neurol. 2018.
+Prior publications
+
+Hsu PH, Chiu YC, **Lin TF**, Jeng CJ. Ca2+-binding protein centrin 4 is a novel binding partner of rat Eag1 K+ channels. FEBS Open Bio. 2016.
+
+**Lin TF***, Jow GM, Fang HY, Fu SJ, Wu HH, Chiu MM, Jeng CJ. The eag domain regulates the voltage-dependent inactivation of rat eag1 k+ channels. PLoS One. 2014.
+
+**Lin TF***, Lin IW, Chen SC, Wu HH, Yang CS, Fang HY, Chiu MM, Jeng CJ. The subfamily-specific assembly of Eag and Erg K+ channels is determined by both the amino and the carboxyl recognition domains. J Biol Chem. 2014.
