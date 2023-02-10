@@ -13,12 +13,12 @@ PLOS ONE<br />
 **Enhancing Deep Learning-Based 3-Lead ECG Classification With Heartbeat Counting and Demographic Data Integration**<br />
 Khiem H. Le, Hieu H. Pham, Thao BT. Nguyen, Tu A. Nguyen, Tien N. Thanh, Cuong D. Do<br />
 IECBES 2022<br />
-[Link]() &nbsp; &nbsp; &nbsp; &nbsp; [Code]()
+[Link]() &nbsp; &nbsp; [Code]()
 
 **LightX3ECG: A Lightweight and Explainable Deep Learning System for 3-Lead Electrocardiogram Classification**<br />
 Khiem H. Le, Hieu H. Pham, Thao BT. Nguyen, Tu A. Nguyen, Tien N. Thanh, Cuong D. Do<br />
 Biomedical Signal Processing and Control<br />
-[Link]() &nbsp; &nbsp; &nbsp; &nbsp; [Code]()
+[Link]() &nbsp; &nbsp; [Code]()
 
 **Learning From Multiple Expert Annotators for Enhancing Anomaly Detection in Medical Image Analysis**<br />
 Khiem H. Le *, Tuan V. Tran *, Hieu H. Pham, Hieu T. Nguyen, Tung T. Le, Ha Q. Nguyen<br />
