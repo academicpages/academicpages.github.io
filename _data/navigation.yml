@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Research Experience"
-    url: experience/
+    url: research-experience/
 
   - title: "Research Publications"
-    url: publications/
+    url: research-publications/
 
-  - title: "Site Projects"
-    url: projects/
+  - title: "Side Projects"
+    url: side-projects/
     
   # - title: "Portfolio"
   #   url: /portfolio/
