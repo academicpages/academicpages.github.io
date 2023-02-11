@@ -14,9 +14,6 @@ The goal of my research is to develop trustworthy and safe intelligent autonomou
 
 For more information, please refer to my [CV](https://ChenTangMark.github.io/files/Chen_Tang_CV.pdf). Please feel free to contact me for research discussion and collaboration! 
 
-**I am on the 2022-2023 academic job market.**
-
-
 News 
 ======
 - 07/2022: We are organizing the [workshop on Progress and Challenges in Building Trustworthy Embodied AI](https://sites.google.com/berkeley.edu/trustworthy-embodied-ai/home) at NeurIPS 2022! 
