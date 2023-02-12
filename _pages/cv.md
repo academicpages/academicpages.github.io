@@ -34,6 +34,7 @@ Professional activities
 ======
 * Journal Reviews:
   * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+  * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   * Medical Image Analysis (MedIA) 
   * IEEE Transactions on Medical Imaging (TMI)
   * Pattern Recognition (PR)
