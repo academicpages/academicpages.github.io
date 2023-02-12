@@ -35,11 +35,11 @@ Professional activities
 * Journal Reviews:
   * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-  * Medical Image Analysis (MedIA) 
-  * IEEE Transactions on Medical Imaging (TMI)
-  * Pattern Recognition (PR)
   * IEEE Transactions on Geoscience and Remote Sensing (TGRS)
   * IEEE Journal of Biomedical and Health Informatics (JBHI)
+  * IEEE Transactions on Medical Imaging (TMI)
+  * Medical Image Analysis (MedIA) 
+  * Pattern Recognition (PR)
   * Neurocomputing
 * Conference Reviews:
    * MICCAI2022
