@@ -1,6 +1,6 @@
 ---
 permalink: "/"
-title: "Hello! I’m Khiem"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,5 @@ redirect_from:
   - about.html
 ---
 
+# **Hello! I’m Khiem**
 🌱 I’m an Artificial Intelligence enthusiast. I'm happy to connect and grow every day. 
