@@ -7,11 +7,11 @@ author_profile: true
 
 * **01/2023 - Present**<br />
 **Research Assistant - College of Engineering and Computer Science, VinUniversity**<br />
-From 01/2023, I have started working in a new field, Federated Learning and Internet of things, advised by Professor [Kok-Seng Wong](https://sites.google.com/view/kswong/) at CECS, VinUniversity. 
+From 01/2023, I have started working at CECS, VinUniversity in a new area, Federated Learning and Internet of things, advised by Professor [Kok-Seng Wong](https://sites.google.com/view/kswong/). 
 
 * **01/2022 - 12/2022 · 1 yr**<br />
 **Research Assistant - College of Engineering and Computer Science, VinUniversity**<br />
-At the beginning of 2022, I started working as a Research Assistant at the College of Engineering and Computer Science (CECS), VinUniversity. I did research advised by Professor [Cuong Do](https://vinuni.edu.vn/people/do-danh-cuong/) under the project ECG-based Arrhythmia Detection using Deep Learning. 
+At the beginning of 2022, I started working as a Research Assistant at the College of Engineering and Computer Science (CECS), VinUniversity. I did research under the project ECG-based Arrhythmia Detection using Deep Learning, advised by Professor [Cuong Do](https://vinuni.edu.vn/people/do-danh-cuong/). 
 
 * **10/2020 - 09/2021 · 1 yr**<br />
 **Research Intern - Medical Imaging Department, Vingroup Big Data Institute**<br />
