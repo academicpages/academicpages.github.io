@@ -40,5 +40,5 @@ Datas das Provas
 
 Listas de Exercícios 
 ======
-* [Lista 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/GACV_lista_exercicios.md)
+* [Lista 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/calculo3/lista01.pdf)
 
