@@ -1,7 +1,7 @@
 ---
 title: "One-Shot Federated Conformal Prediction"
 collection: publications
-link: http://batistelb.github.io/files/CP_QQ_FL.pdf
+link: https://hal.science/hal-03981605v1
 permalink: /publication/federated-cp
 date: 2023-2-9
 excerpt: ''
