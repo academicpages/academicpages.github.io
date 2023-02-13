@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Side Projects"
+title: "Side Projects |"
 permalink: side-projects/
 author_profile: true
 ---
