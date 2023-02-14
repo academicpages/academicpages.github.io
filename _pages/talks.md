@@ -20,7 +20,7 @@ I have presented / will be presenting at...
 #### European Political Science Association (EPSA)
 - Prague, Czech Republic: 2022. Panel: Patronage & Accountability.
 
-#### European Political Science Association (ECPR)
+#### European Consortium for Political Research (ECPR)
 - Innsbruck, Austria: 2022. Panel: Clientelism in Developing Democracies: Divergent Explanations, Convergent Outcomes (full panel organizer).
 
 #### Nordic Sociological Association Conference (NSA)
