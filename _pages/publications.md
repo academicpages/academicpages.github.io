@@ -5,6 +5,10 @@ author_profile: true
 ---
 
 ## Preprint
+* <b>Knowledge-enhanced Neural Machine Reasoning: A Review</b>.<br>
+Tanmoy Chowdhury, Chen Ling, Xuchao Zhang, Xujiang Zhao, <b>Guangji Bai</b>, Jian Pei, Haifeng Chen, Liang Zhao.<br>
+<i>ArXiv. Under review</i>.<br>
+
 * <b>Distributed Graph Neural Network Training with Periodic Stale Representation Synchronization</b>.<br>
 Zheng Chai, <b>Guangji Bai*</b>, Liang Zhao, Yue Cheng.<br>
 <i>ArXiv. Under review</i>.<br>
