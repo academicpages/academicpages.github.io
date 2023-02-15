@@ -141,7 +141,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b><a href="https://github.com/ranakroychowdhury/PrimeNet" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a></b>
+    <b><a href="https://drive.google.com/file/d/1FSy9F_qO-eaNhKYWbCwpBCogC1ZNo8nd/view?usp=sharing" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a></b>
     <br>Crafted a self-supervised pretraining method for irregular, asynchronous time-series through sampling density-aware contrastive learning and time-sensitive data reconstruction techniques, improving few-shot downstream performance.
     </p>
   </div>
