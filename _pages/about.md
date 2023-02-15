@@ -393,7 +393,9 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <b>Real-Time Principal Component Analysis</b>
   <br><b>Ranak Roy Chowdhury</b>, Muhammad Abdullah Adnan, Rajesh K. Gupta
   <br>Transactions on Data Science (TDS), Volume 1, Issue 2
-  <br><a href="https://dl.acm.org/doi/10.1145/3374750" target="_blank">paper</a>
+  <br><a href="https://dl.acm.org/doi/10.1145/3374750" target="_blank">paper</a> |
+  <a href="https://drive.google.com/file/d/1ZQQJShafy8qpFDXrQLBY6ZYQwKFDjG_M/view?usp=sharing" target="_blank">poster</a> |        
+  <a href="https://drive.google.com/file/d/1gOqrRIKggmPr0Uz3UTrXs9j_3KQhE5QA/view?usp=sharing" target="_blank">presentation</a>
   </p>
   
   <p>
