@@ -27,8 +27,6 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 <h1>Latest News</h1>
 
-Will be attending AAAI '23 at Washington D.C. from Feb 7 - 14, 2023. Come and say hi!
-
 [November 2022] <a href="https://github.com/ranakroychowdhury/PrimeNet" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a> has been accepted to AAAI '23.
 
 [August 2022] Won the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm Innovation Fellowship 2023</a> for our proposal on "Robust Machine Learning in IoT Devices"!
@@ -355,8 +353,11 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <p>
   <b>PrimeNet: Pre-training for Irregular Multivariate Time-Series</b>
   <br><b>Ranak Roy Chowdhury</b>, Jiacheng Li, Xiyuan Zhang, Dezhi Hong, Rajesh Gupta, Jingbo Shang
-  <br>AAAI Conference on Artificial Intelligence (AAAI), 2023
-  <br><a href="https://github.com/ranakroychowdhury/PrimeNet" target="_blank">code</a>
+  <br>AAAI Conference on Artificial Intelligence (AAAI), 2023. [Travel Grant]
+  <br><a href="https://drive.google.com/file/d/1FSy9F_qO-eaNhKYWbCwpBCogC1ZNo8nd/view?usp=sharing" target="_blank">paper</a> | 
+  <a href="https://github.com/ranakroychowdhury/PrimeNet" target="_blank">code</a> | 
+  <a href="https://drive.google.com/file/d/1zfo4bVPOAfDXrehizr9-oLbRhd07qw2B/view?usp=sharing" target="_blank">poster</a> |         
+  <a href="https://drive.google.com/file/d/1ezXyus8dTLYwrlvBxOuMshPa27Zn63kn/view?usp=sharing" target="_blank">presentation</a>	  
   </p>
   
   <p>
@@ -407,7 +408,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <p>
   <b>Modeling Label Semantics Improves Activity Recognition</b>
   <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang
-  <br><a href="https://arxiv.org/pdf/2301.03462.pdf" target="_blank">paper</a>
+  <br><a href="https://arxiv.org/pdf/2301.03462.pdf" target="_blank">preprint</a>
   </p>
   
   <p>
