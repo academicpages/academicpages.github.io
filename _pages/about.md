@@ -197,7 +197,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 <div class="archive__proj__row">
   <div class="archive__proj__right">
     <p>
-    <b><a href="https://arxiv.org/pdf/2301.03462.pdf" target="_blank">Modeling Label Semantics Improves Activity Recognition</a></b>
+    <b><a href="https://arxiv.org/abs/2301.03462" target="_blank">Modeling Label Semantics Improves Activity Recognition</a></b>
     <br>Built an encoder-decoder architecture to model label name semantics that harnesses the shared sub-structure of label names to distill knowledge across classes, <b>improving accuracy</b> of human activity recognition tasks by <b>1.7%</b>.
     </p>
   </div>
@@ -410,7 +410,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <p>
   <b>Modeling Label Semantics Improves Activity Recognition</b>
   <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang
-  <br><a href="https://arxiv.org/pdf/2301.03462.pdf" target="_blank">preprint</a>
+  <br><a href="https://arxiv.org/abs/2301.03462" target="_blank">preprint</a>
   </p>
   
   <p>
