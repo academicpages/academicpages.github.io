@@ -12,6 +12,11 @@ redirect_from:
 ## Experience
 
 - **Group Lead, Epidemiology** (*previously Computational Epidemiologist*), [Biobot Analytics](https://www.biobot.io/) (2020--)
+    - Served as leading wastewater epidemiology company’s most senior public health subject matter expert
+    - Built and led a team of 5 infectious disease and substance use epidemiologists
+    - Established paradigm for public health content in customer experience and training/technical assistance
+    - Oversaw development of 3 new wastewater data interpretation features
+    - Led drafting of first-ever company Code of Wastewater Monitoring Ethics
     - Developed mathematical model of waster epidemiology's predictive value for Covid-19 activity
     - Established data-driven thresholds of Covid-19 risk based on SARS-CoV-2 wastewater concentrations
 - **Associate Research Scientist** (*previously Postdoctoral Fellow*), Harvard Chan School (2021)
@@ -33,7 +38,7 @@ redirect_from:
     - [Epic Games](https://www.epicgames.com/)
         - Built model of COVID-19 infection and absenteeism among employees
         - Advised on company’s strategic response to COVID-19 pandemic
-- **Scientific Director** (*later consultant*), [OpenBiome](https://www.openbiome.org/) (2019--2021)
+- **Scientific Director** (*later Consultant*), [OpenBiome](https://www.openbiome.org/) (2019--2021)
     - Acted as lead scientist for 70-person gut microbiota therapeutics nonprofit
     - Managed 2 dedicated research staff and multiple cross-departmental staff on internal research projects
     - Charted organization-wide 5-year research goals
@@ -55,6 +60,7 @@ redirect_from:
 
 ## Awards
 
+- Emerging Leaders in Biosecurity Fellowship, Johns Hopkins Center for Health Security (2023)
 - Kocaeli International Travel Award, Harvard Chan School (2017)
     - Funds one-week exchange program with Kocaeli University, Turkey
 - NSF Graduate Research Fellowship (2013--2016)
