@@ -3,7 +3,7 @@ title: "Surface Energy Balance"
 excerpt: "<br/><img src='/images/SEB_kanl_hourly.png'>"
 collection: portfolio
 ---
-This figure was created for a fieldwork report for my master’s degree. It displays the modeled surface energy balance from [COSIPY[]()](https://cryo-tools.org/tools/cosipy/) which was forced by PROMICE automatic weather station data. It shows the different components that contribute to the available melt energy at the glacier surface, which change dramatically over the study period. 
+This figure was created for a fieldwork report for my master’s degree. It displays the modeled surface energy balance from [COSIPY](https://cryo-tools.org/tools/cosipy/) which was forced by PROMICE automatic weather station data. It shows the different components that contribute to the available melt energy at the glacier surface, which change dramatically over the study period. 
 
 ![](/images/SEB_kanl_hourly.png)
 *Figure 1: (a) The SEB at KAN-L AWS modelled by COSIPY, where SW_net, LW_net, H, LE, QR and QG are
