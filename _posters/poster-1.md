@@ -1,8 +1,7 @@
 ---
-title: "TMS targets for multiple sclerosis related depression derived using a precomputed functional connectome
-"
+title: "TMS targets for multiple sclerosis related depression derived using a precomputed functional connectome"
 excerpt: "Deriving TMS targets for MS related depression using the precomputed functional connectome<br/><img src='/images/brainstim-2023.png'>"
-collection: poster
+collection: posters
 ---
 
 Download poster [here](https://thewilliamdrew.github.io/files/brainstim-2023-poster.pdf)
