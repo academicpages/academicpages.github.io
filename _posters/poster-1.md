@@ -5,4 +5,4 @@ excerpt: "Deriving TMS targets for MS related depression using the precomputed f
 collection: poster
 ---
 
-Download poster [here](/files/brainstim-2023-poster.pdf)
+Download poster [here](https://thewilliamdrew.github.io/files/brainstim-2023-poster.pdf)
