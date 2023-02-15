@@ -11,6 +11,11 @@ redirect_from:
 
 ## Experience
 
+- **Senior Quantitative Epidemiologist/Modeler**, Leidos; consulting for [CDC Center for Forecasting & Outbreak Analytics](https://www.cdc.gov/forecast-outbreak-analytics/index.html)
+    - Supported CDC Center for Forecasting & Outbreak Analytics
+    - Cataloged and analyzed models contributing to the Covid-19 Forecast Hub
+    - Developed statistical analysis methods for traveler-based genomic screening data
+    - Led sprint planning and project management for team-wide software refactor project
 - **Group Lead, Epidemiology** (*previously Computational Epidemiologist*), [Biobot Analytics](https://www.biobot.io/) (2020--)
     - Served as leading wastewater epidemiology company’s most senior public health subject matter expert
     - Built and led a team of 5 infectious disease and substance use epidemiologists
