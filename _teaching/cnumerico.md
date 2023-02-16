@@ -55,6 +55,7 @@ Notebooks Jupyter
 Listas de Exercícios
 ========
 * [Lista 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_lista01.pdf)
+* [Lista 02](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/CN_lista02.pdf)
 
 
 Softwares para Download
