@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Mohamad Zamini"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Mohamad Zamini"
+description              : &description "PhD Student"
 url                      : https://mzamini92.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "mzamini92/mzamini92.github.io"
+repository               : "https://mzamini92.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mohamad Zamini, PhD"
   avatar           : "profile.jpg"
-  bio              : "As a PhD student specializing in machine learning and natural language processing, my passion lies in developing efficient algorithms and models that can solve real-world problems. "
+  bio              : "Ph.D. Candidate at Computer science \n University of Wyoming"
   location         : "USA"
   employer         :
   pubmed           : 
