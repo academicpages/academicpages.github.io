@@ -1,6 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Current Project"
+excerpt: "The main goal of knowledge graph reasoning is to enable machines to understand and reason about real-world concepts and relationships. This has important applications in a variety of domains, such as natural language processing, information retrieval, recommendation systems, and scientific discovery. Some common tasks in knowledge graph reasoning include knowledge graph completion (i.e., predicting missing links in the graph), knowledge graph embedding (i.e., learning low-dimensional representations of entities and relationships), and question answering over knowledge graphs.
+Knowledge graph reasoning for question answering over knowledge graphs is a specific application of knowledge graph reasoning that focuses on answering natural language questions using information stored in a knowledge graph. In this task, the goal is to map a natural language question to a query over the knowledge graph, and to retrieve the relevant information to generate an answer.
+One common approach to question answering over knowledge graphs is to use graph-based neural networks, which learn to represent the nodes and edges of the knowledge graph as vectors in a low-dimensional space. These representations can then be used to formulate a query that retrieves the relevant information from the graph.
+In the context of knowledge graph reasoning, the RL agent can be trained to learn to perform a task, such as predicting missing edges in the graph. However, since the state space of a knowledge graph can be very large and the agent may not have prior knowledge of the graph structure, it may be difficult for the agent to explore the entire state space and learn an accurate model.
+To address this challenge, we are implementing a reinforcement learning model which provides an additional reward signal to the RL agent. The idea is to use the module to measure the novelty of the state the agent is currently in, and provide a bonus reward for encountering new states that the agent has not seen before. By doing this, the agent is incentivized to explore new areas of the knowledge graph and thus improve its generalization capabilities.
+<br/><img src='/images/fig1.png'>"
 collection: portfolio
 ---
 
