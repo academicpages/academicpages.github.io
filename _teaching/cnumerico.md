@@ -52,6 +52,9 @@ Notebooks Jupyter
 * [01/02/2023](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/Calculo_Numerico_01.ipynb)
 * [08/02/2023](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/aula_julia.ipynb)
 
+Arquivos jl (usados no laboratório)
+[ordena.jl](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/ordena.jl)  [par.jl](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/par.jl)  [primo.jl](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/primo.jl)
+
 Listas de Exercícios
 ========
 * [Lista 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_lista01.pdf)
