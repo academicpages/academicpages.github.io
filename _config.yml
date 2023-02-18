@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ZongyeZhang / Zongye's Homepage"
+title                    : "ZongyeZhang"
 title_separator          : "-"
 name                     : &name "Zongye Zhang"
 description              : &description "personal description"
