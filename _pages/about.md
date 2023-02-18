@@ -36,13 +36,13 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
   <summary>Show more</summary>
   <ul>
     <li>
-    [2021.11] I am joining [Facebook AI Research (FAIR)](https://ai.facebook.com/) as a research intern next May.
+    [2021.11] I am joining <a href="https://ai.facebook.com/"> Facebook AI Research (FAIR)</a> as a research intern next May.
     </li>
     <li>
-    [2021.08] I finished my 3-month research internship at [Amazon Robotics](https://www.amazon.jobs/en/teams/amazon-robotics). 
+    [2021.08] I finished my 3-month research internship at <a href="https://www.amazon.jobs/en/teams/amazon-robotics"> Amazon Robotics</a>. 
     </li>
     <li>
-    [2021.04] Our team won the 7th place out of 50 teams and received a $1,000 prize in [Terminal Live (West Coast Regional)](https://terminal.c1games.com/competitions/237), which is a games-based AI & coding competition hosted by [Citadel LLC](https://www.citadel.com/) and [Citadel Securities](https://www.citadelsecurities.com/). 
+    [2021.04] Our team won the 7th place out of 50 teams and received a $1,000 prize in <a href="https://terminal.c1games.com/competitions/237"> Terminal Live (West Coast Regional)</a>, which is a games-based AI & coding competition hosted by <a href="https://www.citadel.com/"> Citadel LLC</a> and <a href="https://www.citadelsecurities.com/"> Citadel Securities]</a>. 
     </li>
     <li>
     [2021.04] I won a Second Prize of $500 at [the Thirteenth Annual Annenberg Graduate Fellowship Research and Creative Project Symposium](https://ahf.usc.edu/events/scymposium/). I will be presenting my work on "How and When to Follow Tips: Using Game Theory for Multi-Agent Communication and Coordination in Wildlife Conservation".
