@@ -73,10 +73,10 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
        [2020.05] A [virtual talk](https://underline.io/lecture/211-green-security-game-with-community-engagement) at [AAMAS 2020](https://aamas2020.conference.auckland.ac.nz/).
     </li>
     <li>
-      [2020.05] A paper accepted to [COMPASS 2020](https://acmcompass.org/day-4).
+      [2020.05] A paper accepted to <a href="https://acmcompass.org/day-4"> COMPASS 2020</a>.
     </li>
     <li>
-      [2020.04] A paper accepted to [IJCAI 2020](https://www.ijcai20.org/).
+      [2020.04] A paper accepted to <a href="https://www.ijcai20.org/"> IJCAI 2020]</a>.
     </li>
     <li>
       [2020.03] A talk at Harvard CRCS Workshop on AI for Social Impact.
