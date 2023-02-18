@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /about.md
 ---
 
 I’m a PhD Student (4th year) at UCSD Computer Science with a specialization in Data Mining, advised by <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a> and <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a>. I am grateful to Qualcomm and Halıcıoğlu Data Science Institute for their fellowship to support my research.
