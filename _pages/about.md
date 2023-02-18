@@ -12,7 +12,7 @@ I am a Ph.D. candidate in [Computer Science at University of Southern California
 
 In 2019, I received my B.E. in computer science from [Yao Class](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University.
 
-In May-December 2022, I was a research scientist intern at [FAIR, Meta AI](https://ai.facebook.com/), where I worked closely with [Benoit Steiner](http://bsteiner.info/) and [Yuandong Tian](https://yuandong-tian.com/). 
+In May-December 2022, I was a research scientist intern at [Meta AI, FAIR](https://ai.facebook.com/), where I worked closely with [Benoit Steiner](http://bsteiner.info/) and [Yuandong Tian](https://yuandong-tian.com/). 
 In Summer 2021, I was a research scientist intern at Amazon Robotics where I worked with [Vikas Shivashankar](https://sites.google.com/site/vikshiv1987/).
 In Spring 2018, I was a research intern at Carneige Mellon University advised by Professor [Fei Fang](https://feifang.info/).
 In Summer 2018, I was a research intern at The University of Hong Kong advised by Professor [Zhiyi Huang](https://i.cs.hku.hk/~zhiyi/).
@@ -22,22 +22,35 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
 [CV](https://taoanhuang.github.io/files/TaoanHuangCV.pdf)
 
 ## News
-* \[2022.08\] I started a new position as a student researcher at [FAIR, Meta AI](https://ai.facebook.com/).
+* \[2022.08\] I started a new position as a student researcher at [Meta AI, FAIR](https://ai.facebook.com/).
 * \[2022.07\] I presented my work with Amazon Robotics on [Deadline Aware Multi-Agent Tour Planning](https://hsi-workshop.github.io/hsi-2022-camera-ready/Deadline-Aware_Multi-Agent_Tour_Planning.pdf) at [HSI Workshop 2022 (in conjunction with IJCAI-ECAI 2022)](https://hsi-workshop.github.io/program.html).
 * \[2022.05\] Undergrad student Shuyang Zhang, that I co-advised with [Jiaoyang Li](https://jiaoyangli.me/), won the USC Outstanding CS Undergraduate Research Award. We published a paper at SoCS-22 on learning priority orders for agents in path planning. 
 * \[2022.04\] My research on Enhancing Seismic Resilient Water Pipe Network is selected for oral presentation at the Fourteenth Annual Annenberg Graduate Fellowship Research and Creative Project Symposium. Only six submissions were selected!
 * \[2022.03\] I passed the Qualification Exam and now I am a Ph.D. candidate!
 * \[2021.12\] Our paper on ML-guided large neighborhood search for MAPF is accepted to [AAAI 2022](https://aaai.org/Conferences/AAAI-22/).
-* \[2021.11\] I am joining [Facebook AI Research (FAIR)](https://ai.facebook.com/) as a research intern next May.
-* \[2021.08\] I finished my 3-month research internship at [Amazon Robotics](https://www.amazon.jobs/en/teams/amazon-robotics). 
-* \[2021.04\] Our team won the 7th place out of 50 teams and received a $1,000 prize in [Terminal Live (West Coast Regional)](https://terminal.c1games.com/competitions/237), which is a games-based AI & coding competition hosted by [Citadel LLC](https://www.citadel.com/) and [Citadel Securities](https://www.citadelsecurities.com/). 
-* \[2021.04\] I won a Second Prize of $500 at [the Thirteenth Annual Annenberg Graduate Fellowship Research and Creative Project Symposium](https://ahf.usc.edu/events/scymposium/). I will be presenting my work on "How and When to Follow Tips: Using Game Theory for Multi-Agent Communication and Coordination in Wildlife Conservation".
-* \[2021.02\] A [virtual talk](https://slideslive.com/embed/presentation/38948038?url=https%3A%2F%2Fvirtual.2021.aaai.org%2Fpaper_AAAI-1869.html&origin=https%3A%2F%2Fvirtual.2021.aaai.org&target_id=presentation-embed&auto_play=&zoom_ratio=&disable_fullscreen=&locale=en&demo=&vertical_enabled=true&vertical_enabled_on_mobile=&vertical_when_width_lte=500&allow_hidden_controls_when_paused=true&debug_slideslive_player=&user_uuid=2eeb9c93-3010-492d-8f6e-55deb5b32d4c)(drag this link to a new tab for it to work properly) at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
-* \[2021.01\] A virtual talk at [IJCAI-20 Workshop on Multi-Agent Path Finding](http://idm-lab.org/wiki/IJCAI20-MAPF/).
+
 
 <details>
   <summary>Show more</summary>
   <ul>
+    <li>
+    [2021.11] I am joining [Facebook AI Research (FAIR)](https://ai.facebook.com/) as a research intern next May.
+    </li>
+    <li>
+    [2021.08] I finished my 3-month research internship at [Amazon Robotics](https://www.amazon.jobs/en/teams/amazon-robotics). 
+    </li>
+    <li>
+    [2021.04] Our team won the 7th place out of 50 teams and received a $1,000 prize in [Terminal Live (West Coast Regional)](https://terminal.c1games.com/competitions/237), which is a games-based AI & coding competition hosted by [Citadel LLC](https://www.citadel.com/) and [Citadel Securities](https://www.citadelsecurities.com/). 
+    </li>
+    <li>
+    [2021.04] I won a Second Prize of $500 at [the Thirteenth Annual Annenberg Graduate Fellowship Research and Creative Project Symposium](https://ahf.usc.edu/events/scymposium/). I will be presenting my work on "How and When to Follow Tips: Using Game Theory for Multi-Agent Communication and Coordination in Wildlife Conservation".
+     </li>
+    <li>
+      [2021.02] A [virtual talk](https://slideslive.com/embed/presentation/38948038?url=https%3A%2F%2Fvirtual.2021.aaai.org%2Fpaper_AAAI-1869.html&origin=https%3A%2F%2Fvirtual.2021.aaai.org&target_id=presentation-embed&auto_play=&zoom_ratio=&disable_fullscreen=&locale=en&demo=&vertical_enabled=true&vertical_enabled_on_mobile=&vertical_when_width_lte=500&allow_hidden_controls_when_paused=true&debug_slideslive_player=&user_uuid=2eeb9c93-3010-492d-8f6e-55deb5b32d4c)(drag this link to a new tab for it to work properly) at [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
+     </li>
+    <li>
+      [2021.01] A virtual talk at [IJCAI-20 Workshop on Multi-Agent Path Finding](http://idm-lab.org/wiki/IJCAI20-MAPF/).
+     </li>
     <li>
       [2020.12] A paper accepted to [AAMAS 2021](https://aamas2021.soton.ac.uk/).
      </li>
