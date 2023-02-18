@@ -1,0 +1,126 @@
+---
+title: "Lab1-System Setup Tutorial"
+author: "Yongjun Zhang, Ph.D."
+institute: "Department of Sociology and IACS, Stony Brook Unversity"
+date: '2023-01-20'
+output:
+  rmdformats::readthedown:
+    highlight: pygments
+--- = =
+---
+
+```{=html}
+<style type="text/css">
+p{ /* Normal  */
+   font-size: 18px;
+}
+body{ /* Normal  */
+   font-size: 18px;
+}
+td {  /* Table  */
+   font-size: 14px;
+}
+h1 { /* Header 1 */
+ font-size: 32px;
+}
+h2 { /* Header 2 */
+ font-size: 26px;
+}
+h3 { /* Header 3 */
+ font-size: 22px;
+}
+code.r{ /* Code block */
+  font-size: 14px;
+}
+pre { /* Code block */
+  font-size: 14px
+}
+</style>
+```
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,eval = FALSE)
+```
+Welcome to `R for Data Analytics and Visualization` Lab training session. You can get access to this tutorial via <https://yongjunzhang.com/files/rviz/Lab1-Tutorial.html>. You get the RMarkdown file [here](https://yongjunzhang.com/files/rviz/Lab1-Tutorial.Rmd).
+
+This tutorial aims to help students set up their computer system to meet necessary lab training requirements. It includes basic steps to install Git, Github, R, Rstudio (Posit), vscode, etc. You can choose the appropriate ones you need.
+
+If you don't want to install anything on your computer, you can use posit.cloud (R). But I strongly suggest that you install them because you want to have more experience.
+
+## Install Homebrew on Mac
+
+Homebrew <https://brew.sh/> is the missing package manager for macOS (or Linux). So it installs software you need that Apple (or your Linux system) didn't have.
+
+To install, paste the following code in the quote in a macOS Terminal or Linux shell prompt.
+If you don't know terminal, you can do spotlight search and type terminal to open it...
+
+```{bash}
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+```
+You can check here <https://brew.sh/> for more details. If you use windows system, just skip this.
+
+## Then Use Homebrew to Install Git on Mac
+
+Git is one of the most popular version control system and you can use it with your github.com repository as well as RStudio.
+
+Copy and paste the following code into your terminal window and hit Return.
+```{bash}
+brew install git
+```
+Note that you can also use homebrew to install other software you need using similar commands. For more details on brew commands, you can check here <https://docs.brew.sh/Manpage>.
+
+## If you use Windows System, you need to download Git first and then install Git on Windows
+
+You can download GIT here <https://gitforwindows.org/>
+
+## After you have successfully installed GIT, you need to MAKE some basic configurations.
+Here is the GIT cheat sheet <https://github.github.com/training-kit/downloads/github-git-cheat-sheet/>
+Usually you need to set up your global name and email address (usually your github account).
+
+Check here to sign up for a free github account <https://github.com/join>.
+Check here to see why you need GITHUB <https://github.com/features>.
+
+## Another way to use GIT is via GITHUB desktop.
+
+You can check here <https://docs.github.com/en/desktop/getting-started-with-github-desktop/setting-up-github-desktop> to download and install GITHUB DESKTOP. But you have to set up your account and Install GIT first.
+
+## Install R and Rstudio
+
+Of course, you can use homebrew to install R on MAC. But let us do it from scratch. 
+
+Before Installing Rstudio, you need to Install R. You can download R and other necessary software by clicking here <https://cran.r-project.org/>. You can choose the appropriate version for your system (e.g., windows, Mac). Be careful to follow its installing instruction, especially regarding those necessary software like xquartz.
+
+After this step, please go to RStudio website to download and install RStudio desktop. You can click here <https://posit.co/download/rstudio-desktop/> and choose the free version. 
+
+Then, you can use install.packages function to install necessary R packages. But I suggest you to copy and paste following code to install some common packages for data processing and visualization. You can add any packages you want to install by defining the "packages" variable.
+
+```{r}
+if (!requireNamespace("pacman"))
+  install.packages('pacman')
+library(pacman)
+packages<-c("tidyverse",
+            "tidytext",
+            "rvest",
+            "RSelenium",
+            "stm",
+            "tm",
+            "tidytext",
+            "janitor",
+            "quanteda",
+            "topicmodels",
+            "caret",
+            "plotly",
+            "haven",
+            "ggrepel", 
+            "readxl",
+            "lubridate",
+            "stringdist",
+            "tensorflow",
+            "keras",
+            "torch",
+            "torchvision")
+p_load(packages,character.only = TRUE)
+```
+
+
