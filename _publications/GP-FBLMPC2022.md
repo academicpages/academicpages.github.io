@@ -6,7 +6,7 @@ date: 2023-01-31
 venue: 'Journal of Field Robotics'
 ---
 
-[[Paper]](http://jiewang.name/publications/GP-FBLMPC2022/)
+[[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/rob.22165)
 [[Videos]](https://youtu.be/tC09jJQ0OXM)
 <!-- [[software]](https://github.com/jwangjie/Fine-tune-YOLOv3)
 [[Dataset]](https://github.com/jwangjie/UAV-Vehicle-Detection-Dataset) -->
