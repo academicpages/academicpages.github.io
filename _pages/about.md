@@ -64,10 +64,10 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
       [2020.11] A virtual talk at INFORMS 2020 session "Machine Learning and Discrete Optimization".
     </li>
     <li>
-      [2020.07] A virtual talk at <a href="https://crcs.seas.harvard.edu/event/ai-social-good-workshop-2020" 2020 Harvard CRCS AI for Social Good Workshop</a>.
+      [2020.07] A virtual talk at <a href="https://crcs.seas.harvard.edu/event/ai-social-good-workshop-2020"> 2020 Harvard CRCS AI for Social Good Workshop</a>.
     </li>
     <li>
-      [2020.06] A <a href="https://www.youtube.com/watch?v=Y0GbB7aEIaM" virtual talk</a> at <a href="https://acmcompass.org/day-4"> COMPASS 2020</a>.
+      [2020.06] A <a href="https://www.youtube.com/watch?v=Y0GbB7aEIaM"> virtual talk</a> at <a href="https://acmcompass.org/day-4"> COMPASS 2020</a>.
     </li>
     <li>
        [2020.05] A <a href="https://underline.io/lecture/211-green-security-game-with-community-engagement"> virtual talk</a> at <a href="https://aamas2020.conference.auckland.ac.nz/"> AAMAS 2020</a>.
