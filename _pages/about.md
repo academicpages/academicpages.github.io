@@ -68,7 +68,7 @@ Yongjun Zhang, Siwei Cheng, Zhi Li, and Wenhao Jiang. 2023. "[Human  mobility pa
 
 Yongjun Zhang and Siwei Cheng. 2023. "[Mobility-based Segregation in U.S. Metropolitan Areas](https://yongjunzhang.com/files/nb_seg.pdf)."
 
-Yongjun Zhang and Jennifer Heerwig. 2023. "[Gender, Race, and Intersectionality in the Political Donations of America's Corporate Elite]()".
+Yongjun Zhang and Jennifer Heerwig. 2023. "[Gender, Race, and Intersectionality in the Political Donations of America's Corporate Elite](https://yongjunzhang.com/files/cf-paper.pdf)".
 
 Yongjun Zhang, Sijia Liu, Yi Wang, and Xinguang Fan. 2022. ''[Detecting Fake News on Twitter in the Chinese Language Community](https://yongjunzhang.com/files/Fake_News.pdf)."
 
