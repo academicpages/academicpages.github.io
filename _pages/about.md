@@ -48,7 +48,7 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
     [2021.04] I won a Second Prize of $500 at <a href="https://ahf.usc.edu/events/scymposium/"> the Thirteenth Annual Annenberg Graduate Fellowship Research and Creative Project Symposium</a>. I will be presenting my work on "How and When to Follow Tips: Using Game Theory for Multi-Agent Communication and Coordination in Wildlife Conservation".
      </li>
     <li>
-      [2020.12] A paper accepted to [AAMAS 2021](https://aamas2021.soton.ac.uk/).
+      [2020.12] A paper accepted to <a href="https://aamas2021.soton.ac.uk/"> AAMAS 2021</a>.
      </li>
     <li> [2020.12] A <a href="https://slideslive.com/38942858/learning-to-select-nodes-in-bounded-suboptimal-conflictbased-search-for-multiagent-path-finding"> virtual talk</a> at <a href="https://sites.google.com/view/lmca2020/home"> Learning Meets Combinatorial Algorithms Workshop at NeurIPS 2020</a>.
     </li>
