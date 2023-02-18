@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Ranak's Homepage!"
+title: "Welcome to Ranak Homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
