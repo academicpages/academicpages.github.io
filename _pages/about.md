@@ -56,9 +56,9 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
     <li>
       [2020.12] A paper accepted to [AAMAS 2021](https://aamas2021.soton.ac.uk/).
      </li>
-    <li> [2020.12] A [virtual talk](https://slideslive.com/38942858/learning-to-select-nodes-in-bounded-suboptimal-conflictbased-search-for-multiagent-path-finding) at [Learning Meets Combinatorial Algorithms Workshop at NeurIPS 2020](https://sites.google.com/view/lmca2020/home).
+    <li> [2020.12] A <a href="https://slideslive.com/38942858/learning-to-select-nodes-in-bounded-suboptimal-conflictbased-search-for-multiagent-path-finding"> virtual talk</a> at <a href="https://sites.google.com/view/lmca2020/home"> Learning Meets Combinatorial Algorithms Workshop at NeurIPS 2020</a>.
     </li>
-      [2020.12] A paper accepted to <a href="https://aaai.org/Conferences/AAAI-21/" AAAI 2021</a>.
+      [2020.12] A paper accepted to <a href="https://aaai.org/Conferences/AAAI-21/"> AAAI 2021</a>.
      </li>
     <li>
       [2020.11] A virtual talk at INFORMS 2020 session "Machine Learning and Discrete Optimization".
