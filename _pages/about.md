@@ -70,7 +70,7 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
       [2020.06] A <a href="https://www.youtube.com/watch?v=Y0GbB7aEIaM" virtual talk</a> at <a href="https://acmcompass.org/day-4"> COMPASS 2020</a>.
     </li>
     <li>
-       [2020.05] A <a href="https://underline.io/lecture/211-green-security-game-with-community-engagement" virtual talk</a> at <a href="https://aamas2020.conference.auckland.ac.nz/"> AAMAS 2020</a>.
+       [2020.05] A <a href="https://underline.io/lecture/211-green-security-game-with-community-engagement"> virtual talk</a> at <a href="https://aamas2020.conference.auckland.ac.nz/"> AAMAS 2020</a>.
     </li>
     <li>
       [2020.05] A paper accepted to <a href="https://acmcompass.org/day-4"> COMPASS 2020</a>.
