@@ -64,3 +64,16 @@ My projects focus on self-supervised learning to build data-efficient and robust
 [October 2018] Defended my thesis on <a href="https://drive.google.com/file/d/16Sy0VkMstIVt5NQkrUiRKDICIG7rbLDM/view?usp=sharing" target="_blank">Real Time Principal Component Analysis</a>!
 
 -->
+
+
+
+<div id="skills">
+<h1>Skills</h1>
+	
+<div>
+	Python, C, C++, Java, Matlab, SQL, PostgreSQL, Linux, Git, PyTorch, Keras, Tensorflow, NumPy, pandas, SciPy,
+Matplotlib, Seaborn, scikit-learn, statsmodels, sktime, tslearn, torchdyn, Pillow, OpenCV, NLTK, CoreNLP, Gensim, spaCy.
+</div>
+  
+  
+  
