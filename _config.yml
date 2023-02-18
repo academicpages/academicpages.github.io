@@ -86,7 +86,7 @@ author:
   location         : "Beijing/China"
   employer         :
   pubmed           :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    :
   email            : "zhangzongye@buaa.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
