@@ -27,9 +27,9 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 <h1>Latest News</h1>
 
-[February 2023] <a href="https://drive.google.com/file/d/1ajK8JvE9WoyWriN-rorjqFyAvqUoW4fg/view?usp=sharing" target="_blank">Towards Diverse and Coherent Augmentation for Time-Series Forecasting</a> has been accepted to ICASSP '23.
+[February 2023] <a href="https://drive.google.com/file/d/1ajK8JvE9WoyWriN-rorjqFyAvqUoW4fg/view?usp=sharing" target="_blank">Towards Diverse and Coherent Augmentation for Time-Series Forecasting</a> has been accepted to <b>ICASSP</b> '23.
 
-[November 2022] <a href="https://drive.google.com/file/d/1FSy9F_qO-eaNhKYWbCwpBCogC1ZNo8nd/view?usp=sharing" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a> has been accepted to AAAI '23.
+[November 2022] <a href="https://drive.google.com/file/d/1FSy9F_qO-eaNhKYWbCwpBCogC1ZNo8nd/view?usp=sharing" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a> has been accepted to <b>AAAI</b> '23.
 
 [August 2022] Won the <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm Innovation Fellowship 2023</a> for our proposal on "Robust Machine Learning in IoT Devices"!
 
@@ -39,11 +39,11 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 [June 2022] Presented my Research Exam on <a href="https://drive.google.com/file/d/1-mcb_nuEN8jZE4I5gXwLXdudRiLj_8Sz/view?usp=sharing" target="_blank">Learning Across Irregular and Asynchronous Time Series</a>.
 
-[May 2022] <a href="https://dl.acm.org/doi/10.1145/3534678.3539329" target="_blank">TARNet: Task-Aware Reconstruction for Time-Series Transformer</a> has been accepted to KDD '22.
+[May 2022] <a href="https://dl.acm.org/doi/10.1145/3534678.3539329" target="_blank">TARNet: Task-Aware Reconstruction for Time-Series Transformer</a> has been accepted to <b>SIGKDD</b> '22.
 
-[October 2021] <a href="https://dl.acm.org/doi/abs/10.1145/3488560.3498461" target="_blank">ESC-GAN: Extending Spatial Coverage of Physical Sensors</a> has been accepted to WSDM '22.
+[October 2021] <a href="https://dl.acm.org/doi/abs/10.1145/3488560.3498461" target="_blank">ESC-GAN: Extending Spatial Coverage of Physical Sensors</a> has been accepted to <b>WSDM</b> '22.
 
-[September 2021] <a href="https://dl.acm.org/doi/10.1145/3485730.3485942" target="_blank">UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification</a> has been accepted to SenSys '21. 
+[September 2021] <a href="https://dl.acm.org/doi/10.1145/3485730.3485942" target="_blank">UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification</a> has been accepted to <b>SenSys</b> '21. 
 
 <!--
 
