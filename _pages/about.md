@@ -48,12 +48,6 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
     [2021.04] I won a Second Prize of $500 at <a href="https://ahf.usc.edu/events/scymposium/"> the Thirteenth Annual Annenberg Graduate Fellowship Research and Creative Project Symposium</a>. I will be presenting my work on "How and When to Follow Tips: Using Game Theory for Multi-Agent Communication and Coordination in Wildlife Conservation".
      </li>
     <li>
-      [2021.02] A <a href="https://slideslive.com/embed/presentation/38948038?url=https%3A%2F%2Fvirtual.2021.aaai.org%2Fpaper_AAAI-1869.html&origin=https%3A%2F%2Fvirtual.2021.aaai.org&target_id=presentation-embed&auto_play=&zoom_ratio=&disable_fullscreen=&locale=en&demo=&vertical_enabled=true&vertical_enabled_on_mobile=&vertical_when_width_lte=500&allow_hidden_controls_when_paused=true&debug_slideslive_player=&user_uuid=2eeb9c93-3010-492d-8f6e-55deb5b32d4c"> virtual talk</a>(drag this link to a new tab for it to work properly) at <a href="https://aaai.org/Conferences/AAAI-21/"> AAAI 2021</a>.
-     </li>
-    <li>
-      [2021.01] A virtual talk at [IJCAI-20 Workshop on Multi-Agent Path Finding](http://idm-lab.org/wiki/IJCAI20-MAPF/).
-     </li>
-    <li>
       [2020.12] A paper accepted to [AAMAS 2021](https://aamas2021.soton.ac.uk/).
      </li>
     <li> [2020.12] A <a href="https://slideslive.com/38942858/learning-to-select-nodes-in-bounded-suboptimal-conflictbased-search-for-multiagent-path-finding"> virtual talk</a> at <a href="https://sites.google.com/view/lmca2020/home"> Learning Meets Combinatorial Algorithms Workshop at NeurIPS 2020</a>.
