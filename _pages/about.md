@@ -22,7 +22,7 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
 [CV](https://taoanhuang.github.io/files/TaoanHuangCV.pdf)
 
 ## News
-* \[2023.02\] Our paper with Amazon Robotics on solving large scale planning problems in automated warehouses is accepted to [ICAPS-2023](https://icaps23.icaps-conference.org/). I also presented this work at [AAAI-23 Workshop on Multi-Agent Path Finding](http://idm-lab.org/wiki/AAAI23-MAPF/index.php/Main/HomePage).
+* \[2023.02\] Our paper with Amazon Robotics on solving large scale planning problems in automated warehouses is accepted to [ICAPS-2023](https://icaps23.icaps-conference.org/). I also presented this [work](http://idm-lab.org/wiki/AAAI23-MAPF/index.php/Main/HomePage?action=download&upname=Paper_12.pdf) at [AAAI-23 Workshop on Multi-Agent Path Finding](http://idm-lab.org/wiki/AAAI23-MAPF/index.php/Main/HomePage).
 * \[2023.01\] [Our paper](https://arxiv.org/pdf/2212.08183.pdf) with [Facebook AI Research](https://ai.facebook.com/) on applying large neighborhood search to solve integer linear programs is accepted to [CPAIOR-2023](https://sites.google.com/view/cpaior2023/home). We discovered a simple yet effective destroy heuristic based on the LP relaxation of Local Branching. 
 * \[2022.08\] I started a new position as a student researcher at [Meta AI, FAIR](https://ai.facebook.com/).
 * \[2022.07\] I presented my work with Amazon Robotics on [Deadline Aware Multi-Agent Tour Planning](https://hsi-workshop.github.io/hsi-2022-camera-ready/Deadline-Aware_Multi-Agent_Tour_Planning.pdf) at [HSI Workshop 2022 (in conjunction with IJCAI-ECAI 2022)](https://hsi-workshop.github.io/program.html).
