@@ -58,25 +58,25 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
      </li>
     <li> [2020.12] A [virtual talk](https://slideslive.com/38942858/learning-to-select-nodes-in-bounded-suboptimal-conflictbased-search-for-multiagent-path-finding) at [Learning Meets Combinatorial Algorithms Workshop at NeurIPS 2020](https://sites.google.com/view/lmca2020/home).
     </li>
-      [2020.12] A paper accepted to [AAAI 2021](https://aaai.org/Conferences/AAAI-21/).
+      [2020.12] A paper accepted to <a href="https://aaai.org/Conferences/AAAI-21/" AAAI 2021</a>.
      </li>
     <li>
       [2020.11] A virtual talk at INFORMS 2020 session "Machine Learning and Discrete Optimization".
     </li>
     <li>
-      [2020.07] A virtual talk at [2020 Harvard CRCS AI for Social Good Workshop](https://crcs.seas.harvard.edu/event/ai-social-good-workshop-2020).
+      [2020.07] A virtual talk at <a href="https://crcs.seas.harvard.edu/event/ai-social-good-workshop-2020" 2020 Harvard CRCS AI for Social Good Workshop</a>.
     </li>
     <li>
-      [2020.06] A [virtual talk](https://www.youtube.com/watch?v=Y0GbB7aEIaM) at [COMPASS 2020](https://acmcompass.org/day-4).
+      [2020.06] A <a href="https://www.youtube.com/watch?v=Y0GbB7aEIaM" virtual talk</a> at <a href="https://acmcompass.org/day-4"> COMPASS 2020</a>.
     </li>
     <li>
-       [2020.05] A [virtual talk](https://underline.io/lecture/211-green-security-game-with-community-engagement) at [AAMAS 2020](https://aamas2020.conference.auckland.ac.nz/).
+       [2020.05] A <a href="https://underline.io/lecture/211-green-security-game-with-community-engagement" virtual talk</a> at <a href="https://aamas2020.conference.auckland.ac.nz/"> AAMAS 2020</a>.
     </li>
     <li>
       [2020.05] A paper accepted to <a href="https://acmcompass.org/day-4"> COMPASS 2020</a>.
     </li>
     <li>
-      [2020.04] A paper accepted to <a href="https://www.ijcai20.org/"> IJCAI 2020]</a>.
+      [2020.04] A paper accepted to <a href="https://www.ijcai20.org/"> IJCAI 2020</a>.
     </li>
     <li>
       [2020.03] A talk at Harvard CRCS Workshop on AI for Social Impact.
