@@ -501,5 +501,5 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 	
 <div>
 	Python, C, C++, Java, Matlab, SQL, PostgreSQL, Linux, Git, PyTorch, Keras, Tensorflow, NumPy, pandas, SciPy,
-Matplotlib, Seaborn, scikit-learn, statsmodels, sktime, tslearn, torchdyn, Pillow, OpenCV, NLTK, CoreNLP, Gensim, spaCy.
+Matplotlib, Seaborn, scikit-learn, statsmodels, sktime, tslearn, torchdyn, Pillow, OpenCV, NLTK, CoreNLP, spaCy.
 </div>
