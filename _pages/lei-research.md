@@ -8,14 +8,110 @@ author_profile: true
 
 Models can self-consistently generate a variety of trench retreat rate and induce different extent of extension within a homogeneous and mobile overriding plate. This is achieved by verying merely the age/thickness of the subducting slab and overriding plate under a well-tested rheology setup.
 
-![zhibinlei-SSS-thermal_state.png](/images/zhibinlei-SSS-thermal_state.png)
-Comparison of thermal state for models with increasing trench retreat rate.
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
 
-![zhibinlei-SSS-velocity_filter.png](/images/zhibinlei-SSS-velocity_filter.png)
-Comparison of horizontal & vertical velocity component for models with increasing trench retreat rate, suggesting that non-uniform basal drag accounts for the rifting and spreading back-arc area.
+.mySlides {
+  display: none;
+  width: 100%;
+  height: auto;
+}
 
-![zhibinlei-SSS-contribution.png](/images/zhibinlei-SSS-contribution.png)
-Contribution of this work relative to previous work.
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+</style>
+</head>
+<body>
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <img src="/images/zhibinlei-SSS-thermal_state.png" style="width:100%">
+</div>
+
+<div class="mySlides fade">
+  <img src="/images/zhibinlei-SSS-velocity_filter.png" style="width:100%">
+</div>
+
+<div class="mySlides fade">
+  <img src="/images/zhibinlei-SSS-contribution.png" style="width:100%">
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  slides[slideIndex-1].style.display = "block";
+}
+</script>
+
+</body>
+</html>
 
 ## Dual inward dipping subduction (DIDS) & progressive weakening within the overriding plate
 
