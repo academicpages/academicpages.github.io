@@ -17,7 +17,7 @@ redirect_from:
   *Ph.D. Student, Environmental Engineering* \
   August 01, 2022 --
 
-  - Working with Professor Tina Chow to develop data assimilation applications for high-resolution wildfire smoke models.
+  - Currently, I am a Ph.D. working with Professor Tina Chow to develop data assimilation applications for high-resolution wildfire smoke models.
 
 &nbsp;
 
@@ -51,14 +51,6 @@ redirect_from:
 
   - Performed statistical analysis of sedimentation budgets for San Francisco Bay. Organized fieldwork in San Francisco Bay and calibrated/operated various instruments, including ADVs, ADCPs, RBRs, and thermistors.
   - Supervisors: Oliver Fringer and Joe Adelson
-
-
-
-
-
-
-
-
 
 
 

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "this is siennas website"
+title: "Hi! Welcome to my website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,16 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-
-![Here is what I look like](/images/headshot.jpeg) 
-
-Hi! I am a Ph.D. student at UC Berkeley, working with Professor [Tina Chow](https://chow.ce.berkeley.edu/) on data assimilation for smoke modeling. I'm interested in environmental fluid mechanics, computational fluid modeling, estuarine physics, sediment dynamics ....  benthic grazers ... etc. 
+Hi there! My name is Sienna White and I am a Ph.D. student at UC Berkeley, working with Professor [Tina Chow](https://chow.ce.berkeley.edu/) on data assimilation for smoke modeling. I'm interested in environmental fluid mechanics, computational fluid modeling, estuarine physics, sediment dynamics ....  benthic grazers ... etc. 
 
 Before I started my PhD at Berkeley, I worked for two years at the San Francisco Estuary Institute on the Clean Water team under Dr. David Senn. At SFEI, I used computational models to study nutrient cycling and primary productivity in the Bay Area. We ran our hydrodynamic model using DFlow-FM and our biogeochemical module was coupled offline using Delft Water Quality (DELWAQ). Our work is publicly available here and here, but it's ocassinally hard to find, so please reach out if you have any questions or want to learn more -- our work is open source and I'm happy to talk about San Francisco Bay dynamics truly anytime ! 
 
 
+![Here is what I look like](/images/headshot.jpeg) 
 
-Does this work This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
 
 A data-driven personal website
 ======
