@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Test blog"
+title                    : "Cale of two cities"
 title_separator          : "-"
 name                     : &name "Cale Harrison"
 description              : &description "This is a test description !"
