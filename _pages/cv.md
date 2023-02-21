@@ -52,6 +52,101 @@ redirect_from:
   - Performed statistical analysis of sedimentation budgets for San Francisco Bay. Organized fieldwork in San Francisco Bay and calibrated/operated various instruments, including ADVs, ADCPs, RBRs, and thermistors.
   - Supervisors: Oliver Fringer and Joe Adelson
 
+## Education
+
+**Stanford University**, Stanford, California  
+*September 2015 -- June 2019*
+
+- B.S. with Honors in Environmental Engineering
+
+  - Focus: environmental fluid mechanics, computational fluid dynamics, sustainability, mathematics
+  
+  - Completed over six masters courses in the environmental fluid mechanics masters track
+  
+  - Thesis: A Numerical Model for Sediment Flux and Floccation in San Francisco Bay. Ran a coupled hydrodynamic + sediment model (DFlow-FM + DELWAQ) to calculate sediment transport pathways and budgets in South San Francisco Bay.
+
+
+## Skills
+
+Python (incl. geospatial analysis packages), MATLAB, QGIS, numerical hydraulic modelling (incl. DFlow-FM, DELWAQ), LINUX/UNIX systems, GIT/version control, UAV pilot license, technical + long-form writing
+
+
+## Publications & Presentations
+
+### Technical Reports
+
+- ::S.R. White::, P. Mugunthan, A.T. King, F. Karimpour, T.E.C. Kraus, E.B. Stumpner, B.A. Bergamaschi, D.B. Senn. "Delta-Suisun Biogeochemical Model: Calibration and Validation (WY2016, WY2011)." San Francisco Estuary Institute. Richmond, CA. September 2021.
+
+- ::S.R. White::, A. King, F. Karimpour, P. Mugunthan, D. Senn. "Nutrients in the Northern San Francisco Estuary: Transport, Cycling, and Forecasted Changes after Nutrient Load Reductions." San Francisco Estuary Institute. Richmond, CA. March 2021.
+
+- F. Karimpour, ::S.R. White::, A. King, P. Mugunthan, D. Senn. "Delta Biogeochemical Model WY2016: Progress Update." San Francisco Estuary Institute. Richmond, CA. December 2019.
+
+### Conferences
+
+-::S.R. White::, A. Blom, "Quantifying sediment transport and associated bed elevation change over the fixed layers at Nijmegen and St. Andries," in *Netherland Centre for River Studies 2020*, Nijmegen, the Netherlands, February 2020.
+
+- ::S.R. White::, O.B. Fringer, "Using D-Water Quality and D-Flow FM to model cohesive sediment transport in San Francisco Bay," in *Delta Science and Software Days 2019*, Deltares, Delft, the Netherlands, November 2019.
+
+- ::S.R. White::, O.B. Fringer, "Estimating a Sediment Budget in South San Francisco Bay from limited streamflow data," in *Ocean Sciences 2018*, Portland, Oregon, USA, January 2018.
+
+### Other
+
+- ::Sienna White::, "The Hoverflies are Props: Notes on Fredrik Sjöberg’s Memoir." *Anthroposphere: the Oxford Climate Review*, November 2019.
+
+## Awards & Scholarships
+
+- **Firestone Medal** \hfill `2019`
+  - Given to top 10\% of honors theses at Stanford.
+
+- **1st place, Creative Nonfiction Prize** \hfill `2017`
+  - Won Stanford’s annual award for best creative nonfiction essay written that year.
+
+- **Human Cities Urban Innovation Contest Finalist** \hfill `2016`
+  - Declared a finalist (top 5) for an idea linking water-sustainable cap + trade rate structuring to community microgrants.
+
+- **US Presidential Scholar** \hfill `2015`
+  - Awarded by the Department of Education to the top graduating boy and girl in each state.
+
+
+## Other Work Experience
+
+- **Teaching Assistant**, Stanford University, California \hfill `2016`--`2019`
+  - Graded and/or helped teach several courses, including Energy Options for the 21st Century, Modeling Environmental Flows, and Storycraft (a theater class on personal storytelling).
+
+- **Senior Producer**, Stanford Storytelling Project, Stanford, CA \hfill `2016`--`2019`
+  - Organized events with visiting poets, authors; contributed to the quarterly podcast "State of the Human."
+
+- **Solar installation + design**, Altenergy Incorporated, Boise, ID \hfill `2015` and `2017`
+  - Used SketchUp to design solar installations, conducted component research, and constructed financial models for investment analysis.
+
+- **Community radio**, Radio Boise, Boise, ID \hfill `2014`--`2020`
+  - Ongoing volunteer with Radio Boise, Boise's community radio station. Work includes podcast development, music programming, & grant writing.
+
+
+## References
+
+- **Professor Oliver Fringer**
+  - Professor of Civil and Environmental Engineering, Stanford University
+  - 473 Via Ortega, Room 187 MC: 4020, Stanford, CA 94305, USA
+  - fringer@stanford.edu
+
+- **Professor Astrid Blom**
+  - Associate Professor of Civil Engineering and Geosciences, Technische Universiteit Delft
+  - astrid.blom@tudelft.nl
+
+- **Joe Adelson, Ph.D.**
+  - jadelson@stanford.edu
+  - +1 (918) 289-8464
+
+
+## Interests
+
+- Community radio
+- Social justice
+- English literature
+- Music production
+- Urban sustainability
+
 
 
 
