@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Sienna is testing 
 
 ![Here is what I look like](/images/headshot.jpeg) 
 
