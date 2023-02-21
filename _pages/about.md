@@ -16,16 +16,19 @@ Before I started my PhD at Berkeley, I worked for two years at the San Francisco
 ![Here is what I look like](/images/headshot.jpeg) 
 
 
-
+#
 # Work on San Francisco Bay and the Delta
 
 Provide a brief introduction to your science project. Explain the purpose and goals of your project, and provide some background information on the topic you are studying.
 
 ```{r, fig.width=0.5\textwidth}
-knitr::include_graphics("/images/gp.png") ```
+knitr::include_graphics("/images/gp.jpeg") ```
 
 
-![Here is what I look like](/images/gp.png) 
+![Here is what I look like ... smaller ](/images/headshot.jpeg){width=“400px”}
+
+
+![Here is what I look like](/images/headshot.jpeg) 
 
 # Hypothesis
 
@@ -41,6 +44,9 @@ Present your results in the form of tables and plots. Make sure to label your ax
 
 
 
+
+
+![Here is what I look like](/images/gp.png) 
 
 
 

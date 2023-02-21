@@ -75,23 +75,23 @@ Python (incl. geospatial analysis packages), MATLAB, QGIS, numerical hydraulic m
 
 ### Technical Reports
 
-- ::S.R. White::, P. Mugunthan, A.T. King, F. Karimpour, T.E.C. Kraus, E.B. Stumpner, B.A. Bergamaschi, D.B. Senn. "Delta-Suisun Biogeochemical Model: Calibration and Validation (WY2016, WY2011)." San Francisco Estuary Institute. Richmond, CA. September 2021.
+- **S.R. White**, P. Mugunthan, A.T. King, F. Karimpour, T.E.C. Kraus, E.B. Stumpner, B.A. Bergamaschi, D.B. Senn. "Delta-Suisun Biogeochemical Model: Calibration and Validation (WY2016, WY2011)." San Francisco Estuary Institute. Richmond, CA. September 2021.
 
-- ::S.R. White::, A. King, F. Karimpour, P. Mugunthan, D. Senn. "Nutrients in the Northern San Francisco Estuary: Transport, Cycling, and Forecasted Changes after Nutrient Load Reductions." San Francisco Estuary Institute. Richmond, CA. March 2021.
+- **S.R. White**, A. King, F. Karimpour, P. Mugunthan, D. Senn. "Nutrients in the Northern San Francisco Estuary: Transport, Cycling, and Forecasted Changes after Nutrient Load Reductions." San Francisco Estuary Institute. Richmond, CA. March 2021.
 
-- F. Karimpour, ::S.R. White::, A. King, P. Mugunthan, D. Senn. "Delta Biogeochemical Model WY2016: Progress Update." San Francisco Estuary Institute. Richmond, CA. December 2019.
+- F. Karimpour, **S.R. White**, A. King, P. Mugunthan, D. Senn. "Delta Biogeochemical Model WY2016: Progress Update." San Francisco Estuary Institute. Richmond, CA. December 2019.
 
 ### Conferences
 
--::S.R. White::, A. Blom, "Quantifying sediment transport and associated bed elevation change over the fixed layers at Nijmegen and St. Andries," in *Netherland Centre for River Studies 2020*, Nijmegen, the Netherlands, February 2020.
+-**S.R. White**, A. Blom, "Quantifying sediment transport and associated bed elevation change over the fixed layers at Nijmegen and St. Andries," in *Netherland Centre for River Studies 2020*, Nijmegen, the Netherlands, February 2020.
 
-- ::S.R. White::, O.B. Fringer, "Using D-Water Quality and D-Flow FM to model cohesive sediment transport in San Francisco Bay," in *Delta Science and Software Days 2019*, Deltares, Delft, the Netherlands, November 2019.
+- **S.R. White**, O.B. Fringer, "Using D-Water Quality and D-Flow FM to model cohesive sediment transport in San Francisco Bay," in *Delta Science and Software Days 2019*, Deltares, Delft, the Netherlands, November 2019.
 
-- ::S.R. White::, O.B. Fringer, "Estimating a Sediment Budget in South San Francisco Bay from limited streamflow data," in *Ocean Sciences 2018*, Portland, Oregon, USA, January 2018.
+- **S.R. White**, O.B. Fringer, "Estimating a Sediment Budget in South San Francisco Bay from limited streamflow data," in *Ocean Sciences 2018*, Portland, Oregon, USA, January 2018.
 
 ### Other
 
-- ::Sienna White::, "The Hoverflies are Props: Notes on Fredrik Sjöberg’s Memoir." *Anthroposphere: the Oxford Climate Review*, November 2019.
+- **Sienna White**, "The Hoverflies are Props: Notes on Fredrik Sjöberg’s Memoir." *Anthroposphere: the Oxford Climate Review*, November 2019.
 
 ## Awards & Scholarships
 
