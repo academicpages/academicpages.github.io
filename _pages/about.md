@@ -22,10 +22,10 @@ Before I started my PhD at Berkeley, I worked for two years at the San Francisco
 Provide a brief introduction to your science project. Explain the purpose and goals of your project, and provide some background information on the topic you are studying.
 
 ```{r, fig.width=0.5\textwidth}
-knitr::include_graphics("/images/gp.jpeg") ```
+knitr::include_graphics(/images/gp.jpg) ```
 
 
-![Here is what I look like ... smaller ](/images/headshot.jpeg){width=“400px”}
+![Here is what I look like ... smaller ](/images/headshot.jpeg){width=400px}
 
 
 ![Here is what I look like](/images/headshot.jpeg) 
