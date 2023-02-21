@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sienna White / Site Title"
+title                    : "Sienna White / I finally made a research website"
 title_separator          : "-"
 name                     : &name "Sienna White"
-description              : &description "personal description"
+description              : &description "Ph.D. student at UC Berkeley, interested in air pollution modeling, data assimilation, and hydrodynamics."
 url                      : "https://siennarwhite.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sienna White"
-  avatar           : "/images/headshot.jpeg"
+  avatar           : "/images/headshot.jpeg" 
   bio              : "Ph.D. student in environmental engineering"
   location         : "Berkeley, California"
   employer         :

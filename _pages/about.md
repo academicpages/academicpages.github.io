@@ -16,18 +16,16 @@ Before I started my PhD at Berkeley, I worked for two years at the San Francisco
 ![Here is what I look like](/images/headshot.jpeg) 
 
 
----
-title: "Work on San Francisco Bay "
-date: "2020-2022"
----
 
 # Work on San Francisco Bay and the Delta
 
 Provide a brief introduction to your science project. Explain the purpose and goals of your project, and provide some background information on the topic you are studying.
 
 ```{r, fig.width=0.5\textwidth}
-knitr::include_graphics("/images/gp.png")
+knitr::include_graphics("/images/gp.png") ```
 
+
+![Here is what I look like](/images/gp.png) 
 
 # Hypothesis
 
