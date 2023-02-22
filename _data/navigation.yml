@@ -1,22 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Fandom"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Postcard wall"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Blog"
     url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
