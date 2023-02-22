@@ -14,4 +14,4 @@ I am a Student of Computer Science at [Auburn University](https://auburn.edu) an
 
 I am a member of the ACM club as well as the AI, Ethical Hacking, and Competitive Programming groups.
 
-My research interests are the interplay between large scale distributed systems, cloud computing, and automation. I am also particularly excited about learning the [Rust programming langage](https://www.rust-lang.org/).
+My research interests are the interplay between large scale distributed systems, cloud computing, and automation. I am also particularly excited about learning the [Rust programming language](https://www.rust-lang.org/).
