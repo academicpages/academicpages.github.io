@@ -1,12 +1,12 @@
 ---
 title: "推的成员"
 collection: publications
-permalink: /publication/fandom
+permalink: /fandom/fandom
 excerpt: ''
 date: 2023-02-22
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: ''
+paperurl: ''
+citation: ''
 ---
 
 主推：        桂楚楚，高桥彩音，矢吹奈子
@@ -27,3 +27,4 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 7. 
 8. 
 9. 
+10.
