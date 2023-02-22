@@ -25,7 +25,7 @@ I received my Ph.D. degree from the Department of Electric and Computer Engineer
 			
 
 ## Timeline:
-- [2023/01/21] Two papers got accepted at AISTATS 2023.
+- [2023/01/21] Two co-first-author papers got accepted at AISTATS 2023.
 
 - [2022/08/02] Began serving as a PC for ICLR 2023 and AAAI 2023.
 
