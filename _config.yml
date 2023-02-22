@@ -222,7 +222,7 @@ defaults:
   # _fandom
   - scope:
       path: ""
-      type: publications
+      type: pages
     values:
       layout: single
       author_profile: true
