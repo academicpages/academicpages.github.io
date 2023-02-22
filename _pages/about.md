@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 About me
 ======
 I am a principal health economist with a focus on infectious diseases, currently based in the UK. I am especially interested in dynamic transmission modelling, econometrics and programming. My Health economic modelling centres on HIV, Covid-19 and Antimicrobial resistance. I have presented posters at ISPOR EU and my work has been published in the Economist, FT and BBC. 
