@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
+#About me
+#======
 I am a principal health economist with a focus on infectious diseases, currently based in the UK. I am especially interested in dynamic transmission modelling, econometrics and programming. My Health economic modelling centres on HIV, Covid-19 and Antimicrobial resistance. I have presented posters at ISPOR EU and my work has been published in the Economist, FT and BBC. 
 
 My undergraduate degree was Economics at Royal Holloway, University of London. I then worked in pensions for several years, until I discovered an interest in Research. Subsequently,I studied for my Masters in Applied Economics and Management at Cornell University in upstate New York as a Fulbright Scholar. My focus was on the economics of automation (perhaps topically) and, separately, Environmental, Social and Governance based investing (ESG).
