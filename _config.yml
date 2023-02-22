@@ -179,7 +179,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  fandom:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -219,7 +219,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _fandom
   - scope:
       path: ""
       type: publications
