@@ -1,10 +1,9 @@
 ---
 title: ""
 excerpt: ""
+permalink: /teaching/
 author_profile: true
 ---
-
-{% include base_path %}
 
 I was fortunate to be a teaching assistant for all the following courses.
 
