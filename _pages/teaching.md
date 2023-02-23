@@ -6,6 +6,8 @@ redirect_from:
   - /teaching/
 ---
 
+{% include base_path %}
+
 Carnegie Mellon University
 ======
 * 36-710 Statistical Inference - Fall 2023
