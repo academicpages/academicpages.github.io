@@ -4,9 +4,6 @@ collection: publications
 permalink: /fandom/fandom
 excerpt: ''
 date: 2023-02-22
-venue: ''
-paperurl: ''
-citation: ''
 ---
 
 主推：        桂楚楚，高桥彩音，矢吹奈子
