@@ -8,9 +8,12 @@ author_profile: true
 
 I was fortunate to be a teaching assistant for all the following courses.
 
+<!-- 
 Carnegie Mellon University
 ======
-* 36-710 Statistical Inference - Fall 2023
+* 36-710 Statistical Inference - Fall 2023  
+-->
+
 
 
 University of São Paulo
