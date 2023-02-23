@@ -12,8 +12,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Statistics and Data Science, University of São Paulo, Feb. 2019 - Dec. 2022
-* Ph.D in Statistics, Carnegie Mellon University, Aug. 2023 - Present
+* PhD in Statistics, Carnegie Mellon University, Aug. 2023 - Present
+* BS in Statistics and Data Science, University of São Paulo, Feb. 2019 - Dec. 2022
+
 
 <!-- Research experience
 ======
