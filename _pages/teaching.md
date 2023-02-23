@@ -1,6 +1,8 @@
 ---
+layout: archive
 title: ""
 excerpt: ""
+permalink: /teaching/
 author_profile: true
 redirect_from: 
   - /teaching/
