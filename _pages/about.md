@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yusheng Su, a fourth-year Ph.D. at the [THUNLP Lab](https://twitter.com/tsinghuanlp), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am advised by Prof. [Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW). I'm on the job market. [[Google Schlar]](https://scholar.google.com/citations?user=xwy6Va4AAAAJ) [[CV]](https://www.dropbox.com/s/t5r9smtc07y0dw6/Yusheng_Su_Resume_2023_2_7.pdf?dl=0)
+I am Yusheng Su, a fourth-year Ph.D. at the [THUNLP Lab](https://twitter.com/tsinghuanlp), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). I am advised by Prof. [Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW). I'm on the job market. [[Google Schlar]](https://scholar.google.com/citations?user=xwy6Va4AAAAJ) [[CV]](https://www.dropbox.com/s/bcrn0dpr922b3da/Yusheng_Su_Resume_2023_02_23.pdf?dl=0)
 
 ## Research
 <!--My research interests are in the theory and practice of building machine learning systems that remain reliable when deployed in real application contexts. For example:-->
@@ -62,7 +62,7 @@ My research spans the areas of natural language processing and machine learning.
 <!--You can find my CV [here](/cv/).-->
 
 ## On The Job Market
-I'm on the job market, looking for Post-doc and industrial research positions, starting in 2023 Autumn. [[Google Schlar]](https://scholar.google.com/citations?user=xwy6Va4AAAAJ) [[CV]](https://www.dropbox.com/s/t5r9smtc07y0dw6/Yusheng_Su_Resume_2023_2_7.pdf?dl=0)
+I'm on the job market, looking for Post-doc and industrial research positions, starting in 2023 Autumn. [[Google Schlar]](https://scholar.google.com/citations?user=xwy6Va4AAAAJ) [[CV]](https://www.dropbox.com/s/bcrn0dpr922b3da/Yusheng_Su_Resume_2023_02_23.pdf?dl=0)
 <!-- (in North America) -->
 
 <!-- ## Coming Soon
@@ -125,8 +125,8 @@ EMNLP 2020 Findings, AI OPEN 2021. [[pdf]](https://arxiv.org/abs/2009.13964) [[p
 ## Under Review or Preprint Version <!-- Submitted for Publications-->
 
 * <b>Human Emotion Knowledge Representation Emerges in Large Language Models and Supports Discrete Emotion Inference</b>\
-*Ming Li<sup><big>*</big></sup>, <b>Yusheng Su</b><sup><big>*</big></sup>, Xiuyuan Huang, Yu Xia, Huadong Wang, Yujia Qin, Xiaozhi Wang, Dan Zhang, Zhiyuan Liu, Maosong Sun.* (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
-(Submitted to Nature Human Behaviour). [[pdf]](https://www.dropbox.com/s/ewoeg93q2xurgjf/Natural_Emotion_knowledge_representation_in_large-scale_pre-trained_language_models_and_its_support_for_discrete_emotion_inference_new_2023_02_05.pdf?dl=0) [[code]](https://github.com/thunlp/OpenNeuron) <small>(Refactoring - User friendly toolkit coming soon)</small>
+*Ming Li<sup><big>*</big></sup>, <b>Yusheng Su</b><sup><big>*</big></sup>, Hsiu-Yuan Huang, Jiali Cheng, Xin Hu, Xinmiao Zhang, Huadong Wang, Yujia Qin, Xiaozhi Wang, Zhiyuan Liu, Dan Zhang* (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
+(Submitted to Nature Human Behaviour). [[pdf]](https://arxiv.org/abs/2302.09582) [[code]](https://github.com/thunlp/OpenNeuron) <small>(Refactoring - User friendly toolkit coming soon)</small>
 
 * <b>Removing Backdoors in Pre-trained Models by Regularized Continual Pre-training</b>\
 *Biru Zhu, Ganqu Cui, Yangyi Chen, Yujia Qin, <b>Yusheng Su</b>, Lifan Yuan, Chong Fu, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu.*\
