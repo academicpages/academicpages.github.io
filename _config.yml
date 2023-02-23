@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Antônio Carlos"
 title_separator          : "-"
 name                     : &name "Antônio Carlos Herling Ribeiro Junior"
 description              : &description "First yeat statistics PhD student at Carnegie Mellon University"
@@ -56,19 +56,19 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+# twitter:
+#   username               : &twitter
+# facebook:
+#   username               :
+#   app_id                 :
+#   publisher              :
+# og_image                 :  # Open Graph/Twitter default site image
+# # For specifying social profiles
+# # - https://developers.google.com/structured-data/customize/social-profiles
+# social:
+#   type                   : # Person or Organization (defaults to Person)
+#   name                   : # If the user or organization name differs from the site's name
+#   links: # An array of links to social media profiles
 
 
 # Analytics
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Antônio Carlos Herling Ribeiro Junior"
+  avatar           : "profileAnt.png"
+  bio              : "First year statistics PhD student at Carnegie Mellon University"
+  location         : "Santos, SP, Brazil"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "antonio.herling@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "antonioherling"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/antonio-carlos-herling-ribeiro-jr/"
+  orcid            : "http://orcid.org/0000-0003-0712-317X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
