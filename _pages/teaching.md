@@ -1,7 +1,6 @@
 ---
 title: ""
 excerpt: ""
-permalink: /teaching/
 author_profile: true
 ---
 
