@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: ""
 excerpt: ""
 permalink: /teaching/
