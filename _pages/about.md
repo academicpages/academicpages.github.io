@@ -8,7 +8,7 @@ redirect_from:
   - /about.html  
 ---
 
-My name is Z. Sun, a 4th year PhD candidate at UCL. I am lucky to be supervised by Prof. [F-X Briol](https://fxbriol.github.io) and Prof. [J-H Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). My research is mainly funded by EPSRC and UCL jointly; and partially by The Alan Turing Institute. 
+My name is Z. Sun, a 4th year PhD candidate at UCL. I am lucky to be supervised by Prof. [F-X Briol](https://fxbriol.github.io) and Prof. [J-H Xue](http://www.homepages.ucl.ac.uk/~ucakjxu/). My research is mainly funded by EPSRC and UCL jointly; and partially by The Alan Turing Institute. Previously, I obtained a Master degree (Distinction) in Statistical Science at the University of Oxford.
 
 
 
