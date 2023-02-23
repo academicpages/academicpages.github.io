@@ -21,6 +21,7 @@ redirect_from:
 * My toolkit consists of Python, SQL, Node.js, Javascript, Java and Ruby
 * Prior experience with web development with Ruby on Rails and Node.js gave me a deep understanding of end to end web development pipeline and RESTful APIs.
 * I received my Bachelor’s Degree and Master's Degree at [lahore University of Management Sciences](https://lums.edu.pk/). My Graduate research advisors is Prof. [Ihsan Ayub Qazi](https://web.lums.edu.pk/~ihsan/)
+* In Progress AWS Solution Architect Certification
 
 
 Select projects
