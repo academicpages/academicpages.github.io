@@ -11,13 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Statistics and Data Science, University of São Paulo, Feb. 2019 - Dec. 2022
+* Ph.D in Statistics, Carnegie Mellon University, Aug. 2023 - Present
 
-Work experience
+<!-- Research experience
 ======
-* Summer 2015: Research Assistant
+* Summer 2022: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -56,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
