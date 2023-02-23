@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a first-year Statistics PhD student at Carnegie Mellon University. Prior to that, I received a BS in Statistics and Data Science from the University of São Paulo, Brazil.
+Currently, I am a first year Statistics PhD student at Carnegie Mellon University. Prior to that, I received a BS in Statistics and Data Science from the University of São Paulo, Brazil.
 My research interests lay primarily in responsible AI, regression discontinuity designs, semi-parametric regression models, and Bayesian statistics. 
 
 
