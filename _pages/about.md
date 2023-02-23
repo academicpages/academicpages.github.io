@@ -15,9 +15,11 @@ redirect_from:
 </p>
 
 # About Me
-* I am a Ph.D. student in the [SEIEE](http://english.seiee.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Lu Hongtao](http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=156). [[Curriculum Vitae](https://safakhan413.github.io/files/Safa, Nasir - Deep Learning.pdf)] 
-* My research interests lie in the general area of machine learning, particularly in deep learning, computer vision, deepfakes, generative modeling, facial recognition.
-* I am proficient with Python and javascript. I have worked as a web developer before with MEAN Stack.
+* I am a data science professional, converting insights to revenue by leveraging my background in machine learning and software development. Also, a Ph.D. candidate in the [SEIEE](http://english.seiee.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Lu Hongtao](http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=156). 
+<!-- [[Curriculum Vitae](https://safakhan413.github.io/files/Safa, Nasir - Deep Learning.pdf)]  -->
+* My research interests lie in the general area of machine learning, particularly in deep learning, computer vision, deepfakes, generative modeling, facial recognition and Vision Tranformers.
+* My toolkit consists of Python, SQL, Node.js, Javascript, Java and Ruby
+* Prior experience with web development with Ruby on Rails and Node.js gave me a deep understanding of end to end web development pipeline and RESTful APIs.
 * I received my Bachelor’s Degree and Master's Degree at [lahore University of Management Sciences](https://lums.edu.pk/). My Graduate research advisors is Prof. [Ihsan Ayub Qazi](https://web.lums.edu.pk/~ihsan/)
 
 
