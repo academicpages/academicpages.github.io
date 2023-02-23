@@ -8,6 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
+I was fortunate to be a teaching assistant for all the following courses.
+
 Carnegie Mellon University
 ======
 * 36-710 Statistical Inference - Fall 2023
