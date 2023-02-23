@@ -15,7 +15,7 @@ redirect_from:
 </p>
 
 # About Me
-* I am a data science professional, converting insights to revenue by leveraging my background in machine learning and software development. Also, a Ph.D. candidate in the [SEIEE](http://english.seiee.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Lu Hongtao](http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=156). 
+* I am a data science professional, converting insights to revenue by leveraging my background in machine learning and software development. Also, a Ph.D. candidate at [SEIEE](http://english.seiee.sjtu.edu.cn/) [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Lu Hongtao](http://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=156). 
 <!-- [[Curriculum Vitae](https://safakhan413.github.io/files/Safa, Nasir - Deep Learning.pdf)]  -->
 * My research interests lie in the general area of machine learning, particularly in deep learning, computer vision, deepfakes, generative modeling, facial recognition and Vision Tranformers.
 * My toolkit consists of Python, SQL, Node.js, Javascript, Java and Ruby
