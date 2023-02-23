@@ -64,7 +64,7 @@ Tisch, Daria, [Emma Ischinsky](https://www.mpifg.de/person/114263/2721): Top wea
 Tisch, Daria: Preservation of large fortunes over multiple generations in Germany <!--  (https://dariatisch.github.io/presentation_potsdam) -->: How do elite family networks relate to wealth preservation in Germany?
 
 
-Tisch, Daria, [Manuel Schechtl](https://schechtl.github.io/): Gender differences in parental wealth transfers and how the German tax system contributes to the gender wealth gap  <!--  [Gender differences in parental wealth transfers](https://dariatisch.github.io/presentation_gender_transfer_gap)  -->
+Tisch, Daria, [Manuel Schechtl](https://schechtl.github.io/): [Gender differences in parental wealth transfers](https://dariatisch.github.io/presentation_gender_transfer_gap) and how the German tax system contributes to the gender wealth gap
 
 
 [Schechtl, Manuel](https://schechtl.github.io/), Daria Tisch, [Nhat An Trinh](https://natrinh.github.io/): Distributive Principles in Intergenerational Transfers by Asset Type
