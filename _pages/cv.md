@@ -20,8 +20,8 @@ A PDF of my CV is available [here](http://larrylehan.github.io/files/LarryHan_CV
 **Harvard University**  
 PhD in Biostatistics, 2018-2023 (expected)  
 AM in Biostatistics, 2020  
-Dissertation Advisor: [Tianxi Cai](https://www.hsph.harvard.edu/tianxi-cai/)     
-Dissertation Committee: [Rui Duan,](https://sites.google.com/view/ruiduan/home?authuser=0) [Lorenzo Trippa,](https://www.hsph.harvard.edu/lorenzo-trippa/)   [Sebastian Schneeweiss](https://www.hsph.harvard.edu/sebastian-schneeweiss/)
+Dissertation Advisor: [Tianxi Cai,](https://www.hsph.harvard.edu/tianxi-cai/) [Lorenzo Trippa](https://www.hsph.harvard.edu/lorenzo-trippa/)    
+Dissertation Committee: [Rui Duan,](https://sites.google.com/view/ruiduan/home?authuser=0) [Sebastian Schneeweiss](https://www.hsph.harvard.edu/sebastian-schneeweiss/)
 
 **University of Cambridge**  
 MPhil in Operations Management, 2018  
@@ -57,6 +57,7 @@ Organizing committee for safe and effective re-opening of campus during the COVI
 
 # Honors and Awards
 ---
+* ASA Student Paper Award, Health Policy Statistics Section, 2023
 * WNAR Best Oral Student Paper Presentation, 2022
 * Certificate of Distinction in Teaching, Harvard University, 2022
 * Rose Fellowship, 2022  
