@@ -16,7 +16,7 @@ redirect_from:
 
 - Felix Modrego, Andrea Canales, and Hector Bahamonde (2020). "Employment Effects of COVID-19 Across Chilean Regions: An Application of the Translog Cost Function." In: Regional Science Policy & Practice 12.6, pp. 1151-1167. <br/> [[Paper]](https://doi.org/10.1111/rsp3.12337)
 
-- Hector Bahamonde (2018). "Aiming Right at You: Group versus Individual Clientelistic Targeting in Brazil." In: Journal of Politics in Latin America 10.2, pp. 41-76. <br/> [[Paper]](https://journals.sub.uni-hamburg.de/giga/jpla/article/view/1121/1128) [[Data]](https://github.com/hbahamonde/Replication_Materials/tree/master/JPLA_2018)
+- Hector Bahamonde (2018). "Aiming Right at You: Group versus Individual Clientelistic Targeting in Brazil." In: Journal of Politics in Latin America 10.2, pp. 41-76. <br/> [[Paper]](https://doi.org/10.1177/1866802X1801000202) [[Data]](https://github.com/hbahamonde/Replication_Materials/tree/master/JPLA_2018)
 
 - Juan Pablo Luna et al. (2011). "El Secreto de mi Exito: Parte II. Los Caminos a Vaparaiso en 2009." In: Revista de Ciencia Política 31.2, pp. 285-310. <br/> [[Paper]](https://scielo.conicyt.cl/pdf/revcipol/v31n2/art07.pdf)
 
