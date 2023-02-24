@@ -8,4 +8,4 @@ Considere o problema de determinar a solução da equação $$f(x)=0.$$ Seja $x_
 
 
 
-Teorema: Seja $\{x_n\}$ uma sequ\^encia que converge com ordem 1 ao limite $\xi$ tal que $e_n = x_n \xi$ satisfaz a condição $$e_{n+1}=(A+\delta_n)e_n.$$
+Teorema: Seja $\{x_n\}$ uma sequ\^encia que converge com ordem 1 ao limite $\xi$ tal que $e_n = x_n - \xi$ satisfaz a condição $$e_{n+1}=(A+\delta_n)e_n.$$
