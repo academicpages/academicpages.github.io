@@ -34,7 +34,8 @@ Disponível no sistema SAGRES.
 Avaliação
 =======
 * Prova (Unidade I): 
-* Trabalhos (Unidade II): 
+* Trabalhos (Unidade II)
+[Trabalhos 1](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/trabalhos01.md)
 * Trabalhos (Undiade III): 
 * Prova Final: 
 
