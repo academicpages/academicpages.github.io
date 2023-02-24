@@ -11,31 +11,35 @@ redirect_from:
 
 Education
 ======
-* **BSc in Meteorology and Climate**, University of Reading, 2018-2021
-  * *"Investigating the representation of sting jets in high-resolution climate simulations"*
-   * Supervisors: Dr Oscar Martínez-Alvarado and Dr Reinhard Schiemann 
-  * Acheivement for highest degree grade in BSc cohort
+* **Ph.D in Atmospheric and Environmental Sciences**, University of Edinburgh, 2022-present
+  * *"Investigating the influence of meltwater runoff and near-terminus subglacial hydrology on the dynamics of Greenland’s marine-terminating glacier margins"* 
+  * Supervisors: Professor Peter Nienow, Dr Anna Hogg, Dr Encarni Medina-Lopez, Dr Andrew Sole and Dr Benjamin Davidson
+  * Demonstrator on a range of undergraduate modules (e.g. Ice and Climate, Meteorology: Weather and Climate)
   
 * **MSc (Res) in Polar and Alpine Change**, University of Sheffield, 2021-2022
   * *"Modelling the Future Changes in Surface Mass Balance of the Juneau Icefield under RCP8.5 emissions scenario"*
    * Supervisors: Dr Jeremy Ely and Dr Julie Jones
   * **Rudmose Brown Prize** for excellence in Polar and Alpine Change (89.25% overall degree grade)
   * **Koerner Prize** for best dissertation (92% mark)
-  
-* **Ph.D in Atmospheric and Environmental Sciences**, University of Edinburgh, 2022-present
-  * *"Investigating the influence of meltwater runoff and near-terminus subglacial hydrology on the dynamics of Greenland’s marine-terminating glacier margins"* ]
-  * Supervisors: Professor Peter Nienow, Dr Anna Hogg, Dr Encarni Medina-Lopez, Dr Andrew Sole and Dr Benjamin Davidson
+ 
+* **BSc in Meteorology and Climate**, University of Reading, 2018-2021
+  * *"Investigating the representation of sting jets in high-resolution climate simulations"*
+   * Supervisors: Dr Oscar Martínez-Alvarado and Dr Reinhard Schiemann 
+  * Acheivement for highest degree grade in BSc cohort
+ 
 
 Work experience
 ======
+* **Summer 2022: Internship, [Geographical Association](https://www.geography.org.uk/), Sheffield**
+  * Skills: Education policy, outreach and science communication
+  * GeogPod: ["High-altitude weather balloons and marine-terminating glaciers"](https://geogpod.podbean.com/e/episode-56-ryan-ing-high-altitude-weather-balloons-and-marine-terminating-glaciers/) 
+  
 * **Summer 2020: Research Placement, University of Reading**
   * *"Investigating the representation of sting jets in high-resolution climate simulations"*
   * Skills: Analysing large climate model datasets on JASMIN (super-data cluster)
   * Supervisors: Dr Oscar Martínez-Alvarado and Dr Reinhard Schiemann 
   
-* **Summer 2022: Internship, [Geographical Association](https://www.geography.org.uk/), Sheffield**
-  * Skills: Education policy, outreach and science communication
-  * GeogPod: ["High-altitude weather balloons and marine-terminating glaciers"](https://geogpod.podbean.com/e/episode-56-ryan-ing-high-altitude-weather-balloons-and-marine-terminating-glaciers/) 
+
 
 
 
