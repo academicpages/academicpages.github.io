@@ -9,6 +9,7 @@ redirect_from:
   - /resume
   - /cv
   - /publications
+  - /teaching
 ---
 
 I am a 5th year graduate student at Harvard in the Physics Department working on the intersection of machine learning, astrostatistics, and the interstellar medium. My Ph.D. advisor is [Douglas Finkbeiner](https://faun.rc.fas.harvard.edu/nebel/dfink/){:target="_blank"}.
@@ -24,6 +25,12 @@ Here is the most recent version of my [CV](http://andrew-saydjari.github.io/file
 # Publications
 
 You can find a current list of my articles on [NASA/ADS](https://ui.adsabs.harvard.edu/search/filter_doctype_facet_hier_fq_doctype=AND&filter_doctype_facet_hier_fq_doctype=doctype_facet_hier%3A%220%2FArticle%22&fq=%7B!type%3Daqp%20v%3D%24fq_doctype%7D&fq_doctype=(doctype_facet_hier%3A%220%2FArticle%22)&p_=0&q=%20author%3A%22saydjari%2C%20andrew%22&sort=date%20desc%2C%20bibcode%20desc){:target="_blank"}.
+
+# Teaching
+
+I am passionate about teaching and enjoy developing new materials to explain hard concepts. I love seeing a concept "click" when an explaination works best for a given student's understanding. My favorite part about teaching is 1-1 student interaction, which feels like the most concrete way I can improve the climate and culture of academia, by lifting up one student at a time. I believe that getting to know students as people is the best way to understand and resolve conceptual gaps. And of course, every time I teach a concept I learn something myself either from great student questions or in the course of refining and improving examples or analogies.
+
+<br>
 
 <h1 style="text-align: center;">Projects</h1>
 
