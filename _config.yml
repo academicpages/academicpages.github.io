@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "dfrancati"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Danilo Francati"
+description              : &description ""
+url                      : https://dfrancati.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "D392/dfrancati.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -80,15 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  name             : "Danilo Francati"
+  avatar           : "picture.jpg"
+  bio              : "Postdoc @ Aarhus University."
+  location         : 
+  employer         : 
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=eeuQ0a0AAAAJ&hl=it"
+  email            : "dfrancati[at]cs[dot]au[dot]dk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  dblp             : "https://dblp.org/pid/231/4539.html"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "danilo-francati-38a007138"
+  orcid            : "http://orcid.org/0000-0002-4639-0636"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
@@ -191,6 +192,14 @@ collections:
 
 # Defaults
 defaults:
+  - scope:
+      path: ""
+      type: home
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _posts
   - scope:
       path: ""
