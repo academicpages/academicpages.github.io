@@ -10,7 +10,7 @@ Considere, como exemplo, a sequência definida por $$x_n = \frac{(-1)^n}{2} x_n;
 
 Agora, do ponto de vista teórico, mostre que:
 
-Seja $\{x_n\}$ uma sequência que converge com ordem 1 ao limite $u$ tal que $e_n = x_n-u$ satisfaz $$e_{n+1}=(A+\delta_n)e_n, \quad e_n \ne 0,$$ onde $A$ é uma constante tal que $0<A<1$ e $\lim_{n \to +\infty}\delta_n = 0$. Então a sequência $\{x_n'\}$, definida acima, converge para $u$ mais rapidamente do que $\{x_n\}$, ou seja, $$\lim_{n \to +\infty} \frac{x_n'-u}{x_n-u}=0.$$
+Seja $\{x_n\}$ uma sequência que converge com ordem 1 ao limite $u$ tal que $e_n = x_n-u$ satisfaz $$e_{n+1}=(A+\delta_n)e_n, \quad e_n \ne 0,$$ onde $A$ é uma constante tal que $0 < A < 1$ e $\lim_{n \to +\infty}\delta_n = 0$. Então a sequência $\{x_n'\}$, definida acima, converge para $u$ mais rapidamente do que $\{x_n\}$, ou seja, $$\lim_{n \to +\infty} \frac{x_n'-u}{x_n-u}=0.$$
 
 Construa mais exemplos que mostram esse comportamento.
 
