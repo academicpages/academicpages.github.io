@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Dr. Ezekiel Soremekun"
   avatar           : "profile.png" #"Ezekiel_Soremekun.jpg"
-  bio              : "Lecturer (Asst. Prof.) in Computer Science (Software Engineering) at Royal Holloway, University of London (RHUL), UK." 
+  bio              : "Lecturer (Asst. Prof.) at RHUL, UK."
+#in Computer Science (Software Engineering) at Royal Holloway, University of London (RHUL), UK." 
 # "Research Scientist at SnT, University of Luxembourg." 
   location         : Egham, UK #"Luxembourg"
   employer         :
