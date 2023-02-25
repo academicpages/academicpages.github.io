@@ -47,4 +47,18 @@ Considere o problema de determinar $x$ tal que $f(x)=0$ e $\phi$ uma função de
 
 
 Implemente o algoritmo acima, em Julia. Compare seu desempenho com o Método da Bissecção, Ponto Fixo e Newton. Use gráficos, tabelas, etc para fazer essa comparação. Faça testes com várias funções.
-   
+
+
+## Trabalho 05
+
+Implementar o Método de Newton para resolver um sistema de equqações não lineares.
+
+## Trabalho 06
+
+## Trabalho 07
+
+## Trabalho 08
+
+## Trabalho 09
+
+## Trabalho 10
