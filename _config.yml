@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Ezekiel Soremekun"
 title_separator          : "-"
 name                     : &name "Ezekiel Soremekun"
-description              : &description "Research Scientist" #Associate (PostDoc)"
+description              : &description Lecturer (Asst. Prof.) #"Research Scientist" #Associate (PostDoc)"
 url                      : https://ezekiel-soremekun.github.io # the base hostname & protocol for your site e.g. "https://ezekiel-soremekun.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://ezekiel-soremekun.github.io"
@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Dr. Ezekiel Soremekun"
   avatar           : "profile.png" #"Ezekiel_Soremekun.jpg"
-  bio              : "Research Scientist at SnT, University of Luxembourg." 
-  location         : "Luxembourg"
+  bio              : "Lecturer (Asst. Prof.) in Computer Science (Software Engineering) at Royal Holloway, University of London (RHUL), UK." 
+# "Research Scientist at SnT, University of Luxembourg." 
+  location         : Egham, UK #"Luxembourg"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=r8T1-yoAAAAJ&hl=en"
-  email            : "ezekiel.soremekun@uni.lu"
+  email            : "ezekiel.soremekun@rhul.ac.uk" #uni.lu"
   researchgate     : "https://www.researchgate.net/scientific-contributions/Ezekiel-Soremekun-2130094542"
   uri              :
   bitbucket        :
