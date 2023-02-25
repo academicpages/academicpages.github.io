@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<!--
+ Copyright (C) 2011, The SAO/NASA Astrophysics Data System
+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ 
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ 
+ You should have received a copy of the GNU General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<html>
+<head>
+<meta charset="UTF-8">
+<title>ADS query importer widget</title>
+
+<link rel="stylesheet" href="ads_query_importer_widget.css" type="text/css" />
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+<script type="text/javascript">
+//mandatory parameters 
+var ads_query_url = 'http://adsabs.harvard.edu/cgi-bin/basic_connect?qsearch=Smith';
+//List of optional parameters for the query 
+var ads_query_back_base_url = 'http://adsabs.harvard.edu/';
+var ads_query_title = "Smith's papers";
+var ads_query_highlight_author = 'Smith';
+var ads_query_max_num_authors = 10;
+var ads_query_max_records_to_print = 50;
+var ads_query_omit_bibcode = false;
+var ads_query_omit_link_to_ads = false;
+var ads_query_link_on_field = 'title';
+var ads_query_print_order = 'title|authors|journal|date|bibcode';
+</script>
+<script type="text/javascript" src="ads_query_importer_widget.js"></script>
+
+</head>
+<body>
+<div id="ads_query_importer_widget" style="width:800px;border:1px solid black;"></div>
+</body>
+</html>

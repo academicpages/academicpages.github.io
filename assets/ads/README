@@ -1,0 +1,106 @@
+=== Nasa/ADS Query Importer Widget===
+
+Import any ADS query you can perform on an ADS server in your website.
+
+
+== Description ==
+
+The SAO/NASA Astrophysics Data System (ADS) (http://adsabs.harvard.edu) is a Digital Library portal 
+for researchers in Astronomy and Physics, operated by the Smithsonian Astrophysical Observatory (SAO) 
+under a NASA grant. 
+The ADS maintains three bibliographic databases containing more than 9 million records: 
+Astronomy and Astrophysics, Physics, and arXiv e-prints.
+
+"NASA/ADS Query Importer Widget" is intended to import the list of papers generated from an ADS query into a website.
+
+With "NASA/ADS Query Importer Widget" you can:
+
+* Show any kind of ADS Query, including public "private libraries" (http://doc.adsabs.harvard.edu/abs_doc/help_pages/privlib.html#Private_Library).
+* Customize the order and the visibility of the printed elemets.
+* Customize where to show the link back to the full abstract of the article.
+* Add a title to the query showed in the web page.
+* Highlight an author in any single paper
+
+Mandatory parameters :
+
+* ads_query_url: This is the parameter where the user specifies the url for the query to ADS
+
+Optional parameters:
+
+* ads_query_back_base_url: The base url for the links back to ADS. The Default value is http://adsabs.harvard.edu
+* ads_query_title: The title the user wants to show above the results. There is no default value for this attribute
+* ads_query_highlight_author: String that contains the lastname of the author to highlight. There is no default value for this attribute
+* ads_query_max_num_authors: Max number of authors before printing "and other N coauthors". The default is 1
+* ads_query_max_records_to_print: Max number of papers to show. By default ALL abstracts will be printed
+* ads_query_omit_bibcode: boolean to omit the bibcode in the list of abstracts; the default is false
+* ads_query_omit_authors: boolean to omit the authors in the list of abstracts; the default is false
+* ads_query_omit_title: boolean to omit the title in the list of abstracts; the default is false
+* ads_query_omit_journal: boolean to omit the journal in the list of abstracts; the default is false
+* ads_query_omit_date: boolean to omit the date in the list of abstracts; the default is false
+* ads_query_omit_link_to_ads: boolean to omit the link back to ADS in the list of abstracts; the default is false
+* ads_query_link_on_field: field where to create a link back to ADS; the default is bibcode. Other values can be authors, title, journal, date
+* ads_query_print_order: string that indicates the order of the content of each abstract separated by a "|"; the default is bibcode|title|authors|journal|date; omitting a field here is equivalent to the relative omit_FIELD boolean set to true	
+
+Any parameter different from the previous ones will be ignored.
+Any parameter set to a not allowed value will be re-set to the the default.
+
+Example of usage #1:
+<script type="text/javascript">
+var ads_query_url="http://adsabs.harvard.edu/cgi-bin/basic_connect?qsearch=galaxy"]
+</script>
+This query will print 200 records inside your page. All the default value for the other parameters will be used.
+
+Example of usage #2:
+<script type="text/javascript"> 
+var ads_query_url="http://adsabs.harvard.edu/cgi-bin/basic_connect?qsearch=galaxy" 
+var ads_query_title="Top publications about galaxies"
+</script>
+This query will produce the same result of the previous example, but it will add a title before the list of papers.
+
+Example of usage #3:
+<script type="text/javascript"> 
+var ads_query_url="http://adsabs.harvard.edu/cgi-bin/basic_connect?qsearch=galaxy"
+var ads_query_max_num_authors="20" 
+var ads_query_highlight_author="Huchra" 
+var ads_query_max_records_to_print="100"
+</script>
+This query will produce a list of 100 papers (instead of the default 200 coming from the query), will show max 20 authors per paper (instead of 1) and will highlight the Author Huchra if it appears in the first 20 authors shown.
+
+Example of usage #4:
+<script type="text/javascript"> 
+var ads_query_url="http://adsabs.harvard.edu/cgi-bin/basic_connect?qsearch=galaxy"
+var ads_query_omit_bibcode="true" 
+var ads_query_link_on_field="title"
+</script>
+This query will produce a list of 200 papers like the Example #1, but the bibcode will not be shown and the link to the abstract on the ADS website will be placed on the title.
+
+Example of usage #5:
+<script type="text/javascript"> 
+var ads_query_url="http://adsabs.harvard.edu/cgi-bin/basic_connect?qsearch=galaxy"
+var ads_query_print_order="title|authors|journal|date|bibcode"
+</script>
+This query will produce the same result of the Example #1, but with the bibcode at the end of the paper in the list.
+
+
+== Installation ==
+
+1. Download the archive and extract the content
+2. Upload the content of the archive in a folder together with you other static content(i.e. in path/to/adswidget)
+3. Put in the head tag of your website the following tags
+   - the ADS widget CSS file <link rel="stylesheet" href="path/to/adswidget/ads_query_importer_widget.css" type="text/css" />
+   - jQuery, if you don't use it already: <script type="text/javascript" src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+   - A Script tag where to put the custom parameters (mandatory and not):
+     <script type="text/javascript">
+         //mandatory parameters 
+         var ads_query_url = 'http://adsabs.harvard.edu/cgi-bin/basic_connect?qsearch=galaxy';
+     </script>
+   - The ADS Widget library: <script type="text/javascript" src="path/to/adswidget/ads_query_importer_widget.js"></script>
+4. Put in the body of the page a div: <div id="ads_query_importer_widget"></div>
+
+NOTE 1: The order of the tags DOES matter: don't change it!
+NOTE 2: if you cannot change the head tag, put the same tags in the body: it will work but the HTML will be not valid (the link tag for the CSS is allowed only in the head)
+
+== Changelog ==
+
+= 0.2 =
+* First public release

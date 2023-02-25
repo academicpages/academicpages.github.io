@@ -280,6 +280,7 @@ DEPENDENCIES
   hawkins
   jekyll-feed
   jekyll-sitemap
+  listen
 
 BUNDLED WITH
-   1.17.2
+   2.4.7
