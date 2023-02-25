@@ -33,3 +33,18 @@ Implementar, em Julia, o Método da Tangente. Fazer um estudo comparativo com o 
 2. Implementar os métodos acima mensionados;
 3. Fazer gráficos e tabelas para analisar o comportamento desses métodos;
 4. Com base nos resultados, comparar a velocidade de convergência desses métodos.
+
+
+## Trabalho 04
+
+Considere o problema de determinar $x$ tal que $f(x)=0$ e $\phi$ uma função de iteração associada ao problema. Essa função de iteração gera a sequência $\{x_n\}$ converge para $u$. Considere o seguinte algoritmo:
+
+### Algoritmo
+
+1. Dado $x_0$ na vizinhança de $u$ e $\epsilon > 0$; defina $$x_0^{(0)}=x_0, \quad x_1^{(0)}=\phi(x_0^{(0)}), \quad x_2^{(0)}=\phi(x_1^{(0)});$$
+2. Para $k=0,1,2,\cdots$ calcule $$x_0^{(k+1)}=x_0^{(k)} - \frac{(x_1^{(k)}-x_0^{(k)})^2}{x_2^{(k)}-2x_1^{(k)}+x_0^{(k)}},$$ e $$x_1^{(k+1)}=\phi(x_0^{(k+1)}); \quad x_2^{(k+1)}=\phi(x_1^{(k+1)}).$$
+3. Termina-se o processo, se $x_2^{(k)}-2x_1^{(k)}+x_0^(k)=0$ ou $|x_0^{(k+1)}-x_0^{(k)}| < \epsilon$.
+
+
+Implemente o algoritmo acima, em Julia. Compare seu desempenho com o Método da Bissecção, Ponto Fixo e Newton. Use gráficos, tabelas, etc para fazer essa comparação. Faça testes com várias funções.
+   
