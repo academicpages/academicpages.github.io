@@ -51,7 +51,7 @@ Implemente o algoritmo acima, em Julia. Compare seu desempenho com o Método da 
 
 ## Trabalho 05
 
-Implementar o Método de Newton para resolver um sistema de equqações não lineares.
+Implementar o Método de Newton para resolver um sistema de equações não lineares. Utilizar o método para encontrar pontos críticos de funções do tipo $f:\mathbb{R}^2 \to \mathbb{R}$. Fazer testes com várias funções. Construir um gráfico que mostre, para uma função, os pontos da sequência juntamente com as curvas de nível da função. Analise funções que tenham um único ponto crítico e funções que tenham mais de um ponto crítico.
 
 ## Trabalho 06
 
