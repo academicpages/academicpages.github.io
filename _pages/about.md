@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ezekiel Soremekun is a Lecturer (Asst. Prof.) of Computer Science (Software Engineering) 
+Ezekiel Soremekun is a Lecturer (Asst. Prof.) of Computer Science (Software Engineering) at 
 [Royal Holloway University of London (RHUL)](https://www.royalholloway.ac.uk/), UK. 
 
 
