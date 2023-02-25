@@ -9,12 +9,12 @@
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
-  
+
   @include clearfix();
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(3 of 12);
+    @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -72,7 +72,6 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  padding-left: 10px;
   width: 36px;
   // set width only, for non-square avatars
   // height: 36px;
@@ -88,7 +87,7 @@
     border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 1px;
+      padding: 5px;
       border: 1px solid $border-color;
     }
   }
@@ -119,7 +118,7 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-3;
+  font-size: $type-size-5;
 }
 
 .author__bio {
@@ -136,7 +135,6 @@
   display: table-cell;
   vertical-align: middle;
   font-family: $sans-serif;
-  font-size: $type-size-5;
   z-index: 10;
   position: relative;
   cursor: pointer;

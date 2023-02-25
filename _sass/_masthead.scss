@@ -17,6 +17,7 @@
     padding: 0em 1em 0em;
     font-family: $sans-serif-narrow;
 
+
     @include breakpoint($x-large) {
       max-width: $x-large;
     }
@@ -47,7 +48,7 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
+    padding-right: 8.5em;
     font-weight: 700;
   }
 }
