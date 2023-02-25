@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Ezekiel Soremekun is a Lecturer (Asst. Prof.) of Computer Science (Software Engineering) at 
-[Royal Holloway University of London (RHUL)](https://www.royalholloway.ac.uk/), UK. 
+[Royal Holloway, University of London (RHUL)](https://www.royalholloway.ac.uk/), UK. 
 
 
 Professional Experience
