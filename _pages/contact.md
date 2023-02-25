@@ -7,7 +7,7 @@ author_profile: true
 
 **Address:** Department of Computer Science, Aabogade 34, 8200 Aarhus, Denmark  
 **Office:** Nygaard 280  
-**Email:** dfrancati [AT] cs [DOT] au [DOT] dk   
+**Email:** dfrancati at cs.au.dk   
 
 ---
 
