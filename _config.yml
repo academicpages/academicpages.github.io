@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "dfrancati"
+title                    : "Danilo Francati"
 title_separator          : "-"
 name                     : &name "Danilo Francati"
 description              : &description ""
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Danilo Francati"
   avatar           : "picture.jpg"
-  bio              : "Postdoc @ Aarhus University."
+  bio              : "Postdoc @ Aarhus University"
   location         : 
   employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=eeuQ0a0AAAAJ&hl=it"
-  email            : "dfrancati[at]cs[dot]au[dot]dk"
+  googlescholar    : 
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  dblp             : "https://dblp.org/pid/231/4539.html"
+  dblp             : 
   uri              :
   bitbucket        :
   codepen          :
@@ -103,8 +103,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "danilo-francati-38a007138"
-  orcid            : "http://orcid.org/0000-0002-4639-0636"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

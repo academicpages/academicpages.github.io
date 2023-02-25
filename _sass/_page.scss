@@ -7,6 +7,7 @@
   @include clearfix;
   margin-top: 2em;
   padding-left: 1em;
+  padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
@@ -17,9 +18,9 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(9 of 12 last);
+    @include span(10 of 12 last);
     @include prefix(0.5 of 12);
-    @include suffix(0 of 12);
+    @include suffix(2 of 12);
   }
 
   .page__inner-wrap {
