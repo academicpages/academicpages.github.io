@@ -20,7 +20,7 @@ Construa mais exemplos que mostram esse comportamento.
 Implementar, em Julia, o Método da Falsa Posição. Fazer um estudo comparativo com o Método da Bisseção, Ponto Fixo e Newton. Esse estudo deve seguir a seguinte linha:
 
 1. Escolher problemas testes adequados para o estudo;
-2. Implementar os métodos acima mensionados;
+2. Implementar os métodos acima mencionados;
 3. Fazer gráficos e tabelas para analisar o comportamento desses métodos;
 4. Com base nos resultados, comparar a velocidade de convergência desses métodos.
 
@@ -30,7 +30,7 @@ Implementar, em Julia, o Método da Falsa Posição. Fazer um estudo comparativo
 Implementar, em Julia, o Método da Tangente. Fazer um estudo comparativo com o Método da Bisseção, Ponto Fixo e Newton. Esse estudo deve seguir a seguinte linha:
 
 1. Escolher problemas testes adequados para o estudo;
-2. Implementar os métodos acima mensionados;
+2. Implementar os métodos acima mencionados;
 3. Fazer gráficos e tabelas para analisar o comportamento desses métodos;
 4. Com base nos resultados, comparar a velocidade de convergência desses métodos.
 
