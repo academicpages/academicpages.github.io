@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 Ezekiel Soremekun is a Lecturer (Asst. Prof.) of Computer Science (Software Engineering) 
-at 
-#the Computer Science Department of 
 [Royal Holloway University of London (RHUL)](https://www.royalholloway.ac.uk/), UK. 
 
 
@@ -23,8 +21,6 @@ at the [SerVal Group](https://wwwen.uni.lu/snt/research/serval)
 -- Interdisciplinary Centre for Security, Reliability and Trust, 
 at the 
 [University of Luxembourg](https://wwwen.uni.lu), Luxembourg. 
-#Ezekiel was previously a research associate (post-doctoral researcher) 
-#at the SerVal Group, SnT, University of Luxembourg.
 Before then, he was a researcher (and PhD candidate) at the [Software Engineering Research Group](https://andreas-zeller.info) 
 (of Prof. Dr. Andreas Zeller) at 
 [CISPA Helmholtz Center for Information Security](https://cispa.de/en), [Saarland University](https://www.uni-saarland.de/en/home.html).
