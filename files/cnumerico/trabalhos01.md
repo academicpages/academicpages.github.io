@@ -43,7 +43,7 @@ Considere o problema de determinar $x$ tal que $f(x)=0$ e $\phi$ uma função de
 
 1. Dado $x_0$ na vizinhança de $u$ e $\epsilon > 0$; defina $$x_0^{(0)}=x_0, \quad x_1^{(0)}=\phi(x_0^{(0)}), \quad x_2^{(0)}=\phi(x_1^{(0)});$$
 2. Para $k=0,1,2,\cdots$ calcule $$x_0^{(k+1)}=x_0^{(k)} - \frac{(x_1^{(k)}-x_0^{(k)})^2}{x_2^{(k)}-2x_1^{(k)}+x_0^{(k)}},$$ e $$x_1^{(k+1)}=\phi(x_0^{(k+1)}); \quad x_2^{(k+1)}=\phi(x_1^{(k+1)}).$$
-3. Termina-se o processo, se $x_2^{(k)}-2x_1^{(k)}+x_0^(k)=0$ ou $|x_0^{(k+1)}-x_0^{(k)}| < \epsilon$.
+3. Termina-se o processo, se $x_2^{(k)}-2x_1^{(k)}+x_0^{(k)}=0$ ou $|x_0^{(k+1)}-x_0^{(k)}| < \epsilon$.
 
 
 Implemente o algoritmo acima, em Julia. Compare seu desempenho com o Método da Bissecção, Ponto Fixo e Newton. Use gráficos, tabelas, etc para fazer essa comparação. Faça testes com várias funções.
