@@ -12,7 +12,7 @@ Before coming to the USC, I obtained the Bachelor of Engineering in CSE at South
 
 # Research interests
 - Human Computer Interaction
-- Virtual/Augmented Reality
+- Virtual / Augmented Reality
 
 # Recent Activities
 ## Interships
