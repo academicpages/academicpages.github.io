@@ -5,20 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=eeuQ0a0AAAAJ&hl=it) and [dblp](https://dblp.org/pid/231/4539.html).
+You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=eeuQ0a0AAAAJ) and [dblp](https://dblp.org/pid/231/4539.html).
 
 
 ## Preprints
 
----
-
 - **Registered (Inner-Product) Functional Encryption**  
 Danilo Francati, Daniele Friolo, Monosij Maitra, Giulio Malavolta, Ahmadreza Rahimi, and Daniele Venturi
 
+---
 
 ## Conference Proceedings
-
----
 
 9. **Multi-key and Multi-input Predicate encryption from Learning with Errors**  
 Danilo Francati, Daniele Friolo, Giulio Malavolta, and Daniele Venturi   
@@ -66,10 +63,9 @@ Annual International Cryptology Conference. Springer, Cham. 2019, pp. 701–731,
 [https://link.springer.com/chapter/10.1007/978-3-030-26951-7_24](https://link.springer.com/chapter/10.1007/978-3-030-26951-7_24)
 {: reversed="reversed"}
 
+---
 
 ## Journals
-
----
 
 2. **Match me if you can: Matchmaking encryption and its applications**  
 Giuseppe Ateniese, Danilo Francati, David Nuñez, and Daniele Venturi, Journal of Cryptology, 34.16, (2021). DOI: 10.1007/s00145-021-09381-4.  

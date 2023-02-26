@@ -14,11 +14,13 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
+    padding: 0em 1.3em 0em;
+    font-size: 2vw;
+    margin-right: auto;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
+      margin-right: auto;
     }
 
     nav {
@@ -38,6 +40,7 @@
     padding: 0;
     clear: both;
     list-style-type: none;
+    margin-right: auto;
   }
 }
 
@@ -47,7 +50,6 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
-    font-weight: 700;
+    margin-right: auto;
   }
 }
