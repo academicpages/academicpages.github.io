@@ -15,7 +15,7 @@ Before coming to the USC, I obtained the Bachelor of Engineering in CSE at South
 - Virtual / Augmented Reality
 
 # Recent Activities
-## Interships
+## Experience
 From August 2022 to December 2022, I worked as a research assistant for Dr.[Luo Tao](https://designschool.sustech.edu.cn/cn/academics/faculty/378.html) at SUSTECH's [School of Design](https://designschool.sustech.edu.cn/cn), mainly responsible for Unity MR development, [IxDL](http://ixdlanguage.org/) user survey, and HCI-experiment design.
 
 From March 2022 to June 2022, I worked as a front-end engineer for a start-up named 未界科技(Weijie Technology). This company aims to strengthen the industry of [Murder Mystery Game](https://en.wikipedia.org/wiki/Murder_mystery_game) with computer technology.  
