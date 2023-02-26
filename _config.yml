@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xinyi Zhou"
 title_separator          : "-"
 name                     : &name "Xinyi Zhou"
-description              : &description "Senior student at SUSTECH"
+description              : &description "Master Student at USC"
 url                      : https://CindyChow123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CindyChow123/CindyChow123.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xinyi Zhou"
   avatar           : "selfie1.png"
-  bio              : Turn WOUNDS into WISDOM💎
-  location         : "SUSTech@Shenzhen"
+  bio              : Enjoy Challenges💎
+  location         : "USC @ Los Angeles"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
