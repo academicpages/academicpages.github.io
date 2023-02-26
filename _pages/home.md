@@ -26,5 +26,5 @@ Here is my [CV](/files/cvmodern.pdf), for full information.
 
 
 ### Research Interests ###
-My research focuses on both theoretical and applied cryptography with a focus on advanced public-key primitives and their applications.
+My research interests are theoretical and applied cryptography with a focus on advanced public-key primitives and their applications.
 I am also interested in blockchain and privacy-preserving machine learning.
