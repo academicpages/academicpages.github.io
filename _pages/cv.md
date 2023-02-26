@@ -28,5 +28,4 @@ Computer Skills
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-plain.svg">
 <img align="center" alt="Latex" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg">
-<img align="center" alt="Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
