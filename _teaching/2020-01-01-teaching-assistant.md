@@ -4,11 +4,11 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: 
 venue: "New York University"
-date: 2020-01-01
+date: 2019-01-01
 location: "New York, NY"
 ---
 
-Courses that I served as a Teaching Assistant since I joined NYU:
+Courses that I served as a Teaching Assistant since I joined NYU.
 
 # Undergraduate Courses
 
