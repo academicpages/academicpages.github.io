@@ -18,4 +18,13 @@ redirect_from:
 
 # Bio #
 
-TODO
+Since September 2021, I am a Postdoc at Aarhus University ([Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup/)), hosted by [Claudio Orlandi](https://cs.au.dk/~orlandi/).
+From August 2017 to September 2021, I was a Ph.D. student at Stevens Institute of Technology under the supervision of [Giuseppe Ateniese](https://ateniese.github.io).
+I got my Bachelor's degree and Master's degree in Computer Science at Sapienza University of Rome.
+
+Here is my [CV](/files/cvmodern.pdf), for full information.
+
+
+### Research Interests ###
+My research focuses on both theoretical and applied cryptography with a focus on advanced public-key primitives and their applications.
+I am also interested in blockchain and privacy-preserving machine learning.
