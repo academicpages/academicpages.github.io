@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Gabriel Toledo"
 title_separator          : "-"
-name                     : &name "Jose Parreiras Antunes Neto"
-description              : &description "Finance Ph.D Student at Kellogg School of Management"
+name                     : &name "Gabriel Toledo"
+description              : &description "Economics Ph.D Student at New York University"
 url                      : https://joseparreiras.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joseparreiras/joseparreiras.github.io"
