@@ -7,18 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Xinyi Zhou, currently an incoming [USC MSCS](https://www.cs.usc.edu/academic-programs/masters/) student.
-
-Before 2022, I was an undergraduate student at Southern University of Science and Technology([SUSTECH](https://www.sustech.edu.cn/)) in the department of Computer Science and Engineering ([CSE](http://cse.sustech.edu.cn/)) advised by [Jiang Liu](https://www.sustech.edu.cn/zh/faculties/liujiang.html), as an undergraduate researcher in [iMED](http://www.imed-lab.com/).
+I am Xinyi Zhou, currently a Master student pursuing the degree of [Master of Science in Computer Science (General)](https://www.cs.usc.edu/academic-programs/masters/computer-science-general/) at the University of Southern California.
+Before coming to the USC, I obtained the Bachelor of Engineering in CSE at Southern University of Science and Technology([SUSTECH](https://www.sustech.edu.cn/)) advised by [Dr.Jiang Liu](https://scholar.google.com/citations?hl=en&user=NHt3fUcAAAAJ&view_op=list_works&sortby=pubdate), during which I worked as an undergraduate researcher in his lab [iMED](http://www.imed-lab.com/).
 
 # Research interests
-- Human Computer Interaction in Mixed Reality
-- Interpretable Artificial Intelligence
-- Mental Healthcare
+- Human Computer Interaction
+- Virtual/Augmented Reality
 
 # Recent Activities
 ## Interships
-From August 2022 to present, I am working as a research assistant for Professor.[Luo Tao](https://designschool.sustech.edu.cn/cn/academics/faculty/378.html) at SUSTECH's [School of Design](https://designschool.sustech.edu.cn/cn), mainly responsible for Unity MR development and [IxDL](http://ixdlanguage.org/) survey.
+From August 2022 to December 2022, I worked as a research assistant for Professor.[Luo Tao](https://designschool.sustech.edu.cn/cn/academics/faculty/378.html) at SUSTECH's [School of Design](https://designschool.sustech.edu.cn/cn), mainly responsible for Unity MR development, [IxDL](http://ixdlanguage.org/) user survey, and HCI-experiment design.
 
 From March 2022 to June 2022, I worked as a front-end engineer for a start-up named 未界科技(Weijie Technology). This company aims to strengthen the industry of [Murder Mystery Game](https://en.wikipedia.org/wiki/Murder_mystery_game) with computer technology.  
 
@@ -32,5 +30,3 @@ This paper has been **ACCEPTED** by ISBI 2022 on January 7, 2022 for presentatio
 [A WeChat Mini Program for Color Blinded People Cooperated with Tencent](https://github.com/CindyChow123/Multimedia_project_2021_spring)  
 [Code Contribution for the Open Source Project JsonPath](https://github.com/json-path/JsonPath/pull/694)  
 [Game Platform Website](https://github.com/CindyChow123/GameCenter_2020_fall_ooad)   
-## Blogs
-[Remote Patient Monitoring Systems](https://cindychow123.github.io/posts/2022/01/rpm/)
