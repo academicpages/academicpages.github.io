@@ -8,12 +8,12 @@ author_profile: true
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=eeuQ0a0AAAAJ) and [dblp](https://dblp.org/pid/231/4539.html).
 
 
-## Preprints
+<!-- ## Preprints -->
 
-- **Registered (Inner-Product) Functional Encryption**  
-Danilo Francati, Daniele Friolo, Monosij Maitra, Giulio Malavolta, Ahmadreza Rahimi, and Daniele Venturi
+<!-- - **Registered (Inner-Product) Functional Encryption**   -->
+<!-- Danilo Francati, Daniele Friolo, Monosij Maitra, Giulio Malavolta, Ahmadreza Rahimi, and Daniele Venturi -->
 
----
+<!-- --- -->
 
 ## Conference Proceedings
 
