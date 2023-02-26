@@ -13,15 +13,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Finance, Kellogg School of Management, 2026 (expected)
-* M.S. in Economics, Getulio Vargas Foundation, 2019
-* B.A. in Economics, IBMeC, 2017
+* Ph.D in Economics, New York University, 2025 (expected)
+* M.S. in Economics, Getulio Vargas Foundation, 2018
+* B.A. in Economics, University of São Paulo, 2016
 
-Research Experience
-======
-* Research Assistant at Brazilian Federation of Banks (FEBRABAN), 2017-2018
-* Research Assistant at B3 S.A. - Brasil, Bolsa, Balcão, 2018-2019
-  
 Computer Skills
 ======
 <div>
