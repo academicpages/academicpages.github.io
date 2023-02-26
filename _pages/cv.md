@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: https://github.com/CindyChow123/CindyChow123.github.io/blob/master/files/Xinyi%20Zhou-CV.pdf
 author_profile: true
 redirect_from:
   - /resume
