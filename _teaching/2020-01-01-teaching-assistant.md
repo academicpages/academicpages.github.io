@@ -2,7 +2,7 @@
 title: "Teaching Assistance"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/teaching_assistant
+permalink: 
 venue: "New York University"
 date: 2020-01-01
 location: "New York, NY"
