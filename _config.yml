@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jose Antunes-Neto"
+  name             : "Gabriel Single Toledo"
   avatar           : "profile.jpg"
-  bio              : "Finance Ph.D Student"
-  location         : "Evanston. IL"
-  employer         : "Kellogg School of Management"
+  bio              : "Economics Ph.D Student"
+  location         : "New York, NY"
+  employer         : "New York University"
   pubmed           : 
   googlescholar    : 
-  email            : "jose.neto@kellogg.northwestern.edu"
+  email            : "gabriel.toledo@nyu.edu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "joseparreiras"
+  github           : "gstoledo"
   google_plus      :
   keybase          :
   instagram        :
@@ -106,10 +106,10 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : https://stackoverflow.com/users/6664276/joseparreiras
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "gstoledo"
   vine             :
   weibo            :
   xing             :
