@@ -13,4 +13,4 @@ I am currently working as an undergraduate thesis researcher at IHMI Lab at BITS
 
 I am always looking for opportunities to work on interesting projects. Feel free to reach out to me at [LinkedIn](https://www.linkedin.com/in/aastha-rastogi/).
 
-Learn more about my [projects](/projects) and [experience](/cv)
+Learn more about my [projects](/projects) and [experience](/cv).
