@@ -21,12 +21,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Works in Progress
 **Bursting the Green Bubble? Environmental Provisions and Approval for Trade Agreements**
 
- _with [Stefano Jud](http://stefanojud.com/), Submitted External Grant Proposal, 2022_
+ _with [Stefano Jud](http://stefanojud.com/), External Grant Accepted, 2023_
 
-**How to Measure the Strength of Human Rights Shaming: A Methodological Framework**
+## Works in Progress
+**Contestation project**
 
-  _Accepted to Present at 2023 ISA_
-
+_Data collection in progress, 2023_
