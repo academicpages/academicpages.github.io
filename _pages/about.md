@@ -22,10 +22,10 @@ My research spans the areas of natural language processing and machine learning.
 
 * <b>Computational efficiency method. (Model Manipulating)</b> Developing theory, tools, and algorithms to efficiently manipulate large-scale pre-trained foundation models toward downstream tasks (e.g., prompt tuning methods, in-context learning, etc.). ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Delta Tuning Survey](https://arxiv.org/abs/2203.06904))
 
-* <b>AI alignment. (Model Controlling)</b> Designing methods to understand the emerging human-like capacities of contemporary foundation models and ensure the models perform tasks in accordance with human's real intentions. ([Model Emotion](https://arxiv.org/abs/2302.09582), [Removing Backdoors]()
+* <b>AI alignment. (Model Controlling)</b> Designing methods to understand the emerging human-like capacities of contemporary foundation models and ensure the models perform tasks in accordance with human's real intentions. ([Model Emotion](https://arxiv.org/abs/2302.09582), [Removing Backdoors]())
 
 <!--
-(https://www.dropbox.com/s/0yuudhokyyomkup/Removing_Backdoors_in_Pre-trained_Models_by_Regularized_Continual_Pretraining.pdf?dl=0))
+(https://www.dropbox.com/s/0yuudhokyyomkup/Removing_Backdoors_in_Pre-trained_Models_by_Regularized_Continual_Pretraining.pdf?dl=0)
 -->
 
 
