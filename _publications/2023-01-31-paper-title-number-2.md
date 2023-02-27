@@ -8,7 +8,7 @@ venue: 'European Journal of Heart Failure'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'McEwan, P., Harrison, C., Binnie, R., Lewis, R.D., Cohen-Solal, A., Lund, L.H., Ohlsson, M., von Haehling, S., Comin-Colet, J., Pascual-Figal, D.A., Wächter, S., Dorigotti, F., de Arellano, A.R., Ponikowski, P. and Jankowska, E.A. (2023), Impact of ferric carboxymaltose for iron deficiency at discharge after heart failure hospitalisation: A European multinational economic evaluation. Eur J Heart Fail. Accepted Author Manuscript. '
 ---
-This paper is about the number 2. The number 3 is left for future work.
+A paper on the impact of an an Iron deficiency treatment across multiple countries.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
