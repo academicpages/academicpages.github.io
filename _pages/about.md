@@ -38,7 +38,7 @@ News
 ======
 [Sept. 2022] Invited Talk at HK PolyTechnic University
 I give a talk at The HongKong PolyTechnic University, regarding the topic of Machine-learning based sensor-fusion localization.
-https://www.polyu.edu.hk/en/aae/news-and-events/event/2022/9/27---research-seminar/
+[Link](https://www.polyu.edu.hk/en/aae/news-and-events/event/2022/9/27---research-seminar/)
 
 
 [Aug. 2022] Paper accepted at IPIN, 2022.
