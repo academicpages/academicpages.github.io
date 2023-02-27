@@ -1,5 +1,5 @@
 ---
-title: "Research in Human Rights"
+title: "POLS490R: Research in Human Rights"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2022-spring
