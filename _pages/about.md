@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -23,3 +23,7 @@ Publications
 3. Abhishek Kaul, Hongjin Zhang, **Kostas Tsampourakis**, George Michailidis. "Inference on the Change Point for High Dimensional Dynamic Graphical Models" <i> (under review in JMLR) </i>.
 [https://arxiv.org/pdf/2005.09711]
 
+<!-- Teaching Experience
+======
+1. Tutor in 
+2. TA in Linear Algebra, Calculus and Statistics (WSU) -->
