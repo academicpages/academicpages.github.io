@@ -18,4 +18,4 @@ Thanks for visiting!
 
 Feel free to follow/connect with me on the various social platforms.
 To contact me directly, please use the following mail ID:
-cs18resch01002 @ iith.ac.in (remove the spaces)
+bhargav.achary @ alumni.iith.ac.in (remove the spaces)
