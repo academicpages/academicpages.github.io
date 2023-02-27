@@ -1,5 +1,5 @@
 ---
-title: "Syllabi, designed but untaught"
+title: "Syllabi: Untaught"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/syllabi
@@ -10,7 +10,7 @@ location: "In Person"
 
 Available by request
 
-# Human Rights and International Politics
+# Syllabus 1: Human Rights and International Politics
 ## Course Overview
 * This course is an advanced research seminar that will focus on how human rights is realized and politicized in international and domestic politics. The course surveys the incentive structure of perpetrators, victims, and observers of repression/oppression, and how these actors interact with each other and the political and informational environment to produce the human rights practices, policies, and institutions as we see them. The course then releases the assumption that underlies the previous weeks that international human rights norms is a fixed concept. The course will discuss the historical expansion of human rights norms, current contestation it faces and its future, given what the preceding weeks inform us about how the international politics of human rights work. The last three weeks of the course will be coding lab sessions on applying natural language processing (NLP) as a research method to study human rights.
 ## Learning Objectives:
@@ -22,7 +22,7 @@ Available by request
 * explain how and why information and media affects the way the public forms opinions about different human rights outcomes and policies
 * enderstand and evaluate universal respect of human rights as international norms
 
-# Introduction to International Politics
+# Syllabus 2: Introduction to International Politics
 ## Course Overview
 * The course will introduce you to a fundamental theoretical framework for explaining behavior in the international system. Using this framework, we will examine the nature of the international system, the causes of international conflict, and the possibilities for international cooperation. We will particularly explore the causes of both interstate and intrastate armed conflict. The course also focuses on the role played in international politics by institutions such as democracy, regional and global security and economic agreements, and alliances. The course uses these insights to shed light on special problem areas in world politics, from civil wars, terrorism, and nuclear weapons, to international trade relations, international lending and investment, currency disputes, the global environment, and human rights. The purpose of this course is to provide an analytical basis for understanding international politics. It is a social science course, not a course on current events or history – even though we will frequently be discussing current and historical international relations events and examples. The emphasis is on rigorous and critical thinking about politics and policy choices.
 ## Learning Objectives:
