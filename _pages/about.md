@@ -38,8 +38,8 @@ Research Interests
 
 News
 ======
-[Sept. 2022] Invited Talk at HK PolyTechnic University
-I give a talk at The HongKong PolyTechnic University, regarding the topic of Machine-learning based sensor-fusion localization.
+[Sept. 2022] Invited Talk at HK PolyTechnic University.
+I give a talk at HK PolyTech, regarding the topic of "Machine-learning based Sensor-fusion Localization".
 [Link](https://www.polyu.edu.hk/en/aae/news-and-events/event/2022/9/27---research-seminar/)
 
 
