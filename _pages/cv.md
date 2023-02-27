@@ -10,15 +10,16 @@ redirect_from:
 {% include base_path %}
 [Curriculum Vitae](../files/CV AASTHA RASTOGI.pdf)
 
-Education
+<!-- Education
 ======
-* B.E. in Computer Science, BITS Pilani, 2023 GitHub, GitHub University, 2012
+* B.E. in Computer Science, BITS Pilani, 2023 
 
 Work experience
 ======
+* Fall 2022: Undergraduate Thesis Researcher
 * Summer 2022: SDE Intern
   * Amazon
-  * Team: Alexa Data Services Git
+  * Team: Alexa Data Services -->
 
 <!-- * Fall 2015: Research Assistant
   * Github University
