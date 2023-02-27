@@ -62,7 +62,7 @@ Research
   <div class="column right">
     <p>
       <strong>Rethinking Domain Generalization for Face Anti-spoofing: Separability and Alignment</strong><br/>
-      Yiyou Sun, <u>Yaojie Liu*</u>, Xiaoming Liu, Yixuan Li, Wen-Sheng Chu<br/>
+      Yiyou Sun, <u>Yaojie Liu</u>, Xiaoming Liu, Yixuan Li, Wen-Sheng Chu<br/>
       Computer Vision and Pattern Recognition (CVPR'23), 2023.<br/>
     </p>
   </div>
