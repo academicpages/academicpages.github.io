@@ -9,7 +9,7 @@
 locale                   : "en-UK"
 title                    : "Cale of two cities"
 title_separator          : "-"
-name                     : &name "Cale Harrison"
+name                     : &name "A Cale Harrison"
 description              : &description "This is a test description !"
 url                      : https://caleharr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
