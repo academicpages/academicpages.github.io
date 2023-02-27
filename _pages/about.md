@@ -18,6 +18,7 @@ In 2020, I joined [Bosch Research](https://www.bosch.us/our-company/bosch-in-the
 
 News
 ======
+* [2023/02/27] &nbsp; Our paper "Rethinking Domain Generalization for Face Anti-spoofing: Separability and Alignment" is accepted by CVPR 2023. The code will be released soon!
 * [2022/12/19] &nbsp; I’m proud to ship Google's Face Unlock on Pixel 7 / Pixel 7 Pro.
 * [2022/10/25] &nbsp; I’m selected as ECCV 2022 Outstanding Reviewer.
 * [2022/10/03] &nbsp; One paper is accepted in BMVC 2022.
@@ -27,7 +28,6 @@ News
 * [2022/05/10] &nbsp; Our paper "Spoof Trace Disentanglement for Generic Face Anti-Spoofing" is accepted by TPAMI. The code will be released soon!
 * [2021/06/18] &nbsp; I'm interviewed by IEEE Biometrics Council Newsletter [[link](http://ieee-biometrics.org/images/pdf/Vol38-Newsletter.pdf)].
 * [2021/06/18] &nbsp; I'm selected as CVPR 2021 Outstanding Reviewer.
-* [2021/02/06] &nbsp; I receive 20-21 Outstanding Graduate Student Award at the College of Engineering [[link](https://www.egr.msu.edu/graduate/outstanding-graduate-student-awards)].
 
 <br/>
 
@@ -54,7 +54,21 @@ Research Highlights
 
 Research
 ======
+<div class="row">
+  <div class="column left">
+    <img align="left" width="100%" src="https://yaojieliu.github.io/images/cvpr23_teaser.png?raw=true">  
+  </div>
+  <div class="column middle">&nbsp;</div>
+  <div class="column right">
+    <p>
+      <strong>Rethinking Domain Generalization for Face Anti-spoofing: Separability and Alignment</strong><br/>
+      Yiyou Sun, <u>Yaojie Liu*</u>, Xiaoming Liu, Yixuan Li, Wen-Sheng Chu<br/>
+      Computer Vision and Pattern Recognition (CVPR'23), 2023.<br/>
+    </p>
+  </div>
+</div>
 
+___
 <div class="row">
   <div class="column left">
     <img align="left" width="100%" src="https://yaojieliu.github.io/images/BMVC_2022_teaser.png?raw=true">  
