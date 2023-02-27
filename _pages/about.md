@@ -19,9 +19,9 @@ I am interested in developping robust and efficient Bayesian inference algorithm
 Publications
 ======
 1. **Kostas Tsampourakis**, Victor Elvira. (2023). "An Augmented Gaussian Sum Filter Through a Mixture Decomposition" <i>*(to appear)* 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>.
-2. **Kostas Tsampourakis**, Victor Elvira. (2022). "Approximating The Likelihood Ratio in Linear-Gaussian State-Space Models for Change Detection" <i> 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>.[https://ieeexplore.ieee.org/document/9746881]
+2. **Kostas Tsampourakis**, Victor Elvira. (2022). "Approximating The Likelihood Ratio in Linear-Gaussian State-Space Models for Change Detection" <i> 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>.[Link](https://ieeexplore.ieee.org/document/9746881)
 3. Abhishek Kaul, Hongjin Zhang, **Kostas Tsampourakis**, George Michailidis. "Inference on the Change Point for High Dimensional Dynamic Graphical Models" <i> (under review in JMLR) </i>.
-[https://arxiv.org/pdf/2005.09711]
+[Link](https://arxiv.org/pdf/2005.09711)
 
 <!-- Teaching Experience
 ======
