@@ -8,9 +8,11 @@ date: 2023-02-24
 location: "In-person"
 ---
 
+
+
 Special topics guest instructor for the text analysis week
 
-Date: Feb 24, 2023
+(Feb 24, 2023)
 
 ### Slides
 [Link](https://docs.google.com/presentation/d/17FyqbkA0MpfBbtqc1ZBku17cS9xP-qZyGBvDHk5m8cQ/edit?usp=sharing)
