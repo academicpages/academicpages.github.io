@@ -15,10 +15,13 @@ Guest instructor
 (Feb 24, 2023)
 
 ### Slides
-* I added some notes for the slides we did not have time to cover explicitly + deleted some notes that were not explained / may cause confusion without more explanation. 
-[Link](https://docs.google.com/presentation/d/17FyqbkA0MpfBbtqc1ZBku17cS9xP-qZyGBvDHk5m8cQ/edit?usp=sharing)
+* I added some annotations to the slides we did not have time to cover.
+* I deleted some things that were not explicitly discussed and may cause confusion without explanation.
+* Please let me know if you want the original slide, but there's not much changes.
+* [Link](https://docs.google.com/presentation/d/17FyqbkA0MpfBbtqc1ZBku17cS9xP-qZyGBvDHk5m8cQ/edit?usp=sharing)
 
 ### Codes
+* When you try in the beginning it should look much messier than this. I cleaned and rewrote the code for the class' purpose.
 * [Link](https://colab.research.google.com/drive/1rpp73-Nb-vnnjub6til8cMUgDfmR1qnB?usp=sharing)
 
 ### Video recording
