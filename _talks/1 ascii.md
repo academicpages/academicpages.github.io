@@ -3,7 +3,7 @@ title: "Speaker: Off-Campus Internship Applications & Resume Building"
 collection: talks
 type: "Talk"
 permalink: /talks/2022-10-18-talk-1
-venue: "BITS Pilani, Goa Campus"
+venue: "BITS Pilani"
 date: 2022-10-18
 location: "Goa, India"
 ---
