@@ -17,7 +17,7 @@ redirect_from:
 About Me
 ======
 I am currently a PhD student at University College London (UCL) under the supervision of 
-<a href="https://uclic.ucl.ac.uk/people/nadia-berthouze/" style="color:#5dbcd2;">Prof Nadia Berthouze</a>. I focus on sensor fusion based ubiquitious computing. I am investigating multimodal machine learning to allow model automatically learn communicative features from multisensory data without human intervention to make robust inferences under various real-life scenarios.
+<a href="https://uclic.ucl.ac.uk/people/nadia-berthouze/" style="color:#5dbcd2;">Prof Nadia Berthouze</a>, <a href="https://uclic.ucl.ac.uk/people/youngjun-cho" style="color:#5dbcd2;">Dr Youngjun Cho</a> and <a href="https://www.ucl.ac.uk/jill-dando-institute/about-us/people/academic-staff/kevin-chetty" style="color:#5dbcd2;">Dr Kevin Chetty</a>. I focus on sensor fusion based ubiquitious computing. I am investigating multimodal machine learning to allow model automatically learn communicative features from multisensory data without human intervention to make robust inferences under various real-life scenarios. I am currently developing a novel wireless sensing system that can recognise the quality of body movement and physiological signals.
 
 Prior to joining UCL, I studied Artificial Intelligence (MSc) under the supervision of <a href="https://vradu.uk/" style="color:#5dbcd2;">Dr Valentin Radu</a> and Electronics and Electrical Engineering (BEng), supervised by <a href="https://www.eng.ed.ac.uk/about/people/prof-tughrul-arslan/" style="color:#5dbcd2;">Prof Tughrul Arslan</a>, at the University of Edinburgh.
 
@@ -36,6 +36,11 @@ Research Interests
 
 News
 ======
+[Sept. 2022] Invited Talk at HK PolyTechnic University
+I give a talk at The HongKong PolyTechnic University, regarding the topic of Machine-learning based sensor-fusion localization.
+https://www.polyu.edu.hk/en/aae/news-and-events/event/2022/9/27---research-seminar/
+
+
 [Aug. 2022] Paper accepted at IPIN, 2022.
 Work with Valentin Radu, "Leveraging Transfer Learning for Robust Multimodal Positioning Systems based on Smartphone Multisensory Data".
 See you in Beijing, China.
