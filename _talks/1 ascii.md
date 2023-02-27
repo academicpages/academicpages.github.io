@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2022-10-18-talk-1
 venue: "BITS Pilani, Goa Campus"
-date: 2022-18-10
+date: 2022-10-18
 location: "Goa, India"
 ---
 
