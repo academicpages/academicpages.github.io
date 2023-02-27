@@ -92,14 +92,9 @@ Skills
   * Jupyter Notebook
   * Visual Studio Code
 
-<!-- Publications
+Service and Leadership
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-   -->
-Service and leadership
-======
+
 * vGHC' 21 Open Source Day Mentor
 * Chapter Lead, GirlScript Foundation
 * Mentor, BITS Goa Women in Tech
