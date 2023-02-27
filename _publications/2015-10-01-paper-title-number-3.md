@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 date: 2022-12-01
 venue: 'Value in Health'
-paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://www.sciencedirect.com/science/article/pii/S1098301522027760)
+paperurl: '[https://www.sciencedirect.com/science/article/pii/S1098301522027760]'
 ---
 Looking at impact of Heart Failure across Europe
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S1098301522027760)
