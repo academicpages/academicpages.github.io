@@ -1,0 +1,11 @@
+---
+title: "Teaching Assistant - Computer Programming (CS F111)"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2022-spring-cp2
+venue: "BITS Pilani, Goa Campus"
+
+location: "Goa, India"
+---
+
+Assisted Dr. Swaroop Joshi in conducting labs and creating questions for labs based on BASH and C programming.
