@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kostas Tsampourakis"
+title                    : 
 title_separator          : "-"
 name                     : &name "Kostas Tsampourakis"
 description              : &description "personal description"
