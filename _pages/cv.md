@@ -12,26 +12,27 @@ redirect_from:
 Education
 ======
 * MS in CSE, IIT Hyderabad, 2018-2021
-* Visiting Scholar at CSE, IIT Kanpur, Aug-Dec, 2019
 * B.Tech in ECE, BPUT, Rourkela, 2009-2013
 
 Work experience
 ======
 
-* Jan, 2018 - Jun, 2021 : Research Felllow with HTTA (Half Time Teaching Assistantship)
-  * Dept. of Computer Science and Engineering, IIT Hyderabad
-  * Duties included: Hands on sessions, Assignment evaluation, Exam coodination, Other departmental duties
+* Nov, 2021 - till date : Performance Verification Engineer, Qualcomm, Bengaluru
+  * Understanding microarchitecture of Hexagon DSP cores, and coordinating performance verification of scalar cores. 
+  * Contributions in improving the verification infrastructure and test content development.
+  * Test writing and porting legacy performance tests into new integrated test setups.
 
-* Jul, 2016 - Jan, 2018 : Member of Technical Staff as STA-B
-  * Advanced Numerical Research and Analysis Group, DRDO, Hyderabad
-  * Duties included: Testing and Evaluation of Embedded Platforms, System Administration, Resource Management  
+* Jul, 2016 - Jan, 2018 : Senior Technical Assistant 'B', DRDO, Hyderabad
+  * Coordinated and prepared SRS documentation for 2 projects.
+  * Participated in a literature survey on quantum computing and experimented with 2-qubit system.
+  * Performed testing and evaluation of embedded hardware, system administration, etc.
 
-* Feb, 2014 - Jun, 2014 : Systems Engineer - Trainee
-  * Infosys Limited, Mysore 
- 
 Skills
 ======
-
+* Programming C/C++, Python, x86 Assembly
+* Machine Learning Tensorflow, PyTorch, Scikit‑Learn
+* Hardware & Arch. DSP/ARM/VLIW arch, Instruction Set Simulators
+* Tools & Utilities Verdi, Bash, GIT, LATEX
 
 Publications
 ======
@@ -44,6 +45,3 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-    
-Service and leadership
-======
