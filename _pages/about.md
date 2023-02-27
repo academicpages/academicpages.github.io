@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am a PhD student in Statistics at the School of Mathematics, [University of Edinburgh](https://www.ed.ac.uk). Previously I studied physics at the [University of Crete](https://www.physics.uoc.gr/en/home) and mathematics at [Washington State University](https://www.math.wsu.edu)
+I am a PhD student in Statistics at the School of Mathematics, [University of Edinburgh](https://www.ed.ac.uk), supervised by [Víctor Elvira](https://victorelvira.github.io). Previously I studied physics at the [University of Crete](https://www.physics.uoc.gr/en/home) and mathematics at [Washington State University](https://www.math.wsu.edu)
 
 Reseach Interests
 ======
