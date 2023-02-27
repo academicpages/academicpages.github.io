@@ -8,7 +8,7 @@ Why do countries talk about each other's human rights practices? What rhetorical
 
 ### News
 * Data collection for US shaming is finished.
-* If you are interested in working with us in Spring 2023, please email Jiwon.
+* If you are interested in working with us in Fall 2023, please email Jiwon.
 
 ## Team
 ### Current Members
