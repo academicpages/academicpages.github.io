@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-cn
 venue: "BITS Pilani, Goa Campus"
-date: 2023
+date: 2023-01-01
 location: "Goa, India"
 ---
 
