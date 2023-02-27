@@ -55,6 +55,8 @@ Implementar o Método de Newton para resolver um sistema de equações não line
 
 ## Trabalho 06
 
+Os métodos clásicos para determinação de pontos mínimos locais (ou máximos locais) exigem como pré-requisito funções diferenciáveis. Contudo, existem métodos que são desenvolvidos para a classe de funções não-diferenciáveis. Inspirando-se no Método da Bissecção, desenvolva um algoritmo que determina o mínimo (ou máximo) de uma função não diferenciável. Implemente em Julia. Faça vários testes. Construa gráficos e tabelas. Analise o comportamento do algoritmo.
+
 ## Trabalho 07
 
 ## Trabalho 08
