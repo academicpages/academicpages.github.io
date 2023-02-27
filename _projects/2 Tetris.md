@@ -1,15 +1,13 @@
 ---
-title: "Tetris"
+title: "Tetris Game Engine"
 excerpt: "
-- A mobile game application using JAVA and Firebase\n
-- Supports single and multiplayer mode\n
-- Keeps track of wins and losses for each player \n
+- Designed a programming language to make Tetris game and its variants that runs on terminal\n
+- Implemented the compiler and grammar for the language\n
 <center>
 <img src='/files/project_files/tictactoe.png' width = 400></center>\n
-<font color='grey'><center> Screencapture from game app </center></font>"
+<font color='grey'><center> Screenshot of terminal </center></font>"
 collection: projects
-redirect_to: https://github.com/astelrastogi/Tic-Tac-Toe
+redirect_to: https://github.com/astelrastogi/Tetris
 ---
-- A mobile game application using JAVA and Firebase
-- Supports single and multiplayer mode
-- Keeps track of wins and losses for each player 
+- Designed a programming language to make Tetris game and its variants that runs on terminal
+- Implemented the compiler and grammar for the language
