@@ -12,7 +12,7 @@ Special topics guest instructor for the text analysis week
 Date: Feb 24, 2023
 
 ### Slides
-https://docs.google.com/presentation/d/17FyqbkA0MpfBbtqc1ZBku17cS9xP-qZyGBvDHk5m8cQ/edit?usp=sharing
+[Link](https://docs.google.com/presentation/d/17FyqbkA0MpfBbtqc1ZBku17cS9xP-qZyGBvDHk5m8cQ/edit?usp=sharing)
 
 ### Video recording
-https://emory.zoom.us/rec/share/O_LIR1mC6HgXv--ZbLMubUIKzOKB9MFhkRg4FxBh7m4se9xcF--i-pJ0AYi8Qw3J.UV13sygob6HqRLRb
+[Link](https://emory.zoom.us/rec/play/Xg68-04Jt8LMf8EstBXDlkb5SKVNSRU1GJ65_B9E-7wOyGKxBfJ0keqIRtyqpEHULu-eRImZtFlv-g-n.q1xDfbU_b-0Oaqqc?continueMode=true&_x_zm_rtaid=hLyWhsqwSbOINMYi5LSo0g.1677511156135.1bad88a895ec6a5b28f8800a10f346e9&_x_zm_rhtaid=555)
