@@ -25,11 +25,13 @@ Research Interests
 ======
 <ul>
 <li>Multimodal Machine Learning</li>
-<li>On-device Machine Learning</li>
+<li>Wireless Sensing</li>
+<li>Sensor-based Healthcare</li>
 <li>Multisensory Systems</li>
+<li>Radar Systems</li>
 <li>Ubiquitious Computing</li>
 <li>Location Tracking System</li>
-<li>Sensor-based Healthcare</li>
+<li>On-device Machine Learning</li>
 </ul>
 
 <hr color="#FFFFFF" />
