@@ -9,6 +9,7 @@ location: "In-person"
 ---
 
 Special topics guest instructor for the text analysis week
+Date: Feb 24, 2023
 
 ### Slides
 https://docs.google.com/presentation/d/17FyqbkA0MpfBbtqc1ZBku17cS9xP-qZyGBvDHk5m8cQ/edit?usp=sharing
