@@ -15,6 +15,7 @@ Guest instructor
 (Feb 24, 2023)
 
 ### Slides
+I added some notes for the slides we did not have time to cover explicitly + deleted some notes that were not explained / may cause confusion without more explanation
 [Link](https://docs.google.com/presentation/d/17FyqbkA0MpfBbtqc1ZBku17cS9xP-qZyGBvDHk5m8cQ/edit?usp=sharing)
 
 ### Video recording
