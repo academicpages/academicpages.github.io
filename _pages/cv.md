@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 [Curriculum Vitae](../files/CV AASTHA RASTOGI.pdf)
 
-<!-- Education
+Education
 ======
 * B.E. in Computer Science, BITS Pilani, 2023 
 
@@ -19,9 +19,9 @@ Work experience
 * Fall 2022: Undergraduate Thesis Researcher
 * Summer 2022: SDE Intern
   * Amazon
-  * Team: Alexa Data Services -->
+  * Team: Alexa Data Services
 
-<!-- * Fall 2015: Research Assistant
+Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
@@ -55,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Currently signed in to 43 different slack teams
