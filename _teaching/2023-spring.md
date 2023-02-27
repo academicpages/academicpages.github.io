@@ -25,4 +25,5 @@ Guest instructor
 * [Link](https://colab.research.google.com/drive/1rpp73-Nb-vnnjub6til8cMUgDfmR1qnB?usp=sharing)
 
 ### Video recording
+* Seems like the audio was not recorded. But in case you can see the board.
 * [Link](https://emory.zoom.us/rec/play/Xg68-04Jt8LMf8EstBXDlkb5SKVNSRU1GJ65_B9E-7wOyGKxBfJ0keqIRtyqpEHULu-eRImZtFlv-g-n.q1xDfbU_b-0Oaqqc?continueMode=true&_x_zm_rtaid=hLyWhsqwSbOINMYi5LSo0g.1677511156135.1bad88a895ec6a5b28f8800a10f346e9&_x_zm_rhtaid=555)
