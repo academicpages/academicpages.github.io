@@ -1,5 +1,5 @@
 ---
-title: "Introduction to International Politics"
+title: "POLS110: Introduction to International Politics"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2021-spring
