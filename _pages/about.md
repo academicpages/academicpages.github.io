@@ -14,7 +14,7 @@ I am a PhD student in Statistics at the School of Mathematics, [University of Ed
 
 Reseach Interests
 ======
-I am interested in developping robust and efficient Bayesian inference methods for complex dynamical systems and signal processing. My PhD work is focused on Bayesian inference methods for state-space models. 
+I am interested in developping robust and efficient Bayesian inference algorithms for complex dynamical systems and signal processing. My PhD work is focused on Bayesian inference methods for state-space models. 
 
 Publications
 ======
