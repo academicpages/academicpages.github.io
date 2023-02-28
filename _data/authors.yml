@@ -8,6 +8,7 @@ Name Name:
   avatar      : "bio-photo-2.jpg"
   twitter     : "name"
   google_plus : "Name"
+  weibo       : ""
 
 Name2 Name2:
   name        : "Name2 Name2"
@@ -16,3 +17,4 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+  weibo       : ""
