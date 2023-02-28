@@ -37,7 +37,7 @@ header:
 
 <div class="grid-container">
   <div class="grid-item" >
-  	 <img  src="../images/student/GroupPhoto.jpg" width="500"  height="500" alt="students">
+  	 <img  src="../images/student/GroupPhoto.jpg" width="600"  height="600" alt="students">
   </div>
 <!--   <div class="grid-item">
   	<p align="left" >
@@ -51,10 +51,10 @@ header:
  <div class="grid-item">
  <ul>
   
-  <li>Akshay Bhosale. For more information, see the<a href="https://subscripted-subscript.akshayud.me/">Personal WebSite</a></li>
-  <li>Parinaz Barakhshan . For more information, see the<a href="https://sites.udel.edu/parinazb/">Personal WebSite</a></li>     
-  <li>Miguel Rosas. For more information, see the<a href="https://sites.udel.edu/parinazb/">Personal WebSite</a></li>           
-	<li>Miguel Torres . For more information, see the<a href="https://sites.udel.edu/parinazb/">Personal WebSite</a></li>     
+  <li>Akshay Bhosale. For more information, see the <a href="https://subscripted-subscript.akshayud.me/">Personal WebSite</a></li>
+  <li>Parinaz Barakhshan . For more information, see the <a href="https://sites.udel.edu/parinazb/">Personal WebSite</a></li>     
+  <li>Miguel Rosas. For more information, see the <a href="https://sites.udel.edu/parinazb/">Personal WebSite</a></li>           
+	<li>Miguel Torres . For more information, see the <a href="https://sites.udel.edu/parinazb/">Personal WebSite</a></li>     
 	</ul>
  </div>
 </div>
