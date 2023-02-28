@@ -43,6 +43,7 @@ let aladin;
 A.init.then(() => {
     aladin = A.aladin('#aladin-lite-div', {survey: "P/DECaPS/DR2/color", fov:132, cooFrame:"galactic",target: "303 +0", projection: "AIT"});
 });
+aladin.setBackgroundColor("rgb(0, 0, 0)")
 </script>
 <br>
 I led the data reduction for the second and final release of the Dark Energy Camera Plane Survey (DECaPS2). We provide a catalog of 3.32 billion sources in our survey footprint that covers 6.5% of the sky. We developed new methods well-suited to photometry in the Galactic plane, developed improved measures of photometric depth adapted to crowded-fields, and validate our pipeline extensively with synthetic star tests. For more, see our project [website](http://decaps.skymaps.info/).
