@@ -10,6 +10,7 @@ gallery:
 header:
   og_image: "software/spatial_weighting.png"
 ---
+
 <head>
 <style>
 .grid-container {
@@ -48,12 +49,13 @@ header:
 
 <div class="grid-container">
  <div class="grid-item">
-<ul>
-<li>Akshay Bhorsale</li>
-<li>Parinaz Barakhshan</li>
-<li>Miguel Rosas</li>
-<li>Miguel Torres</li>
-</ul>
+ <ul>
+  
+  <li>Akshay Bhosale. For more information, see the<a href="https://subscripted-subscript.akshayud.me/">Personal WebSite<a></li>
+  <li>Parinaz Barakhshan . For more information, see the<a href="https://sites.udel.edu/parinazb/">Personal WebSite<a></li>     
+  <li>Miguel Rosas. For more information, see the<a href="https://sites.udel.edu/parinazb/">Personal WebSite<a></li>           
+	<li>Miguel Torres . For more information, see the<a href="https://sites.udel.edu/parinazb/">Personal WebSite<a></li>     
+	</ul>
  </div>
 </div>
 
@@ -88,8 +90,8 @@ In terms of programming skills, as a rough rule of thumb, I have found that stud
  </div>
 </div>
 
-
 # Research Opportunities for Undergraduate Students
+
 I'm interested in undergraduate students who want to get some research experiences by participating in our projects. This is probably the best way of finding out if you like graduate school. Besides, funding may be available.
 Occasionally I will post a "student challenge" - with awards waiting for the winner. Please check back here.
 
@@ -97,4 +99,3 @@ Occasionally I will post a "student challenge" - with awards waiting for the win
 
 For our own team members: Over the years I have compiled a "Grad Student Survival Guide" - a collection of observations I have made about what makes students succeed in their thesis projects. Please ask me for it - and be sure to give me feedback on what you found especially useful and what you disagree with.
 For other UD graduate students: I'm interested in learning what others in related projects are doing. You are welcome to stop by when you see my office door open - Evans 202.
-
