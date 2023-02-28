@@ -20,6 +20,8 @@ I specifically focus on designing and building innovative and secure mobile sens
 Updates
 =======
 <ul>
+	<li> <b>[Feb 2023]</b> Our short paper on secure group pairing of drone swarms is accepted to VehicleSec Symposium (co-located with NDSS 2023)!
+	</li>
 	<li> <b>[Nov 2022]</b> Our work on secure group pairing of heterogeneous IoT devices is accepted to IEEE S&P 2023!
 	</li>
 	<li> <b>[Oct 2022]</b> Our paper about evasion attacks on physical event verification systems to appear in NDSS 2023!
@@ -40,6 +42,15 @@ Updates
 
 Publications
 ============
+<ul>
+	<li><b>Rethinking Secure Pairing in Drone Swarms</b>
+			<br/>
+		Muslum Ozgur Ozmen<sup>*</sup>, <b>Habiba Farrukh</b><sup>*</sup>, Hyungsub Kim, Antonio Bianchi, Z. Berkay Celik
+			<br/>
+			ISOC Symposium on Vehicle Security and Privacy (VehicleSec '23)
+			<br/>
+	</li>
+</ul>
 <ul>
 	<li><b>One Key to Rule Them All: Secure Group Pairing for Heterogeneous IoT Devices</b>
 			<br/>
@@ -167,6 +178,9 @@ Professional Activity
 	<li>
 		<b>Reviewer</b>
 		<ul>
+			<li>
+				Transactions on Dependable and Secure Computing (TDSC), 2023
+			</li>
 			<li>
 				Transactions on Sensor Networks (TOSN), 2022
 			</li>
