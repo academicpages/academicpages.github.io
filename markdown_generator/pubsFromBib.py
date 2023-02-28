@@ -138,7 +138,7 @@ for pubsource in publist:
             md += "\ncitation: '" + html_escape(citation) + "'"
 
             md += "\n---"
-
+            print("HELLO LINE HEY")
             
             ## Markdown description for individual page
             if note:
