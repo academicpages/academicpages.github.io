@@ -1,5 +1,5 @@
 ---
-title: "174. PROCsimate: A Scheme for Approximating Procedures with Dynamic Quality Monitoring and Result Guarantees"
+title: "`174.` PROCsimate: A Scheme for Approximating Procedures with Dynamic Quality Monitoring and Result Guarantees"
 collection: publications
 permalink: /publication/2017-PROCsimate
 date: 2017-02-02

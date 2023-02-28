@@ -1,5 +1,5 @@
 ---
-title: "178. AutoHiPA: An Automated System for Function Approximation"
+title: "`178.`AutoHiPA: An Automated System for Function Approximation"
 collection: publications
 permalink: /publication/2021-conflict-preemption
 date: 20218-01-01
