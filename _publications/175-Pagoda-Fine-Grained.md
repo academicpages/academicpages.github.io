@@ -1,5 +1,5 @@
 ---
-title: "Pagoda: Fine-Grained GPU Resource Virtualization for Narrow Tasks"
+title: "175. Pagoda: Fine-Grained GPU Resource Virtualization for Narrow Tasks"
 collection: publications
 permalink: /publication/Pagoda_Fine-Grained
 date: 2017-01-01

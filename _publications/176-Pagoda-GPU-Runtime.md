@@ -1,5 +1,5 @@
 ---
-title: "Pagoda: A GPU Runtime System For Narrow Tasks"
+title: "176. Pagoda: A GPU Runtime System For Narrow Tasks"
 collection: publications
 permalink: /publication/2020-civilian-targeting
 date: 2020-12-01
