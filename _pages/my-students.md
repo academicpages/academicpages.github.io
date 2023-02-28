@@ -57,10 +57,9 @@ text-align: left;
       My research interests include:
 	</p>
   <ul>
-  <li>Akshay Bhosale. For more information, see the<a href="https://sites.udel.edu/parinazb/">Personal WebSite</a></li>
-        <li>Optimizing compilers <p align="left" >
-      For more information, see the <a href="https://sites.udel.edu/parinazb/">Personal Web Site</a>
-	</p></li>
+  
+  <li>Akshay Bhosale. For more information, see the<a href="https://sites.udel.edu/parinazb/">Personal WebSite<a><li>
+       
         <li>Programming methodologies</li>
         <li>Source-to-source Translators</li>
         <li>performance evaluation for HPC</li>
