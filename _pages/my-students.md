@@ -7,8 +7,6 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-
-
 <head>
 <style>
 .grid-container {
@@ -26,14 +24,13 @@ header:
 
 .grid-item {
 
- 
-  padding: 10px;
-  font-size: 18px;
-  text-align: left;
+padding: 10px;
+font-size: 18px;
+text-align: left;
 }
 </style>
-</head>
 
+</head>
 
 <h2>Parinaz Barakhshan</h2>
 
@@ -48,9 +45,9 @@ header:
         I have always loved learning, growing, developing, and challenging myself to contribute to something significant. The whole point of learning more is to be able to make a difference in the world. My purpose is to help the world run better.
       </p>
       <p align="left" >
-       I am a part of the HPC Lab at UD headed by Prof. Rudi Eigenmann. In this team, we have been running many experiments through the Clusters provided by UD like Caviness and Darwin. We create software tools to support the larger community involved in HPC research. 
+       I am a part of the HPC Lab at UD headed by Prof. Rudi Eigenmann. In this team, we have been running many experiments through the Clusters provided by UD like Caviness and Darwin. We create software tools to support the larger community involved in HPC research.
       </p>
-  
+
   </div>
 </div>
 
@@ -60,7 +57,9 @@ header:
       My research interests include:
 	</p>
   <ul>
-        <li>Optimizing compilers</li>
+        <li>Optimizing compilers <p align="left" >
+      For more information, see the <a href="https://sites.udel.edu/parinazb/">Personal Web Site</a>
+	</p></li>
         <li>Programming methodologies</li>
         <li>Source-to-source Translators</li>
         <li>performance evaluation for HPC</li>
@@ -71,7 +70,6 @@ header:
 	</p>
   </div>
 
-
 </div>
 <h2>Research Topic: iCetus, An Interactive Parallelizing Compiler</h2>
 <div class="grid-container">
@@ -81,11 +79,9 @@ header:
     <div class="grid-item">
     <b>Project Description: </b> Today’s computers are all multicore. In a modern shared-memory architecture, parallelization techniques enable us to utilize multiple processors simultaneously and improve the performance of an application by converting sequential code into multi-threaded and/or vectorized code. 
 
-Our goal is to develop a tool that allows users with varying skill sets to apply parallelization techniques interactively. 
-    
-    
+Our goal is to develop a tool that allows users with varying skill sets to apply parallelization techniques interactively.
+
     </div>
-    
 
 </div>
 
@@ -94,7 +90,6 @@ Our goal is to develop a tool that allows users with varying skill sets to apply
  While the tool can parallelize the code/ parts of the code in a fully automatic format for Non-expert users,  Power users can finely steer the optimization process through the tool menus to obtain an optimized version of the code.
  </div>
 </div>
-
 
 <h2>Akshay Bhosale</h2>
 
@@ -147,7 +142,7 @@ Our goal is to develop a tool that allows users with varying skill sets to apply
    
     
     </div>
-    
+
 
 </div>
 
@@ -205,7 +200,7 @@ sors relies on the different compiler optimizations. Determining what optimizati
    
     
     </div>
-    
+
 
 </div>
 
@@ -222,7 +217,6 @@ sors relies on the different compiler optimizations. Determining what optimizati
   
   </div>
 </div>
-
 
 <div class="grid-container2">
  <div class="grid-item">
@@ -255,11 +249,9 @@ sors relies on the different compiler optimizations. Determining what optimizati
     <div class="grid-item">
     <b>Project Description: </b> Loop blocking (tiling) is a well-known compiler optimization that helps improve cache performance by dividing the loop iteration space into smaller blocks (tiles); reuse of array elements within each tile is maximized by ensuring that the working set for the tile fits into the data cache. 
     </div>
-    
+
 
 </div>
-
-
 
 <nbsp>
 
