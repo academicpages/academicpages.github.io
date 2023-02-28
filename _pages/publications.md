@@ -11,8 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+<html>
+<head>
+<h1>HEY</h1>
+</head>
+<body>
+<div id="result">HELLO TEST</div>
+</body>
+</html>
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 <sup>*</sup> Equal authorship
