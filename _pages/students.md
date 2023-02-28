@@ -1,6 +1,6 @@
 ---
 permalink: /student/
-title: "My students"
+title: ""
 gallery:
   - url: student/students.jpg
     image_path: student/students.jpg
@@ -33,17 +33,12 @@ header:
 </style>
 </head>
 
-# Prospective graduate students
+# My Students
 
 <div class="grid-container">
   <div class="grid-item" >
   	 <img  src="../images/student/GroupPhoto.jpg" width="600"  height="600" alt="students">
   </div>
-<!--   <div class="grid-item">
-  	<p align="left" >
-        I'm always looking for good graduate students who eventually become research assistants in my group. While I may not have immediate funding awailable for new research assistants, I am always writing new research proposals that budget such positions; if the proposals get funded, new positions become available. 
-      </p>
-  
   </div> 
 </div>
 
