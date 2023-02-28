@@ -35,29 +35,26 @@ header:
 # Prospective graduate students
 
 <div class="grid-container">
-  <div class="grid-item">
-  	 <img  src="../images/student/GroupPhoto.jpg" width="300"  height="300" alt="students">
+  <div class="grid-item" >
+  	 <img  src="../images/student/GroupPhoto.jpg" width="500"  height="500" alt="students">
   </div>
-  <div class="grid-item">
+<!--   <div class="grid-item">
   	<p align="left" >
         I'm always looking for good graduate students who eventually become research assistants in my group. While I may not have immediate funding awailable for new research assistants, I am always writing new research proposals that budget such positions; if the proposals get funded, new positions become available. 
       </p>
   
-  </div>
+  </div> -->
 </div>
 
-# Prospective graduate students
-
 <div class="grid-container">
-  <div class="grid-item">
-  	 <img  src="../images/student/students.jpg" width="300"  height="300" alt="students">
-  </div>
-  <div class="grid-item">
-  	<p align="left" >
-      Akshay Bhosale. For more information, see the <a href="https://sites.udel.edu/parinazb/">Personal Web Site</a>
-	</p>
-  
-  </div>
+ <div class="grid-item">
+<ul>
+<li>Akshay Bhorsale</li>
+<li>Parinaz Barakhshan</li>
+<li>Miguel Rosas</li>
+<li>Miguel Torres</li>
+</ul>
+ </div>
 </div>
 
 # Prospective graduate students
