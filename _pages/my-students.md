@@ -57,6 +57,7 @@ text-align: left;
       My research interests include:
 	</p>
   <ul>
+  <li>Akshay Bhosale. For more information, see the<a href="https://sites.udel.edu/parinazb/">Personal WebSite</a></li>
         <li>Optimizing compilers <p align="left" >
       For more information, see the <a href="https://sites.udel.edu/parinazb/">Personal Web Site</a>
 	</p></li>
@@ -143,7 +144,6 @@ Our goal is to develop a tool that allows users with varying skill sets to apply
     
     </div>
 
-
 </div>
 
 <h2>Miguel Rosas</h2>
@@ -201,7 +201,6 @@ sors relies on the different compiler optimizations. Determining what optimizati
     
     </div>
 
-
 </div>
 
 <h2>Miguel Torres</h2>
@@ -249,7 +248,6 @@ sors relies on the different compiler optimizations. Determining what optimizati
     <div class="grid-item">
     <b>Project Description: </b> Loop blocking (tiling) is a well-known compiler optimization that helps improve cache performance by dividing the loop iteration space into smaller blocks (tiles); reuse of array elements within each tile is maximized by ensuring that the working set for the tile fits into the data cache. 
     </div>
-
 
 </div>
 
