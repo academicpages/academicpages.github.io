@@ -37,10 +37,10 @@ header:
 
 <div class="grid-container">
   <div class="grid-item" >
-  	 <img  src="../images/student/GroupPhoto.jpg" width="600"  height="600" alt="students">
+  	 <img  src="../images/student/GroupPhoto.jpg" width="600"  height="600" alt="students"/>
   </div>
-  </div> 
-</div>
+</div> 
+
 
 <div class="grid-container">
  <div class="grid-item">
@@ -88,9 +88,9 @@ In terms of programming skills, as a rough rule of thumb, I have found that stud
 # Research Opportunities for Undergraduate Students
 
 I'm interested in undergraduate students who want to get some research experiences by participating in our projects. This is probably the best way of finding out if you like graduate school. Besides, funding may be available.
-Occasionally I will post a "student challenge" - with awards waiting for the winner. Please check back here.
+Occasionally I will post a "student challenge" with awards waiting for the winner. Please check back here.
 
 # Current UD Graduate StudentsResearch Opportunities for Undergraduate Students
 
-For our own team members: Over the years I have compiled a "Grad Student Survival Guide" - a collection of observations I have made about what makes students succeed in their thesis projects. Please ask me for it - and be sure to give me feedback on what you found especially useful and what you disagree with.
+For our own team members: Over the years I have compiled a "Grad Student Survival Guide" a collection of observations I have made about what makes students succeed in their thesis projects. Please ask me for it - and be sure to give me feedback on what you found especially useful and what you disagree with.
 For other UD graduate students: I'm interested in learning what others in related projects are doing. You are welcome to stop by when you see my office door open - Evans 202.
