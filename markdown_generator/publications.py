@@ -62,7 +62,9 @@ def html_escape(text):
 # In[5]:
 
 import os
-for row, item in publications.iterrows():
+public = publicatons.sort();
+print(public);
+for row, item in public.iterrows():
     
     md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
     html_filename = str(item.pub_date) + "-" + item.url_slug
