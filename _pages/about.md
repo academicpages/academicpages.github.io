@@ -1,23 +1,30 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Seung Chul (Eric) Lee"
+excerpt: "Seung Chul (Eric) Lee"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my website!
+Research interests: Corporate finance, Entrepreneurial finance, Corporate governance, Emerging markets, Payout policy.
 
-I am a current Master's student studying statistics at the University of Chicago. I am also working as a research assistant for <a href="https://emanuelecolonnelli.com/" target="_blank">Professor Emanuele Colonnelli</a> and <a href="https://thomas-rauter.com/" target="_blank">Professor Thomas Rauter</a> at the Booth School of Business. I was previously an RA for <a href="https://anthonyleezhang.github.io/" target="_blank">Professor Anthony Zhang</a>, an RA for <a href="https://ysb.yonsei.ac.kr/faculty.asp?mid=n02&sOpt=&uid=32" target="_blank">Professor Hyun-Han Shin</a> and a TA for <a href="https://ysb.yonsei.ac.kr/faculty.asp?mid=n02&sOpt=&uid=118" target="_blank">Professor Saeyeul Park</a> at Yonsei University. I will be applying to PhD programs in finance for admissions in Fall 2023.
+__EDUCATION__
 
-I have been interested in finance research since I was an undergraduate student at Yonsei University. My research interests revolve around the role of information in corporate decisions and investment activities. Here is a list of questions that I find intriguing:
-- Do dividend payments signal insider information to outside investors? If so, how does it impact investors' behavior? If not, why do some firms choose to pay dividends while others do not?
-- How does ESG-related reporting affect managerial decisions? Do ESG scores of firms change investors' perception?
-- How can managers of promising startups signal information to distinguish themselves from their less competent peers? In reverse, how will less competent firms try to mask their weaknesses, say, for obtaining venture capital funding? Is there a way for investors to tell them apart?
-- What kind of signals do startup founders look for when trying to obtain new investments?
+- MS, _Statistics_, The University of Chicago, 2021 - 2023
+- BBA, _Business Administration_, Yonsei University, 2014 - 2020
 
-All of my past research experiences have been attempts at understanding one of the above questions.
+__WORKING PAPERS__
 
-I believe understanding corporate finance is of the utmost importance, as we live in an age where Space X has become the forerunner of space programs and social media (e.g., YouTube, Twitter, etc.) has risen as a key source of information. Almost nothing can be achieved without active participation from the private sector. Therefore, knowing how CEOs behave and respond to different incentives is pivotal for making policies to address climate issues or encouraging investments toward developing countries. I hope to be a part of this critical goal as a future scholar.
+- <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4180284" target="_blank">Dividend Taxes, Corporate Choice, and Investment: Evidence from 2015 Tax Cut in South Korea</a> (with Saeyeul Park) \[Accepted at the _Pacific-Basin Finance Journal_\]
+- Pre-IPO Market Trading and IPO Performance (with Jiyoon Lee and Hyun-Han Shin)
+- ESG Ratings and Corporate Investment: Evidence from an External Financial Shock Caused by COVID-19 in Korea (with Kyooyoung Kwak, in Korean)
+  - 2nd Place Winner, 2021 Korea Corporate Governance Service Student Paper Competition
+
+__RESEARCH EXPERIENCE__
+
+- Research Assistant for <a href="https://emanuelecolonnelli.com/" target="_blank">Professor Emanuele Colonnelli</a> and <a href="https://thomas-rauter.com/" target="_blank">Professor Thomas Rauter</a>
+- Research Assistant for <a href="https://anthonyleezhang.github.io/" target="_blank">Professor Anthony Zhang</a>
+- Research Assistant for <a href="https://ysb.yonsei.ac.kr/faculty.asp?mid=n02&sOpt=&uid=32" target="_blank">Professor Hyun-Han Shin</a>
+
