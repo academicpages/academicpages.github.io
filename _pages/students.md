@@ -44,17 +44,17 @@ header:
         I'm always looking for good graduate students who eventually become research assistants in my group. While I may not have immediate funding awailable for new research assistants, I am always writing new research proposals that budget such positions; if the proposals get funded, new positions become available. 
       </p>
   
-  </div> -->
+  </div> 
 </div>
 
 <div class="grid-container">
  <div class="grid-item">
  <ul>
   
-  <li>Akshay Bhosale. For more information, see the<a href="https://subscripted-subscript.akshayud.me/">Personal WebSite<a></li>
-  <li>Parinaz Barakhshan . For more information, see the<a href="https://sites.udel.edu/parinazb/">Personal WebSite<a></li>     
-  <li>Miguel Rosas. For more information, see the<a href="https://sites.udel.edu/parinazb/">Personal WebSite<a></li>           
-	<li>Miguel Torres . For more information, see the<a href="https://sites.udel.edu/parinazb/">Personal WebSite<a></li>     
+  <li>Akshay Bhosale. For more information, see the<a href="https://subscripted-subscript.akshayud.me/">Personal WebSite</a></li>
+  <li>Parinaz Barakhshan . For more information, see the<a href="https://sites.udel.edu/parinazb/">Personal WebSite</a></li>     
+  <li>Miguel Rosas. For more information, see the<a href="https://sites.udel.edu/parinazb/">Personal WebSite</a></li>           
+	<li>Miguel Torres . For more information, see the<a href="https://sites.udel.edu/parinazb/">Personal WebSite</a></li>     
 	</ul>
  </div>
 </div>
