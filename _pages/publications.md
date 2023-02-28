@@ -6,13 +6,19 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
 
 <html>
 <head>
+<script>
+   const url=""
+ async function makeAPICALL(){
+  const result = await fetch(url)
+ }
+</script>
 <h1>HEY</h1>
 </head>
 <body>
@@ -21,6 +27,5 @@ author_profile: true
 </html>
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %} -->
-
-<sup>*</sup> Equal authorship
+{% endfor %}
+ -->
