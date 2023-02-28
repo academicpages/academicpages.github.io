@@ -1,5 +1,20 @@
 # Trabalhos de Cálculo Numérico
 
+### Atenção
+
+O trabalho deverá ser entregue em arquivo pdf. Os códigos utilizados deverão ser encaminhados. encaminhar somente arquivos .jl. Arquivos do notebook Jupyter não serão aceitos. Um único membro do grupo deverá encaminhar o trabalho. Este encaminhamento deverá ser feito pelo Google Classroom em um formulário que será disponibilizado na época do envio. lembrem de colocar o nome de cada membro do grupo tanto no trabalho (arquivo pdf) quanto nos códigos que forem enviados.
+
+### Avaliação do Trabalho
+
+O trabalho será avaliado considerando:
+
+a) Sua organização;
+b) Profundidade da abordagem do tema;
+c) Qualidade e quantidade dos experimentos numéricos desenvolvidos e apresentados;
+d) Informações corretas apresentadas;
+e) Pertinência das referências apresentadas;
+
+# Trabalhos
 
 ## Trabalho 01
 
@@ -12,12 +27,12 @@ Agora, do ponto de vista teórico, mostre que:
 
 Seja $\{x_n\}$ uma sequência que converge com ordem 1 ao limite $u$ tal que $e_n = x_n-u$ satisfaz $$e_{n+1}=(A+\delta_n)e_n, \quad e_n \ne 0,$$ onde $A$ é uma constante tal que $0 < A < 1$ e $\lim_{n \to +\infty}\delta_n = 0$. Então a sequência $\{x_n'\}$, definida acima, converge para $u$ mais rapidamente do que $\{x_n\}$, ou seja, $$\lim_{n \to +\infty} \frac{x_n'-u}{x_n-u}=0.$$
 
-Construa mais exemplos que mostram esse comportamento.
+Construa mais exemplos que mostrem esse comportamento. Implemente, usando a linguagem Julia, cada um desses exemplos. Compare cada uma dessas sequências considerando a aceleração proposta neste exercício. Faça comentários. Use gráficos e tabelas.
 
 
 ## Trabalho 2
 
-Implementar, em Julia, o Método da Falsa Posição. Fazer um estudo comparativo com o Método da Bisseção, Ponto Fixo e Newton. Esse estudo deve seguir a seguinte linha:
+Implementar, em Julia, o **Método da Falsa Posição**. Fazer um estudo comparativo com o Método da Bisseção, Ponto Fixo e Newton. Esse estudo deve seguir a seguinte linha:
 
 1. Escolher problemas testes adequados para o estudo;
 2. Implementar os métodos acima mencionados;
@@ -27,7 +42,7 @@ Implementar, em Julia, o Método da Falsa Posição. Fazer um estudo comparativo
 
 ## Trabalho 3
 
-Implementar, em Julia, o Método da Tangente. Fazer um estudo comparativo com o Método da Bisseção, Ponto Fixo e Newton. Esse estudo deve seguir a seguinte linha:
+Implementar, em Julia, o **Método da Secante**. Fazer um estudo comparativo com o Método da Bisseção, Ponto Fixo e Newton. Esse estudo deve seguir a seguinte linha:
 
 1. Escolher problemas testes adequados para o estudo;
 2. Implementar os métodos acima mencionados;
@@ -51,7 +66,7 @@ Implemente o algoritmo acima, em Julia. Compare seu desempenho com o Método da 
 
 ## Trabalho 05
 
-Implementar o Método de Newton para resolver um sistema de equações não lineares. Utilizar o método para encontrar pontos críticos de funções do tipo $f:\mathbb{R}^2 \to \mathbb{R}$. Fazer testes com várias funções. Construir um gráfico que mostre, para uma função, os pontos da sequência juntamente com as curvas de nível da função. Analise funções que tenham um único ponto crítico e funções que tenham mais de um ponto crítico.
+Implementar o **Método de Newton** para resolver um sistema de equações não lineares. Utilizar o método para encontrar pontos críticos de funções do tipo $f:\mathbb{R}^2 \to \mathbb{R}$. Fazer testes com várias funções. Construir gráficos que mostrem, para uma dada função, os pontos da sequência juntamente com as curvas de nível da função. Analise funções que tenham um único ponto crítico e funções que tenham mais de um ponto crítico. Escolha funções adequadas para avaliar o método.
 
 ## Trabalho 06
 
@@ -59,8 +74,12 @@ Os métodos clásicos para determinação de pontos mínimos locais (ou máximos
 
 ## Trabalho 07
 
+Implementar, em Julia, o **Método de Newton adaptado**, ou seja, $$ x_{n+1} = x_n - \frac{f(x_n)}{f'(x_0)},$$ para $x_0$ dado nos termos do Método de Newton. Fazer um estudo comparativo com o Método da Bisseção, Ponto Fixo e Newton. Esse estudo deve seguir a seguinte linha:
+
+1. Escolher problemas testes adequados para o estudo;
+2. Implementar os métodos acima mencionados;
+3. Fazer gráficos e tabelas para analisar o comportamento desses métodos;
+4. Com base nos resultados, comparar a velocidade de convergência desses métodos.
+
 ## Trabalho 08
 
-## Trabalho 09
-
-## Trabalho 10
