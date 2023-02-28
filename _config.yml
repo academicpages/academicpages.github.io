@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "HEALER003 / Site Title"
+title                    : "张倚梅 / 主页"
 title_separator          : "-"
-name                     : &name "HEALER003"
-description              : &description "personal description"
+name                     : "张倚梅"
+description              : "南京大学新闻传播学院本科生"
 url                      : https://HEALER003.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/HEALER003.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "张倚梅"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "HEALER003"
   google_plus      :
   keybase          :
   instagram        :
