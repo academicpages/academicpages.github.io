@@ -22,4 +22,4 @@ Combinatorics, 103, 103527. 
 
 ### Surveys
 
-1. A [survey](https://drive.google.com/file/d/1TBqZnBZ31e-hopuGBUF3Zhvh1SxQtLMq/view?usp=share_link) on sum of squares and pseudo-distributions used on the knapsack problem. Written by [Pravesh Kothari](http://www.cs.cmu.edu/~praveshk/) and I.
+1. A [survey](http://sherrysarkar.github.io/files/KnapsackSoS.pdf) on sum of squares and pseudo-distributions used on the knapsack problem. Written by [Pravesh Kothari](http://www.cs.cmu.edu/~praveshk/) and I.
