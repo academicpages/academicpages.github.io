@@ -41,8 +41,10 @@ Work experience
 
 Education
 ======
-* B.S. in [METU EE](https://eee.metu.edu.tr), 2020
-* M.Sc. in [METU EE](https://eee.metu.edu.tr), 2023
+* M.Sc. in [METU EEE](http://eee.metu.edu.tr), 2023
+  * [CENG501 - Deep Learning](https://user.ceng.metu.edu.tr/~emre/Fall2021-DeepLearning.html)
+* B.S. in [METU EEE](http://eee.metu.edu.tr), 2020
+  * [Specializations](http://eee.metu.edu.tr/specialization-fields-and-courses): Control & Signal Processing
 
 ---
 
@@ -62,3 +64,14 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+---
+
+Certificates
+======
+* [Deep Learning Specialization](https://coursera.org/share/79580f92edccc4e2cb215aca730a2d80) by Coursera & DeepLearning.AI
+  * Structuring Machine Learning Projects
+  * Neural Networks and Deep Learning
+  * Convolutional Neural Networks
+  * Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
+  * Sequence Models
