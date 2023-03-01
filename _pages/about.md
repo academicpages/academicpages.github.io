@@ -6,11 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-gallery:
-  - url: aboutMe/rudi.jpg
-    image_path: aboutMe/rudi.jpg
-    alt: "Rudolf"
-    title: "Rudolf" 
 ---
 
 {% include gallery %}
