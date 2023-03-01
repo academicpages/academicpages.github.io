@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a professional with experience in Machine Learning Engineering, Backend Development, and DevOps. I hold a B.S. in Electrical and Electronics Engineering from the Middle East Technical University. My professional work experience includes
+Hello! I am a developer with experience in
 * Python (flask, fastapi, pytorch, pandas)
 * Containerization technologies (docker, docker compose)
 * CI/CD (GitHub Actions)
@@ -17,7 +17,9 @@ Hello! I am a professional with experience in Machine Learning Engineering, Back
 * Linux terminals
 * Some frontend (React, Vue)
 
-In addition to my professional experience, I have a personal interest in functional programming concepts, which involves programming with functions and immutable data structures. I find these ideas fascinating and try to incorporate them into my work where they're applicable.
+I hold a B.S. in Electrical and Electronics Engineering from the Middle East Technical University.
+
+In addition to my professional experience, I have a personal interest in functional programming concepts, some of which are immutable data structures, determinist functions, and lazy evaluation. I find these ideas fascinating and try to incorporate them into my work where they're applicable.
 
 As a side project, I developed [kjbot](https://furkan.github.io/portfolio/korsanjaime/) in 2019, a Telegram bot that tracks debts between housemates. This was a fun project that allowed me to apply my programming skills to a practical problem. Since then, I tried to update the bot's codebase and introduce technologies that I learned as an always-learning developer.
 
