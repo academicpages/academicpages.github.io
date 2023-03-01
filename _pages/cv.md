@@ -9,9 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+Work experience
+======
+* 2022 - : PostDoc, Research Group for Genomic Epidemiology, Technical University of Denmark (current)
+* 2019-2023 : PhD student, Research Group for Genomic Epidemiology, Technical University of Denmark
+* 2022 : Visiting PhD Student, University of Vic - Central University of Catalonia, Spain.
+* 2019 : Research Assistant, Research Group for Genomic Epidemiology, Technical University of Denmark
+* 2017-2019: Student Assistant, in the data science team Advanced Analytics, Novozymes, Copenhagen
+
 Education
 ======
-* Ph.D in Bioinformatics in the Research Group for Genomic Epidemiology, TechnicalUniversity of Denmark, 2019-2022
+* Ph.D in Bioinformatics in the Research Group for Genomic Epidemiology, Technical University of Denmark, 2019-2022
 * M.Sc. in Bioinformatics and Systems Biology, Technical University of Denmark, 2017-2019
 * B.Sc. in Biotechnology, Technical University of Denmark, 2014-2017
 
@@ -23,8 +31,8 @@ Publications
 
 Presentations 
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html reversed%}
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
 Teaching & Supervision
@@ -41,13 +49,8 @@ Skills
 * R 
 * Python
 * SQL
-
-Work experience
-======
-* 2019- : PhD student, Research Group for Genomic Epidemiology, TechnicalUniversity of Denmark (current)
-* 2022 : Visiting PhD Student, University of Vic - Central University of Catalonia, Spain.
-* 2019 : Research Assistant, Research Group for Genomic Epidemiology, TechnicalUniversity of Denmark
-* 2017-2019: Student Assistant, in the data science team Advanced Analytics, Novozymes, Copenhagen
+* Bash
+* High-Performance Computing
 
 Projects
 ======
