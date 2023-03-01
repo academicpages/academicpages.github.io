@@ -19,10 +19,10 @@ My research interests are broadly defined at the intersection of Machine Learnin
 
 
 # News
-- **Feb, 2022:** [Team PLANBot](https://vtx.vt.edu/articles/2023/02/-virginia-tech-team-selected-for-the-alexa-prize-taskbot-challen.html) is selected as one of the 10 university teams for the the Alexa Prize TaskBot Challenge 2! We are grateful for the funding and support from Amazon Alexa AI.       
-- **Feb, 2022:** Exciting times to do research in AI/ML for Healthcare (ML4H). Read our PLOS Digital Health editorial on what ChatGPT passing the USMLE exam tells us about medical education [here](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000205). 
-- **Feb, 2022:** Serving as Area Chair (AC) for ACL'23 and MICCAI'23, and as Medical Computer Vision Section Editor for the PLOS Digital Health Journal.
-- **Jan, 2022:** Talk at STR: Robust Visual Understanding with Limited Supervision.
+- **Feb, 2023:** [Team PLANBot](https://vtx.vt.edu/articles/2023/02/-virginia-tech-team-selected-for-the-alexa-prize-taskbot-challen.html) is selected as one of the 10 university teams for the the Alexa Prize TaskBot Challenge 2! We are grateful for the funding and support from Amazon Alexa AI.       
+- **Feb, 2023:** Exciting times to do research in AI/ML for Healthcare (ML4H). Read our PLOS Digital Health editorial on what ChatGPT passing the USMLE exam tells us about medical education [here](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000205). 
+- **Feb, 2023:** Serving as Area Chair (AC) for ACL'23 and MICCAI'23, and as Medical Computer Vision Section Editor for the PLOS Digital Health Journal.
+- **Jan, 2023:** Talk at STR: Robust Visual Understanding with Limited Supervision.
 - **Dec, 2022:** Thank you to the Commonwealth Cyber Initiative (CCI) for the new funding! 
 - **Nov, 2022:** Gave a talk on multimodal explainable AI models for clinical reasoning ([slides](https://isminoula.github.io/files/CriticalCareDataAnalysisSummit2022.pdf)) at the [Critical Care Data Analysis Summit and Tarragona Datathon 2022](https://www.datathontarragona.com/summit.html).
 - **Oct, 2022:** Excited to receive an [Amazon-VT faculty research award](https://www.amazon.science/latest-news/amazon-and-virginia-tech-announce-inaugural-fellowship-and-faculty-research-award-recipients) to work on Embodied AI research!
