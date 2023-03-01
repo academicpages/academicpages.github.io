@@ -20,6 +20,7 @@ __EDUCATION__
 
 - MS, _Statistics_, The University of Chicago, 2021 - 2023
 - BBA, _Business Administration_, Yonsei University, 2014 - 2020
+  - Military Service (2016 - 2018)
 
 __WORKING PAPERS__
 ---
