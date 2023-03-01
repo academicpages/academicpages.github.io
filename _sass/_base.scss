@@ -5,8 +5,8 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
-  background-color: #000000;
-  color: #ffffff;
+  // background-color: #000000;
+  // color: #ffffff;
 }
 
 body {
@@ -16,8 +16,8 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
-  background-color: #000000;
-  color: #ffffff;
+  // background-color: #000000;
+  // color: #ffffff;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -252,7 +252,8 @@ figcaption {
     transition: $global-transition;
 
     &:hover {
-      color: #000;
+      color: #ffffff;
+      
       border-bottom-color: #000;
     }
   }
