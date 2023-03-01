@@ -20,7 +20,7 @@ Work experience
   * Embedded work (Raspberry Pi & Jetson devices)
 
 * Oct 2020 - Mar 2022: Research Assistant @ [METU Heart Research Laboratory](https://hrl.eee.metu.edu.tr)
-  * Worked with Assoc. Prof. Yeşim Serinağaoğlu on her TUBITAK funded projects:
+  * Worked with [Assoc. Prof. Yeşim Serinağaoğlu](https://blog.metu.edu.tr/yserin/) on her TUBITAK funded projects:
     * Application of Bayesian Estimation Methods to Electrocardiographic Imaging: Prior Model Selection and Reduction of Noise Effects
     * Performance Evaluation of Noninvasive Electrocardiographic Imaging for the Localization of Premature Ventricular Contractions from Clinical Data
 
@@ -53,8 +53,9 @@ Skills
 * Python
 * Docker & Docker Compose
 * CI/CD (GitHub Actions)
-* AWS
-  * EC2, ECR, Lambda, DynamoDB, Lightsail
+* AWS (EC2, ECR, Lambda, DynamoDB, Lightsail)
+* Bash
+* Linux terminals
 * Trivial React & Vue
 
 ---
