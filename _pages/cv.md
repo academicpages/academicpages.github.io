@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+---
+
 Work experience
 ======
 * Mar 2022 - Present: Jr. Machine Learning Engineer @ [Novit AI](https://novit.ai)
@@ -35,11 +37,15 @@ Work experience
   * Worked with the future construction plans of the cities to decide on suitable locations for the new transformers and underground cables.
   * Modeled the said networks in the CYME software.
 
+---
+
 Education
 ======
 * B.S. in [METU EE](https://eee.metu.edu.tr), 2020
 * M.Sc. in [METU EE](https://eee.metu.edu.tr), 2023
-  
+
+---
+
 Skills
 ======
 * Python
@@ -48,6 +54,8 @@ Skills
 * AWS
   * EC2, ECR, Lambda, DynamoDB, Lightsail
 * Trivial React & Vue
+
+---
 
 Publications
 ======
