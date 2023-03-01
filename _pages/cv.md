@@ -9,51 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mar 2022 - Present: Jr. Machine Learning Engineer @ [Novit AI](https://novit.ai)
+  * Machine/deep learning pipelines with PyTorch
+  * Containerization with Docker and Docker Compose
+  * REST APIs with FastAPI on AWS cloud servers
+  * Embedded work (Raspberry Pi & Jetson devices)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct 2020 - Mar 2022: Research Assistant @ [METU Heart Research Laboratory](https://hrl.eee.metu.edu.tr)
+  * Worked with Assoc. Prof. Yeşim Serinağaoğlu on her TUBITAK funded projects:
+    * Application of Bayesian Estimation Methods to Electrocardiographic Imaging: Prior Model Selection and Reduction of Noise Effects
+    * Performance Evaluation of Noninvasive Electrocardiographic Imaging for the Localization of Premature Ventricular Contractions from Clinical Data
+
+* Summer 2019: Machine Learning Engineer Intern @ [Darkblue Telecommunications](https://www.linkedin.com/company/darkblue-telecommunication-systems/)
+  * Became familiar with convolutional neural networks.
+  * Trained a road detecting model and tested it on videos from a drone.
+
+* Summer 2019: Electronics Engineer Intern @ [Aircar Corp](https://www.aircar.aero/)
+  * Did research on battery management systems.
+  * Worked on the safety of electronic components.
+
+* Summer 2018: Electrical Engineer Intern @ [ELTEMTEK](https://www.eltemtek.com.tr/)
+  * Designed and modeled new electric distribution networks for several districts in Turkey.
+  * Worked with the future construction plans of the cities to decide on suitable locations for the new transformers and underground cables.
+  * Modeled the said networks in the CYME software.
+
+Education
+======
+* B.S. in [METU EE](https://eee.metu.edu.tr), 2020
+* M.Sc. in [METU EE](https://eee.metu.edu.tr), 2023
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Docker & Docker Compose
+* CI/CD (GitHub Actions)
+* AWS
+  * EC2, ECR, Lambda, DynamoDB, Lightsail
+* Trivial React & Vue
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
