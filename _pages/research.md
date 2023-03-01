@@ -37,6 +37,7 @@ We are creating HPC benchmarks that are representative of real-world application
 
 <b>Collaborators: </b> <a href="https://www.eecis.udel.edu/~schandra/">Sunita Chandrasekaran</a>, <a href="https://itnews.iu.edu/people/henschel.php">Robert Henschel</a>
 
+----------------------------------------------------------------------------------------------------
 
 <h3>Cetus Source-to-Source Compiler Infrastructure</h3>
 <img src="../images/research/cetus.png" width="300" 
@@ -52,7 +53,29 @@ The Cetus project is a collaboration with Purdue University. NSF awards:
 <b>Research Staff: </b> <a href="https://akshayud.me">Akshay Bhosale</a>, Parinaz Barakhshan, Jan Sher Khan, Hao Wang  
 <b>Collaborators: </b> <a href="https://engineering.purdue.edu/~smidkiff/">Samuel Midkiff</a>, Milind Kulkarni.
 
+----------------------------------------------------------------------------------------------------
+<h3>Cetus Source-to-Source Compiler Infrastructure</h3>
+<img src="../images/research/programAnalysis.jpeg" width="300" 
+     height="300" alt="cetus">
+ 
+In this project we develop novel compiler analysis techniques that gather information from the program that enables parallelization of code that could not be parallelized in the past. Our current focus in on analyzing properties of the content of subscript arrays.
 
+<a href="https://sites.udel.edu/cetus-cid/">Project Site</a>
+<b>Research Staff: </b> <a href="https://akshayud.me">Akshay Bhosale</a>
+
+
+----------------------------------------------------------------------------------------------------
+
+<h3>Interactive Parallelization Tools</h3>
+<img src="../images/research/interactive.png" width="300" 
+     height="300" alt="cetus">
+ 
+A tool is being developed that allows users to apply parallelization in a semi-automatic way. Experts can steer the parallelization process through tool menus and program directives. Non-experts can direct the tool to automatically parallelize parts of or the full program.
+An initial prototype of an interactive parallelizer is part of the current Cetus release.
+
+<b>Research Staff: </b> <a href="https://akshayud.me">Parinaz Barakhshan</a>
+
+----------------------------------------------------------------------------------------------------
 
 <nbsp>
 
