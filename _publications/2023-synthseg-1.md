@@ -1,0 +1,12 @@
+---
+title: "Robust machine learning segmentation for large-scale analysis of heterogeneous clinical brain MRI datasets"
+collection: publications
+permalink: /publication/2023-synthseg-1
+excerpt: 'SynthSeg+ is an image segmentation tool for automated analysis of highly heterogeneous brain MRI clinical scans. Our method relies on a new strategy to train deep neural networks, such that it can robustly analyze scans of any contrast and resolution without retraining, which was previously impossible. Moreover, SynthSeg+ enables scalable quality control of the produced results by automatic detection of faulty segmentations. Our tool is publicly available with FreeSurfer and can be used “out-of-the-box”, which facilitates its use and enhances reproducibility. By unlocking the analysis of heterogeneous clinical data, SynthSeg+ has the potential to transform neuroimaging studies, given the considerable abundance of clinical scans compared to the size of datasets used in research.'
+date: 2023-2-28
+venue: 'Proceedings of the National Academy of Sciences of the United States of America'
+citation: 'Billot, B., Magdamo, C., Cheng, Y., Arnold, S. E., Das, S., & Iglesias, J. E. (2023). Robust machine learning segmentation for large-scale analysis of heterogeneous clinical brain MRI datasets. Proceedings of the National Academy of Sciences, 120(9), e2216399120.' 
+---
+Every year, millions of brain MRI scans are acquired in hospitals, which is a figure considerably larger than the size of any research dataset. Therefore, the ability to analyze such scans could transform neuroimaging research. Yet, their potential remains untapped since no automated algorithm is robust enough to cope with the high variability in clinical acquisitions (MR contrasts, resolutions, orientations, artifacts, and subject populations). Here, we present SynthSeg+, an AI segmentation suite that enables robust analysis of heterogeneous clinical datasets. In addition to whole-brain segmentation, SynthSeg+ also performs cortical parcellation, intracranial volume estimation, and automated detection of faulty segmentations (mainly caused by scans of very low quality). We demonstrate SynthSeg+ in seven experiments, including an aging study on 14,000 scans, where it accurately replicates atrophy patterns observed on data of much higher quality. SynthSeg+ is publicly released as a ready-to-use tool to unlock the potential of quantitative morphometry.
+
+[Download paper here](https://lilianyou.github.io/files/2023_SynthSeg_PNAS_Billot.pdf)

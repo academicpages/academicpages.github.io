@@ -38,6 +38,8 @@ Work experience
 Publications
 ======
 
+* Billot, B., Magdamo, C., <b>Cheng, Y.</b>, Arnold, S. E., Das, S., & Iglesias, J. E. (2023). Robust machine learning segmentation for large-scale analysis of heterogeneous clinical brain MRI datasets. Proceedings of the National Academy of Sciences, 120(9), e2216399120. [[pdf](https://lilianyou.github.io/files/2023_SynthSeg_PNAS_Billot.pdf)]
+
 * <b>Cheng, Y. *</b>, He, C. *, Hegarty, M., & Chrastil, E. R. (2022). Who Believes They Are Good Navigators? A Machine Learning Pipeline Highlights the Impact of Gender, Commuting Time, and Education. Machine Learning with Applications, 100419. *denotes equal authorship [[pdf](https://lilianyou.github.io/files/2022_self_report_MLWA_Cheng.pdf)] <b>Editor's Choice Articles</b>
 
 * <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Evidence for a travel direction signal in humans that is independent of head direction. [[preprint](https://www.biorxiv.org/content/10.1101/2022.08.22.504860v1)]
