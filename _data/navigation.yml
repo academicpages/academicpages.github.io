@@ -9,14 +9,14 @@ main:
   - title: "Projects"
     url: /publications/
     
-  - title: "Services"
-    url: /portfolio/
+  # - title: "Services"
+  #   url: /portfolio/
         
   # # - title: "Blog Posts"
   # #   url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+  - title: "Skills and Services"
+    url: /cv/
     
   - title: "Contact"
     url: /markdown/
