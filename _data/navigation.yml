@@ -6,11 +6,11 @@ main:
   - title: "Work Experience"
     url: /talks/    
 
-  - title: "Services"
+  - title: "Projects"
     url: /publications/
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Services"
+    url: /portfolio/
         
   # # - title: "Blog Posts"
   # #   url: /year-archive/
