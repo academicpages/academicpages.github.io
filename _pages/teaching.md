@@ -8,6 +8,7 @@ author_profile: true
 <!-- redirect_from: 
   - teaching/
   - /teaching.md -->
+- Spring 2023, NRSC 2223, Neuroethology, Univ of Penn
 - Spring 2022, CIS 522, Deep Learning for Data Science, Univ of Penn
 - Fall 2021, BIOL 446, Statistics for Biologists, Univ of Penn
 - Spring 2018, BIL 160, Evolution & Biodiversity ([PRISM Honors](https://www.as.miami.edu/academics/undergraduate-studies/prismrsvp/index.html)), Univ of Miami
