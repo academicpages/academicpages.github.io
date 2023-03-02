@@ -16,7 +16,7 @@ redirect_from:
 
 ---
 
-# Bio #
+# About Me #
 
 Since September 2021, I am a Postdoc at Aarhus University ([Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup/)), hosted by [Claudio Orlandi](https://cs.au.dk/~orlandi/).
 From August 2017 to September 2021, I was a Ph.D. student at Stevens Institute of Technology under the supervision of [Giuseppe Ateniese](https://ateniese.github.io).
