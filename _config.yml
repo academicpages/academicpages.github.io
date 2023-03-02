@@ -12,9 +12,9 @@ title_separator          : "-"
 name                     : &name "Prashant Govindarajan"
 description              : &description "personal description"
 theme                    : jekyll-theme-minimal
-url                      : https://prashant17.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gprashant17/prashant17.github.io"
+url                      : https://gprashant17.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+repository               : "gprashant17/gprashant17.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,8 +82,8 @@ analytics:
 # Site Author
 author:
   name             : "Prashant Govindarajan"
-  avatar           : "profile.png"
-  bio              : "Hello and வணக்கம்! I am Prashant Govindarajan, a first year Computer Engineering PhD student at Mila-Quebec AI Institute and Polytechnique Montreal, working under Sarath Chandar."
+  avatar           : "IMG_6934_Original 2.jpg"
+  bio              : "Hello and வணக்கம்! I am Prashant Govindarajan, a first year Computer Engineering PhD student at Mila-Quebec AI Institute and Polytechnique Montréal, working under Sarath Chandar."
   location         : "Montréal, QC"
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/prashant-govindarajan-477925161/"
+  linkedin         : "prashant-govindarajan-477925161"
   orcid            : 
   pinterest        :
   soundcloud       :
