@@ -6,8 +6,8 @@ main:
   - title: "Research"
     url: research/    # add publications to this later
 
-  - title: "MacSuite"
-    url: macsuite/
+#   - title: "MacSuite"
+#     url: macsuite/
     
 #   - title: "Activities"
 #     url: /activities/    
