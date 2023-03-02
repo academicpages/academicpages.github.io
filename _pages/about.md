@@ -13,7 +13,7 @@ My name is Felipe and I'm a PhD Candidate in the [Computational Neuroscience Ini
 If you have similar interests or simply want to chat, please reach out!
 
 ## Interests
-- Social behavior, touch, gestures
+- Social behavior, gestural communication
 - Machine learning, computer vision, reinforcement learning
 - Neural engineering, BCI, neural decoding
 
