@@ -240,7 +240,40 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _news
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+   # _learning
+  - scope:
+      path: ""
+      type: single
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+   # _projects
+  - scope:
+      path: ""
+      type: single
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
