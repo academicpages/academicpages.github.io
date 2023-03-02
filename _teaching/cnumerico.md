@@ -46,6 +46,7 @@ Slides das Aulas
 [Aula 03](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/aula03.pdf)
 [Aula 04](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/aula04.pdf)
 [Aula 05](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/aula05.pdf)
+[Aula 05](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/aula06.pdf)
  
 Notebooks Jupyter
 ========
@@ -56,7 +57,7 @@ Notebooks Jupyter
 Arquivos jl (usados no laboratório)
 =========
 
-[ordena.jl](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/ordena.jl)  [par.jl](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/par.jl)  [primo.jl](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/primo.jl)
+[ordena.jl](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/ordena.jl)  [par.jl](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/par.jl)  [primo.jl](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/primo.jl)  [newton.jl](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/newton.jl)
 
 Listas de Exercícios
 ========
