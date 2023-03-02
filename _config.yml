@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "zh-CN"
-title                    : "张倚梅 / 主页"
+locale                   : "en-US"
+title                    : "Yimei Zhang / Homepage"
 title_separator          : "-"
-name                     : "张倚梅"
-description              : "南京大学新闻传播学院本科生"
+name                     : "Yimei Zhang"
+description              : "An undergraduate student who is studying journalism and communication"
 url                      : https://HEALER003.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/HEALER003.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "张倚梅"
+  name             : "Yimei Zhang"
   avatar           : "profile.png"
-  bio              : "新闻传播学在读"
-  location         : "Location"
+  bio              : "An undergraduate student who is studying journalism and communication"
+  location         : "Nanjing University"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -99,19 +99,15 @@ author:
   github           : "HEALER003"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : "yimei1003"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
-  weibo            :
+  weibo            : "https://weibo.com/u/5658842228"
   xing             :
   youtube          :
   wikipedia        :
