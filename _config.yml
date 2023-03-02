@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Prashant Govindarajan"
   avatar           : "IMG_6934_Original 2.jpg"
-  bio              : "Hello and வணக்கம்! I am Prashant Govindarajan, a first year Computer Engineering PhD student at Mila-Quebec AI Institute and Polytechnique Montréal, working under Sarath Chandar."
+  bio              : "PhD Student at Mila-Quebec AI Institute and Polytechnique Montréal" #"Hello and வணக்கம்! I am Prashant Govindarajan, a first year Computer Engineering PhD student at Mila-Quebec AI Institute and Polytechnique Montréal, working under Sarath Chandar."
   location         : "Montréal, QC"
   employer         :
   pubmed           : 
