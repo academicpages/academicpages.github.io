@@ -3,8 +3,8 @@ main:
   - title: "Home"
     url: about/
 
-  - title: "Research"
-    url: research/    # add publications to this later
+#   - title: "Research"
+#     url: research/    # add publications to this later
 
 #   - title: "MacSuite"
 #     url: macsuite/
