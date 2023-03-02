@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "News"
-    url: /publications/
+    url: /News/
 
   - title: "Learning"
-    url: /talks/    
+    url: /Learning/    
 
   - title: "Projects"
-    url: /teaching/    
+    url: /Projects/    
     
   - title: "Guide"
     url: /markdown/
