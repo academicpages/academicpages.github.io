@@ -10,7 +10,7 @@ main:
     url: /policy/
 
   - title: "CV"
-    url: https://steingress.github.io\files\CV_Steingress_Walter.pdf
+    url: /cv/
 
   - title: "Contact"
     url: /contact/
