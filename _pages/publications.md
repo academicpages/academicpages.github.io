@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-# Posters
+# Non-archived (posters, conference presentations)
 
 {% for post in site.posters reversed %}
   {% include archive-single.html %}

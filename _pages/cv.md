@@ -25,7 +25,7 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-# Posters
+# Non-archived (posters, conference presentations)
   <ul>{% for post in site.posters reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
