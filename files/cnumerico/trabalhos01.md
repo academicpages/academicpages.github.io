@@ -74,7 +74,7 @@ Os métodos clásicos para determinação de pontos mínimos locais (ou máximos
 
 ## Trabalho 07
 
-Implementar, em Julia, o **Método de Newton adaptado**, ou seja, $$ x_{n+1} = x_n - \frac{f(x_n)}{f'(x_0)},$$ para $x_0$ dado nos termos do Método de Newton. Fazer um estudo comparativo com o Método da Bisseção, Ponto Fixo e Newton. Esse estudo deve seguir a seguinte linha:
+Implementar, em Julia, o **Método de Newton adaptado**, ou seja, $$ x_{n+1} = x_n - \frac{f(x_n)}{f'(x_0)}, $$ para $x_0$ dado nos termos do Método de Newton. Fazer um estudo comparativo com o Método da Bisseção, Ponto Fixo e Newton. Esse estudo deve seguir a seguinte linha:
 
 1. Escolher problemas testes adequados para o estudo;
 2. Implementar os métodos acima mencionados;
