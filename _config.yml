@@ -11,7 +11,7 @@ title                    : "Walter Steingress"
 title_separator          : "-"
 name                     : &name "Walter Steingress"
 description              : &description "Principal Researcher"
-url                      : https://steingress.github.io/ 
+url                      : https://steingress.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "steingress/steingress.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -85,10 +85,10 @@ author:
   bio              : "Principal Researcher"
   location         : "Ottawa, Canada"
   employer         : "Bank of Canada"
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=8nCfWtQAAAAJ&hl=en"
   email            : "wsteingress@bank-banque-canada.ca"
-  researchgate     :  
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :  
+  github           :
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      :  
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            :  
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "@W_STEINGRESS"
