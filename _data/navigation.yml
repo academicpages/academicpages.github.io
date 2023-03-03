@@ -10,4 +10,7 @@ main:
     url: /policy/
 
   - title: "CV"
-    url: https://github.com/elizabethmcd/cv/blob/master/EAM-CV.pdf
+    url: https://steingress.github.io\files\CV_Steingress_Walter.pdf
+
+  - title: "Contact"
+    url: /contact/
