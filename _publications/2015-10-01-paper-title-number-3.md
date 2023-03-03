@@ -3,7 +3,7 @@ title: "Financial constraints in China: Firm-level evidence"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'hello'
-date: 2010
+date: 2010-10-01
 venue: 'China Economic Review, vol. 21(3), pages 411-422'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1043951X10000234'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
