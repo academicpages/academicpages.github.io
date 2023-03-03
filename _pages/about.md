@@ -1,17 +1,13 @@
 ---
 permalink: /
-title: "Walter Steingress" 
+title: "Walter Steingress"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-WELCOME
+I am a Principal Researcher at the Bank of Canada and a visiting research scholar at Syracuse University. I am a Research Fellow at the Institute of Labor Economics (IZA).
 
-I am a Principal Researcher at the Bank of Canada and a visiting research scholar at Syracuse University. You can find my curriculum vitae here. 
- 
-RESEARCH INTERESTS
-
-Field: International Economics; International Migration
+My main research interests are International Economics and International Migration.
