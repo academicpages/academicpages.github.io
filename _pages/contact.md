@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /contact/
-title: Contact
+title: Address
 author_profile: true
 ---
 
