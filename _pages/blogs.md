@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-{% for post in site.posts %}
+{% for post in site.blogs %}
   {% include archive-single.html %}
 {% endfor %}
