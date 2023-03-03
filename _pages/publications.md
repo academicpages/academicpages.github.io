@@ -4,8 +4,6 @@ permalink: /publications/
 title: Publications
 author_profile: true
 ---
-## Publication
-
 ### No Double Standards: Quantifying the Impact of Standard Harmonization on Trade (2022)
 Journal of International Economics, Vol. 137, pages 103619, - joint with Julia Schmidt
 Download Ad-Valorem Equivalents (AVE) per 2 and 4-digit HS code here.
