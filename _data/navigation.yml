@@ -10,7 +10,4 @@ main:
     url: /policy/
 
   - title: "CV"
-    url: /resume/
-
-  - title: "Links"
-    url: /links/
+    url: https://github.com/elizabethmcd/cv/blob/master/EAM-CV.pdf
