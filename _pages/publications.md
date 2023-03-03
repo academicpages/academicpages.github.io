@@ -5,8 +5,8 @@ title: Publications
 author_profile: true
 ---
 [No Double Standards: Quantifying the Impact of Standard Harmonization on Trade (2022)](https://pages.github.com/) - joint with Julia Schmidt  
-*Journal of International Economics*, Vol. 137, pages 103619,
-Download Ad-Valorem Equivalents (AVE) per 2 and 4-digit HS code here.
+**Journal of International Economics**, Vol. 137, pages 103619  
+Download Ad-Valorem Equivalents (AVE) per 2 and 4-digit HS code here.  
 Download correspondence table between the International Classification for Standards (ICS) and the Harmonized System (HS) here.
 
 ### The Political Impact of Immigrants: Evidence from the United States (2022)
