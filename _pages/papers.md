@@ -16,8 +16,8 @@ Bank of Canada Staff Working Paper 2023-10
 
 ## Old Working Papers
 
-**[Immigration to the U.S.: A Problem for the Republicans or the Democrats?](http://ftp.iza.org/dp9543.pdf)** - joint with [Anna Maria Mayda](https://sites.google.com/a/georgetown.edu/annamariamayda/) and [Giovanni Peri](http://giovanniperi.ucdavis.edu/)
-NBER Working Paper Nr. w21941
+**[Immigration to the U.S.: A Problem for the Republicans or the Democrats?](http://ftp.iza.org/dp9543.pdf)** - joint with [Anna Maria Mayda](https://sites.google.com/a/georgetown.edu/annamariamayda/) and [Giovanni Peri](http://giovanniperi.ucdavis.edu/)  
+NBER Working Paper Nr. w21941  
 [VoxEU column](http://voxeu.org/article/us-immigration-s-electoral-impact-new-evidence), [Washington Post](https://www.washingtonpost.com/news/monkey-cage/wp/2016/03/17/why-republicans-should-cherish-undocumented-immigrants/?utm_term=.36933689c86c),  [Wall Street Journal](https://blogs.wsj.com/economics/2016/02/01/which-party-really-benefits-from-more-immigrants/)
 
 **[Specialization Patterns in International Trade (2015)](https://www.banque-france.fr/uploads/tx_bdfdocumentstravail/DT-542_01.pdf)**    
