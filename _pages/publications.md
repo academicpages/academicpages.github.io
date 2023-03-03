@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-## Locations of key files/directories
+## Publication
 ---
 
 I am a Principal Researcher at the <a href="https://www.bankofcanada.ca/">Bank of Canada</a>
