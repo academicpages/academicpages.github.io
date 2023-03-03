@@ -13,10 +13,13 @@ ___________________________________________
 O trabalho será avaliado considerando:
 
 a) Sua organização;
-b) Profundidade da abordagem do tema (Matemática e Computacional);
-c) Qualidade e quantidade dos experimentos numéricos desenvolvidos e apresentados;
-d) Informações corretas apresentadas;
-e) Pertinência das referências apresentadas;
+b) Coerencia e coesão do texto.
+c) Profundidade da abordagem do tema (Matemática e Computacional);
+d) Qualidade e quantidade dos experimentos numéricos desenvolvidos e apresentados;
+e) Informações corretas apresentadas;
+f) Pertinência das referências apresentadas;
+
+A nota será algo no intervalo $[0.0,10.0]$.
 
 ________________________________________________
 
