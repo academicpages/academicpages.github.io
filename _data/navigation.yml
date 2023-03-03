@@ -3,14 +3,20 @@ main:
   - title: "Publications"
     url: /publications/
 
-   - title: "Working Papers"
-    url: /papers/
+  - title: "Talks"
+    url: /talks/    
+
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Portfolio"
+    url: /portfolio/
         
-  - title: "Policy Papers"
-    url: /policy/
+  - title: "Blog Posts"
+    url: /year-archive/
     
-      - title: "Links"
-    url: /links/
+  - title: "CV"
+    url: /cv/
     
-    
-  
+  - title: "Guide"
+    url: /markdown/
