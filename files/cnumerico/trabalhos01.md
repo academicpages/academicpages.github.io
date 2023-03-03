@@ -48,6 +48,7 @@ Implementar, em Julia, o **Método da Falsa Posição**. Fazer um estudo compara
 2. Implementar os métodos acima mencionados;
 3. Fazer gráficos e tabelas para analisar o comportamento desses métodos;
 4. Com base nos resultados, comparar a velocidade de convergência desses métodos.
+5. Faça comentários.
 
 ______________________________
 
@@ -61,6 +62,7 @@ Implementar, em Julia, o **Método da Secante**. Fazer um estudo comparativo com
 2. Implementar os métodos acima mencionados;
 3. Fazer gráficos e tabelas para analisar o comportamento desses métodos;
 4. Com base nos resultados, comparar a velocidade de convergência desses métodos.
+5. Faça comentários.
 
 ______________________________
 
@@ -78,7 +80,7 @@ Considere o problema de determinar $x$ tal que $f(x)=0$ e $\phi$ uma função de
 3. Termina-se o processo, se $x_2^{(k)}-2x_1^{(k)}+x_0^{(k)}=0$ ou $|x_0^{(k+1)}-x_0^{(k)}| < \epsilon$.
 
 
-Implemente o algoritmo acima, em Julia. Compare seu desempenho com o Método da Bissecção, Ponto Fixo e Newton. Use gráficos, tabelas, etc para fazer essa comparação. Faça testes com várias funções.
+Implemente o algoritmo acima, em Julia. Compare seu desempenho com o Método da Bissecção, Ponto Fixo e Newton. Use gráficos, tabelas, etc para fazer essa comparação. Faça testes com várias funções. Faça comentários.
 
 ______________________________
 
@@ -87,7 +89,7 @@ ______________________________
 
 #### Grupo: Ana Caroline, Arthur e Stefane
 
-Implementar o **Método de Newton** para resolver um sistema de equações não lineares. Utilizar o método para encontrar pontos críticos de funções do tipo $f:\mathbb{R}^2 \to \mathbb{R}$. Fazer testes com várias funções. Construir gráficos que mostrem, para uma dada função, os pontos da sequência juntamente com as curvas de nível da função. Analise funções que tenham um único ponto crítico e funções que tenham mais de um ponto crítico. Escolha funções adequadas para avaliar o método.
+Implementar o **Método de Newton** para resolver um sistema de equações não lineares. Utilizar o método para encontrar pontos críticos de funções do tipo $f:\mathbb{R}^2 \to \mathbb{R}$. Fazer testes com várias funções. Construir gráficos que mostrem, para uma dada função, os pontos da sequência juntamente com as curvas de nível da função. Analise funções que tenham um único ponto crítico e funções que tenham mais de um ponto crítico. Escolha funções adequadas para avaliar o método. Faça comentários.
 
 ______________________________
 
@@ -96,7 +98,7 @@ ______________________________
 
 #### Grupo: Davi, Péricles e Samuel Carvalho
 
-Os métodos clásicos para determinação de pontos mínimos locais (ou máximos locais) exigem como pré-requisito funções diferenciáveis. Contudo, existem métodos que são desenvolvidos para a classe de funções não-diferenciáveis. Inspirando-se no Método da Bissecção, desenvolva um algoritmo que determina o mínimo (ou máximo) de uma função não diferenciável. Implemente em Julia. Faça vários testes. Construa gráficos e tabelas. Analise o comportamento do algoritmo.
+Os métodos clásicos para determinação de pontos mínimos locais (ou máximos locais) exigem como pré-requisito funções diferenciáveis. Contudo, existem métodos que são desenvolvidos para a classe de funções não-diferenciáveis. Inspirando-se no Método da Bissecção, desenvolva um algoritmo que determina o mínimo (ou máximo) de uma função não diferenciável. Implemente em Julia. Faça vários testes. Construa gráficos e tabelas. Analise o comportamento do algoritmo. Faça comentários.
 
 ______________________________
 
@@ -111,6 +113,7 @@ Implementar, em Julia, o **Método de Newton adaptado**, ou seja, $$ x_{n+1} = x
 2. Implementar os métodos acima mencionados;
 3. Fazer gráficos e tabelas para analisar o comportamento desses métodos;
 4. Com base nos resultados, comparar a velocidade de convergência desses métodos.
+5. Faça comentários.
 
 ______________________________
 
@@ -134,6 +137,7 @@ Construir e implementar o algoritmo acima. Fazer um estudo comparativo deste mé
 4. Com base nos resultados, comparar a velocidade de convergência desses métodos.
 5. Faça testes variando o parâmetro $\eta$.
 6. Utilize várias funções.
+7. Faça comentários.
 
 
 
