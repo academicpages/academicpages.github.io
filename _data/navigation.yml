@@ -3,6 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Working Papers"
+    url: /papers/
 
-  - title: "Guide"
-    url: /markdown/
+  - title: "Policy Papers"
+    url: /policy/
