@@ -3,8 +3,6 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-redirect_from:
-  - /publications/
 ---
 
 ## Locations of key files/directories
