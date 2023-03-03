@@ -4,6 +4,8 @@ permalink: /publications/
 title: Publications
 author_profile: true
 ---
+[No Double Standards: Quantifying the Impact of Standard Harmonization on Trade (2022)](https://pages.github.com/) - joint with Julia Schmidt
+
 <a href="https://www.bankofcanada.ca/">No Double Standards: Quantifying the Impact of Standard Harmonization on Trade (2022)</a> - joint with Julia Schmidt
 Journal of International Economics, Vol. 137, pages 103619,
 Download Ad-Valorem Equivalents (AVE) per 2 and 4-digit HS code here.
