@@ -1,6 +1,4 @@
 ---
-layout: archive
-title: "Publicatissons"
 permalink: /publications/
 author_profile: true
 ---
