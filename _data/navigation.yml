@@ -4,12 +4,10 @@ main:
     url: /publications/
 
   - title: "Working Papers"
-    url: /papers/    
+    url: /teaching/    
 
   - title: "Policy Papers"
-    url: /policy/    
-    
+    url: /policy/
+
   - title: "Links"
     url: /links/
-        
- 
