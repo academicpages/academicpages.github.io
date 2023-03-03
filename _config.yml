@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xin-Yi Guan"
+  name             : "官欣怡"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Nanjing university"
+  bio              : "南京大学2020级计算机与金融工程实验班本科生"
+  location         : "南京大学"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
