@@ -19,7 +19,7 @@ d) Qualidade e quantidade dos experimentos numéricos desenvolvidos e apresentad
 e) Informações corretas apresentadas;
 f) Pertinência das referências apresentadas;
 
-A nota será algo no intervalo $[0.0,10.0]$.
+
 
 ________________________________________________
 
