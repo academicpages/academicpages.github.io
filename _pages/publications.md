@@ -1,10 +1,9 @@
 ---
 layout: archive
 permalink: /publications/
-title: Test
+title: Publications
 author_profile: true
 ---
-
 ## Publication
 
 I am a Principal Researcher at the <a href="https://www.bankofcanada.ca/">Bank of Canada</a>
