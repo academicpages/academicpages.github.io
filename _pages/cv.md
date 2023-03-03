@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Professional Experience  
+### Professional Experience  
 ======  
 * Principal Researcher, Bank of Canada, Canada,11/2020 - present  
 * Visiting Scholar, Syracuse University, USA, 09/2022-05/2023  
@@ -15,7 +15,7 @@ Professional Experience
 * Senior Economist, Bank of Canada, Canada, 10/2016-10/2020  
 * Economist, Banque de France, France,  09/2014-09/2016  
 
-Education  
+### Education  
 ======  
 * PhD in Economics, Université de Montréal, Canada, 2014  
 * Master of Arts in Economics, Boston University, USA, 2010  
