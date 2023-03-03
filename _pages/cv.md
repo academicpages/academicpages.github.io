@@ -31,5 +31,6 @@ redirect_from:
   {% endfor %}</ul>
   
 # Awards and Honors
+* [Summer Research Fellowship](https://education.msu.edu/resources/academic-student-affairs/summer-research-fellowships/), Michigan State University College of Education (2022, 2023)
+* [Dean's Scholar Award](https://education.msu.edu/resources/academic-student-affairs/recruitment-scholarships-fellowships/), Michigan State University College of Education (2020-2026)
 * [Husky 100](https://www.washington.edu/husky100/year/2020/#name=andrew-hu), University of Washington (2020)
-* [Summer Research Fellowship](https://education.msu.edu/resources/academic-student-affairs/summer-research-fellowships/), Michigan State University (2022, 2023)
