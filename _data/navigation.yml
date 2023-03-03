@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
   - title: "Current Research"
     url: /papers/
+
+  - title: "Published Research"
+    url: /publications/
 
   - title: "Policy Papers"
     url: /policy/
