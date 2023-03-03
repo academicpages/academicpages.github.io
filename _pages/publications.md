@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 permalink: /publications/
 title: Test
 author_profile: true
