@@ -74,7 +74,7 @@ ______________________________
 
 #### Grupo: Naiara, Priscila e Aline
 
-Considere o problema de determinar $x$ tal que $f(x)=0$ e $\phi$ uma função de iteração associada ao problema. Essa função de iteração gera a sequência $\{x_n\}$ converge para $u$. Considere o seguinte algoritmo:
+Considere o problema de determinar $x$ tal que $f(x)=0$. Seja $\phi$ uma função de iteração associada ao problema. Essa função de iteração gera a sequência $\{x_n\}$ converge para $u$. Considere o seguinte algoritmo:
 
 #### Algoritmo
 
