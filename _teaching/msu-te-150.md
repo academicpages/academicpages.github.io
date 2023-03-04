@@ -9,5 +9,3 @@ permalink: /teaching/msu-te-150
 link: "/teaching/msu-te-150"
 course_overview: true
 ---
-Fall 2020, Spring 2021, Fall 2022, Spring 2023
--------

@@ -9,5 +9,3 @@ link:
 academic_term: "19su"
 course_overview: true
 ---
-
-This was a class for local high school students through a program called Upward Bound

@@ -27,7 +27,8 @@ redirect_from:
     padding-left: 0px;
   }
   .terms-taught ul li {
-    display: inline-block;
+    display: inline;
+    margin-bottom: 0px;
   }
   .terms-taught ul li::after {
     content: ", ";

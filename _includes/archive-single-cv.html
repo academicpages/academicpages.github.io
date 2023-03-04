@@ -46,7 +46,6 @@
         {% for course in site.teaching %}
           {% if course.title == post.title and course.academic_term %}
           <li>
-            <!--Make an icon for this term-->
             {% if course.link %}
               <a href="{{ course.link }}">{{ course.academic_term }}</a>
             {% else %}
