@@ -1,13 +1,7 @@
 # main links links
 main:
-  - title: "Current Research"
+  - title: "Research"
     url: /papers/
-
-  - title: "Published Research"
-    url: /publications/
-
-  - title: "Policy Papers"
-    url: /policy/
 
   - title: "CV"
     url: /cv/
