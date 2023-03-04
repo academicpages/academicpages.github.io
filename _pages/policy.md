@@ -11,7 +11,7 @@ Bank of Canada Discussion Paper, Nr. 2017-15
 ECB Occasional Paper Series, Nr. 178  
 [VoxEU column](http://voxeu.org/article/great-normalisation-global-trade)
 
-**[Does immigration affect election outcomes? Evidence from the United States (2016)](http://voxeu.org/article/new-ebook-refugees-and-economic-migrants-facts-policies-and-challenges)**   
+**[Does immigration affect election outcomes? Evidence from the United States (2016)](http://voxeu.org/article/new-ebook-refugees-and-economic-migrants-facts-policies-and-challenges)** - joint with [Anna Maria Mayda](https://sites.google.com/a/georgetown.edu/annamariamayda/) and [Giovanni Peri](http://giovanniperi.ucdavis.edu/)   
 Chapter 15 in "Refugees and Economic Migrants: Facts, policies and challenges"  
 VoxEU eBook - edited by [Francesco Fasani](https://sites.google.com/site/fasani2010/)   
 
