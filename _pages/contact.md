@@ -4,9 +4,9 @@ title: Address
 author_profile: true
 ---
 
-Walter Steingress  
-Bank of Canada - Banque du Canada  
-International Economic Analysis  
-234 Wellington Street West  
-Ottawa, ON, K1A 0G9  
-Canada  
+Myriam Gregoire-Zawilski  
+The Maxwell School
+426 Eggers Hall  
+Syracuse, NY 13244-1020  
+Email: mgregoir@syr.edu  
+Tel: +1.315.443.3114
