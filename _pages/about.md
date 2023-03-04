@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Walter Steingress
+title: Myriam Gregoire Zawilski
 excerpt: "About me"
 author_profile: true
 redirect_from:
