@@ -16,6 +16,5 @@ redirect_from:
 * Economist, Banque de France, France,  09/2014-09/2016  
 
 ### Education  
-* PhD in Economics, Université de Montréal, Canada, 2014  
-* Master of Arts in Economics, Boston University, USA, 2010  
-* Master of Science (Magister) in Computer Science and Business Administration, University of Vienna, Austria, 2005  
+* PhD in Public Policy, Syracuse University, 2024 (expected)
+* Master of Science., Political Science, Université de Montreal, 2015
