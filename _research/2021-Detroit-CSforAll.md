@@ -1,9 +1,10 @@
 ---
 title: "Detroit CS for All"
 collection: research
-type: 
+type: "Research Assistantship"
 link: 
-dates: "Sep 2021 - June 2022" 
+venue: "MSU"
+academic_term: "Sep 2021 - June 2022" 
 ---
 
 -------

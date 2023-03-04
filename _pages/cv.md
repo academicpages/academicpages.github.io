@@ -35,10 +35,10 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-# Research Assistantships
+# Research Projects
 
   <ul>{% for post in site.research reversed %}
-    {% include archive-single-talk-cv.html %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 # Talks
