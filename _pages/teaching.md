@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.teaching reversed %}
-  {% unless post.course_overview %}
+  {% if post.academic_term %}
     {% include archive-single.html %}
-  {% endunless %}
+  {% endif %}
 {% endfor %}
