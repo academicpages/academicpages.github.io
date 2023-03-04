@@ -12,32 +12,8 @@ redirect_from:
   h3 {
     margin-top: 10px;
   }
-  .terms-taught {
-    display: inline-block;
-    border-radius: 4px;
-    padding: 2px;
-    border: 1px solid rgba(51,51,51,0.2);
-    box-shadow: 0 2px 2px rgba(0,0,0,.05);
-    margin-bottom: 0px;
-    margin-left: 5px;
-  }
-  .terms-taught ul {
-    list-style: none;
-    display: inline;
-    padding-left: 0px;
-  }
-  .terms-taught ul li {
-    display: inline;
-    margin-bottom: 0px;
-  }
-  .terms-taught ul li::after {
-    content: ", ";
-  }
-  .terms-taught ul li:last-child::after {
-    content: "";
-    margin-right: 3px;
-  }
 </style>
+<link rel="stylesheet" href="/assets/css/terms-taught.css"/>
 
 # Education
 
