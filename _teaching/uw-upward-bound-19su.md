@@ -2,7 +2,7 @@
 title: "Upward Bound: Your Interests in the 21st Century"
 collection: teaching
 type: "Co-instructor"
-venue: "University of Record"
+venue: "University of Washington"
 date: 2019-06-22
 location: "Seattle"
 link: 
