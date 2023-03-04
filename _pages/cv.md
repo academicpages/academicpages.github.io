@@ -9,7 +9,7 @@ redirect_from:
 [Long CV](https://steingress.github.io\files\CV_Steingress_Walter.pdf)
 
 ### Professional Experience  
-* Principal Researcher, Bank of Canada, Canada,11/2020 - present  
+* Principal Researcher, Bank of Canada, Canada, 11/2020 - present  
 * Visiting Scholar, Syracuse University, USA, 09/2022-05/2023  
 * Visiting Scholar, University of Rochester, USA, 09/2021-05/2022  
 * Senior Economist, Bank of Canada, Canada, 10/2016-10/2020  
