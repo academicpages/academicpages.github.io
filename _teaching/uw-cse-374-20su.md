@@ -5,5 +5,6 @@ type: 'Instructor of record'
 venue: "University of Washington"
 date: 2020-06-22
 location: "Seattle"
-course_overview: true
+link: "https://courses.cs.washington.edu/courses/cse374/20su/"
+academic_term: "20su"
 ---

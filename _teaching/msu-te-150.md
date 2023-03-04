@@ -5,7 +5,7 @@ type: 'Instructor of record'
 venue: "Michigan State University"
 date: 2020-09-01
 location: 
-permalink: /teaching/msu-te-150
-link: "/teaching/msu-te-150"
+permalink:
+link:
 course_overview: true
 ---
