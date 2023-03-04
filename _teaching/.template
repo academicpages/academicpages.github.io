@@ -1,5 +1,3 @@
-Template
-
 ---
 title: 
 collection: teaching
@@ -7,6 +5,7 @@ type:
 venue: 
 date: 
 location: 
+permalink: 
 link: 
 academic_term:
 ---

@@ -12,6 +12,29 @@ redirect_from:
   h3 {
     margin-top: 10px;
   }
+  .terms-taught {
+    display: inline-block;
+    border-radius: 4px;
+    padding: 2px;
+    border: 1px solid rgba(51,51,51,0.2);
+    box-shadow: 0 2px 2px rgba(0,0,0,.05);
+    margin-bottom: 0px;
+    margin-left: 5px;
+  }
+  .terms-taught ul {
+    list-style: none;
+    display: inline;
+    padding-left: 0px;
+  }
+  .terms-taught ul li {
+    display: inline-block;
+  }
+  .terms-taught ul li::after {
+    content: ", ";
+  }
+  .terms-taught ul li:last-child::after {
+    content: "";
+  }
 </style>
 
 # Education
@@ -31,9 +54,13 @@ redirect_from:
   {% endfor %}</ul>
 
 # Teaching
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <ul>
+  {% for post in site.teaching reversed %}
+    {% if post.course_overview %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}
+  </ul>
 
 # Research Projects
 

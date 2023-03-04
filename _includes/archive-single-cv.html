@@ -40,21 +40,44 @@
       {% else %}
         {{ title }}
       {% endif %}
+
+      {% if post.course_overview %}
+      <div class="terms-taught"><ul>
+        {% for course in site.teaching %}
+          <li>
+          {% if course.title == post.title and course.academic_term %}
+            <!--Make an icon for this term-->
+            {% if course.link %}
+              <a href="{{ course.link }}">{{ course.academic_term }}</a>
+            {% else %}
+              {{ course.academic_term }}
+            {% endif %}
+          {% endif %}
+          </li>
+        {% endfor %}
+      </ul></div>
+      {% endif %}
     </h3>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-    {% if post.academic_term %}<p class="page__meta">{{ post.type }}, {{ post.academic_term }} @ {{ post.venue }}</p>{% endif %}
-    {% if post.advisor %}<p class="page__meta">Advised by {{ post.advisor }}</p>{% endif %}
-    {% if post.citation %}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
+    {% if post.course_overview %}
+      <p class="page__meta">{{ post.type }}, {{ post.venue }}</p>
+    {% endif %}
+    {% if post.type and post.venue %}
+      <p class="page__meta">{{ post.type }}, {{ post.venue }}</p>
+    {% endif %}
+    {% if post.advisor %}
+      <p class="page__meta">Advised by {{ post.advisor }}</p>
+    {% endif %}
+    {% if post.citation %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p>
+    {% endif %}
     
-    <!-- It didn't look clearn with the excerpts in the CV -->
-    <!--{% if post.excerpt and site.read_more != 'enabled' %}
+    {% if post.excerpt %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% elsif post.excerpt and site.read_more == 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
-    {% endif %}-->
+    {% endif %}
     </li>
  </article>
 </div>
