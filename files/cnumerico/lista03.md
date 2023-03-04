@@ -1,6 +1,6 @@
 # Curso de Física
 # 2022.2
-# 3$^a$ Lista de Cálculo Numérico
+# 3<sup>a</sup> Lista de Cálculo Numérico
 
 _______________________________
 
