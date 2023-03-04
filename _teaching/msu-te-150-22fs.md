@@ -7,7 +7,7 @@ date: 2022-09-01
 permalink: /teaching/msu-te-150-22fs
 location:
 link: "/teaching/msu-te-150-22fs"
-academic_term: "FS22"
+academic_term: "fall22"
 ---
 
 I taught two special topic classes this semester:

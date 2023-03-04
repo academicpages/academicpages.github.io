@@ -5,5 +5,5 @@ type: 'Instructor of record'
 venue: "Michigan State University"
 date: 2020-09-01
 location:
-academic_term: "FS20"
+academic_term: "fall20"
 ---

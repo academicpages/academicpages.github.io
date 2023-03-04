@@ -7,7 +7,7 @@ date: 2023-01-09
 location:
 permalink: /teaching/msu-te-150-23ss
 link: "/teaching/msu-te-150-23ss"
-academic_term: "SS23"
+academic_term: "spring23"
 ---
 
 The shooting on February 13th devastated everyone, including me and my students. Myself and some other TE 150 
