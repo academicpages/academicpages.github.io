@@ -24,14 +24,20 @@ redirect_from:
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+# Non-archived (posters, conference presentations)
+  <ul>{% for post in site.posters reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 # Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-# Non-archived (posters, conference presentations)
-  <ul>{% for post in site.posters reversed %}
+# Research Assistantships
+
+  <ul>{% for post in site.research reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 

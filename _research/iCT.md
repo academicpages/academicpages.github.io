@@ -1,0 +1,11 @@
+---
+title: "Integrated Computational Thinking (iCT) in Humanities" 
+collection: research
+type: 
+link: https://ctintegration.org/
+dates: "Sep 2020 - June 2022" 
+---
+
+
+
+---end excerpt---

@@ -1,0 +1,12 @@
+---
+title: "Computing-Integrated Teacher Education (CITE) initiative @ CUNY"
+collection: research
+type: 
+link: https://computinged.commons.gc.cuny.edu/
+dates: "Sep 2022 - Present" 
+---
+
+This is a collaboration between MSU and CUNY to help prepare teacher educators in the CUNY system to use
+computational and digital literacies.
+
+---end excerpt---
