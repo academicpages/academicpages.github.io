@@ -8,3 +8,8 @@ location: "Seattle"
 link: "https://courses.cs.washington.edu/courses/cse374/20su/"
 academic_term: "20su"
 ---
+I revamped the course, adding exercises that check understanding from lecture and modified the homework assignments.
+
+Portfolio is available upon request.
+
+-------
