@@ -8,7 +8,7 @@ location:
 academic_term: "Spring, 2023"
 ---
 
----end excerpt---
+-------
 
 Not sure what to say about this semester yet, but the shooting on campus has definitely changed the learning environment.
 As instructors, we have had to make decisions about how to best support our students
