@@ -45,7 +45,7 @@
 
 .page__lead {
   font-family: $global-font-family;
-  font-size: $type-size-4;
+  font-size: $type-size-5;
 }
 
 .page__content {
@@ -154,7 +154,7 @@
       font-size: $type-size-5;
 
       @include breakpoint($small) {
-        font-size: $type-size-1;
+        font-size: $type-size-4;
       }
     }
   }
