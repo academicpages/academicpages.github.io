@@ -4,6 +4,5 @@ title: Presentations
 author_profile: true
 ---
 
-### Conferences
 * EPAM..
 *  
