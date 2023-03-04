@@ -5,7 +5,7 @@ title: Address
 author_profile: true
 ---
 
-WALTER STEINGRESS  
+Walter Steingress
 Bank of Canada - Banque du Canada  
 International Economic Analysis  
 234 Wellington Street West  
