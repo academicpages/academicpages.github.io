@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /year-archive/
+permalink: /posts/
 title: "Blog posts"
 author_profile: true
 redirect_from:
@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-{% for post in site.blogs %}
+{% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}
