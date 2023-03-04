@@ -1,9 +1,10 @@
 ---
-layout: archive
 permalink: /publications/
-title: Publications
 author_profile: true
 ---
+
+### Publications
+
 **[No Double Standards: Quantifying the Impact of Standard Harmonization on Trade (2022)](https://www.sciencedirect.com/science/article/abs/pii/S0022199622000514)** - joint with [Julia Schmidt](http://julia-schmidt.org/)
 **Journal of International Economics**, Vol. 137, pages 103619  
 Download Ad-Valorem Equivalents (AVE) per 2 and 4-digit HS code [here](https://steingress.github.io\files\AVE_estimates_Schmidt_Steingress.zip).  

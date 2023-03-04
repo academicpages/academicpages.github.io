@@ -2,6 +2,9 @@
 permalink: /papers/
 author_profile: true
 ---
+
+### Working Papers
+
 **[Climate Variability and International Trade (2023) ](https://www.bankofcanada.ca/wp-content/uploads/2023/01/swp2023-8.pdf)** - joint with [Geoff Dunbar](https://www.bankofcanada.ca/profile/geoffrey-r-dunbar/) and [Ben Tomlin](https://www.bankofcanada.ca/profile/ben-tomlin/)  
 Bank of Canada Staff Working Paper 2023-8  
 

@@ -1,9 +1,9 @@
 ---
-layout: archive
 permalink: /contact/
-title: Address
 author_profile: true
 ---
+
+### Address
 
 Walter Steingress  
 Bank of Canada - Banque du Canada  
