@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 {% if site.author.semanticscholar %}
-  You can also find my articles on my [Semantic Scholar profile]({{ author.semanticscholar }}).
+  You can also find my articles on my [Semantic Scholar profile]({{ site.author.semanticscholar }}).
 {% endif %}
 
 # Peer-reviewed publications
