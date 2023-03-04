@@ -8,6 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
+<style>
+  h3 {
+    margin-top: 10px;
+  }
+</style>
 
 # Education
 
