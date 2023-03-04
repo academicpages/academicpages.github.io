@@ -38,7 +38,7 @@ redirect_from:
 # Research Assistantships
 
   <ul>{% for post in site.research reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
 
 # Talks
