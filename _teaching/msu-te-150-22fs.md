@@ -4,7 +4,9 @@ collection: teaching
 type: 'Instructor of record'
 venue: "Michigan State University"
 date: 2022-09-01
+permalink: /teaching/msu-te-150-22fs
 location:
+link: "/teaching/msu-te-150-22fs"
 academic_term: "Fall, 2022"
 ---
 
