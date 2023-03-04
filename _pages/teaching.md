@@ -8,6 +8,8 @@ author_profile: true
 
 <!-- I was fortunate to be a teaching assistant for all the following courses. -->
 
+I was a teaching assistant for all the following courses.
+
 <!-- 
 Carnegie Mellon University
 ======
