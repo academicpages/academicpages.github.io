@@ -1,5 +1,6 @@
 ---
 permalink: /cv/
+title: Walter Steingress
 author_profile: true
 redirect_from:
   - /resume

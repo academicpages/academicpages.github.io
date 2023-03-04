@@ -1,5 +1,6 @@
 ---
 permalink: /contact/
+title: Walter Steingress
 author_profile: true
 ---
 
