@@ -1,10 +1,8 @@
 ---
 permalink: /contact/
-title: Walter Steingress
+title: Address
 author_profile: true
 ---
-
-### Address
 
 Walter Steingress  
 Bank of Canada - Banque du Canada  

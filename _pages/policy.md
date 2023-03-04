@@ -1,10 +1,8 @@
 ---
 permalink: /policy/
-title: Walter Steingress
+title: Policy Papers
 author_profile: true
 ---
-
-### Policy Papers
 
 **[Product Sophistication and the Slowdown in Chinese Export Growth (2017)](http://www.bankofcanada.ca/wp-content/uploads/2017/11/sdp2017-15.pdf)** - joint with  [Mark Kruger](https://www.bankofcanada.ca/profile/mark-kruger/) and [Sri Thanabalasingam](https://www.bankofcanada.ca/profile/sri-thanabalasingam/)  
 Bank of Canada Discussion Paper, Nr. 2017-15  
