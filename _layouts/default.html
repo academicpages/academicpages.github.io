@@ -19,9 +19,11 @@ layout: compress
     {{ content }}
 
     <div class="page__footer">
+      <div class="page__footer">
       <footer>
-        DISCLAIMER: The views expressed on this website are mine. No responsibility for them should be attributed to the Bank of Canada or the Banque de France.
+        {% include footer.html %}
       </footer>
+    </div>
     </div>
 
     {% include scripts.html %}
