@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Walter Steingress
+title: Welcome
 excerpt: "About me"
 author_profile: true
 redirect_from:
