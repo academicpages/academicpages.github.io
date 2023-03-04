@@ -5,7 +5,7 @@
 .archive {
   margin-bottom: 2em;
 
-  @include breakpoint($medium) {
+  @include breakpoint($small) {
     @include span(12 of 12);
   }
 
@@ -30,7 +30,7 @@
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
-  font-size: $type-size-5;
+  font-size: $type-size-8;
   color: mix(#fff, $gray, 25%);
   border-bottom: 1px solid $border-color;
 
@@ -59,7 +59,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  font-size: $type-size-7;
 
   & + p {
     text-indent: 0;
@@ -222,7 +222,7 @@
 
   &--center {
     @include full();
-    font-size: 1.25rem;
+    font-size: 0.875rem;
 
     .archive__item-teaser {
       margin-bottom: 2em;
