@@ -56,8 +56,10 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+mastodon:
+  username               : "fosstodon.org/@jayrobw"
 twitter:
-  username               : jayrobw
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -132,6 +134,7 @@ exclude:
   - .asset-cache
   - .bundle
   - .Rproj.user
+  - _source
   - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG
