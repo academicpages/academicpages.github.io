@@ -1,15 +1,19 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I research K-12 CS education, specifically teaching the social impact of computing!
+I study education and computing from a critical perspective!
 
 I'm a PhD student advised by [Aman Yadav](https://www.amanyadav.org/) and a member of the [Justice, Education, and Technology (JET) Lab](https://msujet.org/) in MSU's [Educational Psychology & Educational Technology (EPET)](https://education.msu.edu/cepse/epet/) program.
 
-My work is at the intersection of K-12 education, computer science, and social justice.
+### Announcements
+
+{: .notice}
+🎉 Our paper *“These Two Worlds Are Antithetical”: Epistemic Tensions in 
+Integrating Computational Thinking in K12 Humanities and Arts* was accepted to
+[ICLS 2023](https://www.isls.org/event/isls-annual-meeting-2023/) (Feb 28, 2023)
