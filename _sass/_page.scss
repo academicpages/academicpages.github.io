@@ -35,8 +35,8 @@
 }
 
 .page__title {
-  margin-top: 0;
-  line-height: 1;
+  margin-top: 6;
+  line-height: 5;
 
   & + .page__meta {
     margin-top: -0.5em;
@@ -56,7 +56,7 @@
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: 0.875em;
   }
 
   /* paragraph indents */
