@@ -32,10 +32,10 @@ redirect_from:
   }
   .terms-taught ul li::after {
     content: ", ";
-    margin-right: 3px;
   }
   .terms-taught ul li:last-child::after {
     content: "";
+    margin-right: 3px;
   }
 </style>
 
