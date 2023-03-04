@@ -151,10 +151,10 @@
     }
 
     .page__title {
-      font-size: $type-size-5;
+      font-size: $type-size-2;
 
       @include breakpoint($small) {
-        font-size: $type-size-4;
+        font-size: $type-size-1;
       }
     }
   }
