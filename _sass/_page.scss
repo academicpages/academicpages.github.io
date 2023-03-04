@@ -35,11 +35,11 @@
 }
 
 .page__title {
-  margin-top: 0;
+  margin-top: 0.5em;
   line-height: 1;
 
   & + .page__meta {
-    margin-top: -0.1em;
+    margin-top: 0.1em;
   }
 }
 
