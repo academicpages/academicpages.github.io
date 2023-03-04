@@ -10,7 +10,7 @@ redirect_from:
 
 ### Education  
 * PhD in Public Policy, Syracuse University, 2024 (expected)
-* Master of Science., Political Science, Université de Montreal, 2015
+* Master of Science in Political Science, Université de Montreal, 2015
 
 ### Professional Experience  
 *  
