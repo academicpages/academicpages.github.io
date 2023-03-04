@@ -13,9 +13,13 @@ NBER Working Papers Nr.30343
 ### Publications
 
 **[Powering the next wave of green energy innovation (2022)](https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000119)** - joint with [David Popp](https://www.maxwell.syr.edu/directory/david-popp)    
-**PLOS Climate** 2(1): e0000119 
+**PLOS Climate** 2(1): e0000119
 
 
 ### Work in Progress
 
 **Blaoa**
+
+### Blog Entry
+**[How the private sector can advance development (2015)](https://www.oecd.org/dev/development-posts-private-sector.htm#:~:text=Business%2Dled%20initiatives%2C%20such%20as,skills%20and%20promote%20technological%20advances.)** - joint with  Lorenzo Pavone, Kate Eklin and Josep Casas   
+OECD Blog Entry
