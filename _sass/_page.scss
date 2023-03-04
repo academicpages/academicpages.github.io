@@ -39,7 +39,7 @@
   line-height: 1;
 
   & + .page__meta {
-    margin-top: 0.1em;
+    margin-top: 0.5em;
   }
 }
 
@@ -51,7 +51,7 @@
 .page__content {
 
   h3 {
-    padding-bottom: 0.875em;
+    padding-bottom:2em;
     border-bottom: 1px solid $border-color;
   }
 
