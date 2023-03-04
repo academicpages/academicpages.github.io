@@ -12,7 +12,7 @@ academic_term: "fall22"
 
 I taught two special topic classes this semester:
 
-* [Asset-based teaching in the context of English Language Learners](/files/te-150-asset-based-teaching.pdf)
-* [The school to prison pipeline](/files/te-150-school-prison-pipeline.pdf)
+* [Asset-based teaching in the context of English Language Learners](/files/slides/te-150-asset-based-teaching.pdf)
+* [The school to prison pipeline](/files/slides/te-150-school-prison-pipeline.pdf)
 
 -------
