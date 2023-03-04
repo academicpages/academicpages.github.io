@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Myriam Gregoire Zawilski"
+title                    : "Myriam Gregoire-Zawilski"
 title_separator          : "-"
-name                     : &name "Myriam Gregoire Zawilski"
+name                     : &name "Myriam Gregoire-Zawilski"
 description              : &description "PhD Candidate"
 url                      : https://myriamgz.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Myriam Gregoire Zawilski"
+  name             : "Myriam Gregoire-Zawilski"
   avatar           : "profile.png"
   bio              : "PhD Candidate"
   location         : "Syracuse, New York"
-  employer         : "Syracuse University - Maxwell School"
+  employer         : "Maxwell School at Syracuse University"
   pubmed           :
   googlescholar    :
   email            : "mgregoir@syr.edu"

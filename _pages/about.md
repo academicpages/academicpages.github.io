@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Myriam Gregoire Zawilski
+title: Welcome to my webpage!
 excerpt: "About me"
 author_profile: true
 redirect_from:
