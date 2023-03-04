@@ -19,14 +19,3 @@ NBER Working Papers Nr.30343
 ### Work in Progress
 
 **Blaoa**
-
-
-### Blog Entry
-**[How the private sector can advance development (2015)](https://www.oecd.org/dev/development-posts-private-sector.htm#:~:text=Business%2Dled%20initiatives%2C%20such%20as,skills%20and%20promote%20technological%20advances.)** - joint with  Lorenzo Pavone, Kate Eklin and Josep Casas   
-OECD Blog Entry
-
-
-### Master Thesis
-
-**[Construire l'avantage comparatif du Brésil?: la coordination dans les filiales soja du Mato Grosso et du Paraná (2015)](https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/12482/Gregoire-Zawilski_Myriam_2015_memoire.pdf?sequence=2&isAllowed=y)**
-Thèses et mémoires électroniques de l’Université de Montréal 
