@@ -1,3 +1,34 @@
+
+Skip to content
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+@steingress
+academicpages /
+academicpages.github.io
+Public
+
+Fork your own copy of academicpages/academicpages.github.io
+
+Code
+Issues 158
+Pull requests 216
+Actions
+Projects
+Security
+
+    Insights
+
+Beta Try the new code view
+academicpages.github.io/_sass/_page.scss
+@staeiou
+staeiou make links underlined by default
+Latest commit 5055f27 Oct 17, 2018
+History
+1 contributor
+401 lines (328 sloc) 6.3 KB
 /* ==========================================================================
    SINGLE PAGE/POST
    ========================================================================== */
@@ -35,33 +66,33 @@
 }
 
 .page__title {
-  margin-top: 1.5em;
-  line-height: 10;
+  margin-top: 0;
+  line-height: 1;
 
   & + .page__meta {
-    margin-top: 0.5em;
+    margin-top: -0.5em;
   }
 }
 
 .page__lead {
   font-family: $global-font-family;
-  font-size: $type-size-5;
+  font-size: $type-size-4;
 }
 
 .page__content {
 
-  h3 {
-    padding-bottom:1em;
-    border-bottom: 0px solid $border-color;
+  h2 {
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid $border-color;
   }
 
   p, li, dl {
-    font-size: 0.875em;
+    font-size: 1em;
   }
 
   /* paragraph indents */
   p {
-    margin: 0 0.5em $indent-var;
+    margin: 0 0 $indent-var;
 
     /* sibling indentation*/
     @if $paragraph-indent == true {
@@ -399,3 +430,20 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+
+    Terms
+    Privacy
+    Security
+    Status
+    Docs
+    Contact GitHub
+    Pricing
+    API
+    Training
+    Blog
+    About
+
+academicpages.github.io/_page.scss at master · academicpages/academicpages.github.io
