@@ -273,6 +273,8 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+  theme: minimal-mistakes-jekyll
+
 
 # Archives
 #  Type
