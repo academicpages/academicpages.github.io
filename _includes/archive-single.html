@@ -65,10 +65,10 @@
             </time></p>-->
         {% endif %}
 
-    {% if post.citation %}
+    {% if post.citation != "" %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.citation }} </p>
     {% endif %}
-    {% if post.excerpt %}
+    {% if post.excerpt | strip  != "" %}
       <div class="notice" itemprop="description">{{ post.excerpt | markdownify }}</div>
     {% endif %}
 
