@@ -23,7 +23,6 @@ Outside academia, I am very passionate about martial arts, and specifically, I s
     </font> 
     <br /> 
     <font size="2">
-      <br/>
       <a href="https://arxiv.org/abs/2109.02445">
       [Arxiv]
       </a>
