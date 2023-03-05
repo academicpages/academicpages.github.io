@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate at the Institute of Data Science, University of Greifswald, where I am pursuing my dream of exploring the fascinating fields of Data Science and Natural Language Processing.
+I am a Ph.D. candidate at the Institute of Data Science, University of Greifswald, where I am exploring the fascinating fields of Data Science and Natural Language Processing.
 
 Under the guidance of [Professor Kristina Yordanova](http://stenialo.org/about-me/), I am engaged in cutting-edge research that aims to push the boundaries of these exciting areas. With my background in Electrical Engineering and Information Technology, as well as my experience in NLP, I bring a unique perspective to the table.
 
