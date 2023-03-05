@@ -93,7 +93,8 @@
 
       &.current {
         color: #fff;
-        background: $primary-color;
+        /*background: $primary-color;*/
+        background: $background-color;
       }
 
       &.disabled {
@@ -256,8 +257,9 @@
     margin-top: 15px;
     padding: 5px;
     border: 1px solid $border-color;
-    border-radius: $border-radius;
-    background: #fff;
+    border-radius: $border-radius
+    /*background: #fff;*/
+    background: $background-color;
     box-shadow: 0 0 10px rgba(#000, 0.25);
 
     a {
@@ -336,7 +338,8 @@
     padding-right: 0.5em;
     color: #fff;
     font-weight: bold;
-    background: $primary-color;
+    /*background: $primary-color;*/
+    background: $background-color;
     border-radius: $border-radius;
 
     &:hover {
@@ -382,7 +385,8 @@
   .nav__title {
     color: #fff;
     font-size: $type-size-6;
-    background: $primary-color;
+    /*background: $primary-color;*/
+    background: $background-color;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
