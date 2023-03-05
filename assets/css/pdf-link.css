@@ -1,4 +1,4 @@
-.slides {
+.pdf-bubble {
     display: inline-block;
     border-radius: 4px;
     padding: 2px;
@@ -7,7 +7,7 @@
     margin-bottom: 0px;
     margin-left: 5px;
 }
-.slides::after {
+.pdf-bubble::after {
     content: "\00a0";  /* No break space */
 }
 .pdf-link::before {

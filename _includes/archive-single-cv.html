@@ -1,4 +1,5 @@
 {% include base_path %}
+<link rel="stylesheet" href="/assets/css/pdf-link.css"/>
 
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
@@ -55,6 +56,10 @@
           {% endif %}
         {% endfor %}
       </ul></div>
+      {% endif %}
+
+      {% if post.pdf %}
+        <div class="pdf-bubble"><a class="pdf-link" href="{{ post.slides }}">slides</a></div>
       {% endif %}
     </h3>
     {% if post.read_time %}

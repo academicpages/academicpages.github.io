@@ -1,5 +1,5 @@
 {% include base_path %}
-<link rel="stylesheet" href="/assets/css/slides-pdf.css"/>
+<link rel="stylesheet" href="/assets/css/pdf-link.css"/>
 
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
@@ -34,7 +34,7 @@
         {{ title }}
       {% endif %}
       {% if post.slides %}
-        <div class="slides"><a class="pdf-link" href="{{ post.slides }}">slides</a></div>
+        <div class="pdf-bubble"><a class="pdf-link" href="{{ post.slides }}">slides</a></div>
       {% endif %}
     </h3>
     {% if post.date %}
