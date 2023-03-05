@@ -190,7 +190,7 @@
 
     &:hover {
       /*color: $masthead-link-color-hover;*/
-      color: $dark-gray
+      color: $dark-gray;
     }
   }
 
@@ -273,7 +273,8 @@
       font-size: $type-size-5;
 
       &:hover {
-        color: $masthead-link-color-hover;
+        /*color: $masthead-link-color-hover;*/
+        color: $dark-gray;
         background: mix(#fff, $primary-color, 75%);
       }
     }
