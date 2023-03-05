@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+[Download CV here](http://niusj03.github.io/files/cv.pdf)
+
+<!-- Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in GitHub, GitHub University, 2023 (expected)
 
 Work experience
 ======
