@@ -1,0 +1,5 @@
+.slides-pdf::before {
+	content: url('/images/icon_pdf.gif');
+	display: inline-block;
+	margin-right: 2px;
+}

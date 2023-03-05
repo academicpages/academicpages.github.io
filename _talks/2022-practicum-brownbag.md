@@ -6,5 +6,6 @@ permalink:
 venue: "EPET Brown Bag"
 date: 2022-09-26
 location: "Michigan State University"
-link: '/files/slides/2022-practicum-brownbag.pdf'
+link:
+slides: '/files/slides/2022-practicum-brownbag.pdf'
 ---
