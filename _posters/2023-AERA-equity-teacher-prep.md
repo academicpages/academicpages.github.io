@@ -2,7 +2,6 @@
 title: 'Do CS Teacher Preparation Programs Use Equity Pedagogies?: Survey Says "A Little"'
 collection: publications
 permalink: /publication/inpress
-excerpt: 
 date: 2023-04-01
 venue: "AERA"
 paperurl: 
