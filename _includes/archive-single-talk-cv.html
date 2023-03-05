@@ -33,10 +33,10 @@
       {% else %}
         {{ title }}
       {% endif %}
+      {% if post.slides %}
+        <div class="slides"><a class="pdf-link" href="{{ post.slides }}">slides</a></div>
+      {% endif %}
     </h3>
-    {% if post.slides %}
-      <div class="slides"><a class="pdf-link" href="{{ post.slides }}">slides</a></div>
-    {% endif %}
     {% if post.date %}
       <p class="page__meta"><i class="fa fa-calendar" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
     {% endif %}

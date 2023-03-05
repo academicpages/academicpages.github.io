@@ -10,5 +10,6 @@
 .pdf-link::before {
     content: url('/images/icon_pdf.gif');
     display: inline-block;
-    margin-right: 2px;
+    margin-right: 5px;
+    transform: scale(0.8);
 }
