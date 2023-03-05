@@ -53,22 +53,22 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'teaching' %}
-          <p class="page__meta">{{ post.type }}, {{ post.academic_term }} @ {{ post.venue }}</p>
-        {% elsif post.collection == 'publications' %}
-          <!--p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p-->
-        {% elsif post.date %}
-          <!--<p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> 
-            {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> 
-            <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">
-              {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}
-            </time></p>-->
-        {% endif %}
+    {% if post.collection == 'teaching' %}
+      <p class="page__meta">{{ post.type }}, {{ post.academic_term }} @ {{ post.venue }}</p>
+    {% elsif post.collection == 'publications' %}
+      <!--p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p-->
+    {% elsif post.date %}
+      <!--<p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> 
+        {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> 
+        <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">
+          {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}
+        </time></p>-->
+    {% endif %}
 
-    {% if post.citation != "" %}
+    {% if post.citation %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.citation }} </p>
     {% endif %}
-    {% if post.excerpt | strip  != "" %}
+    {% if post.excerpt %}
       <div class="notice" itemprop="description">{{ post.excerpt | markdownify }}</div>
     {% endif %}
 

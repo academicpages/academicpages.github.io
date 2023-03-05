@@ -160,6 +160,7 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "-------" # Changing this so I can display more than just the first P
+page_excerpts: false
 incremental: false
 
 
