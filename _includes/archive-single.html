@@ -68,9 +68,10 @@
     {% if post.citation %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.citation }} </p>
     {% endif %}
-    {% if post.excerpt %}
+    {% if post.excerpt != "" %}
       <!--DEBUG-->
       <!--{{ post.excerpt }}-->
+      <!--{{ post.excerpt != "" }}-->
       <div class="notice" itemprop="description">{{ post.excerpt | markdownify }}</div>
     {% endif %}
 
