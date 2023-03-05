@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://niusj03.github.io/files/cv.pdf)
+[Download CV here](https://github.com/niusj03/niusj03.github.io/raw/master/files/CV.pdf)
 
 <!-- Education
 ======
