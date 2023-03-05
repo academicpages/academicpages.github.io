@@ -31,11 +31,11 @@
     font-size: 1em;
   }
 
-  p {
-    &:last-child {
-      margin-bottom: 0 !important; /* override*/
-    }
-  }
+  // p {
+  //   &:last-child {
+  //     margin-bottom: 0 !important; /* override*/
+  //   }
+  // }
 
   h4 + p {
     /* remove space above paragraphs that appear directly after notice headline*/

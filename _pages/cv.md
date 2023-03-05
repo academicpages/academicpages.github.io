@@ -12,6 +12,9 @@ redirect_from:
   h3 {
     margin-top: 10px;
   }
+  .page__title {
+    text-align: center;
+  }
 </style>
 <link rel="stylesheet" href="/assets/css/terms-taught.css"/>
 
