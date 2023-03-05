@@ -7,9 +7,12 @@
     margin-bottom: 0px;
     margin-left: 5px;
 }
+.slides::after {
+    content: "\00a0";  /* No break space */
+}
 .pdf-link::before {
     content: url('/images/icon_pdf.gif');
     display: inline-block;
-    margin-right: 5px;
+    margin-right: 2px;
     transform: scale(0.8);
 }
