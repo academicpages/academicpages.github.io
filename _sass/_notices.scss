@@ -43,13 +43,13 @@
     padding-top: 0;
   }
 
-  a {
-    color: $notice-color;
+  // a {
+  //   color: $notice-color;
 
-    &:hover {
-      color: mix(#000, $notice-color, 40%);
-    }
-  }
+  //   &:hover {
+  //     color: mix(#000, $notice-color, 40%);
+  //   }
+  // }
 
   code {
     background-color: mix(#fff, $notice-color, 95%)
