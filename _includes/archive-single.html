@@ -71,7 +71,9 @@
     {% if post.excerpt != "" %}
       <!--DEBUG-->
       <!--{{ post.excerpt }}-->
-      <!--{{ post.excerpt != "" }}-->
+      {{ assign debug = post.excerpt != "" }}
+      {{ assign test = true }}
+      <!--{{ test }} : {{debug}}-->
       <div class="notice" itemprop="description">{{ post.excerpt | markdownify }}</div>
     {% endif %}
 
