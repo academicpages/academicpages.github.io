@@ -16,6 +16,23 @@ Outside academia, I am very passionate about martial arts, and specifically, I s
 
 ## Publications
 <ul>
+    <li>PLUNDER: Probabilistic Program Synthesis for Learning from Unlabeled and Noisy Demonstrations
+    <br />
+    <font size="3">
+      (Jimmy Xin, Linus Zheng, Jiayi Wei, <b>Kia Rahmani</b>, Jarrett Holtz, Isil Dillig, Joydeep Biswas)
+    </font> 
+    <br /> 
+    <font size="2">
+       <a href="/"> 
+      [[under review]]</a>
+      <br/>
+      <a href="https://arxiv.org/abs/2109.02445">
+      [Arxiv]
+      </a>
+    </font>
+    </li>
+</ul>
+<ul>
     <li> Symbolic Analysis of Weak Concurrency Semantics in Modern Database Programs
     <br />
     <font size="3">
