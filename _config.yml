@@ -5,6 +5,16 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+# theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Shirley Xue Li LIM, PhD"
@@ -84,10 +94,10 @@ author:
   avatar           : "SL.jpeg"
   bio              : "Postdoctoral Researcher at Center for Taste and Feeding Behavior (CSGA), INRAE, France. Currently studying odor-taste integration and flavor perception"
   location         : "Dijon, France"
-  employer         :  CSGA, INRAE
+  employer         : "CSGA, INRAE"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.sg/citations?user=uJfycGcAAAAJ&hl=en"
-  email            :
+  email            : "xue-li.lim@inrae.fr"
   researchgate     :  "https://www.researchgate.net/profile/Shirley-Lim-7"
   uri              :
   bitbucket        :
@@ -102,7 +112,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/shirley-xue-li-lim-8963bb93/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
