@@ -1,4 +1,5 @@
 {% include base_path %}
+<link rel="stylesheet" href="/assets/css/pdf-link.css"/>
 
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
@@ -42,6 +43,10 @@
         <!--a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a-->
         {{ title }}
       {% endif %}
+
+      {% if post.pdf %}
+        <div class="pdf-bubble"><a class="pdf-link" href="{{ post.pdf}}">pdf</a></div>
+      {% endif %}
     </h2>
     
     {% if post.read_time %}
@@ -60,12 +65,11 @@
             </time></p>-->
         {% endif %}
 
-    {% if post.excerpt %}
-      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% endif %}
-    
     {% if post.citation %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.citation }} </p>
+    {% endif %}
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% endif %}
 
   </article>
