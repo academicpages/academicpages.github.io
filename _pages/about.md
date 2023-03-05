@@ -1,14 +1,15 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
+About
+======
 Currently, I am an incoming Statistics PhD student at Carnegie Mellon University. Prior to that, I received a BS in Statistics and Data Science from the University of São Paulo, where I was fortunate to be advised by professors Aquiles Kalatzis and [Carlos Martins-Filho](https://spot.colorado.edu/~martinsc/index.html).
 My research interests lay primarily in responsible AI, regression discontinuity designs, semi-parametric regression models, and Bayesian statistics.
 
