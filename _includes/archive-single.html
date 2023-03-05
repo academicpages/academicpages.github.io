@@ -70,7 +70,7 @@
     {% endif %}
     {% unless post.excerpt == nil or post.excerpt == "" or post.excerpt == blank or post.excerpt == empty %}
       <div class="notice" itemprop="description">{{ post.excerpt | markdownify }}</div>
-    {% endif %}
+    {% endunless %}
 
   </article>
 </div>
