@@ -68,9 +68,9 @@
     {% if post.citation %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.citation }} </p>
     {% endif %}
-    {% unless post.excerpt | markdownify | remove: "<p>" | remove: "</p>" == blank %}
+    {% if post.excerpt %}
       <div class="notice" itemprop="description">{{ post.excerpt | markdownify }}</div>
-    {% endunless %}
+    {% endif %}
 
   </article>
 </div>
