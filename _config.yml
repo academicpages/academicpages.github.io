@@ -274,7 +274,8 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 # Archives
 #  Type
