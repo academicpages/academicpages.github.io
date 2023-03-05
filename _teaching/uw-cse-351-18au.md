@@ -7,5 +7,6 @@ date: 2018-09-01
 location: "Seattle, WA"
 link: "https://courses.cs.washington.edu/courses/cse351/18au/"
 academic_term: "18au"
+excerpt: ""
 ---
 

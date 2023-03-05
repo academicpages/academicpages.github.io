@@ -6,4 +6,5 @@ venue: "Michigan State University"
 date: 2021-01-01
 location:
 academic_term: "spring21"
+excerpt: ""
 ---

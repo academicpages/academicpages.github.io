@@ -9,10 +9,4 @@ location:
 link: "/teaching/msu-te-150-22fs"
 academic_term: "fall22"
 ---
-
-I taught two special topic classes this semester:
-
-* [Asset-based teaching in the context of English Language Learners](/files/slides/te-150-asset-based-teaching.pdf)
-* [The school to prison pipeline](/files/slides/te-150-school-prison-pipeline.pdf)
-
--------
+I taught two special topic classes this semester: [asset-based teaching in the context of English Language Learners](/files/slides/te-150-asset-based-teaching.pdf) and [the school to prison pipeline](/files/slides/te-150-school-prison-pipeline.pdf)

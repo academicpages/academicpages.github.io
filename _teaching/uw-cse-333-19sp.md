@@ -7,4 +7,5 @@ date: 2019-04-01
 location: "Seattle, WA"
 link: "https://courses.cs.washington.edu/courses/cse333/19sp/"
 academic_term: "19sp"
+excerpt: ""
 ---
