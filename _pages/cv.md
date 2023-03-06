@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Skills and services"
+# title: "Skills and services"
 permalink: /cv/
 author_profile: true
 redirect_from:
