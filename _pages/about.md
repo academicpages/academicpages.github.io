@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a *Wissenschaftliche Mitarbeiter* (Scientific Researcher) and a Ph.D. candidate under the guidance of [Professor Kristina Yordanova](http://stenialo.org/about-me/) at the Institute of Data Science, University of Greifswald, where I am exploring the fascinating fields of Data Science and Natural Language Processing.
+I am a *Wissenschaftliche Mitarbeiter* (Scientific Researcher) and a first year Ph.D. student under the guidance of [Professor Kristina Yordanova](http://stenialo.org/about-me/) at the [Institute of Data Science](https://datascience.uni-greifswald.de/), University of Greifswald. 
+
+My research goal involves developing natural language processing methods, including named entity recognition, relationship extraction, and entity linking, as well as machine learning methods for semantic learning graphs and data fusion techniques for enhancing textual knowledge. Additionally, I will be creating a prototype implementation of these methods and supervising student assistants in their research-related work.
+
 Prior to my doctoral studies, I worked as a research assistant at the [University of Rostock](https://www.mmis.informatik.uni-rostock.de/staff/), where I delved into Neural Density Estimation for the project [NEISS](https://www.neiss.uni-rostock.de/en/). I also had the opportunity to hone my skills as a Software Engineer at [PLANET AI](https://planet-ai.de/), where I contributed to the development and testing of [Intelligent Document Analysis](https://planet-ai.de/products/ida/) software.
 
  <h2>Research</h2>
