@@ -35,11 +35,11 @@ Research
 Upcoming Talks
 ==========
 
-- Southern Political Science Association Meeting (SPSA): January 11-14, 2023: St. Petersburg, FL, U.S.
+- Midwest Political Science Association Meeting (MPSA): April 13-16, 2023; Chicago, IL, U.S.
 
-- Midwest Political Science Association (MPSA): April 13-16, 2023: Chicago, IL, U.S.
+- Latin American Studies Association Meeting (LASA): May 24-27, 2023; Vancouver, Canada.
 
-- Latin American Studies Association Meeting (LASA): May 24-27, 2023: Vancouver, Canada.
+- European Political Science Association Meeting (EPSA): June 22-24, 2023; Glasgow, Scotland.
 
 <!---
 

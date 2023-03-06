@@ -18,6 +18,7 @@ I have presented / will be presenting at...
 
 
 #### European Political Science Association (EPSA)
+- Glasgow, Scotland: 2023: Panel: TBA.
 - Prague, Czech Republic: 2022. Panel: Patronage & Accountability.
 
 #### European Consortium for Political Research (ECPR)
