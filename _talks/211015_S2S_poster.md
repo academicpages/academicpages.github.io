@@ -8,4 +8,4 @@ date: 2021-10-15
 location: "online"
 ---
 
-Poster available [here](http://martamonelli.github.io/files/21-10-21_S2S_poster.pdf)
+Poster available [here](http://martamonelli.github.io/files/21-10-21_S2S_poster.pdf).
