@@ -7,5 +7,3 @@ venue: "Seminar"
 date: 2023-02-02
 location: "Perimeter Institute, Canada"
 ---
-
-Slides available [here](http://martamonelli.github.io/files/23-02-02_PI_slides.pdf).
