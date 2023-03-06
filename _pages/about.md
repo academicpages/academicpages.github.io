@@ -26,7 +26,7 @@ Publications
 
 **Multi-Agent Active Search using Detection and Location Uncertainty**\
 Arundhati Banerjee, Ramina Ghods, Jeff Schneider\
-ICRA 2023. | [arxiv](https://arxiv.org/abs/2203.04524)
+ICRA 2023. | [arxiv](https://arxiv.org/abs/2203.04524) | [website](https://sites.google.com/view/unik-icra23)
 
 **Decentralized Multi-Agent Active Search for Sparse Signals**\
 Ramina Ghods, Arundhati Banerjee, Jeff Schneider\
