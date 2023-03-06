@@ -7,5 +7,3 @@ venue: "CMB group meeting"
 date: 2022-09-15
 location: "Kavli IPMU, Japan"
 ---
-
-Slides available [here](http://martamonelli.github.io/files/22-09-15_IPMU_slides.pdf)
