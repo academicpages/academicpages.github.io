@@ -12,7 +12,7 @@ Affairs
 
 **2022**
 
-* Association for Public Policy Analysis and Management, 2022 Fall Research Conference, Washington, D.C.
+* Fall Conference of the Association for Public Policy Analysis and Management, Washington, D.C.
 * Economics of Innovation in the Energy Sector Conference, National Bureau of
 Economic Research. Washington, D.C.
 * Economics of Innovation in the Energy Sector Conference, National Bureau of
