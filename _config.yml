@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  blogs:
+    output: true
+    permalink: /:collection/:blogs/
 
 
 # Defaults
@@ -241,7 +244,15 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: single
+      author_profile: true
+      share: true
+  # _blogs
+  - scope:
+      path: ""
+      type: blogs
+    values:
+      layout: single
       author_profile: true
       share: true
 
