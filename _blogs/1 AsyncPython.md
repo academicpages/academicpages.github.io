@@ -8,4 +8,4 @@ tags:
   - asyncio
 ---
 
-By the end of this post, one will be able to understand the basics of asynchronous programming in Python. We will be using the `asyncio` module in Python 3.7+.
+By the end of this post, one will be able to understand the basics of asynchronous programming in Python using the `asyncio` module.
