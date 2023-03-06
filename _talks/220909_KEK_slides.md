@@ -7,5 +7,3 @@ venue: "CMB group meeting"
 date: 2022-09-09
 location: "KEK, Japan"
 ---
-
-Slides available [here](http://martamonelli.github.io/files/22-09-09_KEK_slides.pdf)
