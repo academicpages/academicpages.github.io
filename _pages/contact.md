@@ -5,7 +5,8 @@ author_profile: true
 ---
 
 Myriam Gregoire-Zawilski  
-The Maxwell School  
+Center for Policy Research  
+Maxwell School of Citizenship and Public Affairs  
 426 Eggers Hall  
 Syracuse, NY 13244-1020  
 United States  
