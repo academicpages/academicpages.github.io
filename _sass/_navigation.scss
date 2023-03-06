@@ -95,7 +95,7 @@
       &.current {
         color: #fff;
         /* background: $primary-color; */
-        background: #1e81b0;
+        background: $navigation-color ;
 
       }
 
@@ -202,7 +202,7 @@
     border: 0;
     outline: none;
     /* background-color: $primary-color */
-    background-color: #1e81b0;
+    background-color: $navigation-color ;
     color: #fff;
     cursor: pointer;
   }
@@ -264,7 +264,7 @@
     border: 1px solid $border-color;
     border-radius: $border-radius;
     /* background: #fff; */
-    background: #1e81b0;
+    background: $navigation-color ;
     box-shadow: 0 0 10px rgba(#000, 0.25);
 
     a {
@@ -345,7 +345,7 @@
     color: #fff;
     font-weight: bold;
     /* background: $primary-color; */
-    background: #1e81b0;
+    background: $navigation-color ;
     border-radius: $border-radius;
 
     &:hover {
@@ -384,7 +384,7 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   /* background-color: #fff */
-  background-color: #1e81b0;
+  background-color: $navigation-color ;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
@@ -393,7 +393,7 @@
     color: #fff;
     font-size: $type-size-6;
     /* background: $primary-color; */
-    background: #1e81b0;
+    background: $navigation-color ;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
