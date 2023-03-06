@@ -21,4 +21,4 @@ Economic Research. Cambridge, Massachusetts
 * Atlanta Academy on Science and Innovation Policy, Atlanta, Georgia
 
 **2014**
-* Conférence étudiante en développement international de l’Université du Québec en Outaouais. Gatineau, Québec. March 24, 2014.
+* Conférence étudiante en développement international de l’Université du Québec en Outaouais. Gatineau, Québec
