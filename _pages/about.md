@@ -17,8 +17,7 @@ Email: zhimengj at tamu.edu. Here is my [CV](http://zhimengj0326.github.io/files
 
 News
 =====
-
-<div class="sidebar">
+<div style="height: 1000px; overflow-y: scroll;"> 
 
 **Jan. 2023:** One paper Hierarchy-Aware Multi-Hop Question Answering is accepted by WWW 2023.
 
@@ -60,9 +59,6 @@ News
 
 **May. 2020:** Thrilled to start my summer internship at Samsung Research America Ads AI team, supervised by [Dr. Li Li](https://scholar.google.com/citations?user=FPcI7HkAAAAJ&hl=en) and [Dr. Rui Chen](https://scholar.google.com/citations?user=ngVttWUAAAAJ&hl=en).
 
-<!-- ## My Sidebar Title
-
-Here's some content for my sidebar. -->
 
 </div>
 
