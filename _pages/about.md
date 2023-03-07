@@ -20,9 +20,9 @@ I'm a Junior student at Communication Engineering Elite Class in Beijing Univers
 Here is my latest [curriculum vitae](https://staymylove.github.io/cv/).
 
 # News
-- \[2022.02\] I submit our paper about "knowledge graph construction for Electronic Information" to "ICALT 2023"(IEEE ICALT conference is ranked as the 2nd by saliency in Educational Technology area). Thanks for my co-authors.
-- \[2022.01\] I fall in love with my wonderful girlfriend.
-- \[2022.01\] Our work on "robust and safety about semantic communication" is accepted by "ICC 2023"(IEEE ICC is one of two IEEE Communications Society’s flagship conferences). Thanks for my co-authors in BUPT.
+- \[2023.02\] I submit our paper about "knowledge graph construction for Electronic Information" to "ICALT 2023"(IEEE ICALT conference is ranked as the 2nd by saliency in Educational Technology area). Thanks for my co-authors.
+- \[2023.01\] I fall in love with my wonderful girlfriend.
+- \[2023.01\] Our work on "robust and safety about semantic communication" is accepted by "ICC 2023"(IEEE ICC is one of two IEEE Communications Society’s flagship conferences). Thanks for my co-authors in BUPT.
 - \[2022.08\] Our work on "adversarial attacks for semantic communication" is accepted by "2022 IEEE 96th Vehicular Technology Conference".
 - \[2022.05\] I join in the National Engineering Research Center of Mobile Network Security in BUPT as a research intern.
 - \[2021.09\] I participate in the project "Knowledge graph construction for Electronic Information". 
