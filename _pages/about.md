@@ -11,6 +11,7 @@ redirect_from:
 Header number 1
 ======
 
+test
 
 Second one
 ======
