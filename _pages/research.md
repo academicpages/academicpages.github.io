@@ -11,7 +11,7 @@ author_profile: true
 [Teaching for large-scale Reproducibility Verification](https://www.tandfonline.com/doi/full/10.1080/26939169.2022.2074582) (with [Lars Vilhuber](https://www.vilhuber.com/lars/), [Meredith Welch](https://www.meredithswelch.com/), [David Wasser](https://www.davidnwasser.com/), and [Michael Darisse](https://sites.google.com/view/michaeldarisse), *Journal of Statistics and Data Science Education*, 2022, vol. 30(3): 274-281.
 
 ## Working Papers
-[Unpacking the Links between Conflict and Child Welfare: Evidence from a Foreign Insurgency](https://hicn.org/working-paper/unpacking-the-links-between-conflict-and-child-welfare-evidence-from-a-foreign-insurgency/) (with [Heidi Kaila](https://sites.google.com/view/heidikaila/home) and Larissa Nawo), *Under Review*
+[Unpacking the Links between Conflict and Child Welfare: Evidence from a Foreign Insurgency](https://hicn.org/working-paper/unpacking-the-links-between-conflict-and-child-welfare-evidence-from-a-foreign-insurgency/) (with [Heidi Kaila](https://sites.google.com/view/heidikaila/home) and Larissa Nawo), *HiCN Working paper 353*
 
 [Gold Mine Openings and Child Labor in Mali](http://hyukhson.github.io/files/gold_mine_child_labor.pdf), *Under Review*
 
