@@ -13,7 +13,7 @@ name                     : &name "Zeju Li"
 description              : &description "Junior student at BUPT"
 url                      : https://staymylove.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "staymylove\staymylove.github.io"
+repository               : "staymylove/staymylove.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zeju Li 李泽钜"
   avatar           : "profile.png"
-  bio              : "Junior @BUPT 24'"
+  bio              : "Junior @BUPT"
   location         : "Beijing China"
   employer         :
   pubmed           : 
