@@ -33,7 +33,7 @@ AAAI Conference on Artificial Intelligence (AAAI) @ AI for Web Advertising Works
 <b>[G-Mixup: Graph  Augmentation  for  Graph Classification](https://arxiv.org/abs/2202.07179)
 </b><br>Xiaotian Han, <b>Zhimeng Jiang</b>, Ninghao Liu, and Xia Hu. <br>
 International Conference on Machine Learning (**ICML**), 2022. <br>
-<span style="color:red">**[Outstanding Paper Award](https://icml.cc/virtual/2022/awards_detail)**</span>
+[<span style="color:red">**Outstanding Paper Award**</span>](https://icml.cc/virtual/2022/awards_detail)
 
 <b>[An Information Fusion Approach to Learning with Instance-Dependent Label Noise](https://openreview.net/forum?id=ecH2FKaARUp)
 </b><br><b>Zhimeng Jiang</b>, Kaixiong Zhou, Zirui Liu, Li Li, Rui Chen, Soo-Hyun Choi, and Xia Hu.  <br>
@@ -50,7 +50,7 @@ The Web Conference (formerly **WWW**), 2022.
 <b>[BED: A Real-Time Object Detection System for Edge Devices.](https://arxiv.org/abs/2202.07503)
 </b><br>Guanchu Wang\*, Zaid Pervaiz Bhat\*, <b>Zhimeng Jiang\*</b>, Yi-Wei Chen\*, Daochen Zha\*, Alfredo Costilla Reyes*, Afshin Niktash, Gorkem Ulkar, Erman Okman, Xia Hu. <br>
 ACM International Conference on Information and Knowledge Management (CIKM), 2022 (demo). <br>
-<span style="color:red">**[Best Demo Paper Award](https://www.cikm2022.org/best-paper)**</span>
+[<span style="color:red">**Best Demo Paper Award**</span>](https://www.cikm2022.org/best-paper)
 
 
 <!-- ## Under review/ On-Going
