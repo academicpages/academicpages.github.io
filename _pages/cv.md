@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Data Science, Shanghai University of Finance and Economics, 2018 - 2022
+* Ph.D in Statistics, Purdue University, 2022 - Present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022.2 - Present: Applid Scientist Intern
+  * Amazon Web Service
+  * Supervisor: Dr. David Wipf and Mr. Tong He
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021.8 - 2021.12: Quantitative Research Intern
+  * Kafang Tech
+  * Supervisor: Mr. Yizhi Feng
+
+* 2021.1 - 2022.1: Research Assistant
+  * Shanghai University of Finance and Economics
+  * Supervisor: Dr. Yixuan Qiu
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
