@@ -8,52 +8,31 @@ redirect_from:
 ---
 
 {% include base_path %}
+Communication Engineering, Elite Class, Beijing University of Posts and Telecommunications
+E-Mail: lizeju@bupt.edu.cn ; lizeju0727@gmail.com
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Junior Beijing University of Posts and Telecommunications(BUPT)
+2020.09- Communication Engineering, Elite Class
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## INTERNSHIPS
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- 2021.06-2022.12 
+  - Interests: Data mining and Knowledge graph (Mentor: Chunhong Zhang )
+
+- 2021.10-Now 
+  - Interest: Multimodal and Semantic communication (Mentor: Prof. Guoshun Nan)
+
+
+## AWARDS
+
+- 2022年美国大学生数学建模竞赛                             一等奖（ M奖）
+- 全国软件和信息技术专业人才大赛蓝桥杯python程序设计大学A组  一等奖
+- 第三十三届北京市大学生数学竞赛                           二等奖
+- 第五届华教杯全国大学生数学竞赛                           二等奖
+- 第十四届全国大学生数学竞赛                              三等奖
+- 2021年北京邮电大学物理竞赛                              三等奖
+- 第五届北京邮电大学雏雁计划决赛                           三等奖
+- 北京市互联网+创新创业大赛                               优秀奖
+
