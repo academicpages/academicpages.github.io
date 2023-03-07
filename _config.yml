@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Albert Kjøller Jacobsen / Personal Site"
+title                    : "Main page"
 title_separator          : "-"
 name                     : &name "Albert Kjøller Jacobsen"
 description              : &description "MSc. Eng. Human-Centered AI @ DTU"
@@ -179,7 +179,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false # true
     permalink: /:collection/:path/
   portfolio:
     output: true
