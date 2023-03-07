@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a fourth-year Ph.D. student in the [Department of Computer Science](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/), advised by [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). 
+* I am currently a fourth-year Ph.D. student from [Department of Computer Science](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/), advised by [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). Before that, I received B.S. degree from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), and M.S. degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) under supervision of [Prof. Chen Gong](http://staff.ustc.edu.cn/~cgong821/) and [Prof. Zhengyuan Xu](http://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm).
 
-* Previously, I received the M.S. degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) under supervision of [Prof. Chen Gong](http://staff.ustc.edu.cn/~cgong821/) and Prof. Zhengyuan Xu, and the B.S. degree from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/).
+* My research interests lie in the broad area of trustworthy machine learning and graph data mining, particularly in fair graph learning, fairness evaluation, and reliable learning under distribution shifts.
 
-* My research interests lie in the broad area of trustworthy machine learning, particularly in fair and robust DNNs and GNNs.
-
+Email: zhimengj at tamu.edu. Here is my [CV](http://zhimengj0326.github.io/files/CV_ZM.pdf)
 <br />
 
 News
