@@ -14,7 +14,7 @@ redirect_from:
 
 ## Education
 
-- 2020.09- Now Junior Beijing University of Posts and Telecommunications(BUPT)
+- 2020.09- Now ~ Beijing University of Posts and Telecommunications(BUPT)
   - Communication Engineering, Elite Class
 
 ## Internships
