@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-*Communication Engineering, Elite Class, Beijing University of Posts and Telecommunications
-*E-Mail: lizeju@bupt.edu.cn ; lizeju0727@gmail.com
+- Communication Engineering, Elite Class, Beijing University of Posts and Telecommunications
+- E-Mail: lizeju@bupt.edu.cn ; lizeju0727@gmail.com
 
 ## Education
 
