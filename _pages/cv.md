@@ -25,7 +25,7 @@ E-Mail: lizeju@bupt.edu.cn ; lizeju0727@gmail.com
   - Interest: Multimodal and Semantic communication (Mentor: Prof. Guoshun Nan)
 
 
-## AWARDS
+<!-- ## AWARDS
 
 - 2022年美国大学生数学建模竞赛                             一等奖（ M奖）
 - 全国软件和信息技术专业人才大赛蓝桥杯python程序设计大学A组  一等奖
@@ -34,5 +34,5 @@ E-Mail: lizeju@bupt.edu.cn ; lizeju0727@gmail.com
 - 第十四届全国大学生数学竞赛                              三等奖
 - 2021年北京邮电大学物理竞赛                              三等奖
 - 第五届北京邮电大学雏雁计划决赛                           三等奖
-- 北京市互联网+创新创业大赛                               优秀奖
+- 北京市互联网+创新创业大赛                               优秀奖 -->
 
