@@ -83,17 +83,20 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
+      color: mix(#fff, $gray, 95%);
       border: 1px solid $light-gray;
       border-radius: 0;
 
       &:hover {
-        color: $link-color-hover;
+        /*color: $link-color-hover;*/
+        color: $gray
       }
 
       &.current {
         color: #fff;
-        background: $primary-color;
+        /* background: $primary-color; */
+        background: $navigation-color ;
+
       }
 
       &.disabled {
@@ -136,7 +139,8 @@
     border-radius: $border-radius;
 
     &:hover {
-      color: $link-color-hover;
+      /*color: $link-color-hover;*/
+      color: $gray
     }
 
     &:first-child {
@@ -185,7 +189,8 @@
     text-decoration: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      /*color: $masthead-link-color-hover;*/
+      color: $lighter-gray;
     }
   }
 
@@ -196,7 +201,8 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
+    /* background-color: $primary-color */
+    background-color: $navigation-color ;
     color: #fff;
     cursor: pointer;
   }
@@ -257,7 +263,8 @@
     padding: 5px;
     border: 1px solid $border-color;
     border-radius: $border-radius;
-    background: #fff;
+    /* background: #fff; */
+    background: $navigation-color ;
     box-shadow: 0 0 10px rgba(#000, 0.25);
 
     a {
@@ -266,7 +273,8 @@
       font-size: $type-size-5;
 
       &:hover {
-        color: $masthead-link-color-hover;
+        /*color: $masthead-link-color-hover;*/
+        color: $dark-gray;
         background: mix(#fff, $primary-color, 75%);
       }
     }
@@ -336,7 +344,8 @@
     padding-right: 0.5em;
     color: #fff;
     font-weight: bold;
-    background: $primary-color;
+    /* background: $primary-color; */
+    background: $navigation-color ;
     border-radius: $border-radius;
 
     &:hover {
@@ -374,7 +383,8 @@
   color: $gray;
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-color: #fff;
+  /* background-color: #fff */
+  background-color: $navigation-color ;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
@@ -382,7 +392,8 @@
   .nav__title {
     color: #fff;
     font-size: $type-size-6;
-    background: $primary-color;
+    /* background: $primary-color; */
+    background: $navigation-color ;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
@@ -406,7 +417,7 @@
 
     &:hover {
       color: #000;
-      background: $lighter-gray;
+      background: $gray;
     }
   }
 
