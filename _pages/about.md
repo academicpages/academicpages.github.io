@@ -18,7 +18,8 @@ Email: zhimengj at tamu.edu. Here is my [CV](http://zhimengj0326.github.io/files
 News
 =====
 
-<div style="height: 150px; overflow-y: scroll;"> 
+<!-- <div style="height: 150px; overflow-y: scroll;">  -->
+<div style="height:350px;width:950px;overflow:auto;background:#f6f6f6;">
 <ul>
 <li> <b>03/2023:</b>Invited poster in the Energy High Performance Computing Conference sponsored by the Ken Kennedy Institute.
 </li>
