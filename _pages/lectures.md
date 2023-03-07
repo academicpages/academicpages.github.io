@@ -7,4 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-include archive-single.html
+{% for post in site.lectures reversed %}
+  {% include archive-single.html %}
+{% endfor %}
