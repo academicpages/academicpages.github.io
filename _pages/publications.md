@@ -33,33 +33,32 @@ AAAI Conference on Artificial Intelligence (AAAI) @ AI for Web Advertising Works
 <b>[G-Mixup: Graph  Augmentation  for  Graph Classification](https://arxiv.org/abs/2202.07179)
 </b><br>Xiaotian Han, <b>Zhimeng Jiang</b>, Ninghao Liu, and Xia Hu. <br>
 International Conference on Machine Learning (**ICML**), 2022. <br>
-<span style="color:red">**Outstanding Paper Award**</span>
-<!-- (**Outstanding Paper Award**) -->
+<span style="color:red">**[Outstanding Paper Award](https://icml.cc/virtual/2022/awards_detail)**</span>
 
-<b>[An Information Fusion Approach to Learning with Instance-Dependent Label Noise](??)
+<b>[An Information Fusion Approach to Learning with Instance-Dependent Label Noise](https://openreview.net/forum?id=ecH2FKaARUp)
 </b><br><b>Zhimeng Jiang</b>, Kaixiong Zhou, Zirui Liu, Li Li, Rui Chen, Soo-Hyun Choi, and Xia Hu.  <br>
 International Conference on Learning Representations (**ICLR**), 2022
 
-<b>[Generalized Demographic Parity for Group Fairness](??)
+<b>[Generalized Demographic Parity for Group Fairness](https://openreview.net/forum?id=YigKlMJwjye)
 </b><br><b>Zhimeng Jiang</b>, Xiaotian Han, Chao Fan, Fan Yang, Ali Mostafavi, and Xia Hu. <br> 
 International Conference on Learning Representations (**ICLR**), 2022
 
-<b>[Geometric Graph Representation Learning via Maximizing Rate Reduction](??)
+<b>[Geometric Graph Representation Learning via Maximizing Rate Reduction](https://arxiv.org/abs/2202.06241)
 </b><br>Xiaotian Han, <b>Zhimeng Jiang</b>, Ninghao Liu, Qingquan Song, Jundong Li, and Xia Hu. <br>
 The Web Conference (formerly **WWW**), 2022.
 
 <b>[BED: A Real-Time Object Detection System for Edge Devices.](https://arxiv.org/abs/2202.07503)
 </b><br>Guanchu Wang\*, Zaid Pervaiz Bhat\*, <b>Zhimeng Jiang\*</b>, Yi-Wei Chen\*, Daochen Zha\*, Alfredo Costilla Reyes*, Afshin Niktash, Gorkem Ulkar, Erman Okman, Xia Hu. <br>
 ACM International Conference on Information and Knowledge Management (CIKM), 2022 (demo). <br>
-<span style="color:red">**Best Demo Paper Award**</span>
-<!-- (**Best Demo Paper Award**) -->
+<span style="color:red">**[Best Demo Paper Award](https://www.cikm2022.org/best-paper)**</span>
 
-## Under review/ On-Going
+
+<!-- ## Under review/ On-Going
 
 <!-- <b>[FMP: Toward Fair Graph Message Passing against Topology Bias](https://arxiv.org/abs/2202.04187)
 </b><br><b>Zhimeng Jiang</b>, Xiaotian Han, Chao Fan, Zirui Liu, Zou Na, Ali Mostafavi and Xia Hu. -->
 
-<b>[Fair Graph Message Passing with Transparency.](??)
+<!-- <b>[Fair Graph Message Passing with Transparency.](??)
 </b><br><b>Zhimeng Jiang</b>, Xiaotian Han, Chao Fan, Zirui Liu, Na Zou, Ali Mostafavi, Xia Hu <br>
 Under review, 2022
 
@@ -85,7 +84,7 @@ Under review, 2022
 
 <b>[Towards Generating Adversarial Examples on Mixed-type Data.](??)
 </b><br>Han Xu, Menghai Pan, <b>Zhimeng Jiang</b>, Huiyuan Chen, Xiaoting Li, Jiliang Tang, Mahashweta Das, Hao Yang. <br>
-Under review, 2022
+Under review, 2022 -->
 
 <!-- <b>[Towards Mitigating Dimensional Collapse of Representations in Collaborative Filtering.](??)
 </b><br>Huiyuan Chen, Mahashweta Das, Vivian Lai, <b>Zhimeng Jiang</b>, Hongye Jin, Xia Hu, Chin-Chia Michael Yeh, Yan Zheng, Hao Yang. <br>
@@ -93,15 +92,15 @@ Under review, 2022
 
 <b>[Probabilistic Masked Attention Networks for Next-item Recommendation.](??)
 </b><br>Huiyuan Chen, Kaixiong Zhou, Xiaoting Li, Menghai Pan, <b>Zhimeng Jiang</b>, Michael Yeh, Yan Zheng, Xia Hu, Hao Yang. <br>
-Under review, 2022 -->
+Under review, 2022
 
-<b>[Fair Contrastive Learning by Clamped Mutual Information Maximization.](??)
+<!-- <b>[Fair Contrastive Learning by Clamped Mutual Information Maximization.](??)
 </b><br>Qizhang Feng, <b>Zhimeng Jiang</b>, Na Zou, Xia Hu. <br>
 Under review, 2022
 
 <b>[RANG: Trading Randomness for Scalable and Efficient Graph Neural Networks Training.](??)
 </b><br>Zirui Liu, Kaixiong Zhou, <b>Zhimeng Jiang</b>, Li Li, Rui Chen, Soo-Hyun Choi, Xia Hu. <br>
-Under review, 2022
+Under review, 2022 -->
 
 ## Paper related to Optical Wireless Communication
 <b>[On the Achievable Rate and Capacity of a Sample-Based Practical Photon-Counting Receiver](https://ieeexplore.ieee.org/abstract/document/9452170)
