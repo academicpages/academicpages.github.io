@@ -17,6 +17,9 @@ Email: zhimengj at tamu.edu. Here is my [CV](http://zhimengj0326.github.io/files
 
 News
 =====
+
+<div class="sidebar">
+
 **Jan. 2023:** One paper Hierarchy-Aware Multi-Hop Question Answering is accepted by WWW 2023.
 
 **Jan. 2023:** One paper on Fair Graph Representations is accepted by ICLR 2023 (Spotlight).
@@ -56,5 +59,11 @@ News
 **Jan. 2022:** Our paper on Geometric Graph Representation Learning is accepted by WWW 2022!
 
 **May. 2020:** Thrilled to start my summer internship at Samsung Research America Ads AI team, supervised by [Dr. Li Li](https://scholar.google.com/citations?user=FPcI7HkAAAAJ&hl=en) and [Dr. Rui Chen](https://scholar.google.com/citations?user=ngVttWUAAAAJ&hl=en).
+
+<!-- ## My Sidebar Title
+
+Here's some content for my sidebar. -->
+
+</div>
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=276bba&w=300&t=n&d=_AahTWe7r3JGq_cYfRXPi0HQTKOD3NUb8lqBF0iSBCg&co=ffffff&ct=120808'></script>
