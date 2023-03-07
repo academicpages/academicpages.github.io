@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Header number 1
+About Me
 ======
 
-test
+Studying Human-Centered Artificial Intelligence at the Technical University of Denmark.
 
 Second one
 ======
