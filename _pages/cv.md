@@ -8,13 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 *Communication Engineering, Elite Class, Beijing University of Posts and Telecommunications
 *E-Mail: lizeju@bupt.edu.cn ; lizeju0727@gmail.com
 
 ## Education
 
-* Junior Beijing University of Posts and Telecommunications(BUPT)
-2020.09- Now Communication Engineering, Elite Class
+- 2020.09- Now Junior Beijing University of Posts and Telecommunications(BUPT)
+  - Communication Engineering, Elite Class
 
 ## Internships
 
