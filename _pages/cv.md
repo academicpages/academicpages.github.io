@@ -43,6 +43,7 @@ redirect_from:
 - The 3rd prize of Young Goose Program Innovation and Entrepreneurship Competition Final
 
 - Excellence Award of Internet plus Innovation and Entrepreneurship Competition in Beijing
+
 <!-- - 2022年美国大学生数学建模竞赛                             M奖
 - 全国软件和信息技术专业人才大赛蓝桥杯python程序设计大学A组  一等奖
 - 第三十三届北京市大学生数学竞赛                           二等奖
