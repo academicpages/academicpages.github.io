@@ -5,7 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-github: [metadata]
 
 # Site Settings
 locale                   : "en-US"
@@ -83,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Wonhee Cho"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD candidate in Seoul National University"
   location         : "Seoul, Korea"
   employer         :
