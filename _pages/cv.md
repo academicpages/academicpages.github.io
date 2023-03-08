@@ -22,7 +22,7 @@ redirect_from:
 - 2021.06-2022.12 Intelligent System Research Group in BUPT
   - Interests: Data mining and Knowledge graph (Mentor: Chunhong Zhang )
 
-- 2021.10-Now National Engineering Research Center of Mobile Network Security in BUPT
+- 2022.05-Now National Engineering Research Center of Mobile Network Security in BUPT
   - Interest: Multimodal and Semantic communication (Mentor: Prof. Guoshun Nan)
 
 
