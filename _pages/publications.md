@@ -59,10 +59,12 @@ Journal of Mathematical Cryptography, 2019.
 
 
 
-## Preprints
+## Manuscripts
 
-
-Submitted
 
 1. [CCK23] "Improved Universal Thresholdizer from Threshold Fully Homomorphic Encryption."
 Jung Hee Cheon, **Wonhee Cho**, and Jiseung Kim
+
+1. [CCHK21] "Efficient Homomorphic Max Algorithm for
+Multivariables."
+Jung Hee Cheon, **Wonhee Cho**, Seungwan Hong, and Chaewon Kim
