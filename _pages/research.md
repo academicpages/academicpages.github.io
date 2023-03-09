@@ -15,8 +15,9 @@ title: ""
 
 # Working Papers
 
-* “Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption” (Job Market Paper) [Paper PDF](/files/pdf/Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption.pdf), [Long Slides](/files/pdf/jmp_slides_l.pdf), [Short Slides](/files/pdf/jmp_slides_s.pdf)
-* “The Role of Experience in Learning for Index Insurance Products: Evidence from Rural Kenya”, Revised & Resubmitted, *Journal of Economic Behavior and Organization*. [Contact for latest version](mailto:aranya.chakraborty@mail.mcgill.ca)
+* “Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption” (Job Market Paper), October 2022. [Paper PDF](/files/pdf/Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption.pdf), [Long Slides](/files/pdf/jmp_slides_l.pdf), [Short Slides](/files/pdf/jmp_slides_s.pdf)
+* “The Role of Experience in Learning for Index Insurance Products: Evidence from Rural Kenya”, March 2023. Revised & Resubmitted to the *Journal of Economic Behavior and Organization*. [Available Upon Request] 
+<!-- * [Contact for latest version](mailto:aranya.chakraborty@mail.mcgill.ca) -->
 <!-- * [Paper PDF](/files/pdf/The Role of Experience in Learning for Index Insurance.pdf) -->
 
 # Work in Progress
@@ -32,6 +33,6 @@ title: ""
 
 # Other Papers
 
-* “Industrial Performance in West Bengal: Analysis of Technical Efficiency with ASI Data” (with [Panchanan Das](http://www.econcaluniv.ac.in/FacultyProfile.aspx?FI=13) and Swayambhu Mukherjee), 2016 
+* “Industrial Performance in West Bengal: Analysis of Technical Efficiency with ASI Data” (with [Panchanan Das](http://www.econcaluniv.ac.in/FacultyProfile.aspx?FI=13) and Swayambhu Mukherjee), 2016. [Available Upon Request]  
 <!-- * [Paper PDF](/files/pdf/Industrial Performance in West Bengal.pdf) -->
 
