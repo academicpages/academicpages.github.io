@@ -15,7 +15,7 @@ My name is Z. Sun, a final year PhD candidate at UCL. I am lucky to be supervise
 
 
 ## Research Interest
-In general, I am very interested in __computational statistics__ and __machine learning__. I am also very interested in applications of statistics and machine learning.
+In general, I am very interested in __computational statistics__ and __machine learning__. I have been working on Stein's method, kernel methods, control variates and meta-learning. 
 
 
 ## Academic Activities
