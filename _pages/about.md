@@ -25,7 +25,7 @@ __EDUCATION__
 __WORKING PAPERS__
 ---
 
-- <a href="https://www.sciencedirect.com/science/article/pii/S0927538X23000495" target="_blank">Dividend Taxes, Corporate Choice, and Investment: Evidence from 2015 Tax Cut in South Korea</a> (with Saeyeul Park) \[Accepted at the _Pacific-Basin Finance Journal_\]
+- <a href="https://doi.org/10.1016/j.pacfin.2023.101983" target="_blank">Dividend Taxes, Corporate Choice, and Investment: Evidence from 2015 Tax Cut in South Korea</a> (with Saeyeul Park) \[Forthcoming at the _Pacific-Basin Finance Journal_\]
 - Pre-IPO Market Trading and IPO Performance (with Jiyoon Lee and Hyun-Han Shin)
 
 __RESEARCH EXPERIENCE__
