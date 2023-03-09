@@ -26,8 +26,8 @@ In general, I am very interested in __computational statistics__ and __machine l
 
 
 ## Publication
-* __Sun, Z.__, Oates, C. J. & Briol, F-X. (2023). Meta-learning control variates: variance reduction with limited data. _[(pre-print)](arXiv:2303.04756)_. (Preprint) (Code)
-*   __Sun, Z.__, Barp, A., Briol, F.-X.(2021). Vector-Valued Control Variates _[(pre-print)](https://arxiv.org/abs/2109.08944)_.(ASA SBSS Best Student Paper Award)
+* __Sun, Z.__, Oates, C. J. & Briol, F-X. (2023). Meta-learning control variates: variance reduction with limited data. arXiv:2303.04756. _[(pre-print)](https://arxiv.org/abs/2303.04756)_.
+*   __Sun, Z.__, Barp, A., Briol, F.-X.(2021). Vector-valued control variates. arXiv:2109.08944. _[(pre-print)](https://arxiv.org/abs/2109.08944)_.(ASA SBSS Best Student Paper Award)
 *   __Sun, Z.__, Wu, J., Li, X., Yang, W., Xue, J-H.(2021). Amortized Bayesian Prototype Meta-learning: A new probabilistic meta-learning approach to few-shot image classification. _In Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (AISTATS)_, PMLR.
 *   Li, X.\*, Wu, J.\*, __Sun, Z.\*__, Ma, Z., Cao, J., Xue, J-H.(2020). Bi-Similarity Network for Fine-grained Few-shot Image Classification. _IEEE Transactions on Image Processing_.
 *   Li, X.\*, __Sun, Z.\*__, Xue, J-H., Ma, Z. (2020). A Concise Review of Recent Few-shot Meta-learning Methods. _Neurocomputing_.
