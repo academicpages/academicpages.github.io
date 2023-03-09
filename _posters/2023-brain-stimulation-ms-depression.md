@@ -5,4 +5,4 @@ collection: posters
 ---
 Download poster [here](/files/brainstim-2023-TMS-Targets-for-MS-Depression-Precomputed-Connectome-poster.pdf)
 
-![Brain Stimulation Poster 2023 - TMS targets for multiple sclerosis related depression derived using a precomputed functional connectome](/images/brainstim-2023.png)
+[![ANPA Poster 2023 - TMS targets for multiple sclerosis related depression derived using a precomputed functional connectome](/images/brainstim-2023.png)](/files/brain-stimulation-2023-TMS-Targets-for-MS-Depression-Precomputed-Connectome-poster.pdf)

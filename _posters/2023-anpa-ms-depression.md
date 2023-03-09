@@ -5,4 +5,4 @@ collection: posters
 ---
 Download poster [here](/files/anpa-2023-TMS-Targets-for-MS-Depression-Precomputed-Connectome-poster.pdf)
 
-![ANPA Poster 2023 - TMS targets for multiple sclerosis related depression derived using a precomputed functional connectome](/images/anpa-2023.png)
+[![ANPA Poster 2023 - TMS targets for multiple sclerosis related depression derived using a precomputed functional connectome](/images/anpa-2023.png)](/files/anpa-2023-TMS-Targets-for-MS-Depression-Precomputed-Connectome-poster.pdf)
