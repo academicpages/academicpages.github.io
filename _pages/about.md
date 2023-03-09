@@ -20,6 +20,7 @@ I'm a Junior student at Communication Engineering Elite Class in Beijing Univers
 Here is my latest [curriculum vitae](https://staymylove.github.io/cv/).
 
 # News
+- \[2023.02\] I join in Graph dAta Mining and MAchine learning Lab ([GAMMA Lab](https://mp.weixin.qq.com/s/c6mlST78VOPkmlstKANHcQ)) as a research intern.
 - \[2023.02\] I submit our paper about "knowledge graph construction for Electronic Information" to "ICALT 2023"(IEEE ICALT conference is ranked as the 2nd by saliency in Educational Technology area). Thanks for my co-authors.
 - \[2023.01\] I fall in love with my wonderful girlfriend.
 - \[2023.01\] Our work on "robust and safety about semantic communication" is accepted by "ICC 2023"(IEEE ICC is one of two IEEE Communications Society’s flagship conferences). Thanks for my co-authors in BUPT.
