@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Angadh"
-  avatar           : "/assets/imgs/MyPhoto.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/imgs/Memoji.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Space, Robotics, and AI."
   location         : "London, UK"
   email            :
