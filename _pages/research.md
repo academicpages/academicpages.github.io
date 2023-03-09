@@ -33,6 +33,6 @@ title: ""
 
 # Other Papers
 
-* “Industrial Performance in West Bengal: Analysis of Technical Efficiency with ASI Data” (with [Panchanan Das](http://www.econcaluniv.ac.in/FacultyProfile.aspx?FI=13) and Swayambhu Mukherjee), 2016. [Available Upon Request]  
+* “Industrial Performance in West Bengal: Analysis of Technical Efficiency with ASI Data” (with [Panchanan Das](http://www.econcaluniv.ac.in/FacultyProfile.aspx?FI=13) and Swayambhu Mukherjee), August 2016. [Available Upon Request]  
 <!-- * [Paper PDF](/files/pdf/Industrial Performance in West Bengal.pdf) -->
 
