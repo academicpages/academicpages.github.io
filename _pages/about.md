@@ -16,4 +16,4 @@ I'm a PhD student advised by [Aman Yadav](https://www.amanyadav.org/) and a memb
 {: .notice--info}
 🎉 Our paper *“These Two Worlds Are Antithetical”: Epistemic Tensions in 
 Integrating Computational Thinking in K12 Humanities and Arts* was accepted to
-[ICLS 2023](https://www.isls.org/event/isls-annual-meeting-2023/) (Feb 28, 2023)
+[ICLS 2023](https://www.isls.org/event/isls-annual-meeting-2023/) (Feb 28, 2023) [(pre-print PDF available here)](/files/Epistemic%20Tensions%20ISLS%20Short%20Paper.pdf)
