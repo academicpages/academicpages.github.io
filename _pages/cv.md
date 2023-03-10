@@ -60,7 +60,7 @@ redirect_from:
   - Duty: Mainly responsible for algorithm
 
 
-- The learning assistant ofn based on deep learning
+- The learning assistant "byr" based on deep learning
   - Abstract: A software with the main functions of exercise recommendation system, personnel activity question-answering system, course knowedge retrieval system, mathematical formula recognition and recording the results in the back-end and database.
   - Duty: Mainly responsible for algorithm and the backend by django 
 
