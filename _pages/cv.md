@@ -7,4 +7,6 @@ redirect_from:
   - /resume
 ---
 
-You can download a PDF of my most recent CV [here](https://www.dropbox.com/s/0u7xxahkwxmuag6/cv_tuncel_may2022.pdf?dl=0).
+<iframe src="/files/CV_Tuncel_March2023.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+
+You can download a PDF copy of my most recent CV [here](/files/CV_Tuncel_March2023.pdf).
