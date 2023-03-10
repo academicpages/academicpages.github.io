@@ -1,5 +1,5 @@
 ---
-layout = archive
+layout: archive
 title: "Book"
 permalink: /book/
 author_profile: true
