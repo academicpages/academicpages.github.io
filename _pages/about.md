@@ -20,7 +20,7 @@ I'm a Junior student at Communication Engineering Elite Class in Beijing Univers
 Here is my latest [curriculum vitae](https://staymylove.github.io/cv/).
 
 # News
-- \[2023.03\] I join in Graph Data Mining and MAchine learning Lab ([GAMMA Lab](https://mp.weixin.qq.com/s/c6mlST78VOPkmlstKANHcQ)) as a research intern.
+- \[2023.03\] I join in Graph Data Mining and Machine Learning Lab ([GAMMA Lab](https://mp.weixin.qq.com/s/c6mlST78VOPkmlstKANHcQ)) as a research intern.
 - \[2023.02\] I submit our paper about "knowledge graph construction for Electronic Information" to "ICALT 2023"(IEEE ICALT conference is ranked as the 2nd by saliency in Educational Technology area). Thanks for my co-authors.
 - \[2023.01\] I fall in love with my wonderful girlfriend.
 - \[2023.01\] Our work on "robust and safety about semantic communication" is accepted by "ICC 2023"(IEEE ICC is one of two IEEE Communications Society’s flagship conferences). Thanks for my co-authors in BUPT.
@@ -30,6 +30,6 @@ Here is my latest [curriculum vitae](https://staymylove.github.io/cv/).
 - \[2021.05\] I join in the Intelligent System Research Group in BUPT.
 
 # Publications
-- **Zeju Li**, Xinghan Liu, Guoshun Nan*, Jinfei Zhou, Xinchen Lyu, Qimei Cui, Xiaofeng Tao. Boosting Physical Layer Black-Box Attacks with Semantic Adversaries in Semantic Communications. *Proceedings of the International Communication Conference.* **(ICC 2023)(CCF-C)**
+- **Zeju Li**, Xinghan Liu, Guoshun Nan* , Jinfei Zhou, Xinchen Lyu, Qimei Cui, Xiaofeng Tao. Boosting Physical Layer Black-Box Attacks with Semantic Adversaries in Semantic Communications. *Proceedings of the International Communication Conference.* **(ICC 2023)(CCF-C)**
 - Xinghan Liu, Guoshun Nan*, Qimei Cui, **Zeju Li**, Peiyuan Liu, Zebin Xing, Hanqing Mu, Yuanwei Liu, Xiaofeng Tao. SemGuard: A Unified Framework for Semantic Protection in Deep Learning-based Semantic Communication Systems. **(Communciation Magazine)(SCI Q1)**
-- **Zeju Li**, Jinfei Zhou, Guoshun Nan*, Zhichun Li, Qimei Cui, Xiaofeng Tao. SemBAT: Physical Layer Black-box Adversarial Attacks for Deep Learning-based Semantic Communication Systems. *2022 IEEE 96th Vehicular Technology Conference.* **(VTC 2022-fall)(Core B)**
+- **Zeju Li**, Jinfei Zhou, Guoshun Nan* , Zhichun Li, Qimei Cui, Xiaofeng Tao. SemBAT: Physical Layer Black-box Adversarial Attacks for Deep Learning-based Semantic Communication Systems. *2022 IEEE 96th Vehicular Technology Conference.* **(VTC 2022-fall)(Core B)**
