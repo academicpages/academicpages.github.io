@@ -5,7 +5,7 @@ permalink: /book/
 author_profile: true
 ---
 
-*(with [Carrie Manning](https://scholar.google.com.tr/citations?user=1-6khNgAAAAJ&hl=en) and [Ian Smith](https://www.stmarytx.edu/academics/faculty/ian-smith/), Routledge, 2023)*
+*(with [Carrie Manning](https://scholar.google.com.tr/citations?user=1-6khNgAAAAJ&hl=en) and [Ian Smith](https://www.stmarytx.edu/academics/faculty/ian-smith/), Routledge, June 2023)*
 
 Pre-order this book online at [Routledge](https://www.routledge.com/Parties-Politics-Peace-Electoral-Inclusion-as-Peacebuilding/Manning-Smith-Gurlek/p/book/9781032318936).
 
