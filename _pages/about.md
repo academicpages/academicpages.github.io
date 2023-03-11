@@ -12,7 +12,7 @@ redirect_from:
 
 # News
 
-- Mar 2023: Invited speaker for the Outstanding Ph.D. Seminar organised by A*STAR Center for Frontier AI Research (CFAR).
+- Mar 2023: Invited speaker for the seminar organised by A*STAR Center for Frontier AI Research (CFAR).
 
 - Oct 2022: I get NeurIPS 2022 Scholar Award.
 
