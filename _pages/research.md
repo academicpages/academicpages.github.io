@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* <b><ins>06.2020 - present:</ins></b> Undergraduate Research Assistant in KUIS AI Lab, Koç University
+* <b><ins>06.2020 - 09.2022:</ins></b> Undergraduate Research Assistant in KUIS AI Lab, Koç University
   * Research on learned image/video compression. Work accepted in [ICIP 2022](https://2022.ieeeicip.org/).
   * Worked on image and video compression using recurrent and fully convolutional variational auto-encoders. My projects included our work on the design of a novel bidirectional frame compression network and several implementation of recent works in the literature using PyTorch machine learning framework.
   * Supervisor: [Professor A. Murat Tekalp](http://home.ku.edu.tr/~mtekalp/)
