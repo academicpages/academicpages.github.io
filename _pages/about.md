@@ -10,9 +10,9 @@ redirect_from:
 
 
 
-I’m a PhD Student (3rd year) at UCSD Computer Science with a specialization in Data Mining, advised by <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a> and <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a>. I am grateful to Qualcomm and Halıcıoğlu Data Science Institute for their fellowship to support my research.
+I’m a PhD Student (4th year) at UCSD Computer Science with a specialization in Data Mining, advised by <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a> and <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a>. I am grateful to Qualcomm and Halıcıoğlu Data Science Institute for their fellowship to support my research.
 
-I SPENT several wonderful summers working as an Applied Scientist II Intern at AWS AI, a Data Science Intern at Bell Labs, and a Software Development Engineer Intern at AWS Redshift. 
+I spent several wonderful summers working as an Applied Scientist II Intern at AWS AI, a Data Science Intern at Bell Labs, and a Software Development Engineer Intern at AWS Redshift. 
 
 
 <h2>Research Interests</h2>
@@ -28,6 +28,8 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 
 <h1>Latest News</h1>
+
+[March 2023] Presented my Thesis Proposal Exam on <a href="https://drive.google.com/file/d/1wz4U6_EXLPbZDnclUo8h7iOt1S-GpvM8/view?usp=sharing" target="_blank">Data-Efficient Learning for Sensory Time Series</a>. Advanced to <em>Ph.D.</em> candidacy! 
 
 [February 2023] <a href="https://drive.google.com/file/d/1ajK8JvE9WoyWriN-rorjqFyAvqUoW4fg/view?usp=sharing" target="_blank">Towards Diverse and Coherent Augmentation for Time-Series Forecasting</a> has been accepted to <b>ICASSP</b> '23.
 
@@ -357,7 +359,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <p>
   <b>PrimeNet: Pre-training for Irregular Multivariate Time-Series</b>
   <br><b>Ranak Roy Chowdhury</b>, Jiacheng Li, Xiyuan Zhang, Dezhi Hong, Rajesh Gupta, Jingbo Shang
-  <br><b>AAAI</b> Conference on Artificial Intelligence, 2023. [Travel Grant]
+  <br>AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2023. [Travel Grant]
   <br><a href="https://drive.google.com/file/d/1FSy9F_qO-eaNhKYWbCwpBCogC1ZNo8nd/view?usp=sharing" target="_blank">paper</a> | 
   <a href="https://github.com/ranakroychowdhury/PrimeNet" target="_blank">code</a> | 
   <a href="https://drive.google.com/file/d/1zfo4bVPOAfDXrehizr9-oLbRhd07qw2B/view?usp=sharing" target="_blank">poster</a> |         
@@ -367,14 +369,14 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <p>
   <b>Towards Diverse and Coherent Augmentation for Time-Series Forecasting</b>
   <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Jingbo Shang, Rajesh Gupta, Dezhi Hong
-  <br><b>ICASSP</b> International Conference on Acoustics, Speech, and Signal Processing, 2023.
+  <br>International Conference on Acoustics, Speech, and Signal Processing (<b>ICASSP</b>), 2023.
   <br><a href="https://drive.google.com/file/d/1ajK8JvE9WoyWriN-rorjqFyAvqUoW4fg/view?usp=sharing" target="_blank">paper</a> 
   </p>
 	
   <p>
   <b>TARNet: Task-Aware Reconstruction for Time-Series Transformer</b>
   <br><b>Ranak Roy Chowdhury</b>, Xiyuan Zhang, Jingbo Shang, Rajesh K. Gupta, Dezhi Hong
-  <br><b>SIGKDD</b> Conference On Knowledge Discovery and Data Mining, 2022. [Travel Grant]
+  <br>SIGKDD Conference On Knowledge Discovery and Data Mining (<b>SIGKDD</b>), 2022. [Travel Grant]
   <br><a href="https://dl.acm.org/doi/10.1145/3534678.3539329" target="_blank">paper</a> | 
   <a href="https://github.com/ranakroychowdhury/TARNet" target="_blank">code</a> | 
   <a href="https://drive.google.com/file/d/13XrHTsPf6bhXiue0h1SunMhjYCtYRtLI/view?usp=sharing" target="_blank">poster</a> |         
@@ -384,7 +386,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <p>
   <b>ESC-GAN: Extending Spatial Coverage of Physical Sensors</b>
   <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Jingbo Shang, Rajesh K. Gupta, Dezhi Hong
-  <br><b>WSDM</b> International Conference on Web Search and Data Mining, 2022.
+  <br>International Conference on Web Search and Data Mining (<b>WSDM</b>), 2022.
   <br><a href="https://dl.acm.org/doi/abs/10.1145/3488560.3498461" target="_blank">paper</a> | 
   <a href="https://github.com/xiyuanzh/ESC-GAN" target="_blank">code</a> | 
   <a href="https://drive.google.com/file/d/1M37W1tHasqmc5pyuc6I7pdBzPVwzWOvW/view?usp=sharing" target="_blank">poster</a> |         
@@ -394,7 +396,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <p>
   <b>UniTS: Short-Time Fourier Inspired Neural Networks for Sensory Time Series Classification</b>
   <br>Shuheng Li, <b>Ranak Roy Chowdhury</b>, Jingbo Shang, Rajesh K. Gupta, Dezhi Hong
-  <br><b>SenSys</b> Conference on Embedded Networked Sensor Systems, 2021.
+  <br>Conference on Embedded Networked Sensor Systems (<b>SenSys</b>), 2021.
   <br><a href="https://dl.acm.org/doi/abs/10.1145/3485730.3485942" target="_blank">paper</a> | 
   <a href="https://github.com/Shuheng-Li/UniTS-Sensory-Time-Series-Classification" target="_blank">code</a> |        
   <a href="https://drive.google.com/file/d/1MCIS23MGLbOy0Wlhu2dZy_9U7FExa_9m/view?usp=sharing" target="_blank">presentation</a>
@@ -403,7 +405,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <p>
   <b>Real-Time Principal Component Analysis</b>
   <br><b>Ranak Roy Chowdhury</b>, Muhammad Abdullah Adnan, Rajesh K. Gupta
-  <br><b>TDS</b> Transactions on Data Science, Volume 1, Issue 2.
+  <br>Transactions on Data Science (<b>TDS</b>), Volume 1, Issue 2.
   <br><a href="https://dl.acm.org/doi/10.1145/3374750" target="_blank">paper</a> |
   <a href="https://drive.google.com/file/d/1ZQQJShafy8qpFDXrQLBY6ZYQwKFDjG_M/view?usp=sharing" target="_blank">poster</a> |        
   <a href="https://drive.google.com/file/d/1gOqrRIKggmPr0Uz3UTrXs9j_3KQhE5QA/view?usp=sharing" target="_blank">presentation</a>
@@ -412,7 +414,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <p>
   <b>Real-Time Principal Component Analysis</b>
   <br><b>Ranak Roy Chowdhury</b>, Muhammad Abdullah Adnan, Rajesh K. Gupta
-  <br><b>ICDE</b> International Conference on Data Engineering, 2019.
+  <br>International Conference on Data Engineering (<b>ICDE</b>), 2019.
   <br><a href="https://ieeexplore.ieee.org/document/8731514" target="_blank">paper</a> | 
   <a href="https://drive.google.com/file/d/1ZQQJShafy8qpFDXrQLBY6ZYQwKFDjG_M/view?usp=sharing" target="_blank">poster</a> |        
   <a href="https://drive.google.com/file/d/1gOqrRIKggmPr0Uz3UTrXs9j_3KQhE5QA/view?usp=sharing" target="_blank">presentation</a>
