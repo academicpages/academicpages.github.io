@@ -11,9 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Universidad Autonoma de Madrid
+Master's degree, Image Processing and Computer Vision · (2022 - 2024)
+
+* Pázmány Péter Catholic University - Faculty of Information
+Technology and Bionics
+Master's degree, Computer Science and Engineering Specialization in Image
+Processing and Computer Vision · (2022 - 2024)
+
+* Corporate Finance Institute® (CFI)
+International Certification Program, ALX Financial Analyst
+programme · (September 2022 - January 2023)
+
+* Bahir Dar Institute of Technology, Bahir Dar University
+Master of Science - MS, Communication System Engineering · (November
+2020 - August 2022)
+
+* Bahir Dar Institute of Technology, Bahir Dar University
+Bachelor of Science - BS, Electrical, Electronics and Communications
+Engineering · (2013 - 2018)
 
 Work experience
 ======
