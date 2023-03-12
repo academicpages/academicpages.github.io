@@ -21,9 +21,9 @@ redirect_from:
 
 - 2021.06-2022.12 Intelligent System Research Group in BUPT
   - Interests: Data mining and Knowledge graph (Mentor: Chunhong Zhang)
-  - Duty:I constructed more than one hundred knowledge graphs of Electronic Information automatically by NER and RegEx;
-Our team built a web system that can mark examination papers automatically by OCR and vue, and we applied a patent for it; 
-Our team studied KG fusion and entity alignment, and we propose an automated knowledge extraction, data cleaning and graph fusion framework for heterogeneous learning resources. Our paper was submitted to ``ICALT2023".
+  - Duty:- I constructed more than one hundred knowledge graphs of Electronic Information automatically by NER and RegEx;
+        - Our team built a web system that can mark examination papers automatically by OCR and vue, and we applied a patent for it; 
+        - Our team studied KG fusion and entity alignment, and we propose an automated knowledge extraction, data cleaning and graph fusion framework for heterogeneous learning resources. Our paper was submitted to ``ICALT2023".
 
 - 2022.05-Now National Engineering Research Center of Mobile Network Security in BUPT
   - Interest: Multimodal and Semantic communication (Mentor: Prof. Guoshun Nan)
