@@ -27,7 +27,7 @@ redirect_from:
 
 - 2022.05-Now National Engineering Research Center of Mobile Network Security in BUPT
   - Interest: Multimodal and Semantic communication (Mentor: Prof. Guoshun Nan)
-  - Duty:I do research in multimodal information fusion and semantic communication based on deep learning.
+  - Duty:-I do research in multimodal information fusion and semantic communication based on deep learning.
 We propose a practical physical layer black-box attack method to destroy the robustness of  deep learning-based semantic communication systems, where the adversaries are imperceptible to humans. Our work has been accepted by ICC2023.
 And then, we propose SemGuard: A Unified Framework for Semantic Protection in Deep Learning-based Semantic Communication Systems. Our work was submitted to Communication Magazine.
 
