@@ -13,7 +13,7 @@ PLOS ONE<br />
 **Enhancing Deep Learning-Based 3-Lead ECG Classification With Heartbeat Counting and Demographic Data Integration**<br />
 **Khiem H. Le**, Hieu H. Pham, Thao BT. Nguyen, Tu A. Nguyen, Tien N. Thanh, Cuong D. Do<br />
 IECBES 2022<br />
-[Paper](https://drive.google.com/file/d/1PquoZUWbL5qUaomMRwgfSMWkSgA355mB/view?usp=share_link) &nbsp; &nbsp; [Code](https://github.com/lhkhiem28/X3ECGpp)
+[Paper](https://arxiv.org/abs/2208.07088) &nbsp; &nbsp; [Code](https://github.com/lhkhiem28/X3ECGpp)
 
 **LightX3ECG: A Lightweight and Explainable Deep Learning System for 3-Lead Electrocardiogram Classification**<br />
 **Khiem H. Le**, Hieu H. Pham, Thao BT. Nguyen, Tu A. Nguyen, Tien N. Thanh, Cuong D. Do<br />
