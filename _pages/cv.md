@@ -20,10 +20,16 @@ redirect_from:
 ## Internships
 
 - 2021.06-2022.12 Intelligent System Research Group in BUPT
-  - Interests: Data mining and Knowledge graph (Mentor: Chunhong Zhang )
+  - Interests: Data mining and Knowledge graph (Mentor: Chunhong Zhang)
+  - Duty:I constructed more than one hundred knowledge graphs of Electronic Information automatically by NER and RegEx;
+Our team built a web system that can mark examination papers automatically by OCR and vue, and we applied a patent for it; 
+Our team studied KG fusion and entity alignment, and we propose an automated knowledge extraction, data cleaning and graph fusion framework for heterogeneous learning resources. Our paper was submitted to ``ICALT2023".
 
 - 2022.05-Now National Engineering Research Center of Mobile Network Security in BUPT
   - Interest: Multimodal and Semantic communication (Mentor: Prof. Guoshun Nan)
+  - Duty:I do research in multimodal information fusion and semantic communication based on deep learning.
+We propose a practical physical layer black-box attack method to destroy the robustness of  deep learning-based semantic communication systems, where the adversaries are imperceptible to humans. Our work has been accepted by ICC2023.
+And then, we propose SemGuard: A Unified Framework for Semantic Protection in Deep Learning-based Semantic Communication Systems. Our work was submitted to Communication Magazine.
 
 
 ## Awards
