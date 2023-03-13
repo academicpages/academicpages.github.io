@@ -85,7 +85,7 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 * [Feb. 2021] Got one paper accepted at WWW 2021. 
 * [Aug. 2020] Got one paper accepted at EMNLP 2020. 
 </font> -->
-* [Jan. 2023] [A survey of parameter-efficient methds](https://arxiv.org/abs/2203.06904) was accepted by [Natural Machine Intelligence](https://www.nature.com/natmachintell/).
+* [Jan. 2023] [Parameter-efficient Fine-tuning of Large-scale Pre-trained Language Models](https://www.nature.com/articles/s42256-023-00626-4) was accepted by [Natural Machine Intelligence](https://www.nature.com/natmachintell/).
 * [Sep. 2022] Invited Talk (on-line) @ [SAP - AI Research](https://www.sap.com/products/artificial-intelligence.html), Headquarter, Germany
 * [Jul. 2022] I will attend [NAACL 2022](https://2022.naacl.org/) in person to orally present our works and look forward to meeting new/old friends in Seattle.
 * [Apr. 2022] [Transferability of Prompt Tuning](https://aclanthology.org/2022.naacl-main.290/) and [Knowledge Inheritance](https://aclanthology.org/2022.naacl-main.288/) are accepted to [NAACL 2022](https://2022.naacl.org/).
@@ -97,9 +97,9 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 
 ## Publications
 
-* <b>Delta Tuning: A Comprehensive Study of Parameter Efficient Methods for Pre-trained Language Models</b>\
+* <b>Parameter-efficient Fine-tuning of Large-scale Pre-trained Language Models</b>\
 *Ning Ding, Yujia Qin, Guang Yang, Fuchao Wei, Zonghan Yang, <b>Yusheng Su</b>, Shengding Hu, Yulin Chen, Chi-Min Chan, Weize Chen, Jing Yi, Weilin Zhao, Xiaozhi Wang, Zhiyuan Liu, Hai-Tao Zheng, Jianfei Chen, Yang Liu, Jie Tang, Juanzi Li, Maosong Sun.*\
-Nature Machine Intelligence 2023. [[pdf]](https://arxiv.org/abs/2203.06904) [[code]](https://github.com/thunlp/OpenDelta)
+Nature Machine Intelligence 2023. [[pdf]](https://www.nature.com/articles/s42256-023-00626-4) [[code]](https://github.com/thunlp/OpenDelta)
 
 * <b>On Transferability of Prompt Tuning for Natural Language Processing</b>\
 *<b>Yusheng Su</b>, Xiaozhi Wang, Yujia Qin, Chi-Min Chan, Yankai Lin, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou*\
