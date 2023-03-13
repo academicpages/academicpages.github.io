@@ -19,6 +19,8 @@ My research interests are broadly defined at the intersection of Machine Learnin
 
 
 # News
+- **March, 2023:** Joined the [NeurIPS 2023](https://neurips.cc/Conferences/2023/Committees) and IEEE BigData 2023 Organizing Committees as a Workshop co-Chair and a Vice Program Chair, respectively.
+- **March, 2023:** Invited talk at [UMass CIIR Talk Series](http://ciir.cs.umass.edu/talks).
 - **Feb, 2023:** [Team PLANBot](https://vtx.vt.edu/articles/2023/02/-virginia-tech-team-selected-for-the-alexa-prize-taskbot-challen.html) is selected as one of the 10 university teams for the the Alexa Prize TaskBot Challenge 2! We are grateful for the funding and support from Amazon Alexa AI.       
 - **Feb, 2023:** Exciting times to do research in AI/ML for Healthcare (ML4H). Read our PLOS Digital Health editorial on what ChatGPT passing the USMLE exam tells us about medical education [here](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000205). 
 - **Feb, 2023:** Serving as Area Chair (AC) for ACL'23 and MICCAI'23, and as Medical Computer Vision Section Editor for the PLOS Digital Health Journal.
