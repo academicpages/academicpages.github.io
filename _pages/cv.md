@@ -37,6 +37,8 @@ And then, we propose SemGuard: A Unified Framework for Semantic Protection in De
 
   - Duty: I study GNN and graph data mining.
 I do research and coding for papers in the CCF-A conference of GNN model.
+
+
 ## Awards
 
 - The M Prize of American University Mathematical Modeling Competition in 2022
