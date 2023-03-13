@@ -67,6 +67,7 @@ Listas de Exercícios
 * [Lista 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/CN_lista01.pdf)
 * [Lista 02](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/lista02.pdf)
 * [Lista 03](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/lista03.md)
+* [Lista 04] Fazer os exercícios 1-13 do Capítulo 5 do livro da Ruggiero
 
 
 Softwares para Download
