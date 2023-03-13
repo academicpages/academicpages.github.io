@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=9Ynh9AsAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : https://dl.jbnu.ac.kr/eds/detail/edsker_edsker.000004996460
   bitbucket        :
   codepen          :
   dribbble         :
@@ -115,7 +115,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  Thesis           : https://dl.jbnu.ac.kr/eds/detail/edsker_edsker.000004996460
 
 
 # Reading Files
