@@ -31,7 +31,7 @@ Relevant Work experience
   * Applied Research in Acoustics
   * Used deep learning to investigate effects of using tidal forcing in HYCOM simulation
 
-
+<!---
 Experience with
 ===============
 * larger than memory datasets
@@ -43,7 +43,7 @@ Experience with
 * machine learning / deep learning
 * digital signal and image processing
 * probability and random processes
-
+--->
 
 Publications
 ======
