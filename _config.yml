@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "furkan"
 title_separator          : "-"
 name                     : &name "Furkan"
-description              : &description "Jr. Machine Learning Engineer"
+description              : &description "Machine Learning Engineer"
 url                      : https://furkan.github.io # the base hostname & protocol for your site e.g. "https://academicpages.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "furkan/furkan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Furkan Aldemir"
   avatar           : "furkan_square.jpg"
-  bio              : "Jr. Machine Learning / Backend Engineer"
+  bio              : "Machine Learning / Backend Engineer"
   location         : "Ankara, TR"
   employer         :
   pubmed           :
