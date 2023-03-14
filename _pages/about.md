@@ -23,6 +23,6 @@ Prior to my doctoral studies, I worked as a research assistant at the [Universit
 
 <h2>More</h2>
 
-- Hailing from [Rajbiraj](https://en.wikipedia.org/wiki/Rajbiraj), Nepal, I find immense pleasure in delving into the pages of books, indulging in movies, socializing with like-minded individuals, and embarking on refreshing bicycle rides.
+- Hailing from Nepal, I find immense pleasure in delving into the pages of books, indulging in movies, socializing with like-minded individuals, and embarking on refreshing bicycle rides.
 
 - As a coordinator and event manager for International Founders at [Grundungswerft](https://gruendungswerft.com/en/locations/rostock/), I have the privilege of helping ambitious individuals from diverse cultural backgrounds kickstart their entrepreneurial dreams in Mecklenburg Vorpommern, Germany.
