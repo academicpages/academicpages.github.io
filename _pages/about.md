@@ -20,7 +20,7 @@ redirect_from:
 
 **The price of unfairness in linear bandits with biased feedback** (2022), S. Gaucher, A. Carpentier, and C. Giraud. NeurIPS 2022. [Preprint on Hall](https://hal.archives-ouvertes.fr/hal-03611628) [Short Presentation]([https://slideslive.com/s/solenne-gaucher-43495])
 
-**Hierarchical transfer learning with applications for electricity load forecasting** (2021), A. Antoniadis, S. Gaucher, and Y. Goude. [Preprint on HAL](https://hal.archives-ouvertes.fr/hal-03429702)
+**Hierarchical transfer learning with applications for electricity load forecasting** (2021), A. Antoniadis, S. Gaucher, and Y. Goude.To appear in International Journal of Forecasting. [Preprint on HAL](https://hal.archives-ouvertes.fr/hal-03429702)
 
 **Maximum Likelihood Estimation of Sparse Networks with Missing Observations**, S. Gaucher, O. Klopp (2021). [Journal of Statistical Planning and Inference](https://www.sciencedirect.com/science/article/abs/pii/S0378375821000422), [Preprint on HAL](https://hal.archives-ouvertes.fr/hal-02050003)
 
