@@ -12,7 +12,7 @@ Hi there! I am a PhD student in Computer Science at the University of Cambridge,
 Research interests: 2D Computer Graphics, Computer Vision
 
 ## News
-
+* As one of the organisers, thrilled to announce the ninth Oxbridge Women in Computer Science Conference, which will be held on the 29th of April 2023 in Cambridge, UK. 👩‍💻👨‍💻 For details and registration, please check out [website](https://www.oxbridge2023.com/).
 * Completed my internship as an Applied Scientist Intern at Amazon's computer vision research team in Berlin🥳 During my internship, I worked on makeup transfer with generative models.
 * Presented our poster entitled “Patch-adaptive Transformation Blending for One-Shot Photo Retouching” at [ICCP 2022](https://iccp2022.iccp-conference.org/), which was held in Caltech, Pasadena, August 1-3, 2022😊
 * Gave a lecture on Convolutional Neural Networks at Women@CL GWML Introduction to Machine Learning Workshop, 19 June 2022🤓 
