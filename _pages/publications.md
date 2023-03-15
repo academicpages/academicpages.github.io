@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-# *Books*
+***Books***
 
 Warren, M. & **Smith, C.** (2021) *Bayesian GLMs in R for Ecology*. Amazon Publishing, Seattle.
 
@@ -15,7 +15,7 @@ Warren, M. & **Smith, C.** (2021) *Bayesian GLMs in R for Ecology*. Amazon Publi
 Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. Blackwell-Wiley, Oxford.
 
 
-# *Papers*
+***Papers***
 
 **Smith, C.**, Spence, R., Bailey, R.,  & Reichard, M. (2023) Male position in a sexual network reflects mating role and body size. *Journal of Vertebrate Biology* in press
 
@@ -47,57 +47,57 @@ Clutterbuck, B., Yarnell, R., Wilmie, R. & **Smith, C.** (2020) Vehicular tracks
 
 Reeves, J., **Smith, C.**, Dierenfeld, E.S. & Whitehouse-Tedd, K. (2020) Captivity-induced metabolic programming in an endangered felid: implications for species conservation. *Scientific Reports* 10, 3630.
 
-Majecka, K., Pasiek, M., Pietraszewski, D. & **Smith, C.** (2019) Behavioural outcomes of housing for domestic dog puppies (Canis lupus familiaris). Applied *Animal Behaviour Science* 222, 104899.
+Majecka, K., Pasiek, M., Pietraszewski, D. & **Smith, C.** (2019) Behavioural outcomes of housing for domestic dog puppies (*Canis lupus familiaris*). Applied *Animal Behaviour Science* 222, 104899.
 
-García, D., Smith, C., Machín, E., Loureiro, M. & Reichard, M. (2019) Changing patterns of growth in a changing planet: how a shift in phenology affects critical life-history traits in annual fishes. Freshwater Biology 64, 1848-1858.
+García, D., **Smith, C.**, Machín, E., Loureiro, M. & Reichard, M. (2019) Changing patterns of growth in a changing planet: how a shift in phenology affects critical life-history traits in annual fishes. Freshwater Biology 64, 1848-1858.
 
-Skúlason, S., Smith, C. et al. (2019) A way forward with eco-evo-devo: an extended theory of resource polymorphism with postglacial fishes as model systems. Biological Reviews 94, 1786-1808.
+Skúlason, S., **Smith, C.** et al. (2019) A way forward with eco-evo-devo: an extended theory of resource polymorphism with postglacial fishes as model systems. Biological Reviews 94, 1786-1808.
 
-Pyrzanowski, K., Zięba, G., Dukowska, M., Smith, C. and Przybylski, M. (2019) The role of detritivory as a feeding tactic in a harsh environment–a case study of weatherfish (Misgurnus fossilis). Scientific Reports 9, 8467.
+Pyrzanowski, K., Zięba, G., Dukowska, M., **Smith, C.** & Przybylski, M. (2019) The role of detritivory as a feeding tactic in a harsh environment–a case study of weatherfish (Misgurnus fossilis). Scientific Reports 9, 8467.
 
-Grabowska, J., Zięba, G., Przybylski, M. & Smith, C. (2019) The role of intraspecific competition in the dispersal of an invasive fish. Freshwater Biology 64, 933-941.
+Grabowska, J., Zięba, G., Przybylski, M. & **Smith, C.** (2019) The role of intraspecific competition in the dispersal of an invasive fish. Freshwater Biology 64, 933-941.
 
-Bartáková, V., Bryja, J., Šanda, R., Bektas, Y., Stefanov, T., Choleva, L., Smith, C. & Reichard, M. (2019) High cryptic diversity of bitterling fish in the southern West Palearctic. Molecular Phylogenetics and Evolution 133, 1-11.
+Bartáková, V., Bryja, J., Šanda, R., Bektas, Y., Stefanov, T., Choleva, L., **Smith, C.** & Reichard, M. (2019) High cryptic diversity of bitterling fish in the southern West Palearctic. Molecular Phylogenetics and Evolution 133, 1-11.
 
-Polačik, M., Reichard, M., Smith, C. and Blažek, R. (2019) Parasitic cuckoo catfish exploit parental responses to stray offspring. Philosophical Transactions of the Royal Society B, 374, 20180412.
+Polačik, M., Reichard, M., **Smith, C.** and Blažek, R. (2019) Parasitic cuckoo catfish exploit parental responses to stray offspring. Philosophical Transactions of the Royal Society B, 374, 20180412.
 
-Methling, C., Douda, K., Liu, H., Rouchet, R., Bartáková, V., Yu, D., Smith, C. & Reichard, M. (2018) Energetic costs in the relationship between bitterling and mussels in East Asia. Biological Journal of the Linnean Society 125, 750-759.
+Methling, C., Douda, K., Liu, H., Rouchet, R., Bartáková, V., Yu, D., **Smith, C.** & Reichard, M. (2018) Energetic costs in the relationship between bitterling and mussels in East Asia. Biological Journal of the Linnean Society 125, 750-759.
 
-Smith, C., Spence, R. & Reichard, M. (2018) Sperm is a sexual ornament in rose bitterling. Journal of Evolutionary Biology 31, 1610-1622.
+**Smith, C.**, Spence, R. & Reichard, M. (2018) Sperm is a sexual ornament in rose bitterling. Journal of Evolutionary Biology 31, 1610-1622.
 
-Smith, C. (2018) North Uist - the ‘Scottish Galápagos’: a hotspot of stickleback biodiversity. Hebridean Naturalist 18, 30-35.
+**Smith, C.** (2018) North Uist - the ‘Scottish Galápagos’: a hotspot of stickleback biodiversity. Hebridean Naturalist 18, 30-35.
 
-Konečný, A., Popa, O., Bartáková, V., Douda, K., Bryja, J., Smith, C., Popa, L.O. & Reichard, M. (2018) Modelling the invasion history of Sinanodonta woodiana in Europe: tracking the routes of a sedentary aquatic invader with mobile parasitic larvae. Evolutionary Applications 11, 1975-1989.
+Konečný, A., Popa, O., Bartáková, V., Douda, K., Bryja, J., **Smith, C.**, Popa, L.O. & Reichard, M. (2018) Modelling the invasion history of Sinanodonta woodiana in Europe: tracking the routes of a sedentary aquatic invader with mobile parasitic larvae. Evolutionary Applications 11, 1975-1989.
 
-Blažek, R., Polačik, M., Smith, C., Honza, M., Meyer, A. & Reichard, M. (2018) Success of cuckoo catfish brood parasitism reflects coevolutionary history and individual experience of their cichlid hosts. Science Advances 4, eaar4380.
+Blažek, R., Polačik, M., **Smith, C.**, Honza, M., Meyer, A. & Reichard, M. (2018) Success of cuckoo catfish brood parasitism reflects coevolutionary history and individual experience of their cichlid hosts. Science Advances 4, eaar4380.
 
-Zięba, G., Dukowska, M., Przybylski, M., Fox, M.G. & Smith, C. (2018) Parental care compromises feeding in the pumpkinseed fish (Lepomis gibbosus). The Science of Nature 105, 26.
+Zięba, G., Dukowska, M., Przybylski, M., Fox, M.G. & **Smith, C.** (2018) Parental care compromises feeding in the pumpkinseed fish (Lepomis gibbosus). The Science of Nature 105, 26.
 
-Zięba, G., Smith, C., Fox, M.G., Yavno, S., Záhorská, E., Przybylski, M., Masson, G., Cucherousset, J., Verreycken, H., van Kleef, H. & Copp, G.H. (2018) Red operculum spots, body size, maturation and evidence for a satellite male phenotype in non-native European populations of pumpkinseed Lepomis gibbosus. Ecology of Freshwater Fish 27, 874-883.
+Zięba, G., **Smith, C.**, Fox, M.G., Yavno, S., Záhorská, E., Przybylski, M., Masson, G., Cucherousset, J., Verreycken, H., van Kleef, H. & Copp, G.H. (2018) Red operculum spots, body size, maturation and evidence for a satellite male phenotype in non-native European populations of pumpkinseed Lepomis gibbosus. Ecology of Freshwater Fish 27, 874-883.
 
-Redston, S., de Botte, S. & Smith C. (2018) Resolving embarrassing medical conditions with online health information. International Journal of Medical Informatics 114, 101-105.
+Redston, S., de Botte, S. & **Smith, C.** (2018) Resolving embarrassing medical conditions with online health information. International Journal of Medical Informatics 114, 101-105.
 
-Douda, K., Liu, H., Yu, D., Rouchet, R., Liu, F., Tang, Q.-Y., Methling, C., Smith, C. & Reichard, M. (2017) The role of local adaptation in shaping fish-mussel coevolution. Freshwater Biology 62, 1858-1868.
+Douda, K., Liu, H., Yu, D., Rouchet, R., Liu, F., Tang, Q.-Y., Methling, C., **Smith, C.** & Reichard, M. (2017) The role of local adaptation in shaping fish-mussel coevolution. Freshwater Biology 62, 1858-1868.
 
-Rouchet, R., Smith, C., Liu, H., Methling, C., Douda, K., Yu, D., Tang, Q. & Reichard, M. (2017) Avoidance of host resistance in the oviposition-site preferences of rose bitterling. Evolutionary Ecology 31, 769-783.
+Rouchet, R., **Smith, C.**, Liu, H., Methling, C., Douda, K., Yu, D., Tang, Q. & Reichard, M. (2017) Avoidance of host resistance in the oviposition-site preferences of rose bitterling. Evolutionary Ecology 31, 769-783.
 
-Phillips, A, Reichard, M & Smith, C (2017) Sex differences in the responses to oviposition site cues by a fish revealed by tests with an artificial host. Animal Behaviour 126, 187-194. 
+Phillips, A, Reichard, M & **Smith, C.** (2017) Sex differences in the responses to oviposition site cues by a fish revealed by tests with an artificial host. Animal Behaviour 126, 187-194. 
 
-Smith C. (2017) Bayesian inference supports the host selection hypothesis in explaining adaptive host specificity by European bitterling. Oecologia 183, 379-389.
+**Smith, C.** (2017) Bayesian inference supports the host selection hypothesis in explaining adaptive host specificity by European bitterling. Oecologia 183, 379-389.
 
-Polačik, M., Smith, C. & Reichard, M. (2017) Maternal effects modulate adaptive bet-hedging of embryo development in an annual killifish. Journal of Evolutionary Biology 30, 738-749.
+Polačik, M., **Smith, C.** & Reichard, M. (2017) Maternal effects modulate adaptive bet-hedging of embryo development in an annual killifish. Journal of Evolutionary Biology 30, 738-749.
 
-Smith C. & Wootton, R.J. (2016) The remarkable reproductive diversity of teleost fishes. Fish & Fisheries 17, 1208-1215.
+**Smith, C.** & Wootton, R.J. (2016) The remarkable reproductive diversity of teleost fishes. Fish & Fisheries 17, 1208-1215.
 
-Klepaker, T., Østbye, K., Spence, R., Warren, M., Przybylski, M. & Smith C. (2016) Selective agents in the adaptive radiation of Hebridean sticklebacks. Evolutionary Ecology Research 17, 243-262.
+Klepaker, T., Østbye, K., Spence, R., Warren, M., Przybylski, M. & **Smith, C.** (2016) Selective agents in the adaptive radiation of Hebridean sticklebacks. Evolutionary Ecology Research 17, 243-262.
 
-Reichard, M., Douda, K., Przybyłski, M., Popa, O.P, Karbanová, E., Matasová, K., Rylková, K., Polačik, M., Blažek, R. & Smith, C. (2015) Population-specific responses to an invasive species. Proceedings of the Royal Society B: Biological Sciences 282, 20151063.
+Reichard, M., Douda, K., Przybyłski, M., Popa, O.P, Karbanová, E., Matasová, K., Rylková, K., Polačik, M., Blažek, R. & **Smith, C.** (2015) Population-specific responses to an invasive species. Proceedings of the Royal Society B: Biological Sciences 282, 20151063.
 
-Smith, C., Phillips, A. & Reichard, M. (2015) Cognitive ability is heritable and predicts the success of an alternative mating tactic. Proceedings of the Royal Society B: Biological Sciences 282, 20151046.
+**Smith, C.**, Phillips, A. & Reichard, M. (2015) Cognitive ability is heritable and predicts the success of an alternative mating tactic. Proceedings of the Royal Society B: Biological Sciences 282, 20151046.
 
-Smith, G., Smith, C., Kenny, J.G., Chaudhuri, R.R. & Ritchie, M.G. (2015) Genome-wide differential methylation between marine and freshwater ecotypes of the threespine stickleback (Gasterosteus aculeatus). Molecular Biology & Evolution 32, 888-895.
+Smith, G., **Smith, C.**, Kenny, J.G., Chaudhuri, R.R. & Ritchie, M.G. (2015) Genome-wide differential methylation between marine and freshwater ecotypes of the threespine stickleback (Gasterosteus aculeatus). Molecular Biology & Evolution 32, 888-895.
 
-Warren, M., Dunbar, M. & Smith, C. (2015) River flow as a determinant of salmonid abundance and distribution: implications for river restoration and management. Environmental Biology of Fishes 98, 1695-1717.
+Warren, M., Dunbar, M. & **Smith, C.** (2015) River flow as a determinant of salmonid abundance and distribution: implications for river restoration and management. Environmental Biology of Fishes 98, 1695-1717.
 
 Chang, C.-H., Li, F., Shao, K.-T., Lin, Y.-S., Morosawa, T., Kim, S., Koo, H., Kim, W., Lee, J.-S., He, S., Smith, C., Reichard, M., Miya, M., Chen, W.-J., Mayden, R.L. (2014) Phylogenetic relationships of Acheilognathidae (Cypriniformes: Cyprinoidea) as revealed from evidence of both nuclear and mitochondrial gene sequence variation: Evidence for necessary taxonomic revision in the family and the identification of cryptic species. Molecular Phylogenetics & Evolution 81, 182-194.
 
