@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. Marine Biology, 1988
+* M.Sc. Fisheries Biology, 1989
+* Ph.D Fish Behaviou, 1993
 
 Work experience
 ======
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Editor-in-Chief Journal of Vertebrate Biology
