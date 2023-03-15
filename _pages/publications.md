@@ -4,50 +4,50 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-# **Books**
+# *Books*
 
-Warren, M. & Smith, C. (2021) *Bayesian GLMs in R for Ecology*. Amazon Publishing, Seattle.
+Warren, M. & **Smith, C.** (2021) *Bayesian GLMs in R for Ecology*. Amazon Publishing, Seattle.
 
-Smith, C., Uzal, A. & Warren, M. (2020) *Statistics in R for Biodiversity Conservation*. Amazon Publishing, Seattle.
+**Smith, C.**, Uzal, A. & Warren, M. (2020) *Statistics in R for Biodiversity Conservation*. Amazon Publishing, Seattle.
 
-Smith, C. & Warren, M. (2019) *GLMs in R for Ecology*. Amazon Publishing, Seattle.
+**Smith, C.** & Warren, M. (2019) *GLMs in R for Ecology*. Amazon Publishing, Seattle.
 
-Wootton, R.J. & Smith, C. (2015) *Reproductive Biology of Teleost Fishes*. Blackwell-Wiley, Oxford.
+Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. Blackwell-Wiley, Oxford.
 
 
-# **Papers**
+# *Papers*
 
-Smith, C., Spence, R., Bailey, R.,  & Reichard, M. (2023) Male position in a sexual network reflects mating role and body size. *Journal of Vertebrate Biology* in press
+**Smith, C.**, Spence, R., Bailey, R.,  & Reichard, M. (2023) Male position in a sexual network reflects mating role and body size. *Journal of Vertebrate Biology* in press
 
-Chen, F., Wang, Y., He, J., Smith, C., Xue, G., Zhao, Y., Peng, Y., Zhang, J., Liu, J., Chen, J. & Xie, P. (2023) Alternative signal pathways underly fertilization and egg activation in a fish with contrasting modes of spawning. *BMC Genomics* in press
+Chen, F., Wang, Y., He, J., **Smith, C.**, Xue, G., Zhao, Y., Peng, Y., Zhang, J., Liu, J., Chen, J. & Xie, P. (2023) Alternative signal pathways underly fertilization and egg activation in a fish with contrasting modes of spawning. *BMC Genomics* in press
 
-Li, F., Smith, C.,  Kawamura, K., Vetesnik, L., Arai, Y. & Reichard, M. (2022) Unusual egg shape diversity in bitterling fishes. Ecology 103, e3816.
+Li, F., **Smith, C.**,  Kawamura, K., Vetesnik, L., Arai, Y. & Reichard, M. (2022) Unusual egg shape diversity in bitterling fishes. Ecology 103, e3816.
 Smith, C., Zięba, G., Spence, R. & Przybylski, M. (2022) Spatial heterogeneity in pH, body size and habitat size generates ecological opportunity in an evolutionary radiation. *Journal of Fish Biology* 101, 1501-1508.
 
-Kawamura, K., Miyake, T. & Smith, C. (2022) Population genetic structure and demographic history of *Rhodeus atremius suigensis*, an endangered bitterling in Japan. *Conservation Genetics* 23, 885-901.
+Kawamura, K., Miyake, T. & **Smith, C.** (2022) Population genetic structure and demographic history of *Rhodeus atremius suigensis*, an endangered bitterling in Japan. *Conservation Genetics* 23, 885-901.
 
-Chen, F., Wang, Y., He, J., Chen, L., Xue, G., Zhao, Y., Peng, Y., Smith, C., Zhang, J., Chen, J. & Xie, P. (2022) Molecular mechanisms of spawning habits for the adaptive radiation of endemic East Asian cyprinid fishes. Research 2022, 9827986.
+Chen, F., Wang, Y., He, J., Chen, L., Xue, G., Zhao, Y., Peng, Y., **Smith, C.**, Zhang, J., Chen, J. & Xie, P. (2022) Molecular mechanisms of spawning habits for the adaptive radiation of endemic East Asian cyprinid fishes. *Research* 2022, 9827986.
 
-Kok, P.J.R., Broholm, T.L., van Doorn, L. & Smith, C. (2022) Tourism may threaten wildlife disease refugia. Conservation Letters 15, e12902.
-Chen, F., Smith, C., Wang, Y., He, J., Xia, W.,  Xue, G.,  Chen, J., Xie, P. (2021) The evolution of alternative buoyancy mechanisms in freshwater fish eggs. Frontiers in Ecology & Evolution 645.
+Kok, P.J.R., Broholm, T.L., van Doorn, L. & **Smith, C.** (2022) Tourism may threaten wildlife disease refugia. *Conservation Letters* 15, e12902.
+Chen, F., Smith, C., Wang, Y., He, J., Xia, W.,  Xue, G.,  Chen, J., Xie, P. (2021) The evolution of alternative buoyancy mechanisms in freshwater fish eggs. *Frontiers in Ecology & Evolution* 645.
 
-Miyake, T., Nakajima, J., Umenuma, K., Onikura, N., Ueda, T., Smith, C. & Kawamura, K. (2021) Genetic diversification of the Kanehira bitterling Acheilognathus rhombeus inferred from mitochondrial DNA, with comments on the phylogenetic relationship with its sister species Acheilognathus barbatulus. Journal of Fish Biology 99, 1677-1695.
+Miyake, T., Nakajima, J., Umenuma, K., Onikura, N., Ueda, T., **Smith, C.** & Kawamura, K. (2021) Genetic diversification of the Kanehira bitterling *Acheilognathus rhombeus* inferred from mitochondrial DNA, with comments on the phylogenetic relationship with its sister species *Acheilognathus barbatulus*. *Journal of Fish Biology* 99, 1677-1695.
 
-Smith, C., Zięba, G. & Przybylski, M. (2021) Elevated temperatures drive the evolution of armour loss in the threespine stickleback Gasterosteus aculeatus. Functional Ecology 35, 1735-1744.
+**Smith, C.**, Zięba, G. & Przybylski, M. (2021) Elevated temperatures drive the evolution of armour loss in the threespine stickleback *Gasterosteus aculeatus*. *Functional Ecology* 35, 1735-1744.
 
-Smith, C. (2021) A warming Southern Ocean may compromise Antarctic blue whale foetus growth. Journal of Vertebrate Biology 70, 20114.
+**Smith, C.** (2021) A warming Southern Ocean may compromise Antarctic blue whale foetus growth. *Journal of Vertebrate Biology* 70, 20114.
 
-Kornijów, R., Dukowska, M., Leszczyńska, J., Smith, C., Jeppesen, E., Hansson, L.-A. , Ketola, M., Irvine, K., Nõges, T., Sahuquillo, M., Miracle, M.R., Gross, E., Kairesalo,T., van Donk, E., de Eyto, E., García-Criado, F., Grzybkowska, M. & Moss, B. (2021) Distribution patterns of macroinvertebrate communities associated with reeds across Europe. Science of the Total Environment 760, 144117.
+Kornijów, R., Dukowska, M., Leszczyńska, J., **Smith, C.**, Jeppesen, E., Hansson, L.-A. , Ketola, M., Irvine, K., Nõges, T., Sahuquillo, M., Miracle, M.R., Gross, E., Kairesalo,T., van Donk, E., de Eyto, E., García-Criado, F., Grzybkowska, M. & Moss, B. (2021) Distribution patterns of macroinvertebrate communities associated with reeds across Europe. *Science of the Total Environment* 760, 144117.
 
-Clutterbuck, B., Yarnell, R., Wilmie, R. & Smith, C. (2020) Vehicular tracks and the influence of land use and habitat protection in the British uplands. Science of the Total Environment 737, 140243.
+Clutterbuck, B., Yarnell, R., Wilmie, R. & **Smith, C.** (2020) Vehicular tracks and the influence of land use and habitat protection in the British uplands. *Science of the Total Environment* 737, 140243.
 
-Smith, C., Zięba, G., Spence, R. & Przybylski, M. (2020) New finding of melanic three-spined sticklebacks Gasterosteus aculeatus in the Scottish Hebrides. Journal of Vertebrate Biology 69, 1-7.
+**Smith, C.**, Zięba, G., Spence, R. & Przybylski, M. (2020) New finding of melanic three-spined sticklebacks *Gasterosteus aculeatus* in the Scottish Hebrides. *Journal of Vertebrate Biology* 69, 1-7.
 
-Smith, C., Zięba, G., Spence, R., Klepaker, T. & Przybylski, M. (2020) Three-spined stickleback armour predicted by body size, minimum winter temperature and pH. Journal of Zoology 311, 13-22.
+**Smith, C.**, Zięba, G., Spence, R., Klepaker, T. & Przybylski, M. (2020) Three-spined stickleback armour predicted by body size, minimum winter temperature and pH. *Journal of Zoology* 311, 13-22.
 
-Reeves, J., Smith, C., Dierenfeld, E.S. & Whitehouse-Tedd, K. (2020) Captivity-induced metabolic programming in an endangered felid: implications for species conservation. Scientific Reports 10, 3630.
+Reeves, J., **Smith, C.**, Dierenfeld, E.S. & Whitehouse-Tedd, K. (2020) Captivity-induced metabolic programming in an endangered felid: implications for species conservation. *Scientific Reports* 10, 3630.
 
-Majecka, K., Pasiek, M., Pietraszewski, D. & Smith, C. (2019) Behavioural outcomes of housing for domestic dog puppies (Canis lupus familiaris). Applied Animal Behaviour Science 222, 104899.
+Majecka, K., Pasiek, M., Pietraszewski, D. & **Smith, C.** (2019) Behavioural outcomes of housing for domestic dog puppies (Canis lupus familiaris). Applied *Animal Behaviour Science* 222, 104899.
 
 García, D., Smith, C., Machín, E., Loureiro, M. & Reichard, M. (2019) Changing patterns of growth in a changing planet: how a shift in phenology affects critical life-history traits in annual fishes. Freshwater Biology 64, 1848-1858.
 
