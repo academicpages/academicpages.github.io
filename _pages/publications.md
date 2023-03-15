@@ -4,27 +4,27 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-#Books
+# **Books**
 
-Warren, M. & Smith, C. (2021) Bayesian GLMs in R for Ecology. Amazon Publishing, Seattle.
+Warren, M. & Smith, C. (2021) *Bayesian GLMs in R for Ecology*. Amazon Publishing, Seattle.
 
-Smith, C., Uzal, A. & Warren, M. (2020) Statistics in R for Biodiversity Conservation. Amazon Publishing, Seattle.
+Smith, C., Uzal, A. & Warren, M. (2020) *Statistics in R for Biodiversity Conservation*. Amazon Publishing, Seattle.
 
-Smith, C. & Warren, M. (2019) GLMs in R for Ecology. Amazon Publishing, Seattle.
+Smith, C. & Warren, M. (2019) *GLMs in R for Ecology*. Amazon Publishing, Seattle.
 
-Wootton, R.J. & Smith, C. (2015) Reproductive Biology of Teleost Fishes. Blackwell-Wiley, Oxford.
+Wootton, R.J. & Smith, C. (2015) *Reproductive Biology of Teleost Fishes*. Blackwell-Wiley, Oxford.
 
 
-#Papers
+# **Papers**
 
-Smith, C., Spence, R., Bailey, R.,  & Reichard, M. (2023) Male position in a sexual network reflects mating role and body size. Journal of Vertebrate Biology
+Smith, C., Spence, R., Bailey, R.,  & Reichard, M. (2023) Male position in a sexual network reflects mating role and body size. *Journal of Vertebrate Biology* in press
 
-Chen, F., Wang, Y., He, J., Smith, C., Xue, G., Zhao, Y., Peng, Y., Zhang, J., Liu, J., Chen, J. & Xie, P. (2023) Alternative signal pathways underly fertilization and egg activation in a fish with contrasting modes of spawning. BMC Genomics 
+Chen, F., Wang, Y., He, J., Smith, C., Xue, G., Zhao, Y., Peng, Y., Zhang, J., Liu, J., Chen, J. & Xie, P. (2023) Alternative signal pathways underly fertilization and egg activation in a fish with contrasting modes of spawning. *BMC Genomics* in press
 
 Li, F., Smith, C.,  Kawamura, K., Vetesnik, L., Arai, Y. & Reichard, M. (2022) Unusual egg shape diversity in bitterling fishes. Ecology 103, e3816.
-Smith, C., Zięba, G., Spence, R. & Przybylski, M. (2022) Spatial heterogeneity in pH, body size and habitat size generates ecological opportunity in an evolutionary radiation. Journal of Fish Biology 101, 1501-1508.
+Smith, C., Zięba, G., Spence, R. & Przybylski, M. (2022) Spatial heterogeneity in pH, body size and habitat size generates ecological opportunity in an evolutionary radiation. *Journal of Fish Biology* 101, 1501-1508.
 
-Kawamura, K., Miyake, T. & Smith, C. (2022) Population genetic structure and demographic history of Rhodeus atremius suigensis, an endangered bitterling in Japan. Conservation Genetics 23, 885-901.
+Kawamura, K., Miyake, T. & Smith, C. (2022) Population genetic structure and demographic history of *Rhodeus atremius suigensis*, an endangered bitterling in Japan. *Conservation Genetics* 23, 885-901.
 
 Chen, F., Wang, Y., He, J., Chen, L., Xue, G., Zhao, Y., Peng, Y., Smith, C., Zhang, J., Chen, J. & Xie, P. (2022) Molecular mechanisms of spawning habits for the adaptive radiation of endemic East Asian cyprinid fishes. Research 2022, 9827986.
 
