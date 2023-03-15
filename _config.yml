@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Carl Smith"
   avatar           : "profile.png"
-  bio              : "Fish ecologist/statistician"
-  location         : "Location"
-  employer         :
+  bio              : "Fish biologist and statistician"
+  location         : #"Location"
+  employer         : "University of Łódź, Poland"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=-f04HtAAAAAJ&hl=en"
   email            :
@@ -177,16 +177,16 @@ kramdown:
 collections:
   teaching:
     output: false
-    permalink: /:collection/:path/
+    permalink: #/:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: false
-    permalink: /:collection/:path/
+    permalink: #/:collection/:path/
   talks:
     output: false
-    permalink: /:collection/:path/
+    permalink: #/:collection/:path/
 
 
 # Defaults
