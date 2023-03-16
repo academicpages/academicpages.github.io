@@ -53,15 +53,13 @@ function toggleBibtex(articleid) {
 <i>Advanced Engineering Informatics</i>,
 
 2022<br>
-<a href="javascript:toggleBibtex('Tao2022ADVEI')" class="textlink">[bibtex]</a>
+<a href="javascript:toggleBibtex('Tao2022ADVEI')" class="textlink"></a>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1474034622002397" class="textlink" target="_blank">[link]</a>
 </p>
-
-<div id="Tao2022ADVEI" class="bibtex noshow">
 <pre>
 @article{Tao2022ADVEI,
   title={Transformer-based hierarchical latent space VAE for interpretable remaining useful life prediction},
-  author={Tao Jing and Pai Zheng and Wong, LIqiao Xia, Tianyuan Liu},
+  author={Tao Jing and Pai Zheng and LIqiao Xia and Tianyuan Liu},
   journal={Advanced Engineering Informatics},
   year={2022},
   publisher={ELSEVIER}
@@ -71,26 +69,25 @@ function toggleBibtex(articleid) {
 
 
 
-<!-- Item: Tao2022ADVEI-->
+<!-- Item: Tao2021TII-->
 <li ><p>
-<b>Transformer-based hierarchical latent space VAE for interpretable remaining useful life prediction</b><br>
-<b>Tao Jing</b>, Pai Zheng, LIqiao Xia, Tianyuan Liu<br>
+<b>Deep Learning-Based Cloud–Edge Collaboration Framework for Remaining Useful Life Prediction of Machinery</b><br>
+<b>Tao Jing</b>, Xitian Tian, Hao Hu, Liping Ma<br>
 
-<i>Advanced Engineering Informatics</i>,
+<i>IEEE Transactions on Industrial Informatics</i>,
 
 2022<br>
-<a href="javascript:toggleBibtex('Tao2022ADVEI')" class="textlink">[bibtex]</a>
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S1474034622002397" class="textlink" target="_blank">[link]</a>
+<a href="javascript:toggleBibtex('Tao2021TII')" class="textlink"></a>
+<a href="https://ieeexplore.ieee.org/document/9664387" class="textlink" target="_blank">[link]</a>
 </p>
 
-<div id="Tao2022ADVEI" class="bibtex noshow">
 <pre>
-@article{Tao2022ADVEI,
-  title={Transformer-based hierarchical latent space VAE for interpretable remaining useful life prediction},
-  author={Tao Jing and Pai Zheng and Wong, LIqiao Xia, Tianyuan Liu},
-  journal={Advanced Engineering Informatics},
+@article{Tao2021TII,
+  title={Deep Learning-Based Cloud–Edge Collaboration Framework for Remaining Useful Life Prediction of Machinery},
+  author={Tao Jing and Xitian Tian and Hao Hu and Liping Ma},
+  journal={IEEE Transactions on Industrial Informatics},
   year={2022},
-  publisher={ELSEVIER}
+  publisher={IEEE}
 }
 </pre></div>
 </li>
