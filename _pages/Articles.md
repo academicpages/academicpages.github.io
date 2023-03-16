@@ -13,6 +13,6 @@ This page is under construction.
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.articles reversed %}
   {% include archive-single.html %}
 {% endfor %}
