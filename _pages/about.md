@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Blain. I’m a Ph.D. Student in Public Policy and Management at the John Glenn College of Public Affairs at The Ohio State University. My research interests are in economic resilience, energy policy, and sustainability. In broad terms, I research how businesses, communities, and systems operationalize resources during unexpected shocks. I am particularly interested in the sustainable and resilient management of environmental amenities, like public parks, in cities. I currently work as a data scientist in the Enterprise Analytics Office at Nationwide Insurance.
+Hi! I'm Blain, and I am a Ph.D. Candidate in Public Policy and Management at the John Glenn College of Public Affairs at The Ohio State University. My primary research interests lie in the fields of economic resilience, energy policy, and criminal justice policy. I am dedicated to contributing to the development of innovative solutions to complex policy challenges.
 
-I was born in Hawaii, grew up in Massachusetts, and currently reside in Columbus, Ohio. I have an ScM in Biostatistics from Brown University and a BS in Economics from The Ohio State University. Outside the classroom, I enjoy cooking, fly fishing, playing golf and pickleball, and crossword puzzling. 
+Currently, I am applying my skills as a data scientist in the Enterprise Analytics Office at Nationwide Insurance, where I am involved in leveraging data-driven insights to drive strategic decision-making across the organization.
+
+Originally from Hawaii and raised in Massachusetts, I have had the privilege of living in several diverse and vibrant communities. I hold an ScM in Biostatistics from Brown University and a BS in Economics from The Ohio State University, which have provided me with a strong foundation in both quantitative analysis and policy research.
+
+When I'm away from my desk, I enjoy spending time outdoors, whether that means fly fishing, playing golf and pickleball, or simply taking a leisurely hike in a Metro Park. I am also an avid crossword puzzler and love to cook.
 
 [Click here to schedule a meeting with me.](https://outlook.office.com/bookwithme/user/199dcecab714464cb2ffcb754d11ee93@buckeyemail.osu.edu?anonymous&ep=plink)
 
