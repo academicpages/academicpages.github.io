@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-About me
 ======
 My research interests encompass healthcare machine learning systems and general artificial intelligence🧠🤖. I envision creating a learning system as efficient and effective as, or surpassing, human capabilities. During my PhD, I conducted extensive research on radiologists' eye-tracking, believing that incorporating the information found in a human expert's reasoning process is crucial for training neural networks.
 
 I am also fascinated by neuroscience, computer graphics, hardware circuit design, and internal combustion engines, I have yet to become an expert in these fields😢.
 
 I am curretnly a PhD candidate at Shanghai Jiao Tong University, supervised by [Prof. Dinggang Shen](http://idea.bme.shanghaitech.edu.cn) and [Prof. Qian Wang](https://qianwang.space). 
-Prior to this, I completed my BS degree from Northeastern University (Shenyang, China) and Chinese Academy of Sciences (Shenzhen Institute of Advanced Technology) in 2015. In my free time, I enjoy programming⌨️, running🏃, swimming🏊, weightlifting🏋️, and motorsports🏁.
+Prior to this, I completed my BS degree from Northeastern University (Shenyang, China) and Chinese Academy of Sciences (Shenzhen Institute of Advanced Technology) in 2015. In my free time, I enjoy programming⌨️ (I have ![Github stars](https://img.shields.io/github/stars/jamesqfreeman?style=social) stars on Github.🌟), running🏃, swimming🏊, weightlifting🏋️, and motorsports🏁.
 
 
 Eye-tracking with Computer Aided Diagnosis
