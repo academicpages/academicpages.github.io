@@ -7,7 +7,7 @@
 <i>Advanced Engineering Informatics</i>,
 
 2022<br>
-<a href="javascript:toggleBibtex('Tao2022ADVEI')" class="textlink">[bibtex]</a>
+<a href="javascript:toggleBibtex('Tao2022ADVEI')" class="textlink"></a>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1474034622002397" class="textlink" target="_blank">[link]</a>
 </p>
 
