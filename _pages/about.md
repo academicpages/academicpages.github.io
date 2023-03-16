@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Blain, and I am a Ph.D. Candidate in Public Policy and Management at the John Glenn College of Public Affairs at The Ohio State University. My primary research interests lie in the fields of economic resilience, energy policy, and criminal justice policy. I am dedicated to contributing to the development of innovative solutions to complex policy challenges.
+Hi! I'm Blain. I am a Ph.D. Candidate in Public Policy and Management at the John Glenn College of Public Affairs at The Ohio State University. My primary research interests lie in the fields of economic resilience, energy policy, and criminal justice policy. I am dedicated to contributing to the development of innovative solutions to complex policy challenges.
 
 Currently, I am applying my skills as a data scientist in the Enterprise Analytics Office at Nationwide Insurance, where I am involved in leveraging data-driven insights to drive strategic decision-making across the organization.
 
