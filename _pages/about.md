@@ -14,7 +14,7 @@ My research interests encompass healthcare machine learning systems and general 
 I am also fascinated by neuroscience, computer graphics, hardware circuit design, and internal combustion engines, I have yet to become an expert in these fields😢.
 
 I am curretnly a PhD candidate at Shanghai Jiao Tong University, supervised by [Prof. Dinggang Shen](http://idea.bme.shanghaitech.edu.cn) and [Prof. Qian Wang](https://qianwang.space). 
-Prior to this, I completed my BS degree from Northeastern University (Shenyang, China) and Chinese Academy of Sciences (Shenzhen Institute of Advanced Technology) in 2015. In my free time, I enjoy programming⌨️ (I have ![Github stars](https://img.shields.io/github/stars/jamesqfreeman?style=social) stars on Github.🌟), running🏃, swimming🏊, weightlifting🏋️, and motorsports🏁.
+Prior to this, I completed my BS degree from Northeastern University (Shenyang, China) and Chinese Academy of Sciences (Shenzhen Institute of Advanced Technology) in 2015. In my free time, I enjoy programming⌨️ (![Github stars](https://img.shields.io/github/stars/jamesqfreeman?style=social) 🌟), running🏃, swimming🏊, weightlifting🏋️, and motorsports🏁.
 
 
 Eye-tracking with Computer Aided Diagnosis
