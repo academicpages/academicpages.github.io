@@ -1,15 +1,24 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
+<!-- Item: Tao2022ADVEI-->
+<li ><p>
+<b>Transformer-based hierarchical latent space VAE for interpretable remaining useful life prediction</b><br>
+<b>Tao Jing</b>, Pai Zheng, LIqiao Xia, Tianyuan Liu<br>
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+<i>Advanced Engineering Informatics</i>,
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+2022<br>
+<a href="javascript:toggleBibtex('Tao2022ADVEI')" class="textlink">[bibtex]</a>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1474034622002397" class="textlink" target="_blank">[link]</a>
+</p>
+
+<div id="Tao2022ADVEI" class="bibtex noshow">
+<pre>
+@article{Tao2022ADVEI,
+  title={Transformer-based hierarchical latent space VAE for interpretable remaining useful life prediction},
+  author={Tao Jing and Pai Zheng and Wong, LIqiao Xia, Tianyuan Liu},
+  journal={Advanced Engineering Informatics},
+  year={2022},
+  publisher={ELSEVIER}
+}
+</pre></div>
+</li>
