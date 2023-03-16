@@ -42,8 +42,8 @@ function toggleBibtex(articleid) {
   }
 }
 </script>
-
-
+## Journal Publications
+<ol class="biblist">
 
 <!-- Item: Tao2022ADVEI-->
 <li ><p>
@@ -73,3 +73,37 @@ function toggleBibtex(articleid) {
 </p>
 
 </li>
+
+
+
+<!-- Item: Tao2020AMT-->
+<li ><p>
+<b>A multiple alternative processes-based cost-tolerance optimal model for aircraft assembly</b><br>
+<b>Tao Jing</b>, Xitian Tian, Xiang Liu, Hao Hu, Min Zhang, Bo Li<br>
+
+<i>The International Journal of Advanced Manufacturing Technology</i>,
+
+2020<br>
+<a href="javascript:toggleBibtex('Tao2020AMT')" class="textlink"></a>
+<a href="https://link.springer.com/article/10.1007%2Fs00170-020-05020-7" class="textlink" target="_blank">[link]</a>
+</p>
+
+</li>
+
+
+
+
+<!-- Item: Tao2020AMT-->
+<li ><p>
+<b>Monte Carlo-Adaptive differential evolution algorithm-based multi-objective optimization method for aircraft tolerance allocation</b><br>
+<b>Tao Jing</b>, Xitian Tian<br>
+
+<i>Hangkong Xuebao/Acta Aeronautica et Astronautica Sinica(航空学报)</i>,
+
+2021<br>
+<a href="javascript:toggleBibtex('Tao2020AMT')" class="textlink"></a>
+<a href="https://hkxb.buaa.edu.cn/CN/10.7527/S1000-6893.2021.25278" class="textlink" target="_blank">[link]</a>
+</p>
+
+</li>
+</ol>
