@@ -11,7 +11,8 @@ I am Xinyi Zhou, currently a Master student pursuing the degree of [Master of Sc
 Before coming to the USC, I obtained the Bachelor of Engineering in CSE at Southern University of Science and Technology([SUSTECH](https://www.sustech.edu.cn/)) advised by [Dr.Jiang Liu](https://scholar.google.com/citations?hl=en&user=NHt3fUcAAAAJ&view_op=list_works&sortby=pubdate), during which I worked as an undergraduate researcher in his lab [iMED](http://www.imed-lab.com/).
 
 # Research interests
-- Human Computer Interaction
+- Human Computer Interaction Interface Design
+- Software Engineering and Testing
 - Virtual / Augmented Reality
 
 # Recent Activities
