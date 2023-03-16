@@ -49,6 +49,7 @@ Slides das Aulas
 [Aula 06](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/aula06.pdf)
 [Aula 07](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/aula07.pdf)
 [Aula 09](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/aula09.pdf)
+[Aula 10](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/aula10.pdf)
  
 Notebooks Jupyter
 ========
@@ -56,7 +57,7 @@ Notebooks Jupyter
 * [01/02/2023](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/Calculo_Numerico_01.ipynb)
 * [08/02/2023](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/aula_julia.ipynb)
 * [08/03/2023](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/interpolacaoPoly.ipynb)
-
+* [15/03/2023](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/MMQ.ipynb)
 
 Arquivos jl (usados no laboratório)
 =========
