@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ezekiel Soremekun is a Lecturer (Asst. Prof.) of Computer Science (Software Engineering) at 
+Ezekiel Soremekun is a Lecturer (Asst. Prof.) in Computer Science (Software Engineering) at 
 [Royal Holloway, University of London (RHUL)](https://www.royalholloway.ac.uk/), UK. 
 
 
@@ -50,7 +50,7 @@ This includes SE research concerns such as **automated debugging**, **software t
 **program analysis**, and **security testing**. 
 He is interested in studying both functional properties (e.g., correctness)
 and non-functional properties (e.g., security, robustness, and fairness) of 
-software systems, including aritificial intelligence (AI) -driven systems (e.g., automated classifiers). 
+software systems, including artificial intelligence (AI) -driven systems (e.g., automated classifiers). 
 
 Ezekiel's research objective is to **apply scientific methods to validate software systems**. 
 His main research goal is to address key challenges in software validation by **developing methods and tools to support developers during software testing and debugging activities**.
