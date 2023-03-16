@@ -58,7 +58,7 @@ Work in progress
 [Urbina, Daniela R.](https://www.danielaurbina.com/), Daria Tisch: Division of Housework and Perceptions of Fairness: What Justifies Unequal Housework Arrangements?
 
 
-Tisch, Daria, [Emma Ischinsky](https://www.mpifg.de/person/114263/2721): Top wealth and its origins. An analysis of Germany’s Largest Fortunes 2019
+Tisch, Daria, [Emma Ischinsky](https://www.mpifg.de/person/114263/2721): [Top wealth and its origins](https://dariatisch.github.io/mm2019_presentation). An analysis of Germany’s Largest Fortunes 2019
 
 
 Tisch, Daria: Preservation of large fortunes over multiple generations in Germany <!--  (https://dariatisch.github.io/presentation_potsdam) -->: How do elite family networks relate to wealth preservation in Germany?
