@@ -56,15 +56,6 @@ function toggleBibtex(articleid) {
 <a href="javascript:toggleBibtex('Tao2022ADVEI')" class="textlink"></a>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1474034622002397" class="textlink" target="_blank">[link]</a>
 </p>
-<pre>
-@article{Tao2022ADVEI,
-  title={Transformer-based hierarchical latent space VAE for interpretable remaining useful life prediction},
-  author={Tao Jing and Pai Zheng and LIqiao Xia and Tianyuan Liu},
-  journal={Advanced Engineering Informatics},
-  year={2022},
-  publisher={ELSEVIER}
-}
-</pre></div>
 </li>
 
 
@@ -81,13 +72,4 @@ function toggleBibtex(articleid) {
 <a href="https://ieeexplore.ieee.org/document/9664387" class="textlink" target="_blank">[link]</a>
 </p>
 
-<pre>
-@article{Tao2021TII,
-  title={Deep Learning-Based Cloud–Edge Collaboration Framework for Remaining Useful Life Prediction of Machinery},
-  author={Tao Jing and Xitian Tian and Hao Hu and Liping Ma},
-  journal={IEEE Transactions on Industrial Informatics},
-  year={2022},
-  publisher={IEEE}
-}
-</pre></div>
 </li>
