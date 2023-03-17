@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Albert Kjøller Jacobsen / Personal Site"
+title                    : "Main page"
 title_separator          : "-"
 name                     : &name "Albert Kjøller Jacobsen"
 description              : &description "MSc. Eng. Human-Centered AI @ DTU"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Albert Kjøller Jacobsen"
-  avatar           : "profile.png"
+  avatar           : "mig.jpg" #"profile.png"
   bio              : "MSc. Eng. Human-Centered AI @ Technical University of Denmark"
   location         : "Copenhagen, Denmark"
   employer         :
