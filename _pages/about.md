@@ -13,6 +13,10 @@ My research goal involves developing natural language processing methods, includ
 
 Prior to my doctoral studies, I worked as a research assistant at the [University of Rostock](https://www.mmis.informatik.uni-rostock.de/staff/), where I delved into Neural Density Estimation for the project [NEISS](https://www.neiss.uni-rostock.de/en/). I also had the opportunity to hone my skills as a Software Engineer at [PLANET AI](https://planet-ai.de/), where I contributed to the development and testing of [Intelligent Document Analysis](https://planet-ai.de/products/ida/) software.
 
+<h2>Recent News</h2>
+
+ - I will be attending the [Oxford Machine Learning Summer School](https://www.oxfordml.school/) in July 2023! I am excited to learn from some of the best in the field and am looking forward to gaining new insights and skills in machine learning.
+
  <h2>Research</h2>
  
  - My present research is under the co-supervision of [Dr. Emma L Tonkin](https://www.bristol.ac.uk/people/person/Emma-Tonkin-47cb2fc5-62d3-4efc-9127-795bf5af66f9/) at the [University of Bristol](https://www.bristol.ac.uk/). It pertains to investigating methodologies for keyword extraction from submitted papers in the [ARDUOUS](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=169425&copyownerid=177258) workshop, along with clustering of the extracted keywords, with the primary aim of identifying research trends and their evolution over time. 
