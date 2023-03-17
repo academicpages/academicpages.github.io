@@ -1,0 +1,280 @@
+---
+layout: empty
+permalink: /cv/
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: rap-latex-cv.tex
+geometry: margin=1.25in
+
+title: "CV"
+author: Luuk Schmitz
+orcid: "orcid.org/0000-0003-0074-7051"
+jobtitle: "PhD researcher at the European University Institute"
+address: "Via dei Rocchettini 9 · I-50014 Fiesole (FI) · Italy"
+fontawesome: yes
+email: luuk.schmitz@eui.eu
+github: luukschmitz
+Twitter: "twitter.com/Luukschmitz"
+web: 'luukschmitz.com'
+updated: yes
+header_includes:
+  - \usepackage{listings}
+  - \usepackage{hyperref}
+  - \hypersetup{
+     colorlinks=false,
+     }
+  - \usepackage[hyphens]{url}
+  - \PassOptionsToPackage{hyphens}{url}\usepackage{hyperref}
+
+keywords: RMarkdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linestretch: 1.15
+linkcolor: blue
+urlcolor: blue
+---
+
+# Research interests
+
+* **Disciplinary**: Comparative & international political economy, economic sociology
+* **Theoretical**: Business power, ideational approaches
+* **Substantive**: Industrial policy, EU external policy, climate change, social construction of markets
+* **Methodological**: Social network analysis, text-as-data, expert interviewing
+
+# Academic positions and fellowships
+
+**Max Planck Institute for the Study of Societies**
+
+Visiting Researcher \hfill 2022
+ 
+**Radboud University:**
+
+Junior Lecturer in Political Science and Economics \hfill 2018-2019
+
+# Education
+
+**European University Institute:** 
+
+Doctoral candidate in Political and Social Sciences \hfill 2019-present
+
+Master of Research in Political and Social Sciences \hfill 2019-2020
+
+**Radboud University:**
+
+MSc Political Science (*cum laude*) \hfill 2016-2018
+
+BSc Political Science \hfill 2013-2016
+
+## Publications
+
+\begin{center}
+\textit{Refereed articles and book chapters}
+\end{center}
+
+\begin{description}
+\item 2022 As Open as Possible, as Autonomous as Necessary: Understanding the Rise of Open Strategic Autonomy in EU Trade Policy. \textit{JCMS: The Journal of Common Market Studies}. With Timo Seidl.
+
+\item 2020 From Coherence to Coheritization. Explaining the rise of Policy Coherence in EU External Policy. \textit{Globalizations 17}(4). With Thomas R. Eimer.
+
+\item 2020 Power (ful) and Power (less): A Review of Power in the ESG Scholarship, in: Michele M. Betsil, Tabitha M. Benney \& Andrea Gerlak (eds): \textit{Agency in Earth Governance}, Cambridge: Cambridge University Press, 2020. with Andrea K. Gerlak and colleagues.
+
+\end{description}
+
+\begin{center}
+\textit{Work in progress}
+\end{center}
+
+\begin{description}
+\item Europe First? The EU Commission as a developmental Network State promoting and protecting the single market. \textit{R\&R at the Journal of European Public Policy}. With Donato Di Carlo.
+
+\item The Sunshine Problem: Climate Change, Reallocation, and the Commodifying Power of the State. \textit{MPIfG Discussion paper (under review)}. With Timur Ergen.
+
+\item Moving on not to Fall Behind? Digital sovereignty and the EU’s new competition and industrial policies. \textit{Journal of European Public Policy (under review)}. With Timo Seidl.
+
+\item Polanyi and List meet in Brussels. Two Versions of Digital Sovereignty and the Future of EU Digital Policymaking. \textit{Working paper}. With Timo Seidl.
+
+\item Fearing Forward? State Building, Industrial Policy, and the European Union. \textit{Early stage working paper}.
+
+\item 30 Years on: Revisiting the European Bargain. \textit{Early stage working paper}. With Johanna Breuer.
+
+\end{description}
+
+\begin{center}
+\textit{Conference papers}
+\end{center}
+
+\begin{description}
+\item 2022 Collaborative Advantage in a Geopolitical World: How the European Commission fosters innovation in the Single Market. With Donato Di Carlo.
+
+\item 2021 Protecting, Transforming, and Projecting the Single Market. Open Strategic Autonomy and Digital Sovereignty in the EU’s Trade and Digital Policies. \textit{Soc-Arxiv preprint}. With Timo Seidl.
+
+\item 2021 Dealing with Disruption: the Politics of Industrial Renewal in the European Union.
+
+\item 2020 Yet another bailout? The Pre- and Post-COVID 19 politics of the new EU industrial policy. With Angela Wigger.
+
+\end{description}
+
+\begin{center}
+\textit{Media and policy papers}
+\end{center}
+
+\begin{description}
+
+\item 2023 De Europese markt heeft industriepolitiek op Europees niveau nodig [The European Market Needs EU-level Industrial Policy]. With Jasper van Dijk. \url{https://www.nrc.nl/nieuws/2023/03/12/de-europese-markt-heeft-industriepolitiek-op-europees-niveau-nodig-a4159212}.
+
+\item 2022 As Open as Possible, as Autonomous as Necessary. Understanding the Rise of Open Strategic Autonomy. With Timo Seidl. \textit{Ideas on Europe blog}. \url{https://tinyurl.com/y4ujyyx9}.
+
+\item 2020 Reflections on how COVID-19 is reshaping the EU’s industrial strategy. \textit{EUIdeas blog}. \url{https://tinyurl.com/4mf6kb2f/}.
+
+\item 2015 Central and Eastern European countries at the crossroads: Why governments should reject investment arbitration in TTIP. With Cecilia Olivet. \textit{TNI policy brief}. \url{https://www.tni.org/files/download/governments_should_reject_isds_in_ttip.pdf}.
+\end{description}
+
+## Funding and awards
+
+\begin{description}
+\item 2019-2023 PhD Scholarship at the European University Institute (EUI \& Nuffic), fully funded
+
+\item 2022 EUSA: selected for JEPP special issue for best conference papers (Europe First? The EU Commission as a developmental Network State promoting and protecting the single market).
+
+\end{description}
+
+# Teaching
+
+\begin{center}
+\textit{Keynotes and guest lectures}
+\end{center}
+
+\begin{description}
+\item 2022 \textit{European Industrial Policy and the Shocks of the Global}. Guest lecture, Radboud University, Netherlands
+
+\item 2020 \textit{Do the crises Europe faces necessitate a federal European State?} Thoughts for Europe debate series, European University Institute, Fiesole
+
+\end{description}
+
+\begin{center}
+\textit{Radboud University}
+\end{center}
+
+Five undergraduate courses plus supervision of six BA theses in 2018-2019.
+
+- Academic skills
+
+- Economics of the management sciences
+
+- Linear regression analysis
+
+- Comparative governance
+
+- The politics of EU crisis management since the 2008 financial crisis
+
+## Committees and memberships
+
+2020-   Co-chair of the EUI political economy work group (with Nils Oellerich)
+
+2019-   CES, SASE, ECPR
+
+## Reviewer
+
+Journal for European Public Policy, Global Political Economy
+
+## Conferences and Workshops
+
+\begin{description}
+\item 2023 European Workshop in International Studies, Amsterdam. 12-14 July.
+
+\item 2023 Council For European Studies, Reykjavik. 27-29 June.
+
+\item 2023 Workshop on EU Industrial Policy at European University Institute - invited participant. Hewlett Foundation \& Georgetown Univeristy. 13-14 April.
+
+\item 2023 SISEC (Socieà Italiana di Socilogia Economica), Brescia, 8-10 February.
+
+\item 2022 34\textsuperscript{th} International Conference of the Society for the Advancement of Socio-Economics (SASE), Digital Economy Network. 9-11 July. 
+
+\item 2022 28\textsuperscript{th} International Conference of Europeanists. Council for European Studies (CES). 29 June-1 July.
+
+\item 2022 11\textsuperscript{th} Biennial Conference of the ECPR Standing Group on the European Union. 8-10 June.
+
+\item 2022 17\textsuperscript{th} EUSA Biennial Conference. 19-21 May.
+
+\item	2021 14\textsuperscript{th} General Conference of the European Consortium for Political Research (ECPR).
+
+\item 2021 33\textsuperscript{rd} International Conference of the Society for the Advancement of Socio-Economics (SASE), Digital Economy Network. 3-5 June. 
+
+\item 2021 27\textsuperscript{th} International Conference of Europeanists. Council for European Studies (CES). 24-26 June.
+
+\item 2021 First Doctoral Conference on the Social and Political Constitution of the Economy. Max Planck Institute For the Study of Societies. 24-26 March.
+
+\item 2020 [Cancelled due to COVID-19] 19\textsuperscript{th} annual Politicologenetmaal, Nijmegen, the Netherlands.
+
+\item 2018 17\textsuperscript{th} annual Politicologenetmaal, Leiden, the Netherlands.
+\end{description}
+
+# Skills
+
+\begin{center}
+\textit{Methods and training}
+\end{center}
+
+Quantitative methods (EUI), qualitative methods (EUI), measurement in the social sciences (Levi Littvay), social network analysis (Arnout van de Rijt), text-as-data (EUI), interviewing (EUI HEC), Introduction to higher education teaching (EUI)
+
+\begin{center}
+\textit{Languages}
+\end{center}
+
+Dutch (native), English (fluent), German (good), Italian (good), French (conversational)
+
+\begin{center}
+\textit{Programming \& formatting languages}
+\end{center}
+
+R, Markdown, Quarto, Latex, Python
+
+\begin{center}
+\textit{Software}
+\end{center}
+
+Rstudio, Discourse network analyzer, Gephi, Zotero
+
+# References
+**Anton Hemerijck** \vspace{-0.2cm}
+
+Professor of Political Science and Sociology, European University Institute \vspace{-0.2cm}
+
+Dept. of Political and Social Sciences \vspace{-0.2cm}
+
+[anton.hemerijck@eui.eu](anton.hemerijck@eui.eu) \vspace{-0.2cm}
+
+[+39] 055 4685 442
+
+Via dei Roccettini 9, \vspace{-0.2cm}
+
+I-50014 San Domenico di Fiesole (FI) - Italy \vspace{0.25cm}
+
+
+**Erik Jones** \vspace{-0.2cm}
+
+Director of the Robert Schuman Centre for Advanced Studies, European University Institute \vspace{-0.2cm}
+
+[erik.jones@eui.eu](erik.jones@eui.eu) \vspace{-0.2cm}
+
+[+39] 055 4685 792
+
+
+Via Boccaccio 121, \vspace{-0.2cm}
+
+I-50133 Firenze (FI) - Italy
+
+**Kathleen McNamara** \vspace{-0.2cm}
+
+Professor of Government and Foreign Service, Georgetown University \vspace{-0.2cm}
+
+[krm32@georgetown.edu](krm32@georgetown.edu) \vspace{-0.2cm}
+
+[+39] 055 4685 792
+
+3600 N Street, NW, Room 204 \vspace{-0.2cm}
+
+Washington, DC 20057
