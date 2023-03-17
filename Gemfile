@@ -24,4 +24,8 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem 'tzinfo'
+  gem 'tzinfo-data'
 end
+
+gem "webrick", "~> 1.8"
