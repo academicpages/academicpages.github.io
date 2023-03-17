@@ -9,6 +9,9 @@ main:
   - title: "ESports"
     url: /esports/
 
+  - title: "MathTranslate"
+    url: /mathtranslate/
+
     #  - title: "Talks"
     #    url: /talks/    
 
