@@ -33,7 +33,7 @@ NICS 2021<br />
 **Learning for Amalgamation: A Multi-Source Transfer Learning Framework for Sentiment Classification**<br />
 Cuong V. Nguyen, **Khiem H. Le**, Anh M. Tran, Quang H. Pham, Binh T. Nguyen<br />
 Information Sciences<br />
-[Paper](https://doi.org/10.1016/j.ins.2021.12.059)
+[Paper](https://doi.org/10.1016/j.ins.2021.12.059) &nbsp; &nbsp; [Code](https://github.com/lhkhiem28/Learning-for-Amalgamation)
 
 **A Novel Approach for Enhancing Vietnamese Sentiment Classification**<br />
 Cuong V. Nguyen, **Khiem H. Le**, Anh M. Tran, Binh T. Nguyen<br />
