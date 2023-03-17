@@ -14,4 +14,4 @@ I'm interested in nearly all quantum-related areas, including electronic structu
 I'm an excellent code with lots of experience of software developing.
 I'm also a fan of Linux and traditional chinese music.
 
-Here's my [CV](/files/Resume_JiaceSun.pdf) and Chinese version of [CV](/files/Resume_JiaceSun_Chinese.pdf).  [](/google4665e962e8881ab0.html)
+Here's my [CV](/files/Resume_JiaceSun.pdf) and Chinese version of [CV](/files/Resume_JiaceSun_Chinese.pdf).
