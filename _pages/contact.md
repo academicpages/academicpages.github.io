@@ -14,8 +14,10 @@ title: ""
 </script>
 
 
-**Email:** aranya.chakraborty@mail.mcgill.ca / aranyac.econ@gmail.com   
-**Twitter:** @aranyacecon  
+**Email:** [aranya.chakraborty@mail.mcgill.ca](mailto:aranya.chakraborty@mail.mcgill.ca)/ [aranyac.econ@gmail.com](mailto:aranyac.econ@gmail.com)  
+<!-- aranya.chakraborty@mail.mcgill.ca / aranyac.econ@gmail.com    -->
+**Twitter:** [@aranyacecon](https://twitter.com/aranyacecon)
+<!-- @aranyacecon   -->
 **Phone:** +1-514-699-9655   
 
   
