@@ -1,5 +1,4 @@
 ---
-layout: empty
 permalink: /cv/
 output: 
   pdf_document:
