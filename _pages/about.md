@@ -17,7 +17,7 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
 # Ongoing Work
 
   * ### Bayesian Online Allocation with Buyback
-    * With Rad Niazadeh
+    * With Rad Niazadeh, Jan Vondrák, and Pranav Nuti
   * ### Dynamic Information Design in the Principal-Agent problem
     * With René Caldentey and Ennio Stacchetti
 
