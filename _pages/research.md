@@ -15,7 +15,7 @@ title: ""
 
 # Working Papers
 
-* “Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption” (Job Market Paper), October 2022. [Paper PDF](/files/pdf/Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption.pdf), [Long Slides](/files/pdf/jmp_slides_l.pdf), [Short Slides](/files/pdf/jmp_slides_s.pdf)
+* “Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption”, October 2022. [Working Paper](/files/pdf/Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption.pdf), [Long Slides](/files/pdf/jmp_slides_l.pdf), [Short Slides](/files/pdf/jmp_slides_s.pdf), [Twitter Thread](https://twitter.com/aranyacecon/status/1595069831648317440)
 * “The Role of Experience in Learning for Index Insurance Products: Evidence from Rural Kenya”, March 2023. Revised & Resubmitted to the *Journal of Economic Behavior and Organization*. [Available Upon Request] 
 <!-- * [Contact for latest version](mailto:aranya.chakraborty@mail.mcgill.ca) -->
 <!-- * [Paper PDF](/files/pdf/The Role of Experience in Learning for Index Insurance.pdf) -->
