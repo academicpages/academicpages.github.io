@@ -5,6 +5,17 @@ title: "Publications"
 author_profile: true
 ---
 
+## *Psychology's WEIRD Problems*.<br>Cambridge University Press, forthcoming. ([Link]([https://www.frontiersin.org/articles/10.3389/fpsyg.2022.867166/full](https://www.cambridge.org/core/elements/abs/psychologys-weird-problems/C324108A678435B4F18EF712EFB793BB#element))) <img align="right" src="https://gui-cogsci.github.io/images/elementcover.jpg" width="130">
+>  Psychology has a WEIRD problem. It is overly reliant on participants from Western, Educated, Industrialized, Rich, and Democratic societies. Over the last decade this problem has come to be widely acknowledged. However, psychologists have so far made little progress in making psychology more diverse. This Element proposes that the lack of progress can be explained by the fact that the original WEIRD critique was too narrow in scope. The WEIRD critique was originally framed as a single problem of a lack of diversity among research participants, but there are at least four overlapping problems. Psychological science is WEIRD not only in terms of who makes up its participant pool, but also in terms of its theoretical commitments, methodological assumptions, and institutional structures. Psychological science as currently constituted is a fundamentally WEIRD enterprise. lf comes to seem to be a poor starting point for research. After examining why this is so, we conclude by exploring some implications for future research.
+> 
+> KEYWORDS: WEIRD psychology; theory and methods; institutional structures and incentives;  cross-cultural research; diversity
+>
+>> Sanches de Oliveira, G., & Baggs, E. (2024). *Psychology's WEIRD Problems* (Elements in Psychology and Culture). Cambridge: Cambridge University Press.
+
+
+<br><br>
+
+
 ## Bilingualism is always cognitively advantageous, but this doesn’t mean what you think it means.<br>*Frontiers in Psychology: Language Sciences*, 2022. ([Link](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.867166/full)) <img align="right" src="https://gui-cogsci.github.io/images/frontierspsychology.png" width="130">
 >  For decades now a research question has firmly established itself as a staple of psychological and neuroscientific investigations on language, namely the question of whether and how bilingualism is cognitively beneficial, detrimental or neutral. As more and more studies appear every year, it seems as though the research question itself is firmly grounded and can be answered if only we use the right experimental manipulations and subject the data to the right analysis methods and interpretive lens. In this paper we propose that, rather than merely improving prior methods in the pursuit of evidence in one direction or another, we would do well to carefully consider whether the research question itself is as firmly grounded as it might appear to be. We identify two bodies of research that suggest the research question to be highly problematic. In particular, drawing from work in sociolinguistics and in embodied cognitive science, we argue that the research question of whether bilingualism is cognitively advantageous or not is based on problematic assumptions about language and cognition. Once these assumptions are addressed head on, a straightforward answer to the question arises, but the question itself comes to seem to be a poor starting point for research. After examining why this is so, we conclude by exploring some implications for future research.
 > 
