@@ -18,7 +18,7 @@ What is this site for?
 
 The purpose of this website is to give any interested reader an insight into the aspects of Machine Learning and Data Science that I've been working with. My main motivation has been to create a platform for me to experiment with writing [blog posts about my daily encounters with Data Science](https://albertkjoller.github.io/posts) - and most importantly; to write these in a fashion such that the content is interesting both for people that are part of and for people that are not part of the Data Science community. 
 
-Do you have comments on blog posts or want to collaborate on a project?
+Do you have comments on a blog post or want to collaborate on a project?
 ------
 
 <!-- **Want to collaborate?** -->
