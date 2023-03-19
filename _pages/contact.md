@@ -4,7 +4,7 @@ title: ""
 ---
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XQNNHHYQ5D"></script>
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-XQNNHHYQ5D"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -12,7 +12,7 @@ title: ""
 
   gtag('config', 'G-XQNNHHYQ5D');
 </script>
-
+ -->
 
 **Email:** [aranya.chakraborty@mail.mcgill.ca](mailto:aranya.chakraborty@mail.mcgill.ca)/ [aranyac.econ@gmail.com](mailto:aranyac.econ@gmail.com)  
 <!-- aranya.chakraborty@mail.mcgill.ca / aranyac.econ@gmail.com    -->
