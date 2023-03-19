@@ -4,7 +4,7 @@ title: ""
 ---
 
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XQNNHHYQ5D"></script>
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-XQNNHHYQ5D"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -12,7 +12,7 @@ title: ""
 
   gtag('config', 'G-XQNNHHYQ5D');
 </script>
-
+ -->
 # Working Papers
 
 * “Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption”, October 2022. [Working Paper](/files/pdf/Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption.pdf), [Long Slides](/files/pdf/jmp_slides_l.pdf), [Short Slides](/files/pdf/jmp_slides_s.pdf), [Twitter Thread](https://twitter.com/aranyacecon/status/1595069831648317440)
