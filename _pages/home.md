@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Danilo Francati"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
