@@ -7,7 +7,7 @@ author_profile: true
 
 ***Books***
 
-Warren, M. & **Smith, C.** (2021) *Bayesian GLMs in R for Ecology*. Amazon Publishing, Seattle.
+Warren, M. & **Smith, C.** (2021) [*Bayesian GLMs in R for Ecology*](https://github.com/carlsmith66/carlsmith66.github.io/tree/websitebranch1/files/paper1.pdf). Amazon Publishing, Seattle.
 
 **Smith, C.**, Uzal, A. & Warren, M. (2020) *Statistics in R for Biodiversity Conservation*. Amazon Publishing, Seattle.
 
