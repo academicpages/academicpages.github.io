@@ -61,4 +61,3 @@ Service and leadership
 * Fisheries consultant for UK Department for International Development, Government of Sri Lanka, Asian Development Bank, Food & Agriculture Organisation, and United Nations Development Programme
 * Grant reviewing for research Councils in the UK (NERC, BBSRC), NC3Rs, Leverhulme Trust, Commonwealth Scholarships Commission; Czech Republic (Czech Grant Agency), Austria (FWF), Poland (NCN), and USA (NSF)
 * Curator, Bell-Pettigrew Museum of Natural History, University of St Andrews, UK
-![image](https://user-images.githubusercontent.com/79274202/226329050-703cf2ac-d711-4436-ace8-279378d90b5c.png)
