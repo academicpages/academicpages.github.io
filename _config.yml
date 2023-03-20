@@ -109,11 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-<<<<<<< HEAD
   twitter          : "rexhere1"
-=======
-  twitter          : 
->>>>>>> parent of 04becac (Update _config.yml)
   vine             :
   weibo            : 
   xing             :
@@ -269,6 +265,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-include-cache
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -313,3 +310,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
