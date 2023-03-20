@@ -42,7 +42,7 @@ Research
 * Published 135 peer-reviewed scientific papers and 4 books (h-index 50 with >8,000 citations)
 * Supervised 18 PhD students
 * Supported 14 post-doctoral researchers
-* Received 18 research grants exceeding €1.5 million
+* Received 18 research grants totalling €1.5 million
 * Presented 7 plenary and keynote lectures and >60 invited seminars and conference talks
 * Organiser/co-organiser of 7 international conferences
 
