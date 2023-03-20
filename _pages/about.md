@@ -14,4 +14,4 @@ I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX La
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](wangyuchen333@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg)
+[Email](wangyuchen333@stu.pku.edu.cn) / [Github](https://github.com/wangyuchen333) / [Wechat](../images/_wechat.jpg)
