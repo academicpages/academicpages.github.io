@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* DSc Fish Evolution, 2019
-* PhD Fish Behaviour, 1990-1993
-* MSc Fisheries Biology, 1989
-* BSc Marine Biology, 1985-1988
+* DSc Fish Evolution, University of Łódź 2019
+* PhD Fish Behaviour, University of Aberystwyth 1990-1993
+* MSc Fisheries Biology, University of Plymouth, 1989
+* BSc Marine Biology, University of Plymouth, 1985-1988
 
 
 Employment
