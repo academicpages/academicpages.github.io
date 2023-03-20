@@ -24,25 +24,25 @@ Our motivation is straightforward: leveraging the eye movements of radiologists 
 First, let me show some cases we collected:
 ![This red circle will not show up in the normal collecting, just here for demo.](/images/demo-2.gif)
 
-1. To make sure the collected gaze are informative, we first use it as a network supervision during training. It is a pilot study that use gaze to improve deep-learning-based CAD sytem and is published at IEEE Trans on Medical Imaging at 2022. [[Paper](https://arxiv.org/abs/2204.02976)][[GitHub pages](https://jamesqfreeman.github.io/MicEye/)]. 
-<img src="/_pages/Follow_my_eye.png" alt="Gaze supervision" style="width:50%;">
+- To make sure the collected gaze are informative, we first use it as a network supervision during training. It is a pilot study that use gaze to improve deep-learning-based CAD sytem and is published at IEEE Trans on Medical Imaging at 2022. [[Paper](https://arxiv.org/abs/2204.02976)][[GitHub pages](https://jamesqfreeman.github.io/MicEye/)]. 
+<img src="/images/Follow_my_eye.png" alt="Gaze supervision" style="width:50%;">
 Cite: Follow my eye: using gaze to supervise computer-aided diagnosis. 
 
 **S Wang**, X Ouyang, T Liu, Q Wang, D Shen
 
-1. After this worked, we apply this to a more complex task (mammography) and architecture (Vision Transformer). This work is submitted in IEEE Trans on Medical Imaging and is currently under major revision. [[Paper ] (https://arxiv.org/abs/2205.12466)].
+- After this worked, we apply this to a more complex task (mammography) and architecture (Vision Transformer). This work is submitted in IEEE Trans on Medical Imaging and is currently under major revision. [[Paper ] (https://arxiv.org/abs/2205.12466)].
 ![On vision transformer](/images/vitGaze.png)
 Cite: Eye-gaze-guided Vision Transformer for Rectifying Shortcut Learning. 
 
 C Ma, L Zhao, Y Chen, L Zhang, Z Xiao, H Dai, D Liu, Z Wu, Z Liu, **S Wang**, ...
 
-3. We extent gaze in the very foundamental part in computer vision, data augmentation. Our brains naturally and constantly augment images (e.g., by slightly shifting our gaze to view the same object from different angles). In our research, we investigated how we could improve current image augmentation techniques by mimicking the way humans use gaze. This work is submitted to IEEE Trans on Neural Networks and Learning Systems (2022.10). [[code ](https://jamesqfreeman.github.io/MicEye/contrastive_learning_example/)]
+- We extent gaze in the very foundamental part in computer vision, data augmentation. Our brains naturally and constantly augment images (e.g., by slightly shifting our gaze to view the same object from different angles). In our research, we investigated how we could improve current image augmentation techniques by mimicking the way humans use gaze. This work is submitted to IEEE Trans on Neural Networks and Learning Systems (2022.10). [[code ](https://jamesqfreeman.github.io/MicEye/contrastive_learning_example/)]
 ![Gaze in augmentation](/images/focus_contrast.png)
 Learning Better Contrastive View from Radiologist’s Gaze. 
 
 **S Wang**, Z Zhuang, X Ouyang, L Zhang, Z Li, C Ma, T Liu, D Shen, Q Wang
 
-4. We propose the idea of training a neural network solely on gaze information, as we believe gaze provides valuable insights for diagnostic tasks. Through our gaze collection process, we have observed that similar lesions often elicit similar gaze patterns. Therefore, we propose constructing a self-supervised system based on gaze similarity. This work is submitted to ICCV 2023.
+- We propose the idea of training a neural network solely on gaze information, as we believe gaze provides valuable insights for diagnostic tasks. Through our gaze collection process, we have observed that similar lesions often elicit similar gaze patterns. Therefore, we propose constructing a self-supervised system based on gaze similarity. This work is submitted to ICCV 2023.
 ![Self-supervision with Gaze](/images/McGIP.png)
 Mining Gaze for Contrastive Learning toward Computer-Assisted Diagnosis.
 
