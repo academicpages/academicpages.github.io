@@ -11,15 +11,15 @@ I am a *Wissenschaftliche Mitarbeiter* (Scientific Researcher) and a first year 
 
 My research goal involves developing natural language processing methods, including named entity recognition, relationship extraction, and entity linking, as well as machine learning methods for semantic learning graphs and data fusion techniques for enhancing textual knowledge. Additionally, I will be creating a prototype implementation of these methods and supervising student assistants in their research-related work.
 
-Prior to my doctoral studies, I worked as a research assistant at the [University of Rostock](https://www.mmis.informatik.uni-rostock.de/staff/), where I delved into Neural Density Estimation for the project [NEISS](https://www.neiss.uni-rostock.de/en/). I also had the opportunity to hone my skills as a Software Engineer at [PLANET AI](https://planet-ai.de/), where I contributed to the development and testing of [Intelligent Document Analysis](https://planet-ai.de/products/ida/) software.
+Prior to my doctoral studies, I worked as a research assistant at the University of Rostock, where I delved into Neural Density Estimation for the project [NEISS](https://www.neiss.uni-rostock.de/en/). I also had the opportunity to hone my skills as a Software Engineer at PLANET AI, where I contributed to the development and testing of [Intelligent Document Analysis](https://planet-ai.de/products/ida/) software.
 
 <h2>Recent News</h2>
 
- -  I'm happy to announce that I've been accepted into the [Machine Learning Summer School](https://www.oxfordml.school/) at the [University of Oxford](https://www.oxfordmartin.ox.ac.uk/deep-medicine/) in collaboration with [Canadian Institute for Advanced Research](https://cifar.ca/). I am looking forward to learn, connect and gain invaluable insights from the most brilliant minds in the field of machine learning. 
+ -  I'm happy to announce that I've been accepted into the Machine Learning Summer School at the [University of Oxford](https://www.oxfordmartin.ox.ac.uk/deep-medicine/) in collaboration with [Canadian Institute for Advanced Research](https://cifar.ca/). I am looking forward to learn, connect and gain invaluable insights from the most brilliant minds in the field of machine learning. 
 
  <h2>Research</h2>
  
- - My present research is under the co-supervision of [Dr. Emma L Tonkin](https://www.bristol.ac.uk/people/person/Emma-Tonkin-47cb2fc5-62d3-4efc-9127-795bf5af66f9/) at the [University of Bristol](https://www.bristol.ac.uk/). It pertains to investigating methodologies for keyword extraction from submitted papers in the [ARDUOUS](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=169425&copyownerid=177258) workshop, along with clustering of the extracted keywords, with the primary aim of identifying research trends and their evolution over time. 
+ - My present research is under the co-supervision of [Dr. Emma L Tonkin](https://www.bristol.ac.uk/people/person/Emma-Tonkin-47cb2fc5-62d3-4efc-9127-795bf5af66f9/) at the University of Bristol. It pertains to investigating methodologies for keyword extraction from submitted papers in the [ARDUOUS](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=169425&copyownerid=177258) workshop, along with clustering of the extracted keywords, with the primary aim of identifying research trends and their evolution over time. 
  
  - My [Master thesis](https://dipendrayadaveee.github.io/files/Master_Thesis_Yadav_Dipendra.pdf) research investigated the use of Transfer Learning on Deep NLP systems for languages with limited annotation.
 
