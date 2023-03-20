@@ -25,12 +25,12 @@ First, let me show some cases we collected:
 ![This red circle will not show up in the normal collecting, just here for demo.](demo-2.gif)
 
 1. To make sure the collected gaze are informative, we first use it as a network supervision during training. It is a pilot study that use gaze to improve deep-learning-based CAD sytem and is published at IEEE Trans on Medical Imaging at 2022. [[Paper](https://arxiv.org/abs/2204.02976)][[GitHub pages](https://jamesqfreeman.github.io/MicEye/)]. 
-<img src="images/Follow_my_eye.png" alt="Gaze supervision" style="width:50%;">
+<img src="Follow_my_eye.png" alt="Gaze supervision" style="width:50%;">
 Cite: Follow my eye: using gaze to supervise computer-aided diagnosis. 
 
 **S Wang**, X Ouyang, T Liu, Q Wang, D Shen
 
-2. After this worked, we apply this to a more complex task (mammography) and architecture (Vision Transformer). This work is submitted in IEEE Trans on Medical Imaging and is currently under major revision. [[Paper ] (https://arxiv.org/abs/2205.12466)].
+1. After this worked, we apply this to a more complex task (mammography) and architecture (Vision Transformer). This work is submitted in IEEE Trans on Medical Imaging and is currently under major revision. [[Paper ] (https://arxiv.org/abs/2205.12466)].
 ![On vision transformer](vitGaze.png)
 Cite: Eye-gaze-guided Vision Transformer for Rectifying Shortcut Learning. 
 
