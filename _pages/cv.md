@@ -11,49 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.Sc. Marine Biology, 1988
-* M.Sc. Fisheries Biology, 1989
-* Ph.D Fish Behaviou, 1993
+* DSc Fish Evolution, 2019
+* PhD Fish Behaviour, 1990-1993
+* MSc Fisheries Biology, 1989
+* BSc Marine Biology, 1985-1988
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Employment
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Professor of Zoology, University of Łódź, Poland (2019-present)
+* Reader in Zoology, University of St Andrews, UK (2009-2019)
+* Lecturer in Zoology, University of Leicester, UK (2004-2009)
+* Lecturer in Marine Biology, Queen Mary College, London, UK (1998-2004)
+* Postdoctoral Fellow, University of East Anglia, UK (1995-1998)
+* Assistant Professor, Khulna University, Bangladesh (1993-1995)
+* Scientific Officer, Plymout Marine Laboratory, UK (1989-1990)
 
-Publications
+
+Expertise
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+* Fish biology and evolution
+* Population ecology
+* Tropical marine ecology
+* Experimental design and statistical modelling
+
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+I have taught 26 different modules at six universities at undergraduate and postgraduate level; primarily in ecology, zoology, evolutionary biology and statistics. I have completed 18 courses in academic practice and undertaken 15 external courses in advanced statistics. I have taught undergraduate and post-graduate level statistics at Queen Mary College London, University of Leicester, University of St Andrews, University of Łódź (Poland) and the Institute of Vertebrate Biology of the Czech Academy of Sciences, Brno (Czech Republic), as well as running external statistics workshops.
+
   
 Service and leadership
 ======
-* Editor-in-Chief Journal of Vertebrate Biology
+* Editor-in-Chief, Journal of Vertebrate Biology
+* Assistant Editor, Journal of Fish Biology
+* Society Secretary, Freshwater Group of the Linnaean Society of London
+* PhD examiner at Universities of Sheffield, Hull, Leicester, Nottingham, Aberystwyth, Padova
+* Fisheries consultant for UK Department for International Development, Government of Sri Lanka, Asian Development Bank, Food & Agriculture Organisation, and United Nations Development Programme
+* Grant reviewing for research Councils in the UK (NERC, BBSRC), NC3Rs, Leverhulme Trust, Commonwealth Scholarships Commission; Czech Republic (Czech Grant Agency), Austria (FWF), Poland (NCN), and USA (NSF)
+
+
+
