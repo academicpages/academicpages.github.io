@@ -22,8 +22,9 @@ Wootton, R.J. & **Smith, C.** (2015) *Reproductive Biology of Teleost Fishes*. B
 
 Chen, F., Wang, Y., He, J., **Smith, C.**, Xue, G., Zhao, Y., Peng, Y., Zhang, J., Liu, J., Chen, J. & Xie, P. (2023) Alternative signal pathways underly fertilization and egg activation in a fish with contrasting modes of spawning. *BMC Genomics* in press
 
-Li, F., **Smith, C.**,  Kawamura, K., Vetesnik, L., Arai, Y. & Reichard, M. (2022) Unusual egg shape diversity in bitterling fishes. Ecology 103, e3816.
-Smith, C., Zięba, G., Spence, R. & Przybylski, M. (2022) Spatial heterogeneity in pH, body size and habitat size generates ecological opportunity in an evolutionary radiation. *Journal of Fish Biology* 101, 1501-1508.
+Li, F., **Smith, C.**,  Kawamura, K., Vetesnik, L., Arai, Y. & Reichard, M. (2022) Unusual egg shape diversity in bitterling fishes. *Ecology* 103, e3816.
+
+**Smith, C.**, Zięba, G., Spence, R. & Przybylski, M. (2022) Spatial heterogeneity in pH, body size and habitat size generates ecological opportunity in an evolutionary radiation. *Journal of Fish Biology* 101, 1501-1508.
 
 Kawamura, K., Miyake, T. & **Smith, C.** (2022) Population genetic structure and demographic history of *Rhodeus atremius suigensis*, an endangered bitterling in Japan. *Conservation Genetics* 23, 885-901.
 
@@ -31,7 +32,7 @@ Chen, F., Wang, Y., He, J., Chen, L., Xue, G., Zhao, Y., Peng, Y., **Smith, C.**
 
 Kok, P.J.R., Broholm, T.L., van Doorn, L. & **Smith, C.** (2022) Tourism may threaten wildlife disease refugia. *Conservation Letters* 15, e12902.
 
-Chen, F., Smith, C., Wang, Y., He, J., Xia, W.,  Xue, G.,  Chen, J., Xie, P. (2021) The evolution of alternative buoyancy mechanisms in freshwater fish eggs. *Frontiers in Ecology & Evolution* 645.
+Chen, F., **Smith, C.**, Wang, Y., He, J., Xia, W.,  Xue, G.,  Chen, J., Xie, P. (2021) The evolution of alternative buoyancy mechanisms in freshwater fish eggs. *Frontiers in Ecology & Evolution* 645.
 
 Miyake, T., Nakajima, J., Umenuma, K., Onikura, N., Ueda, T., **Smith, C.** & Kawamura, K. (2021) Genetic diversification of the Kanehira bitterling *Acheilognathus rhombeus* inferred from mitochondrial DNA, with comments on the phylogenetic relationship with its sister species *Acheilognathus barbatulus*. *Journal of Fish Biology* 99, 1677-1695.
 
