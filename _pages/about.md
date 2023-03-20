@@ -25,23 +25,32 @@ First, let me show some cases we collected:
 ![This red circle will not show up in the normal collecting, just here for demo.](demo-2.gif)
 
 1. To make sure the collected gaze are informative, we first use it as a network supervision during training. It is a pilot study that use gaze to improve deep-learning-based CAD sytem and is published at IEEE Trans on Medical Imaging at 2022. [[Paper](https://arxiv.org/abs/2204.02976)][[GitHub pages](https://jamesqfreeman.github.io/MicEye/)]. 
-![Gaze supervision](Follow_my_eye.png)
-Cite: Follow my eye: using gaze to supervise computer-aided diagnosis. **S Wang**, X Ouyang, T Liu, Q Wang, D Shen
+<img src="images/Follow_my_eye.png" alt="Gaze supervision" style="width:50%;">
+Cite: Follow my eye: using gaze to supervise computer-aided diagnosis. 
+
+**S Wang**, X Ouyang, T Liu, Q Wang, D Shen
 
 2. After this worked, we apply this to a more complex task (mammography) and architecture (Vision Transformer). This work is submitted in IEEE Trans on Medical Imaging and is currently under major revision. [[Paper ] (https://arxiv.org/abs/2205.12466)].
 ![On vision transformer](vitGaze.png)
-Cite: Eye-gaze-guided Vision Transformer for Rectifying Shortcut Learning. C Ma, L Zhao, Y Chen, L Zhang, Z Xiao, H Dai, D Liu, Z Wu, Z Liu, **S Wang**, ...
+Cite: Eye-gaze-guided Vision Transformer for Rectifying Shortcut Learning. 
 
-3. We extent gaze in the very foundamental part in computer vision, data augmentation. Our brains naturally and constantly augment images (e.g., by slightly shifting our gaze to view the same object from different angles). In our research, we investigated how we could improve current image augmentation techniques by mimicking the way humans use gaze. This work is submitted in IEEE Trans on Neural Networks and Learning Systems (2022.10). [[code ](https://jamesqfreeman.github.io/MicEye/contrastive_learning_example/)]
+C Ma, L Zhao, Y Chen, L Zhang, Z Xiao, H Dai, D Liu, Z Wu, Z Liu, **S Wang**, ...
+
+3. We extent gaze in the very foundamental part in computer vision, data augmentation. Our brains naturally and constantly augment images (e.g., by slightly shifting our gaze to view the same object from different angles). In our research, we investigated how we could improve current image augmentation techniques by mimicking the way humans use gaze. This work is submitted to IEEE Trans on Neural Networks and Learning Systems (2022.10). [[code ](https://jamesqfreeman.github.io/MicEye/contrastive_learning_example/)]
 ![Gaze in augmentation](focus_contrast.png)
-Learning Better Contrastive View from Radiologist’s Gaze. **S Wang**, Z Zhuang, X Ouyang, L Zhang, Z Li, C Ma, T Liu, D Shen, Q Wang
+Learning Better Contrastive View from Radiologist’s Gaze. 
+
+**S Wang**, Z Zhuang, X Ouyang, L Zhang, Z Li, C Ma, T Liu, D Shen, Q Wang
 
 4. We propose the idea of training a neural network solely on gaze information, as we believe gaze provides valuable insights for diagnostic tasks. Through our gaze collection process, we have observed that similar lesions often elicit similar gaze patterns. Therefore, we propose constructing a self-supervised system based on gaze similarity. This work is submitted to ICCV 2023.
 ![Self-supervision with Gaze](McGIP.png)
-Mining Gaze for Contrastive Learning toward Computer-Assisted Diagnosis. ** Z Zhao*, S Wang*, ** Q Wang, D Shen
+Mining Gaze for Contrastive Learning toward Computer-Assisted Diagnosis.
 
-Getting started
+Z Zhao\*, **S Wang\*,** Q Wang, D Shen
+
+New age with Foundation Model
 ======
+I do think we are at the second research golden age for AI with LARGE transformers and webscale unsupervised pretraining. The first golden age are lead by ImageNet supervised pretrain and CNNs. As a 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
