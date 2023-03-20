@@ -34,6 +34,7 @@ Expertise
 * Population ecology
 * Tropical marine ecology
 * Experimental design and statistical modelling
+* Bayesian inference
 
 
 Research
