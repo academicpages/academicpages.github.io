@@ -17,22 +17,37 @@ I am curretnly a PhD candidate at Shanghai Jiao Tong University, supervised by [
 Prior to this, I completed my BS degree from Northeastern University (Shenyang, China) and Chinese Academy of Sciences (Shenzhen Institute of Advanced Technology) in 2015. In my free time, I enjoy programming⌨️ (Currently ![Github stars](https://img.shields.io/github/stars/jamesqfreeman?style=social) stars🌟), running🏃, swimming🏊, weightlifting🏋️, and motorsports🏁.
 
 
-Eye-tracking with Computer Aided Diagnosis
+Computer Aided Diagnosis with Eye-tracking
 ======
-Hanging a eye-tracker under
+Our motivation is straightforward: leveraging the eye movements of radiologists to improve computer-aided diagnosis. The collection of this data is a passive and unobtrusive process that captures informative supervision related to the radiologists' diagnostic procedures. 
 
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+First, let me show some cases we collected:
+![This red circle will not show up in the normal collecting, just here for demo.](demo-2.gif)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+1. To make sure the collected gaze are informative, we first use it as a network supervision during training. It is a pilot study that use gaze to improve deep-learning-based CAD sytem and is published at IEEE Trans on Medical Imaging at 2022. [[Paper](https://arxiv.org/abs/2204.02976)][[GitHub pages](https://jamesqfreeman.github.io/MicEye/)]. 
+![Gaze supervision](Follow_my_eye.png)
+Cite: Follow my eye: using gaze to supervise computer-aided diagnosis. **S Wang**, X Ouyang, T Liu, Q Wang, D Shen
+
+2. After this worked, we apply this to a more complex task (mammography) and architecture (Vision Transformer). This work is submitted in IEEE Trans on Medical Imaging and is currently under major revision. [[Paper ] (https://arxiv.org/abs/2205.12466)].
+![On vision transformer](vitGaze.png)
+Cite: Eye-gaze-guided Vision Transformer for Rectifying Shortcut Learning. C Ma, L Zhao, Y Chen, L Zhang, Z Xiao, H Dai, D Liu, Z Wu, Z Liu, **S Wang**, ...
+
+3. We extent gaze in the very foundamental part in computer vision, data augmentation. Our brains naturally and constantly augment images (e.g., by slightly shifting our gaze to view the same object from different angles). In our research, we investigated how we could improve current image augmentation techniques by mimicking the way humans use gaze. This work is submitted in IEEE Trans on Neural Networks and Learning Systems (2022.10). [[code ](https://jamesqfreeman.github.io/MicEye/contrastive_learning_example/)]
+![Gaze in augmentation](focus_contrast.png)
+Learning Better Contrastive View from Radiologist’s Gaze. **S Wang**, Z Zhuang, X Ouyang, L Zhang, Z Li, C Ma, T Liu, D Shen, Q Wang
+
+4. We propose the idea of training a neural network solely on gaze information, as we believe gaze provides valuable insights for diagnostic tasks. Through our gaze collection process, we have observed that similar lesions often elicit similar gaze patterns. Therefore, we propose constructing a self-supervised system based on gaze similarity. This work is submitted to ICCV 2023.
+![Self-supervision with Gaze](McGIP.png)
+Mining Gaze for Contrastive Learning toward Computer-Assisted Diagnosis. ** Z Zhao*, S Wang*, ** Q Wang, D Shen
 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
