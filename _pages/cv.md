@@ -39,8 +39,8 @@ Expertise
 
 Research
 ======
-* My research explores the diversity of fish mating systems, brood-parasite coevolition, and fish ecology
-* I have published 135 peer-reviewed scientific papers and 4 books (h-index 50 with >8,000 citations)
+* My research explores the diversity of fish mating systems, brood-parasite coevolution, and fish ecology
+* I have published 135 peer-reviewed scientific papers and 4 books (h-index 51 with >8,500 citations)
 * Supervised 18 PhD students
 * Supported 14 post-doctoral researchers
 * Received 18 research grants totalling €1.5 million
@@ -50,7 +50,11 @@ Research
 
 Teaching
 ======
-I have taught 26 different modules at six universities at undergraduate and postgraduate level; primarily in ecology, zoology, evolutionary biology and statistics. I have completed 18 courses in academic practice and undertaken 15 external courses in advanced statistics. I have taught undergraduate and post-graduate level statistics at Queen Mary College London, University of Leicester, University of St Andrews, University of Łódź and the Institute of Vertebrate Biology, Brno (Czech Republic), as well as running external statistics workshops.
+* Taught 26 different modules at six universities at undergraduate and postgraduate level
+* Subjects include ecology, zoology, evolutionary biology, experimental design and statistics
+* Completed 18 courses in academic practice 
+* Undertaken 15 external courses in advanced statistics
+* Regularly run external statistics workshops
 
   
 Service and leadership
