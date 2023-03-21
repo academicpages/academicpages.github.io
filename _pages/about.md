@@ -15,7 +15,7 @@ Prior to my doctoral studies, I worked as a research assistant at the University
 
 <h2>Recent News</h2>
 
- -  I have been accepted into the Machine Learning Summer School at the [University of Oxford](https://www.oxfordmartin.ox.ac.uk/deep-medicine/) in collaboration with [Canadian Institute for Advanced Research](https://cifar.ca/). I am looking forward to learn, connect and gain invaluable insights from the most brilliant minds in the field of machine learning. 
+ -  I have been accepted into the Summer School on Machine Learning at the [University of Oxford](https://www.oxfordmartin.ox.ac.uk/deep-medicine/) in collaboration with [Canadian Institute for Advanced Research](https://cifar.ca/). I am looking forward to learn, connect and gain invaluable insights from the most brilliant minds in the field of machine learning. 
 
  <h2>Research</h2>
  
