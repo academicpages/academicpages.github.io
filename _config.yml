@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Associate Professor, University of Shanghai for Science and Technology"
   location         : "Shanghai"
-  employer         :
+  employer         : "http://www.usst.edu.cn/main.htm"
   pubmed           : false # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : false #"https://www.researchgate.net/profile/Keming-Zhang-2"
   email            :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhangkmsjtu"
+  github           : false #"zhangkmsjtu"
   google_plus      :
   keybase          :
   instagram        :
