@@ -11,6 +11,12 @@ main:
 
   - title: "CAD with Eye-tracking"
     url: /eyetracking/  
+
+  - title: "Large Models"
+    url: /largemodels/
+
+  - title: "Efficient Models"
+    url: /efficientmodels/
   # - title: "Portfolio"
   #   url: /portfolio/
         

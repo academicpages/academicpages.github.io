@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sheng Wang / EE PhD"
+title                    : "Sheng Wang"
 title_separator          : "-"
 name                     : &name "Sheng Wang"
 description              : &description "personal description"
