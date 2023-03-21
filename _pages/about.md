@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at the Systems Lab, DaSE, East China Normal University. I am broadly interested in distributed database systems, operating systems, and machine learning systems.
+I am a first-year Ph.D. student at the Systems Lab, DaSE, East China Normal University. I am broadly interested in distributed database systems, operating systems, real-time embedded system and machine learning systems.
