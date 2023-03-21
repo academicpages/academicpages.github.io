@@ -89,7 +89,8 @@ author:
   googlescholar    : false #"https://www.researchgate.net/profile/Keming-Zhang-2"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Keming-Zhang-2"
-  uri              : "http://www.usst.edu.cn/main.htm"
+  uri              : 
+  usst             : "http://www.usst.edu.cn/main.htm"
   bitbucket        :
   codepen          :
   dribbble         :
