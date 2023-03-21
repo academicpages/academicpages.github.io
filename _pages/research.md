@@ -22,7 +22,7 @@ title: ""
 
 # Work in Progress
 
-* “The Role of Active Discussion in Learning about Uncertain Technologies” (with [Jim Engle-Warnick](https://www.mcgill.ca/economics/jim-engle-warnick), [Javier Escobal](https://www.grade.org.pe/en/investigadores/personal/jescobal/), and [Sonia Laszlo](https://sites.google.com/site/sonialaszlo))
+* “The Role of Active Discussion in Learning about Uncertain Technologies” (with [Jim Warnick](https://www.mcgill.ca/economics/jim-engle-warnick), [Javier Escobal](https://www.grade.org.pe/en/investigadores/personal/jescobal/), and [Sonia Laszlo](https://sites.google.com/site/sonialaszlo))
 * “Microinsurance for the Poor: Long-Term Follow Up” (with [Matthieu Chemin](https://www.matthieuchemin.com/))
 * “Assessing the Impact of Judicial Independence in Developing Countries: Evidence from Rural Bangladesh” (with [Matthieu Chemin](https://www.matthieuchemin.com/))
 
