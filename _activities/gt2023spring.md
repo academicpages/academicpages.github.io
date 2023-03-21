@@ -9,19 +9,19 @@ author_profile: false
 
 | date            | time            | speaker        | title                                                                | zoom link                                                              |
 | --------------- | --------------- | -------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| Thu, 2023-02-09 | 1:30pm - 2:30pm |                |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
-| Thu, 2023-02-16 | 1:30pm - 2:30pm | Li-Sheng Tseng | A Cone Story for Smooth Manifolds                                    | Vincent 215                                                            |
-| Thu, 2023-02-23 | 1:30pm - 2:30pm | Ke Zhu (cancelled)         |  |                                                        |
-| Thu, 2023-03-02 | 1:30pm - 2:30pm |   Ke Zhu             |   High-jet relations of the heat kernel embedding map and applications                                                                   |  Vincent 215  |
-| Thu, 2023-03-09 | 1:30pm - 2:30pm | spring break   |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
-| Thu, 2023-03-16 | 1:30pm - 2:30pm | Shaoyun Bai    |   Arnold conjecture over integers                                                                   | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
-| Thu, 2023-03-23 | 1:30pm - 2:30pm | Chris Wendl    |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
-| Thu, 2023-03-30 | 1:30pm - 2:30pm |                |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
-| Thu, 2023-04-06 | 1:30pm - 2:30pm |    Yuan Yao             |                                                                      | Vincent 215 |
-| Thu, 2023-04-13 | 1:30pm - 2:30pm |       |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
-| Thu, 2023-04-20 | 1:30pm - 2:30pm |                |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
-| Thu, 2023-04-27 | 1:30pm - 2:30pm |      Franco Vargas Pallete          |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
-| Thu, 2023-05-04 | 1:30pm - 2:30pm |   Georgios Dimitroglou Rizell   |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
+| Thu, 2023-02-09 | 1:25pm - 2:25pm |                |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
+| Thu, 2023-02-16 | 1:25pm - 2:25pm | Li-Sheng Tseng | A Cone Story for Smooth Manifolds                                    | Vincent 215                                                            |
+| Thu, 2023-02-23 | 1:25pm - 2:25pm | Ke Zhu (cancelled)         |  |                                                        |
+| Thu, 2023-03-02 | 1:25pm - 2:25pm |   Ke Zhu             |   High-jet relations of the heat kernel embedding map and applications                                                                   |  Vincent 215  |
+| Thu, 2023-03-09 | 1:25pm - 2:25pm | spring break   |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
+| Thu, 2023-03-16 | 1:25pm - 2:25pm | Shaoyun Bai    |   Arnold conjecture over integers                                                                   | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
+| Thu, 2023-03-23 | 1:25pm - 2:25pm | Chris Wendl    |   How to view multiple covers as a feature instead of a bug                                                                   | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
+| Thu, 2023-03-25 | 1:25pm - 2:25pm |                |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
+| Thu, 2023-04-06 | 1:25pm - 2:25pm |    Yuan Yao             |                                                                      | Vincent 215 |
+| Thu, 2023-04-13 | 1:25pm - 2:25pm |       |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
+| Thu, 2023-04-20 | 1:25pm - 2:25pm |                |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
+| Thu, 2023-04-27 | 1:25pm - 2:25pm |      Franco Vargas Pallete          |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
+| Thu, 2023-05-04 | 1:25pm - 2:25pm |   Georgios Dimitroglou Rizell   |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 
 ## Abstracts
 
@@ -42,3 +42,7 @@ author_profile: false
 
 - Shaoyun Bai
   - We show that for any closed symplectic manifold, the number of fixed points of any non-degenerate Hamiltonian diffeomorphism is bounded from below by a version of integral total Betti number, which takes account of torsions of all characteristics. The proof relies on defining integer-valued counts from moduli spaces of J-holomorphic curves, which are only orbispaces in general. This is joint work with Guangbo Xu.
+
+- Chris Wendl
+  As every symplectic topologist learns in Kindergarten, the moduli space of J-holomorphic curves is generically smooth only if one restricts to the open subset of simple curves; the multiple covers are a problem, and they cannot in general be perturbed away. This is a fundamental difficulty in every equivariant Fredholm problem, resulting from the essential incompatibility between transversality and symmetry. Sometimes, however, the symmetry is important and you really don't want to perturb it away -- and it turns out that sometimes, it is possible to achieve transversality anyway, or something almost as nice! In this talk I will present a general method for understanding such issues and illustrate it via two popular examples of equivariant Fredholm problems: (1) closed orbits for a 1-parameter family of contact forms or Hamiltonian structures, and (2) unbranched covers of J-holomorphic curves in a symplectic cobordism with only hyperbolic asymptotic orbits.
+
