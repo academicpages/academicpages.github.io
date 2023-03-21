@@ -104,7 +104,7 @@ Efficient Learning System for Voxel Images
 Although with recent progress, neural networks have on par ability compared to human in natural image. Currently, medical expert are more efficient at abstracting things (or say better representation ability), especially for voxel images. We have done several things to improve that:
 
 1. We believe voxel image should be represent in a continuous form instead of a discrete one (see NeRF). This idea is verified in a super-resolution setting. Submitted to MedIA.
-![](/_publications/2023-SA_INR.png)
+![](/_publications/2023-SAINR.png)
 
 *Spatial Attention-based Implicit Neural Representation for Arbitrary Reduction of MRI Slice Spacing* 
 
@@ -122,6 +122,7 @@ My guess is these medical analysis is a harder problem just like GPTs can not de
 3. 
 We recontruct knee with its surface, representing the joint structure with graph. Accepted by TMI 2022 and MICCAI 2022.
 ![](/_publications/2022-LGF.png)
+
 Local Graph Fusion of Multi-view MR Images for Knee Osteoarthritis Diagnosis (MICCAI 2022)
 
 Z Zhuang, **S Wang**, L Si, K Xuan, Z Xue, D Shen, L Zhang, W Yao, Q Wang
