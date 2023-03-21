@@ -1,0 +1,9 @@
+{
+	"messages": [
+		"Failed to connect to {0}"
+	],
+	"keys": [
+		"failed.to.connect"
+	],
+	"filePath": "src\\SSH\\commandInteractors"
+}

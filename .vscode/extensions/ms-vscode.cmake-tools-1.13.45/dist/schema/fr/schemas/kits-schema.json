@@ -1,0 +1,102 @@
+{
+	"type": "array",
+	"description": "Kits CMake",
+	"items": {
+		"type": "object",
+		"description": "Un kit",
+		"additionalProperties": false,
+		"properties": {
+			"name": {
+				"type": "string",
+				"description": "Nom de ce kit"
+			},
+			"description": {
+				"type": "string",
+				"description": "The description of this kit"
+			},
+			"vendor": {
+				"type": "string",
+				"description": "Nom du fournisseur de ce kit"
+			},
+			"triple": {
+				"type": "string",
+				"description": "Triplet de la cible de ce kit"
+			},
+			"version": {
+				"type": "string",
+				"description": "Version de ce kit"
+			},
+			"versionRuntime": {
+				"type": "string",
+				"description": "Version du runtime C pour le kit"
+			},
+			"keep": {
+				"type": "boolean",
+				"description": "Si la valeur est 'true', ce kit est conservé, même s'il semble obsolète."
+			},
+			"compilers": {
+				"type": "object",
+				"patternProperties": {
+					"\\w+": {
+						"type": "string",
+						"description": "Chemin d'un compilateur pour ce langage"
+					}
+				}
+			},
+			"toolchainFile": {
+				"type": "string",
+				"description": "Chemin d'un fichier de chaîne d'outils"
+			},
+			"visualStudio": {
+				"type": "string",
+				"description": "ID d’instance du produit Visual Studio"
+			},
+			"visualStudioArchitecture": {
+				"type": "string",
+				"description": "Architecture à cibler"
+			},
+			"environmentSetupScript": {
+				"type": "string",
+				"description": "Chemin absolu d'un script qui modifie l'environnement pour le kit"
+			},
+			"environmentVariables": {
+				"type": "object",
+				"patternProperties": {
+					".*": {
+						"type": "string",
+						"description": "Valeur de la variable d'environnement"
+					}
+				}
+			},
+			"cmakeSettings": {
+				"type": "object",
+				"patternProperties": {
+					".*": {
+						"description": "Valeur du paramètre CMake"
+					}
+				}
+			},
+			"preferredGenerator": {
+				"type": "object",
+				"description": "Définir un générateur CMake par défaut pour ce kit",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Nom du générateur à utiliser"
+					},
+					"platform": {
+						"type": "string",
+						"description": "Plateforme CMake pour l'argument -A"
+					},
+					"toolset": {
+						"type": "string",
+						"description": "Ensemble d'outils CMake pour l'argument -T"
+					}
+				},
+				"required": [
+					"name"
+				]
+			}
+		}
+	}
+}

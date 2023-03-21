@@ -1,0 +1,85 @@
+{
+  "name": "socks",
+  "private": false,
+  "version": "2.3.3",
+  "description": "Fully featured SOCKS proxy client supporting SOCKSv4, SOCKSv4a, and SOCKSv5. Includes Bind and Associate functionality.",
+  "main": "build/index.js",
+  "typings": "typings",
+  "homepage": "https://github.com/JoshGlazebrook/socks/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoshGlazebrook/socks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JoshGlazebrook/socks/issues"
+  },
+  "keywords": [
+    "socks",
+    "proxy",
+    "tor",
+    "socks 4",
+    "socks 5",
+    "socks4",
+    "socks5"
+  ],
+  "engines": {
+    "node": ">= 6.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "author": "Josh Glazebrook",
+  "contributors": [
+    "castorw"
+  ],
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "@types/chai": "4.2.4",
+    "@types/ip": "1.1.0",
+    "@types/mocha": "5.2.7",
+    "@types/node": "12.12.6",
+    "chai": "^4.1.2",
+    "coveralls": "^3.0.0",
+    "mocha": "6.2.2",
+    "nyc": "14.1.1",
+    "prettier": "^1.9.2",
+    "socks5-server": "^0.1.1",
+    "ts-node": "8.4.1",
+    "tslint": "^5.8.0",
+    "typescript": "3.7.2"
+  },
+  "dependencies": {
+    "ip": "1.1.5",
+    "smart-buffer": "^4.1.0"
+  },
+  "scripts": {
+    "prepublish": "npm install -g typescript && npm run build",
+    "test": "NODE_ENV=test mocha --recursive --require ts-node/register test/**/*.ts",
+    "coverage": "NODE_ENV=test nyc npm test",
+    "coveralls": "NODE_ENV=test nyc npm test && nyc report --reporter=text-lcov | coveralls",
+    "lint": "tslint --project tsconfig.json 'src/**/*.ts'",
+    "build": "tslint --project tsconfig.json && prettier --write ./src/**/*.ts --config .prettierrc.yaml && tsc -p ."
+  },
+  "nyc": {
+    "extension": [
+      ".ts",
+      ".tsx"
+    ],
+    "include": [
+      "src/*.ts",
+      "src/**/*.ts"
+    ],
+    "exclude": [
+      "**.*.d.ts",
+      "node_modules",
+      "typings"
+    ],
+    "require": [
+      "ts-node/register"
+    ],
+    "reporter": [
+      "json",
+      "html"
+    ],
+    "all": true
+  }
+}

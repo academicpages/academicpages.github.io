@@ -1,0 +1,34 @@
+{
+	"messages": [
+		"Learn how to install a library for this header with vcpkg",
+		"Copy vcpkg command to install '{0}' to the clipboard",
+		"IntelliSense-related commands cannot be executed when `C_Cpp.intelliSenseEngine` is set to `disabled`.",
+		"client not found",
+		"Open a folder first to select a configuration",
+		"Open a folder first to select a configuration provider",
+		"Open a folder first to edit configurations",
+		"Open a folder first to edit configurations",
+		"Open a folder first to edit configurations",
+		"The code analysis fix could not be applied because the document has changed.",
+		"Open a folder first to add to {0}"
+	],
+	"keys": [
+		"learn.how.to.install.a.library",
+		"copy.vcpkg.command",
+		{
+			"key": "on.disabled.command",
+			"comment": [
+				"Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered."
+			]
+		},
+		"client.not.found",
+		"configuration.select.first",
+		"configuration.provider.select.first",
+		"edit.configurations.open.first",
+		"edit.configurations.open.first",
+		"edit.configurations.open.first",
+		"code.action.aborted",
+		"add.includepath.open.first"
+	],
+	"filePath": "src\\LanguageServer\\extension"
+}

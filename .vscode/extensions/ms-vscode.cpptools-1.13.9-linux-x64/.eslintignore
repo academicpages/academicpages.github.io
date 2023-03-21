@@ -1,0 +1,4 @@
+*.js
+test/**/index.ts
+test/**/runTest.ts
+tools/prepublish.js

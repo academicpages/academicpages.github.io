@@ -1,0 +1,1372 @@
+{
+	"type": "object",
+	"description": "사전 설정은 생성기 및 빌드 디렉터리를 지정하며, 필요한 경우 CMake에 전달할 변수 및 기타 인수 목록을 지정합니다.",
+	"required": [
+		"version"
+	],
+	"properties": {
+		"version": {
+			"type": "integer",
+			"description": "JSON 스키마의 버전을 나타내는 필수 정수입니다."
+		},
+		"cmakeMinimumRequired": {
+			"type": "object",
+			"description": "이 프로젝트를 빌드하는 데 필요한 CMake의 최소 버전을 나타내는 선택적 개체입니다.",
+			"properties": {
+				"major": {
+					"type": "integer",
+					"description": "주 버전을 나타내는 선택적 정수입니다."
+				},
+				"minor": {
+					"type": "integer",
+					"description": "부 버전을 나타내는 선택적 정수입니다."
+				},
+				"patch": {
+					"type": "integer",
+					"description": "패치 버전을 나타내는 선택적 정수입니다."
+				}
+			},
+			"additionalProperties": false
+		},
+		"configurePresets": {
+			"type": "array",
+			"description": "구성 사전 설정 개체의 선택적 배열입니다.",
+			"items": {
+				"type": "object",
+				"description": "구성 사전 설정 개체입니다.",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "사전 설정의 머신 친화적 이름을 나타내는 필수 문자열입니다. 이 식별자는 --preset 인수에 사용됩니다. 같은 이름을 가진 동일한 디렉터리에 있는 CMakePresets.json 및 CMakeUserPresets.json의 공용 구조체에는 두 개의 사전 설정이 있을 수 없습니다.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "사전 설정을 숨길지 여부를 지정하는 선택적 부울입니다. 사전 설정이 숨겨진 경우에는 --preset= 인수에 사용할 수 없고, CMake GUI에 표시되지 않으며, 상속에서도 유효한 생성기 또는 binaryDir을 포함할 필요가 없습니다. 숨겨진 사전 설정은 inherits 필드를 통해 상속할 다른 사전 설정의 기준으로 사용해야 합니다."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "상속할 사전 설정의 이름을 나타내는 선택적 문자열입니다.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "상속받을 사전 설정의 이름을 나타내는 문자열의 선택적 배열입니다. 사전 설정은 기본적으로 상속 사전 설정으로부터 모든 필드(name, hidden, inherits, description 및 displayName 제외)를 상속하지만 원하는 대로 재정의할 수 있습니다. 여러 개의 상속 사전 설정이 동일한 필드에 충돌하는 값을 제공하는 경우 상속 목록에서 앞에 있는 사전 설정이 우선 적용됩니다. CMakePresets.json의 사전 설정은 CMakeUserPresets.json의 사전 설정에서 상속하지 않아야 합니다.",
+								"items": {
+									"type": "string",
+									"description": "상속할 사전 설정의 이름을 나타내는 선택적 문자열입니다.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"vendor": {
+						"type": "object",
+						"description": "공급업체별 정보가 포함된 선택적 맵입니다. CMake는 이 필드가 있는 경우 맵인지 확인하는 것을 제외하고 이 필드의 콘텐츠를 해석하지 않습니다. 그러나 이 필드는 루트 수준 공급업체 필드와 동일한 규칙을 따라야 합니다. 공급업체가 고유한 사전 설정별 공급업체 필드를 사용하는 경우 적절한 시기에 적절한 방식으로 상속을 구현해야 합니다.",
+						"properties": {
+							"microsoft.com/VisualStudioSettings/CMake/1.0": {
+								"type": "object",
+								"description": "Visual Studio 설정 공급업체 개체를 나타내는 선택적 개체입니다.",
+								"properties": {
+									"hostOS": {
+										"anyOf": [
+											{
+												"type": "string",
+												"description": "hostOS의 이름을 나타내는 선택적 문자열입니다. 허용되는 값은 Windows, Linux, macOS입니다.",
+												"enum": [
+													"Windows",
+													"Linux",
+													"macOS"
+												]
+											},
+											{
+												"type": "array",
+												"description": "지원되는 호스트 운영 체제 배열입니다. 이 키는 Visual Studio 및 Visual Studio Code에서 활성 대상 시스템 또는 호스트 OS에 적용되지 않는 미리 설정을 숨기는 데 사용됩니다. 허용되는 값은 Windows, Linux, macOS입니다.",
+												"items": {
+													"type": "string",
+													"description": "hostOS의 이름을 나타내는 선택적 문자열입니다. 허용되는 값은 Windows, Linux, macOS입니다.",
+													"enum": [
+														"Windows",
+														"Linux",
+														"macOS"
+													]
+												}
+											}
+										]
+									},
+									"intelliSenseMode": {
+										"type": "string",
+										"description": "기본 설정 IntelliSense 모드를 나타내는 선택적 키입니다. Visual Studio 및 Visual Studio Code에서 IntelliSense 정보를 계산하는 데 사용되는 모드입니다.",
+										"enum": [
+											"windows-msvc-x86",
+											"windows-msvc-x64",
+											"windows-msvc-arm",
+											"windows-msvc-arm64",
+											"android-clang-x86",
+											"android-clang-x64",
+											"android-clang-arm",
+											"android-clang-arm64",
+											"ios-clang-x86",
+											"ios-clang-x64",
+											"ios-clang-arm",
+											"ios-clang-arm64",
+											"windows-clang-x86",
+											"windows-clang-x64",
+											"windows-clang-arm",
+											"windows-clang-arm64",
+											"linux-gcc-x86",
+											"linux-gcc-x64",
+											"linux-gcc-arm"
+										]
+									},
+									"intelliSenseOptions": {
+										"type": "object",
+										"description": "고급 IntelliSense 설정을 구성하는 데 사용되는 선택적 개체입니다.",
+										"properties": {
+											"useCompilerDefaults": {
+												"type": "boolean",
+												"default": true,
+												"description": "IntelliSense에 컴파일러의 기본 정의 및 포함 경로를 사용할지 여부를 지정합니다. 사용 중인 컴파일러가 gcc 스타일 인수를 지원하지 않는 경우에만 false여야 합니다."
+											},
+											"additionalCompilerArgs": {
+												"anyOf": [
+													{
+														"type": "string",
+														"default": "empty"
+													},
+													{
+														"type": "array",
+														"description": "Visual Studio에서 IntelliSense를 제어하는 추가 옵션 배열입니다.",
+														"items": {
+															"type": "string"
+														}
+													}
+												]
+											}
+										}
+									},
+									"enableMicrosoftCodeAnalysis": {
+										"type": "boolean",
+										"description": "cl 또는 clang-cl을 사용하여 빌드할 때 Visual Studio에서 Microsoft 코드 분석을 사용합니다."
+									},
+									"codeAnalysisRuleset": {
+										"type": "string",
+										"description": "Visual Studio에서 Microsoft 코드 분석을 실행할 때 사용할 규칙 집합입니다. 규칙 집합 파일의 경로 또는 Visual Studio와 함께 설치된 규칙 집합 파일의 이름일 수 있습니다."
+									},
+									"enableClangTidyCodeAnalysis": {
+										"type": "boolean",
+										"description": "clang-cl을 사용하여 빌드할 때 Visual Studio에서 clang-tidy 코드 분석을 사용합니다."
+									},
+									"clangTidyChecks": {
+										"type": "string",
+										"description": "Visual Studio에서 clang-tidy 코드 분석을 실행할 때 clang-tidy로 전달되는 쉼표로 구분된 경고 목록입니다. 와일드카드가 허용됩니다. '-' 접두사를 사용하면 검사가 제거됩니다."
+									},
+									"cacheRoot": {
+										"type": "string",
+										"description": "CMake 캐시의 경로입니다. 이 디렉터리에는 기존 CMakeCache.txt 파일이 있어야 합니다. 이 키는 Visual Studio의 \"기존 캐시 열기\" 시나리오에서만 지원됩니다."
+									},
+									"cmakeGenerateCommand": {
+										"type": "string",
+										"description": "CMake 캐시를 생성하는 명령줄 도구입니다(명령줄 프로그램 + 인수로 지정됨, 예: \"gencache.bat debug\"). 이 명령은 캐시 생성이 호출되면 사전 설정 환경의 셸에서 실행됩니다. 이 키는 Visual Studio의 \"기존 캐시 열기\" 시나리오에서만 지원됩니다."
+									}
+								}
+							},
+							"microsoft.com/VisualStudioRemoteSettings/CMake/1.0": {
+								"type": "object",
+								"description": "Visual Studio 원격 설정 공급업체 개체를 나타내는 선택적 개체입니다.",
+								"properties": {
+									"sourceDir": {
+										"type": "string",
+										"default": "$env{HOME}/.vs/${sourceDirName}",
+										"description": "프로젝트를 복사할 원격 시스템 또는 WSL2 설치의 디렉터리 경로입니다."
+									},
+									"copySources": {
+										"type": "boolean",
+										"default": "true",
+										"description": "true인 경우 Visual Studio는 Windows의 소스를 원격 시스템으로 복사합니다. 파일 동기화를 직접 관리하는 경우 false로 설정하세요."
+									},
+									"copySourcesOptions": {
+										"type": "object",
+										"description": "Windows에서 원격 시스템으로의 소스 복사와 관련된 설정 개체입니다.",
+										"properties": {
+											"exclusionList": {
+												"type": "array",
+												"default": "[ \".vs\", \".git\", \"out\"]",
+												"description": "소스 파일을 원격 시스템으로 복사할 때 제외할 경로 목록입니다. 경로는 파일 또는 디렉터리의 이름이거나 복사본의 루트에 대해 상대적인 경로일 수 있습니다.",
+												"items": {
+													"type": "string"
+												}
+											},
+											"method": {
+												"type": "string",
+												"default": "rsync",
+												"description": "소스 파일을 원격 시스템으로 복사하는 데 사용되는 방법입니다. 허용되는 값은 rsync 및 sftp입니다."
+											},
+											"concurrentCopies": {
+												"type": "integer",
+												"default": 5,
+												"description": "소스를 원격 시스템으로 동기화할 때 사용되는 동시 복사본의 개수입니다."
+											},
+											"outputVerbosity": {
+												"type": "string",
+												"default": "Normal",
+												"description": "원격 시스템으로의 소스 복사 작업의 세부 정보 표시 수준입니다. 허용되는 수준은 보통, 자세히, 진단입니다.",
+												"enum": [
+													"Normal",
+													"Verbose",
+													"Diagnostic"
+												]
+											}
+										}
+									},
+									"rsyncCommandArgs": {
+										"type": "array",
+										"default": "[\"-t\", \"--delete\", \"--delete-excluded\"]",
+										"description": "rsync에 전달된 추가 명령줄 인수 목록입니다.",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyBuildOutput": {
+										"type": "boolean",
+										"default": false,
+										"description": "원격 시스템에서 Windows로 다시 빌드 출력을 복사할지 여부를 지정합니다."
+									},
+									"copyOptimizations": {
+										"type": "object",
+										"description": "소스 복사 최적화와 관련된 설정 개체입니다.",
+										"properties": {
+											"maxSmallChange": {
+												"type": "integer",
+												"default": 10,
+												"description": "rsync 대신 SFTP를 사용하여 복사할 파일의 최대 개수입니다."
+											},
+											"useOptimizations": {
+												"type": "string",
+												"default": "RsyncAndSftp",
+												"description": "복사 최적화 없음(\"None\"), rsync 전용 최적화(\"RsyncOnly\") 또는 rsync 및 SFTP 최적화(\"RsyncAndSftp\")를 선택하세요.",
+												"enum": [
+													"None",
+													"RsyncOnly",
+													"RsyncAndSftp"
+												]
+											},
+											"rsyncSingleDirectoryCommandArgs": {
+												"type": "array",
+												"default": "[\"-t\", \"-d\"]",
+												"description": "단일 디렉터리의 콘텐츠를 원격 시스템으로 복사할 때 rsync에 전달되는 추가 명령줄 인수 목록입니다.",
+												"items": {
+													"type": "string"
+												}
+											}
+										}
+									},
+									"copyAdditionalIncludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "IntelliSense에 대해 로컬로 복사할 원격 헤더 디렉터리 경로 목록입니다.",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyExcludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "IntelliSense에 대해 로컬로 복사하지 않을 원격 헤더 디렉터리 경로 목록입니다.",
+										"items": {
+											"type": "string"
+										}
+									},
+									"forceWSL1Toolset": {
+										"type": "boolean",
+										"default": false,
+										"description": "true이면 Visual Studio는 Visual Studio에서 WSL을 대상으로 지정할 때 항상 WSL1 도구 세트를 사용합니다. WSL1 도구 세트는 모든 명령을 로컬로 실행하고 /mnt 폴더 아래에 마운트된 Windows 드라이브를 사용하여 WSL의 로컬 소스 파일에 액세스합니다. 이 작업은 WSL2를 사용하는 경우 느려질 수 있습니다."
+									}
+								}
+							}
+						}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "사전 설정의 사용자 친화적 이름이 포함된 선택적 문자열입니다."
+					},
+					"description": {
+						"type": "string",
+						"description": "사전 설정의 사용자 친화적 설명이 포함된 선택적 문자열입니다."
+					},
+					"generator": {
+						"type": "string",
+						"description": "사전 설정에 사용할 생성기를 나타내는 선택적 문자열입니다. 생성기를 지정하지 않으면 일반 생설기 검색 절차가 사용됩니다. Visual Studio 생성기의 경우 명령줄 -G 인수와 달리 생성기 이름에 플랫폼 이름을 포함할 수 없습니다. 대신 아키텍처 필드를 사용하세요."
+					},
+					"architecture": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "해당 플랫폼을 지원하는 생성자에 대해 플랫폼을 나타내는 선택적 문자열입니다."
+							},
+							{
+								"type": "object",
+								"description": "해당 플랫폼을 지원하는 생성자에 대해 플랫폼을 나타내는 선택적 개체입니다.",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "값을 나타내는 선택적 문자열입니다."
+									},
+									"strategy": {
+										"type": "string",
+										"description": "CMake에 필드를 처리하는 방법을 알려 주는 선택적 문자열입니다. 유효한 값은 다음과 같습니다. \"set\" - 해당 값을 설정합니다. 그러면 해당 필드를 지원하지 않는 생성자에서 오류가 발생합니다. \"external\" - 값을 설정하지 않습니다. 생성기에서 지원하는 경우에도 마찬가지입니다. 이는 사전 설정이 Ninja 생성기를 사용하고, IDE가 아키텍처 및 도구 세트 필드에서 Visual C++ 환경을 설정하는 방법을 알고 있는 경우에 유용합니다. 이 경우 CMake는 이 필드를 무시하지만 IDE는 CMake를 호출하기 전에 이 필드를 사용하여 환경을 설정할 수 있습니다.",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"toolset": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "해당 도구 세트를 지원하는 생성자에 대해 도구 세트를 나타내는 선택적 문자열입니다."
+							},
+							{
+								"type": "object",
+								"description": "해당 도구 세트를 지원하는 생성자에 대해 도구 세트를 나타내는 선택적 개체입니다.",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "값을 나타내는 선택적 문자열입니다."
+									},
+									"strategy": {
+										"type": "string",
+										"description": "CMake에 필드를 처리하는 방법을 알려 주는 선택적 문자열입니다. 유효한 값은 다음과 같습니다. \"set\" - 해당 값을 설정합니다. 그러면 해당 필드를 지원하지 않는 생성자에서 오류가 발생합니다. \"external\" - 값을 설정하지 않습니다. 생성기에서 지원하는 경우에도 마찬가지입니다. 이는 사전 설정이 Ninja 생성기를 사용하고, IDE가 아키텍처 및 도구 세트 필드에서 Visual C++ 환경을 설정하는 방법을 알고 있는 경우에 유용합니다. 이 경우 CMake는 이 필드를 무시하지만 IDE는 CMake를 호출하기 전에 이 필드를 사용하여 환경을 설정할 수 있습니다.",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"binaryDir": {
+						"type": "string",
+						"description": "출력 이진 디렉터리의 경로를 나타내는 선택적 문자열입니다. 이 필드는 매크로 확장을 지원합니다. 상대 경로가 지정되면 원본 디렉터리를 기준으로 계산됩니다. binaryDir이 지정되지 않은 경우 경로는 일반 방법을 사용하여 계산됩니다."
+					},
+					"cmakeExecutable": {
+						"type": "string",
+						"description": "이 사전 설정에 사용할 CMake 실행 파일의 경로를 나타내는 선택적 문자열입니다. 이 문자열은 IDE에서 사용하도록 예약되어 있으며 CMake 자체에서 사용되지 않습니다. 이 필드를 사용하는 IDE는 여기에 있는 모든 매크로를 확장해야 합니다."
+					},
+					"cacheVariables": {
+						"type": "object",
+						"description": "캐시 변수의 선택적 맵입니다. 키는 변수 이름입니다(빈 문자열일 수 없음). 캐시 변수는 inherits 필드를 통해 상속되며, 사전 설정의 변수는 자체 cacheVariables 및 모든 부모에 있는 cacheVariables의 공용 구조체가 됩니다. 이 공용 구조체에 있는 여러 개의 사전 설정이 동일한 변수를 정의하는 경우 상속의 표준 규칙이 적용됩니다.",
+						"properties": {
+							"CMAKE_C_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "C에 사용할 컴파일러입니다."
+									},
+									{
+										"type": "null",
+										"description": "변수를 null로 설정하면 다른 사전 설정에서 값을 상속한 경우에도 변수가 설정되지 않습니다."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_CXX_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "C++에 사용할 컴파일러입니다."
+									},
+									{
+										"type": "null",
+										"description": "변수를 null로 설정하면 다른 사전 설정에서 값을 상속한 경우에도 변수가 설정되지 않습니다."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_INSTALL_PREFIX": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "CMake에서 사용하는 디렉터리를 설치합니다. 사전 설정 버전 3 이상을 사용할 때 \"installDir\" 속성을 대신 사용하세요."
+									},
+									{
+										"type": "null",
+										"description": "변수를 null로 설정하면 다른 사전 설정에서 값을 상속한 경우에도 변수가 설정되지 않습니다."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_TOOLCHAIN_FILE": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "CMake에 전달된 도구 체인 파일입니다. 사전 설정 버전 3 이상을 사용할 때 \"toolchainFile\" 속성을 대신 사용하세요."
+									},
+									{
+										"type": "null",
+										"description": "변수를 null로 설정하면 다른 사전 설정에서 값을 상속한 경우에도 변수가 설정되지 않습니다."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_BUILD_TYPE": {
+								"description": "단일 구성 생성기에서 빌드 형식을 지정합니다.",
+								"anyOf": [
+									{
+										"type": "string",
+										"enum": [
+											"Debug",
+											"Release",
+											"RelWithDebInfo",
+											"MinSizeRel"
+										]
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									},
+									{
+										"type": "string"
+									},
+									{
+										"type": "null",
+										"description": "변수를 null로 설정하면 다른 사전 설정에서 값을 상속한 경우에도 변수가 설정되지 않습니다."
+									}
+								]
+							}
+						},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "변수를 null로 설정하면 다른 사전 설정에서 값을 상속한 경우에도 변수가 설정되지 않습니다."
+								},
+								{
+									"type": "boolean",
+									"description": "변수의 값을 나타내는 부울입니다. \"TRUE\" 또는 \"FALSE\"와 동일합니다."
+								},
+								{
+									"type": "string",
+									"description": "매크로 확장을 지원하는 변수 값을 나타내는 문자열입니다."
+								},
+								{
+									"type": "object",
+									"description": "변수의 형식 및 값을 나타내는 개체입니다.",
+									"properties": {
+										"type": {
+											"type": "string",
+											"description": "변수의 형식을 나타내는 선택적 문자열입니다. BOOL, FILEPATH, PATH, STRING 또는 INTERNAL이어야 합니다."
+										},
+										"value": {
+											"anyOf": [
+												{
+													"type": "boolean",
+													"description": "변수의 값을 나타내는 필수 부울입니다. \"TRUE\" 또는 \"FALSE\"와 동일합니다."
+												},
+												{
+													"type": "string",
+													"description": "변수 값을 나타내는 필수 문자열입니다. 이 필드는 매크로 확장을 지원합니다."
+												}
+											]
+										}
+									},
+									"required": [
+										"value"
+									],
+									"additionalProperties": false
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"environment": {
+						"type": "object",
+						"description": "환경 변수의 선택적 맵입니다. 키는 변수 이름입니다(빈 문자열일 수 없음). 프로세스 환경에서 변수에 값을 지정했는지 여부와 관계없이 각 변수가 설정됩니다. 이 필드는 매크로 확장을 지원하며, 이 맵의 환경 변수는 서로를 참조할 수 있고 해당 참조가 순환을 발생시키지 않는다면(예를 들어 ENV_1이 is $env{ENV_2}인 경우 ENV_2가 $env{ENV_1}일 수 없음) 순서와 관계없이 나열될 수 있습니다. 환경 변수는 inherits 필드를 통해 상속되며, 사전 설정 환경은 자체 환경 및 모든 부모에 있는 환경의 공용 구조체가 됩니다. 이 공용 구조체에 있는 여러 개의 사전 설정이 동일한 변수를 정의하는 경우 상속의 표준 규칙이 적용됩니다. 변수를 null로 설정하면 값이 다른 사전 설정에서 상속된 경우에도 변수가 설정되지 않습니다.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "변수를 null로 설정하면 다른 사전 설정에서 값을 상속한 경우에도 변수가 설정되지 않습니다."
+								},
+								{
+									"type": "string",
+									"description": "변수 값을 나타내는 문자열입니다."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"warnings": {
+						"type": "object",
+						"description": "경고를 지정하는 선택적 개체입니다.",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "선택적 부울입니다. 명령줄에서 -Wdev 또는 -Wno-dev를 전달하는 것과 같습니다. errors.dev가 true로 설정되면 이 값을 false로 설정할 수 없습니다."
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "선택적 부울입니다. 명령줄에서 -Wdeprecated 또는 -Wno-deprecated를 전달하는 것과 같습니다. errors.deprecated가 true로 설정되면 이 값을 false로 설정할 수 없습니다."
+							},
+							"uninitialized": {
+								"type": "boolean",
+								"description": "선택적 부울입니다. 이 값을 true로 설정하는 것은 명령줄에서 --warn-uninitialized를 전달하는 것과 같습니다."
+							},
+							"unusedCli": {
+								"type": "boolean",
+								"description": "선택적 부울입니다. 이 값을 false로 설정하는 것은 명령줄에서 --no-warn-unused-cli를 전달하는 것과 같습니다."
+							},
+							"systemVars": {
+								"type": "boolean",
+								"description": "선택적 부울입니다. 이 값을 true로 설정하는 것은 명령줄에서 --check-system-vars를 전달하는 것과 같습니다."
+							}
+						},
+						"additionalProperties": false
+					},
+					"errors": {
+						"type": "object",
+						"description": "오류를 지정하는 선택적 개체입니다.",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "선택적 부울입니다. 명령줄에서 -Werror=dev 또는 -Wno-error=dev를 전달하는 것과 같습니다. warnings.dev가 false로 설정되면 이 값을 true로 설정할 수 없습니다."
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "선택적 부울입니다. 명령줄에서 -Werror=deprecated 또는 -Wno-error=deprecated를 전달하는 것과 같습니다. warnings.deprecated가 false로 설정되면 이 값을 true로 설정할 수 없습니다."
+							}
+						},
+						"additionalProperties": false
+					},
+					"debug": {
+						"type": "object",
+						"description": "디버그 옵션을 지정하는 선택적 개체입니다.",
+						"properties": {
+							"output": {
+								"type": "boolean",
+								"description": "선택적 부울입니다. 이 값을 true로 설정하는 것은 명령줄에서 --debug-output을 전달하는 것과 동일합니다."
+							},
+							"tryCompile": {
+								"type": "boolean",
+								"description": "선택적 부울입니다. 이 값을 true로 설정하는 것은 명령줄에서 --debug-trycompile을 전달하는 것과 동일합니다."
+							},
+							"find": {
+								"type": "boolean",
+								"description": "선택적 부울입니다. 이 값을 true로 설정하는 것은 명령줄에서 --debug-find를 전달하는 것과 동일합니다."
+							}
+						},
+						"additionalProperties": false
+					},
+					"installDir": {
+						"type": "string",
+						"description": "설치 디렉터리의 경로를 나타내는 선택적 문자열입니다. 이 필드는 매크로 확장을 지원합니다. 상대 경로가 지정되면 원본 디렉터리를 기준으로 계산됩니다."
+					},
+					"toolchainFile": {
+						"type": "string",
+						"description": "도구 체인 파일의 경로를 나타내는 선택적 문자열입니다. 이 필드는 매크로 확장을 지원합니다. 상대 경로가 지정되면 빌드 디렉터리를 기준으로 계산되고, 찾을 수 없으면 원본 디렉터리를 기준으로 계산됩니다."
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"buildPresets": {
+			"type": "array",
+			"description": "빌드 사전 설정 개체의 선택적 배열입니다. cmake -build에 대한 인수를 지정하는 데 사용됩니다. 버전 2 이상에서 사용할 수 있습니다.",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "사전 설정의 머신 친화적 이름을 나타내는 필수 문자열입니다. 이 식별자는 --preset 인수에 사용됩니다. 같은 이름을 가진 동일한 디렉터리에 있는 CMakePresets.json 및 CMakeUserPresets.json의 공용 구조체에는 두 개의 사전 설정(구성, 빌드 또는 테스트)이 있을 수 없습니다.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "사전 설정을 숨길지 여부를 지정하는 선택적 부울입니다. 사전 설정이 숨겨진 경우에는 --preset 인수에 사용할 수 없고, CMake GUI에 표시되지 않으며, 상속에서도 유효한 configurePreset을 포함할 필요가 없습니다. 숨겨진 사전 설정은 inherits 필드를 통해 상속할 다른 사전 설정의 기준으로 사용해야 합니다."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "상속받을 빌드 사전 설정의 이름을 나타내는 선택적 문자열입니다.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "상속받을 빌드 사전 설정의 이름을 나타내는 문자열의 선택적 배열입니다. 사전 설정은 기본적으로 상속 사전 설정으로부터 모든 필드(name, hidden, inherits, description 및 displayName 제외)를 상속하지만 원하는 대로 재정의할 수 있습니다. 여러 개의 상속 사전 설정이 동일한 필드에 충돌하는 값을 제공하는 경우 상속 목록에서 앞에 있는 사전 설정이 우선 적용됩니다. CMakePresets.json의 사전 설정은 CMakeUserPresets.json의 사전 설정에서 상속하지 않아야 합니다.",
+								"items": {
+									"type": "string",
+									"description": "상속할 사전 설정의 이름을 나타내는 선택적 문자열입니다.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "이 빌드 사전 설정에 연결할 구성 사전 설정의 이름을 지정하는 선택적 문자열입니다. configurePreset이 지정되지 않은 경우 (이 사전 설정이 숨겨져 있지 않은 이상) 상속 사전 설정에서 상속해야 합니다. 구성 사전 설정에서 빌드 트리 디렉터리가 유추됩니다.",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "공급업체별 정보가 포함된 선택적 맵입니다. CMake는 이 필드가 있는 경우 맵인지 확인하는 것을 제외하고 이 필드의 콘텐츠를 해석하지 않습니다. 그러나 이 필드는 루트 수준 공급업체 필드와 동일한 규칙을 따라야 합니다. 공급업체가 고유한 사전 설정별 공급업체 필드를 사용하는 경우 적절한 시기에 적절한 방식으로 상속을 구현해야 합니다.",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "사전 설정의 사용자 친화적 이름이 포함된 선택적 문자열입니다."
+					},
+					"description": {
+						"type": "string",
+						"description": "사전 설정의 사용자 친화적 설명이 포함된 선택적 문자열입니다."
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "기본값인 true인 선택적 부울입니다. true인 경우 연결된 구성 사전 설정의 환경 변수는 상속된 모든 빌드 사전 설정 환경 뒤와 이 빌드 사전 설정에 명시적으로 지정된 환경 변수 앞에 상속됩니다."
+					},
+					"environment": {
+						"type": "object",
+						"description": "환경 변수의 선택적 맵입니다. 키는 변수 이름입니다(빈 문자열일 수 없음). 프로세스 환경에서 변수에 값을 지정했는지 여부와 관계없이 각 변수가 설정됩니다. 이 필드는 매크로 확장을 지원하며, 이 맵의 환경 변수는 서로를 참조할 수 있고 해당 참조가 순환을 발생시키지 않는다면(예를 들어 ENV_1이 is $env{ENV_2}인 경우 ENV_2가 $env{ENV_1}일 수 없음) 순서와 관계없이 나열될 수 있습니다. 환경 변수는 inherits 필드를 통해 상속되며, 사전 설정 환경은 자체 환경 및 모든 부모에 있는 환경의 공용 구조체가 됩니다. 이 공용 구조체에 있는 여러 개의 사전 설정이 동일한 변수를 정의하는 경우 상속의 표준 규칙이 적용됩니다. 변수를 null로 설정하면 값이 다른 사전 설정에서 상속된 경우에도 변수가 설정되지 않습니다.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "변수를 null로 설정하면 다른 사전 설정에서 값을 상속한 경우에도 변수가 설정되지 않습니다."
+								},
+								{
+									"type": "string",
+									"description": "변수 값을 나타내는 문자열입니다."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"jobs": {
+						"type": "integer",
+						"description": "선택적 정수입니다. 명령줄에서 --parallel 또는 -j를 전달하는 것과 동일합니다."
+					},
+					"targets": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "선택적 문자열입니다. 명령줄에서 -target 또는 -t를 전달하는 것과 같습니다. 공급업체는 대상 속성을 무시하거나 대상을 명시적으로 지정하는 빌드 사전 설정을 숨길 수 있습니다."
+							},
+							{
+								"type": "array",
+								"description": "문자열의 선택적 배열입니다. 명령줄에서 --target 또는 -t를 전달하는 것과 동일합니다. 공급업체는 대상 속성을 무시하거나 대상을 명시적으로 지정하는 빌드 사전 설정을 숨길 수 있습니다.",
+								"items": {
+									"type": "string",
+									"description": "선택적 문자열입니다. 명령줄에서 -target 또는 -t를 전달하는 것과 같습니다. 공급업체는 대상 속성을 무시하거나 대상을 명시적으로 지정하는 빌드 사전 설정을 숨길 수 있습니다."
+								}
+							}
+						]
+					},
+					"configuration": {
+						"type": "string",
+						"description": "선택적 문자열입니다. 명령줄에서 --config를 전달하는 것과 동일합니다."
+					},
+					"cleanFirst": {
+						"type": "boolean",
+						"description": "선택적 부울입니다. true인 경우 명령줄에서 --clean-first를 전달하는 것과 같습니다."
+					},
+					"resolvePackageReferences": {
+						"type": "string",
+						"description": "패키지 해결 동작을 지정하는 선택적 문자열입니다. 유효한 값은 \"on\"(패키지가 빌드 전에 확인됨), \"off\"(패키지가 빌드 전에 확인되지 않음) 및 \"only\"(패키지가 확인되었지만 빌드가 수행되지 않음)입니다.",
+						"enum": [
+							"on",
+							"off",
+							"only"
+						]
+					},
+					"verbose": {
+						"type": "boolean",
+						"description": "선택적 부울입니다. true인 경우 명령줄에서 --verbose를 전달하는 것과 같습니다."
+					},
+					"nativeToolOptions": {
+						"type": "array",
+						"description": "문자열의 선택적 배열입니다. 명령줄에서 -- 뒤에 옵션을 전달하는 것과 동일합니다.",
+						"items": {
+							"type": "string",
+							"description": "명령줄에서 -- 뒤에 전달할 옵션을 나타내는 선택적 문자열입니다."
+						}
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"testPresets": {
+			"type": "array",
+			"description": "테스트 사전 설정 개체의 선택적 배열입니다. ctest에 대한 인수를 지정하는 데 사용됩니다. 버전 2 이상에서 사용할 수 있습니다.",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "사전 설정의 머신 친화적 이름을 나타내는 필수 문자열입니다. 이 식별자는 --preset 인수에 사용됩니다. 같은 이름을 가진 동일한 디렉터리에 있는 CMakePresets.json 및 CMakeUserPresets.json의 공용 구조체에는 두 개의 사전 설정(구성, 빌드 또는 테스트)이 있을 수 없습니다.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "사전 설정을 숨길지 여부를 지정하는 선택적 부울입니다. 사전 설정이 숨겨진 경우에는 --preset 인수에 사용할 수 없고, CMake GUI에 표시되지 않으며, 상속에서도 유효한 configurePreset을 포함할 필요가 없습니다. 숨겨진 사전 설정은 inherits 필드를 통해 상속할 다른 사전 설정의 기준으로 사용해야 합니다."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "상속받을 테스트 사전 설정의 이름을 나타내는 선택적 문자열입니다.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "상속받을 테스트 사전 설정의 이름을 나타내는 문자열의 선택적 배열입니다. 사전 설정은 기본적으로 상속 사전 설정으로부터 모든 필드(name, hidden, inherits, description 및 displayName 제외)를 상속하지만 원하는 대로 재정의할 수 있습니다. 여러 개의 상속 사전 설정이 동일한 필드에 충돌하는 값을 제공하는 경우 상속 목록에서 앞에 있는 사전 설정이 우선 적용됩니다. CMakePresets.json의 사전 설정은 CMakeUserPresets.json의 사전 설정에서 상속하지 않아야 합니다.",
+								"items": {
+									"type": "string",
+									"description": "상속할 사전 설정의 이름을 나타내는 선택적 문자열입니다.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "이 테스트 사전 설정에 연결할 구성 사전 설정의 이름을 지정하는 선택적 문자열입니다. configurePreset이 지정되지 않은 경우 (이 사전 설정이 숨겨져 있지 않은 이상) 상속 사전 설정에서 상속해야 합니다. 구성 사전 설정에서 빌드 트리 디렉터리가 유추됩니다.",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "공급업체별 정보가 포함된 선택적 맵입니다. CMake는 이 필드가 있는 경우 맵인지 확인하는 것을 제외하고 이 필드의 콘텐츠를 해석하지 않습니다. 그러나 이 필드는 루트 수준 공급업체 필드와 동일한 규칙을 따라야 합니다. 공급업체가 고유한 사전 설정별 공급업체 필드를 사용하는 경우 적절한 시기에 적절한 방식으로 상속을 구현해야 합니다.",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "사전 설정의 사용자 친화적 이름이 포함된 선택적 문자열입니다."
+					},
+					"description": {
+						"type": "string",
+						"description": "사전 설정의 사용자 친화적 설명이 포함된 선택적 문자열입니다."
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "기본값인 true인 선택적 부울입니다. true인 경우 연결된 구성 사전 설정의 환경 변수는 상속된 모든 테스트 사전 설정 환경 뒤와 이 테스트 사전 설정에 명시적으로 지정된 환경 변수 앞에 상속됩니다."
+					},
+					"environment": {
+						"type": "object",
+						"description": "환경 변수의 선택적 맵입니다. 키는 변수 이름입니다(빈 문자열일 수 없음). 프로세스 환경에서 변수에 값을 지정했는지 여부와 관계없이 각 변수가 설정됩니다. 이 필드는 매크로 확장을 지원하며, 이 맵의 환경 변수는 서로를 참조할 수 있고 해당 참조가 순환을 발생시키지 않는다면(예를 들어 ENV_1이 is $env{ENV_2}인 경우 ENV_2가 $env{ENV_1}일 수 없음) 순서와 관계없이 나열될 수 있습니다. 환경 변수는 inherits 필드를 통해 상속되며, 사전 설정 환경은 자체 환경 및 모든 부모에 있는 환경의 공용 구조체가 됩니다. 이 공용 구조체에 있는 여러 개의 사전 설정이 동일한 변수를 정의하는 경우 상속의 표준 규칙이 적용됩니다. 변수를 null로 설정하면 값이 다른 사전 설정에서 상속된 경우에도 변수가 설정되지 않습니다.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "변수를 null로 설정하면 다른 사전 설정에서 값을 상속한 경우에도 변수가 설정되지 않습니다."
+								},
+								{
+									"type": "string",
+									"description": "변수 값을 나타내는 문자열입니다."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"configuration": {
+						"type": "string",
+						"description": "선택적 문자열입니다. 명령줄에서 --build-config를 전달하는 것과 동일합니다."
+					},
+					"overwriteConfigurationFile": {
+						"type": "array",
+						"description": "CTest 구성 파일에 지정된 옵션을 덮어쓸 구성 옵션의 선택적 배열입니다. 배열의 각 값에 대해 ``--overwrite``를 전달하는 것과 동일합니다.",
+						"items": {
+							"type": "string",
+							"description": "\"key = value\" 형식의 키-값 쌍으로 쓰인 옵션입니다."
+						}
+					},
+					"output": {
+						"type": "object",
+						"description": "출력 옵션을 지정하는 선택적 개체입니다.",
+						"properties": {
+							"shortProgress": {
+								"type": "boolean",
+								"description": "선택적 부울입니다. true인 경우 명령줄에서 --progress를 전달하는 것과 같습니다."
+							},
+							"verbosity": {
+								"type": "string",
+								"description": "세부 정보 표시 수준을 지정하는 선택적 문자열입니다. 유효한 값은 \"default\"(명령줄에서 세부 정보 표시 플래그를 전달하지 않는 것과 동일), \"verbose\"(명령줄에서 --verbose를 전달하는 것과 동일), \"extra\"(명령줄에서 --extra-verbose를 전달하는 것과 동일)입니다.",
+								"enum": [
+									"default",
+									"verbose",
+									"extra"
+								]
+							},
+							"debug": {
+								"type": "boolean",
+								"description": "선택적 부울입니다. true인 경우 명령줄에서 --debug를 전달하는 것과 같습니다."
+							},
+							"outputOnFailure": {
+								"type": "boolean",
+								"description": "선택적 부울입니다. true인 경우 명령줄에서 --output-on-failure를 전달하는 것과 같습니다."
+							},
+							"quiet": {
+								"type": "boolean",
+								"description": "선택적 부울입니다. true인 경우 명령줄에서 --quiet을 전달하는 것과 같습니다."
+							},
+							"outputLogFile": {
+								"type": "string",
+								"description": "로그 파일의 경로를 지정하는 선택적 문자열입니다. 명령줄에서 --output-log를 전달하는 것과 동일합니다."
+							},
+							"labelSummary": {
+								"type": "boolean",
+								"description": "선택적 부울입니다. false인 경우 명령줄에서 --no-label-summary를 전달하는 것과 같습니다."
+							},
+							"subprojectSummary": {
+								"type": "boolean",
+								"description": "선택적 부울입니다. false인 경우 명령줄에서 --no-subproject-summary를 전달하는 것과 같습니다."
+							},
+							"maxPassedTestOutputSize": {
+								"type": "integer",
+								"description": "통과한 테스트의 최대 출력을 바이트 단위로 지정하는 선택적 정수입니다. 명령줄에서 --test-output-size-passed를 전달하는 것과 동일합니다."
+							},
+							"maxFailedTestOutputSize": {
+								"type": "integer",
+								"description": "실패한 테스트의 최대 출력을 바이트 단위로 지정하는 선택적 인수입니다. 명령줄에서 --test-output-size-failed를 전달하는 것과 동일합니다."
+							},
+							"maxTestNameWidth": {
+								"type": "integer",
+								"description": "출력할 테스트 이름의 최대 너비를 지정하는 선택적 인수입니다. 명령줄에서 --max-width를 전달하는 것과 동일합니다."
+							}
+						},
+						"additionalProperties": false
+					},
+					"filter": {
+						"type": "object",
+						"description": "실행할 테스트를 필터링하는 방법을 지정하는 선택적 개체입니다.",
+						"properties": {
+							"include": {
+								"type": "object",
+								"description": "포함할 테스트를 지정하는 선택적 개체입니다.",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "테스트 이름의 regex를 지정하는 선택적 문자열입니다. 명령줄에서 --tests-regex를 전달하는 것과 동일합니다."
+									},
+									"label": {
+										"type": "string",
+										"description": "테스트 레이블의 regex를 지정하는 선택적 문자열입니다. 명령줄에서 --label-regex를 전달하는 것과 동일합니다."
+									},
+									"index": {
+										"anyOf": [
+											{
+												"type": "object",
+												"description": "테스트 인덱스를 기준으로 포함할 테스트를 지정하는 선택적 개체입니다.",
+												"properties": {
+													"start": {
+														"type": "integer",
+														"description": "테스트를 시작할 테스트 인덱스를 지정하는 선택적 정수입니다."
+													},
+													"end": {
+														"type": "integer",
+														"description": "테스트를 중지할 테스트 인덱스를 지정하는 선택적 정수입니다."
+													},
+													"stride": {
+														"type": "integer",
+														"description": "증분을 지정하는 선택적 정수입니다."
+													},
+													"specificTests": {
+														"type": "array",
+														"description": "실행할 특정 테스트 인덱스를 지정하는 정수의 선택적 배열입니다.",
+														"items": {
+															"type": "integer",
+															"description": "인덱스별로 실행할 테스트를 지정하는 정수입니다."
+														}
+													}
+												},
+												"additionalProperties": false
+											},
+											{
+												"type": "string",
+												"description": "--tests-information에 대한 명령줄 구문으로 파일을 지정하는 선택적 문자열입니다."
+											}
+										]
+									},
+									"useUnion": {
+										"type": "boolean",
+										"description": "선택적 부울입니다. 명령줄에서 --union을 전달하는 것과 같습니다."
+									}
+								},
+								"additionalProperties": false
+							},
+							"exclude": {
+								"type": "object",
+								"description": "제외할 테스트를 지정하는 선택적 개체입니다.",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "테스트 이름의 regex를 지정하는 선택적 문자열입니다. 명령줄에서 --exclude-regex를 전달하는 것과 동일합니다."
+									},
+									"label": {
+										"type": "string",
+										"description": "테스트 레이블의 regex를 지정하는 선택적 문자열입니다. 명령줄에서 --label-exclude를 전달하는 것과 동일합니다."
+									},
+									"fixtures": {
+										"type": "object",
+										"description": "테스트 추가 작업에서 제외할 픽스쳐를 지정하는 선택적 개체입니다.",
+										"properties": {
+											"any": {
+												"type": "string",
+												"description": "테스트 픽스쳐가 테스트 추가 작업에서 제외할 regex를 지정하는 선택적 문자열입니다. 명령줄에서 --fixture-exclude-any를 전달하는 것과 동일합니다."
+											},
+											"setup": {
+												"type": "string",
+												"description": "테스트 픽스쳐가 설정 테스트 추가 작업에서 제외할 regex를 지정하는 선택적 문자열입니다. 명령줄에서 --fixture-exclude-setup을 전달하는 것과 동일합니다."
+											},
+											"cleanup": {
+												"type": "string",
+												"description": "테스트 픽스쳐가 정리 테스트 추가 작업에서 제외할 regex를 지정하는 선택적 문자열입니다. 명령줄에서 --fixture-exclude-cleanup을 전달하는 것과 동일합니다."
+											}
+										},
+										"additionalProperties": false
+									}
+								}
+							}
+						},
+						"additionalProperties": false
+					},
+					"execution": {
+						"type": "object",
+						"description": "테스트 실행의 옵션을 지정하는 선택적 개체입니다.",
+						"properties": {
+							"stopOnFailure": {
+								"type": "boolean",
+								"description": "선택적 부울입니다. true인 경우 명령줄에서 --stop-on-failure를 전달하는 것과 같습니다."
+							},
+							"enableFailover": {
+								"type": "boolean",
+								"description": "선택적 부울입니다. true인 경우 명령줄에서 -F를 전달하는 것과 같습니다."
+							},
+							"jobs": {
+								"type": "integer",
+								"description": "선택적 정수입니다. 명령줄에서 --parallel을 전달하는 것과 동일합니다."
+							},
+							"resourceSpecFile": {
+								"type": "string",
+								"description": "선택적 문자열입니다. 명령줄에서 --resource-spec-file을 전달하는 것과 동일합니다."
+							},
+							"testLoad": {
+								"type": "integer",
+								"description": "선택적 정수입니다. 명령줄에서 --test-load를 전달하는 것과 동일합니다."
+							},
+							"showOnly": {
+								"type": "string",
+								"description": "선택적 문자열입니다. 명령줄에서 --show-only를 전달하는 것과 동일합니다. 값은 \"human\" 또는 \"json-v1\"이어야 합니다.",
+								"enum": [
+									"human",
+									"json-v1"
+								]
+							},
+							"repeat": {
+								"type": "object",
+								"description": "테스트를 반복하는 방법을 지정하는 선택적 개체입니다. 명령줄에서 --repeat를 전달하는 것과 동일합니다.",
+								"properties": {
+									"mode": {
+										"type": "string",
+										"description": "필수 문자열입니다. 값은 \"until-fail\", \"until-pass\", \"after-timeout\" 중 하나여야 합니다.",
+										"enum": [
+											"until-fail",
+											"until-pass",
+											"after-timeout"
+										]
+									},
+									"count": {
+										"type": "integer",
+										"description": "필수 정수입니다."
+									}
+								},
+								"required": [
+									"mode",
+									"count"
+								],
+								"additionalProperties": false
+							},
+							"interactiveDebugging": {
+								"type": "boolean",
+								"description": "선택적 부울입니다. true이면 명령줄에서 --interactive-debug-mode 1을 전달하는 것과 동일합니다. false이면 명령줄에서 --interactive-debug-mode 0을 전달하는 것과 동일합니다."
+							},
+							"scheduleRandom": {
+								"type": "boolean",
+								"description": "선택적 부울입니다. true인 경우 명령줄에서 --schedule-random을 전달하는 것과 같습니다."
+							},
+							"timeout": {
+								"type": "integer",
+								"description": "선택적 정수입니다. 명령줄에서 --timeout을 전달하는 것과 동일합니다."
+							},
+							"noTestsAction": {
+								"type": "string",
+								"description": "발견된 테스트가 없는 경우의 동작을 지정하는 선택적 문자열입니다. 값은 \"default\"(명령줄에서 값을 전달하지 않는 것과 동일), \"error\"(명령줄에서 --no-tests=error를 전달하는 것과 동일), \"ignore\"(명령줄에서 --no-tests-ignore를 전달하는 것과 동일) 중 하나여야 합니다.",
+								"enum": [
+									"default",
+									"error",
+									"ignore"
+								]
+							}
+						},
+						"additionalProperties": false
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"vendor": {
+			"type": "object",
+			"description": "공급업체별 정보가 포함된 선택적 맵입니다. CMake는 이 필드가 있는 경우 맵인지 확인하는 것을 제외하고 이 필드의 콘텐츠를 해석하지 않습니다. 그러나 키는 공급업체별 도메인 이름 뒤에 /-separated 경로가 와야 합니다. 예를 들어 예제 IDE 1.0은 example.com/ExampleIDE/1.0을 사용할 수 있습니다. 각 필드의 값은 일반적으로 맵이 될 수 있지만 공급업체에서 원하는 대로 설정할 수 있습니다.",
+			"properties": {}
+		},
+		"include": {
+			"type": "array",
+			"description": "포함할 파일을 나타내는 문자열의 선택적 배열입니다. 파일 이름이 절대적이지 않으면 현재 파일에 상대적인 것으로 간주됩니다.",
+			"items": {
+				"type": "string"
+			}
+		}
+	},
+	"additionalProperties": false,
+	"definitions": {
+		"condition": {
+			"anyOf": [
+				{
+					"type": "boolean",
+					"description": "조건의 평가에 상수 값을 제공하는 부울입니다."
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "조건의 형식을 지정하는 필수 문자열입니다.",
+							"const": "const"
+						},
+						"value": {
+							"type": "boolean",
+							"description": "조건의 평가에 상수 값을 제공하는 필수 부울입니다."
+						}
+					},
+					"required": [
+						"type",
+						"value"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "조건의 형식을 지정하는 필수 문자열입니다.",
+							"const": "equals"
+						},
+						"lhs": {
+							"type": "string",
+							"description": "비교할 첫 번째 문자열입니다. 이 필드는 매크로 확장을 지원합니다."
+						},
+						"rhs": {
+							"type": "string",
+							"description": "비교할 두 번째 문자열입니다. 이 필드는 매크로 확장을 지원합니다."
+						}
+					},
+					"required": [
+						"type",
+						"lhs",
+						"rhs"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "조건의 형식을 지정하는 필수 문자열입니다.",
+							"const": "notEquals"
+						},
+						"lhs": {
+							"type": "string",
+							"description": "비교할 첫 번째 문자열입니다. 이 필드는 매크로 확장을 지원합니다."
+						},
+						"rhs": {
+							"type": "string",
+							"description": "비교할 두 번째 문자열입니다. 이 필드는 매크로 확장을 지원합니다."
+						}
+					},
+					"required": [
+						"type",
+						"lhs",
+						"rhs"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "조건의 형식을 지정하는 필수 문자열입니다.",
+							"const": "inList"
+						},
+						"string": {
+							"type": "string",
+							"description": "검색할 필수 문자열입니다. 이 필드는 매크로 확장을 지원합니다."
+						},
+						"list": {
+							"type": "array",
+							"description": "검색할 문자열의 필수 목록입니다. 이 필드는 매크로 확장을 지원하고 짧은 회로 평가를 사용합니다.",
+							"items": {
+								"type": "string"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"list"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "조건의 형식을 지정하는 필수 문자열입니다.",
+							"const": "notInList"
+						},
+						"string": {
+							"type": "string",
+							"description": "검색할 필수 문자열입니다. 이 필드는 매크로 확장을 지원합니다."
+						},
+						"list": {
+							"type": "array",
+							"description": "검색할 문자열의 필수 목록입니다. 이 필드는 매크로 확장을 지원하고 짧은 회로 평가를 사용합니다.",
+							"items": {
+								"type": "string"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"list"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "조건의 형식을 지정하는 필수 문자열입니다.",
+							"const": "matches"
+						},
+						"string": {
+							"type": "string",
+							"description": "검색하는 데 필요한 문자열입니다. 이 필드는 매크로 확장을 지원합니다."
+						},
+						"regex": {
+							"type": "string",
+							"description": "검색할 필수 정규식입니다. 이 필드는 매크로 확장을 지원합니다."
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"regex"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "조건의 형식을 지정하는 필수 문자열입니다.",
+							"const": "notMatches"
+						},
+						"string": {
+							"type": "string",
+							"description": "검색하는 데 필요한 문자열입니다. 이 필드는 매크로 확장을 지원합니다."
+						},
+						"regex": {
+							"type": "string",
+							"description": "검색할 필수 정규식입니다. 이 필드는 매크로 확장을 지원합니다."
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"regex"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "조건의 형식을 지정하는 필수 문자열입니다.",
+							"const": "anyOf"
+						},
+						"conditions": {
+							"type": "array",
+							"description": "조건 개체의 필수 배열입니다. 이러한 조건은 짧은 회로 평가를 사용합니다.",
+							"items": {
+								"$ref": "#/definitions/condition"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"conditions"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "조건의 형식을 지정하는 필수 문자열입니다.",
+							"const": "allOf"
+						},
+						"conditions": {
+							"type": "array",
+							"description": "조건 개체의 필수 배열입니다. 이러한 조건은 짧은 회로 평가를 사용합니다.",
+							"items": {
+								"$ref": "#/definitions/condition"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"conditions"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "조건의 형식을 지정하는 필수 문자열입니다.",
+							"const": "not"
+						},
+						"condition": {
+							"$ref": "#/definitions/condition"
+						}
+					},
+					"required": [
+						"type",
+						"condition"
+					],
+					"additionalProperties": false
+				}
+			]
+		},
+		"topCondition": {
+			"description": "사전 설정을 사용하도록 설정되었는지 여부를 결정하는 데 사용되는 선택적 필드입니다. 버전 3에서 지원됩니다.",
+			"anyOf": [
+				{
+					"$ref": "#/definitions/condition"
+				},
+				{
+					"type": "null",
+					"description": "Null은 조건이 항상 true로 평가되고 상속되지 않음을 나타냅니다."
+				}
+			]
+		}
+	}
+}

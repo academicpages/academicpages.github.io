@@ -1,0 +1,16 @@
+import datetime
+import sys
+
+import pytz
+
+if sys.version_info >= (3, 9):
+    import zoneinfo
+
+    class ZoneInfoNotFoundError(pytz.UnknownTimeZoneError, zoneinfo.ZoneInfoNotFoundError): ...
+
+else:
+    class ZoneInfoNotFoundError(pytz.UnknownTimeZoneError): ...
+
+def get_system_offset() -> int: ...
+def get_tz_offset(tz: datetime.tzinfo) -> int: ...
+def assert_tz_offset(tz: datetime.tzinfo) -> None: ...

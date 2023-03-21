@@ -1,0 +1,102 @@
+{
+	"type": "array",
+	"description": "Наборы CMake",
+	"items": {
+		"type": "object",
+		"description": "Набор",
+		"additionalProperties": false,
+		"properties": {
+			"name": {
+				"type": "string",
+				"description": "Имя этого набора"
+			},
+			"description": {
+				"type": "string",
+				"description": "The description of this kit"
+			},
+			"vendor": {
+				"type": "string",
+				"description": "Имя поставщика этого пакета"
+			},
+			"triple": {
+				"type": "string",
+				"description": "Целевая тройка для этого пакета"
+			},
+			"version": {
+				"type": "string",
+				"description": "Версия этого пакета"
+			},
+			"versionRuntime": {
+				"type": "string",
+				"description": "Версия среды выполнения C для пакета"
+			},
+			"keep": {
+				"type": "boolean",
+				"description": "Если этот параметр имеет значение \"true\", то этот набор будет храниться даже в том случае, если он кажется устаревшим."
+			},
+			"compilers": {
+				"type": "object",
+				"patternProperties": {
+					"\\w+": {
+						"type": "string",
+						"description": "Путь к компилятору для этого языка"
+					}
+				}
+			},
+			"toolchainFile": {
+				"type": "string",
+				"description": "Путь к файлу цепочки инструментов"
+			},
+			"visualStudio": {
+				"type": "string",
+				"description": "Идентификатор экземпляра продукта Visual Studio"
+			},
+			"visualStudioArchitecture": {
+				"type": "string",
+				"description": "Целевая архитектура"
+			},
+			"environmentSetupScript": {
+				"type": "string",
+				"description": "Абсолютный путь к сценарию, изменяющему среду для набора"
+			},
+			"environmentVariables": {
+				"type": "object",
+				"patternProperties": {
+					".*": {
+						"type": "string",
+						"description": "Значение переменной среды"
+					}
+				}
+			},
+			"cmakeSettings": {
+				"type": "object",
+				"patternProperties": {
+					".*": {
+						"description": "Значение параметра CMake"
+					}
+				}
+			},
+			"preferredGenerator": {
+				"type": "object",
+				"description": "Установить предпочтительный генератор CMake для этого набора",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Имя используемого генератора"
+					},
+					"platform": {
+						"type": "string",
+						"description": "Платформа CMake для аргумента -A"
+					},
+					"toolset": {
+						"type": "string",
+						"description": "Набор инструментов CMake для аргумента -T"
+					}
+				},
+				"required": [
+					"name"
+				]
+			}
+		}
+	}
+}

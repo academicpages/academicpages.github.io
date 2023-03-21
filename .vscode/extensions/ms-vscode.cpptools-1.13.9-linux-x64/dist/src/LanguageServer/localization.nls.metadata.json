@@ -1,0 +1,14 @@
+{
+	"messages": [
+		"{0}, {1}"
+	],
+	"keys": [
+		{
+			"key": "c.cpp.symbolscope.separator",
+			"comment": [
+				"{0} is an untranslated C++ keyword (e.g. \\\"private\\\") and {1} is either another keyword (e.g. \\\"typedef\\\") or a localized property (e.g. a localized version of \\\"declaration\\\""
+			]
+		}
+	],
+	"filePath": "src\\LanguageServer\\localization"
+}

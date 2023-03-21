@@ -1,0 +1,19 @@
+// out: ../one-dark.css, compress: true, sourceMap: false
+@import "github.less";
+
+// Config -----------------------------------
+@syntax-hue: 220;
+@syntax-saturation: 13%;
+@syntax-brightness: 18%;
+
+
+// Monochrome -----------------------------------
+@mono-1: hsl(@syntax-hue, 14%, 71%); // default text
+
+// Base colors -----------------------------------
+@syntax-fg: @mono-1;
+@syntax-bg: hsl(@syntax-hue, @syntax-saturation, @syntax-brightness);
+
+html {
+  .github(@syntax-fg, @syntax-bg, #56b6c2);
+}

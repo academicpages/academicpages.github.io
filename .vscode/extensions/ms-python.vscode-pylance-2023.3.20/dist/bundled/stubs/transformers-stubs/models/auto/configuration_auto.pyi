@@ -1,0 +1,19 @@
+import os
+from transformers.configuration_utils import PretrainedConfig
+from typing import Any, Callable, Dict, OrderedDict, TypeVar, Union
+
+ALL_PRETRAINED_CONFIG_ARCHIVE_MAP: Dict[Any, Any] = ...
+CONFIG_MAPPING: OrderedDict[str, PretrainedConfig] = ...
+MODEL_NAMES_MAPPING: OrderedDict[str, str] = ...
+F = TypeVar('F', bound=Callable[..., Any])
+
+def replace_list_option_in_docstrings(config_to_class=..., use_model_types=...) -> Callable[[F], F]: ...
+
+class AutoConfig:
+    def __init__(self) -> None: ...
+    @classmethod
+    def for_model(cls, model_type: str, *args, **kwargs) -> PretrainedConfig: ...
+    @classmethod
+    def from_pretrained(cls, pretrained_model_name_or_path: Union[str, os.PathLike] = ..., **kwargs) -> Any: ... # incomplete
+
+

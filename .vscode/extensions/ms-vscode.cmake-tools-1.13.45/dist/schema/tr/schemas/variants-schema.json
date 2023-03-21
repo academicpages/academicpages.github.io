@@ -1,0 +1,111 @@
+{
+	"type": "object",
+	"description": "Varyant seçenekleri",
+	"additionalProperties": false,
+	"minProperties": 1,
+	"patternProperties": {
+		"base\\$": {
+			"type": "object",
+			"description": "Tüm varyantlar için temel karışım (CMake Araçları için uygulanmadı)",
+			"additionalProperties": true
+		},
+		"^\\w+$": {
+			"type": "object",
+			"properties": {
+				"description": {
+					"description": "Bu seçeneğin açıklaması",
+					"type": "string"
+				},
+				"default": {
+					"description": "Bu seçenek için varsayılan ayar",
+					"type": "string"
+				},
+				"choices": {
+					"type": "object",
+					"description": "Olası bir seçenek değeri",
+					"minProperties": 1,
+					"patternProperties": {
+						"^\\w+$": {
+							"type": "object",
+							"required": [
+								"short"
+							],
+							"properties": {
+								"short": {
+									"type": "string",
+									"description": "Bu değerin tek kelimelik basit bir açıklaması"
+								},
+								"long": {
+									"type": "string",
+									"description": "Bu değerin ne yaptığına ilişkin daha uzun bir açıklama"
+								},
+								"buildType": {
+									"type": "string",
+									"default": "Debug",
+									"description": "Bu varyantın CMAKE_BUILD_TYPE değeri"
+								},
+								"linkage": {
+									"type": "string",
+									"enum": [
+										"static",
+										"shared"
+									],
+									"default": "static",
+									"description": "CMake komut satırında BUILD_SHARED değerini ayarlar"
+								},
+								"env": {
+									"type": "object",
+									"description": "CMake yapılandırması sırasında ayarlanacak ortam değişkenleri",
+									"additionalProperties": false,
+									"patternProperties": {
+										"^\\w+$": {
+											"type": "string",
+											"description": "Ortam değişkeninin değeri"
+										}
+									}
+								},
+								"settings": {
+									"type": "object",
+									"description": "Bu varyant için CMake'e geçirilecek -D bağımsız değişkenleri",
+									"minProperties": 1,
+									"additionalProperties": {
+										"anyOf": [
+											{
+												"type": "string"
+											},
+											{
+												"type": "array",
+												"items": {
+													"type": "string"
+												}
+											},
+											{
+												"type": "integer"
+											},
+											{
+												"type": "boolean"
+											}
+										]
+									}
+								},
+								"generator": {
+									"type": "string",
+									"description": "Bu varyant için kullanılacak CMake oluşturucusu",
+									"default": "Ninja"
+								},
+								"toolset": {
+									"type": "string",
+									"description": "Bu varyant için kullanılacak oluşturucu araç kümesi"
+								}
+							}
+						}
+					}
+				}
+			},
+			"required": [
+				"default",
+				"choices"
+			]
+		}
+	}
+}

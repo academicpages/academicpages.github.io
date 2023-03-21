@@ -1,0 +1,58 @@
+# Run on a schedule
+trigger: none
+pr: none
+
+schedules:
+  - cron: '0 10 * * 1-5' # 10AM UTC (2AM PDT) MON-FRI (VS Code Pre-release builds at 9PM PDT)
+    displayName: Nightly Pre-Release Schedule
+    always: false # only run if there are source code changes
+    branches:
+      include:
+        - main
+
+resources:
+  repositories:
+    - repository: templates
+      type: github
+      name: microsoft/vscode-engineering
+      ref: main
+      endpoint: Monaco
+
+extends:
+  template: azure-pipelines/extension/pre-release.yml@templates
+  parameters:
+    locTsConfigs: $(Build.SourcesDirectory)/tsconfig.json
+    locBundleDestination: $(Build.SourcesDirectory)/dist
+    buildSteps:
+      - task: NodeTool@0
+        inputs:
+          versionSpec: '14.18.2'
+        displayName: Select Node version
+
+      - task: UsePythonVersion@0
+        inputs:
+          versionSpec: '3.7'
+          addToPath: true
+          architecture: 'x64'
+        displayName: Select Python version
+
+      - script: npm ci
+        displayName: Install NPM dependencies
+
+      - script: python -m pip install -U pip
+        displayName: Upgrade pip
+
+      - script: python -m pip install wheel
+        displayName: Install wheel
+
+      - script: python -m pip install nox
+        displayName: Install wheel
+
+      - script: python -m nox --session install_bundled_libs
+        displayName: Install Python dependencies
+
+      - script: python ./build/update_ext_version.py --for-publishing
+        displayName: Update build number
+
+      - script: npm run package
+        displayName: Build extension

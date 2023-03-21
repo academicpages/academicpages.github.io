@@ -1,0 +1,23 @@
+{
+	"extension.description": "使用 `isort` 导入组织对 python 文件的支持。",
+	"command.restartServer": "重启服务器",
+	"settings.logLevel.description": "扩展日志的跟踪级别，默认为 “error”",
+	"settings.logLevel.debug.description": "包括用于调试目的的详细日志记录。",
+	"settings.logLevel.error.description": "仅错误和始终记录的信息。",
+	"settings.logLevel.info.description": "包括未标记为详细或调试的所有消息。",
+	"settings.logLevel.off.description": "大多数日志记录已关闭，始终记录的任何信息可能仍会显示。",
+	"settings.logLevel.warn.description": "包括错误类别中的所有消息和任何其他警告。",
+	"settings.args.description": "传入的参数。每个参数都是数组中的一个单独字符串。",
+	"settings.check.description": "控制是否运行 \"isort\" 并报告导入排序问题。",
+	"settings.severity.description": "从 `isort` 消息类型的严重性到问题窗口中显示的严重性的映射。",
+	"settings.path.description": "当设置为 `isort` 二进制文件的路径时，扩展将使用它进行 Lint 分析。注意: 使用此选项可能会降低 Lint 分析速度。",
+	"settings.importStrategy.description": "定义从何处导入 `isort`。如果已设置 `isort`，则可以忽略此设置。",
+	"settings.importStrategy.useBundled.description": "始终使用捆绑版本的 `isort`。",
+	"settings.importStrategy.fromEnvironment.description": "使用环境中的 `isort`，仅当 `isort` 在环境中不可用时才回退到捆绑版本。",
+	"settings.interpreter.description": "当设置为 python 可执行文件的路径时，扩展将使用它来启动服务器和任何子进程。",
+	"settings.showNotifications.description": "控制此扩展显示通知的时间。",
+	"settings.showNotifications.off.description": "所有通知均已关闭，日志仍提供任何错误或警告。",
+	"settings.showNotifications.onError.description": "仅在发生错误时显示通知。",
+	"settings.showNotifications.onWarning.description": "显示错误和警告的通知。",
+	"settings.showNotifications.always.description": "将显示服务器选择显示的任何内容的通知。"
+}

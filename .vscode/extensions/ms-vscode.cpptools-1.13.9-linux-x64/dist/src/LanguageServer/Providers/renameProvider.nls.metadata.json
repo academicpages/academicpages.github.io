@@ -1,0 +1,11 @@
+{
+	"messages": [
+		"Invalid identifier provided for the Rename Symbol operation.",
+		"A definition for the selected symbol could not be located."
+	],
+	"keys": [
+		"invalid.identifier.for.rename",
+		"unable.to.locate.selected.symbol"
+	],
+	"filePath": "src\\LanguageServer\\Providers\\renameProvider"
+}

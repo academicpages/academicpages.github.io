@@ -1,0 +1,5 @@
+version = "2.11.*"
+requires = ["types-pytz"]
+
+[tool.stubtest]
+ignore_missing_stub = true

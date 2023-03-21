@@ -1,0 +1,729 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Security-Policy" content="style-src 'unsafe-inline'; script-src 'nonce-{{nonce}}';">
+
+    <style type="text/css">
+        @media (max-width: 1140px) {
+            #sidebar {
+                display: none;
+            }
+            #main {
+                max-width: 800px;
+                padding: 0px 20px;
+                margin: auto;
+            }
+        }
+
+        .page-margins {
+            vertical-align: top;
+            padding-top: 40px;
+            padding-bottom: 10px
+        }
+
+        .sidebar {
+            width: 290px;
+            position: fixed;
+            z-index: 1;
+            left: 45px;
+            overflow-x: hidden;
+        }
+
+        .error {
+            color: var(--vscode-inputValidation-errorForeground);
+            background: var(--vscode-inputValidation-errorBackground);
+            border: solid 1px var(--vscode-inputValidation-errorBorder);
+            white-space: pre-wrap;
+            display: none;
+            padding: 1px 4px 4px 4px;
+        }
+
+        .headerBtn,
+        .headerBtn:hover,
+        .headerBtn:active {
+            cursor: pointer;
+            color: var(--vscode-foreground);
+            background: var(--vscode-background);
+            border: 0px;
+            padding: 0px;
+            outline: none;
+        }
+
+        .headerBtn:focus {
+            outline: 1px solid -webkit-focus-ring-color;
+            outline-offset: 3px;
+        }
+
+        .expand:after {
+            font-weight: bold;
+            float: right;
+            margin-right: 6px;
+            margin-top: -4px;
+            content: '\276E';
+            transform: rotate(270deg);
+        }
+
+        .collapse:after {
+            font-weight: bold;
+            float: right;
+            margin-right: 6px;
+            margin-top: -4px;
+            content: '\276E';
+            transform: rotate(90deg);
+        }
+
+        .main {
+            max-width: 800px;
+            margin-left: 320px;
+            padding: 0px 30px;
+        }
+
+        .main-title {
+            font-weight: 500;
+            font-size: 22px;
+            padding-bottom: 6px;
+            color: var(--vscode-foreground);
+        }
+
+        .section {
+            padding-bottom: 35px;
+        }
+
+        .section-title {
+            font-weight: 500;
+            font-size: 14px;
+            padding-bottom: 4px;
+            color: var(--vscode-foreground);
+        }
+
+        .section-text {
+            font-size: 14px;
+            padding-bottom: 8px;
+            color: var(--vscode-foreground);
+        }
+
+        .section-note {
+            font-size: 14px;
+            font-style: italic;
+            padding-bottom: 2px;
+            color: var(--vscode-foreground);
+        }
+
+        .codeblock {
+            vertical-align: middle;
+            padding: 2px 8px;
+            margin-top: 8px;
+            display: inline-block;
+            font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+            border-radius: 5px;
+        }
+
+        body {
+            line-height: 19px
+        }
+
+        body:not(.tabbing) button:focus {
+            outline: none;
+        }
+
+        a {
+            text-decoration: none
+        }
+
+        checkbox {
+            color: var(--vscode-settings-checkboxForeground);
+            background: var(--vscode-settings-checkboxForeground);
+            border: var(--vscode-settings-checkboxBorder);
+        }
+
+        a:focus,
+        input:focus,
+        select:focus,
+        textarea:focus {
+            outline: 1px solid -webkit-focus-ring-color;
+            outline-offset: -1px
+        }
+
+        hr {
+            border: 0;
+            height: 1px;
+            border-bottom: 1px solid;
+        }
+
+        h1 {
+            padding-bottom: .3em;
+        }
+
+        h1,
+        h2,
+        h3 {
+            font-weight: 400
+        }
+
+        a:hover {
+            text-decoration: underline
+        }
+
+        ::placeholder {
+            color: var(--vscode-input-placeholderForeground);
+        }
+
+        input {
+            height: 17px;
+            padding: 6px;
+            border: solid 1px;
+            font-size: 13px;
+            font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+            color: var(--vscode-settings-textInputForeground);
+            background: var(--vscode-settings-textInputBackground);
+            border: 1px solid var(--vscode-settings-textInputBorder);
+        }
+
+        textarea {
+            white-space: nowrap;
+            padding: 4px, 4px;
+            font-size: 13px;
+            font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+            color: var(--vscode-settings-textInputForeground);
+            background: var(--vscode-settings-textInputBackground);
+            border: 1px solid var(--vscode-settings-textInputBorder);
+        }
+
+        button {
+            color: var(--vscode-button-foreground);
+            background-color: var(--vscode-button-background);
+            border: solid 1px var(--vscode-contrastBorder);
+            padding: 6px 14px;
+        }
+
+        button:hover {
+            background-color: var(--vscode-button-hoverBackground);
+        }
+
+        button:focus {
+            outline: 1px solid -webkit-focus-ring-color;
+            outline-offset: 2px
+        }
+
+        button:active {
+            outline: none;
+        }
+
+        .select-default {
+            width: 300px;
+            height: 27px;
+            font-size: 13px;
+            font-family:sans-serif;
+            color: var(--vscode-settings-dropdownForeground);
+            background: var(--vscode-settings-dropdownBackground);
+            border: 1px solid var(--vscode-settings-dropdownBorder);
+        }
+
+        .select-editable {
+            position: relative;
+            background-color: var(--vscode-settings-textInputBackground);
+            width: 800px;
+            height: 31px;
+        }
+
+        .select-editable select {
+            position: absolute;
+            font-size: 13px;
+            font-family: sans-serif;
+            border: 1px solid var(--vscode-settings-textInputBorder);
+            height: 31px;
+            margin: auto;
+            color: var(--vscode-settings-textInputForeground);
+            background: var(--vscode-settings-textInputBackground);
+        }
+
+        .select-editable input {
+            position: absolute;
+            top: 1px;
+            left: 1px;
+            right: 1px;
+            bottom: 1px;
+            height: 17px;
+            font-size: 13px;
+            border: none;
+            color: var(--vscode-settings-textInputForeground);
+            background: var(--vscode-settings-textInputBackground);
+        }
+
+        .select-editable input:focus {
+            outline-offset: 0px;
+        }
+
+        blockquote {
+            margin: 0 7px 0 5px;
+            padding: 0 16px 0 10px;
+            border-left: 5px solid;
+        }
+
+        code {
+            font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+            line-height: 19px
+        }
+
+        .mac code {
+            line-height: 18px
+        }
+
+        code > div {
+            padding: 16px;
+            border-radius: 3px;
+            overflow: auto
+        }
+
+        .monaco-tokenized-source {
+            white-space: pre
+        }
+
+        /** Theming */
+
+        .vscode-light {
+            color: #1e1e1e
+        }
+
+        .vscode-dark {
+            color: #ddd
+        }
+
+        .vscode-high-contrast {
+            color: #fff
+        }
+
+        .vscode-light code {
+            color: #a31515
+        }
+
+        .vscode-dark code {
+            color: #d7ba7d
+        }
+
+        .vscode-light code > div {
+            background-color: rgba(220, 220, 220, .4)
+        }
+
+        .vscode-dark code > div {
+            background-color: rgba(10, 10, 10, .4)
+        }
+
+        .vscode-light .input-disabled {
+            background-color:rgba(255, 255, 255, 0.4);
+            color: rgb(138, 138, 138);
+            border: solid 1px rgb(201, 198, 198);
+        }
+
+        .vscode-dark .input-disabled {
+            background-color: rgba(255, 255, 255, 0.1);
+            color: rgb(167, 167, 167);
+        }
+
+        .vscode-high-contrast .input-disabled {
+            background-color: transparent;
+            color: #fff;
+            border: solid 1px rgb(255, 255, 255);
+        }
+
+        .vscode-high-contrast code > div {
+            background-color: #000
+        }
+
+        .vscode-high-contrast h1 {
+            border-color: #000
+        }
+
+        .vscode-light table > thead > tr > th {
+            border-color: rgba(0, 0, 0, .69)
+        }
+
+        .vscode-dark table > thead > tr > th {
+            border-color: rgba(255, 255, 255, .69)
+        }
+
+        .vscode-light h1,
+        .vscode-light hr,
+        .vscode-light table > tbody > tr + tr > td {
+            border-color: rgba(0, 0, 0, .18)
+        }
+
+        .vscode-dark h1,
+        .vscode-dark hr,
+        .vscode-dark table > tbody > tr + tr > td {
+            border-color: rgba(255, 255, 255, 0.18)
+        }
+
+        .vscode-light blockquote,
+        .vscode-dark blockquote {
+            background: rgba(127, 127, 127, .1);
+            border-color: rgba(0, 122, 204, .5)
+        }
+
+        .vscode-high-contrast blockquote {
+            background: transparent;
+            border-color: #fff
+        }
+
+        .vscode-light div.codeblock {
+            background-color: rgba(0, 0, 0, 0.048)
+        }
+
+        .vscode-dark div.codeblock {
+            background-color: rgba(255, 255, 255, 0.1)
+        }
+
+        .vscode-high-contrast div.codeblock {
+            background-color: rgba(255, 255, 255, 0.15)
+        }
+
+        .footer {
+            padding: 25px;
+            text-align: center
+        }
+
+        .vscode-light a {
+            color: #4080D0
+        }
+
+        .vscode-dark a {
+            color: #a2c1e8
+        }
+
+    </style>
+
+  </head>
+
+  <body class="page-margins">
+
+  <!-- sidebar -->
+  <div id="sidebar" class="sidebar">
+
+    <div style="height: 90px; display: block">
+        <table>
+            <tbody><tr><td>
+              <img src="{{cpp_image_uri}}" height="76" width="76" alt="Microsoft C/C++ Extension" title="Rozšíření Microsoft C/C++" style="padding-right: 10px" data-loc-id-title="microsoft.c.cpp.extension">
+            </td>
+            <td>
+                <div style="font-size: 20px; font-weight: 400; line-height: 24px">Microsoft<br><span data-loc-id="c.cpp.extension">Rozšíření C/C++</span></div>
+            </td>
+          </tr></tbody></table>
+    </div>
+
+    <hr>
+    <div style="height: 30px; display: block"></div>
+
+    <div style="padding-right: 10px; color: var(--vscode-foreground);">
+        <span data-loc-id="open.this.editor">Otevřít tento editor pomocí příkazu:</span><br>
+        <code data-loc-id="edit.configurations.ui">C/C++: Upravit konfigurace (uživatelské rozhraní)</code>
+
+        <div style="height: 30px; display: block"></div>
+
+        <span data-loc-id="switch.to.json">Pokud se chcete přepnout na soubor <a href="command:C_Cpp.ConfigurationEditJSON" title="Upravit konfigurace v souboru JSON" data-loc-id-title="edit.configurations.in.json">c_cpp_properties.json</a>, klikněte na odkaz na soubor nebo použijte příkaz:</span><br>
+        <code data-loc-id="edit.configurations.json">C/C++: Upravit konfigurace (JSON)</code>
+
+        <div style="height: 30px; display: block"></div>
+
+        <span data-loc-id="check.the.schema">Další informace o vlastnostech jazyků C/C++ najdete tady: <a href="https://code.visualstudio.com/docs/cpp/c-cpp-properties-schema-reference" title="Referenční informace ke schématu vlastností" data-loc-id-title="view.schema.reference">C/C++ Properties Schema Reference</a></span><br>
+    </div>
+
+  </div> <!-- sidebar end -->
+
+  <!-- main -->
+  <div id="main" class="main">
+
+    <!-- title -->
+    <div style=" height: 90px; display: inline-block;">
+      <div class="main-title" data-loc-id="intellisense.configurations">Konfigurace IntelliSense</div>
+      <div style="color: var(--vscode-foreground);">
+        <span data-loc-id="intellisense.configurations.description">Pomocí tohoto editoru můžete upravovat nastavení IntelliSense definovaná v základním souboru <a href="command:C_Cpp.ConfigurationEditJSON" title="Upravit konfigurace v souboru JSON" data-loc-id-title="edit.configurations.in.json">c_cpp_properties.json</a>. Změny provedené v tomto editoru se budou vztahovat jen na vybranou konfiguraci. Pokud chcete upravit více konfigurací najednou, přejděte na <a href="command:C_Cpp.ConfigurationEditJSON" title="Upravit konfigurace v souboru JSON" data-loc-id-title="edit.configurations.in.json">c_cpp_properties.json</a>.</span>
+      </div>
+    </div>
+
+    <hr>
+    <div style="height: 30px; display: block"></div>
+
+    <!-- sections -->
+    <div class="section">
+      <div class="section-title" data-loc-id="configuration.name">Název konfigurace</div>
+      <div class="section-text" data-loc-id="configuration.name.description">Popisný název, který identifikuje konfiguraci. <code>Linux</code>, <code>Mac</code> a <code>Win32</code> jsou speciální identifikátory pro konfigurace, které se na daných platformách automaticky vyberou.</div>
+      <div>
+        <div class="section-note" data-loc-id="select.configuration.to.edit">Vyberte sadu konfigurací, která se má upravit.</div>
+        <table>
+            <tbody><tr>
+            <!-- select configuration name -->
+            <td>
+                <div class="select-editable" style="width: 300px; margin-left: -3px; margin-right: 7px">
+                    <select id="configSelection" style="width: 300px"></select>
+                    <input id="configName" style="width: 267px" type="text">
+                </div>
+            </td>
+            <!-- input configuration name -->
+            <td style="vertical-align: middle;">
+                <div id="addConfigDiv" style="display: block">
+                    <button id="addConfigBtn" data-loc-id="add.configuration.button">Přidat konfiguraci</button>
+                </div>
+                <div id="addConfigInputDiv" style="display: none; width: 400px;">
+                    <input id="addConfigName" type="text" style="width: 200px; margin-right: 6px" placeholder="Název konfigurace..." data-loc-id-placeholder="configuration.name.input">
+                    <button id="addConfigOk" style="margin-right: 6px" data-loc-id="ok.button">OK</button>
+                    <button id="addConfigCancel" data-loc-id="cancel.button">ZRUŠIT</button>
+                </div>
+            </td>
+        </tr>
+        </tbody></table>
+        <div id="configNameInvalid" class="error" style="width: 290px"></div>
+      </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title" data-loc-id="compiler.path">Cesta ke kompilátoru</div>
+        <div class="section-text">
+            <span data-loc-id="compiler.path.description">Úplná cesta ke kompilátoru, pomocí kterého sestavíte svůj projekt, třeba <code>/usr/bin/gcc</code>. Umožní přesnější IntelliSense. Rozšíření pošle kompilátoru dotaz, aby určilo systémové cesty pro vložené soubory a výchozí direktivy define, které se použijí pro IntelliSense.</span>
+        </div>
+        <!-- input compilerPath -->
+        <div class="section-note" data-loc-id="specify.a.compiler">Zadejte cestu ke kompilátoru nebo vyberte zjištěnou cestu z rozevíracího seznamu.</div>
+            <div class="select-editable">
+                <span id="noCompilerPathsDetected" style="display: none" data-loc-id="no.compiler.paths.detected">(Nezjistily se žádný cesty ke kompilátoru.)</span>
+                <select id="knownCompilers" style="width: 810px; display: none"></select>
+                <input name="inputValue" id="compilerPath" style="width: 777px; display: none" type="text">
+            </div>
+        <div id="compilerPathInvalid" class="error" style="width: 800px"></div>
+        <!-- input compilerPath end -->
+    </div>
+
+    <div class="section">
+        <div class="section-title" data-loc-id="compiler.args">Argumenty kompilátoru</div>
+        <div class="section-text" data-loc-id="compiler.arguments">Argumenty kompilátoru, které upraví použité direktivy include a define, např. <code>-nostdinc++</code>, <code>-m32</code> atd.</div>
+        <div>
+            <div class="section-note" data-loc-id="one.argument.per.line">Na každý řádek jeden argument</div>
+            <textarea name="inputValue" id="compilerArgs" rows="4" cols="93" style="width: 800px"></textarea>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title" data-loc-id="intellisense.mode">Režim IntelliSense</div>
+        <div class="section-text">
+            <span data-loc-id="intellisense.mode.description">Režim IntelliSense, který se použije a mapuje na variantu platformy a architektury MSVC, gcc nebo Clangu. Pokud se nenastaví nebo nastaví na <code>${default}</code>, rozšíření zvolí výchozí režim pro danou platformu. Výchozí možnost pro Windows je <code>windows-msvc-x64</code>, pro Linux <code>linux-gcc-x64</code> a pro macOS <code>macos-clang-x64</code>. Pokud chcete přepsat režim <code>${default}</code>, vyberte konkrétní režim IntelliSense. Režimy IntelliSense, které specifikují pouze varianty <code>&lt;compiler&gt;-&lt;architecture&gt;</code> (např. <code>gcc-x64</code>), jsou starší režimy a automaticky se převádí na varianty <code>&lt;platform&gt;-&lt;compiler&gt;-&lt;architecture&gt;</code> založené na hostitelské platformě.</span>
+        </div>
+        <div>
+          <select name="inputValue" id="intelliSenseMode" class="select-default">
+            <option value="${default}">${default}</option>
+            <option value="macos-clang-x86">macos-clang-x86</option>
+            <option value="macos-clang-x64">macos-clang-x64</option>
+            <option value="macos-clang-arm">macos-clang-arm</option>
+            <option value="macos-clang-arm64">macos-clang-arm64</option>
+            <option value="macos-gcc-x86">macos-gcc-x86</option>
+            <option value="macos-gcc-x64">macos-gcc-x64</option>
+            <option value="macos-gcc-arm">macos-gcc-arm</option>
+            <option value="macos-gcc-arm64">macos-gcc-arm64</option>
+            <option value="linux-clang-x86">linux-clang-x86</option>
+            <option value="linux-clang-x64">linux-clang-x64</option>
+            <option value="linux-clang-arm">linux-clang-arm</option>
+            <option value="linux-clang-arm64">linux-clang-arm64</option>
+            <option value="linux-gcc-x86">linux-gcc-x86</option>
+            <option value="linux-gcc-x64">linux-gcc-x64</option>
+            <option value="linux-gcc-arm">linux-gcc-arm</option>
+            <option value="linux-gcc-arm64">linux-gcc-arm64</option>
+            <option value="windows-clang-x86">windows-clang-x86</option>
+            <option value="windows-clang-x64">windows-clang-x64</option>
+            <option value="windows-clang-arm">windows-clang-arm</option>
+            <option value="windows-clang-arm64">windows-clang-arm64</option>
+            <option value="windows-gcc-x86">windows-gcc-x86</option>
+            <option value="windows-gcc-x64">windows-gcc-x64</option>
+            <option value="windows-gcc-arm">windows-gcc-arm</option>
+            <option value="windows-gcc-arm64">windows-gcc-arm64</option>
+            <option value="windows-msvc-x86">windows-msvc-x86</option>
+            <option value="windows-msvc-x64">windows-msvc-x64</option>
+            <option value="windows-msvc-arm">windows-msvc-arm</option>
+            <option value="windows-msvc-arm64">windows-msvc-arm64</option>
+            <option value="clang-x86">clang-x86 (legacy)</option>
+            <option value="clang-x64">clang-x64 (legacy)</option>
+            <option value="clang-arm">clang-arm (legacy)</option>
+            <option value="clang-arm64">clang-arm64 (legacy)</option>
+            <option value="gcc-x86">gcc-x86 (legacy)</option>
+            <option value="gcc-x64">gcc-x64 (legacy)</option>
+            <option value="gcc-arm">gcc-arm (legacy)</option>
+            <option value="gcc-arm64">gcc-arm64 (legacy)</option>
+            <option value="msvc-x86">msvc-x86 (legacy)</option>
+            <option value="msvc-x64">msvc-x64 (legacy)</option>
+            <option value="msvc-arm">msvc-arm (legacy)</option>
+            <option value="msvc-arm64">msvc-arm64 (legacy)</option>
+          </select>
+        </div>
+        <div id="intelliSenseModeInvalid" class="error" style="width: 290px"></div>
+    </div>
+
+    <div class="section">
+        <div class="section-title" data-loc-id="include.path">Zahrnout cestu</div>
+        <div class="section-text">
+            <span data-loc-id="include.path.description">Cesta pro vložené soubory je složka, která obsahuje hlavičkové soubory (třeba <code>#include "myHeaderFile.h"</code>) zahrnuté do zdrojového souboru. Zadejte seznam cest, které modul IntelliSense použije při hledání zahrnutých hlavičkových souborů. Vyhledávání v těchto cestách není rekurzivní. Rekurzivní vyhledávání můžete zapnout zadáním přepínače <code>**</code>. Například při zadání <code>${workspaceFolder}/**</code> se budou prohledávat všechny podadresáře, zatímco při zadání <code>${workspaceFolder}</code> nebudou. Pokud používáte Windows s nainstalovanou sadou Visual Studio nebo pokud je v nastavení <code>compilerPath</code> zadaný kompilátor, není nutné v tomto seznamu uvádět cesty pro systémové vložené soubory.</span>
+        </div>
+        <div>
+          <div class="section-note" data-loc-id="one.include.path.per.line">Na každý řádek jedna cesta pro vložené soubory</div>
+          <textarea name="inputValue" id="includePath" rows="4" cols="93" style="width: 800px"></textarea>
+          <div id="includePathInvalid" class="error" style="margin-top: -4px; width: 794px"></div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title" data-loc-id="defines">Direktivy define</div>
+        <div class="section-text" data-loc-id="defines.description">Seznam definic preprocesoru, které modul IntelliSense použije při parsování souborů. Volitelně můžete pomocí <code>=</code> nastavit hodnotu, třeba <code>VERSION=1</code>.</div>
+        <div>
+            <div class="section-note" data-loc-id="one.definition.per.line">Na každý řádek jedna definice</div>
+            <textarea name="inputValue" id="defines" rows="4" cols="39"></textarea>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title" data-loc-id="c.standard">Standard C</div>
+        <div class="section-text" data-loc-id="c.standard.description">Verze standardu jazyka C, která se použije pro IntelliSense. Poznámka: Standardy GNU se používají jen k odeslání dotazu nastavenému kompilátoru, aby se získaly definice GNU. IntelliSense bude emulovat ekvivalentní verzi standardu C.</div>
+        <div>
+            <select name="inputValue" id="cStandard" class="select-default">
+                <option value="c17">c17</option>
+                <option value="c11">c11</option>
+                <option value="c99">c99</option>
+                <option value="c89">c89</option>
+                <option value="gnu17">gnu17</option>
+                <option value="gnu11">gnu11</option>
+                <option value="gnu99">gnu99</option>
+                <option value="gnu89">gnu89</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title" data-loc-id="cpp.standard">Standard C++</div>
+        <div class="section-text" data-loc-id="cpp.standard.description">Verze standardu jazyka C++, která se použije pro IntelliSense. Poznámka: Standardy GNU se používají jen k odeslání dotazu nastavenému kompilátoru, aby se získaly definice GNU. IntelliSense bude emulovat ekvivalentní verzi standardu C++.</div>
+        <div>
+            <select name="inputValue" id="cppStandard" class="select-default">
+                <option value="c++23">c++23</option>
+                <option value="c++20">c++20</option>
+                <option value="c++17">c++17</option>
+                <option value="c++14">c++14</option>
+                <option value="c++11">c++11</option>
+                <option value="c++03">c++03</option>
+                <option value="c++98">c++98</option>
+                <option value="gnu++23">gnu++23</option>
+                <option value="gnu++20">gnu++20</option>
+                <option value="gnu++17">gnu++17</option>
+                <option value="gnu++14">gnu++14</option>
+                <option value="gnu++11">gnu++11</option>
+                <option value="gnu++03">gnu++03</option>
+                <option value="gnu++98">gnu++98</option>
+            </select>
+        </div>
+    </div>
+
+    <hr>
+    <button id="showAdvanced" class="headerBtn" style="margin-top: 5px; font-size: 20px; font-weight: 500; width: 100%; text-align: left" data-loc-id="advanced.settings">Pokročilá nastavení</button>
+    <div style="height: 30px; display: block"></div>
+
+    <div id="advancedSection">
+
+        <div class="section">
+            <div class="section-title" data-loc-id="configuration.provider">Poskytovatel konfigurace</div>
+            <div class="section-text" data-loc-id="configuration.provider.description">ID rozšíření VS Code, které může poskytnout informace o konfiguraci IntelliSense pro zdrojové soubory. Pokud chcete například poskytnout informace o konfiguraci z rozšíření CMake Tools, použijte ID rozšíření VS Code <code>ms-vscode.cmake-tools</code>.</div>
+            <div>
+                <input name="inputValue" id="configurationProvider" style="width: 290px">
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="windows.sdk.version">Verze sady Windows SDK</div>
+            <div class="section-text" data-loc-id="windows.sdk.version.description">Verze cesty pro vložené soubory sady Windows SDK, která se má použít ve Windows, např. <code>10.0.17134.0</code></div>
+            <div>
+                <input name="inputValue" id="windowsSdkVersion" style="width: 290px">
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="mac.framework.path">Cesta architektury Mac</div>
+            <div class="section-text" data-loc-id="mac.framework.path.description">Seznam cest pro modul IntelliSense, který se použije při hledání zahrnutých hlaviček z architektur Mac. Podporuje se jen pro konfigurace pro macOS.</div>
+            <div>
+                <div class="section-note" data-loc-id="one.path.per.line">Na každý řádek jedna cesta</div>
+                <textarea name="inputValue" id="macFrameworkPath" rows="4" cols="93" style="width: 800px"></textarea>
+                <div id="macFrameworkPathInvalid" class="error" style="margin-top: -4px; width: 794px"></div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="forced.include">Vynucené zahrnutí</div>
+            <div class="section-text" data-loc-id="forced.include.description">Seznam souborů, které by se měly zahrnout dříve, než se zpracují jakékoli jiné znaky ve zdrojovém souboru. Soubory se zahrnují v uvedeném pořadí.</div>
+            <div>
+                <div class="section-note" data-loc-id="one.file.per.line">Na každý řádek jeden soubor</div>
+                <textarea name="inputValue" id="forcedInclude" rows="4" cols="93" style="width: 800px"></textarea>
+                <div id="forcedIncludeInvalid" class="error" style="margin-top: -4px; width: 794px"></div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="dot.config">Konfigurace tečky</div>
+            <div class="section-text" data-loc-id="dot.config.description">Cesta k souboru .config vytvořenému systémem Kconfig. Systém Kconfig vygeneruje soubor se všemi definicemi pro sestavení projektu. Příkladem projektů, které používají systém Kconfig, jsou Linux Kernel a NuttX RTOS.</div>
+            <div>
+                <input name="inputValue" id="dotConfig" style="width: 798px">
+                <div id="dotConfigInvalid" class="error" style="width: 800px"></div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="compile.commands">Příkazy kompilace</div>
+            <div class="section-text">
+                <span data-loc-id="compile.commands.description">Úplná cesta k souboru <code>compile_commands.json</code> pro pracovní prostor. Cesty pro vložené soubory a direktivy define v tomto souboru se použijí namísto hodnot nastavených pro nastavení <code>includePath</code> a <code>defines</code>. Pokud databáze příkazů pro kompilaci neobsahuje položku pro jednotku překladu, která odpovídá souboru otevřenému v editoru, zobrazí se zpráva upozornění a rozšíření místo toho použije nastavení <code>includePath</code> a <code>defines</code>.</span>
+            </div>
+            <div>
+                <input name="inputValue" id="compileCommands" style="width: 798px">
+                <div id="compileCommandsInvalid" class="error" style="width: 800px"></div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="merge.configurations">Sloučit konfigurace</div>
+            <div>
+                <input type="checkbox" id="mergeConfigurations" style="vertical-align: middle; transform: scale(1.5)">
+                    <span data-loc-id="merge.configurations.description">Pokud je tato možnost <code>true</code> (nebo zaškrtnutá), sloučí cesty k zahrnutým souborům, direktivy define a vynucená zahrnutí s těmi od poskytovatele konfigurace.</span>
+                
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="browse.path">Procházení: cesta</div>
+            <div class="section-text">
+                <span data-loc-id="browse.path.description">Seznam cest, na kterých bude analyzátor značek hledat hlavičky zahrnuté zdrojovými soubory. Pokud se vynechá, <code>includePath</code> se použije jako <code>path</code>. Hledání na těchto cestách je standardně rekurzivní. Pokud chcete zadat nerekurzivní vyhledávání, zadejte <code>*</code>. Příklad: <code>/usr/include</code> prohledá všechny podadresáře, zatímco <code>/usr/include/*</code> ne.</span>
+            </div>
+            <div>
+                <div class="section-note" data-loc-id="one.browse.path.per.line">Na každý řádek jedna cesta procházení</div>
+                <textarea name="inputValue" id="browsePath" rows="4" cols="93" style="width: 800px"></textarea>
+                <div id="browsePathInvalid" class="error" style="margin-top: -4px; width: 794px"></div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="limit.symbols">Procházení: omezení symbolů na zahrnuté hlavičky</div>
+            <div>
+                <input type="checkbox" id="limitSymbolsToIncludedHeaders" style="vertical-align: middle; transform: scale(1.5)">
+                    <span data-loc-id="limit.symbols.checkbox">Když se nastaví na <code>true</code> (nebo zaškrtne), analyzátor značek bude parsovat jen soubory kódů, které přímo nebo nepřímo zahrnul zdrojový soubor v <code>${workspaceFolder}</code>. Když se nastaví na <code>false</code> (nebo nezaškrtne), analyzátor značek bude parsovat všechny soubory kódů nalezené na cestách zadaných v seznamu <code>Browse: path</code>.</span>
+                
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="database.filename">Procházení: název souboru databáze</div>
+            <div class="section-text">
+                <span data-loc-id="database.filename.description">Cesta k vygenerované databázi symbolů. Na základě této možnosti bude rozšíření ukládat databázi symbolů analyzátoru značek někam jinam než do výchozího umístění úložiště pracovního prostoru. Pokud se zadá relativní cesta, bude relativní vzhledem k výchozímu umístění úložiště pracovního prostoru, nikoli k samotné složce pracovního prostoru. Pokud chcete zadat cestu relativní ke složce pracovního prostoru (třeba <code>${workspaceFolder}/.vscode/browse.vc.db</code>), dá se použít proměnná <code>${workspaceFolder}</code>.</span>
+            </div>
+            <div>
+                <input name="inputValue" id="databaseFilename" style="width: 798px">
+                <div id="databaseFilenameInvalid" class="error" style="width: 800px"></div>
+            </div>
+        </div>
+
+    </div> <!-- advanced settings end -->
+
+    <!-- sections end -->
+
+  </div> <!-- main end -->
+
+  <script nonce="{{nonce}}" src="{{settings_js_uri}}"></script>
+
+
+
+</body></html>

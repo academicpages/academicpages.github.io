@@ -1,0 +1,4 @@
+version = "5.9.*"
+
+[tool.stubtest]
+platforms = ["darwin", "linux", "win32"]

@@ -1,0 +1,111 @@
+{
+	"type": "object",
+	"description": "Variant 옵션",
+	"additionalProperties": false,
+	"minProperties": 1,
+	"patternProperties": {
+		"base\\$": {
+			"type": "object",
+			"description": "모든 variant의 기본 mix-in(CMake 도구용으로 구현되지 않음)",
+			"additionalProperties": true
+		},
+		"^\\w+$": {
+			"type": "object",
+			"properties": {
+				"description": {
+					"description": "이 옵션에 대한 설명",
+					"type": "string"
+				},
+				"default": {
+					"description": "이 옵션의 기본 설정",
+					"type": "string"
+				},
+				"choices": {
+					"type": "object",
+					"description": "가능한 옵션 값",
+					"minProperties": 1,
+					"patternProperties": {
+						"^\\w+$": {
+							"type": "object",
+							"required": [
+								"short"
+							],
+							"properties": {
+								"short": {
+									"type": "string",
+									"description": "이 값에 대한 간단한 한 단어 설명"
+								},
+								"long": {
+									"type": "string",
+									"description": "이 값이 수행하는 작업에 대한 더 긴 설명"
+								},
+								"buildType": {
+									"type": "string",
+									"default": "Debug",
+									"description": "이 variant의 CMAKE_BUILD_TYPE 값"
+								},
+								"linkage": {
+									"type": "string",
+									"enum": [
+										"static",
+										"shared"
+									],
+									"default": "static",
+									"description": "CMake 명령줄에서 BUILD_SHARED 값 설정"
+								},
+								"env": {
+									"type": "object",
+									"description": "CMake 구성 중에 설정할 환경 변수",
+									"additionalProperties": false,
+									"patternProperties": {
+										"^\\w+$": {
+											"type": "string",
+											"description": "환경 변수 값"
+										}
+									}
+								},
+								"settings": {
+									"type": "object",
+									"description": "이 variant에 대해 CMake에 전달할 -D 인수",
+									"minProperties": 1,
+									"additionalProperties": {
+										"anyOf": [
+											{
+												"type": "string"
+											},
+											{
+												"type": "array",
+												"items": {
+													"type": "string"
+												}
+											},
+											{
+												"type": "integer"
+											},
+											{
+												"type": "boolean"
+											}
+										]
+									}
+								},
+								"generator": {
+									"type": "string",
+									"description": "이 variant에 사용할 CMake 생성기",
+									"default": "Ninja"
+								},
+								"toolset": {
+									"type": "string",
+									"description": "이 variant에 사용할 생성기 도구 집합"
+								}
+							}
+						}
+					}
+				}
+			},
+			"required": [
+				"default",
+				"choices"
+			]
+		}
+	}
+}

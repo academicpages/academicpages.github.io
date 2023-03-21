@@ -1,0 +1,5 @@
+version = "4.17.*"
+
+[tool.stubtest]
+ignore_missing_stub = true
+extras = ["format"]

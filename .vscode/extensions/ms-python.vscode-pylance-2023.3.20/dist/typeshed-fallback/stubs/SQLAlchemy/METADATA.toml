@@ -1,0 +1,10 @@
+version = "1.4.46"
+extra_description = """\
+  The `sqlalchemy-stubs` package is an alternative to this package and also \
+  includes a mypy plugin for more precise types.\
+"""
+obsolete_since = "2.0.0" # Released on 2023-01-26
+
+[tool.stubtest]
+stubtest_requirements = ["pytest"]
+ignore_missing_stub = true

@@ -1,0 +1,34 @@
+{
+  "name": "block-stream2",
+  "version": "2.0.0",
+  "description": "transform input into equally-sized blocks of output",
+  "main": "index.js",
+  "dependencies": {
+    "readable-stream": "^3.4.0"
+  },
+  "devDependencies": {
+    "tape": "^4.2.2"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/substack/block-stream2.git"
+  },
+  "homepage": "https://github.com/substack/block-stream2",
+  "keywords": [
+    "stream",
+    "block",
+    "chunk",
+    "size",
+    "streams2",
+    "streams3"
+  ],
+  "author": {
+    "name": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net"
+  },
+  "license": "MIT"
+}

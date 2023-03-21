@@ -1,0 +1,1086 @@
+{
+	"type": "object",
+	"description": "此預設會指定產生器與組建目錄，並選擇性地指定要傳遞給 CMake 的變數清單與其他引數。",
+	"required": [
+		"version"
+	],
+	"properties": {
+		"version": {
+			"type": "integer",
+			"description": "必要整數，表示 JSON 結構描述的版本。"
+		},
+		"cmakeMinimumRequired": {
+			"type": "object",
+			"description": "選擇性物件，表示建置此專案所需的最低 CMake 版本。",
+			"properties": {
+				"major": {
+					"type": "integer",
+					"description": "選擇性整數，表示主要版本。"
+				},
+				"minor": {
+					"type": "integer",
+					"description": "選擇性整數，表示次要版本。"
+				},
+				"patch": {
+					"type": "integer",
+					"description": "選擇性整數，表示修補程式版本。"
+				}
+			},
+			"additionalProperties": false
+		},
+		"configurePresets": {
+			"type": "array",
+			"description": "設定預設物件的選擇性陣列。",
+			"items": {
+				"type": "object",
+				"description": "設定預設物件。",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "必要字串，表示電腦易記的預設名稱。此識別項會用於 --preset 引數。在相同名稱的相同目錄中，CMakePresets.json 與 CMakeUserPresets.json 的聯合不得具有兩個預設。",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "選擇性布林值，指定是否應隱藏預設。若隱藏預設，則該預設將無法用於 --preset= 引數、不會顯示在 CMake GUI 中，而且不必具有有效的產生器或 binaryDir (即使來自繼承也一樣)。隱藏的預設可作為其他預設的基底，以透過 inherits 欄位進行繼承。"
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "選擇性字串，表示要從中繼承的預設名稱。",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "選擇性字串陣列，表示要從中繼承的預設名稱。根據預設，預設會從繼承預設中繼承所有欄位 (除了 name、hidden、inherits、description 及 displayName)，但您可視需要覆寫這些欄位。若多個繼承預設為同一個欄位提供值而引發衝突，則會優先採用繼承清單中較早的預設。CMakePresets.json 中的預設無法繼承 CMakeUserPresets.json 中的預設。",
+								"items": {
+									"type": "string",
+									"description": "選擇性字串，表示要從中繼承的預設名稱。",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"vendor": {
+						"type": "object",
+						"description": "選擇性對應，包含廠商特定資訊。CMake 不會解譯此欄位的內容，除非要確認其是否為對應 (如果存在)。不過，索引鍵應為廠商特定的網域名稱，後面以 / 分隔的路徑。例如，範例 IDE 1.0 可能會使用 example.com/ExampleIDE/1.0。每個欄位的值可以是廠商所需任意內容，不過通常為對應。",
+						"properties": {
+							"microsoft.com/VisualStudioSettings/CMake/1.0": {
+								"type": "object",
+								"description": "選擇性物件，表示 Visual Studio 設定廠商物件",
+								"properties": {
+									"hostOS": {
+										"anyOf": [
+											{
+												"type": "string",
+												"description": "選擇性字串，表示 hostOS 的名稱。接受的值為 Windows、Linux 和 macOS。",
+												"enum": [
+													"Windows",
+													"Linux",
+													"macOS"
+												]
+											},
+											{
+												"type": "array",
+												"description": "支援的主機作業系統陣列。Visual Studio 和 Visual Studio Code 使用此索引鍵，隱藏不適用於作用中目標系統或主機 OS 的預設。接受的值為 Windows、Linux 和 macOS。",
+												"items": {
+													"type": "string",
+													"description": "選擇性字串，表示 hostOS 的名稱。接受的值為 Windows、Linux 和 macOS。",
+													"enum": [
+														"Windows",
+														"Linux",
+														"macOS"
+													]
+												}
+											}
+										]
+									},
+									"intelliSenseMode": {
+										"type": "string",
+										"description": "選擇性索引鍵，表示慣用的 IntelliSense 模式。在 Visual Studio 和 Visual Studio Code 中計算 IntelliSense 資訊時所使用的模式。",
+										"enum": [
+											"windows-msvc-x86",
+											"windows-msvc-x64",
+											"windows-msvc-arm",
+											"windows-msvc-arm64",
+											"android-clang-x86",
+											"android-clang-x64",
+											"android-clang-arm",
+											"android-clang-arm64",
+											"ios-clang-x86",
+											"ios-clang-x64",
+											"ios-clang-arm",
+											"ios-clang-arm64",
+											"windows-clang-x86",
+											"windows-clang-x64",
+											"windows-clang-arm",
+											"windows-clang-arm64",
+											"linux-gcc-x86",
+											"linux-gcc-x64",
+											"linux-gcc-arm"
+										]
+									},
+									"intelliSenseOptions": {
+										"type": "object",
+										"description": "用來進行進階 IntelliSense 設定的選擇性物件。",
+										"properties": {
+											"useCompilerDefaults": {
+												"type": "boolean",
+												"default": true,
+												"description": "指定是否要將編譯器的預設定義和包含路徑用於 IntelliSense。若使用中的編譯器不支援 GCC 樣式引數，則只能為 false。"
+											},
+											"additionalCompilerArgs": {
+												"anyOf": [
+													{
+														"type": "string",
+														"default": "empty"
+													},
+													{
+														"type": "array",
+														"description": "在 Visual Studio 中控制 IntelliSense 的其他選項陣列。",
+														"items": {
+															"type": "string"
+														}
+													}
+												]
+											}
+										}
+									},
+									"enableMicrosoftCodeAnalysis": {
+										"type": "boolean",
+										"description": "使用 cl 或 clang-cl 建置時，在 Visual Studio 中啟用 Microsoft 程式碼分析。"
+									},
+									"codeAnalysisRuleset": {
+										"type": "string",
+										"description": "在 Visual Studio 中執行 Microsoft 程式碼分析時所要使用的規則集。這可以是 Visual Studio 隨附安裝的規則集檔案路徑或名稱。"
+									},
+									"enableClangTidyCodeAnalysis": {
+										"type": "boolean",
+										"description": "使用 clang-cl 建置時，在 Visual Studio 中啟用 clang-tidy 程式碼分析。"
+									},
+									"clangTidyChecks": {
+										"type": "string",
+										"description": "在 Visual Studio 中執行 clang-tidy 程式碼分析時，傳遞給 clang-tidy 的警告逗號分隔清單。允許使用萬用字元，而且 ‘-‘ 前置詞將會移除檢查。"
+									},
+									"cacheRoot": {
+										"type": "string",
+										"description": "CMake 快取的路徑。此目錄應包含現有的 CMakeCache.txt 檔案。只有 Visual Studio 中的「開啟現有的快取」情節才支援此索引鍵。"
+									},
+									"cmakeGenerateCommand": {
+										"type": "string",
+										"description": "要產生 CMake 快取的命令列工具 (指定為命令列程式 + 引數，例如 \"gencache.bat debug\")。此命令會在叫用快取產生時，從預設指定環境中的殼層執行。只有 Visual Studio 中「開啟現有的快取」情節才支援此索引鍵。"
+									}
+								}
+							},
+							"microsoft.com/VisualStudioRemoteSettings/CMake/1.0": {
+								"type": "object",
+								"description": "選擇性物件，表示 Visual Studio 遠端設定廠商物件",
+								"properties": {
+									"sourceDir": {
+										"type": "string",
+										"default": "$env{HOME}/.vs/${sourceDirName}",
+										"description": "要複製專案的目標遠端系統或 WSL2 安裝目錄路徑。"
+									},
+									"copySources": {
+										"type": "boolean",
+										"default": "true",
+										"description": "若為 true，則 Visual Studio 會將來源從 Windows 複製到遠端系統。若由您自行管理檔案同步，則設定為 false。"
+									},
+									"copySourcesOptions": {
+										"type": "object",
+										"description": "與將來源從 Windows 複製到遠端系統相關的設定物件。",
+										"properties": {
+											"exclusionList": {
+												"type": "array",
+												"default": "[ \".vs\", \".git\", \"out\"]",
+												"description": "將來源檔案複製到遠端系統時，要排除的路徑清單。路徑可以是檔案或目錄的名稱，或是相對於複本根目錄的路徑。",
+												"items": {
+													"type": "string"
+												}
+											},
+											"method": {
+												"type": "string",
+												"default": "rsync",
+												"description": "用來將來源檔案複製到遠端系統的方法。接受的值為 rsync 和 sftp。"
+											},
+											"concurrentCopies": {
+												"type": "integer",
+												"default": 5,
+												"description": "在將來源同步到遠端系統期間，所用的同時複製數目。"
+											},
+											"outputVerbosity": {
+												"type": "string",
+												"default": "Normal",
+												"description": "遠端系統的來源複製作業詳細資訊層級。接受的層級為 [一般]、[詳細資料] 和 [診斷]。",
+												"enum": [
+													"Normal",
+													"Verbose",
+													"Diagnostic"
+												]
+											}
+										}
+									},
+									"rsyncCommandArgs": {
+										"type": "array",
+										"default": "[\"-t\", \"--delete\", \"--delete-excluded\"]",
+										"description": "傳遞給 rsync 的其他命令列引數清單。",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyBuildOutput": {
+										"type": "boolean",
+										"default": false,
+										"description": "指定是否將組建輸出從遠端系統複製回到 Windows。"
+									},
+									"copyOptimizations": {
+										"type": "object",
+										"description": "與來源複製最佳化相關的設定物件。",
+										"properties": {
+											"maxSmallChange": {
+												"type": "integer",
+												"default": 10,
+												"description": "要使用 sftp 而非 rsync 複製的檔案數目上限。"
+											},
+											"useOptimizations": {
+												"type": "string",
+												"default": "RsyncAndSftp",
+												"description": "選取無複製最佳化 (\"None\")、僅限 rsync 的最佳化 (\"RsyncOnly\")，或同時使用 rsync 與 sftp 的最佳化 (\"RsyncAndSftp\")。",
+												"enum": [
+													"None",
+													"RsyncOnly",
+													"RsyncAndSftp"
+												]
+											},
+											"rsyncSingleDirectoryCommandArgs": {
+												"type": "array",
+												"default": "[\"-t\", \"-d\"]",
+												"description": "將單一目錄的內容複寫到遠端系統時，傳遞給 rsync 的其他命令列引數清單。",
+												"items": {
+													"type": "string"
+												}
+											}
+										}
+									},
+									"copyAdditionalIncludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "要為了 IntelliSense 而複製到本機的遠端標頭目錄路徑清單。",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyExcludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "不要為了 IntelliSense 而複製到本機的遠端標頭目錄路徑清單。",
+										"items": {
+											"type": "string"
+										}
+									},
+									"forceWSL1Toolset": {
+										"type": "boolean",
+										"default": false,
+										"description": "若為 true，則 Visual Studio 一律會在以 Visual Studio 中的 WSL 為目標時使用 WSL1 工具組。WSL1 工具組會在本機執行所有命令，並依賴裝載於 /mnt 資料夾下的 Windows 磁碟機，存取 WSL 中的本機來源檔案。使用 WSL2 可能會使這些作業變慢。"
+									}
+								}
+							}
+						}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "選擇性字串，包含易記的預設名稱。"
+					},
+					"description": {
+						"type": "string",
+						"description": "選擇性字串，包含易記的預設描述。"
+					},
+					"generator": {
+						"type": "string",
+						"description": "選擇性字串，表示用於預設的產生器。如果未指定產生器，則必須從繼承預設進行繼承 (除非此預設為隱藏)。請注意，對 Visual Studio 產生器而言，不同於命令列 -G 引數，您不能在產生器名稱中包含平台名稱。請改用結構欄位。"
+					},
+					"architecture": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "選擇性字串，表示支援的產生器平台。"
+							},
+							{
+								"type": "object",
+								"description": "選擇性物件，表示支援的產生器平台。",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "選擇性字串，表示值。"
+									},
+									"strategy": {
+										"type": "string",
+										"description": "選擇性字串，告訴 CMake 如何處理欄位。有效值為: \"set\" 設定各自的值。針對不支援個別欄位的產生器，這會產生錯誤。\"external\" 即使產生器支援，也不要設定值。若某個預設使用 Ninja 產生器，而且 IDE 知道如何從架構和工具組欄位設定 Visual C++ 環境，這會很實用。在此情況下，CMake 將會忽略此欄位，但 IDE 可以使用欄位設定環境，再叫用 CMake。",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"toolset": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "選擇性字串，表示支援的產生器工具組。"
+							},
+							{
+								"type": "object",
+								"description": "選擇性物件，表示支援的產生器工具組。",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "選擇性字串，表示值。"
+									},
+									"strategy": {
+										"type": "string",
+										"description": "選擇性字串，告訴 CMake 如何處理欄位。有效值為: \"set\" 設定各自的值。針對不支援個別欄位的產生器，這會產生錯誤。\"external\" 即使產生器支援，也不要設定值。若某個預設使用 Ninja 產生器，而且 IDE 知道如何從架構和工具組欄位設定 Visual C++ 環境，這會很實用。在此情況下，CMake 將會忽略此欄位，但 IDE 可以使用欄位設定環境，再叫用 CMake。",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"binaryDir": {
+						"type": "string",
+						"description": "選擇性字串，表示輸出二進位目錄的路徑。此欄位支援巨集展開。如果指定了相對路徑，其會相對於來源目錄進行計算。如果未指定 binaryDir，則必須從繼承預設進行繼承 (除非此預設為隱藏)。"
+					},
+					"cmakeExecutable": {
+						"type": "string",
+						"description": "選擇性字串，表示用於此預設的 CMake 可執行檔路徑。保留供 IDE 使用，而非 CMake 自身使用。使用此欄位的 IDE 應在其中展開所有巨集。"
+					},
+					"cacheVariables": {
+						"type": "object",
+						"description": "快取變數的選擇性對應。索引鍵為變數的名稱 (不得為空字串)。快取變數會透過 inherits 欄位繼承，而且預設的變數會是其自身 cacheVariables 與其所有父系 cacheVariables 的聯合。如果此聯合中有多個預設定義了相同的變數，就會套用繼承的標準規則。",
+						"properties": {
+							"CMAKE_C_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "要用於 C 的編譯器。"
+									},
+									{
+										"type": "null",
+										"description": "將變數設定為 Null，會使該變數成為未設定狀態，即使是從另一個預設繼承的值也是如此。"
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_CXX_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "要用於 C++ 的編譯器。"
+									},
+									{
+										"type": "null",
+										"description": "將變數設定為 Null，會使該變數成為未設定狀態，即使是從另一個預設繼承的值也是如此。"
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_INSTALL_PREFIX": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "CMake 所使用的安裝目錄。"
+									},
+									{
+										"type": "null",
+										"description": "將變數設定為 Null，會使該變數成為未設定狀態，即使是從另一個預設繼承的值也是如此。"
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_TOOLCHAIN_FILE": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "傳遞給 CMake 的工具鏈檔案。"
+									},
+									{
+										"type": "null",
+										"description": "將變數設定為 Null，會使該變數成為未設定狀態，即使是從另一個預設繼承的值也是如此。"
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_BUILD_TYPE": {
+								"description": "在單一組態產生器上指定組建類型。",
+								"anyOf": [
+									{
+										"type": "string",
+										"enum": [
+											"Debug",
+											"Release",
+											"RelWithDebInfo",
+											"MinSizeRel"
+										]
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									},
+									{
+										"type": "string"
+									},
+									{
+										"type": "null",
+										"description": "將變數設定為 Null，會使該變數成為未設定狀態，即使是從另一個預設繼承的值也是如此。"
+									}
+								]
+							}
+						},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "將變數設定為 Null，會使該變數成為未設定狀態，即使是從另一個預設繼承的值也是如此。"
+								},
+								{
+									"type": "boolean",
+									"description": "布林值，表示變數的值。相當於 \"TRUE\" 或 \"FALSE\"。"
+								},
+								{
+									"type": "string",
+									"description": "字串，表示變數值 (支援巨集展開)。"
+								},
+								{
+									"type": "object",
+									"description": "物件，表示變數類型與值。",
+									"properties": {
+										"type": {
+											"type": "string",
+											"description": "選擇性字串，表示變數類型。其必須為 BOOL、FILEPATH、PATH、STRING 或 INTERNAL。"
+										},
+										"value": {
+											"anyOf": [
+												{
+													"type": "boolean",
+													"description": "必要布林值，表示變數的值。相當於 \"TRUE\" 或 \"FALSE\"。"
+												},
+												{
+													"type": "string",
+													"description": "必要字串，表示變數值。此欄位支援巨集展開。"
+												}
+											]
+										}
+									},
+									"required": [
+										"value"
+									],
+									"additionalProperties": false
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"environment": {
+						"type": "object",
+						"description": "環境變數的選擇性對應。索引鍵為變數的名稱 (不得為空字串)。無論處理序的環境是否為每個變數指定了值，都將設定每個變數。此欄位支援巨集展開，此對應中的環境變數可能會互相參考，而且只要這類參考不會形成迴圈 (例如，如果 ENV_1 為 $env{ENV_2}，則 ENV_2 不得為 $env{ENV_1})，就可能會以任意順序列出。環境變數會透過 inherits 欄位繼承，而且預設的環境會是其本身環境與其所有父系環境的聯合。如果此聯合中有多個預設定義了相同的變數，就會套用繼承的標準規則。將變數設定為 Null，會使該變數成為未設定狀態，即使是從另一個預設繼承的值也是如此。",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "將變數設定為 Null，會使該變數成為未設定狀態，即使是從另一個預設繼承的值也是如此。"
+								},
+								{
+									"type": "string",
+									"description": "字串，表示變數值。"
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"warnings": {
+						"type": "object",
+						"description": "選擇性物件，指定警告。",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "選擇性布林值，相當於在命令列上傳遞 -Wdev 或 -Wno-dev 。如果將 errors.dev 設為 True，則無法將此布林值設為 False。"
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "選擇性布林值，相當於在命令列上傳遞 -Wdeprecated 或 -Wno-deprecated。如果將 errors.deprecated 設為 True，則無法將此布林值設為 False。"
+							},
+							"uninitialized": {
+								"type": "boolean",
+								"description": "選擇性布林值，將此布林值設為 True 相當於在命令列上傳遞 --warn-uninitialized。"
+							},
+							"unusedCli": {
+								"type": "boolean",
+								"description": "選擇性布林值，將此布林值設為 False 相當於在命令列上傳遞 --no-warn-unused-cli。"
+							},
+							"systemVars": {
+								"type": "boolean",
+								"description": "選擇性布林值，將此布林值設為 True 相當於在命令列上傳遞 --check-system-vars。"
+							}
+						},
+						"additionalProperties": false
+					},
+					"errors": {
+						"type": "object",
+						"description": "選擇性物件，指定錯誤。",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "選擇性布林值，相當於在命令列上傳遞 -Werror=dev 或 -Wno-error=dev。如果將 warnings.dev 設為 False，則無法將此布林值設為 True。"
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "選擇性布林值，相當於在命令列上傳遞 -Werror=deprecated 或 -Wno-error=deprecated。如果將 warnings.deprecated 設為 False，則無法將此布林值設為 True。"
+							}
+						},
+						"additionalProperties": false
+					},
+					"debug": {
+						"type": "object",
+						"description": "選擇性物件，指定偵錯選項。",
+						"properties": {
+							"output": {
+								"type": "boolean",
+								"description": "選擇性布林值。將此布林值設定為 true 相當於在命令列上傳遞 --debug-output。"
+							},
+							"tryCompile": {
+								"type": "boolean",
+								"description": "選擇性布林值，將此布林值設定為 true 相當於在命令列上傳遞 --debug-trycompile。"
+							},
+							"find": {
+								"type": "boolean",
+								"description": "選擇性布林值。將此布林值設定為 true 相當於在命令列上傳遞 --debug-find。"
+							}
+						},
+						"additionalProperties": false
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"buildPresets": {
+			"type": "array",
+			"description": "選擇性組建預設物件陣列。用來指定 cmake --build 的引數。適用於版本 2 及更高版本。",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "必要字串，表示機器易記的預設名稱。此識別項會用於 --preset 引數。在相同名稱的相同目錄中，CMakePresets.json 與 CMakeUserPresets.json 的聯合不得具有兩個預設 (設定、組建或測試)。",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "選擇性布林值，指定是否應隱藏預設。若隱藏預設，則該預設將無法用於 --preset 引數、不會顯示在 CMake GUI 中，而且不必具有有效的 configurePreset (即使來自繼承也一樣)。隱藏的預設可作為其他預設的基底，以透過 inherits 欄位進行繼承。"
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "選擇性字串，表示要從中繼承的組建預設名稱。",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "選擇性字串陣列，表示要從中繼承的組建預設名稱。根據預設，預設會從繼承預設中繼承所有欄位 (除了 name、hidden、inherits、description 以及 displayName)，但您可視需要覆寫這些欄位。若多個繼承預設為同一個欄位提供值而引發衝突，則會優先採用繼承清單中較早的預設。CMakePresets.json 中的預設無法繼承 CMakeUserPresets.json 中的預設。",
+								"items": {
+									"type": "string",
+									"description": "選擇性字串，表示要從中繼承的預設名稱。",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "選擇性字串，指定要與此組建預設建立關聯的設定預設名稱。若未指定 configurePreset，則必須繼承自繼承預設 (除非隱藏此預設)。組建樹狀目錄是從設定預設推斷出來。",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "選擇性對應，包含廠商特定資訊。CMake 不會解譯此欄位的內容，除非要確認其是否為對應 (如果存在)。不過，其應遵循與根層級廠商欄位相同的慣例。如果廠商使用自己的預設廠商欄位，則應在適當時以合理的方式實作繼承。",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "選擇性字串，包含易記的預設名稱。"
+					},
+					"description": {
+						"type": "string",
+						"description": "選擇性字串，包含易記的預設描述。"
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "預設為 true 的選擇性布林值。若為 true，則會繼承來自已建立關聯設定預設的環境變數，繼承的時間點在所有繼承的組建預設環境之後，但在於此組建預設中明確指定環境變數之前。"
+					},
+					"environment": {
+						"type": "object",
+						"description": "環境變數的選擇性對應。索引鍵為變數的名稱 (不得為空字串)。無論處理序的環境是否為每個變數指定了值，都將設定每個變數。此欄位支援巨集展開，此對應中的環境變數可能會互相參考，而且只要這類參考不會形成迴圈 (例如，如果 ENV_1 為 $env{ENV_2}，則 ENV_2 不得為 $env{ENV_1})，就可能會以任意順序列出。環境變數會透過 inherits 欄位繼承，而且預設的環境會是其本身環境與其所有父系環境的聯合。如果此聯合中有多個預設定義了相同的變數，就會套用繼承的標準規則。將變數設定為 Null，會使該變數成為未設定狀態，即使是從另一個預設繼承的值也是如此。",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "將變數設定為 Null，會使該變數成為未設定狀態，即使是從另一個預設繼承的值也是如此。"
+								},
+								{
+									"type": "string",
+									"description": "字串，表示變數值。"
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"jobs": {
+						"type": "integer",
+						"description": "選擇性整數。相當於在命令列上傳遞 --parallel 或 -j。"
+					},
+					"targets": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "選擇性字串。相當於在命令列上傳遞 --target 或 -t。廠商可能會忽略目標屬性或隱藏明確指定目標的組建預設。"
+							},
+							{
+								"type": "array",
+								"description": "選擇性字串陣列。相當於在命令列上傳遞 --target 或 -t。廠商可能會忽略目標屬性或隱藏明確指定目標的組建預設。",
+								"items": {
+									"type": "string",
+									"description": "選擇性字串。相當於在命令列上傳遞 --target 或 -t。廠商可能會忽略目標屬性或隱藏明確指定目標的組建預設。"
+								}
+							}
+						]
+					},
+					"configuration": {
+						"type": "string",
+						"description": "選擇性字串。相當於在命令列上傳遞 --config。"
+					},
+					"cleanFirst": {
+						"type": "boolean",
+						"description": "選擇性布林值。若為 true，則相當於在命令列上傳遞 --clean-first。"
+					},
+					"verbose": {
+						"type": "boolean",
+						"description": "選擇性布林值。若為 true，則相當於在命令列上傳遞 --verbose。"
+					},
+					"nativeToolOptions": {
+						"type": "array",
+						"description": "選擇性字串陣列。相當於在命令列上 -- 之後傳遞選項。",
+						"items": {
+							"type": "string",
+							"description": "選擇性字串，表示要在命令列上 -- 之後傳遞的選項。"
+						}
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"testPresets": {
+			"type": "array",
+			"description": "選擇性測試預設物件陣列。用來指定要 ctest 的引數。適用於版本 2 及更高版本。",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "必要字串，表示機器易記的預設名稱。此識別項會用於 --preset 引數。在相同名稱的相同目錄中，CMakePresets.json 與 CMakeUserPresets.json 的聯合不得具有兩個預設 (設定、組建或測試)。",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "選擇性布林值，指定是否應隱藏預設。若隱藏預設，則該預設將無法用於 --preset 引數、不會顯示在 CMake GUI 中，而且不必具有有效的 configurePreset (即使來自繼承也一樣)。隱藏的預設可作為其他預設的基底，以透過 inherits 欄位進行繼承。"
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "選擇性字串，表示要從中繼承的測試預設名稱。",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "選擇性字串陣列，表示要從中繼承的測試預設名稱。根據預設，預設會從繼承預設中繼承所有欄位 (除了 name、hidden、inherits、description 及 displayName)，但您可視需要覆寫這些欄位。若多個繼承預設為同一個欄位提供值而引發衝突，則會優先採用繼承清單中較早的預設。CMakePresets.json 中的預設無法繼承 CMakeUserPresets.json 中的預設。",
+								"items": {
+									"type": "string",
+									"description": "選擇性字串，表示要從中繼承的預設名稱。",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "選擇性字串，指定要與此測試預設建立關聯的設定預設名稱。若未指定 configurePreset，則必須繼承自繼承預設 (除非隱藏此預設)。組建樹狀目錄是從設定預設推斷出來。",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "選擇性對應，包含廠商特定資訊。CMake 不會解譯此欄位的內容，除非要確認其是否為對應 (如果存在)。不過，其應遵循與根層級廠商欄位相同的慣例。如果廠商使用自己的預設廠商欄位，則應在適當時以合理的方式實作繼承。",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "選擇性字串，包含易記的預設名稱。"
+					},
+					"description": {
+						"type": "string",
+						"description": "選擇性字串，包含易記的預設描述。"
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "預設為 true 的選擇性布林值。若為 true，則來自相關聯設定預設的環境變數會在所有繼承的測試預設環境之後，但在此測試預設中明確指定的環境變數之前繼承。"
+					},
+					"environment": {
+						"type": "object",
+						"description": "環境變數的選擇性對應。索引鍵為變數的名稱 (不得為空字串)。無論處理序的環境是否為每個變數指定了值，都將設定每個變數。此欄位支援巨集展開，此對應中的環境變數可能會互相參考，而且只要這類參考不會形成迴圈 (例如，如果 ENV_1 為 $env{ENV_2}，則 ENV_2 不得為 $env{ENV_1})，就可能會以任意順序列出。環境變數會透過 inherits 欄位繼承，而且預設的環境會是其本身環境與其所有父系環境的聯合。如果此聯合中有多個預設定義了相同的變數，就會套用繼承的標準規則。將變數設定為 Null，會使該變數成為未設定狀態，即使是從另一個預設繼承的值也是如此。",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "將變數設定為 Null，會使該變數成為未設定狀態，即使是從另一個預設繼承的值也是如此。"
+								},
+								{
+									"type": "string",
+									"description": "字串，表示變數值。"
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"configuration": {
+						"type": "string",
+						"description": "選擇性字串。相當於在命令列上傳遞 --build-config。"
+					},
+					"overwriteConfigurationFile": {
+						"type": "array",
+						"description": "選擇性設定選項陣列，用來覆寫 CTest 設定檔中所指定的選項。相當於傳遞 ``--overwrite`` 給陣列中的每個值。",
+						"items": {
+							"type": "string",
+							"description": "以 \"key=value\" 格式作為索引鍵/值組寫入的選項。"
+						}
+					},
+					"output": {
+						"type": "object",
+						"description": "選擇性物件，指定輸出選項。",
+						"properties": {
+							"shortProgress": {
+								"type": "boolean",
+								"description": "選擇性布林值。若為 true，則相當於在命令列上傳遞 --progress。"
+							},
+							"verbosity": {
+								"type": "string",
+								"description": "選擇性字串，指定詳細資訊層級。有效值為 \"default\" (相當於在命令列上傳遞沒有詳細資訊旗標)、\"verbose\" (相當於在命令列上傳遞 --verbose) 和 \"extra\" (相當於在命令列上傳遞 --extra-verbose)。",
+								"enum": [
+									"default",
+									"verbose",
+									"extra"
+								]
+							},
+							"debug": {
+								"type": "boolean",
+								"description": "選擇性布林值。若為 true，則相當於在命令列上傳遞 --debug。"
+							},
+							"outputOnFailure": {
+								"type": "boolean",
+								"description": "選擇性布林值。若為 true，則相當於在命令列上傳遞 --output-on-failure。"
+							},
+							"quiet": {
+								"type": "boolean",
+								"description": "選擇性布林值。若為 true，則相當於在命令列上傳遞 --quiet。"
+							},
+							"outputLogFile": {
+								"type": "string",
+								"description": "選擇性字串，指定記錄檔的路徑。相當於在命令列上傳遞 --output-log。"
+							},
+							"labelSummary": {
+								"type": "boolean",
+								"description": "選擇性布林值。若為 false，則相當於在命令列上傳遞 --no-label-summary。"
+							},
+							"subprojectSummary": {
+								"type": "boolean",
+								"description": "選擇性布林值。若為 false，則相當於在命令列上傳遞 --no-subproject-summary。"
+							},
+							"maxPassedTestOutputSize": {
+								"type": "integer",
+								"description": "選擇性整數，指定成功測試的最大輸出 (位元組)。相當於在命令列上傳遞 --test-output-size-passed。"
+							},
+							"maxFailedTestOutputSize": {
+								"type": "integer",
+								"description": "選擇性整數，指定失敗測試的最大輸出 (位元組)。相當於在命令列上傳遞 --test-output-size-failed。"
+							},
+							"maxTestNameWidth": {
+								"type": "integer",
+								"description": "選擇性整數，指定要輸出的測試名稱最大寬度。相當於在命令列上傳遞 --max-width。"
+							}
+						},
+						"additionalProperties": false
+					},
+					"filter": {
+						"type": "object",
+						"description": "選擇性物件，指定如何篩選要執行的測試。",
+						"properties": {
+							"include": {
+								"type": "object",
+								"description": "選擇性物件，指定要包含哪些測試。",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "選擇性字串，指定測試名稱的 RegEx。相當於在命令列上傳遞 --tests-regex。"
+									},
+									"label": {
+										"type": "string",
+										"description": "選擇性字串，指定測試標籤的 RegEx。相當於在命令列上傳遞 --label-regex。"
+									},
+									"index": {
+										"anyOf": [
+											{
+												"type": "object",
+												"description": "選擇性物件，指定測試索引所要包含的測試。",
+												"properties": {
+													"start": {
+														"type": "integer",
+														"description": "選擇性整數，指定測試開始位置的測試索引。"
+													},
+													"end": {
+														"type": "integer",
+														"description": "選擇性整數，指定測試停止位置的測試索引。"
+													},
+													"stride": {
+														"type": "integer",
+														"description": "選擇性整數，指定增量。"
+													},
+													"specificTests": {
+														"type": "array",
+														"description": "選擇性整數陣列，指定要執行的特定測試索引。",
+														"items": {
+															"type": "integer",
+															"description": "整數，指定要由索引執行的測試。"
+														}
+													}
+												},
+												"additionalProperties": false
+											},
+											{
+												"type": "string",
+												"description": "選擇性字串，指定具有 --tests-information 命令列語法的檔案。"
+											}
+										]
+									},
+									"useUnion": {
+										"type": "boolean",
+										"description": "選擇性布林值。相當於在命令列上傳遞 --union。"
+									}
+								},
+								"additionalProperties": false
+							},
+							"exclude": {
+								"type": "object",
+								"description": "選擇性物件，指定要排除哪些測試。",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "選擇性字串，指定測試名稱的 RegEx。相當於在命令列上傳遞 --exclude-regex。"
+									},
+									"label": {
+										"type": "string",
+										"description": "選擇性字串，指定測試標籤的 RegEx。相當於在命令列上傳遞 --label-exclude。"
+									},
+									"fixtures": {
+										"type": "object",
+										"description": "選擇性物件，指定哪些固件不要加入測試。",
+										"properties": {
+											"any": {
+												"type": "string",
+												"description": "選擇性字串，指定不要加入任何測試的文字固件 RegEx。相當於在命令列上傳遞 --fixture-exclude-any。"
+											},
+											"setup": {
+												"type": "string",
+												"description": "選擇性字串，指定不要加入設定測試的文字固件 RegEx。相當於在命令列上傳遞 --fixture-exclude-setup。"
+											},
+											"cleanup": {
+												"type": "string",
+												"description": "選擇性字串，指定不要加入清除測試的文字固件 RegEx。相當於在命令列上傳遞 --fixture-exclude-cleanup。"
+											}
+										},
+										"additionalProperties": false
+									}
+								}
+							}
+						},
+						"additionalProperties": false
+					},
+					"execution": {
+						"type": "object",
+						"description": "選擇性物件，指定測試執行的選項。",
+						"properties": {
+							"stopOnFailure": {
+								"type": "boolean",
+								"description": "選擇性布林值。若為 true，則相當於在命令列上傳遞 --stop-on-failure。"
+							},
+							"enableFailover": {
+								"type": "boolean",
+								"description": "選擇性布林值。若為 true，則相當於在命令列上傳遞 -F。"
+							},
+							"jobs": {
+								"type": "integer",
+								"description": "選擇性整數。相當於在命令列上傳遞 --parallel。"
+							},
+							"resourceSpecFile": {
+								"type": "string",
+								"description": "選擇性字串。相當於在命令列上傳遞 --resource-spec-file。"
+							},
+							"testLoad": {
+								"type": "integer",
+								"description": "選擇性整數。相當於在命令列上傳遞 --test-load。"
+							},
+							"showOnly": {
+								"type": "string",
+								"description": "選擇性字串。相當於在命令列上傳遞 --show-only。值必須是 \"human\" 或 \"json-v1\"。",
+								"enum": [
+									"human",
+									"json-v1"
+								]
+							},
+							"repeat": {
+								"type": "object",
+								"description": "選擇性物件，指定如何重複測試。相當於在命令列上傳遞 --repeat。",
+								"properties": {
+									"mode": {
+										"type": "string",
+										"description": "必要字串。必須是下列其中一個值: \"until-fail\"、\"until-pass\" 或 \"after-timeout\"。",
+										"enum": [
+											"until-fail",
+											"until-pass",
+											"after-timeout"
+										]
+									},
+									"count": {
+										"type": "integer",
+										"description": "必要整數。"
+									}
+								},
+								"required": [
+									"mode",
+									"count"
+								],
+								"additionalProperties": false
+							},
+							"interactiveDebugging": {
+								"type": "boolean",
+								"description": "選擇性布林值。若為 true，則相當於在命令列上傳遞 --interactive-debug-mode 1。若為 false，則相當於在命令列上傳遞 --interactive-debug-mode 0。"
+							},
+							"scheduleRandom": {
+								"type": "boolean",
+								"description": "選擇性布林值。若為 true，則相當於在命令列上傳遞 --schedule-random。"
+							},
+							"timeout": {
+								"type": "integer",
+								"description": "選擇性整數。相當於在命令列上傳遞 --timeout。"
+							},
+							"noTestsAction": {
+								"type": "string",
+								"description": "選擇性字串，指定未找到測試時的行為。必須是下列其中一個值: \"default\" (相當於未在命令列上傳遞任何值)、\"error\" (相當於在命令列上傳遞 --no-tests=error) 或 \"ignore\" (相當於在命令列上傳遞 --no-tests-ignore)。",
+								"enum": [
+									"default",
+									"error",
+									"ignore"
+								]
+							}
+						},
+						"additionalProperties": false
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"vendor": {
+			"type": "object",
+			"description": "選擇性對應，包含廠商特定資訊。CMake 不會解譯此欄位的內容，除非要確認其是否為對應 (如果存在)。不過，索引鍵應為廠商特定的網域名稱，後面以 / 分隔的路徑。例如，範例 IDE 1.0 可能會使用 example.com/ExampleIDE/1.0。每個欄位的值可以是廠商所需任意內容，不過通常為對應。",
+			"properties": {}
+		}
+	},
+	"additionalProperties": false
+}

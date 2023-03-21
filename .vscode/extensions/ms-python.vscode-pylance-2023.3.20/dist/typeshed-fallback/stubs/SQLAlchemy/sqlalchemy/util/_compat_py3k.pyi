@@ -1,0 +1,13 @@
+from types import TracebackType
+from typing import Any
+
+class _AsyncGeneratorContextManager:
+    gen: Any
+    __doc__: Any
+    def __init__(self, func, args, kwds) -> None: ...
+    async def __aenter__(self): ...
+    async def __aexit__(
+        self, typ: type[BaseException] | None, value: BaseException | None, traceback: TracebackType | None
+    ) -> bool | None: ...
+
+def asynccontextmanager(func): ...

@@ -1,0 +1,17 @@
+{
+    "version": "0.1.0",
+    "command": "grunt",
+    "isShellCommand": true,
+    "tasks": [
+        {
+            "taskName": "test",
+            "args": [],
+            "isTestCommand": true
+        },
+        {
+            "taskName": "peg",
+            "args": [],
+            "isBuildCommand": true
+        }
+    ]
+}

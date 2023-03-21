@@ -1,0 +1,63 @@
+<!--
+<html>
+  <head>
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      jax: ["input/TeX", "output/HTML-CSS"],
+      extensions: ["tex2jax.js"],
+      showMathMenu: false,
+      tex2jax: {inlineMath: [['$','$']],
+                displayMath: [['$$','$$']],
+                processEscapes: true},
+      "HTML-CSS": {
+        preferredFont: "TeX"
+      }
+    })
+    </script>
+    <script type="text/javascript" async src="MathJax.js?config=TeX-AMS_CHTML"></script>
+  </head>
+  <body>
+    <div>
+$x + 1$
+$\sum_{i=1}^n$
+$\stackrel{\Delta}=$
+    </div>
+  </body>
+</html>
+-->
+<html>
+  <head>
+    <script type="text/javascript" async src="MathJax.js?delayStartupUntil=configured"></script>
+  </head>
+  <body>
+    <div id="container" class="container">
+$x + 1$
+$\sum_{i=1}^n$
+$\stackrel{\Delta}=$
+    </div>
+
+    <div>
+      this should not be rendered $x + 1$
+    </div>
+
+  </body>
+
+  <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    extensions: ["tex2jax.js"],
+    jax: ["input/TeX", "output/HTML-CSS"],
+    showMathMenu: false,
+    messageStyle: "none",
+    processClass: 'container',
+    tex2jax: {inlineMath: [['$','$']],
+              displayMath: [['$$','$$']],
+              processEscapes: true,
+              processEnvironments: true,
+              preview: "none"},
+    "HTML-CSS": { availableFonts: ["TeX"] }
+  })
+
+  // this needs to be called in browser.
+  MathJax.Hub.Configured()
+  </script>
+</html>

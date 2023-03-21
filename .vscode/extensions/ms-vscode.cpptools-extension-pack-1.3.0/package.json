@@ -1,0 +1,52 @@
+{
+	"name": "cpptools-extension-pack",
+	"displayName": "C/C++ Extension Pack",
+	"description": "Popular extensions for C++ development in Visual Studio Code.",
+	"publisher": "ms-vscode",
+	"icon": "LanguageCCPP_color_128x.png",
+	"readme": "README.md",
+	"author": {
+		"name": "Microsoft Corporation"
+	},
+	"license": "SEE LICENSE IN LICENSE.txt",
+	"version": "1.3.0",
+	"engines": {
+		"vscode": "^1.48.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"activationEvents": [
+		"onCommand:ms-vscode.cpptools-extension-pack.unavailableCommand"
+	],
+	"main": "main.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/microsoft/vscode-cpptools.git",
+		"directory": "ExtensionPack"
+	},
+	"keywords": [
+		"C",
+		"C++",
+		"IntelliSense",
+		"Microsoft",
+		"color-theme",
+		"build",
+		"cmake"
+	],
+	"extensionPack": [
+		"ms-vscode.cpptools",
+		"ms-vscode.cpptools-themes",
+		"ms-vscode.cmake-tools"
+	],
+	"__metadata": {
+		"id": "3957b2f6-f086-49b5-a7b4-5da772123130",
+		"publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+		"publisherDisplayName": "Microsoft",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1671082203240
+	}
+}

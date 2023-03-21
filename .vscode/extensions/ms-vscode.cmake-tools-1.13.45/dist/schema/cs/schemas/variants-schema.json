@@ -1,0 +1,111 @@
+{
+	"type": "object",
+	"description": "Možnosti varianty",
+	"additionalProperties": false,
+	"minProperties": 1,
+	"patternProperties": {
+		"base\\$": {
+			"type": "object",
+			"description": "Základní kombinace pro všechny varianty (není implementována pro nástroje CMake Tools)",
+			"additionalProperties": true
+		},
+		"^\\w+$": {
+			"type": "object",
+			"properties": {
+				"description": {
+					"description": "Popis této možnosti",
+					"type": "string"
+				},
+				"default": {
+					"description": "Výchozí nastavení pro tuto možnost",
+					"type": "string"
+				},
+				"choices": {
+					"type": "object",
+					"description": "Možná hodnota možnosti",
+					"minProperties": 1,
+					"patternProperties": {
+						"^\\w+$": {
+							"type": "object",
+							"required": [
+								"short"
+							],
+							"properties": {
+								"short": {
+									"type": "string",
+									"description": "Jednoduchý jednoslovný popis této hodnoty"
+								},
+								"long": {
+									"type": "string",
+									"description": "Delší popis účinku použití této hodnoty"
+								},
+								"buildType": {
+									"type": "string",
+									"default": "Debug",
+									"description": "Hodnota CMAKE_BUILD_TYPE pro tuto variantu"
+								},
+								"linkage": {
+									"type": "string",
+									"enum": [
+										"static",
+										"shared"
+									],
+									"default": "static",
+									"description": "Nastaví hodnotu BUILD_SHARED na příkazovém řádku CMake."
+								},
+								"env": {
+									"type": "object",
+									"description": "Proměnné prostředí, které se mají nastavit během konfigurace CMake",
+									"additionalProperties": false,
+									"patternProperties": {
+										"^\\w+$": {
+											"type": "string",
+											"description": "Hodnota pro proměnnou prostředí"
+										}
+									}
+								},
+								"settings": {
+									"type": "object",
+									"description": "Argumenty -D, které se mají předat nástrojům CMake pro tuto variantu",
+									"minProperties": 1,
+									"additionalProperties": {
+										"anyOf": [
+											{
+												"type": "string"
+											},
+											{
+												"type": "array",
+												"items": {
+													"type": "string"
+												}
+											},
+											{
+												"type": "integer"
+											},
+											{
+												"type": "boolean"
+											}
+										]
+									}
+								},
+								"generator": {
+									"type": "string",
+									"description": "Generátor CMake, který se má použít pro tuto variantu",
+									"default": "Ninja"
+								},
+								"toolset": {
+									"type": "string",
+									"description": "Sada nástrojů generátoru, která se má použít pro tuto variantu"
+								}
+							}
+						}
+					}
+				}
+			},
+			"required": [
+				"default",
+				"choices"
+			]
+		}
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"messages": [
+		"Debugger type '{0}' is not avaliable for non-Windows machines."
+	],
+	"keys": [
+		"debugger.not.available"
+	],
+	"filePath": "src\\Debugger\\debugAdapterDescriptorFactory"
+}

@@ -1,0 +1,132 @@
+{
+	"name": "jupyter-keymap",
+	"publisher": "ms-toolsai",
+	"author": {
+		"name": "Microsoft Corporation"
+	},
+	"license": "MIT",
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#ffffff",
+		"theme": "light"
+	},
+	"displayName": "Jupyter Keymap",
+	"description": "Jupyter keymaps for notebooks",
+	"version": "1.1.0",
+	"engines": {
+		"vscode": "^1.60.0-insider"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Microsoft/vscode-jupyter-keymap"
+	},
+	"bugs": {
+		"url": "https://github.com/Microsoft/vscode-jupyter-keymap/issues"
+	},
+	"categories": [
+		"Notebooks"
+	],
+	"keywords": [
+		"notebook-keymap"
+	],
+	"contributes": {
+		"keybindings": [
+			{
+				"key": "F",
+				"when": "notebookEditorFocused && !inputFocus && !notebookOutputFocused",
+				"command": "notebook.find"
+			},
+			{
+				"key": "K",
+				"when": "notebookEditorFocused && !inputFocus && !notebookOutputFocused",
+				"command": "list.focusUp"
+			},
+			{
+				"key": "J",
+				"when": "notebookEditorFocused && !inputFocus && !notebookOutputFocused",
+				"command": "list.focusDown"
+			},
+			{
+				"key": "A",
+				"when": "notebookEditorFocused && !inputFocus && !notebookOutputFocused",
+				"command": "notebook.cell.insertCodeCellAboveAndFocusContainer"
+			},
+			{
+				"key": "B",
+				"when": "notebookEditorFocused && !inputFocus && !notebookOutputFocused",
+				"command": "notebook.cell.insertCodeCellBelowAndFocusContainer"
+			},
+			{
+				"key": "D D",
+				"when": "notebookEditorFocused && !inputFocus && !notebookOutputFocused",
+				"command": "notebook.cell.delete"
+			},
+			{
+				"key": "Z",
+				"when": "notebookEditorFocused && !inputFocus && !notebookOutputFocused",
+				"command": "undo"
+			},
+			{
+				"key": "S",
+				"when": "notebookEditorFocused && !inputFocus && !notebookOutputFocused",
+				"command": "workbench.action.files.save"
+			},
+			{
+				"key": "C",
+				"when": "notebookEditorFocused && !inputFocus && !notebookOutputFocused",
+				"command": "notebook.cell.copy"
+			},
+			{
+				"key": "X",
+				"when": "notebookEditorFocused && !inputFocus && !notebookOutputFocused",
+				"command": "notebook.cell.cut"
+			},
+			{
+				"key": "V",
+				"when": "notebookEditorFocused && !inputFocus && !notebookOutputFocused",
+				"command": "notebook.cell.paste"
+			},
+			{
+				"key": "shift+L",
+				"when": "notebookEditorFocused && !inputFocus && !notebookOutputFocused",
+				"command": "notebook.toggleLineNumbers"
+			},
+			{
+				"key": "O",
+				"when": "notebookEditorFocused && !inputFocus && !notebookOutputFocused",
+				"command": "notebook.cell.toggleOutputs"
+			},
+			{
+				"key": "L",
+				"when": "notebookEditorFocused && !inputFocus && !notebookOutputFocused",
+				"command": "notebook.cell.toggleLineNumbers"
+			},
+			{
+				"key": "ctrl+shift+-",
+				"when": "editorTextFocus && inputFocus && notebookEditorFocused && !notebookOutputFocused",
+				"command": "notebook.cell.split"
+			},
+			{
+				"key": "ctrl+enter",
+				"when": "editorTextFocus && inputFocus && notebookEditorFocused || notebookCellListFocused",
+				"command": "notebook.cell.executeAndFocusContainer"
+			},
+			{
+				"key": "shift+enter",
+				"when": "editorTextFocus && inputFocus && notebookEditorFocused || notebookCellListFocused && notebookCellType == 'code'",
+				"command": "notebook.cell.executeAndSelectBelow"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "9f6dc8db-620c-4844-b8c5-e74914f1be27",
+		"publisherId": "ac8eb7c9-3e59-4b39-8040-f0484d8170ce",
+		"publisherDisplayName": "Microsoft",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": true,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1679399443768,
+		"preRelease": false
+	}
+}

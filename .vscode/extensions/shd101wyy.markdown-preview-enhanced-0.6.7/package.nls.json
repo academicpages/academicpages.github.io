@@ -1,0 +1,23 @@
+{
+  "displayName": "Markdown Preview Enhanced",
+  "description": "Markdown Preview Enhanced ported to vscode",
+  "markdown-preview-enhanced.openPreviewToTheSide.title": "Markdown Preview Enhanced: Open Preview to the Side",
+  "markdown-preview-enhanced.openPreview.title": "Markdown Preview Enhanced: Open Preview",
+  "markdown-preview-enhanced.toggleScrollSync.title": "Markdown Preview Enhanced: Toggle Scroll Sync",
+  "markdown-preview-enhanced.toggleLiveUpdate.title": "Markdown Preview Enhanced: Toggle Live Update",
+  "markdown-preview-enhanced.toggleBreakOnSingleNewLine.title": "Markdown Preview Enhanced: Toggle Break On Single New Line",
+  "markdown-preview-enhanced.openImageHelper.title": "Markdown Preview Enhanced: Image Helper",
+  "markdown-preview-enhanced.runAllCodeChunks.title": "Markdown Preview Enhanced: Run All Code Chunks",
+  "markdown-preview-enhanced.runCodeChunk.title": "Markdown Preview Enhanced: Run Code Chunk",
+  "markdown-preview-enhanced.syncPreview.title": "Markdown Preview Enhanced: Sync Preview",
+  "markdown-preview-enhanced.customizeCss.title": "Markdown Preview Enhanced: Customize CSS",
+  "markdown-preview-enhanced.insertNewSlide.title": "Markdown Preview Enhanced: Insert New Slide",
+  "markdown-preview-enhanced.insertTable.title": "Markdown Preview Enhanced: Insert Table",
+  "markdown-preview-enhanced.insertPagebreak.title": "Markdown Preview Enhanced: Insert Page Break",
+  "markdown-preview-enhanced.createTOC.title": "Markdown Preview Enhanced: Create TOC",
+  "markdown-preview-enhanced.openMermaidConfig.title": "Markdown Preview Enhanced: Open Mermaid Config",
+  "markdown-preview-enhanced.openMathJaxConfig.title": "Markdown Preview Enhanced: Open MathJax Config",
+  "markdown-preview-enhanced.openKaTeXConfig.title": "Markdown Preview Enhanced: Open KaTeX Config",
+  "markdown-preview-enhanced.extendParser.title": "Markdown Preview Enhanced: Extend Parser",
+  "markdown-preview-enhanced.showUploadedImages.title": "Markdown Preview Enhanced: Show Uploaded Images"
+}

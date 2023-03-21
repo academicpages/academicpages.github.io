@@ -1,0 +1,23 @@
+{
+	"messages": [
+		"{0} in debug configuration requires {1} and {2}",
+		"Chosen debug configuration does not contain {0} or {1}",
+		"Select the process to attach to",
+		"Process not selected.",
+		"Pipe transport failed to get OS and processes.",
+		"Transport attach could not obtain processes list.",
+		"Failed to make GDB connection: \"{0}\".",
+		"Failed to parse processes: \"{0}\"."
+	],
+	"keys": [
+		"debugger.path.and.server.address.required",
+		"no.pipetransport.useextendedremote",
+		"select.process.attach",
+		"process.not.selected",
+		"pipe.failed",
+		"no.process.list",
+		"failed.to.make.gdb.connection",
+		"failed.to.parse.processes"
+	],
+	"filePath": "src\\Debugger\\attachToProcess"
+}

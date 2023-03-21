@@ -1,0 +1,729 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Security-Policy" content="style-src 'unsafe-inline'; script-src 'nonce-{{nonce}}';">
+
+    <style type="text/css">
+        @media (max-width: 1140px) {
+            #sidebar {
+                display: none;
+            }
+            #main {
+                max-width: 800px;
+                padding: 0px 20px;
+                margin: auto;
+            }
+        }
+
+        .page-margins {
+            vertical-align: top;
+            padding-top: 40px;
+            padding-bottom: 10px
+        }
+
+        .sidebar {
+            width: 290px;
+            position: fixed;
+            z-index: 1;
+            left: 45px;
+            overflow-x: hidden;
+        }
+
+        .error {
+            color: var(--vscode-inputValidation-errorForeground);
+            background: var(--vscode-inputValidation-errorBackground);
+            border: solid 1px var(--vscode-inputValidation-errorBorder);
+            white-space: pre-wrap;
+            display: none;
+            padding: 1px 4px 4px 4px;
+        }
+
+        .headerBtn,
+        .headerBtn:hover,
+        .headerBtn:active {
+            cursor: pointer;
+            color: var(--vscode-foreground);
+            background: var(--vscode-background);
+            border: 0px;
+            padding: 0px;
+            outline: none;
+        }
+
+        .headerBtn:focus {
+            outline: 1px solid -webkit-focus-ring-color;
+            outline-offset: 3px;
+        }
+
+        .expand:after {
+            font-weight: bold;
+            float: right;
+            margin-right: 6px;
+            margin-top: -4px;
+            content: '\276E';
+            transform: rotate(270deg);
+        }
+
+        .collapse:after {
+            font-weight: bold;
+            float: right;
+            margin-right: 6px;
+            margin-top: -4px;
+            content: '\276E';
+            transform: rotate(90deg);
+        }
+
+        .main {
+            max-width: 800px;
+            margin-left: 320px;
+            padding: 0px 30px;
+        }
+
+        .main-title {
+            font-weight: 500;
+            font-size: 22px;
+            padding-bottom: 6px;
+            color: var(--vscode-foreground);
+        }
+
+        .section {
+            padding-bottom: 35px;
+        }
+
+        .section-title {
+            font-weight: 500;
+            font-size: 14px;
+            padding-bottom: 4px;
+            color: var(--vscode-foreground);
+        }
+
+        .section-text {
+            font-size: 14px;
+            padding-bottom: 8px;
+            color: var(--vscode-foreground);
+        }
+
+        .section-note {
+            font-size: 14px;
+            font-style: italic;
+            padding-bottom: 2px;
+            color: var(--vscode-foreground);
+        }
+
+        .codeblock {
+            vertical-align: middle;
+            padding: 2px 8px;
+            margin-top: 8px;
+            display: inline-block;
+            font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+            border-radius: 5px;
+        }
+
+        body {
+            line-height: 19px
+        }
+
+        body:not(.tabbing) button:focus {
+            outline: none;
+        }
+
+        a {
+            text-decoration: none
+        }
+
+        checkbox {
+            color: var(--vscode-settings-checkboxForeground);
+            background: var(--vscode-settings-checkboxForeground);
+            border: var(--vscode-settings-checkboxBorder);
+        }
+
+        a:focus,
+        input:focus,
+        select:focus,
+        textarea:focus {
+            outline: 1px solid -webkit-focus-ring-color;
+            outline-offset: -1px
+        }
+
+        hr {
+            border: 0;
+            height: 1px;
+            border-bottom: 1px solid;
+        }
+
+        h1 {
+            padding-bottom: .3em;
+        }
+
+        h1,
+        h2,
+        h3 {
+            font-weight: 400
+        }
+
+        a:hover {
+            text-decoration: underline
+        }
+
+        ::placeholder {
+            color: var(--vscode-input-placeholderForeground);
+        }
+
+        input {
+            height: 17px;
+            padding: 6px;
+            border: solid 1px;
+            font-size: 13px;
+            font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+            color: var(--vscode-settings-textInputForeground);
+            background: var(--vscode-settings-textInputBackground);
+            border: 1px solid var(--vscode-settings-textInputBorder);
+        }
+
+        textarea {
+            white-space: nowrap;
+            padding: 4px, 4px;
+            font-size: 13px;
+            font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+            color: var(--vscode-settings-textInputForeground);
+            background: var(--vscode-settings-textInputBackground);
+            border: 1px solid var(--vscode-settings-textInputBorder);
+        }
+
+        button {
+            color: var(--vscode-button-foreground);
+            background-color: var(--vscode-button-background);
+            border: solid 1px var(--vscode-contrastBorder);
+            padding: 6px 14px;
+        }
+
+        button:hover {
+            background-color: var(--vscode-button-hoverBackground);
+        }
+
+        button:focus {
+            outline: 1px solid -webkit-focus-ring-color;
+            outline-offset: 2px
+        }
+
+        button:active {
+            outline: none;
+        }
+
+        .select-default {
+            width: 300px;
+            height: 27px;
+            font-size: 13px;
+            font-family:sans-serif;
+            color: var(--vscode-settings-dropdownForeground);
+            background: var(--vscode-settings-dropdownBackground);
+            border: 1px solid var(--vscode-settings-dropdownBorder);
+        }
+
+        .select-editable {
+            position: relative;
+            background-color: var(--vscode-settings-textInputBackground);
+            width: 800px;
+            height: 31px;
+        }
+
+        .select-editable select {
+            position: absolute;
+            font-size: 13px;
+            font-family: sans-serif;
+            border: 1px solid var(--vscode-settings-textInputBorder);
+            height: 31px;
+            margin: auto;
+            color: var(--vscode-settings-textInputForeground);
+            background: var(--vscode-settings-textInputBackground);
+        }
+
+        .select-editable input {
+            position: absolute;
+            top: 1px;
+            left: 1px;
+            right: 1px;
+            bottom: 1px;
+            height: 17px;
+            font-size: 13px;
+            border: none;
+            color: var(--vscode-settings-textInputForeground);
+            background: var(--vscode-settings-textInputBackground);
+        }
+
+        .select-editable input:focus {
+            outline-offset: 0px;
+        }
+
+        blockquote {
+            margin: 0 7px 0 5px;
+            padding: 0 16px 0 10px;
+            border-left: 5px solid;
+        }
+
+        code {
+            font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+            line-height: 19px
+        }
+
+        .mac code {
+            line-height: 18px
+        }
+
+        code > div {
+            padding: 16px;
+            border-radius: 3px;
+            overflow: auto
+        }
+
+        .monaco-tokenized-source {
+            white-space: pre
+        }
+
+        /** Theming */
+
+        .vscode-light {
+            color: #1e1e1e
+        }
+
+        .vscode-dark {
+            color: #ddd
+        }
+
+        .vscode-high-contrast {
+            color: #fff
+        }
+
+        .vscode-light code {
+            color: #a31515
+        }
+
+        .vscode-dark code {
+            color: #d7ba7d
+        }
+
+        .vscode-light code > div {
+            background-color: rgba(220, 220, 220, .4)
+        }
+
+        .vscode-dark code > div {
+            background-color: rgba(10, 10, 10, .4)
+        }
+
+        .vscode-light .input-disabled {
+            background-color:rgba(255, 255, 255, 0.4);
+            color: rgb(138, 138, 138);
+            border: solid 1px rgb(201, 198, 198);
+        }
+
+        .vscode-dark .input-disabled {
+            background-color: rgba(255, 255, 255, 0.1);
+            color: rgb(167, 167, 167);
+        }
+
+        .vscode-high-contrast .input-disabled {
+            background-color: transparent;
+            color: #fff;
+            border: solid 1px rgb(255, 255, 255);
+        }
+
+        .vscode-high-contrast code > div {
+            background-color: #000
+        }
+
+        .vscode-high-contrast h1 {
+            border-color: #000
+        }
+
+        .vscode-light table > thead > tr > th {
+            border-color: rgba(0, 0, 0, .69)
+        }
+
+        .vscode-dark table > thead > tr > th {
+            border-color: rgba(255, 255, 255, .69)
+        }
+
+        .vscode-light h1,
+        .vscode-light hr,
+        .vscode-light table > tbody > tr + tr > td {
+            border-color: rgba(0, 0, 0, .18)
+        }
+
+        .vscode-dark h1,
+        .vscode-dark hr,
+        .vscode-dark table > tbody > tr + tr > td {
+            border-color: rgba(255, 255, 255, 0.18)
+        }
+
+        .vscode-light blockquote,
+        .vscode-dark blockquote {
+            background: rgba(127, 127, 127, .1);
+            border-color: rgba(0, 122, 204, .5)
+        }
+
+        .vscode-high-contrast blockquote {
+            background: transparent;
+            border-color: #fff
+        }
+
+        .vscode-light div.codeblock {
+            background-color: rgba(0, 0, 0, 0.048)
+        }
+
+        .vscode-dark div.codeblock {
+            background-color: rgba(255, 255, 255, 0.1)
+        }
+
+        .vscode-high-contrast div.codeblock {
+            background-color: rgba(255, 255, 255, 0.15)
+        }
+
+        .footer {
+            padding: 25px;
+            text-align: center
+        }
+
+        .vscode-light a {
+            color: #4080D0
+        }
+
+        .vscode-dark a {
+            color: #a2c1e8
+        }
+
+    </style>
+
+  </head>
+
+  <body class="page-margins">
+
+  <!-- sidebar -->
+  <div id="sidebar" class="sidebar">
+
+    <div style="height: 90px; display: block">
+        <table>
+            <tbody><tr><td>
+              <img src="{{cpp_image_uri}}" height="76" width="76" alt="Microsoft C/C++ Extension" title="Rozszerzenie języka Microsoft C/C++" style="padding-right: 10px" data-loc-id-title="microsoft.c.cpp.extension">
+            </td>
+            <td>
+                <div style="font-size: 20px; font-weight: 400; line-height: 24px">Microsoft<br><span data-loc-id="c.cpp.extension">Rozszerzenie języka C/C++</span></div>
+            </td>
+          </tr></tbody></table>
+    </div>
+
+    <hr>
+    <div style="height: 30px; display: block"></div>
+
+    <div style="padding-right: 10px; color: var(--vscode-foreground);">
+        <span data-loc-id="open.this.editor">Otwórz ten edytor przy użyciu polecenia:</span><br>
+        <code data-loc-id="edit.configurations.ui">C/C++: edytuj konfiguracje (interfejs użytkownika)</code>
+
+        <div style="height: 30px; display: block"></div>
+
+        <span data-loc-id="switch.to.json">Przełącz do pliku <a href="command:C_Cpp.ConfigurationEditJSON" title="Edytuj konfiguracje w pliku JSON" data-loc-id-title="edit.configurations.in.json">c_cpp_properties.json</a>, klikając link pliku lub używając polecenia:</span><br>
+        <code data-loc-id="edit.configurations.json">C/C++: edytuj konfiguracje (JSON)</code>
+
+        <div style="height: 30px; display: block"></div>
+
+        <span data-loc-id="check.the.schema">Dowiedz się więcej o właściwościach języka C/C++, przechodząc do: <a href="https://code.visualstudio.com/docs/cpp/c-cpp-properties-schema-reference" title="Odwołanie do schematu właściwości" data-loc-id-title="view.schema.reference">C/C++ Properties Schema Reference</a>.</span><br>
+    </div>
+
+  </div> <!-- sidebar end -->
+
+  <!-- main -->
+  <div id="main" class="main">
+
+    <!-- title -->
+    <div style=" height: 90px; display: inline-block;">
+      <div class="main-title" data-loc-id="intellisense.configurations">Konfiguracje funkcji IntelliSense</div>
+      <div style="color: var(--vscode-foreground);">
+        <span data-loc-id="intellisense.configurations.description">Użyj tego edytora, aby edytować ustawienia funkcji IntelliSense zdefiniowane w źródłowym pliku <a href="command:C_Cpp.ConfigurationEditJSON" title="Edytuj konfiguracje w pliku JSON" data-loc-id-title="edit.configurations.in.json">c_cpp_properties.json</a>. Zmiany wprowadzone w tym edytorze dotyczą tylko wybranej konfiguracji. Aby edytować wiele konfiguracji naraz, przejdź do: <a href="command:C_Cpp.ConfigurationEditJSON" title="Edytuj konfiguracje w pliku JSON" data-loc-id-title="edit.configurations.in.json">c_cpp_properties.json</a>.</span>
+      </div>
+    </div>
+
+    <hr>
+    <div style="height: 30px; display: block"></div>
+
+    <!-- sections -->
+    <div class="section">
+      <div class="section-title" data-loc-id="configuration.name">Nazwa konfiguracji</div>
+      <div class="section-text" data-loc-id="configuration.name.description">Przyjazna nazwa identyfikująca konfigurację. <code>Linux</code>, <code>Mac</code> i <code>Win32</code> są specjalnymi identyfikatorami dla konfiguracji, które zostaną automatycznie wybrane na tych platformach.</div>
+      <div>
+        <div class="section-note" data-loc-id="select.configuration.to.edit">Wybierz zestaw konfiguracyjny do edycji.</div>
+        <table>
+            <tbody><tr>
+            <!-- select configuration name -->
+            <td>
+                <div class="select-editable" style="width: 300px; margin-left: -3px; margin-right: 7px">
+                    <select id="configSelection" style="width: 300px"></select>
+                    <input id="configName" style="width: 267px" type="text">
+                </div>
+            </td>
+            <!-- input configuration name -->
+            <td style="vertical-align: middle;">
+                <div id="addConfigDiv" style="display: block">
+                    <button id="addConfigBtn" data-loc-id="add.configuration.button">Dodaj konfigurację</button>
+                </div>
+                <div id="addConfigInputDiv" style="display: none; width: 400px;">
+                    <input id="addConfigName" type="text" style="width: 200px; margin-right: 6px" placeholder="Nazwa konfiguracji..." data-loc-id-placeholder="configuration.name.input">
+                    <button id="addConfigOk" style="margin-right: 6px" data-loc-id="ok.button">OK</button>
+                    <button id="addConfigCancel" data-loc-id="cancel.button">ANULUJ</button>
+                </div>
+            </td>
+        </tr>
+        </tbody></table>
+        <div id="configNameInvalid" class="error" style="width: 290px"></div>
+      </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title" data-loc-id="compiler.path">Ścieżka kompilatora</div>
+        <div class="section-text">
+            <span data-loc-id="compiler.path.description">Pełna ścieżka do kompilatora używanego w celu kompilowania projektu, na przykład <code>/usr/bin/gcc</code>. Umożliwia ona zwiększenie dokładności funkcji IntelliSense. Rozszerzenie zbada kompilator, aby ustalić systemowe ścieżki dołączania i domyślne definicje, które mają być używane dla funkcji IntelliSense.</span>
+        </div>
+        <!-- input compilerPath -->
+        <div class="section-note" data-loc-id="specify.a.compiler">Określ ścieżkę kompilatora lub wybierz wykrytą ścieżkę kompilatora z listy rozwijanej.</div>
+            <div class="select-editable">
+                <span id="noCompilerPathsDetected" style="display: none" data-loc-id="no.compiler.paths.detected">(Nie wykryto ścieżek kompilatora)</span>
+                <select id="knownCompilers" style="width: 810px; display: none"></select>
+                <input name="inputValue" id="compilerPath" style="width: 777px; display: none" type="text">
+            </div>
+        <div id="compilerPathInvalid" class="error" style="width: 800px"></div>
+        <!-- input compilerPath end -->
+    </div>
+
+    <div class="section">
+        <div class="section-title" data-loc-id="compiler.args">Argumenty kompilatora</div>
+        <div class="section-text" data-loc-id="compiler.arguments">Argumenty kompilatora do modyfikacji użytych elementów include lub define, np. <code>-nostdinc++</code>, <code>-m32</code> itp.</div>
+        <div>
+            <div class="section-note" data-loc-id="one.argument.per.line">Jeden argument na wiersz.</div>
+            <textarea name="inputValue" id="compilerArgs" rows="4" cols="93" style="width: 800px"></textarea>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title" data-loc-id="intellisense.mode">Tryb funkcji IntelliSense</div>
+        <div class="section-text">
+            <span data-loc-id="intellisense.mode.description">Tryb funkcji IntelliSense do użycia, który jest mapowany na odpowiedni dla platformy i architektury wariant kompilatora MSVC, gcc albo Clang. Jeśli ta wartość nie zostanie ustawiona lub zostanie ustawiona na <code>${default}</code>, rozszerzenie wybierze ustawienie domyślne dla danej platformy. Dla systemu Windows jest używana wartość domyślna <code>windows-msvc-x64</code>, dla systemu Linux — <code>linux-gcc-x64</code>, a dla systemu macOS — <code>macos-clang-x64</code>. Wybierz określony tryb funkcji IntelliSense, aby zastąpić tryb <code>${default}</code>. Tryby funkcji IntelliSense, które określają tylko warianty <code>&lt;compiler&gt;-&lt;architecture&gt;</code> (np. <code>gcc-x64</code>) to starsze tryby i są one automatycznie konwertowane na warianty <code>&lt;platform&gt;-&lt;compiler&gt;-&lt;architecture&gt;</code> w oparciu o platformę hosta.</span>
+        </div>
+        <div>
+          <select name="inputValue" id="intelliSenseMode" class="select-default">
+            <option value="${default}">${default}</option>
+            <option value="macos-clang-x86">macos-clang-x86</option>
+            <option value="macos-clang-x64">macos-clang-x64</option>
+            <option value="macos-clang-arm">macos-clang-arm</option>
+            <option value="macos-clang-arm64">macos-clang-arm64</option>
+            <option value="macos-gcc-x86">macos-gcc-x86</option>
+            <option value="macos-gcc-x64">macos-gcc-x64</option>
+            <option value="macos-gcc-arm">macos-gcc-arm</option>
+            <option value="macos-gcc-arm64">macos-gcc-arm64</option>
+            <option value="linux-clang-x86">linux-clang-x86</option>
+            <option value="linux-clang-x64">linux-clang-x64</option>
+            <option value="linux-clang-arm">linux-clang-arm</option>
+            <option value="linux-clang-arm64">linux-clang-arm64</option>
+            <option value="linux-gcc-x86">linux-gcc-x86</option>
+            <option value="linux-gcc-x64">linux-gcc-x64</option>
+            <option value="linux-gcc-arm">linux-gcc-arm</option>
+            <option value="linux-gcc-arm64">linux-gcc-arm64</option>
+            <option value="windows-clang-x86">windows-clang-x86</option>
+            <option value="windows-clang-x64">windows-clang-x64</option>
+            <option value="windows-clang-arm">windows-clang-arm</option>
+            <option value="windows-clang-arm64">windows-clang-arm64</option>
+            <option value="windows-gcc-x86">windows-gcc-x86</option>
+            <option value="windows-gcc-x64">windows-gcc-x64</option>
+            <option value="windows-gcc-arm">windows-gcc-arm</option>
+            <option value="windows-gcc-arm64">windows-gcc-arm64</option>
+            <option value="windows-msvc-x86">windows-msvc-x86</option>
+            <option value="windows-msvc-x64">windows-msvc-x64</option>
+            <option value="windows-msvc-arm">windows-msvc-arm</option>
+            <option value="windows-msvc-arm64">windows-msvc-arm64</option>
+            <option value="clang-x86">clang-x86 (legacy)</option>
+            <option value="clang-x64">clang-x64 (legacy)</option>
+            <option value="clang-arm">clang-arm (legacy)</option>
+            <option value="clang-arm64">clang-arm64 (legacy)</option>
+            <option value="gcc-x86">gcc-x86 (legacy)</option>
+            <option value="gcc-x64">gcc-x64 (legacy)</option>
+            <option value="gcc-arm">gcc-arm (legacy)</option>
+            <option value="gcc-arm64">gcc-arm64 (legacy)</option>
+            <option value="msvc-x86">msvc-x86 (legacy)</option>
+            <option value="msvc-x64">msvc-x64 (legacy)</option>
+            <option value="msvc-arm">msvc-arm (legacy)</option>
+            <option value="msvc-arm64">msvc-arm64 (legacy)</option>
+          </select>
+        </div>
+        <div id="intelliSenseModeInvalid" class="error" style="width: 290px"></div>
+    </div>
+
+    <div class="section">
+        <div class="section-title" data-loc-id="include.path">Ścieżka dołączania</div>
+        <div class="section-text">
+            <span data-loc-id="include.path.description">Ścieżka dołączania to folder zawierający pliki nagłówków (np. <code>#include "myHeaderFile.h"</code>), które są dołączane w pliku źródłowym. Określ listę ścieżek do użycia przez aparat IntelliSense podczas wyszukiwania dołączanych plików nagłówków. Wyszukiwanie w tych ścieżkach nie jest rekurencyjne. Użyj wartości <code>**</code>, aby określić wyszukiwanie rekurencyjne. Na przykład wartość <code>${workspaceFolder}/**</code> powoduje przeszukiwanie wszystkich podkatalogów, w przeciwieństwie do wartości <code>${workspaceFolder}</code>. Jeśli jest używany system Windows z zainstalowanym programem Visual Studio lub jeśli został określony kompilator w ustawieniu <code>compilerPath</code>, nie jest konieczne określanie systemowych ścieżek dołączania na tej liście.</span>
+        </div>
+        <div>
+          <div class="section-note" data-loc-id="one.include.path.per.line">Jedna ścieżka dyrektywy include na wiersz.</div>
+          <textarea name="inputValue" id="includePath" rows="4" cols="93" style="width: 800px"></textarea>
+          <div id="includePathInvalid" class="error" style="margin-top: -4px; width: 794px"></div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title" data-loc-id="defines">Dyrektywy define</div>
+        <div class="section-text" data-loc-id="defines.description">Lista definicji preprocesora, które mają być używane przez aparat IntelliSense podczas analizowania plików. Opcjonalnie użyj elementu <code>=</code>, aby określić wartość (np. <code>VERSION=1</code>).</div>
+        <div>
+            <div class="section-note" data-loc-id="one.definition.per.line">Jedna definicja na wiersz.</div>
+            <textarea name="inputValue" id="defines" rows="4" cols="39"></textarea>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title" data-loc-id="c.standard">Standard języka C</div>
+        <div class="section-text" data-loc-id="c.standard.description">Wersja standardu języka C, która ma być używana na potrzeby funkcji IntelliSense. Uwaga: standardy GNU są używane tylko do wykonywania zapytań względem ustawionego kompilatora w celu pobrania dyrektyw define systemu GNU, a funkcja IntelliSense będzie emulować odpowiednią wersję standardu języka C.</div>
+        <div>
+            <select name="inputValue" id="cStandard" class="select-default">
+                <option value="c17">c17</option>
+                <option value="c11">c11</option>
+                <option value="c99">c99</option>
+                <option value="c89">c89</option>
+                <option value="gnu17">gnu17</option>
+                <option value="gnu11">gnu11</option>
+                <option value="gnu99">gnu99</option>
+                <option value="gnu89">gnu89</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title" data-loc-id="cpp.standard">Standard języka C++</div>
+        <div class="section-text" data-loc-id="cpp.standard.description">Wersja standardu języka C++, która ma być używana na potrzeby funkcji IntelliSense. Uwaga: standardy GNU są używane tylko do wykonywania zapytań względem ustawionego kompilatora w celu pobrania dyrektyw define systemu GNU, a funkcja IntelliSense będzie emulować odpowiednią wersję standardu języka C++.</div>
+        <div>
+            <select name="inputValue" id="cppStandard" class="select-default">
+                <option value="c++23">c++23</option>
+                <option value="c++20">c++20</option>
+                <option value="c++17">c++17</option>
+                <option value="c++14">c++14</option>
+                <option value="c++11">c++11</option>
+                <option value="c++03">c++03</option>
+                <option value="c++98">c++98</option>
+                <option value="gnu++23">gnu++23</option>
+                <option value="gnu++20">gnu++20</option>
+                <option value="gnu++17">gnu++17</option>
+                <option value="gnu++14">gnu++14</option>
+                <option value="gnu++11">gnu++11</option>
+                <option value="gnu++03">gnu++03</option>
+                <option value="gnu++98">gnu++98</option>
+            </select>
+        </div>
+    </div>
+
+    <hr>
+    <button id="showAdvanced" class="headerBtn" style="margin-top: 5px; font-size: 20px; font-weight: 500; width: 100%; text-align: left" data-loc-id="advanced.settings">Ustawienia zaawansowane</button>
+    <div style="height: 30px; display: block"></div>
+
+    <div id="advancedSection">
+
+        <div class="section">
+            <div class="section-title" data-loc-id="configuration.provider">Dostawca konfiguracji</div>
+            <div class="section-text" data-loc-id="configuration.provider.description">Identyfikator rozszerzenia programu VS Code, które może dostarczać informacje o konfiguracji funkcji IntelliSense dla plików źródłowych. Na przykład użyj identyfikatora rozszerzenia programy VS Code <code>ms-vscode.cmake-tools</code>, aby podać informacje o konfiguracji z rozszerzenia narzędzi CMake Tools.</div>
+            <div>
+                <input name="inputValue" id="configurationProvider" style="width: 290px">
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="windows.sdk.version">Wersja zestawu Windows SDK</div>
+            <div class="section-text" data-loc-id="windows.sdk.version.description">Wersja ścieżki dyrektywy include zestawu Windows SDK, która ma być używana w systemie Windows, np. <code>10.0.17134.0</code>.</div>
+            <div>
+                <input name="inputValue" id="windowsSdkVersion" style="width: 290px">
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="mac.framework.path">Ścieżka do platformy Mac</div>
+            <div class="section-text" data-loc-id="mac.framework.path.description">Lista ścieżek do użycia przez aparat IntelliSense podczas wyszukiwania dołączonych nagłówków z platform Mac. Obsługiwane tylko w przypadku konfiguracji dla systemu macOS.</div>
+            <div>
+                <div class="section-note" data-loc-id="one.path.per.line">Jedna ścieżka na wiersz.</div>
+                <textarea name="inputValue" id="macFrameworkPath" rows="4" cols="93" style="width: 800px"></textarea>
+                <div id="macFrameworkPathInvalid" class="error" style="margin-top: -4px; width: 794px"></div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="forced.include">Wymuszone dołączanie</div>
+            <div class="section-text" data-loc-id="forced.include.description">Lista plików, które powinny zostać uwzględnione przed przetworzeniem każdego innego znaku w pliku źródłowym. Pliki są uwzględniane w podanej kolejności.</div>
+            <div>
+                <div class="section-note" data-loc-id="one.file.per.line">Jeden plik na wiersz.</div>
+                <textarea name="inputValue" id="forcedInclude" rows="4" cols="93" style="width: 800px"></textarea>
+                <div id="forcedIncludeInvalid" class="error" style="margin-top: -4px; width: 794px"></div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="dot.config">Dot Config</div>
+            <div class="section-text" data-loc-id="dot.config.description">Ścieżka do pliku .config utworzonego przez system Kconfig. System Kconfig generuje plik ze wszystkimi definicjami na potrzeby kompilowania projektu. Przykłady projektów używających systemu Kconfig to jądro systemu Linux i system NuttX RTOS.</div>
+            <div>
+                <input name="inputValue" id="dotConfig" style="width: 798px">
+                <div id="dotConfigInvalid" class="error" style="width: 800px"></div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="compile.commands">Polecenia kompilacji</div>
+            <div class="section-text">
+                <span data-loc-id="compile.commands.description">Pełna ścieżka do pliku <code>compile_commands.json</code> dla obszaru roboczego. Ścieżki dołączania i definicje wykryte w tym pliku będą używane zamiast wartości określonych dla ustawień <code>includePath</code> i <code>defines</code>. Jeśli baza danych poleceń kompilacji nie zawiera wpisu dla jednostki translacji odpowiadającej plikowi, który został otwarty w edytorze, pojawi się komunikat ostrzegawczy, a rozszerzenie użyje zamiast tego ustawień <code>includePath</code> i <code>defines</code>.</span>
+            </div>
+            <div>
+                <input name="inputValue" id="compileCommands" style="width: 798px">
+                <div id="compileCommandsInvalid" class="error" style="width: 800px"></div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="merge.configurations">Scal konfiguracje</div>
+            <div>
+                <input type="checkbox" id="mergeConfigurations" style="vertical-align: middle; transform: scale(1.5)">
+                    <span data-loc-id="merge.configurations.description">Jeśli wartość jest równa <code>true</code> (lub jest zaznaczona), scala ścieżki dołączenia, definiuje i wymusza dołączenie ze ścieżkami od dostawcy konfiguracji.</span>
+                
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="browse.path">Przeglądaj: ścieżka</div>
+            <div class="section-text">
+                <span data-loc-id="browse.path.description">Lista ścieżek, w których analizator tagów ma wyszukiwać nagłówki dołączane przez pliki źródłowe. W przypadku pominięcia tego ustawienia zostanie użyte ustawienie: <code>includePath</code> jako: <code>path</code>. Wyszukiwanie w tych ścieżkach jest domyślnie rekurencyjne. Użyj wartości <code>*</code>, aby określić wyszukiwanie nierekurencyjne. Na przykład wartość <code>/usr/include</code> spowoduje przeszukanie wszystkich podkatalogów, w przeciwieństwie do wartości <code>/usr/include/*</code>.</span>
+            </div>
+            <div>
+                <div class="section-note" data-loc-id="one.browse.path.per.line">Jedna ścieżka przeglądania na wiersz.</div>
+                <textarea name="inputValue" id="browsePath" rows="4" cols="93" style="width: 800px"></textarea>
+                <div id="browsePathInvalid" class="error" style="margin-top: -4px; width: 794px"></div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="limit.symbols">Przeglądaj: ogranicz symbole do dołączonych nagłówków</div>
+            <div>
+                <input type="checkbox" id="limitSymbolsToIncludedHeaders" style="vertical-align: middle; transform: scale(1.5)">
+                    <span data-loc-id="limit.symbols.checkbox">Jeśli wartość jest równa <code>true</code> (lub jest zaznaczona), analizator tagów analizuje tylko pliki kodu, które zostały bezpośrednio lub pośrednio dołączone przez plik źródłowy w <code>${workspaceFolder}</code>. Jeśli wartość jest równa <code>false</code> (lub nie jest zaznaczona), analizator tagów będzie analizować wszystkie pliki kodu znalezione w ścieżkach określonych na <code>Browse: path</code> liście.</span>
+                
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="database.filename">Przeglądaj: nazwa pliku bazy danych</div>
+            <div class="section-text">
+                <span data-loc-id="database.filename.description">Ścieżka do generowanej bazy danych symboli. Określa ona, że rozszerzenie ma zapisać bazę danych symboli analizatora tagów w innym miejscu niż domyślna lokalizacja magazynowania obszaru roboczego. Jeśli zostanie określona ścieżka względna, będzie to ścieżka względem domyślnej lokalizacji magazynowania obszaru roboczego, a nie folderu obszaru roboczego. Można użyć zmiennej <code>${workspaceFolder}</code> do określenia ścieżki względem folderu obszaru roboczego (np. <code>${workspaceFolder}/.vscode/browse.vc.db</code>)</span>
+            </div>
+            <div>
+                <input name="inputValue" id="databaseFilename" style="width: 798px">
+                <div id="databaseFilenameInvalid" class="error" style="width: 800px"></div>
+            </div>
+        </div>
+
+    </div> <!-- advanced settings end -->
+
+    <!-- sections end -->
+
+  </div> <!-- main end -->
+
+  <script nonce="{{nonce}}" src="{{settings_js_uri}}"></script>
+
+
+
+</body></html>

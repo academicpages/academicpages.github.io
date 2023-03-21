@@ -1,0 +1,15 @@
+{
+	"messages": [
+		"C/C++ Diagnostics",
+		"{0}: SSH",
+		"C/C++ Debug Protocol",
+		"C/C++ Configuration Warnings"
+	],
+	"keys": [
+		"c.cpp.diagnostics",
+		"c.cpp.ssh.channel",
+		"c.cpp.debug.protocol",
+		"c.cpp.warnings"
+	],
+	"filePath": "src\\logger"
+}

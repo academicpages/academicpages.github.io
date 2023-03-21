@@ -1,0 +1,22 @@
+{
+    "Common.Yes": "Yes",
+    "Common.No": "No",
+    "Common.remindMeLater": "Remind me later",
+    "Common.reload": "Reload",
+    "LanguageServer.settingsMigratedMessage": "Settings applicable to Microsoft Language Server were copied to Pylance settings. Please check settings.json file(s) for details.",
+    "LanguageServer.settingsMigrationError": "The following settings could not be migrated:",
+    "Insiders.installingPreRelease": "Installing Pylance pre-release build...",
+    "ClientLoc.typeCheckingModeStatusItem.name": "Python Type Checking Mode",
+    "ClientLoc.typeCheckingModeStatusItem.text": "Type Checking: {0}",
+    "ClientLoc.typeCheckingModeStatusItem.titleOff": "Switch to off",
+    "ClientLoc.typeCheckingModeStatusItem.titleOn": "Switch to on",
+    "ClientLoc.updateSettingsErrorMsgFormatted": "Failed to update setting '{0}.{1}'.",
+    "Refactoring.MoveSymbol.progressBarTitle": "Move Symbol To ...",
+    "Refactoring.MoveSymbol.newFileLabel": "Enter destination file path ...",
+    "Refactoring.MoveSymbol.newFileDetail": "Create a new file or enter path for the move",
+    "Refactoring.MoveSymbol.separatorText": "Destination Files ...",
+    "Refactoring.MoveSymbol.quickPickPlaceHolder": "Search destination file",
+    "Refactoring.MoveSymbol.quickPickTitle": "Select destination for move",
+    "Refactoring.MoveSymbol.openDialogOpenLabel": "Select",
+    "Refactoring.MoveSymbol.openDialogTitle": "Select new file to move the symbol to ..."
+}

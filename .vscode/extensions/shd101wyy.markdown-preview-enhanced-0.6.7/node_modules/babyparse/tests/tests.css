@@ -1,0 +1,170 @@
+/* Eric Meyer's Reset CSS v2.0 */
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
+
+body {
+	background: #F0F0F0;
+	font: 14px 'Helvetica Neue', sans-serif;
+	color: #333;
+	padding: 30px 15px;
+}
+
+a {
+	color: rgb(0, 142, 236);
+}
+
+a:hover {
+	color: rgb(82, 186, 255);
+}
+
+b {
+	font-weight: bold;
+}
+
+i {
+	font-style: italic;
+}
+
+h1 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 62px;
+	margin-bottom: 30px;
+}
+
+h2 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 26px;
+	margin-bottom: 20px;
+}
+
+.status-pass,
+.status-fail {
+	padding: 10px;
+	margin-bottom: 30px;
+	color: #FFF;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 18px;
+	letter-spacing: 1px;
+	font-weight: 100;
+}
+
+.status-pass {
+	background: rgb(3, 168, 3);
+}
+
+.status-fail {
+	background: #BB0000;
+}
+
+.test-group {
+	margin-bottom: 50px;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+	margin-top: 5px;
+}
+
+table th,
+table td {
+	padding: 5px;
+	border: 1px solid #BBB;
+}
+
+table th {
+	color: #000;
+	background: #DDD;
+	font-weight: bold;
+	padding: 10px 5px;
+	text-transform: uppercase;
+}
+
+table td {
+	background: #FFF;
+	color: #555;
+	font-size: 14px;
+}
+
+td.ok,
+td.fail {
+	text-transform: uppercase;
+	font-weight: 300;
+	vertical-align: middle;
+	text-align: center;
+	width: 80px;
+}
+
+td.ok {
+	background: rgb(204, 250, 144);
+}
+
+td.fail {
+	background: rgb(255, 192, 192);
+}
+
+td.rvl {
+	background: #444;
+	color: #999;
+	vertical-align: middle;
+	text-align: center;
+	cursor: pointer;
+	width: 20px;
+}
+
+td.rvl:hover {
+	color: #FFF;
+}
+
+tr.collapsed td.revealable {
+	background: #ECECEC;
+	vertical-align: middle;
+	text-align: center;
+	font-family: 'Helvetica Neue', sans-serif;
+	text-transform: lowercase;
+	color: #AAA;
+}
+
+tr.expanded .revealer {
+	font-family: 'Helvetica Neue', sans-serif;
+	text-transform: lowercase;
+	font-size: 10px;
+	background: #FFF;
+	position: absolute;
+	display: block;
+	padding: 3px;
+	top: -5px;
+	right: -5px;
+}
+
+td .container {
+	position: relative;
+}
+
+.notes {
+	color: #888;
+	font-size: 12px;
+}
+
+.pre {
+	font-family: Menlo, Monaco, monospace;
+	white-space: pre-wrap;
+}
+
+td.pre {
+	font-size: 12px;
+}
+
+.hidden {
+	display: none;
+}
+
+.special-char {
+	color: #78B7E7;
+}
+
+.whitespace-char {
+	background: #D5FCFA;
+}

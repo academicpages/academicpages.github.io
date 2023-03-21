@@ -1,0 +1,1086 @@
+{
+	"type": "object",
+	"description": "I set di impostazioni specificano il generatore e la directory di compilazione, nonché facoltativamente un elenco di variabili e altri argomenti da passare a CMake.",
+	"required": [
+		"version"
+	],
+	"properties": {
+		"version": {
+			"type": "integer",
+			"description": "Intero obbligatorio che rappresenta la versione dello schema JSON."
+		},
+		"cmakeMinimumRequired": {
+			"type": "object",
+			"description": "Oggetto facoltativo che rappresenta la versione minima di CMake necessaria per compilare questo progetto.",
+			"properties": {
+				"major": {
+					"type": "integer",
+					"description": "Numero intero facoltativo che rappresenta la versione principale."
+				},
+				"minor": {
+					"type": "integer",
+					"description": "Numero intero facoltativo che rappresenta la versione secondaria."
+				},
+				"patch": {
+					"type": "integer",
+					"description": "Numero intero facoltativo che rappresenta la versione della patch."
+				}
+			},
+			"additionalProperties": false
+		},
+		"configurePresets": {
+			"type": "array",
+			"description": "Matrice facoltativa di oggetti set di impostazioni di configurazione.",
+			"items": {
+				"type": "object",
+				"description": "Oggetto set di impostazioni di configurazione.",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Stringa obbligatoria che rappresenta il nome del set di impostazioni riconosciuto dal computer. Questo identificatore viene usato nell'argomento --preset. Non devono essere presenti due set di impostazioni nell'unione di CMakePresets.json e CMakeUserPresets.json nella stessa directory con lo stesso nome.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Valore booleano facoltativo che specifica se un set di impostazioni deve essere nascosto o meno. Se un set di impostazioni è nascosto, non può essere usato nell'argomento --preset=, non verrà visualizzato nella GUI di CMake e non deve avere un generatore o un valore binaryDir valido, anche se proveniente dall'ereditarietà. I set di impostazioni nascosti devono essere usati come base per altri set di impostazioni per ereditare tramite il campo inherits."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Stringa facoltativa che rappresenta il nome del set di impostazioni da cui ereditare.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Matrice facoltativa di stringhe che rappresenta i nomi dei set di impostazioni da cui ereditare. Per impostazione predefinita, il set di impostazioni eredita tutti i campi dai set di impostazioni inherits (tranne name, hidden, inherits, description e displayName), ma può sovrascriverli se necessario. Se più set di impostazioni inherits forniscono valori in conflitto per lo stesso campo, verrà preferito il set di impostazioni precedente nell'elenco inherits. I set di impostazioni in CMakePresets.json potrebbero non ereditare dai set di impostazioni in CMakeUserPresets.json.",
+								"items": {
+									"type": "string",
+									"description": "Stringa facoltativa che rappresenta il nome del set di impostazioni da cui ereditare.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Mapping facoltativo contenente informazioni specifiche del fornitore. Cmake non interpreta il contenuto di questo campo tranne per verificare l'esistenza di un mapping. Le chiavi devono però essere un nome di dominio specifico del fornitore seguito da un percorso delimitato da /. Ad esempio, l'IDE 1.0 di esempio può usare example.com/ExampleIDE/1.0. Il valore di ogni campo può essere un qualsiasi valore indicato dal fornitore, anche se in genere sarà un mapping.",
+						"properties": {
+							"microsoft.com/VisualStudioSettings/CMake/1.0": {
+								"type": "object",
+								"description": "Oggetto facoltativo che rappresenta l'oggetto fornitore di Impostazioni di Visual Studio",
+								"properties": {
+									"hostOS": {
+										"anyOf": [
+											{
+												"type": "string",
+												"description": "Stringa facoltativa che rappresenta il nome del sistema operativo host. I valori accettati sono Windows, Linux e macOS.",
+												"enum": [
+													"Windows",
+													"Linux",
+													"macOS"
+												]
+											},
+											{
+												"type": "array",
+												"description": "Matrice di sistemi operativi host supportati. Questa chiave viene usata da Visual Studio e Visual Studio Code per nascondere i set di impostazioni che non si applicano al sistema di destinazione attivo o al sistema operativo host. I valori accettati sono Windows, Linux e macOS.",
+												"items": {
+													"type": "string",
+													"description": "Stringa facoltativa che rappresenta il nome del sistema operativo host. I valori accettati sono Windows, Linux e macOS.",
+													"enum": [
+														"Windows",
+														"Linux",
+														"macOS"
+													]
+												}
+											}
+										]
+									},
+									"intelliSenseMode": {
+										"type": "string",
+										"description": "Chiave facoltativa che indica la modalità IntelliSense preferita. Modalità usata per il calcolo delle informazioni di IntelliSense in Visual Studio e Visual Studio Code.",
+										"enum": [
+											"windows-msvc-x86",
+											"windows-msvc-x64",
+											"windows-msvc-arm",
+											"windows-msvc-arm64",
+											"android-clang-x86",
+											"android-clang-x64",
+											"android-clang-arm",
+											"android-clang-arm64",
+											"ios-clang-x86",
+											"ios-clang-x64",
+											"ios-clang-arm",
+											"ios-clang-arm64",
+											"windows-clang-x86",
+											"windows-clang-x64",
+											"windows-clang-arm",
+											"windows-clang-arm64",
+											"linux-gcc-x86",
+											"linux-gcc-x64",
+											"linux-gcc-arm"
+										]
+									},
+									"intelliSenseOptions": {
+										"type": "object",
+										"description": "Oggetto facoltativo usato per configurare le impostazioni avanzate di IntelliSense.",
+										"properties": {
+											"useCompilerDefaults": {
+												"type": "boolean",
+												"default": true,
+												"description": "Specifica se usare le direttive define e i percorsi di inclusione predefiniti del compilatore per IntelliSense. Deve essere solo false se i compilatori in uso non supportano gli argomenti di tipo GCC."
+											},
+											"additionalCompilerArgs": {
+												"anyOf": [
+													{
+														"type": "string",
+														"default": "empty"
+													},
+													{
+														"type": "array",
+														"description": "Matrice di opzioni aggiuntive per controllare IntelliSense in Visual Studio.",
+														"items": {
+															"type": "string"
+														}
+													}
+												]
+											}
+										}
+									},
+									"enableMicrosoftCodeAnalysis": {
+										"type": "boolean",
+										"description": "Abilita l'analisi codice Microsoft in Visual Studio durante la compilazione con cl o clang-cl."
+									},
+									"codeAnalysisRuleset": {
+										"type": "string",
+										"description": "Set di regole da usare durante l'esecuzione dell'analisi codice Microsoft in Visual Studio. Può essere un percorso di un file di set di regole oppure il nome di un file di set di regole installato con Visual Studio."
+									},
+									"enableClangTidyCodeAnalysis": {
+										"type": "boolean",
+										"description": "Abilita l'analisi codice di clang-tidy in Visual Studio durante la compilazione con clang-cl."
+									},
+									"clangTidyChecks": {
+										"type": "string",
+										"description": "Elenco di avvisi delimitati da virgole passati a clang-tidy quando si esegue l'analisi codice di clang-tidy in Visual Studio. I caratteri jolly sono consentiti e con il prefisso '-' i controlli verranno eliminati."
+									},
+									"cacheRoot": {
+										"type": "string",
+										"description": "Percorso di una cache di CMake. Questa directory deve contenere un file CMakeCache.txt esistente. Questa chiave è supportata solo dallo scenario di apertura della cache esistente in Visual Studio."
+									},
+									"cmakeGenerateCommand": {
+										"type": "string",
+										"description": "Strumento da riga di comando (sotto forma di riga di comando, programma+argomenti, ad esempio\"gencache.bat debug\") per generare la cache di CMake. Questo comando verrà eseguito dalla shell nell'ambiente specificato del set di impostazioni quando si richiama la generazione della cache. Questa chiave è supportata solo dallo scenario di apertura della cache esistente in Visual Studio."
+									}
+								}
+							},
+							"microsoft.com/VisualStudioRemoteSettings/CMake/1.0": {
+								"type": "object",
+								"description": "Oggetto facoltativo che rappresenta l'oggetto fornitore di Impostazioni remote di Visual Studio",
+								"properties": {
+									"sourceDir": {
+										"type": "string",
+										"default": "$env{HOME}/.vs/${sourceDirName}",
+										"description": "Percorso della directory nel sistema remoto o nell'installazione di WSL2 in cui verrà copiato il progetto."
+									},
+									"copySources": {
+										"type": "boolean",
+										"default": "true",
+										"description": "Se è true, Visual Studio copierà le origini da Windows nel sistema remoto. Impostare su false se la sincronizzazione dei file viene gestita manualmente."
+									},
+									"copySourcesOptions": {
+										"type": "object",
+										"description": "Oggetto di impostazioni correlate alla copia origine da Windows nel sistema remoto.",
+										"properties": {
+											"exclusionList": {
+												"type": "array",
+												"default": "[ \".vs\", \".git\", \"out\"]",
+												"description": "Elenco di percorsi da escludere durante la copia dei file di origine nel sistema remoto. Un percorso può essere il nome di un file o di una directory oppure un percorso relativo alla radice della copia.",
+												"items": {
+													"type": "string"
+												}
+											},
+											"method": {
+												"type": "string",
+												"default": "rsync",
+												"description": "Metodo usato per copiare i file di origine nel sistema remoto. I valori accettati sono rsync e sftp."
+											},
+											"concurrentCopies": {
+												"type": "integer",
+												"default": 5,
+												"description": "Numero di copie simultanee usate durante la sincronizzazione delle origini nel sistema remoto."
+											},
+											"outputVerbosity": {
+												"type": "string",
+												"default": "Normal",
+												"description": "Livello di dettaglio delle operazioni di copia origine nel sistema remoto. I livelli accettati sono Normal, Verbose e Diagnostic.",
+												"enum": [
+													"Normal",
+													"Verbose",
+													"Diagnostic"
+												]
+											}
+										}
+									},
+									"rsyncCommandArgs": {
+										"type": "array",
+										"default": "[\"-t\", \"--delete\", \"--delete-excluded\"]",
+										"description": "Elenco di argomenti della riga di comando aggiuntivi passati a rsync.",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyBuildOutput": {
+										"type": "boolean",
+										"default": false,
+										"description": "Consente di specificare se copiare di nuovo l'output di compilazione dal sistema remoto in Windows."
+									},
+									"copyOptimizations": {
+										"type": "object",
+										"description": "Oggetto di impostazioni correlate alle ottimizzazioni di copia origine.",
+										"properties": {
+											"maxSmallChange": {
+												"type": "integer",
+												"default": 10,
+												"description": "Numero massimo di file da copiare con FTP sicuro invece di rsync."
+											},
+											"useOptimizations": {
+												"type": "string",
+												"default": "RsyncAndSftp",
+												"description": "Consente di selezionare nessuna ottimizzazione di copia (\"None\"), solo ottimizzazioni rsync (\"RsyncOnly\") oppure ottimizzazioni rsync e sftp (\"RsyncAndSftp\").",
+												"enum": [
+													"None",
+													"RsyncOnly",
+													"RsyncAndSftp"
+												]
+											},
+											"rsyncSingleDirectoryCommandArgs": {
+												"type": "array",
+												"default": "[\"-t\", \"-d\"]",
+												"description": "Elenco di argomenti della riga di comando aggiuntivi passati a rsync quando si copia il contenuto di una singola directory nel sistema remoto.",
+												"items": {
+													"type": "string"
+												}
+											}
+										}
+									},
+									"copyAdditionalIncludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "Elenco di percorsi delle directory di intestazione remote da copiare in locale per IntelliSense.",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyExcludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "Elenco di percorsi delle directory di intestazione remote da non copiare in locale per IntelliSense.",
+										"items": {
+											"type": "string"
+										}
+									},
+									"forceWSL1Toolset": {
+										"type": "boolean",
+										"default": false,
+										"description": "Se è true, Visual Studio userà sempre il set di strumenti WSL1 quando si imposta WSL come destinazione da Visual Studio. Il set di strumenti WSL1 esegue tutti i comandi in locali e si basa su unità Windows montate nella cartella /mnt per accedere ai file di origine locali da WSL. Queste operazioni potrebbero essere più lente con WSL2."
+									}
+								}
+							}
+						}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Stringa facoltativa con un nome descrittivo del set di impostazioni."
+					},
+					"description": {
+						"type": "string",
+						"description": "Stringa facoltativa con una descrizione intuitiva del set di impostazioni."
+					},
+					"generator": {
+						"type": "string",
+						"description": "Stringa facoltativa che rappresenta il generatore da usare per il set di impostazioni. Se il generatore non è specificato, deve essere ereditato dal set di impostazioni inherits (a meno che questo set di impostazioni non sia nascosto). Si noti che per i generatori di Visual Studio, a differenza dell'argomento -G della riga di comando, non è possibile includere il nome della piattaforma nel nome del generatore. Usare invece il campo dell'architettura."
+					},
+					"architecture": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Stringa facoltativa che rappresenta la piattaforma per i generatori che la supportano."
+							},
+							{
+								"type": "object",
+								"description": "Oggetto facoltativo che rappresenta la piattaforma per i generatori che la supportano.",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "Stringa facoltativa che rappresenta il valore."
+									},
+									"strategy": {
+										"type": "string",
+										"description": "Stringa facoltativa che indica a CMake come gestire il campo. I valori validi sono i seguenti: \"set\", che consente di impostare il rispettivo valore. Verrà restituito un errore per i generatori che non supportano il rispettivo campo; \"external\", che non imposta il valore anche se supportato dal generatore. Questa impostazione è utile se, ad esempio, un set di impostazioni usa il generatore Ninja e un IDE può configurare l'ambiente Visual C++ usando i campi dell'architettura e del set di strumenti. In tal caso, CMake ignorerà il campo, ma l'IDE potrà usarli per configurare l'ambiente prima di richiamare CMake.",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"toolset": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Stringa facoltativa che rappresenta il set di strumenti per i generatori che lo supportano."
+							},
+							{
+								"type": "object",
+								"description": "Oggetto facoltativo che rappresenta il set di strumenti per i generatori che lo supportano.",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "Stringa facoltativa che rappresenta il valore."
+									},
+									"strategy": {
+										"type": "string",
+										"description": "Stringa facoltativa che indica a CMake come gestire il campo. I valori validi sono i seguenti: \"set\", che consente di impostare il rispettivo valore. Verrà restituito un errore per i generatori che non supportano il rispettivo campo; \"external\", che non imposta il valore anche se supportato dal generatore. Questa impostazione è utile se, ad esempio, un set di impostazioni usa il generatore Ninja e un IDE può configurare l'ambiente Visual C++ usando i campi dell'architettura e del set di strumenti. In tal caso, CMake ignorerà il campo, ma l'IDE potrà usarli per configurare l'ambiente prima di richiamare CMake.",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"binaryDir": {
+						"type": "string",
+						"description": "Stringa facoltativa che rappresenta il percorso della directory binaria di output. Questo campo supporta l'espansione di macro. Se viene specificato un percorso relativo, verrà calcolato in relazione alla directory di origine. Se binaryDir non è specificato, deve essere ereditato dal set di impostazioni inherits (a meno che questo set di impostazioni non sia nascosto)."
+					},
+					"cmakeExecutable": {
+						"type": "string",
+						"description": "Stringa facoltativa che rappresenta il percorso dell'eseguibile CMake da usare per questo set di impostazioni. È riservata agli IDE e non viene usata da CMake stesso. Gli IDE che usano questo campo devono espandere le eventuali macro in essi contenute."
+					},
+					"cacheVariables": {
+						"type": "object",
+						"description": "Mapping facoltativo delle variabili della cache. La chiave è il nome della variabile (che non deve essere una stringa vuota). Le variabili della cache vengono ereditate tramite il campo inherits e le variabili del set di impostazioni saranno costituite dall'unione dei relativi valori cacheVariables e dei valori cacheVariables di tutti i relativi elementi padre. Se più set di impostazioni in questa unione definiscono la stessa variabile, vengono applicate le regole standard di inherits.",
+						"properties": {
+							"CMAKE_C_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Compilatore da usare per C."
+									},
+									{
+										"type": "null",
+										"description": "Se si imposta una variabile su Null, questa non viene impostata anche se un valore è stato ereditato da un altro set di impostazioni."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_CXX_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Compilatore da usare per C++."
+									},
+									{
+										"type": "null",
+										"description": "Se si imposta una variabile su Null, questa non viene impostata anche se un valore è stato ereditato da un altro set di impostazioni."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_INSTALL_PREFIX": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Directory di installazione usata da CMake."
+									},
+									{
+										"type": "null",
+										"description": "Se si imposta una variabile su Null, questa non viene impostata anche se un valore è stato ereditato da un altro set di impostazioni."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_TOOLCHAIN_FILE": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "File della toolchain passato a CMake."
+									},
+									{
+										"type": "null",
+										"description": "Se si imposta una variabile su Null, questa non viene impostata anche se un valore è stato ereditato da un altro set di impostazioni."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_BUILD_TYPE": {
+								"description": "Consente di specificare il tipo di compilazione in generatori a configurazione singola.",
+								"anyOf": [
+									{
+										"type": "string",
+										"enum": [
+											"Debug",
+											"Release",
+											"RelWithDebInfo",
+											"MinSizeRel"
+										]
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									},
+									{
+										"type": "string"
+									},
+									{
+										"type": "null",
+										"description": "Se si imposta una variabile su Null, questa non viene impostata anche se un valore è stato ereditato da un altro set di impostazioni."
+									}
+								]
+							}
+						},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Se si imposta una variabile su Null, questa non viene impostata anche se un valore è stato ereditato da un altro set di impostazioni."
+								},
+								{
+									"type": "boolean",
+									"description": "Valore booleano che rappresenta il valore della variabile. Equivalente a \"TRUE\" o \"FALSE\"."
+								},
+								{
+									"type": "string",
+									"description": "Stringa che rappresenta il valore della variabile (che supporta l'espansione di macro)."
+								},
+								{
+									"type": "object",
+									"description": "Oggetto che rappresenta il tipo e il valore della variabile.",
+									"properties": {
+										"type": {
+											"type": "string",
+											"description": "Stringa facoltativa che rappresenta il tipo della variabile. Deve essere BOOL, FILEPATH, PATH, STRING o INTERNAL."
+										},
+										"value": {
+											"anyOf": [
+												{
+													"type": "boolean",
+													"description": "Valore booleano obbligatorio che rappresenta il valore della variabile. Equivalente a \"TRUE\" o \"FALSE\"."
+												},
+												{
+													"type": "string",
+													"description": "Stringa obbligatoria che rappresenta il valore della variabile. Questo campo supporta l'espansione di macro."
+												}
+											]
+										}
+									},
+									"required": [
+										"value"
+									],
+									"additionalProperties": false
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"environment": {
+						"type": "object",
+						"description": "Mapping facoltativo delle variabili di ambiente. La chiave è il nome della variabile (che non deve essere una stringa vuota). Ogni variabile viene impostata indipendentemente dal fatto che l'ambiente del processo abbia assegnato o meno un valore. Questo campo supporta l'espansione di macro e le variabili di ambiente in questo mapping possono fare riferimento l'una all'altra ed essere elencate in qualsiasi ordine, purché tali riferimenti non causino un ciclo (ad esempio, se ENV_1 è $env{ENV_2}, ENV_2 potrebbe non essere $env{ENV_1}). Le variabili di ambiente vengono ereditate tramite il campo inherits e l'ambiente del set di impostazioni sarà costituito dall'unione del relativo ambiente e dell'ambiente di tutti gli elementi padre. Se più set di impostazioni in questa unione definiscono la stessa variabile, vengono applicate le regole standard di inherits. Se si imposta una variabile su Null, questa non viene impostata anche se un valore è stato ereditato da un altro set di impostazioni.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Se si imposta una variabile su Null, questa non viene impostata anche se un valore è stato ereditato da un altro set di impostazioni."
+								},
+								{
+									"type": "string",
+									"description": "Stringa che rappresenta il valore della variabile."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"warnings": {
+						"type": "object",
+						"description": "Oggetto facoltativo specifica gli avvisi.",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "Valore booleano facoltativo. Equivale a passare -Wdev o -Wno-dev sulla riga di comando. Non è possibile impostare questo valore su false se errors.dev è impostato su true."
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "Valore booleano facoltativo. Equivale a passare -Wdeprecated o -Wno-deprecated sulla riga di comando. Non è possibile impostare questo valore su false se errors.deprecated è impostato su true."
+							},
+							"uninitialized": {
+								"type": "boolean",
+								"description": "Valore booleano facoltativo. Impostare questo valore su true equivale a passare --warn-uninitialized sulla riga di comando."
+							},
+							"unusedCli": {
+								"type": "boolean",
+								"description": "Valore booleano facoltativo. Impostare questo valore su false equivale a passare --no-warn-unused-cli sulla riga di comando."
+							},
+							"systemVars": {
+								"type": "boolean",
+								"description": "Valore booleano facoltativo. Impostare questo valore su true equivale a passare --check-system-vars sulla riga di comando."
+							}
+						},
+						"additionalProperties": false
+					},
+					"errors": {
+						"type": "object",
+						"description": "Oggetto facoltativo che specifica gli errori.",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "Valore booleano facoltativo. Equivale a passare -Werror=dev o -Wno-error=dev sulla riga di comando. Non è possibile impostare questo valore su true se warnings.dev è impostato su false."
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "Valore booleano facoltativo. Equivale a passare -Werror=deprecated o -Wno-error=deprecated sulla riga di comando. Non è possibile impostare questo valore su true se warnings.deprecated è impostato su false."
+							}
+						},
+						"additionalProperties": false
+					},
+					"debug": {
+						"type": "object",
+						"description": "Oggetto facoltativo che specifica le opzioni di debug.",
+						"properties": {
+							"output": {
+								"type": "boolean",
+								"description": "Valore booleano facoltativo. Impostare questo valore su true equivale a passare --debug-output sulla riga di comando."
+							},
+							"tryCompile": {
+								"type": "boolean",
+								"description": "Valore booleano facoltativo. Impostare questo valore su true equivale a passare --debug-trycompile sulla riga di comando."
+							},
+							"find": {
+								"type": "boolean",
+								"description": "Valore booleano facoltativo. Impostare questo valore su true equivale a passare --debug-find sulla riga di comando."
+							}
+						},
+						"additionalProperties": false
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"buildPresets": {
+			"type": "array",
+			"description": "Matrice facoltativa di oggetti set di impostazioni di compilazione. Usata per specificare gli argomenti per cmake --build. Disponibile nella versione 2 e successive.",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Stringa obbligatoria che rappresenta il nome del set di impostazioni riconosciuto dal computer. Questo identificatore viene usato nell'argomento --preset. Non devono essere presenti due set di impostazioni (di configurazione, compilazione o test) nell'unione di CMakePresets.json e CMakeUserPresets.json nella stessa directory con lo stesso nome.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Valore booleano facoltativo che specifica se un set di impostazioni deve essere nascosto o meno. Se un set di impostazioni è nascosto, non può essere usato nell'argomento --preset, non verrà visualizzato nella GUI di CMake e non deve avere un valore configurePreset valido, anche se proveniente dall'ereditarietà. I set di impostazioni nascosti devono essere usati come base per altri set di impostazioni per ereditare tramite il campo inherits."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Stringa facoltativa che rappresenta il nome del set di impostazioni di compilazione da cui ereditare.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Matrice facoltativa di stringhe che rappresenta i nomi dei set di impostazioni di compilazione da cui ereditare. Per impostazione predefinita, il set di impostazioni eredita tutti i campi dai set di impostazioni inherits (tranne name, hidden, inherits, description e displayName), ma può sovrascriverli se necessario. Se più set di impostazioni inherits forniscono valori in conflitto per lo stesso campo, verrà preferito il set di impostazioni precedente nell'elenco inherits. I set di impostazioni in CMakePresets.json potrebbero non ereditare dai set di impostazioni in CMakeUserPresets.json.",
+								"items": {
+									"type": "string",
+									"description": "Stringa facoltativa che rappresenta il nome del set di impostazioni da cui ereditare.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "Stringa facoltativa che specifica il nome di un set di impostazioni di configurazione da associare a questo set di impostazioni di compilazione. Se configurePreset non è specificato, deve essere ereditato dal set di impostazioni inherits (a meno che questo set di impostazioni non sia nascosto). La directory dell'albero di compilazione viene dedotta dal set di impostazioni di configurazione.",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Mapping facoltativo contenente informazioni specifiche del fornitore. CMake non interpreta il contenuto di questo campo tranne per verificare l'esistenza di un mapping. Deve tuttavia seguire le stesse convenzioni del campo del fornitore a livello di radice. Se i fornitori usano il relativo campo del fornitore per set di impostazioni, devono implementare l'ereditarietà in modo ragionevole quando appropriato.",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Stringa facoltativa con un nome descrittivo del set di impostazioni."
+					},
+					"description": {
+						"type": "string",
+						"description": "Stringa facoltativa con una descrizione intuitiva del set di impostazioni."
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "Valore booleano facoltativo che per impostazione predefinita è true. Se è true, le variabili di ambiente del set di impostazioni di configurazione associato vengono ereditate dopo tutti gli ambienti dei set di impostazioni di compilazione ereditati, ma prima delle variabili di ambiente specificate in modo esplicito in questo set di impostazioni di compilazione."
+					},
+					"environment": {
+						"type": "object",
+						"description": "Mapping facoltativo delle variabili di ambiente. La chiave è il nome della variabile (che non deve essere una stringa vuota). Ogni variabile viene impostata indipendentemente dal fatto che l'ambiente del processo abbia assegnato o meno un valore. Questo campo supporta l'espansione di macro e le variabili di ambiente in questo mapping possono fare riferimento l'una all'altra ed essere elencate in qualsiasi ordine, purché tali riferimenti non causino un ciclo (ad esempio, se ENV_1 è $env{ENV_2}, ENV_2 potrebbe non essere $env{ENV_1}). Le variabili di ambiente vengono ereditate tramite il campo inherits e l'ambiente del set di impostazioni sarà costituito dall'unione del relativo ambiente e dell'ambiente di tutti gli elementi padre. Se più set di impostazioni in questa unione definiscono la stessa variabile, vengono applicate le regole standard di inherits. Se si imposta una variabile su Null, questa non viene impostata anche se un valore è stato ereditato da un altro set di impostazioni.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Se si imposta una variabile su Null, questa non viene impostata anche se un valore è stato ereditato da un altro set di impostazioni."
+								},
+								{
+									"type": "string",
+									"description": "Stringa che rappresenta il valore della variabile."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"jobs": {
+						"type": "integer",
+						"description": "Intero facoltativo. Equivale a passare --parallel o -j sulla riga di comando."
+					},
+					"targets": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Stringa facoltativa. Equivale a passare --target o -t sulla riga di comando. I fornitori possono ignorare la proprietà targets o nascondere i set di impostazioni di compilazione che specificano in modo esplicito targets."
+							},
+							{
+								"type": "array",
+								"description": "Matrice facoltativa di stringhe. Equivale a passare --target o -t sulla riga di comando. I fornitori possono ignorare la proprietà targets o nascondere i set di impostazioni di compilazione che specificano in modo esplicito targets.",
+								"items": {
+									"type": "string",
+									"description": "Stringa facoltativa. Equivale a passare --target o -t sulla riga di comando. I fornitori possono ignorare la proprietà targets o nascondere i set di impostazioni di compilazione che specificano in modo esplicito targets."
+								}
+							}
+						]
+					},
+					"configuration": {
+						"type": "string",
+						"description": "Stringa facoltativa. Equivale a passare --config sulla riga di comando."
+					},
+					"cleanFirst": {
+						"type": "boolean",
+						"description": "Valore booleano facoltativo. Se è true, equivale a passare --clean-first sulla riga di comando."
+					},
+					"verbose": {
+						"type": "boolean",
+						"description": "Valore booleano facoltativo. Se è true, equivale a passare --verbose sulla riga di comando."
+					},
+					"nativeToolOptions": {
+						"type": "array",
+						"description": "Matrice facoltativa di stringhe. Equivale a passare opzioni dopo -- sulla riga di comando.",
+						"items": {
+							"type": "string",
+							"description": "Stringa facoltativa che rappresenta un'opzione da passare dopo -- sulla riga di comando."
+						}
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"testPresets": {
+			"type": "array",
+			"description": "Matrice facoltativa di oggetti set di impostazioni di test. Usata per specificare gli argomenti per ctest. Disponibile nella versione 2 e successive.",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Stringa obbligatoria che rappresenta il nome del set di impostazioni riconosciuto dal computer. Questo identificatore viene usato nell'argomento --preset. Non devono essere presenti due set di impostazioni (di configurazione, compilazione o test) nell'unione di CMakePresets.json e CMakeUserPresets.json nella stessa directory con lo stesso nome.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Valore booleano facoltativo che specifica se un set di impostazioni deve essere nascosto o meno. Se un set di impostazioni è nascosto, non può essere usato nell'argomento --preset, non verrà visualizzato nella GUI di CMake e non deve avere un valore configurePreset valido, anche se proveniente dall'ereditarietà. I set di impostazioni nascosti devono essere usati come base per altri set di impostazioni per ereditare tramite il campo inherits."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Stringa facoltativa che rappresenta il nome del set di impostazioni di compilazione di test da cui ereditare.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Matrice facoltativa di stringhe che rappresenta i nomi dei set di impostazioni di test da cui ereditare. Per impostazione predefinita, il set di impostazioni eredita tutti i campi dai set di impostazioni inherits (tranne name, hidden, inherits, description e displayName), ma può sovrascriverli se necessario. Se più set di impostazioni inherits forniscono valori in conflitto per lo stesso campo, verrà preferito il set di impostazioni precedente nell'elenco inherits. I set di impostazioni in CMakePresets.json potrebbero non ereditare dai set di impostazioni in CMakeUserPresets.json.",
+								"items": {
+									"type": "string",
+									"description": "Stringa facoltativa che rappresenta il nome del set di impostazioni da cui ereditare.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "Stringa facoltativa che specifica il nome di un set di impostazioni di configurazione da associare a questo set di impostazioni di test. Se configurePreset non è specificato, deve essere ereditato dal set di impostazioni inherits (a meno che questo set di impostazioni non sia nascosto). La directory dell'albero di compilazione viene dedotta dal set di impostazioni di configurazione.",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Mapping facoltativo contenente informazioni specifiche del fornitore. CMake non interpreta il contenuto di questo campo tranne per verificare l'esistenza di un mapping. Deve tuttavia seguire le stesse convenzioni del campo del fornitore a livello di radice. Se i fornitori usano il relativo campo del fornitore per set di impostazioni, devono implementare l'ereditarietà in modo ragionevole quando appropriato.",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Stringa facoltativa con un nome descrittivo del set di impostazioni."
+					},
+					"description": {
+						"type": "string",
+						"description": "Stringa facoltativa con una descrizione intuitiva del set di impostazioni."
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "Valore booleano facoltativo che per impostazione predefinita è true. Se è true, le variabili di ambiente del set di impostazioni di configurazione associato vengono ereditate dopo tutti gli ambienti dei set di impostazioni di test ereditati, ma prima delle variabili di ambiente specificate in modo esplicito in questo set di impostazioni di test."
+					},
+					"environment": {
+						"type": "object",
+						"description": "Mapping facoltativo delle variabili di ambiente. La chiave è il nome della variabile (che non deve essere una stringa vuota). Ogni variabile viene impostata indipendentemente dal fatto che l'ambiente del processo abbia assegnato o meno un valore. Questo campo supporta l'espansione di macro e le variabili di ambiente in questo mapping possono fare riferimento l'una all'altra ed essere elencate in qualsiasi ordine, purché tali riferimenti non causino un ciclo (ad esempio, se ENV_1 è $env{ENV_2}, ENV_2 potrebbe non essere $env{ENV_1}). Le variabili di ambiente vengono ereditate tramite il campo inherits e l'ambiente del set di impostazioni sarà costituito dall'unione del relativo ambiente e dell'ambiente di tutti gli elementi padre. Se più set di impostazioni in questa unione definiscono la stessa variabile, vengono applicate le regole standard di inherits. Se si imposta una variabile su Null, questa non viene impostata anche se un valore è stato ereditato da un altro set di impostazioni.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Se si imposta una variabile su Null, questa non viene impostata anche se un valore è stato ereditato da un altro set di impostazioni."
+								},
+								{
+									"type": "string",
+									"description": "Stringa che rappresenta il valore della variabile."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"configuration": {
+						"type": "string",
+						"description": "Stringa facoltativa. Equivale a passare --build-config sulla riga di comando."
+					},
+					"overwriteConfigurationFile": {
+						"type": "array",
+						"description": "Matrice facoltativa di opzioni di configurazione per sovrascrivere le opzioni specificate nel file di configurazione di CTest. Equivale a passare ``--overwrite`` per ogni valore nella matrice.",
+						"items": {
+							"type": "string",
+							"description": "Opzione scritta come coppia chiave-valore in formato \"chiave=valore\"."
+						}
+					},
+					"output": {
+						"type": "object",
+						"description": "Oggetto facoltativo che specifica le opzioni di output.",
+						"properties": {
+							"shortProgress": {
+								"type": "boolean",
+								"description": "Valore booleano facoltativo. Se è true, equivale a passare --progress sulla riga di comando."
+							},
+							"verbosity": {
+								"type": "string",
+								"description": "Stringa facoltativa che specifica il livello di dettaglio. I valori validi sono \"default\" (che equivale a non passare alcun flag di dettaglio sulla riga di comando), \"verbose\" (che equivale a passare --verbose sulla riga di comando) e \"extra\" (che equivale a passare --extra-verbose sulla riga di comando).",
+								"enum": [
+									"default",
+									"verbose",
+									"extra"
+								]
+							},
+							"debug": {
+								"type": "boolean",
+								"description": "Valore booleano facoltativo. Se è true, equivale a passare --debug sulla riga di comando."
+							},
+							"outputOnFailure": {
+								"type": "boolean",
+								"description": "Valore booleano facoltativo. Se è true, equivale a passare --output-on-failure sulla riga di comando."
+							},
+							"quiet": {
+								"type": "boolean",
+								"description": "Valore booleano facoltativo. Se è true, equivale a passare --quiet sulla riga di comando."
+							},
+							"outputLogFile": {
+								"type": "string",
+								"description": "Stringa facoltativa che specifica un percorso di un file di log. Equivale a passare --output-log sulla riga di comando."
+							},
+							"labelSummary": {
+								"type": "boolean",
+								"description": "Valore booleano facoltativo. Se è false, equivale a passare --no-label-summary sulla riga di comando."
+							},
+							"subprojectSummary": {
+								"type": "boolean",
+								"description": "Valore booleano facoltativo. Se è false, equivale a passare --no-subproject-summary sulla riga di comando."
+							},
+							"maxPassedTestOutputSize": {
+								"type": "integer",
+								"description": "Intero facoltativo che specifica l'output massimo in byte per i test superati. Equivale a passare --test-output-size-passed sulla riga di comando."
+							},
+							"maxFailedTestOutputSize": {
+								"type": "integer",
+								"description": "Intero facoltativo che specifica l'output massimo in byte per i test non superati. Equivale a passare --test-output-size-failed sulla riga di comando."
+							},
+							"maxTestNameWidth": {
+								"type": "integer",
+								"description": "Stringa facoltativa che specifica la lunghezza massima di un nome di test nell'output. Equivale a passare --max-width sulla riga di comando."
+							}
+						},
+						"additionalProperties": false
+					},
+					"filter": {
+						"type": "object",
+						"description": "Oggetto facoltativo che specifica come filtrare i test da eseguire.",
+						"properties": {
+							"include": {
+								"type": "object",
+								"description": "Oggetto facoltativo che specifica i test da includere.",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "Stringa facoltativa che specifica un regex per i nomi di test. Equivale a passare --tests-regex sulla riga di comando."
+									},
+									"label": {
+										"type": "string",
+										"description": "Stringa facoltativa che specifica un regex per le etichette di test. Equivale a passare --label-regex sulla riga di comando."
+									},
+									"index": {
+										"anyOf": [
+											{
+												"type": "object",
+												"description": "Oggetto facoltativo che specifica i test da includere in base all'indice di test.",
+												"properties": {
+													"start": {
+														"type": "integer",
+														"description": "Intero facoltativo che specifica un indice di test in corrispondenza del quale avviare il test."
+													},
+													"end": {
+														"type": "integer",
+														"description": "Intero facoltativo che specifica un indice di test in corrispondenza del quale arrestare il test."
+													},
+													"stride": {
+														"type": "integer",
+														"description": "Intero facoltativo che specifica l'incremento."
+													},
+													"specificTests": {
+														"type": "array",
+														"description": "Matrice facoltativa di interi che specifica indici di test specifici da eseguire.",
+														"items": {
+															"type": "integer",
+															"description": "Intero che specifica il test da eseguire in base all'indice."
+														}
+													}
+												},
+												"additionalProperties": false
+											},
+											{
+												"type": "string",
+												"description": "Stringa facoltativa che specifica un file con la sintassi da riga di comando per --tests-information."
+											}
+										]
+									},
+									"useUnion": {
+										"type": "boolean",
+										"description": "Valore booleano facoltativo. Equivale a passare --union sulla riga di comando."
+									}
+								},
+								"additionalProperties": false
+							},
+							"exclude": {
+								"type": "object",
+								"description": "Oggetto facoltativo che specifica i test da escludere.",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "Stringa facoltativa che specifica un regex per i nomi di test. Equivale a passare --exclude-regex sulla riga di comando."
+									},
+									"label": {
+										"type": "string",
+										"description": "Stringa facoltativa che specifica un regex per le etichette di test. Equivale a passare --label-exclude sulla riga di comando."
+									},
+									"fixtures": {
+										"type": "object",
+										"description": "Oggetto facoltativo che specifica quali fixture escludere dall'aggiunta di test.",
+										"properties": {
+											"any": {
+												"type": "string",
+												"description": "Stringa facoltativa che specifica un regex per le fixture di testo da escludere dall'aggiunta di test. Equivale a passare --fixture-exclude-any sulla riga di comando."
+											},
+											"setup": {
+												"type": "string",
+												"description": "Stringa facoltativa che specifica un regex per le fixture di testo da escludere dall'aggiunta di test di configurazione. Equivale a passare --fixture-exclude-setup sulla riga di comando."
+											},
+											"cleanup": {
+												"type": "string",
+												"description": "Stringa facoltativa che specifica un regex per le fixture di testo da escludere dall'aggiunta di test di pulizia. Equivale a passare --fixture-exclude-cleanup sulla riga di comando."
+											}
+										},
+										"additionalProperties": false
+									}
+								}
+							}
+						},
+						"additionalProperties": false
+					},
+					"execution": {
+						"type": "object",
+						"description": "Oggetto facoltativo che specifica le opzioni per l'esecuzione dei test.",
+						"properties": {
+							"stopOnFailure": {
+								"type": "boolean",
+								"description": "Valore booleano facoltativo. Se è true, equivale a passare --stop-on-failure sulla riga di comando."
+							},
+							"enableFailover": {
+								"type": "boolean",
+								"description": "Valore booleano facoltativo. Se è true, equivale a passare -F sulla riga di comando."
+							},
+							"jobs": {
+								"type": "integer",
+								"description": "Intero facoltativo. Equivale a passare --parallel sulla riga di comando."
+							},
+							"resourceSpecFile": {
+								"type": "string",
+								"description": "Stringa facoltativa. Equivale a passare --resource-spec-file sulla riga di comando."
+							},
+							"testLoad": {
+								"type": "integer",
+								"description": "Intero facoltativo. Equivale a passare --test-load sulla riga di comando."
+							},
+							"showOnly": {
+								"type": "string",
+								"description": "Stringa facoltativa. Equivale a passare --show-only sulla riga di comando. Il valore deve essere \"human\" o \"json-v1\".",
+								"enum": [
+									"human",
+									"json-v1"
+								]
+							},
+							"repeat": {
+								"type": "object",
+								"description": "Oggetto facoltativo che specifica come ripetere i test. Equivale a passare --repeat sulla riga di comando.",
+								"properties": {
+									"mode": {
+										"type": "string",
+										"description": "Stringa obbligatoria. Deve essere uno dei valori seguenti: \"until-fail\", \"until-pass\" o \"after-timeout\".",
+										"enum": [
+											"until-fail",
+											"until-pass",
+											"after-timeout"
+										]
+									},
+									"count": {
+										"type": "integer",
+										"description": "Intero obbligatorio."
+									}
+								},
+								"required": [
+									"mode",
+									"count"
+								],
+								"additionalProperties": false
+							},
+							"interactiveDebugging": {
+								"type": "boolean",
+								"description": "Valore booleano facoltativo. Se è true, equivale a passare --interactive-debug-mode 1 sulla riga di comando. Se è false, equivale a passare --interactive-debug-mode 0 sulla riga di comando."
+							},
+							"scheduleRandom": {
+								"type": "boolean",
+								"description": "Valore booleano facoltativo. Se è true, equivale a passare --schedule-random sulla riga di comando."
+							},
+							"timeout": {
+								"type": "integer",
+								"description": "Intero facoltativo. Equivale a passare --timeout sulla riga di comando."
+							},
+							"noTestsAction": {
+								"type": "string",
+								"description": "Stringa facoltativa che specifica il comportamento se non vengono trovati test. Deve essere uno dei valori seguenti: \"default\" (che equivale a non passare alcun valore sulla riga di comando), \"error\" (che equivale a passare --no-tests=error sulla riga di comando) o \"ignore\" (che equivale a passare --no-tests-ignore sulla riga di comando).",
+								"enum": [
+									"default",
+									"error",
+									"ignore"
+								]
+							}
+						},
+						"additionalProperties": false
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"vendor": {
+			"type": "object",
+			"description": "Mapping facoltativo contenente informazioni specifiche del fornitore. Cmake non interpreta il contenuto di questo campo tranne per verificare l'esistenza di un mapping. Le chiavi devono però essere un nome di dominio specifico del fornitore seguito da un percorso delimitato da /. Ad esempio, l'IDE 1.0 di esempio può usare example.com/ExampleIDE/1.0. Il valore di ogni campo può essere un qualsiasi valore indicato dal fornitore, anche se in genere sarà un mapping.",
+			"properties": {}
+		}
+	},
+	"additionalProperties": false
+}

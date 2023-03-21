@@ -1,0 +1,2 @@
+version = "3.4.*"
+obsolete_since = "3.5.0" # Released on 2022-10-28

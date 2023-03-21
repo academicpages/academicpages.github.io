@@ -1,0 +1,3 @@
+from django.db.models.expressions import Subquery
+
+class ArraySubquery(Subquery): ...

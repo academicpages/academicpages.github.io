@@ -1,0 +1,9 @@
+test/
+coverage.html
+Makefile
+.travis.yml
+logo.png
+.jshintignore
+.jshintrc
+.gitingore
+coverage/

@@ -1,0 +1,17 @@
+exceptiongroup-1.1.0.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+exceptiongroup-1.1.0.dist-info/LICENSE,sha256=blBw12UDHgrUA6HL-Qrm0ZoCKPgC4yC3rP9GCqcu1Hw,3704
+exceptiongroup-1.1.0.dist-info/METADATA,sha256=rrLqrxQJWEfkEfJNNarajJapX427SN9xGi-9XgVqPIk,6083
+exceptiongroup-1.1.0.dist-info/RECORD,,
+exceptiongroup-1.1.0.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+exceptiongroup-1.1.0.dist-info/WHEEL,sha256=rSgq_JpHF9fHR1lx53qwg_1-2LypZE_qmcuXbVUq948,81
+exceptiongroup/__init__.py,sha256=Zr-MMWDXFMdrRBC8nS8UFqATRQL0Z-Lb-SANqs-uu0I,920
+exceptiongroup/__pycache__/__init__.cpython-37.pyc,,
+exceptiongroup/__pycache__/_catch.cpython-37.pyc,,
+exceptiongroup/__pycache__/_exceptions.cpython-37.pyc,,
+exceptiongroup/__pycache__/_formatting.cpython-37.pyc,,
+exceptiongroup/__pycache__/_version.cpython-37.pyc,,
+exceptiongroup/_catch.py,sha256=m7BHRSU_kKy_pqMISPArf99zW1RgMG00i8623f7_sEo,3578
+exceptiongroup/_exceptions.py,sha256=DA0ZlGJYdhKY8qshE3-EkLiBmLUbQnJN8iB7uNi4dI8,9748
+exceptiongroup/_formatting.py,sha256=LBv947qWeg2foEXPwgJl9S9lp2bH4OfRlWqxqXYXOZg,19035
+exceptiongroup/_version.py,sha256=eN4XHm6SxF8r-Rq1FxYi3sUjU-hsaVzCjqjRUmosPC8,160
+exceptiongroup/py.typed,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0

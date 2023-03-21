@@ -1,0 +1,118 @@
+{
+	"name": "cmake",
+	"version": "0.0.17",
+	"publisher": "twxs",
+	"displayName": "CMake",
+	"description": "CMake langage support for Visual Studio Code",
+	"author": {
+		"name": "Nicolas Martin"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/twxs/vs.language.cmake.git"
+	},
+	"bugs": {
+		"url": "https://github.com/twxs/vs.language.cmake/issues"
+	},
+	"homepage": "https://github.com/twxs/vs.language.cmake/blob/master/README.md",
+	"keywords": [
+		"CMake",
+		"Syntax"
+	],
+	"categories": [
+		"Languages",
+		"Snippets",
+		"Other"
+	],
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#5c2d91",
+		"theme": "dark"
+	},
+	"license": "MIT",
+	"activationEvents": [
+		"onLanguage:cmake"
+	],
+	"engines": {
+		"vscode": "^1.10.0"
+	},
+	"main": "./out/extension",
+	"contributes": {
+		"languages": [
+			{
+				"id": "cmake",
+				"extensions": [
+					".cmake"
+				],
+				"filenames": [
+					"CMakelists.txt"
+				],
+				"aliases": [
+					"CMake"
+				]
+			},
+			{
+				"id": "cmake-cache",
+				"filenames": [
+					"CMakeCache.txt"
+				],
+				"aliases": [
+					"CMake Cache"
+				]
+			}
+		],
+		"commands": [
+			{
+				"command": "cmake.onlineHelp",
+				"title": "CMake: Online Help"
+			}
+		],
+		"grammars": [
+			{
+				"language": "cmake",
+				"scopeName": "source.cmake",
+				"path": "./syntaxes/CMake.tmLanguage"
+			},
+			{
+				"language": "cmake-cache",
+				"scopeName": "source.cmakecache",
+				"path": "./syntaxes/CMakeCache.tmLanguage"
+			}
+		],
+		"configuration": {
+			"title": "CMake configuration",
+			"properties": {
+				"cmake.cmakePath": {
+					"type": "string",
+					"default": "cmake",
+					"description": "The path to CMake generator executable"
+				}
+			}
+		}
+	},
+	"scripts": {
+		"vscode:prepublish": "tsc -p ./",
+		"compile": "tsc -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install"
+	},
+	"dependencies": {
+		"opener": "^1.4.2"
+	},
+	"devDependencies": {
+		"typescript": "^2.0.9",
+		"vscode": "^1.0.3",
+		"@types/node": "^6.0.47",
+		"mocha": "^3.1.2",
+		"@types/mocha": "^2.2.33"
+	},
+	"__metadata": {
+		"id": "2be7cf14-2603-402e-9771-fd79df83cdf8",
+		"publisherId": "b5ab7991-81a8-4557-af54-4cb8e01e85c1",
+		"publisherDisplayName": "twxs",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1671082197084
+	}
+}

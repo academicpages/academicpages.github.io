@@ -1,0 +1,111 @@
+{
+	"type": "object",
+	"description": "Variantenoptionen",
+	"additionalProperties": false,
+	"minProperties": 1,
+	"patternProperties": {
+		"base\\$": {
+			"type": "object",
+			"description": "Basis-Mixin für alle Varianten (für CMake Tools nicht implementiert)",
+			"additionalProperties": true
+		},
+		"^\\w+$": {
+			"type": "object",
+			"properties": {
+				"description": {
+					"description": "Eine Beschreibung dieser Option",
+					"type": "string"
+				},
+				"default": {
+					"description": "Die Standardeinstellung für diese Option",
+					"type": "string"
+				},
+				"choices": {
+					"type": "object",
+					"description": "Ein möglicher Optionswert",
+					"minProperties": 1,
+					"patternProperties": {
+						"^\\w+$": {
+							"type": "object",
+							"required": [
+								"short"
+							],
+							"properties": {
+								"short": {
+									"type": "string",
+									"description": "Eine einfache Ein-Wort-Beschreibung für diesen Wert"
+								},
+								"long": {
+									"type": "string",
+									"description": "Eine längere Beschreibung der Auswirkungen dieses Werts"
+								},
+								"buildType": {
+									"type": "string",
+									"default": "Debug",
+									"description": "Der Wert von CMAKE_BUILD_TYPE für diese Variante"
+								},
+								"linkage": {
+									"type": "string",
+									"enum": [
+										"static",
+										"shared"
+									],
+									"default": "static",
+									"description": "Legt den Wert von BUILD_SHARED in der CMake-Befehlszeile fest."
+								},
+								"env": {
+									"type": "object",
+									"description": "Umgebungsvariablen, die während der CMake-Konfiguration festgelegt werden sollen",
+									"additionalProperties": false,
+									"patternProperties": {
+										"^\\w+$": {
+											"type": "string",
+											"description": "Wert für die Umgebungsvariable"
+										}
+									}
+								},
+								"settings": {
+									"type": "object",
+									"description": "Die -D-Argumente, die für diese Variante an CMake übergeben werden sollen",
+									"minProperties": 1,
+									"additionalProperties": {
+										"anyOf": [
+											{
+												"type": "string"
+											},
+											{
+												"type": "array",
+												"items": {
+													"type": "string"
+												}
+											},
+											{
+												"type": "integer"
+											},
+											{
+												"type": "boolean"
+											}
+										]
+									}
+								},
+								"generator": {
+									"type": "string",
+									"description": "Der für diese Variante zu verwendende CMake-Generator",
+									"default": "Ninja"
+								},
+								"toolset": {
+									"type": "string",
+									"description": "Das für diese Variante zu verwendende Generator-Toolset"
+								}
+							}
+						}
+					}
+				}
+			},
+			"required": [
+				"default",
+				"choices"
+			]
+		}
+	}
+}

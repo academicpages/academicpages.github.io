@@ -1,0 +1,102 @@
+{
+	"type": "array",
+	"description": "Sady CMake",
+	"items": {
+		"type": "object",
+		"description": "Sada",
+		"additionalProperties": false,
+		"properties": {
+			"name": {
+				"type": "string",
+				"description": "Název této sady"
+			},
+			"description": {
+				"type": "string",
+				"description": "The description of this kit"
+			},
+			"vendor": {
+				"type": "string",
+				"description": "Název dodavatele této sady"
+			},
+			"triple": {
+				"type": "string",
+				"description": "Cílová trojice této sady"
+			},
+			"version": {
+				"type": "string",
+				"description": "Verze této sady"
+			},
+			"versionRuntime": {
+				"type": "string",
+				"description": "Verze modulu runtime jazyka C pro sadu"
+			},
+			"keep": {
+				"type": "boolean",
+				"description": "Pokud je nastavena hodnota true, bude tato sada zachována i v případě, kdy už bude neaktuální."
+			},
+			"compilers": {
+				"type": "object",
+				"patternProperties": {
+					"\\w+": {
+						"type": "string",
+						"description": "Cesta ke kompilátoru pro tento jazyk"
+					}
+				}
+			},
+			"toolchainFile": {
+				"type": "string",
+				"description": "Cesta k souboru sady nástrojů"
+			},
+			"visualStudio": {
+				"type": "string",
+				"description": "ID instance produktu Visual Studio"
+			},
+			"visualStudioArchitecture": {
+				"type": "string",
+				"description": "Cílená architektura"
+			},
+			"environmentSetupScript": {
+				"type": "string",
+				"description": "Absolutní cesta ke skriptu, který upravuje prostředí pro sadu"
+			},
+			"environmentVariables": {
+				"type": "object",
+				"patternProperties": {
+					".*": {
+						"type": "string",
+						"description": "Hodnota pro proměnnou prostředí"
+					}
+				}
+			},
+			"cmakeSettings": {
+				"type": "object",
+				"patternProperties": {
+					".*": {
+						"description": "Hodnota pro nastavení CMake"
+					}
+				}
+			},
+			"preferredGenerator": {
+				"type": "object",
+				"description": "Nastavit preferovaný generátor CMake pro tuto sadu",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Název generátoru, který se má použít"
+					},
+					"platform": {
+						"type": "string",
+						"description": "Platforma CMake pro argument -A"
+					},
+					"toolset": {
+						"type": "string",
+						"description": "Sada nástrojů CMake pro argument -T"
+					}
+				},
+				"required": [
+					"name"
+				]
+			}
+		}
+	}
+}

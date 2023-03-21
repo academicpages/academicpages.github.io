@@ -1,0 +1,102 @@
+{
+	"type": "array",
+	"description": "CMake 套件",
+	"items": {
+		"type": "object",
+		"description": "套件",
+		"additionalProperties": false,
+		"properties": {
+			"name": {
+				"type": "string",
+				"description": "此套件的名稱"
+			},
+			"description": {
+				"type": "string",
+				"description": "The description of this kit"
+			},
+			"vendor": {
+				"type": "string",
+				"description": "此套件的廠商名稱"
+			},
+			"triple": {
+				"type": "string",
+				"description": "此套件的目標三倍"
+			},
+			"version": {
+				"type": "string",
+				"description": "此套件的版本"
+			},
+			"versionRuntime": {
+				"type": "string",
+				"description": "套件的 C 執行階段版本"
+			},
+			"keep": {
+				"type": "boolean",
+				"description": "若為 `true`，即使套件已過期，也會予以保留。"
+			},
+			"compilers": {
+				"type": "object",
+				"patternProperties": {
+					"\\w+": {
+						"type": "string",
+						"description": "此語言的編譯器路徑"
+					}
+				}
+			},
+			"toolchainFile": {
+				"type": "string",
+				"description": "工具鏈檔案路徑"
+			},
+			"visualStudio": {
+				"type": "string",
+				"description": "Visual Studio 產品的執行個體識別碼"
+			},
+			"visualStudioArchitecture": {
+				"type": "string",
+				"description": "要設為目標的架構"
+			},
+			"environmentSetupScript": {
+				"type": "string",
+				"description": "修改套件環境的指令碼絕對路徑"
+			},
+			"environmentVariables": {
+				"type": "object",
+				"patternProperties": {
+					".*": {
+						"type": "string",
+						"description": "環境變數的值"
+					}
+				}
+			},
+			"cmakeSettings": {
+				"type": "object",
+				"patternProperties": {
+					".*": {
+						"description": "CMake 設定的值"
+					}
+				}
+			},
+			"preferredGenerator": {
+				"type": "object",
+				"description": "設定此套件的慣用 CMake 產生器",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "要使用之產生器的名稱"
+					},
+					"platform": {
+						"type": "string",
+						"description": "-A 引數的 CMake 平台"
+					},
+					"toolset": {
+						"type": "string",
+						"description": "-T 引數的 CMake 工具組"
+					}
+				},
+				"required": [
+					"name"
+				]
+			}
+		}
+	}
+}

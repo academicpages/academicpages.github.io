@@ -1,0 +1,50 @@
+{
+  "version": "13.1.0",
+  "name": "twemoji",
+  "license": [
+    "MIT",
+    "CC-BY-4.0"
+  ],
+  "description": "A Unicode 13.0 standard based way to implement emoji across all platforms.",
+  "homepage": "https://github.com/twitter/twemoji",
+  "keywords": [
+    "emoji",
+    "DOM",
+    "parser",
+    "images",
+    "retina",
+    "Twitter",
+    "unicode"
+  ],
+  "devDependencies": {
+    "npm-run-all": "^4.1.5",
+    "phantomjs-prebuilt": "^2.1.16",
+    "uglify-js": "2.6.2"
+  },
+  "author": {
+    "name": "Twitter, Inc.",
+    "web": "https://github.com/twitter/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/twitter/twemoji.git"
+  },
+  "main": "./dist/twemoji.npm.js",
+  "module": "./dist/twemoji.esm.js",
+  "unpkg": "./dist/twemoji.min.js",
+  "scripts": {
+    "build": "./scripts/build.js",
+    "deploy": "./scripts/deploy.sh gh-pages",
+    "test": "phantomjs ./src/test/testrunner.js",
+    "prepublishOnly": "run-s build test deploy"
+  },
+  "dependencies": {
+    "fs-extra": "^8.0.1",
+    "jsonfile": "^5.0.0",
+    "twemoji-parser": "13.1.0",
+    "universalify": "^0.1.2"
+  },
+  "files": [
+    "dist/twemoji*.js"
+  ]
+}

@@ -1,0 +1,24 @@
+
+trigger: none
+  # branches:
+    # include:
+      # - main
+  # tags:
+    # include: ['*']
+pr: none
+
+resources:
+  repositories:
+    - repository: templates
+      type: github
+      name: microsoft/vscode-engineering
+      ref: main
+      endpoint: Monaco
+
+extends:
+  template: azure-pipelines/extension/stable.yml@templates
+  parameters:
+    publishExtension: true
+    buildSteps:
+      - script: npm i -g npm@8.15.1
+        displayName: npm install npm@8.15.1

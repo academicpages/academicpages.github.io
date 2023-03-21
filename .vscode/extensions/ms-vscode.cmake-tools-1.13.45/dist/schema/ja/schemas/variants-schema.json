@@ -1,0 +1,111 @@
+{
+	"type": "object",
+	"description": "バリアントのオプション",
+	"additionalProperties": false,
+	"minProperties": 1,
+	"patternProperties": {
+		"base\\$": {
+			"type": "object",
+			"description": "すべてのバリアントの基本ミックスイン (CMake Tools には実装されていません)",
+			"additionalProperties": true
+		},
+		"^\\w+$": {
+			"type": "object",
+			"properties": {
+				"description": {
+					"description": "このオプションの説明",
+					"type": "string"
+				},
+				"default": {
+					"description": "このオプションの既定の設定",
+					"type": "string"
+				},
+				"choices": {
+					"type": "object",
+					"description": "使用可能なオプション値",
+					"minProperties": 1,
+					"patternProperties": {
+						"^\\w+$": {
+							"type": "object",
+							"required": [
+								"short"
+							],
+							"properties": {
+								"short": {
+									"type": "string",
+									"description": "この値に関する 1 語の簡単な説明"
+								},
+								"long": {
+									"type": "string",
+									"description": "この値の内容に関する詳しい説明"
+								},
+								"buildType": {
+									"type": "string",
+									"default": "Debug",
+									"description": "このバリアントの CMAKE_BUILD_TYPE の値"
+								},
+								"linkage": {
+									"type": "string",
+									"enum": [
+										"static",
+										"shared"
+									],
+									"default": "static",
+									"description": "CMake コマンド ラインで BUILD_SHARED の値を設定します"
+								},
+								"env": {
+									"type": "object",
+									"description": "CMake 構成中に設定する環境変数",
+									"additionalProperties": false,
+									"patternProperties": {
+										"^\\w+$": {
+											"type": "string",
+											"description": "環境変数の値"
+										}
+									}
+								},
+								"settings": {
+									"type": "object",
+									"description": "このバリアントの CMake に渡す-D 引数",
+									"minProperties": 1,
+									"additionalProperties": {
+										"anyOf": [
+											{
+												"type": "string"
+											},
+											{
+												"type": "array",
+												"items": {
+													"type": "string"
+												}
+											},
+											{
+												"type": "integer"
+											},
+											{
+												"type": "boolean"
+											}
+										]
+									}
+								},
+								"generator": {
+									"type": "string",
+									"description": "このバリアントに使用する CMake ジェネレーター",
+									"default": "Ninja"
+								},
+								"toolset": {
+									"type": "string",
+									"description": "このバリアントに使用するジェネレーター ツールセット"
+								}
+							}
+						}
+					}
+				}
+			},
+			"required": [
+				"default",
+				"choices"
+			]
+		}
+	}
+}

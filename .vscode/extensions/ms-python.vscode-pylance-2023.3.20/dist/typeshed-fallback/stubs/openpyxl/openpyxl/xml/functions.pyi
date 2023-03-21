@@ -1,0 +1,6 @@
+from _typeshed import Incomplete
+
+NS_REGEX: Incomplete
+
+def localname(node): ...
+def whitespace(node) -> None: ...

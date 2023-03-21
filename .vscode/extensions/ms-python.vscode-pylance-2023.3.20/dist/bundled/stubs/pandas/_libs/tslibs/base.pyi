@@ -1,0 +1,3 @@
+from datetime import datetime
+
+class ABCTimestamp(datetime): ...

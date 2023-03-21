@@ -1,0 +1,102 @@
+{
+	"type": "array",
+	"description": "CMake Setleri",
+	"items": {
+		"type": "object",
+		"description": "Bir set",
+		"additionalProperties": false,
+		"properties": {
+			"name": {
+				"type": "string",
+				"description": "Bu setin adı"
+			},
+			"description": {
+				"type": "string",
+				"description": "The description of this kit"
+			},
+			"vendor": {
+				"type": "string",
+				"description": "Bu setin satıcı adı"
+			},
+			"triple": {
+				"type": "string",
+				"description": "Bu setin hedefi üçlüsü"
+			},
+			"version": {
+				"type": "string",
+				"description": "Bu setin sürümü"
+			},
+			"versionRuntime": {
+				"type": "string",
+				"description": "Setin C çalışma zamanı sürümü"
+			},
+			"keep": {
+				"type": "boolean",
+				"description": "'true' olması durumunda, bu set süresi dolmuş görünse bile tutulacaktır."
+			},
+			"compilers": {
+				"type": "object",
+				"patternProperties": {
+					"\\w+": {
+						"type": "string",
+						"description": "Bu dil için bir derleyici yolu"
+					}
+				}
+			},
+			"toolchainFile": {
+				"type": "string",
+				"description": "Araç zinciri dosyasının yolu"
+			},
+			"visualStudio": {
+				"type": "string",
+				"description": "Visual Studio ürününün örnek kimliği"
+			},
+			"visualStudioArchitecture": {
+				"type": "string",
+				"description": "Hedeflenecek mimari"
+			},
+			"environmentSetupScript": {
+				"type": "string",
+				"description": "Set için ortamı değiştiren betiğin mutlak yolu"
+			},
+			"environmentVariables": {
+				"type": "object",
+				"patternProperties": {
+					".*": {
+						"type": "string",
+						"description": "Ortam değişkeninin değeri"
+					}
+				}
+			},
+			"cmakeSettings": {
+				"type": "object",
+				"patternProperties": {
+					".*": {
+						"description": "CMake Ayarının değeri"
+					}
+				}
+			},
+			"preferredGenerator": {
+				"type": "object",
+				"description": "Bu Set için tercih edilen bir CMake oluşturucusu ayarlayın",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Kullanılacak oluşturucunun adı"
+					},
+					"platform": {
+						"type": "string",
+						"description": "-A bağımsız değişkeni için CMake platformu"
+					},
+					"toolset": {
+						"type": "string",
+						"description": "-T bağımsız değişkeni için CMake araç takımı"
+					}
+				},
+				"required": [
+					"name"
+				]
+			}
+		}
+	}
+}

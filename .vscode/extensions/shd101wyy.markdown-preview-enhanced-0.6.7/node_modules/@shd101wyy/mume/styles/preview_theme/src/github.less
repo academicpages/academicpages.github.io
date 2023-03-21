@@ -1,0 +1,399 @@
+// out: false
+.github(@fg, @bg, @urlColor) {
+  @fg-strong: contrast(@bg, darken(@fg, 32%), lighten(@fg, 32%));
+  @fg-subtle: contrast(@fg, lighten(@fg, 16%), darken(@fg, 16%));
+  @border: contrast(@bg, lighten(@bg, 16%), darken(@bg, 16%));
+  @blockquote-bg: contrast(@bg, lighten(@bg, 8%), darken(@bg, 6%));
+  @margin: 16px;
+
+  body {
+    font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
+    // font-size: 1.2em;
+    font-size: 16px;
+    line-height: 1.6;
+    color: @fg;
+    background-color: @bg;
+    overflow: initial;
+    box-sizing: border-box;
+    word-wrap: break-word;
+
+    &> :first-child {
+      margin-top: 0;
+    }
+
+    // Headings --------------------
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      line-height: 1.2;
+      margin-top: 1em;
+      margin-bottom: @margin;
+      color: @fg-strong;
+    }
+
+    h1 {
+      font-size: 2.25em;
+      font-weight: 300;
+      padding-bottom: 0.3em;
+    }
+
+    h2 {
+      font-size: 1.75em;
+      font-weight: 400;
+      padding-bottom: 0.3em;
+    }
+
+    h3 {
+      font-size: 1.5em;
+      font-weight: 500;
+    }
+
+    h4 {
+      font-size: 1.25em;
+      font-weight: 600;
+    }
+
+    h5 {
+      font-size: 1.1em;
+      font-weight: 600;
+    }
+
+    h6 {
+      font-size: 1.0em;
+      font-weight: 600;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5 {
+      font-weight: 600;
+    }
+
+    h5 {
+      font-size: 1em;
+    }
+
+    h6 {
+      color: @fg-subtle;
+    }
+
+    /*
+    h1, h2 {
+      border-bottom: 1px solid @border;
+    }
+    */
+
+    // Emphasis --------------------
+
+    strong {
+      color: @fg-strong;
+    }
+
+    del {
+      color: @fg-subtle;
+    }
+
+
+    // Link --------------------
+    a:not([href]) {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    a {
+      // color: #08c;
+      color: @urlColor;
+      text-decoration: none;
+    }
+
+    a:hover {
+      // color: #0050a3;
+      color: contrast(@urlColor, lighten(@urlColor, 8%), darken(@urlColor, 6%));
+      text-decoration: none;
+    }
+
+
+    // Images --------------------
+    img {
+      max-width: 100%;
+    }
+
+
+    // Paragraph --------------------
+
+    &>p {
+      margin-top: 0;
+      margin-bottom: @margin;
+      word-wrap: break-word;
+    }
+
+    // List --------------------
+
+    &>ul,
+    &>ol {
+      margin-bottom: @margin;
+    }
+
+    ul,
+    ol {
+      padding-left: 2em;
+
+      &.no-list {
+        padding: 0;
+        list-style-type: none;
+      }
+    }
+
+    ul ul,
+    ul ol,
+    ol ol,
+    ol ul {
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+
+    li {
+      margin-bottom: 0;
+
+      &.task-list-item {
+        list-style: none;
+      }
+    }
+
+
+    li>p {
+      // margin-top: @margin;
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+
+    .task-list-item-checkbox {
+      margin: 0 0.2em 0.25em -1.8em;
+      vertical-align: middle;
+
+      &:hover {
+        cursor: pointer;
+      }
+    }
+
+
+    // Blockquotes --------------------
+
+    blockquote {
+      margin: @margin 0;
+      font-size: inherit;
+      padding: 0 15px;
+      color: @fg-subtle;
+      background-color: @blockquote-bg;
+      border-left: 4px solid @border;
+
+      > :first-child {
+        margin-top: 0;
+      }
+
+      > :last-child {
+        margin-bottom: 0;
+      }
+    }
+
+    // HR --------------------
+    hr {
+      height: 4px;
+      margin: @margin*2 0;
+      background-color: @border;
+      border: 0 none;
+    }
+
+    // Table --------------------
+    table {
+      margin: 10px 0 15px 0;
+      border-collapse: collapse;
+      border-spacing: 0;
+
+      display: block;
+      width: 100%;
+      overflow: auto;
+      word-break: normal;
+      word-break: keep-all;
+
+      th {
+        font-weight: bold;
+        color: @fg-strong;
+      }
+
+      td,
+      th {
+        border: 1px solid @border;
+        padding: 6px 13px;
+      }
+    }
+
+    // Definition List
+    dl {
+      padding: 0;
+
+      dt {
+        padding: 0;
+        margin-top: 16px;
+        font-size: 1em;
+        font-style: italic;
+        font-weight: bold;
+      }
+
+      dd {
+        padding: 0 16px;
+        margin-bottom: 16px;
+      }
+    }
+
+    // Code --------------------
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+      font-size: 0.85em !important;
+      color: @fg-strong;
+      background-color: contrast(@bg, lighten(@bg, 8%), darken(@bg, 6%));
+      border-radius: 3px;
+      padding: 0.2em 0;
+
+      &::before,
+      &::after {
+        letter-spacing: -0.2em;
+        content: "\00a0";
+      }
+    }
+
+    // YIYI add this
+    // Code tags within code blocks (<pre>s)
+    pre>code {
+      padding: 0;
+      margin: 0;
+      font-size: 0.85em !important;
+      word-break: normal;
+      white-space: pre;
+      background: transparent;
+      border: 0;
+    }
+
+    .highlight {
+      margin-bottom: @margin;
+    }
+
+    .highlight pre,
+    pre {
+      // font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+      padding: 1em;
+      overflow: auto;
+      font-size: 0.85em !important;
+      line-height: 1.45;
+
+      // color: @fg;
+      // background-color: contrast(@bg, lighten(@bg, 4%), darken(@bg, 6%)) !important;
+
+      border: @border;
+      border-radius: 3px;
+    }
+
+    .highlight pre {
+      margin-bottom: 0;
+      word-break: normal;
+    }
+
+    /*
+    pre {
+      word-wrap: break-word;
+      white-space: normal;
+      word-break: break-all;
+
+      .section {
+        opacity: 1;
+      }
+    }
+    */
+
+    pre code,
+    pre tt {
+      display: inline;
+      max-width: initial;
+      padding: 0;
+      margin: 0;
+      overflow: initial;
+      line-height: inherit;
+      word-wrap: normal;
+      background-color: transparent;
+      border: 0;
+
+      &:before,
+      &:after {
+        content: normal;
+      }
+    }
+
+    p,
+    blockquote,
+    ul,
+    ol,
+    dl,
+    pre {
+      margin-top: 0;
+      margin-bottom: @margin;
+      // word-wrap: break-word;
+    }
+
+    // KBD --------------------
+    kbd {
+      color: @fg-strong;
+      border: 1px solid @border;
+      border-bottom: 2px solid darken(@border, 6%);
+      padding: 2px 4px;
+      background-color: contrast(@bg, lighten(@bg, 8%), darken(@bg, 6%));
+      border-radius: 3px;
+      // box-shadow: inset 0 -1px 0 #bbb;
+    }
+
+    // very nice tutorial & intro
+    // https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/
+    @media print {
+      background-color: @bg;
+
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        color: @fg-strong;
+        page-break-after: avoid;
+      }
+
+      blockquote {
+        color: @fg-subtle;
+      }
+
+      /*table,*/
+      pre {
+        page-break-inside: avoid;
+      }
+
+      table {
+        display: table;
+      }
+
+      img {
+        display: block;
+        max-width: 100%;
+        max-height: 100%;
+      }
+
+      pre,
+      code {
+        word-wrap: break-word;
+        white-space: pre;
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+	"extension.description": "使用 'isort' 匯入 python 檔案的組織支援。",
+	"command.restartServer": "重新啟動伺服器",
+	"settings.logLevel.description": "延伸模組記錄的追蹤層級，預設為 'error'。",
+	"settings.logLevel.debug.description": "包含用於偵錯的詳細資訊記錄。",
+	"settings.logLevel.error.description": "只有錯誤和一律記錄的資訊。",
+	"settings.logLevel.info.description": "包含所有未標示為詳細資訊或偵錯的訊息。",
+	"settings.logLevel.off.description": "大部分的記錄已關閉，任何一律記錄的資訊可能仍會顯示。",
+	"settings.logLevel.warn.description": "包含錯誤類別中的所有訊息和任何其他警告。",
+	"settings.args.description": "已傳入的引數。每個引數都是陣列中的個別字串。",
+	"settings.check.description": "控制是否要執行 'isort' 並回報匯入排序問題。",
+	"settings.severity.description": "從 'isort' 訊息類型的嚴重性對應到問題視窗中顯示的嚴重性。",
+	"settings.path.description": "當設定為 'isort' 二進位路徑時，延伸模組會將它用於 Lint 分析。注意: 使用此選項可能會讓 Lint 分析變慢。",
+	"settings.importStrategy.description": "定義 'isort' 的匯入來源。如果已設定 'isort.path'，則可以略過此設定。",
+	"settings.importStrategy.useBundled.description": "一律使用搭售版本的 'isort'。",
+	"settings.importStrategy.fromEnvironment.description": "使用環境中的 'isort'，只有在環境中無法使用 'isort' 時，才將它遞補為配套版本。",
+	"settings.interpreter.description": "當設定為 python 可執行檔的路徑時，延伸模組會使用該路徑來啟動伺服器及任何子流程。",
+	"settings.showNotifications.description": "控制此擴充功能何時顯示通知。",
+	"settings.showNotifications.off.description": "已關閉所有通知，記錄中仍可使用任何錯誤或警告。",
+	"settings.showNotifications.onError.description": "通知只會在發生錯誤時顯示。",
+	"settings.showNotifications.onWarning.description": "顯示錯誤和警告的通知。",
+	"settings.showNotifications.always.description": "伺服器選擇顯示的任何內容會顯示通知。"
+}

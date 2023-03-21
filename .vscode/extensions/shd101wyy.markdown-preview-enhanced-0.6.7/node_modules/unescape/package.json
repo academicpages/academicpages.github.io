@@ -1,0 +1,67 @@
+{
+  "name": "unescape",
+  "description": "Convert HTML entities to HTML characters, e.g. `&gt;` converts to `>`.",
+  "version": "1.0.1",
+  "homepage": "https://github.com/jonschlinkert/unescape",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "jonschlinkert/unescape",
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/unescape/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "gulp-format-md": "^0.1.11",
+    "mocha": "^3.2.0"
+  },
+  "keywords": [
+    "char",
+    "character",
+    "characters",
+    "entities",
+    "entity",
+    "escape",
+    "html",
+    "string",
+    "un-escape",
+    "unescape",
+    "xml"
+  ],
+  "verb": {
+    "toc": false,
+    "layout": "default",
+    "tasks": [
+      "readme"
+    ],
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "lint": {
+      "reflinks": true
+    },
+    "related": {
+      "list": [
+        "html-elements",
+        "html-tag",
+        "html-toc",
+        "is-self-closing"
+      ]
+    },
+    "reflinks": [
+      "ent",
+      "html-entities"
+    ]
+  },
+  "dependencies": {
+    "extend-shallow": "^2.0.1"
+  }
+}

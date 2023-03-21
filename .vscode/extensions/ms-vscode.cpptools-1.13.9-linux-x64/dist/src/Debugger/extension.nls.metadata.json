@@ -1,0 +1,29 @@
+{
+	"messages": [
+		"Add debug configuration is not available for single file.",
+		"Cannot modify SSH configuration file because of parse failure \"{0}\".",
+		"No valid SSH configuration file found.",
+		"Enter SSH Target Name",
+		"Example: `mySSHTarget`",
+		"Enter SSH Connection Command",
+		"Example: `ssh hello@microsoft.com -A`",
+		"Select an SSH configuration file",
+		"Yes",
+		"No",
+		"Are you sure you want to permanamtly delete \"{0}\"?"
+	],
+	"keys": [
+		"add.debug.configuration.not.available.for.single.file",
+		"cannot.modify.config.file",
+		"no.valid.ssh.config.file",
+		"enter.ssh.target.name",
+		"ssh.target.name.place.holder",
+		"enter.ssh.connection.command",
+		"ssh.connection.command.place.holder",
+		"select.ssh.config.file",
+		"yes",
+		"no",
+		"ssh.target.delete.confirmation"
+	],
+	"filePath": "src\\Debugger\\extension"
+}

@@ -1,0 +1,23 @@
+{
+	"extension.description": "Organisationssupport für Python-Dateien mithilfe von „isort“ importieren.",
+	"command.restartServer": "Server neu starten",
+	"settings.logLevel.description": "Die Ablaufverfolgungsebene, auf der die Erweiterung protokolliert wird, wird standardmäßig auf \"Error\" festgelegt.",
+	"settings.logLevel.debug.description": "Enthält ausführliche Protokollierung, die für Debugzwecke vorgesehen ist.",
+	"settings.logLevel.error.description": "Nur Fehler und immer protokollierte Informationen.",
+	"settings.logLevel.info.description": "Schließt alle Nachrichten ein, die nicht als „ausführlich“ oder „debuggen“ gekennzeichnet sind.",
+	"settings.logLevel.off.description": "Die meisten Protokollierungen sind deaktiviert. Alle Informationen, die immer protokolliert werden, werden möglicherweise weiterhin angezeigt.",
+	"settings.logLevel.warn.description": "Schließt alle Meldungen in der Fehlerkategorie und alle zusätzlichen Warnungen ein.",
+	"settings.args.description": "Übergebene Argumente. Jedes Argument ist eine separate Zeichenfolge im Array.",
+	"settings.check.description": "Steuert, ob `isort` ausgeführt und Importsortierungsprobleme gemeldet werden.",
+	"settings.severity.description": "Zuordnung vom Schweregrad des Nachrichtentyps „isort“ zum im Problemfenster angezeigten Schweregrad.",
+	"settings.path.description": "Wenn die Erweiterung auf einen Pfad zur Binärdatei „isort“ festgelegt ist, wird diese zum Linten verwendet. HINWEIS: Die Verwendung dieser Option kann das Linten verlangsamen.",
+	"settings.importStrategy.description": "Definiert, woher „isort“ importiert wird. Diese Einstellung kann ignoriert werden, wenn „isort.path“ festgelegt ist.",
+	"settings.importStrategy.useBundled.description": "Verwenden Sie immer die gebündelte Version von „isort“.",
+	"settings.importStrategy.fromEnvironment.description": "Verwenden Sie „isort“ aus der Umgebung, und verwenden Sie nur dann ein Fallback auf eine gebündelte Version, wenn „isort“ in der Umgebung nicht verfügbar ist.",
+	"settings.interpreter.description": "Wenn dies auf einen Pfad zu einer ausführbaren Python-Datei gesetzt ist, wird die Erweiterung diese zum Starten des Servers und aller Unterprozesse verwenden.",
+	"settings.showNotifications.description": "Steuert, wann Benachrichtigungen von dieser Erweiterung angezeigt werden.",
+	"settings.showNotifications.off.description": "Alle Benachrichtigungen sind deaktiviert, alle Fehler oder Warnungen sind weiterhin in den Protokollen verfügbar.",
+	"settings.showNotifications.onError.description": "Benachrichtigungen werden nur im Falle eines Fehlers angezeigt.",
+	"settings.showNotifications.onWarning.description": "Benachrichtigungen werden für Fehler und Warnungen angezeigt.",
+	"settings.showNotifications.always.description": "Benachrichtigungen werden für alles angezeigt, was der Server anzeigen will."
+}

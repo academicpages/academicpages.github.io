@@ -1,0 +1,17 @@
+{
+	"messages": [
+		"Refresh process list",
+		"Attach to process",
+		"Select the process to attach to",
+		"Process not selected.",
+		"Process not selected."
+	],
+	"keys": [
+		"refresh.process.list.tooltip",
+		"attach.to.process",
+		"select.process.attach",
+		"process.not.selected",
+		"process.not.selected"
+	],
+	"filePath": "src\\Debugger\\attachQuickPick"
+}

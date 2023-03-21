@@ -1,0 +1,42 @@
+{
+  "license": "MIT",
+  "name": "twemoji-parser",
+  "version": "13.1.0",
+  "description": "Parser for identifying Twemoji in text",
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "babel src --out-dir dist --ignore test.js",
+    "ci": "yarnpkg lint && yarnpkg flow:ci && yarnpkg test",
+    "cleanup": "rm -rf ./dist",
+    "flow": "flow",
+    "flow:ci": "flow check",
+    "lint": "eslint . --ext=js,snap",
+    "prebuild": "yarnpkg cleanup",
+    "prepublishOnly": "yarnpkg lint && yarnpkg flow && yarnpkg test && yarnpkg build",
+    "test": "jest",
+    "test:ci": "yarnpkg test --maxWorkers=4 --ci",
+    "test:watch": "yarnpkg test --watch"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^8.2.3",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-flow": "^6.23.0",
+    "babel-runtime": "^6.26.0",
+    "eslint": "^4.19.1",
+    "eslint-config-prettier": "^3.0.1",
+    "eslint-plugin-flowtype": "^2.43.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jest": "^21.12.2",
+    "eslint-plugin-prettier": "^2.6.2",
+    "eslint-plugin-promise": "^3.8.0",
+    "flow-bin": "^0.71.0",
+    "flow-typed": "^2.4.0",
+    "jest": "^22.4.3",
+    "prettier": "^1.12.1"
+  }
+}

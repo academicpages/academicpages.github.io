@@ -1,0 +1,15 @@
+{
+  "defaults": [
+    "--pack_alignment",
+    "8",
+    "-Dunix=1",
+    "-D__unix__=1",
+    "-D__linux__=1",
+    "-D__i386=1",
+    "-D__i386__=1",
+    "-D__PTRDIFF_TYPE__=int",
+    "-D__SIZE_TYPE__=unsigned int",
+    "-D__WCHAR_TYPE__=long int"
+  ],
+  "defaults_op" :  "merge"
+}

@@ -1,0 +1,6 @@
+version = "4.11.*"
+requires = ["types-html5lib"]
+
+[tool.stubtest]
+ignore_missing_stub = true
+extras = ["html5lib", "lxml"]

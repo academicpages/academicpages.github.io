@@ -1,0 +1,9 @@
+{
+	"messages": [
+		"Duplicate multiline comment patterns detected."
+	],
+	"keys": [
+		"duplicate.multiline.patterns"
+	],
+	"filePath": "src\\LanguageServer\\languageConfig"
+}

@@ -1,0 +1,111 @@
+{
+	"type": "object",
+	"description": "Opzioni per le varianti",
+	"additionalProperties": false,
+	"minProperties": 1,
+	"patternProperties": {
+		"base\\$": {
+			"type": "object",
+			"description": "Mixin di base per tutte le varianti (non implementato per CMake Tools)",
+			"additionalProperties": true
+		},
+		"^\\w+$": {
+			"type": "object",
+			"properties": {
+				"description": {
+					"description": "Descrizione di questa opzione",
+					"type": "string"
+				},
+				"default": {
+					"description": "Impostazione predefinita per questa opzione",
+					"type": "string"
+				},
+				"choices": {
+					"type": "object",
+					"description": "Valore possibile dell'opzione",
+					"minProperties": 1,
+					"patternProperties": {
+						"^\\w+$": {
+							"type": "object",
+							"required": [
+								"short"
+							],
+							"properties": {
+								"short": {
+									"type": "string",
+									"description": "Descrizione semplice di questo valore (singola parola)"
+								},
+								"long": {
+									"type": "string",
+									"description": "Descrizione più lunga dello scopo di questo valore"
+								},
+								"buildType": {
+									"type": "string",
+									"default": "Debug",
+									"description": "Valore di CMAKE_BUILD_TYPE per questa variante"
+								},
+								"linkage": {
+									"type": "string",
+									"enum": [
+										"static",
+										"shared"
+									],
+									"default": "static",
+									"description": "Imposta il valore di BUILD_SHARED dalla riga di comando di CMake"
+								},
+								"env": {
+									"type": "object",
+									"description": "Variabili di ambiente da impostare durante la configurazione di CMake",
+									"additionalProperties": false,
+									"patternProperties": {
+										"^\\w+$": {
+											"type": "string",
+											"description": "Valore della variabile di ambiente"
+										}
+									}
+								},
+								"settings": {
+									"type": "object",
+									"description": "Argomenti -D da passare a CMake per questa variante",
+									"minProperties": 1,
+									"additionalProperties": {
+										"anyOf": [
+											{
+												"type": "string"
+											},
+											{
+												"type": "array",
+												"items": {
+													"type": "string"
+												}
+											},
+											{
+												"type": "integer"
+											},
+											{
+												"type": "boolean"
+											}
+										]
+									}
+								},
+								"generator": {
+									"type": "string",
+									"description": "Generatore CMake da usare per questa variante",
+									"default": "Ninja"
+								},
+								"toolset": {
+									"type": "string",
+									"description": "Set di strumenti del generatore da usare per questa variante"
+								}
+							}
+						}
+					}
+				}
+			},
+			"required": [
+				"default",
+				"choices"
+			]
+		}
+	}
+}

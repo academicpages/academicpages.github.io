@@ -1,0 +1,1356 @@
+{
+	"type": "object",
+	"description": "Les options prédéfinies spécifient le générateur et le répertoire de build, et éventuellement une liste de variables et d'autres arguments à passer à CMake.",
+	"required": [
+		"version"
+	],
+	"properties": {
+		"version": {
+			"type": "integer",
+			"description": "Entier obligatoire représentant la version du schéma JSON."
+		},
+		"cmakeMinimumRequired": {
+			"type": "object",
+			"description": "Objet facultatif représentant la version minimale de CMake nécessaire pour générer ce projet.",
+			"properties": {
+				"major": {
+					"type": "integer",
+					"description": "Entier facultatif représentant la version principale."
+				},
+				"minor": {
+					"type": "integer",
+					"description": "Entier facultatif représentant la version mineure."
+				},
+				"patch": {
+					"type": "integer",
+					"description": "Entier facultatif représentant la version du patch."
+				}
+			},
+			"additionalProperties": false
+		},
+		"configurePresets": {
+			"type": "array",
+			"description": "Tableau facultatif d'objets correspondant à des options prédéfinies de configuration.",
+			"items": {
+				"type": "object",
+				"description": "Objet correspondant à une option prédéfinie de configuration.",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Chaîne obligatoire représentant le nom convivial de l'option prédéfinie. Cet identificateur est utilisé dans l'argument --preset. Il ne doit pas y avoir deux options prédéfinies dans l'union de CMakePresets.json et CMakeUserPresets.json au sein du même répertoire et qui portent le même nom.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Booléen facultatif indiquant si une option prédéfinie doit être masquée ou non. Si une option prédéfinie est masquée, elle ne peut pas être utilisée dans l'argument --preset=, elle n'apparaît pas dans le GUI de CMake et n'a pas besoin d'avoir un generator ou un binaryDir valide, même par héritage. Les options prédéfinies ayant une valeur hidden servent de base pour permettre l'héritage d'autres options prédéfinies via le champ inherits."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Chaîne facultative représentant le nom de l'option prédéfinie à hériter.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Tableau facultatif de chaînes représentant les noms des options prédéfinies à hériter. L'option prédéfinie hérite de tous les champs des options prédéfinies du champ inherits par défaut (à l'exception de name, hidden, inherits, description et displayName), mais elle peut les remplacer, le cas échéant. Si plusieurs options prédéfinies de inherits fournissent des valeurs en conflit pour le même champ, l'option prédéfinie précédente dans la liste de inherits est préférée. Les options prédéfinies de CMakePresets.json ne peuvent pas hériter des options prédéfinies de CMakeUserPresets.json.",
+								"items": {
+									"type": "string",
+									"description": "Chaîne facultative représentant le nom de l'option prédéfinie à hériter.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Mappage facultatif contenant des informations spécifiques au fournisseur. CMake n'interprète pas le contenu de ce champ sauf pour vérifier s'il s'agit d'un mappage, à condition qu'il existe. Toutefois, les clés doivent correspondre à un nom de domaine spécifique au fournisseur suivi d'un chemin /-separated. Ainsi, l'exemple d'IDE 1.0 peut utiliser example.com/ExampleIDE/1.0. La valeur de chaque champ peut correspondre à tout ce qui est souhaité par le fournisseur, bien qu'il s'agisse généralement d'un mappage.",
+						"properties": {
+							"microsoft.com/VisualStudioSettings/CMake/1.0": {
+								"type": "object",
+								"description": "Objet facultatif représentant l'objet fournisseur de paramètres Visual Studio",
+								"properties": {
+									"hostOS": {
+										"anyOf": [
+											{
+												"type": "string",
+												"description": "Chaîne facultative représentant le nom de hostOS. Les valeurs acceptées sont Windows, Linux et macOS.",
+												"enum": [
+													"Windows",
+													"Linux",
+													"macOS"
+												]
+											},
+											{
+												"type": "array",
+												"description": "Tableau des systèmes d'exploitation hôtes pris en charge. Cette clé est utilisée par Visual Studio et Visual Studio Code pour masquer les options prédéfinies qui ne s'appliquent pas au système cible actif ou à l'OS hôte. Les valeurs acceptées sont Windows, Linux et macOS.",
+												"items": {
+													"type": "string",
+													"description": "Chaîne facultative représentant le nom de hostOS. Les valeurs acceptées sont Windows, Linux et macOS.",
+													"enum": [
+														"Windows",
+														"Linux",
+														"macOS"
+													]
+												}
+											}
+										]
+									},
+									"intelliSenseMode": {
+										"type": "string",
+										"description": "Clé facultative qui indique le mode IntelliSense par défaut. Mode utilisé pour le calcul des informations IntelliSense dans Visual Studio et Visual Studio Code.",
+										"enum": [
+											"windows-msvc-x86",
+											"windows-msvc-x64",
+											"windows-msvc-arm",
+											"windows-msvc-arm64",
+											"android-clang-x86",
+											"android-clang-x64",
+											"android-clang-arm",
+											"android-clang-arm64",
+											"ios-clang-x86",
+											"ios-clang-x64",
+											"ios-clang-arm",
+											"ios-clang-arm64",
+											"windows-clang-x86",
+											"windows-clang-x64",
+											"windows-clang-arm",
+											"windows-clang-arm64",
+											"linux-gcc-x86",
+											"linux-gcc-x64",
+											"linux-gcc-arm"
+										]
+									},
+									"intelliSenseOptions": {
+										"type": "object",
+										"description": "Objet facultatif utilisé pour configurer les paramètres IntelliSense avancés.",
+										"properties": {
+											"useCompilerDefaults": {
+												"type": "boolean",
+												"default": true,
+												"description": "Spécifie si les chemins defines et include par défaut du compilateur doivent être utilisés pour IntelliSense. Doit avoir la valeur false uniquement si les compilateurs utilisés ne prennent pas en charge les arguments de style gcc."
+											},
+											"additionalCompilerArgs": {
+												"anyOf": [
+													{
+														"type": "string",
+														"default": "empty"
+													},
+													{
+														"type": "array",
+														"description": "Tableau d'options supplémentaires permettant de contrôler IntelliSense dans Visual Studio.",
+														"items": {
+															"type": "string"
+														}
+													}
+												]
+											}
+										}
+									},
+									"enableMicrosoftCodeAnalysis": {
+										"type": "boolean",
+										"description": "Activez Microsoft Code Analysis dans Visual Studio quand vous effectuez une génération avec cl ou clang-cl."
+									},
+									"codeAnalysisRuleset": {
+										"type": "string",
+										"description": "Ruleset à utiliser durant l'exécution de Microsoft Code Analysis dans Visual Studio. Il peut s'agir du chemin d'un fichier ruleset, ou du nom d'un fichier ruleset installé avec Visual Studio."
+									},
+									"enableClangTidyCodeAnalysis": {
+										"type": "boolean",
+										"description": "Activez l'analyse du code clang-tidy dans Visual Studio quand vous effectuez une génération avec clang-cl."
+									},
+									"clangTidyChecks": {
+										"type": "string",
+										"description": "Liste d'éléments séparés par des virgules, qui correspondent aux avertissements passés à clang-tidy durant l'exécution d'une analyse de code clang-tidy dans Visual Studio. Les caractères génériques sont autorisés, et le préfixe '-' supprime les vérifications."
+									},
+									"cacheRoot": {
+										"type": "string",
+										"description": "Chemin d'un cache CMake. Ce répertoire doit contenir un fichier CMakeCache.txt existant. Cette clé est uniquement prise en charge par le scénario d'ouverture du cache existant dans Visual Studio."
+									},
+									"cmakeGenerateCommand": {
+										"type": "string",
+										"description": "Outil en ligne de commande (spécifié sous la forme d'un programme en ligne de commande avec des arguments, par exemple \"gencache.bat debug\") pour générer le cache CMake. Cette commande s'exécute à partir de l'interpréteur de commandes dans l'environnement spécifié de l'option prédéfinie quand la génération du cache est appelée. Cette clé est uniquement prise en charge par le scénario d'ouverture du cache existant dans Visual Studio."
+									}
+								}
+							},
+							"microsoft.com/VisualStudioRemoteSettings/CMake/1.0": {
+								"type": "object",
+								"description": "Objet facultatif représentant l'objet fournisseur de paramètres distants Visual Studio",
+								"properties": {
+									"sourceDir": {
+										"type": "string",
+										"default": "$env{HOME}/.vs/${sourceDirName}",
+										"description": "Chemin du répertoire sur le système distant ou chemin d'installation de WSL2 où le projet doit être copié."
+									},
+									"copySources": {
+										"type": "boolean",
+										"default": "true",
+										"description": "Si la valeur est true, Visual Studio copie les fichiers sources vers le système distant. Pour gérer la synchronisation des fichiers vous-même, affectez la valeur false."
+									},
+									"copySourcesOptions": {
+										"type": "object",
+										"description": "Objet des paramètres liés à la copie des fichiers sources de Windows vers le système distant.",
+										"properties": {
+											"exclusionList": {
+												"type": "array",
+												"default": "[ \".vs\", \".git\", \"out\"]",
+												"description": "Liste de chemins à exclure durant la copie des fichiers sources vers le système distant. Un chemin peut correspondre au nom d'un fichier ou d'un répertoire, ou être relatif à la racine de la copie.",
+												"items": {
+													"type": "string"
+												}
+											},
+											"method": {
+												"type": "string",
+												"default": "rsync",
+												"description": "Méthode utilisée pour copier les fichiers sources sur le système distant. Les valeurs acceptées sont rsync et sftp."
+											},
+											"concurrentCopies": {
+												"type": "integer",
+												"default": 5,
+												"description": "Nombre de copies simultanées utilisées durant la synchronisation des sources par rapport au système distant."
+											},
+											"outputVerbosity": {
+												"type": "string",
+												"default": "Normal",
+												"description": "Niveau de verbosité des opérations de copie des fichiers sources vers le système distant. Les niveaux acceptés sont Normal, Verbose et Diagnostic.",
+												"enum": [
+													"Normal",
+													"Verbose",
+													"Diagnostic"
+												]
+											}
+										}
+									},
+									"rsyncCommandArgs": {
+										"type": "array",
+										"default": "[\"-t\", \"--delete\", \"--delete-excluded\"]",
+										"description": "Liste d'arguments de ligne de commande supplémentaires passés à rsync.",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyBuildOutput": {
+										"type": "boolean",
+										"default": false,
+										"description": "Spécifie si la sortie de build du système distant doit être copiée à nouveau vers Windows."
+									},
+									"copyOptimizations": {
+										"type": "object",
+										"description": "Objet des paramètres liés aux optimisations de copie des fichiers sources.",
+										"properties": {
+											"maxSmallChange": {
+												"type": "integer",
+												"default": 10,
+												"description": "Nombre maximal de fichiers à copier en utilisant SFTP à la place de rsync."
+											},
+											"useOptimizations": {
+												"type": "string",
+												"default": "RsyncAndSftp",
+												"description": "Sélectionnez les optimisations sans copie (\"None\"), les optimisations via rsync uniquement (\"RsyncOnly\") ou les optimisations via rsync et sftp (\"RsyncAndSftp\").",
+												"enum": [
+													"None",
+													"RsyncOnly",
+													"RsyncAndSftp"
+												]
+											},
+											"rsyncSingleDirectoryCommandArgs": {
+												"type": "array",
+												"default": "[\"-t\", \"-d\"]",
+												"description": "Liste d'arguments de ligne de commande supplémentaires passés à rsync au moment de la copie du contenu d'un seul répertoire sur le système distant.",
+												"items": {
+													"type": "string"
+												}
+											}
+										}
+									},
+									"copyAdditionalIncludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "Liste de chemins des répertoires d'en-tête distants à copier localement pour IntelliSense.",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyExcludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "Liste de chemins des répertoires d'en-tête distants à ne pas copier localement pour IntelliSense.",
+										"items": {
+											"type": "string"
+										}
+									},
+									"forceWSL1Toolset": {
+										"type": "boolean",
+										"default": false,
+										"description": "Si la valeur est true, Visual Studio utilise toujours l'ensemble d'outils WSL1 pour le ciblage de WSL à partir de Visual Studio. L'ensemble d'outils WSL1 exécute toutes les commandes localement et s'appuie sur les lecteurs Windows montés dans le dossier /mnt pour accéder aux fichiers sources locaux à partir de WSL. Ces opérations peuvent être plus lentes avec WSL2."
+									}
+								}
+							}
+						}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Chaîne facultative avec un nom convivial pour l'option prédéfinie."
+					},
+					"description": {
+						"type": "string",
+						"description": "Chaîne facultative avec une description conviviale de l'option prédéfinie."
+					},
+					"generator": {
+						"type": "string",
+						"description": "Chaîne facultative représentant le générateur à utiliser pour l'option prédéfinie. Si generator n'est pas spécifié, il doit être hérité de l'option prédéfinie du champ inherits (à moins que cette option prédéfinie n'ait la valeur hidden). Notez que pour les générateurs Visual Studio, contrairement à l'argument de ligne de commande -G, vous ne pouvez pas ajouter le nom de la plateforme au nom du générateur. Utilisez le champ architecture à la place."
+					},
+					"architecture": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Chaîne facultative représentant la plateforme pour les générateurs qui en acceptent la prise en charge."
+							},
+							{
+								"type": "object",
+								"description": "Objet facultatif représentant la plateforme pour les générateurs qui en acceptent la prise en charge.",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "Chaîne facultative représentant la valeur."
+									},
+									"strategy": {
+										"type": "string",
+										"description": "Chaîne facultative indiquant à CMake comment prendre en charge le champ. Valeurs valides : \"set\" pour définir la valeur respective. Une erreur se produit pour les générateurs qui ne prennent pas en charge le champ respectif. \"external\" Ne définit pas la valeur, même si le générateur en accepte la prise en charge. Cela est utile, par exemple, si une option prédéfinie utilise le générateur Ninja, et si un IDE sait comment configurer l'environnement Visual C++ à partir des champs architecture et toolset. Dans ce cas, CMake ignore les champs, mais l'IDE peut les utiliser pour configurer l'environnement avant d'appeler CMake.",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"toolset": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Chaîne facultative représentant l'ensemble d'outils pour les générateurs qui en acceptent la prise en charge."
+							},
+							{
+								"type": "object",
+								"description": "Objet facultatif représentant l'ensemble d'outils pour les générateurs qui en acceptent la prise en charge.",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "Chaîne facultative représentant la valeur."
+									},
+									"strategy": {
+										"type": "string",
+										"description": "Chaîne facultative indiquant à CMake comment prendre en charge le champ. Valeurs valides : \"set\" pour définir la valeur respective. Une erreur se produit pour les générateurs qui ne prennent pas en charge le champ respectif. \"external\" Ne définit pas la valeur, même si le générateur en accepte la prise en charge. Cela est utile, par exemple, si une option prédéfinie utilise le générateur Ninja, et si un IDE sait comment configurer l'environnement Visual C++ à partir des champs architecture et toolset. Dans ce cas, CMake ignore les champs, mais l'IDE peut les utiliser pour configurer l'environnement avant d'appeler CMake.",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"binaryDir": {
+						"type": "string",
+						"description": "Chaîne facultative représentant le chemin du répertoire des fichiers binaires de sortie. Ce champ prend en charge l'expansion de macro. Si un chemin relatif est spécifié, il est calculé par rapport au répertoire source. Si binaryDir n'est pas spécifié, il doit être hérité de l'option prédéfinie du champ inherits (à moins que cette option prédéfinie n'ait la valeur hidden)."
+					},
+					"cmakeExecutable": {
+						"type": "string",
+						"description": "Chaîne facultative représentant le chemin de l'exécutable CMake à utiliser pour cette option prédéfinie. Ceci est réservé aux IDE et n'est pas utilisé par CMake. Les IDE qui utilisent ce champ doivent développer les macros qu'il contient."
+					},
+					"cacheVariables": {
+						"type": "object",
+						"description": "Mappage facultatif de variables de cache. La clé est le nom de la variable (qui ne doit pas être une chaîne vide). Les variables de cache sont héritées du champ inherits. Les variables de l'option prédéfinie correspondent à l'union de son propre cacheVariables et du cacheVariables de tous ses parents. Si plusieurs options prédéfinies dans cette union définissent la même variable, les règles standard de inherits s'appliquent.",
+						"properties": {
+							"CMAKE_C_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Compilateur à utiliser pour le C."
+									},
+									{
+										"type": "null",
+										"description": "L'affectation d'une valeur null à une variable entraîne sa non-définition, même si une valeur a été héritée d'une autre option prédéfinie."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_CXX_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Compilateur à utiliser pour le C++."
+									},
+									{
+										"type": "null",
+										"description": "L'affectation d'une valeur null à une variable entraîne sa non-définition, même si une valeur a été héritée d'une autre option prédéfinie."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_INSTALL_PREFIX": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Installer le répertoire utilisé par CMake. Utilisez la propriété « installDir » à la place lors de l’utilisation de préréglages version 3 ou ultérieure."
+									},
+									{
+										"type": "null",
+										"description": "L'affectation d'une valeur null à une variable entraîne sa non-définition, même si une valeur a été héritée d'une autre option prédéfinie."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_TOOLCHAIN_FILE": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Fichier de chaîne d’outils passé à CMake. Utilisez plutôt la propriété « toolchainFile » lors de l’utilisation de présélections version 3 ou ultérieure."
+									},
+									{
+										"type": "null",
+										"description": "L'affectation d'une valeur null à une variable entraîne sa non-définition, même si une valeur a été héritée d'une autre option prédéfinie."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_BUILD_TYPE": {
+								"description": "Spécifie le type de build pour les générateurs à configuration unique.",
+								"anyOf": [
+									{
+										"type": "string",
+										"enum": [
+											"Debug",
+											"Release",
+											"RelWithDebInfo",
+											"MinSizeRel"
+										]
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									},
+									{
+										"type": "string"
+									},
+									{
+										"type": "null",
+										"description": "L'affectation d'une valeur null à une variable entraîne sa non-définition, même si une valeur a été héritée d'une autre option prédéfinie."
+									}
+								]
+							}
+						},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "L'affectation d'une valeur null à une variable entraîne sa non-définition, même si une valeur a été héritée d'une autre option prédéfinie."
+								},
+								{
+									"type": "boolean",
+									"description": "Booléen représentant la valeur de la variable. Équivaut à \"TRUE\" ou \"FALSE\"."
+								},
+								{
+									"type": "string",
+									"description": "Chaîne représentant la valeur de la variable (qui prend en charge l'expansion de macro)."
+								},
+								{
+									"type": "object",
+									"description": "Objet représentant le type et la valeur de la variable.",
+									"properties": {
+										"type": {
+											"type": "string",
+											"description": "Chaîne facultative représentant le type la variable. Il doit s'agir de BOOL, FILEPATH, PATH, STRING ou INTERNAL."
+										},
+										"value": {
+											"anyOf": [
+												{
+													"type": "boolean",
+													"description": "Booléen obligatoire représentant la valeur de la variable. Équivaut à \"TRUE\" ou \"FALSE\"."
+												},
+												{
+													"type": "string",
+													"description": "Chaîne obligatoire représentant la valeur de la variable. Ce champ prend en charge l'expansion de macro."
+												}
+											]
+										}
+									},
+									"required": [
+										"value"
+									],
+									"additionalProperties": false
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"environment": {
+						"type": "object",
+						"description": "Mappage facultatif de variables d'environnement. La clé est le nom de la variable (qui ne doit pas être une chaîne vide). Chaque variable est définie indépendamment du fait qu'une valeur lui ait été affectée ou non par l'environnement du processus. Ce champ prend en charge l'expansion de macro. Les variables d'environnement de ce mappage peuvent se référencer mutuellement, et peuvent être listées dans n'importe quel ordre, du moment que ces références n'entraînent pas de cycle (par exemple, si ENV_1 a la valeur $env{ENV_2}, ENV_2 ne peut pas avoir la valeur $env{ENV_1}.) Les variables d'environnement sont héritées du champ inherits. L'environnement de l'option prédéfinie correspond à l'union de son propre environment et du environment de tous ses parents. Si plusieurs options prédéfinies dans cette union définissent la même variable, les règles standard de inherits s'appliquent. L'affectation d'une valeur null à une variable entraîne sa non-définition, même si une valeur a été héritée d'une autre option prédéfinie.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "L'affectation d'une valeur null à une variable entraîne sa non-définition, même si une valeur a été héritée d'une autre option prédéfinie."
+								},
+								{
+									"type": "string",
+									"description": "Chaîne représentant la valeur de la variable."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"warnings": {
+						"type": "object",
+						"description": "Objet facultatif spécifiant des avertissements.",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "Valeur booléenne facultative. Équivaut à passer -Wdev ou -Wno-dev sur la ligne de commande. Ceci peut ne pas avoir la valeur false si errors.dev a la valeur true."
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "Valeur booléenne facultative. Équivaut à passer -Wdeprecated ou -Wno-deprecated sur la ligne de commande. Ceci peut ne pas avoir la valeur false si errors.deprecated a la valeur true."
+							},
+							"uninitialized": {
+								"type": "boolean",
+								"description": "Valeur booléenne facultative. Si la valeur est true, équivaut à passer --warn-uninitialized sur la ligne de commande."
+							},
+							"unusedCli": {
+								"type": "boolean",
+								"description": "Valeur booléenne facultative. Si la valeur est false, équivaut à passer --no-warn-unused-cli sur la ligne de commande."
+							},
+							"systemVars": {
+								"type": "boolean",
+								"description": "Valeur booléenne facultative. Si la valeur est true, équivaut à passer --check-system-vars sur la ligne de commande."
+							}
+						},
+						"additionalProperties": false
+					},
+					"errors": {
+						"type": "object",
+						"description": "Objet facultatif spécifiant des erreurs.",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "Valeur booléenne facultative. Équivaut à passer -Werror=dev ou -Wno-error=dev sur la ligne de commande. Ceci ne peut pas avoir la valeur true si warnings.dev a la valeur false."
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "Valeur booléenne facultative. Équivaut à passer -Werror=deprecated ou -Wno-error=deprecated sur la ligne de commande. Ceci ne peut pas avoir la valeur true si warnings.deprecated a la valeur false."
+							}
+						},
+						"additionalProperties": false
+					},
+					"debug": {
+						"type": "object",
+						"description": "Objet facultatif spécifiant les options de débogage.",
+						"properties": {
+							"output": {
+								"type": "boolean",
+								"description": "Booléen facultatif. Si la valeur est true, équivaut à passer --debug-output sur la ligne de commande."
+							},
+							"tryCompile": {
+								"type": "boolean",
+								"description": "Booléen facultatif. Si la valeur est true, équivaut à passer --debug-trycompile sur la ligne de commande."
+							},
+							"find": {
+								"type": "boolean",
+								"description": "Booléen facultatif. Si la valeur est true, équivaut à passer --debug-find sur la ligne de commande."
+							}
+						},
+						"additionalProperties": false
+					},
+					"installDir": {
+						"type": "string",
+						"description": "Chaîne facultative représentant le chemin d’accès au répertoire d’installation. Ce champ prend en charge l’expansion des macros. Si un chemin d’accès relatif est spécifié, il est calculé par rapport au répertoire source. Pris en charge dans la version 3."
+					},
+					"toolchainFile": {
+						"type": "string",
+						"description": "Chaîne facultative représentant le chemin d’accès au fichier de chaîne d’outils. Ce champ prend en charge l’expansion des macros. Si un chemin d’accès relatif est spécifié, il est calculé par rapport au répertoire de build, et s’il est introuvable, par rapport au répertoire source. Pris en charge dans la version 3."
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"buildPresets": {
+			"type": "array",
+			"description": "Tableau facultatif d'objets correspondant à des options prédéfinies de build. Permet de spécifier les arguments de cmake --build. Disponible dans la version 2 et les versions ultérieures.",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Chaîne obligatoire représentant le nom convivial de l'option prédéfinie. Cet identificateur est utilisé dans l'argument --preset. Il ne doit pas y avoir deux options prédéfinies (de configuration, de build ou de test) dans l'union de CMakePresets.json et CMakeUserPresets.json au sein du même répertoire et qui portent le même nom.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Booléen facultatif indiquant si une option prédéfinie doit être masquée ou non. Si une option prédéfinie est masquée, elle ne peut pas être utilisée dans l'argument --preset, elle n'apparaît pas dans le GUI de CMake et n'a pas besoin d'avoir un configurePreset valide, même par héritage. Les options prédéfinies ayant une valeur hidden servent de base pour permettre l'héritage d'autres options prédéfinies via le champ inherits."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Chaîne facultative représentant le nom de l'option prédéfinie de build à hériter.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Tableau facultatif de chaînes représentant les noms des options prédéfinies de build à hériter. L'option prédéfinie hérite de tous les champs des options prédéfinies du champ inherits par défaut (à l'exception de name, hidden, inherits, description et displayName), mais elle peut les remplacer, le cas échéant. Si plusieurs options prédéfinies de inherits fournissent des valeurs en conflit pour le même champ, l'option prédéfinie précédente dans la liste de inherits est préférée. Les options prédéfinies de CMakePresets.json ne peuvent pas hériter des options prédéfinies de CMakeUserPresets.json.",
+								"items": {
+									"type": "string",
+									"description": "Chaîne facultative représentant le nom de l'option prédéfinie à hériter.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "Chaîne facultative spécifiant le nom d'une option prédéfinie de configuration à associer à cette option prédéfinie de build. Si configurePreset n'est pas spécifié, il doit être hérité de l'option prédéfinie du champ inherits (à moins que cette option prédéfinie n'ait la valeur hidden). Le répertoire d'arborescence de build est déduit à partir de l'option prédéfinie de configuration.",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Mappage facultatif contenant des informations spécifiques au fournisseur. CMake n'interprète pas le contenu de ce champ sauf pour vérifier s'il s'agit d'un mappage, à condition qu'il existe. Toutefois, il doit suivre les mêmes conventions que le champ vendor de niveau racine. Si les fournisseurs utilisent leur propre champ vendor par option prédéfinie, ils doivent implémenter l'héritage de manière appropriée.",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Chaîne facultative avec un nom convivial pour l'option prédéfinie."
+					},
+					"description": {
+						"type": "string",
+						"description": "Chaîne facultative avec une description conviviale de l'option prédéfinie."
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "Booléen facultatif dont la valeur par défaut est true. Si la valeur est true, les variables d'environnement de l'option prédéfinie de configuration associée sont héritées après toutes les variables d'environnement de l'option prédéfinie de build héritée, mais avant les variables d'environnement explicitement spécifiées dans cette option prédéfinie de build."
+					},
+					"environment": {
+						"type": "object",
+						"description": "Mappage facultatif de variables d'environnement. La clé est le nom de la variable (qui ne doit pas être une chaîne vide). Chaque variable est définie indépendamment du fait qu'une valeur lui ait été affectée ou non par l'environnement du processus. Ce champ prend en charge l'expansion de macro. Les variables d'environnement de ce mappage peuvent se référencer mutuellement, et peuvent être listées dans n'importe quel ordre, du moment que ces références n'entraînent pas de cycle (par exemple, si ENV_1 a la valeur $env{ENV_2}, ENV_2 ne peut pas avoir la valeur $env{ENV_1}.) Les variables d'environnement sont héritées du champ inherits. L'environnement de l'option prédéfinie correspond à l'union de son propre environment et du environment de tous ses parents. Si plusieurs options prédéfinies dans cette union définissent la même variable, les règles standard de inherits s'appliquent. L'affectation d'une valeur null à une variable entraîne sa non-définition, même si une valeur a été héritée d'une autre option prédéfinie.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "L'affectation d'une valeur null à une variable entraîne sa non-définition, même si une valeur a été héritée d'une autre option prédéfinie."
+								},
+								{
+									"type": "string",
+									"description": "Chaîne représentant la valeur de la variable."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"jobs": {
+						"type": "integer",
+						"description": "Entier facultatif. Équivaut à passer --parallel ou -j sur la ligne de commande."
+					},
+					"targets": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Chaîne facultative. Équivaut à passer --target ou -t sur la ligne de commande. Les fournisseurs peuvent ignorer les propriétés des cibles ou masquer les options prédéfinies de build qui spécifient explicitement des cibles."
+							},
+							{
+								"type": "array",
+								"description": "Tableau facultatif de chaînes. Équivaut à passer --target ou -t sur la ligne de commande. Les fournisseurs peuvent ignorer les propriétés des cibles ou masquer les options prédéfinies de build qui spécifient explicitement des cibles.",
+								"items": {
+									"type": "string",
+									"description": "Chaîne facultative. Équivaut à passer --target ou -t sur la ligne de commande. Les fournisseurs peuvent ignorer les propriétés des cibles ou masquer les options prédéfinies de build qui spécifient explicitement des cibles."
+								}
+							}
+						]
+					},
+					"configuration": {
+						"type": "string",
+						"description": "Chaîne facultative. Équivaut à passer -- config sur la ligne de commande."
+					},
+					"cleanFirst": {
+						"type": "boolean",
+						"description": "Booléen facultatif. Si la valeur est true, équivaut à passer --clean-first sur la ligne de commande."
+					},
+					"verbose": {
+						"type": "boolean",
+						"description": "Booléen facultatif. Si la valeur est true, équivaut à passer --verbose sur la ligne de commande."
+					},
+					"nativeToolOptions": {
+						"type": "array",
+						"description": "Tableau facultatif de chaînes. Équivaut à passer des options after -- sur la ligne de commande.",
+						"items": {
+							"type": "string",
+							"description": "Chaîne facultative représentant une option à passer après -- sur la ligne de commande."
+						}
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"testPresets": {
+			"type": "array",
+			"description": "Tableau facultatif d'objets correspondant à des options prédéfinies de test. Permet de spécifier les arguments de ctest. Disponible dans la version 2 et les versions ultérieures.",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Chaîne obligatoire représentant le nom convivial de l'option prédéfinie. Cet identificateur est utilisé dans l'argument --preset. Il ne doit pas y avoir deux options prédéfinies (de configuration, de build ou de test) dans l'union de CMakePresets.json et CMakeUserPresets.json au sein du même répertoire et qui portent le même nom.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Booléen facultatif indiquant si une option prédéfinie doit être masquée ou non. Si une option prédéfinie est masquée, elle ne peut pas être utilisée dans l'argument --preset, elle n'apparaît pas dans le GUI de CMake et n'a pas besoin d'avoir un configurePreset valide, même par héritage. Les options prédéfinies ayant une valeur hidden servent de base pour permettre l'héritage d'autres options prédéfinies via le champ inherits."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Chaîne facultative représentant le nom de l'option prédéfinie de test à hériter.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Tableau facultatif de chaînes représentant les noms des options prédéfinies de test à hériter. L'option prédéfinie hérite de tous les champs des options prédéfinies du champ inherits par défaut (à l'exception de name, hidden, inherits, description et displayName), mais elle peut les remplacer, le cas échéant. Si plusieurs options prédéfinies de inherits fournissent des valeurs en conflit pour le même champ, l'option prédéfinie précédente dans la liste de inherits est préférée. Les options prédéfinies de CMakePresets.json ne peuvent pas hériter des options prédéfinies de CMakeUserPresets.json.",
+								"items": {
+									"type": "string",
+									"description": "Chaîne facultative représentant le nom de l'option prédéfinie à hériter.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "Chaîne facultative spécifiant le nom d'une option prédéfinie de configuration à associer à cette option prédéfinie de test. Si configurePreset n'est pas spécifié, il doit être hérité de l'option prédéfinie du champ inherits (à moins que cette option prédéfinie n'ait la valeur hidden). Le répertoire d'arborescence de build est déduit à partir de l'option prédéfinie de configuration.",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Mappage facultatif contenant des informations spécifiques au fournisseur. CMake n'interprète pas le contenu de ce champ sauf pour vérifier s'il s'agit d'un mappage, à condition qu'il existe. Toutefois, il doit suivre les mêmes conventions que le champ vendor de niveau racine. Si les fournisseurs utilisent leur propre champ vendor par option prédéfinie, ils doivent implémenter l'héritage de manière appropriée.",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Chaîne facultative avec un nom convivial pour l'option prédéfinie."
+					},
+					"description": {
+						"type": "string",
+						"description": "Chaîne facultative avec une description conviviale de l'option prédéfinie."
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "Booléen facultatif dont la valeur par défaut est true. Si la valeur est true, les variables d'environnement de l'option prédéfinie de configuration associée sont héritées après toutes les variables d'environnement de l'option prédéfinie de test héritée, mais avant les variables d'environnement explicitement spécifiées dans cette option prédéfinie de test."
+					},
+					"environment": {
+						"type": "object",
+						"description": "Mappage facultatif de variables d'environnement. La clé est le nom de la variable (qui ne doit pas être une chaîne vide). Chaque variable est définie indépendamment du fait qu'une valeur lui ait été affectée ou non par l'environnement du processus. Ce champ prend en charge l'expansion de macro. Les variables d'environnement de ce mappage peuvent se référencer mutuellement, et peuvent être listées dans n'importe quel ordre, du moment que ces références n'entraînent pas de cycle (par exemple, si ENV_1 a la valeur $env{ENV_2}, ENV_2 ne peut pas avoir la valeur $env{ENV_1}.) Les variables d'environnement sont héritées du champ inherits. L'environnement de l'option prédéfinie correspond à l'union de son propre environment et du environment de tous ses parents. Si plusieurs options prédéfinies dans cette union définissent la même variable, les règles standard de inherits s'appliquent. L'affectation d'une valeur null à une variable entraîne sa non-définition, même si une valeur a été héritée d'une autre option prédéfinie.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "L'affectation d'une valeur null à une variable entraîne sa non-définition, même si une valeur a été héritée d'une autre option prédéfinie."
+								},
+								{
+									"type": "string",
+									"description": "Chaîne représentant la valeur de la variable."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"configuration": {
+						"type": "string",
+						"description": "Chaîne facultative. Équivaut à passer --build-config sur la ligne de commande."
+					},
+					"overwriteConfigurationFile": {
+						"type": "array",
+						"description": "Tableau facultatif d'options de configuration permettant de remplacer les options spécifiées dans le fichier config de CTest. Équivaut à passer --overwrite pour chaque valeur du tableau.",
+						"items": {
+							"type": "string",
+							"description": "Option écrite en tant que paire clé-valeur sous la forme \"clé=valeur\"."
+						}
+					},
+					"output": {
+						"type": "object",
+						"description": "Objet facultatif spécifiant les options de sortie.",
+						"properties": {
+							"shortProgress": {
+								"type": "boolean",
+								"description": "Booléen facultatif. Si la valeur est true, équivaut à passer --progress sur la ligne de commande."
+							},
+							"verbosity": {
+								"type": "string",
+								"description": "Chaîne facultative spécifiant le niveau de verbosité. Les valeurs valides sont \"default\" (équivaut à ne pas passer d'indicateur de verbosité sur la ligne de commande), \"verbose\" (équivaut à passer --verbose sur la ligne de commande) et \"extra\" (équivaut à passer --extra-verbose sur la ligne de commande).",
+								"enum": [
+									"default",
+									"verbose",
+									"extra"
+								]
+							},
+							"debug": {
+								"type": "boolean",
+								"description": "Booléen facultatif. Si la valeur est true, équivaut à passer --debug sur la ligne de commande."
+							},
+							"outputOnFailure": {
+								"type": "boolean",
+								"description": "Booléen facultatif. Si la valeur est true, équivaut à passer --output-on-failure sur la ligne de commande."
+							},
+							"quiet": {
+								"type": "boolean",
+								"description": "Booléen facultatif. Si la valeur est true, équivaut à passer --quiet sur la ligne de commande."
+							},
+							"outputLogFile": {
+								"type": "string",
+								"description": "Chaîne facultative spécifiant le chemin d'un fichier journal. Équivaut à passer --output-log sur la ligne de commande."
+							},
+							"labelSummary": {
+								"type": "boolean",
+								"description": "Booléen facultatif. Si la valeur est false, équivaut à passer --no-label-summary sur la ligne de commande."
+							},
+							"subprojectSummary": {
+								"type": "boolean",
+								"description": "Booléen facultatif. Si la valeur est false, équivaut à passer --no-subproject-summary sur la ligne de commande."
+							},
+							"maxPassedTestOutputSize": {
+								"type": "integer",
+								"description": "Entier facultatif spécifiant la sortie maximale en octets des tests réussis. Équivaut à passer --test-output-size-passed sur la ligne de commande."
+							},
+							"maxFailedTestOutputSize": {
+								"type": "integer",
+								"description": "Entier facultatif spécifiant la sortie maximale en octets des tests non réussis. Équivaut à passer --test-output-size-failed sur la ligne de commande."
+							},
+							"maxTestNameWidth": {
+								"type": "integer",
+								"description": "Entier facultatif spécifiant la largeur maximale d'un nom de test dans la sortie. Équivaut à passer --max-width sur la ligne de commande."
+							}
+						},
+						"additionalProperties": false
+					},
+					"filter": {
+						"type": "object",
+						"description": "Objet facultatif spécifiant la façon de filtrer les tests à exécuter.",
+						"properties": {
+							"include": {
+								"type": "object",
+								"description": "Objet facultatif spécifiant les tests à inclure.",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "Chaîne facultative spécifiant un regex pour les noms de tests. Équivaut à passer --tests-regex sur la ligne de commande."
+									},
+									"label": {
+										"type": "string",
+										"description": "Chaîne facultative spécifiant un regex pour les étiquettes de tests. Équivaut à passer --label-regex sur la ligne de commande."
+									},
+									"index": {
+										"anyOf": [
+											{
+												"type": "object",
+												"description": "Objet facultatif spécifiant les tests à inclure en fonction de l'index de test.",
+												"properties": {
+													"start": {
+														"type": "integer",
+														"description": "Entier facultatif spécifiant l'index de test auquel le test doit commencer."
+													},
+													"end": {
+														"type": "integer",
+														"description": "Entier facultatif spécifiant l'index de test auquel le test doit être arrêté."
+													},
+													"stride": {
+														"type": "integer",
+														"description": "Entier facultatif spécifiant l'incrément."
+													},
+													"specificTests": {
+														"type": "array",
+														"description": "Tableau facultatif d'entiers spécifiant les index de test spécifiques à exécuter.",
+														"items": {
+															"type": "integer",
+															"description": "Entier spécifiant le test à exécuter en fonction de l'index."
+														}
+													}
+												},
+												"additionalProperties": false
+											},
+											{
+												"type": "string",
+												"description": "Chaîne facultative spécifiant un fichier avec la syntaxe de ligne de commande pour --tests-information."
+											}
+										]
+									},
+									"useUnion": {
+										"type": "boolean",
+										"description": "Booléen facultatif. Équivaut à passer --union sur la ligne de commande."
+									}
+								},
+								"additionalProperties": false
+							},
+							"exclude": {
+								"type": "object",
+								"description": "Objet facultatif spécifiant les tests à exclure.",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "Chaîne facultative spécifiant un regex pour les noms de tests. Équivaut à passer --exclude-regex sur la ligne de commande."
+									},
+									"label": {
+										"type": "string",
+										"description": "Chaîne facultative spécifiant un regex pour les étiquettes de tests. Équivaut à passer --label-exclude sur la ligne de commande."
+									},
+									"fixtures": {
+										"type": "object",
+										"description": "Objet facultatif spécifiant les fixtures à exclure de l'ajout de tests.",
+										"properties": {
+											"any": {
+												"type": "string",
+												"description": "Chaîne facultative spécifiant un regex pour les fixtures à exclure de l'ajout de tests. Équivaut à --fixture-exclude-any sur la ligne de commande."
+											},
+											"setup": {
+												"type": "string",
+												"description": "Chaîne facultative spécifiant un regex pour les fixtures à exclure de l'ajout de tests de configuration. Équivaut à --fixture-exclude-setup sur la ligne de commande."
+											},
+											"cleanup": {
+												"type": "string",
+												"description": "Chaîne facultative spécifiant un regex pour les fixtures à exclure de l'ajout de tests de nettoyage. Équivaut à --fixture-exclude-cleanup sur la ligne de commande."
+											}
+										},
+										"additionalProperties": false
+									}
+								}
+							}
+						},
+						"additionalProperties": false
+					},
+					"execution": {
+						"type": "object",
+						"description": "Objet facultatif spécifiant les options d'exécution des tests.",
+						"properties": {
+							"stopOnFailure": {
+								"type": "boolean",
+								"description": "Booléen facultatif. Si la valeur est true, équivaut à passer --stop-on-failure sur la ligne de commande."
+							},
+							"enableFailover": {
+								"type": "boolean",
+								"description": "Booléen facultatif. Si la valeur est true, équivaut à passer -F sur la ligne de commande."
+							},
+							"jobs": {
+								"type": "integer",
+								"description": "Entier facultatif. Équivaut à passer --parallel sur la ligne de commande."
+							},
+							"resourceSpecFile": {
+								"type": "string",
+								"description": "Chaîne facultative. Équivaut à passer --resource-spec-file sur la ligne de commande."
+							},
+							"testLoad": {
+								"type": "integer",
+								"description": "Entier facultatif. Équivaut à passer --test-load sur la ligne de commande."
+							},
+							"showOnly": {
+								"type": "string",
+								"description": "Chaîne facultative. Équivaut à passer --show-only sur la ligne de commande. La valeur doit être \"human\" ou \"json-v1\".",
+								"enum": [
+									"human",
+									"json-v1"
+								]
+							},
+							"repeat": {
+								"type": "object",
+								"description": "Objet facultatif spécifiant la façon de répéter les tests. Équivaut à passer --repeat sur la ligne de commande.",
+								"properties": {
+									"mode": {
+										"type": "string",
+										"description": "Chaîne obligatoire. Doit correspondre à l'une des valeurs suivantes : \"until-fail\", \"until-pass\" ou \"after-timeout\".",
+										"enum": [
+											"until-fail",
+											"until-pass",
+											"after-timeout"
+										]
+									},
+									"count": {
+										"type": "integer",
+										"description": "Entier obligatoire."
+									}
+								},
+								"required": [
+									"mode",
+									"count"
+								],
+								"additionalProperties": false
+							},
+							"interactiveDebugging": {
+								"type": "boolean",
+								"description": "Booléen facultatif. Si la valeur est true, équivaut à passer --interactive-debug-mode 1 sur la ligne de commande. Si la valeur est false, équivaut à passer --interactive-debug-mode 0 sur la ligne de commande."
+							},
+							"scheduleRandom": {
+								"type": "boolean",
+								"description": "Booléen facultatif. Si la valeur est true, équivaut à passer --schedule-random sur la ligne de commande."
+							},
+							"timeout": {
+								"type": "integer",
+								"description": "Entier facultatif. Équivaut à passer --timeout sur la ligne de commande."
+							},
+							"noTestsAction": {
+								"type": "string",
+								"description": "Chaîne facultative spécifiant le comportement si aucun test n'est trouvé. Doit correspondre à l'une des valeurs suivantes : \"default\" (équivaut à ne pas passer de valeur sur la ligne de commande), \"error\" (équivaut à passer --no-tests=error sur la ligne de commande) ou \"ignore\" (équivaut à passer --no-tests-ignore sur la ligne de commande).",
+								"enum": [
+									"default",
+									"error",
+									"ignore"
+								]
+							}
+						},
+						"additionalProperties": false
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"vendor": {
+			"type": "object",
+			"description": "Mappage facultatif contenant des informations spécifiques au fournisseur. CMake n'interprète pas le contenu de ce champ sauf pour vérifier s'il s'agit d'un mappage, à condition qu'il existe. Toutefois, les clés doivent correspondre à un nom de domaine spécifique au fournisseur suivi d'un chemin /-separated. Ainsi, l'exemple d'IDE 1.0 peut utiliser example.com/ExampleIDE/1.0. La valeur de chaque champ peut correspondre à tout ce qui est souhaité par le fournisseur, bien qu'il s'agisse généralement d'un mappage.",
+			"properties": {}
+		}
+	},
+	"additionalProperties": false,
+	"definitions": {
+		"condition": {
+			"anyOf": [
+				{
+					"type": "boolean",
+					"description": "Valeur booléenne qui fournit une valeur constante pour l’évaluation de la condition."
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Chaîne obligatoire spécifiant le type de la condition.",
+							"const": "const"
+						},
+						"value": {
+							"type": "boolean",
+							"description": "Valeur booléenne obligatoire qui fournit une valeur constante pour l’évaluation de la condition."
+						}
+					},
+					"required": [
+						"type",
+						"value"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Chaîne obligatoire spécifiant le type de la condition.",
+							"const": "equals"
+						},
+						"lhs": {
+							"type": "string",
+							"description": "Première chaîne à comparer. Ce champ prend en charge l’expansion des macros."
+						},
+						"rhs": {
+							"type": "string",
+							"description": "Deuxième chaîne à comparer. Ce champ prend en charge l’expansion des macros."
+						}
+					},
+					"required": [
+						"type",
+						"lhs",
+						"rhs"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Chaîne obligatoire spécifiant le type de la condition.",
+							"const": "notEquals"
+						},
+						"lhs": {
+							"type": "string",
+							"description": "Première chaîne à comparer. Ce champ prend en charge l’expansion des macros."
+						},
+						"rhs": {
+							"type": "string",
+							"description": "Deuxième chaîne à comparer. Ce champ prend en charge l’expansion des macros."
+						}
+					},
+					"required": [
+						"type",
+						"lhs",
+						"rhs"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Chaîne obligatoire spécifiant le type de la condition.",
+							"const": "inList"
+						},
+						"string": {
+							"type": "string",
+							"description": "Chaîne requise à rechercher. Ce champ prend en charge l’expansion des macros."
+						},
+						"list": {
+							"type": "array",
+							"description": "Liste obligatoire de chaînes à rechercher. Ce champ prend en charge l’expansion des macros et utilise l’évaluation de court-circuit.",
+							"items": {
+								"type": "string"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"list"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Chaîne obligatoire spécifiant le type de la condition.",
+							"const": "notInList"
+						},
+						"string": {
+							"type": "string",
+							"description": "Chaîne requise à rechercher. Ce champ prend en charge l’expansion des macros."
+						},
+						"list": {
+							"type": "array",
+							"description": "Liste obligatoire de chaînes à rechercher. Ce champ prend en charge l’expansion des macros et utilise l’évaluation de court-circuit.",
+							"items": {
+								"type": "string"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"list"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Chaîne obligatoire spécifiant le type de la condition.",
+							"const": "matches"
+						},
+						"string": {
+							"type": "string",
+							"description": "Chaîne requise à rechercher. Ce champ prend en charge l’expansion des macros."
+						},
+						"regex": {
+							"type": "string",
+							"description": "Expression régulière obligatoire à rechercher. Ce champ prend en charge l’expansion des macros."
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"regex"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Chaîne obligatoire spécifiant le type de la condition.",
+							"const": "notMatches"
+						},
+						"string": {
+							"type": "string",
+							"description": "Chaîne requise à rechercher. Ce champ prend en charge l’expansion des macros."
+						},
+						"regex": {
+							"type": "string",
+							"description": "Expression régulière obligatoire à rechercher. Ce champ prend en charge l’expansion des macros."
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"regex"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Chaîne obligatoire spécifiant le type de la condition.",
+							"const": "anyOf"
+						},
+						"conditions": {
+							"type": "array",
+							"description": "Tableau requis d’objets de condition. Ces conditions utilisent l’évaluation de court-circuit.",
+							"items": {
+								"$ref": "#/definitions/condition"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"conditions"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Chaîne obligatoire spécifiant le type de la condition.",
+							"const": "allOf"
+						},
+						"conditions": {
+							"type": "array",
+							"description": "Tableau requis d’objets de condition. Ces conditions utilisent l’évaluation de court-circuit.",
+							"items": {
+								"$ref": "#/definitions/condition"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"conditions"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Chaîne obligatoire spécifiant le type de la condition.",
+							"const": "not"
+						},
+						"condition": {
+							"$ref": "#/definitions/condition"
+						}
+					},
+					"required": [
+						"type",
+						"condition"
+					],
+					"additionalProperties": false
+				}
+			]
+		},
+		"topCondition": {
+			"description": "Champ facultatif utilisé pour déterminer si une présélection est activée ou non. Pris en charge dans la version 3.",
+			"anyOf": [
+				{
+					"$ref": "#/definitions/condition"
+				},
+				{
+					"type": "null",
+					"description": "Null indique que la condition prend toujours la valeur true et n’est pas héritée."
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,92 @@
+{
+	"name": "vscode-jupyter-slideshow",
+	"displayName": "Jupyter Slide Show",
+	"description": "Jupyter Slide Show support for VS Code",
+	"version": "0.1.5",
+	"publisher": "ms-toolsai",
+	"preview": true,
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#ffffff",
+		"theme": "light"
+	},
+	"author": {
+		"name": "Microsoft Corporation"
+	},
+	"engines": {
+		"vscode": "^1.71.0"
+	},
+	"categories": [
+		"Notebooks"
+	],
+	"activationEvents": [
+		"onNotebook:jupyter-notebook",
+		"onCommand:jupyter-slideshow.switchSlideType",
+		"onCommand:jupyter-slideshow.editSlideShowInJSON"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Microsoft/vscode-jupyter-slideshow"
+	},
+	"main": "./out/extension-node.js",
+	"browser": "./out/extension-web.js",
+	"contributes": {
+		"commands": [
+			{
+				"command": "jupyter-slideshow.switchSlideType",
+				"title": "Switch Slide Type"
+			},
+			{
+				"command": "jupyter-slideshow.editSlideShowInJSON",
+				"title": "Edit Slide Type (JSON)",
+				"icon": "$(go-to-file)"
+			}
+		],
+		"menus": {
+			"notebook/cell/title": [
+				{
+					"command": "jupyter-slideshow.switchSlideType",
+					"group": "jupyter-slideshow@1"
+				},
+				{
+					"command": "jupyter-slideshow.editSlideShowInJSON",
+					"group": "jupyter-slideshow@2"
+				}
+			]
+		}
+	},
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "webpack --mode none",
+		"watch": "webpack --mode none --watch",
+		"pretest": "npm run compile && npm run lint",
+		"lint": "eslint src --ext ts",
+		"test": "node ./out/test/runTest.js"
+	},
+	"devDependencies": {
+		"@types/vscode": "^1.71.0",
+		"@types/glob": "^7.1.3",
+		"@types/mocha": "^8.2.2",
+		"@types/node": "14.x",
+		"eslint": "^7.27.0",
+		"@typescript-eslint/eslint-plugin": "^4.26.0",
+		"@typescript-eslint/parser": "^4.26.0",
+		"glob": "^7.1.7",
+		"mocha": "^10.0.0",
+		"typescript": "^4.3.2",
+		"vscode-test": "^1.5.2",
+		"ts-loader": "^9.1.1",
+		"webpack": "^5.36.2",
+		"webpack-cli": "^4.6.0"
+	},
+	"__metadata": {
+		"id": "e153ca70-b543-4865-b4c5-b31d34185948",
+		"publisherId": "ac8eb7c9-3e59-4b39-8040-f0484d8170ce",
+		"publisherDisplayName": "Microsoft",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1671073111064
+	}
+}

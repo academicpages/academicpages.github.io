@@ -1,0 +1,1356 @@
+{
+	"type": "object",
+	"description": "これらのプリセットでは、CMake に渡すジェネレーターとビルド ディレクトリや、オプションとして変数と他の引数のリストが指定されます。",
+	"required": [
+		"version"
+	],
+	"properties": {
+		"version": {
+			"type": "integer",
+			"description": "JSON スキーマのバージョンを表す必須の整数です。"
+		},
+		"cmakeMinimumRequired": {
+			"type": "object",
+			"description": "このプロジェクトをビルドするために必要な CMake の最小バージョンを表す、オプションのオブジェクトです。",
+			"properties": {
+				"major": {
+					"type": "integer",
+					"description": "メジャー バージョンを表す、オプションの整数です。"
+				},
+				"minor": {
+					"type": "integer",
+					"description": "マイナー バージョンを表す、省略可能な整数です。"
+				},
+				"patch": {
+					"type": "integer",
+					"description": "パッチのバージョンを表す、省略可能な整数です。"
+				}
+			},
+			"additionalProperties": false
+		},
+		"configurePresets": {
+			"type": "array",
+			"description": "構成のプリセット オブジェクトのオプションの配列です。",
+			"items": {
+				"type": "object",
+				"description": "構成のプリセット オブジェクトです。",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "プリセットのマシン用フレンドリ名を表す、必須の文字列です。この識別子は --preset 引数で使用されます。CMakePresets.json と CMakeUserPresets.json の和集合内の同じ名前の 2 つのプリセットが同じディレクトリに存在することはできません。",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "プリセットを非表示にするかどうかを指定する、省略可能なブール値です。プリセットは、非表示の場合、--preset= 引数で使用できず、CMake GUI に表示されず、有効な generator も binaryDir も持つ必要がありません (継承からであっても)。非表示のプリセットは、inherits フィールドを使用して継承する他のプリセットのベースとして使用することを目的としています。"
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "継承元のプリセットの名前を表す、オプションの文字列です。",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "継承元のプリセットの名前を表す、省略可能な文字列の配列です。プリセットでは、既定で inherits プリセットからのすべてのフィールドが継承されます (name、hidden、inherits、description、displayName を除く) が、必要に応じてオーバーライドできます。複数の inherits プリセットに同じフィールドの矛盾する値が含まれている場合、inherits リストで先に現れるプリセットが優先されます。CMakePresets.json に含まれるプリセットでは、CMakeUserPresets.json に含まれるプリセットからの継承を行うことができません。",
+								"items": {
+									"type": "string",
+									"description": "継承元のプリセットの名前を表す、オプションの文字列です。",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"vendor": {
+						"type": "object",
+						"description": "ベンダー固有の情報を含むオプションのマップです。このフィールドが存在する場合、CMake では、これがマップであることを確認する場合を除いて、その内容が解釈されることはありません。しかし、キーは、ベンダー固有のドメイン名の後に、/ 区切りのパスを続けたものにする必要があります。たとえば、Example IDE 1.0 の場合は example.com/ExampleIDE/1.0 のようにします。各フィールドの値にはベンダーが必要とする任意のものを使用できますが、通常はマップです。",
+						"properties": {
+							"microsoft.com/VisualStudioSettings/CMake/1.0": {
+								"type": "object",
+								"description": "Visual Studio 設定のベンダー オブジェクトを表す、省略可能なオブジェクトです",
+								"properties": {
+									"hostOS": {
+										"anyOf": [
+											{
+												"type": "string",
+												"description": "hostOS の名前を表す、省略可能な文字列です。指定できる値は、Windows、Linux、macOS です。",
+												"enum": [
+													"Windows",
+													"Linux",
+													"macOS"
+												]
+											},
+											{
+												"type": "array",
+												"description": "サポートされているホスト オペレーティング システムの配列です。このキーは、アクティブなターゲット システムまたはホスト OS に適用されないプリセットを非表示にするために、Visual Studio と Visual Studio Code によって使用されます。指定できる値は、Windows、Linux、macOS です。",
+												"items": {
+													"type": "string",
+													"description": "hostOS の名前を表す、省略可能な文字列です。指定できる値は、Windows、Linux、macOS です。",
+													"enum": [
+														"Windows",
+														"Linux",
+														"macOS"
+													]
+												}
+											}
+										]
+									},
+									"intelliSenseMode": {
+										"type": "string",
+										"description": "優先する IntelliSense モードを示す、省略可能なキーです。Visual Studio と Visual Studio Code 内で IntelliSense 情報を計算するために使用されるモードです。",
+										"enum": [
+											"windows-msvc-x86",
+											"windows-msvc-x64",
+											"windows-msvc-arm",
+											"windows-msvc-arm64",
+											"android-clang-x86",
+											"android-clang-x64",
+											"android-clang-arm",
+											"android-clang-arm64",
+											"ios-clang-x86",
+											"ios-clang-x64",
+											"ios-clang-arm",
+											"ios-clang-arm64",
+											"windows-clang-x86",
+											"windows-clang-x64",
+											"windows-clang-arm",
+											"windows-clang-arm64",
+											"linux-gcc-x86",
+											"linux-gcc-x64",
+											"linux-gcc-arm"
+										]
+									},
+									"intelliSenseOptions": {
+										"type": "object",
+										"description": "IntelliSense の詳細設定を構成するために使用される、省略可能なオブジェクトです。",
+										"properties": {
+											"useCompilerDefaults": {
+												"type": "boolean",
+												"default": true,
+												"description": "IntelliSense でコンパイラの既定の defines と include パスを使用するかどうかを指定します。使用中のコンパイラが GCC 風の引数をサポートしていない場合に限り、false にする必要があります。"
+											},
+											"additionalCompilerArgs": {
+												"anyOf": [
+													{
+														"type": "string",
+														"default": "empty"
+													},
+													{
+														"type": "array",
+														"description": "Visual Studio で IntelliSense を制御するための追加オプションの配列です。",
+														"items": {
+															"type": "string"
+														}
+													}
+												]
+											}
+										}
+									},
+									"enableMicrosoftCodeAnalysis": {
+										"type": "boolean",
+										"description": "cl または clang-cl を使用してビルドするときに、Visual Studio 内で Microsoft コード分析を有効にします。"
+									},
+									"codeAnalysisRuleset": {
+										"type": "string",
+										"description": "Visual Studio で Microsoft コード分析を実行中に使用するルールセット。Visual Studio によってインストールされたルールセット ファイルのパスまたはファイル名を指定できます。"
+									},
+									"enableClangTidyCodeAnalysis": {
+										"type": "boolean",
+										"description": "clang-cl を使用してビルドするときに、Visual Studio 内で Clang-Tidy コード分析を有効にします。"
+									},
+									"clangTidyChecks": {
+										"type": "string",
+										"description": "Visual Studio で Clang-Tidy コード分析を実行するときに、Clang-Tidy に渡される警告のコンマ区切りリストです。ワイルドカードを使用できます。プレフィックス '-' を付けるとチェックが削除されます。"
+									},
+									"cacheRoot": {
+										"type": "string",
+										"description": "CMake キャッシュへのパスです。このディレクトリには、既存の CMakeCache.txt ファイルが含まれている必要があります。このキーは、Visual Studio の \"既存のキャッシュを開く\" シナリオでのみサポートされます。"
+									},
+									"cmakeGenerateCommand": {
+										"type": "string",
+										"description": "CMake キャッシュを生成するためのコマンド ライン ツールです (コマンド ライン プログラム + 引数として指定します。例: \"gencache.bat debug\")。このコマンドは、キャッシュ生成が呼び出されたときに、プリセットに指定されている環境のシェルから実行されます。このキーは、Visual Studio の \"既存のキャッシュを開く\" シナリオでのみサポートされます。"
+									}
+								}
+							},
+							"microsoft.com/VisualStudioRemoteSettings/CMake/1.0": {
+								"type": "object",
+								"description": "Visual Studio リモート設定のベンダー オブジェクトを表す、省略可能なオブジェクトです",
+								"properties": {
+									"sourceDir": {
+										"type": "string",
+										"default": "$env{HOME}/.vs/${sourceDirName}",
+										"description": "プロジェクトのコピー先になる、リモート システムまたは WSL2 インストール上のディレクトリへのパスです。"
+									},
+									"copySources": {
+										"type": "boolean",
+										"default": "true",
+										"description": "true の場合、Visual Studio によって Windows からソースがリモート システムにコピーされます。ファイル同期を自分で管理する場合には、false に設定します。"
+									},
+									"copySourcesOptions": {
+										"type": "object",
+										"description": "Windows からリモート システムへのソース コピーに関連する設定のオブジェクトです。",
+										"properties": {
+											"exclusionList": {
+												"type": "array",
+												"default": "[ \".vs\", \".git\", \"out\"]",
+												"description": "ソース ファイルをリモート システムにコピーするときに除外するパスの一覧。パスには、ファイルかディレクトリの名前、またはコピーのルートからの相対パスを指定できます。",
+												"items": {
+													"type": "string"
+												}
+											},
+											"method": {
+												"type": "string",
+												"default": "rsync",
+												"description": "ソース ファイルをリモート システムにコピーするために使用される方式です。指定できる値は rsync と sftp です。"
+											},
+											"concurrentCopies": {
+												"type": "integer",
+												"default": 5,
+												"description": "ソースからリモート システムへの同期中に使用される同時コピー数。"
+											},
+											"outputVerbosity": {
+												"type": "string",
+												"default": "Normal",
+												"description": "リモート システムへのソース コピー操作の詳細レベルです。指定できるレベルは、Normal、Verbose、Diagnostic です。",
+												"enum": [
+													"Normal",
+													"Verbose",
+													"Diagnostic"
+												]
+											}
+										}
+									},
+									"rsyncCommandArgs": {
+										"type": "array",
+										"default": "[\"-t\", \"--delete\", \"--delete-excluded\"]",
+										"description": "rsync に渡される追加のコマンド ライン引数の一覧です。",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyBuildOutput": {
+										"type": "boolean",
+										"default": false,
+										"description": "リモート システムから Windows にビルドの出力をコピーして戻すかどうかを指定します。"
+									},
+									"copyOptimizations": {
+										"type": "object",
+										"description": "ソース コピーの最適化に関連する設定のオブジェクトです。",
+										"properties": {
+											"maxSmallChange": {
+												"type": "integer",
+												"default": 10,
+												"description": "rsync の代わりに sftp を使用してコピーするファイルの最大数。"
+											},
+											"useOptimizations": {
+												"type": "string",
+												"default": "RsyncAndSftp",
+												"description": "コピー最適化なし (\"None\")、rsync のみの最適化 (\"RsyncOnly\")、rsync と sftp の最適化 (\"RsyncAndSftp\") のいずれかを選択してください。",
+												"enum": [
+													"None",
+													"RsyncOnly",
+													"RsyncAndSftp"
+												]
+											},
+											"rsyncSingleDirectoryCommandArgs": {
+												"type": "array",
+												"default": "[\"-t\", \"-d\"]",
+												"description": "1 つのディレクトリの内容をリモート システムにコピーするときに rsync に渡される追加のコマンド ライン引数の一覧です。",
+												"items": {
+													"type": "string"
+												}
+											}
+										}
+									},
+									"copyAdditionalIncludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "IntelliSense 用にローカルにコピーされるリモート ヘッダー ディレクトリへのパスのリスト。",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyExcludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "IntelliSense 用にローカルにコピーされないリモート ヘッダー ディレクトリへのパスのリスト。",
+										"items": {
+											"type": "string"
+										}
+									},
+									"forceWSL1Toolset": {
+										"type": "boolean",
+										"default": false,
+										"description": "true の場合、Visual Studio から WSL をターゲットとするときに、Visual Studio では常に WSL1 ツールセットが使用されます。WSL1 ツールセットでは、すべてのコマンドがローカルで実行され、/mnt フォルダーの下にマウントされている Windows ドライブを利用して WSL からローカル ソース ファイルにアクセスされます。これらの操作は、WSL2 では遅くなるおそれがあります。"
+									}
+								}
+							}
+						}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "プリセットの人間用フレンドリ名を含む、オプションの文字列です。"
+					},
+					"description": {
+						"type": "string",
+						"description": "プリセットのわかりやすい説明を含む、オプションの文字列です。"
+					},
+					"generator": {
+						"type": "string",
+						"description": "プリセットに対して使用するジェネレーターを表す、オプションの文字列です。generator が指定されていない場合は、inherits プリセットから継承する必要があります (このプリセットが hidden である場合を除く)。Visual Studio ジェネレーターの場合は、コマンド ラインの -G 引数と異なり、ジェネレーター名にプラットフォーム名を含めることはできないことにご注意ください。代わりに architecture フィールドをご使用ください。"
+					},
+					"architecture": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "それをサポートするジェネレーターのプラットフォームを表す、省略可能な文字列です。"
+							},
+							{
+								"type": "object",
+								"description": "それをサポートするジェネレーターのプラットフォームを表す、省略可能なオブジェクトです。",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "値を表す省略可能な文字列です。"
+									},
+									"strategy": {
+										"type": "string",
+										"description": "CMake にフィールドの処理方法を指定する、省略可能な文字列です。有効な値は次のとおりです。\"set\" では、それぞれの値が設定されます。それぞれのフィールドをサポートしないジェネレーターでこれを使用すると、エラーが発生します。\"external\" では、たとえジェネレーターによってサポートされているものであっても、値は設定されません。これは、たとえば、プリセットで Ninja ジェネレーターが使用されており、IDE で architecture と toolset のフィールドから Visual C++ 環境を設定できる場合に役立ちます。その場合、CMake でそのフィールドは無視されますが、IDE ではそれらを使用して CMake の起動前に環境を設定できます。",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"toolset": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "それをサポートするジェネレーターのツールセットを表す、省略可能な文字列です。"
+							},
+							{
+								"type": "object",
+								"description": "それをサポートするジェネレーターのツールセットを表す、省略可能なオブジェクトです。",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "値を表す省略可能な文字列です。"
+									},
+									"strategy": {
+										"type": "string",
+										"description": "CMake にフィールドの処理方法を指定する、省略可能な文字列です。有効な値は次のとおりです。\"set\" では、それぞれの値が設定されます。それぞれのフィールドをサポートしないジェネレーターでこれを使用すると、エラーが発生します。\"external\" では、たとえジェネレーターによってサポートされているものであっても、値は設定されません。これは、たとえば、プリセットで Ninja ジェネレーターが使用されており、IDE で architecture と toolset のフィールドから Visual C++ 環境を設定できる場合に役立ちます。その場合、CMake でそのフィールドは無視されますが、IDE ではそれらを使用して CMake の起動前に環境を設定できます。",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"binaryDir": {
+						"type": "string",
+						"description": "出力バイナリ ディレクトリへのパスを表す、オプションの文字列です。このフィールドではマクロの展開がサポートされています。相対パスが指定された場合は、ソース ディレクトリからの相対パスとして判断されます。binaryDir が指定されていない場合は、inherits プリセットから継承する必要があります (このプリセットが hidden である場合を除く)。"
+					},
+					"cmakeExecutable": {
+						"type": "string",
+						"description": "このプリセットで使用する CMake 実行可能ファイルへのパスを表すオプションの文字列です。これは IDE での使用のために予約され、CMake 自体では使用されません。このフィールドを使用する IDE では、これに含まれるマクロを展開する必要があります。"
+					},
+					"cacheVariables": {
+						"type": "object",
+						"description": "キャッシュ変数の省略可能なマップです。キーは変数名です (空の文字列にはできません)。キャッシュ変数は、inherits フィールドを通じて継承され、プリセットの変数は、それ自身の cacheVariables とそのすべての親からの cacheVariables の和集合になります。この和集合の複数のプリセットで同じ変数が定義されている場合は、継承の標準規則が適用されます。",
+						"properties": {
+							"CMAKE_C_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "C に使用されるコンパイラです。"
+									},
+									{
+										"type": "null",
+										"description": "null 値に設定した変数は設定されません。これは別のプリセットから値が継承されていても変わりありません。"
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_CXX_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "C++ に使用されるコンパイラです。"
+									},
+									{
+										"type": "null",
+										"description": "null 値に設定した変数は設定されません。これは別のプリセットから値が継承されていても変わりありません。"
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_INSTALL_PREFIX": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "CMake によって使用されるインストール ディレクトリ。バージョン 3 以上のプリセットを使用する場合は、代わりに \"installDir\" プロパティを使用します。"
+									},
+									{
+										"type": "null",
+										"description": "null 値に設定した変数は設定されません。これは別のプリセットから値が継承されていても変わりありません。"
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_TOOLCHAIN_FILE": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "CMake に渡されるツールチェーン ファイル。バージョン 3 以上のプリセットを使用する場合は、代わりに \"toolchainFile\" プロパティを使用します。"
+									},
+									{
+										"type": "null",
+										"description": "null 値に設定した変数は設定されません。これは別のプリセットから値が継承されていても変わりありません。"
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_BUILD_TYPE": {
+								"description": "単一構成ジェネレーターでのビルドの種類を指定します。",
+								"anyOf": [
+									{
+										"type": "string",
+										"enum": [
+											"Debug",
+											"Release",
+											"RelWithDebInfo",
+											"MinSizeRel"
+										]
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									},
+									{
+										"type": "string"
+									},
+									{
+										"type": "null",
+										"description": "null 値に設定した変数は設定されません。これは別のプリセットから値が継承されていても変わりありません。"
+									}
+								]
+							}
+						},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "null 値に設定した変数は設定されません。これは別のプリセットから値が継承されていても変わりありません。"
+								},
+								{
+									"type": "boolean",
+									"description": "変数の値を表すブール値です。\"TRUE\" または \"FALSE\" と等価です。"
+								},
+								{
+									"type": "string",
+									"description": "変数の値を表す文字列です (マクロの展開がサポートされています)。"
+								},
+								{
+									"type": "object",
+									"description": "変数の型と値を表すオブジェクトです。",
+									"properties": {
+										"type": {
+											"type": "string",
+											"description": "変数の型を表す省略可能な文字列です。BOOL、FILEPATH、PATH、STRING、INTERNAL のいずれかである必要があります。"
+										},
+										"value": {
+											"anyOf": [
+												{
+													"type": "boolean",
+													"description": "変数の値を表す、必須のブール値です。\"TRUE\" または \"FALSE\" と等価です。"
+												},
+												{
+													"type": "string",
+													"description": "変数の値を表す必須の文字列です。このフィールドではマクロの展開がサポートされています。"
+												}
+											]
+										}
+									},
+									"required": [
+										"value"
+									],
+									"additionalProperties": false
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"environment": {
+						"type": "object",
+						"description": "環境変数のオプションのマップです。キーは変数名です (空の文字列にはできません)。各変数は、プロセスの環境によって値が指定されたかどうかに関係なく設定されます。このフィールドではマクロの展開がサポートされています。また、このマップの環境変数は互いを参照でき、任意の順序でリストできます。ただし、そのような参照によって循環が生じてはなりません (たとえば、ENV_1 が $env{ENV_2} である場合、ENV_2 を $env{ENV_1} にすることはできません)。環境変数は inherits フィールドを通じて継承され、プリセットの環境は、それ自身の environment とそのすべての親からの environment との和集合となります。この和集合内の複数のプリセットで同じ変数が定義されている場合は、継承の標準規則が適用されます。null 値に設定した変数は設定されません。これは別のプリセットから値が継承されていても変わりありません。",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "null 値に設定した変数は設定されません。これは別のプリセットから値が継承されていても変わりありません。"
+								},
+								{
+									"type": "string",
+									"description": "変数の値を表す文字列です。"
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"warnings": {
+						"type": "object",
+						"description": "警告を指定するオプションのオブジェクトです。",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "オプションのブール値です。コマンド ラインで -Wdev または -Wno-dev を渡すことに相当します。errors.dev が true に設定されている場合、false に設定することはできません。"
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "オプションのブール値です。コマンド ラインで -Wdeprecated または -Wno-deprecated を渡すことに相当します。errors.deprecated が true に設定されている場合は、false に設定できません。"
+							},
+							"uninitialized": {
+								"type": "boolean",
+								"description": "オプションのブール値です。この値を true に設定することは、コマンド ラインで --warn-uninitialized を渡すことに相当します。"
+							},
+							"unusedCli": {
+								"type": "boolean",
+								"description": "オプションのブール値です。この値を false に設定することは、コマンド ラインで --no-warn-unused-cli を渡すことに相当します。"
+							},
+							"systemVars": {
+								"type": "boolean",
+								"description": "オプションのブール値です。この値を true に設定することは、コマンド ラインで --check-system-vars を渡すことに相当します。"
+							}
+						},
+						"additionalProperties": false
+					},
+					"errors": {
+						"type": "object",
+						"description": "エラーを指定するオプションのオブジェクトです。",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "オプションのブール値です。コマンド ラインで -Werror=dev または -Wno-error=dev を渡すことに相当します。warnings.dev が false に設定されている場合は、true に設定できません。"
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "オプションのブール値です。コマンド ラインで -Werror=deprecated または -Wno-error=deprecated を渡すことに相当します。warnings.deprecated が false に設定されている場合は、true に設定できません。"
+							}
+						},
+						"additionalProperties": false
+					},
+					"debug": {
+						"type": "object",
+						"description": "デバッグ オプションを指定する、省略可能なオブジェクトです。",
+						"properties": {
+							"output": {
+								"type": "boolean",
+								"description": "省略可能なブール値です。この値を true に設定することは、コマンド ラインで --debug-output を渡すのと同等です。"
+							},
+							"tryCompile": {
+								"type": "boolean",
+								"description": "省略可能なブール値です。この値を true に設定することは、コマンド ラインで --debug-trycompile を渡すのと同等です。"
+							},
+							"find": {
+								"type": "boolean",
+								"description": "省略可能なブール値です。この値を true に設定することは、コマンド ラインで --debug-find を渡すのと同等です。"
+							}
+						},
+						"additionalProperties": false
+					},
+					"installDir": {
+						"type": "string",
+						"description": "インストール ディレクトリへのパスを表すオプションの文字列。このフィールドはマクロ展開をサポートします。相対パスが指定されている場合はソース ディレクトリに対する相対パスが計算されます。バージョン 3 でサポートされています。"
+					},
+					"toolchainFile": {
+						"type": "string",
+						"description": "ツールチェーン ファイルへのパスを表すオプションの文字列。このフィールドはマクロ展開をサポートします。相対パスが指定されている場合は、ビルド ディレクトリに対する相対パスが計算され、見つからない場合はソース ディレクトリに対する相対パスが計算されます。バージョン 3 でサポートされています。"
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"buildPresets": {
+			"type": "array",
+			"description": "ビルド プリセット オブジェクトの配列です (省略可能)。cmake --build に引数を指定するために使用されます。バージョン 2 以降で利用可能です。",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "プリセットのマシン用フレンドリ名を表す、必須の文字列です。この識別子は --preset 引数で使用されます。CMakePresets.json と CMakeUserPresets.json の和集合に含まれる 2 つのプリセット (構成、ビルド、テスト) が、同じディレクトリの中に同じ名前で存在していてはなりません。",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "プリセットを非表示にするかどうかを指定する、省略可能なブール値です。プリセットは、非表示の場合、--preset 引数で使用できず、CMake GUI に表示されず、有効な configurePreset を持つ必要がありません (継承からであっても)。非表示のプリセットは、inherits フィールドを使用して継承する他のプリセットのベースとして使用することを目的としています。"
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "継承元のビルド プリセットの名前を表す、省略可能な文字列です。",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "継承元のビルド プリセットの名前を表す、省略可能な文字列の配列です。プリセットでは、既定で inherits プリセットからのすべてのフィールドが継承されます (name、hidden、inherits、description、displayName を除く) が、必要に応じてオーバーライドできます。複数の inherits プリセットに同じフィールドの矛盾する値が含まれている場合、inherits リストで先に現れるプリセットが優先されます。CMakePresets.json に含まれるプリセットでは、CMakeUserPresets.json に含まれるプリセットからの継承を行うことができません。",
+								"items": {
+									"type": "string",
+									"description": "継承元のプリセットの名前を表す、オプションの文字列です。",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "このビルド プリセットに関連付ける構成プリセットの名前を指定する、省略可能な文字列です。configurePreset が指定されていない場合は、inherits プリセットから継承する必要があります (このプリセットが非表示になっている場合を除く)。ビルド ツリー ディレクトリは、構成プリセットから推論されます。",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "ベンダー固有の情報を含むオプションのマップです。このフィールドが存在する場合、CMake では、これがマップであることを確認する場合を除いて、その内容が解釈されることはありません。しかし、これはルートレベルの vendor フィールドと同じ規則に従う必要があります。ベンダーは、プリセットごとの独自の vendor フィールドを使用する場合、必要に応じて継承を適切な方法で実装する必要があります。",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "プリセットの人間用フレンドリ名を含む、オプションの文字列です。"
+					},
+					"description": {
+						"type": "string",
+						"description": "プリセットのわかりやすい説明を含む、オプションの文字列です。"
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "省略可能なブール値で、既定値は true です。true の場合、関連付けられている構成プリセットからの環境変数は、すべての継承されたビルド プリセット環境の後、かつこのビルド プリセットで明示的に指定されている環境変数の前に継承されます。"
+					},
+					"environment": {
+						"type": "object",
+						"description": "環境変数のオプションのマップです。キーは変数名です (空の文字列にはできません)。各変数は、プロセスの環境によって値が指定されたかどうかに関係なく設定されます。このフィールドではマクロの展開がサポートされています。また、このマップの環境変数は互いを参照でき、任意の順序でリストできます。ただし、そのような参照によって循環が生じてはなりません (たとえば、ENV_1 が $env{ENV_2} である場合、ENV_2 を $env{ENV_1} にすることはできません)。環境変数は inherits フィールドを通じて継承され、プリセットの環境は、それ自身の environment とそのすべての親からの environment との和集合となります。この和集合内の複数のプリセットで同じ変数が定義されている場合は、継承の標準規則が適用されます。null 値に設定した変数は設定されません。これは別のプリセットから値が継承されていても変わりありません。",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "null 値に設定した変数は設定されません。これは別のプリセットから値が継承されていても変わりありません。"
+								},
+								{
+									"type": "string",
+									"description": "変数の値を表す文字列です。"
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"jobs": {
+						"type": "integer",
+						"description": "省略可能な整数です。コマンド ラインで --parallel または-j を渡すのと同等です。"
+					},
+					"targets": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "省略可能な文字列です。コマンド ラインで --target または -t を渡すのと同等です。ベンダーは、targets プロパティを無視することも、明示的にターゲットを指定するビルド プリセットを非表示にすることもできます。"
+							},
+							{
+								"type": "array",
+								"description": "文字列の配列です (省略可能)。コマンド ラインで --target または -t を渡すのと同等です。ベンダーは、targets プロパティを無視することも、明示的にターゲットを指定するビルド プリセットを非表示にすることもできます。",
+								"items": {
+									"type": "string",
+									"description": "省略可能な文字列です。コマンド ラインで --target または -t を渡すのと同等です。ベンダーは、targets プロパティを無視することも、明示的にターゲットを指定するビルド プリセットを非表示にすることもできます。"
+								}
+							}
+						]
+					},
+					"configuration": {
+						"type": "string",
+						"description": "省略可能な文字列です。コマンド ラインで --config を渡すのと同等です。"
+					},
+					"cleanFirst": {
+						"type": "boolean",
+						"description": "省略可能なブール値です。true の場合、コマンド ラインで --clean-first を渡すのと同等です。"
+					},
+					"verbose": {
+						"type": "boolean",
+						"description": "省略可能なブール値です。true の場合、コマンド ラインで --verbose を渡すのと同等です。"
+					},
+					"nativeToolOptions": {
+						"type": "array",
+						"description": "文字列の配列です (省略可能)。コマンド ラインで -- の後にオプションを渡すのと同等です。",
+						"items": {
+							"type": "string",
+							"description": "コマンド ラインで -- の後に渡すオプションを表す、省略可能な文字列です。"
+						}
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"testPresets": {
+			"type": "array",
+			"description": "テスト プリセット オブジェクトの配列です (省略可能)。ctest に引数を指定するために使用されます。バージョン 2 以降で利用可能です。",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "プリセットのマシン用フレンドリ名を表す、必須の文字列です。この識別子は --preset 引数で使用されます。CMakePresets.json と CMakeUserPresets.json の和集合に含まれる 2 つのプリセット (構成、ビルド、テスト) が、同じディレクトリの中に同じ名前で存在していてはなりません。",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "プリセットを非表示にするかどうかを指定する、省略可能なブール値です。プリセットは、非表示の場合、--preset 引数で使用できず、CMake GUI に表示されず、有効な configurePreset を持つ必要がありません (継承からであっても)。非表示のプリセットは、inherits フィールドを使用して継承する他のプリセットのベースとして使用することを目的としています。"
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "継承元のテスト プリセットの名前を表す、省略可能な文字列です。",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "継承元のテスト プリセットの名前を表す、省略可能な文字列の配列です。プリセットでは、既定で inherits プリセットからのすべてのフィールドが継承されます (name、hidden、inherits、description、displayName を除く) が、必要に応じてオーバーライドできます。複数の inherits プリセットに同じフィールドの矛盾する値が含まれている場合、inherits リストで先に現れるプリセットが優先されます。CMakePresets.json に含まれるプリセットでは、CMakeUserPresets.json に含まれるプリセットからの継承を行うことができません。",
+								"items": {
+									"type": "string",
+									"description": "継承元のプリセットの名前を表す、オプションの文字列です。",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "このテスト プリセットに関連付ける構成プリセットの名前を指定する、省略可能な文字列です。configurePreset が指定されていない場合は、inherits プリセットから継承する必要があります (このプリセットが非表示になっている場合を除く)。ビルド ツリー ディレクトリは、構成プリセットから推論されます。",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "ベンダー固有の情報を含むオプションのマップです。このフィールドが存在する場合、CMake では、これがマップであることを確認する場合を除いて、その内容が解釈されることはありません。しかし、これはルートレベルの vendor フィールドと同じ規則に従う必要があります。ベンダーは、プリセットごとの独自の vendor フィールドを使用する場合、必要に応じて継承を適切な方法で実装する必要があります。",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "プリセットの人間用フレンドリ名を含む、オプションの文字列です。"
+					},
+					"description": {
+						"type": "string",
+						"description": "プリセットのわかりやすい説明を含む、オプションの文字列です。"
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "省略可能なブール値で、既定値は true です。true の場合、関連付けられている構成プリセットからの環境変数は、すべての継承されたテスト プリセット環境の後、かつこのテスト プリセットで明示的に指定されている環境変数の前に継承されます。"
+					},
+					"environment": {
+						"type": "object",
+						"description": "環境変数のオプションのマップです。キーは変数名です (空の文字列にはできません)。各変数は、プロセスの環境によって値が指定されたかどうかに関係なく設定されます。このフィールドではマクロの展開がサポートされています。また、このマップの環境変数は互いを参照でき、任意の順序でリストできます。ただし、そのような参照によって循環が生じてはなりません (たとえば、ENV_1 が $env{ENV_2} である場合、ENV_2 を $env{ENV_1} にすることはできません)。環境変数は inherits フィールドを通じて継承され、プリセットの環境は、それ自身の environment とそのすべての親からの environment との和集合となります。この和集合内の複数のプリセットで同じ変数が定義されている場合は、継承の標準規則が適用されます。null 値に設定した変数は設定されません。これは別のプリセットから値が継承されていても変わりありません。",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "null 値に設定した変数は設定されません。これは別のプリセットから値が継承されていても変わりありません。"
+								},
+								{
+									"type": "string",
+									"description": "変数の値を表す文字列です。"
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"configuration": {
+						"type": "string",
+						"description": "省略可能な文字列です。コマンド ラインで --build-config を渡すのと同等です。"
+					},
+					"overwriteConfigurationFile": {
+						"type": "array",
+						"description": "CTest 構成ファイルで指定されているオプションを上書きするための構成オプションの配列です (省略可能)。配列内の値ごとに ``--overwrite`` を渡すのと同等です。",
+						"items": {
+							"type": "string",
+							"description": "\"key=value\" の形式でキーと値のペアとして記述されたオプションです。"
+						}
+					},
+					"output": {
+						"type": "object",
+						"description": "出力オプションを指定する、省略可能なオブジェクトです。",
+						"properties": {
+							"shortProgress": {
+								"type": "boolean",
+								"description": "省略可能なブール値です。true の場合、コマンド ラインで --progress を渡すのと同等です。"
+							},
+							"verbosity": {
+								"type": "string",
+								"description": "詳細レベルを指定する、省略可能な文字列です。有効な値は、\"default\" (コマンド ラインで詳細フラグを指定しない場合と同等)、\"verbose\" (コマンド ラインで --verbose を渡すのと同等)、\"extra\" (コマンド ラインで --extra-verbose を渡すのと同等) です。",
+								"enum": [
+									"default",
+									"verbose",
+									"extra"
+								]
+							},
+							"debug": {
+								"type": "boolean",
+								"description": "省略可能なブール値です。true の場合、コマンド ラインで --debug を渡すのと同等です。"
+							},
+							"outputOnFailure": {
+								"type": "boolean",
+								"description": "省略可能なブール値です。true の場合、コマンド ラインで --output-on-failure を渡すのと同等です。"
+							},
+							"quiet": {
+								"type": "boolean",
+								"description": "省略可能なブール値です。true の場合、コマンド ラインで --quiet を渡すのと同等です。"
+							},
+							"outputLogFile": {
+								"type": "string",
+								"description": "ログ ファイルへのパスを指定する、省略可能な文字列です。コマンド ラインで --output-log を渡すのと同等です。"
+							},
+							"labelSummary": {
+								"type": "boolean",
+								"description": "省略可能なブール値です。false の場合、コマンド ラインで --no-label-summary を渡すのと同等です。"
+							},
+							"subprojectSummary": {
+								"type": "boolean",
+								"description": "省略可能なブール値です。false の場合、コマンド ラインで --no-subproject-summary を渡すのと同等です。"
+							},
+							"maxPassedTestOutputSize": {
+								"type": "integer",
+								"description": "成功したテストの最大出力をバイト単位で指定する、省略可能な整数です。コマンド ラインで --test-output-size-passed を渡すのと同等です。"
+							},
+							"maxFailedTestOutputSize": {
+								"type": "integer",
+								"description": "失敗したテストの最大出力をバイト単位で指定する、省略可能な整数です。コマンド ラインで --test-output-size-failed を渡すのと同等です。"
+							},
+							"maxTestNameWidth": {
+								"type": "integer",
+								"description": "出力するテスト名の最大幅を指定する、省略可能な整数です。コマンド ラインで --max-width を渡すのと同等です。"
+							}
+						},
+						"additionalProperties": false
+					},
+					"filter": {
+						"type": "object",
+						"description": "実行するテストをフィルター処理する方法を指定する、省略可能なオブジェクトです。",
+						"properties": {
+							"include": {
+								"type": "object",
+								"description": "含めるテストを指定する、省略可能なオブジェクトです。",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "テスト名の正規表現を指定する、省略可能な文字列です。コマンド ラインで --tests-regex を渡すのと同等です。"
+									},
+									"label": {
+										"type": "string",
+										"description": "テスト ラベルの正規表現を指定する、省略可能な文字列です。コマンド ラインで --label-regex を渡すのと同等です。"
+									},
+									"index": {
+										"anyOf": [
+											{
+												"type": "object",
+												"description": "テスト インデックスによって含めるテストを指定する、省略可能なオブジェクトです。",
+												"properties": {
+													"start": {
+														"type": "integer",
+														"description": "テストを開始する位置のテスト インデックスを指定する、省略可能な整数です。"
+													},
+													"end": {
+														"type": "integer",
+														"description": "テストを停止する位置のテスト インデックスを指定する、省略可能な整数です。"
+													},
+													"stride": {
+														"type": "integer",
+														"description": "インクリメントを指定する、省略可能な整数です。"
+													},
+													"specificTests": {
+														"type": "array",
+														"description": "実行する特定のテスト インデックスを指定する、整数の配列です (省略可能)。",
+														"items": {
+															"type": "integer",
+															"description": "実行するテストをインデックスで指定する整数です。"
+														}
+													}
+												},
+												"additionalProperties": false
+											},
+											{
+												"type": "string",
+												"description": "--tests-information のコマンド ライン構文を使用してファイルを指定する、省略可能な文字列です。"
+											}
+										]
+									},
+									"useUnion": {
+										"type": "boolean",
+										"description": "省略可能なブール値です。コマンド ラインで --union を渡すのと同等です。"
+									}
+								},
+								"additionalProperties": false
+							},
+							"exclude": {
+								"type": "object",
+								"description": "除外するテストを指定する、省略可能なオブジェクトです。",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "テスト名の正規表現を指定する、省略可能な文字列です。コマンド ラインで --exclude-regex を渡すのと同等です。"
+									},
+									"label": {
+										"type": "string",
+										"description": "テスト ラベルの正規表現を指定する、省略可能な文字列です。コマンド ラインで --label-exclude を渡すのと同等です。"
+									},
+									"fixtures": {
+										"type": "object",
+										"description": "テストの追加から除外するフィクスチャを指定する、省略可能なオブジェクトです。",
+										"properties": {
+											"any": {
+												"type": "string",
+												"description": "あらゆるテストの追加から除外するテキスト フィクスチャの正規表現を指定する、省略可能な文字列です。コマンド ラインで --fixture-exclude-any を渡すのと同等です。"
+											},
+											"setup": {
+												"type": "string",
+												"description": "セットアップ テストの追加から除外するテキスト フィクスチャの正規表現を指定する、省略可能な文字列です。コマンド ラインで --fixture-exclude-setup を渡すのと同等です。"
+											},
+											"cleanup": {
+												"type": "string",
+												"description": "クリーンアップ テストの追加から除外するテキスト フィクスチャの正規表現を指定する、省略可能な文字列です。コマンド ラインで --fixture-exclude-cleanup を渡すのと同等です。"
+											}
+										},
+										"additionalProperties": false
+									}
+								}
+							}
+						},
+						"additionalProperties": false
+					},
+					"execution": {
+						"type": "object",
+						"description": "テストの実行のオプションを指定する、省略可能なオブジェクトです。",
+						"properties": {
+							"stopOnFailure": {
+								"type": "boolean",
+								"description": "省略可能なブール値です。true の場合、コマンド ラインで --stop-on-failure を渡すのと同等です。"
+							},
+							"enableFailover": {
+								"type": "boolean",
+								"description": "省略可能なブール値です。true の場合、コマンド ラインで -F を渡すのと同等です。"
+							},
+							"jobs": {
+								"type": "integer",
+								"description": "省略可能な整数です。コマンド ラインで --parallel を渡すのと同等です。"
+							},
+							"resourceSpecFile": {
+								"type": "string",
+								"description": "省略可能な文字列です。コマンド ラインで --resource-spec-file を渡すのと同等です。"
+							},
+							"testLoad": {
+								"type": "integer",
+								"description": "省略可能な整数です。コマンド ラインで --test-load を渡すのと同等です。"
+							},
+							"showOnly": {
+								"type": "string",
+								"description": "省略可能な文字列です。コマンド ラインで --show-only を渡すのと同等です。値は \"human\" または \"json-v1\" でなければなりません。",
+								"enum": [
+									"human",
+									"json-v1"
+								]
+							},
+							"repeat": {
+								"type": "object",
+								"description": "テストを繰り返す方法を指定する、省略可能なオブジェクトです。コマンド ラインで --repeat を渡すのと同等です。",
+								"properties": {
+									"mode": {
+										"type": "string",
+										"description": "必須の文字列です。次のいずれかの値である必要があります: \"until-fail\"、\"until-pass\"、または \"after-timeout\"。",
+										"enum": [
+											"until-fail",
+											"until-pass",
+											"after-timeout"
+										]
+									},
+									"count": {
+										"type": "integer",
+										"description": "必須の整数です。"
+									}
+								},
+								"required": [
+									"mode",
+									"count"
+								],
+								"additionalProperties": false
+							},
+							"interactiveDebugging": {
+								"type": "boolean",
+								"description": "省略可能なブール値です。true の場合、コマンド ラインで --interactive-debug-mode 1 を渡すのと同等です。false の場合、コマンド ラインで --interactive-debug-mode 0 を渡すのと同等です。"
+							},
+							"scheduleRandom": {
+								"type": "boolean",
+								"description": "省略可能なブール値です。true の場合、コマンド ラインで --schedule-random を渡すのと同等です。"
+							},
+							"timeout": {
+								"type": "integer",
+								"description": "省略可能な整数です。コマンド ラインで --timeout を渡すのと同等です。"
+							},
+							"noTestsAction": {
+								"type": "string",
+								"description": "テストが見つからない場合の動作を指定する、省略可能な文字列です。次のいずれかの値でなければなりません。\"default\" (コマンド ラインで何も値を渡さないのと同等)、\"error\" (コマンド ラインで --no-tests=error を渡すのと同等)、または \"ignore\" (コマンド ラインで --no-tests-ignore を渡すのと同等)。",
+								"enum": [
+									"default",
+									"error",
+									"ignore"
+								]
+							}
+						},
+						"additionalProperties": false
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"vendor": {
+			"type": "object",
+			"description": "ベンダー固有の情報を含むオプションのマップです。このフィールドが存在する場合、CMake では、これがマップであることを確認する場合を除いて、その内容が解釈されることはありません。しかし、キーは、ベンダー固有のドメイン名の後に、/ 区切りのパスを続けたものにする必要があります。たとえば、Example IDE 1.0 の場合は example.com/ExampleIDE/1.0 のようにします。各フィールドの値にはベンダーが必要とする任意のものを使用できますが、通常はマップです。",
+			"properties": {}
+		}
+	},
+	"additionalProperties": false,
+	"definitions": {
+		"condition": {
+			"anyOf": [
+				{
+					"type": "boolean",
+					"description": "条件の評価に定数値を提供するブール値。"
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "条件の種類を指定する必須の文字列。",
+							"const": "const"
+						},
+						"value": {
+							"type": "boolean",
+							"description": "条件の評価に定数値を提供する必須のブール値。"
+						}
+					},
+					"required": [
+						"type",
+						"value"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "条件の種類を指定する必須の文字列。",
+							"const": "equals"
+						},
+						"lhs": {
+							"type": "string",
+							"description": "比較する 1 つ目の文字列。このフィールドはマクロ展開をサポートしています。"
+						},
+						"rhs": {
+							"type": "string",
+							"description": "比較する 2 つ目の文字列。このフィールドはマクロ展開をサポートしています。"
+						}
+					},
+					"required": [
+						"type",
+						"lhs",
+						"rhs"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "条件の種類を指定する必須の文字列。",
+							"const": "notEquals"
+						},
+						"lhs": {
+							"type": "string",
+							"description": "比較する 1 つ目の文字列。このフィールドはマクロ展開をサポートしています。"
+						},
+						"rhs": {
+							"type": "string",
+							"description": "比較する 2 つ目の文字列。このフィールドはマクロ展開をサポートしています。"
+						}
+					},
+					"required": [
+						"type",
+						"lhs",
+						"rhs"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "条件の種類を指定する必須の文字列。",
+							"const": "inList"
+						},
+						"string": {
+							"type": "string",
+							"description": "検索が必須である文字列。このフィールドはマクロ展開をサポートしています。"
+						},
+						"list": {
+							"type": "array",
+							"description": "検索が必須である文字列の一覧。このフィールドはマクロ展開をサポートし、短絡評価を使用します。",
+							"items": {
+								"type": "string"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"list"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "条件の種類を指定する必須の文字列。",
+							"const": "notInList"
+						},
+						"string": {
+							"type": "string",
+							"description": "検索が必須である文字列。このフィールドはマクロ展開をサポートしています。"
+						},
+						"list": {
+							"type": "array",
+							"description": "検索が必須である文字列の一覧。このフィールドはマクロ展開をサポートし、短絡評価を使用します。",
+							"items": {
+								"type": "string"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"list"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "条件の種類を指定する必須の文字列。",
+							"const": "matches"
+						},
+						"string": {
+							"type": "string",
+							"description": "検索が必須である文字列。このフィールドはマクロ展開をサポートしています。"
+						},
+						"regex": {
+							"type": "string",
+							"description": "検索が必須である正規表現。このフィールドはマクロ展開をサポートしています。"
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"regex"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "条件の種類を指定する必須の文字列。",
+							"const": "notMatches"
+						},
+						"string": {
+							"type": "string",
+							"description": "検索が必須である文字列。このフィールドはマクロ展開をサポートしています。"
+						},
+						"regex": {
+							"type": "string",
+							"description": "検索が必須である正規表現。このフィールドはマクロ展開をサポートしています。"
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"regex"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "条件の種類を指定する必須の文字列。",
+							"const": "anyOf"
+						},
+						"conditions": {
+							"type": "array",
+							"description": "条件オブジェクトの必須配列。これらの条件は、短絡評価を使用します。",
+							"items": {
+								"$ref": "#/definitions/condition"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"conditions"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "条件の種類を指定する必須の文字列。",
+							"const": "allOf"
+						},
+						"conditions": {
+							"type": "array",
+							"description": "条件オブジェクトの必須配列。これらの条件は、短絡評価を使用します。",
+							"items": {
+								"$ref": "#/definitions/condition"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"conditions"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "条件の種類を指定する必須の文字列。",
+							"const": "not"
+						},
+						"condition": {
+							"$ref": "#/definitions/condition"
+						}
+					},
+					"required": [
+						"type",
+						"condition"
+					],
+					"additionalProperties": false
+				}
+			]
+		},
+		"topCondition": {
+			"description": "事前設定が有効であるかどうかを判断するために使用される、オプションのフィールド。バージョン 3 でサポートされています。",
+			"anyOf": [
+				{
+					"$ref": "#/definitions/condition"
+				},
+				{
+					"type": "null",
+					"description": "null 値は、条件が常に true に評価され、継承されないことを示します。"
+				}
+			]
+		}
+	}
+}

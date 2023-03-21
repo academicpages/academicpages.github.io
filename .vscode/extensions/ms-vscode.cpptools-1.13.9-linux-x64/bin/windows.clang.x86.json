@@ -1,0 +1,7 @@
+{
+  "defaults": [
+    "--pack_alignment",
+    "8"
+  ],
+  "defaults_op": "merge"
+}

@@ -1,0 +1,18 @@
+  {
+    "defaults": [
+      "-D_MSC_EXTENSIONS",
+      "--microsoft",
+      "--microsoft_bugs",
+      "--microsoft_version",
+      "1932",
+      "--pack_alignment",
+      "8",
+      "-D_CPPUNWIND=1",
+      "-D_MSC_VER=1932",
+      "-D_MSC_FULL_VER=193231326",
+      "-D_MSC_BUILD=0",
+      "-D_M_X64=100",
+      "-D_M_AMD64=100"
+    ],
+    "defaults_op": "merge"
+  }

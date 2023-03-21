@@ -1,0 +1,102 @@
+{
+	"type": "array",
+	"description": "Kits do CMake",
+	"items": {
+		"type": "object",
+		"description": "Um kit",
+		"additionalProperties": false,
+		"properties": {
+			"name": {
+				"type": "string",
+				"description": "Nome deste kit"
+			},
+			"description": {
+				"type": "string",
+				"description": "The description of this kit"
+			},
+			"vendor": {
+				"type": "string",
+				"description": "O nome do fornecedor deste kit"
+			},
+			"triple": {
+				"type": "string",
+				"description": "O triplo destino deste kit"
+			},
+			"version": {
+				"type": "string",
+				"description": "A versão deste kit"
+			},
+			"versionRuntime": {
+				"type": "string",
+				"description": "A versão do runtime C do kit"
+			},
+			"keep": {
+				"type": "boolean",
+				"description": "Se for `true`, este kit será mantido mesmo que pareça estar desatualizado."
+			},
+			"compilers": {
+				"type": "object",
+				"patternProperties": {
+					"\\w+": {
+						"type": "string",
+						"description": "Caminho para um compilador para este idioma"
+					}
+				}
+			},
+			"toolchainFile": {
+				"type": "string",
+				"description": "Caminho para um arquivo de cadeia de ferramentas"
+			},
+			"visualStudio": {
+				"type": "string",
+				"description": "ID da instância do produto do Visual Studio"
+			},
+			"visualStudioArchitecture": {
+				"type": "string",
+				"description": "Arquitetura a ser direcionada"
+			},
+			"environmentSetupScript": {
+				"type": "string",
+				"description": "O caminho absoluto para um script que modifica o ambiente do Kit"
+			},
+			"environmentVariables": {
+				"type": "object",
+				"patternProperties": {
+					".*": {
+						"type": "string",
+						"description": "Valor para a variável de ambiente"
+					}
+				}
+			},
+			"cmakeSettings": {
+				"type": "object",
+				"patternProperties": {
+					".*": {
+						"description": "Valor para a Configuração do CMake"
+					}
+				}
+			},
+			"preferredGenerator": {
+				"type": "object",
+				"description": "Definir um gerador de CMake preferencial para este Kit",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Nome do gerador a ser usado"
+					},
+					"platform": {
+						"type": "string",
+						"description": "Plataforma CMake para um argumento -A"
+					},
+					"toolset": {
+						"type": "string",
+						"description": "Conjunto de ferramentas CMake para o argumento -T"
+					}
+				},
+				"required": [
+					"name"
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,17 @@
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/*!
+ * Microsoft Dynamic Proto Utility, 1.1.7
+ * Copyright (c) Microsoft and contributors. All rights reserved.
+ */
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <feross@feross.org> <http://feross.org>
+ * @license  MIT
+ */

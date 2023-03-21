@@ -1,0 +1,15 @@
+## extensions
+*.*
+!*.js
+# !*.json ← todo integreate with https://www.npmjs.com/package/eslint-plugin-json
+# !*.ts ← todo integrate with https://github.com/typescript-eslint/typescript-eslint
+
+
+## same as in .gitignore
+.vscode-test
+*.vsix
+node_modules
+out
+
+
+## special cases

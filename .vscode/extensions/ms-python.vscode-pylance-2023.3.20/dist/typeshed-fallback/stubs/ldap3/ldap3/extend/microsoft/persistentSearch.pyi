@@ -1,0 +1,16 @@
+from _typeshed import Incomplete
+from typing import Any
+
+class ADPersistentSearch:
+    connection: Any
+    message_id: Any
+    base: Any
+    scope: Any
+    attributes: Any
+    controls: Any
+    filter: str
+    def __init__(self, connection, search_base, search_scope, attributes, streaming, callback) -> None: ...
+    def start(self) -> None: ...
+    def stop(self, unbind: bool = ...) -> None: ...
+    def next(self, block: bool = ..., timeout: Incomplete | None = ...): ...
+    def funnel(self, block: bool = ..., timeout: Incomplete | None = ...) -> None: ...

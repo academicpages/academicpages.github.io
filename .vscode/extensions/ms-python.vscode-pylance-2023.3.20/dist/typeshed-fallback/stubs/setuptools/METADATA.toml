@@ -1,0 +1,4 @@
+version = "67.4.*"
+
+[tool.stubtest]
+ignore_missing_stub = true

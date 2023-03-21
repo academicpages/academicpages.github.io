@@ -1,0 +1,12 @@
+{
+  "defaultSeverity": "error",
+  "extends": ["tslint:recommended", "tslint-config-prettier"],
+  "rules": {
+    "interface-name": [true, "never-prefix"],
+    "member-ordering": false, // TODO: enable and sort MarkdownPreviewEnhancedView
+    "no-string-literal": false,
+    "object-literal-sort-keys": false,
+    "prefer-for-of": false,
+    "no-eval": false
+  }
+}

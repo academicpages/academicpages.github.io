@@ -1,0 +1,1372 @@
+{
+	"type": "object",
+	"description": "Ön ayarlar, oluşturucu ile derleme dizininin yanı sıra isteğe bağlı olarak CMake'e geçirilecek değişkenlerin ve diğer bağımsız değişkenlerin listesini belirtir.",
+	"required": [
+		"version"
+	],
+	"properties": {
+		"version": {
+			"type": "integer",
+			"description": "JSON şemasının sürümünü temsil eden gerekli bir tamsayı."
+		},
+		"cmakeMinimumRequired": {
+			"type": "object",
+			"description": "Bu projeyi derlemek için gereken en düşük CMake sürümünü temsil eden isteğe bağlı bir nesne.",
+			"properties": {
+				"major": {
+					"type": "integer",
+					"description": "Ana sürümü temsil eden isteğe bağlı bir tamsayı."
+				},
+				"minor": {
+					"type": "integer",
+					"description": "İkincil sürümü temsil eden isteğe bağlı bir tamsayı."
+				},
+				"patch": {
+					"type": "integer",
+					"description": "Yama sürümünü temsil eden isteğe bağlı bir tamsayı."
+				}
+			},
+			"additionalProperties": false
+		},
+		"configurePresets": {
+			"type": "array",
+			"description": "Yapılandırma ön ayar nesnelerinin isteğe bağlı bir dizisi.",
+			"items": {
+				"type": "object",
+				"description": "Yapılandırma ön ayar nesnesi.",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Ön ayarın makineye uygun adını temsil eden gerekli bir dize. Bu tanımlayıcı, --preset bağımsız değişkeninde kullanılır. Aynı ada sahip aynı dizindeki CMakePresets.json ile CMakeUserPresets.json birleşiminde iki ön ayar bulunmamalıdır.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Bir ön ayarın gizlenip gizlenmeyeceğini belirten isteğe bağlı Boole değeri. Bir ön ayar gizliyse, --preset= bağımsız değişkeninde kullanılamaz, CMake GUI'de gösterilmez ve devralmadan bile geçerli bir oluşturucu veya binaryDir içermesi gerekmez. Gizli ön ayarlar, inherits alanı aracılığıyla devralınacak diğer ön ayarlar için bir temel olarak kullanılmak üzere tasarlanmıştır."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Devralınacak ön ayarın adını temsil eden isteğe bağlı bir dize.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Devralınacak ön ayarların adlarını temsil eden isteğe bağlı dize dizisi. Ön ayar, devralma ön ayarlarındaki tüm alanları varsayılan olarak devralır (name, hidden, inherits, description ve displayName dışında), ancak bunları istendiği şekilde geçersiz kılabilir. Birden çok devralma ön ayarı aynı alan için çakışan değerler sağlıyorsa devralma listesindeki önceki ön ayar tercih edilir. CMakePresets.json içindeki ön ayarlar, CMakeUserPresets.json içindeki ön ayarlardan devralmamalıdır.",
+								"items": {
+									"type": "string",
+									"description": "Devralınacak ön ayarın adını temsil eden isteğe bağlı bir dize.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Satıcıya özgü bilgileri içeren isteğe bağlı bir eşleme. CMake, varsa bir eşleme olduğunu doğrulamak dışında bu alanın içeriklerini yorumlamaz. Ancak, kök düzeyindeki satıcı alanıyla aynı kurallara uymalıdır. Satıcılar kendi ön ayar başına satıcı alanını kullanıyorsa, uygun olduğunda devralmayı duyarlı bir şekilde uygulamalıdır.",
+						"properties": {
+							"microsoft.com/VisualStudioSettings/CMake/1.0": {
+								"type": "object",
+								"description": "Visual Studio Ayarları satıcı nesnesini temsil eden isteğe bağlı nesne",
+								"properties": {
+									"hostOS": {
+										"anyOf": [
+											{
+												"type": "string",
+												"description": "Konak işletim sistemi adını temsil eden isteğe bağlı dize. Kabul edilen değerler Windows, Linux ve macOS'tir.",
+												"enum": [
+													"Windows",
+													"Linux",
+													"macOS"
+												]
+											},
+											{
+												"type": "array",
+												"description": "Desteklenen konak işletim sistemlerinin dizisi. Bu anahtar Visual Studio ve Visual Studio Code tarafından, etkin hedef sistem veya konak işletim sistemi için geçerli olmayan ön ayarları gizlemek için kullanılır. Kabul edilen değerler Windows, Linux ve macOS'dir.",
+												"items": {
+													"type": "string",
+													"description": "Konak işletim sistemi adını temsil eden isteğe bağlı dize. Kabul edilen değerler Windows, Linux ve macOS'tir.",
+													"enum": [
+														"Windows",
+														"Linux",
+														"macOS"
+													]
+												}
+											}
+										]
+									},
+									"intelliSenseMode": {
+										"type": "string",
+										"description": "Tercih edilen IntelliSense modunu gösteren isteğe bağlı anahtar. Visual Studio ve Visual Studio Code'da IntelliSense bilgilerini işlemek için kullanılan mod.",
+										"enum": [
+											"windows-msvc-x86",
+											"windows-msvc-x64",
+											"windows-msvc-arm",
+											"windows-msvc-arm64",
+											"android-clang-x86",
+											"android-clang-x64",
+											"android-clang-arm",
+											"android-clang-arm64",
+											"ios-clang-x86",
+											"ios-clang-x64",
+											"ios-clang-arm",
+											"ios-clang-arm64",
+											"windows-clang-x86",
+											"windows-clang-x64",
+											"windows-clang-arm",
+											"windows-clang-arm64",
+											"linux-gcc-x86",
+											"linux-gcc-x64",
+											"linux-gcc-arm"
+										]
+									},
+									"intelliSenseOptions": {
+										"type": "object",
+										"description": "Gelişmiş IntelliSense ayarlarını yapılandırmak için kullanılan isteğe bağlı nesne.",
+										"properties": {
+											"useCompilerDefaults": {
+												"type": "boolean",
+												"default": true,
+												"description": "IntelliSense için derleyicinin varsayılan tanımlarının ve ekleme yollarının kullanılıp kullanılmayacağını belirtir. Yalnızca kullanılan derleyiciler gcc stilindeki bağımsız değişkenlerini desteklemiyorsa false olmalıdır."
+											},
+											"additionalCompilerArgs": {
+												"anyOf": [
+													{
+														"type": "string",
+														"default": "empty"
+													},
+													{
+														"type": "array",
+														"description": "Visual Studio'da IntelliSense'i denetlemeye yönelik ek seçenekler dizisi.",
+														"items": {
+															"type": "string"
+														}
+													}
+												]
+											}
+										}
+									},
+									"enableMicrosoftCodeAnalysis": {
+										"type": "boolean",
+										"description": "cl veya clang-cl ile derlerken Visual Studio'da Microsoft kod analizini etkinleştirin."
+									},
+									"codeAnalysisRuleset": {
+										"type": "string",
+										"description": "Visual Studio'da Microsoft kod analizi çalıştırırken kullanılacak kural kümesi. Bu, bir kural kümesi dosyasının yolu veya Visual Studio ile yüklenmiş bir kural kümesi dosyasının adı olabilir."
+									},
+									"enableClangTidyCodeAnalysis": {
+										"type": "boolean",
+										"description": "clang-cl ile derlerken Visual Studio'da Clang-Tidy kod analizini etkinleştirin."
+									},
+									"clangTidyChecks": {
+										"type": "string",
+										"description": "Visual Studio'da Clang-Tidy kod analizi çalıştırılırken Clang-Tidy'ye geçirilen uyarıların virgülle ayrılmış listesi. Joker karakterlere izin verilir ve '-' ön eki, denetimleri kaldırır."
+									},
+									"cacheRoot": {
+										"type": "string",
+										"description": "CMake önbelleğinin yolu. Bu dizin mevcut bir CMakeCache.txt dosyası içermelidir. Bu anahtar yalnızca Visual Studio'daki \"Mevcut Önbelleği Aç\" senaryosu tarafından desteklenir."
+									},
+									"cmakeGenerateCommand": {
+										"type": "string",
+										"description": "CMake önbelleğini oluşturmaya yönelik komut satırı aracı (komut satırı programı + bağımsız değişkenler olarak belirtilir, örneğin \"gencache.bat debug\"). Önbellek oluşturma işlemi çağrıldığında, bu komut ön ayarın belirtilen ortamındaki kabuktan çalıştırılır. Bu anahtar yalnızca Visual Studio'daki \"Mevcut Önbelleği Aç\" senaryosu tarafından desteklenir."
+									}
+								}
+							},
+							"microsoft.com/VisualStudioRemoteSettings/CMake/1.0": {
+								"type": "object",
+								"description": "Visual Studio Uzak Ayarları satıcı nesnesini temsil eden isteğe bağlı nesne",
+								"properties": {
+									"sourceDir": {
+										"type": "string",
+										"default": "$env{HOME}/.vs/${sourceDirName}",
+										"description": "Uzak sistemdeki dizinin veya projenin kopyalanacağı WSL2 yüklemesinin yolu."
+									},
+									"copySources": {
+										"type": "boolean",
+										"default": "true",
+										"description": "True ise Visual Studio, kaynakları Windows'tan uzak sisteme kopyalar. Dosya eşitlemesini kendiniz yönetiyorsanız false olarak ayarlayın."
+									},
+									"copySourcesOptions": {
+										"type": "object",
+										"description": "Windows'tan uzak sisteme kaynak kopyalamayla ilgili ayarların nesnesi.",
+										"properties": {
+											"exclusionList": {
+												"type": "array",
+												"default": "[ \".vs\", \".git\", \"out\"]",
+												"description": "Kaynak dosyalar uzak sisteme kopyalanırken hariç tutulacak yolların listesi. Yol, dosyanın veya dizinin adı ya da kopyanın köküne göreli bir yol olabilir.",
+												"items": {
+													"type": "string"
+												}
+											},
+											"method": {
+												"type": "string",
+												"default": "rsync",
+												"description": "Kaynak dosyaları uzak sisteme kopyalamak için kullanılan yöntem. Kabul edilen değerler rsync ve sftp'dir."
+											},
+											"concurrentCopies": {
+												"type": "integer",
+												"default": 5,
+												"description": "Kaynakların uzak sistemle eşitlenmesi sırasında kullanılan eş zamanlı kopyaların sayısı."
+											},
+											"outputVerbosity": {
+												"type": "string",
+												"default": "Normal",
+												"description": "Uzak sisteme yönelik kaynak kopyalama işlemlerinin ayrıntı düzeyi. Kabul edilen düzeyler: Normal, Ayrıntılı ve Tanılama.",
+												"enum": [
+													"Normal",
+													"Verbose",
+													"Diagnostic"
+												]
+											}
+										}
+									},
+									"rsyncCommandArgs": {
+										"type": "array",
+										"default": "[\"-t\", \"--delete\", \"--delete-excluded\"]",
+										"description": "rsync'e geçirilen ek komut satırı bağımsız değişkenlerinin listesi.",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyBuildOutput": {
+										"type": "boolean",
+										"default": false,
+										"description": "Derleme çıkışının, uzak sistemden Windows'a geri kopyalanıp kopyalanmayacağını belirtir."
+									},
+									"copyOptimizations": {
+										"type": "object",
+										"description": "Kaynak kopya iyileştirmeleriyle ilgili ayarların nesnesi.",
+										"properties": {
+											"maxSmallChange": {
+												"type": "integer",
+												"default": 10,
+												"description": "rsync yerine sftp kullanılarak kopyalanacak en yüksek dosya sayısı."
+											},
+											"useOptimizations": {
+												"type": "string",
+												"default": "RsyncAndSftp",
+												"description": "Kopya iyileştirmesi yok (\"None\"), yalnızca rsync iyileştirmeleri (\"RsyncOnly\") ya da rsync ve sftp iyileştirmeleri (\"RsyncAndSftp\") seçeneklerinden birini belirleyin.",
+												"enum": [
+													"None",
+													"RsyncOnly",
+													"RsyncAndSftp"
+												]
+											},
+											"rsyncSingleDirectoryCommandArgs": {
+												"type": "array",
+												"default": "[\"-t\", \"-d\"]",
+												"description": "Tek bir dizinin içerikleri uzak sisteme kopyalanırken rsync'e geçirilen ek komut satırı bağımsız değişkenlerinin listesi.",
+												"items": {
+													"type": "string"
+												}
+											}
+										}
+									},
+									"copyAdditionalIncludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "IntelliSense için yerel olarak kopyalanacak uzak üst bilgi dizinlerinin yol listesi.",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyExcludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "IntelliSense için yerel olarak kopyalanmayacak uzak üst bilgi dizinlerinin yol listesi.",
+										"items": {
+											"type": "string"
+										}
+									},
+									"forceWSL1Toolset": {
+										"type": "boolean",
+										"default": false,
+										"description": "True ise Visual Studio'daki WSL hedeflenirken Visual Studio her zaman WSL1 araç takımını kullanır. WSL1 araç takımı tüm komutları yerel olarak yürütür ve WSL'deki yerel kaynak dosyalara erişmek için /mnt klasörünün altına bağlanan Windows sürücülerine bağımlıdır. Bu işlemler WSL2 ile daha yavaş olabilir."
+									}
+								}
+							}
+						}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Ön ayarın kolay adını içeren isteğe bağlı bir dize."
+					},
+					"description": {
+						"type": "string",
+						"description": "Ön ayarın basit bir açıklamasını içeren isteğe bağlı bir dize."
+					},
+					"generator": {
+						"type": "string",
+						"description": "Ön ayar için kullanılacak oluşturucuyu temsil eden isteğe bağlı bir dize. Oluşturucu belirtilmediyse, normal oluşturucu bulma yordamı kullanılır. Visual Studio oluşturucuları için, komut satırı -G bağımsız değişkeninin aksine, oluşturucu adına platform adını dahil edemeyeceğinizi unutmayın. Bunun yerine mimari alanını kullanın."
+					},
+					"architecture": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Bir platformu destekleyen oluşturucular için ilgili platformu temsil eden isteğe bağlı dize."
+							},
+							{
+								"type": "object",
+								"description": "Bir platformu destekleyen oluşturucular için ilgili platformu temsil eden isteğe bağlı nesne.",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "Değeri temsil eden isteğe bağlı dize."
+									},
+									"strategy": {
+										"type": "string",
+										"description": "CMake'e alanı nasıl işleyeceğini belirten isteğe bağlı dize. Geçerli değerler: \"set\" İlgili değeri ayarlayın. Bu, ilgili alanı desteklemeyen oluşturuculara yönelik bir hatayla sonuçlanır. \"external\" Oluşturucu desteklese bile değeri ayarlamayın. Bu, örneğin bir ön ayar Ninja oluşturucusunu kullanıyorsa ve IDE, Visual C++ ortamını mimari ve araç takımı alanlarından nasıl ayarlayacağını bildiğinde yararlıdır. Bu durumda CMake alanı yoksayar ancak IDE, CMake'i çağırmadan önce ortamı ayarlamak için bunları kullanılabilir.",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"toolset": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Bir araç takımını destekleyen oluşturucular için ilgili araç takımını temsil eden isteğe bağlı dize."
+							},
+							{
+								"type": "object",
+								"description": "Bir araç takımını destekleyen oluşturucular için ilgili araç takımını temsil eden isteğe bağlı nesne.",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "Değeri temsil eden isteğe bağlı dize."
+									},
+									"strategy": {
+										"type": "string",
+										"description": "CMake'e alanı nasıl işleyeceğini belirten isteğe bağlı dize. Geçerli değerler: \"set\" İlgili değeri ayarlayın. Bu, ilgili alanı desteklemeyen oluşturuculara yönelik bir hatayla sonuçlanır. \"external\" Oluşturucu desteklese bile değeri ayarlamayın. Bu, örneğin bir ön ayar Ninja oluşturucusunu kullanıyorsa ve IDE, Visual C++ ortamını mimari ve araç takımı alanlarından nasıl ayarlayacağını bildiğinde yararlıdır. Bu durumda CMake alanı yoksayar ancak IDE, CMake'i çağırmadan önce ortamı ayarlamak için bunları kullanılabilir.",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"binaryDir": {
+						"type": "string",
+						"description": "Çıkış ikili dizininin yolunu temsil eden isteğe bağlı bir dize. Bu alan makro genişletmeyi destekliyor. Göreli bir yol belirtilirse, kaynak dizine göre hesaplanır. binaryDir belirtilmezse, yol normal yöntemler kullanılarak hesaplanır."
+					},
+					"cmakeExecutable": {
+						"type": "string",
+						"description": "Bu ön ayar için kullanılacak CMake yürütülebilir dosyasının yolunu temsil eden isteğe bağlı bir dize. Bu IDE'ler tarafından kullanılmak üzere ayrılmıştır ve CMake'in kendisi tarafından kullanılmaz. Bu alanı kullanan IDE'ler, içindeki tüm makroları genişletmelidir."
+					},
+					"cacheVariables": {
+						"type": "object",
+						"description": "Önbellek değişkenlerinin isteğe bağlı bir haritası. Anahtar, değişken adıdır (bu boş bir dize olmamalıdır). Önbellek değişkenleri, devralma alanı aracılığıyla devralınır ve ön ayarın değişkenleri kendi cacheVariables'ının ve tüm üst öğelerindeki cacheVariables'ın birleşiminden oluşur. Bu birleşimdeki birden çok ön ayar aynı değişkeni tanımlarsa, devralmanın standart kuralları uygulanır.",
+						"properties": {
+							"CMAKE_C_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "C için kullanılacak derleyici."
+									},
+									{
+										"type": "null",
+										"description": "Bir değişkenin null olarak ayarlanması, bir değer başka bir ön ayardan devralınsa bile değişkenin ayarlanmamasına neden olur."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_CXX_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "C++ için kullanılacak derleyici."
+									},
+									{
+										"type": "null",
+										"description": "Bir değişkenin null olarak ayarlanması, bir değer başka bir ön ayardan devralınsa bile değişkenin ayarlanmamasına neden olur."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_INSTALL_PREFIX": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "CMake tarafından kullanılan dizini yükleyin. Ön ayar sürüm 3 veya üzeri sürümlerini kullanırken bunun yerine \"installDir\" özelliğini kullanın."
+									},
+									{
+										"type": "null",
+										"description": "Bir değişkenin null olarak ayarlanması, bir değer başka bir ön ayardan devralınsa bile değişkenin ayarlanmamasına neden olur."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_TOOLCHAIN_FILE": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Araç zinciri dosyası CMake’e geçirildi. Ön ayar sürüm 3 veya üzeri sürümlerini kullanırken bunun yerine \"toolchainFile\" özelliğini kullanın."
+									},
+									{
+										"type": "null",
+										"description": "Bir değişkenin null olarak ayarlanması, bir değer başka bir ön ayardan devralınsa bile değişkenin ayarlanmamasına neden olur."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_BUILD_TYPE": {
+								"description": "Tek yapılandırmalı oluşturucular üzerinde derleme türünü belirtir.",
+								"anyOf": [
+									{
+										"type": "string",
+										"enum": [
+											"Debug",
+											"Release",
+											"RelWithDebInfo",
+											"MinSizeRel"
+										]
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									},
+									{
+										"type": "string"
+									},
+									{
+										"type": "null",
+										"description": "Bir değişkenin null olarak ayarlanması, bir değer başka bir ön ayardan devralınsa bile değişkenin ayarlanmamasına neden olur."
+									}
+								]
+							}
+						},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Bir değişkenin null olarak ayarlanması, bir değer başka bir ön ayardan devralınsa bile değişkenin ayarlanmamasına neden olur."
+								},
+								{
+									"type": "boolean",
+									"description": "Değişkenin değerini temsil eden Boole değeri. \"TRUE\" veya \"FALSE\" ile eşdeğerdir."
+								},
+								{
+									"type": "string",
+									"description": "Değişkenin değerini temsil eden bir dize (makro genişletmeyi destekleyen)."
+								},
+								{
+									"type": "object",
+									"description": "Değişkenin türünü ve değerini gösteren bir nesne.",
+									"properties": {
+										"type": {
+											"type": "string",
+											"description": "Değişkenin türünü temsil eden isteğe bağlı bir dize. BOOL, FILEPATH, PATH, STRING veya INTERNAL olmalıdır."
+										},
+										"value": {
+											"anyOf": [
+												{
+													"type": "boolean",
+													"description": "Değişkenin değerini temsil eden gerekli Boole değeri. \"TRUE\" veya \"FALSE\" ile eşdeğerdir."
+												},
+												{
+													"type": "string",
+													"description": "Değişkenin değerini temsil eden gerekli bir dize. Bu alan makro genişletmeyi destekler."
+												}
+											]
+										}
+									},
+									"required": [
+										"value"
+									],
+									"additionalProperties": false
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"environment": {
+						"type": "object",
+						"description": "Ortam değişkenlerinin isteğe bağlı bir eşlemesi. Anahtar, değişken adıdır (bu boş dize olmamalıdır). Her değişken, işlemin ortamı tarafından kendisine bir değer verilip verilmediğinden bağımsız olarak ayarlanır. Bu alan makro genişletmeyi destekler ve bu eşlemedeki ortam değişkenleri birbirine başvurabilir. Ayrıca, bu tür başvurular bir döngüye neden olmadığı sürece bu değişkenler herhangi bir sırada listelenebilir (örneğin ENV_1, $env{ENV_2} ise ENV_2, $env{ENV_1} olmayabilir.) Ortam değişkenleri devralma alanı aracılığıyla devralınır ve ön ayarın ortamı, kendi ortamının ve tüm üst öğelerindeki ortamın birleşiminden oluşur. Bu birleşimdeki birden çok ön ayar aynı değişkeni tanımlarsa, standart devralma kuralları uygulanır. Bir değişkenin null olarak ayarlanması, bir değer başka bir ön ayardan devralınsa bile değişkenin ayarlanmamasına neden olur.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Bir değişkenin null olarak ayarlanması, bir değer başka bir ön ayardan devralınsa bile değişkenin ayarlanmamasına neden olur."
+								},
+								{
+									"type": "string",
+									"description": "Değişkenin değerini temsil eden bir dize."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"warnings": {
+						"type": "object",
+						"description": "Uyarıları belirten isteğe bağlı bir nesne.",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "İsteğe bağlı bir Boolean. Komut satırında -Wdev veya -Wno-dev geçirilmesiyle eşdeğerdir. errors.dev true olarak ayarlanırsa bu, false olarak ayarlanmayabilir."
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "İsteğe bağlı bir Boolean. Komut satırında -Wdeprecated veya -Wno-deprecated geçirilmesine eşdeğerdir. errors.deprecated true olarak ayarlanırsa bu, false olarak ayarlanmayabilir."
+							},
+							"uninitialized": {
+								"type": "boolean",
+								"description": "İsteğe bağlı bir Boolean. Bunun true olarak ayarlanması, komut satırında --warn-uninitialized geçirilmesiyle eşdeğerdir."
+							},
+							"unusedCli": {
+								"type": "boolean",
+								"description": "İsteğe bağlı bir Boolean. Bunun false olarak ayarlanması, komut satırında --no-warn-unused-cli geçirilmesiyle eşdeğerdir."
+							},
+							"systemVars": {
+								"type": "boolean",
+								"description": "İsteğe bağlı bir Boolean. Bunun true olarak ayarlanması, komut satırında --check-system-vars geçirilmesiyle eşdeğerdir."
+							}
+						},
+						"additionalProperties": false
+					},
+					"errors": {
+						"type": "object",
+						"description": "Hata belirten isteğe bağlı bir nesne.",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "İsteğe bağlı bir Boolean. Komut satırında -Werror=dev or -Wno-error=dev geçirilmesine eşdeğerdir. warnings.dev false olarak ayarlanırsa bu, true olarak ayarlanmayabilir."
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "İsteğe bağlı bir Boolean. Komut satırında -Werror=deprecated or -Wno-error=deprecated geçirilmesine eşdeğerdir. warnings.deprecated false olarak ayarlanırsa bu, true olarak ayarlanmayabilir."
+							}
+						},
+						"additionalProperties": false
+					},
+					"debug": {
+						"type": "object",
+						"description": "Hata ayıklama seçeneklerini belirten isteğe bağlı nesne.",
+						"properties": {
+							"output": {
+								"type": "boolean",
+								"description": "İsteğe bağlı Boole değeri. Bunun true olarak ayarlanması, komut satırında --debug-output geçirilmesiyle eşdeğerdir."
+							},
+							"tryCompile": {
+								"type": "boolean",
+								"description": "İsteğe bağlı Boole değeri. Bunun true olarak ayarlanması, komut satırında --debug-trycompile geçirilmesiyle eşdeğerdir."
+							},
+							"find": {
+								"type": "boolean",
+								"description": "İsteğe bağlı Boole değeri. Bunun true olarak ayarlanması, komut satırında --debug-find geçirilmesiyle eşdeğerdir."
+							}
+						},
+						"additionalProperties": false
+					},
+					"installDir": {
+						"type": "string",
+						"description": "Yükleme dizini yolunu temsil eden isteğe bağlı dize. Bu alan makro genişletmeyi destekler. Göreli bir yol belirtilirse kaynak dizine göre hesaplanır."
+					},
+					"toolchainFile": {
+						"type": "string",
+						"description": "Araç zinciri dosyasının yolunu temsil eden isteğe bağlı dize. Bu alan makro genişletmeyi destekler. Göreli bir yol belirtilirse derleme dizinine göre hesaplanır ve bulunmazsa kaynak dizine göre hesaplanır."
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"buildPresets": {
+			"type": "array",
+			"description": "Derleme ön ayarı nesnelerinin isteğe bağlı bir dizisi. cmake --build'e yönelik bağımsız değişkenleri belirtmek için kullanılır. Sürüm 2 ve üzeri sürümlerde kullanılabilir.",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Ön ayarın makineye uygun adını temsil eden gerekli bir dize. Bu tanımlayıcı, --preset bağımsız değişkeninde kullanılır. Aynı dizindeki CMakePresets.json ile CMakeUserPresets.json birleşiminde aynı ada sahip iki ön ayar (yapılandırma, derleme veya test) bulunmamalıdır.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Bir ön ayarın gizlenip gizlenmeyeceğini belirten isteğe bağlı Boole değeri. Bir ön ayar gizliyse, --preset bağımsız değişkeninde kullanılamaz, CMake GUI'de gösterilmez ve devralmadan bile geçerli bir configurePreset içermesi gerekmez. Gizli ön ayarlar, inherits alanı aracılığıyla devralınacak diğer ön ayarlar için bir temel olarak kullanılmak üzere tasarlanmıştır."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Devralınacak derleme ön ayarının adını temsil eden isteğe bağlı bir dize.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Devralınacak derleme ön ayarlarının adlarını temsil eden isteğe bağlı bir dize dizisi. Ön ayar, devralma ön ayarlarındaki tüm alanları varsayılan olarak devralır (name, hidden, inherits, description ve displayName dışında), ancak bunları istendiği şekilde geçersiz kılabilir. Birden çok devralma ön ayarı aynı alan için çakışan değerler sağlıyorsa devralma listesindeki önceki ön ayar tercih edilir. CMakePresets.json içindeki ön ayarlar, CMakeUserPresets.json içindeki ön ayarlardan devralmamalıdır.",
+								"items": {
+									"type": "string",
+									"description": "Devralınacak ön ayarın adını temsil eden isteğe bağlı bir dize.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "Bu derleme ön ayarı ile ilişkilendirilecek yapılandırma ön ayarının adını belirten isteğe bağlı dize. configurePreset belirtilmemişse inherits ön ayarıyla devralınmalıdır (bu ön ayar gizli değilse). Derleme ağacı dizini, configure ön ayarından çıkarsanır.",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Satıcıya özgü bilgileri içeren isteğe bağlı bir eşleme. CMake, varsa bir eşleme olduğunu doğrulamak dışında bu alanın içeriklerini yorumlamaz. Ancak, kök düzeyindeki satıcı alanıyla aynı kurallara uymalıdır. Satıcılar kendi ön ayar başına satıcı alanını kullanıyorsa, uygun olduğunda devralmayı duyarlı bir şekilde uygulamalıdır.",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Ön ayarın kolay adını içeren isteğe bağlı bir dize."
+					},
+					"description": {
+						"type": "string",
+						"description": "Ön ayarın basit bir açıklamasını içeren isteğe bağlı bir dize."
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "Varsayılan olarak true değerini alan isteğe bağlı Boole değeri. True ise ilişkili yapılandırma ön ayarındaki ortam değişkenleri tüm devralınan derleme ön ayarı ortamlarından sonra, ancak bu derleme ön ayarında açıkça belirtilen ortam değişkenlerinden önce devralınır."
+					},
+					"environment": {
+						"type": "object",
+						"description": "Ortam değişkenlerinin isteğe bağlı bir eşlemesi. Anahtar, değişken adıdır (bu boş dize olmamalıdır). Her değişken, işlemin ortamı tarafından kendisine bir değer verilip verilmediğinden bağımsız olarak ayarlanır. Bu alan makro genişletmeyi destekler ve bu eşlemedeki ortam değişkenleri birbirine başvurabilir. Ayrıca, bu tür başvurular bir döngüye neden olmadığı sürece bu değişkenler herhangi bir sırada listelenebilir (örneğin ENV_1, $env{ENV_2} ise ENV_2, $env{ENV_1} olmayabilir.) Ortam değişkenleri devralma alanı aracılığıyla devralınır ve ön ayarın ortamı, kendi ortamının ve tüm üst öğelerindeki ortamın birleşiminden oluşur. Bu birleşimdeki birden çok ön ayar aynı değişkeni tanımlarsa, standart devralma kuralları uygulanır. Bir değişkenin null olarak ayarlanması, bir değer başka bir ön ayardan devralınsa bile değişkenin ayarlanmamasına neden olur.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Bir değişkenin null olarak ayarlanması, bir değer başka bir ön ayardan devralınsa bile değişkenin ayarlanmamasına neden olur."
+								},
+								{
+									"type": "string",
+									"description": "Değişkenin değerini temsil eden bir dize."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"jobs": {
+						"type": "integer",
+						"description": "İsteğe bağlı tamsayı. Komut satırında --parallel veya -j geçirmekle eşdeğerdir."
+					},
+					"targets": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "İsteğe bağlı dize. Komut satırında --target veya -t geçirmekle eşdeğerdir. Satıcılar, targets özelliğini yoksayabilir veya targets'ı açıkça belirten derleme ön ayarlarını gizleyebilir."
+							},
+							{
+								"type": "array",
+								"description": "İsteğe bağlı dizeler dizisi. Komut satırında --target veya -t geçirmekle eşdeğerdir. Satıcılar, targets özelliğini yoksayabilir veya targets'ı açıkça belirten derleme ön ayarlarını gizleyebilir.",
+								"items": {
+									"type": "string",
+									"description": "İsteğe bağlı dize. Komut satırında --target veya -t geçirmekle eşdeğerdir. Satıcılar, targets özelliğini yoksayabilir veya targets'ı açıkça belirten derleme ön ayarlarını gizleyebilir."
+								}
+							}
+						]
+					},
+					"configuration": {
+						"type": "string",
+						"description": "İsteğe bağlı dize. Komut satırında --config geçirmekle eşdeğerdir."
+					},
+					"cleanFirst": {
+						"type": "boolean",
+						"description": "İsteğe bağlı Boole değeri. True ise komut satırında --clean-first geçirmekle eşdeğerdir."
+					},
+					"resolvePackageReferences": {
+						"type": "string",
+						"description": "Paket çözümleme davranışını belirten isteğe bağlı dize. Geçerli değerler: \"on\" (paketler derlemeden önce çözümlenir), \"kapalı\" (paketler derlemeden önce çözümlenmez) ve \"only\" (paketler çözümlenir, ancak derleme gerçekleştirilmez).",
+						"enum": [
+							"on",
+							"off",
+							"only"
+						]
+					},
+					"verbose": {
+						"type": "boolean",
+						"description": "İsteğe bağlı Boole değeri. True ise komut satırında --verbose geçirmekle eşdeğerdir."
+					},
+					"nativeToolOptions": {
+						"type": "array",
+						"description": "İsteğe bağlı dizeler dizisi. Komut satırında -- sonrasında seçenekleri geçirmekle eşdeğerdir.",
+						"items": {
+							"type": "string",
+							"description": "Komut satırında -- sonrasında geçirilecek bir seçeneği temsil eden isteğe bağlı dize."
+						}
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"testPresets": {
+			"type": "array",
+			"description": "Test ön ayarı nesnelerinin isteğe bağlı dizisi. ctest'e yönelik bağımsız değişkenlerini belirtmek için kullanılır. Sürüm 2 ve üzeri sürümlerde kullanılabilir.",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Ön ayarın makineye uygun adını temsil eden gerekli bir dize. Bu tanımlayıcı, --preset bağımsız değişkeninde kullanılır. Aynı dizindeki CMakePresets.json ile CMakeUserPresets.json birleşiminde aynı ada sahip iki ön ayar (yapılandırma, derleme veya test) bulunmamalıdır.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Bir ön ayarın gizlenip gizlenmeyeceğini belirten isteğe bağlı Boole değeri. Bir ön ayar gizliyse, --preset bağımsız değişkeninde kullanılamaz, CMake GUI'de gösterilmez ve devralmadan bile geçerli bir configurePreset içermesi gerekmez. Gizli ön ayarlar, inherits alanı aracılığıyla devralınacak diğer ön ayarlar için bir temel olarak kullanılmak üzere tasarlanmıştır."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Devralınacak test ön ayarının adını temsil eden isteğe bağlı dize.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Devralınacak test ön ayarlarının adlarını temsil eden isteğe bağlı dize dizisi. Ön ayar, devralma ön ayarlarındaki tüm alanları varsayılan olarak devralır (name, hidden, inherits, description ve displayName dışında), ancak bunları istendiği şekilde geçersiz kılabilir. Birden çok devralma ön ayarı aynı alan için çakışan değerler sağlıyorsa devralma listesindeki önceki ön ayar tercih edilir. CMakePresets.json içindeki ön ayarlar, CMakeUserPresets.json içindeki ön ayarlardan devralmamalıdır.",
+								"items": {
+									"type": "string",
+									"description": "Devralınacak ön ayarın adını temsil eden isteğe bağlı bir dize.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "Bu test ön ayarı ile ilişkilendirilecek yapılandırma ön ayarının adını belirten isteğe bağlı dize. configurePreset belirtilmemişse inherits ön ayarından devralınmalıdır (bu ön ayar gizli değilse). Derleme ağacı dizini, configure ön ayarından çıkarsanır.",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Satıcıya özgü bilgileri içeren isteğe bağlı bir eşleme. CMake, varsa bir eşleme olduğunu doğrulamak dışında bu alanın içeriklerini yorumlamaz. Ancak, kök düzeyindeki satıcı alanıyla aynı kurallara uymalıdır. Satıcılar kendi ön ayar başına satıcı alanını kullanıyorsa, uygun olduğunda devralmayı duyarlı bir şekilde uygulamalıdır.",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Ön ayarın kolay adını içeren isteğe bağlı bir dize."
+					},
+					"description": {
+						"type": "string",
+						"description": "Ön ayarın basit bir açıklamasını içeren isteğe bağlı bir dize."
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "Varsayılan olarak true değerini alan isteğe bağlı Boole değeri. True ise ilişkili yapılandırma ön ayarındaki ortam değişkenleri tüm devralınan test ön ayarı ortamlarından sonra, ancak bu test ön ayarında açıkça belirtilen ortam değişkenlerinden önce devralınır."
+					},
+					"environment": {
+						"type": "object",
+						"description": "Ortam değişkenlerinin isteğe bağlı bir eşlemesi. Anahtar, değişken adıdır (bu boş dize olmamalıdır). Her değişken, işlemin ortamı tarafından kendisine bir değer verilip verilmediğinden bağımsız olarak ayarlanır. Bu alan makro genişletmeyi destekler ve bu eşlemedeki ortam değişkenleri birbirine başvurabilir. Ayrıca, bu tür başvurular bir döngüye neden olmadığı sürece bu değişkenler herhangi bir sırada listelenebilir (örneğin ENV_1, $env{ENV_2} ise ENV_2, $env{ENV_1} olmayabilir.) Ortam değişkenleri devralma alanı aracılığıyla devralınır ve ön ayarın ortamı, kendi ortamının ve tüm üst öğelerindeki ortamın birleşiminden oluşur. Bu birleşimdeki birden çok ön ayar aynı değişkeni tanımlarsa, standart devralma kuralları uygulanır. Bir değişkenin null olarak ayarlanması, bir değer başka bir ön ayardan devralınsa bile değişkenin ayarlanmamasına neden olur.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Bir değişkenin null olarak ayarlanması, bir değer başka bir ön ayardan devralınsa bile değişkenin ayarlanmamasına neden olur."
+								},
+								{
+									"type": "string",
+									"description": "Değişkenin değerini temsil eden bir dize."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"configuration": {
+						"type": "string",
+						"description": "İsteğe bağlı dize. Komut satırında --build-config geçirmekle eşdeğerdir."
+					},
+					"overwriteConfigurationFile": {
+						"type": "array",
+						"description": "CTest yapılandırma dosyasında belirtilen seçeneklerin üzerine yazılacak yapılandırma seçeneklerinin isteğe bağlı dizisi. Dizideki her değer için ``--overwrite`` geçirmekle eşdeğerdir.",
+						"items": {
+							"type": "string",
+							"description": "\"Anahtar=değer\" biçiminde anahtar-değer çifti olarak yazılan seçenek."
+						}
+					},
+					"output": {
+						"type": "object",
+						"description": "Çıkış seçeneklerini belirten isteğe bağlı nesne.",
+						"properties": {
+							"shortProgress": {
+								"type": "boolean",
+								"description": "İsteğe bağlı Boole değeri. True ise komut satırında --progress geçirmekle eşdeğerdir."
+							},
+							"verbosity": {
+								"type": "string",
+								"description": "Ayrıntı düzeyini belirten isteğe bağlı dize. Geçerli değerler: \"default\" (komut satırında ayrıntı düzeyi bayrağı geçirmemekle eşdeğerdir), \"verbose\" (komut satırında --verbose geçirmekle eşdeğerdir) ve \"extra\" (komut satırında --extra-verbose geçirmekle eşdeğerdir).",
+								"enum": [
+									"default",
+									"verbose",
+									"extra"
+								]
+							},
+							"debug": {
+								"type": "boolean",
+								"description": "İsteğe bağlı Boole değeri. True ise komut satırında --debug geçirmekle eşdeğerdir."
+							},
+							"outputOnFailure": {
+								"type": "boolean",
+								"description": "İsteğe bağlı Boole değeri. True ise komut satırında --output-on-failure geçirmekle eşdeğerdir."
+							},
+							"quiet": {
+								"type": "boolean",
+								"description": "İsteğe bağlı Boole değeri. True ise komut satırında --quiet geçirmekle eşdeğerdir."
+							},
+							"outputLogFile": {
+								"type": "string",
+								"description": "Günlük dosyasının yolunu belirten isteğe bağlı dize. Komut satırında --output-log geçirmekle eşdeğerdir."
+							},
+							"labelSummary": {
+								"type": "boolean",
+								"description": "İsteğe bağlı Boole değeri. False ise komut satırında --no-label-summary geçirmekle eşdeğerdir."
+							},
+							"subprojectSummary": {
+								"type": "boolean",
+								"description": "İsteğe bağlı Boole değeri. False ise komut satırında --no-subproject-summary geçirmekle eşdeğerdir."
+							},
+							"maxPassedTestOutputSize": {
+								"type": "integer",
+								"description": "Başarılı testler için bayt cinsinden en yüksek çıkışı belirten isteğe bağlı tamsayı. Komut satırında --test-output-size-passed geçirmekle eşdeğerdir."
+							},
+							"maxFailedTestOutputSize": {
+								"type": "integer",
+								"description": "Başarısız testler için bayt cinsinden en yüksek çıkışı belirten isteğe bağlı tamsayı. Komut satırında --test-output-size-failed geçirmekle eşdeğerdir."
+							},
+							"maxTestNameWidth": {
+								"type": "integer",
+								"description": "Çıkış için test adının en yüksek genişliğini belirten isteğe bağlı tamsayı. Komut satırında --max-width geçirmekle eşdeğerdir."
+							}
+						},
+						"additionalProperties": false
+					},
+					"filter": {
+						"type": "object",
+						"description": "Çalıştırılacak testlerin nasıl filtreleneceğini belirten isteğe bağlı nesne.",
+						"properties": {
+							"include": {
+								"type": "object",
+								"description": "Hangi testlerin dahil edileceğini belirten isteğe bağlı nesne.",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "Test adları için normal ifade belirten isteğe bağlı dize. Komut satırında --tests-regex geçirmekle eşdeğerdir."
+									},
+									"label": {
+										"type": "string",
+										"description": "Test etiketleri için normal ifade belirten isteğe bağlı dize. Komut satırında --label-regex geçirmekle eşdeğerdir."
+									},
+									"index": {
+										"anyOf": [
+											{
+												"type": "object",
+												"description": "Test dizinine göre dahil edilecek testleri belirten isteğe bağlı nesne.",
+												"properties": {
+													"start": {
+														"type": "integer",
+														"description": "Testin başlatılacağı test dizinini belirten isteğe bağlı tamsayı."
+													},
+													"end": {
+														"type": "integer",
+														"description": "Testin durdurulacağı test dizinini belirten isteğe bağlı tamsayı."
+													},
+													"stride": {
+														"type": "integer",
+														"description": "Artışı belirten isteğe bağlı tamsayı."
+													},
+													"specificTests": {
+														"type": "array",
+														"description": "Çalıştırılacak belirli test dizinlerini belirten tamsayıların isteğe bağlı dizisi.",
+														"items": {
+															"type": "integer",
+															"description": "Dizine göre çalıştırılacak testi belirten tamsayı."
+														}
+													}
+												},
+												"additionalProperties": false
+											},
+											{
+												"type": "string",
+												"description": "--tests-information için komut satırı söz dizimiyle bir dosyayı belirten isteğe bağlı dize."
+											}
+										]
+									},
+									"useUnion": {
+										"type": "boolean",
+										"description": "İsteğe bağlı Boole değeri. Komut satırında --union geçirmekle eşdeğerdir."
+									}
+								},
+								"additionalProperties": false
+							},
+							"exclude": {
+								"type": "object",
+								"description": "Hangi testlerin hariç tutulacağını belirten isteğe bağlı nesne.",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "Test adları için normal ifade belirten isteğe bağlı dize. Komut satırında --exclude-regex geçirmekle eşdeğerdir."
+									},
+									"label": {
+										"type": "string",
+										"description": "Test etiketleri için normal ifade belirten isteğe bağlı dize. Komut satırında --label-exclude geçirmekle eşdeğerdir."
+									},
+									"fixtures": {
+										"type": "object",
+										"description": "Hangi düzenlerin testlerin eklenmesinden hariç tutulacağını belirten isteğe bağlı nesne.",
+										"properties": {
+											"any": {
+												"type": "string",
+												"description": "Testlerin eklenmesinden hariç tutulacak metin düzenleri için normal ifade belirten isteğe bağlı dize. Komut satırında --fixture-exclude-any ile eşdeğerdir."
+											},
+											"setup": {
+												"type": "string",
+												"description": "Kurulum testlerinin eklenmesinden hariç tutulacak metin düzenleri için normal ifade belirten isteğe bağlı dize. Komut satırında --fixture-exclude-setup ile eşdeğerdir."
+											},
+											"cleanup": {
+												"type": "string",
+												"description": "Temizleme testlerinin eklenmesinden hariç tutulacak metin düzenleri için normal ifade belirten isteğe bağlı dize. Komut satırında --fixture-exclude-cleanup ile eşdeğerdir."
+											}
+										},
+										"additionalProperties": false
+									}
+								}
+							}
+						},
+						"additionalProperties": false
+					},
+					"execution": {
+						"type": "object",
+						"description": "Test yürütmesi için seçenekleri belirten isteğe bağlı nesne.",
+						"properties": {
+							"stopOnFailure": {
+								"type": "boolean",
+								"description": "İsteğe bağlı Boole değeri. True ise komut satırında --stop-on-failure geçirmekle eşdeğerdir."
+							},
+							"enableFailover": {
+								"type": "boolean",
+								"description": "İsteğe bağlı Boole değeri. True ise komut satırında -F geçirmekle eşdeğerdir."
+							},
+							"jobs": {
+								"type": "integer",
+								"description": "İsteğe bağlı tamsayı. Komut satırında --parallel geçirmekle eşdeğerdir."
+							},
+							"resourceSpecFile": {
+								"type": "string",
+								"description": "İsteğe bağlı dize. Komut satırında --resource-spec-file geçirmekle eşdeğerdir."
+							},
+							"testLoad": {
+								"type": "integer",
+								"description": "İsteğe bağlı tamsayı. Komut satırında --test-load geçirmekle eşdeğerdir."
+							},
+							"showOnly": {
+								"type": "string",
+								"description": "İsteğe bağlı dize. Komut satırında --show-only geçirmekle eşdeğerdir. Değer, \"human\" veya \"json-v1\" olmalıdır.",
+								"enum": [
+									"human",
+									"json-v1"
+								]
+							},
+							"repeat": {
+								"type": "object",
+								"description": "Testlerin nasıl yineleneceğini belirten isteğe bağlı nesne. Komut satırında --repeat geçirmekle eşdeğerdir.",
+								"properties": {
+									"mode": {
+										"type": "string",
+										"description": "Gerekli bir dize. Şu değerlerden biri olmalıdır: \"until-fail\", \"until-pass\" veya \"after-timeout\".",
+										"enum": [
+											"until-fail",
+											"until-pass",
+											"after-timeout"
+										]
+									},
+									"count": {
+										"type": "integer",
+										"description": "Gerekli bir tamsayı."
+									}
+								},
+								"required": [
+									"mode",
+									"count"
+								],
+								"additionalProperties": false
+							},
+							"interactiveDebugging": {
+								"type": "boolean",
+								"description": "İsteğe bağlı Boole değeri. True ise komut satırında --interactive-debug-mode 1 geçirmekle eşdeğerdir. False ise komut satırında --interactive-debug-mode 0 geçirmekle eşdeğerdir."
+							},
+							"scheduleRandom": {
+								"type": "boolean",
+								"description": "İsteğe bağlı Boole değeri. True ise komut satırında --schedule-random geçirmekle eşdeğerdir."
+							},
+							"timeout": {
+								"type": "integer",
+								"description": "İsteğe bağlı tamsayı. Komut satırında --timeout geçirmekle eşdeğerdir."
+							},
+							"noTestsAction": {
+								"type": "string",
+								"description": "Test bulunamazsa uygulanacak davranışı belirten isteğe bağlı dize. Şu değerlerden biri olmalıdır: \"default\" (komut satırında herhangi bir değer geçirmemekle eşdeğerdir), \"error\" (komut satırında --no-tests=error geçirmekle eşdeğerdir) veya \"ignore\" (komut satırında --no-tests-ignore geçirmekle eşdeğerdir).",
+								"enum": [
+									"default",
+									"error",
+									"ignore"
+								]
+							}
+						},
+						"additionalProperties": false
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"vendor": {
+			"type": "object",
+			"description": "Satıcıya özgü bilgileri içeren isteğe bağlı bir eşleme. CMake, varsa bir eşleme olduğunu doğrulamak dışında bu alanın içeriklerini yorumlamaz. Ancak anahtarlar, satıcıya özgü bir etki alanı adı ve ardından gelen /- ile ayrılan bir yol olmalıdır. Örneğin, Örnek IDE 1.0, example.com/ExampleIDE/1.0 kullanabilir. Her alanın değeri, satıcının istediği her şey olabilir, ancak genellikle bu bir eşleme olur.",
+			"properties": {}
+		},
+		"include": {
+			"type": "array",
+			"description": "Eklenecek dosyaları temsil eden isteğe bağlı dize dizisi. Dosya adları mutlak değilse, geçerli dosyaya göreli olarak kabul edilirler.",
+			"items": {
+				"type": "string"
+			}
+		}
+	},
+	"additionalProperties": false,
+	"definitions": {
+		"condition": {
+			"anyOf": [
+				{
+					"type": "boolean",
+					"description": "Koşul değerlendirmesi için sabit bir değer sağlayan boole."
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Koşulun türünü belirten gerekli dize.",
+							"const": "const"
+						},
+						"value": {
+							"type": "boolean",
+							"description": "Koşul değerlendirmesi için sabit bir değer sağlayan gerekli boole."
+						}
+					},
+					"required": [
+						"type",
+						"value"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Koşulun türünü belirten gerekli dize.",
+							"const": "equals"
+						},
+						"lhs": {
+							"type": "string",
+							"description": "Karşılaştırma yapmak için gerekli ilk dize. Bu alan makro genişletmeyi destekler."
+						},
+						"rhs": {
+							"type": "string",
+							"description": "Karşılaştırma yapmak için gerekli ikinci dize. Bu alan makro genişletmeyi destekler."
+						}
+					},
+					"required": [
+						"type",
+						"lhs",
+						"rhs"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Koşulun türünü belirten gerekli dize.",
+							"const": "notEquals"
+						},
+						"lhs": {
+							"type": "string",
+							"description": "Karşılaştırma yapmak için gerekli ilk dize. Bu alan makro genişletmeyi destekler."
+						},
+						"rhs": {
+							"type": "string",
+							"description": "Karşılaştırma yapmak için gerekli ikinci dize. Bu alan makro genişletmeyi destekler."
+						}
+					},
+					"required": [
+						"type",
+						"lhs",
+						"rhs"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Koşulun türünü belirten gerekli dize.",
+							"const": "inList"
+						},
+						"string": {
+							"type": "string",
+							"description": "Arama için gerekli dize. Bu alan makro genişletmeyi destekler."
+						},
+						"list": {
+							"type": "array",
+							"description": "Arama yapmak için gerekli dizeler listesi. Bu alan makro genişletmeyi destekler ve kısa devre değerlendirmesi kullanır.",
+							"items": {
+								"type": "string"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"list"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Koşulun türünü belirten gerekli dize.",
+							"const": "notInList"
+						},
+						"string": {
+							"type": "string",
+							"description": "Arama için gerekli dize. Bu alan makro genişletmeyi destekler."
+						},
+						"list": {
+							"type": "array",
+							"description": "Arama yapmak için gerekli dizeler listesi. Bu alan makro genişletmeyi destekler ve kısa devre değerlendirmesi kullanır.",
+							"items": {
+								"type": "string"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"list"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Koşulun türünü belirten gerekli dize.",
+							"const": "matches"
+						},
+						"string": {
+							"type": "string",
+							"description": "Arama yapmak için gerekli dize. Bu alan makro genişletmeyi destekler."
+						},
+						"regex": {
+							"type": "string",
+							"description": "Arama için gerekli normal ifade. Bu alan makro genişletmeyi destekler."
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"regex"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Koşulun türünü belirten gerekli dize.",
+							"const": "notMatches"
+						},
+						"string": {
+							"type": "string",
+							"description": "Arama yapmak için gerekli dize. Bu alan makro genişletmeyi destekler."
+						},
+						"regex": {
+							"type": "string",
+							"description": "Arama için gerekli normal ifade. Bu alan makro genişletmeyi destekler."
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"regex"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Koşulun türünü belirten gerekli dize.",
+							"const": "anyOf"
+						},
+						"conditions": {
+							"type": "array",
+							"description": "Gerekli koşul nesneleri dizisi. Bu koşullar kısa devre değerlendirmesi kullanır.",
+							"items": {
+								"$ref": "#/definitions/condition"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"conditions"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Koşulun türünü belirten gerekli dize.",
+							"const": "allOf"
+						},
+						"conditions": {
+							"type": "array",
+							"description": "Gerekli koşul nesneleri dizisi. Bu koşullar kısa devre değerlendirmesi kullanır.",
+							"items": {
+								"$ref": "#/definitions/condition"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"conditions"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Koşulun türünü belirten gerekli dize.",
+							"const": "not"
+						},
+						"condition": {
+							"$ref": "#/definitions/condition"
+						}
+					},
+					"required": [
+						"type",
+						"condition"
+					],
+					"additionalProperties": false
+				}
+			]
+		},
+		"topCondition": {
+			"description": "Bir ön ayarın etkin olup olmadığını belirlemek için kullanılan isteğe bağlı alan. Sürüm 3’te desteklenir.",
+			"anyOf": [
+				{
+					"$ref": "#/definitions/condition"
+				},
+				{
+					"type": "null",
+					"description": "Null, koşulun her zaman “True” olarak değerlendirildiğini ve devralınmadığını belirtir."
+				}
+			]
+		}
+	}
+}

@@ -1,0 +1,102 @@
+{
+	"type": "array",
+	"description": "CMake 工具包",
+	"items": {
+		"type": "object",
+		"description": "工具包",
+		"additionalProperties": false,
+		"properties": {
+			"name": {
+				"type": "string",
+				"description": "此工具包的名称"
+			},
+			"description": {
+				"type": "string",
+				"description": "The description of this kit"
+			},
+			"vendor": {
+				"type": "string",
+				"description": "此工具包的供应商名称"
+			},
+			"triple": {
+				"type": "string",
+				"description": "此工具包的目标三倍数"
+			},
+			"version": {
+				"type": "string",
+				"description": "此工具包的版本"
+			},
+			"versionRuntime": {
+				"type": "string",
+				"description": "此工具包的 C 运行时版本"
+			},
+			"keep": {
+				"type": "boolean",
+				"description": "如果为 \"true\"，则即使此工具包显示为已过期，也将保留。"
+			},
+			"compilers": {
+				"type": "object",
+				"patternProperties": {
+					"\\w+": {
+						"type": "string",
+						"description": "适用于此语言的编译器的路径"
+					}
+				}
+			},
+			"toolchainFile": {
+				"type": "string",
+				"description": "工具链文件的路径"
+			},
+			"visualStudio": {
+				"type": "string",
+				"description": "Visual Studio 产品的实例 ID"
+			},
+			"visualStudioArchitecture": {
+				"type": "string",
+				"description": "体系结构到目标"
+			},
+			"environmentSetupScript": {
+				"type": "string",
+				"description": "用于修改工具包环境的脚本的绝对路径"
+			},
+			"environmentVariables": {
+				"type": "object",
+				"patternProperties": {
+					".*": {
+						"type": "string",
+						"description": "环境变量的值"
+					}
+				}
+			},
+			"cmakeSettings": {
+				"type": "object",
+				"patternProperties": {
+					".*": {
+						"description": "CMake 设置的值"
+					}
+				}
+			},
+			"preferredGenerator": {
+				"type": "object",
+				"description": "为此工具包设置首选的 CMake 生成器",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "要使用的生成器的名称"
+					},
+					"platform": {
+						"type": "string",
+						"description": "用于 -A 参数的 CMake 平台"
+					},
+					"toolset": {
+						"type": "string",
+						"description": "用于 -T 参数的 CMake 工具集"
+					}
+				},
+				"required": [
+					"name"
+				]
+			}
+		}
+	}
+}

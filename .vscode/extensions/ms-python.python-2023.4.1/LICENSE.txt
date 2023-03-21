@@ -1,0 +1,34 @@
+PLEASE NOTE: This is the license for the Python extension for Visual Studio Code. The Python extension automatically installs other extensions as optional dependencies, which can be uninstalled at any time. These extensions have separate licenses:
+
+ - The Jupyter extension is released under an MIT License:
+  https://marketplace.visualstudio.com/items/ms-toolsai.jupyter/license
+
+ - The isort extension is released under an MIT License:
+  https://marketplace.visualstudio.com/items/ms-python.isort/license
+
+ - The Pylance extension is only available in binary form and is released under a Microsoft proprietary license, the terms of which are available here:
+  https://marketplace.visualstudio.com/items/ms-python.vscode-pylance/license
+
+------------------------------------------------------------------------------
+
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED *AS IS*, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

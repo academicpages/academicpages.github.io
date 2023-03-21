@@ -1,0 +1,2 @@
+version = "0.33.*"
+requires = ["types-Pillow"]

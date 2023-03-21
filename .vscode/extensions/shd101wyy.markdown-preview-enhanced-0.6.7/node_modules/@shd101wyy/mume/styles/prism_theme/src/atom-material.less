@@ -1,0 +1,248 @@
+// out: ../atom-material.css
+
+// Modified according to: 
+//   https://github.com/atom-material/atom-material-syntax
+
+// These colors are specific to the theme. Do not use in a package!
+
+@very-light-gray:   #EEFFFF;
+@light-gray:        #B2CCD6;
+@gray:              #373b41;
+@dark-gray:         #282a2e;
+@very-dark-gray:    #263238;
+
+@green:             #C3E88D;
+@teal:              #009688;
+@light-teal:        #73d1c8;
+@cyan:              #89DDF3;
+@blue:              #82AAFF;
+@indigo:            #7986CB;
+@purple:            #C792EA;
+@pink:              #FF5370;
+@red:               #F07178;
+@strong-orange:     #F78C6A;
+@orange:            #FFCB6B;
+@light-orange:      #FFE082;
+
+// This defines all syntax variables that syntax themes must implement when they
+// include a syntax-variables.less file.
+
+// General colors
+@syntax-text-color: @very-light-gray;
+@syntax-cursor-color: @teal;
+@syntax-selection-color: lighten(@syntax-background-color, 10%);
+@syntax-background-color: @very-dark-gray;
+@syntax-comment-color: lighten(@very-dark-gray, 20%);
+
+// Guide colors
+@syntax-wrap-guide-color: @dark-gray;
+@syntax-indent-guide-color: lighten(@syntax-background-color, 2.5%);
+@syntax-invisible-character-color: @gray;
+
+// For find and replace markers
+@syntax-result-marker-color: @light-gray;
+@syntax-result-marker-color-selected: white;
+
+// Gutter colors
+@syntax-gutter-text-color: fade(@syntax-text-color, 20%);
+@syntax-gutter-text-color-selected: @syntax-gutter-text-color;
+@syntax-gutter-background-color: @syntax-background-color;
+@syntax-gutter-background-color-selected: darken(@syntax-background-color, 5%);
+
+// For git diff info. i.e. in the gutter
+@syntax-color-renamed: @blue;
+@syntax-color-added: @green;
+@syntax-color-modified: @orange;
+@syntax-color-removed: @red;
+
+pre {
+  font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+  direction: ltr;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+  word-break: normal;
+  
+  padding: 1em;
+  margin: .5em 0;
+  
+  overflow: auto;
+  line-height: 1.5;
+  tab-size: 4;
+  hyphens: none;
+  color: @syntax-text-color;
+  background-color: contrast(@syntax-background-color, lighten(@syntax-background-color, 4%), darken(@syntax-background-color, 6%)) !important;
+  border: contrast(@syntax-background-color, lighten(@syntax-background-color, 16%), darken(@syntax-background-color, 16%));
+  border-radius: 3px;
+}
+
+pre[class*="language-"] { // presentation mode padding
+  padding: 1em; 
+}
+
+code[class*="language-"],
+pre[class*="language-"] {
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+  color: @syntax-comment-color;
+}
+
+.token.punctuation {
+  color: @blue;
+}
+
+.namespace {
+	opacity: .7;
+}
+
+.token.constant {
+  color: @red;
+}
+
+.token.property {
+  color: @light-teal;
+}
+
+.token.boolean,
+.token.number,
+.token.function-name {
+  color: @strong-orange;
+}
+
+.token.tag {
+  color: @red;
+}
+
+.token.deleted {
+  color: @red;
+}
+
+.token.symbol {
+  color: @green;
+}
+
+.token.selector {
+  color: @purple;
+}
+
+.token.attr-name { // .attribute
+  color: @purple;
+}
+
+.token.string {
+  color: @green;
+}
+
+.token.char {
+  color: @syntax-invisible-character-color;  
+}
+
+.token.builtin,
+.token.inserted {
+  color: @green;
+}
+
+.token.entity {
+  color: @cyan;
+}
+
+.token.url {
+  color: @orange;
+}
+
+.token.operator {
+  color: @cyan;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.keyword {
+  color: @purple;
+}
+
+.token.function {
+  color: @blue;
+}
+
+.token.class-name {
+  color: @orange;
+}
+
+.token.regex,
+.token.important,
+.token.variable {
+  color: @cyan;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+
+/*
+&.line-numbers {
+  .line-numbers-rows>span:before {
+  }
+}
+*/
+}
+
+/* highlight */
+pre[data-line] {
+  position: relative;
+  padding: 1em 0 1em 3em;
+}
+pre[data-line] .line-highlight-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  display: block;
+  width: 100%;
+}
+
+pre[data-line] .line-highlight {
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding: inherit 0;
+  margin-top: 1em;
+  background: hsla(24, 20%, 50%,.08);
+  background: linear-gradient(to right, hsla(24, 20%, 50%,.1) 70%, hsla(24, 20%, 50%,0));
+  pointer-events: none;
+  line-height: inherit;
+  white-space: pre;
+}
+
+pre[data-line] .line-highlight:before, 
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-start);
+  position: absolute;
+  top: .4em;
+  left: .6em;
+  min-width: 1em;
+  padding: 0 .5em;
+  background-color: hsla(24, 20%, 50%,.4);
+  color: hsl(24, 20%, 95%);
+  font: bold 65%/1.5 sans-serif;
+  text-align: center;
+  vertical-align: .3em;
+  border-radius: 999px;
+  text-shadow: none;
+  box-shadow: 0 1px white;
+}
+
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-end);
+  top: auto;
+  bottom: .4em;
+}

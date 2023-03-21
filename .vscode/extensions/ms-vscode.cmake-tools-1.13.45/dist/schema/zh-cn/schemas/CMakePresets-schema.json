@@ -1,0 +1,1086 @@
+{
+	"type": "object",
+	"description": "这些预设指定了生成器和生成目录，还选择性地指定要传递给 CMake 的变量和其他参数的列表。",
+	"required": [
+		"version"
+	],
+	"properties": {
+		"version": {
+			"type": "integer",
+			"description": "一个必需整数，它表示 JSON 架构的版本。"
+		},
+		"cmakeMinimumRequired": {
+			"type": "object",
+			"description": "一个可选对象，表示生成此项目所需的 CMake 的最低版本。",
+			"properties": {
+				"major": {
+					"type": "integer",
+					"description": "一个表示主版本的可选整数。"
+				},
+				"minor": {
+					"type": "integer",
+					"description": "一个表示次要版本的可选整数。"
+				},
+				"patch": {
+					"type": "integer",
+					"description": "一个表示补丁版本的可选整数。"
+				}
+			},
+			"additionalProperties": false
+		},
+		"configurePresets": {
+			"type": "array",
+			"description": "“配置预设”对象的可选数组。",
+			"items": {
+				"type": "object",
+				"description": "一个“配置预设”对象。",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "一个必需字符串，表示预设的计算机友好名称。此标识符在 --preset 参数中使用。在同一个名相同的目录中，CMakePresets.json 和 CMakeUserPresets.json 的联合中不得有两个预设。",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "一个可选布尔值，它指定是否应隐藏预设。如果预置处于隐藏状态，则不能在 --preset= 参数中使用它，不会在 CMake GUI 中显示它，也不需要具有有效的生成器或 binaryDir (即使是来自继承)。隐藏的预设旨在用作其他预设通过“继承”字段继承的基础。"
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "一个可选字符串，表示要从其继承的预设的名称。",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "一个可选字符串数组，表示要从其继承的预设的名称。默认情况下，预设将从继承预设中继承所有字段(名称、隐藏状态、继承、说明和 displayName 除外)，但可根据需要替代这些字段。如果多个继承预设为同一字段提供冲突值，则首选继承列表中的早期预设。CMakePresets.json 中的预设可能不会从 CMakeUserPresets.json 中的预设进行继承。",
+								"items": {
+									"type": "string",
+									"description": "一个可选字符串，表示要从其继承的预设的名称。",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"vendor": {
+						"type": "object",
+						"description": "一个包含供应商特定信息的可选映射。CMake 不会解释此字段的内容，除非是验证它是否是一个映射(若存在)。但是，键应是供应商特定的域名，后接 /-separated 路径。例如，示例 IDE 1.0 可能使用 example.com/ExampleIDE/1.0。每个字段的值可以是供应商所需的任何内容，但通常会是一个映射。",
+						"properties": {
+							"microsoft.com/VisualStudioSettings/CMake/1.0": {
+								"type": "object",
+								"description": "一个可选对象，表示“Visual Studio 设置”供应商对象",
+								"properties": {
+									"hostOS": {
+										"anyOf": [
+											{
+												"type": "string",
+												"description": "一个可选字符串，它表示 hostOS 的名称。接受的值为 Windows、Linux 和 macOS。",
+												"enum": [
+													"Windows",
+													"Linux",
+													"macOS"
+												]
+											},
+											{
+												"type": "array",
+												"description": "受支持的主机操作系统的数组。此键由 Visual Studio 和 Visual Studio Code 用于隐藏不适用于活动目标系统或主机 OS 的预设。接受的值为 Windows、Linux 和 macOS。",
+												"items": {
+													"type": "string",
+													"description": "一个可选字符串，它表示 hostOS 的名称。接受的值为 Windows、Linux 和 macOS。",
+													"enum": [
+														"Windows",
+														"Linux",
+														"macOS"
+													]
+												}
+											}
+										]
+									},
+									"intelliSenseMode": {
+										"type": "string",
+										"description": "一个指示首选 IntelliSense 模式的可选键。用于在 Visual Studio 和 Visual Studio Code 中计算 IntelliSense 信息的模式。",
+										"enum": [
+											"windows-msvc-x86",
+											"windows-msvc-x64",
+											"windows-msvc-arm",
+											"windows-msvc-arm64",
+											"android-clang-x86",
+											"android-clang-x64",
+											"android-clang-arm",
+											"android-clang-arm64",
+											"ios-clang-x86",
+											"ios-clang-x64",
+											"ios-clang-arm",
+											"ios-clang-arm64",
+											"windows-clang-x86",
+											"windows-clang-x64",
+											"windows-clang-arm",
+											"windows-clang-arm64",
+											"linux-gcc-x86",
+											"linux-gcc-x64",
+											"linux-gcc-arm"
+										]
+									},
+									"intelliSenseOptions": {
+										"type": "object",
+										"description": "一个可选对象，用于配置高级 IntelliSense 设置。",
+										"properties": {
+											"useCompilerDefaults": {
+												"type": "boolean",
+												"default": true,
+												"description": "指定是否要对 Intellisense 使用编译器的默认定义和包含路径。只有当使用的编译器不支持 gcc 样式的参数时，才应为 false。"
+											},
+											"additionalCompilerArgs": {
+												"anyOf": [
+													{
+														"type": "string",
+														"default": "empty"
+													},
+													{
+														"type": "array",
+														"description": "一个附加选项的数组，用于控制 Visual Studio 中的 IntelliSense。",
+														"items": {
+															"type": "string"
+														}
+													}
+												]
+											}
+										}
+									},
+									"enableMicrosoftCodeAnalysis": {
+										"type": "boolean",
+										"description": "使用 cl 或 clang-cl 进行生成时，在 Visual Studio 中启用 Microsoft 代码分析。"
+									},
+									"codeAnalysisRuleset": {
+										"type": "string",
+										"description": "在 Visual Studio 中运行 Microsoft 代码分析时要使用的规则集。这可以是规则集文件的路径，或者由 Visual Studio 安装的规则集文件的名称。"
+									},
+									"enableClangTidyCodeAnalysis": {
+										"type": "boolean",
+										"description": "使用 clang-cl 进行生成时，在 Visual Studio 中启用 clang-tidy 代码分析。"
+									},
+									"clangTidyChecks": {
+										"type": "string",
+										"description": "在 Visual Studio 中运行 clang-tidy 代码分析时传递给 clang-tidy 的警告的逗号分隔列表。允许使用通配符，并且 \"-\" 前缀将删除检查。"
+									},
+									"cacheRoot": {
+										"type": "string",
+										"description": "CMake 缓存的路径。此目录应包含现有的 CMakeCache.txt 文件。只有 Visual Studio 中的“打开现有缓存”方案支持此键。"
+									},
+									"cmakeGenerateCommand": {
+										"type": "string",
+										"description": "一个用于生成 CMake 缓存的命令行工具(指定为命令行程序 + 参数，例如 \"gencache.bat debug\")。调用缓存生成时，将从预设的指定环境中的 shell 运行此命令。只有 Visual Studio 中的“打开现有缓存”方案支持此键。"
+									}
+								}
+							},
+							"microsoft.com/VisualStudioRemoteSettings/CMake/1.0": {
+								"type": "object",
+								"description": "一个可选对象，表示“Visual Studio 远程设置”供应商对象",
+								"properties": {
+									"sourceDir": {
+										"type": "string",
+										"default": "$env{HOME}/.vs/${sourceDirName}",
+										"description": "要将项目复制到的远程系统或 WSL2 安装上的目录的路径。"
+									},
+									"copySources": {
+										"type": "boolean",
+										"default": "true",
+										"description": "如果为 true，Visual Studio 会将 Windows 中的源复制到远程系统。如果由你自己管理文件同步，则设置为 false。"
+									},
+									"copySourcesOptions": {
+										"type": "object",
+										"description": "与将源从 Windows 复制到远程系统的操作相关的设置的对象。",
+										"properties": {
+											"exclusionList": {
+												"type": "array",
+												"default": "[ \".vs\", \".git\", \"out\"]",
+												"description": "一个列表，其中列出将源文件复制到远程系统时要排除的路径。路径可以是文件或目录的名称，也可以是相对于副本的根目录的路径。",
+												"items": {
+													"type": "string"
+												}
+											},
+											"method": {
+												"type": "string",
+												"default": "rsync",
+												"description": "用于将源文件复制到远程系统的方法。接受的值为 rsync 和 sftp。"
+											},
+											"concurrentCopies": {
+												"type": "integer",
+												"default": 5,
+												"description": "将源同步到远程系统时使用的并发副本数。"
+											},
+											"outputVerbosity": {
+												"type": "string",
+												"default": "Normal",
+												"description": "将源复制到远程系统的操作的详细级别。接受的级别为“普通”、“详细”和“诊断”。",
+												"enum": [
+													"Normal",
+													"Verbose",
+													"Diagnostic"
+												]
+											}
+										}
+									},
+									"rsyncCommandArgs": {
+										"type": "array",
+										"default": "[\"-t\", \"--delete\", \"--delete-excluded\"]",
+										"description": "传递给 rsync 的其他命令行参数的列表。",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyBuildOutput": {
+										"type": "boolean",
+										"default": false,
+										"description": "指定是否要将生成输出从远程系统复制回到 Windows。"
+									},
+									"copyOptimizations": {
+										"type": "object",
+										"description": "与源副本优化相关的设置的对象。",
+										"properties": {
+											"maxSmallChange": {
+												"type": "integer",
+												"default": 10,
+												"description": "使用 sftp 而不是 rsync 需要复制的最大文件数。"
+											},
+											"useOptimizations": {
+												"type": "string",
+												"default": "RsyncAndSftp",
+												"description": "选择“无副本优化”(“无”)、“仅限 rsync 的优化”(\"RsyncOnly\")或“ rsync 加 sftp 优化”(\"RsyncAndSftp\")。",
+												"enum": [
+													"None",
+													"RsyncOnly",
+													"RsyncAndSftp"
+												]
+											},
+											"rsyncSingleDirectoryCommandArgs": {
+												"type": "array",
+												"default": "[\"-t\", \"-d\"]",
+												"description": "一个列表，其中列出在将单个目录的内容复制到远程系统时传递给 rsync 的其他命令行参数。",
+												"items": {
+													"type": "string"
+												}
+											}
+										}
+									},
+									"copyAdditionalIncludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "一个列表，其中列出要在本地为 Intellisense 复制的远程标头目录的路径。",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyExcludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "一个列表，其中列出要在本地为 Intellisense 复制的远程标头目录的路径。",
+										"items": {
+											"type": "string"
+										}
+									},
+									"forceWSL1Toolset": {
+										"type": "boolean",
+										"default": false,
+										"description": "如果为 true，则在从 Visual Studio 中面向 WSL 时，Visual Studio 将始终使用 WSL1 工具集。WSL1 工具集在本地执行所有命令，并依赖于装载在 /mnt 文件夹下的 Windows 驱动器来访问 WSL 中的本地源文件。这些操作可能会因 WSL2 而速度更慢。"
+									}
+								}
+							}
+						}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "一个可选字符串，它具有预设的易记名称。"
+					},
+					"description": {
+						"type": "string",
+						"description": "一个可选字符串，它具有预设的易读说明。"
+					},
+					"generator": {
+						"type": "string",
+						"description": "一个可选字符串，表示要用于预设的生成器。如果未指定生成器，则必须从继承预设中进行继承(除非此预设处于隐藏状态)。请注意，对于 Visual Studio 生成器，不能在生成器名称中包含平台名称，这一点与命令行 -G 参数不同。请改为使用“体系结构”字段。"
+					},
+					"architecture": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "一个可选字符串，表示支持它的生成器的平台。"
+							},
+							{
+								"type": "object",
+								"description": "一个对象，表示支持它的生成器的平台。",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "一个表示值的可选字符串。"
+									},
+									"strategy": {
+										"type": "string",
+										"description": "一个可选字符串，用于指示 CMake 如何处理字段。有效值为: \"set\" 和 \"external\"。若是前者，则设置各自的值。这将导致不支持各自字段的生成器出错。若是后者，则不设置值，即使生成器支持也是如此。这在某些情况下很有用；例如，如果某个预设使用 Ninja 生成器，并且 IDE 知道如何从体系结构和工具集字段设置 Visual C++ 环境。在这种情况下，CMake 将忽略该字段，但 IDE 可使用它们在调用 CMake 之前设置环境。",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"toolset": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "一个可选字符串，表示支持它的生成器的工具集。"
+							},
+							{
+								"type": "object",
+								"description": "一个可选对象，表示支持它的生成器的工具集。",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "一个表示值的可选字符串。"
+									},
+									"strategy": {
+										"type": "string",
+										"description": "一个可选字符串，用于指示 CMake 如何处理字段。有效值为: \"set\" 和 \"external\"。若是前者，则设置各自的值。这将导致不支持各自字段的生成器出错。若是后者，则不设置值，即使生成器支持也是如此。这在某些情况下很有用；例如，如果某个预设使用 Ninja 生成器，并且 IDE 知道如何从体系结构和工具集字段设置 Visual C++ 环境。在这种情况下，CMake 将忽略该字段，但 IDE 可使用它们在调用 CMake 之前设置环境。",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"binaryDir": {
+						"type": "string",
+						"description": "一个可选字符串，表示输出二进制目录的路径。此字段支持宏扩展。如果指定了相对路径，则它将相对于源目录进行计算。如果未指定 binaryDir，则必须从继承预设中进行继承(除非此预设为“已隐藏”)。"
+					},
+					"cmakeExecutable": {
+						"type": "string",
+						"description": "一个可选字符串，表示要用于此预设的 CMake 可执行文件的路径。这是仅供 IDE 使用的保留字段，而不是由 CMake 自身使用。使用此字段的 IDE 应展开其包含的所有宏。"
+					},
+					"cacheVariables": {
+						"type": "object",
+						"description": "缓存变量的可选映射。键是变量名称(不能为空字符串)。缓存变量是通过“继承”字段继承的，而且预设的变量将是其自身 cacheVariable 和其所有父级的 cacheVariable 的联合。如果此联合中的多个预设定义同一个变量，则应用继承的标准规则。",
+						"properties": {
+							"CMAKE_C_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "要用于 C 的编译器。"
+									},
+									{
+										"type": "null",
+										"description": "如果将变量设置为 null，则即使某个值是从另一个预设继承的，也不会设置该变量。"
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_CXX_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "要用于 C++ 的编译器。"
+									},
+									{
+										"type": "null",
+										"description": "如果将变量设置为 null，则即使某个值是从另一个预设继承的，也不会设置该变量。"
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_INSTALL_PREFIX": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "CMake 使用的安装目录。"
+									},
+									{
+										"type": "null",
+										"description": "如果将变量设置为 null，则即使某个值是从另一个预设继承的，也不会设置该变量。"
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_TOOLCHAIN_FILE": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "传递到 CMake 的工具链文件。"
+									},
+									{
+										"type": "null",
+										"description": "如果将变量设置为 null，则即使某个值是从另一个预设继承的，也不会设置该变量。"
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_BUILD_TYPE": {
+								"description": "指定单配置生成器上的生成类型。",
+								"anyOf": [
+									{
+										"type": "string",
+										"enum": [
+											"Debug",
+											"Release",
+											"RelWithDebInfo",
+											"MinSizeRel"
+										]
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									},
+									{
+										"type": "string"
+									},
+									{
+										"type": "null",
+										"description": "如果将变量设置为 null，则即使某个值是从另一个预设继承的，也不会设置该变量。"
+									}
+								]
+							}
+						},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "如果将变量设置为 null，则即使某个值是从另一个预设继承的，也不会设置该变量。"
+								},
+								{
+									"type": "boolean",
+									"description": "一个布尔值，它表示变量的值。等效于 \"TRUE\" 或 \"FALSE\"。"
+								},
+								{
+									"type": "string",
+									"description": "一个字符串，表示变量的值(该变量支持宏扩展)。"
+								},
+								{
+									"type": "object",
+									"description": "一个表示变量的类型和值的对象。",
+									"properties": {
+										"type": {
+											"type": "string",
+											"description": "一个表示变量类型的可选字符串。它应为 BOOL、FILEPATH、PATH、STRING 或 INTERNAL。"
+										},
+										"value": {
+											"anyOf": [
+												{
+													"type": "boolean",
+													"description": "一个必需布尔值，它表示变量的值。等效于 \"TRUE\" 或 \"FALSE\"。"
+												},
+												{
+													"type": "string",
+													"description": "一个表示变量的值的必需字符串。此字段支持宏扩展。"
+												}
+											]
+										}
+									},
+									"required": [
+										"value"
+									],
+									"additionalProperties": false
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"environment": {
+						"type": "object",
+						"description": "环境变量的可选映射。键是变量名称(不能为空字符串)。无论进程的环境是否向变量赋予了值，都将设置每个变量。此字段支持宏扩展，此映射中的环境变量可能会互相引用，并且可能会按任何顺序列出，前提是此类引用不会导致循环(例如，如果 ENV_1 为 $env{ENV_2}，则 ENV_2 不可为 $env{ENV_1}。)环境变量通过“继承”字段继承，而且预设的环境将是其自己的环境及其所有父级的环境的联合。如果此联合中的多个预设定义同一个变量，则应用继承的标准规则。如果将变量设置为 null，则即使某个值是从另一个预设继承的，也不会设置该变量。",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "如果将变量设置为 null，则即使某个值是从另一个预设继承的，也不会设置该变量。"
+								},
+								{
+									"type": "string",
+									"description": "一个表示变量的值的字符串。"
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"warnings": {
+						"type": "object",
+						"description": "一个指定警告的可选对象。",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "一个可选的布尔值。等效于在命令行上传递 -Wdev 或 -Wno-dev。如果 errors.dev 设置为 true，则此值不可设为 false。"
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "一个可选的布尔值。等效于在命令行上传递 -Wdeprecated 或 -Wno-deprecated。如果 errors.deprecated 设置为 true，则这不可设为 false。"
+							},
+							"uninitialized": {
+								"type": "boolean",
+								"description": "一个可选的布尔值。将此值设置为 true 等效于在命令行上传递 --warn-uninitialized。"
+							},
+							"unusedCli": {
+								"type": "boolean",
+								"description": "一个可选的布尔值。将此值设置为 false 等效于在命令行上传递 --no-warn-unused-cli。"
+							},
+							"systemVars": {
+								"type": "boolean",
+								"description": "一个可选的布尔值。将此值设置为 true 等效于在命令行上传递 --check-system-vars。"
+							}
+						},
+						"additionalProperties": false
+					},
+					"errors": {
+						"type": "object",
+						"description": "一个指定错误的可选对象。",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "一个可选的布尔值。等效于在命令行上传递 -Werror=dev 或 -Wno-error=dev。如果 warnings.dev 设置为 false，则这不可设为 true。"
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "一个可选的布尔值。等效于在命令行上传递 -Werror=deprecated 或 -Wno-error=deprecated。如果 warnings.deprecated 设置为 false，则这不可设为 true。"
+							}
+						},
+						"additionalProperties": false
+					},
+					"debug": {
+						"type": "object",
+						"description": "一个指定调试选项的可选对象。",
+						"properties": {
+							"output": {
+								"type": "boolean",
+								"description": "一个可选布尔值。如果将它设置为 true，则等效于在命令行上传递 --debug-output。"
+							},
+							"tryCompile": {
+								"type": "boolean",
+								"description": "一个可选布尔值。如果将它设置为 true，则等效于在命令行上传递 --debug-trycompile。"
+							},
+							"find": {
+								"type": "boolean",
+								"description": "一个可选布尔值。如果将它设置为 true，则等效于在命令行上传递 --debug-find。"
+							}
+						},
+						"additionalProperties": false
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"buildPresets": {
+			"type": "array",
+			"description": "一个可选的生成预设对象数组。用于将参数指定为 cmake --build。可在版本 2 及更高版本中使用。",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "一个必需字符串，表示预设的计算机友好名称。此标识符在 --preset 参数中使用。在同一个名称相同的目录中，CMakePresets.json 和 CMakeUserPresets.json 的联合中不得有两个预设(“配置”、“生成”或“测试”)。",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "一个可选布尔值，它指定是否应隐藏预设。如果预置处于隐藏状态，则不能在 --preset 参数中使用它，不会在 CMake GUI 中显示它，也不需要具有有效的 configurePreset (即使是来自继承)。隐藏的预设旨在用作其他预设通过“继承”字段继承的基础。"
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "一个可选字符串，表示要从其继承的生成预设的名称。",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "一个可选字符串数组，表示要从其继承的生成预设的名称。默认情况下，预设将从继承预设中继承所有字段(名称、隐藏状态、继承、说明和 displayName 除外)，但可根据需要替代这些字段。如果多个继承预设为同一字段提供冲突值，则首选继承列表中的早期预设。CMakePresets.json 中的预设可能不会从 CMakeUserPresets.json 中的预设进行继承。",
+								"items": {
+									"type": "string",
+									"description": "一个可选字符串，表示要从其继承的预设的名称。",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "一个可选字符串，它指定要与此生成预设关联的配置预设的名称。如果未指定 configurePreset，则必须从继承预设中继承(除非此预设已隐藏)。从配置预设推断出生成树目录。",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "一个包含供应商特定信息的可选映射。CMake 不会解释此字段的内容，除非是验证它是否是一个映射(若存在)。但是，它应遵循与根级别供应商字段相同的约定。如果供应商使用其自己的每预设供应商字段，则应在适当的情况下以合理的方式实现继承。",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "一个可选字符串，它具有预设的易记名称。"
+					},
+					"description": {
+						"type": "string",
+						"description": "一个可选字符串，它具有预设的易读说明。"
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "一个可选布尔值，默认为 true。如果为 true，则在所有继承的生成预设环境之后，但在此生成预设中显式指定的环境变量之前继承关联的配置预设中的环境变量。"
+					},
+					"environment": {
+						"type": "object",
+						"description": "环境变量的可选映射。键是变量名称(不能为空字符串)。无论进程的环境是否向变量赋予了值，都将设置每个变量。此字段支持宏扩展，此映射中的环境变量可能会互相引用，并且可能会按任何顺序列出，前提是此类引用不会导致循环(例如，如果 ENV_1 为 $env{ENV_2}，则 ENV_2 不可为 $env{ENV_1}。)环境变量通过“继承”字段继承，而且预设的环境将是其自己的环境及其所有父级的环境的联合。如果此联合中的多个预设定义同一个变量，则应用继承的标准规则。如果将变量设置为 null，则即使某个值是从另一个预设继承的，也不会设置该变量。",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "如果将变量设置为 null，则即使某个值是从另一个预设继承的，也不会设置该变量。"
+								},
+								{
+									"type": "string",
+									"description": "一个表示变量的值的字符串。"
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"jobs": {
+						"type": "integer",
+						"description": "一个可选整数。等效于在命令行上传递 --parallel 或 -j。"
+					},
+					"targets": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "一个可选字符串。等效于在命令行上传递 --target 或 -t。供应商可能会忽略目标属性或隐藏显式指定目标的生成预设。"
+							},
+							{
+								"type": "array",
+								"description": "一个可选字符串数组。等效于在命令行上传递 --target 或 -t。供应商可能会忽略目标属性或隐藏显式指定目标的生成预设。",
+								"items": {
+									"type": "string",
+									"description": "一个可选字符串。等效于在命令行上传递 --target 或 -t。供应商可能会忽略目标属性或隐藏显式指定目标的生成预设。"
+								}
+							}
+						]
+					},
+					"configuration": {
+						"type": "string",
+						"description": "一个可选字符串。等效于在命令行上传递 --config。"
+					},
+					"cleanFirst": {
+						"type": "boolean",
+						"description": "一个可选布尔值。如果为 true，则等效于在命令行上传递 --clean-first。"
+					},
+					"verbose": {
+						"type": "boolean",
+						"description": "一个可选布尔值。如果为 true，则等效于在命令行上传递 --verbose。"
+					},
+					"nativeToolOptions": {
+						"type": "array",
+						"description": "一个可选字符串数组。等效于在命令行上的 -- 后面传递选项。",
+						"items": {
+							"type": "string",
+							"description": "一个可选字符串，表示要在命令行上的 -- 后面传递的选项。"
+						}
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"testPresets": {
+			"type": "array",
+			"description": "一个可选的测试预设对象数组。用于将参数指定为 ctest。可在版本 2 及更高版本中使用。",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "一个必需字符串，表示预设的计算机友好名称。此标识符在 --preset 参数中使用。在同一个名称相同的目录中，CMakePresets.json 和 CMakeUserPresets.json 的联合中不得有两个预设(“配置”、“生成”或“测试”)。",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "一个可选布尔值，它指定是否应隐藏预设。如果预置处于隐藏状态，则不能在 --preset 参数中使用它，不会在 CMake GUI 中显示它，也不需要具有有效的 configurePreset (即使是来自继承)。隐藏的预设旨在用作其他预设通过“继承”字段继承的基础。"
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "一个可选字符串，表示要从其继承的测试预设的名称。",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "一个可选字符串数组，表示要从其继承的测试预设的名称。默认情况下，预设将从继承预设中继承所有字段(名称、隐藏状态、继承、说明和 displayName 除外)，但可根据需要替代这些字段。如果多个继承预设为同一字段提供冲突值，则首选继承列表中的早期预设。CMakePresets.json 中的预设可能不会从 CMakeUserPresets.json 中的预设进行继承。",
+								"items": {
+									"type": "string",
+									"description": "一个可选字符串，表示要从其继承的预设的名称。",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "一个可选字符串，它指定要与此测试预设关联的配置预设的名称。如果未指定 configurePreset，则必须从继承预设中继承(除非此预设已隐藏)。从配置预设推断出生成树目录。",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "一个包含供应商特定信息的可选映射。CMake 不会解释此字段的内容，除非是验证它是否是一个映射(若存在)。但是，它应遵循与根级别供应商字段相同的约定。如果供应商使用其自己的每预设供应商字段，则应在适当的情况下以合理的方式实现继承。",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "一个可选字符串，它具有预设的易记名称。"
+					},
+					"description": {
+						"type": "string",
+						"description": "一个可选字符串，它具有预设的易读说明。"
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "一个可选布尔值，默认为 true。如果为 true，则在所有继承的测试预设环境之后，但在此测试预设中显式指定的环境变量之前继承关联的配置预设中的环境变量。"
+					},
+					"environment": {
+						"type": "object",
+						"description": "环境变量的可选映射。键是变量名称(不能为空字符串)。无论进程的环境是否向变量赋予了值，都将设置每个变量。此字段支持宏扩展，此映射中的环境变量可能会互相引用，并且可能会按任何顺序列出，前提是此类引用不会导致循环(例如，如果 ENV_1 为 $env{ENV_2}，则 ENV_2 不可为 $env{ENV_1}。)环境变量通过“继承”字段继承，而且预设的环境将是其自己的环境及其所有父级的环境的联合。如果此联合中的多个预设定义同一个变量，则应用继承的标准规则。如果将变量设置为 null，则即使某个值是从另一个预设继承的，也不会设置该变量。",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "如果将变量设置为 null，则即使某个值是从另一个预设继承的，也不会设置该变量。"
+								},
+								{
+									"type": "string",
+									"description": "一个表示变量的值的字符串。"
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"configuration": {
+						"type": "string",
+						"description": "一个可选字符串。等效于在命令行上传递 --build-config。"
+					},
+					"overwriteConfigurationFile": {
+						"type": "array",
+						"description": "一个可选的配置选项数组，用于覆盖 CTest 配置文件中指定的选项。等效于为数组中的每个值传递 ``--overwrite``。",
+						"items": {
+							"type": "string",
+							"description": "一个以 \"key=value\" 形式写为键值对的选项。"
+						}
+					},
+					"output": {
+						"type": "object",
+						"description": "一个指定输出选项的可选对象。",
+						"properties": {
+							"shortProgress": {
+								"type": "boolean",
+								"description": "一个可选布尔值。如果为 true，则等效于在命令行上传递 --progress。"
+							},
+							"verbosity": {
+								"type": "string",
+								"description": "一个指定详细级别的可选字符串。有效值为 \"default\" (等效于在命令行上传递 no verbosity flags)、\"verbose\" (等效于在命令行上传递 --verbose)和 \"extra\" (等效于在命令行上传递 --extra-verbose)。",
+								"enum": [
+									"default",
+									"verbose",
+									"extra"
+								]
+							},
+							"debug": {
+								"type": "boolean",
+								"description": "一个可选布尔值。如果为 true，则等效于在命令行上传递 --debug。"
+							},
+							"outputOnFailure": {
+								"type": "boolean",
+								"description": "一个可选布尔值。如果为 true，则等效于在命令行上传递 --output-on-failure。"
+							},
+							"quiet": {
+								"type": "boolean",
+								"description": "一个可选布尔值。如果为 true，则等效于在命令行上传递 --quiet。"
+							},
+							"outputLogFile": {
+								"type": "string",
+								"description": "一个可选字符串，指定日志文件的路径。等效于在命令行上传递 --output-log。"
+							},
+							"labelSummary": {
+								"type": "boolean",
+								"description": "一个可选布尔值。如果为 false，则等效于在命令行上传递 --no-label-summary。"
+							},
+							"subprojectSummary": {
+								"type": "boolean",
+								"description": "一个可选布尔值。如果为 false，则等效于在命令行上传递 --no-subproject-summary。"
+							},
+							"maxPassedTestOutputSize": {
+								"type": "integer",
+								"description": "一个可选整数，指定成功测试的最大输出(以字节为单位)。等效于在命令行上传递 --test-output-size-passed。"
+							},
+							"maxFailedTestOutputSize": {
+								"type": "integer",
+								"description": "一个可选整数，指定失败测试的最大输出(以字节为单位)。等效于在命令行上传递 --test-output-size-failed。"
+							},
+							"maxTestNameWidth": {
+								"type": "integer",
+								"description": "一个可选整数，指定要输出的测试名称的最大宽度。等效于在命令行上传递 --max-width。"
+							}
+						},
+						"additionalProperties": false
+					},
+					"filter": {
+						"type": "object",
+						"description": "一个可选对象，指定如何筛选要运行的测试。",
+						"properties": {
+							"include": {
+								"type": "object",
+								"description": "一个可选对象，指定要包含的测试。",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "一个可选字符串，指定测试名称的正则表达式。等效于在命令行上传递 --tests-regex。"
+									},
+									"label": {
+										"type": "string",
+										"description": "一个可选字符串，指定测试标签的正则表达式。等效于在命令行上传递 --label-regex。"
+									},
+									"index": {
+										"anyOf": [
+											{
+												"type": "object",
+												"description": "一个可选对象，指定按测试索引要包含的测试。",
+												"properties": {
+													"start": {
+														"type": "integer",
+														"description": "一个可选整数，指定要在其上开始测试的测试索引。"
+													},
+													"end": {
+														"type": "integer",
+														"description": "一个可选整数，指定要在其处停止测试的测试索引。"
+													},
+													"stride": {
+														"type": "integer",
+														"description": "一个指定增量的可选整数。"
+													},
+													"specificTests": {
+														"type": "array",
+														"description": "一个可选整数数组，指定要运行的特定测试索引。",
+														"items": {
+															"type": "integer",
+															"description": "一个整数，指定要按索引运行的测试。"
+														}
+													}
+												},
+												"additionalProperties": false
+											},
+											{
+												"type": "string",
+												"description": "一个可选字符串，指定具有 --tests-information 的命令行语法的文件。"
+											}
+										]
+									},
+									"useUnion": {
+										"type": "boolean",
+										"description": "一个可选布尔值。等效于在命令行上传递 --union。"
+									}
+								},
+								"additionalProperties": false
+							},
+							"exclude": {
+								"type": "object",
+								"description": "一个可选对象，指定要排除的测试。",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "一个可选字符串，指定测试名称的正则表达式。等效于在命令行上传递 --exclude-regex。"
+									},
+									"label": {
+										"type": "string",
+										"description": "一个可选字符串，指定测试标签的正则表达式。等效于在命令行上传递 --label-exclude。"
+									},
+									"fixtures": {
+										"type": "object",
+										"description": "一个可选对象，指定要从添加测试中排除的固定例程。",
+										"properties": {
+											"any": {
+												"type": "string",
+												"description": "一个可选字符串，指定要从添加任何测试中排除的文本固定例程的正则表达式。等效于命令行上的 --fixture-exclude-any。"
+											},
+											"setup": {
+												"type": "string",
+												"description": "一个可选字符串，指定要从添加安装测试中排除的文本固定例程的正则表达式。等效于命令行上的 --fixture-exclude-setup。"
+											},
+											"cleanup": {
+												"type": "string",
+												"description": "一个可选字符串，指定要从清理测试中排除的文本固定例程的正则表达式。等效于命令行上的 --fixture-exclude-cleanup。"
+											}
+										},
+										"additionalProperties": false
+									}
+								}
+							}
+						},
+						"additionalProperties": false
+					},
+					"execution": {
+						"type": "object",
+						"description": "一个可选对象，指定用于测试执行的选项。",
+						"properties": {
+							"stopOnFailure": {
+								"type": "boolean",
+								"description": "一个可选布尔值。如果为 true，则等效于在命令行上传递 --stop-on-failure。"
+							},
+							"enableFailover": {
+								"type": "boolean",
+								"description": "一个可选布尔值。如果为 true，则等效于在命令行上传递 -F。"
+							},
+							"jobs": {
+								"type": "integer",
+								"description": "一个可选整数。等效于在命令行上传递 --parallel。"
+							},
+							"resourceSpecFile": {
+								"type": "string",
+								"description": "一个可选字符串。等效于在命令行上传递 --resource-spec-file。"
+							},
+							"testLoad": {
+								"type": "integer",
+								"description": "一个可选整数。等效于在命令行上传递 --test-load。"
+							},
+							"showOnly": {
+								"type": "string",
+								"description": "一个可选字符串。等效于在命令行上传递 --show-only。值必须为 \"human\" 或 \"json-v1\"。",
+								"enum": [
+									"human",
+									"json-v1"
+								]
+							},
+							"repeat": {
+								"type": "object",
+								"description": "一个可选对象，指定如何重复测试。等效于在命令行上传递 --repeat。",
+								"properties": {
+									"mode": {
+										"type": "string",
+										"description": "一个必需字符串。必须为以下值之一: \"until-fail\"、\"until-pass\" 或 \"after-timeout\"。",
+										"enum": [
+											"until-fail",
+											"until-pass",
+											"after-timeout"
+										]
+									},
+									"count": {
+										"type": "integer",
+										"description": "一个必需的整数。"
+									}
+								},
+								"required": [
+									"mode",
+									"count"
+								],
+								"additionalProperties": false
+							},
+							"interactiveDebugging": {
+								"type": "boolean",
+								"description": "一个可选布尔值。如果为 true，则等效于在命令行上传递 --interactive-debug-mode 1。如果为 false，则等效于在命令行上传递 --interactive-debug-mode 0。"
+							},
+							"scheduleRandom": {
+								"type": "boolean",
+								"description": "一个可选布尔值。如果为 true，则等效于在命令行上传递 --schedule-random。"
+							},
+							"timeout": {
+								"type": "integer",
+								"description": "一个可选整数。等效于在命令行上传递 --timeout。"
+							},
+							"noTestsAction": {
+								"type": "string",
+								"description": "一个可选字符串，指定未找到测试时的行为。必须是以下值之一: \"default\" (等效于不在命令行上传递任何值)，\"error\" (等效于在命令行上传递 --no-tests=error)，或者 \"ignore\" (等效于在命令行上传递 --no-tests-ignore)。",
+								"enum": [
+									"default",
+									"error",
+									"ignore"
+								]
+							}
+						},
+						"additionalProperties": false
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"vendor": {
+			"type": "object",
+			"description": "一个包含供应商特定信息的可选映射。CMake 不会解释此字段的内容，除非是验证它是否是一个映射(若存在)。但是，键应是供应商特定的域名，后接 /-separated 路径。例如，示例 IDE 1.0 可能使用 example.com/ExampleIDE/1.0。每个字段的值可以是供应商所需的任何内容，但通常会是一个映射。",
+			"properties": {}
+		}
+	},
+	"additionalProperties": false
+}

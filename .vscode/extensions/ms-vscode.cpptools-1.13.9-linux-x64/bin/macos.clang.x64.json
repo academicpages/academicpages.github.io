@@ -1,0 +1,14 @@
+{
+  "defaults": [
+    "--pack_alignment",
+    "8",
+    "-D__APPLE__=1",
+    "-D__MACH__=1",
+    "-D__x86_64=1",
+    "-D__x86_64__=1",
+    "-D__PTRDIFF_TYPE__=long int",
+    "-D__SIZE_TYPE__=long unsigned int",
+    "-D__WCHAR_TYPE__=int"
+  ],
+  "defaults_op" :  "merge"
+}

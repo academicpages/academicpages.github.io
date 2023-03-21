@@ -1,0 +1,9 @@
+version = "0.1.*"
+requires = ["types-Pillow"]
+
+[tool.stubtest]
+ignore_missing_stub = true
+# TODO: figure out how to run stubtest for this package
+# (the package pins Pillow in a problematic way)
+skip = true
+platforms = ["win32"]

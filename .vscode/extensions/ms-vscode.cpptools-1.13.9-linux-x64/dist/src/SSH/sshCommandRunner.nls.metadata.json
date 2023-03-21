@@ -1,0 +1,35 @@
+{
+	"messages": [
+		"SSH command canceled",
+		"Enter passphrase for ssh key {0}",
+		"Enter password for user \"{0}\"",
+		"Enter password",
+		"Are you sure you want to continue?",
+		"\"{0}\" has fingerprint \"{1}\".",
+		"Continue",
+		"Cancel",
+		"\"{0}\" terminal command canceled.",
+		"\"{0}\" terminal command done.",
+		"Task '{0}' is canceled, but the underlying command may not be terminated. Please check manually.",
+		"\"{0}\" process failed: {1}",
+		"\"{0}\" wrote data to terminal: \"{1}\".",
+		"\"{0}\" wrote data to terminal: \"{1}\"."
+	],
+	"keys": [
+		"ssh.canceled",
+		"ssh.passphrase.input.box",
+		"ssh.enter.password.for.user",
+		"ssh_message_enterPassword",
+		"ssh.continue.confirmation.placeholder",
+		"ssh.host.key.confirmation.title",
+		"continue",
+		"cancel",
+		"ssh.terminal.command.canceled",
+		"ssh.terminal.command.done",
+		"ssh.continuing.command.canceled",
+		"ssh.process.failed",
+		"ssh.wrote.data.to.terminal",
+		"ssh.wrote.data.to.terminal"
+	],
+	"filePath": "src\\SSH\\sshCommandRunner"
+}

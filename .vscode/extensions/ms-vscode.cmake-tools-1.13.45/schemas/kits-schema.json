@@ -1,0 +1,102 @@
+{
+    "type": "array",
+    "description": "CMake Kits",
+    "items": {
+        "type": "object",
+        "description": "A kit",
+        "additionalProperties": false,
+        "properties": {
+            "name": {
+                "type": "string",
+                "description": "Name of this kit"
+            },
+            "description": {
+                "type": "string",
+                "description": "The description of this kit"
+            },
+            "vendor": {
+                "type": "string",
+                "description": "The vendor name of this kit"
+            },
+            "triple": {
+                "type": "string",
+                "description": "The target triple of this kit"
+            },
+            "version": {
+                "type": "string",
+                "description": "The version of this kit"
+            },
+            "versionRuntime": {
+                "type": "string",
+                "description": "The version of the C runtime for the kit"
+            },
+            "keep": {
+                "type": "boolean",
+                "description": "If `true`, this kit will be kept even if it appears out-of-date."
+            },
+            "compilers": {
+                "type": "object",
+                "patternProperties": {
+                    "\\w+": {
+                        "type": "string",
+                        "description": "Path to a compiler for this language"
+                    }
+                }
+            },
+            "toolchainFile": {
+                "type": "string",
+                "description": "Path to a toolchain file"
+            },
+            "visualStudio": {
+                "type": "string",
+                "description": "Instance ID of the Visual Studio product"
+            },
+            "visualStudioArchitecture": {
+                "type": "string",
+                "description": "Architecture to target"
+            },
+            "environmentSetupScript": {
+                "type": "string",
+                "description": "The absolute path to a script that modifies the environment for the Kit"
+            },
+            "environmentVariables": {
+                "type": "object",
+                "patternProperties": {
+                    ".*": {
+                        "type": "string",
+                        "description": "Value for the environment variable"
+                    }
+                }
+            },
+            "cmakeSettings": {
+                "type": "object",
+                "patternProperties": {
+                    ".*": {
+                        "description": "Value for the CMake Setting"
+                    }
+                }
+            },
+            "preferredGenerator": {
+                "type": "object",
+                "description": "Set a preferred CMake generator for this Kit",
+                "properties": {
+                    "name": {
+                        "type": "string",
+                        "description": "Name of the generator to use"
+                    },
+                    "platform": {
+                        "type": "string",
+                        "description": "CMake platform for -A argument"
+                    },
+                    "toolset": {
+                        "type": "string",
+                        "description": "CMake toolset for -T argument"
+                    }
+                },
+                "required": [
+                    "name"
+                ]
+            }
+        }
+    }
+}

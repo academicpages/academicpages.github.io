@@ -1,0 +1,1086 @@
+{
+	"type": "object",
+	"description": "Ustawienia wstępne określają generator i katalog kompilacji oraz, opcjonalnie, listę zmiennych i innych argumentów, które mają być przekazywane do narzędzia CMake.",
+	"required": [
+		"version"
+	],
+	"properties": {
+		"version": {
+			"type": "integer",
+			"description": "Wymagana liczba całkowita reprezentująca wersję schematu JSON."
+		},
+		"cmakeMinimumRequired": {
+			"type": "object",
+			"description": "Opcjonalny obiekt reprezentujący minimalną wersję narzędzia CMake wymaganą do skompilowania tego projektu.",
+			"properties": {
+				"major": {
+					"type": "integer",
+					"description": "Opcjonalna liczba całkowita reprezentująca wersję główną."
+				},
+				"minor": {
+					"type": "integer",
+					"description": "Opcjonalna liczba całkowita reprezentująca wersję pomocniczą."
+				},
+				"patch": {
+					"type": "integer",
+					"description": "Opcjonalna liczba całkowita reprezentująca wersję poprawki."
+				}
+			},
+			"additionalProperties": false
+		},
+		"configurePresets": {
+			"type": "array",
+			"description": "Opcjonalna tablica obiektów ustawień wstępnych konfiguracji.",
+			"items": {
+				"type": "object",
+				"description": "Obiekt ustawienia wstępnego konfiguracji.",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Wymagany ciąg reprezentujący przyjazną dla maszyny nazwę ustawienia wstępnego. Ten identyfikator jest używany w argumencie --preset. W unii plików CMakePresets.json i CMakeUserPresets.json w tym samym katalogu nie mogą znajdować się dwa ustawienia wstępne o tej samej nazwie.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Opcjonalna wartość logiczna określająca, czy ustawienie wstępne ma być ukryte. Jeśli ustawienie wstępne jest ukryte, nie można go używać w argumencie --preset=, nie będzie ono widoczne w graficznym interfejsie użytkownika narzędzia CMake i nie musi ono mieć prawidłowego generatora ani pola binaryDir, nawet dziedziczonego. Ukryte ustawienia wstępne są przeznaczone do użycia jako podstawa dla innych ustawień wstępnych na potrzeby dziedziczenia za pośrednictwem pola inherits."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Opcjonalny ciąg reprezentujący nazwę ustawienia wstępnego, z którego ma następować dziedziczenie.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Opcjonalna tablica ciągów reprezentujących nazwy ustawień wstępnych, z których ma następować dziedziczenie. Domyślnie ustawienie wstępne będzie dziedziczyć wszystkie pola z ustawień wstępnych inherits (z wyjątkiem name, hidden, inherits, description i displayName), ale można je przesłaniać zgodnie z potrzebami. Jeśli wiele ustawień wstępnych inherits udostępni powodujące konflikt wartości dla tego samego pola, preferowane będzie ustawienie wstępne znajdujące się wyżej na liście ustawień wstępnych inherits. Ustawienia wstępne znajdujące się w pliku CMakePresets.json nie mogą dziedziczyć z ustawień wstępnych znajdujących się w pliku CMakeUserPresets.json.",
+								"items": {
+									"type": "string",
+									"description": "Opcjonalny ciąg reprezentujący nazwę ustawienia wstępnego, z którego ma następować dziedziczenie.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Opcjonalna mapa zawierająca informacje specyficzne dla dostawcy. Narzędzie CMake nie interpretuje zawartości tego pola poza weryfikacją, że rzeczywiście jest to mapa, jeśli pole istnieje. Klucze powinny jednak być nazwami domen specyficznymi dla dostawcy, po których następuje ścieżka rozdzielona ukośnikami (/). Na przykład w przypadku środowiska Example IDE 1.0 można byłoby użyć wartości example.com/ExampleIDE/1.0. Wartość każdego pola może być dowolną wartością wymaganą przez dostawcę, chociaż zazwyczaj jest to mapa.",
+						"properties": {
+							"microsoft.com/VisualStudioSettings/CMake/1.0": {
+								"type": "object",
+								"description": "Obiekt opcjonalny reprezentujący obiekt dostawcy ustawień programu Visual Studio",
+								"properties": {
+									"hostOS": {
+										"anyOf": [
+											{
+												"type": "string",
+												"description": "Opcjonalny ciąg reprezentujący nazwę systemu hostOS. Akceptowane wartości to Windows, Linux i macOS.",
+												"enum": [
+													"Windows",
+													"Linux",
+													"macOS"
+												]
+											},
+											{
+												"type": "array",
+												"description": "Tablica obsługiwanych systemów operacyjnych hostów. Ten klucz jest używany przez programy Visual Studio i Visual Studio Code do ukrywania ustawień wstępnych, które nie mają zastosowania do aktywnego systemu docelowego lub systemu operacyjnego hosta. Akceptowane wartości to Windows, Linux i macOS.",
+												"items": {
+													"type": "string",
+													"description": "Opcjonalny ciąg reprezentujący nazwę systemu hostOS. Akceptowane wartości to Windows, Linux i macOS.",
+													"enum": [
+														"Windows",
+														"Linux",
+														"macOS"
+													]
+												}
+											}
+										]
+									},
+									"intelliSenseMode": {
+										"type": "string",
+										"description": "Opcjonalny klucz, który wskazuje preferowany tryb funkcji IntelliSense. Tryb jest używany do obliczania informacji funkcji IntelliSense w programach Visual Studio i Visual Studio Code.",
+										"enum": [
+											"windows-msvc-x86",
+											"windows-msvc-x64",
+											"windows-msvc-arm",
+											"windows-msvc-arm64",
+											"android-clang-x86",
+											"android-clang-x64",
+											"android-clang-arm",
+											"android-clang-arm64",
+											"ios-clang-x86",
+											"ios-clang-x64",
+											"ios-clang-arm",
+											"ios-clang-arm64",
+											"windows-clang-x86",
+											"windows-clang-x64",
+											"windows-clang-arm",
+											"windows-clang-arm64",
+											"linux-gcc-x86",
+											"linux-gcc-x64",
+											"linux-gcc-arm"
+										]
+									},
+									"intelliSenseOptions": {
+										"type": "object",
+										"description": "Opcjonalny obiekt używany do konfigurowania zaawansowanych ustawień funkcji IntelliSense.",
+										"properties": {
+											"useCompilerDefaults": {
+												"type": "boolean",
+												"default": true,
+												"description": "Określa, czy dla funkcji IntelliSense mają być używane domyślne dyrektywy define kompilatora i ścieżki plików dołączania. Wartości false należy użyć tylko w przypadku, gdy używane kompilatory nie obsługują argumentów w stylu programu gcc."
+											},
+											"additionalCompilerArgs": {
+												"anyOf": [
+													{
+														"type": "string",
+														"default": "empty"
+													},
+													{
+														"type": "array",
+														"description": "Tablica dodatkowych opcji sterujących funkcją IntelliSense w programie Visual Studio.",
+														"items": {
+															"type": "string"
+														}
+													}
+												]
+											}
+										}
+									},
+									"enableMicrosoftCodeAnalysis": {
+										"type": "boolean",
+										"description": "Włącz analizę kodu Microsoft w programie Visual Studio podczas kompilowania przy użyciu narzędzia cl lub clang-cl."
+									},
+									"codeAnalysisRuleset": {
+										"type": "string",
+										"description": "Zestaw reguł do użycia podczas analizy kodu Microsoft w programie Visual Studio. Może być ścieżką lub plikiem zestawu reguł albo nazwą pliku zestawu reguł zainstalowanego z programem Visual Studio."
+									},
+									"enableClangTidyCodeAnalysis": {
+										"type": "boolean",
+										"description": "Włącz analizę kodu clang-tidy w programie Visual Studio podczas kompilowania przy użyciu narzędzia clang-cl."
+									},
+									"clangTidyChecks": {
+										"type": "string",
+										"description": "Rozdzielana przecinkami lista ostrzeżeń przesyłanych do narzędzia clang-tidy podczas wykonywania analizy kodu clang-tidy w programie Visual Studio. Symbole wieloznaczne są dozwolone, a prefiks „-” spowoduje usunięcie kontroli."
+									},
+									"cacheRoot": {
+										"type": "string",
+										"description": "Ścieżka do pamięci podręcznej narzędzia CMake. Ten katalog powinien zawierać istniejący plik CMakeCache.txt. Ten klucz jest obsługiwany tylko przez scenariusz „Otwórz istniejącą pamięć podręczną” w programie Visual Studio."
+									},
+									"cmakeGenerateCommand": {
+										"type": "string",
+										"description": "Narzędzie wiersza polecenia (określone jako program wiersza polecenia + argumenty, na przykład „gencache.bat debug”) do generowania pamięci podręcznej narzędzia CMake. To polecenie będzie uruchamiane z powłoki w środowisku określonym w ustawieniach wstępnych po wywołaniu generowania pamięci podręcznej. Ten klucz jest obsługiwany tylko przez scenariusz „Otwórz istniejącą pamięć podręczną” w programie Visual Studio."
+									}
+								}
+							},
+							"microsoft.com/VisualStudioRemoteSettings/CMake/1.0": {
+								"type": "object",
+								"description": "Opcjonalny obiekt reprezentujący obiekt dostawcy ustawień zdalnych programu Visual Studio",
+								"properties": {
+									"sourceDir": {
+										"type": "string",
+										"default": "$env{HOME}/.vs/${sourceDirName}",
+										"description": "Ścieżka do katalogu w systemie zdalnym lub instalacja narzędzi WSL2, do której zostanie skopiowany projekt."
+									},
+									"copySources": {
+										"type": "boolean",
+										"default": "true",
+										"description": "W przypadku wartości true program Visual Studio skopiuje źródła z systemu Windows do lokalizacji zdalnej. Ustaw wartość false, jeśli zarządzasz synchronizacją plików samodzielnie."
+									},
+									"copySourcesOptions": {
+										"type": "object",
+										"description": "Obiekt ustawień związany z kopiowaniem źródła z systemu Windows do systemu zdalnego.",
+										"properties": {
+											"exclusionList": {
+												"type": "array",
+												"default": "[ \".vs\", \".git\", \"out\"]",
+												"description": "Lista ścieżek, które mają zostać wykluczone podczas kopiowania plików źródłowych do systemu zdalnego. Ścieżka może być nazwą pliku lub katalogu albo ścieżką względną w stosunku do katalogu głównego kopii.",
+												"items": {
+													"type": "string"
+												}
+											},
+											"method": {
+												"type": "string",
+												"default": "rsync",
+												"description": "Metoda używana do kopiowania plików źródłowych do systemu zdalnego. Akceptowane wartości to rsync i sftp."
+											},
+											"concurrentCopies": {
+												"type": "integer",
+												"default": 5,
+												"description": "Liczba równoczesnych operacji kopiowania używanych podczas synchronizowania źródeł z systemem zdalnym."
+											},
+											"outputVerbosity": {
+												"type": "string",
+												"default": "Normal",
+												"description": "Poziom szczegółowości operacji kopiowania źródła do systemu zdalnego. Akceptowane poziomy to Normalne, Szczegółowe i Diagnostyka.",
+												"enum": [
+													"Normal",
+													"Verbose",
+													"Diagnostic"
+												]
+											}
+										}
+									},
+									"rsyncCommandArgs": {
+										"type": "array",
+										"default": "[\"-t\", \"--delete\", \"--delete-excluded\"]",
+										"description": "Lista dodatkowych argumentów wiersza polecenia przekazywanych do protokołu rsync.",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyBuildOutput": {
+										"type": "boolean",
+										"default": false,
+										"description": "Określa, czy dane wyjściowe kompilacji mają być kopiowane z systemu zdalnego z powrotem do systemu Windows."
+									},
+									"copyOptimizations": {
+										"type": "object",
+										"description": "Obiekt ustawień związany z optymalizacją kopiowania źródła.",
+										"properties": {
+											"maxSmallChange": {
+												"type": "integer",
+												"default": 10,
+												"description": "Maksymalna liczba plików do skopiowania przy użyciu protokołu sftp zamiast rsync."
+											},
+											"useOptimizations": {
+												"type": "string",
+												"default": "RsyncAndSftp",
+												"description": "Wybierz brak optymalizacji kopiowania („Brak”), tylko optymalizacje protokołu rsync („RsyncOnly”) lub optymalizacje protokołów rsync i sftp („RsyncAndSftp”).",
+												"enum": [
+													"None",
+													"RsyncOnly",
+													"RsyncAndSftp"
+												]
+											},
+											"rsyncSingleDirectoryCommandArgs": {
+												"type": "array",
+												"default": "[\"-t\", \"-d\"]",
+												"description": "Lista dodatkowych argumentów wiersza polecenia przekazywanych do protokołu rsync podczas kopiowania zawartości pojedynczego katalogu do systemu zdalnego.",
+												"items": {
+													"type": "string"
+												}
+											}
+										}
+									},
+									"copyAdditionalIncludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "Lista ścieżek do katalogów zdalnych nagłówków do skopiowania lokalnie dla funkcji IntelliSense. ",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyExcludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "Lista ścieżek do katalogów zdalnych nagłówków do skopiowania lokalnie dla funkcji IntelliSense. ",
+										"items": {
+											"type": "string"
+										}
+									},
+									"forceWSL1Toolset": {
+										"type": "boolean",
+										"default": false,
+										"description": "Jeśli wartość jest równa true, program Visual Studio będzie zawsze korzystać z zestawu narzędzi WSL1, gdy docelowym elementem w programie Visual Studio będzie podsystem WSL. Zestaw narzędzi WSL1 wykonuje wszystkie polecenia lokalnie i bazuje na dyskach systemu Windows zainstalowanych w folderze/mnt przy uzyskiwaniu dostępu do lokalnych plików źródłowych z podsystemu WSL. Te operacje mogą być wolniejsze w przypadku narzędzi WSL2."
+									}
+								}
+							}
+						}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Opcjonalny ciąg z przyjazną dla człowieka nazwą ustawienia wstępnego."
+					},
+					"description": {
+						"type": "string",
+						"description": "Opcjonalny ciąg z przyjaznym dla człowieka opisem ustawienia wstępnego."
+					},
+					"generator": {
+						"type": "string",
+						"description": "Opcjonalny ciąg reprezentujący generator do użycia na potrzeby ustawienia wstępnego. Jeśli generator nie zostanie podany, musi zostać odziedziczony z ustawienia wstępnego inherits (chyba że to ustawienie wstępne jest ukryte). Pamiętaj, że w przypadku generatorów programu Visual Studio (w przeciwieństwie do argumentu wiersza polecenia -G), nie można uwzględnić nazwy platformy w nazwie generatora. Zamiast tego użyj pola architecture."
+					},
+					"architecture": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Opcjonalny ciąg reprezentujący platformę dla generatorów, które ją obsługują."
+							},
+							{
+								"type": "object",
+								"description": "Opcjonalny obiekt reprezentujący platformę dla generatorów, które ją obsługują.",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "Opcjonalny ciąg reprezentujący wartość."
+									},
+									"strategy": {
+										"type": "string",
+										"description": "Opcjonalny ciąg informujący narzędzie CMake, jak obsługiwać pole. Prawidłowe wartości to: „set” — ustaw odpowiednią wartość. Będzie powodować błąd dla generatorów, które nie obsługują odpowiedniego pola. „external” — nie ustawiaj wartości, nawet jeśli generator ją obsługuje. Jest to przydatne, jeśli na przykład ustawienie wstępne korzysta z generatora Ninja, a środowisko IDE wie, jak skonfigurować środowisko Visual C++ na podstawie pól architektury i zestawu narzędzi. W takim przypadku narzędzie CMake zignoruje to pole, ale środowisko IDE może użyć pól do skonfigurowania środowiska przed wywołaniem narzędzia CMake.",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"toolset": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Opcjonalny ciąg reprezentujący zestaw narzędzi dla generatorów, które go obsługują."
+							},
+							{
+								"type": "object",
+								"description": "Opcjonalny obiekt reprezentujący zestaw narzędzi dla generatorów, które go obsługują.",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "Opcjonalny ciąg reprezentujący wartość."
+									},
+									"strategy": {
+										"type": "string",
+										"description": "Opcjonalny ciąg informujący narzędzie CMake, jak obsługiwać pole. Prawidłowe wartości to: „set” — ustaw odpowiednią wartość. Będzie powodować błąd dla generatorów, które nie obsługują odpowiedniego pola. „external” — nie ustawiaj wartości, nawet jeśli generator ją obsługuje. Jest to przydatne, jeśli na przykład ustawienie wstępne korzysta z generatora Ninja, a środowisko IDE wie, jak skonfigurować środowisko Visual C++ na podstawie pól architektury i zestawu narzędzi. W takim przypadku narzędzie CMake zignoruje to pole, ale środowisko IDE może użyć pól do skonfigurowania środowiska przed wywołaniem narzędzia CMake.",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"binaryDir": {
+						"type": "string",
+						"description": "Opcjonalny ciąg reprezentujący ścieżkę do wyjściowego katalogu danych binarnych. To pole obsługuje rozwijanie makra. W przypadku określenia ścieżki względnej jest ona obliczana względem katalogu źródłowego. Jeśli wartość binaryDir nie zostanie określona, musi ona być dziedziczona z ustawienia wstępnego inherits (chyba że to ustawienie wstępne jest ukryte)."
+					},
+					"cmakeExecutable": {
+						"type": "string",
+						"description": "Opcjonalny ciąg reprezentujący ścieżkę do pliku wykonywalnego narzędzia CMake, który ma być używany w przypadku tego ustawienia wstępnego. Ta wartość jest zarezerwowana do użytku przez środowiska IDE i nie jest używana przez narzędzie CMake. Środowiska IDE, które używają tego pola, powinny rozwijać wszelkie znajdujące się w nim makra."
+					},
+					"cacheVariables": {
+						"type": "object",
+						"description": "Opcjonalna mapa zmiennych pamięci podręcznej. Klucz jest nazwą zmiennej (która nie może być pustym ciągiem). Zmienne pamięci podręcznej są dziedziczone za pośrednictwem pola inherits, a zmienne ustawienia wstępnego będą unią jego własnych wartości cacheVariables i wartości cacheVariables wszystkich jego elementów nadrzędnych. Jeśli wiele ustawień wstępnych w tej unii definiuje tę samą zmienną, stosowane są standardowe reguły pola inherits.",
+						"properties": {
+							"CMAKE_C_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Kompilator, który ma być używany dla języka C."
+									},
+									{
+										"type": "null",
+										"description": "Ustawienie zmiennej na wartość null powoduje, że nie jest ona ustawiona, nawet jeśli wartość została odziedziczona z innego ustawienia wstępnego."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_CXX_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Kompilator, który ma być używany dla języka C++."
+									},
+									{
+										"type": "null",
+										"description": "Ustawienie zmiennej na wartość null powoduje, że nie jest ona ustawiona, nawet jeśli wartość została odziedziczona z innego ustawienia wstępnego."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_INSTALL_PREFIX": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Katalog instalacji używany przez narzędzie CMake."
+									},
+									{
+										"type": "null",
+										"description": "Ustawienie zmiennej na wartość null powoduje, że nie jest ona ustawiona, nawet jeśli wartość została odziedziczona z innego ustawienia wstępnego."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_TOOLCHAIN_FILE": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Plik łańcucha narzędzi przekazywany do narzędzia CMake."
+									},
+									{
+										"type": "null",
+										"description": "Ustawienie zmiennej na wartość null powoduje, że nie jest ona ustawiona, nawet jeśli wartość została odziedziczona z innego ustawienia wstępnego."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_BUILD_TYPE": {
+								"description": "Określa typ kompilacji dla generatorów pojedynczej konfiguracji.",
+								"anyOf": [
+									{
+										"type": "string",
+										"enum": [
+											"Debug",
+											"Release",
+											"RelWithDebInfo",
+											"MinSizeRel"
+										]
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									},
+									{
+										"type": "string"
+									},
+									{
+										"type": "null",
+										"description": "Ustawienie zmiennej na wartość null powoduje, że nie jest ona ustawiona, nawet jeśli wartość została odziedziczona z innego ustawienia wstępnego."
+									}
+								]
+							}
+						},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Ustawienie zmiennej na wartość null powoduje, że nie jest ona ustawiona, nawet jeśli wartość została odziedziczona z innego ustawienia wstępnego."
+								},
+								{
+									"type": "boolean",
+									"description": "Wartość logiczna reprezentująca wartość zmiennej. Odpowiednik wartości „TRUE” lub „FALSE”."
+								},
+								{
+									"type": "string",
+									"description": "Ciąg reprezentujący wartość zmiennej (obsługuje rozwijanie makra)."
+								},
+								{
+									"type": "object",
+									"description": "Obiekt reprezentujący typ i wartość zmiennej.",
+									"properties": {
+										"type": {
+											"type": "string",
+											"description": "Opcjonalny ciąg reprezentujący typ zmiennej. Powinien mieć wartość BOOL, FILEPATH, PATH, STRING lub INTERNAL."
+										},
+										"value": {
+											"anyOf": [
+												{
+													"type": "boolean",
+													"description": "Wymagana wartość logiczna reprezentująca wartość zmiennej. Odpowiednik wartości „TRUE” lub „FALSE”."
+												},
+												{
+													"type": "string",
+													"description": "Wymagany ciąg reprezentujący wartość zmiennej. To pole obsługuje rozwijanie makra."
+												}
+											]
+										}
+									},
+									"required": [
+										"value"
+									],
+									"additionalProperties": false
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"environment": {
+						"type": "object",
+						"description": "Opcjonalna mapa zmiennych środowiskowych. Klucz jest nazwą zmiennej (która nie może być pustym ciągiem). Każda zmienna jest ustawiana niezależnie od tego, czy środowisko procesu nadało jej wartość. To pole obsługuje rozwijanie makra, a zmienne środowiskowe w tej mapie mogą odwoływać się do siebie i mogą być wymieniane w dowolnej kolejności, o ile takie odwołania nie powodują cyklu (jeśli na przykład zmienna ENV_1 ma wartość $env{ENV_2}, zmienna ENV_2 nie może mieć wartości $env{ENV_1}). Zmienne środowiskowe są dziedziczone za pomocą pola Dziedziczy, a środowisko ustawienia wstępnego będzie związkiem jego własnego środowiska i środowiska wszystkich jego elementów nadrzędnych. Jeśli wiele ustawień wstępnych w tym związku definiuje tę samą zmienną, stosowane są standardowe reguły pola Dziedziczy. Ustawienie zmiennej na wartość null powoduje, że nie jest ona ustawiona, nawet jeśli wartość została odziedziczona z innego ustawienia wstępnego.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Ustawienie zmiennej na wartość null powoduje, że nie jest ona ustawiona, nawet jeśli wartość została odziedziczona z innego ustawienia wstępnego."
+								},
+								{
+									"type": "string",
+									"description": "Ciąg reprezentujący wartość zmiennej."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"warnings": {
+						"type": "object",
+						"description": "Opcjonalny obiekt określający ostrzeżenia.",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "Opcjonalna wartość logiczna. Równoważnik przekazania argumentu -Wdev lub -Wno-dev w wierszu polecenia. Nie można podać wartości false, jeśli opcja errors.dev ma wartość true."
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "Opcjonalna wartość logiczna. Równoważnik przekazania argumentu -Wdeprecated lub -Wno-deprecated w wierszu polecenia. Nie można podać wartości false, jeśli opcja errors.deprecated ma wartość true."
+							},
+							"uninitialized": {
+								"type": "boolean",
+								"description": "Opcjonalna wartość logiczna. Ustawienie wartości true jest równoważne przekazaniu argumentu --warn-uninitialized w wierszu polecenia."
+							},
+							"unusedCli": {
+								"type": "boolean",
+								"description": "Opcjonalna wartość logiczna. Ustawienie wartości false jest równoważne przekazaniu argumentu --no-warn-unused-cli w wierszu polecenia."
+							},
+							"systemVars": {
+								"type": "boolean",
+								"description": "Opcjonalna wartość logiczna. Ustawienie wartości true jest równoważne przekazaniu argumentu --check-system-vars w wierszu polecenia."
+							}
+						},
+						"additionalProperties": false
+					},
+					"errors": {
+						"type": "object",
+						"description": "Opcjonalny obiekt określający błędy.",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "Opcjonalna wartość logiczna. Równoważnik przekazania argumentu -Werror=dev lub -Wno-error=dev w wierszu polecenia. Nie można podać wartości true, jeśli opcja warnings.dev ma wartość false."
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "Opcjonalna wartość logiczna. Równoważnik przekazania argumentu -Werror=deprecated lub -Wno-error=deprecated w wierszu polecenia. Nie można podać wartości true, jeśli opcja warnings.deprecated ma wartość false."
+							}
+						},
+						"additionalProperties": false
+					},
+					"debug": {
+						"type": "object",
+						"description": "Opcjonalny obiekt określający opcje debugowania.",
+						"properties": {
+							"output": {
+								"type": "boolean",
+								"description": "Opcjonalna wartość logiczna. Ustawienie wartości true jest równoważne przekazaniu argumentu --debug-output w wierszu polecenia."
+							},
+							"tryCompile": {
+								"type": "boolean",
+								"description": "Opcjonalna wartość logiczna. Ustawienie wartości true jest równoważne przekazaniu argumentu --debug-trycompile w wierszu polecenia."
+							},
+							"find": {
+								"type": "boolean",
+								"description": "Opcjonalna wartość logiczna. Ustawienie wartości true jest równoważne przekazaniu argumentu --debug-find w wierszu polecenia."
+							}
+						},
+						"additionalProperties": false
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"buildPresets": {
+			"type": "array",
+			"description": "Opcjonalna tablica obiektów ustawień wstępnych kompilacji. Służy do określania argumentów polecenia cmake --build. Dostępne w wersji 2 lub nowszej.",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Wymagany ciąg reprezentujący przyjazną dla maszyny nazwę ustawienia wstępnego. Ten identyfikator jest używany w argumencie --preset. W unii plików CMakePresets.json i CMakeUserPresets.json w tym samym katalogu nie mogą znajdować się dwa ustawienia wstępne (konfiguracja, kompilacja lub test) o tej samej nazwie.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Opcjonalna wartość logiczna określająca, czy ustawienie wstępne ma być ukryte. Jeśli ustawienie wstępne jest ukryte, nie można go używać w argumencie --preset, nie będzie ono widoczne w graficznym interfejsie użytkownika narzędzia CMake i nie musi ono mieć prawidłowego elementu configurePreset, nawet dziedziczonego. Ukryte ustawienia wstępne są przeznaczone do użycia jako podstawa dla innych ustawień wstępnych na potrzeby dziedziczenia za pośrednictwem pola inherits."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Opcjonalny ciąg reprezentujący nazwę ustawienia wstępnego kompilacji, z którego ma następować dziedziczenie.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Opcjonalna tablica ciągów reprezentujących nazwy ustawień wstępnych kompilacji, z których ma następować dziedziczenie. Domyślnie ustawienie wstępne będzie dziedziczyć wszystkie pola z ustawień wstępnych inherits (z wyjątkiem name, hidden, inherits, description i displayName), ale można je przesłaniać zgodnie z potrzebami. Jeśli wiele ustawień wstępnych inherits udostępni powodujące konflikt wartości dla tego samego pola, preferowane będzie ustawienie wstępne znajdujące się wyżej na liście ustawień wstępnych inherits. Ustawienia wstępne znajdujące się w pliku CMakePresets.json nie mogą dziedziczyć z ustawień wstępnych znajdujących się w pliku CMakeUserPresets.json.",
+								"items": {
+									"type": "string",
+									"description": "Opcjonalny ciąg reprezentujący nazwę ustawienia wstępnego, z którego ma następować dziedziczenie.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "Opcjonalny ciąg określający nazwę ustawienia wstępnego konfiguracji, które ma zostać skojarzone z tym ustawieniem wstępnym kompilacji. Jeśli nie określono elementu configurePreset, musi on być dziedziczony z ustawienia wstępnego inherits (chyba że to ustawienie wstępne jest ukryte). Katalog drzewa kompilacji jest wnioskowany na podstawie ustawień wstępnych konfiguracji.",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Opcjonalna mapa zawierająca informacje specyficzne dla dostawcy. Narzędzie CMake nie interpretuje zawartości tego pola poza weryfikacją, że rzeczywiście jest to mapa, jeśli pole istnieje. W jego przypadku należy jednak stosować te same konwencje co w przypadku pola vendor na poziomie głównym. Jeśli dostawcy używają własnego pola vendor dla poszczególnych ustawień wstępnych, powinni stosować odpowiednie dziedziczenie, jeśli ma to zastosowanie.",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Opcjonalny ciąg z przyjazną dla człowieka nazwą ustawienia wstępnego."
+					},
+					"description": {
+						"type": "string",
+						"description": "Opcjonalny ciąg z przyjaznym dla człowieka opisem ustawienia wstępnego."
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "Opcjonalna wartość logiczna, która domyślnie ma wartość true. Jeśli wartość jest równa true, zmienne środowiskowe ze skojarzonego ustawienia wstępnego konfiguracji są dziedziczone po wszystkich odziedziczonych środowiskach w ustawieniu wstępnym kompilacji, ale przed zmiennymi środowiskowymi jawnie określonymi w tym ustawieniu wstępnym kompilacji."
+					},
+					"environment": {
+						"type": "object",
+						"description": "Opcjonalna mapa zmiennych środowiskowych. Klucz jest nazwą zmiennej (która nie może być pustym ciągiem). Każda zmienna jest ustawiana niezależnie od tego, czy środowisko procesu nadało jej wartość. To pole obsługuje rozwijanie makra, a zmienne środowiskowe w tej mapie mogą odwoływać się do siebie i mogą być wymieniane w dowolnej kolejności, o ile takie odwołania nie powodują cyklu (jeśli na przykład zmienna ENV_1 ma wartość $env{ENV_2}, zmienna ENV_2 nie może mieć wartości $env{ENV_1}). Zmienne środowiskowe są dziedziczone za pomocą pola Dziedziczy, a środowisko ustawienia wstępnego będzie związkiem jego własnego środowiska i środowiska wszystkich jego elementów nadrzędnych. Jeśli wiele ustawień wstępnych w tym związku definiuje tę samą zmienną, stosowane są standardowe reguły pola Dziedziczy. Ustawienie zmiennej na wartość null powoduje, że nie jest ona ustawiona, nawet jeśli wartość została odziedziczona z innego ustawienia wstępnego.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Ustawienie zmiennej na wartość null powoduje, że nie jest ona ustawiona, nawet jeśli wartość została odziedziczona z innego ustawienia wstępnego."
+								},
+								{
+									"type": "string",
+									"description": "Ciąg reprezentujący wartość zmiennej."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"jobs": {
+						"type": "integer",
+						"description": "Opcjonalna liczba całkowita. Odpowiednik przekazania argumentu --parallel lub -j w wierszu polecenia."
+					},
+					"targets": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Opcjonalny ciąg. Odpowiednik przekazania argumentu --target lub -t w wierszu polecenia. Dostawcy mogą ignorować właściwość elementów docelowych lub ukrywać ustawienia wstępne kompilowania, które jawnie określają elementy docelowe."
+							},
+							{
+								"type": "array",
+								"description": "Opcjonalna tablica ciągów. Równoważnik przekazaniu argumentu --target lub -t w wierszu polecenia. Dostawcy mogą ignorować właściwość elementów docelowych lub ukrywać ustawienia predefiniowane kompilowania, które jawnie określają elementy docelowe.",
+								"items": {
+									"type": "string",
+									"description": "Opcjonalny ciąg. Odpowiednik przekazania argumentu --target lub -t w wierszu polecenia. Dostawcy mogą ignorować właściwość elementów docelowych lub ukrywać ustawienia wstępne kompilowania, które jawnie określają elementy docelowe."
+								}
+							}
+						]
+					},
+					"configuration": {
+						"type": "string",
+						"description": "Opcjonalny ciąg. Odpowiednik przekazania argumentu --config w wierszu polecenia."
+					},
+					"cleanFirst": {
+						"type": "boolean",
+						"description": "Opcjonalna wartość logiczna. W przypadku wartości true odpowiednik przekazania argumentu --clean-first w wierszu polecenia."
+					},
+					"verbose": {
+						"type": "boolean",
+						"description": "Opcjonalna wartość logiczna. W przypadku wartości true odpowiednik przekazania argumentu --verbose w wierszu polecenia."
+					},
+					"nativeToolOptions": {
+						"type": "array",
+						"description": "Opcjonalna tablica ciągów. Odpowiednik przekazania opcji po znakach -- w wierszu polecenia.",
+						"items": {
+							"type": "string",
+							"description": "Opcjonalny ciąg reprezentujący opcję do przekazania po znakach -- w wierszu polecenia."
+						}
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"testPresets": {
+			"type": "array",
+			"description": "Opcjonalna tablica obiektów ustawień wstępnych kompilacji. Służy do określania argumentów polecenia ctest. Dostępne w wersji 2 lub nowszej.",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Wymagany ciąg reprezentujący przyjazną dla maszyny nazwę ustawienia wstępnego. Ten identyfikator jest używany w argumencie --preset. W unii plików CMakePresets.json i CMakeUserPresets.json w tym samym katalogu nie mogą znajdować się dwa ustawienia wstępne (konfiguracja, kompilacja lub test) o tej samej nazwie.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Opcjonalna wartość logiczna określająca, czy ustawienie wstępne ma być ukryte. Jeśli ustawienie wstępne jest ukryte, nie można go używać w argumencie --preset, nie będzie ono widoczne w graficznym interfejsie użytkownika narzędzia CMake i nie musi ono mieć prawidłowego elementu configurePreset, nawet dziedziczonego. Ukryte ustawienia wstępne są przeznaczone do użycia jako podstawa dla innych ustawień wstępnych na potrzeby dziedziczenia za pośrednictwem pola inherits."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Opcjonalny ciąg reprezentujący nazwę ustawienia wstępnego testowania, z którego ma następować dziedziczenie.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Opcjonalna tablica ciągów reprezentujących nazwy ustawień wstępnych, z których ma następować dziedziczenie. Domyślnie ustawienie wstępne będzie dziedziczyć wszystkie pola z ustawień wstępnych inherits (z wyjątkiem name, hidden, inherits, description i longDescription), ale można je przesłaniać zgodnie z potrzebami. Jeśli wiele ustawień wstępnych inherits udostępni powodujące konflikt wartości dla tego samego pola, preferowane będzie ustawienie wstępne znajdujące się wyżej na liście ustawień wstępnych inherits. Ustawienia wstępne znajdujące się w pliku CMakePresets.json nie mogą dziedziczyć z ustawień wstępnych znajdujących się w pliku CMakeUserPresets.json.",
+								"items": {
+									"type": "string",
+									"description": "Opcjonalny ciąg reprezentujący nazwę ustawienia wstępnego, z którego ma następować dziedziczenie.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "Opcjonalny ciąg określający nazwę ustawienia wstępnego konfiguracji, które ma zostać skojarzone z tym ustawieniem wstępnym testowania. Jeśli nie określono elementu configurePreset, musi on być dziedziczony z ustawienia wstępnego inherits (chyba że to ustawienie wstępne jest ukryte). Katalog drzewa kompilacji jest wnioskowany na podstawie ustawień wstępnych konfiguracji.",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Opcjonalna mapa zawierająca informacje specyficzne dla dostawcy. Narzędzie CMake nie interpretuje zawartości tego pola poza weryfikacją, że rzeczywiście jest to mapa, jeśli pole istnieje. W jego przypadku należy jednak stosować te same konwencje co w przypadku pola vendor na poziomie głównym. Jeśli dostawcy używają własnego pola vendor dla poszczególnych ustawień wstępnych, powinni stosować odpowiednie dziedziczenie, jeśli ma to zastosowanie.",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Opcjonalny ciąg z przyjazną dla człowieka nazwą ustawienia wstępnego."
+					},
+					"description": {
+						"type": "string",
+						"description": "Opcjonalny ciąg z przyjaznym dla człowieka opisem ustawienia wstępnego."
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "Opcjonalna wartość logiczna, która domyślnie ma wartość true. Jeśli wartość jest równa true, zmienne środowiskowe ze skojarzonego ustawienia wstępnego konfiguracji są dziedziczone po wszystkich odziedziczonych środowiskach w ustawieniu wstępnym testowania, ale przed zmiennymi środowiskowymi jawnie określonymi w tym ustawieniu wstępnym testowania."
+					},
+					"environment": {
+						"type": "object",
+						"description": "Opcjonalna mapa zmiennych środowiskowych. Klucz jest nazwą zmiennej (która nie może być pustym ciągiem). Każda zmienna jest ustawiana niezależnie od tego, czy środowisko procesu nadało jej wartość. To pole obsługuje rozwijanie makra, a zmienne środowiskowe w tej mapie mogą odwoływać się do siebie i mogą być wymieniane w dowolnej kolejności, o ile takie odwołania nie powodują cyklu (jeśli na przykład zmienna ENV_1 ma wartość $env{ENV_2}, zmienna ENV_2 nie może mieć wartości $env{ENV_1}). Zmienne środowiskowe są dziedziczone za pomocą pola Dziedziczy, a środowisko ustawienia wstępnego będzie związkiem jego własnego środowiska i środowiska wszystkich jego elementów nadrzędnych. Jeśli wiele ustawień wstępnych w tym związku definiuje tę samą zmienną, stosowane są standardowe reguły pola Dziedziczy. Ustawienie zmiennej na wartość null powoduje, że nie jest ona ustawiona, nawet jeśli wartość została odziedziczona z innego ustawienia wstępnego.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Ustawienie zmiennej na wartość null powoduje, że nie jest ona ustawiona, nawet jeśli wartość została odziedziczona z innego ustawienia wstępnego."
+								},
+								{
+									"type": "string",
+									"description": "Ciąg reprezentujący wartość zmiennej."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"configuration": {
+						"type": "string",
+						"description": "Opcjonalny ciąg. Odpowiednik przekazania argumentu --build-config w wierszu polecenia."
+					},
+					"overwriteConfigurationFile": {
+						"type": "array",
+						"description": "Opcjonalna tablica opcji konfiguracji, które mają przesłonić opcje określone w pliku konfiguracji narzędzia CTest. Odpowiednik przekazania argumentu ``--overwrite`` dla każdej wartości w tablicy.",
+						"items": {
+							"type": "string",
+							"description": "Opcja zapisana jako para klucz-wartość w postaci „klucz=wartość”."
+						}
+					},
+					"output": {
+						"type": "object",
+						"description": "Opcjonalny obiekt określający opcje wyjściowe.",
+						"properties": {
+							"shortProgress": {
+								"type": "boolean",
+								"description": "Opcjonalna wartość logiczna. W przypadku wartości true odpowiednik przekazania argumentu --progress w wierszu polecenia."
+							},
+							"verbosity": {
+								"type": "string",
+								"description": "Opcjonalny ciąg określający poziom szczegółowości. Prawidłowe wartości to „default” (odpowiednik nieprzekazania flag szczegółowości w wierszu polecenia), „verbose” (odpowiednik przekazania argumentu --verbose w wierszu polecenia) i „extra” (odpowiednik przekazania argumentu --extra-verbose w wierszu polecenia).",
+								"enum": [
+									"default",
+									"verbose",
+									"extra"
+								]
+							},
+							"debug": {
+								"type": "boolean",
+								"description": "Opcjonalna wartość logiczna. W przypadku wartości true odpowiednik przekazania argumentu --debug w wierszu polecenia."
+							},
+							"outputOnFailure": {
+								"type": "boolean",
+								"description": "Opcjonalna wartość logiczna. W przypadku wartości true odpowiednik przekazania argumentu --output-on-failure w wierszu polecenia."
+							},
+							"quiet": {
+								"type": "boolean",
+								"description": "Opcjonalna wartość logiczna. W przypadku wartości true odpowiednik przekazania argumentu --quiet w wierszu polecenia."
+							},
+							"outputLogFile": {
+								"type": "string",
+								"description": "Opcjonalny ciąg określający ścieżkę do pliku dziennika. Odpowiednik przekazania argumentu --output-log w wierszu polecenia."
+							},
+							"labelSummary": {
+								"type": "boolean",
+								"description": "Opcjonalna wartość logiczna. W przypadku wartości false odpowiednik przekazania argumentu --no-label-summary w wierszu polecenia."
+							},
+							"subprojectSummary": {
+								"type": "boolean",
+								"description": "Opcjonalna wartość logiczna. W przypadku wartości false odpowiednik przekazania argumentu --no-subproject-summary w wierszu polecenia."
+							},
+							"maxPassedTestOutputSize": {
+								"type": "integer",
+								"description": "Opcjonalna liczba całkowita określająca maksymalną ilość danych wyjściowych (w bajtach) dla testów zakończonych powodzeniem. Odpowiednik przekazania argumentu --test-output-size-passed w wierszu polecenia."
+							},
+							"maxFailedTestOutputSize": {
+								"type": "integer",
+								"description": "Opcjonalna liczba całkowita określająca maksymalną ilość danych wyjściowych (w bajtach) dla testów zakończonych niepowodzeniem. Odpowiednik przekazania argumentu --test-output-size-failed w wierszu polecenia."
+							},
+							"maxTestNameWidth": {
+								"type": "integer",
+								"description": "Opcjonalna liczba całkowita określająca maksymalną szerokość nazwy testu w danych wyjściowych. Odpowiednik przekazania argumentu --max-width w wierszu polecenia."
+							}
+						},
+						"additionalProperties": false
+					},
+					"filter": {
+						"type": "object",
+						"description": "Opcjonalny obiekt określający sposób filtrowania testów do uruchomienia.",
+						"properties": {
+							"include": {
+								"type": "object",
+								"description": "Opcjonalny obiekt określający, które testy mają zostać uwzględnione.",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "Opcjonalny ciąg określający wyrażenie regularne dla nazw testów. Odpowiednik przekazania argumentu --tests-regex w wierszu polecenia."
+									},
+									"label": {
+										"type": "string",
+										"description": "Opcjonalny ciąg określający wyrażenie regularne dla etykiet testów. Odpowiednik przekazania argumentu --label-regularne w wierszu polecenia."
+									},
+									"index": {
+										"anyOf": [
+											{
+												"type": "object",
+												"description": "Opcjonalny obiekt określający testy do uwzględnienia według indeksu testu.",
+												"properties": {
+													"start": {
+														"type": "integer",
+														"description": "Opcjonalna liczba całkowita określająca indeks testu, od którego ma rozpocząć się testowanie."
+													},
+													"end": {
+														"type": "integer",
+														"description": "Opcjonalna liczba całkowita określająca indeks testu, na którym ma zakończyć się testowanie."
+													},
+													"stride": {
+														"type": "integer",
+														"description": "Opcjonalna liczba całkowita określająca przyrost."
+													},
+													"specificTests": {
+														"type": "array",
+														"description": "Opcjonalna tablica liczb całkowitych określających konkretne indeksy testów do uruchomienia.",
+														"items": {
+															"type": "integer",
+															"description": "Liczba całkowita określająca test do uruchomienia według indeksu."
+														}
+													}
+												},
+												"additionalProperties": false
+											},
+											{
+												"type": "string",
+												"description": "Opcjonalny ciąg określający plik ze składnią wiersza polecenia dla argumentu --tests-information."
+											}
+										]
+									},
+									"useUnion": {
+										"type": "boolean",
+										"description": "Opcjonalna wartość logiczna. Odpowiednik przekazania argumentu --union w wierszu polecenia."
+									}
+								},
+								"additionalProperties": false
+							},
+							"exclude": {
+								"type": "object",
+								"description": "Opcjonalny obiekt określający, które testy mają zostać wykluczone.",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "Opcjonalny ciąg określający wyrażenie regularne dla nazw testów. Odpowiednik przekazania argumentu --exclude-regex w wierszu polecenia."
+									},
+									"label": {
+										"type": "string",
+										"description": "Opcjonalny ciąg określający wyrażenie regularne dla etykiet testów. Odpowiednik przekazania argumentu --label-exclude w wierszu polecenia."
+									},
+									"fixtures": {
+										"type": "object",
+										"description": "Opcjonalny obiekt określający, które warunki początkowe mają zostać wykluczone z dodawania testów.",
+										"properties": {
+											"any": {
+												"type": "string",
+												"description": "Opcjonalny ciąg określający wyrażenie regularne dla tekstowych warunków początkowych, które mają zostać wykluczone z dodawania jakichkolwiek testów. Odpowiednik argumentu --fixture-exclude-any w wierszu polecenia."
+											},
+											"setup": {
+												"type": "string",
+												"description": "Opcjonalny ciąg określający wyrażenie regularne dla tekstowych warunków początkowych, które mają zostać wykluczone z dodawania testów konfiguracji. Odpowiednik argumentu --fixture-exclude-setup w wierszu polecenia."
+											},
+											"cleanup": {
+												"type": "string",
+												"description": "Opcjonalny ciąg określający wyrażenie regularne dla tekstowych warunków początkowych, które mają zostać wykluczone z dodawania testów czyszczenia. Odpowiednik argumentu --fixture-exclude-cleanup w wierszu polecenia."
+											}
+										},
+										"additionalProperties": false
+									}
+								}
+							}
+						},
+						"additionalProperties": false
+					},
+					"execution": {
+						"type": "object",
+						"description": "Opcjonalny obiekt określający opcje wykonywania testu.",
+						"properties": {
+							"stopOnFailure": {
+								"type": "boolean",
+								"description": "Opcjonalna wartość logiczna. W przypadku wartości true odpowiednik przekazania argumentu --stop-on-failure w wierszu polecenia."
+							},
+							"enableFailover": {
+								"type": "boolean",
+								"description": "Opcjonalna wartość logiczna. W przypadku wartości true odpowiednik przekazania argumentu --F w wierszu polecenia."
+							},
+							"jobs": {
+								"type": "integer",
+								"description": "Opcjonalna liczba całkowita. Odpowiednik przekazania argumentu --parallel w wierszu polecenia."
+							},
+							"resourceSpecFile": {
+								"type": "string",
+								"description": "Opcjonalny ciąg. Odpowiednik przekazania argumentu --resource-spec-file w wierszu polecenia."
+							},
+							"testLoad": {
+								"type": "integer",
+								"description": "Opcjonalna liczba całkowita. Odpowiednik przekazania argumentu --test-load w wierszu polecenia."
+							},
+							"showOnly": {
+								"type": "string",
+								"description": "Opcjonalny ciąg. Odpowiednik przekazania argumentu --show-only w wierszu polecenia. Wartość musi być równa „human” lub „json-v1”.",
+								"enum": [
+									"human",
+									"json-v1"
+								]
+							},
+							"repeat": {
+								"type": "object",
+								"description": "Opcjonalny obiekt określający, jak powtarzać testy. Odpowiednik przekazania argumentu --repeat w wierszu polecenia.",
+								"properties": {
+									"mode": {
+										"type": "string",
+										"description": "Wymagany ciąg. Musi to być jedna z następujących wartości: „until-fail”, „until-pass” lub „after-timeout”.",
+										"enum": [
+											"until-fail",
+											"until-pass",
+											"after-timeout"
+										]
+									},
+									"count": {
+										"type": "integer",
+										"description": "Wymagana liczba całkowita."
+									}
+								},
+								"required": [
+									"mode",
+									"count"
+								],
+								"additionalProperties": false
+							},
+							"interactiveDebugging": {
+								"type": "boolean",
+								"description": "Opcjonalna wartość logiczna. W przypadku wartości true odpowiednik przekazania argumentu --interactive-debug-mode 1 w wierszu polecenia. W przypadku wartości false odpowiednik przekazania argumentu --interactive-debug-mode 0 w wierszu polecenia."
+							},
+							"scheduleRandom": {
+								"type": "boolean",
+								"description": "Opcjonalna wartość logiczna. W przypadku wartości true odpowiednik przekazania argumentu --schedule-random w wierszu polecenia."
+							},
+							"timeout": {
+								"type": "integer",
+								"description": "Opcjonalna liczba całkowita. Odpowiednik przekazania argumentu --timeout w wierszu polecenia."
+							},
+							"noTestsAction": {
+								"type": "string",
+								"description": "Opcjonalny ciąg określający zachowanie, jeśli nie zostaną znalezione żadne testy. Musi to być jedna z następujących wartości: „default” (odpowiednik nieprzekazania żadnej wartości w wierszu polecenia), „error” (odpowiednik przekazania argumentu --no-tests=error w wierszu polecenia) lub „ignore” (odpowiednik przekazania argumentu --no-tests-ignore w wierszu polecenia).",
+								"enum": [
+									"default",
+									"error",
+									"ignore"
+								]
+							}
+						},
+						"additionalProperties": false
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"vendor": {
+			"type": "object",
+			"description": "Opcjonalna mapa zawierająca informacje specyficzne dla dostawcy. Narzędzie CMake nie interpretuje zawartości tego pola poza weryfikacją, że rzeczywiście jest to mapa, jeśli pole istnieje. Klucze powinny jednak być nazwami domen specyficznymi dla dostawcy, po których następuje ścieżka rozdzielona ukośnikami (/). Na przykład w przypadku środowiska Example IDE 1.0 można byłoby użyć wartości example.com/ExampleIDE/1.0. Wartość każdego pola może być dowolną wartością wymaganą przez dostawcę, chociaż zazwyczaj jest to mapa.",
+			"properties": {}
+		}
+	},
+	"additionalProperties": false
+}

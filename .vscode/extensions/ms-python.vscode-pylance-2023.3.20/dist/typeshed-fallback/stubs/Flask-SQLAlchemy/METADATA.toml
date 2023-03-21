@@ -1,0 +1,6 @@
+version = "2.5.*"
+requires = ["types-SQLAlchemy"]
+obsolete_since = "3.0.1" # Released on 2022-10-11
+
+[tool.stubtest]
+ignore_missing_stub = true

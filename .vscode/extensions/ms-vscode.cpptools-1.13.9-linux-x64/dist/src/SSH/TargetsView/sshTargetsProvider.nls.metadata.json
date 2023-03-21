@@ -1,0 +1,15 @@
+{
+	"messages": [
+		"No SSH targets",
+		"Active SSH target selection cancelled.",
+		"{0} Add New SSH Target...",
+		"Select an SSH target"
+	],
+	"keys": [
+		"no.ssh.targets",
+		"active.ssh.target.selection.cancelled",
+		"add.new.ssh.target",
+		"select.ssh.target"
+	],
+	"filePath": "src\\SSH\\TargetsView\\sshTargetsProvider"
+}

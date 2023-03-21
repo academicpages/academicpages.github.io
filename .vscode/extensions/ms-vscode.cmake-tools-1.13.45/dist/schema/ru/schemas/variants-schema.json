@@ -1,0 +1,111 @@
+{
+	"type": "object",
+	"description": "Параметры варианта",
+	"additionalProperties": false,
+	"minProperties": 1,
+	"patternProperties": {
+		"base\\$": {
+			"type": "object",
+			"description": "Базовый набор для всех вариантов (не реализован для Средств CMake).",
+			"additionalProperties": true
+		},
+		"^\\w+$": {
+			"type": "object",
+			"properties": {
+				"description": {
+					"description": "Описание этого параметра",
+					"type": "string"
+				},
+				"default": {
+					"description": "Значение по умолчанию для этого параметра",
+					"type": "string"
+				},
+				"choices": {
+					"type": "object",
+					"description": "Возможное значение параметра",
+					"minProperties": 1,
+					"patternProperties": {
+						"^\\w+$": {
+							"type": "object",
+							"required": [
+								"short"
+							],
+							"properties": {
+								"short": {
+									"type": "string",
+									"description": "Простое описание этого значения в виде одного слова"
+								},
+								"long": {
+									"type": "string",
+									"description": "Более подробное описание этого значения"
+								},
+								"buildType": {
+									"type": "string",
+									"default": "Debug",
+									"description": "Значение CMAKE_BUILD_TYPE для этого варианта"
+								},
+								"linkage": {
+									"type": "string",
+									"enum": [
+										"static",
+										"shared"
+									],
+									"default": "static",
+									"description": "Устанавливает значение BUILD_SHARED в командной строке CMake."
+								},
+								"env": {
+									"type": "object",
+									"description": "Переменные среды, устанавливаемые во время настройки CMake",
+									"additionalProperties": false,
+									"patternProperties": {
+										"^\\w+$": {
+											"type": "string",
+											"description": "Значение переменной среды"
+										}
+									}
+								},
+								"settings": {
+									"type": "object",
+									"description": "Аргументы -D для передачи в CMake для этого варианта",
+									"minProperties": 1,
+									"additionalProperties": {
+										"anyOf": [
+											{
+												"type": "string"
+											},
+											{
+												"type": "array",
+												"items": {
+													"type": "string"
+												}
+											},
+											{
+												"type": "integer"
+											},
+											{
+												"type": "boolean"
+											}
+										]
+									}
+								},
+								"generator": {
+									"type": "string",
+									"description": "Генератор CMake для использования в этом варианте",
+									"default": "Ninja"
+								},
+								"toolset": {
+									"type": "string",
+									"description": "Набор инструментов генератора, используемый для этого варианта"
+								}
+							}
+						}
+					}
+				}
+			},
+			"required": [
+				"default",
+				"choices"
+			]
+		}
+	}
+}

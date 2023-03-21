@@ -1,0 +1,27 @@
+{
+	"messages": [
+		"Failed to parse json file, possibly due to comments or trailing commas.",
+		"The C/C++ extension is still installing. See the output window for more information.",
+		"Please refer to {0} for troubleshooting information. Issues can be created at {1}",
+		"Process exited with code {0}",
+		"Process executed successfully.",
+		"Killing process {0}",
+		"Warning: Expected file {0} is missing.",
+		"Warning: Debugging has not been tested for this platform.",
+		"Reload the workspace for the settings change to take effect.",
+		"Reload"
+	],
+	"keys": [
+		"failed.to.parse.json",
+		"extension.not.ready",
+		"refer.read.me",
+		"process.exited",
+		"process.succeeded",
+		"killing.process",
+		"warning.file.missing",
+		"warning.debugging.not.tested",
+		"reload.workspace.for.changes",
+		"reload.string"
+	],
+	"filePath": "src\\common"
+}

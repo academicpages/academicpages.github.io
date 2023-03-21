@@ -1,0 +1,23 @@
+{
+	"extension.description": "Importe o Suporte da organização para arquivos python usando `isort`.",
+	"command.restartServer": "Reiniciar Servidor",
+	"settings.logLevel.description": "O nível de rastreamento no qual a extensão registra, o padrão é 'erro'.",
+	"settings.logLevel.debug.description": "Inclui um log detalhado destinado para fins de depuração.",
+	"settings.logLevel.error.description": "Apenas erros e informações sempre registradas em log.",
+	"settings.logLevel.info.description": "Inclui todas as mensagens que não estão marcadas como detalhadas ou depuradas.",
+	"settings.logLevel.off.description": "A maioria dos logs está desativado, qualquer informação que está sempre registrada em log ainda pode ser mostrada.",
+	"settings.logLevel.warn.description": "Inclui todas as mensagens na categoria de erros e quaisquer avisos adicionais.",
+	"settings.args.description": "Argumentos passados. Cada argumento é uma cadeia de caracteres separada na matriz.",
+	"settings.check.description": "Controla se deve executar o `isort` e relatar problemas de classificação de importação.",
+	"settings.severity.description": "Mapeamento da gravidade do tipo de mensagem `isort` para a gravidade mostrada na janela do problema.",
+	"settings.path.description": "Quando definido como um caminho para o binário `isort`, a extensão usará isso para o lint. OBSERVAÇÃO: usar esta opção pode diminuir a velocidade do lint.",
+	"settings.importStrategy.description": "Define de onde o `isort` é importado. Esta configuração pode ser ignorada se o `isort.path` estiver definido.",
+	"settings.importStrategy.useBundled.description": "Use sempre a versão em pacote de`isort`.",
+	"settings.importStrategy.fromEnvironment.description": "Use `isort` do ambiente, volte para a versão em pacote somente se o `isort` não estiver disponível no ambiente.",
+	"settings.interpreter.description": "Quando definido para um caminho para python executável, a extensão usará isso para iniciar o servidor e qualquer subprocesso.",
+	"settings.showNotifications.description": "Controla quando as notificações são mostradas por esta extensão.",
+	"settings.showNotifications.off.description": "Todas as notificações são desativadas, quaisquer erros ou avisos ainda estão disponíveis nos logs.",
+	"settings.showNotifications.onError.description": "As notificações são mostradas apenas no caso de um erro.",
+	"settings.showNotifications.onWarning.description": "As notificações de erros e avisos são mostradas.",
+	"settings.showNotifications.always.description": "Notificações são mostradas para qualquer coisa que o servidor opte por mostrar."
+}

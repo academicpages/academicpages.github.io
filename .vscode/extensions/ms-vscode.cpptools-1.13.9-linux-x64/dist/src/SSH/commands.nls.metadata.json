@@ -1,0 +1,15 @@
+{
+	"messages": [
+		"\"localSocket\" cannot be specifed at the same time with \"bindAddress\" or \"port\" in localForwards",
+		"\"port\" or \"localSocket\" required in localForwards",
+		"\"remoteSocket\" cannot be specifed at the same time with \"host\" or \"hostPort\" in localForwards",
+		"\"host\" and \"hostPort\", or \"remoteSocket\" required in localForwards"
+	],
+	"keys": [
+		"local.forward.local.conflict",
+		"local.forward.local.missing",
+		"local.forward.remote.conflict",
+		"local.forward.remote.missing"
+	],
+	"filePath": "src\\SSH\\commands"
+}

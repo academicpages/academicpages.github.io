@@ -1,0 +1,1356 @@
+{
+	"type": "object",
+	"description": "Die Voreinstellungen geben den Generator und das Buildverzeichnis sowie optional eine Liste mit Variablen und anderen Argumenten an, die an CMake übergeben werden sollen.",
+	"required": [
+		"version"
+	],
+	"properties": {
+		"version": {
+			"type": "integer",
+			"description": "Eine erforderliche ganze Zahl, die die Version des JSON-Schemas repräsentiert."
+		},
+		"cmakeMinimumRequired": {
+			"type": "object",
+			"description": "Ein optionales Objekt zur Darstellung der Mindestversion von CMake, die zum Erstellen dieses Projekts erforderlich ist.",
+			"properties": {
+				"major": {
+					"type": "integer",
+					"description": "Eine optionale ganze Zahl, die die Hauptversion darstellt."
+				},
+				"minor": {
+					"type": "integer",
+					"description": "Eine optionale ganze Zahl, die die Nebenversion darstellt."
+				},
+				"patch": {
+					"type": "integer",
+					"description": "Eine optionale ganze Zahl, die die Patchversion darstellt."
+				}
+			},
+			"additionalProperties": false
+		},
+		"configurePresets": {
+			"type": "array",
+			"description": "Ein optionales Array für Objekte zur Konfigurationsvoreinstellung.",
+			"items": {
+				"type": "object",
+				"description": "Ein Objekt zur Konfigurationsvoreinstellung.",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Eine erforderliche Zeichenfolge, die den Computeranzeigenamen der Voreinstellung darstellt. Dieser Bezeichner wird im Argument \"--preset\" verwendet. Es dürfen keine zwei Voreinstellungen in der Union von \"CMakePresets.json\" und \"CMakeUserPresets.json\" im selben Verzeichnis mit demselben Namen vorhanden sein.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Ein optionaler boolescher Wert, der angibt, ob eine Voreinstellung ausgeblendet werden soll. Wenn eine Voreinstellung ausgeblendet ist, kann sie nicht im Argument \"--preset=\" verwendet werden. Sie wird nicht in der CMake-GUI angezeigt und muss auch bei Vererbung nicht über einen gültigen Generator oder ein gültiges binaryDir verfügen. Ausgeblendete Voreinstellungen dienen als Grundlage für andere Voreinstellungen, die über das inherits-Feld geerbt werden."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Eine optionale Zeichenfolge zur Darstellung des Namens der Voreinstellung, von der geerbt werden soll.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Ein optionales Array aus Zeichenfolgen, die die Namen von Voreinstellungen repräsentieren, von denen geerbt werden soll. Die Voreinstellung erbt standardmäßig alle Felder aus den inherits-Voreinstellungen (mit Ausnahme von \"name\", \"hidden\", \"inherits\", \"description\" und \"displayName\"), kann diese jedoch nach Bedarf überschreiben. Wenn mehrere inherits-Voreinstellungen widersprüchliche Werte für dasselbe Feld angeben, wird die frühere Voreinstellung in der inherits-Liste bevorzugt. Voreinstellungen in \"CMakePresets.json\" dürfen nicht von Voreinstellungen in \"CMakeUserPresets.json\" erben.",
+								"items": {
+									"type": "string",
+									"description": "Eine optionale Zeichenfolge zur Darstellung des Namens der Voreinstellung, von der geerbt werden soll.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Eine optionale Zuordnung, die anbieterspezifische Informationen enthält. CMake interpretiert den Inhalt dieses Felds nur, um zu überprüfen, ob es sich um eine Zuordnung handelt (falls vorhanden). Als Schlüssel muss jedoch ein anbieterspezifischer Domänenname, gefolgt von einem durch \"/\" getrennten Pfad sein. Beispiel: Für die Beispiel-IDE 1.0 kann \"example.com/ExampleIDE/1.0\" verwendet werden. Die Werte der einzelnen Felder können vom Hersteller nach Bedarf festgelegt werden, aber in der Regel handelt es sich um eine Zuordnung.",
+						"properties": {
+							"microsoft.com/VisualStudioSettings/CMake/1.0": {
+								"type": "object",
+								"description": "Ein optionales Objekt, das das Anbieterobjekt für Visual Studio-Einstellungen repräsentiert.",
+								"properties": {
+									"hostOS": {
+										"anyOf": [
+											{
+												"type": "string",
+												"description": "Eine optionale Zeichenfolge, die den Namen des Hostbetriebssystems repräsentiert. Akzeptierte Werte sind Windows, Linux und macOS.",
+												"enum": [
+													"Windows",
+													"Linux",
+													"macOS"
+												]
+											},
+											{
+												"type": "array",
+												"description": "Ein Array unterstützter Hostbetriebssysteme. Dieser Schlüssel wird von Visual Studio und Visual Studio Code zum Ausblenden von Voreinstellungen verwendet, die nicht für das aktive Zielsystem oder Hostbetriebssystem gelten. Akzeptierte Werte sind Windows, Linux und macOS.",
+												"items": {
+													"type": "string",
+													"description": "Eine optionale Zeichenfolge, die den Namen des Hostbetriebssystems repräsentiert. Akzeptierte Werte sind Windows, Linux und macOS.",
+													"enum": [
+														"Windows",
+														"Linux",
+														"macOS"
+													]
+												}
+											}
+										]
+									},
+									"intelliSenseMode": {
+										"type": "string",
+										"description": "Ein optionaler Schlüssel, der den bevorzugten IntelliSense-Modus angibt. Dieser Modus wird in Visual Studio und Visual Studio Code zum Berechnen von IntelliSense-Informationen verwendet.",
+										"enum": [
+											"windows-msvc-x86",
+											"windows-msvc-x64",
+											"windows-msvc-arm",
+											"windows-msvc-arm64",
+											"android-clang-x86",
+											"android-clang-x64",
+											"android-clang-arm",
+											"android-clang-arm64",
+											"ios-clang-x86",
+											"ios-clang-x64",
+											"ios-clang-arm",
+											"ios-clang-arm64",
+											"windows-clang-x86",
+											"windows-clang-x64",
+											"windows-clang-arm",
+											"windows-clang-arm64",
+											"linux-gcc-x86",
+											"linux-gcc-x64",
+											"linux-gcc-arm"
+										]
+									},
+									"intelliSenseOptions": {
+										"type": "object",
+										"description": "Ein optionales Objekt, das zum Konfigurieren von erweiterten IntelliSense-Einstellungen verwendet wird.",
+										"properties": {
+											"useCompilerDefaults": {
+												"type": "boolean",
+												"default": true,
+												"description": "Gibt an, ob die definierten Compilerstandardwerte und Includepfade für IntelliSense verwendet werden sollen. Darf nur FALSE lauten, wenn ein Compiler verwendet wird, der keine GCC-Argumente unterstützt."
+											},
+											"additionalCompilerArgs": {
+												"anyOf": [
+													{
+														"type": "string",
+														"default": "empty"
+													},
+													{
+														"type": "array",
+														"description": "Ein Array aus zusätzlichen Optionen zum Steuern von IntelliSense in Visual Studio.",
+														"items": {
+															"type": "string"
+														}
+													}
+												]
+											}
+										}
+									},
+									"enableMicrosoftCodeAnalysis": {
+										"type": "boolean",
+										"description": "Hiermit wird die Microsoft-Codeanalyse in Visual Studio aktiviert, wenn die Builderstellung mit \"cl\" oder \"clang-cl\" erfolgt."
+									},
+									"codeAnalysisRuleset": {
+										"type": "string",
+										"description": "Der Regelsatz, der beim Ausführen der Microsoft-Codeanalyse in Visual Studio verwendet werden soll. Dies kann ein vollständiger Pfad zu einer Regelsatzdatei oder der Name einer Regelsatzdatei sein, die mit Visual Studio installiert wurde."
+									},
+									"enableClangTidyCodeAnalysis": {
+										"type": "boolean",
+										"description": "Hiermit wird die Clang-Tidy-Codeanalyse in Visual Studio aktiviert, wenn die Builderstellung mit \"clang-cl\" erfolgt."
+									},
+									"clangTidyChecks": {
+										"type": "string",
+										"description": "Eine durch Trennzeichen getrennte Liste der Warnungen, die an Clang-Tidy übergeben werden, wenn die Clang-Tidy-Codeanalyse in Visual Studio ausgeführt wird. Platzhalter sind zulässig, und durch das Präfix \"-\" werden Überprüfungen entfernt."
+									},
+									"cacheRoot": {
+										"type": "string",
+										"description": "Der Pfad zu einem CMake-Cache. Dieses Verzeichnis muss eine vorhandene Datei \"CMakeCache.txt\" enthalten. Dieser Schlüssel wird nur für das Szenario \"Vorhandenen Cache öffnen\" in Visual Studio unterstützt."
+									},
+									"cmakeGenerateCommand": {
+										"type": "string",
+										"description": "Ein Befehlszeilentool (angegeben in der Form \"Befehlszeilenprogramm + Argumente\", z. B. \"gencache.bat debug\"), um den CMake-Cache zu generieren. Dieser Befehl wird von der Shell in der durch die Voreinstellung angegebenen Umgebung ausgeführt, wenn die Cachegenerierung aufgerufen wird. Dieser Schlüssel wird nur für das Szenario \"Vorhandenen Cache öffnen\" in Visual Studio unterstützt."
+									}
+								}
+							},
+							"microsoft.com/VisualStudioRemoteSettings/CMake/1.0": {
+								"type": "object",
+								"description": "Ein optionales Objekt, das das Anbieterobjekt für Visual Studio-Remoteeinstellungen repräsentiert.",
+								"properties": {
+									"sourceDir": {
+										"type": "string",
+										"default": "$env{HOME}/.vs/${sourceDirName}",
+										"description": "Pfad zum Verzeichnis auf dem Remotesystem oder in der WSL2-Installation, auf das bzw. in die das Projekt kopiert wird."
+									},
+									"copySources": {
+										"type": "boolean",
+										"default": "true",
+										"description": "Bei einer Festlegung auf TRUE kopiert Visual Studio Quellen von Windows zum Remotesystem. Legen Sie den Wert auf FALSE fest, wenn Sie die Dateisynchronisierung selbst verwalten."
+									},
+									"copySourcesOptions": {
+										"type": "object",
+										"description": "Ein Objekt mit Einstellungen für das Kopieren von Quellen von Windows zum Remotesystem.",
+										"properties": {
+											"exclusionList": {
+												"type": "array",
+												"default": "[ \".vs\", \".git\", \"out\"]",
+												"description": "Eine Liste der Pfade, die beim Kopieren von Quelldateien zum Remotesystem ausgeschlossen werden sollen. Ein Pfad kann der Name einer Datei oder eines Verzeichnisses oder ein Pfad relativ zum Stamm der Kopie sein.",
+												"items": {
+													"type": "string"
+												}
+											},
+											"method": {
+												"type": "string",
+												"default": "rsync",
+												"description": "Die Methode, mit der Quelldateien auf das Remotesystem kopiert werden. Akzeptierte Werte sind \"rsync\" und \"sftp\"."
+											},
+											"concurrentCopies": {
+												"type": "integer",
+												"default": 5,
+												"description": "Die Anzahl gleichzeitiger Kopiervorgänge, die während der Synchronisierung von Quellen mit dem Remotesystem ausgeführt werden."
+											},
+											"outputVerbosity": {
+												"type": "string",
+												"default": "Normal",
+												"description": "Der Grad der Ausführlichkeit bei Kopiervorgängen von der Quelle zum Remotesystem. Akzeptierte Werte sind \"Normal\", \"Verbose\" und \"Diagnostic\".",
+												"enum": [
+													"Normal",
+													"Verbose",
+													"Diagnostic"
+												]
+											}
+										}
+									},
+									"rsyncCommandArgs": {
+										"type": "array",
+										"default": "[\"-t\", \"--delete\", \"--delete-excluded\"]",
+										"description": "Eine Liste mit zusätzlichen Befehlszeilenargumenten, die an rsync übergeben werden.",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyBuildOutput": {
+										"type": "boolean",
+										"default": false,
+										"description": "Gibt an, ob die Buildausgabe vom Remotesystem zurück zu Windows kopiert werden soll."
+									},
+									"copyOptimizations": {
+										"type": "object",
+										"description": "Ein Objekt mit Einstellungen für die Optimierung von Quellkopien.",
+										"properties": {
+											"maxSmallChange": {
+												"type": "integer",
+												"default": 10,
+												"description": "Die maximale Anzahl von Dateien, die mithilfe von sftp anstelle von rsync kopiert werden sollen."
+											},
+											"useOptimizations": {
+												"type": "string",
+												"default": "RsyncAndSftp",
+												"description": "Wählen Sie keine Kopieroptimierung (\"None\") oder reine rsync-Optimierungen (\"RsyncOnly\") aus, oder verwenden Sie sowohl rsync als auch SFTP (\"RsyncAndSftp\").",
+												"enum": [
+													"None",
+													"RsyncOnly",
+													"RsyncAndSftp"
+												]
+											},
+											"rsyncSingleDirectoryCommandArgs": {
+												"type": "array",
+												"default": "[\"-t\", \"-d\"]",
+												"description": "Eine Liste zusätzlicher Befehlszeilenargumente, die an rsync übergeben werden, wenn der Inhalt eines einzelnen Verzeichnisses in das Remotesystem kopiert wird.",
+												"items": {
+													"type": "string"
+												}
+											}
+										}
+									},
+									"copyAdditionalIncludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "Array aus Pfaden zu Remoteheaderverzeichnissen, die lokal für IntelliSense kopiert werden sollen. ",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyExcludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "Eine Liste mit Pfaden zu Remoteheaderverzeichnissen, die lokal für IntelliSense kopiert werden sollen. ",
+										"items": {
+											"type": "string"
+										}
+									},
+									"forceWSL1Toolset": {
+										"type": "boolean",
+										"default": false,
+										"description": "Bei einer Festlegung auf TRUE verwendet Visual Studio immer das WSL1-Toolset, wenn WSL als Ziel verwendet wird. Das WSL1-Toolset führt alle Befehle lokal aus und setzt voraus, dass Windows-Laufwerke unter dem Ordner \"/mnt\" eingebunden sind, um auf lokale Quelldateien von WSL zuzugreifen. Diese Vorgänge können mit WSL2 langsamer erfolgen."
+									}
+								}
+							}
+						}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Eine optionale Zeichenfolge mit einem benutzerfreundlichen Namen der Voreinstellung."
+					},
+					"description": {
+						"type": "string",
+						"description": "Eine optionale Zeichenfolge mit einer benutzerfreundlichen Beschreibung der Voreinstellung."
+					},
+					"generator": {
+						"type": "string",
+						"description": "Eine optionale Zeichenfolge, die den für die Voreinstellung zu verwendenden Generator darstellt. Wenn der Generator nicht angegeben wird, muss er von der inherits-Voreinstellung geerbt werden (sofern diese Voreinstellung nicht ausgeblendet ist). Hinweis: Im Gegensatz zum Befehlszeilenargument \"-G\" darf bei Visual Studio-Generatoren der Plattformname nicht im Generatornamen enthalten sein. Verwenden Sie stattdessen das Feld \"architecture\"."
+					},
+					"architecture": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Eine optionale Zeichenfolge, die die Plattform für Generatoren repräsentiert, die sie unterstützen."
+							},
+							{
+								"type": "object",
+								"description": "Ein optionales Objekt, das die Plattform für Generatoren darstellt, die sie unterstützen.",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "Eine optionale Zeichenfolge, die den Wert repräsentiert."
+									},
+									"strategy": {
+										"type": "string",
+										"description": "Eine optionale Zeichenfolge mit Anweisungen zur Verarbeitung des Felds für CMake. Gültige Werte: \"set\": Der entsprechende Wert wird festgelegt. Dies führt zu einem Fehler für Generatoren, die das entsprechende Feld nicht unterstützen. \"external\": Der Wert wird nicht festgelegt, selbst wenn er vom Generator unterstützt wird. Dies ist nützlich, wenn z. B. eine Voreinstellung den Ninja-Generator verwendet und eine IDE die Informationen zur Einrichtung der Visual C++-Umgebung aus den Feldern \"architecture\" und \"toolset\" bezieht. In diesem Fall ignoriert CMake das Feld, aber die IDE kann die Informationen zum Einrichten der Umgebung verwenden, bevor CMake aufgerufen wird.",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"toolset": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Eine optionale Zeichenfolge, die das Toolset für Generatoren repräsentiert, die es unterstützen."
+							},
+							{
+								"type": "object",
+								"description": "Ein optionales Objekt, das das Toolset für Generatoren repräsentiert, die es unterstützen.",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "Eine optionale Zeichenfolge, die den Wert repräsentiert."
+									},
+									"strategy": {
+										"type": "string",
+										"description": "Eine optionale Zeichenfolge mit Anweisungen zur Verarbeitung des Felds für CMake. Gültige Werte: \"set\": Der entsprechende Wert wird festgelegt. Dies führt zu einem Fehler für Generatoren, die das entsprechende Feld nicht unterstützen. \"external\": Der Wert wird nicht festgelegt, selbst wenn er vom Generator unterstützt wird. Dies ist nützlich, wenn z. B. eine Voreinstellung den Ninja-Generator verwendet und eine IDE die Informationen zur Einrichtung der Visual C++-Umgebung aus den Feldern \"architecture\" und \"toolset\" bezieht. In diesem Fall ignoriert CMake das Feld, aber die IDE kann die Informationen zum Einrichten der Umgebung verwenden, bevor CMake aufgerufen wird.",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"binaryDir": {
+						"type": "string",
+						"description": "Eine optionale Zeichenfolge, die den Pfad zum binären Ausgabeverzeichnis darstellt. Dieses Feld unterstützt die Makroerweiterung. Bei Angabe eines relativen Pfads wird dieser relativ zum Quellverzeichnis berechnet. Wenn \"binaryDir\" nicht angegeben ist, muss diese Angabe von der inherits-Voreinstellung geerbt werden (sofern diese Voreinstellung nicht ausgeblendet ist)."
+					},
+					"cmakeExecutable": {
+						"type": "string",
+						"description": "Eine optionale Zeichenfolge zur Darstellung des Pfads zu der ausführbaren CMake-Datei, die für diese Voreinstellung verwendet werden soll. Diese ist für die Verwendung durch IDEs reserviert und wird nicht von CMake selbst verwendet. IDEs, die dieses Feld verwenden, sollten alle darin enthaltenen Makros erweitern."
+					},
+					"cacheVariables": {
+						"type": "object",
+						"description": "Eine optionale Zuordnung von Cachevariablen. Der Schlüssel ist der Variablenname, der keine leere Zeichenfolge sein darf. Cachevariablen werden über das inherits-Feld geerbt, und die Variablen der Voreinstellung sind eine Union der eigenen cacheVariables und der cacheVariables aller ihnen übergeordneten Elemente. Wenn mehrere Voreinstellungen in dieser Union dieselbe Variable definieren, werden die inherits-Standardregeln angewendet.",
+						"properties": {
+							"CMAKE_C_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Der für C zu verwendende Compiler."
+									},
+									{
+										"type": "null",
+										"description": "Das Festlegen einer Variablen auf NULL führt dazu, dass diese auch dann nicht festgelegt wird, wenn ein Wert von einer anderen Voreinstellung geerbt wurde."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_CXX_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Der für C++ zu verwendende Compiler."
+									},
+									{
+										"type": "null",
+										"description": "Das Festlegen einer Variablen auf NULL führt dazu, dass diese auch dann nicht festgelegt wird, wenn ein Wert von einer anderen Voreinstellung geerbt wurde."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_INSTALL_PREFIX": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Das von CMake verwendete Installationsverzeichnis. Verwenden Sie stattdessen die Eigenschaft \"installDir\", wenn Sie die Voreinstellungen der Version 3 oder höher verwenden."
+									},
+									{
+										"type": "null",
+										"description": "Das Festlegen einer Variablen auf NULL führt dazu, dass diese auch dann nicht festgelegt wird, wenn ein Wert von einer anderen Voreinstellung geerbt wurde."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_TOOLCHAIN_FILE": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Die an CMake übergebene Datei \"Toolkette\". Verwenden Sie stattdessen die Eigenschaft \"toolchainFile\", wenn Sie die Voreinstellungen der Version 3 oder höher verwenden."
+									},
+									{
+										"type": "null",
+										"description": "Das Festlegen einer Variablen auf NULL führt dazu, dass diese auch dann nicht festgelegt wird, wenn ein Wert von einer anderen Voreinstellung geerbt wurde."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_BUILD_TYPE": {
+								"description": "Gibt den Buildtyp bei Generatoren mit Einzelkonfiguration an.",
+								"anyOf": [
+									{
+										"type": "string",
+										"enum": [
+											"Debug",
+											"Release",
+											"RelWithDebInfo",
+											"MinSizeRel"
+										]
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									},
+									{
+										"type": "string"
+									},
+									{
+										"type": "null",
+										"description": "Das Festlegen einer Variablen auf NULL führt dazu, dass diese auch dann nicht festgelegt wird, wenn ein Wert von einer anderen Voreinstellung geerbt wurde."
+									}
+								]
+							}
+						},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Das Festlegen einer Variablen auf NULL führt dazu, dass diese auch dann nicht festgelegt wird, wenn ein Wert von einer anderen Voreinstellung geerbt wurde."
+								},
+								{
+									"type": "boolean",
+									"description": "Ein boolescher Wert, der den Wert der Variablen repräsentiert. Mögliche Werte sind TRUE oder FALSE."
+								},
+								{
+									"type": "string",
+									"description": "Eine Zeichenfolge, die den Wert der Variablen darstellt (mit Unterstützung der Makroerweiterung)."
+								},
+								{
+									"type": "object",
+									"description": "Ein Objekt, das den Typ und den Wert der Variablen darstellt.",
+									"properties": {
+										"type": {
+											"type": "string",
+											"description": "Eine optionale Zeichenfolge, die den Typ der Variablen darstellt. Sie muss BOOL, FILEPATH, PATH, STRING oder INTERNAL lauten."
+										},
+										"value": {
+											"anyOf": [
+												{
+													"type": "boolean",
+													"description": "Ein erforderlicher boolescher Wert, der den Wert der Variablen repräsentiert. Mögliche Werte sind TRUE oder FALSE."
+												},
+												{
+													"type": "string",
+													"description": "Eine erforderliche Zeichenfolge, die den Wert der Variablen darstellt. Dieses Feld unterstützt die Makroerweiterung."
+												}
+											]
+										}
+									},
+									"required": [
+										"value"
+									],
+									"additionalProperties": false
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"environment": {
+						"type": "object",
+						"description": "Eine optionale Zuordnung von Umgebungsvariablen. Der Schlüssel ist der Variablenname (der keine leere Zeichenfolge sein darf). Jede Variable wird unabhängig davon festgelegt, ob ihr von der Umgebung des Prozesses ein Wert zugewiesen wurde oder nicht. Dieses Feld unterstützt die Makroerweiterung, und Umgebungsvariablen in dieser Zuordnung verweisen möglicherweise aufeinander und können in beliebiger Reihenfolge aufgelistet werden, solange solche Verweise keinen Zyklus verursachen (wenn ENV_1 beispielsweise $env{ENV_2} ist, darf ENV_2 nicht $env{ENV_1} sein). Umgebungsvariablen werden über das Feld \"inherits\" geerbt, und die Umgebung der Voreinstellung ist die Vereinigung ihrer eigenen Umgebung und der Umgebung von allen übergeordneten Elementen. Wenn mehrere Voreinstellungen in dieser Vereinigung dieselbe Variable definieren, werden die Standardregeln für \"inherits\" angewendet. Wenn Sie eine Variable auf NULL festlegen, wird sie auch dann nicht festgelegt, wenn ein Wert von einer anderen Voreinstellung geerbt wurde.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Das Festlegen einer Variablen auf NULL führt dazu, dass diese auch dann nicht festgelegt wird, wenn ein Wert von einer anderen Voreinstellung geerbt wurde."
+								},
+								{
+									"type": "string",
+									"description": "Eine Zeichenfolge, die den Wert der Variablen darstellt."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"warnings": {
+						"type": "object",
+						"description": "Ein optionales Objekt, das Warnungen angibt.",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "Ein optionaler boolescher Wert. Entspricht der Übergabe von \"-Wdev\" oder \"-Wno-dev\" in der Befehlszeile. Dieser Wert darf nicht auf FALSE festgelegt werden, wenn \"errors.dev\" auf TRUE festgelegt ist."
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "Ein optionaler boolescher Wert. Entspricht der Übergabe von \"-Wdeprecated\" oder \"-Wno-deprecated\" in der Befehlszeile. Dieser Wert darf nicht auf FALSE festgelegt werden, wenn \"errors.deprecated\" auf TRUE festgelegt ist."
+							},
+							"uninitialized": {
+								"type": "boolean",
+								"description": "Ein optionaler boolescher Wert. Das Festlegen auf TRUE entspricht der Übergabe von \"--warn-uninitialized\" in der Befehlszeile."
+							},
+							"unusedCli": {
+								"type": "boolean",
+								"description": "Ein optionaler boolescher Wert. Das Festlegen auf FALSE entspricht der Übergabe von \"--no-warn-unused-cli\" in der Befehlszeile."
+							},
+							"systemVars": {
+								"type": "boolean",
+								"description": "Ein optionaler boolescher Wert. Das Festlegen auf TRUE entspricht der Übergabe von \"--check-System-vars\" in der Befehlszeile."
+							}
+						},
+						"additionalProperties": false
+					},
+					"errors": {
+						"type": "object",
+						"description": "Ein optionales Objekt, das Fehler angibt.",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "Ein optionaler boolescher Wert. Entspricht der Übergabe von \"-Werror=dev\" oder \"-Wno-error=dev\" in der Befehlszeile. Dieser Wert darf nicht auf TRUE festgelegt werden, wenn \"warnings.dev\" auf FALSE festgelegt ist."
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "Ein optionaler boolescher Wert. Entspricht der Übergabe von \"-Werror=deprecated\" oder \"-Wno-error=deprecated\" in der Befehlszeile. Dieser Wert darf nicht auf TRUE festgelegt werden, wenn \"warnings.deprecated\" auf FALSE festgelegt ist."
+							}
+						},
+						"additionalProperties": false
+					},
+					"debug": {
+						"type": "object",
+						"description": "Ein optionales Objekt, das Debugoptionen angibt.",
+						"properties": {
+							"output": {
+								"type": "boolean",
+								"description": "Ein optionaler boolescher Wert. Eine Festlegung auf TRUE entspricht der Übergabe von \"--debug-output\" in der Befehlszeile."
+							},
+							"tryCompile": {
+								"type": "boolean",
+								"description": "Ein optionaler boolescher Wert. Eine Festlegung auf TRUE entspricht der Übergabe von \"--debug-trycompile\" in der Befehlszeile."
+							},
+							"find": {
+								"type": "boolean",
+								"description": "Ein optionaler boolescher Wert. Eine Festlegung auf TRUE entspricht der Übergabe von --debug-find\" in der Befehlszeile."
+							}
+						},
+						"additionalProperties": false
+					},
+					"installDir": {
+						"type": "string",
+						"description": "Eine optionale Zeichenfolge, die den Pfad zum Installationsverzeichnis darstellt. Dieses Feld unterstützt die Makroerweiterung. Wenn ein relativer Pfad angegeben ist, wird er relativ zum Quellverzeichnis berechnet. Wird in Version 3 unterstützt."
+					},
+					"toolchainFile": {
+						"type": "string",
+						"description": "Eine optionale Zeichenfolge, die den Pfad zur Datei \"Tool\" darstellt. Dieses Feld unterstützt die Makroerweiterung. Wenn ein relativer Pfad angegeben ist, wird er relativ zum Buildverzeichnis und, falls nicht gefunden, relativ zum Quellverzeichnis berechnet. Wird in Version 3 unterstützt."
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"buildPresets": {
+			"type": "array",
+			"description": "Ein optionales Array aus Objekten für Buildvoreinstellungen. Wird verwendet, um Argumente für \"cmake --build\" anzugeben. Verfügbar in Version 2 und höher.",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Eine erforderliche Zeichenfolge, die den Computeranzeigenamen der Voreinstellung darstellt. Dieser Bezeichner wird im Argument \"--preset\" verwendet. Es dürfen keine zwei Voreinstellungen (\"configure\", \"build\" oder \"test\") in der Union von \"CMakePresets.json\" und \"CMakeUserPresets.json\" im selben Verzeichnis mit demselben Namen vorhanden sein.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Ein optionaler boolescher Wert, der angibt, ob eine Voreinstellung ausgeblendet werden soll. Wenn eine Voreinstellung ausgeblendet ist, kann sie nicht im Argument \"--preset\" verwendet werden. Sie wird nicht in der CMake-GUI angezeigt und muss auch bei Vererbung nicht über einen gültigen configurePreset-Wert verfügen. Ausgeblendete Voreinstellungen dienen als Grundlage für andere Voreinstellungen, die über das inherits-Feld geerbt werden."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Eine optionale Zeichenfolge, die den Namen der Buildvoreinstellung repräsentiert, von der geerbt werden soll.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Ein optionales Array aus Zeichenfolgen, die die Namen der Voreinstellungen repräsentieren, von denen geerbt werden soll. Die Voreinstellung erbt standardmäßig alle Felder aus den inherits-Voreinstellungen (mit Ausnahme von \"name\", \"hidden\", \"inherits\", \"description\" und \"displayName\"), kann diese jedoch nach Bedarf überschreiben. Wenn mehrere inherits-Voreinstellungen widersprüchliche Werte für dasselbe Feld angeben, wird die frühere Voreinstellung in der inherits-Liste bevorzugt. Voreinstellungen in \"CMakePresets.json\" dürfen nicht von Voreinstellungen in \"CMakeUserPresets.json\" erben.",
+								"items": {
+									"type": "string",
+									"description": "Eine optionale Zeichenfolge zur Darstellung des Namens der Voreinstellung, von der geerbt werden soll.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "Eine optionale Zeichenfolge, die den Namen einer Konfigurationsvoreinstellung angibt, die dieser Buildvoreinstellung zugeordnet werden soll. Wenn \"configurePreset\" nicht angegeben ist, muss der Wert von der inherits-Voreinstellung geerbt werden (es sei denn, diese Voreinstellung ist ausgeblendet). Das Verzeichnis der Buildstruktur wird von der Konfigurationsvoreinstellung abgeleitet.",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Eine optionale Zuordnung mit herstellerspezifischen Informationen. CMake interpretiert den Inhalt dieses Felds nur, um zu überprüfen, ob es sich um eine Zuordnung handelt (falls vorhanden). Das Feld muss jedoch den gleichen Konventionen folgen wie das Feld für den Anbieter auf Stammebene. Wenn Anbieter ein eigenes Anbieterfeld pro Voreinstellung verwenden, sollten sie die Vererbung nach Bedarf auf sinnvolle Weise implementieren.",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Eine optionale Zeichenfolge mit einem benutzerfreundlichen Namen der Voreinstellung."
+					},
+					"description": {
+						"type": "string",
+						"description": "Eine optionale Zeichenfolge mit einer benutzerfreundlichen Beschreibung der Voreinstellung."
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "Ein optionaler boolescher Wert, der standardmäßig TRUE lautet. Bei einer Festlegung auf TRUE werden die Umgebungsvariablen aus der zugehörigen Konfigurationsvoreinstellung nach allen vererbten Umgebungseinstellungen aus der Buildvoreinstellung, aber vor den explizit in dieser Buildvoreinstellung angegebenen Umgebungsvariablen vererbt."
+					},
+					"environment": {
+						"type": "object",
+						"description": "Eine optionale Zuordnung von Umgebungsvariablen. Der Schlüssel ist der Variablenname (der keine leere Zeichenfolge sein darf). Jede Variable wird unabhängig davon festgelegt, ob ihr von der Umgebung des Prozesses ein Wert zugewiesen wurde oder nicht. Dieses Feld unterstützt die Makroerweiterung, und Umgebungsvariablen in dieser Zuordnung verweisen möglicherweise aufeinander und können in beliebiger Reihenfolge aufgelistet werden, solange solche Verweise keinen Zyklus verursachen (wenn ENV_1 beispielsweise $env{ENV_2} ist, darf ENV_2 nicht $env{ENV_1} sein). Umgebungsvariablen werden über das Feld \"inherits\" geerbt, und die Umgebung der Voreinstellung ist die Vereinigung ihrer eigenen Umgebung und der Umgebung von allen übergeordneten Elementen. Wenn mehrere Voreinstellungen in dieser Vereinigung dieselbe Variable definieren, werden die Standardregeln für \"inherits\" angewendet. Wenn Sie eine Variable auf NULL festlegen, wird sie auch dann nicht festgelegt, wenn ein Wert von einer anderen Voreinstellung geerbt wurde.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Das Festlegen einer Variablen auf NULL führt dazu, dass diese auch dann nicht festgelegt wird, wenn ein Wert von einer anderen Voreinstellung geerbt wurde."
+								},
+								{
+									"type": "string",
+									"description": "Eine Zeichenfolge, die den Wert der Variablen darstellt."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"jobs": {
+						"type": "integer",
+						"description": "Eine optionale ganze Zahl. Entspricht der Übergabe von \"--parallel\" oder \"-j\" in der Befehlszeile."
+					},
+					"targets": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Eine optionale Zeichenfolge. Entspricht der Übergabe von \"--target\" oder \"-t\" in der Befehlszeile. Anbieter können die Eigenschaft \"targets\" ignorieren oder Buildvoreinstellungen ausblenden, die explizit Ziele angeben."
+							},
+							{
+								"type": "array",
+								"description": "Ein optionales Array aus Zeichenfolgen. Entspricht der Übergabe von \"--target\" oder \"-t\" in der Befehlszeile. Anbieter können die Eigenschaft \"targets\" ignorieren oder Buildvoreinstellungen ausblenden, die explizit Ziele angeben.",
+								"items": {
+									"type": "string",
+									"description": "Eine optionale Zeichenfolge. Entspricht der Übergabe von \"--target\" oder \"-t\" in der Befehlszeile. Anbieter können die Eigenschaft \"targets\" ignorieren oder Buildvoreinstellungen ausblenden, die explizit Ziele angeben."
+								}
+							}
+						]
+					},
+					"configuration": {
+						"type": "string",
+						"description": "Eine optionale Zeichenfolge. Entspricht der Übergabe von \"--config\" in der Befehlszeile."
+					},
+					"cleanFirst": {
+						"type": "boolean",
+						"description": "Ein optionaler boolescher Wert. Eine Festlegung auf TRUE entspricht der Übergabe von \"--clean-first\" in der Befehlszeile."
+					},
+					"verbose": {
+						"type": "boolean",
+						"description": "Ein optionaler boolescher Wert. Eine Festlegung auf TRUE entspricht der Übergabe von \"--verbose\" in der Befehlszeile."
+					},
+					"nativeToolOptions": {
+						"type": "array",
+						"description": "Ein optionales Array aus Zeichenfolgen. Entspricht der Übergabe von Optionen nach \"--\" in der Befehlszeile.",
+						"items": {
+							"type": "string",
+							"description": "Eine optionale Zeichenfolge, die eine Option repräsentiert, die nach \"--\" in der Befehlszeile übergeben wird."
+						}
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"testPresets": {
+			"type": "array",
+			"description": "Ein optionales Array aus Objekten für Testvoreinstellungen. Wird verwendet, um Argumente für CTest anzugeben. Verfügbar in Version 2 und höher.",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Eine erforderliche Zeichenfolge, die den Computeranzeigenamen der Voreinstellung darstellt. Dieser Bezeichner wird im Argument \"--preset\" verwendet. Es dürfen keine zwei Voreinstellungen (\"configure\", \"build\" oder \"test\") in der Union von \"CMakePresets.json\" und \"CMakeUserPresets.json\" im selben Verzeichnis mit demselben Namen vorhanden sein.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Ein optionaler boolescher Wert, der angibt, ob eine Voreinstellung ausgeblendet werden soll. Wenn eine Voreinstellung ausgeblendet ist, kann sie nicht im Argument \"--preset\" verwendet werden. Sie wird nicht in der CMake-GUI angezeigt und muss auch bei Vererbung nicht über einen gültigen configurePreset-Wert verfügen. Ausgeblendete Voreinstellungen dienen als Grundlage für andere Voreinstellungen, die über das inherits-Feld geerbt werden."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Eine optionale Zeichenfolge zur Darstellung des Namens der Testvoreinstellung, von der geerbt werden soll.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Ein optionales Array aus Zeichenfolgen, die die Namen von Testvoreinstellungen repräsentieren, von denen geerbt werden soll. Die Voreinstellung erbt standardmäßig alle Felder aus den Vererbungsvoreinstellungen (mit Ausnahme von \"name\", \"hidden\", \"inherits\", \"description\" und \"displayName\"), kann diese jedoch nach Bedarf überschreiben. Wenn mehrere Vererbungsvoreinstellungen widersprüchliche Werte für dasselbe Feld bereitstellen, wird die frühere Voreinstellung in der inherits-Liste bevorzugt. Voreinstellungen in \"CMakePresets.json\" dürfen nicht von Voreinstellungen in \"CMakeUserPresets.json\" erben.",
+								"items": {
+									"type": "string",
+									"description": "Eine optionale Zeichenfolge zur Darstellung des Namens der Voreinstellung, von der geerbt werden soll.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "Eine optionale Zeichenfolge, die den Namen einer Konfigurationsvoreinstellung angibt, die dieser Testvoreinstellung zugeordnet werden soll. Wenn \"configurePreset\" nicht angegeben ist, muss der Wert von der inherits-Voreinstellung geerbt werden (es sei denn, diese Voreinstellung ist ausgeblendet). Das Verzeichnis der Buildstruktur wird von der Konfigurationsvoreinstellung abgeleitet.",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Eine optionale Zuordnung mit herstellerspezifischen Informationen. CMake interpretiert den Inhalt dieses Felds nur, um zu überprüfen, ob es sich um eine Zuordnung handelt (falls vorhanden). Das Feld muss jedoch den gleichen Konventionen folgen wie das Feld für den Anbieter auf Stammebene. Wenn Anbieter ein eigenes Anbieterfeld pro Voreinstellung verwenden, sollten sie die Vererbung nach Bedarf auf sinnvolle Weise implementieren.",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Eine optionale Zeichenfolge mit einem benutzerfreundlichen Namen der Voreinstellung."
+					},
+					"description": {
+						"type": "string",
+						"description": "Eine optionale Zeichenfolge mit einer benutzerfreundlichen Beschreibung der Voreinstellung."
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "Ein optionaler boolescher Wert, der standardmäßig TRUE lautet. Bei einer Festlegung auf TRUE werden die Umgebungsvariablen aus der zugehörigen Konfigurationsvoreinstellung nach allen vererbten Umgebungseinstellungen aus der Testvoreinstellung, aber vor den explizit in dieser Testvoreinstellung angegebenen Umgebungsvariablen vererbt."
+					},
+					"environment": {
+						"type": "object",
+						"description": "Eine optionale Zuordnung von Umgebungsvariablen. Der Schlüssel ist der Variablenname (der keine leere Zeichenfolge sein darf). Jede Variable wird unabhängig davon festgelegt, ob ihr von der Umgebung des Prozesses ein Wert zugewiesen wurde oder nicht. Dieses Feld unterstützt die Makroerweiterung, und Umgebungsvariablen in dieser Zuordnung verweisen möglicherweise aufeinander und können in beliebiger Reihenfolge aufgelistet werden, solange solche Verweise keinen Zyklus verursachen (wenn ENV_1 beispielsweise $env{ENV_2} ist, darf ENV_2 nicht $env{ENV_1} sein). Umgebungsvariablen werden über das Feld \"inherits\" geerbt, und die Umgebung der Voreinstellung ist die Vereinigung ihrer eigenen Umgebung und der Umgebung von allen übergeordneten Elementen. Wenn mehrere Voreinstellungen in dieser Vereinigung dieselbe Variable definieren, werden die Standardregeln für \"inherits\" angewendet. Wenn Sie eine Variable auf NULL festlegen, wird sie auch dann nicht festgelegt, wenn ein Wert von einer anderen Voreinstellung geerbt wurde.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Das Festlegen einer Variablen auf NULL führt dazu, dass diese auch dann nicht festgelegt wird, wenn ein Wert von einer anderen Voreinstellung geerbt wurde."
+								},
+								{
+									"type": "string",
+									"description": "Eine Zeichenfolge, die den Wert der Variablen darstellt."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"configuration": {
+						"type": "string",
+						"description": "Eine optionale Zeichenfolge. Entspricht der Übergabe von \"--build-config\" in der Befehlszeile."
+					},
+					"overwriteConfigurationFile": {
+						"type": "array",
+						"description": "Ein optionales Array aus Konfigurationsoptionen zum Überschreiben der in der CTest-Konfigurationsdatei angegebenen Optionen. Entspricht der Übergabe von \"--overwrite \" für jeden Wert im Array.",
+						"items": {
+							"type": "string",
+							"description": "Eine Option, die als Schlüssel-Wert-Paar in der Form \"key=value\" angegeben wird."
+						}
+					},
+					"output": {
+						"type": "object",
+						"description": "Ein optionales Objekt, das Ausgabeoptionen angibt.",
+						"properties": {
+							"shortProgress": {
+								"type": "boolean",
+								"description": "Ein optionaler boolescher Wert. Eine Festlegung auf TRUE entspricht der Übergabe von \"--progress\" in der Befehlszeile."
+							},
+							"verbosity": {
+								"type": "string",
+								"description": "Eine optionale Zeichenfolge, die den Grad der Ausführlichkeit angibt. Folgende Werte sind gültig: \"default\" – entspricht der Übergabe keines Ausführlichkeitsflags in der Befehlszeile, \"verbose\" – entspricht der Übergabe von \"--verbose\" in der Befehlszeile, \"extra\" – entspricht der Übergabe von \"--extra-verbose\" in der Befehlszeile.",
+								"enum": [
+									"default",
+									"verbose",
+									"extra"
+								]
+							},
+							"debug": {
+								"type": "boolean",
+								"description": "Ein optionaler boolescher Wert. Eine Festlegung auf TRUE entspricht der Übergabe von \"--debug\" in der Befehlszeile."
+							},
+							"outputOnFailure": {
+								"type": "boolean",
+								"description": "Ein optionaler boolescher Wert. Eine Festlegung auf TRUE entspricht der Übergabe von \"--output-on-failure\" in der Befehlszeile."
+							},
+							"quiet": {
+								"type": "boolean",
+								"description": "Ein optionaler boolescher Wert. Eine Festlegung auf TRUE entspricht der Übergabe von \"--quiet\" in der Befehlszeile."
+							},
+							"outputLogFile": {
+								"type": "string",
+								"description": "Eine optionale Zeichenfolge, die einen Pfad zu einer Protokolldatei angibt. Entspricht der Übergabe von \"--output-log\" in der Befehlszeile."
+							},
+							"labelSummary": {
+								"type": "boolean",
+								"description": "Ein optionaler boolescher Wert. Eine Festlegung auf FALSE entspricht der Übergabe von \"--no-label-summary\" in der Befehlszeile."
+							},
+							"subprojectSummary": {
+								"type": "boolean",
+								"description": "Ein optionaler boolescher Wert. Eine Festlegung auf FALSE entspricht der Übergabe von \"--no-subproject-summary\" in der Befehlszeile."
+							},
+							"maxPassedTestOutputSize": {
+								"type": "integer",
+								"description": "Eine optionale ganze Zahl, die die maximale Ausgabegröße für übergebene Tests in Byte angibt. Entspricht der Übergabe von \"--test-output-size-passed\" in der Befehlszeile."
+							},
+							"maxFailedTestOutputSize": {
+								"type": "integer",
+								"description": "Eine optionale ganze Zahl, die die maximale Ausgabegröße für fehlerhafte Tests in Byte angibt. Entspricht der Übergabe von \"--test-output-size-failed\" in der Befehlszeile."
+							},
+							"maxTestNameWidth": {
+								"type": "integer",
+								"description": "Eine optionale ganze Zahl, die die maximale Breite von Testnamen in der Ausgabe angibt. Entspricht der Übergabe von \"--max-width\" in der Befehlszeile."
+							}
+						},
+						"additionalProperties": false
+					},
+					"filter": {
+						"type": "object",
+						"description": "Ein optionales Objekt, das angibt, wie die auszuführenden Tests gefiltert werden.",
+						"properties": {
+							"include": {
+								"type": "object",
+								"description": "Ein optionales Objekt, das die einzuschließenden Tests angibt.",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "Eine optionale Zeichenfolge, die einen Regex für Testnamen angibt. Entspricht der Übergabe von \"--tests-regex\" in der Befehlszeile."
+									},
+									"label": {
+										"type": "string",
+										"description": "Eine optionale Zeichenfolge, die einen Regex für Testbezeichnungen angibt. Entspricht der Übergabe von \"--label-regex\" in der Befehlszeile."
+									},
+									"index": {
+										"anyOf": [
+											{
+												"type": "object",
+												"description": "Ein optionales Objekt, das Tests angibt, die über den Testindex eingeschlossen werden sollen.",
+												"properties": {
+													"start": {
+														"type": "integer",
+														"description": "Eine optionale ganze Zahl, die einen Testindex angibt, an dem Tests gestartet werden sollen."
+													},
+													"end": {
+														"type": "integer",
+														"description": "Eine optionale ganze Zahl, die einen Testindex angibt, an dem Tests beendet werden sollen."
+													},
+													"stride": {
+														"type": "integer",
+														"description": "Eine optionale ganze Zahl, die das Inkrement angibt."
+													},
+													"specificTests": {
+														"type": "array",
+														"description": "Ein optionales Array aus ganzen Zahlen, die bestimmte Testindizes angeben, die ausgeführt werden sollen.",
+														"items": {
+															"type": "integer",
+															"description": "Eine ganze Zahl, die den auszuführenden Test nach Index angibt."
+														}
+													}
+												},
+												"additionalProperties": false
+											},
+											{
+												"type": "string",
+												"description": "Eine optionale Zeichenfolge, die eine Datei mit der Befehlszeilensyntax für \"--tests-information\" angibt."
+											}
+										]
+									},
+									"useUnion": {
+										"type": "boolean",
+										"description": "Ein optionaler boolescher Wert. Entspricht der Übergabe von \"--union\" in der Befehlszeile."
+									}
+								},
+								"additionalProperties": false
+							},
+							"exclude": {
+								"type": "object",
+								"description": "Ein optionales Objekt, das die auszuschließenden Tests angibt.",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "Eine optionale Zeichenfolge, die einen Regex für Testnamen angibt. Entspricht der Übergabe von \"--exclude-regex\" in der Befehlszeile."
+									},
+									"label": {
+										"type": "string",
+										"description": "Eine optionale Zeichenfolge, die einen Regex für Testbezeichnungen angibt. Entspricht der Übergabe von \"--label-exclude\" in der Befehlszeile."
+									},
+									"fixtures": {
+										"type": "object",
+										"description": "Ein optionales Objekt, das angibt, welche Fixtures beim Hinzufügen von Tests ausgeschlossen werden sollen.",
+										"properties": {
+											"any": {
+												"type": "string",
+												"description": "Eine optionale Zeichenfolge, die einen Regex für Textfixtures angibt, die beim Hinzufügen von Tests ausgeschlossen werden sollen. Entspricht der Übergabe von \"--fixture-exclude-any\" in der Befehlszeile."
+											},
+											"setup": {
+												"type": "string",
+												"description": "Eine optionale Zeichenfolge, die einen Regex für Textfixtures angibt, die beim Hinzufügen von Setuptests ausgeschlossen werden sollen. Entspricht der Übergabe von \"--fixture-exclude-setup\" in der Befehlszeile."
+											},
+											"cleanup": {
+												"type": "string",
+												"description": "Eine optionale Zeichenfolge, die einen Regex für Textfixtures angibt, die beim Hinzufügen von Bereinigungstests ausgeschlossen werden sollen. Entspricht der Übergabe von \"--fixture-exclude-cleanup\" in der Befehlszeile."
+											}
+										},
+										"additionalProperties": false
+									}
+								}
+							}
+						},
+						"additionalProperties": false
+					},
+					"execution": {
+						"type": "object",
+						"description": "Ein optionales Objekt, das Optionen für die Testausführung angibt.",
+						"properties": {
+							"stopOnFailure": {
+								"type": "boolean",
+								"description": "Ein optionaler boolescher Wert. Eine Festlegung auf TRUE entspricht der Übergabe von \"--stop-on-failure\" in der Befehlszeile."
+							},
+							"enableFailover": {
+								"type": "boolean",
+								"description": "Ein optionaler boolescher Wert. Eine Festlegung auf TRUE entspricht der Übergabe von \"-F\" in der Befehlszeile."
+							},
+							"jobs": {
+								"type": "integer",
+								"description": "Eine optionale ganze Zahl. Entspricht der Übergabe von \"--parallel\" in der Befehlszeile."
+							},
+							"resourceSpecFile": {
+								"type": "string",
+								"description": "Eine optionale Zeichenfolge. Entspricht der Übergabe von \"--resource-spec-file\" in der Befehlszeile."
+							},
+							"testLoad": {
+								"type": "integer",
+								"description": "Eine optionale ganze Zahl. Entspricht der Übergabe von \"--test-load\" in der Befehlszeile."
+							},
+							"showOnly": {
+								"type": "string",
+								"description": "Eine optionale Zeichenfolge. Entspricht der Übergabe von \"--show-only\" in der Befehlszeile. Der Wert muss \"human\" oder \"json-v1\" lauten.",
+								"enum": [
+									"human",
+									"json-v1"
+								]
+							},
+							"repeat": {
+								"type": "object",
+								"description": "Ein optionales Objekt, das angibt, wie Tests wiederholt werden. Entspricht der Übergabe von \"--repeat\" in der Befehlszeile.",
+								"properties": {
+									"mode": {
+										"type": "string",
+										"description": "Eine erforderliche Zeichenfolge. Es muss einer der folgenden Werte verwendet werden: \"until-fail\", \"until-pass\" oder \"after-timeout\".",
+										"enum": [
+											"until-fail",
+											"until-pass",
+											"after-timeout"
+										]
+									},
+									"count": {
+										"type": "integer",
+										"description": "Eine erforderliche ganze Zahl."
+									}
+								},
+								"required": [
+									"mode",
+									"count"
+								],
+								"additionalProperties": false
+							},
+							"interactiveDebugging": {
+								"type": "boolean",
+								"description": "Ein optionaler boolescher Wert. Eine Festlegung auf TRUE entspricht der Übergabe von \"--interactive-debug-mode 1\" in der Befehlszeile. Eine Festlegung auf FALSE entspricht der Übergabe von \"--interactive-debug-mode 0\" in der Befehlszeile."
+							},
+							"scheduleRandom": {
+								"type": "boolean",
+								"description": "Ein optionaler boolescher Wert. Eine Festlegung auf TRUE entspricht der Übergabe von \"--schedule-random\" in der Befehlszeile."
+							},
+							"timeout": {
+								"type": "integer",
+								"description": "Eine optionale ganze Zahl. Entspricht der Übergabe von \"--timeout\" in der Befehlszeile."
+							},
+							"noTestsAction": {
+								"type": "string",
+								"description": "Eine optionale Zeichenfolge, die das Verhalten angibt, wenn keine Tests gefunden werden. Es muss einer der folgenden Werte verwendet werden: \"default\" – entspricht der Übergabe keines Werts in der Befehlszeile, \"error\" – entspricht der Übergabe von \"--no-tests=error\" in der Befehlszeile, \"ignore\" – entspricht der Übergabe von \"--no-tests-ignore\" in der Befehlszeile.",
+								"enum": [
+									"default",
+									"error",
+									"ignore"
+								]
+							}
+						},
+						"additionalProperties": false
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"vendor": {
+			"type": "object",
+			"description": "Eine optionale Zuordnung, die anbieterspezifische Informationen enthält. CMake interpretiert den Inhalt dieses Felds nur, um zu überprüfen, ob es sich um eine Zuordnung handelt (falls vorhanden). Als Schlüssel muss jedoch ein anbieterspezifischer Domänenname, gefolgt von einem durch \"/\" getrennten Pfad sein. Beispiel: Für die Beispiel-IDE 1.0 kann \"example.com/ExampleIDE/1.0\" verwendet werden. Die Werte der einzelnen Felder können vom Hersteller nach Bedarf festgelegt werden, aber in der Regel handelt es sich um eine Zuordnung.",
+			"properties": {}
+		}
+	},
+	"additionalProperties": false,
+	"definitions": {
+		"condition": {
+			"anyOf": [
+				{
+					"type": "boolean",
+					"description": "Ein boolescher Wert, der einen konstanten Wert für die Auswertung der Bedingung bereitstellt."
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Eine erforderliche Zeichenfolge, die den Typ der Bedingung angibt.",
+							"const": "const"
+						},
+						"value": {
+							"type": "boolean",
+							"description": "Ein erforderlicher boolescher Wert, der einen konstanten Wert für die Auswertung der Bedingung bereitstellt."
+						}
+					},
+					"required": [
+						"type",
+						"value"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Eine erforderliche Zeichenfolge, die den Typ der Bedingung angibt.",
+							"const": "equals"
+						},
+						"lhs": {
+							"type": "string",
+							"description": "Erste zu vergleichende Zeichenfolge. Dieses Feld unterstützt die Makroerweiterung."
+						},
+						"rhs": {
+							"type": "string",
+							"description": "Zweite zu vergleichende Zeichenfolge. Dieses Feld unterstützt die Makroerweiterung."
+						}
+					},
+					"required": [
+						"type",
+						"lhs",
+						"rhs"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Eine erforderliche Zeichenfolge, die den Typ der Bedingung angibt.",
+							"const": "notEquals"
+						},
+						"lhs": {
+							"type": "string",
+							"description": "Erste zu vergleichende Zeichenfolge. Dieses Feld unterstützt die Makroerweiterung."
+						},
+						"rhs": {
+							"type": "string",
+							"description": "Zweite zu vergleichende Zeichenfolge. Dieses Feld unterstützt die Makroerweiterung."
+						}
+					},
+					"required": [
+						"type",
+						"lhs",
+						"rhs"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Eine erforderliche Zeichenfolge, die den Typ der Bedingung angibt.",
+							"const": "inList"
+						},
+						"string": {
+							"type": "string",
+							"description": "Eine erforderliche Zeichenfolge, nach der gesucht werden soll. Dieses Feld unterstützt die Makroerweiterung."
+						},
+						"list": {
+							"type": "array",
+							"description": "Eine erforderliche Liste der zu suchenden Zeichenfolgen. Dieses Feld unterstützt die Makroerweiterung und verwendet die Kurzschlussauswertung.",
+							"items": {
+								"type": "string"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"list"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Eine erforderliche Zeichenfolge, die den Typ der Bedingung angibt.",
+							"const": "notInList"
+						},
+						"string": {
+							"type": "string",
+							"description": "Eine erforderliche Zeichenfolge, nach der gesucht werden soll. Dieses Feld unterstützt die Makroerweiterung."
+						},
+						"list": {
+							"type": "array",
+							"description": "Eine erforderliche Liste der zu suchenden Zeichenfolgen. Dieses Feld unterstützt die Makroerweiterung und verwendet die Kurzschlussauswertung.",
+							"items": {
+								"type": "string"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"list"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Eine erforderliche Zeichenfolge, die den Typ der Bedingung angibt.",
+							"const": "matches"
+						},
+						"string": {
+							"type": "string",
+							"description": "Eine erforderliche Zeichenfolge, nach der gesucht werden soll. Dieses Feld unterstützt die Makroerweiterung."
+						},
+						"regex": {
+							"type": "string",
+							"description": "Ein erforderlicher regulärer Ausdruck, nach dem gesucht werden soll. Dieses Feld unterstützt die Makroerweiterung."
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"regex"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Eine erforderliche Zeichenfolge, die den Typ der Bedingung angibt.",
+							"const": "notMatches"
+						},
+						"string": {
+							"type": "string",
+							"description": "Eine erforderliche Zeichenfolge, nach der gesucht werden soll. Dieses Feld unterstützt die Makroerweiterung."
+						},
+						"regex": {
+							"type": "string",
+							"description": "Ein erforderlicher regulärer Ausdruck, nach dem gesucht werden soll. Dieses Feld unterstützt die Makroerweiterung."
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"regex"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Eine erforderliche Zeichenfolge, die den Typ der Bedingung angibt.",
+							"const": "anyOf"
+						},
+						"conditions": {
+							"type": "array",
+							"description": "Ein erforderliches Array von Bedingungsobjekten. Diese Bedingungen verwenden die Kurzschlussauswertung.",
+							"items": {
+								"$ref": "#/definitions/condition"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"conditions"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Eine erforderliche Zeichenfolge, die den Typ der Bedingung angibt.",
+							"const": "allOf"
+						},
+						"conditions": {
+							"type": "array",
+							"description": "Ein erforderliches Array von Bedingungsobjekten. Diese Bedingungen verwenden die Kurzschlussauswertung.",
+							"items": {
+								"$ref": "#/definitions/condition"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"conditions"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Eine erforderliche Zeichenfolge, die den Typ der Bedingung angibt.",
+							"const": "not"
+						},
+						"condition": {
+							"$ref": "#/definitions/condition"
+						}
+					},
+					"required": [
+						"type",
+						"condition"
+					],
+					"additionalProperties": false
+				}
+			]
+		},
+		"topCondition": {
+			"description": "Ein optionales Feld, das verwendet wird, um zu bestimmen, ob eine Voreinstellung aktiviert ist. Wird in Version 3 unterstützt.",
+			"anyOf": [
+				{
+					"$ref": "#/definitions/condition"
+				},
+				{
+					"type": "null",
+					"description": "NULL gibt an, dass die Bedingung immer den Wert \"true\" hat und nicht geerbt wurde."
+				}
+			]
+		}
+	}
+}

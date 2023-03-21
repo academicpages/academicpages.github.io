@@ -1,0 +1,296 @@
+// out: ../pen-paper-coffee.css, compress: true, sourceMap: false
+
+// Modified according to: 
+//   https://github.com/nylki/pen-paper-coffee-syntax
+
+@cursor-color: rgb(30, 30, 8);
+
+@comment-ink: rgb(156, 163, 176);
+@invisible-ink: rgba(169, 193, 214, 0.70);
+@very-light-ink :rgb(110, 125, 170);
+@light-ink:      rgb(37, 95, 147);
+@ink:            rgb(43, 63, 106);
+@dark-ink:       rgb(42, 18, 10);
+
+@heading-ink: @dark-ink;
+@quote-color:         fade(rgb(126, 81, 33),77%);
+@quote-support-color: @very-light-ink;
+
+@citation-symbol-color: rgba(169, 86, 31, 0.43);
+@citation-name-color:   rgb(170, 92, 8);
+
+
+//old @emphasize-color:   rgb(8, 123, 172);
+@emphasize-color: spin(saturate(@light-ink, 25%), -7);
+@emphasize-quote-color: spin(saturate(@quote-color, 40%), -10);
+
+
+@bold-color:        darken(@emphasize-color, 10%);
+@bold-quote-color:  @quote-color;
+
+@paperwhite:  rgb(248, 246, 241);
+@text-selection-color: darken(@paperwhite, 12%);
+@cursor-line-color: fade(@text-selection-color, 20%);
+
+
+// gutter colors
+@heftstreifen: rgb(224, 218, 211);
+
+//@heftstreifen: rgb(202, 193, 186); //old darker gutter
+
+@heftstreifen-selected: darken(@heftstreifen, 12%);
+
+
+@list-color:    #d48767;
+@cyan:          #379566;
+@blue:          #5e78e1;
+@purple:        #8100c6;
+@green:         #8f932b;
+@red:           #c16161;
+@orange:        #d08e25;
+@light-orange:  #e3a92d;
+
+
+// git colors
+@git-removed: rgb(215, 56, 56);
+@git-added: rgb(9, 192, 3);
+@git-modified: rgb(255, 199, 34);
+@git-renamed: rgb(53, 168, 233);
+// This defines all syntax variables that syntax themes must implement when they
+// include a syntax-variables.less file.
+
+// General colors
+@syntax-text-color: @ink;
+@syntax-cursor-color: @cursor-color;
+@syntax-selection-color: @text-selection-color;
+@syntax-background-color: @paperwhite;
+@syntax-cursor-line: @cursor-line-color;
+
+// Guide colors
+@syntax-wrap-guide-color: @heftstreifen;
+@syntax-indent-guide-color: @invisible-ink;
+@syntax-invisible-character-color: @ink;
+
+
+
+// For find and replace markers
+@syntax-result-marker-color: @light-ink;
+@syntax-result-marker-color-selected: white;
+
+// Gutter colors
+@syntax-gutter-text-color: @dark-ink;
+@syntax-gutter-text-color-selected: @syntax-gutter-text-color;
+@syntax-gutter-background-color: @heftstreifen;
+@syntax-gutter-background-color-selected: @heftstreifen-selected;
+
+// For git diff info. i.e. in the gutter
+@syntax-color-renamed: @git-renamed;
+@syntax-color-added: @git-added;
+@syntax-color-modified: @git-modified;
+@syntax-color-removed: @git-removed;
+
+pre {
+  font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+  direction: ltr;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+  word-break: normal;
+  
+  padding: 1em;
+  margin: .5em 0;
+  
+  overflow: auto;
+  line-height: 1.5;
+  tab-size: 4;
+  hyphens: none;
+  color: @syntax-text-color;
+  background-color: contrast(@syntax-background-color, lighten(@syntax-background-color, 4%), darken(@syntax-background-color, 6%)) !important;
+  border: contrast(@syntax-background-color, lighten(@syntax-background-color, 16%), darken(@syntax-background-color, 16%));
+  border-radius: 3px;
+}
+
+pre[class*="language-"] { // presentation mode padding
+  padding: 1em; 
+}
+
+code[class*="language-"],
+pre[class*="language-"] {
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+  color: @comment-ink;
+  font-style: italic;
+}
+
+.token.punctuation {
+  color: @comment-ink;
+}
+
+.namespace {
+	opacity: .7;
+}
+
+
+.token.constant {
+  color: @red;
+}
+
+/*
+.token.property {
+}
+*/
+
+.token.boolean,
+.token.number,
+.token.function-name {
+  color: @red;
+}
+
+.token.tag {
+  color: darken(@red, 10%);
+}
+
+/*
+.token.deleted {
+}
+
+.token.inserted {
+}
+*/
+.token.symbol {
+  color: @green;
+}
+
+.token.selector {
+  color: @orange;
+}
+
+.token.attr-name { // .attribute
+  color: @orange;
+}
+
+.token.string {
+  background-color: rgba(255, 204, 0, 0.03);
+  color: darken(@quote-color, 5%);
+}
+
+.token.char {
+  color: @green;
+}
+
+/*
+.token.builtin {
+  color: @green;
+}
+*/
+
+/*
+.token.entity {
+  color: @blue;
+}
+*/
+
+.token.url {
+  color: @orange;
+}
+
+/*
+.token.operator {
+}
+*/
+
+.token.atrule,
+.token.attr-value,
+.token.keyword {
+  color: @green;
+}
+
+.token.function {
+  color: @orange;
+}
+
+.token.class-name {
+  color: @ink;
+}
+
+.token.variable {
+  color: @blue;
+}
+
+.token.regex,
+.token.important {
+  color: @cyan;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+
+/*
+&.line-numbers {
+  .line-numbers-rows>span:before {
+  }
+}
+*/
+}
+
+/* highlight */
+pre[data-line] {
+  position: relative;
+  padding: 1em 0 1em 3em;
+}
+pre[data-line] .line-highlight-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  display: block;
+  width: 100%;
+}
+
+pre[data-line] .line-highlight {
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding: inherit 0;
+  margin-top: 1em;
+  background: hsla(24, 20%, 50%,.08);
+  background: linear-gradient(to right, hsla(24, 20%, 50%,.1) 70%, hsla(24, 20%, 50%,0));
+  pointer-events: none;
+  line-height: inherit;
+  white-space: pre;
+}
+
+pre[data-line] .line-highlight:before, 
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-start);
+  position: absolute;
+  top: .4em;
+  left: .6em;
+  min-width: 1em;
+  padding: 0 .5em;
+  background-color: hsla(24, 20%, 50%,.4);
+  color: hsl(24, 20%, 95%);
+  font: bold 65%/1.5 sans-serif;
+  text-align: center;
+  vertical-align: .3em;
+  border-radius: 999px;
+  text-shadow: none;
+  box-shadow: 0 1px white;
+}
+
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-end);
+  top: auto;
+  bottom: .4em;
+}

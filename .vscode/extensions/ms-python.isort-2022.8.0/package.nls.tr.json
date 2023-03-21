@@ -1,0 +1,23 @@
+{
+	"extension.description": "`isort` kullanarak python dosyaları için Kuruluş desteğini içe aktarın.",
+	"command.restartServer": "Sunucuyu Yeniden Başlatın",
+	"settings.logLevel.description": "Uzantının günlüğe kaydettiği izleme düzeyi, varsayılan olarak \"hata\"dır.",
+	"settings.logLevel.debug.description": "Hata ayıklama amacıyla ayrıntılı günlük kaydı içerir.",
+	"settings.logLevel.error.description": "Yalnızca hatalar ve her zaman günlüğe kaydedilen bilgiler.",
+	"settings.logLevel.info.description": "Ayrıntılı veya hata ayıklama olarak işaretlenmemiş tüm iletileri içerir.",
+	"settings.logLevel.off.description": "Çoğu günlük kaydı kapalıdır, her zaman günlüğe kaydedilen bilgiler yine de gösterilebilir.",
+	"settings.logLevel.warn.description": "Hata kategorisindeki tüm iletileri ve ek uyarıları içerir.",
+	"settings.args.description": "Bağımsız değişkenler geçirildi. Her bağımsız değişken dizideki ayrı bir öğedir.",
+	"settings.check.description": "Bu, `isort` komutunun çalıştırılmasını ve içeri aktarma sıralama sorunlarının raporlanmasını denetler.",
+	"settings.severity.description": "`isort` ileti türünün önem derecesinden sorun penceresinde gösterilen önem derecesine eşleme.",
+	"settings.path.description": "`isort` ikilisi için bir yola ayarlandığında, uzantı bunu linting için kullanacaktır. NOT: Bu seçeneğin kullanılması linting’i yavaşlatabilir.",
+	"settings.importStrategy.description": "isort`in nereden içe aktarılacağını tanımlar. `isort.path` ayarlanmışsa bu ayar yok sayılabilir.",
+	"settings.importStrategy.useBundled.description": "Her zaman `isort`un birlikte verilen sürümünü kullanın.",
+	"settings.importStrategy.fromEnvironment.description": "Ortamdan `isort` kullanın, yalnızca ortamda `isort` yoksa paketlenmiş sürüme geri dönün.",
+	"settings.interpreter.description": "Yürütülebilir python yolu olarak ayarlandığında, uzantı, sunucuyu ve herhangi bir alt işlemi başlatmak için bunu kullanır.",
+	"settings.showNotifications.description": "Bildirimlerin bu uzantı tarafından ne zaman gösterileceğini kontrol eder.",
+	"settings.showNotifications.off.description": "Tüm bildirimler kapatılmıştır, günlüklerde herhangi bir hata veya uyarı hala mevcuttur.",
+	"settings.showNotifications.onError.description": "Bildirimler yalnızca bir hata durumunda gösterilir.",
+	"settings.showNotifications.onWarning.description": "Hatalar ve uyarılar için bildirimler gösterilir.",
+	"settings.showNotifications.always.description": "Bildirimler, sunucunun göstermeyi seçtiği her şey için gösterilir."
+}

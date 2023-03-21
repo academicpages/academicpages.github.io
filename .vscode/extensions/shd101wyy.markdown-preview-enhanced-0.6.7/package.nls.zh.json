@@ -1,0 +1,23 @@
+{
+  "displayName": "Markdown 增强预览",
+  "description": " 这款插件意在让你拥有飘逸的 Markdown 写作体验",
+  "markdown-preview-enhanced.openPreviewToTheSide.title": "MPE:打开侧边预览",
+  "markdown-preview-enhanced.openPreview.title": "MPE:打开预览",
+  "markdown-preview-enhanced.toggleScrollSync.title": "MPE:开关预览滑动同步",
+  "markdown-preview-enhanced.toggleLiveUpdate.title": "MPE:开关预览实时更新",
+  "markdown-preview-enhanced.toggleBreakOnSingleNewLine.title": "MPE:开关回车换行",
+  "markdown-preview-enhanced.openImageHelper.title": "MPE:图片助手",
+  "markdown-preview-enhanced.runAllCodeChunks.title": "MPE:运行所有代码块",
+  "markdown-preview-enhanced.runCodeChunk.title": "MPE:运行代码块",
+  "markdown-preview-enhanced.syncPreview.title": "MPE:同步预览",
+  "markdown-preview-enhanced.customizeCss.title": "MPE:自定义样式",
+  "markdown-preview-enhanced.insertNewSlide.title": "MPE:插入新的幻灯片",
+  "markdown-preview-enhanced.insertTable.title": "MPE:插入表格",
+  "markdown-preview-enhanced.insertPagebreak.title": "MPE:插入断页符",
+  "markdown-preview-enhanced.createTOC.title": "MPE:创建目录列表",
+  "markdown-preview-enhanced.openMermaidConfig.title": "MPE:打开 mermaid 设置文件",
+  "markdown-preview-enhanced.openMathJaxConfig.title": "MPE:打开 MathJax 设置文件",
+  "markdown-preview-enhanced.openKaTeXConfig.title": "MPE:打开 KaTeX 设置文件",
+  "markdown-preview-enhanced.extendParser.title": "MPE:扩展 Parser",
+  "markdown-preview-enhanced.showUploadedImages.title": "MPE:显示图片上传历史"
+}

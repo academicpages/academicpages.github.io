@@ -1,0 +1,111 @@
+{
+	"type": "object",
+	"description": "Opcje wariantu",
+	"additionalProperties": false,
+	"minProperties": 1,
+	"patternProperties": {
+		"base\\$": {
+			"type": "object",
+			"description": "Podstawowa domieszka dla wszystkich wariantów (niezaimplementowana dla narzędzi CMake Tools)",
+			"additionalProperties": true
+		},
+		"^\\w+$": {
+			"type": "object",
+			"properties": {
+				"description": {
+					"description": "Opis tej opcji",
+					"type": "string"
+				},
+				"default": {
+					"description": "Ustawienie domyślne dla tej opcji",
+					"type": "string"
+				},
+				"choices": {
+					"type": "object",
+					"description": "Możliwa wartość opcji",
+					"minProperties": 1,
+					"patternProperties": {
+						"^\\w+$": {
+							"type": "object",
+							"required": [
+								"short"
+							],
+							"properties": {
+								"short": {
+									"type": "string",
+									"description": "Prosty, jednowyrazowy opis tej wartości"
+								},
+								"long": {
+									"type": "string",
+									"description": "Dłuższy opis efektu użycia tego parametru"
+								},
+								"buildType": {
+									"type": "string",
+									"default": "Debug",
+									"description": "Wartość parametru CMAKE_BUILD_TYPE dla tego wariantu"
+								},
+								"linkage": {
+									"type": "string",
+									"enum": [
+										"static",
+										"shared"
+									],
+									"default": "static",
+									"description": "Ustawia wartość BUILD_SHARED w wierszu polecenia narzędzia CMake"
+								},
+								"env": {
+									"type": "object",
+									"description": "Zmienne środowiskowe do ustawienia podczas konfigurowania narzędzia CMake",
+									"additionalProperties": false,
+									"patternProperties": {
+										"^\\w+$": {
+											"type": "string",
+											"description": "Wartość zmiennej środowiskowej"
+										}
+									}
+								},
+								"settings": {
+									"type": "object",
+									"description": "Argumenty -D przekazane do narzędzia CMake dla tego wariantu",
+									"minProperties": 1,
+									"additionalProperties": {
+										"anyOf": [
+											{
+												"type": "string"
+											},
+											{
+												"type": "array",
+												"items": {
+													"type": "string"
+												}
+											},
+											{
+												"type": "integer"
+											},
+											{
+												"type": "boolean"
+											}
+										]
+									}
+								},
+								"generator": {
+									"type": "string",
+									"description": "Generator narzędzia CMake do użycia dla tego wariantu",
+									"default": "Ninja"
+								},
+								"toolset": {
+									"type": "string",
+									"description": "Zestaw narzędzi generatora do użycia dla tego wariantu"
+								}
+							}
+						}
+					}
+				}
+			},
+			"required": [
+				"default",
+				"choices"
+			]
+		}
+	}
+}

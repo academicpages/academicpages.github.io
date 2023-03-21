@@ -1,0 +1,17 @@
+{
+	"messages": [
+		"Reached max string expansion recursion. Possible circular reference.",
+		"Invalid variable reference {0} in string: {1}.",
+		"Environment variable {0} not found",
+		"Commands are not supported for string: {0}.",
+		"Exception while executing command {0} for string: {1} {2}."
+	],
+	"keys": [
+		"max.recursion.reached",
+		"invalid.var.reference",
+		"env.var.not.found",
+		"commands.not.supported",
+		"exception.executing.command"
+	],
+	"filePath": "src\\expand"
+}

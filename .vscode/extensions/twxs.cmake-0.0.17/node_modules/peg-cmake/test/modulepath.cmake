@@ -1,0 +1,1 @@
+message(${CMAKE_ROOT})

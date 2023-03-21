@@ -1,0 +1,102 @@
+{
+	"type": "array",
+	"description": "CMake 키트",
+	"items": {
+		"type": "object",
+		"description": "키트",
+		"additionalProperties": false,
+		"properties": {
+			"name": {
+				"type": "string",
+				"description": "이 키트 이름"
+			},
+			"description": {
+				"type": "string",
+				"description": "The description of this kit"
+			},
+			"vendor": {
+				"type": "string",
+				"description": "이 키트의 공급업체 이름"
+			},
+			"triple": {
+				"type": "string",
+				"description": "이 키트의 대상 3배"
+			},
+			"version": {
+				"type": "string",
+				"description": "이 키트의 버전"
+			},
+			"versionRuntime": {
+				"type": "string",
+				"description": "키트의 C 런타임 버전"
+			},
+			"keep": {
+				"type": "boolean",
+				"description": "'true'인 경우 이 키트는 최신 상태가 아니더라도 유지됩니다."
+			},
+			"compilers": {
+				"type": "object",
+				"patternProperties": {
+					"\\w+": {
+						"type": "string",
+						"description": "이 언어에 대한 컴파일러 경로"
+					}
+				}
+			},
+			"toolchainFile": {
+				"type": "string",
+				"description": "도구 체인 파일 경로"
+			},
+			"visualStudio": {
+				"type": "string",
+				"description": "Visual Studio 제품의 인스턴스 ID"
+			},
+			"visualStudioArchitecture": {
+				"type": "string",
+				"description": "대상에 대한 아키텍처"
+			},
+			"environmentSetupScript": {
+				"type": "string",
+				"description": "키트의 환경을 수정하는 스크립트의 절대 경로"
+			},
+			"environmentVariables": {
+				"type": "object",
+				"patternProperties": {
+					".*": {
+						"type": "string",
+						"description": "환경 변수 값"
+					}
+				}
+			},
+			"cmakeSettings": {
+				"type": "object",
+				"patternProperties": {
+					".*": {
+						"description": "CMake 설정 값"
+					}
+				}
+			},
+			"preferredGenerator": {
+				"type": "object",
+				"description": "이 키트의 기본 설정 CMake 생성기 설정",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "사용할 생성기 이름"
+					},
+					"platform": {
+						"type": "string",
+						"description": "-A 인수에 대한 CMake 플랫폼"
+					},
+					"toolset": {
+						"type": "string",
+						"description": "-T 인수에 대한 CMake 도구 집합"
+					}
+				},
+				"required": [
+					"name"
+				]
+			}
+		}
+	}
+}

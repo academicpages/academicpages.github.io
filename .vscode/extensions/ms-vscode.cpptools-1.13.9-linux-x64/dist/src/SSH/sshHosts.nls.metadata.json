@@ -1,0 +1,17 @@
+{
+	"messages": [
+		"Failed to parse SSH configuration file {0}: {1}",
+		"Failed to read file {0}.",
+		"Failed to parse SSH configuration file {0}: {1}",
+		"Failed to write to file {0}.",
+		"Failed to read file {0}."
+	],
+	"keys": [
+		"failed.to.parse.SSH.config",
+		"failed.to.read.file",
+		"failed.to.parse.SSH.config",
+		"failed.to.write.file",
+		"failed.to.read.file"
+	],
+	"filePath": "src\\SSH\\sshHosts"
+}

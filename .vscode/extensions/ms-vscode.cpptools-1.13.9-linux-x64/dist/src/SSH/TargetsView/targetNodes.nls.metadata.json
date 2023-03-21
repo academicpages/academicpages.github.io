@@ -1,0 +1,9 @@
+{
+	"messages": [
+		"[Active]"
+	],
+	"keys": [
+		"ssh.target.active.description"
+	],
+	"filePath": "src\\SSH\\TargetsView\\targetNodes"
+}

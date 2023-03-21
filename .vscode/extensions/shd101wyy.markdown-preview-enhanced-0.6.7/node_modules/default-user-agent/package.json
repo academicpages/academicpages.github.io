@@ -1,0 +1,52 @@
+{
+  "name": "default-user-agent",
+  "version": "1.0.0",
+  "description": "Default user agent string for nodejs http request",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "mocha --check-leaks -R spec -t 5000 test/*.test.js",
+    "test-cov": "istanbul cover node_modules/.bin/_mocha -- --check-leaks -t 5000 test/*.test.js",
+    "test-travis": "istanbul cover node_modules/.bin/_mocha --report lcovonly -- --check-leaks -t 5000 test/*.test.js",
+    "lint": "jshint .",
+    "autod": "autod -w --prefix '~'",
+    "cnpm": "npm install --registry=https://registry.npm.taobao.org",
+    "contributors": "contributors -f plain -o AUTHORS"
+  },
+  "dependencies": {
+    "os-name": "~1.0.3"
+  },
+  "devDependencies": {
+    "autod": "*",
+    "contributors": "*",
+    "should": "*",
+    "jshint": "*",
+    "cov": "*",
+    "istanbul": "*",
+    "mocha": "*"
+  },
+  "homepage": "https://github.com/node-modules/default-user-agent",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/node-modules/default-user-agent.git",
+    "web": "https://github.com/node-modules/default-user-agent"
+  },
+  "bugs": {
+    "url": "https://github.com/node-modules/default-user-agent/issues",
+    "email": "fengmk2@gmail.com"
+  },
+  "keywords": [
+    "user-agent",
+    "ua",
+    "useragent",
+    "request",
+    "http"
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "author": "fengmk2 <fengmk2@gmail.com> (http://fengmk2.com)",
+  "license": "MIT"
+}

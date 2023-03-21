@@ -1,0 +1,8 @@
+"use strict";
+
+function parse(string) {
+    var peg_parser = require('../grammar/cmake.js');
+    return peg_parser.parse(string + "\n");
+}
+
+module.exports = parse; 

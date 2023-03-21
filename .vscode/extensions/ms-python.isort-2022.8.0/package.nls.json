@@ -1,0 +1,23 @@
+{
+    "extension.description": "Import Organization support for python files using `isort`.",
+    "command.restartServer": "Restart Server",
+    "settings.logLevel.description": "The trace level the extension logs at, defaults to 'error'.",
+    "settings.logLevel.debug.description": "Includes verbose logging intended for debugging purposes.",
+    "settings.logLevel.error.description": "Only errors and always logged information.",
+    "settings.logLevel.info.description": "Includes all messages that are not marked as verbose or debug.",
+    "settings.logLevel.off.description": "Most logging is turned off, any information that is always logged might still be shown.",
+    "settings.logLevel.warn.description": "Includes all messages in the error category and any additional warnings.",
+    "settings.args.description": "Arguments passed in. Each argument is a separate string in the array.",
+    "settings.check.description": "Controls whether to run `isort` and report import sort issues.",
+    "settings.severity.description": "Mapping from severity of `isort` message type to severity shown in problem window.",
+    "settings.path.description": "When set to a path to `isort` binary, extension will use that for linting. NOTE: Using this option may slowdown linting.",
+    "settings.importStrategy.description": "Defines where `isort` is imported from. This setting may be ignored if `isort.path` is set.",
+    "settings.importStrategy.useBundled.description": "Always use the bundled version of `isort`.",
+    "settings.importStrategy.fromEnvironment.description": "Use `isort` from environment, fallback to bundled version only if `isort` not available in the environment.",
+    "settings.interpreter.description": "When set to a path to python executable, extension will use that to launch the server and any subprocess.",
+    "settings.showNotifications.description": "Controls when notifications are shown by this extension.",
+    "settings.showNotifications.off.description": "All notifications are turned off, any errors or warning are still available in the logs.",
+    "settings.showNotifications.onError.description": "Notifications are shown only in the case of an error.",
+    "settings.showNotifications.onWarning.description": "Notifications are shown for errors and warnings.",
+    "settings.showNotifications.always.description": "Notifications are show for anything that the server chooses to show."
+}

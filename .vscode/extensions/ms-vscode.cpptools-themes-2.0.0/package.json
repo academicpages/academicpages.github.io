@@ -1,0 +1,75 @@
+{
+	"name": "cpptools-themes",
+	"displayName": "C/C++ Themes",
+	"description": "UI Themes for C/C++ extension.",
+	"version": "2.0.0",
+	"publisher": "ms-vscode",
+	"preview": false,
+	"icon": "assets/LanguageCCPP_color_128x.png",
+	"readme": "README.md",
+	"author": {
+		"name": "Microsoft Corporation"
+	},
+	"license": "SEE LICENSE IN LICENSE.txt",
+	"engines": {
+		"vscode": "^1.30.0"
+	},
+	"bugs": {
+		"url": "https://github.com/Microsoft/vscode-cpptools/issues",
+		"email": "c_cpp_support@microsoft.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Microsoft/vscode-cpptools.git"
+	},
+	"homepage": "https://github.com/Microsoft/vscode-cpptools",
+	"qna": "https://github.com/Microsoft/vscode-cpptools/issues",
+	"keywords": [
+		"C",
+		"C++",
+		"Microsoft",
+		"Theme",
+		"Themes"
+	],
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"id": "Visual Studio Dark - C++",
+				"label": "Dark (Visual Studio - C/C++)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/cpptools_dark_vs_new.json"
+			},
+			{
+				"id": "Visual Studio 2017 Dark - C++",
+				"label": "2017 Dark (Visual Studio - C/C++)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/cpptools_dark_vs.json"
+			},
+			{
+				"id": "Visual Studio Light - C++",
+				"label": "Light (Visual Studio - C/C++)",
+				"uiTheme": "vs",
+				"path": "./themes/cpptools_light_vs_new.json"
+			},
+			{
+				"id": "Visual Studio 2017 Light - C++",
+				"label": "2017 Light (Visual Studio - C/C++)",
+				"uiTheme": "vs",
+				"path": "./themes/cpptools_light_vs.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "99b17261-8f6e-45f0-9ad5-a69c6f509a4f",
+		"publisherId": "5f5636e7-69ed-4afe-b5d6-8d231fb3d3ee",
+		"publisherDisplayName": "Microsoft",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1671082197088
+	}
+}

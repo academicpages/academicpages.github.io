@@ -1,0 +1,111 @@
+{
+	"type": "object",
+	"description": "變化選項",
+	"additionalProperties": false,
+	"minProperties": 1,
+	"patternProperties": {
+		"base\\$": {
+			"type": "object",
+			"description": "所有變化的基底混合 (未對 CMake 工具實作)",
+			"additionalProperties": true
+		},
+		"^\\w+$": {
+			"type": "object",
+			"properties": {
+				"description": {
+					"description": "此選項的描述",
+					"type": "string"
+				},
+				"default": {
+					"description": "此選項的預設設定",
+					"type": "string"
+				},
+				"choices": {
+					"type": "object",
+					"description": "可能的選項值",
+					"minProperties": 1,
+					"patternProperties": {
+						"^\\w+$": {
+							"type": "object",
+							"required": [
+								"short"
+							],
+							"properties": {
+								"short": {
+									"type": "string",
+									"description": "這個值的簡單一字描述"
+								},
+								"long": {
+									"type": "string",
+									"description": "此值用途的較長描述"
+								},
+								"buildType": {
+									"type": "string",
+									"default": "Debug",
+									"description": "此變化的 CMAKE_BUILD_TYPE 值"
+								},
+								"linkage": {
+									"type": "string",
+									"enum": [
+										"static",
+										"shared"
+									],
+									"default": "static",
+									"description": "在 CMake 命令列上設定 BUILD_SHARED 的值"
+								},
+								"env": {
+									"type": "object",
+									"description": "CMake 設定期間要設定的環境變數",
+									"additionalProperties": false,
+									"patternProperties": {
+										"^\\w+$": {
+											"type": "string",
+											"description": "環境變數的值"
+										}
+									}
+								},
+								"settings": {
+									"type": "object",
+									"description": "要傳遞給此變化之 CMake 的 -D 引數",
+									"minProperties": 1,
+									"additionalProperties": {
+										"anyOf": [
+											{
+												"type": "string"
+											},
+											{
+												"type": "array",
+												"items": {
+													"type": "string"
+												}
+											},
+											{
+												"type": "integer"
+											},
+											{
+												"type": "boolean"
+											}
+										]
+									}
+								},
+								"generator": {
+									"type": "string",
+									"description": "要用於此變化的 CMake 產生器",
+									"default": "Ninja"
+								},
+								"toolset": {
+									"type": "string",
+									"description": "要用於此變化的產生器工具組"
+								}
+							}
+						}
+					}
+				}
+			},
+			"required": [
+				"default",
+				"choices"
+			]
+		}
+	}
+}

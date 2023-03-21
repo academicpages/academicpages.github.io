@@ -1,0 +1,102 @@
+Metadata-Version: 2.1
+Name: pygls
+Version: 0.13.0
+Summary: a pythonic generic language server (pronounced like "pie glass").
+Home-page: https://github.com/openlawlibrary/pygls/tree/master/
+Author: Open Law Library
+Author-email: info@openlawlib.org
+License: Apache 2.0
+Keywords: python,pythonic,generic,language,server,protocol
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Information Technology
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Requires-Python: <3.12,>=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+Requires-Dist: typeguard (<3,>=2.10.0)
+Requires-Dist: pydantic (>=1.9.1) ; python_version < "3.11"
+Requires-Dist: pydantic (>=1.10.2) ; python_version >= "3.11"
+Provides-Extra: dev
+Requires-Dist: bandit (==1.7.4) ; extra == 'dev'
+Requires-Dist: flake8 (==4.0.1) ; extra == 'dev'
+Requires-Dist: mypy (==0.961) ; extra == 'dev'
+Provides-Extra: docs
+Requires-Dist: sphinx (==5.0.1) ; extra == 'docs'
+Requires-Dist: sphinx-rtd-theme (==1.0.0) ; extra == 'docs'
+Provides-Extra: test
+Requires-Dist: mock (==4.0.3) ; extra == 'test'
+Requires-Dist: pytest (==7.1.2) ; extra == 'test'
+Requires-Dist: pytest-asyncio (==0.18.3) ; extra == 'test'
+Provides-Extra: ws
+Requires-Dist: websockets (==10.*) ; extra == 'ws'
+
+# _pygls_
+
+[![PyPI Version](https://img.shields.io/pypi/v/pygls.svg)](https://pypi.org/project/pygls/) [![Build Status](https://dev.azure.com/openlawlibrary/pygls/_apis/build/status/openlawlibrary.pygls?branchName=master)](https://dev.azure.com/openlawlibrary/pygls/_build/latest?definitionId=2&branchName=master) ![!pyversions](https://img.shields.io/pypi/pyversions/pygls.svg) ![license](https://img.shields.io/pypi/l/pygls.svg) [![Documentation Status](https://img.shields.io/badge/docs-latest-green.svg)](https://pygls.readthedocs.io/en/latest/)
+
+_pygls_ (pronounced like "pie glass") is a pythonic generic implementation of the [Language Server Protocol](https://microsoft.github.io/language-server-protocol/specification) for use as a foundation for writing language servers using Python (e.g. Python, XML, etc.). It allows you to write your own [language server](https://langserver.org/) in just a few lines of code.
+
+## Quick Intro
+
+> **_IMPORTANT NOTE:_**
+>
+> In order to support type-checking, we added `pydantic` library which requires passing keyword arguments when creating [LSP models](https://github.com/openlawlibrary/pygls/blob/master/pygls/lsp/methods.py).
+
+Here's how to create a server and register a code completion feature:
+
+```python
+from pygls.capabilities import COMPLETION
+from pygls.server import LanguageServer
+from pygls.lsp import CompletionItem, CompletionList, CompletionOptions, CompletionParams
+
+server = LanguageServer('example-server', 'v0.1')
+
+@server.feature(COMPLETION, CompletionOptions(trigger_characters=[',']))
+def completions(params: CompletionParams):
+    """Returns completion items."""
+    return CompletionList(
+        is_incomplete=False,
+        items=[
+            CompletionItem(label='"'),
+            CompletionItem(label='['),
+            CompletionItem(label=']'),
+            CompletionItem(label='{'),
+            CompletionItem(label='}'),
+        ]
+    )
+
+server.start_tcp('127.0.0.1', 8080)
+```
+
+Show completion list on the client:
+
+![completions](https://raw.githubusercontent.com/openlawlibrary/pygls/master/assets/img/readme/completion-list.png)
+
+## Docs and Tutorial
+
+The full documentation and a tutorial is available at <https://pygls.readthedocs.io/en/latest/>.
+
+## Let Us Know How You Are Using _pygls_
+
+Submit a Pull Request (PR) with your information against the [implementations](https://github.com/openlawlibrary/pygls/blob/master/Implementations.md) document.
+
+## License
+
+Apache-2.0
+
+## Contributing
+
+Your contributions to _pygls_ are welcome! Please review the _[Contributing](https://github.com/openlawlibrary/pygls/blob/master/CONTRIBUTING.md)_ and _[Code of Conduct](https://github.com/openlawlibrary/pygls/blob/master/CODE_OF_CONDUCT.md)_ documents for how to get started.
+
+## Donation
+
+[Open Law Library](http://www.openlawlib.org/) is a 501(c)(3) tax exempt organization.Help us maintain our open source projects and open the law to all with a [donation](https://donorbox.org/open-law-library).

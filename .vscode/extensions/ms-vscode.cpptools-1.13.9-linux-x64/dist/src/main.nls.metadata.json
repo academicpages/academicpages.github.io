@@ -1,0 +1,19 @@
+{
+	"messages": [
+		"Versions of the C/C++ extension more recent than {0} require at least macOS version {1}.",
+		"intelliSenseEngine is disabled",
+		"More Info",
+		"Ignore",
+		"The C/C++ extension installed does not match your system.",
+		"The C/C++ extension installed is compatible with but does not match your system."
+	],
+	"keys": [
+		"macos.version.deprecated",
+		"intellisense.disabled",
+		"more.info.button",
+		"ignore.button",
+		"vsix.platform.incompatible",
+		"vsix.platform.mismatching"
+	],
+	"filePath": "src\\main"
+}

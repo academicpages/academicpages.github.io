@@ -1,0 +1,237 @@
+// out: ../gothic.css, compress:true
+
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,400i,700,700i');
+
+// modified from the typora default themes
+body {
+  @bg: #fcfcfc;
+  @fg: #111;
+  background: @bg;
+  color: @fg;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  table,
+  li,
+  .mathjax-exps,
+  .math {
+    color: #111;
+    font-family: 'Raleway', sans-serif;
+  }
+
+  h1 {
+    font-weight: normal;
+    line-height: 4rem;
+    margin: 0 0 1.75rem;
+    padding: 20px 30px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 4rem;
+  }
+
+  h2 {
+    font-weight: normal;
+    line-height: 3rem;
+    margin: 0 0 1.9375rem;
+    padding: 0 30px;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 3rem
+  }
+
+  h3 {
+    font-weight: normal;
+  }
+
+  h4 {
+    font-weight: normal;
+  }
+
+  h5 {
+    font-size: 1.125rem;
+    font-weight: normal;
+  }
+
+  h6 {
+    font-size: 1rem;
+    font-weight: bold;
+  }
+
+  p {
+    color: #111;
+    font-size: 1rem;
+    line-height: 1.75rem;
+    margin: 0 0 1.25rem;
+  }
+
+  // @media screen and (max-width: 48em) {
+  blockquote {
+    margin-left: 1rem;
+    margin-right: 0;
+    padding: 0.5em;
+  }
+
+  h1 {
+    font-size: 2.827rem;
+  }
+
+  h2 {
+    font-size: 1.999rem;
+  }
+
+  h3 {
+    font-size: 1.413rem;
+  }
+
+  h4 {
+    font-size: 1.250rem;
+  }
+
+  h5 {
+    font-size: 1.150rem;
+  }
+
+  h6 {
+    font-size: 1rem;
+  }
+
+  // }
+
+  a {
+    color: #990000;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  table {
+    margin-bottom: 20px
+  }
+
+  table th,
+  table td {
+    padding: 8px;
+    line-height: 1.25rem;
+    vertical-align: top;
+    border-top: 1px solid #ddd
+  }
+
+  table th {
+    font-weight: bold
+  }
+
+  table thead th {
+    vertical-align: bottom
+  }
+
+  table caption+thead tr:first-child th,
+  table caption+thead tr:first-child td,
+  table colgroup+thead tr:first-child th,
+  table colgroup+thead tr:first-child td,
+  table thead:first-child tr:first-child th,
+  table thead:first-child tr:first-child td {
+    border-top: 0
+  }
+
+  table tbody+tbody {
+    border-top: 2px solid #ddd
+  }
+
+  code {
+    padding: .5em;
+    /*background: #f0f0f0;*/
+    color: inherit;
+    border: 1px solid #ccc;
+    padding: .1em;
+    font-size: 0.9em;
+    margin-left: 0.2em;
+    margin-right: 0.2em;
+  }
+
+  pre>code {
+    border: none;
+  }
+
+  li>p {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .task-list {
+    padding-left: 0;
+  }
+
+  .task-list-item {
+    list-style: none;
+    margin-left: -2.4em;
+  }
+
+  .task-list-item input {
+    top: 3px;
+    margin-right: 1.6em;
+  }
+
+  .task-list-item input:before {
+    content: "";
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    vertical-align: middle;
+    text-align: center;
+    border: 1px solid gray;
+    background-color: #fdfdfd;
+    margin-left: 0;
+    margin-top: -0.8rem;
+  }
+
+  .task-list-item input:checked:before,
+  .task-list-item input[checked]:before {
+    content: '\25FC';
+    /*◘*/
+    font-size: 0.8125rem;
+    line-height: 0.9375rem;
+    margin-top: -1rem;
+  }
+
+  /* Chrome 29+ */
+  @media screen and (-webkit-min-device-pixel-ratio:0) and (min-resolution:.001dpcm) {
+    .task-list-item input:before {
+      margin-top: -0.2rem;
+    }
+
+    .task-list-item input:checked:before,
+    .task-list-item input[checked]:before {
+      margin-top: -0.2rem;
+    }
+  }
+
+  blockquote {
+    margin: 0 0 1.11111rem;
+    padding: 0.5rem 1.11111rem 0 1.05556rem;
+    border-left: 1px solid gray;
+    background-color: contrast(@bg, lighten(@bg, 8%), darken(@bg, 6%));
+  }
+
+  blockquote,
+  blockquote p {
+    line-height: 1.6;
+    color: #6f6f6f;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  kbd {
+    color: @fg;
+  }
+}

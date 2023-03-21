@@ -1,0 +1,102 @@
+{
+	"type": "array",
+	"description": "Zestawy narzędzia CMake",
+	"items": {
+		"type": "object",
+		"description": "Zestaw",
+		"additionalProperties": false,
+		"properties": {
+			"name": {
+				"type": "string",
+				"description": "Nazwa tego zestawu"
+			},
+			"description": {
+				"type": "string",
+				"description": "The description of this kit"
+			},
+			"vendor": {
+				"type": "string",
+				"description": "Nazwa dostawcy tego zestawu"
+			},
+			"triple": {
+				"type": "string",
+				"description": "Trójka parametrów docelowych dla tego zestawu"
+			},
+			"version": {
+				"type": "string",
+				"description": "Wersja tego zestawu"
+			},
+			"versionRuntime": {
+				"type": "string",
+				"description": "Wersja środowiska uruchomieniowego języka C dla zestawu"
+			},
+			"keep": {
+				"type": "boolean",
+				"description": "Jeśli wartość jest równa „true”, ten zestaw będzie przechowywany, nawet jeśli okaże się nieaktualny."
+			},
+			"compilers": {
+				"type": "object",
+				"patternProperties": {
+					"\\w+": {
+						"type": "string",
+						"description": "Ścieżka do kompilatora dla tego języka"
+					}
+				}
+			},
+			"toolchainFile": {
+				"type": "string",
+				"description": "Ścieżka do pliku łańcucha narzędzi"
+			},
+			"visualStudio": {
+				"type": "string",
+				"description": "Identyfikator wystąpienia produktu Visual Studio"
+			},
+			"visualStudioArchitecture": {
+				"type": "string",
+				"description": "Architektura docelowa"
+			},
+			"environmentSetupScript": {
+				"type": "string",
+				"description": "Ścieżka bezwzględna do skryptu, który modyfikuje środowisko zestawu"
+			},
+			"environmentVariables": {
+				"type": "object",
+				"patternProperties": {
+					".*": {
+						"type": "string",
+						"description": "Wartość zmiennej środowiskowej"
+					}
+				}
+			},
+			"cmakeSettings": {
+				"type": "object",
+				"patternProperties": {
+					".*": {
+						"description": "Wartość ustawienia narzędzia CMake"
+					}
+				}
+			},
+			"preferredGenerator": {
+				"type": "object",
+				"description": "Ustaw preferowany generator narzędzia CMake dla tego zestawu",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Nazwa generatora do użycia"
+					},
+					"platform": {
+						"type": "string",
+						"description": "Platforma narzędzia CMake dla argumentu -A"
+					},
+					"toolset": {
+						"type": "string",
+						"description": "Zestaw narzędzi programu CMake dla argumentu -T"
+					}
+				},
+				"required": [
+					"name"
+				]
+			}
+		}
+	}
+}

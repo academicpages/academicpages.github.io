@@ -1,0 +1,729 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Security-Policy" content="style-src 'unsafe-inline'; script-src 'nonce-{{nonce}}';">
+
+    <style type="text/css">
+        @media (max-width: 1140px) {
+            #sidebar {
+                display: none;
+            }
+            #main {
+                max-width: 800px;
+                padding: 0px 20px;
+                margin: auto;
+            }
+        }
+
+        .page-margins {
+            vertical-align: top;
+            padding-top: 40px;
+            padding-bottom: 10px
+        }
+
+        .sidebar {
+            width: 290px;
+            position: fixed;
+            z-index: 1;
+            left: 45px;
+            overflow-x: hidden;
+        }
+
+        .error {
+            color: var(--vscode-inputValidation-errorForeground);
+            background: var(--vscode-inputValidation-errorBackground);
+            border: solid 1px var(--vscode-inputValidation-errorBorder);
+            white-space: pre-wrap;
+            display: none;
+            padding: 1px 4px 4px 4px;
+        }
+
+        .headerBtn,
+        .headerBtn:hover,
+        .headerBtn:active {
+            cursor: pointer;
+            color: var(--vscode-foreground);
+            background: var(--vscode-background);
+            border: 0px;
+            padding: 0px;
+            outline: none;
+        }
+
+        .headerBtn:focus {
+            outline: 1px solid -webkit-focus-ring-color;
+            outline-offset: 3px;
+        }
+
+        .expand:after {
+            font-weight: bold;
+            float: right;
+            margin-right: 6px;
+            margin-top: -4px;
+            content: '\276E';
+            transform: rotate(270deg);
+        }
+
+        .collapse:after {
+            font-weight: bold;
+            float: right;
+            margin-right: 6px;
+            margin-top: -4px;
+            content: '\276E';
+            transform: rotate(90deg);
+        }
+
+        .main {
+            max-width: 800px;
+            margin-left: 320px;
+            padding: 0px 30px;
+        }
+
+        .main-title {
+            font-weight: 500;
+            font-size: 22px;
+            padding-bottom: 6px;
+            color: var(--vscode-foreground);
+        }
+
+        .section {
+            padding-bottom: 35px;
+        }
+
+        .section-title {
+            font-weight: 500;
+            font-size: 14px;
+            padding-bottom: 4px;
+            color: var(--vscode-foreground);
+        }
+
+        .section-text {
+            font-size: 14px;
+            padding-bottom: 8px;
+            color: var(--vscode-foreground);
+        }
+
+        .section-note {
+            font-size: 14px;
+            font-style: italic;
+            padding-bottom: 2px;
+            color: var(--vscode-foreground);
+        }
+
+        .codeblock {
+            vertical-align: middle;
+            padding: 2px 8px;
+            margin-top: 8px;
+            display: inline-block;
+            font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+            border-radius: 5px;
+        }
+
+        body {
+            line-height: 19px
+        }
+
+        body:not(.tabbing) button:focus {
+            outline: none;
+        }
+
+        a {
+            text-decoration: none
+        }
+
+        checkbox {
+            color: var(--vscode-settings-checkboxForeground);
+            background: var(--vscode-settings-checkboxForeground);
+            border: var(--vscode-settings-checkboxBorder);
+        }
+
+        a:focus,
+        input:focus,
+        select:focus,
+        textarea:focus {
+            outline: 1px solid -webkit-focus-ring-color;
+            outline-offset: -1px
+        }
+
+        hr {
+            border: 0;
+            height: 1px;
+            border-bottom: 1px solid;
+        }
+
+        h1 {
+            padding-bottom: .3em;
+        }
+
+        h1,
+        h2,
+        h3 {
+            font-weight: 400
+        }
+
+        a:hover {
+            text-decoration: underline
+        }
+
+        ::placeholder {
+            color: var(--vscode-input-placeholderForeground);
+        }
+
+        input {
+            height: 17px;
+            padding: 6px;
+            border: solid 1px;
+            font-size: 13px;
+            font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+            color: var(--vscode-settings-textInputForeground);
+            background: var(--vscode-settings-textInputBackground);
+            border: 1px solid var(--vscode-settings-textInputBorder);
+        }
+
+        textarea {
+            white-space: nowrap;
+            padding: 4px, 4px;
+            font-size: 13px;
+            font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+            color: var(--vscode-settings-textInputForeground);
+            background: var(--vscode-settings-textInputBackground);
+            border: 1px solid var(--vscode-settings-textInputBorder);
+        }
+
+        button {
+            color: var(--vscode-button-foreground);
+            background-color: var(--vscode-button-background);
+            border: solid 1px var(--vscode-contrastBorder);
+            padding: 6px 14px;
+        }
+
+        button:hover {
+            background-color: var(--vscode-button-hoverBackground);
+        }
+
+        button:focus {
+            outline: 1px solid -webkit-focus-ring-color;
+            outline-offset: 2px
+        }
+
+        button:active {
+            outline: none;
+        }
+
+        .select-default {
+            width: 300px;
+            height: 27px;
+            font-size: 13px;
+            font-family:sans-serif;
+            color: var(--vscode-settings-dropdownForeground);
+            background: var(--vscode-settings-dropdownBackground);
+            border: 1px solid var(--vscode-settings-dropdownBorder);
+        }
+
+        .select-editable {
+            position: relative;
+            background-color: var(--vscode-settings-textInputBackground);
+            width: 800px;
+            height: 31px;
+        }
+
+        .select-editable select {
+            position: absolute;
+            font-size: 13px;
+            font-family: sans-serif;
+            border: 1px solid var(--vscode-settings-textInputBorder);
+            height: 31px;
+            margin: auto;
+            color: var(--vscode-settings-textInputForeground);
+            background: var(--vscode-settings-textInputBackground);
+        }
+
+        .select-editable input {
+            position: absolute;
+            top: 1px;
+            left: 1px;
+            right: 1px;
+            bottom: 1px;
+            height: 17px;
+            font-size: 13px;
+            border: none;
+            color: var(--vscode-settings-textInputForeground);
+            background: var(--vscode-settings-textInputBackground);
+        }
+
+        .select-editable input:focus {
+            outline-offset: 0px;
+        }
+
+        blockquote {
+            margin: 0 7px 0 5px;
+            padding: 0 16px 0 10px;
+            border-left: 5px solid;
+        }
+
+        code {
+            font-family: Menlo, Monaco, Consolas, "Droid Sans Mono", "Courier New", monospace, "Droid Sans Fallback";
+            line-height: 19px
+        }
+
+        .mac code {
+            line-height: 18px
+        }
+
+        code > div {
+            padding: 16px;
+            border-radius: 3px;
+            overflow: auto
+        }
+
+        .monaco-tokenized-source {
+            white-space: pre
+        }
+
+        /** Theming */
+
+        .vscode-light {
+            color: #1e1e1e
+        }
+
+        .vscode-dark {
+            color: #ddd
+        }
+
+        .vscode-high-contrast {
+            color: #fff
+        }
+
+        .vscode-light code {
+            color: #a31515
+        }
+
+        .vscode-dark code {
+            color: #d7ba7d
+        }
+
+        .vscode-light code > div {
+            background-color: rgba(220, 220, 220, .4)
+        }
+
+        .vscode-dark code > div {
+            background-color: rgba(10, 10, 10, .4)
+        }
+
+        .vscode-light .input-disabled {
+            background-color:rgba(255, 255, 255, 0.4);
+            color: rgb(138, 138, 138);
+            border: solid 1px rgb(201, 198, 198);
+        }
+
+        .vscode-dark .input-disabled {
+            background-color: rgba(255, 255, 255, 0.1);
+            color: rgb(167, 167, 167);
+        }
+
+        .vscode-high-contrast .input-disabled {
+            background-color: transparent;
+            color: #fff;
+            border: solid 1px rgb(255, 255, 255);
+        }
+
+        .vscode-high-contrast code > div {
+            background-color: #000
+        }
+
+        .vscode-high-contrast h1 {
+            border-color: #000
+        }
+
+        .vscode-light table > thead > tr > th {
+            border-color: rgba(0, 0, 0, .69)
+        }
+
+        .vscode-dark table > thead > tr > th {
+            border-color: rgba(255, 255, 255, .69)
+        }
+
+        .vscode-light h1,
+        .vscode-light hr,
+        .vscode-light table > tbody > tr + tr > td {
+            border-color: rgba(0, 0, 0, .18)
+        }
+
+        .vscode-dark h1,
+        .vscode-dark hr,
+        .vscode-dark table > tbody > tr + tr > td {
+            border-color: rgba(255, 255, 255, 0.18)
+        }
+
+        .vscode-light blockquote,
+        .vscode-dark blockquote {
+            background: rgba(127, 127, 127, .1);
+            border-color: rgba(0, 122, 204, .5)
+        }
+
+        .vscode-high-contrast blockquote {
+            background: transparent;
+            border-color: #fff
+        }
+
+        .vscode-light div.codeblock {
+            background-color: rgba(0, 0, 0, 0.048)
+        }
+
+        .vscode-dark div.codeblock {
+            background-color: rgba(255, 255, 255, 0.1)
+        }
+
+        .vscode-high-contrast div.codeblock {
+            background-color: rgba(255, 255, 255, 0.15)
+        }
+
+        .footer {
+            padding: 25px;
+            text-align: center
+        }
+
+        .vscode-light a {
+            color: #4080D0
+        }
+
+        .vscode-dark a {
+            color: #a2c1e8
+        }
+
+    </style>
+
+  </head>
+
+  <body class="page-margins">
+
+  <!-- sidebar -->
+  <div id="sidebar" class="sidebar">
+
+    <div style="height: 90px; display: block">
+        <table>
+            <tbody><tr><td>
+              <img src="{{cpp_image_uri}}" height="76" width="76" alt="Microsoft C/C++ Extension" title="Microsoft C/C++ 확장" style="padding-right: 10px" data-loc-id-title="microsoft.c.cpp.extension">
+            </td>
+            <td>
+                <div style="font-size: 20px; font-weight: 400; line-height: 24px">Microsoft<br><span data-loc-id="c.cpp.extension">C/C++ 확장</span></div>
+            </td>
+          </tr></tbody></table>
+    </div>
+
+    <hr>
+    <div style="height: 30px; display: block"></div>
+
+    <div style="padding-right: 10px; color: var(--vscode-foreground);">
+        <span data-loc-id="open.this.editor">다음 명령을 사용하여 이 편집기 열기:</span><br>
+        <code data-loc-id="edit.configurations.ui">C/C++: 구성 편집(UI)</code>
+
+        <div style="height: 30px; display: block"></div>
+
+        <span data-loc-id="switch.to.json">파일 링크를 클릭하거나 명령을 사용하여 <a href="command:C_Cpp.ConfigurationEditJSON" title="JSON 파일의 구성 편집" data-loc-id-title="edit.configurations.in.json">c_cpp_properties.json</a> 파일로 전환합니다.</span><br>
+        <code data-loc-id="edit.configurations.json">C/C++: 구성 편집(JSON)</code>
+
+        <div style="height: 30px; display: block"></div>
+
+        <span data-loc-id="check.the.schema"><a href="https://code.visualstudio.com/docs/cpp/c-cpp-properties-schema-reference" title="속성 스키마 참조" data-loc-id-title="view.schema.reference">C/C++ Properties Schema Reference</a>(으)로 이동하여 C/C++ 속성에 대해 자세히 알아보세요.</span><br>
+    </div>
+
+  </div> <!-- sidebar end -->
+
+  <!-- main -->
+  <div id="main" class="main">
+
+    <!-- title -->
+    <div style=" height: 90px; display: inline-block;">
+      <div class="main-title" data-loc-id="intellisense.configurations">IntelliSense 구성</div>
+      <div style="color: var(--vscode-foreground);">
+        <span data-loc-id="intellisense.configurations.description">이 편집기를 사용하여 기본 <a href="command:C_Cpp.ConfigurationEditJSON" title="JSON 파일의 구성 편집" data-loc-id-title="edit.configurations.in.json">c_cpp_properties.json</a> 파일에 정의된 IntelliSense 설정을 편집합니다. 이 편집기에서 변경한 내용은 선택한 구성에만 적용됩니다. 한 번에 여러 구성을 편집하려면 <a href="command:C_Cpp.ConfigurationEditJSON" title="JSON 파일의 구성 편집" data-loc-id-title="edit.configurations.in.json">c_cpp_properties.json</a>(으)로 이동합니다.</span>
+      </div>
+    </div>
+
+    <hr>
+    <div style="height: 30px; display: block"></div>
+
+    <!-- sections -->
+    <div class="section">
+      <div class="section-title" data-loc-id="configuration.name">구성 이름</div>
+      <div class="section-text" data-loc-id="configuration.name.description">구성을 식별하는 이름입니다. <code>Linux</code>, <code>Mac</code> 및 <code>Win32</code>은(는) 해당 플랫폼에서 자동으로 선택되는 구성의 특수 식별자입니다.</div>
+      <div>
+        <div class="section-note" data-loc-id="select.configuration.to.edit">편집할 구성 세트를 선택합니다.</div>
+        <table>
+            <tbody><tr>
+            <!-- select configuration name -->
+            <td>
+                <div class="select-editable" style="width: 300px; margin-left: -3px; margin-right: 7px">
+                    <select id="configSelection" style="width: 300px"></select>
+                    <input id="configName" style="width: 267px" type="text">
+                </div>
+            </td>
+            <!-- input configuration name -->
+            <td style="vertical-align: middle;">
+                <div id="addConfigDiv" style="display: block">
+                    <button id="addConfigBtn" data-loc-id="add.configuration.button">구성 추가</button>
+                </div>
+                <div id="addConfigInputDiv" style="display: none; width: 400px;">
+                    <input id="addConfigName" type="text" style="width: 200px; margin-right: 6px" placeholder="구성 이름..." data-loc-id-placeholder="configuration.name.input">
+                    <button id="addConfigOk" style="margin-right: 6px" data-loc-id="ok.button">확인</button>
+                    <button id="addConfigCancel" data-loc-id="cancel.button">취소</button>
+                </div>
+            </td>
+        </tr>
+        </tbody></table>
+        <div id="configNameInvalid" class="error" style="width: 290px"></div>
+      </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title" data-loc-id="compiler.path">컴파일러 경로</div>
+        <div class="section-text">
+            <span data-loc-id="compiler.path.description">더 정확한 IntelliSense를 사용하도록 설정하는 데 사용되는, 프로젝트를 빌드하는 데 사용하는 컴파일러의 전체 경로입니다(예: <code>/usr/bin/gcc</code>). 확장에서는 컴파일러에 쿼리하여 IntelliSense에 사용할 시스템 포함 경로 및 기본 정의를 확인합니다.</span>
+        </div>
+        <!-- input compilerPath -->
+        <div class="section-note" data-loc-id="specify.a.compiler">컴파일러 경로를 지정하거나 드롭다운 목록에서 검색된 컴파일러 경로를 선택합니다.</div>
+            <div class="select-editable">
+                <span id="noCompilerPathsDetected" style="display: none" data-loc-id="no.compiler.paths.detected">(검색된 컴파일러 경로가 없음)</span>
+                <select id="knownCompilers" style="width: 810px; display: none"></select>
+                <input name="inputValue" id="compilerPath" style="width: 777px; display: none" type="text">
+            </div>
+        <div id="compilerPathInvalid" class="error" style="width: 800px"></div>
+        <!-- input compilerPath end -->
+    </div>
+
+    <div class="section">
+        <div class="section-title" data-loc-id="compiler.args">컴파일러 인수</div>
+        <div class="section-text" data-loc-id="compiler.arguments">사용된 포함 또는 정의를 수정하는 컴파일러 인수입니다(예: <code>-nostdinc++</code>, <code>-m32</code> 등).</div>
+        <div>
+            <div class="section-note" data-loc-id="one.argument.per.line">줄당 하나의 인수입니다.</div>
+            <textarea name="inputValue" id="compilerArgs" rows="4" cols="93" style="width: 800px"></textarea>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title" data-loc-id="intellisense.mode">IntelliSense 모드</div>
+        <div class="section-text">
+            <span data-loc-id="intellisense.mode.description">MSVC, gcc 또는 Clang의 플랫폼 및 아키텍처 변형에 매핑되는 사용할 IntelliSense 모드입니다. 설정되지 않거나 <code>${default}</code>(으)로 설정된 경우 확장에서 해당 플랫폼의 기본값을 선택합니다. Windows의 경우 기본값인 <code>windows-msvc-x64</code>(으)로 설정되고, Linux의 경우 기본값인 <code>linux-gcc-x64</code>(으)로 설정되며, macOS의 경우 기본값인 <code>macos-clang-x64</code>(으)로 설정됩니다. <code>${default}</code> 모드를 재정의하려면 특정 IntelliSense 모드를 선택합니다. <code>&lt;compiler&gt;-&lt;architecture&gt;</code> 변형(예: <code>gcc-x64</code>)만 지정하는 IntelliSense 모드는 레거시 모드이며 호스트 플랫폼에 따라 <code>&lt;platform&gt;-&lt;compiler&gt;-&lt;architecture&gt;</code> 변형으로 자동으로 변환됩니다.</span>
+        </div>
+        <div>
+          <select name="inputValue" id="intelliSenseMode" class="select-default">
+            <option value="${default}">${default}</option>
+            <option value="macos-clang-x86">macos-clang-x86</option>
+            <option value="macos-clang-x64">macos-clang-x64</option>
+            <option value="macos-clang-arm">macos-clang-arm</option>
+            <option value="macos-clang-arm64">macos-clang-arm64</option>
+            <option value="macos-gcc-x86">macos-gcc-x86</option>
+            <option value="macos-gcc-x64">macos-gcc-x64</option>
+            <option value="macos-gcc-arm">macos-gcc-arm</option>
+            <option value="macos-gcc-arm64">macos-gcc-arm64</option>
+            <option value="linux-clang-x86">linux-clang-x86</option>
+            <option value="linux-clang-x64">linux-clang-x64</option>
+            <option value="linux-clang-arm">linux-clang-arm</option>
+            <option value="linux-clang-arm64">linux-clang-arm64</option>
+            <option value="linux-gcc-x86">linux-gcc-x86</option>
+            <option value="linux-gcc-x64">linux-gcc-x64</option>
+            <option value="linux-gcc-arm">linux-gcc-arm</option>
+            <option value="linux-gcc-arm64">linux-gcc-arm64</option>
+            <option value="windows-clang-x86">windows-clang-x86</option>
+            <option value="windows-clang-x64">windows-clang-x64</option>
+            <option value="windows-clang-arm">windows-clang-arm</option>
+            <option value="windows-clang-arm64">windows-clang-arm64</option>
+            <option value="windows-gcc-x86">windows-gcc-x86</option>
+            <option value="windows-gcc-x64">windows-gcc-x64</option>
+            <option value="windows-gcc-arm">windows-gcc-arm</option>
+            <option value="windows-gcc-arm64">windows-gcc-arm64</option>
+            <option value="windows-msvc-x86">windows-msvc-x86</option>
+            <option value="windows-msvc-x64">windows-msvc-x64</option>
+            <option value="windows-msvc-arm">windows-msvc-arm</option>
+            <option value="windows-msvc-arm64">windows-msvc-arm64</option>
+            <option value="clang-x86">clang-x86 (legacy)</option>
+            <option value="clang-x64">clang-x64 (legacy)</option>
+            <option value="clang-arm">clang-arm (legacy)</option>
+            <option value="clang-arm64">clang-arm64 (legacy)</option>
+            <option value="gcc-x86">gcc-x86 (legacy)</option>
+            <option value="gcc-x64">gcc-x64 (legacy)</option>
+            <option value="gcc-arm">gcc-arm (legacy)</option>
+            <option value="gcc-arm64">gcc-arm64 (legacy)</option>
+            <option value="msvc-x86">msvc-x86 (legacy)</option>
+            <option value="msvc-x64">msvc-x64 (legacy)</option>
+            <option value="msvc-arm">msvc-arm (legacy)</option>
+            <option value="msvc-arm64">msvc-arm64 (legacy)</option>
+          </select>
+        </div>
+        <div id="intelliSenseModeInvalid" class="error" style="width: 290px"></div>
+    </div>
+
+    <div class="section">
+        <div class="section-title" data-loc-id="include.path">경로 포함</div>
+        <div class="section-text">
+            <span data-loc-id="include.path.description">포함 경로는 소스 파일에 포함된 헤더 파일(예: <code>#include "myHeaderFile.h"</code>)을 포함하는 폴더입니다. 포함된 헤더 파일을 검색하는 동안 사용할 IntelliSense 엔진의 경로 목록을 지정합니다. 이러한 경로 검색은 비재귀적입니다. 재귀적 검색을 나타내려면 <code>**</code>을(를) 지정합니다. 예를 들어 <code>${workspaceFolder}/**</code>은(는) 모든 하위 디렉터리를 검색하지만 <code>${workspaceFolder}</code>은(는) 그러지 않습니다. Visual Studio가 설치된 Windows를 사용하거나 <code>compilerPath</code> 설정에 컴파일러가 지정된 경우 이 목록에 시스템 포함 경로를 나열할 필요가 없습니다.</span>
+        </div>
+        <div>
+          <div class="section-note" data-loc-id="one.include.path.per.line">줄당 하나의 포함 경로입니다.</div>
+          <textarea name="inputValue" id="includePath" rows="4" cols="93" style="width: 800px"></textarea>
+          <div id="includePathInvalid" class="error" style="margin-top: -4px; width: 794px"></div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title" data-loc-id="defines">정의</div>
+        <div class="section-text" data-loc-id="defines.description">파일을 구문 분석하는 동안 사용할 IntelliSense 엔진의 전처리기 정의 목록입니다. 필요에 따라 <code>=</code>을(를) 사용하여 값(예: <code>VERSION=1</code>)을 설정할 수 있습니다.</div>
+        <div>
+            <div class="section-note" data-loc-id="one.definition.per.line">줄당 하나의 정의입니다.</div>
+            <textarea name="inputValue" id="defines" rows="4" cols="39"></textarea>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title" data-loc-id="c.standard">C 표준</div>
+        <div class="section-text" data-loc-id="c.standard.description">IntelliSense에 사용할 C 언어 표준의 버전입니다. 참고: GNU 표준은 GNU 정의를 가져오기 위해 설정된 컴파일러를 쿼리하는 데만 사용되며, IntelliSense는 해당 C 표준 버전을 에뮬레이트합니다.</div>
+        <div>
+            <select name="inputValue" id="cStandard" class="select-default">
+                <option value="c17">c17</option>
+                <option value="c11">c11</option>
+                <option value="c99">c99</option>
+                <option value="c89">c89</option>
+                <option value="gnu17">gnu17</option>
+                <option value="gnu11">gnu11</option>
+                <option value="gnu99">gnu99</option>
+                <option value="gnu89">gnu89</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title" data-loc-id="cpp.standard">C++ 표준</div>
+        <div class="section-text" data-loc-id="cpp.standard.description">IntelliSense에 사용할 C++ 언어 표준의 버전입니다. 참고: GNU 표준은 GNU 정의를 가져오기 위해 설정된 컴파일러를 쿼리하는 데만 사용되며, IntelliSense는 해당 C++ 표준 버전을 에뮬레이트합니다.</div>
+        <div>
+            <select name="inputValue" id="cppStandard" class="select-default">
+                <option value="c++23">c++23</option>
+                <option value="c++20">c++20</option>
+                <option value="c++17">c++17</option>
+                <option value="c++14">c++14</option>
+                <option value="c++11">c++11</option>
+                <option value="c++03">c++03</option>
+                <option value="c++98">c++98</option>
+                <option value="gnu++23">gnu++23</option>
+                <option value="gnu++20">gnu++20</option>
+                <option value="gnu++17">gnu++17</option>
+                <option value="gnu++14">gnu++14</option>
+                <option value="gnu++11">gnu++11</option>
+                <option value="gnu++03">gnu++03</option>
+                <option value="gnu++98">gnu++98</option>
+            </select>
+        </div>
+    </div>
+
+    <hr>
+    <button id="showAdvanced" class="headerBtn" style="margin-top: 5px; font-size: 20px; font-weight: 500; width: 100%; text-align: left" data-loc-id="advanced.settings">고급 설정</button>
+    <div style="height: 30px; display: block"></div>
+
+    <div id="advancedSection">
+
+        <div class="section">
+            <div class="section-title" data-loc-id="configuration.provider">구성 공급자</div>
+            <div class="section-text" data-loc-id="configuration.provider.description">소스 파일에 대한 IntelliSense 구성 정보를 제공할 수 있는 VS Code 확장의 ID입니다. 예를 들어 VS Code 확장 ID <code>ms-vscode.cmake-tools</code>을(를) 사용하여 CMake 도구 확장의 구성 정보를 제공합니다.</div>
+            <div>
+                <input name="inputValue" id="configurationProvider" style="width: 290px">
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="windows.sdk.version">Windows SDK 버전</div>
+            <div class="section-text" data-loc-id="windows.sdk.version.description">Windows에서 사용할 Windows SDK 포함 경로의 버전입니다(예: <code>10.0.17134.0</code>).</div>
+            <div>
+                <input name="inputValue" id="windowsSdkVersion" style="width: 290px">
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="mac.framework.path">Mac 프레임워크 경로</div>
+            <div class="section-text" data-loc-id="mac.framework.path.description">Mac 프레임워크에서 포함된 헤더를 검색하는 동안 사용할 Intellisense 엔진의 경로 목록입니다. macOS 구성에서만 지원됩니다.</div>
+            <div>
+                <div class="section-note" data-loc-id="one.path.per.line">줄당 하나의 경로입니다.</div>
+                <textarea name="inputValue" id="macFrameworkPath" rows="4" cols="93" style="width: 800px"></textarea>
+                <div id="macFrameworkPathInvalid" class="error" style="margin-top: -4px; width: 794px"></div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="forced.include">강제 포함</div>
+            <div class="section-text" data-loc-id="forced.include.description">소스 파일의 다른 문자를 처리하기 전에 포함해야 하는 파일의 목록입니다. 파일은 나열된 순서대로 포함됩니다.</div>
+            <div>
+                <div class="section-note" data-loc-id="one.file.per.line">줄당 하나의 파일입니다.</div>
+                <textarea name="inputValue" id="forcedInclude" rows="4" cols="93" style="width: 800px"></textarea>
+                <div id="forcedIncludeInvalid" class="error" style="margin-top: -4px; width: 794px"></div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="dot.config">Dot Config</div>
+            <div class="section-text" data-loc-id="dot.config.description">Kconfig 시스템에서 만든 .config 파일의 경로입니다. Kconfig 시스템은 프로젝트를 빌드하기 위한 모든 정의가 포함된 파일을 생성합니다. Kconfig 시스템을 사용하는 프로젝트의 예로는 Linux 커널 및 NuttX RTOS가 있습니다.</div>
+            <div>
+                <input name="inputValue" id="dotConfig" style="width: 798px">
+                <div id="dotConfigInvalid" class="error" style="width: 800px"></div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="compile.commands">컴파일 명령</div>
+            <div class="section-text">
+                <span data-loc-id="compile.commands.description">작업 영역의 <code>compile_commands.json</code> 파일 전체 경로입니다. 이 파일에서 검색된 포함 경로 및 정의가 <code>includePath</code> 및 <code>defines</code> 설정에 설정된 값 대신 사용됩니다. 사용자가 편집기에서 연 파일에 해당하는 변환 단위에 대한 항목이 컴파일 명령 데이터베이스에 포함되지 않는 경우, 경고 메시지가 나타나고 확장에서 대신 <code>includePath</code> 및 <code>defines</code> 설정을 사용합니다.</span>
+            </div>
+            <div>
+                <input name="inputValue" id="compileCommands" style="width: 798px">
+                <div id="compileCommandsInvalid" class="error" style="width: 800px"></div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="merge.configurations">구성 병합</div>
+            <div>
+                <input type="checkbox" id="mergeConfigurations" style="vertical-align: middle; transform: scale(1.5)">
+                    <span data-loc-id="merge.configurations.description"><code>true</code>(또는 선택)인 경우, 포함 경로, 정의 및 강제 포함을 구성 제공자의 경로와 병합합니다.</span>
+                
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="browse.path">찾아보기: 경로</div>
+            <div class="section-text">
+                <span data-loc-id="browse.path.description">태그 파서가 소스 파일에 포함된 헤더를 검색할 경로의 목록입니다. 생략된 경우 <code>includePath</code>이(가) <code>path</code>(으)로 사용됩니다. 기본적으로 이 경로 검색은 재귀적입니다. 비재귀적 검색을 나타내려면 <code>*</code>을(를) 지정합니다. 예: <code>/usr/include</code>은(는) 모든 하위 디렉터리를 검색하지만 <code>/usr/include/*</code>은(는) 하위 디렉터리를 검색하지 않습니다.</span>
+            </div>
+            <div>
+                <div class="section-note" data-loc-id="one.browse.path.per.line">줄당 하나의 검색 경로입니다.</div>
+                <textarea name="inputValue" id="browsePath" rows="4" cols="93" style="width: 800px"></textarea>
+                <div id="browsePathInvalid" class="error" style="margin-top: -4px; width: 794px"></div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="limit.symbols">찾아보기: 포함된 헤더로 기호 제한</div>
+            <div>
+                <input type="checkbox" id="limitSymbolsToIncludedHeaders" style="vertical-align: middle; transform: scale(1.5)">
+                    <span data-loc-id="limit.symbols.checkbox"><code>true</code>(또는 선택)인 경우 태그 파서는 <code>${workspaceFolder}</code>의 원본 파일에 직접 또는 간접적으로 포함된 코드 파일만 구문 분석합니다. <code>false</code>인 경우(또는 선택하지 않은 경우) 태그 파서는 <code>Browse: path</code> 목록에 지정된 경로에 있는 모든 코드 파일을 구문 분석합니다.</span>
+                
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title" data-loc-id="database.filename">찾아보기: 데이터베이스 파일 이름</div>
+            <div class="section-text">
+                <span data-loc-id="database.filename.description">생성된 기호 데이터베이스의 경로입니다. 이 경로는 태그 파서의 기호 데이터베이스를 작업 영역의 기본 스토리지 위치가 아닌 다른 곳에 저장하도록 확장에 지시합니다. 상대 경로가 지정된 경우 작업 영역 폴더 자체가 아니라 작업 영역의 기본 스토리지 위치에 대해 상대적으로 만들어집니다. <code>${workspaceFolder}</code> 변수를 사용하여 작업 영역 폴더에 상대적인 경로를 지정할 수 있습니다(예: <code>${workspaceFolder}/.vscode/browse.vc.db</code>).</span>
+            </div>
+            <div>
+                <input name="inputValue" id="databaseFilename" style="width: 798px">
+                <div id="databaseFilenameInvalid" class="error" style="width: 800px"></div>
+            </div>
+        </div>
+
+    </div> <!-- advanced settings end -->
+
+    <!-- sections end -->
+
+  </div> <!-- main end -->
+
+  <script nonce="{{nonce}}" src="{{settings_js_uri}}"></script>
+
+
+
+</body></html>

@@ -1,0 +1,7 @@
+version = "2.1.*"
+requires = []
+
+[tool.stubtest]
+ignore_missing_stub = true
+# linux and darwin are equivalent
+platforms = ["linux", "win32"]

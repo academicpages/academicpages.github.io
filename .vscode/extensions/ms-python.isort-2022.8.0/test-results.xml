@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.004" tests="1" failures="0">
+  <testsuite name="Root Suite" timestamp="2022-10-14T17:47:54" tests="0" time="0.000" failures="0">
+  </testsuite>
+  <testsuite name="Settings tests" timestamp="2022-10-14T17:47:54" tests="1" file="c:\GIT\formatters\vscode-isort\out\test\ts_tests\common\settings.unit.test.js" time="0.002" failures="0">
+    <testcase name="Settings tests Basic 1" time="0.000" classname="Basic 1">
+    </testcase>
+  </testsuite>
+</testsuites>

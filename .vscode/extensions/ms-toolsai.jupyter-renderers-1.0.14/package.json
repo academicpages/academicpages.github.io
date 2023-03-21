@@ -1,0 +1,233 @@
+{
+	"name": "jupyter-renderers",
+	"displayName": "Jupyter Notebook Renderers",
+	"description": "Renderers for Jupyter Notebooks (with plotly, vega, gif, png, svg, jpeg and other such outputs)",
+	"version": "1.0.14",
+	"engines": {
+		"vscode": "^1.73.0-insider"
+	},
+	"publisher": "ms-toolsai",
+	"author": {
+		"name": "Microsoft Corporation"
+	},
+	"license": "MIT",
+	"homepage": "https://github.com/Microsoft/vscode-notebook-renderers",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Microsoft/vscode-notebook-renderers"
+	},
+	"bugs": {
+		"url": "https://github.com/Microsoft/vscode-notebook-renderers/issues"
+	},
+	"qna": "https://stackoverflow.com/questions/tagged/visual-studio-code+jupyter",
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#ffffff",
+		"theme": "light"
+	},
+	"keywords": [
+		"jupyter",
+		"notebook",
+		"notebookRenderer",
+		"multi-root ready"
+	],
+	"categories": [
+		"Other",
+		"Data Science",
+		"Machine Learning",
+		"Notebooks",
+		"Visualization"
+	],
+	"activationEvents": [
+		"onNotebook:*"
+	],
+	"enabledApiProposals": [
+		"contribNotebookStaticPreloads"
+	],
+	"main": "./out/extension_renderer/index.js",
+	"browser": "./out/extension_renderer/index.js",
+	"contributes": {
+		"notebookPreload": [
+			{
+				"type": "jupyter-notebook",
+				"entrypoint": "./out/client_renderer/preload.js"
+			},
+			{
+				"type": "interactive",
+				"entrypoint": "./out/client_renderer/preload.js"
+			}
+		],
+		"notebookRenderer": [
+			{
+				"id": "jupyter-notebook-renderer",
+				"entrypoint": "./out/client_renderer/renderers.js",
+				"displayName": "Jupyter Notebook Renderer",
+				"requiresMessaging": "optional",
+				"mimeTypes": [
+					"image/gif",
+					"image/png",
+					"image/jpeg",
+					"image/svg+xml",
+					"application/geo+json",
+					"application/vdom.v1+json",
+					"application/vnd.dataresource+json",
+					"application/vnd.plotly.v1+json",
+					"application/vnd.vega.v2+json",
+					"application/vnd.vega.v3+json",
+					"application/vnd.vega.v4+json",
+					"application/vnd.vegalite.v1+json",
+					"application/vnd.vegalite.v2+json",
+					"application/x-nteract-model-debug+json",
+					"text/vnd.plotly.v1+html"
+				]
+			},
+			{
+				"id": "jupyter-notebook-built-in-renderer-hooks",
+				"displayName": "Jupyter Notebook Html/JavaScript Renderer",
+				"requiresMessaging": "optional",
+				"entrypoint": {
+					"extends": "vscode.builtin-renderer",
+					"path": "./out/client_renderer/builtinRendererHooks.js"
+				}
+			},
+			{
+				"id": "jupyter-vega-renderer",
+				"displayName": "Jupyter Vega Renderer",
+				"requiresMessaging": "optional",
+				"entrypoint": "./out/client_renderer/vegaRenderer.js",
+				"mimeTypes": [
+					"application/vnd.vega.v5+json",
+					"application/vnd.vegalite.v3+json",
+					"application/vnd.vegalite.v4+json",
+					"application/vnd.vegalite.v5+json"
+				]
+			}
+		]
+	},
+	"scripts": {
+		"vscode:prepublish": "npm run compile:webpack",
+		"dev": "concurrently -r npm:compile:extension:watch npm:compile:client:watch npm:compile:test:watch",
+		"compile": "npm run compile:extension && npm run compile:test && npm run compile:client",
+		"compile:extension": "tsc -p src/extension",
+		"compile:extension:watch": "tsc -p src/extension --watch",
+		"compile:test": "tsc -p src/test",
+		"compile:test:watch": "tsc -p src/test --watch",
+		"compile:webpack": "npm run build:client && npm run build:extension",
+		"compile:client": "webpack --config=build/webpack/webpack.client.config.js",
+		"build:client": "webpack --config=build/webpack/webpack.client.config.js --mode=production",
+		"build:extension": "webpack --config=build/webpack/webpack.extension.config.js --mode=production",
+		"compile:client:watch": "webpack --config=build/webpack/webpack.client.config.js --watch",
+		"lint": "eslint src --ext ts && eslint src --ext tsx && eslint build --ext js",
+		"lint-format": "npx prettier 'src/**/*.ts*' --check && npx prettier 'build/**/*.js' --check",
+		"watch": "tsc -watch -p ./",
+		"package": "vsce package -o ms-notebook-renderers.vsix",
+		"test": "node ./out/test/runTest.js",
+		"prettier-fix": "prettier 'src/**/*.ts*' --write && prettier 'build/**/*.js' --write",
+		"postinstall": "node ./build/postInstall.js"
+	},
+	"dependencies": {
+		"@babel/helper-validator-identifier": "^7.10.1",
+		"@blueprintjs/core": "^3.7.0",
+		"@blueprintjs/select": "^3.2.0",
+		"@jupyter-widgets/base": "^4.1.0",
+		"@jupyter-widgets/controls": "^3.1.0",
+		"@jupyter-widgets/jupyterlab-manager": "^3.1.0",
+		"@jupyter-widgets/output": "^4.1.0",
+		"@jupyterlab/coreutils": "^5.4.2",
+		"@jupyterlab/nbformat": "^3.4.2",
+		"@loadable/component": "^5.12.0",
+		"@nteract/transform-dataresource": "^3.0.2",
+		"@nteract/transform-geojson": "^3.2.3",
+		"@nteract/transform-model-debug": "^3.2.3",
+		"@nteract/transform-plotly": "^7.0.0",
+		"@nteract/transform-vega": "7.0.10",
+		"@nteract/transforms": "^3.2.0",
+		"@phosphor/widgets": "^1.9.3",
+		"chownr": "^2.0.0",
+		"fs-minipass": "^2.1.0",
+		"jquery": "^3.6.1",
+		"lodash": "^4.17.21",
+		"minipass": "^3.1.6",
+		"minizlib": "^2.1.2",
+		"path-browserify": "^0.0.1",
+		"plotly.js-dist": "^2.11.1",
+		"re-resizable": "~6.5.5",
+		"react": "^16.8.4",
+		"react-dom": "^16.8.4",
+		"react-toggle": "^4.1.2",
+		"requirejs": "^2.3.6",
+		"styled-components": "5.2.1",
+		"tslib": "^1.14.1",
+		"underscore": "^1.13.1",
+		"util": "^0.12.3",
+		"uuid": "^3.3.2",
+		"vega": "^5.22.1",
+		"vega-embed": "^6.21.0",
+		"vega-lite": "^5.5.0",
+		"yallist": "^4.0.0"
+	},
+	"devDependencies": {
+		"@types/glob": "^7.1.1",
+		"@types/loadable__component": "^5.10.0",
+		"@types/lodash": "^4.14.158",
+		"@types/mocha": "^7.0.2",
+		"@types/node": "^12.11.7",
+		"@types/react": "^16.9.35",
+		"@types/react-dom": "^16.9.8",
+		"@types/uuid": "^8.0.0",
+		"@types/vscode": "^1.60.0",
+		"@types/vscode-notebook-renderer": "^1.60.0",
+		"@typescript-eslint/eslint-plugin": "^3.1.0",
+		"@typescript-eslint/parser": "^3.1.0",
+		"concurrently": "^5.2.0",
+		"copy-webpack-plugin": "^6.0.2",
+		"css-loader": "^3.5.3",
+		"eslint": "^7.1.0",
+		"eslint-config-prettier": "^6.11.0",
+		"eslint-plugin-prettier": "^3.1.3",
+		"fork-ts-checker-webpack-plugin": "^4.1.6",
+		"glob": "^7.1.6",
+		"install": "^0.13.0",
+		"less": "^3.11.3",
+		"mocha": "^10.1.0",
+		"node-loader": "^2.0.0",
+		"prettier": "^2.0.5",
+		"style-loader": "^1.2.1",
+		"svg-inline-loader": "^0.8.2",
+		"thread-loader": "^3.0.4",
+		"ts-loader": "^9.3.1",
+		"typescript": "^4.7.4",
+		"url-loader": "^4.1.0",
+		"vscode-test": "^1.4.0",
+		"webpack": "^5.0.0",
+		"webpack-bundle-analyzer": "^4.5.0",
+		"webpack-cli": "^4.0.0",
+		"webpack-fix-default-import-plugin": "^1.0.3"
+	},
+	"optionalDependencies": {
+		"canvas": "^2.7.0"
+	},
+	"overrides": {
+		"ini": "1.3.6",
+		"simple-get": "3.1.1",
+		"node-fetch": "2.6.7",
+		"prismjs": "1.27.0",
+		"jquery-ui@<1.13.2": "1.13.2",
+		"url-parse@<1.5.9": "1.5.9",
+		"terser@<5.14.2": "5.14.2",
+		"ua-parser-js": "0.7.24",
+		"moment@<2.29.4": "2.29.4",
+		"sanitize-html": "2.7.3"
+	},
+	"__metadata": {
+		"id": "b15c72f8-d5fe-421a-a4f7-27ed9f6addbf",
+		"publisherId": "ac8eb7c9-3e59-4b39-8040-f0484d8170ce",
+		"publisherDisplayName": "Microsoft",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": true,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1674544517818,
+		"preRelease": false
+	}
+}

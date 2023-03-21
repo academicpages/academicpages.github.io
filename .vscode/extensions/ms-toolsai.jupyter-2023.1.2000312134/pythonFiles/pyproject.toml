@@ -1,0 +1,11 @@
+[tool.black]
+exclude = '''
+
+(
+  /(
+    .data
+    | .vscode
+    | lib
+  )/
+)
+'''

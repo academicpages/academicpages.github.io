@@ -1,0 +1,25 @@
+﻿{
+  "engineAssemblyName": "Microsoft.MIDebugEngine, Version=14.0.0.0",
+  "engineClassName": "Microsoft.MIDebugEngine.AD7Engine",
+  "conditionalBP": true,
+  "functionBP": true,
+  "dataBP": true,
+  "clipboardContext": true,
+  "exceptionSettings": {
+    "categories": [
+      {
+        "name": "C++ Exceptions",
+        "id": "3A12D0B7-C26C-11D0-B442-00A0244A1DD2"
+      }
+    ],
+    "exceptionBreakpointFilters": [
+      {
+        "label": "All C++ Exceptions",
+        "filter": "all",
+        "supportsCondition": true,
+        "conditionDescription": "std::out_of_range,std::invalid_argument",
+        "categoryId": "3A12D0B7-C26C-11D0-B442-00A0244A1DD2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+version = "22.1.*"
+
+[tool.stubtest]
+# linux and darwin are equivalent
+platforms = ["linux", "win32"]

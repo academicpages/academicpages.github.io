@@ -1,0 +1,1356 @@
+{
+	"type": "object",
+	"description": "Předvolby určují generátor a adresář sestavení a volitelně i seznam proměnných a dalších argumentů, které se mají předat do nástroje CMake.",
+	"required": [
+		"version"
+	],
+	"properties": {
+		"version": {
+			"type": "integer",
+			"description": "Požadované celé číslo představující verzi schématu JSON."
+		},
+		"cmakeMinimumRequired": {
+			"type": "object",
+			"description": "Volitelný objekt představující minimální verzi nástroje CMake potřebnou k sestavení tohoto projektu",
+			"properties": {
+				"major": {
+					"type": "integer",
+					"description": "Volitelné celé číslo představující hlavní verzi"
+				},
+				"minor": {
+					"type": "integer",
+					"description": "Volitelné celé číslo představující podverzi"
+				},
+				"patch": {
+					"type": "integer",
+					"description": "Volitelné celé číslo představující verzi opravy"
+				}
+			},
+			"additionalProperties": false
+		},
+		"configurePresets": {
+			"type": "array",
+			"description": "Volitelné pole s přednastavenými konfiguračními objekty",
+			"items": {
+				"type": "object",
+				"description": "Přednastavený konfigurační objekt",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Požadovaný řetězec představující název předvolby srozumitelný pro počítač. Tento identifikátor se používá v argumentu --preset. Když vezmeme dohromady soubory CMakePresets.json a CMakeUserPresets.json, nesmí být ve stejném adresáři dvě předvolby se stejným názvem.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Volitelná logická hodnota určující, jestli má být předvolba skrytá. Pokud je skrytá, nedá se použít v argumentu --preset=, nebude se zobrazovat v grafickém uživatelském rozhraní CMake a nemusí mít platný generátor nebo binaryDir, a to ani z dědičnosti. Zamýšleným účelem skrytých předvoleb je jejich použití jako základu pro jiné předvolby, do nichž se dědí na základě pole inherits."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Volitelný řetězec představující název předvolby, ze které se má dědit",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Volitelné pole řetězců představující názvy předvoleb, z nichž se má dědit. Ve výchozím nastavení předvolba zdědí z předvoleb, z nichž se dědí, všechna pole (s výjimkou polí name, hidden, inherits, description a displayName), ale může je podle potřeby přepsat. Pokud více předvoleb, z nichž se dědí, poskytuje konfliktní hodnoty pro stejné pole, upřednostní se nejstarší předvolba v seznamu dědění. Předvolby v souboru CMakePresets.json nemůžou dědit z předvoleb v souboru CMakeUserPresets.json.",
+								"items": {
+									"type": "string",
+									"description": "Volitelný řetězec představující název předvolby, ze které se má dědit",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Volitelná mapa obsahující informace specifické pro dodavatele. CMake obsah tohoto pole neinterpretuje – jen v případě, že existuje, ověří, že je to mapa. Klíče by se ale měly skládat z názvu domény specifického pro dodavatele, po němž následuje cesta oddělená znakem /. Třeba příkladové prostředí IDE 1.0 by mohlo používat example.com/ExampleIDE/1.0. Hodnota jednotlivých polí je zcela na uvážení dodavatele, obvykle se ale jedná o mapu.",
+						"properties": {
+							"microsoft.com/VisualStudioSettings/CMake/1.0": {
+								"type": "object",
+								"description": "Nepovinný objekt, který představuje objekt dodavatele nastavení sady Visual Studio",
+								"properties": {
+									"hostOS": {
+										"anyOf": [
+											{
+												"type": "string",
+												"description": "Nepovinný řetězec, který představuje název hostitelského operačního systému. Přípustné hodnoty jsou Windows, Linux a macOS.",
+												"enum": [
+													"Windows",
+													"Linux",
+													"macOS"
+												]
+											},
+											{
+												"type": "array",
+												"description": "Pole podporovaných hostitelských operačních systémů. Pomocí tohoto klíče nástroje Visual Studio a Visual Studio Code skrývají předvolby, které se nevztahují na aktivní cílový systém ani hostitelský operační systém. Přípustné hodnoty jsou Windows, Linux a macOS.",
+												"items": {
+													"type": "string",
+													"description": "Nepovinný řetězec, který představuje název hostitelského operačního systému. Přípustné hodnoty jsou Windows, Linux a macOS.",
+													"enum": [
+														"Windows",
+														"Linux",
+														"macOS"
+													]
+												}
+											}
+										]
+									},
+									"intelliSenseMode": {
+										"type": "string",
+										"description": "Nepovinný klíč, který označuje upřednostňovaný režim IntelliSense. Režim se používá pro výpočet informací IntelliSense v nástrojích Visual Studio a Visual Studio Code.",
+										"enum": [
+											"windows-msvc-x86",
+											"windows-msvc-x64",
+											"windows-msvc-arm",
+											"windows-msvc-arm64",
+											"android-clang-x86",
+											"android-clang-x64",
+											"android-clang-arm",
+											"android-clang-arm64",
+											"ios-clang-x86",
+											"ios-clang-x64",
+											"ios-clang-arm",
+											"ios-clang-arm64",
+											"windows-clang-x86",
+											"windows-clang-x64",
+											"windows-clang-arm",
+											"windows-clang-arm64",
+											"linux-gcc-x86",
+											"linux-gcc-x64",
+											"linux-gcc-arm"
+										]
+									},
+									"intelliSenseOptions": {
+										"type": "object",
+										"description": "Nepovinný objekt, který se používá ke konfiguraci rozšířených nastavení IntelliSense",
+										"properties": {
+											"useCompilerDefaults": {
+												"type": "boolean",
+												"default": true,
+												"description": "Určuje, jestli se pro IntelliSense mají používat výchozí definice kompilátoru a zahrnuté cesty. Hodnota by měla být false jenom v případě, že použité kompilátory nepodporují argumenty ve stylu gcc."
+											},
+											"additionalCompilerArgs": {
+												"anyOf": [
+													{
+														"type": "string",
+														"default": "empty"
+													},
+													{
+														"type": "array",
+														"description": "Pole dalších možností, které řídí IntelliSense v sadě Visual Studio",
+														"items": {
+															"type": "string"
+														}
+													}
+												]
+											}
+										}
+									},
+									"enableMicrosoftCodeAnalysis": {
+										"type": "boolean",
+										"description": "Při sestavování pomocí cl nebo clang-cl povolte v sadě Visual Studio analýzu kódu Microsoftu."
+									},
+									"codeAnalysisRuleset": {
+										"type": "string",
+										"description": "Sada pravidel k použití při spuštění analýzy kódu Microsoftu v sadě Visual Studio. Může jít o cestu k souboru sady pravidel, nebo o název souboru sady pravidel nainstalovaného spolu se sadou Visual Studio."
+									},
+									"enableClangTidyCodeAnalysis": {
+										"type": "boolean",
+										"description": "Při sestavování pomocí clang-cl povolte v sadě Visual Studio analýzu kódu clang-tidy."
+									},
+									"clangTidyChecks": {
+										"type": "string",
+										"description": "Seznam čárkami oddělených upozornění předaných do clang-tidy, když se v sadě Visual Studio spouští analýza kódu clang-tidy. Povolují se zástupné znaky a předpona - odebere kontroly."
+									},
+									"cacheRoot": {
+										"type": "string",
+										"description": "Cesta k mezipaměti CMake. Tento adresář by měl obsahovat existující soubor CMakeCache.txt. Klíč se podporuje jen ve scénáři Otevřít existující mezipaměť v sadě Visual Studio."
+									},
+									"cmakeGenerateCommand": {
+										"type": "string",
+										"description": "Nástroj příkazového řádku (zadaný jako program příkazového řádku a argumenty, např. gencache.bat debug), pomocí kterého se vygeneruje mezipaměť CMake. Tento příkaz se spustí z prostředí shell v prostředí zadaném v předvolbě, když se zavolá generování mezipaměti. Tento klíč se podporuje jen ve scénáři Otevřít existující mezipaměť v sadě Visual Studio."
+									}
+								}
+							},
+							"microsoft.com/VisualStudioRemoteSettings/CMake/1.0": {
+								"type": "object",
+								"description": "Nepovinný objekt, který představuje objekt dodavatele vzdáleného nastavení sady Visual Studio",
+								"properties": {
+									"sourceDir": {
+										"type": "string",
+										"default": "$env{HOME}/.vs/${sourceDirName}",
+										"description": "Cesta k adresáři na vzdáleném systému nebo v instalaci WSL2, kam se bude kopírovat projekt"
+									},
+									"copySources": {
+										"type": "boolean",
+										"default": "true",
+										"description": "Pokud se nastaví true, Visual Studio zkopíruje zdroje z Windows na vzdálený systém. Pokud synchronizaci souborů spravujete sami, nastavte false."
+									},
+									"copySourcesOptions": {
+										"type": "object",
+										"description": "Objekt nastavení souvisejících s kopírováním zdrojů z Windows na vzdálený systém",
+										"properties": {
+											"exclusionList": {
+												"type": "array",
+												"default": "[ \".vs\", \".git\", \"out\"]",
+												"description": "Seznam cest, které se mají vyloučit při kopírování zdrojových souborů na vzdáleném systému. Cesta může být název souboru nebo adresáře nebo relativní ke kořenu kopie.",
+												"items": {
+													"type": "string"
+												}
+											},
+											"method": {
+												"type": "string",
+												"default": "rsync",
+												"description": "Metoda, pomocí které se kopírují zdrojové soubory na vzdálený systém. Přípustné hodnoty jsou rsync a sftp."
+											},
+											"concurrentCopies": {
+												"type": "integer",
+												"default": 5,
+												"description": "Počet souběžných kopií použitých během synchronizace zdrojů do vzdáleného systému"
+											},
+											"outputVerbosity": {
+												"type": "string",
+												"default": "Normal",
+												"description": "Úroveň podrobnosti operací kopírování zdrojů na vzdálený systém. Přípustné úrovně jsou Normal, Verbose a Diagnostic.",
+												"enum": [
+													"Normal",
+													"Verbose",
+													"Diagnostic"
+												]
+											}
+										}
+									},
+									"rsyncCommandArgs": {
+										"type": "array",
+										"default": "[\"-t\", \"--delete\", \"--delete-excluded\"]",
+										"description": "Seznam dalších argumentů příkazového řádku předaných do rsync",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyBuildOutput": {
+										"type": "boolean",
+										"default": false,
+										"description": "Určuje, jestli se má kopírovat výstup sestavení ze vzdáleného systému zpět do Windows."
+									},
+									"copyOptimizations": {
+										"type": "object",
+										"description": "Objekt nastavení souvisejících s optimalizacemi kopírování zdrojů",
+										"properties": {
+											"maxSmallChange": {
+												"type": "integer",
+												"default": 10,
+												"description": "Maximální počet souborů ke zkopírování pomocí SFTP namísto rsync"
+											},
+											"useOptimizations": {
+												"type": "string",
+												"default": "RsyncAndSftp",
+												"description": "Vyberte možnost bez optimalizací kopírování (None), pouze optimalizace rsync (RsyncOnly), nebo optimalizace rsync i SFTP (RsyncAndSftp).",
+												"enum": [
+													"None",
+													"RsyncOnly",
+													"RsyncAndSftp"
+												]
+											},
+											"rsyncSingleDirectoryCommandArgs": {
+												"type": "array",
+												"default": "[\"-t\", \"-d\"]",
+												"description": "Seznam dalších argumentů příkazového řádku předaného do rsync při kopírování obsahu jednoho adresáře na vzdálený systém",
+												"items": {
+													"type": "string"
+												}
+											}
+										}
+									},
+									"copyAdditionalIncludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "Seznam cest ke vzdáleným adresářům představujícím záhlaví, které se mají místně zkopírovat pro IntelliSense",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyExcludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "Seznam cest ke vzdáleným adresářům představujícím záhlaví, které se nemají místně zkopírovat pro IntelliSense",
+										"items": {
+											"type": "string"
+										}
+									},
+									"forceWSL1Toolset": {
+										"type": "boolean",
+										"default": false,
+										"description": "Když se nastaví na true, Visual Studio bude při cílení na WSL ze sady Visual Studio používat sadu nástrojů WSL1. Tato sada nástrojů spouští všechny příkazy místně a při přístupu k místním zdrojovým souborům z WSL se spoléhá na jednotky Windows připojené ve složce /mnt. S WSL2 můžou být tyto operace pomalejší."
+									}
+								}
+							}
+						}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Volitelný řetězec s uživatelsky přívětivým názvem předvolby"
+					},
+					"description": {
+						"type": "string",
+						"description": "Volitelný řetězec s uživatelsky přívětivým popisem předvolby"
+					},
+					"generator": {
+						"type": "string",
+						"description": "Volitelný řetězec představující generátor, který se má použít pro předvolbu. Pokud není generátor určen, musí se dědit z předvolby dědění (pokud tato předvolba není skrytá). Všimněte si, že u generátorů sady Visual Studio nemůžete do názvu generátoru začlenit název platformy – na rozdíl od argumentu příkazového řádku -G. Místo toho použijte pole pro architekturu."
+					},
+					"architecture": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Nepovinný řetězec, který představuje platformu pro generátory, které ji podporují"
+							},
+							{
+								"type": "object",
+								"description": "Nepovinný objekt, který představuje platformu pro generátory, které ji podporují.",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "Nepovinný řetězec, který představuje hodnotu"
+									},
+									"strategy": {
+										"type": "string",
+										"description": "Nepovinný řetězec, který CMaku předává informaci, jak zpracovat dané pole. Platné hodnoty: set – Nastaví příslušnou hodnotu. Pro generátory, které dané pole nepodporují, to způsobí chybu. external – Nenastavovat hodnotu, ani když ji generátory podporují. Je to užitečné například v případě, že předvolba používá generátor Ninja a integrované vývojové prostředí (IDE) umí nastavit prostředí Visual C++ z polí architecture a toolset. V takovém případě bude CMake dané pole ignorovat, ale IDE může podle nich nastavit prostředí dříve, než zavolá CMake.",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"toolset": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Nepovinný řetězec, který představuje sadu nástrojů pro generátory, které ji podporují"
+							},
+							{
+								"type": "object",
+								"description": "Nepovinný objekt, který představuje sadu nástrojů pro generátory, které ji podporují",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "Nepovinný řetězec, který představuje hodnotu"
+									},
+									"strategy": {
+										"type": "string",
+										"description": "Nepovinný řetězec, který CMaku předává informaci, jak zpracovat dané pole. Platné hodnoty: set – Nastaví příslušnou hodnotu. Pro generátory, které dané pole nepodporují, to způsobí chybu. external – Nenastavovat hodnotu, ani když ji generátory podporují. Je to užitečné například v případě, že předvolba používá generátor Ninja a integrované vývojové prostředí (IDE) umí nastavit prostředí Visual C++ z polí architecture a toolset. V takovém případě bude CMake dané pole ignorovat, ale IDE může podle nich nastavit prostředí dříve, než zavolá CMake.",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"binaryDir": {
+						"type": "string",
+						"description": "Volitelný řetězec představující cestu k výstupnímu binárnímu adresáři. Toto pole podporuje rozšíření makra. Pokud je zadána relativní cesta, vypočítá se jako relativní ke zdrojovému adresáři. Pokud není binaryDir zadáno, musí se dědit z předvolby dědění (pokud tato předvolba není skrytá)."
+					},
+					"cmakeExecutable": {
+						"type": "string",
+						"description": "Volitelný řetězec představující cestu ke spustitelnému souboru CMake, který se má použít pro tuto předvolbu. Je vyhrazen pro použití v rozhraních IDE – nepoužívá se přímo v nástroji CMake. Rozhraní IDE, která používají toto pole, by měla rozšířit všechna makra v něm."
+					},
+					"cacheVariables": {
+						"type": "object",
+						"description": "Volitelná mapa proměnných mezipaměti. Klíčem je název proměnné (nesmí to být prázdný řetězec). Proměnné mezipaměti se dědí prostřednictvím pole inherits a proměnné u této předvolby budou souhrnem jejích vlastních proměnných cacheVariables i proměnných cacheVariables ze všech jejích nadřazených objektů. Pokud stejnou proměnnou definuje více předvoleb v tomto souhrnu, uplatňují se standardní pravidla dědění.",
+						"properties": {
+							"CMAKE_C_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Kompilátor, který se má použít pro jazyk C."
+									},
+									{
+										"type": "null",
+										"description": "Nastavení proměnné na hodnotu null způsobí, že nebude nastavená, i když byla hodnota zděděna z jiné předvolby."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_CXX_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Kompilátor, který se má použít pro jazyk C++."
+									},
+									{
+										"type": "null",
+										"description": "Nastavení proměnné na hodnotu null způsobí, že nebude nastavená, i když byla hodnota zděděna z jiné předvolby."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_INSTALL_PREFIX": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Instalační adresář používaný nástrojem CMake. Pokud používáte předvolby verze 3 nebo vyšší, použijte vlastnost installDir."
+									},
+									{
+										"type": "null",
+										"description": "Nastavení proměnné na hodnotu null způsobí, že nebude nastavená, i když byla hodnota zděděna z jiné předvolby."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_TOOLCHAIN_FILE": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Soubor sady nástrojů se předal do CMake. Pokud používáte předvolby verze 3 nebo vyšší, použijte vlastnost toolchainFile."
+									},
+									{
+										"type": "null",
+										"description": "Nastavení proměnné na hodnotu null způsobí, že nebude nastavená, i když byla hodnota zděděna z jiné předvolby."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_BUILD_TYPE": {
+								"description": "Určuje typ sestavení u generátorů s jedinou konfigurací.",
+								"anyOf": [
+									{
+										"type": "string",
+										"enum": [
+											"Debug",
+											"Release",
+											"RelWithDebInfo",
+											"MinSizeRel"
+										]
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									},
+									{
+										"type": "string"
+									},
+									{
+										"type": "null",
+										"description": "Nastavení proměnné na hodnotu null způsobí, že nebude nastavená, i když byla hodnota zděděna z jiné předvolby."
+									}
+								]
+							}
+						},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Nastavení proměnné na hodnotu null způsobí, že nebude nastavená, i když byla hodnota zděděna z jiné předvolby."
+								},
+								{
+									"type": "boolean",
+									"description": "Logická hodnota, která představuje hodnotu proměnné. Ekvivalent k hodnotě TRUE nebo FALSE."
+								},
+								{
+									"type": "string",
+									"description": "Řetězec představující hodnotu proměnné (podporující rozšíření makra)"
+								},
+								{
+									"type": "object",
+									"description": "Objekt představující typ a hodnotu proměnné",
+									"properties": {
+										"type": {
+											"type": "string",
+											"description": "Volitelný řetězec představující typ proměnné. Mělo by jít o BOOL, FILEPATH, PATH, STRING nebo INTERNAL."
+										},
+										"value": {
+											"anyOf": [
+												{
+													"type": "boolean",
+													"description": "Požadovaná logická hodnota, která představuje hodnotu proměnné. Ekvivalent k hodnotě TRUE nebo FALSE."
+												},
+												{
+													"type": "string",
+													"description": "Požadovaný řetězec představující hodnotu proměnné. Toto pole podporuje rozšíření makra."
+												}
+											]
+										}
+									},
+									"required": [
+										"value"
+									],
+									"additionalProperties": false
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"environment": {
+						"type": "object",
+						"description": "Volitelná mapa proměnných prostředí. Klíčem je název proměnné (což nesmí být prázdný řetězec). Jednotlivé proměnné se nastaví bez ohledu na to, jestli jim byla v prostředí procesu předána hodnota. Toto pole podporuje rozšíření makra. Proměnné prostředí v této mapě můžou odkazovat na sebe navzájem a můžou být v libovolném pořadí, pokud tyto odkazy nevytvářejí cyklus (například pokud ENV_1 je $env{ENV_2}, pak ENV_2 nesmí být $env{ENV_1}). Proměnné prostředí se dědí prostřednictvím pole inherits a prostředí u této předvolby bude souhrnem jejího vlastního prostředí a prostředí ze všech jejích nadřazených objektů. Pokud stejnou proměnnou definuje více předvoleb v tomto souhrnu, uplatňují se standardní pravidla dědění. Nastavení proměnné na hodnotu null způsobí, že se nenastaví, i když se hodnota zdědí z jiné předvolby.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Nastavení proměnné na hodnotu null způsobí, že nebude nastavená, i když byla hodnota zděděna z jiné předvolby."
+								},
+								{
+									"type": "string",
+									"description": "Řetězec představující hodnotu proměnné"
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"warnings": {
+						"type": "object",
+						"description": "Volitelný objekt určující upozornění",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "Volitelná logická hodnota. Je ekvivalentem zadání -Wdev nebo -Wno-dev na příkazovém řádku. Nedá se nastavit na false, pokud je položka errors.dev nastavená na true."
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "Volitelná logická hodnota. Je ekvivalentem zadání -Wdeprecated nebo -Wno-deprecated na příkazovém řádku. Nedá se nastavit na false, pokud je položka errors.deprecated nastavená na true."
+							},
+							"uninitialized": {
+								"type": "boolean",
+								"description": "Volitelná logická hodnota. Nastavení this na true je ekvivalentem zadání --warn-uninitialized na příkazovém řádku."
+							},
+							"unusedCli": {
+								"type": "boolean",
+								"description": "Volitelná logická hodnota. Nastavení this na false je ekvivalentem zadání --no-warn-unused-cli na příkazovém řádku."
+							},
+							"systemVars": {
+								"type": "boolean",
+								"description": "Volitelná logická hodnota. Nastavení this na true je ekvivalentem zadání --check-system-vars na příkazovém řádku."
+							}
+						},
+						"additionalProperties": false
+					},
+					"errors": {
+						"type": "object",
+						"description": "Volitelný objekt určující chyby",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "Volitelná logická hodnota. Je ekvivalentem zadání -passing -Werror=dev nebo -Wno-error=dev na příkazovém řádku. Nedá se nastavit na true, pokud je položka warnings.dev nastavená na false."
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "Volitelná logická hodnota. Je ekvivalentem zadání -Werror=deprecated nebo -Wno-error=deprecated na příkazovém řádku. Nedá se nastavit na true, pokud je položka warnings.deprecated nastavená na false."
+							}
+						},
+						"additionalProperties": false
+					},
+					"debug": {
+						"type": "object",
+						"description": "Nepovinný objekt, který určuje možnosti ladění.",
+						"properties": {
+							"output": {
+								"type": "boolean",
+								"description": "Volitelná logická hodnota. Když se nastaví na true, je to ekvivalent předání parametru --debug-output na příkazovém řádku."
+							},
+							"tryCompile": {
+								"type": "boolean",
+								"description": "Volitelná logická hodnota. Když se nastaví na true, je to ekvivalent předání parametru --debug-trycompile na příkazovém řádku."
+							},
+							"find": {
+								"type": "boolean",
+								"description": "Volitelná logická hodnota. Když se nastaví na true, je to ekvivalent předání parametru --debug-find na příkazovém řádku."
+							}
+						},
+						"additionalProperties": false
+					},
+					"installDir": {
+						"type": "string",
+						"description": "Volitelný řetězec, který představuje cestu k instalačnímu adresáři. Toto pole podporuje rozšíření makra. Pokud je zadaná relativní cesta, je vypočtena relativně ke zdrojovému adresáři. Podporováno ve verzi 3."
+					},
+					"toolchainFile": {
+						"type": "string",
+						"description": "Volitelný řetězec, který představuje cestu k souboru sady nástrojů. Toto pole podporuje rozšíření makra. Pokud je zadaná relativní cesta, je vypočtena relativně k adresáři sestavení, a pokud se nenajde, tak relativně ke zdrojovému adresáři. Podporováno ve verzi 3."
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"buildPresets": {
+			"type": "array",
+			"description": "Nepovinné pole objektů předvolby sestavování. Zadávají se pomocí něj argumenty pro cmake --build. K dispozici ve verzi 2 a vyšších.",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Požadovaný řetězec představující název předvolby srozumitelný pro počítač. Tento identifikátor se používá v argumentu --preset. Když vezmeme dohromady soubory CMakePresets.json a CMakeUserPresets.json, nesmí být ve stejném adresáři dvě předvolby se stejným názvem (konfigurace, sestavení nebo test).",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Volitelná logická hodnota určující, jestli má být předvolba skrytá. Pokud je skrytá, nedá se použít v argumentu --preset, nebude se zobrazovat v grafickém uživatelském rozhraní CMake a nemusí mít platný configurePreset, a to ani z dědičnosti. Zamýšleným účelem skrytých předvoleb je jejich použití jako základu pro jiné předvolby, do nichž se dědí na základě pole inherits."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Volitelný řetězec představující název předvolby sestavování, ze které se má dědit",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Volitelné pole řetězců představující názvy předvoleb sestavování, z nichž se má dědit. Ve výchozím nastavení předvolba zdědí z předvoleb, z nichž se dědí, všechna pole (s výjimkou polí name, hidden, inherits, description a displayName), ale může je podle potřeby přepsat. Pokud více předvoleb, z nichž se dědí, poskytuje konfliktní hodnoty pro stejné pole, upřednostní se nejstarší předvolba v seznamu dědění. Předvolby v souboru CMakePresets.json nemůžou dědit z předvoleb v souboru CMakeUserPresets.json.",
+								"items": {
+									"type": "string",
+									"description": "Volitelný řetězec představující název předvolby, ze které se má dědit",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "Nepovinný řetězec, který určuje název předvolby konfigurace, která se má přidružit k této předvolbě sestavování. Pokud se configurePreset nezadá, musí se zdědit z předvolby dědění (pokud tato předvolba není skrytá). Adresář stromu sestavení se odvozuje z předvolby konfigurace.",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Volitelná mapa obsahující informace specifické pro dodavatele. CMake obsah tohoto pole neinterpretuje – jen v případě, že existuje, ověří, že je to mapa. Měla by ale dodržovat stejné konvence jako pole dodavatele na kořenové úrovni. Pokud dodavatelé používají vlastní pole dodavatele určené předvolbou, měli by v případě potřeby implementovat dědičnost přiměřeným způsobem.",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Volitelný řetězec s uživatelsky přívětivým názvem předvolby"
+					},
+					"description": {
+						"type": "string",
+						"description": "Volitelný řetězec s uživatelsky přívětivým popisem předvolby"
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "Nepovinná logická hodnota, jejíž výchozí hodnota je true. Když bude true, proměnné prostředí z přidružené předvolby konfigurace se zdědí po všech zděděných prostředích předvolby sestavování, ale před proměnnými prostředí explicitně definovanými v této předvolbě sestavování."
+					},
+					"environment": {
+						"type": "object",
+						"description": "Volitelná mapa proměnných prostředí. Klíčem je název proměnné (což nesmí být prázdný řetězec). Jednotlivé proměnné se nastaví bez ohledu na to, jestli jim byla v prostředí procesu předána hodnota. Toto pole podporuje rozšíření makra. Proměnné prostředí v této mapě můžou odkazovat na sebe navzájem a můžou být v libovolném pořadí, pokud tyto odkazy nevytvářejí cyklus (například pokud ENV_1 je $env{ENV_2}, pak ENV_2 nesmí být $env{ENV_1}). Proměnné prostředí se dědí prostřednictvím pole inherits a prostředí u této předvolby bude souhrnem jejího vlastního prostředí a prostředí ze všech jejích nadřazených objektů. Pokud stejnou proměnnou definuje více předvoleb v tomto souhrnu, uplatňují se standardní pravidla dědění. Nastavení proměnné na hodnotu null způsobí, že se nenastaví, i když se hodnota zdědí z jiné předvolby.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Nastavení proměnné na hodnotu null způsobí, že nebude nastavená, i když byla hodnota zděděna z jiné předvolby."
+								},
+								{
+									"type": "string",
+									"description": "Řetězec představující hodnotu proměnné"
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"jobs": {
+						"type": "integer",
+						"description": "Nepovinné celé číslo. Ekvivalent k předání parametru --parallel nebo -j na příkazovém řádku."
+					},
+					"targets": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Nepovinný řetězec. Ekvivalent k předání parametru --target nebo -t na příkazovém řádku. Dodavatelé můžou ignorovat vlastnost targets nebo skrýt předvolby sestavování, které targets explicitně zadávají."
+							},
+							{
+								"type": "array",
+								"description": "Nepovinné pole řetězců. Ekvivalent k předání parametru --target nebo -t na příkazovém řádku. Dodavatelé můžou ignorovat vlastnost targets nebo skrýt předvolby sestavování, které targets explicitně zadávají.",
+								"items": {
+									"type": "string",
+									"description": "Nepovinný řetězec. Ekvivalent k předání parametru --target nebo -t na příkazovém řádku. Dodavatelé můžou ignorovat vlastnost targets nebo skrýt předvolby sestavování, které targets explicitně zadávají."
+								}
+							}
+						]
+					},
+					"configuration": {
+						"type": "string",
+						"description": "Nepovinný řetězec. Ekvivalent k předání parametru --config na příkazovém řádku."
+					},
+					"cleanFirst": {
+						"type": "boolean",
+						"description": "Nepovinná logická hodnota. Pokud se nastaví na true, bude to ekvivalent k předání parametru --clean-first na příkazovém řádku."
+					},
+					"verbose": {
+						"type": "boolean",
+						"description": "Nepovinná logická hodnota. Pokud se nastaví na true, bude to ekvivalent k předání parametru --verbose na příkazovém řádku."
+					},
+					"nativeToolOptions": {
+						"type": "array",
+						"description": "Nepovinné pole řetězců. Ekvivalent k předávání možností pomocí -- na příkazovém řádku.",
+						"items": {
+							"type": "string",
+							"description": "Nepovinný řetězec, který představuje možnost, která se má předat pomocí -- na příkazovém řádku."
+						}
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"testPresets": {
+			"type": "array",
+			"description": "Nepovinné pole objektů předvolby testování. Zadávají se pomocí něj argumenty pro ctest. K dispozici ve verzi 2 a vyšších.",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Požadovaný řetězec představující název předvolby srozumitelný pro počítač. Tento identifikátor se používá v argumentu --preset. Když vezmeme dohromady soubory CMakePresets.json a CMakeUserPresets.json, nesmí být ve stejném adresáři dvě předvolby se stejným názvem (konfigurace, sestavení nebo test).",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Volitelná logická hodnota určující, jestli má být předvolba skrytá. Pokud je skrytá, nedá se použít v argumentu --preset, nebude se zobrazovat v grafickém uživatelském rozhraní CMake a nemusí mít platný configurePreset, a to ani z dědičnosti. Zamýšleným účelem skrytých předvoleb je jejich použití jako základu pro jiné předvolby, do nichž se dědí na základě pole inherits."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Volitelný řetězec představující název předvolby testování, ze které se má dědit",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Volitelné pole řetězců představující názvy předvoleb testování, z nichž se má dědit. Ve výchozím nastavení předvolba zdědí z předvoleb, z nichž se dědí, všechna pole (s výjimkou polí name, hidden, inherits, description a displayName), ale může je podle potřeby přepsat. Pokud více předvoleb, z nichž se dědí, poskytuje konfliktní hodnoty pro stejné pole, upřednostní se nejstarší předvolba v seznamu dědění. Předvolby v souboru CMakePresets.json nemůžou dědit z předvoleb v souboru CMakeUserPresets.json.",
+								"items": {
+									"type": "string",
+									"description": "Volitelný řetězec představující název předvolby, ze které se má dědit",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "Nepovinný řetězec, který určuje název předvolby konfigurace, která se má přidružit k této předvolbě testování. Pokud se configurePreset nezadá, musí se zdědit z předvolby dědění (pokud tato předvolba není skrytá). Adresář stromu sestavení se odvozuje z předvolby konfigurace.",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Volitelná mapa obsahující informace specifické pro dodavatele. CMake obsah tohoto pole neinterpretuje – jen v případě, že existuje, ověří, že je to mapa. Měla by ale dodržovat stejné konvence jako pole dodavatele na kořenové úrovni. Pokud dodavatelé používají vlastní pole dodavatele určené předvolbou, měli by v případě potřeby implementovat dědičnost přiměřeným způsobem.",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Volitelný řetězec s uživatelsky přívětivým názvem předvolby"
+					},
+					"description": {
+						"type": "string",
+						"description": "Volitelný řetězec s uživatelsky přívětivým popisem předvolby"
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "Nepovinná logická hodnota, jejíž výchozí hodnota je true. Když bude true, proměnné prostředí z přidružené předvolby konfigurace se zdědí po všech zděděných prostředích předvolby testování, ale před proměnnými prostředí explicitně definovanými v této předvolbě testování."
+					},
+					"environment": {
+						"type": "object",
+						"description": "Volitelná mapa proměnných prostředí. Klíčem je název proměnné (což nesmí být prázdný řetězec). Jednotlivé proměnné se nastaví bez ohledu na to, jestli jim byla v prostředí procesu předána hodnota. Toto pole podporuje rozšíření makra. Proměnné prostředí v této mapě můžou odkazovat na sebe navzájem a můžou být v libovolném pořadí, pokud tyto odkazy nevytvářejí cyklus (například pokud ENV_1 je $env{ENV_2}, pak ENV_2 nesmí být $env{ENV_1}). Proměnné prostředí se dědí prostřednictvím pole inherits a prostředí u této předvolby bude souhrnem jejího vlastního prostředí a prostředí ze všech jejích nadřazených objektů. Pokud stejnou proměnnou definuje více předvoleb v tomto souhrnu, uplatňují se standardní pravidla dědění. Nastavení proměnné na hodnotu null způsobí, že se nenastaví, i když se hodnota zdědí z jiné předvolby.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Nastavení proměnné na hodnotu null způsobí, že nebude nastavená, i když byla hodnota zděděna z jiné předvolby."
+								},
+								{
+									"type": "string",
+									"description": "Řetězec představující hodnotu proměnné"
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"configuration": {
+						"type": "string",
+						"description": "Nepovinný řetězec. Ekvivalent k předání parametru --build-config na příkazovém řádku."
+					},
+					"overwriteConfigurationFile": {
+						"type": "array",
+						"description": "Nepoviné pole možností konfigurace, které mají přepsat možnosti zadané v konfiguračním souboru CTest. Ekvivalent k předání parametru --overwrite pro každou hodnotu v poli.",
+						"items": {
+							"type": "string",
+							"description": "Možnost přepsaná jako pár klíč-hodnota ve tvaru klíč=hodnota"
+						}
+					},
+					"output": {
+						"type": "object",
+						"description": "Nepovinný objekt, který určuje možnosti výstupu.",
+						"properties": {
+							"shortProgress": {
+								"type": "boolean",
+								"description": "Nepovinná logická hodnota. Pokud se nastaví na true, bude to ekvivalent k předání parametru -progress na příkazovém řádku."
+							},
+							"verbosity": {
+								"type": "string",
+								"description": "Nepovinný řetězec, který určuje úroveň podrobností. Platné hodnoty jsou default (ekvivalent k tomu, že se na příkazovém řádku nepředají žádné příznaky podrobnosti), verbose (ekvivalent k předání parametru --verbose na příkazovém řádku) a extra (ekvivalent k předání parametru --extra-verbose na příkazovém řádku).",
+								"enum": [
+									"default",
+									"verbose",
+									"extra"
+								]
+							},
+							"debug": {
+								"type": "boolean",
+								"description": "Nepovinná logická hodnota. Pokud se nastaví na true, bude to ekvivalent k předání parametru -debug na příkazovém řádku."
+							},
+							"outputOnFailure": {
+								"type": "boolean",
+								"description": "Nepovinná logická hodnota. Pokud se nastaví na true, bude to ekvivalent k předání parametru --output-on-failure na příkazovém řádku."
+							},
+							"quiet": {
+								"type": "boolean",
+								"description": "Nepovinná logická hodnota. Pokud se nastaví na true, bude to ekvivalent k předání parametru -quiet na příkazovém řádku."
+							},
+							"outputLogFile": {
+								"type": "string",
+								"description": "Nepovinný řetězec, který určuje cestu k souboru protokolu. Ekvivalent k předání parametru --output-log na příkazovém řádku."
+							},
+							"labelSummary": {
+								"type": "boolean",
+								"description": "Nepovinná logická hodnota. Pokud se nastaví na false, bude to ekvivalent k předání parametru --no-label-summary na příkazovém řádku."
+							},
+							"subprojectSummary": {
+								"type": "boolean",
+								"description": "Nepovinná logická hodnota. Pokud se nastaví na false, bude to ekvivalent k předání parametru --no-subproject-summary na příkazovém řádku."
+							},
+							"maxPassedTestOutputSize": {
+								"type": "integer",
+								"description": "Nepovinné celé číslo, které určuje maximální výstup pro úspěšné testy v bajtech. Ekvivalent k předání parametru --test-output-size-passed na příkazovém řádku."
+							},
+							"maxFailedTestOutputSize": {
+								"type": "integer",
+								"description": "Nepovinné celé číslo, které určuje maximální výstup pro neúspěšné testy v bajtech. Ekvivalent k předání parametru --test-output-size-failed na příkazovém řádku."
+							},
+							"maxTestNameWidth": {
+								"type": "integer",
+								"description": "Nepovinné celé číslo, které určuje maximální šířku názvu testu, který se má vypsat na výstup. Ekvivalent k předání parametru --max-width na příkazovém řádku."
+							}
+						},
+						"additionalProperties": false
+					},
+					"filter": {
+						"type": "object",
+						"description": "Nepovinný objekt, který určuje, jak filtrovat testy, které se mají spustit.",
+						"properties": {
+							"include": {
+								"type": "object",
+								"description": "Nepovinný objekt, který určuje, které testy se mají zahrnout",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "Nepovinný řetězec, který určuje regulární výraz pro názvy testů. Ekvivalent k předání parametru --tests-regex na příkazovém řádku."
+									},
+									"label": {
+										"type": "string",
+										"description": "Nepovinný řetězec, který určuje regulární výraz pro testovací popisky. Ekvivalent k předání parametru --label-regex na příkazovém řádku."
+									},
+									"index": {
+										"anyOf": [
+											{
+												"type": "object",
+												"description": "Nepovinný objekt, který podle indexů testů určuje testy, které se mají zahrnout",
+												"properties": {
+													"start": {
+														"type": "integer",
+														"description": "Nepovinné celé číslo, které určuje index testu, na kterém se má zahájit testování"
+													},
+													"end": {
+														"type": "integer",
+														"description": "Nepovinné celé číslo, které určuje index testu, na kterém se má zastavit testování"
+													},
+													"stride": {
+														"type": "integer",
+														"description": "Nepovinné celé číslo, které určuje přírůstek"
+													},
+													"specificTests": {
+														"type": "array",
+														"description": "Nepovinné pole celých čísel, které určuje indexy konkrétních testů, které se mají spustit",
+														"items": {
+															"type": "integer",
+															"description": "Celé číslo, které podle indexů určuje testy, které se mají spustit"
+														}
+													}
+												},
+												"additionalProperties": false
+											},
+											{
+												"type": "string",
+												"description": "Nepovinný řetězec, který určuje soubor se syntaxí příkazového řádku --tests-information."
+											}
+										]
+									},
+									"useUnion": {
+										"type": "boolean",
+										"description": "Nepovinná logická hodnota. Ekvivalent k předání parametru --union na příkazovém řádku."
+									}
+								},
+								"additionalProperties": false
+							},
+							"exclude": {
+								"type": "object",
+								"description": "Nepovinný objekt, který určuje, které testy se mají vyloučit.",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "Nepovinný řetězec, který určuje regulární výraz pro názvy testů. Ekvivalent k předání parametru --exclude-regex na příkazovém řádku."
+									},
+									"label": {
+										"type": "string",
+										"description": "Nepovinný řetězec, který určuje regulární výraz pro popisky testů. Ekvivalent k předání parametru --label-exclude na příkazovém řádku."
+									},
+									"fixtures": {
+										"type": "object",
+										"description": "Nepovinný objekt, který určuje, které testovací přípravky se mají vyloučit při přidávání testů.",
+										"properties": {
+											"any": {
+												"type": "string",
+												"description": "Nepovinný řetězec, který určuje regulární výraz pro textové testovací přípravy, které se mají vyloučit při přidávání jakýchkoli testů. Ekvivalent k parametru --fixture-exclude-any na příkazovém řádku."
+											},
+											"setup": {
+												"type": "string",
+												"description": "Nepovinný řetězec, který určuje regulární výraz pro textové testovací přípravy, které se mají vyloučit při přidávání testů nastavení. Ekvivalent k parametru --fixture-exclude-setup na příkazovém řádku."
+											},
+											"cleanup": {
+												"type": "string",
+												"description": "Nepovinný řetězec, který určuje regulární výraz pro textové testovací prostředky, které se mají vyloučit z přidávání testů čištění. Ekvivalent k parametru --fixture-exclude-cleanup na příkazovém řádku."
+											}
+										},
+										"additionalProperties": false
+									}
+								}
+							}
+						},
+						"additionalProperties": false
+					},
+					"execution": {
+						"type": "object",
+						"description": "Nepovinný objekt, který určuje možnosti pro spouštění testů.",
+						"properties": {
+							"stopOnFailure": {
+								"type": "boolean",
+								"description": "Nepovinná logická hodnota. Pokud se nastaví na true, bude to ekvivalent k předání parametru --stop-on-failure na příkazovém řádku."
+							},
+							"enableFailover": {
+								"type": "boolean",
+								"description": "Nepovinná logická hodnota. Pokud se nastaví na true, bude to ekvivalent k předání parametru -F na příkazovém řádku."
+							},
+							"jobs": {
+								"type": "integer",
+								"description": "Nepovinné celé číslo. Ekvivalent k předání parametru --parallel na příkazovém řádku."
+							},
+							"resourceSpecFile": {
+								"type": "string",
+								"description": "Nepovinný řetězec. Ekvivalent k předání parametru --resource-spec-file na příkazovém řádku."
+							},
+							"testLoad": {
+								"type": "integer",
+								"description": "Nepovinné celé číslo. Ekvivalent k předání parametru --test-load na příkazovém řádku."
+							},
+							"showOnly": {
+								"type": "string",
+								"description": "Nepovinný řetězec. Ekvivalent k předání parametru --show-only na příkazovém řádku. Hodnota musí být human nebo json-v1.",
+								"enum": [
+									"human",
+									"json-v1"
+								]
+							},
+							"repeat": {
+								"type": "object",
+								"description": "Nepovinný objekt, který určuje, jak opakovat testy. Ekvivalent k předání parametru --repeat na příkazovém řádku.",
+								"properties": {
+									"mode": {
+										"type": "string",
+										"description": "Povinný řetězec. Musí to být jedna z těchto hodnot: until-fail, until-pass nebo after-timeout",
+										"enum": [
+											"until-fail",
+											"until-pass",
+											"after-timeout"
+										]
+									},
+									"count": {
+										"type": "integer",
+										"description": "Povinný integer."
+									}
+								},
+								"required": [
+									"mode",
+									"count"
+								],
+								"additionalProperties": false
+							},
+							"interactiveDebugging": {
+								"type": "boolean",
+								"description": "Nepovinná logická hodnota. Pokud se nastaví na true, bude to ekvivalent k předání parametru --interactive-debug-mode 1 na příkazovém řádku. Pokud se nastaví na false, bude to ekvivalent k předání parametru --interactive-debug-mode 0 na příkazovém řádku."
+							},
+							"scheduleRandom": {
+								"type": "boolean",
+								"description": "Nepovinná logická hodnota. Pokud se nastaví na true, bude to ekvivalent k předání parametru --schedule-random na příkazovém řádku."
+							},
+							"timeout": {
+								"type": "integer",
+								"description": "Nepovinné celé číslo. Ekvivalent k předání parametru --timeout na příkazovém řádku."
+							},
+							"noTestsAction": {
+								"type": "string",
+								"description": "Nepovinný řetězec, který určuje chování v případě, že se nenajdou žádné testy. Musí to být jedna z těchto hodnot: default (ekvivalent k tomu, že se na příkazovém řádku nepředá žádná hodnota), error (ekvivalent k předání parametru --no-tests=error na příkazovém řádku), nebo ignore (ekvivalent k předání parametru --no-tests-ignore na příkazovém řádku)",
+								"enum": [
+									"default",
+									"error",
+									"ignore"
+								]
+							}
+						},
+						"additionalProperties": false
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"vendor": {
+			"type": "object",
+			"description": "Volitelná mapa obsahující informace specifické pro dodavatele. CMake obsah tohoto pole neinterpretuje – jen v případě, že existuje, ověří, že je to mapa. Klíče by se ale měly skládat z názvu domény specifického pro dodavatele, po němž následuje cesta oddělená znakem /. Třeba příkladové prostředí IDE 1.0 by mohlo používat example.com/ExampleIDE/1.0. Hodnota jednotlivých polí je zcela na uvážení dodavatele, obvykle se ale jedná o mapu.",
+			"properties": {}
+		}
+	},
+	"additionalProperties": false,
+	"definitions": {
+		"condition": {
+			"anyOf": [
+				{
+					"type": "boolean",
+					"description": "Logická hodnota, která poskytuje konstantní hodnotu pro vyhodnocení podmínky."
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Povinný řetězec určující typ podmínky.",
+							"const": "const"
+						},
+						"value": {
+							"type": "boolean",
+							"description": "Povinná logická hodnota, která poskytuje konstantní hodnotu pro vyhodnocení podmínky."
+						}
+					},
+					"required": [
+						"type",
+						"value"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Povinný řetězec určující typ podmínky.",
+							"const": "equals"
+						},
+						"lhs": {
+							"type": "string",
+							"description": "První řetězec, který se má porovnat. Toto pole podporuje rozšíření makra."
+						},
+						"rhs": {
+							"type": "string",
+							"description": "Druhý řetězec, který se má porovnat. Toto pole podporuje rozšíření makra."
+						}
+					},
+					"required": [
+						"type",
+						"lhs",
+						"rhs"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Povinný řetězec určující typ podmínky.",
+							"const": "notEquals"
+						},
+						"lhs": {
+							"type": "string",
+							"description": "První řetězec, který se má porovnat. Toto pole podporuje rozšíření makra."
+						},
+						"rhs": {
+							"type": "string",
+							"description": "Druhý řetězec, který se má porovnat. Toto pole podporuje rozšíření makra."
+						}
+					},
+					"required": [
+						"type",
+						"lhs",
+						"rhs"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Povinný řetězec určující typ podmínky.",
+							"const": "inList"
+						},
+						"string": {
+							"type": "string",
+							"description": "Povinný řetězec, který se má hledat. Toto pole podporuje rozšíření makra."
+						},
+						"list": {
+							"type": "array",
+							"description": "Povinný seznam řetězců, které se mají hledat. Toto pole podporuje rozšíření makra a používá vyhodnocení krátkého okruhu.",
+							"items": {
+								"type": "string"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"list"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Povinný řetězec určující typ podmínky.",
+							"const": "notInList"
+						},
+						"string": {
+							"type": "string",
+							"description": "Povinný řetězec, který se má hledat. Toto pole podporuje rozšíření makra."
+						},
+						"list": {
+							"type": "array",
+							"description": "Povinný seznam řetězců, které se mají hledat. Toto pole podporuje rozšíření makra a používá vyhodnocení krátkého okruhu.",
+							"items": {
+								"type": "string"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"list"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Povinný řetězec určující typ podmínky.",
+							"const": "matches"
+						},
+						"string": {
+							"type": "string",
+							"description": "Povinný řetězec, který se má hledat. Toto pole podporuje rozšíření makra."
+						},
+						"regex": {
+							"type": "string",
+							"description": "Povinný regulární výraz, který se má hledat. Toto pole podporuje rozšíření makra."
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"regex"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Povinný řetězec určující typ podmínky.",
+							"const": "notMatches"
+						},
+						"string": {
+							"type": "string",
+							"description": "Povinný řetězec, který se má hledat. Toto pole podporuje rozšíření makra."
+						},
+						"regex": {
+							"type": "string",
+							"description": "Povinný regulární výraz, který se má hledat. Toto pole podporuje rozšíření makra."
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"regex"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Povinný řetězec určující typ podmínky.",
+							"const": "anyOf"
+						},
+						"conditions": {
+							"type": "array",
+							"description": "Povinný pole objektů podmínek. Tyto podmínky používají vyhodnocení krátkého okruhu.",
+							"items": {
+								"$ref": "#/definitions/condition"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"conditions"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Povinný řetězec určující typ podmínky.",
+							"const": "allOf"
+						},
+						"conditions": {
+							"type": "array",
+							"description": "Povinný pole objektů podmínek. Tyto podmínky používají vyhodnocení krátkého okruhu.",
+							"items": {
+								"$ref": "#/definitions/condition"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"conditions"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Povinný řetězec určující typ podmínky.",
+							"const": "not"
+						},
+						"condition": {
+							"$ref": "#/definitions/condition"
+						}
+					},
+					"required": [
+						"type",
+						"condition"
+					],
+					"additionalProperties": false
+				}
+			]
+		},
+		"topCondition": {
+			"description": "Nepovinné pole, které slouží k určení, jestli se povoluje předvolba. Podporováno ve verzi 3.",
+			"anyOf": [
+				{
+					"$ref": "#/definitions/condition"
+				},
+				{
+					"type": "null",
+					"description": "Hodnota null označuje, že podmínka se vždy vyhodnotí jako true a nezdědí se."
+				}
+			]
+		}
+	}
+}

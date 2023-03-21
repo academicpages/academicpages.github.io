@@ -1,0 +1,261 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"type": "object",
+	"definitions": {
+		"configurations": {
+			"type": "array",
+			"items": {
+				"type": "object",
+				"required": [
+					"name"
+				],
+				"properties": {
+					"name": {
+						"markdownDescription": "Yapılandırma tanımlayıcısı. `Mac`, `Linux` ve `Win32`, bu platformlarda otomatik olarak seçilecek yapılandırmalar için özel tanımlayıcılardır, ancak tanımlayıcı herhangi bir işlem olabilir.",
+						"descriptionHint": "Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+						"type": "string"
+					},
+					"compilerPath": {
+						"markdownDescription": "Daha doğru IntelliSense'i etkinleştirmek için kullanılmakta olan derleyicinin tam yolu (ör. `/usr/bin/gcc`).",
+						"descriptionHint": "Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+						"type": "string"
+					},
+					"compilerArgs": {
+						"markdownDescription": "Kullanılan eklemeleri veya tanımları değiştirmek için derleyici bağımsız değişkenleri. Örneğin `-nostdinc++`, `-m32` vb.",
+						"descriptionHint": "Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+						"type": "array",
+						"items": {
+							"type": "string"
+						}
+					},
+					"cStandard": {
+						"description": "IntelliSense için kullanılacak C dil standardı sürümü. Not: GNU standartları yalnızca GNU tanımlarını almak için ayarlanan derleyiciyi sorgulamak amacıyla kullanılır ve IntelliSense eşdeğer C standart sürümüne öykünür.",
+						"type": "string",
+						"enum": [
+							"c89",
+							"c99",
+							"c11",
+							"c17",
+							"gnu89",
+							"gnu99",
+							"gnu11",
+							"gnu17",
+							"${default}"
+						]
+					},
+					"cppStandard": {
+						"description": "IntelliSense için kullanılacak C++ dil standardı sürümü. Not: GNU standartları yalnızca GNU tanımlarını almak için ayarlanan derleyiciyi sorgulamak amacıyla kullanılır ve IntelliSense, eşdeğer C++ standart sürümüne öykünür.",
+						"type": "string",
+						"enum": [
+							"c++98",
+							"c++03",
+							"c++11",
+							"c++14",
+							"c++17",
+							"c++20",
+							"c++23",
+							"gnu++98",
+							"gnu++03",
+							"gnu++11",
+							"gnu++14",
+							"gnu++17",
+							"gnu++20",
+							"gnu++23",
+							"${default}"
+						]
+					},
+					"compileCommands": {
+						"markdownDescription": "Çalışma alanı için `compile_commands.json` dosyasının tam yolu.",
+						"descriptionHint": "Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+						"type": "string"
+					},
+					"includePath": {
+						"markdownDescription": "IntelliSense altyapısının eklenen üst bilgileri ararken kullanacağı yol listesi. Bu yollarda arama özyinelemeli değildir. Özyinelemeli aramayı göstermek için `**` belirtin. Örneğin: `${workspaceFolder}/**` tüm alt dizinlerde ararken `${workspaceFolder}` aramaz. Bu genellikle sistem eklemelerini içermemelidir, bunun yerine `C_Cpp.default.compilerPath` ayarını belirleyin.",
+						"descriptionHint": "Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+						"type": "array",
+						"items": {
+							"type": "string"
+						}
+					},
+					"macFrameworkPath": {
+						"description": "Mac çerçevelerinden eklenen üst bilgileri ararken IntelliSense altyapısı tarafından kullanılacak yolların listesi. Yalnızca Mac yapılandırmalarında desteklenir.",
+						"type": "array",
+						"items": {
+							"type": "string"
+						}
+					},
+					"windowsSdkVersion": {
+						"markdownDescription": "Windows üzerinde kullanılacak Windows SDK ekleme yolunun sürümü, ör. `10.0.17134.0`.",
+						"descriptionHint": "Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+						"type": "string",
+						"pattern": "^\\d{2}\\.\\d{1}\\.\\d{5}\\.\\d{1}$|^8\\.1$"
+					},
+					"dotConfig": {
+						"description": "Kconfig sistemi tarafından oluşturulan bir .config dosyasının yolu. Kconfig sistemi, bir proje oluşturmak için tüm tanımlamaları içeren bir dosya oluşturur. Kconfig sistemini kullanan projelere örnek olarak Linux Çekirdeği ve NuttX RTOS verilebilir.",
+						"type": "string"
+					},
+					"defines": {
+						"markdownDescription": "IntelliSense altyapısının dosyaları ayrıştırırken kullanacağı ön işlemci tanımlarının bir listesi. İsteğe bağlı olarak, bir değer ayarlamak için `=` kullanın, örneğin `VERSION=1`.",
+						"descriptionHint": "Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+						"type": "array",
+						"items": {
+							"type": "string"
+						}
+					},
+					"intelliSenseMode": {
+						"markdownDescription": "MSVC, gcc veya Clang'in platform ve mimari varyantına eşlemek için kullanılacak IntelliSense modu. Ayarlanmazsa veya `${default}` olarak belirlenirse uzantı, ilgili platform için varsayılan ayarı seçer. Windows için varsayılan olarak `windows-msvc-x64`, Linux için varsayılan olarak `linux-gcc-x64` ve macOS için varsayılan olarak `macos-clang-x64` kullanılır. Yalnızca `<compiler>-<architecture>` varyantlarını belirten IntelliSense modları (yani `gcc-x64`), eski modlardır ve konak platformuna göre otomatik olarak `<platform>-<compiler>-<architecture>` varyantlarına dönüştürülür.",
+						"descriptionHint": "Uses of words 'platform', 'compiler', and 'architecture' are meant to be descriptive placeholders for literal values, so they should be translated, but without changing the surrounding `<>-<>` symbols. All other text inside `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+						"type": "string",
+						"enum": [
+							"macos-clang-x86",
+							"macos-clang-x64",
+							"macos-clang-arm",
+							"macos-clang-arm64",
+							"macos-gcc-x86",
+							"macos-gcc-x64",
+							"macos-gcc-arm",
+							"macos-gcc-arm64",
+							"linux-clang-x86",
+							"linux-clang-x64",
+							"linux-clang-arm",
+							"linux-clang-arm64",
+							"linux-gcc-x86",
+							"linux-gcc-x64",
+							"linux-gcc-arm",
+							"linux-gcc-arm64",
+							"windows-clang-x86",
+							"windows-clang-x64",
+							"windows-clang-arm",
+							"windows-clang-arm64",
+							"windows-gcc-x86",
+							"windows-gcc-x64",
+							"windows-gcc-arm",
+							"windows-gcc-arm64",
+							"windows-msvc-x86",
+							"windows-msvc-x64",
+							"windows-msvc-arm",
+							"windows-msvc-arm64",
+							"clang-x86",
+							"clang-x64",
+							"clang-arm",
+							"clang-arm64",
+							"gcc-x86",
+							"gcc-x64",
+							"gcc-arm",
+							"gcc-arm64",
+							"msvc-x86",
+							"msvc-x64",
+							"msvc-arm",
+							"msvc-arm64",
+							"${default}"
+						]
+					},
+					"forcedInclude": {
+						"description": "Çeviri birimindeki herhangi bir içerme dosyasından önce dahil edilmesi gereken dosyaların listesi.",
+						"type": "array",
+						"items": {
+							"type": "string"
+						}
+					},
+					"configurationProvider": {
+						"description": "Kaynak dosyalar için IntelliSense yapılandırma bilgilerini sağlayabilecek VS Code uzantısının kimliği.",
+						"type": "string"
+					},
+					"mergeConfigurations": {
+						"markdownDescription": "Ekleme yollarını, tanımları ve zorlamalı ekleme kodlarını yapılandırma sağlayıcısından alınan yapılandırmalarla birleştirmek için `true` olarak ayarlayın.",
+						"descriptionHint": "Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+						"type": "boolean"
+					},
+					"browse": {
+						"type": "object",
+						"properties": {
+							"limitSymbolsToIncludedHeaders": {
+								"markdownDescription": "Yalnızca doğrudan veya dolaylı olarak üst bilgi olarak dahil edilen dosyaları işlemek için `true` olarak ayarlayın, belirtilen ekleme yolları altındaki tüm dosyaları işlemek için `false` olarak ayarlayın.",
+								"descriptionHint": "Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+								"type": [
+									"boolean",
+									"string"
+								]
+							},
+							"databaseFilename": {
+								"description": "Oluşturulan sembol veritabanının yolu. Göreli bir yol belirtilirse, çalışma alanının varsayılan depolama konumuna göreli hale getirilir.",
+								"type": "string"
+							},
+							"path": {
+								"markdownDescription": "Çalışma alanı sembollerinin (‘Tanıma Git’, ‘Tüm Başvuruları Bul’ gibi özellikler için kullanılabilir) dizininin oluşturulması ve ayrıştırılması için kullanılacak yolların listesi. Bu yollarda arama varsayılan olarak özyinelemelidir. Özyinelemeli olmayan aramayı göstermek için `*` belirtin. Örneğin, `${workspaceFolder}` tüm alt dizinlerde arama yaparken `${workspaceFolder}/*` arama yapmaz.",
+								"descriptionHint": "Text in '' is a command and should be translated in the same way that VS Code itself translates it. Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+								"type": "array",
+								"items": {
+									"type": "string"
+								}
+							}
+						},
+						"additionalProperties": false
+					},
+					"customConfigurationVariables": {
+						"type": "object",
+						"markdownDescription": "`launch.json` veya `tasks.json` içindeki giriş bağımsız değişkenleri için kullanılacak, `${cpptools:activeConfigCustomVariable}` komutu aracılığıyla sorgulanabilen özel değişkenler.",
+						"descriptionHint": "Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+						"patternProperties": {
+							"(^.+$)": {
+								"type": "string"
+							}
+						},
+						"additionalProperties": false
+					}
+				},
+				"additionalProperties": false
+			}
+		},
+		"env": {
+			"type": "object",
+			"markdownDescription": "`${değişken}` veya `${env:değişken}` söz dizimi kullanılarak bu dosyada herhangi bir yerde yeniden kullanılabilen özel değişkenler.",
+			"descriptionHint": "The word 'variable' within curly braces should be translated. The \"env\" should not be translated, and the capitalization, spacing, and punctuation (\"${:}\", including the ``) should be preserved.",
+			"patternProperties": {
+				"(?!^workspaceFolder$)(?!^workspaceRoot$)(?!^workspaceFolderBasename$)(?!^execPath$)(?!^pathSeparator$)(?!^default$)(^.+$)": {
+					"oneOf": [
+						{
+							"type": "string"
+						},
+						{
+							"type": "array",
+							"items": {
+								"type": "string"
+							}
+						}
+					]
+				}
+			},
+			"additionalProperties": false
+		},
+		"version": {
+			"type": "integer",
+			"description": "Yapılandırma dosyasının sürümü. Bu özellik uzantı tarafından yönetilir. Lütfen değiştirmeyin."
+		},
+		"enableConfigurationSquiggles": {
+			"type": "boolean",
+			"default": true,
+			"markdownDescription": "Uzantının `c_cpp_properties.json` dosyasında algılanan hataları bildirip bildirmeyeceğini denetler.",
+			"descriptionHint": "Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered."
+		}
+	},
+	"properties": {
+		"configurations": {
+			"$ref": "#/definitions/configurations"
+		},
+		"env": {
+			"$ref": "#/definitions/env"
+		},
+		"version": {
+			"$ref": "#/definitions/version"
+		},
+		"enableConfigurationSquiggles": {
+			"$ref": "#/definitions/enableConfigurationSquiggles"
+		}
+	},
+	"required": [
+		"configurations",
+		"version"
+	],
+	"additionalProperties": false
+}

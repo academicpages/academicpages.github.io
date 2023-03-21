@@ -1,0 +1,261 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"type": "object",
+	"definitions": {
+		"configurations": {
+			"type": "array",
+			"items": {
+				"type": "object",
+				"required": [
+					"name"
+				],
+				"properties": {
+					"name": {
+						"markdownDescription": "配置标识符。 `Mac`、`Linux` 和 `Win32` 是将在这些平台上自动选择的配置的特殊标识符，但标识符可以为任何内容。",
+						"descriptionHint": "Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+						"type": "string"
+					},
+					"compilerPath": {
+						"markdownDescription": "正在使用的编译器的完整路径(例如 `/usr/bin/gcc`)，以启用更准确的 IntelliSense。",
+						"descriptionHint": "Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+						"type": "string"
+					},
+					"compilerArgs": {
+						"markdownDescription": "用于修改使用的包含或定义的编译器参数，例如 `-nostdinc++`、`-m32` 等。",
+						"descriptionHint": "Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+						"type": "array",
+						"items": {
+							"type": "string"
+						}
+					},
+					"cStandard": {
+						"description": "用于 IntelliSense 的 C 语言标准的版本。注意: GNU 标准仅用于查询设置编译器以获取 GNU 定义，并且 IntelliSense 将模拟等效的 C 标准版本。",
+						"type": "string",
+						"enum": [
+							"c89",
+							"c99",
+							"c11",
+							"c17",
+							"gnu89",
+							"gnu99",
+							"gnu11",
+							"gnu17",
+							"${default}"
+						]
+					},
+					"cppStandard": {
+						"description": "用于 IntelliSense 的 C++ 语言标准的版本。注意: GNU 标准仅用于查询设置用来获取 GNU 定义的编译器，并且 IntelliSense 将模拟等效的 C++ 标准版本。",
+						"type": "string",
+						"enum": [
+							"c++98",
+							"c++03",
+							"c++11",
+							"c++14",
+							"c++17",
+							"c++20",
+							"c++23",
+							"gnu++98",
+							"gnu++03",
+							"gnu++11",
+							"gnu++14",
+							"gnu++17",
+							"gnu++20",
+							"gnu++23",
+							"${default}"
+						]
+					},
+					"compileCommands": {
+						"markdownDescription": "工作区的 `compile_commands.json` 文件的完整路径。",
+						"descriptionHint": "Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+						"type": "string"
+					},
+					"includePath": {
+						"markdownDescription": "搜索包含的标头时，IntelliSense 引擎要使用的路径列表。在这些路径上进行搜索为非递归搜索。指定 `**` 以指示递归搜索。例如，`${workspaceFolder}/**` 将搜索所有子目录，而 `${workspaceFolder}` 则不会。通常，此操作不应包含系统包含项；请改为设置 `C_Cpp.default.compilerPath`。",
+						"descriptionHint": "Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+						"type": "array",
+						"items": {
+							"type": "string"
+						}
+					},
+					"macFrameworkPath": {
+						"description": "Intellisense 引擎在 Mac 框架中搜索包含的标头时要使用的路径的列表。仅在 Mac 配置中受支持。",
+						"type": "array",
+						"items": {
+							"type": "string"
+						}
+					},
+					"windowsSdkVersion": {
+						"markdownDescription": "要在 Windows 上使用的 Windows SDK 包含路径的版本，例如 `10.0.17134.0`。",
+						"descriptionHint": "Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+						"type": "string",
+						"pattern": "^\\d{2}\\.\\d{1}\\.\\d{5}\\.\\d{1}$|^8\\.1$"
+					},
+					"dotConfig": {
+						"description": "Kconfig 系统创建的 .config 文件的路径。Kconfig 系统生成包含所有定义的文件以生成项目。使用 Kconfig 系统的项目示例包括 Linux 内核和 NuttX RTOS。",
+						"type": "string"
+					},
+					"defines": {
+						"markdownDescription": "分析文件时要使用的 IntelliSense 引擎的预处理器定义列表。(可选)使用 `=` 设置值，例如 `VERSION=1`。",
+						"descriptionHint": "Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+						"type": "array",
+						"items": {
+							"type": "string"
+						}
+					},
+					"intelliSenseMode": {
+						"markdownDescription": "要使用的、映射到 MSVC、gcc 或 Clang 的平台和体系结构变体的 IntelliSense 模式。如果未设置或设置为`${default}`，则扩展将为该平台选择默认值。Windows 默认为 `windows-msvc-x64`，Linux 默认为`linux-gcc-x64`，macOS 默认为 `macos-clang-x64`。仅指定 `<编译器>-<体系结构>` 变体(例如 `gcc-x64`)的 IntelliSense 模式为旧模式，且会根据主机平台上的 `<平台>-<编译器>-<体系结构>` 变体进行自动转换。",
+						"descriptionHint": "Uses of words 'platform', 'compiler', and 'architecture' are meant to be descriptive placeholders for literal values, so they should be translated, but without changing the surrounding `<>-<>` symbols. All other text inside `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+						"type": "string",
+						"enum": [
+							"macos-clang-x86",
+							"macos-clang-x64",
+							"macos-clang-arm",
+							"macos-clang-arm64",
+							"macos-gcc-x86",
+							"macos-gcc-x64",
+							"macos-gcc-arm",
+							"macos-gcc-arm64",
+							"linux-clang-x86",
+							"linux-clang-x64",
+							"linux-clang-arm",
+							"linux-clang-arm64",
+							"linux-gcc-x86",
+							"linux-gcc-x64",
+							"linux-gcc-arm",
+							"linux-gcc-arm64",
+							"windows-clang-x86",
+							"windows-clang-x64",
+							"windows-clang-arm",
+							"windows-clang-arm64",
+							"windows-gcc-x86",
+							"windows-gcc-x64",
+							"windows-gcc-arm",
+							"windows-gcc-arm64",
+							"windows-msvc-x86",
+							"windows-msvc-x64",
+							"windows-msvc-arm",
+							"windows-msvc-arm64",
+							"clang-x86",
+							"clang-x64",
+							"clang-arm",
+							"clang-arm64",
+							"gcc-x86",
+							"gcc-x64",
+							"gcc-arm",
+							"gcc-arm64",
+							"msvc-x86",
+							"msvc-x64",
+							"msvc-arm",
+							"msvc-arm64",
+							"${default}"
+						]
+					},
+					"forcedInclude": {
+						"description": "应在翻译单元中包括在任何包含文件之前的文件的列表。",
+						"type": "array",
+						"items": {
+							"type": "string"
+						}
+					},
+					"configurationProvider": {
+						"description": "可为源文件提供 IntelliSense 配置信息的 VS Code 扩展的 ID。",
+						"type": "string"
+					},
+					"mergeConfigurations": {
+						"markdownDescription": "设置为 `true` 以将包含路径、定义和强制包含与来自配置提供程序的包含路径、定义和强制包含合并。",
+						"descriptionHint": "Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+						"type": "boolean"
+					},
+					"browse": {
+						"type": "object",
+						"properties": {
+							"limitSymbolsToIncludedHeaders": {
+								"markdownDescription": "设为 `true` 以仅处理直接或间接包含为标头的文件，设为 `false` 则处理指定包含路径下的所有文件。",
+								"descriptionHint": "Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+								"type": [
+									"boolean",
+									"string"
+								]
+							},
+							"databaseFilename": {
+								"description": "所生成的符号数据库的路径。如果指定了相对路径，则它将相对于工作区的默认存储位置。",
+								"type": "string"
+							},
+							"path": {
+								"markdownDescription": "用于索引和分析工作区符号的路径列表(供“转到定义”、“查找所有引用”等使用)。默认情况下，在这些路径上进行搜索为递归搜索。指定 `*` 以指示非递归搜索。例如，`${workspaceFolder}` 将搜索所有子目录，而 `${workspaceFolder}/*` 将不进行搜索。",
+								"descriptionHint": "Text in '' is a command and should be translated in the same way that VS Code itself translates it. Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+								"type": "array",
+								"items": {
+									"type": "string"
+								}
+							}
+						},
+						"additionalProperties": false
+					},
+					"customConfigurationVariables": {
+						"type": "object",
+						"markdownDescription": "可通过命令`${cpptools:activeConfigCustomVariable}` 查询的自定义变量，用于 `launch.json` 或 `tasks.json`. 中的输入变量。",
+						"descriptionHint": "Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered.",
+						"patternProperties": {
+							"(^.+$)": {
+								"type": "string"
+							}
+						},
+						"additionalProperties": false
+					}
+				},
+				"additionalProperties": false
+			}
+		},
+		"env": {
+			"type": "object",
+			"markdownDescription": "可以使用 `${变量}` 或 `${env:变量}` 语法在此文件中的任何位置重复使用的自定义变量。",
+			"descriptionHint": "The word 'variable' within curly braces should be translated. The \"env\" should not be translated, and the capitalization, spacing, and punctuation (\"${:}\", including the ``) should be preserved.",
+			"patternProperties": {
+				"(?!^workspaceFolder$)(?!^workspaceRoot$)(?!^workspaceFolderBasename$)(?!^execPath$)(?!^pathSeparator$)(?!^default$)(^.+$)": {
+					"oneOf": [
+						{
+							"type": "string"
+						},
+						{
+							"type": "array",
+							"items": {
+								"type": "string"
+							}
+						}
+					]
+				}
+			},
+			"additionalProperties": false
+		},
+		"version": {
+			"type": "integer",
+			"description": "配置文件的版本。此属性由扩展托管。请勿更改它。"
+		},
+		"enableConfigurationSquiggles": {
+			"type": "boolean",
+			"default": true,
+			"markdownDescription": "控制扩展是否将报告在 `c_cpp_properties.json` 中检测到的错误。",
+			"descriptionHint": "Markdown text between `` should not be translated or localized (they represent literal text) and the capitalization, spacing, and punctuation (including the ``) should not be altered."
+		}
+	},
+	"properties": {
+		"configurations": {
+			"$ref": "#/definitions/configurations"
+		},
+		"env": {
+			"$ref": "#/definitions/env"
+		},
+		"version": {
+			"$ref": "#/definitions/version"
+		},
+		"enableConfigurationSquiggles": {
+			"$ref": "#/definitions/enableConfigurationSquiggles"
+		}
+	},
+	"required": [
+		"configurations",
+		"version"
+	],
+	"additionalProperties": false
+}

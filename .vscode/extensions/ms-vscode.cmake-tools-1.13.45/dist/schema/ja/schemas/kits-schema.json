@@ -1,0 +1,102 @@
+{
+	"type": "array",
+	"description": "CMake キット",
+	"items": {
+		"type": "object",
+		"description": "キット",
+		"additionalProperties": false,
+		"properties": {
+			"name": {
+				"type": "string",
+				"description": "このキットの名前"
+			},
+			"description": {
+				"type": "string",
+				"description": "The description of this kit"
+			},
+			"vendor": {
+				"type": "string",
+				"description": "このキットのベンダー名"
+			},
+			"triple": {
+				"type": "string",
+				"description": "このキットのターゲット トリプル"
+			},
+			"version": {
+				"type": "string",
+				"description": "このキットのバージョン"
+			},
+			"versionRuntime": {
+				"type": "string",
+				"description": "このキットの C ランタイムのバージョン"
+			},
+			"keep": {
+				"type": "boolean",
+				"description": "`true` の場合、このキットが古いように見えても保持されます。"
+			},
+			"compilers": {
+				"type": "object",
+				"patternProperties": {
+					"\\w+": {
+						"type": "string",
+						"description": "この言語のコンパイラへのパス"
+					}
+				}
+			},
+			"toolchainFile": {
+				"type": "string",
+				"description": "ツールチェーン ファイルへのパス"
+			},
+			"visualStudio": {
+				"type": "string",
+				"description": "Visual Studio 製品のインスタンス ID"
+			},
+			"visualStudioArchitecture": {
+				"type": "string",
+				"description": "ターゲットにするアーキテクチャ"
+			},
+			"environmentSetupScript": {
+				"type": "string",
+				"description": "キットの環境を変更するスクリプトへの絶対パス"
+			},
+			"environmentVariables": {
+				"type": "object",
+				"patternProperties": {
+					".*": {
+						"type": "string",
+						"description": "環境変数の値"
+					}
+				}
+			},
+			"cmakeSettings": {
+				"type": "object",
+				"patternProperties": {
+					".*": {
+						"description": "CMake 設定の値"
+					}
+				}
+			},
+			"preferredGenerator": {
+				"type": "object",
+				"description": "このキットの優先 CMake ジェネレーターを設定します",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "使用するジェネレーターの名前"
+					},
+					"platform": {
+						"type": "string",
+						"description": "-A 引数に指定する CMake プラットフォーム"
+					},
+					"toolset": {
+						"type": "string",
+						"description": "-T 引数に指定する CMake ツールセット"
+					}
+				},
+				"required": [
+					"name"
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,4 @@
+version = "10.0.*"
+
+[tool.stubtest]
+stubtest_requirements = ["docutils", "mock"]

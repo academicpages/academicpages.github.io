@@ -1,0 +1,17 @@
+{
+	"messages": [
+		"Operating system \"{0}\" not supported.",
+		"\"{0}\" timed out after {1} seconds.",
+		"\"{0}\" canceled.",
+		"\"{0}\" exited with code: \"{1}\".",
+		"Failed to spawn \"{0}\"."
+	],
+	"keys": [
+		"os.not.supported",
+		"timeout.processList.spawn",
+		"cancel.processList.spawn",
+		"error.processList.spawn",
+		"failed.processList.spawn"
+	],
+	"filePath": "src\\Debugger\\nativeAttach"
+}

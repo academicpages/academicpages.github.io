@@ -1,0 +1,1372 @@
+{
+	"type": "object",
+	"description": "Los valores preestablecidos especifican el generador junto con el directorio de compilación y, opcionalmente, una lista de variables y de otros argumentos que se van a pasar a CMake.",
+	"required": [
+		"version"
+	],
+	"properties": {
+		"version": {
+			"type": "integer",
+			"description": "Entero requerido que representa la versión del esquema JSON."
+		},
+		"cmakeMinimumRequired": {
+			"type": "object",
+			"description": "Objeto opcional que representa la versión mínima de CMake necesaria para compilar este proyecto.",
+			"properties": {
+				"major": {
+					"type": "integer",
+					"description": "Entero opcional que representa la versión principal."
+				},
+				"minor": {
+					"type": "integer",
+					"description": "Entero opcional que representa la versión secundaria."
+				},
+				"patch": {
+					"type": "integer",
+					"description": "Entero opcional que representa la versión de revisión."
+				}
+			},
+			"additionalProperties": false
+		},
+		"configurePresets": {
+			"type": "array",
+			"description": "Matriz opcional de objetos de configuración preestablecida.",
+			"items": {
+				"type": "object",
+				"description": "Objeto de configuración preestablecida.",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Cadena necesaria que representa el nombre descriptivo para la máquina del valor preestablecido. Este identificador se usa en el argumento --preset. No debe haber dos valores preestablecidos en la unión de CMakePresets.json y CMakeUserPresets.json en el mismo directorio con el mismo nombre.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Valor booleano opcional que especifica si un valor preestablecido debe ocultarse o no. Si un valor preestablecido se oculta, no se puede usar en el argumento --preset=, no se mostrará en la GUI de CMake y no es necesario que tenga un generador o un objeto binaryDir válido, incluso de la herencia. Los valores preestablecidos ocultos están pensados para usarlos como base de otros valores preestablecidos que se heredan a través del campo inherits."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Cadena opcional que representa el nombre del valor preestablecido del que se va a heredar.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Matriz de cadenas opcional que representa los nombres de los valores preestablecidos de los que se va a heredar. El valor preestablecido heredará todos los campos de los valores preestablecidos de inherits de forma predeterminada (excepto name, hidden, inherits, description y displayName), pero puede reemplazarlos como quiera. Si diversos valores preestablecidos de inherits proporcionan valores en conflicto para el mismo campo, se preferirá el valor preestablecido anterior de la lista de elementos heredados. Los valores preestablecidos de CMakePresets.json no deben heredar de los valores preestablecidos de CMakeUserPresets.json.",
+								"items": {
+									"type": "string",
+									"description": "Cadena opcional que representa el nombre del valor preestablecido del que se va a heredar.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Asignación opcional que contiene información específica del proveedor. CMake no interpreta el contenido de este campo, excepto para comprobar que es una asignación, si existe. Sin embargo, debe seguir las mismas convenciones que el campo de proveedor de nivel de raíz. Si los proveedores usan su propio campo de proveedor por valor preestablecido, deben implementar la herencia de manera razonable, si procede.",
+						"properties": {
+							"microsoft.com/VisualStudioSettings/CMake/1.0": {
+								"type": "object",
+								"description": "Objeto opcional que representa el objeto de proveedor de configuración de Visual Studio.",
+								"properties": {
+									"hostOS": {
+										"anyOf": [
+											{
+												"type": "string",
+												"description": "Cadena opcional que representa el nombre de hostOS. Los valores aceptados son Windows, Linux y macOS.",
+												"enum": [
+													"Windows",
+													"Linux",
+													"macOS"
+												]
+											},
+											{
+												"type": "array",
+												"description": "Matriz de sistemas operativos host compatibles. Visual Studio y Visual Studio Code usan esta clave para ocultar los valores preestablecidos que no se aplican al sistema de destino activo ni al sistema operativo host. Los valores aceptados son Windows, Linux y macOS.",
+												"items": {
+													"type": "string",
+													"description": "Cadena opcional que representa el nombre de hostOS. Los valores aceptados son Windows, Linux y macOS.",
+													"enum": [
+														"Windows",
+														"Linux",
+														"macOS"
+													]
+												}
+											}
+										]
+									},
+									"intelliSenseMode": {
+										"type": "string",
+										"description": "Clave opcional que indica el modo de IntelliSense preferido. Es el modo que se usa para calcular la información de IntelliSense en Visual Studio y Visual Studio Code.",
+										"enum": [
+											"windows-msvc-x86",
+											"windows-msvc-x64",
+											"windows-msvc-arm",
+											"windows-msvc-arm64",
+											"android-clang-x86",
+											"android-clang-x64",
+											"android-clang-arm",
+											"android-clang-arm64",
+											"ios-clang-x86",
+											"ios-clang-x64",
+											"ios-clang-arm",
+											"ios-clang-arm64",
+											"windows-clang-x86",
+											"windows-clang-x64",
+											"windows-clang-arm",
+											"windows-clang-arm64",
+											"linux-gcc-x86",
+											"linux-gcc-x64",
+											"linux-gcc-arm"
+										]
+									},
+									"intelliSenseOptions": {
+										"type": "object",
+										"description": "Objeto opcional que se usa para establecer la configuración avanzada de IntelliSense.",
+										"properties": {
+											"useCompilerDefaults": {
+												"type": "boolean",
+												"default": true,
+												"description": "Especifica si se deben usar las rutas de acceso de inclusión y las definiciones predeterminadas del compilador para IntelliSense. Solo debe ser false si los compiladores que se usan no admiten argumentos de estilo gcc."
+											},
+											"additionalCompilerArgs": {
+												"anyOf": [
+													{
+														"type": "string",
+														"default": "empty"
+													},
+													{
+														"type": "array",
+														"description": "Matriz de opciones adicionales para controlar IntelliSense en Visual Studio.",
+														"items": {
+															"type": "string"
+														}
+													}
+												]
+											}
+										}
+									},
+									"enableMicrosoftCodeAnalysis": {
+										"type": "boolean",
+										"description": "Habilite el análisis de código de Microsoft en Visual Studio al compilar con cl o clang-cl."
+									},
+									"codeAnalysisRuleset": {
+										"type": "string",
+										"description": "Conjunto de reglas que se usa al ejecutar el análisis de código de Microsoft en Visual Studio. Puede ser una ruta de acceso a un archivo de conjunto de reglas o el nombre de un archivo de conjunto de reglas que se ha instalado con Visual Studio."
+									},
+									"enableClangTidyCodeAnalysis": {
+										"type": "boolean",
+										"description": "Habilite el análisis de código de clang-tidy en Visual Studio al compilar con clang-cl."
+									},
+									"clangTidyChecks": {
+										"type": "string",
+										"description": "Lista separada por comas de las advertencias que se pasan a clang-tidy al ejecutar el análisis de código clang-tidy en Visual Studio. Se permiten caracteres comodín y el prefijo \"-\" eliminará las comprobaciones."
+									},
+									"cacheRoot": {
+										"type": "string",
+										"description": "Ruta de acceso a una memoria caché de CMake. El directorio debe contener un archivo CMakeCache.txt existente. Esta clave solo es compatible con el escenario de \"Abrir caché existente\" en Visual Studio."
+									},
+									"cmakeGenerateCommand": {
+										"type": "string",
+										"description": "Herramienta de la línea de comandos (que se especifica como programa de la línea de comandos y argumentos, por ejemplo, \"gencache.bat debug\") para generar la memoria caché de CMake. El comando se ejecutará desde el shell en el entorno especificado del valor preestablecido cuando se invoque la generación de la memoria caché. Esta clave solo es compatible con el escenario de \"Abrir caché existente\" en Visual Studio."
+									}
+								}
+							},
+							"microsoft.com/VisualStudioRemoteSettings/CMake/1.0": {
+								"type": "object",
+								"description": "Objeto opcional que representa el objeto de proveedor de configuración remota de Visual Studio.",
+								"properties": {
+									"sourceDir": {
+										"type": "string",
+										"default": "$env{HOME}/.vs/${sourceDirName}",
+										"description": "Ruta de acceso al directorio en el sistema remoto o la instalación de WSL2 donde se copiará el proyecto."
+									},
+									"copySources": {
+										"type": "boolean",
+										"default": "true",
+										"description": "Si es true, Visual Studio copia los orígenes de Windows en el sistema remoto. Si se establece en false, el usuario administra por su cuenta la sincronización de archivos."
+									},
+									"copySourcesOptions": {
+										"type": "object",
+										"description": "Objeto de los valores relacionados con la copia de origen de Windows en el sistema remoto.",
+										"properties": {
+											"exclusionList": {
+												"type": "array",
+												"default": "[ \".vs\", \".git\", \"out\"]",
+												"description": "Lista de las rutas de acceso que se van a excluir al copiar los archivos de origen en el sistema remoto. Una ruta de acceso puede ser el nombre de un archivo o directorio, o bien una ruta de acceso relativa a la raíz de la copia.",
+												"items": {
+													"type": "string"
+												}
+											},
+											"method": {
+												"type": "string",
+												"default": "rsync",
+												"description": "Método que se usa para copiar los archivos de origen en el sistema remoto. Los valores aceptados son rsync y sftp."
+											},
+											"concurrentCopies": {
+												"type": "integer",
+												"default": 5,
+												"description": "El número de copias simultáneas que se usan durante la sincronización de los orígenes con el sistema remoto."
+											},
+											"outputVerbosity": {
+												"type": "string",
+												"default": "Normal",
+												"description": "Nivel de detalle de las operaciones de copia de origen en el sistema remoto. Los niveles aceptados son Normal, Detallado y Diagnóstico.",
+												"enum": [
+													"Normal",
+													"Verbose",
+													"Diagnostic"
+												]
+											}
+										}
+									},
+									"rsyncCommandArgs": {
+										"type": "array",
+										"default": "[\"-t\", \"--delete\", \"--delete-excluded\"]",
+										"description": "Lista de argumentos adicionales de la línea de comandos que se pasan a rsync.",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyBuildOutput": {
+										"type": "boolean",
+										"default": false,
+										"description": "Especifica si debe volver a copiarse la salida de compilación del sistema remoto en Windows."
+									},
+									"copyOptimizations": {
+										"type": "object",
+										"description": "Objeto de los valores relacionados con las optimizaciones de la copia de origen.",
+										"properties": {
+											"maxSmallChange": {
+												"type": "integer",
+												"default": 10,
+												"description": "Número máximo de archivos que se van a copiar mediante SFTP en lugar de rsync."
+											},
+											"useOptimizations": {
+												"type": "string",
+												"default": "RsyncAndSftp",
+												"description": "Seleccione que no haya optimizaciones de copia (\"Ninguna\"), solo las optimizaciones de rsync (\"RsyncOnly\") o las optimizaciones de rsync y sftp (\"RsyncAndSftp\").",
+												"enum": [
+													"None",
+													"RsyncOnly",
+													"RsyncAndSftp"
+												]
+											},
+											"rsyncSingleDirectoryCommandArgs": {
+												"type": "array",
+												"default": "[\"-t\", \"-d\"]",
+												"description": "Lista de argumentos adicionales de la línea de comandos que se pasan a rsync al copiar el contenido de un único directorio en el sistema remoto.",
+												"items": {
+													"type": "string"
+												}
+											}
+										}
+									},
+									"copyAdditionalIncludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "Matriz de rutas de acceso a los directorios de encabezado remotos que se van a copiar localmente para IntelliSense.",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyExcludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "Lista de rutas de acceso a los directorios de encabezado remotos que no se van a copiar localmente para IntelliSense.",
+										"items": {
+											"type": "string"
+										}
+									},
+									"forceWSL1Toolset": {
+										"type": "boolean",
+										"default": false,
+										"description": "Si es true, Visual Studio siempre usará el conjunto de herramientas de WSL1 al destinarse a WSL desde Visual Studio. El conjunto de herramientas de WSL1 ejecuta todos los comandos de forma local y se basa en las unidades de Windows montadas en la carpeta /mnt para acceder a los archivos de origen locales desde WSL. Estas operaciones pueden ser más lentas con WSL2."
+									}
+								}
+							}
+						}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Cadena opcional con un nombre descriptivo del valor preestablecido."
+					},
+					"description": {
+						"type": "string",
+						"description": "Cadena opcional con una descripción sencilla del valor preestablecido."
+					},
+					"generator": {
+						"type": "string",
+						"description": "Cadena opcional que representa el generador que se va a usar para el valor preestablecido. Si no se especifica el generador, se utiliza el procedimiento de detección normal del generador. Tenga en cuenta que, para los generadores de Visual Studio, a diferencia del argumento -G de la línea de comandos, no puede incluir el nombre de la plataforma en el nombre del generador. En su lugar, use el campo de arquitectura."
+					},
+					"architecture": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Cadena opcional que representa la plataforma para los generadores compatibles."
+							},
+							{
+								"type": "object",
+								"description": "Objeto opcional que representa la plataforma para los generadores compatibles.",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "Cadena opcional que representa el valor."
+									},
+									"strategy": {
+										"type": "string",
+										"description": "Cadena opcional que indica a CMake cómo controlar el campo. Los valores válidos son: \"set\": establecer el valor respectivo. Esto producirá un error en los generadores que no admitan el campo correspondiente. \"external\": no establecer el valor, aunque lo admita el generador. Esto es útil si, por ejemplo, un valor preestablecido usa el generador Ninja y un IDE sabe cómo configurar el entorno de Visual C++ a partir de los campos de conjunto de herramientas y arquitectura. En ese caso, CMake ignorará el campo, pero el IDE puede usarlos para configurar el entorno antes de invocar a CMake.",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"toolset": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Cadena opcional que representa el conjunto de herramientas para los generadores compatibles."
+							},
+							{
+								"type": "object",
+								"description": "Objeto opcional que representa el conjunto de herramientas para los generadores compatibles.",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "Cadena opcional que representa el valor."
+									},
+									"strategy": {
+										"type": "string",
+										"description": "Cadena opcional que indica a CMake cómo controlar el campo. Los valores válidos son: \"set\": establecer el valor respectivo. Esto producirá un error en los generadores que no admitan el campo correspondiente. \"external\": no establecer el valor, aunque lo admita el generador. Esto es útil si, por ejemplo, un valor preestablecido usa el generador Ninja y un IDE sabe cómo configurar el entorno de Visual C++ a partir de los campos de conjunto de herramientas y arquitectura. En ese caso, CMake ignorará el campo, pero el IDE puede usarlos para configurar el entorno antes de invocar a CMake.",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"binaryDir": {
+						"type": "string",
+						"description": "Cadena opcional que representa la ruta de acceso al directorio binario de salida. Este campo admite la expansión de macros. Si se especifica una ruta de acceso relativa, se calcula en relación con el directorio de origen. Si no se especifica binaryDir, la ruta de acceso se calcula mediante métodos normales."
+					},
+					"cmakeExecutable": {
+						"type": "string",
+						"description": "Cadena opcional que representa la ruta de acceso al ejecutable de CMake que se va a usar para este valor preestablecido. Se reserva para el uso de los IDE, CMake no la utiliza. Los IDE que usan este campo deben expandir todas las macros que contenga."
+					},
+					"cacheVariables": {
+						"type": "object",
+						"description": "Asignación opcional de las variables de caché. La clave es el nombre de la variable (que no debe ser una cadena vacía). Las variables de caché se heredan a través del campo inherits y las variables del valor preestablecido serán la unión de sus propios valores cacheVariable y los valores cacheVariable de todos sus elementos primarios. Si hay distintos valores preestablecidos en esta unión que definan la misma variable, se aplican las reglas estándar de las herencias.",
+						"properties": {
+							"CMAKE_C_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Compilador que se va a usar para C."
+									},
+									{
+										"type": "null",
+										"description": "Establecer una variable en NULL hace que no se defina, aunque se haya heredado un valor de otro preestablecido."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_CXX_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Compilador que se va a usar para C++."
+									},
+									{
+										"type": "null",
+										"description": "Establecer una variable en NULL hace que no se defina, aunque se haya heredado un valor de otro preestablecido."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_INSTALL_PREFIX": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Directorio de instalación usado por CMake. Use la propiedad \"installDir\" en su lugar cuando use valores preestablecidos versión 3 o posterior."
+									},
+									{
+										"type": "null",
+										"description": "Establecer una variable en NULL hace que no se defina, aunque se haya heredado un valor de otro preestablecido."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_TOOLCHAIN_FILE": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "El archivo de cadena de herramientas pasado a CMake. Use la propiedad \"toolchainFile\" en su lugar cuando use valores preestablecidos versión 3 o posterior."
+									},
+									{
+										"type": "null",
+										"description": "Establecer una variable en NULL hace que no se defina, aunque se haya heredado un valor de otro preestablecido."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_BUILD_TYPE": {
+								"description": "Especifica el tipo de compilación en los generadores de configuración única.",
+								"anyOf": [
+									{
+										"type": "string",
+										"enum": [
+											"Debug",
+											"Release",
+											"RelWithDebInfo",
+											"MinSizeRel"
+										]
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									},
+									{
+										"type": "string"
+									},
+									{
+										"type": "null",
+										"description": "Establecer una variable en NULL hace que no se defina, aunque se haya heredado un valor de otro preestablecido."
+									}
+								]
+							}
+						},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Establecer una variable en NULL hace que no se defina, aunque se haya heredado un valor de otro preestablecido."
+								},
+								{
+									"type": "boolean",
+									"description": "Valor booleano que representa el valor de la variable. Equivalente a \"TRUE\" o \"FALSE\"."
+								},
+								{
+									"type": "string",
+									"description": "Cadena que representa el valor de la variable (que admite la expansión de macro)."
+								},
+								{
+									"type": "object",
+									"description": "Objeto que representa el tipo y el valor de la variable.",
+									"properties": {
+										"type": {
+											"type": "string",
+											"description": "Cadena opcional que representa el tipo de la variable. Debe ser BOOL, FILEPATH, PATH, STRING o INTERNAL."
+										},
+										"value": {
+											"anyOf": [
+												{
+													"type": "boolean",
+													"description": "Valor booleano obligatorio que representa el valor de la variable. Equivalente a \"TRUE\" o \"FALSE\"."
+												},
+												{
+													"type": "string",
+													"description": "Cadena necesaria que representa el valor de la variable. Este campo admite la expansión de macro."
+												}
+											]
+										}
+									},
+									"required": [
+										"value"
+									],
+									"additionalProperties": false
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"environment": {
+						"type": "object",
+						"description": "Asignación opcional de las variables de entorno. La clave es el nombre de la variable (que no debe ser una cadena vacía). Se establecen todas las variables, con independencia de que el entorno del proceso les haya asignado un valor o no. Este campo admite la expansión de macro y las variables de entorno de la asignación pueden hacerse referencia entre sí y enumerarse en cualquier orden, siempre que estas referencias no generen un ciclo (por ejemplo, si ENV_1 es $env{ENV_2}, ENV_2 no puede ser $env{ENV_1}). Las variables de entorno se heredan a través del campo inherits y el entorno del valor preestablecido será la unión de su propio entorno y del entorno de todos sus elementos primarios. Si varios valores preestablecidos de la unión definen la misma variable, se aplican las reglas estándar de las herencias. Establecer una variable en NULL hace que no se defina, aunque se haya heredado un valor de otro preestablecido.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Establecer una variable en NULL hace que no se defina, aunque se haya heredado un valor de otro preestablecido."
+								},
+								{
+									"type": "string",
+									"description": "Cadena que representa el valor de la variable."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"warnings": {
+						"type": "object",
+						"description": "Objeto opcional que especifica advertencias.",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "Valor booleano opcional. Equivale a pasar -Wdev o -Wno-dev en la línea de comandos. No se puede establecer en false si errors.dev se ha establecido en true."
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "Valor booleano opcional. Equivale a pasar -Wdeprecated o -Wno-deprecated en la línea de comandos. No se puede establecer en false si errors.deprecated se ha establecido en true."
+							},
+							"uninitialized": {
+								"type": "boolean",
+								"description": "Valor booleano opcional. Establecerlo en true equivale a pasar --warn-uninitialized en la línea de comandos."
+							},
+							"unusedCli": {
+								"type": "boolean",
+								"description": "Valor booleano opcional. Establecerlo en false equivale a pasar --no-warn-unused-cli en la línea de comandos."
+							},
+							"systemVars": {
+								"type": "boolean",
+								"description": "Valor booleano opcional. Establecerlo en true equivale a pasar --check-system-vars en la línea de comandos."
+							}
+						},
+						"additionalProperties": false
+					},
+					"errors": {
+						"type": "object",
+						"description": "Objeto opcional que especifica errores.",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "Valor booleano opcional. Equivale a pasar -Werror=dev o -Wno-error=dev en la línea de comandos. No se puede establecer en true si warnings.dev se ha establecido en false."
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "Valor booleano opcional. Equivale a pasar -Werror=deprecated o -Wno-error=deprecated en la línea de comandos. No se puede establecer en true si warnings.deprecated se ha establecido en false."
+							}
+						},
+						"additionalProperties": false
+					},
+					"debug": {
+						"type": "object",
+						"description": "Objeto opcional que especifica las opciones de depuración.",
+						"properties": {
+							"output": {
+								"type": "boolean",
+								"description": "Valor booleano opcional. Establecerlo en true equivale a pasar -debug-output en la línea de comandos."
+							},
+							"tryCompile": {
+								"type": "boolean",
+								"description": "Valor booleano opcional. Establecerlo en true equivale a pasar -debug-trycompile en la línea de comandos."
+							},
+							"find": {
+								"type": "boolean",
+								"description": "Valor booleano opcional. Establecerlo en true equivale a pasar -debug-find en la línea de comandos."
+							}
+						},
+						"additionalProperties": false
+					},
+					"installDir": {
+						"type": "string",
+						"description": "Cadena opcional que representa la ruta de acceso al directorio de instalación. Este campo admite la expansión de macros. Si se especifica una ruta de acceso relativa, se calcula en relación con el directorio de origen."
+					},
+					"toolchainFile": {
+						"type": "string",
+						"description": "Cadena opcional que representa la ruta de acceso al archivo de cadena de herramientas. Este campo admite la expansión de macros. Si se especifica una ruta de acceso relativa, se calcula en relación con el directorio de compilación y, si no se encuentra, con respecto al directorio de origen."
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"buildPresets": {
+			"type": "array",
+			"description": "Matriz opcional de objetos de valores preestablecidos de compilación. Se usa para especificar argumentos en cmake --build. Disponible en la versión 2 y posteriores.",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Cadena necesaria que representa el nombre descriptivo para la máquina del valor preestablecido. Este identificador se usa en el argumento --preset. No debe haber dos valores preestablecidos (configuración, compilación o prueba) en la unión de CMakePresets.json y CMakeUserPresets.json en el mismo directorio con el mismo nombre.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Valor booleano opcional que especifica si un valor preestablecido debe ocultarse o no. Si un valor preestablecido se oculta, no se puede usar en el argumento --preset, no se mostrará en la GUI de CMake y no es necesario que tenga un valor configurePreset válido, incluso de la herencia. Los valores preestablecidos ocultos están pensados para usarlos como base de otros valores preestablecidos que se heredan a través del campo inherits."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Cadena opcional que representa el nombre del valor preestablecido de compilación del que se va a heredar.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Matriz de cadenas opcional que representa los nombres de los valores preestablecidos de compilación de los que se va a heredar. El valor preestablecido heredará todos los campos de los valores preestablecidos de inherits de forma predeterminada (excepto name, hidden, inherits, description y displayName), pero puede reemplazarlos como quiera. Si diversos valores preestablecidos de inherits proporcionan valores en conflicto para el mismo campo, se preferirá el valor preestablecido anterior de la lista de elementos heredados. Los valores preestablecidos de CMakePresets.json no deben heredar de los valores preestablecidos de CMakeUserPresets.json.",
+								"items": {
+									"type": "string",
+									"description": "Cadena opcional que representa el nombre del valor preestablecido del que se va a heredar.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "Cadena opcional que especifica el nombre de un valor de configuración preestablecido que se asociará a este valor preestablecido de compilación. Si no se especifica configurePreset, debe heredarse del valor preestablecido inherits (a menos que esté oculto). El directorio del árbol de compilación se infiere del valor de configuración preestablecido.",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Asignación opcional que contiene información específica del proveedor. CMake no interpreta el contenido de este campo, excepto para comprobar que es una asignación, si existe. Sin embargo, debe seguir las mismas convenciones que el campo de proveedor de nivel de raíz. Si los proveedores usan su propio campo de proveedor por valor preestablecido, deben implementar la herencia de manera razonable, si procede.",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Cadena opcional con un nombre descriptivo del valor preestablecido."
+					},
+					"description": {
+						"type": "string",
+						"description": "Cadena opcional con una descripción sencilla del valor preestablecido."
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "Valor booleano opcional que tiene true como valor predeterminado. Si es true, las variables de entorno del valor preestablecido de configuración asociado se heredan después de todos los entornos preestablecidos de compilación heredados, pero antes de las variables de entorno especificadas explícitamente en este valor preestablecido de compilación."
+					},
+					"environment": {
+						"type": "object",
+						"description": "Asignación opcional de las variables de entorno. La clave es el nombre de la variable (que no debe ser una cadena vacía). Se establecen todas las variables, con independencia de que el entorno del proceso les haya asignado un valor o no. Este campo admite la expansión de macro y las variables de entorno de la asignación pueden hacerse referencia entre sí y enumerarse en cualquier orden, siempre que estas referencias no generen un ciclo (por ejemplo, si ENV_1 es $env{ENV_2}, ENV_2 no puede ser $env{ENV_1}). Las variables de entorno se heredan a través del campo inherits y el entorno del valor preestablecido será la unión de su propio entorno y del entorno de todos sus elementos primarios. Si varios valores preestablecidos de la unión definen la misma variable, se aplican las reglas estándar de las herencias. Establecer una variable en NULL hace que no se defina, aunque se haya heredado un valor de otro preestablecido.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Establecer una variable en NULL hace que no se defina, aunque se haya heredado un valor de otro preestablecido."
+								},
+								{
+									"type": "string",
+									"description": "Cadena que representa el valor de la variable."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"jobs": {
+						"type": "integer",
+						"description": "Entero opcional. Equivale a pasar --parallel o -j en la línea de comandos."
+					},
+					"targets": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Cadena opcional. Equivale a pasar --target o -t en la línea de comandos. Los proveedores pueden ignorar la propiedad targets u ocultar los valores preestablecidos de compilación que especifican los destinos de forma explícita."
+							},
+							{
+								"type": "array",
+								"description": "Matriz de cadenas opcional. Equivale a pasar --target o -t en la línea de comandos. Los proveedores pueden ignorar la propiedad targets u ocultar los valores preestablecidos de compilación que especifican los destinos de forma explícita.",
+								"items": {
+									"type": "string",
+									"description": "Cadena opcional. Equivale a pasar --target o -t en la línea de comandos. Los proveedores pueden ignorar la propiedad targets u ocultar los valores preestablecidos de compilación que especifican los destinos de forma explícita."
+								}
+							}
+						]
+					},
+					"configuration": {
+						"type": "string",
+						"description": "Cadena opcional. Equivale a pasar --config en la línea de comandos."
+					},
+					"cleanFirst": {
+						"type": "boolean",
+						"description": "Valor booleano opcional. Si es verdadero, equivale a pasar --clean-first en la línea de comandos."
+					},
+					"resolvePackageReferences": {
+						"type": "string",
+						"description": "Cadena opcional que especifica el comportamiento de resolución del paquete. Los valores válidos son \"on\" (los paquetes se resuelven antes de la compilación), \"off\" (los paquetes no se resuelven antes de la compilación) y \"only\" (los paquetes se resuelven, pero no se realizará ninguna compilación).",
+						"enum": [
+							"on",
+							"off",
+							"only"
+						]
+					},
+					"verbose": {
+						"type": "boolean",
+						"description": "Valor booleano opcional. Si es verdadero, equivale a pasar --verbose en la línea de comandos."
+					},
+					"nativeToolOptions": {
+						"type": "array",
+						"description": "Matriz de cadenas opcional. Equivale a pasar opciones después de -- en la línea de comandos.",
+						"items": {
+							"type": "string",
+							"description": "Cadena opcional que representa una opción que se va a pasar después de -- en la línea de comandos."
+						}
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"testPresets": {
+			"type": "array",
+			"description": "Matriz opcional de objetos preestablecidos de prueba. Se usa para especificar argumentos en ctest. Disponible en la versión 2 y posteriores.",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Cadena necesaria que representa el nombre descriptivo para la máquina del valor preestablecido. Este identificador se usa en el argumento --preset. No debe haber dos valores preestablecidos (configuración, compilación o prueba) en la unión de CMakePresets.json y CMakeUserPresets.json en el mismo directorio con el mismo nombre.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Valor booleano opcional que especifica si un valor preestablecido debe ocultarse o no. Si un valor preestablecido se oculta, no se puede usar en el argumento --preset, no se mostrará en la GUI de CMake y no es necesario que tenga un valor configurePreset válido, incluso de la herencia. Los valores preestablecidos ocultos están pensados para usarlos como base de otros valores preestablecidos que se heredan a través del campo inherits."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Cadena opcional que representa el nombre del valor preestablecido de prueba del que se va a heredar.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Matriz de cadenas opcional que representa los nombres de los valores preestablecidos de prueba de los que se va a heredar. El valor preestablecido heredará todos los campos de los valores preestablecidos de inherits de forma predeterminada (excepto name, hidden, inherits, description y displayName), pero puede reemplazarlos como quiera. Si diversos valores preestablecidos de inherits proporcionan valores en conflicto para el mismo campo, se preferirá el valor preestablecido anterior de la lista de elementos heredados. Los valores preestablecidos de CMakePresets.json no deben heredar de los valores preestablecidos de CMakeUserPresets.json.",
+								"items": {
+									"type": "string",
+									"description": "Cadena opcional que representa el nombre del valor preestablecido del que se va a heredar.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "Cadena opcional que especifica el nombre de un valor de configuración preestablecido que se asociará a este valor preestablecido de prueba. Si no se especifica configurePreset, debe heredarse del valor preestablecido inherits (a menos que esté oculto). El directorio del árbol de compilación se infiere del valor de configuración preestablecido.",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Asignación opcional que contiene información específica del proveedor. CMake no interpreta el contenido de este campo, excepto para comprobar que es una asignación, si existe. Sin embargo, debe seguir las mismas convenciones que el campo de proveedor de nivel de raíz. Si los proveedores usan su propio campo de proveedor por valor preestablecido, deben implementar la herencia de manera razonable, si procede.",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Cadena opcional con un nombre descriptivo del valor preestablecido."
+					},
+					"description": {
+						"type": "string",
+						"description": "Cadena opcional con una descripción sencilla del valor preestablecido."
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "Valor booleano opcional que tiene true como valor predeterminado. Si es true, las variables de entorno del valor preestablecido de configuración asociado se heredan después de todos los entornos preestablecidos de prueba heredados, pero antes de las variables de entorno especificadas explícitamente en este valor preestablecido de prueba."
+					},
+					"environment": {
+						"type": "object",
+						"description": "Asignación opcional de las variables de entorno. La clave es el nombre de la variable (que no debe ser una cadena vacía). Se establecen todas las variables, con independencia de que el entorno del proceso les haya asignado un valor o no. Este campo admite la expansión de macro y las variables de entorno de la asignación pueden hacerse referencia entre sí y enumerarse en cualquier orden, siempre que estas referencias no generen un ciclo (por ejemplo, si ENV_1 es $env{ENV_2}, ENV_2 no puede ser $env{ENV_1}). Las variables de entorno se heredan a través del campo inherits y el entorno del valor preestablecido será la unión de su propio entorno y del entorno de todos sus elementos primarios. Si varios valores preestablecidos de la unión definen la misma variable, se aplican las reglas estándar de las herencias. Establecer una variable en NULL hace que no se defina, aunque se haya heredado un valor de otro preestablecido.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Establecer una variable en NULL hace que no se defina, aunque se haya heredado un valor de otro preestablecido."
+								},
+								{
+									"type": "string",
+									"description": "Cadena que representa el valor de la variable."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"configuration": {
+						"type": "string",
+						"description": "Cadena opcional. Equivale a pasar --build-config en la línea de comandos."
+					},
+					"overwriteConfigurationFile": {
+						"type": "array",
+						"description": "Matriz opcional de opciones de configuración para sobrescribir las opciones especificadas en el archivo de configuración de CTest. Equivale a pasar \"--overwrite\" para cada uno de los valores de la matriz.",
+						"items": {
+							"type": "string",
+							"description": "Opción escrita como par clave-valor con el formato \"clave=valor\"."
+						}
+					},
+					"output": {
+						"type": "object",
+						"description": "Objeto opcional que especifica las opciones de salida.",
+						"properties": {
+							"shortProgress": {
+								"type": "boolean",
+								"description": "Valor booleano opcional. Si es verdadero, equivale a pasar --progress en la línea de comandos."
+							},
+							"verbosity": {
+								"type": "string",
+								"description": "Cadena opcional que especifica el nivel de detalle. Los valores válidos son \"default\" (equivale a no pasar ninguna marca de nivel de detalle en la línea de comandos), \"verbose\" (equivale a pasar --verbose en la línea de comandos) y \"extra\" (equivale a pasar --extra-verbose en la línea de comandos).",
+								"enum": [
+									"default",
+									"verbose",
+									"extra"
+								]
+							},
+							"debug": {
+								"type": "boolean",
+								"description": "Valor booleano opcional. Si es verdadero, equivale a pasar --debug en la línea de comandos."
+							},
+							"outputOnFailure": {
+								"type": "boolean",
+								"description": "Valor booleano opcional. Si es verdadero, equivale a pasar --output-on-failure en la línea de comandos."
+							},
+							"quiet": {
+								"type": "boolean",
+								"description": "Valor booleano opcional. Si es verdadero, equivale a pasar --quiet en la línea de comandos."
+							},
+							"outputLogFile": {
+								"type": "string",
+								"description": "Cadena opcional que especifica una ruta de acceso a un archivo de registro. Equivale a pasar --output-log en la línea de comandos."
+							},
+							"labelSummary": {
+								"type": "boolean",
+								"description": "Valor booleano opcional. Si es falso, equivale a pasar --no-label-summary en la línea de comandos."
+							},
+							"subprojectSummary": {
+								"type": "boolean",
+								"description": "Valor booleano opcional. Si es falso, equivale a pasar --no-subproject-summary en la línea de comandos."
+							},
+							"maxPassedTestOutputSize": {
+								"type": "integer",
+								"description": "Entero opcional que especifica el tamaño máximo de salida de las pruebas superadas en bytes. Equivale a pasar --test-output-size-passed en la línea de comandos."
+							},
+							"maxFailedTestOutputSize": {
+								"type": "integer",
+								"description": "Entero opcional que especifica el tamaño máximo de salida de las pruebas con errores en bytes. Equivale a pasar --test-output-size-failed en la línea de comandos."
+							},
+							"maxTestNameWidth": {
+								"type": "integer",
+								"description": "Entero opcional que especifica el ancho máximo de un nombre de prueba que se va a generar. Equivale a pasar --max-width en la línea de comandos."
+							}
+						},
+						"additionalProperties": false
+					},
+					"filter": {
+						"type": "object",
+						"description": "Objeto opcional que especifica cómo filtrar las pruebas que se van a ejecutar.",
+						"properties": {
+							"include": {
+								"type": "object",
+								"description": "Objeto opcional que especifica las pruebas que se van a incluir.",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "Cadena opcional que especifica un elemento regex para los nombres de pruebas. Equivale a pasar --tests-regex en la línea de comandos."
+									},
+									"label": {
+										"type": "string",
+										"description": "Cadena opcional que especifica un elemento regex para las etiquetas de prueba. Equivale a pasar --label-regex en la línea de comandos."
+									},
+									"index": {
+										"anyOf": [
+											{
+												"type": "object",
+												"description": "Objeto opcional que especifica las pruebas que se van a incluir por índice de pruebas.",
+												"properties": {
+													"start": {
+														"type": "integer",
+														"description": "Entero opcional que especifica un índice de pruebas para iniciar las pruebas."
+													},
+													"end": {
+														"type": "integer",
+														"description": "Entero opcional que especifica un índice de pruebas para detener las pruebas."
+													},
+													"stride": {
+														"type": "integer",
+														"description": "Entero opcional que especifica el incremento."
+													},
+													"specificTests": {
+														"type": "array",
+														"description": "Matriz opcional de enteros que especifica los índices de prueba específicos que se van a ejecutar.",
+														"items": {
+															"type": "integer",
+															"description": "Entero que especifica la prueba que se va a ejecutar por índice."
+														}
+													}
+												},
+												"additionalProperties": false
+											},
+											{
+												"type": "string",
+												"description": "Cadena opcional que especifica un archivo con la sintaxis de la línea de comandos para --tests-information."
+											}
+										]
+									},
+									"useUnion": {
+										"type": "boolean",
+										"description": "Valor booleano opcional. Equivalente a pasar --union en la línea de comandos."
+									}
+								},
+								"additionalProperties": false
+							},
+							"exclude": {
+								"type": "object",
+								"description": "Objeto opcional que especifica las pruebas que se van a excluir.",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "Cadena opcional que especifica un elemento regex para los nombres de pruebas. Equivale a pasar --exclude-regex en la línea de comandos."
+									},
+									"label": {
+										"type": "string",
+										"description": "Cadena opcional que especifica un elemento regex para las etiquetas de prueba. Equivale a pasar --label-exclude en la línea de comandos."
+									},
+									"fixtures": {
+										"type": "object",
+										"description": "Objeto opcional que especifica los accesorios que se van a excluir de la adición de pruebas.",
+										"properties": {
+											"any": {
+												"type": "string",
+												"description": "Cadena opcional que especifica un elemento regex para los accesorios de prueba que se van a excluir de la adición de pruebas. Equivale a establecer --fixture-exclude-any en la línea de comandos."
+											},
+											"setup": {
+												"type": "string",
+												"description": "Cadena opcional que especifica un elemento regex para los accesorios de prueba que se van a excluir de la adición de pruebas de configuración. Equivale a establecer --fixture-exclude-setup en la línea de comandos."
+											},
+											"cleanup": {
+												"type": "string",
+												"description": "Cadena opcional que especifica un elemento regex para los accesorios de prueba que se excluirán de la adición de pruebas de limpieza. Equivale a establecer --fixture-exclude-cleanup en la línea de comandos."
+											}
+										},
+										"additionalProperties": false
+									}
+								}
+							}
+						},
+						"additionalProperties": false
+					},
+					"execution": {
+						"type": "object",
+						"description": "Objeto opcional que especifica las opciones para la ejecución de pruebas.",
+						"properties": {
+							"stopOnFailure": {
+								"type": "boolean",
+								"description": "Valor booleano opcional. Si es verdadero, equivale a pasar --stop-on-failure en la línea de comandos."
+							},
+							"enableFailover": {
+								"type": "boolean",
+								"description": "Valor booleano opcional. Si es verdadero, equivale a pasar -F en la línea de comandos."
+							},
+							"jobs": {
+								"type": "integer",
+								"description": "Entero opcional. Equivale a pasar --parallel en la línea de comandos."
+							},
+							"resourceSpecFile": {
+								"type": "string",
+								"description": "Cadena opcional. Equivale a pasar --resource-spec-file en la línea de comandos."
+							},
+							"testLoad": {
+								"type": "integer",
+								"description": "Entero opcional. Equivale a pasar --test-load en la línea de comandos."
+							},
+							"showOnly": {
+								"type": "string",
+								"description": "Cadena opcional. Equivale a pasar --show-only en la línea de comandos. El valor debe ser \"human\" o \"json-v1\".",
+								"enum": [
+									"human",
+									"json-v1"
+								]
+							},
+							"repeat": {
+								"type": "object",
+								"description": "Objeto opcional que especifica cómo se van a repetir las pruebas. Equivale a pasar --repeat en la línea de comandos.",
+								"properties": {
+									"mode": {
+										"type": "string",
+										"description": "Cadena obligatoria. Debe tener uno de los valores siguientes: \"until-fail\", \"until-pass\" o \"after-timeout\".",
+										"enum": [
+											"until-fail",
+											"until-pass",
+											"after-timeout"
+										]
+									},
+									"count": {
+										"type": "integer",
+										"description": "Valor entero obligatorio."
+									}
+								},
+								"required": [
+									"mode",
+									"count"
+								],
+								"additionalProperties": false
+							},
+							"interactiveDebugging": {
+								"type": "boolean",
+								"description": "Valor booleano opcional. Si es verdadero, equivale a pasar --interactive-debug-mode 1 en la línea de comandos. Si es false, equivale a pasar --interactive-debug-mode 0 en la línea de comandos."
+							},
+							"scheduleRandom": {
+								"type": "boolean",
+								"description": "Valor booleano opcional. Si es verdadero, equivale a pasar --schedule-random en la línea de comandos."
+							},
+							"timeout": {
+								"type": "integer",
+								"description": "Entero opcional. Equivale a pasar --timeout en la línea de comandos."
+							},
+							"noTestsAction": {
+								"type": "string",
+								"description": "Cadena opcional que especifica el comportamiento en caso de no encontrar ninguna prueba. Debe tener uno de los valores siguientes: \"default\" (equivale a no pasar ningún valor en la línea de comandos), \"error\" (equivale a pasar --no-tests=error en la línea de comandos) o \"ignore\" (equivale a pasar --no-tests-ignore en la línea de comandos).",
+								"enum": [
+									"default",
+									"error",
+									"ignore"
+								]
+							}
+						},
+						"additionalProperties": false
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"vendor": {
+			"type": "object",
+			"description": "Asignación opcional que contiene información específica del proveedor. CMake no interpreta el contenido de este campo, excepto para comprobar que es una asignación, si existe. Sin embargo, las claves deben ser un nombre de dominio específico del proveedor seguido de una ruta de acceso separada por /. Por ejemplo, Ejemplo IDE 1.0 puede usar ejemplo.com/EjemploIDE/1.0. El valor de cada campo puede definirlo el proveedor, aunque normalmente será una asignación.",
+			"properties": {}
+		},
+		"include": {
+			"type": "array",
+			"description": "Matriz opcional de cadenas que representa los archivos que se van a incluir. Si los nombres de archivo no son absolutos, se consideran relativos al archivo actual.",
+			"items": {
+				"type": "string"
+			}
+		}
+	},
+	"additionalProperties": false,
+	"definitions": {
+		"condition": {
+			"anyOf": [
+				{
+					"type": "boolean",
+					"description": "Un booleano que proporciona un valor constante para la evaluación de la condición."
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Una cadena necesaria que especifica el tipo de la condición.",
+							"const": "const"
+						},
+						"value": {
+							"type": "boolean",
+							"description": "Un booleano necesario que proporciona un valor constante para la evaluación de la condición."
+						}
+					},
+					"required": [
+						"type",
+						"value"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Una cadena necesaria que especifica el tipo de la condición.",
+							"const": "equals"
+						},
+						"lhs": {
+							"type": "string",
+							"description": "Primera cadena que se va a comparar. Este campo admite la expansión de macros."
+						},
+						"rhs": {
+							"type": "string",
+							"description": "Segunda cadena que se va a comparar. Este campo admite la expansión de macros."
+						}
+					},
+					"required": [
+						"type",
+						"lhs",
+						"rhs"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Una cadena necesaria que especifica el tipo de la condición.",
+							"const": "notEquals"
+						},
+						"lhs": {
+							"type": "string",
+							"description": "Primera cadena que se va a comparar. Este campo admite la expansión de macros."
+						},
+						"rhs": {
+							"type": "string",
+							"description": "Segunda cadena que se va a comparar. Este campo admite la expansión de macros."
+						}
+					},
+					"required": [
+						"type",
+						"lhs",
+						"rhs"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Una cadena necesaria que especifica el tipo de la condición.",
+							"const": "inList"
+						},
+						"string": {
+							"type": "string",
+							"description": "Cadena necesaria que se va a buscar. Este campo admite la expansión de macros."
+						},
+						"list": {
+							"type": "array",
+							"description": "Una lista necesaria de cadenas que se van a buscar. Este campo admite la expansión de macros y usa la evaluación de cortocircuito.",
+							"items": {
+								"type": "string"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"list"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Una cadena necesaria que especifica el tipo de la condición.",
+							"const": "notInList"
+						},
+						"string": {
+							"type": "string",
+							"description": "Cadena necesaria que se va a buscar. Este campo admite la expansión de macros."
+						},
+						"list": {
+							"type": "array",
+							"description": "Una lista necesaria de cadenas que se van a buscar. Este campo admite la expansión de macros y usa la evaluación de cortocircuito.",
+							"items": {
+								"type": "string"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"list"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Una cadena necesaria que especifica el tipo de la condición.",
+							"const": "matches"
+						},
+						"string": {
+							"type": "string",
+							"description": "Cadena requerida que se va a buscar. Este campo admite la expansión de macros."
+						},
+						"regex": {
+							"type": "string",
+							"description": "Expresión regular requerida que se va a buscar. Este campo admite la expansión de macros."
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"regex"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Una cadena necesaria que especifica el tipo de la condición.",
+							"const": "notMatches"
+						},
+						"string": {
+							"type": "string",
+							"description": "Cadena requerida que se va a buscar. Este campo admite la expansión de macros."
+						},
+						"regex": {
+							"type": "string",
+							"description": "Expresión regular requerida que se va a buscar. Este campo admite la expansión de macros."
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"regex"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Una cadena necesaria que especifica el tipo de la condición.",
+							"const": "anyOf"
+						},
+						"conditions": {
+							"type": "array",
+							"description": "Una matriz necesaria de objetos de condición. Estas condiciones usan la evaluación de cortocircuito.",
+							"items": {
+								"$ref": "#/definitions/condition"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"conditions"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Una cadena necesaria que especifica el tipo de la condición.",
+							"const": "allOf"
+						},
+						"conditions": {
+							"type": "array",
+							"description": "Una matriz necesaria de objetos de condición. Estas condiciones usan la evaluación de cortocircuito.",
+							"items": {
+								"$ref": "#/definitions/condition"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"conditions"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Una cadena necesaria que especifica el tipo de la condición.",
+							"const": "not"
+						},
+						"condition": {
+							"$ref": "#/definitions/condition"
+						}
+					},
+					"required": [
+						"type",
+						"condition"
+					],
+					"additionalProperties": false
+				}
+			]
+		},
+		"topCondition": {
+			"description": "Campo opcional que se usa para determinar si un valor preestablecido está habilitado o no. Compatible con la versión 3.",
+			"anyOf": [
+				{
+					"$ref": "#/definitions/condition"
+				},
+				{
+					"type": "null",
+					"description": "Null indica que la condición siempre se evalúa como true y no se hereda."
+				}
+			]
+		}
+	}
+}

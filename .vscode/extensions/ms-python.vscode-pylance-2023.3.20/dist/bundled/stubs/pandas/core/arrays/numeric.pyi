@@ -1,0 +1,3 @@
+from pandas.core.dtypes.dtypes import BaseMaskedDtype
+
+class NumericDtype(BaseMaskedDtype): ...

@@ -1,0 +1,23 @@
+{
+	"extension.description": "Импорт поддержки организации для файлов python с помощью \"isort\".",
+	"command.restartServer": "Перезапустить сервер",
+	"settings.logLevel.description": "Уровень трассировки для журналов расширения, значение по умолчанию — \"error\"",
+	"settings.logLevel.debug.description": "Включает подробное ведение журнала в целях отладки.",
+	"settings.logLevel.error.description": "Только ошибки и сведения, которые всегда записываются в журнале.",
+	"settings.logLevel.info.description": "Включает все сообщения, которые не помечены как подробные или сообщения об отладке.",
+	"settings.logLevel.off.description": "Большинство журналов отключено. Сведения, которые всегда записываются в журнале, могут по-прежнему отображаться.",
+	"settings.logLevel.warn.description": "Включает все сообщения в категории ошибок и все дополнительные предупреждения.",
+	"settings.args.description": "Аргументы переданы. Каждый аргумент является отдельной строкой в массиве.",
+	"settings.check.description": "Управляет запуском \"isort\" и отчетом о проблемах с сортировкой импорта.",
+	"settings.severity.description": "Сопоставление степени серьезности типа сообщений \"isort\" со степенью серьезности, отображаемой в окне проблемы.",
+	"settings.path.description": "Если задан путь к двоичному файлу \"isort\", расширение будет использовать его для анализа кода. ЗАМЕТКА. Использование этого параметра может замедлить анализ кода.",
+	"settings.importStrategy.description": "Определяет, откуда импортируется \"isort\". При заданном \"isort.path\" этот параметр может быть пропущен.",
+	"settings.importStrategy.useBundled.description": "Всегда использовать пакетную версию \"isort\".",
+	"settings.importStrategy.fromEnvironment.description": "Использовать \"isort\" из окружения, а откат к пакетной версии только в том случае, если \"isort\" в окружении не доступен.",
+	"settings.interpreter.description": "Если установлен путь к исполняемой программе Python, расширение будет использовать его для запуска сервера и всех подпроцессов.",
+	"settings.showNotifications.description": "Определяет, когда уведомления отображаются этим расширением.",
+	"settings.showNotifications.off.description": "Все уведомления отключены, все ошибки и предупреждения по-прежнему доступны в журналах.",
+	"settings.showNotifications.onError.description": "Уведомления отображаются только в случае ошибки.",
+	"settings.showNotifications.onWarning.description": "Отображаются уведомления об ошибках и предупреждениях.",
+	"settings.showNotifications.always.description": "Уведомления отображаются для всех элементов, выбранных сервером для отображения."
+}

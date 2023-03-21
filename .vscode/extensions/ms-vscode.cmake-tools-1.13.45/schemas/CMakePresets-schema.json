@@ -1,0 +1,1086 @@
+{
+    "type": "object",
+    "description": "The presets specify the generator and the build directory, and optionally a list of variables and other arguments to pass to CMake.",
+    "required": [
+        "version"
+    ],
+    "properties": {
+        "version": {
+            "type": "integer",
+            "description": "A required integer representing the version of the JSON schema."
+        },
+        "cmakeMinimumRequired": {
+            "type": "object",
+            "description": "An optional object representing the minimum version of CMake needed to build this project.",
+            "properties": {
+                "major": {
+                    "type": "integer",
+                    "description": "An optional integer representing the major version."
+                },
+                "minor": {
+                    "type": "integer",
+                    "description": "An optional integer representing the minor version."
+                },
+                "patch": {
+                    "type": "integer",
+                    "description": "An optional integer representing the patch version."
+                }
+            },
+            "additionalProperties": false
+        },
+        "configurePresets": {
+            "type": "array",
+            "description": "An optional array of configure preset objects.",
+            "items": {
+                "type": "object",
+                "description": "A configure preset object.",
+                "properties": {
+                    "name": {
+                        "type": "string",
+                        "description": "A required string representing the machine-friendly name of the preset. This identifier is used in the --preset argument. There must not be two presets in the union of CMakePresets.json and CMakeUserPresets.json in the same directory with the same name.",
+                        "minLength": 1
+                    },
+                    "hidden": {
+                        "type": "boolean",
+                        "description": "An optional boolean specifying whether or not a preset should be hidden. If a preset is hidden, it cannot be used in the --preset= argument, will not show up in the CMake GUI, and does not have to have a valid generator or binaryDir, even from inheritance. Hidden presets are intended to be used as a base for other presets to inherit via the inherits field."
+                    },
+                    "inherits": {
+                        "anyOf": [
+                            {
+                                "type": "string",
+                                "description": "An optional string representing the name of the preset to inherit from.",
+                                "minLength": 1
+                            },
+                            {
+                                "type": "array",
+                                "description": "An optional array of strings representing the names of presets to inherit from. The preset will inherit all of the fields from the inherits presets by default (except name, hidden, inherits, description, and displayName), but can override them as desired. If multiple inherits presets provide conflicting values for the same field, the earlier preset in the inherits list will be preferred. Presets in CMakePresets.json may not inherit from presets in CMakeUserPresets.json.",
+                                "items": {
+                                    "type": "string",
+                                    "description": "An optional string representing the name of the preset to inherit from.",
+                                    "minLength": 1
+                                }
+                            }
+                        ]
+                    },
+                    "vendor": {
+                        "type": "object",
+                        "description": "An optional map containing vendor-specific information. CMake does not interpret the contents of this field except to verify that it is a map if it does exist. However, the keys should be a vendor-specific domain name followed by a /-separated path. For example, the Example IDE 1.0 could use example.com/ExampleIDE/1.0. The value of each field can be anything desired by the vendor, though will typically be a map.",
+                        "properties": {
+                            "microsoft.com/VisualStudioSettings/CMake/1.0": {
+                                "type": "object",
+                                "description": "An optional object representing the Visual Studio Settings vendor object",
+                                "properties": {
+                                    "hostOS": {
+                                        "anyOf": [
+                                            {
+                                                "type": "string",
+                                                "description": "An optional string representing the name of the hostOS. Accepted values are Windows, Linux, and macOS.",
+                                                "enum": [
+                                                    "Windows",
+                                                    "Linux",
+                                                    "macOS"
+                                                ]
+                                            },
+                                            {
+                                                "type": "array",
+                                                "description": "An array of supported host operating systems. This key is used by Visual Studio and Visual Studio Code to hide presets that do not apply to the active target system or host OS. Accepted values are Windows, Linux, and macOS.",
+                                                "items": {
+                                                    "type": "string",
+                                                    "description": "An optional string representing the name of the hostOS. Accepted values are Windows, Linux, and macOS.",
+                                                    "enum": [
+                                                        "Windows",
+                                                        "Linux",
+                                                        "macOS"
+                                                    ]
+                                                }
+                                            }
+                                        ]
+                                    },
+                                    "intelliSenseMode": {
+                                        "type": "string",
+                                        "description": "An optional key that indicates the preferred IntelliSense mode. Mode used for computing IntelliSense information in Visual Studio and Visual Studio Code.",
+                                        "enum": [
+                                            "windows-msvc-x86",
+                                            "windows-msvc-x64",
+                                            "windows-msvc-arm",
+                                            "windows-msvc-arm64",
+                                            "android-clang-x86",
+                                            "android-clang-x64",
+                                            "android-clang-arm",
+                                            "android-clang-arm64",
+                                            "ios-clang-x86",
+                                            "ios-clang-x64",
+                                            "ios-clang-arm",
+                                            "ios-clang-arm64",
+                                            "windows-clang-x86",
+                                            "windows-clang-x64",
+                                            "windows-clang-arm",
+                                            "windows-clang-arm64",
+                                            "linux-gcc-x86",
+                                            "linux-gcc-x64",
+                                            "linux-gcc-arm"
+                                        ]
+                                    },
+                                    "intelliSenseOptions": {
+                                        "type": "object",
+                                        "description": "An optional object used to configure advanced IntelliSense settings.",
+                                        "properties": {
+                                            "useCompilerDefaults": {
+                                                "type": "boolean",
+                                                "default": true,
+                                                "description": "Specifies whether to use the compiler’s default defines and include paths for IntelliSense. Should only be false if the compilers in use do not support gcc-style arguments."
+                                            },
+                                            "additionalCompilerArgs": {
+                                                "anyOf": [
+                                                    {
+                                                        "type": "string",
+                                                        "default": "empty"
+                                                    },
+                                                    {
+                                                        "type": "array",
+                                                        "description": "An array of additional options to control IntelliSense in Visual Studio.",
+                                                        "items": {
+                                                            "type": "string"
+                                                        }
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "enableMicrosoftCodeAnalysis": {
+                                        "type": "boolean",
+                                        "description": "Enable Microsoft code analysis in Visual Studio when building with cl or clang-cl."
+                                    },
+                                    "codeAnalysisRuleset": {
+                                        "type": "string",
+                                        "description": "Ruleset to use when running Microsoft code analysis in Visual Studio. This can be a path to a ruleset file, or the name of a ruleset file installed with Visual Studio."
+                                    },
+                                    "enableClangTidyCodeAnalysis": {
+                                        "type": "boolean",
+                                        "description": "Enable clang-tidy code analysis in Visual Studio when building with clang-cl."
+                                    },
+                                    "clangTidyChecks": {
+                                        "type": "string",
+                                        "description": "Comma separated list of warnings passed to clang-tidy when running clang-tidy code analysis in Visual Studio. Wildcards are allowed and the ‘-‘ prefix will remove checks."
+                                    },
+                                    "cacheRoot": {
+                                        "type": "string",
+                                        "description": "The path to a CMake cache. This directory should contain an existing CMakeCache.txt file. This key is only supported by the \"Open Existing Cache\" scenario in Visual Studio."
+                                    },
+                                    "cmakeGenerateCommand": {
+                                        "type": "string",
+                                        "description": "A command line tool (specified as a command line program + arguments, e.g. \"gencache.bat debug\") to generate the CMake cache. This command will run from the shell in the preset’s specified environment when cache generation is invoked. This key is only supported by the \"Open Existing Cache\" scenario in Visual Studio."
+                                    }
+                                }
+                            },
+                            "microsoft.com/VisualStudioRemoteSettings/CMake/1.0": {
+                                "type": "object",
+                                "description": "An optional object representing the Visual Studio Remote Settings vendor object",
+                                "properties": {
+                                    "sourceDir": {
+                                        "type": "string",
+                                        "default": "$env{HOME}/.vs/${sourceDirName}",
+                                        "description": "Path to the directory on the remote system or WSL2 installation where the project will be copied."
+                                    },
+                                    "copySources": {
+                                        "type": "boolean",
+                                        "default": "true",
+                                        "description": "If true, Visual Studio will copy sources from Windows to the remote system. Set to false if you manage file synchronization yourself."
+                                    },
+                                    "copySourcesOptions": {
+                                        "type": "object",
+                                        "description": "An object of settings related to the source copy from Windows to the remote system.",
+                                        "properties": {
+                                            "exclusionList": {
+                                                "type": "array",
+                                                "default": "[ \".vs\", \".git\", \"out\"]",
+                                                "description": "A list of paths to be excluded when copying source files to the remote system. A path can be the name of a file or directory, or a path relative to the root of the copy.",
+                                                "items": {
+                                                    "type": "string"
+                                                }
+                                            },
+                                            "method": {
+                                                "type": "string",
+                                                "default": "rsync",
+                                                "description": "The method used to copy source files to the remote system. Accepted values are rsync and sftp."
+                                            },
+                                            "concurrentCopies": {
+                                                "type": "integer",
+                                                "default": 5,
+                                                "description": "The number of concurrent copies used during the synchronization of sources to the remote system."
+                                            },
+                                            "outputVerbosity": {
+                                                "type": "string",
+                                                "default": "Normal",
+                                                "description": "The verbosity level of source copy operations to the remote system. Accepted levels are Normal, Verbose, and Diagnostic.",
+                                                "enum": [
+                                                    "Normal",
+                                                    "Verbose",
+                                                    "Diagnostic"
+                                                ]
+                                            }
+                                        }
+                                    },
+                                    "rsyncCommandArgs": {
+                                        "type": "array",
+                                        "default": "[\"-t\", \"--delete\", \"--delete-excluded\"]",
+                                        "description": "A list of additional command line arguments passed to rsync.",
+                                        "items": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "copyBuildOutput": {
+                                        "type": "boolean",
+                                        "default": false,
+                                        "description": "Specifies whether to copy build output from the remote system back to Windows."
+                                    },
+                                    "copyOptimizations": {
+                                        "type": "object",
+                                        "description": "An object of settings related to source copy optimizations.",
+                                        "properties": {
+                                            "maxSmallChange": {
+                                                "type": "integer",
+                                                "default": 10,
+                                                "description": "The maximum number of files to copy using sftp instead of rsync."
+                                            },
+                                            "useOptimizations": {
+                                                "type": "string",
+                                                "default": "RsyncAndSftp",
+                                                "description": "Select no copy optimizations (\"None\"), rsync only optimizations (\"RsyncOnly\"), or rsync and sftp optimizations (\"RsyncAndSftp\").",
+                                                "enum": [
+                                                    "None",
+                                                    "RsyncOnly",
+                                                    "RsyncAndSftp"
+                                                ]
+                                            },
+                                            "rsyncSingleDirectoryCommandArgs": {
+                                                "type": "array",
+                                                "default": "[\"-t\", \"-d\"]",
+                                                "description": "A list of additional command line arguments passed to rsync when copying the contents of a single directory to the remote system.",
+                                                "items": {
+                                                    "type": "string"
+                                                }
+                                            }
+                                        }
+                                    },
+                                    "copyAdditionalIncludeDirectoriesList": {
+                                        "type": "array",
+                                        "default": "[]",
+                                        "description": "A list of paths to remote header directories to be copied locally for IntelliSense.",
+                                        "items": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "copyExcludeDirectoriesList": {
+                                        "type": "array",
+                                        "default": "[]",
+                                        "description": "A list of paths to remote header directories to not be copied locally for IntelliSense.",
+                                        "items": {
+                                            "type": "string"
+                                        }
+                                    },
+                                    "forceWSL1Toolset": {
+                                        "type": "boolean",
+                                        "default": false,
+                                        "description": "If true, Visual Studio will always use the WSL1 toolset when targeting WSL from Visual Studio. The WSL1 toolset executes all commands locally and relies on Windows drives mounted under the /mnt folder to access local source files from WSL. These operations may be slower with WSL2."
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "displayName": {
+                        "type": "string",
+                        "description": "An optional string with a human-friendly name of the preset."
+                    },
+                    "description": {
+                        "type": "string",
+                        "description": "An optional string with a human-friendly description of the preset."
+                    },
+                    "generator": {
+                        "type": "string",
+                        "description": "An optional string representing the generator to use for the preset. If generator is not specified, it must be inherited from the inherits preset (unless this preset is hidden). Note that for Visual Studio generators, unlike in the command line -G argument, you cannot include the platform name in the generator name. Use the architecture field instead."
+                    },
+                    "architecture": {
+                        "anyOf": [
+                            {
+                                "type": "string",
+                                "description": "An optional string representing the platform for generators that support it."
+                            },
+                            {
+                                "type": "object",
+                                "description": "An optional object representing the platform for generators that support it.",
+                                "properties": {
+                                    "value": {
+                                        "type": "string",
+                                        "description": "An optional string representing the value."
+                                    },
+                                    "strategy": {
+                                        "type": "string",
+                                        "description": "An optional string telling CMake how to handle the field. Valid values are: \"set\" Set the respective value. This will result in an error for generators that do not support the respective field. \"external\" Do not set the value, even if the generator supports it. This is useful if, for example, a preset uses the Ninja generator, and an IDE knows how to set up the Visual C++ environment from the architecture and toolset fields. In that case, CMake will ignore the field, but the IDE can use them to set up the environment before invoking CMake.",
+                                        "enum": [
+                                            "set",
+                                            "external"
+                                        ]
+                                    }
+                                },
+                                "additionalProperties": false
+                            }
+                        ]
+                    },
+                    "toolset": {
+                        "anyOf": [
+                            {
+                                "type": "string",
+                                "description": "An optional string representing the toolset for generators that support it."
+                            },
+                            {
+                                "type": "object",
+                                "description": "An optional object representing the toolset for generators that support it.",
+                                "properties": {
+                                    "value": {
+                                        "type": "string",
+                                        "description": "An optional string representing the value."
+                                    },
+                                    "strategy": {
+                                        "type": "string",
+                                        "description": "An optional string telling CMake how to handle the field. Valid values are: \"set\" Set the respective value. This will result in an error for generators that do not support the respective field. \"external\" Do not set the value, even if the generator supports it. This is useful if, for example, a preset uses the Ninja generator, and an IDE knows how to set up the Visual C++ environment from the architecture and toolset fields. In that case, CMake will ignore the field, but the IDE can use them to set up the environment before invoking CMake.",
+                                        "enum": [
+                                            "set",
+                                            "external"
+                                        ]
+                                    }
+                                },
+                                "additionalProperties": false
+                            }
+                        ]
+                    },
+                    "binaryDir": {
+                        "type": "string",
+                        "description": "An optional string representing the path to the output binary directory. This field supports macro expansion. If a relative path is specified, it is calculated relative to the source directory. If binaryDir is not specified, it must be inherited from the inherits preset (unless this preset is hidden)."
+                    },
+                    "cmakeExecutable": {
+                        "type": "string",
+                        "description": "An optional string representing the path to the CMake executable to use for this preset. This is reserved for use by IDEs, and is not used by CMake itself. IDEs that use this field should expand any macros in it."
+                    },
+                    "cacheVariables": {
+                        "type": "object",
+                        "description": "An optional map of cache variables. The key is the variable name (which must not be an empty string). Cache variables are inherited through the inherits field, and the preset's variables will be the union of its own cacheVariables and the cacheVariables from all its parents. If multiple presets in this union define the same variable, the standard rules of inherits are applied.",
+                        "properties": {
+                            "CMAKE_C_COMPILER": {
+                                "anyOf": [
+                                    {
+                                        "type": "string",
+                                        "description": "The compiler to be used for C."
+                                    },
+                                    {
+                                        "type": "null",
+                                        "description": "Setting a variable to null causes it to not be set, even if a value was inherited from another preset."
+                                    },
+                                    {
+                                        "type": "object",
+                                        "properties": {
+                                            "type": {
+                                                "type": "string"
+                                            },
+                                            "value": {
+                                                "type": "string"
+                                            }
+                                        },
+                                        "additionalProperties": false
+                                    }
+                                ]
+                            },
+                            "CMAKE_CXX_COMPILER": {
+                                "anyOf": [
+                                    {
+                                        "type": "string",
+                                        "description": "The compiler to be used for C++."
+                                    },
+                                    {
+                                        "type": "null",
+                                        "description": "Setting a variable to null causes it to not be set, even if a value was inherited from another preset."
+                                    },
+                                    {
+                                        "type": "object",
+                                        "properties": {
+                                            "type": {
+                                                "type": "string"
+                                            },
+                                            "value": {
+                                                "type": "string"
+                                            }
+                                        },
+                                        "additionalProperties": false
+                                    }
+                                ]
+                            },
+                            "CMAKE_INSTALL_PREFIX": {
+                                "anyOf": [
+                                    {
+                                        "type": "string",
+                                        "description": "Install directory used by CMake."
+                                    },
+                                    {
+                                        "type": "null",
+                                        "description": "Setting a variable to null causes it to not be set, even if a value was inherited from another preset."
+                                    },
+                                    {
+                                        "type": "object",
+                                        "properties": {
+                                            "type": {
+                                                "type": "string"
+                                            },
+                                            "value": {
+                                                "type": "string"
+                                            }
+                                        },
+                                        "additionalProperties": false
+                                    }
+                                ]
+                            },
+                            "CMAKE_TOOLCHAIN_FILE": {
+                                "anyOf": [
+                                    {
+                                        "type": "string",
+                                        "description": "The toolchain file passed to CMake."
+                                    },
+                                    {
+                                        "type": "null",
+                                        "description": "Setting a variable to null causes it to not be set, even if a value was inherited from another preset."
+                                    },
+                                    {
+                                        "type": "object",
+                                        "properties": {
+                                            "type": {
+                                                "type": "string"
+                                            },
+                                            "value": {
+                                                "type": "string"
+                                            }
+                                        },
+                                        "additionalProperties": false
+                                    }
+                                ]
+                            },
+                            "CMAKE_BUILD_TYPE": {
+                                "description": "Specifies the build type on single-configuration generators.",
+                                "anyOf": [
+                                    {
+                                        "type": "string",
+                                        "enum": [
+                                            "Debug",
+                                            "Release",
+                                            "RelWithDebInfo",
+                                            "MinSizeRel"
+                                        ]
+                                    },
+                                    {
+                                        "type": "object",
+                                        "properties": {
+                                            "type": {
+                                                "type": "string"
+                                            },
+                                            "value": {
+                                                "type": "string"
+                                            }
+                                        },
+                                        "additionalProperties": false
+                                    },
+                                    {
+                                        "type": "string"
+                                    },
+                                    {
+                                        "type": "null",
+                                        "description": "Setting a variable to null causes it to not be set, even if a value was inherited from another preset."
+                                    }
+                                ]
+                            }
+                        },
+                        "additionalProperties": {
+                            "anyOf": [
+                                {
+                                    "type": "null",
+                                    "description": "Setting a variable to null causes it to not be set, even if a value was inherited from another preset."
+                                },
+                                {
+                                    "type": "boolean",
+                                    "description": "A boolean representing the value of the variable. Equivalent to \"TRUE\" or \"FALSE\"."
+                                },
+                                {
+                                    "type": "string",
+                                    "description": "A string representing the value of the variable (which supports macro expansion)."
+                                },
+                                {
+                                    "type": "object",
+                                    "description": "An object representing the type and value of the variable.",
+                                    "properties": {
+                                        "type": {
+                                            "type": "string",
+                                            "description": "An optional string representing the type of the variable. It should be BOOL, FILEPATH, PATH, STRING, or INTERNAL."
+                                        },
+                                        "value": {
+                                            "anyOf": [
+                                                {
+                                                    "type": "boolean",
+                                                    "description": "A required boolean representing the value of the variable. Equivalent to \"TRUE\" or \"FALSE\"."
+                                                },
+                                                {
+                                                    "type": "string",
+                                                    "description": "A required string representing the value of the variable. This field supports macro expansion."
+                                                }
+                                            ]
+                                        }
+                                    },
+                                    "required": [
+                                        "value"
+                                    ],
+                                    "additionalProperties": false
+                                }
+                            ]
+                        },
+                        "propertyNames": {
+                            "pattern": "^.+$"
+                        }
+                    },
+                    "environment": {
+                        "type": "object",
+                        "description": "An optional map of environment variables. The key is the variable name (which must not be an empty string). Each variable is set regardless of whether or not a value was given to it by the process's environment. This field supports macro expansion, and environment variables in this map may reference each other, and may be listed in any order, as long as such references do not cause a cycle (for example, if ENV_1 is $env{ENV_2}, ENV_2 may not be $env{ENV_1}.) Environment variables are inherited through the inherits field, and the preset's environment will be the union of its own environment and the environment from all its parents. If multiple presets in this union define the same variable, the standard rules of inherits are applied. Setting a variable to null causes it to not be set, even if a value was inherited from another preset.",
+                        "properties": {},
+                        "additionalProperties": {
+                            "anyOf": [
+                                {
+                                    "type": "null",
+                                    "description": "Setting a variable to null causes it to not be set, even if a value was inherited from another preset."
+                                },
+                                {
+                                    "type": "string",
+                                    "description": "A string representing the value of the variable."
+                                }
+                            ]
+                        },
+                        "propertyNames": {
+                            "pattern": "^.+$"
+                        }
+                    },
+                    "warnings": {
+                        "type": "object",
+                        "description": "An optional object specifying warnings.",
+                        "properties": {
+                            "dev": {
+                                "type": "boolean",
+                                "description": "An optional boolean. Equivalent to passing -Wdev or -Wno-dev on the command line. This may not be set to false if errors.dev is set to true."
+                            },
+                            "deprecated": {
+                                "type": "boolean",
+                                "description": "An optional boolean. Equivalent to passing -Wdeprecated or -Wno-deprecated on the command line. This may not be set to false if errors.deprecated is set to true."
+                            },
+                            "uninitialized": {
+                                "type": "boolean",
+                                "description": "An optional boolean. Setting this to true is equivalent to passing --warn-uninitialized on the command line."
+                            },
+                            "unusedCli": {
+                                "type": "boolean",
+                                "description": "An optional boolean. Setting this to false is equivalent to passing --no-warn-unused-cli on the command line."
+                            },
+                            "systemVars": {
+                                "type": "boolean",
+                                "description": "An optional boolean. Setting this to true is equivalent to passing --check-system-vars on the command line."
+                            }
+                        },
+                        "additionalProperties": false
+                    },
+                    "errors": {
+                        "type": "object",
+                        "description": "An optional object specifying errors.",
+                        "properties": {
+                            "dev": {
+                                "type": "boolean",
+                                "description": "An optional boolean. Equivalent to passing -Werror=dev or -Wno-error=dev on the command line. This may not be set to true if warnings.dev is set to false."
+                            },
+                            "deprecated": {
+                                "type": "boolean",
+                                "description": "An optional boolean. Equivalent to passing -Werror=deprecated or -Wno-error=deprecated on the command line. This may not be set to true if warnings.deprecated is set to false."
+                            }
+                        },
+                        "additionalProperties": false
+                    },
+                    "debug": {
+                        "type": "object",
+                        "description": "An optional object specifying debug options.",
+                        "properties": {
+                            "output": {
+                                "type": "boolean",
+                                "description": "An optional boolean. Setting this to true is equivalent to passing --debug-output on the command line."
+                            },
+                            "tryCompile": {
+                                "type": "boolean",
+                                "description": "An optional boolean. Setting this to true is equivalent to passing --debug-trycompile on the command line."
+                            },
+                            "find": {
+                                "type": "boolean",
+                                "description": "An optional boolean. Setting this to true is equivalent to passing --debug-find on the command line."
+                            }
+                        },
+                        "additionalProperties": false
+                    }
+                },
+                "required": [
+                    "name"
+                ],
+                "additionalProperties": false
+            }
+        },
+        "buildPresets": {
+            "type": "array",
+            "description": "An optional array of build preset objects. Used to specify arguments to cmake --build. Available in version 2 and higher.",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "type": "string",
+                        "description": "A required string representing the machine-friendly name of the preset. This identifier is used in the --preset argument. There must not be two presets (configure, build, or test) in the union of CMakePresets.json and CMakeUserPresets.json in the same directory with the same name.",
+                        "minLength": 1
+                    },
+                    "hidden": {
+                        "type": "boolean",
+                        "description": "An optional boolean specifying whether or not a preset should be hidden. If a preset is hidden, it cannot be used in the --preset argument, will not show up in the CMake GUI, and does not have to have a valid configurePreset, even from inheritance. Hidden presets are intended to be used as a base for other presets to inherit via the inherits field."
+                    },
+                    "inherits": {
+                        "anyOf": [
+                            {
+                                "type": "string",
+                                "description": "An optional string representing the name of the build preset to inherit from.",
+                                "minLength": 1
+                            },
+                            {
+                                "type": "array",
+                                "description": "An optional array of strings representing the names of build presets to inherit from. The preset will inherit all of the fields from the inherits presets by default (except name, hidden, inherits, description, and displayName), but can override them as desired. If multiple inherits presets provide conflicting values for the same field, the earlier preset in the inherits list will be preferred. Presets in CMakePresets.json may not inherit from presets in CMakeUserPresets.json.",
+                                "items": {
+                                    "type": "string",
+                                    "description": "An optional string representing the name of the preset to inherit from.",
+                                    "minLength": 1
+                                }
+                            }
+                        ]
+                    },
+                    "configurePreset": {
+                        "type": "string",
+                        "description": "An optional string specifying the name of a configure preset to associate with this build preset. If configurePreset is not specified, it must be inherited from the inherits preset (unless this preset is hidden). The build tree directory is inferred from the configure preset.",
+                        "minLength": 1
+                    },
+                    "vendor": {
+                        "type": "object",
+                        "description": "An optional map containing vendor-specific information. CMake does not interpret the contents of this field except to verify that it is a map if it does exist. However, it should follow the same conventions as the root-level vendor field. If vendors use their own per-preset vendor field, they should implement inheritance in a sensible manner when appropriate.",
+                        "properties": {}
+                    },
+                    "displayName": {
+                        "type": "string",
+                        "description": "An optional string with a human-friendly name of the preset."
+                    },
+                    "description": {
+                        "type": "string",
+                        "description": "An optional string with a human-friendly description of the preset."
+                    },
+                    "inheritConfigureEnvironment": {
+                        "type": "boolean",
+                        "description": "An optional Boolean that defaults to true. If true, the environment variables from the associated configure preset are inherited after all inherited build preset environments, but before environment variables explicitly specified in this build preset."
+                    },
+                    "environment": {
+                        "type": "object",
+                        "description": "An optional map of environment variables. The key is the variable name (which must not be an empty string). Each variable is set regardless of whether or not a value was given to it by the process's environment. This field supports macro expansion, and environment variables in this map may reference each other, and may be listed in any order, as long as such references do not cause a cycle (for example, if ENV_1 is $env{ENV_2}, ENV_2 may not be $env{ENV_1}.) Environment variables are inherited through the inherits field, and the preset's environment will be the union of its own environment and the environment from all its parents. If multiple presets in this union define the same variable, the standard rules of inherits are applied. Setting a variable to null causes it to not be set, even if a value was inherited from another preset.",
+                        "properties": {},
+                        "additionalProperties": {
+                            "anyOf": [
+                                {
+                                    "type": "null",
+                                    "description": "Setting a variable to null causes it to not be set, even if a value was inherited from another preset."
+                                },
+                                {
+                                    "type": "string",
+                                    "description": "A string representing the value of the variable."
+                                }
+                            ]
+                        },
+                        "propertyNames": {
+                            "pattern": "^.+$"
+                        }
+                    },
+                    "jobs": {
+                        "type": "integer",
+                        "description": "An optional integer. Equivalent to passing --parallel or -j on the command line."
+                    },
+                    "targets": {
+                        "anyOf": [
+                            {
+                                "type": "string",
+                                "description": "An optional string. Equivalent to passing --target or -t on the command line. Vendors may ignore the targets property or hide build presets that explicitly specify targets."
+                            },
+                            {
+                                "type": "array",
+                                "description": "An optional array of strings. Equivalent to passing --target or -t on the command line. Vendors may ignore the targets property or hide build presets that explicitly specify targets.",
+                                "items": {
+                                    "type": "string",
+                                    "description": "An optional string. Equivalent to passing --target or -t on the command line. Vendors may ignore the targets property or hide build presets that explicitly specify targets."
+                                }
+                            }
+                        ]
+                    },
+                    "configuration": {
+                        "type": "string",
+                        "description": "An optional string. Equivalent to passing --config on the command line."
+                    },
+                    "cleanFirst": {
+                        "type": "boolean",
+                        "description": "An optional bool. If true, equivalent to passing --clean-first on the command line."
+                    },
+                    "verbose": {
+                        "type": "boolean",
+                        "description": "An optional bool. If true, equivalent to passing --verbose on the command line."
+                    },
+                    "nativeToolOptions": {
+                        "type": "array",
+                        "description": "An optional array of strings. Equivalent to passing options after -- on the command line.",
+                        "items": {
+                            "type": "string",
+                            "description": "An optional string representing an option to pass after -- on the command line."
+                        }
+                    }
+                },
+                "required": [
+                    "name"
+                ],
+                "additionalProperties": false
+            }
+        },
+        "testPresets": {
+            "type": "array",
+            "description": "An optional array of test preset objects. Used to specify arguments to ctest. Available in version 2 and higher.",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "name": {
+                        "type": "string",
+                        "description": "A required string representing the machine-friendly name of the preset. This identifier is used in the --preset argument. There must not be two presets (configure, build, or test) in the union of CMakePresets.json and CMakeUserPresets.json in the same directory with the same name.",
+                        "minLength": 1
+                    },
+                    "hidden": {
+                        "type": "boolean",
+                        "description": "An optional boolean specifying whether or not a preset should be hidden. If a preset is hidden, it cannot be used in the --preset argument, will not show up in the CMake GUI, and does not have to have a valid configurePreset, even from inheritance. Hidden presets are intended to be used as a base for other presets to inherit via the inherits field."
+                    },
+                    "inherits": {
+                        "anyOf": [
+                            {
+                                "type": "string",
+                                "description": "An optional string representing the name of the test preset to inherit from.",
+                                "minLength": 1
+                            },
+                            {
+                                "type": "array",
+                                "description": "An optional array of strings representing the names of test presets to inherit from. The preset will inherit all of the fields from the inherits presets by default (except name, hidden, inherits, description, and displayName), but can override them as desired. If multiple inherits presets provide conflicting values for the same field, the earlier preset in the inherits list will be preferred. Presets in CMakePresets.json may not inherit from presets in CMakeUserPresets.json.",
+                                "items": {
+                                    "type": "string",
+                                    "description": "An optional string representing the name of the preset to inherit from.",
+                                    "minLength": 1
+                                }
+                            }
+                        ]
+                    },
+                    "configurePreset": {
+                        "type": "string",
+                        "description": "An optional string specifying the name of a configure preset to associate with this test preset. If configurePreset is not specified, it must be inherited from the inherits preset (unless this preset is hidden). The build tree directory is inferred from the configure preset.",
+                        "minLength": 1
+                    },
+                    "vendor": {
+                        "type": "object",
+                        "description": "An optional map containing vendor-specific information. CMake does not interpret the contents of this field except to verify that it is a map if it does exist. However, it should follow the same conventions as the root-level vendor field. If vendors use their own per-preset vendor field, they should implement inheritance in a sensible manner when appropriate.",
+                        "properties": {}
+                    },
+                    "displayName": {
+                        "type": "string",
+                        "description": "An optional string with a human-friendly name of the preset."
+                    },
+                    "description": {
+                        "type": "string",
+                        "description": "An optional string with a human-friendly description of the preset."
+                    },
+                    "inheritConfigureEnvironment": {
+                        "type": "boolean",
+                        "description": "An optional Boolean that defaults to true. If true, the environment variables from the associated configure preset are inherited after all inherited test preset environments, but before environment variables explicitly specified in this test preset."
+                    },
+                    "environment": {
+                        "type": "object",
+                        "description": "An optional map of environment variables. The key is the variable name (which must not be an empty string). Each variable is set regardless of whether or not a value was given to it by the process's environment. This field supports macro expansion, and environment variables in this map may reference each other, and may be listed in any order, as long as such references do not cause a cycle (for example, if ENV_1 is $env{ENV_2}, ENV_2 may not be $env{ENV_1}.) Environment variables are inherited through the inherits field, and the preset's environment will be the union of its own environment and the environment from all its parents. If multiple presets in this union define the same variable, the standard rules of inherits are applied. Setting a variable to null causes it to not be set, even if a value was inherited from another preset.",
+                        "properties": {},
+                        "additionalProperties": {
+                            "anyOf": [
+                                {
+                                    "type": "null",
+                                    "description": "Setting a variable to null causes it to not be set, even if a value was inherited from another preset."
+                                },
+                                {
+                                    "type": "string",
+                                    "description": "A string representing the value of the variable."
+                                }
+                            ]
+                        },
+                        "propertyNames": {
+                            "pattern": "^.+$"
+                        }
+                    },
+                    "configuration": {
+                        "type": "string",
+                        "description": "An optional string. Equivalent to passing --build-config on the command line."
+                    },
+                    "overwriteConfigurationFile": {
+                        "type": "array",
+                        "description": "An optional array of configuration options to overwrite options specified in the CTest configuration file. Equivalent to passing ``--overwrite`` for each value in the array.",
+                        "items": {
+                            "type": "string",
+                            "description": "An option written as a key-value pair in the form \"key=value\"."
+                        }
+                    },
+                    "output": {
+                        "type": "object",
+                        "description": "An optional object specifying output options.",
+                        "properties": {
+                            "shortProgress": {
+                                "type": "boolean",
+                                "description": "An optional bool. If true, equivalent to passing --progress on the command line."
+                            },
+                            "verbosity": {
+                                "type": "string",
+                                "description": "An optional string specifying verbosity level. Valid values are \"default\" (equivalent to passing no verbosity flags on the command line), \"verbose\" (equivalent to passing --verbose on the command line), and \"extra\" (equivalent to passing --extra-verbose on the command line).",
+                                "enum": [
+                                    "default",
+                                    "verbose",
+                                    "extra"
+                                ]
+                            },
+                            "debug": {
+                                "type": "boolean",
+                                "description": "An optional bool. If true, equivalent to passing --debug on the command line."
+                            },
+                            "outputOnFailure": {
+                                "type": "boolean",
+                                "description": "An optional bool. If true, equivalent to passing --output-on-failure on the command line."
+                            },
+                            "quiet": {
+                                "type": "boolean",
+                                "description": "An optional bool. If true, equivalent to passing --quiet on the command line."
+                            },
+                            "outputLogFile": {
+                                "type": "string",
+                                "description": "An optional string specifying a path to a log file. Equivalent to passing --output-log on the command line."
+                            },
+                            "labelSummary": {
+                                "type": "boolean",
+                                "description": "An optional bool. If false, equivalent to passing --no-label-summary on the command line."
+                            },
+                            "subprojectSummary": {
+                                "type": "boolean",
+                                "description": "An optional bool. If false, equivalent to passing --no-subproject-summary on the command line."
+                            },
+                            "maxPassedTestOutputSize": {
+                                "type": "integer",
+                                "description": "An optional integer specifying the maximum output for passed tests in bytes. Equivalent to passing --test-output-size-passed on the command line."
+                            },
+                            "maxFailedTestOutputSize": {
+                                "type": "integer",
+                                "description": "An optional integer specifying the maximum output for failed tests in bytes. Equivalent to passing --test-output-size-failed on the command line."
+                            },
+                            "maxTestNameWidth": {
+                                "type": "integer",
+                                "description": "An optional integer specifying the maximum width of a test name to output. Equivalent to passing --max-width on the command line."
+                            }
+                        },
+                        "additionalProperties": false
+                    },
+                    "filter": {
+                        "type": "object",
+                        "description": "An optional object specifying how to filter the tests to run.",
+                        "properties": {
+                            "include": {
+                                "type": "object",
+                                "description": "An optional object specifying which tests to include.",
+                                "properties": {
+                                    "name": {
+                                        "type": "string",
+                                        "description": "An optional string specifying a regex for test names. Equivalent to passing --tests-regex on the command line."
+                                    },
+                                    "label": {
+                                        "type": "string",
+                                        "description": "An optional string specifying a regex for test labels. Equivalent to passing --label-regex on the command line."
+                                    },
+                                    "index": {
+                                        "anyOf": [
+                                            {
+                                                "type": "object",
+                                                "description": "An optional object specifying tests to include by test index.",
+                                                "properties": {
+                                                    "start": {
+                                                        "type": "integer",
+                                                        "description": "An optional integer specifying a test index to start testing at."
+                                                    },
+                                                    "end": {
+                                                        "type": "integer",
+                                                        "description": "An optional integer specifying a test index to stop testing at."
+                                                    },
+                                                    "stride": {
+                                                        "type": "integer",
+                                                        "description": "An optional integer specifying the increment."
+                                                    },
+                                                    "specificTests": {
+                                                        "type": "array",
+                                                        "description": "An optional array of integers specifying specific test indices to run.",
+                                                        "items": {
+                                                            "type": "integer",
+                                                            "description": "An integer specifying the test to run by index."
+                                                        }
+                                                    }
+                                                },
+                                                "additionalProperties": false
+                                            },
+                                            {
+                                                "type": "string",
+                                                "description": "An optional string specifying a file with the command line syntax for --tests-information."
+                                            }
+                                        ]
+                                    },
+                                    "useUnion": {
+                                        "type": "boolean",
+                                        "description": "An optional bool. Equivalent to passing --union on the command line."
+                                    }
+                                },
+                                "additionalProperties": false
+                            },
+                            "exclude": {
+                                "type": "object",
+                                "description": "An optional object specifying which tests to exclude.",
+                                "properties": {
+                                    "name": {
+                                        "type": "string",
+                                        "description": "An optional string specifying a regex for test names. Equivalent to passing --exclude-regex on the command line."
+                                    },
+                                    "label": {
+                                        "type": "string",
+                                        "description": "An optional string specifying a regex for test labels. Equivalent to passing --label-exclude on the command line."
+                                    },
+                                    "fixtures": {
+                                        "type": "object",
+                                        "description": "An optional object specifying which fixtures to exclude from adding tests.",
+                                        "properties": {
+                                            "any": {
+                                                "type": "string",
+                                                "description": "An optional string specifying a regex for text fixtures to exclude from adding any tests. Equivalent to --fixture-exclude-any on the command line."
+                                            },
+                                            "setup": {
+                                                "type": "string",
+                                                "description": "An optional string specifying a regex for text fixtures to exclude from adding setup tests. Equivalent to --fixture-exclude-setup on the command line."
+                                            },
+                                            "cleanup": {
+                                                "type": "string",
+                                                "description": "An optional string specifying a regex for text fixtures to exclude from adding cleanup tests. Equivalent to --fixture-exclude-cleanup on the command line."
+                                            }
+                                        },
+                                        "additionalProperties": false
+                                    }
+                                }
+                            }
+                        },
+                        "additionalProperties": false
+                    },
+                    "execution": {
+                        "type": "object",
+                        "description": "An optional object specifying options for test execution.",
+                        "properties": {
+                            "stopOnFailure": {
+                                "type": "boolean",
+                                "description": "An optional bool. If true, equivalent to passing --stop-on-failure on the command line."
+                            },
+                            "enableFailover": {
+                                "type": "boolean",
+                                "description": "An optional bool. If true, equivalent to passing -F on the command line."
+                            },
+                            "jobs": {
+                                "type": "integer",
+                                "description": "An optional integer. Equivalent to passing --parallel on the command line."
+                            },
+                            "resourceSpecFile": {
+                                "type": "string",
+                                "description": "An optional string. Equivalent to passing --resource-spec-file on the command line."
+                            },
+                            "testLoad": {
+                                "type": "integer",
+                                "description": "An optional integer. Equivalent to passing --test-load on the command line."
+                            },
+                            "showOnly": {
+                                "type": "string",
+                                "description": "An optional string. Equivalent to passing --show-only on the command line. Value must be \"human\" or \"json-v1\".",
+                                "enum": [
+                                    "human",
+                                    "json-v1"
+                                ]
+                            },
+                            "repeat": {
+                                "type": "object",
+                                "description": "An optional object specifying how to repeat tests. Equivalent to passing --repeat on the command line.",
+                                "properties": {
+                                    "mode": {
+                                        "type": "string",
+                                        "description": "A required string. Must be one of the following values: \"until-fail\", \"until-pass\", or \"after-timeout\".",
+                                        "enum": [
+                                            "until-fail",
+                                            "until-pass",
+                                            "after-timeout"
+                                        ]
+                                    },
+                                    "count": {
+                                        "type": "integer",
+                                        "description": "A required integer."
+                                    }
+                                },
+                                "required": [
+                                    "mode",
+                                    "count"
+                                ],
+                                "additionalProperties": false
+                            },
+                            "interactiveDebugging": {
+                                "type": "boolean",
+                                "description": "An optional bool. If true, equivalent to passing --interactive-debug-mode 1 on the command line. If false, equivalent to passing --interactive-debug-mode 0 on the command line."
+                            },
+                            "scheduleRandom": {
+                                "type": "boolean",
+                                "description": "An optional bool. If true, equivalent to passing --schedule-random on the command line."
+                            },
+                            "timeout": {
+                                "type": "integer",
+                                "description": "An optional integer. Equivalent to passing --timeout on the command line."
+                            },
+                            "noTestsAction": {
+                                "type": "string",
+                                "description": "An optional string specifying the behavior if no tests are found. Must be one of the following values: \"default\" (equivalent to not passing any value on the command line), \"error\" (equivalent to passing --no-tests=error on the command line), or \"ignore\" (equivalent to passing --no-tests-ignore on the command line).",
+                                "enum": [
+                                    "default",
+                                    "error",
+                                    "ignore"
+                                ]
+                            }
+                        },
+                        "additionalProperties": false
+                    }
+                },
+                "required": [
+                    "name"
+                ],
+                "additionalProperties": false
+            }
+        },
+        "vendor": {
+            "type": "object",
+            "description": "An optional map containing vendor-specific information. CMake does not interpret the contents of this field except to verify that it is a map if it does exist. However, the keys should be a vendor-specific domain name followed by a /-separated path. For example, the Example IDE 1.0 could use example.com/ExampleIDE/1.0. The value of each field can be anything desired by the vendor, though will typically be a map.",
+            "properties": {}
+        }
+    },
+    "additionalProperties": false
+}

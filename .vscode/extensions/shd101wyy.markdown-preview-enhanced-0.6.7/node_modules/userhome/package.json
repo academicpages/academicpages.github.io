@@ -1,0 +1,40 @@
+{
+  "name": "userhome",
+  "description": "A cross-platform path to the user's home",
+  "version": "1.0.0",
+  "homepage": "https://github.com/shama/userhome",
+  "author": {
+    "name": "Kyle Robinson Young",
+    "email": "kyle@dontkry.com",
+    "url": "http://dontkry.com"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shama/userhome.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shama/userhome/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/shama/userhome/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "keywords": [
+    "userhome",
+    "user",
+    "home",
+    "homedir",
+    "path"
+  ],
+  "devDependencies": {
+    "tape": "^3.0.0"
+  }
+}

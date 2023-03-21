@@ -1,0 +1,1356 @@
+{
+	"type": "object",
+	"description": "As predefinições especificam o gerador e o diretório de build e, opcionalmente, uma lista de variáveis e outros argumentos para passar para o CMake.",
+	"required": [
+		"version"
+	],
+	"properties": {
+		"version": {
+			"type": "integer",
+			"description": "Um inteiro necessário que representa a versão do esquema JSON."
+		},
+		"cmakeMinimumRequired": {
+			"type": "object",
+			"description": "Um objeto opcional que representa a versão mínima do CMake necessária para compilar este projeto.",
+			"properties": {
+				"major": {
+					"type": "integer",
+					"description": "Um inteiro opcional representando a versão principal."
+				},
+				"minor": {
+					"type": "integer",
+					"description": "Um inteiro opcional representando a versão secundária."
+				},
+				"patch": {
+					"type": "integer",
+					"description": "Um inteiro opcional representando a versão do patch."
+				}
+			},
+			"additionalProperties": false
+		},
+		"configurePresets": {
+			"type": "array",
+			"description": "Uma matriz opcional de objetos de predefinição de configuração.",
+			"items": {
+				"type": "object",
+				"description": "Um objeto de predefinição de configuração.",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Uma cadeia de caracteres necessária que representa o nome amigável para computador da predefinição. Esse identificador é usado no argumento --preset. Não deve haver duas predefinições na união de CMakePresets.json e CMakeUserPresets.json no mesmo diretório com o mesmo nome.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Um booliano opcional que especifica se uma predefinição deve estar oculta ou não. Quando uma predefinição estiver oculta, ela não poderá ser usada no argumento --preset=, não será exibida na GUI do CMake e não precisará ter um gerador ou um binaryDir válido, mesmo que seja de herança. As predefinições ocultas devem ser usadas como base para outras predefinições a serem herdadas por meio do campo inherits."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Uma cadeia de caracteres opcional que representa o nome da predefinição da qual herdar.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Uma matriz opcional de cadeias de caracteres que representam os nomes de predefinições a serem herdadas. A predefinição herdará todos os campos das predefinições inherits por padrão (exceto name, hidden, inherits, description e displayName), mas poderá substituí-los conforme o desejado. Se várias predefinições inherits fornecerem valores conflitantes para o mesmo campo, a predefinição mais antiga na lista de inherits será preferida. As predefinições em CMakePresets.json não podem herdar as predefinições em CMakeUserPresets.json.",
+								"items": {
+									"type": "string",
+									"description": "Uma cadeia de caracteres opcional que representa o nome da predefinição da qual herdar.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Um mapa opcional que contém informações específicas do fornecedor. O CMake não interpreta o conteúdo deste campo exceto para verificar se ele é um mapa, caso exista. No entanto, as chaves devem ser um nome de domínio específico do fornecedor seguido por um caminho separado por uma /. Por exemplo, o IDE de Exemplo 1.0 pode usar example.com/ExampleIDE/1.0. O valor de cada campo pode ser qualquer item desejado pelo fornecedor, embora normalmente seja um mapa.",
+						"properties": {
+							"microsoft.com/VisualStudioSettings/CMake/1.0": {
+								"type": "object",
+								"description": "Um objeto opcional que representa o objeto do fornecedor de Configurações do Visual Studio",
+								"properties": {
+									"hostOS": {
+										"anyOf": [
+											{
+												"type": "string",
+												"description": "Uma cadeia de caracteres opcional que representa o nome do hostOS. Os valores aceitos são Windows, Linux e macOS.",
+												"enum": [
+													"Windows",
+													"Linux",
+													"macOS"
+												]
+											},
+											{
+												"type": "array",
+												"description": "Uma matriz de sistemas operacionais de host com suporte. Esta chave é usada pelo Visual Studio e pelo Visual Studio Code para ocultar as predefinições que não se aplicam ao sistema de destino ativo nem ao sistema operacional do host. Os valores aceitos são Windows, Linux e macOS.",
+												"items": {
+													"type": "string",
+													"description": "Uma cadeia de caracteres opcional que representa o nome do hostOS. Os valores aceitos são Windows, Linux e macOS.",
+													"enum": [
+														"Windows",
+														"Linux",
+														"macOS"
+													]
+												}
+											}
+										]
+									},
+									"intelliSenseMode": {
+										"type": "string",
+										"description": "Uma chave opcional que indica o modo preferencial do IntelliSense. O modo usado para a computação de informações do IntelliSense no Visual Studio e no Visual Studio Code.",
+										"enum": [
+											"windows-msvc-x86",
+											"windows-msvc-x64",
+											"windows-msvc-arm",
+											"windows-msvc-arm64",
+											"android-clang-x86",
+											"android-clang-x64",
+											"android-clang-arm",
+											"android-clang-arm64",
+											"ios-clang-x86",
+											"ios-clang-x64",
+											"ios-clang-arm",
+											"ios-clang-arm64",
+											"windows-clang-x86",
+											"windows-clang-x64",
+											"windows-clang-arm",
+											"windows-clang-arm64",
+											"linux-gcc-x86",
+											"linux-gcc-x64",
+											"linux-gcc-arm"
+										]
+									},
+									"intelliSenseOptions": {
+										"type": "object",
+										"description": "Um objeto opcional usado para definir as configurações avançadas do IntelliSense.",
+										"properties": {
+											"useCompilerDefaults": {
+												"type": "boolean",
+												"default": true,
+												"description": "Especifica se as definições e os caminhos de inclusão padrão do compilador devem ser usados para o IntelliSense. Deve ser false somente quando os compiladores em uso não dão suporte a argumentos do estilo GCC."
+											},
+											"additionalCompilerArgs": {
+												"anyOf": [
+													{
+														"type": "string",
+														"default": "empty"
+													},
+													{
+														"type": "array",
+														"description": "Uma matriz de opções adicionais para controlar o IntelliSense no Visual Studio.",
+														"items": {
+															"type": "string"
+														}
+													}
+												]
+											}
+										}
+									},
+									"enableMicrosoftCodeAnalysis": {
+										"type": "boolean",
+										"description": "Habilitar a análise de código da Microsoft no Visual Studio ao fazer o build com cl ou clang-cl."
+									},
+									"codeAnalysisRuleset": {
+										"type": "string",
+										"description": "O conjunto de regras a ser usado ao executar a análise de código da Microsoft no Visual Studio. Ele pode ser um caminho para um arquivo de conjunto de regras ou o nome de um arquivo de conjunto de regras instalado com o Visual Studio."
+									},
+									"enableClangTidyCodeAnalysis": {
+										"type": "boolean",
+										"description": "Habilitar a análise de código do clang-tidy no Visual Studio ao fazer o build com clang-tidy."
+									},
+									"clangTidyChecks": {
+										"type": "string",
+										"description": "Lista separada por vírgula de avisos passados ao clang-tidy ao executar a análise de código do clang-tidy no Visual Studio. Os curingas são permitidos e o prefixo ‘-‘ removerá as verificações."
+									},
+									"cacheRoot": {
+										"type": "string",
+										"description": "O caminho para um cache do CMake. Esse diretório deve conter um arquivo CMakeCache.txt existente. Só há suporte para esta chave no cenário \"Abrir o Cache Existente\" no Visual Studio."
+									},
+									"cmakeGenerateCommand": {
+										"type": "string",
+										"description": "Uma ferramenta de linha de comando (especificada como um programa de linha de comando + argumentos, por exemplo, \"gencache.bat debug\") para gerar o cache do CMake. Este comando será executado usando o shell no ambiente especificado da predefinição quando a geração de cache for invocada. Só há suporte para esta chave no cenário \"Abrir o Cache Existente\" no Visual Studio."
+									}
+								}
+							},
+							"microsoft.com/VisualStudioRemoteSettings/CMake/1.0": {
+								"type": "object",
+								"description": "Um objeto opcional que representa o objeto do fornecedor de Configurações Remotas do Visual Studio",
+								"properties": {
+									"sourceDir": {
+										"type": "string",
+										"default": "$env{HOME}/.vs/${sourceDirName}",
+										"description": "Caminho para o diretório no sistema remoto ou na instalação do WSL2 na qual o projeto será copiado."
+									},
+									"copySources": {
+										"type": "boolean",
+										"default": "true",
+										"description": "Quando esta opção for true, o Visual Studio copiará as fontes do Windows para o sistema remoto. Defina como false para gerenciar a sincronização do arquivo você mesmo."
+									},
+									"copySourcesOptions": {
+										"type": "object",
+										"description": "Um objeto de configurações relacionadas à cópia de origem do Windows para o sistema remoto.",
+										"properties": {
+											"exclusionList": {
+												"type": "array",
+												"default": "[ \".vs\", \".git\", \"out\"]",
+												"description": "Uma lista de caminhos a serem excluídos ao copiar arquivos de origem para o sistema remoto. Um caminho pode ser o nome de arquivo ou diretório ou um caminho relativo à raiz da cópia.",
+												"items": {
+													"type": "string"
+												}
+											},
+											"method": {
+												"type": "string",
+												"default": "rsync",
+												"description": "O método usado para copiar arquivos de origem para o sistema remoto. Os valores aceitos são rsync e sftp."
+											},
+											"concurrentCopies": {
+												"type": "integer",
+												"default": 5,
+												"description": "O número de cópias simultâneas usadas durante a sincronização de fontes com o sistema remoto."
+											},
+											"outputVerbosity": {
+												"type": "string",
+												"default": "Normal",
+												"description": "O nível de detalhamento das operações de cópia de origem para o sistema remoto. Os níveis aceitos são Normal, Verbose e Diagnostic.",
+												"enum": [
+													"Normal",
+													"Verbose",
+													"Diagnostic"
+												]
+											}
+										}
+									},
+									"rsyncCommandArgs": {
+										"type": "array",
+										"default": "[\"-t\", \"--delete\", \"--delete-excluded\"]",
+										"description": "Uma lista de argumentos de linha de comando adicionais passados ao rsync.",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyBuildOutput": {
+										"type": "boolean",
+										"default": false,
+										"description": "Especifica se o arquivo de saída do build deve ser copiado do sistema remoto para o Windows."
+									},
+									"copyOptimizations": {
+										"type": "object",
+										"description": "Um objeto de configurações relacionadas a otimizações de cópia de origem.",
+										"properties": {
+											"maxSmallChange": {
+												"type": "integer",
+												"default": 10,
+												"description": "O número máximo de arquivos a serem copiados usando o SFTP em vez do rsync."
+											},
+											"useOptimizations": {
+												"type": "string",
+												"default": "RsyncAndSftp",
+												"description": "Selecione nenhuma otimização de cópia (\"None\"), somente otimizações do rsync (\"RsyncOnly\") ou otimizações do rsync e do SFTP (\"RsyncAndSftp\").",
+												"enum": [
+													"None",
+													"RsyncOnly",
+													"RsyncAndSftp"
+												]
+											},
+											"rsyncSingleDirectoryCommandArgs": {
+												"type": "array",
+												"default": "[\"-t\", \"-d\"]",
+												"description": "Uma lista de argumentos de linha de comando adicionais passados ao rsync ao copiar o conteúdo de um diretório para o sistema remoto.",
+												"items": {
+													"type": "string"
+												}
+											}
+										}
+									},
+									"copyAdditionalIncludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "Uma lista de caminhos para os diretórios de cabeçalho remotos a serem copiados localmente para o IntelliSense.",
+										"items": {
+											"type": "string"
+										}
+									},
+									"copyExcludeDirectoriesList": {
+										"type": "array",
+										"default": "[]",
+										"description": "Uma lista de caminhos para os diretórios de cabeçalho remotos que não devem ser copiados localmente para o IntelliSense.",
+										"items": {
+											"type": "string"
+										}
+									},
+									"forceWSL1Toolset": {
+										"type": "boolean",
+										"default": false,
+										"description": "Quando esta opção for true, o Visual Studio sempre usará o conjunto de ferramentas do WSL1 ao fazer o direcionamento para o WSL por meio do Visual Studio. O conjunto de ferramentas do WSL1 executa todos os comandos localmente e depende de unidades do Windows montadas na pasta /mnt para acessar os arquivos de origem local do WSL. Essas operações podem ser mais lentas com o WSL2."
+									}
+								}
+							}
+						}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Uma cadeia de caracteres opcional com um nome amigável da predefinição."
+					},
+					"description": {
+						"type": "string",
+						"description": "Uma cadeia de caracteres opcional com uma descrição amigável da predefinição."
+					},
+					"generator": {
+						"type": "string",
+						"description": "Uma cadeia de caracteres opcional que representa o gerador a ser usado para a predefinição. Se o gerador não for especificado, precisará ser herdado da predefinição de herança (a menos que essa predefinição esteja oculta). Observe que para geradores do Visual Studio, ao contrário do argumento de linha de comando -G, não é possível incluir o nome da plataforma no nome do gerador. Em vez disso, use o campo de arquitetura."
+					},
+					"architecture": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Uma cadeia de caracteres opcional que representa a plataforma dos geradores que dão suporte a ela."
+							},
+							{
+								"type": "object",
+								"description": "Um objeto opcional que representa a plataforma dos geradores que dão suporte a ela.",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "Uma cadeia de caracteres opcional que representa o valor."
+									},
+									"strategy": {
+										"type": "string",
+										"description": "Uma cadeia de caracteres opcional que informa ao CMake como processar o campo. Os valores válidos são: \"set\" para definir o respectivo valor, o que resultará em um erro para os geradores que não dão suporte ao respectivo campo. \"external\" para não definir o valor, mesmo quando o gerador dá suporte a ele. Esta opção é útil quando, por exemplo, uma predefinição usa o gerador Ninja e um IDE sabe como configurar o ambiente do Visual C++ usando os campos architecture e toolset. Nesse caso, o CMake vai ignorar o campo, mas o IDE poderá usá-lo para configurar o ambiente antes de invocar o CMake.",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"toolset": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Uma cadeia de caracteres opcional que representa o conjunto de ferramentas dos geradores que dão suporte a ele."
+							},
+							{
+								"type": "object",
+								"description": "Um objeto opcional que representa o conjunto de ferramentas dos geradores que dão suporte a ele.",
+								"properties": {
+									"value": {
+										"type": "string",
+										"description": "Uma cadeia de caracteres opcional que representa o valor."
+									},
+									"strategy": {
+										"type": "string",
+										"description": "Uma cadeia de caracteres opcional que informa ao CMake como processar o campo. Os valores válidos são: \"set\" para definir o respectivo valor, o que resultará em um erro para os geradores que não dão suporte ao respectivo campo. \"external\" para não definir o valor, mesmo quando o gerador dá suporte a ele. Esta opção é útil quando, por exemplo, uma predefinição usa o gerador Ninja e um IDE sabe como configurar o ambiente do Visual C++ usando os campos architecture e toolset. Nesse caso, o CMake vai ignorar o campo, mas o IDE poderá usá-lo para configurar o ambiente antes de invocar o CMake.",
+										"enum": [
+											"set",
+											"external"
+										]
+									}
+								},
+								"additionalProperties": false
+							}
+						]
+					},
+					"binaryDir": {
+						"type": "string",
+						"description": "Uma cadeia de caracteres opcional que representa o caminho para o diretório binário de saída. Este campo dá suporte à expansão de macro. Se um caminho relativo for especificado, será calculado com relação ao diretório de origem. Se binaryDir não for especificado, precisará ser herdado da predefinição de herança (a menos que essa predefinição esteja oculta)."
+					},
+					"cmakeExecutable": {
+						"type": "string",
+						"description": "Uma cadeia de caracteres opcional que representa o caminho para o executável CMake a ser usado para esta predefinição. Isso é reservado para o uso de IDEs e não é usado pelo próprio CMake. Os IDEs que usam este campo devem expandir qualquer macro nele."
+					},
+					"cacheVariables": {
+						"type": "object",
+						"description": "Um mapa opcional das variáveis de cache. A chave é o nome da variável (que não deve ser uma cadeia de caracteres vazia). As variáveis de cache são herdadas por meio do campo de herança, e as variáveis da predefinição serão a união do respectivo cacheVariables e os cacheVariables de todos os pais. Se várias predefinições nessa união definirem a mesma variável, as regras padrão de herança serão aplicadas.",
+						"properties": {
+							"CMAKE_C_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "O compilador a ser usado para o C."
+									},
+									{
+										"type": "null",
+										"description": "Definir uma variável como nula faz com que ela não seja definida, mesmo que um valor tenha sido herdado de outra predefinição."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_CXX_COMPILER": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "O compilador a ser usado para o C++."
+									},
+									{
+										"type": "null",
+										"description": "Definir uma variável como nula faz com que ela não seja definida, mesmo que um valor tenha sido herdado de outra predefinição."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_INSTALL_PREFIX": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "Diretório de instalação usado pelo CMake. Use a propriedade \"installDir\" ao usar predefinições de versão 3 ou superior."
+									},
+									{
+										"type": "null",
+										"description": "Definir uma variável como nula faz com que ela não seja definida, mesmo que um valor tenha sido herdado de outra predefinição."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_TOOLCHAIN_FILE": {
+								"anyOf": [
+									{
+										"type": "string",
+										"description": "O arquivo cadeia de ferramentas passado para CMake. Use a propriedade \"toolchainFile\" ao usar predefinições de versão 3 ou superior."
+									},
+									{
+										"type": "null",
+										"description": "Definir uma variável como nula faz com que ela não seja definida, mesmo que um valor tenha sido herdado de outra predefinição."
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									}
+								]
+							},
+							"CMAKE_BUILD_TYPE": {
+								"description": "Especifica o tipo de build nos geradores de configuração única.",
+								"anyOf": [
+									{
+										"type": "string",
+										"enum": [
+											"Debug",
+											"Release",
+											"RelWithDebInfo",
+											"MinSizeRel"
+										]
+									},
+									{
+										"type": "object",
+										"properties": {
+											"type": {
+												"type": "string"
+											},
+											"value": {
+												"type": "string"
+											}
+										},
+										"additionalProperties": false
+									},
+									{
+										"type": "string"
+									},
+									{
+										"type": "null",
+										"description": "Definir uma variável como nula faz com que ela não seja definida, mesmo que um valor tenha sido herdado de outra predefinição."
+									}
+								]
+							}
+						},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Definir uma variável como nula faz com que ela não seja definida, mesmo que um valor tenha sido herdado de outra predefinição."
+								},
+								{
+									"type": "boolean",
+									"description": "Um booliano que representa o valor da variável. Equivalente a \"TRUE\" ou \"FALSE\"."
+								},
+								{
+									"type": "string",
+									"description": "Uma cadeia de caracteres que representa o valor da variável (que dá suporte à expansão de macro)."
+								},
+								{
+									"type": "object",
+									"description": "Um objeto que representa o tipo e o valor da variável.",
+									"properties": {
+										"type": {
+											"type": "string",
+											"description": "Uma cadeia de caracteres opcional que representa o tipo da variável. Ela deve ser BOOL, FILEPATH, PATH, STRING ou INTERNAL."
+										},
+										"value": {
+											"anyOf": [
+												{
+													"type": "boolean",
+													"description": "Um booliano necessário que representa o valor da variável. Equivalente a \"TRUE\" ou \"FALSE\"."
+												},
+												{
+													"type": "string",
+													"description": "Uma cadeia de caracteres necessária que representa o valor da variável. Este campo dá suporte à expansão de macro."
+												}
+											]
+										}
+									},
+									"required": [
+										"value"
+									],
+									"additionalProperties": false
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"environment": {
+						"type": "object",
+						"description": "Um mapa opcional de variáveis de ambiente. A chave é o nome da variável (que não deve ser uma cadeia de caracteres vazia). Cada variável é definida independentemente de um valor ter sido dado a ela pelo ambiente do processo. Este campo dá suporte à expansão de macro, e as variáveis de ambiente neste mapa podem referenciar umas às outras e podem ser listadas em qualquer ordem, desde que tais referências não causem um ciclo (por exemplo, se ENV_1 é $env{ENV_2}, ENV_2 não pode ser $env{ENV_1}). As variáveis de ambiente são herdadas por meio do campo de herança, e o ambiente da predefinição será a união do respectivo ambiente com os ambiente de todos os pais. Se várias predefinições nessa união definirem a mesma variável, as regras padrão de herança serão aplicadas. Definir uma variável como nula faz com que ela não seja definida, mesmo que um valor tenha sido herdado de outra predefinição.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Definir uma variável como nula faz com que ela não seja definida, mesmo que um valor tenha sido herdado de outra predefinição."
+								},
+								{
+									"type": "string",
+									"description": "Uma cadeia de caracteres que representa o valor da variável."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"warnings": {
+						"type": "object",
+						"description": "Um objeto opcional que especifica os avisos.",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "Um booliano opcional. Equivalente a passar -Wdev ou -Wno-dev na linha de comando. Isso não poderá ser definido como false se errors.dev for definido como true."
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "Um booliano opcional. Equivalente a passar -Wdeprecated ou -Wno-deprecated na linha de comando. Isso não poderá ser definido como false se errors.deprecated for definido como true."
+							},
+							"uninitialized": {
+								"type": "boolean",
+								"description": "Um booliano opcional. Defini-lo como true é equivalente a passar --warn-uninitialized na linha de comando."
+							},
+							"unusedCli": {
+								"type": "boolean",
+								"description": "Um booliano opcional. Defini-lo como false equivale a passar --no-warn-unused-cli na linha de comando."
+							},
+							"systemVars": {
+								"type": "boolean",
+								"description": "Um booliano opcional. Defini-lo como true é equivalente a passar --check-system-vars na linha de comando."
+							}
+						},
+						"additionalProperties": false
+					},
+					"errors": {
+						"type": "object",
+						"description": "Um objeto opcional que especifica os erros.",
+						"properties": {
+							"dev": {
+								"type": "boolean",
+								"description": "Um booliano opcional. Equivalente a passar -Werror=dev ou -Wno-error=dev na linha de comando. Isso não poderá ser definido como true se warnings.dev estiver definido como false."
+							},
+							"deprecated": {
+								"type": "boolean",
+								"description": "Um booliano opcional. Equivalente a passar -Werror=deprecated ou -Wno-error=deprecated na linha de comando. Isso não poderá ser definido como true se warnings.deprecated for definido como false."
+							}
+						},
+						"additionalProperties": false
+					},
+					"debug": {
+						"type": "object",
+						"description": "Um objeto opcional que especifica as opções de depuração.",
+						"properties": {
+							"output": {
+								"type": "boolean",
+								"description": "Um booliano opcional. Defini-lo como true é equivalente a passar --debug-output na linha de comando."
+							},
+							"tryCompile": {
+								"type": "boolean",
+								"description": "Um booliano opcional. Defini-lo como true é equivalente a passar --debug-trycompile na linha de comando."
+							},
+							"find": {
+								"type": "boolean",
+								"description": "Um booliano opcional. Defini-lo como true é equivalente a passar --debug-find na linha de comando."
+							}
+						},
+						"additionalProperties": false
+					},
+					"installDir": {
+						"type": "string",
+						"description": "Uma cadeia de caracteres opcional que representa o caminho para o diretório de instalação. Este campo dá suporte à expansão de macro. Se um caminho relativo for especificado, ele será calculado em relação ao diretório de origem. Com suporte na versão 3."
+					},
+					"toolchainFile": {
+						"type": "string",
+						"description": "Uma cadeia de caracteres opcional representando o caminho para o arquivo cadeia de ferramentas. Este campo suporta expansão de macro. Se um caminho relativo for especificado, será calculado com relação ao diretório de compilação e, se não for encontrado, em relação ao diretório de origem. Com suporte na versão 3."
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"buildPresets": {
+			"type": "array",
+			"description": "Uma matriz opcional de objetos de predefinição de build. Usada para especificar argumentos para cmake --build. Disponível na versão 2 e superiores.",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Uma cadeia de caracteres necessária que representa o nome da predefinição amigável para computadores. Esse identificador é usado no argumento --preset. Não pode haver duas predefinições (configuração, build ou teste) na união de CMakePresets.json e CMakeUserPresets.json no mesmo diretório com o mesmo nome.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Um booliano opcional que especifica se uma predefinição deve ser oculta ou não. Quando uma predefinição está oculta, ela não pode ser usada no argumento --preset, não é exibida na GUI do CMake e não precisa ter um configurePreset válido, mesmo que seja de herança. As predefinições ocultas devem ser usadas como base para a herança de outras predefinições por meio do campo inherits."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Uma cadeia de caracteres opcional que representa o nome da predefinição de build a ser herdada.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Uma matriz opcional de cadeias de caracteres que representam os nomes das predefinições de build a serem herdadas. A predefinição herdará todos os campos das predefinições inherits por padrão (exceto name, hidden, inherits, description e displayName), mas poderá substituí-los conforme o desejado. Se várias predefinições inherits fornecerem valores conflitantes para o mesmo campo, a predefinição mais antiga na lista de inherits será preferida. As predefinições em CMakePresets.json não podem herdar as predefinições em CMakeUserPresets.json.",
+								"items": {
+									"type": "string",
+									"description": "Uma cadeia de caracteres opcional que representa o nome da predefinição da qual herdar.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "Uma cadeia de caracteres opcional que especifica o nome de uma predefinição de configuração a ser associada a esta predefinição de build. Quando configurePreset não é especificado, ele precisa ser herdado da predefinição inherits (a menos que essa predefinição esteja oculta). O diretório de build da árvore é inferido da predefinição de configuração.",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Um mapa opcional que contém informações específicas do fornecedor. O CMake não interpreta o conteúdo deste campo exceto para verificar se ele é um mapa, caso exista. No entanto, ele deve seguir as mesmas convenções do campo de fornecedor do nível raiz. Se os fornecedores usarem o respectivo campo de fornecedor por predefinição, deverão implementar a herança de maneira adequada quando apropriado.",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Uma cadeia de caracteres opcional com um nome amigável da predefinição."
+					},
+					"description": {
+						"type": "string",
+						"description": "Uma cadeia de caracteres opcional com uma descrição amigável da predefinição."
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "Um Booliano opcional que é true por padrão. Quando é true, as variáveis de ambiente da predefinição de configuração associada são herdadas depois de todos os ambientes de predefinição de build herdados, mas antes das variáveis de ambiente especificadas explicitamente nessa predefinição de build."
+					},
+					"environment": {
+						"type": "object",
+						"description": "Um mapa opcional de variáveis de ambiente. A chave é o nome da variável (que não deve ser uma cadeia de caracteres vazia). Cada variável é definida independentemente de um valor ter sido dado a ela pelo ambiente do processo. Este campo dá suporte à expansão de macro, e as variáveis de ambiente neste mapa podem referenciar umas às outras e podem ser listadas em qualquer ordem, desde que tais referências não causem um ciclo (por exemplo, se ENV_1 é $env{ENV_2}, ENV_2 não pode ser $env{ENV_1}). As variáveis de ambiente são herdadas por meio do campo de herança, e o ambiente da predefinição será a união do respectivo ambiente com os ambiente de todos os pais. Se várias predefinições nessa união definirem a mesma variável, as regras padrão de herança serão aplicadas. Definir uma variável como nula faz com que ela não seja definida, mesmo que um valor tenha sido herdado de outra predefinição.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Definir uma variável como nula faz com que ela não seja definida, mesmo que um valor tenha sido herdado de outra predefinição."
+								},
+								{
+									"type": "string",
+									"description": "Uma cadeia de caracteres que representa o valor da variável."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"jobs": {
+						"type": "integer",
+						"description": "Um inteiro opcional. Equivalente a passar --parallel ou -j na linha de comando."
+					},
+					"targets": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Uma cadeia de caracteres opcional. Equivalente a passar --target ou -t na linha de comando. Os fornecedores podem ignorar a propriedade targets ou ocultar as predefinições de build que especificam destinos explicitamente."
+							},
+							{
+								"type": "array",
+								"description": "Uma matriz opcional de cadeias de caracteres. Equivalente a passar --target ou -t na linha de comando. Os fornecedores podem ignorar a propriedade targets ou ocultar as predefinições de build que especificam destinos explicitamente.",
+								"items": {
+									"type": "string",
+									"description": "Uma cadeia de caracteres opcional. Equivalente a passar --target ou -t na linha de comando. Os fornecedores podem ignorar a propriedade targets ou ocultar as predefinições de build que especificam destinos explicitamente."
+								}
+							}
+						]
+					},
+					"configuration": {
+						"type": "string",
+						"description": "Uma cadeia de caracteres opcional. Equivalente a passar --config na linha de comando."
+					},
+					"cleanFirst": {
+						"type": "boolean",
+						"description": "Um booliano opcional. Quando é true, equivale a passar --clean-first na linha de comando."
+					},
+					"verbose": {
+						"type": "boolean",
+						"description": "Um booliano opcional. Quando é true, equivale a passar --verbose na linha de comando."
+					},
+					"nativeToolOptions": {
+						"type": "array",
+						"description": "Uma matriz opcional de cadeias de caracteres. Equivalente a passar as opções após -- na linha de comando.",
+						"items": {
+							"type": "string",
+							"description": "Uma cadeia de caracteres opcional que representa uma opção a ser passada após -- na linha de comando."
+						}
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"testPresets": {
+			"type": "array",
+			"description": "Uma matriz opcional de objetos de predefinição de teste. Usada para especificar argumentos para o CTest. Disponível na versão 2 e superiores.",
+			"items": {
+				"type": "object",
+				"properties": {
+					"name": {
+						"type": "string",
+						"description": "Uma cadeia de caracteres necessária que representa o nome da predefinição amigável para computadores. Esse identificador é usado no argumento --preset. Não pode haver duas predefinições (configuração, build ou teste) na união de CMakePresets.json e CMakeUserPresets.json no mesmo diretório com o mesmo nome.",
+						"minLength": 1
+					},
+					"hidden": {
+						"type": "boolean",
+						"description": "Um booliano opcional que especifica se uma predefinição deve ser oculta ou não. Quando uma predefinição está oculta, ela não pode ser usada no argumento --preset, não é exibida na GUI do CMake e não precisa ter um configurePreset válido, mesmo que seja de herança. As predefinições ocultas devem ser usadas como base para a herança de outras predefinições por meio do campo inherits."
+					},
+					"inherits": {
+						"anyOf": [
+							{
+								"type": "string",
+								"description": "Uma cadeia de caracteres opcional que representa o nome da predefinição de teste a ser herdada.",
+								"minLength": 1
+							},
+							{
+								"type": "array",
+								"description": "Uma matriz opcional de cadeias de caracteres que representam os nomes das predefinições de teste a serem herdadas. A predefinição herdará todos os campos das predefinições inherits por padrão (exceto name, hidden, inherits, description e displayName), mas poderá substituí-los conforme o desejado. Se várias predefinições inherits fornecerem valores conflitantes para o mesmo campo, a predefinição mais antiga na lista de inherits será preferida. As predefinições em CMakePresets.json não podem herdar de predefinições em CMakeUserPresets.json.",
+								"items": {
+									"type": "string",
+									"description": "Uma cadeia de caracteres opcional que representa o nome da predefinição da qual herdar.",
+									"minLength": 1
+								}
+							}
+						]
+					},
+					"configurePreset": {
+						"type": "string",
+						"description": "Uma cadeia de caracteres opcional que especifica o nome de uma predefinição de configuração a ser associada a esta predefinição de teste. Se configurePreset não for especificado, ele precisará ser herdado da predefinição inherits (a menos que essa predefinição esteja oculta). O diretório de build da árvore é inferido da predefinição de configuração.",
+						"minLength": 1
+					},
+					"vendor": {
+						"type": "object",
+						"description": "Um mapa opcional que contém informações específicas do fornecedor. O CMake não interpreta o conteúdo deste campo exceto para verificar se ele é um mapa, caso exista. No entanto, ele deve seguir as mesmas convenções do campo de fornecedor do nível raiz. Se os fornecedores usarem o respectivo campo de fornecedor por predefinição, deverão implementar a herança de maneira adequada quando apropriado.",
+						"properties": {}
+					},
+					"displayName": {
+						"type": "string",
+						"description": "Uma cadeia de caracteres opcional com um nome amigável da predefinição."
+					},
+					"description": {
+						"type": "string",
+						"description": "Uma cadeia de caracteres opcional com uma descrição amigável da predefinição."
+					},
+					"inheritConfigureEnvironment": {
+						"type": "boolean",
+						"description": "Um Booliano opcional que é true por padrão. Quando é true, as variáveis de ambiente da predefinição de configuração associada são herdadas depois de todos os ambientes de predefinição de teste herdados, mas antes das variáveis de ambiente especificadas explicitamente nessa predefinição de teste."
+					},
+					"environment": {
+						"type": "object",
+						"description": "Um mapa opcional de variáveis de ambiente. A chave é o nome da variável (que não deve ser uma cadeia de caracteres vazia). Cada variável é definida independentemente de um valor ter sido dado a ela pelo ambiente do processo. Este campo dá suporte à expansão de macro, e as variáveis de ambiente neste mapa podem referenciar umas às outras e podem ser listadas em qualquer ordem, desde que tais referências não causem um ciclo (por exemplo, se ENV_1 é $env{ENV_2}, ENV_2 não pode ser $env{ENV_1}). As variáveis de ambiente são herdadas por meio do campo de herança, e o ambiente da predefinição será a união do respectivo ambiente com os ambiente de todos os pais. Se várias predefinições nessa união definirem a mesma variável, as regras padrão de herança serão aplicadas. Definir uma variável como nula faz com que ela não seja definida, mesmo que um valor tenha sido herdado de outra predefinição.",
+						"properties": {},
+						"additionalProperties": {
+							"anyOf": [
+								{
+									"type": "null",
+									"description": "Definir uma variável como nula faz com que ela não seja definida, mesmo que um valor tenha sido herdado de outra predefinição."
+								},
+								{
+									"type": "string",
+									"description": "Uma cadeia de caracteres que representa o valor da variável."
+								}
+							]
+						},
+						"propertyNames": {
+							"pattern": "^.+$"
+						}
+					},
+					"configuration": {
+						"type": "string",
+						"description": "Uma cadeia de caracteres opcional. Equivalente a passar --build-config na linha de comando."
+					},
+					"overwriteConfigurationFile": {
+						"type": "array",
+						"description": "Uma matriz opcional de opções de configuração para substituir as opções especificadas no arquivo de configuração do CTest. Equivalente a passar ``--overwrite`` para cada valor na matriz.",
+						"items": {
+							"type": "string",
+							"description": "Uma opção escrita como um par chave-valor no formato \"chave=valor\"."
+						}
+					},
+					"output": {
+						"type": "object",
+						"description": "Um objeto opcional que especifica as opções de saída.",
+						"properties": {
+							"shortProgress": {
+								"type": "boolean",
+								"description": "Um booliano opcional. Quando é true, equivale a passar --progress na linha de comando."
+							},
+							"verbosity": {
+								"type": "string",
+								"description": "Uma cadeia de caracteres opcional que especifica o nível de detalhamento. Os valores válidos são \"default\" (equivalente a não passar nenhum sinalizador detalhado na linha de comando), \"verbose\" (equivalente a passar --verbose na linha de comando) e \"extra\" (equivalente a passar --extra-verbose na linha de comando).",
+								"enum": [
+									"default",
+									"verbose",
+									"extra"
+								]
+							},
+							"debug": {
+								"type": "boolean",
+								"description": "Um booliano opcional. Quando é true, equivale a passar --debug na linha de comando."
+							},
+							"outputOnFailure": {
+								"type": "boolean",
+								"description": "Um booliano opcional. Quando é true, equivale a passar --output-on-failure na linha de comando."
+							},
+							"quiet": {
+								"type": "boolean",
+								"description": "Um booliano opcional. Quando é true, equivale a passar --quiet na linha de comando."
+							},
+							"outputLogFile": {
+								"type": "string",
+								"description": "Uma cadeia de caracteres opcional que especifica um caminho para um arquivo de log. Equivalente a passar --output-log na linha de comando."
+							},
+							"labelSummary": {
+								"type": "boolean",
+								"description": "Um booliano opcional. Quando é false, equivale a passar --no-label-summary na linha de comando."
+							},
+							"subprojectSummary": {
+								"type": "boolean",
+								"description": "Um booliano opcional. Quando é false, equivale a passar --no-subproject-summary na linha de comando."
+							},
+							"maxPassedTestOutputSize": {
+								"type": "integer",
+								"description": "Um inteiro opcional que especifica o máximo de saída dos testes aprovados em bytes. Equivalente a passar --test-output-size-passed na linha de comando."
+							},
+							"maxFailedTestOutputSize": {
+								"type": "integer",
+								"description": "Um inteiro opcional que especifica o máximo de saída dos testes com falha em bytes. Equivalente a passar --test-output-size-failed na linha de comando."
+							},
+							"maxTestNameWidth": {
+								"type": "integer",
+								"description": "Um inteiro opcional que especifica a largura máxima de um nome de teste de saída. Equivalente a passar --max-width na linha de comando."
+							}
+						},
+						"additionalProperties": false
+					},
+					"filter": {
+						"type": "object",
+						"description": "Um objeto opcional que especifica como filtrar os testes a serem executados.",
+						"properties": {
+							"include": {
+								"type": "object",
+								"description": "Um objeto opcional que especifica quais testes devem ser incluídos.",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "Uma cadeia de caracteres opcional que especifica um regex de nomes de teste. Equivalente a passar --tests-regex na linha de comando."
+									},
+									"label": {
+										"type": "string",
+										"description": "Uma cadeia de caracteres opcional que especifica um regex de rótulos de teste. Equivalente a passar --label-regex na linha de comando."
+									},
+									"index": {
+										"anyOf": [
+											{
+												"type": "object",
+												"description": "Um objeto opcional que especifica os testes a serem incluídos por índice de teste.",
+												"properties": {
+													"start": {
+														"type": "integer",
+														"description": "Um inteiro opcional que especifica um índice de teste no qual o teste deve ser iniciado."
+													},
+													"end": {
+														"type": "integer",
+														"description": "Um inteiro opcional que especifica um índice de teste no qual o teste deve ser interrompido."
+													},
+													"stride": {
+														"type": "integer",
+														"description": "Um inteiro opcional que especifica o incremento."
+													},
+													"specificTests": {
+														"type": "array",
+														"description": "Uma matriz opcional de inteiros que especifica índices de teste a serem executados.",
+														"items": {
+															"type": "integer",
+															"description": "Um inteiro que especifica o teste a ser executado pelo índice."
+														}
+													}
+												},
+												"additionalProperties": false
+											},
+											{
+												"type": "string",
+												"description": "Uma cadeia de caracteres opcional que especifica um arquivo com a sintaxe de linha de comando para --tests-information."
+											}
+										]
+									},
+									"useUnion": {
+										"type": "boolean",
+										"description": "Um booliano opcional. Equivalente a passar --union na linha de comando."
+									}
+								},
+								"additionalProperties": false
+							},
+							"exclude": {
+								"type": "object",
+								"description": "Um objeto opcional que especifica quais testes devem ser excluídos.",
+								"properties": {
+									"name": {
+										"type": "string",
+										"description": "Uma cadeia de caracteres opcional que especifica um regex de nomes de teste. Equivalente a passar --exclude-regex na linha de comando."
+									},
+									"label": {
+										"type": "string",
+										"description": "Uma cadeia de caracteres opcional que especifica um regex de rótulos de teste. Equivalente a passar --label-exclude na linha de comando."
+									},
+									"fixtures": {
+										"type": "object",
+										"description": "Um objeto opcional que especifica quais acessórios devem ser excluídos da adição de testes.",
+										"properties": {
+											"any": {
+												"type": "string",
+												"description": "Uma cadeia de caracteres opcional que especifica um regex de acessórios de teste a serem excluídos da adição de testes. Equivalente a --fixture-exclude-any na linha de comando."
+											},
+											"setup": {
+												"type": "string",
+												"description": "Uma cadeia de caracteres opcional que especifica um regex de assessórios de teste a serem excluídos da adição de testes de configuração. Equivalente a --fixture-exclude-setup na linha de comando."
+											},
+											"cleanup": {
+												"type": "string",
+												"description": "Uma cadeia de caracteres opcional que especifica um regex de acessórios de teste a serem excluídos da adição de testes de limpeza. Equivalente a --fixture-exclude-cleanup na linha de comando."
+											}
+										},
+										"additionalProperties": false
+									}
+								}
+							}
+						},
+						"additionalProperties": false
+					},
+					"execution": {
+						"type": "object",
+						"description": "Um objeto opcional que especifica as opções para a execução de teste.",
+						"properties": {
+							"stopOnFailure": {
+								"type": "boolean",
+								"description": "Um booliano opcional. Quando é true, equivale a passar --stop-on-failure na linha de comando."
+							},
+							"enableFailover": {
+								"type": "boolean",
+								"description": "Um booliano opcional. Quando é true, equivale a passar -F na linha de comando."
+							},
+							"jobs": {
+								"type": "integer",
+								"description": "Um inteiro opcional. Equivalente a passar --parallel na linha de comando."
+							},
+							"resourceSpecFile": {
+								"type": "string",
+								"description": "Uma cadeia de caracteres opcional. Equivalente a passar --resource-spec-file na linha de comando."
+							},
+							"testLoad": {
+								"type": "integer",
+								"description": "Um inteiro opcional. Equivalente a passar --test-load na linha de comando."
+							},
+							"showOnly": {
+								"type": "string",
+								"description": "Uma cadeia de caracteres opcional. Equivalente a passar --show-only na linha de comando. O valor precisa ser \"human\" ou \"json-v1\".",
+								"enum": [
+									"human",
+									"json-v1"
+								]
+							},
+							"repeat": {
+								"type": "object",
+								"description": "Um objeto opcional que especifica como repetir os testes. Equivalente a passar --repeat na linha de comando.",
+								"properties": {
+									"mode": {
+										"type": "string",
+										"description": "Uma cadeia de caracteres necessária, que precisa ser um dos seguintes valores: \"until-fail\", \"until-pass\" ou \"after-timeout\".",
+										"enum": [
+											"until-fail",
+											"until-pass",
+											"after-timeout"
+										]
+									},
+									"count": {
+										"type": "integer",
+										"description": "Um inteiro necessário."
+									}
+								},
+								"required": [
+									"mode",
+									"count"
+								],
+								"additionalProperties": false
+							},
+							"interactiveDebugging": {
+								"type": "boolean",
+								"description": "Um booliano opcional. Quando é true, equivale a passar --interactive-debug-mode 1 na linha de comando. Quando é false, equivale a passar --interactive-debug-mode 0 na linha de comando."
+							},
+							"scheduleRandom": {
+								"type": "boolean",
+								"description": "Um booliano opcional. Quando é true, equivale a passar --schedule-random na linha de comando."
+							},
+							"timeout": {
+								"type": "integer",
+								"description": "Um inteiro opcional. Equivalente a passar --timeout na linha de comando."
+							},
+							"noTestsAction": {
+								"type": "string",
+								"description": "Uma cadeia de caracteres opcional que especifica o comportamento quando não é encontrado nenhum teste. Ela precisa ser um dos seguintes valores: \"default\" (equivalente a não passar nenhum valor na linha de comando), \"error\" (equivalente a passar --no-tests=error na linha de comando) ou \"ignore\" (equivalente a passar --no-tests-ignore na linha de comando).",
+								"enum": [
+									"default",
+									"error",
+									"ignore"
+								]
+							}
+						},
+						"additionalProperties": false
+					},
+					"condition": {
+						"$ref": "#/definitions/topCondition"
+					}
+				},
+				"required": [
+					"name"
+				],
+				"additionalProperties": false
+			}
+		},
+		"vendor": {
+			"type": "object",
+			"description": "Um mapa opcional que contém informações específicas do fornecedor. O CMake não interpreta o conteúdo deste campo exceto para verificar se ele é um mapa, caso exista. No entanto, as chaves devem ser um nome de domínio específico do fornecedor seguido por um caminho separado por uma /. Por exemplo, o IDE de Exemplo 1.0 pode usar example.com/ExampleIDE/1.0. O valor de cada campo pode ser qualquer item desejado pelo fornecedor, embora normalmente seja um mapa.",
+			"properties": {}
+		}
+	},
+	"additionalProperties": false,
+	"definitions": {
+		"condition": {
+			"anyOf": [
+				{
+					"type": "boolean",
+					"description": "Um booliano que fornece um valor constante para a avaliação da condição."
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Uma cadeia de caracteres necessária que especifica o tipo da condição.",
+							"const": "const"
+						},
+						"value": {
+							"type": "boolean",
+							"description": "Um booliano necessário que fornece um valor constante para a avaliação da condição."
+						}
+					},
+					"required": [
+						"type",
+						"value"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Uma cadeia de caracteres necessária que especifica o tipo da condição.",
+							"const": "equals"
+						},
+						"lhs": {
+							"type": "string",
+							"description": "Primeira cadeia de caracteres para comparar. Este campo suporta expansão de macro."
+						},
+						"rhs": {
+							"type": "string",
+							"description": "Segunda cadeia de caracteres para comparar. Este campo suporta expansão de macro."
+						}
+					},
+					"required": [
+						"type",
+						"lhs",
+						"rhs"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Uma cadeia de caracteres necessária que especifica o tipo da condição.",
+							"const": "notEquals"
+						},
+						"lhs": {
+							"type": "string",
+							"description": "Primeira cadeia de caracteres para comparar. Este campo suporta expansão de macro."
+						},
+						"rhs": {
+							"type": "string",
+							"description": "Segunda cadeia de caracteres para comparar. Este campo suporta expansão de macro."
+						}
+					},
+					"required": [
+						"type",
+						"lhs",
+						"rhs"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Uma cadeia de caracteres necessária que especifica o tipo da condição.",
+							"const": "inList"
+						},
+						"string": {
+							"type": "string",
+							"description": "Uma cadeia de caracteres necessária para pesquisa. Este campo dá suporte à expansão de macro."
+						},
+						"list": {
+							"type": "array",
+							"description": "Uma lista necessária de cadeias de caracteres a serem pesquisadas. Este campo suporta expansão de macro e usa avaliação de curto-circuito.",
+							"items": {
+								"type": "string"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"list"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Uma cadeia de caracteres necessária que especifica o tipo da condição.",
+							"const": "notInList"
+						},
+						"string": {
+							"type": "string",
+							"description": "Uma cadeia de caracteres necessária para pesquisa. Este campo dá suporte à expansão de macro."
+						},
+						"list": {
+							"type": "array",
+							"description": "Uma lista necessária de cadeias de caracteres a serem pesquisadas. Este campo suporta expansão de macro e usa avaliação de curto-circuito.",
+							"items": {
+								"type": "string"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"list"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Uma cadeia de caracteres necessária que especifica o tipo da condição.",
+							"const": "matches"
+						},
+						"string": {
+							"type": "string",
+							"description": "Uma cadeia de caracteres necessária para pesquisar. Este campo dá suporte à expansão de macro."
+						},
+						"regex": {
+							"type": "string",
+							"description": "Uma expressão regular necessária para pesquisar. Este campo dá suporte à expansão de macro."
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"regex"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Uma cadeia de caracteres necessária que especifica o tipo da condição.",
+							"const": "notMatches"
+						},
+						"string": {
+							"type": "string",
+							"description": "Uma cadeia de caracteres necessária para pesquisar. Este campo dá suporte à expansão de macro."
+						},
+						"regex": {
+							"type": "string",
+							"description": "Uma expressão regular necessária para pesquisar. Este campo dá suporte à expansão de macro."
+						}
+					},
+					"required": [
+						"type",
+						"string",
+						"regex"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Uma cadeia de caracteres necessária que especifica o tipo da condição.",
+							"const": "anyOf"
+						},
+						"conditions": {
+							"type": "array",
+							"description": "Uma matriz de objetos de condição necessária. Essas condições usam a avaliação de curto-circuito.",
+							"items": {
+								"$ref": "#/definitions/condition"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"conditions"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Uma cadeia de caracteres necessária que especifica o tipo da condição.",
+							"const": "allOf"
+						},
+						"conditions": {
+							"type": "array",
+							"description": "Uma matriz de objetos de condição necessária. Essas condições usam a avaliação de curto-circuito.",
+							"items": {
+								"$ref": "#/definitions/condition"
+							}
+						}
+					},
+					"required": [
+						"type",
+						"conditions"
+					],
+					"additionalProperties": false
+				},
+				{
+					"type": "object",
+					"properties": {
+						"type": {
+							"type": "string",
+							"description": "Uma cadeia de caracteres necessária que especifica o tipo da condição.",
+							"const": "not"
+						},
+						"condition": {
+							"$ref": "#/definitions/condition"
+						}
+					},
+					"required": [
+						"type",
+						"condition"
+					],
+					"additionalProperties": false
+				}
+			]
+		},
+		"topCondition": {
+			"description": "Um campo opcional usado para determinar se uma predefinição está habilitada ou não. Com suporte na versão 3.",
+			"anyOf": [
+				{
+					"$ref": "#/definitions/condition"
+				},
+				{
+					"type": "null",
+					"description": "Null indica que a condição sempre é avaliada como verdadeira e não é herdada."
+				}
+			]
+		}
+	}
+}

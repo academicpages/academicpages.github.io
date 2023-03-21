@@ -1,0 +1,11 @@
+{
+	"messages": [
+		"Go to reference",
+		"Go to reference"
+	],
+	"keys": [
+		"goto.reference",
+		"goto.reference"
+	],
+	"filePath": "src\\LanguageServer\\referencesTreeDataProvider"
+}

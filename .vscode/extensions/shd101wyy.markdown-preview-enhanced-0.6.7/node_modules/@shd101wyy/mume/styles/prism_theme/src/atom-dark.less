@@ -1,0 +1,251 @@
+// out: ../atom-dark.css, compress: true, sourceMap: false
+
+// Modified according to: 
+//     https://github.com/atom/atom-dark-syntax/
+
+// This defines all syntax variables that syntax themes must implement when they
+// include a syntax-variables.less file.
+
+// General colors
+@syntax-text-color: #c5c8c6;
+@syntax-cursor-color: white;
+@syntax-selection-color: #444;
+@syntax-selection-flash-color: #eee;
+@syntax-background-color: #1d1f21;
+
+// Guide colors
+@syntax-wrap-guide-color: rgba(197, 200, 198, .1);
+@syntax-indent-guide-color: rgba(197, 200, 198, .2);
+@syntax-invisible-character-color: rgba(197, 200, 198, .2);
+
+// For find and replace markers
+@syntax-result-marker-color: #888;
+@syntax-result-marker-color-selected: white;
+
+// Gutter colors
+@syntax-gutter-text-color: @syntax-text-color;
+@syntax-gutter-text-color-selected: @syntax-gutter-text-color;
+@syntax-gutter-background-color: lighten(@syntax-background-color, 5%);
+@syntax-gutter-background-color-selected: rgba(255, 255, 255, 0.14);
+
+// For git diff info. i.e. in the gutter
+@syntax-color-renamed: #96CBFE;
+@syntax-color-added: #A8FF60;
+@syntax-color-modified: #E9C062;
+@syntax-color-removed: #CC6666;
+
+// For language entity colors
+@syntax-color-variable: #C6C5FE;
+@syntax-color-constant: #99CC99;
+@syntax-color-property: #EDEDED;
+@syntax-color-value: #F9EE98;
+@syntax-color-function: #DAD085;
+@syntax-color-method: @syntax-color-function;
+@syntax-color-class: #62B1FE;
+@syntax-color-keyword: #96CBFE;
+@syntax-color-tag: #96CBFE;
+@syntax-color-attribute: #C6C5FE;
+@syntax-color-import: @syntax-color-keyword;
+@syntax-color-snippet: @syntax-color-constant;
+
+pre {
+  font-family: Menlo, Monaco, Consolas, 'Courier New', monospace;
+  direction: ltr;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+  word-break: normal;
+  
+  padding: 1em;
+  margin: .5em 0;
+  
+  overflow: auto;
+  line-height: 1.5;
+  tab-size: 4;
+  hyphens: none;
+  color: @syntax-text-color;
+  background-color: contrast(@syntax-background-color, lighten(@syntax-background-color, 4%), darken(@syntax-background-color, 6%)) !important;
+  border: contrast(@syntax-background-color, lighten(@syntax-background-color, 16%), darken(@syntax-background-color, 16%));
+  border-radius: 3px;
+}
+
+pre[class*="language-"] { // presentation mode padding
+  padding: 1em; 
+}
+
+code[class*="language-"],
+pre[class*="language-"] {
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+  color: #7C7C7C;
+}
+
+.token.punctuation {
+  color: #96CBFE;
+}
+
+.namespace {
+	opacity: .7;
+}
+
+
+.token.constant {
+  color: #99CC99;
+}
+
+/*
+.token.property {
+}
+*/
+
+.token.boolean,
+.token.number,
+.token.function-name {
+  color: #FF73FD;
+}
+
+.token.tag {
+  color: #96CBFE;
+}
+
+/*
+.token.deleted {
+}
+
+.token.inserted {
+}
+
+.token.symbol {
+  color: @green;
+}
+*/
+
+.token.selector {
+  color: #96CBFE;
+}
+
+.token.attr-name { // .attribute
+  color: #C6C5FE;
+}
+
+.token.string {
+  color: #A8FF60;
+}
+
+.token.char {
+  color: #FF8000;
+}
+
+/*
+.token.builtin {
+  color: @green;
+}
+*/
+
+.token.entity {
+  color: #FFD2A7;
+}
+
+.token.url { // link
+  color: #7C7C7C;
+}
+
+.token.operator {
+  color: #EDEDED;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.keyword {
+  color: #CFCB90;
+}
+
+.token.function {
+  color: #FFD2A7;
+}
+
+.token.class-name {
+  color: #FFD2A7;
+}
+
+.token.variable {
+  color: #C6C5FE;
+}
+
+.token.regex,
+.token.important {
+  color: #E9C062;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+
+/*
+&.line-numbers {
+  .line-numbers-rows>span:before {
+  }
+}
+*/
+}
+
+/* highlight */
+pre[data-line] {
+  position: relative;
+  padding: 1em 0 1em 3em;
+}
+pre[data-line] .line-highlight-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  display: block;
+  width: 100%;
+}
+
+pre[data-line] .line-highlight {
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding: inherit 0;
+  margin-top: 1em;
+  background: hsla(24, 20%, 50%,.08);
+  background: linear-gradient(to right, hsla(24, 20%, 50%,.1) 70%, hsla(24, 20%, 50%,0));
+  pointer-events: none;
+  line-height: inherit;
+  white-space: pre;
+}
+
+pre[data-line] .line-highlight:before, 
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-start);
+  position: absolute;
+  top: .4em;
+  left: .6em;
+  min-width: 1em;
+  padding: 0 .5em;
+  background-color: hsla(24, 20%, 50%,.4);
+  color: hsl(24, 20%, 95%);
+  font: bold 65%/1.5 sans-serif;
+  text-align: center;
+  vertical-align: .3em;
+  border-radius: 999px;
+  text-shadow: none;
+  box-shadow: 0 1px white;
+}
+
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-end);
+  top: auto;
+  bottom: .4em;
+}

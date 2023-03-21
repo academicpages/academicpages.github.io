@@ -1,0 +1,111 @@
+{
+  "type": "object",
+  "description": "Variant options",
+  "additionalProperties": false,
+  "minProperties": 1,
+  "patternProperties": {
+    "base\\$": {
+      "type": "object",
+      "description": "Base mix-in for all variants (Not implemented for CMake Tools)",
+      "additionalProperties": true
+    },
+    "^\\w+$": {
+      "type": "object",
+      "properties": {
+        "description": {
+          "description": "A description of this option",
+          "type": "string"
+        },
+        "default": {
+          "description": "The default setting for this option",
+          "type": "string"
+        },
+        "choices": {
+          "type": "object",
+          "description": "A possible option value",
+          "minProperties": 1,
+          "patternProperties": {
+            "^\\w+$": {
+              "type": "object",
+              "required": [
+                "short"
+              ],
+              "properties": {
+                "short": {
+                  "type": "string",
+                  "description": "A simple one-word description of this value"
+                },
+                "long": {
+                  "type": "string",
+                  "description": "A lengthier description of what this value does"
+                },
+                "buildType": {
+                  "type": "string",
+                  "default": "Debug",
+                  "description": "The value of CMAKE_BUILD_TYPE for this variant"
+                },
+                "linkage": {
+                  "type": "string",
+                  "enum": [
+                    "static",
+                    "shared"
+                  ],
+                  "default": "static",
+                  "description": "Sets the value of BUILD_SHARED on the CMake command line"
+                },
+                "env": {
+                  "type": "object",
+                  "description": "Environment variables to set during CMake configuration",
+                  "additionalProperties": false,
+                  "patternProperties": {
+                    "^\\w+$": {
+                      "type": "string",
+                      "description": "Value for the environment variable"
+                    }
+                  }
+                },
+                "settings": {
+                  "type": "object",
+                  "description": "The -D arguments to pass to CMake for this variant",
+                  "minProperties": 1,
+                  "additionalProperties": {
+                    "anyOf": [
+                      {
+                        "type": "string"
+                      },
+                      {
+                        "type": "array",
+                        "items": {
+                          "type": "string"
+                        }
+                      },
+                      {
+                        "type": "integer"
+                      },
+                      {
+                        "type": "boolean"
+                      }
+                    ]
+                  }
+                },
+                "generator": {
+                  "type": "string",
+                  "description": "The CMake generator to use for this variant",
+                  "default": "Ninja"
+                },
+                "toolset": {
+                  "type": "string",
+                  "description": "The generator toolset to use for this variant"
+                }
+              }
+            }
+          }
+        }
+      },
+      "required": [
+        "default",
+        "choices"
+      ]
+    }
+  }
+}

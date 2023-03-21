@@ -1,0 +1,3 @@
+from typing import Any
+
+def ogrinfo(data_source: Any, num_features: int = ...) -> None: ...

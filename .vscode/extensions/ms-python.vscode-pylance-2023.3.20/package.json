@@ -1,0 +1,1263 @@
+{
+	"name": "vscode-pylance",
+	"displayName": "Pylance",
+	"description": "A performant, feature-rich language server for Python in VS Code",
+	"version": "2023.3.20",
+	"license": "SEE LICENSE IN LICENSE.txt",
+	"author": {
+		"name": "Microsoft Corporation"
+	},
+	"publisher": "ms-python",
+	"private": true,
+	"bugs": {
+		"url": "https://github.com/microsoft/pylance-release/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/microsoft/pylance-release"
+	},
+	"engines": {
+		"vscode": "^1.74.0"
+	},
+	"keywords": [
+		"python"
+	],
+	"categories": [
+		"Programming Languages"
+	],
+	"icon": "images/icon.png",
+	"main": "./dist/extension.bundle.js",
+	"browser": "./dist/browser.extension.bundle.js",
+	"activationEvents": [
+		"onCommand:pylance.reportIssue",
+		"onLanguage:python",
+		"workspaceContains:pyrightconfig.json"
+	],
+	"extensionDependencies": [
+		"ms-python.python"
+	],
+	"capabilities": {
+		"untrustedWorkspaces": {
+			"supported": "limited",
+			"description": "Python will not be executed; the latest Python version will be used for analysis and installed libraries will not be available."
+		},
+		"virtualWorkspaces": {
+			"supported": "limited",
+			"description": "Analysis is limited to opened files."
+		}
+	},
+	"contributes": {
+		"commands": [
+			{
+				"command": "pylance.reportIssue",
+				"title": "Pylance: Report Issue..."
+			},
+			{
+				"command": "pylance.dumpTokens",
+				"title": "Dump token streams ...",
+				"category": "Pylance debugging",
+				"enablement": "editorLangId == python && config.pyright.development"
+			},
+			{
+				"command": "pylance.dumpNodes",
+				"title": "Dump parse tree ...",
+				"category": "Pylance debugging",
+				"enablement": "editorLangId == python && config.pyright.development"
+			},
+			{
+				"command": "pylance.dumpTypes",
+				"title": "Dump type info ...",
+				"category": "Pylance debugging",
+				"enablement": "editorLangId == python && config.pyright.development"
+			},
+			{
+				"command": "pylance.dumpCachedTypes",
+				"title": "Pylance: Dump cached type info ...",
+				"category": "Pylance debugging",
+				"enablement": "editorLangId == python && config.pyright.development"
+			},
+			{
+				"command": "pylance.dumpCodeFlowGraph",
+				"title": "Pylance: Dump code flow graph for node ...",
+				"category": "Pylance debugging",
+				"enablement": "editorLangId == python && config.pyright.development"
+			}
+		],
+		"menus": {
+			"commandPalette": [
+				{
+					"command": "pylance.reportIssue"
+				},
+				{
+					"command": "pylance.dumpTokens",
+					"when": "editorLangId == python && config.pyright.development"
+				},
+				{
+					"command": "pylance.dumpNodes",
+					"when": "editorLangId == python && config.pyright.development"
+				},
+				{
+					"command": "pylance.dumpTypes",
+					"when": "editorLangId == python && config.pyright.development"
+				},
+				{
+					"command": "pylance.dumpCachedTypes",
+					"when": "editorLangId == python && config.pyright.development"
+				},
+				{
+					"command": "pylance.dumpCodeFlowGraph",
+					"when": "editorLangId == python && config.pyright.development"
+				}
+			]
+		},
+		"configurationDefaults": {
+			"[python]": {
+				"editor.wordBasedSuggestions": false
+			}
+		},
+		"configuration": {
+			"type": "object",
+			"title": "Pylance",
+			"properties": {
+				"python.analysis.inlayHints.variableTypes": {
+					"type": "boolean",
+					"default": false,
+					"markdownDescription": "Enable/disable inlay hints for variable types:\n```python\nfoo ' :list[str] ' = [\"a\"]\n \n```\n",
+					"scope": "resource"
+				},
+				"python.analysis.inlayHints.functionReturnTypes": {
+					"type": "boolean",
+					"default": false,
+					"markdownDescription": "Enable/disable inlay hints for function return types:\n```python\ndef foo(x:int) ' -> int ':\n\treturn x\n```\n",
+					"scope": "resource"
+				},
+				"python.analysis.inlayHints.pytestParameters": {
+					"type": "boolean",
+					"default": false,
+					"markdownDescription": "Enable/disable inlay hints for pytest function parameters:\n```python\ndef test_foo(my_fixture: 'str'):\n\tassert(myfixture == 'foo')\n```\n",
+					"scope": "resource"
+				},
+				"python.analysis.completeFunctionParens": {
+					"type": "boolean",
+					"default": false,
+					"description": "Add parentheses to function completions.",
+					"scope": "resource"
+				},
+				"python.analysis.autoImportCompletions": {
+					"type": "boolean",
+					"default": false,
+					"description": "Offer auto-import completions.",
+					"scope": "resource"
+				},
+				"python.analysis.autoImportUserSymbols": {
+					"type": "boolean",
+					"default": false,
+					"description": "Offer user symbols in auto-import completions.",
+					"scope": "resource",
+					"tags": [
+						"experimental"
+					]
+				},
+				"python.analysis.autoSearchPaths": {
+					"type": "boolean",
+					"default": true,
+					"description": "Automatically add common search paths like 'src'.",
+					"scope": "resource"
+				},
+				"python.analysis.stubPath": {
+					"type": "string",
+					"default": "typings",
+					"description": "Path to directory containing custom type stub files.",
+					"scope": "resource"
+				},
+				"python.analysis.diagnosticMode": {
+					"type": "string",
+					"default": "openFilesOnly",
+					"description": "Analysis mode for diagnostics.",
+					"enum": [
+						"openFilesOnly",
+						"workspace"
+					],
+					"enumDescriptions": [
+						"Analyzes and reports errors on only open files.",
+						"Analyzes and reports errors on all files in the workspace."
+					],
+					"scope": "resource"
+				},
+				"python.analysis.extraPaths": {
+					"type": "array",
+					"default": [],
+					"items": {
+						"type": "string"
+					},
+					"description": "Additional import search resolution paths",
+					"scope": "resource"
+				},
+				"python.analysis.include": {
+					"type": "array",
+					"default": [],
+					"items": {
+						"type": "string"
+					},
+					"description": "Paths of directories or files that should be included. If no paths are specified, Pylance defaults to the workspace root directory. Paths may contain wildcard characters ** (a directory or multiple levels of directories), * (a sequence of zero or more characters), or ? (a single character).",
+					"scope": "resource"
+				},
+				"python.analysis.exclude": {
+					"type": "array",
+					"default": [],
+					"items": {
+						"type": "string"
+					},
+					"description": "Paths of directories or files that should not be included. These override the include directories, allowing specific subdirectories to be excluded. Note that files in the exclude paths may still be included in the analysis if they are referenced (imported) by source files that are not excluded. Paths may contain wildcard characters ** (a directory or multiple levels of directories), * (a sequence of zero or more characters), or ? (a single character). If no exclude paths are specified, Pylance automatically excludes the following: `**/node_modules`, `**/__pycache__`, `.git` and any virtual environment directories.",
+					"scope": "resource"
+				},
+				"python.analysis.ignore": {
+					"type": "array",
+					"default": [],
+					"items": {
+						"type": "string"
+					},
+					"description": "Paths of directories or files whose diagnostic output (errors and warnings) should be suppressed even if they are an included file or within the transitive closure of an included file. Paths may contain wildcard characters ** (a directory or multiple levels of directories), * (a sequence of zero or more characters), or ? (a single character). If no value is provided, the value of python.linting.ignorePatterns (if set) will be used.",
+					"scope": "resource"
+				},
+				"python.analysis.indexing": {
+					"type": "boolean",
+					"default": true,
+					"description": "Index installed third party libraries and user files for language features such as auto-import, add import, workspace symbols and etc.",
+					"scope": "resource"
+				},
+				"python.analysis.extraCommitChars": {
+					"type": "boolean",
+					"default": true,
+					"description": "Allow using '.', '(' as commit characters when applicable.",
+					"scope": "resource",
+					"tags": [
+						"experimental"
+					]
+				},
+				"python.analysis.useLibraryCodeForTypes": {
+					"type": "boolean",
+					"default": true,
+					"description": "Use library implementations to extract type information when type stub is not present.",
+					"scope": "resource"
+				},
+				"python.analysis.typeCheckingMode": {
+					"type": "string",
+					"default": "off",
+					"enum": [
+						"off",
+						"basic",
+						"strict"
+					],
+					"description": "Defines the default rule set for type checking.",
+					"enumDescriptions": [
+						"Surfaces diagnostics for invalid syntax, unresolved imports, undefined variables.",
+						"All \"off\" rules + basic type checking rules.",
+						"All \"off\" rules + all type checking rules."
+					],
+					"scope": "resource",
+					"tags": [
+						"experimental"
+					]
+				},
+				"python.analysis.fixAll": {
+					"type": "array",
+					"default": [],
+					"items": {
+						"enum": [
+							"source.unusedImports",
+							"source.convertImportFormat"
+						],
+						"enumDescriptions": [
+							"Remove unused imports.",
+							"Convert import format following python.analysis.importFormat."
+						]
+					},
+					"description": "source fixes to run in fix all.",
+					"scope": "resource"
+				},
+				"python.analysis.packageIndexDepths": {
+					"type": "array",
+					"default": [
+						{
+							"name": "sklearn",
+							"depth": 2
+						},
+						{
+							"name": "matplotlib",
+							"depth": 2
+						},
+						{
+							"name": "scipy",
+							"depth": 2
+						},
+						{
+							"name": "django",
+							"depth": 2
+						}
+					],
+					"items": {
+						"type": "object",
+						"label": "Per package settings",
+						"required": [
+							"name"
+						],
+						"properties": {
+							"name": {
+								"type": "string",
+								"label": "Package name to configure. Empty name means all packages.",
+								"default": ""
+							},
+							"depth": {
+								"type": "integer",
+								"label": "Depth to scan modules.",
+								"default": 1
+							},
+							"includeAllSymbols": {
+								"type": "boolean",
+								"label": "'true' means include all symbols. 'false' means only symbols in __all__.",
+								"default": false
+							}
+						}
+					},
+					"markdownDescription": "Used to override how many levels under installed packages to index on a per package basis. By default, only top-level modules are indexed (depth = 1). To index submodules, increase depth by 1 for each level of submodule you want to index. Accepted values are:\n```JSON\n{\"name\": \"package name (str)\",\n \"depth\": \"depth to scan (int)\",\n \"includeAllSymbols\": \"whether to include all symbols (bool)\"}\n\n```\nIf `include all symbols` is set to `false`, only symbols in each package's `__all__` are included. When it's set to `true`, Pylance will index every module/top level symbol declarations in the file.  \n  \nUsage example: \n```JSON\n[\n\t{\"name\": \"sklearn\", \"depth\": 2, \"includeAllSymbols\": true},\n\t{\"name\": \"matplotlib\", \"depth\": 3, \"includeAllSymbols\": false}\n]\n\n```\n",
+					"scope": "resource"
+				},
+				"python.analysis.addImport.exactMatchOnly": {
+					"type": "boolean",
+					"default": false,
+					"description": "Offer only exact matches in `add import` code actions",
+					"scope": "resource",
+					"tags": [
+						"experimental"
+					]
+				},
+				"python.analysis.refactoring.allowMovingSymbols": {
+					"type": "boolean",
+					"default": false,
+					"description": "Allow moving a symbol to another module. [Experimental]",
+					"scope": "resource",
+					"tags": [
+						"experimental"
+					]
+				},
+				"python.analysis.diagnosticSeverityOverrides": {
+					"type": "object",
+					"default": {},
+					"description": "Allows a user to override the severity levels for individual diagnostics.",
+					"scope": "resource",
+					"properties": {
+						"reportGeneralTypeIssues": {
+							"type": "string",
+							"description": "Diagnostics for general type inconsistencies, unsupported operations, argument/parameter mismatches, etc. Covers all of the basic type-checking rules not covered by other rules. Does not include syntax errors.",
+							"default": "error",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportPropertyTypeMismatch": {
+							"type": "string",
+							"description": "Diagnostics for property whose setter and getter have mismatched types.",
+							"default": "error",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportFunctionMemberAccess": {
+							"type": "string",
+							"description": "Diagnostics for member accesses on functions.",
+							"default": "none",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportMissingImports": {
+							"type": "string",
+							"description": "Diagnostics for imports that have no corresponding imported python file or type stub file.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportMissingModuleSource": {
+							"type": "string",
+							"description": "Diagnostics for imports that have no corresponding source file. This happens when a type stub is found, but the module source file was not found, indicating that the code may fail at runtime when using this execution environment. Type checking will be done using the type stub.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportMissingTypeStubs": {
+							"type": "string",
+							"description": "Diagnostics for imports that have no corresponding type stub file (either a typeshed file or a custom type stub). The type checker requires type stubs to do its best job at analysis.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportImportCycles": {
+							"type": "string",
+							"description": "Diagnostics for cyclical import chains. These are not errors in Python, but they do slow down type analysis and often hint at architectural layering issues. Generally, they should be avoided.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUnusedImport": {
+							"type": "string",
+							"description": "Diagnostics for an imported symbol that is not referenced within that file.",
+							"default": "information",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUnusedClass": {
+							"type": "string",
+							"description": "Diagnostics for a class with a private name (starting with an underscore) that is not accessed.",
+							"default": "information",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUnusedFunction": {
+							"type": "string",
+							"description": "Diagnostics for a function or method with a private name (starting with an underscore) that is not accessed.",
+							"default": "information",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUnusedVariable": {
+							"type": "string",
+							"description": "Diagnostics for a variable that is not accessed.",
+							"default": "information",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportDuplicateImport": {
+							"type": "string",
+							"description": "Diagnostics for an imported symbol or module that is imported more than once.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportWildcardImportFromLibrary": {
+							"type": "string",
+							"description": "Diagnostics for an wildcard import from an external library.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportOptionalSubscript": {
+							"type": "string",
+							"description": "Diagnostics for an attempt to subscript (index) a variable with an Optional type.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportOptionalMemberAccess": {
+							"type": "string",
+							"description": "Diagnostics for an attempt to access a member of a variable with an Optional type.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportOptionalCall": {
+							"type": "string",
+							"description": "Diagnostics for an attempt to call a variable with an Optional type.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportOptionalIterable": {
+							"type": "string",
+							"description": "Diagnostics for an attempt to use an Optional type as an iterable value (e.g. within a for statement).",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportOptionalContextManager": {
+							"type": "string",
+							"description": "Diagnostics for an attempt to use an Optional type as a context manager (as a parameter to a with statement).",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportOptionalOperand": {
+							"type": "string",
+							"description": "Diagnostics for an attempt to use an Optional type as an operand to a binary or unary operator (like '+', '==', 'or', 'not').",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportTypedDictNotRequiredAccess": {
+							"type": "string",
+							"description": "Diagnostics for an attempt to access a non-required key within a TypedDict without a check for its presence.",
+							"default": "error",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUntypedFunctionDecorator": {
+							"type": "string",
+							"description": "Diagnostics for function decorators that have no type annotations. These obscure the function type, defeating many type analysis features.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUntypedClassDecorator": {
+							"type": "string",
+							"description": "Diagnostics for class decorators that have no type annotations. These obscure the class type, defeating many type analysis features.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUntypedBaseClass": {
+							"type": "string",
+							"description": "Diagnostics for base classes whose type cannot be determined statically. These obscure the class type, defeating many type analysis features.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUntypedNamedTuple": {
+							"type": "string",
+							"description": "Diagnostics when “namedtuple” is used rather than “NamedTuple”. The former contains no type information, whereas the latter does.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportPrivateUsage": {
+							"type": "string",
+							"description": "Diagnostics for incorrect usage of private or protected variables or functions. Protected class members begin with a single underscore _ and can be accessed only by subclasses. Private class members begin with a double underscore but do not end in a double underscore and can be accessed only within the declaring class. Variables and functions declared outside of a class are considered private if their names start with either a single or double underscore, and they cannot be accessed outside of the declaring module.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportTypeCommentUsage": {
+							"type": "string",
+							"description": "Diagnostics for usage of deprecated type comments.",
+							"default": "none",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportPrivateImportUsage": {
+							"type": "string",
+							"description": "Diagnostics for incorrect usage of symbol imported from a \"py.typed\" module that is not re-exported from that module.",
+							"default": "error",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportConstantRedefinition": {
+							"type": "string",
+							"description": "Diagnostics for attempts to redefine variables whose names are all-caps with underscores and numerals.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportDeprecated": {
+							"type": "string",
+							"description": "Diagnostics for use of deprecated classes or functions.",
+							"default": "none",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportIncompatibleMethodOverride": {
+							"type": "string",
+							"description": "Diagnostics for methods that override a method of the same name in a base class in an incompatible manner (wrong number of parameters, incompatible parameter types, or incompatible return type).",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportIncompatibleVariableOverride": {
+							"type": "string",
+							"description": "Diagnostics for overrides in subclasses that redefine a variable in an incompatible way.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportInconsistentConstructor": {
+							"type": "string",
+							"description": "Diagnostics for __init__ and __new__ methods whose signatures are inconsistent.",
+							"default": "none",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportOverlappingOverload": {
+							"type": "string",
+							"description": "Diagnostics for function overloads that overlap in signature and obscure each other or have incompatible return types.",
+							"default": "none",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportMissingSuperCall": {
+							"type": "string",
+							"description": "Diagnostics for missing call to parent class for inherited `__init__` methods.",
+							"default": "none",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUninitializedInstanceVariable": {
+							"type": "string",
+							"description": "Diagnostics for instance variables that are not declared or initialized within class body or `__init__` method.",
+							"default": "none",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportInvalidStringEscapeSequence": {
+							"type": "string",
+							"description": "Diagnostics for invalid escape sequences used within string literals. The Python specification indicates that such sequences will generate a syntax error in future versions.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUnknownParameterType": {
+							"type": "string",
+							"description": "Diagnostics for input or return parameters for functions or methods that have an unknown type.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUnknownArgumentType": {
+							"type": "string",
+							"description": "Diagnostics for call arguments for functions or methods that have an unknown type.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUnknownLambdaType": {
+							"type": "string",
+							"description": "Diagnostics for input or return parameters for lambdas that have an unknown type.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUnknownVariableType": {
+							"type": "string",
+							"description": "Diagnostics for variables that have an unknown type..",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUnknownMemberType": {
+							"type": "string",
+							"description": "Diagnostics for class or instance variables that have an unknown type.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportMissingParameterType": {
+							"type": "string",
+							"description": "Diagnostics for parameters that are missing a type annotation.",
+							"default": "none",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportMissingTypeArgument": {
+							"type": "string",
+							"description": "Diagnostics for generic class reference with missing type arguments.",
+							"default": "none",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportInvalidTypeVarUse": {
+							"type": "string",
+							"description": "Diagnostics for improper use of type variables in a function signature.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportCallInDefaultInitializer": {
+							"type": "string",
+							"description": "Diagnostics for function calls within a default value initialization expression. Such calls can mask expensive operations that are performed at module initialization time.",
+							"default": "information",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUnnecessaryIsInstance": {
+							"type": "string",
+							"description": "Diagnostics for 'isinstance' or 'issubclass' calls where the result is statically determined to be always true or always false. Such calls are often indicative of a programming error.",
+							"default": "information",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUnnecessaryCast": {
+							"type": "string",
+							"description": "Diagnostics for 'cast' calls that are statically determined to be unnecessary. Such calls are sometimes indicative of a programming error.",
+							"default": "information",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUnnecessaryComparison": {
+							"type": "string",
+							"description": "Diagnostics for '==' and '!=' comparisons that are statically determined to be unnecessary. Such calls are sometimes indicative of a programming error.",
+							"default": "none",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUnnecessaryContains": {
+							"type": "string",
+							"description": "Diagnostics for 'in' operation that is statically determined to be unnecessary. Such operations are sometimes indicative of a programming error.",
+							"default": "none",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportAssertAlwaysTrue": {
+							"type": "string",
+							"description": "Diagnostics for 'assert' statement that will provably always assert. This can be indicative of a programming error.",
+							"default": "information",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportSelfClsParameterName": {
+							"type": "string",
+							"description": "Diagnostics for a missing or misnamed “self” parameter in instance methods and “cls” parameter in class methods. Instance methods in metaclasses (classes that derive from “type”) are allowed to use “cls” for instance methods.",
+							"default": "information",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportImplicitStringConcatenation": {
+							"type": "string",
+							"description": "Diagnostics for two or more string literals that follow each other, indicating an implicit concatenation. This is considered a bad practice and often masks bugs such as missing commas.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportInvalidStubStatement": {
+							"type": "string",
+							"description": "Diagnostics for type stub statements that do not conform to PEP 484.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportIncompleteStub": {
+							"type": "string",
+							"description": "Diagnostics for the use of a module-level “__getattr__” function, indicating that the stub is incomplete.",
+							"default": "none",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUndefinedVariable": {
+							"type": "string",
+							"description": "Diagnostics for a missing or misnamed “self” parameter in instance methods and “cls” parameter in class methods. Instance methods in metaclasses (classes that derive from “type”) are allowed to use “cls” for instance methods.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUnboundVariable": {
+							"type": "string",
+							"description": "Diagnostics for unbound and possibly unbound variables.",
+							"default": "information",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUnusedCallResult": {
+							"type": "string",
+							"description": "Diagnostics for call expressions whose results are not consumed and are not None.",
+							"default": "none",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUnusedCoroutine": {
+							"type": "string",
+							"description": "Diagnostics for call expressions that return a Coroutine and whose results are not consumed.",
+							"default": "error",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUnusedExpression": {
+							"type": "string",
+							"description": "Diagnostics for simple expressions whose value is not used in any way.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUnsupportedDunderAll": {
+							"type": "string",
+							"description": "Diagnostics for unsupported operations performed on __all__.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportUnnecessaryTypeIgnoreComment": {
+							"type": "string",
+							"description": "Diagnostics for '# type: ignore' comments that have no effect.",
+							"default": "none",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportMatchNotExhaustive": {
+							"type": "string",
+							"description": "Diagnostics for 'match' statements that do not exhaustively match all possible values.",
+							"default": "none",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						},
+						"reportShadowedImports": {
+							"type": "string",
+							"description": "Diagnostics for files that are overriding a module in the stdlib.",
+							"default": "warning",
+							"enum": [
+								"none",
+								"information",
+								"warning",
+								"error"
+							]
+						}
+					}
+				},
+				"python.analysis.logLevel": {
+					"type": "string",
+					"default": "Information",
+					"description": "Specifies the level of logging for the Output panel",
+					"enum": [
+						"Error",
+						"Warning",
+						"Information",
+						"Trace"
+					]
+				},
+				"python.analysis.typeshedPaths": {
+					"type": "array",
+					"default": [],
+					"items": {
+						"type": "string"
+					},
+					"description": "Paths to look for typeshed modules.",
+					"scope": "resource"
+				},
+				"python.analysis.importFormat": {
+					"type": "string",
+					"default": "absolute",
+					"enum": [
+						"absolute",
+						"relative"
+					],
+					"description": "Defines the default format for import module.",
+					"enumDescriptions": [
+						"Use absolute import format when creating new import statement.",
+						"Use relative import format when creating new import statement."
+					],
+					"scope": "resource"
+				}
+			}
+		},
+		"jsonValidation": [
+			{
+				"fileMatch": "pyrightconfig.json",
+				"url": "./dist/schemas/pyrightconfig.schema.json"
+			}
+		],
+		"semanticTokenTypes": [
+			{
+				"id": "module",
+				"description": "module",
+				"superType": "namespace"
+			},
+			{
+				"id": "intrinsic",
+				"description": "intrinsic",
+				"superType": "operator"
+			},
+			{
+				"id": "selfParameter",
+				"description": "self parameter",
+				"superType": "parameter"
+			},
+			{
+				"id": "clsParameter",
+				"description": "cls parameter",
+				"superType": "parameter"
+			},
+			{
+				"id": "magicFunction",
+				"description": "magic aka dunder function",
+				"superType": "function"
+			},
+			{
+				"id": "builtinConstant",
+				"description": "constants like True, False, None, or __debug__",
+				"superType": "constant"
+			},
+			{
+				"id": "parenthesis",
+				"description": "() parenthesis"
+			},
+			{
+				"id": "bracket",
+				"description": "[] bracket"
+			},
+			{
+				"id": "curlybrace",
+				"description": "{} curly brace"
+			},
+			{
+				"id": "colon",
+				"description": "colon token"
+			},
+			{
+				"id": "semicolon",
+				"description": "semicolon token"
+			},
+			{
+				"id": "arrow",
+				"description": "arrow token"
+			}
+		],
+		"semanticTokenModifiers": [
+			{
+				"id": "typeHint",
+				"description": "inside a type annotation"
+			},
+			{
+				"id": "typeHintComment",
+				"description": "inside a comment style type annotation"
+			},
+			{
+				"id": "decorator",
+				"description": "inside a decorator"
+			},
+			{
+				"id": "builtin",
+				"description": "built-in identifier"
+			}
+		],
+		"semanticTokenScopes": [
+			{
+				"language": "python",
+				"scopes": {
+					"selfParameter": [
+						"variable.parameter.function.language.special.self.python"
+					],
+					"clsParameter": [
+						"variable.parameter.function.language.special.cls.python"
+					],
+					"magicFunction": [
+						"support.function.magic.python"
+					],
+					"*.typeHintComment": [
+						"comment.typehint.type.notation.python"
+					],
+					"function.decorator": [
+						"meta.function.decorator.python"
+					],
+					"class.decorator": [
+						"meta.function.decorator.python"
+					],
+					"builtinConstant": [
+						"constant.language.python"
+					],
+					"parenthesis": [
+						"source.python"
+					],
+					"bracket": [
+						"source.python"
+					],
+					"curlybrace": [
+						"source.python"
+					],
+					"colon": [
+						"punctuation.separator.colon.python"
+					],
+					"semicolon": [
+						"source.python"
+					],
+					"arrow": [
+						"punctuation.separator.annotation.result.python"
+					]
+				}
+			}
+		]
+	},
+	"scripts": {
+		"clean": "shx rm -rf ./dist ./out NOTICE.txt",
+		"package": "vsce package --githubBranch main",
+		"vscode:prepublish": "npm run clean && shx cp ../../NOTICE.txt . && webpack --mode production --progress",
+		"webpack": "webpack --mode development --progress",
+		"webpack-dev": "npm run clean && webpack --mode development --watch --progress",
+		"build:tests": "tsc",
+		"test": "npm run build:tests && node ./src/tests/runTests.js"
+	},
+	"devDependencies": {
+		"@types/copy-webpack-plugin": "^10.1.0",
+		"@types/jest": "^27.5.2",
+		"@types/node": "^17.0.45",
+		"@types/source-map-support": "^0.5.6",
+		"@types/terser-webpack-plugin": "^5.0.4",
+		"@types/vscode": "~1.67.0",
+		"@vscode/test-electron": "^2.2.3",
+		"copy-webpack-plugin": "^10.2.4",
+		"javascript-obfuscator": "4.0.2",
+		"jest": "^27.5.1",
+		"jest-cli": "^27.5.1",
+		"jest-environment-node": "^27.5.1",
+		"jest-junit": "^13.2.0",
+		"shx": "^0.3.4",
+		"source-map-support": "^0.5.21",
+		"ts-jest": "^27.1.5",
+		"ts-loader": "^9.4.2",
+		"ts-mockito": "^2.6.1",
+		"typescript": "~4.4.4",
+		"vsce": "^2.7.0",
+		"webpack": "^5.75.0",
+		"webpack-cli": "^4.10.0",
+		"webpack-obfuscator": "^3.5.1",
+		"terser-webpack-plugin": "^5.3.6"
+	},
+	"dependencies": {
+		"buffer": "^6.0.3",
+		"events": "^3.3.0",
+		"path-browserify": "^1.0.1",
+		"querystring-es3": "^0.2.1",
+		"semver": "^7.3.8",
+		"stream-browserify": "^3.0.0",
+		"vscode-languageserver-types": "3.17.2"
+	},
+	"__metadata": {
+		"id": "364d2426-116a-433a-a5d8-a5098dc3afbd",
+		"publisherId": "998b010b-e2af-44a5-a6cd-0b5fd3b9b6f8",
+		"publisherDisplayName": "Microsoft",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": true,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1679403859788,
+		"preRelease": false
+	}
+}

@@ -1,0 +1,239 @@
+// out: ../vue.css, compress: true, sourceMap: false
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Sans+Pro:300,400,600");
+* {
+  -webkit-font-smoothing: antialiased;
+  -webkit-overflow-scrolling: touch;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-text-size-adjust: none;
+  -webkit-touch-callout: none;
+  box-sizing: border-box
+}
+
+.markdown-preview code {
+  border-radius: 2px;
+  color: #e96900;
+  font-size: 12.8px;
+  font-size: .8rem;
+  margin: 0 2px;
+  padding: 3px 5px;
+  white-space: pre-wrap
+}
+
+.markdown-preview code,
+.markdown-preview pre {
+  background-color: #f8f8f8;
+  font-family: Roboto Mono, Monaco, courier, monospace
+}
+
+.markdown-preview pre {
+  -moz-osx-font-smoothing: initial;
+  -webkit-font-smoothing: initial;
+  line-height: 24px;
+  line-height: 1.5rem;
+  margin: 1.2em 0;
+  overflow: auto;
+  padding: 0 22.4px;
+  padding: 0 1.4rem;
+  position: relative;
+  word-wrap: normal
+}
+
+.token.cdata,
+.token.comment,
+.token.doctype,
+.token.prolog {
+  color: #8e908c
+}
+
+.token.namespace {
+  opacity: .7
+}
+
+.token.boolean,
+.token.number {
+  color: #c76b29
+}
+
+.token.punctuation {
+  color: #525252
+}
+
+.token.property {
+  color: #c08b30
+}
+
+.token.tag {
+  color: #2973b7
+}
+
+.token.string {
+  color: #42b983;
+  color: var(--theme-color, #42b983)
+}
+
+.token.selector {
+  color: #6679cc
+}
+
+.token.attr-name {
+  color: #2973b7
+}
+
+.language-css .token.string,
+.style .token.string,
+.token.entity,
+.token.url {
+  color: #22a2c9
+}
+
+.token.attr-value,
+.token.control,
+.token.directive,
+.token.unit {
+  color: #42b983;
+  color: var(--theme-color, #42b983)
+}
+
+.token.keyword {
+  color: #e96900
+}
+
+.token.atrule,
+.token.regex,
+.token.statement {
+  color: #22a2c9
+}
+
+.token.placeholder,
+.token.variable {
+  color: #3d8fd1
+}
+
+.token.deleted {
+  text-decoration: line-through
+}
+
+.token.inserted {
+  border-bottom: 1px dotted #202746;
+  text-decoration: none
+}
+
+.token.italic {
+  font-style: italic
+}
+
+.token.bold,
+.token.important {
+  font-weight: 700
+}
+
+.token.important {
+  color: #c94922
+}
+
+.token.entity {
+  cursor: help
+}
+
+.markdown-preview pre>code,
+.markdown-preview pre[class*="language"] {
+  -moz-osx-font-smoothing: initial;
+  -webkit-font-smoothing: initial;
+  background-color: #f8f8f8;
+  border-radius: 2px;
+  color: #525252;
+  display: block;
+  font-family: Roboto Mono,Monaco,courier,monospace;
+  font-size: 12.8px;
+  font-size: .8rem;
+  line-height: 2em;
+  // margin: 16px 2px;
+  max-width: inherit;
+  overflow: inherit;
+  padding: 0.8em 1.4em;
+  white-space: pre;
+}
+
+.markdown-preview pre>code {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.markdown-preview code:after,
+.markdown-preview code:before {
+  letter-spacing: .8px;
+  letter-spacing: .05rem
+}
+
+code .token {
+  -moz-osx-font-smoothing: initial;
+  -webkit-font-smoothing: initial;
+  min-height: 24px;
+  min-height: 1.5rem
+}
+
+pre:after {
+  color: #ccc;
+  content: attr(data-lang);
+  font-size: 9.6px;
+  font-size: .6rem;
+  font-weight: 600;
+  height: 15px;
+  line-height: 15px;
+  padding: 5px 10px 0;
+  position: absolute;
+  right: 0;
+  text-align: right;
+  top: 0
+}
+
+/* highlight */
+pre[data-line] {
+  position: relative;
+  padding: 1em 0 1em 3em !important;
+}
+pre[data-line] .line-highlight-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  display: block;
+  width: 100%;
+}
+
+pre[data-line] .line-highlight {
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding: inherit 0;
+  margin-top: 1em;
+  background: hsla(24, 20%, 50%,.08);
+  background: linear-gradient(to right, hsla(24, 20%, 50%,.1) 70%, hsla(24, 20%, 50%,0));
+  pointer-events: none;
+  line-height: inherit;
+  white-space: pre;
+}
+
+pre[data-line] .line-highlight:before, 
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-start);
+  position: absolute;
+  top: .4em;
+  left: .6em;
+  min-width: 1em;
+  padding: 0 .5em;
+  background-color: hsla(24, 20%, 50%,.4);
+  color: hsl(24, 20%, 95%);
+  font: bold 65%/1.5 sans-serif;
+  text-align: center;
+  vertical-align: .3em;
+  border-radius: 999px;
+  text-shadow: none;
+  box-shadow: 0 1px white;
+}
+
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-end);
+  top: auto;
+  bottom: .4em;
+}

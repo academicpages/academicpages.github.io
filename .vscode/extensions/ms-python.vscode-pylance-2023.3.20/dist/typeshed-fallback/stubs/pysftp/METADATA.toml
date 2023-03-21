@@ -1,0 +1,2 @@
+version = "0.2.*"
+requires = ["types-paramiko"]
