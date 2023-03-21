@@ -80,12 +80,14 @@ Our motivation is straightforward: leveraging the eye movements of radiologists 
 
 New age with Foundation Models
 ======
-We propose ChatCAD, that use trained CAD networks and use ChatGPT (or other LLMs) to merge them. To make the result more truthy, we are adding a healthcare retriever into this framework (like New Bing)
+I believe we are currently experiencing the second golden age of AI research, driven by the emergence of LARGE transformers and webscale unsupervised pretraining. The first golden age was led by ImageNet supervised pretraining and CNNs. In light of this, I am motivated to work on projects that have the potential to become the cornerstone of this exciting new era in AI research.
+
+1. We propose ChatCAD, that use trained CAD networks and use ChatGPT (or other LLMs) to merge them. To make the result more truthy, we are adding a healthcare retriever into this framework (like New Bing)
 ![](ChatCAD.png)
 *ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models*
 **S Wang**, Z Zhao, X Ouyang, Q Wang, D Shen
 
-We are also working on MeLo, a medical image low-rank adaptation scheme that is to replace finetuning in medical image analysis. This is a work I really enjoy doing as a programmer and engineer. More information coming soon.
+2. We are also working on MeLo, a medical image low-rank adaptation scheme that is to replace finetuning in medical image analysis. This is a work I really enjoy doing as a programmer and engineer. More information coming soon.
 
 
 Efficient Learning System
@@ -93,13 +95,8 @@ Efficient Learning System
 Although with recent progress, neural networks have on par ability compared to human in natural image. Currently, medical expert are more efficient at abstracting things (or say better representation ability). 
 My guess is these medical analysis is a harder problem just like GPTs can not deal with mathmatical problem and coding test very well. 
 
-I do think we are at the second research golden age for AI with LARGE transformers and webscale unsupervised pretraining. The first golden age are lead by ImageNet supervised pretrain and CNNs. As a 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-6. Check status by going to the repository settings, in the "GitHub pages" section
+
+
 
 
 
