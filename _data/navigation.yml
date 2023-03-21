@@ -8,7 +8,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
+
+  - title: "CAD with Eye-tracking"
+    url: /eyetracking/  
   # - title: "Portfolio"
   #   url: /portfolio/
         
