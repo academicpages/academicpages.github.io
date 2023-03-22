@@ -63,6 +63,7 @@ Skills
   * Designing, Printing, Performing Maintenance 
 * Designing and building props 
 * Experience with scenic design, joinery, and building techniques and processes
+* Drivers Licence (TN)
 
 References
 ======
