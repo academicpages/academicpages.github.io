@@ -1,10 +1,12 @@
 ---
 layout: archive
 title: "Resume"
-permalink: /resume/
+permalink: /
 author_profile: true
 redirect_from:
   - /resume
+  - /about
+  - /about me
 ---
 
 {% include base_path %}
