@@ -1,0 +1,60 @@
+Metadata-Version: 2.1
+Name: ipywidgets
+Version: 7.6.5
+Summary: IPython HTML widgets for Jupyter
+Home-page: http://ipython.org
+Author: IPython Development Team
+Author-email: ipython-dev@scipy.org
+License: BSD
+Keywords: Interactive,Interpreter,Shell,Web
+Platform: Linux
+Platform: Mac OS X
+Platform: Windows
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Framework :: Jupyter
+License-File: LICENSE
+Requires-Dist: ipykernel (>=4.5.1)
+Requires-Dist: ipython-genutils (~=0.2.0)
+Requires-Dist: traitlets (>=4.3.1)
+Requires-Dist: nbformat (>=4.2.0)
+Requires-Dist: widgetsnbextension (~=3.5.0)
+Requires-Dist: ipython (<6.0.0,>=4.0.0) ; python_version<"3.3"
+Requires-Dist: ipython (>=4.0.0) ; python_version>="3.3"
+Requires-Dist: jupyterlab-widgets (>=1.0.0) ; python_version>="3.6"
+Provides-Extra: test
+Requires-Dist: pytest (>=3.6.0) ; extra == 'test'
+Requires-Dist: pytest-cov ; extra == 'test'
+Requires-Dist: mock ; (python_version=="2.7") and extra == 'test'
+
+
+.. image:: https://img.shields.io/pypi/v/ipywidgets.svg
+   :target: https://pypi.python.org/pypi/ipywidgets/
+   :alt: Version Number
+
+.. image:: https://img.shields.io/pypi/dm/ipywidgets.svg
+   :target: https://pypi.python.org/pypi/ipywidgets/
+   :alt: Number of PyPI downloads
+
+Interactive HTML Widgets
+========================
+
+Interactive HTML widgets for Jupyter notebooks and the IPython kernel.
+
+Usage
+=====
+
+.. code-block:: python
+
+    from ipywidgets import IntSlider
+    IntSlider()
+
+

@@ -1,0 +1,28 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "module1"
+version = "0.03"
+description = "Statically specified description"
+authors = [
+    {name = "Sir Robin", email = "robin@camelot.uk"}
+]
+readme = {file = "README.rst", content-type = "text/x-rst"}
+classifiers = [
+    "Topic :: Internet :: WWW/HTTP",
+]
+dependencies = [
+    "requests >= 2.18",
+    "docutils",
+]  # N.B. Using this to check behaviour with dependencies but no optional deps
+
+[project.urls]
+homepage = "http://github.com/sirrobin/module1"
+
+[project.scripts]
+foo = "module1:main"
+
+[project.gui-scripts]
+foo-gui = "module1:main"

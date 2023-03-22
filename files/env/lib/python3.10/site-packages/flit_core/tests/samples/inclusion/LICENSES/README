@@ -1,0 +1,2 @@
+This directory will match the LICENSE* glob which Flit uses to add license
+files to wheel metadata.

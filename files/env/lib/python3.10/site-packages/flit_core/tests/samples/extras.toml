@@ -1,0 +1,15 @@
+[build-system]
+requires = ["flit_core >=2,<4"]
+build-backend = "flit_core.buildapi"
+
+[tool.flit.metadata]
+module = "module1"
+author = "Sir Robin"
+author-email = "robin@camelot.uk"
+home-page = "http://github.com/sirrobin/module1"
+description-file = "EG_README.rst"
+requires = ["toml"]
+
+[tool.flit.metadata.requires-extra]
+test = ["pytest"]
+custom = ["requests"]

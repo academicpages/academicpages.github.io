@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: flit_core
+Version: 3.6.0
+Summary: Distribution-building parts of Flit. See flit package for more information
+Author-email: Thomas Kluyver & contributors <thomas@kluyver.me.uk>
+Requires-Python: >=3.6
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Project-URL: Source, https://github.com/pypa/flit

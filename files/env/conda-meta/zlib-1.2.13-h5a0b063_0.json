@@ -1,0 +1,91 @@
+{
+  "build": "h5a0b063_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniconda/base/pkgs/zlib-1.2.13-h5a0b063_0",
+  "features": "",
+  "files": [
+    "include/zconf.h",
+    "include/zlib.h",
+    "lib/libz.1.2.13.dylib",
+    "lib/libz.1.dylib",
+    "lib/libz.a",
+    "lib/libz.dylib",
+    "lib/pkgconfig/zlib.pc"
+  ],
+  "fn": "zlib-1.2.13-h5a0b063_0.conda",
+  "legacy_bz2_md5": "467ae28215d1aa1c5688bc0c8a184269",
+  "license": "Zlib",
+  "license_family": "Other",
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniconda/base/pkgs/zlib-1.2.13-h5a0b063_0",
+    "type": 1
+  },
+  "md5": "f37216c0dea34741707510529ef366bf",
+  "name": "zlib",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniconda/base/pkgs/zlib-1.2.13-h5a0b063_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "include/zconf.h",
+        "path_type": "hardlink",
+        "sha256": "e5a9079e37fa799583634fcd6905b53f1c20fd1d98e6bae942674c3c419b9fab",
+        "sha256_in_prefix": "e5a9079e37fa799583634fcd6905b53f1c20fd1d98e6bae942674c3c419b9fab",
+        "size_in_bytes": 16671
+      },
+      {
+        "_path": "include/zlib.h",
+        "path_type": "hardlink",
+        "sha256": "a980a0d104198a53cc220c51ab5856e5be901bec8a2d02e0ee79a8754219dfed",
+        "sha256_in_prefix": "a980a0d104198a53cc220c51ab5856e5be901bec8a2d02e0ee79a8754219dfed",
+        "size_in_bytes": 97323
+      },
+      {
+        "_path": "lib/libz.1.2.13.dylib",
+        "path_type": "hardlink",
+        "sha256": "2121e7a7f3c1a08b09e9e67c27caad549b335cbde7aaadb6221d9d54d1f849c6",
+        "sha256_in_prefix": "2121e7a7f3c1a08b09e9e67c27caad549b335cbde7aaadb6221d9d54d1f849c6",
+        "size_in_bytes": 140416
+      },
+      {
+        "_path": "lib/libz.1.dylib",
+        "path_type": "softlink",
+        "sha256": "2121e7a7f3c1a08b09e9e67c27caad549b335cbde7aaadb6221d9d54d1f849c6",
+        "size_in_bytes": 140416
+      },
+      {
+        "_path": "lib/libz.a",
+        "path_type": "hardlink",
+        "sha256": "d48f912399190e81f09f07497a2e4cea367612065d77724543d2b4c6071ac3f8",
+        "sha256_in_prefix": "d48f912399190e81f09f07497a2e4cea367612065d77724543d2b4c6071ac3f8",
+        "size_in_bytes": 102288
+      },
+      {
+        "_path": "lib/libz.dylib",
+        "path_type": "softlink",
+        "sha256": "2121e7a7f3c1a08b09e9e67c27caad549b335cbde7aaadb6221d9d54d1f849c6",
+        "size_in_bytes": 140416
+      },
+      {
+        "_path": "lib/pkgconfig/zlib.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_21wrdckisg/croot/zlib_1666594992421/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "1345be7aa5a65361c32a398140ee5959bb8ce785d84eb949296fa73c221f3426",
+        "sha256_in_prefix": "a4e8a4f009e348f9d1b22f69ad5ba2b7e7b4a1d9ae84fc2182dc1a651e19e4c9",
+        "size_in_bytes": 1487
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "af480f1788595a311d33bfc59f6c841dd1532d0dd7945d5b0bd12c52be6d55cd",
+  "size": 83843,
+  "subdir": "osx-arm64",
+  "timestamp": 1666595022664,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/zlib-1.2.13-h5a0b063_0.conda",
+  "version": "1.2.13"
+}

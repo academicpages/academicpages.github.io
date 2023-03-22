@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>exslt: main header file </title>
+    <meta name="generator" content="Libxml2 devhelp stylesheet"/>
+    <link rel="start" href="index.html" title="libexslt Reference Manual"/>
+    <link rel="up" href="general.html" title="API"/>
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <link rel="chapter" href="general.html" title="API"/>
+  </head>
+  <body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
+    <table class="navigation" width="100%" summary="Navigation header" cellpadding="2" cellspacing="2">
+      <tr valign="middle">
+        <td>
+          <a accesskey="u" href="general.html">
+            <img src="up.png" width="24" height="24" border="0" alt="Up"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="h" href="index.html">
+            <img src="home.png" width="24" height="24" border="0" alt="Home"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="n" href="libexslt-exsltexports.html">
+            <img src="right.png" width="24" height="24" border="0" alt="Next"/>
+          </a>
+        </td>
+        <th width="100%" align="center">libexslt Reference Manual</th>
+      </tr>
+    </table>
+    <h2>
+      <span class="refentrytitle">exslt</span>
+    </h2>
+    <p>exslt - main header file </p>
+    <p/>
+    <p>Author(s): </p>
+    <div class="refsynopsisdiv">
+      <h2>Synopsis</h2>
+      <pre class="synopsis">#define <a href="#EXSLT_DATE_NAMESPACE">EXSLT_DATE_NAMESPACE</a>;
+#define <a href="#EXSLT_STRINGS_NAMESPACE">EXSLT_STRINGS_NAMESPACE</a>;
+#define <a href="#SAXON_NAMESPACE">SAXON_NAMESPACE</a>;
+#define <a href="#EXSLT_COMMON_NAMESPACE">EXSLT_COMMON_NAMESPACE</a>;
+#define <a href="#EXSLT_FUNCTIONS_NAMESPACE">EXSLT_FUNCTIONS_NAMESPACE</a>;
+#define <a href="#EXSLT_SETS_NAMESPACE">EXSLT_SETS_NAMESPACE</a>;
+#define <a href="#EXSLT_DYNAMIC_NAMESPACE">EXSLT_DYNAMIC_NAMESPACE</a>;
+#define <a href="#EXSLT_CRYPTO_NAMESPACE">EXSLT_CRYPTO_NAMESPACE</a>;
+#define <a href="#EXSLT_MATH_NAMESPACE">EXSLT_MATH_NAMESPACE</a>;
+void	<a href="#exsltDynRegister">exsltDynRegister</a>		(void);
+void	<a href="#exsltCommonRegister">exsltCommonRegister</a>		(void);
+void	<a href="#exsltRegisterAll">exsltRegisterAll</a>		(void);
+int	<a href="#exsltStrXpathCtxtRegister">exsltStrXpathCtxtRegister</a>	(xmlXPathContextPtr ctxt, <br/>					 const xmlChar * prefix);
+int	<a href="#exsltSetsXpathCtxtRegister">exsltSetsXpathCtxtRegister</a>	(xmlXPathContextPtr ctxt, <br/>					 const xmlChar * prefix);
+void	<a href="#exsltFuncRegister">exsltFuncRegister</a>		(void);
+void	<a href="#exsltStrRegister">exsltStrRegister</a>		(void);
+void	<a href="#exsltSetsRegister">exsltSetsRegister</a>		(void);
+void	<a href="#exsltDateRegister">exsltDateRegister</a>		(void);
+void	<a href="#exsltCryptoRegister">exsltCryptoRegister</a>		(void);
+void	<a href="#exsltMathRegister">exsltMathRegister</a>		(void);
+int	<a href="#exsltMathXpathCtxtRegister">exsltMathXpathCtxtRegister</a>	(xmlXPathContextPtr ctxt, <br/>					 const xmlChar * prefix);
+void	<a href="#exsltSaxonRegister">exsltSaxonRegister</a>		(void);
+int	<a href="#exsltDateXpathCtxtRegister">exsltDateXpathCtxtRegister</a>	(xmlXPathContextPtr ctxt, <br/>					 const xmlChar * prefix);
+</pre>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Description</h2>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Details</h2>
+      <div class="refsect2" lang="en">
+        <div class="refsect2" lang="en"><h3><a name="EXSLT_COMMON_NAMESPACE">Macro </a>EXSLT_COMMON_NAMESPACE</h3><pre class="programlisting">#define <a href="#EXSLT_COMMON_NAMESPACE">EXSLT_COMMON_NAMESPACE</a>;
+</pre><p>Namespace for EXSLT common functions</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="EXSLT_CRYPTO_NAMESPACE">Macro </a>EXSLT_CRYPTO_NAMESPACE</h3><pre class="programlisting">#define <a href="#EXSLT_CRYPTO_NAMESPACE">EXSLT_CRYPTO_NAMESPACE</a>;
+</pre><p>Namespace for EXSLT crypto functions</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="EXSLT_DATE_NAMESPACE">Macro </a>EXSLT_DATE_NAMESPACE</h3><pre class="programlisting">#define <a href="#EXSLT_DATE_NAMESPACE">EXSLT_DATE_NAMESPACE</a>;
+</pre><p>Namespace for EXSLT date functions</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="EXSLT_DYNAMIC_NAMESPACE">Macro </a>EXSLT_DYNAMIC_NAMESPACE</h3><pre class="programlisting">#define <a href="#EXSLT_DYNAMIC_NAMESPACE">EXSLT_DYNAMIC_NAMESPACE</a>;
+</pre><p>Namespace for EXSLT dynamic functions</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="EXSLT_FUNCTIONS_NAMESPACE">Macro </a>EXSLT_FUNCTIONS_NAMESPACE</h3><pre class="programlisting">#define <a href="#EXSLT_FUNCTIONS_NAMESPACE">EXSLT_FUNCTIONS_NAMESPACE</a>;
+</pre><p>Namespace for EXSLT functions extension functions</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="EXSLT_MATH_NAMESPACE">Macro </a>EXSLT_MATH_NAMESPACE</h3><pre class="programlisting">#define <a href="#EXSLT_MATH_NAMESPACE">EXSLT_MATH_NAMESPACE</a>;
+</pre><p>Namespace for EXSLT math functions</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="EXSLT_SETS_NAMESPACE">Macro </a>EXSLT_SETS_NAMESPACE</h3><pre class="programlisting">#define <a href="#EXSLT_SETS_NAMESPACE">EXSLT_SETS_NAMESPACE</a>;
+</pre><p>Namespace for EXSLT set functions</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="EXSLT_STRINGS_NAMESPACE">Macro </a>EXSLT_STRINGS_NAMESPACE</h3><pre class="programlisting">#define <a href="#EXSLT_STRINGS_NAMESPACE">EXSLT_STRINGS_NAMESPACE</a>;
+</pre><p>Namespace for EXSLT strings functions</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="SAXON_NAMESPACE">Macro </a>SAXON_NAMESPACE</h3><pre class="programlisting">#define <a href="#SAXON_NAMESPACE">SAXON_NAMESPACE</a>;
+</pre><p>Namespace for SAXON extensions functions</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="exsltLibexsltVersion">Variable </a>exsltLibexsltVersion</h3><pre class="programlisting">const int exsltLibexsltVersion;
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="exsltLibraryVersion">Variable </a>exsltLibraryVersion</h3><pre class="programlisting">const char * exsltLibraryVersion;
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="exsltLibxmlVersion">Variable </a>exsltLibxmlVersion</h3><pre class="programlisting">const int exsltLibxmlVersion;
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="exsltLibxsltVersion">Variable </a>exsltLibxsltVersion</h3><pre class="programlisting">const int exsltLibxsltVersion;
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="exsltCommonRegister"/>exsltCommonRegister ()</h3><pre class="programlisting">void	exsltCommonRegister		(void)<br/>
+</pre><p>Registers the EXSLT - Common module</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="exsltCryptoRegister"/>exsltCryptoRegister ()</h3><pre class="programlisting">void	exsltCryptoRegister		(void)<br/>
+</pre><p>Registers the EXSLT - Crypto module</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="exsltDateRegister"/>exsltDateRegister ()</h3><pre class="programlisting">void	exsltDateRegister		(void)<br/>
+</pre><p>Registers the EXSLT - Dates and Times module</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="exsltDateXpathCtxtRegister"/>exsltDateXpathCtxtRegister ()</h3><pre class="programlisting">int	exsltDateXpathCtxtRegister	(xmlXPathContextPtr ctxt, <br/>					 const xmlChar * prefix)<br/>
+</pre><p>Registers the EXSLT - Dates and Times module for use outside XSLT</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td/></tr><tr><td><span class="term"><i><tt>prefix</tt></i>:</span></td><td/></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td/></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="exsltDynRegister"/>exsltDynRegister ()</h3><pre class="programlisting">void	exsltDynRegister		(void)<br/>
+</pre><p>Registers the EXSLT - Dynamic module</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="exsltFuncRegister"/>exsltFuncRegister ()</h3><pre class="programlisting">void	exsltFuncRegister		(void)<br/>
+</pre><p>Registers the EXSLT - Functions module</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="exsltMathRegister"/>exsltMathRegister ()</h3><pre class="programlisting">void	exsltMathRegister		(void)<br/>
+</pre><p>Registers the EXSLT - Math module</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="exsltMathXpathCtxtRegister"/>exsltMathXpathCtxtRegister ()</h3><pre class="programlisting">int	exsltMathXpathCtxtRegister	(xmlXPathContextPtr ctxt, <br/>					 const xmlChar * prefix)<br/>
+</pre><p>Registers the EXSLT - Math module for use outside XSLT</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td/></tr><tr><td><span class="term"><i><tt>prefix</tt></i>:</span></td><td/></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td/></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="exsltRegisterAll"/>exsltRegisterAll ()</h3><pre class="programlisting">void	exsltRegisterAll		(void)<br/>
+</pre><p>Registers all available EXSLT extensions</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="exsltSaxonRegister"/>exsltSaxonRegister ()</h3><pre class="programlisting">void	exsltSaxonRegister		(void)<br/>
+</pre><p>Registers the SAXON extension module</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="exsltSetsRegister"/>exsltSetsRegister ()</h3><pre class="programlisting">void	exsltSetsRegister		(void)<br/>
+</pre><p>Registers the EXSLT - Sets module</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="exsltSetsXpathCtxtRegister"/>exsltSetsXpathCtxtRegister ()</h3><pre class="programlisting">int	exsltSetsXpathCtxtRegister	(xmlXPathContextPtr ctxt, <br/>					 const xmlChar * prefix)<br/>
+</pre><p>Registers the EXSLT - Sets module for use outside XSLT</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td/></tr><tr><td><span class="term"><i><tt>prefix</tt></i>:</span></td><td/></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td/></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="exsltStrRegister"/>exsltStrRegister ()</h3><pre class="programlisting">void	exsltStrRegister		(void)<br/>
+</pre><p>Registers the EXSLT - Strings module</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="exsltStrXpathCtxtRegister"/>exsltStrXpathCtxtRegister ()</h3><pre class="programlisting">int	exsltStrXpathCtxtRegister	(xmlXPathContextPtr ctxt, <br/>					 const xmlChar * prefix)<br/>
+</pre><p>Registers the EXSLT - Strings module for use outside XSLT</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td/></tr><tr><td><span class="term"><i><tt>prefix</tt></i>:</span></td><td/></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td/></tr></tbody></table></div></div>
+        <hr/>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>namespaces: interface for the XSLT namespace handling</title>
+    <meta name="generator" content="Libxml2 devhelp stylesheet"/>
+    <link rel="start" href="index.html" title="libxslt Reference Manual"/>
+    <link rel="up" href="general.html" title="API"/>
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <link rel="chapter" href="general.html" title="API"/>
+  </head>
+  <body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
+    <table class="navigation" width="100%" summary="Navigation header" cellpadding="2" cellspacing="2">
+      <tr valign="middle">
+        <td>
+          <a accesskey="p" href="libxslt-keys.html">
+            <img src="left.png" width="24" height="24" border="0" alt="Prev"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="u" href="general.html">
+            <img src="up.png" width="24" height="24" border="0" alt="Up"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="h" href="index.html">
+            <img src="home.png" width="24" height="24" border="0" alt="Home"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="n" href="libxslt-numbersInternals.html">
+            <img src="right.png" width="24" height="24" border="0" alt="Next"/>
+          </a>
+        </td>
+        <th width="100%" align="center">libxslt Reference Manual</th>
+      </tr>
+    </table>
+    <h2>
+      <span class="refentrytitle">namespaces</span>
+    </h2>
+    <p>namespaces - interface for the XSLT namespace handling</p>
+    <p>set of function easing the processing and generation of namespace nodes in XSLT. </p>
+    <p>Author(s): Daniel Veillard </p>
+    <div class="refsynopsisdiv">
+      <h2>Synopsis</h2>
+      <pre class="synopsis">#define <a href="#UNDEFINED_DEFAULT_NS">UNDEFINED_DEFAULT_NS</a>;
+void	<a href="#xsltFreeNamespaceAliasHashes">xsltFreeNamespaceAliasHashes</a>	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style);
+xmlNsPtr	<a href="#xsltCopyNamespace">xsltCopyNamespace</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr elem, <br/>					 xmlNsPtr ns);
+xmlNsPtr	<a href="#xsltCopyNamespaceList">xsltCopyNamespaceList</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr node, <br/>					 xmlNsPtr cur);
+xmlNsPtr	<a href="#xsltGetNamespace">xsltGetNamespace</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr cur, <br/>					 xmlNsPtr ns, <br/>					 xmlNodePtr out);
+xmlNsPtr	<a href="#xsltGetPlainNamespace">xsltGetPlainNamespace</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr cur, <br/>					 xmlNsPtr ns, <br/>					 xmlNodePtr out);
+xmlNsPtr	<a href="#xsltGetSpecialNamespace">xsltGetSpecialNamespace</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr invocNode, <br/>					 const xmlChar * nsName, <br/>					 const xmlChar * nsPrefix, <br/>					 xmlNodePtr target);
+void	<a href="#xsltNamespaceAlias">xsltNamespaceAlias</a>		(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 xmlNodePtr node);
+</pre>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Description</h2>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Details</h2>
+      <div class="refsect2" lang="en">
+        <div class="refsect2" lang="en"><h3><a name="UNDEFINED_DEFAULT_NS">Macro </a>UNDEFINED_DEFAULT_NS</h3><pre class="programlisting">#define <a href="#UNDEFINED_DEFAULT_NS">UNDEFINED_DEFAULT_NS</a>;
+</pre><p>Special value for undefined namespace, internal</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltCopyNamespace"/>xsltCopyNamespace ()</h3><pre class="programlisting">xmlNsPtr	xsltCopyNamespace	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr elem, <br/>					 xmlNsPtr ns)<br/>
+</pre><p>Copies a namespace node (declaration). If @elem is not NULL, then the new namespace will be declared on @elem.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>a transformation context</td></tr><tr><td><span class="term"><i><tt>elem</tt></i>:</span></td><td>the target element node</td></tr><tr><td><span class="term"><i><tt>ns</tt></i>:</span></td><td>the namespace node</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>a new xmlNsPtr, or NULL in case of an error.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltCopyNamespaceList"/>xsltCopyNamespaceList ()</h3><pre class="programlisting">xmlNsPtr	xsltCopyNamespaceList	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr node, <br/>					 xmlNsPtr cur)<br/>
+</pre><p>Do a copy of an namespace list. If @node is non-NULL the new namespaces are added automatically. This handles namespaces aliases. This function is intended only for *internal* use at transformation-time for copying ns-declarations of Literal Result Elements. Called by: xsltCopyTreeInternal() (transform.c) xsltShallowCopyElem() (transform.c) REVISIT: This function won't be used in the refactored code.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>a transformation context</td></tr><tr><td><span class="term"><i><tt>node</tt></i>:</span></td><td>the target node</td></tr><tr><td><span class="term"><i><tt>cur</tt></i>:</span></td><td>the first namespace</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>a new xmlNsPtr, or NULL in case of error.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltFreeNamespaceAliasHashes"/>xsltFreeNamespaceAliasHashes ()</h3><pre class="programlisting">void	xsltFreeNamespaceAliasHashes	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style)<br/>
+</pre><p>Free up the memory used by namespaces aliases</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>an XSLT stylesheet</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltGetNamespace"/>xsltGetNamespace ()</h3><pre class="programlisting">xmlNsPtr	xsltGetNamespace	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr cur, <br/>					 xmlNsPtr ns, <br/>					 xmlNodePtr out)<br/>
+</pre><p>Find a matching (prefix and ns-name) ns-declaration for the requested @ns-&gt;prefix and @ns-&gt;href in the result tree. If none is found then a new ns-declaration will be added to @resultElem. If, in this case, the given prefix is already in use, then a ns-declaration with a modified ns-prefix be we created. Called by: - xsltCopyPropList() (*not* anymore) - xsltShallowCopyElement() - xsltCopyTreeInternal() (*not* anymore) - xsltApplySequenceConstructor() (*not* in the refactored code), - xsltElement() (*not* anymore)</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>a transformation context</td></tr><tr><td><span class="term"><i><tt>cur</tt></i>:</span></td><td>the input node</td></tr><tr><td><span class="term"><i><tt>ns</tt></i>:</span></td><td>the namespace</td></tr><tr><td><span class="term"><i><tt>out</tt></i>:</span></td><td>the output node (or its parent)</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>a namespace declaration or NULL in case of namespace fixup failures or API or internal errors.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltGetPlainNamespace"/>xsltGetPlainNamespace ()</h3><pre class="programlisting">xmlNsPtr	xsltGetPlainNamespace	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr cur, <br/>					 xmlNsPtr ns, <br/>					 xmlNodePtr out)<br/>
+</pre><p>Obsolete. *Not* called by any Libxslt/Libexslt function. Exaclty the same as xsltGetNamespace().</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>a transformation context</td></tr><tr><td><span class="term"><i><tt>cur</tt></i>:</span></td><td>the input node</td></tr><tr><td><span class="term"><i><tt>ns</tt></i>:</span></td><td>the namespace</td></tr><tr><td><span class="term"><i><tt>out</tt></i>:</span></td><td>the result element</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>a namespace declaration or NULL in case of namespace fixup failures or API or internal errors.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltGetSpecialNamespace"/>xsltGetSpecialNamespace ()</h3><pre class="programlisting">xmlNsPtr	xsltGetSpecialNamespace	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr invocNode, <br/>					 const xmlChar * nsName, <br/>					 const xmlChar * nsPrefix, <br/>					 xmlNodePtr target)<br/>
+</pre><p>Find a matching (prefix and ns-name) ns-declaration for the requested @nsName and @nsPrefix in the result tree. If none is found then a new ns-declaration will be added to @resultElem. If, in this case, the given prefix is already in use, then a ns-declaration with a modified ns-prefix be we created. Note that this function's priority is to preserve ns-prefixes; it will only change a prefix if there's a namespace clash. If both @nsName and @nsPrefix are NULL, then this will try to "undeclare" a default namespace by declaring an xmlns="".</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the transformation context</td></tr><tr><td><span class="term"><i><tt>invocNode</tt></i>:</span></td><td>the invoking node; e.g. a literal result element/attr; only used for error reports</td></tr><tr><td><span class="term"><i><tt>nsName</tt></i>:</span></td><td>the namespace name (or NULL)</td></tr><tr><td><span class="term"><i><tt>nsPrefix</tt></i>:</span></td><td>the suggested namespace prefix (or NULL)</td></tr><tr><td><span class="term"><i><tt>target</tt></i>:</span></td><td>the result element on which to anchor a namespace</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>a namespace declaration or NULL.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltNamespaceAlias"/>xsltNamespaceAlias ()</h3><pre class="programlisting">void	xsltNamespaceAlias		(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 xmlNodePtr node)<br/>
+</pre><p>Read the stylesheet-prefix and result-prefix attributes, register them as well as the corresponding namespace.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>the XSLT stylesheet</td></tr><tr><td><span class="term"><i><tt>node</tt></i>:</span></td><td>the xsl:namespace-alias node</td></tr></tbody></table></div></div>
+        <hr/>
+      </div>
+    </div>
+  </body>
+</html>

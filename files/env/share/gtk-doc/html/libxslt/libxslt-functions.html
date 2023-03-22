@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>functions: interface for the XSLT functions not from XPath</title>
+    <meta name="generator" content="Libxml2 devhelp stylesheet"/>
+    <link rel="start" href="index.html" title="libxslt Reference Manual"/>
+    <link rel="up" href="general.html" title="API"/>
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <link rel="chapter" href="general.html" title="API"/>
+  </head>
+  <body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
+    <table class="navigation" width="100%" summary="Navigation header" cellpadding="2" cellspacing="2">
+      <tr valign="middle">
+        <td>
+          <a accesskey="p" href="libxslt-extra.html">
+            <img src="left.png" width="24" height="24" border="0" alt="Prev"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="u" href="general.html">
+            <img src="up.png" width="24" height="24" border="0" alt="Up"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="h" href="index.html">
+            <img src="home.png" width="24" height="24" border="0" alt="Home"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="n" href="libxslt-imports.html">
+            <img src="right.png" width="24" height="24" border="0" alt="Next"/>
+          </a>
+        </td>
+        <th width="100%" align="center">libxslt Reference Manual</th>
+      </tr>
+    </table>
+    <h2>
+      <span class="refentrytitle">functions</span>
+    </h2>
+    <p>functions - interface for the XSLT functions not from XPath</p>
+    <p>a set of extra functions coming from XSLT but not in XPath </p>
+    <p>Author(s): Daniel Veillard and Bjorn Reese &lt;breese@users.sourceforge.net&gt; </p>
+    <div class="refsynopsisdiv">
+      <h2>Synopsis</h2>
+      <pre class="synopsis">#define <a href="#XSLT_REGISTER_FUNCTION_LOOKUP">XSLT_REGISTER_FUNCTION_LOOKUP</a>;
+xmlXPathFunction	<a href="#xsltXPathFunctionLookup">xsltXPathFunctionLookup</a>	(void * vctxt, <br/>						 const xmlChar * name, <br/>						 const xmlChar * ns_uri);
+void	<a href="#xsltFunctionAvailableFunction">xsltFunctionAvailableFunction</a>	(xmlXPathParserContextPtr ctxt, <br/>					 int nargs);
+void	<a href="#xsltFormatNumberFunction">xsltFormatNumberFunction</a>	(xmlXPathParserContextPtr ctxt, <br/>					 int nargs);
+void	<a href="#xsltRegisterAllFunctions">xsltRegisterAllFunctions</a>	(xmlXPathContextPtr ctxt);
+void	<a href="#xsltKeyFunction">xsltKeyFunction</a>			(xmlXPathParserContextPtr ctxt, <br/>					 int nargs);
+void	<a href="#xsltUnparsedEntityURIFunction">xsltUnparsedEntityURIFunction</a>	(xmlXPathParserContextPtr ctxt, <br/>					 int nargs);
+void	<a href="#xsltDocumentFunction">xsltDocumentFunction</a>		(xmlXPathParserContextPtr ctxt, <br/>					 int nargs);
+void	<a href="#xsltSystemPropertyFunction">xsltSystemPropertyFunction</a>	(xmlXPathParserContextPtr ctxt, <br/>					 int nargs);
+void	<a href="#xsltElementAvailableFunction">xsltElementAvailableFunction</a>	(xmlXPathParserContextPtr ctxt, <br/>					 int nargs);
+void	<a href="#xsltGenerateIdFunction">xsltGenerateIdFunction</a>		(xmlXPathParserContextPtr ctxt, <br/>					 int nargs);
+</pre>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Description</h2>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Details</h2>
+      <div class="refsect2" lang="en">
+        <div class="refsect2" lang="en"><h3><a name="XSLT_REGISTER_FUNCTION_LOOKUP">Macro </a>XSLT_REGISTER_FUNCTION_LOOKUP</h3><pre class="programlisting">#define <a href="#XSLT_REGISTER_FUNCTION_LOOKUP">XSLT_REGISTER_FUNCTION_LOOKUP</a>;
+</pre><p>Registering macro, not general purpose at all but used in different modules.</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltDocumentFunction"/>xsltDocumentFunction ()</h3><pre class="programlisting">void	xsltDocumentFunction		(xmlXPathParserContextPtr ctxt, <br/>					 int nargs)<br/>
+</pre><p>Implement the document() XSLT function node-set document(object, node-set?)</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XPath Parser context</td></tr><tr><td><span class="term"><i><tt>nargs</tt></i>:</span></td><td>the number of arguments</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltElementAvailableFunction"/>xsltElementAvailableFunction ()</h3><pre class="programlisting">void	xsltElementAvailableFunction	(xmlXPathParserContextPtr ctxt, <br/>					 int nargs)<br/>
+</pre><p>Implement the element-available() XSLT function boolean element-available(string)</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XPath Parser context</td></tr><tr><td><span class="term"><i><tt>nargs</tt></i>:</span></td><td>the number of arguments</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltFormatNumberFunction"/>xsltFormatNumberFunction ()</h3><pre class="programlisting">void	xsltFormatNumberFunction	(xmlXPathParserContextPtr ctxt, <br/>					 int nargs)<br/>
+</pre><p>Implement the format-number() XSLT function string format-number(number, string, string?)</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XPath Parser context</td></tr><tr><td><span class="term"><i><tt>nargs</tt></i>:</span></td><td>the number of arguments</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltFunctionAvailableFunction"/>xsltFunctionAvailableFunction ()</h3><pre class="programlisting">void	xsltFunctionAvailableFunction	(xmlXPathParserContextPtr ctxt, <br/>					 int nargs)<br/>
+</pre><p>Implement the function-available() XSLT function boolean function-available(string)</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XPath Parser context</td></tr><tr><td><span class="term"><i><tt>nargs</tt></i>:</span></td><td>the number of arguments</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltGenerateIdFunction"/>xsltGenerateIdFunction ()</h3><pre class="programlisting">void	xsltGenerateIdFunction		(xmlXPathParserContextPtr ctxt, <br/>					 int nargs)<br/>
+</pre><p>Implement the generate-id() XSLT function string generate-id(node-set?)</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XPath Parser context</td></tr><tr><td><span class="term"><i><tt>nargs</tt></i>:</span></td><td>the number of arguments</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltKeyFunction"/>xsltKeyFunction ()</h3><pre class="programlisting">void	xsltKeyFunction			(xmlXPathParserContextPtr ctxt, <br/>					 int nargs)<br/>
+</pre><p>Implement the key() XSLT function node-set key(string, object)</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XPath Parser context</td></tr><tr><td><span class="term"><i><tt>nargs</tt></i>:</span></td><td>the number of arguments</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltRegisterAllFunctions"/>xsltRegisterAllFunctions ()</h3><pre class="programlisting">void	xsltRegisterAllFunctions	(xmlXPathContextPtr ctxt)<br/>
+</pre><p>Registers all default XSLT functions in this context</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XPath context</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSystemPropertyFunction"/>xsltSystemPropertyFunction ()</h3><pre class="programlisting">void	xsltSystemPropertyFunction	(xmlXPathParserContextPtr ctxt, <br/>					 int nargs)<br/>
+</pre><p>Implement the system-property() XSLT function object system-property(string)</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XPath Parser context</td></tr><tr><td><span class="term"><i><tt>nargs</tt></i>:</span></td><td>the number of arguments</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltUnparsedEntityURIFunction"/>xsltUnparsedEntityURIFunction ()</h3><pre class="programlisting">void	xsltUnparsedEntityURIFunction	(xmlXPathParserContextPtr ctxt, <br/>					 int nargs)<br/>
+</pre><p>Implement the unparsed-entity-uri() XSLT function string unparsed-entity-uri(string)</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XPath Parser context</td></tr><tr><td><span class="term"><i><tt>nargs</tt></i>:</span></td><td>the number of arguments</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltXPathFunctionLookup"/>xsltXPathFunctionLookup ()</h3><pre class="programlisting">xmlXPathFunction	xsltXPathFunctionLookup	(void * vctxt, <br/>						 const xmlChar * name, <br/>						 const xmlChar * ns_uri)<br/>
+</pre><p>This is the entry point when a function is needed by the XPath interpretor.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>vctxt</tt></i>:</span></td><td>a void * but the XSLT transformation context actually</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the function name</td></tr><tr><td><span class="term"><i><tt>ns_uri</tt></i>:</span></td><td>the function namespace URI</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the callback function or NULL if not found</td></tr></tbody></table></div></div>
+        <hr/>
+      </div>
+    </div>
+  </body>
+</html>

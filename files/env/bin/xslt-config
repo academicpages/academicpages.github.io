@@ -1,0 +1,138 @@
+#! /bin/sh
+
+prefix=/Users/drew/siwelwerd.github.io/files/env
+exec_prefix=${prefix}
+exec_prefix_set=no
+includedir=${prefix}/include
+libdir=${exec_prefix}/lib
+
+usage()
+{
+    cat <<EOF
+Usage: xslt-config [OPTION]...
+
+Known values for OPTION are:
+
+  --prefix=DIR		change XSLT prefix [default $prefix]
+  --exec-prefix=DIR	change XSLT executable prefix [default $exec_prefix]
+  --libs		print library linking information
+                        add --dynamic to print only shared libraries
+  --cflags		print pre-processor and compiler flags
+  --plugins		print plugin directory
+  --help		display this help and exit
+  --version		output version information
+EOF
+
+    exit $1
+}
+
+if test $# -eq 0; then
+    usage 1
+fi
+
+while test $# -gt 0; do
+    case "$1" in
+    -*=*) optarg=`echo "$1" | sed 's/[-_a-zA-Z0-9]*=//'` ;;
+    *) optarg= ;;
+    esac
+
+    case "$1" in
+    --prefix=*)
+	prefix=$optarg
+        includedir=${prefix}/include
+        libdir=${prefix}/lib
+	if test $exec_prefix_set = no ; then
+	    exec_prefix=$optarg
+	fi
+	;;
+
+    --prefix)
+	echo $prefix
+	;;
+
+    --exec-prefix=*)
+	exec_prefix=$optarg
+	exec_prefix_set=yes
+	;;
+
+    --exec-prefix)
+	echo $exec_prefix
+	;;
+
+    --version)
+	echo 1.1.35
+	exit 0
+	;;
+
+    --plugins)
+	echo /Users/drew/siwelwerd.github.io/files/env/lib/libxslt-plugins
+	exit 0
+	;;
+
+    --help)
+	usage 0
+	;;
+
+    --cflags)
+        cflags="-I/Users/drew/siwelwerd.github.io/files/env/include/libxml2 -I/Users/drew/siwelwerd.github.io/files/env/include"
+        if test "$includedir" != "/usr/include"; then
+            cflags="$cflags -I${includedir}"
+        fi
+       	;;
+
+    --libs)
+        if [ "$2" = "--dynamic" ]; then
+            shift
+            libs="-lxslt -L/Users/drew/siwelwerd.github.io/files/env/lib -lxml2 -L/Users/drew/siwelwerd.github.io/files/env/lib -L/Users/drew/siwelwerd.github.io/files/env/lib -lpthread -L/Users/drew/siwelwerd.github.io/files/env/lib -liconv -L/Users/drew/siwelwerd.github.io/files/env/lib -licui18n -licuuc -licudata -lm"
+        else
+            libs="-lxslt -L/Users/drew/siwelwerd.github.io/files/env/lib -lxml2 -L/Users/drew/siwelwerd.github.io/files/env/lib -L/Users/drew/siwelwerd.github.io/files/env/lib -lpthread -L/Users/drew/siwelwerd.github.io/files/env/lib -liconv -L/Users/drew/siwelwerd.github.io/files/env/lib -licui18n -licuuc -licudata -lm "
+        fi
+
+        if [ "-L${libdir}" != "-L/usr/lib" -a "-L${libdir}" != "-L/usr/lib64" ]; then
+            libs="-L${libdir} $libs"
+        fi
+
+        libs="$libs "
+       	;;
+
+    *)
+	usage
+	exit 1
+	;;
+    esac
+    shift
+done
+
+all_flags="$cflags $libs"
+
+if test -z "$all_flags" || test "x$all_flags" = "x "; then
+    exit 1
+fi
+
+# Straight out any possible duplicates, but be careful to
+# get `-lfoo -lbar -lbaz' for `-lfoo -lbaz -lbar -lbaz'
+other_flags=
+rev_libs=
+for i in $all_flags; do
+    case "$i" in
+    # a library, save it for later, in reverse order
+    -l*) rev_libs="$i $rev_libs" ;;
+    *)
+	case " $other_flags " in
+	*\ $i\ *) ;;				# already there
+	*) other_flags="$other_flags $i" ;;	# add it to output
+        esac ;;
+    esac
+done
+
+ord_libs=
+for i in $rev_libs; do
+    case " $ord_libs " in
+    *\ $i\ *) ;;			# already there
+    *) ord_libs="$i $ord_libs" ;;	# add it to output in reverse order
+    esac
+done
+
+echo $other_flags $ord_libs
+
+exit 0

@@ -1,0 +1,138 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><title>xsltproc</title><meta name="generator" content="DocBook XSL Stylesheets V1.79.1"></head><body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF"><div class="refentry"><a name="idm1"></a><div class="titlepage"></div><div class="refnamediv"><h2>Name</h2><p>xsltproc &#8212; command line XSLT processor</p></div><div class="refsynopsisdiv"><h2>Synopsis</h2><div class="cmdsynopsis"><p><code class="command">xsltproc</code>  [[ <code class="option">-V</code>  |   <code class="option">--version</code> ] [ <code class="option">-v</code>  |   <code class="option">--verbose</code> ] [{ <code class="option">-o</code>  |   <code class="option">--output</code> } { <em class="replaceable"><code>FILE</code></em>  |   <em class="replaceable"><code>DIRECTORY</code></em> }] |   <code class="option">--timing</code>  |   <code class="option">--repeat</code>  |   <code class="option">--debug</code>  |   <code class="option">--novalid</code>  |   <code class="option">--noout</code>  |   <code class="option">--maxdepth <em class="replaceable"><code>VALUE</code></em></code>  |   <code class="option">--maxvars <em class="replaceable"><code>VALUE</code></em></code>  |   <code class="option">--maxparserdepth <em class="replaceable"><code>VALUE</code></em></code>  |   <code class="option">--huge</code>  |   <code class="option">--seed-rand <em class="replaceable"><code>VALUE</code></em></code>  |   <code class="option">--html</code>  |   <code class="option">--encoding
+			 <em class="replaceable"><code>ENCODING</code></em>
+			</code>  |   <code class="option">--param
+			 <em class="replaceable"><code>PARAMNAME</code></em>
+			 <em class="replaceable"><code>PARAMVALUE</code></em>
+			</code>  |   <code class="option">--stringparam
+			 <em class="replaceable"><code>PARAMNAME</code></em>
+			 <em class="replaceable"><code>PARAMVALUE</code></em>
+			</code>  |   <code class="option">--nonet</code>  |   <code class="option">--path "<em class="replaceable"><code>PATH(S)</code></em>"</code>  |   <code class="option">--load-trace</code>  |   <code class="option">--catalogs</code>  |   <code class="option">--xinclude</code>  |   <code class="option">--xincludestyle</code>  |   			
+				[ <code class="option">--profile</code>  |   <code class="option">--norman</code> ]
+			  |   <code class="option">--dumpextensions</code>  |   <code class="option">--nowrite</code>  |   <code class="option">--nomkdir</code>  |   <code class="option">--writesubtree <em class="replaceable"><code>PATH</code></em></code>  |   <code class="option">--nodtdattr</code> ] [<em class="replaceable"><code>STYLESHEET</code></em>] { <em class="replaceable"><code>XML-FILE</code></em>...  |   - }</p></div></div><div class="refsect1"><a name="description"></a><h2>DESCRIPTION</h2><p>
+		<span class="command"><strong>xsltproc</strong></span> is a command line tool for applying <acronym class="acronym">XSLT</acronym>
+		stylesheets to <acronym class="acronym">XML</acronym> documents. It is part
+		of <span class="citerefentry"><span class="refentrytitle">libxslt</span>(3)</span>, the XSLT C library for GNOME.
+		While it was developed as part of the GNOME project, it can operate
+		independently of the GNOME desktop.
+	</p><p>
+		<span class="command"><strong>xsltproc</strong></span> is invoked from the command line with the name of the
+		stylesheet to be used followed by the name of the file or files to which
+		the stylesheet is to be applied. It will use the standard input if a
+		filename provided is <span class="bold"><strong>-</strong></span> .
+	</p><p>
+		If a stylesheet is included in an <acronym class="acronym">XML</acronym> document with a
+		Stylesheet Processing Instruction, no stylesheet need to be named at the
+		command line. <span class="command"><strong>xsltproc</strong></span> will automatically detect the included stylesheet
+		and use it.
+	</p><p>
+		By default, output is to <code class="filename">stdout</code>.
+		You can specify a file for output using
+		the <code class="option">-o</code> or <code class="option">--output</code> option.
+	</p></div><div class="refsect1"><a name="options"></a><h2>OPTIONS</h2><p>
+		<span class="command"><strong>xsltproc</strong></span> accepts the following options (in alphabetical order):
+	</p><div class="variablelist"><dl class="variablelist"><dt><span class="term"><code class="option">--catalogs</code></span></dt><dd><p>
+			Use the <acronym class="acronym">SGML</acronym> catalog specified 
+			in <code class="envar">SGML_CATALOG_FILES</code> to resolve the location of
+			external entities. By default, <span class="command"><strong>xsltproc</strong></span> looks for the catalog
+			specified in <code class="envar">XML_CATALOG_FILES</code>. If that is not
+			specified, it uses <code class="filename">/etc/xml/catalog</code>.
+		</p></dd><dt><span class="term"><code class="option">--debug</code></span></dt><dd><p>
+			Output an <acronym class="acronym">XML</acronym> tree of the transformed document
+			for debugging purposes.
+		</p></dd><dt><span class="term"><code class="option">--dumpextensions</code></span></dt><dd><p>
+			Dumps the list of all registered extensions
+			on <code class="filename">stdout</code>.
+		</p></dd><dt><span class="term"><code class="option">--html</code></span></dt><dd><p>The input document is an <acronym class="acronym">HTML</acronym> file.</p></dd><dt><span class="term"><code class="option">--load-trace</code></span></dt><dd><p>
+			Display all the documents loaded during the processing
+			to <code class="filename">stderr</code>.
+		</p></dd><dt><span class="term"><code class="option">--maxdepth <em class="replaceable"><code>VALUE</code></em></code></span></dt><dd><p>
+			Adjust the maximum depth of the template stack
+			before <span class="citerefentry"><span class="refentrytitle">libxslt</span>(3)</span> concludes it is in an infinite loop. The default is 3000.
+		</p></dd><dt><span class="term"><code class="option">--maxvars <em class="replaceable"><code>VALUE</code></em></code></span></dt><dd><p>Maximum number of variables. The default is 15000.</p></dd><dt><span class="term"><code class="option">--maxparserdepth <em class="replaceable"><code>VALUE</code></em></code></span></dt><dd><p>Maximum element nesting level of parsed XML documents. The default is 256.</p></dd><dt><span class="term"><code class="option">--huge</code></span></dt><dd><p>Relax hardcoded limits of the XML parser by setting the XML_PARSE_HUGE parser option.</p></dd><dt><span class="term"><code class="option">--seed-rand <em class="replaceable"><code>VALUE</code></em></code></span></dt><dd><p>Initialize pseudo random number generator with specific seed.</p></dd><dt><span class="term"><code class="option">--nodtdattr</code></span></dt><dd><p>
+			Do not apply default attributes from the
+			document's <acronym class="acronym">DTD</acronym>.
+		</p></dd><dt><span class="term"><code class="option">--nomkdir</code></span></dt><dd><p>Refuses to create directories.</p></dd><dt><span class="term"><code class="option">--nonet</code></span></dt><dd><p>
+			Do not use the Internet to fetch <acronym class="acronym">DTD</acronym>s, entities
+			or documents.
+		</p></dd><dt><span class="term"><code class="option">--noout</code></span></dt><dd><p>Do not output the result.</p></dd><dt><span class="term"><code class="option">--novalid</code></span></dt><dd><p>Skip loading the document's <acronym class="acronym">DTD</acronym>.</p></dd><dt><span class="term"><code class="option">--nowrite</code></span></dt><dd><p>Refuses to write to any file or resource.</p></dd><dt><span class="term">
+		<code class="option">-o</code> or <code class="option">--output</code>
+		 <em class="replaceable"><code>FILE</code></em> | <em class="replaceable"><code>DIRECTORY</code></em>
+	</span></dt><dd><p>
+			Direct output to the given <em class="replaceable"><code>FILE</code></em>. Using
+			the option with a <em class="replaceable"><code>DIRECTORY</code></em> directs the
+			output files to the specified directory. This can be
+			useful for multiple outputs (also known as "chunking") or manpage
+			processing.
+		</p><div class="important" style="margin-left: 0.5in; margin-right: 0.5in;"><h3 class="title">Important</h3><p>
+				The given directory <span class="bold"><strong>must</strong></span> already exist.
+			</p></div><div class="note" style="margin-left: 0.5in; margin-right: 0.5in;"><h3 class="title">Note</h3><p>
+				Make sure that <em class="replaceable"><code>FILE</code></em>
+				and <em class="replaceable"><code>DIRECTORY</code></em> follow the <span class="quote">&#8220;<span class="quote">URI reference
+				computation</span>&#8221;</span> as described in RFC 2396 and laters. This means, that
+				e.g. <code class="option">-o directory</code> will maybe not work,
+				but <code class="option">-o directory/</code> will.
+			</p></div></dd><dt><span class="term">
+		<code class="option">--encoding <em class="replaceable"><code>ENCODING</code></em></code>
+	</span></dt><dd><p>
+			Allow to specify the encoding for the input.
+		</p></dd><dt><span class="term">
+		<code class="option">--param <em class="replaceable"><code>PARAMNAME</code></em> <em class="replaceable"><code>PARAMVALUE</code></em></code>
+	</span></dt><dd><p>
+Pass a parameter of name <em class="replaceable"><code>PARAMNAME</code></em> and value
+<em class="replaceable"><code>PARAMVALUE</code></em> to the stylesheet. You may pass
+multiple name/value pairs up to a maximum of 32. If the value being passed
+is a string, you can use <code class="option">--stringparam</code> instead, to avoid
+additional quote characters that appear in string expressions. Note:
+the XPath expression must be UTF-8 encoded.
+		</p></dd><dt><span class="term"><code class="option">--path "<em class="replaceable"><code>PATH(S)</code></em>"</code></span></dt><dd><p>
+			Use the (space- or colon-separated) list of filesystem paths specified
+			by <em class="replaceable"><code>PATHS</code></em> to load <acronym class="acronym">DTD</acronym>s,
+			entities or documents. Enclose space-separated lists by quotation marks.
+		</p></dd><dt><span class="term"><code class="option">--profile</code> or <code class="option">--norman</code></span></dt><dd><p>
+			Output profiling information detailing the amount of time spent in
+			each part of the stylesheet. This is useful in optimizing stylesheet
+			performance.
+		</p></dd><dt><span class="term"><code class="option">--repeat</code></span></dt><dd><p>Run the transformation 20 times. Used for timing tests.</p></dd><dt><span class="term">
+		<code class="option">--stringparam <em class="replaceable"><code>PARAMNAME</code></em> <em class="replaceable"><code>PARAMVALUE</code></em></code>
+	</span></dt><dd><p>
+			Pass a parameter of name <em class="replaceable"><code>PARAMNAME</code></em> and
+			value <em class="replaceable"><code>PARAMVALUE</code></em>
+			where <em class="replaceable"><code>PARAMVALUE</code></em> is a string rather than a
+			node identifier. <span class="bold"><strong>Note:</strong></span> The string
+			must be UTF-8 encoded.
+		</p></dd><dt><span class="term"><code class="option">--timing</code></span></dt><dd><p>
+			Display the time used for parsing the stylesheet, parsing the document
+			and applying the stylesheet and saving the result. Displayed in
+			milliseconds.
+		</p></dd><dt><span class="term"><code class="option">-v</code> or <code class="option">--verbose</code></span></dt><dd><p>
+			Output each step taken by <span class="command"><strong>xsltproc</strong></span> in processing the stylesheet
+			and the document.
+		</p></dd><dt><span class="term"><code class="option">-V</code> or <code class="option">--version</code></span></dt><dd><p>
+			Show the version of <span class="citerefentry"><span class="refentrytitle">libxml</span>(3)</span> and <span class="citerefentry"><span class="refentrytitle">libxslt</span>(3)</span> used.
+		</p></dd><dt><span class="term"><code class="option">--writesubtree <em class="replaceable"><code>PATH</code></em></code></span></dt><dd><p>
+			Allow file write only within the <em class="replaceable"><code>PATH</code></em>
+			subtree.
+		</p></dd><dt><span class="term"><code class="option">--xinclude</code></span></dt><dd><p>
+			Process the input document using the XInclude specification. More
+			details on this can be found in the XInclude
+			specification: <a class="ulink" href="http://www.w3.org/TR/xinclude/" target="_top">http://www.w3.org/TR/xinclude/</a>
+		</p></dd><dt><span class="term"><code class="option">--xincludestyle</code></span></dt><dd><p>Process the stylesheet with XInclude.</p></dd></dl></div></div><div class="refsect1"><a name="environment"></a><h2>ENVIRONMENT</h2><div class="variablelist"><dl class="variablelist"><dt><span class="term"><code class="envar">SGML_CATALOG_FILES</code></span></dt><dd><p><acronym class="acronym">SGML</acronym> catalog behavior can be changed by redirecting
+			queries to the user's own set of catalogs. This can be done by setting
+			the <code class="envar">SGML_CATALOG_FILES</code> environment variable to a list
+			of catalogs. An empty one should deactivate loading the
+			default <code class="filename">/etc/sgml/catalog</code> catalog.
+		</p></dd><dt><span class="term"><code class="envar">XML_CATALOG_FILES</code></span></dt><dd><p><acronym class="acronym">XML</acronym> catalog behavior can be changed by redirecting
+			queries to the user's own set of catalogs. This can be done by setting
+			the <code class="envar">XML_CATALOG_FILES</code> environment variable to a list
+			of catalogs. An empty one should deactivate loading the
+			default <code class="filename">/etc/xml/catalog</code> catalog.
+		</p></dd></dl></div></div><div class="refsect1"><a name="diagnostics"></a><h2>DIAGNOSTICS</h2><p>
+		<span class="command"><strong>xsltproc</strong></span> return codes provide information that can be used when
+		calling it from scripts.
+	</p><div class="variablelist"><dl class="variablelist"><dt><span class="term"><span class="errorcode">0</span></span></dt><dd><p>No error (normal operation)</p></dd><dt><span class="term"><span class="errorcode">1</span></span></dt><dd><p>No argument</p></dd><dt><span class="term"><span class="errorcode">2</span></span></dt><dd><p>Too many parameters</p></dd><dt><span class="term"><span class="errorcode">3</span></span></dt><dd><p>Unknown option</p></dd><dt><span class="term"><span class="errorcode">4</span></span></dt><dd><p>Failed to parse the stylesheet</p></dd><dt><span class="term"><span class="errorcode">5</span></span></dt><dd><p>Error in the stylesheet</p></dd><dt><span class="term"><span class="errorcode">6</span></span></dt><dd><p>Error in one of the documents</p></dd><dt><span class="term"><span class="errorcode">7</span></span></dt><dd><p>Unsupported xsl:output method</p></dd><dt><span class="term"><span class="errorcode">8</span></span></dt><dd><p>String parameter contains both quote and double-quotes</p></dd><dt><span class="term"><span class="errorcode">9</span></span></dt><dd><p>Internal processing error</p></dd><dt><span class="term"><span class="errorcode">10</span></span></dt><dd><p>Processing was stopped by a terminating message</p></dd><dt><span class="term"><span class="errorcode">11</span></span></dt><dd><p>Could not write the result to the output file</p></dd></dl></div></div><div class="refsect1"><a name="seealso"></a><h2>SEE ALSO</h2><p><span class="citerefentry"><span class="refentrytitle">libxml</span>(3)</span>, <span class="citerefentry"><span class="refentrytitle">libxslt</span>(3)</span>
+	</p><p>
+		More information can be found at
+		</p><div class="itemizedlist"><ul class="itemizedlist" style="list-style-type: disc; "><li class="listitem"><p><span class="citerefentry"><span class="refentrytitle">libxml</span>(3)</span> web page <a class="ulink" href="https://gitlab.gnome.org/GNOME/libxslt" target="_top">https://gitlab.gnome.org/GNOME/libxslt</a>
+				</p></li><li class="listitem"><p>W3C <acronym class="acronym">XSLT</acronym> page <a class="ulink" href="http://www.w3.org/TR/xslt" target="_top">http://www.w3.org/TR/xslt</a>
+				</p></li></ul></div><p>
+	</p></div></div></body></html>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>templates: interface for the template processing</title>
+    <meta name="generator" content="Libxml2 devhelp stylesheet"/>
+    <link rel="start" href="index.html" title="libxslt Reference Manual"/>
+    <link rel="up" href="general.html" title="API"/>
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <link rel="chapter" href="general.html" title="API"/>
+  </head>
+  <body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
+    <table class="navigation" width="100%" summary="Navigation header" cellpadding="2" cellspacing="2">
+      <tr valign="middle">
+        <td>
+          <a accesskey="p" href="libxslt-security.html">
+            <img src="left.png" width="24" height="24" border="0" alt="Prev"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="u" href="general.html">
+            <img src="up.png" width="24" height="24" border="0" alt="Up"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="h" href="index.html">
+            <img src="home.png" width="24" height="24" border="0" alt="Home"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="n" href="libxslt-transform.html">
+            <img src="right.png" width="24" height="24" border="0" alt="Next"/>
+          </a>
+        </td>
+        <th width="100%" align="center">libxslt Reference Manual</th>
+      </tr>
+    </table>
+    <h2>
+      <span class="refentrytitle">templates</span>
+    </h2>
+    <p>templates - interface for the template processing</p>
+    <p>This set of routine encapsulates XPath calls and Attribute Value Templates evaluation. </p>
+    <p>Author(s): Daniel Veillard </p>
+    <div class="refsynopsisdiv">
+      <h2>Synopsis</h2>
+      <pre class="synopsis">const xmlChar *	<a href="#xsltEvalStaticAttrValueTemplate">xsltEvalStaticAttrValueTemplate</a>	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>						 xmlNodePtr inst, <br/>						 const xmlChar * name, <br/>						 const xmlChar * ns, <br/>						 int * found);
+xmlAttrPtr	<a href="#xsltAttrListTemplateProcess">xsltAttrListTemplateProcess</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>						 xmlNodePtr target, <br/>						 xmlAttrPtr attrs);
+xmlChar *	<a href="#xsltEvalTemplateString">xsltEvalTemplateString</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr contextNode, <br/>					 xmlNodePtr inst);
+xmlChar *	<a href="#xsltAttrTemplateValueProcess">xsltAttrTemplateValueProcess</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>						 const xmlChar * str);
+xmlAttrPtr	<a href="#xsltAttrTemplateProcess">xsltAttrTemplateProcess</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr target, <br/>					 xmlAttrPtr attr);
+xmlChar *	<a href="#xsltEvalAttrValueTemplate">xsltEvalAttrValueTemplate</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>						 xmlNodePtr inst, <br/>						 const xmlChar * name, <br/>						 const xmlChar * ns);
+int	<a href="#xsltEvalXPathPredicate">xsltEvalXPathPredicate</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlXPathCompExprPtr comp, <br/>					 xmlNsPtr * nsList, <br/>					 int nsNr);
+xmlChar *	<a href="#xsltAttrTemplateValueProcessNode">xsltAttrTemplateValueProcessNode</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>							 const xmlChar * str, <br/>							 xmlNodePtr inst);
+xmlNodePtr *	<a href="#xsltTemplateProcess">xsltTemplateProcess</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr node);
+xmlChar *	<a href="#xsltEvalXPathStringNs">xsltEvalXPathStringNs</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlXPathCompExprPtr comp, <br/>					 int nsNr, <br/>					 xmlNsPtr * nsList);
+xmlChar *	<a href="#xsltEvalXPathString">xsltEvalXPathString</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlXPathCompExprPtr comp);
+</pre>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Description</h2>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Details</h2>
+      <div class="refsect2" lang="en">
+        <div class="refsect2" lang="en"><h3><a name="xsltAttrListTemplateProcess"/>xsltAttrListTemplateProcess ()</h3><pre class="programlisting">xmlAttrPtr	xsltAttrListTemplateProcess	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>						 xmlNodePtr target, <br/>						 xmlAttrPtr attrs)<br/>
+</pre><p>Processes all attributes of a Literal Result Element. Attribute references are applied via xsl:use-attribute-set attributes. Copies all non XSLT-attributes over to the @target element and evaluates Attribute Value Templates. Called by xsltApplySequenceConstructor() (transform.c).</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>target</tt></i>:</span></td><td>the element where the attributes will be grafted</td></tr><tr><td><span class="term"><i><tt>attrs</tt></i>:</span></td><td>the first attribute</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>a new list of attribute nodes, or NULL in case of error. (Don't assign the result to @target-&gt;properties; if the result is NULL, you'll get memory leaks, since the attributes will be disattached.)</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltAttrTemplateProcess"/>xsltAttrTemplateProcess ()</h3><pre class="programlisting">xmlAttrPtr	xsltAttrTemplateProcess	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr target, <br/>					 xmlAttrPtr attr)<br/>
+</pre><p>Process one attribute of a Literal Result Element (in the stylesheet). Evaluates Attribute Value Templates and copies the attribute over to the result element. This does *not* process attribute sets (xsl:use-attribute-set).</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>target</tt></i>:</span></td><td>the element where the attribute will be grafted</td></tr><tr><td><span class="term"><i><tt>attr</tt></i>:</span></td><td>the attribute node of a literal result element</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the generated attribute node.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltAttrTemplateValueProcess"/>xsltAttrTemplateValueProcess ()</h3><pre class="programlisting">xmlChar *	xsltAttrTemplateValueProcess	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>						 const xmlChar * str)<br/>
+</pre><p>Process the given node and return the new string value.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>str</tt></i>:</span></td><td>the attribute template node value</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the computed string value or NULL, must be deallocated by the caller.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltAttrTemplateValueProcessNode"/>xsltAttrTemplateValueProcessNode ()</h3><pre class="programlisting">xmlChar *	xsltAttrTemplateValueProcessNode	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>							 const xmlChar * str, <br/>							 xmlNodePtr inst)<br/>
+</pre><p>Process the given string, allowing to pass a namespace mapping context and return the new string value. Called by: - xsltAttrTemplateValueProcess() (templates.c) - xsltEvalAttrValueTemplate() (templates.c) QUESTION: Why is this function public? It is not used outside of templates.c.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>str</tt></i>:</span></td><td>the attribute template node value</td></tr><tr><td><span class="term"><i><tt>inst</tt></i>:</span></td><td>the instruction (or LRE) in the stylesheet holding the attribute with an AVT</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the computed string value or NULL, must be deallocated by the caller.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltEvalAttrValueTemplate"/>xsltEvalAttrValueTemplate ()</h3><pre class="programlisting">xmlChar *	xsltEvalAttrValueTemplate	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>						 xmlNodePtr inst, <br/>						 const xmlChar * name, <br/>						 const xmlChar * ns)<br/>
+</pre><p>Evaluate a attribute value template, i.e. the attribute value can contain expressions contained in curly braces ({}) and those are substituted by they computed value.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>inst</tt></i>:</span></td><td>the instruction (or LRE) in the stylesheet holding the attribute with an AVT</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the attribute QName</td></tr><tr><td><span class="term"><i><tt>ns</tt></i>:</span></td><td>the attribute namespace URI</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the computed string value or NULL, must be deallocated by the caller.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltEvalStaticAttrValueTemplate"/>xsltEvalStaticAttrValueTemplate ()</h3><pre class="programlisting">const xmlChar *	xsltEvalStaticAttrValueTemplate	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>						 xmlNodePtr inst, <br/>						 const xmlChar * name, <br/>						 const xmlChar * ns, <br/>						 int * found)<br/>
+</pre><p>Check if an attribute value template has a static value, i.e. the attribute value does not contain expressions contained in curly braces ({})</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>the XSLT stylesheet</td></tr><tr><td><span class="term"><i><tt>inst</tt></i>:</span></td><td>the instruction (or LRE) in the stylesheet holding the attribute with an AVT</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the attribute Name</td></tr><tr><td><span class="term"><i><tt>ns</tt></i>:</span></td><td>the attribute namespace URI</td></tr><tr><td><span class="term"><i><tt>found</tt></i>:</span></td><td>indicator whether the attribute is present</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the static string value or NULL, must be deallocated by the caller.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltEvalTemplateString"/>xsltEvalTemplateString ()</h3><pre class="programlisting">xmlChar *	xsltEvalTemplateString	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr contextNode, <br/>					 xmlNodePtr inst)<br/>
+</pre><p>Processes the sequence constructor of the given instruction on @contextNode and converts the resulting tree to a string. This is needed by e.g. xsl:comment and xsl:processing-instruction.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>contextNode</tt></i>:</span></td><td>the current node in the source tree</td></tr><tr><td><span class="term"><i><tt>inst</tt></i>:</span></td><td>the XSLT instruction (xsl:comment, xsl:processing-instruction)</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the computed string value or NULL; it's up to the caller to free the result.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltEvalXPathPredicate"/>xsltEvalXPathPredicate ()</h3><pre class="programlisting">int	xsltEvalXPathPredicate		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlXPathCompExprPtr comp, <br/>					 xmlNsPtr * nsList, <br/>					 int nsNr)<br/>
+</pre><p>Process the expression using XPath and evaluate the result as an XPath predicate</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>comp</tt></i>:</span></td><td>the XPath compiled expression</td></tr><tr><td><span class="term"><i><tt>nsList</tt></i>:</span></td><td>the namespaces in scope</td></tr><tr><td><span class="term"><i><tt>nsNr</tt></i>:</span></td><td>the number of namespaces in scope</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>1 is the predicate was true, 0 otherwise</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltEvalXPathString"/>xsltEvalXPathString ()</h3><pre class="programlisting">xmlChar *	xsltEvalXPathString	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlXPathCompExprPtr comp)<br/>
+</pre><p>Process the expression using XPath and get a string</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>comp</tt></i>:</span></td><td>the compiled XPath expression</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the computed string value or NULL, must be deallocated by the caller.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltEvalXPathStringNs"/>xsltEvalXPathStringNs ()</h3><pre class="programlisting">xmlChar *	xsltEvalXPathStringNs	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlXPathCompExprPtr comp, <br/>					 int nsNr, <br/>					 xmlNsPtr * nsList)<br/>
+</pre><p>Process the expression using XPath, allowing to pass a namespace mapping context and get a string</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>comp</tt></i>:</span></td><td>the compiled XPath expression</td></tr><tr><td><span class="term"><i><tt>nsNr</tt></i>:</span></td><td>the number of namespaces in the list</td></tr><tr><td><span class="term"><i><tt>nsList</tt></i>:</span></td><td>the list of in-scope namespaces to use</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the computed string value or NULL, must be deallocated by the caller.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltTemplateProcess"/>xsltTemplateProcess ()</h3><pre class="programlisting">xmlNodePtr *	xsltTemplateProcess	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr node)<br/>
+</pre><p>Obsolete. Don't use it.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>node</tt></i>:</span></td><td>the attribute template node</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>NULL.</td></tr></tbody></table></div></div>
+        <hr/>
+      </div>
+    </div>
+  </body>
+</html>

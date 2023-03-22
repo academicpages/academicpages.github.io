@@ -1,0 +1,872 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniconda/base/pkgs/flit-core-3.6.0-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "lib/python3.10/site-packages/flit_core-3.6.0.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/flit_core-3.6.0.dist-info/METADATA",
+    "lib/python3.10/site-packages/flit_core-3.6.0.dist-info/RECORD",
+    "lib/python3.10/site-packages/flit_core-3.6.0.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/flit_core-3.6.0.dist-info/WHEEL",
+    "lib/python3.10/site-packages/flit_core-3.6.0.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/flit_core/__init__.py",
+    "lib/python3.10/site-packages/flit_core/buildapi.py",
+    "lib/python3.10/site-packages/flit_core/common.py",
+    "lib/python3.10/site-packages/flit_core/config.py",
+    "lib/python3.10/site-packages/flit_core/sdist.py",
+    "lib/python3.10/site-packages/flit_core/tests/__init__.py",
+    "lib/python3.10/site-packages/flit_core/tests/samples/EG_README.rst",
+    "lib/python3.10/site-packages/flit_core/tests/samples/bad-description-ext.toml",
+    "lib/python3.10/site-packages/flit_core/tests/samples/conflicting_modules/module1.py",
+    "lib/python3.10/site-packages/flit_core/tests/samples/conflicting_modules/pyproject.toml",
+    "lib/python3.10/site-packages/flit_core/tests/samples/conflicting_modules/src/module1.py",
+    "lib/python3.10/site-packages/flit_core/tests/samples/constructed_version/module1.py",
+    "lib/python3.10/site-packages/flit_core/tests/samples/constructed_version/pyproject.toml",
+    "lib/python3.10/site-packages/flit_core/tests/samples/extras-dev-conflict.toml",
+    "lib/python3.10/site-packages/flit_core/tests/samples/extras.toml",
+    "lib/python3.10/site-packages/flit_core/tests/samples/inclusion/LICENSES/README",
+    "lib/python3.10/site-packages/flit_core/tests/samples/inclusion/doc/subdir/test.txt",
+    "lib/python3.10/site-packages/flit_core/tests/samples/inclusion/doc/test.rst",
+    "lib/python3.10/site-packages/flit_core/tests/samples/inclusion/doc/test.txt",
+    "lib/python3.10/site-packages/flit_core/tests/samples/inclusion/module1.py",
+    "lib/python3.10/site-packages/flit_core/tests/samples/inclusion/pyproject.toml",
+    "lib/python3.10/site-packages/flit_core/tests/samples/invalid_version1.py",
+    "lib/python3.10/site-packages/flit_core/tests/samples/missing-description-file.toml",
+    "lib/python3.10/site-packages/flit_core/tests/samples/misspelled-key.toml",
+    "lib/python3.10/site-packages/flit_core/tests/samples/module1-pkg.ini",
+    "lib/python3.10/site-packages/flit_core/tests/samples/module1-pkg.toml",
+    "lib/python3.10/site-packages/flit_core/tests/samples/module1.py",
+    "lib/python3.10/site-packages/flit_core/tests/samples/module2.py",
+    "lib/python3.10/site-packages/flit_core/tests/samples/moduleunimportable.py",
+    "lib/python3.10/site-packages/flit_core/tests/samples/my-description.rst",
+    "lib/python3.10/site-packages/flit_core/tests/samples/no_docstring-pkg.toml",
+    "lib/python3.10/site-packages/flit_core/tests/samples/no_docstring.py",
+    "lib/python3.10/site-packages/flit_core/tests/samples/ns1-pkg/EG_README.rst",
+    "lib/python3.10/site-packages/flit_core/tests/samples/ns1-pkg/ns1/pkg/__init__.py",
+    "lib/python3.10/site-packages/flit_core/tests/samples/ns1-pkg/pyproject.toml",
+    "lib/python3.10/site-packages/flit_core/tests/samples/package1.toml",
+    "lib/python3.10/site-packages/flit_core/tests/samples/package1/__init__.py",
+    "lib/python3.10/site-packages/flit_core/tests/samples/package1/data_dir/foo.sh",
+    "lib/python3.10/site-packages/flit_core/tests/samples/package1/foo.py",
+    "lib/python3.10/site-packages/flit_core/tests/samples/package1/subpkg/__init__.py",
+    "lib/python3.10/site-packages/flit_core/tests/samples/package1/subpkg/sp_data_dir/test.json",
+    "lib/python3.10/site-packages/flit_core/tests/samples/package1/subpkg2/__init__.py",
+    "lib/python3.10/site-packages/flit_core/tests/samples/pep517/LICENSE",
+    "lib/python3.10/site-packages/flit_core/tests/samples/pep517/README.rst",
+    "lib/python3.10/site-packages/flit_core/tests/samples/pep517/module1.py",
+    "lib/python3.10/site-packages/flit_core/tests/samples/pep517/pyproject.toml",
+    "lib/python3.10/site-packages/flit_core/tests/samples/pep621/LICENSE",
+    "lib/python3.10/site-packages/flit_core/tests/samples/pep621/README.rst",
+    "lib/python3.10/site-packages/flit_core/tests/samples/pep621/module1a.py",
+    "lib/python3.10/site-packages/flit_core/tests/samples/pep621/pyproject.toml",
+    "lib/python3.10/site-packages/flit_core/tests/samples/pep621_nodynamic/README.rst",
+    "lib/python3.10/site-packages/flit_core/tests/samples/pep621_nodynamic/module1.py",
+    "lib/python3.10/site-packages/flit_core/tests/samples/pep621_nodynamic/pyproject.toml",
+    "lib/python3.10/site-packages/flit_core/tests/samples/requires-dev.toml",
+    "lib/python3.10/site-packages/flit_core/tests/samples/requires-envmark.toml",
+    "lib/python3.10/site-packages/flit_core/tests/samples/requires-extra-envmark.toml",
+    "lib/python3.10/site-packages/flit_core/tests/samples/requires-requests.toml",
+    "lib/python3.10/site-packages/flit_core/tests/test_build_thyself.py",
+    "lib/python3.10/site-packages/flit_core/tests/test_buildapi.py",
+    "lib/python3.10/site-packages/flit_core/tests/test_common.py",
+    "lib/python3.10/site-packages/flit_core/tests/test_config.py",
+    "lib/python3.10/site-packages/flit_core/tests/test_sdist.py",
+    "lib/python3.10/site-packages/flit_core/tests/test_versionno.py",
+    "lib/python3.10/site-packages/flit_core/tests/test_wheel.py",
+    "lib/python3.10/site-packages/flit_core/vendor/README",
+    "lib/python3.10/site-packages/flit_core/vendor/__init__.py",
+    "lib/python3.10/site-packages/flit_core/vendor/tomli-1.2.3.dist-info/LICENSE",
+    "lib/python3.10/site-packages/flit_core/vendor/tomli-1.2.3.dist-info/METADATA",
+    "lib/python3.10/site-packages/flit_core/vendor/tomli/__init__.py",
+    "lib/python3.10/site-packages/flit_core/vendor/tomli/_parser.py",
+    "lib/python3.10/site-packages/flit_core/vendor/tomli/_re.py",
+    "lib/python3.10/site-packages/flit_core/vendor/tomli/_types.py",
+    "lib/python3.10/site-packages/flit_core/vendor/tomli/py.typed",
+    "lib/python3.10/site-packages/flit_core/versionno.py",
+    "lib/python3.10/site-packages/flit_core/wheel.py",
+    "lib/python3.10/site-packages/flit_core/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/__pycache__/buildapi.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/__pycache__/common.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/__pycache__/config.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/__pycache__/sdist.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/samples/conflicting_modules/__pycache__/module1.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/samples/conflicting_modules/src/__pycache__/module1.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/samples/constructed_version/__pycache__/module1.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/samples/inclusion/__pycache__/module1.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/samples/__pycache__/invalid_version1.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/samples/__pycache__/module1.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/samples/__pycache__/module2.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/samples/__pycache__/moduleunimportable.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/samples/__pycache__/no_docstring.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/samples/ns1-pkg/ns1/pkg/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/samples/package1/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/samples/package1/__pycache__/foo.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/samples/package1/subpkg/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/samples/package1/subpkg2/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/samples/pep517/__pycache__/module1.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/samples/pep621/__pycache__/module1a.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/samples/pep621_nodynamic/__pycache__/module1.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/__pycache__/test_build_thyself.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/__pycache__/test_buildapi.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/__pycache__/test_common.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/__pycache__/test_config.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/__pycache__/test_sdist.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/__pycache__/test_versionno.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/tests/__pycache__/test_wheel.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/vendor/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/vendor/tomli/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/vendor/tomli/__pycache__/_parser.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/vendor/tomli/__pycache__/_re.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/vendor/tomli/__pycache__/_types.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/__pycache__/versionno.cpython-310.pyc",
+    "lib/python3.10/site-packages/flit_core/__pycache__/wheel.cpython-310.pyc"
+  ],
+  "fn": "flit-core-3.6.0-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "f4ea57791c1a1e4b2316468a415f8f38",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniconda/base/pkgs/flit-core-3.6.0-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "76802308ba7ec348cf0ca100cb133e67",
+  "name": "flit-core",
+  "noarch": "python",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniconda/base/pkgs/flit-core-3.6.0-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/flit_core-3.6.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/flit_core-3.6.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "746f81226d47b48f0e202066c610d27cb01ac44409f35f2fad3230c7961ae1d8",
+        "sha256_in_prefix": "746f81226d47b48f0e202066c610d27cb01ac44409f35f2fad3230c7961ae1d8",
+        "size_in_bytes": 401
+      },
+      {
+        "_path": "site-packages/flit_core-3.6.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "5c2963788d3400fdfb588b7b498d9a45ba87f39b96f4fcaffdf568c1a4903278",
+        "sha256_in_prefix": "5c2963788d3400fdfb588b7b498d9a45ba87f39b96f4fcaffdf568c1a4903278",
+        "size_in_bytes": 10166
+      },
+      {
+        "_path": "site-packages/flit_core-3.6.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/flit_core-3.6.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "8cf311fc3ce47385f889c42d9b3f35967358fe402c7e883baf2eeaa11bd82d7c",
+        "sha256_in_prefix": "8cf311fc3ce47385f889c42d9b3f35967358fe402c7e883baf2eeaa11bd82d7c",
+        "size_in_bytes": 81
+      },
+      {
+        "_path": "site-packages/flit_core-3.6.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "31fa55dd3f378ec1015e81cbe53145df9e1814ac5cf680a2a334c6d35280ac3c",
+        "sha256_in_prefix": "31fa55dd3f378ec1015e81cbe53145df9e1814ac5cf680a2a334c6d35280ac3c",
+        "size_in_bytes": 100
+      },
+      {
+        "_path": "site-packages/flit_core/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "53cb6d80b213c53ad89bbd7927be196a52703e22d528438d16f9ffd8c19f6c09",
+        "sha256_in_prefix": "53cb6d80b213c53ad89bbd7927be196a52703e22d528438d16f9ffd8c19f6c09",
+        "size_in_bytes": 224
+      },
+      {
+        "_path": "site-packages/flit_core/buildapi.py",
+        "path_type": "hardlink",
+        "sha256": "6b0a2d838397149f8526ce89e5869f04438db24c927fa4c9885d23e2e923538c",
+        "sha256_in_prefix": "6b0a2d838397149f8526ce89e5869f04438db24c927fa4c9885d23e2e923538c",
+        "size_in_bytes": 3282
+      },
+      {
+        "_path": "site-packages/flit_core/common.py",
+        "path_type": "hardlink",
+        "sha256": "25e33f6dbcaee89d9d5dc708f9070f64a61c9d352ff8d2f9223844276358698e",
+        "sha256_in_prefix": "25e33f6dbcaee89d9d5dc708f9070f64a61c9d352ff8d2f9223844276358698e",
+        "size_in_bytes": 13424
+      },
+      {
+        "_path": "site-packages/flit_core/config.py",
+        "path_type": "hardlink",
+        "sha256": "fb1784f91d17faa17f207d0ec87d7c14d4e971bc070c767778692f18fc589c37",
+        "sha256_in_prefix": "fb1784f91d17faa17f207d0ec87d7c14d4e971bc070c767778692f18fc589c37",
+        "size_in_bytes": 22083
+      },
+      {
+        "_path": "site-packages/flit_core/sdist.py",
+        "path_type": "hardlink",
+        "sha256": "09fbed229da5e82c631e5cda9b1f954c4d9dd5a94710cf129603aa3dcc3a8ab1",
+        "sha256_in_prefix": "09fbed229da5e82c631e5cda9b1f954c4d9dd5a94710cf129603aa3dcc3a8ab1",
+        "size_in_bytes": 6841
+      },
+      {
+        "_path": "site-packages/flit_core/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/EG_README.rst",
+        "path_type": "hardlink",
+        "sha256": "1c49271f5a272fca230518123ca7a549b9258a0430f9dd3f5938dca0f150cc23",
+        "sha256_in_prefix": "1c49271f5a272fca230518123ca7a549b9258a0430f9dd3f5938dca0f150cc23",
+        "size_in_bytes": 165
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/bad-description-ext.toml",
+        "path_type": "hardlink",
+        "sha256": "e0832c4eb2c795f51069588b754c0bf35a20efbf1365e253e7190933c9181f52",
+        "sha256_in_prefix": "e0832c4eb2c795f51069588b754c0bf35a20efbf1365e253e7190933c9181f52",
+        "size_in_bytes": 221
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/conflicting_modules/module1.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/conflicting_modules/pyproject.toml",
+        "path_type": "hardlink",
+        "sha256": "2c13b315d1c2873037b00c9139b55246785db3b30d8fa5a31652c62b2be525de",
+        "sha256_in_prefix": "2c13b315d1c2873037b00c9139b55246785db3b30d8fa5a31652c62b2be525de",
+        "size_in_bytes": 180
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/conflicting_modules/src/module1.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/constructed_version/module1.py",
+        "path_type": "hardlink",
+        "sha256": "6e02f7647dd4253b8ee8a0837e6b0dee7fdf57797335210a803a4174faa02f05",
+        "sha256_in_prefix": "6e02f7647dd4253b8ee8a0837e6b0dee7fdf57797335210a803a4174faa02f05",
+        "size_in_bytes": 115
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/constructed_version/pyproject.toml",
+        "path_type": "hardlink",
+        "sha256": "f869b895686de72ca4798260f6738655e7d8be110f5855c8e59ba5e4425dbabf",
+        "sha256_in_prefix": "f869b895686de72ca4798260f6738655e7d8be110f5855c8e59ba5e4425dbabf",
+        "size_in_bytes": 266
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/extras-dev-conflict.toml",
+        "path_type": "hardlink",
+        "sha256": "33df5680656941e53912b0cd4a1835b71b0e4a85b28e5b7042d490a1883089f2",
+        "sha256_in_prefix": "33df5680656941e53912b0cd4a1835b71b0e4a85b28e5b7042d490a1883089f2",
+        "size_in_bytes": 305
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/extras.toml",
+        "path_type": "hardlink",
+        "sha256": "d6a62829ab1cdf47e01bf35bd2552f3b6460545752fab7ab608d5d266800f008",
+        "sha256_in_prefix": "d6a62829ab1cdf47e01bf35bd2552f3b6460545752fab7ab608d5d266800f008",
+        "size_in_bytes": 361
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/inclusion/LICENSES/README",
+        "path_type": "hardlink",
+        "sha256": "0150eace3b10e09a4f1567ac53bb221d6be4415312778254c4f3233d17a76f23",
+        "sha256_in_prefix": "0150eace3b10e09a4f1567ac53bb221d6be4415312778254c4f3233d17a76f23",
+        "size_in_bytes": 100
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/inclusion/doc/subdir/test.txt",
+        "path_type": "hardlink",
+        "sha256": "6a945d52744026e70d77015cac6d56590d3e8ec11a17e75f9cbdd1041b41a88e",
+        "sha256_in_prefix": "6a945d52744026e70d77015cac6d56590d3e8ec11a17e75f9cbdd1041b41a88e",
+        "size_in_bytes": 48
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/inclusion/doc/test.rst",
+        "path_type": "hardlink",
+        "sha256": "6a945d52744026e70d77015cac6d56590d3e8ec11a17e75f9cbdd1041b41a88e",
+        "sha256_in_prefix": "6a945d52744026e70d77015cac6d56590d3e8ec11a17e75f9cbdd1041b41a88e",
+        "size_in_bytes": 48
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/inclusion/doc/test.txt",
+        "path_type": "hardlink",
+        "sha256": "d0af52dfb70268267bf01e3f22c5f4aaaf89ccb33ab37fe572b5e08bcc29f6be",
+        "sha256_in_prefix": "d0af52dfb70268267bf01e3f22c5f4aaaf89ccb33ab37fe572b5e08bcc29f6be",
+        "size_in_bytes": 48
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/inclusion/module1.py",
+        "path_type": "hardlink",
+        "sha256": "2f1357eafbe91b4da33cc1475630283d5e024d66cdb64333db089068de734b72",
+        "sha256_in_prefix": "2f1357eafbe91b4da33cc1475630283d5e024d66cdb64333db089068de734b72",
+        "size_in_bytes": 37
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/inclusion/pyproject.toml",
+        "path_type": "hardlink",
+        "sha256": "ef5c4f919aededa7faf108f6e2b6727894f3a059605cbca174b14f8ea72e5f46",
+        "sha256_in_prefix": "ef5c4f919aededa7faf108f6e2b6727894f3a059605cbca174b14f8ea72e5f46",
+        "size_in_bytes": 224
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/invalid_version1.py",
+        "path_type": "hardlink",
+        "sha256": "b00f5b2bbb2a87ac19466a76b5c8731dc6ce88f8b06587ef4134d71bd8ba643b",
+        "sha256_in_prefix": "b00f5b2bbb2a87ac19466a76b5c8731dc6ce88f8b06587ef4134d71bd8ba643b",
+        "size_in_bytes": 95
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/missing-description-file.toml",
+        "path_type": "hardlink",
+        "sha256": "d2109808d677e85fb6f3ed440be84476395feee3bce2c0918f424234c6382a34",
+        "sha256_in_prefix": "d2109808d677e85fb6f3ed440be84476395feee3bce2c0918f424234c6382a34",
+        "size_in_bytes": 254
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/misspelled-key.toml",
+        "path_type": "hardlink",
+        "sha256": "82bfe1b866740f5568db54908e88d05f0481c787091123a6c866191b97a1c908",
+        "sha256_in_prefix": "82bfe1b866740f5568db54908e88d05f0481c787091123a6c866191b97a1c908",
+        "size_in_bytes": 299
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/module1-pkg.ini",
+        "path_type": "hardlink",
+        "sha256": "7b54d71f9251ff1ea9509534d4d059e5b3f995e9bef17e38e7911b13ed42ee1f",
+        "sha256_in_prefix": "7b54d71f9251ff1ea9509534d4d059e5b3f995e9bef17e38e7911b13ed42ee1f",
+        "size_in_bytes": 118
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/module1-pkg.toml",
+        "path_type": "hardlink",
+        "sha256": "e54818351037dba24ee1d4db97419e6dd21b4782c7c37089e7b7a912cdc83f4a",
+        "sha256_in_prefix": "e54818351037dba24ee1d4db97419e6dd21b4782c7c37089e7b7a912cdc83f4a",
+        "size_in_bytes": 288
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/module1.py",
+        "path_type": "hardlink",
+        "sha256": "58ed36f53ded24840790f1b44629f3380af88802179f4df2ff7413bbe0ad529d",
+        "sha256_in_prefix": "58ed36f53ded24840790f1b44629f3380af88802179f4df2ff7413bbe0ad529d",
+        "size_in_bytes": 42
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/module2.py",
+        "path_type": "hardlink",
+        "sha256": "7482e4876b6e93aa5884c2ccfe7fd40eab60d2f7724bbe0b3b58c8d742154cf1",
+        "sha256_in_prefix": "7482e4876b6e93aa5884c2ccfe7fd40eab60d2f7724bbe0b3b58c8d742154cf1",
+        "size_in_bytes": 187
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/moduleunimportable.py",
+        "path_type": "hardlink",
+        "sha256": "8766702a6fb110001e4ee086e5ca153e7f9509758a71db3259aa58810b59b15d",
+        "sha256_in_prefix": "8766702a6fb110001e4ee086e5ca153e7f9509758a71db3259aa58810b59b15d",
+        "size_in_bytes": 80
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/my-description.rst",
+        "path_type": "hardlink",
+        "sha256": "86487e6e180c92ebcb3ff6796954d3e28856a7cbe947a44aa00d09af63f2516b",
+        "sha256_in_prefix": "86487e6e180c92ebcb3ff6796954d3e28856a7cbe947a44aa00d09af63f2516b",
+        "size_in_bytes": 29
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/no_docstring-pkg.toml",
+        "path_type": "hardlink",
+        "sha256": "3d11d79c94825fc5d2c4bbfb7919204682c9171e46f8461ff06cc47cec3eb02f",
+        "sha256_in_prefix": "3d11d79c94825fc5d2c4bbfb7919204682c9171e46f8461ff06cc47cec3eb02f",
+        "size_in_bytes": 303
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/no_docstring.py",
+        "path_type": "hardlink",
+        "sha256": "6bd432f496b8d09fedc4ca10a9e3ea8d2ed86d7c588f3a45a34820ab5a2283b5",
+        "sha256_in_prefix": "6bd432f496b8d09fedc4ca10a9e3ea8d2ed86d7c588f3a45a34820ab5a2283b5",
+        "size_in_bytes": 20
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/ns1-pkg/EG_README.rst",
+        "path_type": "hardlink",
+        "sha256": "1c49271f5a272fca230518123ca7a549b9258a0430f9dd3f5938dca0f150cc23",
+        "sha256_in_prefix": "1c49271f5a272fca230518123ca7a549b9258a0430f9dd3f5938dca0f150cc23",
+        "size_in_bytes": 165
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/ns1-pkg/ns1/pkg/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "5bbeb17e19d135be1e897e6a5cce653e89c3f4ca0e54b94ed8f740201ae16b28",
+        "sha256_in_prefix": "5bbeb17e19d135be1e897e6a5cce653e89c3f4ca0e54b94ed8f740201ae16b28",
+        "size_in_bytes": 76
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/ns1-pkg/pyproject.toml",
+        "path_type": "hardlink",
+        "sha256": "a4fa35d7fb7d0a9a733b0518eb5f6c63a1060be55ee876cdd39b6e43c27638dc",
+        "sha256_in_prefix": "a4fa35d7fb7d0a9a733b0518eb5f6c63a1060be55ee876cdd39b6e43c27638dc",
+        "size_in_bytes": 266
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/package1.toml",
+        "path_type": "hardlink",
+        "sha256": "c20eecbba1a9ce6108de552b3ba1b7bedd996513dca3d5de5ac55df5cde2f184",
+        "sha256_in_prefix": "c20eecbba1a9ce6108de552b3ba1b7bedd996513dca3d5de5ac55df5cde2f184",
+        "size_in_bytes": 311
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/package1/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "9c60b8abca649bf8167ae7f44c13f7b357e614f7e24da45b8f04b57273b5d5ee",
+        "sha256_in_prefix": "9c60b8abca649bf8167ae7f44c13f7b357e614f7e24da45b8f04b57273b5d5ee",
+        "size_in_bytes": 84
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/package1/data_dir/foo.sh",
+        "path_type": "hardlink",
+        "sha256": "b41014b109e36147e603dd8db839a6a8109b19a07d829e20c6dfcca8dbae4329",
+        "sha256_in_prefix": "b41014b109e36147e603dd8db839a6a8109b19a07d829e20c6dfcca8dbae4329",
+        "size_in_bytes": 35
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/package1/foo.py",
+        "path_type": "hardlink",
+        "sha256": "cb78bd8a17f7b751fe0d4663366dcbc257204033ef7ddd64b1f2969573b5b2e2",
+        "sha256_in_prefix": "cb78bd8a17f7b751fe0d4663366dcbc257204033ef7ddd64b1f2969573b5b2e2",
+        "size_in_bytes": 6
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/package1/subpkg/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/package1/subpkg/sp_data_dir/test.json",
+        "path_type": "hardlink",
+        "sha256": "4f41303ae16ebf596b7e0172d337f776e614fc2de3192744e76032b43e0ad59e",
+        "sha256_in_prefix": "4f41303ae16ebf596b7e0172d337f776e614fc2de3192744e76032b43e0ad59e",
+        "size_in_bytes": 18
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/package1/subpkg2/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/pep517/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "729df96f52c48b21fb51c0616ffad1f7170ec07656b0faf1d5b4bf72e376130f",
+        "sha256_in_prefix": "729df96f52c48b21fb51c0616ffad1f7170ec07656b0faf1d5b4bf72e376130f",
+        "size_in_bytes": 36
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/pep517/README.rst",
+        "path_type": "hardlink",
+        "sha256": "f7b430606615d77869a83938e07182200e4c66b7ebfe40f80c52e94a612d9406",
+        "sha256_in_prefix": "f7b430606615d77869a83938e07182200e4c66b7ebfe40f80c52e94a612d9406",
+        "size_in_bytes": 37
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/pep517/module1.py",
+        "path_type": "hardlink",
+        "sha256": "58ed36f53ded24840790f1b44629f3380af88802179f4df2ff7413bbe0ad529d",
+        "sha256_in_prefix": "58ed36f53ded24840790f1b44629f3380af88802179f4df2ff7413bbe0ad529d",
+        "size_in_bytes": 42
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/pep517/pyproject.toml",
+        "path_type": "hardlink",
+        "sha256": "278df6db9d5435dc81c7e7fe4c888107b95c973a7080c1ed408999763ce892c8",
+        "sha256_in_prefix": "278df6db9d5435dc81c7e7fe4c888107b95c973a7080c1ed408999763ce892c8",
+        "size_in_bytes": 380
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/pep621/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "729df96f52c48b21fb51c0616ffad1f7170ec07656b0faf1d5b4bf72e376130f",
+        "sha256_in_prefix": "729df96f52c48b21fb51c0616ffad1f7170ec07656b0faf1d5b4bf72e376130f",
+        "size_in_bytes": 36
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/pep621/README.rst",
+        "path_type": "hardlink",
+        "sha256": "f7b430606615d77869a83938e07182200e4c66b7ebfe40f80c52e94a612d9406",
+        "sha256_in_prefix": "f7b430606615d77869a83938e07182200e4c66b7ebfe40f80c52e94a612d9406",
+        "size_in_bytes": 37
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/pep621/module1a.py",
+        "path_type": "hardlink",
+        "sha256": "58ed36f53ded24840790f1b44629f3380af88802179f4df2ff7413bbe0ad529d",
+        "sha256_in_prefix": "58ed36f53ded24840790f1b44629f3380af88802179f4df2ff7413bbe0ad529d",
+        "size_in_bytes": 42
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/pep621/pyproject.toml",
+        "path_type": "hardlink",
+        "sha256": "526a67875619add72b50f3d2f978e65528b5f6ffed66ecb771759a5d874b7dcf",
+        "sha256_in_prefix": "526a67875619add72b50f3d2f978e65528b5f6ffed66ecb771759a5d874b7dcf",
+        "size_in_bytes": 694
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/pep621_nodynamic/README.rst",
+        "path_type": "hardlink",
+        "sha256": "f7b430606615d77869a83938e07182200e4c66b7ebfe40f80c52e94a612d9406",
+        "sha256_in_prefix": "f7b430606615d77869a83938e07182200e4c66b7ebfe40f80c52e94a612d9406",
+        "size_in_bytes": 37
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/pep621_nodynamic/module1.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/pep621_nodynamic/pyproject.toml",
+        "path_type": "hardlink",
+        "sha256": "36625ec01111862e694298790e77b11cb8308456e3c8388e19926e302d3572b8",
+        "sha256_in_prefix": "36625ec01111862e694298790e77b11cb8308456e3c8388e19926e302d3572b8",
+        "size_in_bytes": 650
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/requires-dev.toml",
+        "path_type": "hardlink",
+        "sha256": "a34a409d2d6b289b454d94387afc62f50db0c1ab1d20393745825e1b131febf5",
+        "sha256_in_prefix": "a34a409d2d6b289b454d94387afc62f50db0c1ab1d20393745825e1b131febf5",
+        "size_in_bytes": 311
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/requires-envmark.toml",
+        "path_type": "hardlink",
+        "sha256": "5d2571fa527533a2178b50fdf222c0355a15e97ae26f8a837b2f4e9b7c5fd5cd",
+        "sha256_in_prefix": "5d2571fa527533a2178b50fdf222c0355a15e97ae26f8a837b2f4e9b7c5fd5cd",
+        "size_in_bytes": 252
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/requires-extra-envmark.toml",
+        "path_type": "hardlink",
+        "sha256": "2cf712572913523b18cd41ef710c312f1716aa2a82b6d9cd31a439d93b51f299",
+        "sha256_in_prefix": "2cf712572913523b18cd41ef710c312f1716aa2a82b6d9cd31a439d93b51f299",
+        "size_in_bytes": 299
+      },
+      {
+        "_path": "site-packages/flit_core/tests/samples/requires-requests.toml",
+        "path_type": "hardlink",
+        "sha256": "aa2828c3ee269cc92e87d872a7be2bd7056e50cc086f23534db62f977c9d6683",
+        "sha256_in_prefix": "aa2828c3ee269cc92e87d872a7be2bd7056e50cc086f23534db62f977c9d6683",
+        "size_in_bytes": 239
+      },
+      {
+        "_path": "site-packages/flit_core/tests/test_build_thyself.py",
+        "path_type": "hardlink",
+        "sha256": "104ce2358da6eb45f57744beb994ad3992f333a903481503f7a9fa7b84e7ff9b",
+        "sha256_in_prefix": "104ce2358da6eb45f57744beb994ad3992f333a903481503f7a9fa7b84e7ff9b",
+        "size_in_bytes": 1552
+      },
+      {
+        "_path": "site-packages/flit_core/tests/test_buildapi.py",
+        "path_type": "hardlink",
+        "sha256": "89392ea9de8a885fbda0ff420188ebe8236f0f2efe440f8c6d43116d68d11dd2",
+        "sha256_in_prefix": "89392ea9de8a885fbda0ff420188ebe8236f0f2efe440f8c6d43116d68d11dd2",
+        "size_in_bytes": 3934
+      },
+      {
+        "_path": "site-packages/flit_core/tests/test_common.py",
+        "path_type": "hardlink",
+        "sha256": "32a282c4adcb3ca05e540d654aa3bc72819eee323ab121c131b82d3a46160e8f",
+        "sha256_in_prefix": "32a282c4adcb3ca05e540d654aa3bc72819eee323ab121c131b82d3a46160e8f",
+        "size_in_bytes": 5334
+      },
+      {
+        "_path": "site-packages/flit_core/tests/test_config.py",
+        "path_type": "hardlink",
+        "sha256": "3ad754bfc879e1292de74c289f3bc8b733c74af2a73c552cf80a6303e352572f",
+        "sha256_in_prefix": "3ad754bfc879e1292de74c289f3bc8b733c74af2a73c552cf80a6303e352572f",
+        "size_in_bytes": 7142
+      },
+      {
+        "_path": "site-packages/flit_core/tests/test_sdist.py",
+        "path_type": "hardlink",
+        "sha256": "2c2c98d2dba6e4efc75e6a03a8e8329838b5f34f5ce9164179278d4014e219c2",
+        "sha256_in_prefix": "2c2c98d2dba6e4efc75e6a03a8e8329838b5f34f5ce9164179278d4014e219c2",
+        "size_in_bytes": 1594
+      },
+      {
+        "_path": "site-packages/flit_core/tests/test_versionno.py",
+        "path_type": "hardlink",
+        "sha256": "16a68e6b424e30d687146898ea93276f41ea26de6748f6428afc3ad0f81a1a22",
+        "sha256_in_prefix": "16a68e6b424e30d687146898ea93276f41ea26de6748f6428afc3ad0f81a1a22",
+        "size_in_bytes": 1170
+      },
+      {
+        "_path": "site-packages/flit_core/tests/test_wheel.py",
+        "path_type": "hardlink",
+        "sha256": "87faf5aa39b2514b5698b20d97a8bbdb2260c78c4c3216b1dc5789e4ac2e1e79",
+        "sha256_in_prefix": "87faf5aa39b2514b5698b20d97a8bbdb2260c78c4c3216b1dc5789e4ac2e1e79",
+        "size_in_bytes": 1139
+      },
+      {
+        "_path": "site-packages/flit_core/vendor/README",
+        "path_type": "hardlink",
+        "sha256": "c37dbd022ed9660ee333f6dedf102907f1f54012fe772c4e120912979cc78633",
+        "sha256_in_prefix": "c37dbd022ed9660ee333f6dedf102907f1f54012fe772c4e120912979cc78633",
+        "size_in_bytes": 791
+      },
+      {
+        "_path": "site-packages/flit_core/vendor/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/flit_core/vendor/tomli-1.2.3.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "b80816b0d530b8accb4c2211783790984a6e3b61922c2b5ee92f3372ab2742fe",
+        "sha256_in_prefix": "b80816b0d530b8accb4c2211783790984a6e3b61922c2b5ee92f3372ab2742fe",
+        "size_in_bytes": 1072
+      },
+      {
+        "_path": "site-packages/flit_core/vendor/tomli-1.2.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "237a983f254ba50a0d8fecd09ca46099d902ed5d67c7f7cfb29ab04c531b9e21",
+        "sha256_in_prefix": "237a983f254ba50a0d8fecd09ca46099d902ed5d67c7f7cfb29ab04c531b9e21",
+        "size_in_bytes": 9089
+      },
+      {
+        "_path": "site-packages/flit_core/vendor/tomli/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a7c465f4e4218abd28984c019034a8fd11c1b8df7d6ffad4aa80e321615ea701",
+        "sha256_in_prefix": "a7c465f4e4218abd28984c019034a8fd11c1b8df7d6ffad4aa80e321615ea701",
+        "size_in_bytes": 294
+      },
+      {
+        "_path": "site-packages/flit_core/vendor/tomli/_parser.py",
+        "path_type": "hardlink",
+        "sha256": "9fa7872313e1e4d61bb3e125479eaa602979fed48f96d88d3a18a438b79c0159",
+        "sha256_in_prefix": "9fa7872313e1e4d61bb3e125479eaa602979fed48f96d88d3a18a438b79c0159",
+        "size_in_bytes": 21649
+      },
+      {
+        "_path": "site-packages/flit_core/vendor/tomli/_re.py",
+        "path_type": "hardlink",
+        "sha256": "2232989ec8442640345ee90e4637e2d3b7241918e207e5dd84baa7db29793f93",
+        "sha256_in_prefix": "2232989ec8442640345ee90e4637e2d3b7241918e207e5dd84baa7db29793f93",
+        "size_in_bytes": 2813
+      },
+      {
+        "_path": "site-packages/flit_core/vendor/tomli/_types.py",
+        "path_type": "hardlink",
+        "sha256": "6f599abd82d460b073d043f6943acc54ce8419515eaafc62aa44b4de35cd06fb",
+        "sha256_in_prefix": "6f599abd82d460b073d043f6943acc54ce8419515eaafc62aa44b4de35cd06fb",
+        "size_in_bytes": 126
+      },
+      {
+        "_path": "site-packages/flit_core/vendor/tomli/py.typed",
+        "path_type": "hardlink",
+        "sha256": "f0f8f2675695a10a5156fb7bd66bafbaae6a13e8d315990af862c792175e6e67",
+        "sha256_in_prefix": "f0f8f2675695a10a5156fb7bd66bafbaae6a13e8d315990af862c792175e6e67",
+        "size_in_bytes": 26
+      },
+      {
+        "_path": "site-packages/flit_core/versionno.py",
+        "path_type": "hardlink",
+        "sha256": "ebc3a57f6fe65c095b51d48412a4d7c2d788cc3f97f1003cd7e027127bb3dbf6",
+        "sha256_in_prefix": "ebc3a57f6fe65c095b51d48412a4d7c2d788cc3f97f1003cd7e027127bb3dbf6",
+        "size_in_bytes": 4781
+      },
+      {
+        "_path": "site-packages/flit_core/wheel.py",
+        "path_type": "hardlink",
+        "sha256": "48a19a98d508c8d5a283d8d414679ec532db7d4272fe13f6ecdd736da0d7c02d",
+        "sha256_in_prefix": "48a19a98d508c8d5a283d8d414679ec532db7d4272fe13f6ecdd736da0d7c02d",
+        "size_in_bytes": 7997
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/__pycache__/buildapi.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/__pycache__/common.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/__pycache__/config.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/__pycache__/sdist.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/samples/conflicting_modules/__pycache__/module1.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/samples/conflicting_modules/src/__pycache__/module1.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/samples/constructed_version/__pycache__/module1.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/samples/inclusion/__pycache__/module1.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/samples/__pycache__/invalid_version1.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/samples/__pycache__/module1.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/samples/__pycache__/module2.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/samples/__pycache__/moduleunimportable.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/samples/__pycache__/no_docstring.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/samples/ns1-pkg/ns1/pkg/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/samples/package1/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/samples/package1/__pycache__/foo.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/samples/package1/subpkg/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/samples/package1/subpkg2/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/samples/pep517/__pycache__/module1.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/samples/pep621/__pycache__/module1a.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/samples/pep621_nodynamic/__pycache__/module1.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/__pycache__/test_build_thyself.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/__pycache__/test_buildapi.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/__pycache__/test_common.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/__pycache__/test_config.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/__pycache__/test_sdist.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/__pycache__/test_versionno.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/tests/__pycache__/test_wheel.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/vendor/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/vendor/tomli/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/vendor/tomli/__pycache__/_parser.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/vendor/tomli/__pycache__/_re.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/vendor/tomli/__pycache__/_types.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/__pycache__/versionno.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/flit_core/__pycache__/wheel.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "be3a87c14a0d9cda1be7faab0b1ff43fd9197f55de035e17ac2b25be32b70a04",
+  "size": 43462,
+  "subdir": "noarch",
+  "timestamp": 1644941654016,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/flit-core-3.6.0-pyhd3eb1b0_0.conda",
+  "version": "3.6.0"
+}

@@ -1,0 +1,39 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "module1"
+authors = [
+    {name = "Sir Röbin", email = "robin@camelot.uk"}
+]
+maintainers = [
+    {name = "Sir Galahad"}
+]
+readme = "README.rst"
+license = {file = "LICENSE"}
+requires-python = ">=3.7"
+dependencies = [
+    "requests >= 2.18",
+    "docutils",
+]
+keywords = ["example", "test"]
+dynamic = [
+    "version",
+    "description",
+]
+
+[project.optional-dependencies]
+test = [
+  "pytest",
+  "mock; python_version<'3.6'"
+]
+
+[project.urls]
+homepage = "http://github.com/sirrobin/module1"
+
+[project.entry-points.flit_test_example]
+foo = "module1:main"
+
+[tool.flit.module]
+name = "module1a"

@@ -1,0 +1,422 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html>
+<head>
+<meta content="text/html; charset=ISO-8859-1" http-equiv="Content-Type">
+<title>libxslt Tutorial</title>
+<meta name="generator" content="DocBook XSL Stylesheets V1.41">
+</head>
+<body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF"><div class="article">
+<div class="titlepage">
+<div><h1 class="title">
+<a name="id2702654"></a>libxslt Tutorial</h1></div>
+<div><h3 class="author">John Fleck</h3></div>
+<div><p class="releaseinfo">
+      This is version 0.4 of the libxslt Tutorial
+    </p></div>
+<div><p class="copyright">Copyright © 2001 John Fleck</p></div>
+<div><div class="legalnotice"><p>Permission is granted to copy, distribute and/or modify this
+	document under the terms of the <i>GNU Free Documentation
+	License</i>, Version 1.1 or any later version
+	published by the Free Software Foundation with no Invariant
+	Sections, no Front-Cover Texts, and no Back-Cover Texts.  A copy of
+	the license can be found <a href="http://www.gnu.org/copyleft/fdl.html" target="_top">here</a>.</p></div></div>
+<hr>
+</div>
+<div class="toc">
+<p><b>Table of Contents</b></p>
+<dl>
+<dt> <a href="#introduction">Introduction</a>
+</dt>
+<dt> <a href="#functions">Primary Functions</a>
+</dt>
+<dd><dl>
+<dt> <a href="#preparing">Preparing to Parse</a>
+</dt>
+<dt> <a href="#parsethestylesheet">Parse the Stylesheet</a>
+</dt>
+<dt> <a href="#parseinputfile">Parse the Input File</a>
+</dt>
+<dt> <a href="#applyingstylesheet">Applying the Stylesheet</a>
+</dt>
+<dt> <a href="#saveresult">Saving the result</a>
+</dt>
+<dt> <a href="#parameters">Parameters</a>
+</dt>
+<dt> <a href="#cleanup">Cleanup</a>
+</dt>
+</dl></dd>
+<dt>A <a href="#thecode">The Code</a>
+</dt>
+</dl>
+</div>
+<div class="abstract">
+<p>
+<a name="id2705766"></a><b>Abstract</b>
+</p>
+<p>A tutorial on building a simple application using the
+      libxslt library to perform
+      XSLT transformations to convert an
+      XML file into HTML.</p>
+</div>
+<div class="sect1">
+<a name="introduction"></a><div class="titlepage"><div><h2 class="title" style="clear: both">
+<a name="introduction"></a>Introduction</h2></div></div>
+<p>The Extensible Markup Language (XML) is a World
+    Wide Web Consortium standard for the exchange of structured data in text
+    form. Its popularity stems from its universality. Any computer can
+    read a text file. With the proper tools, any computer can read any other
+    computer's XML files.
+    </p>
+<p>One of the most important of those tools is XSLT:
+      Extensible Stylesheet Language Transformations. XSLT
+      is a declarative language that allows you to
+      translate your XML into arbitrary text output
+      using a stylesheet. libxslt provides the
+      functions to perform the transformation.
+    </p>
+<p>libxslt is a free C language library
+      written by Daniel Veillard for the GNOME project
+      allowing you to write programs that perform XSLT
+      transformations. 
+
+      <div class="note" style="margin-left: 0.5in; margin-right: 0.5in;">
+<h3 class="title">
+<a name="id2754803"></a>Note</h3>
+<p>
+	While libxslt was written
+	under the auspices of the GNOME project, it does not
+	depend on any GNOME libraries. None are used in the
+	example in this tutorial.
+	</p>
+</div>
+
+    </p>
+<p>This tutorial illustrates a simple program that reads an
+      XML file, applies a stylesheet and saves the resulting
+      output. This is not a program you would want to create
+      yourself. xsltproc, which is included with the
+      libxslt package, does the same thing and is
+      more robust and full-featured. The program written for this tutorial is a
+      stripped-down version of xsltproc designed to
+      illustrate the functionality of libxslt. 
+    </p>
+<p>The full code for xsltproc is in
+      <tt>xsltproc.c</tt> in the libxslt
+      distribution. It also is available <a href="http://cvs.gnome.org/lxr/source/libxslt/libxslt/xsltproc.c" target="_top">on the
+      web</a>.
+    </p>
+<p>References:
+      <div class="itemizedlist"><ul>
+<li><p>
+<a name="id2708005"></a><a href="http://www.w3.org/XML/" target="_top">W3C XML page</a>
+</p></li>
+<li><p>
+<a name="id2708026"></a><a href="http://www.w3.org/Style/XSL/" target="_top">W3C
+	  XSL page.</a>
+</p></li>
+</ul></div>
+
+    </p>
+</div>
+<div class="sect1">
+<a name="functions"></a><div class="titlepage"><div><h2 class="title" style="clear: both">
+<a name="functions"></a>Primary Functions</h2></div></div>
+<div class="toc">
+<p><b>Table of Contents</b></p>
+<dl>
+<dt> <a href="#preparing">Preparing to Parse</a>
+</dt>
+<dt> <a href="#parsethestylesheet">Parse the Stylesheet</a>
+</dt>
+<dt> <a href="#parseinputfile">Parse the Input File</a>
+</dt>
+<dt> <a href="#applyingstylesheet">Applying the Stylesheet</a>
+</dt>
+<dt> <a href="#saveresult">Saving the result</a>
+</dt>
+<dt> <a href="#parameters">Parameters</a>
+</dt>
+<dt> <a href="#cleanup">Cleanup</a>
+</dt>
+</dl>
+</div>
+<p>To transform an XML file, you must perform three
+    functions:
+      <div class="orderedlist"><ol type="1">
+<li><p>
+<a name="id2708093"></a>parse the input file</p></li>
+<li><p>
+<a name="id2708101"></a>parse the stylesheet</p></li>
+<li><p>
+<a name="id2708110"></a>apply the stylesheet</p></li>
+</ol></div>
+    </p>
+<div class="sect2">
+<a name="preparing"></a><div class="titlepage"><div><h3 class="title">
+<a name="preparing"></a>Preparing to Parse</h3></div></div>
+<p>Before you can begin parsing input files or stylesheets, there are
+      several steps you need to take to set up entity handling. These steps are
+	not unique to libxslt. Any
+	libxml2 program that parses
+      XML files would need to take similar steps. 
+      </p>
+<p>First, you need set up some libxml
+	housekeeping. Pass the integer value <i><tt>1</tt></i> to the
+	<tt>xmlSubstituteEntitiesDefault</tt> function, which tells
+	the libxml2 parser to substitute entities as
+	it parses your file. (Passing <i><tt>0</tt></i> causes
+	libxml2 to not perform entity substitution.)
+      </p>
+<p>Second, set <tt>xmlLoadExtDtdDefaultValue</tt> equal to
+	<i><tt>1</tt></i>. This tells libxml
+	to load external entity subsets. If you do not do this and your
+	input file includes entities through external subsets, you will get
+	errors.</p>
+</div>
+<div class="sect2">
+<a name="parsethestylesheet"></a><div class="titlepage"><div><h3 class="title">
+<a name="parsethestylesheet"></a>Parse the Stylesheet</h3></div></div>
+<p>Parsing the stylesheet takes a single function call, which takes a
+	variable of type xmlChar:
+	<pre class="programlisting">
+	  <tt>cur</tt> = xsltParseStylesheetFile((const xmlChar *)argv[i]);
+	</pre>
+	In this case, I cast the stylesheet file name, passed in as a
+	command line argument, to <i>xmlChar</i>. The return value
+	is of type <i>xsltStylesheetPtr</i>, a struct in memory
+	that contains the stylesheet tree and other information about the
+	stylesheet. It can be manipulated directly, but for this example you
+	will not need to.
+      </p>
+</div>
+<div class="sect2">
+<a name="parseinputfile"></a><div class="titlepage"><div><h3 class="title">
+<a name="parseinputfile"></a>Parse the Input File</h3></div></div>
+<p>Parsing the input file takes a single function call:
+	<pre class="programlisting">
+doc = xmlParseFile(argv[i]);
+	</pre>
+	It returns an <i>xmlDocPtr</i>, a struct in memory that
+	contains the document tree. It can be manipulated directly, but for this
+	example you will not need to.
+      </p>
+</div>
+<div class="sect2">
+<a name="applyingstylesheet"></a><div class="titlepage"><div><h3 class="title">
+<a name="applyingstylesheet"></a>Applying the Stylesheet</h3></div></div>
+<p>Now that you have trees representing the document and the stylesheet
+	in memory, apply the stylesheet to the document. The
+	function that does this is <tt>xsltApplyStylesheet</tt>:
+	<pre class="programlisting">
+res = xsltApplyStylesheet(cur, doc, params);
+	</pre>
+	The function takes an xsltStylesheetPtr and an
+	xmlDocPtr, the values returned by the previous two functions. The third
+	variable, <tt>params</tt> can be used to pass
+	XSLT parameters to the stylesheet. It is a
+	NULL-terminated array of name/value pairs of const char's.
+      </p>
+</div>
+<div class="sect2">
+<a name="saveresult"></a><div class="titlepage"><div><h3 class="title">
+<a name="saveresult"></a>Saving the result</h3></div></div>
+<p>libxslt includes a family of functions to use in
+	saving the resulting output. For this example,
+      <tt>xsltSaveResultToFile</tt> is used, and the results are
+      saved to stdout:
+
+	<pre class="programlisting">
+xsltSaveResultToFile(stdout, res, cur);
+	</pre>
+
+	<div class="note" style="margin-left: 0.5in; margin-right: 0.5in;">
+<h3 class="title">
+<a name="id2708587"></a>Note</h3>
+<p>libxml also contains output
+	    functions, such as <tt>xmlSaveFile</tt>, which can be
+	    used here. However, output-related information contained in the
+	    stylesheet, such as a declaration of the encoding to be used, will
+	    be lost if one of the libxslt save
+	    functions is not used.</p>
+</div>
+      </p>
+</div>
+<div class="sect2">
+<a name="parameters"></a><div class="titlepage"><div><h3 class="title">
+<a name="parameters"></a>Parameters</h3></div></div>
+<p>
+	In XSLT, parameters may be used as a way to pass
+	additional information to a
+	stylesheet. libxslt accepts
+	XSLT parameters as one of the values passed to
+	<tt>xsltApplyStylesheet</tt>.
+      </p>
+<p>
+	In the tutorial example and in xsltproc,
+	on which the tutorial example is based, parameters to be passed take the
+	form of key-value pairs. The program collects them from command line
+	arguments, inserting them in the array <tt>params</tt>, then
+	passes them to the function. The final element in the array is set to
+	<i><tt>NULL</tt></i>.
+
+	<div class="note" style="margin-left: 0.5in; margin-right: 0.5in;">
+<h3 class="title">
+<a name="id2708668"></a>Note</h3>
+<p>
+	    If a parameter being passed is a string rather than an
+	    XSLT node, it must be escaped. For the tutorial
+	    program, that would be done as follows:
+	    <b>tutorial]$ ./libxslt_tutorial --param rootid &quot;'asect1'&quot;
+	    stylesheet.xsl filename.xml</b>
+	  </p>
+</div>
+      </p>
+</div>
+<div class="sect2">
+<a name="cleanup"></a><div class="titlepage"><div><h3 class="title">
+<a name="cleanup"></a>Cleanup</h3></div></div>
+<p>After you are finished, libxslt and
+	libxml provide functions for deallocating
+      memory.
+      </p>
+<p>
+      
+	  <pre class="programlisting">
+	  xsltFreeStylesheet(cur);<a name="cleanupstylesheet"></a><img src="../images/callouts/1.png" alt="1" border="0">
+	  xmlFreeDoc(res);<a name="cleanupresults"></a><img src="../images/callouts/2.png" alt="2" border="0">
+	  xmlFreeDoc(doc);<a name="cleanupdoc"></a><img src="../images/callouts/3.png" alt="3" border="0">
+	  xsltCleanupGlobals();<a name="cleanupglobals"></a><img src="../images/callouts/4.png" alt="4" border="0">
+	  xmlCleanupParser();<a name="cleanupparser"></a><img src="../images/callouts/5.png" alt="5" border="0">
+
+	  </pre>
+	
+	  <div class="calloutlist">
+<a name="id2708994"></a><table border="0" summary="Callout list">
+<tr>
+<td width="5%" valign="top" align="left">
+<a name="id2709000"></a><a href="#cleanupstylesheet"><img src="../images/callouts/1.png" alt="1" border="0"></a> </td>
+<td valign="top" align="left"><p>Free the memory used by your stylesheet.</p></td>
+</tr>
+<tr>
+<td width="5%" valign="top" align="left">
+<a name="id2709117"></a><a href="#cleanupresults"><img src="../images/callouts/2.png" alt="2" border="0"></a> </td>
+<td valign="top" align="left"><p>Free the memory used by the results document.</p></td>
+</tr>
+<tr>
+<td width="5%" valign="top" align="left">
+<a name="id2709136"></a><a href="#cleanupdoc"><img src="../images/callouts/3.png" alt="3" border="0"></a> </td>
+<td valign="top" align="left"><p>Free the memory used by your original document.</p></td>
+</tr>
+<tr>
+<td width="5%" valign="top" align="left">
+<a name="id2709155"></a><a href="#cleanupglobals"><img src="../images/callouts/4.png" alt="4" border="0"></a> </td>
+<td valign="top" align="left"><p>Free memory used by libxslt global
+	    variables</p></td>
+</tr>
+<tr>
+<td width="5%" valign="top" align="left">
+<a name="id2709176"></a><a href="#cleanupparser"><img src="../images/callouts/5.png" alt="5" border="0"></a> </td>
+<td valign="top" align="left"><p>Free memory used by the XML parser</p></td>
+</tr>
+</table>
+</div>
+      </p>
+</div>
+</div>
+<div class="appendix">
+<h2 class="title" style="clear: both">
+<a name="thecode"></a>A. The Code</h2>
+<p>
+<tt>libxslt_tutorial.c</tt>
+ <pre class="programlisting">
+/*
+ * libxslt_tutorial.c: demo program for the XSL Transformation 1.0 engine
+ *
+ * based on xsltproc.c, by Daniel.Veillard@imag.fr
+ * by John Fleck 
+ *
+ * See the file Copyright for the status of this software.
+ *
+ */ 
+
+#include &lt;string.h&gt;
+#include &lt;libxml/xmlmemory.h&gt;
+#include &lt;libxml/debugXML.h&gt;
+#include &lt;libxml/HTMLtree.h&gt;
+#include &lt;libxml/xmlIO.h&gt;
+#include &lt;libxml/DOCBparser.h&gt;
+#include &lt;libxml/xinclude.h&gt;
+#include &lt;libxml/catalog.h&gt;
+#include &lt;libxslt/xslt.h&gt;
+#include &lt;libxslt/xsltInternals.h&gt;
+#include &lt;libxslt/transform.h&gt;
+#include &lt;libxslt/xsltutils.h&gt;
+
+
+
+extern int xmlLoadExtDtdDefaultValue;
+
+static void usage(const char *name) {
+    printf(&quot;Usage: %s [options] stylesheet file [file ...]\n&quot;, name);
+    printf(&quot;      --param name value : pass a (parameter,value) pair\n&quot;);
+
+}
+
+int
+main(int argc, char **argv) {
+	int i;
+	const char *params[16 + 1];
+	int nbparams = 0;
+	xsltStylesheetPtr cur = NULL;
+	xmlDocPtr doc, res;
+
+	if (argc &lt;= 1) {
+		usage(argv[0]);
+		return(1);
+	}
+	
+
+ for (i = 1; i &lt; argc; i++) {
+        if (argv[i][0] != '-')
+            break;
+	if ((!strcmp(argv[i], &quot;-param&quot;)) ||
+                   (!strcmp(argv[i], &quot;--param&quot;))) {
+		i++;
+		params[nbparams++] = argv[i++];
+		params[nbparams++] = argv[i];
+		if (nbparams &gt;= 16) {
+			fprintf(stderr, &quot;too many params\n&quot;);
+			return (1);
+		}
+        }  else {
+            fprintf(stderr, &quot;Unknown option %s\n&quot;, argv[i]);
+            usage(argv[0]);
+            return (1);
+        }
+    }
+
+	params[nbparams] = NULL;
+	xmlSubstituteEntitiesDefault(1);
+	xmlLoadExtDtdDefaultValue = 1;
+	cur = xsltParseStylesheetFile((const xmlChar *)argv[i]);
+	i++;
+	doc = xmlParseFile(argv[i]);
+	res = xsltApplyStylesheet(cur, doc, params);
+	xsltSaveResultToFile(stdout, res, cur);
+
+	xsltFreeStylesheet(cur);
+	xmlFreeDoc(res);
+	xmlFreeDoc(doc);
+
+        xsltCleanupGlobals();
+        xmlCleanupParser();
+	return(0);
+
+}
+
+</pre>
+
+    </p>
+</div>
+</div></body>
+</html>

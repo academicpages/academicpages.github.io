@@ -1,0 +1,211 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="utf-8">
+
+    <title>{% block title %}Jupyter Notebook{% endblock %}</title>
+    {% block favicon %}<link id="favicon" rel="shortcut icon" type="image/x-icon" href="{{static_url("base/images/favicon.ico") }}">{% endblock %}
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="stylesheet" href="{{static_url("components/jquery-ui/dist/themes/smoothness/jquery-ui.min.css") }}" type="text/css" />
+    <link rel="stylesheet" href="{{static_url("components/jquery-typeahead/dist/jquery.typeahead.min.css") }}" type="text/css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    {% block stylesheet %}
+    <link rel="stylesheet" href="{{ static_url("style/style.min.css") }}" type="text/css"/>
+    {% endblock %}
+    <link rel="stylesheet" href="{{ base_url }}custom/custom.css" type="text/css" />
+    <script src="{{static_url("components/es6-promise/promise.min.js")}}" type="text/javascript" charset="utf-8"></script>
+    <script src="{{static_url('components/react/react.production.min.js')}}" type="text/javascript"></script>
+    <script src="{{static_url('components/react/react-dom.production.min.js')}}" type="text/javascript"></script>
+    <script src="{{static_url('components/create-react-class/index.js')}}" type="text/javascript"></script>
+    <script src="{{static_url('components/requirejs/require.js') }}" type="text/javascript" charset="utf-8"></script>
+    <script>
+      document.nbclassicPath = '{{nbclassic_path()}}';
+      require.config({
+          {% if version_hash %}
+          urlArgs: "v={{version_hash}}",
+          {% endif %}
+          baseUrl: '{{static_url("", include_version=False)}}',
+          paths: {
+            'auth/js/main': 'auth/js/main.min',
+            custom : '{{ base_url }}custom',
+            'custom-preload' : '{{ base_url }}custom-preload',
+            nbextensions : '{{ base_url }}nbextensions',
+            kernelspecs : '{{ base_url }}kernelspecs',
+            underscore : 'components/underscore/underscore-min',
+            backbone : 'components/backbone/backbone-min',
+            jed: 'components/jed/jed',
+            jquery: 'components/jquery/jquery.min',
+            json: 'components/requirejs-plugins/src/json',
+            text: 'components/requirejs-text/text',
+            bootstrap: 'components/bootstrap/dist/js/bootstrap.min',
+            bootstraptour: 'components/bootstrap-tour/build/js/bootstrap-tour.min',
+            'jquery-ui': 'components/jquery-ui/dist/jquery-ui.min',
+            moment: 'components/moment/min/moment-with-locales',
+            codemirror: 'components/codemirror',
+            termjs: 'components/xterm.js/xterm',
+            typeahead: 'components/jquery-typeahead/dist/jquery.typeahead.min',
+          },
+          map: { // for backward compatibility
+              "*": {
+                  "jqueryui": "jquery-ui",
+              }
+          },
+          shim: {
+            typeahead: {
+              deps: ["jquery"],
+              exports: "typeahead"
+            },
+            underscore: {
+              exports: '_'
+            },
+            backbone: {
+              deps: ["underscore", "jquery"],
+              exports: "Backbone"
+            },
+            bootstrap: {
+              deps: ["jquery"],
+              exports: "bootstrap"
+            },
+            bootstraptour: {
+              deps: ["bootstrap"],
+              exports: "Tour"
+            },
+            "jquery-ui": {
+              deps: ["jquery"],
+              exports: "$"
+            }
+          },
+          waitSeconds: 30,
+      });
+
+      require.config({
+          map: {
+              '*':{
+                'contents': '{{ contents_js_source }}',
+              }
+          }
+      });
+
+      // error-catching custom.js shim.
+      define("custom", function (require, exports, module) {
+          try {
+              var custom = require('custom/custom');
+              console.debug('loaded custom.js');
+              return custom;
+          } catch (e) {
+              console.error("error loading custom.js", e);
+              return {};
+          }
+      })
+
+      // error-catching custom-preload.js shim.
+      define("custom-preload", function (require, exports, module) {
+          try {
+              var custom = require('custom/custom-preload');
+              console.debug('loaded custom-preload.js');
+              return custom;
+          } catch (e) {
+              console.error("error loading custom-preload.js", e);
+              return {};
+          }
+      })
+      
+    document.nbjs_translations = {{ nbjs_translations|safe }};
+    document.documentElement.lang = navigator.language.toLowerCase();
+    </script>
+
+    {% block meta %}
+    {% endblock %}
+
+</head>
+
+<body class="{% block bodyclasses %}{% endblock %}"
+ {% block params %}
+  {% if logged_in and token %}
+    data-jupyter-api-token="{{token | urlencode}}"
+  {% endif %}
+ {% endblock params %}
+dir="ltr">
+
+<noscript>
+    <div id='noscript'>
+      {% trans %}Jupyter Notebook requires JavaScript.{% endtrans %}<br>
+      {% trans %}Please enable it to proceed. {% endtrans %}
+  </div>
+</noscript>
+
+<div id="header" role="navigation" aria-label="{% trans %}Top Menu{% endtrans %}">
+  <div id="header-container" class="container">
+  <div id="ipython_notebook" class="nav navbar-brand"><a href="
+    {%- if nbclassic_tree|length > 0 -%}{{nbclassic_tree}}{%- else -%}{{default_url}}{%- endif -%}
+    {%- if logged_in and token -%}?token={{token}}{%- endif -%}" title='{% trans %}dashboard{% endtrans %}'>
+      {% block logo %}<img src='{{static_url("base/images/logo.png") }}' alt='Jupyter Notebook'/>{% endblock %}
+  </a></div>
+
+  {% block headercontainer %}
+  {% endblock %}
+  
+  {% block header_buttons %}
+  
+  {% block login_widget %}
+
+    <span id="login_widget">
+      {% if logged_in %}
+        <button id="logout" class="btn btn-sm navbar-btn">{% trans %}Logout{% endtrans %}</button>
+      {% elif login_available and not logged_in %}
+        <button id="login" class="btn btn-sm navbar-btn">{% trans %}Login{% endtrans %}</button>
+      {% endif %}
+    </span>
+
+  {% endblock %}
+
+  {% endblock header_buttons %}
+  
+  </div>
+  <div class="header-bar"></div>
+
+  {% block header %}
+  {% endblock %}
+</div>
+
+<div id="site">
+{% block site %}
+{% endblock %}
+</div>
+
+{% block after_site %}
+{% endblock %}
+
+{% block script %}
+{% endblock %}
+
+<script type='text/javascript'>
+  function _remove_token_from_url() {
+    if (window.location.search.length <= 1) {
+      return;
+    }
+    var search_parameters = window.location.search.slice(1).split('&');
+    for (var i = 0; i < search_parameters.length; i++) {
+      if (search_parameters[i].split('=')[0] === 'token') {
+        // remote token from search parameters
+        search_parameters.splice(i, 1);
+        var new_search = '';
+        if (search_parameters.length) {
+          new_search = '?' + search_parameters.join('&');
+        }
+        var new_url = window.location.origin + 
+                      window.location.pathname + 
+                      new_search + 
+                      window.location.hash;
+        window.history.replaceState({}, "", new_url);
+        return;
+      }
+    }
+  }
+  _remove_token_from_url();
+</script>
+</body>
+
+</html>

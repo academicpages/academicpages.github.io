@@ -1,0 +1,23 @@
+{# This template is not served, but written as a file to open in the browser,
+   passing the token without putting it in a command-line argument. #}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="1;url={{ open_url }}" />
+    <title>Opening Jupyter Notebook</title>
+    <script>
+      setTimeout(function() {
+        window.location.href = "{{ open_url }}";
+      }, 1000);
+    </script>
+</head>
+<body>
+
+<p>
+    This page should redirect you to Jupyter Notebook. If it doesn't,
+    <a href="{{ open_url }}">click here to go to Jupyter</a>.
+</p>
+
+</body>
+</html>

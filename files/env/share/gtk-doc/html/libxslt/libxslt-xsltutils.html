@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>xsltutils: set of utilities for the XSLT engine</title>
+    <meta name="generator" content="Libxml2 devhelp stylesheet"/>
+    <link rel="start" href="index.html" title="libxslt Reference Manual"/>
+    <link rel="up" href="general.html" title="API"/>
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <link rel="chapter" href="general.html" title="API"/>
+  </head>
+  <body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
+    <table class="navigation" width="100%" summary="Navigation header" cellpadding="2" cellspacing="2">
+      <tr valign="middle">
+        <td>
+          <a accesskey="p" href="libxslt-xsltlocale.html">
+            <img src="left.png" width="24" height="24" border="0" alt="Prev"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="u" href="general.html">
+            <img src="up.png" width="24" height="24" border="0" alt="Up"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="h" href="index.html">
+            <img src="home.png" width="24" height="24" border="0" alt="Home"/>
+          </a>
+        </td>
+        <th width="100%" align="center">libxslt Reference Manual</th>
+      </tr>
+    </table>
+    <h2>
+      <span class="refentrytitle">xsltutils</span>
+    </h2>
+    <p>xsltutils - set of utilities for the XSLT engine</p>
+    <p>interfaces for the utilities module of the XSLT engine. things like message handling, profiling, and other generally useful routines. </p>
+    <p>Author(s): Daniel Veillard </p>
+    <div class="refsynopsisdiv">
+      <h2>Synopsis</h2>
+      <pre class="synopsis">#define <a href="#IS_XSLT_REAL_NODE">IS_XSLT_REAL_NODE</a>;
+#define <a href="#IS_XSLT_ELEM">IS_XSLT_ELEM</a>;
+#define <a href="#IS_XSLT_NAME">IS_XSLT_NAME</a>;
+#define <a href="#XSLT_TODO">XSLT_TODO</a>;
+#define <a href="#XSLT_STRANGE">XSLT_STRANGE</a>;
+#define <a href="#XSLT_TIMESTAMP_TICS_PER_SEC">XSLT_TIMESTAMP_TICS_PER_SEC</a>;
+#define <a href="#XSLT_TRACE">XSLT_TRACE</a>;
+typedef enum <a href="#xsltDebugTraceCodes">xsltDebugTraceCodes</a>;
+typedef enum <a href="#xsltDebugStatusCodes">xsltDebugStatusCodes</a>;
+int	<a href="#xsltSaveResultToFile">xsltSaveResultToFile</a>		(FILE * file, <br/>					 xmlDocPtr result, <br/>					 <a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style);
+void	<a href="#xsltSetGenericErrorFunc">xsltSetGenericErrorFunc</a>		(void * ctx, <br/>					 xmlGenericErrorFunc handler);
+int	<a href="#xsltSetDebuggerCallbacks">xsltSetDebuggerCallbacks</a>	(int no, <br/>					 void * block);
+int	<a href="#xsltSaveResultTo">xsltSaveResultTo</a>		(xmlOutputBufferPtr buf, <br/>					 xmlDocPtr result, <br/>					 <a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style);
+void	<a href="#xsltTransformError">xsltTransformError</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 <a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 xmlNodePtr node, <br/>					 const char * msg, <br/>					 ... ...);
+int	<a href="#xslAddCall">xslAddCall</a>			(<a href="libxslt-xsltInternals.html#xsltTemplatePtr">xsltTemplatePtr</a> templ, <br/>					 xmlNodePtr source);
+void	<a href="#xsltDocumentSortFunction">xsltDocumentSortFunction</a>	(xmlNodeSetPtr list);
+const xmlChar *	<a href="#xsltGetQNameURI2">xsltGetQNameURI2</a>	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 xmlNodePtr node, <br/>					 const xmlChar ** name);
+xmlXPathObjectPtr *	<a href="#xsltComputeSortResult">xsltComputeSortResult</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>						 xmlNodePtr sort);
+void	<a href="#xsltPrintErrorContext">xsltPrintErrorContext</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 <a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 xmlNodePtr node);
+int	<a href="#xsltGetUTF8Char">xsltGetUTF8Char</a>			(const unsigned char * utf, <br/>					 int * len);
+void	<a href="#xsltDefaultSortFunction">xsltDefaultSortFunction</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr * sorts, <br/>					 int nbsorts);
+int	<a href="#xsltSaveResultToFd">xsltSaveResultToFd</a>		(int fd, <br/>					 xmlDocPtr result, <br/>					 <a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style);
+void	<a href="#xsltSetCtxtSortFunc">xsltSetCtxtSortFunc</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 <a href="libxslt-xsltInternals.html#xsltSortFunc">xsltSortFunc</a> handler);
+xmlChar *	<a href="#xsltGetNsProp">xsltGetNsProp</a>		(xmlNodePtr node, <br/>					 const xmlChar * name, <br/>					 const xmlChar * nameSpace);
+const xmlChar *	<a href="#xsltGetCNsProp">xsltGetCNsProp</a>		(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 xmlNodePtr node, <br/>					 const xmlChar * name, <br/>					 const xmlChar * nameSpace);
+const xmlChar *	<a href="#xsltGetQNameURI">xsltGetQNameURI</a>		(xmlNodePtr node, <br/>					 xmlChar ** name);
+typedef int <a href="#xsltAddCallCallback">xsltAddCallCallback</a>		(<a href="libxslt-xsltInternals.html#xsltTemplatePtr">xsltTemplatePtr</a> templ, <br/>					 xmlNodePtr source);
+void	<a href="#xsltCalibrateAdjust">xsltCalibrateAdjust</a>		(long delta);
+void	<a href="#xsltSaveProfiling">xsltSaveProfiling</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 FILE * output);
+int	<a href="#xsltSaveResultToString">xsltSaveResultToString</a>		(xmlChar ** doc_txt_ptr, <br/>					 int * doc_txt_len, <br/>					 xmlDocPtr result, <br/>					 <a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style);
+const xmlChar *	<a href="#xsltSplitQName">xsltSplitQName</a>		(xmlDictPtr dict, <br/>					 const xmlChar * name, <br/>					 const xmlChar ** prefix);
+void	<a href="#xsltDoSortFunction">xsltDoSortFunction</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr * sorts, <br/>					 int nbsorts);
+<a href="libxslt-xsltutils.html#xsltDebugTraceCodes">xsltDebugTraceCodes</a>	<a href="#xsltDebugGetDefaultTrace">xsltDebugGetDefaultTrace</a>	(void);
+void	<a href="#xsltMessage">xsltMessage</a>			(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr node, <br/>					 xmlNodePtr inst);
+int	<a href="#xsltGetDebuggerStatus">xsltGetDebuggerStatus</a>		(void);
+long	<a href="#xsltTimestamp">xsltTimestamp</a>			(void);
+void	<a href="#xsltSetTransformErrorFunc">xsltSetTransformErrorFunc</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 void * ctx, <br/>					 xmlGenericErrorFunc handler);
+xmlXPathCompExprPtr	<a href="#xsltXPathCompile">xsltXPathCompile</a>	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>						 const xmlChar * str);
+void	<a href="#xsltDebugSetDefaultTrace">xsltDebugSetDefaultTrace</a>	(<a href="libxslt-xsltutils.html#xsltDebugTraceCodes">xsltDebugTraceCodes</a> val);
+void	<a href="#xsltSetGenericDebugFunc">xsltSetGenericDebugFunc</a>		(void * ctx, <br/>					 xmlGenericErrorFunc handler);
+xmlXPathCompExprPtr	<a href="#xsltXPathCompileFlags">xsltXPathCompileFlags</a>	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>						 const xmlChar * str, <br/>						 int flags);
+int	<a href="#xsltSetCtxtParseOptions">xsltSetCtxtParseOptions</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 int options);
+void	<a href="#xsltSetDebuggerStatus">xsltSetDebuggerStatus</a>		(int value);
+void	<a href="#xslDropCall">xslDropCall</a>			(void);
+void	<a href="#xsltSetSortFunc">xsltSetSortFunc</a>			(<a href="libxslt-xsltInternals.html#xsltSortFunc">xsltSortFunc</a> handler);
+typedef void <a href="#xsltHandleDebuggerCallback">xsltHandleDebuggerCallback</a>	(xmlNodePtr cur, <br/>					 xmlNodePtr node, <br/>					 <a href="libxslt-xsltInternals.html#xsltTemplatePtr">xsltTemplatePtr</a> templ, <br/>					 <a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt);
+int	<a href="#xsltSaveResultToFilename">xsltSaveResultToFilename</a>	(const char * URL, <br/>					 xmlDocPtr result, <br/>					 <a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 int compression);
+typedef void <a href="#xsltDropCallCallback">xsltDropCallCallback</a>		(void);
+xmlDocPtr	<a href="#xsltGetProfileInformation">xsltGetProfileInformation</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt);
+</pre>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Description</h2>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Details</h2>
+      <div class="refsect2" lang="en">
+        <div class="refsect2" lang="en"><h3><a name="IS_XSLT_ELEM">Macro </a>IS_XSLT_ELEM</h3><pre class="programlisting">#define <a href="#IS_XSLT_ELEM">IS_XSLT_ELEM</a>;
+</pre><p>Checks that the element pertains to XSLT namespace.</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="IS_XSLT_NAME">Macro </a>IS_XSLT_NAME</h3><pre class="programlisting">#define <a href="#IS_XSLT_NAME">IS_XSLT_NAME</a>;
+</pre><p>Checks the value of an element in XSLT namespace.</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="IS_XSLT_REAL_NODE">Macro </a>IS_XSLT_REAL_NODE</h3><pre class="programlisting">#define <a href="#IS_XSLT_REAL_NODE">IS_XSLT_REAL_NODE</a>;
+</pre><p>Check that a node is a 'real' one: document, element, text or attribute.</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="XSLT_STRANGE">Macro </a>XSLT_STRANGE</h3><pre class="programlisting">#define <a href="#XSLT_STRANGE">XSLT_STRANGE</a>;
+</pre><p>Macro to flag that a problem was detected internally.</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="XSLT_TIMESTAMP_TICS_PER_SEC">Macro </a>XSLT_TIMESTAMP_TICS_PER_SEC</h3><pre class="programlisting">#define <a href="#XSLT_TIMESTAMP_TICS_PER_SEC">XSLT_TIMESTAMP_TICS_PER_SEC</a>;
+</pre><p>Sampling precision for profiling</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="XSLT_TODO">Macro </a>XSLT_TODO</h3><pre class="programlisting">#define <a href="#XSLT_TODO">XSLT_TODO</a>;
+</pre><p>Macro to flag unimplemented blocks.</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="XSLT_TRACE">Macro </a>XSLT_TRACE</h3><pre class="programlisting">#define <a href="#XSLT_TRACE">XSLT_TRACE</a>;
+</pre><p>Control the type of xsl debugtrace messages emitted.</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltDebugStatusCodes">Enum </a>xsltDebugStatusCodes</h3><pre class="programlisting">enum <a href="#xsltDebugStatusCodes">xsltDebugStatusCodes</a> {
+    <a name="XSLT_DEBUG_NONE">XSLT_DEBUG_NONE</a> = 0 /* no debugging allowed */
+    <a name="XSLT_DEBUG_INIT">XSLT_DEBUG_INIT</a> = 1
+    <a name="XSLT_DEBUG_STEP">XSLT_DEBUG_STEP</a> = 2
+    <a name="XSLT_DEBUG_STEPOUT">XSLT_DEBUG_STEPOUT</a> = 3
+    <a name="XSLT_DEBUG_NEXT">XSLT_DEBUG_NEXT</a> = 4
+    <a name="XSLT_DEBUG_STOP">XSLT_DEBUG_STOP</a> = 5
+    <a name="XSLT_DEBUG_CONT">XSLT_DEBUG_CONT</a> = 6
+    <a name="XSLT_DEBUG_RUN">XSLT_DEBUG_RUN</a> = 7
+    <a name="XSLT_DEBUG_RUN_RESTART">XSLT_DEBUG_RUN_RESTART</a> = 8
+    <a name="XSLT_DEBUG_QUIT">XSLT_DEBUG_QUIT</a> = 9
+};
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltDebugTraceCodes">Enum </a>xsltDebugTraceCodes</h3><pre class="programlisting">enum <a href="#xsltDebugTraceCodes">xsltDebugTraceCodes</a> {
+    <a name="XSLT_TRACE_ALL">XSLT_TRACE_ALL</a> = -1
+    <a name="XSLT_TRACE_NONE">XSLT_TRACE_NONE</a> = 0
+    <a name="XSLT_TRACE_COPY_TEXT">XSLT_TRACE_COPY_TEXT</a> = 1
+    <a name="XSLT_TRACE_PROCESS_NODE">XSLT_TRACE_PROCESS_NODE</a> = 2
+    <a name="XSLT_TRACE_APPLY_TEMPLATE">XSLT_TRACE_APPLY_TEMPLATE</a> = 4
+    <a name="XSLT_TRACE_COPY">XSLT_TRACE_COPY</a> = 8
+    <a name="XSLT_TRACE_COMMENT">XSLT_TRACE_COMMENT</a> = 16
+    <a name="XSLT_TRACE_PI">XSLT_TRACE_PI</a> = 32
+    <a name="XSLT_TRACE_COPY_OF">XSLT_TRACE_COPY_OF</a> = 64
+    <a name="XSLT_TRACE_VALUE_OF">XSLT_TRACE_VALUE_OF</a> = 128
+    <a name="XSLT_TRACE_CALL_TEMPLATE">XSLT_TRACE_CALL_TEMPLATE</a> = 256
+    <a name="XSLT_TRACE_APPLY_TEMPLATES">XSLT_TRACE_APPLY_TEMPLATES</a> = 512
+    <a name="XSLT_TRACE_CHOOSE">XSLT_TRACE_CHOOSE</a> = 1024
+    <a name="XSLT_TRACE_IF">XSLT_TRACE_IF</a> = 2048
+    <a name="XSLT_TRACE_FOR_EACH">XSLT_TRACE_FOR_EACH</a> = 4096
+    <a name="XSLT_TRACE_STRIP_SPACES">XSLT_TRACE_STRIP_SPACES</a> = 8192
+    <a name="XSLT_TRACE_TEMPLATES">XSLT_TRACE_TEMPLATES</a> = 16384
+    <a name="XSLT_TRACE_KEYS">XSLT_TRACE_KEYS</a> = 32768
+    <a name="XSLT_TRACE_VARIABLES">XSLT_TRACE_VARIABLES</a> = 65536
+};
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltAddCallCallback"/>Function type xsltAddCallCallback</h3><pre class="programlisting">int	xsltAddCallCallback		(<a href="libxslt-xsltInternals.html#xsltTemplatePtr">xsltTemplatePtr</a> templ, <br/>					 xmlNodePtr source)<br/>
+</pre><p/>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>templ</tt></i>:</span></td><td/></tr><tr><td><span class="term"><i><tt>source</tt></i>:</span></td><td/></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td/></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltDropCallCallback"/>Function type xsltDropCallCallback</h3><pre class="programlisting">void	xsltDropCallCallback		(void)<br/>
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltHandleDebuggerCallback"/>Function type xsltHandleDebuggerCallback</h3><pre class="programlisting">void	xsltHandleDebuggerCallback	(xmlNodePtr cur, <br/>					 xmlNodePtr node, <br/>					 <a href="libxslt-xsltInternals.html#xsltTemplatePtr">xsltTemplatePtr</a> templ, <br/>					 <a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt)<br/>
+</pre><p/>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>cur</tt></i>:</span></td><td/></tr><tr><td><span class="term"><i><tt>node</tt></i>:</span></td><td/></tr><tr><td><span class="term"><i><tt>templ</tt></i>:</span></td><td/></tr><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td/></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xslDebugStatus">Variable </a>xslDebugStatus</h3><pre class="programlisting">int xslDebugStatus;
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltGenericDebug">Variable </a>xsltGenericDebug</h3><pre class="programlisting">xmlGenericErrorFunc xsltGenericDebug;
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltGenericDebugContext">Variable </a>xsltGenericDebugContext</h3><pre class="programlisting">void * xsltGenericDebugContext;
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltGenericError">Variable </a>xsltGenericError</h3><pre class="programlisting">xmlGenericErrorFunc xsltGenericError;
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltGenericErrorContext">Variable </a>xsltGenericErrorContext</h3><pre class="programlisting">void * xsltGenericErrorContext;
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xslAddCall"/>xslAddCall ()</h3><pre class="programlisting">int	xslAddCall			(<a href="libxslt-xsltInternals.html#xsltTemplatePtr">xsltTemplatePtr</a> templ, <br/>					 xmlNodePtr source)<br/>
+</pre><p>Add template "call" to call stack</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>templ</tt></i>:</span></td><td>current template being applied</td></tr><tr><td><span class="term"><i><tt>source</tt></i>:</span></td><td>the source node being processed</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>: 1 on sucess 0 otherwise an error may be printed if WITH_XSLT_DEBUG_BREAKPOINTS is defined</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xslDropCall"/>xslDropCall ()</h3><pre class="programlisting">void	xslDropCall			(void)<br/>
+</pre><p>Drop the topmost item off the call stack</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltCalibrateAdjust"/>xsltCalibrateAdjust ()</h3><pre class="programlisting">void	xsltCalibrateAdjust		(long delta)<br/>
+</pre><p>Used for to correct the calibration for xsltTimestamp()</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>delta</tt></i>:</span></td><td>a negative dealy value found</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltComputeSortResult"/>xsltComputeSortResult ()</h3><pre class="programlisting">xmlXPathObjectPtr *	xsltComputeSortResult	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>						 xmlNodePtr sort)<br/>
+</pre><p>reorder the current node list accordingly to the set of sorting requirement provided by the array of nodes.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>a XSLT process context</td></tr><tr><td><span class="term"><i><tt>sort</tt></i>:</span></td><td>node list</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>a ordered XPath nodeset or NULL in case of error.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltDebugGetDefaultTrace"/>xsltDebugGetDefaultTrace ()</h3><pre class="programlisting"><a href="libxslt-xsltutils.html#xsltDebugTraceCodes">xsltDebugTraceCodes</a>	xsltDebugGetDefaultTrace	(void)<br/>
+</pre><p>Get the current default debug tracing level mask</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the current default debug tracing level mask</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltDebugSetDefaultTrace"/>xsltDebugSetDefaultTrace ()</h3><pre class="programlisting">void	xsltDebugSetDefaultTrace	(<a href="libxslt-xsltutils.html#xsltDebugTraceCodes">xsltDebugTraceCodes</a> val)<br/>
+</pre><p>Set the default debug tracing level mask</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>val</tt></i>:</span></td><td>tracing level mask</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltDefaultSortFunction"/>xsltDefaultSortFunction ()</h3><pre class="programlisting">void	xsltDefaultSortFunction		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr * sorts, <br/>					 int nbsorts)<br/>
+</pre><p>reorder the current node list accordingly to the set of sorting requirement provided by the arry of nodes.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>a XSLT process context</td></tr><tr><td><span class="term"><i><tt>sorts</tt></i>:</span></td><td>array of sort nodes</td></tr><tr><td><span class="term"><i><tt>nbsorts</tt></i>:</span></td><td>the number of sorts in the array</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltDoSortFunction"/>xsltDoSortFunction ()</h3><pre class="programlisting">void	xsltDoSortFunction		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr * sorts, <br/>					 int nbsorts)<br/>
+</pre><p>reorder the current node list accordingly to the set of sorting requirement provided by the arry of nodes. This is a wrapper function, the actual function used is specified using xsltSetCtxtSortFunc() to set the context specific sort function, or xsltSetSortFunc() to set the global sort function. If a sort function is set on the context, this will get called. Otherwise the global sort function is called.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>a XSLT process context</td></tr><tr><td><span class="term"><i><tt>sorts</tt></i>:</span></td><td>array of sort nodes</td></tr><tr><td><span class="term"><i><tt>nbsorts</tt></i>:</span></td><td>the number of sorts in the array</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltDocumentSortFunction"/>xsltDocumentSortFunction ()</h3><pre class="programlisting">void	xsltDocumentSortFunction	(xmlNodeSetPtr list)<br/>
+</pre><p>reorder the current node list @list accordingly to the document order This function is slow, obsolete and should not be used anymore.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>list</tt></i>:</span></td><td>the node set</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltGetCNsProp"/>xsltGetCNsProp ()</h3><pre class="programlisting">const xmlChar *	xsltGetCNsProp		(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 xmlNodePtr node, <br/>					 const xmlChar * name, <br/>					 const xmlChar * nameSpace)<br/>
+</pre><p>Similar to xmlGetNsProp() but with a slightly different semantic Search and get the value of an attribute associated to a node This attribute has to be anchored in the namespace specified, or has no namespace and the element is in that namespace. This does the entity substitution. This function looks in DTD attribute declaration for #FIXED or default declaration values unless DTD use has been turned off.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>the stylesheet</td></tr><tr><td><span class="term"><i><tt>node</tt></i>:</span></td><td>the node</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the attribute name</td></tr><tr><td><span class="term"><i><tt>nameSpace</tt></i>:</span></td><td>the URI of the namespace</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the attribute value or NULL if not found. The string is allocated in the stylesheet dictionary.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltGetDebuggerStatus"/>xsltGetDebuggerStatus ()</h3><pre class="programlisting">int	xsltGetDebuggerStatus		(void)<br/>
+</pre><p>Get xslDebugStatus.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the value of xslDebugStatus.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltGetNsProp"/>xsltGetNsProp ()</h3><pre class="programlisting">xmlChar *	xsltGetNsProp		(xmlNodePtr node, <br/>					 const xmlChar * name, <br/>					 const xmlChar * nameSpace)<br/>
+</pre><p>Similar to xmlGetNsProp() but with a slightly different semantic Search and get the value of an attribute associated to a node This attribute has to be anchored in the namespace specified, or has no namespace and the element is in that namespace. This does the entity substitution. This function looks in DTD attribute declaration for #FIXED or default declaration values unless DTD use has been turned off.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>node</tt></i>:</span></td><td>the node</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the attribute name</td></tr><tr><td><span class="term"><i><tt>nameSpace</tt></i>:</span></td><td>the URI of the namespace</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the attribute value or NULL if not found. It's up to the caller to free the memory.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltGetProfileInformation"/>xsltGetProfileInformation ()</h3><pre class="programlisting">xmlDocPtr	xsltGetProfileInformation	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt)<br/>
+</pre><p>This function should be called after the transformation completed to extract template processing profiling information if available. The information is returned as an XML document tree like &lt;?xml version="1.0"?&gt; &lt;profile&gt; &lt;template rank="1" match="*" name="" mode="" calls="6" time="48" average="8"/&gt; &lt;template rank="2" match="item2|item3" name="" mode="" calls="10" time="30" average="3"/&gt; &lt;template rank="3" match="item1" name="" mode="" calls="5" time="17" average="3"/&gt; &lt;/profile&gt; The caller will need to free up the returned tree with xmlFreeDoc()</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>a transformation context</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the xmlDocPtr corresponding to the result or NULL if not available.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltGetQNameURI"/>xsltGetQNameURI ()</h3><pre class="programlisting">const xmlChar *	xsltGetQNameURI		(xmlNodePtr node, <br/>					 xmlChar ** name)<br/>
+</pre><p>This function analyzes @name, if the name contains a prefix, the function seaches the associated namespace in scope for it. It will also replace @name value with the NCName, the old value being freed. Errors in the prefix lookup are signalled by setting @name to NULL. NOTE: the namespace returned is a pointer to the place where it is defined and hence has the same lifespan as the document holding it.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>node</tt></i>:</span></td><td>the node holding the QName</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>pointer to the initial QName value</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the namespace URI if there is a prefix, or NULL if @name is not prefixed.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltGetQNameURI2"/>xsltGetQNameURI2 ()</h3><pre class="programlisting">const xmlChar *	xsltGetQNameURI2	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 xmlNodePtr node, <br/>					 const xmlChar ** name)<br/>
+</pre><p>This function is similar to xsltGetQNameURI, but is used when @name is a dictionary entry.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>stylesheet pointer</td></tr><tr><td><span class="term"><i><tt>node</tt></i>:</span></td><td>the node holding the QName</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>pointer to the initial QName value</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the namespace URI if there is a prefix, or NULL if @name is not prefixed.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltGetUTF8Char"/>xsltGetUTF8Char ()</h3><pre class="programlisting">int	xsltGetUTF8Char			(const unsigned char * utf, <br/>					 int * len)<br/>
+</pre><p>Read one UTF8 Char from @utf Function copied from libxml2 xmlGetUTF8Char() ... to discard ultimately and use the original API</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>utf</tt></i>:</span></td><td>a sequence of UTF-8 encoded bytes</td></tr><tr><td><span class="term"><i><tt>len</tt></i>:</span></td><td>a pointer to @bytes len</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the char value or -1 in case of error and update @len with the number of bytes used</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltMessage"/>xsltMessage ()</h3><pre class="programlisting">void	xsltMessage			(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr node, <br/>					 xmlNodePtr inst)<br/>
+</pre><p>Process and xsl:message construct</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT processing context</td></tr><tr><td><span class="term"><i><tt>node</tt></i>:</span></td><td>The current node</td></tr><tr><td><span class="term"><i><tt>inst</tt></i>:</span></td><td>The node containing the message instruction</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltPrintErrorContext"/>xsltPrintErrorContext ()</h3><pre class="programlisting">void	xsltPrintErrorContext		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 <a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 xmlNodePtr node)<br/>
+</pre><p>Display the context of an error.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the transformation context</td></tr><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>the stylesheet</td></tr><tr><td><span class="term"><i><tt>node</tt></i>:</span></td><td>the current node being processed</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSaveProfiling"/>xsltSaveProfiling ()</h3><pre class="programlisting">void	xsltSaveProfiling		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 FILE * output)<br/>
+</pre><p>Save the profiling information on @output</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT context</td></tr><tr><td><span class="term"><i><tt>output</tt></i>:</span></td><td>a FILE * for saving the information</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSaveResultTo"/>xsltSaveResultTo ()</h3><pre class="programlisting">int	xsltSaveResultTo		(xmlOutputBufferPtr buf, <br/>					 xmlDocPtr result, <br/>					 <a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style)<br/>
+</pre><p>Save the result @result obtained by applying the @style stylesheet to an I/O output channel @buf</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>buf</tt></i>:</span></td><td>an output buffer</td></tr><tr><td><span class="term"><i><tt>result</tt></i>:</span></td><td>the result xmlDocPtr</td></tr><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>the stylesheet</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the number of byte written or -1 in case of failure.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSaveResultToFd"/>xsltSaveResultToFd ()</h3><pre class="programlisting">int	xsltSaveResultToFd		(int fd, <br/>					 xmlDocPtr result, <br/>					 <a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style)<br/>
+</pre><p>Save the result @result obtained by applying the @style stylesheet to an open file descriptor This does not close the descriptor.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>fd</tt></i>:</span></td><td>a file descriptor</td></tr><tr><td><span class="term"><i><tt>result</tt></i>:</span></td><td>the result xmlDocPtr</td></tr><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>the stylesheet</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the number of bytes written or -1 in case of failure.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSaveResultToFile"/>xsltSaveResultToFile ()</h3><pre class="programlisting">int	xsltSaveResultToFile		(FILE * file, <br/>					 xmlDocPtr result, <br/>					 <a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style)<br/>
+</pre><p>Save the result @result obtained by applying the @style stylesheet to an open FILE * I/O. This does not close the FILE @file</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>file</tt></i>:</span></td><td>a FILE * I/O</td></tr><tr><td><span class="term"><i><tt>result</tt></i>:</span></td><td>the result xmlDocPtr</td></tr><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>the stylesheet</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the number of bytes written or -1 in case of failure.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSaveResultToFilename"/>xsltSaveResultToFilename ()</h3><pre class="programlisting">int	xsltSaveResultToFilename	(const char * URL, <br/>					 xmlDocPtr result, <br/>					 <a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 int compression)<br/>
+</pre><p>Save the result @result obtained by applying the @style stylesheet to a file or @URL</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>URL</tt></i>:</span></td><td>a filename or URL</td></tr><tr><td><span class="term"><i><tt>result</tt></i>:</span></td><td>the result xmlDocPtr</td></tr><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>the stylesheet</td></tr><tr><td><span class="term"><i><tt>compression</tt></i>:</span></td><td>the compression factor (0 - 9 included)</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the number of byte written or -1 in case of failure.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSaveResultToString"/>xsltSaveResultToString ()</h3><pre class="programlisting">int	xsltSaveResultToString		(xmlChar ** doc_txt_ptr, <br/>					 int * doc_txt_len, <br/>					 xmlDocPtr result, <br/>					 <a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style)<br/>
+</pre><p>Save the result @result obtained by applying the @style stylesheet to a new allocated string.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>doc_txt_ptr</tt></i>:</span></td><td>Memory pointer for allocated XML text</td></tr><tr><td><span class="term"><i><tt>doc_txt_len</tt></i>:</span></td><td>Length of the generated XML text</td></tr><tr><td><span class="term"><i><tt>result</tt></i>:</span></td><td>the result xmlDocPtr</td></tr><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>the stylesheet</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 in case of success and -1 in case of error</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSetCtxtParseOptions"/>xsltSetCtxtParseOptions ()</h3><pre class="programlisting">int	xsltSetCtxtParseOptions		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 int options)<br/>
+</pre><p>Change the default parser option passed by the XSLT engine to the parser when using document() loading.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>a XSLT process context</td></tr><tr><td><span class="term"><i><tt>options</tt></i>:</span></td><td>a combination of libxml2 xmlParserOption</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the previous options or -1 in case of error</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSetCtxtSortFunc"/>xsltSetCtxtSortFunc ()</h3><pre class="programlisting">void	xsltSetCtxtSortFunc		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 <a href="libxslt-xsltInternals.html#xsltSortFunc">xsltSortFunc</a> handler)<br/>
+</pre><p>Function to set the handler for XSLT sorting for the specified context. If the handler is NULL, then the global sort function will be called</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>a XSLT process context</td></tr><tr><td><span class="term"><i><tt>handler</tt></i>:</span></td><td>the new handler function</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSetDebuggerCallbacks"/>xsltSetDebuggerCallbacks ()</h3><pre class="programlisting">int	xsltSetDebuggerCallbacks	(int no, <br/>					 void * block)<br/>
+</pre><p>This function allow to plug a debugger into the XSLT library @block points to a block of memory containing the address of @no callback routines.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>no</tt></i>:</span></td><td>number of callbacks</td></tr><tr><td><span class="term"><i><tt>block</tt></i>:</span></td><td>the block of callbacks</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 in case of success and -1 in case of error</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSetDebuggerStatus"/>xsltSetDebuggerStatus ()</h3><pre class="programlisting">void	xsltSetDebuggerStatus		(int value)<br/>
+</pre><p>This function sets the value of xslDebugStatus.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>value</tt></i>:</span></td><td>the value to be set</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSetGenericDebugFunc"/>xsltSetGenericDebugFunc ()</h3><pre class="programlisting">void	xsltSetGenericDebugFunc		(void * ctx, <br/>					 xmlGenericErrorFunc handler)<br/>
+</pre><p>Function to reset the handler and the error context for out of context error messages. This simply means that @handler will be called for subsequent error messages while not parsing or validating. And @ctx will be passed as first argument to @handler One can simply force messages to be emitted to another FILE * than stderr by setting @ctx to this file handle and @handler to NULL.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctx</tt></i>:</span></td><td>the new error handling context</td></tr><tr><td><span class="term"><i><tt>handler</tt></i>:</span></td><td>the new handler function</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSetGenericErrorFunc"/>xsltSetGenericErrorFunc ()</h3><pre class="programlisting">void	xsltSetGenericErrorFunc		(void * ctx, <br/>					 xmlGenericErrorFunc handler)<br/>
+</pre><p>Function to reset the handler and the error context for out of context error messages. This simply means that @handler will be called for subsequent error messages while not parsing nor validating. And @ctx will be passed as first argument to @handler One can simply force messages to be emitted to another FILE * than stderr by setting @ctx to this file handle and @handler to NULL.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctx</tt></i>:</span></td><td>the new error handling context</td></tr><tr><td><span class="term"><i><tt>handler</tt></i>:</span></td><td>the new handler function</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSetSortFunc"/>xsltSetSortFunc ()</h3><pre class="programlisting">void	xsltSetSortFunc			(<a href="libxslt-xsltInternals.html#xsltSortFunc">xsltSortFunc</a> handler)<br/>
+</pre><p>Function to reset the global handler for XSLT sorting. If the handler is NULL, the default sort function will be used.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>handler</tt></i>:</span></td><td>the new handler function</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSetTransformErrorFunc"/>xsltSetTransformErrorFunc ()</h3><pre class="programlisting">void	xsltSetTransformErrorFunc	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 void * ctx, <br/>					 xmlGenericErrorFunc handler)<br/>
+</pre><p>Function to reset the handler and the error context for out of context error messages specific to a given XSLT transromation. This simply means that @handler will be called for subsequent error messages while running the transformation.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>ctx</tt></i>:</span></td><td>the new error handling context</td></tr><tr><td><span class="term"><i><tt>handler</tt></i>:</span></td><td>the new handler function</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSplitQName"/>xsltSplitQName ()</h3><pre class="programlisting">const xmlChar *	xsltSplitQName		(xmlDictPtr dict, <br/>					 const xmlChar * name, <br/>					 const xmlChar ** prefix)<br/>
+</pre><p>Split QNames into prefix and local names, both allocated from a dictionary.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>dict</tt></i>:</span></td><td>a dictionary</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the full QName</td></tr><tr><td><span class="term"><i><tt>prefix</tt></i>:</span></td><td>the return value</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the localname or NULL in case of error.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltTimestamp"/>xsltTimestamp ()</h3><pre class="programlisting">long	xsltTimestamp			(void)<br/>
+</pre><p>Used for gathering profiling data</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the number of tenth of milliseconds since the beginning of the profiling</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltTransformError"/>xsltTransformError ()</h3><pre class="programlisting">void	xsltTransformError		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 <a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 xmlNodePtr node, <br/>					 const char * msg, <br/>					 ... ...)<br/>
+</pre><p>Display and format an error messages, gives file, line, position and extra parameters, will use the specific transformation context if available</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>the XSLT stylesheet used</td></tr><tr><td><span class="term"><i><tt>node</tt></i>:</span></td><td>the current node in the stylesheet</td></tr><tr><td><span class="term"><i><tt>msg</tt></i>:</span></td><td>the message to display/transmit</td></tr><tr><td><span class="term"><i><tt>...</tt></i>:</span></td><td>extra parameters for the message display</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltXPathCompile"/>xsltXPathCompile ()</h3><pre class="programlisting">xmlXPathCompExprPtr	xsltXPathCompile	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>						 const xmlChar * str)<br/>
+</pre><p>Compile an XPath expression</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>the stylesheet</td></tr><tr><td><span class="term"><i><tt>str</tt></i>:</span></td><td>the XPath expression</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the xmlXPathCompExprPtr resulting from the compilation or NULL. the caller has to free the object.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltXPathCompileFlags"/>xsltXPathCompileFlags ()</h3><pre class="programlisting">xmlXPathCompExprPtr	xsltXPathCompileFlags	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>						 const xmlChar * str, <br/>						 int flags)<br/>
+</pre><p>Compile an XPath expression</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>the stylesheet</td></tr><tr><td><span class="term"><i><tt>str</tt></i>:</span></td><td>the XPath expression</td></tr><tr><td><span class="term"><i><tt>flags</tt></i>:</span></td><td>extra compilation flags to pass down to libxml2 XPath</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the xmlXPathCompExprPtr resulting from the compilation or NULL. the caller has to free the object.</td></tr></tbody></table></div></div>
+        <hr/>
+      </div>
+    </div>
+  </body>
+</html>

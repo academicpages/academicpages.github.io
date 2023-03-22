@@ -1,0 +1,16 @@
+{%- extends 'voila/templates/base/page.html' -%}
+
+{% block stylesheets %}
+{% if include_css %}
+    {% if theme == 'dark' %}
+        {{ include_css("static/index.css") }}
+        {{ include_css("static/theme-dark.css") }}
+    {% elif theme == 'light'  %}
+        {{ include_css("static/index.css") }}
+        {{ include_css("static/theme-light.css") }}
+    {% else %}
+        {{ include_css("static/index.css") }}
+        {{ include_lab_theme(theme) }}
+    {% endif %}
+{% endif %}
+{% endblock %}

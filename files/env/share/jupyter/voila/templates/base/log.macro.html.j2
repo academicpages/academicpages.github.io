@@ -1,0 +1,39 @@
+{% macro js() %}
+  <!-- voila log js -->
+  <script>
+    const _debug = console.debug;
+    const _info = console.info;
+    const _warn = console.warn;
+    const _error = console.error;
+
+    function post(payload) {
+      try {
+        window.top.postMessage(payload);
+      } catch(err) {
+        window.top.postMessage({ level: "debug", msg: ["[Voilà]:",
+                                                       "Issue cloning object when posting log message, JSON stringify version is:",
+                                                       JSON.stringify(payload)
+                                                       ] });
+      }
+    }
+    console.debug = (...args) => {
+        post({ level: "debug", msg: ["[Voilà]:", ...args] });
+        _debug(...args);
+    };
+
+    console.info = console.info = (...args) => {
+        post({ level: "info", msg: ["[Voilà]:", ...args] });
+        _info(...args);
+    };
+
+    console.warn = (...args) => {
+        post({ level: "warn", msg: ["[Voilà]:", ...args] });
+        _warn(...args);
+    };
+
+    console.error = (...args) => {
+        post({ level: "error", msg: ["[Voilà]:", ...args] });
+        _error(...args);
+    };
+  </script>
+{% endmacro %}

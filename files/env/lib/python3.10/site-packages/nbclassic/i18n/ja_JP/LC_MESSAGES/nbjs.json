@@ -1,0 +1,1353 @@
+{
+   "domain": "nbjs",
+   "locale_data": {
+      "nbjs": {
+         "": {
+            "domain": "nbjs"
+         },
+         "Manually edit the JSON below to manipulate the metadata for this cell.": [
+            "このセルのメタデータを操作するには以下のJSONを手動で編集してください。"
+         ],
+         "Manually edit the JSON below to manipulate the metadata for this notebook.": [
+            "このノートブックのメタデータを操作するには以下のJSONを手動で編集してください。"
+         ],
+         " We recommend putting custom metadata attributes in an appropriately named substructure, so they don't conflict with those of others.": [
+            " カスタムメタデータ属性は適切な名前のサブ構造に含め他の属性と競合しないようにすることをお勧めします。"
+         ],
+         "Edit the metadata": [
+            "メタデータの編集"
+         ],
+         "Edit Notebook Metadata": [
+            "ノートブックのメタデータを編集"
+         ],
+         "Edit Cell Metadata": [
+            "セルのメタデータを編集"
+         ],
+         "Cancel": [
+            "キャンセル"
+         ],
+         "Edit": [
+            "編集"
+         ],
+         "OK": [
+            "OK"
+         ],
+         "Apply": [
+            "適用"
+         ],
+         "WARNING: Could not save invalid JSON.": [
+            "警告: 不正な JSON のため保存できませんでした。"
+         ],
+         "There are no attachments for this cell.": [
+            "このセルには添付ファイルはありません。"
+         ],
+         "Current cell attachments": [
+            "現在のセルの添付ファイル"
+         ],
+         "Attachments": [
+            "添付ファイル"
+         ],
+         "Restore": [
+            "復元"
+         ],
+         "Delete": [
+            "削除"
+         ],
+         "Edit attachments": [
+            "添付ファイルを編集"
+         ],
+         "Edit Notebook Attachments": [
+            "ノートブックの添付ファイルを編集"
+         ],
+         "Edit Cell Attachments": [
+            "セルの添付ファイルを編集"
+         ],
+         "Select a file to insert.": [
+            "挿入するファイルを選択して下さい。"
+         ],
+         "Select a file": [
+            "ファイルを選択"
+         ],
+         "You are using Jupyter NbClassic.": [
+            "Jupyter notebook を使用しています。"
+         ],
+         "The version of the Jupyter server is: ": [
+            "ノートブックサーバのバージョン"
+         ],
+         "The server is running on this version of Python:": [
+            "サーバはこのバージョンの Python で稼働しています:"
+         ],
+         "Waiting for kernel to be available...": [
+            "利用可能なカーネルを待機しています..."
+         ],
+         "Server Information:": [
+            "サーバ情報:"
+         ],
+         "Current Kernel Information:": [
+            "現在のカーネル情報:"
+         ],
+         "Could not access sys_info variable for version information.": [
+            "バージョン情報のための sys_info 変数にアクセスできませんでした。"
+         ],
+         "Cannot find sys_info!": [
+            "sys_info が見つかりません!"
+         ],
+         "About Jupyter NbClassic": [
+            "Jupyter Notebook について"
+         ],
+         "unable to contact kernel": [
+            "kernel と通信できません"
+         ],
+         "toggle rtl layout": [
+            "rtl レイアウトをトグル"
+         ],
+         "Toggle the screen directionality between left-to-right and right-to-left": [
+            "画面の表示方向を、左から右、と右から左、でトグル"
+         ],
+         "edit command mode keyboard shortcuts": [
+            "コマンドモードキーボードショートカットを編集"
+         ],
+         "Open a dialog to edit the command mode keyboard shortcuts": [
+            "コマンドモードのキーボードショートカットを編集するためにダイアログを開きます"
+         ],
+         "restart kernel": [
+            "カーネルを再起動"
+         ],
+         "restart the kernel (no confirmation dialog)": [
+            "カーネルを再起動 (確認ダイアログ無し)"
+         ],
+         "confirm restart kernel": [
+            "カーネルを再起動の確認"
+         ],
+         "restart the kernel (with dialog)": [
+            "カーネルを再起動 (確認ダイアログあり)"
+         ],
+         "restart kernel and run all cells": [
+            "カーネルを再起動し全てのセルを実行"
+         ],
+         "restart the kernel, then re-run the whole notebook (no confirmation dialog)": [
+            "カーネルを再起動しノートブック全体を再実行 (確認ダイアログ無し)"
+         ],
+         "confirm restart kernel and run all cells": [
+            "カーネルを再起動し全てのセルを実行する確認"
+         ],
+         "restart the kernel, then re-run the whole notebook (with dialog)": [
+            "カーネルを再起動しノートブック全体を再実行 (確認ダイアログあり)"
+         ],
+         "restart kernel and clear output": [
+            "カーネルを再起動し出力をクリア"
+         ],
+         "restart the kernel and clear all output (no confirmation dialog)": [
+            "カーネルを再起動し全ての出力をクリア (確認ダイアログ無し)"
+         ],
+         "confirm restart kernel and clear output": [
+            "カーネルを再起動し出力をクリアする確認"
+         ],
+         "restart the kernel and clear all output (with dialog)": [
+            "カーネルを再起動し出力をクリア (確認ダイアログあり)"
+         ],
+         "interrupt the kernel": [
+            "カーネルを中断"
+         ],
+         "run cell and select next": [
+            "セルを実行し次を選択"
+         ],
+         "run cell, select below": [
+            "セルを実行し下を選択"
+         ],
+         "run selected cells": [
+            "選択されているセルを実行"
+         ],
+         "run cell and insert below": [
+            "セルを実行し下に挿入"
+         ],
+         "run all cells": [
+            "全てのセルを実行"
+         ],
+         "run all cells above": [
+            "ここまでのセルを実行"
+         ],
+         "run all cells below": [
+            "以下の全てのセルを実行"
+         ],
+         "enter command mode": [
+            "コマンドラインモードに移る"
+         ],
+         "insert image": [
+            "画像の挿入"
+         ],
+         "cut cell attachments": [
+            "セルの添付ファイルを切り取り"
+         ],
+         "copy cell attachments": [
+            "セルの添付ファイルをコピー"
+         ],
+         "paste cell attachments": [
+            "セルの添付ファイルをペースト"
+         ],
+         "split cell at cursor": [
+            "カーソル位置でセルを分割"
+         ],
+         "enter edit mode": [
+            "編集モードに移る"
+         ],
+         "select previous cell": [
+            "1つ前のセルを選択"
+         ],
+         "select cell above": [
+            "上のセルを選択"
+         ],
+         "select next cell": [
+            "次のセルを選択"
+         ],
+         "select cell below": [
+            "下のセルを選択"
+         ],
+         "extend selection above": [
+            "選択を上に拡大"
+         ],
+         "extend selected cells above": [
+            "セルの選択を上に拡大"
+         ],
+         "extend selection below": [
+            "選択を下に拡大"
+         ],
+         "extend selected cells below": [
+            "セルの選択を下に拡大"
+         ],
+         "cut selected cells": [
+            "選択されているセルを切り取り"
+         ],
+         "copy selected cells": [
+            "選択されているセルをコピー"
+         ],
+         "paste cells above": [
+            "上にセルをペースト"
+         ],
+         "paste cells below": [
+            "下にセルをペースト"
+         ],
+         "insert cell above": [
+            "上にセルを追加"
+         ],
+         "insert cell below": [
+            "下にセルを追加"
+         ],
+         "change cell to code": [
+            "セルをコードに変更"
+         ],
+         "change cell to markdown": [
+            "セルを markdown に変更"
+         ],
+         "change cell to raw": [
+            "セルを raw に変更"
+         ],
+         "change cell to heading 1": [
+            "セルを表題1に変更"
+         ],
+         "change cell to heading 2": [
+            "セルを表題2に変更"
+         ],
+         "change cell to heading 3": [
+            "セルを表題3に変更"
+         ],
+         "change cell to heading 4": [
+            "セルを表題4に変更"
+         ],
+         "change cell to heading 5": [
+            "セルを表題5に変更"
+         ],
+         "change cell to heading 6": [
+            "セルを表題6に変更"
+         ],
+         "toggle cell output": [
+            "セルの出力をトグル"
+         ],
+         "toggle output of selected cells": [
+            "選択中のセルの出力をトグル"
+         ],
+         "toggle cell scrolling": [
+            "セルのスクロールをトグル"
+         ],
+         "toggle output scrolling of selected cells": [
+            "選択中のセルの出力スクロールをトグル"
+         ],
+         "clear cell output": [
+            "セルの出力をクリア"
+         ],
+         "clear output of selected cells": [
+            "選択しているセルの出力をクリア"
+         ],
+         "move cells down": [
+            "セルを下に移動"
+         ],
+         "move selected cells down": [
+            "選択しているセルを下に移動"
+         ],
+         "move cells up": [
+            "セルを上に移動"
+         ],
+         "move selected cells up": [
+            "選択しているセルを上に移動"
+         ],
+         "toggle line numbers": [
+            "行番号をトグル"
+         ],
+         "show keyboard shortcuts": [
+            "キーボードショートカットを表示"
+         ],
+         "delete cells": [
+            "セルを削除"
+         ],
+         "delete selected cells": [
+            "選択されているセルを削除"
+         ],
+         "undo cell deletion": [
+            "セルの削除を取り消す"
+         ],
+         "merge cell with previous cell": [
+            "1つ前のアクティブセルとマージ"
+         ],
+         "merge cell above": [
+            "上のセルとマージ"
+         ],
+         "merge cell with next cell": [
+            "次のセルとマージ"
+         ],
+         "merge cell below": [
+            "下のセルとマージ"
+         ],
+         "merge selected cells": [
+            "選択されているセルをマージ"
+         ],
+         "merge cells": [
+            "セルをマージ"
+         ],
+         "merge selected cells, or current cell with cell below if only one cell is selected": [
+            "選択中のセル、または選択されていない場合は現在のセル以降をマージする"
+         ],
+         "show command pallette": [
+            "コマンドパレットの表示"
+         ],
+         "open the command palette": [
+            "コマンドパレットを開く"
+         ],
+         "toggle all line numbers": [
+            "全ての行番号をトグル"
+         ],
+         "toggles line numbers in all cells, and persist the setting": [
+            "全てのセルの行番号をトグルし設定を保存"
+         ],
+         "show all line numbers": [
+            "全ての行番号を保存"
+         ],
+         "show line numbers in all cells, and persist the setting": [
+            "全てのセルで行番号を表示し設定を保存"
+         ],
+         "hide all line numbers": [
+            "全ての行番号を非表示"
+         ],
+         "hide line numbers in all cells, and persist the setting": [
+            "すべてのセルの行番号を非表示にし設定を保持します"
+         ],
+         "toggle header": [
+            "ヘッダをトグル"
+         ],
+         "switch between showing and hiding the header": [
+            "ヘッダの表示と非表示を切り替えます"
+         ],
+         "show the header": [
+            "ヘッダを表示"
+         ],
+         "hide the header": [
+            "ヘッダを非表示"
+         ],
+         "toggle toolbar": [
+            "ツールバーをトグル"
+         ],
+         "switch between showing and hiding the toolbar": [
+            "ツールバーの表示と非表示を切り替える"
+         ],
+         "show the toolbar": [
+            "ツールバーを表示"
+         ],
+         "hide the toolbar": [
+            "ツールバーを非表示"
+         ],
+         "close the pager": [
+            "ページャを閉じる"
+         ],
+         "ignore": [
+            "無視"
+         ],
+         "move cursor up": [
+            "カーソルを上に移動"
+         ],
+         "move cursor down": [
+            "カーソルを下に移動"
+         ],
+         "scroll notebook down": [
+            "ノートブックを下にスクロール"
+         ],
+         "scroll notebook up": [
+            "ノートブックを上にスクロール"
+         ],
+         "scroll cell center": [
+            "セルを中央までスクロール"
+         ],
+         "Scroll the current cell to the center": [
+            "現在のセルが中央になる様にスクロール"
+         ],
+         "scroll cell top": [
+            "セルを最上部までスクロール"
+         ],
+         "Scroll the current cell to the top": [
+            "現在のセルが最上部になる様にスクロール"
+         ],
+         "duplicate notebook": [
+            "ノートブックの複製"
+         ],
+         "Create and open a copy of the current notebook": [
+            "現在のノートブックのコピーを作成し開く"
+         ],
+         "trust notebook": [
+            "ノートブックを信頼"
+         ],
+         "Trust the current notebook": [
+            "現在のノートブックを信頼する"
+         ],
+         "rename notebook": [
+            "ノートブックをリネーム"
+         ],
+         "Rename the current notebook": [
+            "現在のノートブックをリネームする"
+         ],
+         "toggle all cells output collapsed": [
+            ""
+         ],
+         "Toggle the hidden state of all output areas": [
+            ""
+         ],
+         "toggle all cells output scrolled": [
+            ""
+         ],
+         "Toggle the scrolling state of all output areas": [
+            ""
+         ],
+         "clear all cells output": [
+            "全てのセル出力をクリア"
+         ],
+         "Clear the content of all the outputs": [
+            "全ての出力コンテンツをクリア"
+         ],
+         "save notebook": [
+            "ノートブックの保存"
+         ],
+         "Save and Checkpoint": [
+            "保存とチェックポイント"
+         ],
+         "Warning: accessing Cell.cm_config directly is deprecated.": [
+            "警告: Cell.cm_config に直接アクセスすることは非推奨です。"
+         ],
+         "Unrecognized cell type: %s": [
+            "認識できないセル種別: %s"
+         ],
+         "Unrecognized cell type": [
+            "認識できないセル種別"
+         ],
+         "Error in cell toolbar callback %s": [
+            "セルツールバーのコールバック %s でエラー"
+         ],
+         "Clipboard types: %s": [
+            "クリップボードの種別: %s"
+         ],
+         "Dialog for paste from system clipboard": [
+            "システムのクリップボードから張り付け"
+         ],
+         "Ctrl-V": [
+            ""
+         ],
+         "Cmd-V": [
+            ""
+         ],
+         "Press %s again to paste": [
+            "ペーストするには %s をもう一度押します"
+         ],
+         "Why is this needed? ": [
+            "これが必要ですか？"
+         ],
+         "We can't get paste events in this browser without a text box. ": [
+            "このブラウザではテキストボックスなしに貼り付けイベントを受け取ることができません。"
+         ],
+         "There's an invisible text box focused in this dialog.": [
+            "このダイアログには目に見えないテキストボックスがあります。"
+         ],
+         "%s to paste": [
+            "ペーストするには %s"
+         ],
+         "Can't execute cell since kernel is not set.": [
+            "カーネルが存在しないのでセルを実行できません。"
+         ],
+         "In": [
+            "入力"
+         ],
+         "Could not find a kernel matching %s. Please select a kernel:": [
+            "%s にマッチするカーネルが見つかりませんでした。カーネルを選択して下さい:"
+         ],
+         "Continue Without Kernel": [
+            "カーネル無しで続行"
+         ],
+         "Set Kernel": [
+            "カーネルの設定"
+         ],
+         "Kernel not found": [
+            "カーネルが見つかりません"
+         ],
+         "Creating Notebook Failed": [
+            "ノートブックの作成に失敗しました"
+         ],
+         "The error was: %s": [
+            "エラー: %s"
+         ],
+         "Run": [
+            "実行"
+         ],
+         "Code": [
+            "コード"
+         ],
+         "Markdown": [
+            ""
+         ],
+         "Raw NBConvert": [
+            ""
+         ],
+         "Heading": [
+            "ヘッダ"
+         ],
+         "unrecognized cell type:": [
+            "不明なセル種別:"
+         ],
+         "Failed to retrieve MathJax from '%s'": [
+            "%s から MathJax を取得できませんでした"
+         ],
+         "Math/LaTeX rendering will be disabled.": [
+            "Math/LaTeX レンダリングは無効になります。"
+         ],
+         "Trusted Notebook": [
+            "信頼されたノートブック"
+         ],
+         "Trust Notebook": [
+            "ノートブックを信頼する"
+         ],
+         "None": [
+            ""
+         ],
+         "No checkpoints": [
+            "チェックポイントはありません"
+         ],
+         "Opens in a new window": [
+            "新しいウィンドウで開く"
+         ],
+         "Autosave in progress, latest changes may be lost.": [
+            "自動保存が実行中です。最後の変更は失われるかもしれません。"
+         ],
+         "Unsaved changes will be lost.": [
+            "未保存の変更は破棄されます。"
+         ],
+         "The Kernel is busy, outputs may be lost.": [
+            "カーネルがビジーです。出力が欠けるかもしれません。"
+         ],
+         "This notebook is version %1$s, but we only fully support up to %2$s.": [
+            "このノートブックのバージョンは %1$s です。しかし完全なサポートは %2$s だけになります。"
+         ],
+         "You can still work with this notebook, but cell and output types introduced in later notebook versions will not be available.": [
+            "このノートブックはまだ動作しますがこれ以降のノートブックバージョンで導入されたセルおよび出力タイプは利用できなくなります。"
+         ],
+         "Restart and Run All Cells": [
+            "再起動と全ての出力をクリア"
+         ],
+         "Restart and Clear All Outputs": [
+            "再起動と全ての出力をクリア"
+         ],
+         "Restart": [
+            "再起動"
+         ],
+         "Continue Running": [
+            "実行を続行"
+         ],
+         "Reload": [
+            "リロード"
+         ],
+         "Overwrite": [
+            "上書き"
+         ],
+         "Trust": [
+            "信頼"
+         ],
+         "Revert": [
+            "復元"
+         ],
+         "Newer Notebook": [
+            "新しいノートブック"
+         ],
+         "Use markdown headings": [
+            "Markdown のヘッダを使用"
+         ],
+         "Jupyter no longer uses special heading cells. Instead, write your headings in Markdown cells using # characters:": [
+            "Jupyter は特別な見出しセルを使用しなくなりました。代わりに # 文字を使用して Markdown セルに見出しを書きいて下さい:"
+         ],
+         "## This is a level 2 heading": [
+            "## これはレベル2のヘッダです"
+         ],
+         "Restart kernel and re-run the whole notebook?": [
+            "カーネルを再起動しノートブック全体を再実行する"
+         ],
+         "Are you sure you want to restart the current kernel and re-execute the whole notebook?  All variables and outputs will be lost.": [
+            "現在のカーネルを再起動してノートブック全体を再実行しますか？全ての変数と出力は失われます。"
+         ],
+         "Restart kernel and clear all output?": [
+            "カーネルを再起動し全ての出力をクリアしますか？"
+         ],
+         "Do you want to restart the current kernel and clear all output?  All variables and outputs will be lost.": [
+            "現在のカーネルを再起動してすべての出力をクリアしますか？全ての変数と出力は失われます。"
+         ],
+         "Restart kernel?": [
+            "カーネルを再起動しますか？"
+         ],
+         "Do you want to restart the current kernel?  All variables will be lost.": [
+            "現在のカーネルを再起動しますか？全ての変数は失われます。"
+         ],
+         "Shutdown kernel?": [
+            "カーネルをシャットダウンしますか？"
+         ],
+         "Do you want to shutdown the current kernel?  All variables will be lost.": [
+            "現在のカーネルをシャットダウンしますか？すべての変数は失われます。"
+         ],
+         "Notebook changed": [
+            "ノートブックは変更されました"
+         ],
+         "The notebook file has changed on disk since the last time we opened or saved it. Do you want to overwrite the file on disk with the version open here, or load the version on disk (reload the page) ?": [
+            ""
+         ],
+         "Notebook validation failed": [
+            "ノートブックの検証に失敗しました"
+         ],
+         "The save operation succeeded, but the notebook does not appear to be valid. The validation error was:": [
+            "保存操作は成功しましたがノートブックは有効ではないようです。検証エラー:"
+         ],
+         "A trusted Jupyter notebook may execute hidden malicious code when you open it. Selecting trust will immediately reload this notebook in a trusted state. For more information, see the Jupyter security documentation: ": [
+            "信頼された Jupyter ノートブックは開いた際に隠された悪意のあるコードが実行される可能性があります。信頼を選択すると直ちにリロードされこのノートブックは信頼できる状態になりします。詳細については、Jupyter のセキュリティドキュメントを参照してください。"
+         ],
+         "here": [
+            "ここ"
+         ],
+         "Trust this notebook?": [
+            "このノートブックを信頼しますか？"
+         ],
+         "Notebook failed to load": [
+            "ノートブックの読み込みに失敗しました"
+         ],
+         "The error was: ": [
+            "エラー: "
+         ],
+         "See the error console for details.": [
+            "詳しくはエラーコンソールを参照して下さい。"
+         ],
+         "The notebook also failed validation:": [
+            "ノートブックの検証に失敗しました:"
+         ],
+         "An invalid notebook may not function properly. The validation error was:": [
+            "無効なノートブックは正しく機能しない可能性があります。検証エラーは次の通りです:"
+         ],
+         "This notebook has been converted from an older notebook format to the current notebook format v(%s).": [
+            "このノートブックは古いノートブックの形式から現在の形式 v(%s) に変換されました。"
+         ],
+         "This notebook has been converted from a newer notebook format to the current notebook format v(%s).": [
+            "このノートブックは新しいノートブックの形式から現在の形式 v(%s) に変換されました。"
+         ],
+         "The next time you save this notebook, the current notebook format will be used.": [
+            "次回このノートブックを保存する時は現在のノートブックの形式が使用されます。"
+         ],
+         "Older versions of Jupyter may not be able to read the new format.": [
+            "古いバージョンの Jupyter は新しい形式を読むことができない場合があります。"
+         ],
+         "Some features of the original notebook may not be available.": [
+            "オリジナルのノートブックの中には利用できない機能が幾つかあります。"
+         ],
+         "To preserve the original version, close the notebook without saving it.": [
+            "元のバージョンを残すには保存せずにノートブックを閉じます"
+         ],
+         "Notebook converted": [
+            "ノートブックは変換されました"
+         ],
+         "(No name)": [
+            "(無題)"
+         ],
+         "An unknown error occurred while loading this notebook. This version can load notebook formats %s or earlier. See the server log for details.": [
+            "このノートブックの読み込み中に不明なエラーが発生しました。このバージョンはノートブックの形式 %s とそれ以前のバージョンをロードできます。 詳細についてはサーバのログを参照して下さい。"
+         ],
+         "Error loading notebook": [
+            "ノートブックの読み込み中にエラー"
+         ],
+         "Are you sure you want to revert the notebook to the latest checkpoint?": [
+            "本当に最終チェックポイントへノートブックを復元しますか？"
+         ],
+         "This cannot be undone.": [
+            "この操作は取り消せません。"
+         ],
+         "The checkpoint was last updated at:": [
+            "チェックポイントはこの時間に変更されました:"
+         ],
+         "Revert notebook to checkpoint": [
+            "ノートブックをチェックポイントへ復元"
+         ],
+         "Edit Mode": [
+            "編集モード"
+         ],
+         "Command Mode": [
+            "コマンドモード"
+         ],
+         "Kernel Created": [
+            "カーネルが作成されました"
+         ],
+         "Connecting to kernel": [
+            "カーネルに接続中"
+         ],
+         "Not Connected": [
+            "接続されていません"
+         ],
+         "click to reconnect": [
+            "クリックして再接続"
+         ],
+         "Restarting kernel": [
+            "カーネルを再起動中"
+         ],
+         "Kernel Restarting": [
+            "カーネルは再起動中です"
+         ],
+         "The kernel appears to have died. It will restart automatically.": [
+            "カーネルが異常終了した様です。自動的に再起動します。"
+         ],
+         "Dead kernel": [
+            "カーネルが異常終了!"
+         ],
+         "Kernel Dead": [
+            "カーネルが異常終了"
+         ],
+         "Interrupting kernel": [
+            "カーネルを中断します!"
+         ],
+         "No Connection to Kernel": [
+            "カーネルへの接続がありません"
+         ],
+         "A connection to the notebook server could not be established. The notebook will continue trying to reconnect. Check your network connection or notebook server configuration.": [
+            "ノートブックサーバへの接続を確立できませんでした。ノートブックは再接続を試みます。ネットワーク接続またはノートブックサーバの設定を確認してください。"
+         ],
+         "Connection failed": [
+            "接続に失敗しました"
+         ],
+         "No kernel": [
+            "カーネルが見つかりません"
+         ],
+         "Kernel is not running": [
+            "カーネルは起動していません"
+         ],
+         "Don't Restart": [
+            "再起動しない"
+         ],
+         "Try Restarting Now": [
+            "再起動を試みます"
+         ],
+         "The kernel has died, and the automatic restart has failed. It is possible the kernel cannot be restarted. If you are not able to restart the kernel, you will still be able to save the notebook, but running code will no longer work until the notebook is reopened.": [
+            "カーネルが異常終了し自動再起動が失敗しました。カーネルを再起動できない可能性があります。カーネルを再起動できない場合でもノートブックを保存することはできますがコードの実行はノートブックを開き直すまで機能しなくなります。"
+         ],
+         "No Kernel": [
+            "カーネルが見つかりません"
+         ],
+         "Failed to start the kernel": [
+            "カーネルの起動に失敗しました"
+         ],
+         "Kernel Busy": [
+            "カーネルがビジー"
+         ],
+         "Kernel starting, please wait...": [
+            "カーネルを起動しています。お待ちください..."
+         ],
+         "Kernel Idle": [
+            "カーネルは休止状態"
+         ],
+         "Kernel ready": [
+            "カーネルの準備が完了"
+         ],
+         "Using kernel: ": [
+            "カーネルを使用しています: "
+         ],
+         "Only candidate for language: %1$s was %2$s.": [
+            "唯一の言語の候補: %1$s は %2$s."
+         ],
+         "Loading notebook": [
+            "ノートブックを読み込んでいます"
+         ],
+         "Notebook loaded": [
+            "ノートブックが読み込まれました"
+         ],
+         "Saving notebook": [
+            "ノートブックを保存しています"
+         ],
+         "Notebook saved": [
+            "ノートブックが保存されました"
+         ],
+         "Notebook save failed": [
+            "ノートブックの保存に失敗しました"
+         ],
+         "Notebook copy failed": [
+            "ノートブックのコピーに失敗しました"
+         ],
+         "Checkpoint created": [
+            "チェックポイントが作成されました"
+         ],
+         "Checkpoint failed": [
+            "チェックポイントの失敗"
+         ],
+         "Checkpoint deleted": [
+            "チェックポイントの削除"
+         ],
+         "Checkpoint delete failed": [
+            "チェックポイントの削除に失敗しました"
+         ],
+         "Restoring to checkpoint...": [
+            "チェックポイントの復元..."
+         ],
+         "Checkpoint restore failed": [
+            "チェックポイントの復元に失敗しました"
+         ],
+         "Autosave disabled": [
+            "自動保存は無効"
+         ],
+         "Saving every %d sec.": [
+            "%d 秒で保存"
+         ],
+         "Trusted": [
+            "信頼済み"
+         ],
+         "Not Trusted": [
+            "信頼されていません"
+         ],
+         "click to expand output": [
+            "出力を広げるにはクリックします"
+         ],
+         "click to expand output; double click to hide output": [
+            "出力を広げるにはクリックします; ダブルクリックで非表示"
+         ],
+         "click to unscroll output; double click to hide": [
+            "出力のスクロールを止めるためにクリック; ダブルクリックで非表示"
+         ],
+         "click to scroll output; double click to hide": [
+            "出力をスクロールするためにクリック; ダブルクリックで非表示"
+         ],
+         "Javascript error adding output!": [
+            "Javascript エラーが出力に追加されました!"
+         ],
+         "See your browser Javascript console for more details.": [
+            "より詳細を知るにはブラウザの Javascript コンソールを確認して下さい。"
+         ],
+         "Out[%s]:": [
+            "出力[%s]:"
+         ],
+         "Unrecognized output: %s": [
+            "認識できない出力: %s"
+         ],
+         "Open the pager in an external window": [
+            "外部ウィンドウでページャを開く"
+         ],
+         "Close the pager": [
+            "ページャを閉じる"
+         ],
+         "Jupyter Pager": [
+            "Jupyter ページャ"
+         ],
+         "go to cell start": [
+            "セルの先頭に移動"
+         ],
+         "go to cell end": [
+            "セルの末尾に移動"
+         ],
+         "go one word left": [
+            "単語1つ左に移動"
+         ],
+         "go one word right": [
+            "単語1つ右に移動"
+         ],
+         "delete word before": [
+            "前の単語を削除"
+         ],
+         "delete word after": [
+            "続く単語を削除"
+         ],
+         "code completion or indent": [
+            "コード補完またはインデント"
+         ],
+         "tooltip": [
+            "ツールチップ"
+         ],
+         "indent": [
+            "インデント"
+         ],
+         "dedent": [
+            "インデント解除"
+         ],
+         "select all": [
+            "全てを選択"
+         ],
+         "undo": [
+            "元に戻す"
+         ],
+         "redo": [
+            "やり直し"
+         ],
+         "Shift": [
+            ""
+         ],
+         "Alt": [
+            ""
+         ],
+         "Up": [
+            ""
+         ],
+         "Down": [
+            ""
+         ],
+         "Left": [
+            ""
+         ],
+         "Right": [
+            ""
+         ],
+         "Tab": [
+            ""
+         ],
+         "Caps Lock": [
+            ""
+         ],
+         "Esc": [
+            ""
+         ],
+         "Ctrl": [
+            ""
+         ],
+         "Enter": [
+            ""
+         ],
+         "Page Up": [
+            ""
+         ],
+         "Page Down": [
+            ""
+         ],
+         "Home": [
+            ""
+         ],
+         "End": [
+            ""
+         ],
+         "Space": [
+            ""
+         ],
+         "Backspace": [
+            ""
+         ],
+         "Minus": [
+            ""
+         ],
+         "PageUp": [
+            ""
+         ],
+         "The Jupyter Notebook has two different keyboard input modes.": [
+            "Jupyter Notebook は異なる2つのキーボード入力モードを持っています。"
+         ],
+         "<b>Edit mode</b> allows you to type code or text into a cell and is indicated by a green cell border.": [
+            "<b>編集モード</b> は緑色のセル枠で表示され、セルにコードまたはテキストを入力できます。"
+         ],
+         "<b>Command mode</b> binds the keyboard to notebook level commands and is indicated by a grey cell border with a blue left margin.": [
+            "<b>コマンドモード</b> は青い左マージンを持つ灰色のセル枠で表示され、ノートブックレベルのコマンドにキーボードをバインドします。"
+         ],
+         "Close": [
+            "閉じる"
+         ],
+         "Keyboard shortcuts": [
+            "キーボードショートカット"
+         ],
+         "Command": [
+            ""
+         ],
+         "Control": [
+            ""
+         ],
+         "Option": [
+            ""
+         ],
+         "Return": [
+            ""
+         ],
+         "Command Mode (press %s to enable)": [
+            "コマンドモード (有効にするには %s を押下)"
+         ],
+         "Edit Shortcuts": [
+            "ショートカットを編集"
+         ],
+         "edit command-mode keyboard shortcuts": [
+            "コマンドモードのキーボードショートカットを編集"
+         ],
+         "Edit Mode (press %s to enable)": [
+            "編集モード (有効にするには %s を押下)"
+         ],
+         "Autosave Failed!": [
+            "自動保存に失敗!"
+         ],
+         "Rename": [
+            "リネーム"
+         ],
+         "Enter a new notebook name:": [
+            "新しいノートブックの名前を入力:"
+         ],
+         "Rename Notebook": [
+            "ノートブックのリネーム"
+         ],
+         "Invalid notebook name. Notebook names must have 1 or more characters and can contain any characters except :/\\. Please enter a new notebook name:": [
+            "不正なノートブックの名前です。ノートブックの名前は :/\\ を除く1文字以上でなければなりません。新しいノートブックの名前を入力して下さい:"
+         ],
+         "Renaming...": [
+            "リネーム中..."
+         ],
+         "Unknown error": [
+            "不明なエラー"
+         ],
+         "no checkpoint": [
+            "チェックポイントはありません"
+         ],
+         "Last Checkpoint: %s": [
+            "最終チェックポイント: %s"
+         ],
+         "(unsaved changes)": [
+            "(未保存の変更)"
+         ],
+         "(autosaved)": [
+            "(自動保存)"
+         ],
+         "Warning: too many matches (%d). Some changes might not be shown or applied.": [
+            "警告: マッチが多すぎます (%d 個)。幾らかの変更は表示または適用されません。"
+         ],
+         "%d match": [
+            "%d 個にマッチ",
+            "%d 個にマッチ"
+         ],
+         "More than 100 matches, aborting": [
+            "100 個以上にマッチしたため中断します"
+         ],
+         "Use regex (JavaScript regex syntax)": [
+            "正規表現の使用 (JavaScript 正規表現)"
+         ],
+         "Replace in selected cells": [
+            "選択中のセルを入れ替え"
+         ],
+         "Match case": [
+            "大文字と小文字の両方にマッチ"
+         ],
+         "Find": [
+            "検索"
+         ],
+         "Replace": [
+            "置換"
+         ],
+         "No matches, invalid or empty regular expression": [
+            "マッチしません。不正または空の正規表現です"
+         ],
+         "Replace All": [
+            "全て置換"
+         ],
+         "Find and Replace": [
+            "検索と置換"
+         ],
+         "find and replace": [
+            "検索と置換"
+         ],
+         "Write raw LaTeX or other formats here, for use with nbconvert. It will not be rendered in the notebook. When passing through nbconvert, a Raw Cell's content is added to the output unmodified.": [
+            "nbconvert で使うために生の LaTeX や他の形式をここに書いてください。これらはノートブックには表示されません。nbconvert に渡されると Raw Cell の内容が変更されずに出力に追加されます。"
+         ],
+         "Grow the tooltip vertically (press shift-tab twice)": [
+            "ツールチップを垂直方向に広げる（shift-tabを2回押す）"
+         ],
+         "show the current docstring in pager (press shift-tab 4 times)": [
+            "現在の docstring をページャで表示します（shift-tabを4回押します）"
+         ],
+         "Open in Pager": [
+            "ページャで開く"
+         ],
+         "Tooltip will linger for 10 seconds while you type": [
+            "ツールチップは入力中の 10 秒間表示されます"
+         ],
+         "Welcome to the Notebook Tour": [
+            "ノートブックツアーへようこそ"
+         ],
+         "You can use the left and right arrow keys to go backwards and forwards.": [
+            "先に進んだり前に戻るにはカーソルの左と右を使う事ができます。"
+         ],
+         "Filename": [
+            "ファイル名"
+         ],
+         "Click here to change the filename for this notebook.": [
+            "このノートブックのファイル名を変更するにはここをクリックします。"
+         ],
+         "Notebook Menubar": [
+            "ノートブックメニューバー"
+         ],
+         "The menubar has menus for actions on the notebook, its cells, and the kernel it communicates with.": [
+            "メニューバーにはノートブック、そのセル、およびそれらが通信するカーネルに対するアクションのためのメニューがあります。"
+         ],
+         "Notebook Toolbar": [
+            "ノートブックツールバー"
+         ],
+         "The toolbar has buttons for the most common actions. Hover your mouse over each button for more information.": [
+            "ツールバーには最も一般的な操作のボタンが置かれます。 詳細については各ボタンの上にマウスを移動してください。"
+         ],
+         "Mode Indicator": [
+            "モードインジケータ"
+         ],
+         "The Notebook has two modes: Edit Mode and Command Mode. In this area, an indicator can appear to tell you which mode you are in.": [
+            "ノートブックには編集モードとコマンドモードの2つのモードがあります。この領域にはどのモードにいるのかを示すインジケータが表示されます。"
+         ],
+         "Right now you are in Command Mode, and many keyboard shortcuts are available. In this mode, no icon is displayed in the indicator area.": [
+            "現在あなたはコマンドモードにいるので多くのキーボードショートカットが利用可能です。 このモードではインジケータ領域にアイコンは表示されません。"
+         ],
+         "Pressing <code>Enter</code> or clicking in the input text area of the cell switches to Edit Mode.": [
+            "<code>Enter</code>を押下、セルのテキストの入力エリアをクリックすると編集モードに切り替わります。"
+         ],
+         "Notice that the border around the currently active cell changed color. Typing will insert text into the currently active cell.": [
+            "現在アクティブなセルの周囲の境界線の色が変わることに注目してください。文字を入力すると現在アクティブなセルにテキストが挿入されます。"
+         ],
+         "Back to Command Mode": [
+            "コマンドモードに戻る"
+         ],
+         "Pressing <code>Esc</code> or clicking outside of the input text area takes you back to Command Mode.": [
+            "<code>Esc</code>を押下、またはテキストの入力エリアの外側をクリックするとコマンドモードに戻ります。"
+         ],
+         "Keyboard Shortcuts": [
+            "キーボードショートカット"
+         ],
+         "You can click here to get a list of all of the keyboard shortcuts.": [
+            "ここをクリックすると全てのキーボードショートカットの一覧が表示されます。"
+         ],
+         "Kernel Indicator": [
+            "カーネルインジケータ"
+         ],
+         "This is the Kernel indicator. It looks like this when the Kernel is idle.": [
+            "これはカーネルインジケータです。カーネルがアイドル状態のときはこの様に表示されます。"
+         ],
+         "The Kernel indicator looks like this when the Kernel is busy.": [
+            "カーネルインジケータはカーネルがビジーのときはこのように表示されます。"
+         ],
+         "Interrupting the Kernel": [
+            "カーネルの中断"
+         ],
+         "To cancel a computation in progress, you can click here.": [
+            "実行中の計算をキャンセルするにはここをクリックして下さい。"
+         ],
+         "Notification Area": [
+            "通知エリア"
+         ],
+         "Messages in response to user actions (Save, Interrupt, etc.) appear here.": [
+            "ユーザーアクション (保存、割り込みなど) に応じたメッセージがここに表示されます。"
+         ],
+         "End of Tour": [
+            "ツアーの終わり"
+         ],
+         "This concludes the Jupyter Notebook User Interface Tour.": [
+            "これで Jupyter Notebook のユーザーインタフェースのツアーは終了です。"
+         ],
+         "Edit Attachments": [
+            "添付ファイルを編集"
+         ],
+         "Cell": [
+            "セル"
+         ],
+         "Edit Metadata": [
+            "メタデータを編集"
+         ],
+         "Custom": [
+            "カスタム"
+         ],
+         "Set the MIME type of the raw cell:": [
+            "Raw セルの MIME タイプを設定:"
+         ],
+         "Raw Cell MIME Type": [
+            "Raw セル MIME タイプ"
+         ],
+         "Raw NBConvert Format": [
+            "Raw NBConvert 書式"
+         ],
+         "Raw Cell Format": [
+            "Raw セル書式"
+         ],
+         "Slide": [
+            "スライド"
+         ],
+         "Sub-Slide": [
+            "サブスライド"
+         ],
+         "Fragment": [
+            "フラグメント"
+         ],
+         "Skip": [
+            "スキップ"
+         ],
+         "Notes": [
+            "ノート"
+         ],
+         "Slide Type": [
+            "スライドタイプ"
+         ],
+         "Slideshow": [
+            "スライドショー"
+         ],
+         "Add tag": [
+            "タグを追加"
+         ],
+         "Edit the list of tags below. All whitespace is treated as tag separators.": [
+            "以下のタグ一覧を編集。全ての空白はタグのセパレータとして扱われます。"
+         ],
+         "Edit the tags": [
+            "タグを編集"
+         ],
+         "Edit Tags": [
+            "タグを編集"
+         ],
+         "Shutdown": [
+            "シャットダウン"
+         ],
+         "Create a new notebook with %s": [
+            "新しいノートブック %s を作成"
+         ],
+         "An error occurred while creating a new notebook.": [
+            "新しいノートブックの作成中にエラーが発生しました。"
+         ],
+         "Creating File Failed": [
+            "ファイルの作成に失敗"
+         ],
+         "An error occurred while creating a new file.": [
+            "新しいファイルの作成中に失敗しました。"
+         ],
+         "Creating Folder Failed": [
+            "フォルダの作成に失敗"
+         ],
+         "An error occurred while creating a new folder.": [
+            "新しいフォルダの作成中にエラーが発生しました。"
+         ],
+         "Failed to read file": [
+            "ファイルの読み込みに失敗しました"
+         ],
+         "Failed to read file %s": [
+            "%s の読み込みに失敗しました"
+         ],
+         "The file size is %d MB. Do you still want to upload it?": [
+            "ファイルサイズは %d MB です。本当にアップロードしますか？"
+         ],
+         "Large file size warning": [
+            "大きいファイルサイズの警告"
+         ],
+         "Server error: ": [
+            "サーバエラー:"
+         ],
+         "The notebook list is empty.": [
+            "ノートブック一覧は空です。"
+         ],
+         "Click here to rename, delete, etc.": [
+            "リネーム、削除、その他を実行するにはここをクリック"
+         ],
+         "Running": [
+            "実行中"
+         ],
+         "Enter a new file name:": [
+            "新しいファイル名を入力:"
+         ],
+         "Enter a new directory name:": [
+            "新しいディレクトリ名を入力:"
+         ],
+         "Enter a new name:": [
+            "新しい名前を入力:"
+         ],
+         "Rename file": [
+            "ファイルのリネーム"
+         ],
+         "Rename directory": [
+            "ディレクトリのリネーム"
+         ],
+         "Rename notebook": [
+            "ノートブックのリネーム"
+         ],
+         "Move": [
+            "移動"
+         ],
+         "An error occurred while renaming \"%1$s\" to \"%2$s\".": [
+            "\"%1$s\" を \"%2$s\" にリネーム中にエラーが発生しました。"
+         ],
+         "Rename Failed": [
+            "リネームの失敗"
+         ],
+         "Enter a new destination directory path for this item:": [
+            "このアイテムの移動先を入力して下さい:",
+            "%d 個のアイテムの移動先を入力して下さい:"
+         ],
+         "Move an Item": [
+            "アイテムの移動",
+            "%d 個のアイテムの移動"
+         ],
+         "An error occurred while moving \"%1$s\" from \"%2$s\" to \"%3$s\".": [
+            "\"%1$s\" を \"%2$s\" から \"%3$s\" に移動する際に失敗しました。"
+         ],
+         "Move Failed": [
+            "ファイルの移動に失敗"
+         ],
+         "Are you sure you want to permanently delete: \"%s\"?": [
+            "本当に \"%s\" を完全に削除しますか？",
+            "本当に %d 個のファイルまたはディレクトリを完全に削除しますか？"
+         ],
+         "An error occurred while deleting \"%s\".": [
+            "\"%s\" を削除中にエラーが発生しました。"
+         ],
+         "Delete Failed": [
+            "削除に失敗"
+         ],
+         "Are you sure you want to duplicate: \"%s\"?": [
+            "本当に \"%s\" を複製しますか？",
+            "本当に %d 個のファイルを複製しますか？"
+         ],
+         "Duplicate": [
+            "複製"
+         ],
+         "An error occurred while duplicating \"%s\".": [
+            "\"%s\" の複製中に失敗"
+         ],
+         "Duplicate Failed": [
+            "複製に失敗"
+         ],
+         "Upload": [
+            "アップロード"
+         ],
+         "Invalid file name": [
+            "ファイル名が不正です"
+         ],
+         "File names must be at least one character and not start with a period": [
+            "ファイル名はピリオドで始まっていない1文字以上の名前でなければなりません"
+         ],
+         "Cannot upload invalid Notebook": [
+            "不正なノートブックのためアップロードできません"
+         ],
+         "There is already a file named \"%s\". Do you want to replace it?": [
+            "既に \"%s\" という名前のファイルが存在します。入れ替えますか？"
+         ],
+         "Replace file": [
+            "ファイルの入れ替え"
+         ]
+      }
+   }
+}

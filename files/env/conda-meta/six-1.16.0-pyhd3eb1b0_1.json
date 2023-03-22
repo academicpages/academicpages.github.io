@@ -1,0 +1,116 @@
+{
+  "build": "pyhd3eb1b0_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniconda/base/pkgs/six-1.16.0-pyhd3eb1b0_1",
+  "features": "",
+  "files": [
+    "lib/python3.10/site-packages/six-1.16.0.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/six-1.16.0.dist-info/LICENSE",
+    "lib/python3.10/site-packages/six-1.16.0.dist-info/METADATA",
+    "lib/python3.10/site-packages/six-1.16.0.dist-info/RECORD",
+    "lib/python3.10/site-packages/six-1.16.0.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/six-1.16.0.dist-info/WHEEL",
+    "lib/python3.10/site-packages/six-1.16.0.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/six-1.16.0.dist-info/top_level.txt",
+    "lib/python3.10/site-packages/six.py",
+    "lib/python3.10/site-packages/__pycache__/six.cpython-310.pyc"
+  ],
+  "fn": "six-1.16.0-pyhd3eb1b0_1.conda",
+  "legacy_bz2_md5": "0a3ab834ba49016e183e715bff48a2b6",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniconda/base/pkgs/six-1.16.0-pyhd3eb1b0_1",
+    "type": 1
+  },
+  "md5": "34586824d411d36af2fa40e799c172d0",
+  "name": "six",
+  "noarch": "python",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniconda/base/pkgs/six-1.16.0-pyhd3eb1b0_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/six-1.16.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/six-1.16.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "8bb850c565aa389fdc16f3a46965ad23d82adff60f2393fc2762b63185e8e6c9",
+        "sha256_in_prefix": "8bb850c565aa389fdc16f3a46965ad23d82adff60f2393fc2762b63185e8e6c9",
+        "size_in_bytes": 1066
+      },
+      {
+        "_path": "site-packages/six-1.16.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "d6f8435094b657a1639e3325726aacbaa9614e1681bb681302494e88204afd05",
+        "sha256_in_prefix": "d6f8435094b657a1639e3325726aacbaa9614e1681bb681302494e88204afd05",
+        "size_in_bytes": 1817
+      },
+      {
+        "_path": "site-packages/six-1.16.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "5cd6b9754c73796267ddbfff91d15815e0024f8b795b56a8bc324321979679e5",
+        "sha256_in_prefix": "5cd6b9754c73796267ddbfff91d15815e0024f8b795b56a8bc324321979679e5",
+        "size_in_bytes": 738
+      },
+      {
+        "_path": "site-packages/six-1.16.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/six-1.16.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "cfd8f4c406bf26650a3299b3ef62b464600b48cfe7fb04159866e5797c765478",
+        "sha256_in_prefix": "cfd8f4c406bf26650a3299b3ef62b464600b48cfe7fb04159866e5797c765478",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/six-1.16.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "59dd28e90a905b9c012d0864908eaebbd48ffc38e2b1073cc7255838122b84a7",
+        "sha256_in_prefix": "59dd28e90a905b9c012d0864908eaebbd48ffc38e2b1073cc7255838122b84a7",
+        "size_in_bytes": 76
+      },
+      {
+        "_path": "site-packages/six-1.16.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "fe2547fe2604b445e70fc9d819062960552f9145bdb043b51986e478a4806a2b",
+        "sha256_in_prefix": "fe2547fe2604b445e70fc9d819062960552f9145bdb043b51986e478a4806a2b",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "site-packages/six.py",
+        "path_type": "hardlink",
+        "sha256": "4ce39f422ee71467ccac8bed76beb05f8c321c7f0ceda9279ae2dfa3670106b3",
+        "sha256_in_prefix": "4ce39f422ee71467ccac8bed76beb05f8c321c7f0ceda9279ae2dfa3670106b3",
+        "size_in_bytes": 34549
+      },
+      {
+        "_path": "lib/python3.10/site-packages/__pycache__/six.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "71c97b4ddc3d19ed41bfa1a2d40f620f96b4d46f097dc48ab115b36640f7df0a",
+  "size": 18894,
+  "subdir": "noarch",
+  "timestamp": 1644875974931,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/six-1.16.0-pyhd3eb1b0_1.conda",
+  "version": "1.16.0"
+}

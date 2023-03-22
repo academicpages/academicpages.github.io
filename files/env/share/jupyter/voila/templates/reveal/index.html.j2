@@ -1,0 +1,55 @@
+{%- extends 'nbconvert/templates/reveal/index.html.j2' -%}
+{% import "log.macro.html.j2" as log %}
+{% from 'voila_setup.macro.html.j2' import voila_setup with context %}
+
+{%- block html_head_js -%}
+  {%- block html_head_js_requirejs -%}
+  <script
+    src="{{resources.base_url}}voila/static/require.min.js"
+    integrity="sha256-Ae2Vz/4ePdIu6ZyI/5ZGsYnb+m0JlOmKPjt6XZ9JJkA="
+    crossorigin="anonymous">
+  </script>
+  {%- endblock html_head_js_requirejs -%}
+  {%- block html_head_js_logs -%}
+    {{ log.js() }}
+  {%- endblock html_head_js_logs -%}
+  {%- block html_head_js_jquery -%}
+    <script src="{{ resources.jquery_url }}"></script>
+  {%- endblock html_head_js_jquery -%}
+
+  {% block notebook_execute %}
+    {%- set kernel_id = kernel_start(nb) -%}
+    <script id="jupyter-config-data" type="application/json">
+    {
+        "baseUrl": "{{resources.base_url}}",
+        "kernelId": "{{kernel_id}}"
+    }
+    </script>
+    {# from this point on, nb.cells contains output of the executed cells #}
+    {% do notebook_execute(nb, kernel_id) %}
+  {%- endblock notebook_execute -%}
+
+{%- endblock html_head_js -%}
+
+{%- block html_head_css -%}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@^5/css/all.min.css" type="text/css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@^5/css/v4-shims.min.css" type="text/css" />
+  {{ resources.include_css("static/materialcolors.css") }}
+  {{ resources.include_css("static/labvariables.css") }}
+  {{ super() }}
+{%- endblock html_head_css -%}
+
+{% block body_header %}
+{% if resources.theme == 'dark' %}
+<body class="jp-Notebook" data-base-url="{{resources.base_url}}voila/" data-jp-theme-light="false" data-jp-theme-name="JupyterLab Dark">
+{% else %}
+<body class="jp-Notebook" data-base-url="{{resources.base_url}}voila/" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
+{% endif %}
+<div class="reveal">
+<div class="slides">
+{% endblock body_header %}
+
+{% block footer_js %}
+  {{ voila_setup(resources.base_url, resources.nbextensions) }}
+  {{ super() }}
+{% endblock footer_js %}

@@ -1,0 +1,12 @@
+[build-system]
+requires = ["flit"]
+
+[tool.flit.metadata]
+module = "module1"
+author = "Sir Robin"
+author-email = "robin@camelot.uk"
+home-page = "http://github.com/sirrobin/module1"
+requires = [
+    "requests",
+    "pathlib2; python_version == '2.7'",
+]

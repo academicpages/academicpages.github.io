@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" /><style type="text/css">
+TD {font-family: Verdana,Arial,Helvetica}
+BODY {font-family: Verdana,Arial,Helvetica; margin-top: 2em; margin-left: 0em; margin-right: 0em}
+H1 {font-family: Verdana,Arial,Helvetica}
+H2 {font-family: Verdana,Arial,Helvetica}
+H3 {font-family: Verdana,Arial,Helvetica}
+A:link, A:visited, A:active { text-decoration: underline }
+    </style><title>Writing extensions</title></head><body bgcolor="#8b7765" text="#000000" link="#a06060" vlink="#000000"><table border="0" width="100%" cellpadding="5" cellspacing="0" align="center"><tr><td width="120"><a href="http://swpat.ffii.org/"><img src="epatents.png" alt="Action against software patents" /></a></td><td width="180"><a href="http://www.gnome.org/"><img src="gnome2.png" alt="GNOME2 Logo" /></a><a href="http://www.w3.org/Status"><img src="w3c.png" alt="W3C logo" /></a><a href="http://www.redhat.com"><img src="redhat.gif" alt="Red Hat Logo" /></a><div align="left"><a href="http://xmlsoft.org/XSLT/"><img src="Libxslt-Logo-180x168.gif" alt="Made with Libxslt Logo" /></a></div></td><td><table border="0" width="90%" cellpadding="2" cellspacing="0" align="center" bgcolor="#000000"><tr><td><table width="100%" border="0" cellspacing="1" cellpadding="3" bgcolor="#fffacd"><tr><td align="center"><h1>The XSLT C library for GNOME</h1><h2>Writing extensions</h2></td></tr></table></td></tr></table></td></tr></table><table border="0" cellpadding="4" cellspacing="0" width="100%" align="center"><tr><td bgcolor="#8b7765"><table border="0" cellspacing="0" cellpadding="2" width="100%"><tr><td valign="top" width="200" bgcolor="#8b7765"><table border="0" cellspacing="0" cellpadding="1" width="100%" bgcolor="#000000"><tr><td><table width="100%" border="0" cellspacing="1" cellpadding="3"><tr><td colspan="1" bgcolor="#eecfa1" align="center"><center><b>Main Menu</b></center></td></tr><tr><td bgcolor="#fffacd"><form action="search.php" enctype="application/x-www-form-urlencoded" method="get"><input name="query" type="text" size="20" value="" /><input name="submit" type="submit" value="Search ..." /></form><ul><li><a href="index.html">Home</a></li><li><a href="intro.html">Introduction</a></li><li><a href="docs.html">Documentation</a></li><li><a href="bugs.html">Reporting bugs and getting help</a></li><li><a href="help.html">How to help</a></li><li><a href="downloads.html">Downloads</a></li><li><a href="FAQ.html">FAQ</a></li><li><a href="news.html">News</a></li><li><a href="xsltproc2.html">The xsltproc tool</a></li><li><a href="docbook.html">DocBook</a></li><li><a href="API.html">The programming API</a></li><li><a href="python.html">Python and bindings</a></li><li><a href="internals.html">Library internals</a></li><li><a href="extensions.html">Writing extensions</a></li><li><a href="contribs.html">Contributions</a></li><li><a href="EXSLT/index.html" style="font-weight:bold">libexslt</a></li><li><a href="xslt.html">flat page</a>, <a href="site.xsl">stylesheet</a></li><li><a href="html/index.html" style="font-weight:bold">API Menu</a></li><li><a href="ChangeLog.html">ChangeLog</a></li></ul></td></tr></table><table width="100%" border="0" cellspacing="1" cellpadding="3"><tr><td colspan="1" bgcolor="#eecfa1" align="center"><center><b>Related links</b></center></td></tr><tr><td bgcolor="#fffacd"><ul><li><a href="tutorial/libxslttutorial.html">Tutorial</a>,
+          <a href="tutorial2/libxslt_pipes.html">Tutorial2</a></li><li><a href="xsltproc.html">Man page for xsltproc</a></li><li><a href="http://mail.gnome.org/archives/xslt/">Mail archive</a></li><li><a href="http://xmlsoft.org/">XML libxml2</a></li><li><a href="ftp://xmlsoft.org/">FTP</a></li><li><a href="http://www.zlatkovic.com/projects/libxml/">Windows binaries</a></li><li><a href="http://garypennington.net/libxml2/">Solaris binaries</a></li><li><a href="http://www.explain.com.au/oss/libxml2xslt.html">MacOsX binaries</a></li><li><a href="https://gitlab.gnome.org/GNOME/libxslt/issues">Bug Tracker</a></li><li><a href="http://codespeak.net/lxml/">lxml Python bindings</a></li><li><a href="http://cpan.uwinnipeg.ca/dist/XML-LibXSLT">Perl XSLT bindings</a></li><li><a href="http://www.zend.com/php5/articles/php5-xmlphp.php#Heading17">XSLT with PHP</a></li><li><a href="http://www.mod-xslt2.com/">Apache module</a></li><li><a href="http://sourceforge.net/projects/libxml2-pas/">Pascal bindings</a></li><li><a href="http://xsldbg.sourceforge.net/">Xsldbg Debugger</a></li></ul></td></tr></table><table width="100%" border="0" cellspacing="1" cellpadding="3"><tr><td colspan="1" bgcolor="#eecfa1" align="center"><center><b>API Indexes</b></center></td></tr><tr><td bgcolor="#fffacd"><ul><li><a href="APIchunk0.html">Alphabetic</a></li><li><a href="APIconstructors.html">Constructors</a></li><li><a href="APIfunctions.html">Functions/Types</a></li><li><a href="APIfiles.html">Modules</a></li><li><a href="APIsymbols.html">Symbols</a></li></ul></td></tr></table></td></tr></table></td><td valign="top" bgcolor="#8b7765"><table border="0" cellspacing="0" cellpadding="1" width="100%"><tr><td><table border="0" cellspacing="0" cellpadding="1" width="100%" bgcolor="#000000"><tr><td><table border="0" cellpadding="3" cellspacing="1" width="100%"><tr><td bgcolor="#fffacd"><h3>Table  of content</h3><ul>
+  <li><a href="extensions.html#Introducti">Introduction</a></li>
+  <li><a href="extensions.html#Basics">Basics</a></li>
+  <li><a href="extensions.html#Keep">Extension modules</a></li>
+  <li><a href="extensions.html#Registerin">Registering a module</a></li>
+  <li><a href="extensions.html#module">Loading a module</a></li>
+  <li><a href="extensions.html#Registerin1">Registering an extension
+    function</a></li>
+  <li><a href="extensions.html#Implementi">Implementing an extension
+    function</a></li>
+  <li><a href="extensions.html#Examples">Examples for extension
+  functions</a></li>
+  <li><a href="extensions.html#Registerin2">Registering an extension
+    element</a></li>
+  <li><a href="extensions.html#Implementi1">Implementing an extension
+    element</a></li>
+  <li><a href="extensions.html#Example">Example for extension
+  elements</a></li>
+  <li><a href="extensions.html#shutdown">The shutdown of a module</a></li>
+  <li><a href="extensions.html#Future">Future work</a></li>
+</ul><h3><a name="Introducti1" id="Introducti1">Introduction</a></h3><p>This document describes the work needed to write extensions to the
+standard XSLT library for use with <a href="http://xmlsoft.org/XSLT/">libxslt</a>, the <a href="http://www.w3.org/TR/xslt">XSLT</a> C library developed for the <a href="http://www.gnome.org/">GNOME</a> project.</p><p>Before starting reading this document it is highly recommended to get
+familiar with <a href="internals.html">the libxslt internals</a>.</p><p>Note: this documentation is by definition incomplete and I am not good at
+spelling, grammar, so patches and suggestions are <a href="mailto:veillard@redhat.com">really welcome</a>.</p><h3><a name="Basics" id="Basics">Basics</a></h3><p>The <a href="http://www.w3.org/TR/xslt">XSLT specification</a> provides
+two <a href="http://www.w3.org/TR/xslt">ways to extend an XSLT engine</a>:</p><ul>
+  <li>providing <a href="http://www.w3.org/TR/xslt">new extension
+    functions</a> which can be called from XPath expressions</li>
+  <li>providing <a href="http://www.w3.org/TR/xslt">new extension
+    elements</a> which can be inserted in stylesheets</li>
+</ul><p>In both cases the extensions need to be associated to a new namespace,
+i.e. an URI used as the name for the extension's namespace (there is no need
+to have a resource there for this to work).</p><p>libxslt provides a few extensions itself, either in the libxslt namespace
+"http://xmlsoft.org/XSLT/namespace" or in namespaces for other well known
+extensions provided by other XSLT processors like Saxon, Xalan or XT.</p><h3><a name="Keep" id="Keep">Extension modules</a></h3><p>Since extensions are bound to a namespace name, usually sets of extensions
+coming from a given source are using the same namespace name defining in
+practice a group of extensions providing elements, functions or both. From
+the libxslt point of view those are considered as an "extension module", and
+most of the APIs work at a module point of view.</p><p>Registration of new functions or elements are bound to the activation of
+the module. This is currently done by declaring the namespace as an extension
+by using the attribute  <code>extension-element-prefixes</code> on the
+<code><a href="http://www.w3.org/TR/xslt">xsl:stylesheet</a></code>
+element.</p><p>An extension module is defined by 3 objects:</p><ul>
+  <li>the namespace name associated</li>
+  <li>an initialization function</li>
+  <li>a shutdown function</li>
+</ul><h3><a name="Registerin" id="Registerin">Registering a module</a></h3><p>Currently a libxslt module has to be compiled within the application using
+libxslt. There is no code to load dynamically shared libraries associated to
+a namespace (this may be added but is likely to become a portability
+nightmare).</p><p>The current way to register a module is to link the code implementing it
+with the application and to call a registration function:</p><pre>int xsltRegisterExtModule(const xmlChar *URI,
+                          xsltExtInitFunction initFunc,
+                          xsltExtShutdownFunction shutdownFunc);</pre><p>The associated header is read by:</p><pre>#include&lt;libxslt/extensions.h&gt;</pre><p>which also defines the type for the initialization and shutdown
+functions</p><h3><a name="module" id="module">Loading a module</a></h3><p>Once the module URI has been registered and if the XSLT processor detects
+that a given stylesheet needs the functionalities of an extended module, this
+one is initialized.</p><p>The xsltExtInitFunction type defines the interface for an initialization
+function:</p><pre>/**
+ * xsltExtInitFunction:
+ * @ctxt:  an XSLT transformation context
+ * @URI:  the namespace URI for the extension
+ *
+ * A function called at initialization time of an XSLT
+ * extension module
+ *
+ * Returns a pointer to the module specific data for this
+ * transformation
+ */
+typedef void *(*xsltExtInitFunction)(xsltTransformContextPtr ctxt,
+                                     const xmlChar *URI);</pre><p>There are 3 things to notice:</p><ul>
+  <li>The function gets passed the namespace name URI as an argument. This
+    allows a single function to provide the initialization for multiple
+    logical modules.</li>
+  <li>It also gets passed a transformation context. The initialization is
+    done at run time before any processing occurs on the stylesheet but it
+    will be invoked separately each time for each transformation.</li>
+  <li>It returns a pointer.  This can be used to store module specific
+    information which can be retrieved later when a function or an element
+    from the extension is used.  An obvious example is a connection to a
+    database which should be kept and reused along with the transformation.
+    NULL is a perfectly valid return; there is no way to indicate a failure
+    at this level</li>
+</ul><p>What this function is expected to do is:</p><ul>
+  <li>prepare the context for this module (like opening the database
+    connection)</li>
+  <li>register the extensions specific to this module</li>
+</ul><h3><a name="Registerin1" id="Registerin1">Registering an extension function</a></h3><p>There is a single call to do this registration:</p><pre>int xsltRegisterExtFunction(xsltTransformContextPtr ctxt,
+                            const xmlChar *name,
+                            const xmlChar *URI,
+                            xmlXPathEvalFunc function);</pre><p>The registration is bound to a single transformation instance referred by
+ctxt, name is the UTF8 encoded name for the NCName of the function, and URI
+is the namespace name for the extension (no checking is done, a module could
+register functions or elements from a different namespace, but it is not
+recommended).</p><h3><a name="Implementi" id="Implementi">Implementing an extension function</a></h3><p>The implementation of the function must have the signature of a libxml
+XPath function:</p><pre>/**
+ * xmlXPathEvalFunc:
+ * @ctxt: an XPath parser context
+ * @nargs: the number of arguments passed to the function
+ *
+ * an XPath evaluation function, the parameters are on the
+ * XPath context stack
+ */
+
+typedef void (*xmlXPathEvalFunc)(xmlXPathParserContextPtr ctxt,
+                                 int nargs);</pre><p>The context passed to an XPath function is not an XSLT context but an <a href="internals.html#XPath1">XPath context</a>. However it is possible to
+find one from the other:</p><ul>
+  <li>The function xsltXPathGetTransformContext provides this lookup facility:
+    <pre>xsltTransformContextPtr
+         xsltXPathGetTransformContext
+                          (xmlXPathParserContextPtr ctxt);</pre>
+  </li>
+  <li>The <code>xmlXPathContextPtr</code> associated to an
+    <code>xsltTransformContext</code> is stored in the <code>xpathCtxt</code>
+    field.</li>
+</ul><p>The first thing an extension function may want to do is to check the
+arguments passed on the stack, the <code>nargs</code> parameter will tell how
+many of them were provided on the XPath expression. The macro valuePop will
+extract them from the XPath stack:</p><pre>#include &lt;libxml/xpath.h&gt;
+#include &lt;libxml/xpathInternals.h&gt;
+
+xmlXPathObjectPtr obj = valuePop(ctxt); </pre><p>Note that <code>ctxt</code> is the XPath context not the XSLT one. It is
+then possible to examine the content of the value. Check <a href="internals.html#Descriptio">the description of XPath objects</a> if
+necessary. The following is a common sequence checking whether the argument
+passed is a string and converting it using the built-in XPath
+<code>string()</code> function if this is not the case:</p><pre>if (obj-&gt;type != XPATH_STRING) {
+    valuePush(ctxt, obj);
+    xmlXPathStringFunction(ctxt, 1);
+    obj = valuePop(ctxt);
+}</pre><p>Most common XPath functions are available directly at the C level and are
+exported either in <code>&lt;libxml/xpath.h&gt;</code> or in
+<code>&lt;libxml/xpathInternals.h&gt;</code>.</p><p>The extension function may also need to retrieve the data associated to
+this module instance (the database connection in the previous example) this
+can be done using the xsltGetExtData:</p><pre>void * xsltGetExtData(xsltTransformContextPtr ctxt,
+                      const xmlChar *URI);</pre><p>Again the URI to be provided is the one which was used when registering
+the module.</p><p>Once the function finishes, don't forget to:</p><ul>
+  <li>push the return value on the stack using <code>valuePush(ctxt,
+    obj)</code></li>
+  <li>deallocate the parameters passed to the function using
+    <code>xmlXPathFreeObject(obj)</code></li>
+</ul><h3><a name="Examples" id="Examples">Examples for extension functions</a></h3><p>The module libxslt/functions.c contains the sources of the XSLT built-in
+functions, including document(), key(), generate-id(), etc. as well as a full
+example module at the end. Here is the test function implementation for the
+libxslt:test function:</p><pre>/**
+ * xsltExtFunctionTest:
+ * @ctxt:  the XPath Parser context
+ * @nargs:  the number of arguments
+ *
+ * function libxslt:test() for testing the extensions support.
+ */
+static void
+xsltExtFunctionTest(xmlXPathParserContextPtr ctxt, int nargs)
+{
+    xsltTransformContextPtr tctxt;
+    void *data;
+
+    tctxt = xsltXPathGetTransformContext(ctxt);
+    if (tctxt == NULL) {
+        xsltGenericError(xsltGenericErrorContext,
+            "xsltExtFunctionTest: failed to get the transformation context\n");
+        return;
+    }
+    data = xsltGetExtData(tctxt, (const xmlChar *) XSLT_DEFAULT_URL);
+    if (data == NULL) {
+        xsltGenericError(xsltGenericErrorContext,
+            "xsltExtFunctionTest: failed to get module data\n");
+        return;
+    }
+#ifdef WITH_XSLT_DEBUG_FUNCTION
+    xsltGenericDebug(xsltGenericDebugContext,
+                     "libxslt:test() called with %d args\n", nargs);
+#endif
+}</pre><h3><a name="Registerin2" id="Registerin2">Registering an extension element</a></h3><p>There is a single call to do this registration:</p><pre>int xsltRegisterExtElement(xsltTransformContextPtr ctxt,
+                           const xmlChar *name,
+                           const xmlChar *URI,
+                           xsltTransformFunction function);</pre><p>It is similar to the mechanism used to register an extension function,
+except that the signature of an extension element implementation is
+different.</p><p>The registration is bound to a single transformation instance referred to
+by ctxt, name is the UTF8 encoded name for the NCName of the element, and URI
+is the namespace name for the extension (no checking is done, a module could
+register elements for a different namespace, but it is not recommended).</p><h3><a name="Implementi1" id="Implementi1">Implementing an extension element</a></h3><p>The implementation of the element must have the signature of an XSLT
+transformation function:</p><pre>/** 
+ * xsltTransformFunction: 
+ * @ctxt: the XSLT transformation context
+ * @node: the input node
+ * @inst: the stylesheet node 
+ * @comp: the compiled information from the stylesheet 
+ * 
+ * signature of the function associated to elements part of the
+ * stylesheet language like xsl:if or xsl:apply-templates.
+ */ 
+typedef void (*xsltTransformFunction)
+                          (xsltTransformContextPtr ctxt,
+                           xmlNodePtr node,
+                           xmlNodePtr inst,
+                           xsltStylePreCompPtr comp);</pre><p>The first argument is the XSLT transformation context. The second and
+third arguments are xmlNodePtr i.e. internal memory <a href="internals.html#libxml">representation of  XML nodes</a>. They are
+respectively <code>node</code> from the the input document being transformed
+by the stylesheet and <code>inst</code> the extension element in the
+stylesheet. The last argument is <code>comp</code> a pointer to a precompiled
+representation of <code>inst</code> but usually for an extension function
+this value is <code>NULL</code> by default (it could be added and associated
+to the instruction in <code>inst-&gt;_private</code>).</p><p>The same functions are available from a function implementing an extension
+element as in an extension function, including
+<code>xsltGetExtData()</code>.</p><p>The goal of an extension element being usually to enrich the generated
+output, it is expected that they will grow the currently generated output
+tree. This can be done by grabbing ctxt-&gt;insert which is the current
+libxml node being generated (Note this can also be the intermediate value
+tree being built for example to initialize a variable, the processing should
+be similar). The functions for libxml tree manipulation from <a href="http://xmlsoft.org/html/libxml-tree.html">&lt;libxml/tree.h&gt;</a> can
+be employed to extend or modify the tree, but it is required to preserve the
+insertion node and its ancestors since there are existing pointers to those
+elements still in use in the XSLT template execution stack.</p><h3><a name="Example" id="Example">Example for extension elements</a></h3><p>The module libxslt/transform.c contains the sources of the XSLT built-in
+elements, including xsl:element, xsl:attribute, xsl:if, etc. There is a small
+but full example in functions.c providing the implementation for the
+libxslt:test element, it will output a comment in the result tree:</p><pre>/**
+ * xsltExtElementTest:
+ * @ctxt:  an XSLT processing context
+ * @node:  The current node
+ * @inst:  the instruction in the stylesheet
+ * @comp:  precomputed information
+ *
+ * Process a libxslt:test node
+ */
+static void
+xsltExtElementTest(xsltTransformContextPtr ctxt, xmlNodePtr node,
+                   xmlNodePtr inst,
+                   xsltStylePreCompPtr comp)
+{
+    xmlNodePtr comment;
+
+    if (ctxt == NULL) {
+        xsltGenericError(xsltGenericErrorContext,
+                         "xsltExtElementTest: no transformation context\n");
+        return;
+    }
+    if (node == NULL) {
+        xsltGenericError(xsltGenericErrorContext,
+                         "xsltExtElementTest: no current node\n");
+        return;
+    }
+    if (inst == NULL) {
+        xsltGenericError(xsltGenericErrorContext,
+                         "xsltExtElementTest: no instruction\n");
+        return;
+    }
+    if (ctxt-&gt;insert == NULL) {
+        xsltGenericError(xsltGenericErrorContext,
+                         "xsltExtElementTest: no insertion point\n");
+        return;
+    }
+    comment =
+        xmlNewComment((const xmlChar *)
+                      "libxslt:test element test worked");
+    xmlAddChild(ctxt-&gt;insert, comment);
+}</pre><h3><a name="shutdown" id="shutdown">The shutdown of a module</a></h3><p>When the XSLT processor ends a transformation, the shutdown function (if
+it exists) for each of the modules initialized is called.  The
+xsltExtShutdownFunction type defines the interface for a shutdown
+function:</p><pre>/**
+ * xsltExtShutdownFunction:
+ * @ctxt:  an XSLT transformation context
+ * @URI:  the namespace URI for the extension
+ * @data:  the data associated to this module
+ *
+ * A function called at shutdown time of an XSLT extension module
+ */
+typedef void (*xsltExtShutdownFunction) (xsltTransformContextPtr ctxt,
+                                         const xmlChar *URI,
+                                         void *data);</pre><p>This is really similar to a module initialization function except a third
+argument is passed, it's the value that was returned by the initialization
+function. This allows the routine to deallocate resources from the module for
+example close the connection to the database to keep the same example.</p><h3><a name="Future" id="Future">Future work</a></h3><p>Well, some of the pieces missing:</p><ul>
+  <li>a way to load shared libraries to instantiate new modules</li>
+  <li>a better detection of extension functions usage and their registration
+    without having to use the extension prefix which ought to be reserved to
+    element extensions.</li>
+  <li>more examples</li>
+  <li>implementations of the <a href="http://www.exslt.org/">EXSLT</a> common
+    extension libraries, Thomas Broyer nearly finished implementing them.</li>
+</ul><p></p><p><a href="bugs.html">Daniel Veillard</a></p></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></body></html>

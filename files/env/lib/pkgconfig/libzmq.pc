@@ -1,0 +1,12 @@
+prefix=/Users/drew/siwelwerd.github.io/files/env
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.4
+Libs: -L${libdir} -lzmq
+Libs.private: -lstdc++  -lpthread
+Requires.private:  libsodium
+Cflags: -I${includedir} 

@@ -1,0 +1,29 @@
+{% extends "page.html" %}
+
+{% block title %} Opening Voilà {% endblock %}
+
+{% block stylesheets %}
+  {{ super() }}
+
+  <style>
+    body {
+      background-color: var(--jp-layout-color0);
+      color: var(--jp-ui-font-color0);
+    }
+
+    .voila-link {
+      color: var(--jp-content-link-color);
+    }
+  </style>
+{% endblock %}
+
+{% block meta %}
+  <meta http-equiv="refresh" content="1;url={{ open_url }}" />
+{% endblock %}
+
+{% block body %}
+  <p>
+    This page should redirect you to Voilà. If it doesn't,
+    <a class="voila-link" href="{{ open_url }}">click here to go to Voilà</a>.
+  </p>
+{% endblock %}

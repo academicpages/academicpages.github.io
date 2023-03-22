@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>imports: interface for the XSLT import support</title>
+    <meta name="generator" content="Libxml2 devhelp stylesheet"/>
+    <link rel="start" href="index.html" title="libxslt Reference Manual"/>
+    <link rel="up" href="general.html" title="API"/>
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <link rel="chapter" href="general.html" title="API"/>
+  </head>
+  <body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
+    <table class="navigation" width="100%" summary="Navigation header" cellpadding="2" cellspacing="2">
+      <tr valign="middle">
+        <td>
+          <a accesskey="p" href="libxslt-functions.html">
+            <img src="left.png" width="24" height="24" border="0" alt="Prev"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="u" href="general.html">
+            <img src="up.png" width="24" height="24" border="0" alt="Up"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="h" href="index.html">
+            <img src="home.png" width="24" height="24" border="0" alt="Home"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="n" href="libxslt-keys.html">
+            <img src="right.png" width="24" height="24" border="0" alt="Next"/>
+          </a>
+        </td>
+        <th width="100%" align="center">libxslt Reference Manual</th>
+      </tr>
+    </table>
+    <h2>
+      <span class="refentrytitle">imports</span>
+    </h2>
+    <p>imports - interface for the XSLT import support</p>
+    <p>macros and fuctions needed to implement and access the import tree </p>
+    <p>Author(s): Daniel Veillard </p>
+    <div class="refsynopsisdiv">
+      <h2>Synopsis</h2>
+      <pre class="synopsis">#define <a href="#XSLT_GET_IMPORT_PTR">XSLT_GET_IMPORT_PTR</a>;
+#define <a href="#XSLT_GET_IMPORT_INT">XSLT_GET_IMPORT_INT</a>;
+<a href="libxslt-xsltInternals.html#xsltTemplatePtr">xsltTemplatePtr</a>	<a href="#xsltFindTemplate">xsltFindTemplate</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const xmlChar * name, <br/>					 const xmlChar * nameURI);
+<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a>	<a href="#xsltNextImport">xsltNextImport</a>	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> cur);
+int	<a href="#xsltParseStylesheetInclude">xsltParseStylesheetInclude</a>	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 xmlNodePtr cur);
+int	<a href="#xsltNeedElemSpaceHandling">xsltNeedElemSpaceHandling</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt);
+int	<a href="#xsltFindElemSpaceHandling">xsltFindElemSpaceHandling</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr node);
+int	<a href="#xsltParseStylesheetImport">xsltParseStylesheetImport</a>	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 xmlNodePtr cur);
+</pre>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Description</h2>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Details</h2>
+      <div class="refsect2" lang="en">
+        <div class="refsect2" lang="en"><h3><a name="XSLT_GET_IMPORT_INT">Macro </a>XSLT_GET_IMPORT_INT</h3><pre class="programlisting">#define <a href="#XSLT_GET_IMPORT_INT">XSLT_GET_IMPORT_INT</a>;
+</pre><p>A macro to import intergers from the stylesheet cascading order.</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="XSLT_GET_IMPORT_PTR">Macro </a>XSLT_GET_IMPORT_PTR</h3><pre class="programlisting">#define <a href="#XSLT_GET_IMPORT_PTR">XSLT_GET_IMPORT_PTR</a>;
+</pre><p>A macro to import pointers from the stylesheet cascading order.</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltFindElemSpaceHandling"/>xsltFindElemSpaceHandling ()</h3><pre class="programlisting">int	xsltFindElemSpaceHandling	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr node)<br/>
+</pre><p>Find strip-space or preserve-space information for an element respect the import precedence or the wildcards</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>node</tt></i>:</span></td><td>an XML node</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>1 if space should be stripped, 0 if not, and 2 if everything should be CDTATA wrapped.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltFindTemplate"/>xsltFindTemplate ()</h3><pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltTemplatePtr">xsltTemplatePtr</a>	xsltFindTemplate	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const xmlChar * name, <br/>					 const xmlChar * nameURI)<br/>
+</pre><p>Finds the named template, apply import precedence rule. REVISIT TODO: We'll change the nameURI fields of templates to be in the string dict, so if the specified @nameURI is in the same dict, then use pointer comparison. Check if this can be done in a sane way. Maybe this function is not needed internally at transformation-time if we hard-wire the called templates to the caller.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the template name</td></tr><tr><td><span class="term"><i><tt>nameURI</tt></i>:</span></td><td>the template name URI</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the <a href="libxslt-xsltInternals.html#xsltTemplatePtr">xsltTemplatePtr</a> or NULL if not found</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltNeedElemSpaceHandling"/>xsltNeedElemSpaceHandling ()</h3><pre class="programlisting">int	xsltNeedElemSpaceHandling	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt)<br/>
+</pre><p>Checks whether that stylesheet requires white-space stripping</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>1 if space should be stripped, 0 if not</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltNextImport"/>xsltNextImport ()</h3><pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a>	xsltNextImport	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> cur)<br/>
+</pre><p>Find the next stylesheet in import precedence.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>cur</tt></i>:</span></td><td>the current XSLT stylesheet</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the next stylesheet or NULL if it was the last one</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltParseStylesheetImport"/>xsltParseStylesheetImport ()</h3><pre class="programlisting">int	xsltParseStylesheetImport	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 xmlNodePtr cur)<br/>
+</pre><p>parse an XSLT stylesheet import element</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>the XSLT stylesheet</td></tr><tr><td><span class="term"><i><tt>cur</tt></i>:</span></td><td>the import element</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 in case of success -1 in case of failure.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltParseStylesheetInclude"/>xsltParseStylesheetInclude ()</h3><pre class="programlisting">int	xsltParseStylesheetInclude	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 xmlNodePtr cur)<br/>
+</pre><p>parse an XSLT stylesheet include element</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>the XSLT stylesheet</td></tr><tr><td><span class="term"><i><tt>cur</tt></i>:</span></td><td>the include node</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 in case of success -1 in case of failure</td></tr></tbody></table></div></div>
+        <hr/>
+      </div>
+    </div>
+  </body>
+</html>

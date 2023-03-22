@@ -1,0 +1,105 @@
+Metadata-Version: 2.1
+Name: jupyter-server
+Version: 1.23.4
+Summary: The backend—i.e. core services, APIs, and REST endpoints—to Jupyter web applications.
+Home-page: https://jupyter-server.readthedocs.io
+Author: Jupyter Development Team
+Author-email: jupyter@googlegroups.com
+Project-URL: Documentation, https://jupyter-server.readthedocs.io
+Project-URL: Funding, https://numfocus.org/donate
+Project-URL: Source, https://github.com/jupyter-server/jupyter_server
+Project-URL: Tracker, https://github.com/jupyter-server/jupyter_server/issues
+Keywords: ipython,jupyter
+Platform: Linux
+Platform: Mac OS X
+Platform: Windows
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Framework :: Jupyter
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: COPYING.md
+Requires-Dist: anyio (<4,>=3.1.0)
+Requires-Dist: argon2-cffi
+Requires-Dist: jinja2
+Requires-Dist: jupyter-client (>=6.1.12)
+Requires-Dist: jupyter-core (>=4.7.0)
+Requires-Dist: nbconvert (>=6.4.4)
+Requires-Dist: nbformat (>=5.2.0)
+Requires-Dist: packaging
+Requires-Dist: prometheus-client
+Requires-Dist: pyzmq (>=17)
+Requires-Dist: Send2Trash
+Requires-Dist: terminado (>=0.8.3)
+Requires-Dist: tornado (>=6.1.0)
+Requires-Dist: traitlets (>=5.1)
+Requires-Dist: websocket-client
+Requires-Dist: pywinpty ; os_name == "nt"
+Provides-Extra: test
+Requires-Dist: coverage ; extra == 'test'
+Requires-Dist: ipykernel ; extra == 'test'
+Requires-Dist: pre-commit ; extra == 'test'
+Requires-Dist: pytest-console-scripts ; extra == 'test'
+Requires-Dist: pytest-cov ; extra == 'test'
+Requires-Dist: pytest-mock ; extra == 'test'
+Requires-Dist: pytest-timeout ; extra == 'test'
+Requires-Dist: pytest-tornasync ; extra == 'test'
+Requires-Dist: pytest (>=7.0) ; extra == 'test'
+Requires-Dist: requests ; extra == 'test'
+
+# Jupyter Server
+
+The Jupyter Server provides the backend (i.e. the core services, APIs, and REST endpoints) for Jupyter web applications like Jupyter notebook, JupyterLab, and Voila.
+
+For more information, read our [documentation here](http://jupyter-server.readthedocs.io/en/stable/?badge=latest).
+
+## Installation and Basic usage
+
+To install the latest release locally, make sure you have
+[pip installed](https://pip.readthedocs.io/en/stable/installing/) and run:
+
+    pip install jupyter_server
+
+Jupyter Server currently supports Python>=3.6 on Linux, OSX and Windows.
+
+### Versioning and Branches
+
+If Jupyter Server is a dependency of your project/application, it is important that you pin it to a version that works for your application. Currently, Jupyter Server only has minor and patch versions. Different minor versions likely include API-changes while patch versions do not change API.
+
+When a new minor version is released on PyPI, a branch for that version will be created in this repository, and the version of the main branch will be bumped to the next minor version number. That way, the main branch always reflects the latest un-released version.
+
+To see the changes between releases, checkout the [CHANGELOG](https://github.com/jupyter/jupyter_server/blob/1.x/CHANGELOG.md).
+
+## Usage - Running Jupyter Server
+
+### Running in a local installation
+
+Launch with:
+
+    jupyter server
+
+### Testing
+
+See [CONTRIBUTING](https://github.com/jupyter-server/jupyter_server/blob/1.x/CONTRIBUTING.rst#running-tests).
+
+## Contributing
+
+If you are interested in contributing to the project, see [`CONTRIBUTING.rst`](CONTRIBUTING.rst).
+
+## Team Meetings and Roadmap
+
+- When: Thursdays [8:00am, Pacific time](https://www.thetimezoneconverter.com/?t=8%3A00%20am&tz=San%20Francisco&)
+- Where: [Jovyan Zoom](https://zoom.us/my/jovyan?pwd=c0JZTHlNdS9Sek9vdzR3aTJ4SzFTQT09)
+- What: [Meeting notes](https://github.com/jupyter-server/team-compass/issues/4)
+
+See our tentative [roadmap here](https://github.com/jupyter/jupyter_server/issues/127).

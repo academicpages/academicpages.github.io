@@ -1,0 +1,12 @@
+[build-system]
+requires = ["flit"]
+
+[tool.flit.metadata]
+module = "no_docstring"
+author = "Sir Robin"
+author-email = "robin@camelot.uk"
+home-page = "http://github.com/sirrobin/no_docstring"
+description-file = "EG_README.rst"
+
+[tool.flit.metadata.urls]
+Documentation = "https://example.com/no_docstring"

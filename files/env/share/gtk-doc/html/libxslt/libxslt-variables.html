@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>variables: interface for the variable matching and lookup.</title>
+    <meta name="generator" content="Libxml2 devhelp stylesheet"/>
+    <link rel="start" href="index.html" title="libxslt Reference Manual"/>
+    <link rel="up" href="general.html" title="API"/>
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <link rel="chapter" href="general.html" title="API"/>
+  </head>
+  <body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
+    <table class="navigation" width="100%" summary="Navigation header" cellpadding="2" cellspacing="2">
+      <tr valign="middle">
+        <td>
+          <a accesskey="p" href="libxslt-transform.html">
+            <img src="left.png" width="24" height="24" border="0" alt="Prev"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="u" href="general.html">
+            <img src="up.png" width="24" height="24" border="0" alt="Up"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="h" href="index.html">
+            <img src="home.png" width="24" height="24" border="0" alt="Home"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="n" href="libxslt-xslt.html">
+            <img src="right.png" width="24" height="24" border="0" alt="Next"/>
+          </a>
+        </td>
+        <th width="100%" align="center">libxslt Reference Manual</th>
+      </tr>
+    </table>
+    <h2>
+      <span class="refentrytitle">variables</span>
+    </h2>
+    <p>variables - interface for the variable matching and lookup.</p>
+    <p>interface for the variable matching and lookup. </p>
+    <p>Author(s): Daniel Veillard </p>
+    <div class="refsynopsisdiv">
+      <h2>Synopsis</h2>
+      <pre class="synopsis">#define <a href="#XSLT_REGISTER_VARIABLE_LOOKUP">XSLT_REGISTER_VARIABLE_LOOKUP</a>;
+#define <a href="#XSLT_RVT_FUNC_RESULT">XSLT_RVT_FUNC_RESULT</a>;
+#define <a href="#XSLT_RVT_GLOBAL">XSLT_RVT_GLOBAL</a>;
+#define <a href="#XSLT_RVT_LOCAL">XSLT_RVT_LOCAL</a>;
+void	<a href="#xsltFreeGlobalVariables">xsltFreeGlobalVariables</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt);
+int	<a href="#xsltQuoteUserParams">xsltQuoteUserParams</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const char ** params);
+xmlXPathObjectPtr	<a href="#xsltXPathVariableLookup">xsltXPathVariableLookup</a>	(void * ctxt, <br/>						 const xmlChar * name, <br/>						 const xmlChar * ns_uri);
+int	<a href="#xsltEvalUserParams">xsltEvalUserParams</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const char ** params);
+<a href="libxslt-xsltInternals.html#xsltStackElemPtr">xsltStackElemPtr</a>	<a href="#xsltParseStylesheetCallerParam">xsltParseStylesheetCallerParam</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>							 xmlNodePtr inst);
+int	<a href="#xsltAddStackElemList">xsltAddStackElemList</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 <a href="libxslt-xsltInternals.html#xsltStackElemPtr">xsltStackElemPtr</a> elems);
+void	<a href="#xsltParseGlobalVariable">xsltParseGlobalVariable</a>		(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 xmlNodePtr cur);
+int	<a href="#xsltQuoteOneUserParam">xsltQuoteOneUserParam</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const xmlChar * name, <br/>					 const xmlChar * value);
+void	<a href="#xsltParseGlobalParam">xsltParseGlobalParam</a>		(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 xmlNodePtr cur);
+void	<a href="#xsltParseStylesheetVariable">xsltParseStylesheetVariable</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr inst);
+int	<a href="#xsltEvalGlobalVariables">xsltEvalGlobalVariables</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt);
+int	<a href="#xsltEvalOneUserParam">xsltEvalOneUserParam</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const xmlChar * name, <br/>					 const xmlChar * value);
+void	<a href="#xsltParseStylesheetParam">xsltParseStylesheetParam</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr cur);
+xmlXPathObjectPtr	<a href="#xsltVariableLookup">xsltVariableLookup</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>						 const xmlChar * name, <br/>						 const xmlChar * ns_uri);
+</pre>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Description</h2>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Details</h2>
+      <div class="refsect2" lang="en">
+        <div class="refsect2" lang="en"><h3><a name="XSLT_REGISTER_VARIABLE_LOOKUP">Macro </a>XSLT_REGISTER_VARIABLE_LOOKUP</h3><pre class="programlisting">#define <a href="#XSLT_REGISTER_VARIABLE_LOOKUP">XSLT_REGISTER_VARIABLE_LOOKUP</a>;
+</pre><p>Registering macro, not general purpose at all but used in different modules.</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="XSLT_RVT_FUNC_RESULT">Macro </a>XSLT_RVT_FUNC_RESULT</h3><pre class="programlisting">#define <a href="#XSLT_RVT_FUNC_RESULT">XSLT_RVT_FUNC_RESULT</a>;
+</pre><p>RVT is part of results returned with func:result. The RVT won't be destroyed after exiting a template and will be reset to <a href="libxslt-variables.html#XSLT_RVT_LOCAL">XSLT_RVT_LOCAL</a> or XSLT_RVT_VARIABLE in the template that receives the return value.</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="XSLT_RVT_GLOBAL">Macro </a>XSLT_RVT_GLOBAL</h3><pre class="programlisting">#define <a href="#XSLT_RVT_GLOBAL">XSLT_RVT_GLOBAL</a>;
+</pre><p>RVT is part of a global variable.</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="XSLT_RVT_LOCAL">Macro </a>XSLT_RVT_LOCAL</h3><pre class="programlisting">#define <a href="#XSLT_RVT_LOCAL">XSLT_RVT_LOCAL</a>;
+</pre><p>RVT is destroyed after the current instructions ends.</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltAddStackElemList"/>xsltAddStackElemList ()</h3><pre class="programlisting">int	xsltAddStackElemList		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 <a href="libxslt-xsltInternals.html#xsltStackElemPtr">xsltStackElemPtr</a> elems)<br/>
+</pre><p>Push an element list onto the stack.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>xn XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>elems</tt></i>:</span></td><td>a stack element list</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 in case of success, -1 in case of failure.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltEvalGlobalVariables"/>xsltEvalGlobalVariables ()</h3><pre class="programlisting">int	xsltEvalGlobalVariables		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt)<br/>
+</pre><p>Evaluates all global variables and parameters of a stylesheet. For internal use only. This is called at start of a transformation.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 in case of success, -1 in case of error</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltEvalOneUserParam"/>xsltEvalOneUserParam ()</h3><pre class="programlisting">int	xsltEvalOneUserParam		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const xmlChar * name, <br/>					 const xmlChar * value)<br/>
+</pre><p>This is normally called from <a href="libxslt-variables.html#xsltEvalUserParams">xsltEvalUserParams</a> to process a single parameter from a list of parameters. The @value is evaluated as an XPath expression and the result is stored in the context's global variable/parameter hash table. To have a parameter treated literally (not as an XPath expression) use <a href="libxslt-variables.html#xsltQuoteUserParams">xsltQuoteUserParams</a> (or xsltQuoteOneUserParam). For more details see description of xsltProcessOneUserParamInternal.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>a null terminated string giving the name of the parameter</td></tr><tr><td><span class="term"><i><tt>value</tt></i>:</span></td><td>a null terminated string giving the XPath expression to be evaluated</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 in case of success, -1 in case of error.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltEvalUserParams"/>xsltEvalUserParams ()</h3><pre class="programlisting">int	xsltEvalUserParams		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const char ** params)<br/>
+</pre><p>Evaluate the global variables of a stylesheet. This needs to be done on parsed stylesheets before starting to apply transformations. Each of the parameters is evaluated as an XPath expression and stored in the global variables/parameter hash table. If you want your parameter used literally, use xsltQuoteUserParams.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>params</tt></i>:</span></td><td>a NULL terminated array of parameters name/value tuples</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 in case of success, -1 in case of error</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltFreeGlobalVariables"/>xsltFreeGlobalVariables ()</h3><pre class="programlisting">void	xsltFreeGlobalVariables		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt)<br/>
+</pre><p>Free up the data associated to the global variables its value.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltParseGlobalParam"/>xsltParseGlobalParam ()</h3><pre class="programlisting">void	xsltParseGlobalParam		(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 xmlNodePtr cur)<br/>
+</pre><p>parse an XSLT transformation param declaration and record its value.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>the XSLT stylesheet</td></tr><tr><td><span class="term"><i><tt>cur</tt></i>:</span></td><td>the "param" element</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltParseGlobalVariable"/>xsltParseGlobalVariable ()</h3><pre class="programlisting">void	xsltParseGlobalVariable		(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 xmlNodePtr cur)<br/>
+</pre><p>Parses a global XSLT 'variable' declaration at compilation time and registers it</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>the XSLT stylesheet</td></tr><tr><td><span class="term"><i><tt>cur</tt></i>:</span></td><td>the "variable" element</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltParseStylesheetCallerParam"/>xsltParseStylesheetCallerParam ()</h3><pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltStackElemPtr">xsltStackElemPtr</a>	xsltParseStylesheetCallerParam	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>							 xmlNodePtr inst)<br/>
+</pre><p>Processes an xsl:with-param instruction at transformation time. The value is computed, but not recorded. NOTE that this is also called with an *xsl:param* element from exsltFuncFunctionFunction().</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>inst</tt></i>:</span></td><td>the xsl:with-param instruction element</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the new <a href="libxslt-xsltInternals.html#xsltStackElemPtr">xsltStackElemPtr</a> or NULL</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltParseStylesheetParam"/>xsltParseStylesheetParam ()</h3><pre class="programlisting">void	xsltParseStylesheetParam	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr cur)<br/>
+</pre><p>Registers a local XSLT 'param' declaration at transformation time and evaluates its value.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>cur</tt></i>:</span></td><td>the XSLT 'param' element</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltParseStylesheetVariable"/>xsltParseStylesheetVariable ()</h3><pre class="programlisting">void	xsltParseStylesheetVariable	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlNodePtr inst)<br/>
+</pre><p>Registers a local XSLT 'variable' instruction at transformation time and evaluates its value.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>inst</tt></i>:</span></td><td>the xsl:variable instruction element</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltQuoteOneUserParam"/>xsltQuoteOneUserParam ()</h3><pre class="programlisting">int	xsltQuoteOneUserParam		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const xmlChar * name, <br/>					 const xmlChar * value)<br/>
+</pre><p>This is normally called from <a href="libxslt-variables.html#xsltQuoteUserParams">xsltQuoteUserParams</a> to process a single parameter from a list of parameters. The @value is stored in the context's global variable/parameter hash table.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>a null terminated string giving the name of the parameter</td></tr><tr><td><span class="term"><i><tt>value</tt></i>:</span></td><td>a null terminated string giving the parameter value</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 in case of success, -1 in case of error.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltQuoteUserParams"/>xsltQuoteUserParams ()</h3><pre class="programlisting">int	xsltQuoteUserParams		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const char ** params)<br/>
+</pre><p>Similar to xsltEvalUserParams, but the values are treated literally and are * *not* evaluated as XPath expressions. This should be done on parsed stylesheets before starting to apply transformations.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>params</tt></i>:</span></td><td>a NULL terminated arry of parameters names/values tuples</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 in case of success, -1 in case of error.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltVariableLookup"/>xsltVariableLookup ()</h3><pre class="programlisting">xmlXPathObjectPtr	xsltVariableLookup	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>						 const xmlChar * name, <br/>						 const xmlChar * ns_uri)<br/>
+</pre><p>Search in the Variable array of the context for the given variable value.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the variable name</td></tr><tr><td><span class="term"><i><tt>ns_uri</tt></i>:</span></td><td>the variable namespace URI</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the value or NULL if not found</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltXPathVariableLookup"/>xsltXPathVariableLookup ()</h3><pre class="programlisting">xmlXPathObjectPtr	xsltXPathVariableLookup	(void * ctxt, <br/>						 const xmlChar * name, <br/>						 const xmlChar * ns_uri)<br/>
+</pre><p>This is the entry point when a varibale is needed by the XPath interpretor.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>a void * but the the XSLT transformation context actually</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the variable name</td></tr><tr><td><span class="term"><i><tt>ns_uri</tt></i>:</span></td><td>the variable namespace URI</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the value or NULL if not found</td></tr></tbody></table></div></div>
+        <hr/>
+      </div>
+    </div>
+  </body>
+</html>

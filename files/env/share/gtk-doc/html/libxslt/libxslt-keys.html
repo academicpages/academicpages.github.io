@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>keys: interface for the key matching used in key() and template matches.</title>
+    <meta name="generator" content="Libxml2 devhelp stylesheet"/>
+    <link rel="start" href="index.html" title="libxslt Reference Manual"/>
+    <link rel="up" href="general.html" title="API"/>
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <link rel="chapter" href="general.html" title="API"/>
+  </head>
+  <body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
+    <table class="navigation" width="100%" summary="Navigation header" cellpadding="2" cellspacing="2">
+      <tr valign="middle">
+        <td>
+          <a accesskey="p" href="libxslt-imports.html">
+            <img src="left.png" width="24" height="24" border="0" alt="Prev"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="u" href="general.html">
+            <img src="up.png" width="24" height="24" border="0" alt="Up"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="h" href="index.html">
+            <img src="home.png" width="24" height="24" border="0" alt="Home"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="n" href="libxslt-namespaces.html">
+            <img src="right.png" width="24" height="24" border="0" alt="Next"/>
+          </a>
+        </td>
+        <th width="100%" align="center">libxslt Reference Manual</th>
+      </tr>
+    </table>
+    <h2>
+      <span class="refentrytitle">keys</span>
+    </h2>
+    <p>keys - interface for the key matching used in key() and template matches.</p>
+    <p>implementation of the key mechanims. </p>
+    <p>Author(s): Daniel Veillard </p>
+    <div class="refsynopsisdiv">
+      <h2>Synopsis</h2>
+      <pre class="synopsis">#define <a href="#NODE_IS_KEYED">NODE_IS_KEYED</a>;
+void	<a href="#xsltInitCtxtKeys">xsltInitCtxtKeys</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 <a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a> idoc);
+void	<a href="#xsltFreeKeys">xsltFreeKeys</a>			(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style);
+xmlNodeSetPtr	<a href="#xsltGetKey">xsltGetKey</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const xmlChar * name, <br/>					 const xmlChar * nameURI, <br/>					 const xmlChar * value);
+void	<a href="#xsltFreeDocumentKeys">xsltFreeDocumentKeys</a>		(<a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a> idoc);
+int	<a href="#xsltAddKey">xsltAddKey</a>			(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 const xmlChar * name, <br/>					 const xmlChar * nameURI, <br/>					 const xmlChar * match, <br/>					 const xmlChar * use, <br/>					 xmlNodePtr inst);
+</pre>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Description</h2>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Details</h2>
+      <div class="refsect2" lang="en">
+        <div class="refsect2" lang="en"><h3><a name="NODE_IS_KEYED">Macro </a>NODE_IS_KEYED</h3><pre class="programlisting">#define <a href="#NODE_IS_KEYED">NODE_IS_KEYED</a>;
+</pre><p>check for bit 15 set</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltAddKey"/>xsltAddKey ()</h3><pre class="programlisting">int	xsltAddKey			(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 const xmlChar * name, <br/>					 const xmlChar * nameURI, <br/>					 const xmlChar * match, <br/>					 const xmlChar * use, <br/>					 xmlNodePtr inst)<br/>
+</pre><p>add a key definition to a stylesheet</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>an XSLT stylesheet</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the key name or NULL</td></tr><tr><td><span class="term"><i><tt>nameURI</tt></i>:</span></td><td>the name URI or NULL</td></tr><tr><td><span class="term"><i><tt>match</tt></i>:</span></td><td>the match value</td></tr><tr><td><span class="term"><i><tt>use</tt></i>:</span></td><td>the use value</td></tr><tr><td><span class="term"><i><tt>inst</tt></i>:</span></td><td>the key instruction</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 in case of success, and -1 in case of failure.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltFreeDocumentKeys"/>xsltFreeDocumentKeys ()</h3><pre class="programlisting">void	xsltFreeDocumentKeys		(<a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a> idoc)<br/>
+</pre><p>Free the keys associated to a document</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>idoc</tt></i>:</span></td><td>a XSLT document</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltFreeKeys"/>xsltFreeKeys ()</h3><pre class="programlisting">void	xsltFreeKeys			(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style)<br/>
+</pre><p>Free up the memory used by XSLT keys in a stylesheet</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>an XSLT stylesheet</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltGetKey"/>xsltGetKey ()</h3><pre class="programlisting">xmlNodeSetPtr	xsltGetKey		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const xmlChar * name, <br/>					 const xmlChar * nameURI, <br/>					 const xmlChar * value)<br/>
+</pre><p>Looks up a key of the in current source doc (the document info on @ctxt-&gt;document). Computes the key if not already done for the current source doc.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the key name or NULL</td></tr><tr><td><span class="term"><i><tt>nameURI</tt></i>:</span></td><td>the name URI or NULL</td></tr><tr><td><span class="term"><i><tt>value</tt></i>:</span></td><td>the key value to look for</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the nodeset resulting from the query or NULL</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltInitCtxtKeys"/>xsltInitCtxtKeys ()</h3><pre class="programlisting">void	xsltInitCtxtKeys		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 <a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a> idoc)<br/>
+</pre><p>Computes all the keys tables for the current input document. Should be done before global varibales are initialized. NOTE: Not used anymore in the refactored code.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>idoc</tt></i>:</span></td><td>a document info</td></tr></tbody></table></div></div>
+        <hr/>
+      </div>
+    </div>
+  </body>
+</html>

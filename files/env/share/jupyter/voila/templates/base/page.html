@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <title>
+      {% block title %} Voilà {% endblock %}
+    </title>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {% block stylesheets %}
+    {% endblock %}
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.5.0/css/font-awesome.min.css" type="text/css" />
+
+    {% block meta %}
+    {% endblock %}
+
+  </head>
+
+  <body data-base-url="{{ base_url }}voila/">
+
+    <noscript>
+      <div id='noscript'>
+        {% trans %} Voilà requires JavaScript. Please enable it to proceed. {% endtrans %}
+      </div>
+    </noscript>
+
+    <div>
+      {% block body %}
+      {% endblock %}
+    </div>
+
+    {% block scripts %}
+    {% endblock %}
+  </body>
+</html>

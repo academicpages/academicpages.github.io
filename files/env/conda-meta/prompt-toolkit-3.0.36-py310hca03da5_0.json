@@ -1,0 +1,2456 @@
+{
+  "build": "py310hca03da5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [
+    "prompt_toolkit 3.0.36"
+  ],
+  "depends": [
+    "python >=3.10,<3.11.0a0",
+    "wcwidth"
+  ],
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniconda/base/pkgs/prompt-toolkit-3.0.36-py310hca03da5_0",
+  "features": "",
+  "files": [
+    "lib/python3.10/site-packages/prompt_toolkit-3.0.36.dist-info/AUTHORS.rst",
+    "lib/python3.10/site-packages/prompt_toolkit-3.0.36.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/prompt_toolkit-3.0.36.dist-info/LICENSE",
+    "lib/python3.10/site-packages/prompt_toolkit-3.0.36.dist-info/METADATA",
+    "lib/python3.10/site-packages/prompt_toolkit-3.0.36.dist-info/RECORD",
+    "lib/python3.10/site-packages/prompt_toolkit-3.0.36.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/prompt_toolkit-3.0.36.dist-info/WHEEL",
+    "lib/python3.10/site-packages/prompt_toolkit-3.0.36.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/prompt_toolkit-3.0.36.dist-info/top_level.txt",
+    "lib/python3.10/site-packages/prompt_toolkit/__init__.py",
+    "lib/python3.10/site-packages/prompt_toolkit/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/__pycache__/auto_suggest.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/__pycache__/buffer.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/__pycache__/cache.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/__pycache__/cursor_shapes.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/__pycache__/data_structures.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/__pycache__/document.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/__pycache__/enums.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/__pycache__/history.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/__pycache__/keys.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/__pycache__/log.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/__pycache__/mouse_events.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/__pycache__/patch_stdout.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/__pycache__/renderer.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/__pycache__/search.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/__pycache__/selection.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/__pycache__/token.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/__pycache__/utils.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/__pycache__/validation.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/__pycache__/win32_types.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/application/__init__.py",
+    "lib/python3.10/site-packages/prompt_toolkit/application/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/application/__pycache__/application.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/application/__pycache__/current.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/application/__pycache__/dummy.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/application/__pycache__/run_in_terminal.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/application/application.py",
+    "lib/python3.10/site-packages/prompt_toolkit/application/current.py",
+    "lib/python3.10/site-packages/prompt_toolkit/application/dummy.py",
+    "lib/python3.10/site-packages/prompt_toolkit/application/run_in_terminal.py",
+    "lib/python3.10/site-packages/prompt_toolkit/auto_suggest.py",
+    "lib/python3.10/site-packages/prompt_toolkit/buffer.py",
+    "lib/python3.10/site-packages/prompt_toolkit/cache.py",
+    "lib/python3.10/site-packages/prompt_toolkit/clipboard/__init__.py",
+    "lib/python3.10/site-packages/prompt_toolkit/clipboard/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/clipboard/__pycache__/base.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/clipboard/__pycache__/in_memory.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/clipboard/__pycache__/pyperclip.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/clipboard/base.py",
+    "lib/python3.10/site-packages/prompt_toolkit/clipboard/in_memory.py",
+    "lib/python3.10/site-packages/prompt_toolkit/clipboard/pyperclip.py",
+    "lib/python3.10/site-packages/prompt_toolkit/completion/__init__.py",
+    "lib/python3.10/site-packages/prompt_toolkit/completion/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/completion/__pycache__/base.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/completion/__pycache__/deduplicate.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/completion/__pycache__/filesystem.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/completion/__pycache__/fuzzy_completer.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/completion/__pycache__/nested.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/completion/__pycache__/word_completer.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/completion/base.py",
+    "lib/python3.10/site-packages/prompt_toolkit/completion/deduplicate.py",
+    "lib/python3.10/site-packages/prompt_toolkit/completion/filesystem.py",
+    "lib/python3.10/site-packages/prompt_toolkit/completion/fuzzy_completer.py",
+    "lib/python3.10/site-packages/prompt_toolkit/completion/nested.py",
+    "lib/python3.10/site-packages/prompt_toolkit/completion/word_completer.py",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/__init__.py",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/completers/__init__.py",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/completers/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/completers/__pycache__/system.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/completers/system.py",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/__init__.py",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/__pycache__/compiler.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/__pycache__/completion.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/__pycache__/lexer.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/__pycache__/regex_parser.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/__pycache__/validation.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/compiler.py",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/completion.py",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/lexer.py",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/regex_parser.py",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/validation.py",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/ssh/__init__.py",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/ssh/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/ssh/__pycache__/server.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/ssh/server.py",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/telnet/__init__.py",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/telnet/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/telnet/__pycache__/log.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/telnet/__pycache__/protocol.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/telnet/__pycache__/server.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/telnet/log.py",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/telnet/protocol.py",
+    "lib/python3.10/site-packages/prompt_toolkit/contrib/telnet/server.py",
+    "lib/python3.10/site-packages/prompt_toolkit/cursor_shapes.py",
+    "lib/python3.10/site-packages/prompt_toolkit/data_structures.py",
+    "lib/python3.10/site-packages/prompt_toolkit/document.py",
+    "lib/python3.10/site-packages/prompt_toolkit/enums.py",
+    "lib/python3.10/site-packages/prompt_toolkit/eventloop/__init__.py",
+    "lib/python3.10/site-packages/prompt_toolkit/eventloop/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/eventloop/__pycache__/async_context_manager.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/eventloop/__pycache__/async_generator.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/eventloop/__pycache__/dummy_contextvars.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/eventloop/__pycache__/inputhook.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/eventloop/__pycache__/utils.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/eventloop/__pycache__/win32.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/eventloop/async_context_manager.py",
+    "lib/python3.10/site-packages/prompt_toolkit/eventloop/async_generator.py",
+    "lib/python3.10/site-packages/prompt_toolkit/eventloop/dummy_contextvars.py",
+    "lib/python3.10/site-packages/prompt_toolkit/eventloop/inputhook.py",
+    "lib/python3.10/site-packages/prompt_toolkit/eventloop/utils.py",
+    "lib/python3.10/site-packages/prompt_toolkit/eventloop/win32.py",
+    "lib/python3.10/site-packages/prompt_toolkit/filters/__init__.py",
+    "lib/python3.10/site-packages/prompt_toolkit/filters/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/filters/__pycache__/app.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/filters/__pycache__/base.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/filters/__pycache__/cli.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/filters/__pycache__/utils.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/filters/app.py",
+    "lib/python3.10/site-packages/prompt_toolkit/filters/base.py",
+    "lib/python3.10/site-packages/prompt_toolkit/filters/cli.py",
+    "lib/python3.10/site-packages/prompt_toolkit/filters/utils.py",
+    "lib/python3.10/site-packages/prompt_toolkit/formatted_text/__init__.py",
+    "lib/python3.10/site-packages/prompt_toolkit/formatted_text/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/formatted_text/__pycache__/ansi.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/formatted_text/__pycache__/base.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/formatted_text/__pycache__/html.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/formatted_text/__pycache__/pygments.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/formatted_text/__pycache__/utils.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/formatted_text/ansi.py",
+    "lib/python3.10/site-packages/prompt_toolkit/formatted_text/base.py",
+    "lib/python3.10/site-packages/prompt_toolkit/formatted_text/html.py",
+    "lib/python3.10/site-packages/prompt_toolkit/formatted_text/pygments.py",
+    "lib/python3.10/site-packages/prompt_toolkit/formatted_text/utils.py",
+    "lib/python3.10/site-packages/prompt_toolkit/history.py",
+    "lib/python3.10/site-packages/prompt_toolkit/input/__init__.py",
+    "lib/python3.10/site-packages/prompt_toolkit/input/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/input/__pycache__/ansi_escape_sequences.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/input/__pycache__/base.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/input/__pycache__/defaults.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/input/__pycache__/posix_pipe.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/input/__pycache__/posix_utils.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/input/__pycache__/typeahead.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/input/__pycache__/vt100.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/input/__pycache__/vt100_parser.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/input/__pycache__/win32.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/input/__pycache__/win32_pipe.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/input/ansi_escape_sequences.py",
+    "lib/python3.10/site-packages/prompt_toolkit/input/base.py",
+    "lib/python3.10/site-packages/prompt_toolkit/input/defaults.py",
+    "lib/python3.10/site-packages/prompt_toolkit/input/posix_pipe.py",
+    "lib/python3.10/site-packages/prompt_toolkit/input/posix_utils.py",
+    "lib/python3.10/site-packages/prompt_toolkit/input/typeahead.py",
+    "lib/python3.10/site-packages/prompt_toolkit/input/vt100.py",
+    "lib/python3.10/site-packages/prompt_toolkit/input/vt100_parser.py",
+    "lib/python3.10/site-packages/prompt_toolkit/input/win32.py",
+    "lib/python3.10/site-packages/prompt_toolkit/input/win32_pipe.py",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/__init__.py",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/__pycache__/defaults.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/__pycache__/digraphs.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/__pycache__/emacs_state.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/__pycache__/key_bindings.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/__pycache__/key_processor.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/__pycache__/vi_state.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__init__.py",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/auto_suggest.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/basic.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/completion.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/cpr.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/emacs.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/focus.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/mouse.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/named_commands.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/open_in_editor.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/page_navigation.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/scroll.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/search.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/vi.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/auto_suggest.py",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/basic.py",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/completion.py",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/cpr.py",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/emacs.py",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/focus.py",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/mouse.py",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/named_commands.py",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/open_in_editor.py",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/page_navigation.py",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/scroll.py",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/search.py",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/vi.py",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/defaults.py",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/digraphs.py",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/emacs_state.py",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/key_bindings.py",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/key_processor.py",
+    "lib/python3.10/site-packages/prompt_toolkit/key_binding/vi_state.py",
+    "lib/python3.10/site-packages/prompt_toolkit/keys.py",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/__init__.py",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/containers.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/controls.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/dimension.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/dummy.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/layout.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/margins.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/menus.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/mouse_handlers.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/processors.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/screen.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/scrollable_pane.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/utils.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/containers.py",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/controls.py",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/dimension.py",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/dummy.py",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/layout.py",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/margins.py",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/menus.py",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/mouse_handlers.py",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/processors.py",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/screen.py",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/scrollable_pane.py",
+    "lib/python3.10/site-packages/prompt_toolkit/layout/utils.py",
+    "lib/python3.10/site-packages/prompt_toolkit/lexers/__init__.py",
+    "lib/python3.10/site-packages/prompt_toolkit/lexers/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/lexers/__pycache__/base.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/lexers/__pycache__/pygments.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/lexers/base.py",
+    "lib/python3.10/site-packages/prompt_toolkit/lexers/pygments.py",
+    "lib/python3.10/site-packages/prompt_toolkit/log.py",
+    "lib/python3.10/site-packages/prompt_toolkit/mouse_events.py",
+    "lib/python3.10/site-packages/prompt_toolkit/output/__init__.py",
+    "lib/python3.10/site-packages/prompt_toolkit/output/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/output/__pycache__/base.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/output/__pycache__/color_depth.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/output/__pycache__/conemu.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/output/__pycache__/defaults.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/output/__pycache__/flush_stdout.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/output/__pycache__/plain_text.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/output/__pycache__/vt100.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/output/__pycache__/win32.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/output/__pycache__/windows10.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/output/base.py",
+    "lib/python3.10/site-packages/prompt_toolkit/output/color_depth.py",
+    "lib/python3.10/site-packages/prompt_toolkit/output/conemu.py",
+    "lib/python3.10/site-packages/prompt_toolkit/output/defaults.py",
+    "lib/python3.10/site-packages/prompt_toolkit/output/flush_stdout.py",
+    "lib/python3.10/site-packages/prompt_toolkit/output/plain_text.py",
+    "lib/python3.10/site-packages/prompt_toolkit/output/vt100.py",
+    "lib/python3.10/site-packages/prompt_toolkit/output/win32.py",
+    "lib/python3.10/site-packages/prompt_toolkit/output/windows10.py",
+    "lib/python3.10/site-packages/prompt_toolkit/patch_stdout.py",
+    "lib/python3.10/site-packages/prompt_toolkit/py.typed",
+    "lib/python3.10/site-packages/prompt_toolkit/renderer.py",
+    "lib/python3.10/site-packages/prompt_toolkit/search.py",
+    "lib/python3.10/site-packages/prompt_toolkit/selection.py",
+    "lib/python3.10/site-packages/prompt_toolkit/shortcuts/__init__.py",
+    "lib/python3.10/site-packages/prompt_toolkit/shortcuts/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/shortcuts/__pycache__/dialogs.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/shortcuts/__pycache__/prompt.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/shortcuts/__pycache__/utils.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/shortcuts/dialogs.py",
+    "lib/python3.10/site-packages/prompt_toolkit/shortcuts/progress_bar/__init__.py",
+    "lib/python3.10/site-packages/prompt_toolkit/shortcuts/progress_bar/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/shortcuts/progress_bar/__pycache__/base.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/shortcuts/progress_bar/__pycache__/formatters.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/shortcuts/progress_bar/base.py",
+    "lib/python3.10/site-packages/prompt_toolkit/shortcuts/progress_bar/formatters.py",
+    "lib/python3.10/site-packages/prompt_toolkit/shortcuts/prompt.py",
+    "lib/python3.10/site-packages/prompt_toolkit/shortcuts/utils.py",
+    "lib/python3.10/site-packages/prompt_toolkit/styles/__init__.py",
+    "lib/python3.10/site-packages/prompt_toolkit/styles/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/styles/__pycache__/base.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/styles/__pycache__/defaults.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/styles/__pycache__/named_colors.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/styles/__pycache__/pygments.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/styles/__pycache__/style.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/styles/__pycache__/style_transformation.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/styles/base.py",
+    "lib/python3.10/site-packages/prompt_toolkit/styles/defaults.py",
+    "lib/python3.10/site-packages/prompt_toolkit/styles/named_colors.py",
+    "lib/python3.10/site-packages/prompt_toolkit/styles/pygments.py",
+    "lib/python3.10/site-packages/prompt_toolkit/styles/style.py",
+    "lib/python3.10/site-packages/prompt_toolkit/styles/style_transformation.py",
+    "lib/python3.10/site-packages/prompt_toolkit/token.py",
+    "lib/python3.10/site-packages/prompt_toolkit/utils.py",
+    "lib/python3.10/site-packages/prompt_toolkit/validation.py",
+    "lib/python3.10/site-packages/prompt_toolkit/widgets/__init__.py",
+    "lib/python3.10/site-packages/prompt_toolkit/widgets/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/widgets/__pycache__/base.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/widgets/__pycache__/dialogs.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/widgets/__pycache__/menus.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/widgets/__pycache__/toolbars.cpython-310.pyc",
+    "lib/python3.10/site-packages/prompt_toolkit/widgets/base.py",
+    "lib/python3.10/site-packages/prompt_toolkit/widgets/dialogs.py",
+    "lib/python3.10/site-packages/prompt_toolkit/widgets/menus.py",
+    "lib/python3.10/site-packages/prompt_toolkit/widgets/toolbars.py",
+    "lib/python3.10/site-packages/prompt_toolkit/win32_types.py"
+  ],
+  "fn": "prompt-toolkit-3.0.36-py310hca03da5_0.conda",
+  "legacy_bz2_md5": "77bb249fcdbd15c68965c3d8cbcfb007",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniconda/base/pkgs/prompt-toolkit-3.0.36-py310hca03da5_0",
+    "type": 1
+  },
+  "md5": "dc980d56aca3ef7bf76f3e5d855109e0",
+  "name": "prompt-toolkit",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniconda/base/pkgs/prompt-toolkit-3.0.36-py310hca03da5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit-3.0.36.dist-info/AUTHORS.rst",
+        "path_type": "hardlink",
+        "sha256": "d3dc62c6bc8436658495ab89aea37511e7fa9391d282657239c9cfb80dbd42e5",
+        "sha256_in_prefix": "d3dc62c6bc8436658495ab89aea37511e7fa9391d282657239c9cfb80dbd42e5",
+        "size_in_bytes": 148
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit-3.0.36.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit-3.0.36.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "303574d9bdd85c757d6025017942bf17baeedf2778f62bd7f425d07d880f4c4a",
+        "sha256_in_prefix": "303574d9bdd85c757d6025017942bf17baeedf2778f62bd7f425d07d880f4c4a",
+        "size_in_bytes": 1493
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit-3.0.36.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "5ab5eb60e58c8122f715ebab5a36aced99ee331da5116143f5ccf02394b8ab85",
+        "sha256_in_prefix": "5ab5eb60e58c8122f715ebab5a36aced99ee331da5116143f5ccf02394b8ab85",
+        "size_in_bytes": 7033
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit-3.0.36.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "d7af8e1fab9a5a50a0e7cbdaae3e76a2e1dd61e7eb6e45157f74e8c082c364cb",
+        "sha256_in_prefix": "d7af8e1fab9a5a50a0e7cbdaae3e76a2e1dd61e7eb6e45157f74e8c082c364cb",
+        "size_in_bytes": 24221
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit-3.0.36.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit-3.0.36.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "db07a93359e4e034b8785a58ad6d534ea3dca0635f1e184efe2e66e1c3a299ba",
+        "sha256_in_prefix": "db07a93359e4e034b8785a58ad6d534ea3dca0635f1e184efe2e66e1c3a299ba",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit-3.0.36.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "fd1ba083300d78b1d2faf2b5c59e1b62eecc0e162ecdd20efbc25a420b687746",
+        "sha256_in_prefix": "fd1ba083300d78b1d2faf2b5c59e1b62eecc0e162ecdd20efbc25a420b687746",
+        "size_in_bytes": 145
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit-3.0.36.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "e6b257ac41b1eacb782a49a138f47a9742130db579df1fd7cba32eaceba45df0",
+        "sha256_in_prefix": "e6b257ac41b1eacb782a49a138f47a9742130db579df1fd7cba32eaceba45df0",
+        "size_in_bytes": 15
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "1b73bf5a9567f709245b5443962543d2f6186f674c4d95652f4e527adb5dedf7",
+        "sha256_in_prefix": "1b73bf5a9567f709245b5443962543d2f6186f674c4d95652f4e527adb5dedf7",
+        "size_in_bytes": 927
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "29f735a40f039021dbf93b9e647a645ed9fceaa07c3738998696fedc9405ef1d",
+        "sha256_in_prefix": "29f735a40f039021dbf93b9e647a645ed9fceaa07c3738998696fedc9405ef1d",
+        "size_in_bytes": 915
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/__pycache__/auto_suggest.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "a800030ef2d188e003efd467513b8fde6f8c38783f4a5ce6220e723b5db4cb16",
+        "sha256_in_prefix": "a800030ef2d188e003efd467513b8fde6f8c38783f4a5ce6220e723b5db4cb16",
+        "size_in_bytes": 7171
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/__pycache__/buffer.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "94610c4a8f3f0266bd4d9035635dcfe571118617d98659c2cbee83a8805afc8e",
+        "sha256_in_prefix": "94610c4a8f3f0266bd4d9035635dcfe571118617d98659c2cbee83a8805afc8e",
+        "size_in_bytes": 50562
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/__pycache__/cache.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "bd6fe8dfed3bdd13777a9b35e66c758e33794b154392b77b442daa15b0626559",
+        "sha256_in_prefix": "bd6fe8dfed3bdd13777a9b35e66c758e33794b154392b77b442daa15b0626559",
+        "size_in_bytes": 3930
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/__pycache__/cursor_shapes.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "5660c77352d081be4e161d0f91d4d8f5033d67a9fbbc9440520c48ae0cc53488",
+        "sha256_in_prefix": "5660c77352d081be4e161d0f91d4d8f5033d67a9fbbc9440520c48ae0cc53488",
+        "size_in_bytes": 3321
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/__pycache__/data_structures.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "631a760c24304cd6f7652c08dbf73a8a00f170ba4e453c9531f3d9b760210cc6",
+        "sha256_in_prefix": "631a760c24304cd6f7652c08dbf73a8a00f170ba4e453c9531f3d9b760210cc6",
+        "size_in_bytes": 544
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/__pycache__/document.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "313d34f8e38c5757a29c92ad0f945fa73e1b89763a78cf0b77ec032304e66625",
+        "sha256_in_prefix": "313d34f8e38c5757a29c92ad0f945fa73e1b89763a78cf0b77ec032304e66625",
+        "size_in_bytes": 31526
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/__pycache__/enums.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "4471d2308e6a64bffafca846399295403157a19cac2108e144f70be938f81600",
+        "sha256_in_prefix": "4471d2308e6a64bffafca846399295403157a19cac2108e144f70be938f81600",
+        "size_in_bytes": 450
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/__pycache__/history.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "b6f69cca0c995cd06dbe10a59761b68f9ccf0e0989cb7634a50a1481fe4d32ee",
+        "sha256_in_prefix": "b6f69cca0c995cd06dbe10a59761b68f9ccf0e0989cb7634a50a1481fe4d32ee",
+        "size_in_bytes": 9382
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/__pycache__/keys.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "a02e1269c60873f97bee19dd5b7619c38284f55c7beb2a587331078bb57a1c6e",
+        "sha256_in_prefix": "a02e1269c60873f97bee19dd5b7619c38284f55c7beb2a587331078bb57a1c6e",
+        "size_in_bytes": 4720
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/__pycache__/log.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "ca04e1fff740a2ac59f4a8f2b6d113b296b20acc04a7acef60c13b8497a95797",
+        "sha256_in_prefix": "ca04e1fff740a2ac59f4a8f2b6d113b296b20acc04a7acef60c13b8497a95797",
+        "size_in_bytes": 271
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/__pycache__/mouse_events.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "6ae9315667d925bba344acbd38b949289efa0b062022c59f60ca9dfd7aa7ec19",
+        "sha256_in_prefix": "6ae9315667d925bba344acbd38b949289efa0b062022c59f60ca9dfd7aa7ec19",
+        "size_in_bytes": 2485
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/__pycache__/patch_stdout.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "58343687789d071c5243765777bab4f6a2329d14bd73cdd22df9e73f98cc1c31",
+        "sha256_in_prefix": "58343687789d071c5243765777bab4f6a2329d14bd73cdd22df9e73f98cc1c31",
+        "size_in_bytes": 8535
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/__pycache__/renderer.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "bec9cffbc880b9fdd1f65bf67fdd899e07a76e577d801c910f3892b579c80f68",
+        "sha256_in_prefix": "bec9cffbc880b9fdd1f65bf67fdd899e07a76e577d801c910f3892b579c80f68",
+        "size_in_bytes": 18499
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/__pycache__/search.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "5b1a91bcb9e67ab03e4112dda2a66ad6210affad18ed3700e160a2ebb80ff9b4",
+        "sha256_in_prefix": "5b1a91bcb9e67ab03e4112dda2a66ad6210affad18ed3700e160a2ebb80ff9b4",
+        "size_in_bytes": 5416
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/__pycache__/selection.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "01dc0d5684312359e8daaf30f279feab7a832d67f21b76d6910ec3453f260d4d",
+        "sha256_in_prefix": "01dc0d5684312359e8daaf30f279feab7a832d67f21b76d6910ec3453f260d4d",
+        "size_in_bytes": 1682
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/__pycache__/token.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "f838ba425439b707798ab3e9f9f45a53f3e72dcb33b9947ab93b86e9b0c45010",
+        "sha256_in_prefix": "f838ba425439b707798ab3e9f9f45a53f3e72dcb33b9947ab93b86e9b0c45010",
+        "size_in_bytes": 224
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/__pycache__/utils.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "06f15877c5cd894efb2f6cb010edbfd1b2202400409d91981577fb68ae70138b",
+        "sha256_in_prefix": "06f15877c5cd894efb2f6cb010edbfd1b2202400409d91981577fb68ae70138b",
+        "size_in_bytes": 8741
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/__pycache__/validation.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "18f7898239849344036ca7033f83a13e7ee9e9672383c73a91084377ef46d3ef",
+        "sha256_in_prefix": "18f7898239849344036ca7033f83a13e7ee9e9672383c73a91084377ef46d3ef",
+        "size_in_bytes": 7555
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/__pycache__/win32_types.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "4283854f4a98b7a293b9a4953c05af2ed7f1ba8ac05d6c2e6ec67acee121d3cd",
+        "sha256_in_prefix": "4283854f4a98b7a293b9a4953c05af2ed7f1ba8ac05d6c2e6ec67acee121d3cd",
+        "size_in_bytes": 5392
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/application/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "5666aae10713e7493bfb59171c97ae4f1601b08d60a8b30ea883729a40cce24d",
+        "sha256_in_prefix": "5666aae10713e7493bfb59171c97ae4f1601b08d60a8b30ea883729a40cce24d",
+        "size_in_bytes": 621
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/application/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "3e5ba43c25dff779b4c9049fcede4af3e721102e122aa7977c85ec1640730420",
+        "sha256_in_prefix": "3e5ba43c25dff779b4c9049fcede4af3e721102e122aa7977c85ec1640730420",
+        "size_in_bytes": 586
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/application/__pycache__/application.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "39c2bd594bf82c897fc36baf056c1e60285d7c73666b4f9f9c02c54e6d9742c3",
+        "sha256_in_prefix": "39c2bd594bf82c897fc36baf056c1e60285d7c73666b4f9f9c02c54e6d9742c3",
+        "size_in_bytes": 43217
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/application/__pycache__/current.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "07eb3f1cedc589cb7743dd73d969d453bd23a6867bf9379ab0a470f09f144835",
+        "sha256_in_prefix": "07eb3f1cedc589cb7743dd73d969d453bd23a6867bf9379ab0a470f09f144835",
+        "size_in_bytes": 5982
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/application/__pycache__/dummy.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "2b62427e82cb4e98b130388d427e7fd63eb9abbe6415d1afd74124a58142f0a4",
+        "sha256_in_prefix": "2b62427e82cb4e98b130388d427e7fd63eb9abbe6415d1afd74124a58142f0a4",
+        "size_in_bytes": 2161
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/application/__pycache__/run_in_terminal.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "6737da72d52336655dd1ee0f3ee0fc3b2f85e00901bb87cfb89f439d56e22c13",
+        "sha256_in_prefix": "6737da72d52336655dd1ee0f3ee0fc3b2f85e00901bb87cfb89f439d56e22c13",
+        "size_in_bytes": 3309
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/application/application.py",
+        "path_type": "hardlink",
+        "sha256": "6a2b96222b309382a343771d01f144d0ec1a017ee0bb2e186c2e42f6730e4dcd",
+        "sha256_in_prefix": "6a2b96222b309382a343771d01f144d0ec1a017ee0bb2e186c2e42f6730e4dcd",
+        "size_in_bytes": 58678
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/application/current.py",
+        "path_type": "hardlink",
+        "sha256": "972a7decf0731c3327a1fdd06b606fea77ff22b08eb0bdc8e36922c58aed1f71",
+        "sha256_in_prefix": "972a7decf0731c3327a1fdd06b606fea77ff22b08eb0bdc8e36922c58aed1f71",
+        "size_in_bytes": 6054
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/application/dummy.py",
+        "path_type": "hardlink",
+        "sha256": "79ea05b63dd05972f7715a3e89eca0f543767beaacdc1dda17b9d964f245cec0",
+        "sha256_in_prefix": "79ea05b63dd05972f7715a3e89eca0f543767beaacdc1dda17b9d964f245cec0",
+        "size_in_bytes": 1508
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/application/run_in_terminal.py",
+        "path_type": "hardlink",
+        "sha256": "a69a2eef6b837dd88008e438bb0a7f5609f7dc0d2ee503acdc14066108231053",
+        "sha256_in_prefix": "a69a2eef6b837dd88008e438bb0a7f5609f7dc0d2ee503acdc14066108231053",
+        "size_in_bytes": 3713
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/auto_suggest.py",
+        "path_type": "hardlink",
+        "sha256": "0567eefe1da1ec3f43d2a8f4e37f0e04e9a33b169e31a1b04b4252ad121c2d98",
+        "sha256_in_prefix": "0567eefe1da1ec3f43d2a8f4e37f0e04e9a33b169e31a1b04b4252ad121c2d98",
+        "size_in_bytes": 5922
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/buffer.py",
+        "path_type": "hardlink",
+        "sha256": "93e93910e2a26518084f3f173b9a3550b756872109813a9a54558cf430abd52b",
+        "sha256_in_prefix": "93e93910e2a26518084f3f173b9a3550b756872109813a9a54558cf430abd52b",
+        "size_in_bytes": 74169
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/cache.py",
+        "path_type": "hardlink",
+        "sha256": "c99e4cded922ecf351dbabc68e2dfff5d3e58ea03154f5f68a603cb5543757e1",
+        "sha256_in_prefix": "c99e4cded922ecf351dbabc68e2dfff5d3e58ea03154f5f68a603cb5543757e1",
+        "size_in_bytes": 3794
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/clipboard/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "edc7959c7a3c8cffb88fefeb2ee6ee2667f9d69433718d30b0d8ff38bbef017d",
+        "sha256_in_prefix": "edc7959c7a3c8cffb88fefeb2ee6ee2667f9d69433718d30b0d8ff38bbef017d",
+        "size_in_bytes": 403
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/clipboard/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "a722b0c1b19d1cd50fb28b7f01bf675ac82dbbf9706e974a9e57ac0b794096b3",
+        "sha256_in_prefix": "a722b0c1b19d1cd50fb28b7f01bf675ac82dbbf9706e974a9e57ac0b794096b3",
+        "size_in_bytes": 369
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/clipboard/__pycache__/base.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "745ac18fc6f2759923f07b3e215edbe7144d704ee8f3ca2b5e6a9fa363e83736",
+        "sha256_in_prefix": "745ac18fc6f2759923f07b3e215edbe7144d704ee8f3ca2b5e6a9fa363e83736",
+        "size_in_bytes": 4120
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/clipboard/__pycache__/in_memory.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "f1d17aa26d57e2b5bc62732663c00b691009df9b96d0cd57882a5f1a0475f7c8",
+        "sha256_in_prefix": "f1d17aa26d57e2b5bc62732663c00b691009df9b96d0cd57882a5f1a0475f7c8",
+        "size_in_bytes": 1549
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/clipboard/__pycache__/pyperclip.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "41e5ceb4c5bd2db6323ba97bccf309147b4463ae6e8435bc8fe63c1d8d2d7ad2",
+        "sha256_in_prefix": "41e5ceb4c5bd2db6323ba97bccf309147b4463ae6e8435bc8fe63c1d8d2d7ad2",
+        "size_in_bytes": 1299
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/clipboard/base.py",
+        "path_type": "hardlink",
+        "sha256": "df16e34da6284f176c76da97c2cc70a7be65a360d92883a3452c221d06f4c1b6",
+        "sha256_in_prefix": "df16e34da6284f176c76da97c2cc70a7be65a360d92883a3452c221d06f4c1b6",
+        "size_in_bytes": 2492
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/clipboard/in_memory.py",
+        "path_type": "hardlink",
+        "sha256": "206913f6903d1f9d32deee6523b012bbfd92ec9cc133e4da41b7cd9ff984a6d0",
+        "sha256_in_prefix": "206913f6903d1f9d32deee6523b012bbfd92ec9cc133e4da41b7cd9ff984a6d0",
+        "size_in_bytes": 1077
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/clipboard/pyperclip.py",
+        "path_type": "hardlink",
+        "sha256": "537009e0d6f7ba0abe64309227465a40231fc3fd5842979777463dd44dfc4c70",
+        "sha256_in_prefix": "537009e0d6f7ba0abe64309227465a40231fc3fd5842979777463dd44dfc4c70",
+        "size_in_bytes": 1156
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/completion/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a7a7806acd3722b46d1cc763cb98ff3645809924211d503517d4895284b7c755",
+        "sha256_in_prefix": "a7a7806acd3722b46d1cc763cb98ff3645809924211d503517d4895284b7c755",
+        "size_in_bytes": 956
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/completion/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "bf2905f3c494f7f1eb74c13cc2b3527c80f11d8fe1a798549b6d8a1667f4be85",
+        "sha256_in_prefix": "bf2905f3c494f7f1eb74c13cc2b3527c80f11d8fe1a798549b6d8a1667f4be85",
+        "size_in_bytes": 833
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/completion/__pycache__/base.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "14bc04695aa82accaaeffc8f164ccbc7df03b10f565a556621a450ac80c5a64d",
+        "sha256_in_prefix": "14bc04695aa82accaaeffc8f164ccbc7df03b10f565a556621a450ac80c5a64d",
+        "size_in_bytes": 14421
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/completion/__pycache__/deduplicate.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "cbd23446e3a2387b5754c78202ae48a770d745fdb53ab85a2accb6122e745c50",
+        "sha256_in_prefix": "cbd23446e3a2387b5754c78202ae48a770d745fdb53ab85a2accb6122e745c50",
+        "size_in_bytes": 1445
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/completion/__pycache__/filesystem.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "da6d4076130abc4140d81bf9c7c7337669ee6cc491f073a61f02c9fb8cc4427a",
+        "sha256_in_prefix": "da6d4076130abc4140d81bf9c7c7337669ee6cc491f073a61f02c9fb8cc4427a",
+        "size_in_bytes": 3753
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/completion/__pycache__/fuzzy_completer.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "b927c9aeff708dbd077cd912fc07a18e2d6da2347a5030b4d82be639704f38d5",
+        "sha256_in_prefix": "b927c9aeff708dbd077cd912fc07a18e2d6da2347a5030b4d82be639704f38d5",
+        "size_in_bytes": 6857
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/completion/__pycache__/nested.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "dc7480a1a41bd4d9838b602e1b50ebebcac3cae98e854d1263e6b19039be55ab",
+        "sha256_in_prefix": "dc7480a1a41bd4d9838b602e1b50ebebcac3cae98e854d1263e6b19039be55ab",
+        "size_in_bytes": 3616
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/completion/__pycache__/word_completer.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "e8c092a0032ffac5b646cff71054eab0d73b23d1a56fb1b8d8195497100ddd62",
+        "sha256_in_prefix": "e8c092a0032ffac5b646cff71054eab0d73b23d1a56fb1b8d8195497100ddd62",
+        "size_in_bytes": 3255
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/completion/base.py",
+        "path_type": "hardlink",
+        "sha256": "1ed55a574705558cbb9c5bc8577b71edd06b346a9fb7ef65e3b29078f90ebb22",
+        "sha256_in_prefix": "1ed55a574705558cbb9c5bc8577b71edd06b346a9fb7ef65e3b29078f90ebb22",
+        "size_in_bytes": 16353
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/completion/deduplicate.py",
+        "path_type": "hardlink",
+        "sha256": "b0f09d70a679fd864d5c005d125dc749bf8d66ed12f4d440c05d04200f25d443",
+        "sha256_in_prefix": "b0f09d70a679fd864d5c005d125dc749bf8d66ed12f4d440c05d04200f25d443",
+        "size_in_bytes": 1405
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/completion/filesystem.py",
+        "path_type": "hardlink",
+        "sha256": "8de6bac37aaa9abd4fa09e9f9fb1006bf4ef8aaa97812e712ddb3a3cdd97caec",
+        "sha256_in_prefix": "8de6bac37aaa9abd4fa09e9f9fb1006bf4ef8aaa97812e712ddb3a3cdd97caec",
+        "size_in_bytes": 3937
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/completion/fuzzy_completer.py",
+        "path_type": "hardlink",
+        "sha256": "40bbe365fd55e700615bffe60afb1f0d7ce3099301ae25aa34c936963158e1d9",
+        "sha256_in_prefix": "40bbe365fd55e700615bffe60afb1f0d7ce3099301ae25aa34c936963158e1d9",
+        "size_in_bytes": 7738
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/completion/nested.py",
+        "path_type": "hardlink",
+        "sha256": "980bc15edfc9aa744bc3275e2ff392f10b9d7774aa45a4b9608b0ade2a30505b",
+        "sha256_in_prefix": "980bc15edfc9aa744bc3275e2ff392f10b9d7774aa45a4b9608b0ade2a30505b",
+        "size_in_bytes": 3842
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/completion/word_completer.py",
+        "path_type": "hardlink",
+        "sha256": "4e552a3f1f6780f87d4f7f94e3000215b0c1a37b82a46fb2e16294fc1d0d1b45",
+        "sha256_in_prefix": "4e552a3f1f6780f87d4f7f94e3000215b0c1a37b82a46fb2e16294fc1d0d1b45",
+        "size_in_bytes": 3420
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "5037d5ed74e456f538e5262e5887785dec827ef4f414966dc4dd953257b4c6da",
+        "sha256_in_prefix": "5037d5ed74e456f538e5262e5887785dec827ef4f414966dc4dd953257b4c6da",
+        "size_in_bytes": 156
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/completers/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "8d52bb76952eca30c8e40fc2d9b55ddef2db42497ec5c5758269c083a0d9f958",
+        "sha256_in_prefix": "8d52bb76952eca30c8e40fc2d9b55ddef2db42497ec5c5758269c083a0d9f958",
+        "size_in_bytes": 67
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/completers/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "5354b6aa15d074154ad6e265c4a7f60a2117a842454de5873d569fdf15299831",
+        "sha256_in_prefix": "5354b6aa15d074154ad6e265c4a7f60a2117a842454de5873d569fdf15299831",
+        "size_in_bytes": 235
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/completers/__pycache__/system.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "63a533821f8192f01b3061c77864616b7c00356dad96c2503f30a418406cf3a6",
+        "sha256_in_prefix": "63a533821f8192f01b3061c77864616b7c00356dad96c2503f30a418406cf3a6",
+        "size_in_bytes": 2084
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/completers/system.py",
+        "path_type": "hardlink",
+        "sha256": "6983798b57747473ef8e34387d1b16b5ed64865e12f44bea9f625c92160a06fc",
+        "sha256_in_prefix": "6983798b57747473ef8e34387d1b16b5ed64865e12f44bea9f625c92160a06fc",
+        "size_in_bytes": 2021
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "f0ca3aa9bf81583820a983b0d192352ab812ab7c36797ad1d25af3b947a47201",
+        "sha256_in_prefix": "f0ca3aa9bf81583820a983b0d192352ab812ab7c36797ad1d25af3b947a47201",
+        "size_in_bytes": 3243
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "d8bbe92884a38b28cb3d918ee65116a0b1ee1ee4189f001f93148c2a28161cd7",
+        "sha256_in_prefix": "d8bbe92884a38b28cb3d918ee65116a0b1ee1ee4189f001f93148c2a28161cd7",
+        "size_in_bytes": 3438
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/__pycache__/compiler.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "c76dbf83f152397abf0596628119f3af92469be9211ea9ed37969547abdf0cab",
+        "sha256_in_prefix": "c76dbf83f152397abf0596628119f3af92469be9211ea9ed37969547abdf0cab",
+        "size_in_bytes": 18233
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/__pycache__/completion.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "07af9c65916541c4472206b61d7b46e4076d8ec94e68e465df3cbb59dc1c1634",
+        "sha256_in_prefix": "07af9c65916541c4472206b61d7b46e4076d8ec94e68e465df3cbb59dc1c1634",
+        "size_in_bytes": 2977
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/__pycache__/lexer.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "fc83f0d7734ff6c9cb33ad3cd1033437956b233c4ad5316b8fd05936a534f683",
+        "sha256_in_prefix": "fc83f0d7734ff6c9cb33ad3cd1033437956b233c4ad5316b8fd05936a534f683",
+        "size_in_bytes": 3266
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/__pycache__/regex_parser.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "3507fb400e9c1299d4917251e05c7a8f907a127e35e48891e1e705b22fa9c4ff",
+        "sha256_in_prefix": "3507fb400e9c1299d4917251e05c7a8f907a127e35e48891e1e705b22fa9c4ff",
+        "size_in_bytes": 8674
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/__pycache__/validation.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "46db8b10a0a47021d93ff108436b87ed7b450b93bc572d4a545deeb197442cd8",
+        "sha256_in_prefix": "46db8b10a0a47021d93ff108436b87ed7b450b93bc572d4a545deeb197442cd8",
+        "size_in_bytes": 1816
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/compiler.py",
+        "path_type": "hardlink",
+        "sha256": "ac8bd2a1a77a8e1b42be07526eb96f050f0257512caa7b5db37fad1b6700acea",
+        "sha256_in_prefix": "ac8bd2a1a77a8e1b42be07526eb96f050f0257512caa7b5db37fad1b6700acea",
+        "size_in_bytes": 21868
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/completion.py",
+        "path_type": "hardlink",
+        "sha256": "0b65fbf893e7f1a002c1226064df162965bb528dc49524d1d1891fdf64f2a26a",
+        "sha256_in_prefix": "0b65fbf893e7f1a002c1226064df162965bb528dc49524d1d1891fdf64f2a26a",
+        "size_in_bytes": 3222
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/lexer.py",
+        "path_type": "hardlink",
+        "sha256": "4c17d4d27481bfea7f87ee4208fa609a7e6e6fe677e2c00480025c4e62ee2563",
+        "sha256_in_prefix": "4c17d4d27481bfea7f87ee4208fa609a7e6e6fe677e2c00480025c4e62ee2563",
+        "size_in_bytes": 3398
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/regex_parser.py",
+        "path_type": "hardlink",
+        "sha256": "3227ea7e788c899685e50ff56f13ef578264ea9ae75f9bd1afcf1d7ad3fab36a",
+        "sha256_in_prefix": "3227ea7e788c899685e50ff56f13ef578264ea9ae75f9bd1afcf1d7ad3fab36a",
+        "size_in_bytes": 7803
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/regular_languages/validation.py",
+        "path_type": "hardlink",
+        "sha256": "510902de75de7403d5337eea2782e205903c25fa1270c6a5ff4492c12c2f46de",
+        "sha256_in_prefix": "510902de75de7403d5337eea2782e205903c25fa1270c6a5ff4492c12c2f46de",
+        "size_in_bytes": 2048
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/ssh/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "457cb5b76e1d4376b4a2a2c1cb6ddece1927c00ebe925f4f949f4ff756a71604",
+        "sha256_in_prefix": "457cb5b76e1d4376b4a2a2c1cb6ddece1927c00ebe925f4f949f4ff756a71604",
+        "size_in_bytes": 144
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/ssh/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "5c3c7472ed611467cd2d3797b9f13a09cc602686f68571e0bead9a4d56d32ca4",
+        "sha256_in_prefix": "5c3c7472ed611467cd2d3797b9f13a09cc602686f68571e0bead9a4d56d32ca4",
+        "size_in_bytes": 280
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/ssh/__pycache__/server.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "a56d23345c65b62e4ac396320ae414324895b6e55eacd89470f1bf6f44f86e3f",
+        "sha256_in_prefix": "a56d23345c65b62e4ac396320ae414324895b6e55eacd89470f1bf6f44f86e3f",
+        "size_in_bytes": 6761
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/ssh/server.py",
+        "path_type": "hardlink",
+        "sha256": "f44e30fac9c6c57139906bdf9213d4a543b3a89ba726ce7540cacb2eb5ee2fce",
+        "sha256_in_prefix": "f44e30fac9c6c57139906bdf9213d4a543b3a89ba726ce7540cacb2eb5ee2fce",
+        "size_in_bytes": 6111
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/telnet/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e0691af7007d5f693b98bcbd7d083668ffbd4ee77eddf93d0ef31a0609e8e195",
+        "sha256_in_prefix": "e0691af7007d5f693b98bcbd7d083668ffbd4ee77eddf93d0ef31a0609e8e195",
+        "size_in_bytes": 68
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/telnet/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "32cdf7c96b3bf8e63c984bba58be8571beeb1380840327309a57e4a2c14fe681",
+        "sha256_in_prefix": "32cdf7c96b3bf8e63c984bba58be8571beeb1380840327309a57e4a2c14fe681",
+        "size_in_bytes": 230
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/telnet/__pycache__/log.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "7f3ed6fb1ca76d59371ca839ddf1841f495101124cc24574f7addb8ddb64a5d1",
+        "sha256_in_prefix": "7f3ed6fb1ca76d59371ca839ddf1841f495101124cc24574f7addb8ddb64a5d1",
+        "size_in_bytes": 300
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/telnet/__pycache__/protocol.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "1de795c2249c7a5de68eae7aab7f3929c1a556d953b39feed1fb090ef5307b60",
+        "sha256_in_prefix": "1de795c2249c7a5de68eae7aab7f3929c1a556d953b39feed1fb090ef5307b60",
+        "size_in_bytes": 5275
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/telnet/__pycache__/server.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "5727e04f38bea800f7b3af0797ca4f8477c601a9ca9c43b3b44459d902fc957a",
+        "sha256_in_prefix": "5727e04f38bea800f7b3af0797ca4f8477c601a9ca9c43b3b44459d902fc957a",
+        "size_in_bytes": 11702
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/telnet/log.py",
+        "path_type": "hardlink",
+        "sha256": "f46c7d89f69b862160a087e101c9640d491d786081f41d1eeb7c74ec9bd42e00",
+        "sha256_in_prefix": "f46c7d89f69b862160a087e101c9640d491d786081f41d1eeb7c74ec9bd42e00",
+        "size_in_bytes": 130
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/telnet/protocol.py",
+        "path_type": "hardlink",
+        "sha256": "3011595d180cf93104b4a2eb42809c416df28fb2d1272b584eb52c20a5da23c7",
+        "sha256_in_prefix": "3011595d180cf93104b4a2eb42809c416df28fb2d1272b584eb52c20a5da23c7",
+        "size_in_bytes": 5548
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/contrib/telnet/server.py",
+        "path_type": "hardlink",
+        "sha256": "fc712c6482ac53c20c55e35b49b9e37a69fad22c9d17f41c1cb3906aedd4f192",
+        "sha256_in_prefix": "fc712c6482ac53c20c55e35b49b9e37a69fad22c9d17f41c1cb3906aedd4f192",
+        "size_in_bytes": 12268
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/cursor_shapes.py",
+        "path_type": "hardlink",
+        "sha256": "cbc6d4ca578f8b08a50f016abc9e4844725baa5fc55da64a105d4b1c1f767c21",
+        "sha256_in_prefix": "cbc6d4ca578f8b08a50f016abc9e4844725baa5fc55da64a105d4b1c1f767c21",
+        "size_in_bytes": 3268
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/data_structures.py",
+        "path_type": "hardlink",
+        "sha256": "ea6013a58d52d91533334daa35682f1a74dfa099c229233553fe311080f8b9fa",
+        "sha256_in_prefix": "ea6013a58d52d91533334daa35682f1a74dfa099c229233553fe311080f8b9fa",
+        "size_in_bytes": 176
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/document.py",
+        "path_type": "hardlink",
+        "sha256": "b79c0fde213584d60533a6cb4d9829194c8744594e9584407d690d5603f307ac",
+        "sha256_in_prefix": "b79c0fde213584d60533a6cb4d9829194c8744594e9584407d690d5603f307ac",
+        "size_in_bytes": 40689
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/enums.py",
+        "path_type": "hardlink",
+        "sha256": "4f9e2fe42d80773d6a71621724b5aaaeb4e73b22a8b89d62e70c0db98e1857b1",
+        "sha256_in_prefix": "4f9e2fe42d80773d6a71621724b5aaaeb4e73b22a8b89d62e70c0db98e1857b1",
+        "size_in_bytes": 322
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/eventloop/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3150cabdfe29a04a6b7e4778cd4f680ba98be53b739f8a1d364cddc919c4a7d",
+        "sha256_in_prefix": "e3150cabdfe29a04a6b7e4778cd4f680ba98be53b739f8a1d364cddc919c4a7d",
+        "size_in_bytes": 704
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/eventloop/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "c031fe3bd3998b40be2e03550a283e315af0aed14e8e92caa3532f6ce7551a6b",
+        "sha256_in_prefix": "c031fe3bd3998b40be2e03550a283e315af0aed14e8e92caa3532f6ce7551a6b",
+        "size_in_bytes": 623
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/eventloop/__pycache__/async_context_manager.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "bbda81cb5710025247a9400e13c2c7b5d4949ae3505626b643d90292b34f8162",
+        "sha256_in_prefix": "bbda81cb5710025247a9400e13c2c7b5d4949ae3505626b643d90292b34f8162",
+        "size_in_bytes": 4001
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/eventloop/__pycache__/async_generator.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "3eed9fe003b483f8e69850eab646a9faa706d69c0a7c2d2094a141fec76f634c",
+        "sha256_in_prefix": "3eed9fe003b483f8e69850eab646a9faa706d69c0a7c2d2094a141fec76f634c",
+        "size_in_bytes": 3136
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/eventloop/__pycache__/dummy_contextvars.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "7ae0306bda0537993d8c52de0f836e058e4cbd447206f044c18ea34db8eb30be",
+        "sha256_in_prefix": "7ae0306bda0537993d8c52de0f836e058e4cbd447206f044c18ea34db8eb30be",
+        "size_in_bytes": 2433
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/eventloop/__pycache__/inputhook.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "575ed2785721157e2ecf4d5c86e86918208e74e81c738b46d7cfab67275b1bff",
+        "sha256_in_prefix": "575ed2785721157e2ecf4d5c86e86918208e74e81c738b46d7cfab67275b1bff",
+        "size_in_bytes": 5594
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/eventloop/__pycache__/utils.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "483ce38357f3f26e61d798f725d23e40a764af9eaab3ab1d127cf43cc1e14e3d",
+        "sha256_in_prefix": "483ce38357f3f26e61d798f725d23e40a764af9eaab3ab1d127cf43cc1e14e3d",
+        "size_in_bytes": 3130
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/eventloop/__pycache__/win32.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "6c568ed96c30f29649572d671f1297a64c6fc3ce3966ae1cc6ba3bdcbe2df8fc",
+        "sha256_in_prefix": "6c568ed96c30f29649572d671f1297a64c6fc3ce3966ae1cc6ba3bdcbe2df8fc",
+        "size_in_bytes": 2217
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/eventloop/async_context_manager.py",
+        "path_type": "hardlink",
+        "sha256": "3bc92fcb66fcc6880e2dda9a3234204d3da8b7713302ae0f736b53ecf04af3aa",
+        "sha256_in_prefix": "3bc92fcb66fcc6880e2dda9a3234204d3da8b7713302ae0f736b53ecf04af3aa",
+        "size_in_bytes": 4429
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/eventloop/async_generator.py",
+        "path_type": "hardlink",
+        "sha256": "2a77b4efe13212e7c23b25e63f8d1a6d3773b6ef603942ef36a6beda5506f2af",
+        "sha256_in_prefix": "2a77b4efe13212e7c23b25e63f8d1a6d3773b6ef603942ef36a6beda5506f2af",
+        "size_in_bytes": 4239
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/eventloop/dummy_contextvars.py",
+        "path_type": "hardlink",
+        "sha256": "3f0d40c5493844602d7b88aa32495df16901b6bd6b631d3d0923676716735212",
+        "sha256_in_prefix": "3f0d40c5493844602d7b88aa32495df16901b6bd6b631d3d0923676716735212",
+        "size_in_bytes": 1321
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/eventloop/inputhook.py",
+        "path_type": "hardlink",
+        "sha256": "100d479a592c721f4aa69ee65e143ec3df2244cf364e00ae51842d4410edd4c1",
+        "sha256_in_prefix": "100d479a592c721f4aa69ee65e143ec3df2244cf364e00ae51842d4410edd4c1",
+        "size_in_bytes": 6022
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/eventloop/utils.py",
+        "path_type": "hardlink",
+        "sha256": "48c0b91a74a36a626af304d68d1c425b3a082da946df7d3ba138d5b28e608961",
+        "sha256_in_prefix": "48c0b91a74a36a626af304d68d1c425b3a082da946df7d3ba138d5b28e608961",
+        "size_in_bytes": 3723
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/eventloop/win32.py",
+        "path_type": "hardlink",
+        "sha256": "63df00d38b7ad0d2202c11045d79722aa121a1461ea8553165bcdd8f297c2fa7",
+        "sha256_in_prefix": "63df00d38b7ad0d2202c11045d79722aa121a1461ea8553165bcdd8f297c2fa7",
+        "size_in_bytes": 2293
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/filters/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "76622cb7b1145f603fea940775511580b1ce2c05c653c0e2121aa30477e450f4",
+        "sha256_in_prefix": "76622cb7b1145f603fea940775511580b1ce2c05c653c0e2121aa30477e450f4",
+        "size_in_bytes": 1953
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/filters/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "7b2ec7d718096a9cf5b8ae56acf7f1445b5999236bf35e88196cad0b02332a65",
+        "sha256_in_prefix": "7b2ec7d718096a9cf5b8ae56acf7f1445b5999236bf35e88196cad0b02332a65",
+        "size_in_bytes": 1894
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/filters/__pycache__/app.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "f251176a618b01778082ff62124ec660abba94f2a53f7c4c7fb8bacdd0e29468",
+        "sha256_in_prefix": "f251176a618b01778082ff62124ec660abba94f2a53f7c4c7fb8bacdd0e29468",
+        "size_in_bytes": 9383
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/filters/__pycache__/base.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "5957e96e3096c6fbe35b02af3a34f5d51005ef8ffc26c37340c39b6b09d83ead",
+        "sha256_in_prefix": "5957e96e3096c6fbe35b02af3a34f5d51005ef8ffc26c37340c39b6b09d83ead",
+        "size_in_bytes": 8015
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/filters/__pycache__/cli.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "ff17791b99136f5576892c42d4c09419ce930afbc7818dba7f0e6d9e6a87bb99",
+        "sha256_in_prefix": "ff17791b99136f5576892c42d4c09419ce930afbc7818dba7f0e6d9e6a87bb99",
+        "size_in_bytes": 3138
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/filters/__pycache__/utils.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "bace13519cf1e6db1b3ca409c4386813b12a8eb8b9db74755a907592e7aede05",
+        "sha256_in_prefix": "bace13519cf1e6db1b3ca409c4386813b12a8eb8b9db74755a907592e7aede05",
+        "size_in_bytes": 1024
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/filters/app.py",
+        "path_type": "hardlink",
+        "sha256": "2264f8ab68948738a7e9ab7782463e3ec70ec49f333311f97549369e01ca2fed",
+        "sha256_in_prefix": "2264f8ab68948738a7e9ab7782463e3ec70ec49f333311f97549369e01ca2fed",
+        "size_in_bytes": 10045
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/filters/base.py",
+        "path_type": "hardlink",
+        "sha256": "709a9cd361014847572fc1381ac71e0e2cfb4e19b81712efa25c375a36305f39",
+        "sha256_in_prefix": "709a9cd361014847572fc1381ac71e0e2cfb4e19b81712efa25c375a36305f39",
+        "size_in_bytes": 5704
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/filters/cli.py",
+        "path_type": "hardlink",
+        "sha256": "16e40c6b87420265081d5eda24422c257a807c9c655b839ecaa6da40ab18fde0",
+        "sha256_in_prefix": "16e40c6b87420265081d5eda24422c257a807c9c655b839ecaa6da40ab18fde0",
+        "size_in_bytes": 1830
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/filters/utils.py",
+        "path_type": "hardlink",
+        "sha256": "97f727f1d01c6781a951ad71b4158a36f72e3e12477e0efa6248d58f28cf0a52",
+        "sha256_in_prefix": "97f727f1d01c6781a951ad71b4158a36f72e3e12477e0efa6248d58f28cf0a52",
+        "size_in_bytes": 848
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/formatted_text/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "1246196ce8a4139d40d35a0ab41d428a8763f3413b9f75cf7b2dfd633ef77ac9",
+        "sha256_in_prefix": "1246196ce8a4139d40d35a0ab41d428a8763f3413b9f75cf7b2dfd633ef77ac9",
+        "size_in_bytes": 1418
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/formatted_text/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "ed9b23a29742fa493ab7fd4b9daea56ec7ae706b10cda8a2233fde5e0734c25f",
+        "sha256_in_prefix": "ed9b23a29742fa493ab7fd4b9daea56ec7ae706b10cda8a2233fde5e0734c25f",
+        "size_in_bytes": 1360
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/formatted_text/__pycache__/ansi.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "241d8e1630cb015ccc78d4b7ad424091f352ce679db4b0c1b659f4714c27c019",
+        "sha256_in_prefix": "241d8e1630cb015ccc78d4b7ad424091f352ce679db4b0c1b659f4714c27c019",
+        "size_in_bytes": 6203
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/formatted_text/__pycache__/base.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "f36f96b6667fa656e95021581ad62e6388f701c39ece407f685a450e58a6b115",
+        "sha256_in_prefix": "f36f96b6667fa656e95021581ad62e6388f701c39ece407f685a450e58a6b115",
+        "size_in_bytes": 5186
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/formatted_text/__pycache__/html.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "a372b43fa13a7d58619bfdfb5061ca7691e7d310146c147ad8e2784870d2b48f",
+        "sha256_in_prefix": "a372b43fa13a7d58619bfdfb5061ca7691e7d310146c147ad8e2784870d2b48f",
+        "size_in_bytes": 4168
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/formatted_text/__pycache__/pygments.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "e61aa5a908e66e8ada281a48150129d25c5a34184ec5ae0e44299958e06ea85e",
+        "sha256_in_prefix": "e61aa5a908e66e8ada281a48150129d25c5a34184ec5ae0e44299958e06ea85e",
+        "size_in_bytes": 1191
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/formatted_text/__pycache__/utils.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "0dadca8aea60c650cd150d9af428ded553194f908b2effcb484f33657c76b918",
+        "sha256_in_prefix": "0dadca8aea60c650cd150d9af428ded553194f908b2effcb484f33657c76b918",
+        "size_in_bytes": 3090
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/formatted_text/ansi.py",
+        "path_type": "hardlink",
+        "sha256": "cf506df11eb6be5bf105ea38b34c26b12a360e28f965b35d9dfe0edb8ebd93b3",
+        "sha256_in_prefix": "cf506df11eb6be5bf105ea38b34c26b12a360e28f965b35d9dfe0edb8ebd93b3",
+        "size_in_bytes": 9750
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/formatted_text/base.py",
+        "path_type": "hardlink",
+        "sha256": "9cb0718f042ac171243b1a6269e3705f285074a3d40fa0a147d04b2baeb784a3",
+        "sha256_in_prefix": "9cb0718f042ac171243b1a6269e3705f285074a3d40fa0a147d04b2baeb784a3",
+        "size_in_bytes": 5153
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/formatted_text/html.py",
+        "path_type": "hardlink",
+        "sha256": "153cfbadd30f3461ee9453f600007ef763058f53c76158779bcf87e87380ad90",
+        "sha256_in_prefix": "153cfbadd30f3461ee9453f600007ef763058f53c76158779bcf87e87380ad90",
+        "size_in_bytes": 4362
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/formatted_text/pygments.py",
+        "path_type": "hardlink",
+        "sha256": "846d5b33988ff06976c9cf76a1c7237a8383b1b90434fd4d4df24f00f513adb8",
+        "sha256_in_prefix": "846d5b33988ff06976c9cf76a1c7237a8383b1b90434fd4d4df24f00f513adb8",
+        "size_in_bytes": 759
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/formatted_text/utils.py",
+        "path_type": "hardlink",
+        "sha256": "1775fa402eecc3917dc5c376dfc55a20251d34fdf42192d48984183adb08ad60",
+        "sha256_in_prefix": "1775fa402eecc3917dc5c376dfc55a20251d34fdf42192d48984183adb08ad60",
+        "size_in_bytes": 3015
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/history.py",
+        "path_type": "hardlink",
+        "sha256": "8c9841a186fb6a61114a7ea1ec6c50e08f9f914953e8ff7950d80b64353e7162",
+        "sha256_in_prefix": "8c9841a186fb6a61114a7ea1ec6c50e08f9f914953e8ff7950d80b64353e7162",
+        "size_in_bytes": 9352
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/input/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "515ff814ff1d3ed86891d92b04f1e4ecc0d590ee27031965c2e4cc0f5be76ace",
+        "sha256_in_prefix": "515ff814ff1d3ed86891d92b04f1e4ecc0d590ee27031965c2e4cc0f5be76ace",
+        "size_in_bytes": 237
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/input/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "dafe2b35fa9ad9653b68890d694c15a3520793109e8e8276a076baa3040af4e0",
+        "sha256_in_prefix": "dafe2b35fa9ad9653b68890d694c15a3520793109e8e8276a076baa3040af4e0",
+        "size_in_bytes": 348
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/input/__pycache__/ansi_escape_sequences.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "8eecc7bc80cf3d3d92e24a421ee1753f46bf6ead9cb5f7de704caef0750af22b",
+        "sha256_in_prefix": "8eecc7bc80cf3d3d92e24a421ee1753f46bf6ead9cb5f7de704caef0750af22b",
+        "size_in_bytes": 8464
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/input/__pycache__/base.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "29e188189f442bf13361348bd90f02331144beb1997ad4580de904c7e75a4d9f",
+        "sha256_in_prefix": "29e188189f442bf13361348bd90f02331144beb1997ad4580de904c7e75a4d9f",
+        "size_in_bytes": 5344
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/input/__pycache__/defaults.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "7118ed800e6e1026d17bde376da7d2c6884a149c756bf3aace26d06e4e64630c",
+        "sha256_in_prefix": "7118ed800e6e1026d17bde376da7d2c6884a149c756bf3aace26d06e4e64630c",
+        "size_in_bytes": 1959
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/input/__pycache__/posix_pipe.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "0940e67123ac7f170e39b658d315f547f1bf16e127479fecf058fdf66c311461",
+        "sha256_in_prefix": "0940e67123ac7f170e39b658d315f547f1bf16e127479fecf058fdf66c311461",
+        "size_in_bytes": 4150
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/input/__pycache__/posix_utils.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "d48aaea29e0d26136899af3e7f82eaa5666465e96ea42dce9fff0b626e77c56f",
+        "sha256_in_prefix": "d48aaea29e0d26136899af3e7f82eaa5666465e96ea42dce9fff0b626e77c56f",
+        "size_in_bytes": 2433
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/input/__pycache__/typeahead.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "410bec392660e81cf93ceb4018817b616fd79b3873fb5926142119fe4b32b3a3",
+        "sha256_in_prefix": "410bec392660e81cf93ceb4018817b616fd79b3873fb5926142119fe4b32b3a3",
+        "size_in_bytes": 2771
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/input/__pycache__/vt100.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "6a18a3c7373421ffe3c431d4cfb83fb609983221b69282edff365d3d01563b76",
+        "sha256_in_prefix": "6a18a3c7373421ffe3c431d4cfb83fb609983221b69282edff365d3d01563b76",
+        "size_in_bytes": 7910
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/input/__pycache__/vt100_parser.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "a1a3092384b83f1368dc41ed7458c1eb119dbc1ec0a92f25a212215d20ee969b",
+        "sha256_in_prefix": "a1a3092384b83f1368dc41ed7458c1eb119dbc1ec0a92f25a212215d20ee969b",
+        "size_in_bytes": 6077
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/input/__pycache__/win32.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "0b68c08a7fe05ecda46c6cdfe53ffb4b89dfc18938da7f063170c76ecf7d00d0",
+        "sha256_in_prefix": "0b68c08a7fe05ecda46c6cdfe53ffb4b89dfc18938da7f063170c76ecf7d00d0",
+        "size_in_bytes": 17948
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/input/__pycache__/win32_pipe.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "7c821c4db9b6572e9e3d52bbdc3cab80cf28e1bf015794b9bc9f6c8e2c4b6a68",
+        "sha256_in_prefix": "7c821c4db9b6572e9e3d52bbdc3cab80cf28e1bf015794b9bc9f6c8e2c4b6a68",
+        "size_in_bytes": 5097
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/input/ansi_escape_sequences.py",
+        "path_type": "hardlink",
+        "sha256": "778c4eb0935eeb68e7d6b606a97d34bb27eb6ebed2e51cf9aba70bca7206bbd2",
+        "sha256_in_prefix": "778c4eb0935eeb68e7d6b606a97d34bb27eb6ebed2e51cf9aba70bca7206bbd2",
+        "size_in_bytes": 13671
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/input/base.py",
+        "path_type": "hardlink",
+        "sha256": "50973cb415fa01c8795cf25a90f7062db3f8510d03c503d45cdff049123525ed",
+        "sha256_in_prefix": "50973cb415fa01c8795cf25a90f7062db3f8510d03c503d45cdff049123525ed",
+        "size_in_bytes": 4007
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/input/defaults.py",
+        "path_type": "hardlink",
+        "sha256": "fc22716601f61f6aa32c0361d02a283c2da13ce4eb0ed04c3f43c1ddd56d84d0",
+        "sha256_in_prefix": "fc22716601f61f6aa32c0361d02a283c2da13ce4eb0ed04c3f43c1ddd56d84d0",
+        "size_in_bytes": 2483
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/input/posix_pipe.py",
+        "path_type": "hardlink",
+        "sha256": "6e8050f6300871cd4301e35bfbd452f781b2138ca9fbb43dd93937863bb8fd7b",
+        "sha256_in_prefix": "6e8050f6300871cd4301e35bfbd452f781b2138ca9fbb43dd93937863bb8fd7b",
+        "size_in_bytes": 3124
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/input/posix_utils.py",
+        "path_type": "hardlink",
+        "sha256": "c95c7826afb1d30e63dfc49a33fc8929c97fb5a9e51d938d7b45104180696e98",
+        "sha256_in_prefix": "c95c7826afb1d30e63dfc49a33fc8929c97fb5a9e51d938d7b45104180696e98",
+        "size_in_bytes": 3937
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/input/typeahead.py",
+        "path_type": "hardlink",
+        "sha256": "98dc18a016a0c4d4bbded6295d910f238fae41afcc47e0c459ad7a3c6a5d7363",
+        "sha256_in_prefix": "98dc18a016a0c4d4bbded6295d910f238fae41afcc47e0c459ad7a3c6a5d7363",
+        "size_in_bytes": 2538
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/input/vt100.py",
+        "path_type": "hardlink",
+        "sha256": "07c4a6a2204b2370efcda3aa5cf991bcbe84eb7d518c756294eb7079af28e9c8",
+        "sha256_in_prefix": "07c4a6a2204b2370efcda3aa5cf991bcbe84eb7d518c756294eb7079af28e9c8",
+        "size_in_bytes": 10613
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/input/vt100_parser.py",
+        "path_type": "hardlink",
+        "sha256": "d34316d0f7db0d6cd7b9293ee74d117e495795722fbf83bf693438c4c815226e",
+        "sha256_in_prefix": "d34316d0f7db0d6cd7b9293ee74d117e495795722fbf83bf693438c4c815226e",
+        "size_in_bytes": 8400
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/input/win32.py",
+        "path_type": "hardlink",
+        "sha256": "e9d0f0c7b94137a2d86d846490e56d6c91861e7fa5edc9888a36d516c9c2e508",
+        "sha256_in_prefix": "e9d0f0c7b94137a2d86d846490e56d6c91861e7fa5edc9888a36d516c9c2e508",
+        "size_in_bytes": 25721
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/input/win32_pipe.py",
+        "path_type": "hardlink",
+        "sha256": "7574dc50d35e1f374e56ea9aa093f494999dca8144d453bedaabf8f1d7d92c2e",
+        "sha256_in_prefix": "7574dc50d35e1f374e56ea9aa093f494999dca8144d453bedaabf8f1d7d92c2e",
+        "size_in_bytes": 4672
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "66a1c1dd1e78f0d113b7a0fa362c160a3af1160551626cad0bd970638f4220c0",
+        "sha256_in_prefix": "66a1c1dd1e78f0d113b7a0fa362c160a3af1160551626cad0bd970638f4220c0",
+        "size_in_bytes": 411
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "e534ff07df3758717c317db7bc816cba94768006a97e8c7954e5284e6930e67c",
+        "sha256_in_prefix": "e534ff07df3758717c317db7bc816cba94768006a97e8c7954e5284e6930e67c",
+        "size_in_bytes": 451
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/__pycache__/defaults.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "3cbf9af10158e29dc3c80f11d4636af2d2639417dbf7f9a9c04f86ecbe6b4280",
+        "sha256_in_prefix": "3cbf9af10158e29dc3c80f11d4636af2d2639417dbf7f9a9c04f86ecbe6b4280",
+        "size_in_bytes": 1393
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/__pycache__/digraphs.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "6f7fd8004d9da2be4f897e94f89ab6c07964cd4b47d6beaf12cbdf1ba1abba11",
+        "sha256_in_prefix": "6f7fd8004d9da2be4f897e94f89ab6c07964cd4b47d6beaf12cbdf1ba1abba11",
+        "size_in_bytes": 67659
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/__pycache__/emacs_state.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "d0a0d7c9fbd289895e65b605c553cc7cfb621368ed5463080bb63f0518c39ab9",
+        "sha256_in_prefix": "d0a0d7c9fbd289895e65b605c553cc7cfb621368ed5463080bb63f0518c39ab9",
+        "size_in_bytes": 1342
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/__pycache__/key_bindings.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "0af93d2c09067fa375554eda899dcdc70ab7ea684d3ed0f9240008d69fdeed83",
+        "sha256_in_prefix": "0af93d2c09067fa375554eda899dcdc70ab7ea684d3ed0f9240008d69fdeed83",
+        "size_in_bytes": 18804
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/__pycache__/key_processor.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "f42e2c0d227bb0fd799ec425d973c76511f7296b786cb54de8be8df44b73c9f5",
+        "sha256_in_prefix": "f42e2c0d227bb0fd799ec425d973c76511f7296b786cb54de8be8df44b73c9f5",
+        "size_in_bytes": 15170
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/__pycache__/vi_state.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "29b22a193afd82b4a6506a3bcff08f44a32510759d21152f3372d2640ceca544",
+        "sha256_in_prefix": "29b22a193afd82b4a6506a3bcff08f44a32510759d21152f3372d2640ceca544",
+        "size_in_bytes": 2544
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "cabd4934934583f7d9bfb0c573752c1781909e4e24da82adc75d97278ebc9ffd",
+        "sha256_in_prefix": "cabd4934934583f7d9bfb0c573752c1781909e4e24da82adc75d97278ebc9ffd",
+        "size_in_bytes": 169
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/auto_suggest.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "7ec3662e4e8b043dce35c8f00280a69c46caac750cf6fb2626af0e2b835c5189",
+        "sha256_in_prefix": "7ec3662e4e8b043dce35c8f00280a69c46caac750cf6fb2626af0e2b835c5189",
+        "size_in_bytes": 2228
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/basic.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "d6e995013f2fce40fe154426c3890c86b40258173a085739bafe5e3a5042e814",
+        "sha256_in_prefix": "d6e995013f2fce40fe154426c3890c86b40258173a085739bafe5e3a5042e814",
+        "size_in_bytes": 6721
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/completion.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "bbf97e6196ef1215e792cae5dc6aca831b375e1def4875f8cbe6eb866295b5f1",
+        "sha256_in_prefix": "bbf97e6196ef1215e792cae5dc6aca831b375e1def4875f8cbe6eb866295b5f1",
+        "size_in_bytes": 6182
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/cpr.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "7e739cc854de7087d82410034cee8bcb7c36f46efb1ab6dd0a3eee3d97be80b0",
+        "sha256_in_prefix": "7e739cc854de7087d82410034cee8bcb7c36f46efb1ab6dd0a3eee3d97be80b0",
+        "size_in_bytes": 1041
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/emacs.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "3f3668eaed75b6a390b57bad1f6d5476257873ee9320ac3a884aadabfc526005",
+        "sha256_in_prefix": "3f3668eaed75b6a390b57bad1f6d5476257873ee9320ac3a884aadabfc526005",
+        "size_in_bytes": 16463
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/focus.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "c0580eb4ef0985605e23c716acd842587e18c427a34ad5020ee093badc0bf9a2",
+        "sha256_in_prefix": "c0580eb4ef0985605e23c716acd842587e18c427a34ad5020ee093badc0bf9a2",
+        "size_in_bytes": 724
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/mouse.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "ab8eb61ed30aa649f4f4c79ea088e544146798670c5cf8b85389e679058850b7",
+        "sha256_in_prefix": "ab8eb61ed30aa649f4f4c79ea088e544146798670c5cf8b85389e679058850b7",
+        "size_in_bytes": 7208
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/named_commands.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "d623f3f5574794fcf75d1f34a4fbd641e85e066bf5b866b93a0a37357fbc578f",
+        "sha256_in_prefix": "d623f3f5574794fcf75d1f34a4fbd641e85e066bf5b866b93a0a37357fbc578f",
+        "size_in_bytes": 18399
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/open_in_editor.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "78ea988e971a2c523c85af58e5ba95caa5c1d1ebb27614e817b7a1192fd28ea0",
+        "sha256_in_prefix": "78ea988e971a2c523c85af58e5ba95caa5c1d1ebb27614e817b7a1192fd28ea0",
+        "size_in_bytes": 1393
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/page_navigation.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "66f910336502c1408b9f4db1cc7d568cd41814c4b134d45bfabfa9a1f9829777",
+        "sha256_in_prefix": "66f910336502c1408b9f4db1cc7d568cd41814c4b134d45bfabfa9a1f9829777",
+        "size_in_bytes": 1917
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/scroll.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "8cec77e783320c6839804c4d5a1fbc12d884d5ddfdc658608d46a0155b43a8af",
+        "sha256_in_prefix": "8cec77e783320c6839804c4d5a1fbc12d884d5ddfdc658608d46a0155b43a8af",
+        "size_in_bytes": 3935
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/search.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "ea8f751325a9926eb62b3225859f89efb1060532152ddf4e326a22df03ab4e83",
+        "sha256_in_prefix": "ea8f751325a9926eb62b3225859f89efb1060532152ddf4e326a22df03ab4e83",
+        "size_in_bytes": 2857
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/__pycache__/vi.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "b5a35ccd0bd48a7075cca7c1f6348f10a3d28af61abc3db777df65b2face2a0c",
+        "sha256_in_prefix": "b5a35ccd0bd48a7075cca7c1f6348f10a3d28af61abc3db777df65b2face2a0c",
+        "size_in_bytes": 62032
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/auto_suggest.py",
+        "path_type": "hardlink",
+        "sha256": "b9c6abdce12f51230952a2b592cdcb04d042c9bbe322ab289f4998722b0f2c07",
+        "sha256_in_prefix": "b9c6abdce12f51230952a2b592cdcb04d042c9bbe322ab289f4998722b0f2c07",
+        "size_in_bytes": 1808
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/basic.py",
+        "path_type": "hardlink",
+        "sha256": "faf618aa207b9660383ca70f25b80a12bdaf4fd96bb8268cd0d03a3b343d8de9",
+        "sha256_in_prefix": "faf618aa207b9660383ca70f25b80a12bdaf4fd96bb8268cd0d03a3b343d8de9",
+        "size_in_bytes": 7215
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/completion.py",
+        "path_type": "hardlink",
+        "sha256": "895400d51892801abe263ac41c8146c0fda1727e66b6fd1c83b09dea3852c3e8",
+        "sha256_in_prefix": "895400d51892801abe263ac41c8146c0fda1727e66b6fd1c83b09dea3852c3e8",
+        "size_in_bytes": 6878
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/cpr.py",
+        "path_type": "hardlink",
+        "sha256": "3b988d13d3ce285f7f97e78eb9cd1b80b162e3ae9b997d91b6158112c00ee597",
+        "sha256_in_prefix": "3b988d13d3ce285f7f97e78eb9cd1b80b162e3ae9b997d91b6158112c00ee597",
+        "size_in_bytes": 750
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/emacs.py",
+        "path_type": "hardlink",
+        "sha256": "0bf52820382b2b0218c499a7bf22b15224312e1f5da344ebfb5f5ab35c2e27c1",
+        "sha256_in_prefix": "0bf52820382b2b0218c499a7bf22b15224312e1f5da344ebfb5f5ab35c2e27c1",
+        "size_in_bytes": 19613
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/focus.py",
+        "path_type": "hardlink",
+        "sha256": "b36ff0ef7afea1448cbfa2db88d1dc64119ef5110ea0447d9c7cd181a8aef3f5",
+        "sha256_in_prefix": "b36ff0ef7afea1448cbfa2db88d1dc64119ef5110ea0447d9c7cd181a8aef3f5",
+        "size_in_bytes": 471
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/mouse.py",
+        "path_type": "hardlink",
+        "sha256": "225a68f1d698a69d4d56f6ee31a531e5299245e109da75d868c66604a0f47960",
+        "sha256_in_prefix": "225a68f1d698a69d4d56f6ee31a531e5299245e109da75d868c66604a0f47960",
+        "size_in_bytes": 18585
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/named_commands.py",
+        "path_type": "hardlink",
+        "sha256": "a18dc6efae588a5235d83299965c31c500c66343f0c2a77f44b25a52cc3a6e91",
+        "sha256_in_prefix": "a18dc6efae588a5235d83299965c31c500c66343f0c2a77f44b25a52cc3a6e91",
+        "size_in_bytes": 18375
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/open_in_editor.py",
+        "path_type": "hardlink",
+        "sha256": "511a6cc477e307f0602694daf1d7747aca2c85b3b2ac6c74729d98a96c879013",
+        "sha256_in_prefix": "511a6cc477e307f0602694daf1d7747aca2c85b3b2ac6c74729d98a96c879013",
+        "size_in_bytes": 1319
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/page_navigation.py",
+        "path_type": "hardlink",
+        "sha256": "7c66dc6e23f7f6a08706ae4ad4e7e06516b1182504efb0f45e1652c5818ba7b0",
+        "sha256_in_prefix": "7c66dc6e23f7f6a08706ae4ad4e7e06516b1182504efb0f45e1652c5818ba7b0",
+        "size_in_bytes": 2355
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/scroll.py",
+        "path_type": "hardlink",
+        "sha256": "5cdd3995f87d53ac1d0f5fdfb8da9be8093112105b470ccf82c9f3ab582bae3b",
+        "sha256_in_prefix": "5cdd3995f87d53ac1d0f5fdfb8da9be8093112105b470ccf82c9f3ab582bae3b",
+        "size_in_bytes": 5576
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/search.py",
+        "path_type": "hardlink",
+        "sha256": "9e56a7a613aa0b0cfbf3b0b76f13ca58af9ee7eb5ac4aa966cfc8259b9ea3281",
+        "sha256_in_prefix": "9e56a7a613aa0b0cfbf3b0b76f13ca58af9ee7eb5ac4aa966cfc8259b9ea3281",
+        "size_in_bytes": 2595
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/bindings/vi.py",
+        "path_type": "hardlink",
+        "sha256": "3abf7c59c6fd8efc9e331b09ca5b8d407750fd381a657a71d978e0db22471f45",
+        "sha256_in_prefix": "3abf7c59c6fd8efc9e331b09ca5b8d407750fd381a657a71d978e0db22471f45",
+        "size_in_bytes": 75520
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/defaults.py",
+        "path_type": "hardlink",
+        "sha256": "a7902f88d29526c63339328e57028531e8b5455caa8a21ee53e0244d42943ccc",
+        "sha256_in_prefix": "a7902f88d29526c63339328e57028531e8b5455caa8a21ee53e0244d42943ccc",
+        "size_in_bytes": 1938
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/digraphs.py",
+        "path_type": "hardlink",
+        "sha256": "681b51be048ed7752506ff6b81ce6732122d826e8a723570dcd2b9c03299ac3d",
+        "sha256_in_prefix": "681b51be048ed7752506ff6b81ce6732122d826e8a723570dcd2b9c03299ac3d",
+        "size_in_bytes": 32780
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/emacs_state.py",
+        "path_type": "hardlink",
+        "sha256": "18d2901031e28b5c0d2256c6f362fde626f75140bd2a617eaa2bb46e39ccd397",
+        "sha256_in_prefix": "18d2901031e28b5c0d2256c6f362fde626f75140bd2a617eaa2bb46e39ccd397",
+        "size_in_bytes": 889
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/key_bindings.py",
+        "path_type": "hardlink",
+        "sha256": "5d65ffcdd71076666983e757277ba5256110ba08c7823a6c4a99817be414201a",
+        "sha256_in_prefix": "5d65ffcdd71076666983e757277ba5256110ba08c7823a6c4a99817be414201a",
+        "size_in_bytes": 20967
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/key_processor.py",
+        "path_type": "hardlink",
+        "sha256": "cdfaec75f111d960d9655d902bdead7e58784b988916d3d1f739a3806a6d05be",
+        "sha256_in_prefix": "cdfaec75f111d960d9655d902bdead7e58784b988916d3d1f739a3806a6d05be",
+        "size_in_bytes": 17641
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/key_binding/vi_state.py",
+        "path_type": "hardlink",
+        "sha256": "e8b54afdd0ee61d8d2dce3759c26fae8854355a528e0a55673a5108e7d81df14",
+        "sha256_in_prefix": "e8b54afdd0ee61d8d2dce3759c26fae8854355a528e0a55673a5108e7d81df14",
+        "size_in_bytes": 3360
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/keys.py",
+        "path_type": "hardlink",
+        "sha256": "e1f3102764cba7252378a111c648dcd1fe3044ef528801d66fd788710e3f5594",
+        "sha256_in_prefix": "e1f3102764cba7252378a111c648dcd1fe3044ef528801d66fd788710e3f5594",
+        "size_in_bytes": 4910
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c57d61995d5b944d898ab7895fff6332d3beef00e63cd8fdcf5c85abb022dc7e",
+        "sha256_in_prefix": "c57d61995d5b944d898ab7895fff6332d3beef00e63cd8fdcf5c85abb022dc7e",
+        "size_in_bytes": 3566
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "1cb3b9f424b9e7e38ccf2e95f34cafc7fa00ef6b9a1c20ca69b622fc5d182b6d",
+        "sha256_in_prefix": "1cb3b9f424b9e7e38ccf2e95f34cafc7fa00ef6b9a1c20ca69b622fc5d182b6d",
+        "size_in_bytes": 3218
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/containers.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "b897480e03e227d47805eccb43996e41c3997f5d30ba7f1b40794ec49291d8cc",
+        "sha256_in_prefix": "b897480e03e227d47805eccb43996e41c3997f5d30ba7f1b40794ec49291d8cc",
+        "size_in_bytes": 68254
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/controls.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "6cfe9855a6aa3edac891631c65aa1e2acaf592024c2705fe601641c120610ba2",
+        "sha256_in_prefix": "6cfe9855a6aa3edac891631c65aa1e2acaf592024c2705fe601641c120610ba2",
+        "size_in_bytes": 27706
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/dimension.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "117ca7318f26b15fb8ef8a3175cccebc74f0098ea1eb84ef83701057d04b60a6",
+        "sha256_in_prefix": "117ca7318f26b15fb8ef8a3175cccebc74f0098ea1eb84ef83701057d04b60a6",
+        "size_in_bytes": 5841
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/dummy.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "8f7cd26487857bede86dc9fa52575abd1be89a9a578d6f3bd11fdbd6e1e92877",
+        "sha256_in_prefix": "8f7cd26487857bede86dc9fa52575abd1be89a9a578d6f3bd11fdbd6e1e92877",
+        "size_in_bytes": 1377
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/layout.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "7834d85e14d62b5970652dfbac042708f17a51d14a76bf74cc1f9afd5b95fd6d",
+        "sha256_in_prefix": "7834d85e14d62b5970652dfbac042708f17a51d14a76bf74cc1f9afd5b95fd6d",
+        "size_in_bytes": 10918
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/margins.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "47b04640038c942c9dc5596736f866f1198ab52163a2b560e6aeec97db183202",
+        "sha256_in_prefix": "47b04640038c942c9dc5596736f866f1198ab52163a2b560e6aeec97db183202",
+        "size_in_bytes": 9001
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/menus.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "e5004393f7b894f22ec540f63b927e479e8adcfc41be3ca285790318e99bcfd2",
+        "sha256_in_prefix": "e5004393f7b894f22ec540f63b927e479e8adcfc41be3ca285790318e99bcfd2",
+        "size_in_bytes": 21277
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/mouse_handlers.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "c2fb0a4438c5bd5b4d0c75596cd592c59ead4c087ef27f1abaf3aabc93e28fa3",
+        "sha256_in_prefix": "c2fb0a4438c5bd5b4d0c75596cd592c59ead4c087ef27f1abaf3aabc93e28fa3",
+        "size_in_bytes": 1910
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/processors.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "fd1b7cbf89a02ccd3560b4681acc12846606bd41822aba514749d01a954dac9e",
+        "sha256_in_prefix": "fd1b7cbf89a02ccd3560b4681acc12846606bd41822aba514749d01a954dac9e",
+        "size_in_bytes": 28393
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/screen.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "aa33e4aea6ab17d1a5267bfb92112b1ddc4ad3ada841b3cdabc5424ecb8babca",
+        "sha256_in_prefix": "aa33e4aea6ab17d1a5267bfb92112b1ddc4ad3ada841b3cdabc5424ecb8babca",
+        "size_in_bytes": 8500
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/scrollable_pane.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "e474e94cc83fca4f9d46f8692cecb1d543ee15e6f455a1342acf7b91530e701e",
+        "sha256_in_prefix": "e474e94cc83fca4f9d46f8692cecb1d543ee15e6f455a1342acf7b91530e701e",
+        "size_in_bytes": 12248
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/__pycache__/utils.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "df21c17c11fa5136c126f51bd5c3c54dabcd350c80fcb844422c9890c2957d96",
+        "sha256_in_prefix": "df21c17c11fa5136c126f51bd5c3c54dabcd350c80fcb844422c9890c2957d96",
+        "size_in_bytes": 2737
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/containers.py",
+        "path_type": "hardlink",
+        "sha256": "b4c7f62a8600a89f466ef0029bcbea26ff2c158c002719c42c7388f470946f22",
+        "sha256_in_prefix": "b4c7f62a8600a89f466ef0029bcbea26ff2c158c002719c42c7388f470946f22",
+        "size_in_bytes": 99601
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/controls.py",
+        "path_type": "hardlink",
+        "sha256": "5d8d688bc364dd2be79db35ca560869e08d3e915c9b53c43d881e4fa7bdf1b94",
+        "sha256_in_prefix": "5d8d688bc364dd2be79db35ca560869e08d3e915c9b53c43d881e4fa7bdf1b94",
+        "size_in_bytes": 35957
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/dimension.py",
+        "path_type": "hardlink",
+        "sha256": "941cf1e3c0fb76312aebd4cea2c9996d8708cb263322bd7231068c6514961e70",
+        "sha256_in_prefix": "941cf1e3c0fb76312aebd4cea2c9996d8708cb263322bd7231068c6514961e70",
+        "size_in_bytes": 7043
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/dummy.py",
+        "path_type": "hardlink",
+        "sha256": "394a9bba4809b69ccff0e8aaab9b499b50837b3be9a9faff5faa3b6adb0477fd",
+        "sha256_in_prefix": "394a9bba4809b69ccff0e8aaab9b499b50837b3be9a9faff5faa3b6adb0477fd",
+        "size_in_bytes": 1010
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/layout.py",
+        "path_type": "hardlink",
+        "sha256": "3fb67d16823405452df8e75a0c3f0e354f858cdd7cc6e28cb6cce59836c89e01",
+        "sha256_in_prefix": "3fb67d16823405452df8e75a0c3f0e354f858cdd7cc6e28cb6cce59836c89e01",
+        "size_in_bytes": 13988
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/margins.py",
+        "path_type": "hardlink",
+        "sha256": "227deba95d94b0b3f6c2528aab0e07383e27b575e2ae90e2411df8281e6505a1",
+        "sha256_in_prefix": "227deba95d94b0b3f6c2528aab0e07383e27b575e2ae90e2411df8281e6505a1",
+        "size_in_bytes": 10378
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/menus.py",
+        "path_type": "hardlink",
+        "sha256": "4400760e13e15e2df139432c5bd06237f6e6904290896a2c2d286288f8a3ee92",
+        "sha256_in_prefix": "4400760e13e15e2df139432c5bd06237f6e6904290896a2c2d286288f8a3ee92",
+        "size_in_bytes": 27366
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/mouse_handlers.py",
+        "path_type": "hardlink",
+        "sha256": "b111e5024c187ca4b885a7a3b8fb3339be871d825f540b7ed91c9d19c9a266e6",
+        "sha256_in_prefix": "b111e5024c187ca4b885a7a3b8fb3339be871d825f540b7ed91c9d19c9a266e6",
+        "size_in_bytes": 1568
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/processors.py",
+        "path_type": "hardlink",
+        "sha256": "a382d0fddc30fae9d57c28b816110aeb8568d08e6268c81b9a27eb8a1dcb907b",
+        "sha256_in_prefix": "a382d0fddc30fae9d57c28b816110aeb8568d08e6268c81b9a27eb8a1dcb907b",
+        "size_in_bytes": 34134
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/screen.py",
+        "path_type": "hardlink",
+        "sha256": "cda9c0bd2f293afb7937bd699eeb081c911c599513007255ce13170efdb338b8",
+        "sha256_in_prefix": "cda9c0bd2f293afb7937bd699eeb081c911c599513007255ce13170efdb338b8",
+        "size_in_bytes": 10241
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/scrollable_pane.py",
+        "path_type": "hardlink",
+        "sha256": "160d5f44a368172c53362cf3ba25ccced67a358047ea102140d6bf607f27d674",
+        "sha256_in_prefix": "160d5f44a368172c53362cf3ba25ccced67a358047ea102140d6bf607f27d674",
+        "size_in_bytes": 19283
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/layout/utils.py",
+        "path_type": "hardlink",
+        "sha256": "738ee8e38fb638ab6893fa497fd73c1a1d61fda187ffcf38f594d266a5595bed",
+        "sha256_in_prefix": "738ee8e38fb638ab6893fa497fd73c1a1d61fda187ffcf38f594d266a5595bed",
+        "size_in_bytes": 2398
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/lexers/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "287a9c1663677a111c2c834c37c5f9da232f4fd236d4d349e6f9788bc3461064",
+        "sha256_in_prefix": "287a9c1663677a111c2c834c37c5f9da232f4fd236d4d349e6f9788bc3461064",
+        "size_in_bytes": 372
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/lexers/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "0904e65bc9af96abeb2cd0e270f37c3e36da721ef4e86840c4e2107b520e9dad",
+        "sha256_in_prefix": "0904e65bc9af96abeb2cd0e270f37c3e36da721ef4e86840c4e2107b520e9dad",
+        "size_in_bytes": 486
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/lexers/__pycache__/base.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "1e3d83889f200dd4f0e751a3ae8231371d925baf3e721da26b3b28a8205111bc",
+        "sha256_in_prefix": "1e3d83889f200dd4f0e751a3ae8231371d925baf3e721da26b3b28a8205111bc",
+        "size_in_bytes": 3373
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/lexers/__pycache__/pygments.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "060f47e635d0758865f29098226f0125ad5b6596111c4faac7117396e2a945ab",
+        "sha256_in_prefix": "060f47e635d0758865f29098226f0125ad5b6596111c4faac7117396e2a945ab",
+        "size_in_bytes": 9480
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/lexers/base.py",
+        "path_type": "hardlink",
+        "sha256": "e9d0566b126cf6a439aa02db14347cfcc94abbfc188e32484983087abbe7fa52",
+        "sha256_in_prefix": "e9d0566b126cf6a439aa02db14347cfcc94abbfc188e32484983087abbe7fa52",
+        "size_in_bytes": 2326
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/lexers/pygments.py",
+        "path_type": "hardlink",
+        "sha256": "5615e56bcb20cd0e6433402ea7f666f579b9d040db983f87d91b78c6f440e416",
+        "sha256_in_prefix": "5615e56bcb20cd0e6433402ea7f666f579b9d040db983f87d91b78c6f440e416",
+        "size_in_bytes": 11952
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/log.py",
+        "path_type": "hardlink",
+        "sha256": "98cde7259d06bec0d2cabe1ac0d97bcb0cca5c0bb709cfe8e65228413a42d5bb",
+        "sha256_in_prefix": "98cde7259d06bec0d2cabe1ac0d97bcb0cca5c0bb709cfe8e65228413a42d5bb",
+        "size_in_bytes": 116
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/mouse_events.py",
+        "path_type": "hardlink",
+        "sha256": "f4a014d99294f1ffe1ed272371c1d0f1b11b3d315d67fe68e10c4b9a24546295",
+        "sha256_in_prefix": "f4a014d99294f1ffe1ed272371c1d0f1b11b3d315d67fe68e10c4b9a24546295",
+        "size_in_bytes": 2538
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/output/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d3befe4fc5d9e1f0f8a457a8ec5b5b5189e862821932b883e8223aca7b096b91",
+        "sha256_in_prefix": "d3befe4fc5d9e1f0f8a457a8ec5b5b5189e862821932b883e8223aca7b096b91",
+        "size_in_bytes": 244
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/output/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "3ab90114ee89579a557a559c5792e5bfa641d1a8e41498f8cd59ae8783d56c21",
+        "sha256_in_prefix": "3ab90114ee89579a557a559c5792e5bfa641d1a8e41498f8cd59ae8783d56c21",
+        "size_in_bytes": 345
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/output/__pycache__/base.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "8da92b6b8c020ef9ec841bece054e8bf90f12c1b094f991da4fa11ef286c290f",
+        "sha256_in_prefix": "8da92b6b8c020ef9ec841bece054e8bf90f12c1b094f991da4fa11ef286c290f",
+        "size_in_bytes": 13592
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/output/__pycache__/color_depth.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "235b6fada22f622009c8fa375510c8a7bdda3b44d143c480b45423d55ec4aff0",
+        "sha256_in_prefix": "235b6fada22f622009c8fa375510c8a7bdda3b44d143c480b45423d55ec4aff0",
+        "size_in_bytes": 1650
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/output/__pycache__/conemu.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "0651c214ee5aa8f31c53bc89e971c52497ae0e9bfbd009cb82ace039715a64d6",
+        "sha256_in_prefix": "0651c214ee5aa8f31c53bc89e971c52497ae0e9bfbd009cb82ace039715a64d6",
+        "size_in_bytes": 2267
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/output/__pycache__/defaults.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "90c5b15c4ed0985a56bb2f0868e4359579da66ad82c214794421286a5ed6b402",
+        "sha256_in_prefix": "90c5b15c4ed0985a56bb2f0868e4359579da66ad82c214794421286a5ed6b402",
+        "size_in_bytes": 2189
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/output/__pycache__/flush_stdout.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "77e30001da7ea699098f87a2d75466664e97161d36f6d05194a2a17e7bddcd6a",
+        "sha256_in_prefix": "77e30001da7ea699098f87a2d75466664e97161d36f6d05194a2a17e7bddcd6a",
+        "size_in_bytes": 1326
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/output/__pycache__/plain_text.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "b0c8a2912ba94b83cdbe82910610e9c92378e200975169a51f1f39db960d812c",
+        "sha256_in_prefix": "b0c8a2912ba94b83cdbe82910610e9c92378e200975169a51f1f39db960d812c",
+        "size_in_bytes": 6704
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/output/__pycache__/vt100.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "c52790ee48c0a949ed72a50a0915742132fff9f30e5322122a00039ee830f32f",
+        "sha256_in_prefix": "c52790ee48c0a949ed72a50a0915742132fff9f30e5322122a00039ee830f32f",
+        "size_in_bytes": 18914
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/output/__pycache__/win32.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "611c6738eef41184e8c6c54d76bb6976ee9ca2f79a225875c8a115c04726d7c7",
+        "sha256_in_prefix": "611c6738eef41184e8c6c54d76bb6976ee9ca2f79a225875c8a115c04726d7c7",
+        "size_in_bytes": 18316
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/output/__pycache__/windows10.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "e51a88899a98a2238f7aab0dbd4ea5c4f79036d4bfa398daee9957fae50a16cc",
+        "sha256_in_prefix": "e51a88899a98a2238f7aab0dbd4ea5c4f79036d4bfa398daee9957fae50a16cc",
+        "size_in_bytes": 3042
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/output/base.py",
+        "path_type": "hardlink",
+        "sha256": "7ab27f4323e8cedddcdacec3485dd6d9f067bee11ae988f8b502260c6a8b5ec9",
+        "sha256_in_prefix": "7ab27f4323e8cedddcdacec3485dd6d9f067bee11ae988f8b502260c6a8b5ec9",
+        "size_in_bytes": 8326
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/output/color_depth.py",
+        "path_type": "hardlink",
+        "sha256": "12d142e3aa094b7169ad08772ffaf5feb2dfd9fc69c2fceefebd44d2e41d8202",
+        "sha256_in_prefix": "12d142e3aa094b7169ad08772ffaf5feb2dfd9fc69c2fceefebd44d2e41d8202",
+        "size_in_bytes": 1387
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/output/conemu.py",
+        "path_type": "hardlink",
+        "sha256": "e17348954022b288c5f55eceb4faabea9a1ed265b9607ae557d6b614e27a423d",
+        "sha256_in_prefix": "e17348954022b288c5f55eceb4faabea9a1ed265b9607ae557d6b614e27a423d",
+        "size_in_bytes": 1842
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/output/defaults.py",
+        "path_type": "hardlink",
+        "sha256": "f5a5ac85d4e702184604bca75803adc8e7f1cbcf9225c5cec59c32d5aa9f5aa6",
+        "sha256_in_prefix": "f5a5ac85d4e702184604bca75803adc8e7f1cbcf9225c5cec59c32d5aa9f5aa6",
+        "size_in_bytes": 3561
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/output/flush_stdout.py",
+        "path_type": "hardlink",
+        "sha256": "cc79b440bed28239b8f4fd96150b00d76a32202feb2b51c38f33de82c3ea5511",
+        "sha256_in_prefix": "cc79b440bed28239b8f4fd96150b00d76a32202feb2b51c38f33de82c3ea5511",
+        "size_in_bytes": 3206
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/output/plain_text.py",
+        "path_type": "hardlink",
+        "sha256": "602eee791e25971792983ca832c0dd0c566fc948d7da07b1bb8908eae78586ee",
+        "sha256_in_prefix": "602eee791e25971792983ca832c0dd0c566fc948d7da07b1bb8908eae78586ee",
+        "size_in_bytes": 3266
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/output/vt100.py",
+        "path_type": "hardlink",
+        "sha256": "b52d1d6df5718fbb71a183ed08b9c7daf3bf592042e54cac32b42c88d114a5e0",
+        "sha256_in_prefix": "b52d1d6df5718fbb71a183ed08b9c7daf3bf592042e54cac32b42c88d114a5e0",
+        "size_in_bytes": 23031
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/output/win32.py",
+        "path_type": "hardlink",
+        "sha256": "bc0276750c40153d154b0f4408c18c2ddca8998b36dc6a1deef48cf946262b54",
+        "sha256_in_prefix": "bc0276750c40153d154b0f4408c18c2ddca8998b36dc6a1deef48cf946262b54",
+        "size_in_bytes": 22948
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/output/windows10.py",
+        "path_type": "hardlink",
+        "sha256": "9e1eada2ee48b8b40d074d4f9bc8fdd58656cca37a795d3bf801056f5ef5ff72",
+        "sha256_in_prefix": "9e1eada2ee48b8b40d074d4f9bc8fdd58656cca37a795d3bf801056f5ef5ff72",
+        "size_in_bytes": 3162
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/patch_stdout.py",
+        "path_type": "hardlink",
+        "sha256": "85c15875888eb7efdd9c74d6ff4a50eb1765170ef83e0861dcae2a4e0b5c9439",
+        "sha256_in_prefix": "85c15875888eb7efdd9c74d6ff4a50eb1765170ef83e0861dcae2a4e0b5c9439",
+        "size_in_bytes": 9058
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/renderer.py",
+        "path_type": "hardlink",
+        "sha256": "e8b9399ac735ec5593a1b982813647db20d6b9b9bbaed99810e47f62586a71a3",
+        "sha256_in_prefix": "e8b9399ac735ec5593a1b982813647db20d6b9b9bbaed99810e47f62586a71a3",
+        "size_in_bytes": 29165
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/search.py",
+        "path_type": "hardlink",
+        "sha256": "f665205ec50a37d765f368fb2fa1fa391b2e7f72e95e068434e15574dff52375",
+        "sha256_in_prefix": "f665205ec50a37d765f368fb2fa1fa391b2e7f72e95e068434e15574dff52375",
+        "size_in_bytes": 7022
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/selection.py",
+        "path_type": "hardlink",
+        "sha256": "bc30350cd657ad4b940a3b5dbacff76287050fe73eaaea7e4f600f229d403337",
+        "sha256_in_prefix": "bc30350cd657ad4b940a3b5dbacff76287050fe73eaaea7e4f600f229d403337",
+        "size_in_bytes": 1297
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/shortcuts/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "aa66da2386e9cc2f4afa0722bdc01f29ac3fd08c41dd2bc8674d226591f6f03a",
+        "sha256_in_prefix": "aa66da2386e9cc2f4afa0722bdc01f29ac3fd08c41dd2bc8674d226591f6f03a",
+        "size_in_bytes": 913
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/shortcuts/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "60354876be76d20651ba18ef11734a0e197cb2ba04254bb3801578bacf19f80e",
+        "sha256_in_prefix": "60354876be76d20651ba18ef11734a0e197cb2ba04254bb3801578bacf19f80e",
+        "size_in_bytes": 813
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/shortcuts/__pycache__/dialogs.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "4af8deac1c8c5ed7dd772a39a392c98d6d7560e8268e72257ed4c2130b5e4b70",
+        "sha256_in_prefix": "4af8deac1c8c5ed7dd772a39a392c98d6d7560e8268e72257ed4c2130b5e4b70",
+        "size_in_bytes": 8667
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/shortcuts/__pycache__/prompt.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "fa71feed2e4088f6443c3d30f1bde00bfc5a0d56334d5f4e8520d3718408d7be",
+        "sha256_in_prefix": "fa71feed2e4088f6443c3d30f1bde00bfc5a0d56334d5f4e8520d3718408d7be",
+        "size_in_bytes": 40610
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/shortcuts/__pycache__/utils.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "dc056006f3a81c283cc0e49b631b01e2bf6cfca09d52a3bab80783ac9a9a28b7",
+        "sha256_in_prefix": "dc056006f3a81c283cc0e49b631b01e2bf6cfca09d52a3bab80783ac9a9a28b7",
+        "size_in_bytes": 6529
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/shortcuts/dialogs.py",
+        "path_type": "hardlink",
+        "sha256": "31a29c4ca9a5bac7cd0420c3906eb7be80e6c3be0bcf81c745fe58a3da9e6e54",
+        "sha256_in_prefix": "31a29c4ca9a5bac7cd0420c3906eb7be80e6c3be0bcf81c745fe58a3da9e6e54",
+        "size_in_bytes": 9013
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/shortcuts/progress_bar/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "259ea71d2a27b61b5b58ac60e755ea50841f94915e004bf20f2934fcb0ab8f2a",
+        "sha256_in_prefix": "259ea71d2a27b61b5b58ac60e755ea50841f94915e004bf20f2934fcb0ab8f2a",
+        "size_in_bytes": 504
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/shortcuts/progress_bar/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "53c4126cf977808a8b413e16ab94f1a9ce8385ac050f3d3ad211011090c02fec",
+        "sha256_in_prefix": "53c4126cf977808a8b413e16ab94f1a9ce8385ac050f3d3ad211011090c02fec",
+        "size_in_bytes": 568
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/shortcuts/progress_bar/__pycache__/base.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "6793509874a60fdebca4dd09a023067ccd8eb5eaba3ed15ced2a589d9b34b7c4",
+        "sha256_in_prefix": "6793509874a60fdebca4dd09a023067ccd8eb5eaba3ed15ced2a589d9b34b7c4",
+        "size_in_bytes": 13944
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/shortcuts/progress_bar/__pycache__/formatters.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "9a2a31dd1e3f2b0d963bd695d1a3777e0a9a9c1237ae8f9659e13e544b975d26",
+        "sha256_in_prefix": "9a2a31dd1e3f2b0d963bd695d1a3777e0a9a9c1237ae8f9659e13e544b975d26",
+        "size_in_bytes": 12532
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/shortcuts/progress_bar/base.py",
+        "path_type": "hardlink",
+        "sha256": "0b9c0da190d0a8daf37bb64dc60cf6270b5eed4513e321132f7b350568eeebcd",
+        "sha256_in_prefix": "0b9c0da190d0a8daf37bb64dc60cf6270b5eed4513e321132f7b350568eeebcd",
+        "size_in_bytes": 14806
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/shortcuts/progress_bar/formatters.py",
+        "path_type": "hardlink",
+        "sha256": "4341c5fa8e7cf77e5f8f2da001ca80402555797af3d8e28056786a2403d8e557",
+        "sha256_in_prefix": "4341c5fa8e7cf77e5f8f2da001ca80402555797af3d8e28056786a2403d8e557",
+        "size_in_bytes": 11763
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/shortcuts/prompt.py",
+        "path_type": "hardlink",
+        "sha256": "780632b82e7df4d6cd2d55bddf04fdc5ba75e5f657119fc0007f351ac732fd6b",
+        "sha256_in_prefix": "780632b82e7df4d6cd2d55bddf04fdc5ba75e5f657119fc0007f351ac732fd6b",
+        "size_in_bytes": 59812
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/shortcuts/utils.py",
+        "path_type": "hardlink",
+        "sha256": "e177be7590da90340cddac6d216edf72663e7b65b646e0d19cd23aa9c391d079",
+        "sha256_in_prefix": "e177be7590da90340cddac6d216edf72663e7b65b646e0d19cd23aa9c391d079",
+        "size_in_bytes": 7005
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/styles/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e6e9f3c19e7133be5320ecf7bb0afa9ecbd24da14c0bd01e10c178cbf19978d0",
+        "sha256_in_prefix": "e6e9f3c19e7133be5320ecf7bb0afa9ecbd24da14c0bd01e10c178cbf19978d0",
+        "size_in_bytes": 1603
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/styles/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "01d67568435b46c01b327926ddd32c01420ab8b7489d8b292618d088e3f8bf56",
+        "sha256_in_prefix": "01d67568435b46c01b327926ddd32c01420ab8b7489d8b292618d088e3f8bf56",
+        "size_in_bytes": 1257
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/styles/__pycache__/base.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "d463833c129a008f8f0f100cd2c471950863898dcdeaed7e89cf015f624f9352",
+        "sha256_in_prefix": "d463833c129a008f8f0f100cd2c471950863898dcdeaed7e89cf015f624f9352",
+        "size_in_bytes": 4788
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/styles/__pycache__/defaults.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "106e2599e0a29d45ed934f473e2b5aa60591406b0577bb769dfd2a09896a2eaf",
+        "sha256_in_prefix": "106e2599e0a29d45ed934f473e2b5aa60591406b0577bb769dfd2a09896a2eaf",
+        "size_in_bytes": 6055
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/styles/__pycache__/named_colors.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "7423a1af4093ae9cf450838a205a649eb73aabbaaa2c2100c406848821916b1c",
+        "sha256_in_prefix": "7423a1af4093ae9cf450838a205a649eb73aabbaaa2c2100c406848821916b1c",
+        "size_in_bytes": 4823
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/styles/__pycache__/pygments.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "6a466c68c061800a4ce10f738fe015b1420b9c670c57bad5fa1d754a44eafa7c",
+        "sha256_in_prefix": "6a466c68c061800a4ce10f738fe015b1420b9c670c57bad5fa1d754a44eafa7c",
+        "size_in_bytes": 2084
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/styles/__pycache__/style.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "8e5ea8da3f790287e82283fbe3983e02c12facdb4e9236c4084add0ac675354a",
+        "sha256_in_prefix": "8e5ea8da3f790287e82283fbe3983e02c12facdb4e9236c4084add0ac675354a",
+        "size_in_bytes": 10941
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/styles/__pycache__/style_transformation.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "aa50a0a5403822c684a07861bda3c8327e82ebcd85d09c3de4bcbf0d08445c9c",
+        "sha256_in_prefix": "aa50a0a5403822c684a07861bda3c8327e82ebcd85d09c3de4bcbf0d08445c9c",
+        "size_in_bytes": 12882
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/styles/base.py",
+        "path_type": "hardlink",
+        "sha256": "279268861d8e387efc37deb3259030c746305ed00530490b789ec10fa507104a",
+        "sha256_in_prefix": "279268861d8e387efc37deb3259030c746305ed00530490b789ec10fa507104a",
+        "size_in_bytes": 5036
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/styles/defaults.py",
+        "path_type": "hardlink",
+        "sha256": "58bce63bb44949d496081bf84fbd8618fe635de7865d620eb5993023cf7177ca",
+        "sha256_in_prefix": "58bce63bb44949d496081bf84fbd8618fe635de7865d620eb5993023cf7177ca",
+        "size_in_bytes": 8512
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/styles/named_colors.py",
+        "path_type": "hardlink",
+        "sha256": "50fc509c49bc83144e3b03b757ef0634050c681890a1a502062e0cafd5594cbf",
+        "sha256_in_prefix": "50fc509c49bc83144e3b03b757ef0634050c681890a1a502062e0cafd5594cbf",
+        "size_in_bytes": 4355
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/styles/pygments.py",
+        "path_type": "hardlink",
+        "sha256": "047d2d9840915515d05c9901739089bc3cdded748b1d89098362b003598aea5c",
+        "sha256_in_prefix": "047d2d9840915515d05c9901739089bc3cdded748b1d89098362b003598aea5c",
+        "size_in_bytes": 1955
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/styles/style.py",
+        "path_type": "hardlink",
+        "sha256": "c9e2a2e0b5550331df741ac3ec3a8f7e74337aac37290b0d37afa70da1b35f1d",
+        "sha256_in_prefix": "c9e2a2e0b5550331df741ac3ec3a8f7e74337aac37290b0d37afa70da1b35f1d",
+        "size_in_bytes": 13045
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/styles/style_transformation.py",
+        "path_type": "hardlink",
+        "sha256": "05ae93ce2e7d5dd4d863ebf5316b8d9d20c69c337f0ec791dcec638c518d6fff",
+        "sha256_in_prefix": "05ae93ce2e7d5dd4d863ebf5316b8d9d20c69c337f0ec791dcec638c518d6fff",
+        "size_in_bytes": 12439
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/token.py",
+        "path_type": "hardlink",
+        "sha256": "e3fa2caabffddb7e3065ac7ee5e31b6b7a2c638c02a68c0be27c81888e58d361",
+        "sha256_in_prefix": "e3fa2caabffddb7e3065ac7ee5e31b6b7a2c638c02a68c0be27c81888e58d361",
+        "size_in_bytes": 85
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/utils.py",
+        "path_type": "hardlink",
+        "sha256": "b76abc4e78d76209a77a74823ee69fca9d50c0f86d6ce48ee2ad21d55db1792f",
+        "sha256_in_prefix": "b76abc4e78d76209a77a74823ee69fca9d50c0f86d6ce48ee2ad21d55db1792f",
+        "size_in_bytes": 8652
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/validation.py",
+        "path_type": "hardlink",
+        "sha256": "a71dba7492aafd97fce5a6216dbfc040c17f8e5967e325a5d6e4cb24ecee09ce",
+        "sha256_in_prefix": "a71dba7492aafd97fce5a6216dbfc040c17f8e5967e325a5d6e4cb24ecee09ce",
+        "size_in_bytes": 5845
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/widgets/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "8652fb6e68c611280787b03f0279a23a3ce890365ba9fff08d5ff2f8251a70d6",
+        "sha256_in_prefix": "8652fb6e68c611280787b03f0279a23a3ce890365ba9fff08d5ff2f8251a70d6",
+        "size_in_bytes": 1181
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/widgets/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "2ae713b9f1b82834ad157aef9ed71fefc8ed9f6d5bfe0bb8fe81bdc2efe161c8",
+        "sha256_in_prefix": "2ae713b9f1b82834ad157aef9ed71fefc8ed9f6d5bfe0bb8fe81bdc2efe161c8",
+        "size_in_bytes": 1131
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/widgets/__pycache__/base.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "e76bf84d25e5054c21ccf24f8219ec38922661495747205b36b9cf8753794ef4",
+        "sha256_in_prefix": "e76bf84d25e5054c21ccf24f8219ec38922661495747205b36b9cf8753794ef4",
+        "size_in_bytes": 29034
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/widgets/__pycache__/dialogs.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "9bda85cd8ba12ac65505ed1f0b115e5efc2173ffeceebd7e6f557ed1900bb28c",
+        "sha256_in_prefix": "9bda85cd8ba12ac65505ed1f0b115e5efc2173ffeceebd7e6f557ed1900bb28c",
+        "size_in_bytes": 3070
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/widgets/__pycache__/menus.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "6d4d63c293ba0acadb12c04f43d4d2762e759f70828242e976bd346261100225",
+        "sha256_in_prefix": "6d4d63c293ba0acadb12c04f43d4d2762e759f70828242e976bd346261100225",
+        "size_in_bytes": 10984
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/widgets/__pycache__/toolbars.cpython-310.pyc",
+        "path_type": "hardlink",
+        "sha256": "bed7845619a7bbaa32a490764ef81324549f72db24f66383d5d842ad74d130d3",
+        "sha256_in_prefix": "bed7845619a7bbaa32a490764ef81324549f72db24f66383d5d842ad74d130d3",
+        "size_in_bytes": 11139
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/widgets/base.py",
+        "path_type": "hardlink",
+        "sha256": "7948cf34a7f996222358f2474ac35fc2f2f36b1923429c919cc6045bf5564957",
+        "sha256_in_prefix": "7948cf34a7f996222358f2474ac35fc2f2f36b1923429c919cc6045bf5564957",
+        "size_in_bytes": 32099
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/widgets/dialogs.py",
+        "path_type": "hardlink",
+        "sha256": "eec39d730797481f2a75fb9870beeb81f776baabc817a7fef5d25c75499b9b09",
+        "sha256_in_prefix": "eec39d730797481f2a75fb9870beeb81f776baabc817a7fef5d25c75499b9b09",
+        "size_in_bytes": 3370
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/widgets/menus.py",
+        "path_type": "hardlink",
+        "sha256": "d0b22917699843601d1b1cea8ddb43294a2dce8bb60ce60e2e344ea21a9d6d2a",
+        "sha256_in_prefix": "d0b22917699843601d1b1cea8ddb43294a2dce8bb60ce60e2e344ea21a9d6d2a",
+        "size_in_bytes": 13438
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/widgets/toolbars.py",
+        "path_type": "hardlink",
+        "sha256": "8812241ee6d8d094a7530934cfb9baba3a85af1a2974e42a1476b8c64f8f7bf7",
+        "sha256_in_prefix": "8812241ee6d8d094a7530934cfb9baba3a85af1a2974e42a1476b8c64f8f7bf7",
+        "size_in_bytes": 12264
+      },
+      {
+        "_path": "lib/python3.10/site-packages/prompt_toolkit/win32_types.py",
+        "path_type": "hardlink",
+        "sha256": "abe2b5acd99d9e581f7111de989259608ef06c2491df5e62a53a435d927c016d",
+        "sha256_in_prefix": "abe2b5acd99d9e581f7111de989259608ef06c2491df5e62a53a435d927c016d",
+        "size_in_bytes": 5515
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "543e0cbe3994e5bcea81febf9973a6b8cecf328ba3f516eb1e93dee0bff66377",
+  "size": 597754,
+  "subdir": "osx-arm64",
+  "timestamp": 1672387364356,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/prompt-toolkit-3.0.36-py310hca03da5_0.conda",
+  "version": "3.0.36"
+}

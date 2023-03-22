@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>documents: interface for the document handling</title>
+    <meta name="generator" content="Libxml2 devhelp stylesheet"/>
+    <link rel="start" href="index.html" title="libxslt Reference Manual"/>
+    <link rel="up" href="general.html" title="API"/>
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <link rel="chapter" href="general.html" title="API"/>
+  </head>
+  <body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
+    <table class="navigation" width="100%" summary="Navigation header" cellpadding="2" cellspacing="2">
+      <tr valign="middle">
+        <td>
+          <a accesskey="p" href="libxslt-attributes.html">
+            <img src="left.png" width="24" height="24" border="0" alt="Prev"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="u" href="general.html">
+            <img src="up.png" width="24" height="24" border="0" alt="Up"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="h" href="index.html">
+            <img src="home.png" width="24" height="24" border="0" alt="Home"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="n" href="libxslt-extensions.html">
+            <img src="right.png" width="24" height="24" border="0" alt="Next"/>
+          </a>
+        </td>
+        <th width="100%" align="center">libxslt Reference Manual</th>
+      </tr>
+    </table>
+    <h2>
+      <span class="refentrytitle">documents</span>
+    </h2>
+    <p>documents - interface for the document handling</p>
+    <p>implements document loading and cache (multiple document() reference for the same resources must be equal. </p>
+    <p>Author(s): Daniel Veillard </p>
+    <div class="refsynopsisdiv">
+      <h2>Synopsis</h2>
+      <pre class="synopsis">typedef enum <a href="#xsltLoadType">xsltLoadType</a>;
+void	<a href="#xsltFreeStyleDocuments">xsltFreeStyleDocuments</a>		(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style);
+typedef xmlDocPtr <a href="#xsltDocLoaderFunc">xsltDocLoaderFunc</a>	(const xmlChar * URI, <br/>					 xmlDictPtr dict, <br/>					 int options, <br/>					 void * ctxt, <br/>					 <a href="libxslt-documents.html#xsltLoadType">xsltLoadType</a> type);
+<a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a>	<a href="#xsltLoadDocument">xsltLoadDocument</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const xmlChar * URI);
+<a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a>	<a href="#xsltNewStyleDocument">xsltNewStyleDocument</a>	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 xmlDocPtr doc);
+void	<a href="#xsltSetLoaderFunc">xsltSetLoaderFunc</a>		(<a href="libxslt-documents.html#xsltDocLoaderFunc">xsltDocLoaderFunc</a> f);
+void	<a href="#xsltFreeDocuments">xsltFreeDocuments</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt);
+<a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a>	<a href="#xsltNewDocument">xsltNewDocument</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlDocPtr doc);
+<a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a>	<a href="#xsltLoadStyleDocument">xsltLoadStyleDocument</a>	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 const xmlChar * URI);
+<a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a>	<a href="#xsltFindDocument">xsltFindDocument</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlDocPtr doc);
+</pre>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Description</h2>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Details</h2>
+      <div class="refsect2" lang="en">
+        <div class="refsect2" lang="en"><h3><a name="xsltLoadType">Enum </a>xsltLoadType</h3><pre class="programlisting">enum <a href="#xsltLoadType">xsltLoadType</a> {
+    <a name="XSLT_LOAD_START">XSLT_LOAD_START</a> = 0 /* loading for a top stylesheet */
+    <a name="XSLT_LOAD_STYLESHEET">XSLT_LOAD_STYLESHEET</a> = 1 /* loading for a stylesheet include/import */
+    <a name="XSLT_LOAD_DOCUMENT">XSLT_LOAD_DOCUMENT</a> = 2 /*  loading document at transformation time */
+};
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltDocLoaderFunc"/>Function type xsltDocLoaderFunc</h3><pre class="programlisting">xmlDocPtr	xsltDocLoaderFunc	(const xmlChar * URI, <br/>					 xmlDictPtr dict, <br/>					 int options, <br/>					 void * ctxt, <br/>					 <a href="libxslt-documents.html#xsltLoadType">xsltLoadType</a> type)<br/>
+</pre><p>An <a href="libxslt-documents.html#xsltDocLoaderFunc">xsltDocLoaderFunc</a> is a signature for a function which can be registered to load document not provided by the compilation or transformation API themselve, for example when an xsl:import, xsl:include is found at compilation time or when a document() call is made at runtime.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>URI</tt></i>:</span></td><td>the URI of the document to load</td></tr><tr><td><span class="term"><i><tt>dict</tt></i>:</span></td><td>the dictionary to use when parsing that document</td></tr><tr><td><span class="term"><i><tt>options</tt></i>:</span></td><td>parsing options, a set of xmlParserOption</td></tr><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the context, either a stylesheet or a transformation context</td></tr><tr><td><span class="term"><i><tt>type</tt></i>:</span></td><td>the <a href="libxslt-documents.html#xsltLoadType">xsltLoadType</a> indicating the kind of loading required</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the pointer to the document (which will be modified and freed by the engine later), or NULL in case of error.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltDocDefaultLoader">Variable </a>xsltDocDefaultLoader</h3><pre class="programlisting"><a href="libxslt-documents.html#xsltDocLoaderFunc">xsltDocLoaderFunc</a> xsltDocDefaultLoader;
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltFindDocument"/>xsltFindDocument ()</h3><pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a>	xsltFindDocument	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlDocPtr doc)<br/>
+</pre><p>Try to find a document within the XSLT transformation context. This will not find document infos for temporary Result Tree Fragments.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>doc</tt></i>:</span></td><td>a parsed XML document</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the desired <a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a> or NULL in case of error</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltFreeDocuments"/>xsltFreeDocuments ()</h3><pre class="programlisting">void	xsltFreeDocuments		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt)<br/>
+</pre><p>Free up all the space used by the loaded documents</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltFreeStyleDocuments"/>xsltFreeStyleDocuments ()</h3><pre class="programlisting">void	xsltFreeStyleDocuments		(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style)<br/>
+</pre><p>Frees the node-trees (and <a href="libxslt-xsltInternals.html#xsltDocument">xsltDocument</a> structures) of all stylesheet-modules of the stylesheet-level represented by the given @style.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>an XSLT stylesheet (representing a stylesheet-level)</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltLoadDocument"/>xsltLoadDocument ()</h3><pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a>	xsltLoadDocument	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const xmlChar * URI)<br/>
+</pre><p>Try to load a document (not a stylesheet) within the XSLT transformation context</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>URI</tt></i>:</span></td><td>the computed URI of the document</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the new <a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a> or NULL in case of error</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltLoadStyleDocument"/>xsltLoadStyleDocument ()</h3><pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a>	xsltLoadStyleDocument	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 const xmlChar * URI)<br/>
+</pre><p>Try to load a stylesheet document within the XSLT transformation context</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>an XSLT style sheet</td></tr><tr><td><span class="term"><i><tt>URI</tt></i>:</span></td><td>the computed URI of the document</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the new <a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a> or NULL in case of error</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltNewDocument"/>xsltNewDocument ()</h3><pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a>	xsltNewDocument		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 xmlDocPtr doc)<br/>
+</pre><p>Register a new document, apply key computations</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context (or NULL)</td></tr><tr><td><span class="term"><i><tt>doc</tt></i>:</span></td><td>a parsed XML document</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>a handler to the document</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltNewStyleDocument"/>xsltNewStyleDocument ()</h3><pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a>	xsltNewStyleDocument	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br/>					 xmlDocPtr doc)<br/>
+</pre><p>Register a new document, apply key computations</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>an XSLT style sheet</td></tr><tr><td><span class="term"><i><tt>doc</tt></i>:</span></td><td>a parsed XML document</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>a handler to the document</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSetLoaderFunc"/>xsltSetLoaderFunc ()</h3><pre class="programlisting">void	xsltSetLoaderFunc		(<a href="libxslt-documents.html#xsltDocLoaderFunc">xsltDocLoaderFunc</a> f)<br/>
+</pre><p>Set the new function to load document, if NULL it resets it to the default function.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>f</tt></i>:</span></td><td>the new function to handle document loading.</td></tr></tbody></table></div></div>
+        <hr/>
+      </div>
+    </div>
+  </body>
+</html>

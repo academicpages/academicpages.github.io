@@ -1,0 +1,3 @@
+[pytest11]
+anyio = anyio.pytest_plugin
+

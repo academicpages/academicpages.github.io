@@ -1,0 +1,285 @@
+<?xml version="1.0"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
+    "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd" [
+<!ENTITY CODE SYSTEM "libxslt_tutorial.c">
+]>
+<article>
+  <articleinfo>
+    <title>libxslt Tutorial</title>
+    <copyright>
+      <year>2001</year>
+      <holder>John Fleck</holder>
+    </copyright>
+    <legalnotice id="legalnotice">
+
+      <para>Permission is granted to copy, distribute and/or modify this
+	document under the terms of the <citetitle>GNU Free Documentation
+	License</citetitle>, Version 1.1 or any later version
+	published by the Free Software Foundation with no Invariant
+	Sections, no Front-Cover Texts, and no Back-Cover Texts.  A copy of
+	the license can be found <ulink type="http"
+	url="http://www.gnu.org/copyleft/fdl.html">here</ulink>.</para>
+
+  </legalnotice>
+    <author>
+      <firstname>John</firstname>
+      <surname>Fleck</surname>
+    </author>
+    <releaseinfo>
+      This is version 0.4 of the libxslt Tutorial
+    </releaseinfo>
+  </articleinfo>
+  <abstract>
+    <para>A tutorial on building a simple application using the
+      <application>libxslt</application> library to perform
+      <acronym>XSLT</acronym> transformations to convert an
+      <acronym>XML</acronym> file into <acronym>HTML</acronym>.</para>
+  </abstract>
+  <sect1 id="introduction">
+    <title>Introduction</title>
+
+    <para>The Extensible Markup Language (<acronym>XML</acronym>) is a World
+    Wide Web Consortium standard for the exchange of structured data in text
+    form. Its popularity stems from its universality. Any computer can
+    read a text file. With the proper tools, any computer can read any other
+    computer's <acronym>XML</acronym> files.
+    </para>
+
+    <para>One of the most important of those tools is <acronym>XSLT</acronym>:
+      Extensible Stylesheet Language Transformations. <acronym>XSLT</acronym>
+      is a declarative language that allows you to
+      translate your <acronym>XML</acronym> into arbitrary text output
+      using a stylesheet. <application>libxslt</application> provides the
+      functions to perform the transformation.
+    </para>
+   
+    <para><application>libxslt</application> is a free C language library
+      written by Daniel Veillard for the <acronym>GNOME</acronym> project
+      allowing you to write programs that perform <acronym>XSLT</acronym>
+      transformations. 
+
+      <note>
+	<para>
+	While <application>libxslt</application> was written
+	under the auspices of the <acronym>GNOME</acronym> project, it does not
+	depend on any <acronym>GNOME</acronym> libraries. None are used in the
+	example in this tutorial.
+	</para>
+      </note>
+
+    </para>
+
+    <para>This tutorial illustrates a simple program that reads an
+      <acronym>XML</acronym> file, applies a stylesheet and saves the resulting
+      output. This is not a program you would want to create
+      yourself. <application>xsltproc</application>, which is included with the
+      <application>libxslt</application> package, does the same thing and is
+      more robust and full-featured. The program written for this tutorial is a
+      stripped-down version of <application>xsltproc</application> designed to
+      illustrate the functionality of <application>libxslt</application>. 
+    </para>
+    <para>The full code for <application>xsltproc</application> is in
+      <filename>xsltproc.c</filename> in the <application>libxslt</application>
+      distribution. It also is available <ulink
+      url="http://cvs.gnome.org/lxr/source/libxslt/libxslt/xsltproc.c">on the
+      web</ulink>.
+    </para>
+
+    <para>References:
+      <itemizedlist>
+	<listitem>
+	  <para><ulink url="http://www.w3.org/XML/">W3C <acronym>XML</acronym> page</ulink></para>
+	</listitem>
+	<listitem>
+	  <para><ulink url="http://www.w3.org/Style/XSL/">W3C
+	  <acronym>XSL</acronym> page.</ulink></para>
+	</listitem>
+      </itemizedlist>
+
+    </para>
+  </sect1>
+
+  <sect1 id="functions">
+    <title>Primary Functions</title>
+    <para>To transform an <acronym>XML</acronym> file, you must perform three
+    functions:
+      <orderedlist>
+	<listitem>
+	  <para>parse the input file</para>
+	</listitem>
+	<listitem>
+	  <para>parse the stylesheet</para>
+	</listitem>
+	<listitem>
+	  <para>apply the stylesheet</para>
+	</listitem>
+      </orderedlist>
+    </para>
+    <sect2 id="preparing">
+      <title>Preparing to Parse</title>
+      <para>Before you can begin parsing input files or stylesheets, there are
+      several steps you need to take to set up entity handling. These steps are
+	not unique to <application>libxslt</application>. Any
+	<application>libxml2</application> program that parses
+      <acronym>XML</acronym> files would need to take similar steps. 
+      </para>
+      <para>First, you need set up some <application>libxml</application>
+	housekeeping. Pass the integer value <parameter>1</parameter> to the
+	<function>xmlSubstituteEntitiesDefault</function> function, which tells
+	the <application>libxml2</application> parser to substitute entities as
+	it parses your file. (Passing <parameter>0</parameter> causes
+	<application>libxml2</application> to not perform entity substitution.)
+      </para>
+
+      <para>Second, set <varname>xmlLoadExtDtdDefaultValue</varname> equal to
+	<parameter>1</parameter>. This tells <application>libxml</application>
+	to load external entity subsets. If you do not do this and your
+	input file includes entities through external subsets, you will get
+	errors.</para>
+    </sect2>
+    <sect2 id="parsethestylesheet">
+      <title>Parse the Stylesheet</title>
+      <para>Parsing the stylesheet takes a single function call, which takes a
+	variable of type <type>xmlChar</type>:
+	<programlisting>
+	  <varname>cur</varname> = xsltParseStylesheetFile((const xmlChar *)argv[i]);
+	</programlisting>
+	In this case, I cast the stylesheet file name, passed in as a
+	command line argument, to <emphasis>xmlChar</emphasis>. The return value
+	is of type <emphasis>xsltStylesheetPtr</emphasis>, a struct in memory
+	that contains the stylesheet tree and other information about the
+	stylesheet. It can be manipulated directly, but for this example you
+	will not need to.
+      </para>
+    </sect2>
+
+    <sect2 id="parseinputfile">
+      <title>Parse the Input File</title>
+      <para>Parsing the input file takes a single function call:
+	<programlisting>
+doc = xmlParseFile(argv[i]);
+	</programlisting>
+	It returns an <emphasis>xmlDocPtr</emphasis>, a struct in memory that
+	contains the document tree. It can be manipulated directly, but for this
+	example you will not need to.
+      </para>
+    </sect2>
+
+    <sect2 id="applyingstylesheet">
+      <title>Applying the Stylesheet</title>
+      <para>Now that you have trees representing the document and the stylesheet
+	in memory, apply the stylesheet to the document. The
+	function that does this is <function>xsltApplyStylesheet</function>:
+	<programlisting>
+res = xsltApplyStylesheet(cur, doc, params);
+	</programlisting>
+	The function takes an xsltStylesheetPtr and an
+	xmlDocPtr, the values returned by the previous two functions. The third
+	variable, <varname>params</varname> can be used to pass
+	<acronym>XSLT</acronym> parameters to the stylesheet. It is a
+	NULL-terminated array of name/value pairs of const char's.
+      </para>
+    </sect2>
+
+    <sect2 id="saveresult">
+      <title>Saving the result</title>
+      <para><application>libxslt</application> includes a family of functions to use in
+	saving the resulting output. For this example,
+      <function>xsltSaveResultToFile</function> is used, and the results are
+      saved to stdout:
+
+	<programlisting>
+xsltSaveResultToFile(stdout, res, cur);
+	</programlisting>
+
+	<note>
+	  <para><application>libxml</application> also contains output
+	    functions, such as <function>xmlSaveFile</function>, which can be
+	    used here. However, output-related information contained in the
+	    stylesheet, such as a declaration of the encoding to be used, will
+	    be lost if one of the <application>libxslt</application> save
+	    functions is not used.</para>
+	</note>
+      </para>
+    </sect2>
+
+    <sect2 id="parameters">
+      <title>Parameters</title>
+      <para>
+	In <acronym>XSLT</acronym>, parameters may be used as a way to pass
+	additional information to a
+	stylesheet. <application>libxslt</application> accepts
+	<acronym>XSLT</acronym> parameters as one of the values passed to
+	<function>xsltApplyStylesheet</function>.
+      </para>
+      
+      <para>
+	In the tutorial example and in <application>xsltproc</application>,
+	on which the tutorial example is based, parameters to be passed take the
+	form of key-value pairs. The program collects them from command line
+	arguments, inserting them in the array <varname>params</varname>, then
+	passes them to the function. The final element in the array is set to
+	<parameter>NULL</parameter>.
+
+	<note>
+	  <para>
+	    If a parameter being passed is a string rather than an
+	    <acronym>XSLT</acronym> node, it must be escaped. For the tutorial
+	    program, that would be done as follows:
+	    <command>tutorial]$ ./libxslt_tutorial --param rootid "'asect1'"
+	    stylesheet.xsl filename.xml</command>
+	  </para>
+	</note>
+      </para>
+
+    </sect2>
+
+    <sect2 id="cleanup">
+      <title>Cleanup</title>
+      <para>After you are finished, <application>libxslt</application> and
+	<application>libxml</application> provide functions for deallocating
+      memory.
+      </para>
+
+      <para>
+      
+	  <programlisting>
+	  xsltFreeStylesheet(cur);<co id="cleanupstylesheet" />
+	  xmlFreeDoc(res);<co id="cleanupresults" />
+	  xmlFreeDoc(doc);<co id="cleanupdoc" />
+	  xsltCleanupGlobals();<co id="cleanupglobals" />
+	  xmlCleanupParser();<co id="cleanupparser" />
+
+	  </programlisting>
+	
+	  <calloutlist>
+	    <callout arearefs="cleanupstylesheet">
+	    <para>Free the memory used by your stylesheet.</para>
+	  </callout>
+	  <callout arearefs="cleanupresults">
+	    <para>Free the memory used by the results document.</para>
+	  </callout>
+	  <callout arearefs="cleanupdoc">
+	    <para>Free the memory used by your original document.</para>
+	  </callout>
+	  <callout arearefs="cleanupglobals">
+	    <para>Free memory used by <application>libxslt</application> global
+	    variables</para>
+	  </callout>
+	  <callout arearefs="cleanupparser">
+	    <para>Free memory used by the <acronym>XML</acronym> parser</para>
+	  </callout>
+	</calloutlist>
+      </para>
+    </sect2>
+
+  </sect1>
+
+  <appendix id="thecode">
+    <title>The Code</title>
+    <para><filename>libxslt_tutorial.c</filename>
+ <programlisting>&CODE;</programlisting>
+
+    </para>
+  </appendix>
+</article>

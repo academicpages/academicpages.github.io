@@ -1,0 +1,57 @@
+{%- extends 'nbconvert/templates/classic/index.html.j2' -%}
+{% import "log.macro.html.j2" as log %}
+{% from 'voila_setup.macro.html.j2' import voila_setup with context %}
+
+{%- block html_head_js -%}
+  {%- block html_head_js_requirejs -%}
+  <script
+    src="{{resources.base_url}}voila/static/require.min.js"
+    integrity="sha256-Ae2Vz/4ePdIu6ZyI/5ZGsYnb+m0JlOmKPjt6XZ9JJkA="
+    crossorigin="anonymous">
+  </script>
+  {%- endblock html_head_js_requirejs -%}
+{%- block html_head_js_logs -%}
+{{ log.js() }}
+{%- endblock html_head_js_logs -%}
+{%- block html_head_js_jquery -%}
+<script src="{{ resources.jquery_url }}"></script>
+{%- endblock html_head_js_jquery -%}
+{% block notebook_execute %}
+    {%- set kernel_id = kernel_start(nb) -%}
+    <script id="jupyter-config-data" type="application/json">
+    {
+        "baseUrl": "{{resources.base_url}}",
+        "kernelId": "{{kernel_id}}"
+    }
+    </script>
+    {# from this point on, nb.cells contains output of the executed cells #}
+    {% do notebook_execute(nb, kernel_id) %}
+{%- endblock notebook_execute -%}
+
+{%- endblock html_head_js -%}
+
+{%- block html_head_css -%}
+  {{ resources.include_css("static/materialcolors.css") }}
+  {{ resources.include_css("static/labvariables.css") }}
+  <style>
+    /*Hide empty cells*/
+    .jp-mod-noOutputs.jp-mod-noInput {
+      display: none;
+    }
+  </style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/font-awesome@4.5.0/css/font-awesome.min.css" type="text/css" />
+{{ super() }}
+{%- endblock html_head_css -%}
+
+{% block body_header %}
+<body data-base-url="{{resources.base_url}}voila/">
+  <div tabindex="-1" id="notebook" class="border-box-sizing">
+    <div class="container" id="notebook-container">
+{% endblock body_header %}
+
+{%- block footer %}
+{% block footer_js %}
+{{ voila_setup(resources.base_url, resources.nbextensions) }}
+{% endblock footer_js %}
+</html>
+{%- endblock footer-%}

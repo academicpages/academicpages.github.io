@@ -1,0 +1,142 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=2.7"
+  ],
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniconda/base/pkgs/executing-0.8.3-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "lib/python3.10/site-packages/executing-0.8.3.dist-info/INSTALLER",
+    "lib/python3.10/site-packages/executing-0.8.3.dist-info/LICENSE.txt",
+    "lib/python3.10/site-packages/executing-0.8.3.dist-info/METADATA",
+    "lib/python3.10/site-packages/executing-0.8.3.dist-info/RECORD",
+    "lib/python3.10/site-packages/executing-0.8.3.dist-info/REQUESTED",
+    "lib/python3.10/site-packages/executing-0.8.3.dist-info/WHEEL",
+    "lib/python3.10/site-packages/executing-0.8.3.dist-info/direct_url.json",
+    "lib/python3.10/site-packages/executing-0.8.3.dist-info/top_level.txt",
+    "lib/python3.10/site-packages/executing/__init__.py",
+    "lib/python3.10/site-packages/executing/executing.py",
+    "lib/python3.10/site-packages/executing/version.py",
+    "lib/python3.10/site-packages/executing/__pycache__/__init__.cpython-310.pyc",
+    "lib/python3.10/site-packages/executing/__pycache__/executing.cpython-310.pyc",
+    "lib/python3.10/site-packages/executing/__pycache__/version.cpython-310.pyc"
+  ],
+  "fn": "executing-0.8.3-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "1bdd5a02233d229e76081a73659e9405",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniconda/base/pkgs/executing-0.8.3-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "7be61d1c3c555fb37682b28d7a53d622",
+  "name": "executing",
+  "noarch": "python",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniconda/base/pkgs/executing-0.8.3-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/executing-0.8.3.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/executing-0.8.3.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "a476a2cb0ef4c41450340a577a28b91ac4c7f669136b2ee148047fabd5fc4181",
+        "sha256_in_prefix": "a476a2cb0ef4c41450340a577a28b91ac4c7f669136b2ee148047fabd5fc4181",
+        "size_in_bytes": 1066
+      },
+      {
+        "_path": "site-packages/executing-0.8.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "f5c0dbcb86e6f457c7b9875fd5fce7255280805dd100434580bafbf919ea86d3",
+        "sha256_in_prefix": "f5c0dbcb86e6f457c7b9875fd5fce7255280805dd100434580bafbf919ea86d3",
+        "size_in_bytes": 8597
+      },
+      {
+        "_path": "site-packages/executing-0.8.3.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "7880835e6e22052550ad65e6540b065b452a32634c059e2b3260fe294cf2c31a",
+        "sha256_in_prefix": "7880835e6e22052550ad65e6540b065b452a32634c059e2b3260fe294cf2c31a",
+        "size_in_bytes": 1068
+      },
+      {
+        "_path": "site-packages/executing-0.8.3.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/executing-0.8.3.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "cfd8f4c406bf26650a3299b3ef62b464600b48cfe7fb04159866e5797c765478",
+        "sha256_in_prefix": "cfd8f4c406bf26650a3299b3ef62b464600b48cfe7fb04159866e5797c765478",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/executing-0.8.3.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "bed84399e231c093e6a0402318d01e3c17d039b5ef60527a93cf96d22419778b",
+        "sha256_in_prefix": "bed84399e231c093e6a0402318d01e3c17d039b5ef60527a93cf96d22419778b",
+        "size_in_bytes": 83
+      },
+      {
+        "_path": "site-packages/executing-0.8.3.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "6fd46d7f736d4aa734fca6a4e8bfe5be76dd28f0341948a6da9f9770542c7f98",
+        "sha256_in_prefix": "6fd46d7f736d4aa734fca6a4e8bfe5be76dd28f0341948a6da9f9770542c7f98",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "site-packages/executing/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "3e0d5099db94656e53e184d26324cb608c080f5265613ff43af27214501e4315",
+        "sha256_in_prefix": "3e0d5099db94656e53e184d26324cb608c080f5265613ff43af27214501e4315",
+        "size_in_bytes": 734
+      },
+      {
+        "_path": "site-packages/executing/executing.py",
+        "path_type": "hardlink",
+        "sha256": "54fd6299b1dd0a900dcb3275fc88529863ac9fc06a03a6420dd63e9dc63af618",
+        "sha256_in_prefix": "54fd6299b1dd0a900dcb3275fc88529863ac9fc06a03a6420dd63e9dc63af618",
+        "size_in_bytes": 38172
+      },
+      {
+        "_path": "site-packages/executing/version.py",
+        "path_type": "hardlink",
+        "sha256": "8985a795a5550f4dc574ae06b5c895c72c996d9980c170e13316c161b73c4635",
+        "sha256_in_prefix": "8985a795a5550f4dc574ae06b5c895c72c996d9980c170e13316c161b73c4635",
+        "size_in_bytes": 21
+      },
+      {
+        "_path": "lib/python3.10/site-packages/executing/__pycache__/__init__.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/executing/__pycache__/executing.cpython-310.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.10/site-packages/executing/__pycache__/version.cpython-310.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "19861fd553ee36da352401ece4564271be8a958726a527b9731f229fa6131c5d",
+  "size": 18683,
+  "subdir": "noarch",
+  "timestamp": 1646925120076,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/executing-0.8.3-pyhd3eb1b0_0.conda",
+  "version": "0.8.3"
+}

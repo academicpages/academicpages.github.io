@@ -1,0 +1,196 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <title>The EXSLT C library for Gnome</title>
+  <meta name="GENERATOR" content="amaya 5.1">
+  <meta http-equiv="Content-Type" content="text/html">
+</head>
+
+<body bgcolor="#ffffff">
+<h1 align="center">The EXSLT C library for Gnome</h1>
+
+<h1 style="text-align: center">libexslt</h1>
+
+<p>Libexslt is the <a href="http://www.exslt.org">EXSLT</a> C library
+   developed for libxslt (a part of the Gnome project). Much of the
+   initial work on the library was done by Thomas Broyer.  EXSLT itself
+   is a community initiative to provide extensions to XSLT.
+
+<p>This library is free software and can be reused in commercial applications
+   (see the <a href="intro.html">intro</a>)</p>
+
+<p></p>
+
+<p>Logo designed by <a href="mailto:liyanage@access.ch">Marc Liyanage</a>.</p>
+
+<h2><a name="Introducti">Introduction</a></h2>
+
+<p>This document describes libexslt, the EXSLT C library developed for the
+<a href="http://www.gnome.org/">Gnome</a> project.</p>
+
+<h2><a name="Documentat">Documentation</a></h2>
+
+<p>There are some on-line resources about using libexslt:</p>
+<ol>
+  <li>Check the <a href="html/libexslt-lib.html">API
+    documentation</a> automatically extracted from code comments (using
+        the program apibuild.py, developed for libxml, together with the
+	    xsl script 'newapi.xsl' and the libxslt xsltproc program).</li>
+  <li>Look at the <a href="http://mail.gnome.org/archives/xslt/">mailing-list
+    archive</a>.</li>
+  <li>Of course since libxslt is based on libxml, it's a good idea to at
+    least read <a href="http://xmlsoft.org/">libxml description</a></li>
+</ol>
+
+<h2><a name="Reporting">Reporting bugs and getting help</a></h2>
+
+<p>Well, bugs or missing features are always possible, and I will make a
+point of fixing them in a timely fashion. The best way to report a bug is to
+use the <a href="https://gitlab.gnome.org/GNOME/libxslt/issues">Gnome
+bug tracking database</a> (make sure to use the "libxslt" module name). I
+look at reports there regularly and it's good to have a reminder when a bug
+is still open. Be sure to specify that the bug is for the package libxslt.</p>
+
+<p>For small problems you can try to get help on IRC, the #xml channel on
+irc.gnome.org (port 6667) usually have a few person subscribed which may help
+(but there is no guarantee and if a real issue is raised it should go on the
+mailing-list for archival).</p>
+
+<p>There is also a mailing-list <a
+href="mailto:xslt@gnome.org">xslt@gnome.org</a> for libxslt, with an <a
+href="http://mail.gnome.org/archives/xslt/">on-line archive</a>. To subscribe
+to this list, please visit the <a
+href="http://mail.gnome.org/mailman/listinfo/xslt">associated Web</a> page
+and follow the instructions.</p>
+
+<p>Alternatively, you can just send the bug to the <a
+href="mailto:xslt@gnome.org">xslt@gnome.org</a> list, if it's really libxslt
+related I will approve it.. Please do not send me mail directly especially
+for portability problem, it makes things really harder to track and in some
+cases I'm not the best person to answer a given question, ask the list
+instead. <strong>Do not send code, I won't debug it</strong> (but patches are
+really appreciated!).</p>
+
+<p>Check the following too <span style="color: #E50000">before
+posting</span>:</p>
+<ul>
+  <li><a href="search.php">use the search engine</a> to get information
+    related to your problem.</li>
+  <li>make sure you are <a href="ftp://xmlsoft.org/">using a recent
+    version</a>, and that the problem still shows up in those</li>
+  <li>check the <a href="http://mail.gnome.org/archives/xslt/">list
+    archives</a> to see if the problem was reported already, in this case
+    there is probably a fix available, similarly check the <a
+    href="https://gitlab.gnome.org/GNOME/libxslt/issues">registered
+    open bugs</a></li>
+  <li>make sure you can reproduce the bug with xsltproc, a very useful thing
+    to do is run the transformation with -v argument and redirect the
+    standard error to a file, then search in this file for the transformation
+    logs just preceding the possible problem</li>
+  <li>Please send the command showing the error as well as the input and
+    stylesheet (as an attachment)</li>
+</ul>
+
+<p>Then send the bug with associated information to reproduce it to the <a
+href="mailto:xslt@gnome.org">xslt@gnome.org</a> list; if it's really libxslt
+related I will approve it. Please do not send mail to me directly, it makes
+things really hard to track and in some cases I am not the best person to
+answer a given question, ask on the list.</p>
+
+<p>To <span style="color: #E50000">be really clear about support</span>:</p>
+<ul>
+  <li>Support or help <span style="color: #E50000">request MUST be sent to
+    the list or on bugzilla</span> in case of problems, so that the Question
+    and Answers can be shared publicly. Failing to do so carries the implicit
+    message "I want free support but I don't want to share the benefits with
+    others" and is not welcome. I will automatically Carbon-Copy the
+    xslt@gnome.org mailing list for any technical reply made about libxml2 or
+    libxslt.</li>
+  <li>There is <span style="color: #E50000">no garantee for support</span>,
+    if your question remains unanswered after a week, repost it, making sure
+    you gave all the detail needed and the information requested.</li>
+  <li>Failing to provide information as requested or double checking first
+    for prior feedback also carries the implicit message "the time of the
+    library maintainers is less valuable than my time" and might not be
+    welcome.</li>
+</ul>
+
+<p>Of course, bugs reports with a suggested patch for fixing them will
+probably be processed faster.</p>
+
+<p>If you're looking for help, a quick look at <a
+href="http://mail.gnome.org/archives/xslt/">the list archive</a> may actually
+provide the answer, I usually send source samples when answering libxslt
+usage questions. The <a
+href="html/libxslt-lib.html#LIBXSLT-LIB">auto-generated documentation</a> is
+not as polished as I would like (I need to learn more about Docbook), but
+it's a good starting point.</p>
+
+<h2><a name="help">How to help</a></h2>
+
+<p>You can help the project in various ways, the best thing to do first is to
+subscribe to the mailing-list as explained before, check the <a
+href="http://mail.gnome.org/archives/xslt/">archives </a>and the <a
+href="http://bugzilla.gnome.org/buglist.cgi?product=libxslt">Gnome bug
+database:</a>:</p>
+<ol>
+  <li>provide patches when you find problems</li>
+  <li>provide the diffs when you port libxslt to a new platform. They may not
+    be integrated in all cases but help pinpointing portability problems
+  and</li>
+  <li>provide documentation fixes (either as patches to the code comments or
+    as HTML diffs).</li>
+  <li>provide new documentations pieces (translations, examples, etc ...)</li>
+  <li>Check the TODO file and try to close one of the items</li>
+  <li>take one of the points raised in the archive or the bug database and
+    provide a fix. <a href="mailto:daniel@veillard.com">Get in touch with me
+    </a>before to avoid synchronization problems and check that the suggested
+    fix will fit in nicely :-)</li>
+</ol>
+
+<h2><a name="Downloads">Downloads</a></h2>
+
+<p>The latest versions of libxslt can be found on <a
+href="ftp://xmlsoft.org/">xmlsoft.org</a> (<a
+href="ftp://speakeasy.rpmfind.net/pub/libxml/">Seattle</a>, <a
+href="ftp://fr.rpmfind.net/pub/libxml/">France</a>) or on the <a
+href="ftp://ftp.gnome.org/pub/GNOME/MIRRORS.html">Gnome FTP server</a> as a
+<a href="ftp://ftp.gnome.org/pub/GNOME/sources/libxslt/1.1/">source
+archive</a>, Antonin Sprinzl also provides <a
+href="ftp://gd.tuwien.ac.at/pub/libxml/">a mirror in Austria</a>. (NOTE that
+you need the <a href="http://rpmfind.net/linux/RPM/libxml2.html">libxml2</a>,
+<a href="http://rpmfind.net/linux/RPM/libxml2-devel.html">libxml2-devel</a>,
+<a href="http://rpmfind.net/linux/RPM/libxslt.html">libxslt</a> and <a
+href="http://rpmfind.net/linux/RPM/libxslt-devel.html">libxslt-devel</a>
+packages installed to compile applications using libxslt.) <a
+href="mailto:igor@zlatkovic.com">Igor  Zlatkovic</a> is now the maintainer of
+the Windows port, <a
+href="http://www.zlatkovic.com/projects/libxml/index.html">he provides
+binaries</a>. <a href="mailto:Gary.Pennington@sun.com">Gary Pennington</a>
+provides <a href="http://garypennington.net/libxml2/">Solaris binaries</a>.
+<a href="mailto:Steve.Ball@zveno.com">Steve Ball</a> provides <a
+href="http://www.zveno.com/open_source/libxml2xslt.html">Mac Os X
+binaries</a>.</p>
+
+<p><a name="Contribs">Contribs:</a></p>
+
+<p>I do accept external contributions, especially if compiling on another
+platform, get in touch with me to upload the package. I will keep them in the
+<a href="ftp://xmlsoft.org/contribs/">contrib directory</a></p>
+
+<p>Libexslt is also available from GIT:</p>
+<ul>
+  <li><p>See <a href="https://gitlab.gnome.org/GNOME/libxslt">libxslt Git web</a>.
+         To checkout a local tree use:</p>
+       <pre>git clone https://gitlab.gnome.org/GNOME/libxslt.git</pre>
+  </li>
+  <li>The <strong>libxml2</strong> module is also present
+      <a href="https://gitlab.gnome.org/GNOME/libxml2">there</a></li>
+</ul>
+
+<p></p>
+
+<p><a href="mailto:daniel@veillard.com">Daniel Veillard</a></p>
+</body>
+</html>

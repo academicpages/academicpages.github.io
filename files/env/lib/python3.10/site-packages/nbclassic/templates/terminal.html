@@ -1,0 +1,37 @@
+{% extends "page.html" %}
+
+{% block title %}{{page_title}}{% endblock %}
+
+{% block favicon %}<link id="favicon" rel="shortcut icon" type="image/x-icon" href="{{static_url("base/images/favicon-terminal.ico") }}">{% endblock %}
+
+{% block bodyclasses %}terminal-app {{super()}}{% endblock %}
+
+{% block params %}
+data-base-url="{{base_url | urlencode}}"
+data-ws-url="{{ws_url | urlencode}}"
+data-ws-path="{{ws_path}}"
+{% endblock %}
+
+{% block stylesheet %}
+{{super()}}
+<link rel="stylesheet" href="{{ static_url("terminal/css/override.css") }}" type="text/css" />
+<link rel="stylesheet" href="{{static_url("components/xterm.js-css/index.css") }}" type="text/css" />
+{% endblock %}
+
+{% block headercontainer %}
+<span id="save_widget" class="save_widget"></span>
+{{super()}}
+{% endblock headercontainer %}
+
+{% block site %}
+<div class="terminado-container-container">
+  <div id="terminado-container" class="container"></div>
+</div>
+{% endblock %}
+
+{% block script %}
+
+    {{super()}}
+
+<script src="{{ static_url("terminal/js/main.min.js") }}" type="text/javascript" charset="utf-8"></script>
+{% endblock %}

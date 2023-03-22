@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns="http://www.devhelp.net/book" title="libexslt Reference Manual" link="index.html" author="" name="libexslt">
+  <chapters>
+    <sub name="API" link="general.html">
+      <sub name="exslt" link="libexslt-exslt.html"/>
+      <sub name="exsltexports" link="libexslt-exsltexports.html"/>
+    </sub>
+  </chapters>
+  <functions>
+    <keyword type="macro" name="EXSLTCALL" link="libexslt-exsltexports.html#EXSLTCALL"/>
+    <keyword type="macro" name="EXSLTPUBFUN" link="libexslt-exsltexports.html#EXSLTPUBFUN"/>
+    <keyword type="macro" name="EXSLTPUBVAR" link="libexslt-exsltexports.html#EXSLTPUBVAR"/>
+    <keyword type="macro" name="EXSLT_COMMON_NAMESPACE" link="libexslt-exslt.html#EXSLT_COMMON_NAMESPACE"/>
+    <keyword type="macro" name="EXSLT_CRYPTO_NAMESPACE" link="libexslt-exslt.html#EXSLT_CRYPTO_NAMESPACE"/>
+    <keyword type="macro" name="EXSLT_DATE_NAMESPACE" link="libexslt-exslt.html#EXSLT_DATE_NAMESPACE"/>
+    <keyword type="macro" name="EXSLT_DYNAMIC_NAMESPACE" link="libexslt-exslt.html#EXSLT_DYNAMIC_NAMESPACE"/>
+    <keyword type="macro" name="EXSLT_FUNCTIONS_NAMESPACE" link="libexslt-exslt.html#EXSLT_FUNCTIONS_NAMESPACE"/>
+    <keyword type="macro" name="EXSLT_MATH_NAMESPACE" link="libexslt-exslt.html#EXSLT_MATH_NAMESPACE"/>
+    <keyword type="macro" name="EXSLT_SETS_NAMESPACE" link="libexslt-exslt.html#EXSLT_SETS_NAMESPACE"/>
+    <keyword type="macro" name="EXSLT_STRINGS_NAMESPACE" link="libexslt-exslt.html#EXSLT_STRINGS_NAMESPACE"/>
+    <keyword type="macro" name="LIBEXSLT_PUBLIC" link="libexslt-exsltexports.html#LIBEXSLT_PUBLIC"/>
+    <keyword type="macro" name="SAXON_NAMESPACE" link="libexslt-exslt.html#SAXON_NAMESPACE"/>
+    <keyword type="macro" name="_REENTRANT" link="libexslt-exsltexports.html#_REENTRANT"/>
+    <keyword type="macro" name="exsltLibexsltVersion" link="libexslt-exslt.html#exsltLibexsltVersion"/>
+    <keyword type="macro" name="exsltLibraryVersion" link="libexslt-exslt.html#exsltLibraryVersion"/>
+    <keyword type="macro" name="exsltLibxmlVersion" link="libexslt-exslt.html#exsltLibxmlVersion"/>
+    <keyword type="macro" name="exsltLibxsltVersion" link="libexslt-exslt.html#exsltLibxsltVersion"/>
+    <keyword type="function" name="exsltCommonRegister ()" link="libexslt-exslt.html#exsltCommonRegister"/>
+    <keyword type="function" name="exsltCryptoRegister ()" link="libexslt-exslt.html#exsltCryptoRegister"/>
+    <keyword type="function" name="exsltDateRegister ()" link="libexslt-exslt.html#exsltDateRegister"/>
+    <keyword type="function" name="exsltDateXpathCtxtRegister ()" link="libexslt-exslt.html#exsltDateXpathCtxtRegister"/>
+    <keyword type="function" name="exsltDynRegister ()" link="libexslt-exslt.html#exsltDynRegister"/>
+    <keyword type="function" name="exsltFuncRegister ()" link="libexslt-exslt.html#exsltFuncRegister"/>
+    <keyword type="function" name="exsltMathRegister ()" link="libexslt-exslt.html#exsltMathRegister"/>
+    <keyword type="function" name="exsltMathXpathCtxtRegister ()" link="libexslt-exslt.html#exsltMathXpathCtxtRegister"/>
+    <keyword type="function" name="exsltRegisterAll ()" link="libexslt-exslt.html#exsltRegisterAll"/>
+    <keyword type="function" name="exsltSaxonRegister ()" link="libexslt-exslt.html#exsltSaxonRegister"/>
+    <keyword type="function" name="exsltSetsRegister ()" link="libexslt-exslt.html#exsltSetsRegister"/>
+    <keyword type="function" name="exsltSetsXpathCtxtRegister ()" link="libexslt-exslt.html#exsltSetsXpathCtxtRegister"/>
+    <keyword type="function" name="exsltStrRegister ()" link="libexslt-exslt.html#exsltStrRegister"/>
+    <keyword type="function" name="exsltStrXpathCtxtRegister ()" link="libexslt-exslt.html#exsltStrXpathCtxtRegister"/>
+  </functions>
+</book>

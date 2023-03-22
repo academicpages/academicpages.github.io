@@ -1,0 +1,1991 @@
+{
+  "build": "hc377ac9_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=12.0.0"
+  ],
+  "extracted_package_dir": "/opt/homebrew/Caskroom/miniconda/base/pkgs/icu-68.1-hc377ac9_0",
+  "features": "",
+  "files": [
+    "bin/derb",
+    "bin/genbrk",
+    "bin/gencfu",
+    "bin/gencnval",
+    "bin/gendict",
+    "bin/genrb",
+    "bin/icu-config",
+    "bin/icuinfo",
+    "bin/makeconv",
+    "bin/pkgdata",
+    "include/unicode/alphaindex.h",
+    "include/unicode/appendable.h",
+    "include/unicode/basictz.h",
+    "include/unicode/brkiter.h",
+    "include/unicode/bytestream.h",
+    "include/unicode/bytestrie.h",
+    "include/unicode/bytestriebuilder.h",
+    "include/unicode/calendar.h",
+    "include/unicode/caniter.h",
+    "include/unicode/casemap.h",
+    "include/unicode/char16ptr.h",
+    "include/unicode/chariter.h",
+    "include/unicode/choicfmt.h",
+    "include/unicode/coleitr.h",
+    "include/unicode/coll.h",
+    "include/unicode/compactdecimalformat.h",
+    "include/unicode/curramt.h",
+    "include/unicode/currpinf.h",
+    "include/unicode/currunit.h",
+    "include/unicode/datefmt.h",
+    "include/unicode/dbbi.h",
+    "include/unicode/dcfmtsym.h",
+    "include/unicode/decimfmt.h",
+    "include/unicode/docmain.h",
+    "include/unicode/dtfmtsym.h",
+    "include/unicode/dtintrv.h",
+    "include/unicode/dtitvfmt.h",
+    "include/unicode/dtitvinf.h",
+    "include/unicode/dtptngen.h",
+    "include/unicode/dtrule.h",
+    "include/unicode/edits.h",
+    "include/unicode/enumset.h",
+    "include/unicode/errorcode.h",
+    "include/unicode/fieldpos.h",
+    "include/unicode/filteredbrk.h",
+    "include/unicode/fmtable.h",
+    "include/unicode/format.h",
+    "include/unicode/formattedvalue.h",
+    "include/unicode/fpositer.h",
+    "include/unicode/gender.h",
+    "include/unicode/gregocal.h",
+    "include/unicode/icudataver.h",
+    "include/unicode/icuplug.h",
+    "include/unicode/idna.h",
+    "include/unicode/listformatter.h",
+    "include/unicode/localebuilder.h",
+    "include/unicode/localematcher.h",
+    "include/unicode/localpointer.h",
+    "include/unicode/locdspnm.h",
+    "include/unicode/locid.h",
+    "include/unicode/measfmt.h",
+    "include/unicode/measunit.h",
+    "include/unicode/measure.h",
+    "include/unicode/messagepattern.h",
+    "include/unicode/msgfmt.h",
+    "include/unicode/normalizer2.h",
+    "include/unicode/normlzr.h",
+    "include/unicode/nounit.h",
+    "include/unicode/numberformatter.h",
+    "include/unicode/numberrangeformatter.h",
+    "include/unicode/numfmt.h",
+    "include/unicode/numsys.h",
+    "include/unicode/parseerr.h",
+    "include/unicode/parsepos.h",
+    "include/unicode/platform.h",
+    "include/unicode/plurfmt.h",
+    "include/unicode/plurrule.h",
+    "include/unicode/ptypes.h",
+    "include/unicode/putil.h",
+    "include/unicode/rbbi.h",
+    "include/unicode/rbnf.h",
+    "include/unicode/rbtz.h",
+    "include/unicode/regex.h",
+    "include/unicode/region.h",
+    "include/unicode/reldatefmt.h",
+    "include/unicode/rep.h",
+    "include/unicode/resbund.h",
+    "include/unicode/schriter.h",
+    "include/unicode/scientificnumberformatter.h",
+    "include/unicode/search.h",
+    "include/unicode/selfmt.h",
+    "include/unicode/simpleformatter.h",
+    "include/unicode/simpletz.h",
+    "include/unicode/smpdtfmt.h",
+    "include/unicode/sortkey.h",
+    "include/unicode/std_string.h",
+    "include/unicode/strenum.h",
+    "include/unicode/stringoptions.h",
+    "include/unicode/stringpiece.h",
+    "include/unicode/stringtriebuilder.h",
+    "include/unicode/stsearch.h",
+    "include/unicode/symtable.h",
+    "include/unicode/tblcoll.h",
+    "include/unicode/timezone.h",
+    "include/unicode/tmunit.h",
+    "include/unicode/tmutamt.h",
+    "include/unicode/tmutfmt.h",
+    "include/unicode/translit.h",
+    "include/unicode/tzfmt.h",
+    "include/unicode/tznames.h",
+    "include/unicode/tzrule.h",
+    "include/unicode/tztrans.h",
+    "include/unicode/ubidi.h",
+    "include/unicode/ubiditransform.h",
+    "include/unicode/ubrk.h",
+    "include/unicode/ucal.h",
+    "include/unicode/ucasemap.h",
+    "include/unicode/ucat.h",
+    "include/unicode/uchar.h",
+    "include/unicode/ucharstrie.h",
+    "include/unicode/ucharstriebuilder.h",
+    "include/unicode/uchriter.h",
+    "include/unicode/uclean.h",
+    "include/unicode/ucnv.h",
+    "include/unicode/ucnv_cb.h",
+    "include/unicode/ucnv_err.h",
+    "include/unicode/ucnvsel.h",
+    "include/unicode/ucol.h",
+    "include/unicode/ucoleitr.h",
+    "include/unicode/uconfig.h",
+    "include/unicode/ucpmap.h",
+    "include/unicode/ucptrie.h",
+    "include/unicode/ucsdet.h",
+    "include/unicode/ucurr.h",
+    "include/unicode/udat.h",
+    "include/unicode/udata.h",
+    "include/unicode/udateintervalformat.h",
+    "include/unicode/udatpg.h",
+    "include/unicode/udisplaycontext.h",
+    "include/unicode/uenum.h",
+    "include/unicode/ufieldpositer.h",
+    "include/unicode/uformattable.h",
+    "include/unicode/uformattedvalue.h",
+    "include/unicode/ugender.h",
+    "include/unicode/uidna.h",
+    "include/unicode/uiter.h",
+    "include/unicode/uldnames.h",
+    "include/unicode/ulistformatter.h",
+    "include/unicode/uloc.h",
+    "include/unicode/ulocdata.h",
+    "include/unicode/umachine.h",
+    "include/unicode/umisc.h",
+    "include/unicode/umsg.h",
+    "include/unicode/umutablecptrie.h",
+    "include/unicode/unifilt.h",
+    "include/unicode/unifunct.h",
+    "include/unicode/unimatch.h",
+    "include/unicode/unirepl.h",
+    "include/unicode/uniset.h",
+    "include/unicode/unistr.h",
+    "include/unicode/unorm.h",
+    "include/unicode/unorm2.h",
+    "include/unicode/unum.h",
+    "include/unicode/unumberformatter.h",
+    "include/unicode/unumberrangeformatter.h",
+    "include/unicode/unumsys.h",
+    "include/unicode/uobject.h",
+    "include/unicode/upluralrules.h",
+    "include/unicode/uregex.h",
+    "include/unicode/uregion.h",
+    "include/unicode/ureldatefmt.h",
+    "include/unicode/urename.h",
+    "include/unicode/urep.h",
+    "include/unicode/ures.h",
+    "include/unicode/uscript.h",
+    "include/unicode/usearch.h",
+    "include/unicode/uset.h",
+    "include/unicode/usetiter.h",
+    "include/unicode/ushape.h",
+    "include/unicode/uspoof.h",
+    "include/unicode/usprep.h",
+    "include/unicode/ustdio.h",
+    "include/unicode/ustream.h",
+    "include/unicode/ustring.h",
+    "include/unicode/ustringtrie.h",
+    "include/unicode/utext.h",
+    "include/unicode/utf.h",
+    "include/unicode/utf16.h",
+    "include/unicode/utf32.h",
+    "include/unicode/utf8.h",
+    "include/unicode/utf_old.h",
+    "include/unicode/utmscale.h",
+    "include/unicode/utrace.h",
+    "include/unicode/utrans.h",
+    "include/unicode/utypes.h",
+    "include/unicode/uvernum.h",
+    "include/unicode/uversion.h",
+    "include/unicode/vtzone.h",
+    "lib/icu/68.1/Makefile.inc",
+    "lib/icu/68.1/pkgdata.inc",
+    "lib/icu/Makefile.inc",
+    "lib/icu/current",
+    "lib/icu/pkgdata.inc",
+    "lib/libicudata.68.1.dylib",
+    "lib/libicudata.68.dylib",
+    "lib/libicudata.dylib",
+    "lib/libicui18n.68.1.dylib",
+    "lib/libicui18n.68.dylib",
+    "lib/libicui18n.dylib",
+    "lib/libicuio.68.1.dylib",
+    "lib/libicuio.68.dylib",
+    "lib/libicuio.dylib",
+    "lib/libicutest.68.1.dylib",
+    "lib/libicutest.68.dylib",
+    "lib/libicutest.dylib",
+    "lib/libicutu.68.1.dylib",
+    "lib/libicutu.68.dylib",
+    "lib/libicutu.dylib",
+    "lib/libicuuc.68.1.dylib",
+    "lib/libicuuc.68.dylib",
+    "lib/libicuuc.dylib",
+    "lib/pkgconfig/icu-i18n.pc",
+    "lib/pkgconfig/icu-io.pc",
+    "lib/pkgconfig/icu-uc.pc",
+    "share/icu/68.1/LICENSE",
+    "share/icu/68.1/config/mh-darwin",
+    "share/icu/68.1/install-sh",
+    "share/icu/68.1/mkinstalldirs",
+    "share/man/man1/derb.1",
+    "share/man/man1/genbrk.1",
+    "share/man/man1/gencfu.1",
+    "share/man/man1/gencnval.1",
+    "share/man/man1/gendict.1",
+    "share/man/man1/genrb.1",
+    "share/man/man1/icu-config.1",
+    "share/man/man1/makeconv.1",
+    "share/man/man1/pkgdata.1",
+    "share/man/man8/genccode.8",
+    "share/man/man8/gencmn.8",
+    "share/man/man8/gensprep.8",
+    "share/man/man8/icupkg.8"
+  ],
+  "fn": "icu-68.1-hc377ac9_0.conda",
+  "legacy_bz2_md5": "cec95fa3d8b36559af63caf4fb1f6caf",
+  "license": "MIT",
+  "link": {
+    "source": "/opt/homebrew/Caskroom/miniconda/base/pkgs/icu-68.1-hc377ac9_0",
+    "type": 1
+  },
+  "md5": "14b4f572bb7dc8dde22a03057570cff2",
+  "name": "icu",
+  "package_tarball_full_path": "/opt/homebrew/Caskroom/miniconda/base/pkgs/icu-68.1-hc377ac9_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/derb",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/ktietz/demo/mc3/conda-bld/icu_1630597441882/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "38619d3e87605be34fbc5f3aae9f0eba0ceff5ce96bcfe0033f7e624f1d895c7",
+        "sha256_in_prefix": "6a1c6056bbb93119741266ad35eb4f31a82f710340a615b9ed173e95a9e97f82",
+        "size_in_bytes": 73120
+      },
+      {
+        "_path": "bin/genbrk",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/ktietz/demo/mc3/conda-bld/icu_1630597441882/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "d41f02b3a30a224cf9d5c26ed7684143fd10f5fb392d6a2b9bdba033cbd530fa",
+        "sha256_in_prefix": "2d15709e0c1b35fff2d00a9a1022097986f9c6058017253a713038095b440628",
+        "size_in_bytes": 69584
+      },
+      {
+        "_path": "bin/gencfu",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/ktietz/demo/mc3/conda-bld/icu_1630597441882/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "1f6c5c742f8369c60df9b62143a1a1fbd7beb6b05de3587fc03f6325f5a63f63",
+        "sha256_in_prefix": "c055d7c0f37a60cde7308f6b3faf8baa34133908cd18c9b6be2f859adc163101",
+        "size_in_bytes": 68752
+      },
+      {
+        "_path": "bin/gencnval",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/ktietz/demo/mc3/conda-bld/icu_1630597441882/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "295c62bfe37fe5d034bbfcd7841f3337af23160fbe917abb2e6e8f78de347b87",
+        "sha256_in_prefix": "0650bbd14281a354cca92be7d31a86c4686887e3e56bfa2323c1d7f04e7eff3f",
+        "size_in_bytes": 70080
+      },
+      {
+        "_path": "bin/gendict",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/ktietz/demo/mc3/conda-bld/icu_1630597441882/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "c4b1b7c9f91474c1593a863203753f18cdedd1d86070ae25e769ea42d2f9c36e",
+        "sha256_in_prefix": "3b77f69a7980d9fc88d5eb7bde5a989ca263ed56fcbc4475ef721720e98ccd8a",
+        "size_in_bytes": 72448
+      },
+      {
+        "_path": "bin/genrb",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/ktietz/demo/mc3/conda-bld/icu_1630597441882/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "2ec3ae3487001481f8daad16a5278210e9620d00a76bb5d60aebab4412ee549c",
+        "sha256_in_prefix": "b647b8ecb9b932c92e51e964669ef92b4e2c348a9e220d20252da79dc3422d88",
+        "size_in_bytes": 217472
+      },
+      {
+        "_path": "bin/icu-config",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/ktietz/demo/mc3/conda-bld/icu_1630597441882/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "0d25e183d3b6f733ec9b527f3ce4d5ff1cbe58b2b922ae12aeb540ed09856973",
+        "sha256_in_prefix": "9f148d381f8de6a65254ce1390aa5ea7820adb3cfa99ce51e3dd0714397b1d18",
+        "size_in_bytes": 23539
+      },
+      {
+        "_path": "bin/icuinfo",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/ktietz/demo/mc3/conda-bld/icu_1630597441882/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "94a376c67190c84ab9d249d55033b47766a6694c9bd7e99199e726c9b5cd5956",
+        "sha256_in_prefix": "5a978c346804cb3e54c504f8ac6c9475419b273793eaec6bdad22d5fd9c9072d",
+        "size_in_bytes": 68192
+      },
+      {
+        "_path": "bin/makeconv",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/ktietz/demo/mc3/conda-bld/icu_1630597441882/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "50251fd0d76549e27dfc04c53dbc62379e9a26f842ba33dbf05e46dfba67999e",
+        "sha256_in_prefix": "cb98c8c3ba735c40d9330c8f60876c76aadc0947e117b2ea3a8d53c7e0381727",
+        "size_in_bytes": 106272
+      },
+      {
+        "_path": "bin/pkgdata",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/ktietz/demo/mc3/conda-bld/icu_1630597441882/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "d9bd2d9af798fd8bca8976bd0fd5ec8a5c754bfe6f0d35b376311cc02ff631c8",
+        "sha256_in_prefix": "1ead8185f4c66ae8e006d6b02a8d227dffcb46b692afd7c3eadd093112b06832",
+        "size_in_bytes": 88432
+      },
+      {
+        "_path": "include/unicode/alphaindex.h",
+        "path_type": "hardlink",
+        "sha256": "a8bf6e9f2d00e8c10592856d3408158eca76471a6dc9ed87aaac4669bc88a095",
+        "sha256_in_prefix": "a8bf6e9f2d00e8c10592856d3408158eca76471a6dc9ed87aaac4669bc88a095",
+        "size_in_bytes": 27118
+      },
+      {
+        "_path": "include/unicode/appendable.h",
+        "path_type": "hardlink",
+        "sha256": "8ed6b55b278e77f2231e563782de9646450ece215e1ddaea89ed74f8b375f791",
+        "sha256_in_prefix": "8ed6b55b278e77f2231e563782de9646450ece215e1ddaea89ed74f8b375f791",
+        "size_in_bytes": 8694
+      },
+      {
+        "_path": "include/unicode/basictz.h",
+        "path_type": "hardlink",
+        "sha256": "bc73efe041970847ed37c53cdc18e5645ed24a411a8e70e8c044784599acab11",
+        "sha256_in_prefix": "bc73efe041970847ed37c53cdc18e5645ed24a411a8e70e8c044784599acab11",
+        "size_in_bytes": 9491
+      },
+      {
+        "_path": "include/unicode/brkiter.h",
+        "path_type": "hardlink",
+        "sha256": "ae9d714e4d6e0c89fb1795333230ba40965bdba4820b0939a91210fdbc5f9442",
+        "sha256_in_prefix": "ae9d714e4d6e0c89fb1795333230ba40965bdba4820b0939a91210fdbc5f9442",
+        "size_in_bytes": 28464
+      },
+      {
+        "_path": "include/unicode/bytestream.h",
+        "path_type": "hardlink",
+        "sha256": "564acc54e449e371a666e4e0ae66dbb91a7e55e7c6075d36cae547084d2eba63",
+        "sha256_in_prefix": "564acc54e449e371a666e4e0ae66dbb91a7e55e7c6075d36cae547084d2eba63",
+        "size_in_bytes": 11037
+      },
+      {
+        "_path": "include/unicode/bytestrie.h",
+        "path_type": "hardlink",
+        "sha256": "c46fc328a13dcef9d3ca88c3152e4dfcb4d7370ff7a5d27c82882eef9b45f76c",
+        "sha256_in_prefix": "c46fc328a13dcef9d3ca88c3152e4dfcb4d7370ff7a5d27c82882eef9b45f76c",
+        "size_in_bytes": 21212
+      },
+      {
+        "_path": "include/unicode/bytestriebuilder.h",
+        "path_type": "hardlink",
+        "sha256": "0906481c7db6aa971a99ef25b2731d2c99a5b3c82356dc857987187987d098d8",
+        "sha256_in_prefix": "0906481c7db6aa971a99ef25b2731d2c99a5b3c82356dc857987187987d098d8",
+        "size_in_bytes": 7345
+      },
+      {
+        "_path": "include/unicode/calendar.h",
+        "path_type": "hardlink",
+        "sha256": "d65af60b9067a07c06f2c3fe7bf60a50d98c680fa0c9e9dd907af15349b1c547",
+        "sha256_in_prefix": "d65af60b9067a07c06f2c3fe7bf60a50d98c680fa0c9e9dd907af15349b1c547",
+        "size_in_bytes": 108278
+      },
+      {
+        "_path": "include/unicode/caniter.h",
+        "path_type": "hardlink",
+        "sha256": "dd168f88c6332c71207e2f21014113446e7d47aa237bef63d37db8826bf2aec5",
+        "sha256_in_prefix": "dd168f88c6332c71207e2f21014113446e7d47aa237bef63d37db8826bf2aec5",
+        "size_in_bytes": 7611
+      },
+      {
+        "_path": "include/unicode/casemap.h",
+        "path_type": "hardlink",
+        "sha256": "57090c937a8832ba096204e5ca2b9b14a374838b8230a517965da5025d7e568e",
+        "sha256_in_prefix": "57090c937a8832ba096204e5ca2b9b14a374838b8230a517965da5025d7e568e",
+        "size_in_bytes": 25933
+      },
+      {
+        "_path": "include/unicode/char16ptr.h",
+        "path_type": "hardlink",
+        "sha256": "f8b8118d6a6c7d303f0ff6af21fc691e0a156ce3b014b812f9e65894100cf79a",
+        "sha256_in_prefix": "f8b8118d6a6c7d303f0ff6af21fc691e0a156ce3b014b812f9e65894100cf79a",
+        "size_in_bytes": 7393
+      },
+      {
+        "_path": "include/unicode/chariter.h",
+        "path_type": "hardlink",
+        "sha256": "35a574e5a6b9fcc7d6a8aa1a25c8037ead0ad6031c495ccd7afaf0bed1c00f65",
+        "sha256_in_prefix": "35a574e5a6b9fcc7d6a8aa1a25c8037ead0ad6031c495ccd7afaf0bed1c00f65",
+        "size_in_bytes": 24632
+      },
+      {
+        "_path": "include/unicode/choicfmt.h",
+        "path_type": "hardlink",
+        "sha256": "fd71fb5b0fdcc8a59187ad6e1e4cb5aa6012883c059c5ddd1bbd0eeb003bbec8",
+        "sha256_in_prefix": "fd71fb5b0fdcc8a59187ad6e1e4cb5aa6012883c059c5ddd1bbd0eeb003bbec8",
+        "size_in_bytes": 24482
+      },
+      {
+        "_path": "include/unicode/coleitr.h",
+        "path_type": "hardlink",
+        "sha256": "f9ca87c46021e13859712d9ca9f172120091d4696edfc53012a44812a6ea6761",
+        "sha256_in_prefix": "f9ca87c46021e13859712d9ca9f172120091d4696edfc53012a44812a6ea6761",
+        "size_in_bytes": 14094
+      },
+      {
+        "_path": "include/unicode/coll.h",
+        "path_type": "hardlink",
+        "sha256": "6de4e7cb40813d040ed471c690872a450f36392a0b1650fcdeb198cd400c0a6b",
+        "sha256_in_prefix": "6de4e7cb40813d040ed471c690872a450f36392a0b1650fcdeb198cd400c0a6b",
+        "size_in_bytes": 57606
+      },
+      {
+        "_path": "include/unicode/compactdecimalformat.h",
+        "path_type": "hardlink",
+        "sha256": "d6e10e6994394e26ae66bdc6cda72f1b6af0b1d25e1f03437bbfe9e56a2e2d58",
+        "sha256_in_prefix": "d6e10e6994394e26ae66bdc6cda72f1b6af0b1d25e1f03437bbfe9e56a2e2d58",
+        "size_in_bytes": 7047
+      },
+      {
+        "_path": "include/unicode/curramt.h",
+        "path_type": "hardlink",
+        "sha256": "824324364c5901eb8203728e44c49f85e37ee3e6da5f5429c5ca37f4c8be54a9",
+        "sha256_in_prefix": "824324364c5901eb8203728e44c49f85e37ee3e6da5f5429c5ca37f4c8be54a9",
+        "size_in_bytes": 3851
+      },
+      {
+        "_path": "include/unicode/currpinf.h",
+        "path_type": "hardlink",
+        "sha256": "35ec387e8290402bc6643ed63dcf96637af5597f8dcc35aaa70ed91342ae00a2",
+        "sha256_in_prefix": "35ec387e8290402bc6643ed63dcf96637af5597f8dcc35aaa70ed91342ae00a2",
+        "size_in_bytes": 7473
+      },
+      {
+        "_path": "include/unicode/currunit.h",
+        "path_type": "hardlink",
+        "sha256": "7d458b0da3ac5c5798e142efac66a49ec447c0627cc963ae62db6e1c543e04bb",
+        "sha256_in_prefix": "7d458b0da3ac5c5798e142efac66a49ec447c0627cc963ae62db6e1c543e04bb",
+        "size_in_bytes": 4094
+      },
+      {
+        "_path": "include/unicode/datefmt.h",
+        "path_type": "hardlink",
+        "sha256": "0791dae9917bb75db4b2ec0d8f2bcaaf957f843c9b8ad184753a402c121720ed",
+        "sha256_in_prefix": "0791dae9917bb75db4b2ec0d8f2bcaaf957f843c9b8ad184753a402c121720ed",
+        "size_in_bytes": 41641
+      },
+      {
+        "_path": "include/unicode/dbbi.h",
+        "path_type": "hardlink",
+        "sha256": "e581695e25e5eb36d29444d67efe125a5c59b96d80b69fc590673a4edbc90d82",
+        "sha256_in_prefix": "e581695e25e5eb36d29444d67efe125a5c59b96d80b69fc590673a4edbc90d82",
+        "size_in_bytes": 1223
+      },
+      {
+        "_path": "include/unicode/dcfmtsym.h",
+        "path_type": "hardlink",
+        "sha256": "19a215234cafae2530e63c883ff249b93ddc80f9f270430a23e70ead10270c1e",
+        "sha256_in_prefix": "19a215234cafae2530e63c883ff249b93ddc80f9f270430a23e70ead10270c1e",
+        "size_in_bytes": 20909
+      },
+      {
+        "_path": "include/unicode/decimfmt.h",
+        "path_type": "hardlink",
+        "sha256": "6b61d143e5b582a0fb8a0a3193da16c993d7fcb985bcf831c1eb86d940dad702",
+        "sha256_in_prefix": "6b61d143e5b582a0fb8a0a3193da16c993d7fcb985bcf831c1eb86d940dad702",
+        "size_in_bytes": 89677
+      },
+      {
+        "_path": "include/unicode/docmain.h",
+        "path_type": "hardlink",
+        "sha256": "308a979ae91ec4b974c8d02d18997fdcad02718bcbf3b6b7ad5772d67b81c8b5",
+        "sha256_in_prefix": "308a979ae91ec4b974c8d02d18997fdcad02718bcbf3b6b7ad5772d67b81c8b5",
+        "size_in_bytes": 7199
+      },
+      {
+        "_path": "include/unicode/dtfmtsym.h",
+        "path_type": "hardlink",
+        "sha256": "cc0e3394cffe52f677c09897a9d1058e43bea4c7605a32c339a867360f9b2311",
+        "sha256_in_prefix": "cc0e3394cffe52f677c09897a9d1058e43bea4c7605a32c339a867360f9b2311",
+        "size_in_bytes": 38633
+      },
+      {
+        "_path": "include/unicode/dtintrv.h",
+        "path_type": "hardlink",
+        "sha256": "82d6507815dec99ec9c04258e0ad8d5c2a705fb4769a7aeffb8be409f941c777",
+        "sha256_in_prefix": "82d6507815dec99ec9c04258e0ad8d5c2a705fb4769a7aeffb8be409f941c777",
+        "size_in_bytes": 3930
+      },
+      {
+        "_path": "include/unicode/dtitvfmt.h",
+        "path_type": "hardlink",
+        "sha256": "ab6b0f13b374fcaccdf104ebca21e7f4cac491ee554e23a8dadcdfdd6b15a8cf",
+        "sha256_in_prefix": "ab6b0f13b374fcaccdf104ebca21e7f4cac491ee554e23a8dadcdfdd6b15a8cf",
+        "size_in_bytes": 49800
+      },
+      {
+        "_path": "include/unicode/dtitvinf.h",
+        "path_type": "hardlink",
+        "sha256": "25d4196ef8c2b161f4fb1a44d372c62dfdd2b5d303478d5ee7fc4a1606abdcd6",
+        "sha256_in_prefix": "25d4196ef8c2b161f4fb1a44d372c62dfdd2b5d303478d5ee7fc4a1606abdcd6",
+        "size_in_bytes": 19064
+      },
+      {
+        "_path": "include/unicode/dtptngen.h",
+        "path_type": "hardlink",
+        "sha256": "fad7df796fc0d28e9ff9941619ae10f8a75ee2f61f92c933addaced7e819e3c4",
+        "sha256_in_prefix": "fad7df796fc0d28e9ff9941619ae10f8a75ee2f61f92c933addaced7e819e3c4",
+        "size_in_bytes": 26739
+      },
+      {
+        "_path": "include/unicode/dtrule.h",
+        "path_type": "hardlink",
+        "sha256": "47473697cf0eeb9d02ab7c50d9bc33b2593ddb029af7af9f3f3f46e8078925d4",
+        "sha256_in_prefix": "47473697cf0eeb9d02ab7c50d9bc33b2593ddb029af7af9f3f3f46e8078925d4",
+        "size_in_bytes": 8888
+      },
+      {
+        "_path": "include/unicode/edits.h",
+        "path_type": "hardlink",
+        "sha256": "4d191866840390f7e5d86d69c1fe5ac0bcd3ab7dbe71f9e89c91bd879511cdf6",
+        "sha256_in_prefix": "4d191866840390f7e5d86d69c1fe5ac0bcd3ab7dbe71f9e89c91bd879511cdf6",
+        "size_in_bytes": 21237
+      },
+      {
+        "_path": "include/unicode/enumset.h",
+        "path_type": "hardlink",
+        "sha256": "714e52368f8c204a118440c04587c6ed953a3000e2243004631ec5522bfaef04",
+        "sha256_in_prefix": "714e52368f8c204a118440c04587c6ed953a3000e2243004631ec5522bfaef04",
+        "size_in_bytes": 2130
+      },
+      {
+        "_path": "include/unicode/errorcode.h",
+        "path_type": "hardlink",
+        "sha256": "e299e97e2f11f8ead9c3e7cfe24a785a98bab94ef86500a97f0b1df55efc5d1d",
+        "sha256_in_prefix": "e299e97e2f11f8ead9c3e7cfe24a785a98bab94ef86500a97f0b1df55efc5d1d",
+        "size_in_bytes": 4956
+      },
+      {
+        "_path": "include/unicode/fieldpos.h",
+        "path_type": "hardlink",
+        "sha256": "0d1c65a5b78891c315e6b38d3d39c78afdeed19515f4f8d50a47517d7e81b512",
+        "sha256_in_prefix": "0d1c65a5b78891c315e6b38d3d39c78afdeed19515f4f8d50a47517d7e81b512",
+        "size_in_bytes": 8899
+      },
+      {
+        "_path": "include/unicode/filteredbrk.h",
+        "path_type": "hardlink",
+        "sha256": "945a4366e5a11fd17ff77a4c325dd26df4fb02eb4c3b71d67b468843271938fc",
+        "sha256_in_prefix": "945a4366e5a11fd17ff77a4c325dd26df4fb02eb4c3b71d67b468843271938fc",
+        "size_in_bytes": 5501
+      },
+      {
+        "_path": "include/unicode/fmtable.h",
+        "path_type": "hardlink",
+        "sha256": "6340b2197b6848e87d21b91cc47e7c7f2875f79d15506878cc3e057b741ffc47",
+        "sha256_in_prefix": "6340b2197b6848e87d21b91cc47e7c7f2875f79d15506878cc3e057b741ffc47",
+        "size_in_bytes": 25007
+      },
+      {
+        "_path": "include/unicode/format.h",
+        "path_type": "hardlink",
+        "sha256": "62a07671426b27a4503863c4b637f0516205a9222776e62fbdbb6cec0fd9118e",
+        "sha256_in_prefix": "62a07671426b27a4503863c4b637f0516205a9222776e62fbdbb6cec0fd9118e",
+        "size_in_bytes": 12802
+      },
+      {
+        "_path": "include/unicode/formattedvalue.h",
+        "path_type": "hardlink",
+        "sha256": "33c0e70172c87d3e1dcb3d656c08f23efd927d96d19d1c4f7264a757f0a5e238",
+        "sha256_in_prefix": "33c0e70172c87d3e1dcb3d656c08f23efd927d96d19d1c4f7264a757f0a5e238",
+        "size_in_bytes": 9987
+      },
+      {
+        "_path": "include/unicode/fpositer.h",
+        "path_type": "hardlink",
+        "sha256": "d01c76609d4d2b4a11d36c895539954ddb43749e54605c301ad75b7d1b8aeb1a",
+        "sha256_in_prefix": "d01c76609d4d2b4a11d36c895539954ddb43749e54605c301ad75b7d1b8aeb1a",
+        "size_in_bytes": 3109
+      },
+      {
+        "_path": "include/unicode/gender.h",
+        "path_type": "hardlink",
+        "sha256": "30e732583aa034e65f74c19ba751dc90179051917d974f6825f0085a267c29b3",
+        "sha256_in_prefix": "30e732583aa034e65f74c19ba751dc90179051917d974f6825f0085a267c29b3",
+        "size_in_bytes": 3408
+      },
+      {
+        "_path": "include/unicode/gregocal.h",
+        "path_type": "hardlink",
+        "sha256": "176368ce9d5fdb3bf5bff5add0348e1a4521c8baf49ac6decef6b66a204e0b7c",
+        "sha256_in_prefix": "176368ce9d5fdb3bf5bff5add0348e1a4521c8baf49ac6decef6b66a204e0b7c",
+        "size_in_bytes": 32472
+      },
+      {
+        "_path": "include/unicode/icudataver.h",
+        "path_type": "hardlink",
+        "sha256": "5b127ee0c08b297cc97db14da06f9f52ab119e54c6fcc8732c89ff50d0e69ae8",
+        "sha256_in_prefix": "5b127ee0c08b297cc97db14da06f9f52ab119e54c6fcc8732c89ff50d0e69ae8",
+        "size_in_bytes": 1049
+      },
+      {
+        "_path": "include/unicode/icuplug.h",
+        "path_type": "hardlink",
+        "sha256": "36c879b9b9c2c84e31f4eb0af8e84129f9f12b19f435c357f5f33f8ed5ab3069",
+        "sha256_in_prefix": "36c879b9b9c2c84e31f4eb0af8e84129f9f12b19f435c357f5f33f8ed5ab3069",
+        "size_in_bytes": 12098
+      },
+      {
+        "_path": "include/unicode/idna.h",
+        "path_type": "hardlink",
+        "sha256": "31f4bff60cdeaad9273a5a12e05777ed083b76146d6892e5916d0630e902b958",
+        "sha256_in_prefix": "31f4bff60cdeaad9273a5a12e05777ed083b76146d6892e5916d0630e902b958",
+        "size_in_bytes": 13000
+      },
+      {
+        "_path": "include/unicode/listformatter.h",
+        "path_type": "hardlink",
+        "sha256": "d261869b99925dee741d6ed48deb47e42a7b5ce6ce61b47bddac34595216e2b2",
+        "sha256_in_prefix": "d261869b99925dee741d6ed48deb47e42a7b5ce6ce61b47bddac34595216e2b2",
+        "size_in_bytes": 9493
+      },
+      {
+        "_path": "include/unicode/localebuilder.h",
+        "path_type": "hardlink",
+        "sha256": "14bf0a5d7d621bdb7f1696dad91b4aaa5660a06a6a8650e35b4078c4f8e79f60",
+        "sha256_in_prefix": "14bf0a5d7d621bdb7f1696dad91b4aaa5660a06a6a8650e35b4078c4f8e79f60",
+        "size_in_bytes": 11495
+      },
+      {
+        "_path": "include/unicode/localematcher.h",
+        "path_type": "hardlink",
+        "sha256": "15b9ab9706d675fafbc75fbce0bb1771e430158549179bc991fce869d5692ef6",
+        "sha256_in_prefix": "15b9ab9706d675fafbc75fbce0bb1771e430158549179bc991fce869d5692ef6",
+        "size_in_bytes": 27779
+      },
+      {
+        "_path": "include/unicode/localpointer.h",
+        "path_type": "hardlink",
+        "sha256": "c4a82bdabcb218fc4dc76fe17473c3b402f9881cb2c7f593421c90daae6ce6c1",
+        "sha256_in_prefix": "c4a82bdabcb218fc4dc76fe17473c3b402f9881cb2c7f593421c90daae6ce6c1",
+        "size_in_bytes": 19829
+      },
+      {
+        "_path": "include/unicode/locdspnm.h",
+        "path_type": "hardlink",
+        "sha256": "823ddebeaea6229b9d9cf85e8cf3ced7afb53476c8bbccd5bcf3c15c0d967e2c",
+        "sha256_in_prefix": "823ddebeaea6229b9d9cf85e8cf3ced7afb53476c8bbccd5bcf3c15c0d967e2c",
+        "size_in_bytes": 7292
+      },
+      {
+        "_path": "include/unicode/locid.h",
+        "path_type": "hardlink",
+        "sha256": "8ef78fdcd4ad949b68b5105de1abc42e9d8c1410568aec3a74456f10c204603c",
+        "sha256_in_prefix": "8ef78fdcd4ad949b68b5105de1abc42e9d8c1410568aec3a74456f10c204603c",
+        "size_in_bytes": 48848
+      },
+      {
+        "_path": "include/unicode/measfmt.h",
+        "path_type": "hardlink",
+        "sha256": "314c438768c47706b128af32733d95a4075cfc837250568e25791a66eade4b7c",
+        "sha256_in_prefix": "314c438768c47706b128af32733d95a4075cfc837250568e25791a66eade4b7c",
+        "size_in_bytes": 11603
+      },
+      {
+        "_path": "include/unicode/measunit.h",
+        "path_type": "hardlink",
+        "sha256": "fa943d0cd35437ae1e93d1520e91bf42187db63bf1c877c640193b7303fd2f95",
+        "sha256_in_prefix": "fa943d0cd35437ae1e93d1520e91bf42187db63bf1c877c640193b7303fd2f95",
+        "size_in_bytes": 102548
+      },
+      {
+        "_path": "include/unicode/measure.h",
+        "path_type": "hardlink",
+        "sha256": "1b65ed46de0b18f68074778d176ce1b7cb8220925aebf48d424830443e0364d5",
+        "sha256_in_prefix": "1b65ed46de0b18f68074778d176ce1b7cb8220925aebf48d424830443e0364d5",
+        "size_in_bytes": 4423
+      },
+      {
+        "_path": "include/unicode/messagepattern.h",
+        "path_type": "hardlink",
+        "sha256": "29d08788649290a8a4b8cf4ec367f5583dd3db9ed0f12fd5f7e8fb96ad70ba42",
+        "sha256_in_prefix": "29d08788649290a8a4b8cf4ec367f5583dd3db9ed0f12fd5f7e8fb96ad70ba42",
+        "size_in_bytes": 34521
+      },
+      {
+        "_path": "include/unicode/msgfmt.h",
+        "path_type": "hardlink",
+        "sha256": "cdeebec5b60d82292bad780f9fb9528e8ff29836955ba16e008711ef7280f6db",
+        "sha256_in_prefix": "cdeebec5b60d82292bad780f9fb9528e8ff29836955ba16e008711ef7280f6db",
+        "size_in_bytes": 45180
+      },
+      {
+        "_path": "include/unicode/normalizer2.h",
+        "path_type": "hardlink",
+        "sha256": "35e01a2ff4ca5953013164f5374aacfded92ca949a98522bc6edcae22208cf28",
+        "sha256_in_prefix": "35e01a2ff4ca5953013164f5374aacfded92ca949a98522bc6edcae22208cf28",
+        "size_in_bytes": 34851
+      },
+      {
+        "_path": "include/unicode/normlzr.h",
+        "path_type": "hardlink",
+        "sha256": "d00bb94fd17c6a93fe72466c8ad2abaa688de513c98355c0c7ab01cb2f00ea14",
+        "sha256_in_prefix": "d00bb94fd17c6a93fe72466c8ad2abaa688de513c98355c0c7ab01cb2f00ea14",
+        "size_in_bytes": 31682
+      },
+      {
+        "_path": "include/unicode/nounit.h",
+        "path_type": "hardlink",
+        "sha256": "86b21eaca1d2dc69f924f3d61e245929ed265792d96aa8395e1f7eaeeffc35b8",
+        "sha256_in_prefix": "86b21eaca1d2dc69f924f3d61e245929ed265792d96aa8395e1f7eaeeffc35b8",
+        "size_in_bytes": 2358
+      },
+      {
+        "_path": "include/unicode/numberformatter.h",
+        "path_type": "hardlink",
+        "sha256": "bce8fb638718dcc9a2f07daa2b4fafd3d5e0a7682de96cfdaad9773ba9e1e814",
+        "sha256_in_prefix": "bce8fb638718dcc9a2f07daa2b4fafd3d5e0a7682de96cfdaad9773ba9e1e814",
+        "size_in_bytes": 91219
+      },
+      {
+        "_path": "include/unicode/numberrangeformatter.h",
+        "path_type": "hardlink",
+        "sha256": "68b27847ef8b989c7f399dcf53db0b1bd7bf34f4a144d770c111f0b06fbfd9df",
+        "sha256_in_prefix": "68b27847ef8b989c7f399dcf53db0b1bd7bf34f4a144d770c111f0b06fbfd9df",
+        "size_in_bytes": 27356
+      },
+      {
+        "_path": "include/unicode/numfmt.h",
+        "path_type": "hardlink",
+        "sha256": "1eb6f6b5b65d52960234ddef10cbb5647ba073eba2b949192c6b5a7fcd163faa",
+        "sha256_in_prefix": "1eb6f6b5b65d52960234ddef10cbb5647ba073eba2b949192c6b5a7fcd163faa",
+        "size_in_bytes": 50962
+      },
+      {
+        "_path": "include/unicode/numsys.h",
+        "path_type": "hardlink",
+        "sha256": "6add266b293ff97982101ec5ecc90b45432f312b045905983e085b4c0353911c",
+        "sha256_in_prefix": "6add266b293ff97982101ec5ecc90b45432f312b045905983e085b4c0353911c",
+        "size_in_bytes": 7500
+      },
+      {
+        "_path": "include/unicode/parseerr.h",
+        "path_type": "hardlink",
+        "sha256": "85336d61449740ae90a0c2c36cfd671e0aa3200c92d94e07afc3e82aacb19b35",
+        "sha256_in_prefix": "85336d61449740ae90a0c2c36cfd671e0aa3200c92d94e07afc3e82aacb19b35",
+        "size_in_bytes": 3155
+      },
+      {
+        "_path": "include/unicode/parsepos.h",
+        "path_type": "hardlink",
+        "sha256": "29a81c2955538ad820120d2ae31ed1f96daa4468608ba017dcdac7c2e2da0362",
+        "sha256_in_prefix": "29a81c2955538ad820120d2ae31ed1f96daa4468608ba017dcdac7c2e2da0362",
+        "size_in_bytes": 5692
+      },
+      {
+        "_path": "include/unicode/platform.h",
+        "path_type": "hardlink",
+        "sha256": "67ed9b8a6caf33a929e4a957a3ce32cfd86c43ee9411388c5b8fd793f32dfd19",
+        "sha256_in_prefix": "67ed9b8a6caf33a929e4a957a3ce32cfd86c43ee9411388c5b8fd793f32dfd19",
+        "size_in_bytes": 28751
+      },
+      {
+        "_path": "include/unicode/plurfmt.h",
+        "path_type": "hardlink",
+        "sha256": "e69d8e53e932b855739b6d1b0156e3e3825de71332461bb8cbbf9df6d8eec658",
+        "sha256_in_prefix": "e69d8e53e932b855739b6d1b0156e3e3825de71332461bb8cbbf9df6d8eec658",
+        "size_in_bytes": 25782
+      },
+      {
+        "_path": "include/unicode/plurrule.h",
+        "path_type": "hardlink",
+        "sha256": "4fe752be225ba8e3f534061348376a26571ac7430cdd814bb39a7e90d8c92127",
+        "sha256_in_prefix": "4fe752be225ba8e3f534061348376a26571ac7430cdd814bb39a7e90d8c92127",
+        "size_in_bytes": 21342
+      },
+      {
+        "_path": "include/unicode/ptypes.h",
+        "path_type": "hardlink",
+        "sha256": "08ea1afce826da8dae3019bdd733682ec73ed1b3bb3bbd0fe730ebae006bbfb4",
+        "sha256_in_prefix": "08ea1afce826da8dae3019bdd733682ec73ed1b3bb3bbd0fe730ebae006bbfb4",
+        "size_in_bytes": 3577
+      },
+      {
+        "_path": "include/unicode/putil.h",
+        "path_type": "hardlink",
+        "sha256": "2583f4ea86136be8366527c79121721d4f917ed4b21137667333249ff83b1fad",
+        "sha256_in_prefix": "2583f4ea86136be8366527c79121721d4f917ed4b21137667333249ff83b1fad",
+        "size_in_bytes": 6471
+      },
+      {
+        "_path": "include/unicode/rbbi.h",
+        "path_type": "hardlink",
+        "sha256": "421e210af72b1be1e5c5f71f202c816cde3921ce49b906bd146f5f40c203b0b5",
+        "sha256_in_prefix": "421e210af72b1be1e5c5f71f202c816cde3921ce49b906bd146f5f40c203b0b5",
+        "size_in_bytes": 28227
+      },
+      {
+        "_path": "include/unicode/rbnf.h",
+        "path_type": "hardlink",
+        "sha256": "3e8d75f357bc1fc2831dfea3869f433101550ec9e826bc074a6ce856cbf9ec99",
+        "sha256_in_prefix": "3e8d75f357bc1fc2831dfea3869f433101550ec9e826bc074a6ce856cbf9ec99",
+        "size_in_bytes": 49906
+      },
+      {
+        "_path": "include/unicode/rbtz.h",
+        "path_type": "hardlink",
+        "sha256": "6167cf7dd7f0b22aa7d83d26add103adce00de5aef593b7f2a7c59d5709c9b0a",
+        "sha256_in_prefix": "6167cf7dd7f0b22aa7d83d26add103adce00de5aef593b7f2a7c59d5709c9b0a",
+        "size_in_bytes": 15979
+      },
+      {
+        "_path": "include/unicode/regex.h",
+        "path_type": "hardlink",
+        "sha256": "43d0c3f1ef1eff8c82204daef13a37ceea26f79a7cbc6a41f2f3caed27c6ed6d",
+        "sha256_in_prefix": "43d0c3f1ef1eff8c82204daef13a37ceea26f79a7cbc6a41f2f3caed27c6ed6d",
+        "size_in_bytes": 86367
+      },
+      {
+        "_path": "include/unicode/region.h",
+        "path_type": "hardlink",
+        "sha256": "5a06631ca6165b12c27d305ddf8d6877685cd265dbb9e5713f0af2c0d993e3ad",
+        "sha256_in_prefix": "5a06631ca6165b12c27d305ddf8d6877685cd265dbb9e5713f0af2c0d993e3ad",
+        "size_in_bytes": 9404
+      },
+      {
+        "_path": "include/unicode/reldatefmt.h",
+        "path_type": "hardlink",
+        "sha256": "c82bffc1c48ab34e2456704e461bec9123c71226f9cb061e5e581cf9e87f192d",
+        "sha256_in_prefix": "c82bffc1c48ab34e2456704e461bec9123c71226f9cb061e5e581cf9e87f192d",
+        "size_in_bytes": 22751
+      },
+      {
+        "_path": "include/unicode/rep.h",
+        "path_type": "hardlink",
+        "sha256": "4c5ddf1c469029e8f73f56b77b163f55fd4fd4d15683847e02c737eacb012a12",
+        "sha256_in_prefix": "4c5ddf1c469029e8f73f56b77b163f55fd4fd4d15683847e02c737eacb012a12",
+        "size_in_bytes": 9599
+      },
+      {
+        "_path": "include/unicode/resbund.h",
+        "path_type": "hardlink",
+        "sha256": "c147e68a9112632f60ec6d366e11e58a370156f2d76fbd7e65e7461b189c9ff6",
+        "sha256_in_prefix": "c147e68a9112632f60ec6d366e11e58a370156f2d76fbd7e65e7461b189c9ff6",
+        "size_in_bytes": 18503
+      },
+      {
+        "_path": "include/unicode/schriter.h",
+        "path_type": "hardlink",
+        "sha256": "ba43311862d93752c6ac39cf93a5d86d2c1e0772a81c36c95b22f84ba76606ce",
+        "sha256_in_prefix": "ba43311862d93752c6ac39cf93a5d86d2c1e0772a81c36c95b22f84ba76606ce",
+        "size_in_bytes": 6475
+      },
+      {
+        "_path": "include/unicode/scientificnumberformatter.h",
+        "path_type": "hardlink",
+        "sha256": "0f13abd13555f7050ecf15a851ebe2264ab46f273cec41b255e1e4d63e35eda9",
+        "sha256_in_prefix": "0f13abd13555f7050ecf15a851ebe2264ab46f273cec41b255e1e4d63e35eda9",
+        "size_in_bytes": 6553
+      },
+      {
+        "_path": "include/unicode/search.h",
+        "path_type": "hardlink",
+        "sha256": "6817d934544181b43c70b877bad0c81923c96b79a3c3d3760fa07e225f1b6442",
+        "sha256_in_prefix": "6817d934544181b43c70b877bad0c81923c96b79a3c3d3760fa07e225f1b6442",
+        "size_in_bytes": 22757
+      },
+      {
+        "_path": "include/unicode/selfmt.h",
+        "path_type": "hardlink",
+        "sha256": "bd3e2e4c2a08d01fc30ba2154878de479d6c2ca035176eae1483f5202bbe7907",
+        "sha256_in_prefix": "bd3e2e4c2a08d01fc30ba2154878de479d6c2ca035176eae1483f5202bbe7907",
+        "size_in_bytes": 14643
+      },
+      {
+        "_path": "include/unicode/simpleformatter.h",
+        "path_type": "hardlink",
+        "sha256": "03830e14fb23d109dc518c8c2e0516ee30dc6472cb3a897a0309510b58744eca",
+        "sha256_in_prefix": "03830e14fb23d109dc518c8c2e0516ee30dc6472cb3a897a0309510b58744eca",
+        "size_in_bytes": 12888
+      },
+      {
+        "_path": "include/unicode/simpletz.h",
+        "path_type": "hardlink",
+        "sha256": "9ae5a719def00ecb7009210f4bd46d46fff718a96bb1631fb98b8ff53cd03b8f",
+        "sha256_in_prefix": "9ae5a719def00ecb7009210f4bd46d46fff718a96bb1631fb98b8ff53cd03b8f",
+        "size_in_bytes": 46527
+      },
+      {
+        "_path": "include/unicode/smpdtfmt.h",
+        "path_type": "hardlink",
+        "sha256": "e0d5b593b06afa7a859f4ad1119264964893004f9795de52660d5b7293fb4dde",
+        "sha256_in_prefix": "e0d5b593b06afa7a859f4ad1119264964893004f9795de52660d5b7293fb4dde",
+        "size_in_bytes": 72699
+      },
+      {
+        "_path": "include/unicode/sortkey.h",
+        "path_type": "hardlink",
+        "sha256": "711ea99a00a75261feb55203f868a0fd64817f43ee83d1c30a939ca6b242b1ee",
+        "sha256_in_prefix": "711ea99a00a75261feb55203f868a0fd64817f43ee83d1c30a939ca6b242b1ee",
+        "size_in_bytes": 11444
+      },
+      {
+        "_path": "include/unicode/std_string.h",
+        "path_type": "hardlink",
+        "sha256": "2f5197b3e654925b3aeddae520a362f2544dd95242c140d3cf32b67ca83f6489",
+        "sha256_in_prefix": "2f5197b3e654925b3aeddae520a362f2544dd95242c140d3cf32b67ca83f6489",
+        "size_in_bytes": 1076
+      },
+      {
+        "_path": "include/unicode/strenum.h",
+        "path_type": "hardlink",
+        "sha256": "94a54ac0cfc6a67fe17f734571ba80c6cffa94a39102783bf48381b03c9ba8e0",
+        "sha256_in_prefix": "94a54ac0cfc6a67fe17f734571ba80c6cffa94a39102783bf48381b03c9ba8e0",
+        "size_in_bytes": 10158
+      },
+      {
+        "_path": "include/unicode/stringoptions.h",
+        "path_type": "hardlink",
+        "sha256": "931533a849801ebb07e324f877f9e5d65c16b782d708d678f4918bf7fa206908",
+        "sha256_in_prefix": "931533a849801ebb07e324f877f9e5d65c16b782d708d678f4918bf7fa206908",
+        "size_in_bytes": 5926
+      },
+      {
+        "_path": "include/unicode/stringpiece.h",
+        "path_type": "hardlink",
+        "sha256": "2a81173a4a7f3a82f12a41ba3f3cdf46a452d28cc6d70dc7665bf10145d0d22c",
+        "sha256_in_prefix": "2a81173a4a7f3a82f12a41ba3f3cdf46a452d28cc6d70dc7665bf10145d0d22c",
+        "size_in_bytes": 10545
+      },
+      {
+        "_path": "include/unicode/stringtriebuilder.h",
+        "path_type": "hardlink",
+        "sha256": "90ef691c71b3641e89792121c5fc3a7dec4d761d6f3bb14247203ada55011448",
+        "sha256_in_prefix": "90ef691c71b3641e89792121c5fc3a7dec4d761d6f3bb14247203ada55011448",
+        "size_in_bytes": 15698
+      },
+      {
+        "_path": "include/unicode/stsearch.h",
+        "path_type": "hardlink",
+        "sha256": "2f9fb909762e7070936d4f9c713891f1587a3b9e03eb0844a797cf19ab0a6137",
+        "sha256_in_prefix": "2f9fb909762e7070936d4f9c713891f1587a3b9e03eb0844a797cf19ab0a6137",
+        "size_in_bytes": 21810
+      },
+      {
+        "_path": "include/unicode/symtable.h",
+        "path_type": "hardlink",
+        "sha256": "0ecc90ea2290ead7eec1abb713ae3c97fd4f2c9e561b22cf3428a75750b541ed",
+        "sha256_in_prefix": "0ecc90ea2290ead7eec1abb713ae3c97fd4f2c9e561b22cf3428a75750b541ed",
+        "size_in_bytes": 4374
+      },
+      {
+        "_path": "include/unicode/tblcoll.h",
+        "path_type": "hardlink",
+        "sha256": "9ab725db76712e7214fd857b80f703d0fb53cdeaeed70ee2ed8764375fb7793e",
+        "sha256_in_prefix": "9ab725db76712e7214fd857b80f703d0fb53cdeaeed70ee2ed8764375fb7793e",
+        "size_in_bytes": 37525
+      },
+      {
+        "_path": "include/unicode/timezone.h",
+        "path_type": "hardlink",
+        "sha256": "c153ee3fec672ddb8e429e8a3310c3189ad851acdc71b87563137dae2117b391",
+        "sha256_in_prefix": "c153ee3fec672ddb8e429e8a3310c3189ad851acdc71b87563137dae2117b391",
+        "size_in_bytes": 42516
+      },
+      {
+        "_path": "include/unicode/tmunit.h",
+        "path_type": "hardlink",
+        "sha256": "559a6f81af6f95bb511e8742fa071984220703547f995441d71cbcc1ffac8f17",
+        "sha256_in_prefix": "559a6f81af6f95bb511e8742fa071984220703547f995441d71cbcc1ffac8f17",
+        "size_in_bytes": 3461
+      },
+      {
+        "_path": "include/unicode/tmutamt.h",
+        "path_type": "hardlink",
+        "sha256": "68f0a70382adac0d5fc2723ea9e0cc439e7b6efe46bd8310b5b3bb96b40fb38f",
+        "sha256_in_prefix": "68f0a70382adac0d5fc2723ea9e0cc439e7b6efe46bd8310b5b3bb96b40fb38f",
+        "size_in_bytes": 5015
+      },
+      {
+        "_path": "include/unicode/tmutfmt.h",
+        "path_type": "hardlink",
+        "sha256": "e7359e39bc454aa2ce755e9b0ba8252f6fcb68797d2f0c3a11d5332fecc322eb",
+        "sha256_in_prefix": "e7359e39bc454aa2ce755e9b0ba8252f6fcb68797d2f0c3a11d5332fecc322eb",
+        "size_in_bytes": 8042
+      },
+      {
+        "_path": "include/unicode/translit.h",
+        "path_type": "hardlink",
+        "sha256": "81a30e6f0a7b65ed0404396b416cb99c6b4b0f73d591dd8f637798a9cb863525",
+        "sha256_in_prefix": "81a30e6f0a7b65ed0404396b416cb99c6b4b0f73d591dd8f637798a9cb863525",
+        "size_in_bytes": 67400
+      },
+      {
+        "_path": "include/unicode/tzfmt.h",
+        "path_type": "hardlink",
+        "sha256": "045e000333aae28f4b293425c90f0242f1c954b8358a418daf2902109ac8015c",
+        "sha256_in_prefix": "045e000333aae28f4b293425c90f0242f1c954b8358a418daf2902109ac8015c",
+        "size_in_bytes": 43916
+      },
+      {
+        "_path": "include/unicode/tznames.h",
+        "path_type": "hardlink",
+        "sha256": "e2c902847678029e1b75a0aadc0e90542e258d694d70ecd6062eb6e5421d9bc1",
+        "sha256_in_prefix": "e2c902847678029e1b75a0aadc0e90542e258d694d70ecd6062eb6e5421d9bc1",
+        "size_in_bytes": 17252
+      },
+      {
+        "_path": "include/unicode/tzrule.h",
+        "path_type": "hardlink",
+        "sha256": "9effe6730cba569176ab7b56a60d31c4e17454d388a90e898b6da6bb3bd23593",
+        "sha256_in_prefix": "9effe6730cba569176ab7b56a60d31c4e17454d388a90e898b6da6bb3bd23593",
+        "size_in_bytes": 36215
+      },
+      {
+        "_path": "include/unicode/tztrans.h",
+        "path_type": "hardlink",
+        "sha256": "87345a39ac47a17b1a06bf7f2c8b3edee81014e3deb78fbbb600ad46fb1e8349",
+        "sha256_in_prefix": "87345a39ac47a17b1a06bf7f2c8b3edee81014e3deb78fbbb600ad46fb1e8349",
+        "size_in_bytes": 6271
+      },
+      {
+        "_path": "include/unicode/ubidi.h",
+        "path_type": "hardlink",
+        "sha256": "ee571d511cca23d98a400d8aef0e914ce7ed655d3c4152d5a6611c44626ba9a4",
+        "sha256_in_prefix": "ee571d511cca23d98a400d8aef0e914ce7ed655d3c4152d5a6611c44626ba9a4",
+        "size_in_bytes": 91688
+      },
+      {
+        "_path": "include/unicode/ubiditransform.h",
+        "path_type": "hardlink",
+        "sha256": "357050f71e6e71d03829cccdbd0068761ab096e07ed9f1939703a200dc152374",
+        "sha256_in_prefix": "357050f71e6e71d03829cccdbd0068761ab096e07ed9f1939703a200dc152374",
+        "size_in_bytes": 13003
+      },
+      {
+        "_path": "include/unicode/ubrk.h",
+        "path_type": "hardlink",
+        "sha256": "609d8a641d17ea179f13c5d0df73b97335287b5a82f3e73259c963b0953aa319",
+        "sha256_in_prefix": "609d8a641d17ea179f13c5d0df73b97335287b5a82f3e73259c963b0953aa319",
+        "size_in_bytes": 24562
+      },
+      {
+        "_path": "include/unicode/ucal.h",
+        "path_type": "hardlink",
+        "sha256": "33e68e15fbef7d31ec80ae1d4cab62edaf396ecec7e2409dc84f9e4a7d606359",
+        "sha256_in_prefix": "33e68e15fbef7d31ec80ae1d4cab62edaf396ecec7e2409dc84f9e4a7d606359",
+        "size_in_bytes": 58191
+      },
+      {
+        "_path": "include/unicode/ucasemap.h",
+        "path_type": "hardlink",
+        "sha256": "5ddf524ee8949ec03970267d60bb2ead1ecffb2a65d3bdd4d559c210a1df0bac",
+        "sha256_in_prefix": "5ddf524ee8949ec03970267d60bb2ead1ecffb2a65d3bdd4d559c210a1df0bac",
+        "size_in_bytes": 15579
+      },
+      {
+        "_path": "include/unicode/ucat.h",
+        "path_type": "hardlink",
+        "sha256": "0a1990e56a7384fad3114fe0abc88561087a516acabdbfe9a30ed4c1619d4ec6",
+        "sha256_in_prefix": "0a1990e56a7384fad3114fe0abc88561087a516acabdbfe9a30ed4c1619d4ec6",
+        "size_in_bytes": 5478
+      },
+      {
+        "_path": "include/unicode/uchar.h",
+        "path_type": "hardlink",
+        "sha256": "ca6d3c6775a8150a51fafc55c4a941efc61be954f664e1a694334caad21b3554",
+        "sha256_in_prefix": "ca6d3c6775a8150a51fafc55c4a941efc61be954f664e1a694334caad21b3554",
+        "size_in_bytes": 144516
+      },
+      {
+        "_path": "include/unicode/ucharstrie.h",
+        "path_type": "hardlink",
+        "sha256": "20be02b31f468a0cfb474b566d21ad7c4e28135821c38069f3c9ea514e235108",
+        "sha256_in_prefix": "20be02b31f468a0cfb474b566d21ad7c4e28135821c38069f3c9ea514e235108",
+        "size_in_bytes": 23066
+      },
+      {
+        "_path": "include/unicode/ucharstriebuilder.h",
+        "path_type": "hardlink",
+        "sha256": "0309e151ef613219bc813c87faeb8c34ed7e19be515284ce141c2555cd1a85dc",
+        "sha256_in_prefix": "0309e151ef613219bc813c87faeb8c34ed7e19be515284ce141c2555cd1a85dc",
+        "size_in_bytes": 7475
+      },
+      {
+        "_path": "include/unicode/uchriter.h",
+        "path_type": "hardlink",
+        "sha256": "663fbe66ab8e105eebe3f629f550bd33b45a9ecf0f76b86e72a66e708950fe14",
+        "sha256_in_prefix": "663fbe66ab8e105eebe3f629f550bd33b45a9ecf0f76b86e72a66e708950fe14",
+        "size_in_bytes": 13521
+      },
+      {
+        "_path": "include/unicode/uclean.h",
+        "path_type": "hardlink",
+        "sha256": "ade01fec781296558ff7c9f49ed16736515161f424ac826aa52abde9c447373d",
+        "sha256_in_prefix": "ade01fec781296558ff7c9f49ed16736515161f424ac826aa52abde9c447373d",
+        "size_in_bytes": 11468
+      },
+      {
+        "_path": "include/unicode/ucnv.h",
+        "path_type": "hardlink",
+        "sha256": "ba2c352964a42a3580841774cab50a908123fcb91fdbe16217f8f88cc51743ea",
+        "sha256_in_prefix": "ba2c352964a42a3580841774cab50a908123fcb91fdbe16217f8f88cc51743ea",
+        "size_in_bytes": 85027
+      },
+      {
+        "_path": "include/unicode/ucnv_cb.h",
+        "path_type": "hardlink",
+        "sha256": "6db2030a3e4354d5559143cb44f4d93a38d5dbd76c798a67b8f058d41bde15b8",
+        "sha256_in_prefix": "6db2030a3e4354d5559143cb44f4d93a38d5dbd76c798a67b8f058d41bde15b8",
+        "size_in_bytes": 6738
+      },
+      {
+        "_path": "include/unicode/ucnv_err.h",
+        "path_type": "hardlink",
+        "sha256": "e94e856fe917b4b55e4bcbb1c54f55f964753b9aa8d0764652ee56e8e9b944b8",
+        "sha256_in_prefix": "e94e856fe917b4b55e4bcbb1c54f55f964753b9aa8d0764652ee56e8e9b944b8",
+        "size_in_bytes": 21476
+      },
+      {
+        "_path": "include/unicode/ucnvsel.h",
+        "path_type": "hardlink",
+        "sha256": "04f49a0ffae8b8f897a9fedee77ed58566e91ef59a8f89831c07a2593818ab67",
+        "sha256_in_prefix": "04f49a0ffae8b8f897a9fedee77ed58566e91ef59a8f89831c07a2593818ab67",
+        "size_in_bytes": 6330
+      },
+      {
+        "_path": "include/unicode/ucol.h",
+        "path_type": "hardlink",
+        "sha256": "a597b04ce832fbfe7a4823997c8a97546e81f6e55ea34bbd631c74403ea67c98",
+        "sha256_in_prefix": "a597b04ce832fbfe7a4823997c8a97546e81f6e55ea34bbd631c74403ea67c98",
+        "size_in_bytes": 62983
+      },
+      {
+        "_path": "include/unicode/ucoleitr.h",
+        "path_type": "hardlink",
+        "sha256": "4001655453ab8082643e2f940624c498c6934e252a689918df0841efcb865ba4",
+        "sha256_in_prefix": "4001655453ab8082643e2f940624c498c6934e252a689918df0841efcb865ba4",
+        "size_in_bytes": 10057
+      },
+      {
+        "_path": "include/unicode/uconfig.h",
+        "path_type": "hardlink",
+        "sha256": "9c00f86c06dfbc561cdf45f948394c08b6b5136d4212d13cd720a70a29440f5a",
+        "sha256_in_prefix": "9c00f86c06dfbc561cdf45f948394c08b6b5136d4212d13cd720a70a29440f5a",
+        "size_in_bytes": 12356
+      },
+      {
+        "_path": "include/unicode/ucpmap.h",
+        "path_type": "hardlink",
+        "sha256": "52d290f1f6b0d9be08392df783e77fa1080b6e0c8eb158683dff6203b15268bf",
+        "sha256_in_prefix": "52d290f1f6b0d9be08392df783e77fa1080b6e0c8eb158683dff6203b15268bf",
+        "size_in_bytes": 5663
+      },
+      {
+        "_path": "include/unicode/ucptrie.h",
+        "path_type": "hardlink",
+        "sha256": "698427059397375ee6bfec5f70aae6662fa9cbe91565528630188e458707ee79",
+        "sha256_in_prefix": "698427059397375ee6bfec5f70aae6662fa9cbe91565528630188e458707ee79",
+        "size_in_bytes": 23048
+      },
+      {
+        "_path": "include/unicode/ucsdet.h",
+        "path_type": "hardlink",
+        "sha256": "927f80ff49d9997edcbfef9b5a77e972b5f77df7c6ab8045a53b4b0bb2cf3317",
+        "sha256_in_prefix": "927f80ff49d9997edcbfef9b5a77e972b5f77df7c6ab8045a53b4b0bb2cf3317",
+        "size_in_bytes": 15043
+      },
+      {
+        "_path": "include/unicode/ucurr.h",
+        "path_type": "hardlink",
+        "sha256": "306bdffa90f61f5137fd2ef619bc37826a4c099a6c66c7418909ef8c3abd3ad2",
+        "sha256_in_prefix": "306bdffa90f61f5137fd2ef619bc37826a4c099a6c66c7418909ef8c3abd3ad2",
+        "size_in_bytes": 17173
+      },
+      {
+        "_path": "include/unicode/udat.h",
+        "path_type": "hardlink",
+        "sha256": "937ff4c3b9958da4f4ddf16ffa83a77ff9478171ce6c854d441be4ebe3153cff",
+        "sha256_in_prefix": "937ff4c3b9958da4f4ddf16ffa83a77ff9478171ce6c854d441be4ebe3153cff",
+        "size_in_bytes": 63648
+      },
+      {
+        "_path": "include/unicode/udata.h",
+        "path_type": "hardlink",
+        "sha256": "cbdb62cda158609ba4db2c376731305d67b181960843b05e64f7fe22f826cd5c",
+        "sha256_in_prefix": "cbdb62cda158609ba4db2c376731305d67b181960843b05e64f7fe22f826cd5c",
+        "size_in_bytes": 15995
+      },
+      {
+        "_path": "include/unicode/udateintervalformat.h",
+        "path_type": "hardlink",
+        "sha256": "5daf508ef0455553577782e1b7f02f41538d50ff9ec15d405019e1f9838e20e5",
+        "sha256_in_prefix": "5daf508ef0455553577782e1b7f02f41538d50ff9ec15d405019e1f9838e20e5",
+        "size_in_bytes": 12325
+      },
+      {
+        "_path": "include/unicode/udatpg.h",
+        "path_type": "hardlink",
+        "sha256": "f4a926006d29fcc9d50774e6db1e37f67271f71c814a9b0cbfcf9546881370d5",
+        "sha256_in_prefix": "f4a926006d29fcc9d50774e6db1e37f67271f71c814a9b0cbfcf9546881370d5",
+        "size_in_bytes": 27459
+      },
+      {
+        "_path": "include/unicode/udisplaycontext.h",
+        "path_type": "hardlink",
+        "sha256": "e93cb0753e3a73e0c3115aa94302ac24639d2ab8be3589823dcafeb7be1189a6",
+        "sha256_in_prefix": "e93cb0753e3a73e0c3115aa94302ac24639d2ab8be3589823dcafeb7be1189a6",
+        "size_in_bytes": 6084
+      },
+      {
+        "_path": "include/unicode/uenum.h",
+        "path_type": "hardlink",
+        "sha256": "a27a3bcba0fe695d96647bdb0982e15e8cca0d55df01d544fbb287e4944029e2",
+        "sha256_in_prefix": "a27a3bcba0fe695d96647bdb0982e15e8cca0d55df01d544fbb287e4944029e2",
+        "size_in_bytes": 7981
+      },
+      {
+        "_path": "include/unicode/ufieldpositer.h",
+        "path_type": "hardlink",
+        "sha256": "8d11d66f9798b20e81921fa44278ab66345a45945aad83cebd9a501563daac58",
+        "sha256_in_prefix": "8d11d66f9798b20e81921fa44278ab66345a45945aad83cebd9a501563daac58",
+        "size_in_bytes": 4513
+      },
+      {
+        "_path": "include/unicode/uformattable.h",
+        "path_type": "hardlink",
+        "sha256": "0bbcc8b20b40e5cf4662de0e41b2f2b1c59e8a54fba6da506fdab0eaf80450ca",
+        "sha256_in_prefix": "0bbcc8b20b40e5cf4662de0e41b2f2b1c59e8a54fba6da506fdab0eaf80450ca",
+        "size_in_bytes": 11230
+      },
+      {
+        "_path": "include/unicode/uformattedvalue.h",
+        "path_type": "hardlink",
+        "sha256": "b11358487884b2524644d94b3d423384a2d717e81bedf3311bfda8abf0e0233a",
+        "sha256_in_prefix": "b11358487884b2524644d94b3d423384a2d717e81bedf3311bfda8abf0e0233a",
+        "size_in_bytes": 12385
+      },
+      {
+        "_path": "include/unicode/ugender.h",
+        "path_type": "hardlink",
+        "sha256": "58248eb398ac7e3985927b19eccd29d541afa684f2cd6e462d821a8ff0ac0c5a",
+        "sha256_in_prefix": "58248eb398ac7e3985927b19eccd29d541afa684f2cd6e462d821a8ff0ac0c5a",
+        "size_in_bytes": 2106
+      },
+      {
+        "_path": "include/unicode/uidna.h",
+        "path_type": "hardlink",
+        "sha256": "0dab79e5fa5c8eaec1161ef5426f080f45d1cf261e909fe648bd5a809a309993",
+        "sha256_in_prefix": "0dab79e5fa5c8eaec1161ef5426f080f45d1cf261e909fe648bd5a809a309993",
+        "size_in_bytes": 34229
+      },
+      {
+        "_path": "include/unicode/uiter.h",
+        "path_type": "hardlink",
+        "sha256": "79177406907ab5ecd861cf729238d1da884f84f0db0e3e3ea48b4e0b8601e901",
+        "sha256_in_prefix": "79177406907ab5ecd861cf729238d1da884f84f0db0e3e3ea48b4e0b8601e901",
+        "size_in_bytes": 23299
+      },
+      {
+        "_path": "include/unicode/uldnames.h",
+        "path_type": "hardlink",
+        "sha256": "32ae18a86a1427ca4aac01ec13c96d28f7cd7b8fd02bd9bbd2bfe83a3b2939fa",
+        "sha256_in_prefix": "32ae18a86a1427ca4aac01ec13c96d28f7cd7b8fd02bd9bbd2bfe83a3b2939fa",
+        "size_in_bytes": 10733
+      },
+      {
+        "_path": "include/unicode/ulistformatter.h",
+        "path_type": "hardlink",
+        "sha256": "446c099e36ea8d5301108c27b3700d70b130c710d077943c5e26c29dc2d1ac4c",
+        "sha256_in_prefix": "446c099e36ea8d5301108c27b3700d70b130c710d077943c5e26c29dc2d1ac4c",
+        "size_in_bytes": 11144
+      },
+      {
+        "_path": "include/unicode/uloc.h",
+        "path_type": "hardlink",
+        "sha256": "24d5a50c99b0ad914b37d4e6771576854b15e52234c08f8f880d5b4c3b4b63f7",
+        "sha256_in_prefix": "24d5a50c99b0ad914b37d4e6771576854b15e52234c08f8f880d5b4c3b4b63f7",
+        "size_in_bytes": 55909
+      },
+      {
+        "_path": "include/unicode/ulocdata.h",
+        "path_type": "hardlink",
+        "sha256": "736722a3474b51db034908a961b72dff667d42978ab585d6258e3180171dc200",
+        "sha256_in_prefix": "736722a3474b51db034908a961b72dff667d42978ab585d6258e3180171dc200",
+        "size_in_bytes": 11570
+      },
+      {
+        "_path": "include/unicode/umachine.h",
+        "path_type": "hardlink",
+        "sha256": "6d79fbaf5718ed1a1f81efe4664628a0791c1124d73a31a17244b5554e82e743",
+        "sha256_in_prefix": "6d79fbaf5718ed1a1f81efe4664628a0791c1124d73a31a17244b5554e82e743",
+        "size_in_bytes": 16439
+      },
+      {
+        "_path": "include/unicode/umisc.h",
+        "path_type": "hardlink",
+        "sha256": "e1c0aef25cc4fe4cf8bcba885783512fd893086fee86fd64bf03f8cb3d110080",
+        "sha256_in_prefix": "e1c0aef25cc4fe4cf8bcba885783512fd893086fee86fd64bf03f8cb3d110080",
+        "size_in_bytes": 1365
+      },
+      {
+        "_path": "include/unicode/umsg.h",
+        "path_type": "hardlink",
+        "sha256": "df226aa4599d2e11e781429fc32e45e38cf8c64d767a67d4b49d8626fe19f092",
+        "sha256_in_prefix": "df226aa4599d2e11e781429fc32e45e38cf8c64d767a67d4b49d8626fe19f092",
+        "size_in_bytes": 24831
+      },
+      {
+        "_path": "include/unicode/umutablecptrie.h",
+        "path_type": "hardlink",
+        "sha256": "2644f4fcd53e7e778a81ea5a1ecf08e753ee7e7c085a1e8b6275a3e319f57ca1",
+        "sha256_in_prefix": "2644f4fcd53e7e778a81ea5a1ecf08e753ee7e7c085a1e8b6275a3e319f57ca1",
+        "size_in_bytes": 8494
+      },
+      {
+        "_path": "include/unicode/unifilt.h",
+        "path_type": "hardlink",
+        "sha256": "d26fd3830d953527a68fa0e05c7b157b681e86f83cc90be454982992be505d90",
+        "sha256_in_prefix": "d26fd3830d953527a68fa0e05c7b157b681e86f83cc90be454982992be505d90",
+        "size_in_bytes": 4055
+      },
+      {
+        "_path": "include/unicode/unifunct.h",
+        "path_type": "hardlink",
+        "sha256": "6762e17f5cce5212a4dde8cd9221364b9928aa07534231af533afe758150f891",
+        "sha256_in_prefix": "6762e17f5cce5212a4dde8cd9221364b9928aa07534231af533afe758150f891",
+        "size_in_bytes": 4141
+      },
+      {
+        "_path": "include/unicode/unimatch.h",
+        "path_type": "hardlink",
+        "sha256": "fc795abfa0bafa028cc14ebefb1f6726ddfecbaf28786fc9416a560d2dd7a040",
+        "sha256_in_prefix": "fc795abfa0bafa028cc14ebefb1f6726ddfecbaf28786fc9416a560d2dd7a040",
+        "size_in_bytes": 6244
+      },
+      {
+        "_path": "include/unicode/unirepl.h",
+        "path_type": "hardlink",
+        "sha256": "69f5cf697cbff3cc1e097bff33f3c2fe089ee3f33128aa897f007050a37aa604",
+        "sha256_in_prefix": "69f5cf697cbff3cc1e097bff33f3c2fe089ee3f33128aa897f007050a37aa604",
+        "size_in_bytes": 3464
+      },
+      {
+        "_path": "include/unicode/uniset.h",
+        "path_type": "hardlink",
+        "sha256": "d2859b278a67fb5115cf7e051f8f9fe1767f058d232f23282f27529bdc220945",
+        "sha256_in_prefix": "d2859b278a67fb5115cf7e051f8f9fe1767f058d232f23282f27529bdc220945",
+        "size_in_bytes": 66467
+      },
+      {
+        "_path": "include/unicode/unistr.h",
+        "path_type": "hardlink",
+        "sha256": "4b06f7bcfba11da2342e915d521315bf1de052a642165ffe034cc637da746cc4",
+        "sha256_in_prefix": "4b06f7bcfba11da2342e915d521315bf1de052a642165ffe034cc637da746cc4",
+        "size_in_bytes": 174533
+      },
+      {
+        "_path": "include/unicode/unorm.h",
+        "path_type": "hardlink",
+        "sha256": "dfeeca33332456f5a5d47e7c60b1dd2d08959ae9923455ab81723de6eb4873c9",
+        "sha256_in_prefix": "dfeeca33332456f5a5d47e7c60b1dd2d08959ae9923455ab81723de6eb4873c9",
+        "size_in_bytes": 21015
+      },
+      {
+        "_path": "include/unicode/unorm2.h",
+        "path_type": "hardlink",
+        "sha256": "da7930a73797f8d1363c284d2fc5269e51c5cb431b44756ce9a73ee819724d05",
+        "sha256_in_prefix": "da7930a73797f8d1363c284d2fc5269e51c5cb431b44756ce9a73ee819724d05",
+        "size_in_bytes": 25269
+      },
+      {
+        "_path": "include/unicode/unum.h",
+        "path_type": "hardlink",
+        "sha256": "a092bd2c2c7e9a73af45965e9906b22e6524d3df1a6a2cbf47c938bc2a9377f1",
+        "sha256_in_prefix": "a092bd2c2c7e9a73af45965e9906b22e6524d3df1a6a2cbf47c938bc2a9377f1",
+        "size_in_bytes": 55565
+      },
+      {
+        "_path": "include/unicode/unumberformatter.h",
+        "path_type": "hardlink",
+        "sha256": "f9b678cede8ee7b584fdecaba852b1b2269a4dd9d413136ae7575e1756312a57",
+        "sha256_in_prefix": "f9b678cede8ee7b584fdecaba852b1b2269a4dd9d413136ae7575e1756312a57",
+        "size_in_bytes": 27310
+      },
+      {
+        "_path": "include/unicode/unumberrangeformatter.h",
+        "path_type": "hardlink",
+        "sha256": "50658f246ea236be844b2ffd7edb3a68f6ecbb0261b21e5b3611f40f42e7797e",
+        "sha256_in_prefix": "50658f246ea236be844b2ffd7edb3a68f6ecbb0261b21e5b3611f40f42e7797e",
+        "size_in_bytes": 15802
+      },
+      {
+        "_path": "include/unicode/unumsys.h",
+        "path_type": "hardlink",
+        "sha256": "a3ac9ab2207b898873781380498d0f371e4a99b3bf10f64aea47c0a45f329644",
+        "sha256_in_prefix": "a3ac9ab2207b898873781380498d0f371e4a99b3bf10f64aea47c0a45f329644",
+        "size_in_bytes": 7430
+      },
+      {
+        "_path": "include/unicode/uobject.h",
+        "path_type": "hardlink",
+        "sha256": "2730c82e66161dd9e70ece26aac597eab48c3bad8de22e7f85aba473e632a9a5",
+        "sha256_in_prefix": "2730c82e66161dd9e70ece26aac597eab48c3bad8de22e7f85aba473e632a9a5",
+        "size_in_bytes": 10936
+      },
+      {
+        "_path": "include/unicode/upluralrules.h",
+        "path_type": "hardlink",
+        "sha256": "8d01894a5760a0d0458fc08bace01817c5f6fb9985b98c9438a8fba49ef956ea",
+        "sha256_in_prefix": "8d01894a5760a0d0458fc08bace01817c5f6fb9985b98c9438a8fba49ef956ea",
+        "size_in_bytes": 9011
+      },
+      {
+        "_path": "include/unicode/uregex.h",
+        "path_type": "hardlink",
+        "sha256": "cb069fb56ec8807cab04560ba64ef3fde37d535e67f74b4d33b4f32be13e9b4b",
+        "sha256_in_prefix": "cb069fb56ec8807cab04560ba64ef3fde37d535e67f74b4d33b4f32be13e9b4b",
+        "size_in_bytes": 73719
+      },
+      {
+        "_path": "include/unicode/uregion.h",
+        "path_type": "hardlink",
+        "sha256": "38e3fad54db2129215b3d88342b0e83a554eb19509469970ac24af9d3e122507",
+        "sha256_in_prefix": "38e3fad54db2129215b3d88342b0e83a554eb19509469970ac24af9d3e122507",
+        "size_in_bytes": 10047
+      },
+      {
+        "_path": "include/unicode/ureldatefmt.h",
+        "path_type": "hardlink",
+        "sha256": "e5e28b046981e719982a38acb011aee2b07e68f18ffb98e19341be16a82fbf8b",
+        "sha256_in_prefix": "e5e28b046981e719982a38acb011aee2b07e68f18ffb98e19341be16a82fbf8b",
+        "size_in_bytes": 17448
+      },
+      {
+        "_path": "include/unicode/urename.h",
+        "path_type": "hardlink",
+        "sha256": "67ba28dba3d9a721d251c42bdcc5631b69609837c10a827ba429b4d71648507d",
+        "sha256_in_prefix": "67ba28dba3d9a721d251c42bdcc5631b69609837c10a827ba429b4d71648507d",
+        "size_in_bytes": 135885
+      },
+      {
+        "_path": "include/unicode/urep.h",
+        "path_type": "hardlink",
+        "sha256": "45327525a9a08ac044f401d7edcf60c7574a7cdbc29d2930d533987d6a214a48",
+        "sha256_in_prefix": "45327525a9a08ac044f401d7edcf60c7574a7cdbc29d2930d533987d6a214a48",
+        "size_in_bytes": 5507
+      },
+      {
+        "_path": "include/unicode/ures.h",
+        "path_type": "hardlink",
+        "sha256": "0dd71894fb5aeb6a712f390f6fa67ca2e8a419c6e3dc3c512c244f69a65a29fa",
+        "sha256_in_prefix": "0dd71894fb5aeb6a712f390f6fa67ca2e8a419c6e3dc3c512c244f69a65a29fa",
+        "size_in_bytes": 37418
+      },
+      {
+        "_path": "include/unicode/uscript.h",
+        "path_type": "hardlink",
+        "sha256": "66fccd1aab39b466083373d36cfd2583b067f5b6c83c1caec6bd7faa49e65391",
+        "sha256_in_prefix": "66fccd1aab39b466083373d36cfd2583b067f5b6c83c1caec6bd7faa49e65391",
+        "size_in_bytes": 27845
+      },
+      {
+        "_path": "include/unicode/usearch.h",
+        "path_type": "hardlink",
+        "sha256": "40ed51f9e92e1f99dea4cf218ef29d05cdd57abd6a3484c62ec2b01b88603ff2",
+        "sha256_in_prefix": "40ed51f9e92e1f99dea4cf218ef29d05cdd57abd6a3484c62ec2b01b88603ff2",
+        "size_in_bytes": 40003
+      },
+      {
+        "_path": "include/unicode/uset.h",
+        "path_type": "hardlink",
+        "sha256": "aa6080846b33804af8241746b210db4e4fcb34858ba2ce1b2dad715de2689010",
+        "sha256_in_prefix": "aa6080846b33804af8241746b210db4e4fcb34858ba2ce1b2dad715de2689010",
+        "size_in_bytes": 40905
+      },
+      {
+        "_path": "include/unicode/usetiter.h",
+        "path_type": "hardlink",
+        "sha256": "cd97702e0da868c717f4fc80a273475a32a03a087998eb499bddd4ca16739c34",
+        "sha256_in_prefix": "cd97702e0da868c717f4fc80a273475a32a03a087998eb499bddd4ca16739c34",
+        "size_in_bytes": 9781
+      },
+      {
+        "_path": "include/unicode/ushape.h",
+        "path_type": "hardlink",
+        "sha256": "0e8936f6c8fad375080f6f93a37057b60d387fd4e7116bd4f10ba14dd827131c",
+        "sha256_in_prefix": "0e8936f6c8fad375080f6f93a37057b60d387fd4e7116bd4f10ba14dd827131c",
+        "size_in_bytes": 18430
+      },
+      {
+        "_path": "include/unicode/uspoof.h",
+        "path_type": "hardlink",
+        "sha256": "321daa68b2ad7eebf3ac01b02a5cf1fc8115d3ff209f3451eea34bb6a1680d34",
+        "sha256_in_prefix": "321daa68b2ad7eebf3ac01b02a5cf1fc8115d3ff209f3451eea34bb6a1680d34",
+        "size_in_bytes": 67424
+      },
+      {
+        "_path": "include/unicode/usprep.h",
+        "path_type": "hardlink",
+        "sha256": "999242c7048f3fc5da8f7b552df180182bab482cbdf1185541907a2a6c29c627",
+        "sha256_in_prefix": "999242c7048f3fc5da8f7b552df180182bab482cbdf1185541907a2a6c29c627",
+        "size_in_bytes": 8382
+      },
+      {
+        "_path": "include/unicode/ustdio.h",
+        "path_type": "hardlink",
+        "sha256": "57f32258b02d6e06200cbc1f30a6b98a6b6506fab57e6dc66d5c239852d2dda9",
+        "sha256_in_prefix": "57f32258b02d6e06200cbc1f30a6b98a6b6506fab57e6dc66d5c239852d2dda9",
+        "size_in_bytes": 39476
+      },
+      {
+        "_path": "include/unicode/ustream.h",
+        "path_type": "hardlink",
+        "sha256": "7843c061c7b88335e8afe4e719577444ba69de8a6d23873060f722b69dca3c5a",
+        "sha256_in_prefix": "7843c061c7b88335e8afe4e719577444ba69de8a6d23873060f722b69dca3c5a",
+        "size_in_bytes": 1934
+      },
+      {
+        "_path": "include/unicode/ustring.h",
+        "path_type": "hardlink",
+        "sha256": "959fb62d8cc62c6b2b735002c6172d5969a2b5b4c009c9dff87e32b10b472c51",
+        "sha256_in_prefix": "959fb62d8cc62c6b2b735002c6172d5969a2b5b4c009c9dff87e32b10b472c51",
+        "size_in_bytes": 74089
+      },
+      {
+        "_path": "include/unicode/ustringtrie.h",
+        "path_type": "hardlink",
+        "sha256": "5c9caacdad2a74a72890e24071fa6b1a96cd0ebb774452afba79e1d1ff7aa4eb",
+        "sha256_in_prefix": "5c9caacdad2a74a72890e24071fa6b1a96cd0ebb774452afba79e1d1ff7aa4eb",
+        "size_in_bytes": 3224
+      },
+      {
+        "_path": "include/unicode/utext.h",
+        "path_type": "hardlink",
+        "sha256": "dcb068cf87f22ce16c7f9174dff26bed9648045b304055fa86ab24ab42388ac1",
+        "sha256_in_prefix": "dcb068cf87f22ce16c7f9174dff26bed9648045b304055fa86ab24ab42388ac1",
+        "size_in_bytes": 59471
+      },
+      {
+        "_path": "include/unicode/utf.h",
+        "path_type": "hardlink",
+        "sha256": "928e351d712abcd097014120021c4c17191a4c00c041e6a4f59c73b9b9695160",
+        "sha256_in_prefix": "928e351d712abcd097014120021c4c17191a4c00c041e6a4f59c73b9b9695160",
+        "size_in_bytes": 8057
+      },
+      {
+        "_path": "include/unicode/utf16.h",
+        "path_type": "hardlink",
+        "sha256": "020083494bab47cb5d1cfd9b626bd6214a445d3d12fa0742ae38889faad27972",
+        "sha256_in_prefix": "020083494bab47cb5d1cfd9b626bd6214a445d3d12fa0742ae38889faad27972",
+        "size_in_bytes": 23910
+      },
+      {
+        "_path": "include/unicode/utf32.h",
+        "path_type": "hardlink",
+        "sha256": "5d011b08161a4ad3cbe0d31bfeb0c76fffb6c6fe832eb9c76f4d2fde1e00b1c6",
+        "sha256_in_prefix": "5d011b08161a4ad3cbe0d31bfeb0c76fffb6c6fe832eb9c76f4d2fde1e00b1c6",
+        "size_in_bytes": 763
+      },
+      {
+        "_path": "include/unicode/utf8.h",
+        "path_type": "hardlink",
+        "sha256": "d7f3a99537de4a31581501abff95762d2176b9e93ce31a8496dabf8ed56f6fd4",
+        "sha256_in_prefix": "d7f3a99537de4a31581501abff95762d2176b9e93ce31a8496dabf8ed56f6fd4",
+        "size_in_bytes": 31572
+      },
+      {
+        "_path": "include/unicode/utf_old.h",
+        "path_type": "hardlink",
+        "sha256": "4043256fe60e9a8d3c9031f85d692bbc815a0ed8587579d569b85fcc9925cd7b",
+        "sha256_in_prefix": "4043256fe60e9a8d3c9031f85d692bbc815a0ed8587579d569b85fcc9925cd7b",
+        "size_in_bytes": 46929
+      },
+      {
+        "_path": "include/unicode/utmscale.h",
+        "path_type": "hardlink",
+        "sha256": "fe47d8d7ec43b5b753d4a0b75fa59dad351e15a9755c2f861a5b91f52466e8f4",
+        "sha256_in_prefix": "fe47d8d7ec43b5b753d4a0b75fa59dad351e15a9755c2f861a5b91f52466e8f4",
+        "size_in_bytes": 14107
+      },
+      {
+        "_path": "include/unicode/utrace.h",
+        "path_type": "hardlink",
+        "sha256": "c75792abd0ad9bdb45f548e3e3c4628aec9c1a6257bc600eb2c7a4765170fec6",
+        "sha256_in_prefix": "c75792abd0ad9bdb45f548e3e3c4628aec9c1a6257bc600eb2c7a4765170fec6",
+        "size_in_bytes": 17642
+      },
+      {
+        "_path": "include/unicode/utrans.h",
+        "path_type": "hardlink",
+        "sha256": "344ed6e76086019e72e30ffd68fd6e49333439fc30972e1b8b6d1d11a2d9b7b1",
+        "sha256_in_prefix": "344ed6e76086019e72e30ffd68fd6e49333439fc30972e1b8b6d1d11a2d9b7b1",
+        "size_in_bytes": 26157
+      },
+      {
+        "_path": "include/unicode/utypes.h",
+        "path_type": "hardlink",
+        "sha256": "d1892a39489e3eccb43fcbc57a87e490ac145919028f884583f9b01674e6c1c6",
+        "sha256_in_prefix": "d1892a39489e3eccb43fcbc57a87e490ac145919028f884583f9b01674e6c1c6",
+        "size_in_bytes": 31809
+      },
+      {
+        "_path": "include/unicode/uvernum.h",
+        "path_type": "hardlink",
+        "sha256": "da92d64b363501f2440c2192d7487b9cba3bc28dac21e3ad056ce6d179274026",
+        "sha256_in_prefix": "da92d64b363501f2440c2192d7487b9cba3bc28dac21e3ad056ce6d179274026",
+        "size_in_bytes": 6839
+      },
+      {
+        "_path": "include/unicode/uversion.h",
+        "path_type": "hardlink",
+        "sha256": "51cd9d09552fd4f09f0c36d7615a49c7d67c4c857c5e988935540b3afaf11500",
+        "sha256_in_prefix": "51cd9d09552fd4f09f0c36d7615a49c7d67c4c857c5e988935540b3afaf11500",
+        "size_in_bytes": 6137
+      },
+      {
+        "_path": "include/unicode/vtzone.h",
+        "path_type": "hardlink",
+        "sha256": "83fe3b8f4f789ea6a457da3ef3a866d4e606506918246db094c9c60fdc7c2feb",
+        "sha256_in_prefix": "83fe3b8f4f789ea6a457da3ef3a866d4e606506918246db094c9c60fdc7c2feb",
+        "size_in_bytes": 20784
+      },
+      {
+        "_path": "lib/icu/68.1/Makefile.inc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/ktietz/demo/mc3/conda-bld/icu_1630597441882/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "79f5c92d8b75b346e10b038283ab610a090b0e5e2663424ab5a70dd599b23263",
+        "sha256_in_prefix": "18350fd8b0dced4d54ad2b85ec74078399a801ea74fb0a815241b7255af2c932",
+        "size_in_bytes": 10165
+      },
+      {
+        "_path": "lib/icu/68.1/pkgdata.inc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/ktietz/demo/mc3/conda-bld/icu_1630597441882/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "1b63e6703e3a431a50a8cefd89ab1e90b2a4a03251d8112afef57bb5c47ba17e",
+        "sha256_in_prefix": "d3971eebdb61658597fa4f5f5b272fdb610b96f18181302534d6f7fb6fcf82e2",
+        "size_in_bytes": 3960
+      },
+      {
+        "_path": "lib/icu/Makefile.inc",
+        "path_type": "softlink",
+        "sha256": "79f5c92d8b75b346e10b038283ab610a090b0e5e2663424ab5a70dd599b23263",
+        "size_in_bytes": 10165
+      },
+      {
+        "_path": "lib/icu/current",
+        "path_type": "softlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/icu/pkgdata.inc",
+        "path_type": "softlink",
+        "sha256": "1b63e6703e3a431a50a8cefd89ab1e90b2a4a03251d8112afef57bb5c47ba17e",
+        "size_in_bytes": 3960
+      },
+      {
+        "_path": "lib/libicudata.68.1.dylib",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/ktietz/demo/mc3/conda-bld/icu_1630597441882/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "a4c59db2dbfbea9d56d9ceae5cf24be5d7ecc188f212126ea166694f35f993ef",
+        "sha256_in_prefix": "6522b835756b70879f85bf04e4ac9545f55f76e40cc3a5ff590e5355998e23db",
+        "size_in_bytes": 28953632
+      },
+      {
+        "_path": "lib/libicudata.68.dylib",
+        "path_type": "softlink",
+        "sha256": "a4c59db2dbfbea9d56d9ceae5cf24be5d7ecc188f212126ea166694f35f993ef",
+        "size_in_bytes": 28953632
+      },
+      {
+        "_path": "lib/libicudata.dylib",
+        "path_type": "softlink",
+        "sha256": "a4c59db2dbfbea9d56d9ceae5cf24be5d7ecc188f212126ea166694f35f993ef",
+        "size_in_bytes": 28953632
+      },
+      {
+        "_path": "lib/libicui18n.68.1.dylib",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/ktietz/demo/mc3/conda-bld/icu_1630597441882/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "3ad386907830a2313689bb0b69e7c66249ad30c18695ae479cd686e2bd9530cf",
+        "sha256_in_prefix": "9d5ecdeb5d02b3df69738d6ce281c63663503f2c8ea1c98e56fbaa51dd64d5d8",
+        "size_in_bytes": 3063744
+      },
+      {
+        "_path": "lib/libicui18n.68.dylib",
+        "path_type": "softlink",
+        "sha256": "3ad386907830a2313689bb0b69e7c66249ad30c18695ae479cd686e2bd9530cf",
+        "size_in_bytes": 3063744
+      },
+      {
+        "_path": "lib/libicui18n.dylib",
+        "path_type": "softlink",
+        "sha256": "3ad386907830a2313689bb0b69e7c66249ad30c18695ae479cd686e2bd9530cf",
+        "size_in_bytes": 3063744
+      },
+      {
+        "_path": "lib/libicuio.68.1.dylib",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/ktietz/demo/mc3/conda-bld/icu_1630597441882/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "a496a06b9c911bfd66c8a4a85b2184d7c386d5cf3f7dacddd710d71c1820c8e4",
+        "sha256_in_prefix": "195d47a773958a492fe7d4703ebd84150a1578636dfdc4c2de3865d58fda9a9f",
+        "size_in_bytes": 99584
+      },
+      {
+        "_path": "lib/libicuio.68.dylib",
+        "path_type": "softlink",
+        "sha256": "a496a06b9c911bfd66c8a4a85b2184d7c386d5cf3f7dacddd710d71c1820c8e4",
+        "size_in_bytes": 99584
+      },
+      {
+        "_path": "lib/libicuio.dylib",
+        "path_type": "softlink",
+        "sha256": "a496a06b9c911bfd66c8a4a85b2184d7c386d5cf3f7dacddd710d71c1820c8e4",
+        "size_in_bytes": 99584
+      },
+      {
+        "_path": "lib/libicutest.68.1.dylib",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/ktietz/demo/mc3/conda-bld/icu_1630597441882/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "38bd756663feafcd0801adaadeb16bbbadda77cea5960d1c76b2394e648b73cc",
+        "sha256_in_prefix": "ddcc18df2d5ecfb12cb9ebe07f59d851242fc4a9ae7e38c916be2ceb5d98621a",
+        "size_in_bytes": 105728
+      },
+      {
+        "_path": "lib/libicutest.68.dylib",
+        "path_type": "softlink",
+        "sha256": "38bd756663feafcd0801adaadeb16bbbadda77cea5960d1c76b2394e648b73cc",
+        "size_in_bytes": 105728
+      },
+      {
+        "_path": "lib/libicutest.dylib",
+        "path_type": "softlink",
+        "sha256": "38bd756663feafcd0801adaadeb16bbbadda77cea5960d1c76b2394e648b73cc",
+        "size_in_bytes": 105728
+      },
+      {
+        "_path": "lib/libicutu.68.1.dylib",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/ktietz/demo/mc3/conda-bld/icu_1630597441882/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "95dc98faca8187a1de2f6fd678b32e5a866bc6b031ae3fa2f8ba0c416d3f9456",
+        "sha256_in_prefix": "d222ff047b55270519420e9d5a8d9d4680b45538f50ad176a851c8ded63782e4",
+        "size_in_bytes": 228848
+      },
+      {
+        "_path": "lib/libicutu.68.dylib",
+        "path_type": "softlink",
+        "sha256": "95dc98faca8187a1de2f6fd678b32e5a866bc6b031ae3fa2f8ba0c416d3f9456",
+        "size_in_bytes": 228848
+      },
+      {
+        "_path": "lib/libicutu.dylib",
+        "path_type": "softlink",
+        "sha256": "95dc98faca8187a1de2f6fd678b32e5a866bc6b031ae3fa2f8ba0c416d3f9456",
+        "size_in_bytes": 228848
+      },
+      {
+        "_path": "lib/libicuuc.68.1.dylib",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/ktietz/demo/mc3/conda-bld/icu_1630597441882/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "b1e055c379b9982f39a858d45af6f51491a7278cd78cee52e20c9729664441e7",
+        "sha256_in_prefix": "786219a3fa17e9b8df91b2798c5c8fe0a6d16fb238975c772936d8e516072aaa",
+        "size_in_bytes": 1887296
+      },
+      {
+        "_path": "lib/libicuuc.68.dylib",
+        "path_type": "softlink",
+        "sha256": "b1e055c379b9982f39a858d45af6f51491a7278cd78cee52e20c9729664441e7",
+        "size_in_bytes": 1887296
+      },
+      {
+        "_path": "lib/libicuuc.dylib",
+        "path_type": "softlink",
+        "sha256": "b1e055c379b9982f39a858d45af6f51491a7278cd78cee52e20c9729664441e7",
+        "size_in_bytes": 1887296
+      },
+      {
+        "_path": "lib/pkgconfig/icu-i18n.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/ktietz/demo/mc3/conda-bld/icu_1630597441882/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "bb908728c8472ae8e2c7972a25f5746bd3d9c6b6dd87c7038258ec6826080cb7",
+        "sha256_in_prefix": "4f122342524cf33002181e2243cca54a34ee65b1eff2689e5ce1492bc93be121",
+        "size_in_bytes": 1486
+      },
+      {
+        "_path": "lib/pkgconfig/icu-io.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/ktietz/demo/mc3/conda-bld/icu_1630597441882/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "206a53b569bec053b581c09934446b1e6701f2d2f05ef8b4a91d41c897bf2eae",
+        "sha256_in_prefix": "56aafeb816941807b900876b486f16fd2379d113bdc348757febd8e491bf3305",
+        "size_in_bytes": 1478
+      },
+      {
+        "_path": "lib/pkgconfig/icu-uc.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/Users/ktietz/demo/mc3/conda-bld/icu_1630597441882/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "eac419f4d4bd38f3281733696105f17fd35f8cc0ff10eb53e2583a31d7459da6",
+        "sha256_in_prefix": "207fb6b0ea8921dd15ae0037e786d384e289b54fda0a0b5d8aa78d8f72c9d832",
+        "size_in_bytes": 1510
+      },
+      {
+        "_path": "share/icu/68.1/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "7915b19db903070778581ae05d8bf4ea241b34a05deb51ca4f5cbb15ea1cbba3",
+        "sha256_in_prefix": "7915b19db903070778581ae05d8bf4ea241b34a05deb51ca4f5cbb15ea1cbba3",
+        "size_in_bytes": 21025
+      },
+      {
+        "_path": "share/icu/68.1/config/mh-darwin",
+        "path_type": "hardlink",
+        "sha256": "c556945f39b816c9a1218c50d950f874d0c2ff0858752b422c653bb142239f44",
+        "sha256_in_prefix": "c556945f39b816c9a1218c50d950f874d0c2ff0858752b422c653bb142239f44",
+        "size_in_bytes": 3169
+      },
+      {
+        "_path": "share/icu/68.1/install-sh",
+        "path_type": "hardlink",
+        "sha256": "810eb763e74ce800e5e90b8b2500137c45cedc05411f05da36a147d37cc1e20d",
+        "sha256_in_prefix": "810eb763e74ce800e5e90b8b2500137c45cedc05411f05da36a147d37cc1e20d",
+        "size_in_bytes": 5598
+      },
+      {
+        "_path": "share/icu/68.1/mkinstalldirs",
+        "path_type": "hardlink",
+        "sha256": "8a9a3519bcec07a6688201483dd0dab54c5e2cb056a708d7df45486203d33d5f",
+        "sha256_in_prefix": "8a9a3519bcec07a6688201483dd0dab54c5e2cb056a708d7df45486203d33d5f",
+        "size_in_bytes": 1057
+      },
+      {
+        "_path": "share/man/man1/derb.1",
+        "path_type": "hardlink",
+        "sha256": "f65ff33f4ca0731bed98cb8c8afa5d284840babc045e53b39eb44a5d18575263",
+        "sha256_in_prefix": "f65ff33f4ca0731bed98cb8c8afa5d284840babc045e53b39eb44a5d18575263",
+        "size_in_bytes": 4913
+      },
+      {
+        "_path": "share/man/man1/genbrk.1",
+        "path_type": "hardlink",
+        "sha256": "935f4182b31481fee4edf5487863faf35b3a96449b5bab394b1e5c2aaea0f442",
+        "sha256_in_prefix": "935f4182b31481fee4edf5487863faf35b3a96449b5bab394b1e5c2aaea0f442",
+        "size_in_bytes": 2957
+      },
+      {
+        "_path": "share/man/man1/gencfu.1",
+        "path_type": "hardlink",
+        "sha256": "b996bf6ac315fa7d43ef134ea3136f47a009f88e3c4d481ba88c9dbb69da34b5",
+        "sha256_in_prefix": "b996bf6ac315fa7d43ef134ea3136f47a009f88e3c4d481ba88c9dbb69da34b5",
+        "size_in_bytes": 2460
+      },
+      {
+        "_path": "share/man/man1/gencnval.1",
+        "path_type": "hardlink",
+        "sha256": "2edf56a54a7a8667cc843935091d511e09d0298949c050237f0299536302fde4",
+        "sha256_in_prefix": "2edf56a54a7a8667cc843935091d511e09d0298949c050237f0299536302fde4",
+        "size_in_bytes": 2395
+      },
+      {
+        "_path": "share/man/man1/gendict.1",
+        "path_type": "hardlink",
+        "sha256": "84f2dc6f717cd40df18b838256ab4b619ec4768e605571315c8cb8e70f841bd6",
+        "sha256_in_prefix": "84f2dc6f717cd40df18b838256ab4b619ec4768e605571315c8cb8e70f841bd6",
+        "size_in_bytes": 3399
+      },
+      {
+        "_path": "share/man/man1/genrb.1",
+        "path_type": "hardlink",
+        "sha256": "e989809f9a800a8ae54c604c0dc072f1bbf11e80989553e45708efaf09731ee3",
+        "sha256_in_prefix": "e989809f9a800a8ae54c604c0dc072f1bbf11e80989553e45708efaf09731ee3",
+        "size_in_bytes": 3916
+      },
+      {
+        "_path": "share/man/man1/icu-config.1",
+        "path_type": "hardlink",
+        "sha256": "a636ad09de3c0662b24f9515b876f7569543388d678eae43ee4164457e38316d",
+        "sha256_in_prefix": "a636ad09de3c0662b24f9515b876f7569543388d678eae43ee4164457e38316d",
+        "size_in_bytes": 7453
+      },
+      {
+        "_path": "share/man/man1/makeconv.1",
+        "path_type": "hardlink",
+        "sha256": "0e29a3ee14294e480715c8fd5e5922e17fedc1632bdd324f523ed875a4ee3adf",
+        "sha256_in_prefix": "0e29a3ee14294e480715c8fd5e5922e17fedc1632bdd324f523ed875a4ee3adf",
+        "size_in_bytes": 3362
+      },
+      {
+        "_path": "share/man/man1/pkgdata.1",
+        "path_type": "hardlink",
+        "sha256": "81c53503c50da9a8749f37306704f2887f5ab3fecfc4c56e1e9e98ca58b0f883",
+        "sha256_in_prefix": "81c53503c50da9a8749f37306704f2887f5ab3fecfc4c56e1e9e98ca58b0f883",
+        "size_in_bytes": 7089
+      },
+      {
+        "_path": "share/man/man8/genccode.8",
+        "path_type": "hardlink",
+        "sha256": "e6bd431e5e88f7c8eeb9400e332695aa8159070c5f0b2d9d449bc56d84f6f843",
+        "sha256_in_prefix": "e6bd431e5e88f7c8eeb9400e332695aa8159070c5f0b2d9d449bc56d84f6f843",
+        "size_in_bytes": 2934
+      },
+      {
+        "_path": "share/man/man8/gencmn.8",
+        "path_type": "hardlink",
+        "sha256": "f4be3f0063f88cd86d4c8b19529781a102685983c02e60f9b5f90ecb827109cf",
+        "sha256_in_prefix": "f4be3f0063f88cd86d4c8b19529781a102685983c02e60f9b5f90ecb827109cf",
+        "size_in_bytes": 3332
+      },
+      {
+        "_path": "share/man/man8/gensprep.8",
+        "path_type": "hardlink",
+        "sha256": "a2169823d2e976e635ea97754ff1ecb64ad646119d66669047e6842890df9769",
+        "sha256_in_prefix": "a2169823d2e976e635ea97754ff1ecb64ad646119d66669047e6842890df9769",
+        "size_in_bytes": 2719
+      },
+      {
+        "_path": "share/man/man8/icupkg.8",
+        "path_type": "hardlink",
+        "sha256": "cf323b86704287cb054013b022c049321745c7220fa22fc5e335bbea606fe51b",
+        "sha256_in_prefix": "cf323b86704287cb054013b022c049321745c7220fa22fc5e335bbea606fe51b",
+        "size_in_bytes": 5109
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "baf2256a65215fb1be8e06e161a63a2cc93b1861d5917ab7159ed7599249ab31",
+  "size": 11182332,
+  "subdir": "osx-arm64",
+  "timestamp": 1630597537784,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/icu-68.1-hc377ac9_0.conda",
+  "version": "68.1"
+}

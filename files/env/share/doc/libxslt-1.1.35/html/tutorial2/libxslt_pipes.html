@@ -1,0 +1,612 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><title>libxslt: An Extended Tutorial</title><meta name="generator" content="DocBook XSL Stylesheets V1.66.0"></head><body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF"><div class="article" lang="en"><div class="titlepage"><div><div><h2 class="title"><a name="libxslt"></a>libxslt: An Extended Tutorial</h2></div><div><div class="author"><h3 class="author"><span class="firstname">Panos</span> <span class="surname">Louridas</span></h3></div></div><div><p class="copyright">Copyright © 2004 Panagiotis Louridas</p></div><div><div class="legalnotice"><a name="id2839296"></a><p>Permission is hereby granted, free of charge, to
+  any person obtaining a copy of this software and associated
+  documentation files (the "Software"), to deal in the Software
+  without restriction, including without limitation the rights to use,
+  copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software
+  is furnished to do so, subject to the following conditions:
+  </p><p>The above copyright notice and this permission notice shall be
+  included in all copies or substantial portions of the Software.
+  </p><p>THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+  EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+  MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+  NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+  LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+  OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+  WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p></div></div></div><hr></div><div class="toc"><p><b>Table of Contents</b></p><dl><dt><span class="sect1"><a href="#id2771767">Introduction</a></span></dt><dt><span class="sect1"><a href="#id2771862">Setting the Scene</a></span></dt><dt><span class="sect1"><a href="#id2799225">Program Start</a></span></dt><dt><span class="sect1"><a href="#id2799358">Arguments Collection</a></span></dt><dt><span class="sect1"><a href="#id2799396">Parsing</a></span></dt><dt><span class="sect1"><a href="#id2771038">File Processing</a></span></dt><dt><span class="sect1"><a href="#id2771153">*NIX Compiling and Linking</a></span></dt><dt><span class="sect1"><a href="#windows-build">MS-Windows Compiling and
+Linking</a></span></dt><dd><dl><dt><span class="sect2"><a href="#windows-ports-build">Building the Ports in
+MS-Windows</a></span></dt></dl></dd><dt><span class="sect1"><a href="#id2839739">zlib, iconv and All That</a></span></dt><dt><span class="sect1"><a href="#id2839841">The Complete Program</a></span></dt></dl></div><div class="sect1" lang="en"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="id2771767"></a>Introduction</h2></div></div></div><p>The Extensible Stylesheet Language Transformations (XSLT)
+specification defines an XML template language for transforming XML
+documents. An XSLT engine reads an XSLT file and an XML document and
+transforms the document accordingly.</p><p>We want to perform a series of XSLT transformations to a series
+of documents. An obvious solution is to use the operating system's
+pipe mechanism and start a series of transformation processes, each
+one taking as input the output of the previous transformation. It
+would be interesting, though, and perhaps more efficient if we could
+do our job within a single process.</p><p>libxslt is a library for doing XSLT transformations. It is built
+on libxml, which is a library for handling XML documents. libxml and
+libxslt are used by the GNOME project. Although developed in the
+*NIX world, both libxml and libxslt have been
+ported to the MS-Windows platform. In principle an application using
+libxslt should be easily portable between the two systems. In
+practice, however, there arise various wrinkles. These do not have
+anything to do with libxml or libxslt per se, but rather with the
+different compilation and linking procedures of each system.</p><p>The presented solution is an extension of <a href="https://gnome.pages.gitlab.gnome.org/libxslt/tutorial/libxslttutorial.html" target="_top">John
+Fleck's libxslt tutorial</a>, but the present tutorial tries to be
+self-contained. It develops a minimal libxslt application
+(libxslt_pipes) that can perform a series of transformations to a
+series of files in a pipe-like manner. An invocation might be:</p><p>
+  <b class="userinput"><tt>
+    libxslt_pipes --out results.xml foo.xsl bar.xsl doc1.xml doc2.xml
+  </tt></b>
+</p><p>The <tt class="filename">foo.xsl</tt> stylesheet will be applied to
+<tt class="filename"> doc1.xml</tt> and the <tt class="filename">bar.xsl</tt>
+stylesheet will be applied to the resulting document; then the two
+stylesheets will be applied in the same sequence to
+<tt class="filename">bar.xsl</tt>. The results are sent to
+<tt class="filename">results.xml</tt> (if no output is specified they are
+sent to standard output).</p><p>The application is compiled in both *NIX
+systems and MS-Windows, where by *NIX systems we
+mean Linux, BSD, and other members of the
+family. The gcc suite is used in the *NIX platform
+and the Microsoft compiler and linker are used in the
+MS-Windows platform.</p></div><div class="sect1" lang="en"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="id2771862"></a>Setting the Scene</h2></div></div></div><p>
+We need to include the necessary libraries:
+
+</p><pre class="programlisting">
+  
+  #include &lt;stdio.h&gt;
+  #include &lt;string.h&gt;
+  #include &lt;stdlib.h&gt;
+  
+  #include &lt;libxslt/transform.h&gt;
+  #include &lt;libxslt/xsltutils.h&gt;
+  
+</pre><p>
+</p><p>The first group of include directives includes general C
+libraries. The libraries we need to make libxslt work are in the
+second group. The <tt class="filename">transform.h</tt> header file
+declares the API that does the bulk of the actual processing. The
+<tt class="filename">xsltutils.h</tt> header file declares the API for some
+generic utility functions of the XSLT engine; among other things,
+saving to a file, which is what we need it for.</p><p>
+If our input files contain entities through external subsets, we need
+to tell libxslt to load them. The global variable
+<tt class="function">xmlLoadExtDtdDefaultValue</tt>, defined in
+<tt class="filename">libxml/globals.h</tt>, is responsible for that. As the
+variable is defined outside our program we must specify external
+linkage:
+  </p><pre class="programlisting">
+    extern int xmlLoadExtDtdDefaultValue;
+  </pre><p>
+</p><p>
+The program is called from the command line. We anticipate that the
+user may not call it the right way, so we define a function for
+describing its usage:
+</p><pre class="programlisting">
+  static void usage(const char *name) {
+      printf("Usage: %s [options] stylesheet [stylesheet ...] file [file ...]\n",
+          name);
+      printf("      --out file: send output to file\n");
+      printf("      --param name value: pass a (parameter,value) pair\n");
+  }
+</pre><p>
+</p></div><div class="sect1" lang="en"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="id2799225"></a>Program Start</h2></div></div></div><p>We need to define a few variables that are used throughout the
+program:
+</p><pre class="programlisting">
+    int main(int argc, char **argv) {
+        int arg_indx;
+	const char *params[16 + 1];
+	int params_indx = 0;
+	int stylesheet_indx = 0;
+	int file_indx = 0;
+	int i, j, k;
+	FILE *output_file = stdout;
+	xsltStylesheetPtr *stylesheets = 
+	    (xsltStylesheetPtr *) calloc(argc, sizeof(xsltStylesheetPtr));
+	    xmlDocPtr *files = (xmlDocPtr *) calloc(argc, sizeof(xmlDocPtr));
+	int return_value = 0;
+</pre><p>
+</p><p>The <tt class="varname">arg_indx</tt> integer is an index used to
+iterate over the program arguments. The <tt class="varname">params</tt>
+string array is used to collect the XSLT parameters. In XSLT,
+additional information may be passed to the processor via
+parameters. The user of the program specifies these in key-value pairs
+in the command line following the <b class="userinput"><tt>--param</tt></b>
+command line argument. We accept up to 8 such key-value pairs, which
+we track with the <tt class="varname">params_indx</tt> integer. libxslt
+expects the parameters array to be null-terminated, so we have to
+allocate one extra place (16 + 1) for it. The
+<tt class="varname">file_indx</tt> is an index to iterate over the files to
+be processed. The <tt class="varname">i</tt>, <tt class="varname">j</tt>,
+<tt class="varname">k</tt> integers are additional indices for iteration
+purposes, and <tt class="varname">return_value</tt> is the value the program
+returns to the operating system. We expect the result of the
+transformation to be the standard output in most cases, but the user
+may wish otherwise via the <tt class="option">--out</tt> command line
+option, so we need to keep track of the situation with the
+<tt class="varname">output_file</tt> file pointer.</p><p>In libxslt, XSLT stylesheets are internally stored in
+<span class="structname">xsltStylesheet</span> structures; similarly, in
+libxml XML documents are stored in <span class="structname">xmlDoc</span>
+structures. <span class="type">xsltStylesheetPtr</span> and <span class="type">xmlDocPtr</span>
+are simply typedefs of pointers to them. The user may specify any
+number of stylesheets that will be applied to the documents one after
+the other. To save time we parse the stylesheets and the documents as
+we read them from the command line and keep the parsed representation
+of them. The parsed results are kept in arrays. These are dynamically
+allocated and sized to the number of arguments; this wastes some
+space, but not much (the size of <span class="type">xmlStyleSheetPtr</span> and
+<span class="type">xmlDocPtr</span> is the size of a pointer) and simplifies code
+later on. The array memory is allocated with
+<tt class="function">calloc</tt> to ensure contents are initialised to
+zero.
+</p></div><div class="sect1" lang="en"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="id2799358"></a>Arguments Collection</h2></div></div></div><p>If the program gets no arguments at all, we print the usage
+description, set the program return value to 1 and exit. Instead of
+returning directly we go to (literally) to the end of the program text
+where some housekeeping takes place.</p><p>
+</p><pre class="programlisting">
+  
+    if (argc &lt;= 1) {
+        usage(argv[0]);
+        return_value = 1;
+        goto finish;
+    }
+        
+    /* Collect arguments */
+    for (arg_indx = 1; arg_indx &lt; argc; arg_indx++) {
+        if (argv[arg_indx][0] != '-')
+            break;
+        if ((!strcmp(argv[arg_indx], "-param"))
+                || (!strcmp(argv[arg_indx], "--param"))) {
+            arg_indx++;
+            params[params_indx++] = argv[arg_indx++];
+            params[params_indx++] = argv[arg_indx];
+            if (params_indx &gt;= 16) {
+                fprintf(stderr, "too many params\n");
+                return_value = 1;
+                goto finish;
+            }
+        }  else if ((!strcmp(argv[arg_indx], "-o"))
+                || (!strcmp(argv[arg_indx], "--out"))) {
+            arg_indx++;
+            output_file = fopen(argv[arg_indx], "w");
+        } else {
+            fprintf(stderr, "Unknown option %s\n", argv[arg_indx]);
+            usage(argv[0]);
+            return_value = 1;
+            goto finish;
+        }
+    }
+    params[params_indx] = 0;
+    
+</pre><p>
+</p><p>If the user passes arguments we have to collect them. This is a
+matter of iterating over the program argument list while we encounter
+arguments starting with a dash. The XSLT parameters are put into the
+<tt class="varname">params</tt> array and the <tt class="varname">output_file</tt>
+is set to the user request, if any. After processing all the parameter
+key-value pairs we set the last element of the <tt class="varname">params</tt>
+array to null.
+</p></div><div class="sect1" lang="en"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="id2799396"></a>Parsing</h2></div></div></div><p>The rest of the argument list is taken to be stylesheets and
+files to be transformed. Stylesheets are identified by their suffix,
+which is expected to be xsl (case sensitive). All other files are
+assumed to be XML documents, regardless of suffix.</p><p>
+</p><pre class="programlisting">
+  
+    /* Collect and parse stylesheets and files to be transformed */
+    for (; arg_indx &lt; argc; arg_indx++) {
+        char *argument =
+            (char *) malloc(sizeof(char) * (strlen(argv[arg_indx]) + 1));
+        strcpy(argument, argv[arg_indx]);
+        if (strtok(argument, ".")) {
+            char *suffix = strtok(0, ".");
+            if (suffix &amp;&amp; !strcmp(suffix, "xsl")) {
+                stylesheets[stylesheet_indx++] =
+                    xsltParseStylesheetFile((const xmlChar *)argv[arg_indx]);;
+            } else {
+                files[file_indx++] = xmlParseFile(argv[arg_indx]);
+            }
+        } else {
+            files[file_indx++] = xmlParseFile(argv[arg_indx]);
+        }
+        free(argument);
+    }
+  
+</pre><p>
+</p><p>Stylesheets are parsed using the
+<tt class="function">xsltParseStylesheetFile</tt>
+function. <tt class="function">xsltParseStylesheetFile</tt> takes as
+argument a pointer to an <span class="type">xmlChar</span>, a typedef of an
+unsigned char; in effect, the filename of the stylesheet. The
+resulting <span class="type">xsltStylesheetPtr</span> is placed in the
+<tt class="varname">stylesheets</tt> array. In the same vein, XML files are
+parsed using the <tt class="function">xmlParseFile</tt> function that takes
+as argument the file's name; the resulting <span class="type">xmlDocPtr</span> is
+placed in the <tt class="varname">files</tt> array.
+</p></div><div class="sect1" lang="en"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="id2771038"></a>File Processing</h2></div></div></div><p>All stylesheets are applied to each file one after the
+other. Stylesheets are applied with the
+<tt class="function">xsltApplyStylesheet</tt> function that takes as
+argument the stylesheet to be applied, the file to be transformed and
+any parameters we have collected. The in-memory representation of an
+XML document takes space, which we free using the
+<tt class="function">xmlFreeDoc</tt> function. The file is then saved to the
+specified output.</p><p>
+</p><pre class="programlisting">
+  
+    /* Process files */
+    for (i = 0; files[i]; i++) {
+        doc = files[i];
+        res = doc;
+        for (j = 0; stylesheets[j]; j++) {
+            res = xsltApplyStylesheet(stylesheets[j], doc, params);
+            xmlFreeDoc(doc);
+            doc = res;
+        }
+
+        if (stylesheets[0]) {
+            xsltSaveResultToFile(output_file, res, stylesheets[j-1]);
+        } else {
+            xmlDocDump(output_file, res);
+        }
+        xmlFreeDoc(res);
+    }
+
+    fclose(output_file);
+
+    for (k = 0; stylesheets[k]; k++) {
+        xsltFreeStylesheet(stylesheets[k]);
+    }
+
+    xsltCleanupGlobals();
+    xmlCleanupParser();
+
+ finish:
+    free(stylesheets);
+    free(files);
+    return(return_value);
+    
+</pre><p>
+</p><p>To output an XML document we have in memory we use the
+<tt class="function">xlstSaveResultToFile</tt> function, where we specify
+the destination, the document and the stylesheet that has been applied
+to it. The stylesheet is required so that output-related information
+contained in the stylesheet, such as the encoding to be used, is used
+in output. If no transformation has taken place, which will happen
+when the user specifies no stylesheets at all in the command line, we
+use the <tt class="function">xmlDocDump</tt> libxml function that saves the
+source document to the file without further ado.</p><p>As parsed stylesheets take up space in memory, we take care to
+free that memory after use with a call to
+<tt class="function">xmlFreeStyleSheet</tt>. When all work is done, we
+clean up all global variables used by the XSLT library using
+<tt class="function">xsltCleanupGlobals</tt>. Likewise, all global memory
+allocated for the XML parser is reclaimed by a call to
+<tt class="function">xmlCleanupParser</tt>. Before returning we deallocate
+the memory allocated for the holding the pointers to the XML documents
+and stylesheets.</p></div><div class="sect1" lang="en"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="id2771153"></a>*NIX Compiling and Linking</h2></div></div></div><p>Compiling and linking in a *NIX environment
+is easy, as the required libraries are almost certain to be already in
+place (remember that libxml and libxslt are used by the GNOME project,
+so they are present in most installations). The program can be
+dynamically linked so that its footprint is minimized, or statically
+linked, so that it stands by itself, carrying all required code.</p><p>For dynamic linking the following one liner will do:</p><p>
+<b class="userinput"><tt>gcc -o libxslt_pipes -Wall -I/usr/include/libxml2 -lxslt
+-lxml2 -L/usr/lib libxslt_pipes.c</tt></b>
+</p><p>We assume that the necessary header files are in <tt class="filename">/usr/include/libxml2</tt> and that the
+required libraries (<tt class="filename">libxslt.so</tt>,
+<tt class="filename">libxml2.so</tt>) are in <tt class="filename">/usr/lib</tt>.</p><p>In general, a program may need to link to additional libraries,
+depending on the processing it actually performs. A good way to start
+is to use the <span><b class="command">xslt-config</b></span> script. The
+<tt class="option">--help</tt> option displays usage
+information. Running</p><p>
+  <b class="userinput"><tt>
+    xslt-config --cflags
+  </tt></b>
+</p><p>we get compile flags, while running</p><p>
+  <b class="userinput"><tt>
+    xslt-config --libs
+  </tt></b>
+</p><p>we get the library settings for the linker.</p><p>For static linking we must list more libraries than we did for
+dynamic linking, as the libraries on which the libxsl and libxslt
+libraries depend are also needed. Using <span><b class="command">xslt-config</b></span>
+on a particular installation we create the following one-liner:</p><p>
+<b class="userinput"><tt>
+gcc -o libxslt_pipes -Wall -I/usr/include/libxml2 libxslt_pipes.c
+-static -L/usr/lib -lxslt -lxml2 -lz -lpthread -lm
+</tt></b>
+</p><p>If we get warnings to the effect that some function in
+statically linked applications requires at runtime the shared
+libraries used from the glibc version used for linking, that means
+that the binary is not completely static. Although we statically
+linked against the GNU C runtime library glibc, glibc uses external
+libraries to perform some of its functions. Same version libraries
+must be present on the system we want the application to run. One way
+to avoid this it to use an alternative C runtime, for example <a href="http://www.uclibc.org" target="_top">uClibc</a>, which requires obtaining
+and building a uClibc toolchain first (if the reason for trying to get
+a statically linked version of the program is to embed it somewhere,
+using uClibc might be a good idea anyway).
+</p></div><div class="sect1" lang="en"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="windows-build"></a>MS-Windows Compiling and
+Linking</h2></div></div></div><p>Compiling and linking in MS-Windows requires
+some attention. First, the MS-Windows ports must be
+downloaded and installed in the programming workstation. The ports are
+available in <a href="http://www.zlatkovic.com/libxml.en.html" target="_top">Igor
+Zlatkovi&#263;'s site</a>. We need the ports for iconv, zlib, libxml,
+and libxslt. In contrast to *NIX environments, we
+cannot assume that the libraries needed will be present in other
+computers where the program will be used. One solution is to
+distribute the program along with the necessary dynamic
+libraries. Another solution is to statically link the program so that
+only a single executable file will have to be distributed.</p><p>We assume that we have decompressed the downloaded ports and
+have placed the required contents of their <tt class="filename">include</tt> directories in an <tt class="filename">include</tt> directory in our file system. The
+required contents include everything apart from the <tt class="filename">libexslt</tt> directory of the libxslt port,
+as we are not using EXLST (an initiative to provide extensions to
+XSLT) in this project. In order to compile the program we have to make
+sure that all necessary header files are included. When using the
+Microsoft compiler this translates to adding the required
+<tt class="option">/I</tt> switches in the command line. If using a Visual
+Studio product the same effect is attained by specifying additional
+include directories in the compilation options. In the end, if the
+headers have been copied in <tt class="filename">C:\include</tt> the command line must contain
+<tt class="option">/I"C:\include" /I"C:\include\libslt"
+/I"C:\include\libxml"</tt>.</p><p>This being a C program, it needs to be compiled against an
+implementation of the C libraries. Microsoft provides various
+implementations. The ports, however, have been compiled against the
+<tt class="filename">msvcrt.dll</tt> implementation, so it is wise to use
+the same runtime in our project, lest we wish to come against
+unexpected runtime crashes. The <tt class="filename">msvcrt.dll</tt> is a
+multi-threaded implementation and is specified by giving
+<tt class="option">/MD</tt> as a compiler option. Unfortunately, the
+correspondence between the <tt class="option">/MD</tt> switch and
+<tt class="filename">msvcrt.dll</tt> breaks after version 6 of the
+Microsoft compiler. In version 7 and later (i.e., Visual Studio .NET),
+<tt class="option">/MD</tt> links against a different DLL; in version 7.1
+this is <tt class="filename">msvcrt71.dll</tt>. The end result of this bit
+of esoterica is that if you try to dynamically link your application
+with a compiler whose version is greater than 6, your program is
+likely to crash unexpectedly. Alternatively, you may wish to compile
+all iconv, zlib, libxml and libxslt yourself, using the new runtime
+library. This is not a tall order, and some details are given
+<a href="#windows-ports-build" title="Building the Ports in
+MS-Windows">below</a>.</p><p>There are three kinds of libraries in MS-Windows. Dynamically
+Linked Libraries (DLLs), like <tt class="filename">msvcrt.dll</tt> we met
+above, are used for dynamic linking; an application links to them at
+runtime, so the application does not include the code contained in
+them. Static libraries are used for static linking; an application
+adds the libraries' code to its own code at link time. Import
+libraries are used when building an application that uses DLLs. For
+the application to be built, the linker must somehow find the
+definitions of the functions that will be provided in runtime by the
+DLLs, otherwise it will complain about unresolved references. Import
+libraries contain function stubs that, for each DLL function we want
+to call, know where to look for it in the DLL. In essence, in order to
+use a DLL we must link against its corresponding import library. DLLs
+have a <tt class="filename">.dll</tt> suffix; static and import libraries
+both have a <tt class="filename">.lib</tt> suffix. In the MS-Windows ports
+of libxml and libxslt static libraries are distinguished by their name
+ending in <tt class="filename">_a.lib</tt>, while in the zlib port the
+import library is <tt class="filename">zdll.lib</tt> and the static library
+is <tt class="filename">zlib.lib</tt>. In what follows we assume we have a
+<tt class="filename">lib</tt> directory in our filesystem
+where we place the libraries we need for linking.</p><p>If we want to link dynamically we must make sure the <tt class="filename">lib</tt> directory contains
+<tt class="filename">iconv.lib</tt>, <tt class="filename">libxslt.lib</tt>,
+<tt class="filename">libxml2.lib</tt>, and
+<tt class="filename">zdll.lib</tt>. When using the Microsoft linker this
+translates to adding the required <tt class="option">/LIBPATH</tt>
+switch and the necessary libraries in the command line. In Visual
+Studio we must specify an additional library directory for <tt class="filename">lib</tt> and put the necessary libraries in
+the additional dependencies. In the end, the command line must include
+<tt class="option">/LIBPATH:"C:\lib" "lib\iconv.lib" "lib\libxslt.lib"
+"lib\libxml2.lib" "lib\zdll.lib"</tt>, provided the libraries'
+directory is <tt class="filename">C:\lib</tt>. In order
+for the resulting executable to run, the ports DLLs must be present;
+one way is to place all DLLs contained in the ports in the home
+directory of our application, and make sure they are distributed
+together.</p><p>If we want to link statically we must make sure the <tt class="filename">lib</tt> directory contains
+<tt class="filename">iconv_a.lib</tt>, <tt class="filename">libxslt_a.lib</tt>,
+<tt class="filename">libxml2_a.lib</tt>, and
+<tt class="filename">zlib.lib</tt>. Adding <tt class="filename">lib</tt> as a library directory and putting
+the necessary libraries in the additional dependencies, we get a
+command line that should include <tt class="option">/LIBPATH:"C:\lib"
+"lib\iconv_a.lib" "lib\libxslt_a.lib" "lib\libxml2_a.lib"
+"lib\zlib.lib"</tt>. The resulting executable is much bigger
+than if we linked dynamically; it is, however, self-contained and can
+be distributed more easily, in theory at least. In practice, however,
+the executable is not completely static. We saw that the ports are
+compiled against <tt class="filename">msvcrt.dll</tt>, so the program does
+require that DLL at runtime. Moreover, since when using a version of
+Microsoft developer tools with a version number greater than 6, we are
+no longer using <tt class="filename">msvcrt.dll</tt>, but another runtime
+like <tt class="filename">msvcrt71.dll</tt>, and we then need that DLL.  In
+contrast to <tt class="filename">msvcrt.dll</tt> it may not be present on
+the target computer, so we may have to copy it along.</p><div class="sect2" lang="en"><div class="titlepage"><div><div><h3 class="title"><a name="windows-ports-build"></a>Building the Ports in
+MS-Windows</h3></div></div></div><p>The source code of the ports is readily available on the web,
+one has to check the ports sites. Each port can be built without
+problems in an MS-Windows environment using Microsoft development
+tools.  The necessary command line tools (compiler, linker,
+<span><b class="command">nmake</b></span>) must be available. This means running a
+batch file called <span><b class="command">vcvars32.bat</b></span> that comes with
+Visual Studio (its exact location in the directory tree may vary
+depending on the version of Visual Studio, but a file search will find
+it anyway). Makefiles for the Microsoft tools are found in all
+ports. They are distinguished by their suffix, e.g.,
+<tt class="filename">Makefile.msvc</tt> or
+<tt class="filename">Makefile.msc</tt>. To build zlib it suffices to run
+<span><b class="command">nmake</b></span> against <tt class="filename">Makefile.msc</tt>
+(i.e., with the <tt class="option">/F</tt> option); similarly, to build
+<tt class="filename">iconv</tt> it suffices to run <span><b class="command">nmake</b></span>
+against <tt class="filename">Makefile.msvc</tt>. Building libxml and
+libxslt requires an extra configuration step; we must run the
+<tt class="filename">configure.js</tt> configuration script with the
+<span><b class="command">cscript</b></span> command. <tt class="filename">configure.js</tt>
+is found in the <tt class="filename">win32</tt> directory
+in the distributions. It is written in JScript, Microsoft's
+implementation of the ECMA 262 language specification (ECMAScript
+Edition 3), a JavaScript offspring. The configuration string takes a
+number of parameters detailing our environment and needs;
+<b class="userinput"><tt>cscript configure.js help</tt></b> documents
+them.</p><p>It is wise to read all documentation files in the source
+distributions before starting; moreover, pay attention to the
+dependencies between the ports. If we configure libxml and libxslt to
+use iconv and zlib we must build these two first and make sure their
+headers and libraries can be found by the compiler and the
+linker when building libxml and libxslt.</p></div></div><div class="sect1" lang="en"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="id2839739"></a>zlib, iconv and All That</h2></div></div></div><p>We saw that libxml and libxslt depend on various other
+libraries, for instance zlib, iconv, and so forth. Taking a look into
+them gives us clues on the capabilities of libxml and libxslt.</p><p><a href="http://www.zlib.org" target="_top">zlib</a> is a free general
+purpose lossless data compression library. It is a venerable
+workhorse; more than <a href="http://www.gzip.org/zlib/apps.html" target="_top">500 applications</a>
+(both commercial and open source) seem to use the library. libxml uses
+zlib so that it can read from or write to compressed files
+directly. The <tt class="function">xmlParseFile</tt> function can
+transparently parse a compressed document to produce an
+<span class="structname">xmlDoc</span>. If we want to create a compressed
+document with libxml we can use an
+<span class="structname">xmlTextWriterPtr</span> (obtained through
+<tt class="function">xmlNewTextWriterDoc</tt>), or another related
+structure from <tt class="filename">libxml/xmlwriter.h</tt>, with
+compression enabled.</p><p>XML allows documents to use a variety of different character
+encodings. <a href="http://www.gnu.org/software/libiconv" target="_top">iconv</a> is a free
+library for converting between different character encodings.  libxml
+provides a set of default converters for some encodings: UTF-8, UTF-16
+(little endian and big endian), ISO-8859-1, ASCII, and HTML (a
+specific handler for the conversion of UTF-8 to ASCII with HTML
+predefined entities like &amp;copy; for the copyright sign). However,
+when compiled with iconv support, libxml and libxslt can handle the
+full range of encodings provided by iconv; these should cover most
+needs.</p><p>libxml and libxslt can be used in multi-threaded
+applications. In MS-Windows they are linked against
+<tt class="filename">MSVCRT.DLL</tt> (or one of its descendants, as we saw
+<a href="#windows-build" title="MS-Windows Compiling and
+Linking">above</a>). In *NIX the pthreads
+(POSIX threads) library is used.</p></div><div class="sect1" lang="en"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="id2839841"></a>The Complete Program</h2></div></div></div><p>
+The complete program listing is given below. The program is also
+<a href="libxslt_pipes.c" target="_top">available online</a>.
+</p><p>
+</p><pre class="programlisting">
+/*
+ * libxslt_pipes.c: a program for performing a series of XSLT
+ * transformations
+ *
+ * Writen by Panos Louridas, based on libxslt_tutorial.c by John Fleck.
+ *
+ * See the file Copyright for the status of this software.
+ *
+ */ 
+
+#include &lt;stdio.h&gt;
+#include &lt;string.h&gt;
+#include &lt;stdlib.h&gt;
+
+#include &lt;libxslt/transform.h&gt;
+#include &lt;libxslt/xsltutils.h&gt;
+
+extern int xmlLoadExtDtdDefaultValue;
+
+static void usage(const char *name) {
+    printf("Usage: %s [options] stylesheet [stylesheet ...] file [file ...]\n",
+            name);
+    printf("      --out file: send output to file\n");
+    printf("      --param name value: pass a (parameter,value) pair\n");
+}
+
+int main(int argc, char **argv) {
+    int arg_indx;
+    const char *params[16 + 1];
+    int params_indx = 0;
+    int stylesheet_indx = 0;
+    int file_indx = 0;
+    int i, j, k;
+    FILE *output_file = stdout;
+    xsltStylesheetPtr *stylesheets = 
+        (xsltStylesheetPtr *) calloc(argc, sizeof(xsltStylesheetPtr));
+    xmlDocPtr *files = (xmlDocPtr *) calloc(argc, sizeof(xmlDocPtr));
+    xmlDocPtr doc, res;
+    int return_value = 0;
+        
+    if (argc &lt;= 1) {
+        usage(argv[0]);
+        return_value = 1;
+        goto finish;
+    }
+        
+    /* Collect arguments */
+    for (arg_indx = 1; arg_indx &lt; argc; arg_indx++) {
+        if (argv[arg_indx][0] != '-')
+            break;
+        if ((!strcmp(argv[arg_indx], "-param"))
+                || (!strcmp(argv[arg_indx], "--param"))) {
+            arg_indx++;
+            params[params_indx++] = argv[arg_indx++];
+            params[params_indx++] = argv[arg_indx];
+            if (params_indx &gt;= 16) {
+                fprintf(stderr, "too many params\n");
+                return_value = 1;
+                goto finish;
+            }
+        }  else if ((!strcmp(argv[arg_indx], "-o"))
+                || (!strcmp(argv[arg_indx], "--out"))) {
+            arg_indx++;
+            output_file = fopen(argv[arg_indx], "w");
+        } else {
+            fprintf(stderr, "Unknown option %s\n", argv[arg_indx]);
+            usage(argv[0]);
+            return_value = 1;
+            goto finish;
+        }
+    }
+    params[params_indx] = 0;
+
+    /* Collect and parse stylesheets and files to be transformed */
+    for (; arg_indx &lt; argc; arg_indx++) {
+        char *argument =
+            (char *) malloc(sizeof(char) * (strlen(argv[arg_indx]) + 1));
+        strcpy(argument, argv[arg_indx]);
+        if (strtok(argument, ".")) {
+            char *suffix = strtok(0, ".");
+            if (suffix &amp;&amp; !strcmp(suffix, "xsl")) {
+                stylesheets[stylesheet_indx++] =
+                    xsltParseStylesheetFile((const xmlChar *)argv[arg_indx]);;
+            } else {
+                files[file_indx++] = xmlParseFile(argv[arg_indx]);
+            }
+        } else {
+            files[file_indx++] = xmlParseFile(argv[arg_indx]);
+        }
+        free(argument);
+    }
+
+    xmlSubstituteEntitiesDefault(1);
+    xmlLoadExtDtdDefaultValue = 1;
+
+    /* Process files */
+    for (i = 0; files[i]; i++) {
+        doc = files[i];
+        res = doc;
+        for (j = 0; stylesheets[j]; j++) {
+            res = xsltApplyStylesheet(stylesheets[j], doc, params);
+            xmlFreeDoc(doc);
+            doc = res;
+        }
+
+        if (stylesheets[0]) {
+            xsltSaveResultToFile(output_file, res, stylesheets[j-1]);
+        } else {
+            xmlDocDump(output_file, res);
+        }
+        xmlFreeDoc(res);
+    }
+
+    fclose(output_file);
+
+    for (k = 0; stylesheets[k]; k++) {
+        xsltFreeStylesheet(stylesheets[k]);
+    }
+
+    xsltCleanupGlobals();
+    xmlCleanupParser();
+
+ finish:
+    free(stylesheets);
+    free(files);
+    return(return_value);
+}
+
+</pre><p>
+</p></div></div></body></html>

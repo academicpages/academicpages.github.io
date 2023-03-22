@@ -1,0 +1,14 @@
+{% extends "page.html" %}
+
+{% block title %} Opening Voilà {% endblock %}
+
+{% block meta %}
+  <meta http-equiv="refresh" content="1;url={{ open_url }}" />
+{% endblock %}
+
+{% block body %}
+  <p>
+    This page should redirect you to Voilà. If it doesn't,
+    <a href="{{ open_url }}">click here to go to Voilà</a>.
+  </p>
+{% endblock %}

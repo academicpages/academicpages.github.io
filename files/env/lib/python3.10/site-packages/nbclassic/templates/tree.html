@@ -1,0 +1,223 @@
+{% extends "page.html" %}
+
+{% block title %}{{page_title}}{% endblock %}
+
+
+{% block params %}
+{{super()}}
+data-base-url="{{base_url | urlencode}}"
+data-notebook-path="{{notebook_path | urlencode}}"
+data-terminals-available="{{terminals_available}}"
+data-server-root="{{server_root}}"
+{% endblock %}
+
+{% block headercontainer %}
+  <span class="flex-spacer"></span>
+  {{super()}}
+  {% if shutdown_button %}
+    <span id="shutdown_widget">
+      <button id="shutdown" class="btn btn-sm navbar-btn"
+              title="{% trans %}Stop the Jupyter server{% endtrans %}">
+          {% trans %}Quit{% endtrans %}
+      </button>
+    </span>
+  {% endif %}
+{% endblock %}
+
+{% block site %}
+
+  <div id="ipython-main-app" class="container">
+    <div id="tab_content" class="tabbable" role="main">
+      <ul id="tabs" class="nav nav-tabs">
+        <li class="active"><a href="#notebooks" data-toggle="tab">{% trans %}Files{% endtrans %}</a></li>
+        <li><a href="#running" data-toggle="tab">{% trans %}Running{% endtrans %}</a></li>
+        <li><a href="#clusters" data-toggle="tab" class="clusters_tab_link" >{% trans %}Clusters{% endtrans %}</a></li>
+      </ul>
+      <div class="tab-content">
+        <div id="notebooks" class="tab-pane active">
+          <div id="notebook_toolbar" class="row">
+            <div class="col-sm-8 no-padding">
+              <div class="dynamic-instructions">
+                {% trans %}Select items to perform actions on them.{% endtrans %}
+              </div>
+              <div class="dynamic-buttons">
+                  <button  title="{% trans %}Duplicate selected{% endtrans %}" aria-label="{% trans %}Duplicate selected{% endtrans %}" class="duplicate-button btn btn-default btn-xs" aria-describedby="tooltip1">{% trans %}Duplicate{% endtrans %} </button>
+                  <div role="tooltip" id="tooltip1" >{% trans %}Duplicate selected{% endtrans %}</div>
+                  <button title="{% trans %}Rename selected{% endtrans %}" aria-label="{% trans %}Rename selected{% endtrans %}" class="rename-button btn btn-default btn-xs" aria-describedby="tooltip2">{% trans %}Rename{% endtrans %}</button>
+                  <div role="tooltip" id="tooltip2" >{% trans %}Rename selected{% endtrans %}</div> 
+                  <button title="{% trans %}Move selected{% endtrans %}" aria-label="{% trans %}Move selected{% endtrans %}" class="move-button btn btn-default btn-xs" aria-describedby="tooltip3">{% trans %}Move{% endtrans %}</button>
+                  <div role="tooltip" id="tooltip3" >{% trans %}Move selected{% endtrans %}</div> 
+                  <button title="{% trans %}Download selected{% endtrans %}" aria-label="{% trans %}Download selected{% endtrans %}" class="download-button btn btn-default btn-xs" aria-describedby="tooltip4">{% trans %}Download{% endtrans %}</button>
+                  <div role="tooltip" id="tooltip4" >{% trans %}Download selected{% endtrans %}</div>
+                  <button title="{% trans %}Shutdown selected notebook(s){% endtrans %}" aria-label="{% trans %}Shutdown selected notebook(s){% endtrans %}" class="shutdown-button btn btn-default btn-xs btn-warning" aria-describedby="tooltip5">{% trans %}Shutdown{% endtrans %}</button>
+                  <div role="tooltip" id="tooltip5" >{% trans %}Shutdown selected notebook(s){% endtrans %}</div>  
+                  <button title="{% trans %}View selected{% endtrans %}" aria-label="{% trans %}View selected{% endtrans %}" class="view-button btn btn-default btn-xs" aria-describedby="tooltip6">{% trans %}View{% endtrans %}</button>
+                  <div role="tooltip" id="tooltip6" >{% trans %}View selected{% endtrans %}</div> 
+                  <button title="{% trans %}Edit selected{% endtrans %}" aria-label="{% trans %}Edit selected{% endtrans %}" class="edit-button btn btn-default btn-xs" aria-describedby="tooltip7">{% trans %}Edit{% endtrans %}</button>
+                  <div role="tooltip" id="tooltip7" >{% trans %}Edit selected{% endtrans %}</div>  
+                  <button title="{% trans %}Delete selected{% endtrans %}" aria-label="{% trans %}Delete selected{% endtrans %}" class="delete-button btn btn-default btn-xs btn-danger" aria-describedby="tooltip8">
+                    <i class="fa fa-trash"></i>
+                  </button>
+                  <div role="tooltip" id="tooltip8" >{% trans %}Delete selected{% endtrans %}</div>
+              </div>
+            </div>
+            <div class="col-sm-4 no-padding tree-buttons">
+              <div class="pull-right">
+                <form id='alternate_upload'  class='alternate_upload'>
+                  <span id="notebook_list_info">
+                  <span id="upload_span" class="btn btn-xs btn-default btn-upload" role="button" tabindex="0">
+                    <input id="upload_span_input" title="{% trans %}Click to browse for a file to upload.{% endtrans %}" type="file" name="datafile" class="fileinput" multiple='multiple' tabindex="-1">
+                    {% trans %}Upload{% endtrans %}
+                  </span>
+                  </span>
+                </form>
+                <div id="new-buttons" class="btn-group">
+                  <button class="dropdown-toggle btn btn-default btn-xs" id="new-dropdown-button" data-toggle="dropdown">
+                  <span>{% trans %}New{% endtrans %}</span>
+                  <span class="caret"></span>
+                  <span class="sr-only">{% trans %}Toggle Dropdown{% endtrans %}</span>
+                  </button>
+                  <ul id="new-menu" class="dropdown-menu" role="menu">
+                    <li role="menuitem" class="dropdown-header" id="notebook-kernels">Notebook:</li>
+                    <li role="presentation" class="divider"></li>
+                    <li role="menuitem" class="dropdown-header" >Other:</li>
+                    <li role="none" id="new-file">
+                        <a role="menuitem" tabindex="-1" href="#">{% trans %}Text File{% endtrans %}</a>
+                    </li>
+                    <li role="none" id="new-folder">
+                        <a role="menuitem" tabindex="-1" href="#">{% trans %}Folder{% endtrans %}</a>
+                    </li>
+                    {% if terminals_available %}
+                    <li role="none" id="new-terminal">
+                        <a role="menuitem" tabindex="-1" href="#">{% trans %}Terminal{% endtrans %}</a>
+                    </li>
+                    {% else %}
+                    <li role="none" id="new-terminal-disabled" class="disabled">
+                        <a role="menuitem" tabindex="-1" href="#">{% trans %}Terminals Unavailable{% endtrans %}</a>
+                    </li>
+                    {% endif %}
+                  </ul>
+                </div>
+                <div class="btn-group">
+                    <button id="refresh_notebook_list" title="{% trans %}Refresh notebook list{% endtrans %}"  aria-label="{% trans %}Refresh notebook list{% endtrans %}" class="btn btn-default btn-xs"><i class="fa fa-refresh"></i></button>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div id="notebook_list">
+            <div id="notebook_list_header" class="row list_header">
+              <div class="btn-group dropdown" id="tree-selector">
+                <button title="{% trans %}Select All / None{% endtrans %}" aria-label="{% trans %}Select All / None{% endtrans %}" type="button" class="btn btn-default btn-xs" id="button-select-all" role="checkbox">
+                  <input type="checkbox" class="pull-left tree-selector" id="select-all" tabindex="-1"><span id="counter-select-all">&nbsp;</span></input>
+                </button>
+                <button title="{% trans %}Select Folders/All Notebooks/Running/Files{% endtrans %}" class="btn btn-default btn-xs dropdown-toggle" type="button" id="tree-selector-btn" data-toggle="dropdown" aria-expanded="true">
+                  <span class="sr-only">checkbox</span>
+                  <span class="caret"></span>
+                  <span class="sr-only">Toggle Dropdown</span>
+                </button>
+                <ul id='selector-menu' class="dropdown-menu" role="menu" aria-labelledby="tree-selector-btn">
+                  <li role="none"><a id="select-folders" role="menuitem" tabindex="-1" href="#" title="{% trans %}Select All Folders{% endtrans %}"><i class="menu_icon folder_icon icon-fixed-width"></i>&nbsp;{% trans %}Folders{% endtrans %}</a></li>
+                  <li role="none"><a id="select-notebooks" role="menuitem" tabindex="-1" href="#" title="{% trans %}Select All Notebooks{% endtrans %}"><i class="menu_icon notebook_icon icon-fixed-width"></i>&nbsp;{% trans %}All Notebooks{% endtrans %}</a></li>
+                  <li role="none"><a id="select-running-notebooks" role="menuitem" tabindex="-1" href="#" title="{% trans %}Select Running Notebooks{% endtrans %}"><i class="menu_icon running_notebook_icon icon-fixed-width"></i>&nbsp;{% trans %}Running{% endtrans %}</a></li>
+                  <li role="none"><a id="select-files" role="menuitem" tabindex="-1" href="#" title="{% trans %}Select All Files{% endtrans %}"><i class="menu_icon file_icon icon-fixed-width"></i>&nbsp;{% trans %}Files{% endtrans %}</a></li>
+                </ul>
+              </div>
+              <div id="project_name">
+                <ul class="breadcrumb">
+                  <li><a href="{{breadcrumbs[0][0]}}"><i class="fa fa-folder" alt="folder icon"></i></a></li>
+                {% for crumb in breadcrumbs[1:] %}
+                  <li><a href="{{crumb[0]}}">{{crumb[1]}}</a></li>
+                {% endfor %}
+                </ul>
+              </div>
+              <div id="sort_buttons" class="pull-right">
+                <div id="sort_name" class="sort_button">
+                  <button type="button" class="btn btn-xs btn-default sort-action" id="sort-name" aria-label="{% trans %}Sort by name{% endtrans %}">
+                        {% trans %}Name{% endtrans %}
+                        <i class="fa fa-arrow-down"></i>
+                  </button>
+                </div>
+                <div id="last_modified" class="sort_button">
+                    <button type="button" class="btn btn-xs btn-default sort-action" id="last-modified" aria-label="{% trans %}Sort by last modified{% endtrans %}">
+                        {% trans %}Last Modified{% endtrans %}
+                        <i class="fa"></i>
+                    </button>
+                </div>
+                <div id="file_size" class="sort_button">
+                    <button type="button" class="btn btn-xs btn-default sort-action" id="file-size" aria-label="{% trans %}Sort by file size{% endtrans %}">
+                        {% trans %}File size{% endtrans %}
+                        <i class="fa"></i>
+                    </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="running" class="tab-pane">
+          <div id="running_toolbar" class="row">
+            <div class="col-sm-8 no-padding">
+              <span id="running_list_info">{% trans %}Currently running Jupyter processes{% endtrans %}</span>
+            </div>
+            <div class="col-sm-4 no-padding tree-buttons">
+              <span id="running_buttons" class="pull-right">
+              <button id="refresh_running_list" title="{% trans %}Refresh running list{% endtrans %}" aria-label="{% trans %}Refresh running list{% endtrans %}" class="btn btn-default btn-xs"><i class="fa fa-refresh"></i></button>
+              </span>
+            </div>
+          </div>
+          <div class="panel-group" id="accordion" >
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <a data-toggle="collapse" data-target="#collapseOne" href="#">
+                  Terminals
+                </a>
+              </div>
+              <div id="collapseOne" class=" collapse in">
+                <div class="panel-body">
+                  <div id="terminal_list">
+                    <div id="terminal_list_header" class="row list_placeholder">
+                    {% if terminals_available %}
+                      <div> {% trans %}There are no terminals running.{% endtrans %} </div>
+                    {% else %}
+                      <div> {% trans %}Terminals are unavailable.{% endtrans %} </div>
+                    {% endif %}
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <a data-toggle="collapse" data-target="#collapseTwo" href="#">
+                  {% trans %}Notebooks{% endtrans %}
+                </a>
+              </div>
+              <div id="collapseTwo" class=" collapse in">
+                <div class="panel-body">
+                  <div id="running_list">
+                    <div id="running_list_placeholder" class="row list_placeholder">
+                      <div> {% trans %}There are no notebooks running.{% endtrans %} </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id="clusters" class="tab-pane">
+          {% trans %}Clusters tab is now provided by IPython parallel.{% endtrans %}
+          {% trans %}See '<a href="https://github.com/ipython/ipyparallel">IPython parallel</a>' for installation details.{% endtrans %}
+        </div>
+      </div><!-- class:tab-content -->
+    </div><!-- id:tab_content -->
+  </div><!-- ipython-main-app  -->
+
+{% endblock %}
+
+{% block script %}
+    {{super()}}
+    <script src="{{ static_url("tree/js/main.min.js") }}" type="text/javascript" charset="utf-8"></script>
+
+    <script type="text/javascript">
+      $('#element').tooltip('enable')
+    </script>
+{% endblock %}

@@ -1,0 +1,10 @@
+[build-system]
+requires = ["flit_core >=2,<4"]
+build-backend = "flit_core.buildapi"
+
+[tool.flit.metadata]
+module = "package1"
+author = "Sir Robin"
+author-email = "robin@camelot.uk"
+descryption-file = "my-description.rst"  # Deliberate typo for test
+home-page = "http://github.com/sirrobin/package1"

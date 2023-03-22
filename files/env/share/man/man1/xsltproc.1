@@ -1,0 +1,429 @@
+'\" t
+.\"     Title: xsltproc
+.\"    Author: John Fleck <jfleck@inkstain.net>
+.\" Generator: DocBook XSL Stylesheets v1.79.1 <http://docbook.sf.net/>
+.\"      Date: $Date$
+.\"    Manual: xsltproc Manual
+.\"    Source: libxslt
+.\"  Language: English
+.\"
+.TH "XSLTPROC" "1" "$Date$" "libxslt" "xsltproc Manual"
+.\" -----------------------------------------------------------------
+.\" * Define some portability stuff
+.\" -----------------------------------------------------------------
+.\" ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.\" http://bugs.debian.org/507673
+.\" http://lists.gnu.org/archive/html/groff/2009-02/msg00013.html
+.\" ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.ie \n(.g .ds Aq \(aq
+.el       .ds Aq '
+.\" -----------------------------------------------------------------
+.\" * set default formatting
+.\" -----------------------------------------------------------------
+.\" disable hyphenation
+.nh
+.\" disable justification (adjust text to left margin only)
+.ad l
+.\" -----------------------------------------------------------------
+.\" * MAIN CONTENT STARTS HERE *
+.\" -----------------------------------------------------------------
+.SH "NAME"
+xsltproc \- command line XSLT processor
+.SH "SYNOPSIS"
+.HP \w'\fBxsltproc\fR\ 'u
+\fBxsltproc\fR [[\fB\-V\fR | \fB\-\-version\fR] [\fB\-v\fR | \fB\-\-verbose\fR] [{\fB\-o\fR | \fB\-\-output\fR} {\fIFILE\fR | \fIDIRECTORY\fR}] | \fB\-\-timing\fR | \fB\-\-repeat\fR | \fB\-\-debug\fR | \fB\-\-novalid\fR | \fB\-\-noout\fR | \fB\-\-maxdepth\ \fR\fB\fIVALUE\fR\fR | \fB\-\-maxvars\ \fR\fB\fIVALUE\fR\fR | \fB\-\-maxparserdepth\ \fR\fB\fIVALUE\fR\fR | \fB\-\-huge\fR | \fB\-\-seed\-rand\ \fR\fB\fIVALUE\fR\fR | \fB\-\-html\fR | \fB\-\-encoding\ \fR\fB\fIENCODING\fR\fR\fB\ \fR | \fB\-\-param\ \fR\fB\fIPARAMNAME\fR\fR\fB\ \fR\fB\fIPARAMVALUE\fR\fR\fB\ \fR | \fB\-\-stringparam\ \fR\fB\fIPARAMNAME\fR\fR\fB\ \fR\fB\fIPARAMVALUE\fR\fR\fB\ \fR | \fB\-\-nonet\fR | \fB\-\-path\ "\fR\fB\fIPATH(S)\fR\fR\fB"\fR | \fB\-\-load\-trace\fR | \fB\-\-catalogs\fR | \fB\-\-xinclude\fR | \fB\-\-xincludestyle\fR | [\fB\-\-profile\fR\ |\ \fB\-\-norman\fR] | \fB\-\-dumpextensions\fR | \fB\-\-nowrite\fR | \fB\-\-nomkdir\fR | \fB\-\-writesubtree\ \fR\fB\fIPATH\fR\fR | \fB\-\-nodtdattr\fR] [\fISTYLESHEET\fR] {\fIXML\-FILE\fR... | \-}
+.SH "DESCRIPTION"
+.PP
+\fBxsltproc\fR
+is a command line tool for applying
+XSLT
+stylesheets to
+XML
+documents\&. It is part of
+\fBlibxslt\fR(3), the XSLT C library for GNOME\&. While it was developed as part of the GNOME project, it can operate independently of the GNOME desktop\&.
+.PP
+\fBxsltproc\fR
+is invoked from the command line with the name of the stylesheet to be used followed by the name of the file or files to which the stylesheet is to be applied\&. It will use the standard input if a filename provided is
+\fB\-\fR
+\&.
+.PP
+If a stylesheet is included in an
+XML
+document with a Stylesheet Processing Instruction, no stylesheet need to be named at the command line\&.
+\fBxsltproc\fR
+will automatically detect the included stylesheet and use it\&.
+.PP
+By default, output is to
+stdout\&. You can specify a file for output using the
+\fB\-o\fR
+or
+\fB\-\-output\fR
+option\&.
+.SH "OPTIONS"
+.PP
+\fBxsltproc\fR
+accepts the following options (in alphabetical order):
+.PP
+\fB\-\-catalogs\fR
+.RS 4
+Use the
+SGML
+catalog specified in
+\fBSGML_CATALOG_FILES\fR
+to resolve the location of external entities\&. By default,
+\fBxsltproc\fR
+looks for the catalog specified in
+\fBXML_CATALOG_FILES\fR\&. If that is not specified, it uses
+/etc/xml/catalog\&.
+.RE
+.PP
+\fB\-\-debug\fR
+.RS 4
+Output an
+XML
+tree of the transformed document for debugging purposes\&.
+.RE
+.PP
+\fB\-\-dumpextensions\fR
+.RS 4
+Dumps the list of all registered extensions on
+stdout\&.
+.RE
+.PP
+\fB\-\-html\fR
+.RS 4
+The input document is an
+HTML
+file\&.
+.RE
+.PP
+\fB\-\-load\-trace\fR
+.RS 4
+Display all the documents loaded during the processing to
+stderr\&.
+.RE
+.PP
+\fB\-\-maxdepth \fR\fB\fIVALUE\fR\fR
+.RS 4
+Adjust the maximum depth of the template stack before
+\fBlibxslt\fR(3)
+concludes it is in an infinite loop\&. The default is 3000\&.
+.RE
+.PP
+\fB\-\-maxvars \fR\fB\fIVALUE\fR\fR
+.RS 4
+Maximum number of variables\&. The default is 15000\&.
+.RE
+.PP
+\fB\-\-maxparserdepth \fR\fB\fIVALUE\fR\fR
+.RS 4
+Maximum element nesting level of parsed XML documents\&. The default is 256\&.
+.RE
+.PP
+\fB\-\-huge\fR
+.RS 4
+Relax hardcoded limits of the XML parser by setting the XML_PARSE_HUGE parser option\&.
+.RE
+.PP
+\fB\-\-seed\-rand \fR\fB\fIVALUE\fR\fR
+.RS 4
+Initialize pseudo random number generator with specific seed\&.
+.RE
+.PP
+\fB\-\-nodtdattr\fR
+.RS 4
+Do not apply default attributes from the document\*(Aqs
+DTD\&.
+.RE
+.PP
+\fB\-\-nomkdir\fR
+.RS 4
+Refuses to create directories\&.
+.RE
+.PP
+\fB\-\-nonet\fR
+.RS 4
+Do not use the Internet to fetch
+DTDs, entities or documents\&.
+.RE
+.PP
+\fB\-\-noout\fR
+.RS 4
+Do not output the result\&.
+.RE
+.PP
+\fB\-\-novalid\fR
+.RS 4
+Skip loading the document\*(Aqs
+DTD\&.
+.RE
+.PP
+\fB\-\-nowrite\fR
+.RS 4
+Refuses to write to any file or resource\&.
+.RE
+.PP
+\fB\-o\fR or \fB\-\-output\fR \fIFILE\fR | \fIDIRECTORY\fR
+.RS 4
+Direct output to the given
+\fIFILE\fR\&. Using the option with a
+\fIDIRECTORY\fR
+directs the output files to the specified directory\&. This can be useful for multiple outputs (also known as "chunking") or manpage processing\&.
+.if n \{\
+.sp
+.\}
+.RS 4
+.it 1 an-trap
+.nr an-no-space-flag 1
+.nr an-break-flag 1
+.br
+.ps +1
+\fBImportant\fR
+.ps -1
+.br
+The given directory
+\fBmust\fR
+already exist\&.
+.sp .5v
+.RE
+.if n \{\
+.sp
+.\}
+.RS 4
+.it 1 an-trap
+.nr an-no-space-flag 1
+.nr an-break-flag 1
+.br
+.ps +1
+\fBNote\fR
+.ps -1
+.br
+Make sure that
+\fIFILE\fR
+and
+\fIDIRECTORY\fR
+follow the
+\(lqURI reference computation\(rq
+as described in RFC 2396 and laters\&. This means, that e\&.g\&.
+\fB\-o directory\fR
+will maybe not work, but
+\fB\-o directory/\fR
+will\&.
+.sp .5v
+.RE
+.RE
+.PP
+\fB\-\-encoding \fR\fB\fIENCODING\fR\fR
+.RS 4
+Allow to specify the encoding for the input\&.
+.RE
+.PP
+\fB\-\-param \fR\fB\fIPARAMNAME\fR\fR\fB \fR\fB\fIPARAMVALUE\fR\fR
+.RS 4
+Pass a parameter of name
+\fIPARAMNAME\fR
+and value
+\fIPARAMVALUE\fR
+to the stylesheet\&. You may pass multiple name/value pairs up to a maximum of 32\&. If the value being passed is a string, you can use
+\fB\-\-stringparam\fR
+instead, to avoid additional quote characters that appear in string expressions\&. Note: the XPath expression must be UTF\-8 encoded\&.
+.RE
+.PP
+\fB\-\-path "\fR\fB\fIPATH(S)\fR\fR\fB"\fR
+.RS 4
+Use the (space\- or colon\-separated) list of filesystem paths specified by
+\fIPATHS\fR
+to load
+DTDs, entities or documents\&. Enclose space\-separated lists by quotation marks\&.
+.RE
+.PP
+\fB\-\-profile\fR or \fB\-\-norman\fR
+.RS 4
+Output profiling information detailing the amount of time spent in each part of the stylesheet\&. This is useful in optimizing stylesheet performance\&.
+.RE
+.PP
+\fB\-\-repeat\fR
+.RS 4
+Run the transformation 20 times\&. Used for timing tests\&.
+.RE
+.PP
+\fB\-\-stringparam \fR\fB\fIPARAMNAME\fR\fR\fB \fR\fB\fIPARAMVALUE\fR\fR
+.RS 4
+Pass a parameter of name
+\fIPARAMNAME\fR
+and value
+\fIPARAMVALUE\fR
+where
+\fIPARAMVALUE\fR
+is a string rather than a node identifier\&.
+\fBNote:\fR
+The string must be UTF\-8 encoded\&.
+.RE
+.PP
+\fB\-\-timing\fR
+.RS 4
+Display the time used for parsing the stylesheet, parsing the document and applying the stylesheet and saving the result\&. Displayed in milliseconds\&.
+.RE
+.PP
+\fB\-v\fR or \fB\-\-verbose\fR
+.RS 4
+Output each step taken by
+\fBxsltproc\fR
+in processing the stylesheet and the document\&.
+.RE
+.PP
+\fB\-V\fR or \fB\-\-version\fR
+.RS 4
+Show the version of
+\fBlibxml\fR(3)
+and
+\fBlibxslt\fR(3)
+used\&.
+.RE
+.PP
+\fB\-\-writesubtree \fR\fB\fIPATH\fR\fR
+.RS 4
+Allow file write only within the
+\fIPATH\fR
+subtree\&.
+.RE
+.PP
+\fB\-\-xinclude\fR
+.RS 4
+Process the input document using the XInclude specification\&. More details on this can be found in the XInclude specification:
+\m[blue]\fB\%http://www.w3.org/TR/xinclude/\fR\m[]
+.RE
+.PP
+\fB\-\-xincludestyle\fR
+.RS 4
+Process the stylesheet with XInclude\&.
+.RE
+.SH "ENVIRONMENT"
+.PP
+\fBSGML_CATALOG_FILES\fR
+.RS 4
+SGML
+catalog behavior can be changed by redirecting queries to the user\*(Aqs own set of catalogs\&. This can be done by setting the
+\fBSGML_CATALOG_FILES\fR
+environment variable to a list of catalogs\&. An empty one should deactivate loading the default
+/etc/sgml/catalog
+catalog\&.
+.RE
+.PP
+\fBXML_CATALOG_FILES\fR
+.RS 4
+XML
+catalog behavior can be changed by redirecting queries to the user\*(Aqs own set of catalogs\&. This can be done by setting the
+\fBXML_CATALOG_FILES\fR
+environment variable to a list of catalogs\&. An empty one should deactivate loading the default
+/etc/xml/catalog
+catalog\&.
+.RE
+.SH "DIAGNOSTICS"
+.PP
+\fBxsltproc\fR
+return codes provide information that can be used when calling it from scripts\&.
+.PP
+\fB0\fR
+.RS 4
+No error (normal operation)
+.RE
+.PP
+\fB1\fR
+.RS 4
+No argument
+.RE
+.PP
+\fB2\fR
+.RS 4
+Too many parameters
+.RE
+.PP
+\fB3\fR
+.RS 4
+Unknown option
+.RE
+.PP
+\fB4\fR
+.RS 4
+Failed to parse the stylesheet
+.RE
+.PP
+\fB5\fR
+.RS 4
+Error in the stylesheet
+.RE
+.PP
+\fB6\fR
+.RS 4
+Error in one of the documents
+.RE
+.PP
+\fB7\fR
+.RS 4
+Unsupported xsl:output method
+.RE
+.PP
+\fB8\fR
+.RS 4
+String parameter contains both quote and double\-quotes
+.RE
+.PP
+\fB9\fR
+.RS 4
+Internal processing error
+.RE
+.PP
+\fB10\fR
+.RS 4
+Processing was stopped by a terminating message
+.RE
+.PP
+\fB11\fR
+.RS 4
+Could not write the result to the output file
+.RE
+.SH "SEE ALSO"
+.PP
+\fBlibxml\fR(3),
+\fBlibxslt\fR(3)
+.PP
+More information can be found at
+.sp
+.RS 4
+.ie n \{\
+\h'-04'\(bu\h'+03'\c
+.\}
+.el \{\
+.sp -1
+.IP \(bu 2.3
+.\}
+\fBlibxml\fR(3)
+web page
+\m[blue]\fB\%https://gitlab.gnome.org/GNOME/libxslt\fR\m[]
+.RE
+.sp
+.RS 4
+.ie n \{\
+\h'-04'\(bu\h'+03'\c
+.\}
+.el \{\
+.sp -1
+.IP \(bu 2.3
+.\}
+W3C
+XSLT
+page
+\m[blue]\fB\%http://www.w3.org/TR/xslt\fR\m[]
+.RE
+.sp
+.SH "AUTHOR"
+.PP
+\fBJohn Fleck\fR <\&jfleck@inkstain\&.net\&>
+.RS 4
+Author.
+.RE
+.SH "COPYRIGHT"
+.br
+Copyright \(co 2001, 2002
+.br

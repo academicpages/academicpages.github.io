@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" /><style type="text/css">
+TD {font-family: Verdana,Arial,Helvetica}
+BODY {font-family: Verdana,Arial,Helvetica; margin-top: 2em; margin-left: 0em; margin-right: 0em}
+H1 {font-family: Verdana,Arial,Helvetica}
+H2 {font-family: Verdana,Arial,Helvetica}
+H3 {font-family: Verdana,Arial,Helvetica}
+A:link, A:visited, A:active { text-decoration: underline }
+    </style><title>Module xsltInternals from libxslt</title></head><body bgcolor="#8b7765" text="#000000" link="#a06060" vlink="#000000"><table border="0" width="100%" cellpadding="5" cellspacing="0" align="center"><tr><td width="120"><a href="http://swpat.ffii.org/"><img src="../epatents.png" alt="Action against software patents" /></a></td><td width="180"><a href="http://www.gnome.org/"><img src="../gnome2.png" alt="GNOME2 Logo" /></a><a href="http://www.w3.org/Status"><img src="../w3c.png" alt="W3C logo" /></a><a href="http://www.redhat.com"><img src="../redhat.gif" alt="Red Hat Logo" /></a><div align="left"><a href="http://xmlsoft.org/XSLT/"><img src="../Libxslt-Logo-180x168.gif" alt="Made with Libxslt Logo" /></a></div></td><td><table border="0" width="90%" cellpadding="2" cellspacing="0" align="center" bgcolor="#000000"><tr><td><table width="100%" border="0" cellspacing="1" cellpadding="3" bgcolor="#fffacd"><tr><td align="center"><h1>The XSLT C library for GNOME</h1><h2>Module xsltInternals from libxslt</h2></td></tr></table></td></tr></table></td></tr></table><table border="0" cellpadding="4" cellspacing="0" width="100%" align="center"><tr><td bgcolor="#8b7765"><table border="0" cellspacing="0" cellpadding="2" width="100%"><tr><td valign="top" width="200" bgcolor="#8b7765"><table border="0" cellspacing="0" cellpadding="1" width="100%" bgcolor="#000000"><tr><td><table width="100%" border="0" cellspacing="1" cellpadding="3"><tr><td colspan="1" bgcolor="#eecfa1" align="center"><center><b>API Menu</b></center></td></tr><tr><td bgcolor="#fffacd"><form action="../search.php" enctype="application/x-www-form-urlencoded" method="get"><input name="query" type="text" size="20" value="" /><input name="submit" type="submit" value="Search ..." /></form><ul><li><a style="font-weight:bold" href="../index.html">Main Menu</a></li><li><a style="font-weight:bold" href="../docs.html">Developer Menu</a></li><li><a style="font-weight:bold" href="index.html">API Menu</a></li><li><a href="../ChangeLog.html">ChangeLog</a></li></ul></td></tr></table><table width="100%" border="0" cellspacing="1" cellpadding="3"><tr><td colspan="1" bgcolor="#eecfa1" align="center"><center><b>Related links</b></center></td></tr><tr><td bgcolor="#fffacd"><ul><li><a href="http://mail.gnome.org/archives/xslt/">Mail archive</a></li><li><a href="http://xmlsoft.org/">XML libxml2</a></li><li><a href="ftp://xmlsoft.org/">FTP</a></li><li><a href="http://www.zlatkovic.com/projects/libxml/">Windows binaries</a></li><li><a href="http://garypennington.net/libxml2/">Solaris binaries</a></li><li><a href="http://www.explain.com.au/oss/libxml2xslt.html">MacOsX binaries</a></li><li><a href="https://gitlab.gnome.org/GNOME/libxslt/issues">Bug Tracker</a></li><li><a href="http://codespeak.net/lxml/">lxml Python bindings</a></li><li><a href="http://cpan.uwinnipeg.ca/dist/XML-LibXSLT">Perl XSLT bindings</a></li><li><a href="http://www.zend.com/php5/articles/php5-xmlphp.php#Heading17">XSLT with PHP</a></li><li><a href="http://www.mod-xslt2.com/">Apache module</a></li><li><a href="http://sourceforge.net/projects/libxml2-pas/">Pascal bindings</a></li><li><a href="http://xsldbg.sourceforge.net/">Xsldbg Debugger</a></li></ul></td></tr></table><table width="100%" border="0" cellspacing="1" cellpadding="3"><tr><td colspan="1" bgcolor="#eecfa1" align="center"><center><b>API Indexes</b></center></td></tr><tr><td bgcolor="#fffacd"><ul><li><a href="../APIchunk0.html">Alphabetic</a></li><li><a href="../APIconstructors.html">Constructors</a></li><li><a href="../APIfunctions.html">Functions/Types</a></li><li><a href="../APIfiles.html">Modules</a></li><li><a href="../APIsymbols.html">Symbols</a></li></ul></td></tr></table></td></tr></table></td><td valign="top" bgcolor="#8b7765"><table border="0" cellspacing="0" cellpadding="1" width="100%"><tr><td><table border="0" cellspacing="0" cellpadding="1" width="100%" bgcolor="#000000"><tr><td><table border="0" cellpadding="3" cellspacing="1" width="100%"><tr><td bgcolor="#fffacd"><table class="navigation" width="100%" summary="Navigation header" cellpadding="2" cellspacing="2"><tr valign="middle"><td><a accesskey="p" href="libxslt-xslt.html"><img src="left.png" width="24" height="24" border="0" alt="Prev" /></a></td><th align="left"><a href="libxslt-xslt.html">xslt</a></th><td><a accesskey="u" href="index.html"><img src="up.png" width="24" height="24" border="0" alt="Up" /></a></td><th align="left"><a href="index.html">API documentation</a></th><td><a accesskey="h" href="../index.html"><img src="home.png" width="24" height="24" border="0" alt="Home" /></a></td><th align="center"><a href="../index.html">Home</a></th><th align="right"><a href="libxslt-xsltexports.html">xsltexports</a></th><td><a accesskey="n" href="libxslt-xsltexports.html"><img src="right.png" width="24" height="24" border="0" alt="Next" /></a></td></tr></table><p>Internal data structures, constants and functions used by the XSLT engine. They are not part of the API or ABI, i.e. they can change without prior notice, use carefully. </p><h2>Table of Contents</h2><pre class="programlisting">#define <a href="#CHECK_STOPPED">CHECK_STOPPED</a></pre><pre class="programlisting">#define <a href="#CHECK_STOPPED0">CHECK_STOPPED0</a></pre><pre class="programlisting">#define <a href="#CHECK_STOPPEDE">CHECK_STOPPEDE</a></pre><pre class="programlisting">#define <a href="#IS_XSLT_ATTR_FAST">IS_XSLT_ATTR_FAST</a></pre><pre class="programlisting">#define <a href="#IS_XSLT_ELEM_FAST">IS_XSLT_ELEM_FAST</a></pre><pre class="programlisting">#define <a href="#XML_CAST_FPTR">XML_CAST_FPTR</a></pre><pre class="programlisting">#define <a href="#XSLT_CCTXT">XSLT_CCTXT</a></pre><pre class="programlisting">#define <a href="#XSLT_FAST_IF">XSLT_FAST_IF</a></pre><pre class="programlisting">#define <a href="#XSLT_GET_INTERNAL_NSMAP">XSLT_GET_INTERNAL_NSMAP</a></pre><pre class="programlisting">#define <a href="#XSLT_HAS_INTERNAL_NSMAP">XSLT_HAS_INTERNAL_NSMAP</a></pre><pre class="programlisting">#define <a href="#XSLT_IS_RES_TREE_FRAG">XSLT_IS_RES_TREE_FRAG</a></pre><pre class="programlisting">#define <a href="#XSLT_IS_TEXT_NODE">XSLT_IS_TEXT_NODE</a></pre><pre class="programlisting">#define <a href="#XSLT_ITEM_COMMON_FIELDS">XSLT_ITEM_COMMON_FIELDS</a></pre><pre class="programlisting">#define <a href="#XSLT_ITEM_COMPATIBILITY_FIELDS">XSLT_ITEM_COMPATIBILITY_FIELDS</a></pre><pre class="programlisting">#define <a href="#XSLT_ITEM_NAVIGATION_FIELDS">XSLT_ITEM_NAVIGATION_FIELDS</a></pre><pre class="programlisting">#define <a href="#XSLT_ITEM_NSINSCOPE_FIELDS">XSLT_ITEM_NSINSCOPE_FIELDS</a></pre><pre class="programlisting">#define <a href="#XSLT_MARK_RES_TREE_FRAG">XSLT_MARK_RES_TREE_FRAG</a></pre><pre class="programlisting">#define <a href="#XSLT_MAX_SORT">XSLT_MAX_SORT</a></pre><pre class="programlisting">#define <a href="#XSLT_PAT_NO_PRIORITY">XSLT_PAT_NO_PRIORITY</a></pre><pre class="programlisting">#define <a href="#XSLT_REFACTORED_KEYCOMP">XSLT_REFACTORED_KEYCOMP</a></pre><pre class="programlisting">#define <a href="#XSLT_REFACTORED_VARS">XSLT_REFACTORED_VARS</a></pre><pre class="programlisting">#define <a href="#XSLT_RUNTIME_EXTRA">XSLT_RUNTIME_EXTRA</a></pre><pre class="programlisting">#define <a href="#XSLT_RUNTIME_EXTRA_FREE">XSLT_RUNTIME_EXTRA_FREE</a></pre><pre class="programlisting">#define <a href="#XSLT_RUNTIME_EXTRA_LST">XSLT_RUNTIME_EXTRA_LST</a></pre><pre class="programlisting">Structure <a href="#xsltCompilerCtxt">xsltCompilerCtxt</a><br />struct _xsltCompilerCtxt
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltCompilerCtxt">xsltCompilerCtxt</a> * <a name="xsltCompilerCtxtPtr" id="xsltCompilerCtxtPtr">xsltCompilerCtxtPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltCompilerNodeInfo">xsltCompilerNodeInfo</a><br />struct _xsltCompilerNodeInfo
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltCompilerNodeInfo">xsltCompilerNodeInfo</a> * <a name="xsltCompilerNodeInfoPtr" id="xsltCompilerNodeInfoPtr">xsltCompilerNodeInfoPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltDecimalFormat">xsltDecimalFormat</a><br />struct _xsltDecimalFormat
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltDecimalFormat">xsltDecimalFormat</a> * <a name="xsltDecimalFormatPtr" id="xsltDecimalFormatPtr">xsltDecimalFormatPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltDocument">xsltDocument</a><br />struct _xsltDocument
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltDocument">xsltDocument</a> * <a name="xsltDocumentPtr" id="xsltDocumentPtr">xsltDocumentPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltEffectiveNs">xsltEffectiveNs</a><br />struct _xsltEffectiveNs
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltEffectiveNs">xsltEffectiveNs</a> * <a name="xsltEffectiveNsPtr" id="xsltEffectiveNsPtr">xsltEffectiveNsPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltElemPreComp">xsltElemPreComp</a><br />struct _xsltElemPreComp
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltElemPreComp">xsltElemPreComp</a> * <a name="xsltElemPreCompPtr" id="xsltElemPreCompPtr">xsltElemPreCompPtr</a>
+</pre><pre class="programlisting">Enum <a href="#xsltErrorSeverityType">xsltErrorSeverityType</a>
+</pre><pre class="programlisting">Structure <a href="#xsltKeyDef">xsltKeyDef</a><br />struct _xsltKeyDef
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltKeyDef">xsltKeyDef</a> * <a name="xsltKeyDefPtr" id="xsltKeyDefPtr">xsltKeyDefPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltKeyTable">xsltKeyTable</a><br />struct _xsltKeyTable
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltKeyTable">xsltKeyTable</a> * <a name="xsltKeyTablePtr" id="xsltKeyTablePtr">xsltKeyTablePtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltNsAlias">xsltNsAlias</a><br />struct _xsltNsAlias
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltNsAlias">xsltNsAlias</a> * <a name="xsltNsAliasPtr" id="xsltNsAliasPtr">xsltNsAliasPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltNsList">xsltNsList</a><br />struct _xsltNsList
+</pre><pre class="programlisting">Structure <a href="#xsltNsListContainer">xsltNsListContainer</a><br />struct _xsltNsListContainer
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltNsListContainer">xsltNsListContainer</a> * <a name="xsltNsListContainerPtr" id="xsltNsListContainerPtr">xsltNsListContainerPtr</a>
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltNsList">xsltNsList</a> * <a name="xsltNsListPtr" id="xsltNsListPtr">xsltNsListPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltNsMap">xsltNsMap</a><br />struct _xsltNsMap
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltNsMap">xsltNsMap</a> * <a name="xsltNsMapPtr" id="xsltNsMapPtr">xsltNsMapPtr</a>
+</pre><pre class="programlisting">Enum <a href="#xsltOutputType">xsltOutputType</a>
+</pre><pre class="programlisting">Structure <a href="#xsltPointerList">xsltPointerList</a><br />struct _xsltPointerList
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltPointerList">xsltPointerList</a> * <a name="xsltPointerListPtr" id="xsltPointerListPtr">xsltPointerListPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltPrincipalStylesheetData">xsltPrincipalStylesheetData</a><br />struct _xsltPrincipalStylesheetData
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltPrincipalStylesheetData">xsltPrincipalStylesheetData</a> * <a name="xsltPrincipalStylesheetDataPtr" id="xsltPrincipalStylesheetDataPtr">xsltPrincipalStylesheetDataPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltRuntimeExtra">xsltRuntimeExtra</a><br />struct _xsltRuntimeExtra
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltRuntimeExtra">xsltRuntimeExtra</a> * <a name="xsltRuntimeExtraPtr" id="xsltRuntimeExtraPtr">xsltRuntimeExtraPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStackElem">xsltStackElem</a><br />struct _xsltStackElem
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStackElem">xsltStackElem</a> * <a name="xsltStackElemPtr" id="xsltStackElemPtr">xsltStackElemPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleBasicEmptyItem">xsltStyleBasicEmptyItem</a><br />struct _xsltStyleBasicEmptyItem
+The content of this structure is not made public by the API.
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleBasicEmptyItem">xsltStyleBasicEmptyItem</a> * <a name="xsltStyleBasicEmptyItemPtr" id="xsltStyleBasicEmptyItemPtr">xsltStyleBasicEmptyItemPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleBasicExpressionItem">xsltStyleBasicExpressionItem</a><br />struct _xsltStyleBasicExpressionItem
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleBasicExpressionItem">xsltStyleBasicExpressionItem</a> * <a name="xsltStyleBasicExpressionItemPtr" id="xsltStyleBasicExpressionItemPtr">xsltStyleBasicExpressionItemPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleBasicItemVariable">xsltStyleBasicItemVariable</a><br />struct _xsltStyleBasicItemVariable
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleBasicItemVariable">xsltStyleBasicItemVariable</a> * <a name="xsltStyleBasicItemVariablePtr" id="xsltStyleBasicItemVariablePtr">xsltStyleBasicItemVariablePtr</a>
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleBasicEmptyItem">xsltStyleBasicEmptyItem</a> <a name="xsltStyleItemApplyImports" id="xsltStyleItemApplyImports">xsltStyleItemApplyImports</a>
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemApplyImports">xsltStyleItemApplyImports</a> * <a name="xsltStyleItemApplyImportsPtr" id="xsltStyleItemApplyImportsPtr">xsltStyleItemApplyImportsPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleItemApplyTemplates">xsltStyleItemApplyTemplates</a><br />struct _xsltStyleItemApplyTemplates
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemApplyTemplates">xsltStyleItemApplyTemplates</a> * <a name="xsltStyleItemApplyTemplatesPtr" id="xsltStyleItemApplyTemplatesPtr">xsltStyleItemApplyTemplatesPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleItemAttribute">xsltStyleItemAttribute</a><br />struct _xsltStyleItemAttribute
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemAttribute">xsltStyleItemAttribute</a> * <a name="xsltStyleItemAttributePtr" id="xsltStyleItemAttributePtr">xsltStyleItemAttributePtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleItemCallTemplate">xsltStyleItemCallTemplate</a><br />struct _xsltStyleItemCallTemplate
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemCallTemplate">xsltStyleItemCallTemplate</a> * <a name="xsltStyleItemCallTemplatePtr" id="xsltStyleItemCallTemplatePtr">xsltStyleItemCallTemplatePtr</a>
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleBasicEmptyItem">xsltStyleBasicEmptyItem</a> <a name="xsltStyleItemChoose" id="xsltStyleItemChoose">xsltStyleItemChoose</a>
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemChoose">xsltStyleItemChoose</a> * <a name="xsltStyleItemChoosePtr" id="xsltStyleItemChoosePtr">xsltStyleItemChoosePtr</a>
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleBasicEmptyItem">xsltStyleBasicEmptyItem</a> <a name="xsltStyleItemComment" id="xsltStyleItemComment">xsltStyleItemComment</a>
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemComment">xsltStyleItemComment</a> * <a name="xsltStyleItemCommentPtr" id="xsltStyleItemCommentPtr">xsltStyleItemCommentPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleItemCopy">xsltStyleItemCopy</a><br />struct _xsltStyleItemCopy
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleBasicExpressionItem">xsltStyleBasicExpressionItem</a> <a name="xsltStyleItemCopyOf" id="xsltStyleItemCopyOf">xsltStyleItemCopyOf</a>
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemCopyOf">xsltStyleItemCopyOf</a> * <a name="xsltStyleItemCopyOfPtr" id="xsltStyleItemCopyOfPtr">xsltStyleItemCopyOfPtr</a>
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemCopy">xsltStyleItemCopy</a> * <a name="xsltStyleItemCopyPtr" id="xsltStyleItemCopyPtr">xsltStyleItemCopyPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleItemDocument">xsltStyleItemDocument</a><br />struct _xsltStyleItemDocument
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemDocument">xsltStyleItemDocument</a> * <a name="xsltStyleItemDocumentPtr" id="xsltStyleItemDocumentPtr">xsltStyleItemDocumentPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleItemElement">xsltStyleItemElement</a><br />struct _xsltStyleItemElement
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemElement">xsltStyleItemElement</a> * <a name="xsltStyleItemElementPtr" id="xsltStyleItemElementPtr">xsltStyleItemElementPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleItemExtElement">xsltStyleItemExtElement</a><br />struct _xsltStyleItemExtElement
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemExtElement">xsltStyleItemExtElement</a> * <a name="xsltStyleItemExtElementPtr" id="xsltStyleItemExtElementPtr">xsltStyleItemExtElementPtr</a>
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleBasicEmptyItem">xsltStyleBasicEmptyItem</a> <a name="xsltStyleItemFallback" id="xsltStyleItemFallback">xsltStyleItemFallback</a>
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemFallback">xsltStyleItemFallback</a> * <a name="xsltStyleItemFallbackPtr" id="xsltStyleItemFallbackPtr">xsltStyleItemFallbackPtr</a>
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleBasicExpressionItem">xsltStyleBasicExpressionItem</a> <a name="xsltStyleItemForEach" id="xsltStyleItemForEach">xsltStyleItemForEach</a>
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemForEach">xsltStyleItemForEach</a> * <a name="xsltStyleItemForEachPtr" id="xsltStyleItemForEachPtr">xsltStyleItemForEachPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleItemIf">xsltStyleItemIf</a><br />struct _xsltStyleItemIf
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemIf">xsltStyleItemIf</a> * <a name="xsltStyleItemIfPtr" id="xsltStyleItemIfPtr">xsltStyleItemIfPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleItemInclude">xsltStyleItemInclude</a><br />struct _xsltStyleItemInclude
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemInclude">xsltStyleItemInclude</a> * <a name="xsltStyleItemIncludePtr" id="xsltStyleItemIncludePtr">xsltStyleItemIncludePtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleItemLRElementInfo">xsltStyleItemLRElementInfo</a><br />struct _xsltStyleItemLRElementInfo
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemLRElementInfo">xsltStyleItemLRElementInfo</a> * <a name="xsltStyleItemLRElementInfoPtr" id="xsltStyleItemLRElementInfoPtr">xsltStyleItemLRElementInfoPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleItemMessage">xsltStyleItemMessage</a><br />struct _xsltStyleItemMessage
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemMessage">xsltStyleItemMessage</a> * <a name="xsltStyleItemMessagePtr" id="xsltStyleItemMessagePtr">xsltStyleItemMessagePtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleItemNumber">xsltStyleItemNumber</a><br />struct _xsltStyleItemNumber
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemNumber">xsltStyleItemNumber</a> * <a name="xsltStyleItemNumberPtr" id="xsltStyleItemNumberPtr">xsltStyleItemNumberPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleItemOtherwise">xsltStyleItemOtherwise</a><br />struct _xsltStyleItemOtherwise
+The content of this structure is not made public by the API.
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemOtherwise">xsltStyleItemOtherwise</a> * <a name="xsltStyleItemOtherwisePtr" id="xsltStyleItemOtherwisePtr">xsltStyleItemOtherwisePtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleItemPI">xsltStyleItemPI</a><br />struct _xsltStyleItemPI
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemPI">xsltStyleItemPI</a> * <a name="xsltStyleItemPIPtr" id="xsltStyleItemPIPtr">xsltStyleItemPIPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleItemParam">xsltStyleItemParam</a><br />struct _xsltStyleItemParam
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemParam">xsltStyleItemParam</a> * <a name="xsltStyleItemParamPtr" id="xsltStyleItemParamPtr">xsltStyleItemParamPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleItemSort">xsltStyleItemSort</a><br />struct _xsltStyleItemSort
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemSort">xsltStyleItemSort</a> * <a name="xsltStyleItemSortPtr" id="xsltStyleItemSortPtr">xsltStyleItemSortPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleItemText">xsltStyleItemText</a><br />struct _xsltStyleItemText
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemText">xsltStyleItemText</a> * <a name="xsltStyleItemTextPtr" id="xsltStyleItemTextPtr">xsltStyleItemTextPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleItemUknown">xsltStyleItemUknown</a><br />struct _xsltStyleItemUknown
+The content of this structure is not made public by the API.
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemUknown">xsltStyleItemUknown</a> * <a name="xsltStyleItemUknownPtr" id="xsltStyleItemUknownPtr">xsltStyleItemUknownPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleItemValueOf">xsltStyleItemValueOf</a><br />struct _xsltStyleItemValueOf
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemValueOf">xsltStyleItemValueOf</a> * <a name="xsltStyleItemValueOfPtr" id="xsltStyleItemValueOfPtr">xsltStyleItemValueOfPtr</a>
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleBasicItemVariable">xsltStyleBasicItemVariable</a> <a name="xsltStyleItemVariable" id="xsltStyleItemVariable">xsltStyleItemVariable</a>
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemVariable">xsltStyleItemVariable</a> * <a name="xsltStyleItemVariablePtr" id="xsltStyleItemVariablePtr">xsltStyleItemVariablePtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStyleItemWhen">xsltStyleItemWhen</a><br />struct _xsltStyleItemWhen
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemWhen">xsltStyleItemWhen</a> * <a name="xsltStyleItemWhenPtr" id="xsltStyleItemWhenPtr">xsltStyleItemWhenPtr</a>
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleBasicItemVariable">xsltStyleBasicItemVariable</a> <a name="xsltStyleItemWithParam" id="xsltStyleItemWithParam">xsltStyleItemWithParam</a>
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStyleItemWithParam">xsltStyleItemWithParam</a> * <a name="xsltStyleItemWithParamPtr" id="xsltStyleItemWithParamPtr">xsltStyleItemWithParamPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStylePreComp">xsltStylePreComp</a><br />struct _xsltStylePreComp
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStylePreComp">xsltStylePreComp</a> * <a name="xsltStylePreCompPtr" id="xsltStylePreCompPtr">xsltStylePreCompPtr</a>
+</pre><pre class="programlisting">Enum <a href="#xsltStyleType">xsltStyleType</a>
+</pre><pre class="programlisting">Structure <a href="#xsltStylesheet">xsltStylesheet</a><br />struct _xsltStylesheet
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltStylesheet">xsltStylesheet</a> * <a name="xsltStylesheetPtr" id="xsltStylesheetPtr">xsltStylesheetPtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltTemplate">xsltTemplate</a><br />struct _xsltTemplate
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltTemplate">xsltTemplate</a> * <a name="xsltTemplatePtr" id="xsltTemplatePtr">xsltTemplatePtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltTransformCache">xsltTransformCache</a><br />struct _xsltTransformCache
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltTransformCache">xsltTransformCache</a> * <a name="xsltTransformCachePtr" id="xsltTransformCachePtr">xsltTransformCachePtr</a>
+</pre><pre class="programlisting">Structure <a href="#xsltTransformContext">xsltTransformContext</a><br />struct _xsltTransformContext
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltTransformContext">xsltTransformContext</a> * <a name="xsltTransformContextPtr" id="xsltTransformContextPtr">xsltTransformContextPtr</a>
+</pre><pre class="programlisting">Enum <a href="#xsltTransformState">xsltTransformState</a>
+</pre><pre class="programlisting">Structure <a href="#xsltVarInfo">xsltVarInfo</a><br />struct _xsltVarInfo
+</pre><pre class="programlisting">Typedef <a href="libxslt-xsltInternals.html#xsltVarInfo">xsltVarInfo</a> * <a name="xsltVarInfoPtr" id="xsltVarInfoPtr">xsltVarInfoPtr</a>
+</pre><pre class="programlisting">int	<a href="#xsltAllocateExtra">xsltAllocateExtra</a>		(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style)</pre>
+<pre class="programlisting">int	<a href="#xsltAllocateExtraCtxt">xsltAllocateExtraCtxt</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt)</pre>
+<pre class="programlisting">void	<a href="#xsltCompileAttr">xsltCompileAttr</a>			(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br />					 xmlAttrPtr attr)</pre>
+<pre class="programlisting">xmlDocPtr	<a href="#xsltCreateRVT">xsltCreateRVT</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt)</pre>
+<pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltDecimalFormatPtr">xsltDecimalFormatPtr</a>	<a href="#xsltDecimalFormatGetByName">xsltDecimalFormatGetByName</a>	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br />							 xmlChar * name)</pre>
+<pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltDecimalFormatPtr">xsltDecimalFormatPtr</a>	<a href="#xsltDecimalFormatGetByQName">xsltDecimalFormatGetByQName</a>	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br />							 const xmlChar * nsUri, <br />							 const xmlChar * name)</pre>
+<pre class="programlisting">Function type: <a href="#xsltElemPreCompDeallocator">xsltElemPreCompDeallocator</a>
+void	<a href="#xsltElemPreCompDeallocator">xsltElemPreCompDeallocator</a>	(<a href="libxslt-xsltInternals.html#xsltElemPreCompPtr">xsltElemPreCompPtr</a> comp)
+</pre>
+<pre class="programlisting">xmlChar *	<a href="#xsltEvalAVT">xsltEvalAVT</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br />					 void * avt, <br />					 xmlNodePtr node)</pre>
+<pre class="programlisting">int	<a href="#xsltExtensionInstructionResultFinalize">xsltExtensionInstructionResultFinalize</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt)</pre>
+<pre class="programlisting">int	<a href="#xsltExtensionInstructionResultRegister">xsltExtensionInstructionResultRegister</a>	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br />						 xmlXPathObjectPtr obj)</pre>
+<pre class="programlisting">int	<a href="#xsltFlagRVTs">xsltFlagRVTs</a>			(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br />					 xmlXPathObjectPtr obj, <br />					 void * val)</pre>
+<pre class="programlisting">xmlXPathError	<a href="#xsltFormatNumberConversion">xsltFormatNumberConversion</a>	(<a href="libxslt-xsltInternals.html#xsltDecimalFormatPtr">xsltDecimalFormatPtr</a> self, <br />						 xmlChar * format, <br />						 double number, <br />						 xmlChar ** result)</pre>
+<pre class="programlisting">void	<a href="#xsltFreeAVTList">xsltFreeAVTList</a>			(void * avt)</pre>
+<pre class="programlisting">void	<a href="#xsltFreeRVTs">xsltFreeRVTs</a>			(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt)</pre>
+<pre class="programlisting">void	<a href="#xsltFreeStackElemList">xsltFreeStackElemList</a>		(<a href="libxslt-xsltInternals.html#xsltStackElemPtr">xsltStackElemPtr</a> elem)</pre>
+<pre class="programlisting">void	<a href="#xsltFreeStylesheet">xsltFreeStylesheet</a>		(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style)</pre>
+<pre class="programlisting">int	<a href="#xsltInitAllDocKeys">xsltInitAllDocKeys</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt)</pre>
+<pre class="programlisting">int	<a href="#xsltInitCtxtKey">xsltInitCtxtKey</a>			(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br />					 <a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a> idoc, <br />					 <a href="libxslt-xsltInternals.html#xsltKeyDefPtr">xsltKeyDefPtr</a> keyDef)</pre>
+<pre class="programlisting">int	<a href="#xsltIsBlank">xsltIsBlank</a>			(xmlChar * str)</pre>
+<pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a>	<a href="#xsltLoadStylesheetPI">xsltLoadStylesheetPI</a>	(xmlDocPtr doc)</pre>
+<pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a>	<a href="#xsltNewStylesheet">xsltNewStylesheet</a>	(void)</pre>
+<pre class="programlisting">void	<a href="#xsltNumberFormat">xsltNumberFormat</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br />					 <a href="libxslt-numbersInternals.html#xsltNumberDataPtr">xsltNumberDataPtr</a> data, <br />					 xmlNodePtr node)</pre>
+<pre class="programlisting">int	<a href="#xsltParseAnyXSLTElem">xsltParseAnyXSLTElem</a>		(<a href="libxslt-xsltInternals.html#xsltCompilerCtxtPtr">xsltCompilerCtxtPtr</a> cctxt, <br />					 xmlNodePtr elem)</pre>
+<pre class="programlisting">void	<a href="#xsltParseSequenceConstructor">xsltParseSequenceConstructor</a>	(<a href="libxslt-xsltInternals.html#xsltCompilerCtxtPtr">xsltCompilerCtxtPtr</a> cctxt, <br />					 xmlNodePtr cur)</pre>
+<pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a>	<a href="#xsltParseStylesheetDoc">xsltParseStylesheetDoc</a>	(xmlDocPtr doc)</pre>
+<pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a>	<a href="#xsltParseStylesheetFile">xsltParseStylesheetFile</a>	(const xmlChar * filename)</pre>
+<pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a>	<a href="#xsltParseStylesheetImportedDoc">xsltParseStylesheetImportedDoc</a>	(xmlDocPtr doc, <br />							 <a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> parentStyle)</pre>
+<pre class="programlisting">void	<a href="#xsltParseStylesheetOutput">xsltParseStylesheetOutput</a>	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br />					 xmlNodePtr cur)</pre>
+<pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a>	<a href="#xsltParseStylesheetProcess">xsltParseStylesheetProcess</a>	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> ret, <br />							 xmlDocPtr doc)</pre>
+<pre class="programlisting">int	<a href="#xsltParseStylesheetUser">xsltParseStylesheetUser</a>		(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br />					 xmlDocPtr doc)</pre>
+<pre class="programlisting">void	<a href="#xsltParseTemplateContent">xsltParseTemplateContent</a>	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br />					 xmlNodePtr templ)</pre>
+<pre class="programlisting">int	<a href="#xsltPointerListAddSize">xsltPointerListAddSize</a>		(<a href="libxslt-xsltInternals.html#xsltPointerListPtr">xsltPointerListPtr</a> list, <br />					 void * item, <br />					 int initialSize)</pre>
+<pre class="programlisting">void	<a href="#xsltPointerListClear">xsltPointerListClear</a>		(<a href="libxslt-xsltInternals.html#xsltPointerListPtr">xsltPointerListPtr</a> list)</pre>
+<pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltPointerListPtr">xsltPointerListPtr</a>	<a href="#xsltPointerListCreate">xsltPointerListCreate</a>	(int initialSize)</pre>
+<pre class="programlisting">void	<a href="#xsltPointerListFree">xsltPointerListFree</a>		(<a href="libxslt-xsltInternals.html#xsltPointerListPtr">xsltPointerListPtr</a> list)</pre>
+<pre class="programlisting">int	<a href="#xsltRegisterLocalRVT">xsltRegisterLocalRVT</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br />					 xmlDocPtr RVT)</pre>
+<pre class="programlisting">int	<a href="#xsltRegisterPersistRVT">xsltRegisterPersistRVT</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br />					 xmlDocPtr RVT)</pre>
+<pre class="programlisting">int	<a href="#xsltRegisterTmpRVT">xsltRegisterTmpRVT</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br />					 xmlDocPtr RVT)</pre>
+<pre class="programlisting">void	<a href="#xsltReleaseRVT">xsltReleaseRVT</a>			(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br />					 xmlDocPtr RVT)</pre>
+<pre class="programlisting">int	<a href="#xsltRestoreDocumentNamespaces">xsltRestoreDocumentNamespaces</a>	(<a href="libxslt-xsltInternals.html#xsltNsMapPtr">xsltNsMapPtr</a> ns, <br />					 xmlDocPtr doc)</pre>
+<pre class="programlisting">Function type: <a href="#xsltSortFunc">xsltSortFunc</a>
+void	<a href="#xsltSortFunc">xsltSortFunc</a>			(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br />					 xmlNodePtr * sorts, <br />					 int nbsorts)
+</pre>
+<pre class="programlisting">Function type: <a href="#xsltTransformFunction">xsltTransformFunction</a>
+void	<a href="#xsltTransformFunction">xsltTransformFunction</a>		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br />					 xmlNodePtr node, <br />					 xmlNodePtr inst, <br />					 <a href="libxslt-xsltInternals.html#xsltElemPreCompPtr">xsltElemPreCompPtr</a> comp)
+</pre>
+<pre class="programlisting">void	<a href="#xsltUninit">xsltUninit</a>			(void)</pre>
+<h2>Description</h2>
+<h3><a name="CHECK_STOPPED" id="CHECK_STOPPED"></a>Macro: CHECK_STOPPED</h3><pre>#define CHECK_STOPPED</pre><p>Macro to check if the XSLT processing should be stopped. Will return from the function.</p>
+<h3><a name="CHECK_STOPPED0" id="CHECK_STOPPED0"></a>Macro: CHECK_STOPPED0</h3><pre>#define CHECK_STOPPED0</pre><p>Macro to check if the XSLT processing should be stopped. Will return from the function with a 0 value.</p>
+<h3><a name="CHECK_STOPPEDE" id="CHECK_STOPPEDE"></a>Macro: CHECK_STOPPEDE</h3><pre>#define CHECK_STOPPEDE</pre><p>Macro to check if the XSLT processing should be stopped. Will goto the error: label.</p>
+<h3><a name="IS_XSLT_ATTR_FAST" id="IS_XSLT_ATTR_FAST"></a>Macro: IS_XSLT_ATTR_FAST</h3><pre>#define IS_XSLT_ATTR_FAST</pre><p>quick check for xslt namespace attribute</p>
+<h3><a name="IS_XSLT_ELEM_FAST" id="IS_XSLT_ELEM_FAST"></a>Macro: IS_XSLT_ELEM_FAST</h3><pre>#define IS_XSLT_ELEM_FAST</pre><p>quick check whether this is an xslt element</p>
+<h3><a name="XML_CAST_FPTR" id="XML_CAST_FPTR"></a>Macro: XML_CAST_FPTR</h3><pre>#define XML_CAST_FPTR</pre><p>Macro to do a casting from an object pointer to a function pointer without encountering a warning from gcc #define XML_CAST_FPTR(fptr) (*(void **)(&amp;fptr)) This macro violated ISO C aliasing rules (gcc4 on s390 broke) so it is disabled now</p>
+<h3><a name="XSLT_CCTXT" id="XSLT_CCTXT"></a>Macro: XSLT_CCTXT</h3><pre>#define XSLT_CCTXT</pre><p>get pointer to compiler context</p>
+<h3><a name="XSLT_FAST_IF" id="XSLT_FAST_IF"></a>Macro: XSLT_FAST_IF</h3><pre>#define XSLT_FAST_IF</pre><p>Internal define to enable usage of xmlXPathCompiledEvalToBoolean() for XSLT "tests"; e.g. in &lt;xsl:if test="/foo/bar"&gt;</p>
+<h3><a name="XSLT_GET_INTERNAL_NSMAP" id="XSLT_GET_INTERNAL_NSMAP"></a>Macro: XSLT_GET_INTERNAL_NSMAP</h3><pre>#define XSLT_GET_INTERNAL_NSMAP</pre><p>get pointer to namespace map</p>
+<h3><a name="XSLT_HAS_INTERNAL_NSMAP" id="XSLT_HAS_INTERNAL_NSMAP"></a>Macro: XSLT_HAS_INTERNAL_NSMAP</h3><pre>#define XSLT_HAS_INTERNAL_NSMAP</pre><p>check for namespace mapping</p>
+<h3><a name="XSLT_IS_RES_TREE_FRAG" id="XSLT_IS_RES_TREE_FRAG"></a>Macro: XSLT_IS_RES_TREE_FRAG</h3><pre>#define XSLT_IS_RES_TREE_FRAG</pre><p>internal macro to test tree fragments</p>
+<h3><a name="XSLT_IS_TEXT_NODE" id="XSLT_IS_TEXT_NODE"></a>Macro: XSLT_IS_TEXT_NODE</h3><pre>#define XSLT_IS_TEXT_NODE</pre><p>check if the argument is a text node</p>
+<h3><a name="XSLT_ITEM_COMMON_FIELDS" id="XSLT_ITEM_COMMON_FIELDS"></a>Macro: XSLT_ITEM_COMMON_FIELDS</h3><pre>#define XSLT_ITEM_COMMON_FIELDS</pre><p>Common fields used for all items.</p>
+<h3><a name="XSLT_ITEM_COMPATIBILITY_FIELDS" id="XSLT_ITEM_COMPATIBILITY_FIELDS"></a>Macro: XSLT_ITEM_COMPATIBILITY_FIELDS</h3><pre>#define XSLT_ITEM_COMPATIBILITY_FIELDS</pre><p>Fields for API compatibility to the structure _xsltElemPreComp which is used for extension functions. Note that @next is used for storage; it does not reflect a next sibling in the tree. TODO: Evaluate if we really need such a compatibility.</p>
+<h3><a name="XSLT_ITEM_NAVIGATION_FIELDS" id="XSLT_ITEM_NAVIGATION_FIELDS"></a>Macro: XSLT_ITEM_NAVIGATION_FIELDS</h3><pre>#define XSLT_ITEM_NAVIGATION_FIELDS</pre><p>Currently empty. TODO: It is intended to hold navigational fields in the future.</p>
+<h3><a name="XSLT_ITEM_NSINSCOPE_FIELDS" id="XSLT_ITEM_NSINSCOPE_FIELDS"></a>Macro: XSLT_ITEM_NSINSCOPE_FIELDS</h3><pre>#define XSLT_ITEM_NSINSCOPE_FIELDS</pre><p>The in-scope namespaces.</p>
+<h3><a name="XSLT_MARK_RES_TREE_FRAG" id="XSLT_MARK_RES_TREE_FRAG"></a>Macro: XSLT_MARK_RES_TREE_FRAG</h3><pre>#define XSLT_MARK_RES_TREE_FRAG</pre><p>internal macro to set up tree fragments</p>
+<h3><a name="XSLT_MAX_SORT" id="XSLT_MAX_SORT"></a>Macro: XSLT_MAX_SORT</h3><pre>#define XSLT_MAX_SORT</pre><p>Max number of specified xsl:sort on an element.</p>
+<h3><a name="XSLT_PAT_NO_PRIORITY" id="XSLT_PAT_NO_PRIORITY"></a>Macro: XSLT_PAT_NO_PRIORITY</h3><pre>#define XSLT_PAT_NO_PRIORITY</pre><p>Specific value for pattern without priority expressed.</p>
+<h3><a name="XSLT_REFACTORED_KEYCOMP" id="XSLT_REFACTORED_KEYCOMP"></a>Macro: XSLT_REFACTORED_KEYCOMP</h3><pre>#define XSLT_REFACTORED_KEYCOMP</pre><p>Internal define to enable on-demand xsl:key computation. That's the only mode now but the define is kept for compatibility</p>
+<h3><a name="XSLT_REFACTORED_VARS" id="XSLT_REFACTORED_VARS"></a>Macro: XSLT_REFACTORED_VARS</h3><pre>#define XSLT_REFACTORED_VARS</pre><p>Internal define to enable the refactored variable part of libxslt</p>
+<h3><a name="XSLT_RUNTIME_EXTRA" id="XSLT_RUNTIME_EXTRA"></a>Macro: XSLT_RUNTIME_EXTRA</h3><pre>#define XSLT_RUNTIME_EXTRA</pre><p>Macro used to define extra information stored in the context</p>
+<h3><a name="XSLT_RUNTIME_EXTRA_FREE" id="XSLT_RUNTIME_EXTRA_FREE"></a>Macro: XSLT_RUNTIME_EXTRA_FREE</h3><pre>#define XSLT_RUNTIME_EXTRA_FREE</pre><p>Macro used to free extra information stored in the context</p>
+<h3><a name="XSLT_RUNTIME_EXTRA_LST" id="XSLT_RUNTIME_EXTRA_LST"></a>Macro: XSLT_RUNTIME_EXTRA_LST</h3><pre>#define XSLT_RUNTIME_EXTRA_LST</pre><p>Macro used to access extra information stored in the context</p>
+<h3><a name="xsltCompilerCtxt" id="xsltCompilerCtxt">Structure xsltCompilerCtxt</a></h3><pre class="programlisting">Structure xsltCompilerCtxt<br />struct _xsltCompilerCtxt {
+    void *	errorCtxt	: * used for error/warning reports; e.g. X
+    <a href="libxslt-xsltInternals.html#xsltErrorSeverityType">xsltErrorSeverityType</a>	errSeverity
+    int	warnings	: TODO: number of warnings found at compi
+    int	errors	: TODO: number of errors found at compila
+    xmlDictPtr	dict
+    <a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a>	style
+    int	simplified	: whether this is a simplified stylesheet
+    int	depth	: Current depth of processing
+    <a href="libxslt-xsltInternals.html#xsltCompilerNodeInfoPtr">xsltCompilerNodeInfoPtr</a>	inode
+    <a href="libxslt-xsltInternals.html#xsltCompilerNodeInfoPtr">xsltCompilerNodeInfoPtr</a>	inodeList
+    <a href="libxslt-xsltInternals.html#xsltCompilerNodeInfoPtr">xsltCompilerNodeInfoPtr</a>	inodeLast
+    <a href="libxslt-xsltInternals.html#xsltPointerListPtr">xsltPointerListPtr</a>	tmpList	: * The XSLT version as specified by the s
+    int	isInclude
+    int	hasForwardsCompat	: whether forwards-compatible mode was us
+    int	maxNodeInfos	: TEMP TODO: just for the interest
+    int	maxLREs	: * In order to keep the old behaviour, ap
+    int	strict
+    <a href="libxslt-xsltInternals.html#xsltPrincipalStylesheetDataPtr">xsltPrincipalStylesheetDataPtr</a>	psData
+    <a href="libxslt-xsltInternals.html#xsltStyleItemUknownPtr">xsltStyleItemUknownPtr</a>	unknownItem
+    int	hasNsAliases	: Indicator if there was an xsl:namespace
+    <a href="libxslt-xsltInternals.html#xsltNsAliasPtr">xsltNsAliasPtr</a>	nsAliases
+    <a href="libxslt-xsltInternals.html#xsltVarInfoPtr">xsltVarInfoPtr</a>	ivars	: Storage of local in-scope variables/par
+    <a href="libxslt-xsltInternals.html#xsltVarInfoPtr">xsltVarInfoPtr</a>	ivar	: topmost local variable/param.
+}</pre><h3><a name="xsltCompilerNodeInfo" id="xsltCompilerNodeInfo">Structure xsltCompilerNodeInfo</a></h3><pre class="programlisting">Structure xsltCompilerNodeInfo<br />struct _xsltCompilerNodeInfo {
+    <a href="libxslt-xsltInternals.html#xsltCompilerNodeInfoPtr">xsltCompilerNodeInfoPtr</a>	next
+    <a href="libxslt-xsltInternals.html#xsltCompilerNodeInfoPtr">xsltCompilerNodeInfoPtr</a>	prev
+    xmlNodePtr	node
+    int	depth
+    <a href="libxslt-xsltInternals.html#xsltTemplatePtr">xsltTemplatePtr</a>	templ	: The owning template
+    int	category	: XSLT element, LR-element or extension e
+    <a href="libxslt-xsltInternals.html#xsltStyleType">xsltStyleType</a>	type
+    <a href="libxslt-xsltInternals.html#xsltElemPreCompPtr">xsltElemPreCompPtr</a>	item	: The compiled information The current in
+    <a href="libxslt-xsltInternals.html#xsltNsListContainerPtr">xsltNsListContainerPtr</a>	inScopeNs	: The current excluded result namespaces
+    <a href="libxslt-xsltInternals.html#xsltPointerListPtr">xsltPointerListPtr</a>	exclResultNs	: The current extension instruction names
+    <a href="libxslt-xsltInternals.html#xsltPointerListPtr">xsltPointerListPtr</a>	extElemNs	: The current info for literal result ele
+    <a href="libxslt-xsltInternals.html#xsltStyleItemLRElementInfoPtr">xsltStyleItemLRElementInfoPtr</a>	litResElemInfo	: * Set to 1 if in-scope namespaces change
+    int	nsChanged
+    int	preserveWhitespace
+    int	stripWhitespace
+    int	isRoot	: whether this is the stylesheet's root n
+    int	forwardsCompat	: whether forwards-compatible mode is ena
+    int	extContentHandled	: the type of the current child
+    <a href="libxslt-xsltInternals.html#xsltStyleType">xsltStyleType</a>	curChildType
+}</pre><h3><a name="xsltDecimalFormat" id="xsltDecimalFormat">Structure xsltDecimalFormat</a></h3><pre class="programlisting">Structure xsltDecimalFormat<br />struct _xsltDecimalFormat {
+    struct _xsltDecimalFormat *	next	: chained list
+    xmlChar *	name	: Used for interpretation of pattern
+    xmlChar *	digit
+    xmlChar *	patternSeparator	: May appear in result
+    xmlChar *	minusSign
+    xmlChar *	infinity
+    xmlChar *	noNumber	: Not-a-number Used for interpretation of
+    xmlChar *	decimalPoint
+    xmlChar *	grouping
+    xmlChar *	percent
+    xmlChar *	permille
+    xmlChar *	zeroDigit
+    const xmlChar *	nsUri
+}</pre><h3><a name="xsltDocument" id="xsltDocument">Structure xsltDocument</a></h3><pre class="programlisting">Structure xsltDocument<br />struct _xsltDocument {
+    struct _xsltDocument *	next	: documents are kept in a chained list
+    int	main	: is this the main document
+    xmlDocPtr	doc	: the parsed document
+    void *	keys	: key tables storage
+    struct _xsltDocument *	includes	: subsidiary includes
+    int	preproc	: pre-processing already done
+    int	nbKeysComputed
+}</pre><h3><a name="xsltEffectiveNs" id="xsltEffectiveNs">Structure xsltEffectiveNs</a></h3><pre class="programlisting">Structure xsltEffectiveNs<br />struct _xsltEffectiveNs {
+    <a href="libxslt-xsltInternals.html#xsltEffectiveNsPtr">xsltEffectiveNsPtr</a>	nextInStore	: storage next
+    <a href="libxslt-xsltInternals.html#xsltEffectiveNsPtr">xsltEffectiveNsPtr</a>	next	: next item in the list
+    const xmlChar *	prefix
+    const xmlChar *	nsName	: * Indicates if eclared on the literal re
+    int	holdByElem
+}</pre><h3><a name="xsltElemPreComp" id="xsltElemPreComp">Structure xsltElemPreComp</a></h3><pre class="programlisting">Structure xsltElemPreComp<br />struct _xsltElemPreComp {
+    <a href="libxslt-xsltInternals.html#xsltElemPreCompPtr">xsltElemPreCompPtr</a>	next	: next item in the global chained list he
+    <a href="libxslt-xsltInternals.html#xsltStyleType">xsltStyleType</a>	type	: type of the element
+    <a href="libxslt-xsltInternals.html#xsltTransformFunction">xsltTransformFunction</a>	func	: handling function
+    xmlNodePtr	inst	: the node in the stylesheet's tree corre
+    <a href="libxslt-xsltInternals.html#xsltElemPreCompDeallocator">xsltElemPreCompDeallocator</a>	free	: the deallocator
+}</pre><h3>Enum <a name="xsltErrorSeverityType" id="xsltErrorSeverityType">xsltErrorSeverityType</a></h3><pre class="programlisting">Enum xsltErrorSeverityType {
+    <a name="XSLT_ERROR_SEVERITY_ERROR" id="XSLT_ERROR_SEVERITY_ERROR">XSLT_ERROR_SEVERITY_ERROR</a> = 0
+    <a name="XSLT_ERROR_SEVERITY_WARNING" id="XSLT_ERROR_SEVERITY_WARNING">XSLT_ERROR_SEVERITY_WARNING</a> = 1
+}
+</pre><h3><a name="xsltKeyDef" id="xsltKeyDef">Structure xsltKeyDef</a></h3><pre class="programlisting">Structure xsltKeyDef<br />struct _xsltKeyDef {
+    struct _xsltKeyDef *	next
+    xmlNodePtr	inst
+    xmlChar *	name
+    xmlChar *	nameURI
+    xmlChar *	match
+    xmlChar *	use
+    xmlXPathCompExprPtr	comp
+    xmlXPathCompExprPtr	usecomp
+    xmlNsPtr *	nsList	: the namespaces in scope
+    int	nsNr	: the number of namespaces in scope
+}</pre><h3><a name="xsltKeyTable" id="xsltKeyTable">Structure xsltKeyTable</a></h3><pre class="programlisting">Structure xsltKeyTable<br />struct _xsltKeyTable {
+    struct _xsltKeyTable *	next
+    xmlChar *	name
+    xmlChar *	nameURI
+    xmlHashTablePtr	keys
+}</pre><h3><a name="xsltNsAlias" id="xsltNsAlias">Structure xsltNsAlias</a></h3><pre class="programlisting">Structure xsltNsAlias<br />struct _xsltNsAlias {
+    <a href="libxslt-xsltInternals.html#xsltNsAliasPtr">xsltNsAliasPtr</a>	next	: next in the list
+    xmlNsPtr	literalNs
+    xmlNsPtr	targetNs
+    xmlDocPtr	docOfTargetNs
+}</pre><h3><a name="xsltNsList" id="xsltNsList">Structure xsltNsList</a></h3><pre class="programlisting">Structure xsltNsList<br />struct _xsltNsList {
+    <a href="libxslt-xsltInternals.html#xsltNsListPtr">xsltNsListPtr</a>	next	: next in the list
+    xmlNsPtr	ns
+}</pre><h3><a name="xsltNsListContainer" id="xsltNsListContainer">Structure xsltNsListContainer</a></h3><pre class="programlisting">Structure xsltNsListContainer<br />struct _xsltNsListContainer {
+    xmlNsPtr *	list
+    int	totalNumber
+    int	xpathNumber
+}</pre><h3><a name="xsltNsMap" id="xsltNsMap">Structure xsltNsMap</a></h3><pre class="programlisting">Structure xsltNsMap<br />struct _xsltNsMap {
+    <a href="libxslt-xsltInternals.html#xsltNsMapPtr">xsltNsMapPtr</a>	next	: next in the list
+    xmlDocPtr	doc
+    xmlNodePtr	elem	: the element holding the ns-decl
+    xmlNsPtr	ns	: the xmlNs structure holding the XML nam
+    const xmlChar *	origNsName	: the original XML namespace name
+    const xmlChar *	newNsName	: the mapped XML namespace name
+}</pre><h3>Enum <a name="xsltOutputType" id="xsltOutputType">xsltOutputType</a></h3><pre class="programlisting">Enum xsltOutputType {
+    <a name="XSLT_OUTPUT_XML" id="XSLT_OUTPUT_XML">XSLT_OUTPUT_XML</a> = 0
+    <a name="XSLT_OUTPUT_HTML" id="XSLT_OUTPUT_HTML">XSLT_OUTPUT_HTML</a> = 1
+    <a name="XSLT_OUTPUT_TEXT" id="XSLT_OUTPUT_TEXT">XSLT_OUTPUT_TEXT</a> = 2
+}
+</pre><h3><a name="xsltPointerList" id="xsltPointerList">Structure xsltPointerList</a></h3><pre class="programlisting">Structure xsltPointerList<br />struct _xsltPointerList {
+    void **	items
+    int	number
+    int	size
+}</pre><h3><a name="xsltPrincipalStylesheetData" id="xsltPrincipalStylesheetData">Structure xsltPrincipalStylesheetData</a></h3><pre class="programlisting">Structure xsltPrincipalStylesheetData<br />struct _xsltPrincipalStylesheetData {
+    xmlDictPtr	namespaceDict	: * Global list of in-scope namespaces. *
+    <a href="libxslt-xsltInternals.html#xsltPointerListPtr">xsltPointerListPtr</a>	inScopeNamespaces	: * Global list of information for [xsl:]e
+    <a href="libxslt-xsltInternals.html#xsltPointerListPtr">xsltPointerListPtr</a>	exclResultNamespaces	: * Global list of information for [xsl:]e
+    <a href="libxslt-xsltInternals.html#xsltPointerListPtr">xsltPointerListPtr</a>	extElemNamespaces
+    <a href="libxslt-xsltInternals.html#xsltEffectiveNsPtr">xsltEffectiveNsPtr</a>	effectiveNs	: * Namespace name map to get rid of strin
+    <a href="libxslt-xsltInternals.html#xsltNsMapPtr">xsltNsMapPtr</a>	nsMap
+}</pre><h3><a name="xsltRuntimeExtra" id="xsltRuntimeExtra">Structure xsltRuntimeExtra</a></h3><pre class="programlisting">Structure xsltRuntimeExtra<br />struct _xsltRuntimeExtra {
+    void *	info	: pointer to the extra data
+    xmlFreeFunc	deallocate	: pointer to the deallocation routine
+}</pre><h3><a name="xsltStackElem" id="xsltStackElem">Structure xsltStackElem</a></h3><pre class="programlisting">Structure xsltStackElem<br />struct _xsltStackElem {
+    struct _xsltStackElem *	next	: chained list
+    <a href="libxslt-xsltInternals.html#xsltStylePreCompPtr">xsltStylePreCompPtr</a>	comp	: the compiled form
+    int	computed	: was the evaluation done
+    const xmlChar *	name	: the local part of the name QName
+    const xmlChar *	nameURI	: the URI part of the name QName
+    const xmlChar *	select	: the eval string
+    xmlNodePtr	tree	: the sequence constructor if no eval str
+    xmlXPathObjectPtr	value	: The value if computed
+    xmlDocPtr	fragment	: The Result Tree Fragments (needed for X
+    int	level	: the depth in the tree; -1 if persistent
+    <a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a>	context	: The transformation context; needed to c
+    int	flags
+}</pre><h3><a name="xsltStyleBasicEmptyItem" id="xsltStyleBasicEmptyItem">Structure xsltStyleBasicEmptyItem</a></h3><pre class="programlisting">Structure xsltStyleBasicEmptyItem<br />struct _xsltStyleBasicEmptyItem {
+The content of this structure is not made public by the API.
+}</pre><h3><a name="xsltStyleBasicExpressionItem" id="xsltStyleBasicExpressionItem">Structure xsltStyleBasicExpressionItem</a></h3><pre class="programlisting">Structure xsltStyleBasicExpressionItem<br />struct _xsltStyleBasicExpressionItem {
+    const xmlChar *	select	: TODO: Change this to "expression".
+    xmlXPathCompExprPtr	comp	: TODO: Change this to compExpr.
+}</pre><h3><a name="xsltStyleBasicItemVariable" id="xsltStyleBasicItemVariable">Structure xsltStyleBasicItemVariable</a></h3><pre class="programlisting">Structure xsltStyleBasicItemVariable<br />struct _xsltStyleBasicItemVariable {
+    const xmlChar *	select
+    xmlXPathCompExprPtr	comp
+    const xmlChar *	name
+    int	has_name
+    const xmlChar *	ns
+    int	has_ns
+}</pre><h3><a name="xsltStyleItemApplyTemplates" id="xsltStyleItemApplyTemplates">Structure xsltStyleItemApplyTemplates</a></h3><pre class="programlisting">Structure xsltStyleItemApplyTemplates<br />struct _xsltStyleItemApplyTemplates {
+    const xmlChar *	mode	: apply-templates
+    const xmlChar *	modeURI	: apply-templates
+    const xmlChar *	select	: sort, copy-of, value-of, apply-template
+    xmlXPathCompExprPtr	comp	: a precompiled XPath expression TODO: wi
+}</pre><h3><a name="xsltStyleItemAttribute" id="xsltStyleItemAttribute">Structure xsltStyleItemAttribute</a></h3><pre class="programlisting">Structure xsltStyleItemAttribute<br />struct _xsltStyleItemAttribute {
+    const xmlChar *	name
+    int	has_name
+    const xmlChar *	ns
+    const xmlChar *	nsPrefix
+    int	has_ns
+}</pre><h3><a name="xsltStyleItemCallTemplate" id="xsltStyleItemCallTemplate">Structure xsltStyleItemCallTemplate</a></h3><pre class="programlisting">Structure xsltStyleItemCallTemplate<br />struct _xsltStyleItemCallTemplate {
+    <a href="libxslt-xsltInternals.html#xsltTemplatePtr">xsltTemplatePtr</a>	templ	: call-template
+    const xmlChar *	name	: element, attribute, pi
+    int	has_name	: element, attribute, pi
+    const xmlChar *	ns	: element
+    int	has_ns	: element TODO: with-params
+}</pre><h3><a name="xsltStyleItemCopy" id="xsltStyleItemCopy">Structure xsltStyleItemCopy</a></h3><pre class="programlisting">Structure xsltStyleItemCopy<br />struct _xsltStyleItemCopy {
+    const xmlChar *	use	: copy, element
+    int	has_use	: copy, element
+}</pre><h3><a name="xsltStyleItemDocument" id="xsltStyleItemDocument">Structure xsltStyleItemDocument</a></h3><pre class="programlisting">Structure xsltStyleItemDocument<br />struct _xsltStyleItemDocument {
+    int	ver11	: assigned: in xsltDocumentComp; read: no
+    const xmlChar *	filename	: document URL
+    int	has_filename
+}</pre><h3><a name="xsltStyleItemElement" id="xsltStyleItemElement">Structure xsltStyleItemElement</a></h3><pre class="programlisting">Structure xsltStyleItemElement<br />struct _xsltStyleItemElement {
+    const xmlChar *	use
+    int	has_use
+    const xmlChar *	name
+    int	has_name
+    const xmlChar *	ns
+    const xmlChar *	nsPrefix
+    int	has_ns
+}</pre><h3><a name="xsltStyleItemExtElement" id="xsltStyleItemExtElement">Structure xsltStyleItemExtElement</a></h3><pre class="programlisting">Structure xsltStyleItemExtElement<br />struct _xsltStyleItemExtElement {
+    <a href="libxslt-xsltInternals.html#xsltElemPreCompPtr">xsltElemPreCompPtr</a>	item
+}</pre><h3><a name="xsltStyleItemIf" id="xsltStyleItemIf">Structure xsltStyleItemIf</a></h3><pre class="programlisting">Structure xsltStyleItemIf<br />struct _xsltStyleItemIf {
+    const xmlChar *	test	: if
+    xmlXPathCompExprPtr	comp	: a precompiled XPath expression
+}</pre><h3><a name="xsltStyleItemInclude" id="xsltStyleItemInclude">Structure xsltStyleItemInclude</a></h3><pre class="programlisting">Structure xsltStyleItemInclude<br />struct _xsltStyleItemInclude {
+    <a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a>	include
+}</pre><h3><a name="xsltStyleItemLRElementInfo" id="xsltStyleItemLRElementInfo">Structure xsltStyleItemLRElementInfo</a></h3><pre class="programlisting">Structure xsltStyleItemLRElementInfo<br />struct _xsltStyleItemLRElementInfo {
+    <a href="libxslt-xsltInternals.html#xsltEffectiveNsPtr">xsltEffectiveNsPtr</a>	effectiveNs
+}</pre><h3><a name="xsltStyleItemMessage" id="xsltStyleItemMessage">Structure xsltStyleItemMessage</a></h3><pre class="programlisting">Structure xsltStyleItemMessage<br />struct _xsltStyleItemMessage {
+    int	terminate
+}</pre><h3><a name="xsltStyleItemNumber" id="xsltStyleItemNumber">Structure xsltStyleItemNumber</a></h3><pre class="programlisting">Structure xsltStyleItemNumber<br />struct _xsltStyleItemNumber {
+    <a href="libxslt-numbersInternals.html#xsltNumberData">xsltNumberData</a>	numdata	: number
+}</pre><h3><a name="xsltStyleItemOtherwise" id="xsltStyleItemOtherwise">Structure xsltStyleItemOtherwise</a></h3><pre class="programlisting">Structure xsltStyleItemOtherwise<br />struct _xsltStyleItemOtherwise {
+The content of this structure is not made public by the API.
+}</pre><h3><a name="xsltStyleItemPI" id="xsltStyleItemPI">Structure xsltStyleItemPI</a></h3><pre class="programlisting">Structure xsltStyleItemPI<br />struct _xsltStyleItemPI {
+    const xmlChar *	name
+    int	has_name
+}</pre><h3><a name="xsltStyleItemParam" id="xsltStyleItemParam">Structure xsltStyleItemParam</a></h3><pre class="programlisting">Structure xsltStyleItemParam<br />struct _xsltStyleItemParam {
+    const xmlChar *	select
+    xmlXPathCompExprPtr	comp
+    const xmlChar *	name
+    int	has_name
+    const xmlChar *	ns
+    int	has_ns
+}</pre><h3><a name="xsltStyleItemSort" id="xsltStyleItemSort">Structure xsltStyleItemSort</a></h3><pre class="programlisting">Structure xsltStyleItemSort<br />struct _xsltStyleItemSort {
+    const xmlChar *	stype	: sort
+    int	has_stype	: sort
+    int	number	: sort
+    const xmlChar *	order	: sort
+    int	has_order	: sort
+    int	descending	: sort
+    const xmlChar *	lang	: sort
+    int	has_lang	: sort
+    <a href="libxslt-xsltlocale.html#xsltLocale">xsltLocale</a>	locale	: sort
+    const xmlChar *	case_order	: sort
+    int	lower_first	: sort
+    const xmlChar *	use
+    int	has_use
+    const xmlChar *	select	: sort, copy-of, value-of, apply-template
+    xmlXPathCompExprPtr	comp	: a precompiled XPath expression
+}</pre><h3><a name="xsltStyleItemText" id="xsltStyleItemText">Structure xsltStyleItemText</a></h3><pre class="programlisting">Structure xsltStyleItemText<br />struct _xsltStyleItemText {
+    int	noescape	: text
+}</pre><h3><a name="xsltStyleItemUknown" id="xsltStyleItemUknown">Structure xsltStyleItemUknown</a></h3><pre class="programlisting">Structure xsltStyleItemUknown<br />struct _xsltStyleItemUknown {
+The content of this structure is not made public by the API.
+}</pre><h3><a name="xsltStyleItemValueOf" id="xsltStyleItemValueOf">Structure xsltStyleItemValueOf</a></h3><pre class="programlisting">Structure xsltStyleItemValueOf<br />struct _xsltStyleItemValueOf {
+    const xmlChar *	select
+    xmlXPathCompExprPtr	comp	: a precompiled XPath expression
+    int	noescape
+}</pre><h3><a name="xsltStyleItemWhen" id="xsltStyleItemWhen">Structure xsltStyleItemWhen</a></h3><pre class="programlisting">Structure xsltStyleItemWhen<br />struct _xsltStyleItemWhen {
+    const xmlChar *	test
+    xmlXPathCompExprPtr	comp
+}</pre><h3><a name="xsltStylePreComp" id="xsltStylePreComp">Structure xsltStylePreComp</a></h3><pre class="programlisting">Structure xsltStylePreComp<br />struct _xsltStylePreComp {
+    <a href="libxslt-xsltInternals.html#xsltElemPreCompPtr">xsltElemPreCompPtr</a>	next	: chained list
+    <a href="libxslt-xsltInternals.html#xsltStyleType">xsltStyleType</a>	type	: type of the element
+    <a href="libxslt-xsltInternals.html#xsltTransformFunction">xsltTransformFunction</a>	func	: handling function
+    xmlNodePtr	inst	: * Pre computed values. *
+    const xmlChar *	stype	: sort
+    int	has_stype	: sort
+    int	number	: sort
+    const xmlChar *	order	: sort
+    int	has_order	: sort
+    int	descending	: sort
+    const xmlChar *	lang	: sort
+    int	has_lang	: sort
+    <a href="libxslt-xsltlocale.html#xsltLocale">xsltLocale</a>	locale	: sort
+    const xmlChar *	case_order	: sort
+    int	lower_first	: sort
+    const xmlChar *	use	: copy, element
+    int	has_use	: copy, element
+    int	noescape	: text
+    const xmlChar *	name	: element, attribute, pi
+    int	has_name	: element, attribute, pi
+    const xmlChar *	ns	: element
+    int	has_ns	: element
+    const xmlChar *	mode	: apply-templates
+    const xmlChar *	modeURI	: apply-templates
+    const xmlChar *	test	: if
+    <a href="libxslt-xsltInternals.html#xsltTemplatePtr">xsltTemplatePtr</a>	templ	: call-template
+    const xmlChar *	select	: sort, copy-of, value-of, apply-template
+    int	ver11	: document
+    const xmlChar *	filename	: document URL
+    int	has_filename	: document
+    <a href="libxslt-numbersInternals.html#xsltNumberData">xsltNumberData</a>	numdata	: number
+    xmlXPathCompExprPtr	comp	: a precompiled XPath expression
+    xmlNsPtr *	nsList	: the namespaces in scope
+    int	nsNr	: the number of namespaces in scope
+}</pre><h3>Enum <a name="xsltStyleType" id="xsltStyleType">xsltStyleType</a></h3><pre class="programlisting">Enum xsltStyleType {
+    <a name="XSLT_FUNC_COPY" id="XSLT_FUNC_COPY">XSLT_FUNC_COPY</a> = 1
+    <a name="XSLT_FUNC_SORT" id="XSLT_FUNC_SORT">XSLT_FUNC_SORT</a> = 2
+    <a name="XSLT_FUNC_TEXT" id="XSLT_FUNC_TEXT">XSLT_FUNC_TEXT</a> = 3
+    <a name="XSLT_FUNC_ELEMENT" id="XSLT_FUNC_ELEMENT">XSLT_FUNC_ELEMENT</a> = 4
+    <a name="XSLT_FUNC_ATTRIBUTE" id="XSLT_FUNC_ATTRIBUTE">XSLT_FUNC_ATTRIBUTE</a> = 5
+    <a name="XSLT_FUNC_COMMENT" id="XSLT_FUNC_COMMENT">XSLT_FUNC_COMMENT</a> = 6
+    <a name="XSLT_FUNC_PI" id="XSLT_FUNC_PI">XSLT_FUNC_PI</a> = 7
+    <a name="XSLT_FUNC_COPYOF" id="XSLT_FUNC_COPYOF">XSLT_FUNC_COPYOF</a> = 8
+    <a name="XSLT_FUNC_VALUEOF" id="XSLT_FUNC_VALUEOF">XSLT_FUNC_VALUEOF</a> = 9
+    <a name="XSLT_FUNC_NUMBER" id="XSLT_FUNC_NUMBER">XSLT_FUNC_NUMBER</a> = 10
+    <a name="XSLT_FUNC_APPLYIMPORTS" id="XSLT_FUNC_APPLYIMPORTS">XSLT_FUNC_APPLYIMPORTS</a> = 11
+    <a name="XSLT_FUNC_CALLTEMPLATE" id="XSLT_FUNC_CALLTEMPLATE">XSLT_FUNC_CALLTEMPLATE</a> = 12
+    <a name="XSLT_FUNC_APPLYTEMPLATES" id="XSLT_FUNC_APPLYTEMPLATES">XSLT_FUNC_APPLYTEMPLATES</a> = 13
+    <a name="XSLT_FUNC_CHOOSE" id="XSLT_FUNC_CHOOSE">XSLT_FUNC_CHOOSE</a> = 14
+    <a name="XSLT_FUNC_IF" id="XSLT_FUNC_IF">XSLT_FUNC_IF</a> = 15
+    <a name="XSLT_FUNC_FOREACH" id="XSLT_FUNC_FOREACH">XSLT_FUNC_FOREACH</a> = 16
+    <a name="XSLT_FUNC_DOCUMENT" id="XSLT_FUNC_DOCUMENT">XSLT_FUNC_DOCUMENT</a> = 17
+    <a name="XSLT_FUNC_WITHPARAM" id="XSLT_FUNC_WITHPARAM">XSLT_FUNC_WITHPARAM</a> = 18
+    <a name="XSLT_FUNC_PARAM" id="XSLT_FUNC_PARAM">XSLT_FUNC_PARAM</a> = 19
+    <a name="XSLT_FUNC_VARIABLE" id="XSLT_FUNC_VARIABLE">XSLT_FUNC_VARIABLE</a> = 20
+    <a name="XSLT_FUNC_WHEN" id="XSLT_FUNC_WHEN">XSLT_FUNC_WHEN</a> = 21
+    <a name="XSLT_FUNC_EXTENSION" id="XSLT_FUNC_EXTENSION">XSLT_FUNC_EXTENSION</a> = 22
+    <a name="XSLT_FUNC_OTHERWISE" id="XSLT_FUNC_OTHERWISE">XSLT_FUNC_OTHERWISE</a> = 23
+    <a name="XSLT_FUNC_FALLBACK" id="XSLT_FUNC_FALLBACK">XSLT_FUNC_FALLBACK</a> = 24
+    <a name="XSLT_FUNC_MESSAGE" id="XSLT_FUNC_MESSAGE">XSLT_FUNC_MESSAGE</a> = 25
+    <a name="XSLT_FUNC_INCLUDE" id="XSLT_FUNC_INCLUDE">XSLT_FUNC_INCLUDE</a> = 26
+    <a name="XSLT_FUNC_ATTRSET" id="XSLT_FUNC_ATTRSET">XSLT_FUNC_ATTRSET</a> = 27
+    <a name="XSLT_FUNC_LITERAL_RESULT_ELEMENT" id="XSLT_FUNC_LITERAL_RESULT_ELEMENT">XSLT_FUNC_LITERAL_RESULT_ELEMENT</a> = 28
+    <a name="XSLT_FUNC_UNKOWN_FORWARDS_COMPAT" id="XSLT_FUNC_UNKOWN_FORWARDS_COMPAT">XSLT_FUNC_UNKOWN_FORWARDS_COMPAT</a> = 29
+}
+</pre><h3><a name="xsltStylesheet" id="xsltStylesheet">Structure xsltStylesheet</a></h3><pre class="programlisting">Structure xsltStylesheet<br />struct _xsltStylesheet {
+    struct _xsltStylesheet *	parent
+    struct _xsltStylesheet *	next
+    struct _xsltStylesheet *	imports
+    <a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a>	docList	: * General data on the style sheet docume
+    xmlDocPtr	doc	: the parsed XML stylesheet
+    xmlHashTablePtr	stripSpaces	: the hash table of the strip-space and p
+    int	stripAll	: strip-space * (1) preserve-space * (-1)
+    xmlHashTablePtr	cdataSection	: * Global variable or parameters. *
+    <a href="libxslt-xsltInternals.html#xsltStackElemPtr">xsltStackElemPtr</a>	variables	: * Template descriptions. *
+    <a href="libxslt-xsltInternals.html#xsltTemplatePtr">xsltTemplatePtr</a>	templates	: the ordered list of templates
+    xmlHashTablePtr	templatesHash	: hash table or wherever compiled templat
+    struct _xsltCompMatch *	rootMatch	: template based on /
+    struct _xsltCompMatch *	keyMatch	: template based on key()
+    struct _xsltCompMatch *	elemMatch	: template based on *
+    struct _xsltCompMatch *	attrMatch	: template based on @*
+    struct _xsltCompMatch *	parentMatch	: template based on ..
+    struct _xsltCompMatch *	textMatch	: template based on text()
+    struct _xsltCompMatch *	piMatch	: template based on processing-instructio
+    struct _xsltCompMatch *	commentMatch	: * Namespace aliases. * NOTE: Not used in
+    xmlHashTablePtr	nsAliases	: * Attribute sets. *
+    xmlHashTablePtr	attributeSets	: * Namespaces. * TODO: Eliminate this. *
+    xmlHashTablePtr	nsHash	: the set of namespaces in use: ATTENTION
+    void *	nsDefs	: * Key definitions. *
+    void *	keys	: * Output related stuff. *
+    xmlChar *	method	: the output method
+    xmlChar *	methodURI	: associated namespace if any
+    xmlChar *	version	: version string
+    xmlChar *	encoding	: encoding string
+    int	omitXmlDeclaration	: * Number formatting. *
+    <a href="libxslt-xsltInternals.html#xsltDecimalFormatPtr">xsltDecimalFormatPtr</a>	decimalFormat
+    int	standalone	: standalone = "yes" | "no"
+    xmlChar *	doctypePublic	: doctype-public string
+    xmlChar *	doctypeSystem	: doctype-system string
+    int	indent	: should output being indented
+    xmlChar *	mediaType	: * Precomputed blocks. *
+    <a href="libxslt-xsltInternals.html#xsltElemPreCompPtr">xsltElemPreCompPtr</a>	preComps	: list of precomputed blocks
+    int	warnings	: number of warnings found at compilation
+    int	errors	: number of errors found at compilation
+    xmlChar *	exclPrefix	: last excluded prefixes
+    xmlChar **	exclPrefixTab	: array of excluded prefixes
+    int	exclPrefixNr	: number of excluded prefixes in scope
+    int	exclPrefixMax	: size of the array
+    void *	_private	: * Extensions. *
+    xmlHashTablePtr	extInfos	: the extension data
+    int	extrasNr	: * For keeping track of nested includes *
+    <a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a>	includes	: * dictionary: shared between stylesheet,
+    xmlDictPtr	dict	: * precompiled attribute value templates.
+    void *	attVTs	: * if namespace-alias has an alias for th
+    const xmlChar *	defaultAlias	: * bypass pre-processing (already done) (
+    int	nopreproc	: * all document text strings were interna
+    int	internalized	: * Literal Result Element as Stylesheet c
+    int	literal_result	: * The principal stylesheet *
+    <a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a>	principal	: * Compilation context used during compil
+    <a href="libxslt-xsltInternals.html#xsltCompilerCtxtPtr">xsltCompilerCtxtPtr</a>	compCtxt	: TODO: Change this to (void *).
+    <a href="libxslt-xsltInternals.html#xsltPrincipalStylesheetDataPtr">xsltPrincipalStylesheetDataPtr</a>	principalData	: * Forwards-compatible processing *
+    int	forwards_compatible
+    xmlHashTablePtr	namedTemplates	: hash table of named templates
+    xmlXPathContextPtr	xpathCtxt
+}</pre><h3><a name="xsltTemplate" id="xsltTemplate">Structure xsltTemplate</a></h3><pre class="programlisting">Structure xsltTemplate<br />struct _xsltTemplate {
+    struct _xsltTemplate *	next	: chained list sorted by priority
+    struct _xsltStylesheet *	style	: the containing stylesheet
+    xmlChar *	match	: the matching string
+    float	priority	: as given from the stylesheet, not compu
+    const xmlChar *	name	: the local part of the name QName
+    const xmlChar *	nameURI	: the URI part of the name QName
+    const xmlChar *	mode	: the local part of the mode QName
+    const xmlChar *	modeURI	: the URI part of the mode QName
+    xmlNodePtr	content	: the template replacement value
+    xmlNodePtr	elem	: * TODO: @inheritedNsNr and @inheritedNs
+    int	inheritedNsNr	: number of inherited namespaces
+    xmlNsPtr *	inheritedNs	: inherited non-excluded namespaces Profi
+    int	nbCalls	: the number of time the template was cal
+    unsigned long	time	: the time spent in this template
+    void *	params	: xsl:param instructions
+    int	templNr	: Nb of templates in the stack
+    int	templMax	: Size of the templtes stack
+    <a href="libxslt-xsltInternals.html#xsltTemplatePtr">xsltTemplatePtr</a> *	templCalledTab	: templates called
+    int *	templCountTab	: .. and how often Conflict resolution
+    int	position
+}</pre><h3><a name="xsltTransformCache" id="xsltTransformCache">Structure xsltTransformCache</a></h3><pre class="programlisting">Structure xsltTransformCache<br />struct _xsltTransformCache {
+    xmlDocPtr	RVT
+    int	nbRVT
+    <a href="libxslt-xsltInternals.html#xsltStackElemPtr">xsltStackElemPtr</a>	stackItems
+    int	nbStackItems
+    int	dbgCachedRVTs
+    int	dbgReusedRVTs
+    int	dbgCachedVars
+    int	dbgReusedVars
+}</pre><h3><a name="xsltTransformContext" id="xsltTransformContext">Structure xsltTransformContext</a></h3><pre class="programlisting">Structure xsltTransformContext<br />struct _xsltTransformContext {
+    <a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a>	style	: the stylesheet used
+    <a href="libxslt-xsltInternals.html#xsltOutputType">xsltOutputType</a>	type	: the type of output
+    <a href="libxslt-xsltInternals.html#xsltTemplatePtr">xsltTemplatePtr</a>	templ	: the current template
+    int	templNr	: Nb of templates in the stack
+    int	templMax	: Size of the templtes stack
+    <a href="libxslt-xsltInternals.html#xsltTemplatePtr">xsltTemplatePtr</a> *	templTab	: the template stack
+    <a href="libxslt-xsltInternals.html#xsltStackElemPtr">xsltStackElemPtr</a>	vars	: the current variable list
+    int	varsNr	: Nb of variable list in the stack
+    int	varsMax	: Size of the variable list stack
+    <a href="libxslt-xsltInternals.html#xsltStackElemPtr">xsltStackElemPtr</a> *	varsTab	: the variable list stack
+    int	varsBase	: * Extensions *
+    xmlHashTablePtr	extFunctions	: the extension functions
+    xmlHashTablePtr	extElements	: the extension elements
+    xmlHashTablePtr	extInfos	: the extension data
+    const xmlChar *	mode	: the current mode
+    const xmlChar *	modeURI	: the current mode URI
+    <a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a>	docList	: the document list
+    <a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a>	document	: the current source document; can be NUL
+    xmlNodePtr	node	: the current node being processed
+    xmlNodeSetPtr	nodeList	: the current node list xmlNodePtr curren
+    xmlDocPtr	output	: the resulting document
+    xmlNodePtr	insert	: the insertion node
+    xmlXPathContextPtr	xpathCtxt	: the XPath context
+    <a href="libxslt-xsltInternals.html#xsltTransformState">xsltTransformState</a>	state	: * Global variables *
+    xmlHashTablePtr	globalVars	: the global variables and params
+    xmlNodePtr	inst	: the instruction in the stylesheet
+    int	xinclude	: should XInclude be processed
+    const char *	outputFile	: the output URI if known
+    int	profile	: is this run profiled
+    long	prof	: the current profiled value
+    int	profNr	: Nb of templates in the stack
+    int	profMax	: Size of the templtaes stack
+    long *	profTab	: the profile template stack
+    void *	_private	: user defined data
+    int	extrasNr	: the number of extras used
+    int	extrasMax	: the number of extras allocated
+    <a href="libxslt-xsltInternals.html#xsltRuntimeExtraPtr">xsltRuntimeExtraPtr</a>	extras	: extra per runtime information
+    <a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a>	styleList	: the stylesheet docs list
+    void *	sec	: the security preferences if any
+    xmlGenericErrorFunc	error	: a specific error handler
+    void *	errctx	: context for the error handler
+    <a href="libxslt-xsltInternals.html#xsltSortFunc">xsltSortFunc</a>	sortfunc	: * handling of temporary Result Value Tre
+    xmlDocPtr	tmpRVT	: list of RVT without persistance
+    xmlDocPtr	persistRVT	: list of persistant RVTs
+    int	ctxtflags	: * Speed optimization when coalescing tex
+    const xmlChar *	lasttext	: last text node content
+    int	lasttsize	: last text node size
+    int	lasttuse	: * Per Context Debugging *
+    int	debugStatus	: the context level debug status
+    unsigned long *	traceCode	: pointer to the variable holding the mas
+    int	parserOptions	: * dictionary: shared between stylesheet,
+    xmlDictPtr	dict
+    xmlDocPtr	tmpDoc	: * all document text strings are internal
+    int	internalized
+    int	nbKeys
+    int	hasTemplKeyPatterns
+    <a href="libxslt-xsltInternals.html#xsltTemplatePtr">xsltTemplatePtr</a>	currentTemplateRule	: the Current Template Rule
+    xmlNodePtr	initialContextNode
+    xmlDocPtr	initialContextDoc
+    <a href="libxslt-xsltInternals.html#xsltTransformCachePtr">xsltTransformCachePtr</a>	cache
+    void *	contextVariable	: the current variable item
+    xmlDocPtr	localRVT	: list of local tree fragments; will be f
+    xmlDocPtr	localRVTBase	: Obsolete
+    int	keyInitLevel	: Needed to catch recursive keys issues
+    int	depth	: Needed to catch recursions
+    int	maxTemplateDepth
+    int	maxTemplateVars
+    unsigned long	opLimit
+    unsigned long	opCount
+}</pre><h3>Enum <a name="xsltTransformState" id="xsltTransformState">xsltTransformState</a></h3><pre class="programlisting">Enum xsltTransformState {
+    <a name="XSLT_STATE_OK" id="XSLT_STATE_OK">XSLT_STATE_OK</a> = 0
+    <a name="XSLT_STATE_ERROR" id="XSLT_STATE_ERROR">XSLT_STATE_ERROR</a> = 1
+    <a name="XSLT_STATE_STOPPED" id="XSLT_STATE_STOPPED">XSLT_STATE_STOPPED</a> = 2
+}
+</pre><h3><a name="xsltVarInfo" id="xsltVarInfo">Structure xsltVarInfo</a></h3><pre class="programlisting">Structure xsltVarInfo<br />struct _xsltVarInfo {
+    <a href="libxslt-xsltInternals.html#xsltVarInfoPtr">xsltVarInfoPtr</a>	next	: next in the list
+    <a href="libxslt-xsltInternals.html#xsltVarInfoPtr">xsltVarInfoPtr</a>	prev
+    int	depth	: the depth in the tree
+    const xmlChar *	name
+    const xmlChar *	nsName
+}</pre><h3><a name="xsltAllocateExtra" id="xsltAllocateExtra"></a>Function: xsltAllocateExtra</h3><pre class="programlisting">int	xsltAllocateExtra		(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style)<br />
+</pre><p>Allocate an extra runtime information slot statically while compiling the stylesheet and return its number</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>an XSLT stylesheet</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the number of the slot</td></tr></tbody></table></div><h3><a name="xsltAllocateExtraCtxt" id="xsltAllocateExtraCtxt"></a>Function: xsltAllocateExtraCtxt</h3><pre class="programlisting">int	xsltAllocateExtraCtxt		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt)<br />
+</pre><p>Allocate an extra runtime information slot at run-time and return its number This make sure there is a slot ready in the transformation context</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the number of the slot</td></tr></tbody></table></div><h3><a name="xsltCompileAttr" id="xsltCompileAttr"></a>Function: xsltCompileAttr</h3><pre class="programlisting">void	xsltCompileAttr			(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br />					 xmlAttrPtr attr)<br />
+</pre><p>Precompile an attribute in a stylesheet, basically it checks if it is an attribute value template, and if yes, establish some structures needed to process it at transformation time.</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>a XSLT process context</td></tr><tr><td><span class="term"><i><tt>attr</tt></i>:</span></td><td>the attribute coming from the stylesheet.</td></tr></tbody></table></div><h3><a name="xsltCreateRVT" id="xsltCreateRVT"></a>Function: xsltCreateRVT</h3><pre class="programlisting">xmlDocPtr	xsltCreateRVT		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt)<br />
+</pre><p>Creates a Result Value Tree (the XSLT 1.0 term for this is "Result Tree Fragment")</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the result value tree or NULL in case of API or internal errors.</td></tr></tbody></table></div><h3><a name="xsltDecimalFormatGetByName" id="xsltDecimalFormatGetByName"></a>Function: xsltDecimalFormatGetByName</h3><pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltDecimalFormatPtr">xsltDecimalFormatPtr</a>	xsltDecimalFormatGetByName	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br />							 xmlChar * name)<br />
+</pre><p>Find decimal-format by name</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>the XSLT stylesheet</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the decimal-format name to find</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the <a href="libxslt-xsltInternals.html#xsltDecimalFormatPtr">xsltDecimalFormatPtr</a></td></tr></tbody></table></div><h3><a name="xsltDecimalFormatGetByQName" id="xsltDecimalFormatGetByQName"></a>Function: xsltDecimalFormatGetByQName</h3><pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltDecimalFormatPtr">xsltDecimalFormatPtr</a>	xsltDecimalFormatGetByQName	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br />							 const xmlChar * nsUri, <br />							 const xmlChar * name)<br />
+</pre><p>Find decimal-format by QName</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>the XSLT stylesheet</td></tr><tr><td><span class="term"><i><tt>nsUri</tt></i>:</span></td><td>the namespace URI of the QName</td></tr><tr><td><span class="term"><i><tt>name</tt></i>:</span></td><td>the local part of the QName</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the <a href="libxslt-xsltInternals.html#xsltDecimalFormatPtr">xsltDecimalFormatPtr</a></td></tr></tbody></table></div><h3><a name="xsltElemPreCompDeallocator" id="xsltElemPreCompDeallocator"></a>Function type: xsltElemPreCompDeallocator</h3><pre class="programlisting">Function type: xsltElemPreCompDeallocator
+void	xsltElemPreCompDeallocator	(<a href="libxslt-xsltInternals.html#xsltElemPreCompPtr">xsltElemPreCompPtr</a> comp)
+</pre><p>Deallocates an #xsltElemPreComp structure.</p><div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>comp</tt></i>:</span></td><td>the #xsltElemPreComp to free up</td></tr></tbody></table></div><br />
+<h3><a name="xsltEvalAVT" id="xsltEvalAVT"></a>Function: xsltEvalAVT</h3><pre class="programlisting">xmlChar *	xsltEvalAVT		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br />					 void * avt, <br />					 xmlNodePtr node)<br />
+</pre><p>Process the given AVT, and return the new string value.</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>avt</tt></i>:</span></td><td>the prevompiled attribute value template info</td></tr><tr><td><span class="term"><i><tt>node</tt></i>:</span></td><td>the node hosting the attribute</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the computed string value or NULL, must be deallocated by the caller.</td></tr></tbody></table></div><h3><a name="xsltExtensionInstructionResultFinalize" id="xsltExtensionInstructionResultFinalize"></a>Function: xsltExtensionInstructionResultFinalize</h3><pre class="programlisting">int	xsltExtensionInstructionResultFinalize	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt)<br />
+</pre><p>Finalizes the data (e.g. result tree fragments) created within a value-returning process (e.g. EXSLT's function). Tree fragments marked as being returned by a function are set to normal state, which means that the fragment garbage collector will free them after the function-calling process exits.</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 in case of success and -1 in case of API or internal errors. This function is unsupported in newer releases of libxslt.</td></tr></tbody></table></div><h3><a name="xsltExtensionInstructionResultRegister" id="xsltExtensionInstructionResultRegister"></a>Function: xsltExtensionInstructionResultRegister</h3><pre class="programlisting">int	xsltExtensionInstructionResultRegister	(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br />						 xmlXPathObjectPtr obj)<br />
+</pre><p>Marks the result of a value-returning extension instruction in order to avoid it being garbage collected before the extension instruction exits. Note that one still has to additionally register any newly created tree fragments (via xsltCreateRVT()) with xsltRegisterLocalRVT().</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>obj</tt></i>:</span></td><td>an XPath object to be inspected for result tree fragments</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 in case of success and -1 in case of error. It isn't necessary to call this function in newer releases of libxslt.</td></tr></tbody></table></div><h3><a name="xsltFlagRVTs" id="xsltFlagRVTs"></a>Function: xsltFlagRVTs</h3><pre class="programlisting">int	xsltFlagRVTs			(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br />					 xmlXPathObjectPtr obj, <br />					 void * val)<br />
+</pre><p>Updates ownership information of RVTs in @obj according to @val. @val = <a href="libxslt-variables.html#XSLT_RVT_FUNC_RESULT">XSLT_RVT_FUNC_RESULT</a> for the result of an extension function, so its RVTs won't be destroyed after leaving the returning scope. @val = <a href="libxslt-variables.html#XSLT_RVT_LOCAL">XSLT_RVT_LOCAL</a> for the result of an extension function to reset the state of its RVTs after it was returned to a new scope. @val = <a href="libxslt-variables.html#XSLT_RVT_GLOBAL">XSLT_RVT_GLOBAL</a> for parts of global variables.</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>obj</tt></i>:</span></td><td>an XPath object to be inspected for result tree fragments</td></tr><tr><td><span class="term"><i><tt>val</tt></i>:</span></td><td>the flag value</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 in case of success and -1 in case of error.</td></tr></tbody></table></div><h3><a name="xsltFormatNumberConversion" id="xsltFormatNumberConversion"></a>Function: xsltFormatNumberConversion</h3><pre class="programlisting">xmlXPathError	xsltFormatNumberConversion	(<a href="libxslt-xsltInternals.html#xsltDecimalFormatPtr">xsltDecimalFormatPtr</a> self, <br />						 xmlChar * format, <br />						 double number, <br />						 xmlChar ** result)<br />
+</pre><p>format-number() uses the JDK 1.1 DecimalFormat class: http://java.sun.com/products/jdk/1.1/docs/api/java.text.DecimalFormat.html Structure: pattern := subpattern{;subpattern} subpattern := {prefix}integer{.fraction}{suffix} prefix := '\\u0000'..'\\uFFFD' - specialCharacters suffix := '\\u0000'..'\\uFFFD' - specialCharacters integer := '#'* '0'* '0' fraction := '0'* '#'* Notation: X* 0 or more instances of X (X | Y) either X or Y. X..Y any character from X up to Y, inclusive. S - T characters in S, except those in T Special Characters: Symbol Meaning 0 a digit # a digit, zero shows as absent . placeholder for decimal separator , placeholder for grouping separator. ; separates formats. - default negative prefix. % multiply by 100 and show as percentage ? multiply by 1000 and show as per mille X any other characters can be used in the prefix or suffix ' used to quote special characters in a prefix or suffix.</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>self</tt></i>:</span></td><td>the decimal format</td></tr><tr><td><span class="term"><i><tt>format</tt></i>:</span></td><td>the format requested</td></tr><tr><td><span class="term"><i><tt>number</tt></i>:</span></td><td>the value to format</td></tr><tr><td><span class="term"><i><tt>result</tt></i>:</span></td><td>the place to output the result</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>a possible XPath error</td></tr></tbody></table></div><h3><a name="xsltFreeAVTList" id="xsltFreeAVTList"></a>Function: xsltFreeAVTList</h3><pre class="programlisting">void	xsltFreeAVTList			(void * avt)<br />
+</pre><p>Free up the memory associated to the attribute value templates</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>avt</tt></i>:</span></td><td>pointer to an list of AVT structures</td></tr></tbody></table></div><h3><a name="xsltFreeRVTs" id="xsltFreeRVTs"></a>Function: xsltFreeRVTs</h3><pre class="programlisting">void	xsltFreeRVTs			(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt)<br />
+</pre><p>Frees all registered result value trees (Result Tree Fragments) of the transformation. Internal function; should not be called by user-code.</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr></tbody></table></div><h3><a name="xsltFreeStackElemList" id="xsltFreeStackElemList"></a>Function: xsltFreeStackElemList</h3><pre class="programlisting">void	xsltFreeStackElemList		(<a href="libxslt-xsltInternals.html#xsltStackElemPtr">xsltStackElemPtr</a> elem)<br />
+</pre><p>Free up the memory allocated by @elem</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>elem</tt></i>:</span></td><td>an XSLT stack element</td></tr></tbody></table></div><h3><a name="xsltFreeStylesheet" id="xsltFreeStylesheet"></a>Function: xsltFreeStylesheet</h3><pre class="programlisting">void	xsltFreeStylesheet		(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style)<br />
+</pre><p>Free up the memory allocated by @style</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>an XSLT stylesheet</td></tr></tbody></table></div><h3><a name="xsltInitAllDocKeys" id="xsltInitAllDocKeys"></a>Function: xsltInitAllDocKeys</h3><pre class="programlisting">int	xsltInitAllDocKeys		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt)<br />
+</pre><p>INTERNAL ROUTINE ONLY Check if any keys on the current document need to be computed</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>transformation context</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 in case of success, -1 in case of failure</td></tr></tbody></table></div><h3><a name="xsltInitCtxtKey" id="xsltInitCtxtKey"></a>Function: xsltInitCtxtKey</h3><pre class="programlisting">int	xsltInitCtxtKey			(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br />					 <a href="libxslt-xsltInternals.html#xsltDocumentPtr">xsltDocumentPtr</a> idoc, <br />					 <a href="libxslt-xsltInternals.html#xsltKeyDefPtr">xsltKeyDefPtr</a> keyDef)<br />
+</pre><p>Computes the key tables this key and for the current input document.</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>idoc</tt></i>:</span></td><td>the document information (holds key values)</td></tr><tr><td><span class="term"><i><tt>keyDef</tt></i>:</span></td><td>the key definition</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 on success, -1 on error</td></tr></tbody></table></div><h3><a name="xsltIsBlank" id="xsltIsBlank"></a>Function: xsltIsBlank</h3><pre class="programlisting">int	xsltIsBlank			(xmlChar * str)<br />
+</pre><p>Check if a string is ignorable</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>str</tt></i>:</span></td><td>a string</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>1 if the string is NULL or made of blanks chars, 0 otherwise</td></tr></tbody></table></div><h3><a name="xsltLoadStylesheetPI" id="xsltLoadStylesheetPI"></a>Function: xsltLoadStylesheetPI</h3><pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a>	xsltLoadStylesheetPI	(xmlDocPtr doc)<br />
+</pre><p>This function tries to locate the stylesheet PI in the given document If found, and if contained within the document, it will extract that subtree to build the stylesheet to process @doc (doc itself will be modified). If found but referencing an external document it will attempt to load it and generate a stylesheet from it. In both cases, the resulting stylesheet and the document need to be freed once the transformation is done.</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>doc</tt></i>:</span></td><td>a document to process</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>a new XSLT stylesheet structure or NULL if not found.</td></tr></tbody></table></div><h3><a name="xsltNewStylesheet" id="xsltNewStylesheet"></a>Function: xsltNewStylesheet</h3><pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a>	xsltNewStylesheet	(void)<br />
+</pre><p>Create a new XSLT Stylesheet</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the newly allocated <a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> or NULL in case of error</td></tr></tbody></table></div><h3><a name="xsltNumberFormat" id="xsltNumberFormat"></a>Function: xsltNumberFormat</h3><pre class="programlisting">void	xsltNumberFormat		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br />					 <a href="libxslt-numbersInternals.html#xsltNumberDataPtr">xsltNumberDataPtr</a> data, <br />					 xmlNodePtr node)<br />
+</pre><p>Convert one number.</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>data</tt></i>:</span></td><td>the formatting information</td></tr><tr><td><span class="term"><i><tt>node</tt></i>:</span></td><td>the data to format</td></tr></tbody></table></div><h3><a name="xsltParseAnyXSLTElem" id="xsltParseAnyXSLTElem"></a>Function: xsltParseAnyXSLTElem</h3><pre class="programlisting">int	xsltParseAnyXSLTElem		(<a href="libxslt-xsltInternals.html#xsltCompilerCtxtPtr">xsltCompilerCtxtPtr</a> cctxt, <br />					 xmlNodePtr elem)<br />
+</pre><p>Parses, validates the content models and compiles XSLT instructions.</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>cctxt</tt></i>:</span></td><td>the compilation context</td></tr><tr><td><span class="term"><i><tt>elem</tt></i>:</span></td><td>the element node of the XSLT instruction</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 if everything's fine; -1 on API or internal errors.</td></tr></tbody></table></div><h3><a name="xsltParseSequenceConstructor" id="xsltParseSequenceConstructor"></a>Function: xsltParseSequenceConstructor</h3><pre class="programlisting">void	xsltParseSequenceConstructor	(<a href="libxslt-xsltInternals.html#xsltCompilerCtxtPtr">xsltCompilerCtxtPtr</a> cctxt, <br />					 xmlNodePtr cur)<br />
+</pre><p>Parses a "template" content (or "sequence constructor" in XSLT 2.0 terms). This will additionally remove xsl:text elements from the tree.</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>cctxt</tt></i>:</span></td><td>the compilation context</td></tr><tr><td><span class="term"><i><tt>cur</tt></i>:</span></td><td>the start-node of the content to be parsed</td></tr></tbody></table></div><h3><a name="xsltParseStylesheetDoc" id="xsltParseStylesheetDoc"></a>Function: xsltParseStylesheetDoc</h3><pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a>	xsltParseStylesheetDoc	(xmlDocPtr doc)<br />
+</pre><p>parse an XSLT stylesheet, building the associated structures. doc is kept as a reference within the returned stylesheet, so changes to doc after the parsing will be reflected when the stylesheet is applied, and the doc is automatically freed when the stylesheet is closed.</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>doc</tt></i>:</span></td><td>and xmlDoc parsed XML</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>a new XSLT stylesheet structure.</td></tr></tbody></table></div><h3><a name="xsltParseStylesheetFile" id="xsltParseStylesheetFile"></a>Function: xsltParseStylesheetFile</h3><pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a>	xsltParseStylesheetFile	(const xmlChar * filename)<br />
+</pre><p>Load and parse an XSLT stylesheet</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>filename</tt></i>:</span></td><td>the filename/URL to the stylesheet</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>a new XSLT stylesheet structure.</td></tr></tbody></table></div><h3><a name="xsltParseStylesheetImportedDoc" id="xsltParseStylesheetImportedDoc"></a>Function: xsltParseStylesheetImportedDoc</h3><pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a>	xsltParseStylesheetImportedDoc	(xmlDocPtr doc, <br />							 <a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> parentStyle)<br />
+</pre><p>parse an XSLT stylesheet building the associated structures except the processing not needed for imported documents.</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>doc</tt></i>:</span></td><td>an xmlDoc parsed XML</td></tr><tr><td><span class="term"><i><tt>parentStyle</tt></i>:</span></td><td>pointer to the parent stylesheet (if it exists)</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>a new XSLT stylesheet structure.</td></tr></tbody></table></div><h3><a name="xsltParseStylesheetOutput" id="xsltParseStylesheetOutput"></a>Function: xsltParseStylesheetOutput</h3><pre class="programlisting">void	xsltParseStylesheetOutput	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br />					 xmlNodePtr cur)<br />
+</pre><p>parse an XSLT stylesheet output element and record information related to the stylesheet output</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>the XSLT stylesheet</td></tr><tr><td><span class="term"><i><tt>cur</tt></i>:</span></td><td>the "output" element</td></tr></tbody></table></div><h3><a name="xsltParseStylesheetProcess" id="xsltParseStylesheetProcess"></a>Function: xsltParseStylesheetProcess</h3><pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a>	xsltParseStylesheetProcess	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> ret, <br />							 xmlDocPtr doc)<br />
+</pre><p>Parses an XSLT stylesheet, adding the associated structures. Called by: xsltParseStylesheetImportedDoc() (xslt.c) xsltParseStylesheetInclude() (imports.c)</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>ret</tt></i>:</span></td><td>the XSLT stylesheet (the current stylesheet-level)</td></tr><tr><td><span class="term"><i><tt>doc</tt></i>:</span></td><td>and xmlDoc parsed XML</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the value of the @style parameter if everything went right, NULL if something went amiss.</td></tr></tbody></table></div><h3><a name="xsltParseStylesheetUser" id="xsltParseStylesheetUser"></a>Function: xsltParseStylesheetUser</h3><pre class="programlisting">int	xsltParseStylesheetUser		(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br />					 xmlDocPtr doc)<br />
+</pre><p>Parse an XSLT stylesheet with a user-provided stylesheet struct.</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>pointer to the stylesheet</td></tr><tr><td><span class="term"><i><tt>doc</tt></i>:</span></td><td>an xmlDoc parsed XML</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 if successful, -1 in case of error.</td></tr></tbody></table></div><h3><a name="xsltParseTemplateContent" id="xsltParseTemplateContent"></a>Function: xsltParseTemplateContent</h3><pre class="programlisting">void	xsltParseTemplateContent	(<a href="libxslt-xsltInternals.html#xsltStylesheetPtr">xsltStylesheetPtr</a> style, <br />					 xmlNodePtr templ)<br />
+</pre><p>parse a template content-model Clean-up the template content from unwanted ignorable blank nodes and process xslt:text</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>style</tt></i>:</span></td><td>the XSLT stylesheet</td></tr><tr><td><span class="term"><i><tt>templ</tt></i>:</span></td><td>the container node (can be a document for literal results)</td></tr></tbody></table></div><h3><a name="xsltPointerListAddSize" id="xsltPointerListAddSize"></a>Function: xsltPointerListAddSize</h3><pre class="programlisting">int	xsltPointerListAddSize		(<a href="libxslt-xsltInternals.html#xsltPointerListPtr">xsltPointerListPtr</a> list, <br />					 void * item, <br />					 int initialSize)<br />
+</pre><p>Adds an item to the list.</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>list</tt></i>:</span></td><td>the pointer list structure</td></tr><tr><td><span class="term"><i><tt>item</tt></i>:</span></td><td>the item to be stored</td></tr><tr><td><span class="term"><i><tt>initialSize</tt></i>:</span></td><td>the initial size of the list</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the position of the added item in the list or -1 in case of an error.</td></tr></tbody></table></div><h3><a name="xsltPointerListClear" id="xsltPointerListClear"></a>Function: xsltPointerListClear</h3><pre class="programlisting">void	xsltPointerListClear		(<a href="libxslt-xsltInternals.html#xsltPointerListPtr">xsltPointerListPtr</a> list)<br />
+</pre><p>Resets the list, but does not free the allocated array and does not free the content of the list.</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>list</tt></i>:</span></td><td>pointer to the list to be cleared</td></tr></tbody></table></div><h3><a name="xsltPointerListCreate" id="xsltPointerListCreate"></a>Function: xsltPointerListCreate</h3><pre class="programlisting"><a href="libxslt-xsltInternals.html#xsltPointerListPtr">xsltPointerListPtr</a>	xsltPointerListCreate	(int initialSize)<br />
+</pre><p>Creates an <a href="libxslt-xsltInternals.html#xsltPointerList">xsltPointerList</a> structure.</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>initialSize</tt></i>:</span></td><td>the initial size for the list</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>a <a href="libxslt-xsltInternals.html#xsltPointerList">xsltPointerList</a> structure or NULL in case of an error.</td></tr></tbody></table></div><h3><a name="xsltPointerListFree" id="xsltPointerListFree"></a>Function: xsltPointerListFree</h3><pre class="programlisting">void	xsltPointerListFree		(<a href="libxslt-xsltInternals.html#xsltPointerListPtr">xsltPointerListPtr</a> list)<br />
+</pre><p>Frees the <a href="libxslt-xsltInternals.html#xsltPointerList">xsltPointerList</a> structure. This does not free the content of the list.</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>list</tt></i>:</span></td><td>pointer to the list to be freed</td></tr></tbody></table></div><h3><a name="xsltRegisterLocalRVT" id="xsltRegisterLocalRVT"></a>Function: xsltRegisterLocalRVT</h3><pre class="programlisting">int	xsltRegisterLocalRVT		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br />					 xmlDocPtr RVT)<br />
+</pre><p>Registers a result value tree (XSLT 1.0 term: Result Tree Fragment) in the RVT garbage collector. The fragment will be freed when the instruction which created the fragment exits.</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>RVT</tt></i>:</span></td><td>a result value tree (Result Tree Fragment; xmlDocPtr)</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 in case of success and -1 in case of API or internal errors.</td></tr></tbody></table></div><h3><a name="xsltRegisterPersistRVT" id="xsltRegisterPersistRVT"></a>Function: xsltRegisterPersistRVT</h3><pre class="programlisting">int	xsltRegisterPersistRVT		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br />					 xmlDocPtr RVT)<br />
+</pre><p>Register the result value tree (XSLT 1.0 term: Result Tree Fragment) in the fragment garbage collector. The fragment will be freed when the transformation context is freed.</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>RVT</tt></i>:</span></td><td>a result value tree (Result Tree Fragment)</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 in case of success and -1 in case of error.</td></tr></tbody></table></div><h3><a name="xsltRegisterTmpRVT" id="xsltRegisterTmpRVT"></a>Function: xsltRegisterTmpRVT</h3><pre class="programlisting">int	xsltRegisterTmpRVT		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br />					 xmlDocPtr RVT)<br />
+</pre><p>Registers the result value tree (XSLT 1.0 term: Result Tree Fragment) in the garbage collector. The fragment will be freed at the exit of the currently instantiated xsl:template. Obsolete; this function might produce massive memory overhead, since the fragment is only freed when the current xsl:template exits. Use xsltRegisterLocalRVT() instead.</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>RVT</tt></i>:</span></td><td>a result value tree (Result Tree Fragment)</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 in case of success and -1 in case of API or internal errors.</td></tr></tbody></table></div><h3><a name="xsltReleaseRVT" id="xsltReleaseRVT"></a>Function: xsltReleaseRVT</h3><pre class="programlisting">void	xsltReleaseRVT			(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br />					 xmlDocPtr RVT)<br />
+</pre><p>Either frees the RVT (which is an xmlDoc) or stores it in the context's cache for later reuse.</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>RVT</tt></i>:</span></td><td>a result value tree (Result Tree Fragment)</td></tr></tbody></table></div><h3><a name="xsltRestoreDocumentNamespaces" id="xsltRestoreDocumentNamespaces"></a>Function: xsltRestoreDocumentNamespaces</h3><pre class="programlisting">int	xsltRestoreDocumentNamespaces	(<a href="libxslt-xsltInternals.html#xsltNsMapPtr">xsltNsMapPtr</a> ns, <br />					 xmlDocPtr doc)<br />
+</pre><p>Restore the namespaces for the document</p>
+<div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>ns</tt></i>:</span></td><td>map of namespaces</td></tr><tr><td><span class="term"><i><tt>doc</tt></i>:</span></td><td>the document</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 in case of success, -1 in case of failure</td></tr></tbody></table></div><h3><a name="xsltSortFunc" id="xsltSortFunc"></a>Function type: xsltSortFunc</h3><pre class="programlisting">Function type: xsltSortFunc
+void	xsltSortFunc			(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br />					 xmlNodePtr * sorts, <br />					 int nbsorts)
+</pre><p>Signature of the function to use during sorting</p><div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>a transformation context</td></tr><tr><td><span class="term"><i><tt>sorts</tt></i>:</span></td><td>the node-set to sort</td></tr><tr><td><span class="term"><i><tt>nbsorts</tt></i>:</span></td><td>the number of sorts</td></tr></tbody></table></div><br />
+<h3><a name="xsltTransformFunction" id="xsltTransformFunction"></a>Function type: xsltTransformFunction</h3><pre class="programlisting">Function type: xsltTransformFunction
+void	xsltTransformFunction		(<a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br />					 xmlNodePtr node, <br />					 xmlNodePtr inst, <br />					 <a href="libxslt-xsltInternals.html#xsltElemPreCompPtr">xsltElemPreCompPtr</a> comp)
+</pre><p>Signature of the function associated to elements part of the stylesheet language like xsl:if or xsl:apply-templates.</p><div class="variablelist"><table border="0"><col align="left" /><tbody><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>the XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>node</tt></i>:</span></td><td>the input node</td></tr><tr><td><span class="term"><i><tt>inst</tt></i>:</span></td><td>the stylesheet node</td></tr><tr><td><span class="term"><i><tt>comp</tt></i>:</span></td><td>the compiled information from the stylesheet</td></tr></tbody></table></div><br />
+<h3><a name="xsltUninit" id="xsltUninit"></a>Function: xsltUninit</h3><pre class="programlisting">void	xsltUninit			(void)<br />
+</pre><p>Uninitializes the processor.</p>
+<p><a href="../bugs.html">Daniel Veillard</a></p></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></body></html>

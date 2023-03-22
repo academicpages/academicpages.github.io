@@ -1,0 +1,17 @@
+[build-system]
+requires = ["flit_core >=2,<4"]
+build-backend = "flit_core.buildapi"
+
+[tool.flit.metadata]
+module = "module1"
+author = "Sir Robin"
+author-email = "robin@camelot.uk"
+home-page = "http://github.com/sirrobin/module1"
+description-file = "README.rst"
+requires = [
+    "requests >= 2.18",
+    "docutils",
+]
+
+[tool.flit.entrypoints.flit_test_example]
+foo = "module1:main"

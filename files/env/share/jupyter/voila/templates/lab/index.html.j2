@@ -1,0 +1,95 @@
+{%- extends 'nbconvert/templates/lab/index.html.j2' -%}
+{% import "spinner.macro.html.j2" as spinner %}
+{% import "log.macro.html.j2" as log %}
+{% from 'voila_setup.macro.html.j2' import voila_setup_helper_functions, voila_setup_nbextensions with context %}
+
+{%- block html_head_js -%}
+  {%- block html_head_js_requirejs -%}
+  <script
+    src="{{resources.base_url}}voila/static/require.min.js"
+    integrity="sha256-Ae2Vz/4ePdIu6ZyI/5ZGsYnb+m0JlOmKPjt6XZ9JJkA="
+    crossorigin="anonymous">
+  </script>
+  {%- endblock html_head_js_requirejs -%}
+{%- block html_head_js_logs -%}
+{{ log.js() }}
+{%- endblock html_head_js_logs -%}
+{%- endblock html_head_js -%}
+
+{%- block html_head_css -%}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@^5/css/all.min.css" type="text/css" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@^5/css/v4-shims.min.css" type="text/css" />
+{{ super() }}
+{{ spinner.css() }}
+  <style>
+    /*Hide empty cells*/
+    .jp-mod-noOutputs.jp-mod-noInput {
+      display: none;
+    }
+  </style>
+{%- endblock html_head_css -%}
+
+{# this overrides the default behaviour of rendering static widgets #}
+{% block jupyter_widgets %}
+{% endblock jupyter_widgets %}
+
+{%- block body_header -%}
+{% if resources.theme == 'dark' %}
+<body class="jp-Notebook theme-dark" data-base-url="{{resources.base_url}}voila/" data-jp-theme-light="false" data-jp-theme-name="JupyterLab Dark">
+{% else %}
+<body class="jp-Notebook theme-light" data-base-url="{{resources.base_url}}voila/" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
+{% endif %}
+{{ spinner.html() }}
+{{ voila_setup_helper_functions() }}
+<div id="rendered_cells" style="display: none">
+{%- endblock body_header -%}
+
+{%- block body_loop -%}
+  {# from this point on, the kernel is started #}
+  {%- with kernel_id = kernel_start(nb) -%}
+    <script id="jupyter-config-data" type="application/json">
+    {
+        "baseUrl": "{{resources.base_url}}",
+        "kernelId": "{{kernel_id}}"
+    }
+    </script>
+    {% set cell_count = nb.cells|length %}
+    {#
+    Voilà is using Jinja's Template.generate method to not render the whole template in one go.
+    The current implementation of Jinja will however not yield template snippets if we call a blocks' super()
+    Therefore it is important to have the cell loop in the template.
+    The issue for Jinja is: https://github.com/pallets/jinja/issues/1044
+    #}
+    {%- for cell in cell_generator(nb, kernel_id) -%}
+      {% set cellloop = loop %}
+      {%- block any_cell scoped -%}
+      <script>
+        voila_process({{ cellloop.index }}, {{ cell_count }})
+      </script>
+        {{ super() }}
+      {%- endblock any_cell -%}
+    {%- endfor -%}
+  {% endwith %}
+{%- endblock body_loop -%}
+
+{%- block body_footer -%}
+</div>
+<script type="text/javascript">
+  (function() {
+    // remove the loading element
+    var el = document.getElementById("loading");
+    el.parentNode.removeChild(el);
+    // show the cell output
+    el = document.getElementById("rendered_cells");
+    el.style.display = '';
+  })();
+</script>
+{{ voila_setup_nbextensions(resources.base_url, resources.nbextensions) }}
+{{ super() }}
+{%- endblock body_footer -%}
+
+{%- block footer %}
+{% block footer_js %}
+{% endblock footer_js %}
+</html>
+{%- endblock footer-%}

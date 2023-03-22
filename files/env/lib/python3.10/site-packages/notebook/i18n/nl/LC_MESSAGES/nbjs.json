@@ -1,0 +1,1353 @@
+{
+   "domain": "nbjs",
+   "locale_data": {
+      "nbjs": {
+         "": {
+            "domain": "nbjs"
+         },
+         "Manually edit the JSON below to manipulate the metadata for this cell.": [
+            "Bewerk de JSON eronder handmatig om de metagegevens voor deze cel te manipuleren."
+         ],
+         "Manually edit the JSON below to manipulate the metadata for this notebook.": [
+            "Bewerk de JSON eronder handmatig om de metagegevens voor dit notebook te manipuleren."
+         ],
+         " We recommend putting custom metadata attributes in an appropriately named substructure, so they don't conflict with those of others.": [
+            " We raden u aan aangepaste metagegevenskenmerken in een op de juiste naam genoemde substructuur te plaatsen, zodat ze niet in strijd zijn met die van anderen."
+         ],
+         "Edit the metadata": [
+            "De metagegevens bewerken"
+         ],
+         "Edit Notebook Metadata": [
+            "Metagegevens van notebook bewerken"
+         ],
+         "Edit Cell Metadata": [
+            "Celmetagegevens bewerken"
+         ],
+         "Cancel": [
+            "Annuleren"
+         ],
+         "Edit": [
+            "Bewerken"
+         ],
+         "OK": [
+            "OK"
+         ],
+         "Apply": [
+            "Toepassen"
+         ],
+         "WARNING: Could not save invalid JSON.": [
+            "WAARSCHUWING: Kan ongeldige JSON niet opslaan."
+         ],
+         "There are no attachments for this cell.": [
+            "Er zijn geen bijlagen voor deze cel."
+         ],
+         "Current cell attachments": [
+            "Huidige celbijlagen"
+         ],
+         "Attachments": [
+            "Bijlagen"
+         ],
+         "Restore": [
+            "Herstellen"
+         ],
+         "Delete": [
+            "Verwijderen"
+         ],
+         "Edit attachments": [
+            "Bijlagen bewerken"
+         ],
+         "Edit Notebook Attachments": [
+            "Notebook-bijlagen bewerken"
+         ],
+         "Edit Cell Attachments": [
+            "Celbijlagen bewerken"
+         ],
+         "Select a file to insert.": [
+            "Selecteer een bestand dat u wilt invoegen."
+         ],
+         "Select a file": [
+            "Een bestand selecteren"
+         ],
+         "You are using Jupyter notebook.": [
+            "U gebruikt Jupyter notebook."
+         ],
+         "The version of the notebook server is: ": [
+            "De versie van de notebookserver is: "
+         ],
+         "The server is running on this version of Python:": [
+            "De server draait op deze versie van Python:"
+         ],
+         "Waiting for kernel to be available...": [
+            "Wachten tot kernel beschikbaar is..."
+         ],
+         "Server Information:": [
+            "Servergegevens:"
+         ],
+         "Current Kernel Information:": [
+            "Informatie van huidige kernel:"
+         ],
+         "Could not access sys_info variable for version information.": [
+            "Kon geen toegang krijgen tot sys_info variabele voor versie-informatie."
+         ],
+         "Cannot find sys_info!": [
+            "Ik kan sys_info niet vinden!"
+         ],
+         "About Jupyter Notebook": [
+            "Over Jupyter Notebook"
+         ],
+         "unable to contact kernel": [
+            "kan de kernel niet bereiken"
+         ],
+         "toggle rtl layout": [
+            "rtl-indeling in- en uitschakelen"
+         ],
+         "Toggle the screen directionality between left-to-right and right-to-left": [
+            "De richting van het scherm schakelen tussen links-naar-rechts en rechts-naar-links"
+         ],
+         "edit command mode keyboard shortcuts": [
+            "sneltoetsen in de opdrachtmodus bewerken"
+         ],
+         "Open a dialog to edit the command mode keyboard shortcuts": [
+            "Een dialoogvenster openen om sneltoetsen in de opdrachtmodus te bewerken"
+         ],
+         "restart kernel": [
+            "kernel herstarten"
+         ],
+         "restart the kernel (no confirmation dialog)": [
+            "de kernel herstarten (geen bevestigingsdialoogvenster)"
+         ],
+         "confirm restart kernel": [
+            "bevestig herstart van kernel"
+         ],
+         "restart the kernel (with dialog)": [
+            "de kernel herstarten (met dialoogvenster)"
+         ],
+         "restart kernel and run all cells": [
+            "kernel herstarten en alle cellen uitvoeren"
+         ],
+         "restart the kernel, then re-run the whole notebook (no confirmation dialog)": [
+            "herstart de kernel en voer vervolgens het hele notebook uit (geen bevestigingsdialoogvenster)"
+         ],
+         "confirm restart kernel and run all cells": [
+            "bevestig herstartern kernel en cellen uitvoeren"
+         ],
+         "restart the kernel, then re-run the whole notebook (with dialog)": [
+            "herstart de kernel en voer vervolgens het hele notebook uit (met dialoogvenster)"
+         ],
+         "restart kernel and clear output": [
+            "kernel herstarten en de uitvoer wissen"
+         ],
+         "restart the kernel and clear all output (no confirmation dialog)": [
+            "herstart de kernel en schakel alle uitvoer uit (geen bevestigingsdialoogvenster)"
+         ],
+         "confirm restart kernel and clear output": [
+            "bevestigen herstart kernel en verwijder uitvoer"
+         ],
+         "restart the kernel and clear all output (with dialog)": [
+            "herstart de kernel en verwijder alle uitvoer (met dialoogvenster)"
+         ],
+         "interrupt the kernel": [
+            "de kernel onderbreken"
+         ],
+         "run cell and select next": [
+            "cel uitvoeren en volgende selecteren"
+         ],
+         "run cell, select below": [
+            "cel uitvoeren en de cel eronder selecteren"
+         ],
+         "run selected cells": [
+            "geselecteerde cellen uitvoeren"
+         ],
+         "run cell and insert below": [
+            "cel uitvoeren en voeg een cel toe"
+         ],
+         "run all cells": [
+            "alle cellen uitvoeren"
+         ],
+         "run all cells above": [
+            "alle cellen erboven uitvoeren"
+         ],
+         "run all cells below": [
+            "alle cellen eronder uitvoeren"
+         ],
+         "enter command mode": [
+            "ingaan op de opdrachtmodus"
+         ],
+         "insert image": [
+            "afbeelding invoegen"
+         ],
+         "cut cell attachments": [
+            "celbijlagen knippen"
+         ],
+         "copy cell attachments": [
+            "celbijlagen kopiëren"
+         ],
+         "paste cell attachments": [
+            "celbijlagen plakken"
+         ],
+         "split cell at cursor": [
+            "cel splitsen bij cursor"
+         ],
+         "enter edit mode": [
+            "activeer bewerkingsmodus"
+         ],
+         "select previous cell": [
+            "vorige cel selecteren"
+         ],
+         "select cell above": [
+            "cel erboven selecteren"
+         ],
+         "select next cell": [
+            "volgende cel selecteren"
+         ],
+         "select cell below": [
+            "cel eronder selecteren"
+         ],
+         "extend selection above": [
+            "selectie naar boven uitbreiden"
+         ],
+         "extend selected cells above": [
+            "geselecteerde cellen naar boven uitbreiden"
+         ],
+         "extend selection below": [
+            "selectie naar onder uitbreiden"
+         ],
+         "extend selected cells below": [
+            "geselecteerde cellen naar onder uitbreiden"
+         ],
+         "cut selected cells": [
+            "geselecteerde cellen knippen"
+         ],
+         "copy selected cells": [
+            "geselecteerde cellen kopiëren"
+         ],
+         "paste cells above": [
+            "cellen erboven plakken"
+         ],
+         "paste cells below": [
+            "cellen eronder plakken"
+         ],
+         "insert cell above": [
+            "cel erboven invoegen"
+         ],
+         "insert cell below": [
+            "cel eronder invoegen"
+         ],
+         "change cell to code": [
+            "cel wijzigen naar code"
+         ],
+         "change cell to markdown": [
+            "cel wijzigen naar markdown"
+         ],
+         "change cell to raw": [
+            "cel wijzigen naar raw"
+         ],
+         "change cell to heading 1": [
+            "cel wijzigen naar header 1"
+         ],
+         "change cell to heading 2": [
+            "cel wijzigen naar header 2"
+         ],
+         "change cell to heading 3": [
+            "cel wijzigen naar header 3"
+         ],
+         "change cell to heading 4": [
+            "cel wijzigen naar header 4"
+         ],
+         "change cell to heading 5": [
+            "cel wijzigen naar header 5"
+         ],
+         "change cell to heading 6": [
+            "cel wijzigen naar header 6"
+         ],
+         "toggle cell output": [
+            "celuitvoer in- of uitschakelen"
+         ],
+         "toggle output of selected cells": [
+            "uitvoer van geselecteerde cellen in- of uitschakelen"
+         ],
+         "toggle cell scrolling": [
+            "scrollen van cellen in- of uitschakelen"
+         ],
+         "toggle output scrolling of selected cells": [
+            "scrollen van uitvoer van geselecteerde cellen in- of uitschakelen"
+         ],
+         "clear cell output": [
+            "verwijder celuitvoer"
+         ],
+         "clear output of selected cells": [
+            "verwijder uitvoer van geselecteerde cellen"
+         ],
+         "move cells down": [
+            "cellen naar beneden verplaatsen"
+         ],
+         "move selected cells down": [
+            "geselecteerde cellen naar beneden verplaatsen"
+         ],
+         "move cells up": [
+            "cellen omhoog verplaatsen"
+         ],
+         "move selected cells up": [
+            "geselecteerde cellen omhoog verplaatsen"
+         ],
+         "toggle line numbers": [
+            "regelnummers in- of uitschakelen"
+         ],
+         "show keyboard shortcuts": [
+            "sneltoetsen weergeven"
+         ],
+         "delete cells": [
+            "cellen verwijderen"
+         ],
+         "delete selected cells": [
+            "geselecteerde cellen verwijderen"
+         ],
+         "undo cell deletion": [
+            "celverwijdering ongedaan maken"
+         ],
+         "merge cell with previous cell": [
+            "cel samenvoegen met vorige cel"
+         ],
+         "merge cell above": [
+            "cel erboven samenvoegen"
+         ],
+         "merge cell with next cell": [
+            "cel samenvoegen met volgende cel"
+         ],
+         "merge cell below": [
+            "cel eronder samenvoegen"
+         ],
+         "merge selected cells": [
+            "geselecteerde cellen samenvoegen"
+         ],
+         "merge cells": [
+            "cellen samenvoegen"
+         ],
+         "merge selected cells, or current cell with cell below if only one cell is selected": [
+            "geselecteerde cellen of huidige cel samenvoegen met cel eronder als slechts één cel is geselecteerd"
+         ],
+         "show command pallette": [
+            "opdrachtpallette weergeven"
+         ],
+         "open the command palette": [
+            "opdrachtpallette openen"
+         ],
+         "toggle all line numbers": [
+            "alle regelnummers in- en uitschakelen"
+         ],
+         "toggles line numbers in all cells, and persist the setting": [
+            "lijnnummers in alle cellen in- of uitschakelen en de instelling aanhouden"
+         ],
+         "show all line numbers": [
+            "alle regelnummers weergeven"
+         ],
+         "show line numbers in all cells, and persist the setting": [
+            "lijnnummers in alle cellen weergeven en de instelling aanhouden"
+         ],
+         "hide all line numbers": [
+            "alle regelnummers verbergen"
+         ],
+         "hide line numbers in all cells, and persist the setting": [
+            "regelnummers in alle cellen verbergen en de instelling aanhouden"
+         ],
+         "toggle header": [
+            "koptekst in- en uitschakelen"
+         ],
+         "switch between showing and hiding the header": [
+            "schakelen tussen het weergeven en verbergen van de koptekst"
+         ],
+         "show the header": [
+            "de koptekst weergeven"
+         ],
+         "hide the header": [
+            "de koptekst verbergen"
+         ],
+         "toggle toolbar": [
+            "werkbalk schakelen"
+         ],
+         "switch between showing and hiding the toolbar": [
+            "schakelen tussen het weergeven en verbergen van de werkbalk"
+         ],
+         "show the toolbar": [
+            "de werkbalk weergeven"
+         ],
+         "hide the toolbar": [
+            "de werkbalk verbergen"
+         ],
+         "close the pager": [
+            "de pager sluiten"
+         ],
+         "ignore": [
+            "Negeren"
+         ],
+         "move cursor up": [
+            "cursor omhoog verplaatsen"
+         ],
+         "move cursor down": [
+            "cursor omlaag verplaatsen"
+         ],
+         "scroll notebook down": [
+            "scroll notebook omlaag"
+         ],
+         "scroll notebook up": [
+            "scroll notebook omhoog"
+         ],
+         "scroll cell center": [
+            "scroll cel naar het midden"
+         ],
+         "Scroll the current cell to the center": [
+            "De huidige cel naar het midden scrollen"
+         ],
+         "scroll cell top": [
+            "scroll cel naar boven"
+         ],
+         "Scroll the current cell to the top": [
+            "De huidige cel volledig naar boven scrollen"
+         ],
+         "duplicate notebook": [
+            "dupliceer notebook"
+         ],
+         "Create and open a copy of the current notebook": [
+            "Een kopie van het huidige notebook maken en openen"
+         ],
+         "trust notebook": [
+            "vertrouw notebook"
+         ],
+         "Trust the current notebook": [
+            "Het huidige notebook vertrouwen"
+         ],
+         "rename notebook": [
+            "naam van notebook wijzigen"
+         ],
+         "Rename the current notebook": [
+            "De naam van het huidige notebook wijzigen"
+         ],
+         "toggle all cells output collapsed": [
+            "alle samengevouwen celuitvoer in- of uitschakelen"
+         ],
+         "Toggle the hidden state of all output areas": [
+            "De zichtbaarheid status van alle uitvoergebieden in- of uitschakelen"
+         ],
+         "toggle all cells output scrolled": [
+            "alle cellenuitvoer in- of uitschakelen"
+         ],
+         "Toggle the scrolling state of all output areas": [
+            "De scroll-status van alle uitvoergebieden in- of uitschakelen"
+         ],
+         "clear all cells output": [
+            "alle cellenuitvoer wissen"
+         ],
+         "Clear the content of all the outputs": [
+            "De inhoud van alle celuitvoer wissen"
+         ],
+         "save notebook": [
+            "notebook opslaan"
+         ],
+         "Save and Checkpoint": [
+            "Opslaan en checkpoint"
+         ],
+         "Warning: accessing Cell.cm_config directly is deprecated.": [
+            "Waarschuwing: rechtstreeks toegang tot Cell.cm_config wordt afgeschaft."
+         ],
+         "Unrecognized cell type: %s": [
+            "Niet-herkende celtype: %s"
+         ],
+         "Unrecognized cell type": [
+            "Niet-herkende celtype"
+         ],
+         "Error in cell toolbar callback %s": [
+            "Fout in callback-functie van de celwerkbalk"
+         ],
+         "Clipboard types: %s": [
+            "Klembordtypen: %s"
+         ],
+         "Dialog for paste from system clipboard": [
+            "Dialoogvenster voor plakken van het klembord van het systeem"
+         ],
+         "Ctrl-V": [
+            "Ctrl-V"
+         ],
+         "Cmd-V": [
+            "Cmd-V"
+         ],
+         "Press %s again to paste": [
+            "Druk nogmaals op %s om te plakken"
+         ],
+         "Why is this needed? ": [
+            "Waarom is dit nodig? "
+         ],
+         "We can't get paste events in this browser without a text box. ": [
+            "We kunnen niet plakken in deze browser zonder tekstvak. "
+         ],
+         "There's an invisible text box focused in this dialog.": [
+            "Er is een onzichtbaar tekstvak geopend in dit dialoogvenster."
+         ],
+         "%s to paste": [
+            "%s plakken"
+         ],
+         "Can't execute cell since kernel is not set.": [
+            "Kan geen cel uitvoeren omdat kernel niet is ingesteld."
+         ],
+         "In": [
+            "In"
+         ],
+         "Could not find a kernel matching %s. Please select a kernel:": [
+            "Kon geen kernel vinden die overeenkomt met %s. Selecteer een kernel:"
+         ],
+         "Continue Without Kernel": [
+            "Doorgaan zonder kernel"
+         ],
+         "Set Kernel": [
+            "Kernel instellen"
+         ],
+         "Kernel not found": [
+            "Kernel niet gevonden"
+         ],
+         "Creating Notebook Failed": [
+            "Notebook maken is mislukt"
+         ],
+         "The error was: %s": [
+            "De fout was: %s"
+         ],
+         "Run": [
+            "Uitvoeren"
+         ],
+         "Code": [
+            "Code"
+         ],
+         "Markdown": [
+            "Markdown"
+         ],
+         "Raw NBConvert": [
+            "Raw NBConvert"
+         ],
+         "Heading": [
+            "Headers"
+         ],
+         "unrecognized cell type:": [
+            "niet-herkende celtype:"
+         ],
+         "Failed to retrieve MathJax from '%s'": [
+            "Kan MathJax niet ophalen uit '%s'"
+         ],
+         "Math/LaTeX rendering will be disabled.": [
+            "Wiskunde/LaTeX-rendering wordt uitgeschakeld."
+         ],
+         "Trusted Notebook": [
+            "Vertrouwd notebook"
+         ],
+         "Trust Notebook": [
+            "Notebook vertrouwen"
+         ],
+         "None": [
+            "Geen"
+         ],
+         "No checkpoints": [
+            "Geen checkpoints"
+         ],
+         "Opens in a new window": [
+            "Opent in een nieuw venster"
+         ],
+         "Autosave in progress, latest changes may be lost.": [
+            "Bezig met automatisch opslaan, de laatste wijzigingen kunnen verloren gaan."
+         ],
+         "Unsaved changes will be lost.": [
+            "Niet-opgeslagen wijzigingen gaan verloren."
+         ],
+         "The Kernel is busy, outputs may be lost.": [
+            "De Kernel is bezet, uitvoeren kunnen verloren gaan."
+         ],
+         "This notebook is version %1$s, but we only fully support up to %2$s.": [
+            "Deze notebook is versie %1$s, maar we ondersteunen alleen volledig tot %2$s."
+         ],
+         "You can still work with this notebook, but cell and output types introduced in later notebook versions will not be available.": [
+            "U kunt nog steeds met deze notebook werken, maar cel- en uitvoertypen die in latere notebookversies zijn geïntroduceerd, zijn niet beschikbaar."
+         ],
+         "Restart and Run All Cells": [
+            "Herstarten en alle cellen uitvoeren"
+         ],
+         "Restart and Clear All Outputs": [
+            "Herstarten en alle uitvoer wissen"
+         ],
+         "Restart": [
+            "Herstarten"
+         ],
+         "Continue Running": [
+            "Doorgaan met uitvoeren"
+         ],
+         "Reload": [
+            "Reload"
+         ],
+         "Overwrite": [
+            "Overschrijven"
+         ],
+         "Trust": [
+            "Vertrouwen"
+         ],
+         "Revert": [
+            "Terugkeren"
+         ],
+         "Newer Notebook": [
+            "Nieuwer notebook"
+         ],
+         "Use markdown headings": [
+            "Markdown headers gebruiken"
+         ],
+         "Jupyter no longer uses special heading cells. Instead, write your headings in Markdown cells using # characters:": [
+            "Jupyter maakt geen gebruik meer van speciale headercellen. Schrijf in plaats daarvan uw headers in Markdown-cellen met # tekens:"
+         ],
+         "## This is a level 2 heading": [
+            "## Dit is een niveau 2 header"
+         ],
+         "Restart kernel and re-run the whole notebook?": [
+            "Kernel herstarten en het hele notebook opnieuw uitvoeren?"
+         ],
+         "Are you sure you want to restart the current kernel and re-execute the whole notebook?  All variables and outputs will be lost.": [
+            "Weet u zeker dat u de huidige kernel wilt herstarten en het hele notebook opnieuw wilt uitvoeren?  Alle variabelen en uitgangen gaan verloren."
+         ],
+         "Restart kernel and clear all output?": [
+            "Herstart kernel en verwijder alle output?"
+         ],
+         "Do you want to restart the current kernel and clear all output?  All variables and outputs will be lost.": [
+            "Wilt u de huidige kernel herstarten en alle uitvoer wissen?  Alle variabelen en uitgangen gaan verloren."
+         ],
+         "Restart kernel?": [
+            "Kernel herstarten?"
+         ],
+         "Do you want to restart the current kernel?  All variables will be lost.": [
+            "Wilt u de huidige kernel herstarten?  Alle variabelen gaan verloren."
+         ],
+         "Shutdown kernel?": [
+            "Kernel afsluiten?"
+         ],
+         "Do you want to shutdown the current kernel?  All variables will be lost.": [
+            "Wilt u de huidige kernel afsluiten?  Alle variabelen gaan verloren."
+         ],
+         "Notebook changed": [
+            "Notebook gewijzigd"
+         ],
+         "The notebook file has changed on disk since the last time we opened or saved it. Do you want to overwrite the file on disk with the version open here, or load the version on disk (reload the page) ?": [
+            "Het notebookbestand op de schijf is gewijzigd sinds de laatste keer dat het geopend of opgeslagen is. Wilt u het bestand op schijf overschrijven met de versie die hier wordt geopend, of de versie op schijf laden (de pagina opnieuw laden) ?"
+         ],
+         "Notebook validation failed": [
+            "Notebook validatie is mislukt"
+         ],
+         "The save operation succeeded, but the notebook does not appear to be valid. The validation error was:": [
+            "De opslagbewerking is geslaagd, maar het notebook lijkt niet geldig te zijn. De validatiefout was:"
+         ],
+         "A trusted Jupyter notebook may execute hidden malicious code when you open it. Selecting trust will immediately reload this notebook in a trusted state. For more information, see the Jupyter security documentation: ": [
+            "Een vertrouwd Jupyter-notebook kan verborgen schadelijke code uitvoeren wanneer u het opent. Als u vertrouwensstatus selecteert, wordt dit notebook onmiddellijk opnieuw geladen in een vertrouwde status. Zie voor meer informatie de beveiligingsdocumentatie van Jupyter: "
+         ],
+         "here": [
+            "hier"
+         ],
+         "Trust this notebook?": [
+            "Vertrouw je dit notebook?"
+         ],
+         "Notebook failed to load": [
+            "Notebook kan niet worden geladen"
+         ],
+         "The error was: ": [
+            "De fout was: "
+         ],
+         "See the error console for details.": [
+            "Zie de foutconsole voor meer informatie."
+         ],
+         "The notebook also failed validation:": [
+            "De notebook validatie is ook mislukt:"
+         ],
+         "An invalid notebook may not function properly. The validation error was:": [
+            "Een ongeldig notebook werkt mogelijk niet goed. De validatiefout was:"
+         ],
+         "This notebook has been converted from an older notebook format to the current notebook format v(%s).": [
+            "Deze notebook is geconverteerd van een oudere notebookindeling naar de huidige notebookindeling v(%s)."
+         ],
+         "This notebook has been converted from a newer notebook format to the current notebook format v(%s).": [
+            "Deze notebook is geconverteerd van een nieuwere notebookindeling naar de huidige notebookindeling v(%s)."
+         ],
+         "The next time you save this notebook, the current notebook format will be used.": [
+            "De volgende keer dat u dit notebook opslaat, wordt de huidige notebookindeling gebruikt."
+         ],
+         "Older versions of Jupyter may not be able to read the new format.": [
+            "Oudere versies van Jupyter kunnen het nieuwe formaat mogelijk niet lezen."
+         ],
+         "Some features of the original notebook may not be available.": [
+            "Sommige functies van de originele notebook zijn mogelijk niet beschikbaar."
+         ],
+         "To preserve the original version, close the notebook without saving it.": [
+            "Als u de oorspronkelijke versie wilt behouden, sluit u het notebook zonder deze op te slaan."
+         ],
+         "Notebook converted": [
+            "Notebook geconverteerd"
+         ],
+         "(No name)": [
+            "(Geen naam)"
+         ],
+         "An unknown error occurred while loading this notebook. This version can load notebook formats %s or earlier. See the server log for details.": [
+            "Er is een onbekende fout opgetreden tijdens het laden van dit notebook. Deze versie kan notebook-indelingen %s of eerder laden. Zie het serverlogboek voor meer informatie."
+         ],
+         "Error loading notebook": [
+            "Fout bij het laden van notebook"
+         ],
+         "Are you sure you want to revert the notebook to the latest checkpoint?": [
+            "Weet je zeker dat je het notebook wilt terugdraaien naar het laatste checkpoint?"
+         ],
+         "This cannot be undone.": [
+            "Dit kan niet ongedaan worden gemaakt."
+         ],
+         "The checkpoint was last updated at:": [
+            "Het checkpoint is voor het laatst bijgewerkt op:"
+         ],
+         "Revert notebook to checkpoint": [
+            "Notebook terugzetten naar checkpoint"
+         ],
+         "Edit Mode": [
+            "Bewerkingsmodus"
+         ],
+         "Command Mode": [
+            "Opdrachtmodus"
+         ],
+         "Kernel Created": [
+            "Kernel aangemaakt"
+         ],
+         "Connecting to kernel": [
+            "Verbinding maken met kernel"
+         ],
+         "Not Connected": [
+            "Niet verbonden"
+         ],
+         "click to reconnect": [
+            "klik om opnieuw verbinding te maken"
+         ],
+         "Restarting kernel": [
+            "Kernel herstarten"
+         ],
+         "Kernel Restarting": [
+            "Kernel herstarten"
+         ],
+         "The kernel appears to have died. It will restart automatically.": [
+            "De kernel lijkt te zijn gestopt. Hij wordt automatisch herstart."
+         ],
+         "Dead kernel": [
+            "Gestopte kernel"
+         ],
+         "Kernel Dead": [
+            "Kernel is gestopt"
+         ],
+         "Interrupting kernel": [
+            "Kernel onderbreken"
+         ],
+         "No Connection to Kernel": [
+            "Geen verbinding met kernel"
+         ],
+         "A connection to the notebook server could not be established. The notebook will continue trying to reconnect. Check your network connection or notebook server configuration.": [
+            "Er kan geen verbinding met de notebookserver worden gemaakt. Het notebook blijft proberen opnieuw verbinding te maken. Controleer de configuratie van uw netwerkverbinding of laptopserver."
+         ],
+         "Connection failed": [
+            "Verbinding is mislukt"
+         ],
+         "No kernel": [
+            "Geen kernel"
+         ],
+         "Kernel is not running": [
+            "Kernel is niet actief"
+         ],
+         "Don't Restart": [
+            "Niet herstarten"
+         ],
+         "Try Restarting Now": [
+            "Probeer nu te herstarten"
+         ],
+         "The kernel has died, and the automatic restart has failed. It is possible the kernel cannot be restarted. If you are not able to restart the kernel, you will still be able to save the notebook, but running code will no longer work until the notebook is reopened.": [
+            "De kernel is gestopt en de automatische herstart is mislukt. Het is mogelijk dat de kernel niet kan worden herstart. Als u de kernel niet start, kan u het notebook nog steeds opslaan, maar werkt de code niet meer totdat het notebook opnieuw is geopend."
+         ],
+         "No Kernel": [
+            "Geen kernel"
+         ],
+         "Failed to start the kernel": [
+            "Kan de kernel niet starten"
+         ],
+         "Kernel Busy": [
+            "Kernel bezet"
+         ],
+         "Kernel starting, please wait...": [
+            "Kernel beginnen, wachten..."
+         ],
+         "Kernel Idle": [
+            "Kernel Idle"
+         ],
+         "Kernel ready": [
+            "Kernel klaar"
+         ],
+         "Using kernel: ": [
+            "Kernel gebruiken: "
+         ],
+         "Only candidate for language: %1$s was %2$s.": [
+            "Enige kandidaat voor taal: %1$s was %2$s."
+         ],
+         "Loading notebook": [
+            "Notebook laden"
+         ],
+         "Notebook loaded": [
+            "Notebook geladen"
+         ],
+         "Saving notebook": [
+            "Notebook opslaan"
+         ],
+         "Notebook saved": [
+            "Notebook opgeslagen"
+         ],
+         "Notebook save failed": [
+            "Notebook opslaan is mislukt"
+         ],
+         "Notebook copy failed": [
+            "Notebook kopiëren is mislukt"
+         ],
+         "Checkpoint created": [
+            "Checkpoint gemaakt"
+         ],
+         "Checkpoint failed": [
+            "Checkpoint is mislukt"
+         ],
+         "Checkpoint deleted": [
+            "Checkpoint verwijderd"
+         ],
+         "Checkpoint delete failed": [
+            "Checkpoint verwijderen is mislukt"
+         ],
+         "Restoring to checkpoint...": [
+            "Herstellen naar checkpoint..."
+         ],
+         "Checkpoint restore failed": [
+            "Checkpoint herstel is mislukt"
+         ],
+         "Autosave disabled": [
+            "Automatisch opslaan uitgeschakeld"
+         ],
+         "Saving every %d sec.": [
+            "Het notebook wordt elke %d sec opgeslagen."
+         ],
+         "Trusted": [
+            "Vertrouwd"
+         ],
+         "Not Trusted": [
+            "Niet vertrouwd"
+         ],
+         "click to expand output": [
+            "klik om de uitvoer volledig weer te geven"
+         ],
+         "click to expand output; double click to hide output": [
+            "klik om de uitvoer te laten verschijnen; dubbelklikken om uitvoer te verbergen"
+         ],
+         "click to unscroll output; double click to hide": [
+            "klik om de uitvoer te ontscrollen; dubbelklikken om te verbergen"
+         ],
+         "click to scroll output; double click to hide": [
+            "klik om de uitvoer te scrollen; dubbelklikken om te verbergen"
+         ],
+         "Javascript error adding output!": [
+            "Javascript fout bij het toevoegen van uitvoer!"
+         ],
+         "See your browser Javascript console for more details.": [
+            "Zie uw browser Javascript console voor meer details."
+         ],
+         "Out[%d]:": [
+            "Out[%d]:"
+         ],
+         "Unrecognized output: %s": [
+            "Niet-herkende uitvoer: %s"
+         ],
+         "Open the pager in an external window": [
+            "De pager openen in een extern venster"
+         ],
+         "Close the pager": [
+            "De pager sluiten"
+         ],
+         "Jupyter Pager": [
+            "Jupyter Pager"
+         ],
+         "go to cell start": [
+            "ga naar celstart"
+         ],
+         "go to cell end": [
+            "ga naar het celeinde"
+         ],
+         "go one word left": [
+            "één woord naar links gaan"
+         ],
+         "go one word right": [
+            "ga een woord naar rechts"
+         ],
+         "delete word before": [
+            "woord ervoor verwijderen"
+         ],
+         "delete word after": [
+            "woord erna verwijderen"
+         ],
+         "code completion or indent": [
+            "code aanvulling of inspringing"
+         ],
+         "tooltip": [
+            "Tooltip"
+         ],
+         "indent": [
+            "inspringing"
+         ],
+         "dedent": [
+            "inspringing ongedaan maken"
+         ],
+         "select all": [
+            "selecteer alle"
+         ],
+         "undo": [
+            "Ongedaan maken"
+         ],
+         "redo": [
+            "Opnieuw"
+         ],
+         "Shift": [
+            "Shift"
+         ],
+         "Alt": [
+            "Alt"
+         ],
+         "Up": [
+            "Omhoog"
+         ],
+         "Down": [
+            "Omlaag"
+         ],
+         "Left": [
+            "Links"
+         ],
+         "Right": [
+            "Recht"
+         ],
+         "Tab": [
+            "Tab"
+         ],
+         "Caps Lock": [
+            "CAPS-LOCK"
+         ],
+         "Esc": [
+            "Esc"
+         ],
+         "Ctrl": [
+            "Ctrl"
+         ],
+         "Enter": [
+            "Enter"
+         ],
+         "Page Up": [
+            "Pagina omhoog"
+         ],
+         "Page Down": [
+            "Pagina omlaag"
+         ],
+         "Home": [
+            "Home"
+         ],
+         "End": [
+            "Einde"
+         ],
+         "Space": [
+            "Spatie"
+         ],
+         "Backspace": [
+            "Backspace"
+         ],
+         "Minus": [
+            "Minus"
+         ],
+         "PageUp": [
+            "PageUp"
+         ],
+         "The Jupyter Notebook has two different keyboard input modes.": [
+            "De Jupyter Notebook heeft twee verschillende toetsenbordinvoermodi."
+         ],
+         "<b>Edit mode</b> allows you to type code or text into a cell and is indicated by a green cell border.": [
+            "<b>Edit-modus</b> u code of tekst typen in een cel en wordt aangegeven door een groene celrand."
+         ],
+         "<b>Command mode</b> binds the keyboard to notebook level commands and is indicated by a grey cell border with a blue left margin.": [
+            "<b>Command-modus</b> het toetsenbord bindt aan opdrachten op notebookniveau en wordt aangegeven door een grijze celrand met een blauwe linkermarge."
+         ],
+         "Close": [
+            "Sluiten"
+         ],
+         "Keyboard shortcuts": [
+            "Sneltoetsen"
+         ],
+         "Command": [
+            "Opdracht"
+         ],
+         "Control": [
+            "Controle"
+         ],
+         "Option": [
+            "Optie"
+         ],
+         "Return": [
+            "Terug"
+         ],
+         "Command Mode (press %s to enable)": [
+            "Opdrachtmodus (druk op %s om in te schakelen)"
+         ],
+         "Edit Shortcuts": [
+            "Sneltoetsen bewerken"
+         ],
+         "edit command-mode keyboard shortcuts": [
+            "Sneltoetsen in de opdrachtmodus bewerken"
+         ],
+         "Edit Mode (press %s to enable)": [
+            "Bewerkingsmodus (druk op %s om in te schakelen)"
+         ],
+         "Autosave Failed!": [
+            "Automatisch opslaan is mislukt!"
+         ],
+         "Rename": [
+            "Hernoemen"
+         ],
+         "Enter a new notebook name:": [
+            "Voer een nieuwe notebooknaam in:"
+         ],
+         "Rename Notebook": [
+            "De naam van notebook wijzigen"
+         ],
+         "Invalid notebook name. Notebook names must have 1 or more characters and can contain any characters except :/\\. Please enter a new notebook name:": [
+            "Ongeldige notebooknaam. Notebook-namen moeten 1 of meer tekens bevatten en kunnen tekens bevatten, behalve :/\\. Voer een nieuwe notebooknaam in:"
+         ],
+         "Renaming...": [
+            "Hernoemen..."
+         ],
+         "Unknown error": [
+            "Onbekende fout"
+         ],
+         "no checkpoint": [
+            "geen checkpoint"
+         ],
+         "Last Checkpoint: %s": [
+            "Laatste checkpoint: %s"
+         ],
+         "(unsaved changes)": [
+            "(niet-opgeslagen wijzigingen)"
+         ],
+         "(autosaved)": [
+            "(automatisch opgeslagen)"
+         ],
+         "Warning: too many matches (%d). Some changes might not be shown or applied.": [
+            "Waarschuwing: te veel matches (%d). Sommige wijzigingen worden mogelijk niet weergegeven of toegepast."
+         ],
+         "%d match": [
+            "%d match",
+            "%d matches"
+         ],
+         "More than 100 matches, aborting": [
+            "Meer dan 100 matches, afbreken"
+         ],
+         "Use regex (JavaScript regex syntax)": [
+            "Regex gebruiken (JavaScript regex syntax)"
+         ],
+         "Replace in selected cells": [
+            "Vervangen in geselecteerde cellen"
+         ],
+         "Match case": [
+            "Hoofdletters matchen"
+         ],
+         "Find": [
+            "Zoek"
+         ],
+         "Replace": [
+            "Vervangen"
+         ],
+         "No matches, invalid or empty regular expression": [
+            "Geen overeenkomsten, ongeldige of lege reguliere expressie"
+         ],
+         "Replace All": [
+            "Alles vervangen"
+         ],
+         "Find and Replace": [
+            "Zoeken en vervangen"
+         ],
+         "find and replace": [
+            "zoeken en vervangen"
+         ],
+         "Write raw LaTeX or other formats here, for use with nbconvert. It will not be rendered in the notebook. When passing through nbconvert, a Raw Cell's content is added to the output unmodified.": [
+            "Schrijf hier in LaTeX of ander format, voor gebruik met nbconvert. Het wordt niet weergegeven in het notebook. Bij het doorlopen van nbconvert wordt de inhoud van een Raw Cell ongewijzigd aan de uitvoer toegevoegd."
+         ],
+         "Grow the tooltip vertically (press shift-tab twice)": [
+            "De tooltip verticaal laten groeien (druk twee keer op shift-tab)"
+         ],
+         "show the current docstring in pager (press shift-tab 4 times)": [
+            "de huidige docstring weergeven in pager (druk 4 keer op shift-tab)"
+         ],
+         "Open in Pager": [
+            "Openen in Pager"
+         ],
+         "Tooltip will linger for 10 seconds while you type": [
+            "De tooltip blijft 10 seconden hangen terwijl u typt"
+         ],
+         "Welcome to the Notebook Tour": [
+            "Welkom bij de Notebook Rondleiding"
+         ],
+         "You can use the left and right arrow keys to go backwards and forwards.": [
+            "U kan de pijltjestoetsen links en rechts gebruiken om heen en weer te gaan."
+         ],
+         "Filename": [
+            "Bestandsnaam"
+         ],
+         "Click here to change the filename for this notebook.": [
+            "Klik hier om de bestandsnaam voor dit notebook te wijzigen."
+         ],
+         "Notebook Menubar": [
+            "Menubalk notebook"
+         ],
+         "The menubar has menus for actions on the notebook, its cells, and the kernel it communicates with.": [
+            "De menubalk heeft menu's voor acties op het notebook, de cellen en de kernel waarmee het communiceert."
+         ],
+         "Notebook Toolbar": [
+            "Werkbalk Notebook"
+         ],
+         "The toolbar has buttons for the most common actions. Hover your mouse over each button for more information.": [
+            "De werkbalk heeft knoppen voor de meest voorkomende acties. Beweeg met je muis over elke knop voor meer informatie."
+         ],
+         "Mode Indicator": [
+            "Modus-indicator"
+         ],
+         "The Notebook has two modes: Edit Mode and Command Mode. In this area, an indicator can appear to tell you which mode you are in.": [
+            "De notebook heeft twee modi: De modus bewerken en de opdrachtmodus. In dit gebied kan een indicator verschijnen om u te vertellen in welke modus u zich bevindt."
+         ],
+         "Right now you are in Command Mode, and many keyboard shortcuts are available. In this mode, no icon is displayed in the indicator area.": [
+            "Op dit moment bent u in de opdrachtmodus en zijn er veel sneltoetsen beschikbaar. In deze modus wordt geen pictogram weergegeven in het indicatorgebied."
+         ],
+         "Pressing <code>Enter</code> or clicking in the input text area of the cell switches to Edit Mode.": [
+            "Als u op <code>Enter </code> drukt of klikt in het invoertekstgebied van de cel, schakelt u over naar de bewerkingsmodus."
+         ],
+         "Notice that the border around the currently active cell changed color. Typing will insert text into the currently active cell.": [
+            "De rand rond de actieve cel is van kleur veranderd. Als u typt, wordt tekst ingevoegd in de actieve cel."
+         ],
+         "Back to Command Mode": [
+            "Terug naar de opdrachtmodus"
+         ],
+         "Pressing <code>Esc</code> or clicking outside of the input text area takes you back to Command Mode.": [
+            "Als u op <code>Esc drukt</code> of buiten het invoertekstgebied klikt, gaat u terug naar de opdrachtmodus."
+         ],
+         "Keyboard Shortcuts": [
+            "Sneltoetsen"
+         ],
+         "You can click here to get a list of all of the keyboard shortcuts.": [
+            "U hier klikken om een lijst van alle sneltoetsen te krijgen."
+         ],
+         "Kernel Indicator": [
+            "Kernel Indicator"
+         ],
+         "This is the Kernel indicator. It looks like this when the Kernel is idle.": [
+            "Dit is de Kernel indicator. Het ziet er zo uit als de Kernel niet actief is."
+         ],
+         "The Kernel indicator looks like this when the Kernel is busy.": [
+            "De Kernel indicator ziet er als volgt uit wanneer de Kernel bezig is."
+         ],
+         "Interrupting the Kernel": [
+            "De kernel onderbreken"
+         ],
+         "To cancel a computation in progress, you can click here.": [
+            "Als u een actieve berekening wilt annuleren, kan u hier klikken."
+         ],
+         "Notification Area": [
+            "Systeemvak"
+         ],
+         "Messages in response to user actions (Save, Interrupt, etc.) appear here.": [
+            "Berichten in reactie op acties van gebruikers (Opslaan, Onderbreken, enz.) worden hier weergegeven."
+         ],
+         "End of Tour": [
+            "Einde van de Tour"
+         ],
+         "This concludes the Jupyter Notebook User Interface Tour.": [
+            "Dit concludeert de Jupyter Notebook User Interface Rondleiding."
+         ],
+         "Edit Attachments": [
+            "Bijlagen bewerken"
+         ],
+         "Cell": [
+            "Cel"
+         ],
+         "Edit Metadata": [
+            "Metagegevens bewerken"
+         ],
+         "Custom": [
+            "Aangepaste"
+         ],
+         "Set the MIME type of the raw cell:": [
+            "Stel het MIME-type van de raw cel in:"
+         ],
+         "Raw Cell MIME Type": [
+            "Raw Cell MIME-type"
+         ],
+         "Raw NBConvert Format": [
+            "Raw NBConvert-indeling"
+         ],
+         "Raw Cell Format": [
+            "Raw-celnotatie"
+         ],
+         "Slide": [
+            "Dia"
+         ],
+         "Sub-Slide": [
+            "Subdia"
+         ],
+         "Fragment": [
+            "Fragment"
+         ],
+         "Skip": [
+            "Overslaan"
+         ],
+         "Notes": [
+            "Notities"
+         ],
+         "Slide Type": [
+            "Diatype"
+         ],
+         "Slideshow": [
+            "Diavoorstelling"
+         ],
+         "Add tag": [
+            "Tag toevoegen"
+         ],
+         "Edit the list of tags below. All whitespace is treated as tag separators.": [
+            "Bewerk de onderstaande lijst met tags. Alle witruimte wordt behandeld als tagscheidingstekens."
+         ],
+         "Edit the tags": [
+            "De tags bewerken"
+         ],
+         "Edit Tags": [
+            "Tags bewerken"
+         ],
+         "Shutdown": [
+            "Afsluiten"
+         ],
+         "Create a new notebook with %s": [
+            "Een nieuw notebook maken met %s"
+         ],
+         "An error occurred while creating a new notebook.": [
+            "Er is een fout opgetreden tijdens het maken van een nieuw notebook."
+         ],
+         "Creating File Failed": [
+            "Bestand maken is mislukt"
+         ],
+         "An error occurred while creating a new file.": [
+            "Er is een fout opgetreden tijdens het maken van een nieuw bestand."
+         ],
+         "Creating Folder Failed": [
+            "Map maken is mislukt"
+         ],
+         "An error occurred while creating a new folder.": [
+            "Er is een fout opgetreden tijdens het maken van een nieuwe map."
+         ],
+         "Failed to read file": [
+            "Bestand niet kunnen worden gelezen"
+         ],
+         "Failed to read file %s": [
+            "Bestand %s niet kunnen lezen"
+         ],
+         "The file size is %d MB. Do you still want to upload it?": [
+            "De bestandsgrootte is %d MB. Wil je het nog steeds uploaden?"
+         ],
+         "Large file size warning": [
+            "Waarschuwing voor grote bestandsgrootte"
+         ],
+         "Server error: ": [
+            "Serverfout: "
+         ],
+         "The notebook list is empty.": [
+            "De lijst met notebooks is leeg."
+         ],
+         "Click here to rename, delete, etc.": [
+            "Klik hier om de naam te wijzigen, te verwijderen, enz."
+         ],
+         "Running": [
+            "Actieve Processen"
+         ],
+         "Enter a new file name:": [
+            "Voer een nieuwe bestandsnaam in:"
+         ],
+         "Enter a new directory name:": [
+            "Voer een nieuwe mapnaam in:"
+         ],
+         "Enter a new name:": [
+            "Voer een nieuwe naam in:"
+         ],
+         "Rename file": [
+            "Naamvan het bestand wijzigen"
+         ],
+         "Rename directory": [
+            "Naamvan naam wijzigen"
+         ],
+         "Rename notebook": [
+            "De naam van notebook wijzigen"
+         ],
+         "Move": [
+            "Verplaatsen"
+         ],
+         "An error occurred while renaming \"%1$s\" to \"%2$s\".": [
+            "Er is een fout opgetreden bij het hernoemen van \"%1$s\" naar \"%2$s\"."
+         ],
+         "Rename Failed": [
+            "Naam wijzigen Van mislukt"
+         ],
+         "Enter a new destination directory path for this item:": [
+            "Voer een nieuw bestemmingsmap-pad in voor dit item:",
+            "Voer een nieuw bestemmingsmap-pad in voor deze %d items:"
+         ],
+         "Move an Item": [
+            "Een item verplaatsen",
+            "%d objecten verplaatsen"
+         ],
+         "An error occurred while moving \"%1$s\" from \"%2$s\" to \"%3$s\".": [
+            "Er is een fout opgetreden tijdens het verplaatsen van \"%1$s\" van \"%2$s\" naar \"%3$s\"."
+         ],
+         "Move Failed": [
+            "Verplaatsen mislukt"
+         ],
+         "Are you sure you want to permanently delete: \"%s\"?": [
+            "Weet u zeker dat u het volgende definitief wilt verwijderen: \"%s\"?",
+            "Weet u zeker dat u de geselecteerde %d bestanden of mappen permanent wilt verwijderen?"
+         ],
+         "An error occurred while deleting \"%s\".": [
+            "Er is een fout opgetreden tijdens het verwijderen van \"%s\"."
+         ],
+         "Delete Failed": [
+            "Verwijderen mislukt"
+         ],
+         "Are you sure you want to duplicate: \"%s\"?": [
+            "Weet u zeker dat u wilt dupliceren: \"%s\"?",
+            "Weet u zeker dat u de geselecteerde %d bestanden wilt dupliceren?"
+         ],
+         "Duplicate": [
+            "Dupliceren"
+         ],
+         "An error occurred while duplicating \"%s\".": [
+            "Er is een fout opgetreden tijdens het dupliceren van \"%s\"."
+         ],
+         "Duplicate Failed": [
+            "Dupliceren is mislukt"
+         ],
+         "Upload": [
+            "Uploaden"
+         ],
+         "Invalid file name": [
+            "Ongeldige bestandsnaam"
+         ],
+         "File names must be at least one character and not start with a period": [
+            "Bestandsnamen moeten ten minste één teken zijn en niet beginnen met een periode"
+         ],
+         "Cannot upload invalid Notebook": [
+            "Kan ongeldig notebook niet uploaden"
+         ],
+         "There is already a file named \"%s\". Do you want to replace it?": [
+            "Er is al een bestand met de naam \"%s\". Wilt u het vervangen?"
+         ],
+         "Replace file": [
+            "Bestand vervangen"
+         ]
+      }
+   }
+}

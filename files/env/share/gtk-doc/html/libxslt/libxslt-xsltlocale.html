@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>xsltlocale: Locale handling</title>
+    <meta name="generator" content="Libxml2 devhelp stylesheet"/>
+    <link rel="start" href="index.html" title="libxslt Reference Manual"/>
+    <link rel="up" href="general.html" title="API"/>
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <link rel="chapter" href="general.html" title="API"/>
+  </head>
+  <body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
+    <table class="navigation" width="100%" summary="Navigation header" cellpadding="2" cellspacing="2">
+      <tr valign="middle">
+        <td>
+          <a accesskey="p" href="libxslt-xsltexports.html">
+            <img src="left.png" width="24" height="24" border="0" alt="Prev"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="u" href="general.html">
+            <img src="up.png" width="24" height="24" border="0" alt="Up"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="h" href="index.html">
+            <img src="home.png" width="24" height="24" border="0" alt="Home"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="n" href="libxslt-xsltutils.html">
+            <img src="right.png" width="24" height="24" border="0" alt="Next"/>
+          </a>
+        </td>
+        <th width="100%" align="center">libxslt Reference Manual</th>
+      </tr>
+    </table>
+    <h2>
+      <span class="refentrytitle">xsltlocale</span>
+    </h2>
+    <p>xsltlocale - Locale handling</p>
+    <p>Interfaces for locale handling. Needed for language dependent sorting. </p>
+    <p>Author(s): Nick Wellnhofer </p>
+    <div class="refsynopsisdiv">
+      <h2>Synopsis</h2>
+      <pre class="synopsis">#define <a href="#XSLT_LOCALE_WINAPI">XSLT_LOCALE_WINAPI</a>;
+#define <a href="#XSLT_LOCALE_NONE">XSLT_LOCALE_NONE</a>;
+#define <a href="#XSLT_LOCALE_POSIX">XSLT_LOCALE_POSIX</a>;
+typedef void * <a href="#xsltLocale">xsltLocale</a>;
+typedef xmlChar <a href="#xsltLocaleChar">xsltLocaleChar</a>;
+<a href="libxslt-xsltlocale.html#xsltLocale">xsltLocale</a>	<a href="#xsltNewLocale">xsltNewLocale</a>		(const xmlChar * languageTag);
+int	<a href="#xsltLocaleStrcmp">xsltLocaleStrcmp</a>		(<a href="libxslt-xsltlocale.html#xsltLocale">xsltLocale</a> locale, <br/>					 const <a href="libxslt-xsltlocale.html#xsltLocaleChar">xsltLocaleChar</a> * str1, <br/>					 const <a href="libxslt-xsltlocale.html#xsltLocaleChar">xsltLocaleChar</a> * str2);
+void	<a href="#xsltFreeLocale">xsltFreeLocale</a>			(<a href="libxslt-xsltlocale.html#xsltLocale">xsltLocale</a> locale);
+<a href="libxslt-xsltlocale.html#xsltLocaleChar">xsltLocaleChar</a> *	<a href="#xsltStrxfrm">xsltStrxfrm</a>	(<a href="libxslt-xsltlocale.html#xsltLocale">xsltLocale</a> locale, <br/>					 const xmlChar * string);
+void	<a href="#xsltFreeLocales">xsltFreeLocales</a>			(void);
+</pre>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Description</h2>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Details</h2>
+      <div class="refsect2" lang="en">
+        <div class="refsect2" lang="en"><h3><a name="XSLT_LOCALE_NONE">Macro </a>XSLT_LOCALE_NONE</h3><pre class="programlisting">#define <a href="#XSLT_LOCALE_NONE">XSLT_LOCALE_NONE</a>;
+</pre><p>Macro indicating that there's no extended locale support</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="XSLT_LOCALE_POSIX">Macro </a>XSLT_LOCALE_POSIX</h3><pre class="programlisting">#define <a href="#XSLT_LOCALE_POSIX">XSLT_LOCALE_POSIX</a>;
+</pre><p>Macro indicating to use POSIX locale extensions</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="XSLT_LOCALE_WINAPI">Macro </a>XSLT_LOCALE_WINAPI</h3><pre class="programlisting">#define <a href="#XSLT_LOCALE_WINAPI">XSLT_LOCALE_WINAPI</a>;
+</pre><p>Macro indicating to use WinAPI for extended locale support</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltLocale">Typedef </a>xsltLocale</h3><pre class="programlisting">void * xsltLocale;
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltLocaleChar">Typedef </a>xsltLocaleChar</h3><pre class="programlisting">xmlChar xsltLocaleChar;
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltFreeLocale"/>xsltFreeLocale ()</h3><pre class="programlisting">void	xsltFreeLocale			(<a href="libxslt-xsltlocale.html#xsltLocale">xsltLocale</a> locale)<br/>
+</pre><p>Frees a locale created with <a href="libxslt-xsltlocale.html#xsltNewLocale">xsltNewLocale</a></p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>locale</tt></i>:</span></td><td>the locale to free</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltFreeLocales"/>xsltFreeLocales ()</h3><pre class="programlisting">void	xsltFreeLocales			(void)<br/>
+</pre><p>Cleanup function for the locale support on shutdown</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltLocaleStrcmp"/>xsltLocaleStrcmp ()</h3><pre class="programlisting">int	xsltLocaleStrcmp		(<a href="libxslt-xsltlocale.html#xsltLocale">xsltLocale</a> locale, <br/>					 const <a href="libxslt-xsltlocale.html#xsltLocaleChar">xsltLocaleChar</a> * str1, <br/>					 const <a href="libxslt-xsltlocale.html#xsltLocaleChar">xsltLocaleChar</a> * str2)<br/>
+</pre><p>Compares two strings transformed with <a href="libxslt-xsltlocale.html#xsltStrxfrm">xsltStrxfrm</a></p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>locale</tt></i>:</span></td><td>a locale identifier</td></tr><tr><td><span class="term"><i><tt>str1</tt></i>:</span></td><td>a string transformed with <a href="libxslt-xsltlocale.html#xsltStrxfrm">xsltStrxfrm</a></td></tr><tr><td><span class="term"><i><tt>str2</tt></i>:</span></td><td>a string transformed with <a href="libxslt-xsltlocale.html#xsltStrxfrm">xsltStrxfrm</a></td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>a value &lt; 0 if str1 sorts before str2, a value &gt; 0 if str1 sorts after str2, 0 if str1 and str2 are equal wrt sorting</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltNewLocale"/>xsltNewLocale ()</h3><pre class="programlisting"><a href="libxslt-xsltlocale.html#xsltLocale">xsltLocale</a>	xsltNewLocale		(const xmlChar * languageTag)<br/>
+</pre><p>Creates a new locale of an opaque system dependent type based on the language tag.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>languageTag</tt></i>:</span></td><td>RFC 3066 language tag</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the locale or NULL on error or if no matching locale was found</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltStrxfrm"/>xsltStrxfrm ()</h3><pre class="programlisting"><a href="libxslt-xsltlocale.html#xsltLocaleChar">xsltLocaleChar</a> *	xsltStrxfrm	(<a href="libxslt-xsltlocale.html#xsltLocale">xsltLocale</a> locale, <br/>					 const xmlChar * string)<br/>
+</pre><p>Transforms a string according to locale. The transformed string must then be compared with <a href="libxslt-xsltlocale.html#xsltLocaleStrcmp">xsltLocaleStrcmp</a> and freed with xmlFree.</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>locale</tt></i>:</span></td><td>locale created with <a href="libxslt-xsltlocale.html#xsltNewLocale">xsltNewLocale</a></td></tr><tr><td><span class="term"><i><tt>string</tt></i>:</span></td><td>UTF-8 string to transform</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the transformed string or NULL on error</td></tr></tbody></table></div></div>
+        <hr/>
+      </div>
+    </div>
+  </body>
+</html>

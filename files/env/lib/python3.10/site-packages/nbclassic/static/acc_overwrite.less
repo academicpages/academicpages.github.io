@@ -1,0 +1,61 @@
+//This is file created for overwriting some of bootstrap element color in order to satisfiy the color contrast greater than 4.5:1.
+
+.btn-danger{
+    color: #ffffff;
+    background-color: #df0404;
+    border-color: #df0404;
+}
+
+.btn-warning{
+    color: #ffffff;
+    background-color:#b46102;
+    border-color: #b46102;
+}
+
+@link-color: #296eaa;
+
+.close {
+    float: right;
+    font-size: (@font-size-base * 1.5);
+    font-weight: @close-font-weight;
+    line-height: 1;
+    color: @close-color;
+    text-shadow: @close-text-shadow;
+    .opacity(.6);
+  
+    &:hover,
+    &:focus {
+      color: @close-color;
+      text-decoration: none;
+      cursor: pointer;
+      .opacity(1.0);
+}  button& {
+    padding: 0;
+    cursor: pointer;
+    background: transparent;
+    border: 0;
+    -webkit-appearance: none;
+    appearance: none;
+  }
+}
+
+.navbar-nav {
+    > li > a {
+      color: @navbar-default-link-color;
+      // To make keyboard focus clearly visible on the Controls(File,Edit,View,Insert,Cell...etc)present on the menubar.
+      //&:hover, //To use browser's hover default value 
+      &:focus {
+      /* -webkit-focus-ring-color = '#5B9DD9' */
+      outline: -webkit-focus-ring-color auto 5px;
+     // color: @navbar-default-link-hover-color;
+     // background-color: @navbar-default-link-hover-bg;
+      }
+    }
+}
+
+.menu_focus_highlight{
+  a:focus {
+    outline: -webkit-focus-ring-color auto 5px;
+}
+}
+

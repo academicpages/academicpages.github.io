@@ -1,0 +1,13 @@
+flit_core bundles the 'tomli' TOML parser, to avoid a bootstrapping problem.
+tomli is packaged using Flit, so there would be a dependency cycle when building
+from source. Vendoring a copy of tomli avoids this. The code in tomli is under
+the MIT license, and the LICENSE file is in the .dist-info folder.
+
+If you want to unbundle tomli and rely on it as a separate package, you can
+replace the package with Python code doing 'from tomli import *'. You will
+probably need to work around the dependency cycle between flit_core and tomli.
+
+Bundling a TOML parser should be a special case - I don't plan on bundling
+anything else in flit_core (or depending on any other packages).
+I hope that a TOML parser will be added to the Python standard library, and then
+this bundled parser will go away.

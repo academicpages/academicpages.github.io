@@ -1,0 +1,93 @@
+{% extends "page.html" %}
+
+{% block title %}{{ page_title }}{% endblock %}
+
+{% block stylesheets %}
+  {{ super() }}
+
+  <style>
+    body {
+      background-color: var(--jp-layout-color0);
+    }
+
+    .list-header {
+      width: 80%;
+      margin-top: 50px;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 0px;
+      border-style: solid;
+      border-width: var(--jp-border-width);
+      border-color: var(--jp-border-color2);
+      border-bottom: none;
+      background-color: var(--jp-layout-color2)
+    }
+
+    .list-header-text {
+      color: var(--jp-ui-font-color0);
+      font-size: var(--jp-ui-font-size1);
+      padding: 10px
+    }
+
+    .voila-notebooks {
+      background-color: var(--jp-layout-color1);
+      width: 80%;
+      margin: auto;
+      padding: 0px;
+      border-style: solid;
+      border-width: var(--jp-border-width);
+      border-color: var(--jp-border-color0);
+      border-radius: var(--jp-border-radius);
+    }
+
+    .voila-notebooks > li {
+      color: var(--jp-ui-font-color1);
+      list-style: none;
+      border-bottom-style: solid;
+      border-bottom-width: var(--jp-border-width);
+      border-bottom-color: var(--jp-border-color0);
+    }
+
+    .voila-notebooks > li:hover {
+      background-color: var(--jp-layout-color2);
+    }
+
+    .voila-notebooks > li:last-child {
+      border: none
+    }
+
+    .voila-notebooks > li > a {
+      display: block;
+      width: 100%;
+      height: 100%;
+      padding: 10px;
+    }
+
+    .voila-notebooks > li > a > i {
+      padding: 0 10px
+    }
+  </style>
+{% endblock %}
+
+{% block body %}
+  <div class="list-header">
+      <div class="list-header-text">
+          Select items to open with Voilà.
+      </div>
+  </div>
+
+  <ul class="voila-notebooks">
+    {% if breadcrumbs|length > 1: %}
+      <li><a href="{{ breadcrumbs[-2][0] }}?{{ query }}"><i class="fa fa-folder"></i>..</a></li>
+    {% endif %}
+
+    {% for content in contents.content %}
+      {% if content.type in ['notebook', 'file'] %}
+        <li><a href="{{ base_url }}voila/render/{{ content.path }}?{{ query }}"><i class="fa fa-book"></i>{{content.name}}</a></li>
+      {% endif %}
+      {% if content.type == 'directory' %}
+        <li><a href="{{ base_url }}voila/tree/{{ content.path }}?{{ query }}"><i class="fa fa-folder"></i>{{content.name}}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endblock %}

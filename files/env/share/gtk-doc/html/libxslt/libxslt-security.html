@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>security: interface for the libxslt security framework</title>
+    <meta name="generator" content="Libxml2 devhelp stylesheet"/>
+    <link rel="start" href="index.html" title="libxslt Reference Manual"/>
+    <link rel="up" href="general.html" title="API"/>
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <link rel="chapter" href="general.html" title="API"/>
+  </head>
+  <body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
+    <table class="navigation" width="100%" summary="Navigation header" cellpadding="2" cellspacing="2">
+      <tr valign="middle">
+        <td>
+          <a accesskey="p" href="libxslt-preproc.html">
+            <img src="left.png" width="24" height="24" border="0" alt="Prev"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="u" href="general.html">
+            <img src="up.png" width="24" height="24" border="0" alt="Up"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="h" href="index.html">
+            <img src="home.png" width="24" height="24" border="0" alt="Home"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="n" href="libxslt-templates.html">
+            <img src="right.png" width="24" height="24" border="0" alt="Next"/>
+          </a>
+        </td>
+        <th width="100%" align="center">libxslt Reference Manual</th>
+      </tr>
+    </table>
+    <h2>
+      <span class="refentrytitle">security</span>
+    </h2>
+    <p>security - interface for the libxslt security framework</p>
+    <p>the libxslt security framework allow to restrict the access to new resources (file or URL) from the stylesheet at runtime. </p>
+    <p>Author(s): Daniel Veillard </p>
+    <div class="refsynopsisdiv">
+      <h2>Synopsis</h2>
+      <pre class="synopsis">typedef struct _xsltSecurityPrefs <a href="#xsltSecurityPrefs">xsltSecurityPrefs</a>;
+typedef <a href="libxslt-security.html#xsltSecurityPrefs">xsltSecurityPrefs</a> * <a href="#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a>;
+typedef enum <a href="#xsltSecurityOption">xsltSecurityOption</a>;
+<a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a>	<a href="#xsltNewSecurityPrefs">xsltNewSecurityPrefs</a>	(void);
+typedef int <a href="#xsltSecurityCheck">xsltSecurityCheck</a>		(<a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a> sec, <br/>					 <a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const char * value);
+int	<a href="#xsltSetSecurityPrefs">xsltSetSecurityPrefs</a>		(<a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a> sec, <br/>					 <a href="libxslt-security.html#xsltSecurityOption">xsltSecurityOption</a> option, <br/>					 <a href="libxslt-security.html#xsltSecurityCheck">xsltSecurityCheck</a> func);
+<a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a>	<a href="#xsltGetDefaultSecurityPrefs">xsltGetDefaultSecurityPrefs</a>	(void);
+void	<a href="#xsltFreeSecurityPrefs">xsltFreeSecurityPrefs</a>		(<a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a> sec);
+void	<a href="#xsltSetDefaultSecurityPrefs">xsltSetDefaultSecurityPrefs</a>	(<a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a> sec);
+int	<a href="#xsltSetCtxtSecurityPrefs">xsltSetCtxtSecurityPrefs</a>	(<a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a> sec, <br/>					 <a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt);
+<a href="libxslt-security.html#xsltSecurityCheck">xsltSecurityCheck</a>	<a href="#xsltGetSecurityPrefs">xsltGetSecurityPrefs</a>	(<a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a> sec, <br/>						 <a href="libxslt-security.html#xsltSecurityOption">xsltSecurityOption</a> option);
+int	<a href="#xsltSecurityAllow">xsltSecurityAllow</a>		(<a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a> sec, <br/>					 <a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const char * value);
+int	<a href="#xsltCheckWrite">xsltCheckWrite</a>			(<a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a> sec, <br/>					 <a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const xmlChar * URL);
+int	<a href="#xsltCheckRead">xsltCheckRead</a>			(<a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a> sec, <br/>					 <a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const xmlChar * URL);
+int	<a href="#xsltSecurityForbid">xsltSecurityForbid</a>		(<a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a> sec, <br/>					 <a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const char * value);
+</pre>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Description</h2>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Details</h2>
+      <div class="refsect2" lang="en">
+        <div class="refsect2" lang="en"><h3><a name="xsltSecurityOption">Enum </a>xsltSecurityOption</h3><pre class="programlisting">enum <a href="#xsltSecurityOption">xsltSecurityOption</a> {
+    <a name="XSLT_SECPREF_READ_FILE">XSLT_SECPREF_READ_FILE</a> = 1
+    <a name="XSLT_SECPREF_WRITE_FILE">XSLT_SECPREF_WRITE_FILE</a> = 2
+    <a name="XSLT_SECPREF_CREATE_DIRECTORY">XSLT_SECPREF_CREATE_DIRECTORY</a> = 3
+    <a name="XSLT_SECPREF_READ_NETWORK">XSLT_SECPREF_READ_NETWORK</a> = 4
+    <a name="XSLT_SECPREF_WRITE_NETWORK">XSLT_SECPREF_WRITE_NETWORK</a> = 5
+};
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSecurityPrefs">Structure </a>xsltSecurityPrefs</h3><pre class="programlisting">struct _xsltSecurityPrefs {
+The content of this structure is not made public by the API.
+} xsltSecurityPrefs;
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSecurityPrefsPtr">Typedef </a>xsltSecurityPrefsPtr</h3><pre class="programlisting"><a href="libxslt-security.html#xsltSecurityPrefs">xsltSecurityPrefs</a> * xsltSecurityPrefsPtr;
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSecurityCheck"/>Function type xsltSecurityCheck</h3><pre class="programlisting">int	xsltSecurityCheck		(<a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a> sec, <br/>					 <a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const char * value)<br/>
+</pre><p>User provided function to check the value of a string like a file path or an URL ...</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>sec</tt></i>:</span></td><td/></tr><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td/></tr><tr><td><span class="term"><i><tt>value</tt></i>:</span></td><td/></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td/></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltCheckRead"/>xsltCheckRead ()</h3><pre class="programlisting">int	xsltCheckRead			(<a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a> sec, <br/>					 <a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const xmlChar * URL)<br/>
+</pre><p>Check if the resource is allowed to be read</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>sec</tt></i>:</span></td><td>the security options</td></tr><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>URL</tt></i>:</span></td><td>the resource to be read</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>1 if read is allowed, 0 if not and -1 in case or error.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltCheckWrite"/>xsltCheckWrite ()</h3><pre class="programlisting">int	xsltCheckWrite			(<a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a> sec, <br/>					 <a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const xmlChar * URL)<br/>
+</pre><p>Check if the resource is allowed to be written, if necessary makes some preliminary work like creating directories</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>sec</tt></i>:</span></td><td>the security options</td></tr><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>URL</tt></i>:</span></td><td>the resource to be written</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>1 if write is allowed, 0 if not and -1 in case or error.</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltFreeSecurityPrefs"/>xsltFreeSecurityPrefs ()</h3><pre class="programlisting">void	xsltFreeSecurityPrefs		(<a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a> sec)<br/>
+</pre><p>Free up a security preference block</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>sec</tt></i>:</span></td><td>the security block to free</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltGetDefaultSecurityPrefs"/>xsltGetDefaultSecurityPrefs ()</h3><pre class="programlisting"><a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a>	xsltGetDefaultSecurityPrefs	(void)<br/>
+</pre><p>Get the default security preference application-wide</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>the current <a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a> in use or NULL if none</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltGetSecurityPrefs"/>xsltGetSecurityPrefs ()</h3><pre class="programlisting"><a href="libxslt-security.html#xsltSecurityCheck">xsltSecurityCheck</a>	xsltGetSecurityPrefs	(<a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a> sec, <br/>						 <a href="libxslt-security.html#xsltSecurityOption">xsltSecurityOption</a> option)<br/>
+</pre><p>Lookup the security option to get the callback checking function</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>sec</tt></i>:</span></td><td>the security block to update</td></tr><tr><td><span class="term"><i><tt>option</tt></i>:</span></td><td>the option to lookup</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>NULL if not found, the function otherwise</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltNewSecurityPrefs"/>xsltNewSecurityPrefs ()</h3><pre class="programlisting"><a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a>	xsltNewSecurityPrefs	(void)<br/>
+</pre><p>Create a new security preference block</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>a pointer to the new block or NULL in case of error</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSecurityAllow"/>xsltSecurityAllow ()</h3><pre class="programlisting">int	xsltSecurityAllow		(<a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a> sec, <br/>					 <a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const char * value)<br/>
+</pre><p>Function used to always allow an operation</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>sec</tt></i>:</span></td><td>the security block to use</td></tr><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>value</tt></i>:</span></td><td>unused</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>1 always</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSecurityForbid"/>xsltSecurityForbid ()</h3><pre class="programlisting">int	xsltSecurityForbid		(<a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a> sec, <br/>					 <a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt, <br/>					 const char * value)<br/>
+</pre><p>Function used to always forbid an operation</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>sec</tt></i>:</span></td><td>the security block to use</td></tr><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>value</tt></i>:</span></td><td>unused</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>0 always</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSetCtxtSecurityPrefs"/>xsltSetCtxtSecurityPrefs ()</h3><pre class="programlisting">int	xsltSetCtxtSecurityPrefs	(<a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a> sec, <br/>					 <a href="libxslt-xsltInternals.html#xsltTransformContextPtr">xsltTransformContextPtr</a> ctxt)<br/>
+</pre><p>Set the security preference for a specific transformation</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>sec</tt></i>:</span></td><td>the security block to use</td></tr><tr><td><span class="term"><i><tt>ctxt</tt></i>:</span></td><td>an XSLT transformation context</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>-1 in case of error, 0 otherwise</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSetDefaultSecurityPrefs"/>xsltSetDefaultSecurityPrefs ()</h3><pre class="programlisting">void	xsltSetDefaultSecurityPrefs	(<a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a> sec)<br/>
+</pre><p>Set the default security preference application-wide</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>sec</tt></i>:</span></td><td>the security block to use</td></tr></tbody></table></div></div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltSetSecurityPrefs"/>xsltSetSecurityPrefs ()</h3><pre class="programlisting">int	xsltSetSecurityPrefs		(<a href="libxslt-security.html#xsltSecurityPrefsPtr">xsltSecurityPrefsPtr</a> sec, <br/>					 <a href="libxslt-security.html#xsltSecurityOption">xsltSecurityOption</a> option, <br/>					 <a href="libxslt-security.html#xsltSecurityCheck">xsltSecurityCheck</a> func)<br/>
+</pre><p>Update the security option to use the new callback checking function</p>
+<div class="variablelist"><table border="0"><col align="left"/><tbody><tr><td><span class="term"><i><tt>sec</tt></i>:</span></td><td>the security block to update</td></tr><tr><td><span class="term"><i><tt>option</tt></i>:</span></td><td>the option to update</td></tr><tr><td><span class="term"><i><tt>func</tt></i>:</span></td><td>the user callback to use for this option</td></tr><tr><td><span class="term"><i><tt>Returns</tt></i>:</span></td><td>-1 in case of error, 0 otherwise</td></tr></tbody></table></div></div>
+        <hr/>
+      </div>
+    </div>
+  </body>
+</html>

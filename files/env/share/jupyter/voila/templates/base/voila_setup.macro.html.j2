@@ -1,0 +1,38 @@
+{# Macro for loading the notebook extensions #}
+{%- macro voila_setup_nbextensions(base_url, nbextensions) -%}
+<script>
+  requirejs.config({ baseUrl: '{{base_url}}voila/', waitSeconds: 30});
+  window.voila_js_url = "{{ static_url('voila.js')}}";
+  requirejs(["{{ static_url('main.js') }}"]);
+
+  // Loading classic notebook extensions.
+  {% for ext in nbextensions -%}
+  requirejs(["{{base_url}}voila/nbextensions/{{ ext }}.js"],
+    function() {
+      console.log("Loaded classic notebook extension \"{{ ext }}\".");
+    },
+    function() {
+      console.error("Failed to load classic notebook extension \"{{ ext }}\".");
+    }
+  );
+  {% endfor %}
+</script>
+{%- endmacro %}
+
+{# For backward compatibility #}
+{%- macro voila_setup(base_url, nbextensions) -%}
+{{ voila_setup_nbextensions(base_url, nbextensions) }}
+{%- endmacro %}
+
+{# Helper functions for updating the loading text #}
+{%- macro voila_setup_helper_functions() -%}
+<script>
+var voila_process = function(cell_index, cell_count) {
+  var el = document.getElementById("loading_text");
+  el.innerHTML = `Executing ${cell_index} of ${cell_count}`;
+}
+var voila_heartbeat = function() {
+  console.log('Ok, voila is still executing...');
+}
+</script>
+{%- endmacro %}

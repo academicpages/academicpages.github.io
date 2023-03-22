@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: widgetsnbextension
+Version: 3.5.2
+Summary: IPython HTML widgets for Jupyter
+Home-page: http://ipython.org
+Author: IPython Development Team
+Author-email: ipython-dev@scipy.org
+License: BSD
+Keywords: Interactive,Interpreter,Shell,Web
+Platform: Linux
+Platform: Mac OS X
+Platform: Windows
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Framework :: Jupyter
+License-File: LICENSE
+Requires-Dist: notebook (>=4.4.1)
+
+
+.. image:: https://img.shields.io/pypi/v/widgetsnbextension.svg
+   :target: https://pypi.python.org/pypi/widgetsnbextension/
+   :alt: Version Number
+
+.. image:: https://img.shields.io/pypi/dm/widgetsnbextension.svg
+   :target: https://pypi.python.org/pypi/widgetsnbextension/
+   :alt: Number of PyPI downloads
+
+Interactive HTML Widgets
+========================
+
+Interactive HTML widgets for Jupyter notebooks.
+
+Usage
+=====
+
+Install the corresponding package for your kernel.  i.e. Python users would also
+install `ipywidgets`.  Refer to that package's documentation for usage
+instructions.
+
+

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" /><style type="text/css">
+TD {font-family: Verdana,Arial,Helvetica}
+BODY {font-family: Verdana,Arial,Helvetica; margin-top: 2em; margin-left: 0em; margin-right: 0em}
+H1 {font-family: Verdana,Arial,Helvetica}
+H2 {font-family: Verdana,Arial,Helvetica}
+H3 {font-family: Verdana,Arial,Helvetica}
+A:link, A:visited, A:active { text-decoration: underline }
+    </style><title>Python and bindings</title></head><body bgcolor="#8b7765" text="#000000" link="#a06060" vlink="#000000"><table border="0" width="100%" cellpadding="5" cellspacing="0" align="center"><tr><td width="120"><a href="http://swpat.ffii.org/"><img src="epatents.png" alt="Action against software patents" /></a></td><td width="180"><a href="http://www.gnome.org/"><img src="gnome2.png" alt="GNOME2 Logo" /></a><a href="http://www.w3.org/Status"><img src="w3c.png" alt="W3C logo" /></a><a href="http://www.redhat.com"><img src="redhat.gif" alt="Red Hat Logo" /></a><div align="left"><a href="http://xmlsoft.org/XSLT/"><img src="Libxslt-Logo-180x168.gif" alt="Made with Libxslt Logo" /></a></div></td><td><table border="0" width="90%" cellpadding="2" cellspacing="0" align="center" bgcolor="#000000"><tr><td><table width="100%" border="0" cellspacing="1" cellpadding="3" bgcolor="#fffacd"><tr><td align="center"><h1>The XSLT C library for GNOME</h1><h2>Python and bindings</h2></td></tr></table></td></tr></table></td></tr></table><table border="0" cellpadding="4" cellspacing="0" width="100%" align="center"><tr><td bgcolor="#8b7765"><table border="0" cellspacing="0" cellpadding="2" width="100%"><tr><td valign="top" width="200" bgcolor="#8b7765"><table border="0" cellspacing="0" cellpadding="1" width="100%" bgcolor="#000000"><tr><td><table width="100%" border="0" cellspacing="1" cellpadding="3"><tr><td colspan="1" bgcolor="#eecfa1" align="center"><center><b>Main Menu</b></center></td></tr><tr><td bgcolor="#fffacd"><form action="search.php" enctype="application/x-www-form-urlencoded" method="get"><input name="query" type="text" size="20" value="" /><input name="submit" type="submit" value="Search ..." /></form><ul><li><a href="index.html">Home</a></li><li><a href="intro.html">Introduction</a></li><li><a href="docs.html">Documentation</a></li><li><a href="bugs.html">Reporting bugs and getting help</a></li><li><a href="help.html">How to help</a></li><li><a href="downloads.html">Downloads</a></li><li><a href="FAQ.html">FAQ</a></li><li><a href="news.html">News</a></li><li><a href="xsltproc2.html">The xsltproc tool</a></li><li><a href="docbook.html">DocBook</a></li><li><a href="API.html">The programming API</a></li><li><a href="python.html">Python and bindings</a></li><li><a href="internals.html">Library internals</a></li><li><a href="extensions.html">Writing extensions</a></li><li><a href="contribs.html">Contributions</a></li><li><a href="EXSLT/index.html" style="font-weight:bold">libexslt</a></li><li><a href="xslt.html">flat page</a>, <a href="site.xsl">stylesheet</a></li><li><a href="html/index.html" style="font-weight:bold">API Menu</a></li><li><a href="ChangeLog.html">ChangeLog</a></li></ul></td></tr></table><table width="100%" border="0" cellspacing="1" cellpadding="3"><tr><td colspan="1" bgcolor="#eecfa1" align="center"><center><b>Related links</b></center></td></tr><tr><td bgcolor="#fffacd"><ul><li><a href="tutorial/libxslttutorial.html">Tutorial</a>,
+          <a href="tutorial2/libxslt_pipes.html">Tutorial2</a></li><li><a href="xsltproc.html">Man page for xsltproc</a></li><li><a href="http://mail.gnome.org/archives/xslt/">Mail archive</a></li><li><a href="http://xmlsoft.org/">XML libxml2</a></li><li><a href="ftp://xmlsoft.org/">FTP</a></li><li><a href="http://www.zlatkovic.com/projects/libxml/">Windows binaries</a></li><li><a href="http://garypennington.net/libxml2/">Solaris binaries</a></li><li><a href="http://www.explain.com.au/oss/libxml2xslt.html">MacOsX binaries</a></li><li><a href="https://gitlab.gnome.org/GNOME/libxslt/issues">Bug Tracker</a></li><li><a href="http://codespeak.net/lxml/">lxml Python bindings</a></li><li><a href="http://cpan.uwinnipeg.ca/dist/XML-LibXSLT">Perl XSLT bindings</a></li><li><a href="http://www.zend.com/php5/articles/php5-xmlphp.php#Heading17">XSLT with PHP</a></li><li><a href="http://www.mod-xslt2.com/">Apache module</a></li><li><a href="http://sourceforge.net/projects/libxml2-pas/">Pascal bindings</a></li><li><a href="http://xsldbg.sourceforge.net/">Xsldbg Debugger</a></li></ul></td></tr></table><table width="100%" border="0" cellspacing="1" cellpadding="3"><tr><td colspan="1" bgcolor="#eecfa1" align="center"><center><b>API Indexes</b></center></td></tr><tr><td bgcolor="#fffacd"><ul><li><a href="APIchunk0.html">Alphabetic</a></li><li><a href="APIconstructors.html">Constructors</a></li><li><a href="APIfunctions.html">Functions/Types</a></li><li><a href="APIfiles.html">Modules</a></li><li><a href="APIsymbols.html">Symbols</a></li></ul></td></tr></table></td></tr></table></td><td valign="top" bgcolor="#8b7765"><table border="0" cellspacing="0" cellpadding="1" width="100%"><tr><td><table border="0" cellspacing="0" cellpadding="1" width="100%" bgcolor="#000000"><tr><td><table border="0" cellpadding="3" cellspacing="1" width="100%"><tr><td bgcolor="#fffacd"><p>There is a number of language bindings and wrappers available for libxml2,
+the list below is not exhaustive. Please contact the <a href="http://mail.gnome.org/mailman/listinfo/xml-bindings">xml-bindings@gnome.org</a>
+(<a href="http://mail.gnome.org/archives/xml-bindings/">archives</a>) in
+order to get updates to this list or to discuss the specific topic of libxml2
+or libxslt wrappers or bindings:</p><ul>
+  <li><a href="http://mail.gnome.org/archives/xml/2001-March/msg00014.html">Matt
+    Sergeant</a> developped <a href="http://axkit.org/download/">XML::LibXML
+    and XML::LibXSLT</a>, Perl wrappers for libxml2/libxslt as part of the <a href="http://axkit.com/">AxKit XML application server</a></li>
+  <li><a href="mailto:dkuhlman@cutter.rexx.com">Dave Kuhlman</a> provides and
+    earlier version of the libxml/libxslt <a href="http://www.rexx.com/~dkuhlman">wrappers for Python</a></li>
+  <li>Petr Kozelka provides <a href="http://sourceforge.net/projects/libxml2-pas">Pascal units to glue
+    libxml2</a> with Kylix, Delphi and other Pascal compilers</li>
+  <li>Wai-Sun "Squidster" Chia provides <a href="http://www.rubycolor.org/arc/redist/">bindings for Ruby</a>  and
+    libxml2 bindings are also available in Ruby through the <a href="http://libgdome-ruby.berlios.de/">libgdome-ruby</a> module
+    maintained by Tobias Peters.</li>
+  <li>Steve Ball and contributors maintains <a href="http://tclxml.sourceforge.net/">libxml2 and libxslt bindings for
+    Tcl</a></li>
+  <li><a href="mailto:xmlwrapp@pmade.org">Peter Jones</a> maintains C++
+    bindings for libxslt within <a href="http://pmade.org/pjones/software/xmlwrapp/">xmlwrapp</a></li>
+  <li><a href="phillim2@comcast.net">Mike Phillips</a> provides a module
+    using <a href="http://siasl.dyndns.org/projects/projects.html">libxslt
+    for PHP</a>.</li>
+  <li><a href="http://savannah.gnu.org/projects/classpathx/">LibxmlJ</a> is
+    an effort to create a 100% JAXP-compatible Java wrapper for libxml2 and
+    libxslt as part of GNU ClasspathX project.</li>
+  <li>Patrick McPhee provides Rexx bindings fof libxml2 and libxslt, look for
+    <a href="http://www.interlog.com/~ptjm/software.html">RexxXML</a>.</li>
+  <li><a href="http://www.satimage.fr/software/en/xml_suite.html">Satimage</a>
+    provides <a href="http://www.satimage.fr/software/en/downloads_osaxen.html">XMLLib
+    osax</a>. This is an osax for Mac OS X with a set of commands to
+    implement in AppleScript the XML DOM, XPATH and XSLT.</li>
+</ul><p>The libxslt Python module depends on the <a href="http://xmlsoft.org/python.html">libxml2 Python</a> module.</p><p>The distribution includes a set of Python bindings, which are guaranteed to
+be maintained as part of the library in the future, though the Python
+interface have not yet reached the completeness of the C API.</p><p><a href="mailto:stephane.bidoul@softwareag.com">Stéphane Bidoul</a>
+maintains <a href="http://users.skynet.be/sbi/libxml-python/">a Windows port
+of the Python bindings</a>.</p><p>Note to people interested in building bindings, the API is formalized as
+<a href="libxslt-api.xml">an XML API description file</a> which allows to
+automate a large part of the Python bindings, this includes function
+descriptions, enums, structures, typedefs, etc... The Python script used to
+build the bindings is python/generator.py in the source distribution.</p><p>To install the Python bindings there are 2 options:</p><ul>
+  <li>If you use an RPM based distribution, simply install the <a href="http://rpmfind.net/linux/rpm2html/search.php?query=libxml2-python">libxml2-python
+    RPM</a> and the <a href="http://rpmfind.net/linux/rpm2html/search.php?query=libxslt-python">libxslt-python
+    RPM</a>.</li>
+  <li>Otherwise use the <a href="ftp://xmlsoft.org/libxml2/python/">libxml2-python
+    module distribution</a> corresponding to your installed version of
+    libxml2 and libxslt. Note that to install it you will need both libxml2
+    and libxslt installed and run "python setup.py build install" in the
+    module tree.</li>
+</ul><p>The distribution includes a set of examples and regression tests for the
+python bindings in the <code>python/tests</code> directory. Here are some
+excepts from those tests:</p><h3>basic.py:</h3><p>This is a basic test of XSLT interfaces: loading a stylesheet and a
+document, transforming the document and saving the result.</p><pre>import libxml2
+import libxslt
+
+styledoc = libxml2.parseFile("test.xsl")
+style = libxslt.parseStylesheetDoc(styledoc)
+doc = libxml2.parseFile("test.xml")
+result = style.applyStylesheet(doc, None)
+style.saveResultToFilename("foo", result, 0)
+style.freeStylesheet()
+doc.freeDoc()
+result.freeDoc()</pre><p>The Python module is called libxslt, you will also need the libxml2 module
+for the operations on XML trees. Let's have a look at the objects manipulated
+in that example and how is the processing done:</p><ul>
+  <li><code>styledoc</code> : is a libxml2 document tree. It is obtained by
+    parsing the XML file "test.xsl" containing the stylesheet.</li>
+  <li><code>style</code> : this is a precompiled stylesheet ready to be used
+    by the following transformations (note the plural form, multiple
+    transformations can resuse the same stylesheet).</li>
+  <li><code>doc</code> : this is the document to apply the transformation to.
+    In this case it is simply generated by parsing it from a file but any
+    other processing is possible as long as one get a libxml2 Doc. Note that
+    HTML tree are suitable for XSLT processing in libxslt. This is actually
+    how this page is generated !</li>
+  <li><code>result</code> : this is a document generated by applying the
+    stylesheet to the document. Note that some of the stylesheet information
+    may be related to the serialization of that document and as in this
+    example a specific saveResultToFilename() method of the stylesheet should
+    be used to save it to a file (in that case to "foo").</li>
+</ul><p>Also note the need to explicitely deallocate documents with freeDoc()
+except for the stylesheet document which is freed when its compiled form is
+garbage collected.</p><h3>extfunc.py:</h3><p>This one is a far more complex test. It shows how to modify the behaviour
+of an XSLT transformation by passing parameters and how to extend the XSLT
+engine with functions defined in python:</p><pre>import libxml2
+import libxslt
+import string
+
+nodeName = None
+def f(ctx, str):
+    global nodeName
+
+    #
+    # Small check to verify the context is correcly accessed
+    #
+    try:
+        pctxt = libxslt.xpathParserContext(_obj=ctx)
+        ctxt = pctxt.context()
+        tctxt = ctxt.transformContext()
+        nodeName = tctxt.insertNode().name
+    except:
+        pass
+
+    return string.upper(str)
+
+libxslt.registerExtModuleFunction("foo", "http://example.com/foo", f)</pre><p>This code defines and register an extension function. Note that the
+function can be bound to any name (foo) and how the binding is also
+associated to a namespace name "http://example.com/foo". From an XSLT point
+of view the function just returns an upper case version of the string passed
+as a parameter. But the first part of the function also read some contextual
+information from the current XSLT processing environement, in that case it
+looks for the current insertion node in the resulting output (either the
+resulting document or the Result Value Tree being generated), and saves it to
+a global variable for checking that the access actually worked.</p><p>For more information on the xpathParserContext and transformContext
+objects check the <a href="internals.html">libray internals description</a>.
+The pctxt is actually an object from a class derived from the
+libxml2.xpathParserContext() with just a couple more properties including the
+possibility to look up the XSLT transformation context from the XPath
+context.</p><pre>styledoc = libxml2.parseDoc("""
+&lt;xsl:stylesheet version='1.0'
+  xmlns:xsl='http://www.w3.org/1999/XSL/Transform'
+  xmlns:foo='http://example.com/foo'
+  xsl:exclude-result-prefixes='foo'&gt;
+
+  &lt;xsl:param name='bar'&gt;failure&lt;/xsl:param&gt;
+  &lt;xsl:template match='/'&gt;
+    &lt;article&gt;&lt;xsl:value-of select='foo:foo($bar)'/&gt;&lt;/article&gt;
+  &lt;/xsl:template&gt;
+&lt;/xsl:stylesheet&gt;
+""")</pre><p>Here is a simple example of how to read an XML document from a python
+string with libxml2. Note how this stylesheet:</p><ul>
+  <li>Uses a global parameter <code>bar</code></li>
+  <li>Reference the extension function f</li>
+  <li>how the Namespace name "http://example.com/foo" has to be bound to a
+    prefix</li>
+  <li>how that prefix is excluded from the output</li>
+  <li>how the function is called from the select</li>
+</ul><pre>style = libxslt.parseStylesheetDoc(styledoc)
+doc = libxml2.parseDoc("&lt;doc/&gt;")
+result = style.applyStylesheet(doc, { "bar": "'success'" })
+style.freeStylesheet()
+doc.freeDoc()</pre><p>that part is identical, to the basic example except that the
+transformation is passed a dictionary of parameters. Note that the string
+passed "success" had to be quoted, otherwise it is interpreted as an XPath
+query for the childs of root named "success".</p><pre>root = result.children
+if root.name != "article":
+    print "Unexpected root node name"
+    sys.exit(1)
+if root.content != "SUCCESS":
+    print "Unexpected root node content, extension function failed"
+    sys.exit(1)
+if nodeName != 'article':
+    print "The function callback failed to access its context"
+    sys.exit(1)
+
+result.freeDoc()</pre><p>That part just verifies that the transformation worked, that the parameter
+got properly passed to the engine, that the function f() got called and that
+it properly accessed the context to find the name of the insertion node.</p><h3>pyxsltproc.py:</h3><p>this module is a bit too long to be described there but it is basically a
+rewrite of the xsltproc command line interface of libxslt in Python. It
+provides nearly all the functionalities of xsltproc and can be used as a base
+module to write Python customized XSLT processors. One of the thing to notice
+are:</p><pre>libxml2.lineNumbersDefault(1)
+libxml2.substituteEntitiesDefault(1)</pre><p>those two calls in the main() function are needed to force the libxml2
+processor to generate DOM trees compliant with the XPath data model.</p><p><a href="bugs.html">Daniel Veillard</a></p></td></tr></table></td></tr></table></td></tr></table></td></tr></table></td></tr></table></body></html>

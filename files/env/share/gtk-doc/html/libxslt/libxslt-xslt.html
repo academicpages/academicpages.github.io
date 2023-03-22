@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>xslt: Interfaces, constants and types related to the XSLT engine</title>
+    <meta name="generator" content="Libxml2 devhelp stylesheet"/>
+    <link rel="start" href="index.html" title="libxslt Reference Manual"/>
+    <link rel="up" href="general.html" title="API"/>
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    <link rel="chapter" href="general.html" title="API"/>
+  </head>
+  <body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF">
+    <table class="navigation" width="100%" summary="Navigation header" cellpadding="2" cellspacing="2">
+      <tr valign="middle">
+        <td>
+          <a accesskey="p" href="libxslt-variables.html">
+            <img src="left.png" width="24" height="24" border="0" alt="Prev"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="u" href="general.html">
+            <img src="up.png" width="24" height="24" border="0" alt="Up"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="h" href="index.html">
+            <img src="home.png" width="24" height="24" border="0" alt="Home"/>
+          </a>
+        </td>
+        <td>
+          <a accesskey="n" href="libxslt-xsltInternals.html">
+            <img src="right.png" width="24" height="24" border="0" alt="Next"/>
+          </a>
+        </td>
+        <th width="100%" align="center">libxslt Reference Manual</th>
+      </tr>
+    </table>
+    <h2>
+      <span class="refentrytitle">xslt</span>
+    </h2>
+    <p>xslt - Interfaces, constants and types related to the XSLT engine</p>
+    <p>Interfaces, constants and types related to the XSLT engine </p>
+    <p>Author(s): Daniel Veillard </p>
+    <div class="refsynopsisdiv">
+      <h2>Synopsis</h2>
+      <pre class="synopsis">#define <a href="#XSLT_DEFAULT_VERSION">XSLT_DEFAULT_VERSION</a>;
+#define <a href="#XSLT_DEFAULT_VENDOR">XSLT_DEFAULT_VENDOR</a>;
+#define <a href="#XSLT_PARSE_OPTIONS">XSLT_PARSE_OPTIONS</a>;
+#define <a href="#XSLT_DEFAULT_URL">XSLT_DEFAULT_URL</a>;
+#define <a href="#XSLT_NAMESPACE">XSLT_NAMESPACE</a>;
+void	<a href="#xsltCleanupGlobals">xsltCleanupGlobals</a>		(void);
+void	<a href="#xsltInit">xsltInit</a>			(void);
+</pre>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Description</h2>
+    </div>
+    <div class="refsect1" lang="en">
+      <h2>Details</h2>
+      <div class="refsect2" lang="en">
+        <div class="refsect2" lang="en"><h3><a name="XSLT_DEFAULT_URL">Macro </a>XSLT_DEFAULT_URL</h3><pre class="programlisting">#define <a href="#XSLT_DEFAULT_URL">XSLT_DEFAULT_URL</a>;
+</pre><p>The XSLT "vendor" URL for this processor.</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="XSLT_DEFAULT_VENDOR">Macro </a>XSLT_DEFAULT_VENDOR</h3><pre class="programlisting">#define <a href="#XSLT_DEFAULT_VENDOR">XSLT_DEFAULT_VENDOR</a>;
+</pre><p>The XSLT "vendor" string for this processor.</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="XSLT_DEFAULT_VERSION">Macro </a>XSLT_DEFAULT_VERSION</h3><pre class="programlisting">#define <a href="#XSLT_DEFAULT_VERSION">XSLT_DEFAULT_VERSION</a>;
+</pre><p>The default version of XSLT supported.</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="XSLT_NAMESPACE">Macro </a>XSLT_NAMESPACE</h3><pre class="programlisting">#define <a href="#XSLT_NAMESPACE">XSLT_NAMESPACE</a>;
+</pre><p>The XSLT specification namespace.</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="XSLT_PARSE_OPTIONS">Macro </a>XSLT_PARSE_OPTIONS</h3><pre class="programlisting">#define <a href="#XSLT_PARSE_OPTIONS">XSLT_PARSE_OPTIONS</a>;
+</pre><p>The set of options to pass to an xmlReadxxx when loading files for XSLT consumption.</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltEngineVersion">Variable </a>xsltEngineVersion</h3><pre class="programlisting">const char * xsltEngineVersion;
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltLibxmlVersion">Variable </a>xsltLibxmlVersion</h3><pre class="programlisting">const int xsltLibxmlVersion;
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltLibxsltVersion">Variable </a>xsltLibxsltVersion</h3><pre class="programlisting">const int xsltLibxsltVersion;
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltMaxDepth">Variable </a>xsltMaxDepth</h3><pre class="programlisting">int xsltMaxDepth;
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltMaxVars">Variable </a>xsltMaxVars</h3><pre class="programlisting">int xsltMaxVars;
+</pre><p/>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltCleanupGlobals"/>xsltCleanupGlobals ()</h3><pre class="programlisting">void	xsltCleanupGlobals		(void)<br/>
+</pre><p>Unregister all global variables set up by the XSLT library</p>
+</div>
+        <hr/>
+        <div class="refsect2" lang="en"><h3><a name="xsltInit"/>xsltInit ()</h3><pre class="programlisting">void	xsltInit			(void)<br/>
+</pre><p>Initializes the processor (e.g. registers built-in extensions, etc.)</p>
+</div>
+        <hr/>
+      </div>
+    </div>
+  </body>
+</html>

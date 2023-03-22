@@ -1,0 +1,12 @@
+[build-system]
+requires = ["flit"]
+build-backend = "flit.buildapi"
+
+[tool.flit.metadata]
+module = "module1"
+author = "Sir Robin"
+author-email = "robin@camelot.uk"
+
+[tool.flit.sdist]
+include = ["doc"]
+exclude = ["doc/*.txt"]

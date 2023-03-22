@@ -1,0 +1,13 @@
+prefix=/Users/drew/siwelwerd.github.io/files/env
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+modules=1
+
+Name: libXML
+Version: 2.9.14
+Description: libXML library version2.
+Requires:
+Libs: -L${libdir} -lxml2
+Libs.private: -L/Users/drew/siwelwerd.github.io/files/env/lib -licui18n -licuuc -licudata -lpthread -L/Users/drew/siwelwerd.github.io/files/env/lib -lz -L/Users/drew/siwelwerd.github.io/files/env/lib -llzma -L/Users/drew/siwelwerd.github.io/files/env/lib -liconv -lm  
+Cflags: -I${includedir}/libxml2 -I/Users/drew/siwelwerd.github.io/files/env/include 

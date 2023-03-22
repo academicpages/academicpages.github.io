@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns="http://www.devhelp.net/book" title="libxslt Reference Manual" link="index.html" author="" name="libxslt">
+  <chapters>
+    <sub name="API" link="general.html">
+      <sub name="attributes" link="libxslt-attributes.html"/>
+      <sub name="documents" link="libxslt-documents.html"/>
+      <sub name="extensions" link="libxslt-extensions.html"/>
+      <sub name="extra" link="libxslt-extra.html"/>
+      <sub name="functions" link="libxslt-functions.html"/>
+      <sub name="imports" link="libxslt-imports.html"/>
+      <sub name="keys" link="libxslt-keys.html"/>
+      <sub name="namespaces" link="libxslt-namespaces.html"/>
+      <sub name="numbersInternals" link="libxslt-numbersInternals.html"/>
+      <sub name="pattern" link="libxslt-pattern.html"/>
+      <sub name="preproc" link="libxslt-preproc.html"/>
+      <sub name="security" link="libxslt-security.html"/>
+      <sub name="templates" link="libxslt-templates.html"/>
+      <sub name="transform" link="libxslt-transform.html"/>
+      <sub name="variables" link="libxslt-variables.html"/>
+      <sub name="xslt" link="libxslt-xslt.html"/>
+      <sub name="xsltInternals" link="libxslt-xsltInternals.html"/>
+      <sub name="xsltexports" link="libxslt-xsltexports.html"/>
+      <sub name="xsltlocale" link="libxslt-xsltlocale.html"/>
+      <sub name="xsltutils" link="libxslt-xsltutils.html"/>
+    </sub>
+  </chapters>
+  <functions>
+    <keyword type="macro" name="CHECK_STOPPED" link="libxslt-xsltInternals.html#CHECK_STOPPED"/>
+    <keyword type="macro" name="CHECK_STOPPED0" link="libxslt-xsltInternals.html#CHECK_STOPPED0"/>
+    <keyword type="macro" name="CHECK_STOPPEDE" link="libxslt-xsltInternals.html#CHECK_STOPPEDE"/>
+    <keyword type="macro" name="IS_XSLT_ATTR_FAST" link="libxslt-xsltInternals.html#IS_XSLT_ATTR_FAST"/>
+    <keyword type="macro" name="IS_XSLT_ELEM" link="libxslt-xsltutils.html#IS_XSLT_ELEM"/>
+    <keyword type="macro" name="IS_XSLT_ELEM_FAST" link="libxslt-xsltInternals.html#IS_XSLT_ELEM_FAST"/>
+    <keyword type="macro" name="IS_XSLT_NAME" link="libxslt-xsltutils.html#IS_XSLT_NAME"/>
+    <keyword type="macro" name="IS_XSLT_REAL_NODE" link="libxslt-xsltutils.html#IS_XSLT_REAL_NODE"/>
+    <keyword type="macro" name="LIBXSLT_PUBLIC" link="libxslt-xsltexports.html#LIBXSLT_PUBLIC"/>
+    <keyword type="macro" name="NODE_IS_KEYED" link="libxslt-keys.html#NODE_IS_KEYED"/>
+    <keyword type="macro" name="UNDEFINED_DEFAULT_NS" link="libxslt-namespaces.html#UNDEFINED_DEFAULT_NS"/>
+    <keyword type="macro" name="XML_CAST_FPTR" link="libxslt-xsltInternals.html#XML_CAST_FPTR"/>
+    <keyword type="macro" name="XSLTCALL" link="libxslt-xsltexports.html#XSLTCALL"/>
+    <keyword type="macro" name="XSLTPUBFUN" link="libxslt-xsltexports.html#XSLTPUBFUN"/>
+    <keyword type="macro" name="XSLTPUBVAR" link="libxslt-xsltexports.html#XSLTPUBVAR"/>
+    <keyword type="macro" name="XSLT_CCTXT" link="libxslt-xsltInternals.html#XSLT_CCTXT"/>
+    <keyword type="macro" name="XSLT_DEFAULT_URL" link="libxslt-xslt.html#XSLT_DEFAULT_URL"/>
+    <keyword type="macro" name="XSLT_DEFAULT_VENDOR" link="libxslt-xslt.html#XSLT_DEFAULT_VENDOR"/>
+    <keyword type="macro" name="XSLT_DEFAULT_VERSION" link="libxslt-xslt.html#XSLT_DEFAULT_VERSION"/>
+    <keyword type="macro" name="XSLT_FAST_IF" link="libxslt-xsltInternals.html#XSLT_FAST_IF"/>
+    <keyword type="macro" name="XSLT_GET_IMPORT_INT" link="libxslt-imports.html#XSLT_GET_IMPORT_INT"/>
+    <keyword type="macro" name="XSLT_GET_IMPORT_PTR" link="libxslt-imports.html#XSLT_GET_IMPORT_PTR"/>
+    <keyword type="macro" name="XSLT_GET_INTERNAL_NSMAP" link="libxslt-xsltInternals.html#XSLT_GET_INTERNAL_NSMAP"/>
+    <keyword type="macro" name="XSLT_HAS_INTERNAL_NSMAP" link="libxslt-xsltInternals.html#XSLT_HAS_INTERNAL_NSMAP"/>
+    <keyword type="macro" name="XSLT_IS_RES_TREE_FRAG" link="libxslt-xsltInternals.html#XSLT_IS_RES_TREE_FRAG"/>
+    <keyword type="macro" name="XSLT_IS_TEXT_NODE" link="libxslt-xsltInternals.html#XSLT_IS_TEXT_NODE"/>
+    <keyword type="macro" name="XSLT_ITEM_COMMON_FIELDS" link="libxslt-xsltInternals.html#XSLT_ITEM_COMMON_FIELDS"/>
+    <keyword type="macro" name="XSLT_ITEM_COMPATIBILITY_FIELDS" link="libxslt-xsltInternals.html#XSLT_ITEM_COMPATIBILITY_FIELDS"/>
+    <keyword type="macro" name="XSLT_ITEM_NAVIGATION_FIELDS" link="libxslt-xsltInternals.html#XSLT_ITEM_NAVIGATION_FIELDS"/>
+    <keyword type="macro" name="XSLT_ITEM_NSINSCOPE_FIELDS" link="libxslt-xsltInternals.html#XSLT_ITEM_NSINSCOPE_FIELDS"/>
+    <keyword type="macro" name="XSLT_LIBXSLT_NAMESPACE" link="libxslt-extra.html#XSLT_LIBXSLT_NAMESPACE"/>
+    <keyword type="macro" name="XSLT_LOCALE_NONE" link="libxslt-xsltlocale.html#XSLT_LOCALE_NONE"/>
+    <keyword type="macro" name="XSLT_LOCALE_POSIX" link="libxslt-xsltlocale.html#XSLT_LOCALE_POSIX"/>
+    <keyword type="macro" name="XSLT_LOCALE_WINAPI" link="libxslt-xsltlocale.html#XSLT_LOCALE_WINAPI"/>
+    <keyword type="macro" name="XSLT_MARK_RES_TREE_FRAG" link="libxslt-xsltInternals.html#XSLT_MARK_RES_TREE_FRAG"/>
+    <keyword type="macro" name="XSLT_MAX_SORT" link="libxslt-xsltInternals.html#XSLT_MAX_SORT"/>
+    <keyword type="macro" name="XSLT_NAMESPACE" link="libxslt-xslt.html#XSLT_NAMESPACE"/>
+    <keyword type="macro" name="XSLT_PARSE_OPTIONS" link="libxslt-xslt.html#XSLT_PARSE_OPTIONS"/>
+    <keyword type="macro" name="XSLT_PAT_NO_PRIORITY" link="libxslt-xsltInternals.html#XSLT_PAT_NO_PRIORITY"/>
+    <keyword type="macro" name="XSLT_REFACTORED_KEYCOMP" link="libxslt-xsltInternals.html#XSLT_REFACTORED_KEYCOMP"/>
+    <keyword type="macro" name="XSLT_REFACTORED_VARS" link="libxslt-xsltInternals.html#XSLT_REFACTORED_VARS"/>
+    <keyword type="macro" name="XSLT_REGISTER_FUNCTION_LOOKUP" link="libxslt-functions.html#XSLT_REGISTER_FUNCTION_LOOKUP"/>
+    <keyword type="macro" name="XSLT_REGISTER_VARIABLE_LOOKUP" link="libxslt-variables.html#XSLT_REGISTER_VARIABLE_LOOKUP"/>
+    <keyword type="macro" name="XSLT_RUNTIME_EXTRA" link="libxslt-xsltInternals.html#XSLT_RUNTIME_EXTRA"/>
+    <keyword type="macro" name="XSLT_RUNTIME_EXTRA_FREE" link="libxslt-xsltInternals.html#XSLT_RUNTIME_EXTRA_FREE"/>
+    <keyword type="macro" name="XSLT_RUNTIME_EXTRA_LST" link="libxslt-xsltInternals.html#XSLT_RUNTIME_EXTRA_LST"/>
+    <keyword type="macro" name="XSLT_RVT_FUNC_RESULT" link="libxslt-variables.html#XSLT_RVT_FUNC_RESULT"/>
+    <keyword type="macro" name="XSLT_RVT_GLOBAL" link="libxslt-variables.html#XSLT_RVT_GLOBAL"/>
+    <keyword type="macro" name="XSLT_RVT_LOCAL" link="libxslt-variables.html#XSLT_RVT_LOCAL"/>
+    <keyword type="macro" name="XSLT_SAXON_NAMESPACE" link="libxslt-extra.html#XSLT_SAXON_NAMESPACE"/>
+    <keyword type="macro" name="XSLT_STRANGE" link="libxslt-xsltutils.html#XSLT_STRANGE"/>
+    <keyword type="macro" name="XSLT_TIMESTAMP_TICS_PER_SEC" link="libxslt-xsltutils.html#XSLT_TIMESTAMP_TICS_PER_SEC"/>
+    <keyword type="macro" name="XSLT_TODO" link="libxslt-xsltutils.html#XSLT_TODO"/>
+    <keyword type="macro" name="XSLT_TRACE" link="libxslt-xsltutils.html#XSLT_TRACE"/>
+    <keyword type="macro" name="XSLT_XALAN_NAMESPACE" link="libxslt-extra.html#XSLT_XALAN_NAMESPACE"/>
+    <keyword type="macro" name="XSLT_XT_NAMESPACE" link="libxslt-extra.html#XSLT_XT_NAMESPACE"/>
+    <keyword type="macro" name="_REENTRANT" link="libxslt-xsltexports.html#_REENTRANT"/>
+    <keyword type="enum" name="XSLT_DEBUG_CONT" link="libxslt-xsltutils.html#XSLT_DEBUG_CONT"/>
+    <keyword type="enum" name="XSLT_DEBUG_INIT" link="libxslt-xsltutils.html#XSLT_DEBUG_INIT"/>
+    <keyword type="enum" name="XSLT_DEBUG_NEXT" link="libxslt-xsltutils.html#XSLT_DEBUG_NEXT"/>
+    <keyword type="enum" name="XSLT_DEBUG_NONE" link="libxslt-xsltutils.html#XSLT_DEBUG_NONE"/>
+    <keyword type="enum" name="XSLT_DEBUG_QUIT" link="libxslt-xsltutils.html#XSLT_DEBUG_QUIT"/>
+    <keyword type="enum" name="XSLT_DEBUG_RUN" link="libxslt-xsltutils.html#XSLT_DEBUG_RUN"/>
+    <keyword type="enum" name="XSLT_DEBUG_RUN_RESTART" link="libxslt-xsltutils.html#XSLT_DEBUG_RUN_RESTART"/>
+    <keyword type="enum" name="XSLT_DEBUG_STEP" link="libxslt-xsltutils.html#XSLT_DEBUG_STEP"/>
+    <keyword type="enum" name="XSLT_DEBUG_STEPOUT" link="libxslt-xsltutils.html#XSLT_DEBUG_STEPOUT"/>
+    <keyword type="enum" name="XSLT_DEBUG_STOP" link="libxslt-xsltutils.html#XSLT_DEBUG_STOP"/>
+    <keyword type="enum" name="XSLT_ERROR_SEVERITY_ERROR" link="libxslt-xsltInternals.html#XSLT_ERROR_SEVERITY_ERROR"/>
+    <keyword type="enum" name="XSLT_ERROR_SEVERITY_WARNING" link="libxslt-xsltInternals.html#XSLT_ERROR_SEVERITY_WARNING"/>
+    <keyword type="enum" name="XSLT_FUNC_APPLYIMPORTS" link="libxslt-xsltInternals.html#XSLT_FUNC_APPLYIMPORTS"/>
+    <keyword type="enum" name="XSLT_FUNC_APPLYTEMPLATES" link="libxslt-xsltInternals.html#XSLT_FUNC_APPLYTEMPLATES"/>
+    <keyword type="enum" name="XSLT_FUNC_ATTRIBUTE" link="libxslt-xsltInternals.html#XSLT_FUNC_ATTRIBUTE"/>
+    <keyword type="enum" name="XSLT_FUNC_ATTRSET" link="libxslt-xsltInternals.html#XSLT_FUNC_ATTRSET"/>
+    <keyword type="enum" name="XSLT_FUNC_CALLTEMPLATE" link="libxslt-xsltInternals.html#XSLT_FUNC_CALLTEMPLATE"/>
+    <keyword type="enum" name="XSLT_FUNC_CHOOSE" link="libxslt-xsltInternals.html#XSLT_FUNC_CHOOSE"/>
+    <keyword type="enum" name="XSLT_FUNC_COMMENT" link="libxslt-xsltInternals.html#XSLT_FUNC_COMMENT"/>
+    <keyword type="enum" name="XSLT_FUNC_COPY" link="libxslt-xsltInternals.html#XSLT_FUNC_COPY"/>
+    <keyword type="enum" name="XSLT_FUNC_COPYOF" link="libxslt-xsltInternals.html#XSLT_FUNC_COPYOF"/>
+    <keyword type="enum" name="XSLT_FUNC_DOCUMENT" link="libxslt-xsltInternals.html#XSLT_FUNC_DOCUMENT"/>
+    <keyword type="enum" name="XSLT_FUNC_ELEMENT" link="libxslt-xsltInternals.html#XSLT_FUNC_ELEMENT"/>
+    <keyword type="enum" name="XSLT_FUNC_EXTENSION" link="libxslt-xsltInternals.html#XSLT_FUNC_EXTENSION"/>
+    <keyword type="enum" name="XSLT_FUNC_FALLBACK" link="libxslt-xsltInternals.html#XSLT_FUNC_FALLBACK"/>
+    <keyword type="enum" name="XSLT_FUNC_FOREACH" link="libxslt-xsltInternals.html#XSLT_FUNC_FOREACH"/>
+    <keyword type="enum" name="XSLT_FUNC_IF" link="libxslt-xsltInternals.html#XSLT_FUNC_IF"/>
+    <keyword type="enum" name="XSLT_FUNC_INCLUDE" link="libxslt-xsltInternals.html#XSLT_FUNC_INCLUDE"/>
+    <keyword type="enum" name="XSLT_FUNC_LITERAL_RESULT_ELEMENT" link="libxslt-xsltInternals.html#XSLT_FUNC_LITERAL_RESULT_ELEMENT"/>
+    <keyword type="enum" name="XSLT_FUNC_MESSAGE" link="libxslt-xsltInternals.html#XSLT_FUNC_MESSAGE"/>
+    <keyword type="enum" name="XSLT_FUNC_NUMBER" link="libxslt-xsltInternals.html#XSLT_FUNC_NUMBER"/>
+    <keyword type="enum" name="XSLT_FUNC_OTHERWISE" link="libxslt-xsltInternals.html#XSLT_FUNC_OTHERWISE"/>
+    <keyword type="enum" name="XSLT_FUNC_PARAM" link="libxslt-xsltInternals.html#XSLT_FUNC_PARAM"/>
+    <keyword type="enum" name="XSLT_FUNC_PI" link="libxslt-xsltInternals.html#XSLT_FUNC_PI"/>
+    <keyword type="enum" name="XSLT_FUNC_SORT" link="libxslt-xsltInternals.html#XSLT_FUNC_SORT"/>
+    <keyword type="enum" name="XSLT_FUNC_TEXT" link="libxslt-xsltInternals.html#XSLT_FUNC_TEXT"/>
+    <keyword type="enum" name="XSLT_FUNC_UNKOWN_FORWARDS_COMPAT" link="libxslt-xsltInternals.html#XSLT_FUNC_UNKOWN_FORWARDS_COMPAT"/>
+    <keyword type="enum" name="XSLT_FUNC_VALUEOF" link="libxslt-xsltInternals.html#XSLT_FUNC_VALUEOF"/>
+    <keyword type="enum" name="XSLT_FUNC_VARIABLE" link="libxslt-xsltInternals.html#XSLT_FUNC_VARIABLE"/>
+    <keyword type="enum" name="XSLT_FUNC_WHEN" link="libxslt-xsltInternals.html#XSLT_FUNC_WHEN"/>
+    <keyword type="enum" name="XSLT_FUNC_WITHPARAM" link="libxslt-xsltInternals.html#XSLT_FUNC_WITHPARAM"/>
+    <keyword type="enum" name="XSLT_LOAD_DOCUMENT" link="libxslt-documents.html#XSLT_LOAD_DOCUMENT"/>
+    <keyword type="enum" name="XSLT_LOAD_START" link="libxslt-documents.html#XSLT_LOAD_START"/>
+    <keyword type="enum" name="XSLT_LOAD_STYLESHEET" link="libxslt-documents.html#XSLT_LOAD_STYLESHEET"/>
+    <keyword type="enum" name="XSLT_OUTPUT_HTML" link="libxslt-xsltInternals.html#XSLT_OUTPUT_HTML"/>
+    <keyword type="enum" name="XSLT_OUTPUT_TEXT" link="libxslt-xsltInternals.html#XSLT_OUTPUT_TEXT"/>
+    <keyword type="enum" name="XSLT_OUTPUT_XML" link="libxslt-xsltInternals.html#XSLT_OUTPUT_XML"/>
+    <keyword type="enum" name="XSLT_SECPREF_CREATE_DIRECTORY" link="libxslt-security.html#XSLT_SECPREF_CREATE_DIRECTORY"/>
+    <keyword type="enum" name="XSLT_SECPREF_READ_FILE" link="libxslt-security.html#XSLT_SECPREF_READ_FILE"/>
+    <keyword type="enum" name="XSLT_SECPREF_READ_NETWORK" link="libxslt-security.html#XSLT_SECPREF_READ_NETWORK"/>
+    <keyword type="enum" name="XSLT_SECPREF_WRITE_FILE" link="libxslt-security.html#XSLT_SECPREF_WRITE_FILE"/>
+    <keyword type="enum" name="XSLT_SECPREF_WRITE_NETWORK" link="libxslt-security.html#XSLT_SECPREF_WRITE_NETWORK"/>
+    <keyword type="enum" name="XSLT_STATE_ERROR" link="libxslt-xsltInternals.html#XSLT_STATE_ERROR"/>
+    <keyword type="enum" name="XSLT_STATE_OK" link="libxslt-xsltInternals.html#XSLT_STATE_OK"/>
+    <keyword type="enum" name="XSLT_STATE_STOPPED" link="libxslt-xsltInternals.html#XSLT_STATE_STOPPED"/>
+    <keyword type="enum" name="XSLT_TRACE_ALL" link="libxslt-xsltutils.html#XSLT_TRACE_ALL"/>
+    <keyword type="enum" name="XSLT_TRACE_APPLY_TEMPLATE" link="libxslt-xsltutils.html#XSLT_TRACE_APPLY_TEMPLATE"/>
+    <keyword type="enum" name="XSLT_TRACE_APPLY_TEMPLATES" link="libxslt-xsltutils.html#XSLT_TRACE_APPLY_TEMPLATES"/>
+    <keyword type="enum" name="XSLT_TRACE_CALL_TEMPLATE" link="libxslt-xsltutils.html#XSLT_TRACE_CALL_TEMPLATE"/>
+    <keyword type="enum" name="XSLT_TRACE_CHOOSE" link="libxslt-xsltutils.html#XSLT_TRACE_CHOOSE"/>
+    <keyword type="enum" name="XSLT_TRACE_COMMENT" link="libxslt-xsltutils.html#XSLT_TRACE_COMMENT"/>
+    <keyword type="enum" name="XSLT_TRACE_COPY" link="libxslt-xsltutils.html#XSLT_TRACE_COPY"/>
+    <keyword type="enum" name="XSLT_TRACE_COPY_OF" link="libxslt-xsltutils.html#XSLT_TRACE_COPY_OF"/>
+    <keyword type="enum" name="XSLT_TRACE_COPY_TEXT" link="libxslt-xsltutils.html#XSLT_TRACE_COPY_TEXT"/>
+    <keyword type="enum" name="XSLT_TRACE_FOR_EACH" link="libxslt-xsltutils.html#XSLT_TRACE_FOR_EACH"/>
+    <keyword type="enum" name="XSLT_TRACE_IF" link="libxslt-xsltutils.html#XSLT_TRACE_IF"/>
+    <keyword type="enum" name="XSLT_TRACE_KEYS" link="libxslt-xsltutils.html#XSLT_TRACE_KEYS"/>
+    <keyword type="enum" name="XSLT_TRACE_NONE" link="libxslt-xsltutils.html#XSLT_TRACE_NONE"/>
+    <keyword type="enum" name="XSLT_TRACE_PI" link="libxslt-xsltutils.html#XSLT_TRACE_PI"/>
+    <keyword type="enum" name="XSLT_TRACE_PROCESS_NODE" link="libxslt-xsltutils.html#XSLT_TRACE_PROCESS_NODE"/>
+    <keyword type="enum" name="XSLT_TRACE_STRIP_SPACES" link="libxslt-xsltutils.html#XSLT_TRACE_STRIP_SPACES"/>
+    <keyword type="enum" name="XSLT_TRACE_TEMPLATES" link="libxslt-xsltutils.html#XSLT_TRACE_TEMPLATES"/>
+    <keyword type="enum" name="XSLT_TRACE_VALUE_OF" link="libxslt-xsltutils.html#XSLT_TRACE_VALUE_OF"/>
+    <keyword type="enum" name="XSLT_TRACE_VARIABLES" link="libxslt-xsltutils.html#XSLT_TRACE_VARIABLES"/>
+    <keyword type="typedef" name="xsltCompMatchPtr" link="libxslt-pattern.html#xsltCompMatchPtr"/>
+    <keyword type="typedef" name="xsltCompilerCtxtPtr" link="libxslt-xsltInternals.html#xsltCompilerCtxtPtr"/>
+    <keyword type="typedef" name="xsltCompilerNodeInfoPtr" link="libxslt-xsltInternals.html#xsltCompilerNodeInfoPtr"/>
+    <keyword type="typedef" name="xsltDebugStatusCodes" link="libxslt-xsltutils.html#xsltDebugStatusCodes"/>
+    <keyword type="typedef" name="xsltDebugTraceCodes" link="libxslt-xsltutils.html#xsltDebugTraceCodes"/>
+    <keyword type="typedef" name="xsltDecimalFormatPtr" link="libxslt-xsltInternals.html#xsltDecimalFormatPtr"/>
+    <keyword type="typedef" name="xsltDocumentPtr" link="libxslt-xsltInternals.html#xsltDocumentPtr"/>
+    <keyword type="typedef" name="xsltEffectiveNsPtr" link="libxslt-xsltInternals.html#xsltEffectiveNsPtr"/>
+    <keyword type="typedef" name="xsltElemPreCompPtr" link="libxslt-xsltInternals.html#xsltElemPreCompPtr"/>
+    <keyword type="typedef" name="xsltErrorSeverityType" link="libxslt-xsltInternals.html#xsltErrorSeverityType"/>
+    <keyword type="typedef" name="xsltFormatNumberInfoPtr" link="libxslt-numbersInternals.html#xsltFormatNumberInfoPtr"/>
+    <keyword type="typedef" name="xsltKeyDefPtr" link="libxslt-xsltInternals.html#xsltKeyDefPtr"/>
+    <keyword type="typedef" name="xsltKeyTablePtr" link="libxslt-xsltInternals.html#xsltKeyTablePtr"/>
+    <keyword type="typedef" name="xsltLoadType" link="libxslt-documents.html#xsltLoadType"/>
+    <keyword type="typedef" name="xsltLocale" link="libxslt-xsltlocale.html#xsltLocale"/>
+    <keyword type="typedef" name="xsltLocaleChar" link="libxslt-xsltlocale.html#xsltLocaleChar"/>
+    <keyword type="typedef" name="xsltNsAliasPtr" link="libxslt-xsltInternals.html#xsltNsAliasPtr"/>
+    <keyword type="typedef" name="xsltNsListContainerPtr" link="libxslt-xsltInternals.html#xsltNsListContainerPtr"/>
+    <keyword type="typedef" name="xsltNsListPtr" link="libxslt-xsltInternals.html#xsltNsListPtr"/>
+    <keyword type="typedef" name="xsltNsMapPtr" link="libxslt-xsltInternals.html#xsltNsMapPtr"/>
+    <keyword type="typedef" name="xsltNumberDataPtr" link="libxslt-numbersInternals.html#xsltNumberDataPtr"/>
+    <keyword type="typedef" name="xsltOutputType" link="libxslt-xsltInternals.html#xsltOutputType"/>
+    <keyword type="typedef" name="xsltPointerListPtr" link="libxslt-xsltInternals.html#xsltPointerListPtr"/>
+    <keyword type="typedef" name="xsltPrincipalStylesheetDataPtr" link="libxslt-xsltInternals.html#xsltPrincipalStylesheetDataPtr"/>
+    <keyword type="typedef" name="xsltRuntimeExtraPtr" link="libxslt-xsltInternals.html#xsltRuntimeExtraPtr"/>
+    <keyword type="typedef" name="xsltSecurityOption" link="libxslt-security.html#xsltSecurityOption"/>
+    <keyword type="typedef" name="xsltSecurityPrefsPtr" link="libxslt-security.html#xsltSecurityPrefsPtr"/>
+    <keyword type="typedef" name="xsltStackElemPtr" link="libxslt-xsltInternals.html#xsltStackElemPtr"/>
+    <keyword type="typedef" name="xsltStyleBasicEmptyItemPtr" link="libxslt-xsltInternals.html#xsltStyleBasicEmptyItemPtr"/>
+    <keyword type="typedef" name="xsltStyleBasicExpressionItemPtr" link="libxslt-xsltInternals.html#xsltStyleBasicExpressionItemPtr"/>
+    <keyword type="typedef" name="xsltStyleBasicItemVariablePtr" link="libxslt-xsltInternals.html#xsltStyleBasicItemVariablePtr"/>
+    <keyword type="typedef" name="xsltStyleItemApplyImports" link="libxslt-xsltInternals.html#xsltStyleItemApplyImports"/>
+    <keyword type="typedef" name="xsltStyleItemApplyImportsPtr" link="libxslt-xsltInternals.html#xsltStyleItemApplyImportsPtr"/>
+    <keyword type="typedef" name="xsltStyleItemApplyTemplatesPtr" link="libxslt-xsltInternals.html#xsltStyleItemApplyTemplatesPtr"/>
+    <keyword type="typedef" name="xsltStyleItemAttributePtr" link="libxslt-xsltInternals.html#xsltStyleItemAttributePtr"/>
+    <keyword type="typedef" name="xsltStyleItemCallTemplatePtr" link="libxslt-xsltInternals.html#xsltStyleItemCallTemplatePtr"/>
+    <keyword type="typedef" name="xsltStyleItemChoose" link="libxslt-xsltInternals.html#xsltStyleItemChoose"/>
+    <keyword type="typedef" name="xsltStyleItemChoosePtr" link="libxslt-xsltInternals.html#xsltStyleItemChoosePtr"/>
+    <keyword type="typedef" name="xsltStyleItemComment" link="libxslt-xsltInternals.html#xsltStyleItemComment"/>
+    <keyword type="typedef" name="xsltStyleItemCommentPtr" link="libxslt-xsltInternals.html#xsltStyleItemCommentPtr"/>
+    <keyword type="typedef" name="xsltStyleItemCopyOf" link="libxslt-xsltInternals.html#xsltStyleItemCopyOf"/>
+    <keyword type="typedef" name="xsltStyleItemCopyOfPtr" link="libxslt-xsltInternals.html#xsltStyleItemCopyOfPtr"/>
+    <keyword type="typedef" name="xsltStyleItemCopyPtr" link="libxslt-xsltInternals.html#xsltStyleItemCopyPtr"/>
+    <keyword type="typedef" name="xsltStyleItemDocumentPtr" link="libxslt-xsltInternals.html#xsltStyleItemDocumentPtr"/>
+    <keyword type="typedef" name="xsltStyleItemElementPtr" link="libxslt-xsltInternals.html#xsltStyleItemElementPtr"/>
+    <keyword type="typedef" name="xsltStyleItemExtElementPtr" link="libxslt-xsltInternals.html#xsltStyleItemExtElementPtr"/>
+    <keyword type="typedef" name="xsltStyleItemFallback" link="libxslt-xsltInternals.html#xsltStyleItemFallback"/>
+    <keyword type="typedef" name="xsltStyleItemFallbackPtr" link="libxslt-xsltInternals.html#xsltStyleItemFallbackPtr"/>
+    <keyword type="typedef" name="xsltStyleItemForEach" link="libxslt-xsltInternals.html#xsltStyleItemForEach"/>
+    <keyword type="typedef" name="xsltStyleItemForEachPtr" link="libxslt-xsltInternals.html#xsltStyleItemForEachPtr"/>
+    <keyword type="typedef" name="xsltStyleItemIfPtr" link="libxslt-xsltInternals.html#xsltStyleItemIfPtr"/>
+    <keyword type="typedef" name="xsltStyleItemIncludePtr" link="libxslt-xsltInternals.html#xsltStyleItemIncludePtr"/>
+    <keyword type="typedef" name="xsltStyleItemLRElementInfoPtr" link="libxslt-xsltInternals.html#xsltStyleItemLRElementInfoPtr"/>
+    <keyword type="typedef" name="xsltStyleItemMessagePtr" link="libxslt-xsltInternals.html#xsltStyleItemMessagePtr"/>
+    <keyword type="typedef" name="xsltStyleItemNumberPtr" link="libxslt-xsltInternals.html#xsltStyleItemNumberPtr"/>
+    <keyword type="typedef" name="xsltStyleItemOtherwisePtr" link="libxslt-xsltInternals.html#xsltStyleItemOtherwisePtr"/>
+    <keyword type="typedef" name="xsltStyleItemPIPtr" link="libxslt-xsltInternals.html#xsltStyleItemPIPtr"/>
+    <keyword type="typedef" name="xsltStyleItemParamPtr" link="libxslt-xsltInternals.html#xsltStyleItemParamPtr"/>
+    <keyword type="typedef" name="xsltStyleItemSortPtr" link="libxslt-xsltInternals.html#xsltStyleItemSortPtr"/>
+    <keyword type="typedef" name="xsltStyleItemTextPtr" link="libxslt-xsltInternals.html#xsltStyleItemTextPtr"/>
+    <keyword type="typedef" name="xsltStyleItemUknownPtr" link="libxslt-xsltInternals.html#xsltStyleItemUknownPtr"/>
+    <keyword type="typedef" name="xsltStyleItemValueOfPtr" link="libxslt-xsltInternals.html#xsltStyleItemValueOfPtr"/>
+    <keyword type="typedef" name="xsltStyleItemVariable" link="libxslt-xsltInternals.html#xsltStyleItemVariable"/>
+    <keyword type="typedef" name="xsltStyleItemVariablePtr" link="libxslt-xsltInternals.html#xsltStyleItemVariablePtr"/>
+    <keyword type="typedef" name="xsltStyleItemWhenPtr" link="libxslt-xsltInternals.html#xsltStyleItemWhenPtr"/>
+    <keyword type="typedef" name="xsltStyleItemWithParam" link="libxslt-xsltInternals.html#xsltStyleItemWithParam"/>
+    <keyword type="typedef" name="xsltStyleItemWithParamPtr" link="libxslt-xsltInternals.html#xsltStyleItemWithParamPtr"/>
+    <keyword type="typedef" name="xsltStylePreCompPtr" link="libxslt-xsltInternals.html#xsltStylePreCompPtr"/>
+    <keyword type="typedef" name="xsltStyleType" link="libxslt-xsltInternals.html#xsltStyleType"/>
+    <keyword type="typedef" name="xsltStylesheetPtr" link="libxslt-xsltInternals.html#xsltStylesheetPtr"/>
+    <keyword type="typedef" name="xsltTemplatePtr" link="libxslt-xsltInternals.html#xsltTemplatePtr"/>
+    <keyword type="typedef" name="xsltTransformCachePtr" link="libxslt-xsltInternals.html#xsltTransformCachePtr"/>
+    <keyword type="typedef" name="xsltTransformContextPtr" link="libxslt-xsltInternals.html#xsltTransformContextPtr"/>
+    <keyword type="typedef" name="xsltTransformState" link="libxslt-xsltInternals.html#xsltTransformState"/>
+    <keyword type="typedef" name="xsltVarInfoPtr" link="libxslt-xsltInternals.html#xsltVarInfoPtr"/>
+    <keyword type="struct" name="xsltCompMatch" link="libxslt-pattern.html#xsltCompMatch"/>
+    <keyword type="struct" name="xsltCompilerCtxt" link="libxslt-xsltInternals.html#xsltCompilerCtxt"/>
+    <keyword type="struct" name="xsltCompilerNodeInfo" link="libxslt-xsltInternals.html#xsltCompilerNodeInfo"/>
+    <keyword type="struct" name="xsltDecimalFormat" link="libxslt-xsltInternals.html#xsltDecimalFormat"/>
+    <keyword type="struct" name="xsltDocument" link="libxslt-xsltInternals.html#xsltDocument"/>
+    <keyword type="struct" name="xsltEffectiveNs" link="libxslt-xsltInternals.html#xsltEffectiveNs"/>
+    <keyword type="struct" name="xsltElemPreComp" link="libxslt-xsltInternals.html#xsltElemPreComp"/>
+    <keyword type="struct" name="xsltFormatNumberInfo" link="libxslt-numbersInternals.html#xsltFormatNumberInfo"/>
+    <keyword type="struct" name="xsltKeyDef" link="libxslt-xsltInternals.html#xsltKeyDef"/>
+    <keyword type="struct" name="xsltKeyTable" link="libxslt-xsltInternals.html#xsltKeyTable"/>
+    <keyword type="struct" name="xsltNsAlias" link="libxslt-xsltInternals.html#xsltNsAlias"/>
+    <keyword type="struct" name="xsltNsList" link="libxslt-xsltInternals.html#xsltNsList"/>
+    <keyword type="struct" name="xsltNsListContainer" link="libxslt-xsltInternals.html#xsltNsListContainer"/>
+    <keyword type="struct" name="xsltNsMap" link="libxslt-xsltInternals.html#xsltNsMap"/>
+    <keyword type="struct" name="xsltNumberData" link="libxslt-numbersInternals.html#xsltNumberData"/>
+    <keyword type="struct" name="xsltPointerList" link="libxslt-xsltInternals.html#xsltPointerList"/>
+    <keyword type="struct" name="xsltPrincipalStylesheetData" link="libxslt-xsltInternals.html#xsltPrincipalStylesheetData"/>
+    <keyword type="struct" name="xsltRuntimeExtra" link="libxslt-xsltInternals.html#xsltRuntimeExtra"/>
+    <keyword type="struct" name="xsltSecurityPrefs" link="libxslt-security.html#xsltSecurityPrefs"/>
+    <keyword type="struct" name="xsltStackElem" link="libxslt-xsltInternals.html#xsltStackElem"/>
+    <keyword type="struct" name="xsltStyleBasicEmptyItem" link="libxslt-xsltInternals.html#xsltStyleBasicEmptyItem"/>
+    <keyword type="struct" name="xsltStyleBasicExpressionItem" link="libxslt-xsltInternals.html#xsltStyleBasicExpressionItem"/>
+    <keyword type="struct" name="xsltStyleBasicItemVariable" link="libxslt-xsltInternals.html#xsltStyleBasicItemVariable"/>
+    <keyword type="struct" name="xsltStyleItemApplyTemplates" link="libxslt-xsltInternals.html#xsltStyleItemApplyTemplates"/>
+    <keyword type="struct" name="xsltStyleItemAttribute" link="libxslt-xsltInternals.html#xsltStyleItemAttribute"/>
+    <keyword type="struct" name="xsltStyleItemCallTemplate" link="libxslt-xsltInternals.html#xsltStyleItemCallTemplate"/>
+    <keyword type="struct" name="xsltStyleItemCopy" link="libxslt-xsltInternals.html#xsltStyleItemCopy"/>
+    <keyword type="struct" name="xsltStyleItemDocument" link="libxslt-xsltInternals.html#xsltStyleItemDocument"/>
+    <keyword type="struct" name="xsltStyleItemElement" link="libxslt-xsltInternals.html#xsltStyleItemElement"/>
+    <keyword type="struct" name="xsltStyleItemExtElement" link="libxslt-xsltInternals.html#xsltStyleItemExtElement"/>
+    <keyword type="struct" name="xsltStyleItemIf" link="libxslt-xsltInternals.html#xsltStyleItemIf"/>
+    <keyword type="struct" name="xsltStyleItemInclude" link="libxslt-xsltInternals.html#xsltStyleItemInclude"/>
+    <keyword type="struct" name="xsltStyleItemLRElementInfo" link="libxslt-xsltInternals.html#xsltStyleItemLRElementInfo"/>
+    <keyword type="struct" name="xsltStyleItemMessage" link="libxslt-xsltInternals.html#xsltStyleItemMessage"/>
+    <keyword type="struct" name="xsltStyleItemNumber" link="libxslt-xsltInternals.html#xsltStyleItemNumber"/>
+    <keyword type="struct" name="xsltStyleItemOtherwise" link="libxslt-xsltInternals.html#xsltStyleItemOtherwise"/>
+    <keyword type="struct" name="xsltStyleItemPI" link="libxslt-xsltInternals.html#xsltStyleItemPI"/>
+    <keyword type="struct" name="xsltStyleItemParam" link="libxslt-xsltInternals.html#xsltStyleItemParam"/>
+    <keyword type="struct" name="xsltStyleItemSort" link="libxslt-xsltInternals.html#xsltStyleItemSort"/>
+    <keyword type="struct" name="xsltStyleItemText" link="libxslt-xsltInternals.html#xsltStyleItemText"/>
+    <keyword type="struct" name="xsltStyleItemUknown" link="libxslt-xsltInternals.html#xsltStyleItemUknown"/>
+    <keyword type="struct" name="xsltStyleItemValueOf" link="libxslt-xsltInternals.html#xsltStyleItemValueOf"/>
+    <keyword type="struct" name="xsltStyleItemWhen" link="libxslt-xsltInternals.html#xsltStyleItemWhen"/>
+    <keyword type="struct" name="xsltStylePreComp" link="libxslt-xsltInternals.html#xsltStylePreComp"/>
+    <keyword type="struct" name="xsltStylesheet" link="libxslt-xsltInternals.html#xsltStylesheet"/>
+    <keyword type="struct" name="xsltTemplate" link="libxslt-xsltInternals.html#xsltTemplate"/>
+    <keyword type="struct" name="xsltTransformCache" link="libxslt-xsltInternals.html#xsltTransformCache"/>
+    <keyword type="struct" name="xsltTransformContext" link="libxslt-xsltInternals.html#xsltTransformContext"/>
+    <keyword type="struct" name="xsltVarInfo" link="libxslt-xsltInternals.html#xsltVarInfo"/>
+    <keyword type="function" name="xsltAddCallCallback" link="libxslt-xsltutils.html#xsltAddCallCallback"/>
+    <keyword type="function" name="xsltDocLoaderFunc" link="libxslt-documents.html#xsltDocLoaderFunc"/>
+    <keyword type="function" name="xsltDropCallCallback" link="libxslt-xsltutils.html#xsltDropCallCallback"/>
+    <keyword type="function" name="xsltElemPreCompDeallocator" link="libxslt-xsltInternals.html#xsltElemPreCompDeallocator"/>
+    <keyword type="function" name="xsltExtInitFunction" link="libxslt-extensions.html#xsltExtInitFunction"/>
+    <keyword type="function" name="xsltExtShutdownFunction" link="libxslt-extensions.html#xsltExtShutdownFunction"/>
+    <keyword type="function" name="xsltHandleDebuggerCallback" link="libxslt-xsltutils.html#xsltHandleDebuggerCallback"/>
+    <keyword type="function" name="xsltPreComputeFunction" link="libxslt-extensions.html#xsltPreComputeFunction"/>
+    <keyword type="function" name="xsltSecurityCheck" link="libxslt-security.html#xsltSecurityCheck"/>
+    <keyword type="function" name="xsltSortFunc" link="libxslt-xsltInternals.html#xsltSortFunc"/>
+    <keyword type="function" name="xsltStyleExtInitFunction" link="libxslt-extensions.html#xsltStyleExtInitFunction"/>
+    <keyword type="function" name="xsltStyleExtShutdownFunction" link="libxslt-extensions.html#xsltStyleExtShutdownFunction"/>
+    <keyword type="function" name="xsltTopLevelFunction" link="libxslt-extensions.html#xsltTopLevelFunction"/>
+    <keyword type="function" name="xsltTransformFunction" link="libxslt-xsltInternals.html#xsltTransformFunction"/>
+    <keyword type="macro" name="xslDebugStatus" link="libxslt-xsltutils.html#xslDebugStatus"/>
+    <keyword type="macro" name="xsltConstNamespaceNameXSLT" link="libxslt-xsltInternals.html#xsltConstNamespaceNameXSLT"/>
+    <keyword type="macro" name="xsltDocDefaultLoader" link="libxslt-documents.html#xsltDocDefaultLoader"/>
+    <keyword type="macro" name="xsltEngineVersion" link="libxslt-xslt.html#xsltEngineVersion"/>
+    <keyword type="macro" name="xsltExtMarker" link="libxslt-preproc.html#xsltExtMarker"/>
+    <keyword type="macro" name="xsltGenericDebug" link="libxslt-xsltutils.html#xsltGenericDebug"/>
+    <keyword type="macro" name="xsltGenericDebugContext" link="libxslt-xsltutils.html#xsltGenericDebugContext"/>
+    <keyword type="macro" name="xsltGenericError" link="libxslt-xsltutils.html#xsltGenericError"/>
+    <keyword type="macro" name="xsltGenericErrorContext" link="libxslt-xsltutils.html#xsltGenericErrorContext"/>
+    <keyword type="macro" name="xsltLibxmlVersion" link="libxslt-xslt.html#xsltLibxmlVersion"/>
+    <keyword type="macro" name="xsltLibxsltVersion" link="libxslt-xslt.html#xsltLibxsltVersion"/>
+    <keyword type="macro" name="xsltMaxDepth" link="libxslt-xslt.html#xsltMaxDepth"/>
+    <keyword type="macro" name="xsltMaxVars" link="libxslt-xslt.html#xsltMaxVars"/>
+    <keyword type="macro" name="xsltXSLTAttrMarker" link="libxslt-xsltInternals.html#xsltXSLTAttrMarker"/>
+    <keyword type="function" name="xslAddCall ()" link="libxslt-xsltutils.html#xslAddCall"/>
+    <keyword type="function" name="xslDropCall ()" link="libxslt-xsltutils.html#xslDropCall"/>
+    <keyword type="function" name="xslHandleDebugger ()" link="libxslt-transform.html#xslHandleDebugger"/>
+    <keyword type="function" name="xsltAddKey ()" link="libxslt-keys.html#xsltAddKey"/>
+    <keyword type="function" name="xsltAddStackElemList ()" link="libxslt-variables.html#xsltAddStackElemList"/>
+    <keyword type="function" name="xsltAddTemplate ()" link="libxslt-pattern.html#xsltAddTemplate"/>
+    <keyword type="function" name="xsltAllocateExtra ()" link="libxslt-xsltInternals.html#xsltAllocateExtra"/>
+    <keyword type="function" name="xsltAllocateExtraCtxt ()" link="libxslt-xsltInternals.html#xsltAllocateExtraCtxt"/>
+    <keyword type="function" name="xsltApplyAttributeSet ()" link="libxslt-attributes.html#xsltApplyAttributeSet"/>
+    <keyword type="function" name="xsltApplyImports ()" link="libxslt-transform.html#xsltApplyImports"/>
+    <keyword type="function" name="xsltApplyOneTemplate ()" link="libxslt-transform.html#xsltApplyOneTemplate"/>
+    <keyword type="function" name="xsltApplyStripSpaces ()" link="libxslt-transform.html#xsltApplyStripSpaces"/>
+    <keyword type="function" name="xsltApplyStylesheet ()" link="libxslt-transform.html#xsltApplyStylesheet"/>
+    <keyword type="function" name="xsltApplyStylesheetUser ()" link="libxslt-transform.html#xsltApplyStylesheetUser"/>
+    <keyword type="function" name="xsltApplyTemplates ()" link="libxslt-transform.html#xsltApplyTemplates"/>
+    <keyword type="function" name="xsltAttrListTemplateProcess ()" link="libxslt-templates.html#xsltAttrListTemplateProcess"/>
+    <keyword type="function" name="xsltAttrTemplateProcess ()" link="libxslt-templates.html#xsltAttrTemplateProcess"/>
+    <keyword type="function" name="xsltAttrTemplateValueProcess ()" link="libxslt-templates.html#xsltAttrTemplateValueProcess"/>
+    <keyword type="function" name="xsltAttrTemplateValueProcessNode ()" link="libxslt-templates.html#xsltAttrTemplateValueProcessNode"/>
+    <keyword type="function" name="xsltAttribute ()" link="libxslt-transform.html#xsltAttribute"/>
+    <keyword type="function" name="xsltCalibrateAdjust ()" link="libxslt-xsltutils.html#xsltCalibrateAdjust"/>
+    <keyword type="function" name="xsltCallTemplate ()" link="libxslt-transform.html#xsltCallTemplate"/>
+    <keyword type="function" name="xsltCheckExtPrefix ()" link="libxslt-extensions.html#xsltCheckExtPrefix"/>
+    <keyword type="function" name="xsltCheckExtURI ()" link="libxslt-extensions.html#xsltCheckExtURI"/>
+    <keyword type="function" name="xsltCheckRead ()" link="libxslt-security.html#xsltCheckRead"/>
+    <keyword type="function" name="xsltCheckWrite ()" link="libxslt-security.html#xsltCheckWrite"/>
+    <keyword type="function" name="xsltChoose ()" link="libxslt-transform.html#xsltChoose"/>
+    <keyword type="function" name="xsltCleanupGlobals ()" link="libxslt-xslt.html#xsltCleanupGlobals"/>
+    <keyword type="function" name="xsltCleanupTemplates ()" link="libxslt-pattern.html#xsltCleanupTemplates"/>
+    <keyword type="function" name="xsltComment ()" link="libxslt-transform.html#xsltComment"/>
+    <keyword type="function" name="xsltCompMatchClearCache ()" link="libxslt-pattern.html#xsltCompMatchClearCache"/>
+    <keyword type="function" name="xsltCompileAttr ()" link="libxslt-xsltInternals.html#xsltCompileAttr"/>
+    <keyword type="function" name="xsltCompilePattern ()" link="libxslt-pattern.html#xsltCompilePattern"/>
+    <keyword type="function" name="xsltComputeSortResult ()" link="libxslt-xsltutils.html#xsltComputeSortResult"/>
+    <keyword type="function" name="xsltCopy ()" link="libxslt-transform.html#xsltCopy"/>
+    <keyword type="function" name="xsltCopyNamespace ()" link="libxslt-namespaces.html#xsltCopyNamespace"/>
+    <keyword type="function" name="xsltCopyNamespaceList ()" link="libxslt-namespaces.html#xsltCopyNamespaceList"/>
+    <keyword type="function" name="xsltCopyOf ()" link="libxslt-transform.html#xsltCopyOf"/>
+    <keyword type="function" name="xsltCopyTextString ()" link="libxslt-transform.html#xsltCopyTextString"/>
+    <keyword type="function" name="xsltCreateRVT ()" link="libxslt-xsltInternals.html#xsltCreateRVT"/>
+    <keyword type="function" name="xsltDebug ()" link="libxslt-extra.html#xsltDebug"/>
+    <keyword type="function" name="xsltDebugDumpExtensions ()" link="libxslt-extensions.html#xsltDebugDumpExtensions"/>
+    <keyword type="function" name="xsltDebugGetDefaultTrace ()" link="libxslt-xsltutils.html#xsltDebugGetDefaultTrace"/>
+    <keyword type="function" name="xsltDebugSetDefaultTrace ()" link="libxslt-xsltutils.html#xsltDebugSetDefaultTrace"/>
+    <keyword type="function" name="xsltDecimalFormatGetByName ()" link="libxslt-xsltInternals.html#xsltDecimalFormatGetByName"/>
+    <keyword type="function" name="xsltDecimalFormatGetByQName ()" link="libxslt-xsltInternals.html#xsltDecimalFormatGetByQName"/>
+    <keyword type="function" name="xsltDefaultSortFunction ()" link="libxslt-xsltutils.html#xsltDefaultSortFunction"/>
+    <keyword type="function" name="xsltDoSortFunction ()" link="libxslt-xsltutils.html#xsltDoSortFunction"/>
+    <keyword type="function" name="xsltDocumentComp ()" link="libxslt-preproc.html#xsltDocumentComp"/>
+    <keyword type="function" name="xsltDocumentElem ()" link="libxslt-transform.html#xsltDocumentElem"/>
+    <keyword type="function" name="xsltDocumentFunction ()" link="libxslt-functions.html#xsltDocumentFunction"/>
+    <keyword type="function" name="xsltDocumentSortFunction ()" link="libxslt-xsltutils.html#xsltDocumentSortFunction"/>
+    <keyword type="function" name="xsltElement ()" link="libxslt-transform.html#xsltElement"/>
+    <keyword type="function" name="xsltElementAvailableFunction ()" link="libxslt-functions.html#xsltElementAvailableFunction"/>
+    <keyword type="function" name="xsltEvalAVT ()" link="libxslt-xsltInternals.html#xsltEvalAVT"/>
+    <keyword type="function" name="xsltEvalAttrValueTemplate ()" link="libxslt-templates.html#xsltEvalAttrValueTemplate"/>
+    <keyword type="function" name="xsltEvalGlobalVariables ()" link="libxslt-variables.html#xsltEvalGlobalVariables"/>
+    <keyword type="function" name="xsltEvalOneUserParam ()" link="libxslt-variables.html#xsltEvalOneUserParam"/>
+    <keyword type="function" name="xsltEvalStaticAttrValueTemplate ()" link="libxslt-templates.html#xsltEvalStaticAttrValueTemplate"/>
+    <keyword type="function" name="xsltEvalTemplateString ()" link="libxslt-templates.html#xsltEvalTemplateString"/>
+    <keyword type="function" name="xsltEvalUserParams ()" link="libxslt-variables.html#xsltEvalUserParams"/>
+    <keyword type="function" name="xsltEvalXPathPredicate ()" link="libxslt-templates.html#xsltEvalXPathPredicate"/>
+    <keyword type="function" name="xsltEvalXPathString ()" link="libxslt-templates.html#xsltEvalXPathString"/>
+    <keyword type="function" name="xsltEvalXPathStringNs ()" link="libxslt-templates.html#xsltEvalXPathStringNs"/>
+    <keyword type="function" name="xsltExtElementLookup ()" link="libxslt-extensions.html#xsltExtElementLookup"/>
+    <keyword type="function" name="xsltExtModuleElementLookup ()" link="libxslt-extensions.html#xsltExtModuleElementLookup"/>
+    <keyword type="function" name="xsltExtModuleElementPreComputeLookup ()" link="libxslt-extensions.html#xsltExtModuleElementPreComputeLookup"/>
+    <keyword type="function" name="xsltExtModuleFunctionLookup ()" link="libxslt-extensions.html#xsltExtModuleFunctionLookup"/>
+    <keyword type="function" name="xsltExtModuleTopLevelLookup ()" link="libxslt-extensions.html#xsltExtModuleTopLevelLookup"/>
+    <keyword type="function" name="xsltExtensionInstructionResultFinalize ()" link="libxslt-xsltInternals.html#xsltExtensionInstructionResultFinalize"/>
+    <keyword type="function" name="xsltExtensionInstructionResultRegister ()" link="libxslt-xsltInternals.html#xsltExtensionInstructionResultRegister"/>
+    <keyword type="function" name="xsltFindDocument ()" link="libxslt-documents.html#xsltFindDocument"/>
+    <keyword type="function" name="xsltFindElemSpaceHandling ()" link="libxslt-imports.html#xsltFindElemSpaceHandling"/>
+    <keyword type="function" name="xsltFindTemplate ()" link="libxslt-imports.html#xsltFindTemplate"/>
+    <keyword type="function" name="xsltFlagRVTs ()" link="libxslt-xsltInternals.html#xsltFlagRVTs"/>
+    <keyword type="function" name="xsltForEach ()" link="libxslt-transform.html#xsltForEach"/>
+    <keyword type="function" name="xsltFormatNumberConversion ()" link="libxslt-xsltInternals.html#xsltFormatNumberConversion"/>
+    <keyword type="function" name="xsltFormatNumberFunction ()" link="libxslt-functions.html#xsltFormatNumberFunction"/>
+    <keyword type="function" name="xsltFreeAVTList ()" link="libxslt-xsltInternals.html#xsltFreeAVTList"/>
+    <keyword type="function" name="xsltFreeAttributeSetsHashes ()" link="libxslt-attributes.html#xsltFreeAttributeSetsHashes"/>
+    <keyword type="function" name="xsltFreeCompMatchList ()" link="libxslt-pattern.html#xsltFreeCompMatchList"/>
+    <keyword type="function" name="xsltFreeCtxtExts ()" link="libxslt-extensions.html#xsltFreeCtxtExts"/>
+    <keyword type="function" name="xsltFreeDocumentKeys ()" link="libxslt-keys.html#xsltFreeDocumentKeys"/>
+    <keyword type="function" name="xsltFreeDocuments ()" link="libxslt-documents.html#xsltFreeDocuments"/>
+    <keyword type="function" name="xsltFreeExts ()" link="libxslt-extensions.html#xsltFreeExts"/>
+    <keyword type="function" name="xsltFreeGlobalVariables ()" link="libxslt-variables.html#xsltFreeGlobalVariables"/>
+    <keyword type="function" name="xsltFreeKeys ()" link="libxslt-keys.html#xsltFreeKeys"/>
+    <keyword type="function" name="xsltFreeLocale ()" link="libxslt-xsltlocale.html#xsltFreeLocale"/>
+    <keyword type="function" name="xsltFreeLocales ()" link="libxslt-xsltlocale.html#xsltFreeLocales"/>
+    <keyword type="function" name="xsltFreeNamespaceAliasHashes ()" link="libxslt-namespaces.html#xsltFreeNamespaceAliasHashes"/>
+    <keyword type="function" name="xsltFreeRVTs ()" link="libxslt-xsltInternals.html#xsltFreeRVTs"/>
+    <keyword type="function" name="xsltFreeSecurityPrefs ()" link="libxslt-security.html#xsltFreeSecurityPrefs"/>
+    <keyword type="function" name="xsltFreeStackElemList ()" link="libxslt-xsltInternals.html#xsltFreeStackElemList"/>
+    <keyword type="function" name="xsltFreeStyleDocuments ()" link="libxslt-documents.html#xsltFreeStyleDocuments"/>
+    <keyword type="function" name="xsltFreeStylePreComps ()" link="libxslt-preproc.html#xsltFreeStylePreComps"/>
+    <keyword type="function" name="xsltFreeStylesheet ()" link="libxslt-xsltInternals.html#xsltFreeStylesheet"/>
+    <keyword type="function" name="xsltFreeTemplateHashes ()" link="libxslt-pattern.html#xsltFreeTemplateHashes"/>
+    <keyword type="function" name="xsltFreeTransformContext ()" link="libxslt-transform.html#xsltFreeTransformContext"/>
+    <keyword type="function" name="xsltFunctionAvailableFunction ()" link="libxslt-functions.html#xsltFunctionAvailableFunction"/>
+    <keyword type="function" name="xsltFunctionNodeSet ()" link="libxslt-extra.html#xsltFunctionNodeSet"/>
+    <keyword type="function" name="xsltGenerateIdFunction ()" link="libxslt-functions.html#xsltGenerateIdFunction"/>
+    <keyword type="function" name="xsltGetCNsProp ()" link="libxslt-xsltutils.html#xsltGetCNsProp"/>
+    <keyword type="function" name="xsltGetDebuggerStatus ()" link="libxslt-xsltutils.html#xsltGetDebuggerStatus"/>
+    <keyword type="function" name="xsltGetDefaultSecurityPrefs ()" link="libxslt-security.html#xsltGetDefaultSecurityPrefs"/>
+    <keyword type="function" name="xsltGetExtData ()" link="libxslt-extensions.html#xsltGetExtData"/>
+    <keyword type="function" name="xsltGetExtInfo ()" link="libxslt-extensions.html#xsltGetExtInfo"/>
+    <keyword type="function" name="xsltGetKey ()" link="libxslt-keys.html#xsltGetKey"/>
+    <keyword type="function" name="xsltGetNamespace ()" link="libxslt-namespaces.html#xsltGetNamespace"/>
+    <keyword type="function" name="xsltGetNsProp ()" link="libxslt-xsltutils.html#xsltGetNsProp"/>
+    <keyword type="function" name="xsltGetPlainNamespace ()" link="libxslt-namespaces.html#xsltGetPlainNamespace"/>
+    <keyword type="function" name="xsltGetProfileInformation ()" link="libxslt-xsltutils.html#xsltGetProfileInformation"/>
+    <keyword type="function" name="xsltGetQNameURI ()" link="libxslt-xsltutils.html#xsltGetQNameURI"/>
+    <keyword type="function" name="xsltGetQNameURI2 ()" link="libxslt-xsltutils.html#xsltGetQNameURI2"/>
+    <keyword type="function" name="xsltGetSecurityPrefs ()" link="libxslt-security.html#xsltGetSecurityPrefs"/>
+    <keyword type="function" name="xsltGetSpecialNamespace ()" link="libxslt-namespaces.html#xsltGetSpecialNamespace"/>
+    <keyword type="function" name="xsltGetTemplate ()" link="libxslt-pattern.html#xsltGetTemplate"/>
+    <keyword type="function" name="xsltGetUTF8Char ()" link="libxslt-xsltutils.html#xsltGetUTF8Char"/>
+    <keyword type="function" name="xsltGetXIncludeDefault ()" link="libxslt-transform.html#xsltGetXIncludeDefault"/>
+    <keyword type="function" name="xsltIf ()" link="libxslt-transform.html#xsltIf"/>
+    <keyword type="function" name="xsltInit ()" link="libxslt-xslt.html#xsltInit"/>
+    <keyword type="function" name="xsltInitAllDocKeys ()" link="libxslt-xsltInternals.html#xsltInitAllDocKeys"/>
+    <keyword type="function" name="xsltInitCtxtExts ()" link="libxslt-extensions.html#xsltInitCtxtExts"/>
+    <keyword type="function" name="xsltInitCtxtKey ()" link="libxslt-xsltInternals.html#xsltInitCtxtKey"/>
+    <keyword type="function" name="xsltInitCtxtKeys ()" link="libxslt-keys.html#xsltInitCtxtKeys"/>
+    <keyword type="function" name="xsltInitElemPreComp ()" link="libxslt-extensions.html#xsltInitElemPreComp"/>
+    <keyword type="function" name="xsltInitGlobals ()" link="libxslt-extensions.html#xsltInitGlobals"/>
+    <keyword type="function" name="xsltIsBlank ()" link="libxslt-xsltInternals.html#xsltIsBlank"/>
+    <keyword type="function" name="xsltKeyFunction ()" link="libxslt-functions.html#xsltKeyFunction"/>
+    <keyword type="function" name="xsltLoadDocument ()" link="libxslt-documents.html#xsltLoadDocument"/>
+    <keyword type="function" name="xsltLoadStyleDocument ()" link="libxslt-documents.html#xsltLoadStyleDocument"/>
+    <keyword type="function" name="xsltLoadStylesheetPI ()" link="libxslt-xsltInternals.html#xsltLoadStylesheetPI"/>
+    <keyword type="function" name="xsltLocalVariablePop ()" link="libxslt-transform.html#xsltLocalVariablePop"/>
+    <keyword type="function" name="xsltLocalVariablePush ()" link="libxslt-transform.html#xsltLocalVariablePush"/>
+    <keyword type="function" name="xsltLocaleStrcmp ()" link="libxslt-xsltlocale.html#xsltLocaleStrcmp"/>
+    <keyword type="function" name="xsltMatchPattern ()" link="libxslt-pattern.html#xsltMatchPattern"/>
+    <keyword type="function" name="xsltMessage ()" link="libxslt-xsltutils.html#xsltMessage"/>
+    <keyword type="function" name="xsltNamespaceAlias ()" link="libxslt-namespaces.html#xsltNamespaceAlias"/>
+    <keyword type="function" name="xsltNeedElemSpaceHandling ()" link="libxslt-imports.html#xsltNeedElemSpaceHandling"/>
+    <keyword type="function" name="xsltNewDocument ()" link="libxslt-documents.html#xsltNewDocument"/>
+    <keyword type="function" name="xsltNewElemPreComp ()" link="libxslt-extensions.html#xsltNewElemPreComp"/>
+    <keyword type="function" name="xsltNewLocale ()" link="libxslt-xsltlocale.html#xsltNewLocale"/>
+    <keyword type="function" name="xsltNewSecurityPrefs ()" link="libxslt-security.html#xsltNewSecurityPrefs"/>
+    <keyword type="function" name="xsltNewStyleDocument ()" link="libxslt-documents.html#xsltNewStyleDocument"/>
+    <keyword type="function" name="xsltNewStylesheet ()" link="libxslt-xsltInternals.html#xsltNewStylesheet"/>
+    <keyword type="function" name="xsltNewTransformContext ()" link="libxslt-transform.html#xsltNewTransformContext"/>
+    <keyword type="function" name="xsltNextImport ()" link="libxslt-imports.html#xsltNextImport"/>
+    <keyword type="function" name="xsltNormalizeCompSteps ()" link="libxslt-pattern.html#xsltNormalizeCompSteps"/>
+    <keyword type="function" name="xsltNumber ()" link="libxslt-transform.html#xsltNumber"/>
+    <keyword type="function" name="xsltNumberFormat ()" link="libxslt-xsltInternals.html#xsltNumberFormat"/>
+    <keyword type="function" name="xsltParseAnyXSLTElem ()" link="libxslt-xsltInternals.html#xsltParseAnyXSLTElem"/>
+    <keyword type="function" name="xsltParseGlobalParam ()" link="libxslt-variables.html#xsltParseGlobalParam"/>
+    <keyword type="function" name="xsltParseGlobalVariable ()" link="libxslt-variables.html#xsltParseGlobalVariable"/>
+    <keyword type="function" name="xsltParseSequenceConstructor ()" link="libxslt-xsltInternals.html#xsltParseSequenceConstructor"/>
+    <keyword type="function" name="xsltParseStylesheetAttributeSet ()" link="libxslt-attributes.html#xsltParseStylesheetAttributeSet"/>
+    <keyword type="function" name="xsltParseStylesheetCallerParam ()" link="libxslt-variables.html#xsltParseStylesheetCallerParam"/>
+    <keyword type="function" name="xsltParseStylesheetDoc ()" link="libxslt-xsltInternals.html#xsltParseStylesheetDoc"/>
+    <keyword type="function" name="xsltParseStylesheetFile ()" link="libxslt-xsltInternals.html#xsltParseStylesheetFile"/>
+    <keyword type="function" name="xsltParseStylesheetImport ()" link="libxslt-imports.html#xsltParseStylesheetImport"/>
+    <keyword type="function" name="xsltParseStylesheetImportedDoc ()" link="libxslt-xsltInternals.html#xsltParseStylesheetImportedDoc"/>
+    <keyword type="function" name="xsltParseStylesheetInclude ()" link="libxslt-imports.html#xsltParseStylesheetInclude"/>
+    <keyword type="function" name="xsltParseStylesheetOutput ()" link="libxslt-xsltInternals.html#xsltParseStylesheetOutput"/>
+    <keyword type="function" name="xsltParseStylesheetParam ()" link="libxslt-variables.html#xsltParseStylesheetParam"/>
+    <keyword type="function" name="xsltParseStylesheetProcess ()" link="libxslt-xsltInternals.html#xsltParseStylesheetProcess"/>
+    <keyword type="function" name="xsltParseStylesheetUser ()" link="libxslt-xsltInternals.html#xsltParseStylesheetUser"/>
+    <keyword type="function" name="xsltParseStylesheetVariable ()" link="libxslt-variables.html#xsltParseStylesheetVariable"/>
+    <keyword type="function" name="xsltParseTemplateContent ()" link="libxslt-xsltInternals.html#xsltParseTemplateContent"/>
+    <keyword type="function" name="xsltPointerListAddSize ()" link="libxslt-xsltInternals.html#xsltPointerListAddSize"/>
+    <keyword type="function" name="xsltPointerListClear ()" link="libxslt-xsltInternals.html#xsltPointerListClear"/>
+    <keyword type="function" name="xsltPointerListCreate ()" link="libxslt-xsltInternals.html#xsltPointerListCreate"/>
+    <keyword type="function" name="xsltPointerListFree ()" link="libxslt-xsltInternals.html#xsltPointerListFree"/>
+    <keyword type="function" name="xsltPreComputeExtModuleElement ()" link="libxslt-extensions.html#xsltPreComputeExtModuleElement"/>
+    <keyword type="function" name="xsltPrintErrorContext ()" link="libxslt-xsltutils.html#xsltPrintErrorContext"/>
+    <keyword type="function" name="xsltProcessOneNode ()" link="libxslt-transform.html#xsltProcessOneNode"/>
+    <keyword type="function" name="xsltProcessingInstruction ()" link="libxslt-transform.html#xsltProcessingInstruction"/>
+    <keyword type="function" name="xsltProfileStylesheet ()" link="libxslt-transform.html#xsltProfileStylesheet"/>
+    <keyword type="function" name="xsltQuoteOneUserParam ()" link="libxslt-variables.html#xsltQuoteOneUserParam"/>
+    <keyword type="function" name="xsltQuoteUserParams ()" link="libxslt-variables.html#xsltQuoteUserParams"/>
+    <keyword type="function" name="xsltRegisterAllElement ()" link="libxslt-transform.html#xsltRegisterAllElement"/>
+    <keyword type="function" name="xsltRegisterAllExtras ()" link="libxslt-extra.html#xsltRegisterAllExtras"/>
+    <keyword type="function" name="xsltRegisterAllFunctions ()" link="libxslt-functions.html#xsltRegisterAllFunctions"/>
+    <keyword type="function" name="xsltRegisterExtElement ()" link="libxslt-extensions.html#xsltRegisterExtElement"/>
+    <keyword type="function" name="xsltRegisterExtFunction ()" link="libxslt-extensions.html#xsltRegisterExtFunction"/>
+    <keyword type="function" name="xsltRegisterExtModule ()" link="libxslt-extensions.html#xsltRegisterExtModule"/>
+    <keyword type="function" name="xsltRegisterExtModuleElement ()" link="libxslt-extensions.html#xsltRegisterExtModuleElement"/>
+    <keyword type="function" name="xsltRegisterExtModuleFull ()" link="libxslt-extensions.html#xsltRegisterExtModuleFull"/>
+    <keyword type="function" name="xsltRegisterExtModuleFunction ()" link="libxslt-extensions.html#xsltRegisterExtModuleFunction"/>
+    <keyword type="function" name="xsltRegisterExtModuleTopLevel ()" link="libxslt-extensions.html#xsltRegisterExtModuleTopLevel"/>
+    <keyword type="function" name="xsltRegisterExtPrefix ()" link="libxslt-extensions.html#xsltRegisterExtPrefix"/>
+    <keyword type="function" name="xsltRegisterExtras ()" link="libxslt-extra.html#xsltRegisterExtras"/>
+    <keyword type="function" name="xsltRegisterLocalRVT ()" link="libxslt-xsltInternals.html#xsltRegisterLocalRVT"/>
+    <keyword type="function" name="xsltRegisterPersistRVT ()" link="libxslt-xsltInternals.html#xsltRegisterPersistRVT"/>
+    <keyword type="function" name="xsltRegisterTestModule ()" link="libxslt-extensions.html#xsltRegisterTestModule"/>
+    <keyword type="function" name="xsltRegisterTmpRVT ()" link="libxslt-xsltInternals.html#xsltRegisterTmpRVT"/>
+    <keyword type="function" name="xsltReleaseRVT ()" link="libxslt-xsltInternals.html#xsltReleaseRVT"/>
+    <keyword type="function" name="xsltResolveStylesheetAttributeSet ()" link="libxslt-attributes.html#xsltResolveStylesheetAttributeSet"/>
+    <keyword type="function" name="xsltRestoreDocumentNamespaces ()" link="libxslt-xsltInternals.html#xsltRestoreDocumentNamespaces"/>
+    <keyword type="function" name="xsltRunStylesheet ()" link="libxslt-transform.html#xsltRunStylesheet"/>
+    <keyword type="function" name="xsltRunStylesheetUser ()" link="libxslt-transform.html#xsltRunStylesheetUser"/>
+    <keyword type="function" name="xsltSaveProfiling ()" link="libxslt-xsltutils.html#xsltSaveProfiling"/>
+    <keyword type="function" name="xsltSaveResultTo ()" link="libxslt-xsltutils.html#xsltSaveResultTo"/>
+    <keyword type="function" name="xsltSaveResultToFd ()" link="libxslt-xsltutils.html#xsltSaveResultToFd"/>
+    <keyword type="function" name="xsltSaveResultToFile ()" link="libxslt-xsltutils.html#xsltSaveResultToFile"/>
+    <keyword type="function" name="xsltSaveResultToFilename ()" link="libxslt-xsltutils.html#xsltSaveResultToFilename"/>
+    <keyword type="function" name="xsltSaveResultToString ()" link="libxslt-xsltutils.html#xsltSaveResultToString"/>
+    <keyword type="function" name="xsltSecurityAllow ()" link="libxslt-security.html#xsltSecurityAllow"/>
+    <keyword type="function" name="xsltSecurityForbid ()" link="libxslt-security.html#xsltSecurityForbid"/>
+    <keyword type="function" name="xsltSetCtxtParseOptions ()" link="libxslt-xsltutils.html#xsltSetCtxtParseOptions"/>
+    <keyword type="function" name="xsltSetCtxtSecurityPrefs ()" link="libxslt-security.html#xsltSetCtxtSecurityPrefs"/>
+    <keyword type="function" name="xsltSetCtxtSortFunc ()" link="libxslt-xsltutils.html#xsltSetCtxtSortFunc"/>
+    <keyword type="function" name="xsltSetDebuggerCallbacks ()" link="libxslt-xsltutils.html#xsltSetDebuggerCallbacks"/>
+    <keyword type="function" name="xsltSetDebuggerStatus ()" link="libxslt-xsltutils.html#xsltSetDebuggerStatus"/>
+    <keyword type="function" name="xsltSetDefaultSecurityPrefs ()" link="libxslt-security.html#xsltSetDefaultSecurityPrefs"/>
+    <keyword type="function" name="xsltSetGenericDebugFunc ()" link="libxslt-xsltutils.html#xsltSetGenericDebugFunc"/>
+    <keyword type="function" name="xsltSetGenericErrorFunc ()" link="libxslt-xsltutils.html#xsltSetGenericErrorFunc"/>
+    <keyword type="function" name="xsltSetLoaderFunc ()" link="libxslt-documents.html#xsltSetLoaderFunc"/>
+    <keyword type="function" name="xsltSetSecurityPrefs ()" link="libxslt-security.html#xsltSetSecurityPrefs"/>
+    <keyword type="function" name="xsltSetSortFunc ()" link="libxslt-xsltutils.html#xsltSetSortFunc"/>
+    <keyword type="function" name="xsltSetTransformErrorFunc ()" link="libxslt-xsltutils.html#xsltSetTransformErrorFunc"/>
+    <keyword type="function" name="xsltSetXIncludeDefault ()" link="libxslt-transform.html#xsltSetXIncludeDefault"/>
+    <keyword type="function" name="xsltShutdownCtxtExts ()" link="libxslt-extensions.html#xsltShutdownCtxtExts"/>
+    <keyword type="function" name="xsltShutdownExts ()" link="libxslt-extensions.html#xsltShutdownExts"/>
+    <keyword type="function" name="xsltSort ()" link="libxslt-transform.html#xsltSort"/>
+    <keyword type="function" name="xsltSplitQName ()" link="libxslt-xsltutils.html#xsltSplitQName"/>
+    <keyword type="function" name="xsltStrxfrm ()" link="libxslt-xsltlocale.html#xsltStrxfrm"/>
+    <keyword type="function" name="xsltStyleGetExtData ()" link="libxslt-extensions.html#xsltStyleGetExtData"/>
+    <keyword type="function" name="xsltStylePreCompute ()" link="libxslt-preproc.html#xsltStylePreCompute"/>
+    <keyword type="function" name="xsltStyleStylesheetLevelGetExtData ()" link="libxslt-extensions.html#xsltStyleStylesheetLevelGetExtData"/>
+    <keyword type="function" name="xsltSystemPropertyFunction ()" link="libxslt-functions.html#xsltSystemPropertyFunction"/>
+    <keyword type="function" name="xsltTemplateProcess ()" link="libxslt-templates.html#xsltTemplateProcess"/>
+    <keyword type="function" name="xsltTestCompMatchList ()" link="libxslt-pattern.html#xsltTestCompMatchList"/>
+    <keyword type="function" name="xsltText ()" link="libxslt-transform.html#xsltText"/>
+    <keyword type="function" name="xsltTimestamp ()" link="libxslt-xsltutils.html#xsltTimestamp"/>
+    <keyword type="function" name="xsltTransformError ()" link="libxslt-xsltutils.html#xsltTransformError"/>
+    <keyword type="function" name="xsltUninit ()" link="libxslt-xsltInternals.html#xsltUninit"/>
+    <keyword type="function" name="xsltUnparsedEntityURIFunction ()" link="libxslt-functions.html#xsltUnparsedEntityURIFunction"/>
+    <keyword type="function" name="xsltUnregisterExtModule ()" link="libxslt-extensions.html#xsltUnregisterExtModule"/>
+    <keyword type="function" name="xsltUnregisterExtModuleElement ()" link="libxslt-extensions.html#xsltUnregisterExtModuleElement"/>
+    <keyword type="function" name="xsltUnregisterExtModuleFunction ()" link="libxslt-extensions.html#xsltUnregisterExtModuleFunction"/>
+    <keyword type="function" name="xsltUnregisterExtModuleTopLevel ()" link="libxslt-extensions.html#xsltUnregisterExtModuleTopLevel"/>
+    <keyword type="function" name="xsltValueOf ()" link="libxslt-transform.html#xsltValueOf"/>
+    <keyword type="function" name="xsltVariableLookup ()" link="libxslt-variables.html#xsltVariableLookup"/>
+    <keyword type="function" name="xsltXPathCompile ()" link="libxslt-xsltutils.html#xsltXPathCompile"/>
+    <keyword type="function" name="xsltXPathCompileFlags ()" link="libxslt-xsltutils.html#xsltXPathCompileFlags"/>
+    <keyword type="function" name="xsltXPathFunctionLookup ()" link="libxslt-functions.html#xsltXPathFunctionLookup"/>
+    <keyword type="function" name="xsltXPathGetTransformContext ()" link="libxslt-extensions.html#xsltXPathGetTransformContext"/>
+    <keyword type="function" name="xsltXPathVariableLookup ()" link="libxslt-variables.html#xsltXPathVariableLookup"/>
+  </functions>
+</book>
