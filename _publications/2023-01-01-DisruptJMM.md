@@ -1,7 +1,7 @@
 ---
 title: "#DisruptJMM: Themes of online social justice advocacy and community building in STEM."
 collection: publications
-permalink: /publication/2023-01-01-DisruptJMM.md
+permalink: /publication/2023-01-01-DisruptJMM
 date: 2023-01-01
 venue: 'socArXiV'
 citation: 'Roca, R., Eaton, C. D., __Lewis, D.__, Hibdon, J. E., Jr., & Marshall, S. (2023, February 15). #DisruptJMM: Themes of online social justice advocacy and community building in STEM. https://doi.org/10.31235/osf.io/8cxm4'
