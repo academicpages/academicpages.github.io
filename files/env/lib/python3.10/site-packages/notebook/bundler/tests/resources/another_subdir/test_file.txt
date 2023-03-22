@@ -1,1 +1,0 @@
-Used to test globbing.

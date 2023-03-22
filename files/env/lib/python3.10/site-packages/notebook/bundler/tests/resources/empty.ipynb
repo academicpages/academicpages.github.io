@@ -1,6 +1,0 @@
-{
-  "nbformat_minor": 0,
-  "cells": [],
-  "nbformat": 4,
-  "metadata": {}
-}

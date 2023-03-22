@@ -1,1 +1,0 @@
-Sample description for test.
