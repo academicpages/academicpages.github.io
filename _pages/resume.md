@@ -15,7 +15,32 @@ redirect_from:
    style="width:100%;display:block;text-align:center;padding:.5em;background-color:#52adc8;color:#fff;border-radius:6px;box-shadow:0 4px 6px rgba(50,50,93,.11), 0 1px 3px          rgba(0,0,0,.08);text-decoration:none">Download and View as PDF</a>  
    
    
-   
+Theatre Experience
+======
+## **Design**     
+*A Christmas Carol: A Radio Play     Prop Master/Carpenter     Dir. Virginia Hirsch    Arkansas State University
+                                                               *Des. Jeff McLaughlin
+*Everybody     Prop Master/Carpenter    Dir. Virginia Hirsch       Arkansas State University
+                                        *Des. Jeff McLaughlin
+Head Over Heels
+Prop Master
+Dir. Brianna Larson
+Arkansas State University
+Little Women
+Prop Master
+Dir. Brianna Larson
+Arkansas State University
+Revue
+Light operator/ Carpenter
+Dir. Brianna Larson
+Des. Caisa Sanburg
+Arkansas State University
+She Kills Monsters: Virtual Realms
+Carpenter
+Des. Jeff McLaughlin
+Arkansas State University
+
+
    
 Skills
 ======
@@ -46,9 +71,7 @@ Education
   
   
     
-Theatre Experience
-======
-## **Arkansas State University**  
+
 
 ***A Christmas Carol: A Radio Play*** — *Prop Master* and *Carpenter* — November 2021 December 2021  
   * Managed props including foley props used on stage.   
