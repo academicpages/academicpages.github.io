@@ -17,30 +17,39 @@ redirect_from:
    
 Theatre Experience
 ======
-## **Design**     
-*A Christmas Carol: A Radio Play     Prop Master/Carpenter     Dir. Virginia Hirsch    Arkansas State University
-                                                               *Des. Jeff McLaughlin
-*Everybody     Prop Master/Carpenter    Dir. Virginia Hirsch       Arkansas State University
-                                        *Des. Jeff McLaughlin
-Head Over Heels
-Prop Master
-Dir. Brianna Larson
-Arkansas State University
-Little Women
-Prop Master
-Dir. Brianna Larson
-Arkansas State University
-Revue
-Light operator/ Carpenter
-Dir. Brianna Larson
-Des. Caisa Sanburg
-Arkansas State University
-She Kills Monsters: Virtual Realms
-Carpenter
-Des. Jeff McLaughlin
-Arkansas State University
+**Stagemanagement**   
+
+|                                 |                          |                                          |                           |
+|---------------------------------|--------------------------|------------------------------------------|---------------------------|
+| God of Carnage                  | Assistant Stage Manager  | Dir. Brandon Sterrett                    | Arkansas State University |
+| The Importance of Being Earnest | Stage Manager/Carpenter  | Dir. Brianna Larson Des. Jeff McLaughlin | Arkansas State University |
+| Peter and the Starcatcher       | Stage Manager            | Dir. Dayday Robinson                     | Arkansas State University |
 
 
+**Design**
+
+|                                    |                           |                                           |                           |
+|------------------------------------|---------------------------|-------------------------------------------|---------------------------|
+| A Christmas Carol: A Radio Play    | Prop Master/Carpenter     | Dir. Virginia Hirsch Des. Jeff McLaughlin | Arkansas State University |
+| Everybody                          | Prop Master/Carpenter     | Dir. Virginia Hirsch Des. Jeff McLaughlin | Arkansas State University |
+| Head Over Heels                    | Prop Master               | Dir. Brianna Larson                       | Arkansas State University |
+| Little Women                       | Prop Master               | Dir. Brianna Larson                       | Arkansas State University |
+| Revue                              | Light operator/ Carpenter | Dir. Brianna Larson Des. Caisa Sanburg    | Arkansas State University |
+| She Kills Monsters: Virtual Realms | Carpenter                 | Des. Jeff McLaughlin                      | Arkansas State University |
+
+
+    
+Related Theatrical Experience 
+======
+
+**Memphis Escape Rooms** — *Production Specialist* May 2021- August 2021   
+  * Participated in the design, build, and beta processes for many rooms and performed maintenance on rooms.  
+   
+Education
+======
+**Arkansas State University, Jonesboro Arkansas** August 2019 - Present  
+  * Majoring in theatre with an emphasis in design technologies including scenic, lighting,
+    sound, and makeup design.     
    
 Skills
 ======
@@ -54,66 +63,23 @@ Skills
   * Designing, Printing, Performing Maintenance 
 * Designing and building props 
 * Experience with scenic design, joinery, and building techniques and processes
-  
-  
-  
-    
-Education
-======
-**Arkansas State University, Jonesboro Arkansas** August 2019 - Present  
-  * Majoring in theatre with an emphasis in design technologies including scenic, lighting,
-    sound, and makeup design.  
 
-**Saint Benedict at Auburndale Catholic School, Memphis Tennessee** August 2015 - May 2019  
-  * Attended all four years of high school and spent time in the theatre department.  
-    Helped production for shows including *The Addams Family Musical* and *Kill Me Deadly*.  
-  
-  
-  
-    
-
-
-***A Christmas Carol: A Radio Play*** — *Prop Master* and *Carpenter* — November 2021 December 2021  
-  * Managed props including foley props used on stage.   
-
-***The Importance of Being Earnest*** — *Stage Manager* and *Carpenter* — August 2021 - October 2021  
-  * Scheduled and ran rehearsals coordinated between designers, director, and actors and crew oversaw and called cues for every performance.   
-
-***Revue*** — *Light Operator* and *Carpenter* — April 2021 - April 2021  
-  * Helped set up and monitor lighting for outdoor productions.   
-
-***Everybody*** — *Prop Master* and *Carpenter* — October 2020 - November 2020  
-  * Managed and built props including a fully posable puppet.   
-
-***She Kills Monsters: Virtual Realms*** — *Documentarian* and *Carpenter* — October 2020 - November 2020  
-  * Took pictures during performances and rehearsals for marketing and credit purposes.  
-
-***God of Carnage*** — *Assistant Stage Manager* January 2020 - February 2020    
-  * Performed many duties including handing out line notes, rehearsal/performance reports and calls, and managed props and backstage during productions.  
-
-## **Saint Benedict At Auburndale Catholic High School**  
-***The Addams Family Musical*** and ***Kill Me Deadly***  
-  * Worked as part of the scenic design and build team for both productions and was the lead carpenter and designer for ***The Addams Family Musical***.  
-  
-  
-  
-    
-Other Experience  
+References
 ======
 
-**Memphis Escape Rooms** — *Production Specialist* May 2021- August 2021   
-  * Participated in the design, build, and beta processes for many rooms and performed maintenance on rooms.  
-    
-**Rain-tek, Memphis Tennessee** — *Crew* May 2019 - August 2019   
-  * Installed and serviced many irrigation systems including wiring and assembly of systems.   
-    
-**Firehouse Subs, Memphis Tennessee** — *Crew Member* May 2016 - August 2018  
-  * Performed various duties including opening, closing, register, stocking, and food prep.   
-
-    
-    
-Awards 
-======
- Nominated for an Orpheum High School Musical Theatre Award for outstanding scenic
- design for The Addams Family Musical
-
+* Shannon Derouen 
+Formerly of Puzzol Creative, LLC. Memphis Escape Rooms 
+Former Production Manager 
+Memphis, TN 
+Phone: (901)-210-2432
+* Jeff McLaughlin 
+	Arkansas State University 
+Associate Professor of Theatre
+Scenic Designer and Technical Director
+jmclaughlin@astate.edu
+Phone: (870) 972-2373
+* Brianna Larson
+	Arkansas State University
+Assistant Professor of Theatre and Dance
+blarson@astate.edu
+Phone: (870) 972-2355
