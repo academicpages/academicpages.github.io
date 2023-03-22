@@ -2,11 +2,10 @@
 layout: archive
 title: "Publications and code"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
 
-## Preprint
 
 - **Tianli Liao** and Nan Li. Natural Image Stitching Using Depth Maps.         
 [Arxiv Preprint](https://arxiv.org/abs/2202.06276)
@@ -29,6 +28,8 @@ author_profile: true
 ------
 <p>Visitors: <img src="https://www.easycounter.com/counter.php?lincoln_homepage"
 border="0" alt="Free Web Counter"></p>
+
+
 
 
 
