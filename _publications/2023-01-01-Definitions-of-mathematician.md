@@ -1,10 +1,10 @@
 ---
-title: "On definitions of 'mathematician'"
+title: "On definitions of mathematician"
 collection: publications
 permalink: /publication/2023-01-01-Definitions-of-mathematician.md
 date: 2023-01-01
 venue: 'arXiV'
-citation: 'Ron Buckmire, Carrie Diaz Eaton, Joseph E. Hibdon Jr., Katherine M. Kinnaird, __Drew Lewis__, Jessica Libertini, Omayra Ortega, Rachel Roca, and Andrés R. Vindas-Meléndez. On definitions of "mathematician" (2023) arXiv:2302.07432'
+citation: 'Ron Buckmire, Carrie Diaz Eaton, Joseph E. Hibdon Jr., Katherine M. Kinnaird, __Drew Lewis__, Jessica Libertini, Omayra Ortega, Rachel Roca, and Andrés R. Vindas-Meléndez. On definitions of mathematician (2023) arXiv:2302.07432'
 ---
 
 ### Abstract
