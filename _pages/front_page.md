@@ -2,6 +2,7 @@
 permalink: /
 title: "Drew Lewis"
 author_profile: true
+analytics: true
 ---
 
 I work in mathematics education, education research and faculty development.  If you are interested in having me [speak or consult](consulting.html) please [get in touch](mailto:drew.lewis@gmail.com).
