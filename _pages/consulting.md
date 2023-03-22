@@ -19,3 +19,6 @@ I also frequently give workshops/presentations on the aforementioned topics, mos
 * Promoting Student Learning in Mathematics Courses, 8 hours of content with sessions on Active Learning in Mathematics; Policies and Practices; Collaborative Learning in Mathematics Classrooms; and Assessment for Learning
 * Rehumanizing Assessment: Outcomes-Based Grading 
 * An Introduction to Team-Based Learning
+
+
+If you are interested in having me consult or speak, please [get in touch](mailto:drew.lewis@gmail.com).
