@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /services/
+sitemap: false
 author_profile: true
 ---
 

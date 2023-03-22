@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /publications/
+sitemap: true
 author_profile: true
 ---
 

@@ -2,6 +2,7 @@
 layout: archive
 title: ""
 permalink: /talks/
+sitemap: false
 author_profile: true
 ---
 
