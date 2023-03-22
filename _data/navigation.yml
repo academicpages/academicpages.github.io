@@ -6,6 +6,9 @@ main:
   - title: "Projects"
     url: /projects/    
 
+  - title: "Speaking and Consluting"
+    url: /consulting/
+
   - title: "About"
     url: /about/
     
