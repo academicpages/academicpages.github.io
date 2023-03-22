@@ -13,7 +13,8 @@ redirect_from:
 </div>
 </H2>  
 
-Hi, I am a PhD student at the Cognitive Computer Vision Lab at the University of Erlangen-Nuremberg. I am interested in understanding
+Hi, I am a PhD student at the Cognitive Computer Vision Lab, supervised by [Bernhard Egger](https://eggerbernhard.ch/) at the Friedrich Alexander University of Erlangen Nuremberg.
+I am interested in understanding
 the differences (and possible similarities) of human and machine vision. My interdiscplinary academic trajectory stems from a desire to
 investigate the correspondence between AI and Neuroscience.
 
