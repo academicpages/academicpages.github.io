@@ -18,11 +18,13 @@ Prior to this, I completed my BS degree from Northeastern University (Shenyang, 
 
 
 
-My Research
+Research
 ------
 [CAD with Eye-tracking](/eyetracking/)
+
 [New age with Foundation Models](/largemodels/)
-[Efficient Learning System for Voxel Images](/eyetracking/)
+
+[Efficient Learning System for Voxel Images](/efficientmodels/)
 
 Activities
 ------
