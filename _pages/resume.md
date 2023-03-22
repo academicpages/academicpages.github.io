@@ -19,7 +19,7 @@ Theatre Experience
 ======
 **Stagemanagement**   
 
-|                                 |                          |                                          |                           |
+| Production                      | Position	             | Director			                | Location                  |
 |---------------------------------|--------------------------|------------------------------------------|---------------------------|
 | God of Carnage                  | Assistant Stage Manager  | Dir. Brandon Sterrett                    | Arkansas State University |
 | The Importance of Being Earnest | Stage Manager/Carpenter  | Dir. Brianna Larson Des. Jeff McLaughlin | Arkansas State University |
@@ -28,7 +28,7 @@ Theatre Experience
 
 **Design**
 
-|                                    |                           |                                           |                           |
+| Production                         | Position                  | Director/Designer                         | Location                  |
 |------------------------------------|---------------------------|-------------------------------------------|---------------------------|
 | A Christmas Carol: A Radio Play    | Prop Master/Carpenter     | Dir. Virginia Hirsch Des. Jeff McLaughlin | Arkansas State University |
 | Everybody                          | Prop Master/Carpenter     | Dir. Virginia Hirsch Des. Jeff McLaughlin | Arkansas State University |
