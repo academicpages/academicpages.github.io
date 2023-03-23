@@ -309,13 +309,13 @@ compress_html:
 theme: jekyll-theme-midnight
 
 # Google Analytics
-# google_analytics: UA-226087802-1
+google_analytics: UA-226087802-1
 
 
 # Analytics
-# analytics:
-#   provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
-#   google:
-#     measurement_id          : G-XQNNHHYQ5D
-#     anonymize_ip         : # true, false (default)
+analytics:
+  provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
+  google:
+    measurement_id          : G-XQNNHHYQ5D
+    anonymize_ip         : # true, false (default)
 
