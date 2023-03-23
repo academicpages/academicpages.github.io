@@ -1,5 +1,3 @@
-Wait to release
-
 ---
 title: "ChatGPT Panel"
 collection: talks
