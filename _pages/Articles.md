@@ -7,7 +7,7 @@ author_profile: true
 
 This page is under construction.
 
-# [The First QFT textbook  08/08/2022](https://zhuanlan.zhihu.com/p/550906831)
+# [The First QFT textbook  07/08/2022](https://zhuanlan.zhihu.com/p/550906831)
 
 This articles is written to introduce my first QFT textbook:&apos;Quantum Field Theory Lectures of Sidney Coleman&apos;.
 
