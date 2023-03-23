@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 ## Under Review 
-1. **C. Tang**, N. Srishankar, S. Martin and M. Tomizuka, "Grounded Relational Inference: Domain Knowledge-driven Explainable Autonomous Driving," under review for *IEEE Transactions on Intelligent Transportation System (T-ITS)*
-2. C. Hao, **C. Tang**, E. Bergkvist, C. Weaver, L. Sun, W. Zhan, and M. Tomizuka, “Outracing human racers with model-based autonomous racing,” under review for *IEEE Transactions on Intelligent Vehicles (T-IV)*
-3. S. Shaoshu, C. Hao, C. Weaver, **C. Tang**, W. Zhan, and M. Tomizuka, “Double-iterative gaussian process regression for modeling error compensation in autonomous racing,” under review for *22nd IFAC World Congress 2023*
+1. W. Chang\*, **C. Tang**\*, C. Li, Y. Hu, M. Tomizuka, and W. Zhan, “Editing driver character: Socially-controllable behavior generation for interactive traffic simulation,” under review for *IEEE Robotics and Automation Letters (RA-L)*
+1. **C. Tang**, N. Srishankar, S. Martin and M. Tomizuka, "Grounded relational inference: Domain knowledge-driven explainable autonomous driving," under revision for *IEEE Transactions on Intelligent Transportation System (T-ITS)*
+2. C. Hao, **C. Tang**, E. Bergkvist, C. Weaver, L. Sun, W. Zhan, and M. Tomizuka, “Outracing human racers with model-based autonomous racing,” under revision for *IEEE Transactions on Intelligent Vehicles (T-IV)*
 
 ## Journal
 1. J. Li, **C. Tang**, W. Zhan, and M. Tomizuka, “Hierarchical planning through goal-conditioned offline reinforcement learning,” *IEEE Robotics and Automation Letters (RA-L)* and *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022
@@ -16,6 +16,7 @@ author_profile: true
 1. X. Liu, **C. Tang**, X. Du, S. Xiong, S. Xi, Y. Liu, X. Shen, Q. Zheng, Z. Wang, Y. Wu, et al., “A Highly Sensitive Graphene Woven Fabric Strain Sensor for Wearable Wireless Musical Instruments,” *Materials Horizons*, vol. 4, no. 3, pp. 477–486, 2017
 
 ## Conference Proceedings
+1. S. Su, C. Hao, C. Weaver, **C. Tang**, W. Zhan, and M. Tomizuka, “Double-iterative gaussian process regression for modeling error compensation in autonomous racing,” under review for *22nd IFAC World Congress 2023*
 1. C. Xu\*, T. Li\*, **C. Tang**, L. Sun, K. Keutzer, M. Tomizuka, A. Fathi, and W. Zhan, "PreTraM: Self-Supervised Pre-training via Connecting Trajectory and Map," *European Conference on Computer Vision (ECCV)*, 2022
 1. L. Sun\*, **C. Tang**\*, Y. Niu, E. Sachdeva, C. Choi, T. Misu, M. Tomizuka, and W. Zhan, “Domain knowledge driven pseudo labels for interpretable goal-conditioned interactive trajectory prediction,” *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022
 1. **C. Tang**, W. Zhan, and M. Tomizuka, “Interventional behavior prediction: Avoiding overly confident anticipation in interactive prediction,” *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022
