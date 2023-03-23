@@ -3,18 +3,18 @@ title: "Selected Publications[[All](https://scholar.google.com/citations?user=dD
 permalink: /publications/
 author_profile: true
 ---
-**Tech reports**  
- * <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b> <br> 
-  Zhongyu Li, Chaoqun Li, <b>Xiangde Luo</b>, Yitian Zhou, Jihua Zhu, Cunbao Xu, Meng Yang, Yenan Wu, Yifeng Chen <br> 
-  <i>Submitted to **IEEE Transaction on Medical Imaging** (Under Minor Revision, the first three authors contributed equally.) <br>
-  [[paper](https://luoxd1996.github.io/)][[code](https://luoxd1996.github.io/)]
-  
+**Tech reports**    
  * <b> Comprehensive evaluation of a deep learning model for automatic organs at risk segmentation on heterogeneous computed tomography images for abdominal radiotherapy</b> <br> 
   Wenjun Liao, <b>Xiangde Luo</b>, Yuan He, Ye Dong, Churong Li, Kang Li, Shichuan Zhang, Shaoting Zhang, Guotai Wang, Jianghong Xiao <br> 
   <i>Submitted to **International Journal of Radiation Oncology Biology Physics** (Under Major Revision.) <br>
   [[paper](https://luoxd1996.github.io/)][[code](https://luoxd1996.github.io/)]
     
 **Journals**
+  * <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b> <br> 
+  Zhongyu Li*, Chaoqun Li*, <b>Xiangde Luo*</b>, Yitian Zhou, Jihua Zhu, Cunbao Xu, Meng Yang, Yenan Wu, Yifeng Chen <br> 
+  <i>Accepted to **IEEE Transaction on Medical Imaging** (the first three authors contributed equally.) <br>
+  [[paper](https://luoxd1996.github.io/)][[code](https://luoxd1996.github.io/)]
+    
  * <b> Deep learning-based accurate and robust delineation of primary gross tumor volumes of nasopharyngeal carcinoma on heterogeneous magnetic resonance imaging: a large-scale and multi-center study</b> <br> 
  <b>Xiangde Luo</b>, Wenjun Liao, Yuan He, Fan Tang, Mengwan Wu, Yuanyuan Shen, Hui Huang, Tao Song, Kang Li, Shichuan Zhang, Shaoting Zhang, Guotai Wang<br> 
  <b>Radiation and Oncology, 180 (2023): 109480. (2022 IF 6.901)</b>.<br>
