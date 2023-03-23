@@ -1,7 +1,6 @@
 ---
 title: "Planted Matching Problems on Random Hypergraphs"
 collection: publications
-permalink: /publication
 excerpt: 'We consider the problem of recovering a planted matching on random hypergraphs. A first-order phase transition from partial to full recovery of the hidden structure is found, varying the signal-to-noise ratio.'
 date: 2022-09-07
 venue: 'Physical Review E'
