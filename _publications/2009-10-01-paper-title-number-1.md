@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-planted-matching-on-hypergraphs
 excerpt: 'We consider the problem of recovering a planted matching on random hypergraphs. A first-order phase transition from partial to full recovery of the hidden structure is found, varying the signal-to-noise ratio.'
 date: 2022-09-07
-venue: 'preprint'
+venue: 'Physical Review E'
 paperurl: 'https://arxiv.org/abs/2209.03423'
 citation: 'Adomaityte, U. and Toshniwal, A. and Sicuro, G. and Zdeborová, L. (2022). &quot;Planted matching problems on random hypergraphs.&quot; <i>preprint</i>.'
 ---
