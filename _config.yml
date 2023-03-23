@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Zhaoyan Pang"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "TOAA2"
 description              : &description "personal description"
 url                      : https://toaa2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -106,7 +106,7 @@ author:
   orcid            : "https://orcid.org"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "http://stackoverflow.com/"
   steam            :
   tumblr           :
   twitter          : "https://twitter.com"
@@ -115,6 +115,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  inspirehep       : "https://inspirehep.net"
+
 
 
 # Reading Files
