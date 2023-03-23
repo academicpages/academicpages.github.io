@@ -1,5 +1,5 @@
 ---
-title: 'ChatGPT Panel: What it is, how it's impacting universities, and how we might make "good" use of it'
+title: 'ChatGPT Panel: What it is, how it\'s impacting universities, and how we might make "good" use of it'
 collection: talks
 type: "Panel"
 permalink: /talks/
