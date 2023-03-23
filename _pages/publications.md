@@ -11,7 +11,7 @@ author_profile: true
     
 **Journals**
   * <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b> <br> 
-  <b>Zhongyu Li*, Chaoqun Li*, Xiangde Luo*</b>, Yitian Zhou, Jihua Zhu, Cunbao Xu, Meng Yang, Yenan Wu, Yifeng Chen <br> 
+  <b>Zhongyu Li, Chaoqun Li, Xiangde Luo</b>, Yitian Zhou, Jihua Zhu, Cunbao Xu, Meng Yang, Yenan Wu, Yifeng Chen <br> 
   <i>Accepted to **IEEE Transaction on Medical Imaging** (the first three authors contributed equally.) <br>
   [[paper](https://luoxd1996.github.io/)][[code](https://luoxd1996.github.io/)]
     
