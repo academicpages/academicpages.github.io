@@ -16,6 +16,7 @@ redirect_from:
 <!--* Now, I am seeking for a research internship position about medical image segmentation during 2021.06-2021.10, feel free to contact me! [[My CV](https://github.com/Luoxd1996/Luoxd1996.github.io/blob/master/files/xiangdeluo_cv.pdf)]-->
 
 # Recent News
+* Mar. 23, 0223, Our paper <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b> was accepted by <b>IEEE Transaction on Medical Imaging</b>, congrats to [Dr. Zhongyu Li](https://scholar.google.com/citations?user=S2FbC8oAAAAJ&hl=en).
 * Jan. 9, 2023, Our paper <b>Deep learning-based accurate and robust delineation of primary gross tumor volumes of nasopharyngeal carcinoma on heterogeneous magnetic resonance imaging: a large-scale and multi-center study</b> was accepted by <b>Radiation and Oncology</b> (also named **GreenJournal**, one of the top-tier journals in the radiation and oncology field), thanks to all co-authors, [code](https://github.com/Luoxd1996/RobustNPC) and [paper](https://www.sciencedirect.com/science/article/pii/S016781402300018X) are available.
 * Sep. 20, 2022, Our paper <b>WORD: A large scale dataset, benchmark and clinical applicable study for abdominal organ segmentation from CT image</b> was accepted by <b>Medical Image Analysis</b>, thanks to all co-authors, [dataset](https://github.com/HiLab-git/WORD) and [paper](https://arxiv.org/pdf/2111.02403.pdf) are available.
 * July 12, 2022, Our project [SSL4MIS](https://github.com/HiLab-git/SSL4MIS) received the 1000th star, a milestone moment for us; keep going!!!
