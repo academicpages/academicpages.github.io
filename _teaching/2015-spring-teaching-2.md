@@ -4,7 +4,6 @@ collection: teaching
 type: "Tutorial lead"
 permalink: /teaching/gta-kings
 venue: "King's College London"
-date: 2021
 location: "London, UK"
 ---
 
