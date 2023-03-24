@@ -85,10 +85,12 @@ author:
   bio              : "Image Processing and Computer Vision MSC Student || Data Science ||Communication Engineer || CCNA || Security Enthusiast || American Space Ethiopia Tech Guy || Energy Management Engineer || MERN Stack Dev-Learner"
   location         : "Madrid, Spain"
   employer         :
-  pubmed           : "will add soon"
-  googlescholar    : "will add soon"
+  medium           : "getnetdemil"
+ # googlescholar    : "will add soon"
   email            : "getnetd24@gmail.com"
   researchgate     :  "Jenberia-Getnet-Demil"
+  linkedin         : "getnetdemil"
+  github           : "getnetdemil"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +98,12 @@ author:
   flickr           :
   facebook         : "GetnetGrayHat"
   foursquare       :
-  github           : "getnetdemil"
   google_plus      :
   keybase          :
   instagram        : "getnet_demil_jr"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "getnetdemil"
+  #linkedin         : "getnetdemil"
   medium            : "getnetdemil"
   pinterest        :
   soundcloud       :
