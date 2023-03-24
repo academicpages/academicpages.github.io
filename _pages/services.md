@@ -15,6 +15,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+Conference Organization
+----
+* Special Session Chair: Deep Learning for Graphs (DL4G), IJCNN 2023
+
+Invited Talks
+----
+* Self-supervised learning on graph neural networks, East China Normal University, Shanghai, China (Mar 23, 2023)
+
 Conference PC Member/Reviewer
 ----
 * PC Member, [International Joint Conference on Artificial Intelligence (IJCAI) 2023](https://ijcai-23.org)
