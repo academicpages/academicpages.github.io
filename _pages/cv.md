@@ -11,29 +11,29 @@ redirect_from:
 
 Education
 ======
-* Universidad Autonoma de Madrid
+* [Universidad Autonoma de Madrid](https://www.uam.es/uam/inicio)
   * Master's degree, Image Processing and Computer Vision 
   * 2022 - 2024
 
-* Pázmány Péter Catholic University - Faculty of Information Technology and Bionics
+* [Pázmány Péter Catholic University - Faculty of Information Technology and Bionics](https://ppke.hu/en)
   * Master's degree, Computer Science and Engineering Specialization in Image Processing and Computer Vision 
   * 2022 - 2024
 
-* Corporate Finance Institute® (CFI)
+* [Corporate Finance Institute® (CFI)](https://corporatefinanceinstitute.com/)
   * International Certification Program, ALX Financial Analyst programme 
   * 2022 - 2023
 
-* Bahir Dar Institute of Technology, [Bahir Dar University](https://www.bdu.edu.et/)
+* [Bahir Dar Institute of Technology](https://bit.bdu.edu.et/), [Bahir Dar University](https://www.bdu.edu.et/)
   * Master of Science - MS, Communication System Engineering · 
   * 2020 - 2022
 
-* Bahir Dar Institute of Technology, [Bahir Dar University](https://www.bdu.edu.et/)
+* [Bahir Dar Institute of Technology](https://bit.bdu.edu.et/), [Bahir Dar University](https://www.bdu.edu.et/)
   * Bachelor of Science - BS, Electrical, Electronics and Communications Engineering 
   * 2013 - 2018
 
 Awards
 ======
-* Best 50 African Project of the Year 2019
+* [Best 50 African Project of the Year 2019](https://www.undp.org/ethiopia/news/undp-supported-2019-africa-innovation-week#:~:text=The%202019%20African%20Innovation%20Week,28th%20%E2%80%93%20November%202nd.)
   * Organizer: Africa Innovation Week 2019
   * Date: 11/2019
 
@@ -44,10 +44,10 @@ Awards
 
 Work experience
 ======
-* Ethiopian Electric Utility: Junior Electrical Engineer 
+* [Ethiopian Electric Utility](http://www.ethiopianelectricutility.gov.et/): Junior Electrical Engineer 
   * Bahir  Dar, Ethiopia
 
-* American Spaces Ethiopia: Technology Support Grantee
+* [American Spaces Ethiopia](https://et.usembassy.gov/education-culture/american-spaces/): Technology Support Grantee
   * Bahir  Dar, Ethiopia
   
 * G&D Graphics: Founder and CEO
@@ -56,10 +56,10 @@ Work experience
 * Paramount Student: Ambassador
   * Remotely 
 
-* Amhara Media Corporation: Radio and TV Broadcast Engineer Intern 
+* [Amhara Media Corporation](https://www.amharaweb.com/english/): Radio and TV Broadcast Engineer Intern 
   * Bahir Dar, Ethiopia
 
-* ethio telecom: Operations and Maintenance Engineer Intern
+* [Ethio Telecommunication](https://www.ethiotelecom.et/): Operations and Maintenance Engineer Intern
    * Bahir Dar, Ethiopia
 
   
@@ -142,10 +142,10 @@ Certificates
 
 Organizational and Voluntery Work
 ======
-* Ethiopian Electric Utility: Junior Electrical Engineer 
+* [Ethiopian Electric Utility](http://www.ethiopianelectricutility.gov.et/): Junior Electrical Engineer 
   * Bahir  Dar, Ethiopia
 
-* American Spaces Ethiopia: Technology Support Grantee
+* [American Spaces Ethiopia](https://et.usembassy.gov/education-culture/american-spaces/): Technology Support Grantee
   * Bahir  Dar, Ethiopia
 
 * Bahir Dar University Electrical and Computer Engineering Students Association
