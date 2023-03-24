@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : https://twitter.com/GetnetDemil
+  username               : "GetnetDemil"
 facebook:
-  username               : https://www.facebook.com/GetnetGrayHat
+  username               : "GetnetGrayHat"
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -87,14 +87,14 @@ author:
   employer         :
   pubmed           : "will add soon"
   googlescholar    : "will add soon"
-  email            :
+  email            : "getnetd24@gmail.com"
   researchgate     :  "Jenberia-Getnet-Demil"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :"GetnetGrayHat"
+  facebook         : "GetnetGrayHat"
   foursquare       :
   github           : "getnetdemil"
   google_plus      :
