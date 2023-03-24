@@ -23,11 +23,11 @@ Education
   * International Certification Program, ALX Financial Analyst programme 
   * 2022 - 2023
 
-* Bahir Dar Institute of Technology, [Bahir Dar University] (https://www.bdu.edu.et/)
+* Bahir Dar Institute of Technology, [Bahir Dar University](https://www.bdu.edu.et/)
   * Master of Science - MS, Communication System Engineering · 
   * 2020 - 2022
 
-* Bahir Dar Institute of Technology, [Bahir Dar University] (https://www.bdu.edu.et/)
+* Bahir Dar Institute of Technology, [Bahir Dar University](https://www.bdu.edu.et/)
   * Bachelor of Science - BS, Electrical, Electronics and Communications Engineering 
   * 2013 - 2018
 
@@ -38,7 +38,7 @@ Awards
   * Date: 11/2019
 
 * Best Bahir Dar University Project of The Year 2018
-  * Organizer: [Bahir Dar University] (https://www.bdu.edu.et/), Ethiopia
+  * Organizer: [Bahir Dar University](https://www.bdu.edu.et/), Ethiopia
   * Date: 06/2018
 
 
@@ -102,22 +102,22 @@ Skills
 Projects
 ======
 * Design and Implementation of Smart Microscope For Automatic Protozoan Disease Detection and Diagnosis Using Python Programing Language
-  * 2017 – 2018, [Bahir Dar University] (https://www.bdu.edu.et/)
+  * 2017 – 2018, [Bahir Dar University](https://www.bdu.edu.et/)
 
 * Design of Smart Microscope for Amoeba Disease Detection Using MATLAB Programing Language
-  * 2016 – 2017, [Bahir Dar University] (https://www.bdu.edu.et/)
+  * 2016 – 2017, [Bahir Dar University](https://www.bdu.edu.et/)
 
 * VLSI Design for Electrical Equipmentʼs
-  * 2015 – 2016, [Bahir Dar University] (https://www.bdu.edu.et/)
+  * 2015 – 2016, [Bahir Dar University](https://www.bdu.edu.et/)
 
 * Computer Network Design for Company with Many Branch Oﬀice
-  * 2015 – 2016, [Bahir Dar University] (https://www.bdu.edu.et/)
+  * 2015 – 2016, [Bahir Dar University](https://www.bdu.edu.et/)
 
 * Design of PCB (Printed Circuit Board) For Mobile Charger Using Eagle SW
-  * 2014 – 2015, [Bahir Dar University] (https://www.bdu.edu.et/)
+  * 2014 – 2015, [Bahir Dar University](https://www.bdu.edu.et/)
 
 * Bahir Dar University Student Online Grading System Using C++ Language
-  * 2014 – 2015, [Bahir Dar University] (https://www.bdu.edu.et/)
+  * 2014 – 2015, [Bahir Dar University](https://www.bdu.edu.et/)
 
 Certificates
 ======
