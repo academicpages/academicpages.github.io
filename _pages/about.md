@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-======
+
 Hello, My Name is [Getnet Demil Jenberia](https://www.linkedin.com/in/getnetdemil/), Let me begin by introducing myself briefly. I am currently pursuing two master's degrees in Image Processing and Computer Vision from Universidad Autonoma de Madrid and Pázmány Péter Catholic University, respectively. I expect to complete both degrees in 2024. Prior to this, I completed a Master of Science in Communication System Engineering and a Bachelor of Science in Electrical, Electronics and Communications Engineering from Bahir Dar Institute of Technology, Bahir Dar University, in 2022 and 2018, respectively.
 
 Moving on to my awards section, I have received two notable recognitions in my field. The first award was the Best 50 African Project of the Year 2019 awarded by Africa Innovation Week, and the second was the Best Bahir Dar University Project of the Year 2018.
