@@ -56,6 +56,13 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+
+linkedin:
+  username               : "getnetdemil"
+medium:
+  username               : "getnetdemil"
+github:
+  username               : "getnetdemil"
 twitter:
   username               : "GetnetDemil"
 facebook:
@@ -82,15 +89,15 @@ analytics:
 author:
   name             : "GETNET DEMIL JENBERIA"
   avatar           : "profile.png"
-  bio              : "Image Processing and Computer Vision MSC Student || Data Science ||Communication Engineer || CCNA || Security Enthusiast || American Space Ethiopia Tech Guy || Energy Management Engineer || MERN Stack Dev-Learner"
+  bio              : "Image Processing and Computer Vision MSC Student || Data Science || Communication Engineer || CCNA || Security Enthusiast || American Space Ethiopia Tech Guy || Energy Management Engineer || MERN Stack Dev-Learner"
   location         : "Madrid, Spain"
   employer         :
   medium           : "getnetdemil"
  # googlescholar    : "will add soon"
   email            : "getnetd24@gmail.com"
   researchgate     :  "Jenberia-Getnet-Demil"
-  linkedin         : "getnetdemil"
-  github           : "getnetdemil"
+  #linkedin         : "getnetdemil"
+  
   uri              :
   bitbucket        :
   codepen          :
@@ -104,7 +111,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   #linkedin         : "getnetdemil"
-  medium            : "getnetdemil"
+  #medium            : "getnetdemil"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
