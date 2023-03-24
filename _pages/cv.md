@@ -152,7 +152,7 @@ Organizational and Voluntery Work
   * President, 2017 – 2018, Bahir  Dar, Ethiopia
 
 * Bahir Dar University Electrical and Computer Engineering Students Association
-  * Project Supervisor, 2016 – 2017 | Bahir  Dar, Ethiopia
+  * Project Supervisor, 2016 – 2017, Bahir  Dar, Ethiopia
 
 * Ethiopian Tele Communication Internship Train Engineer
   * 02/2017 – 07/2017,  Bahir  Dar, Ethiopia
