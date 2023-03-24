@@ -66,12 +66,12 @@ Work experience
 Skills
 ======
 * Programming Language
-  * C++, 
-  * Python, 
-  * MATLAB, 
-  * Oracle database, 
-  * Android, 
-  * Java, 
+  * C++
+  * Python
+  * MATLAB
+  * Oracle database
+  * Android
+  * Java 
   * Typescript
  
 
@@ -79,22 +79,22 @@ Skills
   * Cisco Certified Network Associate, CCNA I
 
 * Microsoft Oﬀice Product
-  * MS Word, 
-  * Excel, 
-  * Power Point,
+  * MS Word
+  * Excel
+  * Power Point
   * Publisher
   * Teams
 
 * Simulator Sofwares Skill
-  * Packet tracer, 
-  * VLSI, 
-  * OptiSystem, 
-  * Proetus, 
+  * Packet tracer
+  * VLSI Design 
+  * OptiSystem Software 
+  * Proetus
   * Eagle
 
 * Graphics Design Skill
   * Adobe Photoshop, 
-  * Afer Eﬀects, 
+  * Afer Eﬀects
   * Video Editing Softwares
 
 * Leadership and Management Skill
@@ -127,13 +127,13 @@ Certificates
   * CCNA II
 
 * American Space Badges
-  * 1. Introduction to American Spaces
-  * 2. Resources for American Spaces
-  * 3. Introduction to Strategic Planning
-  * 4. Programming in American Spaces
-  * 5. Managing American Spaces
-  * 6. American Spaces Digital Engagement
-  * 7. Makerspace in American Space 
+  *  Introduction to American Spaces
+  *  Resources for American Spaces
+  *  Introduction to Strategic Planning
+  *  Programming in American Spaces
+  *  Managing American Spaces
+  *  American Spaces Digital Engagement
+  *  Makerspace in American Space 
 
 * Young Africa Leadership Initiative
   * YALI Entrepreneurship and Business Course Certificates
@@ -149,15 +149,15 @@ Organizational and Voluntery Work
   * Bahir  Dar, Ethiopia
 
 * Bahir Dar University Electrical and Computer Engineering Students Association
-  * President, 2017 – 2018 | Bahir  Dar, Ethiopia
+  * President, 2017 – 2018, Bahir  Dar, Ethiopia
 
 * Bahir Dar University Electrical and Computer Engineering Students Association
   * Project Supervisor, 2016 – 2017 | Bahir  Dar, Ethiopia
 
 * Ethiopian Tele Communication Internship Train Engineer
-  * 02/2017 – 07/2017 | Bahir  Dar, Ethiopia
+  * 02/2017 – 07/2017,  Bahir  Dar, Ethiopia
 
 * Amahara Mass Media Agency Internship Train Engineer
-  * 02/2017 – 04/2017 | Bahir  Dar, Ethiopia
+  * 02/2017 – 04/2017,  Bahir  Dar, Ethiopia
 
 
