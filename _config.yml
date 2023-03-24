@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Getnet Demil Jenberia"
 title_separator          : "-"
-name                     : &name "Getnet Demil Jenberia"
-description              : &description "Getnet Demil Jenberia"
+name                     : &name "Getnet Demil"
+description              : &description "Getnet Demil"
 url                      : https://getnetdemil.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "getnetdemil/getnetdemil.github.io"
@@ -18,7 +18,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -60,7 +60,7 @@ yandex_site_verification :
 linkedin:
   username               : "getnetdemil"
 medium:
-  username               : "getnetdemil"
+  username               : "@getnetdemil"
 github:
   username               : "getnetdemil"
 twitter:
@@ -92,7 +92,7 @@ author:
   bio              : "Image Processing and Computer Vision MSC Student || Data Science || Communication Engineer || CCNA || Security Enthusiast || American Space Ethiopia Tech Guy || Energy Management Engineer || MERN Stack Dev-Learner"
   location         : "Madrid, Spain"
   employer         :
-  medium           : "getnetdemil"
+  medium           : "@getnetdemil"
  # googlescholar    : "will add soon"
   email            : "getnetd24@gmail.com"
   researchgate     :  "Jenberia-Getnet-Demil"
