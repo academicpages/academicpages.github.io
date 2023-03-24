@@ -8,20 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Getnet Demil Jenberia and I am currently pursuing triple master's degrees in image processing and computer vision through the Erasmus Mundus program at the Universidad Autonoma De Madrid. I am writing this introduction to give you an overview of my technical expertise, leadership and entrepreneurship skills, and my dedication towards achieving success.
+Hello, My Name is Getnet demil Jenberia, Let me begin by introducing myself briefly. I am currently pursuing two master's degrees in Image Processing and Computer Vision from Universidad Autonoma de Madrid and Pázmány Péter Catholic University, respectively. I expect to complete both degrees in 2024. Prior to this, I completed a Master of Science in Communication System Engineering and a Bachelor of Science in Electrical, Electronics and Communications Engineering from Bahir Dar Institute of Technology, Bahir Dar University, in 2022 and 2018, respectively.
 
-Education:
-======
-I hold a Master of Science degree in Communication System Engineering from Bahir Dar University, which I obtained in 2022. Prior to this, I earned a Bachelor of Science degree in Electrical Engineering, with a specialization in Communication and Electronics Engineering, in 2018, also from Bahir Dar University.
+Moving on to my awards section, I have received two notable recognitions in my field. The first award was the Best 50 African Project of the Year 2019 awarded by Africa Innovation Week, and the second was the Best Bahir Dar University Project of the Year 2018.
 
-Technical Skills:
-======
-I have a solid foundation in software development and programming languages such as C++, Java, Matlab, and Python. In addition, I have a strong understanding of computer networking and hardware design. I am proficient in configuring Cisco and Huawei networking devices, and I am confident in my ability to troubleshoot complex technical issues.
+In terms of my work experience, I have held several roles in the past. I worked as a Junior Electrical Engineer at Ethiopian Electric Utility and as a Radio and TV Broadcast Engineer Intern at Amhara Media Corporation, both located in Bahir Dar, Ethiopia. I also worked as an Operations and Maintenance Engineer Intern at Ethio Telecommunication, another company based in Bahir Dar, Ethiopia. Additionally, I worked remotely as an Ambassador for Paramount Student and as a Technology Support Grantee at American Spaces Ethiopia. I also founded and served as CEO of G&D Graphics, a company based in Bahir Dar, Ethiopia.
 
-Leadership and Entrepreneurship Skills:
-======
-I have gained leadership and entrepreneurship skills during my 1.5 years of experience working in a technology support grant position at American Space Ethiopia. Through this position, I have developed a proactive and detail-oriented approach to my work, which has helped me to achieve success in all of my endeavors. I have also learned how to work effectively both on a team and individually, and I am committed to delivering quality results that meet or exceed expectations.
+In the skills section, I possess various programming languages, hardware, and network troubleshooting skills, Microsoft Office products, simulator software skills, graphics design skills, and leadership and management skills. I have experience working with programming languages such as C++, Python, and MATLAB, as well as simulator software such as Packet Tracer and VLSI. I am also proficient in graphics design software such as Adobe Photoshop and After Effects. I have also earned a Cisco Certified Network Associate (CCNA) Routing and Switching certification and am skilled in Microsoft Office products like Word, Excel, and PowerPoint.
 
-Conclusion:
-======
-Overall, I am an accomplished and driven individual with a passion for technology and a commitment to continuous learning and growth. I am eager to apply my skills and knowledge to new and exciting challenges, and I am confident in my ability to make meaningful contributions to any organization I join.
+The projects section describes the academic and personal projects that I have worked on. These include the Design and Implementation of a Smart Microscope for Automatic Protozoan Disease Detection and Diagnosis Using Python Programming Language, the Design of a Smart Microscope for Amoeba Disease Detection Using MATLAB Programming Language, and VLSI Design for Electrical Equipment's. I have also worked on the Computer Network Design for a Company with Many Branch Offices and the Design of PCB (Printed Circuit Board) for a Mobile Charger Using Eagle Software. Additionally, I worked on the Bahir Dar University Student Online Grading System Using C++ Language.
+
+I list the various certifications I have earned. These include the CCNA I and II certifications, American Space Badges, and the YALI Entrepreneurship and Business Course Certificates. I have also been involved in various organizational and voluntary work, which includes volunteering at the Ethiopian Red Cross Society and organizing a fundraiser for a local charity in Bahir Dar, Ethiopia. Overall, I believe that this CV showcases my impressive academic qualifications, work experiences, skills, and certifications, making me a highly qualified and skilled candidate for various roles in my field.
