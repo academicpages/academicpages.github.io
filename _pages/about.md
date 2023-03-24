@@ -9,16 +9,17 @@ redirect_from:
 
 
 Hello! My name is Shubham Krishna and I am a
-Machine Learning Engineer at [ML6](https://www.ml6.eu/). My everyday at ML6, looks like working on one of these topics:
+Machine Learning Engineer at [ML6](https://www.ml6.eu/). My everyday at ML6, looks like working on these topics:
 
-1. Building Dataflow Pipelines
-2. Putting Deep Learning Models into Production and MLOps
-3. Training Deep Learning Models to solve problems like Name-Entity-Recognition, Image Classification and others.
-5. Writing Blogposts about things I learned
+1. Using Deep Learning Models to solve problems like Name-Entity-Recognition, Image Classification and other problems in the field of NLP and Computer Vision.
+2. Building scalable Dataflow and Machine Learning Pipelines.
+3. Putting Machine/Deep Learning Models into Production.
+4. Learning about MLOps practices and applying them.
 
-I did my Masters in Machine Learning at the Department of Computer Science at [University of Tübingen](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/studies/studies-programs/machine-learning/). For my Master Thesis, I worked on Dealing with Label Noise in Semantic Segmentation using Semi-Supervised Learning at [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/), Rennigen, Germany. I also worked as a Research Assistant at [Bethge Lab](http://bethgelab.org/) with [Steffen Schneider](https://stes.io/) for better understanding of the behaviour of Deep Neural Networks. I worked on topics around Invariant Representation Learning [[Paper](https://preregister.science/papers_20neurips/57_paper.pdf)], Pruning Technqiues in Deep Neural Networks and Self-Superverised Learning.
+I did my Masters in Machine Learning at the Department of Computer Science at [University of Tübingen](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/studies/studies-programs/machine-learning/). For my Master Thesis, I worked on Dealing with Label Noise in Semantic Segmentation using Semi-Supervised Learning at [Bosch Center for Artificial Intelligence](https://www.bosch-ai.com/), Rennigen, Germany. I also worked as a Research Assistant at [Bethge Lab](http://bethgelab.org/) with [Steffen Schneider](https://stes.io/) for better understanding of the behaviour of Deep Neural Networks. I worked on topics around Invariant Representation Learning [[Paper](https://preregister.science/papers_20neurips/57_paper.pdf)], Pruning Techniques in Deep Neural Networks and Self-Supervised Learning.
 
-I spent an amazing one and half year at [Samsung Research Bangalore](https://research.samsung.com/sri-b), India where I worked as a Senior Software Engineer in the On-Device Intelligence Search Team led by [Hemant Tiwari](https://www.linkedin.com/in/hemanttiwari1/?originalSubdomain=in). During my tenure, I published two research papers at International Conferences in the field of Natural Language Processing and Deep Neural Networks.
+I spent an amazing one and half year at [Samsung Research Bangalore](https://research.samsung.com/sri-b), India where I worked as a Research Engineer in the On-Device Intelligence Search Team led by [Hemant Tiwari](https://www.linkedin.com/in/hemanttiwari1/?originalSubdomain=in). I worked on Natural Language Processing and Information retrieval. During my tenure, I published two research papers at International Conferences and contributed to enhancement of semantic search in Samsung
+smartphones using machine learning.
 
 I graduated from [IIT Dhanbad](https://www.iitism.ac.in/), India with a degree of Integrated Masters of Technology with major in Computer Science and Mathematics in 2018.
 
@@ -32,6 +33,7 @@ During Summer 2017, I did an internship at Samsung Research Bangalore, India whe
 * Putting Machine Learning models in Production
 * Natural Language Processing
 * Computer Vision
+
 
 
 <!--
