@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Introduction:
-======
 Hello, my name is Getnet Demil Jenberia and I am currently pursuing triple master's degrees in image processing and computer vision through the Erasmus Mundus program at the Universidad Autonoma De Madrid. I am writing this introduction to give you an overview of my technical expertise, leadership and entrepreneurship skills, and my dedication towards achieving success.
 
 Education:
