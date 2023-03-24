@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "https://twitter.com/GetnetDemil"
 facebook:
-  username               :
+  username               : "https://www.facebook.com/GetnetGrayHat"
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "GETNET"
+  name             : "GETNET DEMIL JENBERIA"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Image Processing and Computer Vision MSC Student || Data Science ||Communication Engineer || CCNA || Security Enthusiast || American Space Ethiopia Tech Guy || Energy Management Engineer || MERN Stack Dev-Learner"
   location         : "Madrid, Spain"
   employer         :
   pubmed           : "will add soon"
   googlescholar    : "will add soon"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/getnetdemil"
+  researchgate     :  "https://www.researchgate.net/profile/Jenberia-Getnet-Demil"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/getnetdemil/
   orcid            : "will add soon"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "will add soon"
+  twitter          : "https://twitter.com/GetnetDemil"
   vine             :
   weibo            :
   xing             :
