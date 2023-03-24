@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "https://twitter.com/GetnetDemil"
+  username               : https://twitter.com/GetnetDemil
 facebook:
-  username               : "https://www.facebook.com/GetnetGrayHat"
+  username               : https://www.facebook.com/GetnetGrayHat
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -88,13 +88,13 @@ author:
   pubmed           : "will add soon"
   googlescholar    : "will add soon"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Jenberia-Getnet-Demil"
+  researchgate     :  "Jenberia-Getnet-Demil"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         :"GetnetGrayHat"
   foursquare       :
   github           : "getnetdemil"
   google_plus      :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/getnetdemil/
+  linkedin         : "getnetdemil"
   orcid            : "will add soon"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/GetnetDemil"
+  twitter          : "GetnetDemil"
   vine             :
   weibo            :
   xing             :
