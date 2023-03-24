@@ -14,7 +14,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 - **Registered (Inner-Product) Functional Encryption**  
 Danilo Francati, Daniele Friolo, Monosij Maitra, Giulio Malavolta, Ahmadreza Rahimi, and Daniele Venturi
-[https://eprint.iacr.org/2023/395.pdf](https://eprint.iacr.org/2023/395.pdf)
+[https://eprint.iacr.org/2023/395.pdf](https://eprint.iacr.org/2023/395)
 
 ---
 
