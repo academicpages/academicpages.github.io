@@ -1,12 +1,13 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
 author_profile: true
+permalink: /publications/
+
 ---
 
 
-- <strong>&quot;Planted matching problems on random hypergraphs&quot;<strong>, Adomaityte, U. and Toshniwal, A. and Sicuro, G. and Zdeborová, L. (2022). Physical Review E 
+- <strong>&quot;Planted matching problems on random hypergraphs&quot;</strong>, Adomaityte, U. and Toshniwal, A. and Sicuro, G. and Zdeborová, L. (2022). Physical Review E 
 [[paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.054302) [arxiv](https://arxiv.org/abs/2209.03423)]
 
 {% if author.googlescholar %}
