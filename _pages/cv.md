@@ -36,6 +36,9 @@ Funding
 ======
 Select research awards indexed here. 
 
+* **National Science Foundation -- BCS Standard Grant: Human Network Data Science** (#2214088), $447,116. Janurary 1st, 2023
+  * *Network Formation and Function Within and Between Cultural Groups*, Co-PIs: Luke Glowacki, Zachary Garfield.
+
 * **The IAST Multidisciplinary Prize**, 27,160€. May 29th, 2020.
   * *Testing Evolutionary Alternative Models of Third-Party Punishment:
 A Multidisciplinary Approach*, Co-applicants: Francesca De Petrillo, Zachary Garfield, Alberto Micheletti, Catherine Molho.
