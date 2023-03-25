@@ -10,16 +10,15 @@ redirect_from:
 
 Introduction
 ======
-This is the personal website of Shawn. I'm working as a software engineer at the Bay Area. During my spare time, I also provide consulting for students and entry-level engineers about CS related programs and tech career development.   
+This is Shawn's personal website that showcases his work as a software engineer based in the Bay Area. In addition to his professional role, he provides complimentary consulting services to students and entry-level engineers seeking guidance on CS-related programs and career development in the tech industry.    
 - If you are curious about my previous projects and technical experience, please visit [my portfolio](https://shawnxd.github.io/portfolio/).   
 - If you are interested in my consulting and would like to get some advice from me, please have a look at [my service](https://shawnxd.github.io/service/).  
 - If you would like to just find something interesting, you can find my posts at [my blog posts](https://shawnxd.github.io/year-archive/).
 
 Reach Out
 ======
-Don't be shy if you are interested to build connections. Here are my contact info:  
-- WeChat: shawnxdong (Please note your name and intention)
-- Email: shawnxdong@gmail.com
+Feel free to contact if you are interested to build connections. Here is my contact info:  
+- Email: shawnxd@alumni.upenn.edu
 
 <!-- Services I provide
 ======
