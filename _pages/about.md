@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Urte Adomaityte, a second-year PhD student in Applied Mathematics, supervised by Dr Gabriele Sicuro and Dr Pierpaolo Vivo.
+I am Urte Adomaityte, a second-year PhD student in Applied Mathematics, supervised by Dr Gabriele Sicuro and Dr Pierpaolo Vivo. I have obrained a MSc in Applied Maths from Imperial College London with a thesis on agent-based modelling of opinion formation and a BA in Mathematics and Philosophy from King's College London.
 
 <strong>Research interests:</strong>
-- Statistical inference in high dimensions
 - Applications of statistical physics to machine learning
-- Theory of deep learning
-
+- Statistical inference in high dimensions
+- Agent-based modelling
