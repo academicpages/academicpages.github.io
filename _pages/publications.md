@@ -6,7 +6,7 @@ author_profile: true
 
 
 - &quot;Planted matching problems on random hypergraphs.&quot;, Adomaityte, U. and Toshniwal, A. and Sicuro, G. and Zdeborová, L. (2022). Physical Review E 
-[[paper]([https://arxiv.org/pdf/2209.03423.pdf](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.054302)) [arxiv](https://arxiv.org/pdf/2209.03423.pdf)]
+[[paper](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.054302) [arxiv](https://arxiv.org/pdf/2209.03423.pdf)]
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
