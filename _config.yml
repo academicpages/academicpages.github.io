@@ -66,9 +66,9 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 mastodon:
-  type                   : @zhgarfield@fediscience.org
+  type                   :
   name                   : # If the user or organization name differs from the site's name
-  links: <a rel="me" href="https://fediscience.org/@zhgarfield">Mastodon</a>
+  links:
 
 
 # Analytics
