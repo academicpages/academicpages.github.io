@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-[Resume PDF](URTE_ADO_CV.pdf)
+[PDF](URTE_ADO_CV.pdf)
 
