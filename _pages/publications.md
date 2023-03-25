@@ -15,7 +15,7 @@ author_profile: true
 
 ## 2023
 
-* Deadline-Aware Multi-Agent Tour Planning.                     
+* [Deadline-Aware Multi-Agent Tour Planning](https://taoanhuang.github.io/files/ICAPS23.pdf).                     
     **Taoan Huang**, Vikas Shivashankar, Michael Caldara, Joseph Durham, Jiaoyang Li, Bistra Dilkina and Sven Koenig.    
     <i>The 33rd International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, 2023 (in print).        
     [Another version](https://hsi-workshop.github.io/hsi-2022-camera-ready/Deadline-Aware_Multi-Agent_Tour_Planning.pdf) appeared at <i>the 2nd International Workshop on Heuristic Search in Industry in conjunction with IJCAI-ECAI</i>, 2022.  
