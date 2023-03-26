@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Mechanical Engineering, Monash University, Malaysia Campus, 2013
+* M.Eng.Sc. in Mechantronics and Biomedical Engineering, University Tunku Abdul Rahman, 2018
+* Ph.D in Psychology, University of Muenster, 2022
 
 Work experience
 ======
