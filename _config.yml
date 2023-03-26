@@ -39,9 +39,9 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), "dark"
+    colorscheme          : # "dark" # "light" (default), "dark"
   utterances:
-    theme                : "github-dark" # "github-light" (default), 
+    theme                : # "github-dark" # "github-light" (default), 
     issue_term           : # "pathname" (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
@@ -49,7 +49,7 @@ comments:
     category_id          : # Shown during giscus setup at https://giscus.app
     discussion_term      : # "pathname" (default), "url", "title", "og:title"
     reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : "dark" # "light" (default), , "dark_dimmed", "transparent_dark", "preferred_color_scheme
+    theme                : # "dark" # "light" (default), , "dark_dimmed", "transparent_dark", "preferred_color_scheme
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
