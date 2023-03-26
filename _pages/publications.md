@@ -18,7 +18,7 @@ IECBES 2022<br />
 **LightX3ECG: A Lightweight and Explainable Deep Learning System for 3-Lead Electrocardiogram Classification**<br />
 **Khiem H. Le**, Hieu H. Pham, Thao BT. Nguyen, Tu A. Nguyen, Tien N. Thanh, Cuong D. Do<br />
 Biomedical Signal Processing and Control<br />
-[Paper](https://drive.google.com/file/d/1eyFhzr0VDOi1IrJ4Cah8IuE00HiE32QG/view?usp=share_link) &nbsp; &nbsp; [Code](https://github.com/lhkhiem28/LightX3ECG)
+[Paper](https://arxiv.org/abs/2207.12381) &nbsp; &nbsp; [Code](https://github.com/lhkhiem28/LightX3ECG)
 
 **Learning From Multiple Expert Annotators for Enhancing Anomaly Detection in Medical Image Analysis**<br />
 **Khiem H. Le** *, Tuan V. Tran *, Hieu H. Pham, Hieu T. Nguyen, Tung T. Le, Ha Q. Nguyen<br />
