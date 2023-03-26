@@ -27,7 +27,7 @@ Work experience
 * 2018-2018: Power System Project Engineer
   * Ayduran Energy
   
- * 2019-....: LPower System Engineer
+* 2019-....: Power System Engineer
   * Ayen Energy
 
   
