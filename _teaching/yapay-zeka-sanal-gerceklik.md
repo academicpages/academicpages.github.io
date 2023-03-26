@@ -1,5 +1,5 @@
 ---
-title: "Computer Programming Course"
+title: "Yapay Zeka ve Sanal Gerceklik"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/yapay-zeka-sanal-gerceklik
@@ -9,5 +9,5 @@ location: "Ankara, Turkey"
 ---
 
 * Introduction to AI Course
-* Lecture Notes 
-https://github.com/M-Sinan-O/DERS-DOSYALARI/tree/main/YAPAY%20ZEKA%20VE%20SANAL%20GER%C3%87EKL%C4%B0K
+## DERS DOSYALARI
+* [Lecture Notes] (https://github.com/M-Sinan-O/DERS-DOSYALARI/tree/main/YAPAY%20ZEKA%20VE%20SANAL%20GER%C3%87EKL%C4%B0K)
