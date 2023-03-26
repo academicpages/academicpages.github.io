@@ -12,7 +12,7 @@ redirect_from:
 
 # News
 
-- Mar 2023: Invited speaker for the seminar organised by A*STAR Center for Frontier AI Research (CFAR).
+- Mar 2023: Invited speaker for Rising Star Lecture Series of A*STAR Center for Frontier AI Research (CFAR) [link](https://www.a-star.edu.sg/cfar/events/learning-manifold-dimensions-with-conditional-variational-autoencoders).
 
 - Oct 2022: I get NeurIPS 2022 Scholar Award.
 
