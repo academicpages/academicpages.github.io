@@ -10,7 +10,7 @@ redirect_from:
 
 Introduction
 ======
-This is Shawn's personal website that showcases his work as a software engineer based in the Bay Area. In addition to his professional role, he provides complimentary consulting services to students and entry-level engineers seeking guidance on CS-related programs and career development in the tech industry.    
+This is Shawn's personal website that showcases his work as a software engineer based in the Bay Area. Shawn worked at several tech companies in the bay area, including Instacart, Uber, Amazon. In addition to his professional role, he provides complimentary consulting services to students and entry-level engineers seeking guidance on CS-related programs and career development in the tech industry.    
 - If you are curious about my previous projects and technical experience, please visit [my portfolio](https://shawnxd.github.io/portfolio/).   
 - If you are interested in my consulting and would like to get some advice from me, please have a look at [my service](https://shawnxd.github.io/service/).  
 - If you would like to just find something interesting, you can find my posts at [my blog posts](https://shawnxd.github.io/year-archive/).
