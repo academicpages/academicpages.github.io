@@ -9,5 +9,7 @@ location: "Ankara, Turkey"
 ---
 
 * Internet Technologies Course
-## DERS DOSYALARI
-* [Lecture Notes] (https://github.com/M-Sinan-O/DERS-DOSYALARI/tree/main/%C4%B0NTERNET%20TEKNOLOJ%C4%B0LER%C4%B0)
+
+
+## Lecture Notes
+* [DERS DOSYALARI](https://github.com/M-Sinan-O/DERS-DOSYALARI/tree/main/%C4%B0NTERNET%20TEKNOLOJ%C4%B0LER%C4%B0)
