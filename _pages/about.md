@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jingwu Tang (唐静吾). I am a senior-year undergrad at Turing Class, Peking University. I am fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). Since Summer 2022, I have been fortunate to work with Prof. [Steven Wu](https://zstevenwu.com/) at CMU. My research interest broadly lies in differential privacy, algorithmic game theory and machine learning. Most recently, I've been thinking about how to design better mechanisms through machine learning approaches. I will join Software and Societal Systems Department at CMU as a Ph.D student in Fall 2023!
+My name is Jingwu Tang (唐静吾). I am a senior-year undergrad at Turing Class, Peking University. I am fortunate to be advised by Prof. [Xiaotie Deng](https://cfcs.pku.edu.cn/english/people/faculty/xiaotiedeng/index.htm). Since Summer 2022, I have been fortunate to work with Prof. [Steven Wu](https://zstevenwu.com/) at CMU. My research interest broadly lies in differential privacy, algorithmic game theory and machine learning. Most recently, I've been thinking about how to design better mechanisms through machine learning approaches. 
+
+I will join Software and Societal Systems Department at CMU as a Ph.D student in Fall 2023!
 
 # Publications
 + **A Context-Integrated Transformer-Based Neural Network for Auction Design**. <br>Zhijian Duan, Jingwu Tang, Yutong Yin, Zhe Feng, Xiang Yan, Manzil Zaheer, and Xiaotie Deng. **ICML, 2022**. [arXiv](https://arxiv.org/abs/2201.12489).
