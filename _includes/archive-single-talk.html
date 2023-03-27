@@ -48,11 +48,11 @@
     {% endif %}
     {% if post.venue %}
       <p class="archive__item-excerpt" itemprop="description">
-        {{post.type}}, {{ post.venue }},  {{post.location}}
+        {{post.type}}, {{ post.venue }}, {{post.location}}
       </p>
     {% endif %}
-    {% if post.excerpt %}
-      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% if post.excerpt != "" %}
+      <p class="notice" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% endif %}
   </article>
 </div>

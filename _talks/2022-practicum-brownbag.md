@@ -8,4 +8,5 @@ date: 2022-09-26
 location: "Michigan State University"
 link:
 pdf: '/files/slides/2022-practicum-brownbag.pdf'
+excerpt: ''
 ---
