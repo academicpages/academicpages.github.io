@@ -8,7 +8,7 @@ date: 2023-03-04
 location: "https://github.com/shawnxd/alien_invasion"
 ---
 
-[**Click to Play Online!**](https://shawnxd.github.io/AlienInvasion/)
+[**Click to Play on Phone or Laptop!**](https://shawnxd.github.io/AlienInvasion/)
 
 Implementation
 ======
