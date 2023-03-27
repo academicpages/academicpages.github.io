@@ -51,7 +51,7 @@
         {{post.type}}, {{ post.venue }}, {{post.location}}
       </p>
     {% endif %}
-    {% if post.excerpt != "" %}
+    {% if post.excerpt != "" and post.excerpt != blank %}
       <p class="notice" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% endif %}
   </article>
