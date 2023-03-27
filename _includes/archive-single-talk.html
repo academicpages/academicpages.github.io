@@ -52,7 +52,7 @@
       </p>
     {% endif %}
     {% if post.excerpt != "" and post.excerpt != blank %}
-      <p class="notice" itemprop="description">{{ post.excerpt | markdownify }}</p>
+      <div class="notice" itemprop="description">{{ post.excerpt | markdownify }}</div>
     {% endif %}
   </article>
 </div>
