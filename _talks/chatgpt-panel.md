@@ -8,7 +8,6 @@ date: 2023-03-27
 location: "Michigan State University" 
 link: 
 ---
-
 I shared my perspective, focusing on critical theory and scholars who have been questioning language models for a long time, like Emily Bender who was recently [profiled in this great articles](https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html). 
 It uses very accessible language, while also retaining a lot of the nuance in Bender's stance.
 I ended by incorporating a technoskeptical perspective, taken from [Civics of Technology's curriculum](https://www.civicsoftechnology.org/curriculum). 
