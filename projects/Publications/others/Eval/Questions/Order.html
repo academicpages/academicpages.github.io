@@ -1,0 +1,823 @@
+
+<html>
+<head>
+
+</head>
+<body>
+
+	<div class='question instruction' id="1">
+		<h3> <font color="red">NOTE:</font> To ensure best performance, we suggest you to run the study in full screen mode. Kindly DO NOT refresh the page during the session. </h3>
+		During the training session, you will be asked to go through 5 questions. Please try to use the given charts to answer these questions as accurately as possible. Press <b>"Start Training Session"</b> when you are ready to start.<br /><br />
+		<input type="submit" value="Start Training Session" onclick="showNextQ()" /> <br />
+	</div>
+
+	<div class='question' id="2">
+		The following chart shows the average <b>Retail Price</b> for cars with different numbers of <b>Cylinders (Cyl)</b> (a legend is on the right side). Which of the following options contains the correct sequence of car Cylinders, if you were to put them in order from <b>highest</b> average Retail Price to <b>lowest</b>? <br />
+		<input type="radio" name="answer" value="Wrong" /> 9, 6, 5, 3 <br />
+		<input type="radio" name="answer" value="Correct" /> 8, 5, 3<br />
+		<input type="radio" name="answer" value="Wrong" /> 5, 3, 12, 6 <br />
+		<input type="radio" name="answer" value="Wrong" /> 12, 3, 5, 6 <br />
+		<p id="Answer"></p>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div style="width:50%;  display: inline-block;" id='vis'> </div>
+		<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+
+	</div>
+
+	<div class='question' id="3">
+	  The following chart shows the average <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>.
+		Which of the following options contains the correct sequence of car types, if you were to put them in order from <b>largest</b> average City Miles Per Gallon to <b>smallest</b>?<br />
+		<input type="radio" name="answer" value="Wrong" /> Wagon, SUV, Sedan<br />
+		<input type="radio" name="answer" value="Wrong" /> Sedan, SUV, Wagon<br />
+		<input type="radio" name="answer" value="Wrong" /> SUV, Sports Car, Wagon, Sedan<br />
+		<input type="radio" name="answer" value="Correct" /> Sedan, Sports Car, MiniVan, SUV<br />
+		<p id="Answer"></p>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="4">
+		The following chart shows the average <b>Highway Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>. Which of the following options contains the correct sequence of car types, if you were to put them in order from <b>largest</b> average Highway Miles Per Gallon to <b>smallest</b>?<br />
+		<input type="radio" name="answer" value="Wrong" /> Wagon, SUV, Sedan<br />
+		<input type="radio" name="answer" value="Wrong" /> SUV, Sports Car, Wagon, Sedan<br />
+		<input type="radio" name="answer" value="Correct" /> Sedan, Sports Car, MiniVan, SUV<br />
+		<input type="radio" name="answer" value="Wrong" /> Sports Car, Wagon, SUV, Sedan<br />
+		<p id="Answer"></p>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="5">
+		The following chart shows the average <b>Weight</b> for cars with different <b>Widths(e.g. 60 and 70)</b>. Which of the following options contains the correct sequence of car Widths, if you were to put them in order from <b>highest</b> average Weight to <b>lowest</b>?<br />
+		<input type="radio" name="answer" value="Wrong" /> 81, 74, 65, 67 <br />
+		<input type="radio" name="answer" value="Wrong" /> 72, 73, 80, 82<br />
+		<input type="radio" name="answer" value="Wrong" /> 62, 73, 80, 82<br />
+		<input type="radio" name="answer" value="Correct" /> 81, 74, 67, 65<br />
+		<p id="Answer"></p>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="6">
+		The following chart shows the average <b>Highway Miles Per Gallon</b> for cars with different numbers of <b>Cylinders (Cyl)</b>. Which of the following options contains the correct sequence of car Cylinders, if you were to put them in order from <b>largest</b> average Highway Miles Per Gallon to <b>smallest</b>?<br />
+		<input type="radio" name="answer" value="Wrong" /> 4, 5, 6, 9<br />
+		<input type="radio" name="answer" value="Wrong" /> 9, 5, 6, 12 <br />
+		<input type="radio" name="answer" value="Wrong" /> 3, 4, 6, 9 <br />
+		<input type="radio" name="answer" value="Correct" /> 3, 4, 5, 6 <br />
+		<p id="Answer"></p>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question instruction' id="7">
+		<p>Thank You. You completed the Trial Session.</p>
+		Now is the time to start the main experiment. Similar to the trial session, in the main experiment you will be asked to complete about 20 questions. However, in the main experiment once a question is submitted it cannot be changed or reviewed. You will not receive any feedback to show the correctness of answers during this session. So, please answer the questions <b>as accurate as possible</b> and press "Submit" button only when you are sure about your answer. Press <b>"Start"</b> when you are ready to start the main experiment.<br /><br />
+		<input type="submit" value="Start" onclick="showNextQ()" /> <br />
+	</div>
+
+	<div class='question' id="8">
+		 The following chart shows the average <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>.
+		Which of the following options contains the correct sequence of car types, if you were to put them in order from <b>largest</b> average City Miles Per Gallon to <b>smallest</b>?<br />
+		<input type="radio" name="answer" value="Correct" /> Wagon, Sedan, SUV<br />
+		<input type="radio" name="answer" value="Wrong" /> Wagon, SUV, Minivan<br />
+		<input type="radio" name="answer" value="Wrong" /> SUV, Sports Car, Wagon, Sedan<br />
+		<input type="radio" name="answer" value="Wrong" />  Sports Car, Sedan, MiniVan, Wagon<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="9">
+		 The following chart shows the average <b>Weight</b> for cars with different number of <b>Cylinders (Cyl)</b>. Which of the following options contains the correct sequence of car Cylinders, if you were to put them in order from <b>highest</b> average Weight to <b>lowest</b>?<br/>
+		<input type="radio" name="answer" value="Wrong" /> 12, 8, 9, 5 <br />
+		<input type="radio" name="answer" value="Wrong" /> 12, 6, 4, 8<br />
+		<input type="radio" name="answer" value="Correct" /> 8, 5, 6, 4 <br />
+		<input type="radio" name="answer" value="Wrong" /> 8, 6, 4, 5<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div style="width:50%;  display: inline-block;" id='vis'> </div>
+		<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+	</div>
+
+	<div class='question' id="10">
+		 The following chart shows the average <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>. Which of the following options contains the correct sequence of car types, if you were to put them in order from <b>largest</b> average City Miles Per Gallon to <b>smallest</b>?<br />
+		<input type="radio" name="answer" value="Correct" /> Wagon, Sedan, SUV<br />
+		<input type="radio" name="answer" value="Wrong" /> Sports Car, SUV, Sedan <br />
+		<input type="radio" name="answer" value="Wrong" /> Wagon, SUV, Sedan <br />
+		<input type="radio" name="answer" value="Wrong" /> Wagon, Sports Car, Sedan <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="11">
+		 The following chart shows the average <b>Dealer Cost</b> for cars with different <b>Wheel Bases (e.g. 60 and 70)</b>. Which of the following options contains the correct sequence of Wheel Bases, if you were to put them in order from <b>highest</b> average Dealer Cost to <b>lowest</b>?<br />
+		<input type="radio" name="answer" value="Wrong" /> 89, 99, 121 <br />
+		<input type="radio" name="answer" value="Correct" /> 120, 114, 89<br />
+		<input type="radio" name="answer" value="Wrong" /> 89, 110, 121 <br />
+		<input type="radio" name="answer" value="Wrong" /> 0, 120, 121<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="12">
+		 The following chart shows the average <b>Engine Size</b> for cars with different number of <b>Cylinders (Cyl)</b>. Which of the following options contains the correct sequence of car Cylinders, if you were to put them in order from <b>largest</b> average Engine Size to <b>smallest</b>?<br />
+		<input type="radio" name="answer" value="Wrong" /> 8, 9, 4, 12<br />
+		<input type="radio" name="answer" value="Wrong" /> 8, 6, 5, 4 <br />
+		<input type="radio" name="answer" value="Wrong" /> 8, 6, 5, 12 <br />
+		<input type="radio" name="answer" value="Correct" /> 3, 5, 6, 8<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="13">
+		 The following chart shows the average <b>Engine Size</b> for cars with different number of <b>Cylinders (Cyl)</b>. Please select False. <br />
+		<input type="radio" name="answer" value="Correct" /> False<br />
+		<input type="radio" name="answer" value="Wrong" /> True<br/><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="14">
+		 The following chart shows the average <b>Horsepower (HP)</b> for cars with different <b>Widths</b>. Which of the following options contains the correct sequence of Widths, if you were to put them in order from <b>largest</b> average Horsepower to <b>smallest</b>?<br />
+		<input type="radio" name="answer" value="Correct" /> 81, 70, 60, 65 <br />
+		<input type="radio" name="answer" value="Wrong" /> 77, 79, 80, 83<br />
+		<input type="radio" name="answer" value="Wrong" /> 79, 70, 80, 83<br />
+		<input type="radio" name="answer" value="Wrong" /> 20, 30, 65, 75 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="15">
+		 The following chart shows the average <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>. Which of the following options contains the correct sequence of car types, if you were to put them in order from <b>largest</b> average City Miles Per Gallon to <b>smallest</b>??<br />
+		<input type="radio" name="answer" value="Correct" /> Sedan, Sports Car, SUV<br />
+		<input type="radio" name="answer" value="Wrong" /> Sports Car, SUV, Sedan <br />
+		<input type="radio" name="answer" value="Wrong" /> Sports Car, SUV, Wagon <br />
+		<input type="radio" name="answer" value="Wrong" /> Minivan, Sports Car, SUV <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div style="width:50%;  display: inline-block;" id='vis'> </div>
+		<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+	</div>
+
+	<div class='question' id="16">
+		 The following chart shows the average <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>.  Which of the following options contains the correct sequence of car types, if you were to put them in order from <b>largest</b> average City Miles Per Gallon to <b>smallest</b>?<br />
+		<input type="radio" name="answer" value="Wrong" /> Wagon, SUV, Sedan <br />
+		<input type="radio" name="answer" value="Wrong" /> Wagon, SUV, Minivan <br />
+		<input type="radio" name="answer" value="Wrong" /> Sports car, Sedan, Minivan<br />
+		<input type="radio" name="answer" value="Correct" /> Sports car, Minivan, SUV<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="17">
+		 The following chart shows the average <b>Dealer Cost</b> for cars width different <b>Wheel Bases</b>. Which of the following options contains the correct sequence of Wheel Bases, if you were to put them in order from <b>highest</b> average Dealer Cost to <b>lowest</b>?<br />
+		<input type="radio" name="answer" value="Wrong" /> 93, 130, 122, 116<br />
+		<input type="radio" name="answer" value="Correct" /> 101, 121, 123, 93<br />
+		<input type="radio" name="answer" value="Wrong" /> 95, 100, 122, 116<br />
+		<input type="radio" name="answer" value="Wrong" /> 101, 121, 123, 89<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="18">
+		 The following chart shows the average <b>Dealer Cost</b> for cars with different number of <b>Cylinders (Cyl)</b>. Which of the following options contains the correct sequence of car Cylinders, if you were to put them in order from <b>highest</b> average Dealer Cost to <b>lowest</b>?<br />
+		<input type="radio" name="answer" value="Wrong" /> 8, 9, 12<br />
+		<input type="radio" name="answer" value="Correct" /> 8, 5, 3<br />
+		<input type="radio" name="answer" value="Wrong" /> 5, 4, 8<br />
+		<input type="radio" name="answer" value="Wrong" /> 5, 9, 8 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="19">
+		 The following chart shows the average <b>Engine Size</b> for cars with different number of <b>Cylinders (Cyl)</b>.  Which of the following options contains the correct sequence of car Cylinders, if you were to put them in order from <b>largest</b> average Engine Size to <b>smallest</b>?<br />
+		<input type="radio" name="answer" value="Wrong" />  5, 4, 3, 9<br />
+		<input type="radio" name="answer" value="Wrong" />  12, 8, 9, 6<br />
+		<input type="radio" name="answer" value="Wrong" />  12, 9, 8, 5<br />
+		<input type="radio" name="answer" value="Correct" /> 12, 8, 9, 3 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="20">
+		 The following chart shows the average <b>Retail Price</b> for cars with different <b>Wheel Bases</b>. Which of the following options contains the correct sequence of Wheel Bases, if you were to put them in order from <b>highest</b> average Retail Price to <b>lowest</b>?<br />
+		<input type="radio" name="answer" value="Wrong" /> 122, 121, 114 <br />
+		<input type="radio" name="answer" value="Wrong" /> 103, 104, 122 <br />
+		<input type="radio" name="answer" value="Correct" /> 105, 104, 103 <br />
+		<input type="radio" name="answer" value="Wrong" /> 102, 101, 103<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="21">
+		 The following chart shows the average <b>Engine Size</b> for cars with different <b>Widths</b>.  Which of the following options contains the correct sequence of Widths, if you were to put them in order from <b>largest</b> average Engine Size to <b>smallest</b>?<br />
+		<input type="radio" name="answer" value="Wrong" /> 74, 75, 68, 81 <br />
+		<input type="radio" name="answer" value="Correct" /> 81, 80, 76, 69 <br />
+		<input type="radio" name="answer" value="Wrong" /> 81, 72, 69, 70 <br />
+		<input type="radio" name="answer" value="Wrong" /> 80, 77, 76, 81<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div style="width:50%;  display: inline-block;" id='vis'> </div>
+		<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+	</div>
+
+	<div class='question' id="22">
+		 The following chart shows the average <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>. Which of the following options contains the correct sequence of car types, if you were to put them in order from <b>largest</b> average City Miles Per Gallon to <b>smallest</b>?<br />
+	  <input type="radio" name="answer" value="Correct" /> Sedan, Minivan, SUV<br />
+		<input type="radio" name="answer" value="Wrong" />  Sedan, Minivan, Wagon<br />
+		<input type="radio" name="answer" value="Wrong" />  Sedan, Wagon, SUV<br />
+		<input type="radio" name="answer" value="Wrong" /> Sports Car, Sedan, Minivan<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="23">
+		 The following chart shows the average <b>Horsepower (HP)</b> for cars with different number of <b>Cylinders (Cyl)</b>.  Which of the following options contains the correct sequence of car Cylinders, if you were to put them in order from <b>largest</b> average Horsepower to <b>smallest</b>?<br />
+		<input type="radio" name="answer" value="Wrong" /> 10, 9, 6, 5<br />
+		<input type="radio" name="answer" value="Wrong" /> 5, 6, 9, 12<br />
+		<input type="radio" name="answer" value="Wrong" /> 5, 8, 9, 12<br />
+		<input type="radio" name="answer" value="Correct" /> 12, 8, 6, 3 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="24">
+		 The following chart shows the <b>Horsepower (HP)</b> for cars with different <b>Width</b>. Please select False. <br />
+		<input type="radio" name="answer" value="Correct" /> False<br />
+		<input type="radio" name="answer" value="Wrong" /> True<br/><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+
+
+
+		<div class='question' id="25">
+			The following chart shows the average <b>Budget</b> for movies with different <b>Genres</b>.
+			Which of the following options contains the correct sequence of movie genres, if you were to put them in order from <b>largest</b> average Budget value to <b>lowest</b>?<br />
+			<input type="radio" name="answer" value="Wrong" /> drama, action, horror<br />
+			<input type="radio" name="answer" value="Correct" /> adventure, drama, romance<br />
+			<input type="radio" name="answer" value="Wrong" /> adventure, horror, sci-fi<br />
+			<input type="radio" name="answer" value="Wrong" /> sci-fi, drama, adventure<br /><br />
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div id='vis'> </div>
+		</div>
+
+		<div class='question' id="26">
+			The following chart shows the average <b>Gross</b> for movies with different <b>Ratings</b>.
+			Which of the following options contains the correct sequence of movie Rating, if you were to put them in order from <b>highest</b> average Gross value to <b>lowest</b>? <br />
+			<input type="radio" name="answer" value="Wrong" /> 9, 4, 8 <br />
+			<input type="radio" name="answer" value="Wrong" /> 9, 6, 7<br />
+			<input type="radio" name="answer" value="Wrong" /> 8, 9, 4 <br />
+			<input type="radio" name="answer" value="Correct" /> 9, 7, 6<br /><br/>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div style="width:50%;  display: inline-block;" id='vis'> </div>
+			<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+		</div>
+
+		<div class='question' id="27">
+			The following chart shows the average <b>Length</b> for movies with different <b>Genres</b>.
+			Which of the following options contains the correct sequence of movie genres, if you were to put them in order from <b>largest</b> average Length to <b>lowest</b>?<br />
+			<input type="radio" name="answer" value="Wrong" /> drama, action, musical<br />
+			<input type="radio" name="answer" value="Wrong" /> adventure, drama, musical<br />
+			<input type="radio" name="answer" value="Correct" /> adventure, biography, crime<br />
+			<input type="radio" name="answer" value="Wrong" /> sci-fi, drama, adventure<br /><br/>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div id='vis'> </div>
+		</div>
+
+		<div class='question' id="28">
+			The following chart shows the average <b>Gross</b> for movies with different <b>Lengths</b>.
+			Which of the following options contains the correct sequence of Lengths, if you were to put them in order from <b>largest</b> average Gross value to <b>smallest</b>?<br />
+			<input type="radio" name="answer" value="Wrong" /> 160, 100, 150<br />
+			<input type="radio" name="answer" value="Wrong" /> 110, 80, 160<br />
+			<input type="radio" name="answer" value="Wrong" /> 90, 120, 160<br />
+			<input type="radio" name="answer" value="Correct" /> 160, 120, 80<br /><br/>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div id='vis'> </div>
+		</div>
+
+		<div class='question' id="29">
+			The following chart shows the average <b>Length</b> for movies with different <b>Ratings</b>.
+			Which of the following options contains the correct sequence of movie Rating, if you were to put them in order from <b>highest</b> average Length to <b>lowest</b>? <br />
+			<input type="radio" name="answer" value="Correct" /> 8, 7, 6<br />
+			<input type="radio" name="answer" value="Wrong" /> 6, 7, 4<br />
+			<input type="radio" name="answer" value="Wrong" /> 4, 6, 9 <br />
+			<input type="radio" name="answer" value="Wrong" /> 8, 5, 7<br /><br/>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div id='vis'> </div>
+		</div>
+
+		<div class='question' id="30">
+			The following chart shows the average <b>Budget</b> for movies with different <b>Lengths</b>.
+			Which of the following options contains the correct sequence of Lengths, if you were to put them in order from <b>largest</b> average Budget to <b>smallest</b>?<br />
+			<input type="radio" name="answer" value="Wrong" /> 81, 74, 65<br />
+			<input type="radio" name="answer" value="Wrong" /> 72, 73, 80<br />
+			<input type="radio" name="answer" value="Wrong" /> 62, 73, 80<br />
+			<input type="radio" name="answer" value="Correct" /> 81, 74, 67<br /><br />
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div id='vis'> </div>
+		</div>
+
+		<div class='question' id="31">
+			The following chart shows the average <b>Rating</b> for movies with different <b>Genres</b>.
+			Which of the following options contains the correct sequence of movie genres, if you were to put them in order from <b>largest</b> average Rating to <b>lowest</b>?<br />
+			<input type="radio" name="answer" value="Wrong" /> action, comedy, biography<br />
+			<input type="radio" name="answer" value="Correct" /> sci-fi, drama, horror<br />
+			<input type="radio" name="answer" value="Wrong" /> biography, fantasy, sci-fi<br />
+			<input type="radio" name="answer" value="Wrong" /> sci-fi, action, biography<br /><br/>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div style="width:50%;  display: inline-block;" id='vis'> </div>
+			<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+		</div>
+
+		<div class='question' id="32">
+			The following chart shows the average <b>Profit</b> for movies with different <b>Genres</b>.
+			Which of the following options contains the correct sequence of movie genres, if you were to put them in order from <b>largest</b> average Profit value to <b>lowest</b>?<br />
+			<input type="radio" name="answer" value="Wrong" /> musical, fantasy, thriller<br />
+			<input type="radio" name="answer" value="Wrong" /> fantasy, drama, sci-fi<br />
+			<input type="radio" name="answer" value="Wrong" /> sci-fi, comedy, animation<br />
+			<input type="radio" name="answer" value="Correct" /> sci-fi, adventure, drama<br /><br/>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div id='vis'> </div>
+		</div>
+
+		<div class='question' id="33">
+			The following chart shows the average <b>Profit</b> for movies with different <b>Lengths</b>.
+			Which of the following options contains the correct sequence of Lengths, if you were to put them in order from <b>largest</b> average Profit to <b>smallest</b>?<br />
+			<input type="radio" name="answer" value="Wrong" /> 109, 125, 150<br />
+			<input type="radio" name="answer" value="Correct" /> 128, 98, 109<br />
+			<input type="radio" name="answer" value="Wrong" /> 118, 108, 97<br />
+			<input type="radio" name="answer" value="Wrong" /> 97, 109, 110<br /><br/>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div id='vis'> </div>
+		</div>
+
+		<div class='question' id="34">
+			The following chart shows the average <b>Length</b> for movies with different <b>Ratings</b>.
+			Which of the following options contains the correct sequence of movie Rating, if you were to put them in order from <b>highest</b> average Length to <b>lowest</b>? <br />
+			<input type="radio" name="answer" value="Correct" /> 8, 7, 6<br />
+			<input type="radio" name="answer" value="Wrong" /> 6, 7, 4<br />
+			<input type="radio" name="answer" value="Wrong" /> 4, 6, 9 <br />
+			<input type="radio" name="answer" value="Wrong" /> 8, 5, 7<br /><br/>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div id='vis'> </div>
+		</div>
+
+		<div class='question' id="35">
+			The following chart shows the average <b>Gross</b> for movies with different <b>Ratings</b>.
+			Which of the following options contains the correct sequence of movie Rating, if you were to put them in order from <b>highest</b> average Gross value to <b>lowest</b>? <br />
+			<input type="radio" name="answer" value="Wrong" /> 9, 4, 8 <br />
+			<input type="radio" name="answer" value="Correct" /> 9, 7, 6<br />
+			<input type="radio" name="answer" value="Wrong" /> 9, 6, 7<br />
+			<input type="radio" name="answer" value="Wrong" /> 8, 9, 4 <br /><br/>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div id='vis'> </div>
+		</div>
+
+		<div class='question' id="36">
+			The following chart shows the average <b>Profit</b> for movies with different <b>Lengths</b>.
+		  Which of the following options contains the correct sequence of Lengths, if you were to put them in order from <b>largest</b> average Profit to <b>smallest</b>?<br />
+		  <input type="radio" name="answer" value="Wrong" /> 109, 125, 150<br />
+		  <input type="radio" name="answer" value="Correct" /> 128, 98, 109<br />
+		  <input type="radio" name="answer" value="Wrong" /> 118, 108, 97<br />
+		  <input type="radio" name="answer" value="Wrong" /> 97, 109, 110<br /><br/>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div id='vis'> </div>
+		</div>
+
+		<div class='question' id="37">
+			The following chart shows the average <b>Rating</b> for movies with different <b>Length</b>.
+			Which of the following options contains the correct sequence of lengths, if you were to put them in order from <b>highest</b> average Rating to <b>lowest</b>? <br />
+			<input type="radio" name="answer" value="Wrong" /> 98, 130, 118<br />
+			<input type="radio" name="answer" value="Wrong" /> 125, 120, 98<br />
+			<input type="radio" name="answer" value="Wrong" /> 115, 98, 80 <br />
+			<input type="radio" name="answer" value="Correct" /> 98, 129, 110<br /><br/>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div style="width:50%;  display: inline-block;" id='vis'> </div>
+			<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+		</div>
+
+		<div class='question' id="38">
+			The following chart shows the average <b>Budget</b> for movies with different <b>Genres</b>.
+			Which of the following options contains the correct sequence of movie genres, if you were to put them in order from <b>largest</b> average Budget value to <b>lowest</b>?<br />
+	    <input type="radio" name="answer" value="Correct" /> adventure, drama, romance<br />
+			<input type="radio" name="answer" value="Wrong" /> drama, action, horror<br />
+			<input type="radio" name="answer" value="Wrong" /> adventure, horror, sci-fi<br />
+			<input type="radio" name="answer" value="Wrong" /> sci-fi, drama, adventure<br /><br/>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div id='vis'> </div>
+		</div>
+
+		<div class='question' id="39">
+			The following chart shows the average <b>Budget</b> for movies with different <b>Ratings</b>.
+		 Which of the following options contains the correct sequence of movie Rating, if you were to put them in order from <b>highest</b> average Budget value to <b>lowest</b>? <br />
+		 <input type="radio" name="answer" value="Wrong" /> 9, 4, 5 <br />
+		 <input type="radio" name="answer" value="Correct" /> 9, 7, 6<br />
+		 <input type="radio" name="answer" value="Wrong" /> 9, 6, 7<br />
+		 <input type="radio" name="answer" value="Wrong" /> 8, 9, 4 <br /><br/>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div id='vis'> </div>
+		</div>
+
+
+	<div class='question ranking' id="40">
+		 All following charts show the Highway Miles Per Gallon for 5 types of cars (e.g. Sedan and SUV). Suppose you are asked to find ordered set of car types based on cars' Highway Miles Per Gallon (from the <b>highest</b> to the <b>lowest</b>). Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+		<input type="submit" value="Submit" onclick="showNextQ();"/> <br /><br />
+		<div style="margin-bottom: 10px; height:400;">
+			<div style="float: right; width:50%; display: inline-block;" id="vis1">
+				<p > Pie Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+			<div style="width:50%;  display: inline-block;" id="vis2">
+				<p> Scatterplot</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+		<div style="margin-bottom: 10px; height:400;">
+			<div style="float: right; width:50%; display: inline-block;" id="vis3">
+				<p> Bar Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+			<div style="width:50%; display: inline-block;" id="vis4">
+				<p > Line Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+
+		<div style="margin-bottom: 10px;">
+			<div style="width:50%; display: inline-block;" id="vis5">
+				<p> Table</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+	</div>
+
+	<div class='question ranking' id="41">
+		 All following charts show the Length for 8 types of Cylinders. Suppose you are asked to find ordered set of Cylinders based on cars' Lengths (from the <b>highest</b> to the <b>lowest</b>). Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+		<input type="submit" value="Submit" onclick="showNextQ();" /> <br /><br />
+		<div style="margin-bottom: 10px; height:400;">
+			<div style="float: right; width:50%; display: inline-block;" id="vis1">
+				<p > Bar Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+			<div style="width:50%;  display: inline-block;" id="vis2">
+				<p> Pie Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+
+		<div style="margin-bottom: 10px; height:400;">
+			<div style="float: right; width:50%; display: inline-block;" id="vis3">
+				<p> Scatterplot</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+			<div style="width:50%; display: inline-block;" id="vis4">
+				<p > Line Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+
+		<div style="margin-bottom: 10px;">
+			<div style="width:50%; display: inline-block;" id="vis5">
+				<p> Table</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+	</div>
+
+	<div class='question ranking' id="42">
+		 All of the following charts show the Dealer cost for cars with different Widths. Suppose you are asked to find ordered set of Widths based on cars' Dealer Costs (from the <b>highest</b> to the <b>lowest</b>). Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+		<input type="submit" value="Submit" onclick="showNextQ();" /> <br /><br />
+		<div style="margin-bottom: 10px; height:400;">
+			<div style="float: right; width:50%; display: inline-block;" id="vis1">
+				<p > Pie Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+			<div style="width:50%;  display: inline-block;" id="vis2">
+				<p> Scatterplot</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+
+		<div style="margin-bottom: 10px; height:400;">
+			<div style="float: right; width:50%; display: inline-block;" id="vis3">
+				<p> Bar Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+			<div style="width:50%; display: inline-block;" id="vis4">
+				<p > Line Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+
+		<div style="margin-bottom: 10px;">
+			<div style="width:50%; display: inline-block;" id="vis5">
+				<p> Table</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+	</div>
+
+	<div class='question ranking' id="43">
+			All following charts show the Budget for movies with different Genres.
+			Suppose you are asked to find ordered set of movie genres based on movie's budget (from the <b>highest</b> to the <b>lowest</b>).
+			Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+			<input type="submit" value="Submit" onclick="showNextQ();"/> <br /><br />
+
+			<div style="margin-bottom: 10px; height:400;">
+				<div style="float: right; width:50%; display: inline-block;" id="vis1">
+					<p > Pie Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+				<div style="width:50%;  display: inline-block;" id="vis2">
+					<p> Scatterplot</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+			<div style="margin-bottom: 10px; height:400;">
+				<div style="float: right; width:50%; display: inline-block;" id="vis3">
+					<p> Bar Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+				<div style="width:50%; display: inline-block;" id="vis4">
+					<p > Line Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+
+			<div style="margin-bottom: 10px;">
+				<div style="width:50%; display: inline-block;" id="vis5">
+					<p> Table</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+		</div>
+
+		<div class='question ranking' id="44">
+			 All following charts show the Gross for movies with different Ratings.
+			 Suppose you are asked to find ordered set of Rating based on movies' Gross value (from the <b>highest</b> to the <b>lowest</b>).
+			 Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+			<input type="submit" value="Submit" onclick="showNextQ();" /> <br /><br />
+			<div style="margin-bottom: 10px; height:400;">
+				<div style="float: right; width:50%; display: inline-block;" id="vis1">
+					<p > Bar Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+				<div style="width:50%;  display: inline-block;" id="vis2">
+					<p> Pie Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+
+			<div style="margin-bottom: 10px; height:400;">
+				<div style="float: right; width:50%; display: inline-block;" id="vis3">
+					<p> Scatterplot</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+				<div style="width:50%; display: inline-block;" id="vis4">
+					<p > Line Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+
+			<div style="margin-bottom: 10px;">
+				<div style="width:50%; display: inline-block;" id="vis5">
+					<p> Table</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+		</div>
+
+		<div class='question ranking' id="45">
+			 All of the following charts show the Rating for cars with different Lengths.
+			 Suppose you are asked to find ordered set of Lengths based on movies' Rating (from the <b>highest</b> to the <b>lowest</b>).
+			 Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+			<input type="submit" value="Submit" onclick="showNextQ();" /> <br /><br />
+			<div style="margin-bottom: 10px; height:400;">
+				<div style="float: right; width:50%; display: inline-block;" id="vis1">
+					<p > Pie Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+				<div style="width:50%;  display: inline-block;" id="vis2">
+					<p> Scatterplot</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+
+			<div style="margin-bottom: 10px; height:400;">
+				<div style="float: right; width:50%; display: inline-block;" id="vis3">
+					<p> Bar Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+				<div style="width:50%; display: inline-block;" id="vis4">
+					<p > Line Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+
+			<div style="margin-bottom: 10px;">
+				<div style="width:50%; display: inline-block;" id="vis5">
+					<p> Table</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+		</div>
+
+	<div class="question comment" id="46">
+      <span>Please enter the criteria you used for ranking the charts along with any other additional comments you have
+      about the experiment in general.</span><br/><br/>
+      <textarea id="comment" style="width:40%; height:20%;"> </textarea> <br/><br/>
+      <input type="submit" value="Submit" onclick="showNextQ(); saveAnswers();" /> <br /><br />
+  </div>
+
+	<div class="question end" id="47">
+		<h3>End of the study </h3> <br />
+		<p>
+			Thank you for participating.
+		</p>
+		<p>
+			Here is your Survey Code:
+			<button id='sur_btn' onclick="getSurCode()">Get the code</button>
+			<strong id='sur_code'></strong>
+		</p>
+  </div>
+
+</body>
+</html>

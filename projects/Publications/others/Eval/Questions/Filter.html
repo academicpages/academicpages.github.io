@@ -1,0 +1,817 @@
+
+<html>
+<head>
+
+</head>
+<body>
+
+  <div class='question instruction' id="1">
+    <h3> <font color="red">NOTE:</font> To ensure best performance, we suggest you to run the study in full screen mode. Kindly DO NOT refresh the page during the session. </h3>
+    During the training session, you will be asked to go through 5 questions. Please try to use the given charts to answer these questions as accurately as possible. Press <b>"Start Training Session"</b> when you are ready to start.<br /><br />
+    <input type="submit" value="Start Training Session" onclick="showNextQ()" /> <br />
+  </div>
+
+  <div class='question' id="2">
+     The following chart shows the average <b>Highway Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>. Which car type have the Highway Miles Per Gallon ranging from 24 to 26 ?<br />
+     <input type="radio" name="answer" value="Wrong" /> Sports Car, Wagon, SUV<br />
+    <input type="radio" name="answer" value="Wrong" /> Sedan, Minivan<br />
+    <input type="radio" name="answer" value="Correct" /> Sports Car, Minivan<br />
+    <input type="radio" name="answer" value="Wrong" /> Sports Car, Sedan<br />
+    <p id="Answer"></p>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="3">
+    The following chart shows the average <b>Retail Price</b> for cars with different numbers of <b>Cylinders (e.g. 3 and 4)</b>. Cars with what numbers of cylinders have the Retail Price ranging from 30,000 to 38,000? <br />
+    <input type="radio" name="answer" value="Correct" /> 0, 9, 5, 6<br />
+    <input type="radio" name="answer" value="Wrong" /> 0, 8, 9, 5 <br />
+    <input type="radio" name="answer" value="Wrong" />  8, 9, 12 <br />
+    <input type="radio" name="answer" value="Wrong" />  4, 9, 12 <br />
+    <p id="Answer"></p>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div style="width:50%;  display: inline-block;" id='vis'> </div>
+    <div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+  </div>
+
+  <div class='question' id="4">
+    The following chart shows the <b>Highway Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan, and SUV)</b>. Which car type have the Highway Miles Per Gallon ranging from 24 to 28 ? <br />
+    <input type="radio" name="answer" value="Wrong" /> Wagon, SUV, Sedan<br />
+    <input type="radio" name="answer" value="Correct" /> Sports Car, Wagon, Minivan<br />
+    <input type="radio" name="answer" value="Wrong" /> SUV, Sports Car, Wagon<br />
+    <input type="radio" name="answer" value="Wrong" /> Minivan, Sports Car, SUV<br />
+    <p id="Answer"></p>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="5">
+    The following chart shows the average <b>Weight</b> for cars width different <b>Widths (e.g. 60 and 70)</b>. Which car Width have the Weight ranging from 4000 to 6500 ?<br />
+    <input type="radio" name="answer" value="Wrong" /> 71, 74, 76, 80 <br />
+    <input type="radio" name="answer" value="Wrong" /> 72, 73, 80, 82<br />
+    <input type="radio" name="answer" value="Wrong" /> 72, 73, 80, 85<br />
+    <input type="radio" name="answer" value="Correct" /> 75, 77, 80, 81<br />
+    <p id="Answer"></p>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="6">
+    The following chart shows the average <b>Highway Miles Per Gallon</b> for cars with different numbers of <b>Cylinders (e.g. 3 and 4)</b>. Cars with what numbers of cylinders have the Highway Miles Per Gallon ranging from 23 to 25? <br />
+    <input type="radio" name="answer" value="Correct" /> 8<br />
+    <input type="radio" name="answer" value="Wrong" /> 6, 8 <br />
+    <input type="radio" name="answer" value="Wrong" /> 3, 9 <br />
+    <input type="radio" name="answer" value="Wrong" /> 6, 8, 12 <br />
+    <p id="Answer"></p>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+
+  <div class='question instruction' id="7">
+    <p>Thank You. You completed the Trial Session.</p>
+    Now is the time to start the main experiment. Similar to the trial session, in the main experiment you will be asked to complete about 20 questions. However, in the main experiment once a question is submitted it cannot be changed or reviewed. You will not receive any feedback to show the correctness of answers during this session. So, please answer the questions <b>as accurate as possible</b> and press "Submit" button only when you are sure about your answer. Press <b>"Start"</b> when you are ready to start the main experiment.<br /><br />
+    <input type="submit" value="Start" onclick="showNextQ()" /> <br />
+  </div>
+
+  <div class='question' id="8">
+     The following chart shows the average <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>.
+    Which car type have the City Miles Per Gallon ranging from 20 to 23 ?<br />
+    <input type="radio" name="answer" value="Correct" /> Sedan<br />
+    <input type="radio" name="answer" value="Wrong" /> SUV<br />
+    <input type="radio" name="answer" value="Wrong" /> Minivan<br />
+    <input type="radio" name="answer" value="Wrong" /> Wagon<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="9">
+     The following chart shows the average <b>Weight</b> for cars with different numbers of <b>Cylinders (e.g. 3 and 4)</b>. Cars with what numbers of cylinders have the Weight above 4,000?
+    <br />
+    <input type="radio" name="answer" value="Wrong" /> 4, 5, 6 <br />
+    <input type="radio" name="answer" value="Wrong" /> 8, 12, 5<br />
+    <input type="radio" name="answer" value="Wrong" /> 12, 3, 6<br />
+    <input type="radio" name="answer" value="Correct" /> 8, 12 <br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div style="width:50%;  display: inline-block;" id='vis'> </div>
+    <div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+  </div>
+
+  <div class='question' id="10">
+     The following chart shows the average <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>. Which car type have the City Miles Per Gallon ranging from 15 to 20 ?<br />
+    <input type="radio" name="answer" value="Correct" /> Minivan, Sports Car, SUV<br />
+    <input type="radio" name="answer" value="Wrong" /> Sports Car, SUV, Sedan <br />
+    <input type="radio" name="answer" value="Wrong" /> SUV, Sedan, Wagon <br />
+    <input type="radio" name="answer" value="Wrong" /> Wagan, Sports Car, SUV <br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="11">
+     The following chart shows the average <b>Dealer Cost</b> for cars with different Wheel Bases (e.g. 60 and 70). Which car Wheel Bases have Dealer Cost ranging from 45000 to 60000? <br />
+    <input type="radio" name="answer" value="Wrong" /> 97, 114, 121 <br />
+    <input type="radio" name="answer" value="Correct" /> 95, 114, 121<br />
+    <input type="radio" name="answer" value="Wrong" /> 100, 101, 104<br />
+    <input type="radio" name="answer" value="Wrong" /> 95, 119, 121<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="12">
+     The following chart shows the average <b>Engine Size</b> for cars with different numbers of <b>Cylinders (e.g. 4 and 6)</b>. Cars with what numbers of cylinders have the Engine Size ranging from 3 to 5 ? <br />
+    <input type="radio" name="answer" value="Wrong" /> 0, 9, 6<br />
+    <input type="radio" name="answer" value="Wrong" /> 0, 4, 8, 12 <br />
+    <input type="radio" name="answer" value="Wrong" /> 0, 6, 5, 12 <br />
+    <input type="radio" name="answer" value="Correct" /> 0, 9, 8, 12 <br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="13">
+     The following chart shows the average <b>Engine Size</b> for cars with different numbers of <b>Cylinders (e.g. 3 and 4)</b>. Please select True. <br />
+    <input type="radio" name="answer" value="Wrong" /> False<br />
+    <input type="radio" name="answer" value="Correct" /> True<br/><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="14">
+     The following chart shows the average <b>Horsepower (HP)</b> for cars with different <b>Widths</b>. Which car Widths have the Horsepower ranging between 260 to 320 ? <br />
+    <input type="radio" name="answer" value="Correct" /> 75, 79, 80, 81<br />
+    <input type="radio" name="answer" value="Wrong" /> 77, 79, 80, 83<br />
+    <input type="radio" name="answer" value="Wrong" /> 77, 70, 60, 83<br />
+    <input type="radio" name="answer" value="Wrong" /> 70, 74, 80, 81 <br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="15">
+     The following chart shows the average <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>. Which car type have City Miles Per Gallon from 16 to 19?<br />
+    <input type="radio" name="answer" value="Correct" /> Minivan, Sports Car, SUV<br />
+    <input type="radio" name="answer" value="Wrong" /> Sports Car, SUV, Sedan <br />
+    <input type="radio" name="answer" value="Wrong" /> Sports Car, Sedan, Wagon<br />
+    <input type="radio" name="answer" value="Wrong" /> Wagan, Sports Car, SUV <br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div style="width:50%;  display: inline-block;" id='vis'> </div>
+    <div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+  </div>
+
+  <div class='question' id="16">
+     The following chart shows the average <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>. Which car type have City Miles Per Gallon from 18 to 20?<br />
+    <input type="radio" name="answer" value="Wrong" /> Sedan <br />
+    <input type="radio" name="answer" value="Wrong" /> Wagon<br />
+    <input type="radio" name="answer" value="Wrong" /> Sports Car, Sedan<br />
+    <input type="radio" name="answer" value="Correct" /> Sports Car<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+
+
+  <div class='question' id="17">
+     The following chart shows the average <b>Dealer Cost</b> Per Gallon for cars with different <b>Wheel Bases</b>. Which car Wheel Bases have Dealer cost ranging from 49,000 to 76,000 ? <br />
+    <input type="radio" name="answer" value="Wrong" /> 93, 130, 122<br />
+    <input type="radio" name="answer" value="Correct" /> 93, 114, 122<br />
+    <input type="radio" name="answer" value="Wrong" /> 93, 95, 114<br />
+    <input type="radio" name="answer" value="Wrong" /> 93, 114, 130<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="18">
+     The following chart shows the average <b>Dealer Cost</b> for cars with different numbers of <b>Cylinders (e.g. 3 and 4)</b>. Cars with what numbers of cylinders have the Dealer Cost ranging from 40,000 to 200,000?<br />
+    <input type="radio" name="answer" value="Wrong" /> 8, 9 <br />
+    <input type="radio" name="answer" value="Correct" /> 8, 12 <br />
+    <input type="radio" name="answer" value="Wrong" /> 9, 12 <br />
+    <input type="radio" name="answer" value="Wrong" /> 5, 8 <br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="19">
+     The following chart shows the average <b>Engine Size</b> for cars with different numbers of <b>Cylinders (e.g. 3 and 4)</b>. Cars with what numbers of cylinders have the Engine Size ranging from 3 to 6? <br />
+    <input type="radio" name="answer" value="Wrong" />  0, 6, 3, 9, 8<br />
+    <input type="radio" name="answer" value="Wrong" />  12, 4, 9, 8 <br />
+    <input type="radio" name="answer" value="Wrong" />  8, 4, 5, 8 <br />
+    <input type="radio" name="answer" value="Correct" /> 6, 12, 9, 8 <br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="20">
+     The following chart shows the average <b>Engine Size</b> for cars with different <b>Widths</b>. Which car Widths have the Engine Size ranging from 4 to 6 ?<br />
+    <input type="radio" name="answer" value="Wrong" /> 79, 80, 81, 73<br />
+    <input type="radio" name="answer" value="Wrong" /> 79, 81, 70, 64<br />
+    <input type="radio" name="answer" value="Correct" /> 78, 79, 80, 81<br />
+    <input type="radio" name="answer" value="Wrong" /> 70, 68, 78, 79<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="21">
+     The following chart shows the average <b>Retail Price</b> for cars with different <b>Whidths (e.g. 123 and 130)</b>. Which Widths have Retail Price ranging from 42,000 to 60,000?<br />
+    <input type="radio" name="answer" value="Wrong" /> 64, 81, 76<br />
+    <input type="radio" name="answer" value="Correct" /> 80, 81, 76, 71<br />
+    <input type="radio" name="answer" value="Wrong" /> 64, 67, 76<br />
+    <input type="radio" name="answer" value="Wrong" /> 80, 81, 77, 69<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div style="width:50%;  display: inline-block;" id='vis'> </div>
+    <div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+  </div>
+
+  <div class='question' id="22">
+     The following chart shows the <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>. Which car type have City Miles Per Gallon ranging from 25 to 56 ?<br />
+    <input type="radio" name="answer" value="Correct" /> Wagon<br />
+    <input type="radio" name="answer" value="Wrong" /> Sedan<br />
+    <input type="radio" name="answer" value="Wrong" /> Wagon, Minivan<br />
+    <input type="radio" name="answer" value="Wrong" /> Sports Car<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="23">
+     The following chart shows the average <b>Horsepower</b> for cars with different numbers of <b>Cylinders (e.g. 3 and 4)</b>.
+     Which number of Cylinder belong to cars with Horsepower ranging from 150 to 340 ?
+    <br />
+    <input type="radio" name="answer" value="Wrong" /> 4, 3, 8<br />
+    <input type="radio" name="answer" value="Wrong" /> 4, 6, 12<br />
+    <input type="radio" name="answer" value="Wrong" /> 3, 6, 12<br />
+    <input type="radio" name="answer" value="Correct" /> 5, 6, 8 <br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="24">
+     The following chart shows the avergae <b>Horsepower</b> for cars with different <b>Widths (e.g. 66 and 73)</b>. Please select False. <br />
+    <input type="radio" name="answer" value="Correct" /> False<br />
+    <input type="radio" name="answer" value="Wrong" /> True<br/><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+
+  <div class='question' id="25">
+     The following chart shows the average <b>Rating</b> for movies with different <b>Genres</b>.
+     Which Genre has the Rating ranging from 5 to 6 ?<br />
+     <input type="radio" name="answer" value="Correct" /> horror<br />
+     <input type="radio" name="answer" value="Wrong" /> comedy<br />
+     <input type="radio" name="answer" value="Wrong" /> thriller<br />
+     <input type="radio" name="answer" value="Wrong" /> fantasy<br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+   <div class='question' id="26">
+     The following chart shows the average <b>Budget</b> for cars with different <b>Ratings</b>. Movies with what Ratings have the Budget ranging from 115 to 190? <br />
+     <input type="radio" name="answer" value="Correct" /> 7, 9 <br />
+     <input type="radio" name="answer" value="Wrong" /> 9 <br />
+     <input type="radio" name="answer" value="Wrong" /> 7, 9, 6 <br />
+     <input type="radio" name="answer" value="Wrong" /> 6, 8, 9 <br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div style="width:50%;  display: inline-block;" id='vis'> </div>
+     <div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+   </div>
+
+   <div class='question' id="27">
+     The following chart shows the average <b>Gross($M)</b> for movies with different <b>Genres</b>. Which Genres of movies have the Gross value ranging from 550 to 700 ?<br />
+     <input type="radio" name="answer" value="Wrong" /> fantasy, sci-fi, crime <br />
+     <input type="radio" name="answer" value="Wrong" /> crime, musical, romance <br />
+     <input type="radio" name="answer" value="Correct" /> fantasy, sci-fi, adventure<br />
+     <input type="radio" name="answer" value="Wrong" /> action, musical, animation<br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+   <div class='question' id="28">
+     The following chart shows the average <b>Gross($M)</b> for cars width different <b>Lengths</b>. Which movie Lengths have the Gross value ranging from 500 to 551?<br />
+     <input type="radio" name="answer" value="Wrong" /> 140, 190, 100 <br />
+     <input type="radio" name="answer" value="Wrong" /> 120, 140, 110<br />
+     <input type="radio" name="answer" value="Wrong" /> 128, 140, 110<br />
+     <input type="radio" name="answer" value="Correct" /> 128, 140, 190 <br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+   <div class='question' id="29">
+      The following chart shows the average <b>Length</b> for movies with different <b>Ratings</b>. Movies with what Ratings have the Length ranging from 114 to 118? <br />
+     <input type="radio" name="answer" value="Wrong" /> 5, 9, 8<br />
+     <input type="radio" name="answer" value="Wrong" /> 6, 4, 8 <br />
+     <input type="radio" name="answer" value="Wrong" /> 9, 6, 4 <br />
+     <input type="radio" name="answer" value="Correct" /> 5, 7, 9<br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+   <div class='question' id="30">
+     The following chart shows the average <b>Rating</b> for movies width different <b>Lengths</b>. Which movie Lengths have the Rating ranging from 6.5 to 7?<br />
+     <input type="radio" name="answer" value="Correct" /> 75, 79, 80, 81<br />
+     <input type="radio" name="answer" value="Wrong" /> 77, 79, 80, 83<br />
+     <input type="radio" name="answer" value="Wrong" /> 77, 70, 60, 83<br />
+     <input type="radio" name="answer" value="Wrong" /> 70, 74, 80, 81 <br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+   <div class='question' id="31">
+     The following chart shows the average <b>Rating</b> for movies with different <b>Genres</b>.
+     Which Genre has the Rating ranging from 6.5 to 8 ?<br />
+     <input type="radio" name="answer" value="Correct" /> biography, sci-fi, documentary, romance<br />
+     <input type="radio" name="answer" value="Wrong" /> biography, sci-fi, comedy<br />
+     <input type="radio" name="answer" value="Wrong" /> musical, sci-fi, documentary<br />
+     <input type="radio" name="answer" value="Wrong" /> fantasy, drama<br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div style="width:50%;  display: inline-block;" id='vis'> </div>
+     <div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+   </div>
+
+   <div class='question' id="32">
+     The following chart shows the <b>Profit($M)</b> for movies with different <b>Genres</b>
+     Which Genres have the Profit ranging from 480 to 600 ? <br />
+     <input type="radio" name="answer" value="Wrong" /> sci-fi, crime<br />
+     <input type="radio" name="answer" value="Correct" /> sci-fi, fantasy<br />
+     <input type="radio" name="answer" value="Wrong" /> sci-fi, adventure, sci-fi<br />
+     <input type="radio" name="answer" value="Wrong" /> adventure, sci-fi<br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+
+
+   <div class='question' id="33">
+       The following chart shows the average <b>Gross($M)</b> for cars width different <b>Lengths</b>. Which movie Lengths have the Gross value ranging from 350 to 400?<br />
+       <input type="radio" name="answer" value="Wrong" /> 90, 97, 130, 120  <br />
+       <input type="radio" name="answer" value="Wrong" /> 125, 118, 110, 120 <br />
+       <input type="radio" name="answer" value="Wrong" /> 140, 160, 110, 120 <br />
+       <input type="radio" name="answer" value="Correct" /> 80, 90, 110, 120 <br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+   <div class='question' id="34">
+     The following chart shows the average <b>Budget</b> for movies with different <b>Ratings</b>.
+     Movies with what Ratings have the Budget ranging from 100 to 200? <br />
+     <input type="radio" name="answer" value="Wrong" />6, 4, 8, 9 <br />
+     <input type="radio" name="answer" value="Correct" /> 6, 7, 8, 9 <br />
+     <input type="radio" name="answer" value="Wrong" /> 4, 6 <br />
+     <input type="radio" name="answer" value="Wrong" /> 6, 7, 5 <br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+   <div class='question' id="35">
+     The following chart shows the average <b>Length</b> for movies with different <b>Ratings</b>. Movies with what Ratings have the Length ranging from 118 to 130? <br />
+    <input type="radio" name="answer" value="Wrong" /> 8, 9<br />
+    <input type="radio" name="answer" value="Wrong" /> 5, 6 <br />
+    <input type="radio" name="answer" value="Wrong" /> 9 <br />
+    <input type="radio" name="answer" value="Correct" /> 8<br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+   <div class='question' id="36">
+     The following chart shows the average <b>Gross($M)</b> for cars width different <b>Lengths</b>.
+     Which movie Lengths have the Gross value ranging from 600 to 800?<br />
+     <input type="radio" name="answer" value="Wrong" /> 140, 150, 108 <br />
+     <input type="radio" name="answer" value="Wrong" /> 160, 140, 110<br />
+     <input type="radio" name="answer" value="Wrong" /> 160, 150, 110<br />
+     <input type="radio" name="answer" value="Correct" /> 108, 150, 160 <br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+   <div class='question' id="37">
+     The following chart shows the average <b>Gross($M)</b> for cars width different <b>Lengths</b>. Which movie Lengths have the Gross value ranging from 500 to 551?<br />
+     <input type="radio" name="answer" value="Wrong" /> 140, 190, 100 <br />
+     <input type="radio" name="answer" value="Wrong" /> 120, 140, 110<br />
+     <input type="radio" name="answer" value="Wrong" /> 128, 140, 110<br />
+     <input type="radio" name="answer" value="Correct" /> 128, 140, 190 <br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div style="width:50%;  display: inline-block;" id='vis'> </div>
+     <div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+   </div>
+
+   <div class='question' id="38">
+     The following chart shows the average <b>Length</b> for movies with different <b>Genres</b>. Which Genres of movies have the Length ranging from 110 to 120 ?<br />
+     <input type="radio" name="answer" value="Wrong" /> action, comedy, crime, documentary<br />
+    <input type="radio" name="answer" value="Wrong" /> action, comedy, crime, musical<br />
+    <input type="radio" name="answer" value="Correct" /> action, comedy, crime, biography, thriller<br />
+    <input type="radio" name="answer" value="Wrong" /> biography, thriller, horror<br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+   <div class='question' id="39">
+     The following chart shows the average <b>Length</b> for movies with different <b>Ratings</b>. Movies with what Ratings have the Length ranging from 114 to 118? <br />
+    <input type="radio" name="answer" value="Wrong" /> 5, 9, 8<br />
+    <input type="radio" name="answer" value="Wrong" /> 6, 4, 8 <br />
+    <input type="radio" name="answer" value="Wrong" /> 9, 6, 4 <br />
+    <input type="radio" name="answer" value="Correct" /> 5, 7, 9<br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+  <div class='question ranking' id="40">
+     All of the following charts show the Highway Miles Per Gallon for 5 types of cars (e.g. Sedan and SUV). Suppose you are asked to find the type of cars that have Highway Miles Per Gallon ranging from 20 to 30. Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ();" /> <br /><br />
+
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis1">
+        <p > Pie Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%;  display: inline-block;" id="vis2">
+        <p> Scatterplot</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis3">
+        <p> Bar Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%; display: inline-block;" id="vis4">
+        <p > Line Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 10px;">
+      <div style="width:50%; display: inline-block;" id="vis5">
+        <p> Table</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class='question ranking' id="41">
+     All of the following charts show the average Length for cars with different numbers of cylinders (e.g. 3, 4). Suppose you are asked to find the numbers of cylinders for cars that have Length ranging from 100 to 150. Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br /><br />
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis1">
+        <p > Bar Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%;  display: inline-block;" id="vis2">
+        <p> Pie Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis3">
+        <p> Scatterplot</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%; display: inline-block;" id="vis4">
+        <p > Line Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 10px;">
+      <div style="width:50%; display: inline-block;" id="vis5">
+        <p> Table</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class='question ranking' id="42">
+     All of the following charts show the Dealer cost for cars with different Widths. Suppose you are asked to find the Width of cars that have Dealer Cost ranging from 20000 to 40000. Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ();" /> <br /><br />
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis1">
+        <p > Pie Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%;  display: inline-block;" id="vis2">
+        <p> Scatterplot</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis3">
+        <p> Bar Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%; display: inline-block;" id="vis4">
+        <p > Line Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 10px;">
+      <div style="width:50%; display: inline-block;" id="vis5">
+        <p> Table</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class='question ranking' id="43">
+       All of the following charts show the Gross movies with different Genres.
+       Suppose you are asked to find the Genres that have Gross value ranging from 400 to 500.
+       Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+      <input type="submit" value="Submit" onclick="showNextQ();" /> <br /><br />
+
+      <div style="margin-bottom: 10px; height:400;">
+        <div style="float: right; width:50%; display: inline-block;" id="vis1">
+          <p > Pie Chart</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+        <div style="width:50%;  display: inline-block;" id="vis2">
+          <p> Scatterplot</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+      </div>
+      <div style="margin-bottom: 10px; height:400;">
+        <div style="float: right; width:50%; display: inline-block;" id="vis3">
+          <p> Bar Chart</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+        <div style="width:50%; display: inline-block;" id="vis4">
+          <p > Line Chart</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+      </div>
+
+      <div style="margin-bottom: 10px;">
+        <div style="width:50%; display: inline-block;" id="vis5">
+          <p> Table</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <div class='question ranking' id="44">
+       All of the following charts show the average Length for movies with different Ratings.
+       Suppose you are asked to find the Rating that have Length ranging from 100 to 150.
+       Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+      <input type="submit" value="Submit" onclick="showNextQ()" /> <br /><br />
+      <div style="margin-bottom: 10px; height:400;">
+        <div style="float: right; width:50%; display: inline-block;" id="vis1">
+          <p > Bar Chart</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+        <div style="width:50%;  display: inline-block;" id="vis2">
+          <p> Pie Chart</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+      </div>
+
+      <div style="margin-bottom: 10px; height:400;">
+        <div style="float: right; width:50%; display: inline-block;" id="vis3">
+          <p> Scatterplot</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+        <div style="width:50%; display: inline-block;" id="vis4">
+          <p > Line Chart</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+      </div>
+
+      <div style="margin-bottom: 10px;">
+        <div style="width:50%; display: inline-block;" id="vis5">
+          <p> Table</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <div class='question ranking' id="45">
+       All of the following charts show the Rating for cars with different Lengths.
+       Suppose you are asked to find the Length of movies that have Rating ranging from 6 to 7.
+       Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+      <input type="submit" value="Submit" onclick="showNextQ();" /> <br /><br />
+      <div style="margin-bottom: 10px; height:400;">
+        <div style="float: right; width:50%; display: inline-block;" id="vis1">
+          <p > Pie Chart</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+        <div style="width:50%;  display: inline-block;" id="vis2">
+          <p> Scatterplot</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+      </div>
+
+      <div style="margin-bottom: 10px; height:400;">
+        <div style="float: right; width:50%; display: inline-block;" id="vis3">
+          <p> Bar Chart</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+        <div style="width:50%; display: inline-block;" id="vis4">
+          <p > Line Chart</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+      </div>
+
+      <div style="margin-bottom: 10px;">
+        <div style="width:50%; display: inline-block;" id="vis5">
+          <p> Table</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+  <div class="question comment" id="46">
+      <span>Please enter the criteria you used for ranking the charts along with any other additional comments you have
+      about the experiment in general.</span><br/><br/>
+      <textarea id="comment" style="width:40%; height:20%;"> </textarea> <br/><br/>
+      <input type="submit" value="Submit" onclick="showNextQ(); saveAnswers();" /> <br /><br />
+  </div>
+
+  <div class="question end" id="47">
+    <h3>End of the study </h3> <br />
+    <p>
+      Thank you for participating.
+    </p>
+    <p>
+      Here is your Survey Code:
+      <button id='sur_btn' onclick="getSurCode()">Get the code</button>
+      <strong id='sur_code'></strong>
+    </p>
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,403 @@
+/* ======= Navigation =======  */
+.navigation-menu a {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    color: #333;
+    transition: all 0.2s ease-in-out;
+}
+
+.navigation-menu a:hover {
+    color: #f7d100;
+}
+
+.navigation-menu ul {
+    padding-left: 0;
+}
+
+.navigation-menu {
+    position: fixed;
+    width: 100%;
+    background-color: #fff;
+    top: 0px;
+    z-index: 100;
+}
+
+.header-menu {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.096);
+}
+
+.header-menu .navbar {
+    padding-top: 25px;
+}
+
+.navbar {
+    padding: 50px 0 10px;
+    transition: all 0.4s ease-in-out;
+}
+
+.navbar-brand {
+    line-height: 1;
+    padding: 0;
+    margin: 0;
+    font-size: 25px;
+}
+
+.nav-link {
+    margin: 0 30px;
+    padding: 0 !important;
+    line-height: 1;
+    position: relative;
+    font-size: 18px !important;
+}
+
+.nav-link:hover {
+    color: #0a0a0a;
+}
+
+.navbar-nav .nav-item:last-of-type .nav-link {
+    margin-right: 0;
+}
+
+.nav-link.active::after,
+.nav-link:hover::after {
+    content: "";
+    position: absolute;
+    bottom: -13px;
+    height: 2px;
+    background-color: #333;
+    animation: dash 0.3s 1 ease-in-out forwards;
+}
+
+@keyframes dash {
+    from {
+        left: 50%;
+        right: 50%;
+    }
+
+    to {
+        left: 0%;
+        right: 0%;
+    }
+}
+
+.navbar-toggler:focus,
+.navbar-toggler-icon:focus {
+    outline: none;
+}
+
+.collapsing {
+    transition: height 0.5s ease-in-out;
+}
+
+
+/* ======= !Navigation =======  */
+
+h3.my-publications {
+    font-family: 'Montserrat', sans-serif;
+    color: #333;
+    font-style: normal;
+    line-height: 44px;
+    font-size: 43px;
+    font-weight: 600;
+    margin-bottom: 100px;
+}
+
+.pub-diagram * {
+    box-sizing: border-box;
+}
+
+.pub-diagram {
+    width: 90%;
+    margin: 200px 0 80px;
+}
+
+.pub-diagram a {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: rgb(36, 65, 99);
+    transition: all 0.2s ease-in-out;
+    font-size: 40px;
+}
+
+.pub-diagram a:hover {
+    color: rgb(45, 99, 160);
+    text-decoration: none;
+}
+
+a {
+    color: rgb(36, 86, 143);
+    transition: all 0.2s ease-in-out;
+}
+
+a:hover {
+    color: rgb(37, 126, 228);
+}
+
+
+.row1,
+.row2 {
+    display: flex;
+    justify-content: center;
+}
+
+.circle {
+    border-radius: 100%;
+    padding: 20px;
+    display: inline-block;
+    width: 180px;
+    height: 180px;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.circle h2 {
+    display: block;
+    position: absolute;
+    width: 80%;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+}
+
+.interaction {
+    background-color: rgba(0, 174, 255, 0.418);
+}
+
+.interaction h2 {
+    left: 40%;
+}
+
+.visualization {
+    background-color: rgba(251, 255, 0, 0.418);
+    margin-left: -50px;
+}
+
+.visualization h2 {
+    left: 60%;
+}
+
+.application {
+    background-color: rgba(255, 0, 0, 0.418);
+    margin-top: -65px;
+}
+
+.application h2 {
+    top: 55%;
+}
+
+.circle ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    position: absolute;
+    max-width: 140px;
+    line-height: 1;
+}
+
+.visualization ul {
+    width: 160px;
+    max-width: 180px;
+}
+
+.circle ul h3 {
+    font-size: 11px;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+.exploration,
+.mobile {
+    left: -140px;
+}
+
+.exploration {
+    top: -10px;
+}
+
+.mobile {
+    top: 124px;
+}
+
+.evaluation,
+.taxonomy,
+.ml {
+    left: 220px;
+}
+
+.evaluation {
+    top: -10px;
+}
+
+.taxonomy {
+    top: 80px;
+}
+
+.ml {
+    top: 170px;
+}
+
+.biology {
+    bottom: 0;
+    left: -80px;
+}
+
+.healthcare {
+    bottom: 0px;
+    right: -60px;
+}
+
+.security {
+    bottom: 40px;
+    right: -85px;
+}
+
+.circle ul li a {
+    font-size: 11px;
+}
+
+.circle ul h3::before {
+    content: "";
+    position: absolute;
+    height: 1px;
+    background-color: rgba(0, 0, 0, 0.459);
+}
+
+.exploration h3::before {
+    width: 80px;
+    left: calc(100% - 30px);
+    transform: rotate(25deg);
+    top: 40px;
+}
+
+.mobile h3::before {
+    width: 50px;
+    left: calc(100% - 20px);
+    transform: rotate(-10deg);
+    top: 0px;
+}
+
+.evaluation h3::before {
+    width: 95px;
+    left: -100px;
+    transform: rotate(150deg);
+    top: 35px;
+}
+
+.taxonomy h3::before {
+    width: 40px;
+    left: -50px;
+    transform: rotate(-180deg);
+    top: 10px;
+}
+
+.ml h3::before {
+    width: 80px;
+    left: -85px;
+    transform: rotate(-145deg);
+    top: -20px;
+}
+
+.biology h3::before {
+    width: 130px;
+    left: calc(100% - 35px);
+    transform: rotate(-55deg);
+    top: -60px;
+}
+
+.healthcare h3::before {
+    width: 40px;
+    left: -45px;
+    transform: rotate(-135deg);
+    top: -10px;
+}
+
+.security h3::before {
+    width: 90px;
+    left: -85px;
+    transform: rotate(-135deg);
+    top: -45px;
+}
+
+@media screen and (max-width: 800px) {
+    .pub-diagram {
+        height: auto;
+        width: 100%;
+        padding: 20px 20px 20px 0;
+    }
+
+    .row1,
+    .row2 {
+        display: block;
+    }
+
+    .circle {
+        border-radius: 0;
+        padding: 0 0 40px;
+        display: block;
+        width: auto;
+        height: auto;
+        position: relative;
+    }
+
+    .circle h2 {
+        display: block;
+        position: static;
+        width: 100%;
+        top: auto;
+        left: auto;
+        text-align: left;
+        transform: none;
+        font-size: 20px;
+        margin: 0;
+        padding: 0 0 10px;
+    }
+
+    .interaction,
+    .visualization,
+    .application {
+        background-color: transparent;
+        margin: 0;
+    }
+
+    .interaction h2,
+    .visualization h2 {
+        left: 0%;
+    }
+
+    .hide-size {
+        display: none;
+    }
+
+    .circle ul {
+        position: static;
+        max-width: 100%;
+        padding: 0 0 10px 20px;
+    }
+
+    .visualization ul {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    .circle ul h3 {
+        font-size: 16px;
+    }
+
+    .circle ul li {
+        padding-bottom: 5px;
+    }
+
+    .circle ul li a {
+        font-size: 14px;
+    }
+
+    .circle ul h3::before {
+        display: none;
+    }
+}

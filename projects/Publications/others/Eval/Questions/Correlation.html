@@ -1,0 +1,544 @@
+
+<html>
+<head>
+
+</head>
+<body>
+	<div class='question instruction' id="1">
+		<h3> <font color="red">No, there is not a correlationTE:</font> To ensure best performance, we suggest you to run the study in full screen mode. Kindly DO No, there is not a correlationT refresh the page during the session. </h3>
+		During the training session, you will be asked to go through 5 questions. Please try to use the given charts to answer these questions as accurately as possible. Press <b>"Start Training Session"</b> when you are ready to start.<br /><br />
+		<input type="submit" value="Start Training Session" onclick="showNextQ()" /> <br />
+	</div>
+	<div class='question' id="2">
+		The following chart shows the average <b>Retail Price</b> for cars with different <b>Widths</b>. Is there a correlation between average Retail Price and Width? (For example, as Retail Price increases Width increases.) <br />
+		<input type="radio" name="answer" value="Correct" /> Positive correlation (as Retail Price increases Width also increases)<br />
+		<input type="radio" name="answer" value="Wrong" /> Negative correlation (as Retail Price increases Width decreases)<br />
+		<input type="radio" name="answer" value="Wrong" /> No correlation<br />
+		<p id="Answer"></p>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="3">
+		The following chart shows the average <b>Retail Price</b> for cars with different numbers of <b>Cylinders (e.g. 3 Cylinders and 4 Cylinders)</b>. Is there a correlation between average Retail Price and numbers of Cylinders ? (For example, as numbers of Cylinders increase Retail Price increases.)   <br />
+		<input type="radio" name="answer" value="Correct" /> Positive correlation (as numbers of Cylinders increase Retail Price increases.)<br />
+		<input type="radio" name="answer" value="Wrong" /> Negative correlation (as numbers of Cylinders increase Retail Price decreases)<br />
+		<input type="radio" name="answer" value="Wrong" /> No correlation<br />
+		<p id="Answer"></p>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div style="width:50%;  display: inline-block;" id='vis'> </div>
+		<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+	</div>
+
+	<div class='question' id="4">
+		The following chart shows the average <b>Retail Price</b> for cars with different <b>Widths</b>. Is there a correlation between average Retail Price and Width? (For example, as Width increases Retail Price increases.) <br />
+		<input type="radio" name="answer" value="Correct" /> Positive correlation (as Retail Price increases Width also increases)<br />
+		<input type="radio" name="answer" value="Wrong" /> Negative correlation (as Retail Price increases Width decreases)<br />
+		<input type="radio" name="answer" value="Wrong" /> No correlation<br />
+		<p id="Answer"></p>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="5">
+		The following chart shows the average <b>Highway Miles Per Gallon</b> for cars with different numbers of <b>Cylinders</b>. Is there a correlation between Highway Miles Per Gallon and numbers of Cylinders? (For example, as numbers of Cylinders increase Highway Miles Per Gallon increases.)   <br />
+		<input type="radio" name="answer" value="Wrong" /> Positive correlation<br />
+		<input type="radio" name="answer" value="Wrong" /> Negative correlation<br />
+		<input type="radio" name="answer" value="Correct" /> No correlation<br />
+		<p id="Answer"></p>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="6">
+		The following chart shows the average <b>Weight</b> for cars with different <b>Widths</b>. Is there a correlation between Weight and Width? (For example, as Weight increases Highway Miles Per Gallon increases.)<br />
+		<input type="radio" name="answer" value="Correct" /> Positive correlation<br />
+		<input type="radio" name="answer" value="Wrong" /> Negative correlation<br />
+		<input type="radio" name="answer" value="Wrong" /> No correlation<br />
+		<p id="Answer"></p>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question instruction' id="7">
+		<p>Thank You. You completed the Trial Session.</p>
+		No, there is not a correlationw is the time to start the main experiment. Similar to the trial session, in the main experiment you will be asked to complete about 20 questions. However, in the main experiment once a question is submitted it canNo, there is not a correlationt be changed or reviewed. You will No, there is not a correlationt receive any feedback to show the correctness of answers during this session. So, please answer the questions <b>as accurate as possible</b> and press "Submit" button only when you are sure about your answer. Press <b>"Start"</b> when you are ready to start the main experiment.<br /><br />
+		<input type="submit" value="Start" onclick="showNextQ()" /> <br />
+	</div>
+
+	<div class='question' id="8">
+		 The following chart shows the average <b>Horsepower</b> for cars with different numbers of <b>Cylinders</b>. Is there a correlation between Horsepower and numbers of Cylinders?<br />
+		 <input type="radio" name="answer" value="Correct" /> Positive correlation<br />
+		 <input type="radio" name="answer" value="Wrong" /> Negative correlation<br />
+		 <input type="radio" name="answer" value="Wrong" /> No correlation<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="9">
+		 The following chart shows the average <b>Weight</b> for cars with different numbers of <b>Cylinders</b>. Is there a correlation between Weight and numbers of Cylinders? <br />
+		 <input type="radio" name="answer" value="Correct" /> Positive correlation<br />
+		 <input type="radio" name="answer" value="Wrong" /> Negative correlation<br />
+		 <input type="radio" name="answer" value="Wrong" /> No correlation<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div style="width:50%;  display: inline-block;" id='vis'> </div>
+		<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+	</div>
+
+	<div class='question' id="10">
+		 The following chart shows the average <b>Dealer Cost</b> for cars with different <b>Wheel Bases</b>. Is there a correlation between Dealer Cost and Wheel Base? <br />
+		 <input type="radio" name="answer" value="Correct" /> Positive correlation<br />
+		 <input type="radio" name="answer" value="Wrong" /> Negative correlation<br />
+		 <input type="radio" name="answer" value="Wrong" /> No correlation<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+
+	<div class='question' id="11">
+		 The following chart shows the average <b>Horsepower</b> for cars with different <b>Widths</b>. Is there a correlation between Horsepower and Width? <br />
+		 <input type="radio" name="answer" value="Correct" /> Positive correlation<br />
+		 <input type="radio" name="answer" value="Wrong" /> Negative correlation<br />
+		 <input type="radio" name="answer" value="Wrong" /> No correlation<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="12">
+		 The following chart shows the average <b>Engine Size</b> for cars with different numbers of <b>Cylinders</b>.
+		Is there a correlation between Engine Size and numbers of Cylinders?<br />
+		<input type="radio" name="answer" value="Correct" /> Positive correlation<br />
+		<input type="radio" name="answer" value="Wrong" /> Negative correlation<br />
+		<input type="radio" name="answer" value="Wrong" /> No correlation<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="13">
+		 The following chart shows the average <b>Engine Size</b> for cars with different numbers of <b>Cylinders</b>. Please select True. <br />
+		<input type="radio" name="answer" value="Wrong" /> False<br />
+		<input type="radio" name="answer" value="Correct" /> True<br/><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="14">
+		 The following chart shows the average <b>Dealer Cost</b> for cars with different <b>Wheel Base</b>. Is there a correlation between Dealer Cost and Wheel Base? <br />
+		 <input type="radio" name="answer" value="Wrong" /> Positive correlation<br />
+		 <input type="radio" name="answer" value="Wrong" /> Negative correlation<br />
+		 <input type="radio" name="answer" value="Wrong" /> No correlation<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="15">
+		 The following chart shows the average <b>Dealer Cost</b> for cars with different numbers of <b>Cylinders</b>. Is there a correlation between Dealer Cost and numbers of Cylinders<br />
+		 <input type="radio" name="answer" value="Correct" /> Positive correlation<br />
+		 <input type="radio" name="answer" value="Wrong" /> Negative correlation<br />
+		 <input type="radio" name="answer" value="Wrong" /> No correlation<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="16">
+		 The following chart shows the average <b>Engine Size</b> for cars with different numbers of <b>Cylinders</b>. Is there a correlation between Engine Size and numbers of Cylinders?<br />
+		 <input type="radio" name="answer" value="Correct" /> Positive correlation<br />
+		 <input type="radio" name="answer" value="Wrong" /> Negative correlation<br />
+		 <input type="radio" name="answer" value="Wrong" /> No correlation<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+
+	<div class='question' id="17">
+		 The following chart shows the average <b>Engine Size</b> for cars with different <b>Highway Miles Per Gallon</b>. Is there a correlation between Engine Size and Highway Miles Per Gallon ?<br />
+		 <input type="radio" name="answer" value="Wrong" /> Positive correlation<br />
+		 <input type="radio" name="answer" value="Correct" /> Negative correlation<br />
+		 <input type="radio" name="answer" value="Wrong" /> No correlation<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="18">
+		 The following chart shows the average <b>Dealer Cost</b> for cars with different <b>Widths</b>. Is there a correlation between Dealer Cost and Width ?<br />
+		 <input type="radio" name="answer" value="Correct" /> Positive correlation<br />
+		 <input type="radio" name="answer" value="Wrong" /> Negative correlation<br />
+		 <input type="radio" name="answer" value="Wrong" /> No correlation<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div style="width:50%;  display: inline-block;" id='vis'> </div>
+		<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+	</div>
+
+	<div class='question' id="19">
+			The following chart shows the average <b>Length</b> for movies with different <b>Ratings</b>. Is there a correlation between Rating value and Length?<br />
+			<input type="radio" name="answer" value="Correct" /> Positive correlation<br />
+			<input type="radio" name="answer" value="Wrong" /> Negative correlation<br />
+			<input type="radio" name="answer" value="Wrong" /> No correlation<br /><br/>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div id='vis'> </div>
+		</div>
+
+		<div class='question' id="20">
+			The following chart shows the average <b>Budget</b> for movies with different <b>Ratings</b>. Is there a correlation between average Budget and movie Rating? <br />
+			<input type="radio" name="answer" value="Correct" /> Positive correlation<br />
+			<input type="radio" name="answer" value="Wrong" /> Negative correlation<br />
+			<input type="radio" name="answer" value="Wrong" /> No correlation<br /><br/>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div style="width:50%;  display: inline-block;" id='vis'> </div>
+			<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+		</div>
+
+		<div class='question' id="21">
+			The following chart shows the average <b>Profit($M)</b> for movies with different <b> Budgets</b>. Is there a correlation between average Profit value and movie Budget?<br />
+			<input type="radio" name="answer" value="Wrong" /> Positive correlation<br />
+			<input type="radio" name="answer" value="Wrong" /> Negative correlation<br />
+			<input type="radio" name="answer" value="Correct" /> No correlation<br /><br/>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div id='vis'> </div>
+		</div>
+
+
+		<div class='question' id="22">
+			The following chart shows the average <b>Gross($M)</b> for movies with different <b>Lengths</b>. Is there a correlation between average Gross value and Length?<br />
+			<input type="radio" name="answer" value="Correct" /> Positive correlation<br />
+			<input type="radio" name="answer" value="Wrong" /> Negative correlation<br />
+			<input type="radio" name="answer" value="Wrong" /> No correlation<br /></br>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div id='vis'> </div>
+		</div>
+
+		<div class='question' id="23">
+			The following chart shows the average <b>Gross($M)</b> for movies with different <b>Ratings</b>. Is there a correlation between average Gross value and movie Rating?<br />
+			<input type="radio" name="answer" value="Correct" /> Positive correlation<br />
+			<input type="radio" name="answer" value="Wrong" /> Negative correlation<br />
+			<input type="radio" name="answer" value="Wrong" /> No correlation<br /><br/>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div id='vis'> </div>
+		</div>
+
+		<div class='question' id="24">
+			The following chart shows the average <b>Budget</b> for movies with different <b>Lengths</b>. Is there a correlation between average Budget value and Length?<br />
+			<input type="radio" name="answer" value="Wrong" /> Positive correlation<br />
+			<input type="radio" name="answer" value="Wrong" /> Negative correlation<br />
+			<input type="radio" name="answer" value="Correct" /> No correlation<br /></br>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div id='vis'> </div>
+		</div>
+
+		<div class='question' id="25">
+			The following chart shows the average <b>Profit($M)</b> for movies with different <b>Ratings</b>. Is there a correlation between average Profit value and movie Rating?<br />
+			<input type="radio" name="answer" value="Correct" /> Positive correlation<br />
+			<input type="radio" name="answer" value="Wrong" /> Negative correlation<br />
+			<input type="radio" name="answer" value="Wrong" /> No correlation<br /><br/>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div id='vis'> </div>
+		</div>
+
+		<div class='question' id="26">
+			The following chart shows the average <b>Gross($M)</b> for movies with different <b>Ratings</b>. Is there a correlation between average Gross value and movie Rating?<br />
+			<input type="radio" name="answer" value="Correct" /> Positive correlation<br />
+			<input type="radio" name="answer" value="Wrong" /> Negative correlation<br />
+			<input type="radio" name="answer" value="Wrong" /> No correlation<br /><br/>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div id='vis'> </div>
+		</div>
+
+
+		<div class='question' id="27">
+		 The following chart shows the average <b>Rating</b> for movies with different <b>Lengths</b>. Is there a correlation between average Rating value and Length?<br />
+		  <input type="radio" name="answer" value="Correct" /> Positive correlation<br />
+		  <input type="radio" name="answer" value="Wrong" /> Negative correlation<br />
+		  <input type="radio" name="answer" value="Wrong" /> No correlation<br /><br/>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div id='vis'> </div>
+		</div>
+
+		<div class='question' id="28">
+			The following chart shows the average <b>Budget</b> for movies with different <b>Lengths</b>. Is there a correlation between average Budget value and Length?<br />
+			<input type="radio" name="answer" value="Wrong" /> Positive correlation<br />
+			<input type="radio" name="answer" value="Wrong" /> Negative correlation<br />
+			<input type="radio" name="answer" value="Correct" /> No correlation<br /><br/>
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+			<div style="width:50%;  display: inline-block;" id='vis'> </div>
+			<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+		</div>
+
+
+	<div class='question ranking' id="29">
+		 All of the following charts show the average length for different types of Cylinders. Suppose you are asked to check whether there is a correlation between numbers of Cylinders and Length. Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br /><br />
+		<div style="margin-bottom: 10px; height:400;">
+			<div style="float: right; width:50%; display: inline-block;" id="vis1">
+				<p > Bar Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+			<div style="width:50%;  display: inline-block;" id="vis2">
+				<p> Pie Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+
+		<div style="margin-bottom: 10px; height:400;">
+			<div style="float: right; width:50%; display: inline-block;" id="vis3">
+				<p> Scatterplot</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+			<div style="width:50%; display: inline-block;" id="vis4">
+				<p > Line Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+
+		<div style="margin-bottom: 10px;">
+			<div style="width:50%; display: inline-block;" id="vis5">
+				<p> Table</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+	</div>
+
+	<div class='question ranking' id="30">
+		 All of the following charts show the average Retail Price for cars with different Widths. Suppose you are asked to check whether there is a correlation between Retail Price and Width. Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+		<input type="submit" value="Submit" onclick="showNextQ(); " /> <br /><br />
+		<div style="margin-bottom: 10px; height:400;">
+			<div style="float: right; width:50%; display: inline-block;" id="vis1">
+				<p > Pie Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+			<div style="width:50%;  display: inline-block;" id="vis2">
+				<p> Scatterplot</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+
+		<div style="margin-bottom: 10px; height:400;">
+			<div style="float: right; width:50%; display: inline-block;" id="vis3">
+				<p> Bar Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+			<div style="width:50%; display: inline-block;" id="vis4">
+				<p > Line Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+
+		<div style="margin-bottom: 10px;">
+			<div style="width:50%; display: inline-block;" id="vis5">
+				<p> Table</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+	</div>
+
+	<div class='question ranking' id="31">
+			 All of the following charts show the average Length for movies with different Ratings.
+			 Suppose you are asked to check whether there is a correlation between Rating and Length. Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br /><br />
+			<div style="margin-bottom: 10px; height:400;">
+				<div style="float: right; width:50%; display: inline-block;" id="vis1">
+					<p > Bar Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+				<div style="width:50%;  display: inline-block;" id="vis2">
+					<p> Pie Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+
+			<div style="margin-bottom: 10px; height:400;">
+				<div style="float: right; width:50%; display: inline-block;" id="vis3">
+					<p> Scatterplot</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+				<div style="width:50%; display: inline-block;" id="vis4">
+					<p > Line Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+
+			<div style="margin-bottom: 10px;">
+				<div style="width:50%; display: inline-block;" id="vis5">
+					<p> Table</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+		</div>
+
+		<div class='question ranking' id="32">
+			 All of the following charts show the average Gross for movies with different Lengths.
+			 Suppose you are asked to check whether there is a correlation between Gross value and Length. Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+			<input type="submit" value="Submit" onclick="showNextQ(); " /> <br /><br />
+			<div style="margin-bottom: 10px; height:400;">
+				<div style="float: right; width:50%; display: inline-block;" id="vis1">
+					<p > Pie Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+				<div style="width:50%;  display: inline-block;" id="vis2">
+					<p> Scatterplot</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+
+			<div style="margin-bottom: 10px; height:400;">
+				<div style="float: right; width:50%; display: inline-block;" id="vis3">
+					<p> Bar Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+				<div style="width:50%; display: inline-block;" id="vis4">
+					<p > Line Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+
+			<div style="margin-bottom: 10px;">
+				<div style="width:50%; display: inline-block;" id="vis5">
+					<p> Table</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+		</div>
+
+
+
+	<div class="question comment" id="33">
+      <span>Please enter the criteria you used for ranking the charts along with any other additional comments you have
+      about the experiment in general.</span><br/><br/>
+      <textarea id="comment" style="width:40%; height:20%;"> </textarea> <br/><br/>
+      <input type="submit" value="Submit" onclick="showNextQ(); saveAnswers();" /> <br /><br />
+  </div>
+
+	<div class="question end" id="34">
+		<h3>End of the study </h3> <br />
+		<p>
+			Thank you for participating.
+		</p>
+		<p>
+			Here is your Survey Code:
+			<button id='sur_btn' onclick="getSurCode()">Get the code</button>
+			<strong id='sur_code'></strong>
+		</p>
+  </div>
+
+
+</body>
+</html>

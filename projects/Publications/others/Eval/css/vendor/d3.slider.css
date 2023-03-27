@@ -1,0 +1,84 @@
+.d3slider {
+  z-index: 2;
+  height: 100%;
+  background: none;
+}
+
+.d3slider-rect-range {
+  fill: #777;
+  stroke: none;
+}
+
+.d3slider-rect-value {
+  fill: #006EE3;
+  stroke: none;
+}
+
+.d3slider-axis {
+  position: relative;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.d3slider-axis path {
+  display: none;
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.d3slider-axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.d3slider text {
+  font: 10px sans-serif;
+}
+
+.tick.minor text {
+  display: none;
+}
+
+.tick line {
+  stroke-width: 1;
+}
+.tick.minor line {
+  stroke-width: 1;
+  stroke: #bbb;
+}
+
+.dragger rect {
+  fill: #71ACE3;
+  stroke: none;
+  z-index: 3;
+}
+
+.dragger line {
+  stroke: #aa0000;
+  fill: none;
+}
+
+.dragger-outer {
+  fill: #fff;
+  stroke: #000;
+}
+
+.dragger-inner {
+  fill: #B30424;
+  stroke: none;
+}
+
+.min-marker line {
+  stroke: #aa0000;
+  fill: none;
+}
+
+.overlay {
+  fill: none;
+  pointer-events: all;
+  z-index: 1;
+}
+
+

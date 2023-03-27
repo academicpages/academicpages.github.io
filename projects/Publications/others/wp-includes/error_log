@@ -1,0 +1,8 @@
+[31-Dec-2016 09:11:35 America/Montreal] PHP Notice:  Use of undefined constant ABSPATH - assumed 'ABSPATH' in /home/farshid/public_html/bahadorsaket.com/wp-includes/functions.php on line 8
+[31-Dec-2016 09:11:35 America/Montreal] PHP Notice:  Use of undefined constant WPINC - assumed 'WPINC' in /home/farshid/public_html/bahadorsaket.com/wp-includes/functions.php on line 8
+[31-Dec-2016 09:11:35 America/Montreal] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/farshid/public_html/bahadorsaket.com/wp-includes/functions.php on line 8
+[31-Dec-2016 09:11:35 America/Montreal] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/farshid/public_html/bahadorsaket.com/wp-includes/functions.php on line 8
+[17-Jan-2017 21:20:12 America/Montreal] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/farshid/public_html/bahadorsaket.com/wp-includes/registration-functions.php on line 7
+[17-Jan-2017 21:20:12 America/Montreal] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/farshid/public_html/bahadorsaket.com/wp-includes/registration-functions.php on line 7
+[20-Mar-2017 23:31:17 America/Montreal] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/farshid/public_html/bahadorsaket.com/wp-includes/registration-functions.php on line 7
+[21-Oct-2017 22:10:58 America/Montreal] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/farshid/public_html/bahadorsaket.com/wp-includes/registration-functions.php on line 7

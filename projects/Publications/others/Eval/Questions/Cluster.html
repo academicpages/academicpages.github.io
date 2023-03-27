@@ -1,0 +1,808 @@
+s
+<html>
+<head>
+
+</head>
+<body>
+
+	<div class='question instruction' id="1">
+		<h3> <font color="red">NOTE:</font> To ensure best performance, we suggest you to run the study in full screen mode. Kindly DO NOT refresh the page during the session. </h3>
+		During the training session, you will be asked to go through 5 questions. Please try to use the given charts to answer these questions as accurately as possible. Press <b>"Start Training Session"</b> when you are ready to start.<br /><br />
+		<input type="submit" value="Start Training Session" onclick="showNextQ()" /> <br />
+	</div>
+
+	<div class='question' id="2">
+		The following chart shows the average <b>Highway Miles Per Gallon</b> for different <b>types of cars (e.g. Sedan, and SUV)</b>. How many different types of cars are shown in the chart below?<br />
+		<input type="radio" name="answer" value="Wrong" /> 4<br />
+		<input type="radio" name="answer" value="Correct" /> 5<br />
+		<input type="radio" name="answer" value="Wrong" /> 6<br />
+		<input type="radio" name="answer" value="Wrong" /> 8<br />
+		<p id="Answer"></p>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="3">
+		The following chart shows the average <b>Retail Price</b> for cars with different numbers of <b>Cylinders (e.g. 3 and 4)</b>. How many different numbers of cylinders are shown in the chart below? <br />
+		<input type="radio" name="answer" value="Wrong" /> 6<br />
+		<input type="radio" name="answer" value="Wrong" /> 7<br />
+		<input type="radio" name="answer" value="Correct" /> 8 <br />
+			<input type="radio" name="answer" value="Wrong" /> 2<br />
+		<p id="Answer"></p>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div style="width:50%;  display: inline-block;" id='vis'> </div>
+		<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+	</div>
+
+	<div class='question' id="4">
+		The following chart shows the average <b>Highway Miles Per Gallon</b> for cars with different numbers of <b>Cylinders (e.g. 3 and 4)</b>. How many different numbers of cylinders are shown in the chart below?  <br />
+		<input type="radio" name="answer" value="Correct" /> 8<br />
+		<input type="radio" name="answer" value="Wrong" /> 6<br />
+		<input type="radio" name="answer" value="Wrong" /> 7 <br />
+			<input type="radio" name="answer" value="Wrong" /> 4<br />
+		<p id="Answer"></p>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="5">
+		The following chart shows the average <b>Weight</b> for cars with different <b>Widths (e.g. 60 and 70)</b>. How many different Widths are shown in the chart below? <br />
+		<input type="radio" name="answer" value="Wrong" /> 10<br />
+		<input type="radio" name="answer" value="Wrong" /> 13<br />
+		<input type="radio" name="answer" value="Correct" /> 15<br />
+		<input type="radio" name="answer" value="Wrong" /> 6<br />
+		<p id="Answer"></p>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+
+	<div class='question' id="6">
+		The following chart shows the average <b>Highway Miles Per Gallon</b> for different <b>types of cars (e.g. Sedan and SUV)</b>. How many different types of cars are shown in the table below?<br />
+		<input type="radio" name="answer" value="Correct" /> 5<br />
+		<input type="radio" name="answer" value="Wrong" /> 6<br />
+		<input type="radio" name="answer" value="Wrong" /> 8<br />
+		<input type="radio" name="answer" value="Wrong" /> 7<br />
+		<p id="Answer"></p>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+
+	</div>
+
+	<div class='question instruction' id="7">
+		<p>Thank You. You completed the Trial Session.</p>
+		Now is the time to start the main experiment. Similar to the trial session, in the main experiment you will be asked to complete about 20 questions. However, in the main experiment once a question is submitted it cannot be changed or reviewed. You will not receive any feedback to show the correctness of answers during this session. So, please answer the questions <b>as accurate as possible</b> and press "Submit" button only when you are sure about your answer. Press <b>"Start"</b> when you are ready to start the main experiment.<br /><br />
+		<input type="submit" value="Start" onclick="showNextQ()" /> <br />
+	</div>
+
+	<div class='question' id="8">
+		 The following chart shows the average <b>Horsepower (HP)</b> for cars with different numbers of <b>Cylinders (e.g. 3 and 4)</b>. How many different numbers of cylinders are shown in the chart below?
+		<br />
+		<input type="radio" name="answer" value="Wrong" /> 7 <br />
+			<input type="radio" name="answer" value="Wrong" /> 6<br />
+		<input type="radio" name="answer" value="Correct" /> 8<br />
+		<input type="radio" name="answer" value="Wrong" /> 9 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="9">
+		 The following chart shows the average <b>Weight</b> for cars with different numbers of <b>Cylinders (e.g. 3 and 4)</b>. How many different numbers of cylinders are shown in the chart below?
+		<br />
+		<input type="radio" name="answer" value="Wrong" /> 7 <br />
+		<input type="radio" name="answer" value="Wrong" /> 6<br />
+		<input type="radio" name="answer" value="Wrong" /> 10<br />
+		<input type="radio" name="answer" value="Correct" /> 8 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div style="width:50%;  display: inline-block;" id='vis'> </div>
+		<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+	</div>
+
+	<div class='question' id="10">
+		 The following chart shows the average <b>City Miles Per Gallon</b> for different <b>types of cars (e.g. Sedan and SUV)</b>. How many different types of cars are shown in the chart below?<br />
+		<input type="radio" name="answer" value="Correct" /> 5<br />
+		<input type="radio" name="answer" value="Wrong" /> 6<br />
+		<input type="radio" name="answer" value="Wrong" /> 8<br />
+		<input type="radio" name="answer" value="Wrong" /> 12<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="11">
+		 The following chart shows the average <b>Dealer Cost</b> for cars with different sizes of <b>Wheel Bases (e.g. 60 and 70)</b>. How many different Wheel Bases are shown in the chart below?<br />
+		<input type="radio" name="answer" value="Wrong" /> 21 <br />
+		<input type="radio" name="answer" value="Correct" /> 19<br />
+		<input type="radio" name="answer" value="Wrong" /> 8<br />
+		<input type="radio" name="answer" value="Wrong" /> 23<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="12">
+		 The following chart shows the average <b>Horsepower (HP)</b> for cars with different values of <b>Widths</b>. How many different Widths are shown in the chart below? <br />
+		<input type="radio" name="answer" value="Wrong" /> 19 <br />
+		<input type="radio" name="answer" value="Wrong" /> 20<br />
+		<input type="radio" name="answer" value="Wrong" /> 12<br />
+		<input type="radio" name="answer" value="Correct" /> 32<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="13">
+		 The following chart shows the average <b>Engine Size</b> for cars with different numbers of <b>Cylinders (e.g. 3 and 4)</b>. Please select True. <br />
+		<input type="radio" name="answer" value="Wrong" /> False<br />
+		<input type="radio" name="answer" value="Correct" /> True<br/><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="14">
+		 The following chart shows the average <b>Engine Size</b> for cars with different numbers of <b>Cylinders (e.g. 3 and 4)</b>. How many different numbers of cylinders are shown in the chart below? <br />
+		<input type="radio" name="answer" value="Wrong" /> 7 <br />
+		<input type="radio" name="answer" value="Wrong" /> 10<br />
+		<input type="radio" name="answer" value="Wrong" /> 6<br />
+		<input type="radio" name="answer" value="Correct" /> 8 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="15">
+		 The following chart shows the average <b>City Miles Per Gallon</b> for different <b>types of cars (e.g. Sedan and SUV)</b>. How many different type of cars are shown in the chart below?<br />
+		<input type="radio" name="answer" value="Correct" /> 5<br />
+		<input type="radio" name="answer" value="Wrong" /> 6<br />
+	  <input type="radio" name="answer" value="Wrong" /> 2<br />
+		<input type="radio" name="answer" value="Wrong" /> 8<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div style="width:50%;  display: inline-block;" id='vis'> </div>
+		<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+	</div>
+
+	<div class='question' id="16">
+		 The following chart shows the average <b>City Miles Per Gallon</b> for different <b>types of cars (e.g. Sedan and SUV)</b>. How many different type of cars are shown in the chart below? <br />
+		<input type="radio" name="answer" value="Wrong" /> 6<br />
+		<input type="radio" name="answer" value="Wrong" /> 9<br />
+		<input type="radio" name="answer" value="Correct" /> 5<br />
+		<input type="radio" name="answer" value="Wrong" /> 8<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="17">
+		 The following chart shows the average <b>Dealer Cost</b> for cars with different sizes of <b>Wheel Bases (e.g. 60 and 70)</b>. How many different sizes of Wheel Base are shown in the chart below?<br />
+		<input type="radio" name="answer" value="Wrong" /> 33 <br />
+		<input type="radio" name="answer" value="Correct" /> 34<br />
+		<input type="radio" name="answer" value="Wrong" /> 21<br />
+		<input type="radio" name="answer" value="Wrong" /> 35<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="18">
+		 The following chart shows the average <b>Dealer Cost</b> for cars with different numbers of <b>Cylinders (e.g. 3 and 4)</b>. How many different numbers of cylinders are shown in the chart below?<br />
+		<input type="radio" name="answer" value="Wrong" /> 7 <br />
+		<input type="radio" name="answer" value="Correct" /> 8<br />
+		<input type="radio" name="answer" value="Wrong" /> 6<br />
+		<input type="radio" name="answer" value="Wrong" /> 10 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="19">
+		 The following chart shows the average <b>Engine Size</b> for cars with different numbers of <b>Cylinders (e.g. 3 and 4)</b>. How many different numbers of cylinders are shown in the chart below? <br />
+		<input type="radio" name="answer" value="Wrong" /> 7 <br />
+		<input type="radio" name="answer" value="Wrong" /> 6<br />
+		<input type="radio" name="answer" value="Wrong" /> 10<br />
+		<input type="radio" name="answer" value="Correct" /> 8 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="20">
+		 The following chart shows the average <b>Engine Size</b> for cars with different values of <b>Highway Miles Per Gallon (e.g. 39 and 40)</b>. How many different values of Highway Miles Per Gallon are shown in the chart below?<br />
+		<input type="radio" name="answer" value="Wrong" /> 34<br />
+		<input type="radio" name="answer" value="Wrong" /> 31<br />
+		<input type="radio" name="answer" value="Correct" /> 33<br />
+		<input type="radio" name="answer" value="Wrong" /> 32<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="21">
+		 The following chart shows the average <b>Horsepower (HP)</b> for cars with different <b>Widths</b>. How many different Widths are shown in the chart below?<br />
+		<input type="radio" name="answer" value="Wrong" /> 8<br />
+		<input type="radio" name="answer" value="Correct" /> 19<br />
+		<input type="radio" name="answer" value="Wrong" /> 12<br />
+		<input type="radio" name="answer" value="Wrong" /> 16<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div style="width:50%;  display: inline-block;" id='vis'> </div>
+		<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+	</div>
+
+	<div class='question' id="22">
+		 The following chart shows the average <b>City Miles Per Gallon</b> for different <b>types of cars (e.g. Sedan and SUV)</b>. How many different type of cars are shown in the chart below?<br />
+		<input type="radio" name="answer" value="Wrong" /> 6<br />
+		<input type="radio" name="answer" value="Correct" /> 5<br />
+		<input type="radio" name="answer" value="Wrong" /> 8<br />
+		<input type="radio" name="answer" value="Wrong" /> 8<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="23">
+		 The following chart shows the average <b>City Miles Per Gallon</b> for different <b>types of cars (e.g. Sedan and SUV)</b>. How many different type of cars are shown in the chart below?<br />
+		<input type="radio" name="answer" value="Wrong" /> 6<br />
+		<input type="radio" name="answer" value="Correct" /> 5<br />
+		<input type="radio" name="answer" value="Wrong" /> 9<br />
+		<input type="radio" name="answer" value="Wrong" /> 8<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="24">
+		 The following chart shows the average <b>Horsepower (HP)</b> for cars with different <b>Widths (e.g. 66 and 73)</b>. Please select False. <br />
+		<input type="radio" name="answer" value="Correct" /> False<br />
+		<input type="radio" name="answer" value="Wrong" /> True<br/><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+
+
+
+	<div class='question' id="25">
+		 The following chart shows the average <b>Budget</b> for movies with different <b> Ratings</b>. How many different numbers of Ratings are shown in the chart below? <br />
+		<input type="radio" name="answer" value="Wrong" /> 11 <br />
+			<input type="radio" name="answer" value="Wrong" /> 8<br />
+		<input type="radio" name="answer" value="Correct" /> 6<br />
+		<input type="radio" name="answer" value="Wrong" /> 9 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="26">
+		 The following chart shows the average <b>Gross($M)</b> for movies with different <b> Ratings</b>. How many different numbers of Ratings are shown in the chart below? <br />
+		<input type="radio" name="answer" value="Wrong" /> 7 <br />
+		<input type="radio" name="answer" value="Wrong" /> 8<br />
+		<input type="radio" name="answer" value="Wrong" /> 10<br />
+		<input type="radio" name="answer" value="Correct" /> 6 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div style="width:50%;  display: inline-block;" id='vis'> </div>
+		<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+	</div>
+
+	<div class='question' id="27">
+		 The following chart shows the average <b>Gross($M)</b> for different <b>Genres of Movies</b>. How many different Genres are shown in the chart below?<br />
+		<input type="radio" name="answer" value="Correct" /> 14<br />
+		<input type="radio" name="answer" value="Wrong" /> 11<br />
+		<input type="radio" name="answer" value="Wrong" /> 15<br />
+		<input type="radio" name="answer" value="Wrong" /> 9<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="28">
+			The following chart shows the average <b>Budget</b> for movies with different <b> Lengths</b>. How many different Lengths are shown in the chart below? <br />
+		<input type="radio" name="answer" value="Wrong" /> 21 <br />
+		<input type="radio" name="answer" value="Correct" /> 22<br />
+		<input type="radio" name="answer" value="Wrong" /> 11<br />
+		<input type="radio" name="answer" value="Wrong" /> 8<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="29">
+		 The following chart shows the average <b>Horsepower (HP)</b> for cars with different values of <b>Widths</b>. How many different Widths are shown in the chart below? <br />
+		<input type="radio" name="answer" value="Wrong" /> 19 <br />
+		<input type="radio" name="answer" value="Wrong" /> 20<br />
+		<input type="radio" name="answer" value="Wrong" /> 12<br />
+		<input type="radio" name="answer" value="Correct" /> 32<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="30">
+		The following chart shows the average <b>Budget</b> for movies with different <b> Ratings</b>. How many different numbers of Ratings are shown in the chart below? <br />
+		<input type="radio" name="answer" value="Wrong" /> 7 <br />
+		<input type="radio" name="answer" value="Wrong" /> 11<br />
+		<input type="radio" name="answer" value="Wrong" /> 8<br />
+		<input type="radio" name="answer" value="Correct" /> 6 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="31">
+		The following chart shows the average <b>Budget</b> for different <b>Genres of movies</b>. How many different Genres are shown in the chart below? <br />
+		<input type="radio" name="answer" value="Correct" /> 14 <br />
+		<input type="radio" name="answer" value="Wrong" /> 13<br />
+	  <input type="radio" name="answer" value="Wrong" /> 10<br />
+		<input type="radio" name="answer" value="Wrong" /> 8<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div style="width:50%;  display: inline-block;" id='vis'> </div>
+		<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+	</div>
+
+	<div class='question' id="32">
+ The following chart shows the average <b>Length</b> for different <b>Genres of Movies</b>. How many different Genres are shown in the chart below?<br />
+		<input type="radio" name="answer" value="Wrong" /> 13<br />
+		<input type="radio" name="answer" value="Wrong" /> 18<br />
+		<input type="radio" name="answer" value="Correct" /> None<br />
+		<input type="radio" name="answer" value="Wrong" /> 19<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="33">
+		The following chart shows the average <b>Rating</b> for movies with different <b> Lengths</b>. How many different Lengths are shown in the chart below? <br />
+		<input type="radio" name="answer" value="Wrong" /> 20 <br />
+		<input type="radio" name="answer" value="Correct" /> 22<br />
+		<input type="radio" name="answer" value="Wrong" /> 25<br />
+		<input type="radio" name="answer" value="Wrong" /> 29<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="34">
+		The following chart shows the average <b>Profit($M)</b> for movies with different <b> Ratings</b>. How many different numbers of Ratings are shown in the chart below? <br />
+		<input type="radio" name="answer" value="Wrong" /> 7 <br />
+		<input type="radio" name="answer" value="Wrong" /> 8<br />
+		<input type="radio" name="answer" value="Correct" /> 6<br />
+		<input type="radio" name="answer" value="Wrong" /> 10 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="35">
+		The following chart shows the average <b>Gross($M)</b> for movies with different <b> Ratings</b>. How many different numbers of Ratings are shown in the chart below? <br />
+		<input type="radio" name="answer" value="Wrong" /> 7 <br />
+		<input type="radio" name="answer" value="Correct" /> 6<br />
+		<input type="radio" name="answer" value="Wrong" /> 10<br />
+		<input type="radio" name="answer" value="Wrong" /> 8 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="36">
+			The following chart shows the average <b>Budget</b> for movies with different <b>Lengths</b>. How many different Lengths are shown in the chart below? <br />
+		<input type="radio" name="answer" value="Wrong" /> 25<br />
+		<input type="radio" name="answer" value="Wrong" /> 23<br />
+		<input type="radio" name="answer" value="Correct" /> 22<br />
+		<input type="radio" name="answer" value="Wrong" /> 20<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="37">
+		 	The following chart shows the average <b>Budget</b> for movies with different <b>Lengths</b>. How many different Lengths are shown in the chart below? <br />
+		<input type="radio" name="answer" value="Wrong" /> 20<br />
+		<input type="radio" name="answer" value="Correct" /> 22<br />
+		<input type="radio" name="answer" value="Wrong" /> 18<br />
+		<input type="radio" name="answer" value="Wrong" /> 19<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div style="width:50%;  display: inline-block;" id='vis'> </div>
+		<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+	</div>
+
+	<div class='question' id="38">
+		 The following chart shows the average <b>Gross($M)</b> for movies with different <b> Genres</b>. How many different Genres are shown in the chart below? <br />
+		<input type="radio" name="answer" value="Wrong" /> 12<br />
+		<input type="radio" name="answer" value="Correct" /> 14<br />
+		<input type="radio" name="answer" value="Wrong" /> 20<br />
+		<input type="radio" name="answer" value="Wrong" /> 10<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="39">
+			The following chart shows the average <b>Budget</b> for different <b>Genres of movies</b>. How many different Genres are shown in the chart below? <br />
+		<input type="radio" name="answer" value="Wrong" /> 12<br />
+		<input type="radio" name="answer" value="Correct" /> 14<br />
+		<input type="radio" name="answer" value="Wrong" /> 11<br />
+		<input type="radio" name="answer" value="Wrong" /> 17<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question ranking' id="40">
+		 All of the following charts show the average Highway Miles Per Gallon for different types of cars (e.g. Sedan and SUV). Suppose you are asked to find how many different types of cars are in the dataset. Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br /><br />
+
+		<div style="margin-bottom: 10px; height:400;">
+			<div style="float: right; width:50%; display: inline-block;" id="vis1">
+				<p > Bar Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+			<div style="width:50%;  display: inline-block;" id="vis2">
+				<p> Pie Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+		<div style="margin-bottom: 10px; height:400;">
+			<div style="float: right; width:50%; display: inline-block;" id="vis3">
+				<p> Scatterplot</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+			<div style="width:50%; display: inline-block;" id="vis4">
+				<p > Line Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+
+		<div style="margin-bottom: 10px;">
+			<div style="width:50%; display: inline-block;" id="vis5">
+				<p> Table</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+	</div>
+
+	<div class='question ranking' id="41">
+		 All of the following charts show the average length for different types of Cylinders (e.g. 3, 4). Suppose you are asked to find how many different numbers of Cylinders are in the dataset. Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br /><br />
+		<div style="margin-bottom: 10px; height:400;">
+			<div style="float: right; width:50%; display: inline-block;" id="vis1">
+				<p > Pie Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+			<div style="width:50%;  display: inline-block;" id="vis2">
+				<p> Scatterplot</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+
+		<div style="margin-bottom: 10px; height:400;">
+			<div style="float: right; width:50%; display: inline-block;" id="vis3">
+				<p> Bar Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+			<div style="width:50%; display: inline-block;" id="vis4">
+				<p > Line Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+
+		<div style="margin-bottom: 10px;">
+			<div style="width:50%; display: inline-block;" id="vis5">
+				<p> Table</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+	</div>
+
+	<div class='question ranking' id="42">
+		 All of the following charts show the average Dealer cost for cars with different width sizes (e.g. 10, 20). Suppose you are asked to find how many different Widths are in the dataset. Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+		<input type="submit" value="Submit" onclick="showNextQ();" /> <br /><br />
+		<div style="margin-bottom: 10px; height:400;">
+			<div style="float: right; width:50%; display: inline-block;" id="vis1">
+				<p > Pie Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+			<div style="width:50%;  display: inline-block;" id="vis2">
+				<p> Scatterplot</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+
+		<div style="margin-bottom: 10px; height:400;">
+			<div style="float: right; width:50%; display: inline-block;" id="vis3">
+				<p> Bar Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+			<div style="width:50%; display: inline-block;" id="vis4">
+				<p > Line Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+
+		<div style="margin-bottom: 10px;">
+			<div style="width:50%; display: inline-block;" id="vis5">
+				<p> Table</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+	</div>
+
+	<div class='question ranking' id="43">
+			 All of the following charts show the average Profit($M) for movies with different Ratings. Suppose you are asked to find how many
+			 different Ratings are in the dataset. Rank the charts below in the order of your preference for performing this task.
+			 <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br /><br />
+
+			<div style="margin-bottom: 10px; height:400;">
+				<div style="float: right; width:50%; display: inline-block;" id="vis1">
+					<p > Bar Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+				<div style="width:50%;  display: inline-block;" id="vis2">
+					<p> Pie Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+			<div style="margin-bottom: 10px; height:400;">
+				<div style="float: right; width:50%; display: inline-block;" id="vis3">
+					<p> Scatterplot</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+				<div style="width:50%; display: inline-block;" id="vis4">
+					<p > Line Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+
+			<div style="margin-bottom: 10px;">
+				<div style="width:50%; display: inline-block;" id="vis5">
+					<p> Table</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+		</div>
+
+		<div class='question ranking' id="44">
+			 All of the following charts show the average Gross($M) for different Genres of movies.
+			 Suppose you are asked to find how many different Genres are in the dataset. Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br /><br />
+			<div style="margin-bottom: 10px; height:400;">
+				<div style="float: right; width:50%; display: inline-block;" id="vis1">
+					<p > Pie Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+				<div style="width:50%;  display: inline-block;" id="vis2">
+					<p> Scatterplot</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+
+			<div style="margin-bottom: 10px; height:400;">
+				<div style="float: right; width:50%; display: inline-block;" id="vis3">
+					<p> Bar Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+				<div style="width:50%; display: inline-block;" id="vis4">
+					<p > Line Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+
+			<div style="margin-bottom: 10px;">
+				<div style="width:50%; display: inline-block;" id="vis5">
+					<p> Table</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+		</div>
+
+		<div class='question ranking' id="45">
+			 All of the following charts show the average Budget for cars with different width Lengths.
+			 Suppose you are asked to find how many different Lengths are in the dataset. Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+			<input type="submit" value="Submit" onclick="showNextQ();" /> <br /><br />
+			<div style="margin-bottom: 10px; height:400;">
+				<div style="float: right; width:50%; display: inline-block;" id="vis1">
+					<p > Pie Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+				<div style="width:50%;  display: inline-block;" id="vis2">
+					<p> Scatterplot</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+
+			<div style="margin-bottom: 10px; height:400;">
+				<div style="float: right; width:50%; display: inline-block;" id="vis3">
+					<p> Bar Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+				<div style="width:50%; display: inline-block;" id="vis4">
+					<p > Line Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+
+			<div style="margin-bottom: 10px;">
+				<div style="width:50%; display: inline-block;" id="vis5">
+					<p> Table</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+		</div>
+
+	<div class="question comment" id="46">
+      <span>Please enter the criteria you used for ranking the charts along with any other additional comments you have
+      about the experiment in general.</span><br/><br/>
+      <textarea id="comment" style="width:40%; height:20%;"> </textarea> <br/><br/>
+      <input type="submit" value="Submit" onclick="showNextQ(); saveAnswers();" /> <br /><br />
+  </div>
+
+	<div class="question end" id="47">
+		<h3>End of the study </h3> <br />
+		<p>
+			Thank you for participating.
+		</p>
+		<p>
+			Here is your Survey Code:
+			<button id='sur_btn' onclick="getSurCode()">Get the code</button>
+			<strong id='sur_code'></strong>
+		</p>
+  </div>
+
+
+</body>
+</html>

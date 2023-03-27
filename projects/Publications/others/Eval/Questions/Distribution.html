@@ -1,0 +1,846 @@
+
+<html>
+<head>
+
+</head>
+<body>
+
+  <div class='question instruction' id="1">
+    <h3> <font color="red">NOTE:</font> To ensure best performance, we suggest you to run the study in full screen mode. Kindly DO NOT refresh the page during the session. </h3>
+    During the training session, you will be asked to go through 5 questions. Please try to use the given charts to answer these questions as accurately as possible. Press <b>"Start Training Session"</b> when you are ready to start.<br /><br />
+    <input type="submit" value="Start Training Session" onclick="showNextQ()" /> <br />
+  </div>
+
+
+  <div class='question' id="2">
+    The following chart shows the average <b>Retail Price</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>.
+		What percentage of the car types have a Retail Price than 29,000? <br />
+    <input type="radio" name="answer" value="Correct" /> About 80%<br />
+    <input type="radio" name="answer" value="Wrong" /> Between 40% and 55%<br />
+    <input type="radio" name="answer" value="Wrong" /> Between 60% and 75%<br />
+    <input type="radio" name="answer" value="Wrong" /> Less than 30%<br />
+    <p id="Answer"></p>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="3">
+    The following chart shows the <b>Retail Price</b> for cars with different numbers of <b>Cylinders (e.g. 3 and 4)</b>.
+    What percentage of the car cylinders have a retail price higher than 40,000?<br />
+    <input type="radio" name="answer" value="Wrong" /> About 70%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 50%<br />
+    <input type="radio" name="answer" value="Correct" /> About 25%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 15%<br />
+    <p id="Answer"></p>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div style="width:50%;  display: inline-block;" id='vis'> </div>
+    <div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+  </div>
+
+  <div class='question' id="4">
+    The following chart shows the <b>Highway Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>.
+    What percentage of the car types have a Highway Miles Per Gallon higher than 25? <br />
+    <input type="radio" name="answer" value="Wrong" /> About 30%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 45%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 85%<br />
+    <input type="radio" name="answer" value="Correct" /> About 60%<br />
+    <p id="Answer"></p>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="5">
+    The following chart shows the <b>Weitght</b> for cars with different <b>Widths (e.g. 60 and 70)</b>.
+    What percentage of the cars widths have a weight higher than 3,500?<br />
+    <input type="radio" name="answer" value="Correct" /> More than 70%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 60%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 50%<br />
+    <input type="radio" name="answer" value="Wrong" /> Less than 40%<br />
+    <p id="Answer"></p>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="6">
+    The following chart shows the <b>Highway Miles Per Gallon</b> for cars with different numbers of <b>Cylinders (e.g. 3 and 4)</b>.
+    What percentage of the car cylinders have a Highway Miles Per Gallon higher than 30? <br />
+    <input type="radio" name="answer" value="Wrong" /> More than 80%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 55%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 40%<br />
+    <input type="radio" name="answer" value="Correct" /> About 25%<br />
+    <p id="Answer"></p>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question instruction' id="7">
+    <p>Thank You. You completed the Trial Session.</p>
+    Now is the time to start the main experiment. Similar to the trial session, in the main experiment you will be asked to complete about 20 questions. However, in the main experiment once a question is submitted it cannot be changed or reviewed. You will not receive any feedback to show the correctness of answers during this session. So, please answer the questions <b>as accurate as possible</b> and press "Submit" button only when you are sure about your answer. Press <b>"Start"</b> when you are ready to start the main experiment.<br /><br />
+    <input type="submit" value="Start" onclick="showNextQ()" /> <br />
+  </div>
+
+  <div class='question' id="8">
+     The following chart shows the average <b>Highway Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>.
+  	What percentage of the car types have a Highway Miles Per Gallon higher than 27? <br />
+    <input type="radio" name="answer" value="Wrong" /> More than 80%<br />
+    <input type="radio" name="answer" value="Wrong" /> Between 50% and 70%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 35%<br />
+    <input type="radio" name="answer" value="Correct" /> About 20%<br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="9">
+     The following chart shows the <b>Weight</b> for cars with different numbers of <b>Cylinders (e.g. 3 and 4)</b>.
+    What percentage of the car cylinders have a weight higher than 3,000?
+    <br />
+     <input type="radio" name="answer" value="Correct" /> About 75%<br />
+    <input type="radio" name="answer" value="Wrong" /> More than 90%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 85%<br />
+    <input type="radio" name="answer" value="Wrong" /> Between 20% and 50%<br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div style="width:50%;  display: inline-block;" id='vis'> </div>
+    <div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+  </div>
+
+  <div class='question' id="10">
+     The following chart shows the <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>.
+    What percentage of the car types have a City Miles Per Gallon less than 25? <br />
+    <input type="radio" name="answer" value="Correct" /> About 80%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 40%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 90%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 20%<br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="11">
+     The following chart shows the <b>Dealer Cost</b> for cars with different <b>Wheel Bases (e.g. 60 and 70)</b>.
+    What percentage of the wheel bases have a delear cost higher than 35,000? <br />
+    <input type="radio" name="answer" value="Wrong" /> About 45%<br />
+    <input type="radio" name="answer" value="Correct" /> About 35%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 90%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 25%<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="12">
+     The following chart shows the <b>Horsepower</b> for cars with different <b>Widths</b>.
+    What percentage of the car widths have a hoesepower higher than 220?  <br />
+    <input type="radio" name="answer" value="Correct" /> About 75%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 50%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 90%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 30%<br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="13">
+     The following chart shows the <b>Engine Size</b> for cars with different numbers of <b>Cylinders (e.g. 3 and 4)</b>. Please select True. <br />
+    <input type="radio" name="answer" value="Wrong" /> False<br />
+    <input type="radio" name="answer" value="Correct" /> True<br/><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="14">
+     The following chart shows the <b>Engine Size</b> for cars with different numbers of <b>Cylinders (e.g. 4 and 6)</b>.
+    What percentage of the car cylinders have a engine size higher than 4? <br />
+    <input type="radio" name="answer" value="Wrong" /> About 45%<br />
+    <input type="radio" name="answer" value="Correct" /> About 25%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 90%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 15%<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="15">
+     The following chart shows the <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>.
+    What percentage of the car types have a City Miles Per Gallon higher than 16?<br />
+    <input type="radio" name="answer" value="Correct" /> About 80%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 90%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 20%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 50%<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div style="width:50%;  display: inline-block;" id='vis'> </div>
+    <div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+  </div>
+
+  <div class='question' id="16">
+     The following chart shows the <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>.
+    What percentage of the car types have a City Miles Per Gallon less than 18?<br />
+    <input type="radio" name="answer" value="Wrong" /> About 20%<br />
+    <input type="radio" name="answer" value="Correct" /> About 40%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 90%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 80%<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+
+
+  <div class='question' id="17">
+     The following chart shows the <b>Dealer Cost</b> for cars with different <b>Wheel Bases (e.g. 60 and 70)</b>.
+     What percentage of the wheel bases have a dealer cost higher than 39,000?<br />
+    <input type="radio" name="answer" value="Wrong" /> About 35%<br />
+    <input type="radio" name="answer" value="Correct" /> About 15%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 90%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 25%<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="18">
+     The following chart shows the <b>Dealer Cost</b> for cars with different numbers of <b>Cylinders (e.g. 3 and 4)</b>.
+    What percentage of the car cylinders have a dealer cost higher than 20,000? <br />
+    <input type="radio" name="answer" value="Correct" /> About 75%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 45%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 89%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 25%<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="19">
+     The following chart shows the <b>Engine Size</b> for cars with different numbers of <b>Cylinders (e.g. 3 and 4)</b>.
+    What percentage of the car cylinders have a engine size higher than 3? <br />
+    <input type="radio" name="answer" value="Wrong" /> About 75%<br />
+    <input type="radio" name="answer" value="Wrong" /> Below 45%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 90%<br />
+    <input type="radio" name="answer" value="Correct" /> About 50%<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="20">
+     The following chart shows the <b>Engine Size</b> for cars with different <b>Widths (e.g. 66 and 73)</b>.
+      What percentage of the car widths have a engine size higher than 4?  <br />
+    <input type="radio" name="answer" value="Correct" /> About 25%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 90%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 55%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 36%<br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="21">
+     The following chart shows the <b>Retail Price</b> for cars with different <b>Widths</b>.
+     What percentage of the car widths have a retail price higher than 40,000?  <br />
+     <input type="radio" name="answer" value="Wrong" /> About 75%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 50%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 80%<br />
+    <input type="radio" name="answer" value="Correct" /> About 36%<br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div style="width:50%;  display: inline-block;" id='vis'> </div>
+    <div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+  </div>
+
+  <div class='question' id="22">
+     The following chart shows the <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>.
+     What percentage of the car types have a City Miles Per Gallon higher than 25? <br />
+    <input type="radio" name="answer" value="Wrong" /> About 90%<br />
+    <input type="radio" name="answer" value="Correct" /> About 20%<br />
+    <input type="radio" name="answer" value="Wrong" /> Between 50% and 75%<br />
+    <input type="radio" name="answer" value="Wrong" /> Less than 10%<br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="23">
+     The following chart shows the <b>Horsepower</b> for cars with different numbers of <b>Cylinders (e.g. 3 and 4)</b>.
+    What percentage of the car cylinders have a horsepower higher than 400? <br />
+    <input type="radio" name="answer" value="Wrong" /> About 45%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 90%<br />
+    <input type="radio" name="answer" value="Wrong" /> About 12%<br />
+    <input type="radio" name="answer" value="Correct" /> below 10%<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="24">
+     The following chart shows the average <b>Horsepower</b> for cars with different <b>Widths (e.g. 66 and 73)</b>. Please select False. <br />
+    <input type="radio" name="answer" value="Correct" /> False<br />
+    <input type="radio" name="answer" value="Wrong" /> True<br/><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+
+  <div class='question' id="25">
+     The following chart shows the average <b>Gross($M)</b> for movies with different <b>Genres</b>.
+ 		What percentage of the movie genres have a Gross value higher than 400? <br />
+     <input type="radio" name="answer" value="Wrong" /> More than 80%<br />
+     <input type="radio" name="answer" value="Wrong" /> Between 50% and 70%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 40%<br />
+     <input type="radio" name="answer" value="Correct" /> About 77%<br /><br />
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+   <div class='question' id="26">
+     The following chart shows the <b>Budget</b> for movies with different <b>Ratings</b>.
+     What percentage of the movie ratings have a Budget higher than 100?<br />
+     <input type="radio" name="answer" value="Correct" /> About 66%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 45%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 89%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 25%<br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div style="width:50%;  display: inline-block;" id='vis'> </div>
+     <div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+   </div>
+
+   <div class='question' id="27">
+     The following chart shows the <b>Length</b> for movies with different <b>Genres</b>.
+     What percentage of the movie Genres have a Length higher than 111?<br />
+     <input type="radio" name="answer" value="Wrong" /> More than 80%<br />
+     <input type="radio" name="answer" value="Wrong" /> Between 50% and 70%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 41%<br />
+     <input type="radio" name="answer" value="Correct" /> About 78%<br /><br />
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+   <div class='question' id="28">
+     The following chart shows the <b>Profit($M)</b> for movies with different <b>Lengths</b>.
+     What percentage of the movie Lengths have a Profit value higher than 500?<br />
+     <input type="radio" name="answer" value="Wrong" /> About 45%<br />
+     <input type="radio" name="answer" value="Correct" /> About 9%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 90%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 15%<br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+   <div class='question' id="29">
+     The following chart shows the average <b>Budget</b> for movies with different <b>Genres</b>.
+     What percentage of the movie genres have a Budget higher than 100? <br />
+     <input type="radio" name="answer" value="Wrong" /> About 20%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 45%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 85%<br />
+     <input type="radio" name="answer" value="Correct" /> About 35%<br /><br />
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+   <div class='question' id="30">
+     The following chart shows the <b>Profit($M)</b> for movies with different <b>Ratings</b>.
+     What percentage of the movie ratings have a Profit vlaue higher than 200?<br />
+     <input type="radio" name="answer" value="Wrong" /> About 45%<br />
+     <input type="radio" name="answer" value="Correct" /> About 83%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 90%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 15%<br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+   <div class='question' id="31">
+     The following chart shows the average <b>Rating</b> for movies with different <b>Genres</b>.
+     What percentage of the movie Genres have a Rating higher than 6?<br />
+     <input type="radio" name="answer" value="Correct" /> About 28%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 90%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 37%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 50%<br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div style="width:50%;  display: inline-block;" id='vis'> </div>
+     <div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+   </div>
+
+   <div class='question' id="32">
+     The following chart shows the average <b>Budget</b> for movies with different <b>Genres</b>.
+    What percentage of the movie genres have a Budget higher than 150? <br />
+     <input type="radio" name="answer" value="Wrong" /> About 20%<br />
+     <input type="radio" name="answer" value="Correct" /> About 7%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 10%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 80%<br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+
+
+   <div class='question' id="33">
+     The following chart shows the <b>Budget</b> for movies with different <b>Lengths</b>.
+     What percentage of the movie Lengths have a Budget higher than 130?<br />
+     <input type="radio" name="answer" value="Wrong" /> More than 80%<br />
+     <input type="radio" name="answer" value="Wrong" /> Between 50% and 70%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 40%<br />
+     <input type="radio" name="answer" value="Correct" /> About 27%<br /><br />
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+   <div class='question' id="34">
+     The following chart shows the <b>Budget</b> for movies with different <b>Ratings</b>.
+     What percentage of the movie ratings have a Budget higher than 100?<br />
+     <input type="radio" name="answer" value="Correct" /> About 66%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 45%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 89%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 25%<br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+   <div class='question' id="35">
+     The following chart shows the <b>Length</b> for movies with different <b>Ratings</b>.
+     What percentage of the movie ratings have a Length higher than 113?<br />
+     <input type="radio" name="answer" value="Wrong" /> About 75%<br />
+     <input type="radio" name="answer" value="Wrong" /> Below 45%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 90%<br />
+     <input type="radio" name="answer" value="Correct" /> About 83%<br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+   <div class='question' id="36">
+     The following chart shows the <b>Gross($M)</b> for movies with different <b>Lengths</b>.
+     What percentage of the movie Lengths have a Gross value higher than 400?<br />
+     <input type="radio" name="answer" value="Correct" /> About 66%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 60%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 50%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 55%<br /><br />
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+   <div class='question' id="37">
+     The following chart shows the average <b>Rating</b> for movies with different <b>Length</b>.
+     What percentage of the movie Lengths have a Rating higher than 6?<br />
+      <input type="radio" name="answer" value="Wrong" /> About 75%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 50%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 80%<br />
+     <input type="radio" name="answer" value="Correct" /> About 36%<br /><br />
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div style="width:50%;  display: inline-block;" id='vis'> </div>
+     <div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+   </div>
+
+   <div class='question' id="38">
+     The following chart shows the average <b>Gross($M)</b> for movies with different <b>Genres</b>.
+     What percentage of the movie genres have a Gross value higher than 400? <br />
+     <input type="radio" name="answer" value="Wrong" /> More than 90%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 77% <br />
+     <input type="radio" name="answer" value="Correct" /> About 43%<br />
+     <input type="radio" name="answer" value="Wrong" /> Between 60% and 70% <br /><br />
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+   <div class='question' id="39">
+     The following chart shows the <b>Gross($M)</b> for movies with different <b>Ratings</b>.
+     What percentage of the movie ratings have a Gross value higher than 500?<br />
+     <input type="radio" name="answer" value="Wrong" /> About 40%<br />
+     <input type="radio" name="answer" value="Wrong" /> About 90%<br />
+     <input type="radio" name="answer" value="Correct" /> About 63%<br />
+     <input type="radio" name="answer" value="Wrong" /> below 10%<br /><br/>
+     <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+     <div id='vis'> </div>
+   </div>
+
+
+  <div class='question ranking' id="40">
+     All of the following charts show the Highway Miles Per Gallon for 5 types of cars (e.g. Sedan and SUV). Suppose you are asked to find percentage of the car types that have a Highway Miles Per Gallon higher than a specific value. Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ();"/> <br /><br />
+
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis1">
+        <p > Pie Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%;  display: inline-block;" id="vis2">
+        <p> Scatterplot</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis3">
+        <p> Bar Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%; display: inline-block;" id="vis4">
+        <p > Line Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 10px;">
+      <div style="width:50%; display: inline-block;" id="vis5">
+        <p> Table</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class='question ranking' id="41">
+     All of the following charts show the Length for different types of Cylinders. Suppose you are asked to find percentage of the car cylinders that have a length higher than a specific value. Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br /><br />
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis1">
+        <p > Bar Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%;  display: inline-block;" id="vis2">
+        <p> Pie Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis3">
+        <p> Scatterplot</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%; display: inline-block;" id="vis4">
+        <p > Line Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 10px;">
+      <div style="width:50%; display: inline-block;" id="vis5">
+        <p> Table</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class='question ranking' id="42">
+     All of the following charts show the Dealer Cost for cars with different Widths. Suppose you are asked to find percentage of the widths that have a dealer cost higher than a specific value. Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ();" /> <br /><br />
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis1">
+        <p > Pie Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%;  display: inline-block;" id="vis2">
+        <p> Scatterplot</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis3">
+        <p> Bar Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%; display: inline-block;" id="vis4">
+        <p > Line Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 10px;">
+      <div style="width:50%; display: inline-block;" id="vis5">
+        <p> Table</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class='question ranking' id="43">
+       All of the following charts show the average Budget for different Genres of movies.
+       Suppose you are asked to find percentage of the movie Genres that have a Budget higher than a specific value.
+       Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+      <input type="submit" value="Submit" onclick="showNextQ();"/> <br /><br />
+
+      <div style="margin-bottom: 10px; height:400;">
+        <div style="float: right; width:50%; display: inline-block;" id="vis1">
+          <p > Pie Chart</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+        <div style="width:50%;  display: inline-block;" id="vis2">
+          <p> Scatterplot</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+      </div>
+      <div style="margin-bottom: 10px; height:400;">
+        <div style="float: right; width:50%; display: inline-block;" id="vis3">
+          <p> Bar Chart</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+        <div style="width:50%; display: inline-block;" id="vis4">
+          <p > Line Chart</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+      </div>
+
+      <div style="margin-bottom: 10px;">
+        <div style="width:50%; display: inline-block;" id="vis5">
+          <p> Table</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <div class='question ranking' id="44">
+       All of the following charts show the average Length for movies with different Ratings.
+       Suppose you are asked to find percentage of the movie Ratings that have a Budget higher than a specific value.
+       Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+      <input type="submit" value="Submit" onclick="showNextQ()" /> <br /><br />
+      <div style="margin-bottom: 10px; height:400;">
+        <div style="float: right; width:50%; display: inline-block;" id="vis1">
+          <p > Bar Chart</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+        <div style="width:50%;  display: inline-block;" id="vis2">
+          <p> Pie Chart</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+      </div>
+
+      <div style="margin-bottom: 10px; height:400;">
+        <div style="float: right; width:50%; display: inline-block;" id="vis3">
+          <p> Scatterplot</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+        <div style="width:50%; display: inline-block;" id="vis4">
+          <p > Line Chart</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+      </div>
+
+      <div style="margin-bottom: 10px;">
+        <div style="width:50%; display: inline-block;" id="vis5">
+          <p> Table</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <div class='question ranking' id="45">
+       All of the following charts show the average Gross($M) for movies with different Lengths.
+       Suppose you are asked to find percentage of the movie lengths that have a Gross value higher than a specific value.
+       Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+      <input type="submit" value="Submit" onclick="showNextQ();" /> <br /><br />
+      <div style="margin-bottom: 10px; height:400;">
+        <div style="float: right; width:50%; display: inline-block;" id="vis1">
+          <p > Pie Chart</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+        <div style="width:50%;  display: inline-block;" id="vis2">
+          <p> Scatterplot</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+      </div>
+
+      <div style="margin-bottom: 10px; height:400;">
+        <div style="float: right; width:50%; display: inline-block;" id="vis3">
+          <p> Bar Chart</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+        <div style="width:50%; display: inline-block;" id="vis4">
+          <p > Line Chart</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+      </div>
+
+      <div style="margin-bottom: 10px;">
+        <div style="width:50%; display: inline-block;" id="vis5">
+          <p> Table</p>
+          <select>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+  <div class="question comment" id="46">
+      <span>Please enter the criteria you used for ranking the charts along with any other additional comments you have
+      about the experiment in general.</span><br/><br/>
+      <textarea id="comment" style="width:40%; height:20%;"> </textarea> <br/><br/>
+      <input type="submit" value="Submit" onclick="showNextQ(); saveAnswers();" /> <br /><br />
+  </div>
+
+  <div class="question end" id="47">
+    <h3>End of the study </h3> <br />
+    <p>
+      Thank you for participating.
+    </p>
+    <p>
+      Here is your Survey Code:
+      <button id='sur_btn' onclick="getSurCode()">Get the code</button>
+      <strong id='sur_code'></strong>
+    </p>
+  </div>
+
+
+</body>
+</html>

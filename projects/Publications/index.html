@@ -1,0 +1,660 @@
+<HTML>
+
+<HEAD>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <TITLE>Bahador Saket</TITLE>
+
+    <!-- NOTICE! I'm not going to pretend that my HTML is poetry. Like Charles Barkley said: I am not a role model -->
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700,400italic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="css/homepage.css" />
+    <link rel="stylesheet" type="text/css" href="css/pubs.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <script src="js/d3.min.js"></script>
+    <script src="js/generatePubs.js"></script>
+    <!-- <script src="js/generateFeaturedPubs.js"></script> -->
+    </style>
+
+    <!--Google Fonts-->
+    <link
+        href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap"
+        rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap"
+        rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Nanum+Pen+Script&display=swap" rel="stylesheet">
+    <!---->
+
+    <meta name="keywords"
+        content="Bahador Saket, computer science, human-computer interaction, information visualization, visual analytics, demonstration, visualization by demonstration, HCI, visual analytics by demonstration, memorability, graph, network visualization">
+
+    <!-- Google Analytics Code -->
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-77726602-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</HEAD>
+
+<BODY>
+    <div class="navigation-menu">
+        <div class="container">
+            <nav class="navbar navbar-expand-lg">
+                <!-- logo -->
+                <a class="navbar-brand" href="../../home.html">Bahador Saket</a>
+
+                <!-- Menu -->
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <i></i>
+                    <i></i>
+                    <i></i>
+                </button>
+
+                <!-- Links -->
+                <div class="collapse navbar-collapse justify-content-end" id="collapsibleNavbar">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link" href="../../home.html#about">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="../../home.html#work">Work</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link active" href="#">Publication</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="" target="_blank">Resume</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="../../home.html#contact">Contact</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+    </div>
+
+    <div class="container">
+
+        <div class="pub-diagram">
+            <h3 class="my-publications">My Publications</h3>
+            <div class="row1">
+                <div class="circle interaction">
+                    <h2>Interaction Design<br class="hide-size"> &amp; Evaluation</h2>
+
+                    <ul class="exploration">
+                        <h3>Interactive Visual Data Exploration</h3>
+                        <li><a href="#">InfoVis 2017</a></li>
+                        <li><a href="#">TVCG 2018</a></li>
+                        <li><a href="#">InfoVis 2018</a></li>
+                        <li><a href="#">EuroVis 2019</a></li>
+                        <li><a href="#">CG&A 2019</a></li>
+                        <li><a href="#">InfoVis 2019</a></li>
+                    </ul>
+
+                    <ul class="mobile">
+                        <h3>Interaction for Mobile Devices</h3>
+                        <li><a href="#">CSCW 2013</a></li>
+                        <li><a href="#">UIST 2014</a></li>
+                        <li><a href="#">MobileHCI 2014 (Honorable Mention)</a></li>
+                    </ul>
+
+                </div>
+                <div class="circle visualization">
+                    <h2>Visualization Design<br class="hide-size"> &amp; Evaluation</h2>
+
+                    <ul class="evaluation">
+                        <h3>Evaluating Visualizations</h3>
+                        <li><a href="#">InfoVis 2014</a></li>
+                        <li><a href="#">GD 2014</a></li>
+                        <li><a href="#">EuroVis 2015</a></li>
+                        <li><a href="#">EuroVis 2016</a></li>
+                    </ul>
+
+                    <ul class="taxonomy">
+                        <h3>Taxonomies &amp; Evaluation Methods</h3>
+                        <li><a href="#">EuroVis 2014</a></li>
+                        <li><a href="#">EuroVis 2015</a></li>
+                        <li><a href="#">BELIV 2016</a></li>
+                    </ul>
+
+                    <ul class="ml">
+                        <h3>ML + Visual Design</h3>
+                        <li><a href="#">TVCG 2018</a></li>
+                        <li><a href="#">VisGuides 2018</a></li>
+                        <li><a href="#">EuroVis 2019</a></li>
+                    </ul>
+
+                </div>
+            </div>
+            <div class="row2">
+                <div class="circle application">
+                    <h2>Applying Visualization<br class="hide-size"> to Specific Domains</h2>
+
+                    <ul class="biology">
+                        <h3>Biology</h3>
+                        <li><a href="#">Arxiv 2019</a></li>
+                    </ul>
+
+                    <ul class="healthcare">
+                        <h3>Healthcare</h3>
+                        <li><a href="#">InfoVis 2018</a></li>
+                    </ul>
+
+                    <ul class="security">
+                        <h3>Security</h3>
+                        <li><a href="#">VizSec 2016</a></li>
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="projects">
+            <h2 class="section">Featured Projects</h2>
+            <div class="rows">
+                <!-- project -->
+                <div class="project">
+                    <a href="https://visbydemo.github.io/" target="_blank" class="thumbnail-link">
+                        <img class="thumbnail" src="thumbnails/liger.png">
+                    </a>
+                    <div class="pubInfo">
+                        <div class="title">
+                            <a href="https://visbydemo.github.io/" target="_blank">Visualization by
+                                Demonstration</a></div>
+                        <div class="descr"> Visualization by Demonstration is an interaction paradigm that
+                            advocates for decreasing the level of formalism and fundamental knowledge required
+                            for visual data exploration.
+                        </div>
+                        <text class="supp">
+                            <a href="http://bahadorsaket.com/publication/VbD-Paper.pdf" target="_blank">InfoVis
+                                2017</a> |
+                            <a href="http://bahadorsaket.com/publication/encodingsPaper.pdf" target="_blank">TVCG
+                                2018</a> |
+                            <a href="http://bahadorsaket.com/publication/EMS.pdf" target="_blank">InfoVis
+                                2018</a> |
+                            <a href="http://bahadorsaket.com/publication/VbDEuroVis2019.pdf" target="_blank">EuroVis
+                                2019</a> |
+                            <a href="http://bahadorsaket.com/publication/Saket2019CGADemonstration.pdf"
+                                target="_blank">CG&A2019</a> |
+                            <a href="http://bahadorsaket.com/publication/infovis2019.pdf" target="_blank">InfoVis
+                                2019</a>
+                        </text>
+                        <div style="margin-top: 6px;">
+                            <text class="supp">
+                                <a href="https://visbydemo.github.io/" target="_blank">Website</a> |
+                                <a href="https://vimeo.com/228918233" target="_blank">InfoVis Talk</a> |
+                                <a href="https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2b025a22-9390-4d10-b2ba-aa6b00272ed7"
+                                    target="_blank">TRIPODS Southwest Talk</a>
+                            </text>
+                        </div>
+
+                    </div>
+                </div>
+                <!-- project -->
+                <div class="project">
+                    <a href="https://kopoljs.github.io" target="_blank" class="thumbnail-link">
+                        <img class="thumbnail" src="thumbnails/kopol.png">
+                    </a>
+                    <div class="pubInfo">
+                        <div class="title">
+                            <a href="https://kopoljs.github.io" target="_blank">Visualization Design + Machine
+                                Learning</a></div>
+                        <div class="descr"> We propose learning models of visualization design from data
+                            collected using graphical perception studies and build tools powered by the learned
+                            models. </div>
+                        <text class="supp">
+                            <a href="http://bahadorsaket.com/publication/peng-tvcg.pdf" target="_blank">TVCG
+                                2018</a> |
+                            <a href="https://arxiv.org/pdf/1807.06641.pdf" target="_blank">VisGuides 2018</a>
+                        </text>
+                        <div style="margin-top: 6px;">
+                            <text class="supp">
+                                <a href="https://kopoljs.github.io" target="_blank">Website</a>
+                            </text>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="project">
+            <a href="https://gmapvis.github.io/" target="_blank" class="thumbnail-link">
+                <img class="thumbnail" src="thumbnails/map.png">
+            </a>
+            <div class="pubInfo">
+                <div class="title">
+                    <a href="https://gmapvis.github.io/" target="_blank">
+                        Investigating the Effectiveness of Large Network Visualizations
+                    </a>
+                </div>
+                <div class="descr"> We define novel metrics and taxonomies for evaluating network
+                    visualizations. We then assessed the effectiveness of different network visualizations using
+                    these metrics.
+                </div>
+                <text class="supp">
+                    <a href="https://bahadorsaket.com/publication/nlg_diagrams.pdf" target="_blank">InfoVis
+                        2014</a> |
+                    <a href="https://bahadorsaket.com/publication/crossings.pdf" target="_blank">GD 2014</a> |
+                    <a href="https://bahadorsaket.com/publication/group_tax.pdf" target="_blank">EuroVis
+                        2014</a> |
+                    <a href="https://bahadorsaket.com/publication/eurovis_long_2015.pdf" target="_blank">EuroVis
+                        2015</a> |
+                    <a href="https://bahadorsaket.com/publication/eurovis_short_2015.pdf" target="_blank">EuroVis
+                        2015</a> |
+                    <a href="https://bahadorsaket.com/publication/enjoy.pdf" target="_blank">EuroVis 2016</a>
+                </text>
+                <div style="margin-top: 6px;">
+                    <text class="supp">
+                        <!--        <a href="" target="_blank">Video</a> | -->
+                        <a href="https://gmapvis.github.io/" target="_blank">Website</a>
+                    </text>
+                </div>
+
+            </div>
+        </div>
+        <div class="project">
+            <a href="#" target="_blank" class="thumbnail-link">
+                <img class="thumbnail" src="thumbnails/mobilephone2.png">
+            </a>
+
+            <div class="pubInfo">
+                <div class="title"> <a href="#" target="_blank">
+                        Advancing User Interfaces for Mobile Devices
+                    </a>
+                </div>
+                <div class="descr"> On a series of projects, we worked on improving user interfaces for mobile
+                    devices in various scenarios such as locating missing items, oral presentation, and
+                    communication.
+                </div>
+                <text class="supp">
+                    <a href="" target="_blank">CSCW 2013</a> |
+                    <a href="" target="_blank">UIST 2014 Adjunct</a> |
+                    <a href="" target="_blank">MobileHCI 2014 (Honorable Mention Award)</a>
+                </text>
+                <div style="margin-top: 6px;">
+                    <text class="supp">
+                        <a href="" target="_blank">Website</a> |
+                        <a href="" target="_blank">Video</a>
+
+                    </text>
+                </div>
+
+            </div>
+        </div>
+
+        <div style="margin-bottom:200px">
+            <h2 class="section">Selected Publications</h2>
+            <div class="yearGroup">
+                <h3>2019</h3>
+                <div class="typeGroup">
+                    <div class="pub"><img class="thumbnail" src="thumbnails/geono-cluster.png">
+                        <div class="pubInfo"><text class="type-tag"
+                                style="background-color: rgb(31, 119, 180); opacity: 0.5;">arXiv</text>
+                            <div class="title"><a href="https://arxiv.org/pdf/1911.00988.pdf">Geono-Cluster:
+                                    Interactive Visual Cluster Analysis for Biologists</a></div>
+                            <div class="authors"><span class="me">Bahador Saket</span>, Subhajit Das, Bum Chul Kwon,
+                                Alex Endert</div>
+                            <div class="venue">arXiv:1911.00988 2019</div><text class="supp"><a
+                                    href="https://arxiv.org/pdf/1911.00988.pdf"> pdf </a></text>
+                        </div>
+                    </div>
+                </div>
+                <div class="typeGroup">
+                    <div class="pub"><img class="thumbnail" src="thumbnails/VbDTheory.png">
+                        <div class="pubInfo"><text class="type-tag"
+                                style="background-color: rgb(44, 160, 44); opacity: 0.5;">journal</text>
+                            <div class="title"><a
+                                    href="https://bahadorsaket.com/publication/Saket2019CGADemonstration.pdf">Demonstrational
+                                    Interaction for Data Visualization</a></div>
+                            <div class="authors"><span class="me">Bahador Saket</span>, Alex Endert</div>
+                            <div class="venue">IEEE Computer Graphics and Applications 2019</div><text class="supp"><a
+                                    href="https://bahadorsaket.com/publication/Saket2019CGADemonstration.pdf"> pdf
+                                </a></text>
+                        </div>
+                    </div>
+                </div>
+                <div class="typeGroup">
+                    <div class="pub"><img class="thumbnail" src="thumbnails/DM.png">
+                        <div class="pubInfo"><text class="type-tag"
+                                style="background-color: rgb(255, 127, 14); opacity: 0.5;">conference</text>
+                            <div class="title"><a
+                                    href="https://bahadorsaket.com/publication/infovis2019.pdf">Investigating Direct
+                                    Manipulation of Graphical Encodings as a Method for User Interaction </a></div>
+                            <div class="authors"><span class="me">Bahador Saket</span>, Samuel Huron, Charles Perin,
+                                Alex Endert</div>
+                            <div class="venue">IEEE Transactions on Visualization and Computer Graphics 2019</div>
+                            <text class="supp"><a href="https://bahadorsaket.com/publication/infovis2019.pdf"> pdf
+                                </a>| <a href="https://encodingstudy.github.io/"> Website</a> </text>
+                        </div>
+                    </div>
+                    <div class="pub"><img class="thumbnail" src="thumbnails/VbDEval.png">
+                        <div class="pubInfo"><text class="type-tag"
+                                style="background-color: rgb(255, 127, 14); opacity: 0.5;">conference</text>
+                            <div class="title"><a
+                                    href="https://bahadorsaket.com/publication/VbDEuroVis2019.pdf">Investigating the
+                                    Manual View Specification and Visualization by Demonstration Paradigms for
+                                    Visualization Construction</a></div>
+                            <div class="authors"><span class="me">Bahador Saket</span>, Alex Endert</div>
+                            <div class="venue">Computer Graphics Forum (EuroVis 2019) 2019</div><text class="supp"><a
+                                    href="https://bahadorsaket.com/publication/VbDEuroVis2019.pdf"> pdf
+                                </a></text>
+                        </div>
+                    </div>
+                    <div class="pub"><img class="thumbnail" src="thumbnails/EMA.png">
+                        <div class="pubInfo"><text class="type-tag"
+                                style="background-color: rgb(255, 127, 14); opacity: 0.5;">conference</text>
+                            <div class="title"><a href="https://bahadorsaket.com/publication/EMAPaper.pdf">A
+                                    User-based Visual Analytics Workflow for Exploratory Model Analysis</a></div>
+                            <div class="authors">Dylan Cashman, Shah Rukh Humayoun, Florian Heimerl, Kendall Park,
+                                Subhajit Das, John R Thompson, <span class="me">Bahador Saket</span>, Abigail Mosca,
+                                John Stasko, Alex Endert, Michael Gleicher, Remco Chang</div>
+                            <div class="venue">Computer Graphics Forum (EuroVis 2019) 2019</div><text class="supp"><a
+                                    href="https://bahadorsaket.com/publication/EMAPaper.pdf"> pdf
+                                </a></text>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="yearGroup">
+                <h3>2018</h3>
+                <div class="typeGroup">
+                    <div class="pub"><img class="thumbnail" src="thumbnails/peng.png">
+                        <div class="pubInfo"><text class="type-tag"
+                                style="background-color: rgb(44, 160, 44); opacity: 0.5;">journal</text>
+                            <div class="title"><a href="https://bahadorsaket.com/publication/peng-tvcg.pdf">Task-Based
+                                    Effectiveness of Basic Visualizations</a></div>
+                            <div class="authors"><span class="me">Bahador Saket</span>, Alex Endert, Cagatay
+                                Demiralp</div>
+                            <div class="venue">IEEE Transactions on Visualization and Computer Graphics 2018</div>
+                            <text class="supp"><a href="https://bahadorsaket.com/publication/peng-tvcg.pdf"> pdf
+                                </a>| <a href="https://kopoljs.github.io/"> Website</a> | <a
+                                    href="https://github.com/gtvalab/ChartsEffectiveness/tree/master/Raw-Data"> Code
+                                    + Other Materials</a> </text>
+                        </div>
+                    </div>
+                    <div class="pub"><img class="thumbnail" src="thumbnails/embedded.png">
+                        <div class="pubInfo"><text class="type-tag"
+                                style="background-color: rgb(44, 160, 44); opacity: 0.5;">journal</text>
+                            <div class="title"><a
+                                    href="https://bahadorsaket.com/publication/encodingsPaper.pdf">Evaluating
+                                    Interactive Graphical Encodings for Data Visualization</a></div>
+                            <div class="authors"><span class="me">Bahador Saket</span>, Arjun Srinivasan, Eric D.
+                                Ragan, Alex Endert</div>
+                            <div class="venue">IEEE Transactions on Visualization and Computer Graphics 2018</div>
+                            <text class="supp"><a href="https://bahadorsaket.com/publication/encodingsPaper.pdf">
+                                    pdf </a>| <a
+                                    href="https://medium.com/@GT_Vis/evaluating-interactive-graphical-encodings-for-data-visualization-b9b8b4bf47f8">
+                                    Blog post</a> | <a href="https://va.gatech.edu/encodings/"> Website</a> | <a
+                                    href="https://github.com/gtvalab/interactive-graphical-encodings"> Code + Other
+                                    Materials</a> </text>
+                        </div>
+                    </div>
+                </div>
+                <div class="typeGroup">
+                    <div class="pub"><img class="thumbnail" src="thumbnails/EMS.png">
+                        <div class="pubInfo"><text class="type-tag"
+                                style="background-color: rgb(255, 127, 14); opacity: 0.5;">conference</text>
+                            <div class="title"><a href="https://bahadorsaket.com/publication/EMS.pdf">Embedded Merge
+                                    &amp; Split: Visual Adjustment of Data Grouping</a></div>
+                            <div class="authors">Ali Sarvghad *, <span class="me">Bahador Saket</span> *, Alex
+                                Endert, Nadir Weibel<div class="award-text"> * Equal Contribution </div>
+                            </div>
+                            <div class="venue">IEEE Transactions on Visualization and Computer Graphics 2018</div>
+                            <text class="supp"><a href="https://bahadorsaket.com/publication/EMS.pdf"> pdf </a>| <a
+                                    href="https://youtu.be/Z2rL6WF6TLY"> Video</a> </text>
+                        </div>
+                    </div>
+                </div>
+                <div class="typeGroup">
+                    <div class="pub"><img class="thumbnail" src="thumbnails/ML4VIS.png">
+                        <div class="pubInfo"><text class="type-tag"
+                                style="background-color: rgb(214, 39, 40); opacity: 0.5;">workshop</text>
+                            <div class="title"><a href="https://arxiv.org/pdf/1807.06641.pdf">Beyond Heuristics:
+                                    Learning Visualization Design</a></div>
+                            <div class="authors"><span class="me">Bahador Saket</span> *, Dominik Moritz *, Halden
+                                Lin, Victor Dibia, Cagatay Demiralp, Jeffrey Heer<div class="award-text"> * Equal
+                                    Contribution </div>
+                            </div>
+                            <div class="venue">2nd Workshop on the Creation, Curation, Critique and Conditioning of
+                                Principles and Guidelines in Visualization 2018</div><text class="supp"><a
+                                    href="https://arxiv.org/pdf/1807.06641.pdf"> pdf </a></text>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="yearGroup">
+                <h3>2017</h3>
+                <div class="typeGroup">
+                    <div class="pub"><img class="thumbnail" src="thumbnails/VbD.png">
+                        <div class="pubInfo"><text class="type-tag"
+                                style="background-color: rgb(255, 127, 14); opacity: 0.5;">conference</text>
+                            <div class="title"><a
+                                    href="https://bahadorsaket.com/publication/VbD-Paper.pdf">Visualization by
+                                    Demonstration: An Interaction Paradigm for Visual Data Exploration</a></div>
+                            <div class="authors"><span class="me">Bahador Saket</span>, Hannah Kim, Eli Brown, Alex
+                                Endert</div>
+                            <div class="venue">IEEE Transactions on Visualization and Computer Graphics (Also
+                                presented at InfoVis) 2017</div><text class="supp"><a
+                                    href="https://bahadorsaket.com/publication/VbD-Paper.pdf"> pdf </a>| <a
+                                    href="http://va.gatech.edu/vbd/"> Website</a> | <a
+                                    href="https://github.com/BahadorSaket/VbD"> Code</a> </text>
+                        </div>
+                    </div>
+                </div>
+                <div class="typeGroup">
+                    <div class="pub"><img class="thumbnail" src="thumbnails/VisAR.png">
+                        <div class="pubInfo"><text class="type-tag"
+                                style="background-color: rgb(214, 39, 40); opacity: 0.5;">workshop</text>
+                            <div class="title"><a href="https://bahadorsaket.com/publication/VisAR.pdf">VisAR:
+                                    Bringing Interactivity to Static Data Visualizations through Augmented
+                                    Reality</a></div>
+                            <div class="authors">Taeheon Kim, <span class="me">Bahador Saket</span>, Alex Endert,
+                                Blair MacIntyre</div>
+                            <div class="venue">IA: Workshop on Immersive Analytics: Exploring Future Interaction and
+                                Visualization Technologies for Data Analytics 2017</div><text class="supp"><a
+                                    href="https://bahadorsaket.com/publication/VisAR.pdf"> pdf </a></text>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="yearGroup">
+                <h3>2016</h3>
+                <div class="typeGroup">
+                    <div class="pub"><img class="thumbnail" src="thumbnails/AptHunter.png">
+                        <div class="pubInfo"><text class="type-tag"
+                                style="background-color: rgb(255, 127, 14); opacity: 0.5;">conference</text>
+                            <div class="title"><a href="https://bahadorsaket.com/publication/Apt-Hunter.pdf">Detecting
+                                    Malicious
+                                    Logins in Enterprise Networks Using Visualization</a></div>
+                            <div class="authors">Hossein Siadati, <span class="me">Bahador Saket</span>, Nasir Memon
+                            </div>
+                            <div class="venue">13th IEEE Symposium on Visualization for Cyber Security (VizSec) 2016
+                            </div><text class="supp"><a href="https://bahadorsaket.com/publication/Apt-Hunter.pdf">
+                                    pdf </a></text>
+                        </div>
+                    </div>
+                    <div class="pub"><img class="thumbnail" src="thumbnails/enjoymentEval.jpg">
+                        <div class="pubInfo"><text class="type-tag"
+                                style="background-color: rgb(255, 127, 14); opacity: 0.5;">conference</text>
+                            <div class="title"><a href="https://bahadorsaket.com/publication/enjoy.pdf">Comparing
+                                    Node-Link and Node-Link-Group Visualizations From An Enjoyment Perspective</a>
+                            </div>
+                            <div class="authors"><span class="me">Bahador Saket</span>, Carlos Scheidegger, Stephen
+                                Kobourov</div>
+                            <div class="venue">Computer Graphics Forum (Also presented at EuroVis) 2016</div><text
+                                class="supp"><a href="https://bahadorsaket.com/publication/enjoy.pdf"> pdf
+                                </a></text>
+                        </div>
+                    </div>
+                </div>
+                <div class="typeGroup">
+                    <div class="pub"><img class="thumbnail" src="thumbnails/beliv.png">
+                        <div class="pubInfo"><text class="type-tag"
+                                style="background-color: rgb(214, 39, 40); opacity: 0.5;">workshop</text>
+                            <div class="title"><a href="https://bahadorsaket.com/publication/BELIV2016.pdf">Beyond
+                                    Usability and Performance: A Review of User Experience-focused Evaluation Goals
+                                    in Visualization</a></div>
+                            <div class="authors"><span class="me">Bahador Saket</span>, Alex Endert, John Stasko
+                            </div>
+                            <div class="venue">6th International Workshop on Beyond time and errors: novel
+                                evaluation methods for Information Visualization (BELIV) 2016</div><text class="supp"><a
+                                    href="https://bahadorsaket.com/publication/BELIV2016.pdf"> pdf
+                                </a></text>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="yearGroup">
+                <h3>2015</h3>
+                <div class="typeGroup">
+                    <div class="pub"><img class="thumbnail" src="thumbnails/enjoyment.png">
+                        <div class="pubInfo"><text class="type-tag"
+                                style="background-color: rgb(255, 127, 14); opacity: 0.5;">conference</text>
+                            <div class="title"><a
+                                    href="https://bahadorsaket.com/publication/eurovis_short_2015.pdf">Towards
+                                    Understanding Enjoyment and Flow in Information Visualization</a></div>
+                            <div class="authors"><span class="me">Bahador Saket</span>, Carlos Scheidegger, Stephen
+                                Kobourov</div>
+                            <div class="venue">17th International Conference on Eurographics Working Group on Data
+                                Visualization (EuroVis) 2015</div><text class="supp"><a
+                                    href="https://bahadorsaket.com/publication/eurovis_short_2015.pdf"> pdf
+                                </a></text>
+                        </div>
+                    </div>
+                    <div class="pub"><img class="thumbnail" src="thumbnails/memorability.png">
+                        <div class="pubInfo"><text class="type-tag"
+                                style="background-color: rgb(255, 127, 14); opacity: 0.5;">conference</text>
+                            <div class="title"><a
+                                    href="https://bahadorsaket.com/publication/eurovis_long_2015.pdf">Map-based
+                                    Visualizations Increase Recall Accuracy of Data</a></div>
+                            <div class="authors"><span class="me">Bahador Saket</span>, Carlos Scheidegger, Stephen
+                                Kobourov, Katy Borner</div>
+                            <div class="venue">Computer Graphics Forum (Also presented at EuroVis) 2015</div><text
+                                class="supp"><a href="https://bahadorsaket.com/publication/eurovis_long_2015.pdf">
+                                    pdf </a></text>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="yearGroup">
+                <h3>2014</h3>
+                <div class="typeGroup">
+                    <div class="pub"><img class="thumbnail" src="thumbnails/crossing.png">
+                        <div class="pubInfo"><text class="type-tag"
+                                style="background-color: rgb(255, 127, 14); opacity: 0.5;">conference</text>
+                            <div class="title"><a href="https://bahadorsaket.com/publication/crossings.pdf">Are
+                                    Crossings Important for Drawing Large Graphs?</a></div>
+                            <div class="authors">Stephen Kobourov, Sergey Pupyrev, <span class="me">Bahador
+                                    Saket</span></div>
+                            <div class="venue">22nd International Symposium on Graph Drawing (GD) 2014</div><text
+                                class="supp"><a href="https://bahadorsaket.com/publication/crossings.pdf"> pdf
+                                </a></text>
+                        </div>
+                    </div>
+                    <div class="pub"><img class="thumbnail" src="thumbnails/taxonomy.png">
+                        <div class="pubInfo"><text class="type-tag"
+                                style="background-color: rgb(255, 127, 14); opacity: 0.5;">conference</text>
+                            <div class="title"><a href="https://bahadorsaket.com/publication/group_tax.pdf">Group-Level
+                                    Graph
+                                    Visualization Taxonomy</a></div>
+                            <div class="authors"><span class="me">Bahador Saket</span>, Paolo Simonetto, Stephen
+                                Kobourov</div>
+                            <div class="venue">16th International Conference on Eurographics Working Group on Data
+                                Visualization (EuroVis) 2014</div><text class="supp"><a
+                                    href="https://bahadorsaket.com/publication/group_tax.pdf"> pdf </a></text>
+                        </div>
+                    </div>
+                    <div class="pub"><img class="thumbnail" src="thumbnails/nlg.png">
+                        <div class="pubInfo"><text class="type-tag"
+                                style="background-color: rgb(255, 127, 14); opacity: 0.5;">conference</text>
+                            <div class="title"><a href="https://bahadorsaket.com/publication/nlg_diagrams.pdf">Node,
+                                    Node-Link, and Node-Link-Group Diagrams: An Evaluation</a></div>
+                            <div class="authors"><span class="me">Bahador Saket</span>, Paolo Simonetto, Stephen
+                                Kobourov, Katy Borner</div>
+                            <div class="venue">IEEE Transactions on Visualization and Computer Graphics (Also
+                                presented at InfoVis) 2014</div><text class="supp"><a
+                                    href="https://bahadorsaket.com/publication/nlg_diagrams.pdf"> pdf </a>| <a
+                                    href="https://www.youtube.com/watch?v=1qWDm-ksKQM"> Video</a> </text>
+                        </div>
+                    </div>
+                    <div class="pub"><img class="thumbnail" src="thumbnails/talkzone.png">
+                        <div class="pubInfo"><text class="type-tag"
+                                style="background-color: rgb(255, 127, 14); opacity: 0.5;">conference</text>
+                            <div class="title"><a
+                                    href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/mhci0285-saketA.pdf">TalkZones:
+                                    Section-based Time Support for Presentations</a></div>
+                            <div class="authors"><span class="me">Bahador Saket</span>, Sijie Yang, Hong Tan, Koji
+                                Yatani, Darren Edge<div class="award-text">Honorable Mention (top 5%)</div>
+                            </div>
+                            <div class="venue">16th International Conference on Human-Computer Interaction with
+                                Mobile Devices and Services (MobileHCI) 2014</div><text class="supp"><a
+                                    href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/mhci0285-saketA.pdf">
+                                    pdf </a>| <a href="https://www.youtube.com/watch?v=90MpLqvHJjw&amp;t=3s">
+                                    Video</a> </text>
+                        </div>
+                    </div>
+                </div>
+                <div class="typeGroup">
+                    <div class="pub"><img class="thumbnail" src="thumbnails/visual.png">
+                        <div class="pubInfo"><text class="type-tag"
+                                style="background-color: rgb(148, 103, 189); opacity: 0.5;">poster</text>
+                            <div class="title"><a
+                                    href="https://farshid.ws/pub/Traceband_Locating_Missing_Items_by_Visual_Remembrance.pdf">Traceband:
+                                    Locating Missing Items by Visual Remembrance</a></div>
+                            <div class="authors">Farshid Tavakolizadeh, Jiawei Gu, <span class="me">Bahador
+                                    Saket</span></div>
+                            <div class="venue">27th ACM User Interface Software and Technology Symposium (UIST) 2014
+                            </div><text class="supp"><a
+                                    href="https://farshid.ws/pub/Traceband_Locating_Missing_Items_by_Visual_Remembrance.pdf">
+                                    pdf </a>| <a href="https://www.youtube.com/watch?v=1qWDm-ksKQM"> Video</a>
+                            </text>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="yearGroup">
+                <h3>2013</h3>
+                <div class="typeGroup">
+                    <div class="pub"><img class="thumbnail" src="thumbnails/vibration.png">
+                        <div class="pubInfo"><text class="type-tag"
+                                style="background-color: rgb(255, 127, 14); opacity: 0.5;">conference</text>
+                            <div class="title"><a href="https://dl.acm.org/citation.cfm?id=2441946">Designing an
+                                    effective vibration-based notification interface for mobile phones</a></div>
+                            <div class="authors"><span class="me">Bahador Saket</span>, Chrisnawan Prasojo, Yongfeng
+                                Huang, Shengdong Zhao</div>
+                            <div class="venue">16 International Conference on Computer Supported Cooperative Work
+                                and Social Computing (CSCW) 2013</div><text class="supp"><a
+                                    href="https://dl.acm.org/citation.cfm?id=2441946"> pdf </a>| <a
+                                    href="https://www.youtube.com/watch?v=IUTQkS_7ZTs&amp;t=5s"> Video</a> </text>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!--Javascript-->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <script src="../../assets/js/main.js"></script>
+    <!---->
+</BODY>
+
+</HTML>

@@ -1,0 +1,744 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+		<title>MagicVis</title>
+		<meta name="description" content="Fullscreen Pageflip Layout with BookBlock" />
+		<meta name="keywords" content="fullscreen pageflip, booklet, layout, bookblock, jquery plugin, flipboard layout, sidebar menu" />
+		<meta name="author" content="Codrops" />
+		<link rel="shortcut icon" href="../favicon.ico"> 
+		<link rel="stylesheet" type="text/css" href="css/jquery.jscrollpane.custom.css" />
+		<link rel="stylesheet" type="text/css" href="css/bookblock.css" />
+		<link rel="stylesheet" type="text/css" href="css/custom.css" />
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" />
+		<script src="https://d3js.org/d3.v4.min.js"></script>
+		<script src="js/modernizr.custom.79639.js"></script>
+	</head>
+	<body>
+		<div id="container" class="container">	
+
+			<div class="bb-custom-wrapper">
+				<div id="bb-bookblock" class="bb-bookblock">
+					<div class="bb-item" id="story_title">
+						<div class="content">
+							<div class="scroller">
+								<h2>The Squirrel and Porcupine</h2>
+
+							</div>
+						</div>
+					</div>
+					<div class="bb-item" id="story1">
+						<div class="content">
+							<div class="scroller">
+								<section>
+									<div class="story">
+									    <div class="story_image"><img src="img/story_forest1.png"></div>
+									    <div class="story_text">Once upon a time in a forest far, far away, there lived a squirrel mommy and a porcupine daddy with little squirrel and porcupine children. Their house was a magical tree that had everything they need. In the hot summer days, the tree house provided a cool hiding place where the children could play hide and go seek. In the cold snowy days, it provided warmth where everyone could snuggle and sleep.</div>
+									</div>
+								</section>
+							</div>
+						</div>
+					</div>
+					<div class="bb-item" id="story2">
+						<div class="content">
+							<div class="scroller">
+								<section>
+									<div class="story_image"><img src="img/story_forest2.png"></div>
+									<div class="story">
+									    <div class="story_text">They were as happy as any porcupines and squirrels could be. One spring day, the children noticed that the winter snow started melting and the flowers started budding. Out of excitement, all the children rushed out the door before mommy squirrel and daddy porcupine could group the children. For you see, they were a big family, and in case anyone ever got lost, all the squirrel children went with mommy and all the porcupine children went with daddy.</div>
+									</div>
+								</section>
+							</div>
+						</div>
+					</div>
+					<div class="bb-item" id="story3">
+						<div class="content">
+							<div class="scroller">
+								<section>
+									<div class="story_image"><img src="img/story_forest3.png"></div>
+									<div class="story">
+									    <div class="story_text">Now the children were running all over the forest. Mommy squirrel and daddy porcupine were worried out of their minds! They forgot how many children they had. But one thing they knew for sure was one group was bigger than the other. Can you help them group the children?</div>
+									</div>
+								</section>
+							</div>
+						</div>
+					</div>
+					<div class="bb-item" id="init_canvas">
+						<div class="content">
+							<div class="scroller">
+								<!--<h2>The Squirrel and Porcupine</h2>-->
+								<div class="glyphs_title"> Are there more squirrels or porcupines?</div>
+								<div align="center" style="margin-top:1em;">
+									<div style="float: left; width: 24%; margin-right: 1%; margin-bottom: 0.5em;">
+										<div align="center" style="width:50%;margin-left:30%">
+											<div style="width:50%; position: absolute;left:550px;top:200px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>
+											<div id="p1" style="width:50%; position: absolute;left:60px;top:200px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>
+											<div id="p2" style="width:50%; position: absolute;left:500px;top:100px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>
+											<div id="p3" style="width:50%; position: absolute;left:300px;top:150px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>
+											<div id="p4" style="width:50%; position: absolute;left:70px;top:550px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>
+											<div id="p5" style="width:50%; position: absolute;left:10px;top:300px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>
+											<div id="p6" style="width:50%; position: absolute;left:500px;top:355px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>
+											<div id="p7" style="width:50%; position: absolute;left:250px;top:400px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>
+											<div id="p8" style="width:50%; position: absolute;left:400px;top:400px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>
+											<div id="p9" style="width:50%; position: absolute;left:500px;top:500px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>
+										</div>
+									</div>
+									<div style="float: left; width: 24%; margin-right: 0%; margin-bottom: 0.5em;">
+										<div align="center" style="width:50%;margin-right:30%">
+											<div id="s1" style="width:50%; position: absolute;left:-30px;top:100px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>
+											<div id="s2" style="width:50%; position: absolute;left:200px;top:260px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>
+											<div id="s3" style="width:50%; position: absolute;left:400px;top:250px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>
+											<div id="s4" style="width:50%; position: absolute;left:-100px;top:200px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>
+											<div id="s5" style="width:50%; position: absolute;left:10px;top:400px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>
+											<div id="s6" style="width:50%; position: absolute;left:750px;top:200px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>
+											<div id="s7" style="width:50%; position: absolute;left:700px;top:500px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>
+										</div>
+									</div>
+								</div>
+								<!--<svg id="canvas" width="100%" height="100%" >-->
+									<!--&lt;!&ndash;text x="0" y="15" fill="white">TODO: use JS to add glyphs to the screen</text&ndash;&gt;-->
+									<!---->
+								<!--</svg>-->
+								<!-- red background temporary just to show the canvas -->
+							</div>
+						</div>
+					</div>
+					<div class="bb-item" id="vote1">
+						<div class="content">
+							<div class="scroller">
+								<!--TODO: center buttons, replace with images, add counters-->
+								<div class="glyphs_title">Are there more squirrels or porcupines?</div>
+                                <div align="center" style="margin-top:1em;">
+                                    <div style="float: left; width: 48%; margin-right: 1%; margin-bottom: 0.5em;">
+                                        <div align="center" style="width:50%;margin-left:30%">
+                                            <div align="center" style="width:100%;border:solid grey;border-radius:25px" onclick="update(true)">
+                                                <img src="img/story_forest_porcupine.png" style="width:70%;">
+                                            </div>
+                                            <p style="text-align:center;font-size:40px;" id="countL"></p>
+                                        </div>
+                                    </div>
+                                    <div style="float: left; width: 48%; margin-right: 0%; margin-bottom: 0.5em;">
+                                        <div align="center" style="width:50%;margin-right:30%">
+                                            <div align="center" style="width:100%;border:solid grey;border-radius:25px" onclick="update(false)">
+                                                <img src="img/story_forest_squirrel.png" style="width:70%;">
+                                            </div>
+                                            <p style="text-align:center;font-size:40px;" id="countR"></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <script type="text/javascript">
+                                    var cntL = 0;
+                                    var cntR = 0;
+                                    window.onload = function setup(){
+                                        document.getElementById('countL').innerHTML = cntL;
+                                        document.getElementById('countR').innerHTML = cntR;
+                                    };
+                                    function update(isLeft) {
+                                        if (isLeft) {
+                                            cntL += 1;
+                                        } else {
+                                            cntR += 1;
+                                        }
+                                        document.getElementById('countL').innerHTML = cntL;
+                                        document.getElementById('countR').innerHTML = cntR;
+                                    }
+                                </script>
+							</div>
+						</div>
+					</div>
+					<div class="bb-item" id="separate_canvas">
+						<div class="content">
+							<div class="scroller">
+								<!--<h2>The Squirrel and Porcupine</h2>-->
+								<!--<div class="glyphs_title"> <- Move Squirrels here                	 Move Porcupine here-></div>-->
+								<div class="glyphs_title"> &#8592; Move Porcupines here &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Move Squirrels here &#8594;</div>
+								<!--<div id="left" style="width:50%;float:left;background:green;">.</div>
+								<div id="right" style="margin-left:50%;border-left:solid 1px black;background:red;">.</div>-->
+                                    <div align="center" style="margin-top:1em;">
+									<div style="float: left; width: 24%; margin-right: 1%; margin-bottom: 0.5em;">
+										<div align="center" style="width:50%;margin-left:30%">
+											<div id="draggable1"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:570px;top:200px" onclick="update(true)" class="dragme">
+												<img src="img/smallporc.png" class="dragme">
+											</div>
+											<div id="draggable2"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:80px;top:200px" onclick="update(true)" class="dragme">
+												<img src="img/smallporc.png" class="dragme">
+											</div>
+											<div id="draggable3"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:520px;top:100px" onclick="update(true)" class="dragme">
+												<img src="img/smallporc.png" class="dragme">
+											</div>
+											<div id="draggable4"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:320px;top:150px" onclick="update(true)" class="dragme">
+												<img src="img/smallporc.png" class="dragme">
+											</div>
+											<div id="draggable5"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:90px;top:490px" onclick="update(true)" class="dragme">
+												<img src="img/smallporc.png" class="dragme">
+											</div>
+											<div id="draggable6"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:30px;top:300px" onclick="update(true)" class="dragme">
+												<img src="img/smallporc.png" class="dragme">
+											</div>
+											<div id="draggable7"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:520px;top:355px" onclick="update(true)" class="dragme">
+												<img src="img/smallporc.png" class="dragme">
+											</div>
+											<div id="draggable8"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:270px;top:400px" onclick="update(true)" class="dragme">
+												<img src="img/smallporc.png" class="dragme">
+											</div>
+											<div id="draggable9"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:420px;top:400px" onclick="update(true)" class="dragme">
+												<img src="img/smallporc.png" class="dragme">
+											</div>
+											<div id="draggable10"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:520px;top:480px" onclick="update(true)" class="dragme">
+												<img src="img/smallporc.png" class="dragme">
+											</div>
+
+
+											<!-- <div  style="width:50%; position: absolute;left:60px;top:200px" onclick="update(true)"> 
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div> DONE
+											<div  style="width:50%; position: absolute;left:500px;top:100px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div> DONE
+											<div  style="width:50%; position: absolute;left:300px;top:150px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div> DONE
+											<div  style="width:50%; position: absolute;left:70px;top:550px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div> DONE
+											<div  style="width:50%; position: absolute;left:10px;top:300px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div> DONE
+											<div  style="width:50%; position: absolute;left:500px;top:355px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div> DONE
+											<div  style="width:50%; position: absolute;left:250px;top:400px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div> DONE
+											<div  style="width:50%; position: absolute;left:400px;top:400px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div> DONE
+											<div  style="width:50%; position: absolute;left:500px;top:500px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>  DONE-->
+										</div>
+									</div>
+									<div style="float: left; width: 24%; margin-right: 0%; margin-bottom: 0.5em;">
+										<div align="center" style="width:50%;margin-right:30%">
+											<div id="draggable11"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:40px;top:100px" onclick="update(true)" class="dragme">
+												<img src="img/smallsquirrel.png" class="dragme">
+											</div>
+											<div id="draggable12"  style="border:solid grey;border-radius:25px; width:13%; position: absolute; left:220px;top:290px" onclick="update(true)" class="dragme">
+												<img src="img/smallsquirrel.png" class="dragme">
+											</div>
+											<div id="draggable13"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:420px;top:250px" onclick="update(true)" class="dragme">
+												<img src="img/smallsquirrel.png" class="dragme">
+											</div>
+											<div id="draggable14"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:220px;top:200px" onclick="update(true)" class="dragme">
+												<img src="img/smallsquirrel.png" class="dragme">
+											</div>
+											<div id="draggable15"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:30px;top:400px" onclick="update(true)" class="dragme">
+												<img src="img/smallsquirrel.png" class="dragme">
+											</div>
+											<div id="draggable16"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:770px;top:200px" onclick="update(true)" class="dragme">
+												<img src="img/smallsquirrel.png" class="dragme">
+											</div>
+											<div id="draggable17"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:720px;top:500px" onclick="update(true)" class="dragme">
+												<img src="img/smallsquirrel.png" class="dragme">
+											</div>
+
+											<!-- <div  style="width:50%; position: absolute;left:-30px;top:100px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div> DONE
+											<div  style="width:50%; position: absolute;left:200px;top:260px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>DONE
+											<div  style="width:50%; position: absolute;left:400px;top:250px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div> DONE
+											<div  style="width:50%; position: absolute;left:-100px;top:200px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>DONE
+											<div  style="width:50%; position: absolute;left:10px;top:400px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div> DONE
+											<div  style="width:50%; position: absolute;left:750px;top:200px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div> DONE
+											<div  style="width:50%; position: absolute;left:700px;top:500px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div> DONE-->
+										</div>
+									</div>
+								</div>
+								<!--<svg id="canvas" width="100%" height="100%" style="background-color: red;">-->
+									<!--<text x="0" y="15" fill="white">TODO: populate this with the contents of the init_canvas div, then use JS to add drag interaction, middle divider, etc.</text>-->
+								<!--</svg>-->
+								<!-- red background temporary just to show the canvas -->
+							</div>
+							<script>
+								function startDrag(e) {
+									// determine event object
+									if (!e) {
+										var e = window.event;
+									}
+					                if(e.preventDefault) e.preventDefault();
+
+									// IE uses srcElement, others use target
+									targ = e.target ? e.target : e.srcElement;
+
+									if (targ.className != 'dragme') {return};
+									// calculate event X, Y coordinates
+										offsetX = e.clientX;
+										offsetY = e.clientY;
+
+									// assign default values for top and left properties
+									if(!targ.style.left) { targ.style.left='0px'};
+									if (!targ.style.top) { targ.style.top='0px'};
+
+									// calculate integer values for top and left 
+									// properties
+									coordX = parseInt(targ.style.left);
+									coordY = parseInt(targ.style.top);
+									drag = targ;
+									targ.style['pointer-events'] = 'none';
+
+									// move div element
+										document.onmousemove=dragDiv;
+					                return false;
+									
+								}
+								function dragDiv(e) {
+									if (!drag) {return};
+									if (!e) { var e= window.event};
+									// var targ=e.target?e.target:e.srcElement;
+									// move div element
+									drag.style.left=coordX+e.clientX-offsetX+'px';
+									drag.style.top=coordY+e.clientY-offsetY+'px';
+									return false;
+								}
+								function stopDrag() {
+									if (!drag) return;
+									drag.style['pointer-events'] = 'auto';
+									drag = undefined;
+								}
+								window.onload = function() {
+									document.onmousedown = startDrag;
+									document.onmouseup = stopDrag;
+								}
+
+
+							</script>
+						</div>
+					</div>
+					<div class="bb-item" id="bar_canvas">
+						<div class="content">
+							<div class="scroller">
+								<!--<h2>The Squirrel and Porcupine</h2>-->
+								<div class="glyphs_title"> &#8592; Move Porcupines here &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Move Squirrels here &#8594;</div>
+								<!--<div  style="width:50%;float:left;background:green;">.</div>
+								<div  style="margin-left:50%;border-left:solid 1px black;background:red;">.</div>-->
+                            <div align="center" style="margin-top:1em;">
+							<div align="center" style="margin-top:1em;">
+									<div style="float: left; width: 24%; margin-right: 1%; margin-bottom: 0.5em;">
+										<div align="center" style="width:50%;margin-left:30%">
+											<div style="width:50%; position: absolute;left:-150px;top:100px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>
+											<div  style="width:50%; position: absolute;left:0px;top:150px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>
+											<div  style="width:50%; position: absolute;left:150px;top:100px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>
+											<div  style="width:50%; position: absolute;left:-150px;top:250px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>
+											<div  style="width:50%; position: absolute;left:0px;top:300px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>
+											<div  style="width:50%; position: absolute;left:150px;top:250px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>
+											<div  style="width:50%; position: absolute;left:-150px;top:350px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>
+											<div  style="width:50%; position: absolute;left:0px;top:400px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>
+											<div  style="width:50%; position: absolute;left:150px;top:350px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>
+											<div  style="width:50%; position: absolute;left:0px;top:400px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>
+										</div>
+									</div>
+									<div style="float: left; width: 24%; margin-right: 0%; margin-bottom: 0.5em;">
+										<div align="center" style="width:50%;margin-right:30%">
+											<div  style="width:50%; position: absolute;left:400px;top:100px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>
+											<div  style="width:50%; position: absolute;left:550px;top:150px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>
+											<div  style="width:50%; position: absolute;left:700px;top:100px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>
+											<div  style="width:50%; position: absolute;left:400px;top:250px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>
+											<div  style="width:50%; position: absolute;left:550px;top:300px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>
+											<div  style="width:50%; position: absolute;left:700px;top:250px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>
+											<div  style="width:50%; position: absolute;left:550px;top:400px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>
+										</div>
+									</div>
+								</div>
+								<!--<svg id="canvas" width="100%" height="100%" style="background-color: red;">-->
+									<!--<text x="0" y="15" fill="white">TODO: populate this with the contents of the separate_canvas div, then use JS to animate moving points to the extremities, add drag and drop bar interaction, etc.</text>-->
+								<!--</svg>-->
+								<!-- red background temporary just to show the canvas -->
+							</div>
+						</div>
+					</div>
+				</div>
+					<div class="bb-item" id="vote2">
+						<div class="content">
+							<div class="scroller">
+								<div style="float: left; width: 24%; margin-right: 1%; margin-bottom: 0.5em;">
+										<div align="center" style="width:50%;margin-left:30%">
+											<div data-type='porcupine' id="draggable1"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:0px;top:50px" onclick="update(true)" class="dragme">
+												<img src="img/smallporc.png" class="dragme">
+											</div>
+											<div data-type='porcupine' id="draggable2"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:0px;top:150px" onclick="update(true)" class="dragme">
+												<img src="img/smallporc.png" class="dragme">
+											</div>
+											<div data-type='porcupine' id="draggable3"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:0px;top:250px" onclick="update(true)" class="dragme">
+												<img src="img/smallporc.png" class="dragme">
+											</div>
+											<div data-type='porcupine' id="draggable4"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:0px;top:350px" onclick="update(true)" class="dragme">
+												<img src="img/smallporc.png" class="dragme">
+											</div>
+											<div data-type='porcupine' id="draggable5"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:0px;top:450px" onclick="update(true)" class="dragme">
+												<img src="img/smallporc.png" class="dragme">
+											</div>
+											<div data-type='porcupine' id="draggable6"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:150px;top:50px" onclick="update(true)" class="dragme">
+												<img src="img/smallporc.png" class="dragme">
+											</div>
+											<div data-type='porcupine' id="draggable7"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:150px;top:150px" onclick="update(true)" class="dragme">
+												<img src="img/smallporc.png" class="dragme">
+											</div>
+											<div data-type='porcupine' id="draggable8"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:150px;top:250px" onclick="update(true)" class="dragme">
+												<img src="img/smallporc.png" class="dragme">
+											</div>
+											<div data-type='porcupine' id="draggable9"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:150px;top:350px" onclick="update(true)" class="dragme">
+												<img src="img/smallporc.png" class="dragme">
+											</div>
+											<div data-type='porcupine' id="draggable10"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:150px;top:450px" onclick="update(true)" class="dragme">
+												<img src="img/smallporc.png" class="dragme">
+											</div>
+
+								<!--<h2>The Squirrel and Porcupine</h2>-->
+								<!-- TODO: center buttons, replace with images, add counters -->
+								<!--<input type="button" value="Vote Option 1">
+								<input type="button" value="Vote Option 2">-->
+<!-- 								<div style="float: left; width: 24%; margin-right: 1%; margin-bottom: 0.5em;">
+										<div align="center" style="width:50%;margin-left:30%">
+											<div style="width:50%; position: absolute;left:-150px;top:100px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div> DONE
+											<div  style="width:50%; position: absolute;left:0px;top:150px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div> DONE
+											<div  style="width:50%; position: absolute;left:150px;top:100px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div> DONE
+											<div  style="width:50%; position: absolute;left:-150px;top:250px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div> dONE
+											<div  style="width:50%; position: absolute;left:0px;top:300px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>DONE
+											<div  style="width:50%; position: absolute;left:150px;top:250px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div> DONE
+											<div  style="width:50%; position: absolute;left:-150px;top:350px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>DONE
+											<div  style="width:50%; position: absolute;left:0px;top:400px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div> DONE
+											<div  style="width:50%; position: absolute;left:150px;top:350px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div>DONE
+											<div  style="width:50%; position: absolute;left:0px;top:400px" onclick="update(true)">
+												<img src="img/story_forest_porcupine.png" style="width:15%;">
+											</div> DONE
+										</div>
+									</div>
+									<div style="float: left; width: 24%; margin-right: 0%; margin-bottom: 0.5em;">
+										<div align="center" style="width:50%;margin-right:30%">
+											<div  style="width:50%; position: absolute;left:400px;top:100px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>
+											<div  style="width:50%; position: absolute;left:550px;top:150px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>
+											<div  style="width:50%; position: absolute;left:700px;top:100px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>
+											<div  style="width:50%; position: absolute;left:400px;top:250px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>
+											<div  style="width:50%; position: absolute;left:550px;top:300px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>
+											<div  style="width:50%; position: absolute;left:700px;top:250px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>
+											<div  style="width:50%; position: absolute;left:550px;top:400px" onclick="update(false)">
+												<img src="img/story_forest_squirrel.png" style="width:15%;">
+											</div>
+										</div>
+									</div> -->
+							</div>
+							</div>
+							<div style="float: left; width: 24%; margin-right: 0%; margin-bottom: 0.5em;">
+							    <div align="center" style="width:50%;margin-right:30%">
+									<div data-type='squirrel' id="draggable11"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:750px;top:50px" onclick="update(true)" class="dragme">
+										<img src="img/smallsquirrel.png" class="dragme">
+									</div>
+									<div data-type='squirrel' id="draggable12"  style="border:solid grey;border-radius:25px; width:13%; position: absolute; left:750px;top:150px" onclick="update(true)" class="dragme">
+										<img src="img/smallsquirrel.png" class="dragme">
+									</div>
+									<div data-type='squirrel' id="draggable13"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:750px;top:250px" onclick="update(true)" class="dragme">
+										<img src="img/smallsquirrel.png" class="dragme">
+									</div>
+									<div data-type='squirrel' id="draggable14"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:750px;top:350px" onclick="update(true)" class="dragme">
+										<img src="img/smallsquirrel.png" class="dragme">
+								    </div>
+									<div data-type='squirrel' id="draggable15"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:750px;top:450px" onclick="update(true)" class="dragme">
+										<img src="img/smallsquirrel.png" class="dragme">
+									</div>
+									<div data-type='squirrel' id="draggable16"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:900px;top:50px" onclick="update(true)" class="dragme">
+										<img src="img/smallsquirrel.png" class="dragme">
+									</div>
+									<div data-type='squirrel' id="draggable17"  style="border:solid grey;border-radius:25px; width:13%; position: absolute;left:900px;top:150px" onclick="update(true)" class="dragme">
+										<img src="img/smallsquirrel.png" class="dragme">
+									</div>
+								</div>
+							</div>
+							<div style="font-size:1.7em;left:320px;top:20px;position:absolute;">Let's stack them on top of each other</div>
+						</div>
+					</div>
+				</div>
+				
+					<div class="bb-item" id="final_bar_canvas">
+						<div class="content">
+							<div class="scroller">
+								<div style="font-size:2em;left:320px;top:20px;position:absolute">This is called a BAR CHART!</div>
+							</div>
+						</div>
+
+					</div>
+					<div class="bb-item" id="story_end">
+						<div class="content">
+							<div class="scroller">
+								<section>
+									<div class="story_image"><img src="img/story_forest4.png"></div>
+									<div class="story">
+									    <div class="story_text">Hooray! You helped group all the children together! Now they can go on their way and enjoy the beautiful day!</div>
+									</div>
+								</section>
+							</div>
+						</div>
+					</div>
+				</div>
+				
+				<nav>
+					<span id="bb-nav-prev">&larr;</span>
+					<span id="bb-nav-next">&rarr;</span>
+				</nav>
+
+			</div>
+				
+		</div><!-- /container -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+		<script src="js/jquery.mousewheel.js"></script>
+		<script src="js/jquery.jscrollpane.min.js"></script>
+		<script src="js/jquerypp.custom.js"></script>
+		<script src="js/jquery.bookblock.js"></script>
+		<script src="js/page.js"></script>
+		<script>
+			$(function() {
+
+				Page.init();
+
+			});
+		</script>
+
+		<script>
+			(function(){
+				var h = 450;
+				var w = 400;
+				var mar = {l: 40, t: 40, r: 40, b: 40}
+
+				/*
+								plot the stacked bar charts on page 'vote2' 
+				*/
+
+				var stackDiv = d3.select('#vote2')
+					.append('div')
+					.style('position', 'absolute').style('top', '150px').style('left', '320px')
+					.style('border', '2px solid grey').style('border-radius', '10px');
+				stackDiv.append('div').style('text-align', 'center').style('font-size','x-large').text('Drag the children here!');
+				var stackSvg = stackDiv.append('svg')
+					.attr('width', w).attr('height', h);
+				var plot = stackSvg.append('g').attr('transform', 'translate(' + mar.l + ',' + mar.t + ')');
+					
+					
+				var xScale = d3.scaleBand().domain(['porcupine', 'squirrel']).range([0, w - mar.l - mar.r])
+					.paddingInner(0.2).paddingOuter(0.3);
+				var yScale = d3.scaleBand().domain([1,2,3,4,5,6,7,8,9,10]).range([h - mar.t - mar.b, 0])
+					.paddingInner(0.02);		
+				plot.append('g').classed('axis', true).call(d3.axisBottom(xScale)).attr('transform', 'translate(0,' + (h - mar.b - mar.t) + ')');
+				plot.append('g').classed('axis', true).call(d3.axisLeft(yScale));
+				
+				var colors = {'porcupine': 'rgba(86, 85, 84, 0.8)', 'squirrel': 'rgba(239, 190, 147, 0.8)'}
+
+				var data = [];
+				var counts = {
+					'porcupine': 0,
+					'squirrel': 0,
+				};
+
+				stackSvg.on('mouseenter', function() {
+					if (drag) {
+						stackDiv.style('background-color', 'rgba(255, 255, 0, 0.2)');
+					}
+				})
+				.on('mouseleave', function() {
+					if (drag) {
+						stackDiv.style('background-color', undefined);
+					}
+				})
+				.on('mouseup', function() {
+					console.log('svgup')
+					if (drag) {
+						stackDiv.style('background-color', undefined);
+						
+						var type = drag.getAttribute('data-type');
+						var count = ++counts[type];
+						data.push({type, count});
+						d3.select(drag).remove();
+						
+						var newBars = plot.selectAll('.smallbar')
+							.data(data)
+							.enter()
+							.append('g')
+							.classed('smallbar', true)
+							.attr('transform', function(d) { return 'translate(' + xScale(d.type) + ',' + yScale(d.count) + ')'; });
+						
+						newBars.append('rect')
+							.attr('width', xScale.bandwidth())
+							.attr('height', yScale.bandwidth())
+							.attr('fill', function(d) { return colors[d.type]});
+						newBars.append('image')
+							.attr('href', function(d) { return 'img/small' + d.type + '.png'; } )
+							.attr('x', 20)
+							.attr('y',5)
+							.attr('width', 22)
+							.attr('height', 30);
+						newBars.append('text')
+							.attr('x', 50)
+							.attr('y', 25)
+							.text(function(d) { return '#' + d.count; });
+					}
+				});
+
+
+
+				/*
+						plot the bar chart on page 'final_bar_canvas'
+				*/
+
+				var finalBarDiv = d3.select('#final_bar_canvas')
+					.append('div')
+					.style('position', 'absolute').style('top', '150px').style('left', '320px')
+					.style('border', '2px solid grey').style('border-radius', '10px');
+				var finalBarSvg	= finalBarDiv.append('svg')
+					.attr('width', w).attr('height', h);
+				
+				var finalBarPlot = finalBarSvg.append('g').attr('transform', 'translate(' + mar.l + ',' + mar.t + ')');
+
+				var yScaleFinal = d3.scaleLinear().domain([0, 10]).range([h - mar.t - mar.b, 0]);
+				finalBarPlot.append('g').classed('axis', true).call(d3.axisBottom(xScale)).attr('transform', 'translate(0,' + (h - mar.b - mar.t) + ')');
+				finalBarPlot.append('g').classed('axis', true).call(d3.axisLeft(yScaleFinal));
+
+				var totalData = [{type: 'porcupine', total: 10}, {type: 'squirrel', total: 7}];
+
+				var newBars = finalBarPlot.selectAll('.smallbar')
+					.data(totalData)
+					.enter()
+					.append('g')
+					.classed('smallbar', true)
+					.attr('transform', function(d) { return 'translate(' + xScale(d.type) + ',' + yScaleFinal(d.total) + ')'; });
+				
+				newBars.append('rect')
+					.attr('width', xScale.bandwidth())
+					.attr('height', function(d) { return h - mar.b - mar.t - yScaleFinal(d.total); })
+					.attr('fill', function(d) { return colors[d.type]});
+
+				newBars.append('image')
+					.attr('href', function(d) { return 'img/small' + d.type + '.png'; } )
+					.attr('x', 20)
+					.attr('y', 5)
+					.attr('width', 22)
+					.attr('height', 30);
+				newBars.append('text')
+					.attr('x', 50)
+					.attr('y', 25)
+					.text(function(d) { return 'x ' + d.total; });
+
+			})();
+		</script>
+
+	</body>
+</html>

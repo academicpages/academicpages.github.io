@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<meta name="title" content="Web-GMap">
+		<meta name="keywords" content="network, network visualization, graph drawing, graph visualization, map, gmap, generator, graphviz, online">
+		<link type="image/ico" rel="shortcut icon" href="/static//img/favicon.ico" />
+                                <link href="bootstrap.css" rel="stylesheet">
+                                <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+		<script type="text/javascript" src="jQuery.js"></script>
+    <script type="text/javascript" src="d3/d3.js"></script>
+    <link rel="stylesheet" type="text/css" href="style.css">  
+    <script src="svg-pan-zoom-2.3.x/dist/svg-pan-zoom.min.js" charset="utf-8"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script type='text/javascript' src='cytoscape/build/cytoscape.min.js'></script>
+    <script type='text/javascript' src='build-graph.js'></script>
+    <script type='text/javascript' src='graph-lib.js'></script>
+    <script type='text/javascript' src='controls.js'></script>
+    <script type='text/javascript' src='util.js'></script>
+    <script type='text/javascript' src='statistics.js'></script>
+    <meta charset="UTF-8"/>
+  <script>
+      // Don't use window.onLoad like this in production, because it can only listen to one function.
+     window.onload = function() {
+        svgPanZoom('#panzoomthis', {
+          zoomEnabled: true,
+          panEnabled:true,
+          controlIconsEnabled: true,
+          dblClickZoomEnabled: false,
+          beforeZoom: brush_beforeZoom,
+          onZoom: brush_onZoom,
+          onPan: brush_onZoom
+        });
+      };
+    </script>
+    </head>
+
+    <body>
+		
+                                  <div id="svgdiv"></div>
+
+       <div id="container">
+	   <div class="one">
+            <a href="javascript:selectAction('pan');" style="text-decoration:none"><span class="font">[Pan]</span></a> 
+            <a href="javascript:selectAction('select');" style="text-decoration:none"><span class="font">[Select]</span></a> 
+            <a href="javascript:highlight_shortest_paths();" style="text-decoration:none"><span class="font">[Shortest Path]</span></a> 
+            <a href="javascript:clear();" style="text-decoration:none"><span class="font">[Clear]</span></a> 
+            <br\>
+            <form>
+                <input id="query" type="query" size="22" value="query" style="float:left" onKeyPress='if (event.which==13) return false;' />
+                <input id="search" onclick='Query()' type='button' value="Search" style="float:right">
+            </form>       
+       </div> 
+       <div class="two font">
+         <svg height=100% width=100%></svg>
+       </div> 
+    </div> 
+  <script>
+    var main_chart_svg = d3.select("#svgdiv");
+    
+    // read the SVG
+    d3.text("a4.svg", function(error, externalSVGText) {if (error) {console.log(error); return;}
+    // remove the object containing the first SVG
+    d3.select("#alphasvg").remove();
+    
+    var browserWidth = window.innerWidth;
+    var browserHeight = window.innerHeight;
+    //Load the manipulated SVG
+    d3.select("svg").style("height", browserHeight + "px" ).attr("id", "panzoomthis" ).attr("class","base");
+
+    }); 
+  </script>
+
+</form>
+</div>
+</body>
+</html>
+

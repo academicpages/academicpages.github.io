@@ -1,0 +1,71 @@
+.d3-tip {
+    line-height: 1;
+    font-weight: bold;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    border-radius: 2px;
+}
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+    box-sizing: border-box;
+    display: inline;
+    font-size: 10px;
+    width: 100%;
+    line-height: 1;
+    color: rgba(0, 0, 0, 0.8);
+    content: "\25BC";
+    position: absolute;
+    text-align: center;
+}
+
+/* Style northward tooltips differently */
+.d3-tip.n:after {
+    margin: -1px 0 0 0;
+    top: 100%;
+    left: 0;
+}
+
+.slice text {
+            font-size: 16pt;
+            font-family: Arial;
+        }
+
+ .question {
+    margin-left: auto;
+    margin-right: auto;
+    width:90%; /*   WIDTH OF QUESTIONS' CONTAINER, IMAGES WILL FIT TO THIS CONTAINER AS WELL  */
+    height:auto;
+
+    border: 1px solid #ccc;
+    padding: 5px 5px 30px 5px;
+    background-color: #f3f3f3;
+    font-family:verdana;
+}
+
+.svg-center{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.Table-center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.p-center{
+
+    text-align: center;
+}
+.legend{
+      margin-left: auto;
+    display: block;
+
+}
+
+.select-center{
+
+    float: center;
+}

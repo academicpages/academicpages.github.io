@@ -1,0 +1,818 @@
+
+<html>
+<head>
+
+</head>
+<body>
+
+  <div class='question instruction' id="1">
+    <h3> <font color="red">NOTE:</font> To ensure best performance, we suggest you to run the study in full screen mode. Kindly DO NOT refresh the page during the session. </h3>
+    During the training session, you will be asked to go through 5 questions. Please try to use the given charts to answer these questions as accurately as possible. Press <b>"Start Training Session"</b> when you are ready to start.<br /><br />
+    <input type="submit" value="Start Training Session" onclick="showNextQ()" /> <br />
+  </div>
+
+  <div class='question' id="2">
+    The following chart shows the average <b>Highway Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>. Which type of car appears to have an abnormal value of Highway Miles Per Gallon?<br />
+    <input type="radio" name="answer" value="Wrong" /> Sedan<br />
+    <input type="radio" name="answer" value="Correct" /> SUV<br />
+    <input type="radio" name="answer" value="Wrong" /> Sports Car<br />
+    <input type="radio" name="answer" value="Wrong" /> Minivan<br />
+    <p id="Answer"></p>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="3">
+    The following chart shows the average <b>Retail Price</b> for cars with different numbers of <b>Cylinders (e.g. 3 Cylinders and 4 Cylinders)</b> (a legend is on the right side). Cars with which number of Cylinders appears to be abnormal?<br />
+    <input type="radio" name="answer" value="Wrong" /> 8<br />
+    <input type="radio" name="answer" value="Correct" /> 0 <br />
+    <input type="radio" name="answer" value="Wrong" /> 6 <br />
+    <input type="radio" name="answer" value="Wrong" /> 4 <br />
+    <p id="Answer"></p>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div style="width:50%;  display: inline-block;" id='vis'> </div>
+    <div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+  </div>
+
+  <div class='question' id="4">
+    The following chart shows the average <b>Highway Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>. Which type of car appears to have an abnormal value of Highway Miles Per Gallon?<br />
+    <input type="radio" name="answer" value="Wrong" /> Wagon<br />
+    <input type="radio" name="answer" value="Wrong" /> Sedan<br />
+    <input type="radio" name="answer" value="Correct" /> SUV<br />
+    <input type="radio" name="answer" value="Wrong" /> Minivan<br />
+    <p id="Answer"></p>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="5">
+    The following chart shows the average <b>Weight</b> for cars with different <b>Widths</b>. Which car Width apears to be abnormal?<br />
+    <input type="radio" name="answer" value="Correct" /> 0<br />
+    <input type="radio" name="answer" value="Wrong" /> 65<br />
+    <input type="radio" name="answer" value="Wrong" /> 80<br />
+    <input type="radio" name="answer" value="Wrong" /> 50<br />
+
+    <p id="Answer"></p>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="6">
+    The following chart shows the average <b>Highway Miles Per Gallon</b> for cars with different numbers of <b>Cylinders (e.g. 3 Cylinders and 4 Cylinders)</b>. Cars with which number of Cylinders appears to be abnormal?<br />
+    <input type="radio" name="answer" value="Wrong" /> 6<br />
+    <input type="radio" name="answer" value="Correct" /> 0 <br />
+    <input type="radio" name="answer" value="Wrong" /> 4 <br />
+    <input type="radio" name="answer" value="Wrong" /> 8<br />
+    <p id="Answer"></p>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question instruction' id="7">
+    <p>Thank You. You completed the Trial Session.</p>
+    Now is the time to start the main experiment. Similar to the trial session, in the main experiment you will be asked to complete about 20 questions. However, in the main experiment once a question is submitted it cannot be changed or reviewed. You will not receive any feedback to show the correctness of answers during this session. So, please answer the questions <b>as accurate as possible</b> and press "Submit" button only when you are sure about your answer. Press <b>"Start"</b> when you are ready to start the main experiment.<br /><br />
+    <input type="submit" value="Start" onclick="showNextQ()" /> <br />
+  </div>
+
+  <div class='question' id="8">
+     The following chart shows the average <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>.
+    Which type of car appears to have an abnormal value of City Miles Per Gallon?<br />
+    <input type="radio" name="answer" value="Wrong" /> Sedan<br />
+    <input type="radio" name="answer" value="Wrong" /> SUV<br />
+    <input type="radio" name="answer" value="Wrong" /> Minivan<br />
+    <input type="radio" name="answer" value="Correct" /> Wagon<br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+  <div class='question' id="9">
+     The following chart shows the average <b>Weight</b> for cars with different numbers of <b>Cylinders (e.g. 3 Cylinders and 4 Cylinders)</b>. Cars with which number of Cylinders appears to be abnormal?
+    <br />
+    <input type="radio" name="answer" value="Wrong" /> 12<br />
+    <input type="radio" name="answer" value="Wrong" /> 8<br />
+    <input type="radio" name="answer" value="Wrong" /> 1850<br />
+    <input type="radio" name="answer" value="Correct" /> 0 <br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div style="width:50%;  display: inline-block;" id='vis'> </div>
+    <div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+  </div>
+
+  <div class='question' id="10">
+     The following chart shows the average <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>. Which type of car appears to have an abnormal value of City Miles Per Gallon?<br />
+    <input type="radio" name="answer" value="Correct" /> Wagon<br />
+    <input type="radio" name="answer" value="Wrong" /> SUV<br />
+    <input type="radio" name="answer" value="Wrong" /> Sedan<br />
+    <input type="radio" name="answer" value="Wrong" /> Sports Car<br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="11">
+     The following chart shows the average <b>Dealer Cost</b> for cars with different <b>Wheel Bases</b>. Which Wheel Base appears to have an abnormal value of Dealer Cost?<br />
+    <input type="radio" name="answer" value="Correct" /> 122 <br />
+    <input type="radio" name="answer" value="Wrong" /> 80 <br />
+    <input type="radio" name="answer" value="Wrong" /> 110<br />
+    <input type="radio" name="answer" value="Wrong" /> 90<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="12">
+     The following chart shows the average <b>Engine Size</b> for cars with different numbers of <b>Cylinders (e.g. 3 Cylinders and 4 Cylinders)</b>. Which Cylinder appears to have an abnormal value of Engine Size?<br />
+    <input type="radio" name="answer" value="Wrong" /> 3<br />
+    <input type="radio" name="answer" value="Correct" /> 4<br />
+    <input type="radio" name="answer" value="Wrong" /> 6<br />
+    <input type="radio" name="answer" value="Wrong" /> 9<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="13">
+     The following chart shows the average <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>.
+    Please select True. <br />
+    <input type="radio" name="answer" value="Wrong" /> False<br />
+    <input type="radio" name="answer" value="Correct" /> True<br/><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="14">
+     The following chart shows the average <b>Horsepower (HP)</b> for cars with different <b>Widths</b>. Which car Width appears to be abnormal?<br />
+    <input type="radio" name="answer" value="Correct" /> 2<br />
+    <input type="radio" name="answer" value="Wrong" /> 60<br />
+    <input type="radio" name="answer" value="Wrong" /> 50<br />
+    <input type="radio" name="answer" value="Wrong" /> 75<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="15">
+     The following chart shows the average <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>. Which type of car appears to have an abnormal value of City Miles Per Gallon? <br />
+    <input type="radio" name="answer" value="Correct" /> Wagon<br />
+    <input type="radio" name="answer" value="Wrong" /> SUV<br />
+    <input type="radio" name="answer" value="Wrong" /> Minivan<br />
+    <input type="radio" name="answer" value="Wrong" /> Sports Car<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div style="width:50%;  display: inline-block;" id='vis'> </div>
+    <div style="float: right; width:50%; height: auto; display: inline-block;" id='legend'> </div>
+  </div>
+
+  <div class='question' id="16">
+     The following chart shows the average <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>. Which type of car appears to have an abnormal value of City Miles Per Gallon?<br />
+    <input type="radio" name="answer" value="Wrong" /> Sedan <br />
+    <input type="radio" name="answer" value="Wrong" /> Minivan<br />
+    <input type="radio" name="answer" value="Correct" /> Wagon<br />
+    <input type="radio" name="answer" value="Wrong" /> Sports Car<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+
+
+  <div class='question' id="17">
+     The following chart shows the average <b>Dealer Cost</b> for cars with different <b>Wheel Bases</b>. Which Wheel Base appears to have an abnormal value of Dealer Cost?<br />
+    <input type="radio" name="answer" value="Wrong" /> 102 <br />
+    <input type="radio" name="answer" value="Wrong" /> 89 <br />
+    <input type="radio" name="answer" value="Correct" /> 122<br />
+    <input type="radio" name="answer" value="Wrong" /> 108<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="18">
+     The following chart shows the average <b>Dealer Cost</b> for cars with different numbers of <b>Cylinders (e.g. 3 Cylinders and 4 Cylinders)</b>. Cars with which number of Cylinders appears to be abnormal?<br />
+    <input type="radio" name="answer" value="Wrong" /> 6<br />
+    <input type="radio" name="answer" value="Wrong" /> 4<br />
+    <input type="radio" name="answer" value="Correct" /> 0 <br />
+    <input type="radio" name="answer" value="Wrong" /> 12 <br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="19">
+     The following chart shows the average <b>Engine Size</b> for cars with different numbers of <b>Cylinders (e.g. 3 Cylinders and 4 Cylinders)</b>. Cars with which number of Cylinders appears to be abnormal?<br />
+    <input type="radio" name="answer" value="Wrong" /> 12<br />
+    <input type="radio" name="answer" value="Wrong" /> 8<br />
+    <input type="radio" name="answer" value="Correct" /> 0 <br />
+    <input type="radio" name="answer" value="Wrong" /> 6 <br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="20">
+     The following chart shows the average <b>Engine Size</b> for cars with different <b>Widths</b>. Which Width appears to be abnormal?<br />
+    <input type="radio" name="answer" value="Wrong" /> 81<br />
+    <input type="radio" name="answer" value="Wrong" /> 70<br />
+    <input type="radio" name="answer" value="Correct" /> 2<br />
+    <input type="radio" name="answer" value="Wrong" /> 64<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="21">
+     The following chart shows the average <b>Retail Price</b> for cars with different <b>Widths</b>. Which Width appears to be abnormal?<br />
+    <input type="radio" name="answer" value="Wrong" /> 81<br />
+    <input type="radio" name="answer" value="Wrong" /> 71<br />
+    <input type="radio" name="answer" value="Correct" /> 2<br />
+    <input type="radio" name="answer" value="Wrong" /> 64<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div style="width:50%;  display: inline-block;" id='vis'> </div>
+    <div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+  </div>
+
+  <div class='question' id="22">
+     The following chart shows the average <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>. Which type of car appears to have an abnormal value of City Miles Per Gallon?<br />
+    <input type="radio" name="answer" value="Wrong" /> Sedan<br />
+    <input type="radio" name="answer" value="Correct" /> Wagon<br />
+    <input type="radio" name="answer" value="Wrong" /> Minivan<br />
+    <input type="radio" name="answer" value="Wrong" /> Sports Car<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+
+  <div class='question' id="23">
+     The following chart shows the average <b>Horsepower (HP)</b> for cars with different numbers of <b>Cylinders (e.g. 3 Cylinders and 4 Cylinders)</b>. Cars with which number of Cylinders appears to be abnormal?<br />
+    <input type="radio" name="answer" value="Wrong" /> 4 <br />
+    <input type="radio" name="answer" value="Wrong" /> 12<br />
+      <input type="radio" name="answer" value="Wrong" /> 6<br />
+    <input type="radio" name="answer" value="Correct" /> 0 <br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="24">
+     The following chart shows the average <b>Horsepower (HP)</b> for cars with different <b> Widths</b>. Please select False. <br />
+    <input type="radio" name="answer" value="Correct" /> False<br />
+    <input type="radio" name="answer" value="Wrong" /> True<br/><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+<!----------------------------------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------------------------------->
+<!----------------------------------------------------------------------------------------------------->
+
+
+<div class='question' id="25">
+    The following chart shows the average <b>Profit($M)</b> for different<b> Genres of movies</b>. Which genre appears to have an abnormal Gross value?<br />
+    <input type="radio" name="answer" value="Wrong" /> comedy<br />
+    <input type="radio" name="answer" value="Wrong" /> drama<br />
+    <input type="radio" name="answer" value="Wrong" /> sci-fi<br />
+    <input type="radio" name="answer" value="Correct" /> None<br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+  <div class='question' id="26">
+    The following chart shows the average <b>Gross($M)</b> for movies with different <b>Ratings</b>. Movies with which rating appear to have an abnormal Gross Value?<br />
+    <input type="radio" name="answer" value="Wrong" /> 4<br />
+    <input type="radio" name="answer" value="Wrong" /> 5 <br />
+    <input type="radio" name="answer" value="Wrong" /> 8 <br />
+    <input type="radio" name="answer" value="Correct" /> 9<br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div style="width:50%;  display: inline-block;" id='vis'> </div>
+    <div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+  </div>
+
+  <div class='question' id="27">
+    The following chart shows the average <b>Length</b> for different<b> Genres of movies</b>. Which genre appears to have an abnormal length?<br />
+    <input type="radio" name="answer" value="Wrong" /> animation<br />
+    <input type="radio" name="answer" value="Wrong" /> adventure<br />
+    <input type="radio" name="answer" value="Wrong" /> horror<br />
+    <input type="radio" name="answer" value="Correct" /> None<br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="28">
+     The following chart shows the average <b>Budget</b> for movies with different <b>Ratings</b>. Movies with which rating appear to be abnormal?<br />
+    <input type="radio" name="answer" value="Correct" /> None <br />
+    <input type="radio" name="answer" value="Wrong" /> 8 <br />
+    <input type="radio" name="answer" value="Wrong" /> 6<br />
+    <input type="radio" name="answer" value="Wrong" /> 4<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="29">
+     The following chart shows the average <b>Budget</b> for movies with different <b>Ratings</b>. Movies with which rating appear to have an abnormal budget?<br />
+    <input type="radio" name="answer" value="Wrong" /> 6<br />
+    <input type="radio" name="answer" value="Correct" /> 9<br />
+    <input type="radio" name="answer" value="Wrong" /> 4<br />
+    <input type="radio" name="answer" value="Wrong" /> 8<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="30">
+    The following chart shows the average <b>Gross($M)</b> for movies with different <b>Ratings</b>. Movies with which rating appear to be abnormal?<br />
+    <input type="radio" name="answer" value="Wrong" /> 4<br />
+    <input type="radio" name="answer" value="Wrong" /> 5 <br />
+    <input type="radio" name="answer" value="Wrong" /> 8 <br />
+    <input type="radio" name="answer" value="Correct" /> None<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="31">
+    The following chart shows the average <b>Gross($M)</b> for different<b> Genres of movies</b>. Which genre appears to have an abnormal Gross value?<br />
+    <input type="radio" name="answer" value="Wrong" /> crime<br />
+    <input type="radio" name="answer" value="Wrong" /> biography<br />
+    <input type="radio" name="answer" value="Correct" /> None<br />
+    <input type="radio" name="answer" value="Wrong" /> romance<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div style="width:50%;  display: inline-block;" id='vis'> </div>
+    <div style="float: right; width:50%; height: auto; display: inline-block;" id='legend'> </div>
+  </div>
+
+  <div class='question' id="32">
+    The following chart shows the average <b>Length</b> for different<b> Genres of movies</b>. Which genre of movies appears to have an abnormal length?<br />
+    <input type="radio" name="answer" value="Wrong" /> animation<br />
+    <input type="radio" name="answer" value="Correct" /> None<br />
+    <input type="radio" name="answer" value="Wrong" /> horror<br />
+    <input type="radio" name="answer" value="Wrong" /> crime<br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+
+
+  <div class='question' id="33">
+     The following chart shows the average <b>Budget</b> for movies with different <b>Lengths</b>. Which Lengths of movies appear to be abnormal?<br />
+    <input type="radio" name="answer" value="Wrong" /> 190 <br />
+    <input type="radio" name="answer" value="Wrong" /> 89 <br />
+    <input type="radio" name="answer" value="Correct" /> 0<br />
+    <input type="radio" name="answer" value="Wrong" /> None<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="34">
+    The following chart shows the average <b>Profit($M)</b> for movies with different <b>Ratings</b>. Movies with which rating appear to have an abnormal profit value?<br />
+    <input type="radio" name="answer" value="Wrong" /> 4<br />
+    <input type="radio" name="answer" value="Wrong" /> 5<br />
+    <input type="radio" name="answer" value="Correct" /> 6 <br />
+    <input type="radio" name="answer" value="Wrong" /> 7 <br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="35">
+    The following chart shows the average <b>Gross($M)</b> for movies with different <b>Ratings</b>. Which Rating appears to have an abnormal Gross value?<br />
+    <input type="radio" name="answer" value="Wrong" /> 4<br />
+    <input type="radio" name="answer" value="Wrong" /> 6 <br />
+    <input type="radio" name="answer" value="Wrong" /> 8 <br />
+    <input type="radio" name="answer" value="Correct" /> 9<br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="36">
+    The following chart shows the average <b>Budget</b> for movies with different <b>Ratings</b>. Movies with which rating appear to be abnormal?<br />
+    <input type="radio" name="answer" value="Wrong" /> 4<br />
+    <input type="radio" name="answer" value="Wrong" /> 5 <br />
+    <input type="radio" name="answer" value="Wrong" /> 8 <br />
+    <input type="radio" name="answer" value="Correct" /> None<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class='question' id="37">
+    The following chart shows the average <b>Budget</b> for movies with different <b>Length</b>. Movies with which Length appear to have an abnormal budget?<br />
+    <input type="radio" name="answer" value="Wrong" /> 104<br />
+    <input type="radio" name="answer" value="Wrong" /> 100<br />
+    <input type="radio" name="answer" value="Correct" /> 118<br />
+    <input type="radio" name="answer" value="Wrong" /> 129<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div style="width:50%;  display: inline-block;" id='vis'> </div>
+    <div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+  </div>
+
+  <div class='question' id="38">
+    The following chart shows the average <b>Rating</b> for different<b> Genres of movies</b>. Which genre appears to have an abnormal Rating?<br />
+    <input type="radio" name="answer" value="Wrong" /> action<br />
+    <input type="radio" name="answer" value="Correct" /> None<br />
+    <input type="radio" name="answer" value="Wrong" /> thriller<br />
+    <input type="radio" name="answer" value="Wrong" /> fantasy<br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+
+  <div class='question' id="39">
+  The following chart shows the average <b>Length</b> for movies with different <b>Ratings</b>. Movies with which rating appear to have an abnormal length?<br />
+    <input type="radio" name="answer" value="Wrong" /> 4 <br />
+    <input type="radio" name="answer" value="Wrong" /> 5<br />
+      <input type="radio" name="answer" value="Wrong" /> 8<br />
+    <input type="radio" name="answer" value="Correct" /> 9 <br /><br/>
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+    <div id='vis'> </div>
+  </div>
+
+  <div class="question ranking" id="40">
+     All of the following charts show the average Highway Miles Per Gallon for 5 types of cars (e.g. Sedan and SUV). Suppose you are asked to find the type of car that does not look to have a normal value of Highway Miles Per Gallon. Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br /><br />
+
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis1">
+        <p > Pie Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%;  display: inline-block;" id="vis2">
+        <p> Scatterplot</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis3">
+        <p> Bar Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%; display: inline-block;" id="vis4">
+        <p > Line Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 10px;">
+      <div style="width:50%; display: inline-block;" id="vis5">
+        <p> Table</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class="question ranking" id="41">
+     All of the following charts show the average length for 8 types of Cylinders (e.g. 3 Cylinders and 4 Cylinders). Suppose you are asked to find the numbers of Cylinders that do not look normal. Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br /><br />
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis1">
+        <p > Bar Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%;  display: inline-block;" id="vis2">
+        <p> Pie Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis3">
+        <p> Scatterplot</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%; display: inline-block;" id="vis4">
+        <p > Line Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 10px;">
+      <div style="width:50%; display: inline-block;" id="vis5">
+        <p> Table</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class="question ranking" id="42">
+     All following charts show the average Dealer cost for cars with different Widths. Suppose you are asked to find the type of cars with an abnormal Width. Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ(); " /> <br /><br />
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis1">
+        <p > Pie Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%;  display: inline-block;" id="vis2">
+        <p> Scatterplot</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis3">
+        <p> Bar Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%; display: inline-block;" id="vis4">
+        <p > Line Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 10px;">
+      <div style="width:50%; display: inline-block;" id="vis5">
+        <p> Table</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class="question ranking" id="43">
+    All of the following charts show the average length for different genres of movies. Suppose you are asked to find the genres that do not look to have a normal length.
+    Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br /><br />
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis1">
+        <p > Pie Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%;  display: inline-block;" id="vis2">
+        <p> Scatterplot</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis3">
+        <p> Bar Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%; display: inline-block;" id="vis4">
+        <p > Line Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 10px;">
+      <div style="width:50%; display: inline-block;" id="vis5">
+        <p> Table</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class="question ranking" id="44">
+    All following charts show the average Gross value for movies with different Ratings. Suppose you are asked to find the rating of movies with an abnormal Gross value.
+    Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ()" /> <br /><br />
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis1">
+        <p > Bar Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%;  display: inline-block;" id="vis2">
+        <p> Pie Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis3">
+        <p> Scatterplot</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%; display: inline-block;" id="vis4">
+        <p > Line Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 10px;">
+      <div style="width:50%; display: inline-block;" id="vis5">
+        <p> Table</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class="question ranking" id="45">
+     All following charts show the average Budget value for movies with different Ratings. Suppose you are asked to find the rating of movies with an abnormal Budget value.
+     Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+    <input type="submit" value="Submit" onclick="showNextQ(); " /> <br /><br />
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis1">
+        <p > Pie Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%;  display: inline-block;" id="vis2">
+        <p> Scatterplot</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 10px; height:400;">
+      <div style="float: right; width:50%; display: inline-block;" id="vis3">
+        <p> Bar Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+      <div style="width:50%; display: inline-block;" id="vis4">
+        <p > Line Chart</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+
+    <div style="margin-bottom: 10px;">
+      <div style="width:50%; display: inline-block;" id="vis5">
+        <p> Table</p>
+        <select>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="question comment" id="46">
+      <span>Please enter the criteria you used for ranking the charts along with any other additional comments you have
+      about the experiment in general.</span><br/><br/>
+      <textarea id="comment" style="width:40%; height:20%;"> </textarea> <br/><br/>
+      <input type="submit" value="Submit" onclick="showNextQ(); saveAnswers();" /> <br /><br />
+  </div>
+
+  <div class="question end" id="47">
+    <h3>End of the study </h3> <br />
+    <p>
+      Thank you for participating.
+    </p>
+    <p>
+      Here is your Survey Code:
+      <button id='sur_btn' onclick="getSurCode()">Get the code</button>
+      <strong id='sur_code'></strong>
+    </p>
+  </div>
+
+
+
+</body>
+</html>

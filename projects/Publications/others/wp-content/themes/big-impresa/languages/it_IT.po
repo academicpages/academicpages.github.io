@@ -1,0 +1,797 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Big Impresa v1.06\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-08-01 12:11:29+0000\n"
+"Last-Translator: iografica <info@iografica.it>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:13
+#@ impresa
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! La pagina non è stata trovata."
+
+#: 404.php:18
+#@ impresa
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Non abbiamo trovato quello che stavi cercando. Hai provato a fare una ricerca o a vedere i link sottostanti?"
+
+#: 404.php:28
+#@ impresa
+msgid "Most Used Categories"
+msgstr "Categorie più utilizzate"
+
+#. translators: %1$s: smiley
+#: 404.php:47
+#, php-format
+#@ impresa
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prova a visualizzare gli archivi mensili. %1$s"
+
+#: archive.php:24
+#, php-format
+#@ impresa
+msgid "Author: %s"
+msgstr "Autore: %s"
+
+#: archive.php:27
+#, php-format
+#@ impresa
+msgid "Day: %s"
+msgstr "Giorno: %s"
+
+#: archive.php:30
+#, php-format
+#@ impresa
+msgid "Month: %s"
+msgstr "Mese: %s"
+
+#: archive.php:30
+#@ impresa
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:33
+#, php-format
+#@ impresa
+msgid "Year: %s"
+msgstr "Anno: %s"
+
+#: archive.php:33
+#@ impresa
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:36
+#@ impresa
+msgid "Asides"
+msgstr "Di fianco"
+
+#: archive.php:39
+#@ impresa
+msgid "Galleries"
+msgstr "Gallerie"
+
+#: archive.php:42
+#@ impresa
+msgid "Images"
+msgstr "Immagini"
+
+#: archive.php:45
+#@ impresa
+msgid "Videos"
+msgstr "Video"
+
+#: archive.php:48
+#@ impresa
+msgid "Quotes"
+msgstr "Citazioni"
+
+#: archive.php:51
+#@ impresa
+msgid "Links"
+msgstr "Collegamenti"
+
+#: archive.php:54
+#@ impresa
+msgid "Statuses"
+msgstr "Stati"
+
+#: archive.php:57
+#@ impresa
+msgid "Audios"
+msgstr "Audio"
+
+#: archive.php:60
+#@ impresa
+msgid "Chats"
+msgstr "Conversazioni"
+
+#: archive.php:63
+#: sidebar.php:13
+#@ impresa
+msgid "Archives"
+msgstr "Archivi"
+
+#: comments.php:25
+#, php-format
+#@ impresa
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Un commento a &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s commenti a &ldquo;%2$s&rdquo;"
+
+#: comments.php:32
+#: comments.php:49
+#@ impresa
+msgid "Comment navigation"
+msgstr "Navigazione commenti"
+
+#: comments.php:33
+#: comments.php:50
+#@ impresa
+msgid "&larr; Older Comments"
+msgstr "&larr; Commenti Precedenti"
+
+#: comments.php:34
+#: comments.php:51
+#@ impresa
+msgid "Newer Comments &rarr;"
+msgstr "Commenti Successivi &rarr;"
+
+#: comments.php:61
+#@ impresa
+msgid "Comments are closed."
+msgstr "I commenti sono disattivati."
+
+#: content/content-none.php:10
+#@ impresa
+msgid "Nothing Found"
+msgstr "Nessun Risultato"
+
+#: content/content-none.php:16
+#, php-format
+#@ impresa
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Pronto a pubblicare il tuo primo articolo?<a href=\"%1$s\">Inizia qui</a>."
+
+#: content/content-none.php:20
+#@ impresa
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Non abbiamo trovato alcuna corrispondenza con quello che stavi cercando. Per favore, prova con parole differenti."
+
+#: content/content-none.php:25
+#@ impresa
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Sembra che non siamo riusciti a trovare quello che ti interessava.  Prova ad effettuare una ricerca."
+
+#: content/content-page.php:18
+#: content/content-pagenotitle.php:13
+#: content/content-single.php:26
+#: content.php:38
+#@ impresa
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: content/content-page.php:23
+#: content/content-pagenotitle.php:17
+#: content/content-pagesitemap.php:35
+#: content/content-search.php:52
+#: content/content-single.php:66
+#: content.php:52
+#@ impresa
+msgid "Edit"
+msgstr "Modifica"
+
+#. translators: used between list items, there is a space after the comma
+#: content/content-search.php:29
+#: content/content-search.php:39
+#: content/content-single.php:35
+#: content/content-single.php:38
+#@ impresa
+msgid ", "
+msgstr ""
+
+#: content/content-single.php:43
+#, php-format
+#@ impresa
+msgid "This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Tag articolo: %2$s. Aggiungi ai preferiti: <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+
+#: content/content-single.php:45
+#, php-format
+#@ impresa
+msgid "Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Aggiungi ai preferiti: <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+
+#: content/content-single.php:51
+#, php-format
+#@ impresa
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Articolo pubblicato in  %1$s. Tag: %2$s. Aggiungilo ai preferiti: <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+
+#: content/content-single.php:53
+#, php-format
+#@ impresa
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Questo articolo è stato pubblicato in %1$s. Aggiungilo ai preferiti: <a href=\"%3$s\" rel=\"bookmark\">permalink</a>."
+
+#: content.php:35
+#@ impresa
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continua a leggere <span class=\"meta-nav\">&rarr;</span>"
+
+#: content/content-search.php:33
+#, php-format
+#@ impresa
+msgid "Posted in %1$s"
+msgstr "Pubblicato in %1$s"
+
+#: content/content-search.php:43
+#, php-format
+#@ impresa
+msgid "Tagged %1$s"
+msgstr "Taggato %1$s"
+
+#: content/content-search.php:49
+#: content.php:49
+#@ impresa
+msgid "Leave a comment"
+msgstr "Lascia un commento"
+
+#: content/content-search.php:49
+#: content.php:49
+#@ impresa
+msgid "1 Comment"
+msgstr "1 Commento"
+
+#: content/content-search.php:49
+#: content.php:49
+#@ impresa
+msgid "% Comments"
+msgstr "% Commenti"
+
+#: functions.php:42
+#@ impresa
+msgid "Primary Menu"
+msgstr "Menu Principale"
+
+#: functions.php:71
+#@ impresa
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:81
+#@ impresa
+msgid "First Footer Widget Area"
+msgstr "Prima Widget Area Footer"
+
+#: functions.php:83
+#@ impresa
+msgid "The first footer widget area"
+msgstr "La prima area widget del footer"
+
+#: functions.php:92
+#@ impresa
+msgid "Second Footer Widget Area"
+msgstr "Seconda Footer Widget Area"
+
+#: functions.php:94
+#@ impresa
+msgid "The second footer widget area"
+msgstr "La seconda area widget del footer"
+
+#: functions.php:103
+#@ impresa
+msgid "Third Footer Widget Area"
+msgstr "Terza Footer Widget Area"
+
+#: functions.php:105
+#@ impresa
+msgid "The third footer widget area"
+msgstr "La terza area widget del footer"
+
+#: functions.php:114
+#@ impresa
+msgid "Fourth Footer Widget Area"
+msgstr "Quarta Footer Widget Area"
+
+#: functions.php:116
+#@ impresa
+msgid "The fourth footer widget area"
+msgstr "La quarta area widget del footer"
+
+#: header.php:42
+#@ impresa
+msgid "Menu"
+msgstr ""
+
+#: header.php:43
+#@ impresa
+msgid "Skip to content"
+msgstr "Vai al contenuto"
+
+#: inc/extras.php:62
+#, php-format
+#@ impresa
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: inc/includes/class-options-framework-admin.php:85
+#: inc/includes/class-options-framework-admin.php:86
+#: inc/includes/class-options-framework-admin.php:305
+#@ impresa
+msgid "Theme Options"
+msgstr "Impostazioni Tema"
+
+#: inc/includes/class-options-framework-admin.php:171
+#@ impresa
+msgid "Save Options"
+msgstr "Salva Impostazioni"
+
+#: inc/includes/class-options-framework-admin.php:172
+#@ impresa
+msgid "Restore Defaults"
+msgstr "Ripristina Default"
+
+#: inc/includes/class-options-framework-admin.php:172
+#@ impresa
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Clicca OK per resettare. Tutte le impostazioni del tema andranno perse!"
+
+#: inc/includes/class-options-framework-admin.php:203
+#@ impresa
+msgid "Default options restored."
+msgstr "Impostazioni di default ripristinate."
+
+#: inc/includes/class-options-framework-admin.php:257
+#@ impresa
+msgid "Options saved."
+msgstr "Impostazioni salvate."
+
+#: inc/includes/class-options-media-uploader.php:63
+#@ impresa
+msgid "No file chosen"
+msgstr "Nessun file selezionato"
+
+#: inc/includes/class-options-media-uploader.php:66
+#: inc/includes/class-options-media-uploader.php:119
+#@ impresa
+msgid "Upload"
+msgstr "Carica"
+
+#: inc/includes/class-options-media-uploader.php:68
+#: inc/includes/class-options-media-uploader.php:120
+#@ impresa
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: inc/includes/class-options-media-uploader.php:71
+#@ impresa
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/includes/class-options-media-uploader.php:95
+#@ impresa
+msgid "View File"
+msgstr "Vedi File"
+
+#: inc/includes/class-options-sanitization.php:241
+#@ impresa
+msgid "No Repeat"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:242
+#@ impresa
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:243
+#@ impresa
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:244
+#@ impresa
+msgid "Repeat All"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:257
+#@ impresa
+msgid "Top Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:258
+#@ impresa
+msgid "Top Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:259
+#@ impresa
+msgid "Top Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:260
+#@ impresa
+msgid "Middle Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:261
+#@ impresa
+msgid "Middle Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:262
+#@ impresa
+msgid "Middle Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:263
+#@ impresa
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:264
+#@ impresa
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:265
+#@ impresa
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:278
+#@ impresa
+msgid "Scroll Normally"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:279
+#@ impresa
+msgid "Fixed in Place"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:353
+#@ impresa
+msgid "Normal"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:354
+#@ impresa
+msgid "Italic"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:355
+#@ impresa
+msgid "Bold"
+msgstr ""
+
+#: inc/includes/class-options-sanitization.php:356
+#@ impresa
+msgid "Bold Italic"
+msgstr ""
+
+#: inc/template-tags.php:20
+#@ impresa
+msgid "Posts navigation"
+msgstr "Navigazione articoli"
+
+#: inc/template-tags.php:24
+#@ impresa
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Articoli precedenti"
+
+#: inc/template-tags.php:28
+#@ impresa
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Articoli successivi <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:51
+#@ impresa
+msgid "Post navigation"
+msgstr "Navigazione articolo"
+
+#: inc/template-tags.php:54
+#, php-format
+#@ impresa
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: inc/template-tags.php:55
+#, php-format
+#@ impresa
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: options.php:36
+#: options.php:188
+#@ impresa
+msgid "Logo Upload"
+msgstr "Carica Logo"
+
+#: search.php:14
+#, php-format
+#@ impresa
+msgid "Search Results for: %s"
+msgstr "Risultati ricerca per: %s"
+
+#: sidebar.php:19
+#@ impresa
+msgid "Meta"
+msgstr ""
+
+#: footer.php:16
+#@ impresa
+msgid "&copy;"
+msgstr ""
+
+#: footer.php:20
+#, php-format
+#@ impresa
+msgid "Theme: %1$s by %2$s "
+msgstr "Tema: %1$s realizzato da %2$s "
+
+#: footer.php:22
+#@ impresa
+msgid "Powered by "
+msgstr ""
+
+#: footer.php:23
+#, php-format
+#@ impresa
+msgid "%s"
+msgstr ""
+
+#: options.php:60
+#@ impresa
+msgid "Link color"
+msgstr "Colore link"
+
+#: options.php:111
+#@ impresa
+msgid "Footer text"
+msgstr "Testo del footer"
+
+#: options.php:116
+#@ impresa
+msgid "Display credits link"
+msgstr "Mostra i ringraziamenti"
+
+#: options.php:42
+#@ impresa
+msgid "Meta Slider"
+msgstr ""
+
+#: options.php:155
+#@ impresa
+msgid "Custom css"
+msgstr "Css personalizzato"
+
+#: options.php:160
+#@ impresa
+msgid "Footer code"
+msgstr "Codice piè di pagina"
+
+#: options.php:206
+#@ impresa
+msgid "Favicon"
+msgstr ""
+
+#: options.php:227
+#@ impresa
+msgid "Upgrade to premium version"
+msgstr "Aggiorna alla versione premium"
+
+#: options.php:229
+#@ impresa
+msgid "Upgrade to the premium version to get access to advanced options."
+msgstr "Aggiorna il tema alla versione premium per avere accesso alle impostazioni avanzate."
+
+#: options.php:233
+#@ impresa
+msgid "With premium version you have access to priority support."
+msgstr "Con la versione premium hai diritto al servizio di assistenza."
+
+#: options.php:234
+#@ impresa
+msgid "We offer a 7 day full refund if you are not happy with your purchase."
+msgstr "Ti offriamo un rimborso completo entro 7 giorni se non sei soddisfatto del tuo acquisto."
+
+#: inc/template-tags.php:81
+#, php-format
+#@ impresa
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Pubblicato il %s"
+
+#: inc/template-tags.php:86
+#, php-format
+#@ impresa
+msgctxt "post author"
+msgid "by %s"
+msgstr "da %s"
+
+#: options.php:26
+#@ impresa
+msgid "General"
+msgstr "Generale"
+
+#: options.php:30
+#@ impresa
+msgid "Add favicon"
+msgstr "Aggiungi favicon"
+
+#: options.php:31
+#@ impresa
+msgid "Upload your favicon"
+msgstr "Carica la tua favicon"
+
+#: options.php:37
+#@ impresa
+msgid "Upload your logo"
+msgstr "Carica il tuo logo"
+
+#: options.php:46
+#@ impresa
+msgid "Style"
+msgstr "Stile"
+
+#: options.php:50
+#@ impresa
+msgid "Header background"
+msgstr "Sfondo testata"
+
+#: options.php:55
+#@ impresa
+msgid "Menu background color"
+msgstr "Colore sfondo menu"
+
+#: options.php:65
+#@ impresa
+msgid "Link color on hover"
+msgstr "Colore link al passaggio del mouse"
+
+#: options.php:70
+#@ impresa
+msgid "Footer background"
+msgstr "Sfondo piè di pagina"
+
+#: options.php:74
+#@ impresa
+msgid "Blog &amp; Pages"
+msgstr "Blog &amp; Pagine"
+
+#: options.php:78
+#@ impresa
+msgid "Pages comments"
+msgstr "Commenti pagine"
+
+#: options.php:83
+#@ impresa
+msgid "Show blog and archive featured image"
+msgstr "Mostra l'immagine in evidenza nel blog e negli archivi"
+
+#: options.php:88
+#@ impresa
+msgid "Show post featured image"
+msgstr "Mostra l'immagine in evidenza dell'articolo"
+
+#: options.php:93
+#@ impresa
+msgid "Display post meta"
+msgstr "Mostra le meta informazioni articolo"
+
+#: options.php:98
+#@ impresa
+msgid "Index sidebar"
+msgstr "Sidebar index"
+
+#: options.php:103
+#@ impresa
+msgid "Post sidebar"
+msgstr "Sidebar articolo"
+
+#: options.php:107
+#@ impresa
+msgid "Footer"
+msgstr ""
+
+#: options.php:120
+#@ impresa
+msgid "Social"
+msgstr ""
+
+#: options.php:124
+#@ impresa
+msgid "Facebook url"
+msgstr "Indirizzo Facebook"
+
+#: options.php:125
+#@ impresa
+msgid "Add the url of your Facebook page"
+msgstr "Inserisci l'indirizzo della tua pagina Facebook"
+
+#: options.php:131
+#@ impresa
+msgid "Twitter url"
+msgstr "Indirizzo Twitter"
+
+#: options.php:132
+#@ impresa
+msgid "Add the url of your Twitter page"
+msgstr "Inserisci l'indirizzo della tua pagina Twitter"
+
+#: options.php:138
+#@ impresa
+msgid "Google plus url"
+msgstr "Indirizzo Google plus"
+
+#: options.php:139
+#@ impresa
+msgid "Add the url of your Google Plus page"
+msgstr "Inserisci l'indirizzo della tua pagina Google Plus"
+
+#: options.php:145
+#@ impresa
+msgid "Pinterest url"
+msgstr "Indirizzo Pinterest"
+
+#: options.php:146
+#@ impresa
+msgid "Add the url of your Pinterest page"
+msgstr "Inserisci l'indirizzo della tua pagina Pinterest"
+
+#: options.php:151
+#@ impresa
+msgid "Advanced"
+msgstr "Avanzate"
+
+#: options.php:23
+#@ impresa
+msgid "Only available in premium version"
+msgstr "Disponibile solo nella versione premium"
+
+#: functions.php:281
+#@ impresa
+msgid "Read more &#8594;"
+msgstr "Continua a leggere &#8594;"
+
+#: content/content-pagesitemap.php:14
+#@ impresa
+msgid "Pages"
+msgstr "Pagine"
+
+#: content/content-pagesitemap.php:20
+#@ impresa
+msgid "Posts"
+msgstr "Articoli"
+
+#: content/content-pagesitemap.php:26
+#@ impresa
+msgid "Authors"
+msgstr "Autori"
+
+#: content/content-pagesitemap.php:30
+#@ impresa
+msgid "Categories"
+msgstr "Categorie"
+

@@ -1,0 +1,813 @@
+
+<html>
+<head>
+
+</head>
+<body>
+
+	<div class='question instruction' id="1">
+		<h3> <font color="red">NOTE:</font> To ensure best performance, we suggest you to run the study in full screen mode. Kindly DO NOT refresh the page during the session. </h3>
+		During the training session, you will be asked to go through 5 questions. Please try to use the given charts to answer these questions as accurately as possible. Press <b>"Start Training Session"</b> when you are ready to start.<br /><br />
+		<input type="submit" value="Start Training Session" onclick="showNextQ()" /> <br />
+	</div>
+	<div class='question' id="2">
+		The following chart shows the average <b>Highway Miles Per Gallon</b> for 5 <b>types of cars</b>. What is the sum of the Highway Miles Per Gallon for the Sedan and the Sports Car? <br />
+		<input type="radio" name="answer" value="Wrong" /> About 40<br />
+		<input type="radio" name="answer" value="Wrong" /> About 65<br />
+		<input type="radio" name="answer" value="Wrong" /> About 35<br />
+		<input type="radio" name="answer" value="Correct" /> About 55<br />
+		<p id="Answer"></p>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="3">
+		The following chart shows the average <b>Dealer Cost</b> for 5 <b>types of cars</b>. What is the sum of the Dealer Cost for the Wagon and the Sports Car? <br />
+		<input type="radio" name="answer" value="Correct" /> About 76,300<br />
+		<input type="radio" name="answer" value="Wrong" /> About 85,300<br />
+		<input type="radio" name="answer" value="Wrong" /> About 80,000<br />
+		<input type="radio" name="answer" value="Wrong" /> About 90,000 <br />
+		<p id="Answer"></p>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="4">
+		The following chart shows the average <b>Retail Price</b> for cars with different <b>Widths</b>. What is the sum of the Retail Price for cars with the Width of 64 and 73?  <br />
+		<input type="radio" name="answer" value="Correct" /> About 65,840<br />
+		<input type="radio" name="answer" value="Wrong" /> About 85,000<br />
+		<input type="radio" name="answer" value="Wrong" /> About 90,000<br />
+		<input type="radio" name="answer" value="Wrong" /> About 75,000 <br />
+		<p id="Answer"></p>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div style="width:50%;  display: inline-block;" id='vis'> </div>
+		<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+	</div>
+
+	<div class='question' id="5">
+		The following chart shows the average <b>Retail Price</b> for cars with different numbers of <b>Cylinders</b>. What is the sum of the Retail Price for 3 and 8 cylinder cars? <br />
+		<input type="radio" name="answer" value="Wrong" /> Between 41,000 and 60,000<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 10,000 and 15,000<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 20,000 and 40,000<br />
+		<input type="radio" name="answer" value="Correct" /> Between 70,000 and 80,000<br />
+		<p id="Answer"></p>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+
+	<div class='question' id="6">
+		The following chart shows the average <b>Retail Price</b> for cars with different <b>Widths</b>. What is the sum of the Retail Price for cars with the Width of 65 and 70?<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 60,000 and 70,000<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 20,000 and 30,000<br />
+		<input type="radio" name="answer" value="Correct" /> Between 40,000 and 50,000<br />
+		<input type="radio" name="answer" value="Wrong" /> Above 80,000<br />
+		<p id="Answer"></p>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+
+	</div>
+
+	<div class='question instruction' id="7">
+		<p>Thank You. You completed the Trial Session.</p>
+		Now is the time to start the main experiment. Similar to the trial session, in the main experiment you will be asked to complete about 20 questions. However, in the main experiment once a question is submitted it cannot be changed or reviewed. You will not receive any feedback to show the correctness of answers during this session. So, please answer the questions <b>as accurate as possible</b> and press "Submit" button only when you are sure about your answer. Press <b>"Start"</b> when you are ready to start the main experiment.<br /><br />
+		<input type="submit" value="Start" onclick="showNextQ()" /> <br />
+	</div>
+
+	<div class='question' id="8">
+		 	The following chart shows the average <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan, and SUV)</b>. What is the sum of the City Miles Per Gallon for the SUV and the Sports Car?
+		<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 20 and 29 <br />
+		<input type="radio" name="answer" value="Correct" /> Between 30 and 40<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 45 and 60 <br />
+		<input type="radio" name="answer" value="Wrong" /> Between 63 and 70 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="9">
+		 The following chart shows the average <b>Dealer Cost</b> for cars with different <b>Wheel Bases</b>. What is the sum of the Dealer Cost for cars with the Wheel Base of 93 and 107  ?
+		<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 20,000 and 25,000 <br />
+			<input type="radio" name="answer" value="Wrong" /> Between 10,000 and 20,000<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 50,000 and 60,000 <br />
+		<input type="radio" name="answer" value="Correct" /> Between 70,000 and 90,000  <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="10">
+		 The following chart shows the average <b>Horsepower</b> for cars with different <b>Widths</b>. What is the sum of the Horsepower for cars with the Width of 64 and 73?  <br />
+		<input type="radio" name="answer" value="Correct" /> Between 340 and 380<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 145 and 189<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 300 and 340<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 240 and 290<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="11">
+		 The following chart shows the average <b>Horsepower</b> for cars with different numbers of <b>Cylinders</b>. What is the sum of the Horsepower for cars with 3 and 8 Cylinders? <br />
+		<input type="radio" name="answer" value="Wrong" /> About 470 <br />
+		<input type="radio" name="answer" value="Wrong" /> About 570 <br />
+		<input type="radio" name="answer" value="Correct" /> About 370<br />
+		<input type="radio" name="answer" value="Wrong" /> About 230<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="12">
+		 The following chart shows the average <b>Weight</b> for cars with different numbers of <b>Cylinders</b>. What is the sum of the Weights for cars with 5 and 6 Cylinders? <br />
+		<input type="radio" name="answer" value="Correct" /> Between 7,000 and 8,500 <br />
+		<input type="radio" name="answer" value="Wrong" /> Between 4,700 and 6,500 <br />
+		<input type="radio" name="answer" value="Wrong" /> Between 3,000 and 4,500<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 2,000 and 2,500<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div style="width:50%;  display: inline-block;" id='vis'> </div>
+		<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+	</div>
+
+	<div class='question' id="13">
+		 The following chart shows the <b>Dealer Cost</b> for cars with different numbers of <b>Cylinders</b>. Please select True. <br />
+		<input type="radio" name="answer" value="Wrong" /> False<br />
+		<input type="radio" name="answer" value="Correct" /> True<br/><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="14">
+		 The following chart shows the average <b>Engine Size</b> for cars with different numbers of <b>Cylinders</b>. What is the sum of the Engine Size for cars with 9 and 12 Cylinders? <br />
+		<input type="radio" name="answer" value="Wrong" /> Between 5 and 7 <br />
+		<input type="radio" name="answer" value="Wrong" /> Between 6 and 8<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 2 and 4<br />
+		<input type="radio" name="answer" value="Correct" /> Between 8 and 10 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="15">
+		 The following chart shows the average <b>Length (Len)</b> of cars with different numbers of <b>Cylinders</b>. What is the sum of the Length for cars with 4 and 6 Cylinders? <br />
+		<input type="radio" name="answer" value="Correct" /> Between 300 and 400<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 200 and 250<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 100 and 180<br />
+		<input type="radio" name="answer" value="Wrong" /> Above 500<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="16">
+		 The following chart shows the <b>Engine Size</b> for cars with different numbers of <b>Cylinders</b>. What is the sum of the Engine Size for cars with 6 and 8 Cylinders? <br />
+		<input type="radio" name="answer" value="Wrong" /> Between 9 and 11<br />
+		<input type="radio" name="answer" value="Correct" /> Between 6 and 8<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 12 and 15<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 2 and 4<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="17">
+		 The following chart shows the average <b>City Miles Per Gallon</b> for 5 <b>types of cars</b>. What is the sum of the City Miles Per Gallon for the SUV and the Sports Car?<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 25 and 29 <br />
+		<input type="radio" name="answer" value="Correct" /> Between 30 and 37<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 40 and 50<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 51 and 60<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div style="width:50%;  display: inline-block;" id='vis'> </div>
+		<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+	</div>
+
+	<div class='question' id="18">
+		 The following chart shows the average <b>City Miles Per Gallon</b> for 5 <b>types of cars</b>. What is the sum of the City Miles Per Gallon for the Sedan and the Sports Car?<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 10 and 18 <br />
+		<input type="radio" name="answer" value="Wrong" /> Between 20 and 25 <br />
+		<input type="radio" name="answer" value="Wrong" /> Between 30 and 34 <br />
+		<input type="radio" name="answer" value="Correct" /> Between 35 and 45 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="19">
+		 The following chart shows the average <b>Dealer Cost</b> for cars with different <b>Wheel Bases</b>. What is the sum of the Dealer Cost for cars with the Wheel Base of 93 and 107 ? <br />
+		<input type="radio" name="answer" value="Wrong" /> Above 90,000<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 35,000 and 45,000<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 55,000 and 65,000<br />
+		<input type="radio" name="answer" value="Correct" /> Between 75,000 and 85,000 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="20">
+		 The following chart shows the average <b>Engine Size</b> for cars with different <b>Highway Miles Per Gallons</b>. What is the sum of the Engine Size for cars with the Highway Miles Per Gallon of 14 and 33 ?<br />
+		<input type="radio" name="answer" value="Wrong" /> About 5<br />
+		<input type="radio" name="answer" value="Correct" /> About 7<br />
+		<input type="radio" name="answer" value="Wrong" /> About 8<br />
+		<input type="radio" name="answer" value="Wrong" /> About 10<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="21">
+		 The following chart shows the average <b>Retail Price</b> for cars with different <b>Widths</b>. What is the sum of the Retail Price for cars with the Width of 71 and 81 ?<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 60,000 and 70,000<br />
+		<input type="radio" name="answer" value="Correct" /> Between 89,000 and 99,000<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 30,000 and 39,000<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 40,000 and 80,000<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div style="width:50%;  display: inline-block;" id='vis'> </div>
+		<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+	</div>
+
+	<div class='question' id="22">
+		 The following chart shows the average <b>City Miles Per Gallon</b> for 5 <b>types of cars (e.g. Sedan and SUV)</b>. What is the sum of the City Miles Per Gallon for the Wagon and the Sports Car?<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 60 and 65 <br />
+		<input type="radio" name="answer" value="Wrong" /> Between 30 and 45 <br />
+		<input type="radio" name="answer" value="Correct" />  Between 66 and 75  <br />
+		<input type="radio" name="answer" value="Wrong" /> Aboce 80<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="23">
+		 The following chart shows the average <b>Length (Len)</b> of 5 <b>types of cars</b>. What is the sum of the Lengths for MiniVan and Sports Car?<br />
+		<input type="radio" name="answer" value="Wrong" />  Between 230 and 340 <br />
+			<input type="radio" name="answer" value="Wrong" /> Between 120 and 145 <br />
+		<input type="radio" name="answer" value="Correct" /> Between 350 and 400 <br />
+		<input type="radio" name="answer" value="Wrong" />  Between 150 and 200 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="24">
+		 The following chart shows the average <b>Horsepower</b> for cars with different <b>Widths</b>. Please select False. <br />
+		<input type="radio" name="answer" value="Correct" /> False<br />
+		<input type="radio" name="answer" value="Wrong" /> True<br/><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+
+
+	<div class='question' id="25">
+		The following chart shows the average <b>Gross($M)</b> for movies with different <b>Genres</b>. What is the sum of the Gross values for the drama and the sci-fi movies?<br />
+		 <input type="radio" name="answer" value="Wrong" /> About 990 <br />
+		 <input type="radio" name="answer" value="Correct" /> About 1105 <br />
+		 <input type="radio" name="answer" value="Wrong" /> About 1200<br />
+		 <input type="radio" name="answer" value="Wrong" /> About 1300<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="26">
+		The following chart shows the average <b>Budget</b> for movies with different <b>Lengths</b>. What is the sum of the Budget for movies with the Length of 110 and 98? <br />
+		<input type="radio" name="answer" value="Wrong" /> Between 200 and 250<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 100 and 124<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 300 and 400<br />
+		<input type="radio" name="answer" value="Correct" /> Between 130 and 190<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="27">
+		The following chart shows the average <b>Rating</b> for movies with different <b>Lengths</b>. What is the sum of the Rating for movies with the Length of 80 and 98?  <br />
+		<input type="radio" name="answer" value="Correct" /> About 10<br />
+		<input type="radio" name="answer" value="Wrong" /> About 14<br />
+		<input type="radio" name="answer" value="Wrong" /> About 17<br />
+		<input type="radio" name="answer" value="Wrong" /> About 8<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="28">
+		The following chart shows the average <b>Length</b> for movies with different <b>Ratings</b>. What is the sum of the Length for movies with Ratings 5 and 7? <br />
+		<input type="radio" name="answer" value="Wrong" /> About 229 <br />
+		<input type="radio" name="answer" value="Wrong" /> About 220 <br />
+		<input type="radio" name="answer" value="Correct" /> About 340<br />
+		<input type="radio" name="answer" value="Wrong" /> About 250<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="29">
+		The following chart shows the average <b>Gross($M)</b> for movies with different <b>Ratings</b>. What is the sum of the profit value for movies with Ratings 6 and 8? <br />
+		<input type="radio" name="answer" value="Wrong" /> About 900 <br />
+		<input type="radio" name="answer" value="Wrong" /> About 650<br />
+		<input type="radio" name="answer" value="Wrong" /> About 800<br />
+		<input type="radio" name="answer" value="Correct" /> About 950<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div style="width:50%;  display: inline-block;" id='vis'> </div>
+		<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+	</div>
+
+	<div class='question' id="30">
+		The following chart shows the average <b>Length</b> for movies with different <b>Ratings</b>. What is the sum of the Length for movies with Ratings 4 and 9? <br />
+		<input type="radio" name="answer" value="Wrong" /> About 210 <br />
+		<input type="radio" name="answer" value="Wrong" /> About 200 <br />
+		<input type="radio" name="answer" value="Correct" /> About 226<br />
+		<input type="radio" name="answer" value="Wrong" /> About 250<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="31">
+		 The following chart shows the average <b>Budget</b> of movies with different <b>Ratings</b>. What is the sum of the Budget for movies with Ratings 4 and 8? <br />
+		<input type="radio" name="answer" value="Correct" /> Between 190 and 210<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 220 and 250<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 100 and 180<br />
+		<input type="radio" name="answer" value="Wrong" /> Above 500<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="32">
+		The following chart shows the average <b>Profit($M)</b> for movies with different <b>Ratings</b>. What is the sum of the Profit values for movies with Ratings 5 and 7? <br />
+		<input type="radio" name="answer" value="Wrong" /> Between 401 and 500<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 300 and 400<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 100 and 250<br />
+		<input type="radio" name="answer" value="Correct" /> Between 550 and 700<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="33">
+	 The following chart shows the average <b>Gross($M)</b> for movies with different <b>Genres</b>. What is the sum of the Gross values for the drama and the sci-fi movies?<br />
+		<input type="radio" name="answer" value="Wrong" /> About 990 <br />
+		<input type="radio" name="answer" value="Correct" /> About 1105 <br />
+		<input type="radio" name="answer" value="Wrong" /> About 1200<br />
+		<input type="radio" name="answer" value="Wrong" /> About 1300<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div style="width:50%;  display: inline-block;" id='vis'> </div>
+		<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+	</div>
+
+	<div class='question' id="34">
+		The following chart shows the average <b>Rating($M)</b> for movies with different <b>Genres</b>. What is the sum of the Rating for the musical and the sci-fi movies?<br />
+		<input type="radio" name="answer" value="Wrong" /> 10.4 <br />
+		<input type="radio" name="answer" value="Wrong" /> 10.1 <br />
+		<input type="radio" name="answer" value="Wrong" /> 18.5 <br />
+		<input type="radio" name="answer" value="Correct" /> 13.38 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="35">
+		The following chart shows the average <b>Gross($M)</b> for movies with different <b>Lengths</b>. What is the sum of the Gross values for movies with the Length of 103 and 130?
+	 <br />
+		<input type="radio" name="answer" value="Wrong" /> Above 1000<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 500 and 600<br />
+		<input type="radio" name="answer" value="Wrong" /> Between 601 and 750<br />
+		<input type="radio" name="answer" value="Correct" /> Between 790 and 950 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="36">
+		The following chart shows the average <b>Profit($M)</b> for movies with different <b>Lengths</b>. What is the sum of the Profit values for movies with the Length of 95 and 128? <br />
+ 		<br />
+	 	<input type="radio" name="answer" value="Wrong" /> Between 870 and 900 <br />
+	 	<input type="radio" name="answer" value="Correct" /> Between 730 and 850<br />
+	 	<input type="radio" name="answer" value="Wrong" /> Between 240 and 400 <br />
+ 		<input type="radio" name="answer" value="Wrong" /> Between 100 and 200 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="37">
+		The following chart shows the average <b>Rating</b> for movies with different <b>Lengths</b>. What is the sum of the Rating for movies with the Length of 110 and 98?  <br />
+		<input type="radio" name="answer" value="Correct" /> About 13<br />
+		<input type="radio" name="answer" value="Wrong" /> About 10<br />
+		<input type="radio" name="answer" value="Wrong" /> About 17<br />
+		<input type="radio" name="answer" value="Wrong" /> About 8<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div style="width:50%;  display: inline-block;" id='vis'> </div>
+		<div style="float: right; width:50%; display: inline-block;" id='legend'> </div>
+	</div>
+
+	<div class='question' id="38">
+		 The following chart shows the average <b>Length</b> for movies with different <b>Genres</b>. What is the sum of the Length for romance and drama movies? <br />
+		<input type="radio" name="answer" value="Wrong" /> Between 120 and 125 <br />
+		<input type="radio" name="answer" value="Wrong" /> Between 130 and 140 <br />
+		<input type="radio" name="answer" value="Correct" />  Between 145 and 155  <br />
+		<input type="radio" name="answer" value="Wrong" /> Aboce 180<br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+	<div class='question' id="39">
+		 	The following chart shows the average <b>Budget</b> for movies with different <b>Genres</b>. What is the sum of the Budget for the drama and the crime movies? <br />
+		<input type="radio" name="answer" value="Wrong" />  Between 200 and 240 <br />
+			<input type="radio" name="answer" value="Wrong" /> Between 110 and 120 <br />
+		<input type="radio" name="answer" value="Correct" /> Between 140 and 160 <br />
+		<input type="radio" name="answer" value="Wrong" />  Between 400 and 500 <br /><br/>
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br />
+		<div id='vis'> </div>
+	</div>
+
+
+	<div class='question ranking' id="40">
+		 All of the following charts show the Length for cars with different numbers of cylinders (e.g. 4 and 6).
+		 Suppose you are asked to find sum of the Length for cars with 8 and 6 Cylinders.
+		 Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+		<input type="submit" value="Submit" onclick="showNextQ(); " /> <br /><br />
+
+		<div style="margin-bottom: 10px; height:400;">
+			<div style="float: right; width:50%; display: inline-block;" id="vis1">
+				<p > Bar Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+			<div style="width:50%;  display: inline-block;" id="vis2">
+				<p> Pie Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+		<div style="margin-bottom: 10px; height:400;">
+			<div style="float: right; width:50%; display: inline-block;" id="vis3">
+				<p> Scatterplot</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+			<div style="width:50%; display: inline-block;" id="vis4">
+				<p > Line Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+
+		<div style="margin-bottom: 10px;">
+			<div style="width:50%; display: inline-block;" id="vis5">
+				<p> Table</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+	</div>
+
+	<div class='question ranking' id="41">
+		 All of the following charts show the average Dealer cost for cars with different Widths (e.g. 64, 78). Suppose you are asked to find sum of the Dealer Cost for cars with the Width of 80 and 81. Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+		<input type="submit" value="Submit" onclick="showNextQ()" /> <br /><br />
+		<div style="margin-bottom: 10px; height:400;">
+			<div style="float: right; width:50%; display: inline-block;" id="vis1">
+				<p > Pie Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+			<div style="width:50%;  display: inline-block;" id="vis2">
+				<p> Scatterplot</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+
+		<div style="margin-bottom: 10px; height:400;">
+			<div style="float: right; width:50%; display: inline-block;" id="vis3">
+				<p> Bar Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+			<div style="width:50%; display: inline-block;" id="vis4">
+				<p > Line Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+
+		<div style="margin-bottom: 10px;">
+			<div style="width:50%; display: inline-block;" id="vis5">
+				<p> Table</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+	</div>
+
+	<div class='question ranking' id="42">
+		 All of the following charts show the Highway Miles Per Gallon for 5 types of cars. Suppose you are asked to find the sum of the Highway Miles Per Gallon for the SUV and the Sedan cars. Rank the charts below in the order of your preference for performing this task. <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+		<input type="submit" value="Submit" onclick="showNextQ();" /> <br /><br />
+		<div style="margin-bottom: 10px; height:400;">
+			<div style="float: right; width:50%; display: inline-block;" id="vis1">
+				<p > Pie Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+			<div style="width:50%;  display: inline-block;" id="vis2">
+				<p> Scatterplot</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+
+		<div style="margin-bottom: 10px; height:400;">
+			<div style="float: right; width:50%; display: inline-block;" id="vis3">
+				<p> Bar Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+			<div style="width:50%; display: inline-block;" id="vis4">
+				<p > Line Chart</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+
+		<div style="margin-bottom: 10px;">
+			<div style="width:50%; display: inline-block;" id="vis5">
+				<p> Table</p>
+				<select>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</select>
+			</div>
+		</div>
+	</div>
+	<div class='question ranking' id="43">
+			All of the following charts show the average length of movies with different Ratings.
+			Suppose you are asked to find the sum of the lengths of movies with ratings 5 and 9. Rank the charts below in the order of your preference for performing this task.
+			<b>(1 being the most useful to 5 being least useful) </b><br /><br />
+			<input type="submit" value="Submit" onclick="showNextQ(); " /> <br /><br />
+
+			<div style="margin-bottom: 10px; height:400;">
+				<div style="float: right; width:50%; display: inline-block;" id="vis1">
+					<p > Bar Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+				<div style="width:50%;  display: inline-block;" id="vis2">
+					<p> Pie Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+			<div style="margin-bottom: 10px; height:400;">
+				<div style="float: right; width:50%; display: inline-block;" id="vis3">
+					<p> Scatterplot</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+				<div style="width:50%; display: inline-block;" id="vis4">
+					<p > Line Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+
+			<div style="margin-bottom: 10px;">
+				<div style="width:50%; display: inline-block;" id="vis5">
+					<p> Table</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+		</div>
+
+		<div class='question ranking' id="44">
+			 All of the following charts show the average Budget for movies with different Lengths.
+			 Suppose you are asked to find the sum of the Budget for movies with Lengths of 130 and 165. Rank the charts below in the order of your preference for performing this task.
+			 <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+			<input type="submit" value="Submit" onclick="showNextQ()" /> <br /><br />
+			<div style="margin-bottom: 10px; height:400;">
+				<div style="float: right; width:50%; display: inline-block;" id="vis1">
+					<p > Pie Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+				<div style="width:50%;  display: inline-block;" id="vis2">
+					<p> Scatterplot</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+
+			<div style="margin-bottom: 10px; height:400;">
+				<div style="float: right; width:50%; display: inline-block;" id="vis3">
+					<p> Bar Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+				<div style="width:50%; display: inline-block;" id="vis4">
+					<p > Line Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+
+			<div style="margin-bottom: 10px;">
+				<div style="width:50%; display: inline-block;" id="vis5">
+					<p> Table</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+		</div>
+
+		<div class='question ranking' id="45">
+			 All of the following charts show the average Rating for different Genres of movies.
+			 Suppose you are asked to find the sum of the Rating for drama and action movies. Rank the charts below in the order of your preference for performing this task.
+			 <b>(1 being the most useful to 5 being least useful) </b><br /><br />
+			<input type="submit" value="Submit" onclick="showNextQ();" /> <br /><br />
+			<div style="margin-bottom: 10px; height:400;">
+				<div style="float: right; width:50%; display: inline-block;" id="vis1">
+					<p > Pie Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+				<div style="width:50%;  display: inline-block;" id="vis2">
+					<p> Scatterplot</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+
+			<div style="margin-bottom: 10px; height:400;">
+				<div style="float: right; width:50%; display: inline-block;" id="vis3">
+					<p> Bar Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+				<div style="width:50%; display: inline-block;" id="vis4">
+					<p > Line Chart</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+
+			<div style="margin-bottom: 10px;">
+				<div style="width:50%; display: inline-block;" id="vis5">
+					<p> Table</p>
+					<select>
+						<option value="1">1</option>
+						<option value="2">2</option>
+						<option value="3">3</option>
+						<option value="4">4</option>
+						<option value="5">5</option>
+					</select>
+				</div>
+			</div>
+		</div>
+
+
+	<div class="question comment" id="46">
+      <span>Please enter the criteria you used for ranking the charts along with any other additional comments you have
+      about the experiment in general.</span><br/><br/>
+      <textarea id="comment" style="width:40%; height:20%;"> </textarea> <br/><br/>
+      <input type="submit" value="Submit" onclick="showNextQ(); saveAnswers();" /> <br /><br />
+  </div>
+
+	<div class="question end" id="47">
+		<h3>End of the study </h3> <br />
+		<p>
+			Thank you for participating.
+		</p>
+		<p>
+			Here is your Survey Code:
+			<button id='sur_btn' onclick="getSurCode()">Get the code</button>
+			<strong id='sur_code'></strong>
+		</p>
+	</div>
+
+
+</body>
+</html>

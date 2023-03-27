@@ -1,0 +1,184 @@
+body {
+  font-family: 'Lato', sans-serif;
+  font-size: 1.0em;
+}
+
+div.sidebar {
+  float: right;
+  width: 240px;
+  margin-right: 10px;
+  margin-left: 30px;
+  padding-left: 15px;
+  padding-right: 30px;
+  background: #ffffff;
+  padding-bottom: 20px;
+}
+
+.supp {
+  margin-bottom: 10px;
+}
+
+div.label {
+  /* min-width:100px;
+  margin-left:auto;
+  margin-right:auto; */
+}
+
+div.contact {
+  color: rgb(75, 75, 75);
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.0em;
+}
+
+div.keywords {
+  /* margin-top:0px; */
+  color: rgb(50, 50, 50);
+  /* width:900px; */
+  /* margin-left:auto;
+  margin-right:auto; */
+  font-size: 1.00em;
+  font-style: italic;
+}
+
+div.current {
+  color: rgb(50, 50, 50);
+  font-size: 0.9em;
+}
+
+/* a:link, a:visited {
+  color:#1e699d;
+  text-decoration: none;
+}
+
+a:hover, a:active {
+  color:rgb(145,20,20);
+  text-decoration: underline;
+} */
+
+img.inText {
+  border: 2px solid rgb(0, 0, 0);
+  margin-left: 4px;
+  margin-right: 10px;
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 2.75em;
+  margin-bottom: 15;
+}
+
+h2 {
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.4em;
+}
+
+h3 {
+  color: #000000;
+  font-size: 1.2em;
+  margin-top: 30px;
+}
+
+.section {
+  margin-top: 30px;
+  margin-bottom: 10px;
+  padding-top: 10px;
+}
+
+td {
+  font-size: 0.9em;
+  color: rgb(128, 128, 128);
+  padding: 5px;
+  padding-bottom: 15px
+}
+
+i {
+  color: rgb(50, 50, 50);
+}
+
+b {
+  color: rgb(50, 50, 50);
+}
+
+.navigation-menu a {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  color: #333;
+  transition: all 0.2s ease-in-out;
+}
+
+.navigation-menu a:hover {
+  color: #f7d100;
+  text-decoration: none;
+}
+
+
+
+
+.maincol .about {
+  text-align: justify;
+  margin: 0;
+}
+
+.sidecol .avatar {
+  max-width: 13em;
+}
+
+.sidecol .links img {
+  margin-right: 10px;
+  height: 20px;
+}
+
+.sidecol .links a {
+  line-height: 20px;
+}
+
+.sidecol .news {
+  padding-left: 1em;
+  font-size: 13px;
+
+}
+
+.sidecol .news li {
+  margin-bottom: 6px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.maincol {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  padding-right: 2em;
+}
+
+.sidecol {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+}
+
+@media screen and (min-width: 800px) {
+  .maincol {
+    flex: 3
+  }
+
+  .sidecol {
+    flex: 1
+  }
+}
+
+@media screen and (max-width: 799px) {
+  .avatar {
+    display: none;
+  }
+}

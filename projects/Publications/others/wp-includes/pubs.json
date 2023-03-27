@@ -1,0 +1,180 @@
+{
+
+  "pub_grouping": {
+    "conference": "conference/workshop",
+    "workshop": "conference/workshop",
+    "journal": "journal/chapter",
+    "dissertation": "journal/chapter",
+    "chapter": "journal/chapter",
+    "late-breaking work": "other",
+    "poster": "other",
+    "article": "other",
+    "demo": "other",
+    "tech report": "other",
+    "BOF": "other"
+  },
+
+  "publications": [
+    {
+      "key": "TVCG_2018_embeddedInteraction",
+      "author": ["Bahador Saket", "Arjun Srinivasan", "Eric D. Ragan", "Alex Endert"],
+      "title": "Evaluating Interactive Graphical Encodings for Data Visualization",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics",
+      "year": 2018,
+      "thumbnail": "embedded.png",
+       "pdf": "http://bahadorsaket.com/publication/encodingsPaper.pdf",
+      "type": "journal",
+      "supp": {
+        "Blog post": "https://medium.com/@GT_Vis/evaluating-interactive-graphical-encodings-for-data-visualization-b9b8b4bf47f8",
+        "Website": "http://va.gatech.edu/encodings/",
+        "Code + Other Materials":"https://github.com/gtvalab/interactive-graphical-encodings" 
+      }
+    },
+    {
+      "key": "IA_2017_VisAR",
+      "author": ["Taeheon Kim", "Bahador Saket", "Alex Endert", "Blair MacIntyre"],
+      "title": "VisAR: Bringing Interactivity to Static Data Visualizations through Augmented Reality",
+      "venue": "IA: Workshop on Immersive Analytics: Exploring Future Interaction and Visualization Technologies for Data Analytics",
+      "year": 2017,
+      "thumbnail": "VisAR.png",
+      "pdf": "http://bahadorsaket.com/publication/VisAR.pdf",
+      "type": "workshop"
+    },
+    {
+      "key": "IEEVIS_2017_VbD",
+      "author": ["Bahador Saket", "Hannah Kim", "Eli Brown", "Alex Endert"],
+      "title": "Visualization by Demonstration: An Interaction Paradigm for Visual Data Exploration",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (Also presented at InfoVis)",
+      "year": 2017,
+      "thumbnail": "VbD.png",
+       "pdf": "http://bahadorsaket.com/publication/VbD-Paper.pdf",
+      "type": "journal + conference",
+      "supp": {
+        "Website": "http://va.gatech.edu/vbd/",
+        "Code":"https://github.com/BahadorSaket/VbD" 
+      }
+    },
+    {
+      "key": "BELIV_2016_Enjoyment",
+      "author": ["Bahador Saket", "Alex Endert", "John Stasko"],
+      "title": "Beyond Usability and Performance: A Review of User Experience-focused Evaluation Goals in Visualization",
+      "venue": "6th International Workshop on Beyond time and errors: novel evaluation methods for Information Visualization (BELIV)",
+      "year": 2016,
+      "thumbnail": "beliv.png",
+       "pdf": "http://bahadorsaket.com/publication/BELIV2016.pdf",
+      "type": "workshop"
+    },
+    {
+      "key": "VizSec_2016_APTHunter",
+      "author": ["Hossein Siadati", "Bahador Saket", "Nasir Memon"],
+      "title": "Detecting Malicious Logins in Enterprise Networks Using Visualization",
+      "venue": "13th IEEE Symposium on Visualization for Cyber Security (VizSec)",
+      "year": 2016,
+      "thumbnail": "AptHunter.png",
+       "pdf": "http://bahadorsaket.com/publication/Apt-Hunter.pdf",
+      "type": "conference"
+    },
+    {
+      "key": "EuroVis_2016_enjoyment",
+      "author": ["Bahador Saket", "Carlos Scheidegger", "Stephen Kobourov"],
+      "title": "Comparing Node-Link and Node-Link-Group Visualizations From An Enjoyment Perspective",
+      "venue": "Computer Graphics Forum (Also presented at EuroVis)",
+      "year": 2016,
+      "thumbnail": "enjoymentEval.png",
+       "pdf": "http://bahadorsaket.com/publication/enjoy.pdf",
+      "type": "journal + conference"
+    },
+    {
+      "key": "EuroVis_2015_enjoyment",
+      "author": ["Bahador Saket", "Carlos Scheidegger", "Stephen Kobourov"],
+      "title": "Towards Understanding Enjoyment and Flow in Information Visualization",
+      "venue": "17th International Conference on Eurographics Working Group on Data Visualization (EuroVis)",
+      "year": 2015,
+      "thumbnail": "enjoyment.png",
+       "pdf": "http://bahadorsaket.com/publication/eurovis_short_2015.pdf",
+      "type": "conference"
+    },
+    {
+      "key": "EuroVis_2015_memorability",
+      "author": ["Bahador Saket", "Carlos Scheidegger", "Stephen Kobourov", "Katy Borner"],
+      "title": "Map-based Visualizations Increase Recall Accuracy of Data",
+      "venue": "Computer Graphics Forum (Also presented at EuroVis)",
+      "year": 2015,
+      "thumbnail": "memorability.png",
+       "pdf": "http://bahadorsaket.com/publication/eurovis_long_2015.pdf",
+      "type": "journal + conference"
+    },
+    {
+      "key": "UIST_2014_visual",
+      "author": ["Farshid Tavakolizadeh","Jiawei Gu", "Bahador Saket"],
+      "title": "Traceband: Locating Missing Items by Visual Remembrance",
+      "venue": "27th ACM User Interface Software and Technology Symposium (UIST)",
+      "year": 2014,
+      "thumbnail": "visual.png",
+       "pdf": "https://farshid.ws/pub/Traceband_Locating_Missing_Items_by_Visual_Remembrance.pdf",
+      "type": "poster"
+    },
+    {
+      "key": "GD_2014_crossing",
+      "author": ["Stephen Kobourov","Sergey Pupyrev", "Bahador Saket"],
+      "title": "Are Crossings Important for Drawing Large Graphs?",
+      "venue": "22nd International Symposium on Graph Drawing (GD)",
+      "year": 2014,
+      "thumbnail": "crossing.png",
+       "pdf": "http://bahadorsaket.com/publication/crossings.pdf",
+      "type": "conference"
+    },
+    {
+      "key": "EuroVis_2014_taxonomy",
+      "author": ["Bahador Saket","Paolo Simonetto","Stephen Kobourov"],
+      "title": "Group-Level Graph Visualization Taxonomy",
+      "venue": "16th International Conference on Eurographics Working Group on Data Visualization (EuroVis)",
+      "year": 2014,
+      "thumbnail": "taxonomy.png",
+       "pdf": "http://bahadorsaket.com/publication/group_tax.pdf",
+      "type": "conference"
+    },
+    {
+      "key": "InfoVis_2014_NLG",
+      "author": ["Bahador Saket","Paolo Simonetto","Stephen Kobourov","Katy Borner"],
+      "title": "Node, Node-Link, and Node-Link-Group Diagrams: An Evaluation",
+      "venue": "IEEE Transactions on Visualization and Computer Graphics (Also presented at InfoVis)",
+      "year": 2014,
+      "thumbnail": "nlg.png",
+       "pdf": "http://bahadorsaket.com/publication/nlg_diagrams.pdf",
+      "type": "journal + conference",
+      "supp": {
+        "Video": "https://www.youtube.com/watch?v=1qWDm-ksKQM"
+      }
+
+    },
+    {
+      "key": "MobileHCI_2014_TalkZone",
+      "author": ["Bahador Saket","Sijie Yang","Hong Tan","Koji Yatani", "Darren Edge"],
+      "title": "TalkZones: Section-based Time Support for Presentations",
+      "venue": "16th International Conference on Human-Computer Interaction with Mobile Devices and Services (MobileHCI)",
+      "year": 2014,
+      "thumbnail": "talkzone.png",
+       "pdf": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/mhci0285-saketA.pdf",
+       "award": "Honorable Mention (top 5%)",
+      "type": "conference",
+       "supp": {
+        "Video": "https://www.youtube.com/watch?v=90MpLqvHJjw&t=3s"
+      }
+    },
+    {
+      "key": "CSCW_2013_notification",
+      "author": ["Bahador Saket","Chrisnawan Prasojo"," Yongfeng Huang", "Shengdong Zhao"],
+      "title": "Designing an effective vibration-based notification interface for mobile phones",
+      "venue": "16 International Conference on Computer Supported Cooperative Work and Social Computing (CSCW)",
+      "year": 2013,
+      "thumbnail": "vibration.png",
+       "pdf": "https://dl.acm.org/citation.cfm?id=2441946",
+      "type": "conference",
+       "supp": {
+        "Video": "https://www.youtube.com/watch?v=IUTQkS_7ZTs&t=5s"
+      }
+    }
+    
+  ]
+}

@@ -1,0 +1,133 @@
+/*.container {
+  width:90%;
+    margin:0 auto 0 auto;
+    margin-top: 30px;
+}
+*/
+
+.pub {
+    margin-bottom: 10px;
+    /*Indentation for year*/
+    /*margin-left: 10px;*/
+    display: flex;
+}
+
+.pubInfo {
+    font-size: 0.95em;
+    margin-bottom: 10px;
+}
+
+.me {
+    font-weight: bolder;
+    color: black;
+}
+
+.title {
+    font-size: 16px;
+    margin-bottom: 3px;
+}
+
+.venue {
+    color: gray;
+    margin-bottom: 3px;
+}
+
+.thumbnail {
+    float: left;
+    flex-grow: 0;
+    /* do not grow - initial value: 0 */
+    flex-shrink: 0;
+    /* do not shrink - initial value: 1 */
+    flex-basis: 100px;
+    /* width/height - initial value: auto */
+    border: 1px solid #021a40;
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
+
+.thumbnail:hover {
+    border: 1px solid rgb(145, 20, 20);
+}
+
+.thumbnail-link {
+    margin-bottom: 10px;
+}
+
+.award-icon {
+    margin-left: 10;
+    margin-right: 5;
+}
+
+.award-text {
+    font-size: 14px;
+    vertical-align: text-top;
+    color: #474747;
+    text-decoration: underline;
+    margin-bottom: 3px;
+}
+
+.authors {
+    color: #474747;
+    margin-bottom: 3px;
+}
+
+.type-tag {
+    font-size: 13px;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    padding-left: 7;
+    padding-right: 7;
+    border-radius: 5px;
+    margin-bottom: 3px;
+}
+
+.supp {
+    color: #474747;
+    background-color: white;
+}
+
+
+/*h3
+{
+  color: #707070;
+  margin-left: 15px;
+
+}
+
+
+a:link, a:visited
+{
+    color:rgb(145,20,20);
+		text-decoration: none;
+}
+
+a:hover, a:active {
+  	color:rgb(145,20,20);
+  	text-decoration: underline;
+}*/
+
+.projects .rows {
+    padding-top: 20px;
+}
+
+.project {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.project .title {
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+
+.project .descr {
+    color: gray;
+    margin-bottom: 3px;
+}
+
+.project .authors {
+    margin-bottom: 3px;
+}

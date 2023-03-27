@@ -1,0 +1,155 @@
+<html>
+  <head>
+  <title>User Experiment</title>
+  <script src="scripts/jquery-1.11.0.min.js"></script>
+  <script src="scripts/Blob.js"></script>
+  <script src="scripts/FileSaver.js"></script>
+  <script src="https://cdn.firebase.com/js/client/2.4.2/firebase.js"></script>
+  <style>
+
+		.question {
+			margin-left: auto;
+			margin-right: auto;
+			width:80%; /* 	WIDTH OF QUESTIONS' CONTAINER, IMAGES WILL FIT TO THIS CONTAINER AS WELL  */
+			height:auto;
+		    
+			border: 1px solid #ccc;
+			padding: 5px 5px 30px 5px;
+			background-color: #f3f3f3;
+			font-family:verdana;
+		}
+		
+		input[type="radio"] {
+		  margin-right: 5px;
+		  margin-left: 10px;
+		}
+		
+		.centerImage{
+			margin-left: auto;
+			margin-right: auto;
+			display: block;
+		}
+		
+		.questionImage{
+		    padding-top: 10px;
+			width: 99%;
+			height:auto;
+			  
+		}
+		embed::-webkit-scrollbar {  
+			    display: none;
+			 }
+
+  </style>
+  <script>
+  function enlarge(){
+		if($('.zoom').attr('src') == 'scripts/zoom.png')
+		{
+			$('.questionImage').css({
+				'padding-top': '0px',
+				'transition': 'width 0.5s, margin 0.5s',
+				'width': '120%',
+				'margin-left': '-10%',
+				'border': '10px solid #f3f3f3'
+			});
+			$('.zoom').attr('src', 'scripts/unzoom.png');
+		}
+		else
+		{
+			$('.questionImage').css({
+				'padding-top': '10px',
+				'transition': 'width 0.5s, margin 0.5s',
+				'width': '100%',
+				'margin-left': '0%',
+				'border': ''
+			});
+			$('.zoom').attr('src', 'scripts/zoom.png');
+		}	
+  }
+
+   var stream0 = ""; 
+   var stream1 = ""; 
+   var stream2 = ""; 
+   var checkpoint = 0;
+   var x;
+   function showNextQ(){
+   
+		var prevQ = parseInt($('.question').attr('id')); // get id of the submitting question 
+		var currentQ = prevQ + 1; 
+		
+		tempTime = checkpoint;
+		var date = new Date();
+		checkpoint = date.getTime(); // record the time, in milliseconds since 1970
+		
+		
+		if(currentQ == 1) // going to load 1st Q, store personal details from prev page
+		{
+			// stream += $('input:text[name="firstname"]').val();
+			// stream += "," + $('input:text[name="lastname"]').val();
+			stream0 += $('input:radio[name="age"]:checked').val();
+			stream0 += "," + $('input:radio[name="sex"]:checked').val();
+			stream0 += "," + $('input:radio[name="hours"]:checked').val();
+			stream0 += "," + $('#name')[0].value+",";
+
+		    $("#CONTAINER").load( "questions_PC.html #" + currentQ);
+		}
+		if(currentQ > 1) // going to load Q2 - Qn, store Qn-1 answers
+		{ 
+		   if(currentQ > 2){
+		   	  if($('#text')[0].value!="")
+               {
+	 		  	  stream1 += currentQ + " -- "+ $('#text')[0].value+",";
+				  stream2 += parseInt( (checkpoint-tempTime)/1000 ) + ","; // convert to seconds and save
+	              $("#CONTAINER").load( "questions_PC.html #" + currentQ);
+              }
+            }
+            else
+            {
+            	 $("#CONTAINER").load( "questions_PC.html #" + currentQ);
+            }
+					
+		}
+
+   }
+
+   function saveAnswers()
+   {
+   	    var timestamp = new Date().getTime();
+		var mydb = new Firebase("https://intense-torch-1450.firebaseio.com/");
+		//console.log(stream0, stream1, stream2);
+		var obj = {
+				userid: Math.ceil(timestamp),
+				bio: stream0,
+				time: stream2.slice(0, -1),
+				value: stream1.slice(0, -1)
+  	    }
+  	    mydb.push(obj);
+		
+		/*
+		var now = new Date();
+
+		//Pad given value to the left with "0"
+		function AddZero(num) { return (num >= 0 && num < 10) ? "0" + num : num + ""; }
+		var filename = [[now.getFullYear(), AddZero(now.getMonth() + 1), AddZero(now.getDate())].join("."), [AddZero(now.getHours()), AddZero(now.getMinutes())].join("-"), 																	     now.getHours() >= 12 ? "PM" : "AM"].join(" ");
+		var blob = new Blob([stream], {type: "text/plain;charset=utf-8"});
+		saveAs(blob, filename + ".csv");
+		*/
+   }
+
+</script>
+  </head>
+     <body>
+
+	 
+		<div id="CONTAINER" >
+			 <div class="question" id="0"> <!-- This is considered as question 0 -->
+ 			
+			     Please enter your name here and start the study: <input id="name" name="answer" /> </br> </br>
+				 <input type="submit" value="Submit and Start the Experiment" onclick="showNextQ()" />
+				
+			   
+			</div>
+		</div>
+    </body>
+  
+</html>
