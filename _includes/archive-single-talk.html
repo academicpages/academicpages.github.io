@@ -32,8 +32,8 @@
       {% else %}
         {{ title }}
       {% endif %}
-      {% if post.slides %}
-        <div class="pdf-bubble"><a class="pdf-link" href="{{ post.slides }}">slides</a></div>
+      {% if post.pdf %}
+        <div class="pdf-bubble"><a class="pdf-link" href="{{ post.pdf }}">slides</a></div>
       {% endif %}
     </h2>
     {% if post.read_time %}
@@ -51,6 +51,8 @@
         {{post.type}}, {{ post.venue }},  {{post.location}}
       </p>
     {% endif %}
-    <!--{% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}-->
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% endif %}
   </article>
 </div>
