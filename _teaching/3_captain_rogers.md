@@ -5,7 +5,7 @@ type: "Touch screen and keyboard Game"
 permalink: /games/captain_rogers
 venue: "written in JavaScript, HTML5"
 date: 2023-03-04
-location: "https://github.com/shawnxd/captain_rogers"
+location: "https://github.com/shawnxd/CaptainRogers"
 ---
 
 [**Click to Play on Phone or Laptop!**](https://shawnxd.github.io/CaptainRogers/)
