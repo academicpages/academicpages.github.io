@@ -48,7 +48,7 @@ Figure.2
 Figure.3 
 </div>
 ---
-
+  
 Research on ecological risk assessment and traffic carrying capacity of road areas in ecological function zones,Sep.2021 - Sep.2022
 ======
 Lanzhou Jiaotong University | Research Assistant
@@ -87,4 +87,4 @@ Air pollutant concentration prediction based on LSTM-CNN,Sept.2021- Oct.2021
 * Considering regional coordinated prediction of weather using LSTM-CNN to mine the temporal and spatial characteristics of pollutants between multiple sites
 * Test comparing LSTM and LSTM-CNN, and the prediction results with different hyperparameters
 * Delivery: Participated in The 18th China Post-Graduate Mathematical Contest in Modeling, won the 3rd prize
-                  
+                   
