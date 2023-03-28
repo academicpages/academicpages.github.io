@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign sorted-portfolio = site.gallery | sort: 'date' | reverse %}
-{% for post in sorted-portfolio limit:20 %}
+{% assign sorted-gallery = site.gallery | sort: 'date' | reverse %}
+{% for post in sorted-gallery limit:20 %}
   {% include archive-single.html %}
 {% endfor %}
 
