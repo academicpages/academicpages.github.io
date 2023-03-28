@@ -15,6 +15,12 @@ Prior to the Ph.D. program, I received my Master's degree in Computer Science fr
 
 Email: wang dot dian at northeastern dot edu
 
+## News
+- 03/2023: We are organizing the [Workshop on Symmetries in Robot Learning](https://sites.google.com/view/rss23-sym) at RSS 2023. Call for contributions is now open.
+- 02/2023: I will be joining the Boston Dynamic AI Institute as a summer intern.
+- 01/2023: Our paper [The Surprising Effectiveness of Equivariant Models in Domains with Latent Symmetry](https://arxiv.org/pdf/2211.09231.pdf) is accepted at ICLR 2023 as a spotlight presentation.
+- 01/2023: Two papers are accepted at ICRA 2023.
+
 ## Publication
 <style>
 .button {
