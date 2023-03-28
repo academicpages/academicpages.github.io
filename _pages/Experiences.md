@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Experiences"
+title: ""
 permalink: /experiences/
 author_profile: true
 ---
@@ -8,11 +8,17 @@ author_profile: true
 
 {% include base_path %}
 
-Personal details
+Software development
 ======
-* Birth  11/24/1997
-* Gender  Male 
-* Citizenship  Chinese
+* a b c
+
+Research
+======
+* d e f
+
+Engineering projects
+======
+* g h i
 
 {% for post in site.experiences reversed %}
   {% include archive-single.html %}
