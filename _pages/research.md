@@ -19,13 +19,12 @@ title: ""
 * “The Role of Experience in Learning for Index Insurance Products: Evidence from Rural Kenya”, March 2023. Revised & Resubmitted to the *Journal of Economic Behavior and Organization*. [Available Upon Request] 
 <!-- * [Contact for latest version](mailto:aranya.chakraborty@mail.mcgill.ca) -->
 <!-- * [Paper PDF](/files/pdf/The Role of Experience in Learning for Index Insurance.pdf) -->
+* “The Role of Active Discussion in Learning about Uncertain Technologies,” March 2023. (with [Javier Escobal](https://www.grade.org.pe/en/investigadores/personal/jescobal/), [Sonia Laszlo](https://sites.google.com/site/sonialaszlo), and [Jim Warnick](https://www.mcgill.ca/economics/jim-engle-warnick)) [Available Upon Request] 
 
 # Work in Progress
 
-* “The Role of Active Discussion in Learning about Uncertain Technologies.” (with [Javier Escobal](https://www.grade.org.pe/en/investigadores/personal/jescobal/), [Sonia Laszlo](https://sites.google.com/site/sonialaszlo), and [Jim Warnick](https://www.mcgill.ca/economics/jim-engle-warnick))
-* “Microinsurance for the Poor: Long-Term Follow Up.” (with [Matthieu Chemin](https://www.matthieuchemin.com/))
 * “Assessing the Impact of Judicial Independence in Developing Countries: Evidence from Rural Bangladesh.” (with [Matthieu Chemin](https://www.matthieuchemin.com/))
-
+* “Microinsurance for the Poor: Long-Term Follow Up.” (with [Matthieu Chemin](https://www.matthieuchemin.com/))
 
 # Book Chapter
 
