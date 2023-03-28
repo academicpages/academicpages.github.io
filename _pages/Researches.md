@@ -9,17 +9,17 @@ Research on the Traffic Capacity of Highway Region Ecological Environment—— 
 ======
 * Objective: To study the impact of highway traffic on the surrounding environment, calculate the carrying capacity of traffic
 * Delivery: A postgraduate thesis, and a paper titled The Maximum Traffic Capacity of Highway Region: Under Road Region Environment Constrains
-
+  
 ---
 <div align=center>
 <br/><img src='/images/picture_1.png'>
 Figure.1 
-    
+   
 <br/><img src='/images/picture_2.png'>
 Figure.2 
 </div>
 ---
-
+  
 Intelligent quality detection of lane rendering data,Aug.2022- Sept.2022 
 ======
 * Objective: To efficiently detect whether there are defects in the rendered generated map data for navigation
@@ -87,4 +87,4 @@ Air pollutant concentration prediction based on LSTM-CNN,Sept.2021- Oct.2021
 * Considering regional coordinated prediction of weather using LSTM-CNN to mine the temporal and spatial characteristics of pollutants between multiple sites
 * Test comparing LSTM and LSTM-CNN, and the prediction results with different hyperparameters
 * Delivery: Participated in The 18th China Post-Graduate Mathematical Contest in Modeling, won the 3rd prize
-                
+                  
