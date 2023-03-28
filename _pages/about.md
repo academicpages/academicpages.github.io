@@ -239,6 +239,7 @@ Ondrej Biza, **Dian Wang**, Robert Platt, Jan-Willem van de Meent, Lawson LS Won
 <br>
 
 ## Service
+Organizer: RSS2023 Workshop on Symmetries in Robot Learning  
 Reviewer: ICRA2023, CoRL2022, RAL2022, T-RO2022, ICRA2022, IROS2021, ICRA2019
 
 ## CV
