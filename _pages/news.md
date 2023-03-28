@@ -14,7 +14,7 @@ News
 
 I was awarded the Outstanding TIGA Post Graduate of the Year.
 
-![TIGA Post Graduate of the Year Certificate](/images/TIGA.jpg "TIGA Post Graduate of the Year Certificat")
+![TIGA Post Graduate of the Year Certificate](/images/TIGA.jpg "TIGA Post Graduate of the Year Certificate")
 
 --- 
 

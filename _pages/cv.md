@@ -44,8 +44,11 @@ Publications
   
 Teaching
 ======
-* C++ Programming for Games, B.Sc. Computer Games Technology, Birmingham City University
+* **Module Tutor for C++ Programming for Games**, B.Sc. Computer Games Technology, Birmingham City University
   - Delivering theoretical and practical classes on 2D game development adopting Objected-Oriented Programming principles, teaching students to build, test and profile the performance of their games.
-  
-* Programming for Game Engines, B.Sc. Computer Games Technology, Birmingham City University
+
+* **Module Coordinator for Game Audio**, B.Sc. Sound Engineering and Production, B.Sc Computer Games Technology, B.Sc Music Technology
+  - Delivering content on implementations of audio interactions in game engines, tutoring groups of students collaborating across Sound Engineering and Production, Music Technology and Computer Games Technology UG courses.
+
+* **Demonstrator for Programming for Game Engines**, B.Sc. Computer Games Technology, Birmingham City University
   - Assisting in theoretical teaching of core elements of game engines and graphics applications. The module requires students to build and test the performance of an engine based on OpenGL to render game scenes.
