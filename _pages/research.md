@@ -15,8 +15,8 @@ title: ""
 
 # Working Papers
 
-* “Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption”, October 2022. [Working Paper](/files/pdf/Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption.pdf), [Long Slides](/files/pdf/jmp_slides_l.pdf), [Short Slides](/files/pdf/jmp_slides_s.pdf), [Twitter Thread](https://twitter.com/aranyacecon/status/1595069831648317440)
-* “The Role of Experience in Learning for Index Insurance Products: Evidence from Rural Kenya”, March 2023. Revised & Resubmitted to the *Journal of Economic Behavior and Organization*. [Available Upon Request] 
+* “Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption,” October 2022. [Working Paper](/files/pdf/Network-Based Targeting with Heterogeneous Agents for Improving Technology Adoption.pdf), [Long Slides](/files/pdf/jmp_slides_l.pdf), [Short Slides](/files/pdf/jmp_slides_s.pdf), [Twitter Thread](https://twitter.com/aranyacecon/status/1595069831648317440)
+* “The Role of Experience in Learning for Index Insurance Products: Evidence from Rural Kenya,” March 2023. Revised & Resubmitted to the *Journal of Economic Behavior and Organization*. [Available Upon Request] 
 <!-- * [Contact for latest version](mailto:aranya.chakraborty@mail.mcgill.ca) -->
 <!-- * [Paper PDF](/files/pdf/The Role of Experience in Learning for Index Insurance.pdf) -->
 * “The Role of Active Discussion in Learning about Uncertain Technologies,” March 2023. (with [Javier Escobal](https://www.grade.org.pe/en/investigadores/personal/jescobal/), [Sonia Laszlo](https://sites.google.com/site/sonialaszlo), and [Jim Warnick](https://www.mcgill.ca/economics/jim-engle-warnick)) [Available Upon Request] 
