@@ -1,6 +1,6 @@
 ---
 title: "Isogeometric dual reciprocity boundary element method for solving transient heat conduction problems with heat sources"
-collection: publications
+collection: gallery
 permalink: /gallery/2021-03-15-journal-number-1
 excerpt: 'Solving transient heat conduction problems with heat sources via IG-DRBEM'
 date: 2021-03-15
