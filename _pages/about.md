@@ -1,16 +1,27 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: #"About me"
+excerpt: "About me (excerpt)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi, I am a fourth-year Ph.D. candidate from the Department of Engineering Mechanics, Dalian University of Technology. I am very fortunate to be advised by Prof. Xu Guo and Chang Liu. Previously, I received my bachelor's degree (Engineering Mechanics) from Hefei University of Technology in 2019, supervised by Prof. Bo Yu. My research interests include applied and computational mechanics, structure analysis and design, computer graphics, computer-aided geometric design, and engineering computing.
 
-A data-driven personal website
+Currently, I am researching on the analysis, simulation, design, and optimization of complex surface structures. Based on the explicit structure optimization method, we construct a general framework to design surface structures, applications include the lightweight design of shell structures, stiffness enhancement of thin-walled structures, and structural control of bio-membranes and low-dimensional materials. The algorithms developed have been successfully applied to specific engineering projects and integrated to softwares.
+
+If you are interested in my researches, please feel free to contact me.
+[Email](mailto:huowd@mail.dlut.edu.cn) / [Wechat](../images/wechat_fig.png) / [QQ](../images/tencent_qq.png)
+
+<!-- You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). -->
+
+<!-- Hi, I am a fourth year PhD candidate from [Department of Engineering Mechanics](http://denm.dlut.edu.cn/), [Dalian University of Technology](https://www.dlut.edu.cn/). I am very fortunate to be advised by Prof. [Xu Guo](http://faculty.dlut.edu.cn/guoxuwebsite/zh_CN/index.htm) and [Chang Liu](http://faculty.dlut.edu.cn/liuchang/zh_CN/index.htm). Previously, I recieved my bachelor's degree (Engineering Mechanics) from [Hefei University of Technology](http://www.hfut.edu.cn/) at 2019, supervised by Prof. [Bo Yu](http://em.hfut.edu.cn/2016/0811/c499a7193/page.htm). -->
+
+<!-- My research interest is deeply rooted in the obsession of pursueing optimum structures in  -->
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -48,3 +59,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ -->

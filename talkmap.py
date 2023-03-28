@@ -13,11 +13,11 @@
 
 import glob
 import getorg
-from geopy import Nominatim
+from geopy.geocoders import Nominatim
 
 g = glob.glob("*.md")
 
-
+# user_agent='http'
 geocoder = Nominatim()
 location_dict = {}
 location = ""
