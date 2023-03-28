@@ -22,17 +22,17 @@ title: ""
 
 # Work in Progress
 
-* “The Role of Active Discussion in Learning about Uncertain Technologies” (with [Javier Escobal](https://www.grade.org.pe/en/investigadores/personal/jescobal/), [Sonia Laszlo](https://sites.google.com/site/sonialaszlo), and [Jim Warnick](https://www.mcgill.ca/economics/jim-engle-warnick))
-* “Microinsurance for the Poor: Long-Term Follow Up” (with [Matthieu Chemin](https://www.matthieuchemin.com/))
-* “Assessing the Impact of Judicial Independence in Developing Countries: Evidence from Rural Bangladesh” (with [Matthieu Chemin](https://www.matthieuchemin.com/))
+* “The Role of Active Discussion in Learning about Uncertain Technologies.” (with [Javier Escobal](https://www.grade.org.pe/en/investigadores/personal/jescobal/), [Sonia Laszlo](https://sites.google.com/site/sonialaszlo), and [Jim Warnick](https://www.mcgill.ca/economics/jim-engle-warnick))
+* “Microinsurance for the Poor: Long-Term Follow Up.” (with [Matthieu Chemin](https://www.matthieuchemin.com/))
+* “Assessing the Impact of Judicial Independence in Developing Countries: Evidence from Rural Bangladesh.” (with [Matthieu Chemin](https://www.matthieuchemin.com/))
 
 
 # Book Chapter
 
-* “Food Insecurity, Price Volatility and Trade: A Panel Data Analysis in Developing Countries” (with [Panchanan Das](http://www.econcaluniv.ac.in/FacultyProfile.aspx?FI=13) and Swayambhu Mukherjee), published as Chapter 10 in *Indian Agriculture under Multilateral and Regional Trade Agreements - Competitiveness and Food Security*, Sharma and Bathla (eds.), CWS in association with Bookwell, Delhi, 2017, 177-194. [Book Link](https://www.academia.edu/44089071/Indian_Agriculture_Under_Multilateral_and_Regional_Trade_Agreements_Competitiveness_and_Food_Security)
+* “Food Insecurity, Price Volatility and Trade: A Panel Data Analysis in Developing Countries.” (with [Panchanan Das](http://www.econcaluniv.ac.in/FacultyProfile.aspx?FI=13) and Swayambhu Mukherjee), published as Chapter 10 in *Indian Agriculture under Multilateral and Regional Trade Agreements - Competitiveness and Food Security*, Sharma and Bathla (eds.), CWS in association with Bookwell, Delhi, 2017, 177-194. [Book Link](https://www.academia.edu/44089071/Indian_Agriculture_Under_Multilateral_and_Regional_Trade_Agreements_Competitiveness_and_Food_Security)
 
 # Other Papers
 
-* “Industrial Performance in West Bengal: Analysis of Technical Efficiency with ASI Data” (with [Panchanan Das](http://www.econcaluniv.ac.in/FacultyProfile.aspx?FI=13) and Swayambhu Mukherjee), August 2016. [Available Upon Request]  
+* “Industrial Performance in West Bengal: Analysis of Technical Efficiency with ASI Data.” (with [Panchanan Das](http://www.econcaluniv.ac.in/FacultyProfile.aspx?FI=13) and Swayambhu Mukherjee), August 2016. [Available Upon Request]  
 <!-- * [Paper PDF](/files/pdf/Industrial Performance in West Bengal.pdf) -->
 
