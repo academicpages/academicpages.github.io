@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent graduate of The University of Chicago where I double-majored in Computational and Applied Mathematics and Computer 
-Science. I was fortunate to be advised by Professor [Rebecca Willet](https://willett.psd.uchicago.edu/). Now I'm currently 
-working as an AI Engineer at [ThirdAI Corp.](https://thirdai.com).
+I am current working as an AI Engineer at [ThirdAI](https://thirdai.com) where I mostly work on a 
+variety of machine learning and engineering problems. Prior to that, I was a student at
+The University of Chicago where I double-majored in Computer Science and Computational and Applied Mathematics. I was fortunate enough to be advised by Professor [Rebecca Willet](https://willett.psd.uchicago.edu/) and to work with Professor [Raul Castro Fernandez](https://raulcastrofernandez.com/). 
+
+
+
 
 
