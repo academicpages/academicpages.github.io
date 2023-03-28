@@ -1,11 +1,5 @@
 # main links links
 main:
-  - title: "Gallery"
-    url: /gallery/
-
-  - title: "Experiences"
-    url: /experiences/
-
   - title: "Publications"
     url: /publications/
 
@@ -14,6 +8,12 @@ main:
 
   - title: "CV"
     url: /cv/
+
+  - title: "Gallery"
+    url: /gallery/
+
+  - title: "Experiences"
+    url: /experiences/
 
 #  - title: "Talks"
 #    url: /talks/

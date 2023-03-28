@@ -23,7 +23,7 @@ Education
 * Ph.D. in Solid Mechanics, Dalian University of Technology, 2019-present
 
 
-Awards
+Selected awards
 ======
 * Special Prize (Teamwork), International Engineering Mechanics Contest (Asian Region), 2019
 * Special Prize, Chinese Mechanics Competition (Anhui Province competition area), 2017
