@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Gallery"
-    url: /gallery/
+    url: /portfolio/
 
   - title: "Experiences"
     url: /experiences/
