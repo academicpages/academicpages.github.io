@@ -5,6 +5,19 @@ permalink: /Researches/
 author_profile: true
 ---
 
+Research on the Traffic Capacity of Highway Region Ecological Environment—— A Case of G30 Zhangye,Sept.2021- Jun.2023 
+======
+* Objective: To study the impact of highway traffic on the surrounding environment, calculate the carrying capacity of traffic
+* Delivery: A postgraduate thesis, and a paper titled The Maximum Traffic Capacity of Highway Region: Under Road Region Environment Constrains
+
+---
+<div align=center>
+<br/><img src='/images/picture_1.png'>
+Figure.1 
+<br/><img src='/images/picture_2.png'>
+Figure.2 
+
+
 Intelligent quality detection of lane rendering data,Aug.2022- Sept.2022 
 ======
 * Objective: To efficiently detect whether there are defects in the rendered generated map data for navigation
@@ -49,9 +62,9 @@ Lanzhou Jiaotong University | Research Assistant
 ---
 <div align=center>
 <br/><img src='/images/1.jpg'>
-Figure.4 Time series data (NDVI) using Landsat8 remote sensing images.
+Figure.1 Time series data (NDVI) using Landsat8 remote sensing images.
 <br/><img src='/images/4.png'>
-Figure.5 Correlation analysis between NDVI value and meteorology indexes.
+Figure.2 Correlation analysis between NDVI value and meteorology indexes.
 </div>
 ---
 
@@ -72,4 +85,4 @@ Air pollutant concentration prediction based on LSTM-CNN,Sept.2021- Oct.2021
 * Considering regional coordinated prediction of weather using LSTM-CNN to mine the temporal and spatial characteristics of pollutants between multiple sites
 * Test comparing LSTM and LSTM-CNN, and the prediction results with different hyperparameters
 * Delivery: Participated in The 18th China Post-Graduate Mathematical Contest in Modeling, won the 3rd prize
-             
+               
