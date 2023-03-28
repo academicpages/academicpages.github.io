@@ -13,7 +13,8 @@ Research on the Traffic Capacity of Highway Region Ecological Environment—— 
 <div align=center>
 <br/><img src='/images/picture_1.png'>        
 Figure.1 
-   
+</div>
+<div align=center>
 <br/><img src='/images/picture_2.png'>
 Figure.2 
 </div>
@@ -81,4 +82,4 @@ Air pollutant concentration prediction based on LSTM-CNN,Sept.2021- Oct.2021
 * Considering regional coordinated prediction of weather using LSTM-CNN to mine the temporal and spatial characteristics of pollutants between multiple sites
 * Test comparing LSTM and LSTM-CNN, and the prediction results with different hyperparameters
 * Delivery: Participated in The 18th China Post-Graduate Mathematical Contest in Modeling, won the 3rd prize
-                         
+                          
