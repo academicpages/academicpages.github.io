@@ -1,14 +1,13 @@
 ---
 layout: archive
-title: "Gallery"
-permalink: /gallery/
+title: "Projects"
+permalink: /portfolio/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% assign sorted-portfolio = site.gallery | sort: 'date' | reverse %}
+{% assign sorted-portfolio = site.portfolio | sort: 'date' | reverse %}
 {% for post in sorted-portfolio limit:20 %}
   {% include archive-single.html %}
 {% endfor %}
-
