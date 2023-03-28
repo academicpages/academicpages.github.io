@@ -10,7 +10,6 @@ Research on the Traffic Capacity of Highway Region Ecological Environment—— 
 * Objective: To study the impact of highway traffic on the surrounding environment, calculate the carrying capacity of traffic
 * Delivery: A postgraduate thesis, and a paper titled The Maximum Traffic Capacity of Highway Region: Under Road Region Environment Constrains
   
----
 <div align=center>
 <br/><img src='/images/picture_1.png'>
   
@@ -19,7 +18,6 @@ Figure.1
 <br/><img src='/images/picture_2.png'>
 Figure.2 
 </div>
----
   
 Intelligent quality detection of lane rendering data,Aug.2022- Sept.2022 
 ======
@@ -37,7 +35,6 @@ Robust Lane Detection through Self Pre-training with Masked Sequential Autoencod
 * Objective: To develop robust lane detection neural network model that can tackle challenging scenes
 * Delivery: A research paper titled Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss
 
----
 <div align=center>
 <br/><img src='/images/mask.jpg'>
 Figure.1 
@@ -48,7 +45,6 @@ Figure.2
 <br/><img src='/images/challenge_result1.jpg'>
 Figure.3 
 </div>
----
   
 Research on ecological risk assessment and traffic carrying capacity of road areas in ecological function zones,Sep.2021 - Sep.2022
 ======
@@ -62,14 +58,12 @@ Lanzhou Jiaotong University | Research Assistant
 * Determined the scope of the environmental impact of the highway is 600 meters using remote sensing datas
 * Delivery: Completed a research report, and prepared a project proposal for the National Natural Science Foundation of China
 
----
 <div align=center>
 <br/><img src='/images/1.jpg'>
 Figure.1 Time series data (NDVI) using Landsat8 remote sensing images.
 <br/><img src='/images/4.png'>
 Figure.2 Correlation analysis between NDVI value and meteorology indexes.
 </div>
----
 
 Research on the mechanism of the rural roads on the revitalization of rural industries in Gansu Province,Sep.2020 - Aug.2021
 ======
@@ -88,4 +82,4 @@ Air pollutant concentration prediction based on LSTM-CNN,Sept.2021- Oct.2021
 * Considering regional coordinated prediction of weather using LSTM-CNN to mine the temporal and spatial characteristics of pollutants between multiple sites
 * Test comparing LSTM and LSTM-CNN, and the prediction results with different hyperparameters
 * Delivery: Participated in The 18th China Post-Graduate Mathematical Contest in Modeling, won the 3rd prize
-                    
+                       
