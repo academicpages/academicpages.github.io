@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Blaise Munyampirwa"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Blaise Munyampirwa"
 description              : &description "personal description"
 url                      : https://blaisemuhirwa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
