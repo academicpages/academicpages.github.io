@@ -10,7 +10,7 @@ main:
   #  url: /teaching/    
     
   - title: "CV"
-    url: <a "https://github.com/luukschmitz/my-website/raw/master/CV_LS.pdf" target="_blank">PDF.</a>
+    url: https://github.com/luukschmitz/my-website/raw/master/CV_LS.pdf
         
   - title: "Contact"
     url: /contact/
