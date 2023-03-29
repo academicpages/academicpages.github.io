@@ -11,7 +11,7 @@ author_profile: true
 Software development
 ======
 * Explicit layout optimization of complex rib-reinforced thin-walled structures, 2023.02-present
-* Explicit topology optimization of shell structures, 2022.06-2023.03
+* Explicit topology optimization of shell structures, 2022.06-present
 
 Research
 ======
