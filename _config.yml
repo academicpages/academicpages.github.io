@@ -261,8 +261,10 @@ defaults:
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
 # Theme
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
+
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
@@ -277,6 +279,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-remote-theme
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
