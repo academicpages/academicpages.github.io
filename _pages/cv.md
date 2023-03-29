@@ -16,7 +16,11 @@ Education
 
 Work Experience
 ======
-* 04.2021 – Present\
+* 03.2022 – Present\
+  Prinicipal Computer Vision Engineer\
+  Sporttotal AG, Köln, Germany
+
+* 04.2021 – 03.2022\
   Staff Applied Research Scientist\
   Kaia Health GmbH, Munich, Germany
 
