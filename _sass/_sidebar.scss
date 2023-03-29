@@ -7,8 +7,8 @@
    ========================================================================== */
 
 .sidebar {
-  -webkit-transform: translate3d(0, 0 , 0);
-          transform: translate3d(0, 0 , 0);
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
 
   @include clearfix();
   margin-bottom: 1em;
@@ -17,7 +17,7 @@
     @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
-            transition: opacity 0.2s ease-in-out;
+    transition: opacity 0.2s ease-in-out;
 
     &:hover {
       opacity: 1;
@@ -29,16 +29,22 @@
     padding-right: 0;
   }
 
-  h2, h3, h4, h5, h6 {
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     margin-bottom: 0;
     font-family: $sans-serif-narrow;
   }
 
-  h3, h4 {
+  h3,
+  h4 {
     font-size: $type-size-5;
   }
 
-  p, li {
+  p,
+  li {
     font-family: $sans-serif;
     font-size: $type-size-6;
     line-height: 1.5;
@@ -74,7 +80,7 @@
   vertical-align: top;
   width: 36px;
   // set width only, for non-square avatars
-  // height: 36px;
+  height: 72px;
 
   @include breakpoint($large) {
     display: block;
@@ -83,8 +89,8 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 50%;
+    max-width: 200px;
+    border-radius: 20%;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -116,6 +122,7 @@
     margin-bottom: 10px;
   }
 }
+
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
