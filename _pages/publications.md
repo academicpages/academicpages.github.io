@@ -8,7 +8,7 @@ author_profile: true
 
 Manuscripts
 ======
-1. **Wang, S.**, Ummenhofer, C.C., Murty, S.A., Nguyen, H.T.., Buckley, B. (2023) Decadal Rainfall Extremes in Southeast Asia: Relative Roles of Internal Variability and External Forcings (in prep)
+1. **Wang, S.**, Ummenhofer, C.C., Murty, S.A., Nguyen, H.T.., Buckley, B. (2023) Decadal Rainfall Extremes in Southeast Asia: Relative Roles of Internal Variability and External Forcings (in prep Climate Dynamics)
 2. **Wang, S.**, Ummenhofer, C.C., Oppo, D., Murty, S.A., Wagner, P., Boning, C.W., Biastoch, A. (2023) Freshwater contributions to decadal variability of the Indonesian Throughflow (submitted to Geophysical Research Letters)
 3. Zhou, Y., McManus, J. F., Jacobel, A. W., Costa, K. M., **Wang, S.**, & Caraveo, B. A. (2021). Enhanced iceberg discharge in the western North Atlantic during all Heinrich events of the last glaciation. Earth and Planetary Science Letters, 564, 116910. [Reprint](https://www.sciencedirect.com/science/article/abs/pii/S0012821X21001692)
 4. Pavia, F. J., **Wang, S.**, Middleton, J., Murray, R. W., & Anderson, R. F. (2021). Trace Metal Evidence for Deglacial Ventilation of the Abyssal Pacific and Southern Oceans. Paleoceanography and Paleoclimatology, 36(9), e2021PA004226. [Reprint](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021PA004226)
