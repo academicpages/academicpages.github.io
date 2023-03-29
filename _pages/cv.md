@@ -45,7 +45,7 @@ I do research and coding for papers in the CCF-A conference of GNN model.
 
 ## Awards
 
-- The M Prize of American University Mathematical Modeling Competition in 2022
+- The M Prize of American University Mathematical Modeling Competition in 2022[certificate](https://staymylove.github.io/李泽钜M奖.pdf/)
 
 - The 1st prize of group A of python program design university in the Blue Bridge Cup of the National Software and Information Technology Professionals Competition
 
@@ -61,7 +61,7 @@ I do research and coding for papers in the CCF-A conference of GNN model.
 
 - Excellence Award of Internet plus Innovation and Entrepreneurship Competition in Beijing
 
-<!-- - 2022年美国大学生数学建模竞赛                             M奖
+<!-- - 2022年美国大学生数学建模竞赛                             M奖[curriculum vitae](https://staymylove.github.io/cv/).
 - 全国软件和信息技术专业人才大赛蓝桥杯python程序设计大学A组  一等奖
 - 第三十三届北京市大学生数学竞赛                           二等奖
 - 第五届华教杯全国大学生数学竞赛                           二等奖
