@@ -40,26 +40,26 @@ I do research and coding for papers in the CCF-A conference of GNN model.
 
 ## Publications
 - **Zeju Li**, Xinghan Liu, Guoshun Nan* , Jinfei Zhou, Xinchen Lyu, Qimei Cui, Xiaofeng Tao. Boosting Physical Layer Black-Box Attacks with Semantic Adversaries in Semantic Communications. *Proceedings of the International Communication Conference.* **(ICC 2023)(CCF-C)** [[pdf]](http://staymylove.github.io/files/ICC2023.pdf)
-- Xinghan Liu, Guoshun Nan*, Qimei Cui, **Zeju Li**, Peiyuan Liu, Zebin Xing, Hanqing Mu, Yuanwei Liu, Xiaofeng Tao. SemProtector: A Unified Framework for Semantic Protection in Deep Learning-based Semantic Communication Systems. **(Communciation Magazine)(SCI Q1)**
-- **Zeju Li**, Jinfei Zhou, Guoshun Nan* , Zhichun Li, Qimei Cui, Xiaofeng Tao. SemBAT: Physical Layer Black-box Adversarial Attacks for Deep Learning-based Semantic Communication Systems. *2022 IEEE 96th Vehicular Technology Conference.* **(VTC 2022-fall)(Core B)**
+- Xinghan Liu, Guoshun Nan*, Qimei Cui, **Zeju Li**, Peiyuan Liu, Zebin Xing, Hanqing Mu, Yuanwei Liu, Xiaofeng Tao. SemProtector: A Unified Framework for Semantic Protection in Deep Learning-based Semantic Communication Systems. **(Communciation Magazine)(SCI Q1)**(in revision)
+- **Zeju Li**, Jinfei Zhou, Guoshun Nan* , Zhichun Li, Qimei Cui, Xiaofeng Tao. SemBAT: Physical Layer Black-box Adversarial Attacks for Deep Learning-based Semantic Communication Systems. *2022 IEEE 96th Vehicular Technology Conference.* **(VTC 2022-fall)(Core B)** [[pdf]](http://staymylove.github.io/files/VTC2022.pdf)
 
 ## Awards
 
 - The M Prize of American University Mathematical Modeling Competition in 2022 [[certificate]](https://staymylove.github.io/files/李泽钜M奖.pdf)
 
-- The 1st prize of group A of python program design university in the Blue Bridge Cup of the National Software and Information Technology Professionals Competition
+- The 1st prize of group A of python program design university in the Blue Bridge Cup of the National Software and Information Technology Professionals Competition [[certificate]](https://staymylove.github.io/files/蓝桥杯一.jpg)
 
-- The 2nd prize of the 33rd Beijing University Student Mathematics Competition
+- The 2nd prize of the 33rd Beijing University Student Mathematics Competition [[certificate]](https://staymylove.github.io/files/数学北京二等奖.jpg)
 
-- The 2nd prize of National Education Cup National Undergraduate Mathematics Competition
+- The 2nd prize of National Education Cup National Undergraduate Mathematics Competition [[certificate]](https://staymylove.github.io/files/华教杯决赛二等奖.jpg)
 
-- The 3rd prize of National Undergraduate Mathematics Competition
+- The 3rd prize of National Undergraduate Mathematics Competition [[certificate]](https://staymylove.github.io/files/数学全国三等奖.jpg)
 
-- The 3rd prize of physics competition of Beijing University of Posts and Telecommunications in 2021
+- The 3rd prize of physics competition of Beijing University of Posts and Telecommunications in 2021 [[certificate]](https://staymylove.github.io/files/物理竞赛.jpg)
 
-- The 3rd prize of Young Goose Program Innovation and Entrepreneurship Competition Final
+- The 3rd prize of Young Goose Program Innovation and Entrepreneurship Competition Final [[certificate]](https://staymylove.github.io/files/获奖证书.jpg)
 
-- Excellence Award of Internet plus Innovation and Entrepreneurship Competition in Beijing
+- Excellence Award of Internet plus Innovation and Entrepreneurship Competition in Beijing [[certificate]](https://staymylove.github.io/files/互联网+优秀奖.jpg)
 
 <!-- - 2022年美国大学生数学建模竞赛                             M奖[curriculum vitae](https://staymylove.github.io/cv/).
 - 全国软件和信息技术专业人才大赛蓝桥杯python程序设计大学A组  一等奖
