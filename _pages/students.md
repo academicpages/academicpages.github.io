@@ -33,7 +33,7 @@ header:
 </style>
 </head>
 
-# My Students
+# Current Graduate Students
 
 <div class="grid-container">
   <div class="grid-item" >
@@ -53,6 +53,25 @@ header:
 	</ul>
  </div>
 </div>
+
+# Past Graduate Students
+<div class="grid-container">
+ <div class="grid-item">
+ <ul> 
+  <li>Aurangzeb</li>
+  <li>Hansang Bae</li>
+  <li>	Fahed Jubair</li>
+  <li>Okwan Kwon</li>
+  <li>Okwan Kwon</li>
+  <li>Amit Sabne</li>
+  <li>Putt Sakdhnagool</li>
+  <li>Zhengxiao (Tony) Li</li>
+  <li>TsungTai Yeh</li>   
+	</ul>
+ </div>
+</div>
+
+
 
 # Prospective graduate students
 
