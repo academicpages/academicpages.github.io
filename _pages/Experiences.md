@@ -20,7 +20,7 @@ Research
 * Solid components embedded in thin-walled structures, supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.03-2023.03
 * Explicit layout optimization of complex rib-reinforced thin-walled structures, supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.03-2022.10
 * Explicit topology optimization of surface structures, supervised by Prof. Xu Guo and Prof. Chang Liu, 2021.03-present
-* Texture synthesis and its application in computational mechanics, supervised by Prof. Xu Guo and Prof. Chang Liu, 2020.10-2021.03
+* Texture synthesis and its application to computational mechanics, supervised by Prof. Xu Guo and Prof. Chang Liu, 2020.10-2021.03
 * Structure design considering EMS and EMI, supervised by Prof. Xu Guo and Prof. Chang Liu,  2020.04-2020.09
 * Constructing the underlying algorithm of IGBEM, supervised by Prof. Bo Yu, 2017.10-2019.06
 * On the improvement of piezoelectric properties of ZnO, supervised by Prof. Xiaobao Li, 2017.06-2019.03
@@ -31,7 +31,7 @@ Engineering projects
 
 Contest
 ======
-High School Physics Competition (A round trip to the 168 high school), 2011.
+* High School Physics Competition (A round trip to the 168 high school), 2011.
 
 {% for post in site.experiences reversed %}
   {% include archive-single.html %}
