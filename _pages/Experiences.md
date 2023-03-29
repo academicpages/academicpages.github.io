@@ -27,7 +27,7 @@ Research
 
 Engineering projects
 ======
-* C*7, H*1, X*1
+* C-related 7 times, H-related 1 time, X-1 time
 
 {% for post in site.experiences reversed %}
   {% include archive-single.html %}
