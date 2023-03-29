@@ -1,1 +1,1 @@
-The webpage for the Gravel LAb at Mcgill University
+The webpage for the Gravel Lab at Mcgill University
