@@ -30,7 +30,7 @@ Selected awards
 * National Scholarship, Ministry of Education, 2018
 * Merit Student, Hefei University of Technology, 2018
 * 1st Class Scholarship, Hefei University of Technology, 2016
-* 1st Prize, "EBSCO Cup" Literature Information Acquisition Competition (Anhui Province competition area), 2018
+* 1st Prize, "EBSCO Cup" Literature Information Acquisition Competition, 2018
 * 2nd Prize (Teamwork), Open-Source Industrial Software Integration Competition, 2023
 * 2nd Prize (Personal), International Engineering Mechanics Contest (Asian Region), 2019
 * 2nd Class Scholarship, Hefei University of Technology, 2018
