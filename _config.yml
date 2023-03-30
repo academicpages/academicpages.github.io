@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Simon Gravel"
+  name             : "Gravel Lab"
   avatar           : "photo_simon.jpg"
-  bio              : "Population geneticist"
-  location         : "McGill University"
+  bio              : "Statistical and population genetics"
+  location         : "McGill University \n 740 Dr Penfield"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Simon+Gravel"
   googlescholar    : "https://scholar.google.com/citations?user=0wQ8O80AAAAJ&hl=fr"
