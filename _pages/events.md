@@ -35,7 +35,7 @@ Conferences and Workshops
 
 
 ## *Past*
-- [Town Hall on Machine Learning for Land Data Assimilation, 22 February, Online](https://aimesproject.org/machine-learning-town-hall/) 
-- [Town Hall on Ensemble Methods for Land Data Assimilation, 28 February - 1 March, 2023, Online](https://aimesproject.org/ensembles-town-hall/) 
+- [Town Hall on Machine Learning for Land Data Assimilation, 2023](https://aimesproject.org/machine-learning-town-hall/) 
+- [Town Hall on Ensemble Methods for Land Data Assimilation, 2023](https://aimesproject.org/ensembles-town-hall/) 
 - [2nd Annual Land DA Community 2022 Workshop: "New Directions in Land Data Assimilation"](https://aimesproject.org/lda_workshop_2022/)
 - [1st Annual Land DA Community 2021 Workshop: "Tackling Technical Challenges in Land Data Assimilation"](https://aimesproject.org/lda_workshop/)
