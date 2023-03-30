@@ -75,7 +75,7 @@ Yongjun Zhang and Jennifer Heerwig. 2023. "[Gender, Race, and Intersectionality 
 
 Yongjun Zhang, Sijia Liu, Yi Wang, and Xinguang Fan. 2022. ''[Detecting Fake News on Twitter in the Chinese Language Community](https://yongjunzhang.com/files/Fake_News.pdf)."
 
-Yongjun Zhang, Hao Lin, Yi Wang, and Xinguang Fan. 2022. ''[Friends and foes: Sinophobia was viral on Twitter during the early COVID-19 pandemic](https://yongjunzhang.com/files/Sinophobia_in_COVID19.pdf)."
+Yongjun Zhang, Hao Lin, Yi Wang, and Xinguang Fan. 2022. ''[Sinophobia was popular on Twitter during the early COVID-19 pandemic](https://yongjunzhang.com/files/Sinophobia_in_COVID19.pdf)."
 
 Yongjun Zhang. 2021. "[Using Population Mobility to Measure Racial Residential Segregation in the U.S. Metro Areas](https://osf.io/pvbxw/)." 
 
