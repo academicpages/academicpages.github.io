@@ -17,7 +17,7 @@ Conferences and Workshops
 ### 3rd Annual Land Data Assimilation Community Virtual Workshop: Recent Technical Developments in Land Data Assimilation, 19th-21st June 10am-1pm EDT, Online 
 [Submit your abstracts and/or breakout group proposals by 19 April 2023](https://docs.google.com/forms/d/e/1FAIpQLSfctXyIC96nls4DyaJ6YheCHoKyh9klsgO87AkpVBCVPyRWZg/viewform)
 
->**When:** Wednesday, 19 June 2023 to 21 June 2023 | 10:00-13:00 EDT // 16:00-19:00 CEST
+>**When:** Wednesday, 19 June 2023 to 21 June 2023, 10:00-13:00 EDT // 16:00-19:00 CEST
 >
 >**Organizers:** Andy Fox (NASA GSFC, USA), Jana Kolassa (NASA GSFC, USA), Natasha MacBean (Western University, Canada), Tristan Quaife (University of Reading, UK), Hannah Liddy (AIMES, Columbia University, USA)
 >
