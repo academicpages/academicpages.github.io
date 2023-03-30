@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About the lab"
+excerpt: "About the lab"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-This page contains information about the Gravel lab at McGill university. 
+Welcome! Our lab is interested in population and statistical genetics. We develop mathematical and statistical methods to understand genome biology and evolution. Sometimes we also apply these methods and try to understand things. 
