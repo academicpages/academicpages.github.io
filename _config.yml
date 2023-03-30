@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Prof. Simon Gravel"
+title                    : "Gravel Lab page"
 title_separator          : "-"
 name                     : &name "Simon Gravel"
-description              : &description "Population Geneticist, Associate professor at McGill University"
+description              : &description "Population and Statistical Genetics at McGill University"
 url                      : https://gravellab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gravellab.github.io"
