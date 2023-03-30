@@ -14,5 +14,10 @@ Authoritarian regimes massively engage in "negative propaganda" that spreads dis
 </p>
 </details><br/>
 
-
-    
+## State Capacity and Public Opinion
+* Carter, David, B. and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** _Working Paper._
+<details><summary>Abstract</summary>
+<p>
+The most rugged and remote areas of contemporary states have historically had less state presence. Since the middle of the 20th century, most states have steadily increased their presence in these formerly ``ungoverned'' spaces. This increase in state presence involves increases in administrative capacity, the promotion of infrastructure, and development projects aimed to increase tax revenue and foster closer connections to the central government. Theoretical arguments about the consequences of increased state presence range from assertions that citizens in these areas resist and dislike the state, to the idea that state presence can increase trust in government and foster greater social trust among anonymous individuals. Lacking is much evidence over whether and how individual-level attitudes towards the state and fellow citizens are distinct in rugged areas of the state with contemporary development projects. We provide evidence on this front using detailed spatial data on terrain ruggedness, contemporary infrastructure developments, historical proxies for state penetration, and two different geographically specific surveys. We demonstrate that individuals in rugged areas with greater contemporary development footprints exhibit more trust in the central government and higher levels of social trust.
+</p>
+</details><br/>    
