@@ -3,9 +3,10 @@ permalink: /research/
 title: "Research"
 ---
 
-# Working Papers
 
-## Propaganda
+## Working Papers
+
+### Propaganda
 
 * Deng, Rex Weiye. **Does Negative Propaganda against Foreign Rivals Cultivate Regime-Stabilizing Attitudes? Evidence from China.** _Under Review._
 <details><summary>Abstract</summary>
@@ -14,7 +15,7 @@ Authoritarian regimes massively engage in "negative propaganda" that spreads dis
 </p>
 </details><br/>
 
-## State Capacity and Public Opinion
+### State Capacity and Public Opinion
 * Carter, David, B. and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** _Working Paper._
 <details><summary>Abstract</summary>
 <p>
