@@ -2,7 +2,7 @@
 title: "Research Methods in Sociology--Using Computational Methods to Scrape Data from the Internet"
 author: "Yongjun Zhang, Ph.D."
 institute: "Department of Sociology and IACS, Stony Brook Unversity"
-date: "March 30,2022"
+date: "March 29,2023"
 output:
   rmdformats::readthedown:
     highlight: pygments
@@ -227,7 +227,7 @@ R has a wide variety of data types including scalars, vectors (numerical, charac
 
 +-------------+---------------------------------------------------------------+
 | Types       | Examples                        |
-+=============+===============================================================+
++-------------+---------------------------------------------------------------+
 | scalars     | a \<- 1; b\<-"hello word"; c \<- (a ==1) |
 +-------------+------------------------------------------+
 | vectors     | a \<- c(1, 2, 3, 4); b \<- c ("a", "b", "c")|
