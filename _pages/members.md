@@ -1,11 +1,11 @@
 ---
-permalink: /non-menu-page/
-title: "Page not in menu"
-excerpt: "This is a page not in th emain menu"
+permalink: /members/
+title: "lab member page"
+excerpt: "Lab member page"
 author_profile: true
 redirect_from:
-  - "/nmp/"
-  - "/nmp.html"
+  - "/members/"
+  - "/members.html"
 ---
 
 
