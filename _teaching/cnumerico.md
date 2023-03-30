@@ -33,7 +33,7 @@ Disponível no sistema SAGRES.
 
 Avaliação
 =======
-* Prova (Unidade I): 
+* Prova (Unidade I): 03/05/2023
 * Trabalhos (Unidade II)
 [Trabalhos 1](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/trabalhos01.md)
 * Trabalhos (Undiade III): 
@@ -51,6 +51,7 @@ Slides das Aulas
 [Aula 09](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/aula09.pdf)
 [Aula 10](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/aula10.pdf)
 [Aula 11](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/aula11.pdf)
+[Aula 12](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/aula12.pdf)
  
 Notebooks Jupyter
 ========
