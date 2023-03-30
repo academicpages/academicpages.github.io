@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 ---
 
@@ -11,4 +11,3 @@ author_profile: true
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
-
