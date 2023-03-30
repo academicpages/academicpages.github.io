@@ -1,5 +1,5 @@
 ---
-title: "Strategic Taskfroce to Accelerate Mathematics Pathways"
+title: "Strategic Taskforce to Accelerate Mathematics Pathways"
 collection: projects
 permalink: /projects/STAMP
 date: 2019-05-01
