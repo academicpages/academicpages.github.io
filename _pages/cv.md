@@ -45,7 +45,7 @@ Work experience
 Skills
 ======
 Programming Languages:
- - Python/Julia/C++/R
+ - Python/Julia/C/C++/R/bash
 
 Languages:
  - Russian (Native)
