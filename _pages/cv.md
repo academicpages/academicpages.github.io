@@ -13,11 +13,13 @@ PC/TPC member
 ======
 IEEE ICCE-Berlin 2022; IEEE BDS’20; IEEE ZINC’20&21; IEEE ICCE-Berlin’19; IEEE ISCT’19; IEEE BigDataService’19; IEEE ICNAS'2019; IEEE ICCE’19; ACM_MidSE_2017; IEEE ICPADS 2017; ACM_MidSE_2016; IEEE Parlearning’14; IEEE MLAA'15; IEMTRONICS 2020
 
-Editorial Board
+Editor/Editorial Board
 ======
-- Energies, SCI-indexed (IF: 3.54), ISSN: 0360-5442, 2021
+- [Blockchains](https://www.mdpi.com/journal/blockchains/editors), 2023, ISSN: 2813-5288, Editorial Board
+- Sensors, [Special Issue "Advances in Blockchain Challenges and Opportunities"](https://www.mdpi.com/journal/sensors/special_issues/0E9R83J7XJ), Lead guest editor
+- Energies, SCI-indexed (IF: 3.54), ISSN: 0360-5442, 2021, Editorial Board 
 - International Journal of Information and Communication Sciences (IJICS), ISSN Print:  2575-1700
-ISSN Online:  2575-1719, 2018 – 2020
+ISSN Online:  2575-1719, 2018 – 2020, Editorial Board
 
 Academic chair/organizer
 =====
