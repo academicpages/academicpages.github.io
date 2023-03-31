@@ -3,7 +3,7 @@ title: "QM Teaching Certificate - DYOC"
 collection: teaching
 type: "Certificate"
 permalink: /teaching/2022-fall-teaching-1
-venue: "CSUF, Computer Science"
+venue: "QM Certification of Quality"
 date: 2022-07-26
 location: "Fullerton, CA"
 ---
