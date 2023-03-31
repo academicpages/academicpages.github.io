@@ -19,7 +19,8 @@ author_profile: false
 | Thu, 2023-03-25 | 1:25pm - 2:25pm |                |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 | Thu, 2023-04-06 | 1:25pm - 2:25pm |    Yuan Yao             |                                                                      | Vincent 215 |
 | Thu, 2023-04-13 | 1:25pm - 2:25pm |       |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
-| Thu, 2023-04-20 | 1:25pm - 2:25pm |       Kenji Fukaya         |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
+| Thu, 2023-04-18 | 3:30pm - 4:30pm |       Kenji Fukaya         |      1 :  Generating function and Lagrangian Floer theory      | Vincent Hall 301 |
+| Thu, 2023-04-20 | 2:30pm - 3:30pm |       Kenji Fukaya         |   2 :  Lagrangian Correspondence and Floer homology | Vincent Hall 301 |
 | Thu, 2023-04-27 | 1:25pm - 2:25pm |      Franco Vargas Pallete          |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 | Thu, 2023-05-04 | 1:25pm - 2:25pm |   Georgios Dimitroglou Rizell   |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 
@@ -46,3 +47,25 @@ author_profile: false
 - Chris Wendl
   - As every symplectic topologist learns in Kindergarten, the moduli space of J-holomorphic curves is generically smooth only if one restricts to the open subset of simple curves; the multiple covers are a problem, and they cannot in general be perturbed away. This is a fundamental difficulty in every equivariant Fredholm problem, resulting from the essential incompatibility between transversality and symmetry. Sometimes, however, the symmetry is important and you really don't want to perturb it away -- and it turns out that sometimes, it is possible to achieve transversality anyway, or something almost as nice! In this talk I will present a general method for understanding such issues and illustrate it via two popular examples of equivariant Fredholm problems: (1) closed orbits for a 1-parameter family of contact forms or Hamiltonian structures, and (2) unbranched covers of J-holomorphic curves in a symplectic cobordism with only hyperbolic asymptotic orbits.
 
+- Kenji Fukaya (talk 1)
+  - There are two methods to study Lagrangian submanifold of the
+cotangent bundle.
+One is using Floer homology.
+The other is Morse theory of generating functions.
+In this talk I will explain the relation between them.
+(Based on a joint work with A. Daemi.)
+If time permit I will talk also an expected relation to
+the theory of singular support of sheaves.
+
+- Kenji Fukaya (talk 2)
+  - Weinstein proposed to regard the Lagrangian submanifold
+of the direct product of two symplectic manifolds as a
+morphism between them.
+This story is combined with Lagrangian Floer theory
+by people including Wehrheim and Woowards.
+In this talk I will explain a way to build a functor
+from a category of symplectic manifold
+to a category of A infinity categories.
+The proof of the main theorem of the
+first seminar is based on this story.
+(Two talks are independent however.)
