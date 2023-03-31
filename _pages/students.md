@@ -8,9 +8,14 @@ redirect_from:
 ---
 
 {% include base_path %}
-Past graduate students under supervision in CSUF (partial list)
+Graduate students (partial list)
 ============
-- Yusuke Tomatsu: MS, paper supervisor, Fall'21
+- Dano Nahabedian: MS, thesis, Spr'22
+  Thesis: Blockchain Security and the Healthcare Industry
+- Trieu Le Khanh Nguyen: MSE, thesis, Fall'22
+  Thesis: Metaverse Technologies and Applications
+- Yusuke Tomatsu: MS, academic paper, Fall'21
+  Paper: Bitcoin and Renewable Energy Mining
 - Viraj Deshwal: grader and research volunteer Spr’18, Fall’18; graduate project supervisor, Spr’19
 - Madhura Ansingkar: research volunteer Spr’18; student research assistant Fall’18&Spr’19; graduate project supervisor, Spr’19
 - Nupur Pande: research volunteer Spr’18, Fall’18
