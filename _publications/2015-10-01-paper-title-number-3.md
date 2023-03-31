@@ -6,8 +6,7 @@ excerpt: "<img src='/images/500x300.png'>"
 date: 2022-09-17
 venue: 'Journal of King Saud University - Computer and Information Sciences'
 paperurl: 'https://doi.org/10.1016/j.jksuci.2022.09.013'
-codeurl: ''
-citation: '**Xuechen Li**, Xiuhua Li, Shimin Zhang, Guiying Zhang, Muqing Zhang, Heyang Shang.'
+citation: '<b>Xuechen Li</b>, Xiuhua Li, Shimin Zhang, Guiying Zhang, Muqing Zhang, Heyang Shang.'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
