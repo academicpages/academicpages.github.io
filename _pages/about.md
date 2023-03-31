@@ -13,11 +13,11 @@ My research interests are mainly in deep learning applications in agriculture, i
 News
 ======
 03/2023 One paper on sugarcane leaf data enhancement in a environment has been submitted to [Computers and Electronics in Agriculture](https://www.sciencedirect.com/journal/computers-and-electronics-in-agriculture) (JCR: Q1 top, IF: 6.757).
-</br>
+<br>
 10/2022 One patent has been certified.
-</br>
+<br>
 10/2022
-</br>
+<br>
 09/2022 One paper on [sugarcane leaf disease diagnosis](https://www.sciencedirect.com/science/article/pii/S1319157822003421) is accepted (JCR:Q1 top, IF:9.006).
 
 
