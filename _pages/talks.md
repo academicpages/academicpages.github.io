@@ -20,7 +20,7 @@ IEEE ZINC'20; IEEE RTSS'20; IEEE NFSP'12; WASA’16; IEEE S&P’18; ICAI'18; IEE
 
 Non-scholarly presentations and attendances
 ======
-LA Blockchain Summit'21; Blockchain & Booze'23; Global DeFI Summit'20; NFT Summit'21
+LA Blockchain Summit'21; Blockchain & Booze'23; Global DeFI Summit'20; NFT Summit'21; etc.
 
 Media report
 =======
