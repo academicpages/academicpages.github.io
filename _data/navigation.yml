@@ -2,11 +2,11 @@
 main:
   - title: "Publications"
     url: /publications/
-
+    
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Project"
+  - title: "Projects"
     url: /projects/
         
   - title: "Blog Posts"
