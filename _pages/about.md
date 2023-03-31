@@ -24,7 +24,7 @@ News
 10/2022: One patent has been certified.
 <br>
 <br>
-09/2022: One paper on [sugarcane leaf disease diagnosis](https://www.sciencedirect.com/science/article/pii/S1319157822003421) is accepted by [Journal of King Saud University - Computer and Information Sciences](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences)(JCR:Q1 top, IF:9.006).
+09/2022: One paper on [sugarcane leaf disease diagnosis](https://doi.org/10.1016/j.jksuci.2022.09.013) is accepted by [Journal of King Saud University - Computer and Information Sciences](https://www.sciencedirect.com/journal/journal-of-king-saud-university-computer-and-information-sciences)(JCR:Q1 top, IF:9.006).
 
 
 
