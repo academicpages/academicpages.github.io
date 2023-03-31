@@ -44,11 +44,11 @@ Metaverse, DeFi fraud/scam detection, NFTs, GameFi, SocialFi, Web 3.0, etc.
 ======
 Looking for highly self-motivated students to join us building a decentralized Crypto-driven Metaverse for Diversity, Equity and Inclusion!
 
-Blockchain Club
+[Blockchain Club](https://tuffytoken.github.io/)
 ======
-Students, faculty and staff who are Crypto advocate are welcomed to join us!
+The Blockchain Lab is a community for advocates and beginners to explore areas such as NFTs, Crypto, Bitcoin, and other Blockchain technologies.
 
-Site: [https://tuffyverse.com/blockchain-club](https://tuffyverse.com/blockchain-club) 
+Students, faculty and staff who are Crypto advocate are welcomed to join us!
 
 Discord: [https://discord.gg/x9wZEXXFE6](https://discord.gg/x9wZEXXFE6)
 
