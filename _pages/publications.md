@@ -11,6 +11,17 @@ author_profile: true
 
 {% include base_path %}
 
+<h1>Master Thesis</h1>
+------
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'Master_thesis' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+------
+
+<br>
+<br>
 <h1>International Journals</h1>
 ------
 {% for post in site.publications reversed %}

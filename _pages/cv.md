@@ -15,11 +15,12 @@ redirect_from:
 * 석사, 조선대학교 컴퓨터공학과 (2023.08 예정)
 <!-- * Ph.D in Computer Science and Engineering, Rice university (expected) -->
 
-<!-- Master thesis
+졸업 논문
 ---
-* Title : *null*
+* Title (Korean) : *5G Massive MIMO 시스템에서 주파수 및 에너지 효율성의 공동 최적화를 위한 다목적 강화 학습 기반 전력 할당*
+* Title (English) : *Multi-objective Reinforcement Learning-Based Power Allocation for Joint Optimizing Spectral and Energy Efficiency in 5G Massive MIMO System*
 * Supervisors : *null*
-* Abstract : *null* -->
+* Abstract : *null*
 
 
 연구 분야
