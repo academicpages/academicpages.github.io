@@ -63,6 +63,13 @@ University/College/Department Service
 - CS Graduate Committee, 2018-19 AY
 - CS Assessment Committee, 2018-19, 2019-20 AY
 - CS Ad-hoc Committee of Cybersecurity Concentration, 2018-19 AY
+- ECS Commencement Committee, 2019
+- Faculty advisor of Blockchain Club, since 2021
+- Faculty advisor of OSS, 2018-20 AY
+- Faculty advisor of Video Game Development Club, 2017-18 AY
+- Faculty advisor of ACM-W, since Fall’17 
+- NCWIT (National Center for Women & Information Technology) CSUF faculty representative, since Fall’17
+
 
 Community Service
 ======
