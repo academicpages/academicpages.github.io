@@ -3,7 +3,7 @@ title: "QM Teaching Certificate - APPQMR"
 collection: teaching
 type: "Certificate"
 permalink: /teaching/2020-fall-teaching-1
-venue: "CSUF, Computer Science"
+venue: "QM Certification of Quality"
 date: 2020-08-26
 location: "Fullerton, CA"
 ---
