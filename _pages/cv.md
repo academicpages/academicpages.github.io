@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Complete CV](https://beatriceachilli.github.io/files/Curriculum_Vitae_Achilli.pdf)
 
 Education
 ======
@@ -23,7 +22,9 @@ Work experience
 * Jan 2021-Jul 2021: Machine Learning and Artificial Intelligence Analyst
   * Jakala
 
-  
+
+[CV](https://beatriceachilli.github.io/files/Curriculum_Vitae_Achilli.pdf)
+
 <!---
 Skills
 ======
