@@ -2,7 +2,7 @@
 title: "SLViT: Shuffle-convolution-based lightweight Vision transformer for effective diagnosis of sugarcane leaf diseases"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.<br/><img src='/images/500x300.png'>'
+excerpt: "This paper is about the number 3. The number 4 is left for future work.<br/><img src='/images/500x300.png'>"
 date: 2015-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
