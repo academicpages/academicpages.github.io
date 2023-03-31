@@ -37,16 +37,20 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-
-    <tr style="border-collapse: separate; border-spacing: 30em;">
-    <td style="border-collapse: collapse; border: none;">
-     {{post.excerpt}}
-    </td>
-    <td style="border-collapse: collapse; border: none;">
-      {{post.excerpt}}
-    </td>
-    </tr>
-
+    <table style="border: none; border-collapse: collapse;" border="0">
+      <colgroup><col style="width:40%"><col style="width:60%"></colgroup>
+      <tbody>
+        <tr style="border-collapse: separate; border-spacing:30em;">
+          <td style="border-collapse: collapse; border: none;">
+            {{post.excerpt}}
+            </td>
+          <td style="border-collapse: collapse; border: none;">
+            {{post.excerpt}}
+            </td>
+        </tr>
+      </tbody>
+      </table>
+      
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
