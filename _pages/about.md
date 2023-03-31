@@ -48,9 +48,7 @@ Looking for highly self-motivated students to join us building a decentralized C
 ======
 The Blockchain Lab is a community for advocates and beginners to explore areas such as NFTs, Crypto, Bitcoin, and other Blockchain technologies.
 
-Students, faculty and staff who are Crypto advocate are welcomed to join us!
-
-Discord: [https://discord.gg/x9wZEXXFE6](https://discord.gg/x9wZEXXFE6)
+Students, faculty and staff who are Crypto advocate are welcomed to join our [Discord](https://discord.gg/x9wZEXXFE6)
 
 Education
 ======
