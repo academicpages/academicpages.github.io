@@ -40,11 +40,9 @@ Recent Research/Innovation Interests
 ======
 Metaverse, DeFi fraud/scam detection, NFTs, GameFi, SocialFi, Web 3.0, etc.
 
-TuffyVerse Lab
+[TuffyVerse Lab](https://tuffyverse-lab.github.io/)
 ======
 Looking for highly self-motivated students to join us building a decentralized Crypto-driven Metaverse for Diversity, Equity and Inclusion!
-
-Site: [https://tuffyverse.com/tuffyverse-lab](https://tuffyverse.com/tuffyverse-lab)
 
 Blockchain Club
 ======
