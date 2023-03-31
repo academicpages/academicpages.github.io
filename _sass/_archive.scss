@@ -59,6 +59,10 @@
 
 .archive__item-excerpt {
   margin-top: 0;
+  // 更改的
+  img {
+    width: 50%;
+  }
   font-size: $type-size-6;
 
   & + p {
