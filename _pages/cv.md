@@ -28,7 +28,8 @@ Summer schools and workshops
 Work experience
 ======
 
-* Nov 2022 - Feb 2023 : Special collaboration project in Alkemy company, developing an anomaly detection module using statistical methods
+* Nov 2022 - Feb 2023 : Special collaboration project in Alkemy company
+  - developing an anomaly detection module using statistical methods
 * Feb 2023 - present : Teaching Assistant on "Machine learning", BEMACS BSc program
 * Sep 2022 - Dec 2022 : Teaching Assistant on "Game Theory", elective course in BSc program
 * Sep 2022 - Dec 2022 : Teaching Assistant on "Computer Programming", BAI BSc program
