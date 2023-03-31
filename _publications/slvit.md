@@ -1,7 +1,7 @@
 ---
 title: "SLViT: Shuffle-convolution-based lightweight Vision transformer for effective diagnosis of sugarcane leaf diseases"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/slvit
 excerpt: "<img src='/images/500x300.png'>"
 date: 2022-09-17
 venue: 'Journal of King Saud University - Computer and Information Sciences'
