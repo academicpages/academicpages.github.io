@@ -45,7 +45,7 @@ Impact Factor = 4.832. Ranked #5 in Engineering & Computer Science (general) by 
 Impact Factor = 6.108. Ranked #6 in Artificial Intelligence by Google Scholar
 
 
-Membership
+Academic Membership
 ======
 - IEEE Blockchain Community
 - IEEE Cybersecurity Community
