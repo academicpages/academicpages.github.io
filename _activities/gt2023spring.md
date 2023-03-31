@@ -19,7 +19,7 @@ author_profile: false
 | Thu, 2023-03-25 | 1:25pm - 2:25pm |                |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 | Thu, 2023-04-06 | 1:25pm - 2:25pm |    Yuan Yao             |                                                                      | Vincent 215 |
 | Thu, 2023-04-13 | 1:25pm - 2:25pm |       |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
-| Thu, 2023-04-18 | 3:30pm - 4:30pm |       Kenji Fukaya         |      1 :  Generating function and Lagrangian Floer theory      | Vincent Hall 301 |
+| Tu, 2023-04-18 | 3:30pm - 4:30pm |       Kenji Fukaya         |      1 :  Generating function and Lagrangian Floer theory      | Vincent Hall 301 |
 | Thu, 2023-04-20 | 2:30pm - 3:30pm |       Kenji Fukaya         |   2 :  Lagrangian Correspondence and Floer homology | Vincent Hall 301 |
 | Thu, 2023-04-27 | 1:25pm - 2:25pm |      Franco Vargas Pallete          |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 | Thu, 2023-05-04 | 1:25pm - 2:25pm |   Georgios Dimitroglou Rizell   |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
