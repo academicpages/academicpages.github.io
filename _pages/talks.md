@@ -16,11 +16,11 @@ The following a short video intro. about TuffyVerse presented in CSUF ECS resear
 
 Scholarly presentations
 ======
-IEEE NFSP'12; WASA’16; ICAI'18; IEEE ICCE’19; IEEE ICII’19, etc.
-
-Conference presentations and attendance
-======
 IEEE ZINC'20; IEEE RTSS'20; IEEE NFSP'12; WASA’16; IEEE S&P’18; ICAI'18; IEEE ICCE’19; IEEE ICII’19; IEEE IPSN’20; IEEE SusTech’20, etc.
+
+Non-scholarly presentations and attendances
+======
+LA Blockchain Summit'21; Blockchain & Booze'23; Global DeFI Summit'20; NFT Summit'21
 
 Media report
 =======
