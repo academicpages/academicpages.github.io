@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Complete CV](https://beatriceachilli.github.io/files/Curriculum_Vitae_Achilli.pdf)
+
 Education
 ======
 * Ph.D in Statistics and Computer Science, Università Bocconi, 2025 (expected)
