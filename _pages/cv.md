@@ -16,7 +16,7 @@ IEEE ICCE-Berlin 2022; IEEE BDS’20; IEEE ZINC’20&21; IEEE ICCE-Berlin’19; 
 Editor/Editorial Board
 ======
 - [Blockchains](https://www.mdpi.com/journal/blockchains/editors), 2023, ISSN: 2813-5288, Editorial Board
-- Sensors, [Special Issue "Advances in Blockchain Challenges and Opportunities"](https://www.mdpi.com/journal/sensors/special_issues/0E9R83J7XJ), Lead guest editor
+- Sensors, [Special Issue "Advances in Blockchain Challenges and Opportunities"](https://www.mdpi.com/journal/sensors/special_issues/0E9R83J7XJ), SCI-indexed (IF: 4.05), ISSN: 1424-8220, 2023, Lead guest editor
 - Energies, SCI-indexed (IF: 3.54), ISSN: 0360-5442, 2021, Editorial Board 
 - International Journal of Information and Communication Sciences (IJICS), ISSN Print:  2575-1700
 ISSN Online:  2575-1719, 2018 – 2020, Editorial Board
