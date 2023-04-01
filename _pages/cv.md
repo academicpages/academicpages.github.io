@@ -59,6 +59,7 @@ University/College/Department Service
 ======
 - ECS Image Improvement Advisory Committee, Chair, 2018-19 AY
 - CS IRC, Chair, 2018-19, 2019-20 AY
+- ECS Curriculum Committee, 2022-23 AY
 - CS Senior Design Project Coordinator, 2019-20 AY
 - CS Graduate Committee, 2018-19 AY
 - CS Assessment Committee, 2018-19, 2019-20 AY
