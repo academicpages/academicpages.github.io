@@ -28,3 +28,8 @@ Class Learning Objectives
 - CLO6: Construct and test alternative Blockchain mechanics and protocols.
 - CLO7: Use Solidity, JavaScript and/or other related programming languages.
 - CLO8: Use Truffle and/or other programming and testing platforms.
+
+Final Project Demo
+======
+CPSC 559 - Adv. Blockchain final project demos: Defi, NFT marketplace, SocialFi, etc. Congratulations to Spring 2022 class for a successful completion!
+<img src='/images/559_spr_2022_final_combined.jpg'>
