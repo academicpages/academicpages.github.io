@@ -22,8 +22,10 @@
         </td>
       <td style="border-collapse: collapse; border: none;">
         <p><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> <br>
-          {% if post.data != '0000-00-00' %}
+          {% if post.data != '1900-01-01' %}
            {{ post.citation }} <br><i>{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }} </i>
+           {% else %}
+           {{ post.citation }} <br><b>Under review.</b>
            {% endif %}
           </p>
         </td>
