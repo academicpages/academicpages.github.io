@@ -22,10 +22,10 @@
         </td>
       <td style="border-collapse: collapse; border: none;">
         <p><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> <br>
-          {% if post.published %}
+          {% if post.status == published %}
            {{ post.citation }} <br><i>{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }} </i>
            {% else %}
-           {{ post.citation }} <br><i>Under review,{{ post.date | default: "1900-01-01" | date: "%Y" }} </i>
+           {{ post.citation }} <br><i>{{post.status}},{{ post.date | default: "1900-01-01" | date: "%Y" }} </i>
            {% endif %}
           </p>
         </td>
