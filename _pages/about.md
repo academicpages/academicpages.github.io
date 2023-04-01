@@ -20,7 +20,7 @@ During my Ph.D., my research interests were in natural language processing and s
 
 News
 =====
-* Feb. 2023: We are hiring research interns. Feel free to send your CV to me if you are interested in working with us. 
+* Apr. 2023: A first-authored resource paper about *vertical federated learning* benchmark for ad ranking was accepted at SIGIR 2023. 
 * Feb. 2023: Our new preprints about *multi-domain pretraining* and *impression pacing* were out. 
 * Jan. 2023: A co-first authored paper about *multi-domain retrieval* was accepted at WWW 2023.  
 * Aug. 2022: A co-corresponding authored paper about *multi-domain ranking* was accepted at CIKM 2022.  
