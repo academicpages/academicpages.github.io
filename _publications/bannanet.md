@@ -3,7 +3,7 @@ title: "Extraction method of physical phenotypic parameters of banana plant base
 collection: publications
 permalink: /publication/banananet
 excerpt: <img src="/images/banananet.png">
-date: 2023-01-01
+date: 2023-01-02
 venue: 
 paperurl: 
 citation: 'Peng Wei, <b>Xuechen Li</b>, Xiuhua Li'
