@@ -13,17 +13,16 @@
 {% endif %}
 
 
-    <table style="border: none; border-collapse: collapse;" border="0">
-      <colgroup><col style="width:40%"><col style="width:60%"></colgroup>
-      <tbody>
-        <tr style="border-collapse: separate; border-spacing:30em;">
-          <td style="border-collapse: collapse; border: none;">
-            {{post.excerpt}}
-            </td>
-          <td style="border-collapse: collapse; border: none;">
-            <p><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> <br> {{ post.citation }} <br><i>{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }} </i></p>
-            </td>
-        </tr>
-      </tbody>
-      </table>
-
+<table style="border: none; border-collapse: collapse;" border="0">
+  <colgroup><col style="width:40%"><col style="width:60%"></colgroup>
+  <tbody>
+    <tr style="border-collapse: separate; border-spacing:30em;">
+      <td style="border-collapse: collapse; border: none;">
+        {{post.excerpt}}
+        </td>
+      <td style="border-collapse: collapse; border: none;">
+        <p><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> <br> {{ post.citation }} <br><i>{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }} </i></p>
+        </td>
+    </tr>
+  </tbody>
+  </table>
