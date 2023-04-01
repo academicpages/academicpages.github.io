@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Wenlin Han is currently an associate professor (with early tenure and promotion), with [the Department of Computer Science, California State University, Fullerton, USA.](https://www.fullerton.edu/ecs/cs/faculty/) 
+Dr. Wenlin Han is currently an associate professor (with early tenure and promotion), with [the Department of Computer Science, California State University, Fullerton, USA.](https://www.fullerton.edu/ecs/cs/faculty/) 
 
 She is the director of [TuffyVerse Lab](https://tuffyverse-lab.github.io/), a multi-disciplinary research team on Web 3.0 & Metaverse.
 
