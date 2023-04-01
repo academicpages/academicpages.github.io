@@ -45,7 +45,7 @@
             {{post.excerpt}}
             </td>
           <td style="border-collapse: collapse; border: none;">
-            <p><a href="{{ post.link }}">{{ title }}</a> <br> {{ post.citation }} <br><i>{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }} </i></p>
+            <p><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a> <br> {{ post.citation }} <br><i>{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }} </i></p>
             </td>
         </tr>
       </tbody>
