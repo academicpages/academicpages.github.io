@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a fourth-year Ph.D. candidate from the Department of Engineering Mechanics, Dalian University of Technology. I am very fortunate to be advised by Prof. Xu Guo and Chang Liu. Previously, I received my bachelor's degree (Engineering Mechanics) from Hefei University of Technology in 2019, supervised by Prof. Bo Yu. My research interests include applied and computational mechanics, structure analysis and design, computer graphics, computer-aided geometric design, and engineering computing.
+Hi, I am a fourth-year Ph.D. candidate from the Department of Engineering Mechanics, Dalian University of Technology. I am very fortunate to be supervised by Prof. Xu Guo and Chang Liu. Previously, I received my bachelor's degree (Engineering Mechanics) from Hefei University of Technology in 2019, supervised by Prof. Bo Yu. My research interests include applied and computational mechanics, structure analysis and design, computer graphics, computer-aided geometric design, and engineering computing.
 
 Currently, I am researching on the analysis, simulation, design, and optimization of complex surface structures. Based on the explicit structure optimization method, we construct a general framework to design surface structures, applications include the lightweight design of shell structures, stiffness enhancement of thin-walled structures, and structural control of bio-membranes and low-dimensional materials. The algorithms developed have been successfully applied to specific engineering projects and integrated to softwares.
 
