@@ -14,7 +14,6 @@ We find large non-linear effects of weather on displacement where an increase in
 We find significant effects of conflict events on displacement (which are masked when the data is aggregated) with a 1.5 standard deviation increase in conflict events increasing displacement 50-fold. 
 We further show that displacement itself has little detectable effect on the occurrence of conflict events. 
 
-# ![graphical abstract](https://ars.els-cdn.com/content/image/1-s2.0-S0959378023000079-gr1_lrg.jpg "graphical abstract")
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S0959378023000079)
 
