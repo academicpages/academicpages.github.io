@@ -129,3 +129,9 @@ Under review, 2022 -->
 
 <b>[Characterization on Asynchronous Multiple Access in Non-Line of Sight Scattering Communication](https://ieeexplore.ieee.org/abstract/document/8403738)
 </b><br>Guanchu Wang, Chen Gong, <b>Zhimeng Jiang</b>, and Zhengyuan Xu. <br>IEEE International Conference on Communications Workshops (ICC Workshops), Kansas City, MO, USA, May 20-24, 2018.
+
+## Patent
+
+<b>[System and Methods for Bid Optimization in Real-Time Bidding](https://www.freepatentsonline.com/y2023/0089895.html)
+</b><br><b>Zhimeng Jiang</b>, Kaixiong Zhou, Mi Zhang, Rui Chen, Xia Hu, and Soo-Hyun Choi. <br> 
+US Patent App. 17/676,687

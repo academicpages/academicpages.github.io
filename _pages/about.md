@@ -20,6 +20,8 @@ News
 <!-- <div style="height: 150px; overflow-y: scroll;">  -->
 <!-- <div style="height:350px;overflow:auto;background:#f6f6f6;"> -->
 
+**Mar. 2023:**  One Us patent on [bid optimization](https://www.freepatentsonline.com/y2023/0089895.html), developed in collaboration with Samsung, is issued.
+
 **Jan. 2023:** One paper Hierarchy-Aware Multi-Hop Question Answering is accepted by WWW 2023.
 
 **Jan. 2023:** One paper on Fair Graph Representations is accepted by ICLR 2023 (Spotlight).
