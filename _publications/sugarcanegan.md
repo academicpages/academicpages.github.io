@@ -3,10 +3,11 @@ title: "SugarcaneGAN: An effective method for sugarcane leaf disease enhancement
 collection: publications
 permalink: /publication/sugarcanegan
 excerpt: <img src='/images/sugarcanegan.png'>
-date: 2023-04-05
+date: 0000-00-00
 venue: 
 paperurl: 
-citation: '<b>Xuechen Li</b>, Xiuhua Li'
+citation: 
 ---
-Stay tuned.
+Abstract
 ---
+The manuscript is under review.
