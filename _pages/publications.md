@@ -2,7 +2,7 @@
 layout: archive
 title: ""
 permalink: /publications/
-sitemap: true
+sitemap: false
 author_profile: true
 ---
 

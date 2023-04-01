@@ -23,7 +23,7 @@ Since September 2021, I am a Postdoc at Aarhus University ([Crypto Group](https:
 From August 2017 to September 2021, I was a Ph.D. student at Stevens Institute of Technology under the supervision of [Giuseppe Ateniese](https://ateniese.github.io).
 I got my Bachelor's and Master's degree in Computer Science at Sapienza University of Rome.
 
-Here is my [CV](/files/cvmodern.pdf), for full information.
+For a detailed CV, feel free to reach me via email.
 
 
 ### Research Interests ###
