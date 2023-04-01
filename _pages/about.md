@@ -20,7 +20,7 @@ She is a receipient of Unity & Meta Grant Award.
 
 More
 ======
-She has been publishing papers in very competitive venues with three papers ranked as the top 1% most-cited articles published in Computer Science. 
+She has been publishing papers in very competitive venues with three papers ranked as the top 1% most-cited articles published in Computer Science in the years published.
 
 One paper was ranked #9 by Google Scholar among all Computer Security & Cryptography articles in 2016. 
 
