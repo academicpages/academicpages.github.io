@@ -15,10 +15,14 @@ layout: default
 <div id="main" role="main">
   {% include sidebar.html %}
 
-  <div class="page">
+  <article class="page">
+    <div class="page__inner-wrap">
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
-    {{ content }}
+      <section class="page__content" itemprop="text">
+        {{ content }}
+      </section>
   </div>
+  </article>
 </div>
