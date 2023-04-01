@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 Graduate students (partial list)
 ============
-- Parva Parikh: research assistant Fall'22
+- [Parva Parikh](https://www.linkedin.com/in/parva-parikh-76b0751a0): research assistant Fall'22
 - Kishore Shankar Abimanyu: research assistant Fall'22
 - Shubhankar Sapa: research assistant Fall'22
 - Shivansh Vijay Nathani: research assistant Fall'22
