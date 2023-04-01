@@ -7,7 +7,7 @@ date: 2022-09-21
 venue: 'Journal of King Saud University - Computer and Information Sciences'
 paperurl: 'https://doi.org/10.1016/j.jksuci.2022.09.013'
 citation: '<b>Xuechen Li</b>, Xiuhua Li, Shimin Zhang, Guiying Zhang, Muqing Zhang, Heyang Shang.'
-status: published
+status: 'published'
 ---
 Abstract
 ---
