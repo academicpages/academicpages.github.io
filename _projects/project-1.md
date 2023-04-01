@@ -1,7 +1,12 @@
 ---
-title: "projects item number 1"
-excerpt: "Short description of project item number 1<br/><img src='/images/500x300.png'>"
+title: "Segmentation model of sugarcane seedlings in a field based on satellite remote sensing"
+excerpt: <img src="/images/slvit.png" >
 collection: projects
+permalink: /publication/sugarcane_segmentation
+date: 2022-08-21
+status: 'done'
 ---
 
-This is an item in your project. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Introduction
+---
+Farmers must accurately and promptly identify sugarcane leaf diseases with identical symptoms. RGB images have a beneficial function in disease identification. Nevertheless, complex backgrounds and identical symptoms can significantly reduce the recognition accuracy and robustness. To overcome these challenges, the SLViT hybrid network is presented, in which the transformer encoder is converted to a flexible plug-in (LViT) that is subsequently integrated into several locations of a lightweight CNN architecture (SHDC). SLViT is initially trained on the publicly available disease dataset Plant Village before being moved to the self-created sugarcane leaf disease dataset SLD10k, which consists of seven classes and 10,309 images. The ablation experiments demonstrate that all the adjustments to SLViT have contributed positively to its overall performance. SLViT outperforms six SOTA models and three custom-designed leaf-disease recognition models on Plant Village in terms of speed (1,832 FPS), weight (2 MB), consumption (50 M), and precision (98.84 %). SLViT also outperformed MobileNetV3_small on the SLD10k dataset with an accuracy bonus of 1.87 % and a size reduction of 66.3 %. The experiment also reveals that SLViT has absorbed the advantages of both the lightweight CNN and the noise-resistant transformer. This study demonstrates the applicability of SLViT for sugarcane leaf diagnosis in the field.
