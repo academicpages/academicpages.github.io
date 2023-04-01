@@ -27,9 +27,9 @@ As well as of course working with colleagues in both my research groups on sever
 These include:
 - _Spontaneous symmetry breaking by point defects in crystalline hosts. How to identify them?_ <!-- Irea; MKWS -->
   - [ShakeNBreak](https://shakenbreak.readthedocs.io/en/latest/)
-  - Mosquera-Lois, I.; Kavanagh, S. R. In Search of Hidden Defects. _**Matter**_ 2021, 4 (8), 2602–2605. https://doi.org/10.1016/j.matt.2021.06.003.
-  - Mosquera-Lois,‡ I.; Kavanagh,‡ S. R.; Walsh, A.; Scanlon, D. O. ShakeNBreak: Navigating the Defect Configurational Landscape. _**Journal of Open Source Software**_ 2022, 7 (80), 4817. https://doi.org/10.21105/joss.04817
-  - Mosquera-Lois,‡ I.; Kavanagh,‡ S. R.; Walsh, A.; Scanlon, D. O. Identifying the ground state structures of point defects in solids. _**npj Computational Materials**_ 2023, 9 (25). https://www.nature.com/articles/s41524-023-00973-1
+  - Mosquera-Lois, I.; Kavanagh, S. R. In Search of Hidden Defects. _**Matter**_ 2021, 4 (8), 2602–2605. [Link](https://doi.org/10.1016/j.matt.2021.06.003)
+  - Mosquera-Lois,‡ I.; Kavanagh,‡ S. R.; Walsh, A.; Scanlon, D. O. ShakeNBreak: Navigating the Defect Configurational Landscape. _**Journal of Open Source Software**_ 2022, 7 (80), 4817. [Link](https://doi.org/10.21105/joss.04817)
+  - Mosquera-Lois,‡ I.; Kavanagh,‡ S. R.; Walsh, A.; Scanlon, D. O. Identifying the ground state structures of point defects in solids. _**npj Computational Materials**_ 2023, 9 (25). [Link](https://www.nature.com/articles/s41524-023-00973-1)
   - Further manuscripts in preparation
   - MSc student [Irea Mosquera-Lois](https://www.researchgate.net/profile/Irea-Mosquera-Lois) (now a PhD student in Prof Walsh's group at Imperial College) achieved the highest grades of all MSc & MSci courses in UCL Chemistry, and a grade of 90% on her research project – virtually unheard of! 🎉
 
