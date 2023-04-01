@@ -14,16 +14,15 @@ To make edits to this page, ie. adding a biography or publications, follow these
 
 ## Running the site locally
 
-1. Install ruby-dev (), ruby-gem (), and nodejs ()
+1. Install ruby-dev (https://www.ruby-lang.org/en/documentation/installation/), ruby-gem (https://rubygems.org/pages/download), and nodejs (https://nodejs.org/en/download)
 1. Open a terminal in your repository's location, and run 'bundle install' and 'bundle exec jekyll serve'.
 1. Open 'localhost:4000' in your browser.
 
 ### Known issues
-If you get "Error:  No source of timezone data could be found.", add a line "gem 'tzinfo-data'" to the Gemfile.<br>
-If you get "cannot load such file -- webrick (LoadError)", add a line "gem 'webrick'" to the Gemfile.<br>
-Make sure to run 'bundle install' again after editing the Gemfile.
+"ERROR: While executing gem ... (Gem::FilePermissionError)": on macOS, reinstall ruby using these instructions:<br>
+(https://www.moncefbelyamani.com/the-definitive-guide-to-installing-ruby-gems-on-a-mac/) <br><br>
+"bundler: failed to load command: jekyll"; run "bundle add webrick" or change your Ruby version to 2.7<br>
+"Error:  No source of timezone data could be found.": add a line "gem 'tzinfo-data'" to the Gemfile.<br>
+"cannot load such file -- webrick (LoadError)": add a line "gem 'webrick'" to the Gemfile.<br>
+If you make any changes to the Gemfile, make sure to run 'bundle install' again before attempting to run the site.
 
-## Running the site from your github fork
-
-1. Rename your fork to "[your GitHub username].github.io"
-1. Go to "[your GitHub username].github" in your browser
