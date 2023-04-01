@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Press coverage"
+  - title: "Press"
     url: /press/   
     
   - title: "CV"
     url: /cv/
 
-#  - title: "Teaching"
-#    url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
