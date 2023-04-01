@@ -9,6 +9,10 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+* **FedAds: A Benchmark for Privacy-Preserving CVR Estimation with Vertical Federated Learning**  
+**Penghui Wei**, Hongjian Dou, Shaoguo Liu, Rongjun Tang, Li Liu, Liang Wang, Bo Zheng  
+**SIGIR ’23** (Resource Track): Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. July 23--27, 2023.  
+
 * **Correlative Preference Transfer with Hierarchical Hypergraph Network for Multi-Domain Recommendation**  
 Zixuan Xu\*, **Penghui Wei**\*, Shaoguo Liu, Liang Wang, Bo Zheng (\*: Equal contribution)  
 **WWW ’23** (long): Proceedings of the Web Conference 2023 (to appear). Austin, Texas, USA, April 30 -- May 4, 2023.   
