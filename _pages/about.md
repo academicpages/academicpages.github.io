@@ -17,7 +17,7 @@ I'm a PhD student in the research groups of both Professor David Scanlon at Univ
 ### Recent Highlights
 I was awarded a UCL-McGill-JSPS Core-to-Core research collaboration grant (£3k) to visit Prof. Yu Kumagai in Tohoku University (October – November 2022), to extend our [defect structure-searching work](https://shakenbreak.readthedocs.io/en/latest/), for a high-throughput study on symmetry-breaking at oxygen vacancies in oxides – hopefully will have a paper ready on this soon. Of course it was all work and no play!
 
-<img align="left" width="251" src="files\Japan_Monkeys.jpg"><img align="centre" width="257" src="files\Japan_Earthquake.png"><img align="right" width="257" src="files\Japan_Tokyo.png">   
+<img align="left" width="251" src="files\Japan_Monkeys.jpeg"><img align="centre" width="257" src="files\Japan_Earthquake.jpeg"><img align="right" width="257" src="files\Japan_Tokyo.jpeg">   
 
 
 We were humbled to be featured in the Irish Times newspaper! 😊 🇮🇪 
