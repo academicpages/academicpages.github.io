@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 Graduate students (partial list)
 ============
-- Dano Nahabedian: MS, thesis, Spr'22
+- [Dano Nahabedian](https://www.linkedin.com/in/dano-nahabedian-b2169997): MS, thesis, Spr'22
   
   Thesis: Blockchain Security and the Healthcare Industry
 - Trieu Le Khanh Nguyen: MSE, thesis, Fall'22
