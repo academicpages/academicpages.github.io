@@ -25,7 +25,7 @@
           {% if post.published %}
            {{ post.citation }} <br><i>{{ post.venue }}, {{ post.date | default: "1900-01-01" | date: "%Y" }} </i>
            {% else %}
-           {{ post.citation }} <br><b>Under review,{{ post.date | default: "1900-01-01" | date: "%Y" }} </b>
+           {{ post.citation }} <br><i>Under review,{{ post.date | default: "1900-01-01" | date: "%Y" }} </i>
            {% endif %}
           </p>
         </td>
