@@ -19,7 +19,7 @@ Graduate students (partial list)
 - Yusuke Tomatsu: MS, academic paper, Fall'21
   
   Paper: Bitcoin and Renewable Energy Mining
-- [Viraj Deshwal](linkedin.com/in/virajdeshwal): grader and research volunteer Spr’18, Fall’18; graduate project supervisor, Spr’19
+- [Viraj Deshwal](https://www.linkedin.com/in/virajdeshwal): grader and research volunteer Spr’18, Fall’18; graduate project supervisor, Spr’19
 - Madhura Ansingkar: research volunteer Spr’18; student research assistant Fall’18&Spr’19; graduate project supervisor, Spr’19
 - Nupur Pande: research volunteer Spr’18, Fall’18
 - Himanshu Raj: research volunteer Spr’18, Fall’18
