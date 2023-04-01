@@ -2,16 +2,13 @@
 main:
   - title: "Publications"
     url: /publications/
-    
-  - title: "Teaching"
-    url: /teaching/    
-    
+      
   - title: "Projects"
     url: /projects/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+
+  - title: "Teaching"
+    url: /teaching/    
+
   - title: "CV"
     url: /cv/
     
