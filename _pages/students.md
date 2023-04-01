@@ -19,7 +19,7 @@ Graduate students (partial list)
 - Yusuke Tomatsu: MS, academic paper, Fall'21
   
   Paper: Bitcoin and Renewable Energy Mining
-- Viraj Deshwal: grader and research volunteer Spr’18, Fall’18; graduate project supervisor, Spr’19
+- [Viraj Deshwal](linkedin.com/in/virajdeshwal): grader and research volunteer Spr’18, Fall’18; graduate project supervisor, Spr’19
 - Madhura Ansingkar: research volunteer Spr’18; student research assistant Fall’18&Spr’19; graduate project supervisor, Spr’19
 - Nupur Pande: research volunteer Spr’18, Fall’18
 - Himanshu Raj: research volunteer Spr’18, Fall’18
@@ -71,7 +71,8 @@ Graduate students (partial list)
 Student Awards/Achievements
 ========================
 - Blockchain Club President, Trisha Shaishav Parikh received Scholarship Award for her dedication and excellence in leadership which have inspired many students. November 18, 2022.
-- Viet Duong, Long Nguyen and Caesar Mier published a paper at an international conference.
+- Yusuke Tomatsu graduated and accepted an offer from Avanade Inc. Tokyo, Japan, 2021.
+- Viet Duong, Long Nguyen and Caesar Mier published a paper at an international conference, 2020
 Wenlin Han, Viet Duong, Long Nguyen, Caesar Mier, “Darknet and Bitcoin De-anonymization: Emerging Development,” IEEE 2020 Zooming Innovation in Consumer Technologies Conference (ZINC), pp. 222-226, Virtual, May 2020.
 - Madhura Ansingkar published a paper at an international conference.
 Wenlin Han, Madhura Ansingkar, “Discovery of Elsagate: Detection of Sparse Inappropriate Content from Kids Videos,” IEEE 2020 Zooming Innovation in Consumer Technologies Conference (ZINC), pp. 46-47, Virtual, May 2020.
