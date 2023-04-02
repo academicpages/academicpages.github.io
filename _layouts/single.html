@@ -35,10 +35,7 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'experiences' %}
-          <p>
-          {%if page.supervisor%} 
-            Supervised by {{page.supervisor}}, {% endif %}
-          <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p><i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.status == 'published' %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.status == 'Under review' %}

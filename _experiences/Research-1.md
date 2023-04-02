@@ -6,7 +6,6 @@ venue: "School of Information Science and Technology, Beijing Forestry Universit
 date: 2019-03-01
 time: "Spring 2019 - Fall 2019"
 location: "Beijing, China"
-supervisor: Prof.Zhao
+
 ---
-Assist the teacher in delivering lessons and act as a mentor to provide guidance to students with their extracurricular projects after school.
-chuangang zhao
+Supervised by [Assoc. Prof. Zhao](https://www.researchgate.net/profile/Xiuhua-Li-2)
