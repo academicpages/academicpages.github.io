@@ -33,11 +33,12 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
-    {% if post.collection != experiences %}
-      <p>{{post.venue}}</p>
+    {% if post.collection == experiences %}
+      <p>{{post.venue}}<br>
       {% if post.supervisor %}
-        <p>{{post.supervisor}}, {{post.time}}</p>
+        <p>Supervisor: {{post.supervisor}}, {{post.time}}</p>
       {% endif %}
+      </p>
     {% endif %}
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
