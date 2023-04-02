@@ -1,5 +1,5 @@
 ---
-title: "Research assistant-Guangxi Key Laboratory of Sugarcane Biology"
+title: "Research assistant-Guangxi Key Laboratory of Sugarcane"
 collection: experiences
 permalink: /experiences/research-3
 venue: "School of Electrical Engineering, School of Agriculture, Guangxi University"
