@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Machine Design & Manufacturing and Automation, School of Engineering, Beijing Forest University, 2020
-* M.S. in Control Engineering, School of Electrical Engineering, GitHub University, 2024 (expected)
+* B.S. in School of Engineering, Beijing Forest University, 2020
+* M.S. in School of Electrical Engineering, Guangxi University, 2024 (expected)
 
-Work experience
+Work experiences
 ======
 * Summer 2017 - Fall 2019: Research Assistant
   * Beijing Forest University
@@ -29,8 +29,8 @@ Work experience
 Skills
 ======
 * Language level
-  * CET-6, Itlts(Preparing for the exam)
-  * Listing(Normal), Speaking(Normal), Reading(Exellent), Writing(Great).
+  * CET-6, ItLts(Preparing for the exam)
+  * Listening(Normal), Speaking(Normal), Reading(Exellent), Writing(Great).
 * Research skills
   * Sub-skill 2.1
   * Sub-skill 2.2
@@ -39,7 +39,7 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-  
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -54,7 +54,7 @@ Projects
 
 Experiences
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.experiences %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
