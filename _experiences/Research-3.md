@@ -7,6 +7,6 @@ date: 2021-09-01
 location: "Guangxi, China"
 time: "Fall 2021 - Now"
 location: "Guangxi, China"
-supervisor: "Assoc. Prof. Li and Prof. Zhang"
+supervisor: "[Assoc. Prof](https://www.researchgate.net/profile/Xiuhua-Li-2). Li and Prof. Zhang"
 ---
 Assist the teacher in delivering lessons and act as a mentor to provide guidance to students with their extracurricular projects after school.
