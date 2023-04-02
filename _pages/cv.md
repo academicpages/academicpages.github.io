@@ -30,6 +30,7 @@ Experiences
   * Guangxi University
   * Duties included: Merging pull requests
   * Supervisor: Prof. Li and Prof. Zhang
+  
 Skills
 ======
 * Language level
