@@ -11,21 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in School of Engineering, Beijing Forest University, 2020
+* B.S. in School of Technology, Beijing Forest University, 2020
 * M.S. in School of Electrical Engineering, Guangxi University, 2024 (expected)
 
-Work experiences
+Experiences
 ======
 * Summer 2017 - Fall 2019: Research Assistant
-  * Beijing Forest University
+  * Beijing Forest University, 
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Prof.Zhao
 
 * Fall 2021 - Now: Research Assistant
   * Guangxi University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+  * Supervisor: Assoc. Prof. Li and Prof. Wu
+
+* Fall 2021 - Now: Research Assistant
+  * Guangxi University
+  * Duties included: Merging pull requests
+  * Supervisor: Prof. Li and Prof. Zhang
 Skills
 ======
 * Language level
