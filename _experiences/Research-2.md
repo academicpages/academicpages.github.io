@@ -1,5 +1,5 @@
 ---
-title: "Research assistant-ACIP center"
+title: "Research assistant-ACIP Center"
 collection: experiences
 permalink: /experiences/research-2
 venue: "School of Electrical Engineering, Guangxi University"
