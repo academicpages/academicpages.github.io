@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Climate mobilities | Lisa Thalheimer, PhD (Oxon)"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Lisa Thalheimer"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Lisa Thalheimer"
+  name             : "Lisa Thalheimer, PhD (Oxon)"
   avatar           : "Lisa Thalheimer_profile.jpg"
   bio              : "Modelling Climate Migration <br /> Climate Change Attribution <br /> Anticipatory Action"
   location         : "Bonn, Germany"
