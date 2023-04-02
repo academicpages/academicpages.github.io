@@ -23,16 +23,16 @@ Experiences
 Skills
 ======
 * Language level
-  CET-6, ItLts(Preparing for the exam)
-  Listening(Normal), Speaking(Normal), Reading(Exellent), Writing(Great).
+  * CET-6, ItLts(Preparing for the exam)
+  * Listening(Normal), Speaking(Normal), Reading(Exellent), Writing(Great).
 * Research skills
-  Sub-skill 2.1
-  Sub-skill 2.2
-  Data analysis:
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Data analysis:
 * Programming skills
-  Sub-skill 2.1
-  Sub-skill 2.2
-  Sub-skill 2.3
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
 
 Publications
 ======
