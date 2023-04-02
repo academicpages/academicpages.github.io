@@ -32,7 +32,7 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-      {{ title }}
+
     </h2>
     
     {% if post.read_time %}
@@ -51,11 +51,7 @@
     {% endif %}
 
     {% if post.collection == 'experiences' %}
-      <p><i>{{ post.venue }}</i>, {{post.time}}<br>  
-      {% if post.supervisor %}
-      Supervisor: {{post.supervisor}}
-      {% endif %}
-      </p>
+      <p>{{post.time}}, <i>{{ post.venue }}</i></p>
     {% elsif post.collection == 'publications' %}
       <p><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif page.status == 'Under review' %}
