@@ -16,34 +16,23 @@ Education
 
 Experiences
 ======
-* Summer 2017 - Fall 2019: Research Assistant
-  * Beijing Forest University, 
-  * Duties included: Tagging issues
-  * Supervisor: Prof.Zhao
-
-* Fall 2021 - Now: Research Assistant
-  * Guangxi University
-  * Duties included: Merging pull requests
-  * Supervisor: Assoc. Prof. Li and Prof. Wu
-
-* Fall 2021 - Now: Research Assistant
-  * Guangxi University
-  * Duties included: Merging pull requests
-  * Supervisor: Prof. Li and Prof. Zhang
+  <ul>{% for post in site.experiences %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Skills
 ======
 * Language level
-  * CET-6, ItLts(Preparing for the exam)
-  * Listening(Normal), Speaking(Normal), Reading(Exellent), Writing(Great).
+  CET-6, ItLts(Preparing for the exam)
+  Listening(Normal), Speaking(Normal), Reading(Exellent), Writing(Great).
 * Research skills
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Data analysis:
+  Sub-skill 2.1
+  Sub-skill 2.2
+  Data analysis:
 * Programming skills
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+  Sub-skill 2.1
+  Sub-skill 2.2
+  Sub-skill 2.3
 
 Publications
 ======
@@ -57,12 +46,7 @@ Projects
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Experiences
-======
-  <ul>{% for post in site.experiences %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 <!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
