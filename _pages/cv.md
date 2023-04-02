@@ -11,49 +11,52 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Machine Design & Manufacturing and Automation, School of Engineering, Beijing Forest University, 2020
+* M.S. in Control Engineering, School of Electrical Engineering, GitHub University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2017 - Fall 2019: Research Assistant
+  * Beijing Forest University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
+* Fall 2021 - Now: Research Assistant
+  * Guangxi University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Language level
+  * CET-6, Itlts(Preparing for the exam)
+  * Listing(Normal), Speaking(Normal), Reading(Exellent), Writing(Great).
+* Research skills
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Data analysis:
+* Programming skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Projects
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+  <ul>{% for post in site.projects %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+
+Experiences
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
