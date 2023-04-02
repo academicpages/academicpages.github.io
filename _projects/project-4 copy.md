@@ -1,6 +1,6 @@
 ---
 title: "Sugarcane disease diagnosis Android development"
-excerpt: <img src="/images/projects/android.png" >
+excerpt: <img src="/images/projects/mini-program.png" >
 collection: projects
 permalink: /publication/android
 date: 2022-05-09
