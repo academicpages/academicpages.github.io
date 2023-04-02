@@ -33,7 +33,7 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
-    {% if post.collection == experiences %}
+    {% if post.collection != experiences %}
       <p>{{post.venue}}</p>
       {% if post.supervisor %}
         <p>{{post.supervisor}}, {{post.time}}</p>
