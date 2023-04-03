@@ -8,6 +8,12 @@ author_profile: true
 
 ## Lecturer 
 
++ **Natural Language Processing**, Spring 2023  
+    CSC 495/693, University of North Carolina at Greensboro 
+    
++ **Big Data and Machine Learning**, Spring 2023  
+    CSC 410/610, University of North Carolina at Greensboro 
+    
 + **Big Data and Machine Learning**, Fall 2022   
     CSC 410, University of North Carolina at Greensboro 
 
