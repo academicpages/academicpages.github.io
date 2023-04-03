@@ -8,8 +8,7 @@ redirect_from:
   - /about.html  
 ---
 
-My name is Z. Sun, a PhD candidate at UCL. I am lucky to be supervised by Prof. [F-X Briol]() and Prof. [J-H Xue](). My research is mainly funded by EPSRC and UCL jointly; and partially by The Alan Turing Institute. Previously, I obtained a Master degree (Distinction) in Statistics at the University of Oxford.
-
+My name is Z. Sun, a PhD candidate at UCL. I am lucky to be supervised by Prof. [F-X Briol]() and Prof. [J-H Xue](). My research is mainly funded by EPSRC and UCL jointly; and partially by The Alan Turing Institute.
 
 
 
@@ -20,7 +19,7 @@ In general, I am very interested in __computational statistics__ and __machine l
 
 ## Academic Activities
    * PhD researcher at The Alan Turing Institute 2021-2022.
-   * Organiser of 2022 [Statistics in Data-Centric Engineering (S-DCE)]() Seminars at The Alan Turing Institute.
+   * Organiser of 2022 [S-DCE]() Seminars at The Alan Turing Institute.
 
 
 
