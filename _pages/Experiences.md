@@ -39,7 +39,7 @@ Contests
   * Special thanks to Prof. Meiqin Wang and Prof. Zhaotao Liu
   * Collaborated with Xubing Cheng, Zhuofan Ni, and Guangming Li
 * High School Physics Competition, 2011
-  * A round trip to the 168 high school on a balmy day
+  * A tour to the 168 high school on a balmy day
 
 {% for post in site.experiences reversed %}
   {% include archive-single.html %}
