@@ -12,7 +12,7 @@ author_profile: true
 **Journals**
   * <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b> <br> 
   <b>Zhongyu Li, Chaoqun Li, Xiangde Luo</b>, Yitian Zhou, Jihua Zhu, Cunbao Xu, Meng Yang, Yenan Wu, Yifeng Chen <br> 
-  <i>Accepted to **IEEE Transaction on Medical Imaging** (the first three authors contributed equally.) <br>
+  <b>Accepted to **IEEE Transaction on Medical Imaging** (the first three authors contributed equally.)</b>.<br>
   [[paper](https://ieeexplore.ieee.org/abstract/document/10087318)][[code](https://github.com/NeuronXJTU/SFDA-CellSeg)][[pdf](../files/SFDA-CellSeg-TMI2023.pdf)]
     
  * <b> Deep learning-based accurate and robust delineation of primary gross tumor volumes of nasopharyngeal carcinoma on heterogeneous magnetic resonance imaging: a large-scale and multi-center study</b> <br> 
