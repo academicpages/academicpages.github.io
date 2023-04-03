@@ -17,9 +17,11 @@ My research interests include Information Retrieval, Machine Learning and Softwa
 
 News    
 ======
+<span style="color:red">[4.2023]</span> I will attend the Workshop on ECG Informatics in Precision Medicine (Wake Forest Uniersity, Apr 27th)!   
+
 <span style="color:red">[3.2023]</span> Our paper "EvidenceMap: a three-level knowledge representation for medical evidence computation and comprehension" was accepted by JAMIA (IF: 7.942)!   
 
-<span style="color:red">[11.2022]</span> I will make a presentation in the conference “2022 AI-Enhanced Clinical Trials” (Boston, US)!   
+<span style="color:red">[11.2022]</span> I will make a presentation in the conference “2022 AI-Enhanced Clinical Trials” (Boston, MA)!   
 
 <span style="color:red">[8.2022]</span> I have joined the department of Computer Science at University of North Carolina Greensboro this fall!
 
