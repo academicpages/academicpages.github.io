@@ -31,10 +31,15 @@ Engineering projects
 
 Contests
 ======
-* Open-Source Industrial Software Integration Competition, collaborated with Xudong Jiang, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023
-* Team game in International Engineering Mechanics Contest, collaborated with Chaoqi Gao and Xiaoqing Zhou, 2019
-* Competition of Experimental Mechanics, collaborated with Xubing Cheng, Zhuofan Ni, and Guangming Li, special thanks to Prof. Meiqin Wang and Prof. Zhaotao Liu, 2017
-* High School Physics Competition, a round trip to the 168 high school on a balmy day, 2011.
+* Open-Source Industrial Software Integration Competition, 2023
+  * Collaborated with Xudong Jiang, and supervised by Prof. Xu Guo and Prof. Chang Liu
+* Team game in International Engineering Mechanics Contest, 2019
+  * Collaborated with Chaoqi Gao and Xiaoqing Zhou
+* Competition of Experimental Mechanics, 2017
+  * Special thanks to Prof. Meiqin Wang and Prof. Zhaotao Liu
+  * Collaborated with Xubing Cheng, Zhuofan Ni, and Guangming Li
+* High School Physics Competition, 2011
+  * A round trip to the 168 high school on a balmy day
 
 {% for post in site.experiences reversed %}
   {% include archive-single.html %}
