@@ -3,7 +3,7 @@ title: "Explicit layout optimization of complex rib-reinforced thin-walled struc
 excerpt: "We develop 1"
 img:
 collection: portfolio
-date: 2023-04-03
+date: 2023-02-01
 ---
 
 We develop 123. A quick report is [here](https://mp.weixin.qq.com/s/OWDfmj_O-H5XFtakNkWQew).
