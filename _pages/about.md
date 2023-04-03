@@ -16,9 +16,9 @@ redirect_from:
    
 # Papers, preprints, and software
 
-**Fair learning with Wasserstein barycenters for non-decomposable performance measures** (2022) S. Gaucher, N. Schreuder, and E. Chzhen. To appear in AISTATS 2023. [Preprint](Aistats.pdf)
+**Fair learning with Wasserstein barycenters for non-decomposable performance measures** (2022) S. Gaucher, N. Schreuder, and E. Chzhen. To appear in AISTATS 2023. [Preprint](../Aistats.pdf)
 
-**The price of unfairness in linear bandits with biased feedback** (2022), S. Gaucher, A. Carpentier, and C. Giraud. NeurIPS 2022. [Preprint on Hall](https://hal.archives-ouvertes.fr/hal-03611628) [Short Presentation]([https://slideslive.com/s/solenne-gaucher-43495])
+**The price of unfairness in linear bandits with biased feedback** (2022), S. Gaucher, A. Carpentier, and C. Giraud. NeurIPS 2022. [Preprint on Hall](https://hal.archives-ouvertes.fr/hal-03611628) [Short Presentation](https://slideslive.com/s/solenne-gaucher-43495)
 
 **Hierarchical transfer learning with applications for electricity load forecasting** (2021), A. Antoniadis, S. Gaucher, and Y. Goude.To appear in International Journal of Forecasting. [Preprint on HAL](https://hal.archives-ouvertes.fr/hal-03429702)
 
