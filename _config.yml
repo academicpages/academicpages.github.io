@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jhon Gonzalez / Site Title"
+title                    : "Jhon Gonzalez / Record Manager & Web Accessibility"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jhon Gonzalez"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gibco/accesi.github.io"
+repository               : "gibco/accesibilidad"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
