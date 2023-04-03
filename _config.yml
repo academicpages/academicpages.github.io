@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "es-CO"
 title                    : "Jhon Gonzalez / Record Manager & Web Accessibility"
 title_separator          : "-"
 name                     : &name "Jhon Gonzalez"
-description              : &description "personal description"
+description              : &description "Consulting Record Manager & Web Accessibility "
 url                      : # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gibco/accesibilidad"
