@@ -8,6 +8,9 @@ author_profile: true
 
 ## Lecturer 
 
++ **Algorithm Analysis and Design**, Fall 2023  
+    CSC 454/654, University of North Carolina at Greensboro 
+
 + **Natural Language Processing**, Spring 2023  
     CSC 495/693, University of North Carolina at Greensboro 
     
