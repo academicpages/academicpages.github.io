@@ -29,9 +29,12 @@ Engineering projects
 ======
 * C-7 times, H-1 time, X-1 time
 
-Contest
+Contests
 ======
-* High School Physics Competition (A round trip to the 168 high school), 2011.
+* Open-Source Industrial Software Integration Competition, collaborated with Xudong Jiang, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023
+* Team game in International Engineering Mechanics Contest, collaborated with Chaoqi Gao and Xiaoqing Zhou, 2019
+* Competition of Experimental Mechanics, collaborated with Xubing Cheng, Zhuofan Ni, and Guangming Li, special thanks to Prof. Meiqin Wang and Prof. Zhaotao Liu, 2017
+* High School Physics Competition, a round trip to the 168 high school on a balmy day, 2011.
 
 {% for post in site.experiences reversed %}
   {% include archive-single.html %}
