@@ -8,6 +8,16 @@ author_profile: true
     
 ## Journal Articles
 <span style="color:red">_* Note that  **JAMIA** and **JBI** are leading health informatics journals with impact factor 7.942 and 8.000_</span>
+
++ Kang, T., **Sun, Y.**, Kim, J.H., Ta, C., Perotte, A., Schiffer, K., Wu, M., Zhao, Y., Moustafa-Fahmy, N., Peng, Y. and Weng, C., 2023. EvidenceMap: a three-level knowledge representation for medical evidence computation and comprehension. **_JJournal of the American Medical Informatics Association_**, p.ocad036. (co-first author)
+
++ Lee, J., Liu, C., Kim, J., Chen, Z., **Sun, Y.**, Rogers, J.R., Chung, W.K. and Weng, C., 2022. Deep learning for rare disease: A scoping review. **_Journal of Biomedical Informatics(JBI)_**, p.104227.
+
+
++ Fang, Y., Idnay, B., **Sun, Y.**, Chen, Z., Marder, K., Xu, H., Schnall, R., and Weng, C.,"Combining Human and Machine Intelligence for Clinical Trial Eligibility Querying". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2022. 
+
+
++ Kim, J., Butler, A., Ta, C., **Sun, Y.**, Maurer, M. and Weng, C., "The Potential Role of EHR data in optimizing eligibility criteria definition for cardiovascular outcome trials". **_International Journal of Medical Informatics_**, 2021. [pdf](https://www.sciencedirect.com/science/article/pii/S1386505621002136)
     
 + **Sun, Y.**, Butler, A., Diallo, I., Kim, J., Ta, C., Rogers, J., Liu, H. and Weng, C., "A Framework for Systematic Assessment of Clinical Trial Population Representativeness Using Electronic Health Records Data". **_Applied Clinical Informatics Journal_** , 2021. [pdf](https://www.thieme-connect.de/products/ejournals/abstract/10.1055/s-0041-1733846)
 
@@ -19,10 +29,6 @@ author_profile: true
 
 + **Sun, Y.**, Kolacinski, R. and Loparo, K., "Transitive Topic Modeling with Conversational Structure Context: Discovering Topics that are Most Popular in Online Discussions". **_International Journal of Semantic Computing_**, 14(02), pp.273-293, 2020. [pdf](https://yingchengsun.github.io/academic/files/IJSC_final.pdf)    
 
-+ Fang, Y., Idnay, B., **Sun, Y.**, Chen, Z., Marder, K., Xu, H., Schnall, R., and Weng, C.,"Combining Human and Machine Intelligence for Clinical Trial Eligibility Querying". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2022. 
-
-
-+ Kim, J., Butler, A., Ta, C., **Sun, Y.**, Maurer, M. and Weng, C., "The Potential Role of EHR data in optimizing eligibility criteria definition for cardiovascular outcome trials". **_International Journal of Medical Informatics_**, 2021. [pdf](https://www.sciencedirect.com/science/article/pii/S1386505621002136)
 
 + Liu, H., Yuan, C., Butler, A., **Sun, Y.** and Weng, C., "A Knowledge Base of Clinical Trial Eligibility Criteria". **_Journal of Biomedical Informatics(JBI)_**, p.103771, 2021. [pdf](https://yingchengsun.github.io/academic/files/CTKB.pdf) [website](http://www.ctkb.io) [video](https://www.ohdsi.org/2020-global-symposium-showcase-70/)
 
@@ -78,10 +84,6 @@ author_profile: true
 ## Papers in Submission
 
 + **Sun, Y.**, Tian, K., Perotte, A., Kim, J., Liu, H., Turfah, A. and Weng, C., "EvidenceBase: A Natural Language Search Engine for Medical Evidence Curation". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2021. (in submission) 
-
-+ Lee, J., Chen, Z., **Sun, Y.**, Kim, J., Rogers, J., Liu, C. and Weng, C., " Deep Learning for Rare Disease: Scoping Review with Methodological Focus". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2021. (in submission)  
-
-+ Tian, K., **Sun, Y.**, Perotte, A., Kim, J., Liu, H., Turfah, A. and Weng, C., "EvidenceMap: A Multi-Level Representation for Medical Evidence Extraction and Synthesis". **_Journal of the American Medical Informatics Association(JAMIA)_**, 2021. (in submission)  
 
 
 ## Patents
