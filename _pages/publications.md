@@ -17,6 +17,10 @@ author_profile: true
 
 # Publications
 
+### *Design Choices for Crowdsourcing Implicit Discourse Relations: Revealing the Biases Introduced by Task Design*
+<ins>Valentina Pyatkin</ins>, Frances Yung, Merel C.J. Scholman, Reut Tsarfaty, Ido Dagan, Vera Demberg. In TACL.
+[TACL](https://arxiv.org/abs/2304.00815)
+
 ### *Reinforced Clarification Question Generation with Defeasibility Rewards for Disambiguating Social and Moral Situations*
 <ins>Valentina Pyatkin</ins>, Jena D. Hwang, Vivek Srikumar, Ximing Lu, Liwei Jiang, Yejin Choi and Chandra Bhagavatula. Preprint.
 [ArXiv](https://arxiv.org/pdf/2212.10409.pdf)
