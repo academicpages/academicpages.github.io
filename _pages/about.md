@@ -8,27 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-### This page is under construction. Please go to this [site](https://sites.google.com/view/suchethac)
+<!-- ### This page is under construction. Please go to this [site](https://sites.google.com/view/suchethac) -->
 
-I am a currently graduate student in the galaxy evolution group (Ω Lab) at Nagoya University, Japan. I am also a Reseach Fellow (DC1) at the Japan Society for the Promotion of Science.
-My recent interests include applying advanced statistical (including machine learning) techniques to astrophysical and cosmological problems with the hope of understanding deeply hidden realities in the Universe.
+ I am a theoretical astrophysicist at the National Astronomical Observatory of Japan (NAOJ), where I hold a JSPS Postdoctoral Fellowship.
 
-I am a theoretical astrophysicist trying to understand the multi-scale physics of galaxies by combining simulations and observations with machine learning. Galaxy formation theory will require a thorough understanding of parsec-scale physics like star formation, kiloparsec-scale galaxy evolution physics, and megaparsec-scale cosmological dark matter halo formation physics. 
+My current research focuses on forward-modeling galaxy observables with simulations, with the goal of understanding the complex physics that governs galaxy formation and evolution. Specifically, I use state-of-the-art simulations and machine learning techniques to generate realistic synthetic observations that can be compared with real data. This approach enables me to investigate a wide range of astrophysical processes, from the formation of individual stars to the growth of massive black holes at the centers of galaxies.
 
-I have focused on solving inverse problems in astrophysics with applications in imaging surveys and Faraday tomography during my master's degree. During my doctoral studies, I have shifted the focus to machine learning techniques to understand galaxy evolution and formation.
+I earned my doctorate at Nagoya Univeristy, Japan. During my doctoral studies, I investigated the potential of machine learning techniques for understanding galaxy evolution and formation. Prior to that, I focused on solving inverse problems in astrophysics, particularly in the context of imaging surveys and Faraday tomography.
+
+I invite you to explore my website and learn more about my research, publications, and ongoing projects. Thank you for visiting!
 
 Contact
 ========
-Division of Particle and Astrophysical Science, Nagoya University, \\
+Division of Science, National Astronomical Observatory of Japan, \\
+<!-- Furo-cho, Chikusa-ku, Nagoya 464–8602, Japan\\ -->
+Email: cooraysuchetha(AT)gmail.com* 
+*replace "(AT)" with "@"
+
+<!-- Division of Particle and Astrophysical Science, Nagoya University, \\
 Furo-cho, Chikusa-ku, Nagoya 464–8602, Japan\\
 Email: cooray(AT)nagoya-u.jp* 
-*replace "(AT)" with "@"
+*replace "(AT)" with "@" -->
 
 <!-- Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=5&user=r8HVLvEAAAAJ
 Researchgate: https://www.researchgate.net/profile/Suchetha_Cooray
 Github: https://github.com/suchethac
 Linkedin: https://www.linkedin.com/in/suchethacooray/ -->
-Omega Lab website: [sites.google.com/site/omegalabnagoya](https://sites.google.com/site/omegalabnagoya/home)
+<!-- Omega Lab website: [sites.google.com/site/omegalabnagoya](https://sites.google.com/site/omegalabnagoya/home) -->
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

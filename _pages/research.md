@@ -9,7 +9,7 @@ author_profile: true
 #   - /research.html
 ---
 
-### This page is under construction. Please go to this [site](https://sites.google.com/view/suchethac)
+### This page is under construction. Please go to this old [site](https://sites.google.com/view/suchethac)
 
 <!-- I am a currently graduate student in the galaxy evolution group (Ω Lab) at Nagoya University, Japan. I am also a Reseach Fellow (DC1) at the Japan Society for the Promotion of Science.
 My recent interests include applying advanced statistical (including machine learning) techniques to astrophysical and cosmological problems with the hope of understanding deeply hidden realities in the Universe.
