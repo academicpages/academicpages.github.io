@@ -1,17 +1,9 @@
 ---
-title: 'Robot-A Road to the Future for Mechanics'
+title: 'On the importance of a healthy body'
 date: 2023-04-04
 permalink: /posts/2023/04/daily-notes-4/
 tags:
   - Daily
-  - Project
 ---
 
-
-science of mechanics 
-
-Since the science of mechanics is essientially rooted in the human's passion for 
-it is significantly affected or even determined by politcs, industry, and ecolomy. 
-
-The industrial wave has 
-and revealed two peaks therein, the AI and the Robot.
+This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
