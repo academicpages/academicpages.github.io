@@ -63,7 +63,7 @@ Notebooks Jupyter
 * [08/03/2023](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/interpolacaoPoly.ipynb)
 * [15/03/2023](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/MMQ.ipynb)
 * [20/03/2023](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/integracao.ipynb)
-* [03/04/2023](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/eliminicao.ipynb)
+* [03/04/2023](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/eliminacao.ipynb)
 
 Arquivos jl (usados no laboratório)
 =========
