@@ -43,7 +43,7 @@ Skills
   * FEM, BEM, IGA
 * Programming languages
   * Python (rpy), Matlab, Fortran, C, C#, JavaScript
-* Libs
+* Toolkits
   * [trimesh](https://github.com/mikedh/trimesh), [geomdl](https://github.com/orbingol/NURBS-Python), [pyvista](https://github.com/pyvista/pyvista), [cg3lib](https://github.com/cg3hci/cg3lib), [BFF](https://github.com/GeometryCollective/boundary-first-flattening), [igl](https://github.com/libigl/libigl-python-bindings)
 * Softwares
   * CAD: SpaceClaim, Siemens NX (UG), AutoCAD
