@@ -19,7 +19,9 @@ I also co-organized [the Second Workshop on Understanding Implicit and Underspec
 Besides this I love going to the "cinemathèque" and on hikes with my friends. My Erdős number is 3.
 
 ### News
-* December 2022: [Preprint](https://arxiv.org/pdf/2212.10409.pdf) of my internship at AI2 is out!
+* March 2023: [TACL](https://arxiv.org/abs/2304.00815) paper accepted, to be presented at ACL 2023.
+* February 2023: Was awarded a postdoctoral scholarship from the Eric and Wendy Schmidt Foundation.
+* December 2022: [Preprint](https://arxiv.org/pdf/2212.10409.pdf) of my internship at AI2 is out.
 * November 2022: AI2 Hackathon [Paper](https://arxiv.org/pdf/2210.16407.pdf) accepted at Workshop on Figurative Language Processing at EMNLP 2022.
 * October 2022: [Paper](https://arxiv.org/pdf/2205.11413.pdf) accepted at EMNLP 2022.
 * September 2022: [Paper](https://arxiv.org/pdf/2106.14321.pdf) accepted to TACL.
