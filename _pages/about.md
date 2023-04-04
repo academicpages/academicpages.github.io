@@ -121,6 +121,7 @@ Haojie Huang, **Dian Wang**, Xupeng Zhu, Robin Walters, Robert Platt
 <span style="color:DarkGray"><em>CoRL 2022 Workshop on Sim-to-Real Robot Learning</em></span>  
 <button class="button-4" onclick="window.open('https://haojhuang.github.io/edge_grasp_page/','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2211.00191.pdf','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://github.com/HaojHuang/Edge-Grasp-Network','_blank')">Code</button>
 <br>
 
 ![](images/rss22.png){: .align-right width="200px"}
