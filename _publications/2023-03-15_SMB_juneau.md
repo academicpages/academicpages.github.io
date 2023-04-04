@@ -1,5 +1,5 @@
 ---
-title: "Surface mass balance modelling of the Juneau Icefield highlights the potential for rapid ice loss by the mid-21st century"
+title: "Surface mass balance modelling of the Juneau Icefield highlights the potential for rapid ice loss by the mid-21st century *[preprint]*"
 collection: publications
 permalink: /publication/2023-03-15_SMB_juneau
 excerpt: 'Many of the glaciers in Alaska are losing ice, contributing to sea-level rise. Here, we study the inputs and outputs for the Juneau Icefield. We first model the historical changes to snowfall and melt, constraining our model with observations. We then project future changes to the icefield, which show that icefield-wide loss of ice is likely. Losses are driven by rising temperatures, and less snowfall. The exposure of ice, and the break-up of glaciers due to thinning may accelerate ice loss.'
