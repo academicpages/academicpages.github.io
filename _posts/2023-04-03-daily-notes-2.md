@@ -2,7 +2,7 @@
 title: 'The past, the present, and the future'
 excerpt: "I have a theory, the development of everything has to consider three fundamental issues, i.e., the known past, the uncertain present, and the unknown future."
 date: 2023-04-03
-permalink: /posts/2023/04/daily-notes-3/
+permalink: /posts/2023/04/daily-notes-2/
 tags:
   - Daily
 ---
