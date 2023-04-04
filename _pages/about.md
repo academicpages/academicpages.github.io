@@ -10,11 +10,11 @@ redirect_from:
 
 <!-- ### This page is under construction. Please go to this [site](https://sites.google.com/view/suchethac) -->
 
- I am a theoretical astrophysicist at the National Astronomical Observatory of Japan (NAOJ), where I hold a JSPS Postdoctoral Fellowship.
+Welcome! I am a theoretical astrophysicist at the National Astronomical Observatory of Japan (NAOJ), where I hold a JSPS Postdoctoral Fellowship.
 
-My current research focuses on forward-modeling galaxy observables with simulations, with the goal of understanding the complex physics that governs galaxy formation and evolution. Specifically, I use state-of-the-art simulations and machine learning techniques to generate realistic synthetic observations that can be compared with real data. This approach enables me to investigate a wide range of astrophysical processes, from the formation of individual stars to the growth of massive black holes at the centers of galaxies.
+My research focuses on understanding the complex physics that governs galaxy formation and evolution across a wide range of scales. Specifically, I use state-of-the-art simulations and machine learning techniques to forward-model galaxy observables, which allows me to explore a variety of astrophysical processes, from the formation of the youngest galaxies to the growth of massive dark matter haloes that surround galaxies.
 
-I earned my doctorate at Nagoya Univeristy, Japan. During my doctoral studies, I investigated the potential of machine learning techniques for understanding galaxy evolution and formation. Prior to that, I focused on solving inverse problems in astrophysics, particularly in the context of imaging surveys and Faraday tomography.
+I earned my doctorate at Nagoya University, where I investigated the potential of machine learning techniques for understanding galaxy evolution and formation. Prior to that, I focused on solving inverse problems in astrophysics, particularly in the context of imaging surveys and Faraday tomography.
 
 I invite you to explore my website and learn more about my research, publications, and ongoing projects. Thank you for visiting!
 
