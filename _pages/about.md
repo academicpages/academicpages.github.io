@@ -34,7 +34,7 @@ Experience and Education
 ======
 **[Experience](experiences/)**  
 
-* **Jul. 2021 -- Present.** Algorithm Expert, Alimama Tech @ Alibaba Group.   
+* **Jul. 2021 -- Present.** Algorithm Expert, Alimama Ads Tech @ Alibaba Group.   
 Working on data-driven algorithms to improve the performance of online advertising.  
 
 **Education**  
@@ -73,4 +73,4 @@ Misc
 * I love playing football and table tennis. I am a Real Madrid fan, and my favorite athlete is LIU Shiwen. 
 
 
-_Last Updated: Feb. 2023_
+_Last Updated: Apr. 2023_
