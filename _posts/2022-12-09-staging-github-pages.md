@@ -9,22 +9,20 @@ tags:
   - undergrad
 ---
 
-***github action blog [prerelease blog post VERY WIP]***
-
 I spent the last weekend writing a GitHub Action to deploy a PR to a development preview site. While there are awesome existing solutions such as Vercel and Netlify, I wanted to reinvent the wheel using only GitHub tooling.
 
-I was researching ways to do this and it seemed like no one has made a way to do this properly only using Github. I found two methods to do this. One blog post did this by using a personal action token to automatically create a branch and then clone the repo and deploy to github pages so that you could see the previewed build and changes by invoking the command on a PR or on a commit. The other way just added the commit hash and deployed it to github pages at that subfolder. I did not like that the first approach sort of abuses GitHub APIs and is quite a hacky solution. The second violates the idea that staging should be completely independent from prod, which I did not like.
+I looked into ways to do this, and it seemed like no one has made a way to do this properly only using Github. I found two methods to do this. One blog post did this by using a Personal Action Token to automatically create a branch, clone the repo, and deploy to GitHub Pages so that you could see the previewed build and changes by invoking the command on a PR or on a commit. The other way just added the commit hash and deployed it to GitHub Pages at that subfolder. I did not like that the first approach sort of abuses GitHub APIs and is quite a hacky solution. The second violates the idea that staging should be completely independent from prod, which I did not like.
 
-The main issue I ran into is that GitHub does not allow for multiple Pages environments for the same repo. The solution I decided to go with was to let the GitHub build the code and then deploy it to a subfolder or subdomain. I really like this since you can just rsync the files over to your own server and this will make it so that the site is not public as it is your server and you can maintain all of these development deployments for as long as you want. Naturally, this only works for static sites such as the project I was working on. For versioned backends you would definitely want a hosting service such as Netlify to manage all the gross networking and artefact management.
+The main issue I ran into is that GitHub does not (currently) allow for multiple Pages environments of same repo. The solution I decided to go with was to let the GitHub build the code and then deploy it to a subfolder or subdomain. I really like this since you can easily modify the action to rsync the files over to your own server. This lets you take both use the convenience of Actions and own the hosting server. And since you own the server, you can keep these sites private and keep them for as long as you like. Naturally, this only works for static sites such as the project I was working on. For versioned backends you would definitely want a hosting service such as Netlify to manage all the networking and artifacts.
 
-My approach is a little bit different than this since I can't directly control github, so I use a second skeleton repo and a github submodule to link to original code without duplicating files and wasting GitHub resources.
+My approach is a little bit different than this since I can't directly control GitHub, so I use a second skeleton repo and a github submodule to link to original code without duplicating files and wasting GitHub resources.
 
 **Try it yourself:** [PR trigger](https://github.com/cse110-fa22-group23/cse110-fa22-group23/blob/main/.github/workflows/staging.yml) and [build and deploy action](https://github.com/cse110-fa22-group23/staging/blob/main/.github/workflows/static.yml)
 ![example action usage](/images/example-action-run.png)
 
 **Overview:** You trigger the action by commenting `.deploy` on any PR, which kicks off the runner that will build and deploy to staging, commenting on its progress as it goes.
 
-Let's go through and see how the code works (TODO: not finished writing this)
+Let's go through and see how the code works
 
 ```yaml
 name: Manual branch staging site deploy
@@ -60,16 +58,11 @@ jobs:
         with: # bypass branch approval protection in order to deploy
           admins: cse110-fa22-group23/staging-deploy-permission
 ```
+The `job:` information defines the environment of the action and tells it when to run.
 
-This uses GitHub's branch-deploy action. This is a great action that takes care of a bunch of edge cases and also enforces repo protections. By default, you can only deploy after all automated checks and code review requirements pass, which prevents random people from opening PRs and triggering the action from trying to run malicious code. We bypass this for trusted contributors with the permission group.
+I used GitHub's branch-deploy action. This is a great action that takes care of a bunch of edge cases and also enforces repo protections. By default, you can only deploy after all automated checks and code review requirements pass, which prevents random people from opening PRs and triggering the action from trying to run malicious code. We bypass this for trusted contributors with the permission group.
 
 ```yaml
-      #   # If the branch-deploy Action was triggered, checkout our branch
-      # - uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # pin@v3.0.2
-      #   with:
-      #     ref: ${{ steps.branch-deploy.outputs.ref }}
-
-        
         # clone staging repository
       - name: checkout staging
         continue-on-error: true # git may return error code if nothing to push
@@ -194,27 +187,25 @@ Update the submodule and get the new code. You would have to add a step here to 
 
 Upload the static folder to Pages and publish it.
 
-Funnily enough, the GitHub engineer who wrote the branch-deploy action actually made an issue to reach out on our repo. That was quite exciting to see.
+Funnily enough, the GitHub engineer who wrote the branch-deploy action actually made an [issue](https://github.com/cse110-fa22-group23/cse110-fa22-group23/issues/149) to reach out on our repo. That was quite exciting to see.
 
 ### Future work
 
-One problem was I only made a commit to change the action and did not change the reference of the submodule. So when it gets copied by the default github pages deploy action, it is only a shallow copy of that one ref and you can't checkout another commit or branch. I made it clone the entire repo which is a suboptimal approach. In the future, I would instead just checkout the hash that I put in the file or in the future I would just deploy it my own static hosting server. Also the admin permissions to bypass checks did not work and I did not get around to debugging that.
+One problem was I only made a commit to change the action and did not change the reference of the submodule. So when it gets copied by the default github pages deploy action, it is only a shallow copy of that one ref and you can't checkout another commit or branch. I made it clone the entire repo which is a suboptimal approach. In the future, I would instead just checkout the hash that I put in the file or in the future I would just deploy it my own static hosting server. Also the admin permissions to bypass commit checks did not work and I did not get around to debugging that.
 
 ## Closing thoughts
 
-This was a fun, brief foray into CI. It proved quite helpful as we were having some problems checking PWA and service worker stuff without deploying first. I wouldn't really recommend anyone use this since commercial deployment tools work a lot better and GitHub is going to add this as a first party [feature](https://github.com/actions/deploy-pages/blob/368bf1aa22b9265440e251b9216520e3f91c2d5b/action.yml#L37) soon anyway. I really liked working with GitHub Actions and in combination with the pre-commit hook I wrote, it made development a lot faster to run the same checks locally as the things being verified by our other action checks. The only problem I had was that it was a bit frustrating to work with the GitHub's runner since I had to keep committing directly to main and then making empty commits to retrigger PR checks. In the future, I would try to spend more time looking at action examples. Or maybe I would just have ChatGPT write it for me 🤖💭[^1],[^2]
+This was a fun, brief foray into CI. It proved quite helpful as we were having some problems checking PWA and service worker stuff without deploying first. I wouldn't really recommend anyone use this since commercial deployment tools work a lot better and GitHub is going to add this as a first party [feature](https://github.com/actions/deploy-pages/blob/368bf1aa22b9265440e251b9216520e3f91c2d5b/action.yml#L37) soon anyway. I can also recommend Cloudflare Pages, which works really well. I really liked working with GitHub Actions and in combination with the pre-commit hook I wrote, it made development a lot faster to run the same checks locally as the things being verified by our other action checks. The only problem I had was that it was a bit frustrating to work with the GitHub's runner since I had to keep committing directly to main and then making empty commits to retrigger PR checks. In the future, I would try to spend more time looking at action examples. Or maybe I would just have ChatGPT write it for me 🤖💭[^1],[^2]
 
-in future I would not really recommend using this since I saw github has multiple deploys as a [flag](https://github.com/actions/deploy-pages/blob/368bf1aa22b9265440e251b9216520e3f91c2d5b/action.yml#L37) in their private alpha.
-
-I like that I used the github submodule. It was cool to try out that stuff.
+It enjoyed trying out git submodules and seeing the shallow clone optimizations GitHub uses for their actions.
 
 ### Some meta-thoughts
 
-Although I have been doing a lot of work and making a lot of very cool things in the past two years, I have been having a hard time pushing some projects and especially blog posts to completion. I am hoping releasing this will lead to a deluge of posts from me. I have a lot of writings that are stuck in the editing stage that I have not gotten around to cleaning up and feeling good enough to release.
+Although I have been doing a lot of work and making a lot of very cool things in the past two years, I have been having a hard time pushing some projects and especially blog posts to completion. I am hoping releasing this will lead to a deluge of posts from me. I have many posts stuck in the editing stage that I have not gotten around to cleaning up and feeling good enough to release. This post is quite rough, but I think it has some value in releasing for me and others.
 
 ## References
 
-Some interesting related links I found in the process of making this. Surprisingly, I couldn't find anything that accomplishes what this action does the way that I do it. Similar actions also made to use GitHub Pages don't work as cleanly as the way I have done it.... TODO:
+Some interesting related links I found in the process of making this. Surprisingly, I couldn't find anything that accomplishes what this action does the way that I do it. Similar actions also made to use GitHub Pages don't work as cleanly as the way I have done it.
 
 <https://www.netlify.com/github-pages-vs-netlify/>
 
