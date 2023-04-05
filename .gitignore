@@ -1,2 +1,9 @@
 _site/
 *.DS_Store*
+_teaching/.DS_Store
+_includes/.DS_Store
+_portfolio/.DS_Store
+_posts/.DS_Store
+_talks/.DS_Store
+_teaching/.DS_Store
+.DS_Store
