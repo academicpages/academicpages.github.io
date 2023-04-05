@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shihong Duan / PhD, USTB"
+title                    : "Shihong Duan "
 title_separator          : "-"
 name                     : &name "duan shihong"
 description              : &description " 慢慢修改 "
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Associate Professor of USTB"
+  name             : "PhD, USTB"
   avatar           : "profile.png"
-  bio              : "My research intrests are multi/swarm intelligence"
+  bio              : "My research intrests are embedding computing, multi/swarm intelligence"
   location         : "Beijing, China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
