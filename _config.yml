@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mehdi Barati / Personal Website"
+title                    : "Mehdi Barati"
 title_separator          : "-"
 name                     : &name "Mehdi Barati"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mehdi Barati"
   avatar           : "20220924_135256.jpg"
-  bio              : "phd candidate in information science working on data science and machine learning"
+  bio              : "PhD candidate in information science working on data science and machine learning"
   location         : "Location"
   employer         :
   pubmed           : ""
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ehdibaratii"
+  github           : "mehdibaratii"
   google_plus      :
   keybase          :
   instagram        :

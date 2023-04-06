@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mehdi Barati"
+title: "My Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
