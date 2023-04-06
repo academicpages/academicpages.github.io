@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I’m Jaspor, a master student in medical robotics. Since April 2022, I studied as a master of science at Laboratory for Computational Science and Robotics in Johns Hopkins University.
+I’m Jaspor, a master student in medical robotics. From April 2022 to the present, I have been studying for a Master of Science at Laboratory for Computational Science and Robotics (LCSR) in Johns Hopkins University.
 
-I completed my Bachelor at University of Michigan - Shanghai Jiao Tong University Joint Institute, where I worked as a Research Assistant from 2019 to 2022. 
+I completed my Bachelor at University of Michigan - Shanghai Jiao Tong University Joint Institute,, where I pursued advanced design and manufacturing in the field of robotics engineering. Throughout my academic journey, I have garnered specialized skills in the development of computer vision assisted robots for the purpose of structural health monitoring systems. For more information on my research interests and projects, check out my [Research page](https://academicpages.github.io/publications/)!
 
 I care about promoting open, collaborative, and reproducible science. In my free time, you will find me travelling around the world, discovering the beauty of nature.
 
