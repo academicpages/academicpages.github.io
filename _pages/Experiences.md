@@ -20,8 +20,10 @@ Research
 * Solid components embedded in thin-walled structures
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.03-2023.03
 * Explicit layout optimization of complex rib-reinforced thin-walled structures
+  * Collaborated with Dr. Xudong Jiang
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.03-2022.10
-* Explicit topology optimization of surface structures, supervised by Prof. Xu Guo and Prof. Chang Liu, 2021.03-present
+* Explicit topology optimization of surface structures
+  * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2021.03-present
 * Texture synthesis and its application to computational mechanics
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2020.10-2021.03
 * Structure design considering EMS and EMI
