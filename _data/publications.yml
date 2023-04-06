@@ -1,3 +1,48 @@
+- id: arous2023www_hybrid
+  authors: Sepideh Mesbah, Ines Arous, Jie Yang, Alessandro Bozzon
+  url: pdf/arous2023www_hybrid.pdf
+  venue: The Web Conference (WWW)
+  year: 2023
+  type: "full research paper"
+  highlight:
+  title: "HybridEval: A Human-AI Collaborative Approach for Evaluating Design Ideas at Scale"
+  bib: |
+    @inproceedings{arous2023www_hybrid,
+      title={HybridEval: A Human-AI Collaborative Approach for Evaluating Design Ideas at Scale},
+      author={Sepideh Mesbah, Ines Arous, Jie Yang, Alessandro Bozzon},
+      booktitle={The World Wide Web Conference},
+      year={2023},
+      organization={ACM}
+    }
+- id: arous2023www
+  authors: Ines Arous, Ljiljana Dolamic, and Philippe Cudré-Mauroux
+  url: pdf/arous2023www.pdf
+  venue: The Web Conference (WWW)
+  year: 2023
+  type: "full research paper"
+  highlight:
+  title: "TaxoComplete: Self-Supervised Taxonomy Completion Leveraging Position-Enhanced Semantic Matching"
+  bib: |
+    @inproceedings{arous2023www,
+      title={TaxoComplete: Self-Supervised Taxonomy Completion Leveraging Position-Enhanced Semantic Matching},
+      author={Arous, Ines and Dolamic, Ljiljana and Cudr{\'e}-Mauroux, Philippe},
+      booktitle={The World Wide Web Conference},
+      year={2023},
+      organization={ACM}
+    }
+- id: arous2022thesis
+  authors: Ines Arous
+  url: pdf/ines_phd_thesis.pdf
+  year: 2022
+  type: "Thesis"
+  highlight:
+  title: "PhD Thesis: Human-AI Collaborative Approaches for Open-Ended Data Curation"
+  bib: |
+    @inproceedings{arous2022thesis,
+      title={Human-AI Collaborative Approaches for Open-Ended Data Curation},
+      author={Arous, Ines},
+      year={2022},
+    }
 - id: arous2021www
   authors: Ines Arous, Jie Yang, Mourad Khayati, and Philippe Cudré-Mauroux
   url: pdf/arous2021www.pdf

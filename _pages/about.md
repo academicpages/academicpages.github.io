@@ -14,5 +14,13 @@ My research interests lie at the intersection of Crowdsourcing, Natural Language
 # Research Interests
 Crowdsourcing, Human-AI, Common Sense Reasoning, Bayesian Inference
 
+# News
+
+- Apr 2023 We are organzing a workoshop on NLP with [CDSI](https://mcgill-cdsi.libcal.com/event/3719129). 
+- Feb 2023 One paper on Taxonomy Completion Leveraging Position-Enhanced Semantic Matching has been accepted by the WebConf.
+- Feb 2023 One paper on a Human-AI collaborative approach for evaluating design ideas at scale has been accepted by the WebConf. 
+- Nov 2022 I joined MILA/McGill as a postdoctoral fellow.
+- Oct 2022 I graduated with a PhD in computer science from the University of Fribourg.
+
 
 
