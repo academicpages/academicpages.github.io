@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mehdi Barati personal website"
+title: "Mehdi Barati"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,53 +10,26 @@ redirect_from:
 
 This is the front page of my personla website. Here I will post my research activities, publications, and other stuff.
 
-[]: # Path: _pages\cv.md
----
-permalink: /cv/
-title: "CV"
-excerpt: "CV"
-author_profile: true
-redirect_from: 
-  - /resume
----
-Last updated: 2020-03-01
 
 Education
 ======
-* B.Sc. in Computer Engineering, Sharif University of Technology, 2016
-* M.Sc. in Computer Engineering, Sharif University of Technology, 2018
-* Ph.D. in Computer Engineering, Sharif University of Technology, 2022 (expected)
+* B.Sc. in Operation Mnagement, Iran University of Science and Technology, 2008
+* M.Sc. in Information Science, State University of New York at Albany, 2023
+* P.h.D. in Information Science, State University of New York at Albany, 2023
 
-Work experience
-======
-* Research Assistant, Sharif University of Technology, 2018 - Present
-* Research Assistant, Sharif University of Technology, 2016 - 2018
-
-Awards
-======
-* Best Paper Award, 2019 IEEE International Conference on Communications (ICC), 2019
-* Best Paper Award, 2018 IEEE International Conference on Communications (ICC), 2018
-* Best Paper Award, 2017 IEEE International Conference on Communications (ICC), 2017
-* Best Paper Award, 2016 IEEE International Conference on Communications (ICC), 2016
 
 Publications
 ======
-* M. Barati, M. R. Azimi-Sadjadi, and M. Rabbani, "A Novel Approach for Joint Power Allocation and Beamforming in Massive MIMO Systems," in IEEE Transactions on Wireless Communications, vol. 18, no. 3, pp. 1509-1523, March 2019. [PDF](https://ieeexplore.ieee.org/document/8460009)
+* Barati, M. (2023). Open Government Data Programs and Information Privacy Concerns: A Literature Review. eJournal of eDemocracy and Open Government (JeDEM). (In production)
 
-* M. Barati, M. R. Azimi-Sadjadi, and M. Rabbani, "A Novel Approach for Joint Power Allocation and Beamforming in Massive MIMO Systems," in IEEE International Conference on Communications (ICC), 2019. [PDF](https://ieeexplore.ieee.org/document/8460009)
+* Barati, M. (2023). Casual Social Media Use among the Youth: Effects on Online and Offline Political Participation (SSRN Scholarly Paper No. 4072941). eJournal of eDemocracy and Open Government (JeDEM). (In production)
 
-* M. Barati, M. R. Azimi-Sadjadi, and M. Rabbani, "A Novel Approach for Joint Power Allocation and Beamforming in Massive MIMO Systems," in IEEE International Conference on Communications (ICC), 2019. [PDF](https://ieeexplore.ieee.org/document/8460009)
+* Barati, M., Ansari, B. (2022). Effects of algorithmic control on power asymmetry and inequality within organizations. Journal of Management Control. https://doi.org/10.1007/s00187-022-00347-6.
 
-* M. Barati, M. R. Azimi-Sadjadi, and M. Rabbani, "A Novel Approach for Joint Power Allocation and Beamforming in Massive MIMO Systems," in IEEE International Conference on Communications (ICC), 2019. [PDF](https://ieeexplore.ieee.org/document/8460009)
+* Barati, M., & Yankson, B. (2022). Predicting the Occurrence of a Data Breach. International Journal of Information Management Data Insights, 2(2), 100128. https://doi.org/10.1016/j.jjimei.2022.100128.
+
+* Ansari, B., Barati. M., Martin, E.G. (2021). Enhancing the usability and usefulness of open government data: A comprehensive review of the state of open government data visualization research. Government Information Quarterly, 101657, ISSN 0740-624X https://doi.org/10.1016/j.giq.2021.101657.
+
+* Poehlmann, N., Caramancion, K. M., Tatar, I., Li, Y., Barati, M., & Merz, T. (2021). The Organizational Cybersecurity Success Factors: An Exhaustive Literature Review. In K. Daimi, H. R. Arabnia, L. Deligiannidis, M.-S. Hwang, & F. G. Tinetti (Eds.), Advances in Security, Networks, and Internet of Things (pp. 377–395). Springer International Publishing. https://doi.org/10.1007/978-3-030-71017-0_27
 
 
-[]: # Path: _pages\publications.md
----
-permalink: /publications/
-title: "Publications"
-excerpt: "Publications"
-author_profile: true
-redirect_from: 
-  - /publications.html
----
-Last updated: 2020-03-01
