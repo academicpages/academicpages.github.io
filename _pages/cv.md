@@ -31,6 +31,15 @@ Education
   * Bachelor of Science - BS, Electrical, Electronics and Communications Engineering 
   * 2013 - 2018
 
+<table>
+  <tr>
+    <td><img src="ppke.png" alt="Alt Text"></td>
+    <td><img src="uam.png" alt="Alt Text"></td>
+    <td><img src="ppke.png" alt="Alt Text"></td>
+  </tr>
+</table>
+
+
 Awards
 ======
 * [Best 50 African Project of the Year 2019](https://www.undp.org/ethiopia/news/undp-supported-2019-africa-innovation-week#:~:text=The%202019%20African%20Innovation%20Week,28th%20%E2%80%93%20November%202nd.)
