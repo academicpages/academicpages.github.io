@@ -81,7 +81,7 @@ yandex_site_verification :
 # Site Author
 author:
   name             : "Suchetha Cooray"
-  avatar           : "bio-photo.jpg"
+  avatar           : "cooray_profile.jpg"
   bio              : "Understanding the Universe with Machines"
   location         : "Nagoya, Japan"
   employer         :
@@ -236,14 +236,14 @@ defaults:
       share: true
       comments: true
   # # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""

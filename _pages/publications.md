@@ -31,6 +31,8 @@ Imaging of Nearby Galaxies Project\"*, 2020, PASJ, 72, 4, 61
 
 # Co-authored papers
 
+Matsui, S. A.; Takeuchi, T. T.; Kono, K. T.; **Cooray, S.**; "Photometric Observations and Period Analysis of
+an SU UMa-type Dwarf Nova, MASTER OT J004527.52+503213.8", ([arxiv:2303.14558](https://arxiv.org/abs/2303.14558))
 
 Takeuchi, T. T.; Yoshida, S. A.; Cortese, L.; Wong, O. I.; Cartinella,
 B.; **Cooray, S.**; *\"Estimation of the Star Formation Rate of Galaxies
