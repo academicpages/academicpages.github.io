@@ -11,30 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Psychology, Trinity College Dublin, University of Dublin, 2018
+* Ph.D in Computer Science, University College Dublin, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2018 - August 2019: Research Assistant
+  * Trinity College Institute of Neuroscience
+  * Duties included: EEG, pupillometry, neuropsychiatric batteries
+  * Supervisor: Professor Paul Dockree
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research methods
+* Statistical analysis
+  * Python
+  * R
+  * SPSS
+
 
 Publications
 ======
@@ -56,4 +51,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Programme Committee Member
+   * AIES 2022-2023
+   * AICS 2022
+* Reviewer
+   * Journal
