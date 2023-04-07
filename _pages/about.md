@@ -21,13 +21,13 @@ Prior to my doctoral studies, I worked as a research assistant at the University
  
  - My present research is under the co-supervision of [Dr. Emma L Tonkin](https://www.bristol.ac.uk/people/person/Emma-Tonkin-47cb2fc5-62d3-4efc-9127-795bf5af66f9/) at the University of Bristol. It pertains to investigating methodologies for keyword extraction from submitted papers in the [ARDUOUS](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=169425&copyownerid=177258) workshop, along with clustering of the extracted keywords, with the primary aim of identifying research trends and their evolution over time. 
  
- - My [Master thesis](https://dipendrayadaveee.github.io/files/Master_Thesis_Yadav_Dipendra.pdf) research investigated the use of Transfer Learning on Deep NLP systems for languages with limited annotation.
+ - My [Master thesis](https://dipendrayadaveee.github.io/files/Master_Thesis_Yadav_Dipendra.pdf) research investigated the use of Sequential Transfer Learning on Deep NLP systems for languages with limited annotation (from Hindi to Nepali).
 
- - During my [Specialization](https://dipendrayadaveee.github.io/files/Yadav_Dipendra_Specialization_Electrical_Engineering.pdf) research, I worked on Automatic Object detection for Video-based intention recognition on CMU Quality of life grand challenge kitchen dataset.
+ - During my [Specialization](https://dipendrayadaveee.github.io/files/Yadav_Dipendra_Specialization_Electrical_Engineering.pdf) research, I worked on building Automatic Object detection system for Video-based intention recognition on CMU Quality of life grand challenge kitchen dataset.
 
 <h2>More</h2>
 
 - As a coordinator and event manager for International Founders at [Grundungswerft](https://gruendungswerft.com/en/locations/rostock/), I have the privilege of helping ambitious individuals from diverse cultural backgrounds kickstart their entrepreneurial dreams in Mecklenburg Vorpommern, Germany.
 
-- I am from Nepal and I find immense pleasure in delving into the pages of books, indulging in movies, socializing with like-minded individuals, and embarking on refreshing bicycle rides.
+- I find immense pleasure in delving into long walks in woods, the pages of books, socializing with like-minded individuals, and embarking on long bicycle rides.
 
