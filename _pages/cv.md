@@ -186,5 +186,5 @@ Organizational and Voluntery Work
   <img src="/images/bit.jpg" alt="BDU" style="display: inline-block; width: 500px; height: 50px;">
 </div>
  
-</div>
+
 
