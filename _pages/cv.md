@@ -31,13 +31,9 @@ Education
   * Bachelor of Science - BS, Electrical, Electronics and Communications Engineering 
   * 2013 - 2018
 
-<table>
-  <tr>
-    <td><img src="ppke.png" alt="Alt Text"></td>
-    <td><img src="uam.png" alt="Alt Text"></td>
-    <td><img src="ppke.png" alt="Alt Text"></td>
-  </tr>
-</table>
+![PPCU](ppke.png) ![UAM](/images/uam.png) ![UBx](/images/ub.png)
+
+
 
 
 Awards
