@@ -7,6 +7,10 @@ author_profile: true
 
 ## Invited Talks
 
+**23/03/07** SKA-Japan Workshop 2022 - Tokyo: *\"Wavelets and Sparsity for Faraday Tomography"\*
+ 
+**23/02/20** SKA-Japan Webinar Series - Online: *\"Galaxy Manifold with SKA"\*
+
 **22/12/13** IPMU Astro Lunch Seminar - Tokyo: *\"Machine Learning-based
 Approach to Understanding Galaxies\"*
 
@@ -21,6 +25,10 @@ Magnetism with Faraday Tomography\"*
 
 ## Conference & Workshop talks
 
+**22/03/22** Galaxy Formation and Evolution in the Data Science Era - Santa Barbara, USA: *\"Learning representations of galaxies from simulations and observations"\*
+
+**23/03/15** Spring Annual Meeting of Astronomical Society of Japan - Tokyo, Japan: *\"Generative Model of Simulated Galaxies for Fitting Observed SEDs"\*
+    
 **22/12/21** Rironkon Symposium 2022 - Fukushima, Japan: *\"Generative
 Modeling for Galaxy Star Formation Histories\"*
 
