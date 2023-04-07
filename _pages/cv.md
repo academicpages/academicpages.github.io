@@ -45,21 +45,27 @@ Awards
 Work experience
 ======
 * [Ethiopian Electric Utility](http://www.ethiopianelectricutility.gov.et/): Junior Electrical Engineer 
+  * 3.5 years of Experience 
   * Bahir  Dar, Ethiopia
 
 * [American Spaces Ethiopia](https://et.usembassy.gov/education-culture/american-spaces/): Technology Support Grantee
+  * 1.5 Years of Experience 
   * Bahir  Dar, Ethiopia
   
 * G&D Graphics: Founder and CEO
+  * From 2020 - Present
   * Bahir Dar, Ethiopia 
 
 * Paramount Student: Ambassador
+  * 6 months of experience 
   * Remotely 
 
 * [Amhara Media Corporation](https://www.amharaweb.com/english/): Radio and TV Broadcast Engineer Intern 
+  * 4 months 
   * Bahir Dar, Ethiopia
 
 * [Ethio Telecommunication](https://www.ethiotelecom.et/): Operations and Maintenance Engineer Intern
+   * 4 months
    * Bahir Dar, Ethiopia
 
   
@@ -94,7 +100,7 @@ Skills
 
 * Graphics Design Skill
   * Adobe Photoshop, 
-  * Afer Eﬀects
+  * After Eﬀects
   * Video Editing Softwares
 
 * Leadership and Management Skill
