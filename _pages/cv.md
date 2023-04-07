@@ -180,7 +180,18 @@ Certificates
 * Young Africa Leadership Initiative
   * YALI Entrepreneurship and Business Course Certificates
 
-
+<div style="text-align: center;">
+ 
+  <img src="/images/ase (1).png" alt="BDU" style="display: inline-block; width: 100px;">
+  <img src="/images/ase (2).png" alt="PPCU" style="display: inline-block; width: 100px;">
+  <img src="/images/ase (3).png" alt="UAM" style="display: inline-block; width: 100px;">
+  <img src="/images/ase (4).png" alt="UBx" style="display: inline-block; width: 100px;">
+  <img src="/images/ase (5).png" alt="BDU" style="display: inline-block; width: 100px;">
+  <img src="/images/ase (6).png" alt="PPCU" style="display: inline-block; width: 100px;">
+  <img src="/images/ase (7).png" alt="UAM" style="display: inline-block; width: 100px;">
+  
+  
+</div>
 
 Organizational and Voluntery Work
 ======
