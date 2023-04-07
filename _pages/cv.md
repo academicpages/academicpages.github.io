@@ -126,12 +126,6 @@ Skills
   <img src="/images/pcl.png" alt="UAM" style="display: inline-block; width: 100px;">
   <img src="/images/scikit.png" alt="UBx" style="display: inline-block; width: 100px;">
   <img src="/images/pytorch.png" alt="BDU" style="display: inline-block; width: 100px;">
-  <img src="/images/cv.png" alt="PPCU" style="display: inline-block; width: 100px;">
-  <img src="/images/ml.jpeg" alt="UAM" style="display: inline-block; width: 100px;">
-  <img src="/images/ar.png" alt="UBx" style="display: inline-block; width: 100px;">
-  <img src="/images/dl.png" alt="BDU" style="display: inline-block; width: 100px;">
-  <img src="/images/pro.jpeg" alt="PPCU" style="display: inline-block; width: 100px;">
-  <img src="/images/pm.png" alt="UAM" style="display: inline-block; width: 100px;">
   
   
 </div>
