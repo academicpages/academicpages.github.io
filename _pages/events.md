@@ -27,7 +27,7 @@ Conferences and Workshops
 >
 >**Please use [this template](https://aimesproject.org/wp-content/uploads/2023/03/YOUR-NAME_LDAC-2023-Abstract-Template.doc) to upload your abstract.** 
 > 
->**Call for abstracts:** We invite you to submit your abstracts for oral or poster presentations and/or breakout group proposals [here].(https://docs.google.com/forms/d/e/1FAIpQLSfctXyIC96nls4DyaJ6YheCHoKyh9klsgO87AkpVBCVPyRWZg/viewform) 
+>**Call for abstracts:** We invite you to submit your abstracts for oral or poster presentations and/or breakout group proposals [here](https://docs.google.com/forms/d/e/1FAIpQLSfctXyIC96nls4DyaJ6YheCHoKyh9klsgO87AkpVBCVPyRWZg/viewform). 
 >
 >**Deadline:** 19 April 2023
 >
