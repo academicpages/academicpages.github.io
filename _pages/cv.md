@@ -33,7 +33,7 @@ Education
 
 
 <div style="text-align: center;">
-  <img src="/images/bdu2.png" alt="BDU" style="display: inline-block; width: 100px;">
+  <img src="/images/bdu.png" alt="BDU" style="display: inline-block; width: 100px;">
   <img src="/images/ppke.png" alt="PPCU" style="display: inline-block; width: 100px;">
   <img src="/images/uam.png" alt="UAM" style="display: inline-block; width: 100px;">
   <img src="/images/ub.png" alt="UBx" style="display: inline-block; width: 100px;">
