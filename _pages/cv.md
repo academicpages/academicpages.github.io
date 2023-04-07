@@ -133,6 +133,12 @@ Skills
 
 Projects
 ======
+* Measurements on recognition of object to grasp with a robot arm on a hybrid system
+  * 2022 – Present, [Pázmány Péter Catholic University](https://ppke.hu/en), [Universidad Autonoma de Madrid](https://www.uam.es/uam/inicio) and  [University of Bordeaux](https://www.u-bordeaux.fr/en)
+  
+* Performance Analysis of 60-120 GHz mmWave Ranges Radio Over Fiber with Multi Input Multi Output Architecture
+  * 2022 – Present, [Bahir Dar University](https://www.bdu.edu.et/)
+
 * Design and Implementation of Smart Microscope For Automatic Protozoan Disease Detection and Diagnosis Using Python Programing Language
   * 2017 – 2018, [Bahir Dar University](https://www.bdu.edu.et/)
 
@@ -152,7 +158,10 @@ Projects
   * 2014 – 2015, [Bahir Dar University](https://www.bdu.edu.et/)
 
 <div style="text-align: center;">
-  <img src="/images/bit.jpg" alt="BDU" style="display: inline-block; width: 500px; height: 50px;">
+  <img src="/images/ppke.png" alt="PPCU" style="display: inline-block; width: 100px;">
+  <img src="/images/uam.png" alt="UAM" style="display: inline-block; width: 100px;">
+  <img src="/images/ub.png" alt="UBx" style="display: inline-block; width: 100px;">
+  <img src="/images/bdu3.jpg" alt="BDU" style="display: inline-block; width: 200px;">
 </div>
 
 Certificates
@@ -183,9 +192,9 @@ Certificates
   <img src="/images/ase (5).png" alt="BDU" style="display: inline-block; width: 100px;">
   <img src="/images/ase (6).png" alt="PPCU" style="display: inline-block; width: 100px;">
   <img src="/images/ase (7).png" alt="UAM" style="display: inline-block; width: 100px;">
-  
-  
+ 
 </div>
+
 
 Organizational and Voluntery Work
 ======
