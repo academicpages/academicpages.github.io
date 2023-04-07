@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<div style="text-align: justify">
 Hello and welcome to my page! My name is [Getnet Demil Jenberia](https://www.linkedin.com/in/getnetdemil/), and I am currently pursuing two master's degrees in Image Processing and Computer Vision from Universidad Autonoma de Madrid and Pázmány Péter Catholic University, respectively.
 
 Education
@@ -32,3 +32,5 @@ Voluntary Work
 I have also been involved in various organizational and voluntary work, including volunteering at the Ethiopian Red Cross Society and organizing a fundraiser for a local charity in Bahir Dar, Ethiopia.
 
 Thank you for visiting my page, and feel free to contact me for any further information or inquiries.
+  
+</div>
