@@ -33,7 +33,7 @@ Education
 
 
 <div style="text-align: center;">
-  <img src="/images/bdu.png" alt="BDU" style="display: inline-block; width: 100px;">
+  <img src="/images/bdu.png" alt="BDU" style="display: inline-block; width: 300px; height: 50px;">
   <img src="/images/ppke.png" alt="PPCU" style="display: inline-block; width: 100px;">
   <img src="/images/uam.png" alt="UAM" style="display: inline-block; width: 100px;">
   <img src="/images/ub.png" alt="UBx" style="display: inline-block; width: 100px;">
@@ -49,7 +49,10 @@ Awards
 * Best Bahir Dar University Project of The Year 2018
   * Organizer: [Bahir Dar University](https://www.bdu.edu.et/), Ethiopia
   * Date: 06/2018
-
+  * 
+<div style="text-align: center;">
+  <img src="/images/bit.jpg" alt="BDU" style="display: inline-block; width: 500px; height: 50px;">
+</div>
 
 Work experience
 ======
@@ -134,6 +137,10 @@ Projects
 * Bahir Dar University Student Online Grading System Using C++ Language
   * 2014 – 2015, [Bahir Dar University](https://www.bdu.edu.et/)
 
+<div style="text-align: center;">
+  <img src="/images/bit.jpg" alt="BDU" style="display: inline-block; width: 500px; height: 50px;">
+</div>
+
 Certificates
 ======
 * Cisco Certified Network Associate Routing and Switching Introduction
@@ -175,4 +182,9 @@ Organizational and Voluntery Work
 * Amahara Mass Media Agency Internship Train Engineer
   * 02/2017 – 04/2017,  Bahir  Dar, Ethiopia
 
+<div style="text-align: center;">
+  <img src="/images/bit.jpg" alt="BDU" style="display: inline-block; width: 500px; height: 50px;">
+</div>
+ 
+</div>
 
