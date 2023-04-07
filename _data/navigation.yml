@@ -4,7 +4,16 @@ main:
 #   - title: "Talks"
 #     url: /talks/    
 
-  - title: "Teaching"
+  # - title: "About Me"
+  #   url: /about/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Teaching & Outreach"
     url: /teaching/    
     
   - title: "Portfolio"
@@ -13,11 +22,9 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+
     
-  - title: "Research"
-    url: /publications/
+
 #     url: /research/
     
 #   - title: "Guide"
