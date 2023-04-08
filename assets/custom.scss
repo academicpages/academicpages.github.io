@@ -2,7 +2,8 @@
   display: flex;
   overflow-x: auto;
   scroll-behavior: smooth;
-  animation: slide 10s linear infinite;
+  justify-content: center;
+  align-items: center;
 }
 
 .image-slider img {
@@ -10,13 +11,25 @@
   max-width: 300px;
   height: auto;
   margin-right: 10px;
+  opacity: 0;
+  animation: fade 10s ease-in-out infinite;
 }
 
-@keyframes slide {
+.image-slider img:first-child {
+  opacity: 1;
+}
+
+@keyframes fade {
   0% {
-    transform: translateX(0);
+    opacity: 0;
+  }
+  20% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 1;
   }
   100% {
-    transform: translateX(calc(-300px - 10px));
+    opacity: 0;
   }
 }
