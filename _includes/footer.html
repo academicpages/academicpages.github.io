@@ -5,35 +5,13 @@
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
-
-    {% if site.linkedin %}
-      <li><a href="{{ site.linkedin }}"><i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+    
+     {% if site.linkedin.username %}
+      <li><a href="https://linkedin.com/{{ site.linkedin.username }}"><i class="fab fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a></li>
     {% endif %}
-
-    {% if site.medium %}
-      <li><a href="{{ site.medium }}"><i class="fab fa-medium" aria-hidden="true"></i> Medium</a></li>
+    {% if site.facebook.username %}
+      <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fab fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
     {% endif %}
-
-    {% if site.researchgate %}
-      <li><a href="{{ site.researchgate }}"><i class="fab fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
-    {% endif %}
-
-    {% if site.twitter %}
-      <li><a href="{{ site.twitter }}"><i class="fab fa-twitter" aria-hidden="true"></i> Twitter</a></li>
-    {% endif %}
-
-    {% if site.instagram %}
-      <li><a href="{{ site.instagram }}"><i class="fab fa-instagram" aria-hidden="true"></i> Instagram</a></li>
-    {% endif %}
-
-    {% if site.email %}
-      <li><a href="mailto:{{ site.email }}"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a></li>
-    {% endif %}
-
-    {% if site.telegram %}
-      <li><a href="https://t.me/{{ site.telegram }}"><i class="fab fa-telegram" aria-hidden="true"></i> Telegram</a></li>
-    {% endif %}
-
     {% if site.author.github %}
       <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github-square" aria-hidden="true"></i> GitHub</a></li>
     {% endif %}
@@ -45,3 +23,20 @@
 </div>
 
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}
+<div style="text-align: center;">
+  <img src="/images/bdu3.jpg" alt="BDU" style="display: inline-block; width: 60px;">
+  <img src="/images/ppke.png" alt="PPCU" style="display: inline-block; width: 30px;">
+  <img src="/images/uam.png" alt="UAM" style="display: inline-block; width: 30px;">
+  <img src="/images/ub.png" alt="UBx" style="display: inline-block; width: 30px;">
+</div>
+  <div style="text-align: center;">
+  <img src="/images/c++.png" alt="BDU" style="display: inline-block; width: 10px;">
+  <img src="/images/python.png" alt="PPCU" style="display: inline-block; width: 10px;">
+  <img src="/images/matlab.png" alt="UAM" style="display: inline-block; width: 10px;">
+  <img src="/images/keras.jpeg" alt="UBx" style="display: inline-block; width: 10px;">
+  <img src="/images/open.png" alt="BDU" style="display: inline-block; width: 10px;">
+  <img src="/images/tensor.png" alt="PPCU" style="display: inline-block; width: 10px;">
+  <img src="/images/pcl.png" alt="UAM" style="display: inline-block; width: 10px;">
+  <img src="/images/scikit.png" alt="UBx" style="display: inline-block; width: 10px;">
+  <img src="/images/pytorch.png" alt="BDU" style="display: inline-block; width: 10px;">
+</div>
