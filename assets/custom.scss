@@ -1,0 +1,17 @@
+.image-slider {
+  display: flex;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+}
+
+.image-slider img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  margin-right: 10px;
+  transition: transform 0.3s ease-out;
+}
+
+.image-slider img:hover {
+  transform: translateX(10px);
+}
