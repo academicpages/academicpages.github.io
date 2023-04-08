@@ -116,15 +116,15 @@ Skills
 * Leadership and Management Skill
 
 <div class="image-slider" style="text-align: center;">
-  <img src="/images/c++.png" alt="BDU" style="display: inline-block; width: 60px;">
-  <img src="/images/python.png" alt="PPCU" style="display: inline-block; width: 60px;">
-  <img src="/images/matlab.png" alt="UAM" style="display: inline-block; width: 60px;">
-  <img src="/images/keras.jpeg" alt="UBx" style="display: inline-block; width: 60px;">
-  <img src="/images/open.png" alt="BDU" style="display: inline-block; width: 60px;">
-  <img src="/images/tensor.png" alt="PPCU" style="display: inline-block; width: 60px;">
-  <img src="/images/pcl.png" alt="UAM" style="display: inline-block; width: 60px;">
-  <img src="/images/scikit.png" alt="UBx" style="display: inline-block; width: 60px;">
-  <img src="/images/pytorch.png" alt="BDU" style="display: inline-block; width: 60px;">
+  <img src="/images/c++.png" alt="BDU" style="display: inline-block; width: 100px;">
+  <img src="/images/python.png" alt="PPCU" style="display: inline-block; width: 100px;">
+  <img src="/images/matlab.png" alt="UAM" style="display: inline-block; width: 100px;">
+  <img src="/images/keras.jpeg" alt="UBx" style="display: inline-block; width: 100px;">
+  <img src="/images/open.png" alt="BDU" style="display: inline-block; width: 100px;">
+  <img src="/images/tensor.png" alt="PPCU" style="display: inline-block; width: 100px;">
+  <img src="/images/pcl.png" alt="UAM" style="display: inline-block; width: 100px;">
+  <img src="/images/scikit.png" alt="UBx" style="display: inline-block; width: 100px;">
+  <img src="/images/pytorch.png" alt="BDU" style="display: inline-block; width: 100px;">
 </div>
 
 
