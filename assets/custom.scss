@@ -2,6 +2,7 @@
   display: flex;
   overflow-x: auto;
   scroll-behavior: smooth;
+  animation: slide 10s linear infinite;
 }
 
 .image-slider img {
@@ -9,9 +10,13 @@
   max-width: 300px;
   height: auto;
   margin-right: 10px;
-  transition: transform 0.3s ease-out;
 }
 
-.image-slider img:hover {
-  transform: translateX(10px);
+@keyframes slide {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-300px - 10px));
+  }
 }
