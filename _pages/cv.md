@@ -32,7 +32,7 @@ Education
   * 2013 - 2018
 
 
-<div style="text-align: center;">
+<div class="image-slider" style="text-align: center;">
   <img src="/images/bdu3.jpg" alt="BDU" style="display: inline-block; width: 200px;">
   <img src="/images/ppke.png" alt="PPCU" style="display: inline-block; width: 100px;">
   <img src="/images/uam.png" alt="UAM" style="display: inline-block; width: 100px;">
@@ -116,7 +116,7 @@ Skills
   * Video Editing Softwares
 
 * Leadership and Management Skill
-<div style="text-align: center;">
+<div class="image-slider" style="text-align: center;">
   <img src="/images/c++.png" alt="BDU" style="display: inline-block; width: 100px;">
   <img src="/images/python.png" alt="PPCU" style="display: inline-block; width: 100px;">
   <img src="/images/matlab.png" alt="UAM" style="display: inline-block; width: 100px;">
@@ -157,7 +157,7 @@ Projects
 * Bahir Dar University Student Online Grading System Using C++ Language
   * 2014 – 2015, [Bahir Dar University](https://www.bdu.edu.et/)
 
-<div style="text-align: center;">
+<div class="image-slider" style="text-align: center;">
   <img src="/images/ppke.png" alt="PPCU" style="display: inline-block; width: 100px;">
   <img src="/images/uam.png" alt="UAM" style="display: inline-block; width: 100px;">
   <img src="/images/ub.png" alt="UBx" style="display: inline-block; width: 100px;">
@@ -183,7 +183,7 @@ Certificates
 * Young Africa Leadership Initiative
   * YALI Entrepreneurship and Business Course Certificates
 
-<div style="text-align: center;">
+<div class="image-slider" style="text-align: center;">
  
   <img src="/images/ase (1).png" alt="BDU" style="display: inline-block; width: 100px;">
   <img src="/images/ase (2).png" alt="PPCU" style="display: inline-block; width: 100px;">
