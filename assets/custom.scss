@@ -12,7 +12,7 @@
   height: auto;
   margin-right: 10px;
   opacity: 0;
-  animation: fade 10s ease-in-out infinite;
+  transition: opacity 1s ease-in-out;
 }
 
 .image-slider img:first-child {
@@ -32,4 +32,8 @@
   100% {
     opacity: 0;
   }
+}
+
+.image-slider img {
+  animation: fade 10s ease-in-out infinite;
 }
