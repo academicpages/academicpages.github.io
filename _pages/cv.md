@@ -31,14 +31,43 @@ Education
   * Bachelor of Science - BS, Electrical, Electronics and Communications Engineering 
   * 2013 - 2018
 
-
-<div class="image-slider" style="text-align: center;">
-  <img src="/images/bdu3.jpg" alt="BDU" style="display: inline-block; width: 200px;">
-  <img src="/images/ppke.png" alt="PPCU" style="display: inline-block; width: 100px;">
-  <img src="/images/uam.png" alt="UAM" style="display: inline-block; width: 100px;">
-  <img src="/images/ub.png" alt="UBx" style="display: inline-block; width: 100px;">
-</div>
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .image-slider {
+        display: flex;
+        overflow-x: auto;
+        scroll-behavior: smooth;
+        animation: slide 10s linear infinite;
+      }
+      
+      .image-slider img {
+        width: 100%;
+        max-width: 500px;
+        height: auto;
+        margin-right: 10px;
+      }
+      
+      @keyframes slide {
+        0% {
+          transform: translateX(0);
+        }
+        100% {
+          transform: translateX(calc(-500px - 10px));
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="image-slider" style="text-align: center;">
+      <img src="/images/bdu3.jpg" alt="BDU" style="display: inline-block; width: 200px;">
+      <img src="/images/ppke.png" alt="PPCU" style="display: inline-block; width: 100px;">
+      <img src="/images/uam.png" alt="UAM" style="display: inline-block; width: 100px;">
+      <img src="/images/ub.png" alt="UBx" style="display: inline-block; width: 100px;">
+    </div>
+  </body>
+</html>
 
 Awards
 ======
