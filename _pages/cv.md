@@ -114,7 +114,7 @@ Skills
   * Video Editing Softwares
 
 * Leadership and Management Skill
-* 
+
 <div class="image-slider" style="text-align: center;">
   <img src="/images/c++.png" alt="BDU" style="display: inline-block; width: 60px;">
   <img src="/images/python.png" alt="PPCU" style="display: inline-block; width: 60px;">
