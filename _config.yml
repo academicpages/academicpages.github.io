@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cecile Meier-Scherling Personal Website"
+title                    : "Cecile Meier-Scherling's Personal Website"
 title_separator          : "-"
 name                     : &name "Cecile Meier-Scherling"
 description              : &description "PhD Student in Computational Molecular Biology"
