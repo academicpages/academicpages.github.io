@@ -24,12 +24,13 @@ $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 /* serif typefaces */
 $georgia                    : Georgia, serif;
 $times                      : Times, serif;
+$palantino                  : Palatino, serif;
 $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $georgia;
-$header-font-family         : $georgia;
+$global-font-family         : $palantino;
+$header-font-family         : $palantino;
 $caption-font-family        : $times;
 
 /* type scale */
