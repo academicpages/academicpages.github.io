@@ -12,6 +12,10 @@ Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I
 
 ## News 
 
+> ***3 April 2023***
+> 
+> Great news! Our papers "Training Language Models for Programming Feedback Using Automated Repair Tools" and "Automated Program Repair Using Generative Models for Code Infilling", have been both accepted for publication at [AIED](https://www.aied2023.org/). I will go to Tokyo in July to take part in the Doctoral Consortium and present our results. I will also be part of the volunteering team. 
+
 > ***17 November 2022***
 > 
 > I am taking part in [Koli](https://www.kolicalling.fi/), where I am going to present a [poster](https://koutche.me/files/Koli-2022-poster.pdf) illustrating my proposal for providing automatic programming feedback using open large language models. 
