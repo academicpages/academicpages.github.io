@@ -5,14 +5,37 @@
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
-    {% if site.linkedin.username %}
-      <li><a href="https://linkedin.com/{{ site.linkedin.username }}"><i class="fab fa-linkedin-square" aria-hidden="true"></i> LinkedLinkedIn</a></li>
+
+    {% if site.linkedin %}
+      <li><a href="{{ site.linkedin }}"><i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
     {% endif %}
-    {% if site.facebook.username %}
-      <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fab fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+
+    {% if site.medium %}
+      <li><a href="{{ site.medium }}"><i class="fab fa-medium" aria-hidden="true"></i> Medium</a></li>
     {% endif %}
+
+    {% if site.researchgate %}
+      <li><a href="{{ site.researchgate }}"><i class="fab fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
+    {% endif %}
+
+    {% if site.twitter %}
+      <li><a href="{{ site.twitter }}"><i class="fab fa-twitter" aria-hidden="true"></i> Twitter</a></li>
+    {% endif %}
+
+    {% if site.instagram %}
+      <li><a href="{{ site.instagram }}"><i class="fab fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+    {% endif %}
+
+    {% if site.email %}
+      <li><a href="mailto:{{ site.email }}"><i class="fas fa-envelope" aria-hidden="true"></i> Email</a></li>
+    {% endif %}
+
+    {% if site.telegram %}
+      <li><a href="https://t.me/{{ site.telegram }}"><i class="fab fa-telegram" aria-hidden="true"></i> Telegram</a></li>
+    {% endif %}
+
     {% if site.author.github %}
-      <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
+      <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github-square" aria-hidden="true"></i> GitHub</a></li>
     {% endif %}
     {% if site.author.bitbucket %}
       <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
