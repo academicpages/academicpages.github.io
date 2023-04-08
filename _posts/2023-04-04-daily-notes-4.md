@@ -1,6 +1,6 @@
 ---
-title: 'On the importance of a healthy body'
-date: 2023-04-08
+title: 'Courage'
+date: 2023-04-06
 permalink: /posts/2023/04/daily-notes-4/
 tags:
   - Daily
@@ -17,8 +17,10 @@ When a man is trapped in a dilemma, the courage will be the engine that drives h
 I think my courage is deeply rooted in the reading experience when childhood. At grade 5, I received a gift 
 from my cousin. It was a book named Ancient Greek legends and myths, written by H. A. Kuhn. Different from common 
 fairy tale books with the same theme, this book from my cousin is entirely an academic translation. Despite the obscure 
-languages, I was completely fascinated in the legent characters and stories happened in that world. My favorite god is Hermes, the god of commerce, traveller, thief, and husbandary. 
-However, my favorite 
+languages, I was completely fascinated in the legent characters and stories in that world. My favorite god is Hermes, the god of commerce, traveller, thief, and husbandary. 
+
+I was always wondering how great it would be if I could have the same flying shoes!
+However, my favorite character is Heracles, the
 
  
 
