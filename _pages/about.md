@@ -36,3 +36,19 @@ Thank you for visiting my page, and feel free to contact me for any further info
   Email: getnetd24@gmail.com<br>
   <a href="https://getnetdemil.github.io/cv/">Curriculum Vitae </a>
 </div>
+
+<div style="text-align: center;">
+  <img src="/images/bdu3.jpg" alt="BDU" style="display: inline-block; width: 60px;">
+  <img src="/images/ppke.png" alt="PPCU" style="display: inline-block; width: 30px;">
+  <img src="/images/uam.png" alt="UAM" style="display: inline-block; width: 30px;">
+  <img src="/images/ub.png" alt="UBx" style="display: inline-block; width: 30px;">
+  <img src="/images/c++.png" alt="BDU" style="display: inline-block; width: 10px;">
+  <img src="/images/python.png" alt="PPCU" style="display: inline-block; width: 10px;">
+  <img src="/images/matlab.png" alt="UAM" style="display: inline-block; width: 10px;">
+  <img src="/images/keras.jpeg" alt="UBx" style="display: inline-block; width: 10px;">
+  <img src="/images/open.png" alt="BDU" style="display: inline-block; width: 10px;">
+  <img src="/images/tensor.png" alt="PPCU" style="display: inline-block; width: 10px;">
+  <img src="/images/pcl.png" alt="UAM" style="display: inline-block; width: 10px;">
+  <img src="/images/scikit.png" alt="UBx" style="display: inline-block; width: 10px;">
+  <img src="/images/pytorch.png" alt="BDU" style="display: inline-block; width: 10px;">
+</div>
