@@ -8,7 +8,7 @@ date: 2020-01-25
 location: "Boston, Massachusetts"
 ---
 
-Undergraduate Teaching Fellow for Probability, Statistics, and Data Science for three three semesters (Spring 2020, Fall 2020, Spring 2021)
+Undergraduate Teaching Fellow for Probability, Statistics, and Data Science for three semesters (Spring 2020, Fall 2020, Spring 2021)
 
 Overview
 ======
