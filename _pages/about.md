@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Hi there!
-I am an incoming PhD student (Fall 2024) at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/), advised by [Daniel Khashabi](https://danielkhashabi.com/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html). Currently, I am a second-year research master's student (MLT) at [Language Technologies Institute, Carnegie Mellon University](https://www.lti.cs.cmu.edu/), working with [Teruko Mitamura](https://www.cs.cmu.edu/~teruko/) and [Daniel Fried](https://dpfried.github.io/).
+I am an incoming PhD student (Fall 2023) at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/), [Johns Hopkins University](https://www.jhu.edu/), advised by [Daniel Khashabi](https://danielkhashabi.com/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html). Currently, I am a second-year research master's student (MLT) at [Language Technologies Institute, Carnegie Mellon University](https://www.lti.cs.cmu.edu/), working with [Teruko Mitamura](https://www.cs.cmu.edu/~teruko/) and [Daniel Fried](https://dpfried.github.io/).
 
 Prior to CMU, I received my B.S. degree in Computer Science, and Mathematics & Economics from the [Hong Kong University of Science and Technology](https://hkust.edu.hk/). During my undergrad study, I spent two years at [Knowledge Computation Group@HKUST](https://github.com/HKUST-KnowComp), where I was advised by [Yangqiu Song](https://www.cse.ust.hk/~yqsong/). I was also a research intern at CLSP, JHU supervised by Benjamin Van Durme.
 
