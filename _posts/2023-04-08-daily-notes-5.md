@@ -1,7 +1,7 @@
 ---
 title: 'On the importance of a healthy body'
 date: 2023-04-08
-permalink: /posts/2023/04/daily-notes-4/
+permalink: /posts/2023/04/daily-notes-5/
 tags:
   - Daily
 ---
