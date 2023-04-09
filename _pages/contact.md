@@ -7,4 +7,4 @@ redirect_from:
   - /markdown.html
 ---
 
-email: [firstn@me].mohaghegh[l@stn@me]@student.unimelb.edu.au
+email: [first_letter_of_first_n@me].[l@stn@me_starting_with_d]@unimelb.edu.au
