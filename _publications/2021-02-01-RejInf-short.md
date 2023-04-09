@@ -10,6 +10,5 @@ authors: <strong>Jingxian Liao</strong>, Wei Wang, Jason Xue, Anthony Lei
 paperurl: 'https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_4.pdf'
 ---
 
-toadd.
 
-[Download paper here](https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_4.pdf)
+[short paper here](https://aaai-kdf.github.io/kdf2021/assets/pdfs/KDF_21_paper_4.pdf)

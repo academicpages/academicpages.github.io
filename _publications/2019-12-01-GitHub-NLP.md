@@ -2,7 +2,7 @@
 title: "Status, identity, and language: A study of issue discussions in GitHub"
 collection: publications
 permalink: /publication/2019-12-01-GitHub-NLP
-excerpt: 'Toadd.'
+excerpt: ''
 date: 2019-12-01
 pubtype: 'regular'
 venue: 'PLOS ONE'
