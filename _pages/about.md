@@ -19,7 +19,7 @@ I am broadly interested in Natural Language Processing. My (current) goal of res
 - **Language Grounding:** How can we tie language to the surrounding world (e.g. multimodal context/embodied environment)? And by doing so, can we obtain the language representation that is aware of perception, knowledge, and dynamics of the world?
 - **Interaction:** With the tremendous progress in the development and deployment of AI models (e.g. ChatGPT), how should we adapt these models to interact more effectively with human users? 
 
-I regard these two directions two be highly inter-connected and mutually beneficial: to use language as the mean of system-human interaction, grounding the communication to contexts helps the system understand user preference and intent so that to adjust its behavior accordingly to enable better collaboration.
+I regard these two directions two be highly _inter-connected_ and _mutually beneficial_: to use language as the mean of system-human interaction, grounding the communication to contexts helps the system understand user preference and intent so that to adjust its behavior accordingly to enable better collaboration.
 
 In the past, I also worked on information extraction, controlled generation, discourse analysis, and knowledge graph completion.
 
