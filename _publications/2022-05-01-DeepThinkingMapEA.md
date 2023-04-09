@@ -8,5 +8,6 @@ pubtype: 'short'
 venue: 'CHI 2022 EA'
 authors: <strong>Jingxian Liao</strong>, Hao-Chuan Wang
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3491101.3519815'
+preprint: '/files/publications/Nudge_CHI22.pdf'
 video: 'https://youtu.be/h_58LQbkag4'
 ---
