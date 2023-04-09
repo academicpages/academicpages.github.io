@@ -10,6 +10,7 @@ authors: Chien-Lin Tang*, <strong>Jingxian Liao*</strong>, Hao-Chuan Wang, Ching
 paperurl: 'https://doi.org/10.1145/3442381.3449808'
 preprint: 'files/publications/ConceptGuide_www21.pdf'
 video: 'https://github.com/jxliao6/ConceptGuide.github.io/blob/main/conceptguide_demo.mp4'
+image: '/images/ConceptGuide_interface.png'
 award: 1
 ---
 <img src='/images/ConceptGuide_interface.png'>
