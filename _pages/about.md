@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my webpage! 
 
-I finished my PhD at the University of Melbourne, working under the supervision of [Dr. Sarah Erfani](https://people.eng.unimelb.edu.au/smonazam/) and [Prof. Christopher Leckie](https://cis.unimelb.edu.au/people/staff.php?person_ID=6335). I am a postdoctoral research fellow in machine learning at the University of Melbourne node of ARC Centre of Excellence for Automated Decision-Making & Society (ADM+S). I am contributing to ADM+S Center’s Machines Research Program. My research entails developing algorithms that enable a systematic treatment of bias and unfairness in AI and automated decision-making.
+I finished my PhD at the University of Melbourne, working under the supervision of [Dr. Sarah Erfani](https://people.eng.unimelb.edu.au/smonazam/) and [Prof. Christopher Leckie](https://cis.unimelb.edu.au/people/staff.php?person_ID=6335). Currently, I am a postdoctoral research fellow in machine learning at the University of Melbourne node of ARC Centre of Excellence for Automated Decision-Making & Society (ADM+S). I am contributing to ADM+S Center’s Machines Research Program. My research entails developing algorithms that enable a systematic treatment of bias and unfairness in AI and automated decision-making.
 
 Mesmerized by generative models, I try to formulate various problems through the lens of generative modeling and bring that statistical perspective to them. In this area, I have an expertise with
 * Normalizing Flows
