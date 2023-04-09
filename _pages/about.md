@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year Ph.D. student at the University of Melbourne, working under the supervision of [Dr. Sarah Erfani](https://people.eng.unimelb.edu.au/smonazam/) and [Prof. Christopher Leckie](https://cis.unimelb.edu.au/people/staff.php?person_ID=6335). Mesmerized by generative models, I try to formulate various problems through the lens of generative modeling and bring that statistical perspective to them. In this area, I have an expertise with
+Welcome to my webpage! 
+
+I finished my PhD at the University of Melbourne, working under the supervision of [Dr. Sarah Erfani](https://people.eng.unimelb.edu.au/smonazam/) and [Prof. Christopher Leckie](https://cis.unimelb.edu.au/people/staff.php?person_ID=6335). I am a postdoctoral research fellow in machine learning at the University of Melbourne node of ARC Centre of Excellence for Automated Decision-Making & Society (ADM+S). I am contributing to ADM+S Center’s Machines Research Program. My research entails developing algorithms that enable a systematic treatment of bias and unfairness in AI and automated decision-making.
+
+Mesmerized by generative models, I try to formulate various problems through the lens of generative modeling and bring that statistical perspective to them. In this area, I have an expertise with
 * Normalizing Flows
 * Generative Adversarial Networks (GAN)
 * Probabilistic Diffusion Models (Score Matching)
@@ -24,6 +28,14 @@ I am always happy to discuss research-related topics. Just shoot me an email! :)
 
 News
 ======
+ - Mar. 2023: New preprint on unlearnable examples is out!
+ - Feb. 2023: Attending the ADM+S Summer School at Melbourne Musuem as a mentor.
+ - Jan. 2023: Going to serve as a reviewer for ICML2023 & ICCV2023!
+ - Dec. 2022: Got recognized as an "outstanding reviewer" at ACCV2022!
+ - Dec. 2022: Attended ACCV 2022 (virtually).
+ - Nov. 2022: I am starting my new position as a "Research Fellow in Machine Learning" at the University of Melbourne and ARC Centre of Excellence for Automated Decison-Making and Society (ADM+S)
+ - Oct. 2022: Presented my work on adversarial coreset selection at ECCV virtually.
+ - Oct. 2022: Participated at CIS-UniMelb doctoral colloquium.
  - Sep. 2022: One paper got accepted to ACCV2022!
  - Aug. 2022: I would be reviewing for ICLR2023, AISTATS2023, and ACCV 2022.
  - Jul. 2022: One paper got accepted to ECCV2022!
