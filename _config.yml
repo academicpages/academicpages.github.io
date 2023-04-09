@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hadi M. Dolatabadi"
 title_separator          : "-"
 name                     : &name "Hadi Mohaghegh Dolatabadi"
-description              : &description "Ph.D. Student at UniMelb"
+description              : &description "Research Fellow at UniMelb"
 url                      : https://hmdolatabadi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hmdolatabadi/hmdolatabadi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hadi M. Dolatabadi"
   avatar           : "profile.png"
-  bio              : "Ph.D. Student @ UniMelb"
+  bio              : "Research Fellow @ UniMelb"
   location         : "Melbourne, Australia"
   employer         :
   pubmed           :
