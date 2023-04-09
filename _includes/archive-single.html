@@ -59,13 +59,26 @@
     {% endif %} -->
 
 
-    {% if post.paperurl and post.doi %}
+    <!-- {% if post.paperurl and post.doi %}
     <br /><a href=" {{ post.paperurl }} "><u>Preprint</u></a> &#124; <a href="https://doi.org/{{ post.doi }}"><u>DOI</u></a>
     {% elsif post.paperurl %}
     <br /><a href=" {{ post.paperurl }} "><u>Preprint</u></a>
     {% elsif post.doi %}
     <br /><a href="https://doi.org/{{ post.doi }}"><u>DOI</u></a>
-    {% endif %}
+    {% endif %} -->
+	  
+    {% if post.link %}
+        <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.paperurl %}
+        <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.code %}
+        <a href="{{ post.code }}"><i class="fas fa-fw fa-code zoom" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if post.github %}
+        <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+      {% endif %}
     
     <!-- {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
