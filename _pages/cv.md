@@ -12,6 +12,6 @@ Download my CV [here](http://hmdolatabadi.github.io//files/CV_Hadi_Mohaghegh_Dol
 
 Education
 ======
-* Ph.D. in Computing and Information Systems, The University of Melbourne, June 2019 - present
+* Ph.D. in Computing and Information Systems, The University of Melbourne, Jun. 2019 - Apr. 2023
 * M.Sc. in Electrical Engineering, Sharif University of Technology, Sep. 2015 - Sep. 2017
 * B.Sc. in Electrical Engineering, The University of Tehran, Sep. 2011 - Sep. 2015
