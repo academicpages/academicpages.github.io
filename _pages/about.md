@@ -22,7 +22,3 @@ I am broadly interested in Natural Language Processing. My (current) goal of res
 I regard these two directions two be highly _inter-connected_ and _mutually beneficial_: to use language as the mean of system-human interaction, grounding the communication to contexts helps the system understand user preference and intent so that to adjust its behavior accordingly to enable better collaboration.
 
 In the past, I also worked on information extraction, controlled generation, discourse analysis, and knowledge graph completion.
-
-## Sitemap
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=700&t=tt&d=DE2rC1_XQk9C3olzhHZGibG_eT8m4xfWcetZ15Zm4mQ&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
