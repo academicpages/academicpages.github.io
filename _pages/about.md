@@ -15,6 +15,6 @@ Tianhao's research interests span a variety of fields, including deep learning, 
 Tianhao is also an amateur violinist and music creator. He is interested in classical music.
 
 ## News
-\[Apr. 10 2023\] In Fall 2023, Tianhao will be pursuing a Master's degree in Computer Science at **ETH Zürich**.
+\[Apr. 10 2023\] In Fall 2023, Tianhao will be pursuing a Master's degree in Computer Science at **ETH Zürich**!
 
 
