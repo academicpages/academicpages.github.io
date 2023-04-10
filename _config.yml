@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anne Drew Hu"
 title_separator          : "-"
 name                     : &name "Anne Drew Hu"
-description              : &description "PhD Student at MSU Ed Psych & Ed Tech"
+description              : &description "PhD Candidate at MSU Ed Psych & Ed Tech"
 url                      : https://annedrewhu.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hu-a.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Anne Drew Hu (they/them)"
   avatar           : "annedrew_square.jpg"
-  bio              : "PhD Student at MSU Educational Psychology & Educational Technology"
+  bio              : "PhD Candidate at MSU Educational Psychology & Educational Technology"
   location         : "Mid-Michigan & Seattle"
   employer         :
   pubmed           : 
