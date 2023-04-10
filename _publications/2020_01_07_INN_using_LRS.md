@@ -9,7 +9,7 @@ venue: 'The 23rd International Conference on Artifcial Intelligence and Statisti
 
 ![Alt](https://hmdolatabadi.github.io/files/publications/2020_Linear_Rational_Splines/img.png)
 
-In this paper, we explore using linear rational splines as an invertible transformations for normalizing flows.
+Normalizing flows attempt to model an arbitrary probability distribution through a set of invertible mappings. These transformations are required to achieve a tractable Jacobian determinant that can be used in high-dimensional scenarios. The first normalizing flow designs used coupling layer mappings built upon affine transformations. The significant advantage of such models is their easy-to-compute inverse. Nevertheless, making use of affine transformations may limit the expressiveness of such models. Recently, invertible piecewise polynomial functions as a replacement for affine transformations have attracted attention. However, these methods require solving a polynomial equation to calculate their inverse. In this paper, we explore using linear rational splines as a replacement for affine transformations used in coupling layers. Besides having a straightforward inverse, inference and generation have similar cost and architecture in this method. Moreover, simulation results demonstrate the competitiveness of this approach’s performance compared to existing methods.
 
 [[arXiv]](https://arxiv.org/abs/2001.05168)
 <a id="raw-url" href="https://raw.githubusercontent.com/hmdolatabadi/hmdolatabadi.github.io/master/files/bibtex/HMDolatabadi2020LRS.bib">[bibtex]</a>
