@@ -12,6 +12,7 @@ Welcome to Tianhao Chen's homepage! Tianhao Chen is a research assistant at the 
 
 Tianhao's research interests span a variety of fields, including deep learning, computer vision, computer graphics, and bioinformatics. He is passionate about leveraging the power of deep learning to address real-world problems and enhance the quality of our lives.
 
-In Fall 2023, Tianhao will be pursuing a Master's degree in Computer Science at ETH Zürich.
+## News
+\[Apr. 10 2023\] In Fall 2023, Tianhao will be pursuing a Master's degree in Computer Science at ETH Zürich.
 
 
