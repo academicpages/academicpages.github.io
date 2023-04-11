@@ -4,9 +4,10 @@ permalink: publications/SpatialReceptorAllocation.pdf
 collection: publications
 date: 2019-10-14
 venue: 'IEEE TMBMC'
+citation: '<strong>Gokbudak, F.</strong>, Akdeniz, B. C., Tugcu, T., & Pusane, A. E. (2019). Spatial receptor allocation for a multiple access hub in nanonetworks. IEEE Transactions on Molecular, Biological and Multi-Scale Communications, 5(1), 63-67.'
 ---
-This paper is about the design of a novel molecular communications system.
-
+<!-- This paper is about the design of a novel molecular communications system.
+ -->
 <!-- Recommended citation: Gokbudak, F., Akdeniz, B.C., Tugcu, T., Pusane A.E. (2019). "Spatial Receptor Allocation for a Multiple Access Hub in Nanonetworks." IEEE TMBMC. 1(1). 
  permalink: /publication/2009-10-01-paper-title-number-1 
 
