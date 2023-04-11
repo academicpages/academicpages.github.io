@@ -163,6 +163,12 @@ Professional Activity
 		<b>Program Committee Member</b>
 		<ul>
 			<li>
+				IEEE Security and Privacy (S&P), 2024
+			</li>
+			<li>
+				Network and Distributed System Security Symposium (NDSS), 2024
+			</li>
+			<li>
 				USENIX Security Symposium, 2023
 			</li>
 			<li>
