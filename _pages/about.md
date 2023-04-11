@@ -47,7 +47,7 @@ Publications
 			<br/>
 		Muslum Ozgur Ozmen<sup>*</sup>, <b>Habiba Farrukh</b><sup>*</sup>, Hyungsub Kim, Antonio Bianchi, Z. Berkay Celik
 			<br/>
-			ISOC Symposium on Vehicle Security and Privacy (VehicleSec '23)
+			ISOC Symposium on Vehicle Security and Privacy (VehicleSec '23) <a href='/files/SwarmPairing.pdf'>[Paper]</a>
 			<br/>
 	</li>
 </ul>
@@ -65,7 +65,7 @@ Publications
 			<br/>
 		Reham Mohamed, <b>Habiba Farrukh</b>, He Wang, Yidong Lu, Z. Berkay Celik
 			<br/>
-			Privacy Enhancing Technologies (PoPETS '23)
+			Privacy Enhancing Technologies (PoPETS '23) <a href='/files/iStelan.pdf'>[Paper]</a>
 			<br/>
 	</li>
 </ul>
@@ -75,7 +75,7 @@ Publications
 			<br/>
 		Muslum Ozgur Ozmen, Ruoyu Song, <b>Habiba Farrukh</b>, Z. Berkay Celik
 			<br/>
-			Network and Distributed System Security Symposium (NDSS '23)
+			Network and Distributed System Security Symposium (NDSS '23) <a href='/files/EvasionAttacks.pdf'>[Paper]</a>
 			<br/>
 	</li>
 </ul>
