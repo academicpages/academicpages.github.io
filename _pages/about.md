@@ -12,11 +12,11 @@ redirect_from:
 
 Welcome! I am a theoretical astrophysicist at the National Astronomical Observatory of Japan (NAOJ), where I hold a JSPS Postdoctoral Fellowship.
 
-My research focuses on understanding the complex physics that governs galaxy formation and evolution across a wide range of scales. Specifically, I use state-of-the-art simulations and machine learning techniques to forward-model galaxy observables, which allows me to explore a variety of astrophysical processes, from the formation of the youngest galaxies to the growth of massive dark matter haloes that surround galaxies.
+My research focuses on understanding the complex physics that govern galaxy formation and evolution across a wide range of physical scales. Specifically, I use state-of-the-art simulations and machine learning techniques to forward-model galaxy observables. This allows me to explore a variety of astrophysical processes, from the formation of the youngest galaxies to the growth of massive dark matter haloes that surround galaxies.
 
 I earned my doctorate at Nagoya University, where I investigated the potential of machine learning techniques for understanding galaxy evolution and formation. Prior to that, I focused on solving inverse problems in astrophysics, particularly in the context of imaging surveys and Faraday tomography.
 
-I invite you to explore my website and learn more about my research, publications, and ongoing projects. Thank you for visiting!
+I invite you to explore my website and learn more about my research, publications, and ongoing projects. Some parts are still under construction but thank you for visiting!
 
 Contact
 ========
