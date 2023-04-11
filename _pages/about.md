@@ -244,7 +244,7 @@ Organizer: RSS2023 Workshop on Symmetries in Robot Learning
 Reviewer: ICRA2023, CoRL2022, RAL2022, T-RO2022, ICRA2022, IROS2021, ICRA2019
 
 ## CV
-Please see my CV [here](/files/Dian_Wang_CV.pdf).
+Please see my CV [here](https://pointw.github.io/CV/dian_wang_cv.pdf).
 
 ## Education
 + (2020-Present) PhD student, Computer Science, Northeastern University, Boston, USA
