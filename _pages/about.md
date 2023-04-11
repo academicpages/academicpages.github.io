@@ -28,11 +28,14 @@ I am always happy to discuss research-related topics. Just shoot me an email! :)
 
 News
 ======
+ - Apr. 2023: The final version of my thesis is online on Minerva!
  - Mar. 2023: New preprint on unlearnable examples is out!
+ - Mar. 2023: Received the examination results of my PhD thesis with two straight passes!
  - Feb. 2023: Attending the ADM+S Summer School at Melbourne Musuem as a mentor.
  - Jan. 2023: Going to serve as a reviewer for ICML2023 & ICCV2023!
  - Dec. 2022: Got recognized as an "outstanding reviewer" at ACCV2022!
  - Dec. 2022: Attended ACCV 2022 (virtually).
+ - Dec. 2022: Submitted my PhD thesis!
  - Nov. 2022: I am starting my new position as a "Research Fellow in Machine Learning" at the University of Melbourne and ARC Centre of Excellence for Automated Decison-Making and Society (ADM+S)
  - Oct. 2022: Presented my work on adversarial coreset selection at ECCV virtually.
  - Oct. 2022: Participated at CIS-UniMelb doctoral colloquium.
