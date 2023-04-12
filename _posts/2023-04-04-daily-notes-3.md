@@ -8,15 +8,7 @@ tags:
   - Project
 ---
 
+The industrial wave has revealed two peaks therein, i.e., AI and robot.
 
-science of mechanics 
+Since the science of mechanics is essientially rooted in human's passion for changing their fate, it is significantly affected or even determined by politcs, industry, and ecolomy. 
 
-Since the science of mechanics is essientially rooted in the human's passion for 
-
-it is significantly affected or even determined by politcs, industry, and ecolomy. 
-
-The industrial wave has 
-
-and revealed two peaks therein, 
-
-the AI and the Robot.
