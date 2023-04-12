@@ -256,9 +256,9 @@ defaults:
   # _projects
   - scope:
       path: ""
-      type: talks
+      type: group
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 

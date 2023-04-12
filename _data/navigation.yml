@@ -11,3 +11,6 @@ main:
     
   - title: "Applications"
     url: /applications/
+
+  - title: "Projects"
+    url: /projects/
