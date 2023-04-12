@@ -57,5 +57,4 @@ TAs
   
 Service and leadership
 ======
-* Reviewer, CVPR 2023
-* Reviewer, ECCV 2022
+* Reviewer of ECCV, CVPR, and ICCV
