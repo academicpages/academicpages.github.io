@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Natural Language Pocessing at the NLP lab of Bar Ilan University, supervised by Prof. Ido Dagan and Prof. Reut Tsarfaty. I am also currently a visiting PhD student at [UW NLP](https://nlp.washington.edu) at the University of Washington.
+I am a PhD student in Natural Language Pocessing at the [NLP lab of Bar Ilan University](https://biu-nlp.github.io), supervised by Prof. Ido Dagan and Prof. Reut Tsarfaty. I am also currently a visiting PhD student at [UW NLP](https://nlp.washington.edu) at the University of Washington.
 This summer I had the pleasure of interning at the [AI2 Mosaic team](https://mosaic.allenai.org/people) in Seattle and I am very honored to have received the [AI2 Outstanding Intern of the Year Award](https://allenai.org/outstanding-interns).
 Previously I did a research internship at Google, obtained an MSc from the University of Edinburgh and a BA from the University of Zurich. 
 
