@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a PhD student in Natural Language Pocessing at the NLP lab of Bar Ilan University, supervised by Prof. Ido Dagan and Prof. Reut Tsarfaty. I am also currently a visiting PhD student at [UW NLP](https://nlp.washington.edu) at the University of Washington.
-This summer I had the pleasure of interning at the [AI2 Mosaic team](https://mosaic.allenai.org/people) in Seattle.
+This summer I had the pleasure of interning at the [AI2 Mosaic team](https://mosaic.allenai.org/people) in Seattle and I am very honored to have received the [AI2 Outstanding Intern of the Year Award](https://allenai.org/outstanding-interns).
 Previously I did a research internship at Google, obtained an MSc from the University of Edinburgh and a BA from the University of Zurich. 
 
 My research focuses on *discourse* phenomena and *pragmatics*. My main interest currently lies in question generation. I also often use QA representations to capture propositions and once in a while I look at the modality of events.
@@ -21,6 +21,7 @@ Besides this I love going to the "cinemathèque" and on hikes with my friends. M
 ### News
 * March 2023: [TACL](https://arxiv.org/abs/2304.00815) paper accepted, to be presented at ACL 2023.
 * February 2023: Was awarded a postdoctoral scholarship from the Eric and Wendy Schmidt Foundation.
+* January 2023: Very excited to have been awarded the [AI2 Outstanding Intern of the Year Award](https://allenai.org/outstanding-interns)!
 * December 2022: [Preprint](https://arxiv.org/pdf/2212.10409.pdf) of my internship at AI2 is out.
 * November 2022: AI2 Hackathon [Paper](https://arxiv.org/pdf/2210.16407.pdf) accepted at Workshop on Figurative Language Processing at EMNLP 2022.
 * October 2022: [Paper](https://arxiv.org/pdf/2205.11413.pdf) accepted at EMNLP 2022.
