@@ -5,7 +5,7 @@ type: "Undergraduate and graduate courses"
 permalink: /Lectures
 venue: "University of Oxford, Princeton University"
 location: "various"
-date: "2018-2022"
+date: "2023-04-12"
 ---
 
 This is a list of lectures I have given on climate science and climate econometrics applied to human responses to extreme weather events and climate change at the University of Oxford and Princeton University.
