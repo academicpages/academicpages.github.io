@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Teaching"
+    url: /teaching/ 
+
   - title: "Media"
     url: /media/   
     
-  - title: "CV"
-    url: /cv/
-
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "CV"
+#    url: /cv/   
     
 #  - title: "Portfolio"
 #    url: /portfolio/
