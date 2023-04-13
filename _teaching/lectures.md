@@ -1,5 +1,5 @@
 ---
-title: "Lectures"
+title: "Lectures in Climate Economics and Climate Change Attribution"
 collection: teaching
 type: "Undergraduate and graduate courses"
 permalink: /Lectures
@@ -8,10 +8,8 @@ location: "various"
 date: "2023-04-12"
 ---
 
-This is a list of lectures I have given on climate science and climate econometrics applied to human responses to extreme weather events and climate change at the University of Oxford and Princeton University.
+This is a list of lectures I have given on climate economics and climate science applied to human responses to extreme weather events and climate change at the University of Oxford, Princeton University and the United Nations University.
 
-Climate Econometrics 
-======
 
 Como Training School on Compound Events (2022)
 ------
@@ -20,6 +18,10 @@ Led a group project together with [Dr. Radley Horton](https://people.climate.col
 <br>Students were provided with a hands-on application of the concepts of the [CLIMADA](https://wcr.ethz.ch/research/climada.html) economic modeling tool. 
 participants and lecturers. 
 ![Kick-off presentations](https://pbs.twimg.com/media/FdkH7WuX0AE4yEE?format=jpg&name=large).
+
+Attribution Science (2018-2021)
+------
+Several guest lectures and applied projects for Master students of the [Environmental Change and Management](https://www.geog.ox.ac.uk/graduate/msc-ecm/) course. Introduction to attribution science with exercises using the KMNI [Climate Explorer](https://climexp.knmi.nl/start.cgi).
 
 Geography Taster Day (2020)
 ------
@@ -32,13 +34,6 @@ United Nations University, Drought Impacts: Migration
 The webinar investigated the interlinkage between drought and migration, exploring how drought affects vulnerability and the ability of communities to cope with the impacts of drought, [details here](https://grow-globedrought.net/webinar/drought-impacts-i-migration/). A recording can be found [here](https://www.youtube.com/watch?v=yEll0hJVEmc).
 
 [![GlobeDrought Webinar 2](https://i.ytimg.com/vi/yEll0hJVEmc/maxresdefault.jpg)](https://youtu.be/yEll0hJVEmc?t=1613 "GlobeDrought Webinar 2")
-
-Climate Science
-======
-
-Attribution Science (2018-2021)
-------
-Several guest lectures and applied projects for Master students of the [Environmental Change and Management](https://www.geog.ox.ac.uk/graduate/msc-ecm/) course. Introduction to attribution science with exercises using the KMNI [Climate Explorer](https://climexp.knmi.nl/start.cgi).
 
 UNIQ Summer School (2018 & 2019)
 ------
