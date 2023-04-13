@@ -1,7 +1,7 @@
 ---
 title: "Compound impacts from droughts and structural vulnerability on human mobility"
 collection: publications
-permalink: /publications/Forecast-based-Financing
+permalink: /publications/iScience
 excerpt: 'We use a unique multi-method approach to show how a combination of drought events and social vulnerability factors such as poverty, food insecurity, pandemic, and unemployment affect human migration patterns in three drought-prone countries.'
 date: 2022-11-25
 venue: 'iScience'
