@@ -17,6 +17,9 @@ Previously, I graduated from the [Indian Institute of Technology Kharagpur](http
 Preprints
 ====
 
+**MERMAIDE: Learning to Align Learners using Model-Based Meta-Learning**\
+Arundhati Banerjee, Soham Phade, Stefano Ermon, Stephan Zheng, 2023. | [arxiv](https://arxiv.org/abs/2304.04668)
+
 **Cost Aware Asynchronous Multi-Agent Active Search**\
 Arundhati Banerjee, Ramina Ghods, Jeff Schneider, 2021.  | [arxiv](https://arxiv.org/abs/2210.02259)
 
