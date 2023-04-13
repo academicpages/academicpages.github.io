@@ -1,12 +1,3 @@
----
-title: "Tutorials"
-collection: teaching
-permalink: /Tutorials
-type: undergraduate and graduate tutorials
-venue: "University of Oxford"
-date: 2020-2022
----
-
 This is a list of tutorials I have given at the Environmental Change Institute and the International Development Department at the University of Oxford.
 
 Attribution Science 
