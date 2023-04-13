@@ -8,11 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! 
-
 I am a Ph.D. student studying machine learning under Prof. [Maciej Mazurowski](https://sites.duke.edu/mazurowski/) at [Duke University](https://duke.edu/) in the [Dept. of Electrical and Computer Engineering](https://ece.duke.edu/). My research is on deep learning for medical image analysis, in topics such as anomaly detection and zero-shot learning, self-supervised learning and domain adaptation. My long-term goal is to use machine learning to enable scientific discovery.
 
-See my [Google Scholar page](https://scholar.google.com/citations?user=a9rXidMAAAAJ&hl=en) for a list of my publications. My CV and coursework can be found [here](https://nickk124.github.io/cv/).
+## Representative Publications
+
+- **Konz, N.** and Mazurowski, M. A. "Reverse Engineering Breast MRIs: Predicting Acquisition Parameters Directly from Images". *Medical Imaging with Deep Learning (MIDL) 2023*. [Link](https://arxiv.org/abs/2303.04911)
+- **Konz, N.**, et al. "A Competition, Benchmark, Code and Data for Using Artificial Intelligence to Detect Lesions in Digital Breast Tomosynthesis". *JAMA Network Open 2023*. [Link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2801740)
+- **Konz, N.**, Gu, H., Dong, H. and Mazurowski, M. A. "The Intrinsic Manifolds of Radiological Images and their Role in Deep Learning". *The International Conference of Medical Image Computing and Computer Assisted Intervention (MICCAI) 2022*. [Link](https://arxiv.org/abs/2207.02797)
+- Swiecicki, A., **Konz, N.**, Buda, M. and Mazurowski, M. A. "A generative adversarial network-based abnormality detection using only normal images for model training with application to digital breast tomosynthesis". *Scientific Reports 2021*. [Link](https://www.nature.com/articles/s41598-021-89626-1)
+
+See my [Google Scholar page](https://scholar.google.com/citations?user=a9rXidMAAAAJ&hl=en) for a full list of my publications. My CV and coursework can be found [here](https://nickk124.github.io/cv/).
 
 I graduated from the [University of North Carolina at Chapel Hill](https://www.unc.edu/) in 2020 with degrees in Astrophysics and Mathematics, where my research with [Prof. Daniel Reichart](https://www.danreichart.com/) focused on the development of statistical techniques for astronomical data applications.
 
