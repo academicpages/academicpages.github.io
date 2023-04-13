@@ -23,7 +23,7 @@ Attribution Science
 Several guest lectures and applied projects for Master students of the [Environmental Change and Management](https://www.geog.ox.ac.uk/graduate/msc-ecm/) course. Introduction to attribution science with exercises using the KMNI [Climate Explorer](https://climexp.knmi.nl/start.cgi).
 
 
-Climate Mobilities 
+Climate Econometrics 
 ======
 
 Geography Taster Day 2020
