@@ -15,8 +15,7 @@ Climate Econometrics
 
 Como Training School on Compound Events (2022)
 ------
-
-Led a group project with [Dr. Radley Horton](https://people.climate.columbia.edu/users/profile/radley-m-horton) on modeling pathways linking compound extremes and human displacement in the context of the 2022 Pakistan floods. 
+Led a group project together with [Dr. Radley Horton](https://people.climate.columbia.edu/users/profile/radley-m-horton) on modeling pathways linking compound extremes and human displacement in the context of the 2022 Pakistan floods. 
 <br> [project description](https://drive.google.com/file/d/1pvSD3Lmpsru_ti9vFfQEVU2NPDA96xps/view)
 <br>Students were provided with a hands-on application of the concepts of the [CLIMADA](https://wcr.ethz.ch/research/climada.html) economic modeling tool. 
 participants and lecturers. 
@@ -30,18 +29,14 @@ Dryland migration webinar (2019)
 ------
 United Nations University, Drought Impacts: Migration
 
-The webinar investigated the interlinkage between drought and migration, exploring how drought affects vulnerability and the ability of communities to cope with the impacts of drought. 
-
-[Details here](https://grow-globedrought.net/webinar/drought-impacts-i-migration/).
-
-A recording can be found [here](https://www.youtube.com/watch?v=yEll0hJVEmc).
+The webinar investigated the interlinkage between drought and migration, exploring how drought affects vulnerability and the ability of communities to cope with the impacts of drought, [details here](https://grow-globedrought.net/webinar/drought-impacts-i-migration/). A recording can be found [here](https://www.youtube.com/watch?v=yEll0hJVEmc).
 
 [![GlobeDrought Webinar 2](https://i.ytimg.com/vi/yEll0hJVEmc/maxresdefault.jpg)](https://youtu.be/yEll0hJVEmc?t=1613 "GlobeDrought Webinar 2")
 
 Climate Science
 ======
 
-Attribution Science
+Attribution Science (2018-2021)
 ------
 Several guest lectures and applied projects for Master students of the [Environmental Change and Management](https://www.geog.ox.ac.uk/graduate/msc-ecm/) course. Introduction to attribution science with exercises using the KMNI [Climate Explorer](https://climexp.knmi.nl/start.cgi).
 
