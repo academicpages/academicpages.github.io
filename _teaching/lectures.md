@@ -1,7 +1,7 @@
 ---
 title: "Lectures"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate and graduate courses"
 permalink: /Lectures
 venue: "University of Oxford, Princeton University"
 date: 2021-02-18
