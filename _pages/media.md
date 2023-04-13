@@ -1,9 +1,12 @@
 ---
-permalink: /
+layout: archive
 title: "Media"
-excerpt: "media"
+permalink: /media/
 author_profile: true
-redirect_from: 
-  - /media/
-  - /media.html
 ---
+
+{% include base_path %}
+
+{% for post in site.media reversed %}
+  {% include archive-single.html %}
+{% endfor %}
