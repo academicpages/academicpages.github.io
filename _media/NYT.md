@@ -2,14 +2,15 @@
 title: "Hunger in Somalia, New York Times"
 collection: media
 permalink: /media/Hunger-in-Somalia
-excerpt: 'Interview with Somini Sengupta (NYT, 14 June 2022) .'
+excerpt: 'Interview with Somini Sengupta (NYT, 14 June 2022).'
 date: 2022-06-15
 venue: 'New York Times'
 # paperurl: 'https://www.nytimes.com/2022/06/14/climate/hunger-drought-somalia.html'
 ---
+Interview with Somini Sengupta on compound drought on food insecurity.  The interview appeared in New York Times' Climate Forward on 14 June 2022. 
+
 Summary <br />
 The drought in the country has a lesson: We know how to ease human suffering. We need to do it.
-
 
 Read the article [online](https://www.nytimes.com/2022/06/14/climate/hunger-drought-somalia.html)
 
