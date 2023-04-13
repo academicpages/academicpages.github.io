@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lisa Thalheimer, PhD (Oxon)"
   avatar           : "Lisa Thalheimer_profile.jpg"
-  bio              : "Modelling Climate Migration <br /> Climate Change Attribution <br /> Anticipatory Action"
+  bio              : "Climate Change Attribution <br /> Climate Economics  <br /> Modelling Climate Migration"
   location         : "Bonn, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -244,6 +244,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # media
+  - scope:
+      path: ""
+      type: media
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
