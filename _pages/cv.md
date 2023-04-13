@@ -25,13 +25,13 @@ Education
 
 Selected awards
 ======
-* Special Prize (Teamwork, ranked 2nd), International Engineering Mechanics Contest (Asian Region), 2019
+* Special Prize (teamwork, ranked 2nd), International Engineering Mechanics Contest (Asian Region), 2019
 * Special Prize, Chinese Mechanics Competition (Anhui Province competition area), 2017
 * National Scholarship, Ministry of Education, 2018
 * Merit Student, Hefei University of Technology, 2018
 * 1st Prize, "EBSCO Cup" Literature Information Acquisition Competition, 2018
-* 2nd Prize (Teamwork), Open-Source Industrial Software Integration Competition, 2023
-* 2nd Prize (Personal), International Engineering Mechanics Contest (Asian Region), 2019
+* 2nd Prize (teamwork), Open-Source Industrial Software Integration Competition, 2023
+* 2nd Prize (personal), International Engineering Mechanics Contest (Asian Region), 2019
 * 3rd Prize, Chinese Mechanics Competition in Honour of Zhou Peiyuan, 2017
 * 3rd Prize, Chinese Mechanics Competition (Anhui Province competition area), 2018
 * 3rd Prize, Competition of Experimental Mechanics (Anhui Province competition area), 2017
