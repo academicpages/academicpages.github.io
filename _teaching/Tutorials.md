@@ -4,7 +4,6 @@ collection: teaching
 permalink: /Tutorials
 type: undergraduate and graduate tutorials
 venue: "University of Oxford"
-date: 2021-02-18
 ---
 
 This is a list of tutorials I have given at the Environmental Change Institute and the International Development Department at the University of Oxford.
