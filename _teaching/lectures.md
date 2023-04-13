@@ -10,7 +10,7 @@ location: "Oxford, UK"
 
 This is a list of lectures I have given on climate science and human responses to extreme weather events and climate change. 
 
-Climate science
+Climate Science
 ======
 Oxford University, UNIQ Summer school 2018 and 2019
 Introduction to the [CLIVAR VACS Climate Atlas](https://www.clivar.org/panels-and-working-groups/africa/vacs).
@@ -18,7 +18,12 @@ A memorable guest seminar was one that I taught on "CLIVAR VACS Climate Atlas" t
 
 ![UNIQ](https://pbs.twimg.com/media/DhG3eN0WkAA4ueP?format=jpg)
 
-Climate mobilities 
+Attribution Science
+------
+Several guest lectures and applied projects for Master students of the [Environmental Change and Management](https://www.geog.ox.ac.uk/graduate/msc-ecm/) course. Introduction to attribution science with exercises using the KMNI [Climate Explorer](https://climexp.knmi.nl/start.cgi).
+
+
+Climate Mobilities 
 ======
 
 Geography Taster Day 2020
