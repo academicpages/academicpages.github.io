@@ -11,6 +11,6 @@ venue: 'Environmental Research Letters'
 Summary <br />
 We propose four action steps along the stages of disaster displacement to provide practical intervention points for researchers and practitioners. 
 
-Download paper [here](https://iopscience.iop.org/article/10.1088/1748-9326/ac4292/pdf)
+Download paper [here](https://iopscience.iop.org/article/10.1088/1748-9326/ac4292/pdf).
 
 ![cover](https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/1748-9326/17/1/014043/revision2/erlac4292f2_hr.jpg?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1681993860&Signature=5e7UiaDvEzoHxdaVMgMN1F1Ur6c%3D)
