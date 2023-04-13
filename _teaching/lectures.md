@@ -3,12 +3,12 @@ title: "Lectures"
 collection: teaching
 type: "Undergraduate course"
 permalink: /Lectures
-venue: "University of Oxford"
+venue: "University of Oxford, Princeton University"
 date: 2021-02-18
-location: "Oxford, UK"
+location: "various"
 ---
 
-This is a list of lectures I have given on climate science and human responses to extreme weather events and climate change. 
+This is a list of lectures I have given on climate science and climate econometrics applied to human responses to extreme weather events and climate change. 
 
 Climate Science
 ======
@@ -28,18 +28,20 @@ A memorable guest seminar was one that I taught on "CLIVAR VACS Climate Atlas" t
 Climate Econometrics 
 ======
 
-Como Summer School 2022
+Como Training School on Compound Events (2022)
 ------
 
-tbd 
+Led a group project with [Dr. Radley Horton](https://people.climate.columbia.edu/users/profile/radley-m-horton) on modeling pathways linking compound extremes and human displacement in the context of the 2022 Pakistan floods. 
+<br> [project description](https://drive.google.com/file/d/1pvSD3Lmpsru_ti9vFfQEVU2NPDA96xps/view)
+<br>Students were provided with a hands-on application of the concepts of the [CLIMADA](https://wcr.ethz.ch/research/climada.html) economic modeling tool. 
+participants and lecturers. 
 ![Kick-off presentations](https://pbs.twimg.com/media/FdkH7WuX0AE4yEE?format=jpg&name=large).
 
-
-Geography Taster Day 2020
+Geography Taster Day (2020)
 ------
 I also enjoyed conducting a participatory class experiment and the lecture that I gave on educational migration for Year 12 students of under-represented backgrounds during the 2020 Geography Taster Day at my college, Christ Church (Oxford University). 
 
-Dryland migration webinar 2019
+Dryland migration webinar (2019)
 ------
 United Nations University, Drought Impacts: Migration
 
