@@ -10,21 +10,6 @@ location: "various"
 
 This is a list of lectures I have given on climate science and climate econometrics applied to human responses to extreme weather events and climate change. 
 
-Climate Science
-======
-
-Attribution Science
-------
-Several guest lectures and applied projects for Master students of the [Environmental Change and Management](https://www.geog.ox.ac.uk/graduate/msc-ecm/) course. Introduction to attribution science with exercises using the KMNI [Climate Explorer](https://climexp.knmi.nl/start.cgi).
-
-UNIQ Summer School (2018 & 2019)
-------
-Introduction to the [CLIVAR VACS Climate Atlas](https://www.clivar.org/panels-and-working-groups/africa/vacs).
-A memorable guest seminar was one that I taught on "CLIVAR VACS Climate Atlas" to a class of prospective undergraduate students at the School of Geography and the Environment in Oxford as part of the UNIQ summer school (see photo). 
-
-![UNIQ](https://pbs.twimg.com/media/DhG3eN0WkAA4ueP?format=jpg)
-
-
 Climate Econometrics 
 ======
 
@@ -52,3 +37,17 @@ The webinar investigated the interlinkage between drought and migration, explori
 A recording can be found [here](https://www.youtube.com/watch?v=yEll0hJVEmc).
 
 [![GlobeDrought Webinar 2](https://i.ytimg.com/vi/yEll0hJVEmc/maxresdefault.jpg)](https://youtu.be/yEll0hJVEmc?t=1613 "GlobeDrought Webinar 2")
+
+Climate Science
+======
+
+Attribution Science
+------
+Several guest lectures and applied projects for Master students of the [Environmental Change and Management](https://www.geog.ox.ac.uk/graduate/msc-ecm/) course. Introduction to attribution science with exercises using the KMNI [Climate Explorer](https://climexp.knmi.nl/start.cgi).
+
+UNIQ Summer School (2018 & 2019)
+------
+Introduction to the [CLIVAR VACS Climate Atlas](https://www.clivar.org/panels-and-working-groups/africa/vacs).
+A memorable guest seminar was one that I taught on "CLIVAR VACS Climate Atlas" to a class of prospective undergraduate students at the School of Geography and the Environment in Oxford as part of the UNIQ summer school (see photo). 
+
+![UNIQ](https://pbs.twimg.com/media/DhG3eN0WkAA4ueP?format=jpg)
