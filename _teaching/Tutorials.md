@@ -2,6 +2,7 @@
 title: "Tutorials"
 collection: teaching
 permalink: /Tutorials
+type: undergraduate and graduate tutorials
 venue: "University of Oxford"
 date: 2021-02-18
 ---
