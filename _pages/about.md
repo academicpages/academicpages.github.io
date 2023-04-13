@@ -16,3 +16,5 @@ Another area of current interest is the use of __Team-Based Inquiry Learning (TB
 I often speak and give workshops on a number of topics such as alternative grading, inclusive teaching, Team-Based Learning and Team-Based Inquiry Learning. Please reach out by email if you are interested in having me present at your institution.
 
 
+[CV](/files/drewlewis_cv.pdf) | [Resume](/files/drewlewis.pdf)
+

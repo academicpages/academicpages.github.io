@@ -6,17 +6,18 @@ redirect_from:
   - /consulting.html
 ---
 
-I am currently working as an independent consultant. Areas of expertise include math education, inquiry-based learning, Team-Based Learning, inclusive teaching, and alternative grading.  Some institutions I have worked with recently:
+I am currently working as an independent consultant. Areas of expertise include math education, inquiry-based learning, Team-Based Learning, inclusive teaching, and alternative grading.  Some recent topics I have consulted on are:
 
-* Illinois State University
-* Institue for Mathematical and Statistical Innovation, University of Chicago
-* University of South Alabama
-* University of Tennessee
+* Faculty development to support redesign of the Calculus sequence
+* Serving in an advisory capacity for NSF grants in education related areas
+* One-on-one consultations with faculty on implementing alternative grading in their course
 
-I also frequently give workshops/presentations on the aforementioned topics, most often in a faculty development context.  Some recent presentations include:
+I also frequently give workshops/presentations on the aforementioned topics, most often in a faculty development context.  Recent workshops include:
 
-* Team-Based Inquiry Learning, multi-day workshop
-* Promoting Student Learning in Mathematics Courses, 8 hours of content with sessions on Active Learning in Mathematics; Policies and Practices; Collaborative Learning in Mathematics Classrooms; and Assessment for Learning
+* Team-Based Inquiry Learning
+* Active Learning in Mathematics
+* Course Policies and Practices for Inclusive Teaching
+* Collaborative Learning in Mathematics Classrooms
 * Rehumanizing Assessment: Outcomes-Based Grading 
 * An Introduction to Team-Based Learning
 
