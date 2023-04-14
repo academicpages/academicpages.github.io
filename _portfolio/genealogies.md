@@ -1,6 +1,6 @@
 ---
 title: "Genetics with large known genealogies"
-excerpt: "What if we knew the genealogical tree for a very large group of individuals? <br/><img src='/images/big_sim.jpg'>"
+excerpt: "What if we knew the genealogical tree for millions of individuals? <br/><img src='/images/big_sim.jpg'>"
 collection: portfolio
 ---
 The population of Quebec has many interesting features for geneticists. 
