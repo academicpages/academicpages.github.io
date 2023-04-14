@@ -28,6 +28,7 @@ I am always happy to discuss research-related topics. Just shoot me an email! :)
 
 News
 ======
+ - Apr. 2023: I have been selected for the DAAD AINet Fellowship in Germany!
  - Apr. 2023: The final version of my thesis is online on Minerva!
  - Mar. 2023: New preprint on unlearnable examples is out!
  - Mar. 2023: Received the examination results of my PhD thesis with two straight passes!
