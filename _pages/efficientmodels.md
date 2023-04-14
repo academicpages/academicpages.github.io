@@ -5,7 +5,7 @@ permalink: /efficientmodels/
 author_profile: true
 ---
 
-Efficient Learning System for Voxel Images
+Efficient Representation for Voxel Images
 ======
 Although with recent progress, neural networks have on par ability compared to human in natural image. Currently, medical expert are more efficient at abstracting things (or say better representation ability), especially for voxel images. We have done several things to improve that:
 

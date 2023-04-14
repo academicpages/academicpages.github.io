@@ -15,4 +15,6 @@ I believe we are currently experiencing the second golden age of AI research, dr
 *ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models*
 **S Wang**, Z Zhao, X Ouyang, Q Wang, D Shen
 
-2. We are also working on MeLo, a medical image low-rank adaptation scheme that is to replace finetuning in medical image analysis. This is a work I really enjoy doing as a programmer and engineer. More information coming soon.
+2. We are also working on MeLo, a medical image low-rank adaptation scheme that is to replace finetuning in medical image analysis. This is a work I really enjoy doing as a programmer and engineer. More information coming very soon.
+
+3. I lead the team of DoctorGLM, trained and release the first Chinese Doctor Large Language Model (Apr 4 2023) [project](https://xionghonglin.github.io/DoctorGLM/) [code](https://github.com/xionghonglin/DoctorGLM)
