@@ -1,6 +1,6 @@
 ---
 title: "Genetics in admixed populations"
-excerpt: "All populations are admixed to some degree! We try to take this into account by mathematical modelling <br/><img src='/images/admixture.jpeg'>"
+excerpt: "What happens when populations meet? <br/><img src='/images/admixture.jpeg'>"
 collection: portfolio
 ---
 
