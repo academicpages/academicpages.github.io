@@ -37,12 +37,12 @@ author_profile: true
 <i>The Routledge handbook of public speaking research and theory</i> <b>(Under Review)</b>
 
 <h2>Conference Presentations</h2>
-<strong>Can virtual standardized patients teach empathic communication skills in healthcare?: A systematic review. </strong> <b>(Submitted)</b>
-<br>Chen, X. & **Yang, Z.**<br>
+<strong>Can virtual standardized patients teach empathic communication skills in healthcare?: A systematic review. </strong>
+<br>Chen, X. & **Yang, Z.** <b>(Submitted)</b><br>
 The 109th National Communication Association Annual Convention. National Harbor, MD, United States.
 
-<strong>Sarcastic messaging and the righteous rage hypothesis: Does sarcasm reinforces existing views and increase hostility towards the opposition?</strong> <b>(Submitted)</b>
-<br>Carcioppolo, N., Wang, G., **Yang, Z.**, Zhao, X. & Zhao, Y.<br>
+<strong>Sarcastic messaging and the righteous rage hypothesis: Does sarcasm reinforces existing views and increase hostility towards the opposition?</strong>
+<br>Carcioppolo, N., Wang, G., **Yang, Z.**, Zhao, X. & Zhao, Y.<b> (Submitted)</b><br>
 The 109th National Communication Association Annual Convention. National Harbor, MD, United States.
 
 <strong>Do nurses fight in comfort? Coping strategies on occupational stress and posttraumatic growth for frontline nurses during COVID-19.</strong>
