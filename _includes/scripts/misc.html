@@ -1,0 +1,15 @@
+{% if site.enable_tooltips %}
+  <!-- Enable Tooltips -->
+  <script type="text/javascript">
+  $(function () {$('[data-toggle="tooltip"]').tooltip()})
+  </script>
+{%- endif %}
+{%- if site.enable_medium_zoom %}
+  <!-- Medium Zoom JS -->
+  <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@{{ site.medium_zoom.version }}/dist/medium-zoom.min.js" integrity="{{ site.medium_zoom.integrity }}" crossorigin="anonymous"></script>
+  <script defer src="{{ '/assets/js/zoom.js' | relative_url }}"></script>
+{%- endif -%}
+
+  <!-- Load Common JS -->
+  <script defer src="{{ '/assets/js/common.js' | relative_url }}"></script>
+  <script defer src="{{ '/assets/js/copy_code.js' | relative_url }}" type="text/javascript"></script>
