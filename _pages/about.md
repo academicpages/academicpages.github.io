@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+**Note that my UWaterloo email is currently experiencing technical difficulties. Please kindly use my permanent email at jwangjie@outlook.com to contact me for any communication.** 
+
 I am a Postdoctoral Research Associate in the ECE Department at the University of Waterloo. Prior to joining the University of Waterloo, I was a Postdoctoral Fellow in the ECE Department at Queen’s University. I develop algorithms that combine the high performance of machine learning with the theoretical guarantees of stability and safety of model-based control. I focused on applying machine learning techniques to dynamic modeling and control for autonomous systems. My research goal is to improve the performance and safety of robotic systems in dynamic and uncertain environments.
 
 I received my PhD degree in Mechanical Engineering, specializing in robotics control, from the University of Calgary, Canada. The research focused on locomotion mode selection and motion planning of a leg-tracked [quadrupedal robot](http://jiewang.name/publications/arXiv2019/). After that, I worked as a Postdoc Fellow at the University of Calgary. I developed and implemented perception solutions for drones including [visual SLAM](http://jiewang.name/publications/slam2019) and CNN-based multi-object detection and [tracking](http://jiewang.name/publications/rsmdpi2019). 
