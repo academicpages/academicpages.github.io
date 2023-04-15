@@ -12,7 +12,8 @@ author_profile: true
 {% include base_path %}
 
 <h2>Journal Articles</h2>
-<br><strong>Making the environment like a cool thing: Exploring generation Z and millennials engagement with climate change video on YouTube</strong><br>Seelig, M., Shata, A., **Yang, Z.**, Sd, D., Gao, Y., Hu, H. & Yang, J.<br>
+<strong>Making the environment like a cool thing: Exploring generation Z and millennials engagement with climate change video on YouTube</strong>
+<br>Seelig, M., Shata, A., **Yang, Z.**, Sd, D., Gao, Y., Hu, H. & Yang, J.<br>
 <i>Environment and Behavior</i> <b>(Submitted)</b>
 <br> <strong>Abstract:</strong> Past research has not discovered why Generation Z and Millennials modestly engage in pro-environmental behaviors. Guided by Entertainment-education and Environmental self-efficacy, the present study employed a sequential mixed method utilizing qualitative and quantitative techniques to gauge younger generations' reception of climate videos shared on YouTube and if their climate knowledge increases and empowers them to change environmental behaviors. Our findings show that messages containing a positive narrative arouse less resistance to change than a negative narrative, and conceivably, this influences their everyday behaviors leading to favorable environmental outcomes better at persuading the adoption of pro-environmental behaviors. Yet, while participants believe they possess the self-efficacy to engage in specific behaviors expected of them, they are more concerned about external responses, such as the lack of government and other power structures' efforts to combat the escalating climate crisis.<br>
 
@@ -28,7 +29,7 @@ author_profile: true
 <br><strong>“We have a lot weighing on us:” A Black Feminist analysis of U.S. newspaper quotes of Black women in year 1 of the COVID-19 pandemic.</strong>
 <br>Wright, K. O. & **Yang, Z.**<br>
 <i>Critical Studies in Media Communication – Special Issue CFP</i> <b>(Under Review)</b>
-<br> <strong>Abstract:</strong>In the first half of 2020, the reports began coming in. Black people in the U.S. were disproportionately affected by COVID-19. Black women especially were burdened by this virus as it struck their physical and mental health, families, and financial resources. To receive more insight into Black women’s experiences during the pandemic, this mixed-methods study analyzed seven U.S. newspapers. This analysis sought to determine the pandemic experiences that were salient for Black women, and how the print media framed them. Specifically, 312 direct quotes about COVID attributed to Black women were analyzed. This study revealed that Black women focused on how the virus impacted their health, their role as protectors of their families, and their livelihood. Using Black Feminism Theory and Muted Group Theory as lenses, the quotes revealed the newspapers employed the Strong Black woman frame and that Black women were cognizant of their unique intersectional experiences.<br>
+<br> <strong>Abstract:</strong> In the first half of 2020, the reports began coming in. Black people in the U.S. were disproportionately affected by COVID-19. Black women especially were burdened by this virus as it struck their physical and mental health, families, and financial resources. To receive more insight into Black women’s experiences during the pandemic, this mixed-methods study analyzed seven U.S. newspapers. This analysis sought to determine the pandemic experiences that were salient for Black women, and how the print media framed them. Specifically, 312 direct quotes about COVID attributed to Black women were analyzed. This study revealed that Black women focused on how the virus impacted their health, their role as protectors of their families, and their livelihood. Using Black Feminism Theory and Muted Group Theory as lenses, the quotes revealed the newspapers employed the Strong Black woman frame and that Black women were cognizant of their unique intersectional experiences.<br>
 
 <h2>Book Chapter</h2>
 <br><strong>Accents and dialects in public speaking.</strong>
@@ -36,4 +37,6 @@ author_profile: true
 <i>The Routledge handbook of public speaking research and theory</i> <b>(Under Review)</b>
 
 <h2>Conference Presentations</h2>
-
+<br><strong>Can virtual standardized patients teach empathic communication skills in healthcare?: A systematic review. </strong> <b>(Submitted)</b>
+<br>Chen, X. & **Yang, Z.**<br>
+The 109th National Communication Association Annual Convention. National Harbor, MD, United States.
