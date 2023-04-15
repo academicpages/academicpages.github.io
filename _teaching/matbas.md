@@ -50,3 +50,4 @@ Listas de Exercícios
 1. Estudar e fazer os exercícios (múltiplos de 3) dos capítulos III, IV e V do livro do Iezzi, volume 2
 1. Estudar e fazer os exercícios (múltiplos de 3) do capítulos I e II do livro do Iezzi, volume 3
 1. Estudar e fazer os exercícios (múltiplos de 3) das seções II e III do capítulo XIX do livro do Iezzi, volume 9
+1. Estudar e fazer os exercícios (múltiplos de 3) das seções IV e V do capítulo XIX do livro do Iezzi, volume 9
