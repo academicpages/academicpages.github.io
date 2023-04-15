@@ -9,8 +9,11 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching & Outreach"
+  - title: "Teaching"
     url: /teaching/    
+    
+  - title: "Outreach"
+    url: /outreach/
     
   - title: "CV"
     url: https://memasterson.github.io/files/Masterson_CV_July2022.pdf
