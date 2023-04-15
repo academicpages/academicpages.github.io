@@ -29,7 +29,7 @@ author_profile: true
     EECS 393, Software Engineering, Case Western Reserve University 
 + **Fall 2012**   
     Software Architecture, Graduate level, Xidian University 
-+ **Spring 2011**,    
++ **Spring 2011**    
     Software Engineering, Undergraduate level, Xidian University 
 
 ## Program Committee
