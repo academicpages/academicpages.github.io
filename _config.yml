@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zixiao Yang / Homepage"
+title                    : "Zixiao Yang丨Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ yandex_site_verification :
 author:
   name             : "Zixiao Yang"
   avatar           : "zxy.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Zhengzhou & Miami"
+  bio              : "Ph.D. student/research assistant/instructor of record in the School of Communication, University of Miami"
+  location         : "Miami & Zhengzhou"
   #employer        :
   #googlescholar   : 
   email            : "zxy411@miami.edu"
