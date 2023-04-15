@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<h2>Submitted Journal Articles</h2>
+<h2>Journal Articles</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
       {% include archive-single.html %}
