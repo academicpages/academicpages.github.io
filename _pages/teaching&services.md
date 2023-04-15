@@ -8,15 +8,15 @@ author_profile: true
 
 ## Lecturer 
 
-+ **Fall 2023**
++ **Fall 2023**      
     CSC 454/654, Algorithm Analysis and Design  
     CSC 490, Senior Project
 
-+ **Spring 2023**
++ **Spring 2023**      
     CSC 495/693, Natural Language Processing
     CSC 410/610, Big Data and Machine Learning
 
-+ **Fall 2022**
++ **Fall 2022**      
     CSC 410, Big Data and Machine Learning
     
 ## Teaching Assistant
