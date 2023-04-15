@@ -8,30 +8,29 @@ author_profile: true
 
 ## Lecturer 
 
-+ **Algorithm Analysis and Design**, Fall 2023  
-    CSC 454/654, University of North Carolina at Greensboro 
++ **Fall 2023**
+    CSC 454/654, Algorithm Analysis and Design  
+    CSC 490, Senior Project
 
-+ **Natural Language Processing**, Spring 2023  
-    CSC 495/693, University of North Carolina at Greensboro 
-    
-+ **Big Data and Machine Learning**, Spring 2023  
-    CSC 410/610, University of North Carolina at Greensboro 
-    
-+ **Big Data and Machine Learning**, Fall 2022   
-    CSC 410, University of North Carolina at Greensboro 
++ **Spring 2023**
+    CSC 495/693, Natural Language Processing
+    CSC 410/610, Big Data and Machine Learning
 
++ **Fall 2022**
+    CSC 410, Big Data and Machine Learning
+    
 ## Teaching Assistant
 
-+ **Algorithms**, Spring 2017   
-    EECS 233, Case Western Reserve University 
-+ **Introduction to Data Structures**, Spring 2016     
-    EECS 340, Case Western Reserve University 
-+ **Software Engineering**, Fall 2015    
-    EECS 393, Case Western Reserve University 
-+ **Software Architecture**, Fall 2012    
-    Graduate level, Xidian University 
-+ **Software Engineering**, Spring 2011    
-    Undergraduate level, Xidian University 
++ **Spring 2017**      
+    EECS 233, Algorithms, Case Western Reserve University 
++ **Spring 2016**       
+    EECS 340, Introduction to Data Structure, Case Western Reserve University 
++ **Fall 2015**     
+    EECS 393, Software Engineering, Case Western Reserve University 
++ **Fall 2012**   
+    Software Architecture, Graduate level, Xidian University 
++ **Spring 2011**,    
+    Software Engineering, Undergraduate level, Xidian University 
 
 ## Program Committee
   + Journal of Biomedical Informatics (JBI)   
