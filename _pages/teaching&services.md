@@ -13,7 +13,7 @@ author_profile: true
     CSC 490, Senior Project
 
 + **Spring 2023**      
-    CSC 495/693, Natural Language Processing
+    CSC 495/693, Natural Language Processing      
     CSC 410/610, Big Data and Machine Learning
 
 + **Fall 2022**      
