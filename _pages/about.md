@@ -19,7 +19,7 @@ News
 ======
 <span style="color:red">[4.2023]</span> I will attend the Workshop on ECG Informatics in Precision Medicine (Wake Forest Uniersity, Apr 27th)!   
 
-<span style="color:red">[4.2023]</span> I appeared on [Fox 8 news](https://www.youtube.com/watch?v=3rTACqdQb7w), talking about how to use Artificial Intelligence!   
+<span style="color:red">[4.2023]</span> I appeared on [Fox 8 News](https://www.youtube.com/watch?v=3rTACqdQb7w), talking about how to use Artificial Intelligence!   
 
 <span style="color:red">[3.2023]</span> Our paper "EvidenceMap: a three-level knowledge representation for medical evidence computation and comprehension" was accepted by JAMIA (IF: 7.942)!   
 
