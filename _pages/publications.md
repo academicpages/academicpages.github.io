@@ -11,6 +11,24 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>Submitted Journal Articles</h2>
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.pubtype == 'journal' %}
+      {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
+
+<h2>Book Chapter</h2>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'chapter' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Conference Presentations</h2>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'conference' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
