@@ -50,26 +50,26 @@ The 109th National Communication Association Annual Convention. National Harbor,
 The 7th Biennial D.C. Health Communication Conference (DCHC). Washington, D.C., United States.
 
 <strong>“But I’m not a hero”: Exploring the function of communicative identity and posttrauma growth following urban floods in a collectivistic culture community</strong>
-<br>**Yang, Z.**(2022, November)<br>
+<br>**Yang, Z.** (2022, November)<br>
 The 108th National Communication Association Annual Convention. New Orleans, LA, United States. 
 
 <strong>Media representation of black women’s stories in year 1 of the COVID-19 pandemic</strong>
-<br>Wright, K. O. & **Yang, Z.**(2022, November)<br>
+<br>Wright, K. O. & **Yang, Z.** (2022, November)<br>
 The 108th National Communication Association Annual Convention. New Orleans, LA, United States. 
 
 <strong>Still posting selfies online? Predictors of cyberbullying among teens on social network sites.</strong>
-<br>**Yang, Z.**(2022, July)<br>
+<br>**Yang, Z.** (2022, July)<br>
 The International Association for Media and Communication Research (IAMCR) Pre-conference. Suzhou, China. 
 
 <strong>A comprehensive assessment of gambling prevention interventions in the United States.</strong>
-<br>Carcioppolo, N., Deal, B., & **Yang, Z.**(2022, May)<br>
+<br>Carcioppolo, N., Deal, B., & **Yang, Z.** (2022, May)<br>
 The 72nd Annual International Communication Association Conference. Paris, France. 
 
 <strong>Making environment like a cool thing: Analyze the attitude of generation Z towards climate change based on a focus group data.</strong>
-<br>**Yang, Z.**(2021, December)<br>
+<br>**Yang, Z.** (2021, December)<br>
 The 4th International Conference on Climate Communication, Health Communication and Sustainable Urban Development. Guangzhou, China. 
 
 <strong>Hope appeals, the extended elaboration likelihood model, and the aging people.</strong>
-<br>**Yang, Z.**(2020, December)<br>
+<br>**Yang, Z.** (2020, December)<br>
 The Health Communication division of Zhengzhou University Communication Academic Annual Conference. Zhengzhou, China.
 
