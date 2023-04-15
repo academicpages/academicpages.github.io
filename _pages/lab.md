@@ -8,3 +8,7 @@ author_profile: true
 
 ## Lab Members
   + Sean Edwards (2023) 
+  
+## Collaborators
+  + [Dr. Yifan Guo](https://yifan-guo.com/www/index.html)
+  + [Dr. Tianxi Ji](http://www.myweb.ttu.edu/tiji/)
