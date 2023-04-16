@@ -8,7 +8,7 @@ author_profile: true
 
 ## Lab Members
 
-  |<img src="https://yingchengsun.github.io/academic/images/Sean.jpeg"  width="100" style="float: left">|     
+  |<div width="105"><img src="https://yingchengsun.github.io/academic/images/Sean.jpeg"  width="100" style="float: left"></div>|     
   |:--:| 
 |Sean Edwards (2023)|
     
