@@ -60,11 +60,11 @@ $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $dark-gray;
 
-$primary-color              : #f3f6f4; 
+$primary-color              : $text-color; 
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #5e4499;
+$info-color                 : #9078c5;
 
 /* brands */
 $behance-color              : #1769FF;
