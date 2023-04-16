@@ -12,13 +12,12 @@ redirect_from:
 교육
 ---
 * 학사, 조선대학교 컴퓨터공학과 (2022.02)
-* 석사, 조선대학교 컴퓨터공학과 (2023.08 예정)
-<!-- * Ph.D in Computer Science and Engineering, Rice university (expected) -->
+* 석사, 조선대학교 컴퓨터공학과 (2024.02 예정)
+* Ph.D. in Computer Science and Engineering, Rice University (expected)
 
 졸업 논문
 ---
-* Title (Korean) : *5G Massive MIMO 시스템에서 주파수 및 에너지 효율성의 공동 최적화를 위한 다목적 강화 학습 기반 전력 할당*
-* Title (English) : *Multi-objective Reinforcement Learning-Based Power Allocation for Joint Optimizing Spectral and Energy Efficiency in 5G Massive MIMO System*
+* Title (English) : *null*
 * Supervisors : *null*
 * Abstract : *null*
 
@@ -27,6 +26,7 @@ redirect_from:
 ---
 * Massive MIMO
 * Deep learning
+* Deep reinforcement learning
 * Resouce allocation
 * IoT, ICT system
 * Software-defined ratio (SDR)
@@ -41,7 +41,8 @@ redirect_from:
   * 조선대학교 스마트네트워킹 연구실 학부 연구원 (2019.09 - 2022.02)
 
 
-* **개발 관련 및 기타 이력**
+* **개발 참여 및 수상 실적**
+  * 제 33회 통신정보 합동학술대회, 최우수논문상 (2023.04)
   * AR/VR 의료 임상 프로그램을 위한 다중 접속 무선 기술 개발, HT CORE (2022.10 - 2022.12)
   * RF430FRL15xH NFC 기반 Medical-ICT 융합 모바일 애플리케이션 설계 및 개발, KAIST (2022.08 - 2022.10)
   * 조선대-NHN 아카데미 백엔드 과정 수업 조교 (2022.08 - 2023.02)
@@ -66,7 +67,7 @@ redirect_from:
 
 
 * **협업 및 의사소통 능력**
-  * 4년 간 글로벌 멤버로 구성된 연구실에서의 활동 및 협업 프로젝트 진행
+  * 5년 간 글로벌 멤버로 구성된 연구실에서의 활동 및 협업 프로젝트 진행
   * 학부연구생 및 박사과정 학생들과의 다수 협업 프로젝트 참여 및 관리
   * IoT 캡스톤 프로젝트 및 여러 프로젝트 수행 간 팀장 역할을 수행, 다수의 수상 이력
 
