@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color: orange"> I am an incoming Ph.D. student at [Mila Quebec](https://mila.quebec/en/) and [Université de Montréal](https://diro.umontreal.ca/english/home/), advised by [Eilif Muller](https://scholar.google.ch/citations?user=r4-NZhwAAAAJ&hl=en) and [Shahab Bakhtiari](https://scholar.google.com/citations?user=f_JDOhEAAAAJ&hl=en). </span>
+<span style="color: red"> I am an incoming Ph.D. student at [Mila Quebec](https://mila.quebec/en/) and [Université de Montréal](https://diro.umontreal.ca/english/home/), advised by [Eilif Muller](https://scholar.google.ch/citations?user=r4-NZhwAAAAJ&hl=en) and [Shahab Bakhtiari](https://scholar.google.com/citations?user=f_JDOhEAAAAJ&hl=en). </span>
 
 My research interests are self-supervised learning, computational neuroscience, deep learning, reinforcement learning.
 
