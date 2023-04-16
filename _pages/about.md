@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-ÄÄÇ»ÅÍ
+computer
 
 A data-driven personal website
 ======
