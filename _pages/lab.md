@@ -8,8 +8,12 @@ author_profile: true
 
 ## Lab Members
 
-  + <img src="https://yingchengsun.github.io/academic/images/Sean.jpeg"  width="100">        
-    Sean Edwards (2023) 
+  | <img src="https://yingchengsun.github.io/academic/images/Sean.jpeg"  width="100"> |   
+  |:--:| 
+  | Sean Edwards (2023)|
+    
+ 
+
   
 ## Collaborators
   + [Dr. Yifan Guo](https://yifan-guo.com/www/index.html)
