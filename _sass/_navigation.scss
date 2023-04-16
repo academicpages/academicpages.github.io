@@ -255,7 +255,7 @@
     right: 0;
     margin-top: 15px;
     padding: 5px;
-    border: 1px solid $border-color;
+    border: 2px solid $border-color;
     border-radius: $border-radius;
     background: #fff;
     box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -299,7 +299,7 @@
 
     li {
       display: block;
-      border-bottom: 1px solid $border-color;
+      border-bottom: 2px solid $border-color;
 
       &:last-child {
         border-bottom: none;
@@ -361,7 +361,7 @@
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
-  border-bottom: 1px solid $border-color;
+  border-bottom: 2px solid $border-color;
 }
 
 
@@ -375,7 +375,7 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: #fff;
-  border: 1px solid $border-color;
+  border: 2px solid $border-color;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
 
@@ -402,7 +402,7 @@
     font-size: $type-size-7;
     font-weight: bold;
     line-height: 1.5;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 2px solid $border-color;
 
     &:hover {
       color: #000;
