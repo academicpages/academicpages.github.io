@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yi Ru (Helen) Wang"
 title_separator          : "-"
 name                     : &name "Yi Ru (Helen) Wang"
-description              : &description "Prospective Graduate in the Engineering Science Program at the University of Toronto, majoring in Robotics Engineering and Minoring in Artificial Intelligence. I am interested in robotic perception and learning."
+description              : &description "Ph.D. Student in Computer Science at the University of Washington Paul G. Allen School of Computer Science and Engineering. Working on perception, representation, and planning for robot manipulation."
 url                      : https://helen9975.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "helen9975/helen9975.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Yi Ru (Helen) Wang"
   avatar           : "profile.jpg"
-  bio              : "Prospective Graduate in the Engineering Science Program at the University of Toronto, majoring in Robotics Engineering and Minoring in Artificial Intelligence. I am broadly interested in robotic perception and learning."
-  location         : "Toronto, Canada"
-  employer         :  University of Toronto
+  bio              : "Ph.D. Student in Computer Science at the University of Washington Paul G. Allen School of Computer Science and Engineering. Working on perception, representation, and planning for robot manipulation."
+  location         : "Seattle, Washington"
+  employer         :  University of Washington
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=OTL-u30AAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Yi_Ru_Wang2"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/yi-ru-helen-wang/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "yiruhelenwang"
   vine             :
   weibo            :
   xing             :
