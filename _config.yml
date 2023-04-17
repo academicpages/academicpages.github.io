@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shaopeng Jiang"
-  avatar           : "profile_jaspor.png"
+  avatar           : "profile.png" # problematic
   bio              : "MSE Student: Medical Robotics"
   location         : "United States"
   employer         :
