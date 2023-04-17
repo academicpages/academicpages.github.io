@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-<a href="https://ericsclee.github.io/files/CV_230310.pdf" target="_blank">PDF (Last Update: Mar. 2022)</a>
+<a href="https://ericsclee.github.io/files/CV_230413.pdf" target="_blank">PDF (Last Update: Apr. 2023)</a>
