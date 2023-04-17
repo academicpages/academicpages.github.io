@@ -18,20 +18,20 @@ I have had the priviledge to work with some amazing collaborators, and am always
 
 Recent News
 ======
-* [March 2023]: TAing for CSE478, Autonomous Robotics
-* [March 2023]: Paper accepted at ICRA 2023 Workshop
-* [March 2023]: Serving as reviewer for ICCV 2023
-* [Jan 2023]: Selected to attend CRA-WP Workshop
-* [Jan 2023]: Our work, MVTrans, a novel multi-task perception framework & photorealistic dataset, accepted at ICRA 2023
-* [Jan 2023]: Serving as reviewer for CVPR 2023
-* [Nov 2022]: Serving as reviwer for ICRA 2023
-* [Aug 2022]: Serving as reviewer for ECCV 2022
-* [July 2022]: Serving as reviewer for CoRL 2022
-* [June 2022]: Graduated from the University of Toronto Engineering Science program
-* [April 2022]: Accepted my offer to join UWashington for Ph.D. in CS
-* [Jan 2022]: Received CRA Undergraduate Research Award (Honourable Mention)
-* [Sept 2021]: Our work, TranspareNet, a encoder-decoder based depth estimation method and real-world data-collection and annotation pipeline, accepted at CoRL 2021 for Oral Presentation
-* [April 2021]: Received the National Undergraduate Research Award (NSERC-USRA)
+* March 2023: TAing for CSE478, Autonomous Robotics
+* March 2023: Paper accepted at ICRA 2023 Workshop
+* March 2023: Serving as reviewer for ICCV 2023
+* Jan 2023: Selected to attend CRA-WP Workshop
+* Jan 2023: Our work, MVTrans, a novel multi-task perception framework & photorealistic dataset, accepted at ICRA 2023
+* Jan 2023: Serving as reviewer for CVPR 2023
+* Nov 2022: Serving as reviwer for ICRA 2023
+* Aug 2022: Serving as reviewer for ECCV 2022
+* July 2022: Serving as reviewer for CoRL 2022
+* June 2022: Graduated from the University of Toronto Engineering Science program
+* April 2022: Accepted my offer to join UWashington for Ph.D. in CS
+* Jan 2022: Received CRA Undergraduate Research Award (Honourable Mention)
+* Sept 2021: Our work, TranspareNet, a encoder-decoder based depth estimation method and real-world data-collection and annotation pipeline, accepted at CoRL 2021 for Oral Presentation
+* April 2021: Received the National Undergraduate Research Award (NSERC-USRA)
 
 
 
