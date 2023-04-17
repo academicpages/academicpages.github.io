@@ -26,6 +26,9 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
   * ### [Online Resource Allocation with Buyback: Optimal Algorithms via Primal-Dual](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4245468)
     * Working Paper
     * With Yiding Feng and Rad Niazadeh
+  * ### [Quantitative assessment can stabilize indirect reciprocity under imperfect information](https://www.nature.com/articles/s41467-023-37817-x)
+    * Nature Communications 2023
+    * With Laura Schmid, Christian Hilbe, and Krishnendu Chatterjee 
   * ### [Circuit Imbalance Measures and Linear Programming](https://arxiv.org/abs/2108.03616)
     * Surveys in Combinatorics 2022
     * With Bento Natura and László Végh
