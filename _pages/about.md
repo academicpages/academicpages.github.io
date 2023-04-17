@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I usually go by "Eric" in the US.
+I go by ___Eric___ in the US.
 
 __RESEARCH INTERESTS__
 ---
@@ -18,6 +18,7 @@ Corporate finance, Entrepreneurial finance, Corporate governance, Emerging marke
 __EDUCATION__
 ---
 
+- PhD, _Finance_, The University of Texas at Austin, 2023 - 2028
 - MS, _Statistics_, The University of Chicago, 2021 - 2023
 - BBA, _Business Administration_, Yonsei University, 2014 - 2020
   - Military Service (2016 - 2018)
