@@ -54,7 +54,7 @@ Work
 
   /* 样式化中间容器 */
   .column-middle {
-    width: 40%;
+    width: 38%;
     padding: 20px;
     box-sizing: border-box;
     background-color: #fff;
