@@ -22,7 +22,7 @@ My research spans the areas of natural language processing and machine learning.
 
 * <b>Computational efficiency method. (Model Manipulating)</b> Developing theory, tools, and algorithms to efficiently manipulate large-scale pre-trained foundation models toward downstream tasks (e.g., prompt tuning methods, in-context learning, etc.). ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Parameter-efficient Fine-tuning Survey](https://arxiv.org/abs/2203.06904))
 
-* <b>AI alignment. (Model Controlling)</b> Designing methods to understand the emerging human-like capacities of contemporary foundation models and ensure the models perform tasks in accordance with human's real intentions. ([Model Emotion](https://arxiv.org/abs/2302.09582), [Removing Backdoors]())
+* <b>AI alignment. (Model Controlling)</b> Designing methods to understand the emerging human-like capacities of contemporary foundation models and ensure the models perform tasks in accordance with human's real intentions. ([Model Emotion](https://arxiv.org/abs/2302.09582), [Removing Backdoors](), [Tool Leaning](https://arxiv.org/abs/2304.08354))
 
 <!--
 (https://www.dropbox.com/s/0yuudhokyyomkup/Removing_Backdoors_in_Pre-trained_Models_by_Regularized_Continual_Pretraining.pdf?dl=0)
@@ -132,6 +132,10 @@ EMNLP 2020 Findings, AI OPEN 2021. [[pdf]](https://arxiv.org/abs/2009.13964) [[p
 * <b>Human Emotion Knowledge Representation Emerges in Large Language Models and Supports Discrete Emotion Inference</b>\
 *Ming Li<sup><big>*</big></sup>, <b>Yusheng Su</b><sup><big>*</big></sup>, Hsiu-Yuan Huang, Jiali Cheng, Xin Hu, Xinmiao Zhang, Huadong Wang, Yujia Qin, Xiaozhi Wang, Zhiyuan Liu, Dan Zhang* (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
 (Submitted to Nature Human Behaviour). [[pdf]](https://arxiv.org/abs/2302.09582) [[code]](https://github.com/thunlp/OpenNeuron) <small>(Refactoring - User friendly toolkit coming soon)</small>
+
+* <b>Tool Learning with Foundation Models</b>\
+*Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, <b>Yusheng Su</b>, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
+(Submitted to Nature Human Behaviour). [[pdf]](https://arxiv.org/abs/2304.08354) [[code]](https://github.com/OpenBMB/BMTools) 
 
 <!--
 * <b>Removing Backdoors in Pre-trained Models by Regularized Continual Pre-training</b>\
