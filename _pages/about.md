@@ -46,58 +46,60 @@ Work
     display: flex;
     border: 2px solid #ccc;
     background-color: #f8f8f8;
-    padding: 20px;
   }
   .column {
-    flex: 1;
-    margin-right: 20px;
+    width: 50%;
+    padding: 20px;
   }
-  .column:last-child {
-    margin-right: 0;
+  .column:first-child {
+    border-right: 2px solid #ccc;
   }
-  .title {
-    font-size: 24px;
-    font-weight: bold;
-    margin: 0;
-    margin-bottom: 10px;
+  table {
+    border-collapse: collapse;
   }
-  .subtitle {
-    font-size: 18px;
-    font-weight: bold;
-    margin: 0;
-    margin-bottom: 5px;
-  }
-  ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-  li {
-    margin-bottom: 5px;
+  td, th {
+    border: none;
+    padding: 5px 10px;
   }
 </style>
 
 <div class="container">
   <div class="column">
-    <h2 class="title">Education</h2>
-    <div class="subtitle">MSc in Medical Robotics</div>
-    <div class="subtitle">Johns Hopkins University, Maryland, United States</div>
-    <ul>
-      <li>Sep 2022 - present</li>
-    </ul>
-    <div class="subtitle">Bachelor in Mechanical Engineer</div>
-    <div class="subtitle">University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai, China</div>
-    <ul>
-      <li>Sep 2018 - Jul 2022</li>
-    </ul>
+    <h2>Education</h2>
+    <hr />
+    <table>
+      <tr>
+        <th>Program</th>
+        <th>Duration</th>
+        <th>Institution</th>
+      </tr>
+      <tr>
+        <td>MSc in Medical Robotics</td>
+        <td>Sep 2022 - present</td>
+        <td>Johns Hopkins University, Maryland, United States</td>
+      </tr>
+      <tr>
+        <td>Bachelor in Mechanical Engineer</td>
+        <td>Sep 2018 - Jul 2022</td>
+        <td>University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai, China</td>
+      </tr>
+    </table>
   </div>
   <div class="column">
-    <h2 class="title">Work</h2>
-    <div class="subtitle">Technical Project Management Intern</div>
-    <div class="subtitle">Tesla (Shanghai) Co., Ltd.</div>
-    <ul>
-      <li>Dec 2021 - May 2022</li>
-    </ul>
+    <h2>Work</h2>
+    <hr />
+    <table>
+      <tr>
+        <th>Position</th>
+        <th>Duration</th>
+        <th>Employer</th>
+      </tr>
+      <tr>
+        <td>Technical Project Management Intern</td>
+        <td>Dec 2021 - May 2022</td>
+        <td>Tesla (Shanghai) Co., Ltd.</td>
+      </tr>
+    </table>
   </div>
 </div>
 
