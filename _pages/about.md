@@ -42,62 +42,79 @@ Work
   **Tesla (Shanghai) Co., Ltd.** -->
 
 <style>
-  .container {
+  /* 样式化左右分隔容器 */
+  .columns {
     display: flex;
-    border: 2px solid #ccc;
-    background-color: #f8f8f8;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: stretch;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    overflow: hidden;
   }
-  .column {
+
+  /* 样式化左侧容器 */
+  .column-left {
     width: 50%;
     padding: 20px;
+    box-sizing: border-box;
+    background-color: #f5f5f5;
   }
-  .column:first-child {
-    border-right: 2px solid #ccc;
+
+  /* 样式化右侧容器 */
+  .column-right {
+    width: 50%;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: #fff;
   }
+
+  /* 隐藏表格边框 */
   table {
     border-collapse: collapse;
+    border-spacing: 0;
   }
-  td, th {
+
+  table td,
+  table th {
     border: none;
-    padding: 5px 10px;
+    padding: 5px;
+    text-align: left;
+  }
+  
+  /* 调整学校名称的样式 */
+  .school-name {
+    font-size: 14px;
+    padding-left: 10px;
   }
 </style>
 
-<div class="container">
-  <div class="column">
+<div class="columns">
+  <div class="column-left">
     <h2>Education</h2>
-    <hr />
     <table>
       <tr>
-        <th>Program</th>
-        <th>Duration</th>
-        <th>Institution</th>
+        <td>MSc in Medical Robotics, Sep 2022 - present</td>
       </tr>
       <tr>
-        <td>MSc in Medical Robotics</td>
-        <td>Sep 2022 - present</td>
-        <td>Johns Hopkins University, Maryland, United States</td>
+        <td class="school-name">Johns Hopkins University, Maryland, United States</td>
       </tr>
       <tr>
-        <td>Bachelor in Mechanical Engineer</td>
-        <td>Sep 2018 - Jul 2022</td>
-        <td>University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai, China</td>
+        <td>Bachelor in Mechanical Engineer, Sep 2018 - Jul 2022</td>
+      </tr>
+      <tr>
+        <td class="school-name">University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai, China</td>
       </tr>
     </table>
   </div>
-  <div class="column">
+  <div class="column-right">
     <h2>Work</h2>
-    <hr />
     <table>
       <tr>
-        <th>Position</th>
-        <th>Duration</th>
-        <th>Employer</th>
+        <td>Technical Project Management Intern, Dec 2021 - May 2022</td>
       </tr>
       <tr>
-        <td>Technical Project Management Intern</td>
-        <td>Dec 2021 - May 2022</td>
-        <td>Tesla (Shanghai) Co., Ltd.</td>
+        <td class="school-name">Tesla (Shanghai) Co., Ltd.</td>
       </tr>
     </table>
   </div>
