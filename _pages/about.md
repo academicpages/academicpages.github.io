@@ -23,7 +23,7 @@ Interests
 * Image-guided Medical Robotics
 * Continuum Robotic Manipulation
 
-Education
+<!-- Education
 ------
 
 * MSc in Medical Robotics, Sep 2022 - present
@@ -39,7 +39,44 @@ Work
 
   Technical Project Management Intern, Dec 2021 - May 2022
 
-  **Tesla (Shanghai) Co., Ltd.**
+  **Tesla (Shanghai) Co., Ltd.** -->
+
+<style>
+  .container {
+    display: flex;
+    border: 2px solid #ccc;
+    background-color: #f8f8f8;
+  }
+  .column {
+    width: 50%;
+    padding: 20px;
+  }
+  .column:first-child {
+    border-right: 2px solid #ccc;
+  }
+</style>
+
+<div class="container">
+  <div class="column">
+    <h2>Education</h2>
+    <hr />
+    <ul>
+      <li>MSc in Medical Robotics, Sep 2022 - present<br>
+      <strong>Johns Hopkins University, Maryland, United States</strong></li>
+      <li>Bachelor in Mechanical Engineer, Sep 2018 - Jul 2022<br>
+      <strong>University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai, China</strong></li>
+    </ul>
+  </div>
+  <div class="column">
+    <h2>Work</h2>
+    <hr />
+    <ul>
+      <li>Technical Project Management Intern, Dec 2021 - May 2022<br>
+      <strong>Tesla (Shanghai) Co., Ltd.</strong></li>
+    </ul>
+  </div>
+</div>
+****
 
 <!-- How to edit your site's GitHub repository
 ------
