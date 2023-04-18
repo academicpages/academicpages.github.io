@@ -134,8 +134,8 @@ EMNLP 2020 Findings, AI OPEN 2021. [[pdf]](https://arxiv.org/abs/2009.13964) [[p
 (Submitted to Nature Human Behaviour). [[pdf]](https://arxiv.org/abs/2302.09582) [[code]](https://github.com/thunlp/OpenNeuron) <small>(Refactoring - User friendly toolkit coming soon)</small>
 
 * <b>Tool Learning with Foundation Models</b>\
-*Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, <b>Yusheng Su</b>, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
-(Submitted to Nature Human Behaviour). [[pdf]](https://arxiv.org/abs/2304.08354) [[code]](https://github.com/OpenBMB/BMTools) 
+*Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, <b>Yusheng Su</b>, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun*\
+ArXiv. [[pdf]](https://arxiv.org/abs/2304.08354) [[code]](https://github.com/OpenBMB/BMTools) 
 
 <!--
 * <b>Removing Backdoors in Pre-trained Models by Regularized Continual Pre-training</b>\
