@@ -2,9 +2,6 @@
 main:
   - title: "Publications"
     url: /publications/  
-    
-  - title: "Book"
-    url: /book/
 
   - title: "Teaching"
     url: /teaching/    
