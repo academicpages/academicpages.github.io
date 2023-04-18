@@ -8,6 +8,9 @@ main:
     
   - title: "CV"
     url: /cv/
+  
+  - title: "Datasets"
+    url: /datasets/
     
   - title: "Miscellaneous"
     url: /miscellaneous/
