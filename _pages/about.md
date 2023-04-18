@@ -47,4 +47,4 @@ Work
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png) -->
 
-Contact me at sjiang44@jhu.edu.
+<!-- Contact me at sjiang44@jhu.edu. -->
