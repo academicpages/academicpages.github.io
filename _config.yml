@@ -7,16 +7,15 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shaopeng Jiang"
+title                    : "Jaspor / Personal Website"
 title_separator          : "-"
 name                     : &name "Shaopeng Jiang"
 description              : &description "personal description"
-url                      : https://jasporjiang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jasporjiang/jasporjiang.github.io"
-teaser                   :  "500x300.png"
-# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : true #false # true, false (default)
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -82,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Shaopeng Jiang"
-  avatar           : "profile.png"
-  bio              : "Medical Robotics Master at JHU"
+  avatar           : "profile_jaspor_360.png" # problematic
+  bio              : "MSE Student: Medical Robotics"
   location         : "United States"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : jasporjiang@gmail.com
+  email            : "jaspor_jiang@hotmail.com"
 #   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jasporjiang"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+#   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "jasporjiang"
+#   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
 #   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+#   twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
