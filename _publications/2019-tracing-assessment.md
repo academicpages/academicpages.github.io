@@ -1,7 +1,6 @@
 ---
 title: "Towards validity for a formative assessment for language-specific program tracing skills"
 collection: publications
-permalink: /publication/2019-tracing-assessment
 date: 2019-11-21
 venue: 'Koli Calling'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3364510.3364525'

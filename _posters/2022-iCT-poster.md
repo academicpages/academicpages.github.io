@@ -1,7 +1,6 @@
 ---
 title: "Computational Thinking Integration Design Principles in Humanities"
 collection: publications
-permalink: /publication/2022-iCT-poster
 excerpt: 'Archive of a SIGCSE poster about the [iCT project](https://ctintegration.org/). You can see some [examples](https://projects.ctintegration.org/) of computational thinking integration in ELA, Arts, and Social Studies.'
 date: 2022-03-03
 venue: 'SIGCSE'

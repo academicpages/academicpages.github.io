@@ -1,7 +1,6 @@
 ---
 title: '"These Two Worlds Are Antithetical": Epistemic Tensions in Integrating Computational Thinking in K12 Humanities and Arts'
 collection: publications
-permalink: /publication/
 date: 2023-06-10
 venue: "ICLS"
 paperurl: 

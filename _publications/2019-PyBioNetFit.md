@@ -1,7 +1,6 @@
 ---
 title: "PyBioNetFit and the Biological Property Specification Language "
 collection: publications
-permalink: /publication/2019-PyBioNetFit
 excerpt: 'I worked on this project as an undergrad, applying skills from compilers in a computational biology context.'
 date: 2019-03-18
 venue: 'iScience'

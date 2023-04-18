@@ -1,7 +1,6 @@
 ---
 title: "Toward justice in computer science through community, criticality, and citizenship"
 collection: publications
-permalink: /publication/2022-community-criticality-citizenship
 date: 2022-04-01
 venue: 'Communications of the ACM'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3527203'
