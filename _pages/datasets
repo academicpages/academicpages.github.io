@@ -1,0 +1,54 @@
+---
+layout: archive
+title: ""
+permalink: /datasets/
+author_profile: true
+---
+
+<head>
+	<title>Dataset Introduction</title>
+	<style>
+		.row {
+			display: flex;
+			align-items: center;
+			margin-bottom: 20px;
+		}
+
+		.column {
+			flex: 1;
+			padding: 10px;
+			box-sizing: border-box;
+		}
+
+		.description {
+			flex-basis: 60%;
+			margin-right: 20px;
+		}
+
+		.image {
+			flex-basis: 40%;
+			max-width: 100%;
+			height: auto;
+		}
+
+		h2 {
+			margin-top: 0;
+		}
+	</style>
+</head>
+
+<body>
+	<div class="row">
+		<div class="column">
+			<h2>Post-Rebel Electoral Parties (PREP) Dataset </h2>
+			<p>A dataset of national-level elections of post-rebel parties (1990-2021).</p>
+			<img src="images/PREP_map.png">
+		</div>
+		<div class="column">
+			<h2>Coalitions in Electoral Authoritarian Regimes (CEAR) Dataset </h2>
+			<p>A dataset of national-level elections in electoral authoritarian regimes (1970-2019).</p>
+			<img src="images/CEAR_map.png">
+		</div>
+	</div>
+	
+</body>
