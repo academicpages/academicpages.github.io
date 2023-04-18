@@ -46,37 +46,60 @@ Work
     display: flex;
     border: 2px solid #ccc;
     background-color: #f8f8f8;
-  }
-  .column {
-    width: 50%;
     padding: 20px;
   }
-  .column:first-child {
-    border-right: 2px solid #ccc;
+  .column {
+    flex: 1;
+    margin-right: 20px;
+  }
+  .column:last-child {
+    margin-right: 0;
+  }
+  .title {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0;
+    margin-bottom: 10px;
+  }
+  .subtitle {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+    margin-bottom: 5px;
+  }
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    margin-bottom: 5px;
   }
 </style>
 
 <div class="container">
   <div class="column">
-    <h2>Education</h2>
-    <hr />
+    <h2 class="title">Education</h2>
+    <div class="subtitle">MSc in Medical Robotics</div>
+    <div class="subtitle">Johns Hopkins University, Maryland, United States</div>
     <ul>
-      <li>MSc in Medical Robotics, Sep 2022 - present<br>
-      <strong>Johns Hopkins University, Maryland, United States</strong></li>
-      <li>Bachelor in Mechanical Engineer, Sep 2018 - Jul 2022<br>
-      <strong>University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai, China</strong></li>
+      <li>Sep 2022 - present</li>
+    </ul>
+    <div class="subtitle">Bachelor in Mechanical Engineer</div>
+    <div class="subtitle">University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai, China</div>
+    <ul>
+      <li>Sep 2018 - Jul 2022</li>
     </ul>
   </div>
   <div class="column">
-    <h2>Work</h2>
-    <hr />
+    <h2 class="title">Work</h2>
+    <div class="subtitle">Technical Project Management Intern</div>
+    <div class="subtitle">Tesla (Shanghai) Co., Ltd.</div>
     <ul>
-      <li>Technical Project Management Intern, Dec 2021 - May 2022<br>
-      <strong>Tesla (Shanghai) Co., Ltd.</strong></li>
+      <li>Dec 2021 - May 2022</li>
     </ul>
   </div>
 </div>
-****
 
 <!-- How to edit your site's GitHub repository
 ------
