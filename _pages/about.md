@@ -50,9 +50,8 @@ Work
 <style>
   /* 容器样式 */
   .container {
-    display: grid;
-    grid-template-columns: 30% 40% 30%;
-    gap: 10px;
+    display: flex;
+    justify-content: space-between;
   }
 
   /* 通用列样式 */
@@ -63,9 +62,20 @@ Work
     vertical-align: top;
   }
 
+  /* 左侧容器样式 */
+  .column-left {
+    flex: 3;
+  }
+
   /* 中间容器样式 */
   .column-middle {
+    flex: 4;
     background-color: #fff;
+  }
+
+  /* 右侧容器样式 */
+  .column-right {
+    flex: 3;
   }
 
   /* 调整学校名称的样式 */
@@ -131,105 +141,3 @@ Work
 </body>
 </html>
 
-
-
-
-
-<style>
-  /* 样式化左侧容器 */
-  .column-left {
-    width: 30%;
-    padding: 20px;
-    box-sizing: border-box;
-    background-color: #f5f5f5;
-  }
-
-  /* 样式化中间容器 */
-  .column-middle {
-    width: 38%;
-    padding: 20px;
-    box-sizing: border-box;
-    background-color: #fff;
-  }
-
-  /* 样式化右侧容器 */
-  .column-right {
-    width: 30%;
-    padding: 20px;
-    box-sizing: border-box;
-    background-color: #f5f5f5;
-  }
-
-  /* 调整学校名称的样式 */
-  .school-name {
-    font-size: 14px;
-    margin-top: 0;
-    margin-bottom: 5px;
-    font-weight: bold;
-  }
-
-  /* 调整学校信息的样式 */
-  .school-info {
-    margin-top: 0;
-    margin-bottom: 15px;
-  }
-  
-  /* 调整兴趣列表的样式 */
-  .interests {
-    margin-top: 0;
-    margin-bottom: 15px;
-    line-height: 1.5;
-  }
-  
-  /* 样式化外层容器 */
-  .container {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-  }
-</style>
-
-<div class="container">
-  <div class="column-left">
-    <h2>Interests</h2>
-    <ul class="interests">
-      <li>Image-guided medical robotics</li>
-      <li>Continuum robotic manipulation</li>
-      <li>Cooking traditional Chinese food</li>
-      <li>Scuba diving</li>
-    </ul>
-  </div>
-
-  <div class="column-middle">
-    <h2>Education</h2>
-    <ul>
-      <li>
-        <p>MSc in Medical Robotics, Sep 2022 - present</p>
-        <p class="school-name">Johns Hopkins University, Maryland, United States</p>
-      </li>
-      <li>
-        <p>Bachelor in Mechanical Engineer, Sep 2018 - Jul 2022</p>
-        <p class="school-name">University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai, China</p>
-      </li>
-    </ul>
-  </div>
-
-  <div class="column-right">
-    <h2>Work</h2>
-    <ul>
-      <li>
-        <p>Technical Project Management Intern, Dec 2021 - May 2022</p>
-        <p class="school-name">Tesla (Shanghai) Co., Ltd.</p>
-      </li>
-    </ul>
-  </div>
-</div>
-
-
-<!-- How to edit your site's GitHub repository
-------
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png) -->
-
-<!-- Contact me at sjiang44@jhu.edu. -->
