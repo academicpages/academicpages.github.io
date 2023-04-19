@@ -81,7 +81,7 @@ Selected Papers
   <dt ><img align="left" width="270" hspace="10"  wspace="20" src="/images/sublime.png"></dt>
   <dt> Towards Unsupervised Deep Graph Structure Learning</dt>
   <dd><strong>Yixin Liu</strong>, Yu Zheng, Daokun Zhang, Hongxu Chen, Hao Peng, Shirui Pan</dd>
-  <dd> The Web Conference (<strong>WWW</strong>), 2022</dd>
+  <dd> The Web Conference (<strong>WWW</strong>), 2022 <font color="#c91f37">(Best Paper Award Candidate)</font></dd> </dd>
   <dd>
     <a href="https://arxiv.org/pdf/2201.06367.pdf">[Paper]</a>, 
     <a href="https://github.com/GRAND-LAB/SUBLIME">[Code]</a>
@@ -104,7 +104,7 @@ Selected Papers
 ---
 
 <dl>
-  <dt ><img align="left" width="270" hspace="10"  wspace="20" src="/images/cola.png"></dt>
+  <dt ><img align="left" width="270" hspace="10"  wspace="20" src="/images/CoLA.png"></dt>
   <dt> Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning</dt>
   <dd><strong>Yixin Liu</strong>, Zhao Li, Shirui Pan, Chen Gong, Chuan Zhou, George Karypis</dd>
   <dd> IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2021</dd>
