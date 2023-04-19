@@ -8,7 +8,7 @@ main:
   #   url: /about/
 
   - title: "Research"
-    url: /research/
+    url: /publication/
 
   - title: "CV"
     url: /cv/

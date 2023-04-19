@@ -13,36 +13,10 @@ redirect_from:
 
 I’m Jaspor, a master student in medical robotics. From April 2022 to the present, I have been studying for a Master of Science at Laboratory for Computational Science and Robotics (LCSR) in Johns Hopkins University.
 
-I completed my Bachelor at University of Michigan - Shanghai Jiao Tong University Joint Institute, where I pursued advanced design and manufacturing in the field of robotics engineering. Throughout my academic journey, I have garnered specialized skills in the development of computer vision assisted robots for the purpose of structural health monitoring systems. For more information on my research interests and projects, check out my [Research page](https://academicpages.github.io/publications/)!
+I completed my Bachelor at University of Michigan - Shanghai Jiao Tong University Joint Institute, where I pursued advanced design and manufacturing in the field of robotics engineering. Throughout my academic journey, I have garnered specialized skills in the development of computer vision assisted robots for the purpose of structural health monitoring systems. For more information on my research interests and projects, check out my [Research page](https://jasporjiang.github.io/publications/)!
 
 I am committed to promoting open and collaborative science, and enjoy sharing my knowledge and expertise with others. In my free time, you will find me traveling around the world, discovering the beauty of nature.
 
-
-<!-- Interests
-------
-* Image-guided medical robotics
-* Continuum robotic manipulation
-* Cooking traditional Chinese food
-* Scuba diving -->
-
-<!-- Education
-------
-
-* MSc in Medical Robotics, Sep 2022 - present
-
-  **Johns Hopkins University, Maryland, United States**
-
-* Bachelor in Mechanical Engineer, Sep 2018 - Jul 2022
-
-  **University of Michigan - Shanghai Jiao Tong University Joint Institute, Shanghai, China**
-
-Work
-------
-
-  Technical Project Management Intern, Dec 2021 - May 2022
-
-  **Tesla (Shanghai) Co., Ltd.** -->
-<!-- <!DOCTYPE html> -->
 <html lang="en">
 <head>
 <meta charset="UTF-8">
