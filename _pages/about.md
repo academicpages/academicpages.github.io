@@ -73,6 +73,8 @@ Selected Papers
   <dd>
     <a href="https://arxiv.org/pdf/2103.00111.pdf">[Paper]</a>
   </dd>
+  <dd> </dd>
+  <dd> </dd>
 </dl>
 
 ---
@@ -93,12 +95,13 @@ Selected Papers
 <dl>
   <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/taddy.png"></dt>
   <dd><strong>Anomaly Detection in Dynamic Graphs via Transformer</strong></dd>
-  <dd><strong>Yixin Liu</strong>, Shirui Pan, Yu Guang Wang, Fei Xiong, Liang Wang, Qingfeng Chen, Vincent CS Lee</dd>
+  <dd><strong>Yixin Liu</strong>, Shirui Pan, Yu Guang Wang, Fei Xiong, Liang Wang, Qingfeng Chen, Vincent Lee</dd>
   <dd> IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 2021</dd>
   <dd>
     <a href="https://arxiv.org/pdf/2106.09876.pdf">[Paper]</a>, 
     <a href="https://github.com/yixinliu233/TADDY_pytorch">[Code]</a>
   </dd>
+  <dd> </dd>
 </dl>
 
 ---
