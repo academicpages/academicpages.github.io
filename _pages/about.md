@@ -25,6 +25,7 @@ News
 
 Selected Papers 
 ------
+
 <dl>
   <dt ><img align="left" width="250" hspace="10"  wspace="20" src="/images/greet.png"></dt>
   <dt> Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating</dt>
@@ -38,6 +39,31 @@ Selected Papers
 
 ---
 
+<dl>
+  <dt ><img align="left" width="250" hspace="10"  wspace="20" src="/images/fedstar.png"></dt>
+  <dt> Federated Learning on Non-IID Graphs via Structural Knowledge Sharing</dt>
+  <dd>Yue Tan\*, <strong>Yixin Liu</strong>\*, Guodong Long, Jing Jiang, Qinghua Lu, Chengqi Zhang</dd>
+  <dd> AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2023 <font color="#c91f37">(Oral Presentation)</font></dd>
+  <dd>
+    <a href="[https://github.com/ziplab/SN-Net](https://arxiv.org/pdf/2211.14065.pdf)">[Paper]</a>, 
+    <a href="[https://arxiv.org/abs/2302.06586](https://github.com/yixinliu233/GREET)">[Code]</a>,
+  </dd>
+</dl>
+
+---
+
+<dl>
+  <dt ><img align="left" width="250" hspace="10"  wspace="20" src="/images/goodd.png"></dt>
+  <dt> GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection</dt>
+  <dd><strong>Yixin Liu</strong>, Kaize Ding, Huan Liu, Shirui Pan</dd>
+  <dd> AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2023 <font color="#c91f37">(Oral Presentation)</font></dd>
+  <dd>
+    <a href="[https://github.com/ziplab/SN-Net](https://arxiv.org/pdf/2211.14065.pdf)">[Paper]</a>, 
+    <a href="[https://arxiv.org/abs/2302.06586](https://github.com/yixinliu233/GREET)">[Code]</a>,
+  </dd>
+</dl>
+
+---
 
 Education 
 ------
