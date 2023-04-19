@@ -30,7 +30,7 @@ Selected Papers
   <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/greet.png"></dt>
   <dd><strong>Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating</strong></dd>
   <dd><strong>Yixin Liu</strong>, Yizhen Zheng, Daokun Zhang, Vincent CS Lee, Shirui Pan</dd>
-  <dd> AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2023 <font color="#c91f37">(Oral Presentation)</font></dd>
+  <dd> AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2023 <font color="#c91f37">(Oral)</font></dd>
   <dd>
     <a href="https://arxiv.org/pdf/2211.14065.pdf">[Paper]</a>, 
     <a href="https://github.com/yixinliu233/GREET">[Code]</a>
@@ -43,7 +43,7 @@ Selected Papers
   <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/fedstar.png"></dt>
   <dd><strong>Federated Learning on Non-IID Graphs via Structural Knowledge Sharing</strong></dd>
   <dd>Yue Tan*, <strong>Yixin Liu</strong>*, Guodong Long, Jing Jiang, Qinghua Lu, Chengqi Zhang</dd>
-  <dd> AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2023 <font color="#c91f37">(Oral Presentation)</font></dd>
+  <dd> AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2023 <font color="#c91f37">(Oral)</font></dd>
   <dd>
     <a href="https://arxiv.org/pdf/2211.13009.pdf">[Paper]</a>, 
     <a href="https://github.com/yuetan031/FedStar">[Code]</a>
@@ -56,7 +56,7 @@ Selected Papers
   <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/goodd.png"></dt>
   <dd><strong>GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection</strong></dd>
   <dd><strong>Yixin Liu</strong>, Kaize Ding, Huan Liu, Shirui Pan</dd>
-  <dd> ACM International Conference on Web Search and Data Mining (<strong>WSDM</strong>), 2023 <font color="#c91f37">(Oral Presentation)</font></dd>
+  <dd> ACM International Conference on Web Search and Data Mining (<strong>WSDM</strong>), 2023 <font color="#c91f37">(Oral)</font></dd>
   <dd>
     <a href="https://arxiv.org/pdf/2211.04208.pdf">[Paper]</a>, 
     <a href="https://github.com/yixinliu233/G-OOD-D">[Code]</a>
