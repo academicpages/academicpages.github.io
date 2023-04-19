@@ -42,7 +42,7 @@ Selected Papers
 <dl>
   <dt ><img align="left" width="270" hspace="10"  wspace="20" src="/images/fedstar.png"></dt>
   <dt> Federated Learning on Non-IID Graphs via Structural Knowledge Sharing</dt>
-  <dd>Yue Tan\*, <strong>Yixin Liu</strong>\*, Guodong Long, Jing Jiang, Qinghua Lu, Chengqi Zhang</dd>
+  <dd>Yue Tan*, <strong>Yixin Liu</strong>*, Guodong Long, Jing Jiang, Qinghua Lu, Chengqi Zhang</dd>
   <dd> AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2023 <font color="#c91f37">(Oral Presentation)</font></dd>
   <dd>
     <a href="https://arxiv.org/pdf/2211.13009.pdf">[Paper]</a>, 
@@ -64,6 +64,58 @@ Selected Papers
 </dl>
 
 ---
+
+<dl>
+  <dt ><img align="left" width="270" hspace="10"  wspace="20" src="/images/ssl_survey.png"></dt>
+  <dt> Graph Self-Supervised Learning: A Survey</dt>
+  <dd><strong>Yixin Liu</strong>, Ming Jin, Shirui Pan, Chuan Zhou, Yu Zheng, Feng Xia, Philip S. Yu</dd>
+  <dd> IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 2022</dd>
+  <dd>
+    <a href="https://arxiv.org/pdf/2103.00111.pdf">[Paper]</a>
+  </dd>
+</dl>
+
+---
+
+<dl>
+  <dt ><img align="left" width="270" hspace="10"  wspace="20" src="/images/sublime.png"></dt>
+  <dt> Towards Unsupervised Deep Graph Structure Learning</dt>
+  <dd><strong>Yixin Liu</strong>, Yu Zheng, Daokun Zhang, Hongxu Chen, Hao Peng, Shirui Pan</dd>
+  <dd> The Web Conference (<strong>WWW</strong>), 2022</dd>
+  <dd>
+    <a href="https://arxiv.org/pdf/2201.06367.pdf">[Paper]</a>, 
+    <a href="https://github.com/GRAND-LAB/SUBLIME">[Code]</a>
+  </dd>
+</dl>
+
+---
+
+<dl>
+  <dt ><img align="left" width="270" hspace="10"  wspace="20" src="/images/taddy.png"></dt>
+  <dt> Anomaly Detection in Dynamic Graphs via Transformer</dt>
+  <dd><strong>Yixin Liu</strong>, Shirui Pan, Yu Guang Wang, Fei Xiong, Liang Wang, Qingfeng Chen, Vincent CS Lee</dd>
+  <dd> IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 2021</dd>
+  <dd>
+    <a href="https://arxiv.org/pdf/2106.09876.pdf">[Paper]</a>, 
+    <a href="https://github.com/yixinliu233/TADDY_pytorch">[Code]</a>
+  </dd>
+</dl>
+
+---
+
+<dl>
+  <dt ><img align="left" width="270" hspace="10"  wspace="20" src="/images/cola.png"></dt>
+  <dt> Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning</dt>
+  <dd><strong>Yixin Liu</strong>, Zhao Li, Shirui Pan, Chen Gong, Chuan Zhou, George Karypis</dd>
+  <dd> IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2021</dd>
+  <dd>
+    <a href="https://arxiv.org/pdf/2103.00113.pdf">[Paper]</a>, 
+    <a href="https://github.com/GRAND-LAB/CoLA">[Code]</a>
+  </dd>
+</dl>
+
+---
+
 
 Education 
 ------
