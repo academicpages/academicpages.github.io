@@ -29,7 +29,7 @@ Selected Papers
 <dl>
   <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/greet.png"></dt>
   <dd><strong>Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating</strong></dd>
-  <dd><strong>Yixin Liu</strong>, Yizhen Zheng, Daokun Zhang, Vincent CS Lee, Shirui Pan</dd>
+  <dd><strong>Yixin Liu</strong>, Yizhen Zheng, Daokun Zhang, Vincent Lee, Shirui Pan</dd>
   <dd> AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2023 <font color="#c91f37">(Oral)</font></dd>
   <dd>
     <a href="https://arxiv.org/pdf/2211.14065.pdf">[Paper]</a>, 
