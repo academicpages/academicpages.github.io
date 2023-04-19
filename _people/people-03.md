@@ -4,15 +4,15 @@ excerpt: "Graduate Research Assistant"
 collection: people
 ---
 
-name: Jonah Marks
+Name: Jonah Marks
 
-role: Graduate Research Assistant
+Role: Graduate Research Assistant
 
 degrees: 
 
 * B.S.E., Chemical Engineering (Chemistry minor), University of Iowa, 2020
 * Ph.D., Chemical Engineering, University of Iowa, 2025 (Expected)
 
-project: Optimization of Organic Photovoltaics using Graph Neural Networks and Genetic Algorithms
+project: Chemical Reactivity in Molecular Simulations with Atomistic Graph Neural Network Potentials 
 
-interests: Deep Learning, Quantum Mechanics, Traveling, Plants
+Other Interests: Rock Climbing, Gardening, Reading
