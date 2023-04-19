@@ -27,7 +27,7 @@ Selected Papers
 ------
 
 <dl>
-  <dt><img align="left" width="270" hspace="10"  wspace="20" src="/images/greet.png"></dt>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/greet.png"></dt>
   <dd><strong>Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating</strong></dd>
   <dd><strong>Yixin Liu</strong>, Yizhen Zheng, Daokun Zhang, Vincent CS Lee, Shirui Pan</dd>
   <dd> AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2023 <font color="#c91f37">(Oral Presentation)</font></dd>
@@ -40,7 +40,7 @@ Selected Papers
 ---
 
 <dl>
-  <dt><img align="left" width="270" hspace="10"  wspace="20" src="/images/fedstar.png"></dt>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/fedstar.png"></dt>
   <dd><strong>Federated Learning on Non-IID Graphs via Structural Knowledge Sharing</strong></dd>
   <dd>Yue Tan*, <strong>Yixin Liu</strong>*, Guodong Long, Jing Jiang, Qinghua Lu, Chengqi Zhang</dd>
   <dd> AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2023 <font color="#c91f37">(Oral Presentation)</font></dd>
@@ -53,7 +53,7 @@ Selected Papers
 ---
 
 <dl>
-  <dt><img align="left" width="270" hspace="10"  wspace="20" src="/images/goodd.png"></dt>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/goodd.png"></dt>
   <dd><strong>GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection</strong></dd>
   <dd><strong>Yixin Liu</strong>, Kaize Ding, Huan Liu, Shirui Pan</dd>
   <dd> ACM International Conference on Web Search and Data Mining (<strong>WSDM</strong>), 2023 <font color="#c91f37">(Oral Presentation)</font></dd>
@@ -66,7 +66,7 @@ Selected Papers
 ---
 
 <dl>
-  <dt><img align="left" width="270" hspace="10"  wspace="20" src="/images/ssl_survey.png"></dt>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/ssl_survey.png"></dt>
   <dd><strong>Graph Self-Supervised Learning: A Survey</strong></dd>
   <dd><strong>Yixin Liu</strong>, Ming Jin, Shirui Pan, Chuan Zhou, Yu Zheng, Feng Xia, Philip S. Yu</dd>
   <dd> IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 2022</dd>
@@ -78,7 +78,7 @@ Selected Papers
 ---
 
 <dl>
-  <dt><img align="left" width="270" hspace="10"  wspace="20" src="/images/sublime.png"></dt>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/sublime.png"></dt>
   <dd><strong>Towards Unsupervised Deep Graph Structure Learning</strong></dd>
   <dd><strong>Yixin Liu</strong>, Yu Zheng, Daokun Zhang, Hongxu Chen, Hao Peng, Shirui Pan</dd>
   <dd> The Web Conference (<strong>WWW</strong>), 2022 <font color="#c91f37">(Best Paper Award candidate)</font></dd>
@@ -91,7 +91,7 @@ Selected Papers
 ---
 
 <dl>
-  <dt><img align="left" width="270" hspace="10"  wspace="20" src="/images/taddy.png"></dt>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/taddy.png"></dt>
   <dd><strong>Anomaly Detection in Dynamic Graphs via Transformer</strong></dd>
   <dd><strong>Yixin Liu</strong>, Shirui Pan, Yu Guang Wang, Fei Xiong, Liang Wang, Qingfeng Chen, Vincent CS Lee</dd>
   <dd> IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 2021</dd>
@@ -104,7 +104,7 @@ Selected Papers
 ---
 
 <dl>
-  <dt><img align="left" width="270" hspace="10"  wspace="20" src="/images/CoLA.png"></dt>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/CoLA.png"></dt>
   <dd><strong>Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning</strong></dd>
   <dd><strong>Yixin Liu</strong>, Zhao Li, Shirui Pan, Chen Gong, Chuan Zhou, George Karypis</dd>
   <dd> IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2021</dd>
