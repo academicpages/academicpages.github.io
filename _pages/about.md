@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Ph.D. graduate in the School of Engineering (Mechanical, Manufacturing, and Mechatronics) from RMIT University, Australia. I am currently working as a post-doctoral researcher at the same
-institution, 
 
 Hello! I am a post-doctoral researcher in the [Intelligent Automation Research Group](https://www.rmit.edu.au/about/schools-colleges/engineering/research/research-groups/intelligent-automation-research-group) at RMIT University, Australia. I received my Ph.D. at the same institution in 2022, under the supervision of [Prof. Alireza Bab-Hadiashar](https://www.linkedin.com/in/ali-bab-hadiashar-0a881a31/), [Prof. Reza Hoseinnezhad](https://www.linkedin.com/in/rezahn/) and [Dr Ruwan Tennakoon](https://www.linkedin.com/in/ruwan-tennakoon-923a3437/). 
 
