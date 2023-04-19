@@ -26,7 +26,7 @@ News
 Selected Papers 
 ------
 <dl>
-  <dt ><img align="left" width="170" hspace="10"  wspace="20" src="/images/greet.png"></dt>
+  <dt ><img align="left" width="250" hspace="10"  wspace="20" src="/images/greet.png"></dt>
   <dt> Beyond Smoothing: Unsupervised Graph Representation Learning with Edge Heterophily Discriminating</dt>
   <dd><strong>Yixin Liu</strong>, Yizhen Zheng, Daokun Zhang, Vincent CS Lee, Shirui Pan</dd>
   <dd> AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2023 <font color="#c91f37">(Oral Presentation)</font></dd>
