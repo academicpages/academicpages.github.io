@@ -32,8 +32,8 @@ Selected Papers
   <dd><strong>Yixin Liu</strong>, Yizhen Zheng, Daokun Zhang, Vincent CS Lee, Shirui Pan</dd>
   <dd> AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2023 <font color="#c91f37">(Oral Presentation)</font></dd>
   <dd>
-    <a href="[https://github.com/ziplab/SN-Net](https://arxiv.org/pdf/2211.14065.pdf)">[Paper]</a>, 
-    <a href="[https://arxiv.org/abs/2302.06586](https://github.com/yixinliu233/GREET)">[Code]</a>,
+    <a href="https://arxiv.org/pdf/2211.14065.pdf">[Paper]</a>, 
+    <a href="https://github.com/yixinliu233/GREET">[Code]</a>
   </dd>
 </dl>
 
@@ -45,8 +45,8 @@ Selected Papers
   <dd>Yue Tan\*, <strong>Yixin Liu</strong>\*, Guodong Long, Jing Jiang, Qinghua Lu, Chengqi Zhang</dd>
   <dd> AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2023 <font color="#c91f37">(Oral Presentation)</font></dd>
   <dd>
-    <a href="[https://github.com/ziplab/SN-Net](https://arxiv.org/pdf/2211.14065.pdf)">[Paper]</a>, 
-    <a href="[https://arxiv.org/abs/2302.06586](https://github.com/yixinliu233/GREET)">[Code]</a>,
+    <a href="https://arxiv.org/pdf/2211.13009.pdf">[Paper]</a>, 
+    <a href="https://github.com/yuetan031/FedStar">[Code]</a>
   </dd>
 </dl>
 
@@ -58,8 +58,8 @@ Selected Papers
   <dd><strong>Yixin Liu</strong>, Kaize Ding, Huan Liu, Shirui Pan</dd>
   <dd> AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2023 <font color="#c91f37">(Oral Presentation)</font></dd>
   <dd>
-    <a href="[https://github.com/ziplab/SN-Net](https://arxiv.org/pdf/2211.14065.pdf)">[Paper]</a>, 
-    <a href="[https://arxiv.org/abs/2302.06586](https://github.com/yixinliu233/GREET)">[Code]</a>,
+    <a href="https://arxiv.org/pdf/2211.04208.pdf">[Paper]</a>, 
+    <a href="https://github.com/yixinliu233/G-OOD-D">[Code]</a>
   </dd>
 </dl>
 
