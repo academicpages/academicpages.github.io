@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ashish Arun Farande"
   avatar           : "profile.png"
-  bio              : "Graduate Student at UCSD | Intern at Brain Corp"
+  bio              : "Graduate Student at UCSD | Robotics Intern at Brain Corp"
   location         : "San Diego, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ashish-farande"
+  github           : "ashish-farande"
   google_plus      :
   keybase          :
   instagram        :
