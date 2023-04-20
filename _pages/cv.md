@@ -40,7 +40,6 @@ I do research and coding for papers in the CCF-A conference of GNN model.
 - 2023.04-Now The National Laboratory of Pattern Recognition (NLPR) at the Institute of Automation of the Chinese Academy of Sciences (CASIA).
 
   - Interest: Diffusion model and AI4Science. (Mentor: Prof.Yifan Zhang)
-  - 
   - Duty: I do research in combinatorial optimization, image generation and AI4Science.
 
 ## Publications
@@ -67,6 +66,8 @@ I do research and coding for papers in the CCF-A conference of GNN model.
 - Excellence Award of Internet plus Innovation and Entrepreneurship Competition in Beijing [[certificate]](https://staymylove.github.io/files/互联网+优秀奖.jpg)
 
 - National Scholarship for Encouragement (2021,2022)
+
+
 <!-- - 2022年美国大学生数学建模竞赛                             M奖[curriculum vitae](https://staymylove.github.io/cv/).
 - 全国软件和信息技术专业人才大赛蓝桥杯python程序设计大学A组  一等奖
 - 第三十三届北京市大学生数学竞赛                           二等奖
