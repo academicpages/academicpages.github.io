@@ -11,7 +11,7 @@ author_profile: true
     **Taoan Huang**, Aaron Ferber, Yuandong Tian, Bistra Dilkina and Benoit Steiner.    
 
 * [SurCo: Learning Linear Surrogates For Combinatorial Nonlinear Optimization Problems](https://arxiv.org/pdf/2210.12547.pdf).                     
-   Aaron Ferber, **Taoan Huang**, Daochen Zha, Martin Schubert, Benoit Steiner, Bistra Dilkin and Yuandong Tian.  
+   Aaron Ferber, **Taoan Huang**, Daochen Zha, Martin Schubert, Benoit Steiner, Bistra Dilkina and Yuandong Tian.  
 
 ## 2023
 
