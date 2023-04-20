@@ -10,4 +10,4 @@ redirect_from:
 
  I am a graduate student at UC San Diego, specializing in robotics and computer vision, with a strong interest in 3D scene understanding.
 
- To know more about me find my [CV]((http://ashish-farande.github.io/files/Resume.pdf))
+ To know more about me find my [CV]((/files/Resume.pdf))
