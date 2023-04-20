@@ -20,7 +20,7 @@ Publications
 ======
 + [**Generative Diffusion Models on Graphs: Methods and Applications**](https://arxiv.org/abs/2302.02591)
   <br> Wenqi Fan, Chengyi Liu, **Yunqing Liu**, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li
-  <br> _arXiv_, [arXiv:2302.02591](https://arxiv.org/abs/2302.02591)
+  <br> _IJCAI_ **2023** [arXiv:2302.02591](https://arxiv.org/abs/2302.02591)
 + [**Improving User Controlled Table-To-Text Generation Robustness**](https://arxiv.org/abs/2302.09820)
   <br> Hanxu Hu, **Yunqing Liu**, Zhongyi Yu and Laura Perez-Beltrachini
   <br> _EACL_ **2023** (Findings) [arXiv:2302.09820](https://arxiv.org/abs/2302.09820)
