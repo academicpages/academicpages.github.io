@@ -109,7 +109,7 @@ plot marks the suspension of the 1033 program from 2014 to 2017. While
 some states like Connecticut and New Mexico demonstrate a freeze in
 transfers during this period, others like Tennessee and New Jersey
 continued to receive multiple vehicles. To date, the state that has
-received the most MRAPs is Texas with a whopping 119 vehicles.
+received the most MRAPs is Texas with a whopping 115 vehicles.
 
 # Thinking about the future
 

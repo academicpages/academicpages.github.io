@@ -56,8 +56,10 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
+mastodon:
+  username               : "fosstodon.org/@jayrobw"
 twitter:
-  username               : jayrobw
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -106,7 +108,12 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
+<<<<<<< HEAD
   linkedin         : 
+=======
+  linkedin         : "jayrobwilliams"
+  mastodon         : "fosstodon.org/@jayrobw"
+>>>>>>> 632980eded5cfbf379e838b5dd166fce74e96f15
   pinterest        :
   soundcloud       :
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
@@ -131,6 +138,7 @@ exclude:
   - .asset-cache
   - .bundle
   - .Rproj.user
+  - _source
   - .jekyll-assets-cache
   - .sass-cache
   - CHANGELOG
