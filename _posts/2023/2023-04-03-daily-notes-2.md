@@ -12,3 +12,4 @@ I have a theory, the development of everything has to consider three fundamental
 ![avatar](https://raw.githubusercontent.com/Wendong-Huo/Wendong-Huo.github.io/master/images/posts/2023/2023-04-03-01.jpg)
 
 Isn't this draft a bit Picasso-esque?
+Perhaps there are some problems with the sum sign.

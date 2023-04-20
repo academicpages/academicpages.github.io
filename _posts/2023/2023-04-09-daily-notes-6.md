@@ -7,8 +7,11 @@ tags:
 ---
 
 The future, possibility
+
 The past, necessity
+
 Conservative
+
 Adventurer
 
 The adventurer recked little of the danger and hardships.

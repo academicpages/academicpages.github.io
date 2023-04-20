@@ -7,9 +7,11 @@ tags:
   - Daily
 ---
 
-The last significant concept was the digital era
+The last significant concept was the digital era.
+
 Has it finished? Has there any important treasure been explored?
 or technology 
+
 The answer is negative. The digitalization process hasn't been finished.
 
 There 
