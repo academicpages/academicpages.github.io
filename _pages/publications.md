@@ -11,7 +11,7 @@ author_profile: true
 * Assisted in polarization of composite piezoelectric material in electromagnetic vibration actuator
 * Applied convolutional neural network (CNN) to the sensing system to predict detective pulse signals
 * The research paper was published in EI international conference proceedings of the ASME’s 2021 International 
-Mechanical Engineering Congress and Exposition (IMECE.
+Mechanical Engineering Congress and Exposition (IMECE).
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
