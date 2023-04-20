@@ -32,7 +32,7 @@ Selected Papers
   <dd><strong>Yixin Liu</strong>, Yizhen Zheng, Daokun Zhang, Vincent Lee, Shirui Pan</dd>
   <dd> AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2023 <font color="#c91f37">(Oral)</font></dd>
   <dd>
-    <a href="https://arxiv.org/pdf/2211.14065.pdf">[Paper]</a>, 
+    <a href="https://arxiv.org/pdf/2211.14065.pdf">[Paper]</a> 
     <a href="https://github.com/yixinliu233/GREET">[Code]</a>
   </dd>
 </dl>
@@ -45,7 +45,7 @@ Selected Papers
   <dd>Yue Tan*, <strong>Yixin Liu</strong>*, Guodong Long, Jing Jiang, Qinghua Lu, Chengqi Zhang</dd>
   <dd> AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2023 <font color="#c91f37">(Oral)</font></dd>
   <dd>
-    <a href="https://arxiv.org/pdf/2211.13009.pdf">[Paper]</a>, 
+    <a href="https://arxiv.org/pdf/2211.13009.pdf">[Paper]</a> 
     <a href="https://github.com/yuetan031/FedStar">[Code]</a>
   </dd>
 </dl>
@@ -58,7 +58,7 @@ Selected Papers
   <dd><strong>Yixin Liu</strong>, Kaize Ding, Huan Liu, Shirui Pan</dd>
   <dd> ACM International Conference on Web Search and Data Mining (<strong>WSDM</strong>), 2023 <font color="#c91f37">(Oral)</font></dd>
   <dd>
-    <a href="https://arxiv.org/pdf/2211.04208.pdf">[Paper]</a>, 
+    <a href="https://arxiv.org/pdf/2211.04208.pdf">[Paper]</a> 
     <a href="https://github.com/yixinliu233/G-OOD-D">[Code]</a>
   </dd>
 </dl>
@@ -87,7 +87,7 @@ Selected Papers
   <dd><strong>Yixin Liu</strong>, Yu Zheng, Daokun Zhang, Hongxu Chen, Hao Peng, Shirui Pan</dd>
   <dd> The Web Conference (<strong>WWW</strong>), 2022 <font color="#c91f37">(Best Paper Award candidate)</font></dd>
   <dd>
-    <a href="https://arxiv.org/pdf/2201.06367.pdf">[Paper]</a>, 
+    <a href="https://arxiv.org/pdf/2201.06367.pdf">[Paper]</a> 
     <a href="https://github.com/GRAND-LAB/SUBLIME">[Code]</a>
   </dd>
 </dl>
@@ -100,7 +100,7 @@ Selected Papers
   <dd><strong>Yixin Liu</strong>, Shirui Pan, Yu Guang Wang, Fei Xiong, Liang Wang, Qingfeng Chen, Vincent Lee</dd>
   <dd> IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>), 2021</dd>
   <dd>
-    <a href="https://arxiv.org/pdf/2106.09876.pdf">[Paper]</a>, 
+    <a href="https://arxiv.org/pdf/2106.09876.pdf">[Paper]</a> 
     <a href="https://github.com/yixinliu233/TADDY_pytorch">[Code]</a>
   </dd>
   <dd> </dd>
@@ -116,7 +116,7 @@ Selected Papers
   <dd><strong>Yixin Liu</strong>, Zhao Li, Shirui Pan, Chen Gong, Chuan Zhou, George Karypis</dd>
   <dd> IEEE Transactions on Neural Networks and Learning Systems (<strong>TNNLS</strong>), 2021</dd>
   <dd>
-    <a href="https://arxiv.org/pdf/2103.00113.pdf">[Paper]</a>, 
+    <a href="https://arxiv.org/pdf/2103.00113.pdf">[Paper]</a> 
     <a href="https://github.com/GRAND-LAB/CoLA">[Code]</a>
   </dd>
 </dl>
