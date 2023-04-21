@@ -10,7 +10,7 @@ redirect_from:
 
 
 <a href="http://www.hectorbahamonde.com/">
-<img src="/resources/pic1.jpg" alt="me"  style="width:386px;height:330;;border:0;">
+<img src="/resources/boat_pic.jpg" alt="me"  style="width:386px;height:330;;border:0;">
 </a>
 
 I am a <b>Senior Researcher</b> at the [INVEST Research Flagship Center](https://invest.utu.fi) of the University of Turku, Finland. I also serve as an <b>Associate Editor</b> of the [*Social Science*](https://www.springer.com/journal/43545/) journal (Springer).
