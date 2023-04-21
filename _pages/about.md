@@ -12,7 +12,7 @@ redirect_from:
 
 I am a PhD Candidate in the Quake lab at Stanford. We aim to develop new technological and analytical approaches that solve problems of scientific and medical interest.
 
-I am keenly interested in modeling the dynamics of the immune system. In particular, I have been using single-cell sequencing technologies to understand cell fate decisions of human B cells __in vitro__ and __in vivo__. Ultimately, detailed models of the immune system should allow us create synthetic immune cells which will solve an array of problems in human health including cancer, aging, and auto-immune disease.
+I am keenly interested in modeling the dynamics of the immune system. In particular, I have been using single-cell sequencing technologies to understand cell fate decisions of human B cells _in vitro_ and _in vivo_. Ultimately, detailed models of the immune system should allow us create synthetic immune cells which will solve an array of problems in human health including cancer, aging, and auto-immune disease.
 
 ## Previously
 
