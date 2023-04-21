@@ -17,6 +17,8 @@ My research interests include Information Retrieval, Machine Learning and Softwa
 
 News    
 ======
+<span style="color:red">[4.2023]</span> Congratulations to Sean Edwards for winning the Provost Student Excellence Awards 2023!   
+
 <span style="color:red">[4.2023]</span> I will attend the Workshop on ECG Informatics in Precision Medicine (Wake Forest Uniersity, Apr 27th)!   
 
 <span style="color:red">[4.2023]</span> I appeared on [Fox 8 News](https://www.youtube.com/watch?v=3rTACqdQb7w), talking about how to use Artificial Intelligence!   
@@ -28,12 +30,4 @@ News
 <span style="color:red">[8.2022]</span> I have joined the department of Computer Science at University of North Carolina Greensboro this fall!
 
 <span style="color:red">[3.2022]</span> Our paper "Combining Human and Machine Intelligence for Clinical Trial Eligibility Querying" was accepted by JAMIA directly without any revision!   
-
-<span style="color:red">[9.2021]</span> Our paper is accepted by the International Journal of Medical Informatics (IJMI) (IF:3.21)! 
-
-<span style="color:red">[8.2021]</span> Our paper is accepted by MEDINFO 2021! 
-
-<span style="color:red">[7.2021]</span> Our paper is accepted by the Applied Clinical Informatics (ACI) (IF: 2.405)!   
-
-<span style="color:red">[4.2021]</span> Two papers got accepted by the Journal of Biomedical Informatics (JBI) (IF: 3.526)!   
   
