@@ -11,7 +11,7 @@ author_profile: true
  <img src="https://yingchengsun.github.io/academic/images/Sean.jpeg"  width="100" style="float: left"> <br /><br /><br /><br /><br />            
  
 Sean Edwards (2023)   
-Won Provost Student Excellence Awards 2023
+Won Provost Student Excellence Awards 2023   
 
 ## Collaborators
   + [Dr. Hao Liu](https://dr-haoliu.github.io/)
