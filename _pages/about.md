@@ -10,10 +10,9 @@ redirect_from:
 
 ## Currently
 
-I am a PhD Candidate in the Chemical and System Biology Department at Stanford. I am  working on my thesis in the laboratory of Stephen Quake. We aim to develop new technological approaches that solve problems of scientific and medical interest. 
+I am a PhD Candidate in the Quake lab at Stanford. We aim to develop new technological and analytical approaches that solve problems of scientific and medical interest.
 
-I am particularly interested in understanding the dynamics of the immune system and working towards creating better cell-based therapies.
-
+I am keenly interested in modeling the dynamics of the immune system. In particular, I have been using single-cell sequencing technologies to understand cell fate decisions of human B cells __in vitro__ and __in vivo__. Ultimately, detailed models of the immune system should allow us create synthetic immune cells which will solve an array of problems in human health including cancer, aging, and auto-immune disease.
 
 ## Previously
 
@@ -21,4 +20,4 @@ I studied Biochemistry at Claremont McKenna College. My first interest in biolog
 
 I then had the great pleasure of working performing my undergraduate research with Babak Sanii. We worked on understanding the biophysical properties of supported lipid bilayers, with the broad goal of developing bio-compatible sensors and devices. 
 
-After graduating, I worked at MiRagen Therapeutics in Boulder, Colorado. While there, I learned about the pre-clinical drug development process from the masters: Corrie Gallant-Behm and Joseph Piper. 
+After graduating, I worked at MiRagen Therapeutics in Boulder, Colorado. While there, I learned about the pre-clinical drug development process from the masters: Corrie Gallant-Behm and Joseph Piper.
