@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: #""
-excerpt: "Where imagination comes true"
+excerpt: "Xijia Wei Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -38,10 +38,14 @@ Research Interests
 
 News
 ======
+[June. 2023] Research Internship at Nokia Bell Lab Cambridge
+I will soonly start my PhD research intern at the prestigious Bell Lab at Cambridge during this summer.
+
+[April. 2023] I passed my first-year viva regarding the topic of wireless human sensing!
+
 [Sept. 2022] Invited Talk at HK PolyTechnic University.
 I give a talk at HK PolyTech, regarding the topic of "Machine-learning based Sensor-fusion Localization".
 [Link](https://www.polyu.edu.hk/en/aae/news-and-events/event/2022/9/27---research-seminar/)
-
 
 [Aug. 2022] Paper accepted at IPIN, 2022.
 Work with Valentin Radu, "Leveraging Transfer Learning for Robust Multimodal Positioning Systems based on Smartphone Multisensory Data".
