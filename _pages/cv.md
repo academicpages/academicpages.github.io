@@ -11,24 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* B.S. in  University of Michigan - Shanghai Jiao Tong University Joint Institute, 2018 - 2022
+* M.S. in Johns Hopkins University, 2022 - present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
+* Dec 2019 - Sept 2021: Research Assistant & Assistant Lab Manager
+  * University of Michigan - Shanghai Jiao Tong University Joint Institute
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
+* Dec 2021 - May 2022: Technical Project Management Full-time Intern
+  * Tesla (Shanghai) Co., Ltd., Advanced Manufacturing Department
+  * Duties included: machine vision system design and implementation
+  * Supervisor: Professor Hub
+
+* Current: Research Assistant
+  * Johns Hopkins University
+  * Duties included: design and construction for a new research lab about medical robotics
+  * Supervisor: Dr. Axel Krieger
+
 Skills
 ======
+
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
