@@ -18,12 +18,25 @@ I will join the [School of Life Science, Westlake University](http://sls.westlak
 ***
 Education
 ======
+<div style="display: flex">
+<div style="flex-direction: row-reverse">
+        ![ustb](https://github.com/DBinary/dbinary.github.io/blob/master/images/USTB.png)
+    </div>
+
 ### University of Science and Technology Beijing
 + B.E. in Automation, School of Advanced Engineering, 2019.09-now
 + B.E. in Biotechnology, School of Chemistry and Biological Engineering, 2020.09-now
+</div>
+
+
+<div style="display: flex">
+<div style="flex-direction: row-reverse">
+        ![Central South University](image url)
+    </div>
 
 ### Central South University
 + Exchange Student, School of Automation, 2021.09-2022.01
+</div>
 
 A data-driven personal website
 ======
