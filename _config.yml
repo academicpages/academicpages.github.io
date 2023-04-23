@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Lei Hu"
   avatar           : "profile.png"
-  bio              : "Undergraduate Student <br> [<a href='https://air.tsinghua.edu.cn//'>Research intern at AIR</a>]"
+  bio              : "Undergraduate Student <br> Research intern at [<a href='https://air.tsinghua.edu.cn//'>AIR</a>]"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "41918117@xs.ustb.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

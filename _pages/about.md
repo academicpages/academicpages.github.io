@@ -14,6 +14,15 @@ Previously, I have been fortunate enough to have opportunities to conduct resear
 
 I will join the [School of Life Science, Westlake University](http://sls.westlake.edu.cn) in August 2023 as a Ph.D. Student. Feel free to email me for rotation if you are interested.
 
+Education
+======
+### University of Science and Technology Beijing
++ B.E. in Automation, School of Advanced Engineering, 2019.09-now
++ B.E. in Biotechnology, School of Chemistry and Biological Engineering, 2020.09-now
+
+### Central South University
++ Exchange Student, School of Automation, 2021.09-2022.01
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
