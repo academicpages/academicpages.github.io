@@ -12,6 +12,7 @@ I am a Ph.D. student studying machine learning under Prof. [Maciej Mazurowski](h
 
 ## Representative Publications
 
+- Mazurowski, M. A., Dong, H., Gu, H., Yang, J., **Konz, N.** and Zhang, Y. "Segment Anything Model for Medical Image Analysis: an Experimental Study". *arXiv 2023*. [Link](https://arxiv.org/abs/2304.10517)
 - **Konz, N.** and Mazurowski, M. A. "Reverse Engineering Breast MRIs: Predicting Acquisition Parameters Directly from Images". *Medical Imaging with Deep Learning (MIDL) 2023*. [Link](https://arxiv.org/abs/2303.04911)
 - **Konz, N.**, et al. "A Competition, Benchmark, Code and Data for Using Artificial Intelligence to Detect Lesions in Digital Breast Tomosynthesis". *JAMA Network Open 2023*. [Link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2801740)
 - **Konz, N.**, Gu, H., Dong, H. and Mazurowski, M. A. "The Intrinsic Manifolds of Radiological Images and their Role in Deep Learning". *The International Conference of Medical Image Computing and Computer Assisted Intervention (MICCAI) 2022*. [Link](https://arxiv.org/abs/2207.02797)
