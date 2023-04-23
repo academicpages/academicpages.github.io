@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Lei Hu"
-  avatar           : "LeiHu.png"
+  avatar           : "profile.png"
   bio              : "Undergraduate Student <br> [<a href='https://air.tsinghua.edu.cn//'>Research intern at AIR</a>]"
   location         : "Beijing, China"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "dbinary"
   google_plus      :
   keybase          :
   instagram        :
