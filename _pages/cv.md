@@ -11,13 +11,11 @@ redirect_from:
 
 Education
 ======
-
 * B.S. in  University of Michigan - Shanghai Jiao Tong University Joint Institute, 2018 - 2022
 * M.S. in Johns Hopkins University, 2022 - present
 
 Work experience
 ======
-
 * Dec 2019 - Sept 2021: Research Assistant & Assistant Lab Manager
   * University of Michigan - Shanghai Jiao Tong University Joint Institute
   * Duties included: Merging pull requests
@@ -35,7 +33,6 @@ Work experience
 
 Skills
 ======
-
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
