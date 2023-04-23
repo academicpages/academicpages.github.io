@@ -8,7 +8,7 @@ redirect_from:
   - /about.html  
 ---
 
-My name is Z. Sun, a PhD candidate at UCL. I am lucky to be supervised by Prof. [F-X Briol]() and Prof. [J-H Xue](). My research is mainly funded by EPSRC and UCL jointly; and partially by The Alan Turing Institute.
+My name is Z. Sun, a PhD candidate at UCL. I am lucky to be supervised by Prof. [F-X Briol]()(main supervisor) and Prof. [J-H Xue](). My research is mainly funded by EPSRC and UCL jointly; and partially by The Alan Turing Institute.
 
 
 
