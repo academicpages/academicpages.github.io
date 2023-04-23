@@ -36,12 +36,13 @@ Research
 
 Engineering projects
 ======
-* C-7 times, H-1 time, X-1 time
+* C 7-times, H 1-time, X 1-time
 
 Contests
 ======
 * Open-Source Industrial Software Integration Competition, 2023
-  * Collaborated with Xudong Jiang, and supervised by Prof. Xu Guo and Prof. Chang Liu
+  * Collaborated with Xudong Jiang
+  * Supervised by Prof. Xu Guo and Prof. Chang Liu
 * Team game in International Engineering Mechanics Contest, 2019
   * Collaborated with Chaoqi Gao and Xiaoqing Zhou
 * Competition of Experimental Mechanics, 2017

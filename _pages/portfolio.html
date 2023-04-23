@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+Constructing...
 {% assign sorted-portfolio = site.portfolio | sort: 'date' | reverse %}
 {% for post in sorted-portfolio limit:20 %}
   {% include archive-single.html %}
