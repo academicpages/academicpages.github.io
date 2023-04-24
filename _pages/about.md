@@ -28,7 +28,6 @@ I am committed to promoting open and collaborative science, and enjoy sharing my
     justify-content: space-between;
   }
 
-  /* 通用列样式 */
   .column {
     padding: 20px;
     box-sizing: border-box;
@@ -36,23 +35,19 @@ I am committed to promoting open and collaborative science, and enjoy sharing my
     vertical-align: top;
   }
 
-  /* 左侧容器样式 */
   .column-left {
     flex: 3;
   }
 
-  /* 中间容器样式 */
   .column-middle {
     flex: 4;
     background-color: #fff;
   }
 
-  /* 右侧容器样式 */
   .column-right {
     flex: 3;
   }
 
-  /* 调整学校名称的样式 */
   .school-name {
     font-size: 14px;
     margin-top: 0;
@@ -60,13 +55,11 @@ I am committed to promoting open and collaborative science, and enjoy sharing my
     font-weight: bold;
   }
 
-  /* 调整学校信息的样式 */
   .school-info {
     margin-top: 0;
     margin-bottom: 15px;
   }
 
-  /* 调整兴趣列表的样式 */
   .interests {
     margin-top: 0;
     margin-bottom: 15px;
