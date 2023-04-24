@@ -12,7 +12,7 @@ Hi, I am a fourth-year Ph.D. candidate from the Department of Engineering Mechan
 
 Currently, I am doing research about the analysis, simulation, design, and optimization of complex surface structures. Based on the explicit structure optimization method, we construct a general framework to design surface structures, applications include the lightweight design of shell structures, stiffness enhancement of thin-walled structures, and structural control of bio-membranes and low-dimensional materials. The algorithms developed have been successfully applied to specific engineering projects and integrated into softwares.
 
-If you are interested in my research, please feel free to contact me. [Email](mailto:huowd@mail.dlut.edu.cn) / [Wechat](../images/wechat_fig.png) / [QQ](../images/tencent_qq.png)
+Feel free to contact me if you are interested in my research. [Email](mailto:huowd@mail.dlut.edu.cn) / [Wechat](../images/wechat_fig.png) / [QQ](../images/tencent_qq.png)
 
 <!-- You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). -->
 
