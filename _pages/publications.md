@@ -70,7 +70,7 @@ Tisch, Daria, [Manuel Schechtl](https://schechtl.github.io/): The Gender (Tax) G
 
 [Schechtl, Manuel](https://schechtl.github.io/), Daria Tisch, [Nhat An Trinh](https://natrinh.github.io/): Distributive Principles in Intergenerational Transfers by Asset Type
 
-[Nutz, Theresa](https://theresanutz.github.io/), Daria Tisch, & [Kapelle, Nicole](https://nkapelle.github.io/): Gendered pathways to wealth: Gender differences in the self-assessed relevance of different accumulation channels across the wealth distribution.
+[Nutz, Theresa](https://theresanutz.github.io/), Daria Tisch, & [Kapelle, Nicole](https://nkapelle.github.io/): Gendered pathways to wealth: The self-assessed relevance of different accumulation channels across the wealth distribution
 
 Tisch, Daria, [Franziska Pradel](https://www.hfp.tum.de/digitalgovernance/team/dr-franziska-pradel-sinaci/): How can the social sciences benefit from knowledge graphs? A case study on using Wikidata and Wikipedia to examine the world’s billionaires. [Under Review](https://www.semantic-web-journal.net/system/files/swj3370.pdf)
 
