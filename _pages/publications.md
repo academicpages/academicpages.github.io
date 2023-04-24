@@ -18,6 +18,11 @@ author_profile: true
 
 
 ## Conference Papers
+
+<b>[Probabilistic Masked Attention Networks for Next-item Recommendation.](??)
+</b><br>Huiyuan Chen, Kaixiong Zhou, <b>Zhimeng Jiang</b>, Michael Yeh, Xiaoting Li, Menghai Pan, Yan Zheng, Xia Hu, Hao Yang. <br>
+International Joint Conference on Artificial Intelligence (**IJCAI**), 2023.
+
 <b>[Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs.](??)
 </b><br>Junnan Dong, Qinggang Zhang, Xiao Huang, Keyu Duan, Qiaoyu Tan, <b>Zhimeng Jiang</b>. <br>
 The Web Conference (formerly WWW), 2023.
@@ -88,10 +93,6 @@ Under review, 2022 -->
 
 <!-- <b>[Towards Mitigating Dimensional Collapse of Representations in Collaborative Filtering.](??)
 </b><br>Huiyuan Chen, Mahashweta Das, Vivian Lai, <b>Zhimeng Jiang</b>, Hongye Jin, Xia Hu, Chin-Chia Michael Yeh, Yan Zheng, Hao Yang. <br>
-Under review, 2022
-
-<b>[Probabilistic Masked Attention Networks for Next-item Recommendation.](??)
-</b><br>Huiyuan Chen, Kaixiong Zhou, Xiaoting Li, Menghai Pan, <b>Zhimeng Jiang</b>, Michael Yeh, Yan Zheng, Xia Hu, Hao Yang. <br>
 Under review, 2022
 
 <!-- <b>[Fair Contrastive Learning by Clamped Mutual Information Maximization.](??)
