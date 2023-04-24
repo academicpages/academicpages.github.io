@@ -24,7 +24,7 @@ Research
 
 [New age with Foundation Models](/largemodels/)
 
-[Efficient Learning System for Voxel Images](/efficientmodels/)
+[Efficient Representation for Voxel Images](/efficientmodels/)
 
 Activities
 ------

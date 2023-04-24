@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in BME, Northeastern University & Chinese Academy of Science, Shenyang, gpa: 3.90; rank 1/116, 2015
+* Ph.D in EE, Shanghai Jiao Tong University, National Scholarship (top 2%), 2019
 
 Work experience
 ======
