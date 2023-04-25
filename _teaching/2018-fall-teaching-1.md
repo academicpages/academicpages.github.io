@@ -8,11 +8,7 @@ date: 2018-12-11
 location: "Yunnan, China"
 ---
 
-As a **Teacher and Coordinator** for the Support Teaching Program at Eryuan County Primary School from December 2018 to January 2019, I focused on enhancing the English teaching experience for students and staff across four schools in the county.
-
-Affiliation: Miyuan Youth Volunteer Team
-======
-The Support Teaching Program was conducted in affiliation with the **Miyuan Youth Volunteer Team** of UM-SJTU Joint Institute (JI). The team, inspired by the spirit of "JI Youth," is active in various activities both inside and outside the school. They have organized regular events such as "Rongjun Yuan – serving veterans," "Sunshine Disabled Home," and special initiatives like the volunteer teaching program in Yunnan, which has been running for 13 years. The team offers JI students numerous opportunities for volunteering and is composed of three departments: the organization & liaison department, the news & publicity department, and the human resources department.
+As a **Teacher and Coordinator** for the Support Teaching Program at Eryuan County Primary School from December 2018 to January 2019, I focused on enhancing the English teaching experience for students and staff across four schools in the county. The Support Teaching Program was conducted in affiliation with the **Miyuan Youth Volunteer Team** of UM-SJTU Joint Institute (JI).
 
 Program Overview
 ======
