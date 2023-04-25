@@ -22,44 +22,36 @@ I am committed to promoting open and collaborative science, and enjoy sharing my
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
-  /* 容器样式 */
   .container {
     display: flex;
     justify-content: space-between;
   }
-
   .column {
     padding: 20px;
     box-sizing: border-box;
     background-color: #f5f5f5;
     vertical-align: top;
   }
-
   .column-left {
     flex: 3;
   }
-
   .column-middle {
     flex: 4;
     background-color: #fff;
   }
-
   .column-right {
     flex: 3;
   }
-
   .school-name {
     font-size: 14px;
     margin-top: 0;
     margin-bottom: 5px;
     font-weight: bold;
   }
-
   .school-info {
     margin-top: 0;
     margin-bottom: 15px;
   }
-
   .interests {
     margin-top: 0;
     margin-bottom: 15px;
@@ -107,4 +99,3 @@ I am committed to promoting open and collaborative science, and enjoy sharing my
 
 </body>
 </html>
-
