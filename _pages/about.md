@@ -19,6 +19,8 @@ News
 =====
 <!-- <div style="height: 150px; overflow-y: scroll;">  -->
 <!-- <div style="height:350px;overflow:auto;background:#f6f6f6;"> -->
+**Apr. 2023:** Two papers on Memory Efficient Training and Graph Augmentation are accepted by ICML 2023.
+
 **Apr. 2023:** One paper on Probabilistic Masked Attention Networks is accepted by IJCAI 2023.
 
 **Mar. 2023:** Invited to serve as a PC member of NeurIPS 2023, and reviewer for Neurocomputing.

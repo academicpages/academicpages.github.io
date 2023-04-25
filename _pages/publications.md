@@ -19,6 +19,14 @@ author_profile: true
 
 ## Conference Papers
 
+<b>[DIVISION: Memory Efficient Training via Dual Activation Precision.](??)
+</b><br>Guanchu Wang, Zirui Liu, <b>Zhimeng Jiang</b>, Ninghao Liu, Na Zou, Xia Hu <br>
+International Conference on Machine Learning (**ICML**), 2023. 
+
+<b>[Graph Mixup with Soft Alignments.](??)
+</b><br>Hongyi Ling, <b>Zhimeng Jiang</b>, Meng Liu, Shuiwang Ji, Na Zou. <br>
+International Conference on Machine Learning (**ICML**), 2023. 
+
 <b>[Probabilistic Masked Attention Networks for Next-item Recommendation.](??)
 </b><br>Huiyuan Chen, Kaixiong Zhou, <b>Zhimeng Jiang</b>, Michael Yeh, Xiaoting Li, Menghai Pan, Yan Zheng, Xia Hu, Hao Yang. <br>
 International Joint Conference on Artificial Intelligence (**IJCAI**), 2023.
@@ -77,14 +85,6 @@ Under review, 2022
 
 <b>[Do We Really Achieve Fairness with Explicit Sensitive Atrributes?](??)
 </b><br>Xiaotian Han, <b>Zhimeng Jiang</b>, Ninghao Liu, Na Zou, Qifan Wang, Xia Hu <br>
-Under review, 2022
-
-<b>[DIVISION: Memory Efficient Training via Dual Activation Precision.](??)
-</b><br>Guanchu Wang, Zirui Liu, <b>Zhimeng Jiang</b>, Ninghao Liu, Na Zou, Xia Hu <br>
-Under review, 2022
-
-<b>[Graph Mixup with Soft Alignments.](??)
-</b><br>Hongyi Ling, <b>Zhimeng Jiang</b>, Meng Liu, Shuiwang Ji, Na Zou. <br>
 Under review, 2022
 
 <b>[Towards Generating Adversarial Examples on Mixed-type Data.](??)
