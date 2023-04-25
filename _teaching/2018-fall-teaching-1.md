@@ -14,7 +14,7 @@ Program Overview
 ======
 The Support Teaching Program aimed to improve the quality of English education for over 800 students by researching and implementing innovative teaching methods. The project was supported by the Miyuan Youth Volunteer Team of UM-SJTU Joint Institute (JI).
 
-My Responsibilities
+Responsibilities
 ======
 During my time with the program, I took on the following responsibilities:
 
@@ -23,6 +23,9 @@ During my time with the program, I took on the following responsibilities:
 3. **Training** teachers in the new teaching methods and providing ongoing support.
 4. **Coordinating** between the four schools involved in the program to ensure a consistent learning experience.
 5. **Assessing** the success of the program through student performance and feedback.
+6. **Improving** students' spoken English and pronunciation.
+7. **Collaborating** with teachers on incorporating modern technology, such as internet resources, computer videos, and other digital tools to enhance teaching quality.
+8. **Contributing** to the design of the final English exam, which demonstrated significant improvement in students' English proficiency.
 
 Outcomes and Achievements
 ======
@@ -32,6 +35,8 @@ The Support Teaching Program at Eryuan County Primary School led to several nota
 - Increased student engagement in English classes.
 - Enhanced teacher confidence in implementing new teaching methods and techniques.
 - Fostered collaboration and knowledge sharing between the four schools.
+- Boosted students' spoken English and pronunciation skills.
+- Successfully integrated multimedia education into the teaching process.
 
 ![Support Teaching Program at Eryuan County Primary School](/images/teaching-1.jpg)
-_Caption: Teaching an English class during the Support Teaching Program at Eryuan County Primary School._
+_Group photo after an English class during the Support Teaching Program at Eryuan County Primary School._
