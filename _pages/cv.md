@@ -67,10 +67,10 @@ Service and leadership
 Service and leadership
 ======
 Served as manuscript reviewer for the following journals:\
-[Materials Characterization](https://www.sciencedirect.com/journal/materials-characterization)
-[Journal of Manufacturing Processes](https://www.sciencedirect.com/journal/journal-of-manufacturing-processes)
-[Journal of Materials Science & Technology](https://www.sciencedirect.com/journal/journal-of-materials-science-and-technology)
-[Journal of Materials Engineering and Performance](https://www.springer.com/journal/11665)
+[Materials Characterization](https://www.sciencedirect.com/journal/materials-characterization)\
+[Journal of Manufacturing Processes](https://www.sciencedirect.com/journal/journal-of-manufacturing-processes)\
+[Journal of Materials Science & Technology](https://www.sciencedirect.com/journal/journal-of-materials-science-and-technology)\
+[Journal of Materials Engineering and Performance](https://www.springer.com/journal/11665)\
 [Journal of Materials Processing Technology](https://www.sciencedirect.com/journal/journal-of-materials-processing-technology)
 
 Graduate Coursework
