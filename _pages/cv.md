@@ -7,7 +7,10 @@ redirect_from:
   - /resume
 ---
 
-{% include files/paper1.pdf %}
+{% include base_path %}
+
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/files/paper1.pdf)
 
 Education
 ======
