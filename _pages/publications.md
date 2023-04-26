@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research, Publications, and Hands-on Demos"
+title: "Research and Publications"
 permalink: /publications/
 author_profile: true
 ---
