@@ -51,30 +51,33 @@ Other
 
 Tisch, Daria (2021) "[Perceptions of Gender Wealth Inequalities within the Family](https://kups.ub.uni-koeln.de/52697/)". Dissertation. 
 
+Working papers
+======
+
+Tisch, Daria, [Emma Ischinsky](https://www.mpifg.de/person/114263/2721) (2023): [Top Wealth and Its Historical Origins. An Analysis of Germany’s Largest Privately Held Fortunes in 2019](https://pure.mpg.de/rest/items/item_3506276_2/component/file_3506906/content). MPIfG Discussion Paper 23/1. Köln: Max-Planck-Institut für Gesellschaftsforschung, 2023
+
+Tisch, Daria, [Manuel Schechtl](https://schechtl.github.io/) (2023): [The Gender (Tax) Gap in Parental Transfers. Evidence from administrative inheritance and gift tax data](https://osf.io/preprints/socarxiv/kfetw/). Stone Center Working Paper Series. no. 68
+
 
 Work in progress
 ======
 
 [Urbina, Daniela R.](https://www.danielaurbina.com/), Daria Tisch: Division of Housework and Perceptions of Fairness: What Justifies Unequal Housework Arrangements?
 
+[Schechtl, Manuel](https://schechtl.github.io/), Daria Tisch, [Nhat An Trinh](https://natrinh.github.io/): Dynastic inheritance
 
-Tisch, Daria, [Emma Ischinsky](https://www.mpifg.de/person/114263/2721): [Top wealth and its origins](https://dariatisch.github.io/mm2019_presentation). An analysis of Germany’s Largest Fortunes 2019
+[Nutz, Theresa](https://theresanutz.github.io/), Daria Tisch, & [Kapelle, Nicole](https://nkapelle.github.io/): Gendered pathways to wealth: The self-assessed relevance of different accumulation channels across the wealth distribution
 
+Tisch, Daria, [Franziska Pradel](https://www.hfp.tum.de/digitalgovernance/team/dr-franziska-pradel-sinaci/): How can the social sciences benefit from knowledge graphs? A case study on using Wikidata and Wikipedia to examine the world’s billionaires. [Under Open Review](https://www.semantic-web-journal.net/system/files/swj3370.pdf)
+
+Tisch, Daria, [Manuel Schechtl](https://schechtl.github.io/): [Gender differences in parental wealth transfers](https://dariatisch.github.io/presentation_ifb). Evidence from inheritance and gift tax data
+
+[Emma Ischinsky](https://www.mpifg.de/person/114263/2721), Daria Tisch: Women in the Global Super Rich. An analysis of the Forbes World’s Billionaires List, 2010 - 2022
 
 Tisch, Daria: Preservation of large fortunes over multiple generations in Germany <!--  (https://dariatisch.github.io/presentation_potsdam) -->: How do elite family networks relate to wealth preservation in Germany?
 
 
-Tisch, Daria, [Manuel Schechtl](https://schechtl.github.io/): The Gender (Tax) Gap in Parental Transfers. Evidence from administrative inheritance and gift tax data
 
-
-
-[Schechtl, Manuel](https://schechtl.github.io/), Daria Tisch, [Nhat An Trinh](https://natrinh.github.io/): Distributive Principles in Intergenerational Transfers by Asset Type
-
-[Nutz, Theresa](https://theresanutz.github.io/), Daria Tisch, & [Kapelle, Nicole](https://nkapelle.github.io/): Gendered pathways to wealth: The self-assessed relevance of different accumulation channels across the wealth distribution
-
-Tisch, Daria, [Franziska Pradel](https://www.hfp.tum.de/digitalgovernance/team/dr-franziska-pradel-sinaci/): How can the social sciences benefit from knowledge graphs? A case study on using Wikidata and Wikipedia to examine the world’s billionaires. [Under Review](https://www.semantic-web-journal.net/system/files/swj3370.pdf)
-
-Tisch, Daria, [Manuel Schechtl](https://schechtl.github.io/): [Gender differences in parental wealth transfers](https://dariatisch.github.io/presentation_ifb). Evidence from inheritance and gift tax data
 
 
 
