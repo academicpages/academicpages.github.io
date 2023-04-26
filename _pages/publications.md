@@ -7,13 +7,17 @@ author_profile: true
 
 ## Working Paper
 
+
+
+## 2023
+
 * [Searching Large Neighborhoods for Integer Linear Programs with Contrastive Learning.](https://arxiv.org/pdf/2302.01578.pdf)                     
     **Taoan Huang**, Aaron Ferber, Yuandong Tian, Bistra Dilkina and Benoit Steiner.    
+    <i>The 40th International Conference on Machine Learning (**ICML**)</i>, 2023 (in print).
 
 * [SurCo: Learning Linear Surrogates For Combinatorial Nonlinear Optimization Problems](https://arxiv.org/pdf/2210.12547.pdf).                     
    Aaron Ferber, **Taoan Huang**, Daochen Zha, Martin Schubert, Benoit Steiner, Bistra Dilkina and Yuandong Tian.  
-
-## 2023
+   <i>The 40th International Conference on Machine Learning (**ICML**)</i>, 2023 (in print).
 
 * [Deadline-Aware Multi-Agent Tour Planning](https://taoanhuang.github.io/files/ICAPS23.pdf).                     
     **Taoan Huang**, Vikas Shivashankar, Michael Caldara, Joseph Durham, Jiaoyang Li, Bistra Dilkina and Sven Koenig.    
