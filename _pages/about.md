@@ -17,6 +17,3 @@ and got my master's degree in Economics.
 Currently, I am at UCSB in the PhD program in economics 
 with my interest in Experimental Economics, and Belief Updating. 
 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
