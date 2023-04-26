@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+{% include files/paper1.pdf %}
 
 Education
 ======
