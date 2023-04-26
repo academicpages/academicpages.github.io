@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 
 * B.S. in  University of Michigan - Shanghai Jiao Tong University Joint Institute, 2018 - 2022
 * M.S. in Johns Hopkins University, 2022 - present
 
 Work experience
-======
+------
 
 * Dec 2019 - Sept 2021: Research Assistant & Assistant Lab Manager
   * University of Michigan - Shanghai Jiao Tong University Joint Institute, AMIS Lab
@@ -33,7 +33,7 @@ Work experience
   * Supervisor: Dr. Axel Krieger
 
 Skills
-======
+------
 
 * Soft robotics system design and control
   * design, prototype and control of soft robotic system <!-- : Solidworks, 3D printing, Arduino, Python -->
@@ -44,20 +44,20 @@ Skills
 <!-- * Skill 3 -->
 
 Publications
-======
+------
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Teaching
-======
+------
 
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
+Service and Leadership
+------
 
-* Currently signed in to 43 different slack teams
+During my time in college, I served as a **senior executive** in the student union and actively organized various school activities. I also participated in volunteer activities organized by the school, earning positive evaluations and recognition from teachers and students.
