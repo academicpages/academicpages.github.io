@@ -6,5 +6,5 @@ date: 2022-03-03
 venue: 'SIGCSE'
 paperurl: https://dl.acm.org/doi/abs/10.1145/3478432.3499071
 pdf: '/files/3478432.3499071.pdf'
-citation: 'Caskurlu, S., <b><u>Hu, A.D.</u></b>, Yadav, A., & Santo, R. (2022). Computational Thinking Integration Design Principles in Humanities. Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2.'
+citation: 'Caskurlu, S., <b><u>Hu, A. D.</u></b>, Yadav, A., & Santo, R. (2022). Computational Thinking Integration Design Principles in Humanities. Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2.'
 ---
