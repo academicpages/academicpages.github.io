@@ -6,6 +6,8 @@ author_profile: true
 
 **2023**
 
+* Annual PhD and Early Career Researcher Workshop, Canadian Resource and Environmental Economics Association, Winnipeg, Manitoba
+* Annual Conference of the Canadian Economics Association, University of Winnipeg and University of Manitoba
 * International Conference on Public Policy Design, University of Miami
 * Conference on Policy Process Research, University of Denver School of Public
 Affairs
