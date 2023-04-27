@@ -1,7 +1,7 @@
 ---
 title: "Learning Your Own Risk Preferences"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2023-10-01-RiskAversion-number-3
 excerpt: 'Do people know their own risk preferences, or do risk choices change with experience and observation?'
 date: 2015-10-01
 venue: 'SSRN'
