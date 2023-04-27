@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://dariotrujanoochoa.github.io/files/CV_eng.pdf" type="application/pdf" width="100%" />
-
 Education
 ======
 * B.S. in Psychology, UNAM, 2013
@@ -67,3 +65,5 @@ Skills
 * Spanish: Native
 * Cumbia Dancer
 * Skateboard (for commuting)
+
+<embed src="https://dariotrujanoochoa.github.io/files/CV_eng.pdf" type="application/pdf" width="100%" />
