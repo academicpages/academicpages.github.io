@@ -16,4 +16,5 @@ processing it. This class was informed by a seminar held by [Professor Alyssa Ha
 who is an MSU alumn at UConn who studies trauma in educational settings.
 
 I also designed a [lesson connecting Wikipedia](/files/slides/te-150-wikipedia.pdf) to the course content by conceptualizing Wikipedia as a social constructivist tool.
-Students engaged in Wikipedia editing during class and reflected on how editor bias affects the world.  
+Students engaged in Wikipedia editing during class and reflected on how editor bias affects the world.
+---
