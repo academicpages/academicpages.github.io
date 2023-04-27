@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
+
 I was born in Mexico City and studied my college and master's there.
 I got a bachelor's degree in Experimental Psychology, 
 studied a Specialization in Applied Statistics, 

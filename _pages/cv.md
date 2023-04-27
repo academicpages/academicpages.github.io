@@ -15,7 +15,7 @@ Education
 ======
 * B.S. in Psychology, UNAM, 2013
 * M.S. in Economics, CIDE, 2017
-* Ph.D student in Economics, UCSB, 2025 (expected)
+* Ph.D. student in Economics, UCSB, 2025 (expected)
 
 [//]: # (Work experience)
 
