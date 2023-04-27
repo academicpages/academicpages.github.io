@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a <del>first</del> second year Ph.D. in Computer Science at Georgia Institute of Technology. I am advised by <a href="https://www.cc.gatech.edu/home/orso/">Alex Orso</a> and <a href="http://vhellendoorn.github.io/">Vincent Hellendoorn</a>.
+I am a <del>first</del> second year Ph.D. in Computer Science at Georgia Institute of Technology. I am advised by <a href="https://www.cc.gatech.edu/home/orso/">Alex Orso</a>.
 
