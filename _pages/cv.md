@@ -23,18 +23,14 @@ Work experience
 * Jan 2021-Sep 2021: Machine Learning and Artificial Intelligence Analyst, Jakala
 * Teaching Assistant: General Mathematics, a.y. 2022-2023, Università Bocconi 
   
+  
+Skills
+======
+* Programming Languages: Python, Julia, C++
+* Languages: Italian (mothertongue), English (C1)
 
 
 <!---
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
