@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-**Professor visitante na Universidade Federal do ABC ([UFABC](https://www.ufabc.edu.br/))**
+**Pós-doc na [Universidade Estadual Paulista](https://www.feg.unesp.br/) (2023|202X)**
+**Professor visitante na [Universidade Federal do ABC](https://www.ufabc.edu.br/) (2020|2022)**
+
 
 ## Interesses de pesquisa:
 - Relatividade geral e teorias alternativas de gravitação;
