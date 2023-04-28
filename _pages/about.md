@@ -16,6 +16,7 @@ For more information, please refer to my [CV](https://ChenTangMark.github.io/fil
 
 News 
 ======
+- 04/2023: I am selected as one of the 30 Robotics Pioneers for the RSS Pioneers Workshop 2023!
 - 03/2023: I will serve as an associate editor for IEEE Intelligent Transportation Systems Conference 2022.
 - 03/2023: Our paper "Double-Iterative Gaussian Process Regression for Modeling Error Compensation in Autonomous Racing" is accepted by IFAC World Congress 2023.
 - 11/2022: We are organizing the [Workshop on the Development of Socially-compliant Driving Behaviour for Automated Vehicles](https://sites.google.com/berkeley.edu/iv2023/) at IV 2023!
