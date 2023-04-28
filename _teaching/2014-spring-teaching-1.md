@@ -1,15 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-2023
-venue: "Università Bocconi, Department"
-date: 2023-04-28
+venue: "Università Bocconi"
+date: 2022-04-28
 location: "Milano, Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Teaching Assistant
+General mathematics
 ======
-General Mathematics
+In the a.y. 2022-2023 I was teaching assistant for the undegraduate course of General Mathematics at Università Bocconi.
