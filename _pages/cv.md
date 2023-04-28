@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+[link to full CV](https://beatriceachilli.github.io/files/Curriculum_Vitae_Achilli.pdf)
 
 Education
 ======
@@ -19,11 +20,10 @@ Education
 
 Work experience
 ======
-* Jan 2021-Jul 2021: Machine Learning and Artificial Intelligence Analyst
-  * Jakala
+* Jan 2021-Sep 2021: Machine Learning and Artificial Intelligence Analyst, Jakala
+* Teaching Assistant: General Mathematics, a.y. 2022-2023, Università Bocconi 
+  
 
-
-[CV](https://beatriceachilli.github.io/files/Curriculum_Vitae_Achilli.pdf)
 
 <!---
 Skills
