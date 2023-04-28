@@ -12,6 +12,12 @@ redirect_from:
 News
 ======
 
+I am nominated as a finalist in the ImmerseUK Awards. I will be presenting a prototype of my research on the 10th of May at the ARUP HQs, in London, at the [Immerse UK Awards Reception](https://iuk.ktn-uk.org/events/immerse-uk-awards-reception/).
+
+![Immerse UK Awards Banner](/images/immerse_finalist.jpg "Me as a finalist in the ImmerseUK Awards")
+
+---
+
 I was awarded the Outstanding TIGA Post Graduate of the Year.
 
 ![TIGA Post Graduate of the Year Certificate](/images/TIGA.jpg "TIGA Post Graduate of the Year Certificate")
