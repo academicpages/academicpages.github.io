@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 **Pós-doc na [Universidade Estadual Paulista](https://www.feg.unesp.br/) (2023|202X)**
+
 **Professor visitante na [Universidade Federal do ABC](https://www.ufabc.edu.br/) (2020|2022)**
 
 
