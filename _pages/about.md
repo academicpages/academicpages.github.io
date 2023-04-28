@@ -16,16 +16,19 @@ For more information, please refer to my [CV](https://ChenTangMark.github.io/fil
 
 News 
 ======
-- 07/2022: We are organizing the [workshop on Progress and Challenges in Building Trustworthy Embodied AI](https://sites.google.com/berkeley.edu/trustworthy-embodied-ai/home) at NeurIPS 2022! 
+- 03/2023: I will serve as an associate editor for IEEE Intelligent Transportation Systems Conference 2022.
+- 03/2023: Our paper "Double-Iterative Gaussian Process Regression for Modeling Error Compensation in Autonomous Racing" is accepted by IFAC World Congress 2023.
+- 11/2022: We are organizing the [Workshop on the Development of Socially-compliant Driving Behaviour for Automated Vehicles](https://sites.google.com/berkeley.edu/iv2023/) at IV 2023!
+- 07/2022: We are organizing the [Workshop on Progress and Challenges in Building Trustworthy Embodied AI](https://sites.google.com/berkeley.edu/trustworthy-embodied-ai/home) at NeurIPS 2022! 
 - 07/2022: [One paper](https://arxiv.org/abs/2204.10435) on trajectory prediction pretraining is accepted by ECCV 2022. 
 - 06/2022: Selected for [DSCD Rising Stars Invited Talks](https://mecc2022.a2c2.org/events.html) at MECC 2022. 
 - 06/2022: Three papers are accepted by IROS 2022. 
 - 06/2022: [One paper](https://arxiv.org/abs/2205.11790) on hierarchical offline RL is accepted by RA-L.
 - 05/2022: Successfully defended my dissertation titled "Designing Explainable Autonomous Driving System for Trustworthy Interaction". 
-- 05/2022: Associate editor of IEEE Intelligent Transportation Systems Conference 2022.
+- 05/2022: I will serve as an associate editor for IEEE Intelligent Transportation Systems Conference 2022.
 - 09/2021: [One paper](https://https://proceedings.neurips.cc/paper/2021/hash/47951a40efc0d2f7da8ff1ecbfde80f4-Abstract.html) on behavior prediction is accepted by NeurIPS 2021. 
 - 09/2021: [One paper](https://openreview.net/forum?id=ftOqDUeLPn3) on conservative offline RL is accepted by CoRL 2021.
-- 05/2021: Associate editor of IEEE Intelligent Transportation Systems Conference 2021.
+- 05/2021: I will serve as an associate editor for IEEE Intelligent Transportation Systems Conference 2021.
 - 05/2021: Co-organizing [IROS MAIR2 Workshop on Multi-Agent Interaction and Relational Reasoning](https://iros.mair2.com).
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=242&t=tt&d=Q1yW8jptJkglt9B8P4pPlsyIvxsBTzAGl1DZEEGoTq0"></script>
