@@ -1,5 +1,5 @@
 ---
-title: "WRS105"
+title: "WRS 105"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-teaching-1
