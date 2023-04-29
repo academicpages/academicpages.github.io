@@ -1,7 +1,7 @@
 ---
 title: "WRS 106"
 collection: teaching
-type: 
+type: "Undergraduate course"
 permalink: /teaching/2023-spring-teaching-2
 venue: "University of Miami"
 date: Spring 2023
