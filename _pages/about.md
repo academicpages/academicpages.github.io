@@ -18,11 +18,13 @@ I received my PhD degree in Mechanical Engineering, specializing in robotics con
 
 **Recent News:**
 
-[April, 2023](https://youtu.be/s5qTAvRGYIo): One major limitation of the submitted works is that the data used for modeling human-driven vehicles was collected in a human-in-the-loop simulator, which may not fully capture real-world driving conditions. To overcome this limitation, we are currently collecting data through field experiments, which will improve the quality of our models and enhance their applicability in real-world settings. A preliminary field experiment video is available for viewing at https://youtu.be/s5qTAvRGYIo.
+[April, 2023](https://youtu.be/s5qTAvRGYIo): One major limitation of the submitted works is that the data used for modeling human-driven vehicles was collected in a human-in-the-loop simulator, which may not fully capture real-world driving conditions. To overcome this limitation, we are currently collecting data through field experiments, which will improve the quality of our models and enhance their applicability in real-world settings. A preliminary field experiment video is available for viewing at [Field Experiment Data Collection for Human-Driven Vehicle Modeling](
+https://youtu.be/s5qTAvRGYIo).
 
 <div style="text-align: center">
-  <img src="https://jwangjie.github.io/publications/publications/car_platooning_dji.gif" width="70%" height="auto" />
+  <img src="https://jwangjie.github.io/publications/publications/car_platooning_dji.gif" width="80%" height="auto" />
 </div>
+<br>
 
 [March, 2023](https://scholar.google.ca/citations?hl=en&user=BI7jiWQAAAAJ): Two papers, focused on developing learning-based models for human-autonomous vehicle interaction to enhance safety in mixed-vehicle platooning control, have been submitted to [IROS2023](https://arxiv.org/abs/2211.04665) and [RA-L](https://arxiv.org/abs/2303.09452). The codes can be accessed at [GP-MPC-of-Platooning](https://github.com/CL2-UWaterloo/GP-MPC-of-Platooning). 
 
