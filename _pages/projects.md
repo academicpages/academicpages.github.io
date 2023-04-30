@@ -7,37 +7,42 @@ redirect_from:
   - /projects
 ---
 
-## Dreaming the Cyborg: Technoableism & New Media
+## Shakesprean Adaptation in Asia
 
 ## Description 
 
-Note: This project grew out of a seminar paper for Dr. Tim Watson’s “Contemporary Criticism & Theory” course in the Fall of 2022. With Dr. Watson’s feedback and Dr. Lindsay Thomas’s guidance in data collection methods, I adapted the paper into a multi-modal project for an upcoming conference at Texas Tech University: *The Humanities Center at Texas Tech Annual Conference 2023: “Health.”*
+This project 
+
 
 ### Abstract 
-This project will explore manifestations of technoableism in online discourse, and in turn, ask how disabled writers and activists respond critically to the notion that technology will eventually eliminate disability. It will draw upon analyses from my own working dataset, which aims to showcase trends based on data from the Twitter API and metadata from TikTok.  In addition, it will draw upon theorization from disability scholars such as Cy. Jillian Weise, Ashley Shew, and Leah Lakshmi Piepenza-Samarasinha. Weise’s concept of the “tryborg” will give way to an analysis of online portrayals of “bio-hacking” by able-bodied people. Shew’s understanding of “technoableism” will then serve as a means to assess the consequences of said portrayals. Finally, Piepzna-Samarasinha’s *The Future is Disabled* will offer language to grapple with disabled becomings. Because I am diabetic, this project will first draw heavily on discourse around diabetes technology in the context of social media. However, I will then branch out to explore wider forms of both ableism and resistance relating both to technology. Finally, I will assess how contemporary creative forms imagine and offer futures in which disabled people exist within the center. 
 
-Keywords: *disability, technofuturism, ableism, technoableism, technology, pandemic*
+
+Keywords: *Shakespeare, adaptation, Asia, mapping, GIS*
 
 
 ### Bibliography 
 
-Bowen, Liz. *Compassion Fountain.* Trembling Press, 2022.
+Bodenhamer, David J., et al. *The Spatial Humanities: GIS and the Future of Humanities Scholarship,* Indiana University Press, 2010.</br>
 
-Brilmyer, Gracen, and Crystal Lee. “Terms of Use: Crip Legibility in Information Systems.” *First Monday,* February 3, 2023. 
-	[https://doi.org/10.5210fm.v28i1.12935](https://doi.org/10.5210fm.v28i1.12935).
-  
-Freelon, Deen. “Dfreelon/Pyktok.” Python, April 12, 2023. [https://github.com/dfreelon/pyktok](https://github.com/dfreelon/pyktok)
+Cooper, David, et al. *Literary Mapping in the Digital Age,* Routledge, 2016. miami-primo.com, http://www.miami.eblib.com/EBLWeb/patron/?target=patron&extendedid=P_4530518_0.</br>
+</br>
 
-Hong, Sun-Ha. “Predictions without Futures,” *History and Theory,* ed. Ethan Kleinberg, Wiley Online Library. [https://onlinelibrary-wiley-com.access.library.miami.edu/doi/full/10.1111/hith.12269](https://onlinelibrary-wiley-com.access.library.miami.edu/doi/full/10.1111/hith.12269). Accessed 23 Nov. 2022.
+Gil, Alex. "Design for Diversity: The Case of Ed," *The Design for Diversity Learning Toolkit,* 20 June 2019, https://des4div.library.northeastern.edu/design-for-diversity-the-case-of-ed-alex-gil/.</br>
+</br>
 
-Nario-Redmond, Michelle R., Dobromir Gospodinov, and Angela Cobb. “Crip for a Day: The Unintended Negative Consequences of Disability Simulations.” *Rehabilitation Psychology* 62, no. 3 (August 2017): [https://doi.org/10.1037/rep0000127](https://doi.org/10.1037/rep0000127).
+Gold, Matthew K., and Lauren F. Klein. “INTRODUCTION: A DH That Matters.” *Debates in the Digital Humanities 2019,* University of Minnesota Press, 2019.</br>
 
-Piepzna-Samarasinha, Leah Lakshmi. *The Future Is Disabled: Prophecies, Love Notes and Mourning Songs.* Arsenal Pulp Press, 2022.
+Kennedy, Dennis, and Li Lan Yong. *Shakespeare in Asia: Contemporary Performance,* Cambridge University Press, 2010.</br>
 
-Shew, Ashley. “Ableism, Technoableism, and Future AI” *IEEE Journals & *Magazine, IEEE Xplore.* Accessed April 22, 2023. [https://ieeexplore-ieee-org.access.library.miami.edu/document/9035527](https://ieeexplore-ieee-org.access.library.miami.edu/document/9035527).
+Kim, Daeyong Dan. “Shakespeare and Korea: Mutual Remappings.” *Essays and Studies,* vol. 70, 2017, pp. 72-85.</br>
 
-Shew, Ashley.  “How To Get A Story Wrong: Technoableism, Simulation, and Cyborg Resistance.” *Including Disability,* no. 1, 1, Mar. 2022, pp. 13–36. [https://ojs.scholarsportal.info/ontariotechu/index.php/id/article/view/169](https://ojs.scholarsportal.info/ontariotechu/index.php/id/article/view/169).
+Minami, Ryuta, and Poonam Trivedi. *Re-Playing Shakespeare in Asia,* Routledge, 2010.</br>
 
-“Tutorial/Workshop - Voyant Tools Help.” Accessed April 22, 2023. [https://voyant-tools.org/docs/#!/guide/tutorial](https://voyant-tools.org/docs/#!/guide/tutorial).
+Presner, Todd, and David Shepard. “Mapping the Geospatial Turn.” *A New Companion to Digital Humanities,* John Wiley & Sons, Ltd, 2015, pp. 199–212. miami-primo.com, https://doi.org/10.1002/9781118680605.ch14.</br>
 
-Weise, Jillian. “Opinion: The Dawn of the ‘Tryborg.’” *The New York Times,* November 30, 2016, [https://www.nytimes.com/2016/11/30/opinion/the-dawn-of-the-tryborg.html](https://www.nytimes.com/2016/11/30/opinion/the-dawn-of-the-tryborg.html).
+Joubin, Alexa Alice. *Shakespeare and East Asia,* Oxford University Press. https://global.oup.com/ushe/product/shakespeare-and-east-asia-9780198703570. Accessed 23 Apr. 2023.</br>
+
+Warwick, Claire. “Building Theories or Theories of Building? A Tension at the Heart of Digital Humanities.” *A New Companion to Digital Humanities,* John Wiley & Sons, Ltd, 2015, pp. 538–52. 
+miami-primo.com, https://doi.org/10.1002/9781118680605.ch37.</br>
+
+Wood, Denis. *Rethinking the Power of Maps,* Guilford Press, 2010.</br>
