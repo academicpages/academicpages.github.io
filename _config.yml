@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hoang M. Nguyen"
   avatar           : "profile.png"
-  bio              : "Full name (in the Vietnamese order): Nguyen Minh Hoang. Graduate student at University of Science, Vietnam National University (HCMUS."
+  bio              : "Full name (in the Vietnamese order): Nguyen Minh Hoang. Graduate student at University of Science, Vietnam National University (HCMUS)."
   location         : "Ho Chi Minh City, Vietnam"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/hoangng210a"
   vine             :
   weibo            :
   xing             :
