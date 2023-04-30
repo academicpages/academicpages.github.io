@@ -7,11 +7,11 @@ redirect_from:
   - /projects
 ---
 
-## Shakespearean Adaptation in Asia
+## Dreaming the Cyborg: Technoableism & New Media
 
 ## Description 
 
-This project is created and produced from Practicum in Digital Humanities class in Spring 2023 with Professor Susanna Alles Torrent.  
+Note: This project grew out of a seminar paper for Dr. Tim Watson’s “Contemporary Criticism & Theory” course in the Fall of 2022. With Dr. Watson’s feedback and Dr. Lindsay Thomas’s guidance in data collection methods, I adapted the paper into a multi-modal project for an upcoming conference at Texas Tech University: *The Humanities Center at Texas Tech Annual Conference 2023: “Health.”*
 
 ### Abstract 
 This project will explore manifestations of technoableism in online discourse, and in turn, ask how disabled writers and activists respond critically to the notion that technology will eventually eliminate disability. It will draw upon analyses from my own working dataset, which aims to showcase trends based on data from the Twitter API and metadata from TikTok.  In addition, it will draw upon theorization from disability scholars such as Cy. Jillian Weise, Ashley Shew, and Leah Lakshmi Piepenza-Samarasinha. Weise’s concept of the “tryborg” will give way to an analysis of online portrayals of “bio-hacking” by able-bodied people. Shew’s understanding of “technoableism” will then serve as a means to assess the consequences of said portrayals. Finally, Piepzna-Samarasinha’s *The Future is Disabled* will offer language to grapple with disabled becomings. Because I am diabetic, this project will first draw heavily on discourse around diabetes technology in the context of social media. However, I will then branch out to explore wider forms of both ableism and resistance relating both to technology. Finally, I will assess how contemporary creative forms imagine and offer futures in which disabled people exist within the center. 
