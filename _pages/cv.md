@@ -12,20 +12,19 @@ redirect_from:
 Education
 ======
 * B.S. in Ewha Womans University (History and English Literature), 2008
-* M.S. in Ewha Wamans University (English Literature), 2015
+* M.A. in Ewha Wamans University (English Literature), 2015
 * Ph.D in University of Miami (English Literature), 2027 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2008-10: Research Assistant
+  * English and American studies, Ewha Womans University
+  * Duties included: Administrative Assistant, Journal Publication
+  
+* 2011: Program Coordinator
+  * Korean National Commission for UNESCO
+  * Duties included: Program Coordinate for "The 1st World Humanities Forum"
+  
   
 Skills
 ======
