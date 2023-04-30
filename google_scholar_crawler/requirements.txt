@@ -1,0 +1,2 @@
+jsonpickle==1.4.2
+scholarly==1.5.1
