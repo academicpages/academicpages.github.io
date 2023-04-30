@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Hyekyung's Personal Website
+My name is Hyekyung Jung, a second-year PhD student in Department of English, Universtiy of Miami. 
 
-<a href="https://storymaps.arcgis.com/stories/c10d668d93604bedb6cfb3c7b4b9f1d6"></a>
+
