@@ -7,7 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello and வணக்கம்! I am Prashant Govindarajan, a first year Computer Engineering PhD student at Mila-Quebec AI Institute and Polytechnique Montréal, working under Sarath Chandar. I am keenly interested in AI for scientific discovery focusing on drug and material design, and I've lately been working on the latter. I am primarily exploring reinforcement learning and geometric deep learning approaches, in addition to generative models. I was previously a dual degree student at the Indian Institute of Technology Madras, where I worked under Balaraman Ravindran and Karthik Raman on target-specific drug design. Besides academics, I like watching and playing football, reading, and cooking (photos coming up soon!). Feel free to reach out to me if you wish to have a chat about research and beyond! :)
+Hello and வணக்கம்! I am Prashant Govindarajan, a first year Computer Engineering PhD student at Mila-Quebec AI Institute and Polytechnique Montréal (engineering school of UdéM), working under Sarath Chandar. I am keenly interested in AI for scientific discovery focusing on drug and material design, and I've lately been working on the latter. I am primarily exploring reinforcement learning and geometric deep learning approaches. I was previously a dual degree student at the Indian Institute of Technology Madras, where I worked under Balaraman Ravindran and Karthik Raman on target-specific drug design. Besides academics, I like watching and playing football, reading, and cooking (photos coming up soon!). Feel free to reach out to me if you wish to have a chat about research and beyond! :)
+
+# News
+- **March 2023**: "Behavioral Cloning for Crystal Design" accepted as workshop paper at ML4Materials workshop, ICLR 2023
+- **February 2023**: Organizer of Molecular ML Conference (MoML 2023) happening on May 29, 2023
+- **October 2022**: Reviewer for Depolyable AI workshop at AAAI 2023
+- **August 2022**: Started PhD in Computer Engineering at Mila and Polytechnique Montreal, advised by Sarath Chandar
+- **July 2022**: Graduated from IIT Madras with a dual degree in Biological Sciences and Data Science
+- **June 2022**: Defended M.Tech thesis titled "Graph generative models for binding site-specific molecule generation"
+- **May 2022**: "Generating drug-like molecules from gene expression signatures using transformer model" accepted as poster at MLCSB-COSI, ISMB 2022
+- **April 2022**: Presented poster for thesis work at RBCDSAI Annual Research Showcase
+- **January 2022**: Teaching assistant for CS6700, Reinforcement Learning by Balaraman Ravindran
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 <!-- A data-driven personal website
