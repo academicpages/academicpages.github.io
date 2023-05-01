@@ -14,7 +14,7 @@ author_profile: true
 <h1>Master Thesis</h1>
 ------
 {% for post in site.publications reversed %}
-  {% if post.pubtype == 'Master_thesis' %}
+  {% if post.pubtype == 'master_thesis' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}

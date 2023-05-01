@@ -13,13 +13,12 @@ redirect_from:
 ---
 * 학사, 조선대학교 컴퓨터공학과 (2022.02)
 * 석사, 조선대학교 컴퓨터공학과 (2024.02 예정)
-* Ph.D. in Computer Science and Engineering, Rice University (expected)
+
 
 졸업 논문
 ---
-* Title (English) : *null*
-* Supervisors : *null*
-* Abstract : *null*
+* Title: 5G Massive MIMO 시스템에서의 전력 할당을 위한 다목적 강화학습: 스펙트럼 및 에너지 Trade-Off에 대한 연구
+* Supervisors: 최우열
 
 
 연구 분야
@@ -75,3 +74,12 @@ redirect_from:
 * **발표 및 시각화 능력**
   * 워크샵, 학술대회, 세미나 등의 발표 활동 다수 진행
   * 다수의 사업 및 연구 제안서 작업을 통한 문서화, 시각화 능력
+
+
+보유 자격증
+---
+* **국내**
+  * 정보처리기사
+  * 언플러그드코딩지도사 1급
+  * 인성코딩지도사
+  * 한국사 2급
