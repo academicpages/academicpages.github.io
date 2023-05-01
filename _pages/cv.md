@@ -11,49 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics and Computer Science, University of Science, VNU-HCM, 2018-2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* From 05/2023: Research Assistant
+  * Vin University
+  * Graph structure learning with applications in computer vision and bio-medical domains.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 08/2022 - 04/2023: Research Intern
+  * German Research Center for Artificial Intelligence (DFKI)
+  * Developing self-supervised learning and domain adaptation algorithms with applications in
+computer vision, medical imaging.
+
+
+* 06/2022 - 07/2022: Research Intern
+  * CirTech Insitute, Hutech University 
+  * Developing algorithms to reconstruct 2D faces image to 3D faces, used in 3D printer
+machines.
+
+* 01/2022 - 05/2022: Research Assistant
+  * AISIA Research Lab, University of Science VNU-HCMUS, Vietnam
+  * Annotating and Running NLP model on Name Entity Recognition tasks.
+
+**[Find a more detailed CV here](http://nghiahhnguyen.github.io/files/CV.pdf)**
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Academic Achievements:
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Gold medal in Mathematics subject - grade 10 in the Olympic Competition on April at Ho Chi
+Minh City (2015)
+Gold medal in Mathematics subject - grade 11 in the Olympic Competition on April at Ho Chi
+Minh City (2016)
+Third prize in Mathematics subject - grade 12 in the Excellent student of city level (2017)
+Graduated with Excellent rank in the 2018-2022 academic year at Vietnam National University
+Ho Chi Minh City (2022)
+
+Language
+IETLS (7.0)
+
+
+
