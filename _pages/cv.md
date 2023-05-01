@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in [Stochastics and Data Science](https://www.master-sds.unito.it/do/home.pl), Università di Torino, 2021-current.
-* Master in Statistics and Applied Mathematics, [Collegio Carlo Alberto](https://www.carloalberto.org), Torino, 2021-current.
+* Ph.D. in Statistics at [Cornell University](https://stat.cornell.edu/), 2023-2028
+* M.Sc. in [Stochastics and Data Science](https://www.master-sds.unito.it/do/home.pl), Università di Torino, 2021-2023.
+* Master in Statistics and Applied Mathematics, [Collegio Carlo Alberto](https://www.carloalberto.org), Torino, 2021-2023.
 * B.S. in Statistic curriculum "Stats&Maths", University of Bologna, 2021.
   * Grade: 110/110 cum laude. Supervisor: Christian Hennig
 
@@ -24,7 +25,7 @@ Awards
 
 Work experience
 ======
-* July 2022-Current: Research Assistant, University Bologna
+* July 2022-January 2023: Research Assistant, University Bologna
   * Duties included: Comparing approaches to estimate the number of clusters for K-quantiles clustering.
   * Supervisor: Christian Hennig
 
