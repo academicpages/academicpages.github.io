@@ -38,8 +38,10 @@ Research Interests
 
 News
 ======
-[June. 2023] Research Internship at Nokia Bell Lab Cambridge
+[June. 2023] Research Internship at Nokia Bell Lab Cambridge.
 I will soonly start my PhD research intern at the prestigious Bell Lab at Cambridge during this summer.
+
+[May. 2023] I served as a PC member for [ACII'2023](https://acii-conf.net/).
 
 [April. 2023] I passed my first-year viva regarding the topic of wireless human sensing!
 
