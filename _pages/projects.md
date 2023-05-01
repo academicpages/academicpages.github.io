@@ -10,7 +10,7 @@ redirect_from:
 # *Mapping of Shakespearean Adaptation in Asia*
 
 ## About the Project
-Mapping Shakespearean Adaptation in Asia is the project for Practicum in Digital Humanities in Spring 2023 with Professor Susanna Alles Torrent. Using GIS program, this project explores how Shakespeare's plays have been accepted, reimagined, and recreated in Aisa.
+*Mapping Shakespearean Adaptation in Asia* is the ongoing project for Practicum in Digital Humanities in Spring 2023 with Professor Susanna Alles Torrent. Using GIS program, this project explores how Shakespeare's plays have been accepted, reimagined, and recreated in Aisa.
 
 [*Mapping Shakeseparean Adaptation in Aisa*](https://austraea.github.io/MappingShakespeare/)
 
