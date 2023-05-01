@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Automation, Dalian University of Technology, 2017-2021
+* M.S. in Software Enginering, Sun Yat-sen University, 2021-2024 (expected)
 
-Work experience
+
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -25,7 +25,7 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor Hub -->
   
 Skills
 ======
