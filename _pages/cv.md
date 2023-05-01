@@ -34,7 +34,7 @@ machines.
   * AISIA Research Lab, University of Science VNU-HCMUS, Vietnam
   * Annotating and Running NLP model on Name Entity Recognition tasks.
 
-**[Find a more detailed CV here](http://nghiahhnguyen.github.io/files/CV.pdf)**
+**[Find a more detailed CV here](http://hoangnguyen210.github.io/files/CV.pdf)**
 
 Publications
 ======
@@ -53,6 +53,7 @@ Minh City (2016)
 Ho Chi Minh City (2022)
 
 Language
+======
 * IETLS (7.0)
 
 

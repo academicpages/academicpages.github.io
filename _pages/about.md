@@ -12,7 +12,7 @@ redirect_from:
 
 ## News
 - I will be a Research Assistant at \[[College of Engineering & Computer Science](https://vinuni.edu.vn/college-of-engineering-computer-science/)\] at \[[Vin University](https://vinuni.edu.vn/)\]
-- I'm excited to have a **AAAI 2023** paper titled *"Joint Self-Supervised Image-Volume Representation Learning with Intra-Inter Contrastive Clustering"*! \[[Personal link](http://hoangnguyen210.github.io/publication/AAAI23.pdf)\] 
+- I'm excited to have a **AAAI 2023** paper titled *"Joint Self-Supervised Image-Volume Representation Learning with Intra-Inter Contrastive Clustering"*! \[[Personal link](http://hoangnguyen210.github.io/files/AAAI23.pdf)\] 
 - My current timezone is ICT (GMT+7).
 
 ## Supervisor
