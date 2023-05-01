@@ -44,16 +44,16 @@ Publications
 
 Academic Achievements:
 ======
-Gold medal in Mathematics subject - grade 10 in the Olympic Competition on April at Ho Chi
+* Gold medal in Mathematics subject - grade 10 in the Olympic Competition on April at Ho Chi
 Minh City (2015)
-Gold medal in Mathematics subject - grade 11 in the Olympic Competition on April at Ho Chi
+* Gold medal in Mathematics subject - grade 11 in the Olympic Competition on April at Ho Chi
 Minh City (2016)
-Third prize in Mathematics subject - grade 12 in the Excellent student of city level (2017)
-Graduated with Excellent rank in the 2018-2022 academic year at Vietnam National University
+* Third prize in Mathematics subject - grade 12 in the Excellent student of city level (2017)
+* Graduated with Excellent rank in the 2018-2022 academic year at Vietnam National University
 Ho Chi Minh City (2022)
 
 Language
-IETLS (7.0)
+* IETLS (7.0)
 
 
 

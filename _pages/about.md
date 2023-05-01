@@ -11,8 +11,8 @@ redirect_from:
 
 
 ## News
-- I will be a Research Assistant at \[[College of Engineering & Computer Science](http://nghiahhnguyen.github.io/publication/2022-09-15-neurips2022-NesterovNODE)\] at \[[Vin University](https://vinuni.edu.vn/)\]
-- I'm excited to have a **AAAI 2023** paper titled *"Joint Self-Supervised Image-Volume Representation Learning with Intra-Inter Contrastive Clustering"*! \[[Personal link](http://nghiahhnguyen.github.io/publication/2022-09-15-neurips2022-NesterovNODE)\] 
+- I will be a Research Assistant at \[[College of Engineering & Computer Science](https://vinuni.edu.vn/college-of-engineering-computer-science/)\] at \[[Vin University](https://vinuni.edu.vn/)\]
+- I'm excited to have a **AAAI 2023** paper titled *"Joint Self-Supervised Image-Volume Representation Learning with Intra-Inter Contrastive Clustering"*! \[[Personal link](http://hoangnguyen210.github.io/publication/AAAI23.pdf)\] 
 - My current timezone is ICT (GMT+7).
 
 ## Supervisor
@@ -29,11 +29,10 @@ redirect_from:
 
 ## Research interests
 
-The research agenda I would like to pursue next consists of two following directions:
-  - **Optimization and differential equations for understanding and designing ML methods:** How can the theoretical frameworks from optimization and differential equations help us understand successful deep learning methods and design novel ML methods that perform better, are more efficient, and are more flexible?
-  - **Neural differential equations for Scientific Modeling:** How can neural differential equations - a synthesis of neural networks and differential equations - enable new capabilities in scientific modeling?
+The research agenda mainly including:
+ - **Self-supervised learning in the Medical Domain:** How can we utilize the self-supervised learning algorithms - learning visual representation without labeling data- to apply effectively in medical datasets? 
 
 ## Previous research experience
-For my undergraduate thesis (2022), I worked on the problem of *Fall Detection*. The thesis is on the topic of *Computer Vision* as well as *Medical domain*, which interested me because I wanted to explore the synthesis of the profound progress made by the Computer Vision and Natural Language Processing communities.
+For my undergraduate thesis (2022), I worked on the problem of *Fall Detection*. The thesis is on the topic of *Computer Vision* as well as *Medical domain*, which interested me because I wanted to utilize the application of Computer Vision to avoid some serious injuries caused by falls in our community.
 
 From 8/2022 to 4/2023, I was a Research Intern at the German Research Center for Artificial Intelligence (DFKI). I worked on utilizing *Self-supervised learning* for Medical data. You can find out more in my CV.
