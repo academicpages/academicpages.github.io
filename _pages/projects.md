@@ -26,7 +26,7 @@ Keywords: *Shakespeare, Asia, Adaptation, Mapping, GIS*
 
 [*Wandering Women: Women's travels in the Early Modern Literature*](https://austraea.github.io/DHProject2022/)
 
-keywords: Women's Writing, Travel, Early Modern, Dataset
+keywords: *Women's Writing, Travel, Early Modern, Dataset*
 
 
 
