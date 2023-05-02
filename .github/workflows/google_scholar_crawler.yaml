@@ -15,15 +15,12 @@ jobs:
         sudo apt-get install python3-setuptools
     - name: Run
       run: |
-
         cd ./google_scholar_crawler
         pip3 install -r requirements.txt
         python3 main.py
-        cd ./results
-        
+        cd ./results  
         git init
         git config --local user.name "${GITHUB_ACTOR}"
-
         export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
         git add *.json
         git commit -m "Updated Citation Data"
