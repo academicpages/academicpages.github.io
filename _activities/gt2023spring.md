@@ -22,7 +22,7 @@ author_profile: false
 | Tu, 2023-04-18 | 3:30pm - 4:30pm |       Kenji Fukaya         |      1 :  Generating function and Lagrangian Floer theory      | Vincent Hall 301 |
 | Thu, 2023-04-20 | 2:30pm - 3:30pm |       Kenji Fukaya         |   2 :  Lagrangian Correspondence and Floer homology | Vincent Hall 301 |
 | Thu, 2023-04-27 | 1:25pm - 2:25pm |      Franco Vargas Pallete          |  Minimal surface entropy for asymptotically cusped metrics in 3-manifolds                                                                    | Vincent 215 |
-| Thu, 2023-05-04 | 1:25pm - 2:25pm |   Georgios Dimitroglou Rizell   |                                                                      | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
+| Thu, 2023-05-04 | 1:25pm - 2:25pm |   Georgios Dimitroglou Rizell   |  A relative Calabi-Yau structure for Legendrian contact homology and applications to the augmentation variety  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) |
 
 ## Abstracts
 
@@ -72,3 +72,6 @@ first seminar is based on this story.
 
 - Franco Vargas Pallete
   - We say that a metric g in a torus cusp is asymptotically cusped if there exists a hyperbolic cusped metric so that its difference with g converges to 0 in C^1 as we go along the cusp. In this talk we will describe minimal surface entropy for asymptotically cusped metrics, which is a geometric invariant established by Calegari-Marques-Neves and defined as the asymptotic counting of compact minimal surfaces as area grows. We will show an entropy rigidity for finite volume hyperbolic 3-manifolds. Namely, if M is a 3-manifold that admits a cusped hyperbolic metric of finite volume, then the hyperbolic metric can be characterized as the metric minimizing minimal surface entropy among negatively curved, asymptotically cusped metrics. This is based on upcoming joint work with Ruojing Jiang.
+
+- Georgios Dimitroglou Rizell
+  - We show how Sabloff duality in linearized Legendrian contact homology can be generalised to a relative Calabi-Yau structure of the Legendrian contact homology DGA, as defined by Brav and Dyckerhoff. We also discuss the generalised notion of the fundamental class and give applications, including constrains on the dimension of the augmentation variety. The structure is established through the acyclicity of a version of Rabinowitz Floer Homology for Legendrian submanifolds with coefficiens in the Chekanov-Eliashberg DGA. This is joint work in progress with Legout.
