@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student studying machine learning under Prof. [Maciej Mazurowski](https://sites.duke.edu/mazurowski/) at [Duke University](https://duke.edu/) in the [Dept. of Electrical and Computer Engineering](https://ece.duke.edu/). My research is on deep learning for medical image analysis, in topics such as anomaly detection and zero-shot learning, self-supervised learning and domain adaptation. My long-term goal is to use machine learning to enable scientific discovery.
+I am a Ph.D. student studying artificial intelligence (AI) and machine learning under Prof. [Maciej Mazurowski](https://sites.duke.edu/mazurowski/) at [Duke University](https://duke.edu/) in the [Dept. of Electrical and Computer Engineering](https://ece.duke.edu/). My research is on deep learning for medical image analysis, in topics such as anomaly detection and zero-shot learning, self-supervised learning and domain adaptation. My long-term goal is to use machine learning to enable scientific discovery.
 
 ## Representative Publications
 
