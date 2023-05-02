@@ -7,6 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 
 I am currently a Ph.D. student of the [Department of Computing](https://www.polyu.edu.hk/comp/) (COMP), [Hong Kong Polytechinic University](https://www.polyu.edu.hk/) (PolyU). Before joining the PolyU, I received my Master degree of Computer Science from University of Edinburgh, under the supervision of [Dr. Elizabeth Polgreen](https://polgreen.github.io/). In 2020, I got my bachelor degrees from Wuhan University. I am a self-motivated person and have strong passion for scientific research. Currently, my research interest lies in Drug Discovery, Graph Neural Networks, and Natural Language Processing. I am always welcoming collaborating from solid partners.
 
@@ -16,7 +23,7 @@ Research Interest
 + Graph Neural Networks (GNNs)
 + Natural Language Processing (NLP) 
  
-Publications
+Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 ======
 + [**Generative Diffusion Models on Graphs: Methods and Applications**](https://arxiv.org/abs/2302.02591)
   <br> Wenqi Fan, Chengyi Liu, **Yunqing Liu**, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li
