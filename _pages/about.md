@@ -19,6 +19,7 @@ I also co-organized [the Second Workshop on Understanding Implicit and Underspec
 Besides this I love rowing (currently at Lake Washington Rowing Club) and going to the "cinemathèque". My Erdős number is 3.
 
 ### News
+* May 2023: Paper accepted to ACL 2023!
 * March 2023: [TACL](https://arxiv.org/abs/2304.00815) paper accepted, to be presented at ACL 2023.
 * February 2023: Was awarded a postdoctoral scholarship from the Eric and Wendy Schmidt Foundation.
 * January 2023: Very excited to have been awarded the [AI2 Outstanding Intern of the Year Award](https://allenai.org/outstanding-interns)!
