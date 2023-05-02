@@ -14,7 +14,6 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
 
 I am currently a Ph.D. student of the [Department of Computing](https://www.polyu.edu.hk/comp/) (COMP), [Hong Kong Polytechinic University](https://www.polyu.edu.hk/) (PolyU). Before joining the PolyU, I received my Master degree of Computer Science from University of Edinburgh, under the supervision of [Dr. Elizabeth Polgreen](https://polgreen.github.io/). In 2020, I got my bachelor degrees from Wuhan University. I am a self-motivated person and have strong passion for scientific research. Currently, my research interest lies in Drug Discovery, Graph Neural Networks, and Natural Language Processing. I am always welcoming collaborating from solid partners.
 
