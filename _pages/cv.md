@@ -14,7 +14,7 @@ Education
 * B.A. in Ewha Womans University (History and English Literature), 2008
 * M.A. in Ewha Womans University (English Literature), 2015
 * Ph.D in University of Miami (English Literature), 2027 (expected)
-* 
+ 
 
 Work experience
 ======
@@ -35,5 +35,4 @@ Publications
 Teaching
 ======
  WRS 105, University of Miami, Fall 2022
- WRS 106, University of Mimai, Spring 2023
  
