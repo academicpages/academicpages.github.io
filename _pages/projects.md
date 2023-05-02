@@ -17,7 +17,7 @@ redirect_from:
 Keywords: *Shakespeare, Asia, Adaptation, Mapping, GIS*
 
 
-# *Wandering Women: Women’s travels in the Early Modern Literature
+# *Wandering Women: Women’s travels in the Early Modern Literature*
 
 ## About the Project
 *Wandering Women: Women's travels in the Early Modern Literature* is the dataset building project, the major project for Topic in Digital Humanities and Media Studies in Spring 2022 with Professor Lindsay Thomas. This project is a collection of bibliographic information of the texts on the topic of women’s travels in the early modern period, before the 1800s, aiming to explore women's tavel writing and their involvement in travels.  
