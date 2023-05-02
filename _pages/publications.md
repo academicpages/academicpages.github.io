@@ -22,7 +22,7 @@ author_profile: true
 [TACL](https://arxiv.org/abs/2304.00815)
 
 ### *Reinforced Clarification Question Generation with Defeasibility Rewards for Disambiguating Social and Moral Situations*
-<ins>Valentina Pyatkin</ins>, Jena D. Hwang, Vivek Srikumar, Ximing Lu, Liwei Jiang, Yejin Choi and Chandra Bhagavatula. Preprint.
+<ins>Valentina Pyatkin</ins>, Jena D. Hwang, Vivek Srikumar, Ximing Lu, Liwei Jiang, Yejin Choi and Chandra Bhagavatula. In ACL.
 [ArXiv](https://arxiv.org/pdf/2212.10409.pdf)
 
 ### *Just-DREAM-about-it: Figurative Language Understanding with DREAM-FLUTE.*
