@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hyekyung Jung is a second-year Ph.D. student at Department of English, University of Miami. Her research interests are women’s literature, gender and sexuality studies, emtion and masculinity, travel writing, and women’s domestic works in literature.
+Hyekyung Jung is a second-year Ph.D. student in the Department of English, University of Miami. Her research interests are women’s literature, gender and sexuality studies, friendship, emotion and masculinity, travel writing, and women’s domestic works in literature.
 
-Before beginning her Ph.D. program at University Miami, Hyekyung earned her BA and MA at Ewha Womans University, South Korea, where she studied History and English Literature. She authored her BA thesis about Ito Hirobumi, the first Prime Minister in Japan, and in her MA thesis, she explored the paradox of Chivalry and Romance as educational tool in *Sir Gawain and the Green Knight.*
+Before beginning her Ph.D. program at the University of Miami, Hyekyung earned her BA and MA at Ewha Womans University, South Korea, where she studied History and English Literature. Her BA thesis focused on Ito Hirobumi, the first Prime Minister in Japan, and in her MA thesis, she explored the paradox of Chivalry and Romance as an educational tool in *Sir Gawain and the Green Knight.*
 
-
-Outside of universities, she worked as an administrative and research assistant at Institute of English and American Studies, Ewha Womans University, and a program coordinator at Korean National Commission for UNESCO.
+She worked as an administrative and research assistant at the Institute of English and American Studies, Ewha Womans University, and a program coordinator at Korean National Commission for UNESCO.
