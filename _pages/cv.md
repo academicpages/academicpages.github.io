@@ -34,5 +34,8 @@ Publications
  
 Teaching
 ======
- WRS 105, University of Miami, Fall 2022
+ * WRS 105, University of Miami, Fall 2022
+ * WRS 106, University of Miami, Sprin 2023
+
+
  
