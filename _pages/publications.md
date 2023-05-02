@@ -8,7 +8,7 @@ author_profile: true
 
 * R. Cont, P. Das. _Measuring roughness of signals_. [Working paper 2022]()
 
-* E. Bayraktar, P. Das, D. Kim _Applications of Schauder-type basis:estimating H\"older exponent, fake fractional Brownian motion_. [Arxiv](https://arxiv.org/abs/2304.13794)
+* E. Bayraktar, P. Das, D. Kim _Applications of Schauder-type basis:estimating H"\u00f2"lder exponent, fake fractional Brownian motion_. [Arxiv](https://arxiv.org/abs/2304.13794)
 
 * R. Cont, P. Das. _Rough Volatility: Fact or Artefact?_. [Ssrn](https://ssrn.com/abstract=4065951 )
 
