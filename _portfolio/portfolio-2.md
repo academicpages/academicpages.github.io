@@ -1,5 +1,5 @@
 ---
-title: "Graph generative models for binding site-specific molecule generation"
+title: "Analysis of drug response and gene expression data of AML cells"
 # excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
