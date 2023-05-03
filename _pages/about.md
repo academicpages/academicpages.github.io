@@ -21,6 +21,7 @@ My current projects include:
 * **Envisioning Opportunities for AI in the Intensive Care Unit:** With a diverse team including clinicians, HCI researchers, designers, and data scientists, we set out to explore opportunities for AI in the ICU. How do we go about envisioning and prototyping ideas that are clinically relevant, technically feasible, and financially viable? (w/ many collaborators from the University of Pittsburgh)
 
 ## News
+* April 2023 - Paper accepted to DIS 2023! "Creating Design Resources to Scaffold the Ideation of AI Concepts" _(preprint coming soon)_
 * April 2023 - Paper accepted to FAccT 2023! "Uncovering the Practices and Opportunities for Cross-functional Collaboration around AI Fairness in Industry Practice" _(preprint coming soon)_
 * April 2023 - 🏅 The PAIR Guidebook paper received a Best Paper Honorable Mention Award at CHI 2023!
 * January 2023 - Paper from my Google PAIR research internship is accepted to CHI 2023! "Investigating How Practitioners Use Human-AI Guidelines: A Case Study on the People + AI Guidebook" [[preprint]](https://www.researchgate.net/publication/367510244_Investigating_How_Practitioners_Use_Human-AI_Guidelines_A_Case_Study_on_the_People_AI_Guidebook){:target="_blank"}
