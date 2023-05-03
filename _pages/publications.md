@@ -9,6 +9,10 @@ author_profile: true
 
 ## Conference
 
+- **Pragmatic Inference with a CLIP Listener for Contrastive Captioning.**\
+**Jiefu Ou**, Benno Krojer and Daniel Fried.\
+Findings of ACL 2023 (To appear).
+
 - **Hierarchical Event Grounding.**\
 **Jiefu Ou**, Adithya Pratapa, Rishubh Gupta, Teruko Mitamura.\
 AAAI 2023 (To appear). [[pdf]](https://arxiv.org/abs/2302.04197), [[code]](https://github.com/JefferyO/Hierarchical-Event-Grounding)
