@@ -23,6 +23,10 @@ The project I was hired on is called [PROFIDDS](http://liacs.leidenuniv.nl/~nijs
 
 My dissertation, [Optimal decision-making under constraints and uncertainty](https://hdl.handle.net/1887/3455662), was accepted in March 2022. I defended it on 13 September 2022 and received my doctorate degree on that day.
 
+### PUBLICATIONS
+
+See [publications](latower.github.io/publications).
+
 ### EDUCATION
 
 * MSc in Artificial Intelligence, Leiden University, 2016. *Cum laude*. I did a 42 ECTS research project with the [DTAI group](https://dtai.cs.kuleuven.be) of [KU Leuven](https://www.kuleuven.be/english/), under the supervision of the developers of [ProbLog](https://dtai.cs.kuleuven.be/problog/). The title of the resulting thesis was: [*Incremental algorithms for solving stochastic constraint optimisation problems with probabilistic logic programming.*](https://theses.liacs.nl/310)
@@ -49,10 +53,15 @@ Press releases can be found on [the website of Leiden University](https://www.un
 
 **2013:** The Hugo van Woerden award is a prize that is given to young amateur astronomers that work to promote astronomy with children and youngsters. I received the award for the work I did for the [*Jongeren Werkgroep voor Sterrenkunde*](http://sterrenkunde.nl/jwg/) (JWG): a Dutch youth association for astronomy. Specifically, I received the award for the work I did to reinvent our astronomy magazine for children: [Universum](http://sterrenkunde.nl/jwg/universum). The jury: “Anna’s dedication and vigour have permanently elevated *Universum* to a higher level.”
 
+### TEACHING
+
+See [teaching](latower.github.io/teaching).
+
 ### SERVICE
 
 #### CO-ORGANISER
 
+  - [CP 2023](https://cp2023.a4cp.org) (publicity chair, website chair)
   - [BNAIC/BENELEARN 2020](https://bnaic.liacs.leidenuniv.nl) (sponsor chair, social chair)
 
 #### PROGRAM COMMITTEE MEMBER
@@ -65,7 +74,10 @@ Press releases can be found on [the website of Leiden University](https://www.un
 
   - [ACM TOSEM 2022](https://dl.acm.org/journal/tosem) 
 
+#### SUB-REVIEWER
 
+  - [KR 2023](https://kr.org/KR2023/)
+  - [CAV 2022](http://i-cav.org/2022/)
 
 ### OTHER THINGS YOU MIGHT KNOW ME FROM
 
