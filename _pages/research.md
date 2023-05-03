@@ -13,7 +13,7 @@ Nur Yildirim, Changhoon Oh, Anna Elise Wong, Nina Crosby Walton, Violet Turri, D
 
 🏅**Investigating How Practitioners Use Human-AI Guidelines: A Case Study on the People + AI Guidebook**  
 Nur Yildirim, Mahima Pushkarna, Nitesh Goyal, Martin Wattenberg, Fernanda Viégas.  
-*CHI 2023 (to appear).* [[preprint]](https://www.researchgate.net/publication/367510244_Investigating_How_Practitioners_Use_Human-AI_Guidelines_A_Case_Study_on_the_People_AI_Guidebook){:target="_blank"}
+*CHI 2023.* [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3544548.3580900){:target="_blank"}
 
 **Uncovering the Practices and Opportunities for Cross-functional Collaboration around AI Fairness in Industry Practice**  
 Wesley Hanwen Deng, Nur Yildirim, Monica Chang, Motahhare Eslami, Kenneth Holstein, Michael Madaio.  
@@ -28,5 +28,5 @@ Nur Yildirim, John Zimmerman, Sarah Preum.
 *AAAI Fall '21 Symposium.* [[pdf]](http://star.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-3068/short5.pdf){:target="_blank"}
 
 **Digital Fabrication Tools at Work: Probing Professionals' Current Needs and Desired Futures**  
-Nur Yildirim, James McCann, John Zimmerman.
+Nur Yildirim, James McCann, John Zimmerman.  
 *CHI 2020.* [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3313831.3376621){:target="_blank"}
