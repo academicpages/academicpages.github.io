@@ -7,6 +7,10 @@ author_profile: true
 
 Check out [my Google Scholar](https://scholar.google.com/citations?user=1KjMCfQAAAAJ&hl=en){:target="_blank"} for a full list.
 
+**Creating Design Resources to Scaffold the Ideation of AI Concepts**  
+Nur Yildirim, Changhoon Oh, Anna Elise Wong, Nina Crosby Walton, Violet Turri, Deniz Sayar, James McCann, Jodi Forlizzi, John Zimmerman.  
+*DIS 2023 (to appear).* _(preprint coming soon)_
+
 **Investigating How Practitioners Use Human-AI Guidelines: A Case Study on the People + AI Guidebook**  
 Nur Yildirim, Mahima Pushkarna, Nitesh Goyal, Martin Wattenberg, Fernanda Viégas.  
 *CHI 2023 (to appear).* [[preprint]](https://www.researchgate.net/publication/367510244_Investigating_How_Practitioners_Use_Human-AI_Guidelines_A_Case_Study_on_the_People_AI_Guidebook){:target="_blank"}
