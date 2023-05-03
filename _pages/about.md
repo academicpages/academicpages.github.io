@@ -18,6 +18,7 @@ I have had the priviledge to work with some amazing collaborators, and am always
 
 Recent News
 ======
+* April 2023: Invited as reviewer for CoRL 2023
 * March 2023: TAing for CSE478, Autonomous Robotics
 * March 2023: Paper accepted at ICRA 2023 Workshop
 * March 2023: Serving as reviewer for ICCV 2023
