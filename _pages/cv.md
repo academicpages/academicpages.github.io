@@ -35,7 +35,6 @@ Publications
 Teaching
 ======
 * First-Year Writing I (WRS105-A2), University of Miami, Fall 2022
-
 * First-Year Writing II (WRS106-N3), University of Miami, Sprin 2023
 
 
