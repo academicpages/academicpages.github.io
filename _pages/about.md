@@ -17,7 +17,7 @@ I am a fourth-year PhD student studying policy analysis at the O'Neill School of
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Faculty profile](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html)  
 * Policy Analysis  
 * Public Finance  
-* Faculty Advisors: Kosali Simon, Seth Freedman, Victoria Perez, Justin Ross  
+* Faculty Advisors: Kosali Simon, Seth Freedman, Justin Ross  
 
 #### MPA - Brigham Young University (2017 - 2019)  
 * Minor in Information Systems  
@@ -39,9 +39,10 @@ I am a fourth-year PhD student studying policy analysis at the O'Neill School of
 ### Service
 - Health Policy Workshop, Student Coordinator, 8/2020 - present  
 - O'Neill PhD Student Association Board Member, 2020 - present  
-- Undergraduate Honors Thesis Advising and healthcare panel chair, 4/29/2022  
+- Undergraduate Honors Thesis Advising and healthcare panel chair, 4/29/2022 and 4/28/2023  
 - Economics Advisory Board member, Utah Valley University, 2021 - present  
   
 ### Fellowships
-- Rumsfeld Foundation Fellow, 2019 - 2021  
+- Irsay Institute, 2023 - 2024
+- Rumsfeld Foundation, 2019 - 2021  
 - Healthcare Industry Scholar, Marriott School of Business, 2018 - 2019  
