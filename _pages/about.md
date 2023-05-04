@@ -16,6 +16,21 @@ Outside academia, I study and train the [Brazilian Jiu-Jitsu](https://en.wikiped
 
 ## Publications
 <ul>
+    <li>Program Synthesis for Robot Learning from Demonstrations
+    <br />
+    <font size="3">
+      (Noah Patton, <b>Kia Rahmani</b>, Meghana Missula, Joydeep Biswas, Isil Dillig, )
+    </font> 
+    <br /> 
+    <font size="2">
+      [Under Submission]
+      <a href="/files/prolex.pdf">
+      [Pdf]
+      </a>
+    </font>
+    </li>
+</ul>
+<ul>
     <li>PLUNDER: Probabilistic Program Synthesis for Learning from Unlabeled and Noisy Demonstrations
     <br />
     <font size="3">
