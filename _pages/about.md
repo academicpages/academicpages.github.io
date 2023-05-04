@@ -12,12 +12,6 @@ My name is Z. Sun, a PhD candidate at UCL. I am lucky to be supervised by Prof. 
 
 
 
-## News
-```
-Apr 2023: Our paper ''Vector-valued Control Variates'' has been accepted in ICML 2023.
-Jan 2023: Awarded Costas Goutis Prize from Dept. Stats. of UCL.
-```
-
 
 
 ## Publication
