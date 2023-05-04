@@ -19,7 +19,7 @@ Outside academia, I study and train the [Brazilian Jiu-Jitsu](https://en.wikiped
     <li>Program Synthesis for Robot Learning from Demonstrations
     <br />
     <font size="3">
-      (Noah Patton, <b>Kia Rahmani</b>, Meghana Missula, Joydeep Biswas, Isil Dillig, )
+      (Noah Patton, <b>Kia Rahmani</b>, Meghana Missula, Joydeep Biswas, Isil Dillig)
     </font> 
     <br /> 
     <font size="2">
