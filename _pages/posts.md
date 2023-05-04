@@ -26,9 +26,10 @@ Cracked or crushed or crumbled<br>
 Just before swallowed<br>
 Englutted through the gorge<br>
 Our juicy juice and sweet smell & flavor<br>
-Ours, ALWAYS!
+Ours, ALWAYS!<br>
+<br>
 
-We are apples
-Never called differently
-We are apples
+We are apples<br>
+Never called differently<br>
+We are apples<br>
 We are apples in ONE WOODEN BOX.
