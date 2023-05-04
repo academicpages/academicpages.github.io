@@ -8,23 +8,23 @@ main:
 
   # - title: "Teaching"
   #   url: /teaching/    
+  - title: "CV"
+    url: /cv/
 
   - title: "CAD with Eye-tracking"
     url: /eyetracking/  
 
-  - title: "Large Models"
+  - title: "Healthcare Foundation Models"
     url: /largemodels/
 
-  - title: "Efficient Models"
+  - title: "Efficient 3D Learning System"
     url: /efficientmodels/
   # - title: "Portfolio"
   #   url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
+
     
   # - title: "Guide"
   #   url: /markdown/
