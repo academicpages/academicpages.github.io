@@ -20,6 +20,9 @@ Below is an up-to-date list of my co-authored publications.
 
 Publications
 ====
+Wilner, T., Mimizuka, K., **Bhimdiwala, A.**, Young, J. C., & Arif, A. (2023). It’s about time: Attending to temporality in misinformation
+interventions. In *Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems* (pp. 1-19). https://dl-acm-org.ezproxy.lib.utexas.edu/doi/abs/10.1145/3544548.3581068
+
 **Bhimdiwala, A.**, Neri, R. C., & Gomez, L. M. (2021). Advancing the Design and Implementation of Artificial Intelligence in Education through Continuous Improvement. International Journal of Artificial Intelligence in Education, 1-27. [link](https://link.springer.com/article/10.1007/s40593-021-00278-8)
 
 Uttamchandani, S., **Bhimdiwala, A.**, & Hmelo-Silver, C. E. (2020). Finding a place for equity in CSCL: Ambitious learning practices as a lever for sustained educational change. International Journal of Computer-Supported Collaborative Learning, 15(3), 373-382. [link](https://link.springer.com/article/10.1007/s11412-020-09325-3)
