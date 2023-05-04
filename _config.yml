@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sheng Wang"
-  avatar           : "profile.png"
+  avatar           : "bio-photo.png"
   bio              : "I like to understand how Deep Neural Network sees the images."
   location         : "Shanghai"
   employer         :
