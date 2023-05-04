@@ -1,5 +1,5 @@
 ---
-title: "travel item number 1"
+title: "travel item number 11"
 excerpt: "Short description of travel item number 1<br/><img src='/images/500x300.png'>"
 collection: travel
 ---
