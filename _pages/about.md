@@ -12,12 +12,12 @@ Larry Han is a PhD candidate in [Biostatistics](https://www.hsph.harvard.edu/bio
 
 [His research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) focuses on developing novel statistical methods to leverage real world data to improve decision-making in public health and clinical medicine. Specifically, his academic interests include robust and efficient estimation and inference of treatment effects using large-scale data generated from electronic health records and clinical trial data.
 
-His current research targets:
+Some recent research projects include developing:
 * Doubly robust estimators for evaluating surrogate markers on long-term outcomes in observational data. 
 * Semi-supervised transfer learning algorithms to improve pragmatic trial efficiency when outcomes are captured using imperfect surrogates in electronic health records.
 * Communication-efficient, federated learning algorithms that robustly estimate treatment effects in target populations under privacy constraints and site-heterogeneity.
-* Principled approach for sensitivity analysis of design parameters in evaluating competing clinical trial designs.
-* Applied projects in COVID-19, cardiology, dementia, HIV/STDs, and social innovation.
+* Principled approaches for sensitivity analysis in the design stage of complex clinical trials.
+* Epidemiological studies of COVID-19, cardiology, dementia, HIV/STDs, and social innovation.
 
 He enjoys playing golf (especially in his home state of North Carolina), reading history (especially biographies), and staying up-to-date with global affairs (especially US-China relations). 
 
