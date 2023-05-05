@@ -228,10 +228,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _travel
+  # _hobby
   - scope:
       path: ""
-      type: travel
+      type: hobby
     values:
       layout: single
       author_profile: true
