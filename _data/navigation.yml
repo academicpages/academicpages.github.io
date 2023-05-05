@@ -2,12 +2,9 @@
 main:
   - title: "My Work"
     url: /my_work/
-
-  - title: "Selected Publications"
-    url: /publications/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
+  - title: "Guide to Academic Site"
     url: /markdown/
