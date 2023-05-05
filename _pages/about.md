@@ -16,14 +16,6 @@ In addition to doing research, I also enjoy doing sports and travelling.
 
 I'm looking for a research assistant position to seek more challenging researches on blockchain security. I am excited about the opportunities for collaboration and advancement in my field, and am eager to continue learning and contributing to the research community. If you are willing to learn more about my research or explore potential opportunities for collaboration, I would be honored if you could kindly reach out to me. Thank you for visiting!
 
-Education
-======
-* Sun Yat-sen University, 2021-2024 (expected)
-    * Master in Software Enginering (GPA: 4.0/5.0, Rank: 1/9)
-    * Advisor: [Prof. Jiajing Wu](https://scholar.google.com/citations?user=EaqeskUAAAAJ&hl=en) 
-* Dalian University of Technology, 2017-2021
-    * B.S. in Automation (GPA: 3.75/5.0, Rank: 4/31)
-    * Outstanding Undergraduate in Liaoning Province
 
 Publications
 ======
@@ -37,15 +29,26 @@ IEEE Transactions on Computational Social Systems (TCSS),2023
 IEEE International Symposium on Circuits and Systems (ISCAS),2023  
 [ [<font color="red">Paper</font>](https://arxiv.org/abs/2303.15841) ] [ [<font color="red">Code</font>](https://github.com/fuqishuang228/ETH_ML_Traits_Analysis/tree/main) ] [ [<font color="red">Data</font>](https://www.dropbox.com/scl/fo/t2ynpos4l2grq383cexnc/h?dl=0&rlkey=wuj0kvzgdu9objp9lvsf66jml) ]
 
+Education
+======
+* Sun Yat-sen University, 2021-2024 (expected)
+    * Master in Software Enginering (GPA: 4.0/5.0, Rank: 1/9)
+    * Advisor: [Prof. Jiajing Wu](https://scholar.google.com/citations?user=EaqeskUAAAAJ&hl=en) 
+* Dalian University of Technology, 2017-2021
+    * B.S. in Automation (GPA: 3.75/5.0, Rank: 4/31)
+    * Outstanding Undergraduate in Liaoning Province
+
+
+
 Honors & Awards
 ======
-* Awards
+* **Awards**
     * Second Prize in CCF & ATEC the First College Students' Blockchain Security Technology and Innovative Application Competition (Top 5%), 2023
     * Outstanding Undergraduate in Liaoning Province (Top 1%), 2021
     * Excellent Undergraduate Thesis at Dalian University of Technology (Top 2%), 2021
     * Second Prize in Zhangda Cup Market Research and Analysis Competition, 2020
     
-* Scholarships
+* **Scholarships**
     * First Class Scholarship at Sun Yat-sen University (Top 20%),2021-2023
     * NOK First-class Scholarship (Top 10%), 2020
     * Study scholarship at Dalian University of Technology (top 15%), 2020
