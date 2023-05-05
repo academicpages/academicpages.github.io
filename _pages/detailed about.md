@@ -4,8 +4,6 @@ title: "Alexander C Adia's Personal Site"
 excerpt: "(More) About me"
 author_profile: true
 redirect_from: 
-  - /detailed_about/
-  - /detailed_about.html
 ---
 At Berkeley, I am a part of several centers and working groups, including the Center for Healthcare Organizational and Innovation Research <u><a href="https://choir.berkeley.edu/team/trainees">CHOIR</a></u>. My work has been supported by the Agency for Healthcare Research and Quality (AHRQ) and the California Policy Lab <u><a href="https://www.capolicylab.org/data-resources/cpl-graduate-fellowship-grants/">CPL</a></u>. 
 
