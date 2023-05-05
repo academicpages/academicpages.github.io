@@ -18,6 +18,7 @@ I'm looking for a research assistant position to seek more challenging researche
 
 Education
 ======
-* B.S. in Automation, Dalian University of Technology, 2017-2021
 * M.S. in Software Enginering, Sun Yat-sen University, 2021-2024 (expected)
+* B.S. in Automation, Dalian University of Technology, 2017-2021
+
 
