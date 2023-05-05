@@ -1,7 +1,7 @@
 ---
-permalink: /detailed_about/
+permalink: /my_work/
 title: "Alexander C Adia's Personal Site"
-excerpt: "(More) About me"
+excerpt: "(More) About My Work"
 author_profile: true
 redirect_from: 
 ---
