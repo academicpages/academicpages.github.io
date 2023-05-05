@@ -14,4 +14,7 @@ My academic interests center around blockchain security. 区块链生态XX poses
 
 In addition to doing research, I also enjoy doing sports and travelling.
 
+I'm looking for a research assistant position to seek more challenging researches on blockchain security. I am excited about the opportunities for collaboration and advancement in my field, and am eager to continue learning and contributing to the research community. If you are willing to learn more about my research or explore potential opportunities for collaboration, I would be honored if you could kindly reach out to me. Thank you for visiting!
+
+
 
