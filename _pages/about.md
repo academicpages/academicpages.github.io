@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year graduate student of software engineering at Sun Yat-sen University. I am very fortunate to be supervised by [Prof. Jiajing Wu](https://scholar.google.com/citations?user=EaqeskUAAAAJ&hl=en) at [InPlusLab](https://inpluslab.com/) where [Prof. Zibin Zheng](https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en&oi=ao) is lab manager. 
+I'm a second-year graduate student of software engineering at Sun Yat-sen University. I am very fortunate to be supervised by [Prof. Jiajing Wu](https://scholar.google.com/citations?user=EaqeskUAAAAJ&hl=en) at [InPlusLab](https://inpluslab.com/) where [Prof. Zibin Zheng](https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en&oi=ao) is lab manager. I also work closely with [Dan Lin](https://scholar.google.com/citations?hl=en&user=iTGMohsAAAAJ) at Sun Yat-sen University.
 
 My academic interests center around blockchain security. 区块链生态X poses a fascinating challenge in XXX. My primary focus is on XXX. In my research, I strive to XXX. Additionally, I am actively exploring XXX. I also make efforts to XXX.
 
@@ -27,9 +27,11 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Journal Articles
+A General Framework for Account Risk Rating on Ethereum: Toward Safer Blockchain Technology
+
+* Conference Papers
+Does Money Laundering on Ethereum Have Traditional Traits?
   
 
 Honors & Awards
