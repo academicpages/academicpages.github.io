@@ -32,5 +32,5 @@ Publications
   {% endfor %}</ul>
   
 
-Publications
+Honors & Awards
 ======
