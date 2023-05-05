@@ -19,19 +19,22 @@ I'm looking for a research assistant position to seek more challenging researche
 Education
 ======
 * Sun Yat-sen University, 2021-2024 (expected)
-    * Master in Software Enginering (GPA:4.0/5.0, Rank: 1/9)
+    * Master in Software Enginering (GPA: 4.0/5.0, Rank: 1/9)
     * Advisor: [Prof. Jiajing Wu](https://scholar.google.com/citations?user=EaqeskUAAAAJ&hl=en) 
 * Dalian University of Technology, 2017-2021
-    * B.S. in Automation (GPA:3.75/5.0, Rank: 4/31)
+    * B.S. in Automation (GPA: 3.75/5.0, Rank: 4/31)
     * Outstanding Undergraduate in Liaoning Province
 
 Publications
 ======
-* Journal Articles
-A General Framework for Account Risk Rating on Ethereum: Toward Safer Blockchain Technology
+* **A General Framework for Account Risk Rating on Ethereum: Toward Safer Blockchain Technology**  
+**Qishuang Fu**, Dan Lin, Jiajing Wu, and Zibin Zheng  
+IEEE Transactions on Computational Social Systems (TCSS),2023  
+[ [<font color="red">Paper</font>](https://ieeexplore.ieee.org/abstract/document/10097741) ]  [ [<font color="red">Coder</font>](https://github.com/fuqishuang228/Risk-Rating_Framework) ] [ [<font color="red">Data</font>](https://www.dropbox.com/scl/fo/naxj68ft8zbl0ssry6128/h?dl=0&rlkey=53tqxfjfs6mtc1cwxnty7okv5) ]
 
-* Conference Papers
-Does Money Laundering on Ethereum Have Traditional Traits?
+* **Does Money Laundering on Ethereum Have Traditional Traits?**  
+**Qishuang Fu**, Dan Lin, Yiyue Cao, and Jiajing Wu  
+IEEE International Symposium on Circuits and Systems (ISCAS),2023
   
 
 Honors & Awards
