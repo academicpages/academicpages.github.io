@@ -16,5 +16,8 @@ In addition to doing research, I also enjoy doing sports and travelling.
 
 I'm looking for a research assistant position to seek more challenging researches on blockchain security. I am excited about the opportunities for collaboration and advancement in my field, and am eager to continue learning and contributing to the research community. If you are willing to learn more about my research or explore potential opportunities for collaboration, I would be honored if you could kindly reach out to me. Thank you for visiting!
 
-
+Education
+======
+* B.S. in Automation, Dalian University of Technology, 2017-2021
+* M.S. in Software Enginering, Sun Yat-sen University, 2021-2024 (expected)
 
