@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alexander C Adia's Personal Site"
+title: "Introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
