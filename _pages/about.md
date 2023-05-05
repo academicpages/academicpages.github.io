@@ -8,7 +8,7 @@ redirect_from:
   - /about.html  
 ---
 
-My name is Z. Sun, a PhD candidate at UCL. I am lucky to be supervised by Prof. [F-X Briol]()(main supervisor) and Prof. [J-H Xue](). My research is mainly funded by EPSRC and UCL jointly; and partially by The Alan Turing Institute. In general, I am very interested in __computational statistics__ and __machine learning__. I have been working on Monte Carlo methods, variance reduction methods, Stein's method, kernel methods and meta-learning. 
+My name is Z. Sun, a PhD candidate at UCL. I am lucky to be supervised by Prof. [F-X Briol]()(main supervisor) and Prof. [J-H Xue](). My research is mainly funded by EPSRC and UCL jointly; and partially by The Alan Turing Institute. In general, I am very interested in __computational statistics__ and __machine learning__. I have been working on Monte Carlo methods, Meta-learning,  Stein's method, kernel methods and Gaussian processes. 
 
 
 
