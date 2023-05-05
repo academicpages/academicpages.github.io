@@ -31,7 +31,7 @@ IEEE International Symposium on Circuits and Systems (ISCAS),2023
 
 Education
 ======
-* Sun Yat-sen University, 2021-2024 (expected)
+* ![image](https://github.com/fuqishuang228/fuqishuang228.github.io/blob/master/images/bio-photo-2.jpg) Sun Yat-sen University, 2021-2024 (expected)
     * Master in Software Enginering (GPA: 4.0/5.0, Rank: 1/9)
     * Advisor: [Prof. Jiajing Wu](https://scholar.google.com/citations?user=EaqeskUAAAAJ&hl=en) 
 * Dalian University of Technology, 2017-2021
