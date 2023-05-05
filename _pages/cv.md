@@ -7,7 +7,5 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-You can find my latest CV as <u><a href="{https://www.overleaf.com/read/zsbdrggfppfw
-}">an Overleaf project</a>.</u>
+You can find my latest CV as <u><a href="https://www.overleaf.com/read/zsbdrggfppfw
+">an Overleaf project</a>.</u>
