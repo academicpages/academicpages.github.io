@@ -18,7 +18,19 @@ I'm looking for a research assistant position to seek more challenging researche
 
 Education
 ======
-* M.S. in Software Enginering, Sun Yat-sen University, 2021-2024 (expected)
-* B.S. in Automation, Dalian University of Technology, 2017-2021
+* Sun Yat-sen University, 2021-2024 (expected)
+    * Master in Software Enginering (GPA:4.0/5.0, Rank: 1/9)
+    * Advisor: [Prof. Jiajing Wu](https://scholar.google.com/citations?user=EaqeskUAAAAJ&hl=en) 
+* Dalian University of Technology, 2017-2021
+    * B.S. in Automation (GPA:3.75/5.0, Rank: 4/31)
+    * Outstanding Undergraduate in Liaoning Province
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 
+Publications
+======
