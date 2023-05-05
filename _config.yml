@@ -86,10 +86,10 @@ author:
   bio              : "A postgraduate student in Sun Yat-sen University of China"
   location         : "Guangzhou, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=1N-pRAMAAAAJ&hl=en"
   email            : "fuqsh6@mail2.sysu.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Qishuang-Fu"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/qishuangfu/"
   orcid            : "http://orcid.org/0009-0000-6964-6641"
   pinterest        :
   soundcloud       :
