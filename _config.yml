@@ -84,37 +84,12 @@ author:
   avatar           : "profile.png"
   bio              : "Doctoral Student in Health Policy at UC Berkeley"
   location         : "Berkeley, CA"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=alexander+adia&sort=date"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=c9uHL7UAAAAJ"
+  email            :  a.adia@berkeley.edu
+  researchgate     : "https://www.researchgate.net/profile/Alexander-Adia"
+  github           : "https://github.com/adiaac"
+  linkedin         : "https://www.linkedin.com/in/alexander-adia-109342a8/"
 
 
 # Reading Files
