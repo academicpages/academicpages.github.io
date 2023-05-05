@@ -39,3 +39,15 @@ IEEE International Symposium on Circuits and Systems (ISCAS),2023
 
 Honors & Awards
 ======
+* Awards
+    * Second Prize in CCF & ATEC the First College Students' Blockchain Security Technology and Innovative Application Competition (Top 5%), 2023
+    * Outstanding Undergraduate in Liaoning Province (Top 1%), 2021
+    * Excellent Undergraduate Thesis at Dalian University of Technology (Top 2%), 2021
+    * Second Prize in Zhangda Cup Market Research and Analysis Competition, 2020
+    
+* Scholarships
+    * First Class Scholarship at Sun Yat-sen University (Top 20%),2021-2023
+    * NOK First-class Scholarship (Top 10%), 2020
+    * Study scholarship at Dalian University of Technology (top 15%), 2020
+    * National Postgraduate Scholarship (Top 1%), 2019
+    
