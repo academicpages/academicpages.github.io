@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qishuang(Amoie) Fu"
+title                    : "Qishuang Fu"
 title_separator          : "-"
-name                     : &name "Qishuang(Amoie) Fu"
+name                     : &name "Qishuang Fu"
 description              : &description "A postgraduate student in Sun Yat-sen University of China"
 url                      : https://fuqishuang228.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
