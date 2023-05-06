@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download academic CV here (PDF)
+Download academic CV [here]([https://github.com/academicpages/academicpages.github.io](https://github.com/KensukeMaeba/Website-CV/blob/main/cv_template/Shorthand-Vertical-Purple.pdf)
 
 Education
 ======
