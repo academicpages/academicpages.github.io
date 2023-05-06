@@ -14,7 +14,7 @@ Pursuing interests outside of academia not only promotes personal growth but als
 * **Traveling**  
     Traveling exposes me to diverse cultures and perspectives, which broadens my horizons and enriches my understanding of the world.
     
-    <img src="https://raw.githubusercontent.com/fuqishuang228/fuqishuang228.github.io/master/images/travel.jpg" width="80%" align="center">
+    <img src="https://raw.githubusercontent.com/fuqishuang228/fuqishuang228.github.io/master/images/travel.jpg" width="90%" align="center">
     
 
 * **Volunteering**  
