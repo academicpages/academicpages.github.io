@@ -12,6 +12,9 @@ IEEE Transactions on Computational Social Systems (TCSS),2023
   
   <img src="https://raw.githubusercontent.com/fuqishuang228/fuqishuang228.github.io/master/images/Fig_framework.png" width="80%" align="center">
 
+    Along with the prosperous development of Ethereum, the high-risk illegal practices on it are becoming more and more rampant, seriously jeopardizing
+the system’s trading security and long-term development. Therefore, detection and quantification of account risk is of great
+importance for both cryptocurrency investors and blockchain security researchers.
 * **Does Money Laundering on Ethereum Have Traditional Traits?**  
 **Qishuang Fu**, Dan Lin, Yiyue Cao, and Jiajing Wu  
 IEEE International Symposium on Circuits and Systems (ISCAS),2023  
