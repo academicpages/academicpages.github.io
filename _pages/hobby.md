@@ -19,5 +19,5 @@ Pursuing interests outside of academia not only promotes personal growth but als
 * **Volunteering**  
     Volunteering makes me a more well-rounded and empathetic person. I feel grateful for the chance to make a difference in the lives of others.
     
-    <img src="https://raw.githubusercontent.com/fuqishuang228/fuqishuang228.github.io/master/images/volunteer.jpg" width="65%" align="center">
+    <img src="https://raw.githubusercontent.com/fuqishuang228/fuqishuang228.github.io/master/images/volunteer.jpg" width="60%" align="center">
     
