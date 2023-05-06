@@ -15,6 +15,6 @@ To achieve this, I draw from theoretical perspectives from the social sciences a
 ![](/images/hay.jpg)
 <div align="center">
 
-*Pictured: Brown's John Hay Library, where most of my academic work to this point was conceptualized*
+Pictured: Brown's John Hay Library, where most of my academic work to this point was conceptualized
 
 </div>
