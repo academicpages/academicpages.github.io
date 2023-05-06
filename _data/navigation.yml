@@ -2,7 +2,7 @@
 main:
   - title: "Research"
     # url: /research/
-    url: /_pages/research.md
+    url: /research/
 
   - title: "Publications"
     url: /publications/

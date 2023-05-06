@@ -203,12 +203,12 @@ defaults:
       share: true
       related: true
   # _pages
-  # - scope:
-  #     path: ""
-  #     type: pages
-  #   values:
-  #     layout: single
-  #     author_profile: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   # # _teaching
   # - scope:
   #     path: ""
