@@ -29,5 +29,7 @@ IEEE International Symposium on Circuits and Systems (ISCAS), 2023
 is known about money laundering on Ethereum. To fill the gap,
 in this paper, we conduct an in-depth study on Ethereum money
 laundering networks through the lens of a representative security
-event on Upbit Exchange to explore whether money laundering
-on Ethereum has traditional traits. 
+event on Upbit Exchange to explore money laundering traits
+on Ethereum. we summarize the findings of money laundering
+on Ethereum, which lay the groundwork for money
+laundering detection on Ethereum.
