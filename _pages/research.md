@@ -2,7 +2,7 @@
 layout: archive
 title: "Research"
 permalink: /research/
-# excerpt: "Research"
+excerpt: "Research"
 author_profile: true
 # redirect_from: 
 #   - /research/
