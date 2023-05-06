@@ -20,5 +20,5 @@ importance for both cryptocurrency investors and blockchain security researchers
 IEEE International Symposium on Circuits and Systems (ISCAS),2023  
 [ [<font color="red">Paper</font>](https://arxiv.org/abs/2303.15841) ] [ [<font color="red">Code</font>](https://github.com/fuqishuang228/ETH_ML_Traits_Analysis/tree/main) ] [ [<font color="red">Data</font>](https://www.dropbox.com/scl/fo/t2ynpos4l2grq383cexnc/h?dl=0&rlkey=wuj0kvzgdu9objp9lvsf66jml) ]
 
-  <img src="http://fuqishuang228.github.io/images/ML.png" width="100%" align="center">
+  <img src="http://fuqishuang228.github.io/images/ML.png" width="100%">
 
