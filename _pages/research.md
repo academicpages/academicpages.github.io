@@ -5,12 +5,20 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Working papers
+======
+* Extrapolation of Treatment Effect Estimates Across Contexts and Policies: An Application to Cash Transfer Experiments (JMP)
+	* Download draft
 
-{% include base_path %}
+* Is Workfare a Good Anti-Poverty Policy? An Assessment Based on Household Welfare, School Enrollment, and Program Expenditures
+	* Download draft
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* How the Political Power of Teacher Unions Affects Education (joint with Eduardo Campillo Betancourt)
+	* Download draft
+
+
+Work in progress
+======
+* Birth Order Effect Under a Cash Transfer Program, July 2019
+	* [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3010113)
+	
