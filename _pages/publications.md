@@ -25,10 +25,10 @@ IEEE International Symposium on Circuits and Systems (ISCAS), 2023
 
   <img src="http://fuqishuang228.github.io/images/ML.png" width="90%">
 
-    since money laundering on Ethereum is an emerging means, little
+    Since money laundering on Ethereum is an emerging means, little
 is known about money laundering on Ethereum. To fill the gap,
 in this paper, we conduct an in-depth study on Ethereum money
-laundering networks through the lens of a representative security
+laundering through the lens of a representative security
 event on Upbit Exchange to explore money laundering traits
 on Ethereum. we summarize the findings of money laundering
 on Ethereum, which lay the groundwork for money
