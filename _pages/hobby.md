@@ -4,16 +4,26 @@ title: "Hobby"
 permalink: /hobby/
 author_profile: true
 ---
-* **A General Framework for Account Risk Rating on Ethereum: Toward Safer Blockchain Technology**  
-**Qishuang Fu**, Dan Lin, Jiajing Wu, and Zibin Zheng  
-IEEE Transactions on Computational Social Systems (TCSS), 2023  
-[ [<font color="red">Paper</font>](https://ieeexplore.ieee.org/abstract/document/10097741) ]  [ [<font color="red">Code</font>](https://github.com/fuqishuang228/Risk-Rating_Framework) ] [ [<font color="red">Data</font>](https://www.dropbox.com/scl/fo/naxj68ft8zbl0ssry6128/h?dl=0&rlkey=53tqxfjfs6mtc1cwxnty7okv5) ]
-  
+* **Doing Sports**  
   <img src="https://raw.githubusercontent.com/fuqishuang228/fuqishuang228.github.io/master/images/Fig_framework.png" width="80%" align="center">
-
     Various illegal activities on Ethereum are rampant, seriously jeopardizing the system’s trading security and long-term development. In this paper, we propose the first general
 framework for account risk rating on Ethereum, which includes
 a devisable suspiciousness metric to adapt to various illicit fraud
 detection and a network propagation mechanism to formulate
 the relations between accounts and transactions.
 
+* **Traveling**
+    <img src="https://raw.githubusercontent.com/fuqishuang228/fuqishuang228.github.io/master/images/Fig_framework.png" width="80%" align="center">
+    Various illegal activities on Ethereum are rampant, seriously jeopardizing the system’s trading security and long-term development. In this paper, we propose the first general
+framework for account risk rating on Ethereum, which includes
+a devisable suspiciousness metric to adapt to various illicit fraud
+detection and a network propagation mechanism to formulate
+the relations between accounts and transactions.
+
+* **Volunteering**
+    <img src="https://raw.githubusercontent.com/fuqishuang228/fuqishuang228.github.io/master/images/Fig_framework.png" width="80%" align="center">
+    Various illegal activities on Ethereum are rampant, seriously jeopardizing the system’s trading security and long-term development. In this paper, we propose the first general
+framework for account risk rating on Ethereum, which includes
+a devisable suspiciousness metric to adapt to various illicit fraud
+detection and a network propagation mechanism to formulate
+the relations between accounts and transactions.
