@@ -13,4 +13,4 @@ I am a first year doctoral student in Health Policy at UC Berkeley. My research 
 To achieve this, I draw from theoretical perspectives from the social sciences and leverage methods from health policy, health services research, and economics. My current work focuses on the social safety in provision of health services as well as policy solutions to medical debt. 
 
 ![](/images/hay.jpg)
-*Pictured: Brown's John Hay Library, where most of my academic work to this point was conceptualized*
+<div align="center"> *Pictured: Brown's John Hay Library, where most of my academic work to this point was conceptualized*</div>
