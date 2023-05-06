@@ -41,7 +41,7 @@ staticman:
   requiredFields         : ['name', 'email', 'message']
   transforms:
 #    email                : "md5"
-   email                : fuqishuang@mail2.sysu.edu.cn
+   email                : "fuqishuang@mail2.sysu.edu.cn"
   generatedFields:
     date:
       type               : "date"
