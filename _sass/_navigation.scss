@@ -175,7 +175,8 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  // background: $background-color;
+  background: black;
 
   a {
     display: block;
