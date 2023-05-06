@@ -17,6 +17,7 @@ IEEE Transactions on Computational Social Systems (TCSS),2023
 IEEE International Symposium on Circuits and Systems (ISCAS),2023  
 [ [<font color="red">Paper</font>](https://arxiv.org/abs/2303.15841) ] [ [<font color="red">Code</font>](https://github.com/fuqishuang228/ETH_ML_Traits_Analysis/tree/main) ] [ [<font color="red">Data</font>](https://www.dropbox.com/scl/fo/t2ynpos4l2grq383cexnc/h?dl=0&rlkey=wuj0kvzgdu9objp9lvsf66jml) ]
 
+  <img src="https://raw.githubusercontent.com/fuqishuang228/fuqishuang228.github.io/master/images/ML.png" width="70%" align="center">
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
