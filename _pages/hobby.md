@@ -9,7 +9,7 @@ Pursuing interests outside of academia not only promotes personal growth but als
 * **Doing Sports**  
     Doing sports helps me maintain a healthy balance between work and personal life. It allows me to clear my mind and recharge my energy.
     
-    <img src="http://fuqishuang228.github.io/images/sports.jpg" width="70%" align="center">
+    <img src="http://fuqishuang228.github.io/images/sports.jpg" width="60%" align="center">
     
 * **Traveling**  
     Traveling exposes me to diverse cultures and perspectives, which broadens my horizons and enriches my understanding of the world.
