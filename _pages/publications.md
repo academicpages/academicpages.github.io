@@ -10,7 +10,7 @@ author_profile: true
 IEEE Transactions on Computational Social Systems (TCSS),2023  
 [ [<font color="red">Paper</font>](https://ieeexplore.ieee.org/abstract/document/10097741) ]  [ [<font color="red">Code</font>](https://github.com/fuqishuang228/Risk-Rating_Framework) ] [ [<font color="red">Data</font>](https://www.dropbox.com/scl/fo/naxj68ft8zbl0ssry6128/h?dl=0&rlkey=53tqxfjfs6mtc1cwxnty7okv5) ]
   
-  <img src="https://raw.githubusercontent.com/fuqishuang228/fuqishuang228.github.io/master/images/Fig_framework.png" width="80%">
+  <img src="https://raw.githubusercontent.com/fuqishuang228/fuqishuang228.github.io/master/images/Fig_framework.png" width="80%" align="center">
 
 * **Does Money Laundering on Ethereum Have Traditional Traits?**  
 **Qishuang Fu**, Dan Lin, Yiyue Cao, and Jiajing Wu  
