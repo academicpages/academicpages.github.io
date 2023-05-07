@@ -7,18 +7,20 @@ author_profile: true
 
 ## Invited Talks
 
+**23/04/12** NAOJ Science Colloquium - Tokyo: *\”Learning Representations of Galaxies”/*
+
 **23/03/07** SKA-Japan Workshop 2022 - Tokyo: *\"Wavelets and Sparsity for Faraday Tomography"\*
  
-**23/02/20** SKA-Japan Webinar Series - Online: *\"Galaxy Manifold with SKA"\*
+**23/02/20** SKA-Japan Webinar Series - Online: *\"Galaxy Manifold with SKA\"*
 
 **22/12/13** IPMU Astro Lunch Seminar - Tokyo: *\"Machine Learning-based
-Approach to Understanding Galaxies\"*
+Approach to Understanding Galaxies"\*
 
 **22/11/22** Machine Learning in Astrophysics - Nagoya: *\"Understanding
-Galaxies through Dimensionality Reduction\"*
+Galaxies through Dimensionality Reduction"\*
 
 **21/10/12** NECO Collaboration Teletalk - Online: *\"Observing
-Magnetism with Faraday Tomography\"*
+Magnetism with Faraday Tomography"\*
 
 
 

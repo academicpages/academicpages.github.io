@@ -24,12 +24,12 @@ I invite you to explore my website and learn more about my research, publication
 * **2023/3/27** Obtained my Doctor of Science from Nagoya University!
 
 
-Contact
+<!-- Contact
 ========
 Division of Science, National Astronomical Observatory of Japan, \\
 <!-- Furo-cho, Chikusa-ku, Nagoya 464–8602, Japan\\ -->
 Email: cooraysuchetha(AT)gmail.com* 
-*replace "(AT)" with "@"
+*replace "(AT)" with "@" -->
 
 
 
