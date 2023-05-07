@@ -85,13 +85,13 @@ Skills
   * C++
   * Python
   * MATLAB
-  * Oracle database
-  * Android
-  * Java 
+  * SQL
+  * R
+  * MERN Stack
   * Typescript
  
 
-* Hardware and Network troubleshooting Skill
+* Computer Hardware and Network troubleshooting Skill
   * Cisco Certified Network Associate, CCNA I
 
 * Microsoft Oﬀice Product
@@ -116,15 +116,15 @@ Skills
 * Leadership and Management Skill
 
 <div style="text-align: center;">
-  <img src="/images/c++.png" alt="BDU" style="display: inline-block; width: 50px;">
-  <img src="/images/python.png" alt="PPCU" style="display: inline-block; width: 50px;">
-  <img src="/images/matlab.png" alt="UAM" style="display: inline-block; width: 50px;">
-  <img src="/images/keras.jpeg" alt="UBx" style="display: inline-block; width: 50px;">
-  <img src="/images/open.png" alt="BDU" style="display: inline-block; width: 50px;">
-  <img src="/images/tensor.png" alt="PPCU" style="display: inline-block; width: 50px;">
-  <img src="/images/pcl.png" alt="UAM" style="display: inline-block; width: 50px;">
-  <img src="/images/scikit.png" alt="UBx" style="display: inline-block; width: 50px;">
-  <img src="/images/pytorch.png" alt="BDU" style="display: inline-block; width: 50px;">
+  <img src="/images/c++.png" alt="C++" style="display: inline-block; width: 50px;">
+  <img src="/images/python.png" alt="Python" style="display: inline-block; width: 50px;">
+  <img src="/images/matlab.png" alt="Mathlab" style="display: inline-block; width: 50px;">
+  <img src="/images/keras.jpeg" alt="Keras" style="display: inline-block; width: 50px;">
+  <img src="/images/open.png" alt="OpenCV" style="display: inline-block; width: 50px;">
+  <img src="/images/tensor.png" alt="TensorFlow" style="display: inline-block; width: 50px;">
+  <img src="/images/pcl.png" alt="PCL" style="display: inline-block; width: 50px;">
+  <img src="/images/scikit.png" alt="Scikit" style="display: inline-block; width: 50px;">
+  <img src="/images/pytorch.png" alt="Pytorch" style="display: inline-block; width: 50px;">
 </div>
 
 
