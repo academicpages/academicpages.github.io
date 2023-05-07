@@ -7,11 +7,11 @@ author_profile: true
 # redirect_from: 
 #   - /research/
 #   - /research.html
-excerpt: "More about my research, research interests and models I'm currently working with."
-header:
-  overlay_image: images/image-alignment-1200x4002.jpg
-  overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
-  caption: "Photo: J. Garbe"
+# excerpt: "More about my research, research interests and models I'm currently working with."
+# header:
+#   overlay_image: images/image-alignment-1200x4002.jpg
+#   overlay_filter: 0.2 # same as adding an opacity of 0.2 to a black background
+#   caption: "Photo: J. Garbe"
 ---
 
 ### This page is under construction. 

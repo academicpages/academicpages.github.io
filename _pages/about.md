@@ -18,6 +18,12 @@ I earned my doctorate at Nagoya University, where I investigated the potential o
 
 I invite you to explore my website and learn more about my research, publications, and ongoing projects. Some parts are still under construction but thank you for visiting!
 
+## Recent Updates
+* **2023/4/01** Moved to National Astronomical Observatory of Japan as a Japan Society for Promotion of Science (JSPS) Postdoctoral Fellow!
+
+* **2023/3/27** Obtained my Doctor of Science from Nagoya University!
+
+
 Contact
 ========
 Division of Science, National Astronomical Observatory of Japan, \\
@@ -25,10 +31,7 @@ Division of Science, National Astronomical Observatory of Japan, \\
 Email: cooraysuchetha(AT)gmail.com* 
 *replace "(AT)" with "@"
 
-<!-- Division of Particle and Astrophysical Science, Nagoya University, \\
-Furo-cho, Chikusa-ku, Nagoya 464–8602, Japan\\
-Email: cooray(AT)nagoya-u.jp* 
-*replace "(AT)" with "@" -->
+
 
 <!-- Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=5&user=r8HVLvEAAAAJ
 Researchgate: https://www.researchgate.net/profile/Suchetha_Cooray
