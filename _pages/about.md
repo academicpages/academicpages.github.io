@@ -10,27 +10,26 @@ redirect_from:
 
 <!-- ### This page is under construction. Please go to this [site](https://sites.google.com/view/suchethac) -->
 
-Welcome! I am a theoretical astrophysicist at the National Astronomical Observatory of Japan (NAOJ), where I hold a JSPS Postdoctoral Fellowship.
+**Welcome! I am an astrophysicist at the National Astronomical Observatory of Japan, where I hold a JSPS Postdoctoral Fellowship.**
 
-My research focuses on understanding the complex physics that govern galaxy formation and evolution across a wide range of physical scales. Specifically, I use state-of-the-art simulations and machine learning techniques to forward-model galaxy observables. This allows me to explore a variety of astrophysical processes, from the formation of the youngest galaxies to the growth of massive dark matter haloes that surround galaxies.
+My research focuses on understanding the complex physics that govern galaxy formation and evolution across a wide range of physical scales. More specifically, I use state-of-the-art simulations and machine learning techniques to forward-model observable properties of galaxies. This allows me to explore a variety of astrophysical processes in a data-driven way, from the formation of the youngest galaxies to the growth of massive dark matter haloes that surround galaxies.
 
-I earned my doctorate at Nagoya University, where I investigated the potential of machine learning techniques for understanding galaxy evolution and formation. Prior to that, I focused on solving inverse problems in astrophysics, particularly in the context of imaging surveys and Faraday tomography.
+I earned my doctorate at Nagoya University, where I investigated the potential of unsupervised machine learning techniques for understanding galaxy evolution. Prior to that, I focused on solving inverse problems in astrophysics, particularly in the context of imaging surveys and Faraday tomography.
 
 I invite you to explore my website and learn more about my research, publications, and ongoing projects. Some parts are still under construction but thank you for visiting!
 
 ## Recent Updates
-* **2023/4/01** Moved to National Astronomical Observatory of Japan as a Japan Society for Promotion of Science (JSPS) Postdoctoral Fellow!
+- **2023/4/01** Moved to National Astronomical Observatory of Japan as a Japan Society for Promotion of Science (JSPS) Postdoctoral Fellow.
 
-* **2023/3/27** Obtained my Doctor of Science from Nagoya University!
+- **2023/3/27** Obtained the Doctor of Science from Nagoya University, Japan!
 
 
 <!-- Contact
 ========
 Division of Science, National Astronomical Observatory of Japan, \\
-<!-- Furo-cho, Chikusa-ku, Nagoya 464–8602, Japan\\ -->
-Email: cooraysuchetha(AT)gmail.com* 
-*replace "(AT)" with "@" -->
-
+Furo-cho, Chikusa-ku, Nagoya 464–8602, Japan\\ 
+Email: cooraysuchetha(AT)gmail.com* *replace "(AT)" with "@"
+-->
 
 
 <!-- Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=5&user=r8HVLvEAAAAJ
@@ -50,11 +49,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
