@@ -22,4 +22,5 @@ For me, I listed my burning needs:
 
 When I was watching the [youtube video](https://www.youtube.com/watch?v=4zXTyc2ZjXM) this morning, I realized that it is spring break at CMU this coming week, and it seems to be an excellent chance that I plan out and exercise my 5 am plan. So, here is how I am starting my 5 am project.
 
-
+<!-- ## Reflections
+The excitment in my head rought back my memories in my undergrad time. As a undergrad in a regular institution in China, all I wanted at that time was to get out of that situation and study at the US. I got up extremely early and got back to dorm 15 mins before the dorm closed the main gate and continued doing this for almost 2 years. I seemed to lost such passion as -->
