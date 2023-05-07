@@ -31,7 +31,7 @@ Skills
 ======
 * Programming
   * Languages: Python, Java, MATLAB, SQL, HTML, CSS, JavaScript
-  * Frameworks and libraries: Git, PyTorch, OpenCV, Scikit-learn, PySpark, Databricks, AWS, MySQL, React, Django, Dash, LaTex, VSCode
+  * Frameworks and libraries: Git, PyTorch, OpenCV, Scikit-learn, PySpark, Databricks, AWS, MySQL, Flask, Docker, Dash, LaTex, VSCode
 * Materials Characterization
   * OM, SEM, EBSD, XRD, CT
   * Synchrotron x-ray imaging and diffraction
@@ -87,7 +87,7 @@ Graduate Coursework
 17-637: Web Application Development\
 17-514: [Principles of Software System Construction](https://cmu-17-214.github.io/f2022/)\
 17-645: [Machine Learning in Production (Spring 2023)](https://mlip-cmu.github.io/s2023/)\
-16-824: [Visual Learning and Recognition (Spring 2023))](https://visual-learning.cs.cmu.edu/)
+16-824: [Visual Learning and Recognition (Spring 2023)](https://visual-learning.cs.cmu.edu/)
 
 (Materials Science)\
 27-709: Engineering Biomaterials\
