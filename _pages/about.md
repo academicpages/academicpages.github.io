@@ -32,7 +32,7 @@ I have earned several certifications, including the CCNA I and II certifications
 I have also been involved in various organizational and voluntary work, including volunteering at the Ethiopian Red Cross Society and organizing a fundraiser for a local charity in Bahir Dar, Ethiopia. <a href="https://getnetdemil.github.io/cv/">Details</a> <br><br>
 
 Thank you for visiting my page, and feel free to contact me for any further information or inquiries.<br><br>
-  Phone: +36300943939<br>
+  Phone: +34647108351<br>
   Email: getnetd24@gmail.com<br>
   <a href="https://getnetdemil.github.io/cv/">Curriculum Vitae </a>
 </div>
