@@ -7,11 +7,10 @@ redirect_from:
   - /resume
 ---
 
-You can find my latest CV <u><a href="https://www.overleaf.com/read/zsbdrggfppfw">here</a>.</u>
+You can find my latest CV [here](https://www.overleaf.com/read/zsbdrggfppfw).
 
-![](/images/morrison.jpg)
 <div align="center">
-
+![](/images/morrison.jpg)
 Pictured: Berkeley's Morrison Library, my favorite reading room on campus
 
 </div>
