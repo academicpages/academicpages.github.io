@@ -12,7 +12,7 @@ redirect_from:
 ## Experience
 
 - **Team Lead**, CDC Center for Forecasting & Outbreak Analytics (2023--)
-- **Senior Quantitative Epidemiologist/Modeler**, Leidos (2022-2023)
+- **Senior Quantitative Epidemiologist/Modeler**, Leidos (2022--2023)
     - Supported CDC Center for Forecasting & Outbreak Analytics
     - Cataloged and analyzed models contributing to the Covid-19 Forecast Hub
     - Developed statistical analysis methods for traveler-based genomic screening data
