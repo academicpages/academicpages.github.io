@@ -16,7 +16,8 @@ My name is Z. Sun, a PhD candidate at UCL. I am lucky to be supervised by Prof. 
 
 ## Publication
 * __Sun, Z.__, Oates, C. J. & Briol, F-X. (2023). Meta-learning Control Variates: Variance Reduction with Limited Data. arXiv:2303.04756. _[(pre-print)](https://arxiv.org/abs/2303.04756)_.
-*   __Sun, Z.__, Barp, A., Briol, F.-X.(2023). Vector-valued Control Variates. Accepted for publication In Proceedings of the 40th International Conference on Machine Learning (__ICML__) <span style="color:red">
+*   __Sun, Z.__, Barp, A., Briol, F.-X.(2023). Vector-valued Control Variates. Accepted for publication In Proceedings of the 40th International Conference on Machine Learning (__ICML__) 
+<span style="color:red">
 __ICML__
 </span>.
 *   __Sun, Z.__, Wu, J., Li, X., Yang, W., Xue, J-H.(2021). Amortized Bayesian Prototype Meta-learning: A new probabilistic meta-learning approach to few-shot image classification. In Proceedings of the 24th International Conference on Artificial Intelligence and Statistics (__AISTATS__).
