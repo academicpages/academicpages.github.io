@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 You can find my latest CV [here](https://www.overleaf.com/read/zsbdrggfppfw).
-
-<div align="center">
 ![](/images/morrison.jpg)
-Pictured: Berkeley's Morrison Library, my favorite reading room on campus
 
-</div>
+<div align="center"> Pictured: Berkeley's Morrison Library, my favorite reading room on campus </div>
