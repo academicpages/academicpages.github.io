@@ -51,6 +51,6 @@ Honors & Awards
 * **Scholarships**
     * First Class Scholarship at Sun Yat-sen University (Top 20%),2021-2023
     * NOK First-class Scholarship (Top 10%), 2020
-    * Study scholarship at Dalian University of Technology (Top 15%), 2020
+    * Study Scholarship at Dalian University of Technology (Top 15%), 2020
     * National Postgraduate Scholarship (Top 1%), 2019
     
