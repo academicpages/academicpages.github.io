@@ -83,11 +83,11 @@ author:
   name             : "Suchetha Cooray"
   avatar           : "cooray_profile.png"
   bio              : "Understanding the Universe with Machines"
-  location         : "Nagoya, Japan"
+  location         : "Tokyo, Japan"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=5&user=r8HVLvEAAAAJ"
-  email            : "cooray@nagoya-u.jp"
+  email            : "cooraysuchetha@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Suchetha-Cooray"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/suchethacooray/"
+  # linkedin         : "https://www.linkedin.com/in/suchethacooray/"
   orcid            : "https://orcid.org/0000-0002-9217-1696"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "suchethacooray"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
