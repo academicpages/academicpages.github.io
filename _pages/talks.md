@@ -27,7 +27,7 @@ Magnetism with Faraday Tomography"*
 
 ## Conference & Workshop Talks
 
-**22/03/22** Galaxy Formation and Evolution in the Data Science Era - Santa Barbara, USA: *"Learning representations of galaxies from simulations and observations"*
+**23/03/22** Galaxy Formation and Evolution in the Data Science Era - Santa Barbara, USA: *"Learning representations of galaxies from simulations and observations"*
 
 **23/03/15** Spring Annual Meeting of Astronomical Society of Japan - Tokyo, Japan: *"Generative Model of Simulated Galaxies for Fitting Observed SEDs"*
     
