@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am an epidemiologist, modeler, and multidisciplinary data scientist with
-experience in infectious disease, microbiome science, microbiology, antibiotic
-resistance, statistics, computing, and mathematical modeling. I have developed
-skill sets in facilitation, technical communication, and project management.
+I am a team lead in the US CDC's new [Center for Forecasting and Outbreak
+Analytics](https://www.cdc.gov/forecast-outbreak-analysis/index.html). CFA's
+goals is to enable timely, effective decision-making to improve outbreak
+response using data, modeling, and analytics.
+
+My background is in data science and epidemiology, including in infectious
+disease, microbiome science, microbiology, antibiotic resistance, statistics,
+computing, and mathematical modeling. I have developed skill sets in
+facilitation, technical communication, and project management.
 
 ## Work history
 
-Starting December 2022, I joined the US CDC's new [Center for
-Forecasting and Outbreak
-Analytics](https://www.cdc.gov/forecast-outbreak-analysis/index.html) via a
-contractor position with [Leidos](https://www.leidos.com/).
-
-During 2021--2022, I was at [Biobot Analytics](https://www.biobot.io),
+During 2021--2022, I was at [**Biobot Analytics**](https://www.biobot.io),
 where I built the Epidemiology Group. The goal of that team is to
 connect wastewater-based data streams with public health
 actions. Biobot performs Covid-19 monitoring for places
@@ -28,21 +28,19 @@ like [Boston, MA](https://www.mwra.com/biobot/biobotdata.htm). You can learn mor
 by watching my [career chat](https://www.youtube.com/watch?v=S8_Dd8RIKvo)
 with [Vivify Space Club](https://www.vivifystem.com/space-club)!
 
-During 2020--2021, I was a part-time Research Analyst in the [Center for Public Health
-Preparedness and Resilience](https://www.cna.org/centers/ipr/phpr/) in the
-[Institute for Public Research](https://www.cna.org/centers/ipr/) at
-[CNA](https://www.cna.org/). CNA is a nonprofit research institute that
-provides objective analysis to Federal, state, and local government. At CNA,
-I helped advise the US Navy, Federal agencies, and state and city
-officials, especially on their Covid-19 responses.
+During 2020--2021, I was a part-time Research Analyst at
+[**CNA**](https://www.cna.org/), a nonprofit research institute that provides
+objective analysis to Federal, state, and local government. At CNA, I helped
+advise the US Navy, Federal agencies, and state and city officials, especially
+on their Covid-19 responses.
 
 As an independent epidemiological consultant with Dr. [Yonatan
 Grad](https://www.hsph.harvard.edu/yonatan-grad/), I co-designed a model used
-to inform the design of the National Basketball Association's "bubble"
+to inform the design of the **National Basketball Association**'s "bubble"
 for the 2020 play-offs.
 
 Before Covid-19, I was Scientific Director at
-[OpenBiome](http://www.openbiome.org), a non-profit stool bank based in
+[**OpenBiome**](http://www.openbiome.org), a non-profit stool bank based in
 Boston. OpenBiome provides material for fecal microbiota transplantation
 (FMT) for use in treating *C. difficile* infection and for research.
 
