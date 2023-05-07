@@ -8,6 +8,8 @@ header:
   og_image: "/images/research/lorenz.png"
 ---
 
+
+
 Many scientific computing applications such as uncertainty quantification (UQ), inverse problems, and system optimization, are solved by outer loop algorithms that require repeated runs of forward simulations. The computational cost of each inner loop run is typically large, as forward simulations are complex physical models. At the same time, the number of forward runs required for an accurate outer loop solution is also large, either because of the number of outer optimization iterations, or the number of Monte-Carlo samples needed. 
 
 To alleviate the large computational costs it is imperative to develop inexpensive surrogate models that when called upon can replace the repeated runs of expensive physics-based models. Construction of accurate surrogates for complex models is challenging. Traditional model order reduction approaches are limited to approximating dynamics in a linear subspace. Nonlinear approximation approaches such as deep learning are needed to fully capture complex behavior , but conventional data-driven models perform poorly when training data is limited.
