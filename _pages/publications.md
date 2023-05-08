@@ -1,16 +1,14 @@
 ---
 layout: archive
-title: "Publications"
+title: "Library"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+I provide a few collections of my research, grouped by key topics of interest. If you find that you cannot access an article that you want, please feel free to contact me.
 
-{% include base_path %}
+## Asian American Health
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Filipinx/a/o Health
+
+## HIV in the Philippines
