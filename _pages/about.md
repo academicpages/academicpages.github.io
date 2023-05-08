@@ -16,7 +16,7 @@ My research focuses on *discourse* phenomena and *pragmatics*. My main interest 
 
 I also co-organized [the Second Workshop on Understanding Implicit and Underspecified Language](https://unimplicit2022.github.io/), collocated with NAACL-2022 in Seattle.
 
-Besides this I love rowing (currently at Lake Washington Rowing Club) and going to the "cinemathèque". My Erdős number is 3.
+Besides this I love rowing (currently at Lake Washington Rowing Club) and going to the "cinemathèque". My Erdős number is 3 (Paul Erdős → Noga Alon → Ido Dagan → Me).
 
 ### News
 * May 2023: Paper accepted to ACL 2023!
