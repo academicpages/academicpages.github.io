@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : # "en-US"
-title                    : "Yan Wang"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Yan Wang"
-description              : &description "Research Assistant Professor @ AIR, Tsinghua University"
+description              : &description "Tsinghua University"
 url                      : https://yanwang202199.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yanwang202199/yanwang202199.github.io"
