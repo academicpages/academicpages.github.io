@@ -27,7 +27,10 @@ Outside academia, I study and train the [Brazilian Jiu-Jitsu](https://en.wikiped
       <a href="/files/prolex.pdf">
       [Pdf]
       </a>
-    </font>
+      <a href="https://arxiv.org/pdf/2305.03129.pdf">
+      [Arxiv]
+      </a>
+    </font> 
     </li>
 </ul>
 <ul>
