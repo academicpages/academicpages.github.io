@@ -147,6 +147,10 @@ ArXiv. [[pdf]](https://arxiv.org/abs/2304.08354) [[code]](https://github.com/Ope
 (Submitted to TACL). [[pdf]](https://www.dropbox.com/s/0yuudhokyyomkup/Removing_Backdoors_in_Pre-trained_Models_by_Regularized_Continual_Pretraining.pdf?dl=0) 
 -->
 
+## Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=Prompt-Transferability)](https://github.com/thunlp/Prompt-Transferability)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=AgentVerse)](https://github.com/OpenBMB/AgentVerse)
 
 <!--
 ## Teaching
