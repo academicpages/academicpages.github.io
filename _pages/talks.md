@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Talks"
+permalink: /talks/
+author_profile: true
+---
+
+{% include base_path %}
+
 Panel, VCIP 2022  
 http://www.vcip2022.org/Panel2.html  
 Panel Title:Deep Learning based Image and Video Compression  
