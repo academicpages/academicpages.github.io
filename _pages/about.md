@@ -25,13 +25,13 @@ My name is Z. Sun, a PhD candidate at UCL. I am lucky to be supervised by Prof. 
 
 
 ## Talk/Presentation
-*   Talk at topic-contributed sessions of _[Joint Statistical Meetings]()_, August 2022, USA.
-*   Talk at _[SIAM Conference on Uncertainty Quantification]()_, April 2022, USA.
-*   Poster at _[AI UK 2022]()_, March 2022, UK.
-*   Poster at _[Statistics at Bristol: FRY]()_, September 2021, UK. 
-*   Talk at _[International Conference on Monte Carlo Methods and Applications]()_ (Special Session on Stein's method), August 2021, German.
-*   Poster at _[International Conference on Artificial Intelligence and Statistics]()_, April 2021, USA.
-*   Talk at _[Data-Centric Engineering Seminars]()_ @ [The Alan Turing Institue](), March 2021, UK.
+*   Talk at topic-contributed sessions of _Joint Statistical Meetings_, August 2022, USA.
+*   Talk at _SIAM Conference on Uncertainty Quantification_, April 2022, USA.
+*   Poster at _AI UK 2022_, March 2022, UK.
+*   Poster at _Statistics at Bristol: FRY_, September 2021, UK. 
+*   Talk at _International Conference on Monte Carlo Methods and Applications_ (Special Session on Stein's method), August 2021, German.
+*   Poster at _International Conference on Artificial Intelligence and Statistics_, April 2021, USA.
+*   Talk at _Data-Centric Engineering Seminars_ @ The Alan Turing Institue, March 2021, UK.
 
 
 ## Selected Award
