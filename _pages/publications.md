@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal Articles
 
-[submitted] Dai, M.Q., **B.M. Geyman**, X.C. Hu, C. P. Thackray, and E.M. Sunderland. (2023). “Sociodemographic Disparities in Mercury Exposure from U.S. Coal-Fired Power Plants.” *Environmental Science and Technology Letters*.
+[*In Revision*] Dai, M.Q., **B.M. Geyman**, X.C. Hu, C. P. Thackray, and E.M. Sunderland. (2023). “Sociodemographic Disparities in Mercury Exposure from U.S. Coal-Fired Power Plants.”
 
 [3] Olson, C.I., **B.M. Geyman**, C. P. Thackray, D.P. Krabbenhoft, M.T. Tate, E.M. Sunderland, and C.T. Driscoll. (2022). “Mercury in soils of the conterminous United States: patterns and pools.” *Environmental Research Letters*, 17, 074030. <a href="https://doi.org/10.1088/1748-9326/ac79c2">https://doi.org/10.1088/1748-9326/ac79c2</a>. \[**[PDF](https://bgeyman.github.io/files/Olson_et_al_2022_mercury_in_conterminous_US_soils.pdf)**\]
 
