@@ -89,6 +89,7 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 * [Feb. 2021] Got one paper accepted at WWW 2021. 
 * [Aug. 2020] Got one paper accepted at EMNLP 2020. 
 </font> -->
+* [May. 2023] [AgentVerse](https://github.com/OpenBMB/AgentVerse) was publish. It provides a flexible framework that simplifies the process of building custom multi-agent environments for large language models (LLMs).
 * [Jan. 2023] [Parameter-efficient Fine-tuning of Large-scale Pre-trained Language Models](https://www.nature.com/articles/s42256-023-00626-4) was accepted by [Natural Machine Intelligence](https://www.nature.com/natmachintell/).
 * [Sep. 2022] Advancement of Foundation Models. Invited Talk (on-line) @ [SAP - AI Research](https://www.sap.com/products/artificial-intelligence.html), Headquarter, Germany.
 * [Jul. 2022] I will attend [NAACL 2022](https://2022.naacl.org/) in person to orally present our works and look forward to meeting new/old friends in Seattle.
