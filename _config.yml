@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name ""
-description              : &description "Living to forget myself"
+description              : &description " Living to forget myself"
 url                      : https://panlizhi.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "panlizhi.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : #"Pan Lizhi"
   avatar           : "myphoto1.jpg"
-  bio              : "Living to forget myself"
+  bio              : " Living to forget myself"
   location         : "Beijing"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uSD39pUAAAAJ&hl=zh-CN"
-  email            :
+  email            : "panlz_bit@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -224,7 +224,7 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _portfolio
@@ -233,7 +233,7 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comment: true
   # _talks
