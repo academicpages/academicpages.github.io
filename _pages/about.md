@@ -13,7 +13,7 @@ Chen is currently pursuing a Master's degree in Computer Science at Virginia Tec
 Education
 =========
 
-- VT (Virginia Polytechnic Institute and State University)
+- Virginia Tech (Virginia Polytechnic Institute and State University)
   - M.S. in Computer Science and Applications
   - 
 
