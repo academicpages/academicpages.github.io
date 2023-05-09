@@ -138,8 +138,7 @@
       }
     }
 
-    .
-     ,
+    .page__title,
     .page__meta,
     .page__lead,
     .btn {
@@ -151,12 +150,11 @@
       max-width: $medium;
     }
 
-.page__title {
-  font-size: $type-size-2;
-  display: none;
+    .page__title {
+      font-size: $type-size-2;
 
-  @include breakpoint($small) {
-    font-size: $type-size-1;
+      @include breakpoint($small) {
+        font-size: $type-size-1;
       }
     }
   }
