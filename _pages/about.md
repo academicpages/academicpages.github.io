@@ -15,11 +15,12 @@ Education
 
 - Virginia Tech (Virginia Polytechnic Institute and State University)
   - M.S. in Computer Science and Applications
-  - 
+  - GPA: 
+  - MS thesis: 
 
 - NCUE (National Changhua University of Education)
   - B.S. in Computer Science and Information Engineering
-  - Undergraduate senior project: Data Distribution Strategy With High Computational Efficiency In Spark
+  - GPA: 3.4/4.0
 
 Skills
 ======
