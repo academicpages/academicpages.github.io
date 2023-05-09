@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Welcome to my website!
 ======
 I am a PhD Candidate in Economics at the University of Mannheim and a Doctoral Researcher at ZEW - Leibniz Centre for European Economic Research. 
