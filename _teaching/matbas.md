@@ -37,7 +37,7 @@ Disponível no sistema SAGRES.
 Datas das Provas
 ======
 * Primeira prova: ~~14/03/2023~~10/04/2023
-* Segunda prova:  25/04/2023
+* Segunda prova:  ~~25/04/2023~~ 16/05/2023
 * Terceira prova: 12/06/2023
 * Prova Final : 16/06/2023
 
