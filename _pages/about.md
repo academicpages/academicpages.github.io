@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: "Chiara Malavasi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+**Welcome to my website!**
+=====
 
 I am a PhD Candidate in Economics at the University of Mannheim and a Doctoral Researcher at ZEW - Leibniz Centre for European Economic Research. 
 
