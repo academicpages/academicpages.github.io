@@ -151,11 +151,12 @@
       max-width: $medium;
     }
 
-    .page__title {
-      font-size: $type-size-2;
+.page__title {
+  font-size: $type-size-2;
+  display: none;
 
-      @include breakpoint($small) {
-        font-size: $type-size-1;
+  @include breakpoint($small) {
+    font-size: $type-size-1;
       }
     }
   }
