@@ -13,7 +13,13 @@ Chen is currently pursuing a Master's degree in Computer Science at Virginia Tec
 Education
 =========
 
+- VT (Virginia Polytechnic Institute and State University)
+  - M.S. iN COMPUTER SCiENCE AND APPLiCATiONS
+  - 
 
+- NCUE (National Changhua University of Education)
+  - B.S. iN COMPUTER SCiENCE AND INFORMATiON ENGiNEERiNG
+  - Undergraduate senior project: Data Distribution Strategy With High Computational Efficiency In Spark
 
 Skills
 ======
