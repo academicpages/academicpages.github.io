@@ -11,7 +11,9 @@ redirect_from:
 My name is Z. Sun, a PhD candidate at UCL. I am lucky to be supervised by Prof. [F-X Briol]() (main supervisor) and Prof. [J-H Xue](). My research is mainly funded by EPSRC and UCL jointly; and partially by The Alan Turing Institute. In general, I am very interested in __computational statistics__ and __machine learning__. I have been working on Monte Carlo methods, meta-learning,  Stein's method, kernel methods and Gaussian processes. 
 
 
-
+## Activities
+* Organiser: S-DCE Reading Group in The Alan Turing Institute (2021 - 2022)
+* PC member/Reviewer:  AISTATS, NeurIPS, UAI
 
 
 ## Publication
