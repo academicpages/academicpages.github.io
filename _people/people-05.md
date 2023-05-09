@@ -1,5 +1,5 @@
 ---
-title: "Samuel Adesanoye"
+title: "Bolaji Oladipo"
 excerpt: "Graduate Research Assistant"
 collection: people
 ---
