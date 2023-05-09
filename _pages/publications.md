@@ -5,12 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+**Work in progress**
+===
 
-{% include base_path %}
+_Household gender gaps and the pandemic_, joint with Sarra Ben Yahmed 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+_Intergenerational returns to migration. Evidence from Italian immigrants worldwide_, joint with Guido Neidhöfer 
+
+_The Impact of Pension Income on Mortality: Evidence from Germany_, joint with Han Ye
+
+_Life expectancy in Germany. Determinants over time and across regions_, joint with Davide Fiaschi
