@@ -25,6 +25,15 @@ Education
 Skills
 ======
 
-- Programming: Python, C/C++, Java, JavaScript, HTML, CSS, PHP
-- Scientific Package: scikit-learn, Pytorch, Tensorflow
+- Languages: Python, C/C++, Java, JavaScript, HTML, CSS, PHP
+- Scientific Packages: scikit-learn, Pytorch, Tensorflow
 - Platforms: AWS
+
+Relevant Coursework
+===================
+
+- Virginia Tech
+  - Machine Learning, Data Analytics, Deep Learning, Multimodal Vision, and Defending Against ML-powered Adversaries
+
+- NCUE
+  - Data Mining
