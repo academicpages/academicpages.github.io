@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website!
-======
 I am a PhD Candidate in Economics at the University of Mannheim and a Doctoral Researcher at ZEW - Leibniz Centre for European Economic Research. 
 My research interests are in applied microeconometrics, with a focus on labour and health economics.
 
