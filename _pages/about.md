@@ -14,11 +14,11 @@ Education
 =========
 
 - VT (Virginia Polytechnic Institute and State University)
-  - M.S. iN COMPUTER SCiENCE AND APPLiCATiONS
+  - M.S. in Computer Science and Applications
   - 
 
 - NCUE (National Changhua University of Education)
-  - B.S. iN COMPUTER SCiENCE AND INFORMATiON ENGiNEERiNG
+  - B.S. in Computer Science and Information Engineering
   - Undergraduate senior project: Data Distribution Strategy With High Computational Efficiency In Spark
 
 Skills
