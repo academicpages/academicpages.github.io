@@ -15,12 +15,17 @@ Education
 
 - Virginia Tech (Virginia Polytechnic Institute and State University)
   - M.S. in Computer Science and Applications
-  - GPA: 
-  - MS thesis: 
+  - 2022-Expected Dec. 2023 
 
 - NCUE (National Changhua University of Education)
   - B.S. in Computer Science and Information Engineering
-  - GPA: 3.4/4.0
+  - 2017-2019
+
+Relevant Coursework
+===================
+  
+- Data Mining, Data Analytics, Machine Learning, Deep Learning, Multimodal Vision, and Defending Against ML-powered Adversaries
+
 
 Skills
 ======
@@ -28,12 +33,3 @@ Skills
 - Languages: Python, C/C++, Java, JavaScript, HTML, CSS, PHP
 - Scientific Packages: scikit-learn, Pytorch, Tensorflow
 - Platforms: AWS
-
-Relevant Coursework
-===================
-
-- Virginia Tech
-  - Machine Learning, Data Analytics, Deep Learning, Multimodal Vision, and Defending Against ML-powered Adversaries
-
-- NCUE
-  - Data Mining
