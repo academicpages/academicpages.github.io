@@ -24,3 +24,7 @@ Education
 
 Skills
 ======
+
+- Programming: Python, C/C++, Java, JavaScript, HTML, CSS, PHP
+- Scientific Package: scikit-learn, Pytorch, Tensorflow
+- Platforms: AWS
