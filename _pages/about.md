@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-header {
-  display: none;
-}
-
 **Welcome!**
 =====
 
