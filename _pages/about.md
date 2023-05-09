@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Chiara Malavasi"
-excerpt: "Chiara Malavasi"
+excerpt:
 author_profile: true
 redirect_from: 
   - /about/
