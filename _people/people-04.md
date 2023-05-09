@@ -1,10 +1,10 @@
 ---
-title: "Rebecca Walters"
+title: "Samuel Adesanoye"
 excerpt: "Graduate Research Assistant"
 collection: people
 ---
 
-name: Rebecca Walters
+name: Samuel Adesanoye
 
 role: Graduate Research Assistant
 

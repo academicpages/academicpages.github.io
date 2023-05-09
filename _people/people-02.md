@@ -1,19 +1,18 @@
 ---
-title: "Blake Bryson"
+title: "Jonah Marks"
 excerpt: "Graduate Research Assistant"
 collection: people
 ---
 
-name: Blake Bryson
+Name: Jonah Marks
 
-role: Graduate Research Assistant
+Role: Graduate Research Assistant
 
-Degrees:
+degrees: 
 
-* B.S., Chemical Engineering, Washington State University, 2019
+* B.S.E., Chemical Engineering (Chemistry minor), University of Iowa, 2020
+* Ph.D., Chemical Engineering, University of Iowa, 2025 (Expected)
 
-* Ph.D., Chemical Engineering, University of Iowa, 2024 (Expected)
+project: Chemical Reactivity in Molecular Simulations with Atomistic Graph Neural Network Potentials 
 
-Project: Applying computational techniques to novel oxygen electrocatalyst discovery
-
-Interests: Backpacking, Cooking, Travelling 
+Other Interests: Rock Climbing, Gardening, Reading
