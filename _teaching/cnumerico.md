@@ -57,7 +57,8 @@ Slides das Aulas
 [Aula 13](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/aula13.pdf)
 [Aula 15](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/aula15.pdf)
 [Aula 16](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/aula16.pdf)
- 
+[Aula 17](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/aula17.pdf)
+
 Notebooks Jupyter
 ========
 
