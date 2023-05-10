@@ -34,7 +34,7 @@ For the semantic segmentation part in the two-stage approach we created a keyhol
 
 Check out the <a href="https://rubyjiang18.github.io/keyholeofficial/">official keyhole website </a> I build for this project, where I share the training data, trained models (including the ConvNeXt-t in the one-stage approach, UNet semantic segmentation model, and Random Forest model in the two-stage approach), as well as model training code. <br>
 
-To make is easy for people who are interested in trying the models, please visit <a href="http://3.144.73.188:8080/">this website<\a> for online keyhole laser energy absorptance prediction. I wrote this web app using Flask and Docker, and it is deployed on AWS EC2 for public access.
+To make is easy for people who are interested in trying the models, please visit <a href="http://3.144.73.188:8080/">this website</a> for online keyhole laser energy absorptance prediction. I wrote this web app using Flask and Docker, and it is deployed on AWS EC2 for public access.
 
 </div>
 <br/>
