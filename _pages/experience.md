@@ -1,9 +1,12 @@
 ---
 layout: archive
-title: ""
+title: "Experience"
 permalink: /experience/
 author_profile: true
+redirect_from: 
+  - /experience.md
 ---
+
 
 Research Experience
 =========
