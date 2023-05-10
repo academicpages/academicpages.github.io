@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# Papers
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- **Application of LSTM Neural Network in Stock Price Movement Forecasting with Technical Analysis Index**,  
+Ting-Chih Chen and Chin-I Lee  
+[paper]()
