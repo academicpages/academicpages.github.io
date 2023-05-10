@@ -7,7 +7,7 @@ author_profile: true
 
 
 Research Experience
-=========
+===================
 
 - Virginia Polytechnic Institute and State University, Blacksburg, VA
   - Graduate Research Assistant, Summer 2022, Advisor: Prof. Lifu Huang
