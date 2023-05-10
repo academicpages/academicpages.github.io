@@ -1,10 +1,8 @@
 ---
+layout: archive
+title: ""
 permalink: /experience/
-title: "Experience"
-excerpt: "Experience"
-redirect_from: 
-  - /experience/
-  - /experience.html
+author_profile: true
 ---
 
 Research Experience
