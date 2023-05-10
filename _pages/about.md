@@ -25,11 +25,11 @@ Relevant Coursework
 <center>  
 
 | Area                       |                             Courses         |
-| ---------------------------|---------------------------------------------|
+| :-------------------------:| :------------------------------------------:|
 | Mathematics                |     Linear Algebra, Probability             |
 | Data Science               |     Data Mining, Data Analytics             |
-| Artificial Intelligence    |     Machine Learning, Deep Learning         |
 | Security                   |     Defending Against ML-powered Adversaries|
+| Artificial Intelligence    |     Machine Learning, Deep Learning, Multimodal Vision         |
 
 </center>
 
