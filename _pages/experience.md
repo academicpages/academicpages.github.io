@@ -17,7 +17,7 @@ Research Experience
   - Built up a boat images dataset
   - Researched YOLO2 and object detection
 
-- NCUE RA, 2018 - 2019
+- NCUE RA, 2018-2019
   - Developed the cryptocurrency and smart contract
   - Researched On The Necessity Of Combining Blockchain Technology With Industrial Technology
 
