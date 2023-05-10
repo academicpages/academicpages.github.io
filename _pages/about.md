@@ -13,13 +13,11 @@ Chen is currently pursuing a Master's degree in Computer Science at Virginia Tec
 Education
 =========
 
-- Virginia Tech (Virginia Polytechnic Institute and State University)
+- Virginia Tech (Virginia Polytechnic Institute and State University), 2022-2023
   - M.S. in Computer Science and Applications
-  - 2022-Expected Dec. 2023 
 
-- NCUE (National Changhua University of Education)
+- NCUE (National Changhua University of Education), 2017-2019
   - B.S. in Computer Science and Information Engineering
-  - 2017-2019
 
 Relevant Coursework
 ===================
