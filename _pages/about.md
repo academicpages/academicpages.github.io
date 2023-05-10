@@ -22,16 +22,12 @@ Education
 Relevant Coursework
 ===================
 
-<center>  
-
-| Area                       |                             Courses         |
-| :-------------------------:| :------------------------------------------:|
-| Mathematics                |     Linear Algebra, Probability             |
-| Data Science               |     Data Mining, Data Analytics             |
-| Security                   |     Defending Against ML-powered Adversaries|
+| Area                       |                             Courses                            |
+| :-------------------------:| :-------------------------------------------------------------:|
+| Mathematics                |     Linear Algebra, Probability                                |
+| Data Science               |     Data Mining, Data Analytics                                |
+| Security                   |     Defending Against ML-powered Adversaries                   |
 | Artificial Intelligence    |     Machine Learning, Deep Learning, Multimodal Vision         |
-
-</center>
 
 
 Skills
