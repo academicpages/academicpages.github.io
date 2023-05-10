@@ -30,13 +30,18 @@ In this work, we developed two pipelines for energy absorption prediction: one-s
 </figure>
 
 <div style="text-align: justify">
-For the semantic segmentation part in the two-stage approach we created a keyhole segmentation dataset with ground truth masks from four different metallic materials and both stationary and scanning laser conditions to cover large sample space, and experimented with different segmentation models to evaluate the effectiveness to pretrained weights learned on ImageNet and to achieve automatic, robust and accurate keyhole segmentaions. We also compare the two different absorption prediction pipelines in terms of accuracy, interpretability and generalizability on unseen materials.
+For the semantic segmentation part in the two-stage approach we created a keyhole segmentation dataset with ground truth masks from four different metallic materials and both stationary and scanning laser conditions to cover large sample space, and experimented with different segmentation models to evaluate the effectiveness to pretrained weights learned on ImageNet and to achieve automatic, robust and accurate keyhole segmentaions. We also compare the two different absorption prediction pipelines in terms of accuracy, interpretability and generalizability on unseen materials.\
+
+Check out the [official keyhole website](https://rubyjiang18.github.io/keyholeofficial/) I build for this project, where I share the training data, trained models (including the ConvNeXt-t in the one-stage approach, UNet semantic segmentation model, and Random Forest model in the two-stage approach), as well as model training code. 
+
+To make is easy for people who are interested in trying the models, please visit this [website](http://3.144.73.188:8080/) for online keyhole laser energy absorptance prediction. I wrote this web app using Flask and Docker, and it is deployed on AWS EC2 for public access.
+
 </div>
 <br/>
 
-<figure>
+<!-- <figure>
     <img src='/images/new-segmentation-inference.png' class="center"> 
     <figcaption> Segmentation results from test data on different materials and processing conditions.</figcaption>
-</figure>
+</figure> -->
 
-Reference: manuscript under preparation, stay tuned...
+Reference: manuscript was submitted to *npj Computational Materials* in April and is currently under peer review.
