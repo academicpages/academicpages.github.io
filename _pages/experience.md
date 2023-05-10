@@ -9,15 +9,15 @@ author_profile: true
 Research Experience
 ===================
 
-- Virginia Tech Graduate Research Assistant, Summer 2022, Advisor: Prof. Lifu Huang
+- Virginia Tech GRA, Summer 2022  
   - Built up a wikiHow instrumental video dataset
   - Researched about inductive/abductive reasoning, induced knowledge from language models, extracted video knowledge
  
-- NCHC Research Intern, Summer 2019, Advisor: Associate Research Fellow Chien-Hao Tseng
+- NCHC Research Intern, Summer 2019
   - Built up a boat images dataset
   - Researched YOLO2 and object detection
 
-- NCUE Research Assistant, 2018 - 2019, Advisor: Prof. Der-Jiunn Deng
+- NCUE RA, 2018 - 2019
   - Developed the cryptocurrency and smart contract
   - Researched On The Necessity Of Combining Blockchain Technology With Industrial Technology
 
