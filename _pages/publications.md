@@ -22,7 +22,7 @@ author_profile: true
 
 <br>
 <br>
-<h1>International Journals</h1>
+<h1>International Journals (3)</h1>
 ------
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'international_journal' %}
@@ -33,7 +33,7 @@ author_profile: true
 
 <br>
 <br>
-<h1>Domestic Journals</h1>
+<h1>Domestic Journals (1)</h1>
 ------
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'domestic_journal' %}
@@ -44,7 +44,7 @@ author_profile: true
 
 <br>
 <br>
-<h1>International Conferences</h1>
+<h1>International Conferences (1)</h1>
 ------
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'international_conference' %}
@@ -55,7 +55,7 @@ author_profile: true
 
 <br>
 <br>
-<h1>Domestic Conferences</h1>
+<h1>Domestic Conferences (11)</h1>
 ------
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'domestic_conference' %}
@@ -66,7 +66,7 @@ author_profile: true
 
 <br>
 <br>
-<h1>Workshops & Academics</h1>
+<h1>Workshops & Academics (4)</h1>
 ------
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'workshop_academic' %}
