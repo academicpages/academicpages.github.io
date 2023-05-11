@@ -33,7 +33,7 @@ Disponível no sistema SAGRES.
 
 Avaliação
 =======
-* **Prova (Unidade I):** ~~03/05/2023~~24/05/2023
+* **Prova (Unidade I):** ~~03/05/2023~~  24/05/2023
 * **Trabalhos (Unidade II)**
 [Trabalhos 1](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/trabalhos01.md)
 [Trabalhos 2](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/trabalhos02.md)
