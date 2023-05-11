@@ -16,7 +16,7 @@ author_profile: true
 1. X. Liu, **C. Tang**, X. Du, S. Xiong, S. Xi, Y. Liu, X. Shen, Q. Zheng, Z. Wang, Y. Wu, et al., “A highly sensitive graphene woven fabric strain sensor for wearable wireless musical instruments,” *Materials Horizons*, vol. 4, no. 3, pp. 477–486, 2017
 
 ## Conference Proceedings
-1. S. Su, C. Hao, C. Weaver, **C. Tang**, W. Zhan, and M. Tomizuka, “Double-iterative gaussian process regression for modeling error compensation in autonomous racing,” under review for *22nd IFAC World Congress 2023*
+1. S. Su, C. Hao, C. Weaver, **C. Tang**, W. Zhan, and M. Tomizuka, “Double-iterative gaussian process regression for modeling error compensation in autonomous racing,” *22nd IFAC World Congress 2023*
 1. C. Xu\*, T. Li\*, **C. Tang**, L. Sun, K. Keutzer, M. Tomizuka, A. Fathi, and W. Zhan, "PreTraM: Self-supervised pre-training via connecting trajectory and map," *European Conference on Computer Vision (ECCV)*, 2022
 1. L. Sun\*, **C. Tang**\*, Y. Niu, E. Sachdeva, C. Choi, T. Misu, M. Tomizuka, and W. Zhan, “Domain knowledge driven pseudo labels for interpretable goal-conditioned interactive trajectory prediction,” *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022
 1. **C. Tang**, W. Zhan, and M. Tomizuka, “Interventional behavior prediction: Avoiding overly confident anticipation in interactive prediction,” *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022
