@@ -16,6 +16,48 @@ author_profile: true
 <br><br>
 
 
+
+
+
+## Scientific Practice as Ecological-Enactive Co-Construction. (w/ Thomas van Es and Ines Hipolito)<br>*Synthese*, forthcoming. ([Link](https://)) <img align="right" src="https://gui-cogsci.github.io/images/synthese.jpg" width="130">
+>  Philosophy of science has undergone a naturalistic turn, moving away from traditional idealized concerns with the logical structure of scientific theories and toward focusing on real-world scientific practice, especially in domains such as modeling and experimentation. As part of this shift, recent work has explored how the project of philosophically understanding science as a natural phenomenon can be enriched by drawing from different fields and disciplines, including niche construction theory in evolutionary biology, on the one hand, and ecological and enactive views in embodied cognitive science, on the other. But these insights have so far been explored in separation from each other, without clear indication of whether they can work together. Moreover, the focus on particular practices, however insightful, has tended to lack consideration of potential further implications for a naturalized understanding of science as a whole (i.e., above and beyond those particular practices). Motivated by these developments, here we sketch a broad-ranging view of science, scientific practice and scientific knowledge in terms of ecological-enactive co-construction. The view we propose situates science in the biological, evolutionary context of  human embodied cognitive activity aimed at addressing the demands of life. This motivates reframing theory as practice, and reconceptualizing scientific knowledge in ecological terms, as relational and world-involving. Our view also brings to the forefront of attention the fundamental link between ideas about the nature of mind, of science and of nature itself, which we explore by outlining how our proposal differs from more conservative, and narrower, conceptions of “cognitive niche construction.”
+> 
+> KEYWORDS: scientific practice; theory; naturalism; ecological psychology; enactivism; niche construction; cognition.
+>
+>> Sanches de Oliveira, G., van Es, T., & Hipolito, I. (forthcoming) Scientific Practice as Ecological-Enactive Co-Construction. *Synthese* ?, ??. DOI: ??
+
+<br><br>
+
+
+
+
+
+## Reading Comprehension as Embodied Action: Exploratory Findings on Nonlinear Eye Movement Dynamics and Comprehension of Scientific Texts. (w/ Moritz Bammel)<br>*Proceedings of the 45th Annual Meeting of the Cognitive Science Society*, 2023. ([Link](https://))  <img align="right" src="https://gui-cogsci.github.io/images/cogsci2023.jpg" width="130">
+> Reading comprehension is often conceptualized in terms of the internal processing of linguistic information and construction of accurate mental representations. In contrast, an ecological-enactive approach rejects this internalist focus and instead emphasizes the dynamic process of reader-text coupling in which eye movements play a constitutive role. In this study, we employed recurrence quantification analysis (RQA) to examine the relationship between reading comprehension and eye movement dynamics, based on eye-tracking data from the Potsdam Textbook Corpus recorded from beginners and experts reading scientific texts, followed by comprehension questionnaires. Moreover, we compared the findings from RQA to classical eye movement measures (number of fixations, mean fixation duration, regression fixation proportion). The results indicated that classical eye movement measures did not predict reading comprehension reliably, whereas recurrences in gaze steps were reliably associated with reading comprehension proficiency. Contrary to our original hypothesis, experts showed more irregular, rather than more regular, eye movement dynamics, and these were linked to more proficient reading comprehension. In line with previous research on naturalistic reading using nonlinear methods, the present findings suggest that reading comprehension is best understood as emerging from interaction-dominant coordination processes.
+>
+> KEYWORDS: reading comprehension; eye movements; naturalistic reading; recurrence quantification analysis; ecological psychology; enactivism.
+> 
+>> Bammel, M. and Sanches de Oliveira, G. (forthcoming). Reading Comprehension as Embodied Action: Exploratory Findings on Nonlinear Eye Movement Dynamics and Comprehension of Scientific Texts. A.K. Goel, C.M. Seifert, & C. Freksa (Eds.), Proceedings of the 45th Annual Conference of the Cognitive Science Society (pp. ??). ISBN: ??. Sydney, NSW: Cognitive Science Society.
+
+<br><br>
+
+
+
+
+
+## Explanatory Diversity and Embodied Cognitive Science: Reflexivity motivates Pluralism .<br> *Methodology of Situated Cognition Research*, Springer, forthcoming.  ([Link](https://))  <img align="right" src="https://gui-cogsci.github.io/images/methodsituated.jpg" width="130">
+> Explanatory diversity is a salient feature of the sciences of the mind, where different projects focus on neural, psychological, cognitive, social or other explanations. The same happens within embodied cognitive science, where ecological, enactive, dynamical, phenomenological and other approaches differ from each other in their explanations of the embodied mind. As traditionally conceived, explanatory diversity is philosophically problematic, fueling debates about whether the different explanations are competing, compatible, or tangential. In contrast, this paper takes the perspective of embodied cognitive science as its starting point and accordingly approaches explanatory diversity not as a problem to be solved, but as a phenomenon to be understood. Recent work has explored how the view of cognition as embodied motivates reflexively viewing science as a situated embodied cognitive practice. Here I argue that this reflexive turn motivates adopting a pluralistic stance when it comes to questions about theoretical and methodological disagreements. In particular, it motivates moving away from thinking in terms of explanations as disembodied entities that compete with one another, and instead thinking in terms of different explanatory styles as embodied practices of explaining, many of which might be legitimate and warranted independently of whether and how the explanations themselves relate to one another. 
+>
+> KEYWORDS: explanatory diversity; embodied cognition; reflexivity; pluralism; explanatory styles.
+> 
+>> Sanches de Oliveira G. (forthcoming). Explanatory Diversity and Embodied Cognitive Science: Reflexivity motivates Pluralism. *Methodology of Situated Cognition Research*, Springer. DOI: ?? 
+
+
+<br><br>
+
+
+
+
 ## Bilingualism is always cognitively advantageous, but this doesn’t mean what you think it means.<br>*Frontiers in Psychology: Language Sciences*, 2022. ([Link](https://www.frontiersin.org/articles/10.3389/fpsyg.2022.867166/full)) <img align="right" src="https://gui-cogsci.github.io/images/frontierspsychology.png" width="130">
 >  For decades now a research question has firmly established itself as a staple of psychological and neuroscientific investigations on language, namely the question of whether and how bilingualism is cognitively beneficial, detrimental or neutral. As more and more studies appear every year, it seems as though the research question itself is firmly grounded and can be answered if only we use the right experimental manipulations and subject the data to the right analysis methods and interpretive lens. In this paper we propose that, rather than merely improving prior methods in the pursuit of evidence in one direction or another, we would do well to carefully consider whether the research question itself is as firmly grounded as it might appear to be. We identify two bodies of research that suggest the research question to be highly problematic. In particular, drawing from work in sociolinguistics and in embodied cognitive science, we argue that the research question of whether bilingualism is cognitively advantageous or not is based on problematic assumptions about language and cognition. Once these assumptions are addressed head on, a straightforward answer to the question arises, but the question itself comes to seem to be a poor starting point for research. After examining why this is so, we conclude by exploring some implications for future research.
 > 
@@ -24,6 +66,8 @@ author_profile: true
 >> Sanches de Oliveira, G. and Bullock Oliveira, M. (2022) Bilingualism is always cognitively advantageous, but this doesn’t mean what you think it means. *Front. Psychol.* 13:867166. doi: 10.3389/fpsyg.2022.867166
 
 <br><br>
+
+
 
 ## Radical Artifactualism.<br>*European Journal for Philosophy of Science*, 2022. ([Link](https://link.springer.com/article/10.1007/s13194-022-00462-0)) <img align="right" src="https://gui-cogsci.github.io/images/epsa.jpg" width="130">
 >  A powerful idea put forward in the recent philosophy of science literature is that scientific models are best understood as instruments, tools or, more generally, artifacts. This idea has thus far been developed in combination with the more traditional representational approach: accordingly, current artifactualist accounts treat models as representational tools. But artifactualism and representationalism are independent views, and adopting one does not require acceptance of the other. This paper argues that a leaner version of artifactualism, free of representationalist assumptions, is both desirable and viable. Taking seriously the idea that models are artifacts can help us philosophically to make sense of how and why scientific modeling works even without reference to representation.
