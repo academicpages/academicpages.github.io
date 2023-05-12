@@ -15,7 +15,12 @@ Image-Volume Representation Learning with Intra-Inter Contrastive Clustering","<
 AAAI Conference on Artificial Intelligence 2023 (Rank A*) </i> Full text available at <a href="https://arxiv.org/abs/2212.01893" target="_blank" rel="noopener"> AAAI23 </a>.
 
 * Ha, T.V., **Hoang Nguyen**, Huynh, S.T., Nguyen, T.T., Nguyen, B.T., "Fall Detection Using
-Multimodal Data," <i>28th International Conference on Multimedia Modeling (MMM) 2022.</i> 9:1016453. Full text available at <a href="https://link.springer.com/chapter/10.1007/978-3-030-98358-1_31" target="_blank" rel="noopener">  MMM22 </a>
+Multimodal Data," <i>28th International Conference on Multimedia Modeling (MMM) 2022.</i> Full text available at <a href="https://link.springer.com/chapter/10.1007/978-3-030-98358-1_31" target="_blank" rel="noopener">  MMM22 </a>
+
+
+* Khanh Quoc Tran, An Tran-Hoai Le, An Trong Nguyen, Tung Tran Nguyen Doan, Son Huynh
+Thanh, Bao L. Hoang, **Hoang Nguyen**,... Trung T. Nguyen,  "SEND: A simple and efficient
+noise detection algorithm for Vietnamese real estate posts," <i>36th Annual Meeting of Pacific Asia Conference on Language, Information and Computation (PACLIC) 2022.</i> Full text available at <a href="https://aclanthology.org/2022.paclic-1.71/" target="_blank" rel="noopener"> PACLIC22 </a>
 
 
 
