@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hey there, welcome to my corner!"
+title: "Hey there!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Vasudha Varadarajan, a second year PhD student working in the areas of natural language processing and the relationships between cognition and language, especially in the context of social media. I work with Prof. H. Andrew Schwartz in the State University of New York at Stony Brook. I am interested in the intersection of psychology and language since it offers an insight into language modeling in a human-centric point of view. I am also interested in interpretability and explainability of linguistic models, multilingual models for NLP and generalizable language modeling. 
+I am Vasudha Varadarajan, a fourth year PhD student working in the areas of natural language processing and the relationships between cognition and language, especially in the context of social media. I work with Prof. H. Andrew Schwartz in the State University of New York at Stony Brook. I am 
+interested in applying NLP/data science techniques to problems in computational social science to study social/psychological phenomena through language use at scale, active learning, and improving conversational AI for psychometric surveys. I am also interested in interpretability and explainability of language models, and exploring NLP for low-resource and code-mixed settings.
 
+I am always looking for opportunities (currently internships) to work with teams with similar interests- preferably with a research component. 
+Other than that, I have been trying to improve my science communication skills, and I love facilitating discussions and teaching! 
