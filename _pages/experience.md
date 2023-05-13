@@ -11,7 +11,8 @@ Research Experience
 
 - Virginia Tech GRA, Summer 2022  
   - Built up a wikiHow instrumental video dataset
-  - Researched about inductive/abductive reasoning, induced knowledge from language models, extracted video knowledge
+  - Researched about inductive/abductive reasoning
+  - Methods: employed multi-modalities models and induced knowledge from LLMs
  
 - NCHC Research Intern, Summer 2019
   - Built up a boat images dataset
