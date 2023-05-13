@@ -67,13 +67,15 @@ Work in progress
 [Schechtl, Manuel](https://schechtl.github.io/), Daria Tisch, [Nhat An Trinh](https://natrinh.github.io/): The Dynastic Principle of
 Wealth Reproduction
 
-[Nutz, Theresa](https://theresanutz.github.io/), Daria Tisch, & [Kapelle, Nicole](https://nkapelle.github.io/): Gendered pathways to wealth: The self-assessed relevance of different accumulation channels across the wealth distribution
+[Nutz, Theresa](https://theresanutz.github.io/), [Kapelle, Nicole](https://nkapelle.github.io/) & Daria Tisch: Gendered pathways to wealth: The self-assessed relevance of different accumulation channels across the wealth distribution
 
 Tisch, Daria, [Franziska Pradel](https://www.hfp.tum.de/digitalgovernance/team/dr-franziska-pradel-sinaci/): How can the social sciences benefit from knowledge graphs? A case study on using Wikidata and Wikipedia to examine the world’s billionaires. [Under Open Review](https://www.semantic-web-journal.net/system/files/swj3370.pdf)
 
 Tisch, Daria, [Manuel Schechtl](https://schechtl.github.io/): [Gender differences in parental wealth transfers](https://dariatisch.github.io/presentation_ifb). Evidence from inheritance and gift tax data
 
 [Emma Ischinsky](https://www.mpifg.de/person/114263/2721), Daria Tisch: Women in the Global Super Rich. An analysis of the Forbes World’s Billionaires List, 2010 - 2022
+
+[Lillie, Karen](https://www.karenlillie.org/), Charlotte de Alwis & Daria Tisch: Elite education and the super-rich
 
 Tisch, Daria: Preservation of large fortunes over multiple generations in Germany <!--  (https://dariatisch.github.io/presentation_potsdam) -->: How do elite family networks relate to wealth preservation in Germany?
 
