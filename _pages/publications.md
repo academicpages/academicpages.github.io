@@ -64,7 +64,8 @@ Work in progress
 
 [Urbina, Daniela R.](https://www.danielaurbina.com/), Daria Tisch: Division of Housework and Perceptions of Fairness: What Justifies Unequal Housework Arrangements?
 
-[Schechtl, Manuel](https://schechtl.github.io/), Daria Tisch, [Nhat An Trinh](https://natrinh.github.io/): Dynastic inheritance
+[Schechtl, Manuel](https://schechtl.github.io/), Daria Tisch, [Nhat An Trinh](https://natrinh.github.io/): The Dynastic Principle of
+Wealth Reproduction
 
 [Nutz, Theresa](https://theresanutz.github.io/), Daria Tisch, & [Kapelle, Nicole](https://nkapelle.github.io/): Gendered pathways to wealth: The self-assessed relevance of different accumulation channels across the wealth distribution
 
