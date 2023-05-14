@@ -23,7 +23,7 @@ I was delighted to be awarded a Gold Graduate Student Award at the MRS Spring 20
         <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div>
     <div style="width: 34%;">
-        <img style="width: 100%; margin-bottom: 10px;"" src="files/Yosemite.jpeg" alt="Serenity in Yosemite 🍄">
+        <img style="width: 100%; margin-bottom: 10px;" src="files/Yosemite.jpeg" alt="Serenity in Yosemite 🍄">
         <img style="width: 100%;" src="files/Cali_Cruising.jpeg" alt="Wavy 😵‍💫">
     </div>
 </div>
