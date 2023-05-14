@@ -10,6 +10,7 @@ author_profile: true
 
 
 ## Research Excellence Awards
+-	MRS Graduate Student Award (Gold) & Future Leader 2023 [Social Media Card](https://kavanase.github.io/files/gsa_spring_2023_photoboard.jpeg)  [Certificate](https://kavanase.github.io/files/MRS_Silver_GSA_Certificate_2022.pdf)
 -	_Materials Today Chemistry_ Rising Star Award 2022 [Certificate](https://kavanase.github.io/files/eMRS MTC Rising Star Award.png)
 - Materials Reserch Society (MRS) Future Leader [Certificate](https://kavanase.github.io/files/MRS Future Leader Photocard.png)
 -	European Materials Research Society (eMRS) Young Researcher Award 2022 [Certificate](https://kavanase.github.io/files/eMRS_Spring_2022_Best_Presentation_Award_Symposium_G.png)
