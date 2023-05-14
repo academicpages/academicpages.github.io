@@ -16,7 +16,7 @@ I'm a final-year PhD student in the research groups of both Professor David Scan
 
 ### Recent Highlights
 I was delighted to be awarded a Gold Graduate Student Award at the MRS Spring 2023 conference in San Francisco (got 'em on the rebound coach), which was followed by a road trip around California with some great people! 🚗😵‍💫
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; height: 715px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; height: 730px;">
     <div style="width: 65%; height: 100%; overflow: auto;">
         <blockquote class="twitter-tweet">
         <p lang="en" dir="ltr">Massive Congrats to <a href="https://twitter.com/Kavanagh_Sean_?ref_src=twsrc%5Etfw">@Kavanagh_Sean_</a> who won a <a href="https://twitter.com/Materials_MRS?ref_src=twsrc%5Etfw">@Materials_MRS</a> Graduate Student Award Gold Medal at the <a href="https://twitter.com/hashtag/S23MRS?src=hash&amp;ref_src=twsrc%5Etfw">#S23MRS</a>. The only finalist from a European Uni! <a href="https://twitter.com/UCLChemistry?ref_src=twsrc%5Etfw">@UCLChemistry</a> <a href="https://twitter.com/ImpMaterials?ref_src=twsrc%5Etfw">@ImpMaterials</a> <a href="https://twitter.com/CDT_ACM?ref_src=twsrc%5Etfw">@CDT_ACM</a> <a href="https://twitter.com/TCD_Chemistry?ref_src=twsrc%5Etfw">@TCD_Chemistry</a>. 🇮🇪 Very proud supervisor moment for <a href="https://twitter.com/lonepair?ref_src=twsrc%5Etfw">@lonepair</a> and I!! <a href="https://t.co/MCJukcE5XU">pic.twitter.com/MCJukcE5XU</a></p>&mdash; David Scanlon (@scanlond81) <a href="https://twitter.com/scanlond81/status/1646623998996873216?ref_src=twsrc%5Etfw">April 13, 2023</a></blockquote> 
@@ -27,6 +27,7 @@ I was delighted to be awarded a Gold Graduate Student Award at the MRS Spring 20
         <img style="width: 100%;" src="files/Cali_Cruising.jpeg" alt="Wavy 😵‍💫">
     </div>
 </div>
+
 
 I was awarded a UCL-McGill-JSPS Core-to-Core research collaboration grant (£3k) to visit Prof. Yu Kumagai in Tohoku University (October – November 2022), to extend our [defect structure-searching work](https://shakenbreak.readthedocs.io/en/latest/), for a high-throughput study on symmetry-breaking at oxygen vacancies in oxides – hopefully will have a paper ready on this soon. Of course it was all work and no play!
 
