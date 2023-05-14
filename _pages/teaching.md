@@ -7,10 +7,11 @@ author_profile: true
 
 ## Community Contributions / Outreach
 - My tutorial lectures (with [Dr. Joe Willis](https://scholar.google.com/citations?user=DXJhvE0AAAAJ&hl=en&oi=ao)) on my [YouTube channel](https://www.youtube.com/c/SeánRKavanagh) <i class="fab fa-fw fa-youtube" aria-hidden="true"></i> have received >10,000 views, as well as several thousand downloads of the slides/posters on my [SpeakerDeck](https://speakerdeck.com/kavanase).
-- I have peer reviewed for the _Journal of the American Chemical Society_ (JACS), _Physical Review Applied_, _Journal of Physical Chemistry Letters_ (JPCL), _Applied Physics Letters_ (APL), _Matter_, _Computational Physics Communications_ and the _Journal of Electroceramics_ (JECR).
+- I have peer reviewed for the _Journal of the American Chemical Society_ (JACS), _Physical Review Applied_ (PRA), _Journal of Physical Chemistry Letters_ (JPCL), _Applied Physics Letters_ (APL), _Matter_, _Physical Review X (PRX) Energy_, _IOP Modelling and Simulation in Materials Science and Engineering_, _Computational Physics Communications_ and the _Journal of Electroceramics_ (JECR).
 - Active member of the UCL MAPS (Mathematical & Physical Sciences) Early-Career Research committee, supporting the wellbeing, professional development and career progress of early career researchers in UCL.
 - Session chair (in-person) for the MRS Fall 2021 Solid-State Chemistry of New Materials (CH02) Symposium, MRS Fall 2022 Halide Perovskite Materials (EN02) Symposium and Networking Facilitator at the RSC International Conference on Materials Chemistry (MC15).
-- Developer of several open-access community computational chemistry tools; including [`ShakeNBreak`](https://shakenbreak.readthedocs.io/en/latest/), [`vaspup2.0`](https://github.com/kavanase/vaspup2.0), [`doped`](https://github.com/SMTG-UCL/doped), (co-developer) [`sumo`](https://github.com/SMTG-UCL/sumo), [`CarrierCapture.jl`](https://github.com/WMD-group/CarrierCapture.jl) and contributions to many others.
+- Developer of several open-access community computational chemistry tools; including [`ShakeNBreak`](https://shakenbreak.readthedocs.io/en/latest/), [`vaspup2.0`](https://github.com/kavanase/vaspup2.0), [`doped`](https://github.com/SMTG-UCL/doped), (co-developer) [`PyTASER`](https://pytaser.readthedocs.io/en/latest/), [`sumo`](https://github.com/SMTG-UCL/sumo), [`CarrierCapture.jl`](https://github.com/WMD-group/CarrierCapture.jl) and contributions to many others.
+- Invited speaker for [Pint of Science Festival 2023](https://pintofscience.co.uk/event/water-as-a-weapon-against-climate-change)
 - '_[I’m an Engineer, Get me Out of Here](https://imanengineer.org.uk/)!_' schools outreach activity, funded by UKRI, bp and Cavendish Nuclear
 - Lead tester of VASP (most widely-used computational materials science code worldwide) for [Archer2](https://www.archer2.ac.uk/) (UK National Supercomputer), and research consultant for procurement of UCL HPC & GPU upgrades 2021/2022 (>£1 million).
 
@@ -31,6 +32,7 @@ These include:
   - Mosquera-Lois,‡ I.; Kavanagh,‡ S. R.; Walsh, A.; Scanlon, D. O. ShakeNBreak: Navigating the Defect Configurational Landscape. _**Journal of Open Source Software**_ 2022, 7 (80), 4817. [Link](https://doi.org/10.21105/joss.04817)
   - Mosquera-Lois,‡ I.; Kavanagh,‡ S. R.; Walsh, A.; Scanlon, D. O. Identifying the ground state structures of point defects in solids. _**npj Computational Materials**_ 2023, 9 (25). [Link](https://www.nature.com/articles/s41524-023-00973-1)
   - Further manuscripts in preparation
+  - Mannodi-Kanakkithodi, A. The devil is in the defects. **_Nature Physics_** 2023. [Link](https://doi.org/10.1038/s41567-023-02049-9)
   - MSc student [Irea Mosquera-Lois](https://www.researchgate.net/profile/Irea-Mosquera-Lois) (now a PhD student in Prof Walsh's group at Imperial College) achieved the highest grades of all MSc & MSci courses in UCL Chemistry, and a grade of 90% on her research project – virtually unheard of! 🎉
 
 - _Efficient structure searching for point defects in semiconductors_ <!-- Bodoo; SnB -->
@@ -39,9 +41,9 @@ These include:
   - Manuscript in preparation
   - MSci student Helen Spong was awarded the Neil Sharp Prize for best performance in Theoretical/Computational Chemistry with this research project – a fantastic achievement given the large number of world-class computational research groups in the UCL Chemistry Department! 🎉
 - _A computational re-evaluation of elemental solar absorber materials_ <!-- Alp; Se for PV -->
-  - Manuscript in preparation
+  - Manuscript in preparation, see my MRS Spring 2023 [Talk](https://youtu.be/ZPobC2cS2KY) and [Slides](https://speakerdeck.com/kavanase/impact-of-defects-on-solar-cell-performance-in-selenium)
 - _Emerging Cu-based earth-abundant photovoltaic absorber materials_ <!-- Bodoo and Adair; Cu2SiSe3 for PV -->
-  - Manuscript in preparation
+  - Preprint: https://doi.org/10.26434/chemrxiv-2023-7454p
 - _Computational Analysis of Novel Inorganic Materials for Photovoltaic Applications_ <!-- Stan -->
 - _An investigation into CsSnI3 as an alternative to lead-based perovskite photovoltaics_ <!-- Daniel -->
 - _A computational re-evaluation of crystal structure assignments for vacancy-ordered quadruple perovskites_ <!-- Yinan... -->
