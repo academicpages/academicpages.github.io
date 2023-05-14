@@ -27,7 +27,7 @@ I was delighted to be awarded a Gold Graduate Student Award at the MRS Spring 20
         <img style="width: 100%;" src="files/Cali_Cruising.jpeg" alt="Wavy 😵‍💫">
     </div>
 </div>
-
+<br/><br/>  
 
 I was awarded a UCL-McGill-JSPS Core-to-Core research collaboration grant (£3k) to visit Prof. Yu Kumagai in Tohoku University (October – November 2022), to extend our [defect structure-searching work](https://shakenbreak.readthedocs.io/en/latest/), for a high-throughput study on symmetry-breaking at oxygen vacancies in oxides – hopefully will have a paper ready on this soon. Of course it was all work and no play!
 
