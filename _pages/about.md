@@ -15,7 +15,7 @@ I am a Ph.D. student in the Department of Economics at the Massachusetts Institu
 ## Research
 ### Selected Work in Progress
 
-- [Measuring Relative Poverty through Peer Rankings: Evidence from Côte d’Ivoire](https://www.dropbox.com/s/06pnrsgweknlfcn/PeerRanking_CI.pdf?dl=0) (with Pascaline Dupas, Marcel Fafchamps)
+- [Eliciting Poverty Rankings from Urban or Rural Neighbors: Methodology and Empirical Evidence](https://www.dropbox.com/s/irjgxnk2hywdit3/PeerRanking_paper_2305.pdf?dl=0) (with Pascaline Dupas, Marcel Fafchamps)
 
 - [Technology Adoption, Informal Contracts and Development: Evidence from digitizing payments in the Senegalese taxi industry](https://pedl.cepr.org/content/adoption-and-impacts-digital-payment-technologies-evidence-informal-transit-0)
 
