@@ -84,11 +84,11 @@ author:
   avatar           : "picture.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Tuscaloosa, Alabama"
-  employer         :
+  student          : "PhD"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=6U3EubEAAAAJ&hl=en&authuser=1"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Pawan-Thapa-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "thapawan"
   google_plus      :
   keybase          :
   instagram        :
