@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pawan Thapa"
 title_separator          : "-"
 name                     : &name "Pawan Thapa"
-description              : &description "personal description"
+description              : &description "PhD Student"
 url                      : https://thapawan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thapawan/thapawan.github.io"
@@ -103,17 +103,17 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-4331-5315"
   pinterest        :
   soundcloud       :
   stackoverflow    : "https://gis.stackexchange.com/users/73698/pawan-thapa"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/Thapawan"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UC_vjUMpU3Ca5XcbBVanBCnA"
   wikipedia        :
 
 
