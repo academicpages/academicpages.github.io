@@ -15,9 +15,9 @@ You can find the recorded versions of my talks on my [YouTube channel](https://w
 
 - ‘_Tin & Titanium Vacancy-Ordered Halide Perovskites: Cs$_2$(Sn/Ti)X$_6$_’ **(Invited Talk)** @ MRS Spring 2023
 
-– ‘_Symmetry-Breaking and Reconstruction at Point Defects in Solids_’ **(Invited Talk)** @ Summer of Chemical Theory @ WashU 2023
+- ‘_Symmetry-Breaking and Reconstruction at Point Defects in Solids_’ **(Invited Talk)** @ Summer of Chemical Theory @ WashU 2023
 
-– ‘_Performance Boosters to Efficiency Killers; From bulk disorder to isolated defects_’ **(Talk)** @ MRS Spring 2023 **_(Graduate Student Award (Gold))_**
+- ‘_Performance Boosters to Efficiency Killers; From bulk disorder to isolated defects_’ **(Talk)** @ MRS Spring 2023 **_(Graduate Student Award (Gold))_**
 
 - '_Identifying Ground State Structures of Defects in Solids_' **(Talk)** @ MRS Fall 2022, Tohoku University 2022, Yokohama University 2022, UCL-JSPS Core-to-Core Biannual Conference 2022, GRC Defects in Semiconductors 2022, APS March 2023
 
