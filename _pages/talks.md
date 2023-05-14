@@ -7,9 +7,21 @@ author_profile: true
 
 You can find the recorded versions of my talks on my [YouTube channel](https://www.youtube.com/c/SeánRKavanagh) <i class="fab fa-fw fa-youtube" aria-hidden="true"></i> and the slides/posters on my [SpeakerDeck](https://speakerdeck.com/kavanase).
 
+- ‘_Shining a light on the future: supercomputers and AI in solar cell research_’ Invited Outreach Talk @ [Pint of Science Festival 2023](https://pintofscience.co.uk/event/water-as-a-weapon-against-climate-change)
+
+- ‘_Impact of Intrinsic & Extrinsic Defects on Optoelectronic Properties in Selenium_’ **(Talk)** @ MRS Spring 2023
+
+- ‘_Symmetry-Breaking and Reconstruction at Point Defects in Perovskites_’ **(Talk)** @ MRS Spring 2023
+
+- ‘_Tin & Titanium Vacancy-Ordered Halide Perovskites: Cs$_2$(Sn/Ti)X$_6$_’ **(Invited Talk)** @ MRS Spring 2023
+
+– ‘_Symmetry-Breaking and Reconstruction at Point Defects in Solids_’ **(Invited Talk)** @ Summer of Chemical Theory @ WashU 2023
+
+– ‘_Performance Boosters to Efficiency Killers; From bulk disorder to isolated defects_’ **(Talk)** @ MRS Spring 2023 **_(Graduate Student Award (Gold))_**
+
 - '_Identifying Ground State Structures of Defects in Solids_' **(Talk)** @ MRS Fall 2022, Tohoku University 2022, Yokohama University 2022, UCL-JSPS Core-to-Core Biannual Conference 2022, GRC Defects in Semiconductors 2022, APS March 2023
 
-- '_Impact of Cation Disorder in ABZ$_2$ Solar Absorbers_’ **(Talk)** @ MRS Fall 2022 **_(Excellent Talk Prize)_**, **(Invited Talk)** @ CDT-ACM Christmas Symposium 2022
+- '_Impact of Cation Disorder in ABZ$_2$ Solar Absorbers_’ **(Talk)** @ MRS Fall 2022 **_(Excellent Talk Prize)_**, MRS Spring 2023, **(Invited Talk)** @ CDT-ACM Christmas Symposium 2022
 
 - '_Efficient Ultrathin AgBiS$_2$ Solar Cells via Cation Disorder Engineering_' **(Talk)** @ IOP & SuperSolar Advances in Photovoltaics 2022 (Sole student speaker), MRS Spring 2022 **_(Graduate Student Award)_**; EPFL SeeFuturePV **_(Young Scientist Travel Award)_**; eMRS Spring 2022 **_(Best Presentation Award)_** UCL Materials for the Future Mini-Symposium 2022 **_(Invited Talk)_**
 
