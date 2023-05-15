@@ -17,3 +17,7 @@ I am now serving as the Associate Editor of the Journal of Communication (2022-)
 * Communication Methods and Measures
 * Journal of Broadcasting & Electronic Media
 * Journal of Computer-Mediated Communication
+
+I am a research affiliate of 
+* Web Mining Lab and Center for Communication Research (CCR) at City University of Hong Kong (CityU)
+* Health & Risk Communication Center (HRCC) and Quello Center at MSU
