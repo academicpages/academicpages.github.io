@@ -71,7 +71,7 @@ My research spans the areas of natural language processing and machine learning.
 <!--You can find my CV [here](/cv/).-->
 
 ## On The Job Market
-I'm on the job market, looking for Post-doc and industrial research positions, starting in 2023 Autumn. [[Google Schlar]](https://scholar.google.com/citations?user=xwy6Va4AAAAJ) [[CV]](https://www.dropbox.com/s/bcrn0dpr922b3da/Yusheng_Su_Resume_2023_02_23.pdf?dl=0)
+I'm on the job market, looking for Post-doc and industrial research positions, starting in 2023 Autumn. [[Google Schlar]](https://scholar.google.com/citations?user=xwy6Va4AAAAJ) [[CV]](https://www.dropbox.com/s/4j059nncu2k6lrf/Yusheng_Su_Resume_2023_05_15.pdf?dl=0)
 <!-- (in North America) -->
 
 <!-- ## Coming Soon
