@@ -21,3 +21,5 @@ I am now serving as the Associate Editor of the Journal of Communication (2022-)
 I am a research affiliate of 
 * Web Mining Lab and Center for Communication Research (CCR) at City University of Hong Kong (CityU)
 * Health & Risk Communication Center (HRCC) and Quello Center at MSU
+
+I was the founding member and inaugural chair (2016-2017) of the Computational Methods Interest Group (elevated to the Computational Methods Division in 2020) at the International Communication Association.
