@@ -15,6 +15,9 @@ main:
   - title: "CV"
     url: /cv/
         
+  - title: "My Card"
+    url: /card/
+        
   - title: "Blog Posts"
     url: /blog-posts/
         
