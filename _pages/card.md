@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "My Business card"
+title: "Business card"
 permalink: /card/
 author_profile: true
 ---
@@ -15,4 +15,4 @@ Ph.D. Student, Iowa State University
 
 **Located in**: Des Moines, IA
 
-**Work email**: benjis@iastate.edu
+**Work email**: <a href="mailto:benjis@iastate.edu">benjis@iastate.edu</a>
