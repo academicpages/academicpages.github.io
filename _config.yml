@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "winsonpeng2011"
 facebook:
   username               :
   app_id                 :
@@ -80,12 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Winson Peng"
+  name             : "Winson Peng, Ph.D."
   avatar           : "profile.png"
   bio              : "Professor of Communication"
-  location         : "Michigan State University"
-  employer         : "East Lansing, MI"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : "East Lansing, Michigan"
+  employer         : "Michigan State University"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
