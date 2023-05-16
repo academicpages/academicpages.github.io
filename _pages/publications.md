@@ -13,6 +13,10 @@ author_profile: true
 **Penghui Wei**, Hongjian Dou, Shaoguo Liu, Rongjun Tang, Li Liu, Liang Wang, Bo Zheng  
 **SIGIR ’23** (Resource Track): Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. July 23--27, 2023.  
 
+* **RLTP: Reinforcement Learning to Pace for Delayed Impression Modeling in Preloaded Ads**  
+**Penghui Wei**, Yongqiang Chen, Shaoguo Liu, Liang Wang, Bo Zheng  
+**KDD ’23** (Applied Data Science Track): Proceedings of the 2023 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. Long Beach, CA, USA, August 8 -- 10, 2023.   
+
 * **Correlative Preference Transfer with Hierarchical Hypergraph Network for Multi-Domain Recommendation**  
 Zixuan Xu\*, **Penghui Wei**\*, Shaoguo Liu, Liang Wang, Bo Zheng (\*: Equal contribution)  
 **WWW ’23** (long): Proceedings of the Web Conference 2023. Austin, Texas, USA, April 30 -- May 4, 2023.   
@@ -20,11 +24,7 @@ Zixuan Xu\*, **Penghui Wei**\*, Shaoguo Liu, Liang Wang, Bo Zheng (\*: Equal con
 * **Hybrid Contrastive Contraints for Multi-Scenario Ad Ranking**  
 Shanlei Mu, **Penghui Wei**, Wayne Xin Zhao, Shaoguo Liu, Liang Wang, Bo Zheng  
 arXiv preprint arXiv:2302.02636.     
-
-* **RLTP: Reinforcement Learning to Pace for Delayed Impression Modeling in Preloaded Ads**  
-**Penghui Wei**, Yongqiang Chen, Shaoguo Liu, Liang Wang, Bo Zheng  
-arXiv preprint arXiv:2302.02592.     
-
+   
 * **CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning**  
 **Penghui Wei**, Xuanhua Yang, Shaoguo Liu, Liang Wang, Bo Zheng  
 **NAACL ’22** (Industry Track, **Oral**): Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics. Seattle, Washington, USA, July 10--15, 2022.   
