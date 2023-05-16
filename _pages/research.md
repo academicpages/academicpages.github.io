@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
-
 My current projects and working papers include a formal model to explain when political parties in India introduce internal quotas for women candidates, a survey experiment on gender-based differences in evaluating transgressions made by politicians, a conjoint experiment evaluating voter bias in candidate selection in India, and a conceptual  paper on defining information disorders.
 
 When Gatekeepers Open the Gates: Internal Party Quotas as Reputation Building Strategies
@@ -52,6 +50,3 @@ The global reach of the pandemic creates a unique opportunity for a regional ana
 
 [Empirical Studies of Conflict, Princeton University](https://esoc.princeton.edu/publications/localized-misinformation-global-pandemic-report-covid-19-narratives-around-world)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
