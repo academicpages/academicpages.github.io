@@ -1,5 +1,5 @@
 ---
-title: "Public Agenda Dynamics in the United States"
+title: "Competition, Cooperation, and Coexistence: An Ecological Approach to Public Agenda Dynamics in the United States (1958–2020)"
 collection: publications
 permalink: /publication/Peng_Zhu_CR_2022
 excerpt: ''
