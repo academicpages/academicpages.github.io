@@ -1,5 +1,5 @@
 ---
-title: "All publications"
+title: "Publications by Research Themes"
 permalink: /allpubs/
 author_profile: true
 ---
