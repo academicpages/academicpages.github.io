@@ -17,7 +17,5 @@ Keywords
 ----- 
 dynamic conditional correlation, issue competition, issue cooperation, issue ecosystem, public agenda
 
-Citation
------
-Peng, T. Q., & Zhu, J. J. H. (2022). Competition, Cooperation, and Coexistence: An Ecological Approach to Public Agenda Dynamics in the United States (1958–2020). Communication Research. https://doi.org/10.1177/00936502221125067
+
 
