@@ -8,31 +8,26 @@ redirect_from:
   - /about.html
 ---
 
+I am a Ph.D. student and Graduate Teaching Assitant at the University of Alabama. My research interests are water qualitative and quantitative, data assimilating, remote sensing, and hydraulic modeling of flood inundation. I worked as a lecturer at Kathmandu University and continuously contributing an advanced method for geoinformatics in the context of spatial-temporal reasoning and modeling for real-world and industry-scale applications. Involve as a mentor with Surveying and Spatial Institutes, Australia.
 
-
-A data-driven personal website
-======
-Like many other 
-
-Getting started
+Disciplines
 ======
 
-Site-wide configuration
+Geomatics, Geodesy, Surveying, Remote Sensing, Geoinformatics, Geographic Information System (GIS), Hydrology 
+
+Skills and Expertise
+======
+Geoinformation, Spatial Analysis Mapping, Digital Mapping, Geospatial ScienceSpatial StatisticsGeostatistical AnalysisLand Use ModellingEnvironmentGeographical AnalysisDTMSatellite Image AnalysisLand-Use ManagementPhotogrammetrySurveyingLand Use PlanningTerrain AnalysisGeovisualizationGeo-processingSatellite Image ProcessingLand Use ScienceSpatial Data InfrastructureMonitoringInterpolationWeb MappingEnvironmental InformationGeomatics EngineeringEarth ObservationTopographyGeomatics
+
+Languages
 ------
-The main configuration file for the site is in the base directory in [_config.yml]
+English, Nepali, German, Hindi, Urdu
 
-Create content & metadata
+Licenses
 ------
-For site content, there is one markdown file for each type of content, 
-
-**Markdown generator**
-
-I have also created 
-
-
-
+Driver, Vessels, FAA Remote Pilot Certificate (Small Unmanned Aircraft System)
 
 For more info
 ------
-More info about 
+Email: pthapa2@crimson.ua.edu
 
