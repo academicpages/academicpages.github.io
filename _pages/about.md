@@ -15,7 +15,6 @@ My current research interest includes computational social science, health commu
 <figure>
   <img src="/assets/images/my-research-summary.png">
 </figure>
-
 My research outputs appeared in top-ranked journals of communication science, information science, public health, and computer science, such as Communication Methods and Measures, Communication Research, New Media & Society, Journal of Computer-Mediated Communication, Journal of Informetrics, JASIST, Scientometrics, AIDS Care, International Journal of Medical Informatics, Journal of Medical Internet Research, ACM Transactions on Intelligent Systems and Technology, EPJ Data Science, IEEE Transactions on Visualization and Computer Graphics, and elsewhere. 
 
 I am now serving as the Associate Editor of the Journal of Communication (2022-). Meanwhile, I serve on the editorial board of several peer-reviewed journals in communication research, including: 
