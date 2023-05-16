@@ -17,7 +17,5 @@ Keywords
 ----- 
 Behavioral Pattern, Linear Mixed Modeling, Mobile Device, Mobile Re-engagement, Sequence, Temporal Boundary, Time
 
-Citation
------
-Peng, T. Q., & Zhu, J. J. H. (2022). Mobile Phone Use as Sequential Processes: From Discrete Behaviors to Sessions of Behaviors and Trajectories of Sessions. <i>Journal of Computer-Mediated Communication, 25</i>(2), 129-146. doi: 10.1093/jcmc/zmz029
+
 
