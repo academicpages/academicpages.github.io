@@ -17,7 +17,7 @@ Contact
 
 Education
 ======
-* B.A. in Management, Institute of International Relations, Beijing, China, 1997-200
+* B.A. in Management, Institute of International Relations, Beijing, China, 1997-2001
 * M.A. in Communication, Jinan University, Guangzhou, China, 2002-2005
 * Ph.D in Communication, City University of Hong Kong, Hong Kong, 2005-2008
 
