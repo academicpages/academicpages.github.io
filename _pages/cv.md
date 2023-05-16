@@ -37,17 +37,17 @@ Work Experience
 Professional Services
 =====
 * 2022 - 
-  * Associate Editor, Journal of Communication
+  * Associate Editor, *Journal of Communication*
 * 2019 - 
-  * Editorial Board Member, Computational Communication Research
+  * Editorial Board Member, *Computational Communication Research*
 * 2019 - 
-  * Editorial Board Member, Communication Methods and Measures
+  * Editorial Board Member, *Communication Methods and Measures*
 * 2018 - 
-  * Editorial Board Member, Journal of Computer-Mediated Communication
+  * Editorial Board Member, *Journal of Computer-Mediated Communication*
 * 2018 - 
-  * Editorial Board Member, Journal of Broadcasting & Electroinic Media
+  * Editorial Board Member, *Journal of Broadcasting & Electronic Media*
 * 2014 - 2018
-  * Book Review Editor, Asian Journal of Communication
+  * Book Review Editor, *Asian Journal of Communication*
 * 2018, 2019, 2020
   * Chair, Ad hoc Best Paper Committee, Computational Methods Division, International Communication Association
 * 2016 - 2017
