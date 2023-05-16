@@ -16,12 +16,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Lab"
-    url: /lab/
-
   - title: "Software"
     url: /software
-        
+  
+  - title:  "CSML Lab"
+    url: /lab/
 #   - title: "Blog Posts"
 #     url: /year-archive/
     

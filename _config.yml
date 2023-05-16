@@ -251,6 +251,9 @@ collections:
   Lab:
     output: true
     permalink: /:collection/:path/
+  software:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -308,6 +311,15 @@ defaults:
       layout: talk
       author_profile: false
       share: false
+  # _software
+  - scope:
+      path: ""
+      type: software
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      comment: false
 
 
 # Sass/SCSS

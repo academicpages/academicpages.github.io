@@ -1,5 +1,5 @@
 ---
-title: "Chronic Disease Prevention Intervention"
+title: "Chronic Disease Prevention"
 layout: single-portfolio
 excerpt: "<img src='/images/research/DPP-new.png' alt=''>"
 collection: research
