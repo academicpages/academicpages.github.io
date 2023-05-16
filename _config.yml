@@ -85,8 +85,8 @@ author:
   bio              : "I am an accomplished Earth System modeler and data scientist. With a strong academic background in Hydrology, I have made contributions in the field of environmental research and policy formulation."
   location         : "BR-104, Km 85, s/n, Rio Largo - AL, CEP 57100-000"
   employer         : "Campus de Engenharias e Ciências Agrárias - UFAL"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=B8Tx63UAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
