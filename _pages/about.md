@@ -20,6 +20,7 @@ I specifically focus on designing and building innovative and secure mobile sens
 Updates
 =======
 <ul>
+	<li> <b>[May 2023]</b> Our paper on location inference from spatial maps on AR/VR devices will appear in Usenix Security 2023!
 	<li> <b>[Feb 2023]</b> Our short paper on secure group pairing of drone swarms is accepted to VehicleSec Symposium (co-located with NDSS 2023)!
 	</li>
 	<li> <b>[Nov 2022]</b> Our work on secure group pairing of heterogeneous IoT devices is accepted to IEEE S&P 2023!
@@ -42,6 +43,15 @@ Updates
 
 Publications
 ============
+<ul>
+	<li><b>LocIn: Inferring Semantic Location from Spatial Maps in Mixed Reality</b>
+			<br/>
+			<b>Habiba Farrukh</b>, Reham Mohamed, Aniket Nare, Antonio Bianchi, Z. Berkay Celik
+			<br/>
+			USENIX Security Symposium (Usenix SEC '23)
+			<br/>
+	</li>
+</ul>
 <ul>
 	<li><b>Rethinking Secure Pairing in Drone Swarms</b>
 			<br/>
@@ -85,7 +95,7 @@ Publications
 			<br/>
 		Abdullah Imran, <b>Habiba Farrukh</b>, Muhammad Ibrahim, Z. Berkay Celik, Antonio Bianchi
 			<br/>
-			Proceedings of the USENIX Security Symposium (Usenix SEC '22) <a href="/files/SARA.pdf">[Paper]</a>
+			USENIX Security Symposium (Usenix SEC '22) <a href="/files/SARA.pdf">[Paper]</a>
 			<br/>
 	</li>
 </ul>
@@ -115,7 +125,7 @@ Publications
 			<br/>
 			<b>Habiba Farrukh</b>, Reham Mohamed Aburas, Siyuan Cao, He Wang
 			<br/>
-			26th Annual International Conference on Mobile Computing and Networking (ACM MobiCom '20) <a href="/files/FaceRevelio.pdf">[Paper]</a>, <a href="https://youtu.be/pYlfpXRDT4Y">[Video]</a>, <a href="/files/FaceRevelio_Slides.pptm">[Slides]</a> 
+			International Conference on Mobile Computing and Networking (ACM MobiCom '20) <a href="/files/FaceRevelio.pdf">[Paper]</a>, <a href="https://youtu.be/pYlfpXRDT4Y">[Video]</a>, <a href="/files/FaceRevelio_Slides.pptm">[Slides]</a> 
 			<br/>
 	</li>
 </ul>
@@ -137,7 +147,7 @@ Publications
 			<br/>
 		Siyuan Cao, <b>Habiba Farrukh</b>, He Wang
 			<br/>
-			18th ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys '18), <a href="/files/PHADE.pdf">[Abstract]</a>, <a href="https://youtu.be/eUvslFNlLnM">[Video]</a>
+			International Conference on Mobile Systems, Applications, and Services (ACM MobiSys '18), <a href="/files/PHADE.pdf">[Abstract]</a>, <a href="https://youtu.be/eUvslFNlLnM">[Video]</a>
 	</li>
 </ul>
 
