@@ -44,6 +44,6 @@ Listas de Exercícios
 
 Aulas
 ======
-* [Integrais Duplas sobre Retangulos](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/calculo3/intDuplas.pdf)
+* [Integrais Duplas sobre Retângulos](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/calculo3/intDuplas.pdf)
 
 
