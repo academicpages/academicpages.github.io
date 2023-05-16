@@ -1,17 +1,15 @@
 ---
-title: "All publications"
+title: "Publications in Chronological Order"
 permalink: /allpubs_year/
 author_profile: true
 ---
 
-Monographs
-=====
+## Monographs
 0.	Peng, T. Q., Liang, H., & Zhu, J. J. H. (2019) (Eds.). Introducing computational social science for Asia-Pacific communication research. Asian Journal of Communication, 9(3).
 0.	van Atteveldt, W., & Peng, T. Q. (2018) (Eds.). Computational methods for communication science. Communication Methods and Measures, 12(2-3).
    * Reprinted as an edited book by Routledge in 2021 (https://www.routledge.com/Computational-Methods-for-Communication-Science/Atteveldt-Peng/p/book/9780367536169) 
 
-Journal Articles
-=====
+## Journal Articles
 0.	Zhou, Y. X., Peng, T. Q., & Zhu, J. J. H. (2023). Will time matter with cognitive load and retention in online news consumption? Digital Journalism, 11(1), 181-202. 
 0.	Peng, T. Q., & Zhu, J. J. H. (2022). Competition, cooperation, and coexistence: An ecological approach to public agenda dynamics in the United States (1958-2020). Communication Research. 
 0.	Danowski, J., van Klyton, A., Peng, T. Q., Ma, S. Y., Nkakleu, R., & Biboum, A. D. (2022). ICT development, interorganizational networks, and public sector corruption in Africa. Quality & Quantity. 
@@ -26,31 +24,31 @@ Journal Articles
 0.	Peng, T. Q., Zhou, Y. X., & Zhu, J. J. H. (2020). From filled to empty time intervals: Quantifying online behaviors with digital traces. Communication Methods and Measures, 14(4), 219-238. 
 0.	Zhang, Y., Cao, B. L., Wang, Y. F., Peng, T. Q., & Wang, X. H. (2020). When public health research meets social media: Knowledge mapping from 2000 to 2018. Journal of Medical Internet Research, 22(8), e17582. 
 0.	Peng, T. Q., & Zhu, J. J. H. (2020). Mobile phone use as sequential processes: From discrete behaviors to sessions of behaviors and trajectories of sessions. Journal of Computer-Mediated Communication, 25(2), 129-146. 
-0.	Zhuang, J., Peng, T. Q., Tan, J. L., & Wu, Y. C. (2020). Mixed and blended emotional reactions to 2014 Ebola outbreak. Journal of Global Health, 10, 010304. 
+0.	Zhuang, J., Peng, T. Q., Tan, J. L., & Wu, Y. C. (2020). Mixed and blended emotional reactions to 2014 Ebola outbreak. Journal of Global Health, 10, 010304. 
 0.	Peng, T. Q., Liang, H., & Zhu, J. J. H. (2019). Introducing computational social science for Asia-Pacific communication research. Asian Journal of Communication, 9(3), 205-216. 
 0.	Hilbert, M., Barnett, G., Blumenstock, J., Contractor, N., Diesner, J., Frey, S., González-Bailón, S., Lamberson, P. J., Pan, J., Peng, T. Q., Shen, C. H., Smaldino, P. E., van Atteveldt, W., Waldherr, A., Zhang, J. W., & Zhu, J. J. H. (2019). Computational communication science: A methodological catalyzer for a maturing discipline. International Journal of Communication, 13, 3912-3934. 
-0.	‡Guan, L., Peng, T. Q., & Zhu, J. J. H. (2019). Who is tracking health on mobile devices: Behavioral logfile analysis in Hong Kong. JMIR mHealth and uHealth, 7, e13679. 
+0.	Guan, L., Peng, T. Q., & Zhu, J. J. H. (2019). Who is tracking health on mobile devices: Behavioral logfile analysis in Hong Kong. JMIR mHealth and uHealth, 7, e13679. 
 0.	Robertson, C., Dutton, W., Ackland, R., & Peng, T. Q. (2019). The democratic role of social media in political debates: The use of Twitter in the first televised US presidential debate of 2016.Journal of Information Technology & Politics, 16, 105-118. 
 0.	Shi, J. Y., Wang, X. H., Peng, T. Q., & Chen, L. (2019). Cancer prevention messages on Chinese social media: A content analysis grounded in the extended parallel process model and attribution theory. International Journal of Communication, 13, 1959-1976. 
 0.	Zheng, H., Aung, H. H., Erdt, M., Peng, T. Q., Sesagiri Raamkumar, A., & Theng, Y. L. (2019). Social media presence of scholarly journals. Journal of the Association for Information Science and Technology, 70, 256-270. 
 0.	Paulus, F. M., Müller-Pinzler, L., Meshi, D., Peng, T. Q., Martinez, M. M., & Krach, S. (2019). The politics of embarrassment: Considerations on how norm-transgressions of political representatives shape nation-wide communication of emotions on social media. Frontiers in Communication, 4, 0. doi:10.3389/fcomm.2019.00011 
-0.	‡Wang, X. H., Chen, L., Shi, J. Y., & Peng, T. Q. (2019). What makes cancer information viral on social media? Computers in Human Behavior, 93, 149-156. 
+0.	Wang, X. H., Chen, L., Shi, J. Y., & Peng, T. Q. (2019). What makes cancer information viral on social media? Computers in Human Behavior, 93, 149-156. 
 0.	Lu, J., Xie, X., Lan, J., Peng, T. Q., Wu, Y., & Chen, W. (2019). BeXplorer: Visual analytics of dynamic interplay between communication and purchase behaviors in MMORPGs. Visual Informatics, 3, 87-101. doi:10.1016/j.visinf.2019.06.002  
 0.	van Atteveldt, W., & Peng, T. Q. (2018). When communication meets computation: Opportunities, challenges, and pitfalls in computational communication science. Communication Methods & Measures, 12(2-3), 81-92. 
-0.	‡Chen, L., Wang, X. H., & Peng, T. Q. (2018). Nature and diffusion of gynecologic cancer-related misinformation on social media. Journal of Medical Internet Research, 20, e11515. 
+0.	Chen, L., Wang, X. H., & Peng, T. Q. (2018). Nature and diffusion of gynecologic cancer-related misinformation on social media. Journal of Medical Internet Research, 20, e11515. 
 0.	Zhu, J. J. H., Chen, H. X., Peng, T. Q., Liu, X. F., & Dai, H. X. (2018). How to measure sessions of mobile device use? Quantification, evaluation, and applications. Mobile Media & Communication, 6, 215-232. 
 0.	Sun, G. D., Tang, T., Peng, T. Q., Liang, R. H., & Wu, Y. C. (2018). SocialWave: Visual analysis of spatio-temporal diffusion of information on social media. ACM Transactions on Intelligent Systems and Technology, 9, Article 15. 
 0.	Zhu, Q. F., Skoric, M., & Peng, T. Q. (2018). Citizens’ use of the Internet and public service delivery: A longitudinal study of the first-level administrative divisions in China (1997-2014). International Journal of Public Administration in the Digital Age (IJPADA), 5, 32-42. 
-0.	Zhang, L., Zheng, L., & Peng, T. Q. (2017). Structurally embedded news consumption on mobile news applications. Information Processing & Management, 53, 1242-1253. 
-0.	‡Xu, X. X., Yang, X. D., Lu, J. H., Lan, J., Peng, T. Q., Wu, Y. C., & Chen, W. (2017). Examining the effects of network externalities, density, and closure on in-game currency price in online games. Internet Research, 27, 924-941. 
+0.	Zhang, L., Zheng, L., & Peng, T. Q. (2017). Structurally embedded news consumption on mobile news applications. Information Processing & Management, 53, 1242-1253. 
+0.	Xu, X. X., Yang, X. D., Lu, J. H., Lan, J., Peng, T. Q., Wu, Y. C., & Chen, W. (2017). Examining the effects of network externalities, density, and closure on in-game currency price in online games. Internet Research, 27, 924-941. 
 0.	Peng, T. Q., Sun, G. D., & Wu, Y. C. (2017). Interplay between public attention and public emotion towards multiple social issues on Twitter. PLoS ONE, 12, e0167986. 
-0.	‡Shi, J. Y., Wang, X. H., Peng, T. Q., & Chen, L. (2017). Understanding interactions in virtual HIV communities: Using social network analysis approach. AIDS Care, 29, 239-243. 
+0.	Shi, J. Y., Wang, X. H., Peng, T. Q., & Chen, L. (2017). Understanding interactions in virtual HIV communities: Using social network analysis approach. AIDS Care, 29, 239-243. 
 0.	Wang, X. T., Liu, S. X., Chen, Y., Peng, T. Q., Su, J., Yang, J., & Guo, B. N. (2016). How ideas flow across multiple social groups. Proceedings of the 2016 IEEE Conference on Visual Analytics Science and Technology (IEEE VAST 2016), Baltimore, Maryland. doi: 10.1109/VAST.2016.7883511 
 0.	Peng, T. Q., Liu, M. C., Wu, Y. C., & Liu, S. X. (2016). Follower-followee network, communication networks and vote agreement of U.S. members of Congress. Communication Research, 43, 996-1024. 
-0.	‡Wang, X. H., Shi, J. Y., Chen, L., & Peng, T. Q. (2016). An examination of users’ influence in online HIV/AIDS communities. Cyberpsychology, Behavior, and Social Networking, 19, 314-320.
-0.	‡Qin, J., & Peng, T. Q. (2016). Googling environmental issues: Web search queries as a measurement of public attention on environmental issues. Internet Research, 26, 57-73. 
+0.	Wang, X. H., Shi, J. Y., Chen, L., & Peng, T. Q. (2016). An examination of users’ influence in online HIV/AIDS communities. Cyberpsychology, Behavior, and Social Networking, 19, 314-320.
+0.	Qin, J., & Peng, T. Q. (2016). Googling environmental issues: Web search queries as a measurement of public attention on environmental issues. Internet Research, 26, 57-73. 
 0.	Peng, T. Q. (2015). Assortative mixing, preferential attachment and triadic closure: A longitudinal study of tie-generative mechanisms in journal citation networks. Journal of Informetrics, 9, 250-262. 
-0.	‡Zhang, L., & Peng, T. Q. (2015). Breadth, depth and speed: Diffusion of advertising messages on microblogging sites. Internet Research, 25, 453-470. 
+0.	Zhang, L., & Peng, T. Q. (2015). Breadth, depth and speed: Diffusion of advertising messages on microblogging sites. Internet Research, 25, 453-470. 
 0.	Jiang, L. C., Wang, Z. Z., Peng, T. Q., & Zhu, J. J. H. (2015). The divided communities of shared concerns: Mapping the intellectual structure of e-health research in social science journals. International Journal of Medical Informatics, 84, 24-35. 
 0.	Sun, G. D., Wu, Y. C., Liu, S. X., Peng, T. Q., Zhu, J. J. H., & Liang, R. F. (2014). EvoRiver: Visual analysis of topic coopetition on social media. IEEE Transactions on Visualization and Computer Graphics, 20, 1753-1762. 
 0.	Zhang, L., Peng, T. Q., Zhang, Y. P., Wang, X. H., & Zhu, J. J. H. (2014). Content or context: Which matters more in information processing on microblogging sites? Computers in Human Behavior, 31, 242-249. 
