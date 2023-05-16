@@ -17,8 +17,6 @@ Keywords
 ----- 
 Visual analytics, agenda-setting, topic competition, information diffusion
 
-{% include video id="QxJoihqDzBs" provider="youtube" %}
-
-Citation
+Demo Video
 -----
-Xu, P. P., Wu, Y. C., Wei, E. X., Peng, T. Q., Liu, S. X., Zhu, J. J. H., & Qu, H. M. (2013). Visual Analysis of Topic Competition on Social Media. IEEE Transactions on Visualization and Computer Graphics, 19, 2012-2021
+{% include video id="QxJoihqDzBs" provider="youtube" %}
