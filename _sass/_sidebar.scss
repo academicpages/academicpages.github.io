@@ -131,6 +131,7 @@
 }
 
 .author__urls-wrapper {
+  margin: 0;
   position: relative;
   display: table-cell;
   vertical-align: middle;
@@ -147,6 +148,8 @@
 
   @include breakpoint($large) {
     display: block;
+    margin-top: 10px;
+    margin-bottom: 20px;
   }
 
   button {
