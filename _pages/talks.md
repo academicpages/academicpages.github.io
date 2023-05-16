@@ -16,7 +16,7 @@ Dementia
 
 * <b>Cheng, Y. </b>. Deep Learning Clinical, Cognitive, and Neuroimaging Phenotypes from the MGH Memory Disorder Unit (MDU) Patients, MGH Memory Disorder Unit (MDU) Conference, Virtual. May., 2023.
 
-* <b>Cheng, Y. </b>. Evidence for a distributed head direction and travel trajectory system in the human brain during active navigation, Society for Neuroscience, Virtual. Nov., 2023.
+* <b>Cheng, Y. </b>. Predicting AD Status with Brain Morphometry: Utilizing Cerebrospinal Fluid as a Biomarker, Joint UCSF/MGH REC Scholars Program Event, Virtual. April, 2023.
 
 * Tyagi T., Magdamo C., <b>Cheng, Y. </b>, West M., Noori A., Liu X., Serrano-Pozo A., Hyman B., Mukerji S., Westover M.B., Blacker D., Das S.. Deep Learning Natural Language Processing to Detect Cognitive Impairment in Charts from Electronic Health Records. MGH Annual Clinical Research Day, Virtual. Oct., 2022. <b>Team Science - Honorable Mention</b>
 
@@ -26,7 +26,7 @@ Human Navigation
 Direction
 -----------
 
-* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Evidence for a distributed head direction and travel trajectory system in the human brain during active navigation, Society for Neuroscience, San Diego. Nov., 2022. [[news](/posts/2022/11/blog-post-1/)]
+* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Chrastil, E.R.. Evidence for a distributed head direction and travel trajectory system in the human brain during active navigation, Society for Neuroscience, San Diego. Nov., 2022. [[news](/posts/2022/11/blog-post-1/)]
 
 * Starrett Ambrose M., <b>Cheng, Y. </b>, Davis, R., Tranquada-Torres, B., Chrastil, E.R.. Domain generality and specificity across egocentric and allocentric distance ratings, Society for Neuroscience, San Diego. Nov., 2022.
 

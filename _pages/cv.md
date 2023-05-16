@@ -63,7 +63,11 @@ Select Conference Presentations
 ======
 <b><big>Oral Presentations</big></b>
 
-* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Evidence for a distributed head direction and travel trajectory system in the human brain during active navigation, Society for Neuroscience, San Diego. Nov., 2022. [[news](/posts/2022/11/blog-post-1/)]
+* <b>Cheng, Y. </b>. Deep Learning Clinical, Cognitive, and Neuroimaging Phenotypes from the MGH Memory Disorder Unit (MDU) Patients, MGH Memory Disorder Unit (MDU) Conference, Virtual. May, 2023.
+
+* <b>Cheng, Y. </b>. Predicting AD Status with Brain Morphometry: Utilizing Cerebrospinal Fluid as a Biomarker, Joint UCSF/MGH REC Scholars Program Event, Virtual. April, 2023.
+
+* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Chrastil, E.R.. Evidence for a distributed head direction and travel trajectory system in the human brain during active navigation, Society for Neuroscience, San Diego. Nov., 2022. [[news](/posts/2022/11/blog-post-1/)]
 
 * <b>Cheng, Y.</b>, Chrastil, E.R..  Sex Differences in Head Direction Signals When Learning a Complex Environment. Neuromatch Conference 4.0 Flash Talk, Virtual, Dec., 2021. [[news]](/posts/2021/12/blog-post-1/) [[video](https://www.youtube.com/watch?v=fgzp-sRqbmQ&t=12s)]
 
