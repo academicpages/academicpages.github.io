@@ -4,7 +4,7 @@ permalink: /allpubs/
 author_profile: true
 ---
 
-You can also find the articles on my [Google Scholar](https://scholar.google.com.hk/citations?user=jtRNAJcAAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0003-1779-9552) profile.
+You can also find the articles on my [Google Scholar](https://scholar.google.com/citations?user=iF4HlRQAAAAJ&hl=en) or [ORCID](https://orcid.org/0000-0002-2588-7491) profile.
 
 ## Computational Communication as an Emerging Research Paradigm
 0. Zhang, L, Peng, T. Q., Wang, C. J., Liang, H., & Zhu, J. J. H. (2021). A Natural Course from Marginality to Centrality: What we learned from the development of computational communication research in China (從邊陲到主流的一條自然路徑：華人計算傳播學者的參與和體驗). In Francis L. F. Lee, Yu Huang (Eds), Inherit and Inspire: The Past, Present and Future of Chinese Communication Studies (pp. 399-419). Hong Kong: Chinese University of Hong Kong Press. [in Chinese]
