@@ -12,6 +12,7 @@ redirect_from:
 Contact
 =====
 * Email: pengtaiq AT msu.edu
+* Tel: (+1) 517.355.0221
 * Address: 404 Wilson Road, Room 473, Department of Communication, Michigan State University, East Lansing, Michigan 48824-1212, United States
 
 Education
