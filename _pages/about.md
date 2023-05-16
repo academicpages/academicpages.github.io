@@ -20,7 +20,7 @@ I specifically focus on designing and building innovative and secure mobile sens
 Updates
 =======
 <ul>
-	<li> <b>[May 2023]</b> Our paper on location inference from spatial maps on AR/VR devices will appear in Usenix Security 2023!
+	<li> <b>[May 2023]</b> Our paper on location inference from spatial maps on AR/VR devices will appear in Usenix Security 2023! </li>
 	<li> <b>[Feb 2023]</b> Our short paper on secure group pairing of drone swarms is accepted to VehicleSec Symposium (co-located with NDSS 2023)!
 	</li>
 	<li> <b>[Nov 2022]</b> Our work on secure group pairing of heterogeneous IoT devices is accepted to IEEE S&P 2023!
