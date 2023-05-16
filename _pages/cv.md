@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+Contact:
+* Email: pengtaiq AT msu.edu
+* Address: 404 Wilson Road, Room 473, Department of Communication, Michigan State University, East Lansing, Michigan 48824-1212, United States
 
 Education
 ======
