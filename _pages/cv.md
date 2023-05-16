@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.E. in Geomatics Engineering, Kathmandu University, 2009-2013
+* M.S. in Geoinformatics, University of Muenster, 2015-2017
+* Ph.D in Geography and Environmental Science, University of Alabama, 2022- Current
 
 Work experience
 ======
