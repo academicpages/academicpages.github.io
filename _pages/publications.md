@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Full List](/allpubs/){: .btn .btn-outline }
+[Full List by Research Themes](/allpubs/){: .btn .btn-outline }
+[Full List in Chronological Order](/allpubs_year/){: .btn .btn-outline }
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
