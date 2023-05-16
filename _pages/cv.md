@@ -17,15 +17,15 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Graduate Research Assistant
+  * University of Alabama
+  * Duties included: 
+  * Supervisor: Professor Hongxing Liu, Associate Professor 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2022 & Spring 2023: Graduate Teaching Assistant
+  * University of Alabama
+  * Duties included: Teaching GY101: Atmospheric Process & Patterns
+  * Department of Geography
   
 Skills
 ======
