@@ -15,7 +15,7 @@ The public agenda is an ecosystem in which public issues interact and compete to
 
 Keywords
 ----- 
-
+dynamic conditional correlation, issue competition, issue cooperation, issue ecosystem, public agenda
 
 Citation
 -----
