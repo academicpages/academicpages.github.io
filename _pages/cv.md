@@ -37,3 +37,16 @@ Work experience
 * September 2008 - August 2009
   * Research Fellow, Web Mining Lab, City University of Hong Kong
 
+Affiliated Positions
+=====
+* September 2017 - Present	
+  * Associate Member, Center for Communication Research, City University of Hong Kong
+* September 2009 - Present	
+  * Member, Web Mining Lab, City University of Hong Kong
+* September 2016 - Present	
+  * Member, Health & Risk Communication Center, Michigan State University
+* April 2017 - December 2020	
+  * Quello Research Fellow, Quello Center, Michigan State University
+* June 2014	
+  * Visiting Researcher, Microsoft Research
+
