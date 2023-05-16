@@ -14,6 +14,10 @@ redirect_from:
 Dementia
 ======
 
+* <b>Cheng, Y. </b>. Deep Learning Clinical, Cognitive, and Neuroimaging Phenotypes from the MGH Memory Disorder Unit (MDU) Patients, MGH Memory Disorder Unit (MDU) Conference, Virtual. May., 2023.
+
+* <b>Cheng, Y. </b>. Evidence for a distributed head direction and travel trajectory system in the human brain during active navigation, Society for Neuroscience, Virtual. Nov., 2023.
+
 * Tyagi T., Magdamo C., <b>Cheng, Y. </b>, West M., Noori A., Liu X., Serrano-Pozo A., Hyman B., Mukerji S., Westover M.B., Blacker D., Das S.. Deep Learning Natural Language Processing to Detect Cognitive Impairment in Charts from Electronic Health Records. MGH Annual Clinical Research Day, Virtual. Oct., 2022. <b>Team Science - Honorable Mention</b>
 
 Human Navigation
