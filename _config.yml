@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Winson Peng | Home"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "computational social scientist"
