@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 Welcome to my personal website!
+
 I am a Professor at the [Department of Communication](https://comartsci.msu.edu/departments/communication), [Michigan State University](https://www.msu.edu).
 
 My current research interest includes computational social science, health communication, mobile analytics, and political communication. I am particularly interested in unraveling the structure & dynamics of human communication phenomena with various computational methods (e.g., network and spatial modeling, text mining, temporal and sequential modeling).
