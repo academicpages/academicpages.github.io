@@ -17,7 +17,4 @@ Keywords
 ----- 
 Visual analytics, agenda-setting, topic competition, information diffusion
 
-Demo Video
------
-{% include video id="QxJoihqDzBs" provider="youtube" %}
 
