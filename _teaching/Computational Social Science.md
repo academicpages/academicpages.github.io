@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/computational_social_science
 venue: "Michigan State University, Department of Communication"
-date: 2014-01-01
+date: 2022-09-01
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
