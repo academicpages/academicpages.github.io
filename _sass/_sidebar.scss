@@ -131,7 +131,6 @@
 }
 
 .author__urls-wrapper {
-  margin: 0;
   position: relative;
   display: table-cell;
   vertical-align: middle;
@@ -143,13 +142,12 @@
   li:last-child {
     a {
       margin-bottom: 0;
+      width: 36px;
     }
   }
 
   @include breakpoint($large) {
     display: block;
-    margin-top: 10px;
-    margin-bottom: 20px;
   }
 
   button {
