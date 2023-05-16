@@ -57,12 +57,12 @@ Affiliated Positions
 =====
 * September 2017 - 	
   * Associate Member, Center for Communication Research, City University of Hong Kong
-* September 2009 - 	
-  * Member, Web Mining Lab, City University of Hong Kong
-* September 2016 - 	
-  * Member, Health & Risk Communication Center, Michigan State University
 * April 2017 - December 2020	
   * Quello Research Fellow, Quello Center, Michigan State University
+* September 2016 - 	
+  * Member, Health & Risk Communication Center, Michigan State University
+* September 2009 - 	
+  * Member, Web Mining Lab, City University of Hong Kong
 * June 2014	
   * Visiting Researcher, Microsoft Research
 
