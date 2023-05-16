@@ -71,7 +71,7 @@ Served as manuscript reviewer for the following journals:\
 [Journal of Manufacturing Processes](https://www.sciencedirect.com/journal/journal-of-manufacturing-processes)\
 [Journal of Materials Science & Technology](https://www.sciencedirect.com/journal/journal-of-materials-science-and-technology)\
 [Journal of Materials Engineering and Performance](https://www.springer.com/journal/11665)\
-[Journal of Materials Processing Technology](https://www.sciencedirect.com/journal/journal-of-materials-processing-technology)
+[Journal of Materials Processing Technology](https://www.sciencedirect.com/journal/journal-of-materials-processing-technology)\
 [Journal of Intelligent Manufacturing](https://www.springer.com/journal/10845?gclid=CjwKCAjw04yjBhApEiwAJcvNob_q8UJmz-zV_pV4h2X2MyKvy2ucqkZ2BKkX5arsVVc8u3m5zcBz8BoCtK4QAvD_BwE)
 
 Graduate Coursework
