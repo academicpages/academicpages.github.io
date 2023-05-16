@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Prof Fábio Farias Pereira"
-  avatar           : "profile.png"
+  avatar           : "profile-fabio.jpeg"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "https://www.google.com/maps/place/Universidade+Federal+de+Alagoas+-+Centro+de+Ci%C3%AAncias+Agr%C3%A1rias+(CECA)/@-9.4659093,-35.828596,17z/data=!3m1!4b1!4m6!3m5!1s0x70136aa416bdeef:0xe13d1d8e42accf7f!8m2!3d-9.4659093!4d-35.8260211!16s%2Fg%2F11b6hqnd0c"
   employer         : "Universidade Federal de Alagoas"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
