@@ -1,6 +1,6 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your entire site, values
+# This config file is meant for settings that affect entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Prof Fábio Farias Pereira"
+  name             : "Fábio Farias Pereira"
   avatar           : "profile-fabio.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "https://www.google.com/maps/place/Universidade+Federal+de+Alagoas+-+Centro+de+Ci%C3%AAncias+Agr%C3%A1rias+(CECA)/@-9.4659093,-35.828596,17z/data=!3m1!4b1!4m6!3m5!1s0x70136aa416bdeef:0xe13d1d8e42accf7f!8m2!3d-9.4659093!4d-35.8260211!16s%2Fg%2F11b6hqnd0c"
-  employer         : "Universidade Federal de Alagoas"
+  bio              : "I am an accomplished Earth System modeler and data scientist. With a strong academic background in Hydrology, I have made contributions in the field of environmental research and policy formulation."
+  location         : "BR-104, Km 85, s/n, Rio Largo - AL, CEP 57100-000"
+  employer         : "Campus de Engenharias e Ciências Agrárias - UFAL"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ffariaspereira"
   google_plus      :
   keybase          :
   instagram        :
