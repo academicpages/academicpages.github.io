@@ -18,6 +18,9 @@ main:
     
   - title: "Lab"
     url: /lab/
+
+  - title: "Software"
+    url: /software
         
 #   - title: "Blog Posts"
 #     url: /year-archive/
