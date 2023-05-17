@@ -1,7 +1,7 @@
 ---
 title: "Seek for Success: A Visualization Approach for Understanding the Dynamics of Academic Careers"
 collection: publications
-permalink: /publication/Wang et al_2022_TVCG
+permalink: /publication/Wang_2022_TVCG
 excerpt: ''
 date: 2022-01-01
 venue: 'IEEE Transactions on Visualization and Computer Graphics'
