@@ -11,7 +11,7 @@ I am a third-year Ph.D. student at Monash University, supervised by [Prof. Shiru
 
 News
 ------
-* 2023/05: Our paper on [weak information graph learning]() has been accepted by KDD 2023.
+* 2023/05: Our paper on [weak information graph learning](https://arxiv.org) has been accepted by KDD 2023.
 * 2022/11: Our paper on [graph representation learning](https://arxiv.org/pdf/2211.14065.pdf) has been accepted by AAAI 2023.
 * 2022/11: Our paper on [federated graph learning](https://arxiv.org/pdf/2211.13009.pdf) has been accepted by AAAI 2023.
 * 2022/10: Our paper on [graph OOD detection](https://arxiv.org/pdf/2211.04208.pdf) has been accepted by WSDM 2023.
@@ -31,10 +31,10 @@ Selected Papers
   <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/ddpt.png"></dt>
   <dd><strong>Learning Strong Graph Neural Networks with Weak Information</strong></dd>
   <dd><strong>Yixin Liu</strong>, Kaize Ding, Jianling Wang, Vincent Lee, Huan Liu, Shirui Pan</dd>
-  <dd> ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2023
+  <dd> ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2023</dd>
   <dd>
-    <a href="">[Paper]</a> 
-    <a href="">[Code]</a>
+    <a href="https://arxiv.org">[Paper]</a> 
+    <a href="https://github.com">[Code]</a>
   </dd>
 </dl>
 
