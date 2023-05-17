@@ -15,14 +15,14 @@ author_profile: true
 0. Zhu, J. J. H., Peng, T. Q., Liang, H., Wang, C. J., Qin, J., & Chen, H. X. (2014). Computational social science in communication research. <i>e-Science Technology & Application, 5</i>(2), 3-13. [in Chinese]
 
 ## Political Communication
-0. Peng, T. Q., & Zhu, J. J. H. (2022). Competition, cooperation, and coexistence: An ecological approach to public agenda dynamics in the United States (1958-2020). Communication Research.
-0. Robertson, C., Dutton, W., Ackland, R., & Peng, T. Q. (2019). The democratic role of social media in political debates: The use of Twitter in the first televised US presidential debate of 2016. Journal of Information Technology & Politics,16, 105-118. 
-0. Paulus, F. M., Müller-Pinzler, L., Meshi, D., Peng, T. Q., Martinez Mateo, M., & Krach, S. (2019). The politics of embarrassment: Considerations on how norm-transgressions of political representatives shape nation-wide communication of emotions on social media. Frontiers in Communication.
-0. Peng, T. Q., Sun, G. D., & Wu, Y. C. (2017). Interplay between public attention and public emotion toward multiple social issues on Twitter. PLoS ONE, 12, e0167896.​
-0. Peng, T. Q., Liu, M. C., Wu, Y. C., & Liu, S. X. (2016). Follower-followee Network, Communication Networks and Vote Agreement of U.S. Members of Congress. Communication Research, 43, 996-1024.
-0. Qin, J., & Peng, T. Q. (2016). Googling Environmental Issues: Web Search Queries as a Measurement of Public Attention on Environmental Issues. Internet Research, 26, 57-73. ​
-0. Sun, G. D., Wu, Y. C., Liu, S. X., Peng, T. Q., Zhu, J. J. H., & Liang, R. F. (2014). EvoRiver: Visual Analysis of Topic Coopetition on Social Media. IEEE Transactions on Visualization and Computer Graphics, 20, 1753-1762. Demo Video
-0. Xu, P. P., Wu, Y. C., Wei, E. X., Peng, T. Q., Liu, S. X., Zhu, J. J. H., & Qu, H. M. (2013). Visual Analysis of Topic Competition on Social Media. IEEE Transactions on Visualization and Computer Graphics, 19, 2012-2021. Demo Video 
+0. Peng, T. Q., & Zhu, J. J. H. (2022). Competition, cooperation, and coexistence: An ecological approach to public agenda dynamics in the United States (1958-2020). <i>Communication Research</i>.
+0. Robertson, C., Dutton, W., Ackland, R., & Peng, T. Q. (2019). The democratic role of social media in political debates: The use of Twitter in the first televised US presidential debate of 2016. <i>Journal of Information Technology & Politics,16</i>, 105-118. 
+0. Paulus, F. M., Müller-Pinzler, L., Meshi, D., Peng, T. Q., Martinez Mateo, M., & Krach, S. (2019). The politics of embarrassment: Considerations on how norm-transgressions of political representatives shape nation-wide communication of emotions on social media. <i>Frontiers in Communication</i>
+0. Peng, T. Q., Sun, G. D., & Wu, Y. C. (2017). Interplay between public attention and public emotion toward multiple social issues on Twitter. <i>PLoS ONE, 12</i>, e0167896.
+0. Peng, T. Q., Liu, M. C., Wu, Y. C., & Liu, S. X. (2016). Follower-followee Network, Communication Networks and Vote Agreement of U.S. Members of Congress. <i>Communication Research, 43</i>, 996-1024.
+0. Qin, J., & Peng, T. Q. (2016). Googling Environmental Issues: Web Search Queries as a Measurement of Public Attention on Environmental Issues. <i>Internet Research, 26</i>, 57-73. 
+0. Sun, G. D., Wu, Y. C., Liu, S. X., Peng, T. Q., Zhu, J. J. H., & Liang, R. F. (2014). EvoRiver: Visual Analysis of Topic Coopetition on Social Media. <i>IEEE Transactions on Visualization and Computer Graphics, 20</i>, 1753-1762. 
+0. Xu, P. P., Wu, Y. C., Wei, E. X., Peng, T. Q., Liu, S. X., Zhu, J. J. H., & Qu, H. M. (2013). Visual Analysis of Topic Competition on Social Media. <i>IEEE Transactions on Visualization and Computer Graphics, 19</i>, 2012-2021.
 
 ## Social Media & Health
 0. Lee, S., Ma, S. Y, Meng, J., Zhuang, J., & Peng, T. Q. (2022). Detecting sentiment toward emerging infectious disease on social media: A validity evaluation of dictionary-based sentiment analysis. International Journal of Environmental Research and Public Health, 19(11), 6759.
