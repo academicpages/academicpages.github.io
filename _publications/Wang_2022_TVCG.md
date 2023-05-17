@@ -17,7 +17,7 @@ Keywords
 ----- 
 Career Analysis, Academic Profiles, Science of Science, Publication Data, Citation Data, Sequence Analysis
 
-[Demo Video on YouTube]([https://youtu.be/bcqTLjnAgEc](https://www.youtube.com/watch?v=S-_JopzBY6g)
+[Demo Video on YouTube](https://youtu.be/bcqTLjnAgEc](https://www.youtube.com/watch?v=S-_JopzBY6g)
 ----- 
 
 
