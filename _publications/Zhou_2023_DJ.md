@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-01-06
 venue: 'Digital Journalism'
 paperurl: ''
-citation: 'Zhou, Y.-X., Peng, T.-Q., & Zhu, J. J. H. (2023). Will Time Matter with Cognitive Load and Retention in Online News Consumption? <i>Digital Journalism</i>. https://doi.org/10.1080/21670811.2022.2164514
+citation: 'Zhou, Y. X., Peng, T. Q., & Zhu, J. J. H. (2023). Will Time Matter with Cognitive Load and Retention in Online News Consumption? <i>Digital Journalism</i>. https://doi.org/10.1080/21670811.2022.2164514
 '
 ---
 
