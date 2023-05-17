@@ -12,9 +12,13 @@ Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I
 
 ## News 
 
+> ***16 May 2023***
+> 
+> Other great news! Our papers "Evaluating Distance Metrics for Program Repair" (first author) and "Exploring the Responses of Large Language Models to Beginner Programmers’Help Requests" have been both accepted for publication at [ICER](https://icer2023.acm.org/). See you in Chicago!
+
 > ***3 April 2023***
 > 
-> Great news! Our papers "Training Language Models for Programming Feedback Using Automated Repair Tools" and "Automated Program Repair Using Generative Models for Code Infilling", have been both accepted for publication at [AIED](https://www.aied2023.org/). I will go to Tokyo in July to take part in the Doctoral Consortium and present our results. I will also be part of the volunteering team. 
+> Great news! Our (short) papers "Training Language Models for Programming Feedback Using Automated Repair Tools" and "Automated Program Repair Using Generative Models for Code Infilling", have been both accepted for publication at [AIED](https://www.aied2023.org/). I will go to Tokyo in July to present the first paper and take part in the doctoral consortium.
 
 > ***17 November 2022***
 > 
