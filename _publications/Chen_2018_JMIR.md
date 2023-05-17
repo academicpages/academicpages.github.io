@@ -6,7 +6,7 @@ excerpt: ''
 date: 2018-10-16
 venue: 'Journal of Medical Internet Research'
 paperurl: ''
-citation: 'Chen, L., Wang, X., & Peng, T.-Q. (2018). Nature and Diffusion of Gynecologic Cancer–Related Misinformation on Social Media: Analysis of Tweets. Journal of Medical Internet Research, 20(10), e11515. https://doi.org/10.2196/11515'
+citation: 'Chen, L., Wang, X., & Peng, T.-Q. (2018). Nature and Diffusion of Gynecologic Cancer–Related Misinformation on Social Media: Analysis of Tweets. <i>Journal of Medical Internet Research, 20</i>(10), e11515. https://doi.org/10.2196/11515'
 ---
 
 Abstract
