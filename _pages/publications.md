@@ -15,7 +15,7 @@ author_profile: true
 
 * **RLTP: Reinforcement Learning to Pace for Delayed Impression Modeling in Preloaded Ads**  
 **Penghui Wei**, Yongqiang Chen, Shaoguo Liu, Liang Wang, Bo Zheng  
-**KDD ’23** (Applied Data Science Track): Proceedings of the 2023 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. Long Beach, CA, USA, August 8 -- 10, 2023.   
+**KDD ’23** (Applied Data Science Track): Proceedings of the 2023 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. Long Beach, CA, USA, August 6 -- 10, 2023.   
 
 * **Correlative Preference Transfer with Hierarchical Hypergraph Network for Multi-Domain Recommendation**  
 Zixuan Xu\*, **Penghui Wei**\*, Shaoguo Liu, Liang Wang, Bo Zheng (\*: Equal contribution)  
