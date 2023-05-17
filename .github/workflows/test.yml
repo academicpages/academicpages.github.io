@@ -1,0 +1,14 @@
+name: TEST-CI
+
+on:
+  workflow_dispatch:
+    inputs:
+  schedule:
+    - cron: '30 * * * *'
+
+jobs:
+  printInputs:
+    runs-on: ubuntu-latest
+    steps:
+    - run: |
+        echo "Run something"
