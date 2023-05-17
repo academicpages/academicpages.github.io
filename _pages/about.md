@@ -13,14 +13,14 @@ Hi! I am currently an algorithm expert in Alimama Ads Tech at Alibaba Group (Ali
 
 Research Interests
 ======
-My research interests are in computational advertising and information retrieval, and broader interests include transfer learning, text generation, federated learning and their applications in advertising, recommendation and search.   
+My research interests are in computational advertising and information retrieval, and broader interests include transfer learning, text generation, federated learning, reinforcement learning and their applications in advertising, recommendation and search.   
 
 During my Ph.D., my research interests were in natural language processing and social media analytics, especially *opinion mining* and *opinionated/argumentative text generation* in low-resource scenarios (e.g., cross-domain transfer, learning with noisy labels and sequence generation with few paired data).       
 
 
 News
 =====
-* May. 2023: A first-authored paper about *impression pacing* was accepted at KDD 2023. 
+* May. 2023: A first-authored paper about RL-based *impression pacing* was accepted at KDD 2023. 
 * Apr. 2023: A first-authored resource paper about *vertical federated learning* benchmark for ad ranking was accepted at SIGIR 2023. 
 * Feb. 2023: Our new preprint about *multi-domain pretraining* was out. 
 * Jan. 2023: A co-first authored paper about *multi-domain retrieval* was accepted at WWW 2023.  
