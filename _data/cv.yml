@@ -1,0 +1,104 @@
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D in Computer and Information Science
+      institution: University of Pennsylvania
+      year: 2021-present
+      description:
+        - Research Interests in Natural Language Processing, Computer Vision
+        - Advised by Mark Yatskar, Chris Callison-Burch
+    - title: MSE in Computer and Information Science
+      institution: University of Pennsylvania
+      year: 2018-2020
+      description:
+        - Thesis Title "Metaphor and Entailment; Looking at Metaphors Through the Lense of Textual Entailment"
+        - Advised by Mitch Marcus
+    - title: Dual Degree in Artificial Intelligence
+      institution: University of Pennsylvania
+      year: 2015-2020
+      description:
+        - BA (Honors) in Cognitive Science, BA (Honorss) in Philosophy, BAS in Computer and Cognitive Science
+        - Minor in Mathematics
+        - Dean’s List (Aug, 2017 - May, 2020)
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Co-Founder
+      institution: aarogya.life
+      year: 2020 - 2021
+      description:
+        - Co-founded aarogya.life, an award winning health-tech social enterprise creating a medicine redistribution platform.
+    - title: Research Assistant
+      institution: General Robotics, Automation, and Sensing (GRASP) Lab, University of Pennsylvania
+      year: 2019-2020
+      description:
+        - Worked on estimating optical flow from event based cameras (supervised and unsupervised) using Spiking Neural Networks.
+        - Supervised by Prof. Kostas Daniilidis
+    - title: Research Assistant
+      institution: Kod*Lab, University of Pennsylvania
+      year: 2019
+      description:
+        - Developed a simulation for physically parameterized soft bellow-shaped robots with multiple degrees of freedom.
+        - Supervised by Prof. Daniel Koditschek
+    - title: Research Assistant
+      institution: Computer and Information Science, University of Pennsylvania
+      year: 2018
+      description:
+        - Implemented Prof. Dana Angluin’s K-reversible inference algorithm and applied it on the synthesis of Turkish morphology.
+        - Supervised by Prof. Mitch Marcus
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Instructor
+      institution: Prison Teaching Initiative, Princeton University, Southwoods Prison
+      course: Introduction to Computer Science
+      year: F22
+    - title: Instructor
+      institution: Kohelet-Yeshiva
+      course: Introduction to Python (Coding Club)
+      year: F21 - Sp22
+    - title: Teaching Assistant
+      institution: University of Pennsylvania, Computer and Information Science
+      course: CIS530 - Natural Language Processing
+      year: F22
+    - title: Teaching Assistant
+      institution: University of Pennsylvania, Computer and Information Science
+      course: CIS 700 - Interactive Fiction and Text Generation
+      year: Sp22
+    - title: Teaching Assistant
+      institution: University of Pennsylvania, Computer and Information Science
+      course: CIS 521 - Introduction to Artificial Intelligence
+      year: F021
+    - title: Teaching Assistant
+      institution: University of Pennsylvania, Computer and Information Science
+      course: MCIT 592 - Mathematical Foundations of Computer Science
+      year: Sum18-Sp19
+    - title: Teaching Assistant
+      institution: University of Pennsylvania, Computer and Information Science
+      course: CIS 262 - Automata, Computability, and Complexity
+      year: Sp018
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2020
+      items: 
+        - Penn President’s Engagement Prize
+    - year: 2019
+      items: 
+        - Faculty Appreciation Award
+
+- title: Leadership and Activities
+  type: nested_list
+  contents:
+    - title: CLunch Organizer
+      items: 
+        - Organized the Computational Linguistics Lunch (CLunch) series at the University of Pennsylvania (Jan - April, 2023)
+    - title: Alexa Taskbot Challenge
+      items: 
+        - Lead UPenn Team, which was one of the 5 finalists (Aug, 2021-May, 2022)
+    - title: Mind, Intelligence, Research, and Analysis (MIRA) Group
+      items:
+        - Graduate philosophy research and training group participant (May,

@@ -1,0 +1,26 @@
+
+          <div class="news">
+            {% if site.latest_posts != blank -%}
+            {%- assign latest_posts_size = site.posts | size -%}
+            <div class="table-responsive" {% if site.latest_posts.scrollable and latest_posts_size > 3 %}style="max-height: 60vw"{% endif %}>
+              <table class="table table-sm table-borderless">
+              {%- assign latest_posts = site.posts -%}
+              {% if site.latest_posts.limit %}
+              {% assign latest_posts_limit = site.latest_posts.limit %}
+              {% else %}
+              {% assign latest_posts_limit = latest_posts_size %}
+              {% endif %}
+              {% for item in latest_posts limit: latest_posts_limit %}
+                <tr>
+                  <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+                  <td>
+                    <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                  </td>
+                </tr>
+              {%- endfor %}
+              </table>
+            </div>
+          {%- else -%}
+            <p>No posts so far...</p>
+          {%- endif %}
+          </div>
