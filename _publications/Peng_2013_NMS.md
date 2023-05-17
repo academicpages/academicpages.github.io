@@ -6,7 +6,7 @@ excerpt: ''
 date: 2013-04-12
 venue: 'New Media & Society'
 paperurl: ''
-citation: 'Peng, T. Q., Zhang, L., Zhong, Z.-J., & Zhu, J. J. (2013). Mapping the landscape of Internet Studies: Text mining of social science journal articles 2000–2009. New Media & Society, 15(5), 644–664. https://doi.org/10.1177/1461444812462846'
+citation: 'Peng, T. Q., Zhang, L., Zhong, Z.-J., & Zhu, J. J. (2013). Mapping the landscape of Internet Studies: Text mining of social science journal articles 2000–2009. <i>New Media & Society, 15</i>(5), 644–664. https://doi.org/10.1177/1461444812462846'
 ---
 
 Abstract
