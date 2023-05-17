@@ -6,7 +6,7 @@ excerpt: ''
 date: 2013-01-01
 venue: 'IEEE Transactions on Visualization and Computer Graphics'
 paperurl: ''
-citation: 'Xu, P. P., Wu, Y. C., Wei, E. X., Peng, T. Q., Liu, S. X., Zhu, J. J. H., & Qu, H. M. (2013). Visual Analysis of Topic Competition on Social Media. IEEE Transactions on Visualization and Computer Graphics, 19, 2012-2021'
+citation: 'Xu, P. P., Wu, Y. C., Wei, E. X., Peng, T. Q., Liu, S. X., Zhu, J. J. H., & Qu, H. M. (2013). Visual Analysis of Topic Competition on Social Media. <i>IEEE Transactions on Visualization and Computer Graphics, 19</i>, 2012-2021'
 ---
 
 Abstract
