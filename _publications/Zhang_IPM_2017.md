@@ -6,7 +6,7 @@ excerpt: ''
 date: 2017-07-04
 venue: 'Information Processing & Management'
 paperurl: ''
-citation: 'Zhang, L., Zheng, L., & Peng, T. Q. (2017). Structurally embedded news consumption on mobile news applications. Information Processing & Management, 53(5), 1242–1253. https://doi.org/10.1016/j.ipm.2017.04.009'
+citation: 'Zhang, L., Zheng, L., & Peng, T. Q. (2017). Structurally embedded news consumption on mobile news applications. <i>Information Processing & Management, 53</i>(5), 1242–1253. https://doi.org/10.1016/j.ipm.2017.04.009'
 ---
 
 Abstract
