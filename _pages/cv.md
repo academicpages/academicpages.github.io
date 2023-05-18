@@ -12,16 +12,19 @@ redirect_from:
 <figure>
   <img src="/assets/images/intellectual journey.png">
 </figure>
+
 Contact
 =====
 * Email: pengtaiq AT msu.edu
 * Tel: (+1) 517.355.0221
 * Address: 404 Wilson Road, Room 473, Department of Communication, Michigan State University, East Lansing, Michigan 48824-1212, United States of America
+
 Education
 ======
 * B.A. in Management, Institute of International Relations, Beijing, China, 1997-2001
 * M.A. in Communication, Jinan University, Guangzhou, China, 2002-2005
 * Ph.D in Communication, City University of Hong Kong, Hong Kong, 2005-2008
+
 Work Experience
 ======
 * July 2023 -
@@ -34,6 +37,7 @@ Work Experience
   * Assistant Professor, Faculty of Humanities and Arts, Macau University of Science and Technology, Macau
 * September 2008 - August 2009
   * Research Fellow, Web Mining Lab, City University of Hong Kong, Hong Kong
+
 Professional Services
 =====
 * 2022 - 
@@ -52,6 +56,7 @@ Professional Services
   * Chair, Ad hoc Best Paper Committee, Computational Methods Division, International Communication Association
 * 2016 - 2017
   * Co-founder and Inaugural Chair, Computational Methods Interest Group, International Communication Association
+
 Affiliated Positions
 =====
 * September 2017 - 	
