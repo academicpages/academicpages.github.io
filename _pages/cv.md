@@ -35,23 +35,9 @@ Work experience
   
   Nov 2019 & Aug 2022: Lecturer
   * Kathmandu University, Department of Geomatics Engineering
-  * Duties included: Teaching listed courses
+  * Duties included: Teaching, Research and Supervising students project
   
-  G-Graduate, UG- Under Graduate, D- Diploma
-    LAMP 504: Database and Geoinformation Modelling for Land Administration	(G)	2020.
-    EGPG 600: Problem Assessment Project	(G)	2021.
-    GEOM 410: Final Independent Project	(UG)	2019.
-    GEOM 310: Cadastre	(UG)	2020.
-    LAMP 203: Field Survey I	(UG)	2020.
-    GEOM 303: Engineering and Construction Survey	(UG)	2021.
-    GEOM 304: Field Surveys II	(UG)	2019.
-    ENVE 209: Engineering and Environment Survey	(UG)	2020.
-    GEOM 314: Engineering Project VI	(UG)	2021.
-    
-   * Diploma, Department of Geomatics Engineering (2017-2019)
-    EG3105GE: Survey Project Management	(D)	2019.
-    EG3102GE: Photogrammetry	(D)	2018.
-    EG2205GE: Survey Computation and Adjustment	(D)	2017.
+ 
     
 * Massive Open-Online Course (MOOC): Natural Disasters - Community Planning and Development (Udemy, Coursera).
 * Co-developing course: content expert/ developer, writer, on-screen host, supervised undergraduate/graduate students.
@@ -80,6 +66,21 @@ Talks
 Teaching
 ======
   <ul>{% for post in site.teaching %}
+   G-Graduate, UG- Under Graduate, D- Diploma
+    LAMP 504: Database and Geoinformation Modelling for Land Administration	(G)	2020.
+    EGPG 600: Problem Assessment Project	(G)	2021.
+    GEOM 410: Final Independent Project	(UG)	2019.
+    GEOM 310: Cadastre	(UG)	2020.
+    LAMP 203: Field Survey I	(UG)	2020.
+    GEOM 303: Engineering and Construction Survey	(UG)	2021.
+    GEOM 304: Field Surveys II	(UG)	2019.
+    ENVE 209: Engineering and Environment Survey	(UG)	2020.
+    GEOM 314: Engineering Project VI	(UG)	2021.
+    
+   * Diploma, Department of Geomatics Engineering (2017-2019)
+    EG3105GE: Survey Project Management	(D)	2019.
+    EG3102GE: Photogrammetry	(D)	2018.
+    EG2205GE: Survey Computation and Adjustment	(D)	2017.
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
