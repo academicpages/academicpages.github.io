@@ -15,3 +15,5 @@ I am a Climate Economist based at the <a href='https://ehs.unu.edu/' target="_bl
 I hold a DPhil (PhD) from the University of Oxford in the field of Climate Econometrics and Climate Science.  As a scholar of the German Federal Ministry of Education and Research, my DPhil was supported by Evangelisches Studienwerk Villigst, while my research was supervised by Prof Fredi Otto.  I completed a postdoctoral fellowship at Princeton University's Center for Policy Research on Energy and the Environment (<a href='https://cpree.princeton.edu/people/lisa-thalheimer' target="_blank">C-PREE</a>) with Prof. Michael Oppenheimer in 2022.
 
 You can find my publication list [here](https://lisathalheimer.github.io/publications/).
+
+<a class="twitter-timeline" data-height="500" href="https://twitter.com/ClimateLisa?ref_src=twsrc%5Etfw">Tweets by ClimateLisa</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
