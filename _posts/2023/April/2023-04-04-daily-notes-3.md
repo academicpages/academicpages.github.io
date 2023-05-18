@@ -16,7 +16,9 @@ The CEO of Microsoft, Mr Satya Nadella once commented profoundly ever: the succe
 
 Such a wave indicates a revolutionary industrial era, that is, cyber intelligence will share responsibility for, or even replace human intelligence. I can't help reviewing the job at hand, whether it will be replaced by machines, and become unimportant or even be marginalized due to the world turning upside down.
 
-Against this background, I gradually perceived another shining clue, the robot. Essentially speaking, cyber intelligence is given birth and developed on behalf of realizing a humanoid machine, i.e., the robot. Artificial intelligence and the robot are two sides of a coin, so to speak.
+Against this background, I gradually perceived another shining clue, the robot. Essentially speaking, cyber intelligence is given birth and developed on behalf of realizing a humanoid machine, i.e., the robot. Artificial intelligence and the robot are two sides of a coin, so to speak, which represent the thought and the shell of the humanoid machine, respectively.
+
+The entity developed by these two aspects of technology, will definitely defeat human beings in partial or even most of fields.
 
 最近，ChatGPT的成功席卷了整个传媒界，各大报纸、网站、自媒体争相报道，一时之间让人无法分辨这到底是未来的希望还是博人眼球的炒作。
 
