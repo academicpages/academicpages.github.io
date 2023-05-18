@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify">
-Hello and welcome to my page! My name is  <a href="https://www.linkedin.com/in/getnetdemil/">Getnet Demil Jenberia</a>, and I am currently pursuing three jointmaster's degrees in Image Processing and Computer Vision from Pázmány Péter Catholic University,Universidad Autonoma de Madrid and University of Bordeaux.
+Hello and welcome to my page! My name is  <a href="https://www.linkedin.com/in/getnetdemil/">Getnet Demil Jenberia</a>, and I am currently pursuing three joint master's degrees in Image Processing and Computer Vision from Pázmány Péter Catholic University (Hungary),Universidad Autonoma de Madrid (Spain) and University of Bordeaux (France).
 
 <h2>Education</h2>
-Prior to this, I completed a Master of Science in Communication System Engineering and a Bachelor of Science in Electrical, Electronics and Communications Engineering from Bahir Dar Institute of Technology, Bahir Dar University. <a href="https://getnetdemil.github.io/cv/">Details</a>
+Prior to this, I completed a Master of Science in Communication System Engineering and a Bachelor of Science in Electrical, Electronics and Communications Engineering from Bahir Dar Institute of Technology, Bahir Dar University (Ethiopia). <a href="https://getnetdemil.github.io/cv/">Details</a>
 
 <h2>Awards and Recognition</h2>
 I have received two notable recognitions in my field. The first award was the Best 50 African Project of the Year 2019 awarded by Africa Innovation Week, and the second was the Best Bahir Dar University Project of the Year 2018. <a href="https://getnetdemil.github.io/cv/">Details</a>
@@ -23,7 +23,8 @@ In terms of my work experience, I have held several roles in the past, including
 I possess various programming languages, hardware, and network troubleshooting skills, Microsoft Office products, simulator software skills, graphics design skills, and leadership and management skills. I have experience working with programming languages such as C++, Python, and MATLAB, as well as simulator software such as Packet Tracer and VLSI. I am also proficient in graphics design software such as Adobe Photoshop and After Effects. I have also earned a Cisco Certified Network Associate (CCNA) Routing and Switching certification and am skilled in Microsoft Office products like Word, Excel, and PowerPoint. <a href="https://getnetdemil.github.io/cv/">Details</a>
 
 <h2>Projects</h2>
-I have worked on a number of academic and personal projects, including the Design and Implementation of a Smart Microscope for Automatic Protozoan Disease Detection and Diagnosis Using Python Programming Language, the Design of a Smart Microscope for Amoeba Disease Detection Using MATLAB Programming Language, and VLSI Design for Electrical Equipment's. I have also worked on the Computer Network Design for a Company with Many Branch Offices and the Design of PCB (Printed Circuit Board) for a Mobile Charger Using Eagle Software. Additionally, I worked on the Bahir Dar University Student Online Grading System Using C++ Language. <a href="https://getnetdemil.github.io/cv/">Details</a>
+I have worked on a number of academic and personal projects, including Measurements on recognition of object to grasp with a robot arm on a hybrid system, Performance Analysis of 60-120 GHz mmWave Ranges Radio Over Fiber with Multi Input Multi Output Architecture
+, the Design and Implementation of a Smart Microscope for Automatic Protozoan Disease Detection and Diagnosis Using Python Programming Language, the Design of a Smart Microscope for Amoeba Disease Detection Using MATLAB Programming Language, and VLSI Design for Electrical Equipment's. I have also worked on the Computer Network Design for a Company with Many Branch Offices and the Design of PCB (Printed Circuit Board) for a Mobile Charger Using Eagle Software. Additionally, I worked on the Bahir Dar University Student Online Grading System Using C++ Language. <a href="https://getnetdemil.github.io/cv/">Details</a>
 
 <h2>Certifications</h2>
 I have earned several certifications, including the CCNA I and II certifications, American Space Badges, and the YALI Entrepreneurship and Business Course Certificates. <a href="https://getnetdemil.github.io/cv/">Details</a>
