@@ -6,9 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
+My Intellectual Journey since 1997
+=====
 <figure>
   <img src="/assets/images/intellectual journey.png">
 </figure>
