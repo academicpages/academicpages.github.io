@@ -1,7 +1,8 @@
 ---
 title: "Spatial Estimation of Soil Erosion Using RUSLE Modeling: A case study of Dolakha District, Nepal"
 collection: publications
-permalink: /publication/2020-07-18-Spatial Estimation of Soil Erosion Using RUSLE Modeling: A case study of Dolakha District, Nepal
+permalink: /publication/2020-07-18-paper-title-number-1
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2020-07-18
 venue: 'Environmental Systems Research'
 paperurl: '(https://link.springer.com/article/10.1186/s40068-020-00177-2)'
