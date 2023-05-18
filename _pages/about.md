@@ -7,16 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KYEZDYZWHN"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-KYEZDYZWHN');
-</script>
-
 Welcome to Pengyu Cheng's homepage!
 
 I am currently a senior researcher at Tencent AI Lab, primely working on dialogue systems and controllable text generation. I also have a broad interest in probabilistic machine learning methods.
