@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* [Universidad Autonoma de Madrid](https://www.uam.es/uam/inicio)
+* [Universidad Autonoma de Madrid, Spain](https://www.uam.es/uam/inicio)
   * Master's degree, Image Processing and Computer Vision 
   * 2022 - 2024
 
-* [Pázmány Péter Catholic University - Faculty of Information Technology and Bionics](https://ppke.hu/en)
+* [Pázmány Péter Catholic University, Hungary](https://ppke.hu/en)
   * Master's degree, Computer Science and Engineering Specialization in Image Processing and Computer Vision 
   * 2022 - 2024
 
@@ -23,11 +23,11 @@ Education
   * International Certification Program, ALX Financial Analyst programme 
   * 2022 - 2023
 
-* [Bahir Dar Institute of Technology](https://bit.bdu.edu.et/), [Bahir Dar University](https://www.bdu.edu.et/)
+* [Bahir Dar Institute of Technology](https://bit.bdu.edu.et/), [Bahir Dar University, Ethiopia](https://www.bdu.edu.et/)
   * Master of Science - MS, Communication System Engineering · 
   * 2020 - 2022
 
-* [Bahir Dar Institute of Technology](https://bit.bdu.edu.et/), [Bahir Dar University](https://www.bdu.edu.et/)
+* [Bahir Dar Institute of Technology](https://bit.bdu.edu.et/), [Bahir Dar University, Ethiopia](https://www.bdu.edu.et/)
   * Bachelor of Science - BS, Electrical, Electronics and Communications Engineering 
   * 2013 - 2018
 
