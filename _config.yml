@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pawan Thapa"
   avatar           : "picture.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "Tuscaloosa, Alabama"
   student          : "PhD"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
