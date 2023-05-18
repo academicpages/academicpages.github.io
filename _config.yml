@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+theme                    : minima
 locale                   : "en-US"
 title                    : "Puqian Wang"
 title_separator          : "-"
