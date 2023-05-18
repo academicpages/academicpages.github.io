@@ -15,6 +15,10 @@ Contact
 * Tel: (+1) 517.355.0221
 * Address: 404 Wilson Road, Room 473, Department of Communication, Michigan State University, East Lansing, Michigan 48824-1212, United States of America
 
+<figure>
+  <img src="/assets/images/intellectual journey.png">
+</figure>
+
 Education
 ======
 * B.A. in Management, Institute of International Relations, Beijing, China, 1997-2001
