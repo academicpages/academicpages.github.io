@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div style="text-align: justify">
-Hello and welcome to my page! My name is  <a href="https://www.linkedin.com/in/getnetdemil/">Getnet Demil Jenberia</a>, and I am currently pursuing three joint master's degrees in Image Processing and Computer Vision from Pázmány Péter Catholic University (Hungary),Universidad Autonoma de Madrid (Spain) and University of Bordeaux (France).
+Hello and welcome to my page! My name is  <a href="https://www.linkedin.com/in/getnetdemil/">Getnet Demil Jenberia</a>, and I am currently pursuing three joint master's degrees in Image Processing and Computer Vision from Pázmány Péter Catholic University (Hungary), Universidad Autonoma de Madrid (Spain) and University of Bordeaux (France).
 
 <h2>Education</h2>
 Prior to this, I completed a Master of Science in Communication System Engineering and a Bachelor of Science in Electrical, Electronics and Communications Engineering from Bahir Dar Institute of Technology, Bahir Dar University (Ethiopia). <a href="https://getnetdemil.github.io/cv/">Details</a>
