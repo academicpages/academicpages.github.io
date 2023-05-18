@@ -15,6 +15,7 @@ Software development
 
 Research
 ======
+* Hit think, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.05-present
 * Rob, 2023.04-present
 * FracMem, LDM, SL, SC, RST, MR, 2023.03-present
 * Tomo, supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.10-present

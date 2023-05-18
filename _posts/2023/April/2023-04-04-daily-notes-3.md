@@ -8,11 +8,21 @@ tags:
   - Project
 ---
 
+Recently, the success of ChatGPT has swept the whole media world. Major newspapers, websites, and we-media rushed to report it, and it's impossible to tell whether this is the hope or the hype for a moment.
+
+Anyway, the success of ChatGPT in searching, integrating information, and chatting with people is undeniable. As a wise man said, the interaction and communication abilities of ChatGPT, despite whether the provided information is correct or not, are comparable to a human's raconteur.
+
+The CEO of Microsoft, Mr Satya Nadella once commented profoundly ever: the success of ChatGPT originates from the behind NLP (Natural Language Processing) model and further reflects a persistent pursuit of human beings for hundreds of years, i.e., the process of abstracting, modeling, and systemizing existing human knowledge.
+
+Such a wave indicates a revolutionary industrial era, that is, cyber intelligence will share responsibility for, or even replace human intelligence. I can't help reviewing the job at hand, whether it will be replaced by machines, and become unimportant or even be marginalized due to the world turning upside down.
+
+Against this background, I gradually perceived another shining clue, the robot. Essentially speaking, cyber intelligence is given birth and developed on behalf of realizing a humanoid machine, i.e., the robot. Artificial intelligence and the robot are two sides of a coin, so to speak.
+
 最近，ChatGPT的成功席卷了整个传媒界，各大报纸、网站、自媒体争相报道，一时之间让人无法分辨这到底是未来的希望还是博人眼球的炒作。
 
-不管怎样，ChatGPT在搜索信息以及与人聊天等方面的成功不可否认，曾有一位贤者曾说过，ChatGPT的互动能力（暂且不管信息对错与否）堪比人类的侃爷。
+不管怎样，ChatGPT在搜索、整合信息以及与人聊天等方面的成功不可否认，曾有一位智者曾说过，ChatGPT的互动与交流能力（暂且不管信息对错与否）堪比人类的侃爷。
 
-Microsoft的CEO, Satya Nadella先生曾对于此做出深刻的描述，ChatGPT的成功来源于背后的自然语言模型NLP，更进一步地说是体现了人类数百年来的一个执着的追求，即将现有的人类知识体系化、模型化、以及抽象化的过程。
+Microsoft的CEO, Satya Nadella先生曾对于此做出深刻的描述，ChatGPT的成功来源于背后的自然语言模型NLP，更进一步地说是体现了人类数百年来的一个执着的追求，即将现有的人类知识抽象化、模型化、以及体系化的过程。
 
 这样的浪潮预示着一个革命性的工业时代的到来，赛博智能即将分担甚至取代人类智能。我不禁反观自己手头的工作，是否有可能被机械所代替，又或者因为世界发生天翻地覆的变化而变得不再重要，甚至边缘化。
 
