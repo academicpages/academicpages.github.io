@@ -18,7 +18,26 @@ Such a wave indicates a revolutionary industrial era, that is, cyber intelligenc
 
 Against this background, I gradually perceived another shining clue, the robot. Essentially speaking, cyber intelligence is given birth and developed on behalf of realizing a humanoid machine, i.e., the robot. Artificial intelligence and the robot are two sides of a coin, so to speak, which represent the thought and the shell of the humanoid machine, respectively.
 
-The entity developed by these two aspects of technology, will definitely defeat human beings in partial or even most of fields.
+The entity developed by these two aspects of technology will definitely defeat human beings in partial or even most of the fields.
+
+According to the inevitable law of industrial development, wo can foresee that, in the future, most jobs in factories would be replaced by robots.
+
+Since the science of mechanics is essientially rooted in human's passion for changing their fate, it is significantly affected or even determined by politcs, industry, and ecolomy. 
+
+So, what can we mechanics researchers do to realize a highly-automized factory and liberate human beings from heavy work？
+
+As for AI, it seems that the science of mechanics can only provide a testing ground for approximating functions. On the other hand, in terms of the shell of robots, mechanics will construct the fundamental framework of realizing the complex motions. Whereas, the research of robotics in the field of mechanics hasn't reached the level of "paying attention" for now.
+
+The so-called automatization, in practice, is the process of replacing human workers with electric machines. The most terrible part is that the replaced individuals normally lose their jobs and become unemployed. If this process proceeds slowly, the unemployed individuals caused by the development of techniques take a small percentage, and our society is capable of diagnosing and controlling.
+
+If this process is very violent, numerous unemployed occur and the stability of society would encounter enormous challenges.
+
+Unfortunately, the novel industrial revolution points to the latter consequence. We have to think and plan in advance, so as to reply to the challenges of booming unemployed effectively.
+
+Immersed in such a industrial wave, the insight of the sage Weinar is as reverberate as a thunder, 
+
+ the name of a few reverberate like thunder
+
 
 最近，ChatGPT的成功席卷了整个传媒界，各大报纸、网站、自媒体争相报道，一时之间让人无法分辨这到底是未来的希望还是博人眼球的炒作。
 
