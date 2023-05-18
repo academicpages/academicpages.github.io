@@ -12,7 +12,6 @@ redirect_from:
 <figure>
   <img src="/assets/images/intellectual journey.png">
 </figure>
-
 Contact
 =====
 * Email: pengtaiq AT msu.edu
