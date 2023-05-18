@@ -14,13 +14,7 @@ My Intellectual Journey since 1997
   <img src="/assets/images/intellectual journey.png">
 </figure>
 
-Contact
-=====
-* Email: pengtaiq AT msu.edu
-* Tel: (+1) 517.355.0221
-* Address: 404 Wilson Road, Room 473, Department of Communication, Michigan State University, East Lansing, Michigan 48824-1212, United States of America
-
-Education
+Education Background
 ======
 * B.A. in Management, Institute of International Relations, Beijing, China, 1997-2001
 * M.A. in Communication, Jinan University, Guangzhou, China, 2002-2005
