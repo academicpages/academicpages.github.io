@@ -15,7 +15,7 @@ Projects: ECG-Based Arrhythmia Detection
 
 * **10/2020 - 09/2021 · 1 yr**<br />
 **Research Intern - Medical Imaging Department, Vingroup Big Data Institute**<br />
-Projects: MRI-Based Brain Tumor Detection, Anomaly Detection in Chest Radiographs
+Projects: MRI-Based Brain Tumor Detection, Abnormality Detection on Chest Radiographs
 
 * **01/2020 - 09/2020 · 9 mos**<br />
 **Fresher - Artificial Intelligence Solution for Industrial Applications Research Lab, HCMUS**<br />
