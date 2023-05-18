@@ -1,31 +1,31 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Diploma course"
+permalink: /teaching/2017-spring-teaching-1
+venue: "Nepal Banepa Polytechnic Institute, Department of Geomatics Engineering"
+date: 2017-2018
+location: "Banepa, Nepal"
 ---
 
 ---
-title: "Teaching experience 1"
+title: "Teaching experience 2"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Diploma course"
+permalink: /teaching/2018-fall-teaching-2
+venue: "Nepal Banepa Polytechnic Institute, Department of Geomatics Engineering"
+date: 2018
+location: "Banepa, Country"
 ---
 This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
 ---
-title: "Teaching experience 1"
+title: "Teaching experience 2"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+type: "Diploma course"
+permalink: /teaching/2018-fall-teaching-2
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
