@@ -12,7 +12,6 @@ Computational thinking and methods have been widely discussed and adopted by soc
 * The second module focuses on the conceptualization and modeling of three types of data preeminent in CSS research: text, time, and structure. 
 * The third module concentrates on the application of computational methods in some prominent research domains, such as health communication, political communication, and user analytics. 
 
-Textbook
-=====
+## Textbook
 Salganik, M. J. (2018). [Bit by bit: Social research in the digital age](https://www.bitbybitbook.com/en/1st-ed/preface/). Princeton, NJ: Princeton University Press. 
 
