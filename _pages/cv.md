@@ -44,6 +44,17 @@ Work experience
  
 Skills
 ======
+* Received Graduate Research Funding for Summer, May 16 to Aug 15, 2023, from NASA project (GR29315 & GR29415).
+* Received Graduate award for AAG Annual Meeting, 2023, Conference and Research Funding: Approved ($500) and College grad travel for Spring 2023 ($150).
+* International Federation of Surveyors Awarded for the 6th FIG Young Surveyors Conference and 2021 FIG Working Week. 
+* Centre for International Migration and Development Awarded for Returning Expert Jun 2020-Jun 2022
+* DAAD Graduation Support 2017 Awarded for Dissertation entitled: “Vulnerability Assessment of Indigenous Communities to Climate Change in Nepal.” 
+* Erasmus Exchange Student Memberships References awarded by the University of Twente, 2016 International Training Center, Enschede, Netherlands.
+* Government of Nepal Award by the Land Management Training Center for Bachelor of Engineering, 2012.
+* Community Scholarship Awarded by the community of Bakhundole, Dhulikhel, for Bachelor Study 2009.
+
+Skills
+======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -66,24 +77,15 @@ Talks
 Teaching
 ======
   <ul>{% for post in site.teaching %}
-   G-Graduate, UG- Under Graduate, D- Diploma
-    LAMP 504: Database and Geoinformation Modelling for Land Administration	(G)	2020.
-    EGPG 600: Problem Assessment Project	(G)	2021.
-    GEOM 410: Final Independent Project	(UG)	2019.
-    GEOM 310: Cadastre	(UG)	2020.
-    LAMP 203: Field Survey I	(UG)	2020.
-    GEOM 303: Engineering and Construction Survey	(UG)	2021.
-    GEOM 304: Field Surveys II	(UG)	2019.
-    ENVE 209: Engineering and Environment Survey	(UG)	2020.
-    GEOM 314: Engineering Project VI	(UG)	2021.
-    
-   * Diploma, Department of Geomatics Engineering (2017-2019)
-    EG3105GE: Survey Project Management	(D)	2019.
-    EG3102GE: Photogrammetry	(D)	2018.
-    EG2205GE: Survey Computation and Adjustment	(D)	2017.
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Membership
 ======
-* Currently signed in to 43 different slack teams
+* Developing Regional Member and Specialty Group of American Associations of Geographers (AAG), Dec 1, 2022.
+* Member of the Diversity, Equity, and Inclusion (DEI) Committee, 2022
+* Affiliated Member of Alabama Water Institute, 2022
+* General Member of American Geophysical Union (AGU).
+* General Member of the European Geosciences Union (EGU).
+* Lifetime member of the Nepal Engineers Association (NEA), Oct 2013. 
+
