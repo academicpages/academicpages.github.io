@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm an Economics PhD student at Binghamton university with a profound interest in behavioral economics and game theory. I specialize in using and developing agent-based simulations, which can be used to better understand a wide array of complex adaptive systems.
+I'm an Economics PhD student at Binghamton university with a profound interest in understanding learning, governance, and coordination behaviors. I specialize in developing agent-based simulations have experience brining them to data.
