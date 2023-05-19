@@ -24,8 +24,11 @@ Work experience
   - Archive and processing field and drone data
   - Develop and test algorithms and software tools to processing remote sensing and field data
   - Assist to prepare and write research reports and manuscripts
- * Projects: NASA project  GR29315  “Water Quality and Storage Monitoring Services for the Great Lakes Region of Eastern and Southern Africa by Integrating Multi-sensor Satellite Observations, Machine-learning Models and Cloud Computing Platform, May 16- Jul 15, 2023
-             NASA project GR29415 “River Flow Velocity, Discharge, and Channel Morphologic Data Acquisition and SWOT-enabled Sedimentation Investigation in the                  Mobile River Basin in USA and the Gandaki River Basin in Nepal, Jul 16-Aug 15, 2023
+  
+ * Projects: NASA project  GR29315  “Water Quality and Storage Monitoring Services for the Great Lakes Region of Eastern and Southern Africa by Integrating Multi-      sensor Satellite Observations, Machine-learning Models and Cloud Computing Platform, May 16- Jul 15, 2023
+   
+   NASA project GR29415 “River Flow Velocity, Discharge, and Channel Morphologic Data Acquisition and SWOT-enabled Sedimentation Investigation in the                  
+   Mobile River Basin in USA and the Gandaki River Basin in Nepal, Jul 16-Aug 15, 2023
   Supervisor: Professor Hongxing Liu, Associate Professor Yeuhan Lu
 
 * Fall 2022 & Spring 2023: Graduate Teaching Assistant
@@ -37,12 +40,32 @@ Work experience
   * Kathmandu University, Department of Geomatics Engineering
   * Duties included: Teaching, Research and Supervising students project
   
+  Jun 2018 - Nov 2019:  Adjunct Faculty 	 	
+ * Madan Ashrit Memorial Technical School,Department of Geomatics Engineering
+ * Duties included: Teaching
  
-    
-* Massive Open-Online Course (MOOC): Natural Disasters - Community Planning and Development (Udemy, Coursera).
-* Co-developing course: content expert/ developer, writer, on-screen host, supervised undergraduate/graduate students.
+  Jun 2018 – Nov 2019: Head of Department 	 
+  * Nepal Banepa Polytechnic Institute, Banepa, Nepal,Department of Geomatics Engineering	
+  
+  Apr 2019 – Sept 2019: Visiting Faculty 	
+ * Department of Geomatics Engineering	 Land Management Training Center, Dhulikhel, Nepal 	 
+
+  Mar 2018 –  Jun 2018: Researcher	  
+ * Department of Forest Research and   Survey	 Forest Research and Survey (in collaboration with Hariyo ban), Babarmahal, Kathmandu, Nepal  	  
+
+ Jan 2018 – Mar 2018: Geoinformatics Expert	
+ * Department of Geoinformation Technologies	 Integrated Management Engineering and Consultancy, Kathmandu, Nepal
+	   
+ Apr 2017 –  Dec 2018: Trainee	Department of Urban and Regional Planning and Geo-information Management	
+ * International Training Center, Enschede, The Netherlands	 
  
-Skills
+ May 2016 – Oct 2016: Surveyor and Geographic Information System Expert	
+ * Department of Surveying and Geographic Information System	 Luminati Support Group for Shelter, Lalitpur, Nepal	 
+
+Feb 2014 - Mar 2015: Internship	
+* Department of Land Information System and Archive	 Survey Department, Kathmandu Nepal	 
+
+Awards
 ======
 * Received Graduate Research Funding for Summer, May 16 to Aug 15, 2023, from NASA project (GR29315 & GR29415).
 * Received Graduate award for AAG Annual Meeting, 2023, Conference and Research Funding: Approved ($500) and College grad travel for Spring 2023 ($150).
