@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm an Economics PhD student at Binghamton university with a profound interest in understanding learning, governance, and coordination behaviors. I specialize in developing agent-based simulations have experience bringing them to data.
+I'm an Economics PhD student at Binghamton university with a profound interest in understanding learning, governance, and coordination behaviors. I specialize in developing agent-based simulations and have ample experience bringing them to data.
