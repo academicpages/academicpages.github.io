@@ -78,10 +78,10 @@ Awards
 
 Skills
 ======
-* Software	            ArcGIS Pro, Python, JavaScript
-* Licenses                  Small Unmanned Aircraft Systems, Driving, Vessel
-* Instruments               Drones, HYCAT, ASD, YSI, DGPS 
-* Teaching		    Cadastre, Engineering Survey & Construction, GY 101 labs
+* Software:	            ArcGIS Pro, Python, JavaScript
+* Licenses:                 Small Unmanned Aircraft Systems, Driving, Vessel
+* Instruments:               Drones, HYCAT, ASD, YSI, DGPS 
+* Teaching:		    Cadastre, Engineering Survey & Construction, GY 101 labs
 
 
 Publications
