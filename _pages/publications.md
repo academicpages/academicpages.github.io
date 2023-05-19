@@ -3,13 +3,15 @@ title: "Selected Publications[[All](https://scholar.google.com/citations?user=dD
 permalink: /publications/
 author_profile: true
 ---
-**Tech reports**    
- * <b> Comprehensive evaluation of a deep learning model for automatic organs at risk segmentation on heterogeneous computed tomography images for abdominal radiotherapy</b> <br> 
-  Wenjun Liao, <b>Xiangde Luo</b>, Yuan He, Ye Dong, Churong Li, Kang Li, Shichuan Zhang, Shaoting Zhang, Guotai Wang, Jianghong Xiao <br> 
-  <i>Submitted to **International Journal of Radiation Oncology Biology Physics** (Under Major Revision.) <br>
-  [[paper](https://luoxd1996.github.io/)][[code](https://luoxd1996.github.io/)]
-    
+<!-- **Tech reports**    
+
+     -->
 **Journals**
+  * <b> Comprehensive evaluation of a deep learning model for automatic organs at risk segmentation on heterogeneous computed tomography images for abdominal radiotherapy</b> <br> 
+  Wenjun Liao, <b>Xiangde Luo</b>, Yuan He, Ye Dong, Churong Li, Kang Li, Shichuan Zhang, Shaoting Zhang, Guotai Wang, Jianghong Xiao <br> 
+  <i>Accepted to **International Journal of Radiation Oncology Biology Physics** (2022 IF 8.01) <br>
+  [[paper](https://luoxd1996.github.io/)][[code](https://github.com/Luoxd1996/AbsegNet)]
+  
   * <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b> <br> 
   <b>Zhongyu Li, Chaoqun Li, Xiangde Luo</b>, Yitian Zhou, Jihua Zhu, Cunbao Xu, Meng Yang, Yenan Wu, Yifeng Chen <br> 
   <b>Accepted to **IEEE Transaction on Medical Imaging** (the first three authors contributed equally.)</b>.<br>
