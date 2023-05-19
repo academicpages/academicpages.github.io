@@ -15,3 +15,19 @@ Computational thinking and methods have been widely discussed and adopted by soc
 ## Textbook
 Salganik, M. J. (2018). [Bit by bit: Social research in the digital age](https://www.bitbybitbook.com/en/1st-ed/preface/). Princeton, NJ: Princeton University Press. 
 
+## Weekly Topics
+* Computational social science: A buzzword or something else?
+* Big Data = Quality Data?
+* Do we need to sing old songs? Research Design in CSS
+* Correlation, Causation and/or Prediction
+* Data, Algorithms, and Society
+* Language on social media (I)
+* Language on social media (II)
+* What does time mean in (computational) social science?
+* Individuals and structures
+
+
+
+
+
+
