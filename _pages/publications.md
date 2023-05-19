@@ -9,7 +9,7 @@ author_profile: true
 **Journals**
   * <b> Comprehensive evaluation of a deep learning model for automatic organs at risk segmentation on heterogeneous computed tomography images for abdominal radiotherapy</b> <br> 
   Wenjun Liao, <b>Xiangde Luo</b>, Yuan He, Ye Dong, Churong Li, Kang Li, Shichuan Zhang, Shaoting Zhang, Guotai Wang, Jianghong Xiao <br> 
-  <b>Accept to International Journal of Radiation Oncology Biology Physics (2022 IF 8.01) </b>.<br>
+  <b>Accept to International Journal of Radiation Oncology Biology Physics (2022 IF 8.01) </b><br>
   [[paper](https://luoxd1996.github.io/)][[code](https://github.com/Luoxd1996/AbsegNet)]
   
   * <b>Towards Multi-Center Cross Tissues Histopathological Cell Segmentation via Target-Specific Finetuning</b> <br> 
