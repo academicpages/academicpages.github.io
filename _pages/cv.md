@@ -27,9 +27,9 @@ Work experience
   
  * Projects: NASA project  GR29315  “Water Quality and Storage Monitoring Services for the Great Lakes Region of Eastern and Southern Africa by Integrating Multi-      sensor Satellite Observations, Machine-learning Models and Cloud Computing Platform, May 16- Jul 15, 2023
    
-   NASA project GR29415 “River Flow Velocity, Discharge, and Channel Morphologic Data Acquisition and SWOT-enabled Sedimentation Investigation in the                  
-   Mobile River Basin in USA and the Gandaki River Basin in Nepal, Jul 16-Aug 15, 2023
-  Supervisor: Professor Hongxing Liu, Associate Professor Yeuhan Lu
+   NASA project GR29415 “River Flow Velocity, Discharge, and Channel Morphologic Data Acquisition and SWOT-enabled Sedimentation Investigation in the                  Mobile River Basin in USA and the Gandaki River Basin in Nepal, Jul 16-Aug 15, 2023
+  
+  - Supervisor: Professor Hongxing Liu, Associate Professor Yeuhan Lu
 
 * Fall 2022 & Spring 2023: Graduate Teaching Assistant
   * University of Alabama
@@ -38,11 +38,11 @@ Work experience
   
   Nov 2019 & Aug 2022: Lecturer
   * Kathmandu University, Department of Geomatics Engineering
-  * Duties included: Teaching, Research and Supervising students project
+  Duties included: Teaching, Research and Supervising students project
   
   Jun 2018 - Nov 2019:  Adjunct Faculty 	 	
  * Madan Ashrit Memorial Technical School,Department of Geomatics Engineering
- * Duties included: Teaching
+ Duties included: Teaching
  
   Jun 2018 – Nov 2019: Head of Department 	 
   * Nepal Banepa Polytechnic Institute, Banepa, Nepal,Department of Geomatics Engineering	
