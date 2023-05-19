@@ -78,12 +78,11 @@ Awards
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software	            ArcGIS Pro, Python, JavaScript
+* Licenses                  Small Unmanned Aircraft Systems, Driving, Vessel
+* Instruments               Drones, HYCAT, ASD, YSI, DGPS 
+* Teaching		    Cadastre, Engineering Survey & Construction, GY 101 labs
+
 
 Publications
 ======
