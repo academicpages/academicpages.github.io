@@ -33,7 +33,9 @@ I am interested in designing mechanisms for identifying patterns and novelties i
 > <span style="color:blue"> **I am currently applying for tenure-track faculty positions in the US and abroad. Please contact me at [ksolaima@purdue.edu](mailto:ksolaima@purdue.edu) if you are hiring this cycle.** </span>
 <br>
 <i class="fas fa-fw fa-download" aria-hidden="true"></i> 
-<!-- <b> Download my [\[CV\]](/files/pdf/kma_solaiman.pdf) [\[Research Statement\]](/files/pdf/Research_Statement.pdf) [\[Teaching Statement\]](/files/pdf/Teaching_Statement.pdf) [\[Diversity Statement\]](/files/pdf/Diversity_Statement.pdf) </b> -->
+<b> Download my [\[CV\]](/files/pdf/kma_solaiman.pdf) 
+<!-- [\[Research Statement\]](/files/pdf/Research_Statement.pdf) [\[Teaching Statement\]](/files/pdf/Teaching_Statement.pdf) [\[Diversity Statement\]](/files/pdf/Diversity_Statement.pdf) -->
+</b> 
 <!-- <br>  -->
 <!-- <i class="fas fa-fw fa-envelope" aria-hidden="true"></i> <b>Please feel free to drop me an email at [ksolaima@purdue.edu](mailto:ksolaima@purdue.edu).</b> -->
 
