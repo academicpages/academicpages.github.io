@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is somnath the leopard
+This is somnath! 
