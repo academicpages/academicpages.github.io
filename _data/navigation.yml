@@ -1,10 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "publications"
     url: /publications/
     
-  - title: "Portfolio"
+  - title: "portfolio"
     url: /portfolio/
         
+  - title: "posts"
+    url: /posts/
+    
   - title: "CV"
     url: /cv/
