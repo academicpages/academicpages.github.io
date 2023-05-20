@@ -36,15 +36,15 @@ Work Experience
 Professional Services
 =====
 * 2022 - 
-  * Associate Editor, *Journal of Communication*
+  * Associate Editor, *[Journal of Communication](https://academic.oup.com/joc/pages/Editorial_Board)*
 * 2019 - 
-  * Editorial Board Member, *Computational Communication Research*
+  * Editorial Board Member, *[Computational Communication Research](https://computationalcommunication.org/ccr/about/editorialTeam)*
 * 2019 - 
-  * Editorial Board Member, *Communication Methods and Measures*
+  * Editorial Board Member, *[Communication Methods and Measures](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=hcms20)*
 * 2018 - 
-  * Editorial Board Member, *Journal of Computer-Mediated Communication*
+  * Editorial Board Member, *[Journal of Computer-Mediated Communication](https://academic.oup.com/jcmc/pages/Editorial_Board)*
 * 2018 - 
-  * Editorial Board Member, *Journal of Broadcasting & Electronic Media*
+  * Editorial Board Member, *[Journal of Broadcasting & Electronic Media](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=hbem20)*
 * 2014 - 2018
   * Book Review Editor, *Asian Journal of Communication*
 * 2018, 2019, 2020
@@ -55,13 +55,13 @@ Professional Services
 Affiliated Positions
 =====
 * September 2017 - 	
-  * Associate Member, Center for Communication Research, City University of Hong Kong
+  * Associate Member, [Center for Communication Research](https://ccr.cityu.edu.hk/), City University of Hong Kong
 * April 2017 - December 2020	
   * Quello Research Fellow, Quello Center, Michigan State University
 * September 2016 - 	
-  * Member, Health & Risk Communication Center, Michigan State University
+  * Member, [Health & Risk Communication Center](https://hrcc.cas.msu.edu/), Michigan State University
 * September 2009 - 	
-  * Member, Web Mining Lab, City University of Hong Kong
+  * Member, [Web Mining Lab](http://weblab.com.cityu.edu.hk/), City University of Hong Kong
 * June 2014	
   * Visiting Researcher, Microsoft Research
 
