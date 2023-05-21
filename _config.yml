@@ -85,10 +85,8 @@ author:
   bio              : "Data Scientist / Immunologist in the Quake lab"
   location         : "Palo Alto, California"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=michael+swift"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=7Ywb2akAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,13 +98,11 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  spotify          :"https://open.spotify.com/artist/7h0IImuYCl29S1QwV0fpE0?si=Jed9v0AoTYaT37HPKnFC7g"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-6391-0050"
   pinterest        :
   soundcloud       : 
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   vine             :
