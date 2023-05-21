@@ -17,7 +17,7 @@ Email: zhimengj at tamu.edu. Here is my [CV](http://zhimengj0326.github.io/files
 
 <h1>News</h1>
 <div style="height:550px;overflow:auto;background:#f6f6f6;">
-  <p><span style="color:darkred;">[2023/05]</span> One on Real-Time Bidding is accepted by SIGKDD Explorations 2023.</p>
+  <p><span style="color:darkred;">[2023/05]</span> One paper on Real-Time Bidding is accepted by SIGKDD Explorations 2023.</p>
   <p><span style="color:darkred;">[2023/04]</span> Two papers on Memory Efficient Training and Graph Augmentation are accepted by ICML 2023.</p>
   <p><span style="color:darkred;">[2023/04]</span> One paper on Probabilistic Masked Attention Networks is accepted by IJCAI 2023.</p>
   <p><span style="color:darkred;">[2023/03]</span> Invited to serve as a PC member of NeurIPS 2023, and reviewer for Neurocomputing.</p>
