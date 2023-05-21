@@ -37,7 +37,7 @@ Disponível no sistema SAGRES.
 Datas das Provas
 ======
 * Primeira prova: ~~14/03/2023~~10/04/2023
-* Segunda prova:  ~~25/04/2023~~ 16/05/2023
+* Segunda prova:  ~~25/04/2023~~ 29/05/2023
 * Terceira prova: 12/06/2023
 * Prova Final : 16/06/2023
 
@@ -53,3 +53,6 @@ Listas de Exercícios
 1. Estudar e fazer os exercícios (múltiplos de 3) das seções IV e V do capítulo XIX do livro do Iezzi, volume 9
 1. Estudar e fazer os exercícios (múltiplos de 3) das seções XI e XIII capítulo VIII do livro do Iezzi, volume 10
 1. Estudar e fazer os exercícios (múltiplos de 3) da seção III do capítulo IX do livro do Iezzi, volume 10
+2. Estudar e fazer os exercícios (múltiplos de 3) da seção IV do capítulo X do livro do Iezzi, volume 10
+3. Estudar e fazer os exercícios (múltiplos de 3) da seção IV do capítulo XI do livro do Iezzi, volume 10
+4. Estudar e fazer os exercícios (múltiplos de 3) da seção II do capítulo XII do livro do Iezzi, volume 10
