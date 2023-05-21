@@ -16,7 +16,7 @@ Email: zhimengj at tamu.edu. Here is my [CV](http://zhimengj0326.github.io/files
 <br />
 
 <h1>News</h1>
-<div style="height:350px;overflow:auto;background:#f6f6f6;">
+<div style="height:550px;overflow:auto;background:#f6f6f6;">
   <p><strong>May. 2023:</strong> One on Real-Time Bidding is accepted by SIGKDD Explorations 2023.</p>
   <p><strong>Apr. 2023:</strong> Two papers on Memory Efficient Training and Graph Augmentation are accepted by ICML 2023.</p>
   <p><strong>Apr. 2023:</strong> One paper on Probabilistic Masked Attention Networks is accepted by IJCAI 2023.</p>
@@ -47,8 +47,7 @@ Email: zhimengj at tamu.edu. Here is my [CV](http://zhimengj0326.github.io/files
 
 <!-- News
 =====
-<!-- <div style="height: 150px; overflow-y: scroll;">  -->
-<!-- <div style="height:350px;overflow:auto;background:#f6f6f6;"> -->
+
 **May. 2023:** One on Real-Time Bidding is accepted by SIGKDD Explorations 2023.
 
 **Apr. 2023:** Two papers on Memory Efficient Training and Graph Augmentation are accepted by ICML 2023.
