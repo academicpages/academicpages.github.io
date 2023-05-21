@@ -17,31 +17,31 @@ Email: zhimengj at tamu.edu. Here is my [CV](http://zhimengj0326.github.io/files
 
 <h1>News</h1>
 <div style="height:550px;overflow:auto;background:#f6f6f6;">
-  <p><strong>May. 2023:</strong> One on Real-Time Bidding is accepted by SIGKDD Explorations 2023.</p>
-  <p><strong>Apr. 2023:</strong> Two papers on Memory Efficient Training and Graph Augmentation are accepted by ICML 2023.</p>
-  <p><strong>Apr. 2023:</strong> One paper on Probabilistic Masked Attention Networks is accepted by IJCAI 2023.</p>
-  <p><strong>Mar. 2023:</strong> Invited to serve as a PC member of NeurIPS 2023, and reviewer for Neurocomputing.</p>
-  <p><strong>Mar. 2023:</strong>  One US patent on <a href="https://www.freepatentsonline.com/y2023/0089895.html">bid optimization</a>, developed in collaboration with Samsung, is issued.</p>
-  <p><strong>Jan. 2023:</strong> One paper on Hierarchy-Aware Multi-Hop Question Answering is accepted by WWW 2023.</p>
-  <p><strong>Jan. 2023:</strong> One paper on Fair Graph Representations is accepted by ICLR 2023 (Spotlight).</p>
-  <p><strong>Dec. 2022:</strong> Invited to serve as a PC member of KDD 2023, ICML 2023, and IJCAI 2023.</p>
-  <p><strong>Dec. 2022:</strong> Our paper on Real-Time Bidding is accepted by AAAI 2023 AI for Web Advertising Workshop.</p>
-  <p><strong>Oct. 2022:</strong> Our demo paper BED won <a href="https://www.cikm2022.org/best-paper"><span style="color:red">Best Demo Paper Award</span></a> in CIKM 2022. [<a href="https://www.youtube.com/watch?v=0tY31_cECCA">Video</a>] [<a href="https://files.atypon.com/acm/61117c16dd998b4450dcd4910c590fa5">Talk</a>] [<a href="https://arxiv.org/abs/2202.07503">Paper</a>] [<a href="https://guanchuwang.github.io/home/CIKM%20slide.pdf">Slide</a>] [<a href="https://github.com/datamllab/BED_main">Code</a>]</p>
-  <p><strong>Oct. 2022:</strong> Thrilled to start my internship at Amazon Search (A9.com) <a href="https://amazonsearchqu.github.io/">QU team</a>.</p>
-  <p><strong>Sep. 2022:</strong> Invited to serve as a PC member of LOG 2022 and SDM 2023.</p>
-  <p><strong>Sep. 2022:</strong> Thrilled to receive Student Travel Grant Award, Computer Science and Engineering, Texas A&M University, 2022.</p>
-  <p><strong>Aug. 2022:</strong> Our real-time object detection based on MAX78000 is accepted by CIKM 2022 (demo).</p>
-  <p><strong>Jul. 2022:</strong> Our paper G-mixup won <a href="https://icml.cc/virtual/2022/awards_detail"><span style="color:red">Outstanding Paper Award</span></a> in ICML 2022.</p>
-  <p><strong>Jul. 2022:</strong> Invited to serve as a PC member of WACV 2023 and AAAI 2023.</p>
-  <p><strong>Jun. 2022:</strong> Invited talk from <a href="http://www.aitime.cn/">AI-Time</a>.</p>
-  <p><strong>May. 2022:</strong> Thrilled to start my summer internship at Visa Research, work with <a href="https://usa.visa.com/about-visa/visa-research/huiyuan-chen.html">Dr. Huiyuan Chen</a> and <a href="https://usa.visa.com/about-visa/visa-research/hao-yang.html">Dr. Hao Yang</a>.</p>
-  <p><strong>May. 2022:</strong> Our paper G-mixup is accepted by ICML 2022 (Long Presentation)!</p>
-  <p><strong>Mar. 2022:</strong> Invited to serve as a PC member of NeurIPS 2022.</p>
-  <p><strong>Feb. 2022:</strong> Our real-time object detection based on MAX78000 for edge devices has been released! [<a href="https://youtu.be/0tY31_cECCA">Video</a>] [<a href="https://arxiv.org/abs/2202.07503">Paper</a>] [<a href="https://github.com/datamllab/BED_main">Code</a>]</p>
-  <p><strong>Jan. 2022:</strong> Two papers are accepted by ICLR 2022, [<a href="https://openreview.net/forum?id=ecH2FKaARUp">Label noise</a>] and [<a href="https://openreview.net/forum?id=YigKlMJwjye">Generalized Demographic Parity</a>]!</p>
-  <p><strong>Jan. 2022:</strong> Invited to serve as a PC member of ICML 2022.</p>
-  <p><strong>Jan. 2022:</strong> Our paper on Geometric Graph Representation Learning is accepted by WWW 2022!</p>
-  <p><strong>May. 2020:</strong> Thrilled to start my summer internship at Samsung Research America Ads AI team, supervised by <a href="https://scholar.google.com/citations?user=FPcI7HkAAAAJ&hl=en">Dr. Li Li</a> and <a href="https://scholar.google.com/citations?user=ngVttWUAAAAJ&hl=en">Dr. Rui Chen</a>.</p>
+  <p><span style="color:darkred;">[2023/05]</span> One on Real-Time Bidding is accepted by SIGKDD Explorations 2023.</p>
+  <p><span style="color:darkred;">[2023/04]</span> Two papers on Memory Efficient Training and Graph Augmentation are accepted by ICML 2023.</p>
+  <p><span style="color:darkred;">[2023/04]</span> One paper on Probabilistic Masked Attention Networks is accepted by IJCAI 2023.</p>
+  <p><span style="color:darkred;">[2023/03]</span> Invited to serve as a PC member of NeurIPS 2023, and reviewer for Neurocomputing.</p>
+  <p><span style="color:darkred;">[2023/03]</span>  One US patent on <a href="https://www.freepatentsonline.com/y2023/0089895.html">bid optimization</a>, developed in collaboration with Samsung, is issued.</p>
+  <p><span style="color:darkred;">[2023/01]</span> One paper on Hierarchy-Aware Multi-Hop Question Answering is accepted by WWW 2023.</p>
+  <p><span style="color:darkred;">[2023/01]</span> One paper on Fair Graph Representations is accepted by ICLR 2023 (Spotlight).</p>
+  <p><span style="color:darkred;">[2022/12]</span> Invited to serve as a PC member of KDD 2023, ICML 2023, and IJCAI 2023.</p>
+  <p><span style="color:darkred;">[2022/12]</span> Our paper on Real-Time Bidding is accepted by AAAI 2023 AI for Web Advertising Workshop.</p>
+  <p><span style="color:darkred;">[2022/10]</span> Our demo paper BED won <a href="https://www.cikm2022.org/best-paper"><span style="color:red">Best Demo Paper Award</span></a> in CIKM 2022. [<a href="https://www.youtube.com/watch?v=0tY31_cECCA">Video</a>] [<a href="https://files.atypon.com/acm/61117c16dd998b4450dcd4910c590fa5">Talk</a>] [<a href="https://arxiv.org/abs/2202.07503">Paper</a>] [<a href="https://guanchuwang.github.io/home/CIKM%20slide.pdf">Slide</a>] [<a href="https://github.com/datamllab/BED_main">Code</a>]</p>
+  <p><span style="color:darkred;">[2022/10]</span> Thrilled to start my internship at Amazon Search (A9.com) <a href="https://amazonsearchqu.github.io/">QU team</a>.</p>
+  <p><span style="color:darkred;">[2022/09]</span> Invited to serve as a PC member of LOG 2022 and SDM 2023.</p>
+  <p><span style="color:darkred;">[2022/09]</span> Thrilled to receive Student Travel Grant Award, Computer Science and Engineering, Texas A&M University, 2022.</p>
+  <p><span style="color:darkred;">[2022/08]</span> Our real-time object detection based on MAX78000 is accepted by CIKM 2022 (demo).</p>
+  <p><span style="color:darkred;">[2022/07]</span> Our paper G-mixup won <a href="https://icml.cc/virtual/2022/awards_detail"><span style="color:red">Outstanding Paper Award</span></a> in ICML 2022.</p>
+  <p><span style="color:darkred;">[2022/07]</span> Invited to serve as a PC member of WACV 2023 and AAAI 2023.</p>
+  <p><span style="color:darkred;">[2022/06]</span> Invited talk from <a href="http://www.aitime.cn/">AI-Time</a>.</p>
+  <p><span style="color:darkred;">[2022/05]</span> Thrilled to start my summer internship at Visa Research, work with <a href="https://usa.visa.com/about-visa/visa-research/huiyuan-chen.html">Dr. Huiyuan Chen</a> and <a href="https://usa.visa.com/about-visa/visa-research/hao-yang.html">Dr. Hao Yang</a>.</p>
+  <p><span style="color:darkred;">[2022/05]</span> Our paper G-mixup is accepted by ICML 2022 (Long Presentation)!</p>
+  <p><span style="color:darkred;">[2022/03]</span> Invited to serve as a PC member of NeurIPS 2022.</p>
+  <p><span style="color:darkred;">[2022/03]</span> Our real-time object detection based on MAX78000 for edge devices has been released! [<a href="https://youtu.be/0tY31_cECCA">Video</a>] [<a href="https://arxiv.org/abs/2202.07503">Paper</a>] [<a href="https://github.com/datamllab/BED_main">Code</a>]</p>
+  <p><span style="color:darkred;">[2022/01]</span> Two papers are accepted by ICLR 2022, [<a href="https://openreview.net/forum?id=ecH2FKaARUp">Label noise</a>] and [<a href="https://openreview.net/forum?id=YigKlMJwjye">Generalized Demographic Parity</a>]!</p>
+  <p><span style="color:darkred;">[2022/09]</span> Invited to serve as a PC member of ICML 2022.</p>
+  <p><span style="color:darkred;">[2022/09]</span> Our paper on Geometric Graph Representation Learning is accepted by WWW 2022!</p>
+  <p><span style="color:darkred;">[2020/05]</span> Thrilled to start my summer internship at Samsung Research America Ads AI team, supervised by <a href="https://scholar.google.com/citations?user=FPcI7HkAAAAJ&hl=en">Dr. Li Li</a> and <a href="https://scholar.google.com/citations?user=ngVttWUAAAAJ&hl=en">Dr. Rui Chen</a>.</p>
 </div>
 
 
