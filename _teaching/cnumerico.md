@@ -37,7 +37,7 @@ Avaliação
 * **Trabalhos (Unidade II)**
 [Trabalhos 1](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/trabalhos01.md)
 [Trabalhos 2](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/trabalhos02.md)
-* **Trabalhos (Unidade III):** 
+* **Trabalhos (Unidade III):** [Trabalhos 3](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/trabalhos03.md)
 * Prova Final: 
 
 Slides das Aulas
