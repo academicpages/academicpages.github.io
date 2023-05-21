@@ -12,7 +12,7 @@ redirect_from:
 
 * My research interests lie in the broad area of trustworthy machine learning and graph data mining, particularly in fair graph learning, fairness evaluation, and reliable learning under distribution shifts.
 
-Email: zhimengj at tamu.edu. Here is my [CV](http://zhimengj0326.github.io/files/CV_ZM.pdf)
+Email: zhimengj at tamu dot edu. Here is my [CV](http://zhimengj0326.github.io/files/CV_ZM.pdf)
 <br />
 
 <h1>News</h1>
