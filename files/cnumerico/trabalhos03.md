@@ -59,7 +59,7 @@ ______________________________
 ## Trabalho 04
 
 #### Grupo: Naiara, Priscila e Aline
-Tema: Método de Adms-Bashforth
+Tema: Método de Adams-Bashforth
 
 
 ______________________________
