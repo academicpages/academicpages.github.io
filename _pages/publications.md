@@ -41,7 +41,8 @@ International Conference on Learning Representations (**ICLR Spotlight**), 2023.
 
 <b>[Adaptive Risk-Aware Bidding with Budget Constraint in Display Advertising](https://arxiv.org/pdf/2212.12533.pdf)
 </b><br><b>Zhimeng Jiang</b>, Kaixiong Zhou, Mi Zhang, Rui Chen, Xia Hu, and Soo-Hyun Choi. <br> 
-AAAI Conference on Artificial Intelligence (AAAI) @ AI for Web Advertising Workshop, 2023.
+The ACM SIGKDD Explorations Newsletter, 2023. (also presented in
+AAAI Conference on Artificial Intelligence (AAAI) @ AI for Web Advertising Workshop, 2023.)
 
 <b>[G-Mixup: Graph  Augmentation  for  Graph Classification](https://arxiv.org/abs/2202.07179)
 </b><br>Xiaotian Han, <b>Zhimeng Jiang</b>, Ninghao Liu, and Xia Hu. <br>
