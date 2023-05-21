@@ -5,8 +5,7 @@ permalink: /software/
 author_profile: false
 ---
 
-
-
+<nbsp>
 {% include base_path %}
 
 {% assign ordered_pages_s = site.software | sort:"order_number" %}
