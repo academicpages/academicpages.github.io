@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Phuc Nguyen"
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   bio              : "Undergraduate student researcher at the University of Cincinnati"
   location         : "Cincinnati, OH"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/phuc-ngoc-thien-nguyen/"
   orcid            : 
   pinterest        :
   soundcloud       :
