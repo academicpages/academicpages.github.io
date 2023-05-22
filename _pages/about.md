@@ -66,7 +66,7 @@ Publications
 			<br/>
 		<b>Habiba Farrukh</b><sup>*</sup>, Muslum Ozgur Ozmen<sup>*</sup>, Faik Kerem Ors, Z. Berkay Celik
 			<br/>
-			IEEE Security and Privacy (S&P '23)
+			IEEE Security and Privacy (S&P '23) <a href='/files/IoTCupid.pdf'>[Paper]</a>
 			<br/>
 	</li>
 </ul>
