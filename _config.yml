@@ -245,6 +245,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _gsoc
+  - scope:
+      path: ""
+      type: gsoc
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:
