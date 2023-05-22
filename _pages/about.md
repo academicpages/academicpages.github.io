@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+<!-- I'm excited by a question: is there some similiarity between artificial neural networks and biological neurons?  -->
 My research interests encompass healthcare machine learning systems and general artificial intelligence🧠🤖. I envision creating a learning system as efficient and effective as, or surpassing, human capabilities. During my PhD, I conducted extensive research on radiologists' eye-tracking, believing that incorporating the information found in a human expert's reasoning process is crucial for training neural networks.
 
 I am also fascinated by neuroscience, computer graphics, hardware circuit design, and internal combustion engines, I have yet to become an expert in these fields😢.
