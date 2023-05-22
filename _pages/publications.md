@@ -9,10 +9,11 @@ author_profile: true
 Manuscripts
 ======
 1. **Wang S.**, Ummenhofer, C.C., Murty, S.A., Nguyen, H.T., Buckley, B. Decadal Rainfall Extremes in Southeast Asia: Relative Roles of Internal Variability and External Forcings (in prep for Climate Dynamics)
-2. Oppo, D.W., Lu W., Huang K.F., ... **Wang S.** Deglacial temperature and carbonate saturation state variability in the tropical Atlantic at Antarctic Intermediate Water Depths (2023) (submitted to Paleoceanography and Paleoclimatology)
-3. **Wang S.**, Ummenhofer C.C., Oppo D.W., Murty S.A., Wagner P., Boning C.W., Biastoch A. (2023) Freshwater contributions to decadal variability of the Indonesian Throughflow (under review at Geophysical Research Letters)
-4. Zhou Y., McManus J. F., Jacobel A. W., Costa K. M., **Wang S.**, & Caraveo, B. A. (2021). Enhanced iceberg discharge in the western North Atlantic during all Heinrich events of the last glaciation. Earth and Planetary Science Letters, 564, 116910. [Reprint](https://www.sciencedirect.com/science/article/abs/pii/S0012821X21001692)
-5. Pavia F. J., **Wang S.**, Middleton J., Murray R. W., & Anderson R. F. (2021). Trace Metal Evidence for Deglacial Ventilation of the Abyssal Pacific and Southern Oceans. Paleoceanography and Paleoclimatology, 36(9), e2021PA004226. [Reprint](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021PA004226)
+2. Willis C., **Wang S.**, Walsh A., Jahns M., Halloran K., Bhatt E., (2023) Student-led mentoring system to lower barriers for graduate school applications (submitted to The Oceanography Society)
+3. Oppo, D.W., Lu W., Huang K.F., ... **Wang S.** (2023) Deglacial temperature and carbonate saturation state variability in the tropical Atlantic at Antarctic Intermediate Water Depths  (submitted to Paleoceanography and Paleoclimatology)
+4. **Wang S.**, Ummenhofer C.C., Oppo D.W., Murty S.A., Wagner P., Boning C.W., Biastoch A. (2023) Freshwater contributions to decadal variability of the Indonesian Throughflow (under review at Geophysical Research Letters)
+5. Zhou Y., McManus J. F., Jacobel A. W., Costa K. M., **Wang S.**, & Caraveo, B. A. (2021). Enhanced iceberg discharge in the western North Atlantic during all Heinrich events of the last glaciation. Earth and Planetary Science Letters, 564, 116910. [Reprint](https://www.sciencedirect.com/science/article/abs/pii/S0012821X21001692)
+6. Pavia F. J., **Wang S.**, Middleton J., Murray R. W., & Anderson R. F. (2021). Trace Metal Evidence for Deglacial Ventilation of the Abyssal Pacific and Southern Oceans. Paleoceanography and Paleoclimatology, 36(9), e2021PA004226. [Reprint](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021PA004226)
 
 
 Presentations
