@@ -236,7 +236,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _projects
   - scope:
       path: ""
       type: projects
