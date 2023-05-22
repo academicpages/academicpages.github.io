@@ -239,9 +239,9 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: projects
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
