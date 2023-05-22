@@ -6,8 +6,8 @@ collection: projects
 
 Some things about the project
 
-### [Week 0](/projects/gsoc/week-0/)
-### [Week 1](/projects/gsoc/week-1/)
-### [Week 2](/projects/gsoc/week-2/)
+### [Week 0](/gsoc/week_zero/)
+### [Week 1](/gsoc/week_one/)
+### [Week 2](/gsoc/week_two/)
 ### Week 3
 
