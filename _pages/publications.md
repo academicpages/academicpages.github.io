@@ -56,7 +56,7 @@ Working papers
 
 Tisch, Daria, [Emma Ischinsky](https://www.mpifg.de/person/114263/2721) (2023): [Top Wealth and Its Historical Origins. An Analysis of Germany’s Largest Privately Held Fortunes in 2019](https://pure.mpg.de/rest/items/item_3506276_2/component/file_3506906/content). MPIfG Discussion Paper 23/1. Köln: Max-Planck-Institut für Gesellschaftsforschung, 2023
 
-Tisch, Daria, [Manuel Schechtl](https://schechtl.github.io/) (2023): [The Gender (Tax) Gap in Parental Transfers. Evidence from administrative inheritance and gift tax data](https://osf.io/preprints/socarxiv/kfetw/). Stone Center Working Paper Series. no. 68
+Tisch, Daria, [Manuel Schechtl](https://schechtl.github.io/) (2023): [The Gender (Tax) Gap in Parental Transfers. Evidence from administrative inheritance and gift tax data](https://osf.io/preprints/socarxiv/kfetw/). Stone Center Working Paper Series. no. 68 [presentation](https://dariatisch.github.io/presentation_gender_transfer_gap/)
 
 
 Work in progress
