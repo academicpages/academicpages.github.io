@@ -187,6 +187,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  gsoc:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
