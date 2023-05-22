@@ -60,6 +60,8 @@ I do research and coding for papers in the CCF-A conference of GNN model.
 
 - The 2nd prize of the National College Student New Generation Information and Communication Technology Competition of Datang Cup
 
+- The 2nd prize of Chinese Chemistry Olympiad[[certificate]](https://staymylove.github.io/files/化学竞赛.jpg)
+
 - The 3rd prize of National Undergraduate Mathematics Competition [[certificate]](https://staymylove.github.io/files/数学全国三等奖.jpg)
 
 - The 3rd prize of physics competition of Beijing University of Posts and Telecommunications in 2021 [[certificate]](https://staymylove.github.io/files/物理竞赛.jpg)
