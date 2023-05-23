@@ -30,9 +30,7 @@ See [publications](latower.github.io/publications).
 ### EDUCATION
 
 * MSc in Artificial Intelligence, Leiden University, 2016. *Cum laude*. I did a 42 ECTS research project with the [DTAI group](https://dtai.cs.kuleuven.be) of [KU Leuven](https://www.kuleuven.be/english/), under the supervision of the developers of [ProbLog](https://dtai.cs.kuleuven.be/problog/). The title of the resulting thesis was: [*Incremental algorithms for solving stochastic constraint optimisation problems with probabilistic logic programming.*](https://theses.liacs.nl/310)
-
 * Pre-master in Computer Science (60 ECTS of Bachelor CS courses), Leiden University, 2014. GPA: 9.2/10 (A+).
-
 * BSc in Physics and Astrophysics, Amsterdam University, 2012.
 
 ### AWARDS, SCHOLARSHIPS, GRANTS
@@ -79,14 +77,15 @@ See [teaching](latower.github.io/teaching).
   - [KR 2023](https://kr.org/KR2023/)
   - [CAV 2022](http://i-cav.org/2022/)
 
+#### MISCELLANEOUS
+
+  - Member of the [Diversity Policy Feedback Group](https://www.universiteitleiden.nl/en/news/2016/08/a-diverse-team) of Leiden University (Oct 2015-Dec 2019).
+
 ### OTHER THINGS YOU MIGHT KNOW ME FROM
 
 * I am featured on [a page](https://www.universiteitleiden.nl/nieuws/2017/10/vrouwelijke-informatici-in-de-spotlights-voor-informatics-ladies-day) to promote the first Informatics Ladies Day, organised in November 2017 by [VHTO](https://www.vhto.nl/english/about-vhto/) and Leiden University, and [again in 2018](https://www.universiteitleiden.nl/nieuws/2018/09/vrouwelijke-informatici-in-de-spotlights-voor-informatics-ladies-day-2018).
-
 * I am a member of the programme committee of Leiden University’s [Studium Generale](https://www.universiteitleiden.nl/studium-generale).
-
 * In 2015 a bunch of awesome fellow students and I organised a [scientific field trip](https://www.deleidscheflesch.nl/activiteiten/reis/2015/) to Boston and New York, for study association [De Leidsche Flesch](https://www.deleidscheflesch.nl/en/).
-
 * In 2014 a different bunch of awesome fellow students and I made a very special yearbook for De Leidsche Flesch. Leiden University’s weekly newspaper [De Mare](http://mareonline.nl/) honoured our yearbook with the [yearbook-of-the-year award](http://www.mareonline.nl/archive/2014/06/18/het-jaarboek-van-hot-jaar), which consisted of free beer and life-long fame, of course. The theme? Ikea.
 
 <!---
