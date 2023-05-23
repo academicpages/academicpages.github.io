@@ -11,3 +11,8 @@ Some current projects I am involved with:
 - [The Grading Conference](https://thegradingconference.com/), June 9--10, 2023. A virtual conference by and for new and experienced practitioners of alternative grading methodologies (e.g. Standards-Based Grading, Ungrading, etc.)
 - [Data Science and Social Justice: Networks, Policy, and Education (Part II)](https://icerm.brown.edu/programs/ep-23-dssj/) Six week research program at [ICERM](http://icerm.brown.edu)
 - [Educating at the Intersection of Data Science and Social Justice](https://icerm.brown.edu/programs/ep-23-dssj/w2/), a weeklong workshop as part of the longer ICERM program.
+
+
+My work in the media:
+- [NPR: "To help new students adapt, some colleges are eliminating grades"](https://www.npr.org/2023/03/26/1164832694/to-help-new-students-adapt-some-colleges-are-eliminating-grades)
+- [Western Front: "Narrative evaluations offer an alternative for students at Fairhaven College"](https://www.westernfrontonline.com/article/2023/05/fairhaven-grading)
