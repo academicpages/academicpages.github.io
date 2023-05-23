@@ -45,5 +45,6 @@ Listas de Exercícios
 Aulas
 ======
 * [Integrais Duplas sobre Retângulos](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/calculo3/intDuplas.pdf)
-
+* [Integrais Iteradas](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/calculo3/intIteradas.pdf)
+* [Integrais Duplas sobre Regiões Genéricas](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/calculo3/intregioesgenericas.pdf)
 
