@@ -69,7 +69,7 @@ Notebooks Jupyter
 * [15/03/2023](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/MMQ.ipynb)
 * [20/03/2023](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/integracao.ipynb)
 * [03/04/2023](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/eliminacao.ipynb)
-* [03225/2023](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/trapezio.ipynb)
+* [22/05/2023](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/cnumerico/trapezio.ipynb)
 
 Arquivos jl (usados no laboratório)
 =========
