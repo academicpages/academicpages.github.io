@@ -98,7 +98,7 @@ ______________________________
 ####  Grupo: Taíde, Gabriela Jade e Viviane
 
 Tema: Estudar o seguinte método:
-$$y_{i+1} = y_i+\frac{h}{2}\Big[ f(t_i,y_i)+f\left(t_{i+1},y_i+h f(t_i,y_i)\right)\Big]$$
+$$tr y_{i+1} = y_i+\frac{h}{2}\Big[ f(t_i,y_i)+f\left(t_{i+1},y_i+h f(t_i,y_i)\right)\Big]$$
 
 
 
