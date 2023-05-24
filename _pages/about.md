@@ -35,6 +35,6 @@ Relevant Coursework
 Skills
 ======
 
-- Languages: Python, C/C++, Java, JavaScript, HTML, CSS, PHP
+- Language: Python, C/C++, Java, JavaScript, HTML, CSS, PHP
 - Scientific Packages: scikit-learn, Pytorch, Tensorflow
-- Platforms: AWS
+- Platform: AWS
