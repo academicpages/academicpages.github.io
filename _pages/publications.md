@@ -24,7 +24,7 @@ redirect_from:
 <tbody>
 <tr>
 <td width="5%">[12]</td>
-<td width="95%"><strong>Florko, K.R.N.</strong>, Shuert, C.R., Cheung, W.W.L., Ferguson, S.H., Jonsen, I.D., Rosen, D.A.S., Sumaila, U.R., Tai, T.C., Yurkowski, D.J., Auger-Méthé, M. Linking movement and dive data to prey distribution models: new insights in foraging behaviour and potential pitfalls of movement analyses. Movement Ecology. <a href="https://www.int-res.com/abstracts/meps/v679/p219-239/(https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-023-00377-2)" rel="noopener noreferrer">doi:10.1186/s40462-023-00377-2</a>.</td>
+<td width="95%"><strong>Florko, K.R.N.</strong>, Shuert, C.R., Cheung, W.W.L., Ferguson, S.H., Jonsen, I.D., Rosen, D.A.S., Sumaila, U.R., Tai, T.C., Yurkowski, D.J., Auger-Méthé, M. Linking movement and dive data to prey distribution models: new insights in foraging behaviour and potential pitfalls of movement analyses. Movement Ecology. <a href= "https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-023-00377-2" rel="noopener noreferrer">doi:10.1186/s40462-023-00377-2</a>.</td>
 </tr>
 <tr>
 <td width="5%">[11]</td>
