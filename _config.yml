@@ -39,14 +39,15 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: RachaelPhillips # jekyll-seo-tag > Owners twitter username
-author: Rachael Phillips # jekyll-seo-tag > default author
+  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
+author: DavidDarnes # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: Rachael Phillips # jekyll-seo-tag > real name
+  name: David Darnes # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://www.facebook.com/rachael.ann.phillips
-    - https://www.linkedin.com/in/rachael-phillips-data-expert
-    - https://github.com/rachaelph
+    - https://twitter.com/DavidDarnes
+    - https://www.facebook.com/daviddarnes
+    - https://www.linkedin.com/in/daviddarnes
+    - https://github.com/daviddarnes
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
@@ -92,13 +93,13 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Adventure With Rachael" # Site name or title, also used in jekyll-seo-tag
+title: "Alembic" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Description" # Site description and default description, also used in jekyll-seo-tag
-url: "https://adventurewithrachael.com" # Site url, also used in jekyll-seo-tag
+description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/rachaelph/rachaelph.github.io"
-email: "rachael.aphillips@outlook.com"
+repo: "https://github.com/daviddarnes/alembic"
+email: "me@daviddarnes.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
@@ -122,25 +123,26 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: All Things Data
+- title: Elements
   url: /elements/
-- title: Blog and Vlog
+- title: Blog
   url: /blog/
-- title: Traveling the World
+- title: Categories
   url: /categories/
-- title: Health and Wellness
+- title: Search
   url: /search/
 - title: Fork Alembic
-  url: https://github.com/rachaelph/rachaelph.github.io
+  url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
 - title: Created by David Darnes
-  url: https://adventurewithrachael.com
+  url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  LinkedIn: https://www.linkedin.com/in/rachael-phillips-data-expert/
-  GitHub: https://github.com/rachaelph
-  link: https://adventurewithrachael.com
+  Twitter: https://twitter.com/DavidDarnes
+  LinkedIn: https://www.linkedin.com/in/daviddarnes
+  GitHub: https://github.com/daviddarnes
+  link: https://darn.es
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
