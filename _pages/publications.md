@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 <h5>Please don't hesitate to get in touch (katieflorko@gmail.com) to obtain reprints of any of the following publications.</h5>
 
-<h3>Articles submitted, in review, and in press</h3>
+<h3>Articles submitted, in review, or in press</h3>
 <table class="tg">
 <tbody>
 <tr> 
