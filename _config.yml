@@ -1,287 +1,161 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# Site configuration
+# 1. Files excluded from Jekyll builds
+# 2. Installed Gems
+# 3. Gem settings
+# 4. Jekyll settings
+# 5. Collections
+# 6. Jekyll collections settings
+# 7. Site settings
+# 8. Site favicons & manifest icons
+# 9. Site navigation
 
-# Site Settings
-locale                   : "en-US"
-title                    : "Adventure With Rachael"
-theme                    : minima
-title_separator          : "-"
-name                     : &name "Rachael Phillips"
-description              : &description "Personal Description for now"
-url                      : https://rachaelph.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rachaelph/rachaelph.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
-
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
-
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
-
-# Analytics
-analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :
-
-
-# Site Author
-author:
-  name             : "Rachael Phillips"
-  avatar           : "my_profile_pic.jpeg"
-  bio              : "I haven't been everywhere, but it's on my LIST!"
-  location         : "Northern CA"
-  employer         : "Microsoft"
-  pubmed           : 
-  googlescholar    : 
-  email            :
-  researchgate     : 
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : "rachael.ann.phillips"
-  foursquare       :
-  github           : "rachaelph"
-  google_plus      :
-  keybase          :
-  instagram        : "adventurewithrachael"
-  impactstory      : 
-  lastfm           :
-  linkedin         : "rachael-phillips-data-expert"
-  orcid            : 
-  pinterest        : "rachaelphi"
-  soundcloud       :
-  stackoverflow    : 
-  steam            : "ladyarcherrp"
-  tumblr           :
-  twitter          : "Rachael_Phi"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : "rachaelphillips9486"
-  wikipedia        :
-
-
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-  - "*.pdf"
-  - "papers/*.pdf"
-  - "portfolio/papers/*.pdf"
-  - "portfolio/*.pdf"
+# 1. Files excluded from Jekyll builds
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
-  - CHANGELOG
-  - config
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - node_modules
-  - package.json
-  - Rakefile
-  - README
-  - tmp
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+- README.md
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- screenshot.png
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+- alembic-jekyll-theme.gemspec
+- .jekyll-cache
 
+# 2. Installed Gems
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
 
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
+# 3. Gem settings
+paginate: 2 # jekyll-paginate > items per page
+paginate_path: blog/page:num # jekyll-paginate > blog page
+jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
+twitter:
+  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
+author: DavidDarnes # jekyll-seo-tag > default author
+social: # jekyll-seo-tag > social overrides
+  name: David Darnes # jekyll-seo-tag > real name
+  links:  # jekyll-seo-tag > social aliases (sameAs)
+    - https://twitter.com/DavidDarnes
+    - https://www.facebook.com/daviddarnes
+    - https://www.linkedin.com/in/daviddarnes
+    - https://github.com/daviddarnes
+# markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
+# commonmark:
+  # options: ["SMART", "FOOTNOTES"]
+  # extensions: ["strikethrough", "autolink", "table"]
 
-
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-
-# Collections
-collections:
-  allthingsdata:
-    output: true
-    permalink: /:collection/:path/
-  travelingtheworld:
-    output: true
-    permalink: /:collection/:path/
-  healthandwellness:
-    output: true
-    permalink: /:collection/:path/
-  blogandvlog:
-    output: true
-    permalink: /:collection/:path/
-  books:
-    output: true
-    permalink: /:collection/:path/
-
-
-# Defaults
-defaults:
-  # _allthingsdata
-  - scope:
-      path: ""
-      type: allthingsdata
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  # _travelingtheworld
-  - scope:
-      path: ""
-      type: travelingtheworld
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  # _healthandwellness
-  - scope:
-      path: ""
-      type: healthandwellness
-    values:
-      layout: single
-      read_time: false
-      author_profile: true
-      share: true
-      comments: false
-  # _blogandvlog
-  - scope:
-      path: ""
-      type: blogandvlog
-    values:
-      layout: single
-      author_profile: true
-      share: true
-  # _books
-  - scope:
-      path: ""
-      type: books
-    values:
-      layout: single
-      author_profile: true
-      share: true
-
-# Sass/SCSS
+# 4. Jekyll settings
 sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: Europe/London # Timezone for blog posts and alike
 
-# Outputting
-permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# 5. Collections
+collections:
+  posts:
+    title: Posts # Needed for Siteleaf
+    output: true
+    description: "My thoughts and ideas" # The post list page content
+    feature_text: |
+      Welcome to the blog
+    feature_image: "https://picsum.photos/2560/600?image=866"
 
-# Plugins
-gems:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-redirect-from
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
+# 6. Jekyll collections settings
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: "/assets/default-social-image.png" # Default image for sharing
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post # Set the default layout for posts
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page # Set the default layout for pages
 
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
+lang: en-GB # Set the site language
+title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
+baseurl: ""
+repo: "https://github.com/daviddarnes/alembic"
+email: "me@daviddarnes.com"
+# disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+# date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
+# google_analytics: ""
+# google_analytics_anonymize_ip: ""
+# service_worker: false # Will turn off the service worker if set to false
+# short_name: "Al" # The web application short name, defaults to the site title
+css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
-article_archive:
-  type: liquid
-  path: /articles/
+# 8. Site favicons & manifest icons
+favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
+  16: '/assets/logos/logo@16px.png'
+  32: '/assets/logos/logo@32px.png'
+  96: '/assets/logos/logo@96px.png'
+  120: '/assets/logos/logo@120px.png'
+  144: '/assets/logos/logo@144px.png'
+  180: '/assets/logos/logo@180px.png'
+  512: '/assets/logos/logo@512px.png'
+  1024: '/assets/logos/logo@1024px.png'
 
+# 9. Site navigation
+navigation_header:
+- title: Home
+  url: /
+- title: Elements
+  url: /elements/
+- title: Blog
+  url: /blog/
+- title: Categories
+  url: /categories/
+- title: Search
+  url: /search/
+- title: Fork Alembic
+  url: https://github.com/daviddarnes/alembic
 
-# HTML Compression
-# - http://jch.penibelst.de/
-compress_html:
-  clippings: all
-  ignore:
-    envs: development
+navigation_footer:
+- title: Created by David Darnes
+  url: https://darn.es
+
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  Twitter: https://twitter.com/DavidDarnes
+  LinkedIn: https://www.linkedin.com/in/daviddarnes
+  GitHub: https://github.com/daviddarnes
+  link: https://darn.es
+  RSS: /feed.xml
+
+sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
+  Twitter: "#0d94e7"
+  facebook: "#3B5998"
+  Email: true
+
+# Load custom fonts from fonts.google.com etc
+#
+# TIP: Try to keep the number of urls as low to reduce the performance cost
+#      If multiple fonts can be requested in a single url opt for this
+fonts:
+  preconnect_urls:
+    - https://fonts.gstatic.com
+  font_urls:
+    - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap

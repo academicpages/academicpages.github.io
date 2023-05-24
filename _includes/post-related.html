@@ -1,0 +1,19 @@
+<h3>Related posts</h3>
+<ul class="list  list--posts">
+  {% for page in site.related_posts limit: 3 %}
+    {% assign has_related = true %}
+    <li class="item  item--post">
+      <article class="article  article--post  typeset">
+
+        <h4><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h4>
+        {% include post-meta.html %}
+        {{ page.excerpt | markdownify | truncatewords: 20 }}
+
+      </article>
+    </li>
+  {% endfor %}
+
+  {% if has_related != true %}
+    <p>There are no related posts</p>
+  {% endif %}
+</ul>

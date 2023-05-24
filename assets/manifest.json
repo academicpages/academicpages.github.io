@@ -1,0 +1,24 @@
+---
+permalink: "manifest.json"
+layout: null
+sitemap: false
+---
+{
+  "lang": "{{ site.lang | default: "en-US" }}",
+  "name": "{{ site.title }}",
+  "short_name": "{{ site.short_name | default: site.title | replace: ' ', '' }}",
+  "theme_color": "{{ site.manifest.theme_color | default: '#24292e' }}",
+  "background_color": "{{ site.manifest.background_color | default: '#ffffff' }}",
+  {% if site.favicons -%}
+    "icons": [
+      {% for icon in site.favicons -%}
+      {
+        "src": "{{ icon[1] | relative_url }}",
+        "sizes": "{{ icon[0] }}x{{ icon[0] }}"
+      }{% if forloop.last != true %},{% endif %}
+      {% endfor %}
+    ],
+  {% endif -%}
+  "start_url": "/",
+  "display": "standalone"
+}

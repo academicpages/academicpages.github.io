@@ -1,0 +1,25 @@
+{% for category in site.categories %}
+  {% assign category_name = category | first %}
+  <section class="section  typeset">
+    <h2 id="{{ category_name | slugify }}">{{ category_name }}</h2>
+    <ul class="list  list--posts">
+      {% for page in site.categories[category_name] %}
+        {% assign has_categories = true %}
+        <li class="item  item--post">
+          <article class="article  article--post  typeset">
+            <h3><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h3>
+            {% include post-meta.html %}
+            {{ page.excerpt | truncatewords: 60 | markdownify }}
+          </article>
+        </li>
+      {% endfor %}
+    </ul>
+    {% unless forloop.last %}<hr/>{% endunless %}
+  </section>
+{% endfor %}
+
+{% if has_categories != true %}
+  <section class="section  typeset">
+    <p>There are no categorised posts</p>
+  </section>
+{% endif %}

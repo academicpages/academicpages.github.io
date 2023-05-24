@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+{% include site-header.html %}
+
+<main class="main  container">
+
+  <article class="article  article--post  content  typeset">
+
+    <h1>{{ page.title }}</h1>
+    {% include post-meta.html %}
+    {{ content }}
+
+    {% include nav-share.html %}
+
+    {% include post-comments.html %}
+
+  </article>
+
+  {% if page.aside == true %}{% include site-aside.html %}{% endif %}
+
+</main>
+
+{% include site-footer.html %}

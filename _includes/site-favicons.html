@@ -1,0 +1,7 @@
+{% if site.favicons %}
+  {% for icon in site.favicons %}
+    <link rel="icon" type="image/png" href="{{ icon[1] | relative_url }}" sizes="{{ icon[0] }}x{{ icon[0] }}">
+    <link rel="apple-touch-icon" sizes="{{ icon[0] }}x{{ icon[0] }}" href="{{ icon[1] | relative_url }}">
+  {% endfor %}
+{% endif %}
+<link rel="shortcut icon" href="{{ site.avatarurl + '?s=32' | default: site.logo | relative_url }}">

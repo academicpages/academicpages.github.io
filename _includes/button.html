@@ -1,0 +1,1 @@
+<a class="button" href="{{ include.link | default: '#' }}"{% if include.color %} style="background: {{ include.color }}"{% endif %}>{{ include.text | default: "Button" }}{% if include.icon %}&nbsp; {% include icon.html id=include.icon title=include.icon %}{% endif %}</a>

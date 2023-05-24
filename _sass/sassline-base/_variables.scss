@@ -1,0 +1,96 @@
+// SCSS variables
+// ---------------------------------------
+
+// Note: For the following Sass maps enter values as if they would be px units.
+
+// Breakpoint sizes from px to ems. Add more values here to add more breakpoints.
+// Change names if you prefer, it wont break the mixin as long as they are strings not just numbers.
+$breakpoints: (
+  break-0: 0,     // 0px       Mobile first
+  break-1: 640,   // 640px   ~ Small tablet up
+  break-2: 800,   // 800px   ~ Large tablet up
+  break-3: 1024,  // 1024px  ~ Desktop up
+  break-4: 1600   // 1600px  ~ Large desktop up
+) !default;
+
+// Root font-sizes for each breakpoint. Set to half desired line-height of body text.
+// ! Make sure to have as many sizes as breakpoints above.
+$rootsizes: (
+  rootsize-0: 12,   // 24px line-height body text
+  rootsize-1: 14,   // 28px line-height body text
+  rootsize-2: 15,   // 30px line-height body text
+  rootsize-3: 17,   // 34px line-height body text
+  rootsize-4: 19    // 38px line-height body text
+) !default;
+
+// Set the optimum line-length for your text (based on typeface).
+// Aim for 75-100 characters a line when possible, at smaller sizes type size is more important.
+// ! Make sure to have as many widths as breakpoints above.
+// Note: this was 'maxwidths' in previous versions.
+$measures: (
+  measure-0: 500,  // 500px wide
+  measure-1: 550,  // 550px wide
+  measure-2: 600,  // 600px wide
+  measure-3: 680,  // 680px wide
+  measure-4: 750   // 750px wide
+) !default;
+
+// Set the max-widths for containers (based on design).
+// ! Make sure to have as many widths as breakpoints above.
+$maxwidths: (
+  width-0: 500,  // 500px wide
+  width-1: 600,  // 600px wide
+  width-2: 800,  // 800px wide
+  width-3: 1100, // 110px wide
+  width-4: 1300  // 1300px wide
+) !default;
+
+// Gutter widths
+$gutterwidths: (
+  small: 1rem,
+  medium: 2rem,
+  large: 4rem
+) !default;
+
+// Add typefaces here.
+// Add weight and style details too.
+// ! Set cap height to set to the baseline.
+$bodytype: (
+  font-family: 'Georgia, serif',
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.66
+) !default;
+
+$headingtype: (
+  font-family: 'Helvetica, sans-serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.66
+) !default;
+
+$monospacetype: (
+  font-family: 'Menlo, monospace',
+  regular: 400,
+  cap-height: 0.68
+) !default;
+
+// Here are some local fonts cap-height sizes to get you started:
+// Georgia: 0.66, Times / Times New Roman: 0.65, Palatino: 0.52
+// Lucida Grande: 0.72, Helvetica: 0.66, Verdana: 0.76, Tahoma: 0.76
+
+// Selection of Typekit fonts cap-height sizes:
+// Proxima Nova: 0.57, Museo Slab: 0.66, JAF Facit: 0.7, Brandon Grotesque: 0.65, Clavo: 0.7, Adelle: 0.66, FF Tisa Pro: 0.82, Jubilat: 0.66, Futura PT: 0.66, Chaparral Pro: 0.5, Minion Pro: 0.66, Myriad Pro: 0.66, Adobe Caslon Pro: 0.36
+
+// Text colours. British English.
+$headingColour: #2E2E2E !default;
+$bodyColour: #494949 !default;
+$linkColour: #0E58F5 !default;
+$hoverColour: #0B348B !default;
+$captionColour: #BDC8CC !default;
+$white: #FFFFFF !default;
+
+// Background colours.
+$backgroundColour: #FCFCFC !default;
+$codeBackgroundColour: #F5F4F2 !default;
