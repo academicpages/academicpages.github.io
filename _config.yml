@@ -7,10 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rachael Phillips"
+title                    : "Adventure With Rachael"
+theme                    : minima
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Rachael Phillips"
+description              : &description "Personal Description for now"
 url                      : https://rachaelph.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rachaelph/rachaelph.github.io"
@@ -177,79 +178,67 @@ kramdown:
 
 # Collections
 collections:
-  publications:
+  allthingsdata:
     output: true
     permalink: /:collection/:path/
-  vlogs:
+  travelingtheworld:
     output: true
     permalink: /:collection/:path/
-  presentations:
+  healthandwellness:
     output: true
     permalink: /:collection/:path/
-  blogposts:
+  blogandvlog:
     output: true
     permalink: /:collection/:path/
-  youtubevideos:
+  books:
     output: true
     permalink: /:collection/:path/
-  resume:
-    output: true
-    permalink: /:collection/:path/
-  
-  
 
 
 # Defaults
 defaults:
-  # _publications
+  # _allthingsdata
   - scope:
       path: ""
-      type: publications
+      type: allthingsdata
     values:
       layout: single
       author_profile: true
       share: true
-  # _vlogs
+  # _travelingtheworld
   - scope:
       path: ""
-      type: vlogs
+      type: travelingtheworld
     values:
       layout: single
       author_profile: true
       share: true
-  # _presentations
+  # _healthandwellness
   - scope:
       path: ""
-      type: presentations
+      type: healthandwellness
     values:
       layout: single
       read_time: false
       author_profile: true
       share: true
       comments: false
-  # _blogposts
+  # _blogandvlog
   - scope:
       path: ""
-      type: blogposts
+      type: blogandvlog
     values:
       layout: single
       author_profile: true
       share: true
-  # _youtubevideos
+  # _books
   - scope:
       path: ""
-      type: youtubevideos
+      type: books
     values:
       layout: single
       author_profile: true
       share: true
-  # _resume
-  - scope:
-      path: ""
-      type: resume
-    values:
-      layout: single
-      author_profile: true
 
 # Sass/SCSS
 sass:
