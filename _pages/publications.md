@@ -10,12 +10,12 @@ redirect_from:
 {% include base_path %}
 <h5>Please don't hesitate to get in touch (katieflorko@gmail.com) to obtain reprints of any of the following publications.</h5>
 
-<h3>Articles submitted, in review, or in press</h3>
+<h3>Articles submitted, in review, in press, etc.</h3>
 <table class="tg">
 <tbody>
 <tr> 
 <td width="5%">[12]</td>
-<td width="95%"><strong>Florko, K.R.N.</strong>, Shuert, C.R., Cheung, W.W.L., Ferguson, S.H., Jonsen, I.D., Rosen, D.A.S., Sumaila, U.R., Tai, T.C., Yurkowski, D.J., Auger-Méthé, M. Linking movement and dive data to prey distribution models: new insights in foraging behaviour and potential pitfalls of movement analyses. In review. </td>
+<td width="95%"><strong>Florko, K.R.N.</strong>, Ross, T.R., Ferguson, S.H., Northrup, J.M., Obbard, M.E., Thiemann, G.W., Yurkowski, D.J., Auger-Méthé, M. The dynamic interaction between predator and prey drives mesopredator movement and foraging ecology. bioRxiv. <a href= "https://www.biorxiv.org/content/10.1101/2023.04.27.538582v1" rel="noopener noreferrer">doi:10.1101/2023.04.27.538582</a>. </td>
 </tr>
 </tbody>
 </table>
@@ -77,7 +77,7 @@ redirect_from:
 <tbody>
  <tr>
 <td width="5%">[3]</td>
-<td width="95%"><strong>Florko, K.R.N.</strong>, Edkins T, Ferguson SH, Yurkowski DJ, Michel C. 2023. Summary of marine mammal aerial surveys in Norwegian Bay and Ellesmere Island, Nunavut in 2022. Canadian Technical Report of Fisheries and Aquatic Sciences. 3534: vii + 19 p. <a href="https://science-catalogue.canada.ca/record=4110429~S6" target="_blank" rel="noopener noreferrer">LINK</a>.</td>
+<td width="95%"><strong>Florko, K.R.N.</strong>, Edkins, T., Ferguson, S.H., Yurkowski, D.J., Michel, C. 2023. Summary of marine mammal aerial surveys in Norwegian Bay and Ellesmere Island, Nunavut in 2022. Canadian Technical Report of Fisheries and Aquatic Sciences. 3534: vii + 19 p. <a href="https://science-catalogue.canada.ca/record=4110429~S6" target="_blank" rel="noopener noreferrer">LINK</a>.</td>
 </tr>
 <tr>
 <td width="5%">[2]</td>
