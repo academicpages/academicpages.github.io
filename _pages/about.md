@@ -36,5 +36,5 @@ Education
 
 ---
 ![Seals are awesome!](/images/coverimg2.jpg "Seals")
-Ringed seals on sea ice in near Ellesmere Island, Nunavut
+Ringed seals on sea ice near Ellesmere Island, Nunavut
 
