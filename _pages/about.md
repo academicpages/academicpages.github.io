@@ -23,8 +23,8 @@ Nov, 2022.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; I gave a talk on **Graph Neura
 
 Oct, 2022.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;I start my Postdoc at **MBZUAI** (Abu Dhabi) with Dr Shangsong Liang.
 
-Oct. 2022.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Our paper entitled as *Graph neural pre-training for recommendation with side information* is accepted by ACM TOIS (CCF A).
+Oct. 2022.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;Our paper entitled as [*Graph neural pre-training for recommendation with side information*](https://dl.acm.org/doi/full/10.1145/3568953) is accepted by ACM TOIS (CCF A).
 
-Mar. 2022.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled as *An MLP-based Algorithm for Efficient Contrastive Graph Recommendations* is accepted by ACM SIGIR (CCF A).
+Mar. 2022.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled as [*An MLP-based Algorithm for Efficient Contrastive Graph Recommendations*](https://dl.acm.org/doi/abs/10.1145/3477495.3531874) is accepted by ACM SIGIR (CCF A).
 
 
