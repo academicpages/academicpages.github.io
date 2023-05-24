@@ -23,6 +23,10 @@ redirect_from:
 <table class="tg">
 <tbody>
 <tr>
+<td width="5%">[12]</td>
+<td width="95%"><strong>Florko, K.R.N.</strong>, Shuert, C.R., Cheung, W.W.L., Ferguson, S.H., Jonsen, I.D., Rosen, D.A.S., Sumaila, U.R., Tai, T.C., Yurkowski, D.J., Auger-Méthé, M. Linking movement and dive data to prey distribution models: new insights in foraging behaviour and potential pitfalls of movement analyses. Movement Ecology. <a href="https://www.int-res.com/abstracts/meps/v679/p219-239/(https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-023-00377-2)" rel="noopener noreferrer">doi:10.1186/s40462-023-00377-2</a>.</td>
+</tr>
+<tr>
 <td width="5%">[11]</td>
 <td width="95%">Kwong, L.E., Ross, T., Lüskow, F., <strong>Florko, K.R.N.</strong>, Pakhomov, E.A. 2022. Spatial, seasonal, and climatic variability in mesozooplankton size spectra along a coastal-to-open ocean transect in the subarctic Northeast Pacific. Progress in Oceanography. <a href="https://www.sciencedirect.com/science/article/pii/S0079661121002111?via%3Dihub" rel="noopener noreferrer">doi:10.1016/j.pocean.2021.102728</a>.</td>
 </tr>
@@ -71,6 +75,10 @@ redirect_from:
 <h3>Reports</h3>
 <table class="tg">
 <tbody>
+ <tr>
+<td width="5%">[3]</td>
+<td width="95%"><strong>Florko, K.R.N.</strong>, Edkins T, Ferguson SH, Yurkowski DJ, Michel C. 2023. Summary of marine mammal aerial surveys in Norwegian Bay and Ellesmere Island, Nunavut in 2022. Canadian Technical Report of Fisheries and Aquatic Sciences. 3534: vii + 19 p. <a href="https://science-catalogue.canada.ca/record=4110429~S6" target="_blank" rel="noopener noreferrer">LINK</a>.</td>
+</tr>
 <tr>
 <td width="5%">[2]</td>
   <td width="95%">Petersen, S.D., <strong>Florko, K.R.N.</strong>, Menzies, A.K., and the IPBCC Advisory Board. 2018. Management rational and options for orphan polar bear cubs in Manitoba. White paper report prepared by the Assiniboine Park Conservancy. Winnipeg, MB. 24p.
