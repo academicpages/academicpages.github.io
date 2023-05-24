@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /vlogs/
-title: "Video Logs"
+permalink: /blogandvlog/
+title: "Blog Posts and Video Logs"
 author_profile: true
 ---
 
