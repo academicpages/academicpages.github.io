@@ -16,8 +16,11 @@ Education
 
 Work experience
 ======
+* Jan 2023-Present: Postdoc researcher
+  * Mohamed bin Zayed University of Artificial Intelligence
+  * Supervisor: Dr. Shangsong Liang
 
-* Fall 2022: Research Assistant
+* Oct 2022- Jan 2023: Research Assistant
   * Mohamed bin Zayed University of Artificial Intelligence
   * Supervisor: Dr. Shangsong Liang
 
