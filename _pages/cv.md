@@ -25,7 +25,8 @@ Work experience
   * Duties included:
     * Convert Cellbox code from Tensorflow to Pytorch
   * Supervisor: Bo Yang, Dr. Augustin Luna and Dr. Chris Sander
-
+\
+\
 * **September 2022 - present: Computational Biology Student Researcher**
   * Cincinnati Children’s Hospital
   * Duties included:
@@ -34,7 +35,8 @@ Work experience
     * Implement interpretable methods (DeepLIFT and Integrated Gradients) to identify 90% accurate binding sequence motifs
     * Maintain and test Nextflow ChIP-seq and ATAC-seq pipeline with peak calling, motif enrichment, and alignment to disease risk loci using ENCODE, HOMER, and RELI, facilitating 6 research projects on neurodegenerative diseases
   * Supervisor: Dr. Matthew T. Weirauch and Dr. Emily Miraldi
-
+\
+\
 * **May - December 2022: Biomedical Informatics Student Researcher**
   * Washington University in St. Louis
   * Duties included:
@@ -43,7 +45,8 @@ Work experience
     * Performed exploratory data analysis and curation from electronic health records to extract surgical pathology data for 300 patients
     * Co-authored research paper currently under review for MICCAI 2023
   * Supervisor: Dr. Aristeidis Sotiras
-
+\
+\
 * **October 2021 - December 2022: Biomedical Imaging Undergraduate Research Assistant** 
   * Cincinnati Children's Hospital
   * Duties included:
