@@ -42,13 +42,13 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
 Education
 ======
 
-+ <img decoding="async" src="/images/polyu_logo.png" width="5%"> Ph.D student, Computing, Hong Kong Polytechnic University, 2023.01 - Now, <br>Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/), [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
++ <img decoding="async" src="/images/polyu_logo.png" width="5%"> Ph.D student, Computing, Hong Kong Polytechnic University, 2023.01 - Now, <br>Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
   
 
 + <img decoding="async" src="/images/uoe_log.png" width="5%">  MSc, Computer Science, University of Edinburgh, 2021.09 - 2022.11, <br>Advisor: [Dr. Elizabeth Polgreen](https://polgreen.github.io/)
 
 + <img decoding="async" src="/images/whu_logo.png" width="5%"> BEng, Computer Science and Technology, Wuhan University, 2016.09 - 2020.06, <br>Advisor: [Dr. Huajun Liu](http://csold.whu.edu.cn/teacherinfo.aspx?id=303)
-+ <img decoding="async" src="/images/whu_logo.png" width="5%"> BSc, Chemistry, Wuhan University, 2016.09 - 2020.06, <br>Advisor: [Dr. Chien-Wei Chiang](https://scholar.google.com/citations?user=wItc-JoAAAAJ&hl=zh-TW), [Prof. Aiwen Lei](http://aiwenlei.whu.edu.cn/lawsys/l/Aiwen_Lei/)
++ <img decoding="async" src="/images/whu_logo.png" width="5%"> BSc, Chemistry, Wuhan University, 2016.09 - 2020.06, <br>Advisor: [Dr. Chien-Wei Chiang](https://scholar.google.com/citations?user=wItc-JoAAAAJ&hl=zh-TW) and [Prof. Aiwen Lei](http://aiwenlei.whu.edu.cn/lawsys/l/Aiwen_Lei/)
 
 
 Working Experience
