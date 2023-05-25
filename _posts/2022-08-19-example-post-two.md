@@ -11,4 +11,5 @@ Date: 2022-08-19
 
 In this article I revisit a trip I went on by myself in 2019 to Zimbabwe and Botswana by myself.
 
-_Originally from [Medium Article](https://medium.com/@adventure-with-rachael/things-i-learned-about-myself-by-traveling-to-africa-alone-7b832a595ef2)_
+_Originally from 
+[Medium Article](https://medium.com/@adventure-with-rachael/things-i-learned-about-myself-by-traveling-to-africa-alone-7b832a595ef2)_
