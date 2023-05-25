@@ -14,9 +14,9 @@ Graduate students (partial list)
   [Prop-Chain: A Blockchain based Property Listing Application](https://github.com/shivba28/Final_Project)
 - Atharva Pathak: graduate project supervisor, SPR’23
   [Prop-Chain: A Blockchain based Property Listing Application](https://github.com/shivba28/Final_Project)
-- Krishna Bhatia
+- Krishna Bhatia: graduate project supervisor, SPR’23
   [aN-FTea – NFT marketplace](https://github.com/patrohan/aN-FTea)
-- Rohan Patwardhan
+- Rohan Patwardhan: graduate project supervisor, SPR’23
   [aN-FTea – NFT marketplace](https://github.com/patrohan/aN-FTea)
 - [Parva Parikh](https://www.linkedin.com/in/parva-parikh-76b0751a0): research assistant Fall'22
 - Kishore Shankar Abimanyu: research assistant Fall'22
