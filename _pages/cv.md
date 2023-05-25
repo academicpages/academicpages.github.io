@@ -52,7 +52,7 @@ Work experience
     * Composed instructions for using Linux and running experiments on GPUs on the LSF cluster for 6 peer lab members
     * Won Excellent Award for Science Communication at University of Cincinnati Research Showcase for top 25% students
     * Admitted to UltraCon 2023 by the American Institute of Ultrasound in Medicine as a co-authored oral presentation
-  * Supervisor: Dr. Aristeidis Sotiras
+  * Supervisor: Dr. Surya Prasath
 
 Skills
 ======
