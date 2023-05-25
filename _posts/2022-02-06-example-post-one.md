@@ -1,8 +1,8 @@
 ---
 title: How I Paid Off $62k of Debt in a Year
 categories:
-- General
-- External sources
+- Health and Wellness
+- Articles
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 

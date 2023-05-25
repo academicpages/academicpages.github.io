@@ -1,0 +1,14 @@
+---
+title: Things I Learned ABout Myself By Traveling To Africa Alone
+categories:
+- Traveling the World
+- Articles
+feature_text: |
+  Things I Learned ABout Myself By Traveling To Africa Alone
+---
+
+Date: 2022-08-19
+
+In this article I revisit a trip I went on by myself in 2019 to Zimbabwe and Botswana by myself.
+
+_Originally from [Medium Article](https://medium.com/@adventure-with-rachael/things-i-learned-about-myself-by-traveling-to-africa-alone-7b832a595ef2)_
