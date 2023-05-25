@@ -61,8 +61,15 @@ Skills
   * Generative Adversarial Networks
   * Semantic segmentations and disease classifications
   * Natural language processing with Large Language Models
+  * Explainable deep learning methods
 * Bioinformatics
   * High-throughput whole-genome sequencing data analysis (RNA-seq, ATAC-seq, ChIP-seq)
   * Nextflow pipeline development and deployment
   * Statistical modeling of transcription factor binding sites with machine learning
   * Data integration, visualization and presentation
+* Biomedical Engineering
+  * Biomedical signal processing
+  * Computer-aided Design (CAD) and Finite Element Analysis (FEA)
+  * FDM 3D printing
+  * Mathematical simulation, modeling, and optimization of disease transmissions
+
