@@ -58,6 +58,6 @@ Working Experience
  <br>Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
 + Research Assistant, State Key Laboratory of Computer Science ([SKLCS](http://lcs.ios.ac.cn/)), Institute of Software, Chinese Academy of Sciences, Beijing
  <br>2020.12 - 2021.05
- <br>Advisor: Dr. Zhendong Lei and [Prof. Shaowei Cai](http://lcs.ios.ac.cn/~caisw/)
+ <br>Advisor: [Dr. Zhendong Lei](https://www.tcs-lab.com/members/leizhendong/) and [Prof. Shaowei Cai](http://lcs.ios.ac.cn/~caisw/)
  
 
