@@ -131,11 +131,11 @@ navigation_header:
   url: /healthandwellness/
 - title: All Things Data
   url: /allthingsdata/
-- title: Fork Adventure with Rachael
+- title: Fork Repo
   url: https://github.com/rachaelph/rachaelph.github.io
 
 navigation_footer:
-- title: Created by Rachael Phillips
+- title: Edited by Rachael Phillips
   url: https://adventurewithrachael.com
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
