@@ -1,0 +1,13 @@
+---
+title: How I Paid Off $62k of Debt in a Year
+categories:
+- General
+- External sources
+feature_image: "https://picsum.photos/2560/600?image=872"
+---
+
+Date: 2022-02-06
+
+This medium article explains how I was able to pay off $62,000 dollars in a year and tips I have for others that want to do the same.
+
+_Originally from [Medium Article](https://adventure-with-rachael.medium.com/how-i-paid-off-62k-of-debt-in-a-year-18c47cb9dd4d)_
