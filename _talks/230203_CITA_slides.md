@@ -7,5 +7,3 @@ venue: "Cosmolunch"
 date: 2023-02-03
 location: "CITA, Canada"
 ---
-
-Slides available [here](http://martamonelli.github.io/files/23-02-03_CITA_slides.pdf).
