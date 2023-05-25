@@ -1,0 +1,13 @@
+---
+title: Real Estate Investing... What I've Learned So Far
+categories:
+- Health and Wellness
+- Articles
+feature_image: "https://picsum.photos/2560/600?image=872"
+---
+
+Date: 2022-10-14
+
+I have been a real estate investor since February of 2018 and from 2020 to 2022, I learned a lot about investing in real estate and this article explains those.
+
+_Originally from [Medium Article](https://medium.com/@adventure-with-rachael/real-estate-investing-what-ive-learned-so-far-4a8d64de1a3c)_
