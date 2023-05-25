@@ -20,13 +20,13 @@ Awards
 
 Work experience
 ======
-* May 2023 - present: Google Summer of Code student
+* **May 2023 - present: Google Summer of Code student**
   * Harvard University
   * Duties included:
     * Convert Cellbox code from Tensorflow to Pytorch
   * Supervisor: Bo Yang, Dr. Augustin Luna and Dr. Chris Sander
 
-* September 2022 - present: Computational Biology Student Researcher
+* **September 2022 - present: Computational Biology Student Researcher**
   * Cincinnati Children’s Hospital
   * Duties included:
     * Initiate extensive model benchmarking and improvement efforts as follow-up research from 10.1371/journal.pcbi.1010863
@@ -35,7 +35,7 @@ Work experience
     * Maintain and test Nextflow ChIP-seq and ATAC-seq pipeline with peak calling, motif enrichment, and alignment to disease risk loci using ENCODE, HOMER, and RELI, facilitating 6 research projects on neurodegenerative diseases
   * Supervisor: Dr. Matthew T. Weirauch and Dr. Emily Miraldi
 
-* May - December 2022: Biomedical Informatics Student Researcher
+* **May - December 2022: Biomedical Informatics Student Researcher**
   * Washington University in St. Louis
   * Duties included:
     * Utilized Slurm distributed High Performance Computing (HPC) cluster in Unix operating system, allowing scalable and efficient designs of data processing and model training pipelines
@@ -44,7 +44,7 @@ Work experience
     * Co-authored research paper currently under review for MICCAI 2023
   * Supervisor: Dr. Aristeidis Sotiras
 
-* October 2021 - December 2022: Biomedical Imaging Undergraduate Research Assistant 
+* **October 2021 - December 2022: Biomedical Imaging Undergraduate Research Assistant** 
   * Cincinnati Children's Hospital
   * Duties included:
     * Implemented generative models (Wasserstein GAN and StyleGAN) for data augmentation of 2670 liver pediatric ultrasound images, enabling generation of high quality synthetic healthy and diseased liver ultrasound datasets
