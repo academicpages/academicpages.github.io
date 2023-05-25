@@ -7,7 +7,8 @@ author_profile: true
 ## Under Review 
 1. W. Chang\*, **C. Tang**\*, C. Li, Y. Hu, M. Tomizuka, and W. Zhan, “Editing driver character: Socially-controllable behavior generation for interactive traffic simulation,” under review for *IEEE Robotics and Automation Letters (RA-L)*
 1. **C. Tang**, N. Srishankar, S. Martin and M. Tomizuka, "Grounded relational inference: Domain knowledge-driven explainable autonomous driving," under revision for *IEEE Transactions on Intelligent Transportation System (T-ITS)*
-2. C. Hao, **C. Tang**, E. Bergkvist, C. Weaver, L. Sun, W. Zhan, and M. Tomizuka, “Outracing human racers with model-based autonomous racing,” under revision for *IEEE Transactions on Intelligent Vehicles (T-IV)*
+1. C. Hao, **C. Tang**, E. Bergkvist, C. Weaver, L. Sun, W. Zhan, and M. Tomizuka, “Outracing human racers with model-based autonomous racing,” under revision for *IEEE Transactions on Intelligent Vehicles (T-IV)*
+1. C. Li\*, **C. Tang**\*, H. Nishimura, J. Mercat, M. Tomizuka, and W. Zhan, "Residual Q-Learning: Offline and Online Policy Customization without Value," under anonymous review.
 
 ## Journal
 1. J. Li, **C. Tang**, W. Zhan, and M. Tomizuka, “Hierarchical planning through goal-conditioned offline reinforcement learning,” *IEEE Robotics and Automation Letters (RA-L)* and *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2022
