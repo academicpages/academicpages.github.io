@@ -135,8 +135,8 @@ navigation_header:
   url: https://github.com/rachaelph/rachaelph.github.io
 
 navigation_footer:
-- title: Created by David Darnes
-  url: https://darn.es
+- title: Created by Rachael Phillips
+  url: https://adventurewithrachael.com
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   LinkedIn: https://www.linkedin.com/in/rachael-phillips-data-expert
