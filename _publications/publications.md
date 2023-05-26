@@ -4,7 +4,7 @@ redirect_from:
   - /publications/
 ---
 
-**Chenlin Zhou**, Liutao Yu, Zhaokun Zhou, Zhengyu Ma, Han Zhang, Huihui Zhou and Yonghong Tian. Spikingformer: Spike-driven Residual Learning for Transformer-based Spiking Neural Network [C], **Thirty-seventh Conference on Neural Information Processing Systems, NeurIPS 2023**. (Under review) [Paper](https://arxiv.org/pdf/2304.11954.pdf).
+**Chenlin Zhou**, Liutao Yu, Zhaokun Zhou, Zhengyu Ma, Han Zhang, Huihui Zhou and Yonghong Tian. Spikingformer: Spike-driven Residual Learning for Transformer-based Spiking Neural Network [C], ***Thirty-seventh Conference on Neural Information Processing Systems, NeurIPS 2023***. (Under review) [Paper](https://arxiv.org/pdf/2304.11954.pdf).
 
 - <span style="color: #4169E1">**[TCAD 2023]**</span> **Zhe Lin**, Tingyuan Liang, Jieru Zhao, Sharad Sinha and Wei Zhang. "[HL-Pow: Learning-Assisted Pre-RTL Power Modeling and Optimization for FPGA HLS](http://zlinaf.github.io/files/TCAD23.pdf)." In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2023.
 
