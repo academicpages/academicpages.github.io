@@ -10,14 +10,14 @@ redirect_from:
 
 Education
 -----
-- M.S. University of Chinese Academy of Sciences, Beijing, China, 2019.09-2022.08
-- B.S. Chongqing Jiaotong University, Chongqing, China, 2015.09-2019.07
+- M.S. [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/), Beijing, China, 2019.09-2022.08
+- B.S. [Chongqing Jiaotong University](https://www.cqjtu.edu.cn/), Chongqing, China, 2015.09-2019.07
 
 Work Experiences
 -----
-* Peng Cheng Laboratory, engineer, work with Zhengyu Ma and Dr.Huihui Zhou, 2022.10-Now
+* [Peng Cheng Laboratory](https://www.pcl.ac.cn/), engineer, work with Zhengyu Ma and Dr.Huihui Zhou, 2022.10-Now
   * Research field: Spiking Neural Network, Transformer.
-* Institute of Automation, Chinese Academy of Sciences, research intern, work with Dr.Peng Wang, 2019.08-2022.08
+* [Institute of Automation, Chinese Academy of Sciences](http://www.ia.cas.cn/), research intern, work with Dr.Peng Wang, 2019.08-2022.08
   * Research field: Robot perception and grasping, Object detection, Deep learning.
   
 Honors
