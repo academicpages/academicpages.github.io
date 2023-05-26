@@ -13,8 +13,8 @@ My current research interests mainly focus on robotics, computer vision.
 
 Education
 ------
-M.S. University of Chinese Academy of Sciences, Beijing, China, 2019.09-2022.08
-B.S. Chongqing Jiaotong University, Chongqing, China, 2015.09-2019.07
+- M.S. University of Chinese Academy of Sciences, Beijing, China, 2019.09-2022.08
+- B.S. Chongqing Jiaotong University, Chongqing, China, 2015.09-2019.07
 
 Research / Work Experiences
 ------
