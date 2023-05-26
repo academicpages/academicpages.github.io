@@ -18,9 +18,8 @@ Education
 Research / Work Experiences
 ======
 
+##Honors##
 
-Honors
-======
 [2018] National Encouragement Scholarship
 
 [2018] National Undergraduate Training Program for Innovation & Entrepreneurship
