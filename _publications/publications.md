@@ -8,6 +8,8 @@ redirect_from:
 - **Chenlin Zhou**, Han Zhang, Zhaokun Zhou, Liutao Yu, Zhengyu Ma, Huihui Zhou, Xiaopeng Fan and Yonghong Tian. [Enhancing the Performance of Transformer-based Spiking Neural Networks by Improved Downsampling with Precise Gradient Backpropagation](https://arxiv.org/pdf/2305.05954.pdf), ***Thirty-seventh Conference on Neural Information Processing Systems, NeurIPS 2023***. (Under review).
 - **Chenlin Zhou**, Peng Wang, Wei Wei, Guangyun Xu, Fuyu Li, Jia Sun. [Learning Tri-mode Grasping for Ambidextrous Robot Picking](https://arxiv.org/pdf/2302.06431.pdf), ***IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2023***. (Under review), [Video](https://www.bilibili.com/video/BV1nW4y1k7D5/?spm_id_from=333.337.search-card.all.click).
 - **Chenlin Zhou**, Daheng Li, Peng Wang, Jia Sun, Yikun Huang and Wanyi Li. [ACR-Net: Attention Integrated and Cross-spatial Feature Fused Rotation Network for Tubular Solder Joint Detection](https://ieeexplore.ieee.org/abstract/document/9475052/), ***IEEE Transactions on Instrumentation and Measurement, 2021. (SCI Index, JCR Q1, Accepted)***. 
+- **Chenlin Zhou**, Xiaofei Shen, Peng Wang, Wei Wei, Jia Sun, Yongkang Luo, Yiming Li. [Bin-based Vector-predicted Network for Tubular Solder Joint Detection](https://www.sciencedirect.com/science/article/pii/S0263224121007697), ***Measurement, 2021. (SCI Index, JCR Q1, Accepted)***.
+- Yiming Li, Peng Wang, Xiaofei Shen, Jiayuan Liu, Haonan Duan, **Chenlin Zhou**. [Autonomous Developmental Evolutionary Learning for Robotic Manipulation](https://ieeexplore.ieee.org/abstract/document/9515679). ***IEEE International Conference on Development and Learning, ICDL 2021. (Accepted)***.
 
 
 
