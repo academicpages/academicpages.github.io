@@ -11,6 +11,8 @@ redirect_from:
 - **Chenlin Zhou**, Xiaofei Shen, Peng Wang, Wei Wei, Jia Sun, Yongkang Luo, Yiming Li. [Bin-based Vector-predicted Network for Tubular Solder Joint Detection](https://www.sciencedirect.com/science/article/pii/S0263224121007697), ***Measurement, 2021. (SCI Index, JCR Q1, Accepted)***.
 - Yiming Li, Peng Wang, Xiaofei Shen, Jiayuan Liu, Haonan Duan, **Chenlin Zhou**. [Autonomous Developmental Evolutionary Learning for Robotic Manipulation](https://ieeexplore.ieee.org/abstract/document/9515679). ***IEEE International Conference on Development and Learning, ICDL 2021. (Accepted)***.
 - 带角度估计的管线焊点深度学习视觉检测方法[P]. 发明专利, 20210181248.2, 2021. 
+- 多层无避让式立体停车库[P]. 发明专利, CN201711424700.3, 2017. 
+- 基于RFID技术的超市购物车及超市购物系统[P]. 实用新型专利, CN201720507746, 2017
 
 
 
