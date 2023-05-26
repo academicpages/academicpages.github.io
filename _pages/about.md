@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Chenlin Zhou"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Welcome to my website 
+Hi, welcome to my website! My name is Chenlin Zhou. I am currently a Master student at University of Chinese Academy of Sciences, Beijing, China. Before that, I received my Bachelor’s Degree from Chongqing Jiaotong University in 2019.
+
+My current research interests mainly focus on robotics, computer vision.
 
 
 
