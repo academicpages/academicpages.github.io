@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Large Neighborhood Search for Integer Linear Programs"
 permalink: /project/LNS4ILP
 author_profile: true
