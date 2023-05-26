@@ -17,7 +17,7 @@ Education
 
 Research / Work Experiences
 ------
-
+Institute of Automation, Chinese Academy of Sciences, research intern
 
 Honors
 ------
