@@ -21,7 +21,6 @@ Work Experiences
   * Research field: Robot perception and grasping, Object detection, Deep learning.
 
 
-  
 Skills
 -----
 * Skill 1
