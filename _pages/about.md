@@ -7,19 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, welcome to my website! My name is Chenlin Zhou. I am currently a Master student at University of Chinese Academy of Sciences, Beijing, China. Before that, I received my Bachelor’s Degree from Chongqing Jiaotong University in 2019.
+Hi, welcome to my website! My name is Chenlin Zhou. I am currently a Master student at University of Chinese Academy of Sciences, Beijing, China. Before that, I received my Bachelor’s Degree from Chongqing Jiaotong University in 2019. My current research interests mainly focus on robotics, computer vision.
 
-My current research interests mainly focus on robotics, computer vision.
 
-Education
+NEWS
 ------
-- M.S. University of Chinese Academy of Sciences, Beijing, China, 2019.09-2022.08
-- B.S. Chongqing Jiaotong University, Chongqing, China, 2015.09-2019.07
+[10/2022] I joined Peng Cheng Laboratory as research engineer.
+[08/2022] Graduated from UCAS.
 
-Research / Work Experiences
-------
-- Peng Cheng Laboratory, engineer, work with Zhengyu Ma and Dr.Huihui Zhou, 2022.10-Now
-- Institute of Automation, Chinese Academy of Sciences, research intern, work with Dr.Peng Wang, 2019.08-2022.08
 
 
 
