@@ -1,8 +1,3 @@
-<!-- ---
-title: "Projects"
-redirect_from: 
-  - /projects/
---- -->
 ---
 title: "Projects"
 collection: teaching
