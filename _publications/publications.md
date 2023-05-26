@@ -4,7 +4,8 @@ redirect_from:
   - /publications/
 ---
 
-**Chenlin Zhou**, Liutao Yu, Zhaokun Zhou, Zhengyu Ma, Han Zhang, Huihui Zhou and Yonghong Tian. Spikingformer: Spike-driven Residual Learning for Transformer-based Spiking Neural Network [C], ***Thirty-seventh Conference on Neural Information Processing Systems, NeurIPS 2023***. (Under review) [Paper](https://arxiv.org/pdf/2304.11954.pdf).
+- **Chenlin Zhou**, Liutao Yu, Zhaokun Zhou, Zhengyu Ma, Han Zhang, Huihui Zhou and Yonghong Tian. Spikingformer: Spike-driven Residual Learning for Transformer-based Spiking Neural Network [C], ***Thirty-seventh Conference on Neural Information Processing Systems, NeurIPS 2023***. (Under review) [Paper](https://arxiv.org/pdf/2304.11954.pdf).
+- **Chenlin Zhou**, Liutao Yu, Zhaokun Zhou, Zhengyu Ma, Han Zhang, Huihui Zhou and Yonghong Tian. Spikingformer: Spike-driven Residual Learning for Transformer-based Spiking Neural Network [C], ***Thirty-seventh Conference on Neural Information Processing Systems, NeurIPS 2023***. (Under review) [Paper](https://arxiv.org/pdf/2304.11954.pdf).
 
 
 
