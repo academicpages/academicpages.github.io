@@ -14,8 +14,8 @@ My current research interests mainly focus on Spiking Neural Network, AI Foundat
 Feel free to catch me if interested to discuss ideas or work together. 
 
 
-NEWS
-------
+News
+======
 [10/2022] I joined Peng Cheng Laboratory as research engineer.
 
 [08/2022] Graduated from UCAS.
