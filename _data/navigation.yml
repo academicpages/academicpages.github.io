@@ -4,7 +4,7 @@ main:
     url: /publications/
     
   - title: "Projects"
-    url: /Projects/
+    url: /projects/
 
 #   - title: "Talks"
 #     url: /talks/    
@@ -18,8 +18,11 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
-#   - title: "CV"
-#     url: /cv/
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Contact"
+    url: /contact/
     
 #   - title: "Guide"
 #     url: /markdown/
