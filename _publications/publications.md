@@ -1,3 +1,8 @@
+---
+title: "Publications"
+redirect_from: 
+  - /publications/
+---
 
 - <span style="color: #4169E1">**[TCAD 2023]**</span> **Zhe Lin**, Tingyuan Liang, Jieru Zhao, Sharad Sinha and Wei Zhang. "[HL-Pow: Learning-Assisted Pre-RTL Power Modeling and Optimization for FPGA HLS](http://zlinaf.github.io/files/TCAD23.pdf)." In *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2023.
 
