@@ -17,8 +17,8 @@ Education
 
 Research / Work Experiences
 ------
+- Peng Cheng Laboratory, engineer, work with Zhengyu Ma and Dr.Huihui Zhou, 2022.10-Now
 - Institute of Automation, Chinese Academy of Sciences, research intern, work with Dr.Peng Wang, 2019.08-2022.08
-- Institute of Automation, Chinese Academy of Sciences, research engineer, work with Dr.Peng Wang, 2019.08-2022.08
 
 Honors
 ------
