@@ -1,5 +1,12 @@
+<!-- ---
+title: "Projects"
+redirect_from: 
+  - /projects/
+--- -->
 ---
 title: "Projects"
+collection: teaching
+permalink: /projects/projects
 redirect_from: 
   - /projects/
 ---
