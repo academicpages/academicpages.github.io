@@ -10,6 +10,7 @@ redirect_from:
 - **Chenlin Zhou**, Daheng Li, Peng Wang, Jia Sun, Yikun Huang and Wanyi Li. [ACR-Net: Attention Integrated and Cross-spatial Feature Fused Rotation Network for Tubular Solder Joint Detection](https://ieeexplore.ieee.org/abstract/document/9475052/), ***IEEE Transactions on Instrumentation and Measurement, 2021. (SCI Index, JCR Q1, Accepted)***. 
 - **Chenlin Zhou**, Xiaofei Shen, Peng Wang, Wei Wei, Jia Sun, Yongkang Luo, Yiming Li. [Bin-based Vector-predicted Network for Tubular Solder Joint Detection](https://www.sciencedirect.com/science/article/pii/S0263224121007697), ***Measurement, 2021. (SCI Index, JCR Q1, Accepted)***.
 - Yiming Li, Peng Wang, Xiaofei Shen, Jiayuan Liu, Haonan Duan, **Chenlin Zhou**. [Autonomous Developmental Evolutionary Learning for Robotic Manipulation](https://ieeexplore.ieee.org/abstract/document/9515679). ***IEEE International Conference on Development and Learning, ICDL 2021. (Accepted)***.
+- 带角度估计的管线焊点深度学习视觉检测方法[P]. 发明专利, 20210181248.2, 2021. 
 
 
 
