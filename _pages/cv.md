@@ -6,26 +6,19 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+- M.S. University of Chinese Academy of Sciences, Beijing, China, 2019.09-2022.08
+- B.S. Chongqing Jiaotong University, Chongqing, China, 2015.09-2019.07
 
-Work experience
+Work Experiences
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- Peng Cheng Laboratory, engineer, work with Zhengyu Ma and Dr.Huihui Zhou, 2022.10-Now
+- Institute of Automation, Chinese Academy of Sciences, research intern, work with Dr.Peng Wang, 2019.08-2022.08
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
@@ -36,23 +29,13 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
