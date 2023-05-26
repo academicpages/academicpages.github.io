@@ -11,7 +11,8 @@ Hi, welcome to my website! My name is Chenlin Zhou. I am currently a Master stud
 My current research interests mainly focus on robotics, computer vision.
 
 
-**Honors**
+Honors
+-----
 
 [2018] National Encouragement Scholarship
 
