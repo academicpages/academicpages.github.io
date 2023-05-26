@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-collection: teaching
+collection: projects
 permalink: /projects/projects
 redirect_from: 
   - /projects/
