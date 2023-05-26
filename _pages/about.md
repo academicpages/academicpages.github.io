@@ -11,6 +11,33 @@ Hi, welcome to my website! My name is Chenlin Zhou. I am currently a Master stud
 
 My current research interests mainly focus on robotics, computer vision.
 
+Education
+======
+
+
+Research / Work Experiences
+======
+
+
+Honors
+======
+[2018] National Encouragement Scholarship
+
+[2018] National Undergraduate Training Program for Innovation & Entrepreneurship
+
+[2017] National Encouragement Scholarship
+
+[2018] Honorable Mention in Mathematical Contest in Modeling
+
+[2016] Third Prize in National Mathematics Competition for College students
+
+[2018] First Prize in Electronic Design Competition for College students, Chongqing
+
+[2018] Second Prize in National Mechanical Innovation Design Competition for College Students, (Chongqing Division)
+
+[2022] Merit Student in University of Chinese Academy of Sciences
+
+
 
 
 
