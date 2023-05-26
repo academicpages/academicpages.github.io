@@ -17,7 +17,8 @@ Education
 
 Research / Work Experiences
 ------
-Institute of Automation, Chinese Academy of Sciences, research intern
+Institute of Automation, Chinese Academy of Sciences, research intern, work with Dr.Peng Wang, 2019.08-2022.08
+Institute of Automation, Chinese Academy of Sciences, research engineer, work with Dr.Peng Wang, 2019.08-2022.08
 
 Honors
 ------
