@@ -6,6 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-{% include base_path %}
+
 
 You can access my most recent CV in PDF form [here](http://cindyjpang.github.io/files/CindyPang_CV_updated_05_02_23.pdf)
