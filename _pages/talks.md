@@ -9,10 +9,10 @@ author_profile: true
 - **Author & Speaker @ EUROCRYPT23**, Lyon, France.  
 *Title*: Multi-key and Multi-input Predicate encryption from Learning with Error.
 
-- **Author & Speaker @ PKC23**, Atlanta, GA, USA.
+- **Author & Speaker @ PKC23**, Atlanta, GA, USA.  
 *Title*: Structure-Preserving Compilers from New Notions of Obfuscations.
 
-- **Author & Speaker @ PKC23**, Atlanta, GA, USA. 
+- **Author & Speaker @ PKC23**, Atlanta, GA, USA.  
 *Title*: Verifiable Capacity-bound Functions: A New Primitive from Kolmogorov Complexity (Revisiting space-based security in the adaptive setting).
 
 - **[Talk @ Seminars in Cybersecurity](https://cybersecurity.uniroma1.it/node/222)**, Sapienza University of Rome, Rome, Italy.  
