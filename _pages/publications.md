@@ -31,7 +31,7 @@ author_profile: true
 
 ### Selected Working Papers
 - Ousting an autocrat: Pre-electoral coalitions in electoral authoritarian regimes. *job market paper, journal article*
-- Toward a new transition theory? Opposition dilemmas and how to resist and recover from democratic erosion. (with Jennifer McCoy and Murat Somer) *journal article*
+- Toward a new transition theory? Opposition dilemmas and how to resist and recover from democratic erosion. [APSA Pre-print](https://preprints.apsanet.org/engage/apsa/article-details/6360da3baca198ab89ed8f06) (with Jennifer McCoy and Murat Somer) *journal article*
  
 ### Work-In-Progress
 - What explains opposition-led coalitions success? The role of party organization and party diversity. *journal article*
