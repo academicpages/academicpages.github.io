@@ -22,18 +22,18 @@ Danilo Francati, Daniele Friolo, Monosij Maitra, Giulio Malavolta, Ahmadreza Rah
 
 9. **Multi-key and Multi-input Predicate encryption from Learning with Errors**  
 Danilo Francati, Daniele Friolo, Giulio Malavolta, and Daniele Venturi   
-Advances in Cryptology–EUROCRYPT 2023: 42nd Annual International Conference on the Theory and Applications of Cryptographic Techniques  
-[https://eprint.iacr.org/2022/806](https://eprint.iacr.org/2022/806)
+Advances in Cryptology–EUROCRYPT 2023: 42nd Annual International Conference on the Theory and Applications of Cryptographic Techniques, Proceedings, Part III. Cham: Springer Nature Switzerland, 2023, ISBN: 978-3-031-30620-4
+[https://link.springer.com/chapter/10.1007/978-3-031-30620-4_19](https://link.springer.com/chapter/10.1007/978-3-031-30620-4_19)
 
 8. **Structure-Preserving Compilers from New Notions of Obfuscations**  
 Matteo Campanelli, Danilo Francati, and Claudio Orlandi  
-26th IACR International Conference on Practice and Theory of Public-Key Cryptography  
-[https://eprint.iacr.org/2022/732](https://eprint.iacr.org/2022/732)
+26th IACR International Conference on Practice and Theory of Public-Key Cryptography, Proceedings, Part II. Cham: Springer Nature Switzerland, 2023, ISBN: 978-3-031-31371-4 
+[https://link.springer.com/chapter/10.1007/978-3-031-31371-4_23](https://link.springer.com/chapter/10.1007/978-3-031-31371-4_23)
 
 7. **Verifiable Capacity-bound Functions: A New Primitive from Kolmogorov Complexity (Revisiting space-based security in the adaptive setting)**  
 Giuseppe Ateniese, Long Chen, Danilo Francati, Dimitrios Papadopoulos, and Qiang Tang  
-26th IACR International Conference on Practice and Theory of Public-Key Cryptography  
-[https://eprint.iacr.org/2021/162](https://eprint.iacr.org/2021/162)
+26th IACR International Conference on Practice and Theory of Public-Key Cryptography, Proceedings, Part II. Cham: Springer Nature Switzerland, 2023, ISBN: 978-3-031-31371-4  
+[https://link.springer.com/chapter/10.1007/978-3-031-31371-4_3](https://link.springer.com/chapter/10.1007/978-3-031-31371-4_3)
 
 6. **Eluding Secure Aggregation in Federated Learning via Model Inconsistency**  
 Dario Pasquini, Danilo Francati, and Giuseppe Ateniese  

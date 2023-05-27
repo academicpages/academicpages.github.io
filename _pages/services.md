@@ -8,6 +8,8 @@ author_profile: true
 
 ## Program Committees ##
 
+- **CIFRIS 2023**
+December 14-15 2023, Rome, Italy
 - **5th Distributed Ledger Technology Workshop (DLT 2023)**  
 May 25-26 2023, Bologna, Italy
 
@@ -27,7 +29,7 @@ EUROCRYPT 23, Usenix Security 23, ACNS 23, ISIT 23, CT-RSA 22, CRYPTO 22, CCS 22
 - Journal of Systems Architecture
 - IET Information Security
 - Theory of Computing Systems
-
+- Theoretical Computer Science
 ---
 
 ## Other ##
