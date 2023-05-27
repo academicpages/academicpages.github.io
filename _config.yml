@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Cindy Pang"
   avatar           : "cindy_pic.png"
-  bio              : "Undergraduate Research Assistant at Carolina Population Center"
-  location         : "Chapel Hill, North Carolina"
+  bio              : "Incoming Biostatistics PhD Student at UCLA Fielding School of Public Health"
+  location         : "Los Angeles, CA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=vf2tUs0AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/cindyjpang/"
   orcid            : "http://orcid.org/0000-0002-3450-355X"
   pinterest        :
   soundcloud       :
