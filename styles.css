@@ -1,0 +1,454 @@
+* {
+    font-family: 'Clash Display', sans-serif;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 10px; /* Reset default body margin */
+   padding: 0px;
+   justify-content: center;
+   align-items: center;
+  }
+  
+  body {
+    font-size: 15px;
+    
+    font-weight: initial;
+    background-color: rgb(255, 255, 255);
+
+
+    margin: 0px; /* Reset default body margin */
+
+
+  }
+
+
+  
+  
+  #container {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+  
+    justify-content: center;
+    align-content: center;
+
+
+  }
+  
+  #leftbar {
+    flex: 1;
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+ 
+    
+  }
+  
+  #rightbar {
+    display: flex;
+    flex: 1;
+    background-color: gray;
+    flex-direction: column;
+
+    
+    }
+
+
+    #right_bar {
+  width: 25%;
+ background: rgb(255, 255, 255);
+  padding: 10px;
+  display: flex;
+  justify-content:space-evenly;
+}
+
+
+.navigation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+   }
+  
+
+ a,p  {
+  margin-bottom: 30px; /* Adjust the margin value as needed */
+  justify-content: center;
+  align-items: center;
+
+  
+}
+
+
+
+
+
+
+
+  .card {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    height: 200px; /* Set the desired height */
+    width: 500px; /* Set the desired width */
+  
+    border-radius: 10px; 
+    position: relative;
+ 
+  }
+  
+  
+
+
+  .card1 {
+    display: flex;
+   border: 3px solid black;
+    height: 80px; /* Set the desired height */
+    width: 500px; /* Set the desired width */
+    margin: 10px; /* Add margin on all sides */
+    justify-content: center;
+    align-content: center;
+    text-align:center;
+    border-radius: 10px; 
+    
+   
+  }
+
+
+  .cardbox {
+ display: flex;
+    border: 1.5px solid black;
+    height: 50px; /* Set the desired height */
+    width: 150px; /* Set the desired width */
+    margin: 90px; /* Add margin on all sides */
+    border-radius: 10px; 
+    
+ ;
+
+  }
+  
+
+
+.item-text{
+    display: flex;
+   color: rgb(100, 100, 290);
+    text-align:center;
+
+   
+    /*   font-family: "Comic Sans MS", "Comic Sans", cursive;   */
+
+
+ 
+}
+
+
+
+
+ .text-conditional, 
+.item-text-cbox{
+    display: flex;
+    margin-bottom: 0px; /* Add margin on all sides */
+    text-align:center;
+   /* font-family: "Comic Sans MS", "Comic Sans", cursive;*/
+    font-size: 12px;
+    margin: auto; 
+ 
+ 
+}
+
+
+
+.tag-container {
+    display: flex;
+    position: absolute;
+    color: rgb(100, 100, 290);
+
+}
+
+
+
+
+.tag1{
+  display: flex;
+
+  border: 2px solid black;
+  height: 30px; /* Set the desired height */
+  width: 60px; /* Set the desired width */
+ 
+}
+
+  .tag {
+    display: flex;
+  
+    border: 2px solid black;
+    height: 30px; /* Set the desired height */
+    width: 60px; /* Set the desired width */
+   
+  }
+
+ 
+
+  .footer {
+    position: fixed;
+
+    bottom: 0;
+    right: 200;
+    background-color: #f0f0f0;
+    
+    border: 1px solid black;
+    border-radius: 10px; 
+    height: 70px; /* Set the desired height */
+    width: 500px; /* Set the desired width */
+
+
+  }
+  
+  .footer-nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  
+  }
+  
+  .footer-nav li  {
+    display: inline-block;
+    margin: 0 10px;
+  }
+  
+
+  nav ul li a.active {
+    /* Style for active link */
+    color: blue;
+    /* Additional styles as needed */
+  }
+  
+ 
+
+  .footer-nav img {
+    width: 50px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    padding: 3px;
+    
+  }
+
+  *, :after, :before {
+    border: 0 solid #d9d9e3;
+    box-sizing: border-box;
+}
+
+
+.bookmark-icon {
+    position: absolute;
+    top: -30px;
+    right: -10px;
+    font-size: 30px;
+    color: black; /* Optionally, change the color of the bookmark icon */
+  }
+
+
+
+.bookmark-icon-click{
+    position: absolute;
+    top: -30px;
+    right: -10px;
+    font-size: 30px;
+    color: #ff0000; /* Optionally, change the color of the bookmark icon */
+  }
+
+
+
+  .footer-nav ul li a.active {
+    /* Style for active link */
+    color: blue;
+    /* Additional styles as needed */
+  }
+  
+
+
+  #container_pro  {
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    height: 200px;
+    width: 500px;
+    margin: 20px;
+    border-radius: 10px;
+    position: relative;
+  }
+
+
+
+
+  
+  
+
+
+ 
+
+  #sidebar_pro  {
+    flex: 1;
+    display: flex;
+
+   
+    justify-content: center;
+    align-items: center;
+    position: relative;
+ 
+
+
+}
+  
+
+  
+  
+  #sidebar_pro  img {
+    width: 100%;
+    height: 120px; /* Adjust the height as desired */
+    border-radius: 50%; /* Creates a circular shape */
+    object-fit: cover; /* Ensures the image fills the circular shape */
+   
+  }
+  
+
+
+  #rightbar_pro  {
+    flex: 1;
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+ 
+}
+  
+
+
+
+.cardone_pro {
+  flex:1;
+    width: 100%;
+   height: 80px; /* Set the desired height */
+   width: 500px; /* Set the desired width */
+   margin: 10px; /* Add margin on all sides */
+   border: 1px solid black;
+    
+  }
+  
+
+
+  #leftbar_pro img {
+    width: 60px; /* Adjust the width as desired */
+    height: 60px; /* Adjust the height as desired */
+    border-radius: 50%; /* Creates a circular shape */
+    object-fit: cover; /* Ensures the image fills the circular shape */
+    z-index: 0; /* Set a lower value than the sidebar */
+  }
+  
+
+  #leftbar_pro p {
+    font-size: 1em;
+    line-height: 1}
+  
+
+.author__bio {
+  margin: 0;
+}
+
+
+
+.tag_pro {
+    display: flex;
+    height: 30px;
+    width: 100px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-image: initial;
+}
+
+
+
+.switch {
+  flex:1;
+  display: flex;
+  top:0;
+  bottom:50;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 60px;
+  height: 34px;}
+
+
+  
+.switch input[type="checkbox"] {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  border-radius: 34px;
+  transition: 0.4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "Switch";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 5px;
+  background-color: white;
+  border-radius: 90%;
+
+}
+
+
+
+   /* Add CSS for highlighted tag */
+   .highlighted {
+    background-color: yellow;
+  }
+
+
+  .active-choice {
+    background-color: rgb(72, 181, 33);
+  }
+  
+
+  .dark {
+    background-color: rgb(100, 100, 290);
+
+    color: white;
+
+  }
+  
+
+  .text-conditional {
+    display: none;
+  }
+  
+
+
+
+  
+
+  
