@@ -10,7 +10,7 @@ redirect_from:
 
 I am a first year doctoral student in Health Policy (Population and Data Science Track) at the University of California, Berkeley. My research works towards improvements in health equity and addressing health disparities, especially those related to race/ethnicity and income. 
 
-To achieve this, I draw from theoretical perspectives from the social sciences and leverage methods from health policy, health services research, and economics. My current work focuses on provider markets and competition, quality of care for Medicaid patients, and medical debt. 
+To achieve this, I draw from theoretical perspectives from the social sciences and leverage methods from health policy, health services research, and economics. My current work focuses on medical debt, provider markets and competition, and quality of care for Medicaid patients. 
 
 ![](/images/hay.jpg)
 
