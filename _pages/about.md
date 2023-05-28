@@ -24,6 +24,9 @@ Fun facts about me
 - I am passionate about Nigeria, and Africa.
 
 ## Recent News
+- **May 2023:** I just got elected as a Senator representing ECE at the *Purdue Graduate Students Senate* for the 2023/2024 academic session
+- **May 2023:** I will be interning at Google over this summer as a Student Researcher.
+- **Nov 2022:** I will be attending *ESEC/FSE 2022* at Singapore, through an ACM-funded travel grant.
 - **May 2022:** I will be attending *ICSE 2022* at Pittsburg, through an NSF-funded travel grant.
 - **April 2022:** I won the *2022 Magoon Excellence in Teaching award*, from Purdue's college of engineering.
 - **Feb 2022:** Our short paper, *"Experience paper: A first offering of Software Engineering"* just got accepted to *DREE 2022*

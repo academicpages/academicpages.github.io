@@ -14,9 +14,17 @@ I am working so hard to get this page populated with actual papers. Please, kind
 
 ## Peer-reviewed short papers
 
+1. *Towards Rehosting Embedded Applications as Linux Applications*.     
+    J. Srinivasan, S. Tanksalkar, **P. Amusuo**, J. Davis, A. Machiry   
+    DSN 2023
+
+1. *Reflections on Software Failure Analysis*.  
+    **P. Amusuo**, A. Sharma, S. Rao, A. Vincent, J. Davis.     
+    ESEC/FSE-IVR 2022.  
+
 1. *Experience Paper: A First Offering of Software Engineering*.  
- J. Davis, **P. Amusuo**, and J. Bushagour.  
- ICSE-DREE 2022.  
+    J. Davis, **P. Amusuo**, and J. Bushagour.  
+    ICSE-DREE 2022.  
  
  
 ## Posters
