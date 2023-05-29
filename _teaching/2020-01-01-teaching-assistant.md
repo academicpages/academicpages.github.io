@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistance"
+title:
 collection: teaching
 type: "Teaching Assistant"
 permalink: 
