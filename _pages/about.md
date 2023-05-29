@@ -23,6 +23,7 @@ My research interests center on interpretable machine learning and natural langu
 *Email:* peter@cs.unc.edu
 
 ## News
+* 2023 - Started summer internship at AI2! Supervised by [Sarah Wiegreffe](https://sarahwie.github.io/) and [Peter Clark](https://allenai.org/team/peterc)  
 * 2023 - New paper out! "Does Localization Inform Editing? Surprising Differences in
 Causality-Based Localization vs. Knowledge Editing in Language Models" [[pdf]](https://arxiv.org/pdf/2301.04213.pdf) [[code]](https://github.com/google/belief-localization)  
 * 2022 - Serving as an Area Chair for ACL 2023 in the Interpretability and Analysis of Models for NLP track  
