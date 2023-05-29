@@ -11,30 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electromechanical Engineering, University of Beira Interior, 2017
+* M.S. in Electromechanical Engineering, University of Beira Interior, 2019
+* Ph.D in Mechanical Engineering, University of Beira Interior, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Research Intern (Covilhã)
+  * University of Beira Interior
+  * Computational modelling of 3D flow structures on a disk pump (Tesla turbine)
+    * SolidWorks 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mechanical Design in SolidWorks (CSWA)
+* Lean Six Sigma (yellow belt)
+* Computational Fluid Dynamics (CFD)
+  * OpenFoam
+  * Ansys Fluent
+* Python
 
 Publications
 ======
@@ -48,12 +43,9 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Tutor at STEAM junior academy at AJSTEAM UBI, Covilhã, Portugal (March 2023)
+* Conference Session Co-Chair at Conference IMECE2021 by ASME in the USA for Aerodynamics & Novel Aerospace Propulsion Systems topic (November 2021)
+* Volunteer of Refood Covilhã, Covilhã, Portugal (2019-present)
