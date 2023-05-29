@@ -20,3 +20,9 @@ paperurl: 'https://drive.google.com/file/d/1G5xc50bSJXyHnou74a1857Ifwq7QdPBX/vie
 
 [Download paper here](https://drive.google.com/file/d/1G5xc50bSJXyHnou74a1857Ifwq7QdPBX/view?usp=drive_link)
 
+**Abstract** We develop a model of search in OTC markets with asymmetric information and trade occur-
+ring under double-sided uncertainty over asset quality, where holding the asset does not necessarily
+translate into knowing its quality. This leads to deterioration of market information conditions over
+subsequent trades, causing both sellers and buyers to become more pessimistic even though ag-
+gregate asset quality remains unchanged. If re-trade opportunities are frequent, information in the
+economy becomes coarser, hindering market liquidity and volume of trade.
