@@ -8,16 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Sílvio M. R. Cândido is a Ph.D. student in Mechanical Engineering at the University of Beira Interior in Portugal, where he is conducting research on Atomization of Electrohydrodynamic Jets. He has a M.Sc. degree in Electromechanical Engineering from the same university and has completed his B.Sc. degree in an unspecified field of engineering. Sílvio has also conducted research on complex multi-physics flow, specifically electro-hydrodynamic flows.
+Sílvio M. R. Cândido is a Ph.D. student in Mechanical Engineering at the [University of Beira Interior](https://www.ubi.pt/) (Portugal), where he is conducting research on Atomization of Electrohydrodynamic Jets. He has a M.Sc. degree in Electromechanical Engineering from the same university and has completed his B.Sc. degree in an unspecified field of engineering. Sílvio has also conducted research on complex multi-physics flow, specifically electro-hydrodynamic flows.
 
 
 
 
 **News**
 
-Getting started
-======
-1. 
 
 **CERTIFICATIONS**:
 - Lean Six Sigma Yellow Belt from The Lean Six Sigma Company Portugal (April 2023)
