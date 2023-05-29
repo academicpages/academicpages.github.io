@@ -36,5 +36,5 @@ Skills
 ======
 
 - Language: Python, C/C++, Java, JavaScript, HTML, CSS, PHP
-- Scientific Packages: scikit-learn, Pytorch, Tensorflow
+- Scientific Packages: scikit-learn, Pytorch, Tensorflow, OpenCV  
 - Platform: AWS
