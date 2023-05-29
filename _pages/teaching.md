@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Teaching Assistance"
-permalink: 
+permalink: /teaching/
 venue: "New York University"
 date: 2021-01-01
 location: "New York, NY"
