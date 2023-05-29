@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 I am a Principal Researcher at the <a href="https://www.bankofcanada.ca/">Bank of Canada</a>
-and a visiting research scholar at the <a href="https://www.maxwell.syr.edu/">Maxwell School</a> at Syracuse University. I am a Research Affiliate at the <a href="https://www.iza.org/"> Institute of Labor Economics (IZA)</a>.
+and a Research Affiliate at the <a href="https://www.iza.org/"> Institute of Labor Economics (IZA)</a>.
 
 My main research interests are International Economics and International Migration.
