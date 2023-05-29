@@ -36,8 +36,36 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif page.venue and page.date %}
-          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif page.collection == "publications" %}
+          <citation>
+            <p>
+            {% if page.authors %}
+              {% for author in page.authors %}
+                {% if author.firstname == site.author.firstname %}
+                  {% if author.lastname == site.author.lastname %}
+                  <a href = "{{ base_path }}" style = "font-weight: normal; text-decoration: none"><b> {{ author.lastname }}, {{ author.firstname }}</b>;</a>
+                  {% endif %}
+                {% else %}
+                  {% if author.url %}
+                  <a href = "{{ author.url }}"" style = "font-weight: normal; color: black">{{ author.lastname }}, {{ author.firstname }};</a>
+                  {% else %}
+                  {{ author.lastname }}, {{ author.firstname }};
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+                {% if page.venue != "Working Paper" %}
+                  <i>{{ page.venue }}</i>,
+                {% endif %}
+                ({{ page.date | date: "%Y" }}) <i>{{ page.title }}</i>
+              {% if page.paperurl %}
+                ; Available at: <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a>
+              {% endif %}
+            {% endif %}
+            </p>
+            {% if page.keywords %}
+            <p>Keywords: <i>{{ page.keywords }}</i></p>
+            {% endif %}
+          </citation>
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
