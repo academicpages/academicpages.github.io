@@ -44,13 +44,24 @@
         <p>
         {% if post.authors %}
            {% for author in post.authors %}
-                  <i>{{ author.firstname }} {{ author.lastname }}</i>;
+                  {{ author.firstname }} {{ author.lastname }};
               {% endfor %}    
         {% endif %}
           <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
         {% elsif post.date %}
         {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}      
     {% endif %}
+    
+        {% if post.excerpt and site.read_more != 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% elsif post.excerpt and site.read_more == 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    {% endif %}
+
+    {% if post.citation %}
+      <p>Recommended citation: {{ post.citation }} </p>
+    {% endif %}
+   
     {% if post.paperurl %}
       <p><a href=" {{ post.paperurl }} "><button class="btn"><i class="fa fa-download"></i> Download</button></a></p>
     {% endif %}
