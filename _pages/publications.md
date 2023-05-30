@@ -14,7 +14,7 @@ author_profile: true
 
 <li>Efficient uncertainty quantification for mechanical properties of randomly perturbed elastic rods, with P. Dondl, S. Neukamm and S. Wolff-Vorbeck. <a href="https://arxiv.org/abs/2304.08785">[arxiv: 2304.08785]</a>. </li> 
 
-<li>On well-posedness results for the cubic-quintic NLS on T3, with X. Yu, H. Yue, Z. Zhao. <a href="https://arxiv.org/abs/2301.13433">[arxiv: 2301.13433]</a>. </li>
+<li>On well-posedness results for the cubic-quintic NLS on T3, with X. Yu, H. Yue and Z. Zhao. <a href="https://arxiv.org/abs/2301.13433">[arxiv: 2301.13433]</a>. </li>
 
 <li>On existence and stability results for normalized ground states of mass-subcritical biharmonic NLS on RdTn, with H. Hajaiej and L. Song. <a href="https://arxiv.org/abs/2212.00750">[arxiv: 2212.00750]</a>. </li>
 
