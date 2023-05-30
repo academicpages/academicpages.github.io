@@ -7,6 +7,7 @@ author_profile: true
 
 Preprints and articles
 ===================
+<ul>
 
 <li>Almost sure scattering for the defocusing cubic nonlinear Schrödinger equation on R3T1. <a href="https://arxiv.org/abs/2304.12914">[arxiv: 2304.12914]</a>.</li>
 
@@ -32,16 +33,21 @@ Preprints and articles
 
 <li>Ground states for a nonlocal mixed order cubic-quartic Gross-Pitaevskii equation, with A. Stylianou. <b>J. Math. Anal. Appl.</b> 496 (2021), no. 1, Paper No. 124802, 20 pp. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022247X20309653">Article</a>. <a href="https://arxiv.org/abs/1806.00697">[arxiv: 1806.00697]</a>. </li>
 
+</ul>
+
 
 <br>
 
 Permanant Notes
 ==================
 
+<ul>
 
 <li> Large data global well-posedness and scattering for the focusing cubic nonlinear Schrödinger equation on R2T1. <a href="https://arxiv.org/abs/2202.10219">[arxiv: 2202.10219]</a>. </li>
 
 <li> Normalized ground states for 3D dipolar Bose-Einstein condensate with attractive three-body interactions, with A. Stylianou. <a href="https://arxiv.org/abs/2202.09801">[arxiv: 2202.09801]</a>. </li>
 
 <li> Scattering threshold for radial defocusing-focusing mass-energy double critical nonlinear Schrödinger equation in d≥5. <a href="https://arxiv.org/abs/2106.06993">[arxiv: 2106.06993]</a>. </li>
+
+</ul>
 
