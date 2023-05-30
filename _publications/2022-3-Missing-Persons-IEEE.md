@@ -11,13 +11,14 @@ website-separation-category: 'c1'
 
 
 # paperurl: 'https://ieeexplore.ieee.org/abstract/document/9789290' 
-pdf: 'files/publications/ieee-computer-2022.pdf' 
+pdf: '/files/publications/ieee-computer-2022.pdf' 
 #'https://ieeexplore.ieee.org/abstract/document/9789290' 
 
 
 link: 'https://www.computer.org/csdl/magazine/co/2022/06/09789290/1DZ8bvipo9W'
 
-video: 'https://purdue0-my.sharepoint.com/:v:/g/personal/ksolaima_purdue_edu/Eax_GdQ5sFRPi_2cB_KCYe4Bn5vliGCBKshhQYyNjEevjg?e=H9tgxX'
+video: 'https://drive.google.com/file/d/1baINWf4D0xPE29_L1zNGz3hua7W31c64/view?usp=sharing'
+#'https://purdue0-my.sharepoint.com/:v:/g/personal/ksolaima_purdue_edu/Eax_GdQ5sFRPi_2cB_KCYe4Bn5vliGCBKshhQYyNjEevjg?e=H9tgxX'
 
 # code: 'https://doi.org/10.7910/DVN/BEKPWV'
 
