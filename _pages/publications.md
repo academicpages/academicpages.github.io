@@ -21,15 +21,15 @@ Preprints and articles
 
 <li>On long time behavior of the focusing energy-critical NLS on RdT1 via semivirial-vanishing geometry, to appear in <b>J. Math. Pures Appl.</b> <a href="https://arxiv.org/abs/2206.07346", class="class2">[arxiv: 2206.07346]</a></li>
 
-<li>On the sharp scattering threshold for the mass–energy double critical nonlinear Schrödinger equation via double track profile decomposition, to appear in <b>Ann. Inst. H. Poincaré C Anal. Non Linéaire</b>. <a href="https://ems.press/journals/aihpc/articles/9019654", class="class2">Article.</b> <a href="https://arxiv.org/abs/2108.00915", class="class2">[arxiv: 2108.00915]</a></li>
+<li>On the sharp scattering threshold for the mass–energy double critical nonlinear Schrödinger equation via double track profile decomposition, to appear in <b>Ann. Inst. H. Poincaré C Anal. Non Linéaire</b>. <a href="https://ems.press/journals/aihpc/articles/9019654", class="class2">Article.</a> <a href="https://arxiv.org/abs/2108.00915", class="class2">[arxiv: 2108.00915]</a></li>
 
-<li>Sharp scattering threshold for the cubic-quintic NLS in the focusing-focusing regime, <b>J. Funct. Anal. 283 (2022), no. 1, Paper No. 109489, 34 pp</b>. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022123622001094?via%3Dihub", class="class2">Article.</b> <a href="https://arxiv.org/abs/2105.15091", class="class2">[arxiv: 2105.15091]</a></li>
+<li>Sharp scattering threshold for the cubic-quintic NLS in the focusing-focusing regime, <b>J. Funct. Anal. 283 (2022), no. 1, Paper No. 109489, 34 pp</b>. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022123622001094?via%3Dihub", class="class2">Article.</a> <a href="https://arxiv.org/abs/2105.15091", class="class2">[arxiv: 2105.15091]</a></li>
 
-<li>On the local in time well-posedness of an elliptic–parabolic ferroelectric phase-field model, <b>Nonlinear Anal. Real World Appl. 65 (2022), Paper No. 103462, 30 pp</b>. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1468121821001711", class="class2">Article.</b> <a href="https://arxiv.org/abs/2011.00085", class="class2">[arxiv: 2011.00085]</a></li>
+<li>On the local in time well-posedness of an elliptic–parabolic ferroelectric phase-field model, <b>Nonlinear Anal. Real World Appl. 65 (2022), Paper No. 103462, 30 pp</b>. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1468121821001711", class="class2">Article.</a> <a href="https://arxiv.org/abs/2011.00085", class="class2">[arxiv: 2011.00085]</a></li>
 
-<li>On 3d dipolar Bose-Einstein condensates involving quantum fluctuations and three-body interactions, with A. Stylianou.<b>J. Discrete Contin. Dyn. Syst. Ser. B 26 (2021), no. 6, 3455–3477</b>. <a href="https://www.aimsciences.org/article/doi/10.3934/dcdsb.2020239", class="class2">Article.</b> <a href="https://arxiv.org/abs/1902.05591", class="class2">[arxiv: 1902.05591]</a></li>
+<li>On 3d dipolar Bose-Einstein condensates involving quantum fluctuations and three-body interactions, with A. Stylianou. <b>J. Discrete Contin. Dyn. Syst. Ser. B 26 (2021), no. 6, 3455–3477</b>. <a href="https://www.aimsciences.org/article/doi/10.3934/dcdsb.2020239", class="class2">Article</a>. <a href="https://arxiv.org/abs/1902.05591", class="class2">[arxiv: 1902.05591]</a></li>
 
-<li>Ground states for a nonlocal mixed order cubic-quartic Gross-Pitaevskii equation, with A. Stylianou.<b>J. Math. Anal. Appl. 496 (2021), no. 1, Paper No. 124802, 20 pp</b>. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022247X20309653", class="class2">Article.</b> <a href="https://arxiv.org/abs/1806.00697", class="class2">[arxiv: 1806.00697]</a></li>
+<li>Ground states for a nonlocal mixed order cubic-quartic Gross-Pitaevskii equation, with A. Stylianou. <b>J. Math. Anal. Appl. 496 (2021), no. 1, Paper No. 124802, 20 pp</b>. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022247X20309653", class="class2">Article</a>. <a href="https://arxiv.org/abs/1806.00697", class="class2">[arxiv: 1806.00697]</a></li>
 
 
 
