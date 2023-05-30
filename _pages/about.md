@@ -17,6 +17,8 @@ Email: zhimengj at tamu dot edu. Here is my [CV](http://zhimengj0326.github.io/f
 
 <h1>News</h1>
 <div style="height:550px;overflow:auto;background:#f6f6f6;">
+  <p><span style="color:darkred;">[2023/05]</span> Invited to serve as a PC member of WACV 2024 and reviewer for TMLR.</p>
+  <p><span style="color:darkred;">[2023/05]</span> One paper [<a href="https://openreview.net/forum?id=LjDFIWWVVa&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions)">Retiring &Delta;DP</a>] is accepted by TMLR.</p>
   <p><span style="color:darkred;">[2023/05]</span> One paper on Real-Time Bidding is accepted by SIGKDD Explorations 2023.</p>
   <p><span style="color:darkred;">[2023/04]</span> Two papers on Memory Efficient Training and Graph Augmentation are accepted by ICML 2023.</p>
   <p><span style="color:darkred;">[2023/04]</span> One paper on Probabilistic Masked Attention Networks is accepted by IJCAI 2023.</p>

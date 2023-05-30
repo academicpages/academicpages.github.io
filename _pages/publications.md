@@ -19,6 +19,10 @@ author_profile: true
 
 ## Conference Papers
 
+<b>[Retiring ∆DP: New Distribution-Level Metrics for Demographic Parity.](https://openreview.net/forum?id=LjDFIWWVVa&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions))
+</b><br><b>Zhimeng Jiang\*</b>, Xiaotian Han\*, Hongye Jin\*, Zirui Liu, Na Zou, Qifan Wang, Xia Hu <br>
+TMLR, 2023
+
 <b>[DIVISION: Memory Efficient Training via Dual Activation Precision.](??)
 </b><br>Guanchu Wang, Zirui Liu, <b>Zhimeng Jiang</b>, Ninghao Liu, Na Zou, Xia Hu <br>
 International Conference on Machine Learning (**ICML**), 2023. 
@@ -33,7 +37,7 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2023.
 
 <b>[Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs.](??)
 </b><br>Junnan Dong, Qinggang Zhang, Xiao Huang, Keyu Duan, Qiaoyu Tan, <b>Zhimeng Jiang</b>. <br>
-The Web Conference (formerly WWW), 2023.
+The Web Conference (formerly **WWW**), 2023.
 
 <b>[Learning Fair Graph Representations via Automated Data Augmentations.](https://openreview.net/forum?id=1_OGWcP1s9w&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions))
 </b><br>Hongyi Ling, <b>Zhimeng Jiang</b>, Youzhi Luo, Shuiwang Ji, Na Zou <br>
@@ -62,7 +66,7 @@ International Conference on Learning Representations (**ICLR**), 2022
 The Web Conference (formerly **WWW**), 2022.
 
 <b>[BED: A Real-Time Object Detection System for Edge Devices.](https://arxiv.org/abs/2202.07503)
-</b><br>Guanchu Wang\*, Zaid Pervaiz Bhat\*, <b>Zhimeng Jiang\*</b>, Yi-Wei Chen\*, Daochen Zha\*, Alfredo Costilla Reyes*, Afshin Niktash, Gorkem Ulkar, Erman Okman, Xia Hu. <br>
+</b><br><b>Zhimeng Jiang\*</b>, Guanchu Wang\*, Zaid Pervaiz Bhat\*, Yi-Wei Chen\*, Daochen Zha\*, Alfredo Costilla Reyes*, Afshin Niktash, Gorkem Ulkar, Erman Okman, Xia Hu. <br>
 ACM International Conference on Information and Knowledge Management (CIKM), 2022 (demo). <br>
 [<span style="color:red">**Best Demo Paper Award**</span>](https://www.cikm2022.org/best-paper)
 
@@ -78,10 +82,6 @@ Under review, 2022
 
 <b>[Topology Matters in Fair Graph Learning: a Theoretical Pilot Study.](??)
 </b><br><b>Zhimeng Jiang</b>, Xiaotian Han, Chao Fan, Zirui Liu, Xiao Huang, Na Zou, Ali Mostafavi, Xia Hu <br>
-Under review, 2022
-
-<b>[Retiring ∆DP: New Distribution-Level Metrics for Demographic Parity.](??)
-</b><br>Xiaotian Han\*, <b>Zhimeng Jiang\*</b>, Hongye Jin, Zirui Liu, Na Zou, Qifan Wang, Xia Hu <br>
 Under review, 2022
 
 <b>[Do We Really Achieve Fairness with Explicit Sensitive Atrributes?](??)
