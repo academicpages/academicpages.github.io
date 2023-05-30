@@ -12,7 +12,7 @@ redirect_from:
 
 
 I am a Senior Lecturer at the Shenzhen MSU-BIT University in China.
-<br></br>
+<br>
 
 
 Positions
@@ -22,7 +22,8 @@ Positions
 
 <li>  2020.04-2023.01: Postdoc, Technische Universität Dresden, Germany </li> 
   
-<br></br>
+<br>
+
 
 Education
 ======
@@ -36,7 +37,7 @@ Education
 
 
 
-<br></br>
+<br>
 Research Interests
 ======
 
