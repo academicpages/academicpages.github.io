@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Yongming Luo 骆泳铭"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yongming Luo"
+  #name             : "Yongming Luo 骆泳铭"
   avatar           : "电子照片reduced.jpg"
   # bio              : "Your biography for the left-hand sidebar"
   # location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.de/citations?user=eHBJFsEAAAAJ&hl=en"
   email            : "luo.yongming@smbu.edu.cn"
-  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Yongming-Luo-2"
   uri              :
   bitbucket        :
   codepen          :
