@@ -10,7 +10,7 @@ authors:
     url: "https://gstoledo.github.io/"
   - firstname: "Fernando"
     lastname: "Lopes"
-  - firstname: "Angelo"
+  - firstname: "Ângelo"
     lastname: "Mendes"
 keywords: "over-the-counter, liquidity, learning by holding, opaqueness"
 venue: "Working Paper"
