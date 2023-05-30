@@ -8,7 +8,6 @@ author_profile: true
 <br></br>
 
 <h2>Preprints and articles</h2>
-===================
 <ul>
 
 <li>Almost sure scattering for the defocusing cubic nonlinear Schrödinger equation on R3T1. <a href="https://arxiv.org/abs/2304.12914">[arxiv: 2304.12914]</a>.</li>
