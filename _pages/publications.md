@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<br></br>
+<br>
 
 <h2>Preprints and articles</h2>
 <ul>
