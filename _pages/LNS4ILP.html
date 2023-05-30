@@ -61,13 +61,15 @@ redirect_from:
       <div class="container is-max-desktop">
         <div class="columns is-centered">
           <div class="column has-text-centered">
-            <h1 class="title is-1 publication-title">Academic Project Page</h1>
+            <h1 class="title is-1 publication-title">Searching Large Neighborhoods for Integer Linear Programs</h1>
             <div class="is-size-5 publication-authors">
               <!-- Paper authors -->
               <span class="author-block">
-                <a href="https://taoanhuang.github.io/" target="_blank">Taoan Huang</a><sup>*</sup>,</span>
+                <a href="https://taoanhuang.github.io/" target="_blank">Taoan Huang</a>
+                </span>
                 <span class="author-block">
-                  <a href="https://aaron-ferber.github.io/" target="_blank">Aaron Ferber</a><sup>*</sup>,</span>
+                  <a href="https://aaron-ferber.github.io/" target="_blank">Aaron Ferber</a>
+                </span>
                 <span class="author-block">
                     <a href="https://yuandong-tian.com/" target="_blank">Yuandong Tian</a>
                   </span>
@@ -79,16 +81,18 @@ redirect_from:
                   </span>
                   </div>
 
+                  <!--
                   <div class="is-size-5 publication-authors">
                     <span class="author-block">Institution Name<br>Conferance name and year</span>
                     <span class="eql-cntrb"><small><br><sup>*</sup>Indicates Equal Contribution</small></span>
                   </div>
+                    -->
 
                   <div class="column has-text-centered">
                     <div class="publication-links">
                          <!-- Arxiv PDF link -->
                       <span class="link-block">
-                        <a href="https://arxiv.org/pdf/<ARXIV PAPER ID>.pdf" target="_blank"
+                        <a href="https://arxiv.org/pdf/2302.01578.pdf" target="_blank"
                         class="external-link button is-normal is-rounded is-dark">
                         <span class="icon">
                           <i class="fas fa-file-pdf"></i>
@@ -163,7 +167,11 @@ redirect_from:
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ullamcorper tellus sed ante aliquam tempus. Etiam porttitor urna feugiat nibh elementum, et tempor dolor mattis. Donec accumsan enim augue, a vulputate nisi sodales sit amet. Proin bibendum ex eget mauris cursus euismod nec et nibh. Maecenas ac gravida ante, nec cursus dui. Vivamus purus nibh, placerat ac purus eget, sagittis vestibulum metus. Sed vestibulum bibendum lectus gravida commodo. Pellentesque auctor leo vitae sagittis suscipit.
+            Integer Linear Programs  (ILPs) are powerful tools for modeling and solving a large number of combinatorial optimization problems. Recently, it has been shown that Large Neighborhood Search (LNS), as a heuristic algorithm, can find high quality solutions to ILPs faster than Branch and Bound. However, how to find the right heuristics to maximize the performance of LNS remains an open problem. 
+            
+In this work, we first focus on designing effective and efficient heuristics in LNS for integer linear programs. Local Branching (LB) is a heuristic that selects the neighborhood that leads to the largest improvement over the current solution in each iteration of LNS. LB is often slow since it needs to solve an ILP of the same size as input. Our proposed heuristics, LB-RELAX and its variants, use the linear programming relaxation of LB to select neighborhoods. Empirically, they compute as effective neighborhoods as LB but run faster. 
+            
+We also propose a novel machine learning-based approach, CL-LNS, that delivers state-of-the-art anytime performance on several ILP benchmarks measured by metrics including the primal gap, the primal integral, survival rates and the best performing rate. Specifically, CL-LNS collects positive and negative solution samples from an expert heuristic that is slow to compute and learns a more efficient one with contrastive learning. We use graph attention networks and a richer set of features to further improve its performance. 
           </p>
         </div>
       </div>
