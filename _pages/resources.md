@@ -44,6 +44,6 @@ __AI conference websites__:
 [Academic Countdown](http://uhh-lt.github.io/academic_countdown/)
 
 __Course websites__:    
-[Natural Language Processing CS-4650/7650 by Georgia Institute of Technology](https://www.cc.gatech.edu/classes/AY2020/cs7650_spring/#info).   
-[Natural Language Processing CSE354 by Stony Brook University](https://www3.cs.stonybrook.edu/~has/CSE354/Slides/)
-[Information Retrieval and Web Search CS 276/LING 286 by Stanford University](https://web.stanford.edu/class/cs276/)
+[Natural Language Processing CS-4650/7650 by Georgia Institute of Technology](https://www.cc.gatech.edu/classes/AY2020/cs7650_spring/#info)   
+[Natural Language Processing CSE354 by Stony Brook University](https://www3.cs.stonybrook.edu/~has/CSE354/Slides/)   
+[Information Retrieval and Web Search CS 276/LING 286 by Stanford University](https://web.stanford.edu/class/cs276/)   
