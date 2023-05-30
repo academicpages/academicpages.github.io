@@ -80,8 +80,7 @@ analytics:
 
 # Site Author
 author:
-  名字              : " 骆泳铭 "
-  name             : " Yongming Luo "
+  #name             : " 骆泳铭 Yongming Luo "
   avatar           : "电子照片reduced.jpg"
   # bio              : "Your biography for the left-hand sidebar"
   # location         : "Location"
