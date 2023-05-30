@@ -32,14 +32,13 @@ Education
 
 <li>  M.Sc. Mathematics, Technische Universität München, 2014</li> 
 
-<li>  B.Sc. Mathematics, Technische Universität München, 2011 </li> 
-  
+<li>  B.Sc. Mathematics, Technische Universität München, 2011</li> 
+
+<br>  
 
 
-
-<br>
 Research Interests
-======
+=============
 
 <li>  Mathematical problems arising from material science</li> 
 
