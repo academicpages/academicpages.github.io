@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can find my latest CV [here](https://www.overleaf.com/read/zsbdrggfppfw).
+You can find my latest CV on Overleaf [here](https://www.overleaf.com/read/zsbdrggfppfw).
 
 ![](/images/morrison.jpg)
 
