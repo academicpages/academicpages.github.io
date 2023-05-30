@@ -60,5 +60,8 @@
       <p>Recommended citation: {{ post.citation }} </p>
     {% endif %}
 
+    {% if post.paperurl %}
+      <p><a href=" {{ post.paperurl }} "><button class="btn"><i class="fa fa-download"></i> Download</button></a></p>
+    {% endif %}
   </article>
 </div>
