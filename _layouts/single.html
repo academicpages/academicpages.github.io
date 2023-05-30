@@ -59,9 +59,6 @@ layout: default
                 ({{ page.date | date: "%Y" }}) 
             {% endif %}
             </p>
-            {% if page.keywords %}
-            <p>Keywords: <i>{{ page.keywords }}</i></p>
-            {% endif %}
           </citation>
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
@@ -76,6 +73,9 @@ layout: default
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
        <br>
+       {% if page.keywords %}
+        <p>Keywords: <i>{{ page.keywords }}</i></p>
+        {% endif %}                                                                                                                                     
         {% if page.paperurl %}
           <p><a href=" {{ page.paperurl }} "><button class="btn"><i class="fa fa-download"></i> Download</button></a></p>
         {% endif %}
