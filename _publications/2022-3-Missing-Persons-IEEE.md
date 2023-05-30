@@ -11,7 +11,8 @@ website-separation-category: 'c1'
 
 
 # paperurl: 'https://ieeexplore.ieee.org/abstract/document/9789290' 
-pdf: 'https://ieeexplore.ieee.org/abstract/document/9789290' 
+pdf: 'files/publications/ieee-computer-2022.pdf' 
+#'https://ieeexplore.ieee.org/abstract/document/9789290' 
 
 
 link: 'https://www.computer.org/csdl/magazine/co/2022/06/09789290/1DZ8bvipo9W'
