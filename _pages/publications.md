@@ -7,7 +7,7 @@ author_profile: true
 
 Preprints and articles
 ===================
-<li>Almost sure scattering for the defocusing cubic nonlinear Schrödinger equation on R3T1. <a href="https://arxiv.org/abs/2304.12914", class="class2">[arxiv: 2304.12914]</a></li>
+<li>Almost sure scattering for the defocusing cubic nonlinear Schrödinger equation on R3T1. [arxiv: 2304.12914](https://arxiv.org/abs/2304.12914)
 
 <li>Efficient uncertainty quantification for mechanical properties of randomly perturbed elastic rods, with P. Dondl, S. Neukamm and S. Wolff-Vorbeck. <a href="https://arxiv.org/abs/2304.08785", class="class2">[arxiv: 2304.08785]</a></li>
 
