@@ -22,7 +22,7 @@ author_profile: true
 
 <li>Sharp scattering for focusing intercritical NLS on high-dimensional waveguide manifolds, to appear in <b>Math. Ann.</b> <a href="https://link.springer.com/article/10.1007/s00208-023-02636-4">Article</a>. <a href="https://arxiv.org/abs/2212.10908">[arxiv: 2212.10908]</a>. </li>
 
-<li>On long time behavior of the focusing energy-critical NLS on RdT1 via semivirial-vanishing geometry, to appear in <b>J. Math. Pures Appl</b>.  <a href="https://arxiv.org/abs/2206.07346">[arxiv: 2206.07346]</a>. </li>
+<li>On long time behavior of the focusing energy-critical NLS on RdT1 via semivirial-vanishing geometry, to appear in <b>J. Math. Pures Appl.</b>  <a href="https://arxiv.org/abs/2206.07346">[arxiv: 2206.07346]</a>. </li>
 
 <li>On the sharp scattering threshold for the mass–energy double critical nonlinear Schrödinger equation via double track profile decomposition, to appear in <b>Ann. Inst. H. Poincaré C Anal. Non Linéaire</b>. <a href="https://ems.press/journals/aihpc/articles/9019654">Article</a>. <a href="https://arxiv.org/abs/2108.00915">[arxiv: 2108.00915]</a>. </li>
 
