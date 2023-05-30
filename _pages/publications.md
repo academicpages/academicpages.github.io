@@ -36,6 +36,7 @@ author_profile: true
 Permanant Notes
 ==================
 
+
 <li> Large data global well-posedness and scattering for the focusing cubic nonlinear Schrödinger equation on R2T1. <a href="https://arxiv.org/abs/2202.10219", class="class2">[arxiv: 2202.10219]</a></li>
 
 <li> Normalized ground states for 3D dipolar Bose-Einstein condensate with attractive three-body interactions, with A. Stylianou. <a href="https://arxiv.org/abs/2202.09801", class="class2">[arxiv: 2202.09801]</a></li>
