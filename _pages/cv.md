@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,16 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+# Curriculum Vitae
 
-Education
-======
+## Education
+
 * PhD, Computer Science and Applications, Virginia Tech, 2020
 * MSc, Electrical and Computer engineering, Ferdowsi University, 2012
 * BSc, Electrical and Computer engineering, Shahid Beheshti University 2008
 
 
-Work experience
-======
+## Work experience
+
 * 2021-2022 : Postdoctoral Associate, Virginia Tech
     * Physics-informed machine learning for forward and inverse problems. 
 * 2019: Internship, Toyota Racing Development
@@ -26,25 +27,25 @@ Work experience
 
   
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
+## Publications
+
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
+## Talks
+
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
+## Teaching
+
+  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Skills
+<!-- Skills
 ======
 * Data analytics: 
     * Python: (NumPy, SciPy, Scikit-learn, Tensorflow, PyTorch, Pandas, StatsModels)
@@ -52,10 +53,10 @@ Skills
 * Simulation, forward and inverse problems and sensitivity analysis:
     * Matlab (Optimization, Symbolic, Deep learning, PDE)
 * High performance computing: C(OpenMP, MPI)
-* Algebra: Mathematica
+* Algebra: Mathematica -->
 
-Service and leadership
-======
+## Service and leadership
+
 * Peer Reviews:
     * SIAM Journal on Scientific Computing (SISC) ISSN: 10957197”
     * “International Journal of Computer Mathematics ISSN: 1029-0265”

@@ -19,8 +19,8 @@ main:
   - title: "Software"
     url: /software
   
-  - title:  "CSML Lab"
-    url: /lab/
+  # - title:  "CSML Lab"
+  #   url: /lab/
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
