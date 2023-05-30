@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "<h2>Publications</h2>"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
 <br></br>
 
-Preprints and articles
+<h2>Preprints and articles</h2>
 ===================
 <ul>
 
@@ -40,8 +40,8 @@ Preprints and articles
 
 <br>
 
-Permanant Notes
-==================
+<h2>Permanant Notes</h2>
+
 
 <ul>
 
