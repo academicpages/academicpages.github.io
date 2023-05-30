@@ -42,20 +42,6 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           <p><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
-            {% if post.authors %}
-              {% for author in post.authors %}
-                {% if author.firstname == site.author.firstname %}
-                  {% if author.lastname == site.author.lastname %}
-                  <a href = "{{ base_path }}" style = "font-weight: normal; text-decoration: none"><b> {{ author.lastname }}, {{ author.firstname }}</b>;</a>
-                  {% endif %}
-                {% else %}
-                  {% if author.url %}
-                  <a href = "{{ author.url }}"" style = "font-weight: normal; color: black">{{ author.lastname }}, {{ author.firstname }};</a>
-                  {% else %}
-                  {{ author.lastname }}, {{ author.firstname }};
-                  {% endif %}
-                {% endif %}
-              {% endfor %}
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     
