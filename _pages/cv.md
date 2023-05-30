@@ -2,13 +2,13 @@
 layout: archive
 title: ""
 permalink: /cv/
-author_profile: false
+author_profile: true
 redirect_from:
   - /resume
 ---
 
 Positions
-======
+==================
 
 <li>2023.03-Present: Senior lecturer, Shenzhen MSU-BIT University, China</li> 
 
