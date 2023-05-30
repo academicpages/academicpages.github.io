@@ -20,13 +20,13 @@ author_profile: true
 
 <li>Normalized ground states and threshold scattering for focusing NLS on RdT1 via semivirial-free geometry. <a href="https://arxiv.org/abs/2205.04969">[arxiv: 2205.04969]</a>. </li>
 
-<li>Sharp scattering for focusing intercritical NLS on high-dimensional waveguide manifolds, to appear in <b>Math. Ann.</b> <a href="https://link.springer.com/article/10.1007/s00208-023-02636-4">Article</a>. <a href="https://arxiv.org/abs/2212.10908">[arxiv: 2212.10908]</a>. </li>
+<li>Sharp scattering for focusing intercritical NLS on high-dimensional waveguide manifolds, to appear in <b>Math. Ann</b>. <a href="https://link.springer.com/article/10.1007/s00208-023-02636-4">Article</a>. <a href="https://arxiv.org/abs/2212.10908">[arxiv: 2212.10908]</a>. </li>
 
 <li>On long time behavior of the focusing energy-critical NLS on RdT1 via semivirial-vanishing geometry, to appear in <b>J. Math. Pures Appl</b>.  <a href="https://arxiv.org/abs/2206.07346">[arxiv: 2206.07346]</a>. </li>
 
 <li>On the sharp scattering threshold for the mass–energy double critical nonlinear Schrödinger equation via double track profile decomposition, to appear in <b>Ann. Inst. H. Poincaré C Anal. Non Linéaire</b>. <a href="https://ems.press/journals/aihpc/articles/9019654">Article</a>. <a href="https://arxiv.org/abs/2108.00915">[arxiv: 2108.00915]</a>. </li>
 
-<li>Sharp scattering threshold for the cubic-quintic NLS in the focusing-focusing regime, <b>J. Funct. Anal.</b> 283 (2022), no. 1, Paper No. 109489, 34 pp. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022123622001094?via%3Dihub">Article</a>. <a href="https://arxiv.org/abs/2105.15091">[arxiv: 2105.15091]</a>. </li>
+<li>Sharp scattering threshold for the cubic-quintic NLS in the focusing-focusing regime, <b>J. Funct. Anal</b>. 283 (2022), no. 1, Paper No. 109489, 34 pp. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022123622001094?via%3Dihub">Article</a>. <a href="https://arxiv.org/abs/2105.15091">[arxiv: 2105.15091]</a>. </li>
 
 <li>On the local in time well-posedness of an elliptic–parabolic ferroelectric phase-field model, <b>Nonlinear Anal. Real World Appl.</b> 65 (2022), Paper No. 103462, 30 pp. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1468121821001711">Article</a>. <a href="https://arxiv.org/abs/2011.00085">[arxiv: 2011.00085]</a>. </li>
 
