@@ -14,11 +14,11 @@ Preprints and articles
 
 <li>On well-posedness results for the cubic-quintic NLS on T3, with X. Yu, H. Yue, Z. Zhao. <a href="https://arxiv.org/abs/2301.13433">[arxiv: 2301.13433]</a>. </li>
 
-<li>On existence and stability results for normalized ground states of mass-subcritical biharmonic NLS on RdTn, with H. Hajaiej and L. Song. <a href="https://arxiv.org/abs/2212.00750", class="class2">[arxiv: 2212.00750]</a>. </li>
+<li>On existence and stability results for normalized ground states of mass-subcritical biharmonic NLS on RdTn, with H. Hajaiej and L. Song. <a href="https://arxiv.org/abs/2212.00750">[arxiv: 2212.00750]</a>. </li>
 
 <li>Normalized ground states and threshold scattering for focusing NLS on RdT1 via semivirial-free geometry. <a href="https://arxiv.org/abs/2205.04969">[arxiv: 2205.04969]</a>. </li>
 
-<li>Sharp scattering for focusing intercritical NLS on high-dimensional waveguide manifolds, to appear in <b>Math. Ann.</b> <a href="https://link.springer.com/article/10.1007/s00208-023-02636-4">Article</a>. <a href="https://arxiv.org/abs/2212.10908", class="class2">[arxiv: 2212.10908]</a>. </li>
+<li>Sharp scattering for focusing intercritical NLS on high-dimensional waveguide manifolds, to appear in <b>Math. Ann.</b> <a href="https://link.springer.com/article/10.1007/s00208-023-02636-4">Article</a>. <a href="https://arxiv.org/abs/2212.10908">[arxiv: 2212.10908]</a>. </li>
 
 <li>On long time behavior of the focusing energy-critical NLS on RdT1 via semivirial-vanishing geometry, to appear in <b>J. Math. Pures Appl</b>.  <a href="https://arxiv.org/abs/2206.07346">[arxiv: 2206.07346]</a>. </li>
 
