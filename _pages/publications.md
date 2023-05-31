@@ -55,7 +55,7 @@ author_profile: true
 
 <br>
 <br>
-<h1>Domestic Conferences (11)</h1>
+<h1>Domestic Conferences (13)</h1>
 ------
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'domestic_conference' %}
