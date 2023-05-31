@@ -33,8 +33,8 @@ Selected Papers
   <dd><strong>Yixin Liu</strong>, Kaize Ding, Jianling Wang, Vincent Lee, Huan Liu, Shirui Pan</dd>
   <dd> ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2023</dd>
   <dd>
-    <a href="https://arxiv.org">[Paper]</a> 
-    <a href="https://github.com">[Code]</a>
+    <a href="[https://arxiv.org](https://arxiv.org/pdf/2305.18457.pdf)">[Paper]</a> 
+    <a href="[https://github.com](https://github.com/yixinliu233/D2PT)">[Code]</a>
   </dd>
 </dl>
 
