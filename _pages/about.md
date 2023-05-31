@@ -11,8 +11,6 @@ redirect_from:
 I am a Ph.D. candidate of computer science at Purdue University working under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/). My research interests broadly lie in the area of mobile computing and mobile security.
 I specifically focus on designing and building innovative and secure mobile sensing systems through applying security, machine learning and computer vision algorithms. 
 
-<span style="color:red">**I am on the job market for positions in Fall 2023!**</span>
-
 <!-- Before coming to Purdue, I received my bachelor's degree from [LUMS School of Science and Engineering (SBASSE)](https://sbasse.lums.edu.pk/department/computer-science). -->
 
 
@@ -48,7 +46,7 @@ Publications
 			<br/>
 			<b>Habiba Farrukh</b>, Reham Mohamed, Aniket Nare, Antonio Bianchi, Z. Berkay Celik
 			<br/>
-			USENIX Security Symposium (Usenix SEC '23)
+			USENIX Security Symposium 2023
 			<br/>
 	</li>
 </ul>
@@ -95,7 +93,7 @@ Publications
 			<br/>
 		Abdullah Imran, <b>Habiba Farrukh</b>, Muhammad Ibrahim, Z. Berkay Celik, Antonio Bianchi
 			<br/>
-			USENIX Security Symposium (Usenix SEC '22) <a href="/files/SARA.pdf">[Paper]</a>
+			USENIX Security Symposium 2022 <a href="/files/SARA.pdf">[Paper]</a>
 			<br/>
 	</li>
 </ul>
@@ -177,6 +175,9 @@ Professional Activity
 			</li>
 			<li>
 				Network and Distributed System Security Symposium (NDSS), 2024
+			</li>
+			<li>
+				IEEE INFOCOM, 2024
 			</li>
 			<li>
 				USENIX Security Symposium, 2023
