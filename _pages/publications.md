@@ -3,6 +3,11 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Tutorial(s)
+* **Explainable Information Retrieval** <br>
+ Avishek Anand, Procheta Sen, **Sourav Saha**, Manisha Verma, Mandar Mitra <br>
+ <em> In ACM Special Interest Group on Information Retrieval, SIGIR 2023. (to appear) </em>
+
 ## Conferences
 
 * **Measuring and Comparing the Consistency of IR Models for Query Pairs with Similar and Different Information Needs.** <br>
