@@ -38,7 +38,7 @@ author_profile: true
 <h2>Permanant Notes</h2>
 
 
-<ul>
+<ul><font size="3">
 
 <li> Large data global well-posedness and scattering for the focusing cubic nonlinear Schrödinger equation on R2T1. <a href="https://arxiv.org/abs/2202.10219">[arxiv: 2202.10219]</a>. </li>
 
@@ -46,5 +46,5 @@ author_profile: true
 
 <li> Scattering threshold for radial defocusing-focusing mass-energy double critical nonlinear Schrödinger equation in d≥5. <a href="https://arxiv.org/abs/2106.06993">[arxiv: 2106.06993]</a>. </li>
 
-</ul>
+</font></ul>
 
