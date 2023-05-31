@@ -7,7 +7,7 @@ author_profile: true
  # - /resume
 ---
 
-<h2><em>Positions</em></h2>
+<h2><font face="逐浪圆体">Positions</font></h2>
 
 <ul><font size="3">
 
@@ -17,7 +17,7 @@ author_profile: true
  </font></ul>
  
 
-<h2><em>Education</em></h2>
+<h2>Education</h2>
 
 <ul><font size="3">
 
@@ -29,7 +29,7 @@ author_profile: true
 </font></ul>
 
 
-<h2><em>Research Interests</em></h2>
+<h2>Research Interests</h2>
 
 <ul><font size="3">
 
