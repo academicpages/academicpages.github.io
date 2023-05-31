@@ -27,7 +27,7 @@ Yu Zheng, Ming Jin, **Yixin Liu**, Lianhua Chi, Khoa T Phan, Shirui Pan, and Yi-
 
 ## Conference
 -----
-* Learning Strong Graph Neural Networks with Weak Information \[[PDF]()\] \[[Code]()\]  
+* Learning Strong Graph Neural Networks with Weak Information \[[PDF](https://arxiv.org/pdf/2305.18457.pdf)\] \[[Code](https://github.com/yixinliu233/D2PT)\]  
 **Yixin Liu**, Kaize Ding, Jianling Wang, Vincent CS Lee, Huan Liu, Shirui Pan.  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023. 
 <!-- (<span style="color:black">*CORE A\*, 22.0% acceptance rate*</span>) -->
