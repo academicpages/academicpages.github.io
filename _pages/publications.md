@@ -98,7 +98,6 @@ Rajan, Sai Sathiesh, **Ezekiel Soremekun**, Yves Le Traon, Sudipta Chattopadhyay
 
 * **"Input Repair via Synthesis and Lightweight Error Feedback."** 
 Kirschner, Lukas, Rahul Gopinath, **Ezekiel Soremekun**, and Andreas Zeller. 
-arXiv preprint arXiv:2208.08235 (2022).
 (Under Review)
 [preprint](https://arxiv.org/pdf/2208.08235)
 
