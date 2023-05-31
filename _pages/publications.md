@@ -91,6 +91,11 @@ In 2017 32nd IEEE/ACM International Conference on Automated Software Engineering
 Papers Under Review
 -------------------
 
+* **"Distribution-aware Fairness Test Generation."**
+Rajan, Sai Sathiesh, **Ezekiel Soremekun**, Yves Le Traon, Sudipta Chattopadhyay. 
+[preprint](https://arxiv.org/pdf/2305.13935)
+(Under Review)
+
 * **"Input Repair via Synthesis and Lightweight Error Feedback."** 
 Kirschner, Lukas, Rahul Gopinath, **Ezekiel Soremekun**, and Andreas Zeller. 
 arXiv preprint arXiv:2208.08235 (2022).
@@ -99,7 +104,9 @@ arXiv preprint arXiv:2208.08235 (2022).
 
 * **"Software Fairness: An Analysis and Survey."**
 **Soremekun, Ezekiel**, Mike Papadakis, Maxime Cordy, and Yves Le Traon.
-ACM Cmputing Survey (CSUR) 2022.  (Under Review)
+#ACM Cmputing Survey (CSUR) 2022.  
+(Under Review)
+[preprint](https://arxiv.org/pdf/2205.08809)
 [Github - Preprint and Data](https://github.com/ezekiel-soremekun/Software-Fairness-Analysis)
 
 
