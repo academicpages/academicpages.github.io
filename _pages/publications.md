@@ -32,7 +32,7 @@ author_profile: true
 
 <li>Ground states for a nonlocal mixed order cubic-quartic Gross-Pitaevskii equation, with A. Stylianou. <b>J. Math. Anal. Appl.</b> 496 (2021), no. 1, Paper No. 124802, 20 pp. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022247X20309653">Article</a>. <a href="https://arxiv.org/abs/1806.00697">[arxiv: 1806.00697]</a>. </li>
 
-</h4></ul>
+</ul>
 
 
 <h2>Permanant Notes</h2>
