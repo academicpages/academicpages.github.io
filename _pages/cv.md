@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -7,7 +7,7 @@ author_profile: true
  # - /resume
 ---
 
-<h2><font face="逐浪圆体">Positions</font></h2>
+<h2>Positions</h2>
 
 <ul><font size="3">
 
