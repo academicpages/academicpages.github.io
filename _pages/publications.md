@@ -6,7 +6,7 @@ author_profile: true
 ## Tutorial(s)
 * **Explainable Information Retrieval** <br>
  Avishek Anand, Procheta Sen, **Sourav Saha**, Manisha Verma, Mandar Mitra <br>
- <em> In ACM Special Interest Group on Information Retrieval, SIGIR 2023. (to appear) </em>
+ <em> In International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2023. (to appear) </em>
 
 ## Conferences
 
