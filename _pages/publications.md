@@ -5,10 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-I provide a few collections of my research, grouped by key topics of interest. If you find that you cannot access an article that you want, please feel free to contact me.
+I provide a few subcollections of my research, grouped by key topics of interest. If you find that you cannot access an article that you want, please feel free to contact me.
 
 ## Asian American Health
 1. Ponce NA, Adia AC, Banawa RA, Tan S, Sabado-Liwag MD. Measuring Asian hate: Discordant reporting of race-based hate incidents and unfair treatment and association with measures of wellbeing. Front Public Health. 2022 Oct 10;10:958857. doi: 10.3389/fpubh.2022.958857. PMID: 36299752; PMCID: PMC9589279.
+1. Jiang JJ, Adia AC, Nazareno J, Operario D, Ponce NA, Shireman TI. The Association Between Moderate and Serious Mental Health Distress and General Health Services Utilization Among Chinese, Filipino, Japanese, Korean, and Vietnamese Adults in California. J Racial Ethn Health Disparities. 2022 Feb;9(1):227-235. doi: 10.1007/s40615-020-00946-w. Epub 2021 Jan 15. PMID: 33452574.
 1. Shireman TI, Adia AC, Tan Y, Zhu L, Rhee J, Ogunwobi OO, Ma GX. Online versus in-person training of community health workers to enhance hepatitis B virus screening among Korean Americans: Evaluating cost & outcomes. Prev Med Rep. 2020 May 28;19:101131. doi: 10.1016/j.pmedr.2020.101131. PMID: 32518742; PMCID: PMC7272502.
 1. Adia AC, Nazareno J, Operario D, Ponce NA. Health Conditions, Outcomes, and Service Access Among Filipino, Vietnamese, Chinese, Japanese, and Korean Adults in California, 2011-2017. Am J Public Health. 2020 Apr;110(4):520-526. doi: 10.2105/AJPH.2019.305523. Epub 2020 Feb 20. PMID: 32078359; PMCID: PMC7067106.
 
