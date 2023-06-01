@@ -55,7 +55,7 @@ Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mat
 <ul><font size="3">
 
 <li style="list-style-type: decimal;">Y. Luo<br>
-<em>Almost sure scattering for the defocusing cubic nonlinear Schrödinger equation on $\mathbb{R}$ R3T1.</em> <br>
+<em>Almost sure scattering for the defocusing cubic nonlinear Schrödinger equation on $\mathbb{R}^3\times\mathbb{T}$.</em> <br>
 <a href="https://arxiv.org/abs/2304.12914">[arxiv: 2304.12914]</a></li>
 
 <li style="list-style-type: decimal;">P. Dondl, Y. Luo, S. Neukamm and S. Wolff-Vorbeck<br>
@@ -63,15 +63,15 @@ Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mat
 <a href="https://arxiv.org/abs/2304.08785">[arxiv: 2304.08785]</a> </li> 
 
 <li style="list-style-type: decimal;">Y. Luo, X. Yu, H. Yue and Z. Zhao<br>
-<em>On well-posedness results for the cubic-quintic NLS on T3.</em><br>
+<em>On well-posedness results for the cubic-quintic NLS on $\mathbb{T}^3$.</em><br>
 <a href="https://arxiv.org/abs/2301.13433">[arxiv: 2301.13433]</a> </li>
 
 <li style="list-style-type: decimal;">H. Hajaiej, Y. Luo and L. Song<br>
-  <em>On existence and stability results for normalized ground states of mass-subcritical biharmonic NLS on RdTn.</em><br>
+  <em>On existence and stability results for normalized ground states of mass-subcritical biharmonic NLS on $\mathbb{R}^d\times\mathbb{T}^n$.</em><br>
   <a href="https://arxiv.org/abs/2212.00750">[arxiv: 2212.00750]</a> </li>
 
 <li style="list-style-type: decimal;">Y. Luo<br>
- <em>Normalized ground states and threshold scattering for focusing NLS on RdT1 via semivirial-free geometry.</em><br>
+ <em>Normalized ground states and threshold scattering for focusing NLS on $\mathbb{R}^d\times\mathbb{T}$ via semivirial-free geometry.</em><br>
   <a href="https://arxiv.org/abs/2205.04969">[arxiv: 2205.04969]</a> </li>
 
 <li style="list-style-type: decimal;">Y. Luo<br>
@@ -80,7 +80,7 @@ Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mat
 	<a href="https://arxiv.org/abs/2212.10908">[arxiv: 2212.10908]</a> </li>
 
 <li style="list-style-type: decimal;">Y. Luo<br>
-  <em>On long time behavior of the focusing energy-critical NLS on RdT1 via semivirial-vanishing geometry.</em><br>
+  <em>On long time behavior of the focusing energy-critical NLS on $\mathbb{R}^d\times\mathbb{T}$ via semivirial-vanishing geometry.</em><br>
   <b>J. Math. Pures Appl.</b>, accepted.<br>
 	<a href="https://arxiv.org/abs/2206.07346">[arxiv: 2206.07346]</a> </li>
 
@@ -115,7 +115,7 @@ Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mat
 
 
 <li style="list-style-type: decimal;">Y. Luo<br>
-  <em>Large data global well-posedness and scattering for the focusing cubic nonlinear Schrödinger equation on R2T1. </em><br>
+  <em>Large data global well-posedness and scattering for the focusing cubic nonlinear Schrödinger equation on $\mathbb{R}^2\times\mathbb{T}$. </em><br>
   <a href="https://arxiv.org/abs/2202.10219">[arxiv: 2202.10219]</a> </li>
 
 <li style="list-style-type: decimal;">Y. Luo and A. Stylianou<br>
@@ -123,7 +123,7 @@ Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mat
   <a href="https://arxiv.org/abs/2202.09801">[arxiv: 2202.09801]</a> </li>
 
 <li style="list-style-type: decimal;"> Y. Luo<br>
-  <em>Scattering threshold for radial defocusing-focusing mass-energy double critical nonlinear Schrödinger equation in d≥5. </em><br>
+  <em>Scattering threshold for radial defocusing-focusing mass-energy double critical nonlinear Schrödinger equation in $d\geq 5$. </em><br>
   <a href="https://arxiv.org/abs/2106.06993">[arxiv: 2106.06993]</a> </li>
 	</details>
 </font></ul></div>
