@@ -11,16 +11,18 @@ redirect_from:
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta name="description" content="website description">
+		<link rel="stylesheet" type="text/css" href="./style/style.css">
 		<title>Yongming Luo - Homepage</title>
-		<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"</script><script type="text/x-mathjax-config">
+		<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+		<script type="text/x-mathjax-config">
         MathJax.Hub.Config({
 	    tex2jax: {
 	        inlineMath: [['$','$'], ['\\(','\\)']],
 	        processEscapes: true
 	    }
 	});
-    </script>
-	</head>
+   </script>
+</head>
 
 <body>
 	<div>
