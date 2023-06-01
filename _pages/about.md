@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Homepage!"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<html>
+
 <head>
 	<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
     <script type="text/x-mathjax-config">
@@ -28,8 +28,8 @@ redirect_from:
 </head>
 
 
-<body>	
-<div>
+	
+
 <br>
 
 My name is Yongming Luo (骆泳铭). I am a mathematician specializing in partial differential equations and harmonic analysis.
@@ -138,9 +138,9 @@ Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mat
 	</details>
 </font></ul>
 	
-</div>
-</body>	
-</html>
+
+
+
 
 
 
