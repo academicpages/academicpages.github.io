@@ -98,9 +98,8 @@ Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mat
 	<a href="https://arxiv.org/abs/1806.00697">[arxiv: 1806.00697]</a>. </li>
   </font></ul>
   
-  <label class="drop" for="_1"><h2>Permanent notes [list]</h2></label><input id="_1" type="checkbox"> 
-	<div>
-		<ul> <font size="3">
+<label class="drop" for="_1"><h2>Permanent notes [list]</h2></label><input id="_1" type="checkbox"> 
+<div><ul><font size="3">
 
 <li style="list-style-type: decimal;">Y. Luo<br>
   <em>Large data global well-posedness and scattering for the focusing cubic nonlinear Schrödinger equation on R2T1. </em><br>
@@ -114,8 +113,7 @@ Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mat
   <em>Scattering threshold for radial defocusing-focusing mass-energy double critical nonlinear Schrödinger equation in d≥5. </em><br>
   <a href="https://arxiv.org/abs/2106.06993">[arxiv: 2106.06993]</a>. </li>
 
-		</font></ul>
-	</div>
+</font></ul></div>
 
 
  
