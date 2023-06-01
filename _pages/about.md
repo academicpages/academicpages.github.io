@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-  <html>
+
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta name="description" content="website description">
 		<link rel="stylesheet" type="text/css" href="./style/style.css">
-		<title>Yongming Luo - Homepage</title>
+		
 		<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 		<script type="text/x-mathjax-config">
         MathJax.Hub.Config({
@@ -24,7 +24,7 @@ redirect_from:
    </script>
 </head>
 
-<body>
+
 	<div>
 <br>
 
@@ -138,7 +138,7 @@ Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mat
 
 
 
-</body></html>
+
  
 
 
