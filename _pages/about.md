@@ -7,6 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+	    tex2jax: {
+	        inlineMath: [['$','$'], ['\\(','\\)']],
+	        processEscapes: true
+	    }
+	});
+    </script>
 
 
 <br>
@@ -40,12 +49,11 @@ Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mat
 <li>  B.Sc. Mathematics, Technische Universität München, 2011</li> 
 </font></ul>
 
-
 <h2>Preprints and articles</h2>
 <ul><font size="3">
 
 <li style="list-style-type: decimal;">Y. Luo<br>
-<em>Almost sure scattering for the defocusing cubic nonlinear Schrödinger equation on R3T1.</em> <br>
+<em>Almost sure scattering for the defocusing cubic nonlinear Schrödinger equation on $\mathbb{R}$ R3T1.</em> <br>
 <a href="https://arxiv.org/abs/2304.12914">[arxiv: 2304.12914]</a></li>
 
 <li style="list-style-type: decimal;">P. Dondl, Y. Luo, S. Neukamm and S. Wolff-Vorbeck<br>
