@@ -17,6 +17,8 @@ I obtained my Bachelor and Master degrees in Mathematics from the Technische Uni
 
 Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mathematics and Cybernetics of the Shenzhen MSU-BIT University in China. 
 
+<strong>Email</strong>: <a href="mailto:luo.yongming@smbu.edu.cn">luo.yongming@smbu.edu.cn</a>
+
 <h2>Positions</h2>
 
 <ul><font size="3">
