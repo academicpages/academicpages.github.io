@@ -29,7 +29,7 @@ Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mat
 
 <h2>Education</h2>
 
-<ul><font size="3">
+<div><ul><font size="3">
 
 <li>  Ph.D. Mathematics, Universität Kassel, 2019</li> 
 
