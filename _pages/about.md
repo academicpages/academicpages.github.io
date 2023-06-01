@@ -99,25 +99,17 @@ On well-posedness results for the cubic-quintic NLS on T3.<br>
   <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022247X20309653">Ground states for a nonlocal mixed order cubic-quartic Gross-Pitaevskii equation.</a><br> 
   <b><em>J. Math. Anal. Appl.</em></b> 496 (2021), no. 1, Paper No. 124802, 20 pp. <a href="https://arxiv.org/abs/1806.00697">[arxiv: 1806.00697]</a>. </li>
 
-  </font></ul>
-
-
-<h2>Permanant Notes</h2>
-
-
-<ul><font size="3">
-
 <li style="list-style-type: decimal;">Y. Luo<br>
   Large data global well-posedness and scattering for the focusing cubic nonlinear Schrödinger equation on R2T1. <br>
-  <a href="https://arxiv.org/abs/2202.10219">[arxiv: 2202.10219]</a>. </li>
+  Permanent note, <a href="https://arxiv.org/abs/2202.10219">[arxiv: 2202.10219]</a>. </li>
 
 <li style="list-style-type: decimal;">Y. Luo and A. Stylianou<br>
   Normalized ground states for 3D dipolar Bose-Einstein condensate with attractive three-body interactions, with A. Stylianou. <br>
-  <a href="https://arxiv.org/abs/2202.09801">[arxiv: 2202.09801]</a>. </li>
+  Permanent note, <a href="https://arxiv.org/abs/2202.09801">[arxiv: 2202.09801]</a>. </li>
 
 <li style="list-style-type: decimal;"> Y. Luo<br>
   Scattering threshold for radial defocusing-focusing mass-energy double critical nonlinear Schrödinger equation in d≥5. <br>
-  <a href="https://arxiv.org/abs/2106.06993">[arxiv: 2106.06993]</a>. </li>
+  Permanent note, <a href="https://arxiv.org/abs/2106.06993">[arxiv: 2106.06993]</a>. </li>
 
 </font></ul>
 
