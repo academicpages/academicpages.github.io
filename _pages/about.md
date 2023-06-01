@@ -29,32 +29,19 @@ redirect_from:
 
 My name is Yongming Luo (骆泳铭). I am a mathematician specializing in partial differential equations and harmonic analysis.
 
-I obtained my Bachelor and Master degrees in Mathematics from the Technische Universität München. I completed my Ph.D. thesis under the supervision of <a href="https://www.mathematik.uni-kassel.de/~dknees/">Prof. Dr. Dorothee Knees</a> at the Universität Kassel. After that, I worked as a PostDoc with <a href="https://tu-dresden.de/mn/math/wir/neukamm/die-professur/inhaber-in">Prof. Dr. Stefan Neukamm</a> at the Technische Universität Dresden.
+<ul>
+<li>I obtained my Bachelor and Master degrees in Mathematics from the Technische Universität München. </li>
+	
+<li>I completed my Ph.D. thesis under the supervision of <a href="https://www.mathematik.uni-kassel.de/~dknees/">Prof. Dr. Dorothee Knees</a> at the Universität Kassel.</li> 
 
-Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mathematics and Cybernetics of the Shenzhen MSU-BIT University in China. 
+<li>I worked as a PostDoc with <a href="https://tu-dresden.de/mn/math/wir/neukamm/die-professur/inhaber-in">Prof. Dr. Stefan Neukamm</a> at the Technische Universität Dresden.</li>
+
+<li>Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mathematics and Cybernetics of the Shenzhen MSU-BIT University in China.</li> 
+</ul>	
+
+<p>Here is my <a href="CV.pdf" class="class2", target="_blank">CV</a>.</p>
 
 <strong>Email</strong>: <a href="mailto:luo.yongming@smbu.edu.cn">luo.yongming@smbu.edu.cn</a>
-
-<h2>Positions</h2>
-
-<ul><font size="3">
-
-<li>2023.03-Present: Senior lecturer, Shenzhen MSU-BIT University, China</li> 
-
-<li>  2020.04-2023.01: Postdoc, Technische Universität Dresden, Germany </li> 
- </font></ul>
- 
-
-<h2>Education</h2>
-
-<ul><font size="3">
-
-<li>  Ph.D. Mathematics, Universität Kassel, 2019</li> 
-
-<li>  M.Sc. Mathematics, Technische Universität München, 2014</li> 
-
-<li>  B.Sc. Mathematics, Technische Universität München, 2011</li> 
-</font></ul>
 
 <h2>Preprints and articles</h2>
 <ul><font size="3">
