@@ -75,7 +75,7 @@ Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mat
   <a href="https://arxiv.org/abs/2205.04969">[arxiv: 2205.04969]</a> </li>
 
 <li style="list-style-type: decimal;">Y. Luo<br>
-  <a href="https://link.springer.com/article/10.1007/s00208-023-02636-4"><em>Sharp scattering for focusing intercritical NLS on high-dimensional waveguide manifolds</em></a>. <br> 
+  <em><a href="https://link.springer.com/article/10.1007/s00208-023-02636-4">Sharp scattering for focusing intercritical NLS on high-dimensional waveguide manifolds</a>.</em><br> 
   <b>Math. Ann.</b>, accepted. <br>
 	<a href="https://arxiv.org/abs/2212.10908">[arxiv: 2212.10908]</a> </li>
 
@@ -85,27 +85,27 @@ Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mat
 	<a href="https://arxiv.org/abs/2206.07346">[arxiv: 2206.07346]</a> </li>
 
 <li style="list-style-type: decimal;">Y. Luo<br>
-  <a href="https://ems.press/journals/aihpc/articles/9019654"><em>On the sharp scattering threshold for the mass–energy double critical nonlinear Schrödinger equation via double track profile decomposition.</em></a><br>
+  <em><a href="https://ems.press/journals/aihpc/articles/9019654">On the sharp scattering threshold for the mass–energy double critical nonlinear Schrödinger equation via double track profile decomposition</a>.</em><br>
   <b>Ann. Inst. H. Poincaré C Anal. Non Linéaire</b>, accepted.<br>
 	<a href="https://arxiv.org/abs/2108.00915">[arxiv: 2108.00915]</a> </li>
 
 <li style="list-style-type: decimal;">Y. Luo<br>
-  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022123622001094?via%3Dihub"><em>Sharp scattering threshold for the cubic-quintic NLS in the focusing-focusing regime.</em></a><br>
+  <em><a href="https://www.sciencedirect.com/science/article/abs/pii/S0022123622001094?via%3Dihub">Sharp scattering threshold for the cubic-quintic NLS in the focusing-focusing regime</a>.</em><br>
   <b>J. Funct. Anal.</b> 283 (2022), no. 1, Paper No. 109489, 34 pp. <br>
 	<a href="https://arxiv.org/abs/2105.15091">[arxiv: 2105.15091]</a> </li>
 
 <li style="list-style-type: decimal;">Y. Luo<br>
- <a href="https://www.sciencedirect.com/science/article/abs/pii/S1468121821001711"><em>On the local in time well-posedness of an elliptic–parabolic ferroelectric phase-field model.</em></a><br>
+ <em><a href="https://www.sciencedirect.com/science/article/abs/pii/S1468121821001711">On the local in time well-posedness of an elliptic–parabolic ferroelectric phase-field model</a>.</em><br>
   <b>Nonlinear Anal. Real World Appl.</b> 65 (2022), Paper No. 103462, 30 pp. <br>
 	<a href="https://arxiv.org/abs/2011.00085">[arxiv: 2011.00085]</a> </li>
 
 <li style="list-style-type: decimal;">Y. Luo and A. Stylianou<br>
- <a href="https://www.aimsciences.org/article/doi/10.3934/dcdsb.2020239"><em>On 3d dipolar Bose-Einstein condensates involving quantum fluctuations and three-body interactions.</em></a><br>
+ <em><a href="https://www.aimsciences.org/article/doi/10.3934/dcdsb.2020239">On 3d dipolar Bose-Einstein condensates involving quantum fluctuations and three-body interactions</a>.</em><br>
   <b>Discrete Contin. Dyn. Syst. Ser. B</b> 26 (2021), no. 6, 3455–3477. <br>
 	<a href="https://arxiv.org/abs/1902.05591">[arxiv: 1902.05591]</a> </li>
 
 <li style="list-style-type: decimal;">Y. Luo and A. Stylianou<br>
- <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022247X20309653"> <em>Ground states for a nonlocal mixed order cubic-quartic Gross-Pitaevskii equation.</em></a><br>
+ <em><a href="https://www.sciencedirect.com/science/article/abs/pii/S0022247X20309653"> Ground states for a nonlocal mixed order cubic-quartic Gross-Pitaevskii equation</a>.</em><br>
   <b>J. Math. Anal. Appl.</b> 496 (2021), no. 1, Paper No. 124802, 20 pp. <br>
 	<a href="https://arxiv.org/abs/1806.00697">[arxiv: 1806.00697]</a> </li>
 
