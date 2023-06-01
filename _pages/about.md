@@ -44,7 +44,7 @@ Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mat
 
 <li style="list-style-type: decimal;">Y. Luo<br>
 <em>Almost sure scattering for the defocusing cubic nonlinear Schrödinger equation on R3T1.</em> <br>
-<a href="https://arxiv.org/abs/2304.12914">[arxiv: 2304.12914]</a></em></li>
+<a href="https://arxiv.org/abs/2304.12914">[arxiv: 2304.12914]</a></li>
 
 <li style="list-style-type: decimal;">P. Dondl, Y. Luo, S. Neukamm and S. Wolff-Vorbeck<br>
 <em>Efficient uncertainty quantification for mechanical properties of randomly perturbed elastic rods.</em><br> 
