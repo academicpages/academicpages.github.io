@@ -96,10 +96,11 @@ Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mat
  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022247X20309653"> <em>Ground states for a nonlocal mixed order cubic-quartic Gross-Pitaevskii equation.</em></a><br>
   <b>J. Math. Anal. Appl.</b> 496 (2021), no. 1, Paper No. 124802, 20 pp. <br>
 	<a href="https://arxiv.org/abs/1806.00697">[arxiv: 1806.00697]</a> </li>
-  </font></ul>
-  
-<label class="drop" for="_1"><h2>Permanent notes [list]</h2></label><input id="_1" type="radio"> 
-<div><ul><font size="3">
+
+  <br>
+<details>
+	<summary>Permanent notes</summary>
+
 
 <li style="list-style-type: decimal;">Y. Luo<br>
   <em>Large data global well-posedness and scattering for the focusing cubic nonlinear Schrödinger equation on R2T1. </em><br>
@@ -112,8 +113,9 @@ Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mat
 <li style="list-style-type: decimal;"> Y. Luo<br>
   <em>Scattering threshold for radial defocusing-focusing mass-energy double critical nonlinear Schrödinger equation in d≥5. </em><br>
   <a href="https://arxiv.org/abs/2106.06993">[arxiv: 2106.06993]</a> </li>
-
+	</details>
 </font></ul></div>
+
 
 
 
