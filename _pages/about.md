@@ -9,23 +9,25 @@ redirect_from:
 ---
 
 	<head>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<meta name="description" content="website description">
-		<link rel="stylesheet" type="text/css" href="./style/style.css">
-		
-		<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-		<script type="text/x-mathjax-config">
+	<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+    <script type="text/x-mathjax-config">
         MathJax.Hub.Config({
 	    tex2jax: {
 	        inlineMath: [['$','$'], ['\\(','\\)']],
 	        processEscapes: true
 	    }
 	});
-   </script>
+    </script>
+    <meta name="description" content="website description">
+  
+	<meta name="keywords" content="website keywords, website keywords">
+  
+
+	<link rel="stylesheet" type="text/css" href="./style/style.css">
 </head>
 
 
-	<div>
+	
 <br>
 
 My name is Yongming Luo (骆泳铭). I am a mathematician specializing in partial differential equations and harmonic analysis.
@@ -58,7 +60,7 @@ Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mat
 </font></ul>
 
 <h2>Preprints and articles</h2>
-<ul><font size="3">
+<div><ul><font size="3">
 
 <li style="list-style-type: decimal;">Y. Luo<br>
 <em>Almost sure scattering for the defocusing cubic nonlinear Schrödinger equation on $\mathbb{R}^3\times\mathbb{T}$.</em> <br>
@@ -134,7 +136,7 @@ Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mat
 	</details>
 </font></ul>
 	
-	</div>
+</div>
 
 
 
