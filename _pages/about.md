@@ -39,7 +39,7 @@ My name is Yongming Luo (骆泳铭). I am a mathematician specializing in partia
 <li>Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mathematics and Cybernetics of the Shenzhen MSU-BIT University in China.</li> 
 </ul>	
 
-<p>Here is my <a href="https://yongmingluo.github.io/CV.pdf" class="class2", target="_blank">CV</a>.</p>
+Here is my <a href="https://yongmingluo.github.io/CV.pdf">CV</a>.
 
 <strong>Email</strong>: <a href="mailto:luo.yongming@smbu.edu.cn">luo.yongming@smbu.edu.cn</a>
 
