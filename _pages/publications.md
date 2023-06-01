@@ -15,24 +15,35 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-# Publications
+# Selected Publications
+### *PlaSma: Making Small Language Models Better Procedural Knowledge Models for (Counterfactual) Planning*
+Faeze Brahman, Chandra Bhagavatula, <ins>Valentina Pyatkin</ins>, Jena D. Hwang, Xiang Lorraine Li, Hirona J. Arai, Soumya Sanyal, Keisuke Sakaguchi, Xiang Ren, Yejin Choi.
+[ArXiV](https://arxiv.org/abs/2305.19472)
+
+### *Retrieving Texts based on Abstract Descriptions*
+Shauli Ravfogel, <ins>Valentina Pyatkin</ins>, Amir DN Cohen, Avshalom Manevich, Yoav Goldberg.
+[ArXiV](https://arxiv.org/pdf/2305.12517.pdf)
 
 ### *Design Choices for Crowdsourcing Implicit Discourse Relations: Revealing the Biases Introduced by Task Design*
 <ins>Valentina Pyatkin</ins>, Frances Yung, Merel C.J. Scholman, Reut Tsarfaty, Ido Dagan, Vera Demberg. In TACL.
-[TACL](https://arxiv.org/abs/2304.00815)
+[PDF](https://arxiv.org/abs/2304.00815)
 
 ### *Reinforced Clarification Question Generation with Defeasibility Rewards for Disambiguating Social and Moral Situations*
 <ins>Valentina Pyatkin</ins>, Jena D. Hwang, Vivek Srikumar, Ximing Lu, Liwei Jiang, Yejin Choi and Chandra Bhagavatula. In ACL.
-[ArXiv](https://arxiv.org/pdf/2212.10409.pdf)
+[PDF](https://arxiv.org/pdf/2212.10409.pdf)
+
+### *Revisiting Sentence Union Generation as a Testbed for Text Consolidation*
+Eran Hirsch, <ins>Valentina Pyatkin</ins>, Ruben Wolhandler, Avi Caciularu, Asi Shefer, Ido Dagan. In ACL Findings.
+[PDF](https://arxiv.org/pdf/2305.15605)
 
 ### *Just-DREAM-about-it: Figurative Language Understanding with DREAM-FLUTE.*
 Gu, Yuling, Yao Fu, <ins>Valentina Pyatkin</ins>, Ian H. Magnusson, Bhavana Dalvi and Peter Clark. In Proceedings of the Workshop on Figurative Language Processing at EMNLP 2022.
-[ArXiv](https://arxiv.org/pdf/2210.16407.pdf)
+[PDF](https://arxiv.org/pdf/2210.16407.pdf)
 
 ### *QASem Parsing: Text-to-text Modeling of QA-based Semantics*
 Ayal Klein, Eran Hirsch, Ron Eliav, <ins>Valentina Pyatkin</ins>, Avi Caciularu, Ido Dagan.
 In EMNLP 2022.
-[ArXiv](https://arxiv.org/pdf/2205.11413.pdf)
+[PDF](https://arxiv.org/pdf/2205.11413.pdf)
 
 ### *Design Choices in Crowdsourcing Discourse Relation Annotations: The Effect of Worker Selection and Training*
 Merel C.J. Schoman, <ins>Valentina Pyatkin</ins>, Frances Yung, Ido Dagan, Reut Tsarfaty, Vera Demberg.
@@ -42,7 +53,7 @@ In LREC 2022.
 ### *Draw Me a Flower: Grounding Formal Abstract Structures Stated in Informal Natural Language*
 Royi Lachmy, <ins>Valentina Pyatkin</ins>, Avshalom Manevich, Reut Tsarfaty.
 In TACL.
-[ArXiv](https://arxiv.org/pdf/2106.14321.pdf)
+[PDF](https://arxiv.org/pdf/2106.14321.pdf)
 
 ### *Asking It All: Generating Contextualized Questions for any Semantic Role*
 <ins>Valentina Pyatkin</ins>\*, Paul Roit\*, Julian Michael, Reut Tsarfaty, Yoav Goldberg, Ido Dagan.
