@@ -7,17 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-  <head>
-	<title>Yongming Luo</title>
+  <html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta name="description" content="website description">
-  
-	<meta name="keywords" content="website keywords, website keywords">
-  
-
-	<link rel="stylesheet" type="text/css" href="./style/style.css">
-	
-    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-    <script type="text/x-mathjax-config">
+		<title>Yongming Luo - Homepage</title>
+		<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"</script><script type="text/x-mathjax-config">
         MathJax.Hub.Config({
 	    tex2jax: {
 	        inlineMath: [['$','$'], ['\\(','\\)']],
@@ -27,7 +22,8 @@ redirect_from:
     </script>
 	</head>
 
-
+<body>
+	<div>
 <br>
 
 My name is Yongming Luo. I am a mathematician specializing in partial differential equations and harmonic analysis.
@@ -50,7 +46,7 @@ Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mat
 
 <h2>Education</h2>
 
-<div><ul><font size="3">
+<ul><font size="3">
 
 <li>  Ph.D. Mathematics, Universität Kassel, 2019</li> 
 
@@ -134,11 +130,13 @@ Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mat
   <em>Scattering threshold for radial defocusing-focusing mass-energy double critical nonlinear Schrödinger equation in $d\geq 5$. </em><br>
   <a href="https://arxiv.org/abs/2106.06993">[arxiv: 2106.06993]</a> </li>
 	</details>
-</font></ul></div>
+</font></ul>
+	
+	</div>
 
 
 
-
+</body></html>
  
 
 
