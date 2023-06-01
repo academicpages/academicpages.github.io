@@ -17,8 +17,6 @@ I obtained my Bachelor and Master degrees in Mathematics from the Technische Uni
 
 Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mathematics and Cybernetics of the Shenzhen MSU-BIT University in China. 
 
-<br>
-
 <h2>Positions</h2>
 
 <ul><font size="3">
@@ -49,8 +47,6 @@ Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mat
 
 <li>  Long-time dynamics of nonlinear dispersive equations</li> 
 </font></ul>
-
-<br>
 
 <h2>Preprints and articles</h2>
 <ul><font size="3">
