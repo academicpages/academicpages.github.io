@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yongming Luo's Homepage"
+#title                    : "Yongming Luo's Homepage"
 title_separator          : "-"
-name                     : &name "Yongming Luo (骆泳铭)"
+#name                     : &name "Yongming Luo (骆泳铭)"
 #description              : &description "personal description"
 url                      : https://yongmingluo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
