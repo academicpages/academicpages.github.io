@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
   <head>
-	<title>Chenlin Gu</title>
+	<title>Yongming Luo</title>
+		<meta name="description" content="website description">
+  
+	<meta name="keywords" content="website keywords, website keywords">
+  
+
+	<link rel="stylesheet" type="text/css" href="./style/style.css">
+	
     <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
     <script type="text/x-mathjax-config">
         MathJax.Hub.Config({
