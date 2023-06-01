@@ -7,7 +7,8 @@ author_profile: true
 
 * **01/2023 - Present**<br />
 **Research Assistant - Information Security Lab, VinUniversity**<br />
-Projects: Federated Learning and Internet of Things
+Projects: Federated Domain Generalization<br />
+&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;Federated Learning and Internet of Things
 
 * **01/2022 - 12/2022**<br />
 **Research Assistant - VinUni-Illinois Smart Health Center, VinUniversity**<br />
