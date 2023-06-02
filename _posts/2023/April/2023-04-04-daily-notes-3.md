@@ -8,7 +8,7 @@ tags:
   - Project
 ---
 
-Recently, the success of ChatGPT has swept the whole media world. Major newspapers, websites, and we-media rushed to report it, and it's impossible to tell whether this is the hope or the hype for a moment.
+Recently, the success of ChatGPT has swept the whole media world. Major newspapers, websites, and we-media rushed to report it, and it's even impossible to tell whether this is the hope or the hype for a moment.
 
 Anyway, the success of ChatGPT in searching, integrating information, and chatting with people is undeniable. As a wise man said, the interaction and communication abilities of ChatGPT, despite whether the provided information is correct or not, are comparable to a human's raconteur.
 
