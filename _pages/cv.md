@@ -23,15 +23,15 @@ Education Background
 Work Experience
 ======
 * July 2023 -
-  * Professor, Department of Communication, Michigan State University, United States of America
+  * Professor, [Department of Communication](https://comartsci.msu.edu/departments/communication), Michigan State University, United States of America
 * August 2016 - June 2023
-  * Associate Professor (tenured), Department of Communication, Michigan State University, United States of America
+  * Associate Professor (tenured), [Department of Communication](https://comartsci.msu.edu/departments/communication), Michigan State University, United States of America
 * September 2013 - June 2016
-  * Assistant Professor (tenure-track), Wee Kim Wee School of Communication and Information, Nanyang Technological University, Singapore
+  * Assistant Professor (tenure-track), [Wee Kim Wee School of Communication and Information](https://www.ntu.edu.sg/wkwsci), Nanyang Technological University, Singapore
 * September 2009 - June 2013
-  * Assistant Professor, Faculty of Humanities and Arts, Macau University of Science and Technology, Macau
+  * Assistant Professor, [Faculty of Humanities and Arts](https://www.must.edu.mo/fa), Macau University of Science and Technology, Macau
 * September 2008 - August 2009
-  * Research Fellow, Web Mining Lab, City University of Hong Kong, Hong Kong
+  * Research Fellow, [Web Mining Lab](http://weblab.com.cityu.edu.hk/), City University of Hong Kong, Hong Kong
 
 Professional Services
 =====
