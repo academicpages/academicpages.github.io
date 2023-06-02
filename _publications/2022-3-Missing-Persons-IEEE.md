@@ -17,7 +17,8 @@ pdf: '/files/publications/ieee-computer-2022.pdf'
 
 link: 'https://www.computer.org/csdl/magazine/co/2022/06/09789290/1DZ8bvipo9W'
 
-video: 'http://www.cs.purdue.edu/homes/bb/missing-person-demo-final.mp4'
+video: 'https://youtu.be/hJ_jtLQUIXo'
+#'http://www.cs.purdue.edu/homes/bb/missing-person-demo-final.mp4'
 #'https://drive.google.com/file/d/1baINWf4D0xPE29_L1zNGz3hua7W31c64/view?usp=sharing'
 #'https://purdue0-my.sharepoint.com/:v:/g/personal/ksolaima_purdue_edu/Eax_GdQ5sFRPi_2cB_KCYe4Bn5vliGCBKshhQYyNjEevjg?e=H9tgxX'
 
