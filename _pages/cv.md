@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Geomatics Engineering, Kathamndu University, 2013
-* M.S. in Jekyll, GitHub University, 2017
+* M.S. in Geoinformatics, GitHub University, 2017
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
