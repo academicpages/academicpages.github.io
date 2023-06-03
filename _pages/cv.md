@@ -65,6 +65,36 @@ Work experience
 Feb 2014 - Mar 2015: Internship	
 * Department of Land Information System and Archive	 Survey Department, Kathmandu Nepal	 
 
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
 Awards
 ======
 * Received Graduate Research Funding for Summer, May 16 to Aug 15, 2023, from NASA project (GR29315 & GR29415).
