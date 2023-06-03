@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in Geomatics Engineering, Kathamndu University, 2013
-* M.S. in Geoinformatics, GitHub University, 2017
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Geoinformatics, University of Muenster, 2017
+* Ph.D in Geography, University of Alabama, 2026 (expected)
 
 Work experience
 ======
