@@ -22,7 +22,7 @@ You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.e
 
 News
 ======
-\[May 2923\] One paper is accepted at **KDD 2023**. Congratulations!
+\[May 2023\] One paper is accepted at **KDD 2023**. Congratulations!
 
 \[February 2023\] One co-authored paper is accepted at **SIGMOD 2023**. Congratulations!
 
