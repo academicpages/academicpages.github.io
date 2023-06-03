@@ -84,7 +84,7 @@ author:
   avatar           : "Profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Abidjan"
-  employer         :
+  employer         : "Institut National de la Statistique de la Côte d'Ivoire"
   pubmed           : 
   googlescholar    : 
   email            : "j.migone@stat.plan.gouv.ci"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "@fajmigone"
   vine             :
   weibo            :
   xing             :
