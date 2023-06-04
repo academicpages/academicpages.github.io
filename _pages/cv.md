@@ -90,14 +90,16 @@ Skills
 
 Publications
 ======
+*_Asymmetric Cloning to Eavesdrop on BB84 Protocol_, with B. Pigott and H. Routray (in Preparation).
 * _Lattice Point Counting through Fractal Geometry and Stationary Phase for Surfaces with Vanishing Curvature_ ([Dissertation](http://rave.ohiolink.edu/etdc/view?acc_num=osu1658269573881902)).
-* _Lattice Points Close to the Heisenberg Spheres_, with K. Taylor, OSU ([arXiv](https://doi.org/10.48550/arXiv.2205.02163)).
+* _Lattice Points Close to the Heisenberg Spheres_, with K. Taylor, OSU [La Matematica 2](https://doi.org/10.1007/s44007-022-00040-z), 156–196 (2023). ([arXiv](https://doi.org/10.48550/arXiv.2205.02163))
 * _A Tutorial on Topological Data Analysis for Big Data Analytics_, with T. Bihl, AFRL (Preprint).
   
   
 Conferences
 ======
- * miniMAGNTS Poster Presentation: Lattice Point Counting: From Gauss Circle Problem to Heisenberg Norms (August 2021).
+* APS March Meeting Presentation: Asymmetric Cloning to Eavesdrop on BB84 Protocol (March 2023).
+* miniMAGNTS Poster Presentation: Lattice Point Counting: From Gauss Circle Problem to Heisenberg Norms (August 2021).
 * SIAM Annual Meeting, AWM Workshop Poster Presentation: Lattice Point Counting: From Gauss Circle Problem to Heisenberg Norms (July 2021).
 * 3M RISE Symposium (June 2021).
 * Hausdorff Trimester Program at The Hausdorff Center for Mathematics, Universität Bonn:
