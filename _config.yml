@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Elizabeth G. Campolongo, Ph.D."
   avatar           : "bio-photo-2022.jpg"
-  bio              : "Mathematician and Data Scientist" #"Your biography for the left-hand sidebar"
+  bio              : "Mathematician, Quantum Researcher, and Data Scientist" #"Your biography for the left-hand sidebar"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/elizabethcampolongo/"
+  linkedin         : "elizabethcampolongo/"
   orcid            : "http://orcid.org/0000-0003-0846-2413"
   pinterest        :
   soundcloud       :
