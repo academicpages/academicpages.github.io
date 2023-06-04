@@ -11,23 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, University of Vienna, started in 2020 - ongoing, planned to finish in July 2023
+* B.S. in International Business, University of Vienna, started in 2020 - ongoing
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: FoH Staff
+  * Midsummer House Cambridge 
+  * Supervisor: Daniel Clifford
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* From 2020 ongoing : Student representative
+  * Univeristy of Vienna, Faculty of Physics
+  * Duties included: Representation in commities and conferences, international outreach and correspondence
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -56,4 +53,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
