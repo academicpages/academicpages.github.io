@@ -151,9 +151,11 @@ ArXiv. [[pdf]](https://arxiv.org/abs/2304.08354) [[code]](https://github.com/Ope
 ## Projects
 
 * <b>Prompt Transferability</b> This system assists users in building a prompt bank, allowing them to save well-trained prompts. It also enables swift access and reuse of these prompts whenever the user requires them on unseen tasks and heterogeneous models.
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=Prompt-Transferability)](https://github.com/thunlp/Prompt-Transferability)
 
 * <b>AgentVerse</b> AgentVerse provides a framework that streamlines the process of developing custom multi-agent systems using large language models (LLMs) in user-defined environments. This facilitates the design of more efficient multi-agent systems that can be applied to real-world applications.
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=AgentVerse)](https://github.com/OpenBMB/AgentVerse)
 
 <!--
