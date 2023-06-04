@@ -14,6 +14,8 @@ I used to be a PhD student of [Terrier team](http://terrierteam.dcs.gla.ac.uk/in
 
 I am one of the cofounders and main contributors of the [Beta-Recsys](https://beta-recsys.readthedocs.io/en/latest/) project, an open source project for Building, Evaluating and Tuning Automated Recommender Systems.
 
+Graduate studentship, RA, Postdoc positions avaiable at MBZUAI. Highly self-motivated students are always wanted if you want to do research on **Graph Neural Networks**, **Large Language Models** and **AI4Science**. Drop me an email: siwei[dot]liu[at]mbzuai[dot]ac[dot]ae.
+
 ---
 
 ### News
