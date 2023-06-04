@@ -135,6 +135,10 @@ EMNLP 2020 Findings, AI OPEN 2021. [[pdf]](https://arxiv.org/abs/2009.13964) [[p
 
 ## Under Review or Preprint Version <!-- Submitted for Publications-->
 
+* <b>Arbitrary Few Parameters are Good Enough for Adapting Large-scale Pre-trained Language Models</b>\
+*<b>Yusheng Su</b>, Chi-Min Chan, Jiali Cheng, Yujia Qin, Yankai Lin, Shengding Hu, Zonghan Yang, Ning Ding, Zhiyuan Liu, Maosong Sun*\
+ArXiv. [[pdf]](https://arxiv.org/submit/4905668/view)
+
 * <b>Human Emotion Knowledge Representation Emerges in Large Language Models and Supports Discrete Emotion Inference</b>\
 *Ming Li<sup><big>*</big></sup>, <b>Yusheng Su</b><sup><big>*</big></sup>, Hsiu-Yuan Huang, Jiali Cheng, Xin Hu, Xinmiao Zhang, Huadong Wang, Yujia Qin, Xiaozhi Wang, Zhiyuan Liu, Dan Zhang* (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
 (Submitted to Nature Human Behaviour). [[pdf]](https://arxiv.org/abs/2302.09582) [[code]](https://github.com/thunlp/OpenNeuron) <small>(Refactoring - User friendly toolkit coming soon)</small>
