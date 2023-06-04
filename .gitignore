@@ -1,2 +1,4 @@
 _site/
 
+# Mac system
+.DS_Store
