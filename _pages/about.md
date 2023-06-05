@@ -50,7 +50,7 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
   <tr>
     <td class="tdimg" style="padding:20px;width:35%;vertical-align:center">
-    <img src='images/survey.png'></div>
+    <img src='images/survey.png'>
     </td>
     <td class="tdcontent" style="padding:20px;width:65%;vertical-align:center">
     <p>
