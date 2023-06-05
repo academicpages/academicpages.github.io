@@ -2,7 +2,7 @@
 title: "Selective Photoredox Trifluoromethylation of Tryptophan-Containing Peptides"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-1.md
-excerpt: ![](/images/ejoc201901572-toc-0001-m.jpg)
+excerpt:
 date: 2019-11-17
 venue: 'EurJOC'
 paperurl: 'https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572'
