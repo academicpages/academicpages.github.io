@@ -10,13 +10,11 @@ redirect_from:
 
 # News
 
-   Our paper **Fair learning with Wasserstein barycenters for non-decomposable performance measures** has been accepted at AISTATS!
-   
-   I have started a postdoc at INRIA with [Frederic Chazal](https://geometrica.saclay.inria.fr/team/Fred.Chazal/). I have received a Hadamard postdoc fellowship to work with [Vianney Perchet](https://vianney.ai/) starting September 2023.
+   I am doing a postdoc at INRIA with [Frederic Chazal](https://geometrica.saclay.inria.fr/team/Fred.Chazal/) in the Laboratoire de Mathématiques d'Orsay (my office is 3G3). I have received a Hadamard postdoc fellowship to work with [Vianney Perchet](https://vianney.ai/) at CREST, ENSAE starting September 2023.
    
 # Papers, preprints, and software
 
-**Fair learning with Wasserstein barycenters for non-decomposable performance measures** (2022) S. Gaucher, N. Schreuder, and E. Chzhen. To appear in AISTATS 2023. [Preprint](../Aistats.pdf)
+**Fair learning with Wasserstein barycenters for non-decomposable performance measures** (2022) S. Gaucher, N. Schreuder, and E. Chzhen. AISTATS 2023. [Preprint](../Aistats.pdf)
 
 **The price of unfairness in linear bandits with biased feedback** (2022), S. Gaucher, A. Carpentier, and C. Giraud. NeurIPS 2022. [Preprint on Hall](https://hal.archives-ouvertes.fr/hal-03611628), [Short Presentation](https://slideslive.com/s/solenne-gaucher-43495)
 
