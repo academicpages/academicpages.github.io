@@ -54,13 +54,13 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
     </td>
     <td class="tdcontent" style="padding:20px;width:65%;vertical-align:center">
     <p>
-      <a href="https://arxiv.org/abs/2302.08266/">
+      <a href="https://arxiv.org/abs/2302.08266/](https://arxiv.org/abs/2302.02591">
       <papertitle>Generative Diffusion Models on Graphs: Methods and Applications</papertitle>
       </a>
       <br>
       <a href="">Chengyi Liu</a>,
       <a href="">Wenqi Fan</a>,
-      <a href=""> \Yunqing Liu</a>
+      <a href="">Yunqing Liu</a>
       <br>
       <em>IJCAI</em>, 2023
       <br>
