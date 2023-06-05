@@ -34,7 +34,7 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
 + [**Improving User Controlled Table-To-Text Generation Robustness**](https://arxiv.org/abs/2302.09820)
   <br> Hanxu Hu, **Yunqing Liu**, Zhongyi Yu and Laura Perez-Beltrachini
   <br> _EACL_ **2023** (Findings), [arXiv:2302.09820](https://arxiv.org/abs/2302.09820)
-  <br><img src="/images/table.png"  width="500"/>
+  <br><img src="/images/table.png"  width="200"/>
   <img src="/images/outputs.png"  width="200"/>
 + [**Late-Stage Photoredox C–H Amidation of N-Unprotected Indole Derivatives: Access to N-(Indol-2-yl)amides**](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609)
  <br>Yue Weng, Bo Ding, **Yunqing Liu**, Chunlan Song, Lo-Ying Chan, and Chien-Wei Chiang*
