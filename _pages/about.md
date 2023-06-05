@@ -215,7 +215,7 @@ Xupeng Zhu, **Dian Wang**, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt
 
 ![](images/Paladyn21.png){: .align-right width="200px"}
 **Design Guidelines for Human-Robot Interaction with Assistive Robot Manipulation Systems**  
-Alexander Wilkinson, Michael Gonzales, Patrick Hoey, David Kontak, **Dian Wang**, Noah Torname, Sam Laderoute, Zhao Han, Jordan Allspaw, Robert Platt, Holly Yanco  
+Alexander Wilkinson, Michael Gonzales, Patrick Hoey, David Kontak, **Dian Wang**, Noah Torname, Amelia Sinclaire, Zhao Han, Jordan Allspaw, Robert Platt, Holly Yanco  
 *Paladyn, Journal of Behavioral Robotics. 2021*  
 <button class="button-4" onclick="window.open('https://www.degruyter.com/document/doi/10.1515/pjbr-2021-0023/html','_blank')">Paper</button>
 <br>
