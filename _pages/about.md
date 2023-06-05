@@ -48,65 +48,64 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
   <img src="/images/ejoc_3.jpg"  width="200"/>
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+  <tr>
+    <td class="tdimg" style="padding:20px;width:35%;vertical-align:center">
+    <img src='images/www23_chen.png'></div>
+    </td>
+    <td class="tdcontent" style="padding:20px;width:65%;vertical-align:center">
+    <p>
+      <a href="https://arxiv.org/abs/2302.08266/">
+      <papertitle>Fairly Adaptive Negative Sampling for Recommendations</papertitle>
+      </a>
+      <br>
+      <a href="https://shawn_chen.github.io//">Xiao Chen</a>,
+      <a href="https://wenqifan03.github.io/">Wenqi Fan</a>,
+      <a href="https://cjfcsjt.github.io/">Jingfan Chen</a>
+      <br>
+      <em>WWW</em>, 2023
+      <br>
+    </p>
+    </td>
+  </tr>
 
-        <tr>
-          <td class="tdimg" style="padding:20px;width:35%;vertical-align:center">
-          <img src='images/www23_chen.png'></div>
-          </td>
-          <td class="tdcontent" style="padding:20px;width:65%;vertical-align:center">
-          <p>
-            <a href="https://arxiv.org/abs/2302.08266/">
-            <papertitle>Fairly Adaptive Negative Sampling for Recommendations</papertitle>
-            </a>
-            <br>
-            <a href="https://shawn_chen.github.io//">Xiao Chen</a>,
-            <a href="https://wenqifan03.github.io/">Wenqi Fan</a>,
-            <a href="https://cjfcsjt.github.io/">Jingfan Chen</a>
-            <br>
-            <em>WWW</em>, 2023
-            <br>
-          </p>
-          </td>
-        </tr>
+  <tr>
+   <td class="tdimg" style="padding:20px;width:35%;vertical-align:center">
+   <img src='images/TOIS23_chen.png'></div>
+   </td>
+   <td class="tdcontent" style="padding:20px;width:65%;vertical-align:center">
+   <p>
+     <a href="https://arxiv.org/pdf/2209.10117.pdf">
+     <papertitle>A Comprehensive Survey on Trustworthy Recommender Systems</papertitle>
+     </a>
+     <br>
+     <a href="https://wenqifan03.github.io/">Wenqi Fan</a>,
+     <a href="https://zhaoxyai.github.io/">Xiangyu Zhao</a>,
+     <a href="https://shawn_chen.github.io/">Xiao Chen</a>
+     <br>
+     <em>In submission</em>, 2023
+     <br>
+   </p>
+   </td>
+ </tr>
 
-        <tr>
-         <td class="tdimg" style="padding:20px;width:35%;vertical-align:center">
-         <img src='images/TOIS23_chen.png'></div>
-         </td>
-         <td class="tdcontent" style="padding:20px;width:65%;vertical-align:center">
-         <p>
-           <a href="https://arxiv.org/pdf/2209.10117.pdf">
-           <papertitle>A Comprehensive Survey on Trustworthy Recommender Systems</papertitle>
-           </a>
-           <br>
-           <a href="https://wenqifan03.github.io/">Wenqi Fan</a>,
-           <a href="https://zhaoxyai.github.io/">Xiangyu Zhao</a>,
-           <a href="https://shawn_chen.github.io/">Xiao Chen</a>
-           <br>
-           <em>In submission</em>, 2023
-           <br>
-         </p>
-         </td>
-       </tr>
-
-       <tr>
-         <td class="tdimg" style="padding:20px;width:35%;vertical-align:center">
-         <img src='images/icip2019_chen.png'></div>
-         </td>
-         <td class="tdcontent" style="padding:20px;width:65%;vertical-align:center">
-         <p>
-           <a href="https://ieeexplore.ieee.org/abstract/document/8803009/">
-           <papertitle>A dual-attention dilated residual network for liver lesion classification and localization on CT images</papertitle>
-           </a>
-           <br>
-           <a href="https://shawn_chen.github.io//">Xiao Chen</a>,
-           <a href="http://en.ritsumei.ac.jp/ise/teacher/detail/?id=39">Yen-wei Chen</a>
-           <br>
-           <em>ICIP</em>, 2019
-           <br>
-         </p>
-         </td>
-       </tr> 
+ <tr>
+   <td class="tdimg" style="padding:20px;width:35%;vertical-align:center">
+   <img src='images/icip2019_chen.png'></div>
+   </td>
+   <td class="tdcontent" style="padding:20px;width:65%;vertical-align:center">
+   <p>
+     <a href="https://ieeexplore.ieee.org/abstract/document/8803009/">
+     <papertitle>A dual-attention dilated residual network for liver lesion classification and localization on CT images</papertitle>
+     </a>
+     <br>
+     <a href="https://shawn_chen.github.io//">Xiao Chen</a>,
+     <a href="http://en.ritsumei.ac.jp/ise/teacher/detail/?id=39">Yen-wei Chen</a>
+     <br>
+     <em>ICIP</em>, 2019
+     <br>
+   </p>
+   </td>
+ </tr> 
 </tbody></table>
 
 
