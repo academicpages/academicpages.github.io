@@ -50,19 +50,19 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
   <tr>
     <td class="tdimg" style="padding:20px;width:35%;vertical-align:center">
-    <img src='images/www23_chen.png'></div>
+    <img src='images/survey.png'></div>
     </td>
     <td class="tdcontent" style="padding:20px;width:65%;vertical-align:center">
     <p>
       <a href="https://arxiv.org/abs/2302.08266/">
-      <papertitle>Fairly Adaptive Negative Sampling for Recommendations</papertitle>
+      <papertitle>Generative Diffusion Models on Graphs: Methods and Applications</papertitle>
       </a>
       <br>
-      <a href="https://shawn_chen.github.io//">Xiao Chen</a>,
-      <a href="https://wenqifan03.github.io/">Wenqi Fan</a>,
-      <a href="https://cjfcsjt.github.io/">Jingfan Chen</a>
+      <a href="">Chengyi Liu</a>,
+      <a href="">Wenqi Fan</a>,
+      <a href=""> \Yunqing Liu</a>
       <br>
-      <em>WWW</em>, 2023
+      <em>IJCAI</em>, 2023
       <br>
     </p>
     </td>
