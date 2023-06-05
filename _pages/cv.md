@@ -82,38 +82,19 @@ Work experience
 Skills
 ======
 * Programming Language
-  * C++
-  * Python
-  * MATLAB
-  * SQL
-  * R
-  * MERN Stack
-  * Typescript
- 
-
-* Computer Hardware and Network troubleshooting Skill
-  * Cisco Certified Network Associate, CCNA I
-
+   * C++, Python, MATLAB, SQL, R, VHDL, MERN Stack, Typescript
+ * Computer Hardware and Network troubleshooting Skill
+   * Cisco Certified Network Associate, CCNA I, Huawei networking device
 * Microsoft Oﬀice Product
-  * MS Word
-  * Excel
-  * Power Point
-  * Publisher
-  * Teams
-
+   * MS Word, MS Excel, MS PowerPoint, MS Publisher, MS Teams, Office365
 * Simulator Sofwares Skill
-  * Packet tracer
-  * VLSI Design 
-  * OptiSystem Software 
-  * Proetus
-  * Eagle
-
+   * Packet tracer, VLSI Design, OptiSystem Software, Proetus, Eagle
 * Graphics Design Skill
-  * Adobe Photoshop, 
-  * After Eﬀects
-  * Video Editing Softwares
-
+   * Adobe Photoshop, After Eﬀects, Video Editing Softwares
+* Operating System
+   * Microsoft Window, Ubuntu, Linux, CentOS, Kali Linux  
 * Leadership and Management Skill
+   * Young Africa Leaders Initiative- YALI Member 
 
 <div style="text-align: center;">
   <img src="/images/c++.png" alt="C++" style="display: inline-block; width: 50px;">
