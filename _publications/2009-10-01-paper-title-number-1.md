@@ -9,12 +9,7 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
-
- <tr>
+<tr>
   <td class="tdimg" style="padding:20px;width:35%;vertical-align:center">
   <img src='images/www23_chen.png'></div>
   </td>
@@ -33,3 +28,9 @@ Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal
   </p>
   </td>
 </tr>
+
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+ 
