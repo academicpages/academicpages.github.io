@@ -1,11 +1,11 @@
 # main links links
 main:
   - title: "Experiences"
-    url: /experiences.md/
+    url: /experiences/
 
   - title: "Awards"
-    url: /awards.md/    
+    url: /awards/    
 
   - title: "Misc"
-    url: /misc.md/    
+    url: /misc/    
 
