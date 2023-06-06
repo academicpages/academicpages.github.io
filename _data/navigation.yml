@@ -10,7 +10,10 @@ main:
     url: /cv/
 
   - title: "News"
-    url: /news/    
+    url: /news/ 
+
+  - title: "User Study"
+    url: /user-study/   
     
   # - title: "Portfolio"
   #   url: /portfolio/
