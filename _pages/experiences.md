@@ -7,19 +7,19 @@ author_profile: true
 
 {% include base_path %}
 
-### Education
+## Education
 
 + B.S. in Statistics, double major in Economics, 2020-2024 (expected).
 + Visiting Undergraduate Student at Harvard college, 2023 Spring.
 
-### Research
+## Research
 
 here is my research experience.
 
-### Internship
+## Internship
 
 here is my internship experience.
 
-### Leadership
+## Leadership
 
 Here is my leadership experience.
