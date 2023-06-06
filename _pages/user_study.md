@@ -33,7 +33,7 @@ If you are interested in participating, please sign up for a time slot using [th
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
 
-Should you be interested in partaking, please refer to this [Participant Information Leaflet](/assets/docs/Participant%20Information%20Leaflet.pdf) that includes more details on the study and a Consent Form, which would need signing and returning to the below email address.
+Should you be interested in partaking, please refer to this [Participant Information Leaflet](/assets/docs/Participant%20Information%20Leaflet.pdf) that includes more details on the study and a [Consent Form](/assets/docs/Consent%20Form.docx), which would need signing and returning to the below email address.
 
 Your involvement is crucial to the success of this research, and I greatly appreciate your time and support. If you have any questions or require further information, please contact me at [Mattia.Colombo@mail.bcu.ac.uk](mailto:mattia.colombo@mail.bcu.ac.uk)
 
