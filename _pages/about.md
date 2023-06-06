@@ -8,5 +8,3 @@ redirect_from:
   - /about.html
 ---
 Hi there! I'm Jia Yi, a rising senior in School of Mathemetical Science, [Peking University](https://www.pku.edu.cn/), major in Statistics and Economics.
-
-
