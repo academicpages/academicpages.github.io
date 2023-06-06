@@ -1,13 +1,9 @@
 ---
 layout: archive
-title: "Misc"
+title: "Miscellaneous"
 permalink: /misc/
 author_profile: true
 ---
-
 {% include base_path %}
-
-Miscellaneous
-=====
 
 Here is some intro
