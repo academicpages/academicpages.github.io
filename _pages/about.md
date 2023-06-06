@@ -15,4 +15,4 @@ I currently teach the C++ Programming for Games and Game Engines Architecture mo
 
 I am currently running a user study: if you are based in Birmingham, UK and willing to contribute to my research, please take a look at [this page](./user-study/). Thank you for taking the time to read this :)
 
-As part of ongoing research I am conducting, I have developed [my own spatialiser system](https://github.com/MattXV/DSPToolbox) for the Hololens 2 AR Headset as I needed one that included the ability of hot-swapping HRTFs and control over real-time Impulse Response convolution. If you are an AR developer, facing similar issue, feel free to get in touch with me :) 
+As part of ongoing research I am conducting, I have developed [my own spatialiser system](https://github.com/MattXV/DSPToolbox) for the Hololens 2 AR Headset as I needed one that included the ability to hot-swap HRTFs and had control over real-time Impulse Response convolutions. If you are an AR developer, facing similar issues, feel free to get in touch with me.
