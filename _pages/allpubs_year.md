@@ -10,11 +10,12 @@ author_profile: true
    * Reprinted as [an edited book](https://www.routledge.com/Computational-Methods-for-Communication-Science/Atteveldt-Peng/p/book/9780367536169) by Routledge in 2021  
 
 ## Journal Articles
-0.	Zhou, Y. X., Peng, T. Q., & Zhu, J. J. H. (2023). Will time matter with cognitive load and retention in online news consumption? Digital Journalism, 11(1), 181-202. 
-0.	Peng, T. Q., & Zhu, J. J. H. (2022). Competition, cooperation, and coexistence: An ecological approach to public agenda dynamics in the United States (1958-2020). Communication Research. 
-0.	Danowski, J., van Klyton, A., Peng, T. Q., Ma, S. Y., Nkakleu, R., & Biboum, A. D. (2022). ICT development, interorganizational networks, and public sector corruption in Africa. Quality & Quantity. 
-0.	Tan, Y., Peng. T. Q., & Chiang, Y. S. (2022). The Facebook networking among political candidates and its outcomes: An empirical study of the 2016 legislative election in Taiwan. Journal of Information Society. [in Chinese]
-0.	Lee, S., Ma, S. Y., Meng, J., Zhuang, J., & Peng, T. Q. (2022). Detecting sentiment toward emerging infectious disease on social media: A validity evaluation of dictionary-based sentiment analysis. International Journal of Environmental Research and Public Health, 19(11), 6759. 
+0.	Zhou, Y. X., Peng, T. Q., & Zhu, J. J. H. (2023). Will time matter with cognitive load and retention in online news consumption? *Digital Journalism, 11*(1), 181-202. 
+0.  Yang, Y., Lin, C. A., Peng, T. Q., & Pierre, L. (2023). #MeToo: Intersecting gender, race, user identity, social judgment and social support. *The Journal of Social Media in Society, 12*(1), 348-370.
+0.	Peng, T. Q., & Zhu, J. J. H. (2022). Competition, cooperation, and coexistence: An ecological approach to public agenda dynamics in the United States (1958-2020). *Communication Research*. 
+0.	Danowski, J., van Klyton, A., Peng, T. Q., Ma, S. Y., Nkakleu, R., & Biboum, A. D. (2022). ICT development, interorganizational networks, and public sector corruption in Africa. *Quality & Quantity*. 
+0.	Tan, Y., Peng. T. Q., & Chiang, Y. S. (2022). The Facebook networking among political candidates and its outcomes: An empirical study of the 2016 legislative election in Taiwan. *Journal of Information Society*. [in Chinese]
+0.	Lee, S., Ma, S. Y., Meng, J., Zhuang, J., & Peng, T. Q. (2022). Detecting sentiment toward emerging infectious disease on social media: A validity evaluation of dictionary-based sentiment analysis. *International Journal of Environmental Research and Public Health, 19*(11), 6759. 
 0.	Zhang, L., Li, Y. N., Peng, T. Q., & Wu, Y. (2022). Dynamics of the social construction of knowledge: An empirical study of Zhihu in China. EPJ Data Science. 
 0.	Chung, M., Jang, Y., Lapinski, M., Kerr, J., Zhao, J. H., Shupp, R., & Peng, T. Q. (2022). I do, therefore I think it is normal: The causal effects of behavior on descriptive norm formation and evolution. Social Influence, 17(1), 17-35. 
 0.	Wang, Y. F., Peng, T. Q., Lu, H. H., Wang, H. R., Xie, X., Qu, H. M., & Wu, Y. C. (2022). Seek for success: A visualization approach for understanding the dynamics of academic careers. IEEE Transactions on Visualization and Computer Graphics, 28(1), 475-485. 
