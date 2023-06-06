@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jia Yi (依嘉)''s website"
+title                    : "Jia Yi (依嘉)'s website"
 title_separator          : "-"
 name                     : &name "Jia Yi"
 description              : &description "Rising senior in Peking University, major in statistics"
@@ -99,7 +99,7 @@ author:
   github           : "pkuyijia"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/yijia142857/"
+  instagram        : "yijia142857"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/jia-yi-b99772230/"
