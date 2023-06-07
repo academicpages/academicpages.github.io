@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Larry Han is an incoming Assistant Professor at Northeastern University, Bouve College of Health Sciences. He is currently a postdoctoral fellow, mentored by Professor Sharon-Lise Normand at Harvard Medical School, Department of Health Care Policy. He obtained his PhD in Biostatistics at Harvard University in May 2023, where he was advised by Professor Tianxi Cai and Professor Lorenzo Trippa. He received an AM in Biostatistics from Harvard in 2020, an MPhil in Healthcare Operations from the University of Cambridge in 2018, an MA in Global Affairs from Tsinghua University in 2017, and a BSPH in Biostatistics from the University of North Carolina at Chapel Hill in 2016.
+Larry Han is an incoming Assistant Professor of Health Sciences at Northeastern University, Bouve College of Health Sciences. He is currently a postdoctoral fellow, mentored by Professor Sharon-Lise Normand at Harvard Medical School, Department of Health Care Policy. 
 
 [His research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) focuses on developing novel statistical methods to leverage real world data to improve decision-making in public health and clinical medicine. Specifically, his academic interests include robust and efficient estimation and inference of treatment effects using large-scale data generated from electronic health records and clinical trial data.
 
@@ -18,6 +18,8 @@ Some recent research projects include developing:
 * Communication-efficient, federated learning algorithms that robustly estimate treatment effects in target populations under privacy constraints and site-heterogeneity.
 * Principled approaches for sensitivity analysis in the design stage of complex clinical trials.
 * Epidemiological studies of COVID-19, cardiology, dementia, HIV/STDs, and social innovation.
+
+Larry obtained his PhD in Biostatistics at Harvard University in May 2023, where he was advised by Professor Tianxi Cai and Professor Lorenzo Trippa. He received an AM in Biostatistics from Harvard in 2020, an MPhil in Healthcare Operations from the University of Cambridge in 2018, an MA in Global Affairs from Tsinghua University in 2017, and a BSPH in Biostatistics from the University of North Carolina at Chapel Hill in 2016.
 
 He enjoys playing golf (especially in his home state of North Carolina), reading history (especially biographies), and staying up-to-date with global affairs (especially US-China relations). 
 
