@@ -79,7 +79,7 @@ redirect_from:
   * 다수의 사업 및 연구 제안서 작업을 통한 문서화, 시각화 능력
 
 
-Professional Memberships (소속 학회)
+소속 학회 (Professional Memberships)
 ---
   * graduate student member, IEEE (2021 ~ present)
   * 학생회원, 한국전자파학회 (2021 ~ present)
@@ -88,7 +88,7 @@ Professional Memberships (소속 학회)
   * 학생회원, 한국스마트미디어학회 (2020 ~ present)
 
 
-Certifications (자격증)
+자격증 (Certifications)
 ---
   * 정보처리기사
   * 언플러그드코딩지도사 1급
