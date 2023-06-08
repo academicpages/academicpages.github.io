@@ -33,7 +33,7 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
 <!--   <br><img align="right" src="/images/Diff.png"  width="200"/>
   <img src="/images/survey.png"  width="250"/>
   <img src="/images/summary.png"  width="200"/> -->
-+ <img src="/images/outputs.png"  height="200"/>
++ <img align="right" src="/images/outputs.png"  height="200"/>
   
   [**Improving User Controlled Table-To-Text Generation Robustness**](https://arxiv.org/abs/2302.09820)
   <br> Hanxu Hu, **Yunqing Liu**, Zhongyi Yu and Laura Perez-Beltrachini
