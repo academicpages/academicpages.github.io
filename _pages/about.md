@@ -32,6 +32,10 @@ R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020)
 
 # Talks
 
+**Linear Bandits**, June 8th 2023, Ascai seminar, online.
+
+**Introduction to Algorithmic Fairness**, June 2023, mini-courses for the DataShape seminar, Porquerolles.
+
 **The price of unfairness in linear bandits with biased feedback**, May 17th, 2022, workshop "Re-thinking High-dimensional Mathematical Statistics", Mathematisches Forschungsinstitut Oberwolfach, Oberwolfach.
 
 **The price of unfairness in linear bandits with biased feedback**, March 22, 2022, GT Celeste, Laboratoire de Mathématiques, Orsay.
