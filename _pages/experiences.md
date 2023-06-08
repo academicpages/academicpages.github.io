@@ -19,4 +19,4 @@ author_profile: true
 
 ## Leadership
 
-Here is my leadership experience.
++ President, Hedge Fund Association (HFA) of Peking University.
