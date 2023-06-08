@@ -29,14 +29,12 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
   <br> Chengyi Liu, Wenqi Fan, **Yunqing Liu**, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li
   <br> _IJCAI_ **2023**, [arXiv:2302.02591](https://arxiv.org/abs/2302.02591)
   <br><img src="/images/survey.png"  width="200"/>
-<!--   <br><img align="right" src="/images/Diff.png"  width="200"/>
-  <img src="/images/survey.png"  width="250"/>
-  <img src="/images/summary.png"  width="200"/> -->
+
 + [**Improving User Controlled Table-To-Text Generation Robustness**](https://arxiv.org/abs/2302.09820)
   <br> Hanxu Hu, **Yunqing Liu**, Zhongyi Yu and Laura Perez-Beltrachini
   <br> _EACL_ **2023** (Findings), [arXiv:2302.09820](https://arxiv.org/abs/2302.09820)
   <br><img src="/images/outputs.png"  width="200"/>
-<!--   <br><img src="/images/table.png"  width="200"/> -->
+
 + [**Late-Stage Photoredox C–H Amidation of N-Unprotected Indole Derivatives: Access to N-(Indol-2-yl)amides**](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609)
   <br>Yue Weng, Bo Ding, **Yunqing Liu**, Chunlan Song, Lo-Ying Chan, and Chien-Wei Chiang*
   <br>_Organic Letters_, **2021**, _23_(7), 2710-2714, [DOI: 10.1021/acs.orglett.1c00609](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609)
@@ -46,10 +44,6 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
   <br>Bo Ding, Yue Weng, **Yunqing Liu**, Chunlan Song, Le Yin, Jiafan Yuan, Yanrui Ren, Aiwen Lei\*, Chien-Wei Chiang\*
   <br>_European Journal of Organic Chemistry_, **2019**, _46_(12), 7596-7605, [DIO:10.1002/ejoc.201901572](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572)
   <br><img src="/images/ejoc_3.jpg"  width="200"/>
-<!--   <br><img src="/images/EurJOC.jpg"  width="200"/>
-  <img src="/images/ejoc_2.jpg"  width="200"/> -->
-  
-
 
 
 Education
