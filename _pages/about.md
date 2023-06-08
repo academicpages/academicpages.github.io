@@ -12,6 +12,11 @@ Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I
 
 ## News 
 
+> ***8th June 2023***
+> 
+> I have been accepted at the Simon Initiative’s LearnLab Summer School at Carnegie Mellon University! See you in Pittsburgh!
+
+
 > ***16 May 2023***
 > 
 > Other great news! Our papers "Evaluating Distance Metrics for Program Repair" (first author) and "Exploring the Responses of Large Language Models to Beginner Programmers’Help Requests" have been both accepted for publication at [ICER](https://icer2023.acm.org/). See you in Chicago!
