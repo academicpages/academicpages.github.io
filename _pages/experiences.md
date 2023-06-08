@@ -4,7 +4,6 @@ title: "Experiences"
 permalink: /experiences/
 author_profile: true
 ---
-
 {% include base_path %}
 
 ## Education
@@ -19,4 +18,4 @@ author_profile: true
 
 ## Leadership
 
-+ President, Hedge Fund Association (HFA) of Peking University.
++ **President**, Hedge Fund Association (HFA) of Peking University.
