@@ -25,7 +25,7 @@ Research Interest
  
 Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 ======
-+ <img align="right" src="/images/survey.png"  height="100"/>
++ <img align="right" src="/images/survey.png"  height="50"/>
 
   [**Generative Diffusion Models on Graphs: Methods and Applications**](https://arxiv.org/abs/2302.02591)
   <br> Chengyi Liu, Wenqi Fan, **Yunqing Liu**, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li
@@ -33,7 +33,7 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
 <!--   <br><img align="right" src="/images/Diff.png"  width="200"/>
   <img src="/images/survey.png"  width="250"/>
   <img src="/images/summary.png"  width="200"/> -->
-+ <img align="right" src="/images/outputs.png"  height="100"/>
++ <img align="right" src="/images/outputs.png"  height="50"/>
   
   [**Improving User Controlled Table-To-Text Generation Robustness**](https://arxiv.org/abs/2302.09820)
   <br> Hanxu Hu, **Yunqing Liu**, Zhongyi Yu and Laura Perez-Beltrachini
