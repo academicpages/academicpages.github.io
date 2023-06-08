@@ -40,7 +40,7 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
   <br> _EACL_ **2023** (Findings), [arXiv:2302.09820](https://arxiv.org/abs/2302.09820)
 <!--   <br><img src="/images/table.png"  width="200"/> -->
   
-+ [**Late-Stage Photoredox C–H Amidation of N-Unprotected Indole Derivatives: Access to N-(Indol-2-yl)amides**](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609)
+ [**Late-Stage Photoredox C–H Amidation of N-Unprotected Indole Derivatives: Access to N-(Indol-2-yl)amides**](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609)
   <br>Yue Weng, Bo Ding, **Yunqing Liu**, Chunlan Song, Lo-Ying Chan, and Chien-Wei Chiang*
   <br>_Organic Letters_, **2021**, _23_(7), 2710-2714, [DOI: 10.1021/acs.orglett.1c00609](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609)
   <br><img src="/images/2021ACS.png"  width="200"/>
