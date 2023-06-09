@@ -19,18 +19,22 @@ Research Projects
 ======
 * China (2021): Commodity Review Supervision System
   * Position: Project manager & leader
+
 Worked on collecting and processing the data of commodity reviews. Proposed a static method to reflect the quality of produced goods.
 
 * China (2020): Intelligent Line Crane Supervision
   * Position: Project leader
+
 Primarily worked on coordinating the relationship between the employer and the project director. Improving the object detection method for faster and more accurate recognition effectiveness of workers to prevent serious fatal accidents.
 
 * China (2019-2020): Intelligent Workshop Safety Monitoring System
   * Position: Project designer
+
 Advance worked on coordinating the relationship between the employer and the project director. Mainly worked on designing processes to guide the staff to accomplish the scheduled goals.
 
 * China (2019): Precision aluminum foil embossing inspection
   * Position: Project intern
+
 Preliminary worked on compiling and debugging the program of designed software. Primarily contributed on projects involving software efficiency and display effect.
   
 Publications
