@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Larry Han"
 title_separator          : "-"
 name                     : &name "Larry Han"
-description              : &description "Starting in Aug 2023, I will be an Assisant Professor at Northeatsern University"
+description              : &description "My webpage"
 url                      : https://larrylehan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "larrylehan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Larry Han 韩乐"
   avatar           : "morehead2.png"
-  bio              : "Starting in Aug 2023, I will be an Assisant Professor at Northeatsern University."
+  bio              : "Postdoctoral Fellow at Harvard Medical School, Ph.D. in Biostatistics, Harvard University."
   location         : "Cambridge, MA"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=larry+han&sort=date"
