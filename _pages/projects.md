@@ -8,7 +8,7 @@ author_profile: true
 Course Projects
 ===============
 
-- Multimodal vision project, Spring 2023 [GitHub](https://github.com/ting-chih/CS6804-final-project)
+- Multimodal vision project, Spring 2023 [GitHub](https://github.com/ting-chih/CS6804-final-project) [Report]()
   - Heterogeneous Graph Network for Multi-page Document Visual Question Answering
   - Processed multimodalities data, ex: word text, OCR bouding box and document image
   - Built up the single-modalitiy knowledge graph and multi-modalities knowledge graph
