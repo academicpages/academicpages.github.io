@@ -10,6 +10,5 @@ citation: 'Zhu, L., et al.: Dual-decoder transformer network for answer groundin
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://zlj63501.github.io/files/paper2.pdf)
-
 Recommended citation: Zhu, L., et al.: Dual-decoder transformer network for answer grounding in visual question answering. Pattern Recognit. Lett., 171 (2023), pp. 53-60.
+[Download paper here](http://zlj63501.github.io/files/paper2.pdf)
