@@ -11,30 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in China, Fuyang Normal University, Sep 2015 – Jul 2019
+* M.S. in China, Jiangnan University, Sep 2019 - Jul 2020
+* Ph.D in China, Jiangnan University, Sep 2020 - Present
 
-Work experience
+Research Projects
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* China (2021): Commodity Review Supervision System
+  * Position: Project manager & leader
+Worked on collecting and processing the data of commodity reviews. Proposed a static method to reflect the quality of produced goods.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* China (2020): Intelligent Line Crane Supervision
+  * Position: Project leader
+Primarily worked on coordinating the relationship between the employer and the project director. Improving the object detection method for faster and more accurate recognition effectiveness of workers to prevent serious fatal accidents.
+
+* China (2019-2020): Intelligent Workshop Safety Monitoring System
+  * Position: Project designer
+Advance worked on coordinating the relationship between the employer and the project director. Mainly worked on designing processes to guide the staff to accomplish the scheduled goals.
+
+* China (2019): Precision aluminum foil embossing inspection
+  * Position: Project intern
+Preliminary worked on compiling and debugging the program of designed software. Primarily contributed on projects involving software efficiency and display effect.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+#Skills
+#======
+#* Skill 1
+#* Skill 2
+#  * Sub-skill 2.1
+#  * Sub-skill 2.2
+#  * Sub-skill 2.3
+#* Skill 3
 
 Publications
 ======
@@ -42,18 +48,25 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Research Interest
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Computer Vision
+  * Object Detection
+  * Instance Segmentation
+* Multimodal Interaction
+  * Image-Text Interaction
+  * Visual Question Answering
+  * Referring Expression Comprehension
+  * Referring Image Segmentation
   
-Teaching
+Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2017 China Smart Manufacturing Challenge Industrial Hardware R&D Competition: The first place
+* 2019 Excellent Undergraduate Thesis
+* 2020 Graduate Professional Scholarship: The second place
+* 2021 Graduate Professional Scholarship: The second place
+* 2022 Graduate Professional Scholarship: The third place
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
