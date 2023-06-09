@@ -14,6 +14,7 @@ Education
 * MBBS, University of Medicine, Mandalay (2002)
 * MMedSc (Public Health), University of Medicine, Mandalay (2007)
 * Ph.D in Clinical Epidemiology, Mahidol University (2017)
+* Diploma in Medical Education, University of Public Health, Yangon (2019)
 
 Work experience
 ======
