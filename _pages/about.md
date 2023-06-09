@@ -17,7 +17,7 @@ Research Interest
 1. Fast algorithm in joint routing and charging problem of electrical vehicles.
 2. Online routing problem of electrical vehicles.
 3. Electrical vehicles routing problem with time of use electricity price. 
-4. The optimal routing and charging scheme of solar-powered EVs considering stochastic travel time.
+#4. The optimal routing and charging scheme of solar-powered EVs considering stochastic travel time.
 
 
 
