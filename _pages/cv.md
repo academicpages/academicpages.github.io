@@ -33,15 +33,6 @@ Advance worked on coordinating the relationship between the employer and the pro
   * Position: Project intern
 Preliminary worked on compiling and debugging the program of designed software. Primarily contributed on projects involving software efficiency and display effect.
   
-#Skills
-#======
-#* Skill 1
-#* Skill 2
-#  * Sub-skill 2.1
-#  * Sub-skill 2.2
-#  * Sub-skill 2.3
-#* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -67,6 +58,3 @@ Awards
 * 2021 Graduate Professional Scholarship: The second place
 * 2022 Graduate Professional Scholarship: The third place
   
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
