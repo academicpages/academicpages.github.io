@@ -41,7 +41,7 @@ News
 Journal paper
 ------
 1. **C. Yao**, S. Chen, M. Salazar, and Z. Yang.“Electric Vehicle Routing Problem with Spatio-temporal Varying Electricity Price and Incentive-aware Customers”  IEEE Transactions on Intelligent Transportation Systems, 2023. 
-2.  S. Chen, H. Miao, Z. Guo, L. Yang, **C. Yao** and Z. Yang, "A Truthful Combinatorial Reverse Auction Mechanism For Crowdshipping," in IEEE Internet of Things Journal, 2023.[[link]](https://ieeexplore.ieee.org/document/10131977)
+2.  S. Chen, H. Miao, Z. Guo, L. Yang, **C. Yao**, and Z. Yang, "A Truthful Combinatorial Reverse Auction Mechanism For Crowdshipping," in IEEE Internet of Things Journal, 2023.[[link]](https://ieeexplore.ieee.org/document/10131977)
 3.   **C. Yao**, S. Chen, and Z. Yang, "Online Distributed Routing Problem of Electric Vehicles," in IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 9, pp. 16330-16341, Sept. 2022.[[link]](https://ieeexplore.ieee.org/document/9713755)
 4. **C. Yao**, S. Chen, and Z. Yang, "Joint Routing and Charging Problem of Multiple Electric Vehicles: A Fast Optimization Algorithm." in IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 7, pp. 8184-8193, July 2022. [[link]](https://ieeexplore.ieee.org/document/9430759)
 
