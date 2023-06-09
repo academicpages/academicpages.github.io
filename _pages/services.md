@@ -36,3 +36,5 @@ EUROCRYPT 23, Usenix Security 23, ACNS 23, ISIT 23, CT-RSA 22, CRYPTO 22, CCS 22
 
 - **Session Chair @ CCS 22**, Los Angeles, CA  
 *Track*: Advanced Public Key Primitives
+
+- **Session Chair @ TPMPC 23**, Aarhus University, Aarhus, Denmark
