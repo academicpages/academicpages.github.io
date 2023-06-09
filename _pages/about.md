@@ -10,7 +10,7 @@ redirect_from:
 
 I am a final year Ph.D. student in the Department of Materials Science and Engineering at [Carnegie Mellon University](https://www.cmu.edu/), and expected to graduate in May 2023. I work at the intersection of materials science and machine learning. I am actively seeking full-time employment as a Machine Learning Engineer (MLE) and and Data Scientist (DS).
 
-I possess a strong skill set in materials science, machine learning and software engineering. I am eager to bring my expertise and passion to a company where I can continue to learn and make a meaningful impact.
+I am passionate about materials science, machine learning and software engineering. I am eager to bring my expertise and passion to a company where I can continue to learn and make a meaningful impact.
 
 Research Interests
 ------
