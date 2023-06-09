@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Quantitative Economics and Statistical and Data Science, Smith College, 2020\
+* Ph.D in Biostatistics and Bioinformatics, Duke School of Medicine, 2026 (Expected)
 
 Work experience
 ======
