@@ -12,4 +12,4 @@ I'm a third year PhD candidate from [School of IoT](http://iot.jiangnan.edu.cn/i
 
 You can find my CV here: [Liangjun's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:zhuliangjun@stu.jiangnan.edu.cn) / [Github](https://github.com/zlj63501) / [WeChat public account](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qq_38929105) / [Bilibili](https://space.bilibili.com/306959765)
+[WeChat public account](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qq_38929105) / [Bilibili](https://space.bilibili.com/306959765)
