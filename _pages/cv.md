@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Quantitative Economics and Statistical and Data Science, Smith College, 2020\
+* B.S. in Quantitative Economics and Statistical and Data Science, Smith College, 2020
 * Ph.D in Biostatistics and Bioinformatics, Duke School of Medicine, 2026 (Expected)
 
 Work experience
