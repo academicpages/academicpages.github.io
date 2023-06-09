@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Larry Han is an incoming Assistant Professor of Health Sciences at Northeastern University, Bouve College of Health Sciences. He is currently a postdoctoral fellow, mentored by Professor Sharon-Lise Normand at Harvard Medical School, Department of Health Care Policy. 
+Larry Han is currently a postdoctoral fellow, mentored by Professor Sharon-Lise Normand at Harvard Medical School, Department of Health Care Policy. 
 
 [His research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) focuses on developing novel statistical methods to leverage real world data to improve decision-making in public health and clinical medicine. Specifically, his academic interests include robust and efficient estimation and inference of treatment effects using large-scale data generated from electronic health records and clinical trial data.
 
