@@ -10,17 +10,19 @@ Research Experience
 ===================
 
 - Virginia Tech GRA, Summer 2022  
-  - Built up a wikiHow instrumental video dataset
-  - Researched about inductive/abductive reasoning
-  - Methods: employed multi-modalities models and induced knowledge from LLMs
+  - Constructed a comprehensive wikiHow instrumental video dataset  
+  - Conducted extensive research on the topic of inductive/abductive reasoning  
+  - Utilized state-of-the-art multi-modal models to analyze and extract valuable insights  
+  - Employed advanced techniques to induce knowledge from LLMs  
  
 - NCHC Research Intern, Summer 2019
-  - Built up a boat images dataset
-  - Researched YOLO2 and object detection
+  - Developed a comprehensive dataset of boat images for research purposes
+  - Conducted in-depth research on YOLO2, focusing on object detection techniques  
 
 - NCUE RA, 2018-2019
   - Developed the cryptocurrency and smart contract
-  - Researched On The Necessity Of Combining Blockchain Technology With Industrial Technology
+  - Conducted extensive research on the integration of blockchain technology with industrial technology  
+  - Analyzed the challenges and opportunities associated with implementing blockchain solutions in industrial settings  
 
 Teaching Experience
 ===================
