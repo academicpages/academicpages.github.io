@@ -6,7 +6,6 @@ Name Name:
   email       : "elaona.lemoto@duke.edu"
   bio         : "PhD Student in Department of Biostatistcs and Bioinformatics at Duke"
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
   google_plus : "Name"
 
 Name2 Name2:
@@ -14,5 +13,4 @@ Name2 Name2:
   email       : "elaona.lemoto@duke.edu"
   bio         : "PhD Student in Department of Biostatistcs and Bioinformatics in Duke School of Medicine"
   avatar      : "bio-photo.jpg"
-  twitter     : "name2"
   google_plus : "Name"
