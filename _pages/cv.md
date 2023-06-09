@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MBBS, University of Medicine, Mandalay (2002)
+* MMedSc (Public Health), University of Medicine, Mandalay (2007)
+* Ph.D in Clinical Epidemiology, Mahidol University (2017)
 
 Work experience
 ======
