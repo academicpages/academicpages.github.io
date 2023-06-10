@@ -24,10 +24,10 @@ redirect_from:
 연구 분야 (Research Areas)
 ---
 * Massive MIMO
-* Deep learning
-* Deep reinforcement learning
-* Resouce allocation
+* deep learning / reinforcement learning
+* resouce allocation
 * IoT, ICT system
+* 5G and beyond 5G
 * Software-defined ratio (SDR)
 
 
@@ -53,10 +53,10 @@ redirect_from:
 
 * **수상 경력 (honors and awards)**
   * 제 33회 통신정보 합동학술대회, 최우수논문상 (2023.04)
-  * 광주/전남 학생 AI 아이디어 공모전, GJ RIP (우수상, 2022.03.18 - 25)
-  * 조선대학교 2021 IT 페스티벌 (은상, 2021.11.26)
-  * 한국통신학회 추계학술대회 최우수논문상 (2020.02)
-  * 지역 개발 융합대회, 대학교 산학협력단 연합 (최우수상, 2020.01.29 - 31)
+  * GJ RIP 광주/전남 학생 AI 아이디어 공모전, 우수상 (2022.03.18 - 25)
+  * 조선대학교 2021 IT 페스티벌, 은상 (2021.11.26)
+  * 한국통신학회 추계학술대회, 최우수논문상 (2020.02)
+  * 대학교 산학협력단 연합 지역 개발 융합대회, 최우수상 (2020.01.29 - 31)
 
 
 주요 역량 (Summary of Qualifications)
