@@ -33,5 +33,5 @@ problem.movie(sol);
 <img src="/images/lorenz.gif" alt="Markdown Monster icon"   style="float: left; margin-right: 10px" width="300"/> 
 
 ## More information
-Check out the [Github page](https://github.com/ComputationalScienceLaboratory/ODE-Test-Problems) of this project for tutorials and installation guides.
+Check out the [Github repository](https://github.com/ComputationalScienceLaboratory/ODE-Test-Problems) for this project for tutorials and installation guide.
 <iframe src="https://ghbtns.com/github-btn.html?user=ComputationalScienceLaboratory&repo=ODE-Test-Problems&type=star&size=large&text=true" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe> 

@@ -8,12 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+<!-- ## About me -->
+
+I am a post-doctoral associate in the [Computer Science](https://cs.vt.edu) Department at Virginia Tech, where I also received my PhD. My main [research](/research) area is in the theory and applications of [scientific machine learning](/research/sci-ml/). I am also interested in using [data science](/research/DPP/) to inform public health and policy decisions.
+
+My PhD thesis focused on efficient numerical methods for initial value problems. Most of that work has been [published](/publications) in SIAM, Elsevier, and Springer journals and [presented](/talks) to the scientific computing community.
+
+I am joining the [Computer Engineering and Computer Science](https://www.csulb.edu/college-of-engineering/computer-engineering-computer-science) Department at California State University, Long Beach, in fall 2023.
+
+<!-- Prospective students please fill out [this short survey](https://forms.gle/YQcw92ZJorb4NmVV9). -->
 
 
-I am a post-doctoral associate in the [Computer Science Department](https://cs.vt.edu) at Virginia Tech where I aslo received my PhD. 
-
-My thesis was centered around efficient numerical methods for initial value problems. Most of that work has been [published](/publications) in SIAM, Elsevier and Springer journals and [presented](/talks) to the scientific computing community. 
-
-
-## Contact 
+<!-- ## Contact  -->
 

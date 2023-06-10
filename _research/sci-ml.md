@@ -1,11 +1,11 @@
 ---
 title: "Scientific Machine Learning"
 layout: single-portfolio
-excerpt: "<img src='/images/research/lorenz.png' alt=''>"
+excerpt: "<img src='/images/research/sciml.png' alt=''>"
 collection: research
 order_number: 1
 header: 
-  og_image: "/images/research/lorenz.png"
+  og_image: "/images/research/sciml.png"
 ---
 
 
