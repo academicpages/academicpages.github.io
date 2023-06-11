@@ -56,3 +56,6 @@ Listas de Exercícios
 2. Estudar e fazer os exercícios (múltiplos de 3) da seção IV do capítulo X do livro do Iezzi, volume 10
 3. Estudar e fazer os exercícios (múltiplos de 3) da seção IV do capítulo XI do livro do Iezzi, volume 10
 4. Estudar e fazer os exercícios (múltiplos de 3) da seção II do capítulo XII do livro do Iezzi, volume 10
+5. Fazer os exercícios das seções 1.2 e 1.3 do livro do David Poole de Álgebra Linear
+6. Fazer os exercícios 1-8, 9-14, 23-26 do livro do David Poole de Álgebra Linear
+
