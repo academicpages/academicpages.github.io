@@ -12,11 +12,13 @@ Before coming to the USC, I obtained the Bachelor of Engineering in CSE at South
 
 # Research interests
 - Human Computer Interaction Interface Design
-- Software Engineering and Testing
+- Large Language Models
 - Virtual / Augmented Reality
 
 # Recent Activities
 ## Experience
+From May 2023 to August 2023, I will be working as an AI engineer at [UBT Robotics](https://www.ubtrobot.com/) on large language models.
+
 From August 2022 to December 2022, I worked as a research assistant for Dr.[Luo Tao](https://designschool.sustech.edu.cn/cn/academics/faculty/378.html) at SUSTECH's [School of Design](https://designschool.sustech.edu.cn/cn), mainly responsible for Unity MR development, [IxDL](http://ixdlanguage.org/) user survey, and HCI-experiment design.
 
 From March 2022 to June 2022, I worked as a front-end engineer for a start-up named 未界科技(Weijie Technology). This company aims to strengthen the industry of [Murder Mystery Game](https://en.wikipedia.org/wiki/Murder_mystery_game) with computer technology.  
