@@ -53,7 +53,7 @@ Skills
 
 Services
 ======
-* Reviewer for Engineering Structures
+* Reviewer for Engineering Structures (2 times)
 * Student Assistance Ambassador, Hefei University of Technology, 2019.01-2019.06
 * Student Union, Center of Learning and Development, Hefei University of Technology, 2015.09-2016.06
 
@@ -67,7 +67,7 @@ Publications
 
 Presentations
 ======
-* 1
+* Topology optimization on complex surfaces based on the moving morphable component methd and computational conformal mapping, WCSMO-15, 2023.06.06
 * 2
 * 3
   
