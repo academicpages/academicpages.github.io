@@ -61,7 +61,8 @@ I have presented / will be presenting at...
 
 #### Italian Association for the History of Economic Thought (AISPE)
 
-- Bologna, Italy: 2019: The rise of economic inequality. Contributions from the history of the social sciences.
+- Bologna, Italy: 2019. Panel: The rise of economic inequality. Contributions from the history of the social sciences.
+
 #### Italian Political Science Association (SISP)
 
 - Genova, Italy: 2023. Panel: Social Status, Social norms, Public Opinion and Political Behaviour.
