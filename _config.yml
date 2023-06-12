@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Gabriel Toledo"
-logo                     : "NYU_Stacked_RGB_Color.png"
+logo                     : "NYU_Logo_RGB_Color.png"
 foot_logo                : "NYU_Long_RGB_Color.png"
 title_separator          : "-"
 name                     : &name "Home"
