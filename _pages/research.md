@@ -32,6 +32,13 @@ redirect_from:
 
 - Hector Bahamonde. "Illiberal Democrats: The 2016 United States Presidential Election as a Critical Juncture, a Conjoint Experiment." <br/> [[Abstract]](http://www.hectorbahamonde.com)
 
+- Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Being on the Winning Side and Commitment to Democratic Principles: Experimental Evidence from New Democracies."
+
+- Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Authoritarian Legacies and Commitment to the 'Egalitarian Model of Democracy'."
+
+- Hector Bahamonde and Aki Koivula. "Power To The People: Rising Inequality Levels and the Case of the Finns Party in Finland."
+
+
 
 ## Invited Book Reviews
 
