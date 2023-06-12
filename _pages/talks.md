@@ -25,7 +25,7 @@ I have presented / will be presenting at...
 - Innsbruck, Austria: 2022. Panel: Clientelism in Developing Democracies: Divergent Explanations, Convergent Outcomes (full panel organizer).
 
 #### Nordic Sociological Association Conference (NSA)
-- Reykjavik, Iceland: 2022.
+- Reykjavik, Iceland: 2022. Panel: Myths and realities of the Nordic welfare state.
 
 #### Society for Institutional & Organizational Economics (SIOE)
 - Toronto, Canada: 2022. [declined]
