@@ -6,4 +6,6 @@ author_profile: true
 
 ---
 
-This page is under construction, visit a later time to see updates! <br/><img src='/images/500x300.png'>
+I helped establish the Joint Program - Applicant and Support Knowledgbase ([JP-ASK](https://mit.whoi.edu/admissions/apply/jp-applicant-service-knowledgebase-jp-ask/)) and served on the excecutive board from 2019-2022. JP-ASK is a volunteer mentorship program for prospective graduate students to ocean sciences  <br/><img src='/images/500x300.png'>
+
+I have been an organizer for the Graduate Climate Conference ([GCC](https://graduateclimateconference.github.io/about/)) since 2021 and currently serve as Co-chair for the 2023 GCC. The GCC is an annual interdisciplinary science conference organized by graduate students for graduate students <br/><img src='/images/500x300.png'>
