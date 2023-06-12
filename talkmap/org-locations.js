@@ -143,4 +143,10 @@ var addressPoints = [
     "St. Petersburg, FL, US",
     27.729741, -82.743840
   ],
+
+  // Italian Political Association Meeting, SISP 2023
+  [
+    "Genova, Italy",
+      44.413922832657114, 8.928958196526295
+  ],
 ];

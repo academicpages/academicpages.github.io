@@ -41,6 +41,8 @@ Upcoming Talks
 
 - European Political Science Association Meeting (EPSA): June 22-24, 2023; Glasgow, Scotland.
 
+- Italian Political Science Association (SISP): September 14-16, 2023. Genova, Italy.
+
 <!---
 
 Dissertation
