@@ -2,10 +2,10 @@
 <browserconfig>
   <msapplication>
     <tile>
-      <square70x70logo src="/images/site-logo.png"/>
-      <square150x150logo src="/images/site-logo.png"/>
-      <square310x310logo src="/images/site-logo.png"/>
-      <wide310x150logo src="/images/site-logo.png"/>
+      <square70x70logo src="/images/NYU_Stacked_RGB_Color.png"/>
+      <square150x150logo src="/images/NYU_Stacked_RGB_Color.png"/>
+      <square310x310logo src="/images/NYU_Stacked_RGB_Color.png"/>
+      <wide310x150logo src="/images/NYU_Stacked_RGB_Color.png"/>
       <TileColor>#43277B</TileColor>
     </tile>
   </msapplication>
