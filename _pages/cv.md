@@ -72,7 +72,13 @@ Presentations
 * 面向复杂薄壁结构的显式拓扑优化软件, 第一届开源工业仿真软件集成大赛, 2023.02.24
 * 基于移动可变形组件法与计算共形映射的复杂曲面结构优化, 中国力学学会第三届博士生学术论坛, 2023.01.07
   
-<!-- Conferences and Seminars
+Seminars
+======
+* 2nd workshop on explicit topology optimization and software usage, Dalian, 2022.03.24
+* 1st workshop on explicit topology optimization and software usage, Dalian, 2021.05.02-2021.05.04 (totally self-organized by students, within the research group)
+
+<!-- 
+Conferences and Seminars
 ====== -->
 
 <!-- Project experience -->
