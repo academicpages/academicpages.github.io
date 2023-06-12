@@ -6,4 +6,4 @@ author_profile: true
 
 ---
 
-This page is under construction, visit a later time to see updates! <br/><img src='/images/500x300.png'>"
+This page is under construction, visit a later time to see updates! <br/><img src='/images/500x300.png'>
