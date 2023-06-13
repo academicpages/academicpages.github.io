@@ -62,11 +62,8 @@
         <p>
         {% if post.authors %}
            {% for author in post.authors %}
-          {% if author.firstname == site.author.firstname %}
-                  {% if author.lastname == site.author.lastname %}
                   {{ author.firstname }} {{ author.lastname }};
               {% endfor %}    
-        {% endif %}
           <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>                                                                          
         {% elsif post.date %}
         {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}      
