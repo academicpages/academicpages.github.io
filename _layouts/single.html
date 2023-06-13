@@ -37,7 +37,6 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.collection == "publications" %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
           <citation>
             <p>
             {% if page.authors %}
@@ -54,11 +53,11 @@ layout: default
                   {% endif %}
                 {% endif %}
               {% endfor %}
-         <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
-        {% elsif page.date %}
-        {{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}      
-         {% endif %}
-
+                {% if page.venue != "Working Paper" %}
+                  <i>{{ page.venue }}</i>,
+                {% endif %}
+                ({{ page.date | date: "%Y" }}) 
+            {% endif %}
             </p>
           </citation>
         {% elsif page.date %}
