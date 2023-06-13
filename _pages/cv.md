@@ -11,49 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Geology, Indian Institute of Technology, Bombay 2020
+* M.Tech. in Petroleum Geology, Dibrugarh University, 2012
+* M.Sc. in Geology, Gauhati University, 2010
+* B.Sc. in Geology, Gauhati Unversity, 2008
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-2022: Post Doctoral Fellow (IIT Bombay)
+  * Estimating erosion rates 
+  * Inversion of detrital fission track age distribution
+  * Geomorphometric analysis
+  * Bayesian statistics
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020-2021: Research Associate
+  * Detrital fission track analysis
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Bayesian erosion model for detrital thermochronological ages
+* Pyhton
+  * Data analysis and visualisation (e.g., jupyter lab, matplotlib, scipy, scikit-learn, seaborn)
+  * Dataset management (e.g., pandas)
+  * Geospatial (e.g., gdal, pcraster)
+  * Package distribution (e.g., conda, pip)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Matlab
+  * Morphometric analysis (e.g., Topotoolbox, Topographic Analysis Kit)
+  * River profile inversion
+* R
+  * Fission track data ploting (e.g., IsoplotR)
+  * Luminescence dating data analysis (e.g., RLum)
+* QGIS
+* HEC-RAS paleo-hydrological modeling
+* Laboratory
+  * Luminescence dating sample preparation
+  * Fission track dating sample prepartion
+  * Heavy mineral analysis
+  * Detrital grain thin section preparation
+
