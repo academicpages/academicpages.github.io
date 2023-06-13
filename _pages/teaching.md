@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:
+title: Teaching Assistance
 permalink: /teaching/
 venue: "New York University"
 date: 2021-01-01
