@@ -54,11 +54,11 @@ layout: default
                   {% endif %}
                 {% endif %}
               {% endfor %}
-                {% if page.venue != "Working Paper" %}
-                  <i>{{ page.venue }}</i>
-                {% endif %}
-                ({{ page.date | date: "%Y" }}) 
-            {% endif %}
+         <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
+        {% elsif page.date %}
+        {{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}      
+         {% endif %}
+
             </p>
           </citation>
         {% elsif page.date %}
