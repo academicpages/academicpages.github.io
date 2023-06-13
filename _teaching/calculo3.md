@@ -41,10 +41,14 @@ Datas das Provas
 Listas de Exercícios 
 ======
 * [Lista 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/calculo3/lista01.pdf)
+* [Exercícios (valor 5.0 pontos)](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/calculo3/listafinal.pdf)
+
 
 Aulas
 ======
 * [Integrais Duplas sobre Retângulos](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/calculo3/intDuplas.pdf)
 * [Integrais Iteradas](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/calculo3/intIteradas.pdf)
 * [Integrais Duplas sobre Regiões Genéricas](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/calculo3/intregioesgenericas.pdf)
+
+
 
