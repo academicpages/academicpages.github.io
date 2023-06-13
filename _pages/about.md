@@ -96,7 +96,7 @@ Email: wang dot dian at northeastern dot edu
 **On Robot Grasp Learning Using Equivariant Models**  
 Xupeng Zhu, **Dian Wang**, Guanang Su, Ondrej Biza, Robin Walters, Robert Platt  
 *Autonomous Robots. 2023*  
-<button class="button-4" onclick="">PDF Coming Soon</button>
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2306.06489.pdf','_blank')">PDF</button>
 <br>
 
 ![](images/iclr23.gif){: .align-right width="200px"}
