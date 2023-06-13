@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+  
 {% include base_path %}
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
@@ -37,7 +37,6 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.collection == "publications" %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
           <citation>
             <p>
             {% if page.authors %}
@@ -57,26 +56,27 @@ layout: default
                 {% if page.venue != "Working Paper" %}
                   <i>{{ page.venue }}</i>,
                 {% endif %}
-                ({{ page.date | date: "%Y" }}) 
+                ({{ page.date | date: "%Y" }}) <i>{{ page.title }}</i>
+              {% if page.paperurl %}
+                ; Available at: <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a>
+              {% endif %}
             {% endif %}
             </p>
+            {% if page.keywords %}
+            <p>Keywords: <i>{{ page.keywords }}</i></p>
+            {% endif %}
           </citation>
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
-        
-             
-    
+
         </header>
       {% endunless %}
 
       <section class="page__content" itemprop="text">
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
-       <br>
-       {% if page.keywords %}
-        <p>Keywords: <i>{{ page.keywords }}</i></p>
-        {% endif %}                                                                                                                                     
+        <br>
         {% if page.paperurl %}
           <p><a href=" {{ page.paperurl }} "><button class="btn"><i class="fa fa-download"></i> Download</button></a></p>
         {% endif %}
