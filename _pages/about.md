@@ -25,6 +25,11 @@ Research Interest
  
 Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 ======
++ [**Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective**](https://arxiv.org/abs/2306.06615)
+  <br> Jiatong Li\*, **Yunqing Liu\***, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li
+  <br> _arXiv_, [arXiv:2302.02591](https://arxiv.org/abs/2306.06615)
+  <br><img src="/images/MolReGPT.png"  width="200"/>
+
 + [**Generative Diffusion Models on Graphs: Methods and Applications**](https://arxiv.org/abs/2302.02591)
   <br> Chengyi Liu, Wenqi Fan, **Yunqing Liu**, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li
   <br> _IJCAI_ **2023**, [arXiv:2302.02591](https://arxiv.org/abs/2302.02591)
@@ -36,12 +41,12 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
   <br><img src="/images/outputs.png"  width="200"/>
 
 + [**Late-Stage Photoredox C–H Amidation of N-Unprotected Indole Derivatives: Access to N-(Indol-2-yl)amides**](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609)
-  <br>Yue Weng, Bo Ding, **Yunqing Liu**, Chunlan Song, Lo-Ying Chan, and Chien-Wei Chiang*
+  <br>Yue Weng, Bo Ding, **Yunqing Liu**, Chunlan Song, Lo-Ying Chan, and Chien-Wei Chiang
   <br>_Organic Letters_, **2021**, _23_(7), 2710-2714, [DOI: 10.1021/acs.orglett.1c00609](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609)
   <br><img src="/images/2021ACS.png"  width="200"/> 
   
 + [**Selective Photoredox Trifluoromethylation of Tryptophan-Containing Peptides**](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572)
-  <br>Bo Ding, Yue Weng, **Yunqing Liu**, Chunlan Song, Le Yin, Jiafan Yuan, Yanrui Ren, Aiwen Lei\*, Chien-Wei Chiang\*
+  <br>Bo Ding, Yue Weng, **Yunqing Liu**, Chunlan Song, Le Yin, Jiafan Yuan, Yanrui Ren, Aiwen Lei, Chien-Wei Chiang
   <br>_European Journal of Organic Chemistry_, **2019**, _46_(12), 7596-7605, [DIO:10.1002/ejoc.201901572](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572)
   <br><img src="/images/ejoc_3.jpg"  width="200"/>
 
