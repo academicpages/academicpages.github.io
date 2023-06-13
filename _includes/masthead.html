@@ -7,7 +7,15 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
        
+          
           <li class="masthead__menu-item masthead__menu-item--lg">
+            <a href="{{ base_path }}/">
+              {% if site.logo %}
+                <img src="{{ site.logo | prepend: "/images/" | prepend: base_path }}" alt="{{ site.title }}" height = "30" width = "30" class="masthead__logo">
+              {% endif %}
+              {{ site.title }}
+            </a>
+          </li>
             <a href="{{ base_path }}/">
               {% if site.logo %}
                 <img src="{{ site.logo | prepend: "/images/" | prepend: base_path }}" alt="{{ site.title }}" height = "30" width = "30" class="masthead__logo">
