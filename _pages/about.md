@@ -20,7 +20,7 @@ Publications
 ======
 1. **Kostas Tsampourakis**, Víctor Elvira. (2023). "[An Augmented Gaussian Sum Filter Through a Mixture Decomposition](https://ieeexplore.ieee.org/document/10095899)" <i> 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>.
 2. **Kostas Tsampourakis**, Víctor Elvira. (2022). "[Approximating The Likelihood Ratio in Linear-Gaussian State-Space Models for Change Detection](https://ieeexplore.ieee.org/document/9746881)" <i> 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</i>.
-3. Abhishek Kaul, Hongjin Zhang, **Kostas Tsampourakis**, George Michailidis. "[Inference on the Change Point under a High Dimensional Covariance Shift](https://www.jmlr.org/papers/volume24/22-1122/22-1122.pdf)" <i> (under review in JMLR) </i>.
+3. Abhishek Kaul, Hongjin Zhang, **Kostas Tsampourakis**, George Michailidis. "[Inference on the Change Point under a High Dimensional Covariance Shift](https://www.jmlr.org/papers/volume24/22-1122/22-1122.pdf)" <i> 2023, JMLR </i>.
 
 <!-- Teaching Experience
 ======
