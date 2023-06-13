@@ -58,6 +58,24 @@
               {% endfor %}    
         {% endif %}
           <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
+           {% elsif post.collection == 'research' %}
+        <p>
+        {% if post.authors %}
+           {% for author in post.authors %}
+          {% if author.firstname == site.author.firstname %}
+                  {% if author.lastname == site.author.lastname %}
+                  <a href = "{{ base_path }}" style = "font-weight: normal; text-decoration: none"><b> {{ author.firstname }} {{ author.lastname }} </b>;</a>
+                  {% endif %}
+                {% else %}
+                  {% if author.url %}
+                  <a href = "{{ author.url }}"" style = "font-weight: normal; color: black">{{ author.firstname }} {{ author.lastname }};;</a>
+                  {% else %}
+                  {{ author.firstname }} {{ author.lastname }};
+               {% endif %}
+               {% endif %}
+              {% endfor %}    
+        {% endif %}
+          <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>                                                                          
         {% elsif post.date %}
         {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}      
     {% endif %}
