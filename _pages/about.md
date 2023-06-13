@@ -28,7 +28,7 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
 + [**Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective**](https://arxiv.org/abs/2306.06615)
   <br> Jiatong Li\*, **Yunqing Liu\***, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li
   <br> _arXiv_, [arXiv:2302.02591](https://arxiv.org/abs/2306.06615)
-  <br> \*Co-author
+  <br> \*Co-first author
   <br><img src="/images/MolReGPT.png"  width="200"/>
 
 + [**Generative Diffusion Models on Graphs: Methods and Applications**](https://arxiv.org/abs/2302.02591)
