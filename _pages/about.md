@@ -33,20 +33,19 @@ I am organizing the 2023 NYU Shanghai site for Summer Institute of Computational
 
 I am teaching intro to css for NYU Shanghai. Check here for [the syllabus](https://yongjunzhang.com/files/CSS_Intro_NYU_Shanghai_Syllabus.pdf). 
 
-## Call for Papers
-
-I am co-editing an anual series on cohabitation and the evolving nature of intimate and family relationships with Dr. Sampson Blair for Contemporary Perspectives in Family Research. The deadline for initial submissions is September 30, 2022. [Please click here for more details.](https://yongjunzhang.com/files/CPFR-2022-Cohabitation-Call-for-Papers.pdf)
-
 ## Frontiers Conversations on Digital Society
 I am co-hosting a Brownbag series with Professor Zeqi Qiu at Peking University focusing on digital society and its impact on our world. Our first speaker is Professor Chris Bail.
 
 April 6, 2022, Conversation with Professor Chris Bail at Duke University, Director of Polarization Lab. [Click here for more info](https://yongjunzhang.com/files/smp.pdf). 
 
-November 10, 2022, Conversation with Visiting Professor Esteban Moro at MIT Media Lab. Sponsored by IACS at Stony Brook University.
+November 10, 2022, Conversation with Professor Esteban Moro at MIT Media Lab. Sponsored by IACS at Stony Brook University.
 
 November 4, 2022, Conversation with Assitant Professor Rebecca Johnson at Georgetown McCourt School of Public Policy. Sponsored by Sociology at Stony Brook University.
 
 ## New Paper Alert
+
+Yongjun Zhang, Siwei Cheng, Zhi Li, and Wenhao Jiang. 2023. "[Human  mobility patterns are associated with experienced partisan segregation in US Metropolitan areas]()." Springer Nature Scientific Reports.
+
 Charles Seguin, Thomas Maher, Yongjun Zhang. 2023. [A Seat at the Table: A New Dataset of Social Movement Organization Representation Before Congress during the 20th Century](https://t.co/wkTU2sQDlo). Socius.
 
 Yongjun Zhang and Jennifer Heerwig. 2022. "[Gender, Race, and Intersectionality in Campaign Cash to the U.S. Congress, 1990-2014.](https://journals.sagepub.com/doi/full/10.1177/23780231221121063)" Socius.
@@ -67,19 +66,22 @@ Yongjun Zhang. 2023. "[Spatial Segregation and Political Engagement among Asian 
 
 Yongjun Zhang. 2023. "[Multiplex Spatial Segregation of Asian American Voters in New York City]()."
 
-Yongjun Zhang, Siwei Cheng, Zhi Li, and Wenhao Jiang. 2023. "[Human  mobility patterns are associated with experienced partisan segregation in US Metropolitan areas](https://yongjunzhang.com/files/eps.pdf)." 
-
 Yongjun Zhang and Siwei Cheng. 2023. "[Mobility-based Segregation in U.S. Metropolitan Areas](https://yongjunzhang.com/files/nb_seg.pdf)."
 
 Yongjun Zhang and Jennifer Heerwig. 2023. "[Gender, Race, and Intersectionality in the Political Donations of America's Corporate Elite](https://yongjunzhang.com/files/cf-paper.pdf)".
 
-Yongjun Zhang, Sijia Liu, Yi Wang, and Xinguang Fan. 2022. ''[Detecting Fake News on Twitter in the Chinese Language Community](https://yongjunzhang.com/files/Fake_News.pdf)."
+Yongjun Zhang, Sijia Liu, Yi Wang, and Xinguang Fan. 2022. ''[Detecting Fake News on Twitter in the Chinese Language Community](https://doi.org/10.48550/arXiv.2304.03454)."
 
-Yongjun Zhang, Hao Lin, Yi Wang, and Xinguang Fan. 2022. ''[Sinophobia was popular on Twitter during the early COVID-19 pandemic](https://yongjunzhang.com/files/Sinophobia_in_COVID19.pdf)."
+Yongjun Zhang, Hao Lin, Yi Wang, and Xinguang Fan. 2022. ''[Sinophobia was popular on Twitter during the early COVID-19 pandemic]()."
 
 Yongjun Zhang. 2021. "[Using Population Mobility to Measure Racial Residential Segregation in the U.S. Metro Areas](https://osf.io/pvbxw/)." 
 
 ## Talks
+
+Yongjun Zhang. August 2023. "Experienced Partisan Segregation." ASA Session on Inequality across Time, Space, and Families.
+
+Yongjun Zhang. July 2023. "Computational Social Science: New Trends, Opportunities, and Challenges." Nanjing University [[Poster]]().
+
 Yongjun Zhang. March 2022. "Gender, Race, and Intersectionality in the Political Donations of America's Corporate Elite". European University Institute. with Dr. Jennifer Heerwig.
 
 Yongjun Zhang. Dec 2021. "Computational Social Science: Its Recent Development, Opportunities, and Challenges." Peking University [[Poster]](https://yongjunzhang.com/images/pkutalk.png).
