@@ -3,13 +3,13 @@ title: "Evidence of episodically accelerated denudation on the Namche Barwa mass
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+date: 2020-06-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: '**Borgohain, B.**, Mathew, G., Chauhan, N., Jain, V., Singhvi, A.K., 2020. Evidence of episodically accelerated denudation on the Namche Barwa massif (Eastern Himalayan syntaxis) by megafloods. **Quaternary Science Reviews** 245, 106410. doi:https://doi.org/10.1016/j.quascirev.2020.106410'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+#[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: **Borgohain, B.**, Mathew, G., Chauhan, N., Jain, V., Singhvi, A.K., 2020. Evidence of episodically accelerated denudation on the Namche Barwa massif (Eastern Himalayan syntaxis) by megafloods. **Quaternary Science Reviews** 245, 106410. doi:https://doi.org/10.1016/j.quascirev.2020.106410.
