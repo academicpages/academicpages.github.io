@@ -8,13 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student doing neuroscience research at the California Institute of Technology ([Caltech](https://neuroscience.caltech.edu/)). My advisor is Prof. [Markus Meister](https://meisterlab.caltech.edu/markusmeister). I am interested in cognitive flexibility, learning and memory in mice and humans. 
+I am a third-year PhD student in the Neurobiology program at the California Institute of Technology ([Caltech](https://neuroscience.caltech.edu/)). My advisor is Prof. [Markus Meister](https://meisterlab.caltech.edu/markusmeister). I am interested in cognitive flexibility, learning and memory in mice and humans. Currently I am working on Project titled "[Mice in Manhattan](https://www.youtube.com/watch?v=ULZqNH9vWPA&ab_channel=MouseMazeData)," using a novel reconfigurable maze to study rapid learning and flexible routing. 
 
 Prior to Caltech, I did my undergraduate studies at Cornell University (B.S. in Biological Engineering) and Shanghai Jiao Tong University (B.Eng. in Food Science and Engineering). I then obtained a Master's degree in Education and Psychology at the University of Cambridge. 
 
 
 News
 ======
+
+**2023/05/24** - I won the travel award and presented our latest work on the Manhattan Maze Project at [the Curiosity, Creativity and Complexity 2023 Conference](https://zuckermaninstitute.columbia.edu/ccc-event). You may find the abstract via the website. 
+
+**2023/04/11** - I received the [2023 Chen Institute Diversity and Inclusion Grant Award](https://www.neuroscience.caltech.edu/grants/chen-institute-diversity-and-inclusion-awards/chen-institute-diversity-and-inclusion-awards-2023). 
+
 **2023/03/22** - I am officially a Ph.D. candidate! 
 
 **2022/11/13** - With [Rogério Guimarães](http://twitter.com/rogerioagjr), I presented a poster of the Manhattan Maze project at [SfN 2022](https://twitter.com/JieyuZheng3/status/1591114040973365249), titled "Mice in Manhattan: Mastering and Memorizing Multiple Maps of a Massively Modifiable Maze in Minutes."
