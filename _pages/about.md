@@ -9,9 +9,16 @@ redirect_from:
 ---
 
 I am a NORDITA Fellow at the Nordita Institute and Stockholm University working on several aspects of gravitational-wave multi-messenger astrophysics, neutron stars, and transients more broadly. I did my PhD at Monash working under the supervision of Paul Lasky and Greg Ashton which was conferred in October 2021.
-I am a member of the LIGO Scientific Collaboration (LSC) and the Australian Research Council Centre of Excellence for gravitational-wave discovery, OzGrav.
+I am a member of the LIGO Scientific Collaboration (LSC), the Australian Research Council Centre of Excellence for gravitational-wave discovery, OzGrav, the Zwicky Transient Facility (ZTF) and the upcoming Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST). 
 
 # Recent News
+* June 14-June 28th: Contributing as a mentor/supervisor for high school students for [Rays](https://raysforexcellence.se). The students will be working with me to learn about EM transients and contributing to [Redback](https://github.com/nikhil-sarin/redback).
+* May 23: _Confronting the neutron star population with inverse cascades_ submitted to ApJL. Check it out on the [arXiv](https://arxiv.org/abs/2305.14347).
+* May 9th: _1100 Days in the Life of the Supernova 2018ibb -- the Best Pair-Instability Supernova Candidate, to date_ submitted to A&A, check it out on the [arXiv](https://arxiv.org/abs/2305.05796).
+* May 8th-12th: This week I am in Berlin attending the Ready Set Go workshop and ZTF meeting [link](https://indico.desy.de/event/38331/). I gave an invited talk on EM transients and was on a panel discussion on the challenges for EM follow-up of GW events.
+* April 1st: Starting a new project with a Master's student on kilonovae and GW. 
+* March 1st: Looking forward to working with a new master's student, Antoine on optimizing follow-up of GW events 
+* February 20th:  _Collapsars as Sites of r-process Nucleosynthesis: Systematic Near-Infrared Follow-up of Type Ic-BL Supernovae_ submitted to ApJ. Check it out on the [arXiv](https://arxiv.org/abs/2302.09226).
 * November 22nd: I am advertising masters projects at Stockholm University, if you are interested in applying please contact me.
 * November 22nd: _Missed opportunities: GRB 211211A and the case for continual gravitational-wave coverage with a single observatory._ accepted in MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2210.14938)
 * October 26th: _Missed opportunities: GRB 211211A and the case for continual gravitational-wave coverage with a single observatory._ submitted to MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2210.14938)
