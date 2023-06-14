@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a *Wissenschaftliche Mitarbeiter* (Scientific Researcher) and a first year Ph.D. student under the guidance of [Professor Kristina Yordanova](http://stenialo.org/about-me/) at the Institute of Data Science, University of Greifswald. 
 
-My research goal involves developing natural language processing methods, including named entity recognition, relationship extraction, and entity linking, as well as machine learning methods for semantic learning graphs and data fusion techniques for enhancing textual knowledge. Additionally, I will be creating a prototype implementation of these methods and supervising student assistants in their research-related work.
+In my doctoral research, I strive to understand the vulnerabilities and risks associated with large language models, such as biases, misinformation propagation, and unintended consequences. Through multidisciplinary approaches, I intend to explore techniques to enhance model security, address privacy concerns, and ensure that AI systems respect ethical norms and human rights.
 
 Prior to my doctoral studies, I worked as a research assistant at the University of Rostock, where I delved into Neural Density Estimation for the project [NEISS](https://www.neiss.uni-rostock.de/en/). I also had the opportunity to hone my skills as a Software Engineer at PLANET AI, where I contributed to the development and testing of [Intelligent Document Analysis](https://planet-ai.de/products/ida/) software.
 
