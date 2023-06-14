@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am fasinated by geoscience and use thermochronology, mineralogy tools with statistical and numerical models to understand earth surface and geodynamic processes.
+I am fasinated by geoscience and use thermochronology and mineralogy tools with statistical and numerical models to understand earth surface and geodynamic processes.
