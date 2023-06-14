@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-======
 * Bayesian erosion model for detrital thermochronological ages
 * Pyhton
   * Data analysis and visualisation (e.g., jupyter lab, matplotlib, scipy, scikit-learn, seaborn)
