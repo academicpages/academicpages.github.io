@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a *Wissenschaftliche Mitarbeiter* (Scientific Researcher) and a first year Ph.D. student under the guidance of [Professor Kristina Yordanova](http://stenialo.org/about-me/) at the Institute of Data Science, University of Greifswald. 
+I am a *Wissenschaftliche Mitarbeiter* (Scientific Researcher) and a first year Ph.D. student under the guidance of [Prof. Kristina Yordanova](http://stenialo.org/about-me/) at the Institute of Data Science, University of Greifswald. 
 
 In my doctoral research, I strive to understand the vulnerabilities and risks associated with large language models, such as biases, misinformation propagation, and unintended consequences. Through multidisciplinary approaches, I intend to explore techniques to enhance model security, address privacy concerns, and ensure that AI systems respect ethical norms and human rights.
 
