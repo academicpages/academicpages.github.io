@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bira Borgohain / Site Title"
+title                    : "Bira Borgohain / Thermochronology and Mineralology"
 title_separator          : "-"
 name                     : &name "Biraj Borgohain" #chnaged
 description              : &description "personal description"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Biraj Borgohain" #changed
   avatar           : "My passpot_100kb.JPG"
-  bio              : "Post doctoral fellow"
-  location         : "Mumbai"
+  bio              : "borgohain.biraj@gmail.com"
+  location         : "Dehradun"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0ldkn_AAAAAJ&hl=en"
   email            : "borgohain.biraj@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Biraj-Borgohain"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-2987-8573"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
