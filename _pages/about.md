@@ -10,7 +10,7 @@ redirect_from:
 
 I am fasinated by geoscience and use thermochronology and mineralogy tools with statistical and numerical models to understand earth surface and geodynamic processes.
 
-Teaching
+Teaching courses
 ---
 * Sedimentology
 * Quaternary geology
