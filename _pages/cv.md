@@ -75,7 +75,9 @@ Presentations
 Seminars
 ======
 * 2nd workshop on explicit topology optimization and software usage, Dalian, 2022.03.24
-* 1st workshop on explicit topology optimization and software usage, Dalian, 2021.05.02-2021.05.04 (totally self-organized by students, within the research group)
+* 1st workshop on explicit topology optimization and software usage, Dalian, 2021.05.02-2021.05.04
+    * Collaborated with Dr. Xudong Jiang, Mr. Xubing Cheng, and Mr. Wu Xu
+    * totally self-organized by students, within the research group
 
 <!-- 
 Conferences and Seminars
