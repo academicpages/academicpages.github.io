@@ -41,7 +41,6 @@ Datas das Provas
 Listas de Exercícios 
 ======
 * [Lista 01](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/calculo3/lista01.pdf)
-* [Exercícios (valor 5.0 pontos)](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/calculo3/listafinal.pdf)
 
 
 Aulas
