@@ -17,15 +17,12 @@ My research interests lay primarily in responsible AI, reinforcement learning, r
 
 Education
 ======
-<div dir="ltr">
-Carnegie Mellon University 
-
-<div dir="rtl">
-Present
+<p align="left">Carnegie Mellon University</p> <p align="right">Present</p>
 
 PhD in Statistics and Data Science
 
-University of São Paulo | Feb. 2019 - Dec. 2022
+<p align="left">University of São Paulo</p> <p align="right">Feb. 2019 - Dec. 2022</p>
+
 BS in Statistics and Data Science
 
 
