@@ -17,6 +17,8 @@ I was a McDonnell International Scholar in the Neuroscience PhD Program at Washi
 
 Before that, I was a visiting scholar in [Parvizi Lab](http://med.stanford.edu/parvizi-lab.html) at Stanford University. Earlier, I was a research assistant at the Institute of Cognitive Neuroscience, National Central University in Taiwan. Earlier, I received my B.S.E. degree in Chemical Engineering from National Taiwan University. 
 
+I am married to [Avah Banerjee](https://www.avahbanerjee.com/).
+
 
 Selected Publication
 ----
