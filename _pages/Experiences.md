@@ -23,7 +23,7 @@ Research
   * Collaborated with Mr. Wu Xu
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.06-present
 * Solid components embedded in thin-walled structures
-  * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.03-2023.03
+  * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.03-2023.06
 * Explicit layout optimization of complex rib-reinforced thin-walled structures
   * Collaborated with Dr. Xudong Jiang
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.03-2022.10
