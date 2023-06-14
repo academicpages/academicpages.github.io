@@ -19,8 +19,9 @@ Research
 * Hit think, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.05-present
 * FracMem, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.01-present
 * Tomo, supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.10-present
-* SL, supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.06-present
-
+* SL
+  * Collaborated with Mr. Wu Xu
+  * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.06-present
 * Solid components embedded in thin-walled structures
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.03-2023.03
 * Explicit layout optimization of complex rib-reinforced thin-walled structures
