@@ -1,13 +1,13 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Skills"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-Skills
+
 ======
 * Bayesian erosion model for detrital thermochronological ages
 * Pyhton
