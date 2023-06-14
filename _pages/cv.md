@@ -10,10 +10,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<embed src="https://antonioherling.github.io/files/CV.pdf" type="application/pdf" />
+
+<!-- Education
 ======
 * PhD in Statistics, Carnegie Mellon University, Aug. 2023 - Present
-* BS in Statistics and Data Science, University of São Paulo, Feb. 2019 - Dec. 2022
+* BS in Statistics and Data Science, University of São Paulo, Feb. 2019 - Dec. 2022 -->
 
 
 <!-- Research experience
