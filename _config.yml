@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Antônio Carlos"
 title_separator          : "-"
 name                     : &name "Antônio Carlos Herling Ribeiro Junior"
-description              : &description "First yeat statistics PhD student at Carnegie Mellon University"
+description              : &description "Incoming statistics PhD student at Carnegie Mellon University"
 url                      : https://antonioherling.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "antonioherling.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Antônio Carlos Herling Ribeiro Junior"
   avatar           : "profileAnt.png"
-  bio              : "Incoming statistics & data science PhD student at Carnegie Mellon University"
+  bio              : "Incoming Statistics & Data Science PhD student at Carnegie Mellon University"
   location         : "Santos, SP, Brazil"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-I am an incoming  Statistics and Data Science PhD student at Carnegie Mellon University. Prior to that, I received a BS in Statistics and Data Science from the University of São Paulo, where I was fortunate to be advised by professors Aquiles Kalatzis and [Carlos Martins-Filho](https://spot.colorado.edu/~martinsc/index.html).
+I will start my PhD in Statistics & Data Science at Carnegie Mellon University in August 2023. Prior to that, I received a BS in Statistics & Data Science from the University of São Paulo, where I was fortunate to be advised by professors Aquiles Kalatzis and [Carlos Martins-Filho](https://spot.colorado.edu/~martinsc/index.html).
 My research interests lay primarily in responsible AI, reinforcement learning, regression discontinuity designs, and semi-parametric regression models.
 <!-- My research interests lay primarily in responsible AI, regression discontinuity designs, semi-parametric regression models, and Bayesian statistics. -->
 
