@@ -36,6 +36,7 @@ Research
 * Constructing the underlying algorithm of IGBEM (Done)
   * Supervised by Prof. Bo Yu, 2017.10-2019.06
 * On improvement of piezoelectric properties of ZnO (Done)
+  * Collaborated with Mr. Zhenyu Zhu, Mr. Linsheng Shan, Mr. Guangming Li
   * Supervised by Prof. Xiaobao Li, 2017.06-2019.03
 
 Engineering projects
