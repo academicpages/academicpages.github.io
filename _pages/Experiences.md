@@ -15,27 +15,27 @@ Software development
 
 Research
 ======
-* Rob, LDM, SC, RST, MR, 2023.03-present
-* Hit think, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.05-present
-* FracMem, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.01-present
-* Tomo, supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.10-present
-* SL
+* Rob, LDM, SC, RST, MR, 2023.03-present (In preparation)
+* Hit think, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.05-present (In preparation)
+* FracMem, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.01-present (Ongoing)
+* Tomo, supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.10-present (Ongoing)
+* SL (Ongoing)
   * Collaborated with Mr. Wu Xu
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.06-present
-* Solid components embedded in thin-walled structures
+* Solid components embedded in thin-walled structures (Done)
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.03-2023.06
-* Explicit layout optimization of complex rib-reinforced thin-walled structures
+* Explicit layout optimization of complex rib-reinforced thin-walled structures (Done)
   * Collaborated with Dr. Xudong Jiang
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.03-2022.10
-* Explicit topology optimization of surface structures
+* Explicit topology optimization of surface structures (Ongoing)
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2021.03-present
-* Texture synthesis and its application to computational mechanics
+* Texture synthesis and its application to computational mechanics (To be continued)
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2020.10-2021.03
-* Structure design considering EMS and EMI
+* Structure design considering EMS and EMI (To be continued)
   * Supervised by Prof. Xu Guo and Prof. Chang Liu,  2020.04-2020.09
-* Constructing the underlying algorithm of IGBEM
+* Constructing the underlying algorithm of IGBEM (Done)
   * Supervised by Prof. Bo Yu, 2017.10-2019.06
-* On the improvement of piezoelectric properties of ZnO
+* On the improvement of piezoelectric properties of ZnO (Done)
   * Supervised by Prof. Xiaobao Li, 2017.06-2019.03
 
 Engineering projects
