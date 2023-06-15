@@ -35,7 +35,7 @@ Research
   * Supervised by Prof. Xu Guo and Prof. Chang Liu,  2020.04-2020.09
 * Constructing the underlying algorithm of IGBEM (Done)
   * Supervised by Prof. Bo Yu, 2017.10-2019.06
-* On the improvement of piezoelectric properties of ZnO (Done)
+* On improvement of piezoelectric properties of ZnO (Done)
   * Supervised by Prof. Xiaobao Li, 2017.06-2019.03
 
 Engineering projects
