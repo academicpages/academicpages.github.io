@@ -21,7 +21,7 @@ Research
 * Tomo, supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.10-present (Ongoing)
 * SL (Ongoing)
   * Collaborated with Mr. Wu Xu
-  * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.06-present
+  * Supervised by Prof. Xu Guo, Prof. Weisheng Zhang, and Prof. Chang Liu, 2022.06-present
 * Solid components embedded in thin-walled structures (Done)
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.03-2023.06
 * Explicit layout optimization of complex rib-reinforced thin-walled structures (Done)
