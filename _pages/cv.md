@@ -63,7 +63,7 @@ Presentations
 * Topology optimization on complex surfaces based on the moving morphable component methd and computational conformal mapping, WCSMO-15, 2023.06.06
 * Topology optimization on complex surfaces based on the moving morphable component methd and computational conformal mapping, ACSMO-2022, 2022.05.24
 * 面向复杂薄壁结构的显式拓扑优化软件, 第一届开源工业仿真软件集成大赛, 2023.02.24
-* 基于移动可变形组件法与计算共形映射的复杂曲面结构优化, 中国力学学会第三届博士生学术论坛, 2023.01.07
+* 基于移动可变形组件法与计算共形映射的复杂薄壁结构显式拓扑优化, 中国力学学会第三届博士生学术论坛, 2023.01.07
   
 
 Seminars
