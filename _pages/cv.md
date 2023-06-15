@@ -51,13 +51,6 @@ Skills
   * CG: [MeshLab](https://github.com/cnr-isti-vclab/meshlab), Blender, UE5
 
 
-Services
-======
-* Reviewer for Engineering Structures (2 times)
-* Student Assistance Ambassador, Hefei University of Technology, 2019.01-2019.06
-* Student Union, Center of Learning and Development, Hefei University of Technology, 2015.09-2016.06
-
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -72,12 +65,20 @@ Presentations
 * 面向复杂薄壁结构的显式拓扑优化软件, 第一届开源工业仿真软件集成大赛, 2023.02.24
 * 基于移动可变形组件法与计算共形映射的复杂曲面结构优化, 中国力学学会第三届博士生学术论坛, 2023.01.07
   
+
 Seminars
 ======
 * 2nd workshop on explicit topology optimization and software usage, Dalian, 2022.03.24
 * 1st workshop on explicit topology optimization and software usage, Dalian, 2021.05.02-2021.05.04
     * Collaborated with Dr. Xudong Jiang, Mr. Xubing Cheng, and Mr. Wu Xu
     * Totally self-organized by students, within the research group
+
+
+Services
+======
+* Reviewer for Engineering Structures (2 times)
+* Student Assistance Ambassador, Hefei University of Technology, 2019.01-2019.06
+* Student Union, Center of Learning and Development, Hefei University of Technology, 2015.09-2016.06
 
 <!-- 
 Conferences and Seminars
