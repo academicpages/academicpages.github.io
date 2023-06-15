@@ -3,8 +3,8 @@ title: "Computational modelling in disorders of consciousness: closing the gap t
 collection: publications
 #permalink: /publication/2009-10-01-paper-title-number-01
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: February 2023
-venue: 'NeuroImage, 275 (15),  2023
+date: June 2023
+venue: 'NeuroImage, 275 (15),  2023'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 #citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
