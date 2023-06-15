@@ -22,18 +22,19 @@ Ph.D. in Electrical and Computer Engineering, The University of Washington 2020-
     - Applied Research in Acoustics
 
 ## Publications
-{% for publication in publications %}
-{{ publication.author }}, ({{ publication.year }}), {{ publication.title }}, *{{ publication.journal }} Vol. {{ publication.volume }}*, [link](https://doi.org/{{ publication.doi}}) </br>
+{% for publication in publications|sort(attribute='year', reverse=True) %}
+{{ publication.author }}, ({{ publication.year }}), {{ publication.title }}, *{{ publication.journal }} Vol. {{ publication.volume }}* </br>[ [link] ](https://doi.org/{{ publication.doi}}) [ [pdf] ](https://link-to-paper)</br>
 {% endfor %}
 
 ## Talks
-### Conference Presentations
-{% for talk in talks %}
-{{ talk.author }}, ({{ talk.year }}), {{ talk.title }}, *{{ talk.journal }}*, [link](https://doi.org/{{ talk.doi}}) </br>
-{% endfor %}
 
 ### Invited Talks
 Need to add section here that can input data from csv
+
+### Conference Presentations
+{% for talk in talks|sort(attribute='year', reverse=True) %}
+{{ talk.author }}, ({{ talk.year }}), {{ talk.title }}, *{{ talk.journal }}*   [ [link] ](https://doi.org/{{ talk.doi}})</br>
+{% endfor %}
 
 ## Awards
 
