@@ -41,3 +41,5 @@ I write op-eds, essays and book reviews regularly, and I've been interviewed in 
 * [”Gymnasieelev: En studentereksamen er aldrig spild af tid”](https://politiken.dk/debat/debatindlaeg/art6134692/En-studentereksamen-er-aldrig-spild-af-tid), Politiken, 27.09.2017
 * [”3.g’ere om Dyrehavsfest: Giv os en chance for at holde en kontrolleret fest- ellers går vi glip af nogle af ungdommens helt store øjeblikke”](https://politiken.dk/debat/debatindlaeg/art6084682/Giv-os-en-chance-for-at-holde-en-kontrolleret-fest-ellers-g%C3%A5r-vi-glip-af-nogle-af-ungdommens-helt-store-%C3%B8jeblikke), Politiken, 28.08.2017
 * [”E-sport er ikke en rigtig holdsport”](https://politiken.dk/debat/debatindlaeg/art6075485/E-sport-er-ikke-en-rigtig-holdsport), Politiken, 26.02.2017
+
+![karikatur](/images/karikatur.png)
