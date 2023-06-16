@@ -21,36 +21,33 @@ AI systems are increasingly expected to interact with the world in a human-like 
 By integrating intelligence with physicality, AI systems gain a deeper understanding of visual perception, language comprehension, 
 and multimodal interactions. 
 
-This is an immersive seminar course that offers students a unique opportunity to explore the cutting-edge intersection of embodied AI, 
-computer vision, and natural language processing. The course goes beyond traditional approaches by focusing on the integration of cognition, 
-physical embodiment, and multimodal sensory input to develop AI systems that perceive, understand, and interact with the physical world.
-Students will examine the theoretical foundations, cutting-edge research, and practical implications of embodied AI across various 
+This is an immersive seminar course that offers a unique opportunity to explore the cutting-edge intersection of embodied AI, 
+computer vision, and natural language processing (NLP). The course goes beyond traditional vision and language approaches by focusing on the integration of cognition, physical embodiment, and multimodal sensory input to develop AI systems that perceive, understand, and interact with the physical world. Students will examine the theoretical foundations, cutting-edge research, and practical implications of embodied AI across various 
 vision-language planning tasks such as Vision-Language Navigation (VLN), Vision-Dialog Navigation (VDN), Embodied Question Answering (EQA), 
 Embodied Task Completion, etc. By the end of the course, students will possess the knowledge and skills required to design, implement, 
-and advance the next generation of intelligent embodied systems, opening up new frontiers in AI research and applications.
+and advance the next generation of intelligent embodied systems.
 
 ## Prerequisites: 
-Students should have experience with machine learning, data analytics, and deep learning. Familiarity with computer vusuib
-Familiarity with linear algebra, statistics and probability are necessary, as well as with the design and implementation of machine learning models (ideally with a framework that is well-suited for rapid ML prototyping,
- e.g., PyTorch, Tensorflow, Keras, etc.). Most importantly, students are expected to extract key concepts and ideas from reading ML conference papers. 
+Students should have experience with machine learning, data analytics, and deep learning. Strong programming skills in a high-level language such as Python, as well as frameworks for rapid ML prototyping, e.g., PyTorch, Tensorflow, Keras, etc. are essential for implementing and experimenting with the concepts covered in this course. While not mandatory, familiarity with computer vision, natural language processing, and reinforcement learning would be advantageous. Most importantly, students are expected to extract key concepts and ideas from reading ML conference papers. 
 
 ## Course Topics: 
 
-The course is structured around reading, presenting and discussing weekly papers. 
-Each student will have a unique, rotating role per week. This role defines the lens through which each student reads the paper and 
+The course is structured around reading, presenting and discussing weekly papers. There will be no exams or traditional assignments. Instead, throughout the course, students will engage in practical hands-on projects and discussions to identify and work on open research questions on a variety of topics in embodied AI. **More details to be announced before the start of the Fall 2023 semester.**
+
+<!--- Each student will have a unique, rotating role per week. This role defines the lens through which each student reads the paper and 
 determines what they prepare for the group in-class discussion. All students, irrespective of the role, are expected to have read the 
 paper readings of each corresponding session before class and come to class ready to discuss. Students will obtain a thorough understanding 
-of the chosen papers and will develop their paper reading, literature review and prototyping skills.
+of the chosen papers and will develop their paper reading, literature review and prototyping skills. -->
 
 Key topics covered in the course include:
 
-- Embodied Perception in Computer Vision: Explores how embodied AI systems leverage physical interaction to enhance visual perception, object recognition, scene understanding, and spatial reasoning.
-- Embodied Language Understanding: Investigates how physical grounding and multimodal sensory inputs enable AI systems to comprehend and generate natural language, fostering more effective human-machine communication.
-- Sensorimotor Integration: Examines the integration of sensory perception, motor control, and action planning in embodied AI systems, with a focus on computer vision and language processing tasks.
-- Learning and Adaptation in Embodied AI: Explores the mechanisms and algorithms for learning from physical interactions and dynamic environments, enabling AI systems to adapt and improve over time.
-- Applications of Embodied AI in Computer Vision and Natural Language Processing: Analyzes real-world applications, including embodied visual question answering, interactive virtual agents, embodied conversational agents, and immersive augmented reality experiences.
+- Embodied Perception in Computer Vision: How embodied AI systems leverage visual perception, object recognition, scene understanding, and spatial reasoning.
+- Embodied Language Understanding: How embodied AI systems comprehend and generate natural language for effective human-machine communication.
+- Sensorimotor Integration: How embodied AI systems use sensory perception and action planning to navigate in a physical environment and complete tasks.
+- Learning and Adaptation in Embodied AI: Mechanisms and algorithms for learning and adapting in dynamic physical environments.  
+- Applications of Embodied AI: Real-world applications, including embodied visual question answering, interactive virtual agents, embodied conversational agents, etc.
 
-## Presentation roles:
+<!-- ## Presentation roles:
 
 This seminar is organized around the different "roles" students play each week: 
 Presenter, Reviewer, Archaeologist, Researcher, Industry Expert, Hacker, and Ethicist.
@@ -189,7 +186,6 @@ Students can also submit anonymous feedback to this [link](https://virginiatech.
 Students seeking special accommodations based on disabilities should contact me and also 
 coordinate accessibility arrangements with the [Services for Students with Disabilities office](http://www.ssd.vt.edu).
 
-
 ### Honor Code Statement:
 
 All assignments submitted shall be considered “graded work” and all aspects of your coursework are covered by the Honor Code. 
@@ -204,4 +200,4 @@ In this class, you must attribute appropriate credit to existing ideas, facts, m
 This course will have a **zero-tolerance** philosophy regarding plagiarism or other forms of cheating, and incidents of academic dishonesty
 will be [**reported**](https://graduateschool.vt.edu/academics/expectations/graduate-honor-system/how-to-report-violation.html).
 A student who has doubts about how the Honor Code applies to this course should obtain specific guidance from the course instructor before submitting the respective assignment.
- 
+ -->
