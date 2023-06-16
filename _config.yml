@@ -234,7 +234,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
+      share: true
       comment: false
   # _talks
   - scope:
