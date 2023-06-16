@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Copenhagen, Department of Political Science"
-date: 2022
+date: 2022-09-09
 location: "Copenhagen, Denmark"
 ---
 
