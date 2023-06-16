@@ -6,4 +6,7 @@ main:
     
   - title: "CV"
     url: /cv/
-
+  - title: "Publications"
+    url: /publications/
+  - title: "research experiences"
+    url: /internships/
