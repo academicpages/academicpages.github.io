@@ -84,5 +84,3 @@ https://politiken.dk/debat/debatindlaeg/art6134692/En-studentereksamen-er-aldrig
 https://politiken.dk/debat/debatindlaeg/art6084682/Giv-os-en-chance-for-at-holde-en-kontrolleret-fest-ellers-g%C3%A5r-vi-glip-af-nogle-af-ungdommens-helt-store-%C3%B8jeblikke 
 
 ”E-sport er ikke en rigtig holdsport”, Politiken, 26.02.2017
-
-![image](https://github.com/MarcHvidkjaer/MarcHvidkjaer.github.io/assets/89270589/8e12bd7a-2afd-4c99-b5e6-fe9d5cac6253)
