@@ -12,7 +12,7 @@ You can also find my articles on <u><a href="{{https://scholar.google.com/citati
 ## Published or Forthcoming Journal Articles
 
 -  [ArCo: An R package to Estimate Artificial Counterfactuals](https://journal.r-project.org/archive/2018/RJ-2018-016/RJ-2018-016.pdf). Y. Fonseca, R. Masini, M. Medeiros, and G. Vasconcelos.<em>R. Journal (2018)</em>
-  - Package available in R [link](https://cran.r-project.org/web/packages/ArCo/index.html)
+  - Package available in R: [link](https://cran.r-project.org/web/packages/ArCo/index.html)
 
 ## Refereed Conferences
 
