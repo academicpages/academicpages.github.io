@@ -21,12 +21,12 @@ Participating in [IMECE2023](https://event.asme.org/IMECE), New Orleans, LA, USA
 
 
 
-**CERTIFICATIONS**:
+### CERTIFICATIONS:
 - Lean Six Sigma Yellow Belt from The Lean Six Sigma Company Portugal (April 2023)
 - Certified SolidWorks Associate - CSWA from Dassault Systèmes for Mechanical Design in SolidWorks (July 2018)
 
 
-**VOLUNTEER EXPERIENCE**
+### VOLUNTEER EXPERIENCE:
 - Tutor at STEAM junior academy at AJSTEAM UBI, Covilhã, Portugal (March 2023)
 - Conference Session Co-Chair at Conference IMECE2021 by ASME in the USA for Aerodynamics & Novel Aerospace Propulsion Systems topic (November 2021)
 - Volunteer of Refood Covilhã, Covilhã, Portugal (2019-present)
