@@ -3,8 +3,8 @@ permalink: /terms/
 title: "Terms and Privacy Policy"
 author_profile: true
 redirect_from:
-  - /publications/
-  - /publications.html
+  - /internships/
+  - /internships.html
 ---
 
 {% include base_path %}
