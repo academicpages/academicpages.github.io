@@ -4,7 +4,7 @@ title: "Media"
 permalink: /media/
 author_profile: true
 ---
-I write op-eds, essays and book reviews regularly, and I've been interviewed in various formats. I've also written some articles on Medium with an emphasis on Political Science, which can be [found here](https://medium.com/@marcsabatierhvidkjaer). At the bottom, you'll also see a charicature drawing of me by Rasmus Sand Høyer. Here is a non-exhaustive list of me in media:
+I write op-eds, essays and book reviews regularly, and I've been interviewed in various formats. I've also written some articles on Medium with an emphasis on Political Science, which can be [found here](https://medium.com/@marcsabatierhvidkjaer). Here is a non-exhaustive list of appearances and contributions in the media:
 
 * [”Gæld til folket”](https://www.weekendavisen.dk/2023-16/ideer/gaeld-til-folket), written with [Andreas Wiedemann](https://www.abwiedemann.com/), Weekendavisen, 24.04.23
 * [”Gør Danmark mere for verdens fattige end Qatar?”](https://politiken.dk/debat/debatindlaeg/art9092733/Studerende-G%C3%B8r-Danmark-mere-for-verdens-fattige-end-Qatar), Politiken, 24.11.22
