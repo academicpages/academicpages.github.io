@@ -12,6 +12,8 @@ I am a doctoral student in Health Policy (Population and Data Science Track) at 
 
 To achieve this, I draw from theoretical perspectives from the social sciences and leverage methods from health policy, health services research, and economics. My current work focuses on medical debt, provider markets and competition, and quality of care for Medicaid patients. 
 
-![](/images/hay.jpg)
+<div style="text-align: center;">
+  ![](/images/hay.jpg)
+</div>
 
 <center><em>Pictured: Brown's John Hay Library, where most of my academic work to this point was conceptualized</em></center>
