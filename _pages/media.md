@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Teaching"
-permalink: /teaching/
+title: "Media"
+permalink: /media/
 author_profile: true
 ---
 I write op-eds regularly, and I've been interviewed on radio, video and regular articles. At the bottom, you'll also see a charicature drawing of me by Rasmus Sand Høyer. Here is a non-exhaustive list of me in media:
