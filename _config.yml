@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Marc Sabatier Hvidkjaer"
   avatar           : "profile_black_2022.jpeg"
-  bio              : "Masters student in Political Science at the University of Copenhagen, Research Assistant at Aarhus University"
+  bio              : "Master's student in Political Science at the University of Copenhagen, RA at Aarhus University"
   location         : "Princeton, New Jersey"
   employer         :
   googlescholar    : 
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "@MarcHvidkjaer"
+  github           : #"@MarcHvidkjaer"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/marc-s-aa3763132/"
+  linkedin         : "https://www.linkedin.com/in/marc-s-aa3763132"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
