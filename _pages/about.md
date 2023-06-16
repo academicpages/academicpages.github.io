@@ -14,4 +14,4 @@ To achieve this, I draw from theoretical perspectives from the social sciences a
 
 ![](/images/hay.jpg)
 
-*Pictured: Brown's John Hay Library, where most of my academic work to this point was conceptualized*
+<center><em>Pictured: Brown's John Hay Library, where most of my academic work to this point was conceptualized</em></center>
