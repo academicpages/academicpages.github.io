@@ -7,7 +7,7 @@ author_profile: true
 
 * *Fall 2023*: Comparative Politics III, 3rd year BSc course, University of Copenhagen, TA for Professor Jacob Hariri
 
-I made a [podcast](http://medandreord.dk/maos-nye-podcast-det-akademiske-kvarter/) as a compendium to the course. Episode list:
+I made a [podcast](http://medandreord.dk/maos-nye-podcast-det-akademiske-kvarter/) as a compendium to the course. Links to episodes:
 * [*Economic Development and Democracy*](https://podcasts.apple.com/dk/podcast/%C3%B8konomisk-udvikling-demokrati/id1644873072?i=1000579321369) with Benedikte Grundtvig Huber
 * [*States & Empires*](https://podcasts.apple.com/dk/podcast/stater-imperier/id1644873072?i=1000579371705) with Benedikte Grundtvig Huber
 * [*From Early Parliaments to Modern Democracy*](https://podcasts.apple.com/dk/podcast/fra-tidlige-parlamenter-til-moderne-demokratier/id1644873072?i=1000580560652) with Aksel Hvid
