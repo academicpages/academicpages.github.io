@@ -7,6 +7,7 @@ author_profile: true
 
 
 # Teaching Experience
+- **CS5824@VT** Advanced Machine Learning, Spring 2023
 - **CS5824@VT** Advanced Machine Learning, Fall 2022
 - **[CS5604@VT](/CS5604F21)** Information Storage and Retrieval, Fall 2021
 - **[CS6604@VT](/cs6604SP21)** Data Challenges in Machine Learning, Spring 2021
