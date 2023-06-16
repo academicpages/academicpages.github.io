@@ -6,34 +6,28 @@ modified: 2016-06-06
 
 {% include base_path %}
 {% include toc %}
+## Internships
 
-## Privacy Policy
+- 2021.06-2022.12 State Key Laboratory of Networking And Switching Technology
+  - Interests: Data mining and Knowledge graph (Mentor: Chunhong Zhang)
+  - Duty: I constructed more than one hundred knowledge graphs of Electronic Information automatically by NER and RegEx; Our team built a web system that can mark examination papers automatically by OCR and vue, and we applied a patent for it; 
+        Our team studied KG fusion and entity alignment, and we propose an automated knowledge extraction, data cleaning and graph fusion framework for heterogeneous learning resources. Our paper was submitted to ``ICALT2023".
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+- 2022.05-Now National Engineering Research Center of Mobile Network Security 
+  - Interest: Multimodal and Semantic communication (Mentor: Prof. Guoshun Nan)
+  - Duty: I do research in multimodal information fusion and semantic communication based on deep learning.
+We propose a practical physical layer black-box attack method to destroy the robustness of  deep learning-based semantic communication systems, where the adversaries are imperceptible to humans. Our work has been accepted by ICC2023.
+And then, we propose SemProtector: A Unified Framework for Semantic Protection in Deep Learning-based Semantic Communication Systems. Our work was submitted to Communication Magazine.
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
 
-### Log Files
+- 2023.04-Now The National Laboratory of Pattern Recognition (NLPR) at the Institute of Automation of the Chinese Academy of Sciences (CASIA).
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+  - Interest: Diffusion model and AI4Science. (Mentor: Prof.Yifan Zhang)
+  - Duty: I do research in combinatorial optimization, image generation and AI4Science.
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
 
-All of this information is not linked to anything that is personally identifiable.
+- 2023.06-Now The Department of Computer and Data Science in Case Western Reserve University
 
-### Cookies and Web Beacons
+  - Interest: multimodal and image generation. (Mentor: Prof.Yu Yin)
+  - Duty: I do research in image generation and multimodal.
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](http://disqus.com) the next time you leave a comment.
-
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
-
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
-
-#### Google Analytics
-
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
