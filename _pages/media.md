@@ -43,3 +43,4 @@ I write op-eds, essays and book reviews regularly, and I've been interviewed in 
 * [”E-sport er ikke en rigtig holdsport”](https://politiken.dk/debat/debatindlaeg/art6075485/E-sport-er-ikke-en-rigtig-holdsport), Politiken, 26.02.2017
 
 ![karikatur](/images/karikatur.png)
+Charicature drawn by Rasmus Sand Høyer in my article on public schools in Denmark. I'm looking back at my time as a school pupil from 2008-2015 from the perspective of a substitute teacher in 2019.
