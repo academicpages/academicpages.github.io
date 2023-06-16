@@ -27,7 +27,7 @@ Research
 * Explicit layout optimization of complex rib-reinforced thin-walled structures (Done)
   * Collaborated with Dr. Xudong Jiang
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.03-2022.10
-* Explicit topology optimization of surface structures (Ongoing)
+* Explicit topology optimization of surface structures (Ongoing, topic of doctoral dissertation)
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2021.03-present
 * Texture synthesis and its application to computational mechanics (To be continued)
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2020.10-2021.03
@@ -45,7 +45,7 @@ Engineering projects
 
 Contests
 ======
-* Open-Source Industrial Software Integration Competition, 2023
+* Open-Source Industrial Software Integration Contest, 2023
   * Collaborated with Dr. Xudong Jiang
   * Supervised by Prof. Xu Guo and Prof. Chang Liu
 * Team game in International Engineering Mechanics Contest, 2019

@@ -30,7 +30,7 @@ Selected awards
 * National Scholarship, Ministry of Education, 2018
 * Merit Student, Hefei University of Technology, 2018
 * 1st Prize, "EBSCO Cup" Literature Information Acquisition Competition, 2018
-* 2nd Prize (teamwork), Open-Source Industrial Software Integration Competition, 2023
+* 2nd Prize (teamwork), Open-Source Industrial Software Integration Contest, 2023
 * 2nd Prize (personal), International Engineering Mechanics Contest (Asian Region), 2019
 * 3rd Prize, Chinese Mechanics Competition in Honour of Zhou Peiyuan, 2017
 * 3rd Prize, Chinese Mechanics Competition (Anhui Province competition area), 2018
@@ -60,11 +60,10 @@ Publications
 
 Presentations
 ======
-* Topology optimization on complex surfaces based on the moving morphable component methd and computational conformal mapping, WCSMO-15, 2023.06.06
-* Topology optimization on complex surfaces based on the moving morphable component methd and computational conformal mapping, ACSMO-2022, 2022.05.24
-* 面向复杂薄壁结构的显式拓扑优化软件, 第一届开源工业仿真软件集成大赛, 2023.02.24
-* 基于移动可变形组件法与计算共形映射的复杂薄壁结构显式拓扑优化, 中国力学学会第三届博士生学术论坛, 2023.01.07
-  
+* Topology optimization on complex surfaces based on the moving morphable component methd and computational conformal mapping, WCSMO-15, Cork, Ireland, 2023.06.06
+* Topology optimization on complex surfaces based on the moving morphable component methd and computational conformal mapping, ACSMO-2022, Virtual, 2022.05.24
+* 面向复杂薄壁结构的显式拓扑优化软件, 第一届开源工业仿真软件集成大赛, 线上, 2023.02.24
+* 基于移动可变形组件法与计算共形映射的复杂薄壁结构显式拓扑优化, 线上, 中国力学学会第三届博士生学术论坛, 2023.01.07
 
 Seminars
 ======

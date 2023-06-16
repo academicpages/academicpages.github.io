@@ -1,5 +1,5 @@
 ---
-title: "Topology Optimization on Complex Surfaces Based on the Moving Morphable Component Method and Computational Conformal Mapping"
+title: "Topology optimization on complex surfaces based on the moving morphable component method and computational conformal mapping"
 collection: publications
 permalink: /publication/2022-05-04-journal-number-2
 excerpt: 'Explicit topology optimization for complex shell structures'
