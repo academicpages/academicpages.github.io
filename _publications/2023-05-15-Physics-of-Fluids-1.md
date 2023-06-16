@@ -2,7 +2,7 @@
 title: "Dynamics of three-dimensional electrohydrodynamic instabilities on Taylor cone jets using a numerical approach"
 collection: publications
 permalink: /publication/2023-05-15-Physics-of-Fluids-1
-excerpt: "Electrohydrodynamic (EHD) jets are a highly promising technology for the generation of three-dimensional micro- and nanoscale structures, but the advancement of this technology is hindered by the insufficient understanding of many aspects of its flow mechanisms, such as the whipping behavior under larger electric potentials. A fully coupled numerical simulation of the three-dimensional electrohydrodynamic jet flow is used here since non-symmetric effects govern most of their EHD regimes. <br/><img src='/images/PoF2023.png'>"
+excerpt: "Electrohydrodynamic (EHD) jets are a highly promising technology for the generation of three-dimensional micro- and nanoscale structures, but the advancement of this technology is hindered by the insufficient understanding of many aspects of its flow mechanisms, such as the whipping behavior under larger electric potentials. A fully coupled numerical simulation of the three-dimensional electrohydrodynamic jet flow is used here since non-symmetric effects govern most of their EHD regimes. <br/><img src='/images/PoF2023.png' style='max-width: 20%;' >"
 date: 2023-05-15
 venue: 'Physics of Fluids'
 paperurl: 'DOI: 10.1063/5.0151109'
