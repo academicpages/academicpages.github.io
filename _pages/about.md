@@ -15,6 +15,9 @@ Sílvio M. R. Cândido is a Ph.D. student in Mechanical Engineering at the [Univ
 
 **News**
 
+Participating in [IMECE2023](https://event.asme.org/IMECE), New Orleans, LA, USA: <br>
+ - "A Three-Dimensional Numerical Investigation of Taylor Cone Jet Instabilities Using the VOF Method" by S. Cândido & J. Páscoa
+ - "Improving Efficiency of Automotive Coating and Curing Processes Through Deep Learning Algorithms and High-Fidelity CFD Modeling" by S. Cândido, M. Pendar & J. Páscoa
 
 
 
