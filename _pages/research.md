@@ -24,7 +24,7 @@ You can also find my articles on <u><a href="{{https://scholar.google.com/citati
 
 ## Working Papers
 
--  [Signaling Competition in Two-Sided Markets]([http://effectif.com/nesta](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451693)https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451693) O. Besbes, Y. Fonseca, I. Lobel and F. Zheng.
+-  [Signaling Competition in Two-Sided Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451693) O. Besbes, Y. Fonseca, I. Lobel and F. Zheng.
 
 -  [Contextual Inverse Optimization: Offline and Online Learning](https://arxiv.org/pdf/2106.14015.pdf). O. Besbes, Y. Fonseca and I. Lobel.
 
