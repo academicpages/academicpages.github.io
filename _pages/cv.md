@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-Find my CV [here](files
+Find my CV [here](/files
 /CV_Marc_Sabatier_Hvidkjær__Public_ (1).pdf)
 
