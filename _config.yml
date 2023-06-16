@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zeju Li(李泽钜)"
 title_separator          : "-"
 name                     : &name "Zeju Li"
-description              : &description "Junior student at BUPT"
+description              : &description "Senior student at BUPT"
 url                      : https://staymylove.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "staymylove/staymylove.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Zeju Li 李泽钜"
   avatar           : "profile.png"
-  bio              : "Junior @BUPT"
+  bio              : "Senior @BUPT"
   location         : "Beijing China"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=fn8w4lgAAAAJ"
   email            : "lizeju0727@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
