@@ -13,5 +13,5 @@ I created a [podcast](http://medandreord.dk/maos-nye-podcast-det-akademiske-kvar
 * [*From Early Parliaments to Modern Democracy*](https://podcasts.apple.com/dk/podcast/fra-tidlige-parlamenter-til-moderne-demokratier/id1644873072?i=1000580560652) with Aksel Hvid
 * [*Colonialialism and Democratization*](https://podcasts.apple.com/dk/podcast/koloniseringens-indflydelse-p%C3%A5-demokratisk-udvikling/id1644873072?i=1000581283897) with Aksel Hvid
 * [*Revolutions*](https://podcasts.apple.com/dk/podcast/revolutioner/id1644873072?i=1000584411254) with Aksel Hvid
-* [*President, parliaments and the plebs*](https://podcasts.apple.com/dk/podcast/pr%C3%A6sidenter-parlamenter-og-p%C3%B8blen/id1644873072?i=1000586876727) with Lasse Spangenberg
+* [*President, Parliaments and the Plebs*](https://podcasts.apple.com/dk/podcast/pr%C3%A6sidenter-parlamenter-og-p%C3%B8blen/id1644873072?i=1000586876727) with Lasse Spangenberg
 * [*BA Special*](https://podcasts.apple.com/dk/podcast/ba-special/id1644873072?i=1000590080116) with Benedikte Beck
