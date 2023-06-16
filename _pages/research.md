@@ -18,13 +18,13 @@ You can also find my articles on <u><a href="{{https://scholar.google.com/citati
 
 -  [Signaling Competition in Two-Sided Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451693)https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451693). O. Besbes, Y. Fonseca, I. Lobel and F. Zheng.<em>EC'23, Proceedings of the 2023 ACM Conference on Economics and Computation.</em>
 
--  [Statistical Learning and Inverse Problems: A Functional Gradient Descent Approach](https://proceedings.neurips.cc/paper_files/paper/2022/file/3e8b1835833ef809059efa74b9df6805-Paper-Conference.pdf) Y. Fonseca and Y. Saporito. <em>Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS 2022)</em>
+-  [Statistical Learning and Inverse Problems: A Functional Gradient Descent Approach](https://proceedings.neurips.cc/paper_files/paper/2022/file/3e8b1835833ef809059efa74b9df6805-Paper-Conference.pdf). Y. Fonseca and Y. Saporito. <em>Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS 2022)</em>
   
 -  [Online Learning from Optimal Actions](https://proceedings.mlr.press/v134/besbes21a.html). O. Besbes, Y. Fonseca and I. Lobel. <em>COLT' 21, 34th Annual Conference on Learning Theory.</em> 
 
 ## Working Papers
 
--  [Signaling Competition in Two-Sided Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451693) O. Besbes, Y. Fonseca, I. Lobel and F. Zheng.
+-  [Signaling Competition in Two-Sided Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451693). O. Besbes, Y. Fonseca, I. Lobel and F. Zheng.
 
 -  [Contextual Inverse Optimization: Offline and Online Learning](https://arxiv.org/pdf/2106.14015.pdf). O. Besbes, Y. Fonseca and I. Lobel.
 
