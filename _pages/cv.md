@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-Find my CV [here](/files/CV.pdf)
+Find my CV [here](/files/CV.pdf).
 
