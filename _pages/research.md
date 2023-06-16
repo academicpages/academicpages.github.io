@@ -32,7 +32,7 @@ You can also find my articles on <u><a href="{{https://scholar.google.com/citati
 
 ## Work in Progress
 
-## Pior Life
+## Prior Life
 
 
 
