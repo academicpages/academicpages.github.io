@@ -47,6 +47,9 @@ November 10, 2022, Conversation with Visiting Professor Esteban Moro at MIT Medi
 November 4, 2022, Conversation with Assitant Professor Rebecca Johnson at Georgetown McCourt School of Public Policy. Sponsored by Sociology at Stony Brook University.
 
 ## New Paper Alert
+
+Yongjun Zhang, Siwei Cheng, Zhi Li, and Wenhao Jiang. 2023. "[Human  mobility patterns are associated with experienced partisan segregation in US Metropolitan areas](https://www.nature.com/articles/s41598-023-36946-z)." 
+
 Charles Seguin, Thomas Maher, Yongjun Zhang. 2023. [A Seat at the Table: A New Dataset of Social Movement Organization Representation Before Congress during the 20th Century](https://t.co/wkTU2sQDlo). Socius.
 
 Yongjun Zhang and Jennifer Heerwig. 2022. "[Gender, Race, and Intersectionality in Campaign Cash to the U.S. Congress, 1990-2014.](https://journals.sagepub.com/doi/full/10.1177/23780231221121063)" Socius.
@@ -66,8 +69,6 @@ Charles Seguin, Chris Julien, and Yongjun Zhang. 2021. "[The stability of androg
 Yongjun Zhang. 2023. "[Spatial Segregation and Political Engagement among Asian Americans in New York City]()."
 
 Yongjun Zhang. 2023. "[Multiplex Spatial Segregation of Asian American Voters in New York City]()."
-
-Yongjun Zhang, Siwei Cheng, Zhi Li, and Wenhao Jiang. 2023. "[Human  mobility patterns are associated with experienced partisan segregation in US Metropolitan areas](https://yongjunzhang.com/files/eps.pdf)." 
 
 Yongjun Zhang and Siwei Cheng. 2023. "[Mobility-based Segregation in U.S. Metropolitan Areas](https://yongjunzhang.com/files/nb_seg.pdf)."
 
