@@ -1,7 +1,10 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-modified: 2016-06-06
+author_profile: true
+redirect_from:
+  - /publications/
+  - /publications.html
 ---
 
 {% include base_path %}
