@@ -1,14 +1,16 @@
 ---
 permalink: /terms/
-
+title: "Internships"
 author_profile: true
 
 ---
 
 {% include base_path %}
 {% include toc %}
-## Internships
+<!-- <img src="/assets/img/MarineGEO_logo.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 
+https://staymylove.github.io/files/
+ -->
 - 2021.06-2022.12 State Key Laboratory of Networking And Switching Technology
   - Interests: Data mining and Knowledge graph (Mentor: Chunhong Zhang)
   - Duty: I constructed more than one hundred knowledge graphs of Electronic Information automatically by NER and RegEx; Our team built a web system that can mark examination papers automatically by OCR and vue, and we applied a patent for it; 
