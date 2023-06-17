@@ -16,7 +16,7 @@ author_profile: true
         Our team studied KG fusion and entity alignment, and we propose an automated knowledge extraction, data cleaning and graph fusion framework for heterogeneous learning resources. Our paper was submitted to ``ICALT2023".
 
 - 2022.05-2023.5 National Engineering Research Center of Mobile Network Security 
-<img src="BUPT.png" alt="MarineGEO circle logo" style="height: 400px; width:100px;"/>
+<img src="BUPT.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
   - Interest: Multimodal and Semantic communication (Mentor: Prof. Guoshun Nan)
   - Duty: I do research in multimodal information fusion and semantic communication based on deep learning.
 We propose a practical physical layer black-box attack method to destroy the robustness of  deep learning-based semantic communication systems, where the adversaries are imperceptible to humans. Our work has been accepted by ICC2023.
@@ -24,7 +24,7 @@ And then, we propose SemProtector: A Unified Framework for Semantic Protection i
 
 
 - 2023.04-Now The National Laboratory of Pattern Recognition (NLPR) at the Institute of Automation of the Chinese Academy of Sciences (CASIA).
-<img src="CAS.jpg" alt="circle logo" style="height: 100px; width:100px;"/>
+<img src="CAS.jpg" alt="circle logo" style="height: 100px; width:400px;"/>
   - Interest: Diffusion model and AI4Science. (Mentor: Prof.Yifan Zhang)
   - Duty: I do research in combinatorial optimization, image generation and AI4Science.
 
