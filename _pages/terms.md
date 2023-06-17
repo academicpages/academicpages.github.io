@@ -8,7 +8,7 @@ author_profile: true
 {% include toc %}
 
 <p align="center">
-  <img src="BUPT.png" style="height: 50px; width:200px">
+  <img src="https://staymylove.github.io/images/BUPT.png" style="height: 50px; width:200px">
 </p>                  
 - 2021.06-2022.12 State Key Laboratory of Networking And Switching Technology          
           
@@ -17,7 +17,7 @@ author_profile: true
         Our team studied KG fusion and entity alignment, and we propose an automated knowledge extraction, data cleaning and graph fusion framework for heterogeneous learning resources. Our paper was submitted to ``ICALT2023".
         
 <p align="center">
-  <img src="BUPT.png" style="height: 50px; width:200px">
+  <img src="https://staymylove.github.io/images/BUPT.png" style="height: 50px; width:200px">
 </p>
 - 2022.05-2023.5 National Engineering Research Center of Mobile Network Security 
 
@@ -26,7 +26,7 @@ author_profile: true
 We propose a practical physical layer black-box attack method to destroy the robustness of  deep learning-based semantic communication systems, where the adversaries are imperceptible to humans. Our work has been accepted by ICC2023.And then, we propose SemProtector: A Unified Framework for Semantic Protection in Deep Learning-based Semantic Communication Systems. Our work was submitted to Communication Magazine.
 
 <p align="center">
-  <img src="CAS.jpg" style="height: 50px; width:150px">
+  <img src="https://staymylove.github.io/images/CAS.jpg" style="height: 50px; width:150px">
 </p>
 - 2023.04-Now The National Laboratory of Pattern Recognition (NLPR) at the Institute of Automation of the Chinese Academy of Sciences (CASIA).
 
@@ -35,7 +35,7 @@ We propose a practical physical layer black-box attack method to destroy the rob
 <!-- 
 <img align="left" img src="cwru.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/> -->
 <p align="center">
-  <img src="c.jpg" style="height: 50px; width:200px">
+  <img src="https://staymylove.github.io/images/c.jpg" style="height: 50px; width:200px">
 </p>
 - 2023.06-Now The Department of Computer and Data Science in Case Western Reserve University
 
