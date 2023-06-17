@@ -15,7 +15,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-## Publications
+
 - **Zeju Li**, Xinghan Liu, Guoshun Nan* , Jinfei Zhou, Xinchen Lyu, Qimei Cui, Xiaofeng Tao. Boosting Physical Layer Black-Box Attacks with Semantic Adversaries in Semantic Communications. *Proceedings of the International Communication Conference.* **(ICC 2023)(CCF-C)** [[pdf]](http://staymylove.github.io/files/ICC2023.pdf)
 - Xinghan Liu, Guoshun Nan*, Qimei Cui, **Zeju Li**, Peiyuan Liu, Zebin Xing, Hanqing Mu, Yuanwei Liu, Xiaofeng Tao. SemProtector: A Unified Framework for Semantic Protection in Deep Learning-based Semantic Communication Systems. **(Communciation Magazine)(SCI Q1)**(in revision)
 - **Zeju Li**, Linya Cheng, Chunhong Zhang, Xinning Zhu, Hui ZhaoMulti-source Education Knowledge Graph Construction and Fusion for College Curricula.*Proceedings of the  IEEE International Conference on Advanced Learning Technologies.* **(ICALT 2023)(Core A)** [[pdf]](https://arxiv.org/abs/2305.04567)
