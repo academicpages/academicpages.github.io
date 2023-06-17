@@ -25,7 +25,7 @@ Education
 
 Selected awards
 ======
-* Special Prize (teamwork, ranked 2nd), International Engineering Mechanics Contest (Asian Region), 2019
+* Special Prize (teamwork, ranked 2nd out of 104 teams), International Engineering Mechanics Contest (Asian Region), 2019
 * Special Prize, Chinese Mechanics Competition (Anhui Province competition area), 2017
 * National Scholarship, Ministry of Education, 2018
 * Merit Student, Hefei University of Technology, 2018

@@ -10,32 +10,34 @@ author_profile: true
 
 Software development
 ======
+* Solid embedded components for complex thin-walled structures, in preparation
+* Explicit tomo for complex rib-reinforced thin-walled structures, 2023.06-present
 * Explicit layout optimization of complex rib-reinforced thin-walled structures, 2023.02-present
 * Explicit topology optimization of shell structures, 2022.06-present
 
 Research
 ======
-* Rob, LDM, SC, RST, MR, 2023.03-present (In preparation)
-* Hit think, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.05-present (In preparation)
-* FracMem, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.01-present (Ongoing)
-* Tomo, supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.10-present (Ongoing)
-* SL (Ongoing)
+* Rob, LDM, SC, RST, MR, 2023.03-present (in preparation)
+* Hit think, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.05-present (in preparation)
+* FracMem, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.01-present (ongoing)
+* Tomo, supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.10-present (ongoing)
+* SL (ongoing)
   * Collaborated with Mr. Wu Xu
   * Supervised by Prof. Xu Guo, Prof. Weisheng Zhang, and Prof. Chang Liu, 2022.06-present
-* Solid components embedded in thin-walled structures (Done)
+* Solid embedded components for thin-walled structures (done)
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.03-2023.06
-* Explicit layout optimization of complex rib-reinforced thin-walled structures (Done)
+* Explicit layout optimization of complex rib-reinforced thin-walled structures (done)
   * Collaborated with Dr. Xudong Jiang
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.03-2022.10
-* Explicit topology optimization of surface structures (Ongoing, topic of doctoral dissertation)
+* Explicit design for surface structures (ongoing, topic of doctoral dissertation)
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2021.03-present
-* Texture synthesis and its application to computational mechanics (To be continued)
+* Texture synthesis and its application to computational mechanics (to be continued)
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2020.10-2021.03
-* Structure design considering EMS and EMI (To be continued)
+* Structure design considering EMS and EMI (to be continued)
   * Supervised by Prof. Xu Guo and Prof. Chang Liu,  2020.04-2020.09
-* Constructing the underlying algorithm of IGBEM (Done)
+* Constructing the underlying algorithm of IGBEM (done)
   * Supervised by Prof. Bo Yu, 2017.10-2019.06
-* On improvement of piezoelectric properties of ZnO (Done)
+* On improvement of piezoelectric properties of ZnO (done)
   * Collaborated with Mr. Zhenyu Zhu, Mr. Linsheng Shan, Mr. Guangming Li
   * Supervised by Prof. Xiaobao Li, 2017.06-2019.03
 
@@ -49,8 +51,9 @@ Contests
   * Collaborated with Dr. Xudong Jiang
   * Supervised by Prof. Xu Guo and Prof. Chang Liu
 * Team game in International Engineering Mechanics Contest, 2019
-  * Collaborated with Chaoqi Gao (civil engineering) and Xiaoqing Zhou (energy and power engineering)
+  * Collaborated with Chaoqi Gao (major in civil engineering) and Xiaoqing Zhou (major in energy and power engineering)
 * Competition of Experimental Mechanics, 2017
+  * A successful failure
   * Special thanks to Prof. Meiqin Wang and Prof. Zhaotao Liu
   * Collaborated with Xubing Cheng, Zhuofan Ni, and Guangming Li
 * High School Physics Competition, 2011
