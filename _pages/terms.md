@@ -20,7 +20,7 @@ author_profile: true
   - Duty: I do research in multimodal information fusion and semantic communication based on deep learning.
 We propose a practical physical layer black-box attack method to destroy the robustness of  deep learning-based semantic communication systems, where the adversaries are imperceptible to humans. Our work has been accepted by ICC2023.And then, we propose SemProtector: A Unified Framework for Semantic Protection in Deep Learning-based Semantic Communication Systems. Our work was submitted to Communication Magazine.
 
-<img align="left" img src="CAS.jpg" alt="MarineGEO circle logo" style="height: 500px; width:100px;"/>
+<img align="left" img src="CAS.jpg" alt="MarineGEO circle logo" style="height: 50px; width:100px;"/>
 - 2023.04-Now The National Laboratory of Pattern Recognition (NLPR) at the Institute of Automation of the Chinese Academy of Sciences (CASIA).
 
   - Interest: Diffusion model and AI4Science. (Mentor: Prof.Yifan Zhang)
