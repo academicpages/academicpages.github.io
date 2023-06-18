@@ -1,30 +1,16 @@
 # main links links
 main:
   - title: "Home"
-    url: about/
+    url: about/ # --> link CV here instead?
 
 #   - title: "Research"
-#     url: research/    # add publications to this later
+#     url: research/
 
-#   - title: "MacSuite"
-#     url: macsuite/
-    
-#   - title: "Activities"
-#     url: /activities/    
-    
-# comment out for now but include later for blogs + photography? or replace w education section?
-#   - title: "Personal"
-#     url: /personal/
-
-# # collection of research papers i read and when
-#   - title: "KUWTL"
-#     url: /literature/
+#   - title: "Publications"
+#     url: publications/
 
   - title: "Teaching"
     url: teaching/
      
   - title: "Contact"
     url: contact/
-    
-#   - title: "CV"
-#     url: /cv/
