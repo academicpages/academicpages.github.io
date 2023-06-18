@@ -75,7 +75,7 @@ Seminars
 
 Services
 ======
-* Reviewer for Engineering Structures (2 times)
+* Reviewer for Engineering Structures
 * Student Assistance Ambassador, Hefei University of Technology, 2019.01-2019.06
 * Student Union, Center of Learning and Development, Hefei University of Technology, 2015.09-2016.06
 
