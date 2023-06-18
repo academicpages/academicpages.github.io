@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mostafa Osama Metwaly Othman"
 title_separator          : "-"
-name                     : &name "Mostafa Osama Metwaly Othman"
+name                     : &name "Mostafa Metwaly Othman"
 description              : &description "My personal Website"
 url                      : https://mostafa-metwaly.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mostafa Osama"
+  name             : "Mostafa Othman"
   avatar           : "Picsart_22-02-17_22-19-07-635.jpg"
-  bio              : "Robotics Engineer"
-  location         : "Kazan, Russia"
+  bio              : "Robotics Software Engineer"
+  location         : "Tokyo, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=VDBr2VUAAAAJ&hl=en"
