@@ -13,55 +13,17 @@ _Download pdf [here](cv.pdf)_
 
 Education
 ======
-<style>
-  table {
-    border-collapse: collapse;
-    width: 100%;
-  }
-  
-  th, td {
-    padding: 8px;
-    text-align: left;
-  }
-  
-  th {
-    border-right: 1px solid #ddd;
-  }
-  
-  td {
-    border: none;
-  }
-</style>
-
-<table>
-  <tr>
-    <th>Year</th>
-    <td>Education</td>
-  </tr>
-  <tr>
-    <td>2020</td>
-    <td>
-      Ph.D. Political Science<br>
-      Yale University, New Haven, CT, U.S.A.<br>
-      Fields: Comparative Politics, Quantitative Methods, International Relations<br>
-      Committee: Elisabeth Wood, Gerard Padro i Miquel, Sarah Bush, Kate Baldwin
-    </td>
-  </tr>
-  <tr>
-    <td>2017 - 2018</td>
-    <td>
-      M.A. War Studies<br>
-      King’s College London, London, U.K.
-    </td>
-  </tr>
-  <tr>
-    <td>2012 – 2016</td>
-    <td>
-      B.A. Political Science (Statistics Minor)<br>
-      University of Chicago, Chicago, IL, U.S.A.
-    </td>
-  </tr>
-</table>
+|:----------:|:--------------------------------------------------------:|
+| 2020       | Ph.D. Political Science                                  
+             | Yale University, New Haven, CT, U.S.A.                   
+             | Fields: Comparative Politics, Quantitative Methods,      
+             | International Relations                                 
+             | Committee: Elisabeth Wood, Gerard Padro i Miquel,        
+             | Sarah Bush, Kate Baldwin                                 
+| 2017 - 2018| M.A. War Studies                                         |
+             | King’s College London, London, U.K.                      
+| 2012 – 2016| B.A. Political Science (Statistics Minor)                |
+             | University of Chicago, Chicago, IL, U.S.A.              
 
 
 
