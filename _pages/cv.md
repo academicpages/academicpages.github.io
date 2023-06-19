@@ -23,7 +23,7 @@ Education
 
 Work experience
 ======
-* Robotics Software Intern
+* Robotics Software Engineer
   * Rapyuta Robotics, Tokyo, Japan
   * Analyzed and solved problems during robot deployment
   * Provided solutions to improve product, process, and operations
