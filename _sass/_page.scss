@@ -73,7 +73,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: normal; // underline;
 
     &:hover {
       text-decoration: underline;
