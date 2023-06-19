@@ -13,24 +13,27 @@ _Download pdf [here](cv.pdf)_
 
 Education
 ======
-|:----------:|:--------------------------------------------------------:|
-| 2020       | Ph.D. Political Science                                  
-             | Yale University, New Haven, CT, U.S.A.                   
-             | Fields: Comparative Politics, Quantitative Methods,      
-             | International Relations                                 
-             | Committee: Elisabeth Wood, Gerard Padro i Miquel,        
-             | Sarah Bush, Kate Baldwin                                 
-| 2017 - 2018| M.A. War Studies                                         |
-             | King’s College London, London, U.K.                      
-| 2012 – 2016| B.A. Political Science (Statistics Minor)                |
-             | University of Chicago, Chicago, IL, U.S.A.              
+| Year       | Education                                                |
+|------------|----------------------------------------------------------|
+| 2020       | Ph.D. Political Science </br> Yale University, New Haven, CT, U.S.A.                   |
+| 2017 - 2018| M.A. War Studies </br> King’s College London, London, U.K.                      |
+| 2012 – 2016| B.A. Political Science (Statistics Minor) </br>  University of Chicago, Chicago, IL, U.S.A.               |
 
 
 
 
 Academic Research
 ======
-  
+Grasse, Don, **Pavlik, Melissa**, Matfess, Hilary, and Travis B. Curtice. 2021. “Opportunistic Repression: Patterns of civilian targeting by the state in response to COVID-19.” International Security 46 (2): 130–165. 
+* Presented at Political Violence and its Legacies (PVL), Yale University, Fall 2020
+
+**Pavlik, Melissa** and Ryan Pike. 2023. “Words of Warfare: Experimental Evidence of States’ Social Media Frames during the Russia-Ukraine Invasion.” Working paper (available upon request).
+* Presented at MPSA (2023)
+
+
+
+
+
 Skills
 ======
 * Skill 1
