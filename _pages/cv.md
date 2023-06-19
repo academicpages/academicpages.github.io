@@ -13,10 +13,30 @@ _Download pdf [here](cv.pdf)_
 
 Education
 ======
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  th {
+    border-right: 1px solid #ddd;
+  }
+  
+  td {
+    border: none;
+  }
+</style>
+
 <table>
   <tr>
     <th>Year</th>
-    <th>Education</th>
+    <td>Education</td>
   </tr>
   <tr>
     <td>2020</td>
