@@ -13,7 +13,7 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 * **Transferable Graph Structure Learning for Graph-based Traffic Forecasting across Cities** <br>
 **Yilun Jin**, Kai Chen, Qiang Yang. <br> To appear in *the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2023
 
-* **Scalable and Efficient Full-Graph GNN Training for Large Graphs** <br>
+* **Scalable and Efficient Full-Graph GNN Training for Large Graphs** \[[pdf](https://kl4805.github.io/files/g3-sigmod23.pdf)\]<br>
 Xinchen Wan, Kaiqiang Xu, Xudong Liao, **Yilun Jin**, Kai Chen, Xin Jin. <br> To appear in *the ACM Conference on Management of Data (SIGMOD)*, 2023. 
 
 ## 2022
