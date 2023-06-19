@@ -3,3 +3,10 @@ _site/
 default_ones_for_seeing_style/
 vendor/bundle/ruby/*
 old-pdfs/*
+.gitignore
+# For now _news/* pages are added here, if we want to add details to each news as a link, we will use this
+_news/2012-08-14-blog-post-1.md
+_news/2013-08-14-blog-post-2.md
+_news/2014-08-14-blog-post-3.md
+_news/2015-08-14-blog-post-4.md
+_news/2199-01-01-future-post.md
