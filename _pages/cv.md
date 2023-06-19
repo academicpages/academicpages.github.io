@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,23 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+_Download pdf [here](cv.pdf)_
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+| Year       | Education                                                |
+|:----------:|:--------------------------------------------------------:|
+| 2020       | Ph.D. Political Science  <br /> Yale University, New Haven, CT, U.S.A.  <br /> Fields: Comparative Politics, Quantitative Methods, International Relations <br />  Committee: Elisabeth Wood, Gerard Padro i Miquel, Sarah Bush, Kate Baldwin <br />                                 
+| 2017 - 2018| M.A. War Studies                                         |
+|            | King’s College London, London, U.K.                      |
+| 2012 – 2016| B.A. Political Science (Statistics Minor)                |
+|            | University of Chicago, Chicago, IL, U.S.A.               |
 
-Work experience
+
+
+Academic Research
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
