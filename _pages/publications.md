@@ -49,6 +49,6 @@ author_profile: true
 <i>The 25th International Conference on Image Processing</i>. <b>ICIP 2018</b>.
 
 <br>
-<b>[Determining Accurate Locations of Edges in Natural Images: A Phase-Based, Nonparametric Framework](http://complexfilter.github.io/publication/MSthesis)</b> <br> 
+<b>[Determining Accurate Locations of Edges in Natural Images: A Phase-Based, Nonparametric Framework](http://complexfilter.github.io/publications/MSthesis)</b> <br> 
 <b>Lantao Yu.</b>
 <i>Master of Science Thesis, 2016</i>.
