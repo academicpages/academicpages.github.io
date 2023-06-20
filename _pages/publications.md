@@ -7,7 +7,7 @@ author_profile: true
 
 
 <br>
-<b>[Manifold-Inspired Single Image Interpolation](http://complexfilter.github.io/publications/PhDThesis)</b> <br> 
+<b>[Exploring Spatial Resolution in Image Processing](http://complexfilter.github.io/publications/PhDThesis)</b> <br> 
 <b>Lantao Yu</b>.
 <i>Doctor of Philosophy </i>
 
