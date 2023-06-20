@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome ! I am a PhD candidate in Economics at the University of Paris-Saclay within [CIRED](http://www.centre-cired.fr/en/) and [PSAE](https://www6.versailles-grignon.inrae.fr/psae_eng/) research units. Here is my [CV](https://RomainFillon.github.io/files/CV_academique.pdf).
 
-I work on climate change and I am particularly interested in climate tipping points and social preferences under risk and uncertainty. I also work with quantitative spatial models. Codes for the research papers will be posted on Github if and once they are published.
+I work on climate change and I am particularly interested in climate tipping points and social preferences under risk and uncertainty. I also work with quantitative spatial models. 
 
 Feel free to contact me : rfillon@protonmail.com !
 
