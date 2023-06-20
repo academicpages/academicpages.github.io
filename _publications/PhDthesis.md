@@ -1,7 +1,7 @@
 ---
 title: "Exploring Spatial Resolution in Image Processing"
 collection: publications
-permalink: /publication/PhDthesis
+permalink: /publications/PhDthesis
 date: 2021-04-30
 paperurl: 'https://scholarship.rice.edu/handle/1911/96606'
 citation: 'Lantao Yu (2021). Exploring Spatial Resolution in Image Processing'
