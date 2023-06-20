@@ -17,7 +17,7 @@ Recommended citation:
 @inproceedings{melnychuk2023normalizing,
   title={Normalizing Flows for Interventional Density Estimation},
   author={Melnychuk, Valentyn and Frauen, Dennis and Feuerriegel, Stefan},
-  journal={International Conference on Machine Learning},
+  booktitle={International Conference on Machine Learning},
   year={2023}
 }
 ```

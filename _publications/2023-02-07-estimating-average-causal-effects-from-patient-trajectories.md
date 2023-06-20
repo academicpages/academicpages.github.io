@@ -13,11 +13,11 @@ In medical practice, treatments are selected based on the expected causal effect
 
 Recommended citation:
 ```bibtex
-@article{frauen2022estimating,
+@inproceedings{frauen2023estimating,
   title={Estimating average causal effects from patient trajectories},
   author={Frauen, Dennis and Hatt, Tobias and Melnychuk, Valentyn and Feuerriegel, Stefan},
-  journal={arXiv preprint arXiv:2203.01228},
-  year={2022}
+  booktitle={AAAI},
+  year={2023}
 }
 ```
 
