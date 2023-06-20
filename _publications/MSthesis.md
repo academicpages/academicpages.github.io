@@ -1,7 +1,7 @@
 ---
 title: "Determining Accurate Locations of Edges in Natural Images: A Phase-Based, Nonparametric Framework"
 collection: publications
-permalink: /publication/MSthesis
+permalink: /publications/MSthesis
 date: 2016-04-24
 paperurl: 'https://scholarship.rice.edu/handle/1911/96606'
 citation: 'Lantao Yu (2016). Determining Accurate Locations of Edges in Natural Images: A Phase-Based, Nonparametric Framework'
