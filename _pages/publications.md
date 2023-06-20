@@ -41,7 +41,7 @@ author_profile: true
 <br>
 <b>[Single Image Interpolation Exploiting Semi-local Similarity](http://complexfilter.github.io/publications/ICASSP2019)</b> <br> 
 <b>Lantao Yu</b>, Michael Orchard.
-<i>The 45th International Conference on Acoustics, Speech and Signal Processing</i>. <b>ICASSP 2019</b>.  <span style="color:red">(Oral)</span>, [Code](https://github.com/complexfilter/Single_Image_Interpolation_Exploiting_Semi-local_Similarity)
+<i>The 45th International Conference on Acoustics, Speech and Signal Processing</i>. <b>ICASSP 2019</b>.  <span style="color:red">(Oral)</span>, [[Code](https://github.com/complexfilter/Single_Image_Interpolation_Exploiting_Semi-local_Similarity)]
 
 <br>
 <b>[Location-Directed Image Modeling and its Application to Image Interpolation](http://complexfilter.github.io/publications/ICIP2018)</b> <br> 
