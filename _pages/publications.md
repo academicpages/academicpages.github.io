@@ -9,7 +9,7 @@ author_profile: true
 <br>
 <b>[Exploring Spatial Resolution in Image Processing](http://complexfilter.github.io/publications/PhDthesis)</b> <br> 
 <b>Lantao Yu</b>.
-<i>Doctor of Philosophy </i>
+<i>Doctor of Philosophy, 2021 </i>.
 
 
 <br>
