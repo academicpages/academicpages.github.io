@@ -27,6 +27,7 @@ You can also find my articles on <u><a href="{{https://scholar.google.com/citati
 -  [Signaling Competition in Two-Sided Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451693). O. Besbes, Y. Fonseca, I. Lobel and F. Zheng.
 
 -  [Contextual Inverse Optimization: Offline and Online Learning](https://arxiv.org/pdf/2106.14015.pdf). O. Besbes, Y. Fonseca and I. Lobel.
+    - Online Companion: [Download](http://yuriresende.github.io/CIO_Online_Companion.pdf)
 
 -  [BooST: Boosting Smooth Trees for Partial Effect Estimation in Nonlinear Regressions](https://arxiv.org/pdf/1808.03698.pdf). Y. Fonseca, M. Medeiros, G. Vasconcelos and A. Veiga.
 
