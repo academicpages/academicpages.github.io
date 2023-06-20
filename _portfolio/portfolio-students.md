@@ -36,3 +36,6 @@ article3:
 article1:  
 article2:  
 article3:  
+
+![202306毕业季1](/images/students/202306毕业季1.jpg "202306毕业季合影1")  
+![202306毕业季2](images/students/202306毕业季2.jpg "202306毕业季合影2")
