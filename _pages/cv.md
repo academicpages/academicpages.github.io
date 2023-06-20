@@ -15,17 +15,33 @@ redirect_from:
 * B.S. in System Analysis, National Technical University of Ukraine ”Igor Sikorsky Kyiv Polytechnic Institute”, 2014 - 2018
 
 ## Publications
-<ul>{% for post in site.publications reversed %}
-{% include archive-single-cv.html %}
-{% endfor %}</ul>
+### Peer-reviewed
+<ul>
+{% for post in site.publications reversed %}
+  {% if post.preprint != true %}
+    {% include archive-single-cv.html %}
+  {% endif %}
+{% endfor %}
+</ul>
+
+### Pre-prints
+<ul>
+{% for post in site.publications reversed %}
+  {% if post.preprint %}
+    {% include archive-single-cv.html %}
+  {% endif %}
+{% endfor %}
+</ul>
   
 ## Talks
 <ul>{% for post in site.talks reversed %}
 {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
 
-## Reviewing
-* [AISTATS 2023](http://www.aistats.org/aistats2023/) (top reviewer)
+## Activities
+* Reviewer at [NeurIPS 2023](https://nips.cc/Conferences/2023)
+* Teacher assistant at [Nordic Probabilistic AI School 2023](https://probabilistic.ai/)
+* Top reviewer at [AISTATS 2023](http://www.aistats.org/aistats2023/)
 
 ## Work experience
 * Research Assistant, Fraunhofer Institute for Integrated Circuits IIS (Munich, Germany), 2019 - 2021

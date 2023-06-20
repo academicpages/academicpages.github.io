@@ -3,6 +3,7 @@ title: "Knowledge Graph Entity Alignment with Graph Convolutional Networks: Less
 collection: publications
 authors: 'M. Berrendorf, E. Faerman, <b>V. Melnychuk</b>, V. Tresp, T. Seidl'
 date: 2020-04-14
+venue: ECIR
 excerpt: "![GCN-align](/images/GCN-align.png){: style='float: left; height: 100px'}"
 arxiv: 'https://arxiv.org/abs/1911.08342'
 paperurl: 'https://www.dbs.ifi.lmu.de/~tresp/papers/978-3-030-45442-5_Chapter_1.pdf'
