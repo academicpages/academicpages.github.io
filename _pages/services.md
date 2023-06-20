@@ -24,5 +24,6 @@ author_profile: true
   - [Journal] [Brain Sciences](https://www.mdpi.com/journal/brainsci)
   - [Journal] [Journal of Clinical Science](https://www.mdpi.com/journal/jcm)
   - [Journal] [International Journal of Molecular Sciences](https://www.mdpi.com/journal/ijms)
+  - [Journal] [Automatika](https://www.tandfonline.com/toc/taut20/current)
   
 
