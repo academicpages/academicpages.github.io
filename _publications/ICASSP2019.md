@@ -11,3 +11,10 @@ citation: '<b>Lantao Yu</b>, Michael Orchard. <b>ICASSP 2019.</b>'
 
 ## Abstract
 This paper explores the modeling and exploitation of semi-local similarity in natural images to address the ill-posed nature of image interpolation. Our approach distinguishes itself from prior approaches by direct and careful use of semi-local similar patches to interpolate each individual patch. Our work uses a simple, parallelizable algorithm without the need to solve complicated optimization problems. Experimental results demonstrate that our interpolated images achieve significantly higher objective and subjective quality compared with those from state-of-the-art algorithms.
+
+
+## Source code
+
+Matlab Code in [Github](https://github.com/complexfilter/Single_Image_Interpolation_Exploiting_Semi-local_Similarity)
+
+
