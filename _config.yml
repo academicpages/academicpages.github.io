@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Romain Fillon"
+title                    : #"Romain Fillon"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
