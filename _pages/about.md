@@ -15,6 +15,7 @@ Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I
 > ***8th June 2023***
 > 
 > I have been accepted at the Simon Initiative’s LearnLab Summer School at Carnegie Mellon University! See you in Pittsburgh!
+> After the summer school, and before ICER, I will also visit the [HINTS](https://isnap.csc.ncsu.edu/home/public/) lab led by Professor Thomas W. Price. 
 
 
 > ***16 May 2023***
