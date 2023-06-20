@@ -15,6 +15,6 @@ This paper explores the modeling and exploitation of semi-local similarity in na
 
 ## Source code
 
-Matlab Code in [Github](https://github.com/complexfilter/Single_Image_Interpolation_Exploiting_Semi-local_Similarity)
+Matlab Code in [Github](https://github.com/complexfilter/Single_Image_Interpolation_Exploiting_Semi-local_Similarity).
 
 
