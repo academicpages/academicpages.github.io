@@ -58,6 +58,8 @@ yandex_site_verification :
 # Social Sharing
 twitter:
   username               : &twitter
+github:
+  username               : &github
 facebook:
   username               :
   app_id                 :
