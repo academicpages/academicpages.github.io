@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Viktoria Freingruber"
-excerpt: "Hi there!"
+title: "Hi there!"
+excerpt: "Where is this?"
 author_profile: true
 redirect_from: 
   - /about/
