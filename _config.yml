@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "What are you doing here??"
+title                    : "Viktoria Freingruber"
 title_separator          : "-"
-name                     : &name "Vikiii"
+name                     : &name "Viktoria Freingruber"
 description              : &description "personal description"
 url                      : https://vevaF.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "I'm not a cat"
   avatar           : "vikicat.png"
-  bio              : "I'm a PhD student in my final year in Edinburgh (UK). I study different modelling approaches for collective cell migration but I'm interested in various topics in mathematical biology."
-  location         : "Edinburgh, UK"
+  bio              : "PhD student in Mathematical Biology, working on models for collective cell migration"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
