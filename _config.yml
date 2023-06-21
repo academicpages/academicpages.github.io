@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ma Qi 马骐 "
+title                    : "Ma Qi 马 骐 "
 title_separator          : "-"
-name                     : &name "Ma Qi (马骐)"
+name                     : &name "Ma Qi 马 骐"
 description              : &description "personal description"
 url                      : https://MaQi-math.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ma Qi 马骐"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "An undergraduate majoring in Mathematics"
   location         : "Wuhan, China"
   employer         :
