@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Statistics, Federal University of Technology Akure, 2018
+* M.Sc. in Mathematics, African Institute for Mathematical Sciences (AIMS), Rwanda, 2020
+* Ph.D. in Statistics, University of Edinburgh, 2024 (expected)
 
 Work experience
 ======
