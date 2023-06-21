@@ -13,9 +13,9 @@ redirect_from:
 <img src="/resources/boat_pic.jpg" alt="me"  style="width:386px;height:330;;border:0;">
 </a>
 
-I am a <b>Senior Researcher</b> at the [INVEST Research Flagship Center](https://invest.utu.fi) of the University of Turku, Finland. I also serve as an <b>Associate Editor</b> of the [*Social Science*](https://www.springer.com/journal/43545/) journal (Springer).
+I am a <b>Senior Researcher</b> at the University of Turku, Finland. Currently, I'm affiliated to the [INVEST Research Flagship](https://invest.utu.fi). I also serve as an <b>Associate Editor</b> of the [*Social Science*](https://www.springer.com/journal/43545/) journal (Springer).
 
-<p class="lead"> Before joining University of Turku, I was an Assistant Professor (tenure-track) at Universidad de O'Higgins (Chile). Previously, I had served one year as a post-doctoral fellow at Tulane University (New Orleans, LA, U.S.). I received my PhD in Political Science from Rutgers University (New Brunswick, NJ, U.S.) in the spring of 2017.</p>
+<p class="lead"> Before joining University of Turku, I was an Assistant Professor (tenure-track) in Chile. Previously, I served as a post-doctoral fellow at Tulane University (New Orleans, LA, U.S.). I received my PhD in Political Science from Rutgers University (New Brunswick, NJ, U.S.) in the spring of 2017.</p>
 
 [Download my CV here](http://github.com/hbahamonde/Job_Market/raw/master/Bahamonde_CV.pdf)
 
