@@ -51,6 +51,8 @@ Qingqing Long, Yiming Wang, Lun Du, Guojie Song, **Yilun Jin**, Wei Lin. <br>In 
 Yizhou Zhang, Guojie Song, Lun Du, Shuwen Yang, **Yilun Jin**. <br>In *The 28th International Joint Conference on Artificial Intelligence (IJCAI)*, 2019. 
 
 # Journal Papers
+* **Federated Learning without Full Labels: A Survey** \[[pdf](https://kl4805.github.io/files/p27.pdf)\] <br>
+**Yilun Jin**, Yang Liu, Kai Chen, Qiang Yang. <br> In *IEEE Data Engineering Bulletin, 2023*.
 
 * **SecureBoost: A Lossless Federated Learning Framework** \[[pdf](https://arxiv.org/pdf/1901.08755.pdf)\] <br>
 Kewei Cheng, Tao Fan, **Yilun Jin**, Yang Liu, Tianjian Chen, Qiang Yang. <br>In *IEEE Intelligent Systems, 2021*.
