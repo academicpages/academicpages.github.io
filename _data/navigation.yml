@@ -5,3 +5,6 @@ main:
         
   - title: "Essays and Media"
     url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
