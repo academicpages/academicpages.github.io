@@ -5,7 +5,6 @@ author_profile: true
 redirect_from: 
   - /md/
   - /news.html
-  - https://roopekaaronen.github.io/news
 ---
 
 I try to accompany each of my research projects with popular scientific texts or with other media. Here are some selected media appearances and essays.
