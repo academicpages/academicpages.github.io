@@ -9,7 +9,7 @@ author_profile: true
 
 Kaaronen, Roope O., Manninen, Mikael A., & Eronen, Jussi T. (2023). [Body-based units of measure in cultural evolution](https://doi.org/10.1126/science.adf1936). _Science, 380_(6648), 948-954. [Open access at OSF](https://osf.io/rjde7/).
 
-> We document body-based units of measure in 186 cultures across the world. We argue that body-based measurement systems have had some advantages, such as in the ergonomic design of everyday technologies. As a consequence, we argue that body-based measurement has persisted even millennia after the first measurement standards emerged.
+> Measurement systems are important drivers of cultural and technological evolution. We document body-based measurement systems in 186 cultures, illustrating how body-based measurement is an activity common to cultures around the world. We argue that body-based units have had, and may still have, advantages over standardized systems, such as in the design of ergonomic technologies. This helps explain the persistence of body-based measurement centuries after the first standardized measurement systems emerged.
 
 ![](https://www.srf.ch/static/cms/images/1280w/84a00a.webp)
 
