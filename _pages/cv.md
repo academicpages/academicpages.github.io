@@ -25,6 +25,5 @@ redirect_from:
   * [Erik Rietveld's](https://erikrietveld.com/) research group
 
 * 2017-2020: Doctoral Candidate
-  * University of Helsinki
-  * Faculty of Social Sciences
+  * University of Helsinki, Faculty of Social Sciences
 

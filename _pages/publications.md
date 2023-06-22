@@ -9,7 +9,7 @@ redirect_from:
 
 ## Research highlight
 
-Kaaronen, Roope O., Manninen, Mikael A., & Eronen, Jussi T. (2023). [Body-based units of measure in cultural evolution](https://doi.org/10.1126/science.adf1936). _Science, 380_(6648), 948-954. [Open access](https://osf.io/rjde7/).
+Kaaronen, Roope O., Manninen, Mikael A., & Eronen, Jussi T. (2023). [Body-based units of measure in cultural evolution](https://doi.org/10.1126/science.adf1936). _Science, 380_(6648), 948-954. [Open access at OSF](https://osf.io/rjde7/).
 
 > We documented body-based units of measure across the world in 186 cultures. We argue that body-based measurement systems have had some advantages, such as in the ergonomic design of everyday technologies, and that consequently body-based measurement has persisted even millennia after the first measurement standards emerged.
 
