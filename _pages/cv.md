@@ -16,8 +16,8 @@ Education
 
 Work experience
 ======
-* Fall 2022 - Present: Undergraduate Thesis Researcher
-  * BITS Pilani 
+* Fall 2022 - May 2023: Undergraduate Thesis Researcher
+  * [IHMI Lab, BITS Pilani Goa](https://sites.google.com/goa.bits-pilani.ac.in/ihmilab/)
   * Supervisor: Surjya Ghosh
   * Title: Developing AI-enabled Framework for Opportunistic Emotion Self-Report Collection
   * Objective: To develop framework that decides probing moments for emotion self-report collection instead of continuous sampling of emotion self-reports. We aim to achieve this by developing a state-of-the-art machine learning model based on the variation in physiological signals
@@ -28,7 +28,7 @@ Work experience
   * Developed script for Amazon Data Services that creates a customized dashboard showing code reviews raised to a team or group. It also mails the dashboard view to reviewers and managers
   * Participated in a 2-day intra-organization hackathon. Collaborated in a diverse team of 5 to solve a pain-point and ameliorate employee experience
 
-* November 2022 - Present: Data Engineer
+* November 2022 - May 2023: Data Engineer
   * Dotlas
   * Working closely with the CTO to write scripts in Python, SQL to wrangle and analyze data 
   * Engineering and maintaining ETL pipelines and table creation and normalization
