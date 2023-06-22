@@ -12,7 +12,7 @@ I'm a postdoctoral researcher at the University of Helsinki. I consider myself a
 
 
 
-As a researcher, I am interested in the broad methodological palette, ranging from computational methods to ethnographic research. As a human, my fancy is tickled by kayaking, foraging, the outdoors, [photography](https://500px.com/p/roopekaaronen?view=photos), and music. Wherever possible, I try to combine these personal and research interests: I have a firm belief that the best theory emerges from practical knowledge.
+As a researcher, I am interested in the broad methodological palette, ranging from computational methods to ethnographic research. As a human, my fancy is tickled by kayaking, foraging, the outdoors, [photography](https://500px.com/p/roopekaaronen?view=photos), and music. Wherever possible, I try to combine these interests: I have a firm belief that the best theory emerges from practical knowledge.
 
 
 
