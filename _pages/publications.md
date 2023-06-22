@@ -13,7 +13,7 @@ Kaaronen, R. O., Manninen, M. A., & Eronen, J. T. (2023). [Body-based units of m
 
 > We documented body-based units of measure across the world in 186 cultures. We argue that body-based measurement systems have had some advantages, such as ergonomic design, and that consequently body-based measurement has persisted even millennia after the first measurement standards emerged.
 
-![](https://drive.google.com/uc?id=1_cBvjOaBDLD1TZDgaepwk9dHs_ld93IT)
+![](https://www.srf.ch/static/cms/images/1280w/84a00a.webp)
 
 Kaaronen, Roope O., Mikael A. Manninen, and Jussi T. Eronen. [Rules of thumb, from Holocene to Anthropocene](https://doi.org/10.1177/20530196221149105). _The Anthropocene Review_ (2023): 20530196221149105.
 
