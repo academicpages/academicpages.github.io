@@ -17,12 +17,12 @@ redirect_from:
 ## Work
 
 * 2021-: Academy of Finland Postdoctoral Researcher
-  * University of Helsinki
-  * Faculty of Biological and Environmental Sciences
+  * University of Helsinki, Faculty of Biological and Environmental Sciences
   * [Past Present Sustainability Research Unit (PAES)](https://researchportal.helsinki.fi/en/organisations/past-present-sustainability-paes)
 
 * 2020-2021: Postdoctoral Researcher
   * University of Amsterdam, Amsterdam Academic Medical Center (AMC)
+  * [Erik Rietveld's](https://erikrietveld.com/) research group
 
 * 2017-2020: Doctoral Candidate
   * University of Helsinki
