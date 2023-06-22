@@ -19,7 +19,7 @@ Falandays, J. Benjamin, et al. [All intelligence is collective intelligence](htt
 
 Kaaronen, Roope O., Manninen, Mikael A., and Eronen, Jussi T. [Rules of thumb, from Holocene to Anthropocene](https://doi.org/10.1177/20530196221149105). _The Anthropocene Review_ (2023).
 
-Little, John C., et al. [Earth Systems to Anthropocene Systems: An Evolutionary, System-of-Systems, Convergence Paradigm for Interdependent Societal Challenges](https://pubs.acs.org/doi/10.1021/acs.est.2c06203). _Environmental Science & Technology_ 57.14 (2023): 5504-5520.
+Little, John C., et al. [Earth systems to Anthropocene systems: An evolutionary, system-of-systems, convergence paradigm for interdependent societal challenges](https://pubs.acs.org/doi/10.1021/acs.est.2c06203). _Environmental Science & Technology_ 57.14 (2023): 5504-5520.
 
 Hulkkonen, Mira, et al. [Modeling non-linear changes in an urban setting: From pro-environmental affordances to responses in behavior, emissions and air quality](https://link.springer.com/article/10.1007/s13280-022-01827-8). _Ambio_ 52.5 (2023): 976-994.
 
