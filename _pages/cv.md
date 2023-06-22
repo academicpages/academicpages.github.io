@@ -12,7 +12,7 @@ author_profile: true
 * M.Soc.Sc. in University of Helsinki, 2016
 * Ph.D in Social Sciences, University of Helsinki, 2020
 
-## Work
+## Research
 
 * 2021-: Academy of Finland Postdoctoral Researcher
   * University of Helsinki, Faculty of Biological and Environmental Sciences
