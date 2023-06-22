@@ -9,7 +9,7 @@ redirect_from:
 ---
 A Brief Self-introduction
 ======
-My name is Ma Qi(马骐). In Chinese naming customs, the family name is traditionally placed first, so "Ma" (马) is my family name. The character "Ma" (马) means "horse" in Chinese, while the character "Qi" (骐) refers to a famous excellent horse in history.
+My name is Ma Qi (马 骐). In Chinese naming customs, the family name is traditionally placed first, so "Ma" (马) is my family name. The character "Ma" (马) means "horse" in Chinese, while the character "Qi" (骐) refers to a famous excellent horse in history.
 
 I was born in Huaibei, China at 16/07/2002. 
 
@@ -29,4 +29,4 @@ CV
 =====
 Find my CV [here](../files/cv.pdf)
 
-<a href="https://info.flagcounter.com/VC7d"><img src="https://s11.flagcounter.com/count2/VC7d/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_20/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/pouK"><img src="https://s11.flagcounter.com/map/pouK/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
