@@ -2,6 +2,6 @@
 main:
   - title: "Publications"
     url: /publications/
-
+        
   - title: "Essays and Media"
-    url: /posts/
+    url: /year-archive/
