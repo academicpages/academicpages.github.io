@@ -28,3 +28,5 @@ Allow me to clarify the overlap in my educational timeline. The program at WHU w
 CV
 =====
 Find my CV [here](../files/cv.pdf)
+
+<a href="https://info.flagcounter.com/NYhr"><img src="https://s01.flagcounter.com/map/NYhr/size_m/txt_000000/border_0F0E0F/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
