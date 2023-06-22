@@ -27,4 +27,4 @@ Allow me to clarify the overlap in my educational timeline. The program at WHU w
 
 CV
 =====
-You could see my CV [here](../file/cv.pdf)
+You could see my CV [here](../files/cv.pdf)
