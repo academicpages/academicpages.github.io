@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Curriculum Vitae](../files/CV AASTHA RASTOGI.pdf)
+[Curriculum Vitae](../files/CV_AASTHA RASTOGI.pdf)
 
 Education
 ======
