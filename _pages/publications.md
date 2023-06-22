@@ -11,7 +11,7 @@ redirect_from:
 
 Kaaronen, R. O., Manninen, M. A., & Eronen, J. T. (2023). Body-based units of measure in cultural evolution. _Science, 380_(6648), 948-954.
 
-![](https://i.imgur.com/bdWWcsf.jpg)
+![](https://drive.google.com/uc?id=1_cBvjOaBDLD1TZDgaepwk9dHs_ld93IT)
 
 
 ## Locations of key files/directories
