@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postdoctoral researcher at the University of Helsinki. I consider myself a multidisciplinary human scientist. I'm interested in what makes humans human, how cultures evolve, and how humans — past and present, across cultural boundaries — have solved everyday problems. My work sits at the intersection of cognitive science, (cognitive) anthropology, cultural evolution, complexity science, and sustainability science. Accordingly with the latter, I (at least try to) apply my research to help preserve a more ecologically and culturally diverse world, along with the rest of our [Past Present Sustainability Research Unit (PAES)](https://researchportal.helsinki.fi/en/organisations/past-present-sustainability-paes). 
+I'm a postdoctoral researcher at the University of Helsinki. I consider myself a multidisciplinary human scientist. I'm interested in what makes humans human, how cultures evolve, and how humans — past and present, across cultural boundaries — have solved everyday problems. My work sits at the intersection of cognitive science, (cognitive) anthropology, cultural evolution, complexity science, and sustainability science. Accordingly with the latter, I (try to) apply my research to help preserve a more ecologically and culturally diverse world at the [Past Present Sustainability Research Unit (PAES)](https://researchportal.helsinki.fi/en/organisations/past-present-sustainability-paes). 
 
 
 
