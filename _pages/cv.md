@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
 ======
-* B.S. in GitHub, GitHub University, 2012
 * M.Soc.Sc. in University of Helsinki, 2016
 * Ph.D in Social Sciences, University of Helsinki, 2020
 
