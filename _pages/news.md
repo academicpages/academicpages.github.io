@@ -7,6 +7,8 @@ redirect_from:
   - /news.html
 ---
 
+I try to accompany each of my research projects with popular scientific texts or with other media. Here are some selected media appearances and essays.
+
 ## Media Highlights
 
 * Our work was recently highlighted at [Science News](https://www.science.org/content/article/why-human-societies-still-use-arms-feet-and-other-body-parts-measure-things), who wrote a popular scientific piece on our research.
