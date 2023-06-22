@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D. student studying artificial intelligence/machine learning under Prof. [Maciej Mazurowski](https://sites.duke.edu/mazurowski/) at [Duke University](https://duke.edu/) in the [Dept. of Electrical and Computer Engineering](https://ece.duke.edu/). My research is in deep learning for medical image analysis, in topics such as anomaly detection and zero-shot learning, self-supervised learning and domain adaptation. My long-term goal is to use machine learning to enable scientific discovery.
+I'm a Ph.D. student studying artificial intelligence/machine learning under Prof. [Maciej Mazurowski](https://sites.duke.edu/mazurowski/) at [Duke University](https://duke.edu/) in the [Dept. of Electrical and Computer Engineering](https://ece.duke.edu/). My research is in deep learning for medical image analysis, in topics such as anomaly detection and zero-shot learning, self-supervised learning and domain adaptation. 
+
+I have also worked in AI robustness and interpretability as a research intern in the Math, Stats, and Data Science Group at the [Pacific Northwest National Lab](https://www.pnnl.gov/).
+
+My long-term goal is to use machine learning to enable scientific discovery. 
 
 ## Representative Publications
 
@@ -18,7 +22,7 @@ I'm a Ph.D. student studying artificial intelligence/machine learning under Prof
 - **Konz, N.**, et al. "A Competition, Benchmark, Code and Data for Using Artificial Intelligence to Detect Lesions in Digital Breast Tomosynthesis". *JAMA Network Open 2023*. [Link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2801740)
 - Mazurowski, M. A., Dong, H., Gu, H., Yang, J., **Konz, N.** and Zhang, Y. "Segment Anything Model for Medical Image Analysis: an Experimental Study". *arXiv 2023*. [Link](https://arxiv.org/abs/2304.10517)
 
-See my [Google Scholar page](https://scholar.google.com/citations?user=a9rXidMAAAAJ&hl=en) for a full list of my publications. My CV and coursework can be found [here](https://nickk124.github.io/cv/).
+See my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=a9rXidMAAAAJ&view_op=list_works&sortby=pubdate) for a full list of my publications. My CV and coursework can be found [here](https://nickk124.github.io/cv/).
 
 I graduated from the [University of North Carolina at Chapel Hill](https://www.unc.edu/) in 2020 with degrees in Astrophysics and Mathematics, where my research with [Prof. Daniel Reichart](https://www.danreichart.com/) focused on the development of statistical techniques for astronomical data applications.
 
