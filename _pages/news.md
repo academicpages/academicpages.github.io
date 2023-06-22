@@ -4,7 +4,7 @@ title: "Essays and Media"
 author_profile: true
 ---
 
-I try to accompany each of my research projects with popular scientific texts or with other media. Here are some selected media appearances and essays.
+Below are some selected media appearances and essays related to my research.
 
 ## Media highlights
 
