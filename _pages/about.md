@@ -17,3 +17,8 @@ As a researcher, I am interested in the broad methodological palette, ranging fr
 
 
 If you would like to get in touch, feel free to drop me a line. I'm always open for discussing new ideas and collaborations.
+
+
+
+
+### © Roope Kaaronen, 2023
