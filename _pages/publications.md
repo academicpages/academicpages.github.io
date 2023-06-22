@@ -7,6 +7,13 @@ redirect_from:
   - /publications.html
 ---
 
+## Research highlights
+
+Kaaronen, R. O., Manninen, M. A., & Eronen, J. T. (2023). Body-based units of measure in cultural evolution. _Science, 380_(6648), 948-954.
+
+![](https://i.imgur.com/bdWWcsf.jpg)
+
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
