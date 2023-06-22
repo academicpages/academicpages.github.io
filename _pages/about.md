@@ -22,7 +22,5 @@ If you would like to get in touch, feel free to drop me a line. I'm always open 
 
 
 
-
-
-
+***
 ###### © Roope Kaaronen, 2023
