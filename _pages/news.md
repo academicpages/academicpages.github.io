@@ -2,9 +2,6 @@
 permalink: /news/
 title: "Essays and Media"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /news.html
 ---
 
 I try to accompany each of my research projects with popular scientific texts or with other media. Here are some selected media appearances and essays.
