@@ -12,48 +12,20 @@ redirect_from:
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Soc.Sc. in University of Helsinki, 2016
+* Ph.D in Social Sciences, University of Helsinki, 2020
 
-Work experience
+Work
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-: Postdoctoral Researcher
+  * University of Helsinki
+  * Faculty of Biological and Environmental Sciences
+  * [Past Present Sustainability Research Unit (PAES)](https://researchportal.helsinki.fi/en/organisations/past-present-sustainability-paes)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2020-2021: Postdoctoral Researcher
+  * University of Amsterdam, Amsterdam Academic Medical Center (AMC)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2017-2020: Doctoral Candidate
+  * University of Helsinki
+  * Faculty of Social Sciences
+

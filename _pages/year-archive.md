@@ -1,10 +1,10 @@
 ---
-permalink: /publications/
-title: "Publications"
+permalink: /year-archive/
+title: "Essays and Media"
 author_profile: true
 redirect_from: 
   - /md/
-  - /publications.html
+  - /year-archive.html
 ---
 
 ## Research highlights
