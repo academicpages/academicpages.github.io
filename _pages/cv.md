@@ -27,3 +27,10 @@ redirect_from:
 * 2017-2020: Doctoral Candidate
   * University of Helsinki, Faculty of Social Sciences
 
+
+
+
+
+
+***
+###### © Roope Kaaronen, 2023

@@ -21,3 +21,9 @@ I try to accompany each of my research projects with popular scientific texts or
 * [The Ecology of Design](https://thesideview.co/journal/ecology-of-design/). The Side View (2018).
 * [Riskienhallintaa sienimetsässä](https://wiseproject.fi/riskienhallintaa-sienimetsassa/). WISE (2020).
 * [Kestävyyskriisi on myös suunnittelukriisi](https://wiseproject.fi/kestavyyskriisi-on-myos-suunnittelukriisi/). WISE (2019).
+
+
+
+
+***
+###### © Roope Kaaronen, 2023
