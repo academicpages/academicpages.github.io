@@ -51,7 +51,7 @@ Hagedorn, Gregor, et al. [Concerns of young protesters are justified](https://do
 
 Kaaronen, Roope O. [A theory of predictive dissonance: Predictive processing presents a new take on cognitive dissonance](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02218/full). _Frontiers in Psychology_ (2018).
 
-Kaaronen, Roope O. [Reframing tacit human-nature relations: an inquiry into process philosophy and the philosophy of Michael Polanyi](https://tuhat.helsinki.fi/ws/portalfiles/portal/94675404/1203_Kaaronen.pdf). _Environmental Values_ 27.2 (2018): 179-201.
+Kaaronen, Roope O. [Reframing tacit human-nature relations: an inquiry into process philosophy and the philosophy of Michael Polanyi](https://helda.helsinki.fi/bitstream/handle/10138/233395/1203_Kaaronen.pdf?sequence=1). _Environmental Values_ 27.2 (2018): 179-201.
 
 Kaaronen, Roope O. [Affording sustainability: Adopting a theory of affordances as a guiding heuristic for environmental policy](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01974/full). _Frontiers in Psychology_ (2017).
 
