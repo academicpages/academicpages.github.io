@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jiwon Kim"
 title_separator          : "-"
-name                     : &name "Jiwon (\"G-1\") Kim"
+name                     : &name "Jiwon Kim"
 description              : &description "PhD Candidate at Emory University"
 url                      : https://j1wonkim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiwon Kim"
+  name             : "Jiwon (\"G-1\") Kim"
   avatar           : "headshot041823.jpg"
   bio              : "PhD Candidate at Emory University"
   location         : "Atlanta, GA"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5999-0032"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : #
   steam            :
   tumblr           :
-  twitter          : "j1wonk1m"
+  twitter          : #"j1wonk1m"
   vine             :
   weibo            :
   xing             :
