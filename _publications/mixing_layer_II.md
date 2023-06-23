@@ -3,10 +3,10 @@ title: "The Anatomy of a Turbulent Radiative Mixing Layer: Insights from an Anal
 collection: publications
 permalink:
 excerpt:
-date: 2022-11-04
+date: 2023-06-20
 venue: 'ApJ'
 paperurl: 'https://arxiv.org/pdf/2211.01395.pdf'
-#citation: 'Chen Z., Fielding D. B., Bryan G. L. 2022'
+#citation: 'Chen Z., Fielding D. B., Bryan G. L. 2023'
 ---
 **Chen Z.**, Fielding D. B., Bryan G. L., The Anatomy of a Turbulent Radiative Mixing Layer: Insights from an Analytic Model with Turbulent Conduction and Viscosity, ApJ
 
