@@ -8,7 +8,7 @@ author_profile: true=====
 2020-2024 Wuhan University, BCs of Mathematics and Applied Mathematics
 -----
 
->This is a 4-year undergraduate program at Wuhan University, and I anticipate receiving my degree in June 2024. As part of my academic journey, I hold the esteemed title of Hongyi Honor Student at Wuhan University. Upon successful completion of this program, I am expected to be awarded a [Hongyi Honor Degree](https://hyxt.whu.edu.cn/). During the 2020-2021 academic year, I was affiliated with the Hongyi Honor College, and for the remaining three years, I have been a member of the [School of Mathematics and Statistics](https://maths.whu.edu.cn/Englishversion/index.htm).
+>This is a 4-year undergraduate program at Wuhan University, and I anticipate receiving my degree in June 2024. As part of my academic journey, I hold the esteemed title of Hongyi Honor Student at Wuhan University. Upon successful completion of this program, I am expected to be awarded a **Hongyi Honor Degree**. During the 2020-2021 academic year, I was affiliated with the [Hongyi Honor College](https://hyxt.whu.edu.cn/), and for the remaining three years, I have been a member of the [School of Mathematics and Statistics](https://maths.whu.edu.cn/Englishversion/index.htm).
 
 2023-2024 Universite III Toulouse-Paul Sabatier, Master 1 of Mathematics 
 -----
