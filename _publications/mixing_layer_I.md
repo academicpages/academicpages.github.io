@@ -3,7 +3,7 @@ title: "The Anatomy of a Turbulent Radiative Mixing Layer I: Essential Insights 
 collection: publications
 permalink:
 excerpt:
-date: 2022-06-15
+date: 2022-01-01
 venue: in prep
 paperurl: 
 ---
