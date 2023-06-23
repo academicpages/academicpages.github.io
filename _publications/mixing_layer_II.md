@@ -8,7 +8,7 @@ venue: 'ApJ'
 paperurl: 'https://arxiv.org/pdf/2211.01395.pdf'
 #citation: 'Chen Z., Fielding D. B., Bryan G. L. 2023'
 ---
-**Chen Z.**, Fielding D. B., Bryan G. L., The Anatomy of a Turbulent Radiative Mixing Layer: Insights from an Analytic Model with Turbulent Conduction and Viscosity, ApJ
+**Chen Z.**, Fielding D. B., Bryan G. L.
 
 ### Abstract  
 
