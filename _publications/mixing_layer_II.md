@@ -5,7 +5,7 @@ permalink:
 excerpt:
 date: 2023-06-20
 venue: 'ApJ'
-paperurl: 'https://arxiv.org/pdf/2211.01395.pdf'
+paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4357/acc73f'
 #citation: 'Chen Z., Fielding D. B., Bryan G. L. 2023'
 ---
 **Chen Z.**, Fielding D. B., Bryan G. L.
