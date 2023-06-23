@@ -23,11 +23,33 @@ CV
 =====
 Find my CV [here](../files/cv.pdf)
 
+Awards and Honors
+=====
+* 2022/23 Prize for excellent in Analysis and PDE       ——    S.T.Yau College Student Mathematics Contest
+
+> This is an exceptional award that is granted to only 100 students in China, and I am proud to have received it twice. You can find more information about this contest on the [official website](yau-contest.com).
+
+* 2023 First Prize, No.11 in China ——14th Chinese College Mathematics Competition
+
+> The competition has two rounds. I am proud to achieve a great scores and rank No.2 in Hubei Province in the first round and No.11 in the whole China in the second round.
+
+* 2022 Laureate, Top 1% in Wuhan University——National Scholarship of China
+
+* 2022/23 Laureate, First Class (Top 5% in WHU)——WHU Scholarship for Excellent students
+
+* 2022 Laureate, First Class (Top 10 in 300)——WHU Outstanding Mathematics Student Scholarship
+
+* 2022 Laureate ——Excellent Class Leader of WHU
+
+* 2023 Laureate —— [EUR MINT M1 Fellowship](https://mint.math.univ-toulouse.fr/en/appels-offres/master/)
+
 Contact
 =====
-My **E-mail**: mq_luoji@whu.edu.cn Please Feel free to send me an e-mail.
+My **E-mail**: mq_luoji@whu.edu.cn        
 
-My social media:
+Please Feel free to send me an e-mail.
+
+My **social media**:
 
 * **QQ**: 2524402517
 * **Wechat**: maqi_math
