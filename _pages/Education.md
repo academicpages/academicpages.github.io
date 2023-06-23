@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "About My Education Experience"
+title: " "
 permalink: /Education/
 author_profile: true
 redirect_from:
