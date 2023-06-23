@@ -31,7 +31,7 @@ waste storage site and convey the passage of time on the scale of 10,000 years. 
 the warning message into Oracle Bone Chinese, a hieroglyphic language that is over 3,000 years old. I helped her translate the original message to modern Chinese, 
 then to Oracle Bone Chinese.
 
-Thus, this intriguing art project ends up connecting my interest in astronomy and my cultural heritage in amazing ways. For images and blog posts about this project, click [here](https://madelinesunley.com/the-starry-messenger-wipp-blog).
+This unique art project ended up connecting my interest in astronomy and my cultural heritage in amazing ways. For images and blog posts about this project, click [here](https://madelinesunley.com/the-starry-messenger-wipp-blog).
 
 <figure>
   <img src="/images/oracle_bone.jpeg">
