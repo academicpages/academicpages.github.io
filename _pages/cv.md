@@ -18,12 +18,12 @@ Education
 
 Work experience
 ======
-* 2021-2022: Post Doctoral Fellow (IIT Bombay)
-  * Estimating erosion rates 
-  * Inversion of detrital fission track age distribution
-  * Geomorphometric analysis
-  * Bayesian statistics
+* 2021-2022: Post Doctoral Fellow (Indian Institute of Technology, Bombay)
+  #* Estimating erosion rates 
+  #* Inversion of detrital fission track age distribution
+  #* Geomorphometric analysis
+  #* Bayesian statistics
 
-* 2020-2021: Research Associate (IIT Bombay)
-  * Detrital fission track analysis
+* 2020-2021: Research Associate (Indian Institute of Technology, Bombay)
+  #* Detrital fission track analysis
   
