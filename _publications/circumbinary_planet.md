@@ -9,7 +9,7 @@ paperurl: 'https://academic.oup.com/mnras/article/513/4/5162/6581337'
 #citation: 'Chen Z., Kipping D., 2022'
 ---
 
-**Chen Z.**, Kipping D., The Number of Transits Per Epoch for Transiting Misaligned Circumbinary Planets, MNRAS, Volume 513, Issue 4, July 2022, Pages 5162–5173, https://doi.org/10.1093/mnras/stac1246
+**Chen Z.**, Kipping D.
 
 ### Abstract  
 
