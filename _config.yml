@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Biraj Borgohain/ Earth sciencs"
+title                    : "Biraj Borgohain / Earth Sciences"
 title_separator          : "-"
 name                     : &name "Biraj Borgohain" #chnaged
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Biraj Borgohain" #changed
   avatar           : "My passpot_100kb.JPG"
-  bio              : "borgohain.biraj@gmail.com"
+  bio              : "Thermochronology, Mineralogy"
   location         : "Dehradun"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
