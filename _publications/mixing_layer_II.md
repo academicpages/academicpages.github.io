@@ -10,6 +10,8 @@ paperurl: 'https://arxiv.org/pdf/2211.01395.pdf'
 ---
 **Chen Z.**, Fielding D. B., Bryan G. L., The Anatomy of a Turbulent Radiative Mixing Layer: Insights from an Analytic Model with Turbulent Conduction and Viscosity, ApJ
 
+[Download paper here](https://arxiv.org/pdf/2211.01395.pdf)
+
 ### Abstract  
 
 Turbulent Radiative Mixing Layers (TRMLs) form at the interface of cold, dense gas and hot, diffuse
