@@ -28,7 +28,7 @@ You can also find my articles on <u><a href="{{https://scholar.google.com/citati
 ## Working Papers
 
 -  [Signaling Competition in Two-Sided Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451693). O. Besbes, Y. Fonseca, I. Lobel and F. Zheng.
-   - An earlier version that includes some of these will appear at <em>EC'23, Proceedings of the 2023 ACM Conference on Economics and Computation.</em>
+   - An earlier version that includes some of these results will appear at <em>EC'23, Proceedings of the 2023 ACM Conference on Economics and Computation.</em>
 
 -  [BooST: Boosting Smooth Trees for Partial Effect Estimation in Nonlinear Regressions](https://arxiv.org/pdf/1808.03698.pdf). Y. Fonseca, M. Medeiros, G. Vasconcelos and A. Veiga.
 
