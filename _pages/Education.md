@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "About My Education Experience"
+permalink: /Education/
+author_profile: true
+redirect_from:
+  - /about me
+---
 
 2020-2024 Wuhan University, BCs of Mathematics and Applied Mathematics
 -----
