@@ -4,7 +4,7 @@ collection: publications
 permalink:
 excerpt:
 date: 2022-11-04
-venue: 'submitted to ApJ'
+venue: 'ApJ'
 paperurl: 'https://arxiv.org/pdf/2211.01395.pdf'
 #citation: 'Chen Z., Fielding D. B., Bryan G. L. 2022'
 ---
