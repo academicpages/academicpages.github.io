@@ -10,4 +10,3 @@ citation: 'Clark, Jaden Shah, Kunal Schwager, Mac (2023). &quot;Online Path Repa
 ---
 
 
-Recommended citation: Your Name, You. (2023). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
