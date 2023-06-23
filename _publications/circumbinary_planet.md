@@ -5,7 +5,7 @@ permalink:
 excerpt:
 date: 2022-4-22
 venue: 'MNRAS'
-paperurl: 'https://arxiv.org/pdf/2112.00966.pdf'
+paperurl: 'https://academic.oup.com/mnras/article/513/4/5162/6581337'
 #citation: 'Chen Z., Kipping D., 2022'
 ---
 
