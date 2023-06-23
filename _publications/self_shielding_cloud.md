@@ -1,5 +1,5 @@
 ---
-title: "Entrainment and Dust Survival in Self-Shielding Molecular Cloud"
+title: "Entrainment and Dust Survival in Self-Shielding Molecular Clouds"
 collection: publications
 permalink:
 excerpt:
