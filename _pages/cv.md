@@ -9,8 +9,8 @@ author_profile: true
 
 ## Education
 
-* M.Soc.Sc. in University of Helsinki, 2016
 * Ph.D in Social Sciences, University of Helsinki, 2020
+* M.Soc.Sc. in University of Helsinki, 2016
 
 ## Research
 

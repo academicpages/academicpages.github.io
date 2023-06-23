@@ -55,7 +55,7 @@ Kaaronen, Roope O. [Reframing tacit human-nature relations: an inquiry into proc
 
 Kaaronen, Roope O. [Affording sustainability: Adopting a theory of affordances as a guiding heuristic for environmental policy](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.01974/full). _Frontiers in Psychology_ (2017).
 
-Kaaronen, Roope Oskari. [Scientific Support for Sustainable Development Policies: A Typology of Science–Policy Interfaces with Case Studies](https://media.sitra.fi/2017/02/28142637/Selvityksia118.pdf). (2016).
+Kaaronen, Roope O. [Scientific Support for Sustainable Development Policies: A Typology of Science–Policy Interfaces with Case Studies](https://media.sitra.fi/2017/02/28142637/Selvityksia118.pdf). (2016).
 
 
 
