@@ -18,6 +18,8 @@ I hold a B.S. in Statistics from Hunan University (2016) and an M.S. in Statisti
 
 <span>**News!**</span>
 
+*06/23*: I will attend CSCW 23 in person in Minneapolis, MN, with two demos I built for video learning and collaborative review! Welcome to stop by my booth!
+
 *03/23*: We will have a Special Interest Group (SIG) about "Reflecting on Hybrid Events: Learning from a Year of Hybrid Experiences" in CHI 2023! Welcome to discuss about the future of hybrid events with us!
 
 *11/22*: I will attend GROUP 22/23 in person in Hilton Head Island, South Carolina!
