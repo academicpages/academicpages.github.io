@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jiwon Kim"
 title_separator          : "-"
-name                     : &name "Jiwon Kim"
+name                     : &name "Jiwon (\"G-1\") Kim"
 description              : &description "PhD Candidate at Emory University"
 url                      : https://j1wonkim.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
