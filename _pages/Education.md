@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: " "
-permalink: /About My Education Experience/
+title: "About My Education Experience"
+permalink: /Education.md/
 author_profile: true=====
 ---
 
