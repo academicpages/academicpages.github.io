@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Skills"
+  #- title: "Skills"
     url: /markdown/
