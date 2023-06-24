@@ -17,11 +17,14 @@ author_profile: true
 </b><br>Xiaotian Han, Tianlong Chen, Kaixiong Zhou <b>Zhimeng Jiang</b>, Zhangyang Wang, and Xia Hu.  -->
 
 
-## Conference Papers
+## Conference/Journal Papers
+<b>[DSpar: Embarrassingly Simple Strategy for Efficient GNN training and inference via Degree-based Sparsification.](https://openreview.net/forum?id=SaVEXFuozg&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions))
+</b><br>Zirui Liu, Kaixiong Zhou, <b>Zhimeng Jiang</b>, Li Li, Rui Chen, Soo-Hyun Choi, Xia Hu. <br>
+Transactions on Machine Learning Research (**TMLR**), 2023
 
 <b>[Retiring ∆DP: New Distribution-Level Metrics for Demographic Parity.](https://openreview.net/forum?id=LjDFIWWVVa&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions))
 </b><br><b>Zhimeng Jiang\*</b>, Xiaotian Han\*, Hongye Jin\*, Zirui Liu, Na Zou, Qifan Wang, Xia Hu <br>
-TMLR, 2023
+Transactions on Machine Learning Research (**TMLR**), 2023
 
 <b>[DIVISION: Memory Efficient Training via Dual Activation Precision.](??)
 </b><br>Guanchu Wang, Zirui Liu, <b>Zhimeng Jiang</b>, Ninghao Liu, Na Zou, Xia Hu <br>
@@ -73,10 +76,10 @@ ACM International Conference on Information and Knowledge Management (CIKM), 202
 
 <!-- ## Under review/ On-Going
 
-<!-- <b>[FMP: Toward Fair Graph Message Passing against Topology Bias](https://arxiv.org/abs/2202.04187)
-</b><br><b>Zhimeng Jiang</b>, Xiaotian Han, Chao Fan, Zirui Liu, Zou Na, Ali Mostafavi and Xia Hu. -->
+<b>[FMP: Toward Fair Graph Message Passing against Topology Bias](https://arxiv.org/abs/2202.04187)
+</b><br><b>Zhimeng Jiang</b>, Xiaotian Han, Chao Fan, Zirui Liu, Zou Na, Ali Mostafavi and Xia Hu.
 
-<!-- <b>[Fair Graph Message Passing with Transparency.](??)
+<b>[Fair Graph Message Passing with Transparency.](??)
 </b><br><b>Zhimeng Jiang</b>, Xiaotian Han, Chao Fan, Zirui Liu, Na Zou, Ali Mostafavi, Xia Hu <br>
 Under review, 2022
 
@@ -90,18 +93,14 @@ Under review, 2022
 
 <b>[Towards Generating Adversarial Examples on Mixed-type Data.](??)
 </b><br>Han Xu, Menghai Pan, <b>Zhimeng Jiang</b>, Huiyuan Chen, Xiaoting Li, Jiliang Tang, Mahashweta Das, Hao Yang. <br>
-Under review, 2022 -->
+Under review, 2022
 
-<!-- <b>[Towards Mitigating Dimensional Collapse of Representations in Collaborative Filtering.](??)
+<b>[Towards Mitigating Dimensional Collapse of Representations in Collaborative Filtering.](??)
 </b><br>Huiyuan Chen, Mahashweta Das, Vivian Lai, <b>Zhimeng Jiang</b>, Hongye Jin, Xia Hu, Chin-Chia Michael Yeh, Yan Zheng, Hao Yang. <br>
 Under review, 2022
 
-<!-- <b>[Fair Contrastive Learning by Clamped Mutual Information Maximization.](??)
+<b>[Fair Contrastive Learning by Clamped Mutual Information Maximization.](??)
 </b><br>Qizhang Feng, <b>Zhimeng Jiang</b>, Na Zou, Xia Hu. <br>
-Under review, 2022
-
-<b>[RANG: Trading Randomness for Scalable and Efficient Graph Neural Networks Training.](??)
-</b><br>Zirui Liu, Kaixiong Zhou, <b>Zhimeng Jiang</b>, Li Li, Rui Chen, Soo-Hyun Choi, Xia Hu. <br>
 Under review, 2022 -->
 
 ## Paper related to Optical Wireless Communication
