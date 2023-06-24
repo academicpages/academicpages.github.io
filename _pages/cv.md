@@ -103,77 +103,77 @@ Skills
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/c++.png" alt="C++" style="width: 30px;">
     <br>
-    <div style="background-color: #27ae60; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #27ae60; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">C++</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/python.png" alt="Python" style="width: 30px;">
     <br>
-    <div style="background-color: #e74c3c; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #e74c3c; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">Python</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/matlab.png" alt="MATLAB" style="width: 30px;">
     <br>
-    <div style="background-color: #1abc9c; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #1abc9c; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">MATLAB</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/keras.jpeg" alt="Keras" style="width: 30px;">
     <br>
-    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">Keras</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/open.png" alt="OpenCV" style="width: 30px;">
     <br>
-    <div style="background-color: #8e44ad; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #8e44ad; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">OpenCV</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/tensor.png" alt="TensorFlow" style="width: 30px;">
     <br>
-    <div style="background-color: #34495e; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #34495e; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">TensorFlow</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/pcl.png" alt="PCL" style="width: 30px;">
     <br>
-    <div style="background-color: #2ecc71; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #2ecc71; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">PCL</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/scikit.png" alt="scikit-learn" style="width: 30px;">
     <br>
-    <div style="background-color: #c0392b; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #c0392b; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">scikit-learn</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/pytorch.png" alt="PyTorch" style="width: 30px;">
     <br>
-    <div style="background-color: #3498db; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #3498db; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">PyTorch</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/sap.png" alt="SAP ERP" style="width: 30px;">
     <br>
-    <div style="background-color: #34495e; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #34495e; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">SAP ERP</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/latex.png" alt="SAP ERP" style="width: 40px;">
     <br>
-    <div style="background-color: #f39c12; padding: 5px; margin-top: 5px border-radius: 5px;">
+    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">Latex</span>
     </div>
   </div>
@@ -345,14 +345,14 @@ The country I studied, and Company I Worked
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/ase.jpg" alt="MATLAB" style="width: 60px;">
+    <img src="/images/ase.jpg" alt="MATLAB" style="width: 70px;">
     <br>
     <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
       <span style="color: blue;">ASE</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/etc.jpg" alt="Tele" style="width: 60px;">
+    <img src="/images/etc.jpg" alt="Tele" style="width: 120px;">
     <br>
     <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
       <span style="color: blue;">Tele</span>
