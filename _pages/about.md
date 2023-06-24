@@ -46,6 +46,16 @@ Campus/Project Experience
   \- With 6 nodes, a number of transactions, free trading, mining, etc  
   \- ECC algorithm was used to generate public and private keys, with Proof of Work (Pow) consensus mechanism, Merkel tree generation, transaction verification,etc 
 - **2023.02-2023.06 | ZhuoYueExpress | Project Leader**  
-  \- It has Android, Web and Server.
+  \- It has Android, Web and Server  
   \- It has the functions of express order, express scanning code collection, package unpacking/packing, express delivery, express track query, express real-time status query and so on  
   \- Software copyright is being applied for
+
+技能证书
+------
+英语四级：548    英语六级：493
+
+Skill Certificate
+------
+CET4:548    CET6:493
+
+
