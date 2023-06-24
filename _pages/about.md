@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third year undergraduate student from [School of CSAI、SE](http://www7.zzu.edu.cn/csai/), [ZhengZhou University](http://www.zzu.edu.cn/). My research interest includes `natural language processing，computer vision, computer graphics and machine learning`.    
+I'm a third year undergraduate student from [School of CSAI、SE](http://www7.zzu.edu.cn/csai/), [ZhengZhou University](http://www.zzu.edu.cn/). My research interest includes **natural language processing，computer vision, computer graphics and machine learning**.    
 
-我是来自[郑州大学](http://www.zzu.edu.cn/) [计算机与人工智能学院](http://www7.zzu.edu.cn/csai/)的大三学生。有志于进行`机器学习、自然语言处理、计算机视觉、计算机图形学`等方向的研究。
+我是来自[郑州大学](http://www.zzu.edu.cn/) [计算机与人工智能学院](http://www7.zzu.edu.cn/csai/)的大三学生。有志于进行**机器学习、自然语言处理、计算机视觉、计算机图形学**等方向的研究。
 ___
 
 Educational Background
