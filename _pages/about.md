@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "周志阳-个人主页"
+title: "周志阳-个人主页(ZZY-Personal Page）"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
