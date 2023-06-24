@@ -39,17 +39,85 @@ Thank you for visiting my page, and feel free to contact me for any further info
 </div>
 
 <div style="text-align: center;">
-  <img src="/images/bdu3.jpg" alt="BDU" style="display: inline-block; width: 60px;">
-  <img src="/images/ppke.png" alt="PPCU" style="display: inline-block; width: 30px;">
-  <img src="/images/uam.png" alt="UAM" style="display: inline-block; width: 30px;">
-  <img src="/images/ub.png" alt="UBx" style="display: inline-block; width: 30px;">
-  <img src="/images/c++.png" alt="BDU" style="display: inline-block; width: 10px;">
-  <img src="/images/python.png" alt="PPCU" style="display: inline-block; width: 10px;">
-  <img src="/images/matlab.png" alt="UAM" style="display: inline-block; width: 10px;">
-  <img src="/images/keras.jpeg" alt="UBx" style="display: inline-block; width: 10px;">
-  <img src="/images/open.png" alt="BDU" style="display: inline-block; width: 10px;">
-  <img src="/images/tensor.png" alt="PPCU" style="display: inline-block; width: 10px;">
-  <img src="/images/pcl.png" alt="UAM" style="display: inline-block; width: 10px;">
-  <img src="/images/scikit.png" alt="UBx" style="display: inline-block; width: 10px;">
-  <img src="/images/pytorch.png" alt="BDU" style="display: inline-block; width: 10px;">
+  <img src="/images/bdu3.jpg" alt="BDU" style="display: inline-block; width: 120px;">
+  <img src="/images/ppke.png" alt="PPCU" style="display: inline-block; width: 60px;">
+  <img src="/images/uam.png" alt="UAM" style="display: inline-block; width: 60px;">
+  <img src="/images/ub.png" alt="UBx" style="display: inline-block; width: 60px;">
+  <img src="/images/c++.png" alt="BDU" style="display: inline-block; width: 30px;">
+  <img src="/images/python.png" alt="PPCU" style="display: inline-block; width: 30px;">
+  <img src="/images/matlab.png" alt="UAM" style="display: inline-block; width: 30px;">
+  <img src="/images/keras.jpeg" alt="UBx" style="display: inline-block; width: 30px;">
+  <img src="/images/open.png" alt="BDU" style="display: inline-block; width: 30px;">
+  <img src="/images/tensor.png" alt="PPCU" style="display: inline-block; width: 30px;">
+  <img src="/images/pcl.png" alt="UAM" style="display: inline-block; width: 30px;">
+  <img src="/images/scikit.png" alt="UBx" style="display: inline-block; width: 30px;">
+  <img src="/images/pytorch.png" alt="BDU" style="display: inline-block; width: 30px;">
 </div>
+<div style="text-align: center;">
+  <div style="display: inline-block;">
+    <img src="/images/bdu3.jpg" alt="BDU" style="width: 120px;">
+    <br>
+    BDU
+  </div>
+  <div style="display: inline-block;">
+    <img src="/images/ppke.png" alt="PPCU" style="width: 60px;">
+    <br>
+    PPCU
+  </div>
+  <div style="display: inline-block;">
+    <img src="/images/uam.png" alt="UAM" style="width: 60px;">
+    <br>
+    UAM
+  </div>
+  <div style="display: inline-block;">
+    <img src="/images/ub.png" alt="UBx" style="width: 60px;">
+    <br>
+    UBx
+  </div>
+  <div style="display: inline-block;">
+    <img src="/images/c++.png" alt="C++" style="width: 30px;">
+    <br>
+    C++
+  </div>
+  <div style="display: inline-block;">
+    <img src="/images/python.png" alt="Python" style="width: 30px;">
+    <br>
+    Python
+  </div>
+  <div style="display: inline-block;">
+    <img src="/images/matlab.png" alt="MATLAB" style="width: 30px;">
+    <br>
+    MATLAB
+  </div>
+  <div style="display: inline-block;">
+    <img src="/images/keras.jpeg" alt="Keras" style="width: 30px;">
+    <br>
+    Keras
+  </div>
+  <div style="display: inline-block;">
+    <img src="/images/open.png" alt="OpenCV" style="width: 30px;">
+    <br>
+    OpenCV
+  </div>
+  <div style="display: inline-block;">
+    <img src="/images/tensor.png" alt="TensorFlow" style="width: 30px;">
+    <br>
+    TensorFlow
+  </div>
+  <div style="display: inline-block;">
+    <img src="/images/pcl.png" alt="PCL" style="width: 30px;">
+    <br>
+    PCL
+  </div>
+  <div style="display: inline-block;">
+    <img src="/images/scikit.png" alt="scikit-learn" style="width: 30px;">
+    <br>
+    scikit-learn
+  </div>
+  <div style="display: inline-block;">
+    <img src="/images/pytorch.png" alt="PyTorch" style="width: 30px;">
+    <br>
+    PyTorch
+  </div>
+</div>
+
