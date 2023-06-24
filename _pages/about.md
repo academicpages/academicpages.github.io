@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "周志阳-个人主页(ZZY-Personal Page）"
+title: "周志阳-个人主页(ZZY-Personal HomePage）"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -24,5 +24,9 @@ Educational Background
 
 **主修课程:** 概率与数理统计（97）、大学物理A（97）、数据结构与算法分析（97）、高级语言程序设计（96）、计算机系统基础（96）、计算机网络原理与技术（98）、操作系统（98）、编译原理（95）  
 **绩点：** `3.86/4.0`  (排名:2/53）  
+
+校园/项目经历
+======
+
 
 
