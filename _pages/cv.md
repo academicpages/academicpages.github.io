@@ -80,7 +80,6 @@ Work experience
   * 4 months of experience
   * Bahir Dar, Ethiopia
 
-  
 Skills, Tools and Libraries 
 ======
 * Programming Language
