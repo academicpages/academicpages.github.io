@@ -39,13 +39,13 @@ Educational Background
 
 Campus/Project Experience
 ------
-- **2020.09-2021.09 信息工程学院 网络部干事**  
-  \- 负责协助策划学生会活动，并对活动进行宣传  
-  \- 参与郑州大学学生处官网的维护  
-- **2022.09-2022.12 简易的比特币交易系统 项目负责人**  
-  \- 具有6个节点、若干条交易，可自由交易、挖矿等  
-  \- 使用ECC算法生成公私钥、具有工作量证明（Pow）共识机制、Merkel树生成、交易验证等  
-- **2023.02-2023.06 卓越快递APP 项目负责人**  
-  \- 同时具有Android端、Web端、Server端  
-  \- 具有快件下单、快件扫码揽收、包裹拆包/打包、快件派送、快件轨迹查询、快件实时状态查询等功能  
-  \- 软著在申
+- **2020.09-2021.09 | School of Information Engineering | Network Department Officer**  
+  \- Responsible for assisting in planning and publicizing activities of the student Union  
+  \- Participate in the maintenance of the official website of Zhengzhou University Student Affairs Office   
+- **2022.09-2022.12 | Simple Bitcoin Trading System | Project Leader**  
+  \- With 6 nodes, a number of transactions, free trading, mining, etc  
+  \- ECC algorithm was used to generate public and private keys, with Proof of Work (Pow) consensus mechanism, Merkel tree generation, transaction verification,etc 
+- **2023.02-2023.06 | ZhuoYueExpress | Project Leader**  
+  \- It has Android, Web and Server.
+  \- It has the functions of express order, express scanning code collection, package unpacking/packing, express delivery, express track query, express real-time status query and so on  
+  \- Software copyright is being applied for
