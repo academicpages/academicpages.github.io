@@ -72,33 +72,34 @@ Work experience
 * Paramount Student: Ambassador
   * 6 months of experience 
   * Remotely 
-
+* [Ethio Telecommunication](https://www.ethiotelecom.et/): Operations and Maintenance Engineer Intern
+   * 4 months of experience 
+   * Bahir Dar, Ethiopia
+   * 
 * [Amhara Media Corporation](https://www.amharaweb.com/english/): Radio and TV Broadcast Engineer Intern 
-  * 4 months 
+  * 4 months of experience
   * Bahir Dar, Ethiopia
 
-* [Ethio Telecommunication](https://www.ethiotelecom.et/): Operations and Maintenance Engineer Intern
-   * 4 months
-   * Bahir Dar, Ethiopia
-
   
-Skills
+Skills, Tools and Libraries 
 ======
 * Programming Language
-   * C++, Python, MATLAB, SQL, R, VHDL, MERN Stack, Typescript
- * Computer Hardware and Network troubleshooting Skill
+   * C++, Python, MATLAB, SQL, R, VHDL, MERN Stack, Typescript, LaTex
+* Enterprise Resource Planning Software
+  * SAP ERP (3.5 years of experience in a full role)
+* Computer Hardware and Network troubleshooting Skill
    * Cisco Certified Network Associate, CCNA I, Huawei networking device
 * Microsoft Oﬀice Product
    * MS Word, MS Excel, MS PowerPoint, MS Publisher, MS Teams, Office365
 * Simulator Sofwares Skill
    * Packet tracer, VLSI Design, OptiSystem Software, Proetus, Eagle
 * Graphics Design Skill
-   * Adobe Photoshop, After Eﬀects, Video Editing Softwares
+   * Adobe Photoshop, After Eﬀects, Video Editing Software
 * Operating System
    * Microsoft Window, Ubuntu, Linux, CentOS, Kali Linux  
-* Leadership and Management Skill
-   * Young Africa Leaders Initiative- YALI Member 
-
+* Leadership and Management Skills
+   * Young Africa Leaders Initiative- YALI Member
+* Some of the Programming language, tools and libraries 
 <div style="text-align: center;">
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/c++.png" alt="C++" style="width: 30px;">
@@ -150,7 +151,7 @@ Skills
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/scikit.png" alt="scikit-learn" style="width: 45px;">
+    <img src="/images/scikit.png" alt="sci-kit-learn" style="width: 45px;">
     <br>
     <div style="background-color: #c0392b; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">scikit-learn</span>
@@ -171,7 +172,7 @@ Skills
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/latex.png" alt="SAP ERP" style="width: 40px;">
+    <img src="/images/latex.png" alt="SAP ERP" style="width: 50px;">
     <br>
     <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">Latex</span>
@@ -228,35 +229,16 @@ Certificates
   * Managing American Space
   * American Space Digital Engagement
   * Creating a Makerspace in American Space 
-<div style="text-align: center;">
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/ase (6).png" alt="Intro 2 AS" style="width: 50px;">
-   
-  </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/ase (7).png" alt="Strategic Planning" style="width: 50px;">
-   
-  </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/ase (4).png" alt="Resources 4 AS" style="width: 50px;">
-  
-  </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/ase (3).png" alt="Programming in AS" style="width: 50px;">
- 
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/ase (2).png" alt="Managing AS" style="width: 50px;">
-  
-  </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/ase (5).png" alt="AS Digital Engagement" style="width: 50px;">
 
-  </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/ase (1).png" alt="Makerspace in AS" style="width: 50px;">
+   <div style="text-align: center;">
+        <img src="/images/ase (6).png" alt="UBx" style="display: inline-block; width: 60px;">
+        <img src="/images/ase (7).png" alt="UAM" style="display: inline-block; width: 60px;">
+        <img src="/images/ase (4).png" alt="PPCU" style="display: inline-block; width: 60px;">
+        <img src="/images/ase (3).png" alt="BDU" style="display: inline-block; width: 60px;">
+        <img src="/images/ase (2).png" alt="UAM" style="display: inline-block; width: 60px;">
+        <img src="/images/ase (5).png" alt="PPCU" style="display: inline-block; width: 60px;">
+        <img src="/images/ase (1).png" alt="BDU" style="display: inline-block; width: 60px;">
    </div>
-</div>
-
 
 * Young Africa Leadership Initiative
   * YALI Entrepreneurship and Business Course Certificates
@@ -315,14 +297,14 @@ Studied in, and worked in
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/eeu.png" alt="C++" style="width: 60px;">
+    <img src="/images/eeu.png" alt="C++" style="width: 50px;">
     <br>
     <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
       <span style="color: #16537e;">EEU</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/usa.jpg" alt="Python" style="width: 60px;">
+    <img src="/images/usa.jpg" alt="Python" style="width: 55px;">
     <br>
     <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
       <span style="color: #16537e;">US Emb</span>
@@ -343,7 +325,7 @@ Studied in, and worked in
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/amc.png" alt="AMC" style="width: 60px;">
+    <img src="/images/amc.png" alt="AMC" style="width: 55px;">
     <br>
     <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
       <span style="color: #16537e;">AMC</span>
