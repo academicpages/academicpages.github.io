@@ -32,6 +32,11 @@ I have earned several certifications, including the CCNA I and II certifications
 <h2>Voluntary Work</h2>
 I have also been involved in various organizational and voluntary work, including volunteering at the Ethiopian Red Cross Society and organizing a fundraiser for a local charity in Bahir Dar, Ethiopia. <a href="https://getnetdemil.github.io/cv/">Details</a> <br><br>
 
+<h2>Reasearch Interest</h2>
+In terms of my academic pursuits, my research interests primarily revolve around the fascinating domains of Image Processing, Computer Vision, and Machine Learning.
+
+I am filled with immense enthusiasm when it comes to the realm of Artificial Intelligence and its profound potential to improve our world and enhance our living conditions. It is my earnest desire to actively contribute to this captivating and remarkable scientific field. My ultimate goal is to actively engage in addressing the existing challenges and unanswered questions within the domains of Computer Vision and Machine Learning. <a href="https://getnetdemil.github.io/cv/">Details</a> <br><br>
+
 Thank you for visiting my page, and feel free to contact me for any further information or inquiries.<br><br>
   Phone: +34647108351<br>
   Email: getnetd24@gmail.com<br>
