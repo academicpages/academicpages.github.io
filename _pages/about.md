@@ -42,9 +42,9 @@ Thank you for visiting my page, and feel free to contact me for any further info
   Phone: +34647108351<br>
   Email: <a href="getnetd24@gmail.com">getnetd24@gmail.com</a>
 <div>
-    <a href="https://getnetdemil.github.io/cv/">Curriculum Vitae-CV Page </a>
+    <a href="https://getnetdemil.github.io/cv/">Curriculum Vitae-CV </a>
 </div>
-
+</div>
 
 <div style="text-align: center;">
   <div style="display: inline-block; margin-right: 10px;">
