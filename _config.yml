@@ -8,8 +8,8 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "ZhiYangZhou/HomePage"
-title_separator          : "-"
-name                     : &name "周志阳（ZhiYangZhou）"
+title_separator          : 
+name                     : 
 description              : &description "personal description"
 url                      : https://coder-zzy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
