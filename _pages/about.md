@@ -7,13 +7,28 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third year undergraduate student from [School of CSAI、SE](http://www7.zzu.edu.cn/csai/), [ZhengZhou University](http://www.zzu.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a third year undergraduate student from [School of CSAI、SE](http://www7.zzu.edu.cn/csai/), [ZhengZhou University](http://www.zzu.edu.cn/). My research interest includes `natural language processing，computer vision, computer graphics and machine learning`.    
 
-A data-driven personal website
+我是来自[郑州大学](http://www.zzu.edu.cn/) [计算机与人工智能学院](http://www7.zzu.edu.cn/csai/)的大三学生。有志于进行`机器学习、自然语言处理、计算机视觉、计算机图形学`等方向的研究。
+___
+
+Educational Background
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+|&emsp;&emsp;&emsp;&emsp;本科学校&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;专业&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;层次&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;时间&emsp;&emsp;&emsp;&emsp;|
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| 郑州大学| 软件工程（卓越工程师） |211、双一流B|2020.9-2024.7| 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**Major Courses:** 概率与数理统计（97）、大学物理A（97）、数据结构与算法分析（97）、计算机系统基础（96）、计算机网络原理与技术（98）、操作系统（98）、编译原理（95）  
+**GPA：**`3.86/4.0`(rank:2/53）  
+
+教育背景
+======
+|&emsp;&emsp;&emsp;&emsp;本科学校&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;专业&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;层次&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;时间&emsp;&emsp;&emsp;&emsp;|
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| 郑州大学| 软件工程（卓越工程师） |211、双一流B|2020.9-2024.7| 
+
+**主修课程:** 概率与数理统计（97）、大学物理A（97）、数据结构与算法分析（97）、计算机系统基础（96）、计算机网络原理与技术（98）、操作系统（98）、编译原理（95）  
+**GPA：**`3.86/4.0`(rank:2/53）  
 
 Getting started
 ======
