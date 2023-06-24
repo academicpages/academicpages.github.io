@@ -11,6 +11,9 @@ redirect_from:
 
 Education
 ======
+* [University of Bordeaux, France](https://www.u-bordeaux.fr/en)
+  * Master's degree, Image Processing and Computer Vision 
+  * 2022 - 2024
 * [Universidad Autonoma de Madrid, Spain](https://www.uam.es/uam/inicio)
   * Master's degree, Image Processing and Computer Vision 
   * 2022 - 2024
@@ -20,7 +23,7 @@ Education
   * 2022 - 2024
 
 * [Corporate Finance Institute® (CFI)](https://corporatefinanceinstitute.com/)
-  * International Certification Program, ALX Financial Analyst programme 
+  * International Certification Program, ALX Financial Analyst program 
   * 2022 - 2023
 
 * [Bahir Dar Institute of Technology](https://bit.bdu.edu.et/), [Bahir Dar University, Ethiopia](https://www.bdu.edu.et/)
@@ -32,10 +35,10 @@ Education
   * 2013 - 2018
 
  <div style="text-align: center;">
-      <img src="/images/bdu3.jpg" alt="BDU" style="display: inline-block; width: 200px;">
-      <img src="/images/ppke.png" alt="PPCU" style="display: inline-block; width: 100px;">
-      <img src="/images/uam.png" alt="UAM" style="display: inline-block; width: 100px;">
       <img src="/images/ub.png" alt="UBx" style="display: inline-block; width: 100px;">
+      <img src="/images/uam.png" alt="UAM" style="display: inline-block; width: 100px;">
+      <img src="/images/ppke.png" alt="PPCU" style="display: inline-block; width: 100px;">
+      <img src="/images/bdu3.jpg" alt="BDU" style="display: inline-block; width: 200px;">
  </div>
 
 Awards
@@ -97,15 +100,69 @@ Skills
    * Young Africa Leaders Initiative- YALI Member 
 
 <div style="text-align: center;">
-  <img src="/images/c++.png" alt="C++" style="display: inline-block; width: 50px;">
-  <img src="/images/python.png" alt="Python" style="display: inline-block; width: 50px;">
-  <img src="/images/matlab.png" alt="Mathlab" style="display: inline-block; width: 50px;">
-  <img src="/images/keras.jpeg" alt="Keras" style="display: inline-block; width: 50px;">
-  <img src="/images/open.png" alt="OpenCV" style="display: inline-block; width: 50px;">
-  <img src="/images/tensor.png" alt="TensorFlow" style="display: inline-block; width: 50px;">
-  <img src="/images/pcl.png" alt="PCL" style="display: inline-block; width: 50px;">
-  <img src="/images/scikit.png" alt="Scikit" style="display: inline-block; width: 50px;">
-  <img src="/images/pytorch.png" alt="Pytorch" style="display: inline-block; width: 50px;">
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/c++.png" alt="C++" style="width: 30px;">
+    <br>
+    <div style="background-color: #27ae60; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">C++</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/python.png" alt="Python" style="width: 30px;">
+    <br>
+    <div style="background-color: #e74c3c; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">Python</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/matlab.png" alt="MATLAB" style="width: 30px;">
+    <br>
+    <div style="background-color: #1abc9c; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">MATLAB</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/keras.jpeg" alt="Keras" style="width: 30px;">
+    <br>
+    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">Keras</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/open.png" alt="OpenCV" style="width: 30px;">
+    <br>
+    <div style="background-color: #8e44ad; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">OpenCV</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/tensor.png" alt="TensorFlow" style="width: 30px;">
+    <br>
+    <div style="background-color: #34495e; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">TensorFlow</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/pcl.png" alt="PCL" style="width: 30px;">
+    <br>
+    <div style="background-color: #2ecc71; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">PCL</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/scikit.png" alt="scikit-learn" style="width: 30px;">
+    <br>
+    <div style="background-color: #c0392b; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">scikit-learn</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/pytorch.png" alt="PyTorch" style="width: 30px;">
+    <br>
+    <div style="background-color: #3498db; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">PyTorch</span>
+    </div>
+  </div>
 </div>
 
 
@@ -136,9 +193,9 @@ Projects
   * 2014 – 2015, [Bahir Dar University](https://www.bdu.edu.et/)
 
 <div style="text-align: center;">
-  <img src="/images/ppke.png" alt="PPCU" style="display: inline-block; width: 100px;">
-  <img src="/images/uam.png" alt="UAM" style="display: inline-block; width: 100px;">
   <img src="/images/ub.png" alt="UBx" style="display: inline-block; width: 100px;">
+  <img src="/images/uam.png" alt="UAM" style="display: inline-block; width: 100px;">
+  <img src="/images/ppke.png" alt="PPCU" style="display: inline-block; width: 100px;">
   <img src="/images/bdu3.jpg" alt="BDU" style="display: inline-block; width: 200px;">
 </div>
 
@@ -150,31 +207,67 @@ Certificates
   * CCNA II
 
 * American Space Badges
-  *  Introduction to American Spaces
-  *  Resources for American Spaces
-  *  Introduction to Strategic Planning
-  *  Programming in American Spaces
-  *  Managing American Spaces
-  *  American Spaces Digital Engagement
-  *  Makerspace in American Space 
+
+<div style="text-align: center;">
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/ase (6).png" alt="Intro 2 AS" style="width: 50px;">
+    <br>
+    <div style="background-color: #27ae60; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">Intro 2 AS</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/ase (7).png" alt="Strategic Planning" style="width: 50px;">
+    <br>
+    <div style="background-color: #e74c3c; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">Strategic Planning</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/ase (4).png" alt="Resources 4 AS" style="width: 50px;">
+    <br>
+    <div style="background-color: #1abc9c; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">Resources 4 AS</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/ase (3).png" alt="Programming in AS" style="width: 50px;">
+    <br>
+    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">Programming in AS</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/ase (2).png" alt="Managing AS" style="width: 50px;">
+    <br>
+    <div style="background-color: #8e44ad; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">Managing AS</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/ase (5).png" alt="AS Digital Engagement" style="width: 50px;">
+    <br>
+    <div style="background-color: #34495e; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">AS Digital Engagement</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/ase (1).png" alt="Makerspace in AS" style="width: 50px;">
+    <br>
+    <div style="background-color: #2ecc71; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">Makerspace in AS </span>
+    </div>
+  </div>
+</div>
+
+
+
+
 
 * Young Africa Leadership Initiative
   * YALI Entrepreneurship and Business Course Certificates
 
-<div style="text-align: center;">
- 
-  <img src="/images/ase (1).png" alt="BDU" style="display: inline-block; width: 80px;">
-  <img src="/images/ase (2).png" alt="PPCU" style="display: inline-block; width: 80px;">
-  <img src="/images/ase (3).png" alt="UAM" style="display: inline-block; width: 80px;">
-  <img src="/images/ase (4).png" alt="UBx" style="display: inline-block; width: 80px;">
-  <img src="/images/ase (5).png" alt="BDU" style="display: inline-block; width: 80px;">
-  <img src="/images/ase (6).png" alt="PPCU" style="display: inline-block; width: 80px;">
-  <img src="/images/ase (7).png" alt="UAM" style="display: inline-block; width: 80px;">
- 
-</div>
-
-
-Organizational and Voluntery Work
+Organizational and Voluntary Work
 ======
 * [Ethiopian Electric Utility](http://www.ethiopianelectricutility.gov.et/): Junior Electrical Engineer 
   * Bahir  Dar, Ethiopia
