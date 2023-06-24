@@ -52,10 +52,24 @@ Campus/Project Experience
 
 技能证书
 ------
-英语四级：548    英语六级：493
+英语四级：548&emsp;&emsp;&emsp;&emsp;&emsp;英语六级：493
 
 Skill Certificate
 ------
-CET4:548    CET6:493
+CET4:548&emsp;&emsp;&emsp;&emsp;&emsp;CET6:493
+
+个人荣誉
+------
+- 2022年国家励志奖学金
+- 2022年郑州大学三好学生（综测排名班级第1名）
+- 2021年郑州大学优秀学生一等奖学金（这个money更多，就没选国励了(●'◡'●)）
+- 2021年郑州大学三好学生（综测排名班级第1名）
+
+Personal Honor
+------
+- 2022 National Inspirational Scholarship
+- Merit Student of Zhengzhou University 2022
+- First-class Scholarship for Excellent Student of Zhengzhou University in 2021
+- Merit Student of Zhengzhou University 2021
 
 
