@@ -54,73 +54,96 @@ Thank you for visiting my page, and feel free to contact me for any further info
   <img src="/images/pytorch.png" alt="BDU" style="display: inline-block; width: 30px;">
 </div>
 
-
 <div style="text-align: center;">
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/bdu3.jpg" alt="BDU" style="width: 120px;">
     <br>
-    BDU
+    <div style="background-color: #f1c40f; padding: 5px;">
+      BDU
+    </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/ppke.png" alt="PPCU" style="width: 60px;">
     <br>
-    PPCU
+    <div style="background-color: #3498db; padding: 5px;">
+      PPCU
+    </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/uam.png" alt="UAM" style="width: 60px;">
     <br>
-    UAM
+    <div style="background-color: #e67e22; padding: 5px;">
+      UAM
+    </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/ub.png" alt="UBx" style="width: 60px;">
     <br>
-    UBx
+    <div style="background-color: #9b59b6; padding: 5px;">
+      UBx
+    </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/c++.png" alt="C++" style="width: 30px;">
     <br>
-    C++
+    <div style="background-color: #27ae60; padding: 5px;">
+      C++
+    </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/python.png" alt="Python" style="width: 30px;">
     <br>
-    Python
+    <div style="background-color: #e74c3c; padding: 5px;">
+      Python
+    </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/matlab.png" alt="MATLAB" style="width: 30px;">
     <br>
-    MATLAB
+    <div style="background-color: #1abc9c; padding: 5px;">
+      MATLAB
+    </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/keras.jpeg" alt="Keras" style="width: 30px;">
     <br>
-    Keras
+    <div style="background-color: #f39c12; padding: 5px;">
+      Keras
+    </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/open.png" alt="OpenCV" style="width: 30px;">
     <br>
-    OpenCV
+    <div style="background-color: #8e44ad; padding: 5px;">
+      OpenCV
+    </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/tensor.png" alt="TensorFlow" style="width: 30px;">
     <br>
-    TensorFlow
+    <div style="background-color: #34495e; padding: 5px;">
+      TensorFlow
+    </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/pcl.png" alt="PCL" style="width: 30px;">
     <br>
-    PCL
+    <div style="background-color: #2ecc71; padding: 5px;">
+      PCL
+    </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/scikit.png" alt="scikit-learn" style="width: 30px;">
     <br>
-    scikit-learn
+    <div style="background-color: #c0392b; padding: 5px;">
+      scikit-learn
+    </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/pytorch.png" alt="PyTorch" style="width: 30px;">
     <br>
-    PyTorch
+    <div style="background-color: #3498db; padding: 5px;">
+      PyTorch
+    </div>
   </div>
 </div>
-
-
