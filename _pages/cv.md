@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* [University of Bordeaux, France](https://www.u-bordeaux.fr/en)
+* [University of Bordeaux-UBx, France](https://www.u-bordeaux.fr/en)
   * Master's degree, Image Processing and Computer Vision 
   * 2022 - 2024
-* [Universidad Autonoma de Madrid, Spain](https://www.uam.es/uam/inicio)
+* [Autonomous University of Madrid-UaM, Spain](https://www.uam.es/uam/inicio)
   * Master's degree, Image Processing and Computer Vision 
   * 2022 - 2024
 
-* [Pázmány Péter Catholic University, Hungary](https://ppke.hu/en)
+* [Pázmány Péter Catholic University-PPCU, Hungary](https://ppke.hu/en)
   * Master's degree, Computer Science and Engineering Specialization in Image Processing and Computer Vision 
   * 2022 - 2024
 
@@ -26,11 +26,11 @@ Education
   * International Certification Program, ALX Financial Analyst program 
   * 2022 - 2023
 
-* [Bahir Dar Institute of Technology](https://bit.bdu.edu.et/), [Bahir Dar University, Ethiopia](https://www.bdu.edu.et/)
+* [Bahir Dar Institute of Technology](https://bit.bdu.edu.et/), [Bahir Dar University-BDU, Ethiopia](https://www.bdu.edu.et/)
   * Master of Science - MS, Communication System Engineering · 
   * 2020 - 2022
 
-* [Bahir Dar Institute of Technology](https://bit.bdu.edu.et/), [Bahir Dar University, Ethiopia](https://www.bdu.edu.et/)
+* [Bahir Dar Institute of Technology](https://bit.bdu.edu.et/), [Bahir Dar University-BDU, Ethiopia](https://www.bdu.edu.et/)
   * Bachelor of Science - BS, Electrical, Electronics and Communications Engineering 
   * 2013 - 2018
 
@@ -163,6 +163,20 @@ Skills
       <span style="color: white;">PyTorch</span>
     </div>
   </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/sap.png" alt="SAP ERP" style="width: 30px;">
+    <br>
+    <div style="background-color: #34495e; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">SAP ERP</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/latex.png" alt="SAP ERP" style="width: 30px;">
+    <br>
+    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">Latex</span>
+    </div>
+  </div>
 </div>
 
 
@@ -207,7 +221,6 @@ Certificates
   * CCNA II
 
 * American Space Badges
-
 <div style="text-align: center;">
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/ase (6).png" alt="Intro 2 AS" style="width: 50px;">
@@ -261,9 +274,6 @@ Certificates
 </div>
 
 
-
-
-
 * Young Africa Leadership Initiative
   * YALI Entrepreneurship and Business Course Certificates
 
@@ -286,9 +296,74 @@ Organizational and Voluntary Work
 
 * Amahara Mass Media Agency Internship Train Engineer
   * 02/2017 – 04/2017,  Bahir  Dar, Ethiopia
+  
+
+The country I studied, and Company I Worked
+======
 
 <div style="text-align: center;">
-  <img src="/images/bit.jpg" alt="BDU" style="display: inline-block; width: 500px; height: 50px;">
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/france.png" alt="UBx" style="width: 60px;">
+    <br>
+    <div style="background-color: #9b59b6; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">France</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/spain.png" alt="UAM" style="width: 60px;">
+    <br>
+    <div style="background-color: #e67e22; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">Spain</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/hungary.png" alt="PPCU" style="width: 60px;">
+    <br>
+    <div style="background-color: #3498db; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">Hungary</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/ethiopia.png" alt="BDU" style="width: 120px;">
+    <br>
+    <div style="background-color: #f1c40f; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">Ethiopia</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/eeu.png" alt="C++" style="width: 30px;">
+    <br>
+    <div style="background-color: #27ae60; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">EEU</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/usa.jpg" alt="Python" style="width: 30px;">
+    <br>
+    <div style="background-color: #e74c3c; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">USA Embassy</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/ase.jpg" alt="MATLAB" style="width: 30px;">
+    <br>
+    <div style="background-color: #1abc9c; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">American Space Ethiopia</span>
+    </div>
+  </div>
+    <img src="/images/etc.jpg" alt="UBx" style="width: 60px;">
+    <br>
+    <div style="background-color: #9b59b6; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">Ethio Telecom</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/amc.png" alt="UAM" style="width: 60px;">
+    <br>
+    <div style="background-color: #e67e22; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">A.Media Corp</span>
+    </div>
+  </div>
 </div>
  
 
