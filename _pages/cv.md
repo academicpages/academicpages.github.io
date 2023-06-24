@@ -150,21 +150,21 @@ Skills
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/scikit.png" alt="scikit-learn" style="width: 30px;">
+    <img src="/images/scikit.png" alt="scikit-learn" style="width: 45px;">
     <br>
     <div style="background-color: #c0392b; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">scikit-learn</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/pytorch.png" alt="PyTorch" style="width: 30px;">
+    <img src="/images/pytorch.png" alt="PyTorch" style="width: 45px;">
     <br>
     <div style="background-color: #3498db; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">PyTorch</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/sap.png" alt="SAP ERP" style="width: 30px;">
+    <img src="/images/sap.png" alt="SAP ERP" style="width: 45px;">
     <br>
     <div style="background-color: #34495e; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">SAP ERP</span>
