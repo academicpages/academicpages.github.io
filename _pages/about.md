@@ -37,10 +37,12 @@ In terms of my academic pursuits, my research interests primarily revolve around
 
 I am filled with immense enthusiasm when it comes to the realm of Artificial Intelligence and its profound potential to improve our world and enhance our living conditions. It is my earnest desire to actively contribute to this captivating and remarkable scientific field. My ultimate goal is to actively engage in addressing the existing challenges and unanswered questions within the domains of Computer Vision and Machine Learning. <a href="https://getnetdemil.github.io/cv/">Details</a> <br><br>
 
-Thank you for visiting my page, and feel free to contact me for any further information or inquiries.<br><br>
+Thank you for visiting my page, and feel free to contact me for any further information or inquiries.
+<br><br>
   Phone: +34647108351<br>
-  Email: getnetd24@gmail.com<br>
-  <a href="https://getnetdemil.github.io/cv/">Curriculum Vitae </a>
+  Email: <a href="getnetd24@gmail.com">getnetd24@gmail.com</a>
+<div>
+    <a href="https://getnetdemil.github.io/cv/">Curriculum Vitae-CV Page </a>
 </div>
 
 
