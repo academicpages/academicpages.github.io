@@ -14,18 +14,14 @@ ___
 
 Educational Background
 ======
-|&emsp;&emsp;&emsp;&emsp;本科学校&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;专业&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;层次&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;时间&emsp;&emsp;&emsp;&emsp;|
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| 郑州大学| 软件工程（卓越工程师） |211、双一流B|2020.9-2024.7| 
+| ZhengZhou University| Software Engineering（Excellence Engineer） |211、Double first-class B university|2020.9-2024.7| 
 
 **Major Courses:** 概率与数理统计（97）、大学物理A（97）、数据结构与算法分析（97）、计算机系统基础（96）、计算机网络原理与技术（98）、操作系统（98）、编译原理（95）  
 **GPA：**`3.86/4.0`(rank:2/53）  
 
 教育背景
 ======
-|&emsp;&emsp;&emsp;&emsp;本科学校&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;专业&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;层次&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;时间&emsp;&emsp;&emsp;&emsp;|
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| 郑州大学| 软件工程（卓越工程师） |211、双一流B|2020.9-2024.7| 
+|郑州大学| 软件工程（卓越工程师） |211、双一流B|2020.9-2024.7| 
 
 **主修课程:** 概率与数理统计（97）、大学物理A（97）、数据结构与算法分析（97）、计算机系统基础（96）、计算机网络原理与技术（98）、操作系统（98）、编译原理（95）  
 **GPA：**`3.86/4.0`(rank:2/53）  
