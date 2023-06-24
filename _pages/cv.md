@@ -255,10 +255,6 @@ Certificates
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/ase (1).png" alt="Makerspace in AS" style="width: 50px;">
    </div>
-  <div style="background-color: #2ecc71; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">Makerspace in AS </span>
-  </div>
- 
 </div>
 
 
@@ -293,64 +289,64 @@ Studied in, and worked in
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/france.png" alt="UBx" style="width: 60px;">
     <br>
-    <div style="background-color: #16537e; padding: 5px; border-radius: 5px;">
-      <span style="color: blue;">France</span>
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+      <span style="color: #16537e;">France</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/spain.png" alt="UAM" style="width: 60px;">
     <br>
-    <div style="background-color: #16537e; padding: 5px; border-radius: 5px;">
-      <span style="color: blue;">Spain</span>
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+      <span style="color: #16537e;">Spain</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/hungary.png" alt="PPCU" style="width: 70px;">
     <br>
-    <div style="background-color: #16537e; padding: 5px; border-radius: 5px;">
-      <span style="color: blue;">Hungary</span>
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+      <span style="color: #16537e;">Hungary</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/ethiopia.png" alt="BDU" style="width: 60px;">
     <br>
-    <div style="background-color: #16537e; padding: 5px; border-radius: 5px;">
-      <span style="color: blue;">Ethiopia</span>
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+      <span style="color: #16537e;">Ethiopia</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/eeu.png" alt="C++" style="width: 60px;">
     <br>
-    <div style="background-color: #16537e; padding: 5px; border-radius: 5px;">
-      <span style="color: blue;">EEU</span>
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+      <span style="color: #16537e;">EEU</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/usa.jpg" alt="Python" style="width: 60px;">
     <br>
-    <div style="background-color: #16537e; padding: 5px; border-radius: 5px;">
-      <span style="color: blue;">US Emb</span>
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+      <span style="color: #16537e;">US Emb</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/ase.jpg" alt="MATLAB" style="width: 60px;">
     <br>
-    <div style="background-color: #16537e; padding: 5px; border-radius: 5px;">
-      <span style="color: blue;">ASE</span>
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+      <span style="color: #16537e;">ASE</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/etc.jpg" alt="Tele" style="width: 60px;">
     <br>
-    <div style="background-color: #16537e; padding: 5px; border-radius: 5px;">
-      <span style="color: blue;">Tele</span>
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+      <span style="color: #16537e;">Tele</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/amc.png" alt="AMC" style="width: 60px;">
     <br>
-    <div style="background-color: #16537e; padding: 5px; border-radius: 5px;">
-      <span style="color: blue;">AMC</span>
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+      <span style="color: #16537e;">AMC</span>
     </div>
   </div>
 </div>
