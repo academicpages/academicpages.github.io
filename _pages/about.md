@@ -39,34 +39,11 @@ Thank you for visiting my page, and feel free to contact me for any further info
 </div>
 
 <div style="text-align: center;">
-  <img src="/images/bdu3.jpg" alt="BDU" style="display: inline-block; width: 120px;">
-  <img src="/images/ppke.png" alt="PPCU" style="display: inline-block; width: 60px;">
-  <img src="/images/uam.png" alt="UAM" style="display: inline-block; width: 60px;">
-  <img src="/images/ub.png" alt="UBx" style="display: inline-block; width: 60px;">
-  <img src="/images/c++.png" alt="BDU" style="display: inline-block; width: 30px;">
-  <img src="/images/python.png" alt="PPCU" style="display: inline-block; width: 30px;">
-  <img src="/images/matlab.png" alt="UAM" style="display: inline-block; width: 30px;">
-  <img src="/images/keras.jpeg" alt="UBx" style="display: inline-block; width: 30px;">
-  <img src="/images/open.png" alt="BDU" style="display: inline-block; width: 30px;">
-  <img src="/images/tensor.png" alt="PPCU" style="display: inline-block; width: 30px;">
-  <img src="/images/pcl.png" alt="UAM" style="display: inline-block; width: 30px;">
-  <img src="/images/scikit.png" alt="UBx" style="display: inline-block; width: 30px;">
-  <img src="/images/pytorch.png" alt="BDU" style="display: inline-block; width: 30px;">
-</div>
-
-<div style="text-align: center;">
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/bdu3.jpg" alt="BDU" style="width: 120px;">
+    <img src="/images/ub.png" alt="UBx" style="width: 60px;">
     <br>
-    <div style="background-color: #f1c40f; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">BDU</span>
-    </div>
-  </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/ppke.png" alt="PPCU" style="width: 60px;">
-    <br>
-    <div style="background-color: #3498db; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">PPCU</span>
+    <div style="background-color: #9b59b6; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">UBx</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
@@ -77,10 +54,17 @@ Thank you for visiting my page, and feel free to contact me for any further info
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/ub.png" alt="UBx" style="width: 60px;">
+    <img src="/images/ppke.png" alt="PPCU" style="width: 60px;">
     <br>
-    <div style="background-color: #9b59b6; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">UBx</span>
+    <div style="background-color: #3498db; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">PPCU</span>
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/bdu3.jpg" alt="BDU" style="width: 120px;">
+    <br>
+    <div style="background-color: #f1c40f; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">BDU</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
