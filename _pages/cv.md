@@ -317,41 +317,42 @@ The country I studied, and Company I Worked
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/hungary.png" alt="PPCU" style="width: 60px;">
+    <img src="/images/hungary.png" alt="PPCU" style="width: 70px;">
     <br>
     <div style="background-color: #3498db; padding: 5px; border-radius: 5px;">
       <span style="color: white;">Hungary</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/ethiopia.png" alt="BDU" style="width: 120px;">
+    <img src="/images/ethiopia.png" alt="BDU" style="width: 60px;">
     <br>
     <div style="background-color: #f1c40f; padding: 5px; border-radius: 5px;">
       <span style="color: white;">Ethiopia</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/eeu.png" alt="C++" style="width: 30px;">
+    <img src="/images/eeu.png" alt="C++" style="width: 60px;">
     <br>
     <div style="background-color: #27ae60; padding: 5px; border-radius: 5px;">
       <span style="color: white;">EEU</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/usa.jpg" alt="Python" style="width: 30px;">
+    <img src="/images/usa.jpg" alt="Python" style="width: 60px;">
     <br>
     <div style="background-color: #e74c3c; padding: 5px; border-radius: 5px;">
       <span style="color: white;">USA Embassy</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/ase.jpg" alt="MATLAB" style="width: 30px;">
+    <img src="/images/ase.jpg" alt="MATLAB" style="width: 60px;">
     <br>
     <div style="background-color: #1abc9c; padding: 5px; border-radius: 5px;">
       <span style="color: white;">American Space Ethiopia</span>
     </div>
   </div>
-    <img src="/images/etc.jpg" alt="UBx" style="width: 60px;">
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/etc.jpg" alt="MATLAB" style="width: 60px;">
     <br>
     <div style="background-color: #9b59b6; padding: 5px; border-radius: 5px;">
       <span style="color: white;">Ethio Telecom</span>
