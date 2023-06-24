@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "周志阳（ZZY's HomePage）"
+title                    : "ZhiYangZhou/HomePage"
 title_separator          : "-"
 name                     : &name "周志阳（ZhiYangZhou）"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "周志阳（ZhiYangZhou）"
+  name             : "周志阳"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "China Zhengzhou"
