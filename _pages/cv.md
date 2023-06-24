@@ -171,9 +171,9 @@ Skills
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/latex.png" alt="SAP ERP" style="width: 30px;">
+    <img src="/images/latex.png" alt="SAP ERP" style="width: 40px;">
     <br>
-    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #f39c12; padding: 5px; margin-top: 5px border-radius: 5px;">
       <span style="color: white;">Latex</span>
     </div>
   </div>
@@ -305,21 +305,21 @@ The country I studied, and Company I Worked
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/france.png" alt="UBx" style="width: 60px;">
     <br>
-    <div style="background-color: #9b59b6; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
       <span style="color: white;">France</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/spain.png" alt="UAM" style="width: 60px;">
     <br>
-    <div style="background-color: #e67e22; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
       <span style="color: white;">Spain</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/hungary.png" alt="PPCU" style="width: 70px;">
     <br>
-    <div style="background-color: #3498db; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
       <span style="color: white;">Hungary</span>
     </div>
   </div>
@@ -333,36 +333,36 @@ The country I studied, and Company I Worked
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/eeu.png" alt="C++" style="width: 60px;">
     <br>
-    <div style="background-color: #27ae60; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
       <span style="color: white;">EEU</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/usa.jpg" alt="Python" style="width: 60px;">
     <br>
-    <div style="background-color: #e74c3c; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">USA Embassy</span>
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">US Emb</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/ase.jpg" alt="MATLAB" style="width: 60px;">
     <br>
-    <div style="background-color: #1abc9c; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">American Space Ethiopia</span>
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">ASE</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/etc.jpg" alt="MATLAB" style="width: 60px;">
+    <img src="/images/etc.jpg" alt="Tele" style="width: 60px;">
     <br>
-    <div style="background-color: #9b59b6; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">Ethio Telecom</span>
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">Tele</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/amc.png" alt="UAM" style="width: 60px;">
+    <img src="/images/amc.png" alt="AMC" style="width: 60px;">
     <br>
-    <div style="background-color: #e67e22; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">A.Media Corp</span>
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+      <span style="color: white;">AMC</span>
     </div>
   </div>
 </div>
