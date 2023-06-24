@@ -221,56 +221,44 @@ Certificates
   * CCNA II
 
 * American Space Badges
+  * Introduction to American Space
+  * Introduction to Strategic Planning
+  * Resources planning for American Space
+  * Programming in American Space
+  * Managing American Space
+  * American Space Digital Engagement
+  * Creating a Makerspace in American Space 
 <div style="text-align: center;">
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/ase (6).png" alt="Intro 2 AS" style="width: 50px;">
-    <br>
-    <div style="background-color: #27ae60; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">Intro 2 AS</span>
-    </div>
+   
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/ase (7).png" alt="Strategic Planning" style="width: 50px;">
-    <br>
-    <div style="background-color: #e74c3c; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">Strategic Planning</span>
-    </div>
+   
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/ase (4).png" alt="Resources 4 AS" style="width: 50px;">
-    <br>
-    <div style="background-color: #1abc9c; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">Resources 4 AS</span>
-    </div>
+  
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/ase (3).png" alt="Programming in AS" style="width: 50px;">
-    <br>
-    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">Programming in AS</span>
-    </div>
-  </div>
+ 
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/ase (2).png" alt="Managing AS" style="width: 50px;">
-    <br>
-    <div style="background-color: #8e44ad; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">Managing AS</span>
-    </div>
+  
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/ase (5).png" alt="AS Digital Engagement" style="width: 50px;">
-    <br>
-    <div style="background-color: #34495e; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">AS Digital Engagement</span>
-    </div>
+
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/ase (1).png" alt="Makerspace in AS" style="width: 50px;">
-    <br>
-    <div style="background-color: #2ecc71; padding: 5px; border-radius: 5px;">
+   </div>
+  <div style="background-color: #2ecc71; padding: 5px; border-radius: 5px;">
       <span style="color: white;">Makerspace in AS </span>
-    </div>
   </div>
+ 
 </div>
 
 
@@ -280,88 +268,88 @@ Certificates
 Organizational and Voluntary Work
 ======
 * [Ethiopian Electric Utility](http://www.ethiopianelectricutility.gov.et/): Junior Electrical Engineer 
-  * Bahir  Dar, Ethiopia
+  * Bahir Dar, Ethiopia
 
 * [American Spaces Ethiopia](https://et.usembassy.gov/education-culture/american-spaces/): Technology Support Grantee
-  * Bahir  Dar, Ethiopia
+  * Bahir Dar, Ethiopia
 
 * Bahir Dar University Electrical and Computer Engineering Students Association
-  * President, 2017 – 2018, Bahir  Dar, Ethiopia
+  * President, 2017 – 2018, Bahir Dar, Ethiopia
 
 * Bahir Dar University Electrical and Computer Engineering Students Association
-  * Project Supervisor, 2016 – 2017, Bahir  Dar, Ethiopia
+  * Project Supervisor, 2016 – 2017, Bahir Dar, Ethiopia
 
-* Ethiopian Tele Communication Internship Train Engineer
-  * 02/2017 – 07/2017,  Bahir  Dar, Ethiopia
+* Ethiopian Tele Communication Internship as a Train Engineer
+  * 02/2017 – 07/2017, Bahir Dar, Ethiopia
 
-* Amahara Mass Media Agency Internship Train Engineer
-  * 02/2017 – 04/2017,  Bahir  Dar, Ethiopia
+* Amahara Media Corporation Internship as Train Engineer
+  * 02/2017 – 04/2017, Bahir Dar, Ethiopia
   
 
-The country I studied, and Company I Worked
+Studied in, and worked in
 ======
 
 <div style="text-align: center;">
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/france.png" alt="UBx" style="width: 60px;">
     <br>
-    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #16537e; padding: 5px; border-radius: 5px;">
       <span style="color: blue;">France</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/spain.png" alt="UAM" style="width: 60px;">
     <br>
-    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #16537e; padding: 5px; border-radius: 5px;">
       <span style="color: blue;">Spain</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/hungary.png" alt="PPCU" style="width: 70px;">
     <br>
-    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #16537e; padding: 5px; border-radius: 5px;">
       <span style="color: blue;">Hungary</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/ethiopia.png" alt="BDU" style="width: 60px;">
     <br>
-    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #16537e; padding: 5px; border-radius: 5px;">
       <span style="color: blue;">Ethiopia</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/eeu.png" alt="C++" style="width: 60px;">
     <br>
-    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #16537e; padding: 5px; border-radius: 5px;">
       <span style="color: blue;">EEU</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/usa.jpg" alt="Python" style="width: 60px;">
     <br>
-    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #16537e; padding: 5px; border-radius: 5px;">
       <span style="color: blue;">US Emb</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/ase.jpg" alt="MATLAB" style="width: 70px;">
+    <img src="/images/ase.jpg" alt="MATLAB" style="width: 60px;">
     <br>
-    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #16537e; padding: 5px; border-radius: 5px;">
       <span style="color: blue;">ASE</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/etc.jpg" alt="Tele" style="width: 60px;">
     <br>
-    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #16537e; padding: 5px; border-radius: 5px;">
       <span style="color: blue;">Tele</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/amc.png" alt="AMC" style="width: 60px;">
     <br>
-    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+    <div style="background-color: #16537e; padding: 5px; border-radius: 5px;">
       <span style="color: blue;">AMC</span>
     </div>
   </div>
