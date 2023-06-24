@@ -306,63 +306,63 @@ The country I studied, and Company I Worked
     <img src="/images/france.png" alt="UBx" style="width: 60px;">
     <br>
     <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">France</span>
+      <span style="color: blue;">France</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/spain.png" alt="UAM" style="width: 60px;">
     <br>
     <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">Spain</span>
+      <span style="color: blue;">Spain</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/hungary.png" alt="PPCU" style="width: 70px;">
     <br>
     <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">Hungary</span>
+      <span style="color: blue;">Hungary</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/ethiopia.png" alt="BDU" style="width: 60px;">
     <br>
-    <div style="background-color: #f1c40f; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">Ethiopia</span>
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+      <span style="color: blue;">Ethiopia</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/eeu.png" alt="C++" style="width: 60px;">
     <br>
     <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">EEU</span>
+      <span style="color: blue;">EEU</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/usa.jpg" alt="Python" style="width: 60px;">
     <br>
     <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">US Emb</span>
+      <span style="color: blue;">US Emb</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/ase.jpg" alt="MATLAB" style="width: 60px;">
     <br>
     <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">ASE</span>
+      <span style="color: blue;">ASE</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/etc.jpg" alt="Tele" style="width: 60px;">
     <br>
     <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">Tele</span>
+      <span style="color: blue;">Tele</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/amc.png" alt="AMC" style="width: 60px;">
     <br>
     <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
-      <span style="color: white;">AMC</span>
+      <span style="color: blue;">AMC</span>
     </div>
   </div>
 </div>
