@@ -352,7 +352,7 @@ The country I studied, and Company I Worked
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/etc.jpg" alt="Tele" style="width: 120px;">
+    <img src="/images/etc.jpg" alt="Tele" style="width: 60px;">
     <br>
     <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
       <span style="color: blue;">Tele</span>
