@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Geology, Earth Sciences Department, Indian Institute of Technology, Bombay 2020
+* Ph.D. in Geology, Earth Sciences Department, Indian Institute of Technology, Bombay, 2020
 * M.Tech. in Petroleum Geology, Applied Geology Department, Dibrugarh University, 2012
 * M.Sc. in Geology, Geological Sciences Department, Gauhati University, 2010
 * B.Sc. (Hons.) in Geology, Gauhati Unversity, 2008
