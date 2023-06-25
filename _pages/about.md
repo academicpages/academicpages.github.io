@@ -30,7 +30,7 @@ I have worked on a number of academic and personal projects, including Measureme
 I have earned several certifications, including the CCNA I and II certifications, American Space Badges, and the YALI Entrepreneurship and Business Course Certificates. <a href="https://getnetdemil.github.io/cv/">Details</a>
 
 <h2>Voluntary Work</h2>
-I have also been involved in various organizational and voluntary work, including volunteering at the Ethiopian Red Cross Society and organizing a fundraiser for a local charity in Bahir Dar, Ethiopia. <a href="https://getnetdemil.github.io/cv/">Details</a> <br><br>
+I have also been involved in various organizational and voluntary work, including volunteering at the Ethiopian Red Cross Society and organizing a fundraiser for a local charity in Bahir Dar, Ethiopia. <a href="https://getnetdemil.github.io/cv/">Details</a> 
 
 <h2>Reasearch Interest</h2>
 In terms of my academic pursuits, my research interests primarily revolve around the fascinating domains of Image Processing, Computer Vision, and Machine Learning.
@@ -42,7 +42,7 @@ Thank you for visiting my page, and feel free to contact me for any further info
   Phone: +34647108351<br>
   Email: <a href="getnetd24@gmail.com">getnetd24@gmail.com</a>
 <div>
-    <a href="https://getnetdemil.github.io/cv/">Curriculum Vitae-CV </a>
+    <a href="https://getnetdemil.github.io/cv/">Curriculum Vitae-CV </a> <br><br>
 </div>
 </div>
 
