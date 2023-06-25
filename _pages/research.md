@@ -19,7 +19,7 @@ You can also find my articles on [my google scholar profile](https://scholar.goo
 
 ## Refereed Conferences
 
--  [Signaling Competition in Two-Sided Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451693)https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451693). O. Besbes, Y. Fonseca, I. Lobel and F. Zheng.<em>EC'23, Proceedings of the 2023 ACM Conference on Economics and Computation.</em>
+-  [Signaling Competition in Two-Sided Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4451693). O. Besbes, Y. Fonseca, I. Lobel and F. Zheng.<em>EC'23, Proceedings of the 2023 ACM Conference on Economics and Computation.</em>
 
 -  [Statistical Learning and Inverse Problems: A Functional Gradient Descent Approach](https://proceedings.neurips.cc/paper_files/paper/2022/file/3e8b1835833ef809059efa74b9df6805-Paper-Conference.pdf). Y. Fonseca and Y. Saporito. <em>Proceedings of the 36th Conference on Neural Information Processing Systems (NeurIPS 2022)</em>
   
