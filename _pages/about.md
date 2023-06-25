@@ -46,7 +46,8 @@ Email: zhimengj at tamu dot edu. Here is my [CV](http://zhimengj0326.github.io/f
   <p><span style="color:darkred;">[2022/01]</span> Invited to serve as a PC member of ICML 2022.</p>
   <p><span style="color:darkred;">[2022/01]</span> Our paper on Geometric Graph Representation Learning is accepted by WWW 2022!</p>
   <p><span style="color:darkred;">[2020/05]</span> Thrilled to start my summer internship at Samsung Research America Ads AI team, supervised by <a href="https://scholar.google.com/citations?user=FPcI7HkAAAAJ&hl=en">Dr. Li Li</a> and <a href="https://scholar.google.com/citations?user=ngVttWUAAAAJ&hl=en">Dr. Rui Chen</a>.</p>
-<!-- </div> -->
+</div>
+
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=276bba&w=300&t=n&d=_AahTWe7r3JGq_cYfRXPi0HQTKOD3NUb8lqBF0iSBCg&co=ffffff&ct=120808'></script>
