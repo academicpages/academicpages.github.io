@@ -13,6 +13,8 @@ Heiner, M., **Grimm, T.**, Smith, H., Leavitt, S. D., Christensen, W. F., Carlin
 
 ## In Preparation
 
+**Grimm, T. R., Newhart, K. B., Hering, A. S. (2023+). Nonparametric threshold estimation of autocorrelatied statistics in multivariate statistical process monitoring.
+
 ## Submitted
 
 ## In Revision
