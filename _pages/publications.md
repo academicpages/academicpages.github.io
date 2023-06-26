@@ -28,7 +28,7 @@ noise detection algorithm for Vietnamese real estate posts," <i>36th Annual Meet
 
 * Thao V. Ha, **Hoang M. Nguyen**, Son T. Huynh, Binh T Nguyen, "Fall Detection Using Mixtures of Convolutional Neural Networks". 
 
-* Duy M. H. Nguyen, **Hoang Nguyen**, Nghiem T. Diep, Tan N. Pham, Tri Cao, Binh T. Nguyen, Paul Swoboda, Nhat Ho, Shadi Albarqouni, Pengtao Xie, Daniel Sonntag, Mathias Niepert, "LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching", Full text available at <a href="https://arxiv.org/abs/2306.11925" target="_blank" rel="noopener"> ArXiv </a> . 
+* Duy M. H. Nguyen, **Hoang Nguyen**, Nghiem T. Diep, Tan N. Pham, Tri Cao, Binh T. Nguyen, Paul Swoboda, Nhat Ho, Shadi Albarqouni, Pengtao Xie, Daniel Sonntag, Mathias Niepert, "LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching". Full text available at <a href="https://arxiv.org/abs/2306.11925" target="_blank" rel="noopener"> ArXiv </a> . 
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
