@@ -26,6 +26,12 @@ Research
 
 * [Efficient Representation for Voxel Images](/efficientmodels/)
 
+
+News
+------
+- 6 Papers accepted by **MICCAI** (2023/6/24)
+- *Eye-gaze-guided Vision Transformer for Rectifying Shortcut Learning* accepted by **TMI** (2023/6/14)
+
 Activities
 ------
 Reviewer for:
