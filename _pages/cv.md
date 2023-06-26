@@ -75,7 +75,7 @@ Work experience
 * [Ethio Telecommunication](https://www.ethiotelecom.et/): Operations and Maintenance Engineer Intern
    * 4 months of experience 
    * Bahir Dar, Ethiopia
-   * 
+  
 * [Amhara Media Corporation](https://www.amharaweb.com/english/): Radio and TV Broadcast Engineer Intern 
   * 4 months of experience
   * Bahir Dar, Ethiopia
@@ -102,7 +102,7 @@ Skills, Tools and Libraries
    * Microsoft Window, Ubuntu, Linux, CentOS, Kali Linux  
 * Leadership and Management Skills
    * Young Africa Leaders Initiative- YALI Member
-* Some of the Programming language, tools and libraries 
+* Some of the Programming languages, tools and libraries 
 <div style="text-align: center;">
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/c++.png" alt="C++" style="width: 30px;">
@@ -178,15 +178,16 @@ Skills, Tools and Libraries
     <img src="/images/latex.png" alt="SAP ERP" style="width: 50px;">
     <br>
     <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
-      <span style="color: white;">Latex</span>
+      <span style="color: white;">Latex</span> 
     </div>
   </div>
+  <br><br>
 </div>
 
 
-Projects
+Projects and Researchs
 ======
-* Measurements on recognition of object to grasp with a robot arm on a hybrid system
+* Measurements on recognition of objects to grasp with a robot arm on a hybrid system
   * 2022 – Present, [Pázmány Péter Catholic University](https://ppke.hu/en), [Universidad Autonoma de Madrid](https://www.uam.es/uam/inicio) and  [University of Bordeaux](https://www.u-bordeaux.fr/en)
   
 * Performance Analysis of 60-120 GHz mmWave Ranges Radio Over Fiber with Multi Input Multi Output Architecture
@@ -267,7 +268,7 @@ Organizational and Voluntary Work
   * 02/2017 – 04/2017, Bahir Dar, Ethiopia
   
 
-Studied in, and worked in
+Studied, and worked in
 ======
 
 <div style="text-align: center;">
