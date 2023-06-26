@@ -16,11 +16,11 @@ Education
 Work experience
 ======
 * From 05/2023: Research Assistant
-  * Vin University
+  * [Vin University](https://vinuni.edu.vn/)
   * Graph structure learning with applications in computer vision and bio-medical domains.
 
 * 08/2022 - 04/2023: Research Intern
-  * German Research Center for Artificial Intelligence (DFKI)
+  * German Research Center for Artificial Intelligence ([DFKI](https://www.dfki.de/web))
   * Developing self-supervised learning and domain adaptation algorithms with applications in
 computer vision, medical imaging.
 
@@ -31,10 +31,10 @@ computer vision, medical imaging.
 machines.
 
 * 01/2022 - 05/2022: Research Assistant
-  * AISIA Research Lab, University of Science VNU-HCMUS, Vietnam
+  * [AISIA Research Lab](https://aisia.vn/), University of Science VNU-HCMUS, Vietnam
   * Annotating and Running NLP model on Name Entity Recognition tasks.
 
-**[Find a more detailed CV here](http://hoangnguyen210.github.io/files/CV.pdf)**
+**[Find a more detailed CV here](http://hoangnguyen210.github.io/files/CV_266.pdf)**
 
 Publications
 ======
