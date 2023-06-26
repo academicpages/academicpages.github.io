@@ -24,7 +24,6 @@ Work experience
   * Developing self-supervised learning and domain adaptation algorithms with applications in
 computer vision, medical imaging.
 
-
 * 06/2022 - 07/2022: Research Intern
   * CirTech Insitute, Hutech University 
   * Developing algorithms to reconstruct 2D faces image to 3D faces, used in 3D printer
