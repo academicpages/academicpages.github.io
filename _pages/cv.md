@@ -37,9 +37,7 @@ machines.
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Find out more in [HERE](https://hoangnguyen210.github.io//publications/)
 
 Academic Achievements:
 ======
