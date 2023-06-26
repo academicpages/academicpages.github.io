@@ -45,9 +45,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
-External Reviews 
+Professional Activities
 ======
-European Symposium on Research in Computer Security, ESORICS, 2022
+(PC Member) 28th European Symposium on Research in Computer Security (ESORICS 2023)
+(PC Member) 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023)
+(External Reviewer) European Symposium on Research in Computer Security, ESORICS, 2022
 
 Service and leadership
 ======
