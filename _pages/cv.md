@@ -86,7 +86,11 @@ Skills, Tools and Libraries
    * C++, Python, MATLAB, SQL, R, VHDL, MERN Stack, Typescript, LaTex
 * Enterprise Resource Planning Software
   * SAP ERP (3.5 years of experience in a full role)
-* Computer Hardware and Network troubleshooting Skill
+* Language Skill
+  * Amharic-አማርኛ (Native)
+  * English- Professional
+  * Spanish- Español (un poco)
+* Computer Hardware and Network troubleshooting Skills
    * Cisco Certified Network Associate, CCNA I, Huawei networking device
 * Microsoft Oﬀice Product
    * MS Word, MS Excel, MS PowerPoint, MS Publisher, MS Teams, Office365
