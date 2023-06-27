@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electromechanical Engineering, University of Beira Interior, 2017
-* M.S. in Electromechanical Engineering, University of Beira Interior, 2019
 * Ph.D in Mechanical Engineering, University of Beira Interior, 2024 (expected)
+* M.S. in Electromechanical Engineering, University of Beira Interior, 2019
+* B.S. in Electromechanical Engineering, University of Beira Interior, 2017
 
 Work experience
 ======
