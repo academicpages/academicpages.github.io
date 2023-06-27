@@ -16,8 +16,9 @@ Prior to the Ph.D. program, I received my Master's degree in Computer Science fr
 Email: wang dot dian at northeastern dot edu
 
 ## News
+- 06/2023: I am honored to receive the 2023 JP Morgan Chase PhD Fellowship!
 - 04/2023: I give a guest lecture, [Equivariant Learning for Robotic Manipulation](https://www.youtube.com/watch?v=dx5rDtdv7LM). The lecture summarizes our latest research, so be sure to check it out!
-- 03/2023: We are organizing the [Workshop on Symmetries in Robot Learning](https://sites.google.com/view/rss23-sym) at RSS 2023. Call for contributions is now open.
+- 03/2023: We are organizing the [Workshop on Symmetries in Robot Learning](https://sites.google.com/view/rss23-sym) at RSS 2023. 
 - 02/2023: I will be joining the Boston Dynamic AI Institute as a summer intern.
 - 01/2023: Our paper [The Surprising Effectiveness of Equivariant Models in Domains with Latent Symmetry](https://arxiv.org/pdf/2211.09231.pdf) is accepted at ICLR 2023 as a spotlight presentation.
 - 01/2023: Two papers are accepted at ICRA 2023.
