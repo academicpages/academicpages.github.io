@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV <a href='cv-SCandido.pdf'>Download PDF</a>"
+title: "CV <a href='/files/cv-SCandido.pdf'>Download PDF</a>"
 permalink: /cv/
 author_profile: true
 redirect_from:
