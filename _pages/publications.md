@@ -21,6 +21,8 @@ Kaaronen, Roope O., Manninen, Mikael A., and Eronen, Jussi T. [Rules of thumb, f
 
 Little, John C., et al. [Earth systems to Anthropocene systems: An evolutionary, system-of-systems, convergence paradigm for interdependent societal challenges](https://pubs.acs.org/doi/10.1021/acs.est.2c06203). _Environmental Science & Technology_ 57.14 (2023): 5504-5520.
 
+Nagatsu, Michiru, et al. [Cultural Niche Construction as a Framework for Reorienting Human-Environment Relations](https://doi.org/10.1111/tops.12674). Topics in Cognitive Science (2023).
+
 Hulkkonen, Mira, et al. [Modeling non-linear changes in an urban setting: From pro-environmental affordances to responses in behavior, emissions and air quality](https://link.springer.com/article/10.1007/s13280-022-01827-8). _Ambio_ 52.5 (2023): 976-994.
 
 Kaaronen, Roope O., Borgerhoff Mulder, Monique, and Waring, Timothy. [Applying cultural evolution to address climate and environmental challenges](https://osf.io/u7hvj/download). (2022).
