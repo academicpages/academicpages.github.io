@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Reza Adinepour"
 title_separator          : "-"
 name                     : &name "Reza Adinepour"
-description              : &description "personal description"
+description              : &description "M.Sc student at the University of Tehran"
 url                      : https://rezaAdinepour.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rezaAdinepour/rezaAdinepour.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:            
   name             : "Reza Adinepour"
-  avatar           : "profile.png"
+  avatar           : "IMG_1666.jpg"
   bio              : "M.Sc student at the University of Tehran"
   location         : "Tehran, Iran"
   employer         :
