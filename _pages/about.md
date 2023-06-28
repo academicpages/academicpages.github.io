@@ -8,6 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+  <style>
+    .container {
+      text-align: center;
+    }
+    
+    .container a {
+      display: inline-block;
+      margin: 0 auto;
+    }
+  </style>
+
 ## Hi there, I'm Sílvio Cândido 👋 Welcome to my personal webpage
 
 
@@ -22,12 +33,12 @@ Participating in [IMECE2023](https://event.asme.org/IMECE), New Orleans, LA, USA
  - "Improving Efficiency of Automotive Coating and Curing Processes Through Deep Learning Algorithms and High-Fidelity CFD Modeling" by S. Cândido, M. Pendar & J. Páscoa
 
 ## A bit more about me...
-<p style="text-align: center;">
+<div class="container">
 [<img src="https://img.shields.io/badge/googlescholar-4285F4?&style=for-the-badge&logo=googlescholar&logoColor=white">](https://scholar.google.com/citations?user=SdNOWvEAAAAJ&hl=pt-PT)
 [<img src="https://img.shields.io/static/v1.svg?&style=for-the-badge&logo=ResearchGate&label=&message=ResearchGate&logoColor=white&color=green">](https://www.researchgate.net/profile/Silvio-Candido)
 [<img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/silviomrcandido/)
 [<img src="https://img.shields.io/badge/orcid-A6CE39?&style=for-the-badge&logo=orcid&logoColor=white">](https://orcid.org/0000-0002-4176-1178)
-</p>
+</div>
 
 ### Certifications:
 - Lean Six Sigma Yellow Belt from The Lean Six Sigma Company Portugal (April 2023)
