@@ -22,12 +22,13 @@ Participating in [IMECE2023](https://event.asme.org/IMECE), New Orleans, LA, USA
  - "Improving Efficiency of Automotive Coating and Curing Processes Through Deep Learning Algorithms and High-Fidelity CFD Modeling" by S. Cândido, M. Pendar & J. Páscoa
 
 ## A bit more about me...
-</center>
+<p style="text-align: center;">
 [<img src="https://img.shields.io/badge/googlescholar-4285F4?&style=for-the-badge&logo=googlescholar&logoColor=white">](https://scholar.google.com/citations?user=SdNOWvEAAAAJ&hl=pt-PT)
 [<img src="https://img.shields.io/static/v1.svg?&style=for-the-badge&logo=ResearchGate&label=&message=ResearchGate&logoColor=white&color=green">](https://www.researchgate.net/profile/Silvio-Candido)
 [<img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/silviomrcandido/)
 [<img src="https://img.shields.io/badge/orcid-A6CE39?&style=for-the-badge&logo=orcid&logoColor=white">](https://orcid.org/0000-0002-4176-1178)
-</center>
+</p>
+
 ### Certifications:
 - Lean Six Sigma Yellow Belt from The Lean Six Sigma Company Portugal (April 2023)
 - Certified SolidWorks Associate - CSWA from Dassault Systèmes for Mechanical Design in SolidWorks (July 2018)
