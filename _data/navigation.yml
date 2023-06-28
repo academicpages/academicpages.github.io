@@ -1,11 +1,15 @@
 # main links links
 main:
+  - title: "Publications"
+    url: /publications/
+  
 
-- title: "Teaching"
-    url: /teaching/ 
+  - title: "Teaching"
+    url: /teaching/      
+
     
   - title: "Experience"
-    url: /Experience/
+    url: /experience/
     
   - title: "CV"
-    url: /cv/
+    url: /files/cv_sharonlevy1.pdf
