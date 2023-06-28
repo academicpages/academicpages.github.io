@@ -15,7 +15,7 @@ redirect_from:
 
 Recent news
 ===========
-- (Jun. 15, 2023) Yixiang presented a poster on a project based on 4-year flu clinical trial at [Harvard Immunology Retreat](https://immunology.hms.harvard.edu/), North Falmouth, MA.
+- (Jun. 15, 2023) Yixiang presented a poster on a project based on a 4-year flu clinical trial at [Harvard Immunology Retreat](https://immunology.hms.harvard.edu/), North Falmouth, MA.
 - (Dec. 7, 2022) Yixiang presented a poster at [4th Annual Immune Modulation and Engineering Symposium](https://drexel.edu/biomed/research-and-design/overview/IMES2022/), Drexel University.
 - (Oct. 12-15, 2022) Yixiang served as the co-chair for the following two sessions at [BMES2022](https://www.bmes.org/annualmeeting), San Antonio, TX.
    - Biosensors, Implantable Sensors and Devices II 
