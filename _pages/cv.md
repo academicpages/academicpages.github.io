@@ -17,7 +17,7 @@ Work experience
 ======
 
 * **Fin Company**, Tehran, Iran: 2023-Present
-  * Job Description: Signal Processing Researcher
+  * Job Description: Signal Processing Developer
 
 * **Radan Electronic**, Mashhad, Iran: 2022
   * Job Description: Embedded Designer and Programmer
