@@ -14,6 +14,9 @@ redirect_from:
 
 
 
+
+
+
 ###   Career & hobbies, life story, sources of happiness or worry, and anything else about myself. 
 
 I was born in Shihua, a small town in central China. I spend 18 years in this small town, that's all of my childhood. Then, I went to Guangzhou and spend 3 years in that charming city to pursue my bachelor's degree as a first-generation college student(As a first-generation college student in my family and I know it's hard to get good education resources to learn more efficiently. For instance, it took me about 6 years to learn to how spell 26 English letters when I was in primary school. )  in my family. In my senior year, I moved to Beijing to start my career path as a software engineer intern. Since this, I make the decision that software engineering is my job for my life and I'm proud of this job.
@@ -34,9 +37,12 @@ I never doubt myself and regret the decision I had ever made.
 
 I believe that democracy and despotism are tradeoffs and I prefer democracy. 
 
+I always say " NO" to recommendation algorithm. Since people always believe what they want to believe and see what they want to see, they will never  see anything beyond their cognitivation or anything they don't know that they don't know and become more extreme prejudiced.
+
+
+
 I'm also a half anarchism.
 
 > free feel to let me know if you have the same value as me or not, I also encourage you to share your value with me.
 
-I wish this world would be full of pace & love and be efficient.
-
+I wish this world would be full of pace & love and be efficient. 
