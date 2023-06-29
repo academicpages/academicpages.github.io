@@ -11,6 +11,14 @@ redirect_from:
 I am a third-year Applied Mathematics Ph.D. candidate in the School of Engineering and Applied Sciences (SEAS) at [Harvard University](https://www.seas.harvard.edu), working with Prof. [Flavio Calmon](http://people.seas.harvard.edu/~flavio/#). My main research interests are fairness, information theory, and machine learning applications for the social good. Before joining Harvard, I received an M.s. in Computational Mathematics and Modelling from Instituto de Matemática Pura e Aplicada ([IMPA](https://impa.br/en_US/)) in Brazil. You can find my CV [here](https://drive.google.com/file/d/1Z0AaWf8GAbnr3_dJpNpaBEi9YeDHmfPm/view?usp=sharing).
 
 ## Recent announcements
+
+<span style="color: FireBrick"> 
+April 2023 - Our [paper](https://drive.google.com/file/d/15-yofEFrYCgIvXqnqtXzHwKxlryV8_Wa/view?usp=share_link) was accepted at ISIT 2023.
+</span> \
+<span style="font-size:15px"> 
+Here, we show that the Rashomon effect is inevitable and provide a method for practitioners to select the Rashomon parameter as a function of the dataset size. 
+</span> 
+
 <span style="color: FireBrick"> 
 January 2023 - Our [paper](https://ojs.aaai.org/index.php/AAAI/article/view/26837) received the Innovative Applications of AI award from AAAI. 
 </span> \
