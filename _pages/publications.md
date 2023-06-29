@@ -5,4 +5,4 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Coming soon**
+**Coming soon...**
