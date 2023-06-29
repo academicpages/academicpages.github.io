@@ -19,6 +19,13 @@ In this paper, we developed an ML solution that combines deep learning and confo
 </span> 
 
 <span style="color: FireBrick"> 
+August 2022 - Our [paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/0cfc9404f89400c5ed897035e0d3748c-Abstract-Conference.html) was accepted at NeurIPS 2022. 
+</span> \
+<span style="font-size:15px"> 
+This paper aims to understand the conditions under which one can detect fair use violations in predictive models and, more interestingly, the conditions where estimating fair use is impossible.
+</span> 
+
+<span style="color: FireBrick"> 
 July 2022 - I received the [Fundação Estudar](https://www.estudar.org.br) Leadership Fellowship. 
 </span> \
 <span style="font-size:15px"> 
