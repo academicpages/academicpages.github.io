@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
 **List of the courses I TA'ed for:**
 * **Principles of Human Brain Mapping with fMRI**, Dartmouth College, Lecturer: Prof. Wager, Winter 2020
 * **Laboratory in Psychological Science**, Dartmouth College, Lecturer: Prof. Brown, Fall 2019
