@@ -10,31 +10,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computer Science, University of California, Santa Barbara, 2018-Present
-* M.S. in Computer Science, University of California, Santa Barbara, 2018
-* B.S. in Computer Science, University of California, Santa Barbara, 2017
+* **M.Sc. in Electrical Engineering**, University of Tehran, Tehran, Iran, 2023-Present
+* **B.Sc. in Electrical Engineering**, Shahrood University of Technology, Shahrood, Iran, 2023
 
 Work experience
 ======
 
-* University of California, Santa Barbara: 2018-Present
-  * Graduate Student Researcher
-  * Advisor: William Wang
+* **Fin Company**, Tehran, Iran: 2023-Present
+  * Job Description: Signal Processing Researcher
 
-* AWS: 2022
-  * Applied Scientist Intern (Comprehend Team)
-  * Mentors: Neha Anna John and Ling Liu
-  * Manager: Vittorio Castelli
+* **Radan Electronic**, Mashhad, Iran: 2022
+  * Job Description: Embedded Designer and Programmer
 
-* Facebook: 2021
-  * Facebook AI Applied Research Intern (AI Integrity Team)
-  * Mentor: Yi-Chia Wang
- 
-* Pinterest: 2020
-  * Pinterest Labs Research Intern (PhD, Machine Learning)
-  * Mentor: Jacob Gao
-  * Manager: Longbin Chen
-
-* Akamai Technologies: 2017
-  * Security Engineer Intern
-  * Mentor: Richard Lin
+* **ICL**, Shahrood, Iran: 2021
+  * Job Description: Head of The Hard Ware department on OAE Project
