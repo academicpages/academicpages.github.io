@@ -6,6 +6,7 @@ date: 2023-02-07
 excerpt: "![deepace](/images/deepace.png){: style='float: left; height: 100px'}"
 venue: 'AAAI'
 arxiv: 'https://arxiv.org/abs/2203.01228'
+paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/25921'
 code: 'https://github.com/dennisfrauen/deepace'
 ---
 
