@@ -26,6 +26,11 @@ January 2023 - Our [paper](https://ojs.aaai.org/index.php/AAAI/article/view/2683
 In this paper, we developed an ML solution that combines deep learning and conformal prediction to output fast and accurate volume estimates and segmentation masks from fetal MRI. The proposed solution in the paper was deployed by the biggest clinical diagnosis company in Latin America.
 </span> 
 
+
+<span style="color: FireBrick"> 
+August 2022 - I received the NeurIPS scholar award. 
+</span> 
+
 <span style="color: FireBrick"> 
 August 2022 - Our [paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/0cfc9404f89400c5ed897035e0d3748c-Abstract-Conference.html) was accepted at NeurIPS 2022. 
 </span> \
