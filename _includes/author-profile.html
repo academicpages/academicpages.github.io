@@ -7,10 +7,12 @@
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
+    {% if site.data.authors[page.author] %}
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+    {% endif %}
     {% endif %}
   </div>
 
@@ -20,9 +22,9 @@
   </div>
 
   <style>
-    #clstr_globe {
-      width: 100px;
-      height: 100px;
+    .clustrmaps-container {
+      width: 15%;
+      height: 15%;
     }
   </style>
 
@@ -128,7 +130,7 @@
     </ul>
   </div>
 
-  <div>
+  <div class="clustrmaps-container">
     <p>
 {% if site.data.authors[page.author] %}
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=wKcWVnadbANTeZkfbjX71Ux442ZlQ7yo13IpNaHQUKg"></script>
