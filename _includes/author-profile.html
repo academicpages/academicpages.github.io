@@ -21,8 +21,8 @@
 
   <style>
     #clstr_globe {
-      width: 200px;
-      height: 200px;
+      width: 100px;
+      height: 100px;
     }
   </style>
 
@@ -130,7 +130,9 @@
 
   <div>
     <p>
+{% if site.data.authors[page.author] %}
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=wKcWVnadbANTeZkfbjX71Ux442ZlQ7yo13IpNaHQUKg"></script>
+{% endif %}
     </p>
   </div>
 
