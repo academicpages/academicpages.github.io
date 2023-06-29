@@ -16,7 +16,7 @@ Prior to my doctoral studies, I worked as a research assistant at the University
 <h2>Recent News</h2>
 
  - **June 2023**: I will be attending AGI Safety Fundamentals Course at [Budapest AI Safety Team](https://www.budapestaisafety.org/).
- - **May 2023**: I have been accepted into the [OxML2023](https://www.oxfordml.school/) organized by [AI for Global Goals](https://www.globalgoals.ai/oxml) to be held at the [University of Oxford](https://www.oxfordmartin.ox.ac.uk/deep-medicine/). 
+ - **May 2023**: I will be attending the [OxML2023 summer school](https://www.oxfordml.school/) organized by [AI for Global Goals](https://www.globalgoals.ai/oxml) to be held at the [University of Oxford](https://www.oxfordmartin.ox.ac.uk/deep-medicine/). 
 
  <h2>Research</h2>
  
