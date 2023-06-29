@@ -12,7 +12,7 @@ I am a third-year Applied Mathematics Ph.D. candidate in the School of Engineeri
 
 ## Recent announcements
 <span style="color: FireBrick"> 
-May 2023 - I am thrilled to announce that I am joining [IBM Research](https://research.ibm.com) this summer. 
+May 2023 - I am thrilled to announce that I am joining [IBM Research](https://research.ibm.com) for the summer. 
 </span> 
 
 <span style="color: FireBrick"> 
