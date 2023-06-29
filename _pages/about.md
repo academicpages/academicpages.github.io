@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. student at the University of California, Santa Barbara. I work in the NLP Group under Professor William Wang. My research focuses on natural language processing, with an emphasis on Responsible AI. I work on problems relating to fairness, trustworthiness, and safety. I have spent summers as a research intern at AWS AI, Meta, and Pinterest. I am a 2022 EECS Rising Star, a current recipient of the Amazon Alexa AI Fellowship for Responsible AI, and have previously received the Regents and Holbrook Fellowships at my university.
+
+I am currently an M.Sc. degree student in Electrical Engineering at Tehran University, focusing on machine learning, signals, and systems. I graduated from Shahrood University of Technology with a B.Sc. in Electrical Engineering focusing on Embedded Systems and Signal Processing. My research focuses on Image processing, With an emphasis on AI and machine learning algorithms. Currently, I am a member of the R&D team of Fin company. My fields of interest include machine learning, deep learning, signal processing, and image and video analysis.
