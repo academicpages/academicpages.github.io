@@ -6,11 +6,14 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
 
 
 
 # about me
+
+
 
 
 
@@ -37,12 +40,12 @@ I never doubt myself and regret the decision I had ever made.
 
 I believe that democracy and despotism are tradeoffs and I prefer democracy. 
 
-I always say " NO" to recommendation algorithm. Since people always believe what they want to believe and see what they want to see, they will never  see anything beyond their cognitivation or anything they don't know that they don't know and become more extreme prejudiced.
+I always say " NO" to the recommendation algorithm. Since people always believe what they want to believe and see what they want to see, they will never see anything beyond their cognition or anything they don't know that they don't know and become more extremely prejudiced.
 
 
 
-I'm also a half anarchism.
+I'm also half anarchism.
 
 > free feel to let me know if you have the same value as me or not, I also encourage you to share your value with me.
 
-I wish this world would be full of pace & love and be efficient. 
+I wish this world would be full of pace & love and efficient. 
