@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a *Wissenschaftliche Mitarbeiter* (Scientific Researcher) and a first year Ph.D. student under the guidance of [Prof. Kristina Yordanova](http://stenialo.org/about-me/) at the Institute of Data Science, University of Greifswald. 
+I am a *Wissenschaftliche Mitarbeiter* (Scientific Researcher) and a first-year Ph.D. student under the guidance of [Prof. Kristina Yordanova](http://stenialo.org/about-me/) at the Institute of Data Science, University of Greifswald. 
 
 In my doctoral research, I strive to understand the vulnerabilities and risks associated with large language models, such as biases, misinformation propagation, and unintended consequences. Through multidisciplinary approaches, I intend to explore techniques to enhance model security, address privacy concerns, and ensure that AI systems respect ethical norms and human rights.
 
@@ -15,7 +15,8 @@ Prior to my doctoral studies, I worked as a research assistant at the University
 
 <h2>Recent News</h2>
 
- -  I have been accepted into the summer school on Machine Learning to be held at the [University of Oxford](https://www.oxfordmartin.ox.ac.uk/deep-medicine/). I am looking forward to learning, connecting, and gaining invaluable insights from the most brilliant minds in the field. 
+ - **June 2023**: I will be attending AGI Safety Fundamentals Course at [Budapest AI Safety Team](https://www.budapestaisafety.org/).
+ - **May 2023**: I have been accepted into the [OxML2023](https://www.oxfordml.school/) organized by [AI for Global Goals](https://www.globalgoals.ai/oxml) to be held at the [University of Oxford](https://www.oxfordmartin.ox.ac.uk/deep-medicine/). 
 
  <h2>Research</h2>
  
