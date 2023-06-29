@@ -13,7 +13,7 @@ I am a third-year Applied Mathematics Ph.D. candidate in the School of Engineeri
 ## Recent announcements
 
 <span style="color: FireBrick"> 
-April 2023 - Our [paper](https://drive.google.com/file/d/15-yofEFrYCgIvXqnqtXzHwKxlryV8_Wa/view?usp=share_link) was accepted at ISIT 2023.
+April 2023 - Our [paper](https://drive.google.com/file/d/1ufr4oFd7Ag5c1PTH53XuxTXNQ26WyZAU/view?usp=share_link) was accepted at ISIT 2023.
 </span> \
 <span style="font-size:15px"> 
 Here, we show that the Rashomon effect is inevitable and provide a method for practitioners to select the Rashomon parameter as a function of the dataset size. 
