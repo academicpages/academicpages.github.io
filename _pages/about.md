@@ -12,7 +12,11 @@ I am a third-year Applied Mathematics Ph.D. candidate in the School of Engineeri
 
 ## Recent announcements
 <span style="color: FireBrick"> 
-August 2022 - I received the ISIT Student Travel Grant. 
+May 2023 - I am thrilled to announce that I am joining [IBM Research](https://research.ibm.com) this summer. 
+</span> 
+
+<span style="color: FireBrick"> 
+August 2023 - I received the ISIT Student Travel Grant. 
 </span> 
 
 <span style="color: FireBrick"> 
