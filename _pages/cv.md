@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* **M.Sc. in Electrical Engineering**, University of Tehran, Tehran, Iran, 2023-Present
+* **M.Sc. in Electrical Engineering**, **Comming Soon**, **Comming Soon**, **Comming Soon**, 2023-Present
 * **B.Sc. in Electrical Engineering**, Shahrood University of Technology, Shahrood, Iran, 2023
 
 Work experience
