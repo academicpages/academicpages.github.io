@@ -22,4 +22,9 @@ Salvi, D., Mathew, G., Kohn, B., Pande, K., **Borgohain, B.**       | 2020 | The
 Rai, P., **Borgohain, B.**, Chettri, N., Mathew, G.                 | 2020 | A Comparative Heavy Mineral Study of the Cenozoic Sediments of Assam and Siwalik Foreland Basins, Northeast Himalaya | _Journal of Geological Society of India_ | [DOI](https://10.1016/j.jseaes.2019.104158)
 
 
+## PhD Thesis
 
+_Author_ | _Year_ | _Title_ | _Institute_ | DOI
+| :--- | :---: | --- | :---: | :---:
+**Borgohain, B.** | 2020 | Denudation history of the Siang Valley, northeastern Himalaya: a detrital thermochronological perspective | _Indian Institute of Technology Bombay_ | [DOI](	http://hdl.handle.net/10603/489468)
+ 
