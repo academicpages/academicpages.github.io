@@ -25,11 +25,11 @@ For an updated list of publications please refer either to my [Google Scholar pr
         {% if post.page %}
           <a href="{{post.page}}">website</a> /
         {% endif %}
-        {% if post.video %}
-          <a href="{{post.video}}">video</a> /
-        {% endif %}
         {% if post.code %}
           <a href="{{post.code}}">code</a> /
+        {% endif %}
+        {% if post.video %}
+          <a href="{{post.video}}">video</a> /
         {% endif %}
         {% if post.poster %}
           <a href="{{post.poster}}">poster</a> /
