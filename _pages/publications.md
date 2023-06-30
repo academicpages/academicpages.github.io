@@ -19,31 +19,33 @@ For an updated list of publications please refer either to my [Google Scholar pr
     <td style="border: none; padding:2.5%;width:75%;vertical-align:middle">
       <h3>{{post.title}}</h3>
       {{post.authors}}
-      <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+      <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}.
+      <br>
+      {{post.affiliation}}
       <br>
         {% if post.paperurl %}
-          <a href="{{post.paperurl}}" class="btn btn--info">paper</a> /
+          <a href="{{post.paperurl}}">[paper]</a> /
         {% endif %}
         {% if post.page %}
-          <a href="{{post.page}}">website</a> /
+          <a href="{{post.page}}">[website]</a> /
         {% endif %}
         {% if post.code %}
-          <a href="{{post.code}}">code</a> /
+          <a href="{{post.code}}">[code]</a> /
         {% endif %}
         {% if post.video %}
-          <a href="{{post.video}}">video</a> /
+          <a href="{{post.video}}">[video]</a> /
         {% endif %}
         {% if post.poster %}
-          <a href="{{post.poster}}">poster</a> /
+          <a href="{{post.poster}}">[poster]</a> /
         {% endif %}
         {% if post.slides %}
-          <a href="{{post.slides}}">slides</a> /
+          <a href="{{post.slides}}">[slides]</a> /
         {% endif %}
         {% if post.dataset %}
-          <a href="{{post.dataset}}">dataset</a> /
+          <a href="{{post.dataset}}">[dataset]</a> /
         {% endif %}
       <p></p>
-      {{ post.excerpt }} <br> {{ post.affiliation }}
+      {{ post.excerpt }}
     </td>
   </tr>
   {% endfor %}
