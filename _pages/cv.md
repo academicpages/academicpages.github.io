@@ -12,10 +12,21 @@ redirect_from:
 Education
 ======
 * B.S. in Psychology, Drexel University, 2016
+* M.S. in Analytics, Georgia Institute of Technology, Expected Graduation 2025
 
 Work experience
 ======
-__January 2017 - Present: Data Analyst__
+__ December 2019 - Present
+  * Childten's Hospital of Philadelphia - [Center for Data Driven Discovery in Biomedicine](https://d3b.center/)
+  * Duties included:
+    * Write pipeline to ETL clinical data for submission of associated genomic data to NIH data stores.
+    * Build new database schemas for warehousing AWS S3 inventory.
+    * Contribute to documentation of APIs and DBT data models.
+    * Collect and analyze AWS use data to decrease storage costs for the Center.
+    * Scripted ingest of clinical data for over 15,000 participants into a data warehouse.
+    * Built tools to scrape cloud databases, inventory AWS accounts, and upload data to a cloud data warehouse.
+
+__January 2017 - November 2019_
   * AJ Drexel Autism Institute - Social Dynamics of Intervention (Hassrick) Lab
   * Supervisor: [Elizabeth McGhee Hassrick](https://drexel.edu/autisminstitute/about/our-team/all-staff/Elizabeth-McGhee-Hassrick/)
   * Duties included:
@@ -56,6 +67,7 @@ Skills
 __Coding and Data Analysis Skills__
 * R
 * Python
+* DBT
 * SQL
 * HTML/CSS
 * SPSS
@@ -77,6 +89,7 @@ __Key Technical and Business Skills__
 __Statistical Methods__
 * Social Network Analysis
 * Latent Space Modeling
+* Experimental Design
 * Exponential Random Graph Models (ERGM)
 * Linear Modeling
 * Non-Parametric Methods
@@ -95,6 +108,6 @@ Presentations
 
 Professional Affiliations
 ======
-* __International Society for Social Network Analysis__ Member, 2019 - Present
+* __International Society for Social Network Analysis__ Member, 2019 - 2020
 * __American Psychological Association__, Student Affiliate, 2015 - 2017
 * __Association for Psychological Science__, Student Affiliate, 2016 - 2017

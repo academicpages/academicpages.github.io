@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Chris, a data support analyst in the [d3B center](https://d3b.center/) at the Children's Hospital of Philadelphia. There, I'm responsible for helping users when they encounter problems with or have questions about using the [Kids First Data Resource Portal](https://kidsfirstdrc.org/) and helping to streamline the work that goes on behind the scenes to help shepherd data from scientists collecting the data onto the portal.
+Hi! I'm Chris, a data integration analyst in the [d3B center](https://d3b.center/) at the Children's Hospital of Philadelphia. There, I'm responsible for building and maintaining data pipelines to bring clinical data and genomic data to open-access portals allowing scientists to study the genetics behind pediatric cancer. I also help to make our operations more performant and cost-efficient.
 
-Outside of the office, I make beer and I woodwork. 
+Outside of the office, I make beer and I woodwork.
