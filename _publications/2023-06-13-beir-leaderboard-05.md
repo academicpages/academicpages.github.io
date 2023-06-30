@@ -3,7 +3,7 @@ title: "Resources for Brewing BEIR: Reproducible Reference Models and an Officia
 collection: publications
 permalink: /publication/2023-06-13-beir-leaderboard-05
 excerpt: 'Resources to support the BEIR benchmark: A dynamic user-friendly leaderboard and reproducible sparse and dense baselines.'
-date: 2022-04-25
+date: 2023-06-13
 venue: 'Arxiv Preprint'
 paperurl: 'https://arxiv.org/abs/2210.09984'
 citation: ''
