@@ -12,5 +12,6 @@ image: 'images/beir.png'
 code: 'beir.io'
 video: 'https://www.youtube.com/watch?v=w6_5-hAsjBQ&ab_channel=Cohere'
 affiliation: 'UKPLab, Technical University of Darmstadt'
+dataset: 'https://huggingface.co/BeIR'
 
 ---

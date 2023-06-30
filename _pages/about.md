@@ -7,35 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-:wave: Hello! I'm __Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর)__ [\[CV\]](). 
+:wave: Hello! I'm Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর). 
 
 I'm second-year PhD student working on "Data-Efficient and Multilingual Information Retrieval" at the [University of Waterloo](https://uwaterloo.ca/) in Canada. 
 I am supervised by [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). 
 I recently finished a 6 month internship at Google Research in Mountain View, California in Winter 2023. 
 
 Prior to joining my PhD, I was as a research assistant (RA) at the [UKP Lab, Technical University of Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in Germany working with [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Dr. Nils Reimers](https://www.nils-reimers.de/). 
-I completed my bachelor's in Electronics and Instrumentation and a minor in Finance from [Birla Institute of Technology and Science, Pilani (BITS Pilani)](https://www.bits-pilani.ac.in/) in 2018. 
-Besides these experiences, I have over a year of industrial experience in Machine Learning, working as a Data Scientist in [KNOLSKAPE](https://knolskape.com/) and interning during my bachelors in the [Gibson Lab](https://www.embl.org/groups/gibson/) in EMBL Heidelberg and [Belong.co](https://belong.co/). 
+I completed my bachelor's in Electronics and Instrumentation with a minor in Finance from [Birla Institute of Technology and Science, Pilani (BITS Pilani)](https://www.bits-pilani.ac.in/) in 2018.
+Besides these experiences, I have over a year of industrial experience in Machine Learning, working as a Data Scientist in [KNOLSKAPE](https://knolskape.com/) and interning at [Gibson Lab](https://www.embl.org/groups/gibson/) in EMBL Heidelberg and [Belong.co](https://belong.co/). 
 
 
 ## :mag: Research Interests
-My research interests lie within NLP and Information Retrieval. I like to study and work on building easy, scalable and efficient systems in the neural search paradigm. My long-term research ambition lies in building robust and generalizable retrieval models to help serve information better for everyone. Few of my notable works include developing the BEIR Benchmark [(Thakur et al., NeurIPS 2021)](https://openreview.net/forum?id=wCu6T5xFjeJ) and Augmented SBERT [(Thakur et al., NAACL 2021)](https://aclanthology.org/2021.naacl-main.28/). 
+My research interests lie within NLP and Information Retrieval. I like to study and work on building easy, scalable and efficient systems in the neural search paradigm. My long-term research ambition lies in building robust and generalizable retrieval models to help serve information better for everyone. Few of my notable works include developing the BEIR Benchmark [(Thakur et al., 2021)](https://openreview.net/forum?id=wCu6T5xFjeJ) and Augmented SBERT [(Thakur et al., 2021)](https://aclanthology.org/2021.naacl-main.28/). 
 
-### Data Efficiency: Transfer Learning, Data Augmentation
+### :bar_chart: Data Efficiency: Transfer Learning, Data Augmentation and Zero-shot Learning 
+In order to train neural retriever systems, large amounts of human-labeled training data is required which is often cumbersome and expensive to generate for real-world tasks. Data efficiency plays a crucial role to address this challenge. Transfer learning is motivated by distilling knowledge from pretrained models or LLMs to train data-efficient models. Data Augmentation techniques involve generating high-quality synthetic data for training purposes. Zero-shot learning enables models to generalize to unseen classes or queries without any training examples.
 
+### :speaking_head: Languages: Multilingual Retrieval
+Multilingual Retrieval aims to provide relevant search results for user searching across multiple languages. Multilingual retrieval involves various challenges, including language mismatch, translation ambiguity, and language-specific resource limitations. To overcome these challenges, machine translation, cross-lingual IR and mulitilingual embeddings have been employed. However, training data for such tasks is even more scarce than English making it a important challenge.
 
-### Languages: Multilingual Retrieval
-
-
-
-## Community Contribution
-
-I have an interesting background story, where I pivoted into academic lifesyle of doing research to pursure my interests in open-source research in NLP and IR.
-Changing domains can be daunting, however, my academic mentors and peers' guidance have been influential at an early stage in my career to help overcome the challenge.
-
-I wish to continue the tradition, I am willing to mentor a few early stage undergraduate / master students interested towards my direction. Personally, I encourage students with diverse backgrounds to reach out. 
-
-## :newspaper: News
+## :fire: Recent News
+* <sub>**[Jul 2023]** I will be attending the SIGIR 2023 virtual conference being held in Taipei, Taiwan! Say hi to me (virtally)!</sub>
+* <sub>**[Jul 2023]** I will be attending the ACL 2023 in-person conference being held in Toronto, Canada! Say hi to me!</sub>
+* <sub>**[Jun 2023]** The Domain Adaptation Paper has been accepted in [ReNeuIR 2023 Workshop](https://reneuir.org/) to be held jointly with SIGIR 2023!</sub>
+* <sub>**[Jun 2023]** The SPRINT Toolkit Paper has been accepted in [SIGIR 2023 Resource Track](https://sigir.org/sigir2023/)!</sub>
+* <sub>**[May 2023]** The MIRACL Paper has been accepted in [TACL 2023](https://transacl.org/index.php/tacl)!</sub>
+* <sub>**[May 2023]** The Evaluating Embedding API Paper has been accepted in [ACL 2023 Industry Track](https://2023.aclweb.org/calls/industry_track/)!</sub>
 * <sub>**[Sep 2022]** The MIRACL Challenge was accepted in [WSDM Cup 2023](). The Challenge is now live and looking for participants.</sub> 
 * <sub>**[Aug 2022]** I started my Fall Internship at the Language Team in [Google Research](https://research.google/teams/language/) with Daniel Cer and Jianmo Ni.</sub>
 
