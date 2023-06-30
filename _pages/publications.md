@@ -43,9 +43,7 @@ For an updated list of publications please refer either to my [Google Scholar pr
           <a href="{{post.dataset}}">dataset</a> /
         {% endif %}
       <p></p>
-      {{ post.excerpt }}
-      <p></p>
-      {{ post.affiliation }}
+      {{ post.excerpt }} <br> {{ post.affiliation }}
     </td>
   </tr>
   {% endfor %}
