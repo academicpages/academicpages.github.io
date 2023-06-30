@@ -22,7 +22,7 @@ For an updated list of publications please refer either to my [Google Scholar pr
       <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
       <br>
         {% if post.paperurl %}
-          <a href="{{post.paperurl}}">paper</a> /
+          <a href="{{post.paperurl}}" class="btn btn--info">paper</a> /
         {% endif %}
         {% if post.page %}
           <a href="{{post.page}}">website</a> /
