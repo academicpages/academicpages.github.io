@@ -1,7 +1,7 @@
 ---
 title: "Resources for Brewing BEIR: Reproducible Reference Models and an Official Leaderboard"
 collection: publications
-permalink: /publication/2023-06-13-beir-leaderboard-05
+permalink: /publication/2023-06-13-beir-leaderboard-06
 excerpt: 'Resources to support the BEIR benchmark: A dynamic user-friendly leaderboard and reproducible sparse and dense baselines.'
 date: 2023-06-13
 venue: 'Arxiv Preprint'
