@@ -12,4 +12,5 @@ image: 'images/augsbert.png'
 code: 'https://www.sbert.net/examples/training/data_augmentation/README.html'
 video: 'https://www.youtube.com/watch?v=a8jyue22SJM&ab_channel=JamesBriggs'
 affiliation: '- Work done during as a research assistant at the UKPLab, TU Darmstadt.
+
 ---
