@@ -2,9 +2,9 @@
 title: "Care Coordination: Testing Associations between Social Networks and the Perceived Transition Success for Low Resource Children with ASD"
 collection: presentations
 type: "Conference Poster"
-permalink: /presentations/5/11/18-insar_transition_success
+permalink: /presentations/2018-05-11-insar_transition_success
 venue: "International Society For Autism Research 2018 Annual Meeting"
-date: 5/11/18
+date: 2018-05-11
 location: "Rotterdam, Netherlands"
 ---
 

@@ -2,9 +2,9 @@
 title: "Social Capital Inequalities: Measuring Autism Resources Embedded in the Egocentric Treatment Networks of Children with ASD"
 collection: presentations
 type: "Conference Poster"
-permalink: /presentations/8/13/19-asa_soc_cap
+permalink: /presentations/2019-08-13-asa_soc_cap
 venue: "American Sociological Association 2018 Annual Conference"
-date: 8/13/19
+date: 2019-08-13
 location: "Philadelphia, PA"
 ---
 

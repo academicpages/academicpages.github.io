@@ -2,9 +2,9 @@
 title: "Analysis of Network Characteristics of Latino-Serving Organizations in Philadelphia"
 collection: presentations
 type: "Conference Poster"
-permalink: /presentations/11/2/19-apha_2019_latino_org_networks
+permalink: /presentations/2019-11-02-apha_2019_latino_org_networks
 venue: "APHA Annual Meeting and Expo"
-date: 11/2/19
+date: 2019-11-02
 location: "Philadelphia, PA"
 ---
 

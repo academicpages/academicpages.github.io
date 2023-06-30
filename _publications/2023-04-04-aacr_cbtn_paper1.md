@@ -1,9 +1,9 @@
 ---
 title: "Expansion of the Pediatric Brain Tumor Atlas: Children's Brain Tumor Network, Kids First Data Resource and Childhood Cancer Data Initiative Open Science effort"
 collection: publications
-permalink: /publication/4/4/23-aacr_cbtn_paper1
+permalink: /publication/2023-04-04-aacr_cbtn_paper1
 excerpt: 'Pediatric central nervous system (CNS) cancers are the leading disease-related cause of death in children and there is urgent need for curative therapeutic strategies for these tumors. To address the urgency, ChildrenÕs Brain Tumor Network (CBTN) has advanced an open science model to accelerate the research discovery for pediatric brain tumors. In first phase of Open Pediatric Brain Tumor Atlas (OpenPBTA) effort CBTN together with Pacific Pediatric Neuro-Oncology Consortium (PNOC) with support of Gabriella Miller Kids First Data Resource Center (KFDRC) created and comprehensively characterized over 1000 clinically annotated pediatric brain tumors.'
-date: 4/4/23
+date: 2023-04-04
 venue: 'Cancer Research'
 paperurl: 'https://aacrjournals.org/cancerres/article/83/7_Supplement/3566/720161'
 citation: 'Mateusz P. Koptyra, Komal Rahti, Yuankun Zhu, Bailey Farrow, Daniel Miller, Adam Kraya, Yiran Guo, Peter Madsen, Nicholas Van Kuren, Xiaoyan Huang, Miguel A. Brown, Jennifer L. Mason, Meen Chul Kim, Allison P. Heath, Brian M. Ennis, Bo Zhang, Jena V. Lilly, Jo Lynne Rokita, Christopher Friedman, Ximena P. Cuellar, Catherine A. Sullivan, Noel Coleman, Trang Duros, Thinh Q. Nguyen, Emmett C. Drake, Zeinab Helili, Beth A. Frenkel, Gerri R. Trooskin, Ariana Familiar, Karthik Viswanathan, Christopher M. Beck, Madison L. Hollawell, Valerie P. Baubet, Cassie Kline, Mariarita Santi, Tatiana S. Patton, Stephanie Stefankiewicz, Arya Kamnaa, Ryan A. Velasco, Dani Cardona, Phillip J. Storm, Adam C. Resnick, o/b/o Children&apos;s Brain Tumor Network; Abstract 3566: Expansion of the Pediatric Brain Tumor Atlas: Children&apos;s Brain Tumor Network, Kids First Data Resource and Childhood Cancer Data Initiative Open Science effort. Cancer Res 1 April 2023; 83 (7_Supplement): 3566. https://doi.org/10.1158/1538-7445.AM2023-3566'

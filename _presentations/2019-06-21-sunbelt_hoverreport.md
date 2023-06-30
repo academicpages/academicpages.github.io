@@ -2,9 +2,9 @@
 title: "Digital Trace Using Digital Trace Data to Generate Autism Support Team Networks"
 collection: presentations
 type: "Conference Poster"
-permalink: /presentations/6/21/19-sunbelt_hoverreport
+permalink: /presentations/2019-06-21-sunbelt_hoverreport
 venue: "International Sunbelt Social Network Conference"
-date: 6/21/19
+date: 2019-06-21
 location: "Montreal, Quebec, Canada"
 ---
 

@@ -2,9 +2,9 @@
 title: "Monitoring Electronic Communication of Autism Support Teams through Hover Reporting"
 collection: presentations
 type: "Conference Poster"
-permalink: /presentations/5/3/19-insar_hoverreport
+permalink: /presentations/2019-05-03-insar_hoverreport
 venue: "International Society For Autism Research 2019 Annual Meeting"
-date: 5/3/19
+date: 2019-05-03
 location: "Montreal, Quebec, Canada"
 ---
 
