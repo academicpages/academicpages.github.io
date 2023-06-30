@@ -13,7 +13,7 @@ name                     : &name "Nandan Thakur"
 description              : &description "Nandan's Personal Homepage"
 url                      : https://thakur-nandan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "thakur-nandan.github.io"
+repository               : "thakur-nandan/thakur-nandan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Nandan Thakur"
-  avatar           : "profile.jpg"
+  avatar           : "nandan.jpg"
   bio              : "Second-year Ph.D. student at University of Waterloo."
-  location         : "Waterloo, ON"
+  location         : "Waterloo, ON, Canada"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=CE9GJoMAAAAJ&hl=en"
   email            : "nandan.thakur@uwaterloo.ca"
