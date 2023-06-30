@@ -65,11 +65,12 @@ Presentations
 * 面向复杂薄壁结构的显式拓扑优化软件, 第一届开源工业仿真软件集成大赛, 线上, 2023.02.24
 * 基于移动可变形组件法与计算共形映射的复杂薄壁结构显式拓扑优化, 中国力学学会第三届博士生学术论坛, 线上, 2023.01.07
 
+
 Seminars
 ======
-* 2nd workshop on explicit topology optimization and software usage, Dalian, 2022.03.24
+* 2nd seminar on explicit topology optimization and software usage, Dalian, 2022.03.24
     * Collaborated with Dr. Xudong Jiang, Mr. Xubing Cheng, and Mr. Wu Xu
-* 1st workshop on explicit topology optimization and software usage, Dalian, 2021.05.02-2021.05.04
+* 1st seminar on explicit topology optimization and software usage, Dalian, 2021.05.02-2021.05.04
     * Self-organized by students, within the research group
 
 
@@ -78,6 +79,18 @@ Services
 * Reviewer for Engineering Structures (2)
 * Student Assistance Ambassador, Hefei University of Technology, 2019.01-2019.06
 * Student Union, Center of Learning and Development, Hefei University of Technology, 2015.09-2016.06
+
+
+Miscellaneous
+======
+* Favorites
+    * Rhapsody in Blue
+    * Chinese chess
+    * Basketball and Jogging
+    * Scientific american
+    * Surface and shell
+    * Iverson and Jordan
+
 
 <!-- 
 Conferences and Seminars
