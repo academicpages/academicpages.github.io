@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-__ December 2019 - Present
+__December 2019 - Present__
   * Childten's Hospital of Philadelphia - [Center for Data Driven Discovery in Biomedicine](https://d3b.center/)
   * Duties included:
     * Write pipeline to ETL clinical data for submission of associated genomic data to NIH data stores.
@@ -26,7 +26,7 @@ __ December 2019 - Present
     * Scripted ingest of clinical data for over 15,000 participants into a data warehouse.
     * Built tools to scrape cloud databases, inventory AWS accounts, and upload data to a cloud data warehouse.
 
-__January 2017 - November 2019_
+__January 2017 - November 2019__
   * AJ Drexel Autism Institute - Social Dynamics of Intervention (Hassrick) Lab
   * Supervisor: [Elizabeth McGhee Hassrick](https://drexel.edu/autisminstitute/about/our-team/all-staff/Elizabeth-McGhee-Hassrick/)
   * Duties included:
