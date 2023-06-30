@@ -11,6 +11,6 @@ authors: '<strong> Nandan Thakur </strong>, Nils Reimers, Johannes Daxenberger, 
 image: 'images/augsbert.png'
 code: 'https://www.sbert.net/examples/training/data_augmentation/README.html'
 video: 'https://www.youtube.com/watch?v=a8jyue22SJM&ab_channel=JamesBriggs'
-affiliation: 'UKPLab, TU Darmstadt'
+affiliation: 'UKPLab, Technical University of Darmstadt'
 
 ---
