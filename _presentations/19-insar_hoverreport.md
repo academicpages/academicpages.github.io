@@ -4,7 +4,7 @@ collection: presentations
 type: "Conference Poster"
 permalink: /presentations/5/3/19-insar_hoverreport
 venue: "International Society For Autism Research 2019 Annual Meeting"
-date: 2019-05-03
+date: 5/3/19
 location: "Montreal, Quebec, Canada"
 ---
 

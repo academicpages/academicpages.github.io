@@ -4,7 +4,7 @@ collection: presentations
 type: "Talk"
 permalink: /presentations/6/20/19-sunbelt_mwm_talk
 venue: "International Sunbelt Social Network Conference"
-date: 2019-06-20
+date: 6/20/19
 location: "Montreal, Quebec, Canada"
 ---
 

@@ -1,0 +1,16 @@
+---
+title: "Identifying disparities across race, ethnicity, and gender in pediatric neuro-oncology clinical research-from patient to provider"
+collection: publications
+permalink: /publication/1/1/22-cbtn_dei_paper
+excerpt: 'Literature has shown that racial, ethnic, and gender disparities exist among clinical research participants and within the ranks of academic institutions. To assess this and develop solutions to potential disparities in pediatric neuro-oncology, the Pacific Pediatric Neuro-Oncology Consortium (PNOC) and Children&apos;s Brain Tumor Network (CBTN) Diversity, Equity, and Inclusion (DEI) working group distributed a survey to all members of the consortia regarding the state of DEI in our research environments. In parallel, the working group collated clinical data from a public CBTN dataset and a PNOC clinical trial patient cohort to assess racial, ethnic, and gender differences in clinical research participation and outcomes.'
+date: 1/1/22
+venue: 'Cancer Epidemiology Biomarkers and Prevention'
+paperurl: 'https://aacrjournals.org/cebp/article-abstract/31/1_Supplement/PO-116/676170'
+citation: 'Emily Marshall, Tom Belle Davidson, Jeffrey Stevens, Kristina Cole, Fatema Malbari, Tabitha Cooney, Lance Ballaster, Kaitlin Lehmann, Shannon Robins, Miguel Brown, Christopher Blackden, Christopher Friedman, Ammar Naqvi, Jonathan Waller, Ximena Cueller, Jennifer Mason, Jena Lilly, Phillip Jay B Storm, Adam Resnick, Michael Prados, Sabine Mueller, Angela Waanders, Cassie Kline; Abstract PO-116: Identifying disparities across race, ethnicity, and gender in pediatric neuro-oncology clinical research - from patient to provider. Cancer Epidemiol Biomarkers Prev 1 January 2022; 31 (1_Supplement): POÐ116. https://doi.org/10.1158/1538-7755.DISP21-PO-116'
+---
+
+<a href='https://aacrjournals.org/cebp/article-abstract/31/1_Supplement/PO-116/676170'>Download paper here</a>
+
+Literature has shown that racial, ethnic, and gender disparities exist among clinical research participants and within the ranks of academic institutions. To assess this and develop solutions to potential disparities in pediatric neuro-oncology, the Pacific Pediatric Neuro-Oncology Consortium (PNOC) and Children&apos;s Brain Tumor Network (CBTN) Diversity, Equity, and Inclusion (DEI) working group distributed a survey to all members of the consortia regarding the state of DEI in our research environments. In parallel, the working group collated clinical data from a public CBTN dataset and a PNOC clinical trial patient cohort to assess racial, ethnic, and gender differences in clinical research participation and outcomes.
+
+Recommended citation: Emily Marshall, Tom Belle Davidson, Jeffrey Stevens, Kristina Cole, Fatema Malbari, Tabitha Cooney, Lance Ballaster, Kaitlin Lehmann, Shannon Robins, Miguel Brown, Christopher Blackden, Christopher Friedman, Ammar Naqvi, Jonathan Waller, Ximena Cueller, Jennifer Mason, Jena Lilly, Phillip Jay B Storm, Adam Resnick, Michael Prados, Sabine Mueller, Angela Waanders, Cassie Kline; Abstract PO-116: Identifying disparities across race, ethnicity, and gender in pediatric neuro-oncology clinical research - from patient to provider. Cancer Epidemiol Biomarkers Prev 1 January 2022; 31 (1_Supplement): POÐ116. https://doi.org/10.1158/1538-7755.DISP21-PO-116
