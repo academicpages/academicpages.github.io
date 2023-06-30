@@ -41,7 +41,7 @@ Outside academia, I study and train the [Brazilian Jiu-Jitsu](https://en.wikiped
     </font> 
     <br /> 
     <font size="2">
-      [Under Single-blind Submission at IROS'23]
+      [Under Submission]
       <a href="https://github.com/ut-amrl/plunder">
       [Project Website]
       </a>
