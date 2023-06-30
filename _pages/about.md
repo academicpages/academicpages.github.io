@@ -7,14 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
-Hi, I'm __Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর)__ [\[CV\]]().  
-I am currently a second-year Ph.D. student at the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/) in [University of Waterloo](https://uwaterloo.ca/). I have been fortunate to be supervised by [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). Before, I was a research assistant at the [UKP Lab, Technical University of Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp), Germany. I graduated with B.E. (Hons.) in Electronics and Instrumentation from [BITS Pilani](https://www.bits-pilani.ac.in/), India in 2018. 
+Hello! I'm __Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর)__ [\[CV\]](). 
+
+I'm second-year PhD student working on "Data-Efficient and Multilingual Information Retrieval" at the [University of Waterloo](https://uwaterloo.ca/) in Canada. 
+I am supervised by [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). 
+I recently completed a 6 month internship at Google Research in Mountain View, California in Winter 2022. 
+
+Prior to joining my PhD, I was as a research assistant (RA) at the [UKP Lab, Technical University of Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in Germany working with [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Dr. Nils Reimers](https://www.nils-reimers.de/). 
+I completed my bachelor's in Electronics and Instrumentation and a minor in Finance from [Birla Institute of Technology and Science, Pilani (BITS Pilani)](https://www.bits-pilani.ac.in/) in 2018. 
+Besides these experiences, I have over a year of industrial experience in Machine Learning, working as a Data Scientist in [KNOLSKAPE](https://knolskape.com/) and interning during my bachelors in the [Gibson Lab](https://www.embl.org/groups/gibson/) in EMBL Heidelberg and [Belong.co](https://belong.co/). 
 
 
-My research interests lie within NLP and Information Retrieval. I am particularly interested in how we can build __simple and scalable efficient systems which can improve the neural search paradigm__.  My long-term research ambition lies in building robust and generalizable retrieval models to help serve information better for everyone. Few of my top publications include the __BEIR Benchmark__ [(Thakur et al., NeurIPS 2021)](https://openreview.net/forum?id=wCu6T5xFjeJ), __Augmented SBERT__ [(Thakur et al., NAACL 2021)](https://aclanthology.org/2021.naacl-main.28/), __GPL__ [(Wang et al., NAACL 2022)](https://aclanthology.org/2022.naacl-main.168/) and __MIRACL__ [(Zhang and Thakur et al., 2022)](https://arxiv.org/abs/2210.09984). 
+## Research Interests
+My research interests currently lie within NLP and Information Retrieval. I investigate how to build easy, scalable and efficient systems in the neural search paradigm. My long-term research ambition lies in building robust and generalizable retrieval models to help serve information better for everyone. Few of my notable work include developing the BEIR Benchmark [(Thakur et al., NeurIPS 2021)](https://openreview.net/forum?id=wCu6T5xFjeJ) and Augmented SBERT [(Thakur et al., NAACL 2021)](https://aclanthology.org/2021.naacl-main.28/). 
 
-I have had an interesting background [story]() leading to achieving my interests towards open-source projects and research in NLP and IR. To help the research community, I am willing to mentor a few undergraduate / master students interested towards my direction. Personally, I encourage __students with diverse backgrounds__ to reach out. 
+I have an interesting background story leading to achieving my interests towards open-source projects and research in NLP and IR. To help the research community, I am willing to mentor a few undergraduate / master students interested towards my direction. Personally, I encourage __students with diverse backgrounds__ to reach out. 
 
 ## News
 - 2022/09: The MIRACL Challenge was accepted in [WSDM Cup 2023](). The Challenge is now live and looking for participants. 
