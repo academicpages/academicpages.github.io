@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm __Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর)__ [\[CV\]](). 
+:wave: Hello! I'm __Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর)__ [\[CV\]](). 
 
 I'm second-year PhD student working on "Data-Efficient and Multilingual Information Retrieval" at the [University of Waterloo](https://uwaterloo.ca/) in Canada. 
 I am supervised by [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). 
-I recently completed a 6 month internship at Google Research in Mountain View, California in Winter 2022. 
+I recently finished a 6 month internship at Google Research in Mountain View, California in Winter 2023. 
 
 Prior to joining my PhD, I was as a research assistant (RA) at the [UKP Lab, Technical University of Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in Germany working with [Prof. Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Dr. Nils Reimers](https://www.nils-reimers.de/). 
 I completed my bachelor's in Electronics and Instrumentation and a minor in Finance from [Birla Institute of Technology and Science, Pilani (BITS Pilani)](https://www.bits-pilani.ac.in/) in 2018. 
