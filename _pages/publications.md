@@ -44,6 +44,7 @@ For an updated list of publications please refer either to my [Google Scholar pr
         {% endif %}
       <p></p>
       {{ post.excerpt }}
+      <p></p>
       {{ post.affiliation }}
     </td>
   </tr>
