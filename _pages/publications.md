@@ -30,7 +30,7 @@ _Author_ | _Year_ | _Title_ | _Institute_ | DOI
 
 ## M.Tech. Thesis
 
-_Author_ | _Year_ | _Title_ | _Institute_ | DOI
+_Author_ | _Year_ | _Title_ | _University_ | DOI
 | :--- | :---: | --- | :---: | :---:
 **Borgohain, B.** | 2012 | Sequence-stratigraphy and palynostratigraphy of Eocene sediments in Bhogpara area, Dibrugarh district, upper Assam shelf basin, India | _Dibrugarh University_ | [Link](http://hdl.handle.net/10603/489468](https://www.researchgate.net/publication/259560498_Sequence-stratigraphy_and_palynostratigraphy_of_Eocene_sediments_in_Bhogpara_area_Dibrugarh_district_upper_Assam_shelf_basin_India_South_East_Asian_Journal_of_Sedimentary_Basin_Research_1_2013_19-27)https://www.researchgate.net/publication/259560498_Sequence-stratigraphy_and_palynostratigraphy_of_Eocene_sediments_in_Bhogpara_area_Dibrugarh_district_upper_Assam_shelf_basin_India_South_East_Asian_Journal_of_Sedimentary_Basin_Research_1_2013_19-27)
  
