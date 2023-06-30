@@ -21,8 +21,6 @@ For an updated list of publications please refer either to my [Google Scholar pr
       {{post.authors}}
       <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}.
       <br>
-      {{post.affiliation}}
-      <br>
         {% if post.paperurl %}
           <a href="{{post.paperurl}}">[paper]</a> /
         {% endif %}
@@ -43,6 +41,9 @@ For an updated list of publications please refer either to my [Google Scholar pr
         {% endif %}
         {% if post.dataset %}
           <a href="{{post.dataset}}">[dataset]</a> /
+        {% endif %}
+        {% if post.affiliation %}
+          <a>{{post.affiliation}}</a>
         {% endif %}
       <p></p>
       {{ post.excerpt }}
