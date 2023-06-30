@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Submitted and Under Review journal articles
+
 _Author(s)_ | _Year_ | _Title_ | _Journal_ | DOI
 | :--- | :---: | --- | :---: | :---:
 **Borgohain, B.**, Mathew, G., Salvi, D., Harbola, D.,              | 2023 | Spatial and temporal variation of erosion rate around the eastern Himalayan syntaxis: Insights from detrital thermochronometry | _Tectonics_ | [Submitted](Submitted)
