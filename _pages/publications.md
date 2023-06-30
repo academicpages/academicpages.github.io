@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-For an updated list of publications please refer either to my [Google Scholar profile](https://scholar.google.com/citations?user=CE9GJoMAAAAJ&hl=en) or [Semantic Scholar profile](https://www.semanticscholar.org/author/Nandan-Thakur/47583894). \* denotes equal contribution
+For an updated list of publications please refer either to my [Google Scholar profile](https://scholar.google.com/citations?user=CE9GJoMAAAAJ&hl=en) or [Semantic Scholar profile](https://www.semanticscholar.org/author/Nandan-Thakur/47583894). 
+
+\* denotes equal contribution
 
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 
@@ -42,6 +44,7 @@ For an updated list of publications please refer either to my [Google Scholar pr
         {% endif %}
       <p></p>
       {{ post.excerpt }}
+      {{ post.affiliation }}
     </td>
   </tr>
   {% endfor %}
