@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## Submitted and Under Review journal articles
-**Borgohain, B.**, Mathew, G., Salvi, D., Harbola, D.,  | 2023 | Spatial and temporal variation of erosion rate around the eastern Himalayan syntaxis: Insights from detrital thermochronometry | _Tectonics_ | [DOI](Submitted)
+**Borgohain, B.**, Mathew, G., Salvi, D., Harbola, D.,              | 2023 | Spatial and temporal variation of erosion rate around the eastern Himalayan syntaxis: Insights from detrital thermochronometry | _Tectonics_ | [DOI](Submitted)
 
-Rai, P., **Borgohain, B.**, Mathew, G., Dev, J A., Tomson, J. K.,  | 2023 | Eastern Himalayan river captures and upper Assam uplift: Paleo-drainage evolution of the Brahmaputra River | _Basin Research_ | [DOI](Submitted)
+Rai, P., **Borgohain, B.**, Mathew, G., Dev, J A., Tomson, J. K.,   | 2023 | Eastern Himalayan river captures and upper Assam uplift: Paleo-drainage evolution of the Brahmaputra River | _Basin Research_ | [DOI](Submitted)
 
 
 ## Peer-reviewed journal articles
