@@ -39,7 +39,7 @@ You can also find my articles on [my google scholar profile](https://scholar.goo
 ## Prior Life
 
 - [Relação entre os parâmetros de rugosidade 3D e a molhabilidade do titânio com grãos micrométricos e
-sub-micrométricos](https://www.scielo.br/j/rmat/a/vk5pBrJGBzKvTjky4NqRjgM/?lang=pt) G. Leite, Y. Fonseca, A. Gomes, and C. Elias. <em>Matéria (Rio de Janeiro)</em>, 25, 2020
+sub-micrométricos](https://www.scielo.br/j/rmat/a/vk5pBrJGBzKvTjky4NqRjgM/?lang=pt) G. Leite, Y. Fonseca, A. Gomes, and C. Elias. <em>Matéria (Rio de Janeiro)</em>, 25, 2020.
 
 - [Modeling of the influence of chemical composition, sintering temperature, density, and thickness in the
 light transmittance of four zirconia dental prostheses](https://pubmed.ncbi.nlm.nih.gov/31398941/) Y. Fonseca, C. Elias, S. Monteiro, H. Dos Santos,
@@ -47,7 +47,7 @@ and C. Dos Santos. <em>Materials</em>, 12(16), 2529, 2019.
 
 - [Extensiometric analysis of strain in craniofacial bones during implant-supported palatal expansion](https://pubmed.ncbi.nlm.nih.gov/28576607/) Elias,
 Carlos Nelson; Jogaib, Daniel; Zanivan, Daniel; Fonseca, Yuri. <em>Journal of the Mechanical Behavior of
-Biomedical Materials</em>, 2017
+Biomedical Materials</em>, 2017.
 
 
 
