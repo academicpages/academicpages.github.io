@@ -8,14 +8,14 @@ author_profile: true
 
 During my PhD at Columbia, I had the pleasure of being a teacher assistant for many interesting courses. Here are some of them.
 
-## PhD Courses
+## PhD 
 
 - Foundations of Stochastic Modelling
   - Activities: Grading, review sessions, final exam questions.
   - Terms: Spring 2020, 2022.
   - Instructor: Assaf Zeevi.
 
-## MBA Courses
+## MBA 
 
 - Managerial Statistics
   - Activities: Building and holding review sessions, grading.
@@ -32,7 +32,7 @@ During my PhD at Columbia, I had the pleasure of being a teacher assistant for m
   - Terms: Spring, Summer and Fall 2019.
   - Instructor: Daniel Guetta.
 
-## Executive MBA Courses
+## Executive MBA 
 
 - Process Improvement and Growth
   - Activities: Project feedback and grading.
