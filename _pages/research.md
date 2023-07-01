@@ -34,7 +34,7 @@ You can also find my articles on [my google scholar profile](https://scholar.goo
 
 ## Work in Progress
 
-- Targeted Finetuning of LLM for Causal Inference.  T. Cai, Y. Fonseca, K. Hou and H. Namkoong
+- Targeted Finetuning of LLM for Causal Inference.  T. Cai, Y. Fonseca, K. Hou and H. Namkoong.
   
 ## Prior Life
 
