@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-During my PhD I had the pleasure of being Teacher Assistant for many interesting courses. Here are some of them.
+During my PhD at Columbia, I had the pleasure of being a teacher assistant for many interesting courses. Here are some of them.
 
 ## PhD Courses
 
