@@ -11,7 +11,10 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-        
+
+  - title: "Note"
+    url: https://blog.getpa.net/
+
   - title: "Blog Posts"
     url: /year-archive/
     
