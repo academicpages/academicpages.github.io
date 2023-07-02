@@ -2,7 +2,7 @@
 
 layout: archive
 title: " "
-permalink: /readingnotes/
+permalink: /Notes/
 author_profile: true
 
 ---
