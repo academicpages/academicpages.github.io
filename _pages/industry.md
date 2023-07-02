@@ -7,15 +7,15 @@ author_profile: true
 
 In addition to academia, I love entrepreneurship and industry collaboration. Here are some projects I have worked on.
 
-% ## Enterpreneurship
+<!--## Enterpreneurship
 
-%- [ProtMat Advanced Materials](www.protmat.com.br)
-%  - I co-founded ProtMat during my Master's in Material Science in Brazil. The company produces advanced biomaterials for dental applications in LATAM, focusing on the digital dentistry supply chain.
-%  - The company received a seed round investment from FINEP, a federal institution in Brazil for innovation and research.
+- [ProtMat Advanced Materials](www.protmat.com.br)
+  - I co-founded ProtMat during my Master's in Material Science in Brazil. The company produces advanced biomaterials for dental applications in LATAM, focusing on the digital dentistry supply chain.
+  - The company received a seed round investment from FINEP, a federal institution in Brazil for innovation and research.
  
-%- [CashU](www.cashu.com.br)
-%  - I am a co-founder of CashU, where I am the leading Data Scientist. The company is a Brazilian Fintech focused on using state-of-the-art machine learning methods to offer BNPL in B2B e-commerces and marketplaces in LATAM. We aim to solve the credit problem for Small Businesses in countries like Brazil.
-%  - CashU is invested by the following Brazilian funds: ABSeed Ventures, Caravela Capital, Bertha Capital and SCALEXOPEN.
+- [CashU](www.cashu.com.br)
+  - I am a co-founder of CashU, where I am the leading Data Scientist. The company is a Brazilian Fintech focused on using state-of-the-art machine learning methods to offer BNPL in B2B e-commerces and marketplaces in LATAM. We aim to solve the credit problem for Small Businesses in countries like Brazil.
+  - CashU is invested by the following Brazilian funds: ABSeed Ventures, Caravela Capital, Bertha Capital and SCALEXOPEN.-->
 
 ## Applied Projects
 
