@@ -187,7 +187,7 @@ Xupeng Zhu, **Dian Wang**, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt
 <button class="button-4" onclick="window.open('https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning','_blank')">Code</button>
 <br>
 
-![](images/iclr22_sac.png){: .align-right width="200px"}
+![](images/iclr22_drawer.gif){: .align-right width="200px"}
 **SO(2)-Equivariant Reinforcement Learning**  
 **Dian Wang**, Robin Walters, Robert Platt  
 *ICLR 2022, Virtual,* ***Spotlight***  
