@@ -5,7 +5,7 @@ permalink: /industry/
 author_profile: true
 ---
 
-In addition to academia, I love entrepreneurship and industry collaboration. Here are some projects I have worked on.
+Here are some projects I have worked on.
 
 <!--## Enterpreneurship
 
