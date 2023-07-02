@@ -5,7 +5,7 @@ permalink: /industry/
 author_profile: true
 ---
 
-Here are some projects I have worked on.
+Here are some projects that I have worked on.
 
 ## Applied Projects
 
