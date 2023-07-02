@@ -16,10 +16,13 @@ Education
 
 Relevant working experience
 ======
+* Summer 2023: Internship
+  * PSAE, INRAE - Campus Agro Paris-Saclay
+  * Duties included: Economic modelling and numerical implementation for the theoretical model
+
 * 08/2018-08/2020: Research Assistant
   * Vietnam National University of Agriculture
-  * Duties included: Conducted the research and support the projects focus on Development Economic, Environmental Economics
-
+  * Duties included: Conducted the research and support the projects focusing on Development Economic, Environmental Economics
 
 * Summer 2018: Research Intern
   * Development and Policies Research Center (DEPOCEN)
