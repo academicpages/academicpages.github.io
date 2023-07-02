@@ -83,11 +83,11 @@ author:
   name             : "Shintaro UCHIYAMA"
   avatar           : "profile.jpg"
   bio              : "PhD student, Educational Technology"
-  location         : "[Toyohashi](https://www.google.com/maps/place/Toyohashi), [Aichi](https://www.google.com/maps/place/Aichi), [Japan](https://www.google.com/maps/place/Japan)"
-  employer         : "[Toyohashi Univ. of Tech.](https://www.tut.ac.jp/)"
+  location         : "Toyohashi, Aichi, Japan"
+  employer         : "Toyohashi Univ. of Tech."
   pubmed           : 
   googlescholar    : 
-  email            : "s183313<at>edu.tut.ac.jp"
+  email            : "s183313@edu.tut.ac.jp"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "www.getpa.net"
   bitbucket        :
