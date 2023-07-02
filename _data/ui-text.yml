@@ -268,3 +268,42 @@ it-IT:
 
 # Another locale
 # --------------
+ja: &DEFAULT_JA
+  page                       : "ページ"
+  pagination_previous        : "戻る"
+  pagination_next            : "次へ"
+  breadcrumb_home_label      : "ホーム"
+  breadcrumb_separator       : "/"
+  toc_label                  : "目次"
+  ext_link_label             : "ダイレクトリンク"
+  less_than                  : "〜"
+  minute_read                : "分で読めます"
+  share_on_label             : "シェア"
+  meta_label                 :
+  tags_label                 : "タグ："
+  categories_label           : "カテゴリ："
+  date_label                 : "Published:"
+  comments_label             : "コメントを残す"
+  comments_title             : "コメント"
+  more_label                 : "もっと読む"
+  related_label              : "こちらもどうぞ"
+  follow_label               : "フォロー："
+  feed_label                 : "フィード"
+  powered_by                 : "Powered by"
+  website_label              : "ウェブサイト"
+  email_label                : "メールアドレス"
+  recent_posts               : "最近の投稿"
+  undefined_wpm              : "words_per_minuteが_config.ymlで未定義です"
+  comment_form_info          : "メールアドレスは公開されません（* 必須フィールド）"
+  comment_form_comment_label : "コメント"
+  comment_form_md_info       : "Markdownを利用できます"
+  comment_form_name_label    : "お名前"
+  comment_form_email_label   : "メールアドレス"
+  comment_form_website_label : "ウェブサイト（任意）"
+  comment_btn_submit         : "送信"
+  comment_btn_submitted      : "送信されました"
+  comment_success_msg        : "コメントありがとうございます！承認後に表示されます。"
+  comment_error_msg          : "内容に不備があります．必須項目を入力してください．"
+  loading_label              : "読み込み中..."
+ja-JP:
+  <<: *DEFAULT_JA
