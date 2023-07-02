@@ -1,8 +1,10 @@
 ---
-permalink: /
-title: "Notes"
+
+layout: archive
+title: " "
+permalink: /readingnotes/
 author_profile: true
-redirect_from: 
+
 ---
 
 Fonctional Analysis
