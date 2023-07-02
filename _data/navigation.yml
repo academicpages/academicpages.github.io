@@ -6,8 +6,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "Industry"
-    url: /industry/    
+  #- title: "Industry"
+  #  url: /industry/    
     
-  - title: "CV"
-    url: /cv_update/
+  #- title: "CV"
+  #  url: /cv_update/
