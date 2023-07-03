@@ -27,6 +27,9 @@ redirect_from:
  - "A Three-Dimensional Numerical Investigation of Taylor Cone Jet Instabilities Using the VOF Method" by S. Cândido & J. Páscoa
  - "Improving Efficiency of Automotive Coating and Curing Processes Through Deep Learning Algorithms and High-Fidelity CFD Modeling" by S. Cândido, M. Pendar & J. Páscoa
 
+[Encontro Ciência 2023 - Encontro com a Ciência e Tecnologia em Portugal](https://www.encontrociencia.pt/2023/pt), Aveiro, Portugal (05/07/2023 - 07/07/2023): <br>
+ - e-Poster "Advances on Modelling the Atomization of Electrohydrodynamic Jets"
+
 ## A bit more about me...
 
   <div class="container">
