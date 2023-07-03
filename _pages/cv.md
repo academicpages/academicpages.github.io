@@ -11,35 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSc in Mathematics, University of Nantes, 2018
+* MSc in computer science, Université Paris Dauphine PSL, 2021
+* Ph.D in Computer Science, Université Paris Dauphine PSL, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-2019
+  * Professor of Mathematics in high school
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2021: Research internship
+  * Paris Dauphine University PSL
+  * Supervisor: Denis Cornaz
   
-Skills
+Programming
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Scilab
 
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
+    {% [include archive-single-cv.html](https://arxiv.org/abs/2306.06383) %}
   {% endfor %}</ul>
   
 Talks
