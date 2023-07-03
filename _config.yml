@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Sébastien Kerleau"
-  avatar           : "sebprofile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "sebprofile.png"
+  bio              : "Second year PhD student at Lamsade, Université Paris Dauphine PSL"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
