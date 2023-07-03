@@ -12,12 +12,15 @@ Research
 ======
 * Explicit design of complex surface structure (ongoing, topic of doctoral dissertation)
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2021.03-present
-* Rob, LDM, SC, RST, MR, 2023.03-present (in preparation)
+* Rob, LDM, SC, RST, 2023.03-present (in preparation)
 * Hit think, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.05-present (in preparation)
 * FracMem, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.01-present (ongoing)
+* Component revolution (ongoing)
+  * Collaborated with Xiaoyang Li
+  * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.06-present
 * Tomo, supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.10-present (ongoing)
 * SL (ongoing)
-  * Collaborated with Mr. Wu Xu
+  * Collaborated with Wu Xu
   * Supervised by Prof. Xu Guo, Prof. Weisheng Zhang, and Prof. Chang Liu, 2022.06-present
 * Solid embedded components for thin-walled structures (done)
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.03-2023.06
