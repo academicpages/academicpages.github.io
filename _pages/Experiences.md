@@ -8,13 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-Software development
-======
-* Solid embedded components for complex thin-walled structures, in preparation
-* Explicit tomo for complex thin-walled structures, 2023.06-present
-* Explicit layout optimization of complex rib-reinforced thin-walled structures, 2023.02-present
-* Explicit topology optimization of shell structures, 2022.06-present
-
 Research
 ======
 * Explicit design of complex surface structure (ongoing, topic of doctoral dissertation)
@@ -43,9 +36,12 @@ Research
   * Collaborated with Mr. Zhenyu Zhu, Mr. Linsheng Shan, Mr. Guangming Li
   * Supervised by Prof. Xiaobao Li, 2017.06-2019.03
 
-Engineering projects
+Software development
 ======
-* C 8-times, H 1-time, X 1-time
+* Solid embedded components for complex thin-walled structures, in preparation
+* Explicit tomo for complex thin-walled structures, 2023.06-present
+* Explicit layout optimization of complex rib-reinforced thin-walled structures, 2023.02-present
+* Explicit topology optimization of shell structures, 2022.06-present
 
 Contests
 ======
@@ -60,6 +56,10 @@ Contests
   * Collaborated with Xubing Cheng, Zhuofan Ni, and Guangming Li
 * High School Physics Competition, 2011
   * A tour to the 168 high school on a balmy day
+
+Engineering projects
+======
+* C 8-times, H 1-time, X 1-time
 
 {% for post in site.experiences reversed %}
   {% include archive-single.html %}
