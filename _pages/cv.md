@@ -29,6 +29,7 @@ Work experience
   * University of California San Diego (UCSD)
   * Duties included:
       + Assist with hardware building
+      + Conducting experiments
       + Trouble shooting on both hard-and-software side
       + Learning about *Reinforcement Learning Techniques*
       + 
