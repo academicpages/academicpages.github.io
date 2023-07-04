@@ -19,5 +19,5 @@ Project: ECG-Based Arrhythmia Detection
 Project: Abnormality Detection on Chest Radiographs
 
 * **01/2020 - 09/2020**<br />
-**Research Intern - Artificial Intelligence Solution for Industrial Applications Research Lab, VNUHCM-US**<br />
+**Research Intern - Artificial Intelligence Solution for Industrial Applications Research Lab, VNU-HCMUS**<br />
 Project: Vietnamese Natural Language Processing
