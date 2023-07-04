@@ -10,9 +10,9 @@ redirect_from:
 
 # Educational Background
 
-I have completed my Bachelor's degree in *Measurement and Control Technique and Equipment* from Beijing University of Technology (BJUT). Building upon my undergraduate education, I pursued a Master's degree in *Mechanical and Aerospace Engineering* at the University of California San Diego (UCSD). My Master's degree journey involved intensive thesis writing, conducted under the exceptional guidance of Professor [Michael T. Tolley](https://jacobsschool.ucsd.edu/node/3561) in the renowned [Bioinspired Robotics and Design Lab](https://sites.google.com/eng.ucsd.edu/bioinspired/).
+I have completed my Bachelor's degree in *Measurement and Control Technique and Equipment* from the **Beijing University of Technology (BJUT)**. Building upon my undergraduate education, I pursued a Master's degree in *Mechanical and Aerospace Engineering* at the **University of California San Diego (UCSD)**. My Master's degree journey involved intensive thesis writing, conducted under the exceptional guidance of Professor [Michael T. Tolley](https://jacobsschool.ucsd.edu/node/3561) in the renowned [Bioinspired Robotics and Design Lab](https://sites.google.com/eng.ucsd.edu/bioinspired/).
 
-Currently, I am privileged to work as a Research Assistant in Professor [Xiaolong Wang's Lab](https://xiaolonw.github.io/group.html) at the University of California San Diego (UCSD). Under the guidance of Professor Wang, I actively contribute to cutting-edge research projects around the directions of Computer Vision, Machine Learning and Robotics, collaborating with a team of talented researchers. 
+Currently, I am privileged to work as a Research Assistant in Professor [Xiaolong Wang's Lab](https://xiaolonw.github.io/group.html) at the **University of California San Diego (UCSD)**. Under the guidance of Professor Wang, I actively contribute to cutting-edge research projects around the directions of Computer Vision, Machine Learning, and Robotics, collaborating with a team of talented researchers. 
 
 You can find my CV here: [Chengzhe Jia's Curriculum Vitae](../assets/CV_Chengzhe Jia.pdf).
 
