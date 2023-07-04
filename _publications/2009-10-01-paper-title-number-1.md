@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Percussion Characteristic Analysis for Hydraulic Rock Drill with no Constant-Pressurized Chamber through Numerical Simulation and Experiment"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2019
+venue: 'Advances in Mechanical Engineering'
+paperurl: 'http://academicpages.github.io/files/ma-et-al-2019-percussion-characteristic-analysis-for-hydraulic-rock-drill-with-no-constant-pressurized-chamber-through.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/ma-et-al-2019-percussion-characteristic-analysis-for-hydraulic-rock-drill-with-no-constant-pressurized-chamber-through.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Ma, W., Geng, X., Jia, C., Gao, L., Liu, Y. and Tian, X., 2019. Percussion characteristic analysis for hydraulic rock drill with no constant-pressurized chamber through numerical simulation and experiment. Advances in Mechanical Engineering, 11(4), p.1687814019841486.
