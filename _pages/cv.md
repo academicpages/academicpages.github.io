@@ -44,7 +44,7 @@ redirect_from:
     + Julia
     + LabVIEW
     + SPSS
-* Drawing and Modeling Software：
+* Drawing & Modeling Software：
   + CAD
   + Fusion 360
   + SolidWorkes
@@ -54,13 +54,13 @@ redirect_from:
     + Android Studio
     + Latex
     + Markdown
-* Other Software:
+* Other System & Software:
     + Arduino
     + OverLeaf
     + Ubuntu
     + Tracker
     + Blender
-* Hands-on Skills:
+* Hands-on Skill:
     + Circuit soldering
     + Silicone molding
     + Cooking (*proud~*)
