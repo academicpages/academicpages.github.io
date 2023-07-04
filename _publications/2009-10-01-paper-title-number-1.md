@@ -1,7 +1,6 @@
 ---
 title: "Percussion Characteristic Analysis for Hydraulic Rock Drill with no Constant-Pressurized Chamber through Numerical Simulation and Experiment"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
 date: 2019
 venue: 'Advances in Mechanical Engineering'
 paperurl: 'https://doi.org/10.1177/1687814019841486'
