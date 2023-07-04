@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in China, Beijing University of Technology (BJUT), 2016-2020
+* M.S. in US, University of California San Diego (UCSD), 2021-2023
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Lab Intern
+  * Institute of Metrology, National Institute of Metrology, China
+  * Duties included:
+      + Learned the practical operation of measuring instruments like angular gage block, dividing head and autocollimation
+      + Mastered the use of Trioptics and processed measured data by Excel
+      + Conducted inspection instruments test
+  * Supervisor: Dr. Yao Huang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2023 - Now: Full Time Research Assistant
+  * University of California San Diego (UCSD)
+  * Duties included: s
+  * Supervisor: Professor Xiaolong Wang
   
 Skills
 ======
