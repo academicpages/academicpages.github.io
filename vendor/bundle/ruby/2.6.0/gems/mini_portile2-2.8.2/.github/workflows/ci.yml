@@ -1,0 +1,71 @@
+name: Continuous Integration
+concurrency:
+  group: "${{github.workflow}}-${{github.ref}}"
+  cancel-in-progress: true
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - v*.*.x
+    tags:
+      - v*.*.*
+  pull_request:
+    types: [opened, synchronize]
+    branches:
+      - "*"
+  schedule:
+    - cron: "0 8 * * 5" # At 08:00 on Friday # https://crontab.guru/#0_8_*_*_5
+
+jobs:
+  test-unit:
+    env:
+      MAKEFLAGS: -j2
+    strategy:
+      fail-fast: false
+      matrix:
+        platform: [ubuntu-latest, windows-latest, macos-latest]
+        ruby: ["2.3", "2.4", "2.5", "2.6", "2.7", "3.0", "3.1", "3.2", "head"]
+    runs-on: ${{ matrix.platform }}
+    steps:
+      - name: configure git crlf on windows
+        if: matrix.platform == 'windows-latest'
+        run: |
+          git config --system core.autocrlf false
+          git config --system core.eol lf
+      - uses: actions/checkout@v3
+      - uses: MSP-Greg/setup-ruby-pkgs@v1
+        with:
+          apt-get: _update_ build-essential cmake
+          mingw: _upgrade_ cmake
+          ruby-version: ${{ matrix.ruby }}
+          bundler-cache: true
+      - run: bundle exec rake test:unit
+
+  test-examples:
+    env:
+      MAKEFLAGS: -j2
+    strategy:
+      fail-fast: false
+      matrix:
+        platform: [ubuntu-latest, windows-latest, macos-latest]
+        ruby: ["3.1"]
+    runs-on: ${{ matrix.platform }}
+    steps:
+      - name: configure git crlf on windows
+        if: matrix.platform == 'windows-latest'
+        run: |
+          git config --system core.autocrlf false
+          git config --system core.eol lf
+      - uses: actions/checkout@v3
+      - uses: MSP-Greg/setup-ruby-pkgs@v1
+        with:
+          apt-get: _update_ build-essential cmake
+          mingw: _upgrade_ cmake
+          ruby-version: ${{ matrix.ruby }}
+          bundler-cache: true
+      - uses: actions/cache@v3
+        with:
+          path: examples/ports/archives
+          key: ${{ matrix.platform }}-examples-${{ hashFiles('examples/Rakefile') }}
+      - run: bundle exec rake test:examples

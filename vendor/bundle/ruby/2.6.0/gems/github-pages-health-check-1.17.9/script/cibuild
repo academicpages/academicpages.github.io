@@ -1,0 +1,11 @@
+#!/bin/sh
+
+set -ex
+
+script/bootstrap
+
+script/test $@
+script/check-cdn-ips
+bundle exec script/check www.parkermoore.de | grep 'valid?: true'
+bundle exec script/check ben.balter.com | grep 'valid?: true'
+bundle exec gem build github-pages-health-check.gemspec

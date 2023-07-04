@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-
-======
+## Education
 
 * Ph.D in Computer Science and Engineering, University of Notre Dame, 2021 - Present
 * B.S. in Computer Science, University of Alabama, 2018 - 2021
+
+## Publications
