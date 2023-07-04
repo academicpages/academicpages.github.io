@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Summer 2019: Lab Intern
+* Summer 2019 : Lab Intern
   * Institute of Metrology, National Institute of Metrology, China
   * Duties included:
       + Learned the practical operation of measuring instruments like angular gage block, dividing head and autocollimation
@@ -25,19 +25,33 @@ Work experience
       + Conducted inspection instruments test
   * Supervisor: Dr. Yao Huang
 
-* Spring 2023 - Now: Full Time Research Assistant
+* Spring 2023 - Now : Full Time Research Assistant
   * University of California San Diego (UCSD)
   * Duties included: s
   * Supervisor: Professor Xiaolong Wang
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mathematical Software:
+    + MATLAB
+    + Julia
+    + LabVIEW
+    + SPSS
+* Drawing and Modeling Software：
+  + CAD
+  + Fusion 360
+  + SolidWorkes
+* Computer Language:
+    + PyThon
+    + C#
+    + Android Studio
+    + Latex
+    + Markdown
+* Other Software:
+    + Arduino
+    + Ubuntu
+    + Tracker
+    + Blender
 
 Publications
 ======
@@ -45,18 +59,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Team Leader in Group of Five, National University Student Innovation Program, Awarded the Second Prize of the 12th iCAN International Contest of Innovation (BJUT Division)
+* Deputy Director of Reasoning Board Game Club for two years
+
