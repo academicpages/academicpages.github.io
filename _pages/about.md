@@ -10,7 +10,9 @@ redirect_from:
 
 # Educational Background
 
-I have successfully completed my Bachelor's degree in *Measurement and Control Technique and Equipment* from Beijing University of Technology (BJUT). Following that, I pursued my Master's degree in *Mechanical and Aerospace Engineering* at the esteemed University of California San Diego (UCSD).
+I have successfully completed my Bachelor's degree in *Measurement and Control Technique and Equipment* from Beijing University of Technology (BJUT). Building upon my undergraduate education, I pursued a Master's degree in *Mechanical and Aerospace Engineering* at the esteemed University of California San Diego (UCSD). My Master's degree journey involved intensive thesis writing, conducted under the exceptional guidance of Professor [Michael T. Tolley](https://jacobsschool.ucsd.edu/node/3561) in the renowned [Bioinspired Robotics and Design Lab](https://sites.google.com/eng.ucsd.edu/bioinspired/).
+
+Currently, I am privileged to work as a Research Assistant in Professor [Xiaolong Wang's Lab](https://xiaolonw.github.io/group.html) at the University of California San Diego (UCSD). Under the guidance of Professor Wang, I actively contribute to cutting-edge research projects and collaborate with a team of talented researchers. 
 
 You can find my CV here: [Chengzhe Jia's Curriculum Vitae](../assets/CV_Chengzhe Jia.pdf).
 
@@ -24,4 +26,8 @@ Throughout my academic journey, I have developed a strong passion for research i
 
 ***
 
-[Email](mailto: c2jia@ucsd.edu)
+I invite you to explore my personal webpage to learn more about my educational journey, research projects, and academic achievements. Please feel free to reach out to me with any inquiries or exciting collaboration opportunities.
+
+***
+
+[Email](mailto:c2jia@ucsd.edu)
