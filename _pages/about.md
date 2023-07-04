@@ -9,6 +9,5 @@ redirect_from:
   - 
 ---
 
-I am a PhD candidate in Political Science at Yale University. I specialize in international political economy with a particular focus on foreign aid, climate, and ethnic politics.  I also work on the politics of science and international status. 
+I am a postdoctoral fellow at the Browne Center for International Relations at the University of Pennsylvania and a PhD candidate in Political Science at Yale University. I specialize in international political economy with a particular focus on foreign aid, climate, and ethnic politics.  I also work on the politics of science and international status. 
 
-In fall 2023, I will be a postdoctoral fellow at the Browne Center for International Relations at the University of Pennsylvania.
