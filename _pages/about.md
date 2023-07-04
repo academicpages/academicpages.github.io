@@ -16,12 +16,42 @@ Prior to the Ph.D. program, I received my Master's degree in Computer Science fr
 Email: wang dot dian at northeastern dot edu
 
 ## News
-- 06/2023: I am honored to receive the 2023 JP Morgan Chase PhD Fellowship!
-- 04/2023: I give a guest lecture, [Equivariant Learning for Robotic Manipulation](https://www.youtube.com/watch?v=dx5rDtdv7LM). The lecture summarizes our latest research, so be sure to check it out!
-- 03/2023: We are organizing the [Workshop on Symmetries in Robot Learning](https://sites.google.com/view/rss23-sym) at RSS 2023. 
-- 02/2023: I will be joining the Boston Dynamic AI Institute as a summer intern.
-- 01/2023: Our paper [The Surprising Effectiveness of Equivariant Models in Domains with Latent Symmetry](https://arxiv.org/pdf/2211.09231.pdf) is accepted at ICLR 2023 as a spotlight presentation.
-- 01/2023: Two papers are accepted at ICRA 2023.
+<style>
+#myList {
+    margin-bottom: 0;
+}
+#myList li:nth-child(n+6) {
+    display: none;
+}
+#more {
+    cursor: pointer;
+    color: #52adc8; /* Replace with your desired color */
+    margin-left: 1.5em; /* Adjust as needed */
+    margin-top: 0;
+    display: inline-block;
+}
+</style>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  document.getElementById("more").addEventListener("click", function(){
+      var listItems = document.querySelectorAll('#myList li:nth-child(n+6)');
+      for(var i=0; i<listItems.length; i++){
+        listItems[i].style.display = 'list-item';
+      }
+      this.style.display = 'none';
+  });
+});
+</script>
+
+<ul id="myList">
+  <li>06/2023: I am honored to receive the 2023 JP Morgan Chase PhD Fellowship!</li>
+  <li>04/2023: I give a guest lecture, <a href="https://www.youtube.com/watch?v=dx5rDtdv7LM">Equivariant Learning for Robotic Manipulation</a>. The lecture summarizes our latest research, so be sure to check it out!</li>
+  <li>03/2023: We are organizing the <a href="https://sites.google.com/view/rss23-sym">Workshop on Symmetries in Robot Learning</a> at RSS 2023.</li>
+  <li>02/2023: I will be joining the Boston Dynamic AI Institute as a summer intern.</li>
+  <li>01/2023: Our paper <a href="https://arxiv.org/pdf/2211.09231.pdf">The Surprising Effectiveness of Equivariant Models in Domains with Latent Symmetry</a> is accepted at ICLR 2023 as a spotlight presentation.</li>
+  <li>01/2023: Two papers are accepted at ICRA 2023.</li>
+</ul>
+<a id="more" href="javascript:void(0)">more ▾</a>
 
 ## Publication
 <style>
