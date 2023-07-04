@@ -16,5 +16,5 @@ The MAE-207-Haptic devise I took was taught by Professor Tania Morimoto. This co
 
 # Video Gallery
 
-['Hapkit' joystick simulating a virtual wall](https://youtube.com/shorts/L8_0FRReC8g).
-['Hapkit' joystick simulating a virtual mass-spring-damping system](https://youtube.com/shorts/MGIuAxKyXMA).
+* ['Hapkit' joystick simulating a virtual wall](https://youtube.com/shorts/L8_0FRReC8g).
+* ['Hapkit' joystick simulating a virtual mass-spring-damping system](https://youtube.com/shorts/MGIuAxKyXMA).
