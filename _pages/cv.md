@@ -27,7 +27,11 @@ Work experience
 
 * Spring 2023 - Now : Full Time Research Assistant
   * University of California San Diego (UCSD)
-  * Duties included: s
+  * Duties included:
+      + Assist with hardware building
+      + Trouble shooting on both hard-and-software side
+      + Learning about *Reinforcement Learning Techniques*
+      + 
   * Supervisor: Professor Xiaolong Wang
   
 Skills
@@ -49,9 +53,14 @@ Skills
     + Markdown
 * Other Software:
     + Arduino
+    + OverLeaf
     + Ubuntu
     + Tracker
     + Blender
+* Hands-on Skills:
+    + Circuit soldering
+    + Silicone molding
+    + Cooking (*proud~*)
 
 Publications
 ======
