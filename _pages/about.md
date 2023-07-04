@@ -22,7 +22,7 @@ You can find my CV here: [Chengzhe Jia's Curriculum Vitae](../assets/CV_Chengzhe
 
 Throughout my academic journey, I have developed a strong passion for research in the field of Robotics. My current areas of expertise and interest encompass:
 
-*Robotic Design, *Haptic Devices, *Exoskeleton, *Soft Robotics, and *Soft Sensors. 
+* Robotic Design, * Haptic Devices, * Exoskeleton, * Soft Robotics, and * Soft Sensors. 
 
 ***
 # Contact information
