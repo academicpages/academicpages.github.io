@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 date: 2019
 venue: 'Advances in Mechanical Engineering'
-paperurl: 'http://academicpages.github.io/files/ma-et-al-2019-percussion-characteristic-analysis-for-hydraulic-rock-drill-with-no-constant-pressurized-chamber-through.pdf'
+paperurl: 'https://doi.org/10.1177/1687814019841486'
 ---
 
 [Download paper here](http://academicpages.github.io/files/ma-et-al-2019-percussion-characteristic-analysis-for-hydraulic-rock-drill-with-no-constant-pressurized-chamber-through.pdf)
