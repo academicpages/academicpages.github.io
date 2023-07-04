@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chengzhe Jia"
+  name             : "Chengzhe Jia (贾丞喆)"
   avatar           : "001.png"
-  bio              : "Graduated Master from University of California San Diego (UCSD)"
-  location         : 
+  bio              : "University of California San Diego (UCSD)"
+  location         : "US, California"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "https://github.com/JaKing98"
   google_plus      :
   keybase          :
   instagram        :
