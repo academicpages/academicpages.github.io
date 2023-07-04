@@ -18,20 +18,20 @@ redirect_from:
 ***
 
 # Work experience
-* Summer 2019 : Lab Intern
+* Summer 2019: Lab Intern
   * Institute of Metrology, National Institute of Metrology, China
   * Duties included:
-      + Learned the practical operation of measuring instruments like angular gage block, dividing head and autocollimation
-      + Mastered the use of Trioptics and processed measured data by Excel
+      + Learned the practical operation of measuring instruments like angular gage block, dividing head, and autocollimation
+      + Mastered the use of Trioptics and processed measured data in Excel
       + Conducted inspection instruments test
   * Supervisor: Dr. Yao Huang
 
-* Spring 2023 - Now : Full Time Research Assistant
+* Spring 2023 - Now: Full-Time Research Assistant
   * University of California San Diego (UCSD)
   * Duties included:
       + Assist with hardware building
       + Conducting experiments
-      + Trouble shooting on both hard-and-software side
+      + Troubleshooting on both hard-and-software side
       + Learning about *Reinforcement Learning Techniques*
       + 
   * Supervisor: Professor Xiaolong Wang
@@ -57,6 +57,7 @@ redirect_from:
 * Other System & Software:
     + Arduino
     + OverLeaf
+    + Processing
     + Ubuntu
     + Tracker
     + Blender
