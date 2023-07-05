@@ -1,5 +1,5 @@
 ---
-title: "Steering Wheel Design with Force Feedback (MAE-207-Hpatic)"
+title: "Steering Wheel Design with Force Feedback (MAE-207 Hpatic)"
 excerpt: "<br/><img src='/images/mae207_02.png'>"
 collection: portfolio
 ---
