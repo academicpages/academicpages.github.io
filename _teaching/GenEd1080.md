@@ -1,7 +1,7 @@
 ---
 title: "Gen Ed 1080 - How Music Works: Engineering the Acoustical World"
 collection: teaching
-type: "Teaching fellow for undergraduate course (Fall 2021 and 2022)"
+type: "Teaching fellow for undergraduate course (Falls 2021-2023)"
 permalink: /teaching/GenEd1080
 venue: "Harvard University, Program in General Education"
 location: "Cambridge, MA"
