@@ -3,7 +3,7 @@ title: "Learning sparse codes from compressed representations with biologically 
 collection: publications
 permalink: /publication/2020-05-local-sparse-coding
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2020-05
+date: 2020-05-01
 venue: 'Advances in Neural Information Processing Systems 33'
 paperurl: 'https://proceedings.neurips.cc/paper/2020/hash/a03fec24df877cc65c037673397ad5c0-Abstract.html'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
