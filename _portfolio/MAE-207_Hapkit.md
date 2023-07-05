@@ -1,5 +1,5 @@
 ---
-title: "Custom Haptic Device 'Hapkit' Building (MAE-207-Hpatic)"
+title: "Custom Haptic Device 'Hapkit' Building (MAE-207 Hpatic)"
 excerpt: "<br/><img src='/images/mae207_01.png'>"
 collection: portfolio
 ---
