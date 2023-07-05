@@ -14,4 +14,4 @@ author_profile: true
 {% include publications link=true venue_search="rxiv" %}
 
 ### Published Articles
-{% include publications link=true venue_exclude="bioRxiv;PsyArXiv" venue_search_exclude="rxiv" %}
+{% include publications link=true venue_exclude="bioRxiv;PsyArXiv" venue_search_exclude="rxiv;Rxiv" %}
