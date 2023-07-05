@@ -28,8 +28,8 @@ redirect_from:
  - "Improving Efficiency of Automotive Coating and Curing Processes Through Deep Learning Algorithms and High-Fidelity CFD Modeling" by S. Cândido, M. Pendar & J. Páscoa
 
 [Encontro Ciência 2023 - Encontro com a Ciência e Tecnologia em Portugal](https://www.encontrociencia.pt/2023/pt), Aveiro, Portugal (05/07/2023 - 07/07/2023): <br>
- - e-Poster "Advances on Modelling the Atomization of Electrohydrodynamic Jets" <a href="/files/poster_encontrociencia2023.svg" download>
-  <img width="54" height="54" src="https://img.icons8.com/glyph-neue/64/228BE6/export-pdf.png" alt="export-pdf"/>
+ - e-Poster "Advances on Modelling the Atomization of Electrohydrodynamic Jets" <a href="/files/poster_encontrociencia2023.pdf" download>
+  <img width="44" height="44" src="https://img.icons8.com/glyph-neue/64/228BE6/export-pdf.png" alt="export-pdf"/>
 </a>
 
 
