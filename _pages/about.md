@@ -18,6 +18,10 @@ I am currently a PhD student in [the School of Information](https://ischool.ubc.
 
 # Publications:
 
+* **Talafha, B.**, Waheed, A., & Abdul-Mageed, M. (2023). N-Shot Benchmarking of Whisper on Diverse Arabic Speech Recognition. arXiv preprint arXiv:2306.02902.
+
+* Za'ter, M. E., & **Talafha, B.** (2022). Bench-Marking And Improving Arabic Automatic Image Captioning Through The Use Of Multi-Task Learning Paradigm. arXiv preprint arXiv:2202.05474.
+
 * **Talafha, B.**, Za’Ter, M. E., Suleiman, S., Al-Ayyoub, M., & Al-Kabi, M. N. (2021, November). sarcasm detection and quantification in arabic tweets. In 2021 IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI) (pp. 1121-1125). IEEE.
 
 * **Talafha, B.**, Abuammar, A., & Al-Ayyoub, M. (2021). ATAR: Attention-based LSTM for Arabizi transliteration. International Journal of Electrical and Computer Engineering (IJECE), 11(3), 2327-2334.
