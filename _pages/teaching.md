@@ -10,6 +10,8 @@ author_profile: true
   - /teaching.md -->
 #### Spring 2023
     NRSC 2223, Neuroethology, Univ of Penn
+#### Fall 2022
+    BIOL 2510, Statistics for Biologists (UG, MA) Univ of Penn
 #### Spring 2022
     CIS 522, Deep Learning for Data Science, Univ of Penn
 #### Fall 2021
