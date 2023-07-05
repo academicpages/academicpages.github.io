@@ -7,7 +7,7 @@ title: "Research"
 ## Working Papers
 
 ### Propaganda
-* Deng, Rex Weiye. **Does Negative Propaganda against Foreign Rivals Cultivate Regime-Stabilizing Attitudes? Evidence from China.** _Under Review._
+  * Deng, Rex Weiye. **Does Negative Propaganda against Foreign Rivals Cultivate Regime-Stabilizing Attitudes? Evidence from China.** Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478410).
 
 <details><summary>Abstract</summary>
 
