@@ -127,7 +127,7 @@ document.addEventListener("DOMContentLoaded", function() {
 **On Robot Grasp Learning Using Equivariant Models**  
 Xupeng Zhu, **Dian Wang**, Guanang Su, Ondrej Biza, Robin Walters, Robert Platt  
 *Autonomous Robots. 2023*  
-<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2306.06489.pdf','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://link.springer.com/content/pdf/10.1007/s10514-023-10112-w.pdf','_blank')">PDF</button>
 <br>
 
 ![](images/iclr23.gif){: .align-right width="200px"}
