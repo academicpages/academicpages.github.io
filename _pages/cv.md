@@ -66,16 +66,18 @@ redirect_from:
     + PyThon
     + C#
     + Android Studio
-    + Latex
-    + Markdown
 * Other System & Software:
     + Arduino
-    + OverLeaf
     + Processing
-    + Ubuntu
     + Tracker
     + Blender
+    + Latex
+    + Markdown
+    + Ubuntu
+    + Linux
 * Hands-on Skill:
+    + Structural Design
+    + Prototype production
     + Circuit soldering
     + Silicone molding
     + Cooking (*proud~*)
