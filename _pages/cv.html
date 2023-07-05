@@ -1,0 +1,57 @@
+---
+layout: archive
+title: " My CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #ffffff;
+    }
+    .fix {
+        margin-bottom: 800px;
+    
+    }
+    
+  .download-link {
+    display: inline-block;
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+    background-color: #00C853;
+    padding: 10px 20px;
+    margin: 10px 0;
+    border-radius: 5px;
+    
+    transition: background-color 0.3s ease;
+  }
+  
+  .download-link:hover {
+    background-color: #512DA8;
+  }
+
+
+  </style>
+</head>
+<body>
+    {% include base_path %}
+    <a class="download-link" href="../files/WimerCV.pdf" download>Download PDF version</a>
+
+    <embed class="fix" src="../files/WimerCV.pdf" type="application/pdf" width="95%" >
+
+  
+  
+  
+  <!-- Other sections follow the same structure -->
+
+</body>
+</html>

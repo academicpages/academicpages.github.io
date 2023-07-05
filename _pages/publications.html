@@ -1,0 +1,95 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #ffffff;
+    }
+    h1 {
+      color: #333;
+    }
+    .publications-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+    .publication {
+      display: flex;
+      align-items: center;
+      width: 95%;
+      margin-bottom: 20px;
+      padding: 20px;
+      background-color: #EDE7F6;
+      border-radius: 10px;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+    .publication img {
+        margin-right: 20px;
+      width: 100%; /* full width of parent */
+      border-radius: 5px;
+    }
+    .publication-img-container {
+      width: 30%; /* Width of container */
+      margin-right: 10px; /* Space between img container and content */
+    }
+    .publication-img-container h3 {
+        text-align: center;
+        margin-top: 5px;
+    }
+    .publication-title {
+      font-size: 1.2em;
+      margin: 0;
+      
+    }
+    .publication-title a {
+      text-decoration: none;
+      color: #673AB7;
+    }
+    .publication-description {
+      margin: 10px 0;
+    }
+    .publication-link {
+      display: block;
+      margin-top: 0px;
+      text-decoration: none;
+      color: #673AB7;
+      font-weight: bold;
+    }
+    .publication:last-of-type {
+      margin-bottom: 300px; /* Adjust this value to add more or less space */
+    }
+  </style>
+</head>
+<body>
+
+  {% if author.googlescholar %}
+    <p>You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u></p>
+  {% endif %}
+
+  <div class="publications-container">
+    {% for post in site.publications reversed %}
+      <div class="publication">
+        <div class="publication-img-container">
+            <img src="{{ post.image }}" alt="{{ post.title }}">
+            <h3> {{ post.abv }}</h3>
+          </div>
+        <div>
+          <h2 class="publication-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          <p> {{post.authors}}</p>
+          <a class="publication-link" href="{{ post.paperurl }}">[Paper PDF]</a>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</body>
+</html>
