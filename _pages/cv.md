@@ -58,7 +58,7 @@ redirect_from:
     + Julia
     + LabVIEW
     + SPSS
-* Drawing & Modeling Software：
+* Drawing & Modeling Software:
   + CAD
   + Fusion 360
   + SolidWorkes
