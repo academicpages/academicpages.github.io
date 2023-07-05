@@ -10,7 +10,7 @@
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
-
+  padding-bottom: auto;
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
@@ -73,10 +73,10 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
