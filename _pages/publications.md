@@ -7,7 +7,16 @@ author_profile: true
 
 ### 2023
 
+- **VLDB 2023 - Conditional Accept** Language Models Enable Simple Systems for Generating Structured Views of Heterogeneous Data Lakes. _Simran Arora, Brandon Yang, Sabri Eyuboglu, Avanika Narayan, Andrew Hojel, Immanuel Trummer, Christopher Re_. 
+- **VLDB 2023 - Conditional Accept** Can Large Language Models Predict Data Correlations from Column Names? _Immanuel Trummer_.
+- **VLDB 2023 - Conditional Accept** Quantum-Inspired Digital Annealing for Join Ordering. _Manuel Schönberger, Immanuel Trummer, Wolfgang Mauerer_.
 - **VLDB 2023** SkinnerMT: parallelizing for efficiency and robustness in adaptive query processing on multicore platforms. _Ziyun Wei, Immanuel Trummer_.
+- **VLDB 2023** ADOPT: Adaptively Optimizing Attribute Orders for Worst-Case Optimal Join Algorithms via Reinforcement Learning. _Junxiong Wang, Immanuel Trummer, Amet Kara, Dan Olteanu_.
+- **VLDB 2023 QDSM** Quantum Optimisation of General Join Trees. _Manuel Schönberger, Immanuel Trummer, Wolfgang Mauerer_.
+- **VLDB 2023** Demonstrating ADOPT: Adaptively Optimizing Attribute Orders for Worst-Case Optimal Joins via Reinforcement Learning. _Junxiong Wang, Immanuel Trummer, Amet Kara, Dan Olteanu_.
+- **VLDB 2023** Demonstrating GPT-DB: Generating Query-Specific and Customizable Code for SQL Processing with GPT-4. _Immanuel Trummer_.
+- **SIGMOD 2023** Demonstration of ThalamusDB: answering complex SQL queries with natural language predicates on multi-modal data. _Saehan Jo_, _Immanuel Trummer_.
+- **SIGMOD 2023** ***Best Demo Runner Up*** Demonstrating NaturalMiner: searching large data sets for abstract patterns described in natural language. _Immanuel Trummer_.
 
 ### 2022
 
