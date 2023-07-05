@@ -16,7 +16,9 @@ My PhD thesis focused on efficient numerical methods for initial value problems.
 
 I am joining the [Computer Engineering and Computer Science](https://www.csulb.edu/college-of-engineering/computer-engineering-computer-science) Department at California State University, Long Beach, in fall 2023.
 
-<!-- Prospective students please fill out [this short survey](https://forms.gle/YQcw92ZJorb4NmVV9). -->
+
+### Prospective students
+ If applied machine learning research is of interest to you, I am looking for inspired students to work with. Please complete this brief interest form [here]( https://forms.gle/YQcw92ZJorb4NmVV9)
 
 
 <!-- ## Contact  -->
