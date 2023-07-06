@@ -18,4 +18,4 @@ author_profile: true
 # Online Courses
 
 - [Introductory database lecture](https://youtu.be/4cWkVbC2bNE) (over 1M views!)
-- [Tutorial on large language models](https://github.com/itrummer/lm4db)
+- [Tutorial on large language models](https://itrummer.github.io/lm4db/)
