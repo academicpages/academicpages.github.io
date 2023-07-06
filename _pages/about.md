@@ -17,10 +17,11 @@ Other than that, I have been trying to improve my science communication skills, 
 ---
 
 ## Updates
-
-* January 2022: Started my PhD program at Stony Brook University, New York.
-* May 2021: Remote research internship at AT&T!
-* May 2022: Selected as DARPA Riser 2022
-* May 2022: Heading to Redmond for Applied Scientist internship with Microsoft!
-* September 2022: Visiting Lund University for a semester as a guest researcher.
+* July 2023: Heading to ACL 2023, Toronto for a poster presentation for "Transfer and Active Learning for Dissonance Detection: Addressing the Rare Class Challenge". 
 * May 2023: Two papers accepted into ACL (Main)!
+* September 2022: Visiting Lund University for a semester as a guest researcher.
+* May 2022: Heading to Redmond for Applied Scientist internship with Microsoft!
+* May 2022: Selected as DARPA Riser 2022
+* May 2021: Remote research internship at AT&T!
+* January 2021: Started my PhD program at Stony Brook University, New York.
+
