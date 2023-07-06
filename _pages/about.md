@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+- Our demo on NaturalMiner wins the Best Demo Runner Up Award at SIGMOD'23!
+- Our paper on using digital annealers for join ordering was accepted at VLDB'23 QDSM!
+- Two demos (GPT-DB, ADOPT) accepted at VLDB'23!
+- Our paper on adaptive optimization for worst-case optimal joins accepted at VLDB'23!
 - Our paper on parallelizing adaptive query processing accepted at VLDB'23!
+- Two demo papers (NaturalMiner, ThalamusDB) accepted at SIGMOD'23!
 - Our paper on federated query optimizers accepted at the VLDB'22 PhD workshop!
 - Two more papers accepted at VLDB'22 (CodexDB, BABOONS)!
 - Our tutorial on language models and their database applications accepted at VLDB'22!
