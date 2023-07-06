@@ -67,6 +67,20 @@ author_profile: true
     }
     .publication:last-of-type {
       margin-bottom: 300px; /* Adjust this value to add more or less space */
+
+      /* Add media query for smaller screens */
+    @media (max-width: 600px) {
+      .publications-container {
+        flex-direction: column;
+      }
+      .publication {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      .publication-img-container {
+        width: 100%; /* full width on small screens */
+      }
+    }
     }
   </style>
 </head>
