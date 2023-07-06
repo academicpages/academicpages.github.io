@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Walid Barakat"
-  avatar           : "tfs.png"
+  avatar           : "profile.jpg"
   bio              : "Interested in low level programming and systems security"
-  location         : ""
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  location         :
+  employer         : Intel
+  pubmed           : 
+  googlescholar    :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -101,12 +101,12 @@ author:
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  lastfm           : 
+  linkedin         : "https://www.linkedin.com/in/walid-barakat/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/12242570/walid-barakat"
   steam            :
   tumblr           :
   twitter          : "W1l5d_"

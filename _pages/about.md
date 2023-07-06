@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "0x77"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
