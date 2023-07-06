@@ -25,6 +25,11 @@ Research Interest
  
 Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 ======
++ [**Recommender Systems in the Era of Large Language Models (LLMs)**](https://arxiv.org/abs/2307.02046)
+  <br> Wenqi Fan, Zihuai Zhao, Jiatong Li, **Yunqing Liu**, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li
+  <br> _arXiv_, [arXiv:2307.02046](https://arxiv.org/abs/2307.02046)
+  <br><img src="/images/LLMs_tasks.pdf"  width="200"/>
+
 + [**Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective**](https://arxiv.org/abs/2306.06615)
   <br> Jiatong Li\*, **Yunqing Liu\***, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li
   <br> _arXiv_, [arXiv:2302.02591](https://arxiv.org/abs/2306.06615)
