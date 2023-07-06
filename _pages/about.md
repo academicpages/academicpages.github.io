@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-**This site had been broken accidentally. If you're interested in my academic outcomes, please refer my [ORCID](https://orcid.org/0009-0004-9912-6283). Thank you!**
-
 PhD Student, Applied Mathematics and Network Laboratory, Dept. of Computer Science and Engineering, Toyohashi University of Technology, Japan \
 豊橋技術科学大学 大学院 工学研究科 情報・知能工学専攻 博士後期課程 応用数理ネットワーク（梅村）研究室
 
