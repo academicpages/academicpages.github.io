@@ -32,6 +32,7 @@ author_profile: true
 
 ## Presentation Prizes & Awards
 - Roy Prize for Best Graduate Student Oral Presentation at the RSC 40th Anniversary Solid State Chemistry Group (SSCG) Meeting, 2021 (£250), judged by the invited speakers.
+- Best Poster Prize at the RSC International Conference on Materials Chemistry (MC16) – ‘_Tin & Titanium Vacancy-Ordered Halide Perovskites: Cs$_2$(Sn/Ti)X$_6$_’. [Certificate](https://kavanase.github.io/files/MC16_Best_Poster.jpg)
 - Excellent Talk Prize at MRS Fall 2022 – '_Impact of Cation Disorder in ABZ$_2$ Solar Absorbers_'.
 -	Best Presentation Award at EMRS Spring 2022 – ‘_Cation disorder engineering in AgBiS$_2$_’. [Certificate](https://kavanase.github.io/files/eMRS_Spring_2022_Best_Presentation_Award_Symposium_K.png)
 - Excellent Talk Prize at MRS Fall 2020 – ‘_Enhanced Optical Absorption via Mixed-Valent Doping of Vacancy-Ordered A$_3$B$_2$X$_9$ Triple Perovskites_’. [Certificate](https://kavanase.github.io/files/MRS_Fall_2020_Excellent_Talk_Award.pdf)
