@@ -10,11 +10,11 @@ author_profile: true
 -->
 
 ## 2023
-##### [_Neural signatures of natural behavior in freely-socializing macaques._](https://www.biorxiv.org/content/10.1101/2023.07.05.547833v1).
-Testard, C.<sup>†</sup>, Tremblay, S.<sup>†</sup>, **Parodi, F.**, DiTullio, R., Acevedo-Ithier, A., Gardiner, K., Kording, K., Platt, M. (2023).
+##### [_Neural signatures of natural behavior in freely-socializing macaques._](https://www.biorxiv.org/content/10.1101/2023.07.05.547833v1)
+- Testard, C.<sup>†</sup>, Tremblay, S.<sup>†</sup>, **Parodi, F.**, DiTullio, R., Acevedo-Ithier, A., Gardiner, K., Kording, K., Platt, M. (2023).
 
 ## 2022
-##### [_Attention Deficits Linked with Proclivity to Explore while Foraging._](https://psyarxiv.com/nyvjq/).
-Barack, D.<sup>†</sup>, Ludwig, V.<sup>†</sup>, **Parodi, F.**, Ahmed, N., Ramakrishnan, A., Brannon, E., Platt, M. (2022).
+##### [_Attention Deficits Linked with Proclivity to Explore while Foraging._](https://psyarxiv.com/nyvjq/)
+- Barack, D.<sup>†</sup>, Ludwig, V.<sup>†</sup>, **Parodi, F.**, Ahmed, N., Ramakrishnan, A., Brannon, E., Platt, M. (2022).
 
 <br>† denotes shared authorship.
