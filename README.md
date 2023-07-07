@@ -1,6 +1,6 @@
 # Felipe's Personal Website
 
-Welcome to the GitHub repository for my personal website. This site is a showcase of my professional work in the field of Computational Neuroscience.
+Welcome to the GitHub repository for my personal website. This site is a showcase of my professional work in neuroscience, computer vision, behavior, etc.
 
 ## Overview
 
