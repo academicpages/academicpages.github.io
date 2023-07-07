@@ -5,30 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 2023
+<!--
+\item \textbf{Parodi, F.}, Matelsky, J., Kimock, C., Waller, B., Kording, K.P.*, Platt, M.L.* (2023). \textit{PrimateFace: A deep learning-based system for primate facial analysis}. In prep. {\href{...}{arXiv Pre-print available}}. \\ 
+-->
+  
+Testard, C.*, Tremblay, S.*, **Parodi, F.**, DiTullio, R., Acevedo-Ithier, A., Gardiner, K., Kording, K., Platt, M. (2023). _Neural signatures of natural behavior in freely-socializing macaques._ Under review at Nature. (https://www.biorxiv.org/content/10.1101/2023.07.05.547833v1)[bioRxiv Pre-print available].
 
-
-**John Doe**, Jane Smith, James Johnson. (2023). Title of the paper. *Journal Name*. [PDF](#) [Code](#)
-
-
-**John Doe**, Jane Smith. (2023). Title of the paper. *Journal Name*. [PDF](#) [Code](#)
-
-
-## 2022
-
-
-**John Doe**, James Johnson. (2022). Title of the paper. *Journal Name*. [PDF](#) [Code](#)
-
-
-Jane Smith, **John Doe**. (2022). Title of the paper. *Journal Name*. [PDF](#) [Code](#)
-
-
-## 2021
-
-**John Doe**, Jane Smith, James Johnson. (2021). Title of the paper. *Journal Name*. [PDF](#) [Code](#)
-
-
-James Johnson, Jane Smith, **John Doe**. (2021). Title of the paper. *Journal Name*. [PDF](#) [Code](#)
+Barack, D.*, Ludwig, V.*, **Parodi, F.**, Ahmed, N., Ramakrishnan, A., Brannon, E., Platt, M. (2022). _Attention Deficits Linked with Proclivity to Explore while Foraging._ (https://psyarxiv.com/nyvjq/)[PsyArxiv Pre-print available].
 
 <!-- ---
 title: "Publications"
