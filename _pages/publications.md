@@ -10,7 +10,7 @@ author_profile: true
 -->
 
 ## 2023
-Testard, C.*, Tremblay, S.*, **Parodi, F.**, DiTullio, R., Acevedo-Ithier, A., Gardiner, K., Kording, K., Platt, M. (2023). _Neural signatures of natural behavior in freely-socializing macaques._ Under review at Nature. [bioRxiv Pre-print available](https://www.biorxiv.org/content/10.1101/2023.07.05.547833v1).
+Testard, C.*, Tremblay, S.*, **Parodi, F.**, DiTullio, R., Acevedo-Ithier, A., Gardiner, K., Kording, K., Platt, M. (2023). _Neural signatures of natural behavior in freely-socializing macaques._ [bioRxiv Pre-print available](https://www.biorxiv.org/content/10.1101/2023.07.05.547833v1).
 
 
 ## 2022
