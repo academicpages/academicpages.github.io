@@ -8,7 +8,7 @@ author_profile: true
 
 ## Working Papers
 
-**[Discrimination and Constraints: Evidence from The Voice (Job Market Paper)](https://assamidanov.github.io/files/Discrimination_Job_Market_Paper.pdf)** <br>
+**[Discrimination and Constraints: Evidence from The Voice](https://assamidanov.github.io/files/Discrimination_Job_Market_Paper.pdf)** <br>
 Updated: November 2022 
 
 >Gender discrimination in the hiring process is one significant factor contributing to labor market disparities. However, there is little evidence on the extent to which gender bias by hiring managers is responsible
