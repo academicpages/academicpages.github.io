@@ -50,6 +50,7 @@ Programming Languages
   * Ionic: fundamental level+
 * Julia: fundamental level
 * C#: fundamental level+
+* Ruby: fundamental level+
 
 参加教育プログラム
 ======
