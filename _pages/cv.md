@@ -14,6 +14,43 @@ Education
 * B.S. in Engineering, Toyohashi University of Technology, 2020
 * M.S. in Enginnering, Toyohashi University of Technology, 2022
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+<!-- Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul> -->
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+<!-- Service and leadership
+======
+* Currently signed in to 43 different slack teams -->
+
+Programming Languages
+======
+* C, C++: fundamental level+
+* Java: fundamental level+
+* Python: fundamental level+
+* HTML&amp;CSS: fundamental level+
+* ECMAScript (JavaScript): fundamental level+
+  * TypeScript: fundamental level+
+  * node.js: fundamental level+
+  * Angular: fundamental level+
+  * React: fundamental level+
+  * Ionic: fundamental level+
+* Julia: fundamental level
+* C#: fundamental level+
+
 参加教育プログラム
 ======
 * 2022/4-継続中	豊橋技術科学大学，技術科学教員プログラム．
@@ -63,28 +100,6 @@ Education
 * 2022/2	内山 慎太郎．豊橋技術科学大学，特別研究報告会（修士論文本審査会）， 最優秀特別研究発表賞．
 * 2021/4	内山 慎太郎．豊橋技術科学大学，優秀学生支援制度 博士前期課程在学生支援．
 * 2021/3	内山 慎太郎，小林 美緒，奥本 隼人，梅村 恭司，市川 裕子．2020年度先進的技術シンポジウム（ATS2020），優秀講演賞．
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
 
 メディア掲載
 ======
