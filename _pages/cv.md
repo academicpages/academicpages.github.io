@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Engineering, Toyohashi University of Technology, 2020
 * M.S. in Enginnering, Toyohashi University of Technology, 2022
+* B.S. in Engineering, Toyohashi University of Technology, 2020
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -28,7 +28,7 @@ Publications
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
