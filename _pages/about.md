@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hung X Nguyen's personal websites"
+title: "Hung X Nguyen's Research"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
