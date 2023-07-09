@@ -24,7 +24,7 @@ Educational Background
 | ZhengZhou University | Software Engineering（Excellence Engineer） | 211、Double first-class B university | 2020.9-2024.7 | 
 
 **Major Courses:** Probability Theory and Mathematical Statistics(97)、College Physics A(97)、Data Structure and Algorithm Analysis（97）、Advanced Language Program Design(96)、Introduction to Computer System(96)、Principles and Technology of Computer Network(98)、	Operating System(98)、Compiler Technology(95)  
-**GPA：** `3.86/4.0`  (rank:`2/53`）  
+**GPA：** `3.87/4.0`  (rank:`2/53`）  
 
 校园/项目经历
 ------
