@@ -1,20 +1,17 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
-
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
 
 ### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
 
-# Instructions
+# About me
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+I am an associate professor in the school of computer and mathematical sciences and the leader of the Information warfare and advanced cyber theme within the Defence trailblazer, the University of Adelaide.
 
-See more info at https://academicpages.github.io/
+I'm leading a research group on Cyber-AI, applying new advances in AI to solve problems in network fragility and security. Our research evolves around developing autonomous and provable cyber defensive solutions. This means building and configuring systems that are secure by design and training trustworthy AI agents to help defend networked systems. By employing tools from graph theory, game theory and AI/ML we are able to develop practical solutions that help human operators deal with the complexity, fast-paced and deceptive nature of the cyber environments.
+
+Prospective students (2022-11-11): We are offering generous research scholarships (PhDs and Masters) and summer research scholarships (undergraduates) on applying Artificial Intelligence/Machine Learning and Game Theory to solve problems in network (anti)fragility and security.
+
+Please contact me directly with your CV if interested.
+
+Short Bio: A/Prof Hung Nguyen is the Cyber lead for the Defence trailblazer (the University of Adelaide and UNSW). He has an excellent track record in working with Industry and in developing academia-industry collaborations. Over the last 15 years, he has been leading more than 15 successful projects delivering solutions in network security, modelling and simulation of networked systems for Defence and Industry. Outside of academia, he has worked both in start-ups (Telari); consulting to leading telecom and solution providers such as Telstra, CSL, AT&T and CISCO; and providing security and modelling solutions for the Australian Defence Force and Cybersecurity SMEs. He has published more than 80 publications on these topics at prestigious international journals and conferences.
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
