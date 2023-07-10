@@ -14,13 +14,13 @@ main:
     url: /talks/    
 
  - title: "Useful Bits"
-   url: /data/
+   url: /bits/
    
  - title: "Data"
-   url: /data/
+   url: /bits/data/
         
  - title: "Code"
-   url: /code/
+   url: /bits/code/
     
   - title: "CV"
     url: /cv/
