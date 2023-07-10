@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Salvador Balkus"
   avatar           : "CSDS_s4_cropped.jpg"
-  bio              : "Incoming PhD student in Biostatistics at Harvard"
+  bio              : "PhD student in Biostatistics at Harvard"
   location         : "Boston, MA"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wzuq_fcAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "salbalkus"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
