@@ -25,7 +25,7 @@ Email: zhimengj at tamu dot edu. Here is my [CV](http://zhimengj0326.github.io/f
   <p><span style="color:darkred;">[2023/04]</span> Two papers on Memory Efficient Training and Graph Augmentation are accepted by ICML 2023.</p>
   <p><span style="color:darkred;">[2023/04]</span> One paper on Probabilistic Masked Attention Networks is accepted by IJCAI 2023.</p>
   <p><span style="color:darkred;">[2023/03]</span> Invited to serve as a PC member of NeurIPS 2023, and reviewer for Neurocomputing.</p>
-  <p><span style="color:darkred;">[2023/03]</span>  One US patent on <a href="https://www.freepatentsonline.com/y2023/0089895.html">bid optimization</a>, developed in collaboration with Samsung, is issued.</p>
+  <p><span style="color:darkred;">[2023/03]</span>  One US patent on <a href="https://www.freepatentsonline.com/y2023/0089895.html">bid optimization</a>, developed in collaboration with Samsung, is online.</p>
   <p><span style="color:darkred;">[2023/01]</span> One paper on Hierarchy-Aware Multi-Hop Question Answering is accepted by WWW 2023.</p>
   <p><span style="color:darkred;">[2023/01]</span> One paper on Fair Graph Representations is accepted by ICLR 2023 (Spotlight).</p>
   <p><span style="color:darkred;">[2022/12]</span> Invited to serve as a PC member of KDD 2023, ICML 2023, and IJCAI 2023.</p>

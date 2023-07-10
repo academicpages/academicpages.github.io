@@ -41,16 +41,17 @@ Conference Reviewer:
 * ICLR’20, KDD’20, CIKM’20, WSDM’21 (External)
 
 Journal Reviewer: 
+* IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * ACM Transactions on Intelligent Systems and Technology (TIST)
 * Data Mining and Knowledge Discovery (DAMI)
 * Neurocomputing
-* IEEE Transactions on Information Forensics and Security
-* Digital Signal Processing (TIFS)
+* IEEE Transactions on Information Forensics and Security (TIFS)
+* Digital Signal Processing (DSP)
 * IEEE Communications Letter (CL)
 * IEEE Wireless Communications Letter (WCL)
 * EURASIP Journal on Wireless Communications and Networking
 
-Student Volunteer: ICML'22
+Student Volunteer: ICML'22, ICHI'23
 
 Talk
 =====
