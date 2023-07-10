@@ -12,9 +12,6 @@ main:
   - title: "Talks"
     url: /talks/    
 
- - title: "Useful Bits"
-   url: /bits/
-   
   - title: "CV"
     url: /cv/
     
