@@ -80,15 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Hung X Nguyen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "A/Prof Hung Nguyen is the Cyber lead for the Defence trailblazer (the University of Adelaide and UNSW). He has an excellent track record in working with Industry and in developing academia-industry collaborations. Over the last 15 years, he has been leading more than 15 successful projects delivering solutions in network security, modelling and simulation of networked systems for Defence and Industry. Outside of academia, he has worked both in start-ups (Telari); consulting to leading telecom and solution providers such as Telstra, CSL, AT&T and CISCO; and providing security and modelling solutions for the Australian Defence Force and Cybersecurity SMEs. He has published more than 80 publications on these topics at prestigious international journals and conferences."
+  location         : "Adelaide"
+  employer         : "The University of Adelaide, Australia"
+  googlescholar    : "https://scholar.google.com.au/citations?user=fepnqKwAAAAJ&hl=en"
+  email            : "hung.nguyen@adelaide.edu.au"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +94,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "hxnguyen"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
