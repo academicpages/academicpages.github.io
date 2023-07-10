@@ -7,7 +7,7 @@ main:
     url: /research/  
 
   - title: "Students"
-    url: /portfolio/  
+    url: /students/  
     
   - title: "Publications"
     url: /publications/
@@ -16,10 +16,10 @@ main:
     url: /talks/    
 
   - title: "Data"
-    url: /assets/
+    url: /data/
     
   - title: "Code"
-    url: /assets/
+    url: /code/
   - title: "Blog"
     url: /posts/
   
