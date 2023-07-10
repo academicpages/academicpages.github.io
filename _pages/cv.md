@@ -33,7 +33,7 @@ machines.
   * [AISIA Research Lab](https://aisia.vn/), University of Science VNU-HCMUS, Vietnam
   * Annotating and Running NLP model on Name Entity Recognition tasks.
 
-**[Find a more detailed CV here](http://hoangnguyen210.github.io/files/CV_266.pdf)**
+**[Find a more detailed CV here](http://hoangnguyen210.github.io/files/CV_107.pdf)**
 
 Publications
 ======
