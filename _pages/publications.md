@@ -17,6 +17,7 @@ AAAI Conference on Artificial Intelligence (AAAI) 2023 </i> Full text available 
 * Ha, T.V., **Hoang Nguyen**, Huynh, S.T., Nguyen, T.T., Nguyen, B.T., "Fall Detection Using
 Multimodal Data", <i>28th International Conference on Multimedia Modeling (MMM) 2022.</i> Full text available at <a href="https://link.springer.com/chapter/10.1007/978-3-030-98358-1_31" target="_blank" rel="noopener">  Link </a>
 
+* Thao V. Ha, **Hoang M. Nguyen**, Son T. Huynh, Binh T Nguyen, "Fall Detection Using Mixtures of Convolutional Neural Networks", <i>Proceedings of Multimedia Tools and Applications (MTAP) 2023.</i> 
 
 * Khanh Quoc Tran, An Tran-Hoai Le, An Trong Nguyen, Tung Tran Nguyen Doan, Son Huynh
 Thanh, Bao L. Hoang, **Hoang Nguyen**,... Trung T. Nguyen,  "SEND: A simple and efficient
@@ -25,8 +26,6 @@ noise detection algorithm for Vietnamese real estate posts," <i>36th Annual Meet
 
 
 ## Under Review
-
-* Thao V. Ha, **Hoang M. Nguyen**, Son T. Huynh, Binh T Nguyen, "Fall Detection Using Mixtures of Convolutional Neural Networks". 
 
 * Duy M. H. Nguyen, **Hoang Nguyen**, Nghiem T. Diep, Tan N. Pham, Tri Cao, Binh T. Nguyen, Paul Swoboda, Nhat Ho, Shadi Albarqouni, Pengtao Xie, Daniel Sonntag, Mathias Niepert, "LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching". Full text available at <a href="https://arxiv.org/abs/2306.11925" target="_blank" rel="noopener"> ArXiv </a> . 
 
