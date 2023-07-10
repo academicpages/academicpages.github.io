@@ -16,11 +16,6 @@ main:
  - title: "Useful Bits"
    url: /bits/
    
- - title: "Data"
-   url: /bits/data/
-        
- - title: "Code"
-   url: /bits/code/
     
   - title: "CV"
     url: /cv/
