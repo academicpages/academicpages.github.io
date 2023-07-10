@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Hot Topics in IoT Security"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/IoT_2022
+venue: "The UNiversity of Adelaide"
+date: 2022, Trimester 3
+location: "Adelaide, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+See Canva, MyUni Pages.
