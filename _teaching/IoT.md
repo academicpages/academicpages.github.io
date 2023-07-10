@@ -8,4 +8,4 @@ date: 2022, Trimester 3
 location: "Adelaide, Australia"
 ---
 
-See Canva, MyUni Pages.
+See MyUni Pages.
