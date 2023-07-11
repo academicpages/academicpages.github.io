@@ -16,7 +16,6 @@ Current
 * Blake Donelly (2022 -)
 * Quang Huy Ngo (2022 - )
 * Ben Luo (2022 - )
-* Sunny Sharma (2022 - ) (on long-term leave)
 * Nhu Long Nguyen (2023 - )
 
 
