@@ -7,4 +7,4 @@ date: 2010
 codeurl: 'http://autonetkit.org'
 ---
 
-I helped build  the first version of Autonetkit, which is now used in he Cisco VIRL lab.
+I helped build  the first version of Autonetkit, which is now used in the Cisco VIRL lab.
