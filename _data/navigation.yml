@@ -15,8 +15,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Data"
-    url: /data/
+  - title: "Datasets"
+    url: /datasets/
     
   - title: "Code"
     url: /code/
