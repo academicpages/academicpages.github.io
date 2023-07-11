@@ -3,7 +3,7 @@ title: "Topology Zoo"
 collection: datasets
 permalink: /datasets/topology_zoo
 excerpt: 'Open source dataset of Internet topologies' 
-date: 2009-10-01
+date: 2011
 venue: 'Journal 1'
 paperurl: 'http://topology-zoo.org'
 ---
