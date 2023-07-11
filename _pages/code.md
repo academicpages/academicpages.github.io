@@ -9,6 +9,8 @@ author_profile: true
 
 I helped build  the first version of Autonetkit - open source code to automatically  generate emulations of large networks with sophisticated policies. Autonetkit is now used in the Cisco VIRL lab.
 
+![Alt text](https://hxnguyen.github.io/images/autonetkit.png "a title")
+
 
 #  <a href="http://autonetkit.org](https://github.com/dinesharanathunga/mgtoolkit"> Mgtoolkit </a>
 
