@@ -12,9 +12,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Datasets"
     url: /datasets/
     
@@ -22,4 +19,7 @@ main:
     url: /code/
   - title: "Blog"
     url: /posts/
+
+    - title: "Other"
+      url: /other/   
   
