@@ -1,3 +1,9 @@
+---
+layout: archive
+title: "Code"
+permalink: /code/
+author_profile: true
+---
 
 #  <a href="http://autonetkit.org"> Autonetkit </a>
 
