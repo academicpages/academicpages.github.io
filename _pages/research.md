@@ -1,7 +1,7 @@
 ---
 title: ""
 collection: research
-permalink: /research/projects
+permalink: /research/
 venue: "The University of Adelaide"
 location: "Adelaide, Australia"
 ---
