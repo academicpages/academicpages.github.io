@@ -17,9 +17,10 @@ main:
     
   - title: "Code"
     url: /code/
+    
   - title: "Blog"
     url: /posts/
 
-    - title: "Other"
-      url: /other/   
+  - title: "Other"
+    url: /other/   
   
