@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Datasets"
+title: ""
 permalink: /datasets/
 author_profile: true
 ---
