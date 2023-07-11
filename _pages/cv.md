@@ -69,6 +69,8 @@ redirect_from:
 * Other System & Software:
     + Arduino
     + Processing
+    + Keil
+    + LabVIEW
     + Tracker
     + Blender
     + Latex
