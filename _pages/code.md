@@ -1,7 +1,7 @@
 ---
 title: "Autonetkit"
 collection: code
-permalink: /code/autonetkit
+permalink: /code/
 excerpt: 'Open source code to automatically  generate emulations of large networks with sophisticated policies' 
 date: 2010
 codeurl: 'http://autonetkit.org'
