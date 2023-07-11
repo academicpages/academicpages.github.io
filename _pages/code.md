@@ -12,7 +12,7 @@ I helped build  the first version of Autonetkit - open source code to automatica
 ![Alt text](https://hxnguyen.github.io/images/autonetkit.png "a title")
 
 
-#  <a href="http://autonetkit.org](https://github.com/dinesharanathunga/mgtoolkit"> Mgtoolkit </a>
+#  <a href="http://autonetkit.org](https://github.com/dinesharanathunga/mgtoolkit"> MGtoolkit </a>
 
 Mgtoolkit is a python package for modelling and analysing  metagraphs - a special type of hypergraph. We used metagraphs for modelling network security policies.
 
