@@ -9,6 +9,7 @@ author_profile: true
 ======
 The Internet Topology Zoo is widely used in all areas of networking research and development worldwide and has been cited  more than 1400 times.
 
+![Alt text](https://hxnguyen.github.io/images/topology_zoo.png "Topology Zoo")
 
 {% include base_path %}
 
