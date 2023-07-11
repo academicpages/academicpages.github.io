@@ -3,7 +3,7 @@ title: "Autonetkit"
 collection: code
 permalink: /code/
 excerpt: 'Open source code to automatically  generate emulations of large networks with sophisticated policies' 
-date: 2010
+date: 2010-10-01
 codeurl: 'http://autonetkit.org'
 ---
 
