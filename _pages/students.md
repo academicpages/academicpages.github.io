@@ -23,4 +23,4 @@ Past
 ======
 * Duong Duc Nguyen (PhD, currently at DSTG)
 * Dung Ba Le (PhD)
-* Amaeer Arsalaan (PhD, Currently at University of Swabi)
+* Ameer Arsalaan (PhD, Currently at University of Swabi)
