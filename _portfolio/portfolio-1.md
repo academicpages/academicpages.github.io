@@ -1,6 +1,6 @@
 ---
 title: "Budget Analyse in Python"
-excerpt: "Inzicht krijgen over mijn jaarlijkse uitgaven door het analyseren van mijn bankafschriften. <br/><img src='/images/budget.png'>"
+excerpt: "Inzicht krijgen over mijn jaarlijkse uitgaven door het analyseren <br> van mijn bankafschriften. <br/><img src='/images/budget.png'>"
 collection: portfolio
 ---
 
