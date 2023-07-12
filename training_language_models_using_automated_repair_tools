@@ -1,0 +1,10 @@
+---
+title: "Training Language Models for Programming Feedback Using Automated Repair Tools"
+collection: publications
+permalink: 
+excerpt: 'In this paper, I present a simple strategy to instantiate sequence-to-sequence model for repairing student programs. The strategy consists in finetuning existing open models, such as those available on HuggingFace, using as ground truth the repairs found by Automated Repair Tools. We use CodeT5 as the sequence-to-sequence model.'
+date: 26-06-2023
+venue: 'International Conference on Artificial Intelligence in Education (AIED23)'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-36272-9_79'
+citation: 'C. Koutcheme. Training Language Models for Programming Feedback Using Automated Repair Tools, Artificial Intelligence in Education  (AIED ’23), June 2023'
+---
