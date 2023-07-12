@@ -29,6 +29,7 @@ Research
 
 News
 ------
+- Our Chinese Chinical ChatBot DoctorGLM got 512 github stars!
 - (2023/6/24) 6 Papers accepted by **MICCAI** 
 - (2023/6/14) *Eye-gaze-guided Vision Transformer* accepted by **TMI** 
 
