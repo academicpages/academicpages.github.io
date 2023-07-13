@@ -70,14 +70,13 @@ Seminars
 ======
 * 2nd seminar on explicit topology optimization and software usage, Dalian, 2022.03.24
     * Collaborated with Dr. Xudong Jiang, Mr. Xubing Cheng, and Mr. Wu Xu
-* 1st seminar on explicit topology optimization and software usage, Dalian, 2021.05.02-2021.05.04
+* 1st seminar on explicit topology optimization and software usage, Dalian, 2021.05.04
     * Self-organized by students, within the research group
 
 
 Services
 ======
 * Reviewer for Engineering Structures (2)
-* Student Assistance Ambassador, Hefei University of Technology, 2019.01-2019.06
 * Student Union, Center of Learning and Development, Hefei University of Technology, 2015.09-2016.06
 
 
