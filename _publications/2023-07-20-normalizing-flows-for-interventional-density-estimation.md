@@ -6,6 +6,7 @@ date: 2023-07-20
 venue: ICML
 excerpt: "![infs](/images/infs.png){: style='float: left; height: 100px'}"
 code: 'https://github.com/Valentyn1997/INFs'
+paperurl: 'https://proceedings.mlr.press/v202/melnychuk23a/melnychuk23a.pdf'
 arxiv: 'https://arxiv.org/abs/2209.06203'
 poster: 'https://icml.cc/media/PosterPDFs/ICML%202023/24936.png?t=1687178238.3771722'
 slides: 'https://icml.cc/media/icml-2023/Slides/24936_vMHUl2y.pdf'
