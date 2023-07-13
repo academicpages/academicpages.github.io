@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am currently a data scientist (ML direction) at ByteDance. I graduated from CMU master of information systems management program and CUHK(SZ) with a becholar degree majoring in supply chain management.
+Hi there! I am currently a data scientist (ML direction) at ByteDance. I graduated from CMU's Master of information systems management program and CUHK(SZ) with a bachelor's degree, majoring in supply chain management.
 
-During my time at CMU, I had the honor to work with [Woody Zhu](https://sites.google.com/view/woodyzhu) on projects in graph and Gaussian process. I also worked an table QA project with Daniel Fried, turned from a NLP course project.
+During my time at CMU, I had the honor to work with [Woody Zhu](https://sites.google.com/view/woodyzhu) on graph and Gaussian process projects.
 
-I am actively applying for Ph.D. programs beggining in 24 Spring or Fall in US and UK.
+I am actively applying for Ph.D. programs beginning in 24 Spring or Fall in US and UK.
+
