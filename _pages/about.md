@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 <ul id="myList">
-  <li>07/2023: The recording of our Workshop on Symmetries in Robot Learning at RSS 2023 is available <a href="https://www.youtube.com/watch?v=E2l16T0biu4">here</a>.
+  <li>07/2023: The recording of our Workshop on Symmetries in Robot Learning at RSS 2023 is available <a href="https://www.youtube.com/watch?v=E2l16T0biu4">here</a>.</li>
   <li>06/2023: I am honored to receive the 2023 JP Morgan Chase PhD Fellowship!</li>
   <li>04/2023: I give a guest lecture, <a href="https://www.youtube.com/watch?v=dx5rDtdv7LM">Equivariant Learning for Robotic Manipulation</a>. The lecture summarizes our latest research, so be sure to check it out!</li>
   <li>03/2023: We are organizing the <a href="https://sites.google.com/view/rss23-sym">Workshop on Symmetries in Robot Learning</a> at RSS 2023.</li>
