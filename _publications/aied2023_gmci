@@ -1,0 +1,10 @@
+---
+title: 'Automated Program Repair using Generative Models for Code Infilling'
+collection: publications
+permalink: 
+excerpt: 'In this paper, we experiment with using Code Generative Models augmented with infilling capabilities for repairing student programs.'
+date: 26-06-2023
+venue: 'Artificial Intelligence in Education'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-36272-9_74'
+citation: 'Koutcheme, C., Sarsa, S., Leinonen, J., Hellas, A., Denny, P. (2023). Automated Program Repair Using Generative Models for Code Infilling. In: Artificial Intelligence in Education. AIED 2023.'
+---
