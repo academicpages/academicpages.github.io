@@ -22,12 +22,6 @@ redirect_from:
 * July 2023 - today: Data scientist (ML direction) at ByteDance
   * Duties included: Merging pull requests
 
-## Publications
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 
-
-
-
+<p>For a more complete CV, download <a href=" {{ http://localhost:4000/publications/ }} "><u>here</u></a></p>
