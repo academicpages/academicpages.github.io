@@ -5,11 +5,9 @@ main:
 
   # - title: "CV/Resume"
   #   url: vitae/
-
-  # - title: "Research"
-  #   url: research/
-  # - title: "Research"
-  #   url: research/
+  
+  - title: "Projects"
+    url: research/
 
   - title: "Publications"
     url: publications/
