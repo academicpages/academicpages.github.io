@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc in Technical Mathematics, TU Vienna, 2017
+* MSc in Technical Mathematics, TU Vienna, 2019
+* Ph.D in Applied Mathematics, Heriot Watt University & University of Edinburgh, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+*  bSummer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
