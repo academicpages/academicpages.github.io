@@ -22,7 +22,7 @@ My research interests lie in artificial intelligence, with a focus on multi-agen
 [CV](https://taoanhuang.github.io/files/TaoanHuangCV.pdf)
 
 ## News
-* \[2023.04\] [Our paper](https://taoanhuang.github.io/files/ICAPS23.pdf) on solving large scale planning problems in automated warehouses been nominated for an honourable mention at [ICAPS-2023](https://icaps23.icaps-conference.org/).
+* \[2023.07\] [Our paper]([https://taoanhuang.github.io/files/ICAPS23.pdf](https://ojs.aaai.org/index.php/ICAPS/article/view/27194)) on solving large scale planning problems in automated warehouses is named the Best Student Paper Runner-Up at [ICAPS-2023](https://icaps23.icaps-conference.org/).
 * \[2023.04\] Our papers on ML-guided optimization for [mixed integer programs](https://arxiv.org/pdf/2302.01578.pdf) and [non-linear combinatorial optimization](https://arxiv.org/pdf/2210.12547.pdf) with [Facebook AI Research](https://ai.facebook.com/) are accepted to [ICML-2023](https://icml.cc/Conferences/2023).
 * \[2023.03\] Our works on using ML for combinatorial optimizations are presented at the [IPAM Artificial Intelligence and Discrete Optimization
 Workshop](http://www.ipam.ucla.edu/programs/workshops/artificial-intelligence-and-discrete-optimization/). The recordings can be found on YouTube: [Bistra's presentation](https://www.youtube.com/watch?v=hdad1if4MqU), [Yuandong's presentation](https://www.youtube.com/watch?v=REF8aS2u74k). I also presented a [poster](https://taoanhuang.github.io/files/MLforMAPF_Taoan_Huang.pdf) which is a summary of my work on ML-guided multi-agent path finding.
