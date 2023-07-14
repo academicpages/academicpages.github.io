@@ -11,7 +11,7 @@ title                    : "Jiageng / Home Page"
 title_separator          : "-"
 name                     : &name "Jiageng Ding"
 description              : &description "personal description"
-url                      : https://jiagengding.diing.uk
+url                      : https://jiageng.diing.uk
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Jiageng Ding"
-  avatar           : "profile.jpg"
-  bio              : "M.SC. at University of Bristol"
+  avatar           : "profile-djg.jpg"
+  bio              : "M.Sc. at University of Bristol"
   location         : "United Kingdom"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jiagengding/"
+  linkedin         : "jiagengding"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
