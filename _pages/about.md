@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am currently a data scientist (ML direction) at ByteDance. I graduated from CMU's Master of information systems management program and CUHK(SZ) with a bachelor's degree, majoring in supply chain management.
+Hi there! I graduated from CMU's Master of information systems management program and CUHK(SZ) with a bachelor's degree, majoring in supply chain management.
 
 During my time at CMU, I had the honor to work with [Woody Zhu](https://sites.google.com/view/woodyzhu) on graph and Gaussian process projects.
 

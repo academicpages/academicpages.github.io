@@ -11,17 +11,14 @@ redirect_from:
 
 ## Education
 * B.B.A. in Supply Chain Management (First Class Honors), The Chinese University of Hong Kong, 2021
-* M.S. in Information Systems Management (First Class Honors), Carneige Mellon University, 2023
+* M.S. in Information Systems Management (Highest Distinction), Carnegie Mellon University, 2023
 
-## Reserach experience
-* September 2022 - June 2023: Research Assistant at Carneige Mellon University
+## Research experience
+* Sept 2022 - June 2023: Research Assistant at Carnegie Mellon University
   * Supervisor: Woody Zhu
-  * Duties included: 
   
 ## Work experience
 * July 2023 - today: Data scientist (ML direction) at ByteDance
-  * Duties included: Merging pull requests
 
 
-
-<p>For a more complete CV, download <a href=" {{ http://localhost:4000/publications/ }} "><u>here</u></a></p>
+[Download a more complete CV here](http://academicpages.github.io/files/cv.pdf)
