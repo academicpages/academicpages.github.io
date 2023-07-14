@@ -2,8 +2,8 @@
 title: "Bridging the Gap Between Indexing and Retrieval for Differentiable Search Index with Query Generation"
 collection: publications
 permalink: /publication/arxiv2022DSIQG
-year: 2022
-venue: 'The First Workshop on Generative Information Retrieval'
+year: 2023
+venue: 'The First Workshop on Generative Information Retrieval at SIGIR2023'
 authors: <strong>Shengyao Zhuang</strong>, Houxing Ren, Linjun Shou, Jian Pei, Ming Gong, Guido Zuccon and Daxin Jiang.
 track: Full paper
 ---
