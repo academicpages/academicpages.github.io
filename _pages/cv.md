@@ -21,4 +21,4 @@ redirect_from:
 * July 2023 - today: Data scientist (ML direction) at ByteDance
 
 
-[Download a more complete CV here](http://academicpages.github.io/files/cv.pdf)
+[Download a more complete CV here](http://shuyiryanchen.github.io/files/cv.pdf)
