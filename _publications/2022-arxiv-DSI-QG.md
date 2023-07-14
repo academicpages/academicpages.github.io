@@ -3,7 +3,7 @@ title: "Bridging the Gap Between Indexing and Retrieval for Differentiable Searc
 collection: publications
 permalink: /publication/arxiv2022DSIQG
 year: 2022
-venue: 'arxiv preprint'
+venue: 'The First Workshop on Generative Information Retrieval'
 authors: <strong>Shengyao Zhuang</strong>, Houxing Ren, Linjun Shou, Jian Pei, Ming Gong, Guido Zuccon and Daxin Jiang.
 track: Full paper
 ---
