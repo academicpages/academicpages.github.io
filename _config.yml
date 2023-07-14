@@ -123,6 +123,9 @@ include:
   - _pages
   - files
 exclude:
+  - _pages/cv.md
+  - _pages/publications.md
+  - _pages/talks.html
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
