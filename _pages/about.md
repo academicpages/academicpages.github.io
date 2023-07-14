@@ -29,7 +29,7 @@ Relevant Coursework
 | Mathematics                |     Linear Algebra, Probability                                |
 | Data Science               |     Data Mining, Data Analytics                                |
 | Security                   |     Defending Against ML-powered Adversaries                   |
-| Artificial Intelligence    |     Machine Learning, Deep Learning, Multimodal Vision         |
+| Artificial Intelligence    |     Machine Learning, Deep Learning, NLP, Multimodal Vision    |
 
 
 Skills
