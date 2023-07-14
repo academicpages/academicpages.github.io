@@ -14,6 +14,15 @@ Recent work has reported that AI classifiers trained on audio recordings can acc
 
 [Download paper here](https://arxiv.org/abs/2212.08570)
 
+
+<script
+	type="module"
+	src="https://gradio.s3-us-west-2.amazonaws.com/3.36.1/gradio.js"
+></script>
+
+<gradio-app src="https://harrycoppock-interview-demo.hf.space"></gradio-app>
+
+
 <details closed>
 <summary>Bibtex Entry</summary>
 <code>
