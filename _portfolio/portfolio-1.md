@@ -1,7 +1,22 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Todo Notifier"
+excerpt: " Simplify Todo management with Todo Notifier - a versatile Python library that generates automated summaries and sends reminders via email, SNS, SES & more.<br/><img src='/images/todonotifier.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+More often than not, we put some TODO items in code and forget about them. Sometimes, we
+think of coming back to a TODO item by some date but miss it being too busy with some
+other development.
+
+TODO Notifier aims to solve this problem. It parses through any project, collects all
+the todo items, generates automated summaries and send automated reminders about them.
+
+Read more about TODO Notifier and how to get it up and running in no time on
+[Medium](https://at-k.medium.com/streamline-your-todos-with-todo-notifier-for-python-projects-6f95c03a2d34).
+
+Find project on
+
+- [PyPi](https://pypi.org/project/todonotifier/)
+- [GitHub](https://github.com/ashu-tosh-kumar/todo_notifier)
+- [ProductHunt](https://www.producthunt.com/posts/todo-notifier)
+- [SourceForge](https://sourceforge.net/projects/todo-notifier/)
