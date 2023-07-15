@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ashutosh Kumar"
-  avatar           : "profile.png"
+  avatar           : "files/profile.png"
   bio              : "Software Developer at Portcast"
   # location         : "Location"
   employer         : "Portcast"
@@ -106,7 +106,7 @@ author:
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : https://stackoverflow.com/users/7698116/atk
+  stackoverflow    : "7698116/atk"
   steam            :
   tumblr           :
   twitter          : "_atkumar"

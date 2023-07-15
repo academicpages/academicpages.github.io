@@ -19,4 +19,4 @@ Design from [IIT Kharagpur](https://www.iitkgp.ac.in/).
 My current interests revolve around generative Machine Learning, asynchronous
 programming, and open source software development. I am passionate about leveraging
 technology to create innovative products. I love reading books, watching tons of movies
-and playing badminton. Feel free to reach out on LinkedIn.
+and playing badminton. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/kumar-ashu-tosh/).
