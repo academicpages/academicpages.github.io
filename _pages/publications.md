@@ -7,7 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
-Here are all my archival papers (peer-reveiwed journals, conferences, and workshops). You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=qXzr-p8AAAAJ&hl=en). If you can't access a paper, [email me](indira.sen@gesis.org) for a pdf copy.
+Here are all my archival papers (peer-reviewed journals, conferences, and workshops). You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=qXzr-p8AAAAJ&hl=en). If you can't access a paper, [email me](indira.sen@gesis.org) for a pdf copy.
+
+# 2023
+
+Sen, Indira, Daniele Quercia, Licia Capra, Matteo Montecchi, and Sanja Šćepanović. "[Insider stories: analyzing internal sustainability efforts of major US companies from online reviews.](https://www.nature.com/articles/s41599-023-01672-4)" Humanities and Social Sciences Communications 10, no. 1 (2023): 1-9.
+
+Dennis Assenmacher, Indira Sen, Leon Fröhling, and Claudia Wagner. "[The End of the Rehydration Era - The Problem of Sharing Harmful Twitter Research Data.](https://workshop-proceedings.icwsm.org/pdf/2023_56.pdf)" Proceedings of the 17th International Conference on Web and Social Media. NEATCLasS, Association for the Advancement of Artificial Intelligence (AAAI). (Workshop paper, best paper award)
+
+# 2022
+
+Sen, Indira, Daniele Quercia, Marios Constantinides, Matteo Montecchi, Licia Capra, Sanja Scepanovic, and Renzo Bianchi. "[Depression at work: exploring depression in major US companies from online reviews.](https://dl.acm.org/doi/abs/10.1145/3555539)" Proceedings of the ACM on Human-Computer Interaction 6, no. CSCW2 (2022): 1-21.
+
+Sen, Indira, Mattia Samory, Claudia Wagner, and Isabelle Augenstein. "[Counterfactually Augmented Data and Unintended Bias: The Case of Sexism and Hate Speech Detection.](https://aclanthology.org/2022.naacl-main.347/)" In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, pp. 4716-4726. 2022. (Short Paper)
+
+Ceccarini, Chiara, Edyta Paulina Bogucka, Indira Sen, Marios Constantinides, Catia Prandi, and Daniele Quercia. "[Visualizing internal sustainability efforts in big companies.](http://social-dynamics.net/docs/vis-internal-sustainability.pdf)" IEEE Computer Graphics and Applications 42, no. 3 (2022): 87-98.
 
 # 2021
 
