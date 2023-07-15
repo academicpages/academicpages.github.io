@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ashutosh Kumar"
-  avatar           : "files/profile.png"
+  avatar           : "profile.png"
   bio              : "Software Developer at Portcast"
   # location         : "Location"
   employer         : "Portcast"
