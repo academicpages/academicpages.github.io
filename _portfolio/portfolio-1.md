@@ -43,7 +43,7 @@ import pandas as pd
 #Read the data
 data = pd.read_csv("budget.csv", sep = ',')
 df = pd.DataFrame(data)  
-df.head()
+df.head(3)
 ```
 
 
@@ -92,17 +92,6 @@ df.head()
     <tr>
       <th>1</th>
       <td>20230601</td>
-      <td>CAFE JOS MEESTERSCHENK NIJMEGEN</td>
-      <td>BA</td>
-      <td>Af</td>
-      <td>44,40</td>
-      <td>Betaalautomaat</td>
-      <td>Pasvolgnr: 003 31-05-2023 21:17 Transactie: B4...</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>20230601</td>
       <td>KORENGOUD DE ECHTE BAKKER</td>
       <td>BA</td>
       <td>Af</td>
@@ -112,7 +101,7 @@ df.head()
       <td>NaN</td>
     </tr>
     <tr>
-      <th>3</th>
+      <th>2</th>
       <td>20230601</td>
       <td>Klimcentrum Nijmegen B.V</td>
       <td>IC</td>
@@ -120,17 +109,6 @@ df.head()
       <td>51,00</td>
       <td>Incasso</td>
       <td>Naam: Klimcentrum Nijmegen B.V Omschrijving: 2...</td>
-      <td>NaN</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>20230601</td>
-      <td>ASR IKZ ZORG</td>
-      <td>IC</td>
-      <td>Af</td>
-      <td>132,70</td>
-      <td>Incasso</td>
-      <td>Naam: ASR IKZ ZORG Omschrijving: Kenmerk 54677...</td>
       <td>NaN</td>
     </tr>
   </tbody>
@@ -213,8 +191,8 @@ df.tail(10)
     <tr>
       <th>678</th>
       <td>20220601</td>
-      <td>Rente roodstand Studentenbetaallimiet</td>
-      <td>0,97</td>
+      <td>AH to go 5865 Utrech UTRECHT NLD</td>
+      <td>3,00</td>
     </tr>
     <tr>
       <th>679</th>
@@ -233,12 +211,6 @@ df.tail(10)
       <td>20220601</td>
       <td>ALBERT HEIJN 1878 ARNHEM NLD</td>
       <td>8,35</td>
-    </tr>
-    <tr>
-      <th>682</th>
-      <td>20220601</td>
-      <td>DITZO ZORGVERZEKERING</td>
-      <td>119,25</td>
     </tr>
   </tbody>
 </table>
@@ -453,8 +425,8 @@ df.tail(20)
     <tr>
       <th>678</th>
       <td>2022-06-01</td>
-      <td>Rente roodstand Studentenbetaallimiet</td>
-      <td>0.97</td>
+      <td>AH to go 5873 Utrech UTRECHT NLDt</td>
+      <td>3.00</td>
       <td>overige</td>
     </tr>
     <tr>
@@ -477,13 +449,6 @@ df.tail(20)
       <td>ALBERT HEIJN 1878 ARNHEM NLD</td>
       <td>8.35</td>
       <td>boodschappen</td>
-    </tr>
-    <tr>
-      <th>682</th>
-      <td>2022-06-01</td>
-      <td>DITZO ZORGVERZEKERING</td>
-      <td>119.25</td>
-      <td>overige</td>
     </tr>
   </tbody>
 </table>
