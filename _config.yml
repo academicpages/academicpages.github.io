@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiageng / Home Page"
+title                    : "Jiageng's / Home Page"
 title_separator          : "-"
 name                     : &name "Jiageng Ding"
 description              : &description "personal description"
@@ -99,7 +99,7 @@ author:
   github           : "JiagengDing"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "ding.jg"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "jiagengding"

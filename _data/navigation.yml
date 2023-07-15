@@ -12,9 +12,9 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
   #
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-  #
+  - title: "Blog"
+    url: https://blog.diing.uk/en
+
   # - title: "CV"
   #   url: /cv/
   #
