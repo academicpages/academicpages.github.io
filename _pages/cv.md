@@ -31,23 +31,23 @@ Work experience
     Walks](https://www.indiaheritagewalks.org/index.php/) website for Sahapedia under
     JPMC's Force For Good program
 
-  * Summer 2019: Intern at Robert Bosch Engineering & Business Solutions
-    * Created PRNGs utilizing GANs that achieved a 98.64% success rate on test instances
-      & VAEs that achieved a 98.80% success rate on the NIST test suite.
-    * Devised a sampling mechanism to extract samples from the aforementioned PRNGs,
-      which yielded a 99.05% success rate on the NIST test suite.
+* Summer 2019: Intern at Robert Bosch Engineering & Business Solutions
+  * Created PRNGs utilizing GANs that achieved a 98.64% success rate on test instances
+    & VAEs that achieved a 98.80% success rate on the NIST test suite.
+  * Devised a sampling mechanism to extract samples from the aforementioned PRNGs,
+    which yielded a 99.05% success rate on the NIST test suite.
 
-  * Summer 2018: Intern at ITC Limited
-    * Created Python scripts to transform machine shift data in HTML pages into
-      structured data for analysis.
-    * Developed Pareto Charts and conducted Root Cause Analysis (RCA) to pinpoint major
-      anomalies in process conditions on the FSP Machine.
+* Summer 2018: Intern at ITC Limited
+  * Created Python scripts to transform machine shift data in HTML pages into
+    structured data for analysis.
+  * Developed Pareto Charts and conducted Root Cause Analysis (RCA) to pinpoint major
+    anomalies in process conditions on the FSP Machine.
 
-  * Summer 2017: Intern at CSTEP
-    * Formulated a mathematical model from scratch to calculate the real-time shaded
-      area on PV panels caused by adjacent rows using vector and 3D algebra.
-    * Created scripts in MATLAB to automate the computation and plot graphs showcasing
-      how the shaded area changes in relation to various parameters.
+* Summer 2017: Intern at CSTEP
+  * Formulated a mathematical model from scratch to calculate the real-time shaded
+    area on PV panels caused by adjacent rows using vector and 3D algebra.
+  * Created scripts in MATLAB to automate the computation and plot graphs showcasing
+    how the shaded area changes in relation to various parameters.
 
 Skills
 ======
@@ -76,19 +76,19 @@ Skills
   * Team Leadership
   * Team Management
 
-Publications
+<!-- Publications
 ======
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
 
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Teaching
 ======
