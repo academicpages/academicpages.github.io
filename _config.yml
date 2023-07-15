@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Software Developer at Portcast"
   # location         : "Location"
-  employer         : "Portcast"
+  employer         : 
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
   # email            :
@@ -106,7 +106,7 @@ author:
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "7698116/atk"
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "_atkumar"
