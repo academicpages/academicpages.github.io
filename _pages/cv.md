@@ -1,11 +1,12 @@
 ---
 layout: archive
-title: "CV"
+title: "CV" 
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+[Download PDF](http://getnetdemil.github.io/files/CV_Getnet_Demil_+_WE.pdf)
 
 {% include base_path %}
 
@@ -337,5 +338,5 @@ Studied, and worked in
   </div>
 </div>
  
-
+[Download CV in Pdf Format](http://getnetdemil.github.io/files/CV_Getnet_Demil_+_WE.pdf)
 
