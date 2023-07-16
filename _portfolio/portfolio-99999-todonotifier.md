@@ -11,6 +11,10 @@ other development.
 TODO Notifier aims to solve this problem. It parses through any project, collects all
 the todo items, generates automated summaries and send automated reminders about them.
 
+Check it out in action in following animation.
+
+![TODO Notifier Demo](https://user-images.githubusercontent.com/37182127/242261144-73f4b642-f4ac-4462-a2d7-0fe8f5836aca.gif)
+
 Read more about TODO Notifier and how to get it up and running in no time on
 [Medium](https://at-k.medium.com/streamline-your-todos-with-todo-notifier-for-python-projects-6f95c03a2d34).
 

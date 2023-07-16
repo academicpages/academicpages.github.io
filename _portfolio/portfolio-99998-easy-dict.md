@@ -1,6 +1,6 @@
 ---
 title: "Easy Dictionary"
-excerpt: " A dictionary plugin for the Wox launcher that provides offline access to the Webster's Unabridged English Dictionary from Project Gutenberg.<br/><img src='/images/easy_dictionary.png'>"
+excerpt: " A dictionary plugin for the Wox launcher that provides offline access to the Webster's Unabridged English Dictionary from Project Gutenberg.<br/><img src='/images/easy_dictionary.png' width='300'>"
 collection: portfolio
 ---
 
