@@ -66,7 +66,9 @@
       window.addEventListener('DOMContentLoaded', (event) => {
         const images = document.getElementsByClassName('article-image');
         for (let image of images) {
-          image.classList.add('article-preview-image');
+          const image_copy = image.cloneNode(true);
+          image_copy.classList.add('article-preview-image');
+          image.parentNode.replaceChild(image_copy, image);
         }
       });
     </script>
