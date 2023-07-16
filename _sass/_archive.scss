@@ -36,7 +36,6 @@
 
   + .list__item .archive__item-title {
     margin-top: 0.5em;
-    width: 50%;
   }
 }
 
@@ -93,7 +92,6 @@
 .list__item {
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
-    width: 50%;
   }
 
   @include breakpoint($large) {
