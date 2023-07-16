@@ -1,3 +1,4 @@
 _site/
 .history/
 .vscode/
+.DS_Store
