@@ -68,7 +68,11 @@
         for (let image of images) {
           const image_copy = image.cloneNode(true);
           image_copy.classList.add('article-preview-image');
-          image.parentNode.replaceChild(image_copy, image);
+          const image_parent = image.parentNode;
+          const image_grand_parent = image_parent.parentNode;
+          const image_parent_copy = document.createElement("p");
+          image_parent_copy.appendChild(image_copy);
+          image_grand_parent.replaceChild(image_parent_copy, image_parent);
         }
       });
     </script>
