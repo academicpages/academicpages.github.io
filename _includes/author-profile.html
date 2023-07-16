@@ -122,7 +122,10 @@
         <li><a href="https://medium.com/@{{ author.medium }}"><i class="fab fa-fw fa-medium" aria-hidden="true"></i> Medium</a></li>
       {% endif %}
       {% if author.devto %}
-        <li><a href="https://dev.to/{{ author.devto }}"><i class="fab fa-fw fa-dev-to" aria-hidden="true"></i> Dev.to</a></li>
+        <li><a href="https://dev.to/{{ author.devto }}"><i class="fab fa-fw fa-dev" aria-hidden="true"></i> Dev.to</a></li>
+      {% endif %}
+      {% if author.pypi %}
+        <li><a href="https://pypi.org/user/{{ author.pypi }}"><i class="fab fa-fw fa-python" aria-hidden="true"></i> PyPi</a></li>
       {% endif %}
     </ul>
   </div>
