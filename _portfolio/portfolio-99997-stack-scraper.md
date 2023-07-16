@@ -4,6 +4,8 @@ excerpt: " Stack Scraper is a sample repository showcasing how to write impeccab
 collection: portfolio
 ---
 
+[In Progress]
+
 Stack Scraper is a sample repository showcasing how to write impeccably clean code that
 will save your sanity. It is in correspondence to my Medium article [How to Write
 Impeccably Clean Code That Will Save Your Sanity](https://)?
