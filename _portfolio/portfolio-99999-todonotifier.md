@@ -1,6 +1,6 @@
 ---
 title: "Todo Notifier"
-excerpt: " Simplify Todo management with Todo Notifier - a versatile Python library that generates automated summaries and sends reminders via email, SNS, SES & more.<br/><img src='/images/todonotifier.png' width='300'>"
+excerpt: " Simplify Todo management with Todo Notifier - a versatile Python library that generates automated summaries and sends reminders via email, SNS, SES & more.<br/><img src='/images/todonotifier.png' width='50%'>"
 collection: portfolio
 ---
 

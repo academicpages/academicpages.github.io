@@ -1,6 +1,6 @@
 ---
 title: "Stack Scraper"
-excerpt: "Stack Scraper is a sample repository showcasing how to write impeccably clean code that will save your sanity. It is in correspondence to my Medium article.<br/><img src='/images/clean_code.png' width='300'>"
+excerpt: "Stack Scraper is a sample repository showcasing how to write impeccably clean code that will save your sanity. It is in correspondence to my Medium article.<br/><img src='/images/clean_code.png' width='50%'>"
 collection: portfolio
 ---
 
