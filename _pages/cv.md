@@ -42,6 +42,7 @@ Education
       <img src="/images/bdu3.jpg" alt="BDU" style="display: inline-block; width: 200px;">
  </div>
 
+
 Awards
 ======
 * [Best 50 African Project of the Year 2019](https://www.undp.org/ethiopia/news/undp-supported-2019-africa-innovation-week#:~:text=The%202019%20African%20Innovation%20Week,28th%20%E2%80%93%20November%202nd.)
@@ -55,6 +56,7 @@ Awards
 <div style="text-align: center;">
   <img src="/images/bit.jpg" alt="BDU" style="display: inline-block; width: 500px; height: 50px;">
 </div>
+
 
 Work experience
 ======
@@ -218,6 +220,7 @@ Projects and Researchs
   <img src="/images/ppke.png" alt="PPCU" style="display: inline-block; width: 100px;">
   <img src="/images/bdu3.jpg" alt="BDU" style="display: inline-block; width: 200px;">
 </div>
+
 
 Certificates
 ======
