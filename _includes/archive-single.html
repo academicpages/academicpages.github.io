@@ -60,9 +60,11 @@
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}
 
+    <!-- For image previews in Article view, we limit the image size to 50% using css on
+   class name 'article-preview-image' -->
     <script>
       window.addEventListener('DOMContentLoaded', (event) => {
-        const image = document.getElementByClassName('article-image');
+        const image = document.getElementsByClassName('article-image')[0];
         image.classList.add('article-preview-image');
       });
     </script>
