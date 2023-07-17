@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kion Fallah"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Kion Fallah"
 description              : &description "Machine Learning PhD Student"
