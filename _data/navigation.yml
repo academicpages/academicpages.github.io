@@ -6,8 +6,8 @@ main:
   # - title: "CV/Resume"
   #   url: vitae/
   
-  - title: "Projects"
-    url: research/
+  # - title: "Projects"
+  #   url: research/
 
   - title: "Publications"
     url: publications/
