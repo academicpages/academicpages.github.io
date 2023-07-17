@@ -8,13 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-My name is Kia Rahmani and I am a postdoctoral fellow at the [computer science department](https://www.cs.utexas.edu/) of the [University of Texas at Austin](https://www.utexas.edu/). I am a member of the [Autonomous Mobile Robotics Laboratory](https://amrl.cs.utexas.edu/), where I am supervised by Prof. [Işil Dillig](https://www.cs.utexas.edu/~isil/) and Prof. [Joydeep Biswas](https://www.joydeepb.com/). The main focus of my research is currently on neuro-symbolic synthesis algorithms for autonamous robot learning.
+My name is Kia Rahmani and I am a computer scientist with over 10 years of research experience in the industry and academia. I am passionate about designing
+programming language-based tools to enable more generalizable, interpretable, and reliable machine/robot learning
+algorithms.
 
-Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.purdue.edu/) under the supervision of Prof. [S. Jagannathan](https://www.cs.purdue.edu/homes/suresh/) and Prof. [B. Delaware](https://www.cs.purdue.edu/homes/bendy/). I also did an internship with [Microsoft](https://www.microsoft.com/en-us/research/) where I developed a new neurosymbolic synthesis technique using [GPT-3](https://en.m.wikipedia.org/wiki/GPT-3) natural language model, under the supervision of Dr. [S. Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/) and Dr. [M. Raza](https://www.microsoft.com/en-us/research/people/moraza/).
 
-Outside academia, I study and train the [Brazilian Jiu-Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu) system of grappling.
+I am currently a postdoctoral scientist at the [computer science department](https://www.cs.utexas.edu/) of the [University of Texas at Austin](https://www.utexas.edu/). I am a member of the [Autonomous Mobile Robotics Laboratory](https://amrl.cs.utexas.edu/), where I am supervised by Prof. [Işil Dillig](https://www.cs.utexas.edu/~isil/) and Prof. [Joydeep Biswas](https://www.joydeepb.com/). The focus of my research is currently on developing novel neuro-symbolic algorithms for autonamous robot learning.
 
-## Publications
+
+
+
+Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.purdue.edu/) under the supervision of Prof. [S. Jagannathan](https://www.cs.purdue.edu/homes/suresh/) and Prof. [B. Delaware](https://www.cs.purdue.edu/homes/bendy/). I also did an internship with [Microsoft](https://www.microsoft.com/en-us/research/) where I developed a new program synthesis algorithm using large language models, under the supervision of Dr. [S. Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/) and Dr. [M. Raza](https://www.microsoft.com/en-us/research/people/moraza/).
+
+<span style="color:red;">I am currently in the job market for research-oriented positions in industry and academia.</span>
+
+## Publications & Patents
+<ul>
+    <li>Multi-modal Program Inference (US20230176829A1)
+    <br />
+    <font size="3">
+     (<b>Kia Rahmani</b>, Mohammad Raza, Sumit Gulwani, Vu Le, Daniel Morris, Arjun Radhakrishna, Gustavo Soares, Ashish Tiwari)
+    </font> 
+    <br /> 
+    <font size="2">
+      <a href="https://patentimages.storage.googleapis.com/0b/de/89/271010060d2ed8/US20230176829A1.pdf">
+      [United States Patent Application]
+      </a>
+    </font> 
+    </li>
+</ul>
 <ul>
     <li>Program Synthesis for Robot Learning from Demonstrations
     <br />
@@ -149,8 +171,12 @@ Outside academia, I study and train the [Brazilian Jiu-Jitsu](https://en.wikiped
    </ul>
       
 
-## Academic Service
-<ul> <li> 
-  2021: Reviewer for <a href="https://aiplans.github.io/"> AIPLANS workshop at NeurIPS 2021 </a>
+## Service
+<ul> 
+  <li> 
+  2023: Reviewed for  <a href="https://ieee-iros.org/">  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) </a>
+  </li>
+  <li> 
+  2021: Reviewed for <a href="https://aiplans.github.io/"> AIPLANS workshop at NeurIPS 2021 </a>
   </li> </ul>
 
