@@ -3,14 +3,9 @@ main:
   - title: "Publications"
     url: /#publications
 
-  - title: "Research Projects"
-    url: /research     
-
   - title: "Blog"
     url: /year-archive/
     
   - title: "CV"
-    url: /files/cv.pdf
+    url: /files/CV_Kia_Rahmani_2023.pdf
     
-  - title: "BJJ"
-    url: /bjj/
