@@ -16,13 +16,16 @@ redirect_from:
 
 ## About Me
 
-I am a fourth-year PhD student in the [UNC-NLP](https://nlp.cs.unc.edu/) lab at the University of North Carolina at Chapel Hill, where I am advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My work at UNC is supported by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/) and previously by a [Royster Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/membership.html). Before this, I graduated with a bachelor's degree from Duke University, where my thesis advisor was [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). At Duke I was supported by a [Trinity Scholarship](https://www.ousf.duke.edu/page/Trin). 
+I am a fourth-year PhD student in the [UNC-NLP](https://nlp.cs.unc.edu/) lab at the University of North Carolina at Chapel Hill, where I am advised by [Mohit Bansal](http://www.cs.unc.edu/~mbansal/). My work at UNC is supported by a [Google PhD Fellowship](https://research.google/outreach/phd-fellowship/) and previously by a [Royster Fellowship](https://gradschool.unc.edu/funding/gradschool/royster/membership.html). Before this, I graduated with a bachelor's degree from Duke University, where my thesis advisor was [Cynthia Rudin](https://users.cs.duke.edu/~cynthia/). At Duke I was supported by a [Trinity Scholarship](https://ousf.duke.edu/merit-scholarships/trinity-scholars-program/). 
 
 My research interests center on interpretable machine learning and natural language processing. I am particularly interested in techniques for explaining model behavior and aligning ML systems with human values. I see language models as a good object of study since we lack complete explanations for their behavior and human language provides a rich means of interaction with models. I am broadly interested in topics related to AI Safety; besides interpretable ML I have worked on methods for supervising model reasoning via explanations, providing recourses to people adversely affected by ML models, and editing language models to be more truthful. In all of these areas, I find work on clarifying concepts and developing strong evaluation procedures especially valuable. 
 
 *Email:* peter@cs.unc.edu
 
 ## News
+* 2023 - Named an [Outstanding Area Chair](https://2023.aclweb.org/program/best_reviewers/) at ACL 2023 (1-1.5% of the pool of reviewers and chairs)   
+* 2023 - New paper out! "Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Theory of Mind" [[pdf]](https://arxiv.org/pdf/2306.09299.pdf) [[code]](https://github.com/swarnaHub/ExplanationIntervention)
+* 2023 - New paper out! "Adaptive Contextual Perception: How to Generalize to New Backgrounds and Ambiguous Objects" [[pdf]](https://arxiv.org/pdf/2306.05963.pdf) [[code]](https://github.com/zfying/AdaptiveContext)  
 * 2023 - Started summer internship at AI2! Supervised by [Sarah Wiegreffe](https://sarahwie.github.io/) and [Peter Clark](https://allenai.org/team/peterc)  
 * 2023 - New paper out! "Does Localization Inform Editing? Surprising Differences in
 Causality-Based Localization vs. Knowledge Editing in Language Models" [[pdf]](https://arxiv.org/pdf/2301.04213.pdf) [[code]](https://github.com/google/belief-localization)  
