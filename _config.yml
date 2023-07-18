@@ -11,9 +11,9 @@ title                    : "Narjes BESSGHAIER"
 title_separator          : "-"
 name                     : &name "Narjes BESSGHAIER"
 description              : &description "personal description"
-url                      : https://NarjesBessghaier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://narjesbessghaier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Narjes-b/NarjesBessghaier.github.io"
+repository               : "Narjes-b/narjesbessghaier.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : @NarjesBG
 facebook:
-  username               :Narjes Bessghaier
+  username               : Narjes Bessghaier
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Narjes BESSGHAIER"
-  avatar           : "https://github.com/Narjes-b/NarjesBessghaier.github.io/blob/master/images/me.jpg" 
+  avatar           : "me.jpg" 
   bio              : "Hi! I am a Phd Student in the [``STI Research Lab``](https://stilab-ets.github.io) of [``ETS``](https://www.etsmtl.ca) with Prof: [``Ali Ouni``](https://www.etsmtl.ca/en/research/professors/aouni/")
   location         : "University of Quebec, Montreal, QC, Canada"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.ca/citations?user=r3ao_SYAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/Narjes-Bessghaier"
+  researchgate     :  "https://www.researchgate.net/profile/Narjes-Bessghaier"
   uri              :
   bitbucket        :
   codepen          :
