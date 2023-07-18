@@ -1,0 +1,455 @@
+@import "normalize";
+@import "rouge-github";
+@import url('https://fonts.googleapis.com/css?family=Architects+Daughter');
+
+/* LAYOUT STYLES */
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #666;
+  background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
+}
+
+p {
+  margin-top: 0;
+}
+
+a {
+  color: #2879d0;
+}
+a:hover {
+  color: #2268b2;
+}
+
+header {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+  border-bottom: solid 1px #275da1;
+}
+
+header h1 {
+  width: 540px;
+  margin-top: 0;
+  margin-bottom: 0.2em;
+  font-size: 72px;
+  font-weight: normal;
+  line-height: 1;
+  color: #fff;
+  letter-spacing: -1px;
+}
+
+header h2 {
+  width: 540px;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 26px;
+  font-weight: normal;
+  line-height: 1.3;
+  color: #9ddcff;
+  letter-spacing: 0;
+}
+
+.inner {
+  position: relative;
+  width: 940px;
+  margin: 0 auto;
+}
+
+#content-wrapper {
+  padding-top: 30px;
+  border-top: solid 1px #fff;
+}
+
+#main-content {
+  float: left;
+  width: 690px;
+}
+
+#main-content img {
+  max-width: 100%;
+}
+
+aside#sidebar {
+  float: right;
+  width: 200px;
+  min-height: 504px;
+  padding-left: 20px;
+  font-size: 12px;
+  line-height: 1.3;
+  background: transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat;
+}
+
+aside#sidebar p.repo-owner,
+aside#sidebar p.repo-owner a {
+  font-weight: bold;
+}
+
+#downloads {
+  margin-bottom: 40px;
+}
+
+a.button {
+  width: 134px;
+  height: 58px;
+  padding-top: 22px;
+  padding-left: 68px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 23px;
+  line-height: 1.2;
+  color: #fff;
+}
+a.button small {
+  display: block;
+  font-size: 11px;
+}
+header a.button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: transparent url(../images/github-button.png) 0 0 no-repeat;
+}
+aside a.button {
+  display: block;
+  width: 138px;
+  padding-left: 64px;
+  margin-bottom: 20px;
+  font-size: 21px;
+  background: transparent url(../images/download-button.png) 0 0 no-repeat;
+}
+
+code, pre {
+  margin-bottom: 30px;
+  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+  font-size: 13px;
+  color: #222;
+}
+
+code {
+  padding: 0 3px;
+  background-color: #f2f8fc;
+  border: solid 1px #dbe7f3;
+}
+
+pre {
+  padding: 20px;
+  overflow: auto;
+  text-shadow: none;
+  background: #fff;
+  border: solid 1px #f2f2f2;
+}
+pre code {
+  padding: 0;
+  color: #2879d0;
+  background-color: #fff;
+  border: none;
+}
+
+ul, ol, dl {
+  margin-bottom: 20px;
+}
+
+
+/* COMMON STYLES */
+
+hr {
+  height: 0;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  border: 0;
+  border-top: solid 1px #ddd;
+}
+
+table {
+  width: 100%;
+  border: 1px solid #ebebeb;
+}
+
+th {
+  font-weight: 500;
+}
+
+td {
+  font-weight: 300;
+  text-align: center;
+  border: 1px solid #ebebeb;
+}
+
+form {
+  padding: 20px;
+  background: #f2f2f2;
+
+}
+
+
+/* GENERAL ELEMENT TYPE STYLES */
+
+#main-content h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 2.8em;
+  font-weight: normal;
+  color: #474747;
+  text-indent: 6px;
+  letter-spacing: -1px;
+}
+
+#main-content h1:before {
+  padding-right: 0.3em;
+  margin-left: -0.9em;
+  color: #9ddcff;
+  content: "/";
+}
+
+#main-content h2 {
+  margin-bottom: 8px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 22px;
+  font-weight: bold;
+  color: #474747;
+  text-indent: 4px;
+}
+#main-content h2:before {
+  padding-right: 0.3em;
+  margin-left: -1.5em;
+  content: "//";
+  color: #9ddcff;
+}
+
+#main-content h3 {
+  margin-top: 24px;
+  margin-bottom: 8px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-weight: bold;
+  color: #474747;
+  text-indent: 3px;
+}
+
+#main-content h3:before {
+  padding-right: 0.3em;
+  margin-left: -2em;
+  content: "///";
+  color: #9ddcff;
+}
+
+#main-content h4 {
+  margin-bottom: 8px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 15px;
+  font-weight: bold;
+  color: #474747;
+  text-indent: 3px;
+}
+
+h4:before {
+  padding-right: 0.3em;
+  margin-left: -2.8em;
+  content: "////";
+  color: #9ddcff;
+}
+
+#main-content h5 {
+  margin-bottom: 8px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 14px;
+  color: #474747;
+  text-indent: 3px;
+}
+h5:before {
+  padding-right: 0.3em;
+  margin-left: -3.2em;
+  content: "/////";
+  color: #9ddcff;
+}
+
+#main-content h6 {
+  margin-bottom: 8px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: .8em;
+  color: #474747;
+  text-indent: 3px;
+}
+h6:before {
+  padding-right: 0.3em;
+  margin-left: -3.7em;
+  content: "//////";
+  color: #9ddcff;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+p a {
+  font-weight: 400;
+}
+
+blockquote {
+  padding: 0 0 0 30px;
+  margin-bottom: 20px;
+  font-size: 15px;
+  border-left: 10px solid #e9e9e9;
+}
+
+ul {
+  list-style-position: inside;
+  list-style: disc;
+  padding-left: 20px;
+}
+
+ol {
+  list-style-position: inside;
+  list-style: decimal;
+  padding-left: 20px;
+}
+
+dl dd {
+  font-style: italic;
+  font-weight: 100;
+}
+
+footer {
+  padding-top: 20px;
+  padding-bottom: 30px;
+  margin-top: 40px;
+  font-size: 13px;
+  color: #aaa;
+}
+
+footer a {
+  color: #666;
+}
+footer a:hover {
+  color: #444;
+}
+
+/* MISC */
+.clearfix:after {
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+  content: '.';
+}
+
+.clearfix {display: inline-block;}
+* html .clearfix {height: 1%;}
+.clearfix {display: block;}
+
+/* #Media Queries
+================================================== */
+
+/* Smaller than standard 960 (devices and browsers) */
+@media only screen and (max-width: 959px) { }
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+  .inner {
+    width: 740px;
+  }
+  header h1, header h2 {
+    width: 340px;
+  }
+  header h1 {
+    font-size: 60px;
+  }
+  header h2 {
+    font-size: 30px;
+  }
+  #main-content {
+    width: 490px;
+  }
+  #main-content h1:before,
+  #main-content h2:before,
+  #main-content h3:before,
+  #main-content h4:before,
+  #main-content h5:before,
+  #main-content h6:before {
+    padding-right: 0;
+    margin-left: 0;
+    content: none;
+  }
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+  .inner {
+    width: 93%;
+  }
+  header {
+    padding: 20px 0;
+  }
+  header .inner {
+    position: relative;
+  }
+  header h1, header h2 {
+    width: 100%;
+  }
+  header h1 {
+    font-size: 48px;
+  }
+  header h2 {
+    font-size: 24px;
+  }
+  header a.button {
+    position: relative;
+    display: inline-block;
+    width: auto;
+    height: auto;
+    padding: 5px 10px;
+    margin-top: 15px;
+    font-size: 13px;
+    line-height: 1;
+    color: #2879d0;
+    text-align: center;
+    background-color: #9ddcff;
+    background-image: none;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+  }
+  header a.button small {
+    display: inline;
+    font-size: 13px;
+  }
+  #main-content,
+  aside#sidebar {
+    float: none;
+    width: 100% ! important;
+  }
+  aside#sidebar {
+    min-height: 0;
+    padding: 20px 0;
+    margin-top: 20px;
+    background-image: none;
+    border-top: solid 1px #ddd;
+  }
+  aside#sidebar a.button {
+    display: none;
+  }
+  #main-content h1:before,
+  #main-content h2:before,
+  #main-content h3:before,
+  #main-content h4:before,
+  #main-content h5:before,
+  #main-content h6:before {
+    padding-right: 0;
+    margin-left: 0;
+    content: none;
+  }
+}
+
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width: 767px) { }
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 479px) { }

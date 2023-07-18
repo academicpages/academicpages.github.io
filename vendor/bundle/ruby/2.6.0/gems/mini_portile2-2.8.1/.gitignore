@@ -1,0 +1,5 @@
+.bundle
+Gemfile.lock
+pkg
+ports
+tmp

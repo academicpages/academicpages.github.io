@@ -1,0 +1,27 @@
+// Orange theme
+
+$orange: #fa8224;
+$orange-dark: #DF6D16;
+$gray: #767676;
+$white: #fff;
+$black: #181818;
+
+$color-background: $orange !default;
+$color-dot-accent: $black !default;
+$color-foreground: $black !default;
+$color-title: $white !default;
+$color-body-text: $black !default;
+$color-text-accent: $orange-dark !default;
+$color-code: $gray !default;
+$color-nav-link: $white !default;
+$color-primary-link: $orange !default;
+$color-border: $orange;
+
+
+// Import sass partials (used in all themes)
+@import
+        "variables",
+        "base",
+        "components",
+        "utilities"
+;

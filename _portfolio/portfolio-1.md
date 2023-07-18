@@ -1,6 +1,6 @@
 ---
-title: "Graph generative models for binding site-specific molecule generation"
-# excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Reinforcement Learning for Crystal Structure Design"
+excerpt: "Currently exploring offline reinforcement learning methods for learning a policy for sequentially designing crystal structures. <br/><img src='/images/offlineRL.png' width=200 height=150>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Analysis of drug response and gene expression data of AML cells"
-# excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Graph generative models for binding site-specific molecule generation"
+excerpt: "Designing novel deep graph generative model for generating new ligand molecules that can bind to a given target receptor binding site.<br/><img src='/images/thesisproj.png' width=550 height=650>"
 collection: portfolio
 ---
 

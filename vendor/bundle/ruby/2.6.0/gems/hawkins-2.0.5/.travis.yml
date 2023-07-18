@@ -1,0 +1,9 @@
+sudo: false
+language: ruby
+rvm:
+- 2.2.0
+- 2.0.0
+script: bundle exec rake check
+branches:
+  only:
+    - master
