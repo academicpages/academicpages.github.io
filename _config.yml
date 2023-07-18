@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Dongyang Yu"
-  avatar           : "profile.png"
+  avatar           : "profile-min.jpg"
   bio              : "Work hard in silence, let your success by your noise."
   location         : "Suzhou, Jiangsu, P.R.China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "dyyu@stu.suda.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
