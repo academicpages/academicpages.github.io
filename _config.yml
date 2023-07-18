@@ -7,7 +7,7 @@ b# Welcome to Jekyll!
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Narjes BESSGHAIER"
+title                    : "Narjes BESSGHAIER" 
 title_separator          : "-"
 name                     : &name "Narjes BESSGHAIER"
 description              : &description "personal description"
