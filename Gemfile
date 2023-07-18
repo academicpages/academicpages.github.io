@@ -14,9 +14,18 @@ gem "github-pages", group: :jekyll_plugins
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
-# gem "jekyll"
+
+gem "jekyll"
+gem "jekyll-paginate"
+gem "jekyll-gist"
+gem "jekyll-redirect-from"
+gem "kramdown-parser-gfm"
+gem "webrick"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
+
+# New added
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
