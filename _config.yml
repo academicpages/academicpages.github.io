@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Narjes BESSGHAIER"
-  avatar           : "https://github.com/Narjes-b/NarjesBessghaier.github.io/blob/master/images/me.jpg"
-  bio              : "Hi! I am a Phd Student in the STI lab of ETS, University of Quebec, Montreal, QC, Canada with Prof: Ali Ouni [https://www.etsmtl.ca/en/research/professors/aouni/"]
-  location         : "Location"
+  avatar           : "https://github.com/Narjes-b/NarjesBessghaier.github.io/blob/master/images/me.jpg" 
+  bio              : "Hi! I am a Phd Student in the [``STI Research Lab``](https://stilab-ets.github.io) of [``ETS``](https://www.etsmtl.ca) with Prof: [``Ali Ouni``](https://www.etsmtl.ca/en/research/professors/aouni/")
+  location         : "University of Quebec, Montreal, QC, Canada"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.ca/citations?user=r3ao_SYAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/Narjes-Bessghaier"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Narjes-b"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/narjes-bessghaier-b8aa36a5/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-4808-5691"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@NarjesBG"
   vine             :
   weibo            :
   xing             :
@@ -182,10 +182,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
