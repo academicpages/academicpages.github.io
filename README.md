@@ -48,7 +48,7 @@ For windows:
 
  8. `gem install eventmachine --platform ruby`
 
- 9. `bundle exec jekyll serve`
+ 9. `bundle exec jekyll liveserve`
 
  10. If this doesn't work, try step 4) and repeat.
    It should work like a charm. Drop a question in case this doesn't work.
