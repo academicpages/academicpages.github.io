@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Kia Rahmani and I am a computer scientist with over 10 years of research experience in the industry and academia. I am passionate about designing
+My name is Kia Rahmani and I am a computer scientist with over 10 years of research experience in industry and academia. I am passionate about designing
 programming language-based tools to enable more generalizable, interpretable, and reliable machine/robot learning
 algorithms.
 
@@ -20,7 +20,7 @@ I am currently a postdoctoral scientist at the [computer science department](htt
 
 Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.purdue.edu/) under the supervision of Prof. [S. Jagannathan](https://www.cs.purdue.edu/homes/suresh/) and Prof. [B. Delaware](https://www.cs.purdue.edu/homes/bendy/). I also did an internship with [Microsoft](https://www.microsoft.com/en-us/research/) where I developed a new program synthesis algorithm using large language models, under the supervision of Dr. [S. Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/) and Dr. [M. Raza](https://www.microsoft.com/en-us/research/people/moraza/).
 
-<span style="color:red;">I am currently in the job market for research-oriented positions in industry and academia.</span>
+<span style="color:red;">I am currently on the job market for research-oriented positions in industry and academia.</span>
 
 ## Publications & Patents
 <ul>
