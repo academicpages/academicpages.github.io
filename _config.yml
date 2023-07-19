@@ -82,9 +82,17 @@ analytics:
 author:
   name             : "Dongyang Yu"
   avatar           : "profile-min.jpg"
-  bio              : "Work hard in silence, let your success by your noise."
-  location         : "Suzhou, Jiangsu, P.R.China"
-  employer         :
+  bio              : "  
+  Postgraduate student</br>
+  <a style='color: black;' href='http://scst.suda.edu.cn'>School of Computer Science & Technology</a>,</br>
+  <a style='color: black;' href='http://www.suda.edu.cn'>Soochow University</a></br></br>
+  <b>Research Interests</b>: </br>
+  Coded computing</br>
+  Blockchain security</br>
+  Distributed systems
+  "  
+  location         : "Suzhou, Jiangsu"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "dyyu@stu.suda.edu.cn"
@@ -191,6 +199,41 @@ collections:
 
 # Defaults
 defaults:
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _posts
   - scope:
       path: ""
@@ -209,41 +252,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 # Sass/SCSS
 sass:
