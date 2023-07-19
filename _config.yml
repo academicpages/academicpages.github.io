@@ -83,11 +83,11 @@ author:
   name             : "swap-stack"
   avatar           : "profile.png"
   bio              : "Write and code for fun! ML/NLP, Django, Python, Flutter <3"
-  location         : "Location"
+  location         : ""
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "swapnilakavishwar@gmail.com
+  email            : "swapnilakavishwar@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
