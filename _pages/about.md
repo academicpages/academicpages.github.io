@@ -13,8 +13,10 @@ programming language-based tools to enable more generalizable, interpretable, an
 algorithms.
 
 
-I am currently a postdoctoral scientist at the [computer science department](https://www.cs.utexas.edu/) of the [University of Texas at Austin](https://www.utexas.edu/). I am a member of the [Autonomous Mobile Robotics Laboratory](https://amrl.cs.utexas.edu/), where I am supervised by Prof. [Işil Dillig](https://www.cs.utexas.edu/~isil/) and Prof. [Joydeep Biswas](https://www.joydeepb.com/). The focus of my research is currently on developing novel neuro-symbolic algorithms for autonamous robot learning.
+I am currently a postdoctoral scientist at the [computer science department](https://www.cs.utexas.edu/) of the [University of Texas at Austin](https://www.utexas.edu/). I am a member of the [Autonomous Mobile Robotics Laboratory](https://amrl.cs.utexas.edu/), where I am supervised by Prof. [Işil Dillig](https://www.cs.utexas.edu/~isil/) and Prof. [Joydeep Biswas](https://www.joydeepb.com/). 
 
+
+The primary focus of my research is on developing symbolic methods to enhance algorithms for autonomous agent learning. My ultimate scientific goal is to aid enabling neurally trained machines to both explain and provide formal guarantees for their behaviors.
 
 
 
