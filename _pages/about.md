@@ -18,4 +18,4 @@ Work in progress
 + R. Fillon, 2023. "Climate maladaptation: a dynamic and spatial reappraisal", in progress.
 + R. Fillon, T. Gasser, C. Guivarch, P. Ciais, 2023. "Alternative ethical stances on a possible Amazon rainforest dieback", in progress.
 + R. Fillon, T. Gasser, C. Guivarch, P. Ciais, 2023. "The uncertain fate of the Amazon rainforest", draft available upon request.
-+ R. Fillon, C. Guivarch, N. Taconet, 2023. "Optimal climate policy under tipping risk and temporal risk aversion", \textit{Journal of Environmental Economics and Management}
++ R. Fillon, C. Guivarch, N. Taconet, 2023. "Optimal climate policy under tipping risk and temporal risk aversion", *Journal* *of* *Environmental* *Economics* *and* *Management*.
