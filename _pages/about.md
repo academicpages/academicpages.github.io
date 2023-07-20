@@ -15,7 +15,7 @@ I work on climate change and I am particularly interested in climate tipping poi
 Feel free to contact me : rfillon@protonmail.com !
 
 Work in progress 
-+ "Climate maladaptation: a dynamic and spatial reappraisal", in progress.
-+ "Alternative ethical stances on a possible Amazon rainforest dieback", with T. Gasser (IIASA), C. Guivarch (CIRED) & P. Ciais (LSCE, Paris-Saclay University), in progress.
-+ "The uncertain fate of the Amazon rainforest", with T. Gasser (IIASA), C. Guivarch (CIRED) & P. Ciais (LSCE, Paris-Saclay University). Draft available upon request.
-+ "Optimal climate policy under tipping risk and temporal risk aversion", with C. Guivarch (CIRED) & N. Taconet (PIK). R&R
++ R. Fillon, 2023. "Climate maladaptation: a dynamic and spatial reappraisal", in progress.
++ R. Fillon, T. Gasser, C. Guivarch, P. Ciais, 2023. "Alternative ethical stances on a possible Amazon rainforest dieback", in progress.
++ R. Fillon, T. Gasser, C. Guivarch, P. Ciais, 2023. "The uncertain fate of the Amazon rainforest", draft available upon request.
++ R. Fillon, C. Guivarch, N. Taconet, 2023. "Optimal climate policy under tipping risk and temporal risk aversion", \textit{Journal of Environmental Economics and Management}
