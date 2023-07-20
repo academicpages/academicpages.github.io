@@ -15,7 +15,7 @@ Research
 * Rob, LDM, SC, RST, 2023.03-present (in preparation)
 * Hit think, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.05-present (in preparation)
 * FracMem, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.01-present (ongoing)
-* Component revolution (ongoing)
+* Component innovation (ongoing)
   * Collaborated with Xiaoyang Li
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.06-present
 * Tomo, supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.10-present (ongoing)
@@ -62,7 +62,9 @@ Contests
 
 Engineering projects
 ======
-* C 8-times, H 1-time, X 1-time
+* C 8-times
+* H 1-time
+* Xidian Univ. 
 
 {% for post in site.experiences reversed %}
   {% include archive-single.html %}

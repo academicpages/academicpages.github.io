@@ -86,7 +86,6 @@ Miscellaneous
     * Rhapsody in Blue
     * Chinese chess
     * Basketball and Jogging
-    * Scientific american
     * Surface and shell
     * Iverson and Jordan
 
