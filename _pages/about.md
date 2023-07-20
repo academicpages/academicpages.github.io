@@ -44,6 +44,8 @@ November 4, 2022, Conversation with Assitant Professor Rebecca Johnson at George
 
 ## New Paper Alert
 
+Yongjun Zhang, Hao Lin, Yi Wang, and Xinguang Fan. 2023. ''[Sinophobia was popular on Twitter during the early COVID-19 pandemic]()." Nature Humanities and Social Sciences Communication.
+
 Yongjun Zhang, Siwei Cheng, Zhi Li, and Wenhao Jiang. 2023. "[Human  mobility patterns are associated with experienced partisan segregation in US Metropolitan areas](https://www.nature.com/articles/s41598-023-36946-z)." Scientific Reports.
 
 Charles Seguin, Thomas Maher, Yongjun Zhang. 2023. [A Seat at the Table: A New Dataset of Social Movement Organization Representation Before Congress during the 20th Century](https://t.co/wkTU2sQDlo). Socius.
@@ -72,15 +74,15 @@ Yongjun Zhang and Jennifer Heerwig. 2023. "[Gender, Race, and Intersectionality 
 
 Yongjun Zhang, Sijia Liu, Yi Wang, and Xinguang Fan. 2022. ''[Detecting Fake News on Twitter in the Chinese Language Community](https://doi.org/10.48550/arXiv.2304.03454)."
 
-Yongjun Zhang, Hao Lin, Yi Wang, and Xinguang Fan. 2022. ''[Sinophobia was popular on Twitter during the early COVID-19 pandemic]()."
-
 Yongjun Zhang. 2021. "[Using Population Mobility to Measure Racial Residential Segregation in the U.S. Metro Areas](https://osf.io/pvbxw/)." 
 
 ## Talks
 
 Yongjun Zhang. August 2023. "Experienced Partisan Segregation." ASA Session on Inequality across Time, Space, and Families.
 
-Yongjun Zhang. July 2023. "Computational Social Science: New Trends, Opportunities, and Challenges." Nanjing University [[Poster]]().
+Yongjun Zhang. July 2023. "Frontiers in Computational Social Science: New Trends, Opportunities, and Challenges." Nanjing University [[Poster]](https://yongjunzhang.com/files/nanjing.jpeg).
+
+Yongjun Zhang. June 2023. "An Overview of Computational Social Science". SICSS NYU-Shanghai.
 
 Yongjun Zhang. March 2022. "Gender, Race, and Intersectionality in the Political Donations of America's Corporate Elite". European University Institute. with Dr. Jennifer Heerwig.
 
