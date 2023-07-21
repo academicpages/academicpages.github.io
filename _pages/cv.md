@@ -14,7 +14,7 @@ _Download pdf [here](cv.pdf)_
 Education
 ======
 
-<b>PhD in Political Science, <font color="#3e9c70">Yale University</font> | Exp. 2026<b> <br>
+<b>PhD in Political Science, <font color="#3e9c70">Yale University</font> | Exp. 2026</b> <br>
 New Haven, CT, U.S.
 
 * Fields: _Comparative Politics, Quantiative Methodology, International Relations_
@@ -23,13 +23,13 @@ New Haven, CT, U.S.
 <b>MA in War Studies, <font color="#3e9c70">King's College London</font> | 2018</b> <br>
 London, U.K.
 
-<b>BA in Political Science (Minor in Statistics), <font color="#3e9c70">University of Chicago</font> | 2016<b> <br>
+<b>BA in Political Science (Minor in Statistics), <font color="#3e9c70">University of Chicago</font> | 2016</b> <br>
 Chicago, IL, U.S.
 
-Academic positions
+Academic affiliations
 =====
 
-Summer 2023 | <b>Visiting Researcher, Centre for Housing and Sustainable Development (CHSD) at the University of Lagos</b> <br>
+<b>Visiting Researcher, Centre for Housing and Sustainable Development at the University of Lagos | Summer 2023</b> <br>
 Lagos, Nigeria
 
 Papers
