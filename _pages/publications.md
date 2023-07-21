@@ -9,13 +9,13 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-* **FedAds: A Benchmark for Privacy-Preserving CVR Estimation with Vertical Federated Learning**  
-**Penghui Wei**, Hongjian Dou, Shaoguo Liu, Rongjun Tang, Li Liu, Liang Wang, Bo Zheng  
-**SIGIR ’23** (Resource Track): Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. July 23--27, 2023.  
-
 * **RLTP: Reinforcement Learning to Pace for Delayed Impression Modeling in Preloaded Ads**  
 **Penghui Wei**, Yongqiang Chen, Shaoguo Liu, Liang Wang, Bo Zheng  
 **KDD ’23** (Applied Data Science Track): Proceedings of the 2023 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. Long Beach, CA, USA, August 6 -- 10, 2023.   
+
+* **FedAds: A Benchmark for Privacy-Preserving CVR Estimation with Vertical Federated Learning**  
+**Penghui Wei**, Hongjian Dou, Shaoguo Liu, Rongjun Tang, Li Liu, Liang Wang, Bo Zheng  
+**SIGIR ’23** (Resource Track): Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. July 23--27, 2023.  
 
 * **Correlative Preference Transfer with Hierarchical Hypergraph Network for Multi-Domain Recommendation**  
 Zixuan Xu\*, **Penghui Wei**\*, Shaoguo Liu, Liang Wang, Bo Zheng (\*: Equal contribution)  
@@ -76,10 +76,6 @@ Jiahao Zhao, **Penghui Wei**, Wenji Mao
 * **Multi-Target Stance Detection via a Dynamic Memory-Augmented Network**       
 **Penghui Wei**, Junjie Lin, Wenji Mao  
 **SIGIR ’18** (short): Proceedings of the 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, pages 1229--1232. Ann Arbor, MI, USA, July 8--12, 2018.  
-
-* **A Knowledge Enhanced Learning and Semantic Composition Model for Multi-Claim Fact Checking**  
-Shuai Wang, **Penghui Wei**, Jiahao Zhao, Wenji Mao  
-arXiv preprint arXiv:2104.13046.  
 
 * **Knowledge Structure driven Prototype Learning and Verification for Fact Checking**  
 Shuai Wang, Wenji Mao, **Penghui Wei**, Daniel Zeng  
