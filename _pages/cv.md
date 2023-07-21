@@ -131,8 +131,8 @@ Washington D.C.
 
 Skills
 ======
-_Programming_ R, Python (Intermediate), SQL (Beginner), HTML/CSS, Stata (Reluctant)
-_Visualization & Markup_ <span class="latex">X<sub><span class=revcap>e</span></sub>L<sup>a</sup>T<sub>e</sub>X</span>, Markdown, Tableau
+_Programming_ R, Python (Intermediate), SQL (Beginner), HTML/CSS, Stata (Reluctant) <br>
+_Visualization & Markup_ <span class="latex">X<sub><span class=revcap>e</span></sub>L<sup>a</sup>T<sub>e</sub>X</span>, Markdown, Tableau <br>
 _Geo-spatial_ QGIS, ArcGIS, Python spatial stack, Google Earth Engine
 
 Talks
