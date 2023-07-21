@@ -8,6 +8,6 @@ redirect_from:
 ---
 
 * E-mail: zhangkeming@usst.edu.cn
-* Website: zhangkmsjtu.github.io
+* Website: zhangkm.link
 
 ![](/images/yinglibo.gif)
