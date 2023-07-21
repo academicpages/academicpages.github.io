@@ -12,4 +12,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/grasse-ea_2021.pdf)
 
-Recommended citation: 'Grasse, Don, **Melissa Pavlik**, Hilary Matfess, and Travis B. Curtice. (2021). &quot;Opportunistic Repression: Patterns of civilian targeting by the state in response to COVID-19.&quot; <i>International Security</i>. 46(2): 130-165.'
+Recommended citation: 'Grasse, Don, <strong>Melissa Pavlik</strong>, Hilary Matfess, and Travis B. Curtice. (2021). &quot;Opportunistic Repression: Patterns of civilian targeting by the state in response to COVID-19.&quot; <i>International Security</i>. 46(2): 130-165.'
