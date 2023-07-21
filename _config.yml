@@ -75,8 +75,8 @@ analytics:
 # Site Author
 author:
   name: "Tim"
-  avatar:
-  bio: "test test test"
+  avatar: "HeadShot.jpg"
+  bio: "Still working on this"
   location: "Baton Rouge"
   employer: "Louisiana State University"
   pubmed:
@@ -90,13 +90,13 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "https://github.com/ttoavs"
+  github: "ttoavs"
   google_plus:
   keybase:
   instagram:
   impactstory:
   lastfm:
-  linkedin: "https://www.linkedin.com/in/ttoavs/"
+  linkedin: "ttoavs"
   orcid:
   pinterest:
   soundcloud:
