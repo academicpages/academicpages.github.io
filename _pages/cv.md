@@ -45,7 +45,7 @@ Grasse, Don and <b><font color="#3e9c70">Melissa Pavlik</font></b>. 2023. “Cli
 * Presented at MPSA (2023), Boston Area Working Group on African Political Economy [BGWAPE] (2023)
 * Draft available upon request
 
-<b><font color="#3e9c70"><b>Pavlik, Melissa</font></b> and Ryan Pike. 2023. “Words of Warcraft: Experimental Evidence of States’ Social Media Frames during the Russia-Ukraine Invasion.” _Working Paper._
+<b><font color="#3e9c70">Pavlik, Melissa</font></b> and Ryan Pike. 2023. “Words of Warcraft: Experimental Evidence of States’ Social Media Frames during the Russia-Ukraine Invasion.” _Working Paper._
 * Presented at MPSA (2023)
 * Pre-analysis plan and draft available upon request
   
