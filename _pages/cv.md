@@ -15,18 +15,15 @@ Education
 ======
 
 **PhD in Political Science**, <font color="#3e9c70"> Yale University </font> (exp. 2026)
-
 New Haven, CT, U.S.
 
 * Fields: Comparative Politics, Quantiative Methodology, International Relations
 * Committee: Elisabeth Wood, Kate Baldwin, Gerard Padro i Miquel, Sarah Bush
 
 **MA in War Studies**, <font color="#3e9c70">King's College London</font> (2018)
-
 London, United Kingdom
 
 **BA in Political Science (Minor in Statistics)**, <font color="#3e9c70">University of Chicago</font> (2016)
-
 Chicago, IL, U.S.
 
 Papers
