@@ -11,22 +11,26 @@ redirect_from:
 
 _Download pdf [here](cv.pdf)_
 
-Education & Academic Positions
+Education
 ======
 
-<b>PhD in Political Science | Exp. 2026 <br>
-<font color="#3e9c70">Yale University</font></b> New Haven, CT, U.S.
+<b>PhD in Political Science, <font color="#3e9c70">Yale University</font> | Exp. 2026<b> <br>
+New Haven, CT, U.S.
+
 * Fields: _Comparative Politics, Quantiative Methodology, International Relations_
 * Committee: _Elisabeth Wood, Kate Baldwin, Gerard Padro i Miquel, Sarah Bush_
 
-<b>Visiting Researcher | Summer 2023<br>
-<font color="#3e9c70">Centre for Housing and Sustainable Development (CHSD), University of Lagos (UNILAG)</font></b> Lagos, Nigeria
+<b>MA in War Studies, <font color="#3e9c70">King's College London</font> | 2018</b> <br>
+London, U.K.
 
-<b>MA in War Studies | 2018 <br>
-<font color="#3e9c70">King's College London</font></b> London, U.K.
+<b>BA in Political Science (Minor in Statistics), <font color="#3e9c70">University of Chicago</font> | 2016<b> <br>
+Chicago, IL, U.S.
 
-<b>BA in Political Science (Minor in Statistics) | 2016 <br>
-<font color="#3e9c70">University of Chicago</font></b> Chicago, IL, U.S.
+Academic positions
+=====
+
+Summer 2023 | <b>Visiting Researcher, Centre for Housing and Sustainable Development (CHSD) at the University of Lagos</b> <br>
+Lagos, Nigeria
 
 Papers
 ======
@@ -186,4 +190,3 @@ _Student coordinator_ Leitner Political Economy Workshop at Yale University (202
 _Peer Reviewer_ International Interactions (2021), Journal of Experimental Political Science (2022)
 
 _Co-organizer_ Yale Political Science Department Skit (2022) [script available upon request [no]]
-
