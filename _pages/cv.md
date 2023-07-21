@@ -155,7 +155,7 @@ Seattle, WA, U.S.
 October 2021 | <b>Yale University's Political Violence & Its Legacies (PVL)</b> <br>
 New Haven, CT
 
-<b>Conflict Dynamics Workshop</b> <br>
+October 2021 | <b>Conflict Dynamics Workshop</b> <br>
 Oxford, U.K.
 
 February 2020 <b>Southern Political Science Association (SPSA)</b> - [DECLINED] <br>
@@ -164,7 +164,7 @@ New Orleans, LA, U.S.
 February 2019 | <b>Commonwealth: Countering the Diversion of Small Arms and Light Weaponry</b> <br>
 Streckney, U.K.
 
-July 2019 | Countering Improvised Explosive Devices (C-IED) Working Group</b> <br>
+July 2019 | <b>Countering Improvised Explosive Devices (C-IED) Working Group</b> <br>
 Nairobi, Kenya
 
 October 2019 | <b>New Methods in Empirical Conflict Research</b> <br>
