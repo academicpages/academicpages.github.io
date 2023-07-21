@@ -76,15 +76,15 @@ analytics:
 
 # Site Author
 author:
-  name: "Your Sidebar Name"
-  avatar: "profile.png"
-  bio: "Your biography for the left-hand sidebar"
-  location: "Location"
+  name: "Tim Toavs"
+  avatar: "HeadShot.jpg"
+  bio:
+  location: "Baton Rouge"
   employer:
-  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar: "http://yourfullgooglescholarurl.com"
-  email:
-  researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed:
+  googlescholar:
+  email: "trtoavs@gmail.com"
+  researchgate:
   uri:
   bitbucket:
   codepen:
@@ -92,20 +92,22 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "academicpages"
+  github: "https://github.com/ttoavs"
+    username: "ttoavs" &github
   google_plus:
   keybase:
   instagram:
-  impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory:
   lastfm:
-  linkedin:
+  linkedin: "https://www.linkedin.com/in/ttoavs/"
+    username: "ttoavs" &linkedin
   orcid:
   pinterest:
   soundcloud:
-  stackoverflow: # http://stackoverflow.com/users/123456/username
+  stackoverflow: 
   steam:
   tumblr:
-  twitter: "replacethistwitterhandle"
+  twitter:
   vine:
   weibo:
   xing:
@@ -245,7 +247,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
