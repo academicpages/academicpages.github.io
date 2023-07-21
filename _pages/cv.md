@@ -13,14 +13,15 @@ _Download pdf [here](cv.pdf)_
 
 Education
 ======
-Year      | Education                                        
---------- | --------------------------------------------------
-2020      | Ph.D. Political Science                          
-          | Yale University, New Haven, CT, U.S.A.          
-2017 - 2018| M.A. War Studies                                
-          | King’s College London, London, U.K.             
-2012 – 2016| B.A. Political Science (Statistics Minor)       
-          | University of Chicago, Chicago, IL, U.S.A.      
+| Year      | Education                                        |
+|-----------|--------------------------------------------------|
+| 2020      | Ph.D. Political Science                          |
+|           | Yale University, New Haven, CT, U.S.A.          |
+| 2017 - 2018 | M.A. War Studies                                |
+|           | King’s College London, London, U.K.             |
+| 2012 – 2016 | B.A. Political Science (Statistics Minor)       |
+|           | University of Chicago, Chicago, IL, U.S.A.      |
+    
 
 
 
