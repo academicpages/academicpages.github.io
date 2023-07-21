@@ -14,7 +14,9 @@ _Download pdf [here](cv.pdf)_
 Education
 ======
 
-PhD in Political Science, Yale University (exp. 2026)
+**PhD in Political Science**, p {
+  color: red;
+}  Yale University {/p} (exp. 2026)
 
 MA in War Studies, King's College London (2018)
 
