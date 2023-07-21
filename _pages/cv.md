@@ -24,9 +24,7 @@ BA in Political Science (Minor in Statistics), University of Chicago (2016)
 
 Papers
 ======
-<ul>{% for post in site.publications %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
+
 
 Ongoing Projects
 =====
