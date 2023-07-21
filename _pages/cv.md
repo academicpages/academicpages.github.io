@@ -11,23 +11,22 @@ redirect_from:
 
 _Download pdf [here](cv.pdf)_
 
-Education
+Education & Academic Positions
 ======
 
-<b>PhD in Political Science, <font color="#3e9c70">Yale University</font> | Exp. 2026<b> <br>
-New Haven, CT, U.S.
-
+<b>PhD in Political Science | Exp. 2026 <br>
+<font color="#3e9c70">Yale University</font></b> New Haven, CT, U.S.
 * Fields: _Comparative Politics, Quantiative Methodology, International Relations_
 * Committee: _Elisabeth Wood, Kate Baldwin, Gerard Padro i Miquel, Sarah Bush_
 
-<b>Visiting Researcher, Centre for Housing and Sustainable Development (CHSD) at the University of Lagos | Summer 2023</b> <br>
-Lagos, Nigeria
+<b>Visiting Researcher | Summer 2023<br>
+<font color="#3e9c70">Centre for Housing and Sustainable Development (CHSD), University of Lagos (UNILAG)</font></b> Lagos, Nigeria
 
-<b>MA in War Studies, <font color="#3e9c70">King's College London</font> | 2018</b> <br>
-London, U.K.
+<b>MA in War Studies | 2018 <br>
+<font color="#3e9c70">King's College London</font></b> London, U.K.
 
-<b>BA in Political Science (Minor in Statistics), <font color="#3e9c70">University of Chicago</font> | 2016<b> <br>
-Chicago, IL, U.S.
+<b>BA in Political Science (Minor in Statistics) | 2016 <br>
+<font color="#3e9c70">University of Chicago</font></b> Chicago, IL, U.S.
 
 Papers
 ======
