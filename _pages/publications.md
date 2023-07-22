@@ -12,6 +12,11 @@ You can find the replication files on [my OSF profile](https://osf.io/8sgp9).
 
 Peer reviewed journal articles
 ======
+
+Tisch, Daria, [Emma Ischinsky](https://www.mpifg.de/person/114263/2721) (2023): Top wealth and its historical origins: Identifying entrenched fortunes by linking rich lists over 100 years. Socius: Sociological Research for a Dynamic World (Accepted).
+
+[Emma Ischinsky](https://www.mpifg.de/person/114263/2721), Daria Tisch (2023): Women in the Global Super Rich. An analysis of the Forbes World’s Billionaires List, 2010 - 2023. Australian Feminist Studies (Conditionally accepted).
+
 Schechtl, Manuel, Daria Tisch (2023): Tax Principles, Policy Feedback, and Self-Interest: Cross-National Experimental Evidence on Wealth Tax Preferences. Socio-Economic Review [doi.org/10.1093/ser/mwac071](https://doi.org/10.1093/ser/mwac071)
 
 
@@ -67,13 +72,11 @@ Work in progress
 [Schechtl, Manuel](https://schechtl.github.io/), Daria Tisch, [Nhat An Trinh](https://natrinh.github.io/): The Dynastic Principle of
 Wealth Reproduction
 
-[Nutz, Theresa](https://theresanutz.github.io/), [Kapelle, Nicole](https://nkapelle.github.io/) & Daria Tisch: Gendered pathways to wealth: The self-assessed relevance of different accumulation channels across the wealth distribution
+[Nutz, Theresa](https://theresanutz.github.io/), [Kapelle, Nicole](https://nkapelle.github.io/) & Daria Tisch: Gendered pathways to wealth: The self-assessed relevance of different accumulation channels across the wealth distribution. Under review.
 
 Tisch, Daria, [Franziska Pradel](https://www.hfp.tum.de/digitalgovernance/team/dr-franziska-pradel-sinaci/): How can the social sciences benefit from knowledge graphs? A case study on using Wikidata and Wikipedia to examine the world’s billionaires. [Under Open Review](https://www.semantic-web-journal.net/system/files/swj3370.pdf)
 
-Tisch, Daria, [Manuel Schechtl](https://schechtl.github.io/): [Gender differences in parental wealth transfers](https://dariatisch.github.io/presentation_ifb). Evidence from inheritance and gift tax data
-
-[Emma Ischinsky](https://www.mpifg.de/person/114263/2721), Daria Tisch: Women in the Global Super Rich. An analysis of the Forbes World’s Billionaires List, 2010 - 2022
+Tisch, Daria, [Manuel Schechtl](https://schechtl.github.io/): [Gender differences in parental wealth transfers](https://dariatisch.github.io/presentation_ifb). Evidence from inheritance and gift tax data. Under review.
 
 [Lillie, Karen](https://www.karenlillie.org/), Charlotte de Alwis & Daria Tisch: Elite education and the super-rich
 
