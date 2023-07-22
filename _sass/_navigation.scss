@@ -197,7 +197,7 @@
     border: 0;
     outline: none;
     background-color: $primary-color;
-    color: #fff;
+    color: #f60909;
     cursor: pointer;
   }
 
@@ -405,7 +405,7 @@
     border-bottom: 1px solid $border-color;
 
     &:hover {
-      color: #000;
+      color: #f30e0e;
       background: $lighter-gray;
     }
   }

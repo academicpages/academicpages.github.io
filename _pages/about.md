@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Where I will include a section that explain all about myself.
+Hello! I am a Data Scientists currently finishing up my PhD at Lousiana State University. At LSU I work in the Transboundry Aquatic and Coastal Ecology Lab where I am focused on macro-scale patterns of CO$_2$ in US Flowing Freshwaters.
