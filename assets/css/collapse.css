@@ -6,7 +6,7 @@
     width:100%;
 }
 .container .header {
-    background-color:#d3d3d3;
+    background-color:#e50b0b;
     padding: 2px;
     cursor: pointer;
     font-weight: bold;
@@ -14,3 +14,4 @@
 .container .content {
     display: none;
     padding : 5px;
+}
