@@ -10,7 +10,7 @@ redirect_from:
 
 Chen is currently pursuing a Master's degree in Computer Science at Virginia Tech, with a research focus on NLP and computer vision. His research interests are machine learning, deep learning, and computer vision. He has extensive experience in multimodal learning, knowledge graph construction, and pre-trained language models. Specifically, his MS research project centers on developing techniques for multimodal knowledge representation and hypothesis generation from heterogeneous multimedia sources. Prior to his graduate studies, Chen earned a Bachelor's degree in engineering from National Changhua University of Education.  
 
-(Last update: 6/9/2023)  
+(Last update: 7/22/2023)  
 
 Education
 =========
@@ -36,5 +36,5 @@ Skills
 ======
 
 - Language: Python, C/C++, Java, JavaScript, HTML, CSS, PHP
-- Scientific Packages: scikit-learn, Pytorch, Tensorflow, OpenCV  
+- Scientific Packages: scikit-learn, Pytorch, Tensorflow, Hugging face, OpenCV  
 - Platform: AWS
