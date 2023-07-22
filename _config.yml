@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Filippo Fiocchi "
   avatar           : "Profile.jpg"
-  bio              : "Master student and Senior Allievo"
-  location         : "Turin, Italy"
-  employer         : "Collegio Carlo Alberto"
+  bio              : "Ph.D. student"
+  location         : "Ithaca, New York, US"
+  employer         : "Cornell University"
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "filippo.fiocchi@carloalberto.org"
+  email            : "ff257@cornell.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
