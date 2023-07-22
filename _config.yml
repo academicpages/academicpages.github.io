@@ -86,35 +86,35 @@ author:
   location         : "Copenhagen, Denmark"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=stefania+serafin"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  googlescholar    : "https://scholar.google.com/citations?user=OPdehucAAAAJ&hl=en&oi=ao"
+  email            :"sts@create.aau.dk"
+  researchgate     : "https://www.researchgate.net/profile/Stefania-Serafin"
+  uri              :"https://vbn.aau.dk/da/persons/107881"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "stefasera"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        :stefasera
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :"stefaniaserafin"
+  orcid            : "http://orcid.org/0000-0001-6971-1132"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "stefasera"
   vine             :
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        :"https://en.wikipedia.org/wiki/Stefania_Serafin"
 
 
 # Reading Files
