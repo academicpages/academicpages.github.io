@@ -1,6 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
+title: "Tutorial"
+permalink: /tutorial/
+author_profile: true
 title: "Tutorial: Explainable Information Retrieval"
 event: SIGIR 2023
 event_url: "https://sigir.org/sigir2023/"
