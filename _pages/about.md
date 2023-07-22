@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am Professorin  Sonic interaction design at Aalborg University in Copenhagen and the leader of the multi-sensory experience lab together with Rolf Nordahl.
+I am Professor in  Sonic interaction design at Aalborg University in Copenhagen and the leader of the Multisensory Experience Lab together with Rolf Nordahl.
 
-She is the President of the Sound and Music Computing association, Project Leader of the Nordic Sound and Music Computing network and lead of the Sound and music computing Master at Aalborg University.
+I am the President of the Sound and Music Computing association, Project Leader of the Nordic Sound and Music Computing network and lead of the Sound and music computing Master at Aalborg University.
 
-Stefania received her PhD entitled “The sound of friction: computer models, playability and musical applications” from Stanford University in 2004, supervised by Professor Julius Smith III.
+I received my PhD entitled “The sound of friction: computer models, playability and musical applications” from Stanford University in 2004, supervised by Professor Julius Smith III.
 
-Her research on sonic interaction design, sound for virtual and augmented reality with applications in health and culture can be found here: tinyurl.com/35wjk3jn
+I research and teach on sonic interaction design, sound for virtual and augmented reality , multimodal interaction and applications in health and culture.
