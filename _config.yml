@@ -11,9 +11,9 @@ title: "Tim Toavs - Data Scientist"
 title_separator: "-"
 name: &name "Tim Toavs"
 description: &description "personal description"
-url: https://ttoavs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "ttoavs.github.io"
+repository: ""
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid:
     num_posts: # 5 (default)
-    colorscheme: # "light" (default), "dark"
+    colorscheme: "dark" # "light" (default), "dark"
 staticman:
   allowedFields: ["name", "email", "url", "message"]
   branch: "gh-pages" # "master", "gh-pages"
