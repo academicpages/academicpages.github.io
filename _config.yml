@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Stefania Serafin, Professor"
 title_separator          : "-"
 name                     : &name "Stefania Serafin"
-description              : &description "Associate Professor of Sonic and Embodied Interaction"
-url                      : https://cerkut.github.io 
+description              : &description "Professor in Sonic Interaction Design"
+url                      : https://stefaniaserafin.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cerkut/cerkut.github.io"
+repository               : "stefaniaserafin/stefaniaserafin.github.io"
 teaser                   : "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &cerkut1
+  username               : &stefasera
 facebook:
-  username               : cumhur.erkut
+  username               : stefasera
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -82,37 +82,30 @@ analytics:
 author:
   name             : "Stefania Serafin, Professor"
   avatar           : "profile.jpeg"
-  bio              : "I work on sonic ."
+  bio              : "I work on sonic interactions for virtual, augmented and extended realities with applications in health and culture."
   location         : "Copenhagen, Denmark"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=cumhur+erkut"
-  googlescholar    : "https://scholar.google.dk/citations?user=NPYFs5EAAAAJ&hl=en"
-  email            : "cer@create.aau.dk"
-  researchgate     : "https://www.researchgate.net/profile/Cumhur-Erkut" 
-  uri              : "https://vbn.aau.dk/en/persons/130223"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=stefania+serafin"
+  googlescholar    : "https://scholar.google.com/citations?user=OPdehucAAAAJ&hl=en&oi=ao"
+  email            : "sts@create.aau.dk"
+  researchgate     : "https://www.researchgate.net/profile/Stefania-Serafin" 
+  uri              : "https://vbn.aau.dk/en/persons/107881"
   bitbucket        :
-  codepen          : "cerkut"
   dribbble         :
   flickr           :
-  facebook         : "cumhur.erkut"
+  facebook         : "stefasera"
   foursquare       :
-  github           : "cerkut"
-  google_plus      : "cerkut"
+  github           : "stefasera"
   keybase          :
-  instagram        : cerkut_dsmc
+  instagram        : stefasera
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           : "cerkut"
-  linkedin         : "cerkut"
+   linkedin         : "stefaniaserafin"
   orcid            : "http://orcid.org/0000-0003-0750-1919"
   pinterest        : 
-  soundcloud       : "cerkut"
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "cerkut1"
+  twitter          : "stefasera"
   vine             :
   weibo            :
   xing             : 
-  youtube          : "cerkut"
+  youtube          : ""
   wikipedia        :
 
 
